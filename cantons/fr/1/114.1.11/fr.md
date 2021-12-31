@@ -4,13 +4,13 @@ number: "114.1.11"
 title: Règlement sur le droit de cité fribourgeois
 short: RDCF
 language: fr
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-12-10
+version: 2022-01-01
+valid_until: 2022-11-30
+version_adopted: 2021-11-03
 adopted: 2018-03-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5850/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6959/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droit de cité fribourgeois – R
 
 (RDCF)
 
-du 19.03.2018 (version entrée en vigueur le 01.01.2019)
+du 19.03.2018 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -53,12 +53,12 @@ Arrête:
 - d) si la preuve de ses compétences linguistiques n'est pas réputée fournie conformément à l'article 6 al. 2 OLN:
   - 1\. une attestation officielle relative à ses compétences linguistiques (p. ex: examens de langue répondant aux critères internationaux de l'«Association of Language Testers in Europe ALTE» tels que FIDE) au sens de l'article 6 al. 1 OLN;
   - 2\. le cas échéant, une attestation d'analphabétisme ou d'illettrisme au sens de l'article 6 du présent règlement;
-- e) un certificat de domicile délivré par la commune;
+- e) une attestation de domicile délivrée par la commune, indiquant la date de domiciliation dans la commune;
 - f) une attestation de ses séjours en Suisse délivrée par les autorités migratoires compétentes;
 - g) un extrait original récent de l'office des poursuites de ses lieux de domicile pour les cinq années précédant le dépôt de la demande;
 - h) un avis de taxation de la dernière période fiscale; si un tel avis n'est pas disponible, une attestation du Service cantonal des contributions peut suffire, notamment pour les personnes récemment assujetties à l'impôt;
 - i) une copie de son autorisation d'établissement et de son passeport ou de sa carte d'identité;
-- j) si possible, un extrait du casier judiciaire ou d'un document équivalent émanant des autorités compétentes de son pays d'origine ou des pays dans lesquels elle a précédemment vécu;
+- j) si possible, un extrait du casier judiciaire ou un document équivalent émanant des autorités compétentes de son pays d'origine ou des pays dans lesquels elle a précédemment vécu;
 - k) pour la personne ayant été scolarisée en Suisse, une copie de ses bulletins scolaires, ou une copie d'attestations de scolarité ou d'études délivrées par l'autorité compétente;
 - l) un curriculum vitæ.
 
@@ -131,13 +131,27 @@ Arrête:
 
 <sup>3</sup> Si la personne requérante se marie ou conclut un partenariat en cours de procédure, le rapport d'enquête doit être complété au sens de l'article 8 al. 2 let. f LDCF.
 
+#### Art. 8a
+
+**Rapport d'enquête (art. 34 LN; art. 15 LDCF) – Entretien individuel**
+
+<sup>1</sup> Le rapport d'enquête est établi sur la base d'un entretien individuel avec les personnes requérant la naturalisation.
+
+<sup>2</sup> Le Service peut procéder aux entretiens individuels en recourant à un système de vidéoconférence si:
+
+- a) la sécurité des données et des communications est garantie;
+- b) la force probatoire de l'opération est assurée de manière appropriée;
+- c) la personne requérante a donné son accord.
+
+<sup>3</sup> Si l'entretien est filmé et enregistré sur un support numérique, l'enregistrement est détruit dans l'année suivant la clôture de la procédure.
+
 #### Art. 9
 
 **Rapport d'enquête (art. 34 LN; art. 15 LDCF) – Entretien individuel avec les enfants de plus de 12 ans (art. 30 LN; art. 17 al. 4 et 19 al. 4 OLN)**
 
 <sup>1</sup> Le Service examine si les conditions et critères d'intégration d'un ou d'une enfant de plus de 12 ans sont remplis, en réalisant un entretien en principe individuel. Les modalités de l'entretien sont adaptées à l'âge et au degré de maturité de l'enfant.
 
-<sup>2</sup> L'entretien avec l'enfant est filmé et enregistré sur un support numérique. L'enregistrement est détruit dans l'année suivant la clôture de la procédure.
+<sup>2</sup> L'entretien avec l'enfant peut-être filmé et enregistré sur un support numérique. L'enregistrement est détruit dans l'année suivant la clôture de la procédure.
 
 #### Art. 10
 
@@ -221,9 +235,7 @@ Arrête:
 
 #### Art. 15
 
-**Audition par la Commission des naturalisations du Grand Conseil (art. 20 al. 1 et 42 al. 4 LDCF)**
-
-<sup>1</sup> La Commission des naturalisations du Grand Conseil peut renoncer à l'audition de la personne requérante lorsque le procès-verbal d'audition de l'autorité communale révèle une intégration parfaitement aboutie.
+**…**
 
 #### Art. 16
 
@@ -275,8 +287,8 @@ Arrête:
 
 - a) l'identité;
 - b) la nationalité;
-- c) le domicile;
-- d) la date et le lieu de naissance;
+- c) la commune de domicile;
+- d) la date de naissance et le pays dans lequel la personne est née;
 - e) l'état civil;
 - f) le droit de cité communal;
 - g) les personnes comprises dans le dossier de naturalisation.
@@ -351,23 +363,23 @@ Arrête:
 
 #### Art. A1-1
 
-<sup>1</sup> En application de l'article 16 RDCF, les émoluments à percevoir en application de la loi sur le droit de cité fribourgeois sont fixés comme il suit:
+<sup>1</sup> Les émoluments à percevoir en application de la loi sur le droit de cité fribourgeois sont fixés comme il suit:
 
 - a) Naturalisation ordinaire des personnes étrangères et confédérées
   - 1\. Dépôt de la requête, examen préalable et constitution du dossier: Fr. 100 à 250
   - 2\. Décision d'irrecevabilité: Fr. 50
   - 3\. Décision de non-entrée en matière: Fr. 80 à 150
-  - 4\. Etablissement du rapport d'enquête: Fr. 150 à 250
-  - 5\. Enquête complémentaire: Fr. 50 à 200
-  - 6\. Contrôle des données d'état civil: Fr. 50 à 150
-  - 7\. Transmission du dossier à la commune: Fr. 50 à 100
+  - 4\. Etablissement du rapport d'enquête: Fr. 150 à 200 par personne
+  - 5\. Enquête complémentaire: Fr. 50 à 200 par personne
+  - 6\. Contrôle des données d'état civil, conformément à l'annexe 2, chiffre 8 OEEC: Fr. 75 par demi-heure
+  - 7\. Transmission du dossier à la commune: Fr. 60
   - 8\. Préavis cantonal et transmission du dossier au Secrétariat d'Etat aux migrations: Fr. 100 à 200
   - 9\. Projet de décret et travaux y relatifs, constitution du dossier en vue de sa transmission au Conseil d'Etat et à la Commission des naturalisations du Grand Conseil: Fr. 50
-  - 10\. Examen du dossier et audition par la Commission des naturalisations du Grand Conseil: Fr. 100 à 200
-  - 11\. Bouclement de la procédure de naturalisation, enregistrement dans le registre Infostar, délivrance de l'acte de naturalisation: Fr. 80 à 100
-  - 12\. Forfait de base pour envois postaux, téléphones, fax, non-présentation sans avis préalable à une convocation, etc.: Fr. 20 à 50
+  - 10\. Examen du dossier par la Commission des naturalisations du Grand Conseil: Fr. 100 à 200 par personne
+  - 11\. Bouclement de la procédure de naturalisation, enregistrement dans le registre Infostar, délivrance de l'acte de naturalisation: Fr. 100
+  - 12\. Forfait de base pour envois postaux, téléphones, fax, non-présentation sans avis préalable à une convocation, etc.: Fr. 30
   - 13\. Cours d'instruction civique organisé par le Service des affaires institutionnelles, des naturalisations et de l'état civil: Fr. 30 à 50
-  - 14\. Audition, établissement de faits particuliers, analyse juridique particulière: Fr. 150/heure
+  - 14\. Audition, établissement de faits particuliers, analyse juridique particulière: Fr. 150 par heure entamée
 - b) Réintégration de personnes confédérées dans le droit de cité fribourgeois: Fr. 100 à 200
 - c) Libération du droit de cité fribourgeois liée à celle de la nationalité suisse: Fr. 100 à 250
 - d) Libération du droit de cité fribourgeois pour une personne confédérée: Fr. 50 à 100
@@ -376,6 +388,6 @@ Arrête:
   - 1\. Etablissement d'une attestation de nationalité, de naturalisation en cours de procédure, etc.: Fr. 10 à 25
   - 2\. Délivrance de copies certifiées conformes et d'extraits de procès-verbaux: Fr. 3 à 5
   - 3\. Photocopie, par page de format A4: Fr. 0.50
-  - 4\. Démarches entreprises par le Service des affaires institutionnelles, des naturalisations et de l'état civil en faveur de personnes et avis de droit: Fr. 150/heure
+  - 4\. Démarches entreprises par le Service des affaires institutionnelles, des naturalisations et de l'état civil en faveur de personnes et avis de droit: Fr. 150 par heure entamée
 
 2018\_018

@@ -4,13 +4,13 @@ number: "114.1.11"
 title: Reglement über das freiburgische Bürgerrecht
 short: BRR
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-12-10
+version: 2022-01-01
+valid_until: 2022-11-30
+version_adopted: 2021-11-03
 adopted: 2018-03-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5850/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6959/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Freiburgisches Bürgerrecht – R
 
 (BRR)
 
-vom 19.03.2018 (Fassung in Kraft getreten am 01.01.2019)
+vom 19.03.2018 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -53,12 +53,12 @@ beschliesst:
 - d) wenn der Nachweis für die Sprachkompetenzen nicht als erbracht im Sinne von Artikel 6 Abs. 2 BüV gilt:
   - 1\. einen offiziellen Sprachnachweis (z. B. Sprachtests, welche die internationalen Kriterien der «Association of Language Testers in Europe ALTE» erfüllen, wie FIDE) im Sinne von Artikel 6 Abs. 1 BüV;
   - 2\. gegebenenfalls eine Bescheinigung eines Analphabetismus oder Illettrismus im Sinne von Artikel 6 dieses Reglements;
-- e) eine Wohnsitzbestätigung der Gemeinde;
+- e) eine Wohnsitzbestätigung der Gemeinde, auf der das Datum der Niederlassung in der Gemeinde angegeben ist;
 - f) eine Bescheinigung der zuständigen Migrationsbehörden über ihre Aufenthalte in der Schweiz;
 - g) einen aktuellen Originalauszug aus dem Betreibungsregister ihres Wohnorts für die fünf Jahre vor der Einreichung des Gesuchs;
 - h) die Veranlagungsanzeige der letzten Steuerperiode; ist keine solche Veranlagungsanzeige verfügbar, so reicht ein Beleg der Kantonalen Steuerverwaltung aus, namentlich bei Personen, die erst seit Kurzem steuerpflichtig sind;
 - i) eine Kopie ihrer Niederlassungsbewilligung und ihres Passes oder ihrer Identitätskarte;
-- j) wenn möglich einen Auszug aus dem Strafregister oder aus einem gleichwertigen Dokument der zuständigen Behörden ihres Herkunftslands oder der Länder, in denen sie vorher gelebt hat;
+- j) wenn möglich einen Auszug aus dem Strafregister oder ein gleichwertiges Dokument der zuständigen Behörden ihres Herkunftslands oder der Länder, in denen sie vorher gelebt hat;
 - k) für Personen, die in der Schweiz zur Schule gingen, eine Kopie ihrer Schulzeugnisse oder eine Kopie der Schulbesuchs- oder Studienbestätigungen der zuständigen Behörde;
 - l) den Lebenslauf.
 
@@ -131,13 +131,27 @@ beschliesst:
 
 <sup>3</sup> Falls die Bewerberin oder der Bewerber während des laufenden Verfahrens heiratet oder eine eingetragene Partnerschaft eingeht, muss der Erhebungsbericht im Sinne von Artikel 8 Abs. 2 Bst. f BRG ergänzt werden.
 
+#### Art. 8a
+
+**Erhebungsbericht (Art. 34 BüG;Art. 15 BRG) – Individuelles Gespräch**
+
+<sup>1</sup> Der Erhebungsbericht wird aufgrund eines individuellen Gesprächs mit den Bewerberinnen und Bewerbern erstellt.
+
+<sup>2</sup> Das Amt kann die individuellen Gespräche anhand eines Videokonferenzsystems durchführen, wenn:
+
+- a) die Sicherheit der Daten und der Kommunikationen gewährleistet ist;
+- b) die Beweiskraft der Handlung angemessen sichergestellt wird;
+- c) die Bewerberin oder der Bewerber ihr oder sein Einverständnis gegeben hat.
+
+<sup>3</sup> Wird das Gespräch gefilmt und digital gespeichert, so wird die Aufnahme innerhalb eines Jahres nach Abschluss des Verfahrens vernichtet.
+
 #### Art. 9
 
 **Erhebungsbericht (Art. 34 BüG; Art. 15 BRG) – Individuelles Gespräch mit Kindern über 12 Jahren (Art. 30 BüG; Art. 17 Abs. 4 und 19 Abs. 4 BüV)**
 
 <sup>1</sup> Das Amt prüft, ob die Integrationsvoraussetzungen und ‑kriterien eines über zwölfjährigen Kindes erfüllt sind, indem es mit ihm grundsätzlich ein individuelles Gespräch führt. Die Modalitäten des Gesprächs werden an das Alter und die Reife des Kindes angepasst.
 
-<sup>2</sup> Das Gespräch mit dem Kind wird gefilmt und digital gespeichert. Die Aufnahme wird innerhalb eines Jahres nach Abschluss des Verfahrens vernichtet.
+<sup>2</sup> Das Gespräch mit dem Kind kann gefilmt und digital gespeichert werden. Die Aufnahme wird innerhalb eines Jahres nach Abschluss des Verfahrens vernichtet.
 
 #### Art. 10
 
@@ -221,9 +235,7 @@ beschliesst:
 
 #### Art. 15
 
-**Anhörung durch die Einbürgerungskommission des Grossen Rates (Art. 20 Abs. 1 und 42 Abs. 4 BRG)**
-
-<sup>1</sup> Die Einbürgerungskommission des Grossen Rates kann darauf verzichten, die Bewerberin oder den Bewerber anzuhören, wenn aus dem Protokoll der Anhörung durch die Gemeindebehörden hervorgeht, dass sie oder er vollkommen integriert ist.
+**…**
 
 #### Art. 16
 
@@ -275,8 +287,8 @@ beschliesst:
 
 - a) die Personalien;
 - b) die Staatsangehörigkeit;
-- c) den Wohnsitz;
-- d) das Geburtsdatum und den Geburtsort;
+- c) die Wohnsitzgemeinde;
+- d) das Geburtsdatum und das Land, in dem die Bewerberin oder der Bewerber geboren wurde;
 - e) den Zivilstand;
 - f) das Gemeindebürgerrecht;
 - g) die Namen der in das Einbürgerungsgesuch einbezogenen Personen.
@@ -351,23 +363,23 @@ beschliesst:
 
 #### Art. A1-1
 
-<sup>1</sup> Gemäss Artikel 16 BRR werden in Anwendung des Gesetzes über das freiburgische Bürgerrecht folgende Verwaltungsgebühren erhoben:
+<sup>1</sup> In Anwendung des Gesetzes über das freiburgische Bürgerrecht werden folgende Verwaltungsgebühren erhoben:
 
 - a) Ordentliche Einbürgerung von Ausländerinnen und Ausländern und Schweizerinnen und Schweizern
   - 1\. Einreichung des Gesuchs, Vorprüfung und Erstellung des Dossiers: Fr. 100–250
   - 2\. Unzulässigkeitsentscheid: Fr. 50
   - 3\. Nichteintretensentscheid: Fr. 80–150
-  - 4\. Erstellung des Erhebungsberichts: Fr. 150–250
-  - 5\. Zusätzliche Erhebung: Fr. 50–200
-  - 6\. Überprüfung der Zivilstandsangaben: Fr. 50–150
-  - 7\. Überweisung des Dossiers an die Gemeinde: Fr. 50–100
+  - 4\. Erstellung des Erhebungsberichts: Fr. 150–200 pro Person
+  - 5\. Zusätzliche Erhebung: Fr. 50–200 pro Person
+  - 6\. Überprüfung der Zivilstandsangaben im Sinne von Anhang 2 Ziff. 8 ZStGV: Fr. 75 pro halbe Stunde
+  - 7\. Überweisung des Dossiers an die Gemeinde: Fr. 60
   - 8\. Stellungnahme des Kantons und Überweisung des Dossiers an das Staatssekretariat für Migration: Fr. 100–200
   - 9\. Dekretsentwurf und damit verbundene Arbeiten, Erstellung des Dossiers für die Überweisung an den Staatsrat und an die Einbürgerungskommission des Grossen Rates: Fr. 50
-  - 10\. Prüfung des Dossiers und Anhörung durch die Einbürgerungskommission des Grossen Rates: Fr. 100–200
-  - 11\. Abschluss des Einbürgerungsverfahrens, Registrierung in der Datenbank Infostar, Ausstellung des Einbürgerungsdokuments: Fr. 80–100
-  - 12\. Pauschalbetrag für Postsendungen, Telefonanrufe, Faxe, Nichterscheinen auf eine Vorladung ohne vorgängige Benachrichtigung usw.: Fr. 20–50
+  - 10\. Prüfung des Dossiers durch die Einbürgerungskommission des Grossen Rates: Fr. 100–200 pro Person
+  - 11\. Abschluss des Einbürgerungsverfahrens, Registrierung in der Datenbank Infostar, Ausstellung des Einbürgerungsdokuments: Fr. 100
+  - 12\. Pauschalbetrag für Postsendungen, Telefonanrufe, Telefaxe, Nichterscheinen auf eine Vorladung ohne vorgängige Benachrichtigung usw.: Fr. 30
   - 13\. vom Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen durchgeführter Staatskundekurs: Fr. 30–50
-  - 14\. Anhörung, Feststellung eines besonderen Sachverhalts, besondere juristische Analyse: Fr. 150/Stunde
+  - 14\. Anhörung, Feststellung eines besonderen Sachverhalts, besondere juristische Analyse: Fr. 150 pro angebrochene Stunde
 - b) Wiederaufnahme von Schweizerinnen und Schweizern in das freiburgische Bürgerrecht: Fr. 100–200
 - c) Entlassung aus dem freiburgischen Bürgerrecht in Verbindung mit der Entlassung aus dem Schweizer Bürgerrecht: Fr. 100–250
 - d) Entlassung von Schweizerinnen und Schweizern aus dem freiburgischen Bürgerrecht: Fr. 50–100
@@ -376,6 +388,6 @@ beschliesst:
   - 1\. Ausstellung einer Bestätigung des Bürgerrechts, einer Bestätigung über eine laufende Einbürgerung usw.: Fr. 10–25
   - 2\. Ausfertigung von beglaubigten Abschriften und von Auszügen aus dem Protokoll: Fr. 3–5
   - 3\. Fotokopie, pro A4-Seite: Fr. 0.50
-  - 4\. Massnahmen des Amts für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen zugunsten von Privaten und Rechtsgutachten: Fr. 150/Stunde
+  - 4\. Massnahmen des Amts für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen zugunsten von Privaten und Rechtsgutachten: Fr. 150 pro angebrochene Stunde
 
 2018\_018
