@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20210101/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -61,9 +61,11 @@ Sont réputées nouvelles installations:
 - a. pour les installations hydroélectriques, les installations qui utilisent un potentiel hydraulique pour la première fois;
 - b. pour les autres technologies, les installations qui sont construites à un emplacement pour la première fois.
 
-<sup>2</sup> Est aussi réputée nouvelle installation une installation qui remplace complètement une installation existante.
+<sup>2</sup> Est aussi réputée nouvelle installation une installation qui remplace complètement une installation existante. Cette définition ne s’applique pas aux installations hydroélectriques.[^3-1]
 
 <sup>3</sup> L’organe d’exécution décide s’il s’agit ou non d’une nouvelle installation en accord avec l’Office fédéral de l’énergie (OFEN).
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 #### Art. 4
 
@@ -179,9 +181,16 @@ Seules les grandes installations photovoltaïques peuvent participer au système
 
 <sup>1</sup> Le prix de marché de référence pour l’électricité issue d’installations photovoltaïques correspond à la moyenne des prix qui sont fixés en un trimestre sur la bourse de l’électricité *day-ahead* pour le marché suisse, pondérés en fonction de l’injection effective au quart d’heure des installations photovoltaïques avec mesure de la courbe de charge.
 
-<sup>2</sup> Le prix de marché de référence pour l’électricité issue des autres technologies correspond à la moyenne des prix qui sont fixés en un trimestre sur la bourse de l’électricité *day-ahead* pour le marché suisse.
+<sup>2</sup>
+
+Le prix de marché de référence pour l’électricité issue des autres technologies correspond à la moyenne des prix qui sont fixés durant la période ci-après sur la bourse de l’électricité *day-ahead* pour le marché suisse:
+
+- a. pour les installations avec mesure de la courbe de charge: un mois;
+- b. pour les installations sans mesure de la courbe de charge: un trimestre.[^15-1]
 
 <sup>3</sup> L’OFEN calcule et publie les prix de marché de référence chaque trimestre.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 #### Art. 16
 
@@ -475,6 +484,8 @@ L’agrandissement ou la rénovation d’une installation est réputé notable l
 
 <sup>1</sup> La rétribution unique se compose d’une contribution de base et d’une contribution liée à la puissance.
 
+<sup>1bis</sup> Pour les installations intégrées qui présentent un angle d’inclinaison d’au moins 75 degrés et qui ont été mises en service à compter du 1<sup>er</sup> janvier 2022, la contribution liée à la puissance est augmentée d’un bonus.[^38-1]
+
 <sup>2</sup> Les taux sont fixés à l’annexe 2.1. Le Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC) les contrôle chaque année. En cas de modification substantielle des conditions, il propose au Conseil fédéral de les adapter.
 
 <sup>3</sup> Pour les grandes installations photovoltaïques mises en service après le 1<sup>er</sup> janvier 2013, les taux pour les installations ajoutées et les installations isolées s’appliquent, même si ces installations appartiennent à la catégorie des installations intégrées.
@@ -484,6 +495,8 @@ L’agrandissement ou la rénovation d’une installation est réputé notable l
 <sup>5</sup> Si une installation est agrandie avant l’obtention de la rétribution unique, la contribution de base est versée pour la partie de l’installation qui est mise en service en premier et la contribution liée à la puissance en fonction de la date de mise en service des différentes parties de l’installation.
 
 <sup>6</sup> Si une installation se compose de plusieurs champs de modules appartenant à diverses catégories aux termes de l’art. 6, la contribution de base se calcule selon la moyenne des taux pondérée en fonction de la puissance et la contribution liée à la puissance en fonction de la part de puissance par catégorie.
+
+[^38-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### Section 2 Ordre de prise en compte et liste d’attente
 
@@ -1244,7 +1257,11 @@ S’il résulte d’une vérification ou d’un contrôle qu’un bénéficiaire
 
 [^96-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-## Chapitre 8 Évaluation, publication, renseignements, communication de données à l’Administration fédérale des douanes, contrôle et mesures
+## Chapitre 8 Évaluation, publication, renseignements, communication de données à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)****, contrôle et mesures
+
+[^chap8-1]
+
+[^chap8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 97
 
@@ -1323,9 +1340,9 @@ Les cantons et les communes traitent les données reçues de manière confidenti
 
 #### Art. 100
 
-**Communication de données à l’Administration fédérale des douanes**
+**Communication de données à l’OFDF**
 
-Pour l’exécution de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^100-1], l’OFEN communique à l’Administration fédérale des douanes les données ci-après relatives aux exploitants d’installation qui produisent de l’électricité à partir de biomasse:
+Pour l’exécution de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^100-1], l’OFEN communique à l’OFDF les données ci-après relatives aux exploitants d’installation qui produisent de l’électricité à partir de biomasse:
 
 - a. nom et adresse des personnes physiques et des associations de personnes, ou raison de commerce et siège des personnes morales;
 - b. indications sur le genre, la quantité et la provenance des matières premières biogènes;
@@ -1410,6 +1427,14 @@ Les projets et les installations qui ont déjà été annoncés pour la rétribu
 
 <sup>2</sup> Les ayants droit peuvent faire usage du droit de vendre l’électricité au prix de revient dans le cadre de l’approvisionnement de base (art. 31, al. 3, LEne) pour la première fois pour l’année 2018 et pour la dernière fois pour l’année 2022.
 
+#### Art. 108a
+
+**Disposition transitoire relative à la modification du 24 novembre 2021**[^108a-1]
+
+Les installations existantes qui ont été ou seront complètement remplacées et qui ont reçu avant le 1<sup>er</sup> janvier 2022 une décision positive concernant la participation au système de rétribution de l’injection ou une garantie de principe concernant une contribution d’investissement, continuent d’être considérées comme de nouvelles installations.
+
+[^108a-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+
 #### Art. 109
 
 **Entrée en vigueur**
@@ -1467,7 +1492,7 @@ Annexe 1.1*[^t-1]*
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/image/image1.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -1820,7 +1845,7 @@ Annexe 1.4*[^t-4]*
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/image/image2.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -1944,7 +1969,7 @@ Annexe 1.5*[^t-5]*
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/image/image3.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -1957,7 +1982,7 @@ Annexe 1.5*[^t-5]*
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/fr/xml/image/image4.png)
 
 - b.
 
@@ -2122,7 +2147,7 @@ Annexe 2.1*[^t-6]*
 
 ## Rétribution unique allouée pour les installations photovoltaïques
 
-[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 23 oct. 2019 ([RO 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) et du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) et du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Définition des installations
 
@@ -2133,11 +2158,11 @@ Annexe 2.1*[^t-6]*
 - 2\.1 Les taux suivants s’appliquent pour les installations intégrées mises en service à partir du 1<sup>er</sup> janvier 2013:
 
 <table>
-<tr><td></td><td>Classe de puissance</td><td colspan="10">Mise en service</td></tr>
-<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>à partir du 1.4.2021</td></tr>
-<tr><td>Contribution de base (CHF)</td><td></td><td>2000</td><td>1800</td><td>1800</td><td>1800</td><td>1800</td><td>1600</td><td>1600</td><td>1550</td><td>1100</td><td>770</td></tr>
-<tr><td>Contribution liée à la puissance (CHF/kW)</td><td>&lt;30 kW</td><td>1200</td><td>1050</td><td>830</td><td>610</td><td>610</td><td>520</td><td>460</td><td>380</td><td>380</td><td>420</td></tr>
-<tr><td></td><td>&lt;100 kW</td><td>850</td><td>750</td><td>630</td><td>510</td><td>460</td><td>400</td><td>340</td><td>330</td><td>330</td><td>320</td></tr>
+<tr><td></td><td>Classe de puissance</td><td colspan="11">Mise en service</td></tr>
+<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>1.4.2021–31.3.2022</td><td>à partir du 1.4.2022</td></tr>
+<tr><td>Contribution de base (CHF)</td><td></td><td>2000</td><td>1800</td><td>1800</td><td>1800</td><td>1800</td><td>1600</td><td>1600</td><td>1550</td><td>1100</td><td>770</td><td>385</td></tr>
+<tr><td>Contribution liée à la puissance (CHF/kW)</td><td>&lt; 30 kW</td><td>1200</td><td>1050</td><td>830</td><td>610</td><td>610</td><td>520</td><td>460</td><td>380</td><td>380</td><td>420</td><td>420</td></tr>
+<tr><td></td><td>&lt;100 kW</td><td>850</td><td>750</td><td>630</td><td>510</td><td>460</td><td>400</td><td>340</td><td>330</td><td>330</td><td>320</td><td>330</td></tr>
 </table>
 
 - 2\.2 Les taux suivants s’appliquent pour les installations intégrées mises en service le 31 décembre 2012 au plus tard:
@@ -2154,12 +2179,12 @@ Annexe 2.1*[^t-6]*
 - 2\.3 Les taux suivants s’appliquent pour les installations ajoutées et les installations isolées mises en service à partir du 1<sup>er</sup> janvier 2013:
 
 <table>
-<tr><td></td><td>Classe de puissance</td><td colspan="10">Mise en service</td></tr>
-<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>à partir du 1.4.2021</td></tr>
-<tr><td>Contribution de base (CHF)</td><td></td><td>1500</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1000</td><td>700</td></tr>
-<tr><td>Contribution liée à la puissance (CHF/kW)</td><td>&lt; 30 kW</td><td>1000</td><td>850</td><td>680</td><td>500</td><td>500</td><td>450</td><td>400</td><td>340</td><td>340</td><td>380</td></tr>
-<tr><td></td><td>&lt;100 kW</td><td>750</td><td>650</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td></tr>
-<tr><td></td><td>≥100 kW</td><td>700</td><td>600</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td></tr>
+<tr><td></td><td>Classe de puissance</td><td colspan="11">Mise en service</td></tr>
+<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>1.4.2021–31.3.2022</td><td>à partir du 1.4.2022</td></tr>
+<tr><td>Contribution de base (CHF)</td><td></td><td>1500</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1000</td><td>700</td><td>350</td></tr>
+<tr><td>Contribution liée à la puissance (CHF/kW)</td><td>&lt; 30 kW</td><td>1000</td><td>850</td><td>680</td><td>500</td><td>500</td><td>450</td><td>400</td><td>340</td><td>340</td><td>380</td><td>380</td></tr>
+<tr><td></td><td>&lt;100 kW</td><td>750</td><td>650</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td><td>300</td></tr>
+<tr><td></td><td>≥100 kW</td><td>700</td><td>600</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td><td>270</td></tr>
 </table>
 
 - 2\.4 Les taux suivants s’appliquent pour les installations ajoutées et les installations isolées mises en service le 31 décembre 2012 au plus tard:
@@ -2175,6 +2200,7 @@ Annexe 2.1*[^t-6]*
 
 - 2\.5 S’agissant des installations d’une puissance égale ou supérieure à 30 kW, la contribution liée à la puissance est déterminée selon une pondération établie sur la base des classes de puissance. S’agissant des installations intégrées d’une puissance égale ou supérieure à 100 kW qui ont été mises en service à partir du 1<sup>er</sup> janvier 2013, seuls les taux pour les installations ajoutées et les installations isolées sont déterminants dans toutes les classes de puissance.
 - 2\.6 Les installations visées à l’art. 7, al. 3, bénéficient des taux pour les installations intégrées pour autant qu’elles appartiennent à la catégorie des installations intégrées.
+- 2\.7 Le bonus pour les installations intégrées présentant un angle d’inclinaison d’au moins 75 degrés est de 250 francs par kW.
 
 ### 3 Demande pour les petites installations
 
@@ -2284,11 +2310,13 @@ Annexe 2.2
 <tr><td>Bâtiment administratif</td><td>50</td></tr>
 </table>
 
-Annexe 2.3
+Annexe 2.3*[^t-7]*
 
 (art. 69, 74 et 87)
 
 ## Contribution d’investissement allouée pour les installations de biomasse
+
+[^t-7]: Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Usines d’incinération des ordures ménagères (UIOM)
 
@@ -2353,7 +2381,7 @@ Annexe 2.3
 ### 3 Centrales électriques à bois d’importance régionale
 
 - 3\.1 Exigences énergétiques minimales
-- Les exigences énergétiques minimales visées à l’annexe 1.5, ch. 2.2.4, s’appliquent pour les centrales à énergie totale équipées, les exigences visées à l’annexe 1.5, ch. 2.2.3, pour les cycles vapeur*.*
+- Les exigences énergétiques minimales visées à l’annexe 1.5, ch. 2.2.4, s’appliquent aux centrales à énergie totale équipées, et les exigences visées à l’annexe 1.5, ch. 2.2.3, aux cycles vapeur. Si un réseau de chaleur à distance ou un autre dispositif d’exploitation de chaleur est construit ou agrandi lors de la construction ou de l’agrandissement de l’installation, les exigences énergétiques minimales ne doivent pas être remplies au moment de la fixation définitive de la contribution d’investissement mais devront pouvoir vraisemblablement y satisfaire dans un délai approprié.
 - 3\.2 Contenu de la demande
 -
 

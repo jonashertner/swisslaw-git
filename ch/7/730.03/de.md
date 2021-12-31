@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20210101/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. Januar 2021)
+vom 1. November 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -61,9 +61,11 @@ Als Neuanlagen gelten:
 - a. bei Wasserkraftanlagen: Anlagen, die ein hydraulisches Potenzial erstmals nutzen;
 - b. bei den übrigen Technologien: Anlagen, die erstmals an einem Standort erstellt werden.
 
-<sup>2</sup> Als Neuanlage gilt ebenfalls eine Anlage, die eine bestehende Anlage komplett ersetzt.
+<sup>2</sup> Als Neuanlage gilt ebenfalls eine Anlage, die eine bestehende Anlage komplett ersetzt. Ausgenommen davon sind Wasserkraftanlagen.[^3-1]
 
 <sup>3</sup> Den Entscheid darüber, ob eine Neuanlage vorliegt oder nicht, trifft die Vollzugsstelle in Absprache mit dem Bundesamt für Energie (BFE).
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 #### Art. 4
 
@@ -179,9 +181,16 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>1</sup> Der Referenz-Marktpreis für Elektrizität aus Photovoltaikanlagen entspricht dem Durchschnitt der Preise, die an der Strombörse in einem Vierteljahr jeweils für den Folgetag für das Marktgebiet Schweiz festgesetzt werden, gewichtet nach der tatsächlichen viertelstündlichen Einspeisung der lastganggemessenen Photovoltaikanlagen.
 
-<sup>2</sup> Der Referenz-Marktpreis für Elektrizität aus den übrigen Technologien entspricht dem Durchschnitt der Preise, die an der Strombörse in einem Vierteljahr jeweils für den Folgetag für das Marktgebiet Schweiz festgesetzt werden.
+<sup>2</sup>
+
+Der Referenz-Marktpreis für Elektrizität aus den übrigen Technologien entspricht dem Durchschnitt der Preise, die an der Strombörse in folgendem Zeitraum jeweils für den Folgetag für das Marktgebiet Schweiz festgesetzt werden:
+
+- a. für lastganggemessene Anlagen: in einem Monat;
+- b. für nicht lastganggemessene Anlagen: in einem Vierteljahr.[^15-1]
 
 <sup>3</sup> Das BFE berechnet und veröffentlicht die Referenz-Marktpreise vierteljährlich.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 #### Art. 16
 
@@ -475,6 +484,8 @@ Die Erweiterung oder Erneuerung einer Anlage ist erheblich, wenn die Leistung de
 
 <sup>1</sup> Die Einmalvergütung setzt sich aus einem Grund- und einem Leistungsbeitrag zusammen.
 
+<sup>1bis</sup> Für integrierte Anlagen mit einem Neigungswinkel von mindestens 75 Grad, die ab dem 1. Januar 2022 in Betrieb genommen wurden, wird der Leistungsbeitrag um einen Bonus erhöht.[^38-1]
+
 <sup>2</sup> Die Ansätze sind im Anhang 2.1 festgelegt. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) überprüft sie jährlich. Bei einer wesentlichen Veränderung der Verhältnisse stellt es dem Bundesrat Antrag auf deren Anpassung.
 
 <sup>3</sup> Für grosse Photovoltaikanlagen, die ab dem 1. Januar 2013 in Betrieb genommen wurden, gelten die Ansätze für die angebauten und freistehenden Anlagen, auch wenn sie der Kategorie der integrierten Anlagen angehören.
@@ -484,6 +495,8 @@ Die Erweiterung oder Erneuerung einer Anlage ist erheblich, wenn die Leistung de
 <sup>5</sup> Wird eine Anlage bereits vor Erhalt der Einmalvergütung erweitert, so werden der Grundbeitrag für den zuerst in Betrieb genommenen Anlagenteil und der Leistungsbeitrag entsprechend dem Inbetriebnahmedatum der einzelnen Anlagenteile ausbezahlt.
 
 <sup>6</sup> Besteht eine Anlage aus mehreren Modulfeldern, die verschiedenen Kategorien nach Artikel 6 angehören, so berechnet sich der Grundbeitrag nach dem nach Leistung gewichteten Mittelwert der Ansätze und der Leistungsbeitrag entsprechend den Anteilen der Leistung pro Kategorie.
+
+[^38-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 2. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
 
@@ -1243,7 +1256,11 @@ Ergibt sich aus einer Überprüfung oder Kontrolle, dass jemand insbesondere weg
 
 [^96-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-## 8. Kapitel: Auswertung, Publikation, Auskünfte, Weitergabe von Daten an die Eidgenössische Zollverwaltung, Kontrolle und Massnahmen
+## 8. Kapitel: Auswertung, Publikation, Auskünfte, Weitergabe von Daten an das Bundesamt für Zoll und Grenzsicherheit (BAZG)****, Kontrolle und Massnahmen
+
+[^chap8-1]
+
+[^chap8-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 97
 
@@ -1322,9 +1339,9 @@ Die Kantone und Gemeinden behandeln die erhaltenen Daten vertraulich. Sie dürfe
 
 #### Art. 100
 
-**Weitergabe von Daten an die Eidgenössische Zollverwaltung**
+**Weitergabe von Daten an das BAZG**
 
-Das BFE gibt für den Vollzug des Mineralölsteuergesetzes vom 21. Juni 1996[^100-1] die nachstehenden Daten von Anlagenbetreibern, die Elektrizität aus Biomasse produzieren, an die Eidgenössische Zollverwaltung weiter:
+Das BFE gibt für den Vollzug des Mineralölsteuergesetzes vom 21. Juni 1996[^100-1] die nachstehenden Daten von Anlagenbetreibern, die Elektrizität aus Biomasse produzieren, an das BAZG weiter:
 
 - a. Name und Adresse von natürlichen Personen und Personenvereinigungen oder Firma und Sitz von juristischen Personen;
 - b. Angaben über die Art, Menge und Herkunft der biogenen Rohstoffe;
@@ -1409,6 +1426,14 @@ Projekte und Anlagen, die bereits für die kostendeckende Einspeisevergütung na
 
 <sup>2</sup> Vom Recht, die in der Grundversorgung absetzbare Elektrizität auch effektiv dort und zu Gestehungskosten zu verkaufen (Art. 31 Abs. 3 EnG), dürfen die Berechtigten erstmals für das Jahr 2018 und letztmals für das Jahr 2022 Gebrauch machen.
 
+#### Art. 108a
+
+**Übergangsbestimmung zur Änderung vom 24. November 2021**[^108a-1]
+
+Bestehende Anlagen, die komplett ersetzt wurden oder werden und die vor dem 1. Januar 2022 einen positiven Bescheid in Bezug auf die Teilnahme am Einspeisevergütungssystem oder eine Zusicherung dem Grundsatz nach in Bezug auf einen Investitionsbeitrag erhalten haben, gelten weiterhin als Neuanlagen.
+
+[^108a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+
 #### Art. 109
 
 **Inkrafttreten**
@@ -1421,7 +1446,7 @@ Anhang 1.1*[^t-1]*
 
 ## Wasserkraftanlagen im Einspeisevergütungssystem
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) und vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
 
 ### 1 Anlagendefinition
 
@@ -1466,7 +1491,7 @@ Anhang 1.1*[^t-1]*
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/image/image1.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -1561,7 +1586,7 @@ Anhang 1.1*[^t-1]*
 - 6\.5 Bei Anlagen, aufgrund von Artikel 3*a* der Energieverordnung vom 7. Dezember 1998 eine kostendeckende Einspeisevergütung zugesprochen oder einen positiven Bescheid erhalten haben und die die Mindestanforderungen aus Gründen, für die sie nicht einzustehen haben, nicht einhalten können, wird die Vergütung für eine Dauer von höchstens einem Drittel der Vergütungsdauer weiterhin ausbezahlt, wenn keine Massnahmen zur Behebung möglich sind. Halten sie die Mindestanforderungen danach erneut nicht ein, so werden sie aus dem Einspeisevergütungssystem ausgeschlossen. Diese Regelung gilt auch für das Jahr 2018.
 
 [^annex11-lvlu1-lvl6-1]: [AS 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
-[^annex11-lvlu1-lvl6-2]: [AS 2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [2015 4781](https://fedlex.data.admin.ch/eli/oc/2015/784)
+[^annex11-lvlu1-lvl6-2]: [AS 2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575); [2015 4781](https://fedlex.data.admin.ch/eli/oc/2015/784)
 
 Anhang 1.2*[^t-2]*
 
@@ -1643,7 +1668,7 @@ Anhang 1.2*[^t-2]*
 
 5.2 Für integrierte Anlagen müssen mit der Inbetriebnahmemeldung Fotos eingereicht werden, die den Solarstromgenerator während des Baus und nach der Fertigstellung zeigen und aus denen ersichtlich wird, dass eine integrierte Anlage vorliegt.
 
-[^annex12-lvlu1-lvl5-1]: [[AS 2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127)[6125](https://fedlex.data.admin.ch/eli/oc/2010/875)Ziff. II,[2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575)Ziff. I und II, **2012** 607 4555, **2013** 3631 Ziff. I und II, **2014** 611 Ziff. I und II 3683 Ziff. I und II, **2015** 4781 Ziff. I und II, **2016** 4617 Ziff. I und II]
+[^annex12-lvlu1-lvl5-1]: [[AS 2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)Ziff. II;[2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575)Ziff. I und II; **2012** 607, 4555; **2013** 3631 Ziff. I und II; **2014** 611 Ziff. I und II, 3683 Ziff. I und II; **2015** 4781 Ziff. I und II; **2016** 4617 Ziff. I und II]
 
 Anhang 1.3*[^t-3]*
 
@@ -1818,7 +1843,7 @@ Anhang 1.4*[^t-4]*
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/image/image2.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -1943,7 +1968,7 @@ Anhang 1.5*[^t-5]*
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/image/image3.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -1956,7 +1981,7 @@ Anhang 1.5*[^t-5]*
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/de/xml/image/image4.png)
 
 - b.
 
@@ -2124,7 +2149,7 @@ Anhang 2.1*[^t-6]*
 
 ## Einmalvergütung für Photovoltaikanlagen
 
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) und Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Anlagendefinition
 
@@ -2135,11 +2160,11 @@ Anhang 2.1*[^t-6]*
 - 2\.1 Für integrierte Anlagen, die ab dem 1. Januar 2013 in Betrieb genommen wurden, gelten die folgenden Ansätze:
 
 <table>
-<tr><td></td><td>Leistungsklasse</td><td colspan="10">Inbetriebnahme</td></tr>
-<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>ab 1.4.2021</td></tr>
-<tr><td>Grundbeitrag (Fr.)</td><td></td><td>2000</td><td>1800</td><td>1800</td><td>1800</td><td>1800</td><td>1600</td><td>1600</td><td>1550</td><td>1100</td><td>770</td></tr>
-<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt;30 kW</td><td>1200</td><td>1050</td><td>830</td><td>610</td><td>610</td><td>520</td><td>460</td><td>380</td><td>380</td><td>420</td></tr>
-<tr><td></td><td>&lt;100 kW</td><td>850</td><td>750</td><td>630</td><td>510</td><td>460</td><td>400</td><td>340</td><td>330</td><td>330</td><td>320</td></tr>
+<tr><td></td><td>Leistungsklasse</td><td colspan="11">Inbetriebnahme</td></tr>
+<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>1.4.2021–31.3.2022</td><td>ab 1.4.2022</td></tr>
+<tr><td>Grundbeitrag (Fr.)</td><td></td><td>2000</td><td>1800</td><td>1800</td><td>1800</td><td>1800</td><td>1600</td><td>1600</td><td>1550</td><td>1100</td><td>770</td><td>385</td></tr>
+<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt; 30 kW</td><td>1200</td><td>1050</td><td>830</td><td>610</td><td>610</td><td>520</td><td>460</td><td>380</td><td>380</td><td>420</td><td>420</td></tr>
+<tr><td></td><td>&lt;100 kW</td><td>850</td><td>750</td><td>630</td><td>510</td><td>460</td><td>400</td><td>340</td><td>330</td><td>330</td><td>320</td><td>330</td></tr>
 </table>
 
 - 2\.2 Für integrierte Anlagen, die bis zum 31. Dezember 2012 in Betrieb genommen wurden, gelten die folgenden Ansätze:
@@ -2156,12 +2181,12 @@ Anhang 2.1*[^t-6]*
 - 2\.3 Für die angebauten und freistehenden Anlagen, die ab dem 1. Januar 2013 in Betrieb genommen wurden, gelten die folgenden Ansätze:
 
 <table>
-<tr><td></td><td>Leistungsklasse</td><td colspan="10">Inbetriebnahme</td></tr>
-<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>ab 1.4.2021</td></tr>
-<tr><td>Grundbeitrag (Fr.)</td><td></td><td>1500</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1000</td><td>700</td></tr>
-<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt; 30 kW</td><td>1000</td><td>850</td><td>680</td><td>500</td><td>500</td><td>450</td><td>400</td><td>340</td><td>340</td><td>380</td></tr>
-<tr><td></td><td>&lt;100 kW</td><td>750</td><td>650</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td></tr>
-<tr><td></td><td>≥100 kW</td><td>700</td><td>600</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td></tr>
+<tr><td></td><td>Leistungsklasse</td><td colspan="11">Inbetriebnahme</td></tr>
+<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>1.4.2021–31.3.2022</td><td>ab 1.4.2022</td></tr>
+<tr><td>Grundbeitrag (Fr.)</td><td></td><td>1500</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1000</td><td>700</td><td>350</td></tr>
+<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt; 30 kW</td><td>1000</td><td>850</td><td>680</td><td>500</td><td>500</td><td>450</td><td>400</td><td>340</td><td>340</td><td>380</td><td>380</td></tr>
+<tr><td></td><td>&lt;100 kW</td><td>750</td><td>650</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td><td>300</td></tr>
+<tr><td></td><td>≥100 kW</td><td>700</td><td>600</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td><td>270</td></tr>
 </table>
 
 - 2\.4 Für die angebauten und freistehenden Anlagen, die bis zum 31. Dezember 2012 in Betrieb genommen wurden, gelten die folgenden Ansätze:
@@ -2177,6 +2202,7 @@ Anhang 2.1*[^t-6]*
 
 - 2\.5 Für Anlagen mit einer Leistung von ≥30 kW wird der Leistungsbeitrag anteilsmässig über die Leistungsklassen berechnet. Für integrierte Anlagen mit einer Leistung von ≥100 kW, die ab dem 1. Januar 2013 in Betrieb genommen wurden, wird in allen Leistungsklassen ausschliesslich auf die Ansätze für angebaute und freistehende Anlagen abgestellt.
 - 2\.6 Anlagen nach Artikel 7 Absatz 3 erhalten die Ansätze für integrierte Anlagen, sofern sie der Kategorie der integrierten Anlagen angehören.
+- 2\.7 Der Bonus für integrierte Anlagen mit einem Neigungswinkel von mindestens 75 Grad beträgt 250 Franken pro kW.
 
 ### 3 Gesuch für kleine Anlagen
 
@@ -2286,11 +2312,13 @@ Anhang 2.2
 <tr><td>Verwaltungsgebäude</td><td>50</td></tr>
 </table>
 
-Anhang 2.3
+Anhang 2.3[^t-7]
 
 (Art. 69, 74 und 87)
 
 ## Investitionsbeitrag für Biomasseanlagen
+
+[^t-7]: Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Kehrichtverbrennungsanlagen (KVA)
 
@@ -2356,7 +2384,7 @@ Anhang 2.3
 ### 3 Holzkraftwerke von regionaler Bedeutung
 
 - 3\.1 Energetische Mindestanforderungen
-- Für Blockheizkraftwerks-Anlagen gelten die energetischen Mindestanforderungen nach Anhang 1.5 Ziffer 2.2.4 und für Dampfprozesse diejenigen nach Anhang 1.5 Ziffer 2.2.3*.*
+- Für Blockheizkraftwerks-Anlagen gelten die energetischen Mindestanforderungen nach Anhang 1.5 Ziffer 2.2.4 und für Dampfprozesse diejenigen nach Anhang 1.5 Ziffer 2.2.3. Wenn gleichzeitig mit dem Bau oder der Erweiterung der Anlage ein Fernwärmenetz oder eine andere Einrichtung für die Nutzung der Wärme errichtet oder erweitert wird, müssen die energetischen Mindestanforderungen im Zeitpunkt der definitiven Festsetzung des Investitionsbeitrags nicht erfüllt sein; die energetischen Mindestanforderungen müssen aber voraussichtlich innerhalb einer angemessenen Frist erfüllt werden.
 - 3\.2 Inhalt des Gesuchs
 -
 

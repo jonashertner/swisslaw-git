@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20210101/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2021)
+del 1° novembre 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -61,9 +61,11 @@ Sono considerati nuovi impianti:
 - a. negli impianti idroelettrici: gli impianti che utilizzano per la prima volta un potenziale idraulico;
 - b. nelle altre tecnologie: gli impianti che sono costruiti per la prima volta in un’ubicazione.
 
-<sup>2</sup> È considerato parimenti un nuovo impianto un impianto che sostituisce completamente un impianto esistente.
+<sup>2</sup> È considerato parimenti un nuovo impianto un impianto che sostituisce completamente un impianto esistente. Costituiscono un’eccezione gli impianti idroelettrici.[^3-1]
 
 <sup>3</sup> L’organo d’esecuzione decide d’intesa con l’Ufficio federale dell’energia (UFE) se l’impianto sia da considerarsi nuovo o no.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 #### Art. 4
 
@@ -179,9 +181,16 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>1</sup> Il prezzo di mercato di riferimento per l’elettricità prodotta dagli impianti fotovoltaici corrisponde alla media dei prezzi determinati alla borsa elettrica in un trimestre per il giorno successivo per la regione di mercato svizzera, ponderati in base all’effettiva immissione in rete ogni quarto d’ora degli impianti fotovoltaici sottoposti a una misurazione del profilo di carico.
 
-<sup>2</sup> Il prezzo di mercato di riferimento per l’elettricità prodotta dalle altre tecnologie corrisponde alla media dei prezzi determinati alla borsa elettrica in un trimestre per il giorno successivo per la regione di mercato svizzera.
+<sup>2</sup>
+
+Il prezzo di mercato di riferimento per l’elettricità prodotta dalle altre tecnologie corrisponde alla media dei prezzi determinati alla borsa elettrica nel seguente periodo di tempo per il giorno successivo per la regione di mercato svizzera:
+
+- a. per gli impianti sottoposti a una misurazione del profilo di carico: un mese;
+- b. per gli impianti non sottoposti a una misurazione del profilo di carico: un trimestre.[^15-1]
 
 <sup>3</sup> L’UFE calcola e pubblica ogni trimestre i prezzi di mercato di riferimento.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 #### Art. 16
 
@@ -475,17 +484,20 @@ Un impianto è considerato ampliato o rinnovato in misura considerevole se la po
 
 <sup>1</sup> La rimunerazione unica è composta di un contributo di base e di un contributo legato alla potenza.
 
+<sup>1bis</sup> Per gli impianti integrati con un angolo di inclinazione di almeno 75 gradi che sono stati messi in esercizio a partire dal 1° gennaio 2022, il contributo legato alla potenza viene aumentato con un bonus.[^38-1]
+
 <sup>2</sup> Gli importi sono determinati nell’allegato 2.1. Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) li verifica annualmente. In caso di mutamento considerevole delle circostanze esso presenta al Consiglio federale una proposta di adeguamento degli importi.
 
 <sup>3</sup> Per gli impianti fotovoltaici di grandi dimensioni che sono stati messi in esercizio dal 1° gennaio 2013 valgono gli importi per gli impianti annessi e isolati, anche se essi appartengono alla categoria degli impianti integrati.
 
 <sup>4</sup> Per gli ampliamenti o i rinnovamenti considerevoli viene versato soltanto un contributo legato alla potenza equivalente all’aumento della potenza raggiunta con l’ampliamento o il rinnovamento. Non viene versato alcun contributo di base.
 
-<sup>5</sup> Se un impianto viene ampliato già prima dell’ottenimento della rimunerazione unica, il contributo di base viene versato per l’elemento dell’impianto messo in esercizio per primo e il contributo legato alla potenza in funzione della data di messa in esercizio dei singoli elementi dell’impianto.[^38-1]
+<sup>5</sup> Se un impianto viene ampliato già prima dell’ottenimento della rimunerazione unica, il contributo di base viene versato per l’elemento dell’impianto messo in esercizio per primo e il contributo legato alla potenza in funzione della data di messa in esercizio dei singoli elementi dell’impianto.[^38-2]
 
 <sup>6</sup> Nel caso di un impianto costituito da più campi fotovoltaici che rientrano in diverse categorie di impianti secondo l’articolo 6, il contributo di base è calcolato sulla scorta del valore medio degli importi ponderato in base alla potenza e il contributo legato alla potenza in funzione degli elementi della potenza per categoria.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
+[^38-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^38-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
 
 ### Sezione 2: Ordine di presa in considerazione e lista d’attesa
 
@@ -1243,7 +1255,11 @@ Se da una verifica o da un controllo risulta che qualcuno, in particolare a caus
 
 [^96-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-## Capitolo 8: Valutazione, pubblicazione, informazioni, trasmissione di dati all’Amministrazione federale delle dogane, controllo e provvedimenti
+## Capitolo 8: Valutazione, pubblicazione, informazioni, trasmissione di dati all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)****, controllo e provvedimenti
+
+[^chap8-1]
+
+[^chap8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 97
 
@@ -1322,9 +1338,9 @@ I Cantoni e i Comuni trattano i dati ricevuti in modo confidenziale. In particol
 
 #### Art. 100
 
-**Trasmissione di dati all’Amministrazione federale delle dogane**
+**Trasmissione di dati all’UDSC**
 
-L’UFE trasmette all’Amministrazione federale delle dogane i seguenti dati dei gestori degli impianti che producono energia elettrica a partire dalla biomassa necessari per l’esecuzione della legge del 21 giugno 1996[^100-1] sull’imposizione degli oli minerali:
+L’UFE trasmette all’UDSC i seguenti dati dei gestori degli impianti che producono energia elettrica a partire dalla biomassa necessari per l’esecuzione della legge del 21 giugno 1996[^100-1] sull’imposizione degli oli minerali:
 
 - a. nomi e indirizzi di persone fisiche e associazioni di persone o ditta e sede di persone giuridiche;
 - b. indicazioni su tipo, quantità e origine delle materie prime biogene;
@@ -1409,6 +1425,14 @@ I progetti e gli impianti che erano già notificati per la rimunerazione per l�
 
 <sup>2</sup> Del diritto di vendere effettivamente in tale settore e ai costi di produzione l’elettricità da smerciare nell’ambito del servizio universale (art. 31 cpv. 3 LEne), gli aventi diritto possono fare uso la prima volta per il 2018 e l’ultima volta per il 2022.
 
+#### Art. 108a
+
+**Disposizione transitoria della modifica del 24 novembre 2021**[^108a-1]
+
+Gli impianti esistenti che sono stati o saranno sostituiti completamente e che prima del 1° gennaio 2022 hanno ottenuto una decisione positiva in merito alla partecipazione al sistema di rimunerazione per l’immissione di elettricità o una garanzia di principio riguardo a un contributo d’investimento, sono considerati anche in futuro impianti nuovi.
+
+[^108a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+
 #### Art. 109
 
 **Entrata in vigore**
@@ -1466,7 +1490,7 @@ Allegato 1.1*[^t-1]*
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/image/image1.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -1824,7 +1848,7 @@ Allegato 1.4*[^t-4]*
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/image/image2.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -1948,7 +1972,7 @@ Allegato 1.5*[^t-5]*
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/image/image3.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -1960,7 +1984,7 @@ Allegato 1.5*[^t-5]*
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20210101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220101/it/xml/image/image4.png)
 
 - b.
 
@@ -2129,7 +2153,7 @@ Allegato 2.1*[^t-6]*
 
 ## Rimunerazione unica per gli impianti fotovoltaici
 
-[^t-6]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-6]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) e del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Definizione degli impianti
 
@@ -2140,11 +2164,11 @@ Allegato 2.1*[^t-6]*
 - 2\.1 Per gli impianti integrati che sono stati messi in esercizio dopo il 1° gennaio 2013, valgono i seguenti importi:
 
 <table>
-<tr><td></td><td>Classe di potenza</td><td colspan="10">Messa in esercizio</td></tr>
-<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>dal 1.4.2021</td></tr>
-<tr><td>Contributo di base (fr.)</td><td></td><td>2000</td><td>1800</td><td>1800</td><td>1800</td><td>1800</td><td>1600</td><td>1600</td><td>1550</td><td>1100</td><td>770</td></tr>
-<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt;30 kW</td><td>1200</td><td>1050</td><td>830</td><td>610</td><td>610</td><td>520</td><td>460</td><td>380</td><td>380</td><td>420</td></tr>
-<tr><td></td><td>&lt;100 kW</td><td>850</td><td>750</td><td>630</td><td>510</td><td>460</td><td>400</td><td>340</td><td>330</td><td>330</td><td>320</td></tr>
+<tr><td></td><td>Classe di potenza</td><td colspan="11">Messa in esercizio</td></tr>
+<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>1.4.2021–31.3.2022</td><td>dal 1.4.2022</td></tr>
+<tr><td>Contributo di base (fr.)</td><td></td><td>2000</td><td>1800</td><td>1800</td><td>1800</td><td>1800</td><td>1600</td><td>1600</td><td>1550</td><td>1100</td><td>770</td><td>385</td></tr>
+<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt;30 kW</td><td>1200</td><td>1050</td><td>830</td><td>610</td><td>610</td><td>520</td><td>460</td><td>380</td><td>380</td><td>420</td><td>420</td></tr>
+<tr><td></td><td>&lt;100 kW</td><td>850</td><td>750</td><td>630</td><td>510</td><td>460</td><td>400</td><td>340</td><td>330</td><td>330</td><td>320</td><td>330</td></tr>
 </table>
 
 - 2\.2 Per gli impianti integrati che sono stati messi in esercizio entro il 31 dicembre 2012, valgono i seguenti importi:
@@ -2161,12 +2185,12 @@ Allegato 2.1*[^t-6]*
 - 2\.3 Per gli impianti annessi e isolati che sono stati messi in esercizio dopo il 1° gennaio 2013, valgono i seguenti importi:
 
 <table>
-<tr><td></td><td>Classe di potenza</td><td colspan="10">Messa in esercizio</td></tr>
-<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>ab 1.4.2021</td></tr>
-<tr><td>Contributo di base (fr.)</td><td></td><td>1500</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1000</td><td>700</td></tr>
-<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt; 30 kW</td><td>1000</td><td>850</td><td>680</td><td>500</td><td>500</td><td>450</td><td>400</td><td>340</td><td>340</td><td>380</td></tr>
-<tr><td></td><td>&lt;100 kW</td><td>750</td><td>650</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td></tr>
-<tr><td></td><td>≥100 kW</td><td>700</td><td>600</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td></tr>
+<tr><td></td><td>Classe di potenza</td><td colspan="11">Messa in esercizio</td></tr>
+<tr><td></td><td></td><td>1.1.2013–31.12.2013</td><td>1.1.2014–31.3.2015</td><td>1.4.2015–30.9.2015</td><td>1.10.2015–30.9.2016</td><td>1.10.2016–31.3.2017</td><td>1.4.2017–31.3.2018</td><td>1.4.2018–31.3.2019</td><td>1.4.2019–31.3.2020</td><td>1.4.2020–31.3.2021</td><td>1.4.2021–31.3.2022</td><td>dal 1.4.2022</td></tr>
+<tr><td>Contributo di base (fr.)</td><td></td><td>1500</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1400</td><td>1000</td><td>700</td><td>350</td></tr>
+<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt; 30 kW</td><td>1000</td><td>850</td><td>680</td><td>500</td><td>500</td><td>450</td><td>400</td><td>340</td><td>340</td><td>380</td><td>380</td></tr>
+<tr><td></td><td>&lt;100 kW</td><td>750</td><td>650</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td><td>300</td></tr>
+<tr><td></td><td>≥100 kW</td><td>700</td><td>600</td><td>530</td><td>450</td><td>400</td><td>350</td><td>300</td><td>300</td><td>300</td><td>290</td><td>270</td></tr>
 </table>
 
 - 2\.4 Per gli impianti annessi e isolati che sono stati messi in esercizio entro il 31 dicembre 2012, valgono i seguenti importi:
@@ -2182,6 +2206,7 @@ Allegato 2.1*[^t-6]*
 
 - 2\.5 Il contributo legato alla potenza per gli impianti con potenza nominale ≥30 kW è calcolato pro rata rispetto alle classi di potenza. Agli impianti integrati con potenza nominale ≥100 kW che sono stati messi in esercizio dopo il 1° gennaio 2013 per tutte le classi di potenza si applicano esclusivamente i tassi di rimunerazione previsti per gli impianti annessi e isolati.
 - 2\.6 Gli impianti di cui all’articolo 7 capoverso 3 ottengono i contributi per gli impianti integrati se appartengono alla categoria degli impianti integrati.
+- 2\.7 Il bonus per gli impianti integrati con un angolo d’inclinazione di almeno 75 gradi ammonta a 250 franchi per kW.
 
 ### 3 Domanda per gli impianti di piccole dimensioni
 
@@ -2293,11 +2318,13 @@ Allegato 2.2
 <tr><td>Stabili amministrativi</td><td>50</td></tr>
 </table>
 
-Allegato 2.3
+Allegato 2.3[^t-7]
 
 (art. 69, 74 e 87)
 
 ## Contributi d’investimento per gli impianti a biomassa
+
+[^t-7]: Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
 
 ### 1 Impianti di incenerimento dei rifiuti (IIR)
 
@@ -2362,7 +2389,7 @@ Allegato 2.3
 ### 3 Centrali elettriche a legna di importanza regionale
 
 - 3\.1 Requisiti energetici minimi
-- Per le centrali termo-elettriche a blocco valgono i requisiti energetici minimi di cui all’allegato 1.5 numero 2.2.4 e per i cicli di vapore quelle di cui all’allegato 1.5 numero 2.2.3.
+- Per le centrali termo-elettriche a blocco valgono i requisiti energetici minimi di cui all’allegato 1.5 numero 2.2.4 e per i cicli di vapore quelle di cui all’allegato 1.5 numero 2.2.3. Se contemporaneamente alla costruzione o all’ampliamento dell’impianto viene realizzata o ampliata una rete di teleriscaldamento o un altro sistema per lo sfruttamento termico, i requisiti energetici minimi non devono necessariamente essere soddisfatti al momento della definizione definitiva del contributo d’investimento; devono però essere prevedibilmente soddisfatti entro un termine adeguato.
 - 3\.2 Contenuto della domanda
 -
 
