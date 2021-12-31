@@ -4,11 +4,11 @@ title: Ordonnance du 27 août 2001 sur le personnel du Tribunal fédéral (OPers
 short: OPersTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/487"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2001-08-27
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-487-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-487-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20210101/fr"
 
 (OPersTF)
 
-du 27 août 2001 (Etat le 1<sup>er</sup> janvier 2021)
+du 27 août 2001 (État le 1<sup>er</sup> janvier 2022)
 
 Le Tribunal fédéral suisse,
 
@@ -934,7 +934,7 @@ Pour favoriser la collaboration d’employés auprès d’organisations internat
 - a. l’octroi d’un congé payé, partiellement payé ou non payé jusqu’à une durée de cinq ans;
 - b. la prise en charge de frais extraordinaires liés à l’engagement, dans la mesure où ils ne sont pas couverts par l’organisation internationale.
 
-## Section 10*a***** Prévoyance professionnelle
+## Section 10*a* Prévoyance professionnelle
 
 [^sec10a-1]
 
@@ -1413,7 +1413,7 @@ Les créances résultant des rapports de travail se prescrivent conformément au
 
 [^76-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Section 14 Restructurations et réorganisations****
+## Section 14 Restructurations et réorganisations
 
 [^sec14-1]
 
@@ -1544,7 +1544,7 @@ Le rôle de la délégation est en principe consultatif. Elle s’adresse à l�
 [^80a-2]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^80a-3]: [RS 172.327.1](https://fedlex.data.admin.ch/eli/cc/2005/124)
 
-## Section 15*a***** Protection des données
+## Section 15*a* Protection des données
 
 [^sec15a-1]
 
@@ -1604,6 +1604,68 @@ Le préposé à la protection des données du Tribunal fédéral est:
 
 [^80e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^80e-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+
+#### Art. 80f
+
+**Bulletin du Secrétariat général**[^80f-1]
+
+<sup>1</sup> Le Bulletin du Secrétariat général est un bulletin d’information du Tribunal fédéral.
+
+<sup>2</sup>
+
+Les destinataires du Bulletin du Secrétariat général sont:
+
+- a. les membres et les employés du Tribunal fédéral;
+- b. à leur demande: les anciens membres du Tribunal fédéral;
+- c. à leur demande: les anciens employés du Tribunal fédéral qui travaillaient au Tribunal fédéral au moment de leur retraite.
+
+<sup>3</sup>
+
+Le Bulletin du Secrétariat général vise notamment à informer les destinataires mentionnés à l’al. 2:
+
+- a. des projets en cours au Tribunal fédéral;
+- b. de questions organisationnelles concernant le Tribunal fédéral;
+- c. de l’élection de nouveaux membres et de l’engagement de nouveaux employés du Tribunal fédéral;
+- d. d’événements particuliers, tels que des anniversaires, anciennetés de service, promotions, naissances, mariages; concernant les membres et les employés actuels et anciens du Tribunal fédéral.
+
+<sup>4</sup> Il peut contenir des données personnelles au sens de l’al. 3, let. a à d concernant les membres et les employés actuels, futurs et anciens du Tribunal fédéral. Il ne contient pas de données sensibles.
+
+<sup>5</sup>
+
+Font notamment parties des données personnelles visées à l’al. 4:
+
+- a. noms et prénoms;
+- b. titre;
+- c. date de naissance;
+- d. fonction;
+- e. cour ou service;
+- f. numéro de téléphone;
+- g. données concernant un changement de bureau;
+- h. données concernant un changement de cour;
+- i. données concernant le départ du Tribunal fédéral;
+
+<sup>6</sup>
+
+La publication des données personnelles suivantes dans le Bulletin du Secrétariat général nécessite le consentement de la personne concernée:
+
+- a.
+
+  les futurs employés du Tribunal fédéral:
+
+  - 1\. photo portrait.
+  - 2\. donnés concernant l’emploi précédent;
+
+- b. données concernant une promotion;
+- c. données concernant l’ancienneté de service;
+- d. données concernant le mariage (date, nom du conjoint);
+- e. données concernant les naissances (date, nom de l’enfant);
+- f. anniversaire décennal et semi-décennal des anciens employés du Tribunal fédéral.
+
+<sup>7</sup> Le contenu du Bulletin du Secrétariat général est traité de manière confidentielle par les destinataires mentionnés à l’al. 2.
+
+<sup>8</sup> Il peut être mis à la disposition des destinataires mentionnés à l’al. 2 au moyen d’une procédure d’appel protégée par un mot de passe.
+
+[^80f-1]: Introduit par le ch. I de l’O du TF du 30 août 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 798](https://fedlex.data.admin.ch/eli/oc/2021/798)).
 
 ## Section 16 …
 

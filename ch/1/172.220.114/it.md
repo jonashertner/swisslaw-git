@@ -4,11 +4,11 @@ title: Ordinanza del 27 agosto 2001 sul personale del Tribunale federale (OPersT
 short: OPersTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/487"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2001-08-27
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-487-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-487-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20210101/it"
 
 (OPersTF)
 
-del 27 agosto 2001 (Stato 1° gennaio 2021)
+del 27 agosto 2001 (Stato 1° gennaio 2022)
 
 Il Tribunale federale svizzero,
 
@@ -938,7 +938,7 @@ Per promuovere l’impegno degli impiegati presso organizzazioni internazionali,
 - a. un congedo pagato, parzialmente pagato o non pagato della durata massima di cinque anni;
 - b. l’assunzione di costi straordinari connessi all’impiego, nella misura in cui non sono sopportati, con prestazioni corrispondenti, dall’organizzazione internazionale.
 
-## Sezione 10*a*:**** Previdenza professionale
+## Sezione 10*a*: Previdenza professionale
 
 [^sec10a-1]
 
@@ -1002,14 +1002,14 @@ Il datore di lavoro può partecipare al riscatto regolamentare finanziandolo med
 [^52dbis-1]: Introdotto dal n. I dell’O del TF del 17 gen. 2011, in vigore dal 1° gen. 2011 ([RU 2011 639](https://fedlex.data.admin.ch/eli/oc/2011/99)).
 [^52dbis-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-#### Art. 52d<sup>ter</sup>
+#### Art. 52d
 
-**Continuazione della previdenza dopo il compimento del 65° anno d’età**[^52dter-1]
+***<sup>t</sup>*<sup>er</sup> [^52d-1]Continuazione della previdenza dopo il compimento del 65° anno d’età**
 
-Se il datore di lavoro e l’impiegato convengono il proseguimento del rapporto di lavoro oltre il 65° anno d’età, l’impiegato può richiedere la continuazione della previdenza per la vecchiaia fino alla cessazione dell’attività lucrativa, ma al massimo fino al compimento del 70° anno d’età (art. 33*b* LPP[^52dter-2]). In questo caso il datore di lavoro finanzia i contributi di risparmio del datore di lavoro.
+Se il datore di lavoro e l’impiegato convengono il proseguimento del rapporto di lavoro oltre il 65° anno d’età, l’impiegato può richiedere la continuazione della previdenza per la vecchiaia fino alla cessazione dell’attività lucrativa, ma al massimo fino al compimento del 70° anno d’età (art. 33*b* LPP[^52d-2]). In questo caso il datore di lavoro finanzia i contributi di risparmio del datore di lavoro.
 
-[^52dter-1]: Introdotto dal n. I dell’O del TF del 17 gen. 2011, in vigore dal 1° gen. 2011 ([RU 2011 639](https://fedlex.data.admin.ch/eli/oc/2011/99)).
-[^52dter-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^52d-1]: Introdotto dal n. I dell’O del TF del 17 gen. 2011, in vigore dal 1° gen. 2011 ([RU 2011 639](https://fedlex.data.admin.ch/eli/oc/2011/99)).
+[^52d-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 52e
 
@@ -1417,7 +1417,7 @@ I termini di prescrizione per pretese derivanti dal rapporto di lavoro sono disc
 
 [^76-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Sezione 14: Ristrutturazioni e riorganizzazioni****
+## Sezione 14: Ristrutturazioni e riorganizzazioni
 
 [^sec14-1]
 
@@ -1548,7 +1548,7 @@ L’attività della delegazione del personale è di principio di natura consulti
 [^80a-2]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^80a-3]: [RS 172.327.1](https://fedlex.data.admin.ch/eli/cc/2005/124)
 
-## Sezione 15*a*:**** Protezione dei dati
+## Sezione 15*a*: Protezione dei dati
 
 [^sec15a-1]
 
@@ -1608,6 +1608,68 @@ L’incaricato della protezione dei dati del Tribunale federale è:
 
 [^80e-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^80e-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+
+#### Art. 80f
+
+**Bollettino del segretariato generale**[^80f-1]
+
+<sup>1</sup> Il bollettino del segretariato generale è un bollettino d'informazione del Tribunale federale.
+
+<sup>2</sup>
+
+I destinatari del bollettino del segretariato generale sono:
+
+- a. i membri e gli impiegati del Tribunale federale;
+- b. su richiesta: gli ex membri del Tribunale federale;
+- c. su richiesta: gli ex impiegati del Tribunale federale che lavoravano al Tribunale federale al momento del pensionamento.
+
+<sup>3</sup>
+
+Il bollettino del segretariato generale è volto in particolare a informare i destinatari di cui al capoverso 2:
+
+- a. sui progetti in corso al Tribunale federale;
+- b. su questioni organizzative riguardanti il Tribunale federale;
+- c. sull'elezione di nuovi membri e sull'assunzione di nuovi collaboratori del Tribunale federale;
+- d. su eventi particolari come compleanni, anzianità di servizio, promozioni, nascite, matrimoni deli attuali ed ex membri e impiegati del Tribunale federale.
+
+<sup>4</sup> Il bollettino del segretariato generale può contenere, nei limiti previsti al capoverso 3 lettere a-d, dati personali concernenti gli attuali, futuri ed ex membri e impiegati del Tribunale federale. Non contiene dati personali degni di particolare protezione.
+
+<sup>5</sup>
+
+I dati personali di cui al capoverso 4 comprendono in particolare:
+
+- a. cognomi e nomi;
+- b. titolo;
+- c. data di nascita;
+- d. funzione;
+- e. corte o servizio;
+- f. numero di telefono;
+- g. dati concernenti un cambiamento d'ufficio;
+- h. dati concernenti un cambiamento di corte;
+- i. dati concernenti la partenza dal Tribunale federale.
+
+<sup>6</sup>
+
+La pubblicazione dei seguenti dati personali nel bollettino del segretariato generale necessita il consenso della persona interessata:
+
+- a.
+
+  i futuri impiegati del Tribunale federale:
+
+  - 1\. ritratto fotografico,
+  - 2\. dati concernenti l'impiego precedente;
+
+- b. dati concernenti una promozione;
+- c. dati concernenti l'anzianità di servizio;
+- d. dati concernenti il matrimonio (data, nome del coniuge);
+- e. dati concernenti le nascite (data, nome del figlio);
+- f. compleanno tondo e semitondo degli ex impiegati del Tribunale federale.
+
+<sup>7</sup> Il contenuto del bollettino del segretariato generale viene trattato in modo confidenziale dai destinatari di cui al capoverso 2.
+
+<sup>8</sup> Il contenuto del bollettino del segretariato generale può essere messo a disposizione dei destinatari di cui al capoverso 2 mediante una procedura di richiamo protetta da password.
+
+[^80f-1]: Introdotto dal n. I dell’O del TF del 30 ago. 2021, in vigore dal 1° gen. 2022 ([RU 2021 798](https://fedlex.data.admin.ch/eli/oc/2021/798)).
 
 ## Sezione 16: ...
 

@@ -4,11 +4,11 @@ title: Personalverordnung des Bundesgerichts vom 27. August 2001 (PVBger)
 short: PVBger
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/487"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2001-08-27
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2001-487-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/487/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-487-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/487/20210101/de"
 
 (PVBger)
 
-vom 27. August 2001 (Stand am 1. Januar 2021)
+vom 27. August 2001 (Stand am 1. Januar 2022)
 
 Das Schweizerische Bundesgericht,
 
@@ -48,7 +48,7 @@ Diese Verordnung gilt nicht für:
 [^1-2]: Fassung gemäss Ziff. I der V des BGer vom 20. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
 [^1-3]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
 [^1-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1-5]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Anhang Ziff. 1 und Art. 25 Abs. 2, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]. Siehe heute: das BG vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
+[^1-5]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Anhang Ziff. 1 und Art. 25 Abs. 2; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]. Siehe heute: das BG vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
 
 ## 2. Abschnitt: Personalpolitik
 
@@ -256,7 +256,7 @@ Der Vertrag enthält mindestens folgende Punkte:
 
 <sup>1</sup> Befristete Arbeitsverhältnisse dürfen nicht zur Umgehung des Kündigungsschutzes nach Artikel 10 BPG oder der Pflicht zur Stellenausschreibung abgeschlossen werden.[^15-1]
 
-<sup>2 und 3</sup> ...[^15-2]
+<sup>2 und 3</sup> …[^15-2]
 
 [^15-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
 [^15-2]: Aufgehoben durch Ziff. I der V des BGer vom 24. Juni 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)). Siehe auch die UeBest. dieser Änd. am Ende dieses Textes.
@@ -469,7 +469,7 @@ Bis zum Höchstbetrag der Lohnklasse 26 wird der Lohn jährlich wie folgt erhöh
 
 <sup>4</sup> Reichen die bewilligten Mittel nicht aus, so werden die vorgesehenen Lohnerhöhungen vorwiegend in den höchsten Gehältern entsprechend gekürzt.[^25-7]
 
-<sup>5</sup> und <sup>6</sup> ...[^25-8]
+<sup>5</sup> und <sup>6</sup> …[^25-8]
 
 [^25-1]: Fassung gemäss Ziff. I der V des BGer vom 3. Aug. 2009, in Kraft seit 1. Sept. 2009 ([AS 2009 3961](https://fedlex.data.admin.ch/eli/oc/2009/507)).
 [^25-2]: Fassung gemäss Ziff. I der V des BGer vom 18. Dez. 2018, in Kraft seit 1. März 2019 ([AS 2019 619](https://fedlex.data.admin.ch/eli/oc/2019/109)).
@@ -902,7 +902,7 @@ Weitere Entschädigungen nach Artikel 19 Absatz 4 BPG können unter Vorbehalt vo
 Keine Entschädigung wird ausgerichtet, wenn:[^50-2]
 
 - a. eine Weiterbeschäftigung bei einem Arbeitgeber nach Artikel 3 BPG erfolgt;
-- b.[^50-3] ...
+- b.[^50-3] …
 - c. das Arbeitsverhältnis aus eigenem Verschulden (Art. 18) aufgelöst wird.
 
 <sup>5</sup> Wird die Person innert eines Jahres nach der Auflösung des Arbeitsverhältnisses bei einem Arbeitgeber nach Artikel 3 BPG angestellt, so ist die Entschädigung nach den Absätzen 1 und 2 ganz oder teilweise zurückzuerstatten.[^50-4]
@@ -922,7 +922,7 @@ Keine Entschädigung wird ausgerichtet, wenn:[^50-2]
 
 <sup>1</sup> Die Entschädigung nach Artikel 50 Absätze 1, 2 und 3 entspricht mindestens einem Monatslohn und höchstens einem Jahreslohn.[^51-2]
 
-<sup>2</sup> ...[^51-3]
+<sup>2</sup> …[^51-3]
 
 [^51-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
 [^51-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 2453](https://fedlex.data.admin.ch/eli/oc/2013/515)).
@@ -939,7 +939,7 @@ Zur Förderung des Einsatzes von Angestellten in internationalen Organisationen 
 - a. Gewährung von bezahltem, teilweise bezahltem oder unbezahltem Urlaub von bis zu fünf Jahren Dauer;
 - b. Übernahme von ausserordentlichen Kosten, die mit dem Einsatz der Angestellten bei internationalen Organisationen zusammenhängen, soweit diese nicht durch entsprechende Leistungen der internationalen Organisation abgegolten werden.
 
-## 10*a*. Abschnitt:**** Berufliche Vorsorge
+## 10*a*. Abschnitt: Berufliche Vorsorge
 
 [^sec10a-1]
 
@@ -955,7 +955,7 @@ Zur Förderung des Einsatzes von Angestellten in internationalen Organisationen 
 
 <sup>2</sup> Wird einer angestellten Person nach Artikel 26 Absatz 2 keine Teuerungszulage ausgerichtet oder wird ihr Lohn nach Artikel 67 Absatz 2 oder 3 herabgesetzt, so bleibt der bisherige versicherbare Lohn bis zu dem Zeitpunkt unverändert, in dem die Teuerungszulage wieder ausgerichtet wird oder der Lohnanspruch bei Krankheit oder Unfall erlischt.
 
-<sup>3</sup> ...[^52a-2]
+<sup>3</sup> …[^52a-2]
 
 <sup>4</sup> Im Fall von Massnahmen bei Umstrukturierungen nach Artikel 77 bestimmt sich der versicherbare Lohn nach dem Sozialplan. V des BGerV des BGer vom
 
@@ -1175,7 +1175,7 @@ Die Grundsätze des EFD betreffend die Nutzung von Dienstwohnungen und die Entsc
 Gegen Angestellte, die ihre arbeitsrechtlichen Pflichten schuldhaft verletzen, können folgende Disziplinarmassnahmen ergriffen werden:
 
 - a. Verwarnung;
-- b.[^62-1] ...
+- b.[^62-1] …
 - c. Änderung des Aufgabenkreises.
 
 <sup>3</sup>
@@ -1418,7 +1418,7 @@ Die Verjährungsfristen für Ansprüche aus dem Arbeitsverhältnis richten sich 
 
 [^76-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## 14. Abschnitt: Umstrukturierungen****
+## 14. Abschnitt: Umstrukturierungen
 
 [^sec14-1]
 
@@ -1439,7 +1439,7 @@ Die Verjährungsfristen für Ansprüche aus dem Arbeitsverhältnis richten sich 
 Folgende Massnahmen haben gegenüber der Auflösung des Arbeitsverhältnisses Vorrang:
 
 - a.[^77-4] die Weiterbeschäftigung der Angestellten an einer zumutbaren anderen Stelle;
-- b.[^77-5] ...
+- b.[^77-5] …
 - c. die Umschulung und die berufliche Weiterbildung;
 - d. die vorzeitige Pensionierung.
 
@@ -1549,7 +1549,7 @@ Die Tätigkeit der Personaldelegation ist grundsätzlich beratender Natur. Die B
 [^80a-2]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^80a-3]: [SR 172.327.1](https://fedlex.data.admin.ch/eli/cc/2005/124)
 
-## 15*a*. Abschnitt:**** Datenschutz
+## 15*a*. Abschnitt: Datenschutz
 
 [^sec15a-1]
 
@@ -1610,7 +1610,69 @@ Der Datenschutzbeauftragte des Bundesgerichts ist:
 [^80e-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^80e-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
-## 16. Abschnitt: ...
+#### Art. 80f
+
+**Bulletin des Generalsekretariats**[^80f-1]
+
+<sup>1</sup> Das Bulletin des Generalsekretariats ist ein Mitteilungsblatt des Bundesgerichts.
+
+<sup>2</sup>
+
+Die Adressaten des Bulletins des Generalsekretariats sind:
+
+- a. die Mitglieder und die Angestellten des Bundesgerichts;
+- b. auf Wunsch: die ehemaligen Mitglieder des Bundesgerichts;
+- c. auf Wunsch: die ehemaligen Angestellten des Bundesgerichts, die im Zeitpunkt ihrer Pensionierung am Bundesgericht tätig waren.
+
+<sup>3</sup>
+
+Das Bulletin des Generalsekretariats bezweckt insbesondere die Information der Adressaten nach Absatz 2 betreffend:
+
+- a. laufende Projekte am Bundesgericht;
+- b. Organisatorisches betreffend das Bundesgericht;
+- c. die Wahl von neuen Mitgliedern und die Anstellung von neuen Mitarbeitenden des Bundesgerichts;
+- d. besondere Ereignisse, wie Geburtstage, Dienstjubiläen, Beförderungen, Geburten, Hochzeiten der aktuellen sowie der ehemaligen Mitglieder und Angestellten des Bundesgerichts.
+
+<sup>4</sup> Das Bulletin des Generalsekretariats kann im Rahmen von Absatz 3 Buchstabe a-d Personendaten von aktuellen, künftigen sowie ehemaligen Mitgliedern und Angestellten des Bundesgerichts enthalten. Es enthält keine besonders schützenswerten Personendaten.
+
+<sup>5</sup>
+
+Zu den Personendaten nach Absatz 4 gehören insbesondere:
+
+- a. Namen und Vornamen;
+- b. Titel;
+- c. Geburtsdatum;
+- d. Funktion;
+- e. Abteilung- oder Dienst;
+- f. Geschäftstelefonnummer;
+- g. Daten betreffend einen Bürowechsel;
+- h. Daten betreffend einen Abteilungswechsel;
+- i. Daten betreffend den Austritt aus dem Bundesgericht.
+
+<sup>6</sup>
+
+Die Publikation der folgenden Personendaten im Bulletin des Generalsekretariats bedürfen des Einverständnisses der betroffenen Person:
+
+- a.
+
+  für künftige Angestellte des Bundesgerichts:
+
+  - 1\. Porträtfoto,
+  - 2\. Daten betreffend die bisherige Anstellung;
+
+- b. Daten betreffend eine Beförderung;
+- c. Daten betreffend ein Dienstjubiläum;
+- d. Daten betreffend die Eheschliessung (Datum, Name der Ehepartnerin oder des Ehepartners);
+- e. Daten betreffend eine Geburt (Datum, Name des Kindes);
+- f. runde und halbrunde Geburtstage von ehemaligen Angestellten des Bundesgerichts.
+
+<sup>7</sup> Der Inhalt des Bulletins des Generalsekretriats wird von den Adressaten nach Absatz 2 vertraulich behandelt.
+
+<sup>8</sup> Der Inhalt des Bulletins des Generalsekretariats kann den Adressaten nach Absatz 2 durch ein geschütztes Abrufverfahren zugänglich gemacht werden.
+
+[^80f-1]: Eingefügt durch Ziff. I der V des BGer vom 30. Aug. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 798](https://fedlex.data.admin.ch/eli/oc/2021/798)).
+
+## 16. Abschnitt: …
 
 #### Art. 81
 
@@ -1673,13 +1735,13 @@ Der Generalsekretär ist zuständig für die Entscheidungen in Personalangelegen
 In Personalangelegenheiten steht ein Antragsrecht zu:
 
 - a. der Verwaltungskommission für die Wahl des Generalsekretärs und seines Stellvertreters;
-- b.[^86-1] ...
+- b.[^86-1] …
 - c.[^86-2] jeder Abteilung für die Anstellung und die Zuteilung ihrer Gerichtsschreiber;
 - d. den Abteilungspräsidenten für ihre Mitarbeiter;
-- e.[^86-3] ...
+- e.[^86-3] …
 - f. den Leitern der Dienste für ihre Mitarbeiter.
 
-<sup>2</sup> ...[^86-4]
+<sup>2</sup> …[^86-4]
 
 [^86-1]: Aufgehoben durch Ziff. I der V des BGer vom 20. Nov. 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
 [^86-2]: Fassung gemäss Ziff. I der V des BGer vom 20. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5627](https://fedlex.data.admin.ch/eli/oc/2006/831)).
@@ -1715,7 +1777,7 @@ Verwaltungskommission und Generalsekretär erlassen je die Weisungen und Richtli
 
 **Änderung bisherigen Rechts**
 
-...[^88-1]
+…[^88-1]
 
 [^88-1]: Die Änd. können unter [AS 2001 3258](https://fedlex.data.admin.ch/eli/oc/2001/487)konsultiert werden.
 
