@@ -4,11 +4,11 @@ title: "Ordinanza del 28 giugno 2000 sull'organizzazione del Dipartimento federa
 short: OOrg-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2000-282-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2000-282-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20200701/it"
 
 (OOrg-DFI)
 
-del 28 giugno 2000 (Stato 1° luglio 2020)
+del 28 giugno 2000 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -88,10 +88,13 @@ Altri compiti particolari assunti dalla Segreteria generale sono:
 
 - a. vigilanza sulle fondazioni di interesse collettivo sottoposte alla Confederazione;
 - b. istruzione di ricorsi contro decisioni di uffici del Dipartimento;
-- c.[^3-2] gestione del Servizio per la lotta al razzismo e della segreteria della Commissione federale contro il razzismo.
+- c.[^3-2] gestione del Servizio per la lotta al razzismo e della segreteria della Commissione federale contro il razzismo;
+- d.[^3-3] tutela, nei settori di competenza del Dipartimento e d’intesa con la Segreteria generale del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR), degli interessi del proprietario nei confronti di Identitas AG (art. 7*a* della legge del 1° luglio 1966[^3-4] sulle epizoozie).
 
 [^3-1]: Introdotto dall’all. 2 n. 2 dell’O del 19 nov. 2003 sui disabili, in vigore dal 1° gen. 2004 ([RU 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
 [^3-2]: Nuovo testo giusta l’art. 13 cpv. 2 dell’O del 14 ott. 2009 sui progetti in favore dei diritti umani e contro il razzismo, in vigore dal 1° gen. 2010 ([RU 2009 5327](https://fedlex.data.admin.ch/eli/oc/2009/634)).
+[^3-3]: Introdotta dall’all. 3 n. II 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 #### Art. 3a
 
@@ -110,13 +113,14 @@ L’Ufficio federale per le pari opportunità delle persone con disabilità adem
 
 <sup>1</sup> Gli obiettivi di cui agli articoli 5–13 fungono da criteri guida per le unità amministrative del Dipartimento nell’adempimento dei loro compiti e nell’assunzione delle proprie competenze, come sono fissate nella legislazione federale.
 
-<sup>2</sup> In linea di principio, la preparazione di atti legislativi federali e di accordi internazionali spetta ai singoli Uffici in ragione del loro settore d’attività; nel caso di atti internazionali, la preparazione avviene in accordo con il Dipartimento federale degli affari esteri (DFAE) e con il Dipartimento federale dell’economia, della formazione e delle ricerca (DEFR)[^4-1] (economia esterna).
+<sup>2</sup> In linea di principio, la preparazione di atti legislativi federali e di accordi internazionali spetta ai singoli Uffici in ragione del loro settore d’attività; nel caso di atti internazionali, la preparazione avviene in accordo con il Dipartimento federale degli affari esteri (DFAE) e con il DEFR (economia esterna).[^4-1]
 
 <sup>3</sup> Nei loro ambiti di competenza, gli Uffici adempiono i compiti esecutivi assegnati loro dagli atti legislativi federali e dagli accordi internazionali.
 
-<sup>4</sup> Nell’ambito dei propri compiti e nel quadro degli obiettivi di politica estera della Svizzera nonché in accordo con il DFAE e con il DEFR (economia esterna) ed eventualmente con altri Dipartimenti ed Uffici federali, gli Uffici rappresentano la Svizzera in organizzazioni internazionali e partecipano a comitati specifici nazionali ed internazionali e all’elaborazione ed esecuzione di accordi internazionali.
+<sup>4</sup> Nell’ambito dei propri compiti e nel quadro degli obiettivi di politica estera della Svizzera nonché in accordo con il DFAE e con il DEFR[^4-2] (economia esterna) ed eventualmente con altri Dipartimenti ed Uffici federali, gli Uffici rappresentano la Svizzera in organizzazioni internazionali e partecipano a comitati specifici nazionali ed internazionali e all’elaborazione ed esecuzione di accordi internazionali.
 
-[^4-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-1]: Nuovo testo giusta l’all. 3 n. II 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-2]: Nuova espr. giusta l’all. 3 n. II 1 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### Sezione 3: I singoli uffici
 
@@ -346,7 +350,7 @@ Al fine di raggiungere questi obiettivi, l’UFAS assume le funzioni seguenti:
 
 **Ufficio federale della sicurezza alimentare e di veterinaria**[^12-1]
 
-<sup>1</sup> L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) è il centro di competenza della Confederazione nei settori della sicurezza alimentare, degli oggetti d’uso, dell’alimentazione, della salute animale e della protezione degli animali, nonché della protezione delle specie nel commercio internazionale.
+<sup>1</sup> L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) è il centro di competenza della Confederazione nei settori della sicurezza alimentare e degli oggetti d’uso, dell’alimentazione, della salute animale, della protezione degli animali, dell’omologazione di prodotti fitosanitari e della protezione delle specie nel commercio internazionale.[^12-2]
 
 <sup>2</sup>
 
@@ -357,16 +361,25 @@ Sulla base dei risultati della ricerca scientifica, l’USAV persegue soprattutt
 - c. vigilare affinché il pubblico sia informato sulle conoscenze scientifiche di interesse generale in ambito nutrizionale, che assumono segnatamente importanza per la prevenzione delle malattie e la protezione della salute;
 - d. garantire che gli animali siano indenni da epizoozie trasmissibili ad altri animali e agli esseri umani;
 - e. vigilare sulla protezione degli animali contro i dolori, le sofferenze e le lesioni e sull’utilizzazione sostenibile degli animali che vivono allo stato selvatico;
-- f. promuovere l’apertura dei mercati per le derrate alimentari, gli oggetti d’uso, gli animali e i prodotti animali.
+- f. promuovere l’apertura dei mercati per le derrate alimentari, gli oggetti d’uso, gli animali e i prodotti animali;
+- g.[^12-3] valutare i prodotti fitosanitari per quanto concerne i loro effetti nocivi sulla salute degli utilizzatori non professionali, dei residenti e degli astanti;
+- h.[^12-4] garantire che i prodotti fitosanitari siano omologati conformemente alle prescrizioni.
 
-<sup>3</sup> L’USAV prepara e partecipa all’elaborazione di atti normativi sulla sicurezza alimentare, sull’alimentazione, sulla salute animale, sulla protezione degli animali e sulla protezione delle specie nel commercio internazionale. Controlla e coordina la loro esecuzione.
+<sup>3</sup> L’USAV prepara e partecipa all’elaborazione di atti normativi nei settori della sicurezza alimentare e degli oggetti d’uso, dell’alimentazione, della salute animale, della protezione degli animali, dell’omologazione di prodotti fitosanitari e della protezione delle specie nel commercio internazionale. Controlla e coordina la loro esecuzione.[^12-5]
 
 <sup>4</sup> All’USAV è subordinato in quanto istituto di ricerca l’Istituto di virologia e di immunologia (IVI). L’IVI è il centro di competenza della Confederazione in materia di lotta contro le epizoozie. Si occupa segnatamente della diagnostica, della sorveglianza e del controllo delle epizoozie altamente contagiose nell’intento di impedire danni sanitari ed economici; esso procede parimenti alla registrazione dei vaccini a uso veterinario.
 
-<sup>5</sup> All’USAV è aggregata amministrativamente l’Unità federale per la filiera agroalimentare (UFAL). È condotta congiuntamente dai direttori dell’Ufficio federale dell’agricoltura e dell’USAV. Sostiene tali uffici nei compiti di vigilanza sull’esecuzione della legislazione in materia di salute dei vegetali, alimenti per animali, epizoozie, protezione degli animali e derrate alimentari, nonché nell’elaborazione del piano di controllo nazionale pluriennale. Quale organo di coordinamento contribuisce a garantire la sicurezza delle derrate alimentari in tutte le fasi di produzione lungo la catena alimentare.[^12-2]
+<sup>5</sup> All’USAV è aggregata amministrativamente l’Unità federale per la filiera agroalimentare (UFAL). È condotta congiuntamente dai direttori dell’Ufficio federale dell’agricoltura e dell’USAV. Sostiene tali uffici nei compiti di vigilanza sull’esecuzione della legislazione in materia di salute dei vegetali, alimenti per animali, epizoozie, protezione degli animali e derrate alimentari, nonché nell’elaborazione del piano di controllo nazionale pluriennale. Quale organo di coordinamento contribuisce a garantire la sicurezza delle derrate alimentari in tutte le fasi di produzione lungo la catena alimentare.[^12-6]
+
+<sup>6</sup> AllʼUSAV è aggregato amministrativamente e tecnicamente il servizio d’omologazione dei prodotti fitosanitari.[^12-7]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^12-2]: Nuovo testo giusta l’all. 4 n. 1 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-2]: Nuovo testo giusta l’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-3]: Introdotta dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-4]: Introdotta dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-5]: Nuovo testo giusta l’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-6]: Nuovo testo giusta l’all. 4 n. 1 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-7]: Introdotto dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 13
 

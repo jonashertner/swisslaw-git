@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 28. Juni 2000 für das Eidgenössische Depart
 short: OV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20200701/de"
 
 (OV-EDI)
 
-vom 28. Juni 2000 (Stand am 1. Juli 2020)
+vom 28. Juni 2000 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -41,7 +41,7 @@ verordnet:
 Es verfolgt dabei folgende Ziele:
 
 - a. das körperliche, geistige und soziale Wohlbefinden der Einwohnerinnen und Einwohner der Schweiz fördern und dafür sorgen, dass sie vor Gefahren für ihre Gesundheit und vor sozialen Risiken geschützt sind;
-- b.[^1-1] ...
+- b.[^1-1] …
 - c. Daten und Informationen zum besseren Verständnis der Gesellschaft bereitstellen;
 - d. das kulturelle Erbe und die dokumentarischen Werte der Schweiz erhalten und vermitteln;
 - e. die kulturelle Vielfalt, das künstlerische Schaffen und die Verständigung zwischen den Sprach- und Kulturgemeinschaften fördern;
@@ -89,9 +89,12 @@ Darüber hinaus erfüllt das Generalsekretariat folgende besonderen Aufgaben:
 - a. Es übt die Aufsicht aus über die dem Bund unterstehenden gemeinnützigen Stiftungen.
 - b. Es instruiert Beschwerden gegen Verfügungen von Ämtern des Departements.
 - c.[^3-2] Es führt die Fachstelle für Rassismusbekämpfung und das Sekretariat der Eidgenössischen Kommission gegen Rassismus.
+- d.[^3-3] Es nimmt innerhalb des Departements, im Einvernehmen mit dem Generalsekretariat des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF), die Eignerinteressen gegenüber der Identitas AG (Art. 7*a* des Tierseuchengesetzes vom 1. Juli 1966[^3-4]) wahr.
 
 [^3-1]: Eingefügt durch Anhang 2 Ziff. 2 der Behindertengleichstellungsverordnung vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
 [^3-2]: Fassung gemäss Art. 13 Abs. 2 der V vom 14. Okt. 2009 über Menschenrechts- und Antirassismusprojekte, in Kraft seit 1. Jan. 2010 ([AS 2009 5327](https://fedlex.data.admin.ch/eli/oc/2009/634)).
+[^3-3]: Eingefügt durch Anhang 3 Ziff. II 1 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 #### Art. 3a
 
@@ -109,13 +112,14 @@ Das Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen
 
 <sup>1</sup> Die Ziele nach den Artikeln 5–13 dienen den Verwaltungseinheiten des Departements als Richtschnur bei der Erfüllung ihrer Aufgaben und bei der Wahrnehmung ihrer Zuständigkeiten, wie sie in der Bundesgesetzgebung festgelegt sind.
 
-<sup>2</sup> Die Vorbereitung von Bundeserlassen und völkerrechtlichen Verträgen im eigenen Aufgabenbereich ist grundsätzlich Sache der einzelnen Ämter; im internationalen Bereich geschieht dies in Absprache mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) und mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF)[^4-1] (Aussenwirtschaft).
+<sup>2</sup> Die Vorbereitung von Bundeserlassen und völkerrechtlichen Verträgen im eigenen Aufgabenbereich ist grundsätzlich Sache der einzelnen Ämter; im internationalen Bereich geschieht dies in Absprache mit dem Eidgenössischen Departement für auswärtige Angelegenheiten (EDA) und mit dem WBF (Aussenwirtschaft).[^4-1]
 
 <sup>3</sup> Die Ämter erfüllen in ihren Aufgabenbereichen die Vollzugsaufgaben, die ihnen von Bundeserlassen und von völkerrechtlichen Verträgen zugewiesen werden.
 
-<sup>4</sup> Im Bereich ihrer Aufgaben und im Rahmen der aussenpolitischen Ziele der Schweiz vertreten die Ämter, in Absprache mit dem EDA, dem WBF (Aussenwirtschaft) und gegebenenfalls mit anderen Departementen und Bundesämtern, die Schweiz in internationalen Organisationen und wirken in nationalen und internationalen Fachgremien sowie bei der Erarbeitung und dem Vollzug von völkerrechtlichen Verträgen mit.
+<sup>4</sup> Im Bereich ihrer Aufgaben und im Rahmen der aussenpolitischen Ziele der Schweiz vertreten die Ämter, in Absprache mit dem EDA, dem WBF[^4-2] (Aussenwirtschaft) und gegebenenfalls mit anderen Departementen und Bundesämtern, die Schweiz in internationalen Organisationen und wirken in nationalen und internationalen Fachgremien sowie bei der Erarbeitung und dem Vollzug von völkerrechtlichen Verträgen mit.
 
-[^4-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^4-1]: Fassung gemäss Anhang 3 Ziff. II 1 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 
 ### 3. Abschnitt: Die Ämter im Einzelnen
 
@@ -178,7 +182,7 @@ Zur Verfolgung dieser Ziele nimmt das BAK folgende Funktionen wahr:
 
 Darüber hinaus erfüllt das BAK folgende besonderen Aufgaben:
 
-- a.[^6-2] ...
+- a.[^6-2] …
 - b. Es fördert die Ausbildung junger Auslandschweizerinnen und ‑schweizer.
 - c. Es unterstützt die kulturelle Minderheit der Jenischen.
 
@@ -324,7 +328,7 @@ Das BSV verfolgt insbesondere folgende Ziele:
 - a.[^11-2] die soziale Sicherheit gewährleisten gegenüber den Folgen von Alter, Invalidität und Verlust der versorgenden Person sowie bei Erwerbsausfall von Wehr-, Zivildienst- und Zivilschutzpflichtigen.
 - b. die Sozialversicherungen unter Berücksichtigung der gesellschaftlichen und wirtschaftlichen Situation und deren Veränderungen nachhaltig weiterentwickeln;
 - c. die Familien-, Jugend- und Kinderpolitik sowie die Mutterschaft unterstützen und fördern;
-- d.[^11-3] ...
+- d.[^11-3] …
 - e. auf den sozialen Ausgleich zwischen wirtschaftlich unterschiedlich leistungsfähigen Bevölkerungsgruppen hinarbeiten;
 
 <sup>3</sup>
@@ -344,7 +348,7 @@ Zur Verfolgung dieser Ziele nimmt das BSV folgende Funktionen wahr:
 
 **Bundesamt für Lebensmittelsicherheit und Veterinärwesen**[^12-1]
 
-<sup>1</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) ist das Kompetenzzentrum des Bundes für die Bereiche Lebensmittelsicherheit, Gebrauchsgegenstände, Ernährung, Tiergesundheit und Tierschutz sowie für den Bereich des Artenschutzes im internationalen Handel.
+<sup>1</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) ist das Kompetenzzentrum des Bundes für die Bereiche Lebensmittelsicherheit und Gebrauchsgegenstände, Ernährung, Tiergesundheit, Tierschutz, Zulassung von Pflanzenschutzmitteln und Artenschutz im internationalen Handel.[^12-2]
 
 <sup>2</sup>
 
@@ -356,16 +360,25 @@ Das BLV verfolgt, gestützt auf wissenschaftliche Grundlagen, insbesondere folge
 - d. Es stellt sicher, dass die Tiere frei sind von Tierseuchen, die auf andere Tiere und auf den Menschen übertragbar sind.
 - e. Es sorgt für den Schutz der Tiere vor Schmerzen, Leiden oder Schäden und für die nachhaltige Nutzung frei lebender Tiere.
 - f. Es unterstützt die Öffnung der Märkte für Lebensmittel, Gebrauchsgegenstände, Tiere und tierische Produkte.
+- g.[^12-3] Es beurteilt Pflanzenschutzmittel hinsichtlich ihrer schädigenden Wirkung für die Gesundheit der nicht beruflichen Verwender und Verwenderinnen, der Anrainer und Anrainerinnen und Umstehender;
+- h.[^12-4] Es stellt sicher, dass Pflanzenschutzmittel vorschriftsgemäss zugelassen werden.
 
-<sup>3</sup> Das BLV ist vorbereitend und mitwirkend tätig bei der Erarbeitung der Erlasse im Bereich der Lebensmittelsicherheit, der Ernährung, der Tiergesundheit, des Tierschutzes sowie des Artenschutzes im internationalen Handel. Es beaufsichtigt und koordiniert ihren Vollzug.
+<sup>3</sup> Das BLV ist vorbereitend und mitwirkend tätig bei der Erarbeitung der Erlasse in den Bereichen Lebensmittelsicherheit und Gebrauchsgegenstände, Ernährung, Tiergesundheit, Tierschutz, Zulassung von Pflanzenschutzmitteln und Artenschutz im internationalen Handel. Es beaufsichtigt und koordiniert ihren Vollzug.[^12-5]
 
 <sup>4</sup> Dem BLV ist als Forschungsanstalt das Institut für Virologie und Immunologie (IVI) unterstellt. Das IVI ist das Kompetenzzentrum des Bundes im Bereich der Tierseuchenbekämpfung. Es befasst sich insbesondere mit der Diagnostik, Überwachung und Kontrolle hoch ansteckender Tierseuchen zur Verhinderung gesundheitlicher und wirtschaftlicher Schäden sowie mit der Registrierung von Impfstoffen für Tiere.
 
-<sup>5</sup> Dem BLV ist die Bundeseinheit für die Lebensmittelkette (BLK) administrativ zugewiesen.[^12-2] Die BLK wird von den Direktorinnen und Direktoren des Bundesamtes für Landwirtschaft und des BLV gemeinsam geführt. Sie unterstützt diese Ämter bei der Aufsicht über den Vollzug der Pflanzengesundheits-, Futtermittel-, Tierseuchen-, Tierschutz- und Lebensmittelgesetzgebung sowie bei der Erarbeitung des nationalen Kontrollplans. Als Koordinationsstelle trägt sie zur Gewährleistung der Lebensmittelsicherheit auf allen Produktionsstufen entlang der Lebensmittelkette bei.[^12-3]
+<sup>5</sup> Dem BLV ist die Bundeseinheit für die Lebensmittelkette (BLK) administrativ zugewiesen.[^12-6] Die BLK wird von den Direktorinnen und Direktoren des Bundesamtes für Landwirtschaft und des BLV gemeinsam geführt. Sie unterstützt diese Ämter bei der Aufsicht über den Vollzug der Pflanzengesundheits-, Futtermittel-, Tierseuchen-, Tierschutz- und Lebensmittelgesetzgebung sowie bei der Erarbeitung des nationalen Kontrollplans. Als Koordinationsstelle trägt sie zur Gewährleistung der Lebensmittelsicherheit auf allen Produktionsstufen entlang der Lebensmittelkette bei.[^12-7]
+
+<sup>6</sup> Dem BLV ist die Zulassungsstelle für Pflanzenschutzmittel administrativ und fachlich zugewiesen.[^12-8]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^12-2]: Die Änd. gemäss Anhang 3 Ziff. 1 der V vom 16. Dez. 2016 über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Mai 2017, betrifft nur den französischen und italienischen Text ([AS 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)).
-[^12-3]: Die Änd. gemäss Anhang 4 Ziff. 1 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020, betrifft nur den französischen und italienischen Text ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-2]: Fassung gemäss Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-3]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-4]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-5]: Fassung gemäss Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-6]: Die Änd. gemäss Anhang 3 Ziff. 1 der V vom 16. Dez. 2016 über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Mai 2017, betrifft nur den französischen und italienischen Text ([AS 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)).
+[^12-7]: Die Änd. gemäss Anhang 4 Ziff. 1 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020, betrifft nur den französischen und italienischen Text ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-8]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 13
 
@@ -460,7 +473,7 @@ Die Verordnung vom 24. Februar 1988[^18-1] über das Büro für die Gleichstellu
 
 **Änderung bisherigen Rechts**
 
-...[^19-1]
+…[^19-1]
 
 [^19-1]: Die Änderungen können unter [AS 2000 1837](https://fedlex.data.admin.ch/eli/oc/2000/282)konsultiert werden.
 

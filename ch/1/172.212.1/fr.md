@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'organisation du Département fédéral 
 short: Org DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: fr
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-282-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-282-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20200701/fr"
 
 (Org DFI)
 
-du 28 juin 2000 (Etat le 1<sup>er</sup> juillet 2020)
+du 28 juin 2000 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -89,9 +89,12 @@ Il accomplit en outre les tâches particulières suivantes:
 - a. surveillance des fondations d’utilité publique assujetties à la Confédération;
 - b. instruction des recours interjetés contre des offices du DFI;
 - c.[^3-2] il dirige le Service de lutte contre le racisme et assure le secrétariat de la Commission fédérale contre le racisme;
+- d.[^3-3] défense, au sein du département, en accord avec le Secrétariat général du Département fédéral de l’économie, de la formation et de la recherche (DEFR), des intérêts du propriétaire à l’égard d’Identitas SA (art. 7*a* de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^3-4]).
 
 [^3-1]: Introduit par l’annexe 2 ch. 2 de l’O du 19 nov. 2003 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4501](https://fedlex.data.admin.ch/eli/oc/2003/668)).
 [^3-2]: Nouvelle teneur selon l’art. 13 al. 2 de l’O du 14 oct. 2009 sur les projets en faveur des droits de l’homme et de la lutte contre le racisme, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5327](https://fedlex.data.admin.ch/eli/oc/2009/634)).
+[^3-3]: Introduite par l’annexe 3 ch. II 1 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
 #### Art. 3a
 
@@ -109,13 +112,14 @@ Le Bureau fédéral de l’égalité pour les personnes handicapées accomplit l
 
 <sup>1</sup> Les objectifs définis aux art. 5 à 13 de la présente ordonnance constituent pour les unités administratives du DFI les lignes directrices qui servent à l’accomplissement des tâches et à l’exercice des compétences fixées par la législation fédérale.
 
-<sup>2</sup> La préparation des actes normatifs fédéraux et des conventions internationales relevant de leur propre domaine incombe en principe aux offices; dans le domaine international, ils consultent au préalable le Département fédéral des affaires étrangères (DFAE) et le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^4-1] (affaires économiques extérieures).
+<sup>2</sup> La préparation des actes normatifs fédéraux et des conventions internationales relevant de leur propre domaine incombe en principe aux offices; dans le domaine international, ils consultent au préalable le Département fédéral des affaires étrangères (DFAE) et le DEFR (affaires économiques extérieures).[^4-1]
 
 <sup>3</sup> Dans leur domaine, les offices assument les tâches d’exécution qui leur sont dévolues par la législation fédérale et par les conventions de droit international public.
 
-<sup>4</sup> Dans l’accomplissement de leurs tâches et dans le cadre des objectifs de la Suisse en matière de politique extérieure, les offices, après entente avec le DFAE, le DEFR (affaires économiques extérieures) et, le cas échéant, d’autres départements ou offices, représentent la Suisse au sein d’organisations internationales et participent aux travaux de groupes d’experts nationaux et internationaux ainsi qu’à l’élaboration et à l’application de conventions internationales.
+<sup>4</sup> Dans l’accomplissement de leurs tâches et dans le cadre des objectifs de la Suisse en matière de politique extérieure, les offices, après entente avec le DFAE, le DEFR[^4-2] (affaires économiques extérieures) et, le cas échéant, d’autres départements ou offices, représentent la Suisse au sein d’organisations internationales et participent aux travaux de groupes d’experts nationaux et internationaux ainsi qu’à l’élaboration et à l’application de conventions internationales.
 
-[^4-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-1]: Nouvelle teneur selon l’annexe 3 ch. II 1 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 ### Section 3 Offices
 
@@ -345,7 +349,7 @@ Dans ce cadre, l’OFAS exerce les fonctions suivantes:
 
 **Office fédéral de la sécurité alimentaire et des affaires vétérinaires**[^12-1]
 
-<sup>1</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) est le centre de compétences de la Confédération dans les domaines de la sécurité alimentaire, des objets usuels, de la nutrition, de la santé animale, de la protection des animaux et de la protection des espèces dans le commerce international.
+<sup>1</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) est le centre de compétences de la Confédération dans les domaines de la sécurité alimentaire et des objets usuels, de la nutrition, de la santé animale, de la protection des animaux, de l’homologation des produits phytosanitaires et de la protection des espèces dans le commerce international.[^12-2]
 
 <sup>2</sup>
 
@@ -357,15 +361,24 @@ Se fondant sur les résultats de la recherche scientifique, l’OSAV poursuit no
 - d. garantir que les animaux sont exempts d’épizooties transmissibles à d’autres animaux et à l’homme;
 - e. veiller à la protection des animaux contre les douleurs, les maux ou les dommages et à l’utilisation durable des animaux vivant à l’état sauvage;
 - f. soutenir l’ouverture des marchés aux denrées alimentaires, aux objets usuels, aux animaux et aux produits animaux.
+- g.[^12-3] évaluer l’effet nocif des produits phytosanitaires sur la santé des utilisateurs non professionnels, des riverains et des personnes présentes;
+- h.[^12-4] garantir que les produits phytosanitaires sont homologués de manière conforme aux prescriptions.
 
-<sup>3</sup> L’OSAV participe à la préparation et à l’élaboration des actes normatifs en matière de sécurité alimentaire, de nutrition, de santé animale, de protection des animaux et de protection des espèces dans le commerce international. Il surveille et coordonne leur exécution.
+<sup>3</sup> L’OSAV participe à la préparation et à l’élaboration des actes normatifs dans les domaines de la sécurité alimentaire et des objets usuels, de la nutrition, de la santé animale, de la protection des animaux, de l’homologation des produits phytosanitaires et de la protection des espèces dans le commerce international. Il surveille et coordonne leur exécution.[^12-5]
 
 <sup>4</sup> L’Institut de virologie et d’immunologie (IVI) est subordonné à l’OSAV, en tant qu’institut de recherche. L’IVI est le centre de compétences de la Confédération en matière de lutte contre les épizooties. Il se consacre notamment au diagnostic, à la surveillance et au contrôle des épizooties hautement contagieuses dans le but d’empêcher les dommages sanitaires et économiques; il procède également à l’enregistrement des vaccins à usage vétérinaire.
 
-<sup>5</sup> L’Unité fédérale pour la chaîne agroalimentaire (UCAL) est rattachée administrativement à l’OSAV. Elle est dirigée conjointement par les directeurs de l’Office fédéral de l’agriculture et de l’OSAV. Elle soutient ces offices dans la surveillance de l’exécution de la législation phytosanitaire et de la législation relative aux aliments pour animaux, aux épizooties, à la protection des animaux et aux denrées alimentaires, ainsi que dans l’élaboration du plan de contrôle national. Par sa fonction de coordination, elle contribue à garantir la sécurité des denrées alimentaires à toutes les étapes de la chaîne de production agroalimentaire.[^12-2]
+<sup>5</sup> L’Unité fédérale pour la chaîne agroalimentaire (UCAL) est rattachée administrativement à l’OSAV. Elle est dirigée conjointement par les directeurs de l’Office fédéral de l’agriculture et de l’OSAV. Elle soutient ces offices dans la surveillance de l’exécution de la législation phytosanitaire et de la législation relative aux aliments pour animaux, aux épizooties, à la protection des animaux et aux denrées alimentaires, ainsi que dans l’élaboration du plan de contrôle national. Par sa fonction de coordination, elle contribue à garantir la sécurité des denrées alimentaires à toutes les étapes de la chaîne de production agroalimentaire.[^12-6]
+
+<sup>6</sup> Le service d’homologation des produits phytosanitaires est rattaché administrativement et techniquement à l’OSAV.[^12-7]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^12-2]: Nouvelle teneur selon l’annexe 4 ch. 1 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-3]: Introduite par l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-4]: Introduite par l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-6]: Nouvelle teneur selon l’annexe 4 ch. 1 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-7]: Introduit par l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 13
 
