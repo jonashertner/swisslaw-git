@@ -4,11 +4,11 @@ title: Legge federale del 25 marzo 1977 sugli esplosivi (LEspl)
 short: LEspl
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/522_522_522"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 1977-03-25
 in_force: 1980-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20130101/it/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20130101/it"
 
 (LEspl)**[^t-1]**
 
-del 25 marzo 1977 (Stato 1° gennaio 2013) (Stato 1° gennaio 2013)
+del 25 marzo 1977 (Stato 1° gennaio 2022)
 
-[^t-1]: Introdotta dal n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^t-1]: Introdotta dell’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -48,9 +48,9 @@ decreta:
 <sup>5</sup> Sono parimenti fatte salve le prescrizioni del diritto cantonale in materia di edilizia e di polizia del fuoco.[^1-4]
 
 [^1-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
-[^1-2]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^1-3]: Nuovo testo giusta il n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^1-4]: Introdotto dal n. 3 dell’all. alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-2]: Nuovo testo giusta l’all. n. 3 alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-3]: Nuovo testo giusta l’all. n. 3 alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-4]: Introdotto dall’all. n. 3 alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 2
 
@@ -72,7 +72,7 @@ decreta:
 
 <sup>2</sup> Può prevedere disposizioni speciali per tali corpi.
 
-[^2a-1]: Introdotto dal n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^2a-1]: Introdotto dell’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 3
 
@@ -132,7 +132,7 @@ Per polvere da fuoco s’intende:
 
 [^7a-1]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
 
-## Sezione 2:...
+## Sezione 2: ...
 
 #### Art. 8
 
@@ -244,13 +244,12 @@ Il Consiglio federale, uditi i Cantoni, l’Istituto nazionale svizzero d’assi
 
 <sup>5</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca[^14-3] esercita la vigilanza sugli esami.
 
-<sup>6</sup> Per adempiere i loro compiti legali, le autorità incaricate di eseguire il presente articolo sono autorizzate a utilizzare sistematicamente il numero d’assicurato AVS conformemente alle disposizioni della legge federale del 20 dicembre 1946[^14-4] su l’assicurazione per la vecchiaia e per i superstiti.[^14-5]
+<sup>6</sup> ...[^14-4]
 
-[^14-1]: Nuovo testo del per. giusta il n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^14-2]: Introdotto dal n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-1]: Nuovo testo del per. giusta l’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-2]: Introdotto dall’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^14-3]: Nuova espr. giusta il n. I 32 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
-[^14-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^14-5]: Introdotto dal n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-4]: Introdotto dall’all. n. 5 alla LF del 12 giu. 2009 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)). Abrogato dall’all. n. 37 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 15
 
@@ -341,7 +340,7 @@ Il Consiglio federale può agevolare le condizioni relative al deposito e alla c
 <sup>2</sup> Sono riservate le disposizioni sulla prevenzione degli infortuni giusta la legge federale del 20 marzo 1981[^23-1] sull’assicurazione contro gli infortuni.[^23-2]
 
 [^23-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^23-2]: Nuovo testo giusta il n. 14 dell’all. alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art.1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^23-2]: Nuovo testo giusta l’all. n. 14 alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art.1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
 #### Art. 24
 
@@ -389,12 +388,12 @@ Il Consiglio federale, uditi i Cantoni, l’Istituto nazionale svizzero d’assi
 
 <sup>1</sup> I Cantoni sorvegliano il commercio di esplosivi e pezzi pirotecnici. È fatto salvo l’articolo 33 capoverso 3.[^28-1]
 
-<sup>2</sup> L’Amministrazione delle dogane vigila sull’importazione di esplosivi e pezzi pirotecnici.[^28-2]
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini vigila sull’importazione di esplosivi e pezzi pirotecnici.[^28-2]
 
 <sup>3</sup> La vigilanza sul commercio con esplosivi nell’esercito e nelle amministrazioni militari federali e cantonali spetta alla Confederazione.
 
-[^28-1]: Per. introdotto dal n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^28-2]: Nuovo testo giusta il n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^28-1]: Per. introdotto dall’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^28-2]: Nuovo testo giusta il n. I 37 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamenot della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 29
 
@@ -410,7 +409,7 @@ Il Consiglio federale, uditi i Cantoni, l’Istituto nazionale svizzero d’assi
 
 <sup>5</sup> Il Consiglio federale disciplina la tenuta degli inventari dei pezzi pirotecnici. Esso può restringerla a determinati tipi.
 
-[^29-1]: Per. introdotto dal n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^29-1]: Per. introdotto dell’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 30
 
@@ -423,7 +422,7 @@ Il Consiglio federale, uditi i Cantoni, l’Istituto nazionale svizzero d’assi
 <sup>3</sup> È riservato l’obbligo di annunciare l’infortunio conformemente all’articolo 45 della legge federale del 20 marzo 1981[^30-1] sull’assicurazione contro gli infortuni.[^30-2]
 
 [^30-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^30-2]: Nuovo testo giusta il n. 14 dell’all. alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^30-2]: Nuovo testo giusta l’all. n. 14 alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
 #### Art. 31
 
@@ -448,7 +447,7 @@ Gli organi d’esecuzione possono, durante le ore di lavoro, entrare senza preav
 <sup>3</sup> In collaborazione con le autorità cantonali competenti, l’Ufficio centrale verifica mediante controlli per campionatura che gli esplosivi e i pezzi pirotecnici messi in commercio siano conformi alle prescrizioni legali.[^33-2]
 
 [^33-1]: Nuovo testo giusta il n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^33-2]: Introdotto dal n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^33-2]: Introdotto dall’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 34
 
@@ -456,7 +455,7 @@ Gli organi d’esecuzione possono, durante le ore di lavoro, entrare senza preav
 
 I provvedimenti intesi a garantire protezione ai lavoratori sono eseguiti secondo la legge federale del 20 marzo 1981[^34-2] sull’assicurazione contro gli infortuni.
 
-[^34-1]: Nuovo testo giusta il n. 14 dell’all. alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art.1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^34-1]: Nuovo testo giusta l’all. n. 14 alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art.1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 [^34-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
 ## Sezione 6*a*:**** Tasse
@@ -485,7 +484,7 @@ Per le autorizzazioni previste nella presente legge sono riscosse tasse. Il Cons
 
 Le decisioni inerenti ai permessi d’uso ai sensi dell’articolo 14 possono essere impugnate mediante ricorso alla Segreteria di Stato per la formazione, la ricerca e l’innovazione[^36-2].
 
-[^36-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^36-1]: Nuovo testo giusta l’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^36-2]: Nuova espr. giusta il n. I 32 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
 
 ## Sezione 8: Disposizioni penali****
@@ -502,7 +501,7 @@ Le decisioni inerenti ai permessi d’uso ai sensi dell’articolo 14 possono es
 
 è punito, se ha agito intenzionalmente, con la detenzione o con la multa. Se l’autore ha agito per negligenza, la pena è dell’arresto o della multa.
 
-2.[^37-1] Chiunque, senza autorizzazione, fabbrica, importa o commercia polvere da fuoco oppure semifabbricati o prodotti finiti che la contengono è punito con la multa.
+<sup>2.</sup> Chiunque, senza autorizzazione, fabbrica, importa o commercia polvere da fuoco oppure semifabbricati o prodotti finiti che la contengono è punito con la multa.[^37-1]
 
 [^37-1]: Nuovo testo giusta il n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 
@@ -540,7 +539,7 @@ chiunque in altro modo contravviene intenzionalmente alla presente legge, alle d
 [^40-2]: Abrogati dall’art. 45 della LF del 13 dic. 1996 sul materiale bellico, con effetto dal 1° apr. 1998 ([RU 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794); [FF 1995 II 864](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)).
 [^40-3]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
 [^40-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^40-5]: Nuovo testo giusta il n. II 5 dell’all. alla L del 15 dic. 2000 sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)[2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+[^40-5]: Nuovo testo giusta l’all. n. II 5 alla L del 15 dic. 2000 sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)[2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 
 #### Art. 41
 

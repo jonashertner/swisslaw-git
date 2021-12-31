@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. März 1977 über Sprengstoffe (Sprengstoffgesetz, S
 short: SprstG
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/522_522_522"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 1977-03-25
 in_force: 1980-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20130101/de/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20130101/de"
 
 (Sprengstoffgesetz, SprstG**[^t-1]**)
 
-vom 25. März 1977 (Stand am 1. Januar 2013)
+vom 25. März 1977 (Stand am 1. Januar 2022)
 
 [^t-1]: Abkürzung eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
@@ -132,7 +132,7 @@ Als Schiesspulver gelten:
 
 [^7a-1]: Eingefügt durch Ziff. I 3 des BG vom 13 Dez. 1996, in Kraft seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
 
-## 2. Abschnitt: *…*
+## 2. Abschnitt: *...*
 
 #### Art. 8
 
@@ -165,7 +165,7 @@ Die Aus- und die Durchfuhr von Sprengmitteln und Schiesspulver richten sich:
 
 <sup>2</sup> Pyrotechnische Gegenstände dürfen nur mit einer Bewilligung des Bundes hergestellt oder eingeführt werden. Der Bundesrat regelt Erteilung, Entzug und Erlöschen der Bewilligungen. Er kann von der Bewilligungspflicht für einzelne Produkte oder Produktegruppen absehen, sofern die Sicherheit durch andere Vorkehren gewährleistet ist.[^9-4]
 
-<sup>3</sup> …[^9-5]
+<sup>3</sup> *...*[^9-5]
 
 [^9-1]: Fassung gemäss Ziff. I 3 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54), [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^9-2]: Fassung gemäss Ziff. I 3 des BG vom 22. Juni 2001 über die Straffung der Bundesgesetzgebung über Waffen, Kriegsmaterial, Sprengstoff sowie zivil und militärisch verwendbare Güter, in Kraft seit 1. März 2002 ([AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54), [BBl 2000 3369](https://fedlex.data.admin.ch/eli/fga/2000/714)).
@@ -245,15 +245,14 @@ Der Bundesrat erlässt nach Anhören der Kantone, der Schweizerischen Unfallvers
 
 <sup>5</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung[^14-5] beaufsichtigt die Prüfungen.
 
-<sup>6</sup> Die mit dem Vollzug dieses Artikels beauftragten Behörden sind zur Erfüllung ihrer gesetzlichen Aufgaben berechtigt, die AHV-Versichertennummer nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^14-6] über die Alters- und Hinterlassenenversicherung systematisch zu verwenden.[^14-7]
+<sup>6</sup> …[^14-6]
 
 [^14-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^14-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^14-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 5 des BG vom 12. Juni 2010 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^14-4]: Eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^14-5]: Ausdruck gemäss Ziff. I 32 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
-[^14-6]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^14-7]: Eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-6]: Eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)). Aufgehoben durch Anhang Ziff. 37 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 15
 
@@ -269,7 +268,7 @@ Der Bundesrat erlässt nach Anhören der Kantone, der Schweizerischen Unfallvers
 
 <sup>5</sup> Es ist verboten, Sprengmittel und pyrotechnische Gegenstände, die für andere Zwecke bestimmt sind, zu Vergnügungszwecken zu verwenden. Die Kantone können die Verwendung von Schiesspulver für die Feier historischer Anlässe oder für ähnliche Bräuche ausnahmsweise erlauben, wenn für die fachgemässe Verwendung Gewähr besteht.
 
-[^15-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Die Anpassung wurde im ganzen Erlass vorgenommen.
+[^15-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Erlass vorgenommen.
 [^15-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 16
@@ -397,12 +396,12 @@ Im Übrigen gelten die allgemeinen Bestimmungen des Obligationenrechts[^27-1] ü
 
 <sup>1</sup> Die Kantone überwachen den Verkehr mit Sprengmitteln und pyrotechnischen Gegenständen. Artikel 33 Absatz 3 bleibt vorbehalten.[^28-1]
 
-<sup>2</sup> Die Zollverwaltung überwacht die Einfuhr von Sprengmitteln und pyrotechnischen Gegenständen.[^28-2]
+<sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit überwacht die Einfuhr von Sprengmitteln und pyrotechnischen Gegenständen.[^28-2]
 
 <sup>3</sup> Die Überwachung des Verkehrs mit Sprengmitteln in der Armee und in den eidgenössischen und kantonalen Militärverwaltungen ist Sache des Bundes.
 
 [^28-1]: Zweiter Satz eingefügt durch Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^28-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 12. Juni 2009, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^28-2]: Fassung gemäss Ziff. I 37 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 29
 
@@ -540,7 +539,7 @@ wird mit Haft oder mit Busse bestraft.
 
 <sup>1</sup> Die Artikel 224–226 des Strafgesetzbuches[^40-1] schliessen Strafen nach diesem Gesetz nur aus, wenn sie die Tat nach dem Unrechtsgehalt und dem Verschulden allseitig abgelten.
 
-<sup>2</sup> und <sup>3</sup> …[^40-2]
+<sup>2</sup> und <sup>3</sup> *...*[^40-2]
 
 <sup>4</sup> Die Strafbestimmungen dieses Gesetzes gehen den Artikeln 49 und 50 des Chemikaliengesetzes vom 15. Dezember 2000[^40-3] und den Artikeln 112 und 113 des Unfallversicherungsgesetzes vom 20. März 1981[^40-4] vor.[^40-5]
 
@@ -556,7 +555,7 @@ wird mit Haft oder mit Busse bestraft.
 
 <sup>1</sup> Die Strafverfolgung ist Sache der Kantone.
 
-<sup>2</sup> …[^41-1]
+<sup>2</sup> *...*[^41-1]
 
 [^41-1]: Aufgehoben durch Ziff. I des BG vom 13. Dez. 1996, mit Wirkung seit 1. April 1998 ([AS 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [BBl 1996 II 1042](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
 
@@ -568,7 +567,7 @@ wird mit Haft oder mit Busse bestraft.
 
 <sup>1</sup> Der Bundesrat erlässt die Vollzugsbestimmungen.
 
-<sup>2</sup> Die Kantone bezeichnen die zuständigen Vollzugsbehörden und erlassen die organisatorischen Bestimmungen; …[^42-1]
+<sup>2</sup> Die Kantone bezeichnen die zuständigen Vollzugsbehörden und erlassen die organisatorischen Bestimmungen; *...*[^42-1]
 
 <sup>3</sup> Der Vollzug des Gesetzes obliegt, soweit er nicht ausdrücklich dem Bund vorbehalten ist, den Kantonen. Diese können für die Erteilung von Bewilligungen sowie für besondere Kontrollen innerhalb eines vom Bundesrat festzusetzenden Rahmens Gebühren erheben.
 
