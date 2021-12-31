@@ -4,13 +4,13 @@ number: "210.100"
 title: "Lescha introductiva tar il cudesch civil svizzer *"
 short: LItCCS
 language: rm
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-18
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3169/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3220/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3169/pdf_file"
 
 (LItCCS)[^t-1]
 
-dals 12-06-1994 (versiun dals 01-07-2021)
+dals 12-06-1994 (versiun dals 01-01-2022)
 
 acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
@@ -165,7 +165,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Per l'expulsiun immediata tenor l'artitgel 28b alinea 4 è cumpetenta la polizia chantunala. La procedura sa drizza tenor la lescha da polizia[^15a-1].
 
-<sup>2</sup> La regenza po installar in post da cussegliaziun per persunas violentas e designescha il post cumpetent.
+<sup>2</sup> …
 
 [^15a-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
 
@@ -452,13 +452,13 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>3</sup> Las autoritads communalas, regiunalas e chantunalas sco er terzas persunas èn obligadas da dar las infurmaziuns ch'èn necessarias per decider davart l'adopziun. Il secret professiunal resta resalvà.
 
-<sup>4</sup> La procedura ed il recurs sa drizzan tenor las disposiziuns generalas da questa lescha.
+<sup>4</sup> Dal rest sa drizzan la procedura ed il recurs tenor las disposiziuns dal dretg da la protecziun d'uffants e da creschids, uschenavant ch'il dretg surordinà u questa lescha na prevesa nagut auter.
 
 #### Art. 36a
 
 **2. Enconuschientscha da la derivanza**
 
-<sup>1</sup> La regenza designescha l'autoritad che coordinescha la procedura concernent las infurmaziuns davart las persunalias dals geniturs biologics e che sustegna e cusseglia l'uffant, sch'el giavischa quai (art. 268c).
+<sup>1</sup> L'Autoritad per la protecziun d'uffants e da creschids coordinescha la procedura concernent las infurmaziuns davart las persunalias dals geniturs biologics (art. 268c) e sustegna e cusseglia sin giavisch l'uffant, ils geniturs biologics sco er lur descendents (art. 268d). Per quest intent maina l'Autoritad per la protecziun d'uffants e da creschids in post d'infurmaziun e da cussegliaziun per la tschertga da l'origin.
 
 <sup>2</sup> Questa autoritad po en spezial incaricar posts adattads da far ulteriurs scleriments, da cussegliar l'uffant sco er d'entrar en contact e d'intermediar il contact cun ils geniturs.
 
@@ -474,57 +474,72 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 38
 
-**I. Autoritad per la protecziun d'uffants e da creschids 1. organisaziun e cumpetenza geografica**
+**I. Autoritad per la protecziun d'uffants e da creschids 1. en general**
 
-<sup>1</sup> I existan las suandantas autoritads per la protecziun d'uffants e da creschids:
+<sup>1</sup> L'Autoritad per la protecziun d'uffants e da creschids è in'autoritad chantunala spezialisada ch'è independenta en l'applicaziun dal dretg.
 
-- a) Engiadina/vals dal sid (regiuns Bernina, Engiadina bassa/Val Müstair e Malögia);
-- b) Grischun central/Moesa (regiuns Alvra, Moesa e Viamala);
-- c) Grischun dal nord (regiuns Landquart, Plessur e Plaun);
-- d) Partenz/Tavau (regiun Partenz/Tavau);
-- e) Surselva (regiun Surselva).
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>2</sup> Ils commembers da las autoritads èn autorisads ed obligads da far substituziuns en autras autoritads per la protecziun d'uffants e da creschids.
+<sup>2</sup> …
 
-<sup>3</sup> Las autoritads per la protecziun d'uffants e da creschids èn suttamessas administrativamain al departament che vegn designà da la regenza.
+<sup>3</sup> …
+
+<sup>4</sup> L'Autoritad per la protecziun d'uffants e da creschids dispona d'ina direcziun e d'almain tschintg filialas regiunalas.
 
 #### Art. 39
 
-**2. posiziun ed incumbensas**
+**2. incumbensas**
 
-<sup>1</sup> Las autoritads per la protecziun d'uffants e da creschids èn autoritads chantunalas ch'èn independentas en l'applicaziun dal dretg.
+<sup>1</sup> …
 
-<sup>2</sup> Ellas adempleschan las incumbensas da la protecziun d'uffants e da creschids che vegnan attribuidas ad ellas tras il cudesch civil svizzer[^39-1] e tras l'ulteriur dretg federal, nun ch'il dretg chantunal delegheschia questas cumpetenzas ad in'autra autoritad.
+<sup>2</sup> L'Autoritad per la protecziun d'uffants e da creschids ademplescha las incumbensas da la protecziun d'uffants e da creschids che vegnan attribuidas ad ella tras il Cudesch civil svizzer e tras l'ulteriur dretg federal, nun ch'il dretg chantunal delegheschia questas incumbensas ad in'autra autoritad.
 
-[^39-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
+<sup>3</sup> L'Autoritad per la protecziun d'uffants e da creschids ha en spezial las suandantas ulteriuras incumbensas:
+
+- a) cussegliar ils geniturs tar l'elavuraziun da contracts da mantegniment;
+- b) deponer e tegnair en salv mandats preventivs (art. 361);
+- c) ademplir las incumbensas da l'autoritad chantunala centrala per las convenziuns internaziunalas en ils secturs da la protecziun d'uffants e da creschids sco er da l'autoritad d'execuziun per repatriaziuns d'uffants;
+- d) incumbensas ch'èn vegnidas attribuidas ad ella tras il dretg chantunal u tras la Regenza.
+
+<sup>4</sup> L'Autoritad per la protecziun d'uffants e da creschids po incaricar posts adattads d'ademplir las incumbensas tenor l'alinea 3 litera d, en spezial da sclerir la situaziun da l'uffant e da la famiglia a l'exteriur, da realisar proceduras da mediaziun giudizialas ed extragiudizialas a l'exteriur sco er da repatriar in uffant.
 
 #### Art. 40
 
 **3. direcziun**
 
-<sup>1</sup> Ils manaders da las autoritads per la protecziun d'uffants e da creschids furman la direcziun.
+<sup>1</sup> La manadra u il manader maina l'Autoritad per la protecziun d'uffants e da creschids en quai che reguarda il persunal, il manaschi e l'organisaziun e surveglia sia gestiun.
 
-<sup>2</sup> Cun resalva da las cumpetenzas da l'autoritad da surveglianza ha la direcziun en spezial las suandantas incumbensas:
+<sup>2</sup> La manadra u il manader ha en spezial las suandantas incumbensas:
 
 - a) coordinaziun e collavuraziun;
-- b) svilup d'ina pratica unitara;
-- c) regulaziun da la substituziun tranter las autoritads;
+- b) garanzia d'ina pratica unitara en l'applicaziun dal dretg sco er d'in andament unitar da las proceduras;
+- c) …
 - d) barat d'infurmaziuns e d'experientschas;
 - e) conclusiun da la cunvegna da prestaziun cun il departament e realisaziun da questa cunvegna;
-- f) controlla dal preventiv;
-- g) garanzia d'ina scolaziun e furmaziun supplementara professiunala dals commembers da las autoritads, dals procuraturs professiunals e dals procuraturs privats.
+- f) elavuraziun e controlla dal preventiv;
+- g) garanzia d'ina scolaziun e d'ina furmaziun supplementara professiunala da las commembras e dals commembers da l'autoritad, da las procuraturas professiunalas e dals procuraturs professiunals sco er da las procuraturas privatas e dals procuraturs privats;
+- h) garanzia da la qualitad en il rom da l'adempliment da las incumbensas da l'Autoritad per la protecziun d'uffants e da creschids;
+- i) represchentaziun da l'Autoritad per la protecziun d'uffants e da creschids vers anora.
 
-<sup>3</sup> Ella fa il preventiv per mauns da la regenza e suttametta al departament propostas per fixar standards sco er per sviluppar e per garantir la qualitad.
+<sup>3</sup> …
 
-<sup>4</sup> La direcziun sa constituescha sezza. Il parsura la represchenta envers il departament.
+<sup>4</sup> …
+
+<sup>5</sup> La manadra u il manader po ademplir las incumbensas d'ina commembra u d'in commember da l'autoritad.
 
 #### Art. 41
 
 **4. surveglianza**
 
-<sup>1</sup> Las autoritads per la protecziun d'uffants e da creschids vegnan survegliadas da la regenza.
+<sup>1</sup> L'Autoritad per la protecziun d'uffants e da creschids vegn survegliada da la Regenza.
 
-<sup>2</sup> En il rom da las cumpetenzas da surveglianza po ella dar directivas a las autoritads per la protecziun d'uffants e da creschids.
+<sup>2</sup> En il rom da las cumpetenzas da surveglianza po la Regenza dar directivas a l'Autoritad per la protecziun d'uffants e da creschids.
+
+<sup>3</sup> L'Autoritad per la protecziun d'uffants e da creschids è suttamessa administrativamain al departament che vegn designà da la Regenza.
 
 #### Art. 42
 
@@ -539,41 +554,27 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **6. cumposiziun**
 
-<sup>1</sup> Las autoritads per la protecziun d'uffants e da creschids sa cumponan mintgamai:
+<sup>1</sup> Las filialas da l'Autoritad per la protecziun d'uffants e da creschids sa cumponan mintgamai:
 
-- a) d'in manader en uffizi cumplain;
-- b) d'almain dus ulteriurs commembers da l'autoritad en uffizi cumplain u principal;
-- c) da referendaris qualifitgads e d'ulteriurs collavuraturs dal secretariat.
+- a) d'ina manadra u d'in manader da la filiala sco commembra u commember da l'autoritad;
+- b) d'almain duas ulteriuras commembras u dus ulteriurs commembers da l'autoritad;
+- c) d'ulteriuras collavuraturas ed ulteriurs collavuraturs dal secretariat sco er dals servetschs da sustegn.
 
-<sup>2</sup> Ils commembers da las autoritads han la qualificaziun persunala e professiunala necessaria.
+<sup>2</sup> Las commembras ed ils commembers da l'autoritad han la qualificaziun persunala e professiunala necessaria.
 
-<sup>3</sup> Sche las relaziuns pretendan quai, pon persunas cun enconuschientschas spezialas vegnir engaschadas sco commembras da las autoritads en uffizi accessoric.
+<sup>3</sup> …
 
 #### Art. 44
 
-**7. engaschament e prevenziun professiunala**
-
-<sup>1</sup> La regenza elegia mintgamai il manader sco er ils ulteriurs commembers da l'autoritad.
-
-<sup>2</sup> La cumpetenza per engaschar e per relaschar ils ulteriurs collavuraturs sa drizza tenor la lescha dal persunal[^44-1].
-
-<sup>3</sup> Las relaziuns d'engaschament e la prevenziun professiunala dals commembers da l'autoritad, dals referendaris qualifitgads e dals ulteriurs collavuraturs sa drizzan tenor il dretg chantunal da persunal respectivamain da prevenziun.
-
-[^44-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
+**…**
 
 #### Art. 45
 
-**8. gestiun**
-
-<sup>1</sup> Il manader maina l'autoritad per la protecziun d'uffants e da creschids en quai che reguarda il persunal, il manaschi e l'organisaziun. El surveglia l'entira activitad e represchenta l'autoritad vers anora.
+**…**
 
 #### Art. 45a
 
-**9. cunvegnas internaziunalas**
-
-<sup>1</sup> La regenza designescha l'autoritad centrala per las convenziuns internaziunalas en ils secturs da la protecziun d'uffants e da creschids sco er l'autoritad d'execuziun per repatriaziuns d'uffants.
-
-<sup>2</sup> Questa autoritad po incaricar posts adattads d'ademplir tschertas incumbensas, en spezial da sclerir la situaziun da l'uffant e da la famiglia a l'exteriur, da realisar proceduras da mediaziun giudizialas ed extragiudizialas a l'exteriur sco er da repatriar in uffant.
+**…**
 
 #### Art. 46
 
@@ -581,41 +582,41 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Manar la curatella professiunala è ina incumbensa regiunala. Las regiuns pon ademplir sulettas u cuminaivlamain questa incumbensa.
 
-<sup>2</sup> Per incumbensa da las autoritads per la protecziun d'uffants e da creschids mainan las curatellas professiunalas las mesiras ch'èn vegnidas ordinadas en la protecziun d'uffants e da creschids.
+<sup>2</sup> Per incumbensa da l'Autoritad per la protecziun d'uffants e da creschids mainan las curatellas professiunalas las mesiras ch'èn vegnidas ordinadas en la protecziun d'uffants e da creschids.
 
-<sup>3</sup> Ellas èn cumpetentas per cussegliar e per sustegnair ils avugads e procuraturs privats.
+<sup>3</sup> Ellas èn cumpetentas per cussegliar e per sustegnair las avugadas privatas ed ils avugads privats sco er las procuraturas privatas ed ils procuraturs privats.
 
 #### Art. 47
 
 **2. cumposiziun**
 
-<sup>1</sup> Las curatellas professiunalas sa cumponan per regla mintgamai d'in manader, dals procuraturs professiunals e dals collavuraturs dal secretariat.
+<sup>1</sup> Las curatellas professiunalas sa cumponan per regla mintgamai d'ina manadra u d'in manader, da las procuraturas professiunalas e dals procuraturs professiunals sco er da las collavuraturas e dals collavuraturs dal secretariat.
 
 <sup>2</sup> Las regiuns ston procurar ch'i vegnian creadas ed occupadas las plazzas ch'èn necessarias per pudair ademplir las incumbensas en moda adequata ed a temp.
 
-<sup>3</sup> En cas che la regiun è negligenta, po l'autoritad da surveglianza nominar – sin dumonda da l'autoritad per la protecziun d'uffants e da creschids – in procuratur professiunal sin custs da la regiun.
+<sup>3</sup> En cas che la regiun è negligenta, po l'autoritad da surveglianza nominar – sin dumonda da l'Autoritad per la protecziun d'uffants e da creschids – ina procuratura professiunala u in procuratur professiunal sin custs da la regiun.
 
 #### Art. 48
 
 **3. premissas d'engaschament**
 
-<sup>1</sup> Sco procuratur professiunal po vegnir engaschà, tgi che ha la qualificaziun persunala necessaria ed in diplom renconuschì, per regla en ils secturs lavur sociala, pedagogia/psicologia u dretg.
+<sup>1</sup> Sco procuratura professiunala u procuratur professiunal po vegnir engaschà, tgi che ha la qualificaziun persunala necessaria ed in diplom renconuschì, per regla en ils secturs lavur sociala, pedagogia/psicologia u dretg.
 
-<sup>2</sup> En cas excepziunals motivads e cun il consentiment da l'autoritad per la protecziun d'uffants e da creschids cumpetenta poi vegnir desistì da la premissa d'in diplom renconuschì.
+<sup>2</sup> En cas excepziunals motivads e cun il consentiment da l'Autoritad per la protecziun d'uffants e da creschids poi vegnir desistì da la premissa d'in diplom renconuschì.
 
-<sup>3</sup> Per engaschar ils procuraturs professiunals po vegnir clamà il sustegn consultativ da l'autoritad per la protecziun d'uffants e da creschids.
+<sup>3</sup> Per engaschar las procuraturas professiunalas ed ils procuraturs professiunals sto vegnir clamà il sustegn consultativ da l'Autoritad per la protecziun d'uffants e da creschids.
 
 #### Art. 49
 
 **4. gestiun**
 
-<sup>1</sup> Il manader maina la curatella professiunala en quai che reguarda il persunal, il manaschi e l'organisaziun. El surveglia l'entira activitad e represchenta la curatella professiunala vers anora.
+<sup>1</sup> La manadra u il manader maina la curatella professiunala en quai che reguarda il persunal, il manaschi e l'organisaziun, surveglia l'entira gestiun da la curatella professiunala e represchenta quella vers anora.
 
 #### Art. 50
 
 **III. Gestiun da las curatellas 1. en general**
 
-<sup>1</sup> Ils procuraturs professiunals mainan las curatellas che l'autoritad per la protecziun d'uffants e da creschids na deleghescha betg ad ina terza persuna.
+<sup>1</sup> Las procuraturas professiunalas ed ils procuraturs professiunals mainan las curatellas che l'Autoritad per la protecziun d'uffants e da creschids na deleghescha betg ad ina terza persuna.
 
 <sup>2</sup> Las disposiziuns davart la gestiun da las curatellas valan confurm al senn per il sectur da la protecziun d'uffants.
 
@@ -623,13 +624,13 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **2. surveglianza**
 
-<sup>1</sup> Ils procuraturs èn suttamess a la surveglianza professiunala da l'autoritad per la protecziun d'uffants e da creschids; quella als po dar instrucziuns.
+<sup>1</sup> Las procuraturas ed ils procuraturs èn suttamess a la surveglianza professiunala da l'Autoritad per la protecziun d'uffants e da creschids; quella als po dar instrucziuns.
 
 #### Art. 50b
 
 **3. execuziun d'uffizi**
 
-<sup>1</sup> L'autoritad per la protecziun d'uffants e da creschids po adossar ils custs da l'execuziun d'uffizi a procuraturs che n'adempleschan culpaivlamain betg lur obligaziuns legalas.
+<sup>1</sup> L'Autoritad per la protecziun d'uffants e da creschids po adossar ils custs da l'execuziun d'uffizi a procuraturas ed a procuraturs che n'adempleschan culpaivlamain betg lur obligaziuns legalas.
 
 #### Art. 50c
 
@@ -639,26 +640,26 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 51
 
-**IV. Plazzament per motivs d'assistenza 1. plazzament tras il medi a) ordinaziun**
+**IV. Plazzament per motivs d'assistenza 1. plazzament tras la media u il medi a) ordinaziun**
 
 <sup>1</sup> L'autorisaziun d'ordinar in plazzament per motivs d'assistenza ha:
 
-- a) mintga medi che ha la permissiun da pratitgar independentamain la professiun en il chantun, numnadamain:
-  - 1\. medis dal provediment medicinal da basa;
-  - 2\. medis cun in titel da spezialist da psichiatria e da psicoterapia;
-  - 3\. medis cun in titel da spezialist da psichiatria e da psicoterapia d'uffants e da giuvenils;
-- b) mintga medi uffizial;
-- c) il medi responsabel da l'instituziun plazzanta.
+- a) mintga media e mintga medi che ha la permissiun da pratitgar independentamain la professiun en il chantun, numnadamain:
+  - 1\. medias e medis dal provediment medicinal da basa;
+  - 2\. medias e medis cun in titel da spezialista u spezialist da psichiatria e da psicoterapia;
+  - 3\. medias e medis cun in titel da spezialista u spezialist da psichiatria e da psicoterapia d'uffants e da giuvenils;
+- b) mintga media uffiziala e mintga medi uffizial;
+- c) la media responsabla u il medi responsabel da l'instituziun plazzanta.
 
 <sup>2</sup> Per l'execuziun po vegnir clamà l'agid da la polizia.
 
-<sup>3</sup> La decisiun da plazzament dal medi sto vegnir communitgada immediatamain a l'autoritad per la protecziun d'uffants e da creschids sco er al represchentant legal.
+<sup>3</sup> La decisiun da plazzament da la media u dal medi sto vegnir communitgada immediatamain a l'Autoritad per la protecziun d'uffants e da creschids sco er a la represchentanza legala.
 
 #### Art. 51a
 
 **b) prolungaziun**
 
-<sup>1</sup> Sch'il plazzament tras il medi dura pli ditg che 6 emnas, sto l'instituziun inoltrar a l'autoritad per la protecziun d'uffants e da creschids ina dumonda motivada per cuntinuar cun la mesira, e quai il pli tard 10 dis da lavur avant la fin da quest termin.
+<sup>1</sup> Sch'il plazzament tras la media u il medi dura pli ditg che 6 emnas, sto l'instituziun inoltrar a l'Autoritad per la protecziun d'uffants e da creschids ina dumonda motivada per cuntinuar cun la mesira, e quai il pli tard 10 dis da lavur avant la fin da quest termin.
 
 #### Art. 52
 
@@ -672,7 +673,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **3. relaschada**
 
-<sup>1</sup> L'instituziun decida davart la relaschada en cas d'in plazzament tras il medi fin a 6 emnas sco er en cas singuls, sche l'autoritad per la protecziun d'uffants e da creschids l'ha surdada la cumpetenza da relaschar la persuna pertutgada.
+<sup>1</sup> L'instituziun decida davart la relaschada en cas d'in plazzament tras la media u il medi fin a 6 emnas sco er en cas singuls, sche l'Autoritad per la protecziun d'uffants e da creschids l'ha surdada la cumpetenza da relaschar la persuna pertutgada.
 
 <sup>2</sup> Sche l'autoritad per la protecziun d'uffants e da creschids è cumpetenta per la relaschada, sto l'instituziun far ina dumonda motivada, uschespert che las premissas per il plazzament n'èn betg pli ademplidas.
 
@@ -680,9 +681,9 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **4. assistenza posteriura a) ordinaziun**
 
-<sup>1</sup> En cas da basegn po il medi responsabel – avant la relaschada – sa cunvegnir cun la persuna plazzada ad in'assistenza posteriura adequata.
+<sup>1</sup> En cas da basegn po la media responsabla u il medi responsabel sa cunvegnir cun la persuna plazzada – avant la relaschada – ad in'assistenza posteriura adequata.
 
-<sup>2</sup> Sch'ina tala cunvegna na reussescha betg e sch'igl è avant maun in privel da recidiva, po l'autoritad per la protecziun d'uffants e da creschids ordinar in'assistenza posteriura adequata per maximalmain 12 mais sin dumonda dal medi responsabel.
+<sup>2</sup> Sch'ina tala cunvegna na reussescha betg e sch'igl è avant maun in privel da recidiva, po l'Autoritad per la protecziun d'uffants e da creschids ordinar in'assistenza posteriura adequata per maximalmain 12 mais sin dumonda da la media responsabla u dal medi responsabel u d'uffizi.
 
 #### Art. 54a
 
@@ -729,14 +730,11 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 56
 
-**V. Procedura 1. dretg applitgabel**
+**V. Procedura 1. princip**
 
-<sup>1</sup> Cun resalva da disposiziuns divergentas da questa lescha e dal cudesch civil svizzer[^56-1] sa drizza la procedura davant l'autoritad per la protecziun d'uffants e da creschids tenor il cudesch da procedura civila[^56-2] e tenor la legislaziun introductiva chantunala.
+<sup>1</sup> Per la procedura davant l'Autoritad per la protecziun d'uffants e da creschids valan las disposiziuns generalas dal Cudesch da procedura civila e sias regulaziuns concernent la procedura summarica confurm al senn, uschenavant ch'il dretg surordinà e questa lescha na prevesan nagut auter.
 
 <sup>2</sup> Las proceduras en il sectur da la protecziun d'uffants e da creschids n'èn betg publicas.
-
-[^56-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
-[^56-2]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 
 #### Art. 57
 
@@ -750,7 +748,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 - b) sch'igl èn avant maun indizis concrets ch'in uffant u ina persuna maiorenna saja basegnus e basegnia protecziun; u
 - c) sche l'autoritad vegn appellada en ils cas previs dal cudesch civil svizzer[^57-1].
 
-<sup>3</sup> L'avertura d'ina procedura sto vegnir communitgada a la persuna pertutgada ed a ses represchentants legals.
+<sup>3</sup> L'avertura d'ina procedura sto vegnir communitgada a la persuna pertutgada sco er a sia represchentanza legala.
 
 [^57-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
 
@@ -758,22 +756,24 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **3. direcziun da la procedura ed instrucziun a) en general**
 
-<sup>1</sup> Il manader da l'autoritad per la protecziun d'uffants e da creschids u in commember da l'autoritad ch'el ha designà maina ed instruescha la procedura.
+<sup>1</sup> La manadra u il manader da l'Autoritad per la protecziun d'uffants e da creschids ubain ina commembra u in commember da l'autoritad ch'ella u el ha designà, maina ed instruescha la procedura.
 
 <sup>2</sup> La direcziun da la procedura è en spezial cumpetenta per il suandant:
 
 - a) ordinar mesiras preventivas en cas d'ina urgenza speziala (art. 445 al. 2);
 - b) ordinar ina represchentanza per la procedura da protecziun d'uffants e da creschids (art. 314a<sup>bis</sup> e 449a);
 - c) conceder la giurisdicziun gratuita;
-- d) relaschar disposiziuns da stritgada e disposiziuns da betg entrar en chaussa.
+- d) decretar disposiziuns da stritgada e disposiziuns da betg entrar en chaussa;
+- e) ordinar u retrair l'effect suspensiv en la procedura da meds legals (art. 450c ed art. 450e);
+- f) decretar disposiziuns d'execuziun (art. 450g).
 
 #### Art. 58a
 
 **b) audiziun**
 
-<sup>1</sup> L'audiziun persunala da la persuna pertutgada vegn per regla fatga d'in commember da l'autoritad. En cas da relaziuns spezialas po ina persuna spezialisada adattada vegnir incumbensada cun l'audiziun.
+<sup>1</sup> L'audiziun persunala da la persuna pertutgada vegn fatga d'ina commembra u d'in commember da l'autoritad. En cas da relaziuns spezialas po ina persuna spezialisada adattada vegnir incumbensada cun l'audiziun.
 
-<sup>2</sup> Sin dumonda da la persuna pertutgada u en cas d'ina greva intervenziun en ils dretgs persunals vegn l'audiziun fatga da l'autoritad colleghiala, nun che quai paria dad esser sproporziunà.
+<sup>2</sup> En cas d'ina greva intervenziun en ils dretgs persunals vegn l'audiziun fatga da l'autoritad colleghiala.
 
 <sup>3</sup> Il cuntegn ch'è essenzial per la decisiun sto vegnir protocollà.
 
@@ -781,10 +781,10 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **c) execuziun da l'obligaziun da cooperar**
 
-<sup>1</sup> Sche las persunas ch'èn participadas a la procedura u terzas persunas refusan nungiustifitgadamain la cooperaziun, po il commember da l'autoritad che instruescha la procedura ordinar che l'obligaziun da cooperar vegnia exequida sfurzadamain. Admissibel è en spezial il suandant:
+<sup>1</sup> Sche las persunas ch'èn participadas a la procedura u terzas persunas refusan nungiustifitgadamain la cooperaziun, po la commembra u il commember da l'autoritad che instruescha la procedura ordinar che l'obligaziun da cooperar vegnia exequida sfurzadamain. Admissibel è en spezial il suandant:
 
 - a) la preschentaziun persunala;
-- b) la controlla tras in medi;
+- b) la controlla tras ina media u in medi;
 - c) la consegna u la sequestraziun da documents, d'objects e da valurs da facultad.
 
 <sup>2</sup> Per l'execuziun sfurzada po vegnir clamà l'agid da la polizia.
@@ -799,30 +799,36 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 59a
 
-**b) cumpetenza singula dal manader**
+**b) cumpetenza singula en la protecziun d'uffants e da creschids**
 
-<sup>1</sup> La cumpetenza singula dal manader u da ses substitut cumpiglia il suandant:
+<sup>1</sup> La cumpetenza singula da la commembra u dal commember da l'autoritad che instruescha la procedura cumpiglia il suandant:
 
-- a) ordinar u retrair l'effect suspensiv en la procedura d'appellaziun (art. 450c e 450e);
-- b) relaschar disposiziuns d'execuziun (art. 450g).
+- a) nominar la procuratura u il procuratur (art. 306 al. 2, art. 400, art. 401, art. 402 ed art. 403), decider davart ina midada da la procuratura u dal procuratur, perquai che la relaziun da lavur sco procuratura u procuratur va a fin (art. 421 cifra 3) u sin dumonda da la procuratura u dal procuratur (art. 422);
+- b) permetter e decider davart l'investiziun e davart il deposit da la facultad (art. 408 al. 3);
+- c) approvar il quint final ed il rapport final sco er liberar la procuratura u il procuratur da l'obligaziun da far in rapport final ed in quint final, sche sia relaziun da lavur va a fin (art. 425);
+- d) surpigliar ina mesira existenta pronunziada da l'autoritad da l'anteriur domicil (art. 442 al. 5 ed art. 444);
+- e) fixar l'indemnisaziun da la procuratura u dal procuratur (art. 404 al. 2) sco er da la mandataria u dal mandatari (art. 366, art. 392 cifra 2 ed art. 307);
+- f) decider davart l'autezza dals custs da procedura e davart l'adossament da tals.
 
 #### Art. 59b
 
 **c) cumpetenza singula en la protecziun d'uffants**
 
-<sup>1</sup> En la procedura da protecziun d'uffants cumpiglia la cumpetenza singula dal commember da l'autoritad che instruescha la procedura il suandant:
+<sup>1</sup> En la procedura da protecziun d'uffants cumpiglia la cumpetenza singula da la commembra u dal commember da l'autoritad che instruescha la procedura il suandant:
 
 - a) dumandar la dretgira cumpetenta da reglar da nov la tgira genituriala (art. 134 al. 1);
-- b) reglar da nov la tgira genituriala en cas ch'ils geniturs èn d'accord u en cas ch'in genitur è mort sco er approvar contracts da mantegniment (art. 134 al. 3, art. 287);
-- c) reglar da nov la relaziun persunala en cas ch'ils geniturs èn d'accord, senza midar la tgira genituriala u la contribuziun da mantegniment (art. 134 al. 4);
+- b) reglar da nov il quità e la tgira genituriala en cas ch'ils geniturs èn d'accord u en cas ch'in genitur è mort sco er approvar contracts da mantegniment (art. 134 al. 3 ed al. 4, art. 179 al. 1, art. 287, art. 298d ed art. 315b al. 2);
+- c) reglar da nov la relaziun persunala u la participaziun da mintga genitur a la tgira en cas nundispitaivels senza midar la tgira genituriala u il mantegniment (art. 134 al. 4, art. 179 al. 1 ed art. 298d);
 - d) dumandar l'ordinaziun d'ina represchentanza per l'uffant en la procedura da divorzi u da separaziun (art. 146 al. 2 cifra 2, art. 299 al. 2 lit. b CPC[^59b-1]);
-- e) approvar l'adopziun da l'uffant avugadà (art. 265 al. 3);
-- f) transferir la tgira genituriala d'in genitur a l'auter sin dumonda cuminaivla dals geniturs (art. 298 al. 3);
+- e) approvar l'adopziun da l'uffant avugadà (art. 265 al. 2);
+- f) …
 - g) transferir la tgira genituriala cuminaivla sin dumonda cuminaivla (art. 298 al. 1);
-- h) nominar il procuratur per il scleriment da la paternitad e reglar il mantegniment (art. 309, art. 308 al. 2);
+- h) nominar la procuratura u il procuratur per il scleriment da la paternitad e reglar il mantegniment (art. 308 al. 2);
 - i) ordinar l'inventarisaziun u la facturaziun periodica ed in rapport periodic davart la facultad da l'uffant (art. 318 al. 3, art. 322 al. 2);
 - j) permetter la consumaziun parziala da la facultad da l'uffant (art. 320 al. 2);
-- k) ordinar ina curatella da represchentanza per l'uffant betg anc naschì per far valair dretgs d'ierta (art. 544 al. 1<sup>bis</sup>).
+- k) ordinar ina curatella da represchentanza per l'uffant betg anc naschì per far valair dretgs d'ierta (art. 544 al. 1<sup>bis</sup>);
+- l) nominar in'avugada u in avugà ubain ina procuratura u in procuratur sin ordinaziun giudiziala (art. 298 al. 3 ed art. 315a al. 1);
+- m) nominar in'avugada u in avugà per in uffant che n'è betg sut tgira genituriala (art. 327a).
 
 [^59b-1]: CS [272](https://db.clex.ch/link/Bund/272/rm)
 
@@ -830,14 +836,14 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **d) cumpetenza singula en la protecziun da creschids**
 
-<sup>1</sup> En la procedura da protecziun da creschids cumpiglia la cumpetenza singula dal commember da l'autoritad che instruescha la procedura il suandant:
+<sup>1</sup> En la procedura da protecziun da creschids cumpiglia la cumpetenza singula da la commembra u dal commember da l'autoritad che instruescha la procedura il suandant:
 
-- a) controllar, interpretar e cumplettar l'incumbensa d'avair quità sco er infurmar la persuna incumbensada davart ses dretgs e surdar il document (art. 363 e 364);
+- a) …
 - b) fixar l'indemnisaziun, sche l'incumbensa d'avair quità na cuntegna betg ina regulaziun (art. 366);
-- c) approvar ils acts giuridics en il rom da l'administraziun extraordinaria da la facultad (art. 374 al. 3);
+- c) …
 - d) fixar il dretg da represchentanza en cas da mesiras medicinalas (art. 381, art. 382 al. 3);
-- e) far in inventari sco er ordinar ina inventarisaziun publica (art. 405 al. 2 e 3);
-- f) iniziar e surdar la mesira existenta a l'autoritad per la protecziun d'uffants e da creschids dal nov domicil (art. 442, art. 444).
+- e) far in inventari sco er ordinar ina inventarisaziun publica (art. 405 al. 2 ed al. 3).
+- f) …
 
 #### Art. 60
 
@@ -845,12 +851,13 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> La dretgira chantunala è l'instanza giudiziala da recurs.
 
-<sup>2</sup> Cun resalva da disposiziuns divergentas da questa lescha e dal cudesch civil svizzer[^60-1] sa drizza la procedura tenor il cudesch da procedura civila[^60-2] e tenor la legislaziun introductiva chantunala.
+<sup>2</sup> Cunter decisiuns intermediaras da l'Autoritad per la protecziun d'uffants e da creschids poi vegnir fatg recurs tar la Dretgira chantunala entaifer 10 dis dapi lur communicaziun.
 
-<sup>3</sup> Las disposiziuns davart la sistida dals termins sco er davart novs fatgs e davart novs meds da cumprova n'èn betg applitgablas.
+<sup>3</sup> La Dretgira chantunala n'è betg liada vi da las propostas da las partidas ed eruescha d'uffizi ils fatgs. Novs fatgs e novs meds da cumprova èn admess.
 
-[^60-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
-[^60-2]: CS [272](https://db.clex.ch/link/Bund/272/rm)
+<sup>4</sup> Termins legals e termins ordinads da l'autoritad na vegnan betg sistids. Las partidas ston vegnir rendidas attentas a quest fatg.
+
+<sup>5</sup> Dal rest valan las regulaziuns per l'appellaziun en la procedura civila confurm al senn, uschenavant ch'il dretg surordinà na prevesa nagut auter.
 
 #### Art. 61
 
@@ -858,7 +865,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Persunas spezialisadas dals secturs medischina, tgira, furmaziun, educaziun, assistenza, cussegliaziun sociala e religiun che survegnan – exequind lur professiun – enconuschientscha dal fatg ch'in uffant u in creschì è periclità da commetter acts da violenza cunter terzas persunas u cunter sasez, èn obligadas d'annunziar questa periclitaziun.
 
-<sup>2</sup> Tgi ch'è en possess d'ina disposiziun dal pazient, sto annunziar quella al medi responsabel, uschenavant ch'el survegn enconuschientscha da l'incapacitad da giuditgar dal disponent.
+<sup>2</sup> Tgi ch'è en possess d'ina disposiziun da la pazienta u dal pazient, sto annunziar quella a la media responsabla u al medi responsabel, uschenavant ch'ella u el survegn enconuschientscha da l'incapacitad da giuditgar da la disponenta u dal disponent.
 
 #### Art. 62
 
@@ -886,15 +893,41 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 63a
 
-**b) mesiras**
+**b) mesiras per la protecziun d'uffants**
 
-<sup>1</sup> Ils custs per mesiras ston vegnir surpigliads da la persuna pertutgada u dals titulars da la tgira genituriala, nun che terzas persunas sajan obligadas da surpigliar quests custs.
+<sup>1</sup> …
 
-<sup>2</sup> En moda subsidiara ston els vegnir surpigliads da la communitad ch'è cumpetenta per il sustegn tenor il dretg public. Las disposiziuns correspundentas èn applitgablas.
+<sup>2</sup> …
+
+<sup>3</sup> Ils custs da mesiras ambulantas e staziunaras per la protecziun d'uffants vegnan surpigliads da la vischnanca al domicil civil da l'uffant pertutgà, nun che terzas persunas sajan obligadas da surpigliar quests custs, premess ch'i saja avant maun ina decisiun u ina recumandaziun da l'Autoritad per la protecziun d'uffants e da creschids u d'ina dretgira ubain ina recumandaziun pronunziada d'ina autra autoritad spezialisada en la protecziun d'uffants e sustegnida da l'Autoritad per la protecziun d'uffants e da creschids. Sch'ina vischnanca contesta dad esser cumpetenta per surpigliar ils custs, po l'Autoritad per la protecziun d'uffants e da creschids pajar anticipadamain ils custs.
+
+<sup>4</sup> Las titularas ed ils titulars da la tgira genituriala sa participeschan als custs da mesiras per la protecziun d'uffants en la dimensiun da la contribuziun dals geniturs ch'è vegnida definida da la Conferenza svizra da l'agid social, almain dentant cun 10 francs per di. Sch'els n'han betg las capacitads economicas respectivas, vegn la contribuziun dals geniturs surpigliada da la communitad ch'è cumpetenta per il sustegn public da las titularas e dals titulars da la tgira genituriala.
+
+<sup>5</sup> 95 pertschient dals custs da las mesiras staziunaras per la protecziun d'uffants po la vischnanca pretender enavos dal chantun a quint dal pool intercommunal che vegn manà dal chantun.
+
+<sup>6</sup> 80 pertschient da las contribuziuns dals geniturs ch'èn vegnidas pajadas per ils custs da mesiras staziunaras per la protecziun d'uffants ston vegnir transmessas da la vischnanca al chantun a favur dal pool intercommunal.
+
+<sup>7</sup> Ils custs nets a quint dal pool intercommunal tenor l'alinea 5 e l'alinea 6 vegnan repartids l'onn suandant sin las vischnancas en la proporziun da la populaziun permanenta.
+
+#### Art. 63a bis
+
+**c) mesiras per la protecziun da creschids**
+
+<sup>1</sup> Ils custs per mesiras ambulantas e staziunaras per la protecziun da creschids ston vegnir surpigliads da la persuna pertutgada, nun che terzas persunas sajan obligadas da surpigliar quests custs.
+
+<sup>2</sup> En moda subsidiara ston ils custs vegnir pajads da la communitad ch'è cumpetenta per il sustegn public. Las disposiziuns correspundentas èn applitgablas.
+
+<sup>3</sup> Sche las assicuranzas da malsauns u las vischnancas contestan dad esser cumpetentas per surpigliar ils custs d'in plazzament per motivs da provediment ordinà da la media u dal medi, vegnan quests custs pajads anticipadamain dal chantun.
+
+#### Art. 63a ter
+
+**d) surpigliada dals custs en cas da midada da domicil**
+
+<sup>1</sup> Sche la persuna pertutgada mida domicil durant ina mesira, ston ils custs da mesiras per la protecziun d'uffants sco er ils custs da mesiras per la protecziun da creschids, che vegnan pajads en moda subsidiara da la communitad, vegnir surpigliads proporziunalmain da las vischnancas tenor la durada dal domicil da la persuna pertutgada en las vischnancas respectivas.
 
 #### Art. 63b
 
-**Custs en connex cun mesiras medicinalas**
+**d) custs en connex cun mesiras medicinalas**
 
 <sup>1</sup> Ils custs en connex cun mesiras medicinalas che resultan en la procedura dal plazzament per motivs da provediment e che n'èn betg part dals custs da la procedura giudiziala u che na vegnan betg pajads da las assicuranzas da malsauns, ston vegnir pajads da la persuna, a la quala la procedura sa referescha.
 
@@ -906,7 +939,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Las actas vegnan archivadas da l'autoritad per la protecziun d'uffants e da creschids respectivamain da la dretgira en cas da proceduras giudizialas.
 
-<sup>2</sup> Suenter che l'avugadia u la curatella è finida, èn ils procuraturs obligads da surdar en furma ordinada tut las actas a l'autoritad per la protecziun d'uffants e da creschids.
+<sup>2</sup> Suenter che l'avugadia u la curatella è finida, èn las procuraturas ed ils procuraturs obligads da surdar en furma ordinada tut las actas a l'Autoritad per la protecziun d'uffants e da creschids.
 
 #### Art. 64a
 
@@ -932,11 +965,11 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> En in'ordinaziun regla la regenza en spezial ils detagls davart:
 
-- a) l'organisaziun da las autoritads per la protecziun d'uffants e da creschids;
+- a) l'organisaziun sco er ils intschess geografics da las filialas;
 - b) la direcziun da las curatellas;
 - c) il plazzament per motivs d'assistenza;
-- d) ils custs da procedura e da mesiras, en spezial las taxas sco er l'indemnisaziun e la cumpensaziun da las spesas dals procuraturs;
-- e) l'indemnisaziun dals commembers da las autoritads en uffizi accessoric.
+- d) ils custs da procedura e da mesiras, en spezial las taxas sco er l'indemnisaziun e la cumpensaziun da las spesas da las procuraturas e dals procuraturs;
+- e) l'indemnisaziun da las commembras e dals commembers da l'autoritad en uffizi accessoric.
 
 ### 2.3. Dretg d'ierta
 
@@ -1117,17 +1150,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 85
 
-**II. Plant da partiziun d'ierta**
-
-<sup>1</sup> Suenter che la correspundenza è terminada, relascha il president da la dretgira las ordinaziuns necessarias per sclerir ils fatgs.
-
-<sup>2</sup> En spezial po el ordinar a las partidas da prender ulteriuras posiziuns en scrit u a bucca davart tschertas dumondas ed incumbensar ina partida da cumprovar tschertas pretensiuns ch'ella ha fatg, uschenavant ch'il cudesch civil svizzer[^85-1] na cuntegna betg prescripziuns divergentas davart la repartiziun da la cumprova.
-
-<sup>3</sup> La dretgira po ordinar d'uffizi u sin proposta ulteriuras retschertgas da cumprova.
-
-<sup>4</sup> Davart la repartiziun dals custs decida il derschader tenor liber appreziar.
-
-[^85-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
+**…**
 
 ### 2.4. Dretgs reals
 
@@ -1768,11 +1791,11 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 146c
 
-**4. publicaziun da las datas en l'internet**
+**4. access public electronic**
 
-<sup>1</sup> Il chantun publitgescha en l'internet las datas dal register principal che pon vegnir consultadas senza stuair cumprovar in interess.
+<sup>1</sup> Las datas dal register principal che pon vegnir consultadas senza stuair cumprovar in interess vegnan rendidas accessiblas dal chantun a la publicitad sin via electronica.
 
-<sup>2</sup> Las consultaziuns ston sa referir a bains immobigliars, e per di dastgan vegnir fatgas maximalmain tschintg consultaziuns. Ils access vegnan protocollads automaticamain, ed ils protocols vegnan conservads durant 1 onn.
+<sup>2</sup> Permessas èn mo consultaziuns che sa refereschan a bains immobigliars. Il sistem d'infurmaziun sto vegnir protegì cunter consultaziuns da seria. Ils access vegnan protocollads automaticamain, ed ils protocols vegnan conservads durant 1 onn.
 
 <sup>3</sup> Tras ina dumonda en scrit pon ils proprietaris da bains immobigliars pretender dal post spezialisà ch'el laschia prender invista dals protocols concernent lur bains immobigliars.
 

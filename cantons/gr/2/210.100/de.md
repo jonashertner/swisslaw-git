@@ -4,13 +4,13 @@ number: "210.100"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGzZGB
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-18
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3169/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3220/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3169/pdf_file"
 
 (EGzZGB)[^t-1]
 
-Vom 12.06.1994 (Stand 01.07.2021)
+Vom 12.06.1994 (Stand 01.01.2022)
 
 Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
@@ -162,7 +162,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Für die sofortige Ausweisung gemäss Artikel 28b Absatz 4 ist die Kantonspolizei zuständig. Das Verfahren richtet sich nach dem Polizeigesetz[^15a-1].
 
-<sup>2</sup> Die Regierung kann eine Beratungsstelle für Gewalt ausübende Personen schaffen und bezeichnet die zuständige Stelle.
+<sup>2</sup> …
 
 [^15a-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
 
@@ -449,13 +449,13 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>3</sup> Kommunale, regionale und kantonale Behörden sowie Dritte sind verpflichtet, die für den Adoptionsentscheid erforderlichen Auskünfte zu erteilen. Das Berufsgeheimnis bleibt vorbehalten.
 
-<sup>4</sup> Das Verfahren und der Weiterzug richten sich nach den allgemeinen Bestimmungen dieses Gesetzes.
+<sup>4</sup> Im Übrigen richten sich das Verfahren und der Weiterzug nach den Bestimmungen des Kindes- und Erwachsenenschutzrechts, soweit das übergeordnete Recht oder dieses Gesetz nichts anderes vorsehen.
 
 #### Art. 36a
 
 **2. Kenntnis der Abstammung**
 
-<sup>1</sup> Die Regierung bezeichnet die Behörde, welche das Auskunftsverfahren über die Personalien der leiblichen Eltern koordiniert und das Kind auf Wunsch beratend unterstützt (Art. 268c).
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde koordiniert das Auskunftsverfahren über die Personalien der leiblichen Eltern (Art. 268c) und unterstützt das Kind, die leiblichen Eltern sowie deren Nachkommen auf Wunsch beratend (Art. 268d). Hierzu führt die Kindes- und Erwachsenenschutzbehörde eine Auskunfts- und Beratungsstelle für Herkunftssuche.
 
 <sup>2</sup> Diese kann geeignete Stellen insbesondere mit weiteren Abklärungen, der Beratung sowie der Kontaktaufnahme und -vermittlung beauftragen.
 
@@ -471,55 +471,72 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 #### Art. 38
 
-**I. Kindes- und Erwachsenenschutzbehörde 1. Organisation und geografische Zuständigkeit**
+**I. Kindes- und Erwachsenenschutzbehörde 1. Allgemein**
 
-<sup>1</sup> Es bestehen folgende Kindes- und Erwachsenenschutzbehörden:
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde ist eine kantonale, in der Rechtsanwendung unabhängige Fachbehörde.
 
-- a) Engadin/Südtäler (Regionen Bernina, Engiadina Bassa/Val Müstair und Maloja);
-- b) Mittelbünden/Moesa (Regionen Albula, Moesa und Viamala);
-- c) Nordbünden (Regionen Landquart, Plessur und Imboden);
-- d) Prättigau/Davos (Region Prättigau/Davos);
-- e) Surselva (Region Surselva).
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>2</sup> Die Behördenmitglieder sind zur Stellvertretung in anderen Kindes- und Erwachsenenschutzbehörden berechtigt und verpflichtet.
+<sup>2</sup> …
 
-<sup>3</sup> Die Kindes- und Erwachsenenschutzbehörden sind dem von der Regierung bezeichneten Departement administrativ unterstellt.
+<sup>3</sup> …
+
+<sup>4</sup> Die Kindes- und Erwachsenenschutzbehörde verfügt über eine Leitung und mindestens fünf regionale Zweigstellen.
 
 #### Art. 39
 
-**2. Stellung und Aufgaben**
+**2. Aufgaben**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörden sind kantonale, in der Rechtsanwendung unabhängige Behörden.
+<sup>1</sup> …
 
-<sup>2</sup> Sie nehmen die ihnen im Zivilgesetzbuch und im übrigen Bundesrecht zugewiesenen Aufgaben im Kindes- und Erwachsenenschutz wahr, sofern das kantonale Recht diese Zuständigkeiten nicht an eine andere Behörde delegiert.
+<sup>2</sup> Die Kindes- und Erwachsenenschutzbehörde nimmt die ihr im Zivilgesetzbuch und im übrigen Bundesrecht zugewiesenen Aufgaben im Kindes- und Erwachsenenschutz wahr, sofern das kantonale Recht diese Aufgaben nicht an eine andere Behörde delegiert.
+
+<sup>3</sup> Der Kindes- und Erwachsenenschutzbehörde obliegen insbesondere folgende weitere Aufgaben:
+
+- a) Beratung der Eltern bei der Ausarbeitung von Unterhaltsverträgen;
+- b) Hinterlegung und Aufbewahrung von Vorsorgeaufträgen (Art. 361);
+- c) Wahrnehmung der Aufgaben der zentralen kantonalen Behörde für die internationalen Übereinkommen in den Bereichen des Kindes- und Erwachsenenschutzes sowie der Vollstreckungsbehörde bei Kindesrückführungen;
+- d) Aufgaben, welche ihr durch das kantonale Recht oder die Regierung zugeteilt werden.
+
+<sup>4</sup> Die Kindes- und Erwachsenenschutzbehörde kann geeignete Stellen mit der Erfüllung der Aufgaben gemäss Absatz 3 Litera d beauftragen, insbesondere der Abklärung der Situation des Kindes und der Familie im Ausland, der Durchführung von Vermittlungs- und Mediationsverfahren im Ausland sowie der Rückführung eines Kindes ins Ausland.
 
 #### Art. 40
 
-**3. Geschäftsleitung**
+**3. Leitung**
 
-<sup>1</sup> Die Leiter der Kindes- und Erwachsenenschutzbehörden bilden die Geschäftsleitung.
+<sup>1</sup> Die Leiterin beziehungsweise der Leiter führt die Kindes- und Erwachsenenschutzbehörde in personeller, betrieblicher und fachlicher Hinsicht und überwacht deren Geschäftstätigkeit.
 
-<sup>2</sup> Der Geschäftsleitung obliegen unter Vorbehalt der Zuständigkeiten der Aufsichtsbehörde insbesondere folgende Aufgaben:
+<sup>2</sup> Der Leiterin beziehungsweise dem Leiter obliegen insbesondere folgende Aufgaben:
 
 - a) Koordination und Zusammenarbeit;
-- b) Entwicklung einer einheitlichen Praxis;
-- c) Regelung der behördenübergreifenden Stellvertretung;
+- b) Sicherstellung einer einheitlichen Praxis in der Rechtsanwendung sowie Einheitlichkeit in den Verfahrensabläufen;
+- c) …
 - d) Informations- und Erfahrungsaustausch;
 - e) Abschluss der Leistungsvereinbarung mit dem Departement und deren Umsetzung;
-- f) Budgetkontrolle;
-- g) Gewährleistung einer fachgerechten Aus- und Weiterbildung der Behördenmitglieder, Berufsbeistände und privaten Beistände.
+- f) Budgeterstellung und -kontrolle;
+- g) Gewährleistung einer fachgerechten Aus- und Weiterbildung der Behördenmitglieder, der Berufsbeistandspersonen und der privaten Beistandspersonen;
+- h) Qualitätssicherung im Rahmen der Wahrnehmung der Aufgaben der Kindes- und Erwachsenenschutzbehörde;
+- i) Vertretung der Kindes- und Erwachsenenschutzbehörde nach aussen.
 
-<sup>3</sup> Sie erstellt das Budget zuhanden der Regierung und unterbreitet dem Departement Vorschläge zur Festlegung von Standards sowie zur Qualitätsentwicklung und -sicherung.
+<sup>3</sup> …
 
-<sup>4</sup> Die Geschäftsleitung konstituiert sich selbst. Der Vorsitzende vertritt sie gegenüber dem Departement.
+<sup>4</sup> …
+
+<sup>5</sup> Die Leiterin beziehungsweise der Leiter kann die Aufgaben eines Behördenmitglieds wahrnehmen.
 
 #### Art. 41
 
 **4. Aufsicht**
 
-<sup>1</sup> Die Regierung übt die Aufsicht über die Kindes- und Erwachsenenschutzbehörden aus.
+<sup>1</sup> Die Regierung übt die Aufsicht über die Kindes- und Erwachsenenschutzbehörde aus.
 
-<sup>2</sup> Sie kann den Kindes- und Erwachsenenschutzbehörden im Rahmen der aufsichtsrechtlichen Befugnisse Weisungen erteilen.
+<sup>2</sup> Sie kann der Kindes- und Erwachsenenschutzbehörde im Rahmen der aufsichtsrechtlichen Befugnisse Weisungen erteilen.
+
+<sup>3</sup> Die Kindes- und Erwachsenenschutzbehörde ist administrativ dem von der Regierung bezeichneten Departement unterstellt.
 
 #### Art. 42
 
@@ -534,39 +551,27 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **6. Bestand**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörden bestehen je aus:
+<sup>1</sup> Die Zweigstellen der Kindes- und Erwachsenenschutzbehörde bestehen je aus:
 
-- a) einem vollamtlichen Leiter;
-- b) mindestens zwei weiteren voll- oder hauptamtlichen Behördenmitgliedern;
-- c) qualifizierten Sachbearbeitern und weiteren Mitarbeitern des Sekretariates.
+- a) einer Zweigstellenleiterin beziehungsweise einem Zweigstellenleiter als Behördenmitglied;
+- b) mindestens zwei weiteren Behördenmitgliedern;
+- c) weiteren Mitarbeitenden des Sekretariats und der unterstützenden Dienste.
 
 <sup>2</sup> Die Behördenmitglieder verfügen über die erforderliche persönliche und fachliche Eignung.
 
-<sup>3</sup> Wenn es die Verhältnisse erfordern, können Personen mit besonderen Kenntnissen als Behördenmitglied im Nebenamt angestellt werden.
+<sup>3</sup> …
 
 #### Art. 44
 
-**7. Anstellung und berufliche Vorsorge**
-
-<sup>1</sup> Die Regierung wählt jeweils den Leiter sowie die weiteren Behördenmitglieder.
-
-<sup>2</sup> Die Zuständigkeit für Anstellung und Entlassung der übrigen Mitarbeitenden richtet sich nach dem Personalgesetz.
-
-<sup>3</sup> Die Anstellungsverhältnisse und die berufliche Vorsorge der Behördenmitglieder, der qualifizierten Sachbearbeiter und der übrigen Mitarbeiter richten sich nach dem kantonalen Personal- beziehungsweise Vorsorgerecht.
+**…**
 
 #### Art. 45
 
-**8. Geschäftsführung**
-
-<sup>1</sup> Der Leiter führt die Kindes- und Erwachsenenschutzbehörde in personeller, betrieblicher und fachlicher Hinsicht. Er überwacht die gesamte Geschäftstätigkeit und vertritt die Behörde nach aussen.
+**…**
 
 #### Art. 45a
 
-**9. Internationale Übereinkommen**
-
-<sup>1</sup> Die Regierung bezeichnet die zentrale Behörde für die internationalen Übereinkommen in den Bereichen des Kindes- und Erwachsenenschutzes sowie die Vollstreckungsbehörde bei Kindesrückführungen.
-
-<sup>2</sup> Diese Behörde kann geeignete Stellen mit der Erfüllung von Aufgaben beauftragen, insbesondere der Abklärung der Situation des Kindes und der Familie im Ausland, der Durchführung von Vermittlungs- und Mediationsverfahren im Ausland sowie der Rückführung eines Kindes ins Ausland.
+**…**
 
 #### Art. 46
 
@@ -574,41 +579,41 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Das Betreiben der Berufsbeistandschaft ist eine regionale Aufgabe. Die Regionen können die Aufgabe alleine oder gemeinsam erfüllen.
 
-<sup>2</sup> Die Berufsbeistandschaften führen im Auftrag der Kindes- und Erwachsenenschutzbehörden die angeordneten Massnahmen im Kindes- und Erwachsenenschutz.
+<sup>2</sup> Die Berufsbeistandschaften führen im Auftrag der Kindes- und Erwachsenenschutzbehörde die angeordneten Massnahmen im Kindes- und Erwachsenenschutz.
 
-<sup>3</sup> Sie sind zuständig für die Beratung und Unterstützung der privaten Vormünder und Beistände.
+<sup>3</sup> Sie sind zuständig für die Beratung und Unterstützung der privaten Vormundinnen und Vormunde sowie der privaten Beistandspersonen.
 
 #### Art. 47
 
 **2. Bestand**
 
-<sup>1</sup> Die Berufsbeistandschaften bestehen in der Regel jeweils aus einem Leiter, den Berufsbeiständen und den Mitarbeitern des Sekretariates.
+<sup>1</sup> Die Berufsbeistandschaften bestehen in der Regel jeweils aus einer Leiterin beziehungsweise einem Leiter, den Berufsbeistandspersonen und den Mitarbeitenden des Sekretariats.
 
 <sup>2</sup> Die Regionen haben sicherzustellen, dass die für die sach- und zeitgerechte Aufgabenerfüllung notwendigen Stellen geschaffen und besetzt werden.
 
-<sup>3</sup> Die Aufsichtsbehörde kann auf Antrag der Kindes- und Erwachsenenschutzbehörde bei Säumnis der Region auf deren Kosten einen Berufsbeistand ernennen.
+<sup>3</sup> Die Aufsichtsbehörde kann auf Antrag der Kindes- und Erwachsenenschutzbehörde bei Säumnis der Region auf deren Kosten eine Berufsbeiständin beziehungsweise einen Berufsbeistand ernennen.
 
 #### Art. 48
 
 **3. Anstellungsvoraussetzung**
 
-<sup>1</sup> Als Berufsbeistand kann angestellt werden, wer über die erforderliche persönliche Eignung und einen anerkannten Abschluss in der Regel in den Bereichen Sozialarbeit, Pädagogik/Psychologie oder Recht verfügt.
+<sup>1</sup> Als Berufsbeiständin beziehungsweise Berufsbeistand kann angestellt werden, wer über die erforderliche persönliche Eignung und einen anerkannten Abschluss in der Regel in den Bereichen Sozialarbeit, Pädagogik/Psychologie oder Recht verfügt.
 
-<sup>2</sup> In begründeten Ausnahmefällen kann mit Zustimmung der zuständigen Kindes- und Erwachsenenschutzbehörde vom Erfordernis eines anerkannten Abschlusses abgesehen werden.
+<sup>2</sup> In begründeten Ausnahmefällen kann mit Zustimmung der Kindes- und Erwachsenenschutzbehörde vom Erfordernis eines anerkannten Abschlusses abgesehen werden.
 
-<sup>3</sup> Die Kindes- und Erwachsenenschutzbehörde kann bei der Anstellung von Berufsbeiständen mit beratender Stimme zur Unterstützung beigezogen werden.
+<sup>3</sup> Die Kindes- und Erwachsenenschutzbehörde ist bei der Anstellung von Berufsbeistandspersonen mit beratender Stimme zur Unterstützung beizuziehen.
 
 #### Art. 49
 
 **4. Geschäftsführung**
 
-<sup>1</sup> Der Leiter führt die Berufsbeistandschaft in personeller, betrieblicher und fachlicher Hinsicht. Er überwacht die gesamte Geschäftstätigkeit und vertritt die Berufsbeistandschaft nach aussen.
+<sup>1</sup> Die Leiterin beziehungsweise der Leiter führt die Berufsbeistandschaft in personeller, betrieblicher und fachlicher Hinsicht, überwacht die gesamte Geschäftstätigkeit der Berufsbeistandschaft und vertritt diese nach aussen.
 
 #### Art. 50
 
 **III. Führung der Beistandschaften 1. Allgemein**
 
-<sup>1</sup> Die Berufsbeistände führen die Beistandschaften, welche die Kindes- und Erwachsenenschutzbehörde nicht einer Drittperson überträgt.
+<sup>1</sup> Die Berufsbeistandspersonen führen die Beistandschaften, welche die Kindes- und Erwachsenenschutzbehörde nicht einer Drittperson überträgt.
 
 <sup>2</sup> Die Bestimmungen über die Führung der Beistandschaften gelten für den Bereich des Kindesschutzes sinngemäss.
 
@@ -616,13 +621,13 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **2. Aufsicht**
 
-<sup>1</sup> Die Beistände unterstehen der fachlichen Aufsicht der Kindes- und Erwachsenenschutzbehörde, welche ihnen Weisungen erteilen kann.
+<sup>1</sup> Die Beistandspersonen unterstehen der fachlichen Aufsicht der Kindes- und Erwachsenenschutzbehörde, welche ihnen Weisungen erteilen kann.
 
 #### Art. 50b
 
 **3. Ersatzvornahme**
 
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde kann Beiständen, die ihren gesetzlichen Pflichten schuldhaft nicht nachkommen, die Kosten der Ersatzvornahme überbinden.
+<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde kann Beistandspersonen, die ihren gesetzlichen Pflichten schuldhaft nicht nachkommen, die Kosten der Ersatzvornahme überbinden.
 
 #### Art. 50c
 
@@ -636,16 +641,16 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Befugt zur Anordnung der fürsorgerischen Unterbringung ist:
 
-- a) jeder im Kanton zur selbstständigen Berufsausübung zugelassene Arzt:
+- a) jede im Kanton zur selbstständigen Berufsausübung zugelassene Ärztin beziehungsweise jeder im Kanton zur selbständigen Berufsausübung zugelassene Arzt:
   - 1\. der Grundversorgung;
   - 2\. mit einem Facharzttitel der Psychiatrie und Psychotherapie;
   - 3\. mit einem Facharzttitel der Kinder- und Jugendpsychiatrie und -psychotherapie;
-- b) jeder Amtsarzt;
-- c) der behandelnde Arzt der überweisenden Einrichtung.
+- b) jede Amtsärztin beziehungsweise jeder Amtsarzt;
+- c) die behandelnde Ärztin beziehungsweise der behandelnde Arzt der überweisenden Einrichtung.
 
 <sup>2</sup> Für den Vollzug kann polizeiliche Hilfe beigezogen werden.
 
-<sup>3</sup> Der ärztliche Unterbringungsentscheid ist der Kindes- und Erwachsenenschutzbehörde und dem gesetzlichen Vertreter unverzüglich mitzuteilen.
+<sup>3</sup> Der ärztliche Unterbringungsentscheid ist der Kindes- und Erwachsenenschutzbehörde und der gesetzlichen Vertretung unverzüglich mitzuteilen.
 
 #### Art. 51a
 
@@ -673,9 +678,9 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **4. Nachbetreuung a) Anordnung**
 
-<sup>1</sup> Bei Bedarf kann der behandelnde Arzt mit der untergebrachten Person vor der Entlassung eine geeignete Nachbetreuung vereinbaren.
+<sup>1</sup> Bei Bedarf kann die behandelnde Ärztin beziehungsweise der behandelnde Arzt mit der untergebrachten Person vor der Entlassung eine geeignete Nachbetreuung vereinbaren.
 
-<sup>2</sup> Kommt eine solche Vereinbarung nicht zustande, kann die Kindes- und Erwachsenenschutzbehörde bei Rückfallgefahr auf Antrag des behandelnden Arztes eine geeignete Nachbetreuung für höchstens zwölf Monate anordnen.
+<sup>2</sup> Kommt eine solche Vereinbarung nicht zustande, kann die Kindes- und Erwachsenenschutzbehörde bei Rückfallgefahr auf Antrag der behandelnden Ärztin beziehungsweise des behandelnden Arztes oder von Amtes wegen eine geeignete Nachbetreuung für höchstens zwölf Monate anordnen.
 
 #### Art. 54a
 
@@ -722,9 +727,9 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 #### Art. 56
 
-**V. Verfahren 1. Anwendbares Recht**
+**V. Verfahren 1. Grundsatz**
 
-<sup>1</sup> Unter Vorbehalt abweichender Bestimmungen dieses Gesetzes und des Zivilgesetzbuches richtet sich das Verfahren vor der Kindes- und Erwachsenenschutzbehörde nach der Zivilprozessordnung und der kantonalen Einführungsgesetzgebung.
+<sup>1</sup> Für das Verfahren vor der Kindes- und Erwachsenenschutzbehörde gelten die allgemeinen Bestimmungen der Zivilprozessordnung und deren Regelungen betreffend das summarische Verfahren sinngemäss, soweit das übergeordnete Recht und dieses Gesetz nichts anderes vorsehen.
 
 <sup>2</sup> Die Verfahren im Bereich des Kindes- und Erwachsenenschutzes sind nicht öffentlich.
 
@@ -740,28 +745,30 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 - b) konkrete Hinweise auf die Hilfs- und Schutzbedürftigkeit eines Kindes oder einer volljährigen Person vorliegen; oder
 - c) die Behörde in den vom Zivilgesetzbuch bestimmten Fällen angerufen wird.
 
-<sup>3</sup> Die Eröffnung eines Verfahrens ist der betroffenen Person und deren gesetzlichen Vertretern mitzuteilen.
+<sup>3</sup> Die Eröffnung eines Verfahrens ist der betroffenen Person und deren gesetzlichen Vertretung mitzuteilen.
 
 #### Art. 58
 
 **3. Verfahrensleitung und Instruktion a) Allgemein**
 
-<sup>1</sup> Der Leiter der Kindes- und Erwachsenenschutzbehörde oder ein von ihm bezeichnetes Behördenmitglied leitet und instruiert das Verfahren.
+<sup>1</sup> Die Leiterin beziehungsweise der Leiter der Kindes- und Erwachsenenschutzbehörde oder ein von ihr oder ihm bezeichnetes Behördenmitglied leitet und instruiert das Verfahren.
 
 <sup>2</sup> In die Zuständigkeit der Verfahrensleitung fallen insbesondere:
 
 - a) Anordnung von vorsorglichen Massnahmen bei besonderer Dringlichkeit (Art. 445 Abs. 2);
 - b) Anordnung einer Vertretung für das Kindes- oder Erwachsenenschutzverfahren (Art. 314a<sup>bis</sup> und Art. 449a);
 - c) Gewährung der unentgeltlichen Rechtspflege;
-- d) Erlass von Abschreibungs- und Nichteintretensverfügungen.
+- d) Erlass von Abschreibungs- und Nichteintretensverfügungen;
+- e) Anordnung oder Entzug der aufschiebenden Wirkung im Rechtsmittelverfahren (Art. 450c und Art. 450e);
+- f) Erlass von Vollstreckungsverfügungen (Art. 450g).
 
 #### Art. 58a
 
 **b) Anhörung**
 
-<sup>1</sup> Die persönliche Anhörung der betroffenen Person erfolgt in der Regel durch ein Behördenmitglied. Bei Vorliegen besonderer Verhältnisse kann eine geeignete Fachperson damit beauftragt werden.
+<sup>1</sup> Die persönliche Anhörung der betroffenen Person erfolgt durch ein Behördenmitglied. Bei Vorliegen besonderer Verhältnisse kann eine geeignete Fachperson damit beauftragt werden.
 
-<sup>2</sup> Auf Verlangen der betroffenen Person oder bei einem schweren Eingriff in die Persönlichkeitsrechte erfolgt die Anhörung durch die Kollegialbehörde, sofern dies nicht als unverhältnismässig erscheint.
+<sup>2</sup> Bei einem schweren Eingriff in die Persönlichkeitsrechte erfolgt die Anhörung durch die Kollegialbehörde.
 
 <sup>3</sup> Der für den Entscheid wesentliche Inhalt ist in einem Protokoll festzuhalten.
 
@@ -772,7 +779,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 <sup>1</sup> Verweigern die am Verfahren Beteiligten oder Dritte unberechtigterweise die Mitwirkung, kann das instruierende Behördenmitglied die zwangsweise Durchsetzung der Mitwirkungspflicht anordnen. Zulässig sind insbesondere:
 
 - a) die persönliche Vorführung;
-- b) die Untersuchung durch einen Arzt;
+- b) die Untersuchung durch eine Ärztin beziehungsweise einen Arzt;
 - c) die Herausgabe oder Sicherstellung von Dokumenten, Gegenständen und Vermögenswerten.
 
 <sup>2</sup> Für die zwangsweise Durchsetzung kann polizeiliche Hilfe beigezogen werden.
@@ -787,43 +794,49 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 #### Art. 59a
 
-**b) Einzelzuständigkeit des Leiters**
+**b) Einzelzuständigkeit im Kindes- und Erwachsenenschutz**
 
-<sup>1</sup> In die Einzelzuständigkeit des Leiters oder seines Stellvertreters fallen:
+<sup>1</sup> In die Einzelzuständigkeit des instruierenden Behördenmitglieds fallen:
 
-- a) die Anordnung oder der Entzug der aufschiebenden Wirkung im Rechtsmittelverfahren (Art. 450c und Art. 450e);
-- b) der Erlass von Vollstreckungsverfügungen (Art. 450g).
+- a) Ernennung der Beistandsperson (Art. 306 Abs. 2, Art. 400, Art. 401, Art. 402 und Art. 403), Entscheid über einen Beistandswechsel aufgrund der Beendigung des Arbeitsverhältnisses als Berufsbeistandsperson (Art. 421 Ziff. 3) oder auf Begehren der Beistandsperson (Art. 422);
+- b) Bewilligung und Entscheid über Anlage und Aufbewahrung des Vermögens (Art. 408 Abs. 3);
+- c) Genehmigung der Schlussrechnung und des Schlussberichts sowie Entbindung von der Pflicht zur Erstellung eines Schlussberichts und einer Schlussrechnung bei Beendigung des Arbeitsverhältnisses der Beistandsperson (Art. 425);
+- d) Übernahme einer bestehenden Massnahme von der Behörde des bisherigen Wohnsitzes (Art. 442 Abs. 5 und Art. 444);
+- e) Festsetzung der Entschädigung der Beistandsperson (Art. 404 Abs. 2) und der beauftragten Person (Art. 366, Art. 392 Ziff. 2 und Art. 307);
+- f) Entscheide über die Höhe der Verfahrenskosten und deren Überbindung.
 
 #### Art. 59b
 
 **c) Einzelzuständigkeit im Kindesschutz**
 
-<sup>1</sup> Im Kindesschutzverfahren fallen in die Einzelzuständigkeit des instruierenden Behördenmitgliedes:
+<sup>1</sup> Im Kindesschutzverfahren fallen in die Einzelzuständigkeit des instruierenden Behördenmitglieds:
 
 - a) Antragstellung auf Neuregelung der elterlichen Sorge beim zuständigen Gericht (Art. 134 Abs. 1);
-- b) Neuregelung der elterlichen Sorge bei Einigkeit der Eltern oder dem Tod eines Elternteils sowie die Genehmigung von Unterhaltsverträgen (Art. 134 Abs. 3, Art. 287);
-- c) Neuregelung des persönlichen Verkehrs bei Einigkeit der Eltern ohne Änderung der elterlichen Sorge oder des Unterhaltsbeitrages (Art. 134 Abs. 4);
+- b) Neuregelung der elterlichen Sorge und der Obhut bei Einigkeit der Eltern oder dem Tod eines Elternteils sowie Genehmigung von Unterhaltsverträgen (Art. 134 Abs. 3 und Abs. 4, Art. 179 Abs. 1, Art. 287, Art. 298d und Art. 315b Abs. 2);
+- c) Neuregelung des persönlichen Verkehrs oder der Betreuungsanteile in nichtstreitigen Fällen ohne Änderung der elterlichen Sorge oder des Unterhalts (Art. 134 Abs. 4, Art. 179 Abs. 1 und Art. 298d);
 - d) Antragstellung zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsverfahren (Art. 146 Abs. 2 Ziff. 2, Art. 299 Abs. 2 lit. b ZPO);
-- e) Zustimmung zur Adoption des bevormundeten Kindes (Art. 265 Abs. 3);
-- f) Übertragung der elterlichen Sorge von einem Elternteil auf den anderen auf gemeinsamen Antrag der Eltern (Art. 298 Abs. 3);
+- e) Zustimmung zur Adoption des bevormundeten Kindes (Art. 265 Abs. 2);
+- f) …
 - g) Übertragung der gemeinsamen elterlichen Sorge auf gemeinsamen Antrag (Art. 298a Abs. 1);
-- h) Ernennung des Beistandes zur Vaterschaftsabklärung und Regelung des Unterhaltes (Art. 309, Art. 308 Abs. 2);
+- h) Ernennung der Beistandsperson zur Vaterschaftsabklärung und Regelung des Unterhalts (Art. 308 Abs. 2);
 - i) Anordnung der Inventaraufnahme oder der periodischen Rechnungsstellung und Berichterstattung über das Kindesvermögen (Art. 318 Abs. 3, Art. 322 Abs. 2);
 - j) Bewilligung zur Anzehrung des Kindesvermögens (Art. 320 Abs. 2);
-- k) Anordnung einer Vertretungsbeistandschaft für das ungeborene Kind zur Wahrnehmung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup>).
+- k) Anordnung einer Vertretungsbeistandschaft für das ungeborene Kind zur Wahrnehmung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup>);
+- l) Ernennung einer Vormundin beziehungsweise eines Vormunds oder einer Beistandsperson auf gerichtliche Anordnung (Art. 298 Abs. 3 und Art. 315a Abs. 1);
+- m) Ernennung einer Vormundin beziehungsweise eines Vormunds für ein Kind, das nicht unter elterlicher Sorge steht (Art. 327a).
 
 #### Art. 59c
 
 **d) Einzelzuständigkeit im Erwachsenenschutz**
 
-<sup>1</sup> Im Erwachsenenschutzverfahren fallen in die Einzelzuständigkeit des instruierenden Behördenmitgliedes:
+<sup>1</sup> Im Erwachsenenschutzverfahren fallen in die Einzelzuständigkeit des instruierenden Behördenmitglieds:
 
-- a) Überprüfung, Auslegung und Ergänzung des Vorsorgeauftrages sowie Einweisung der beauftragten Person in ihre Pflichten und Aushändigung der Urkunde (Art. 363, 364);
+- a) …
 - b) Festlegung der Entschädigung bei fehlender Regelung im Vorsorgeauftrag (Art. 366);
-- c) Zustimmung zu Rechtshandlungen im Rahmen der ausserordentlichen Vermögensverwaltung (Art. 374 Abs. 3);
+- c) …
 - d) Festlegung der Vertretungsberechtigung bei medizinischen Massnahmen (Art. 381, Art. 382 Abs. 3);
-- e) Aufnahme eines Inventars sowie Anordnung zur Aufnahme eines öffentlichen Inventars (Art. 405 Abs. 2 und 3);
-- f) Einleitung und Übertragung der bestehenden Massnahme an die Kindes- und Erwachsenenschutzbehörde des neuen Wohnsitzes (Art. 442, 444).
+- e) Aufnahme eines Inventars sowie Anordnung zur Aufnahme eines öffentlichen Inventars (Art. 405 Abs. 2 und Abs. 3).
+- f) …
 
 #### Art. 60
 
@@ -831,9 +844,13 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Das Kantonsgericht ist die gerichtliche Beschwerdeinstanz.
 
-<sup>2</sup> Unter Vorbehalt abweichender Bestimmungen dieses Gesetzes und des Zivilgesetzbuches richtet sich das Verfahren nach der Zivilprozessordnung und der kantonalen Einführungsgesetzgebung.
+<sup>2</sup> Zwischenentscheide der Kindes- und Erwachsenenschutzbehörde können innert zehn Tagen seit ihrer Mitteilung beim Kantonsgericht angefochten werden.
 
-<sup>3</sup> Die Bestimmungen über den Fristenstillstand sowie über neue Tatsachen und Beweismittel finden keine Anwendung.
+<sup>3</sup> Das Kantonsgericht ist an die Parteianträge nicht gebunden und erforscht den Sachverhalt von Amtes wegen. Neue Tatsachen und Beweismittel sind zugelassen.
+
+<sup>4</sup> Für gesetzliche und behördlich angeordnete Fristen gilt kein Fristenstillstand. Die Parteien sind darauf hinzuweisen.
+
+<sup>5</sup> Im Übrigen gelten die Regelungen für die zivilprozessuale Berufung sinngemäss, soweit das übergeordnete Recht nichts anderes vorsieht.
 
 #### Art. 61
 
@@ -841,7 +858,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Fachpersonen aus den Bereichen Medizin, Pflege, Bildung, Erziehung, Betreuung, Sozialberatung und Religion, die in Ausübung ihres Berufes von einer akuten Fremd- oder Eigengefährdung eines Kindes oder einer erwachsenen Person Kenntnis erhalten, sind zur Meldung dieser Gefährdung verpflichtet.
 
-<sup>2</sup> Wer im Besitz einer Patientenverfügung ist, hat diese dem behandelnden Arzt zu melden, sofern er von der Urteilsunfähigkeit der verfügenden Person Kenntnis erhält.
+<sup>2</sup> Wer im Besitz einer Patientenverfügung ist, hat diese der behandelnden Ärztin beziehungsweise dem behandelnden Arzt zu melden, sofern er von der Urteilsunfähigkeit der verfügenden Person Kenntnis erhält.
 
 #### Art. 62
 
@@ -867,15 +884,41 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 #### Art. 63a
 
-**b) Massnahmen**
+**b) Kindesschutzmassnahmen**
 
-<sup>1</sup> Die Kosten für Massnahmen sind von der betroffenen Person oder den Inhabern der elterlichen Sorge zu tragen, soweit nicht Dritte zahlungspflichtig sind.
+<sup>1</sup> …
+
+<sup>2</sup> …
+
+<sup>3</sup> Die Kosten von ambulanten und stationären Kindesschutzmassnahmen trägt die Gemeinde am zivilrechtlichen Wohnsitz des betroffenen Kindes, soweit nicht Dritte zahlungspflichtig sind, wenn ein Entscheid oder eine Empfehlung der Kindes- und Erwachsenenschutzbehörde oder eines Gerichts oder eine durch die Kindes- und Erwachsenenschutzbehörde unterstützte Empfehlung einer anderen Fachbehörde im Kindesschutz vorliegt. Streitet eine Gemeinde die Zuständigkeit für die Übernahme der Kosten ab, kann die Kindes- und Erwachsenenschutzbehörde diese bevorschussen.
+
+<sup>4</sup> Die Inhaber der elterlichen Sorge beteiligen sich an den Kosten von Kindesschutzmassnahmen im Umfang des von der Schweizerischen Konferenz für Sozialhilfe definierten Elternbeitrags, mindestens aber mit zehn Franken pro Tag. Sind sie dazu wirtschaftlich nicht in der Lage, kommt das Gemeinwesen für den Elternbeitrag auf, welches für die öffentlich-rechtliche Unterstützung der Inhaber der elterlichen Sorge zuständig ist.
+
+<sup>5</sup> 95 Prozent der Kosten der stationären Kindesschutzmassnahmen kann die Gemeinde beim Kanton zulasten des von ihm geführten interkommunalen Pools zurückfordern.
+
+<sup>6</sup> 80 Prozent der geleisteten Elternbeiträge für die Kosten von stationären Kindesschutzmassnahmen sind von der Gemeinde an den Kanton zugunsten des interkommunalen Pools weiter zu leiten.
+
+<sup>7</sup> Die Nettokosten zulasten des interkommunalen Pools gemäss Absatz 5 und Absatz 6 werden im Folgejahr auf die Gemeinden im Verhältnis der ständigen Wohnbevölkerung verteilt.
+
+#### Art. 63a bis
+
+**c) Erwachsenenschutzmassnahmen**
+
+<sup>1</sup> Die Kosten von ambulanten und stationären Erwachsenenschutzmassnahmen sind von der betroffenen Person zu tragen, soweit nicht Dritte zahlungspflichtig sind.
 
 <sup>2</sup> Subsidiär sind sie vom Gemeinwesen zu tragen, welches für die öffentlich-rechtliche Unterstützung zuständig ist. Die entsprechenden Bestimmungen sind anwendbar.
 
+<sup>3</sup> Streiten Krankenversicherer oder Gemeinden die Zuständigkeit für die Übernahme der Kosten der ärztlich angeordneten fürsorgerischen Unterbringung ab, werden diese vom Kanton bevorschusst.
+
+#### Art. 63a ter
+
+**d) Kostentragung bei Wohnsitzwechsel**
+
+<sup>1</sup> Bei Wohnsitzwechsel der betroffenen Person während einer Massnahme sind die Kosten von Kindesschutzmassnahmen und die subsidiär vom Gemeinwesen zu tragenden Kosten von Erwachsenenschutzmassnahmen von den Gemeinden anteilsmässig nach Massgabe der Dauer des Wohnsitzes der betroffenen Person in den jeweiligen Gemeinden zu tragen.
+
 #### Art. 63b
 
-**Kosten im Zusammenhang mit medizinischen Massnahmen**
+**e) Kosten im Zusammenhang mit medizinischen Massnahmen**
 
 <sup>1</sup> Die Kosten im Zusammenhang mit medizinischen Massnahmen, die im Verfahren der fürsorgerischen Unterbringung anfallen und nicht Teil der Gerichtsverfahrenskosten sind oder von den Krankenversicherern getragen werden, sind von der Person zu tragen, auf die sich das Verfahren bezieht.
 
@@ -887,7 +930,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Die Akten werden von der Kindes- und Erwachsenenschutzbehörde beziehungsweise bei Gerichtsverfahren vom Gericht archiviert.
 
-<sup>2</sup> Die Beistände sind verpflichtet, sämtliche Akten nach Ende der Vormundschaft oder Beistandschaft der Kindes- und Erwachsenenschutzbehörde geordnet zu übergeben.
+<sup>2</sup> Die Beistandspersonen sind verpflichtet, sämtliche Akten nach Ende der Vormundschaft oder Beistandschaft der Kindes- und Erwachsenenschutzbehörde geordnet zu übergeben.
 
 #### Art. 64a
 
@@ -911,10 +954,10 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Die Regierung regelt in einer Verordnung die Einzelheiten insbesondere über:
 
-- a) Organisation der Kindes- und Erwachsenenschutzbehörden;
+- a) Organisation sowie geografische Einzugsgebiete der Zweigstellen;
 - b) Führung der Beistandschaften;
 - c) fürsorgerische Unterbringung;
-- d) Verfahrens- und Massnahmekosten, namentlich Gebühren sowie Entschädigung und Spesenersatz der Beistände;
+- d) Verfahrens- und Massnahmekosten, namentlich Gebühren sowie Entschädigung und Spesenersatz der Beistandspersonen;
 - e) Entschädigung nebenamtlicher Behördenmitglieder.
 
 ### 2.3. Erbrecht
@@ -1096,17 +1139,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 #### Art. 85
 
-**II. Erbteilungsklage**
-
-<sup>1</sup> Nach Abschluss des Schriftenwechsels trifft der Gerichtspräsident die notwendigen Anordnungen, um den Sachverhalt abzuklären.
-
-<sup>2</sup> Er kann insbesondere die Parteien zu weiteren schriftlichen oder mündlichen Vernehmlassungen über bestimmte Fragen anhalten und einer Partei den Beweis für bestimmte, von ihr aufgestellte Behauptungen auferlegen, soweit das Zivilgesetzbuch[^85-1] nicht abweichende Vorschriften über die Beweislastverteilung enthält.
-
-<sup>3</sup> Das Gericht kann auf Antrag oder von Amtes wegen weitere Beweiserhebungen anordnen.
-
-<sup>4</sup> Über die Zuteilung der Kosten entscheidet der Richter nach freiem Ermessen.
-
-[^85-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+**…**
 
 ### 2.4. Sachenrecht
 
@@ -1743,11 +1776,11 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 #### Art. 146c
 
-**4. Veröffentlichung der Daten im Internet**
+**4. Elektronischer öffentlicher Zugang**
 
-<sup>1</sup> Der Kanton publiziert die ohne Interessennachweis einsehbaren Daten des Hauptbuchs im Internet.
+<sup>1</sup> Der Kanton macht die ohne Interessennachweis einsehbaren Daten des Hauptbuchs elektronisch öffentlich zugänglich.
 
-<sup>2</sup> Es dürfen nur grundstücksbezogene und bis maximal fünf Abfragen pro Tag erfolgen. Die Zugriffe werden automatisch protokolliert und die Protokolle während eines Jahres aufbewahrt.
+<sup>2</sup> Es dürfen nur grundstücksbezogene Abfragen erfolgen. Das Auskunftssystem ist vor Serienabfragen zu schützen. Die Zugriffe werden automatisch protokolliert und die Protokolle während eines Jahres aufbewahrt.
 
 <sup>3</sup> Grundeigentümer können bei der Fachstelle auf schriftliches Gesuch hin Einsicht in die Protokolle betreffend ihre Grundstücke verlangen.
 

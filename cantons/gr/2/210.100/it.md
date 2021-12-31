@@ -4,13 +4,13 @@ number: "210.100"
 title: "Legge d'introduzione al Codice civile svizzero *"
 short: LICC
 language: it
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-18
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3169/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3220/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3169/pdf_file"
 
 (LICC)[^t-1]
 
-del 12.06.1994 (stato 01.07.2021)
+del 12.06.1994 (stato 01.01.2022)
 
 accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
@@ -152,7 +152,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Per l'allontanamento immediato secondo l'articolo 28b capoverso 4 è competente la Polizia cantonale. La procedura si conforma alla legge sulla polizia[^15a-1].
 
-<sup>2</sup> Il Governo può creare un ufficio di consulenza per le persone che esercitano violenza e designa il servizio competente.
+<sup>2</sup> …
 
 [^15a-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
 
@@ -438,13 +438,13 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>3</sup> Le autorità cantonali, regionali e comunali, nonché terzi sono tenuti a fornire le informazioni necessarie per la decisione d'adozione. È fatto salvo il segreto professionale.
 
-<sup>4</sup> La procedura e l'impugnazione si conformano alle disposizioni generali della presente legge.
+<sup>4</sup> Per il resto la procedura e l'impugnazione si conformano alle disposizioni del diritto in materia di protezione dei minori e degli adulti, per quanto il diritto di rango superiore o la presente legge non prevedano nulla di diverso.
 
 #### Art. 36a
 
 **2. Conoscenza della filiazione**
 
-<sup>1</sup> Il Governo designa l'autorità che coordina la procedura d'informazione sui dati personali dei genitori naturali e che su richiesta consiglia e sostiene il minore (art. 268c).
+<sup>1</sup> L'autorità di protezione dei minori e degli adulti coordina la procedura d'informazione sui dati personali dei genitori biologici (art. 268c) e su richiesta consiglia il minore, i genitori biologici nonché i loro discendenti (art. 268d). A tale scopo l'autorità di protezione dei minori e degli adulti gestisce un servizio di informazione e di consulenza per la ricerca delle origini.
 
 <sup>2</sup> Essa può incaricare servizi idonei in particolare di ulteriori accertamenti, della consulenza, della presa di contatto e della mediazione.
 
@@ -460,55 +460,72 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 #### Art. 38
 
-**I. Autorità di protezione dei minori e degli adulti 1. Organizzazione e competenza geografica**
+**I. Autorità di protezione dei minori e degli adulti 1. In generale**
 
-<sup>1</sup> Esistono le seguenti autorità di protezione dei minori e degli adulti:
+<sup>1</sup> L'autorità di protezione dei minori e degli adulti è un'autorità specializzata cantonale indipendente nell'applicazione del diritto.
 
-- a) Engadina/Valli meridionali (regioni Bernina, Engiadina Bassa/Val Müstair e Maloja);
-- b) Grigioni centrale/Moesa (regioni Albula, Moesa e Viamala);
-- c) Grigioni settentrionale (regioni Landquart, Plessur e Imboden);
-- d) Prettigovia/Davos (regione Prettigovia/Davos);
-- e) Surselva (regione Surselva).
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>2</sup> I membri dell'autorità hanno diritto e sono tenuti alla supplenza in seno ad altre autorità di protezione dei minori e degli adulti.
+<sup>2</sup> …
 
-<sup>3</sup> Dal punto di vista amministrativo, le autorità di protezione dei minori e degli adulti sono subordinate al Dipartimento designato dal Governo.
+<sup>3</sup> …
+
+<sup>4</sup> L'autorità di protezione dei minori e degli adulti dispone di una direzione e di almeno cinque sedi distaccate regionali.
 
 #### Art. 39
 
-**2. Posizione e compiti**
+**2. Compiti**
 
-<sup>1</sup> Le autorità di protezione dei minori e degli adulti sono autorità cantonali indipendenti nell'applicazione del diritto.
+<sup>1</sup> …
 
-<sup>2</sup> Esse svolgono i compiti di protezione dei minori e degli adulti attribuiti loro dal Codice civile e dal rimanente diritto federale, se il diritto cantonale non delega tali competenze a un'altra autorità.
+<sup>2</sup> L'autorità di protezione dei minori e degli adulti svolge i compiti di protezione dei minori e degli adulti attribuitile dal Codice civile e dal rimanente diritto federale, se il diritto cantonale non delega tali compiti a un'altra autorità.
+
+<sup>3</sup> All'autorità di protezione dei minori e degli adulti competono in particolare i seguenti altri compiti:
+
+- a) consulenza ai genitori nell'elaborazione di contratti di mantenimento;
+- b) deposito e conservazione di mandati precauzionali (art. 361);
+- c) adempimento dei compiti dell'autorità centrale cantonale per le convenzioni internazionali nei settori della protezione dei minori e degli adulti, nonché dell'autorità preposta all'esecuzione in caso di rinvio di minori;
+- d) compiti che le vengono attribuiti dal diritto cantonale o dal Governo.
+
+<sup>4</sup> L'autorità di protezione dei minori e degli adulti può incaricare servizi idonei dell'adempimento dei compiti conformemente al capoverso 3 lettera d, in particolare dell'accertamento della situazione del minore e della famiglia all'estero, dello svolgimento di procedure di conciliazione e mediazione all'estero, nonché del rinvio di un minore all'estero.
 
 #### Art. 40
 
 **3. Direzione**
 
-<sup>1</sup> I responsabili delle autorità di protezione dei minori e degli adulti formano la direzione.
+<sup>1</sup> Il direttore dirige l'autorità di protezione dei minori e degli adulti dal punto di vista del personale, operativo e specialistico e vigila sull'attività di quest'ultima.
 
-<sup>2</sup> Fatte salve le competenze dell'autorità di vigilanza, alla direzione spettano in particolare i seguenti compiti:
+<sup>2</sup> Al direttore competono in particolare i seguenti compiti:
 
 - a) coordinamento e collaborazione;
-- b) sviluppo di una prassi uniforme;
-- c) regolamentazione della supplenza tra autorità;
+- b) garantire una prassi uniforme nell'applicazione del diritto nonché l'uniformità delle procedure;
+- c) …
 - d) scambio di informazioni ed esperienze;
 - e) stipulazione dell'accordo di prestazioni con il Dipartimento e sua attuazione;
-- f) controllo del preventivo;
-- g) garanzia di una formazione e di un perfezionamento professionali appropriati dei membri delle autorità, dei curatori professionali e dei curatori privati.
+- f) allestire e controllare il preventivo;
+- g) garantire una formazione e un perfezionamento professionali appropriati dei membri delle autorità, dei curatori professionali e dei curatori privati;
+- h) garantire la qualità nel quadro dell'adempimento dei compiti dell'autorità di protezione dei minori e degli adulti;
+- i) rappresentare l'autorità di protezione dei minori e degli adulti verso l'esterno.
 
-<sup>3</sup> Essa allestisce il preventivo a destinazione del Governo e sottopone al Dipartimento proposte per la determinazione di standard, nonché per lo sviluppo e la garanzia della qualità.
+<sup>3</sup> …
 
-<sup>4</sup> La direzione si costituisce da sé. Il presidente la rappresenta nei confronti del Dipartimento.
+<sup>4</sup> …
+
+<sup>5</sup> Il direttore può adempiere i compiti di un membro dell'autorità.
 
 #### Art. 41
 
 **4. Vigilanza**
 
-<sup>1</sup> Il Governo esercita la vigilanza sulle autorità di protezione dei minori e degli adulti.
+<sup>1</sup> Il Governo esercita la vigilanza sull'autorità di protezione dei minori e degli adulti.
 
-<sup>2</sup> Nei limiti delle facoltà di vigilanza, può impartire istruzioni alle autorità di protezione dei minori e degli adulti.
+<sup>2</sup> Nei limiti delle facoltà di vigilanza, può impartire istruzioni all'autorità di protezione dei minori e degli adulti.
+
+<sup>3</sup> Dal punto di vista amministrativo, l'autorità di protezione dei minori e degli adulti è subordinata al Dipartimento designato dal Governo.
 
 #### Art. 42
 
@@ -523,39 +540,27 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 **6. Organico**
 
-<sup>1</sup> Ogni autorità di protezione dei minori e degli adulti è costituita da:
+<sup>1</sup> Ogni sede distaccata dell'autorità di protezione dei minori e degli adulti è costituita da:
 
-- a) un responsabile a tempo pieno;
-- b) almeno due altri membri a tempo pieno o a titolo principale;
-- c) funzionari incaricati qualificati e altri collaboratori del segretariato.
+- a) un responsabile della sede distaccata quale membro dell'autorità;
+- b) almeno altri due membri dell'autorità;
+- c) altri collaboratori del segretariato e dei servizi di supporto.
 
 <sup>2</sup> I membri dell'autorità dispongono della necessaria idoneità personale e professionale.
 
-<sup>3</sup> Se la situazione lo richiede, quali membri dell'autorità a titolo accessorio possono essere assunte persone con conoscenze particolari.
+<sup>3</sup> …
 
 #### Art. 44
 
-**7. Assunzione e previdenza professionale**
-
-<sup>1</sup> Il Governo nomina per ogni autorità un responsabile e gli altri membri.
-
-<sup>2</sup> La competenza per l'assunzione e il licenziamento degli altri collaboratori si conforma alla legge sul personale.
-
-<sup>3</sup> Le condizioni di assunzione e la previdenza professionale dei membri dell'autorità, dei funzionari incaricati qualificati e degli altri collaboratori si conformano al diritto cantonale sul personale e sulla previdenza professionale.
+**…**
 
 #### Art. 45
 
-**8. Gestione**
-
-<sup>1</sup> Il responsabile dirige l'autorità di protezione dei minori e degli adulti dal punto di vista del personale, dell'esercizio e specialistico. Egli vigila sull'intera attività e rappresenta l'autorità verso l'esterno.
+**…**
 
 #### Art. 45a
 
-**9. Convenzioni internazionali**
-
-<sup>1</sup> Il Governo designa l'autorità centrale per le convenzioni internazionali nei settori della protezione dei minori e degli adulti, nonché l'autorità preposta all'esecuzione in caso di rinvio di minori.
-
-<sup>2</sup> Questa autorità può incaricare servizi idonei dell'adempimento di compiti, in particolare dell'accertamento della situazione del minore e della famiglia all'estero, dello svolgimento di procedure di conciliazione e mediazione all'estero, nonché del rinvio di un minore all'estero.
+**…**
 
 #### Art. 46
 
@@ -565,7 +570,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>2</sup> Gli uffici dei curatori professionali dirigono, su incarico dell'autorità di protezione dei minori e degli adulti, le misure di protezione dei minori e degli adulti ordinate.
 
-<sup>3</sup> Essi sono competenti per la consulenza e il sostegno dei tutori e dei curatori privati.
+<sup>3</sup> Essi sono competenti per la consulenza e il sostegno ai tutori privati nonché ai curatori privati.
 
 #### Art. 47
 
@@ -583,15 +588,15 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Può essere assunto quale curatore professionale chi dispone della necessaria idoneità personale e di un diploma riconosciuto, di norma nei settori dell'assistenza sociale, della pedagogia/psicologia o del diritto.
 
-<sup>2</sup> In casi eccezionali motivati, con il consenso della competente autorità di protezione dei minori e degli adulti, si può prescindere dal requisito di un diploma riconosciuto.
+<sup>2</sup> In casi eccezionali motivati, con il consenso dell'autorità di protezione dei minori e degli adulti si può prescindere dal requisito di un diploma riconosciuto.
 
-<sup>3</sup> Nell'assunzione di curatori professionali si può ricorrere al sostegno dell'autorità di protezione dei minori e degli adulti, che avrà voto consultivo.
+<sup>3</sup> In sede di assunzione di curatori professionali, l'autorità di protezione dei minori e degli adulti deve essere coinvolta con voto consultivo.
 
 #### Art. 49
 
 **4. Gestione**
 
-<sup>1</sup> Il responsabile dirige l'ufficio dei curatori professionali dal punto di vista del personale, dell'esercizio e specialistico. Egli vigila sull'intera attività e rappresenta l'ufficio dei curatori professionali verso l'esterno.
+<sup>1</sup> Il responsabile dirige l'ufficio dei curatori professionali dal punto di vista del personale, dell'esercizio e tecnico, vigila sull'intera attività dell'ufficio dei curatori professionali e lo rappresenta verso l'esterno.
 
 #### Art. 50
 
@@ -611,7 +616,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 **3. Esecuzione sostitutiva**
 
-<sup>1</sup> L'autorità di protezione dei minori e degli adulti può accollare i costi dell'esecuzione sostitutiva ai curatori che colpevolmente non adempiono ai loro doveri.
+<sup>1</sup> L'autorità di protezione dei minori e degli adulti può accollare le spese dell'esecuzione sostitutiva ai curatori che colpevolmente non adempiono ai loro doveri.
 
 #### Art. 50c
 
@@ -664,7 +669,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> All'occorrenza, il medico curante può concordare con la persona ricoverata, prima della sua dimissione, assistenza e cure successive al ricovero adeguate.
 
-<sup>2</sup> Se non si giunge a un tale accordo, in caso di rischio di recidiva l'autorità di protezione dei minori e degli adulti può, su richiesta del medico curante, ordinare assistenza e cure successive al ricovero adeguate per un massimo di dodici mesi.
+<sup>2</sup> Se non si giunge a un tale accordo, in caso di rischio di recidiva l'autorità di protezione dei minori e degli adulti può, su richiesta del medico curante oppure d'ufficio, ordinare assistenza e cure successive al ricovero adeguate per un massimo di dodici mesi.
 
 #### Art. 54a
 
@@ -711,9 +716,9 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 #### Art. 56
 
-**V. Procedura 1. Diritto applicabile**
+**V. Procedura 1. Principio**
 
-<sup>1</sup> Fatte salve disposizioni divergenti della presente legge e del Codice civile, la procedura dinanzi all'autorità di protezione dei minori e degli adulti si conforma al Codice di procedura civile e alla legislazione d'applicazione cantonale.
+<sup>1</sup> Per la procedura dinanzi all'autorità di protezione dei minori e degli adulti trovano applicazione per analogia le disposizioni generali del Codice di procedura civile e le relative norme concernenti la procedura sommaria, per quanto il diritto di rango superiore e la presente legge non prevedano nulla di diverso.
 
 <sup>2</sup> I procedimenti nel settore della protezione dei minori e degli adulti non sono pubblici.
 
@@ -729,7 +734,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 - b) in presenza di indizi concreti relativi al bisogno d'aiuto e di protezione di un minorenne o di un maggiorenne;
 - c) se l'autorità viene adita nei casi stabiliti dal Codice civile.
 
-<sup>3</sup> L'apertura di un procedimento va comunicata all'interessato e ai suoi rappresentanti legali.
+<sup>3</sup> L'apertura di un procedimento va comunicata all'interessato e al suo rappresentante legale.
 
 #### Art. 58
 
@@ -742,15 +747,17 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 - a) ordine di provvedimenti cautelari in caso di particolare urgenza (art. 445 cpv. 2);
 - b) designazione di un rappresentante nel procedimento per la protezione dei minori o degli adulti (art. 314a<sup>bis</sup> e 449a);
 - c) concessione del gratuito patrocinio;
-- d) emanazione di decisioni di stralcio e di non entrata nel merito.
+- d) emanazione di decisioni di stralcio e di non entrata nel merito;
+- e) ordine o revoca dell'effetto sospensivo nella procedura di impugnazione (art. 450c e art. 450e);
+- f) emanazione di decisioni d'esecuzione (art. 450g).
 
 #### Art. 58a
 
 **b) Audizione**
 
-<sup>1</sup> L'audizione personale dell'interessato viene svolta di norma da un membro dell'autorità. In presenza di circostanze particolari può esserne incaricato uno specialista.
+<sup>1</sup> L'audizione personale dell'interessato viene svolta da un membro dell'autorità. In presenza di circostanze particolari può esserne incaricato uno specialista.
 
-<sup>2</sup> Su richiesta dell'interessato o in caso di grave intervento nei diritti della personalità, l'audizione viene svolta dall'autorità collegiale, qualora ciò non risulti sproporzionato.
+<sup>2</sup> In caso di grave intervento nei diritti della personalità, l'audizione viene svolta dall'autorità collegiale.
 
 <sup>3</sup> Il contenuto sostanziale per la decisione va annotato in un verbale.
 
@@ -776,12 +783,16 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 #### Art. 59a
 
-**b) Competenza individuale del responsabile**
+**b) Competenza individuale nella protezione dei minori e degli adulti**
 
-<sup>1</sup> Rientrano nella competenza individuale del responsabile o del suo supplente:
+<sup>1</sup> Rientrano nella competenza individuale del membro dell'autorità che si occupa dell'istruzione:
 
-- a) l'ordine o la revoca dell'effetto sospensivo nella procedura di impugnazione (art. 450c e art. 450e);
-- b) l'emanazione di decisioni d'esecuzione (art. 450g).
+- a) nomina di un curatore (art. 306 cpv. 2, art. 400, art. 401, art. 402 e art. 403), decisione relativa a un cambio di curatore a seguito della fine del rapporto di lavoro quale curatore professionale (art. 421 n. 3) oppure su richiesta del curatore (art. 422);
+- b) autorizzazione e decisione relative all'investimento e alla custodia dei beni (art. 408 cpv. 3);
+- c) approvazione del conto e del rapporto finali nonché dispensa dall'obbligo di allestire un rapporto e un conto finali alla fine del rapporto di lavoro del curatore (art. 425);
+- d) assunzione di una misura esistente dall'autorità del domicilio precedente (art. 442 cpv. 5 e art. 444);
+- e) determinazione del compenso per il curatore (art. 404 cpv. 2) e per la persona incaricata (art. 366, art. 392 n. 2 e art. 307);
+- f) decisioni in merito all'ammontare delle spese procedurali e a chi debba sostenerle.
 
 #### Art. 59b
 
@@ -789,17 +800,19 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Nella procedura di protezione dei minori rientrano nella competenza individuale del membro dell'autorità che si è occupato dell'istruzione:
 
-- a) la presentazione al tribunale competente dell'istanza di nuovo disciplinamento dell'autorità parentale (art. 134 cpv. 1);
-- b) nuovo disciplinamento dell'autorità parentale in caso di accordo tra i genitori o di decesso di un genitore, nonché approvazione di contratti di mantenimento (art. 134 cpv. 3, art. 287);
-- c) nuovo disciplinamento delle relazioni personali in caso di accordo tra i genitori, senza modifica dell'autorità parentale o del contributo di mantenimento (art. 134 cpv. 4);
+- a) presentazione al tribunale competente dell'istanza di nuovo disciplinamento dell'autorità parentale (art. 134 cpv. 1);
+- b) nuovo disciplinamento dell'autorità parentale e della custodia in caso di accordo tra i genitori o di decesso di un genitore, nonché approvazione di contratti di mantenimento (art. 134 cpv. 3 e cpv. 4, art. 179 cpv. 1, art. 287, art. 298d e art. 315b cpv. 2);
+- c) nuovo disciplinamento delle relazioni personali o della partecipazione di ciascun genitore alla cura del figlio in casi non controversi, senza modifica dell'autorità parentale o del mantenimento (art. 134 cpv. 4, art. 179 cpv. 1 e art. 298d);
 - d) presentazione di un'istanza che ordini una rappresentanza del figlio in procedure di divorzio o di separazione (art. 146 cpv. 2 n. 2, art. 299 cpv. 2 lett. b CPC);
-- e) consenso all'adozione di un minore sotto tutela (art. 265 cpv. 3);
-- f) trasferimento dell'autorità parentale da un genitore all'altro a richiesta congiunta dei genitori (art. 298 cpv. 3);
+- e) consenso all'adozione di un minore sotto tutela (art. 265 cpv. 2);
+- f) …
 - g) trasferimento dell'autorità parentale congiunta a richiesta congiunta (art. 298a cpv. 1);
-- h) nomina di un curatore per l'accertamento della paternità e per disciplinare il mantenimento (art. 309, art. 308 cpv. 2);
+- h) nomina di un curatore per l'accertamento della paternità e per disciplinare il mantenimento (art. 308 cpv. 2);
 - i) ordine di compilazione di un inventario e di consegna periodica di conti e rapporti sulla sostanza del figlio (art. 318 cpv. 3, art. 322 cpv. 2);
 - j) autorizzazione di prelevamenti sulla sostanza del figlio (art. 320 cpv. 2);
-- k) ordine di istituire una curatela di rappresentanza per salvaguardare i diritti successori dell'infante concepito (art. 544 cpv. 1<sup>bis</sup>).
+- k) ordine di istituire una curatela di rappresentanza per salvaguardare i diritti successori dell'infante concepito (art. 544 cpv. 1<sup>bis</sup>);
+- l) nomina di un tutore o di un curatore per ordine di un giudice (art. 298 cpv. 3 e art. 315a cpv. 1);
+- m) nomina di un tutore per un minorenne che non è sotto autorità parentale (art. 327a).
 
 #### Art. 59c
 
@@ -807,12 +820,12 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Nella procedura di protezione degli adulti rientrano nella competenza individuale del membro dell'autorità che si è occupato dell'istruzione:
 
-- a) verifica, interpretazione e completamento del mandato precauzionale, nonché informazione del mandatario sui suoi obblighi e consegna del documento (art. 363, 364);
+- a) …
 - b) determinazione del compenso, in assenza di disposizioni in tal senso nel mandato precauzionale (art. 366);
-- c) consenso per atti giuridici inerenti all'amministrazione straordinaria dei beni (art. 374 cpv. 3);
+- c) …
 - d) determinazione del potere di rappresentare in caso di misure mediche (art. 381, art. 382 cpv. 3);
-- e) compilazione di un inventario, nonché ordine di compilare un inventario pubblico (art. 405 cpv. 2 e 3);
-- f) avvio e trasferimento della misura in corso all'autorità di protezione dei minori e degli adulti del nuovo domicilio (art. 442, 444).
+- e) compilazione di un inventario, nonché ordine di compilare un inventario pubblico (art. 405 cpv. 2 e cpv. 3).
+- f) …
 
 #### Art. 60
 
@@ -820,9 +833,13 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Il Tribunale cantonale è l'autorità giudiziaria di reclamo.
 
-<sup>2</sup> Fatte salve disposizioni divergenti della presente legge e del Codice civile, la procedura si conforma al Codice di procedura civile e alla legislazione d'applicazione cantonale.
+<sup>2</sup> Decisioni incidentali dell'autorità di protezione dei minori e degli adulti possono essere impugnate entro dieci giorni dalla comunicazione dinanzi al Tribunale cantonale.
 
-<sup>3</sup> Non trovano applicazione le disposizioni sulla sospensione del termine, nonché su nuovi fatti e mezzi di prova.
+<sup>3</sup> Il Tribunale cantonale non è vincolato alle richieste delle parti e indaga la fattispecie d'ufficio. Sono ammessi nuovi fatti e mezzi di prova.
+
+<sup>4</sup> A termini disposti dalla legge o dall'autorità non si applica la sospensione del termine. Le parti devono essere rese attente al riguardo.
+
+<sup>5</sup> Per il resto fanno stato per analogia le norme relative alla via d'appello civile, per quanto il diritto di rango superiore non preveda nulla di diverso.
 
 #### Art. 61
 
@@ -830,7 +847,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Gli specialisti dei settori medicina, cure, formazione, educazione, assistenza, consulenza sociale e religione che nell'esercizio della loro professione vengono a conoscenza di un'acuta minaccia per gli altri o per sé stesso di un minore o di una persona adulta, sono obbligate a dare avviso di tale minaccia.
 
-<sup>2</sup> Chi è in possesso di direttive del paziente, deve comunicarle al medico curante, qualora venga a conoscenza dell'incapacità di discernimento della persona che le ha impartite.
+<sup>2</sup> Chi è in possesso di direttive del paziente deve comunicarle al medico curante, qualora venga a conoscenza dell'incapacità di discernimento della persona che le ha impartite.
 
 #### Art. 62
 
@@ -856,15 +873,41 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 #### Art. 63a
 
-**b) Misure**
+**b) Misure di protezione dei minori**
 
-<sup>1</sup> I costi delle misure sono a carico dell'interessato o di chi detiene l'autorità parentale, nella misura in cui non siano tenuti al pagamento terzi.
+<sup>1</sup> …
+
+<sup>2</sup> …
+
+<sup>3</sup> Le spese di misure di protezione dei minori ambulatoriali e stazionarie sono a carico del comune del domicilio civile del minorenne interessato, nella misura in cui non siano tenuti al pagamento terzi, se è data una decisione o una raccomandazione dell'autorità di protezione dei minori e degli adulti o del giudice oppure una raccomandazione di un'altra autorità specializzata in materia di protezione dei minori condivisa dall'autorità di protezione dei minori e degli adulti. Se un comune contesta la competenza per l'assunzione delle spese, l'autorità di protezione dei minori e degli adulti può anticipare tali spese.
+
+<sup>4</sup> I detentori dell'autorità parentale partecipano alle spese di misure di protezione dei minori in misura del contributo dei genitori definito dalla Conferenza svizzera delle istituzioni dell'azione sociale, almeno però in misura di dieci franchi al giorno. Se non sono in grado di farlo per ragioni economiche, del contributo dei genitori si fa carico l'ente pubblico competente per l'assistenza di diritto pubblico dei detentori dell'autorità parentale.
+
+<sup>5</sup> Il comune può chiedere al Cantone il rimborso del 95 per cento delle spese delle misure di protezione dei minori stazionarie, a carico del fondo intercomunale gestito dal Cantone.
+
+<sup>6</sup> L'80 per cento dei contributi versati dai genitori per le spese di misure di protezione dei minori stazionarie deve essere trasmesso dal comune al Cantone a favore del fondo intercomunale.
+
+<sup>7</sup> Le spese nette a carico del fondo intercomunale conformemente al capoverso 5 e al capoverso 6 vengono ripartite tra i comuni nell'anno seguente, in rapporto alla popolazione residente permanente.
+
+#### Art. 63a bis
+
+**c) Misure di protezione degli adulti**
+
+<sup>1</sup> Le spese di misure ambulatoriali e stazionarie di protezione degli adulti sono a carico dell'interessato, nella misura in cui non siano tenuti al pagamento terzi.
 
 <sup>2</sup> In via subordinata sono a carico dell'ente pubblico competente per l'assistenza di diritto pubblico. Sono applicabili le disposizioni corrispondenti.
 
+<sup>3</sup> Se assicuratori malattia o comuni contestano la competenza per l'assunzione delle spese legate al ricovero a scopo di assistenza ordinato da un medico, queste spese vengono anticipate dal Cantone.
+
+#### Art. 63a ter
+
+**d) Assunzione delle spese in caso di cambio di domicilio**
+
+<sup>1</sup> In caso di cambio di domicilio dell'interessato mentre è in corso una misura, le spese di misure di protezione dei minori e le spese di misure di protezione degli adulti che in via sussidiaria sono a carico dell'ente pubblico devono essere assunte proporzionalmente dai rispettivi comuni, in ragione della durata del domicilio dell'interessato nel rispettivo comune.
+
 #### Art. 63b
 
-**Spese in relazione a misure mediche**
+**e) Spese in relazione a misure mediche**
 
 <sup>1</sup> Le spese in relazione a misure mediche risultanti nella procedura di ricovero a scopo di assistenza e che non rientrano tra le spese del procedimento giudiziario oppure non vengono assunte dagli assicuratori malattia sono a carico della persona oggetto del procedimento.
 
@@ -900,7 +943,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> Il Governo disciplina in un'ordinanza i dettagli riguardanti in particolare:
 
-- a) l'organizzazione delle autorità di protezione dei minori e degli adulti;
+- a) l'organizzazione nonché i bacini di utenza geografici delle sedi distaccate;
 - b) la direzione degli uffici dei curatori professionali;
 - c) il ricovero a scopo di assistenza;
 - d) le spese della procedura e delle misure, segnatamente le tasse, nonché il compenso e il rimborso spese per i curatori;
@@ -1083,17 +1126,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 #### Art. 85
 
-**II. Azione di divisione dell'eredità**
-
-<sup>1</sup> Concluso lo scambio degli scritti il presidente del tribunale impartisce le disposizioni necessarie per chiarire la fattispecie.
-
-<sup>2</sup> Egli può segnatamente invitare le parti a pronunciarsi ulteriormente per iscritto o a voce su determinate questioni e imporre a una delle parti di comprovare determinate asserzioni da essa presentate, per quanto il codice civile[^85-1]) non prescriva diversamente in merito alla ripartizione dell'onere della prova.
-
-<sup>3</sup> Il tribunale può ordinare su istanza o d'ufficio ulteriori rilievi di prove.
-
-<sup>4</sup> Il giudice decide in libero apprezzamento la ripartizione delle spese.
-
-[^85-1]: RS [210](https://db.clex.ch/link/Bund/210/it)
+**…**
 
 ### 2.4. Dei diritti reali
 
@@ -1725,11 +1758,11 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 #### Art. 146c
 
-**4. Pubblicazione dei dati in internet**
+**4. Accesso pubblico per via elettronica**
 
-<sup>1</sup> Il Cantone pubblica in internet i dati del libro mastro ottenibili senza far valere un interesse.
+<sup>1</sup> Il Cantone rende pubblicamente accessibili per via elettronica i dati del libro mastro ottenibili senza far valere un interesse.
 
-<sup>2</sup> Sono ammesse soltanto richieste riferite a fondi, fino a un massimo di cinque richieste al giorno. Gli accessi vengono protocollati automaticamente e i protocolli vengono conservati per un anno.
+<sup>2</sup> Sono ammesse soltanto richieste riferite a fondi. Il sistema d'informazione deve essere protetto da interrogazioni in serie. Gli accessi vengono protocollati automaticamente e i protocolli vengono conservati per un anno.
 
 <sup>3</sup> Con domanda scritta al servizio specializzato, i proprietari fondiari possono richiedere di prendere visione dei protocolli concernenti i loro fondi.
 
