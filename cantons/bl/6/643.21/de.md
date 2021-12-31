@@ -3,20 +3,20 @@ canton: BL
 number: "643.21"
 title: Verordnung über die Maturitätsprüfungen
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-03-14
+version: 2022-01-01
+valid_until: 2024-07-31
+version_adopted: 2021-11-23
 adopted: 2005-07-05
 in_force: 2005-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.21"
-pdf: "https://bl.clex.ch/api/de/versions/3120/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3741/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Maturitätsprüfungen
 
-Vom 05.07.2005 (Stand 01.01.2017)
+Vom 05.07.2005 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -24,7 +24,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Zulassung zu den Maturitätsprüfungen (Prüfungen), deren Organisation und Durchführung sowie die Erteilung des Maturitätszeugnisses an den Gymnasien des Kantons Basel-Landschaft und am Regionalen Gymnasium Laufental-Thierstein.
+<sup>1</sup> Diese Verordnung regelt die Organisation und Durchführung der Maturitätsprüfungen (Prüfungen) sowie die Erteilung des Maturitätszeugnisses an den Gymnasien des Kantons Basel-Landschaft und am Regionalen Gymnasium Laufental-Thierstein.
 
 #### § 2
 
@@ -48,15 +48,15 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Zulassung zu den Prüfungen**
 
-<sup>1</sup> Zugelassen werden Schülerinnen und Schüler, welche die beiden letzten Jahre regelmässig an einer Maturitätsschule und das letzte Jahr am prüfenden Gymnasium absolviert haben sowie die Maturaarbeit fristgerecht eingereicht haben.
+<sup>1</sup> Zugelassen werden Schülerinnen und Schüler, welche die beiden letzten Jahre regelmässig an einer Maturitätsschule und das letzte Jahr am prüfenden Gymnasium absolviert haben.
 
 <sup>2</sup> Die Schulleitungskonferenz der Gymnasien (Schulleitungskonferenz) kann in besonderen Fällen Ausnahmen bewilligen.
 
 <sup>3</sup> ...
 
-<sup>4</sup> Für Schüler und Schülerinnen mit einer Behinderung kann die Schulleitung in Absprache mit der Schulleitungskonferenz und der Schweizerischen Maturitätskommission besondere Regelungen bewilligen.
+<sup>4</sup> …
 
-<sup>5</sup> Schülerinnen und Schüler, die aus gesundheitlichen Gründen nicht zu allen Prüfungen erscheinen können, haben dies umgehend mit einem Arztzeugnis zu belegen. Die Schulleitung legt die Termine der Nachholprüfungen fest.
+<sup>5</sup> …
 
 #### § 5
 
@@ -78,9 +78,9 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Die Ressortgruppe setzt sich aus einer Ressortleitung und aus je einer bzw. einem Fachschaftsdelegierten pro basellandschaftlichem Gymnasium zusammen.
 
-<sup>3</sup> Die Fachschaftsdelegierten werden auf Vorschlag der Fachschaften von der Schulleitung in der Regel auf zwei Jahre ernannt.
+<sup>3</sup> Die Fachschaftsdelegierten werden auf Vorschlag der Fachschaften von der Schulleitung in der Regel auf 2 Jahre ernannt.
 
-<sup>4</sup> Die Ressortleitung obliegt einer Fachperson des entsprechenden Schulfachs, welche über einen Hochschulabschluss sowie über Unterrichts- und Maturitätserfahrung im entsprechenden Fach verfügt und nicht an einem basellandschaftlichen Gymnasium tätig ist. Sie wird von der Schulleitungskonferenz für eine Amtsperiode von vier Jahren ernannt.
+<sup>4</sup> Die Ressortleitung obliegt einer Fachperson des entsprechenden Schulfachs, welche über einen Hochschulabschluss sowie über Unterrichts- und Maturitätserfahrung im entsprechenden Fach verfügt und nicht an einem basellandschaftlichen Gymnasium tätig ist. Sie wird von der Schulleitungskonferenz für eine Amtsperiode von 4 Jahren ernannt.
 
 <sup>5</sup> Die Ressortleitung beruft die Sitzungen der Ressortgruppe ein, leitet sie und organisiert die Arbeit der Ressortgruppe und erstattet nach Abschluss der Prüfungen der Schulleitungskonferenz Bericht.
 
@@ -108,9 +108,11 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Ziel der Maturaarbeit ist es, die Schülerinnen und Schüler zu befähigen, sich den Zugang zu neuem Wissen zu erschliessen, Einblick in die Methodik wissenschaftlichen oder künstlerischen Arbeitens zu gewinnen und allein oder im Team ein grösseres Projekt erfolgreich durchzuführen.
 
-<sup>2<sup>bis</sup></sup> Eine verspätete oder nicht abgegebene Maturaarbeit wird als nicht erbrachte Leistung qualifiziert.
+<sup>2<sup>bis</sup></sup> Die verspätete Abgabe der Maturaarbeit kann zu einer Reduktion der erreichten Note der schriftlichen Arbeit von bis zu 3 Notenpunkten führen.
 
 <sup>2<sup>ter</sup></sup> Schülerinnen und Schüler, die ihre Maturaarbeit wegen Krankheit, Unfall oder aus anderen zwingenden Gründen nicht fristgerecht einreichen können, melden dies unverzüglich der Prüfungsleitung. Die Prüfungsleitung entscheidet über begründete Ausnahmen und legt den Termin einer späteren Abgabe fest.
+
+<sup>2<sup>quater</sup></sup> Die Nichtabgabe der Maturaarbeit oder das Nichterscheinen an der mündlichen Präsentation führen zum Ausschluss von den Maturitätsprüfungen.
 
 <sup>3</sup> Die Note für die Maturaarbeit wird gesetzt aufgrund des Arbeitsprozesses, der schriftlichen Arbeit und ihrer mündlichen Präsentation.
 
@@ -303,11 +305,27 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die Benutzung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit bei den Maturitätsprüfungen führen zum sofortigen Ausschluss von der ganzen Prüfung und zur Verweigerung des Maturitätszeugnisses.
 
-<sup>2</sup> Bei der Maturaarbeit kann die Benutzung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit, insbesondere ein Plagiat, zu einer Reduktion der erreichten Note bis zur niedrigsten möglichen Bewertung oder zur Qualifikation als nichterbrachte Leistung führen.
+<sup>2</sup> Bei der Maturaarbeit kann die Benutzung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit, insbesondere ein Plagiat, zu einer Reduktion der erreichten Note bis zur niedrigsten möglichen Bewertung oder zum Ausschluss von den Maturitätsprüfungen führen.
 
 <sup>3</sup> Die Prüfungsleitung entscheidet in den Fällen von Benutzung unerlaubter Hilfsmittel und Unredlichkeiten.
 
-<sup>4</sup> Die Kandidatinnen und Kandidaten sind unmittelbar vor der ersten Prüfung, bzw. vor Beginn der Maturaarbeit ausdrücklich auf die vorstehenden Bestimmungen aufmerksam zu machen.
+<sup>4</sup> Die Kandidatinnen und Kandidaten sind unmittelbar vor der 1. Prüfung, bzw. vor Beginn der Maturaarbeit ausdrücklich auf die vorstehenden Bestimmungen aufmerksam zu machen.
+
+#### § 16c
+
+**Nichtteilnahme an Prüfungen**
+
+<sup>1</sup> Schülerinnen und Schüler, die aus gesundheitlichen Gründen zu 1 oder mehreren Prüfungen nicht erscheinen können, haben dies umgehend mit einem Arztzeugnis zu belegen. Die Schulleitung legt die Termine der Nachholprüfungen fest.
+
+<sup>2</sup> Schülerinnen und Schüler, die vorbehältlich Abs. 1 zu einer Prüfung nicht antreten, werden von den Maturitätsprüfungen ausgeschlossen.
+
+#### § 16d
+
+**Durchführung der Prüfungen für Schülerinnen und Schüler mit Lernstörung, Sprachstörung oder Behinderung**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die aufgrund einer Lernstörung, Sprachstörung oder Behinderung bei Leistungserhebungen benachteiligt sind, kann die Schulleitung in Absprache mit der Schulleitungskonferenz und der Schweizerischen Maturitätskommission besondere Regelungen bewilligen.
+
+<sup>2</sup> Bei der Festlegung von Massnahmen zum Nachteilsausgleich sind die weiteren Bestimmungen der Bildungsgesetzgebung zu beachten.
 
 #### § 17
 
@@ -399,21 +417,23 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Nichterteilung des Maturitätszeugnisses**
 
-<sup>1</sup> Die Prüfungsleitung teilt den Kandidaten und Kandidatinnen, welche die Prüfung nicht bestanden haben, das Ergebnis schriftlich mit.
+<sup>1</sup> Die Prüfungsleitung teilt den Kandidatinnen und Kandidaten, welche die Maturitätsprüfung nicht bestanden haben, das Ergebnis schriftlich mit.
 
 <sup>2</sup> Diese Mitteilung ist mit einer Rechtsmittelbelehrung gemäss § 29 zu versehen.
 
 #### § 26
 
-**Wiederholung der Prüfung**
+**Wiederholung der Maturitätsprüfungen**
 
-<sup>1</sup> Wer die Prüfung nicht bestanden hat oder ausgeschlossen worden ist, kann sie einmal wiederholen.
+<sup>1</sup> Wer die Maturitätsprüfungen nicht bestanden hat oder ausgeschlossen worden ist, kann sie einmal wiederholen.
 
 <sup>2</sup> In diesem Fall ist das letzte Schuljahr zu wiederholen.
 
 <sup>3</sup> Auf Antrag der Schülerin oder des Schülers werden Fächer mit Note 5 oder höher bei der Wiederholung angerechnet. Der Unterricht in diesen abgeschlossenen Fächern entfällt. Die Schulleitungskonferenz erlässt die Weisungen.
 
 <sup>4</sup> Auf die Wiederholung der Maturaarbeit kann auf Antrag der Schülerin oder des Schülers verzichtet werden. In diesem Fall wird die erreichte Note übernommen.
+
+<sup>5</sup> Wird das 4. Schuljahr nach den Herbstferien freiwillig wiederholt, gilt dies als Nichtbestehen der Maturitätsprüfungen. Eine erneute Wiederholung der Prüfungen ist ausgeschlossen.
 
 #### § 27
 
@@ -423,7 +443,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Im nicht massgebenden Fach Sport wird die Erfahrungsnote ins Maturitätszeugnis eingetragen.
 
-<sup>3</sup> Liegt die Erfahrungsnote genau in der Mitte zwischen zwei halben Noten, wird aufgerundet.
+<sup>3</sup> Liegt die Erfahrungsnote genau in der Mitte zwischen 2 halben Noten, wird aufgerundet.
 
 <sup>4</sup> Auf die Erteilung des Maturitätszeugnisses haben diese Noten keinen Einfluss.
 
@@ -434,7 +454,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 <sup>1</sup> Der Maturitätsausweis enthält:
 
 - a. die Aufschrift «Schweizerische Eidgenossenschaft» sowie die Kantonsbezeichnung;
-- b. den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar/15. Februar 1995»;
+- b. den Vermerk «Maturitätsausweis, ausgestellt nach den Erlassen des Bundesrates und der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar / 15. Februar 1995»;
 - c. den Namen der Schule, die ihn ausstellt;
 - d. den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
 - e. die Angaben der Zeit, während der die Inhaberin oder der Inhaber das Gymnasium besucht hat;
@@ -484,7 +504,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung vom 15. Juli 2003[^32-1] über die Maturitätsprüfungen wird aufgehoben.
+<sup>1</sup> Die Verordnung über die Maturitätsprüfungen vom 15. Juli 2003[^32-1] wird aufgehoben.
 
 [^32-1]: GS 34.1100
 
