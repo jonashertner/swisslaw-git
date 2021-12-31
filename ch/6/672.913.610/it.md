@@ -3,27 +3,28 @@ sr: "672.913.610"
 title: Ordinanza del 30 aprile 2003 concernente la convenzione germano-svizzera di doppia imposizione
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/229"
 language: it
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2003-04-30
 in_force: 2003-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/229/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2003-229-20070101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/229/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/229/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-229-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/229/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la convenzione germano-svizzera di doppia imposizione
 
-del 30 aprile 2003 (Stato 1° gennaio 2007)
+del 30 aprile 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto il decreto federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; in esecuzione della convenzione dell’11 agosto 1971[^ingress-2] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (convenzione),
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale; in esecuzione della convenzione dell’11 agosto 1971[^ingress-2] tra la Confederazione Svizzera e la Repubblica federale di Germania per evitare la doppia imposizione in materia di imposte sul reddito e sulla sostanza (convenzione),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
 [^ingress-2]: [RS 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^ingress-3]: Nuovo testo giusta il n. II 4 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## Sezione 1: Imposta svizzera a titolo di precauzione (preventiva) riscossa sui dividendi e sugli interessi
 
@@ -35,7 +36,7 @@ ordina:
 
 <sup>2</sup> La presente ordinanza non si applica al rimborso dell’imposta preventiva cui le persone residenti nella Repubblica federale di Germania possono pretendere già in virtù della legislazione federale svizzera.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 2
 
@@ -53,10 +54,10 @@ ordina:
 
 <sup>6</sup> Se l’istanza è respinta in tutto o in parte, il richiedente può esigere dall’Amministrazione federale delle contribuzioni una decisione, che deve essere notificata, con indicazione dei motivi e dei rimedi giuridici.[^2-4]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
-[^2-2]: Introdotto dal n. I dell’O del 22 dic. 2004 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
-[^2-3]: Introdotto dal n. I dell’O del 22 dic. 2004 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
-[^2-4]: Introdotto dal n. I dell’O del 22 dic. 2004 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-2]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-3]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-4]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 3
 
@@ -72,7 +73,7 @@ ordina:
 
 <sup>5</sup> Se i presupposti per il diritto alla procedura di dichiarazione non sono più adempiuti, la società svizzera che paga i dividendi deve informarne tempestivamente l’Amministrazione federale delle contribuzioni.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 3a
 
@@ -84,7 +85,7 @@ ordina:
 
 <sup>3</sup> L’Amministrazione federale delle contribuzioni può trasmettere copia del modulo 108 all’autorità tedesca competente.
 
-[^3a-1]: Introdotto dal n. I dell’O del 22 dic. 2004 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^3a-1]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 4
 
@@ -100,17 +101,15 @@ I ricorsi contro le decisioni dell’Amministrazione federale delle contribuzion
 
 **Moduli d’istanza**
 
-Le persone residenti in Svizzera, che pretendono gli sgravi delle imposte germaniche alla fonte previste negli articoli 10 a 12 della convenzione, devono chiedere tali sgravi per mezzo dei seguenti moduli:
-
 emessi a tali scopi dalle autorità germaniche.
 
-<table>
-<tr><td></td><td>a.</td><td>R-D 1:</td><td>Dividenden und Zinsen, natürliche Personen;</td></tr>
-<tr><td></td><td>b.</td><td>R-D 2:</td><td>Dividenden und Zinsen, juristische Personen und Personengesellschaften;</td></tr>
-<tr><td></td><td>c.</td><td>R-D 3:</td><td>Lizenzgebühren, natürliche Personen;</td></tr>
-<tr><td></td><td>d.</td><td>R-D 4:</td><td>Lizenzgebühren, juristische Personen und Personengesellschaften;</td></tr>
-<tr><td></td><td>e.</td><td>R-D 5:</td><td>Dividenden, Kapitalgesellschaften mit unmittelbarer Beteiligung von mindestens 10 Prozent,</td></tr>
-</table>
+Le persone residenti in Svizzera, che pretendono gli sgravi delle imposte germaniche alla fonte previste negli articoli 10 a 12 della convenzione, devono chiedere tali sgravi per mezzo dei seguenti moduli:
+
+- a. R-D 1: Dividenden und Zinsen, natürliche Personen
+- b. R-D 2: Dividenden und Zinsen, juristische Personen und Personengesellschaften;
+- c. R-D 3: Lizenzgebühren, natürliche Personen;
+- d. R-D 4: Lizenzgebühren, juristische Personen und Personengesellschaften;
+- e. R-D 5: Dividenden, Kapitalgesellschaften mit unmittelbarer Beteiligung von mindestens 10 Prozent,
 
 #### Art. 6
 

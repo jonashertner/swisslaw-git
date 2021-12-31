@@ -3,27 +3,28 @@ sr: "672.913.610"
 title: Verordnung vom 30. April 2003 zum schweizerisch-deutschen Doppelbesteuerungsabkommen
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/229"
 language: de
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2003-04-30
 in_force: 2003-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/229/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2003-229-20070101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/229/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/229/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-229-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/229/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung zum schweizerisch-deutschen Doppelbesteuerungsabkommen
 
-vom 30. April 2003 (Stand am 1. Januar 2007)
+vom 30. April 2003 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf den Bundesbeschluss vom 22. Juni 1951[^ingress-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung, in Ausführung des Abkommens vom 11. August 1971[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (Abkommen),
+gestützt auf Artikel 35 Absatz 1 des Bundesgesetzes vom 18. Juni 2021[^ingress-1] über die Durchführung von internationalen Abkommen im Steuerbereich, in Ausführung des Abkommens vom 11. August 1971[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (Abkommen),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
 [^ingress-2]: [SR 0.672.913.62](https://fedlex.data.admin.ch/eli/cc/1972/3075_3128_2910)
+[^ingress-3]: Fassung gemäss Ziff. II 4 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## 1. Abschnitt: Schweizerische Verrechnungssteuer von Dividenden und Zinsen
 
@@ -35,7 +36,7 @@ verordnet:
 
 <sup>2</sup> Diese Verordnung findet keine Anwendung auf die Erstattung der Verrechnungssteuer, die die in der Bundesrepublik Deutschland ansässigen Personen schon nach der schweizerischen Bundesgesetzgebung beanspruchen können.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 2
 
@@ -53,11 +54,11 @@ verordnet:
 
 <sup>6</sup> Wird ein Antrag ganz oder teilweise abgewiesen, so kann der Antragsteller von der Eidgenössischen Steuerverwaltung einen Entscheid verlangen. Dieser wird mit einer Begründung und einer Rechtsmittelbelehrung eröffnet.[^2-5]
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 [^2-2]: In dieser Verordnung werden Personen geschlechtergerecht bezeichnet, sofern dadurch die Lesbarkeit nicht beeinträchtigt wird. Wo Personenbezeichnungen nur in der maskulinen Form stehen, sind, sofern darunter natürliche Personen verstanden werden, stets solche beiderlei Geschlechts gemeint.
-[^2-3]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
-[^2-4]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
-[^2-5]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-5]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 3
 
@@ -73,7 +74,7 @@ verordnet:
 
 <sup>5</sup> Die die Dividenden zahlende schweizerische Gesellschaft muss der Eidgenössischen Steuerverwaltung unverzüglich Meldung erstatten, sobald die Voraussetzungen für die Beanspruchung des Meldeverfahrens nicht mehr erfüllt sind.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 3a
 
@@ -85,7 +86,7 @@ verordnet:
 
 <sup>3</sup> Die Eidgenössische Steuerverwaltung kann den zuständigen deutschen Behörden Doppel der Formulare 108 übermitteln.
 
-[^3a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^3a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 4
 
@@ -103,13 +104,15 @@ Entscheide der Eidgenössischen Steuerverwaltung unterliegen der Beschwerde nach
 
 In der Schweiz ansässige Personen, welche die in den Artikeln 10–12 des Abkommens vorgesehenen Entlastungen von den deutschen Quellensteuern beanspruchen wollen, haben dies auf den folgenden von den deutschen Behörden herausgegebenen Formularen zu beantragen:
 
-<table>
-<tr><td></td><td>a.</td><td>R-D 1:</td><td>Dividenden und Zinsen, natürliche Personen;</td></tr>
-<tr><td></td><td>b.</td><td>R-D 2:</td><td>Dividenden und Zinsen, juristische Personen und Personengesellschaften;</td></tr>
-<tr><td></td><td>c.</td><td>R-D 3:</td><td>Lizenzgebühren, natürliche Personen;</td></tr>
-<tr><td></td><td>d.</td><td>R-D 4:</td><td>Lizenzgebühren, juristische Personen und Personengesellschaften;</td></tr>
-<tr><td></td><td>e.</td><td>R-D 5:</td><td>Dividenden, Kapitalgesellschaften mit unmittelbarer Beteiligung von mindestens 10 Prozent.</td></tr>
-</table>
+a. R-D 1: Dividenden und Zinsen, natürliche Personen;
+
+b. R-D 2: Dividenden und Zinsen, juristische Personen und Personengesellschaften;
+
+c. R-D 3: Lizenzgebühren, natürliche Personen;
+
+d. R-D 4: Lizenzgebühren, juristische Personen und Personengesellschaften;
+
+e. R-D 5: Dividenden, Kapitalgesellschaften mit unmittelbarer Beteiligung von mindestens 10 Prozent.
 
 #### Art. 6
 
@@ -253,7 +256,7 @@ Die betroffene Person kann sich am Verfahren beteiligen und Einsicht in die Akte
 
 <sup>2</sup> Zur Beschwerde ist auch der Informationsinhaber befugt, soweit er eigene Interessen geltend macht.
 
-<sup>3</sup> ...[^17-2]
+<sup>3</sup> …[^17-2]
 
 <sup>4</sup> Jede der Schlussverfügung vorangehende Verfügung, einschliesslich einer Verfügung über Zwangsmassnahmen, ist sofort vollstreckbar und kann nur zusammen mit der Schlussverfügung angefochten werden.
 
