@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 1998 über die Ein- und Ausfuhr von Gemüse, 
 short: VEAGOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20210101/de"
 
 (VEAGOG)
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2021)
+vom 7. Dezember 1998 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -137,7 +137,7 @@ Als zu Beginn der Bewirtschaftungsperiode vorhanden im Sinne von Artikel 15 des 
 <sup>3</sup> Vorräte auf Handelsstufe, die nicht innerhalb von zwei Tagen aufgebraucht werden, sind nach Artikel 55 der Zollverordnung vom 1. November 2006[^7-3] neu anzumelden.[^7-4]
 
 [^7-1]: Fassung gemäss Anhang 4 Ziff. 51 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^7-2]: [SR 916.121.100](https://fedlex.data.admin.ch/eli/cc/2016/565)
+[^7-2]: [[AS 2000 394](https://fedlex.data.admin.ch/eli/oc/2000/82); [2001 452](https://fedlex.data.admin.ch/eli/oc/2001/89); [2004 4393](https://fedlex.data.admin.ch/eli/oc/2004/672); [2006 3313](https://fedlex.data.admin.ch/eli/oc/2006/513); [2010 4593](https://fedlex.data.admin.ch/eli/oc/2010/663); [2011 5403](https://fedlex.data.admin.ch/eli/oc/2011/771). [AS 2016 3331](https://fedlex.data.admin.ch/eli/oc/2016/565)Art. 5]. Siehe heute: die V des BLW vom 16. Sept. 2016 ([SR 916.121.100](https://fedlex.data.admin.ch/eli/cc/2016/565)).
 [^7-3]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 [^7-4]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
 
@@ -369,7 +369,7 @@ Anhang 1*[^t-1]*
 
 ## Gemüse und Obst
 
-[^t-1]: Ursprünglich: Anhang 2. Fassung gemäss Ziff. I der V des BLW vom 20. Dez. 2016, in Kraft seit 1. Febr. 2017 ([AS 2017 103](https://fedlex.data.admin.ch/eli/oc/2017/28)).
+[^t-1]: Ursprünglich: Anhang 2. Fassung gemäss Ziff. I der V des BLW vom 20. Dez. 2016 ([AS 2017 103](https://fedlex.data.admin.ch/eli/oc/2017/28)). Bereinigt gemäss Anhang 3 Ziff. 15 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 Die Vermarktungsnormen der Europäischen Union für die unten aufgeführten Waren sind in der Durchführungsverordnung (EU) Nr. 543/2011[^annex1-lvlu1-1] festgelegt.
 
@@ -382,8 +382,8 @@ Die Vermarktungsnormen der Europäischen Union für die unten aufgeführten Ware
 <tr><td>0706</td><td>Karotten und Speisemöhren, Speiserüben, rote Rüben, Schwarzwurzeln, Knollensellerie, Rettiche und ähnliche geniessbare Wurzeln, frisch oder gekühlt</td></tr>
 <tr><td>0707</td><td>Gurken und Cornichons, frisch oder gekühlt</td></tr>
 <tr><td>0708</td><td>Hülsenfrüchte, auch ausgelöst, frisch oder gekühlt</td></tr>
-<tr><td>ex 0709</td><td>Anderes Gemüse, frisch oder gekühlt, ausgenommen nicht gezüchtete Pilze der Position 0709.5900, Früchte der Gattungen *Capsicum* oder *Pimenta* der Position 0709.6090, Oliven der Position 0709.9200, Zuckermais und Kapern der Position 0709.9999 sowie essbare Sprossen aus gekeimten Samen der Position 0709</td></tr>
-<tr><td>ex 0802</td><td>Andere Schalenfrüchte, frisch oder getrocknet, auch ohne Schalen oder enthäutet, ausgenommen bittere Mandeln der Position 0802.1100, Mandeln ohne Schale der Position 0802.1200, Haselnüsse ohne Schale der Position 0802.22, Walnüsse ohne Schale der Position 0802.32, Pistazien der Positionen 0802.51 und 0802.52, Macadamia-Nüsse der Positionen 0802.61 und 0802.62, Kolanüsse (Cola spp.) der Position 0802.7000, Arekanüsse der Position 0802.8000 sowie andere Schalenfrüchte der Position 0802.90</td></tr>
+<tr><td>ex 0709</td><td>Anderes Gemüse, frisch oder gekühlt, ausgenommen nicht gezüchtete Pilze der Positionen 0709.5200/5900, Früchte der Gattungen *Capsicum* oder *Pimenta* der Position 0709.6090, Oliven der Position 0709.9200, Zuckermais und Kapern der Position 0709.9999 sowie essbare Sprossen aus gekeimten Samen der Position 0709</td></tr>
+<tr><td>ex 0802</td><td>Andere Schalenfrüchte, frisch oder getrocknet, auch ohne Schalen oder enthäutet, ausgenommen bittere Mandeln der Position 0802.1100, Mandeln ohne Schale der Position 0802.1200, Haselnüsse ohne Schale der Position 0802.22, Walnüsse ohne Schale der Position 0802.32, Pistazien der Positionen 0802.51 und 0802.52, Macadamia-Nüsse der Positionen 0802.61 und 0802.62, Kolanüsse (Cola spp.) der Position 0802.7000, Arekanüsse der Position 0802.8000, Pinienkerne der Positionen 0802.9100/0802.9200 sowie andere Schalenfrüchte der Position 0802.9900</td></tr>
 <tr><td>ex 0803.1000</td><td>Mehlbananen, frisch</td></tr>
 <tr><td>0804.2010</td><td>Feigen, frisch</td></tr>
 <tr><td>0804.3000</td><td>Ananas</td></tr>

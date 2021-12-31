@@ -4,11 +4,11 @@ title: "Ordinanza del 7 dicembre 1998 concernente l'importazione e l'esportazion
 short: OIEVFF
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20210101/it"
 
 (OIEVFF)
 
-del 7 dicembre 1998 (Stato 1° gennaio 2021)
+del 7 dicembre 1998 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -137,7 +137,7 @@ Per prodotti agricoli in commercio all’inizio del periodo amministrato ai sens
 <sup>3</sup> Per le scorte in commercio che non vengono esaurite entro due giorni è necessaria una nuova dichiarazione doganale giusta l’articolo 55 dell’ordinanza del 1° novembre 2006[^7-3] sulle dogane.[^7-4]
 
 [^7-1]: Nuovo testo giusta l’all. 4 n. 51 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^7-2]: [RS 916.121.100](https://fedlex.data.admin.ch/eli/cc/2016/565)
+[^7-2]: [[RU 2000 394](https://fedlex.data.admin.ch/eli/oc/2000/82), [2001 452](https://fedlex.data.admin.ch/eli/oc/2001/89), [2004 4393](https://fedlex.data.admin.ch/eli/oc/2004/672), [2006 3313](https://fedlex.data.admin.ch/eli/oc/2006/513), [2010 4593](https://fedlex.data.admin.ch/eli/oc/2010/663), [2011 5403](https://fedlex.data.admin.ch/eli/oc/2011/771). RU **2016** 331 art. 5]. Vedi ora l’O dell’UFAG del 16 set. 2016 ([RS 916.121.100](https://fedlex.data.admin.ch/eli/cc/2016/565)).
 [^7-3]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 [^7-4]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
 
@@ -369,7 +369,7 @@ Allegato 1*[^t-1]*
 
 ## Legumi e frutti
 
-[^t-1]: Originario all. 2. Nuovo testo giusta il n. I dell’O dell’UFAG del 20 dic. 2016, in vigore dal 1° feb. 2017 ([RU 2017 103](https://fedlex.data.admin.ch/eli/oc/2017/28)).
+[^t-1]: Originario all. 2. Nuovo testo giusta il n. I dell’O dell’UFAG del 20 dic. 2016 ([RU 2017 103](https://fedlex.data.admin.ch/eli/oc/2017/28)). Aggiornato dall’all. 3 n. 15 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 202 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 Le norme di commercializzazione comunitarie per le merci di seguito elencate sono fissate nel regolamento di esecuzione (UE) n. 543/2011[^annex1-lvlu1-1].
 
@@ -382,8 +382,8 @@ Le norme di commercializzazione comunitarie per le merci di seguito elencate son
 <tr><td>0706</td><td>Carote, navoni, barbabietole da insalata, salsefrica o barba di becco, sedani-rapa, ravanelli e simili radici commestibili, freschi o refrigerati</td></tr>
 <tr><td>0707</td><td>Cetrioli e cetriolini, freschi o refrigerati</td></tr>
 <tr><td>0708</td><td>Legumi da granella, anche sgranati, freschi o refrigerati</td></tr>
-<tr><td>ex 0709</td><td>Altri ortaggi, freschi o refrigerati, esclusi i funghi non coltivati della voce 0709.5900, i pimenti del genere *Caps**i**cum* o del genere *Pimenta* della voce 0709.6090, le olive della voce 0709.9200, il mais dolce e i capperi della voce 0709.9999 nonché i germogli commestibili ottenuti dalla germinazione di semi della voce 0709.</td></tr>
-<tr><td>ex 0802</td><td>Altra frutta a guscio, fresca o secca, anche sgusciata o decorticata, escluse le mandorle amare della voce 0802.1100, le mandorle sgusciate della voce 0802.1200, le nocciole sgusciate della voce 0802.22, le noci comuni sgusciate della voce 0802.32, i pistacchi delle voci 0802.51 e 0802.52, le noci macadamia delle voci 0802.61 e 0802.62, noci di cola (Cola spp.) della voce 0802.7000, noci di arec (o di betel) della voce 0802.8000 e altra frutta a guscio della voce 0802.90</td></tr>
+<tr><td>ex 0709</td><td>Altri ortaggi, freschi o refrigerati, esclusi i funghi non coltivati delle voci 0709.5200/5900, i pimenti del genere *Caps**i**cum* o del genere *Pimenta* della voce 0709.6090, le olive della voce 0709.9200, il mais dolce e i capperi della voce 0709.9999 nonché i germogli commestibili ottenuti dalla germinazione di semi della voce 0709.</td></tr>
+<tr><td>ex 0802</td><td>Altra frutta a guscio, fresca o secca, anche sgusciata o decorticata, escluse le mandorle amare della voce 0802.1100, le mandorle sgusciate della voce 0802.1200, le nocciole sgusciate della voce 0802.22, le noci comuni sgusciate della voce 0802.32, i pistacchi delle voci 0802.51 e 0802.52, le noci macadamia delle voci 0802.61 e 0802.62, noci di cola (Cola spp.) della voce 0802.7000, noci di arec (o di betel) della voce 0802.8000, pinoli delle voci 0802.9100 a 0802.9200 e altra frutta a guscio della voce 0802.9900</td></tr>
 <tr><td>ex 0803.1000</td><td>Banane da cuocere, fresche</td></tr>
 <tr><td>0804.2010</td><td>Fichi, freschi</td></tr>
 <tr><td>0804.3000</td><td>Ananassi</td></tr>

@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 1998 sur l'importation et l'exportation de lé
 short: OIELFP
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20210101/fr"
 
 (OIELFP)
 
-du 7 décembre 1998 (Etat le 1<sup>er</sup> janvier 2021)
+du 7 décembre 1998 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -139,7 +139,7 @@ Sont réputées encore dans le commerce au début de la période administrée au
 <sup>3</sup> Les réserves encore disponibles dans le circuit de commercialisation, qui ne sont pas épuisées dans un délai de deux jours, doivent faire l’objet d’une nouvelle déclaration en douane conformément à l’art. 55 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^7-3].[^7-4]
 
 [^7-1]: Nouvelle teneur selon le ch. 51 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^7-2]: [RS 916.121.100](https://fedlex.data.admin.ch/eli/cc/2016/565)
+[^7-2]: [[RO 2000 394](https://fedlex.data.admin.ch/eli/oc/2000/82); [2001 452](https://fedlex.data.admin.ch/eli/oc/2001/89); [2004 4393](https://fedlex.data.admin.ch/eli/oc/2004/672); [2006 3313](https://fedlex.data.admin.ch/eli/oc/2006/513); [2010 4593](https://fedlex.data.admin.ch/eli/oc/2010/663); [2011 5403](https://fedlex.data.admin.ch/eli/oc/2011/771). [RO 2016 3331](https://fedlex.data.admin.ch/eli/oc/2016/565)art. 5]. Voir actuellement l’O de l’OFAG du 16 sept. 2016 ([RS 916.121.100](https://fedlex.data.admin.ch/eli/cc/2016/565)).
 [^7-3]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 [^7-4]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
 
@@ -371,7 +371,7 @@ Annexe 1*[^t-1]*
 
 ## Légumes et fruits
 
-[^t-1]: Anciennement annexe 2. Nouvelle teneur selon le ch. I de l’O de l’OFAG du 20 déc. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2017 ([RO 2017 103](https://fedlex.data.admin.ch/eli/oc/2017/28)).
+[^t-1]: Anciennement annexe 2. Nouvelle teneur selon le ch. I de l’O de l’OFAG du 20 déc. 2016 ([RO 2017 103](https://fedlex.data.admin.ch/eli/oc/2017/28)). Mise à jour par l’annexe 3 ch.15 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 Les normes de commercialisation communautaires pour les marchandises énumérées ci-après sont fixées dans le règlement d’exécution (UE) n<sup>o</sup> 543/2011[^annex1-lvlu1-1].
 
@@ -384,8 +384,8 @@ Les normes de commercialisation communautaires pour les marchandises énumérée
 <tr><td>0706</td><td>Carottes, navets, betteraves à salade, salsifis, céleris-raves, radis et racines comestibles similaires, à l’état frais ou réfrigéré</td></tr>
 <tr><td>0707</td><td>Concombres et cornichons, à l’état frais ou réfrigéré</td></tr>
 <tr><td>0708</td><td>Légumes à cosse, écossés ou non, à l’état frais ou réfrigéré</td></tr>
-<tr><td>ex 0709</td><td>Autres légumes, à l’état frais ou réfrigéré, à l’exclusion des champignons non cultivés de la position 0709.5900, des piments du genre *Capsicum* ou du genre *Pimenta* de la position 0709.6090, des olives de la position 0709.9200, du maïs doux et des câpres de la position 0709.9999 ainsi que des germes comestibles issus de la germination de semences de la position 0709</td></tr>
-<tr><td>ex 0802</td><td>Autres fruits à coques, frais ou secs, même sans leurs coques ou décortiqués, à l’exclusion des amandes amères de la position 0802.1100, des amandes sans coques de la position 0802.1200, des noisettes sans coques de la position 0802.22, des noix communes sans coques de la position 0802.32, des pistaches des positions 0802.51 et 0802.52, des noix macadamia des positions 0802.61 et 0802.62, des noix de cola (Cola spp.) de la position 0802.7000, des noix d’arec de la position 0802.8000 et des autres fruits à coques de la position 0802.90</td></tr>
+<tr><td>ex 0709</td><td>Autres légumes, à l’état frais ou réfrigéré, à l’exclusion des champignons non cultivés des positions 0709.5200/5900, des piments du genre *Capsicum* ou du genre *Pimenta* de la position 0709.6090, des olives de la position 0709.9200, du maïs doux et des câpres de la position 0709.9999 ainsi que des germes comestibles issus de la germination de semences de la position 0709</td></tr>
+<tr><td>ex 0802</td><td>Autres fruits à coques, frais ou secs, même sans leurs coques ou décortiqués, à l’exclusion des amandes amères de la position 0802.1100, des amandes sans coques de la position 0802.1200, des noisettes sans coques de la position 0802.22, des noix communes sans coques de la position 0802.32, des pistaches des positions 0802.51 et 0802.52, des noix macadamia des positions 0802.61 et 0802.62, des noix de cola (Cola spp.) de la position 0802.7000, des noix d’arec de la position 0802.8000, des pignons des positions 0802.9100 à 0802.9200 et des autres fruits à coques de la position 0802.9900</td></tr>
 <tr><td>ex 0803.1000</td><td>Plantains, frais</td></tr>
 <tr><td>0804.2010</td><td>Figues, fraîches</td></tr>
 <tr><td>0804.3000</td><td>Ananas</td></tr>
