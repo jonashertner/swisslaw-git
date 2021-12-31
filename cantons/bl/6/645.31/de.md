@@ -3,20 +3,20 @@ canton: BL
 number: "645.31"
 title: Verordnung über den Schulsozialdienst auf der Sekundarstufe I und II
 language: de
-version: 2018-08-01
-valid_until: 2021-12-31
-version_adopted: 2018-05-08
+version: 2022-01-01
+valid_until: 2024-07-31
+version_adopted: 2021-12-14
 adopted: 2004-03-16
 in_force: 2004-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/645.31"
-pdf: "https://bl.clex.ch/api/de/versions/2213/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3748/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Schulsozialdienst auf der Sekundarstufe I und II
 
-Vom 16.03.2004 (Stand 01.08.2018)
+Vom 16.03.2004 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -28,14 +28,14 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Dem Schulsozialdienst obliegen insbesondere folgende Aufgaben:
 
-- a. Er ist ein niederschwelliges Beratungsangebot, in erster Linie für Kinder und Jugendliche;
-- b. er begleitet Kinder und Jugendliche kollektiv und individuell in ihrer persönlichen, sozialen und schulischen Entwicklung;
-- c. er unterstützt Kinder und Jugendliche in der Bewältigung ihres Lebens und fördert ihre Kompetenzen zur Lösung von persönlichen und sozialen Problemen;
-- d. er vermittelt die Kinder und Jugendlichen bei Bedarf an weitere Stellen;
-- e. er unterstützt die Lehrer und Lehrerinnen in sozialpädagogischen und disziplinarischen Fragen;
-- f. er unterstützt die Erziehungsberechtigten und die Behörden in schulischen, pädagogischen und disziplinarischen Fragen;
-- g. er leistet einen Beitrag zur Förderung des Klimas in den Klassen und in der Schule;
-- h. er handelt nach den Grundsätzen der Chancengleichheit und der geschlechterdifferenzierten Pädagogik.
+- a. Er ist ein niederschwelliges Beratungsangebot, in 1. Linie für Kinder und Jugendliche.
+- b. Er begleitet Kinder und Jugendliche kollektiv und individuell in ihrer persönlichen, sozialen und schulischen Entwicklung.
+- c. Er unterstützt Kinder und Jugendliche in der Bewältigung ihres Lebens und fördert ihre Kompetenzen zur Lösung von persönlichen und sozialen Problemen.
+- d. Er vermittelt die Kinder und Jugendlichen bei Bedarf an weitere Stellen.
+- e. Er unterstützt die Lehrer und Lehrerinnen in sozialpädagogischen und disziplinarischen Fragen.
+- f. Er unterstützt die Erziehungsberechtigten und die Behörden in schulischen, pädagogischen und disziplinarischen Fragen.
+- g. Er leistet einen Beitrag zur Förderung des Klimas in den Klassen und in der Schule.
+- h. Er handelt nach den Grundsätzen der Chancengleichheit und der geschlechterdifferenzierten Pädagogik.
 
 #### § 2
 
@@ -108,7 +108,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>5</sup> …
 
-<sup>6</sup> Die Personaladministration erfolgt durch den Stab Personal der BKSD.
+<sup>6</sup> Die Personaladministration erfolgt durch die Abteilung Personal der BKSD.
 
 <sup>7</sup> Anstellungsvoraussetzung für die Schulsozialarbeiter und Schulsozialarbeiterinnen ist eine Grundausbildung in Sozialarbeit, Sozialpädagogik oder soziokultureller Animation, in Verbindung mit einer Nachdiplomausbildung in Schulsozialarbeit.
 
@@ -128,13 +128,13 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Das Amt hat insbesondere folgende Aufgaben:
 
-- a. Es ist auf allen Schulstufen bezüglich der Schulsozialarbeiter und Schulsozialarbeiterinnen zuständig;
+- a. Es ist auf allen Schulstufen bezüglich der Schulsozialarbeiter und Schulsozialarbeiterinnen zuständig.
 - b. …
-- c. es erlässt Rahmenrichtlinien für die Schulsozialarbeiter und Schulsozialarbeiterinnen;
-- d. es wählt auf Vorschlag der Schulsozialarbeiter und Schulsozialarbeiterinnen die Fachkommission Schulsozialdienst;
-- e. es überprüft die Pensen der Schulsozialarbeitenden und teilt diese den Schulen zu;
-- f. es leitet den Schulsozialdienst der Sekundarstufe I;
-- g. es bezieht die Schulleitung der betroffenen Schule bei der Planung der Arbeitsschwerpunkte und der Arbeitsorganisation ein.
+- c. Es erlässt Rahmenrichtlinien für die Schulsozialarbeiter und Schulsozialarbeiterinnen.
+- d. Es wählt auf Vorschlag der Schulsozialarbeiter und Schulsozialarbeiterinnen die Fachkommission Schulsozialdienst.
+- e. Es überprüft die Pensen der Schulsozialarbeitenden und teilt diese den Schulen zu.
+- f. Es leitet den Schulsozialdienst der Sekundarstufe I.
+- g. Es bezieht die Schulleitung der betroffenen Schule bei der Planung der Arbeitsschwerpunkte und der Arbeitsorganisation ein.
 
 #### § 7a
 
@@ -142,14 +142,14 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die Fachkommission Schulsozialdienst (kurz: Kommission) vertritt die Schulsozialarbeiter und Schulsozialarbeiterinnen und unterstützt das Amt in seinen Aufgaben.
 
-<sup>2</sup> Die Kommission besteht aus maximal 5 Mitgliedern. Das Amt gehört ihr von Amtes wegen an.
+<sup>2</sup> Die Kommission besteht aus maximal 5 Mitgliedern. Das Amt gehört ihr von Amts wegen an.
 
 <sup>3</sup> Die Kommission hat insbesondere folgende Aufgaben:
 
-- a. Sie unterstützt die Schulsozialarbeiter und Schulsozialarbeiterinnen in Konzept- und Fachfragen;
-- b. sie trägt zur Qualitätsentwicklung der Schulsozialarbeit bei;
-- c. sie unterstützt die Organisation der Supervision der Schulsozialarbeiter und Schulsozialarbeiterinnen;
-- d. sie fördert die Zusammenarbeit, den Informationstransfer und den Austausch unter den Schulsozialarbeiterinnen und Schulsozialarbeitern und mit den Sozialarbeiterinnen und Sozialarbeitern der Gemeinden.
+- a. Sie unterstützt die Schulsozialarbeiter und Schulsozialarbeiterinnen in Konzept- und Fachfragen.
+- b. Sie trägt zur Qualitätsentwicklung der Schulsozialarbeit bei.
+- c. Sie unterstützt die Organisation der Supervision der Schulsozialarbeiter und Schulsozialarbeiterinnen.
+- d. Sie fördert die Zusammenarbeit, den Informationstransfer und den Austausch unter den Schulsozialarbeiterinnen und Schulsozialarbeitern und mit den Sozialarbeiterinnen und Sozialarbeitern der Gemeinden.
 
 #### § 7b
 
@@ -157,12 +157,12 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die Schulleitung hat insbesondere folgende Aufgaben:
 
-- a. Sie arbeitet mit dem Amt bei der Anstellung der Schulsozialarbeiter und Schulsozialarbeiterinnen zusammen;
-- b. sie arbeitet mit dem Amt bei der Planung der Arbeitsschwerpunkte und der Arbeitsorganisation zusammen;
-- c. sie bindet die Schulsozialarbeiter und Schulsozialarbeiterinnen in alle relevanten Prozesse der Schule ein und lässt ihnen alle relevanten Schulinformationen zukommen;
-- d. sie bildet die Ziele und Aufgaben der Schulsozialarbeit sowie die Kooperation zwischen Schule und Schulsozialarbeit im Schulprogramm ab;
-- e. sie gewährleistet die Kooperation zwischen Schule und Schulsozialarbeit am Schulstandort;
-- f. sie stellt den Schulsozialarbeiterinnen und Schulsozialarbeitern die notwendigen Räumlichkeiten samt Infrastruktur zur Verfügung.
+- a. Sie arbeitet mit dem Amt bei der Anstellung der Schulsozialarbeiter und Schulsozialarbeiterinnen zusammen.
+- b. Sie arbeitet mit dem Amt bei der Planung der Arbeitsschwerpunkte und der Arbeitsorganisation zusammen.
+- c. Sie bindet die Schulsozialarbeiter und Schulsozialarbeiterinnen in alle relevanten Prozesse der Schule ein und lässt ihnen alle relevanten Schulinformationen zukommen.
+- d. Sie bildet die Ziele und Aufgaben der Schulsozialarbeit sowie die Kooperation zwischen Schule und Schulsozialarbeit im Schulprogramm ab.
+- e. Sie gewährleistet die Kooperation zwischen Schule und Schulsozialarbeit am Schulstandort.
+- f. Sie stellt den Schulsozialarbeiterinnen und Schulsozialarbeitern die notwendigen Räumlichkeiten samt Infrastruktur zur Verfügung.
 
 ## 4 Übergangs- und Schlussbestimmungen
 
@@ -176,7 +176,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 #### § 9
 
-**In-Kraft-Treten**
+**Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. April 2004 in Kraft.
 
