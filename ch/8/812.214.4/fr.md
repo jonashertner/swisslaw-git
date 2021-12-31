@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2018 concernant le système d'information sur l
 short: O-SI ABV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: fr
-version: 2019-10-01
+version: 2022-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20191001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20191001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20191001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20191001/fr"
 
 (O-SI ABV)
 
-du 31 octobre 2018 (Etat le 1<sup>er</sup> octobre 2019)
+du 31 octobre 2018 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -108,9 +108,10 @@ Les services et les personnes suivants peuvent consulter en ligne les données d
 - c. les vétérinaires; les données sur l’utilisation relatives à leur cabinet ou clinique vétérinaire;
 - d. les titulaires de l’AMM: les données sur la distribution qui les concernent.
 
-<sup>3</sup> Les détenteurs d’animaux de rente peuvent consulter en ligne les données visées à l’art. 2, al. 1, let. b, ch.1, relatives à leur utilisation d’antibiotiques via la banque de données sur le trafic des animaux (BDTA) au sens de l’ordonnance du 26 octobre 2011 sur la BDTA[^3-1]. S’ils n’ont pas un accès en ligne à la BDTA, ils peuvent demander obtenir les données à l’OSAV.
+<sup>3</sup> Les détenteurs d’animaux de rente peuvent consulter en ligne les données visées à l’art. 2, al. 1, let. b, ch.1, relatives à leur utilisation d’antibiotiques via la banque de données sur le trafic des animaux (BDTA) au sens de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^3-1]. S’ils n’ont pas un accès en ligne à la BDTA, ils peuvent demander obtenir les données à l’OSAV.[^3-2]
 
 [^3-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^3-2]: Nouvelle teneur selon l’annexe 3 ch. II 4 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
 
@@ -249,7 +250,7 @@ L’OSAV veille au respect des dispositions sur la protection des données. Il f
 
 Les mesures pour garantir la sécurité informatique sont définies dans les directives édictées par le Conseil fédéral sur la base de l’art. 14, let. e, de l’ordonnance du 9 décembre 2011 sur l’informatique de l’administration fédérale[^15-1].
 
-[^15-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^15-1]: [[RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)ch. III 2; 2**016** 1783, 3445; [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)annexe 3 ch. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)annexe ch. 1. [RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)art. 35 al. 1]. Voir actuellement l’O du 25 nov. 2020 sur la transformation numérique et l’informatique ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
 
 #### Art. 16
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2018 concernente il sistema d'informazione sugl
 short: O-SIAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: it
-version: 2019-10-01
+version: 2022-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20191001/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20191001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20191001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20191001/it"
 
 (O-SIAMV)
 
-del 31 ottobre 2018 (Stato 1° ottobre 2019)
+del 31 ottobre 2018 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -108,9 +108,10 @@ Nell’ambito dei loro compiti legali, le seguenti autorità e persone possono c
 - c. i veterinari: dati sull’uso che concernono il loro studio veterinario o la loro clinica veterinaria;
 - d. i titolari delle omologazioni: dati sullo smercio che li concernono.
 
-<sup>3</sup> I detentori di animali da reddito possono accedere online ai dati sull’uso di cui all’articolo 2 capoverso 1 lettera b numero 1 che li concernono tramite la banca dati sul traffico di animali (BDTA) di cui all’ordinanza BDTA del 26 ottobre 2011[^3-1]. I detentori di animali da reddito senza accesso alla BDTA possono ottenere i dati dall’USAV.
+<sup>3</sup> I detentori di animali da reddito possono accedere online ai dati sull’uso di cui all’articolo 2 capoverso 1 lettera b numero 1 che li concernono tramite la banca dati sul traffico di animali (BDTA) ai sensi dell’ordinanza del 3 novembre 2021[^3-1] concernente Identitas AG e la banca dati sul traffico di animali. I detentori di animali da reddito senza accesso alla BDTA possono ottenere i dati dall’USAV.[^3-2]
 
 [^3-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^3-2]: Nuovo testo giusta l’all. 3 n. II 4 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
 
@@ -249,7 +250,7 @@ L’USAV provvede affinché siano rispettate le disposizioni in materia di prote
 
 Le misure atte a garantire la sicurezza informatica sono rette dalle direttive emanate dal Consiglio federale in virtù dell’articolo 14 lettera e dell’ordinanza del 9 dicembre 2011[^15-1] sull’informatica nell’Amministrazione federale.
 
-[^15-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^15-1]: [[RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)n. III 2; [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 n. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)all. n. 1. [RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)art. 35 cpv. 1]. Vedi ora l’O del 25 nov. 2020 sulla trasformazione digitale e l'informatica ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988))
 
 #### Art. 16
 

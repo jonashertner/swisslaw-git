@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über das Informationssystem Antibiotika 
 short: ISABV-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: de
-version: 2019-10-01
+version: 2022-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20191001/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20191001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20191001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20191001/de"
 
 (ISABV-V)
 
-vom 31. Oktober 2018 (Stand am 1. Oktober 2019)
+vom 31. Oktober 2018 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -108,9 +108,10 @@ Im Rahmen ihrer gesetzlichen Aufgaben können folgende Stellen und Personen Date
 - c. die Tierärztinnen und Tierärzte: Verbrauchsdaten, die ihre Tierarztpraxis oder -klinik betreffen;
 - d. die Zulassungsinhaberinnen: Vertriebsdaten, die sie selbst betreffen.
 
-<sup>3</sup> Die Nutztierhalterinnen und Nutztierhalter können die Verbrauchsdaten nach Artikel 2 Absatz 1 Buchstabe b Ziffer 1, die sie selbst betreffen, online über die Tierverkehrsdatenbank (TVD) nach der TVD-Verordnung vom 26. Oktober 2011[^3-1] abrufen. Nutztierhalterinnen und Nutztierhalter ohne Zugang zur TVD können die Daten vom BLV beziehen.
+<sup>3</sup> Die Nutztierhalterinnen und Nutztierhalter können die Verbrauchsdaten nach Artikel 2 Absatz 1 Buchstabe b Ziffer 1, die sie selbst betreffen, online über die Tierverkehrsdatenbank (TVD) nach der der Verordnung vom 3. November 2021[^3-1] über die Identitas AG und die Tierverkehrsdatenbank abrufen. Nutztierhalterinnen und Nutztierhalter ohne Zugang zur TVD können die Daten vom BLV beziehen.[^3-2]
 
 [^3-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^3-2]: Fassung gemäss Anhang 3 Ziff. II 4 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
 
@@ -249,7 +250,7 @@ Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. 
 
 Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach den vom Bundesrat gestützt auf Artikel 14 Buchstabe e der Bundesinformatikverordnung vom 9. Dezember 2011[^15-1] erlassenen Weisungen.
 
-[^15-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^15-1]: [[AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844); [2015 4873](https://fedlex.data.admin.ch/eli/oc/2015/796)Ziff. III 2; [2016 1783](https://fedlex.data.admin.ch/eli/oc/2016/319), [3445](https://fedlex.data.admin.ch/eli/oc/2016/581); [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Anhang 3 Ziff. II 1; [2020 2107](https://fedlex.data.admin.ch/eli/oc/2020/416)Anhang Ziff. 1]. Siehe heute: die V vom 25. Nov. 2020 über die Koordination der digitalen Transformation und die IKT-Lenkung in der Bundesverwaltung ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
 
 #### Art. 16
 
