@@ -4,13 +4,12 @@ number: "340.1"
 title: "Loi sur l'exécution des peines et des mesures"
 short: LEPM
 language: fr
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-10-07
+version: 2022-01-01
+version_adopted: 2020-06-24
 adopted: 2016-10-07
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/340.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6250/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7139/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Exécution des peines et mesures – L
 
 (LEPM)
 
-du 07.10.2016 (version entrée en vigueur le 01.01.2018)
+du 07.10.2016 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -113,7 +112,7 @@ Décrète:
 
 <sup>6</sup> Elle accomplit toutes les tâches qui lui sont réservées par la loi et exerce toutes les compétences qui ne sont pas attribuées à une autre autorité ou unité administrative.
 
-[^6-1]: Actuellement: Direction de la sécurité et de la justice.
+[^6-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 
 #### Art. 7
 
@@ -127,7 +126,7 @@ Décrète:
 
 <sup>4</sup> Il assure le suivi des personnes faisant l'objet d'une mesure de substitution.
 
-<sup>5</sup> Il renseigne les autorités judiciaires ou administratives sur des faits qui, survenant au cours de l'exécution d'une peine ou d'une mesure, sont de nature à entraîner une décision de leur part.
+<sup>5</sup> Il renseigne les autorités judiciaires ou administratives sur des faits qui, survenant au cours de l'exécution d'une peine ou d'une mesure ou d'une surveillance électronique conformément à l'article 28c du code civil (CC), sont de nature à entraîner une décision ou une intervention de leur part.
 
 <sup>6</sup> Les collaborateurs et collaboratrices du Service prêtent serment ou font la promesse solennelle devant le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice en charge de l'application et de l'exécution des sanctions pénales.
 
@@ -696,9 +695,11 @@ Décrète:
 
 #### Art. 60
 
-**Transmission des jugements et des dossiers pénaux**
+**Transmission des jugements et des dossiers**
 
 <sup>1</sup> Les jugements et les décisions relatives à l'application des sanctions pénales sont transmis au Service conformément à l'article 160 LJ.
+
+<sup>2</sup> Les jugements et les décisions relatives à la mise en place d'une surveillance électronique, conformément à l'article 28c CC, sont transmis au Service.
 
 #### Art. 61
 

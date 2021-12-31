@@ -4,13 +4,12 @@ number: "340.1"
 title: Gesetz über den Straf- und Massnahmenvollzug
 short: SMVG
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-10-07
+version: 2022-01-01
+version_adopted: 2020-06-24
 adopted: 2016-10-07
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/340.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6250/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7139/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Straf- und Massnahmenvollzug – G
 
 (SMVG)
 
-vom 07.10.2016 (Fassung in Kraft getreten am 01.01.2018)
+vom 07.10.2016 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -113,7 +112,7 @@ beschliesst:
 
 <sup>6</sup> Sie erfüllt alle Aufgaben, die ihr das Gesetz überträgt, und übt alle Zuständigkeiten aus, die nicht einer anderen Behörde oder Verwaltungseinheit übertragen werden.
 
-[^6-1]: Heute: Sicherheits- und Justizdirektion.
+[^6-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 
 #### Art. 7
 
@@ -127,7 +126,7 @@ beschliesst:
 
 <sup>4</sup> Es gewährleistet die Begleitung der Personen, für die eine Ersatzmassnahme angeordnet wurde.
 
-<sup>5</sup> Es informiert die Gerichts- und Verwaltungsbehörden über Vorfälle, die sich während des Vollzugs einer Strafe oder Massnahme ereignen und die von ihnen einen Entscheid erfordern.
+<sup>5</sup> Es informiert die Gerichts- und Verwaltungsbehörden über Vorfälle, die sich während des Vollzugs einer Strafe oder Massnahme oder einer elektronischen Überwachung gemäss Artikel 28c des Zivilgesetzbuches (ZGB) ereignen und die von ihnen einen Entscheid oder eine Intervention erfordern.
 
 <sup>6</sup> Die Mitarbeiterinnen und Mitarbeiter des Amtes leisten vor der Vorsteherin oder dem Vorsteher der Direktion, die für die Vollstreckung und den Vollzug der strafrechtlichen Sanktionen zuständig ist, den Eid oder das feierliche Versprechen.
 
@@ -696,9 +695,11 @@ beschliesst:
 
 #### Art. 60
 
-**Übermittlung der strafrechtlichen Urteile und Akten**
+**Übermittlung der Urteile und Akten**
 
 <sup>1</sup> Die Urteile und Entscheide über den Vollzug von strafrechtlichen Sanktionen werden gemäss Artikel 160 JG an das Amt übermittelt.
+
+<sup>2</sup> Die Urteile und Entscheide über die Einrichtung einer elektronischen Überwachung gemäss Artikel 28c ZGB werden an das Amt übermittelt.
 
 #### Art. 61
 
