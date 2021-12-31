@@ -3,31 +3,31 @@ sr: "916.112.231"
 title: "Ordinanza del DEFR del 7 dicembre 1998 concernente le agevolazioni doganali, i valori di resa e le ricette standard"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3234_3234_3234"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3234_3234_3234/20130101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3234_3234_3234-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3234_3234_3234/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3234_3234_3234/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3234_3234_3234-20220101-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3234_3234_3234/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza del DEFR concernente le agevolazioni doganali, i valori di resa e le ricette standard****
+# Ordinanza del DEFR concernente le agevolazioni doganali, i valori di resa e le ricette standard
 
-del 7 dicembre 1998 (Stato 1° gennaio 2013)[^t-1]
+del 7 dicembre 1998 (Stato 1° gennaio 2022)[^t-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 25 giu. 2008, in vigore dal 1° lug. 2009 ([RU 2008 3827](https://fedlex.data.admin.ch/eli/oc/2008/516)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2008, in vigore dal 1° lug. 2009 ([RU 2008 3827](https://fedlex.data.admin.ch/eli/oc/2008/516)).
 
-Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)*[^ingress-1]*,
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
 visto l’articolo 20 capoverso 6 della legge del 29 aprile 1998[^ingress-2] sull’agricoltura; visti gli articoli 6 capoverso 5 e 28 capoversi 3 e 4 dell’ordinanza del 26 ottobre 2011[^ingress-3] sulle importazioni agricole,[^ingress-4]
 
 ordina:
 
 [^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-3]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del DEFR del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6497](https://fedlex.data.admin.ch/eli/oc/2011/900)).
+[^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-3]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6497](https://fedlex.data.admin.ch/eli/oc/2011/900)).
 
 #### Art. 1
 
@@ -35,7 +35,7 @@ ordina:
 
 Per i semi oleosi menzionati nell’allegato 1, utilizzati per la fabbricazione di alimenti per l’alimentazione umana, di alimenti per animali o di altri oli, l’aliquota di dazio è inferiore di 13 franchi per 100 kg all’aliquota normale per la parte determinante dei panelli e dei grumi oleosi.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DEFR del 22 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2857](https://fedlex.data.admin.ch/eli/oc/2010/376)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 22 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2857](https://fedlex.data.admin.ch/eli/oc/2010/376)).
 
 #### Art. 2
 
@@ -45,7 +45,7 @@ Per i semi oleosi menzionati nell’allegato 1, utilizzati per la fabbricazione 
 
 <sup>2</sup> I valori di resa dei prodotti trasformati e dei cereali destinati all’alimentazione umana sono disciplinati nell’allegato 2.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DEFR del 25 giu. 2008, in vigore dal 1° lug. 2009 ([RU 2008 3827](https://fedlex.data.admin.ch/eli/oc/2008/516)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2008, in vigore dal 1° lug. 2009 ([RU 2008 3827](https://fedlex.data.admin.ch/eli/oc/2008/516)).
 
 #### Art. 2a
 
@@ -55,8 +55,8 @@ Per i semi oleosi menzionati nell’allegato 1, utilizzati per la fabbricazione 
 
 <sup>2</sup> Per le merci della voce di tariffa 2309.9081 l’aliquota di dazio è proporzionalmente calcolata in funzione della ricetta standard degli alimenti preparati per animali menzionata nell’allegato 3.
 
-[^2a-1]: Introdotto dal n. I dell’O del DEFR del 9 giu. 2006 ([RU 2006 2523](https://fedlex.data.admin.ch/eli/oc/2006/390)). Nuovo testo giusta il n. I dell’O del DEFR del 25 giu. 2008, in vigore dal 1° lug. 2009 ([RU 2008 3827](https://fedlex.data.admin.ch/eli/oc/2008/516)). Vedi anche la disp. trans. della mod. del 25 giu. 2008 alla fine del presente testo.
-[^2a-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871),all.
+[^2a-1]: Introdotto dalla cifra I dell’O del DEFR del 9 giu. 2006 ([RU 2006 2523](https://fedlex.data.admin.ch/eli/oc/2006/390)). Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2008, in vigore dal 1° lug. 2009 ([RU 2008 3827](https://fedlex.data.admin.ch/eli/oc/2008/516)). Vedi anche la disp. trans. della mod. del 25 giu. 2008 alla fine del presente testo.
+[^2a-2]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921),all.
 
 #### Art. 3
 
@@ -64,9 +64,10 @@ Per i semi oleosi menzionati nell’allegato 1, utilizzati per la fabbricazione 
 
 <sup>1</sup> Se, nella media di un anno civile, in un’impresa di trasformazione la quantità delle merci menzionate nell’allegato 2 non utilizzate per l’alimentazione degli animali risulta essere inferiore ai valori di resa, essa è tenuta al pagamento posticipato del dazio sulla differenza rispetto alla resa minima secondo l’aliquota di dazio applicabile nel momento in cui sorge l’obbligazione doganale. Se tale momento non può essere determinato, si preleva l’aliquota di dazio media applicabile nel corso del relativo anno civile.[^3-1]
 
-<sup>2</sup> L’Amministrazione federale delle dogane decide in merito al pagamento suppletivo sulla base delle notifiche delle imprese di trasformazione o dei controlli da essa ordinati in tali imprese.
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^3-2] decide in merito al pagamento suppletivo sulla base delle notifiche delle imprese di trasformazione o dei controlli da esso ordinati in tali imprese.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DEFR del 18 dic. 2002, in vigore dal 1° gen. 2003 ([RU 2003 131](https://fedlex.data.admin.ch/eli/oc/2003/11)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 18 dic. 2002, in vigore dal 1° gen. 2003 ([RU 2003 131](https://fedlex.data.admin.ch/eli/oc/2003/11)).
+[^3-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -78,7 +79,7 @@ Se dalla trasformazione risulta un minor valore, l’obbligo di pagamento supple
 
 **Esecuzione**
 
-L’Amministrazione federale delle dogane esegue la presente ordinanza.
+L’UDSC esegue la presente ordinanza.
 
 #### Art. 6
 
@@ -86,7 +87,7 @@ L’Amministrazione federale delle dogane esegue la presente ordinanza.
 
 La presente ordinanza entra in vigore il 1° gennaio 1999.
 
-## Disposizione transitoria relativa alla modifica del 25 giugno 2008****
+## Disposizione transitoria relativa alla modifica del 25 giugno 2008
 
 [^u1-1]
 
@@ -94,366 +95,366 @@ La presente ordinanza entra in vigore il 1° gennaio 1999.
 
 Le aliquote di dazio calcolate secondo l’articolo 2*a* sono aumentate di 1 franco il quintale dal 1° luglio 2009 fino al 30 giugno 2011.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 2)
 
 ## Valori di resa dei prodotti agricoli oleosi
 
-[^t-2]: Aggiornato dal n. I delle O del DEFR del 2 mag. 2005 ([RU 2005 2153](https://fedlex.data.admin.ch/eli/oc/2005/351)), del 18 nov. 2009 ([RU 2009 6359](https://fedlex.data.admin.ch/eli/oc/2009/774)) e dal n. II del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6497](https://fedlex.data.admin.ch/eli/oc/2011/900)).
+[^t-2]: Aggiornato dalla cifra I delle O del DEFR del 2 mag. 2005 ([RU 2005 2153](https://fedlex.data.admin.ch/eli/oc/2005/351)), del 18 nov. 2009 ([RU 2009 6359](https://fedlex.data.admin.ch/eli/oc/2009/774)) e dalla cifra II del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6497](https://fedlex.data.admin.ch/eli/oc/2011/900)).
 
 <table>
-<tr><th colspan="2">Voce di tariffa</th><th colspan="2">Designazione della merce</th><th colspan="4">Onere all’importazione Resa per 100 kg di merce grezza in per cento</th></tr>
-<tr><th colspan="2"></th><th colspan="2"></th><th colspan="2">Oli/grassi Base: raffinati</th><th colspan="2">Panelli e grumi oleosi/estrazione</th></tr>
-<tr><td colspan="2">0802.</td><td colspan="2">Altre frutta a guscio, fresche o secche, anche sgusciate o decorticate:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">nocciole:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">con guscio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2120</td><td colspan="2">per la fabbricazione di oli</td><td colspan="2"></td><td colspan="2">87,5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">sgusciate:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2220</td><td colspan="2">per la fabbricazione di oli</td><td colspan="2"></td><td colspan="2">87,5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">noci comuni: con guscio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3120</td><td colspan="2">per la fabbricazione di oli</td><td colspan="2"></td><td colspan="2">62,5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">sgusciate:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3220</td><td colspan="2">per la fabbricazione di oli</td><td colspan="2"></td><td colspan="2">62,5</td></tr>
-<tr><td colspan="3">1201.</td><td colspan="2">Fave di soia, anche frantumate:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">9021</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">82</td></tr>
-<tr><td colspan="3"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">9023</td><td colspan="2">tramite estrazione</td><td colspan="2">17</td><td colspan="2">78</td></tr>
-<tr><td colspan="3">9024</td><td colspan="2">tramite pressatura</td><td colspan="2">13</td><td colspan="2">82</td></tr>
-<tr><td colspan="3"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">9026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">78</td></tr>
-<tr><td colspan="3">9027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">82</td></tr>
-<tr><td colspan="3">1202.</td><td colspan="2">Arachidi non tostate né altrimenti cotte, anche sgusciate o frantumate:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3"></td><td colspan="2">con guscio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">4121</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">55</td></tr>
-<tr><td colspan="3"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">4123</td><td colspan="2">tramite estrazione</td><td colspan="2">35</td><td colspan="2">50</td></tr>
-<tr><td colspan="3">4124</td><td colspan="2">tramite pressatura</td><td colspan="2">30</td><td colspan="2">55</td></tr>
-<tr><td colspan="3"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">4126</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">50</td></tr>
-<tr><td colspan="3">4127</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">55</td></tr>
-<tr><td colspan="3"></td><td colspan="2">sgusciate o frantumate:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">4221</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">55.5</td></tr>
-<tr><td colspan="3"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">4223</td><td colspan="2">tramite estrazione</td><td colspan="2">43</td><td colspan="2">52</td></tr>
-<tr><td colspan="3">4224</td><td colspan="2">tramite pressatura</td><td colspan="2">39.5</td><td colspan="2">55.5</td></tr>
-<tr><td colspan="3"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="3">4226</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">52</td></tr>
-<tr><td colspan="3">4227</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">55.5</td></tr>
-<tr><td colspan="2">1203.</td><td colspan="2">Copra:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">41</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0023</td><td colspan="2">tramite estrazione</td><td colspan="2">58</td><td colspan="2">37</td></tr>
-<tr><td colspan="2">0024</td><td colspan="2">tramite pressatura</td><td colspan="2">54</td><td colspan="2">41</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altro</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">37</td></tr>
-<tr><td colspan="2">0027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">41</td></tr>
-<tr><td colspan="2">1204.</td><td colspan="2">Semi di lino, anche frantumati:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">65</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0023</td><td colspan="2">tramite estrazione</td><td colspan="2">35</td><td colspan="2">60</td></tr>
-<tr><td colspan="2">0024</td><td colspan="2">tramite pressatura</td><td colspan="2">30</td><td colspan="2">65</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">60</td></tr>
-<tr><td colspan="2">0027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">65</td></tr>
-<tr><td colspan="2">1205.</td><td colspan="2">Semi di ravizzone o di colza, anche frantumati:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di ravizzone o di colza a basso tenore di acido erucico:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">semi di ravizzone:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">63</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1023</td><td colspan="2">tramite estrazione</td><td colspan="2">37</td><td colspan="2">58</td></tr>
-<tr><td colspan="2">1024</td><td colspan="2">tramite pressatura</td><td colspan="2">32</td><td colspan="2">63</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">58</td></tr>
-<tr><td colspan="2">1027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">63</td></tr>
-<tr><td colspan="2"></td><td colspan="2">semi di colza:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1051</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">58</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1053</td><td colspan="2">tramite estrazione</td><td colspan="2">42</td><td colspan="2">53</td></tr>
-<tr><td colspan="2">1054</td><td colspan="2">tramite pressatura</td><td colspan="2">37</td><td colspan="2">58</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1056</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">53</td></tr>
-<tr><td colspan="2">1057</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">58</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">semi di ravizzone:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">63</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9023</td><td colspan="2">tramite estrazione</td><td colspan="2">37</td><td colspan="2">58</td></tr>
-<tr><td colspan="2">9024</td><td colspan="2">tramite pressatura</td><td colspan="2">32</td><td colspan="2">63</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">58</td></tr>
-<tr><td colspan="2">9027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">63</td></tr>
-<tr><td colspan="2"></td><td colspan="2">semi di colza:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9051</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">58</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9053</td><td colspan="2">tramite estrazione</td><td colspan="2">42</td><td colspan="2">53</td></tr>
-<tr><td colspan="2">9054</td><td colspan="2">tramite pressatura</td><td colspan="2">37</td><td colspan="2">58</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9056</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">53</td></tr>
-<tr><td colspan="2">9057</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">58</td></tr>
-<tr><td colspan="2">1206.</td><td colspan="2">Semi di girasole, anche frantumati, non sgusciati:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">51</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0023</td><td colspan="2">tramite estrazione</td><td colspan="2">40</td><td colspan="2">45</td></tr>
-<tr><td colspan="2">0024</td><td colspan="2">tramite pressatura</td><td colspan="2">34</td><td colspan="2">51</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">45</td></tr>
-<tr><td colspan="2">0027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">51</td></tr>
-<tr><td colspan="2"></td><td colspan="2">sgusciati:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0041</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">55</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0053</td><td colspan="2">tramite estrazione</td><td colspan="2">45</td><td colspan="2">50</td></tr>
-<tr><td colspan="2">0054</td><td colspan="2">tramite pressatura</td><td colspan="2">50</td><td colspan="2">55</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">0056</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">50</td></tr>
-<tr><td colspan="2">0057</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">55</td></tr>
-<tr><td colspan="2">1207.</td><td colspan="2">Altri semi e frutti oleosi, anche frantumati:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">noci e mandorle di palmisti:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">58</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1023</td><td colspan="2">tramite estrazione</td><td colspan="2">42</td><td colspan="2">53</td></tr>
-<tr><td colspan="2">1024</td><td colspan="2">tramite pressatura</td><td colspan="2">37</td><td colspan="2">58</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">1026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">53</td></tr>
-<tr><td colspan="2">1027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">58</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di cotone:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2921</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">80</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2923</td><td colspan="2">tramite estrazione</td><td colspan="2">20</td><td colspan="2">75</td></tr>
-<tr><td colspan="2">2924</td><td colspan="2">tramite pressatura</td><td colspan="2">15</td><td colspan="2">80</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2926</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">75</td></tr>
-<tr><td colspan="2">2927</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">80</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di ricino:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">55</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3023</td><td colspan="2">tramite estrazione</td><td colspan="2">45</td><td colspan="2">50</td></tr>
-<tr><td colspan="2">3024</td><td colspan="2">tramite pressatura</td><td colspan="2">50</td><td colspan="2">55</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">50</td></tr>
-<tr><td colspan="2">3027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">55</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di sesamo:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">4021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">50</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">4023</td><td colspan="2">tramite estrazione</td><td colspan="2">50</td><td colspan="2">45</td></tr>
-<tr><td colspan="2">4024</td><td colspan="2">tramite pressatura</td><td colspan="2">45</td><td colspan="2">50</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">4026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">45</td></tr>
-<tr><td colspan="2">4027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">50</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di senape:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">80</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5023</td><td colspan="2">tramite estrazione</td><td colspan="2">20</td><td colspan="2">75</td></tr>
-<tr><td colspan="2">5024</td><td colspan="2">tramite pressatura</td><td colspan="2">15</td><td colspan="2">80</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">5026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">75</td></tr>
-<tr><td colspan="2">5027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">80</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di cartamo:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">75</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6023</td><td colspan="2">tramite estrazione</td><td colspan="2">25</td><td colspan="2">70</td></tr>
-<tr><td colspan="2">6024</td><td colspan="2">tramite pressatura</td><td colspan="2">20</td><td colspan="2">75</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">6026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">70</td></tr>
-<tr><td colspan="2">6027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">75</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di melone:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">7021</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">65</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">7023</td><td colspan="2">tramite estrazione</td><td colspan="2">50</td><td colspan="2">45</td></tr>
-<tr><td colspan="2">7024</td><td colspan="2">tramite pressatura</td><td colspan="2">45</td><td colspan="2">50</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">7026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">45</td></tr>
-<tr><td colspan="2">7027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">50</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di papavero:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9113</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">60</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9114</td><td colspan="2">tramite estrazione</td><td colspan="2">40</td><td colspan="2">55</td></tr>
-<tr><td colspan="2">9115</td><td colspan="2">tramite pressatura</td><td colspan="2">35</td><td colspan="2">60</td></tr>
-<tr><td colspan="2">9116</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">55</td></tr>
-<tr><td colspan="2">9117</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">60</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semi di karité:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9922</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">65</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9923</td><td colspan="2">tramite estrazione</td><td colspan="2">35</td><td colspan="2">60</td></tr>
-<tr><td colspan="2">9924</td><td colspan="2">tramite pressatura</td><td colspan="2">30</td><td colspan="2">65</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9925</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">60</td></tr>
-<tr><td colspan="2">9926</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">65</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9983</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">65</td></tr>
-<tr><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">984</td><td colspan="2">tramite estrazione</td><td colspan="2">50</td><td colspan="2">45</td></tr>
-<tr><td colspan="2">9985</td><td colspan="2">tramite pressatura</td><td colspan="2">45</td><td colspan="2">50</td></tr>
-<tr><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9986</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">45</td></tr>
-<tr><td colspan="2">9987</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">50</td></tr>
+<tr><th colspan="4">Voce di tariffa</th><th colspan="2">Designazione della merce</th><th colspan="4">Onere all’importazione Resa per 100 kg di merce grezza in per cento</th></tr>
+<tr><th colspan="4"></th><th colspan="2"></th><th colspan="2">Oli/grassi Base: raffinati</th><th colspan="2">Panelli e grumi oleosi/estrazione</th></tr>
+<tr><td colspan="2">0802.</td><td colspan="2"></td><td colspan="2">Altre frutta a guscio, fresche o secche, anche sgusciate o decorticate:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">nocciole:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">con guscio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2120</td><td colspan="2">per la fabbricazione di oli</td><td colspan="2"></td><td colspan="2">87,5</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">sgusciate:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2220</td><td colspan="2">per la fabbricazione di oli</td><td colspan="2"></td><td colspan="2">87,5</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">noci comuni: con guscio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">3120</td><td colspan="2">per la fabbricazione di oli</td><td colspan="2"></td><td colspan="2">62,5</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">sgusciate:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">3220</td><td colspan="2">per la fabbricazione di oli</td><td colspan="2"></td><td colspan="2">62,5</td></tr>
+<tr><td colspan="2">1201.</td><td colspan="2"></td><td colspan="2">Fave di soia, anche frantumate:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9021</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">82</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9023</td><td colspan="2">tramite estrazione</td><td colspan="2">17</td><td colspan="2">78</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9024</td><td colspan="2">tramite pressatura</td><td colspan="2">13</td><td colspan="2">82</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">78</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">82</td></tr>
+<tr><td colspan="2">1202.</td><td colspan="2"></td><td colspan="2">Arachidi non tostate né altrimenti cotte, anche sgusciate o frantumate:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">con guscio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4121</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4123</td><td colspan="2">tramite estrazione</td><td colspan="2">35</td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2">4124</td><td colspan="2">tramite pressatura</td><td colspan="2">30</td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4126</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2">4127</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">sgusciate o frantumate:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4221</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">55,5</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4223</td><td colspan="2">tramite estrazione</td><td colspan="2">43</td><td colspan="2">52</td></tr>
+<tr><td colspan="2"></td><td colspan="2">4224</td><td colspan="2">tramite pressatura</td><td colspan="2">39.5</td><td colspan="2">55,5</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4226</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">52</td></tr>
+<tr><td colspan="2"></td><td colspan="2">4227</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">55,5</td></tr>
+<tr><td colspan="2">1203.</td><td colspan="2"></td><td colspan="2">Copra:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">41</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0023</td><td colspan="2">tramite estrazione</td><td colspan="2">58</td><td colspan="2">37</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0024</td><td colspan="2">tramite pressatura</td><td colspan="2">54</td><td colspan="2">41</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altro</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">37</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">41</td></tr>
+<tr><td colspan="2">1204.</td><td colspan="2"></td><td colspan="2">Semi di lino, anche frantumati:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">65</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0023</td><td colspan="2">tramite estrazione</td><td colspan="2">35</td><td colspan="2">60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0024</td><td colspan="2">tramite pressatura</td><td colspan="2">30</td><td colspan="2">65</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">65</td></tr>
+<tr><td colspan="2">1205.</td><td colspan="2"></td><td colspan="2">Semi di ravizzone o di colza, anche frantumati:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di ravizzone o di colza a basso tenore di acido erucico:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">semi di ravizzone:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">63</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1023</td><td colspan="2">tramite estrazione</td><td colspan="2">37</td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1024</td><td colspan="2">tramite pressatura</td><td colspan="2">32</td><td colspan="2">63</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">63</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">semi di colza:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1051</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1053</td><td colspan="2">tramite estrazione</td><td colspan="2">42</td><td colspan="2">53</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1054</td><td colspan="2">tramite pressatura</td><td colspan="2">37</td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1056</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">53</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1057</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">semi di ravizzone:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">63</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9023</td><td colspan="2">tramite estrazione</td><td colspan="2">37</td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9024</td><td colspan="2">tramite pressatura</td><td colspan="2">32</td><td colspan="2">63</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">63</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">semi di colza:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9051</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9053</td><td colspan="2">tramite estrazione</td><td colspan="2">42</td><td colspan="2">53</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9054</td><td colspan="2">tramite pressatura</td><td colspan="2">37</td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9056</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">53</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9057</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">58</td></tr>
+<tr><td colspan="2">1206.</td><td colspan="2"></td><td colspan="2">Semi di girasole, anche frantumati, non sgusciati:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">51</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0023</td><td colspan="2">tramite estrazione</td><td colspan="2">40</td><td colspan="2">45</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0024</td><td colspan="2">tramite pressatura</td><td colspan="2">34</td><td colspan="2">51</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">45</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">51</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">sgusciati:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0041</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0053</td><td colspan="2">tramite estrazione</td><td colspan="2">45</td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0054</td><td colspan="2">tramite pressatura</td><td colspan="2">50</td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">0056</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0057</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">55</td></tr>
+<tr><td colspan="2">1207.</td><td colspan="2"></td><td colspan="2">Altri semi e frutti oleosi, anche frantumati:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">noci e mandorle di palmisti:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1023</td><td colspan="2">tramite estrazione</td><td colspan="2">42</td><td colspan="2">53</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1024</td><td colspan="2">tramite pressatura</td><td colspan="2">37</td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">53</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">58</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di cotone:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2921</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">80</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2923</td><td colspan="2">tramite estrazione</td><td colspan="2">20</td><td colspan="2">75</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2924</td><td colspan="2">tramite pressatura</td><td colspan="2">15</td><td colspan="2">80</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2926</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">75</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2927</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">80</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di ricino:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">3021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">3023</td><td colspan="2">tramite estrazione</td><td colspan="2">45</td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3024</td><td colspan="2">tramite pressatura</td><td colspan="2">50</td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">3026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di sesamo:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4023</td><td colspan="2">tramite estrazione</td><td colspan="2">50</td><td colspan="2">45</td></tr>
+<tr><td colspan="2"></td><td colspan="2">4024</td><td colspan="2">tramite pressatura</td><td colspan="2">45</td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">45</td></tr>
+<tr><td colspan="2"></td><td colspan="2">4027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di senape:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">5021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">80</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">5023</td><td colspan="2">tramite estrazione</td><td colspan="2">20</td><td colspan="2">75</td></tr>
+<tr><td colspan="2"></td><td colspan="2">5024</td><td colspan="2">tramite pressatura</td><td colspan="2">15</td><td colspan="2">80</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">5026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">75</td></tr>
+<tr><td colspan="2"></td><td colspan="2">5027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">80</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di cartamo:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">6021</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">75</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">6023</td><td colspan="2">tramite estrazione</td><td colspan="2">25</td><td colspan="2">70</td></tr>
+<tr><td colspan="2"></td><td colspan="2">6024</td><td colspan="2">tramite pressatura</td><td colspan="2">20</td><td colspan="2">75</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">6026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">70</td></tr>
+<tr><td colspan="2"></td><td colspan="2">6027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">75</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di melone:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">7021</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">65</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">7023</td><td colspan="2">tramite estrazione</td><td colspan="2">50</td><td colspan="2">45</td></tr>
+<tr><td colspan="2"></td><td colspan="2">7024</td><td colspan="2">tramite pressatura</td><td colspan="2">45</td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">7026</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">45</td></tr>
+<tr><td colspan="2"></td><td colspan="2">7027</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di papavero:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9113</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">60</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9114</td><td colspan="2">tramite estrazione</td><td colspan="2">40</td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9115</td><td colspan="2">tramite pressatura</td><td colspan="2">35</td><td colspan="2">60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9116</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">55</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9117</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">60</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semi di karité:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9922</td><td colspan="2">per l’alimentazione di animali</td><td colspan="2"></td><td colspan="2">65</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9923</td><td colspan="2">tramite estrazione</td><td colspan="2">35</td><td colspan="2">60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9924</td><td colspan="2">tramite pressatura</td><td colspan="2">30</td><td colspan="2">65</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9925</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">60</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9926</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">65</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione dell’olio:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9983</td><td colspan="2">per l’alimentazione di animali:</td><td colspan="2"></td><td colspan="2">65</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">per la fabbricazione di oli commestibili:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9984</td><td colspan="2">tramite estrazione</td><td colspan="2">50</td><td colspan="2">45</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9985</td><td colspan="2">tramite pressatura</td><td colspan="2">45</td><td colspan="2">50</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">altri:</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9986</td><td colspan="2">tramite estrazione</td><td colspan="2"></td><td colspan="2">45</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9987</td><td colspan="2">tramite pressatura</td><td colspan="2"></td><td colspan="2">50</td></tr>
 </table>
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 ## 1 Valori di resa dei prodotti trasformati
 
-[^t-3]: Aggiornato dal n. II delle O del DEFR del 25 giu. 2008 ([RU 2008 3827](https://fedlex.data.admin.ch/eli/oc/2008/516)), del 26 ott. 2011 ([RU 2011 6497](https://fedlex.data.admin.ch/eli/oc/2011/900)) e dal I dell’O del DEFR del 14 giu.2012, in vigore dal 1° lug. 2012 ([RU 2012 3571](https://fedlex.data.admin.ch/eli/oc/2012/403)).
+[^t-3]: Aggiornato dalla cifra II delle O del DEFR del 25 giu. 2008 ([RU 2008 3827](https://fedlex.data.admin.ch/eli/oc/2008/516)), del 26 ott. 2011 ([RU 2011 6497](https://fedlex.data.admin.ch/eli/oc/2011/900)) e dal I dell’O del DEFR del 14 giu. 2012, in vigore dal 1° lug. 2012 ([RU 2012 3571](https://fedlex.data.admin.ch/eli/oc/2012/403)).
 
 <table>
-<tr><th colspan="2">Voce di tariffa</th><th>Designazione della merce</th><th>Onere all’importazione in % dell’ali-quota di dazio per l’alimentazione degli animali</th><th>Smercio minimo in kg per 100 kg della merce non utilizzata per l’alimentazione degli animali (valori di resa)</th><th colspan="2">Mancato raggiungimento gravato con l’aliquota della voce di tariffa</th></tr>
-<tr><td>0713.</td><td>Legumi da granella, interi, non lavorati:</td><td></td><td></td><td></td></tr>
-<tr><td>1012, 1019</td><td>per usi tecnici</td><td>10</td><td>75</td><td>0713.1011</td></tr>
-<tr><td>2012, 2019</td><td>per la fabbricazione di derrate alimentari</td><td>5</td><td>80</td><td>0713.2011</td></tr>
-<tr><td>3112, 3119</td><td></td><td></td><td></td><td>0713.3111</td></tr>
-<tr><td>3212, 3219</td><td></td><td></td><td></td><td>0713.3211</td></tr>
-<tr><td>3312, 3319</td><td></td><td></td><td></td><td>0713.3311</td></tr>
-<tr><td>3412, 3419</td><td></td><td></td><td></td><td>0713.3411</td></tr>
-<tr><td>3512, 3519</td><td></td><td></td><td></td><td>0713.3511</td></tr>
-<tr><td>3912, 3919</td><td></td><td></td><td></td><td>0713.3911</td></tr>
-<tr><td>4012, 4019</td><td></td><td></td><td></td><td>0713.4011</td></tr>
-<tr><td>5013, 5019</td><td></td><td></td><td></td><td>0713.5012</td></tr>
-<tr><td>6012, 6019</td><td></td><td></td><td></td><td>0713.6011</td></tr>
-<tr><td>9022, 9029</td><td></td><td></td><td></td><td>0713.9021</td></tr>
-<tr><td>1001.</td><td>Frumento (grano) e frumento segalato:</td><td></td><td></td><td></td></tr>
-<tr><td>1940, 9940</td><td>per usi tecnici</td><td>10</td><td>80</td><td>1001.1939, 9939</td></tr>
-<tr><td>1002.</td><td>Segale:</td><td></td><td></td><td></td></tr>
-<tr><td>9040</td><td>per usi tecnici</td><td>10</td><td>80</td><td>1002.9039</td></tr>
-<tr><td>1003.</td><td>Orzo:</td><td></td><td></td><td></td></tr>
-<tr><td>9020</td><td>malto poco germogliato o per la fabbricazione di malto</td><td>50</td><td>33</td><td>1104.2933</td></tr>
-<tr><td>9030</td><td>per la fabbricazione di succedanei del caffè</td><td>3</td><td>80</td><td>1003.9059</td></tr>
-<tr><td>9041</td><td>per l’alimentazione umana</td><td>23</td><td>62[^annex2-lvl1-1]</td><td>1003.9059</td></tr>
-<tr><td>9060</td><td>per usi tecnici</td><td>15</td><td>75</td><td>1003.9059</td></tr>
-<tr><td>1004.</td><td>Avena:</td><td></td><td></td><td></td></tr>
-<tr><td>9021</td><td>per l’alimentazione umana</td><td>18</td><td>50[^annex2-lvl1-2]</td><td>1004.9039</td></tr>
-<tr><td>9040</td><td>per usi tecnici</td><td>25</td><td>60</td><td>1004.9039</td></tr>
-<tr><td>1005.</td><td>Granoturco:</td><td></td><td></td><td></td></tr>
-<tr><td>9021</td><td>per l’alimentazione umana</td><td>25</td><td>55[^annex2-lvl1-3]</td><td>1005.9039</td></tr>
-<tr><td>9040</td><td>per usi tecnici</td><td>10</td><td>80</td><td>1005.9039</td></tr>
-<tr><td>1006.</td><td>Riso:</td><td></td><td></td><td></td></tr>
-<tr><td>1090</td><td>riso greggio (riso paddy o risone) per la trasformazione industriale in riso pronto per il consumo, per l’alimentazione umana</td><td></td><td>70</td><td>1006.1029</td></tr>
-<tr><td>2090</td><td>riso decorticato (riso cargo o riso bruno) per la trasformazione industriale in riso pronto per il consumo, per l’alimentazione umana</td><td></td><td>76</td><td>1006.2029</td></tr>
-<tr><td>1007.</td><td>Sorgo a grani:</td><td></td><td></td><td></td></tr>
-<tr><td>9029</td><td>per l’alimentazione umana</td><td>50</td><td>20</td><td>1007.9039</td></tr>
-<tr><td>9040</td><td>per usi tecnici</td><td>3</td><td>80</td><td>1007.9039</td></tr>
-<tr><td>1008.</td><td>Grano saraceno:</td><td></td><td></td><td></td></tr>
-<tr><td>1029</td><td>per l’alimentazione umana</td><td>50</td><td>20</td><td>1008.1039</td></tr>
-<tr><td>1040</td><td>per usi tecnici</td><td>3</td><td>80</td><td>1008.1039</td></tr>
-<tr><td></td><td>Miglio:</td><td></td><td></td><td></td></tr>
-<tr><td>2929</td><td>per l’alimentazione umana</td><td>50</td><td>20</td><td>1104.2923</td></tr>
-<tr><td>2940</td><td>per usi tecnici</td><td>3</td><td>80</td><td>1008.2939</td></tr>
-<tr><td></td><td>Scagliola:</td><td></td><td></td><td></td></tr>
-<tr><td>3020</td><td>per l’alimentazione umana</td><td>50</td><td>20</td><td>1008.3039</td></tr>
-<tr><td>3040</td><td>per usi tecnici</td><td>3</td><td>80</td><td>1008.3039</td></tr>
-<tr><td></td><td>Fonio *(Digitaria spp.)*:</td><td></td><td></td><td></td></tr>
-<tr><td>4029</td><td>per l’alimentazione umana</td><td>50</td><td>20</td><td>1008.4039</td></tr>
-<tr><td>4040</td><td>per usi tecnici</td><td>3</td><td>80</td><td>1008.4039</td></tr>
-<tr><td></td><td>Quinoa *(Chenopodium quin**o**a)*:</td><td></td><td></td><td></td></tr>
-<tr><td>5029</td><td>per l’alimentazione umana</td><td>50</td><td>20</td><td>1008.5039</td></tr>
-<tr><td>5040</td><td>per usi tecnici</td><td>3</td><td>80</td><td>1008.5039</td></tr>
-<tr><td></td><td>Triticale:</td><td></td><td></td><td></td></tr>
-<tr><td>6039</td><td>per l’alimentazione umana</td><td>50</td><td>20</td><td>1008.6049</td></tr>
-<tr><td>6050</td><td>per usi tecnici</td><td>10</td><td>80</td><td>1008.6049</td></tr>
-<tr><td></td><td>Altri cereali:</td><td></td><td></td><td></td></tr>
-<tr><td>9027</td><td>per l’alimentazione umana</td><td>50</td><td>20</td><td>1008.9037</td></tr>
-<tr><td>9040</td><td>per usi tecnici</td><td>3</td><td>80</td><td>1008.9037</td></tr>
-<tr><td>1104.</td><td>Cereali mondati, per l’alimentazione umana:</td><td></td><td></td><td></td></tr>
-<tr><td>2220</td><td>di avena:</td><td>60</td><td>28</td><td>1104.2230</td></tr>
-<tr><td>2922</td><td>di miglio:</td><td>50</td><td>36</td><td>1104.2923</td></tr>
-<tr><td>2932</td><td>di orzo:</td><td>60</td><td>28</td><td>1104.2933</td></tr>
-<tr><td>1107.</td><td>Malto, anche torrefatto:</td><td></td><td></td><td></td></tr>
-<tr><td>1012, 2012</td><td>per l’alimentazione umana</td><td>53</td><td>33</td><td>1107.1013, 2013</td></tr>
-<tr><td>1201.</td><td>Fave di soia, anche frantumate:</td><td></td><td></td><td></td></tr>
-<tr><td>9091</td><td>per la fabbricazione di derrate alimentari</td><td>10</td><td>75</td><td>1201.9010</td></tr>
-<tr><td>1209.</td><td>Semi, frutti e spore per usi tecnici:</td><td></td><td></td><td></td></tr>
-<tr><td>2912</td><td>di vecce e di lupino</td><td>10</td><td>80</td><td>1209.2911</td></tr>
-<tr><td>9912</td><td>semi di tamarindo</td><td>10</td><td>80</td><td>1209.9911</td></tr>
+<tr><th colspan="4">Voce di tariffa</th><th colspan="2">Designazione della merce</th><th colspan="2">Onere all’importazione in % dell’aliquota di dazio per l’alimentazione degli animali</th><th colspan="2">Smercio minimo in kg per 100 kg della merce non utilizzata per l’alimentazione degli animali (valori di resa)</th><th colspan="2">Mancato raggiungimento gravato con l’aliquota della voce di tariffa</th></tr>
+<tr><td colspan="2">0713.</td><td colspan="2"></td><td colspan="2">Legumi da granella, interi, non lavorati:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1012, 1019</td><td colspan="2">per usi tecnici</td><td colspan="2">10</td><td colspan="2">75</td><td colspan="2">0713.1011</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2012, 2019</td><td colspan="2">per la fabbricazione di derrate alimentari</td><td colspan="2">5</td><td colspan="2">80</td><td colspan="2">0713.2011</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3112, 3119</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.3111</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3212, 3219</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.3211</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3312, 3319</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.3311</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3412, 3419</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.3411</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3512, 3519</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.3511</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3912, 3919</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.3911</td></tr>
+<tr><td colspan="2"></td><td colspan="2">4012, 4019</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.4011</td></tr>
+<tr><td colspan="2"></td><td colspan="2">5013, 5019</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.5012</td></tr>
+<tr><td colspan="2"></td><td colspan="2">6012, 6019</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.6011</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9022, 9029</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">0713.9021</td></tr>
+<tr><td colspan="2">1001.</td><td colspan="2"></td><td colspan="2">Frumento (grano) e frumento segalato:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1940, 9940</td><td colspan="2">per usi tecnici</td><td colspan="2">10</td><td colspan="2">80</td><td colspan="2">1001.1939, 9939</td></tr>
+<tr><td colspan="2">1002.</td><td colspan="2"></td><td colspan="2">Segale:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9040</td><td colspan="2">per usi tecnici</td><td colspan="2">10</td><td colspan="2">80</td><td colspan="2">1002.9039</td></tr>
+<tr><td colspan="2">1003.</td><td colspan="2"></td><td colspan="2">Orzo:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9020</td><td colspan="2">malto poco germogliato o per la fabbricazione di malto</td><td colspan="2">50</td><td colspan="2">33</td><td colspan="2">1104.2933</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9030</td><td colspan="2">per la fabbricazione di succedanei del caffè</td><td colspan="2">3</td><td colspan="2">80</td><td colspan="2">1003.9059</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9041</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">23</td><td colspan="2">62[^annex2-lvl1-1]</td><td colspan="2">1003.9059</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9060</td><td colspan="2">per usi tecnici</td><td colspan="2">15</td><td colspan="2">75</td><td colspan="2">1003.9059</td></tr>
+<tr><td colspan="2">1004.</td><td colspan="2"></td><td colspan="2">Avena:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9021</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">18</td><td colspan="2">50[^annex2-lvl1-2]</td><td colspan="2">1004.9039</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9040</td><td colspan="2">per usi tecnici</td><td colspan="2">25</td><td colspan="2">60</td><td colspan="2">1004.9039</td></tr>
+<tr><td colspan="2">1005.</td><td colspan="2"></td><td colspan="2">Granoturco:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9021</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">25</td><td colspan="2">55[^annex2-lvl1-3]</td><td colspan="2">1005.9039</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9040</td><td colspan="2">per usi tecnici</td><td colspan="2">10</td><td colspan="2">80</td><td colspan="2">1005.9039</td></tr>
+<tr><td colspan="2">1006.</td><td colspan="2"></td><td colspan="2">Riso:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1090</td><td colspan="2">riso greggio (riso paddy o risone) per la trasformazione industriale in riso pronto per il consumo, per l’alimentazione umana</td><td colspan="2"></td><td colspan="2">70</td><td colspan="2">1006.1029</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2090</td><td colspan="2">riso decorticato (riso cargo o riso bruno) per la trasformazione industriale in riso pronto per il consumo, per l’alimentazione umana</td><td colspan="2"></td><td colspan="2">76</td><td colspan="2">1006.2029</td></tr>
+<tr><td colspan="2">1007.</td><td colspan="2"></td><td colspan="2">Sorgo a grani:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9029</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">1007.9039</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9040</td><td colspan="2">per usi tecnici</td><td colspan="2">3</td><td colspan="2">80</td><td colspan="2">1007.9039</td></tr>
+<tr><td colspan="2">1008.</td><td colspan="2"></td><td colspan="2">Grano saraceno:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1029</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">1008.1039</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1040</td><td colspan="2">per usi tecnici</td><td colspan="2">3</td><td colspan="2">80</td><td colspan="2">1008.1039</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Miglio:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2929</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">1104.2923</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2940</td><td colspan="2">per usi tecnici</td><td colspan="2">3</td><td colspan="2">80</td><td colspan="2">1008.2939</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Scagliola:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">3020</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">1008.3039</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3040</td><td colspan="2">per usi tecnici</td><td colspan="2">3</td><td colspan="2">80</td><td colspan="2">1008.3039</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Fonio (*Digitaria spp.*):</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">4029</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">1008.4039</td></tr>
+<tr><td colspan="2"></td><td colspan="2">4040</td><td colspan="2">per usi tecnici</td><td colspan="2">3</td><td colspan="2">80</td><td colspan="2">1008.4039</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Quinoa (*Chenopodium quinoa*):</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">5029</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">1008.5039</td></tr>
+<tr><td colspan="2"></td><td colspan="2">5040</td><td colspan="2">per usi tecnici</td><td colspan="2">3</td><td colspan="2">80</td><td colspan="2">1008.5039</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Triticale:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">6039</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">1008.6049</td></tr>
+<tr><td colspan="2"></td><td colspan="2">6050</td><td colspan="2">per usi tecnici</td><td colspan="2">10</td><td colspan="2">80</td><td colspan="2">1008.6049</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Altri cereali:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9027</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">50</td><td colspan="2">20</td><td colspan="2">1008.9037</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9040</td><td colspan="2">per usi tecnici</td><td colspan="2">3</td><td colspan="2">80</td><td colspan="2">1008.9037</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1104.</td><td colspan="2">Cereali mondati, per l’alimentazione umana:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2220</td><td colspan="2">di avena:</td><td colspan="2">60</td><td colspan="2">28</td><td colspan="2">1104.2230</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2922</td><td colspan="2">di miglio:</td><td colspan="2">50</td><td colspan="2">36</td><td colspan="2">1104.2923</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2932</td><td colspan="2">di orzo:</td><td colspan="2">60</td><td colspan="2">28</td><td colspan="2">1104.2933</td></tr>
+<tr><td colspan="2">1107.</td><td colspan="2"></td><td colspan="2">Malto, anche torrefatto:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1012, 2012</td><td colspan="2">per l’alimentazione umana</td><td colspan="2">53</td><td colspan="2">33</td><td colspan="2">1107.1013, 2013</td></tr>
+<tr><td colspan="2">1201.</td><td colspan="2"></td><td colspan="2">Fave di soia, anche frantumate:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">9091</td><td colspan="2">per la fabbricazione di derrate alimentari</td><td colspan="2">10</td><td colspan="2">75</td><td colspan="2">1201.9010</td></tr>
+<tr><td colspan="2">1209.</td><td colspan="2"></td><td colspan="2">Semi, frutti e spore per usi tecnici:</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2912</td><td colspan="2">di vecce e di lupino</td><td colspan="2">10</td><td colspan="2">80</td><td colspan="2">1209.2911</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9912</td><td colspan="2">semi di tamarindo</td><td colspan="2">10</td><td colspan="2">80</td><td colspan="2">1209.9911</td></tr>
 </table>
 
-[^annex2-lvl1-1]: In caso di uno smercio minimo inferiore al 15 per cento, per la quantità mancante giusta l’art. 32 cpv. 2 dell’O del 26 ott. 2011 sulle importazioni agricole ([RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)) va pagata posticipatamente l’aliquota di dazio fuori del contingente per l’orzo della voce di tariffa 1003.9049.
-[^annex2-lvl1-2]: In caso di uno smercio minimo inferiore al 15 per cento, per la quantità mancante giusta l’art. 32 cpv. 2 dell’O del 26 ott. 2011 sulle importazioni agricole ([RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)) va pagata posticipatamente l’aliquota di dazio fuori del contingente per l’avena della voce di tariffa 1004.9029.
-[^annex2-lvl1-3]: In caso di uno smercio minimo inferiore al 15 per cento, per la quantità mancante giusta l’art. 32 cpv. 2 dell’O del 26 ott. 2011 sulle importazioni agricole ([RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)) va pagata posticipatamente l’aliquota di dazio fuori del contingente per il granoturco della voce di tariffa 1005.9029.
+[^annex2-lvl1-1]: In caso di uno smercio minimo inferiore al 15 per cento, per la quantità mancante giusta l’art. 32 cpv. 2 dell’O del 26 ott. 2011 sulle importazioni agricole ([RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)) va pagata posticipatamente l’aliquota di dazio fuori del contingente per l’orzo della voce di tariffa 1003.9049.
+[^annex2-lvl1-2]: In caso di uno smercio minimo inferiore al 15 per cento, per la quantità mancante giusta l’art. 32 cpv. 2 dell’O del 26 ott. 2011 sulle importazioni agricole ([RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)) va pagata posticipatamente l’aliquota di dazio fuori del contingente per l’avena della voce di tariffa 1004.9029.
+[^annex2-lvl1-3]: In caso di uno smercio minimo inferiore al 15 per cento, per la quantità mancante giusta l’art. 32 cpv. 2 dell’O del 26 ott. 2011 sulle importazioni agricole ([RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)) va pagata posticipatamente l’aliquota di dazio fuori del contingente per il granoturco della voce di tariffa 1005.9029.
 
 ## 2 Valori di resa dei cereali per l’alimentazione umana
 
 <table>
-<tr><th colspan="2">Voce di tariffa</th><th colspan="2">Designazione della merce</th><th colspan="2">Onere all’importazione in per cento per 100 kg di merce grezza</th></tr>
-<tr><td colspan="2"></td><td colspan="2">Farina:</td><td colspan="2"></td></tr>
-<tr><td colspan="2">1101. 0043</td><td colspan="2">di spelta</td><td colspan="2">52.5</td></tr>
-<tr><td colspan="2">0048</td><td colspan="2">di frumento (grano) o di frumento segalato</td><td colspan="2">75.0</td></tr>
-<tr><td>1102. 2010</td><td colspan="2">di granoturco</td><td colspan="3">70.0</td></tr>
-<tr><td>9011</td><td colspan="2">di triticale:</td><td colspan="3">75.0</td></tr>
-<tr><td>9044</td><td colspan="2">di segale</td><td colspan="3">75.0</td></tr>
-<tr><td>9051</td><td colspan="2">di riso</td><td colspan="3">76.0</td></tr>
-<tr><td>9061</td><td colspan="2">di altri cereali</td><td colspan="3">75.0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Semole e semolini:</td><td colspan="2"></td></tr>
-<tr><td colspan="2">1103. 1119</td><td colspan="2">di grano duro</td><td colspan="2">64.0</td></tr>
-<tr><td colspan="2">1199</td><td colspan="2">di altri tipi di frumento (grano)</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">1390</td><td colspan="2">di granoturco</td><td colspan="2">50.0</td></tr>
-<tr><td colspan="2">1919</td><td colspan="2">di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">1929</td><td colspan="2">di avena</td><td colspan="2">62.0</td></tr>
-<tr><td colspan="2">1939</td><td colspan="2">di riso</td><td colspan="2">70.0</td></tr>
-<tr><td colspan="2">1992</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">1999</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Agglomerati in forma di pellets:</td><td colspan="2"></td></tr>
-<tr><td colspan="2">2019</td><td colspan="2">di frumento (grano)</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2029</td><td colspan="2">di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2099</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Cereali schiacciati o in fiocchi:</td><td colspan="2"></td></tr>
-<tr><td colspan="2">1104. 1290</td><td colspan="2">di avena</td><td colspan="2">60.0</td></tr>
-<tr><td colspan="2">1919</td><td colspan="2">di frumento (grano), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">1929</td><td colspan="2">di orzo</td><td colspan="2">70.0</td></tr>
-<tr><td colspan="2">1992</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">1999</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Cereali altrimenti lavorati (p. es. mondati, perlati, tagliati o spezzati):</td><td colspan="2"></td></tr>
-<tr><td colspan="2">2220</td><td colspan="2">di avena</td><td colspan="2">65.0</td></tr>
-<tr><td colspan="2">2390</td><td colspan="2">di granoturco</td><td colspan="2">36.0</td></tr>
-<tr><td colspan="2">2913</td><td colspan="2">di spelta</td><td colspan="2">70.0</td></tr>
-<tr><td colspan="2">2918</td><td colspan="2">di frumento (grano), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2922</td><td colspan="2">di miglio</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2932</td><td colspan="2">di orzo</td><td colspan="2">70.0</td></tr>
-<tr><td colspan="2">2992</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2999</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">3089</td><td colspan="2">di germi di cereali, interi, schiacciati, in fiocchi o macinati</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Malto, anche torrefatto:</td><td colspan="2"></td></tr>
-<tr><td colspan="2">1107. 1012</td><td colspan="2">non torrefatto, non franto</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">non torrefatto:</td><td colspan="2"></td></tr>
-<tr><td colspan="2">1092</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">1093</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2012</td><td colspan="2">torrefatto, non franto</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2092</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2093</td><td colspan="2">torrefatto</td><td colspan="2">75.0</td></tr>
-<tr><td colspan="2">2099</td><td colspan="2">altro</td><td colspan="2">75.0</td></tr>
+<tr><th colspan="4">Voce di tariffa</th><th colspan="2">Designazione della merce</th><th colspan="2">Onere all’importazione in per cento per 100 kg di merce grezza</th></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Farina:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1101.</td><td colspan="2">0043</td><td colspan="2">di spelta</td><td colspan="2">52.5</td></tr>
+<tr><td colspan="2"></td><td colspan="2">0048</td><td colspan="2">di frumento (grano) o di frumento segalato</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2">1102.</td><td colspan="2">2010</td><td colspan="2">di granoturco</td><td colspan="2">70.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9011</td><td colspan="2">di triticale:</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9044</td><td colspan="2">di segale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9051</td><td colspan="2">di riso</td><td colspan="2">76.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">9061</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Semole e semolini:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1103.</td><td colspan="2">1119</td><td colspan="2">di grano duro</td><td colspan="2">64.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1199</td><td colspan="2">di altri tipi di frumento (grano)</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1390</td><td colspan="2">di granoturco</td><td colspan="2">50.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1919</td><td colspan="2">di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1929</td><td colspan="2">di avena</td><td colspan="2">62.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1939</td><td colspan="2">di riso</td><td colspan="2">70.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1992</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1999</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Agglomerati in forma di pellets:</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2019</td><td colspan="2">di frumento (grano)</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2029</td><td colspan="2">di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2099</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Cereali schiacciati o in fiocchi:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1104.</td><td colspan="2">1290</td><td colspan="2">di avena</td><td colspan="2">60.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1919</td><td colspan="2">di frumento (grano), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1929</td><td colspan="2">di orzo</td><td colspan="2">70.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1992</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1999</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Cereali altrimenti lavorati (p. es. mondati, perlati, tagliati o spezzati):</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">2220</td><td colspan="2">di avena</td><td colspan="2">65.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2390</td><td colspan="2">di granoturco</td><td colspan="2">36.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2913</td><td colspan="2">di spelta</td><td colspan="2">70.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2918</td><td colspan="2">di frumento (grano), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2922</td><td colspan="2">di miglio</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2932</td><td colspan="2">di orzo</td><td colspan="2">70.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2992</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2999</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">3089</td><td colspan="2">di germi di cereali, interi, schiacciati, in fiocchi o macinati</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">Malto, anche torrefatto:</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1107.</td><td colspan="2">1012</td><td colspan="2">non torrefatto, non franto</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">non torrefatto:</td><td colspan="2"></td></tr>
+<tr><td colspan="2"></td><td colspan="2">1092</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">1093</td><td colspan="2">di altri cereali</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2012</td><td colspan="2">torrefatto, non franto</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2092</td><td colspan="2">di frumento (grano, spelta compresa), di segale, di frumento segalato o di triticale</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2093</td><td colspan="2">torrefatto</td><td colspan="2">75.0</td></tr>
+<tr><td colspan="2"></td><td colspan="2">2099</td><td colspan="2">altro</td><td colspan="2">75.0</td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 2*a* cpv. 1 e 2)
 
 ## Ricetta standard degli alimenti preparati per animali delle voci di tariffa 2309.9011/9082/9089
 
-[^t-4]: Introdotto dal n. II dell’O del DEFR del 9 giu. 2006 ([RU 2006 2523](https://fedlex.data.admin.ch/eli/oc/2006/390), [2010 509](https://fedlex.data.admin.ch/eli/oc/2010/70)). Aggiornato dal n. I delle O del DEFR del 16 nov. 2009 ([RU 2009 5881](https://fedlex.data.admin.ch/eli/oc/2009/717)) e dal n. II del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6497](https://fedlex.data.admin.ch/eli/oc/2011/900)).
+[^t-4]: Introdotto dalla cifra II dell’O del DEFR del 9 giu. 2006 ([RU 2006 2523](https://fedlex.data.admin.ch/eli/oc/2006/390), [2010 509](https://fedlex.data.admin.ch/eli/oc/2010/70)). Aggiornato dalla cifra I delle O del DEFR del 16 nov. 2009 ([RU 2009 5881](https://fedlex.data.admin.ch/eli/oc/2009/717)) e dalla cifra II del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6497](https://fedlex.data.admin.ch/eli/oc/2011/900)).
 
 <table>
-<tr><td>Alimento per animali</td><td>Voce di tariffa</td><td>Aliquota in funzione della ricetta standard per l’aggravio daziario %</td></tr>
+<tr><th>Alimento per animali</th><th>Voce di tariffa</th><th>Aliquota in funzione della ricetta standard per l’aggravio daziario %</th></tr>
 <tr><td>Piselli proteici</td><td>0713.1011</td><td>2.00</td></tr>
 <tr><td>Frumento</td><td>1001.9939</td><td>24.00</td></tr>
 <tr><td>Orzo</td><td>1003.9059</td><td>21.00</td></tr>
@@ -475,7 +476,7 @@ Allegato 3*[^t-4]*
 ## Ricetta standard degli alimenti preparati per animali della voce di tariffa 2309.9081
 
 <table>
-<tr><td>Alimento per animali</td><td>Voce di tariffa</td><td>Aliquota in funzione della ricetta standard per l’aggravio daziario %</td></tr>
+<tr><th>Alimento per animali</th><th>Voce di tariffa</th><th>Aliquota in funzione della ricetta standard per l’aggravio daziario %</th></tr>
 <tr><td>Latte scremato in polvere</td><td>0402.1000</td><td>41.0</td></tr>
 <tr><td>Latticello in polvere</td><td>0403.9099</td><td>2.5</td></tr>
 <tr><td>Siero di latte in polvere</td><td>0404.1000</td><td>9.0</td></tr>
