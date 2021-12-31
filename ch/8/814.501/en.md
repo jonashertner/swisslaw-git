@@ -4,11 +4,11 @@ title: Radiological Protection Ordinance of 26 April 2017 (RPO)
 short: RPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/502"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-04-26
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2017-502-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2017-502-20220101-en-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RPO)
 
-of 26 April 2017 (Status as of 1 January 2021)
+of 26 April 2017 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -27,8 +27,8 @@ based on the Radiological Protection Act of 22 March 1991[^ingress-1] (RPA) and 
 
 ordains:
 
-[^ingress-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^ingress-1]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ## Title 1 General Provisions
 
@@ -42,24 +42,24 @@ ordains:
 
 For the protection of people and the environment against ionising radiation, this Ordinance regulates:
 
-- a.
+-
 
   for planned exposure situations:
 
-  - 1\. licences,
-  - 2\. public exposure,
-  - 3\. unjustified activities,
-  - 4\. medical exposure,
-  - 5\. occupational exposure,
-  - 6\. handling of radiation sources,
-  - 7\. handling of radioactive waste,
-  - 8\. prevention and management of failures;
+  - licences,
+  - public exposure,
+  - unjustified activities,
+  - medical exposure,
+  - occupational exposure,
+  - handling of radiation sources,
+  - handling of radioactive waste,
+  - prevention and management of failures;
 
-- b. for emergency exposure situations: preparedness and management;
-- c. for existing exposure situations: management of radiological legacies, radon, naturally occurring radioactive material and long‑term contamination following an emergency;
-- d. training and continuing education of persons handling ionising radiation or radioactivity;
-- e. supervision and enforcement;
-- f. advisory activities of the Federal Commission for Radiological Protection (KSR).
+- for emergency exposure situations: preparedness and management;
+- for existing exposure situations: management of radiological legacies, radon, naturally occurring radioactive material and long‑term contamination following an emergency;
+- training and continuing education of persons handling ionising radiation or radioactivity;
+- supervision and enforcement;
+- advisory activities of the Federal Commission for Radiological Protection (KSR).
 
 <sup>2</sup> It applies to all exposure situations for artificial and for natural ionising radiation.
 
@@ -79,8 +79,8 @@ It does not apply to:
 
 In this Ordinance:
 
-- a. *planned exposure situation* means an exposure situation which arises from the planned operation of a radiation source or from a human activity which alters exposure pathways, so as to cause the exposure or potential exposure of people or the environment;
-- b. *emergency exposure situation* means an exposure situation due to an emergency, as defined in Article 132;
+- *planned exposure situation* means an exposure situation which arises from the planned operation of a radiation source or from a human activity which alters exposure pathways, so as to cause the exposure or potential exposure of people or the environment;
+- *emergency exposure situation* means an exposure situation due to an emergency, as defined in Article 132;
 - c. *existing exposure situation* means an exposure situation that already exists when a decision on its control has to be taken and which does not call or no longer calls for urgent measures to be taken; this involves, in particular, radiological legacies, radon, naturally occurring radioactive material and long‑term contamination following an emergency;
 - d. *occupational exposure* means exposure due to occupational activities; occupational exposure may involve employees, self-employed persons, apprentices and students;
 - e. *medical exposure* means the exposure of patients or asymptomatic individuals for diagnostic or therapeutic purposes, with the aim of improving their health, and exposure of carers and comforters in medicine and of participants in human research;
@@ -112,8 +112,8 @@ In this Ordinance:
 
 In addition, for this Ordinance, the following apply:
 
-- a. the definitions given in Articles 5–7, 26, 49, 51, 80, 85, 96, 108, 122, 149 and 175;
-- b. the definitions of predominantly technical terms given in Annex 1 and the definitions of dose-related terms given in Annex 4.
+- the definitions given in Articles 5–7, 26, 49, 51, 80, 85, 96, 108, 122, 149 and 175;
+- the definitions of predominantly technical terms given in Annex 1 and the definitions of dose-related terms given in Annex 4.
 
 [^2-1]: Footnote relevant to Swiss language texts.
 
@@ -188,10 +188,10 @@ All radiological protection measures must be graduated according to the underlyi
 
 In addition to the activities specified in Article 28 of the RPA, or by way of clarification thereof, the following activities are subject to mandatory licensing:
 
-- a. the handling of material whose specific activity exceeds the clearance limit and whose absolute activity exceeds the licensing limit;
-- b. the handling of contained gaseous material whose absolute activity exceeds the licensing limit;
-- c. the discharge to the environment of material whose specific activity exceeds the clearance limit and whose absolute activity is greater than the activity of 1 kg of a material whose specific activity is equal to the clearance limit;
-- d. the distribution of material whose specific activity exceeds the clearance limit and whose absolute activity is greater than the activity of 1 kg of a material whose specific activity is equal to the clearance limit;
+- the handling of material whose specific activity exceeds the clearance limit and whose absolute activity exceeds the licensing limit;
+- the handling of contained gaseous material whose absolute activity exceeds the licensing limit;
+- the discharge to the environment of material whose specific activity exceeds the clearance limit and whose absolute activity is greater than the activity of 1 kg of a material whose specific activity is equal to the clearance limit;
+- the distribution of material whose specific activity exceeds the clearance limit and whose absolute activity is greater than the activity of 1 kg of a material whose specific activity is equal to the clearance limit;
 - e. the use of radionuclides in the human body;
 - f. the deployment of occupationally exposed persons as defined in Article 51 paragraphs 1 and 2 at one’s own or at another enterprise in Switzerland or abroad;
 - g. the performance of quality assurance measures on installations, nuclear medicine imaging equipment and activimeters, or image receptor and display systems used in medical diagnostics;
@@ -229,27 +229,27 @@ The following are exempt from mandatory licensing:
 
   the handling of stray radiation sources, where:
 
-  - 1\. the electron acceleration voltage does not exceed 30 kV, and
-  - 2\. the ambient dose rate at a distance of 10 cm from the surface does not exceed 1 μSv per hour[^10-12];
+  - the electron acceleration voltage does not exceed 30 kV, and
+  - the ambient dose rate at a distance of 10 cm from the surface does not exceed 1 μSv per hour[^10-12];
 
 - f. the handling of mineral and rock collections with a specific activity below the NORM clearance limits, or if they contain less than 10 g natural thorium or 100 g natural uranium;
 - g. the handling of radiation sources, with the exception of distribution, for which a type licence has been granted;
 - h. activities and radiation sources which are subject to mandatory licensing or a decommissioning order under the Nuclear Energy Act of 21 March 2003[^10-13] (NEA);
 - i. the deployment of occupationally exposed aircrew by aircraft operators.
 
-[^10-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249). The Annexes to the ADR are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the United Nations Economic Commission for Europe (UNECE) at www.unece.org &gt; Legal Instruments and Recommendations &gt; ADR; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern.
-[^10-2]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^10-3]: [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485).The Appendices to COTIF are not published in the Official Compilation (AS). The RID can be consulted free of charge on the website of the Intergovernmental Organisation for International Carriage by Rail at www.otif.org &gt; Reference Texts &gt; RID; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern.
-[^10-4]: [SR 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
-[^10-5]: [SR 748.411](https://fedlex.data.admin.ch/eli/cc/2005/556)
-[^10-6]: [SR 747.224.141](https://fedlex.data.admin.ch/eli/cc/2010/251)
-[^10-7]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381). This Annex is not published either in the Official Compilation (AS). It can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada).
-[^10-8]: The Technical Instructions are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada). They can also be consulted free of charge, in English and French, at the national airports’ information centres. They are not translated into German or Italian.
-[^10-9]: International Organization for Standardization. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH‑3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^10-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933). The Annexes to the ADR are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the United Nations Economic Commission for Europe (UNECE) at [www.unece.org](http://www.unece.org) &gt; Legal Instruments and Recommendations &gt; ADR; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern.
+[^10-2]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^10-3]: [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003).The Appendices to COTIF are not published in the Official Compilation (AS). The RID can be consulted free of charge on the website of the Intergovernmental Organisation for International Carriage by Rail at [www.otif.org](http://www.otif.org) &gt; Reference Texts &gt; RID; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern.
+[^10-4]: [SR 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
+[^10-5]: [SR 748.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9102)
+[^10-6]: [SR 747.224.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8993)
+[^10-7]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110). This Annex is not published either in the Official Compilation (AS). It can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at [www.bazl.admin.ch](http://www.bazl.admin.ch) &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada).
+[^10-8]: The Technical Instructions are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at [www.bazl.admin.ch](http://www.bazl.admin.ch) &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada). They can also be consulted free of charge, in English and French, at the national airports’ information centres. They are not translated into German or Italian.
+[^10-9]: International Organization for Standardization. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH‑3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; [[[www.snv.ch](http://www.snv.ch)](http://www.snv.ch)](http://www.snv.ch).
 [^10-10]: ISO 3157: 1991-11, Radioluminescence for time measurement instruments – Specifications.
 [^10-11]: ISO 4168: 2003-09, Timekeeping instruments – Conditions for carrying out checks on radioluminescent deposits.
 [^10-12]: <sup>Sv = sievert; mSv = millisievert; μSv = microsievert</sup>
-[^10-13]: [<sup>SR</sup> <sup>732.1</sup>](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^10-13]: [<sup>SR</sup> <sup>732.1</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ### Section 2 Licensing Procedures
 
@@ -270,7 +270,7 @@ The Swiss Federal Nuclear Safety Inspectorate (ENSI) is the licensing authority 
 - e. the discharge of radioactive waste from nuclear installations to the environment;
 - f.[^11-2] the decay storage of radioactive waste from nuclear installations and all related activities.
 
-[^11-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^11-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 [^11-2]: Inserted by No II of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 12
@@ -387,7 +387,7 @@ The following data concerning the licence holder may be stored in the database:
 - b. Registered licence holders are entitled, via electronic access, to view their licences and the data concerning them stored in the database, and to request amendments.
 - c. The application managers responsible for maintenance or programming tasks obtain access to data insofar as this is required for the fulfilment of their duties.
 
-[^18-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^18-1]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 
 ### Section 3 Duties of Licence Holders
 
@@ -498,7 +498,7 @@ Without prejudice to Articles 28 and 29, medical exposures are deemed to be fund
 
 <sup>3</sup> In collaboration with the professional bodies and sectoral associations concerned, the KSR shall prepare and publish recommendations on the justification of procedures in accordance with paragraphs 1 and 2.[^28-1]
 
-[^28-1]: www.ksr-cpr.ch
+[^28-1]: [www.ksr-cpr.ch](http://www.ksr-cpr.ch)
 
 #### Art. 29
 
@@ -717,8 +717,8 @@ The quality manual must include a detailed description of at least the following
 
 <sup>2</sup> In addition, the conduct of clinical trials of therapeutic products capable of emitting ionising radiation requires authorisation in accordance with Article 54 of the Therapeutic Products Act of 15 December 2000[^44-2] (TPA).
 
-[^44-1]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
-[^44-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^44-1]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
+[^44-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 45
 
@@ -763,7 +763,7 @@ Radiopharmaceuticals must be labelled as such. Their package labelling must incl
 
 <sup>6</sup> Long-lived radionuclide impurities relevant to disposal must be indicated in the accompanying documents.
 
-[^46-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^46-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 47
 
@@ -775,8 +775,8 @@ Radiopharmaceuticals must be labelled as such. Their package labelling must incl
 
 <sup>3</sup> The FDHA may specify requirements for the preparation and use of radiopharmaceuticals; it shall take into account national and international guidelines and the recommendations of professional bodies, in particular those issued by the European Association of Nuclear Medicine (EANM)[^47-1] or the Swiss Society of Radiopharmacy/Radiopharmaceutical Chemistry (SGRRC)[^47-2].
 
-[^47-1]: These guidelines (in English) can be accessed free of charge on the EANM website at www.eanm.org.
-[^47-2]: These recommendations can be accessed free of charge on the SGRRC website at www.sgrrc.ch.
+[^47-1]: These guidelines (in English) can be accessed free of charge on the EANM website at [www.eanm.org](http://www.eanm.org).
+[^47-2]: These recommendations can be accessed free of charge on the SGRRC website at [www.sgrrc.ch](http://www.sgrrc.ch).
 
 #### Art. 48
 
@@ -792,7 +792,7 @@ It shall advise the Federal Department of Home Affairs (FDHA), Swissmedic and th
 - b. it prepares reports on safety-related questions connected with radiopharmaceuticals;
 - c. it advises the FHHA on the amendment of Annex 1 to the Therapeutic Products Ordinance of 21 September 2018[^48-2].[^48-3]
 
-[^48-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^48-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^48-2]: SR **821.212.21**
 [^48-3]: Amended by Annex 6 No II 4 of the Therapeutic Products Ordinance of 21 Sept. 2018, in force since 1 Jan. 2019 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
 
@@ -919,7 +919,7 @@ For occupationally exposed aircrew, radiation exposure must be optimised when es
 
 <sup>2</sup> Suva may subject employees to the preventive occupational medicine provisions specified in Articles 70–89 APO.
 
-[^55-1]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^55-1]: [SR 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
 
 ### Section 2 Dose Restrictions
 
@@ -1113,7 +1113,7 @@ It shall be approved if the following requirements are met:
 
 The following authorities are responsible for approval:
 
-- a. the FOPH, in cases where a personal dosimetry service wishes to operate wholly or largely within the area supervised by the FOPH or by Suva;
+- the FOPH, in cases where a personal dosimetry service wishes to operate wholly or largely within the area supervised by the FOPH or by Suva;
 - b. ENSI, in cases where a personal dosimetry service wishes to operate wholly or largely within the area supervised by this authority
 
 <sup>2</sup> In cases where a personal dosimetry service wishes to operate in various areas, the competent authorities shall jointly decide which of them is to be responsible for approval.
@@ -1194,7 +1194,7 @@ The following data concerning occupationally exposed persons shall be stored in 
 
 - a. name, first name and former names;
 - b. date of birth;
-- c. insurance number as specified in Article 50*c* of the Federal Act of 20 December 1946[^73-1] on the Old-Age and Survivors’ Insurance;
+- c.[^73-1] OASI number;
 - d. sex;
 - e. name, address and UID of the enterprise;
 - f. dose values determined in Switzerland and abroad;
@@ -1204,7 +1204,7 @@ The following data concerning occupationally exposed persons shall be stored in 
 
 <sup>2</sup> For persons working in Switzerland only temporarily, the doses determined in Switzerland shall be recorded.
 
-[^73-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^73-1]: Amended by Annex No II 31 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 74
 
@@ -1212,9 +1212,9 @@ The following data concerning occupationally exposed persons shall be stored in 
 
 The following shall have direct electronic access to data in the Central Dose Registry:
 
-- a. the staff of the FOPH Radiological Protection Division;
-- b. the Suva Occupational Medicine Department;
-- c. the supervisory authorities: the data in the area under their supervision;
+- the staff of the FOPH Radiological Protection Division;
+- the Suva Occupational Medicine Department;
+- the supervisory authorities: the data in the area under their supervision;
 - d. the Federal Office of Civil Aviation (FOCA): the data concerning aircrew.
 
 #### Art. 75
@@ -1238,7 +1238,7 @@ The FOPH shall only make the personal data available in an anonymised form, unle
 - a. the persons concerned have consented to the disclosure of their data; or
 - b. the applicant has been granted authorisation by the responsible ethics committee in accordance with Article 45 of the HRA.
 
-[^76-1]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^76-1]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### Section 6 Technical Provisions for Personal Dosimetry
 
@@ -1440,7 +1440,7 @@ The EDI, in consultation with ENSI, shall define the requirements for the handli
 
 Measuring instruments for ionising radiation are governed by the Measuring Instruments Ordinance of 15 February 2006[^90-1] and the implementing provisions issued by the Federal Department of Justice and Police (FDJP) in consultation with the FDHA and the Federal Department of the Environment, Transport, Energy and Communications (DETEC).
 
-[^90-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^90-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 91
 
@@ -1483,7 +1483,7 @@ The FDHA, in consultation with ENSI, shall specify:
 
 <sup>4</sup> The supervisory authority may grant exemptions from paragraphs 1–3 if marking is not practicable or if reusable source containers are used.
 
-[^94-1]: ISO 2919: 2012-02-15, Radiological protection – Sealed radioactive sources – General requirements and classification. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH 3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^94-1]: ISO 2919: 2012-02-15, Radiological protection – Sealed radioactive sources – General requirements and classification. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH 3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 #### Art. 95
 
@@ -1495,7 +1495,7 @@ The FDHA, in consultation with ENSI, shall specify:
 
 <sup>3</sup> In justified cases, the supervisory authority may grant exemptions from paragraphs 1 and 2 or require additional quality tests.
 
-[^95-1]: ISO 2919: 2012-02-15, Radiological protection – Sealed radioactive sources – General requirements and classification. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH 3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^95-1]: ISO 2919: 2012-02-15, Radiological protection – Sealed radioactive sources – General requirements and classification. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH 3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; [[www.snv.ch](http://www.snv.ch)](http://www.snv.ch).
 
 ### Section 7 High-Activity Sealed Sources
 
@@ -1656,8 +1656,8 @@ Licence holders may clear the handling of material from mandatory licensing and 
 
 For the averaging of the values measured in accordance with paragraphs 1 and 2 to ensure non-exceedance of the clearance limit or the surface contamination guidance values specified in Annex 3 Column 12, the following quantities must be complied with:
 
-- a. for the measurement of activity: 100 kg;
-- b. for the measurement of surface contamination: 100 cm<sup>2</sup>.
+- for the measurement of activity: 100 kg;
+- for the measurement of surface contamination: 100 cm<sup>2</sup>.
 
 <sup>4</sup> In justified cases, the supervisory authority may approve values higher than those specified in paragraph 3.
 
@@ -1800,7 +1800,7 @@ Combustible radioactive waste may, with the approval of the licensing authority,
 - c. the activity approved for incineration per week does not exceed 1000 times the licensing limit.
 - [tab] <sup>2</sup> In justified cases, the licensing authority may approve the incineration of combustible radioactive waste containing radionuclides other than those specified in paragraph 1 letter b.
 
-[^116-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^116-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### Section 3 Treatment of Radioactive Waste
 
@@ -1989,7 +1989,7 @@ Licence holders must report failures in a timely manner, as follows:
 
 <sup>3</sup> ENSI shall report to the IAEA the rating of a failure on the International Nuclear and Radiological Event Scale (INES)[^128-1] from Level 2 upwards.
 
-[^128-1]: The event scale can be consulted on the website of the Swiss Federal Nuclear Safety Inspectorate (ENSI) at: www.ensi.ch &gt; Emergency Preparedness &gt; INES levels.
+[^128-1]: The event scale can be consulted on the website of the Swiss Federal Nuclear Safety Inspectorate (ENSI) at: [www.ensi.ch](http://www.ensi.ch) &gt; Emergency Preparedness &gt; INES levels.
 
 #### Art. 129
 
@@ -2036,7 +2036,7 @@ The supervisory authority shall ensure that the persons and the cantons concerne
 
 <sup>2</sup> The Federal Civil Protection Crisis Management Board (CCMB), which is responsible for dealing with incidents of national importance relevant to the protection of the population in accordance with the Ordinance of 2 March 2018[^133-1] on the Federal Civil Protection Crisis Management Board (CCMBO), may request the Federal Council to set a lower reference level, depending on the specific situation.[^133-2]
 
-[^133-1]: [SR 520.17](https://fedlex.data.admin.ch/eli/cc/2018/162)
+[^133-1]: [SR 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
 [^133-2]: Amended by Annex 3 No II 4 of the O of 2 March 2018 on the Federal Civil Protection Crisis Management Board, in force since 1 April 2018 ([AS 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)).
 
 #### Art. 134
@@ -2069,8 +2069,8 @@ The supervisory authority shall ensure that the persons and the cantons concerne
 
 <sup>6</sup> The FOPH and ENSI, together with the NEOC, shall develop methods and models for determining radiation doses.
 
-[^135-1]: [[AS 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690), [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Annex 2 No II 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 2. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 3]. See now the O of 11 Nov. 2020 on civil protection ([SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)).
-[^135-2]: [SR 520.17](https://fedlex.data.admin.ch/eli/cc/2018/162). Term in accordance with Annex 3 No II 4 of the O of 2 March 2018 on the Federal Civil Protection Crisis Management Board, in force since 1 April 2018 ([AS 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)). This amendment has been made throughout the text.
+[^135-1]: [[AS 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690), [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Annex 2 No II 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 2. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 3]. See now the O of 11 Nov. 2020 on civil protection ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
+[^135-2]: [SR 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601). Term in accordance with Annex 3 No II 4 of the O of 2 March 2018 on the Federal Civil Protection Crisis Management Board, in force since 1 April 2018 ([AS 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)). This amendment has been made throughout the text.
 
 #### Art. 136
 
@@ -2082,8 +2082,8 @@ The supervisory authority shall ensure that the persons and the cantons concerne
 
 <sup>3</sup> For warnings and alerts and for preparing and implementing measures to protect against increased radioactivity in the vicinity of nuclear installations, the Emergency Response Ordinance of 20 October 2010[^136-1] and the Alerts and Safety Radio Network Ordinance of 18 August 2010[^136-2] apply.
 
-[^136-1]: [[AS 2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748), [2018 4335](https://fedlex.data.admin.ch/eli/oc/2018/701). [AS 2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No I ]. See now the O of 14 Nov. 2018 ([RS 732.33](https://fedlex.data.admin.ch/eli/cc/2018/780)).
-[^136-2]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)[5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791), [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103), [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 1. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ([SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)).
+[^136-1]: [[AS 2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748), [2018 4335](https://fedlex.data.admin.ch/eli/oc/2018/701). [AS 2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No I ]. See now the O of 14 Nov. 2018 ([RS 732.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8554)).
+[^136-2]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)[5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791), [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103), [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 1. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
 
 ### Chapter 3 Management
 
@@ -2093,7 +2093,7 @@ The supervisory authority shall ensure that the persons and the cantons concerne
 
 The FOPH shall report an emergency to the World Health Organization (WHO) in accordance with the International Health Regulations (2005) adopted on 23 May 2005[^137-1].
 
-[^137-1]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^137-1]: [SR 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 138
 
@@ -2109,7 +2109,7 @@ The supervisory authority shall ensure that information on emergencies is provid
 
 <sup>2</sup> For simplified dose calculations, the dose coefficients specified in Annexes 5 and 6 apply.
 
-[^139-1]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)[5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791), [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103), [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 1. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ([SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)).
+[^139-1]: [SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 [^139-2]: Amended by Annex 3 No II 8 of the Civil Protection Ordinance of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 
 #### Art. 140
@@ -2124,8 +2124,8 @@ The supervisory authority shall ensure that information on emergencies is provid
 
 <sup>4</sup> The FOPH shall advise the CCMB on ordering measures to protect public health.
 
-[^140-1]: [SR 520.17](https://fedlex.data.admin.ch/eli/cc/2018/162)
-[^140-2]: [SR 520.18](https://fedlex.data.admin.ch/eli/cc/2007/690)
+[^140-1]: [SR 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
+[^140-2]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)[5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791), [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103), [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 1. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
 
 #### Art. 141
 
@@ -2202,7 +2202,7 @@ The required equipment shall include in particular:
 
 <sup>3</sup> If, as a result of their activities, persons and undertakings with special responsibilities incur costs that are not covered, they shall receive compensation from the Confederation. The DDPS shall regulate the processing of financial claims.
 
-[^146-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^146-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### Chapter 5 Exceedance of Maximum Concentrations for Radionuclides in Foods
 
@@ -2325,8 +2325,8 @@ The FOPH shall maintain an inventory of possibly contaminated properties and sha
 
 The Centre shall carry out, in particular, the following tasks:
 
-- a. regularly issuing recommendations on mitigation measures and supporting the cantons in implementation;
-- b. publishing the radon map in consultation with the cantons;
+- regularly issuing recommendations on mitigation measures and supporting the cantons in implementation;
+- publishing the radon map in consultation with the cantons;
 - c. providing information and advice for the cantons, building owners, tenants, construction professionals and other interested groups;
 - d. advising persons concerned and interested bodies on appropriate mitigation measures;
 - e. regularly providing the cantons with an overview of buildings where measurements have been conducted;
@@ -2385,7 +2385,7 @@ Approved radon measurement providers are required:
 
 <sup>2</sup> The FOPH shall maintain a list in which radon consultants working in Switzerland who have undergone training and continuing education in accordance with Article 183 letter c are included on request. It shall publish the list[^161-1] and regularly update it.
 
-[^161-1]: The list may be consulted free of charge on the FOPH website at www.bag.admin.ch &gt; Topics &gt; People & health &gt; Radiation, radioactivity & sound &gt; Radon &gt; Advice by radon consultants.
+[^161-1]: The list may be consulted free of charge on the FOPH website at [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Topics &gt; People & health &gt; Radiation, radioactivity & sound &gt; Radon &gt; Advice by radon consultants.
 
 #### Art. 162
 
@@ -2423,7 +2423,7 @@ The FOPH may, on the basis of a data protection agreement, make available to thi
 - b. The data shall not be transferred.
 - c. If the results are published, this must be done in a completely anonymised form.
 
-[^162-1]: [[AS 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Annex No 7, 2012 4707. [AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)Annex No 2 I]. See Now the O of 9 June 2017 ([RS 431.841](https://fedlex.data.admin.ch/eli/cc/2017/376)).
+[^162-1]: [[AS 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Annex No 7, 2012 4707. [AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)Annex No 2 I]. See Now the O of 9 June 2017 ([RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)).
 
 ### Section 2 Preventive Mitigation Measures and Radon Measurements
 
@@ -2731,10 +2731,10 @@ The requirements specified by the FDHA for training and continuing education in 
 
 The following persons, if they have completed appropriate radiological protection training regulated by the FDHA and fulfil their continuing education obligations, meet the requirements for being able to serve as radiological protection experts in their field of activity:
 
-- a. physicians and chiropractors with an appropriate Swiss specialist title;
-- b. dentists and veterinary surgeons with an appropriate Swiss degree;
-- c. medical physicists;
-- d. radiopharmacists;
+- physicians and chiropractors with an appropriate Swiss specialist title;
+- dentists and veterinary surgeons with an appropriate Swiss degree;
+- medical physicists;
+- radiopharmacists;
 - e. medical radiation technologists[^182-2] (PEI, UAS).
 
 [^182-1]: Footnote relevant to Swiss language texts.
@@ -2781,7 +2781,7 @@ ENSI shall supervise:
 
 <sup>5</sup> The supervisory authorities shall coordinate enforcement and resolve any uncertainties regarding responsibility by mutual agreement. They shall meet regularly for this purpose.
 
-[^184-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^184-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 [^184-2]: Inserted by No II of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 185
@@ -2792,7 +2792,7 @@ ENSI shall supervise:
 
 <sup>2</sup> The supervisory authorities shall make the required documents available to the licensing authorities at any time upon request.
 
-[^185-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^185-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 186
 
@@ -2845,7 +2845,9 @@ The FOPH may request third parties to carry out inspections, in particular:
 
 <sup>6</sup> The Directorate General of Customs, in consultation with the licensing authorities, shall issue internal directives for monitoring of the import, export and transit of radioactive material.
 
-<sup>7</sup> The Swiss Federal Customs Administration may, on request, transfer data from customs declarations to the licensing and supervisory authorities.
+<sup>7</sup> The Federal Office for Customs and Border Security[^190-1] may, on request, transfer data from customs declarations to the licensing and supervisory authorities.
+
+[^190-1]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### Section 2 Monitoring of Ionising Radiation and Radioactivity in the Environment
 
@@ -2899,7 +2901,7 @@ The FOPH may request third parties to carry out inspections, in particular:
 
 <sup>4</sup> It shall prepare and publish an annual report on the monitoring data and the resultant radiation doses to the public.
 
-[^194-1]: [SR 520.17](https://fedlex.data.admin.ch/eli/cc/2018/162)
+[^194-1]: [SR 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
 
 #### Art. 195
 
@@ -2953,8 +2955,8 @@ It shall advise the Federal Council, the FDHA, the DETEC, the DDPS, ENSI, intere
 
 <sup>5</sup> The KSR and its committees may engage external experts for the examination of special issues.
 
-[^198-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^198-2]: www.ksr-cpr.ch
+[^198-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^198-2]: [www.ksr-cpr.ch](http://www.ksr-cpr.ch)
 
 ## Title 7 Criminal Provisions
 
@@ -2980,7 +2982,7 @@ In accordance with Article 44 paragraph 1 letter f of the RPA, an offence is com
 
 The Radiological Protection Ordinance of 22 June 1994[^200-1] is repealed.
 
-[^200-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)No II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129), [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[934](https://fedlex.data.admin.ch/eli/oc/2000/140)[2894](https://fedlex.data.admin.ch/eli/oc/2000/504), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Annex No 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 No 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)No I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Annex 6 No 3]
+[^200-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)No II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[934](https://fedlex.data.admin.ch/eli/oc/2000/140)[2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Annex No 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778); [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 No 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)No I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Annex 6 No 3]
 
 #### Art. 201
 
@@ -3099,9 +3101,8 @@ NORM Clearance limits for naturally occurring radionuclides in solid materials w
 - – Natural radionuclides from the U-238 series 1 000 Bq/kg
 - – Natural radionuclides from the Th-232 series 1 000 Bq/kg
 - – K-40 10 000 Bq/kg
-- [tab]
 
-Annex 3*[^t-1]*
+Annex 3[^t-1]
 
 (Art. 2 para. 1 let. j, l and m and Art. 194 para. 3)
 
@@ -3966,16 +3967,15 @@ Nuclide mixtures
 - **In the case of nuclide mixtures, the summation rule applies for Columns 9, 11 and 12:**
 - Rule used to assess compliance with activity limits for mixtures of nuclides. Here, the various nuclides are weighted according to the hazard they pose. If the following inequalities are satisfied, then the mixtures are below the clearance limit or below the guidance value for surface contamination.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image1.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ... *a*<sub>n</sub>: specific activities of nuclides 1, 2, ..., n in Bq/g.
 - *LL*<sub>1</sub>, *LL*<sub>2</sub>, ... *LL*<sub>n</sub> : clearance limits for nuclides 1, 2, ..., n in Bq/g as specified in Annex 3 Column 9.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image2.png)
 
 - *c*<sub>1</sub>, *c*<sub>2</sub>, ... *c*<sub>n</sub> : contamination values for nuclides 1, 2, ..., n in Bq/cm<sup>2</sup>.
 - *CS*<sub>1</sub>, *CS*<sub>2</sub>, ... *CS*<sub>n</sub>: Guidance values for surface contamination for nuclides 1, 2, ..., n in Bq/cm<sup>2</sup> as specified in Annex 3 Column 12.
-- [tab]
 
 For Footnote [2]: Daughter nuclides taken into account in calculating the clearance limit
 
@@ -4021,23 +4021,23 @@ Annex 4
 
 The fundamental dose quantity given by:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image3.png)
 
-where ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image4.png) is the mean energy imparted to matter of mass d*m* by ionising radiation. The SI unit for absorbed dose is joule per kilogram (J/kg), and its special name is gray (Gy).
+where ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image4.png) is the mean energy imparted to matter of mass d*m* by ionising radiation. The SI unit for absorbed dose is joule per kilogram (J/kg), and its special name is gray (Gy).
 
 ### 1.2 Mean absorbed dose in a tissue or organ, *D*<sub>T</sub>
 
 The absorbed dose *D*<sub>T</sub>, averaged over the tissue or organ T, which is given by:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image5.png)
 
-where ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image6.png) is the mean total energy imparted in a tissue or organ T, and ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image7.png) is the mass of that tissue or organ.
+where ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image6.png) is the mean total energy imparted in a tissue or organ T, and ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image7.png) is the mass of that tissue or organ.
 
 ### 1.3 Equivalent dose, *H*<sub>T</sub>
 
 The dose in a tissue or organ T given by:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image8.png)
 
 where *D*<sub>T.R</sub> is the mean absorbed dose from radiation R in a tissue or organ T, and *w*<sub>R</sub> is the radiation weighting factor. Since *w*<sub>R</sub> is dimensionless, the unit for the equivalent dose is the same as for absorbed dose, J/kg. Its special name is sievert (Sv).
 
@@ -4047,7 +4047,7 @@ where *D*<sub>T.R</sub> is the mean absorbed dose from radiation R in a tissue o
 <tr><td>**Radiation type and energy range**</td><td></td><td>**Radiation weighting factor,** ***w*****<sub>R</sub>**</td></tr>
 <tr><td>Photons, all energies</td><td></td><td>1</td></tr>
 <tr><td>Electrons and muons, all energies</td><td></td><td>1</td></tr>
-<tr><td>Neutrons, energy</td><td>[tab] – under 1 MeV [tab] – 1 MeV–50 MeV [tab] – over 50 MeV</td><td>[tab] 2,5+18,2·e<sup>-[ln(E)]²/6</sup> [tab] 5,0+17,0·e<sup>-[ln(2·E)]²/6</sup> [tab] 2,5+3,25·e<sup>-[ln(0,04·E</sup><sup>)]²/6</sup></td></tr>
+<tr><td>Neutrons, energy</td><td>[tab] – under 1 MeV [tab] – 1 MeV–50 MeV [tab] – over 50 MeV</td><td>[tab] 2,5+18,2·e<sup>-[ln(E)]²/6</sup> [tab] 5,0+17,0·e<sup>-[ln(2·E)]²/6</sup> [tab] 2,5+3,25·e<sup>-[ln(0,04·E)]²/6</sup></td></tr>
 <tr><td>Protons and charged pions</td><td></td><td>2</td></tr>
 <tr><td>Alpha particles, fission fragments, heavy nuclei</td><td></td><td>20</td></tr>
 </table>
@@ -4060,7 +4060,7 @@ The time integral of the equivalent dose rate in a particular tissue or organ th
 
 The tissue-weighted sum of the equivalent doses in all specified tissues and organs of the body, given by the expression:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image9.png)
 
 where *H*<sub>T</sub> or *w*<sub>R</sub>*D*<sub>T.R</sub> is the equivalent dose in a tissue or organ T and *w*<sub>T</sub> is the tissue weighting factor. The unit for the effective dose is the same as for absorbed dose, J/kg, and its special name is sievert (Sv).
 
@@ -4093,7 +4093,7 @@ The sum of the products of the committed organ or tissue equivalent doses and th
 
 - 1\.9.1 The product of *D* and *Q* at a point in tissue, where *D* is the absorbed dose and *Q* is the quality factor for the specific radiation at this point, thus:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image10.png)
 
 - 1\.9.2 The unit of dose equivalent is joule per kilogram (J/kg), and its special name is sievert (Sv). For the relevant operational quantities, see personal dose equivalent and ambient dose equivalent.
 
@@ -4124,7 +4124,7 @@ A sphere of tissue-equivalent material, 30 cm in diameter, with a density of 1 g
 
 - 1\.15.1 The factor characterising the biological effectiveness of a radiation, based on the ionisation density along the tracks of charged particles in tissue. *Q* is defined as a function of the unrestricted linear energy transfer, LET (*L* in keV/μm), of charged particles in water:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image11.png)
 
 - 1\.15.2 *Q* has been superseded by the radiation weighting factor, *w*<sub>R</sub>, in the definition of equivalent dose, but it is still used in calculating the operational dose equivalent quantities used in monitoring.
 
@@ -4176,7 +4176,6 @@ Where ambient dose limits are specified by this Ordinance, the ambient dose is t
 
 - a. the quantity *H\**(10) (ambient dose equivalent) for penetrating radiation;
 - b. the quantity *H'*(0.07) (directional dose equivalent) for low-penetrating radiation.
-- [tab]
 
 Annex 5
 
@@ -4515,7 +4514,7 @@ Immission limits for air (*LI*<sub>air</sub>):
 
 - 1\.3 The immission limits for air can be calculated for additional radionuclides using the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image12.png)
 
 - [tab] where *e*<sub>inh,eb</sub>, *e*<sub>inh,e10</sub> and *e*<sub>inh,ad</sub> [mSv/Bq] are the inhalation dose coefficients for infants, ten-year-old children and adults, and *e**<sub>imm</sub>* [(mSv/h)/(Bq/m<sup>3</sup>)] is the immersion dose coefficient (non-age-dependent). The inhalation and immersion dose coefficients are taken from Annexes 5 and 6.
 - [tab] For immersion, a shielding factor (*F*<sub>abs</sub>) of 0.4 is assumed for time spent indoors.
@@ -4557,7 +4556,7 @@ Immission limits for waters (*LI*<sub>eaux</sub>):
 
 - 2\.3 The immission limits for waters can be calculated for additional radionuclides using the following formula:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image13.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image13.png)</sub>
 
 - [tab] where *e*<sub>ing,eb</sub>, *e*<sub>ing,e10</sub> and *e*<sub>ing,ad</sub> [mSv/Bq] are the ingestion dose coefficients for infants, ten-year-old children and adults, and *CoE*<sub>eb</sub>, *CoE*<sub>e10</sub>*,* and *CoE*<sub>ad</sub> are the drinking water consumption in litres per year [l/a] for infants, ten-year-old children and adults.
 - [tab] For drinking water consumption, 650 l/a was assumed for adults and ten-year-old children, and 250 l/a for infants. The ingestion dose coefficients are taken from Annex 5.
@@ -4568,17 +4567,17 @@ In the case of nuclide mixtures, the summation rule applies for the immission li
 
 - [tab] Rule used to assess compliance with immission limits for air and for waters in the case of nuclide mixtures. Here, the various nuclides are weighted according to the hazard they pose. If the following inequalities are satisfied, then the mixtures are below the immission limits.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image14.png)
 
 - [tab] *a*<sub>1</sub>, *a*<sub>2</sub>, … *a*<sub>n</sub>: airborne activity concentrations of nuclides 1, 2, …, n in Bq/m<sup>3</sup>.
 - [tab] *LI*<sub>air1</sub>, *LI*<sub>air 2</sub>, … *LI*<sub>air n</sub>: immission limits for air for nuclides 1, 2, …, n in Bq/m<sup>3</sup>.
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image15.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image15.png)</sub>
 
 - [tab] *a*<sub>1</sub>, *a*<sub>2</sub>, …*a*<sub>n</sub>: airborne activity concentrations of nuclides 1, 2, ..., n in Bq/l.
 - [tab] *LI*<sub>eau1</sub>, *LI*<sub>eau2</sub>, … *LI*<sub>eau n</sub>: immission limits for air for nuclides 1, 2, ..., n in Bq/l.
 
-Annex 8*[^t-2]*
+Annex 8[^t-2]
 
 (Art. 46 para. 4 let. b, 80 para. 5 and 85 para. 5)
 
@@ -4619,7 +4618,7 @@ Installations (e.g. X-ray equipment, accelerators):
 
 ### 4 Hazard warning symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20210101/en/xml/image/image16.png) Ratio of radii: 1 : 1,5 : 5
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image16.png) Ratio of radii: 1 : 1,5 : 5
 
 Annex 9
 
@@ -4649,7 +4648,7 @@ For radionuclides not listed in the Table below, the activity value is the D val
 <tr><td>Yb-169</td><td>3×10<sup>-1</sup></td></tr>
 </table>
 
-[^annex9-lvlu1-1]: The IAEA publications referred to in this O can be accessed free of charge on the IAEA website at www.iaea.org &gt; Publications.
+[^annex9-lvlu1-1]: The IAEA publications referred to in this O can be accessed free of charge on the IAEA website at [www.iaea.org](http://www.iaea.org) &gt; Publications.
 [^annex9-lvlu1-2]: The activity of the alpha-emitting radionuclide is given.
 
 Annex 10
@@ -4695,4 +4694,4 @@ The ordinances below are amended as follows:
 
 …[^annex11-lvlu1-1]
 
-[^annex11-lvlu1-1]: The amendments may be consulted under [AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)..
+[^annex11-lvlu1-1]: The amendments may be consulted under [AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502).
