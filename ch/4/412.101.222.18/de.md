@@ -3,18 +3,18 @@ sr: "412.101.222.18"
 title: Verordnung des SBFI vom 19. Dezember 2014 über die berufliche Grundbildung Uhrmacherin/Uhrmacher mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/84"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2014-12-19
 in_force: 2015-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/84/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2015-84-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/84/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/84/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-84-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/84/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Uhrmacherin/Uhrmacher mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 19. Dezember 2014 (Stand am 1. Januar 2018)
+vom 19. Dezember 2014 (Stand am 1. Januar 2022)
 
 <table>
 <tr><td>49005</td><td>Uhrmacherin EFZ/Uhrmacher EFZ Horlogère CFC/Horloger CFC Orologiaia AFC/Orologiaio AFC</td></tr>
@@ -24,7 +24,7 @@ Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
 gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-4]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -183,22 +183,22 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <sup>1</sup> Der obligatorische Unterricht an der Berufsfachschule umfasst 2080 Lektionen. Diese teilen sich gemäss nachfolgender Tabelle auf:
 
 <table>
-<tr><td>Unterricht</td><td>1. Lehrjahr</td><td>2. Lehrjahr</td><td>3. Lehrjahr</td><td>4. Lehrjahr</td><td>Total</td></tr>
+<tr><th>Unterricht</th><th>1. Lehrjahr</th><th>2. Lehrjahr</th><th>3. Lehrjahr</th><th>4. Lehrjahr</th><th>Total</th></tr>
 <tr><td>a. Berufskenntnisse</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Fertigen von branchenspezifischen Werkzeugen und Ausrüstung, Anwenden der Richtlinien bezüglich Arbeitssicherheit, Gesundheits- und Umweltschutz</td><td>100</td><td>100</td><td>80</td><td>–</td><td>280 (20)</td></tr>
-<tr><td>– Zusammensetzen von Einzelteilen</td><td>220</td><td>150</td><td></td><td>45</td><td>415</td></tr>
-<tr><td>– Feineinstellen und Regulieren</td><td>–</td><td>60</td><td>30</td><td>–</td><td>90</td></tr>
-<tr><td>– Reparieren und Instandsetzen (Kundendienst)</td><td>40</td><td>–</td><td>140</td><td>165</td><td>345</td></tr>
-<tr><td>– Durchführen von Analysen</td><td>–</td><td>50</td><td>110</td><td>150</td><td>310</td></tr>
+<tr><td>– Fertigen von branchenspezifischen Werkzeugen und Ausrüstung *(einschliesslich: Anwenden der Richtlinien bezüglich Arbeits**sicherheit, Gesundheits- und Umweltschutz)*</td><td>100</td><td>100</td><td>80</td><td>–</td><td>280 *(20)*</td></tr>
+<tr><td>– Zusammensetzen von Einzelteilen</td><td>200</td><td>160</td><td>40</td><td>40</td><td>440</td></tr>
+<tr><td>– Feineinstellen und Regulieren</td><td>–</td><td>40</td><td>40</td><td>–</td><td>80</td></tr>
+<tr><td>– Reparieren und Instandsetzen (Kundendienst)</td><td>60</td><td>60</td><td>120</td><td>160</td><td>400</td></tr>
+<tr><td>– Durchführen von Analysen</td><td>–</td><td></td><td>80</td><td>160</td><td>240</td></tr>
 <tr><td>Total</td><td>360</td><td>360</td><td>360</td><td>360</td><td>1440</td></tr>
 <tr><td>b. Allgemeinbildung</td><td>120</td><td>120</td><td>120</td><td>120</td><td>480</td></tr>
-<tr><td>c. Sport</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 160</td></tr>
-<tr><td>Total Lektionen</td><td>520</td><td>520</td><td>520</td><td>520</td><td>2080</td></tr>
+<tr><td>c. Sport</td><td>40</td><td>40</td><td>40</td><td>40</td><td>160</td></tr>
+<tr><td>Total Lektionen</td><td>520</td><td>520</td><td>520</td><td>520</td><td>**2080**.[^7-1]</td></tr>
 </table>
 
 <sup>2</sup> Geringfügige Abweichungen von der vorgegebenen Anzahl der Lektionen pro Lehrjahr innerhalb eines Handlungskompetenzbereichs sind in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-2] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>4</sup> Unterrichtssprache ist in der Regel die Landessprache des Schulortes.
 
@@ -206,7 +206,8 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>6</sup> Die Kantone können andere Unterrichtssprachen zulassen.
 
-[^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^7-2]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 8
 
@@ -256,13 +257,19 @@ Der Bildungsplan hat folgenden Inhalt:
 
 #### Art. 10
 
-**Fachliche Mindestanforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner[^10-1]**
 
-Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben a und b BBV an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
+Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:[^10-2]
 
 - a. Uhrmacherin EFZ oder Uhrmacher EFZ mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
 - b. gelernte Uhrmacherin oder gelernter Uhrmacher in den Fachgebieten Rhabillage oder Industrie mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
-- c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich Uhrmacherin EFZ und Uhrmacher EFZ und mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet.
+- c.[^10-3] Abschluss, der als gleichwertig zur Uhrmacherin und zum Uhrmacher EFZ gilt, mit den notwendigen Berufskenntnissen im Bereich der Uhrmacherin und des Uhrmachers EFZ und mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
+- d.[^10-4] einschlägiger Abschluss der höheren Berufsbildung.
+
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^10-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^10-3]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^10-4]: Eingefügt durch Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
 
 #### Art. 11
 
@@ -346,32 +353,31 @@ In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen n
 
 Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen in den nachstehenden Qualifikationsbereichen wie folgt geprüft:
 
-- a. Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 16 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden. Der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche mit den nachstehenden Gewichtungen:
+- a.[^18-1]
+
+  praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 16 Stunden; dafür gilt Folgendes:
+
+  - 1\. dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft;
+  - 2\. die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen;
+  - 3\. die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden;
+  - 4\. der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche mit den nachstehenden Gewichtungen:
 
 <table>
-<tr><td>Position</td><td>Handlungskompetenzbereiche</td><td>Gewichtung</td></tr>
+<tr><th>Position</th><th>Handlungskompetenzbereiche</th><th>Gewichtung</th></tr>
 <tr><td>1.</td><td>Zusammensetzen von Einzelteilen</td><td>20 %</td></tr>
 <tr><td>2.</td><td>Feineinstellen und Regulieren</td><td>20 %</td></tr>
 <tr><td>3.</td><td>Reparieren und Instandsetzen (Kundendienst)</td><td>40 %</td></tr>
 <tr><td>4.</td><td>Schwerpunktbezogene Handlungskompetenzen (gemäss Art. 4 Abs. 3 Bst. a oder b)</td><td>20 %</td></tr>
 </table>
 
-- b. Berufskenntnisse, im Umfang von 8 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Der Qualifikationsbereich Berufskenntnisse umfasst die folgenden Handlungskompetenzbereiche und Prüfungsformen mit den nachstehenden Gewichtungen:
-
-<table>
-<tr><td>Position</td><td>Handlungskompetenzbereiche</td><td colspan="2">Prüfungsform/Dauer</td><td>Gewichtung</td></tr>
-<tr><td></td><td></td><td>Dauer</td><td>Form</td><td></td></tr>
-<tr><td>1.</td><td>Fertigen von branchenspezifischen Werkzeugen und Ausrüstung</td><td>240 Min.</td><td>schriftlich</td><td>40 %</td></tr>
-<tr><td>2.</td><td>Zusammensetzen von Einzelteilen, Feineinstellen und Regulieren</td><td>180 Min.</td><td>schriftlich</td><td>40 %</td></tr>
-<tr><td>3.</td><td>Reparieren und Instandsetzen (Kundendienst)</td><td>30 Min.</td><td>mündlich</td><td>10 %</td></tr>
-<tr><td>4.</td><td>Durchführen von Kontrollen, Anwenden der Richtlinien bezüglich Arbeitssicherheit, Gesundheits- und Umweltschutz</td><td>30 Min.</td><td>schriftlich</td><td>10 %</td></tr>
-</table>
-
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- b.[^18-2] Berufskenntnisse, im Umfang von 4 Stunden; dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung schriftlich geprüft und umfasst alle Handlungskompetenzbereiche;
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-3] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^18-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^18-3]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 19
 
@@ -516,6 +522,16 @@ Es werden aufgehoben:
 <sup>2</sup> Personen mit einem Abschluss als Uhrmacher Praktikerin oder Uhrmacher Praktiker sind bis zum 1. Januar 2018 für das Vertiefungsjahr für Uhrmacherinnen und Uhrmacher im Fachgebiet Rhabillage oder im Fachbereich Industrie zugelassen.
 
 <sup>3</sup> Wer das Qualifikationsverfahren mit Abschlussprüfung für Uhrmacherin oder Uhrmacher Fachgebiet Rhabillage oder Uhrmacherin oder Uhrmacher Fachgebiet Industrie bis zum 31. Dezember 2020 wiederholt, kann verlangen, nach altem Recht beurteilt zu werden.
+
+#### Art. 26a
+
+**Übergangsbestimmungen zur Änderung vom 22. Dezember 2020**[^26a-1]
+
+<sup>1</sup> Lernende, die ihre Bildung als Uhrmacherin oder Uhrmacher EFZ vor dem Inkrafttreten der Änderung vom 22. Dezember 2020 begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2027.
+
+<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Uhrmacherin und Uhrmacher EFZ bis zum 31. Dezember 2027 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+
+[^26a-1]: Eingefügt durch Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
 
 #### Art. 27
 

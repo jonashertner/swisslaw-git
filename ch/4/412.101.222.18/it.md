@@ -3,18 +3,18 @@ sr: "412.101.222.18"
 title: Ordinanza della SEFRI del 19 dicembre 2014 sulla formazione professionale di base Orologiaia/Orologiaio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/84"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2014-12-19
 in_force: 2015-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/84/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2015-84-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/84/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/84/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-84-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/84/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Orologiaia/Orologiaio con attestato federale di capacità (AFC)
 
-del 19 dicembre 2014 (Stato 1° gennaio 2018)
+del 19 dicembre 2014 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 <table>
 <tr><td>49005</td><td>Orologiaia AFC/Orologiaio AFC</td></tr>
@@ -26,7 +26,7 @@ La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
 visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -117,7 +117,7 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
   esecuzione di operazioni di rifinitura e regolazione:
 
   - 1\. eseguire operazioni di rifinitura,
-  - 2\. eseguire regolazioni;
+  - 2\.[^4-1] eseguire operazioni di regolazione;
 
 - d.
 
@@ -125,7 +125,7 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
   - 1\. garantire la protezione della salute,
   - 2\. garantire la sicurezza sul lavoro,
-  - 3\. garantire il rispetto dell’ambiente;
+  - 3\.[^4-2] garantire la protezione dell’ambiente.
 
 - e.
 
@@ -151,6 +151,9 @@ In base all’orientamento scelto, devono essere acquisite anche le seguenti com
 
 - a. riparazione: competenza operativa di cui al capoverso 1, lettera e, numero 4;
 - b. metodi industriali: competenza operativa di cui al capoverso 1, lettera f, numero 2.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^4-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
 
@@ -185,22 +188,22 @@ La formazione professionale pratica in azienda comprende in media da 3 a 4 giorn
 <sup>1</sup> L’insegnamento obbligatorio presso la scuola professionale comprende 2080 lezioni. Dette lezioni sono suddivise secondo la tabella seguente:
 
 <table>
-<tr><td>Insegnamento</td><td>1° anno</td><td>2° anno</td><td>3° anno</td><td>4° anno</td><td>Totale</td></tr>
-<tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– realizzazione di strumenti e attrezzi per lavori di orologeria; applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente</td><td>100</td><td>100</td><td>80</td><td>–</td><td>280 (20)</td></tr>
-<tr><td>– assemblaggio di componenti</td><td>220</td><td>150</td><td></td><td>45</td><td>415</td></tr>
-<tr><td>– esecuzione di operazioni di rifinitura e regolazione</td><td>–</td><td>60</td><td>30</td><td>–</td><td>90</td></tr>
-<tr><td>– esecuzione di operazioni post-vendita</td><td>40</td><td>–</td><td>140</td><td>165</td><td>345</td></tr>
-<tr><td>– esecuzione di analisi</td><td>–</td><td>50</td><td>110</td><td>150</td><td>310</td></tr>
-<tr><td>Totale</td><td>360</td><td>360</td><td>360</td><td>360</td><td>1440</td></tr>
+<tr><th>Insegnamento</th><th>1° anno</th><th>2° anno</th><th>3° anno</th><th>4° anno</th><th>Totale</th></tr>
+<tr><td>a. Conoscenze professionali</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Realizzazione di strumenti e attrezzi per lavori di orologeria *(compresa l’applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente)*</td><td>100</td><td>100</td><td>80</td><td>–</td><td>280 *(20)*</td></tr>
+<tr><td>– Assemblaggio di componenti</td><td>200</td><td>160</td><td>40</td><td>40</td><td>440</td></tr>
+<tr><td>– Esecuzione di operazioni di rifinitura e regolazione</td><td>–</td><td>40</td><td>40</td><td>–</td><td>80</td></tr>
+<tr><td>– Esecuzione di operazioni post-vendita</td><td>60</td><td>60</td><td>120</td><td>160</td><td>400</td></tr>
+<tr><td>– Esecuzione di analisi</td><td>–</td><td></td><td>80</td><td>160</td><td>240</td></tr>
+<tr><td>Totale conoscenze professionali</td><td>360</td><td>360</td><td>360</td><td>360</td><td>1440</td></tr>
 <tr><td>b. Cultura generale</td><td>120</td><td>120</td><td>120</td><td>120</td><td>480</td></tr>
-<tr><td>c. Sport</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 160</td></tr>
-<tr><td>Totale delle lezioni</td><td>520</td><td>520</td><td>520</td><td>520</td><td>2080</td></tr>
+<tr><td>c. Educazione fisica</td><td>40</td><td>40</td><td>40</td><td>40</td><td>160</td></tr>
+<tr><td>Totale delle lezioni</td><td>520</td><td>520</td><td>520</td><td>520</td><td>**2080**. [^7-1]</td></tr>
 </table>
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammesse deroghe minime al numero di lezioni prescritte per anno di formazione in un campo di competenze operative.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>4</sup> La lingua d’insegnamento è di norma la lingua nazionale del luogo in cui si trova la scuola professionale.
 
@@ -208,7 +211,8 @@ La formazione professionale pratica in azienda comprende in media da 3 a 4 giorn
 
 <sup>6</sup> I Cantoni possono autorizzare altre lingue d’insegnamento.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 8
 
@@ -258,13 +262,19 @@ Il piano di formazione:
 
 #### Art. 10
 
-**Requisiti professionali minimi richiesti ai formatori**
+**Requisiti professionali richiesti ai formatori[^10-1]**
 
-I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere a e b OFPr sono soddisfatti se il formatore possiede una delle seguenti qualifiche:
+Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:[^10-2]
 
 - a. attestato federale di capacità di orologiaio AFC e almeno 3 anni di esperienza professionale nel campo d’insegnamento;
 - b. attestato federale di capacità di orologiaio qualificato indirizzo professionale riparazione e orologiaio qualificato indirizzo professionale industriale con almeno 3 anni di esperienza professionale nel campo d’insegnamento;
-- c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’orologiaio AFC e almeno 3 anni di esperienza professionale nel campo d’insegnamento.
+- c.[^10-3] titolo equivalente con le necessarie conoscenze professionali nel campo di attività dell’orologiaio AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- d.[^10-4] titolo della formazione professionale superiore in ambito pertinente.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^10-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^10-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^10-4]: Introdotta dal n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
 
 #### Art. 11
 
@@ -345,32 +355,31 @@ Nelle procedure di qualificazione occorre dimostrare di aver acquisito le compet
 
 Nella procedura di qualificazione con esame finale vengono esaminate, nel modo indicato, le competenze operative dei seguenti campi di qualificazione:
 
-- a. «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di 16 ore. L’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali. Il campo di qualificazione comprende i campi di competenze operative sottoelencati con le seguenti ponderazioni:
+- a.[^18-1]
+
+  «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di 16 ore; vale quanto segue:
+
+  - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base;
+  - 2\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione;
+  - 3\. è ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+  - 4\. il campo di qualificazione comprende i campi di competenze operative sottoelencati con le ponderazioni seguenti:
 
 <table>
-<tr><td>Voce</td><td>Campi di competenze operative</td><td>Ponderazione</td></tr>
-<tr><td>1.</td><td>Assemblaggio di componenti</td><td>10 %</td></tr>
+<tr><th>Voce</th><th>Campi di competenze operative</th><th>Ponderazione</th></tr>
+<tr><td>1.</td><td>Assemblaggio di componenti</td><td>20 %</td></tr>
 <tr><td>2.</td><td>Esecuzione di operazioni di rifinitura e regolazione</td><td>20 %</td></tr>
 <tr><td>3.</td><td>Esecuzione di operazioni post-vendita</td><td>40 %</td></tr>
 <tr><td>4.</td><td>Competenze specifiche in base all’orientamento (art. 4 cpv. 3 lett. a o b)</td><td>20 %</td></tr>
 </table>
 
-- b. «conoscenze professionali», della durata di otto ore. L’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base. Il campo di qualificazione «conoscenze professionali» comprende i campi di competenze operative e i tipi di esame sottoelencati con le seguenti ponderazioni:
-
-<table>
-<tr><td>Voce</td><td>Campi di competenze operative</td><td colspan="2">Tipo di esame/Durata</td><td>Ponderazione</td></tr>
-<tr><td></td><td></td><td>scritto</td><td>orale</td><td></td></tr>
-<tr><td>1.</td><td>Realizzazione di strumenti e attrezzi per lavori di orologeria</td><td>240 min.</td><td></td><td>40 %</td></tr>
-<tr><td>2.</td><td>Assemblaggio di componenti, esecuzione di operazioni di rifinitura e regolazione</td><td>180 min.</td><td></td><td>40 %</td></tr>
-<tr><td>3.</td><td>Esecuzione di operazioni post-vendita</td><td></td><td>30 min.</td><td>10 %</td></tr>
-<tr><td>4.</td><td>Esecuzione di controlli, applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente</td><td>30 min.</td><td></td><td>10 %</td></tr>
-</table>
-
-- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- b.[^18-2] «conoscenze professionali», della durata di quattro ore; il campo di qualificazione è valutato con un esame scritto verso la fine della formazione professionale di base e comprende tutti i campi di competenze operative;
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^18-3] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^18-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
+[^18-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 19
 
@@ -512,6 +521,16 @@ Sono abrogati:
 <sup>2</sup> Le persone che hanno concluso con successo la formazione di orologiaio pratico sono ammesse a frequentare l’anno di approfondimento per orologiaio indirizzo professionale riparazione oppure orologiaio indirizzo professionale industriale fino al 1° gennaio 2018.
 
 <sup>3</sup> Chi ripete la procedura di qualificazione con esame finale per orologiaio indirizzo professionale riparazione oppure orologiaio indirizzo professionale industriale entro il 31 dicembre 2020 viene valutato, su richiesta, in base al diritto anteriore.
+
+#### Art. 26a
+
+**Disposizioni transitorie della modifica del 22 dicembre 2020**[^26a-1]
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di orologiaio AFC prima della modifica del 22 dicembre 2020 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2027.
+
+<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per orologiaio AFC entro il 31 dicembre 2027 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+
+[^26a-1]: Introdotto dal n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 36](https://fedlex.data.admin.ch/eli/oc/2021/36)).
 
 #### Art. 27
 
