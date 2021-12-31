@@ -4,13 +4,13 @@ number: "140.1"
 title: Gesetz über die Gemeinden
 short: GG
 language: de
-version: 2021-09-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-20
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-06
 adopted: 1980-09-25
 in_force: 1982-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/140.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6923/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6952/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gemeinden – G
 
 (GG)
 
-vom 25.09.1980 (Fassung in Kraft getreten am 01.09.2021)
+vom 25.09.1980 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -1064,11 +1064,21 @@ beschliesst:
 
 <sup>1</sup> Um ihre Verfügungen durchzusetzen, ergreift die Gemeindebehörde die Massnahmen, die im Gesetz über die Verwaltungsrechtspflege vorgesehen sind.
 
+#### Art. 85a
+
+**Sanktionen der Gemeinden – Ordnungsbussen und andere strafrechtliche Sanktionen**
+
+<sup>1</sup> Die Gemeinden können Ordnungsbussen gemäss der Gesetzgebung über kantons- und bundesrechtliche Ordnungsbussen erheben.
+
+<sup>2</sup> Die übrigen strafrechtlichen Sanktionen richten sich nach den entsprechenden Artikeln dieses Gesetzes und im Übrigen nach der Spezialgesetzgebung.
+
 #### Art. 86
 
 **Strafverfahren – Strafen und Massnahmen**
 
 <sup>1</sup> Der Gemeinderat spricht die auf Gemeinderecht beruhenden Geldbussen und Ersatzfreiheitsstrafen sowie gegebenenfalls die Verrichtung einer gemeinnützigen Arbeit durch Strafbefehl aus. Er kann diese Befugnis nur seinen Mitgliedern übertragen. Der Strafbefehl enthält die Angaben nach Artikel 353 der Strafprozessordnung.
+
+<sup>1a</sup> Bei Ordnungsbussen, die von der Gemeinde erhoben werden können, spricht der Gemeinderat bei einem Scheitern des Ordnungsbussenverfahrens durch Strafbefehl gemäss den Einzelheiten von Absatz 1 auch Ordnungsbussen und Ersatzfreiheitsstrafen sowie gegebenenfalls die Verrichtung einer gemeinnützigen Arbeit aus.
 
 <sup>2</sup> Der Verurteilte kann innert 10 Tagen nach Zustellung des Strafbefehls beim Gemeinderat schriftlich Einsprache erheben. Die Staatsanwaltschaft kann nicht Einsprache erheben.
 

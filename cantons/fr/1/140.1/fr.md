@@ -4,13 +4,13 @@ number: "140.1"
 title: Loi sur les communes
 short: LCo
 language: fr
-version: 2021-09-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-20
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-06
 adopted: 1980-09-25
 in_force: 1982-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/140.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6923/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6952/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Communes – L
 
 (LCo)
 
-du 25.09.1980 (version entrée en vigueur le 01.09.2021)
+du 25.09.1980 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -1064,11 +1064,21 @@ Décrète:
 
 <sup>1</sup> Pour assurer l'exécution de ses décisions, l'autorité communale recourt aux moyens prévus par le code de procédure et de juridiction administrative.
 
+#### Art. 85a
+
+**Sanctions communales – Amendes d'ordre et autres sanctions pénales**
+
+<sup>1</sup> Les communes peuvent percevoir des amendes d'ordre conformément à la législation sur les amendes d'ordre de droit cantonal et de droit fédéral.
+
+<sup>2</sup> Les autres sanctions pénales sont régies par les articles y relatifs de la présente loi et au surplus par la législation spéciale.
+
 #### Art. 86
 
 **Procédure pénale – Peines et mesures**
 
 <sup>1</sup> Le conseil communal prononce en la forme de l'ordonnance pénale les amendes de droit communal, les peines privatives de liberté de substitution et, le cas échéant, l'exécution d'un travail d'intérêt général. Il ne peut déléguer ce pouvoir qu'à ses membres. L'ordonnance pénale contient les éléments mentionnés à l'article 353 du code de procédure pénale.
+
+<sup>1a</sup> En cas d'échec de la procédure de l'amende d'ordre pour des amendes d'ordre pouvant être infligées par la commune, le conseil communal prononce également en la forme de l'ordonnance pénale, selon les modalités prévues à l'alinéa 1, les amendes d'ordre, les peines privatives de liberté de substitution et, le cas échéant, l'exécution d'un travail d'intérêt général.
 
 <sup>2</sup> Le condamné peut faire opposition par écrit auprès du conseil communal, dans les dix jours dès la notification de l'ordonnance pénale. Le Ministère public ne peut pas faire opposition.
 
