@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Mai 2010 über das Inverkehrbringen von nach ausländ
 short: VIPaV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20200701/de"
 
 (Verordnung über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, VIPaV)
 
-vom 19. Mai 2010 (Stand am 1. Juli 2020)
+vom 19. Mai 2010 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -92,20 +92,11 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
     - – Verordnung vom 5. Dezember 1994[^2-27] über elektrische Anlagen von Bahnen
     - – Ausführungsbestimmungen zu den in dieser Ziffer genannten Erlassen,
 
-  - 3\.[^2-28]
+  - 3\.[^2-28] ...
+  - 4\. dem Edelmetallkontrollgesetz vom 20. Juni 1933[^2-29] unterstellte Waren, welche die Vorschriften betreffend Feingehalte und betreffend die Bezeichnung, Kennzeichnung und materielle Zusammensetzung nach den Artikeln 1–3 und 5–21 des Edelmetallkontrollgesetzes nicht erfüllen,
+  - 5\.[^2-30]
 
-    die folgenden Geräte bis 350 kW Feuerungswärmeleistung, sofern sie die Anforderungen nach Anhang 4 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^2-29] (LRV) nicht erfüllen, sie nicht von einer bezeichneten harmonisierten technischen Norm nach Artikel 12 des Bauproduktegesetzes vom 21. März 2014[^2-30] (BauPG) erfasst werden und für sie keine Europäische Technische Bewertung nach Artikel 13 BauPG ausgestellt wurde:
-
-    - –[^2-31] ...
-    - –[^2-32] ...
-    - –[^2-33] ...
-    - –[^2-34] ...
-    - – Feuerungsanlagen für Holz und Kohle; für diese Anlagen gelten die beiden letztgenannten Voraussetzungen des Einleitungssatzes nicht, sofern Mitgliedstaaten des Europäischen Wirtschaftsraumes von der Verordnung (EU) Nr. 2015/1185[^2-35] abweichende länderspezifische Emissions- und Wirkungsgradvorschriften erlassen dürfen,
-
-  - 4\. dem Edelmetallkontrollgesetz vom 20. Juni 1933[^2-36] unterstellte Waren, welche die Vorschriften betreffend Feingehalte und betreffend die Bezeichnung, Kennzeichnung und materielle Zusammensetzung nach den Artikeln 1–3 und 5–21 des Edelmetallkontrollgesetzes nicht erfüllen,
-  - 5\.[^2-37]
-
-    die folgenden Geräte, welche die technischen Vorschriften gemäss den Artikeln 3–8 sowie den Anhängen 1.1, 1.3, 1.15, 1.21, 2.4 und 3.2 der Energieeffizienzverordnung vom 1. November 2017[^2-38] nicht einhalten:
+    die folgenden Geräte, welche die technischen Vorschriften gemäss den Artikeln 3–8 sowie den Anhängen 1.1, 1.3, 1.15, 1.21, 2.4 und 3.2 der Energieeffizienzverordnung vom 1. November 2017[^2-31] nicht einhalten:
 
     - – netzbetriebene Kühl-, Tiefkühl- und Gefriergeräte sowie deren Kombinationen
     - – netzbetriebene Haushaltswäschetrockner
@@ -114,11 +105,11 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
     - – netzbetriebene komplexe Set-Top-Boxen
     - – netzbetriebene Haushaltskaffeemaschinen,
 
-  - 6\.[^2-39] der Verordnung vom 4. Juni 2010[^2-40] über die Deklaration von Holz und Holzprodukten unterstellte Hölzer und Holzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2–4 der genannten Verordnung nicht erfüllen,
-  - 7\.[^2-41] Baumaschinen nach Artikel 19*a* der LRV, sofern sie die Anforderungen nach Anhang 4 Ziffer 3 LRV nicht erfüllen,
-  - 8\.[^2-42] der Pelzdeklarationsverordnung vom 7. Dezember 2012[^2-43] unterstellte Pelze und Pelzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2*a*–7 der genannten Verordnung nicht erfüllen,
-  - 9\.[^2-44] andere Elektrizitätszähler als Wirkenergiezähler, für die das Eidgenössische Justiz- und Polizeidepartement gestützt auf Artikel 33 der Messmittelverordnung vom 15. Februar 2006[^2-45] Bestimmungen erlassen hat, insbesondere Elektrizitätszähler für die Blindenergiemessung, die Leistungsmessung oder die Lastgangbildung,
-  - 10\.[^2-46] naturbelassene Holzpellets und -briketts, sofern sie die Anforderungen nach Anhang 5 Ziffer 32 LRV nicht erfüllen.
+  - 6\.[^2-32] der Verordnung vom 4. Juni 2010[^2-33] über die Deklaration von Holz und Holzprodukten unterstellte Hölzer und Holzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2–4 der genannten Verordnung nicht erfüllen,
+  - 7\.[^2-34] Baumaschinen nach Artikel 19*a* der Luftreinhalte-Verordnung vom 16. Dezember 1985[^2-35] (LRV), sofern sie die Anforderungen nach Anhang 4 Ziffer 3 LRV nicht erfüllen,
+  - 8\.[^2-36] der Pelzdeklarationsverordnung vom 7. Dezember 2012[^2-37] unterstellte Pelze und Pelzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2*a*–7 der genannten Verordnung nicht erfüllen,
+  - 9\.[^2-38] andere Elektrizitätszähler als Wirkenergiezähler, für die das Eidgenössische Justiz- und Polizeidepartement gestützt auf Artikel 33 der Messmittelverordnung vom 15. Februar 2006[^2-39] Bestimmungen erlassen hat, insbesondere Elektrizitätszähler für die Blindenergiemessung, die Leistungsmessung oder die Lastgangbildung,
+  - 10\.[^2-40] naturbelassene Holzpellets und -briketts, sofern sie die Anforderungen nach Anhang 5 Ziffer 32 LRV nicht erfüllen.
 
 [^2-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Aufgehoben durch Ziff. II 2 der V vom 17. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -147,25 +138,19 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
 [^2-25]: [SR 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
 [^2-26]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
 [^2-27]: [[AS 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024), [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 5 [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang 5, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 6, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)Art. 10 Ziff. 1 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. II 5, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. 6. [AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)Anhang 2 Ziff. II]
-[^2-28]: Fassung gemäss Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^2-29]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-30]: [SR 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
-[^2-31]: Aufgehoben durch Ziff. III der V vom 11. April 2018, in Kraft seit 26. Sept. 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-32]: Aufgehoben durch Ziff. III der V vom 11. April 2018, in Kraft seit 26. Sept. 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-33]: Aufgehoben durch Ziff. III der V vom 11. April 2018, in Kraft seit 26. Sept. 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-34]: Aufgehoben durch Ziff. III der V vom 11. April 2018, in Kraft seit 26. Sept. 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-35]: Verordnung (EU) Nr. 2015/1185 der Kommission vom 24. April 2015 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Festbrennstoff-Einzelraumheizgeräten, Fassung gemäss ABl. L 193 vom 21.7.2015, S. 1.
-[^2-36]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-37]: Fassung gemäss Ziff. III der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
-[^2-38]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^2-39]: Eingefügt durch Art. 10 der V vom 4. Juni 2010 über die Deklaration von Holz und Holzprodukten, in Kraft seit 1. Okt. 2010 ([AS 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-40]: [SR 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
-[^2-41]: Eingefügt durch Ziff. I 4 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich, in Kraft seit 1. Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
-[^2-42]: Eingefügt durch Art. 13 der Pelzdeklarationsverordnung vom 7. Dez. 2012 ([AS 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-43]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
-[^2-44]: Eingefügt durch Ziff. I der V vom 26. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2014 3121](https://fedlex.data.admin.ch/eli/oc/2014/525)).
-[^2-45]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^2-46]: Eingefügt durch Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-28]: Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2022 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-29]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-30]: Fassung gemäss Ziff. III der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^2-31]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^2-32]: Eingefügt durch Art. 10 der V vom 4. Juni 2010 über die Deklaration von Holz und Holzprodukten, in Kraft seit 1. Okt. 2010 ([AS 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
+[^2-33]: [SR 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
+[^2-34]: Eingefügt durch Ziff. I 4 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich, in Kraft seit 1. Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^2-35]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^2-36]: Eingefügt durch Art. 13 der Pelzdeklarationsverordnung vom 7. Dez. 2012 ([AS 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-37]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-38]: Eingefügt durch Ziff. I der V vom 26. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2014 3121](https://fedlex.data.admin.ch/eli/oc/2014/525)).
+[^2-39]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-40]: Eingefügt durch Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 3
 

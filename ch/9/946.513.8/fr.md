@@ -4,11 +4,11 @@ title: "Ordonnance du 19 mai 2010 réglant la mise sur le marché de produits fa
 short: OPPEtr
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: fr
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20200701/fr"
 
 (Ordonnance sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, OPPEtr)
 
-du 19 mai 2010 (Etat le 1<sup>er</sup> juillet 2020)
+du 19 mai 2010 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -54,7 +54,7 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
   les produits suivants qui sont traités avec des produits chimiques ou qui en contiennent:
 
   - 1\. les peintures et les vernis contenant du plomb ainsi que les produits traités avec ces peintures et vernis (annexe 2.8 de l’O du 18 mai 2005 sur la réduction des risques liés aux produits chimiques, ORRChim[^2-1]),
-  - 2\.[^2-2] ...
+  - 2\.[^2-2] …
   - 3\.[^2-3] les substances et les préparations dangereuses dont l’étiquette ne fait pas mention du fabricant conformément à l’art. 10, al. 3, let. a, de l’ordonnance du 5 juin 2015 sur les produits chimiques (OChim)[^2-4], de même que les substances et les préparations visées à l’art. 19 OChim dont la fiche de données de sécurité n’est pas conforme à l’annexe 2, ch. 3.2, OChim,
   - 4\.[^2-5] les substances stables dans l’air ainsi que les préparations et les produits qui ne satisfont pas aux exigences énoncées aux annexes 1.5, 2.3, 2.9, 2.10, 2.11 et 2.12 ORRChim,
   - 5\. le bois et les matériaux en bois qui ne satisfont pas aux exigences énoncées aux annexes 2.4, ch. 1, et 2.17 ORRChim,
@@ -92,20 +92,11 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
     - – l’ordonnance du 5 décembre 1994 sur les installations électriques des chemins de fer[^2-27]
     - – les dispositions d’exécution des actes législatifs mentionnés au présent chiffre,
 
-  - 3\.[^2-28]
+  - 3\.[^2-28] …
+  - 4\. les ouvrages soumis à la loi du 20 juin 1933 sur le contrôle des métaux précieux[^2-29] qui ne sont pas conformes aux prescriptions concernant les titres et à celles concernant la désignation, le marquage et la composition matérielle énumérées aux art. 1 à 3 et 5 à 21 de ladite loi,
+  - 5\.[^2-30]
 
-    les appareils suivants, jusqu’à 350 kW de puissance calorifique, dans la mesure où ils ne satisfont pas aux exigences prévues à l’annexe 4 de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^2-29], ne sont pas couverts par une norme technique harmonisée selon l’art. 12 de la loi fédérale du 21 mars 2014 sur les produits de construction (LPCo)[^2-30] et ne font pas l’objet d’une évaluation technique fondée sur un document d’évaluation européen au sens de l’art. 13 LPCo:
-
-    - – [^2-31] ...
-    - – [^2-32] ...
-    - – [^2-33] ...
-    - – [^2-34] ...
-    - – les installations de combustion à bois ou à charbon; les deux dernières conditions de la phrase introductive ne s’appliquent pas à ces installations, dans la mesure où les États membres de l’Espace économique européen peuvent édicter des prescriptions nationales relatives aux émissions et au rendement divergentes du règlement (UE) 2015/1185[^2-35],
-
-  - 4\. les ouvrages soumis à la loi du 20 juin 1933 sur le contrôle des métaux précieux[^2-36] qui ne sont pas conformes aux prescriptions concernant les titres et à celles concernant la désignation, le marquage et la composition matérielle énumérées aux art. 1 à 3 et 5 à 21 de ladite loi,
-  - 5\.[^2-37]
-
-    les appareils suivants qui ne respectent pas les prescriptions techniques prévues aux art. 3 à 8 et aux annexes 1.1, 1.3, 1.15, 1.21, 2.4 et 3.2 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^2-38]:
+    les appareils suivants qui ne respectent pas les prescriptions techniques prévues aux art. 3 à 8 et aux annexes 1.1, 1.3, 1.15, 1.21, 2.4 et 3.2 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^2-31]:
 
     - – les appareils de réfrigération et les congélateurs alimentés par le secteur et les combinaisons de tels appareils
     - – les sèche-linge domestiques à tambour alimentés par le secteur
@@ -114,11 +105,11 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
     - – les décodeurs (set-top box) complexes alimentés par le secteur
     - – les machines à café domestiques alimentées par le secteur,
 
-  - 6\.[^2-39] les bois et les produits en bois soumis à l’ordonnance du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois[^2-40] qui ne satisfont pas aux prescriptions relatives à la déclaration énoncées aux art. 2 à 4 de ladite ordonnance,
-  - 7\.[^2-41] les machines de chantier visées à l’art. 19*a* de l’OPair[^2-42], si elles ne satisfont pas aux exigences énoncées à l’annexe 4, ch. 3, OPair,
-  - 8\.[^2-43] Les fourrures et les produits de la pelleterie soumis aux dispositions de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des produits de la pelleterie[^2-44] qui ne respectent pas les art. 2*a* à 7 de ladite ordonnance,
-  - 9\.[^2-45] les compteurs d’électricité autres que les compteurs d’énergie active, pour lesquels le Département fédéral de justice et police a édicté des prescriptions selon l’art. 33 de l’ordonnance du 15 février 2006 sur les instruments de mesure[^2-46], notamment les compteurs pour la mesure de l’énergie réactive, la mesure de la puissance ou l’établissement de la courbe de charge,
-  - 10\.[^2-47] les granulés et les briquettes de bois à l’état naturel dans la mesure où ils ne remplissent pas les exigences au sens de l’annexe 5, ch. 32 OPair.
+  - 6\.[^2-32] les bois et les produits en bois soumis à l’ordonnance du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois[^2-33] qui ne satisfont pas aux prescriptions relatives à la déclaration énoncées aux art. 2 à 4 de ladite ordonnance,
+  - 7\.[^2-34] les machines de chantier visées à l’art. 19*a* de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^2-35], si elles ne satisfont pas aux exigences énoncées à l’annexe 4, ch. 3, OPair,
+  - 8\.[^2-36] Les fourrures et les produits de la pelleterie soumis aux dispositions de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des produits de la pelleterie[^2-37] qui ne respectent pas les art. 2*a* à 7 de ladite ordonnance,
+  - 9\.[^2-38] les compteurs d’électricité autres que les compteurs d’énergie active, pour lesquels le Département fédéral de justice et police a édicté des prescriptions selon l’art. 33 de l’ordonnance du 15 février 2006 sur les instruments de mesure[^2-39], notamment les compteurs pour la mesure de l’énergie réactive, la mesure de la puissance ou l’établissement de la courbe de charge,
+  - 10\.[^2-40] les granulés et les briquettes de bois à l’état naturel dans la mesure où ils ne remplissent pas les exigences au sens de l’annexe 5, ch. 32 OPair.
 
 [^2-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Abrogé par le ch. II 2 de l’O du 17 avr. 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -147,26 +138,19 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
 [^2-25]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
 [^2-26]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
 [^2-27]: [[RO 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024), [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)annexe ch. 5 [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)annexe 5, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)annexe ch. 6, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 ch. 1 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. II 5, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. 6. [RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)annexe 2 ch. I]
-[^2-28]: Nouvelle teneur selon le ch. III de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^2-29]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-30]: [RS 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
-[^2-31]: Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 26 sept. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-32]: Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 26 sept. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-33]: Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 26 sept. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-34]: Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 26 sept. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-35]: Règlement (UE) 2015/1185 de la Commission du 24 avril 2015 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux dispositifs de chauffage décentralisés à combustible solide. Nouvelle teneur selon JO L 193 du 21.7.2015, p. 1.
-[^2-36]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-37]: Nouvelle teneur selon le ch. III de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
-[^2-38]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^2-39]: Introduit par l’art. 10 de l’O du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-40]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
-[^2-41]: Introduit par le ch. I 4 de l’O du 29 juin 2011 sur des adaptations d’O dans le domaine de l’environnement, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
-[^2-42]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-43]: Introduit par l’art. 13 de l’O du 7 déc. 2012 sur la déclaration des fourrures ([RO 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-44]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
-[^2-45]: Introduit par le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
-[^2-46]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^2-47]: Introduit par le ch. III de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-28]: Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-29]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-30]: Nouvelle teneur selon le ch. III de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^2-31]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^2-32]: Introduit par l’art. 10 de l’O du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
+[^2-33]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
+[^2-34]: Introduit par le ch. I 4 de l’O du 29 juin 2011 sur des adaptations d’O dans le domaine de l’environnement, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^2-35]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^2-36]: Introduit par l’art. 13 de l’O du 7 déc. 2012 sur la déclaration des fourrures ([RO 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-37]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-38]: Introduit par le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
+[^2-39]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-40]: Introduit par le ch. III de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 3
 
@@ -457,6 +441,6 @@ Annexe
 
 ## Modification du droit en vigueur
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350).

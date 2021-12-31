@@ -4,11 +4,11 @@ title: "Ordinanza del 19 maggio 2010 concernente l'immissione in commercio di pr
 short: OIPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20200701/it"
 
 (Ordinanza sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, OIPPE)
 
-del 19 maggio 2010 (Stato 1° luglio 2020)
+del 19 maggio 2010 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -85,40 +85,31 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
 
     infrastrutture ferroviarie e veicoli ferroviari non conformi alle prescrizioni tecniche svizzere rilevanti in materia di sicurezza previste dai seguenti atti normativi:
 
-    - – legge federale del 20 dicembre 1957[^2-23] sulle ferrovie
-    - – ordinanza del 23 novembre 1983[^2-24] sulle ferrovie
-    - – disposizioni d’esecuzione del 22 maggio 2006[^2-25] dell’ordinanza sulle ferrovie, 6<sup>a</sup> revisione
-    - – legge del 24 giugno 1902[^2-26] sugli impianti elettrici
-    - – ordinanza del 5 dicembre 1994[^2-27] sulle installazioni elettriche delle ferrovie
+    - – legge federale del 20 dicembre 1957[^2-23] sulle ferrovie,
+    - – ordinanza del 23 novembre 1983[^2-24] sulle ferrovie,
+    - – disposizioni d’esecuzione del 22 maggio 2006[^2-25] dell’ordinanza sulle ferrovie, 6<sup>a</sup> revisione,
+    - – legge del 24 giugno 1902[^2-26] sugli impianti elettrici,
+    - – ordinanza del 5 dicembre 1994[^2-27] sulle installazioni elettriche delle ferrovie,
     - – disposizioni d’esecuzione degli atti normativi menzionati nel presente numero,
 
-  - 3\.[^2-28]
+  - 3\. ... [^2-28]
+  - 4\. i lavori soggetti alla legge del 20 giugno 1933[^2-29] sul controllo dei metalli preziosi che non soddisfano le prescrizioni in materia di titoli e di designazione, caratterizzazione e composizione materiale di cui agli articoli 1–3 e 5–21 della suddetta legge,
+  - 5\.[^2-30]
 
-    i seguenti apparecchi con una potenza termica pari o inferiore a 350 kW nella misura in cui non soddisfano le esigenze di cui all’allegato 4 dell’ordinanza del 16 dicembre 1985[^2-29] contro l’inquinamento atmosferico (OIAt), non rientrano nel campo d’applicazione di una norma tecnica armonizzata designata di cui all’articolo 12 della legge federale del 21 marzo 2014[^2-30] concernente i prodotti da costruzione (LProdC) e per gli stessi non è stata rilasciata alcuna valutazione tecnica europea di cui all’articolo 13 LProdC:
+    i seguenti apparecchi che non rispettano le prescrizioni tecniche di cui agli articoli 3–8 e agli allegati 1.1, 1.3, 1.6, 1.15, 2.4 e 3.2 dell’ordinanza del 1° novembre 2017[^2-31] sull’efficienza energetica:
 
-    - –[^2-31] ...
-    - –[^2-32] ...
-    - –[^2-33] ...
-    - –[^2-34] ...
-    - – impianti a combustione alimentati con legna e carbone; per questi impianti non si applicano le ultime due condizioni menzionate nella frase introduttiva se gli Stati membri dello Spazio economico europeo possono emanare a livello nazionale prescrizioni relative alle emissioni e al rendimento in deroga al regolamento (UE) n. 2015/1185[^2-35],
-
-  - 4\. i lavori soggetti alla legge del 20 giugno 1933[^2-36] sul controllo dei metalli preziosi che non soddisfano le prescrizioni in materia di titoli e di designazione, caratterizzazione e composizione materiale di cui agli articoli 1–3 e 5–21 della suddetta legge,
-  - 5\.[^2-37]
-
-    i seguenti apparecchi che non rispettano le prescrizioni tecniche di cui agli articoli 3–8 e agli allegati 1.1, 1.3, 1.15, 1.21, 2.4 e 3.2 dell’ordinanza del 1° novembre 2017[^2-38] sull’efficienza energetica:
-
-    - – frigoriferi e congelatori con raccordo alla rete e relative combinazioni
-    - – asciugabiancheria domestiche con raccordo alla rete
-    - – serbatoi di accumulo dell’acqua calda con un volume utile ≤ 500 litri
-    - – refrigeratori per bevande con funzione di vendita diretta e con raccordo alla rete, armadi frigorifero da supermercato verticali e combinati e armadi congelatori da supermercato verticali e combinati
-    - – set top box complessi con raccordo alla rete
+    - – frigoriferi e congelatori con raccordo alla rete e relative combinazioni,
+    - – asciugabiancheria domestiche con raccordo alla rete,
+    - – forni con raccordo alla rete,
+    - – serbatoi di accumulo dell’acqua calda con un volume utile ≤ 500 litri,
+    - – set top box complessi con raccordo alla rete,
     - – macchine da caffè per uso domestico con raccordo alla rete,
 
-  - 6\.[^2-39] legno e prodotti del legno soggetti all’ordinanza del 4 giugno 2010[^2-40] sulla dichiarazione concernente il legno e i prodotti del legno, che non soddisfano le prescrizioni in materia di dichiarazione di cui agli articoli 2–4 di detta ordinanza,
-  - 7\.[^2-41] macchine di cantiere secondo l’articolo 19*a* OIAt se non soddisfano i requisiti di cui all’allegato 4 numero 3 OIAt,
-  - 8\.[^2-42] pellicce e prodotti di pellicceria soggetti all’ordinanza del 7 dicembre 2012[^2-43] sulla dichiarazione delle pellicce, non conformi alle prescrizioni di cui agli articoli 2*a*–7 dell’ordinanza suddetta, relative alla dichiarazione,
-  - 9\.[^2-44] i contatori d’elettricità diversi dai contatori di energia attiva per i quali il Dipartimento federale di giustizia e polizia ha emanato disposizioni in virtù dell’articolo 33 dell’ordinanza del 15 febbraio 2006[^2-45] sugli strumenti di misurazione, segnatamente i contatori d’elettricità per la misurazione dell’energia reattiva, la misurazione della potenza e la creazione del profilo di carico,
-  - 10\.[^2-46] pellet e mattonelle in legno allo stato naturale, nella misura in cui non soddisfano le esigenze di cui all’allegato 5 cifra 32 OIAt.
+  - 6\.[^2-32] legno e prodotti del legno soggetti all’ordinanza del 4 giugno 2010[^2-33] sulla dichiarazione concernente il legno e i prodotti del legno, che non soddisfano le prescrizioni in materia di dichiarazione di cui agli articoli 2–4 di detta ordinanza,
+  - 7\.[^2-34] macchine di cantiere secondo l’articolo 19*a* dell’ordinanza del 16 dicembre 1985[^2-35] contro l’inquinamento atmosferico (OIAt) se non soddisfano i requisiti di cui all’allegato 4 numero 3 OIAt,
+  - 8\.[^2-36] pellicce e prodotti di pellicceria soggetti all’ordinanza del 7 dicembre 2012[^2-37] sulla dichiarazione delle pellicce, non conformi alle prescrizioni di cui agli articoli 2*a*–7 dell’ordinanza suddetta, relative alla dichiarazione,
+  - 9\.[^2-38] i contatori d’elettricità diversi dai contatori di energia attiva per i quali il Dipartimento federale di giustizia e polizia ha emanato disposizioni in virtù dell’articolo 33 dell’ordinanza del 15 febbraio 2006[^2-39] sugli strumenti di misurazione, segnatamente i contatori d’elettricità per la misurazione dell’energia reattiva, la misurazione della potenza e la creazione del profilo di carico,
+  - 10\.[^2-40] pellet e mattonelle in legno allo stato naturale, nella misura in cui non soddisfano le esigenze di cui all’allegato 5 cifra 32 OIAt.
 
 [^2-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Abrogato dal n. II 2 dell’O del 17 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -147,25 +138,19 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
 [^2-25]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
 [^2-26]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
 [^2-27]: [[RU 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024), [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 5 [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)all. 5, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 6, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 n. 1 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. II 5, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. 6. [RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)all. 2 n. I]
-[^2-28]: Nuovo testo giusta il n. III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^2-29]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-30]: [RS 933.0](https://fedlex.data.admin.ch/eli/cc/2014/495)
-[^2-31]: Abrogata dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° set. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-32]: Abrogata dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° set. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-33]: Abrogata dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° set. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-34]: Abrogata dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° set. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-35]: Regolamento (UE) n. 2015/1185 della Commissione, del 24 aprile 2015, recante modalità di applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio in merito alle specifiche per la progettazione ecocompatibile degli apparecchi per il riscaldamento d'ambiente locale a combustibile solido, GU L 193 del 21.7.2015, pag. 1.
-[^2-36]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-37]: Nuovo testo giusta il n. III dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
-[^2-38]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^2-39]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-40]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
-[^2-41]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-42]: Introdotto dall’art. 13 dell’O del 7 dic. 2012 sulla dichiarazione delle pellicce ([RU 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nuovo testo giusta il n. II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-43]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
-[^2-44]: Introdotto dal n. I dell’O del 26 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
-[^2-45]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^2-46]: Introdotto dal n. III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-28]: Abrogato dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2022 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-29]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-30]: Nuovo testo giusta l’all. 5 n. 1 dell’O del 1° nov. 2017 sull’efficienza energetica, in vigore dal 1° gen. 2018 ([RU 2017 6951](https://fedlex.data.admin.ch/eli/oc/2017/765)).
+[^2-31]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^2-32]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
+[^2-33]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
+[^2-34]: Introdotto dal n. I 4 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale, in vigore dal 1° ago. 2011 ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
+[^2-35]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^2-36]: Introdotto dall’art. 13 dell’O del 7 dic. 2012 sulla dichiarazione delle pellicce ([RU 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nuovo testo giusta il n. II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-37]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-38]: Introdotto dal n. I dell’O del 26 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
+[^2-39]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-40]: Introdotto dal n. III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 3
 
@@ -379,7 +364,7 @@ Prima di una contestazione, l’organo cantonale di controllo per le derrate ali
 
 <sup>1</sup> Se l’autorità competente della Confederazione adotta misure secondo l’articolo 20 LOTC sotto forma di una decisione di portata generale conformemente all’articolo 19 capoverso 7 LOTC, la decisione è pubblicata nel Foglio federale.
 
-<sup>2</sup> L’autorità competente della Confederazione pubblica il passaggio in giudicato della decisione di portata generale nel Foglio federale.
+<sup>2</sup> L’autorità competente della Confederazione pubblica il passaggio in giudicato della decisione di portata generale nel Foglio federale
 
 <sup>3</sup> L’autorità competente della Confederazione informa senza indugio l’organo cantonale di esecuzione competente, la SECO e la Commissione della concorrenza in merito alla pubblicazione di una decisione generale e al suo passaggio in giudicato.
 
