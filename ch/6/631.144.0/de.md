@@ -3,18 +3,18 @@ sr: "631.144.0"
 title: Verordnung vom 23. August 1989 über Zollvorrechte der diplomatischen Missionen in Bern und der konsularischen Posten in der Schweiz
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781"
 language: de
-version: 2007-05-01
+version: 2022-01-01
 adopted: 1989-08-23
 in_force: 1990-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781/20070501/de/xml/fedlex-data-admin-ch-eli-cc-1989-1781_1781_1781-20070501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1781_1781_1781/20070501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1989-1781_1781_1781-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1781_1781_1781/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Zollvorrechte der diplomatischen Missionen in Bern und der konsularischen Posten in der Schweiz
 
-vom 23. August 1989 (Stand am 1. Mai 2007)
+vom 23. August 1989 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -22,8 +22,8 @@ gestützt auf die Artikel 2 Absatz 2, 8 Absatz 1 Buchstabe a und 130 des Zollges
 
 verordnet:
 
-[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## 1. Kapitel: Diplomatische Missionen in Bern
 
@@ -41,7 +41,7 @@ verordnet:
 
 <sup>4</sup> Für die Einfuhr der übrigen Motorfahrzeuge und den Bezug von abgabenfreiem Treibstoff gelten die Artikel 23, 26, 30 und 31.
 
-[^1-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^1-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -63,13 +63,13 @@ Die Sendungen müssen an eine diplomatische Mission oder an einen ihrer Speziald
 
 <sup>5</sup> Verträgt die Veranlagung einer Sendung, für die das besondere Anmeldeformular fehlt, keinen Aufschub, so kann die Sendung provisorisch veranlagt werden. Es obliegt der Mission, innerhalb von 60 Tagen die nachträgliche abgabenfreie Zulassung entsprechend den Absätzen 1–4 zu beantragen.
 
-[^3-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^3-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 4
 
 [^4-1]
 
-[^4-1]: Aufgehoben durch Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, mit Wirkung seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^4-1]: Aufgehoben durch Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, mit Wirkung seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 5
 
@@ -77,7 +77,7 @@ Die Sendungen müssen an eine diplomatische Mission oder an einen ihrer Speziald
 
 Im Post- und Kurierverkehr oder als Luftfracht beförderte Sendungen mit Drucksachen, Büchern und Veröffentlichungen, die an diplomatische Missionen adressiert und für deren ausschliesslichen Gebrauch bestimmt sind, werden den Empfängern ohne das in Artikel 3 Absatz 1 erwähnte besondere Anmeldeformular zugestellt.
 
-[^5-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^5-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### 2. Abschnitt: Vorrechte der diplomatischen Vertreter
 
@@ -102,7 +102,7 @@ Die Mitglieder des diplomatischen Personals der Missionen und die zu ihrem Haush
 
 <sup>6</sup> Für die Einfuhr der übrigen Motorfahrzeuge und den Bezug von abgabenfreiem Treibstoff gelten die Artikel 24, 26, 30 und 31.
 
-[^6-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^6-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 7
 
@@ -125,7 +125,7 @@ Mitglieder des diplomatischen Personals, die die abgabenfreie Einfuhr von Gegens
 
 <sup>6</sup> Das Recht auf Beschau nach Artikel 36 des Zollgesetzes vom 18. März 2005 bleibt vorbehalten.
 
-[^7-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^7-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 8
 
@@ -146,10 +146,10 @@ Bei der Einfuhr von Gegenständen im Reiseverkehr gilt folgendes Verfahren:
 
 <sup>5</sup> Die in den Absätzen 1–4 erwähnten Erleichterungen werden nur gewährt, wenn die einreisende Person den vom Eidgenössischen Departement für auswärtige Angelegenheiten ausgestellten Ausweis vorweist, es sei denn, es handle sich um die erste Einreise zum Postenantritt.
 
-[^8-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-3]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-4]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^8-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-3]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-4]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### 3. Abschnitt: Vorrechte der Mitglieder des Verwaltungs- und technischen Personals der Missionen
 
@@ -167,7 +167,7 @@ Bei der Einfuhr von Gegenständen im Reiseverkehr gilt folgendes Verfahren:
 
 <sup>5</sup> Für die Einfuhr der übrigen Motorfahrzeuge gelten die Artikel 25 und 26.
 
-[^9-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^9-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 10
 
@@ -179,8 +179,8 @@ Bei der Einfuhr von Gegenständen im Reiseverkehr gilt folgendes Verfahren:
 
 <sup>3</sup> Das Recht auf Beschau nach Artikel 36 des Zollgesetzes vom 18. März 2005 bleibt vorbehalten. Will die Zollstelle die Sendung beschauen und wünscht der Empfänger, dass dies an seinem Domizil geschieht, so hat er die hiefür vorgesehene Gebühr zu entrichten.[^10-2]
 
-[^10-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^10-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^10-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^10-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### 4. Abschnitt: Vorrechte der Mitglieder des dienstlichen Hauspersonals der Missionen und der privaten Hausangestellten von Missionschefs
 
@@ -190,8 +190,8 @@ Bei der Einfuhr von Gegenständen im Reiseverkehr gilt folgendes Verfahren:
 
 <sup>2</sup> Die Einfuhr und das Vorgehen richten sich nach Artikel 14 der Zollverordnung vom 1. November 2006[^11-1].[^11-2]
 
-[^11-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^11-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^11-1]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^11-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## 2. Kapitel: Konsularische Posten in der Schweiz
 
@@ -231,13 +231,13 @@ Die Sendungen müssen an einen konsularischen Posten adressiert und für den Adr
 
 <sup>7</sup> Verträgt die Veranlagung einer Sendung, für die das besondere Anmeldeformular fehlt, keinen Aufschub, so kann die Sendung provisorisch veranlagt werden. Es obliegt dem konsularischen Posten, innert 60 Tagen die nachträgliche abgabenfreie Zulassung entsprechend den Absätzen 1–5 zu beantragen.
 
-[^14-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^14-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Aufgehoben durch Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^15-1]: Aufgehoben durch Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 16
 
@@ -268,7 +268,7 @@ Die Berufskonsularbeamten ausländischer Nationalität und die zu ihrem Haushalt
 
 <sup>6</sup> Dieser Artikel ist auf Honorar-Konsularbeamte nicht anwendbar. Für solche Personen bestimmte Gegenstände unterliegen den allgemeinen Bestimmungen der Zollgesetzgebung.
 
-[^17-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^17-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 18
 
@@ -291,7 +291,7 @@ Berufskonsularbeamte, die die abgabenfreie Einfuhr von Gegenständen für ihre E
 
 <sup>6</sup> Das Recht auf Beschau nach Artikel 36 des Zollgesetzes vom 18. März 2005 bleibt vorbehalten.
 
-[^18-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^18-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 19
 
@@ -309,10 +309,10 @@ Führen Berufskonsularbeamte und zu ihrem Haushalt gehörende Familienmitglieder
 
 <sup>3</sup> Die in den Absätzen 1 und 2 erwähnten Erleichterungen werden nur gewährt, wenn die einreisende Person den vom Eidgenössischen Departement für auswärtige Angelegenheiten ausgestellten Ausweis vorweist, es sei denn, es handle sich um die erste Einreise zum Postenantritt.
 
-[^19-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^19-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^19-3]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^19-4]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^19-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^19-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^19-3]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^19-4]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### 3. Abschnitt: Vorrechte der Konsularangestellten
 
@@ -358,9 +358,9 @@ Es gilt Artikel 11 sinngemäss.
 
 <sup>4</sup> Personenautomobile, Motorboote und Flugzeuge, die der Gesuchsteller vor seinem Postenantritt während mindestens sechs Monaten im Ausland benutzt hat, werden gestützt auf Artikel 14 der Zollverordnung vom 1. November 2006[^24-2] abgabenfrei zugelassen.[^24-3]
 
-[^24-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^24-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^24-3]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^24-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^24-2]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^24-3]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 25
 
@@ -374,8 +374,8 @@ Es gilt Artikel 11 sinngemäss.
 
 <sup>4</sup> Personenautomobile, Motorboote und Flugzeuge, die der Gesuchsteller vor seinem Postenantritt während mindestens sechs Monaten im Ausland benutzt hat, werden gestützt auf Artikel 14 der Zollverordnung 1. November 2006[^25-1] abgabenfrei zugelassen.[^25-2]
 
-[^25-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^25-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^25-1]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^25-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 26
 
@@ -387,8 +387,8 @@ Es gilt Artikel 11 sinngemäss.
 
 <sup>3</sup> Verpflichtungen betreffend Motorfahrzeuge, die für den amtlichen Gebrauch der diplomatischen Missionen oder der konsularischen Posten bestimmt sind, müssen vom Chef der diplomatischen Mission oder des konsularischen Postens oder von ihren bevollmächtigten Vertretern unterschrieben und mit dem Amtsstempel versehen sein. Verpflichtungen für Fahrzeuge von konsularischen Posten und für persönliche Fahrzeuge sind zusätzlich vom Chef der diplomatischen Mission oder von seinem bevollmächtigten Vertreter zu beglaubigen und mit dem Amtsstempel zu versehen, ausser es bestehe keine diplomatische Mission in Bern.
 
-[^26-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^26-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^26-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^26-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 27
 
@@ -404,10 +404,10 @@ Wird der Berechtigte amtlich ins Ausland versetzt, so können Strassenfahrzeuge 
 - b. 50 Prozent vor Ablauf von zwei Jahren;
 - c. 25 Prozent vor Ablauf von drei Jahren.
 
-<sup>3</sup> …[^27-2]
+<sup>3</sup> ...[^27-2]
 
-[^27-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^27-2]: Aufgehoben durch Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^27-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^27-2]: Aufgehoben durch Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 28
 
@@ -453,7 +453,7 @@ Dieser Ausweis kann nur denjenigen Berechtigten abgegeben werden, die sich auf e
 
 <sup>4</sup> Der Treibstoffausweis ist unverzüglich der Zollstelle Bern zurückzugeben, wenn das fragliche Fahrzeug veräussert wird oder wenn der Inhaber des Ausweises das Recht auf Abgabenfreiheit verliert.
 
-[^31-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^31-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## 4. Kapitel: Diplomatisches und konsularisches Kuriergepäck
 
@@ -485,8 +485,8 @@ Dieser Ausweis kann nur denjenigen Berechtigten abgegeben werden, die sich auf e
 
 <sup>2</sup> Die übrigen Bestimmungen der Bundesgesetzgebung, insbesondere die Massnahmen betreffend das Gesundheitswesen, die Tierseuchen, den Kulturgütertransfer, den Arten- und den Pflanzenschutz, bleiben vorbehalten.[^33-2]
 
-[^33-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431), [0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^33-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^33-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489), [0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
+[^33-2]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 33a
 
@@ -494,7 +494,7 @@ Dieser Ausweis kann nur denjenigen Berechtigten abgegeben werden, die sich auf e
 
 Die bei einer endgültigen Einfuhrveranlagung bezahlten Abgaben werden nicht rückerstattet; auch dann nicht, wenn diese Verordnung die Abgabenbefreiung an sich zugelassen hätte.
 
-[^33a-1]: Eingefügt durch Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^33a-1]: Eingefügt durch Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 34
 
@@ -502,7 +502,7 @@ Die bei einer endgültigen Einfuhrveranlagung bezahlten Abgaben werden nicht rü
 
 Unter Vorbehalt der in dieser Verordnung aufgeführten Bestimmungen, die Erleichterungen vorsehen, sind auf Gegenstände, die gestützt auf diese Verordnung vorerst abgabenfrei zugelassen wurden, bei der nachträglichen Veranlagung alle Einfuhrvorschriften anwendbar.
 
-[^34-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^34-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 35
 
@@ -540,7 +540,7 @@ Diese Verordnung ist auf Personen schweizerischer Nationalität und auf Personen
 
 Wo der Wohnsitz in der Schweiz massgebend ist, bestimmt sich dieser nach den Artikeln 23 ff. des Zivilgesetzbuches[^40-1].
 
-[^40-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^40-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 41
 
@@ -562,8 +562,8 @@ Das Eidgenössische Departement für auswärtige Angelegenheiten und die Oberzol
 
 <sup>2</sup> Auf Vergünstigungen nach dieser Verordnung, die weiter gehen als die Zollvorrechte nach den genannten Wiener Übereinkommen, haben die diplomatischen Missionen, die konsularischen Vertretungen und das entsprechende Personal derjenigen Staaten Anspruch, die Gegenrecht halten.
 
-[^43-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^43-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^43-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^43-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 44
 
@@ -577,9 +577,10 @@ Soweit diese Verordnung nichts anderes bestimmt, sind die allgemeinen Bestimmung
 
 **Vollzug**[^45-1]
 
-Die Eidgenössische Zollverwaltung vollzieht diese Verordnung.
+das Bundesamt für Zoll und Grenzsicherheit[^45-2] vollzieht diese Verordnung.
 
-[^45-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^45-1]: Fassung gemäss Anhang 4 Ziff. 13 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^45-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 46
 

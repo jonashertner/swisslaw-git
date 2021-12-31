@@ -3,24 +3,18 @@ sr: "631.144.0"
 title: Ordonnance du 23 août 1989 concernant les privilèges douaniers des missions diplomatiques à Berne et des postes consulaires en Suisse
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781"
 language: fr
-version: 2007-05-01
+version: 2022-01-01
 adopted: 1989-08-23
 in_force: 1990-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781/20070501/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1781_1781_1781-20070501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1781_1781_1781/20070501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1781_1781_1781-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1781_1781_1781/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant les privilèges douaniers des missions diplomatiques à Berne et des postes consulaires en Suisse
 
-[^t-1]¶ (Etat le 1<sup>er</sup> mai 2007)
-
-631.144.0
-
-du 23 août 1989 (Etat le 1<sup>er</sup> mai 2007)
-
-[^t-1]: [RO 1989 1781](https://fedlex.data.admin.ch/eli/oc/1989/1781_1781_1781)
+du 23 août 1989 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -28,8 +22,8 @@ vu les art. 2, al. 2, 8, al. 1, let. a, et 130 de la loi du 18 mars 2005 sur les
 
 arrête:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Chapitre 1 Missions diplomatiques à Berne
 
@@ -37,7 +31,7 @@ arrête:
 
 #### Art. 1
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 <sup>1</sup> Sont admis en franchise de redevances d’importation tous les objets destinés à l’usage officiel des missions diplomatiques à Berne.
 
@@ -47,7 +41,7 @@ arrête:
 
 <sup>4</sup> L’importation des autres véhicules à moteur et l’obtention de carburant exonéré de droits sont régies par les art. 23, 26, 30 et 31.
 
-[^1-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^1-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -63,16 +57,19 @@ Les envois doivent être adressés et destinés à l’une des missions diplomat
 
 <sup>2</sup> Dans ce formulaire de déclaration, la mission indique la nature de l’envoi et en atteste la destination officielle par la signature du chef de mission ou de son représentant autorisé et par apposition du sceau de la mission.
 
-<sup>3</sup> A titre de justificatifs, on joindra au formulaire de déclaration spécial les documents de transport et les documents douaniers accompagnant l’envoi ainsi que les factures ou le bulletin de livraison établis par l’expéditeur.
+<sup>3</sup> À titre de justificatifs, on joindra au formulaire de déclaration spécial les documents de transport et les documents douaniers accompagnant l’envoi ainsi que les factures ou le bulletin de livraison établis par l’expéditeur.
 
 <sup>4</sup> Pour les envois ayant une autre destination que Berne, la mission peut, après avoir mentionné le bureau de douane d’entrée dans le formulaire de déclaration spécial, envoyer ce dernier pour approbation au bureau de douane de Berne, qui la transmet au bureau de douane concerné, en vue de l’admission en franchise.
 
 <sup>5</sup> Si le placement sous régime douanier d’un envoi ne souffre pas d’être différé quand bien même le formulaire de déclaration spécial fait défaut, l’envoi peut être taxé provisoirement. Il appartient à la mission destinataire de demander l’admission subséquente en franchise dans le délai de 60 jours, conformément aux al. 1 à 4.
 
-**Art. 4**[^3-2]
+[^3-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
-[^3-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^3-2]: Abrogé par le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+#### Art. 4
+
+[^4-1]
+
+[^4-1]: Abrogé par l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 5
 
@@ -80,13 +77,13 @@ Les envois doivent être adressés et destinés à l’une des missions diplomat
 
 Les envois d’imprimés, de livres et de publications, expédiés en trafic postal et de courrier ou par fret aérien, adressés aux missions diplomatiques et destinés à leur usage exclusif, sont remis aux destinataires sans le formulaire de déclaration spécial mentionné à l’art. 3, al. 1.
 
-[^5-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^5-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Section 2 Privilèges des agents diplomatiques
 
 #### Art. 6
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 <sup>1</sup> Les chefs de mission diplomatique ainsi que les membres de leur famille qui font partie de leur ménage ont droit à l’importation en franchise de tous les objets destinés à leur usage personnel (sauf les matériaux de construction).
 
@@ -105,7 +102,7 @@ Les membres du personnel diplomatique des missions ainsi que les membres de leur
 
 <sup>6</sup> L’importation des autres véhicules à moteur et l’obtention de carburant exonéré de droits sont régies par les art. 24, 26, 30 et 31.
 
-[^6-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^6-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 7
 
@@ -128,7 +125,7 @@ Les membres du personnel diplomatique qui revendiquent le droit à l’importati
 
 <sup>6</sup> Le droit à la vérification au sens de l’art. 36 de la loi du 18 mars 2005 sur les douanes est réservé.
 
-[^7-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^7-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 8
 
@@ -149,16 +146,16 @@ La procédure ci-après est applicable, à l’importation, dans le trafic touri
 
 <sup>5</sup> L’octroi des facilités citées aux al. 1 à 4 est subordonné à la présentation de la carte de légitimation délivrée par le Département fédéral des affaires étrangères, à moins qu’il ne s’agisse de la première entrée en Suisse pour prise de fonctions.
 
-[^8-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-2]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-3]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^8-4]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^8-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-2]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-3]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^8-4]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Section 3 Privilèges des membres du personnel administratif et technique des missions
 
 #### Art. 9
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 <sup>1</sup> Les membres du personnel administratif et technique de nationalité étrangère qui sont transférés en Suisse pour y prendre leur fonction officielle ont droit, lors de leur première installation, à l’importation en franchise des effets de déménagement neufs ou usages ainsi que des denrées alimentaires, boissons alcooliques et tabacs destinés à leur usage personnel. Ils ne peuvent revendiquer cette facilité qu’une seule fois et dans un délai limite d’une année à partir de leur entrée en fonction.
 
@@ -170,7 +167,7 @@ La procédure ci-après est applicable, à l’importation, dans le trafic touri
 
 <sup>5</sup> L’importation des autres véhicules à moteur est régie par les art. 25 et 26.
 
-[^9-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^9-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 10
 
@@ -182,7 +179,7 @@ La procédure ci-après est applicable, à l’importation, dans le trafic touri
 
 <sup>3</sup> Le droit à la vérification au sens de l’art. 36 de la loi du 18 mars 2005 sur les douanes est réservé. Si le bureau de douane entend vérifier l’envoi et que le destinataire souhaite que cela ait lieu à son domicile, il doit acquitter l’émolument prévu à cet effet.[^10-1]
 
-[^10-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^10-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Section 4 Privilèges des membres du personnel de service des missions et du personnel privé attaché aux chefs de mission
 
@@ -192,8 +189,8 @@ La procédure ci-après est applicable, à l’importation, dans le trafic touri
 
 <sup>2</sup> L’importation et la procédure sont régies par l’art. 14 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^11-1].[^11-2]
 
-[^11-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^11-2]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^11-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^11-2]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Chapitre 2 Postes consulaires en Suisse
 
@@ -201,11 +198,11 @@ La procédure ci-après est applicable, à l’importation, dans le trafic touri
 
 #### Art. 12
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 <sup>1</sup> Les postes consulaires en Suisse dirigés par un fonctionnaire consulaire de carrière ont les mêmes privilèges et devoirs que les missions diplomatiques à Berne. L’art. 1 est applicable.
 
-<sup>2</sup> Sont admis en franchise de redevances d’importation le matériel officiel, le mobilier et les fournitures de bureau destinés aux postes consulaires dirigés par un fonctionnaire consulaire honoraire, à condition que ces objets soient livrés au poste consulaire par l’Etat d’envoi ou sur sa demande.
+<sup>2</sup> Sont admis en franchise de redevances d’importation le matériel officiel, le mobilier et les fournitures de bureau destinés aux postes consulaires dirigés par un fonctionnaire consulaire honoraire, à condition que ces objets soient livrés au poste consulaire par l’État d’envoi ou sur sa demande.
 
 <sup>3</sup> Les objets admis en franchise en vertu de l’al. 2 ne peuvent être aliénés sans que les redevances d’entrée soient acquittées au préalable.
 
@@ -225,21 +222,21 @@ Les envois doivent être adressés et destinés à l’un des postes consulaires
 
 <sup>3</sup> Avant d’être remis au bureau de douane, les formulaires de déclaration spéciaux pour les envois destinés aux postes consulaires sis en un autre lieu que Berne doivent être soumis, par l’intermédiaire de la mission diplomatique à Berne, à l’approbation du bureau de douane de Berne.
 
-<sup>4</sup> Les postes consulaires dont l’Etat n’a pas de mission diplomatique à Berne remettent les déclarations directement au bureau de douane de Berne.
+<sup>4</sup> Les postes consulaires dont l’État n’a pas de mission diplomatique à Berne remettent les déclarations directement au bureau de douane de Berne.
 
-<sup>5</sup> A titre de justificatifs, on joindra au formulaire de déclaration spécial les documents de transport et les documents douaniers accompagnant l’envoi ainsi que les factures ou le bulletin de livraison établis par l’expéditeur.
+<sup>5</sup> À titre de justificatifs, on joindra au formulaire de déclaration spécial les documents de transport et les documents douaniers accompagnant l’envoi ainsi que les factures ou le bulletin de livraison établis par l’expéditeur.
 
 <sup>6</sup> Pour les envois ayant une autre destination que le siège du poste consulaire, celui-ci peut, après avoir mentionné le bureau de douane d’entrée dans le formulaire de déclaration spécial, soumettre ce dernier, par l’intermédiaire de la mission diplomatique à Berne, à l’approbation du bureau de douane de Berne, qui le fait suivre au bureau de douane concerné en vue de l’admission en franchise.
 
 <sup>7</sup> Si le placement sous régime douanier d’un envoi ne souffre pas d’être différé quand bien même le formulaire de déclaration spécial fait défaut, l’envoi peut être taxé provisoirement. Il appartient au poste consulaire destinataire de demander l’admission subséquente en franchise dans le délai de 60 jours, conformément aux al. 1 à 5.
 
-[^14-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^14-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogé par le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^15-1]: Abrogé par l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 16
 
@@ -251,7 +248,7 @@ L’art. 5 est applicable par analogie.
 
 #### Art. 17
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 <sup>1</sup>
 
@@ -270,7 +267,7 @@ Les fonctionnaires consulaires de carrière de nationalité étrangère ainsi qu
 
 <sup>6</sup> Le présent article ne s’applique pas aux représentants consulaires honoraires. Les objets destinés à ces personnes sont soumis aux dispositions générales de la législation douanière.
 
-[^17-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^17-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 18
 
@@ -293,7 +290,7 @@ Les fonctionnaires consulaires de carrière qui revendiquent le droit à l’imp
 
 <sup>6</sup> Le droit à la vérification au sens de l’art. 36 de la loi du 18 mars 2005 sur les douanes est réservé.
 
-[^18-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^18-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 19
 
@@ -311,16 +308,16 @@ Les procédures ci-après sont applicables à l’importation d’objets dans le
 
 <sup>3</sup> L’octroi des facilités citées aux al. 1 et 2 est subordonné à la présentation de la carte de légitimation délivrée par le Département fédéral des affaires étrangères, à moins qu’il ne s’agisse de la première entrée en Suisse pour prise de fonctions.
 
-[^19-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^19-2]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^19-3]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^19-4]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^19-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^19-2]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^19-3]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^19-4]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Section 3 Privilèges des employés consulaires
 
 #### Art. 20
 
-**Etendue de la franchise**
+**Étendue de la franchise**
 
 L’art. 9 est applicable aux employés consulaires de nationalité étrangère (personnes employées dans les services administratifs ou techniques de postes consulaires.)
 
@@ -360,9 +357,9 @@ L’art. 11 est applicable par analogie.
 
 <sup>4</sup> Les voitures de tourisme, bateaux à moteur et avions que le requérant a utilisés à l’étranger pendant au moins six mois avant son entrée en fonction en Suisse sont admis en franchise conformément à l’art. 14 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^24-2].[^24-3]
 
-[^24-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^24-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^24-3]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^24-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^24-2]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^24-3]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 25
 
@@ -376,21 +373,21 @@ L’art. 11 est applicable par analogie.
 
 <sup>4</sup> Les voitures de tourisme, bateaux à moteur et avions que le requérant a utilisés à l’étranger pendant au moins six mois avant son entrée en fonction en Suisse sont admis en franchise conformément à l’art. 14 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^25-1].[^25-2]
 
-[^25-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^25-2]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^25-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^25-2]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 26
 
 **Procédure pour l’admission en franchise de véhicules à moteur**
 
-<sup>1</sup> Les ayants droit qui, se fondant sur les art. 23 à 25, revendiquent la franchise pour un véhicule à moteur, doivent faire présenter par la mission diplomatique à Berne une demande écrite adressée au bureau de douane de Berne. Les postes consulaires dont l’Etat n’a pas de mission diplomatique à Berne présentent les demandes directement au bureau de douane de Berne.[^26-1]
+<sup>1</sup> Les ayants droit qui, se fondant sur les art. 23 à 25, revendiquent la franchise pour un véhicule à moteur, doivent faire présenter par la mission diplomatique à Berne une demande écrite adressée au bureau de douane de Berne. Les postes consulaires dont l’État n’a pas de mission diplomatique à Berne présentent les demandes directement au bureau de douane de Berne.[^26-1]
 
 <sup>2</sup> L’ayant droit doit s’engager, sur un formulaire spécial remis par le bureau de douane de Berne, à ne pas aliéner le véhicule en Suisse durant le délai fixé, ni à titre gratuit ni à titre onéreux, sans autorisation du bureau de douane de Berne et sans avoir acquitté préalablement les redevances d’importation.[^26-2]
 
 <sup>3</sup> Les actes d’engagement concernant les véhicules à moteur destinés à l’usage officiel de la mission diplomatique ou du poste consulaire doivent être signés par le chef de la mission ou du poste consulaire ou par leurs représentants autorisés et être munis du sceau officiel. Les actes d’engagement pour les véhicules des postes consulaires et les véhicules personnels doivent être, en outre, visés par le chef de la mission diplomatique ou par son représentant autorisé et être munis du sceau officiel, à moins qu’il n’y ait pas de mission diplomatique à Berne.
 
-[^26-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^26-2]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^26-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^26-2]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 27
 
@@ -408,8 +405,8 @@ Si le bénéficiaire est transféré officiellement à l’étranger, les véhic
 
 <sup>3</sup> ...[^27-2]
 
-[^27-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^27-2]: Abrogé par le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^27-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^27-2]: Abrogé par l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, avec effet au 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 28
 
@@ -446,7 +443,7 @@ Bénéficient de l’exonération des droits sur le carburant pour les véhicule
 
 <sup>2</sup>
 
-Cette carte de carburant ne peut être délivrée qu’aux ayants droit qui s’engagent envers l’Administration fédérale des douanes, sur un formulaire spécial remis par le bureau de douane de Berne, à n’utiliser le carburant obtenu en franchise de droits que pour le véhicule à moteur spécifié dans l’engagement et servant:
+Cette carte de carburant ne peut être délivrée qu’aux ayants droit qui s’engagent envers l’Office fédéral de la douane et de la sécurité des frontières[^31-2], sur un formulaire spécial remis par le bureau de douane de Berne, à n’utiliser le carburant obtenu en franchise de droits que pour le véhicule à moteur spécifié dans l’engagement et servant:
 
 - a. soit à l’usage officiel de la mission diplomatique et du poste consulaire;
 - b. soit à l’usage exclusif de l’ayant droit ou à celui des membres de sa famille qui font partie de son ménage.
@@ -455,7 +452,8 @@ Cette carte de carburant ne peut être délivrée qu’aux ayants droit qui s’
 
 <sup>4</sup> La carte de carburant doit être restituée sans délai au bureau de douane de Berne si le véhicule en question est aliéné ou si le détenteur de la carte cesse de bénéficier du droit à l’exonération.
 
-[^31-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^31-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^31-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Chapitre 4 Valise diplomatique et valise consulaire
 
@@ -487,8 +485,8 @@ Cette carte de carburant ne peut être délivrée qu’aux ayants droit qui s’
 
 <sup>2</sup> Les autres dispositions de la législation fédérale, spécialement celles qui concernent la santé publique, les épizooties, le transfert de biens culturels, la conservation des espèces et la protection des végétaux, sont réservées.[^33-2]
 
-[^33-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)**,** [0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^33-2]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^33-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489),[0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
+[^33-2]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 33a
 
@@ -496,7 +494,7 @@ Cette carte de carburant ne peut être délivrée qu’aux ayants droit qui s’
 
 Les redevances payées lors d’une taxation définitive à l’importation ne sont pas remboursées, même si la franchise eût en soi été possible en vertu de la présente ordonnance.
 
-[^33a-1]: Introduit par le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^33a-1]: Introduit par l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 34
 
@@ -504,7 +502,7 @@ Les redevances payées lors d’une taxation définitive à l’importation ne s
 
 Sous réserve des dispositions de la présente ordonnance qui prévoient des allégements, toutes les prescriptions relatives à l’importation sont applicables, lors de la taxation subséquente, aux objets préalablement admis en franchise en vertu de la présente ordonnance.
 
-[^34-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^34-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 35
 
@@ -542,7 +540,7 @@ La présente ordonnance ne s’applique pas aux personnes de nationalité suisse
 
 Lorsque le domicile en Suisse entre en considération, il se définit selon les art. 23 et suivants du code civil[^40-1].
 
-[^40-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^40-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 41
 
@@ -562,10 +560,10 @@ Le Département fédéral des affaires étrangères et la Direction générale d
 
 <sup>1</sup> Les missions diplomatiques et les postes consulaires, ainsi que leur personnel, bénéficient des privilèges douaniers prévus respectivement dans la convention de Vienne du 18 avril 1961[^43-1] sur les relations diplomatiques et la convention de Vienne du 24 avril 1963[^43-2] sur les relations consulaires.
 
-<sup>2</sup> Les allégements mentionnés dans la présente ordonnance qui vont au-delà de ce que prévoient les Conventions précitées sont accordés aux missions diplomatiques et aux postes consulaires, ainsi qu’à leur personnel, à la condition que l’Etat tiers applique la réciprocité.
+<sup>2</sup> Les allégements mentionnés dans la présente ordonnance qui vont au-delà de ce que prévoient les Conventions précitées sont accordés aux missions diplomatiques et aux postes consulaires, ainsi qu’à leur personnel, à la condition que l’État tiers applique la réciprocité.
 
-[^43-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^43-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^43-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^43-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 44
 
@@ -579,9 +577,9 @@ En tant que la présente ordonnance n’en dispose pas autrement, les dispositio
 
 **Exécution**[^45-1]
 
-L’Administration fédérale des douanes exécute la présente ordonnance.
+L’Office fédéral de la douane et de la sécurité des frontières exécute la présente ordonnance.
 
-[^45-1]: Nouvelle teneur selon le ch. 13 de l'annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^45-1]: Nouvelle teneur selon l’annexe 4 ch. 13 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 46
 
