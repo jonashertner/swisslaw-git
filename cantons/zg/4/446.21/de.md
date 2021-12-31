@@ -3,20 +3,20 @@ canton: ZG
 number: "446.21"
 title: Reglement über den Steuerausgleich unter den katholischen Kirchgemeinden des Kantons Zug
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-05-18
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-09-22
 adopted: 2013-11-27
 in_force: 2015-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/446.21"
-pdf: "https://bgs.zg.ch/api/de/versions/1587/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2304/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Steuerausgleich unter den katholischen Kirchgemeinden des Kantons Zug
 
-Vom 27. November 2013 (Stand 1. Januar 2017)
+Vom 27. November 2013 (Stand 1. Januar 2022)
 
 Die Delegiertenversammlung der Vereinigung der katholischen Kirchgemeinden des Kantons Zug (VKKZ),
 
@@ -77,9 +77,9 @@ beschliesst:
 - a) Steuerfuss des Vorjahres;
 - b) Steuerertrag der juristischen Personen netto (nach Berücksichtigung von Zinsen, Abschreibungen und Erlassen);
 - c) Gesamter Steuerertrag netto (nach Berücksichtigung von Skonto, Zinsen, Abschreibungen und Erlassen);
-- d) Rechnungsergebnis der ordentlichen Rechnung;
-- e) Gesamtaufwand der Erfolgsrechnung unter Berücksichtigung der ordentlichen Abschreibung[^4-1];
-- f) effektive, ausserordentliche Abschreibungen;
+- d) Operatives Ergebnis nach HRM2 vor Verwendung/Verteilung Gewinn, exkl. ausserordentliche Abschreibungen, Vorfinanzierungen, Wertberichtigungen Liegenschaften im Finanzvermögen und finanzpolitische Reserven;
+- e) Gesamtaufwand der Erfolgsrechnung ohne ausserordentliche Abschreibungen, Vorfinanzierungen, Wertberichtigungen Liegenschaften im Finanzvermögen und finanzpolitische Reserven[^4-1];
+- f) Ausserordentliche Abschreibungen, Vorfinanzierungen, Wertberichtigungen Liegenschaften im Finanzvermögen und Auflösen und Bilden von finanzpolitischen Reserven;
 - g) Anzahl Personen pro Kirchgemeinde (ohne Wochenaufenthalter).
 
 <sup>4</sup> Die Anzahl Personen pro Kirchgemeinde wird von der VKKZ für jede Kirchgemeinde beim Amt für Raumplanung / Amt für Statistik schriftlich eingeholt (Stand 31. Dezember des Bemessungsjahres).
@@ -90,7 +90,7 @@ beschliesst:
 
 **Einschränkung der Bezugsrechte**
 
-<sup>1</sup> Eine Kirchgemeinde, bei der die Summe aus dem Überschuss und den ausserordentlichen Abschreibungen während dem Bemessungsjahr und dem Jahr davor jeweils 10 % des Totalaufwandes (ohne interne Verrechnungen) ihrer Erfolgsrechnung überstiegen hat, ist für Kriterien 1 und 2 nur bezugsberechtigt, wenn sie den Steuerfuss bis zum Ausgleichsjahr um mindestens 1 % reduziert hat[^5-1].
+<sup>1</sup> Eine Kirchgemeinde, bei der die Summe aus dem Gewinn und den eventuellen ausserordentlichen Abschreibungen, plus/minus Vorfinanzierungen, plus/minus Wertberichtigungen Liegenschaften im Finanzvermögen und finanzpolitische Reserven während dem Bemessungsjahr und dem Jahr davor 10 % des bereinigten Gesamtaufwandes der Erfolgsrechnung (ohne interne Verrechnung) gemäss § 4, Abs. 3, Bst. e überstiegen hat, ist für Kriterien 1 und 2 nur bezugsberechtigt, wenn sie den Steuerfuss bis zum Ausgleichsjahr um mindestens 1 % reduziert hat[^5-1].
 
 <sup>2</sup> Die Bezugsberechtigung nach dem einen Kriterium ist unabhängig von der Bezugsberechtigung nach den anderen Kriterien.
 
