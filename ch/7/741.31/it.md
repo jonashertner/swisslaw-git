@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1959 sull'assicurazione dei veicoli (OAV)"
 short: OAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
 language: it
-version: 2021-09-24
+version: 2022-01-01
 adopted: 1959-11-20
 in_force: 1959-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20210924-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it"
 
 (OAV)**[^t-1]**
 
-del 20 novembre 1959 (Stato 24 settembre 2021)
+del 20 novembre 1959 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 6 ott. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Secondo la medesima disp. nella numerazione degli art. aggiuntivi agli avverbi numerali sono state sostituite le lettere minuscole.
 
@@ -116,7 +116,7 @@ Le autorità di ammissione notificano all’Ufficio federale delle strade (USTRA
 
 <sup>3</sup> Gli attestati d’assicurazione devono essere rilasciati in forma elettronica e trasmessi dall’assicuratore al sistema d’informazione sull’ammissione alla circolazione. La forma e le modalità di trasmissione degli attestati d’assicurazione sono disciplinate dall’allegato 1.[^4-1]
 
-[^4-1]: Nuovo testo giusta il n. II 7 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^4-1]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 5
 
@@ -135,7 +135,7 @@ Gli attestati d’assicurazione possono essere rilasciati:
 
 <sup>4</sup> Gli attestati internazionali d’assicurazione (carta verde) sono rilasciati dall’Ufficio nazionale di assicurazione o, con il consenso del medesimo, dagli assicuratori autorizzati ad operare in Svizzera nel campo dell’assicurazione di responsabilità civile per i veicoli a motore.[^5-5]
 
-[^5-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^5-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^5-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^5-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
 [^5-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
@@ -237,7 +237,7 @@ Come veicoli di riserva possono essere ammessi:
 [^9-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
 [^9-4]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 [^9-5]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
-[^9-6]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^9-6]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^9-7]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 [^9-8]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^9-9]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
@@ -317,7 +317,7 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 
 <sup>3</sup> L’assicuratore non può opporre alla parte lesa la mancanza della copertura contrattuale per i rischi maggiori menzionati nel presente articolo.
 
-[^11-1]: Nuovo testo giusta il n. 2 dell’all. dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
+[^11-1]: Nuovo testo giusta l’all. n. 2 dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 [^11-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 
 #### Art. 12
@@ -518,12 +518,12 @@ Oltre che ai veicoli giusta il capoverso 1, possono essere applicate:[^22-6]
 [^22-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 [^22-5]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^22-6]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^22-7]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
-[^22-8]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
-[^22-9]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-7]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
+[^22-8]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
+[^22-9]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^22-10]: Introdotta dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 [^22-11]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^22-12]: Introdotto n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-12]: Introdotto dall’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^22-13]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 
 #### Art. 23
@@ -588,7 +588,7 @@ I veicoli a motore pesanti provvisti di targhe professionali possono essere util
 [^24-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 [^24-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 [^24-3]: Nuovo testo giusta il n. 4 dell’appendice all’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^24-4]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^24-4]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 25
 
@@ -998,8 +998,8 @@ Inoltre, esso tiene un registro separato contenente le seguenti informazioni:
 - a. gli istituti d’assicurazione autorizzati ad esercitare in Svizzera un’assicurazione di responsabilità civile per i veicoli a motore e i mandatari per la liquidazione dei sinistri da loro designati all’estero (art. 79*b* LCStr);
 - b. i servizi competenti per la liquidazione designati dalla Confederazione e dai Cantoni secondo l’articolo 73 capoverso 3 della legge.
 
-[^49a-1]: Nuovo testo giusta il n. II 7 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^49a-2]: Nuovo testo giusta il n. II 7 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^49a-1]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^49a-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 49b
 
@@ -1431,7 +1431,7 @@ Allegato 1*[^t-2]*
 
 ## Attestati d’assicurazione
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Aggiornato dal n. III dell’O del 29 nov. 2006 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)), dal n. II 7 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dal n. II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Aggiornato dal n. III dell’O del 29 nov. 2006 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)), dall’all. 4 n. II 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dal n. II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
 
 ### A. Attestati d’assicurazione per veicoli a motore
 
@@ -1596,7 +1596,7 @@ Allegato 3*[^t-4]*
 
 [^t-4]: Nuovo testo giusta il n. II dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image3.png)
 
 Allegato 4*[^t-5]*
 
@@ -1604,7 +1604,7 @@ Allegato 4*[^t-5]*
 
 ## Esigenze minime per il rilascio di licenze di circolazione collettive
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Aggiornato dal n. II 6 dell’all. 1 all’O del 19 giu. 1995 conc. le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), dall’art. 1 n. 6 dell’O del 22 giu. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)) e dal n. I dell’O del 21 gen. 2015 ([RU 2015 463](https://fedlex.data.admin.ch/eli/oc/2015/66)) e dai n. I e II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+[^t-5]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Aggiornato dall’all. 1 n. II 6 dell’O del 19 giu. 1995 conc. le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), dall’art. 1 n. 6 dell’O del 22 giu. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)) e dal n. I dell’O del 21 gen. 2015 ([RU 2015 463](https://fedlex.data.admin.ch/eli/oc/2015/66)) e dai n. I e II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
 
 ### 1 Costruttore di veicoli
 
@@ -1621,7 +1621,7 @@ Allegato 4*[^t-5]*
 - 1\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image4.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image4.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere costruiti ulteriori 20 veicoli all’anno per ciascuna licenza di circolazione collettiva.</td></tr>
 </table>
 
@@ -1655,7 +1655,7 @@ Allegato 4*[^t-5]*
 - 2\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image5.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image5.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere importati ulteriori 20 veicoli all’anno per ciascuna licenza di circolazione collettiva.</td></tr>
 </table>
 
@@ -1704,7 +1704,7 @@ Allegato 4*[^t-5]*
   - b. per i restanti tipi di veicoli:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image6.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image6.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero di persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere venduti annualmente per ciascuna licenza di circolazione collettiva ulteriori.</td></tr>
 </table>
 
@@ -1747,7 +1747,7 @@ Allegato 4*[^t-5]*
 - 4\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image7.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image7.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -1781,7 +1781,7 @@ Allegato 4*[^t-5]*
 - 5\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image8.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image8.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -1815,7 +1815,7 @@ Allegato 4*[^t-5]*
 - 6\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image9.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image9.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1848,7 +1848,7 @@ Allegato 4*[^t-5]*
 - lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o corse di prova, su almeno 30 veicoli all’anno;
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image10.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image10.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1882,7 +1882,7 @@ Allegato 4*[^t-5]*
 - 8\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image11.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image11.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1916,7 +1916,7 @@ Allegato 4*[^t-5]*
 - 9\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image12.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image12.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1950,7 +1950,7 @@ Allegato 4*[^t-5]*
 - 10\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image13.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image13.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -1984,7 +1984,7 @@ Allegato 4*[^t-5]*
 - 11\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image14.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image14.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collet tiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2018,7 +2018,7 @@ Allegato 4*[^t-5]*
 - 12\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image15.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image15.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -2048,7 +2048,7 @@ Allegato 4*[^t-5]*
 - 13\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image16.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image16.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2082,7 +2082,7 @@ Allegato 4*[^t-5]*
 - 14\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image17.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image17.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2116,7 +2116,7 @@ Allegato 4*[^t-5]*
 - 15\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image18.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image18.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari, di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2131,7 +2131,9 @@ Allegato 4*[^t-5]*
 - 15\.4 Installazioni aziendali:
 - apparecchi e installazioni per il montaggio, il controllo e la riparazione di tachigrafi.
 - 15\.5 Autorizzazione:
-- autorizzazione dell’Amministrazione federale delle dogane al montaggio, all’esame successivo e alla riparazione di tachigrafi.
+- autorizzazione dell’Ufficio federale della dogana e della sicurezza dei confini[^annex4-lvlu1-lvl15-1] al montaggio, all’esame successivo e alla riparazione di tachigrafi.
+
+[^annex4-lvlu1-lvl15-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 16 Officina specializzata in veicoli Diesel
 
@@ -2148,7 +2150,7 @@ Allegato 4*[^t-5]*
 - 16\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image19.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image19.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2182,7 +2184,7 @@ Allegato 4*[^t-5]*
 - 17\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image20.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image20.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2215,7 +2217,7 @@ Allegato 4*[^t-5]*
 - 18\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image21.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image21.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva il parco di veicoli dell’azienda deve comprendere 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -2243,7 +2245,7 @@ Allegato 4*[^t-5]*
 - 19\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image22.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20220101/it/xml/image/image22.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere collaudati annualmente 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -2299,7 +2301,7 @@ Targhe di controllo n.: Marca/tipo: Telaio n.: Matricola n.:
   - a. Licenza di circolazione per il veicolo da immatricolare o Rapporto di perizia (modulo 13.20 A)
   - b. Licenza di circolazione per il veicolo che deve essere ritirato dalla circolazione
   - c. Modulo ufficiale con accordo scritto del detentore e del beneficiario (p. es. ditta di leasing) o decisione giudiziaria passata in giudicato concernente i rapporti di proprietà, se è stato iscritto il codice 178 «cambiamento di detentore non autorizzato» nella licenza di circolazione
-  - d. Per i veicoli sottoposti alla TTPCP[^annex5-lvlu1-1]: attestazione di conformità (art. 16 cpv. 2 OTTP[^annex5-lvlu1-2]) o dichiarazione di esenzione rilasciata al detentore dall’Amministrazione federale delle dogane (art. 15 cpv. 5 OTTP).
+  - d. Per i veicoli sottoposti alla TTPCP[^annex5-lvlu1-1]: attestazione di conformità (art. 16 cpv. 2 OTTP[^annex5-lvlu1-2]) o dichiarazione di esenzione rilasciata al detentore dall’Ufficio federale della dogana e della sicurezza dei confini (art. 15 cpv. 5 OTTP).
 
 <table>
 <tr><td>Data:</td><td></td><td>Firma (detentore):</td><td></td></tr>
