@@ -1,30 +1,32 @@
 ---
 canton: FR
 number: "821.40.35"
-title: "Verordnung über die Massnahmen des Wiederankurbelungsplans zur Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport"
+title: "Verordnung über die Massnahmen des Wiederankurbelungsplans zur Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Bildung und kulturelle Angelegenheiten und der Sicherheits-, Justiz- und Sportdirektion"
 language: de
-version: 2021-08-17
-valid_until: 2021-12-31
-version_adopted: 2021-08-17
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-02-08
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/de/versions/6896/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Massnahmen des Wiederankurbelungsplans zur Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport
+# Verordnung über die Massnahmen des Wiederankurbelungsplans zur Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Bildung und kulturelle Angelegenheiten und der Sicherheits-, Justiz- und Sportdirektion
 
 COVID-19, Wiederankurbelungsplan – EKSD-Massnahmen – V
 
-vom 24.11.2020 (Fassung in Kraft getreten am 17.08.2021)
+vom 24.11.2020 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
 gestützt auf das Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der COVID-19-Epidemie (COVID-19-Gesetz), insbesondere Artikel 11;
 
 gestützt auf die Verordnung des Bundes vom 14. Oktober 2020 über die Massnahmen im Kulturbereich gemäss COVID-19-Gesetz (COVID-19-Kulturverordnung);
+
+gestützt auf das Subventionsgesetz vom 17. November 1999 (SubG), insbesondere Artikel 37;
 
 gestützt auf das Dekret vom 13. Oktober 2020 zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus im Kanton Freiburg;
 
@@ -34,9 +36,7 @@ gestützt auf das Gesetz vom 14. Februar 2008 über die Stipendien und Studienda
 
 in Erwägung:
 
-Diese Verordnung konkretisiert das Dekret vom 13. Oktober 2020 zum kantonalen Wiederankurbelungsplan für die Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport. Sie legt die Ziele, die Vergabekriterien und -bestimmungen, den Kreis der Begünstigten und das Verfahren für die verschiedenen Finanzhilfen und Beiträge fest, soweit diese von der geltenden ordentlichen Gesetzgebung abweichen.
-
-Im Kulturbereich schliesst sie an die Ausführungsverordnung vom 14. April 2020 der Bundesverordnung über die Abfederung der wirtschaftlichen Auswirkungen des Coronavirus (COVID-19) im Kultursektor an, um die Kulturunternehmen und über sie die Kulturschaffenden weiterhin zu unterstützen, da diese durch Massnahmen des Bundes oder des Staates weiterhin Schaden erleiden. Der Staatsrat stützt sich auf die Verordnung des Bundes vom 14. Oktober 2020 über die Massnahmen im Kulturbereich gemäss COVID-19-Gesetz. Überdies haben der Staat Freiburg und die Schweizerische Eidgenossenschaft, vertreten durch das Bundesamt für Kultur (BAK), eine Leistungsvereinbarung unterzeichnet.
+Diese Verordnung konkretisiert das Dekret vom 13. Oktober 2020 zum kantonalen Wiederankurbelungsplan für die Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport. Sie legt die Ziele, die Vergabekriterien und -bestimmungen, den Kreis der Begünstigten und das Verfahren für die verschiedenen Finanzhilfen und Beiträge fest, soweit diese von der geltenden ordentlichen Gesetzgebung abweichen. Im Kulturbereich schliesst sie an die Ausführungsverordnung vom 14. April 2020 der Bundesverordnung über die Abfederung der wirtschaftlichen Auswirkungen des Coronavirus (COVID-19) im Kultursektor an, um die Kulturunternehmen und über sie die Kulturschaffenden weiterhin zu unterstützen, da diese durch Massnahmen des Bundes oder des Staates weiterhin Schaden erleiden. Der Staatsrat stützt sich auf die Verordnung des Bundes vom 14. Oktober 2020 über die Massnahmen im Kulturbereich gemäss COVID-19-Gesetz und passt die kantonale Verordnung an die regelmässigen Änderungen des Bundesrechts an. Auf dieser Grundlage haben der Staat Freiburg und die Schweizerische Eidgenossenschaft, vertreten durch das Bundesamt für Kultur (BAK), laufend mehrere Leistungsvereinbarungen unterzeichnet.
 
 Auf Antrag der Direktion für Erziehung, Kultur und Sport,
 
@@ -48,7 +48,7 @@ beschliesst:
 
 **Gegenstand und allgemeiner Zweck**
 
-<sup>1</sup> Diese Verordnung legt die Ziele, die Vergabekriterien und -bestimmungen, den Kreis der Begünstigten und das Verfahren für die verschiedenen Unterstützungsmassnahmen fest, die im Dekret vom 13. Oktober 2020 zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus im Kanton Freiburg (das Dekret) im Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport (die Direktion) vorgesehen sind.
+<sup>1</sup> Diese Verordnung legt die Ziele, die Vergabekriterien und -bestimmungen, den Kreis der Begünstigten und das Verfahren für die verschiedenen Unterstützungsmassnahmen fest, die im Dekret zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus (COVID-19) im Kanton Freiburg (das Dekret) im Zuständigkeitsbereich der Direktion für Bildung und kulturelle Angelegenheiten und der Sicherheits-, Justiz- und Sportdirektion vorgesehen sind.
 
 <sup>2</sup> Sie enthält Bestimmungen, welche die geltende Gesetzgebung in den verschiedenen Bereichen im Gültigkeitsbereich des Dekrets ergänzen und/oder teilweise von ihr abweichen.
 
@@ -168,7 +168,7 @@ beschliesst:
 - a) Der jährliche Höchstbetrag eines Stipendiums beträgt in Abweichung von Artikel 9 Abs. 2 StiR 35'000 Franken.
 - b) Die berücksichtigten Unterhaltskosten der Person in Ausbildung entsprechen, in Abweichung von Artikel 5 Abs. 2 Bst. a StiR, höchstens den Ansätzen, die für die Berechnung von Ergänzungsleistungen gelten.
 - c) Abweichend von Artikel 5 Abs. 2 Bst. b StiR wird für die Wohnkosten der tatsächliche Mietzins bis höchstens zu dem vom Bundesamt für Statistik zuletzt veröffentlichten durchschnittlichen Mietzins für den Kanton Freiburg angerechnet.
-- d) Die Krankenkassenprämien werden angerechnet. Sie entsprechen der durchschnittlichen Prämie des betreffenden Ausbildungsjahres (1. Semester) im Saanebezirk.
+- d) Die Krankenkassenprämien werden in der Regel angerechnet. Sie entsprechen der durchschnittlichen kantonalen Monatsprämie der obligatorischen Krankenpflegeversicherung im betreffenden Ausbildungsjahr (1. Semester).
 - e) Hat die Person in Ausbildung ein oder mehrere Kinder und lebt sie mit dem anderen Elternteil zusammen, werden dessen Einkommen und Vermögen gemäss der Richtlinie F.5.3 der Schweizerischen Konferenz für Sozialhilfe zu 65 % angerechnet (Art. 17 Abs. 6 StiR).
 - f) Abweichend von Artikel 29 Abs. 1 StiR wird keine Integrationszulage gewährt.
 
@@ -223,13 +223,15 @@ beschliesst:
 
 <sup>3</sup> Bei der Präzisierung seiner Kriterien, die es auf seiner Website veröffentlicht, spricht sich das Amt für Kultur zudem mit der Konferenz der kantonalen Kulturbeauftragten (KBK) der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) und dem Bundesamt für Kultur (BAK) ab.
 
+<sup>4</sup> Der Artikel 4 Abs. 5 der COVID-19-Kulturverordnung des Bundes gilt im Falle einer vollständigen Aufhebung der Massnahmen des Bundes und des Staates zur Bekämpfung von COVID-19, mit Ausnahme von Artikel 22b Abs. 2<sup>ter</sup>.
+
 #### Art. 20
 
 **Verfahren und Frist für das Einreichen der Gesuche**
 
 <sup>1</sup> Die Gesuche müssen innerhalb der Zwischenfristen nach Artikel 6 Abs. 1 der COVID-19-Kulturverordnung des Bundes über das Internetportal des Amts für Kultur eingereicht werden.
 
-<sup>2</sup> Zur finanziellen Unterstützung von Transformationsprojekten kann das Amt für Kultur über Projektausschreibungen tätig werden.
+<sup>2</sup> Zur finanziellen Unterstützung von Transformationsprojekten kann das Amt für Kultur über Projektausschreibungen tätig werden. Als Fristen für die Ausschreibungen werden der 27. Februar, der 15. Mai, der 14. August und der 23. Oktober 2022 festgelegt.
 
 <sup>3</sup> Zur Bearbeitung und Prüfung der Gesuche kann das Amt für Kultur externe Expertinnen und Experten hinzuziehen. Die damit verbundenen Kosten werden in den Schranken und mit den Mitteln nach Artikel 23 gedeckt.
 
@@ -252,7 +254,7 @@ beschliesst:
 <sup>1</sup> Folgende Behörde entscheidet, gestützt auf die Stellungnahme der Ad-hoc-Kommission (Art. 20 Abs. 4), über das Gesuch:
 
 - a) das Amt für Kultur für die Gewährung eines Betrags bis höchstens 50'000 Franken;
-- b) die Direktion für die Gewährung eines Betrags zwischen 50'001 und 100'000 Franken;
+- b) die Direktion für Bildung und kulturelle Angelegenheiten für die Gewährung eines Betrags zwischen 50'001 und 100'000 Franken;
 - c) der Staatsrat für die Gewährung eines Betrags von über 100'000 Franken.
 
 <sup>2</sup> …
@@ -263,28 +265,34 @@ beschliesst:
 
 <sup>1</sup> In besonderen Fällen kann eine Finanzhilfe von über 100'000 Franken nicht gewährt werden wegen des Vorbehalts, dass nach Bearbeitung sämtlicher Gesuche genügend finanzielle Mittel verbleiben.
 
-<sup>2</sup> Eine Finanzhilfe in Form einer Ausfallentschädigung darf bei gewinnorientierten Kulturunternehmen 750'000 Franken nicht übersteigen.
+<sup>2</sup> Eine Finanzhilfe in Form einer Ausfallentschädigung darf bei gewinnorientierten Kulturunternehmen 1'500'000 Franken nicht übersteigen.
 
 #### Art. 22b
 
 **Zusätzliche kantonale Unterstützung**
 
-<sup>1</sup> Den Kulturschaffenden wird rückwirkend für die Zeit vom 1. November bis zum 18. Dezember 2020 eine Finanzhilfe für die finanziellen Einbussen im Zusammenhang mit COVID-19 gewährt.
+<sup>1</sup> …
 
-<sup>2</sup> Ausnahmsweise kann der Staat, gemäss den Kriterien in Artikel 19, Kulturunternehmen oder Kulturschaffende, welche die Anforderungen der Covid-19-Kulturverordnung des Bundes nicht erfüllen und keine Finanzhilfe nach Artikel 10 Abs. 1 der Verordnung vom 16. November 2020 über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle (WMHV-COVID-19) erhalten, unterstützen.
+<sup>2</sup> Ausnahmsweise kann der Staat, gemäss den Kriterien in Artikel 19, Kulturunternehmen oder Kulturschaffende, welche die Anforderungen der COVID-19-Kulturverordnung des Bundes nicht erfüllen und keine Finanzhilfe nach Artikel 10 Abs. 1 der Verordnung vom 16. November 2020 über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle erhalten, unterstützen.
 
-<sup>3</sup> Diese zusätzlichen kantonalen Unterstützungsbeiträge werden aus dem Fonds nach Artikel 23 Abs. 1 Bst. b finanziert.
+<sup>2<sup>bis</sup></sup> Diese zusätzlichen kantonalen Unterstützungsbeiträge werden aus dem Fonds nach Artikel 23 Abs. 1 Bst. b finanziert.
+
+<sup>2<sup>ter</sup></sup> Für die Bezirksverbände des Freiburger Kantonal Musikverbands kann der Staat die durch die öffentlichen Massnahmen zur Bekämpfung von COVID-19 verursachten Mehrkosten, insbesondere für Personal, Infrastruktur, Organisation und Kommunikation, unterstützen.
+
+<sup>3</sup> Diese zusätzlichen kantonalen Unterstützungsbeiträge werden aus dem Fonds nach Artikel 23 Abs. 1 Bst. c finanziert.
 
 #### Art. 23
 
 **Fonds**
 
-<sup>1</sup> Für den Vollzug dieser Verordnung werden zwei Fonds geschaffen:
+<sup>1</sup> Für den Vollzug dieser Verordnung werden vier Fonds geschaffen:
 
-- a) ein Fonds von 17'990'000 Franken für die Finanzhilfen, der zur Hälfte vom Bund (Art. 11 Abs. 3 des Covid-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird;
-- b) ein Fonds für die zusätzlichen kantonalen Unterstützungsbeiträge (Art. 22b), zu dem der Staat 25'000 Franken und die kantonale Kommission der Loterie Romande 175'000 Franken beisteuert, wobei ein allfälliger Restbetrag an diese zurückfliesst.
+- a) ein Fonds von 8'748'000 Franken für die Finanzhilfen der Jahre 2020 und 2021, der zur Hälfte vom Bund (Art. 11 Abs. 3 des COVID-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird;
+- a<sup>bis</sup>) ein Fonds von 6'528'000 Franken für die Finanzhilfen des Jahres 2022, der zur Hälfte vom Bund (Art. 11 Abs. 3 des COVID-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird;
+- b) ein Fonds für die zusätzliche kantonale Unterstützung (Art. 22b Abs. 2), zu dem der Staat 25'000 Franken und die kantonale Kommission der Loterie Romande 175'000 Franken beisteuern, wobei ein allfälliger Restbetrag an diese zurückfliesst.
+- c) ein Fonds für zusätzliche kantonale Unterstützungen für die Bezirksverbände des Freiburger Kantonal Musikverbands (Art. 22b Abs. 2<sup>ter</sup>), der vom Staat mit 100'000 Franken gespiesen wird. Die finanzielle Unterstützung beläuft sich auf höchstens 15'000 Franken pro Bezirksverband.
 
-<sup>2</sup> Der Anteil des Staates an diesen beiden Fonds wird aus dem Wiederankurbelungsfonds, mit dem Betrag von 4'400'000 für den Kulturbereich gemäss Dekret, finanziert. Dieser Betrag wurde per Staatsratsbeschluss vom 26. Mai 2021 um 4'620'000 Franken aufgestockt.
+<sup>2</sup> Der Anteil des Staates an diesen Fonds wird aus dem Wiederankurbelungsfonds, mit dem Betrag von 4'400'000 Franken für den Kulturbereich gemäss Dekret, finanziert.
 
 ## 5 Massnahmen im Bereich des Sports
 
@@ -410,7 +418,7 @@ beschliesst:
 <sup>1</sup> Folgende Behörde entscheidet, gestützt auf die Stellungnahme der Ad-hoc-Kommission (Art. 31 Abs. 2), über das Gesuch:
 
 - a) das Amt für Sport für die Gewährung eines Betrags bis höchstens 50'000 Franken;
-- b) die Direktion für die Gewährung eines Betrags zwischen 50'001 und 100'000 Franken;
+- b) die Sicherheits-, Justiz- und Sportdirektion für die Gewährung eines Betrags zwischen 50'001 und 100'000 Franken;
 - c) der Staatsrat für die Gewährung eines Betrags von über 100'000 Franken.
 
 <sup>2</sup> Eine Finanzhilfe von über 100'000 Franken für die Saison 2020/21 wird nur gewährt, wenn nach Bearbeitung sämtlicher Gesuche für diese Periode mindestens die Hälfte der vom Dekret zugesprochenen Mittel übrig bleiben,und für die Saison 2021/22 unter Vorbehalt übrigbleibender Mittel nach Bearbeitung sämtlicher Gesuche für diese Periode.
@@ -441,11 +449,11 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Die vom Amt für Sport und vom Amt für Kultur in Anwendung dieser Verordnung getroffenen Entscheide können innerhalb von dreissig Tagen bei der Direktion angefochten werden.
+<sup>1</sup> Die vom Amt für Sport und vom Amt für Kultur in Anwendung dieser Verordnung getroffenen Entscheide können innerhalb von dreissig Tagen bei der zuständigen Direktion angefochten werden.
 
 <sup>2</sup> Gegen Entscheide im Bereich der Stipendien kann bei der Kommission für Ausbildungsbeiträge Beschwerde eingelegt werden.
 
-<sup>3</sup> Die Einspracheentscheide und die Entscheide der Direktion oder des Staatsrats können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege angefochten werden.
+<sup>3</sup> Die Einspracheentscheide sowie die Entscheide, die von der zuständigen Direktion oder vom Staatsrat getroffen werden, können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege angefochten werden.
 
 #### Art. 38
 

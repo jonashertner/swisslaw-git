@@ -1,30 +1,32 @@
 ---
 canton: FR
 number: "821.40.35"
-title: "Ordonnance relative aux mesures du plan de relance pour contrer les effets du coronavirus relevant de la Direction de l'instruction publique, de la culture et du sport"
+title: "Ordonnance relative aux mesures du plan de relance pour contrer les effets du coronavirus relevant de la Direction de la formation et des affaires culturelles et de la Direction de la sécurité, de la justice et du sport"
 language: fr
-version: 2021-08-17
-valid_until: 2021-12-31
-version_adopted: 2021-08-17
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-02-08
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6896/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7142/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance relative aux mesures du plan de relance pour contrer les effets du coronavirus relevant de la Direction de l'instruction publique, de la culture et du sport
+# Ordonnance relative aux mesures du plan de relance pour contrer les effets du coronavirus relevant de la Direction de la formation et des affaires culturelles et de la Direction de la sécurité, de la justice et du sport
 
 COVID-19, plan de relance – Mesures DICS – O
 
-du 24.11.2020 (version entrée en vigueur le 17.08.2021)
+du 24.11.2020 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
 Vu la loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l'épidémie de COVID-19 (Loi COVID-19), en particulier l'article 11;
 
 Vu l'ordonnance fédérale du 14 octobre 2020 sur les mesures dans le domaine de la culture prévues par la loi COVID-19 (Ordonnance COVID-19 dans le domaine de la culture);
+
+Vu la loi du 17 novembre 1999 sur les subventions (LSub), en particulier l'article 37;
 
 Vu le décret du 13 octobre 2020 relatif au plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus dans le canton de Fribourg;
 
@@ -34,9 +36,7 @@ Vu la loi du 14 février 2008 sur les bourses et prêts d'études (LBPE) et son 
 
 Considérant:
 
-La présente ordonnance concrétise le décret du 13 octobre 2020 relatif au plan cantonal de relance à la suite des impacts de l'épidémie de coronavirus dans les domaines qui relèvent de la Direction de l'instruction publique, de la culture et du sport. Elle fixe les objectifs, les critères et modalités d'octroi, le cercle des bénéficiaires ainsi que la procédure concernant les différentes aides et contributions financières, dans la mesure où ces derniers divergent de la législation ordinaire applicable.
-
-Dans le domaine de la culture, elle fait suite à l'ordonnance d'urgence du 14 avril 2020 d'application de l'ordonnance fédérale sur l'atténuation des conséquences économiques du coronavirus (COVID-19) dans le secteur de la culture, afin de poursuivre le soutien aux entreprises culturelles et, par elles, les acteurs culturels, ces derniers continuant à subir des dommages en raison des mesures prises par la Confédération ou l'Etat. Le Conseil d'Etat s'appuie sur l'ordonnance fédérale du 14 octobre 2020 COVID-19 dans le domaine de la culture. Par ailleurs, l'Etat de Fribourg et la Confédération suisse, représentée par l'Office fédéral de la culture (OFC), ont signé une convention de prestations.
+La présente ordonnance concrétise le décret du 13 octobre 2020 relatif au plan cantonal de relance à la suite des impacts de l'épidémie de coronavirus dans les domaines qui relèvent de la Direction de l'instruction publique, de la culture et du sport. Elle fixe les objectifs, les critères et modalités d'octroi, le cercle des bénéficiaires ainsi que la procédure concernant les différentes aides et contributions financières, dans la mesure où ces derniers divergent de la législation ordinaire applicable. Dans le domaine de la culture, elle fait suite à l'ordonnance d'urgence du 14 avril 2020 d'application de l'ordonnance fédérale sur l'atténuation des conséquences économiques du coronavirus (COVID-19) dans le secteur de la culture, afin de poursuivre le soutien aux entreprises culturelles et, par elles, les acteurs culturels, ces derniers continuant à subir des dommages en raison des mesures prises par la Confédération ou l'Etat. Le Conseil d'Etat s'appuie sur l'ordonnance fédérale du 14 octobre 2020 COVID-19 dans le domaine de la culture et adapte l'ordonnance cantonale en fonction de l'évolution régulière du droit fédéral. Sur cette base, l'Etat de Fribourg et la Confédération suisse, représentée par l'Office fédéral de la culture (OFC), ont signé plusieurs conventions de prestations successives.
 
 Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
 
@@ -48,7 +48,7 @@ Arrête:
 
 **Objet et but général**
 
-<sup>1</sup> La présente ordonnance fixe les objectifs, les critères et les modalités d'octroi, le cercle des bénéficiaires et la procédure des différentes mesures de soutien prévues par le décret relatif au plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus dans le canton de Fribourg (ci-après: le décret), dans les domaines relevant de la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction).
+<sup>1</sup> La présente ordonnance fixe les objectifs, les critères et les modalités d'octroi, le cercle des bénéficiaires et la procédure des différentes mesures de soutien prévues par le décret relatif au plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus dans le canton de Fribourg (ci-après: le décret), dans les domaines relevant de la Direction de la formation et des affaires culturelles et de la Direction de la sécurité, de la justice et du sport.
 
 <sup>2</sup> Elle contient des dispositions qui complètent les législations applicables dans les différents domaines concernés par le décret et/ou qui y dérogent partiellement.
 
@@ -168,7 +168,7 @@ Arrête:
 - a) le montant maximal annuel d'une bourse est de 35'000 francs, en dérogation à l'article 9 al. 2 RBPE;
 - b) les frais d'entretien de la personne en formation pris en considération sont au maximum ceux qui sont en vigueur pour le calcul des prestations complémentaires, en dérogation à l'article 5 al. 2 let. a RBPE;
 - c) le loyer effectif est pris en compte pour les frais de logement, à concurrence du maximum des prix des loyers moyens du canton, selon la dernière publication de l'Office fédéral de la statistique, en dérogation à l'article 5 al. 2 let. b RBPE;
-- d) la prime de l'assurance-maladie est prise en compte; elle correspond à la prime moyenne de l'année de formation (1<sup>er</sup> semestre) du district de la Sarine;
+- d) la prime de l'assurance-maladie est en principe prise en compte; elle correspond à la prime moyenne cantonale mensuelle de l'assurance obligatoire des soins de l'année de formation (1<sup>er</sup> semestre);
 - e) si la personne en formation a un ou plusieurs enfants et vit avec l'autre parent, le revenu et la fortune de ce dernier sont pris en compte, conformément à la norme F.5.3 de la Conférence suisse des institutions d'action sociale, au taux de 65 % (art. 17 al. 6 RBPE);
 - f) aucun supplément d'intégration n'est accordé, en dérogation à l'article 29 al. 1 RBPE.
 
@@ -223,13 +223,15 @@ Arrête:
 
 <sup>3</sup> En outre, le Service de la culture se coordonne avec la Conférence des délégués cantonaux aux affaires culturelles (CDAC) de la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP) et l'Office fédéral de la culture (OFC), pour préciser ses critères qu'il publie sur son site Internet.
 
+<sup>4</sup> L'article 4 al. 5 de l'ordonnance fédérale COVID-19 s'applique en cas de levée totale des mesures prises par la Confédération et l'Etat pour lutter contre le COVID-19, à l'exception de l'article 22b al. 2<sup>ter</sup>.
+
 #### Art. 20
 
 **Procédure et délai**
 
 <sup>1</sup> Les demandes doivent être adressées au Service de la culture, par le biais de son portail électronique, dans le respect des délais intermédiaires fixés à l'article 6 al. 1 de l'ordonnance fédérale COVID-19 culture.
 
-<sup>2</sup> Pour les aides financières en faveur de projets de transformation, le Service de la culture peut agir par des appels à projet.
+<sup>2</sup> Pour les aides financières en faveur de projets de transformation, le Service de la culture peut agir par des appels à projet. Les délais sont fixés au 27 février, 15 mai, 14 août et 23 octobre 2022.
 
 <sup>3</sup> Pour traiter et évaluer les demandes, le Service de la culture peut recourir à des experts externes. Les frais qui en découlent sont couverts par les moyens et dans les limites indiqués à l'article 23.
 
@@ -252,7 +254,7 @@ Arrête:
 <sup>1</sup> Sur la base du préavis de la commission ad hoc (art. 20 al. 4), l'autorité compétente est:
 
 - a) le Service de la culture pour décider de l'octroi d'un montant jusqu'à 50'000 francs;
-- b) la Direction pour décider de l'octroi d'un montant se situant entre 50'001 et 100'000 francs;
+- b) la Direction de la formation et des affaires culturelles pour décider de l'octroi d'un montant se situant entre 50'001 et 100'000 francs;
 - c) le Conseil d'Etat pour décider de l'octroi d'un montant supérieur à 100'000 francs.
 
 <sup>2</sup> …
@@ -263,28 +265,34 @@ Arrête:
 
 <sup>1</sup> Dans des cas particuliers, une aide financière dépassant 100'000 francs peut n'être accordée que sous réserve de montants disponibles à l'issue du traitement de toutes les demandes.
 
-<sup>2</sup> Une aide financière sous forme d'indemnisation ne peut dépasser 750'000 francs pour les entreprises culturelles à but lucratif.
+<sup>2</sup> Une aide financière sous forme d'indemnisation ne peut dépasser 1'500'000 francs pour les entreprises culturelles à but lucratif.
 
 #### Art. 22b
 
 **Soutiens cantonaux supplémentaires**
 
-<sup>1</sup> Une aide financière est octroyée, avec effet rétroactif, aux acteurs culturels pour les pertes en lien avec le COVID-19 subies entre le 1<sup>er</sup> novembre et le 18 décembre 2020.
+<sup>1</sup> …
 
 <sup>2</sup> Exceptionnellement, l'Etat peut, dans le respect des critères énoncés à l'article 19, soutenir des entreprises ou acteurs culturels ne remplissant pas les conditions de l'ordonnance fédérale COVID-19 culture et ne percevant pas de soutien financier au sens de l'article 10 al. 1 de l'ordonnance du 16 novembre 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur.
 
-<sup>3</sup> Ces soutiens cantonaux supplémentaires sont financés par le fonds mentionné à l'article 23 al. 1 let. b.
+<sup>2<sup>bis</sup></sup> Ces soutiens cantonaux supplémentaires sont financés par le fonds mentionné à l'article 23 al. 1 let. b.
+
+<sup>2<sup>ter</sup></sup> Pour les girons de district de la société cantonale des musiques fribourgeoises, l'Etat peut soutenir les coûts supplémentaires notamment de personnel, d'infrastructure, d'organisation et de communication, occasionnés par les mesures publiques de lutte contre le COVID-19.
+
+<sup>3</sup> Ces soutiens cantonaux supplémentaires sont financés par le fonds mentionné à l'article 23 al. 1 let. c.
 
 #### Art. 23
 
 **Fonds**
 
-<sup>1</sup> Deux fonds sont créés pour l'application de la présente ordonnance:
+<sup>1</sup> Quatre fonds sont créés pour l'application de la présente ordonnance:
 
-- a) un fonds de 17'990'000 francs pour les aides financières, alimenté pour moitié par la Confédération (art. 11 al. 3 de la loi fédérale COVID-19) et pour moitié par l'Etat;
-- b) un fonds pour des soutiens cantonaux supplémentaires (art. 22b), alimenté par l'Etat à raison de 25'000 francs ainsi que par la Commission cantonale de la Loterie romande à raison de 175'000 francs, étant précisé qu'un éventuel solde lui sera restitué.
+- a) un fonds de 8'748'000 francs pour les aides financières de l'année 2020 et 2021, alimenté pour moitié par la Confédération (art. 11 al. 3 de la loi fédérale COVID-19) et pour moitié par l'Etat;
+- a<sup>bis</sup>) un fonds de 6'528'000 francs pour les aides financières de l'année 2022, alimenté pour moitié par la Confédération (art. 11 al. 3 de la loi fédérale COVID-19) et pour moitié par l'Etat;
+- b) un fonds pour des soutiens cantonaux supplémentaires exceptionnels (art. 22b al. 2), alimenté par l'Etat à raison de 25'000 francs ainsi que par la Commission cantonale de la Loterie romande à raison de 175'000 francs, étant précisé qu'un éventuel solde lui sera restitué;
+- c) un fonds pour des soutiens cantonaux supplémentaires pour les girons de district de la société cantonale des musiques fribourgeoises (art. 22b al. 2<sup>ter</sup>), alimenté par l'Etat à raison de 100'000 francs. L'aide financière se monte au maximum à 15'000 francs par giron.
 
-<sup>2</sup> La part de l'Etat à ces deux fonds est financée par le fonds de relance, dans la limite du montant de 4'400'000 francs prévu pour le domaine de la culture par le décret. Par arrêté du Conseil d'Etat du 26 mai 2021, ce montant a été complété de 4'620'000 francs.
+<sup>2</sup> La part de l'Etat à ces fonds est financée par le fonds de relance, dans la limite du montant de 4'400'000 francs prévu pour le domaine de la culture par le décret.
 
 ## 5 Mesures dans le domaine du sport
 
@@ -410,7 +418,7 @@ Arrête:
 <sup>1</sup> Sur la base du préavis de la commission ad hoc (art. 31 al. 2), l'autorité compétente est:
 
 - a) le Service du sport pour décider de l'octroi d'un montant jusqu'à 50'000 francs;
-- b) la Direction pour décider de l'octroi d'un montant se situant entre 50'001 et 100'000 francs;
+- b) la Direction de la sécurité, de la justice et du sport pour décider de l'octroi d'un montant se situant entre 50'001 et 100'000 francs;
 - c) le Conseil d'Etat pour décider de l'octroi d'une subvention dont le montant est supérieur à 100'000 francs.
 
 <sup>2</sup> Une aide financière dépassant 100'000 francs pour la saison 2020/21 ne sera accordée que sous réserve que, à l'issue du traitement de toutes les demandes pour cette période, au moins la moitié du montant alloué par le décret reste disponible et, pour la saison 2021/22, sous réserve d'une disponibilité financière à l'issue du traitement de toutes les demandes pour cette période.
@@ -441,11 +449,11 @@ Arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions rendues par le Service du sport et le Service de la culture en application de la présente ordonnance peuvent faire l'objet d'une réclamation, dans les trente jours, auprès de la Direction.
+<sup>1</sup> Les décisions rendues par le Service du sport et le Service de la culture en application de la présente ordonnance peuvent faire l'objet d'une réclamation, dans les trente jours, auprès de la Direction compétente.
 
 <sup>2</sup> Les décisions rendues dans le domaine des bourses sont sujettes à réclamation auprès de la Commission des subsides de formation.
 
-<sup>3</sup> Les décisions rendues sur réclamation ainsi que celles qui sont prises par la Direction ou le Conseil d'Etat sont sujettes à recours conformément au code de procédure et de juridiction administrative.
+<sup>3</sup> Les décisions rendues sur réclamation ainsi que celles qui sont prises par la Direction compétente ou le Conseil d'Etat sont sujettes à recours conformément au code de procédure et de juridiction administrative.
 
 #### Art. 38
 
