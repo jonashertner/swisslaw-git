@@ -3,11 +3,11 @@ sr: "0.632.311.231.1"
 title: Landwirtschaftsabkommen vom 17. Dezember 2009 zwischen der Schweizerischen Eidgenossenschaft und der Republik Albanien (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/686"
 language: de
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2009-12-17
 in_force: 2010-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/686/20170601/de/xml/fedlex-data-admin-ch-eli-cc-2010-686-20170601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/686/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/686/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-686-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/686/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 15. März 2010[^t-1]
 
 In Kraft getreten am 1. November 2010
 
-(Stand am 1. Juni 2017)
+(Stand am 1. Januar 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 15. März 2010 ([AS 2010 4803](https://fedlex.data.admin.ch/eli/oc/2010/684))
 
@@ -47,11 +47,13 @@ Albanien gewährt Zollkonzessionen auf landwirtschaftliche Erzeugnisse schweizer
 
 #### Art. 3
 
-**Ursprungsregeln und Zollverfahren**
+**Ursprungsregeln und administrative Zusammenarbeit**[^3-1]
 
-<sup>1.</sup> Die Ursprungsregeln und die Bestimmungen zur Zusammenarbeit in Zollangelegenheiten in Protokoll B des Freihandelsabkommens gelten für dieses Abkommen unter Vorbehalt der Ausnahme nach Absatz 2. Jeder Verweis auf «EFTA-Staaten» in diesem Protokoll ist als Verweis auf die Schweiz zu verstehen.
+<sup>1.</sup> Die Rechte und Pflichten der Vertragsparteien in Bezug auf die Ursprungsregeln und die administrative Zusammenarbeit zwischen den Zollbehörden der Vertragsparteien richten sich nach Protokoll B des Freihandelsabkommens.
 
-<sup>2.</sup> Für den Zweck dieses Abkommens gelten Artikel 3 und 4 von Protokoll B des Freihandelsabkommens nicht für unter dieses Abkommen fallende Erzeugnisse, die von einem EFTA-Staat in einen anderen ausgeführt werden.
+<sup>2.</sup> Jeder Verweis auf «EFTA-Staaten» im Protokoll B ist als Verweis auf die Schweiz zu verstehen.
+
+[^3-1]: Fassung gemäss der Änd. vom 24. Juni 2021, in Kraft getreten für die Schweiz am 1. Jan. 2022 ([AS 2021 872](https://fedlex.data.admin.ch/eli/oc/2021/872)).
 
 #### Art. 4
 
@@ -79,7 +81,7 @@ Die Vertragsparteien bekräftigen ihre Rechte und Pflichten aus dem WTO-Überein
 
 Die Bestimmungen zum territorialen Anwendungsbereich (Art. 3), zu zentralen, regionalen und lokalen Regierungen (Art. 4), Ein- und Ausfuhrbeschränkungen (Art. 9), gesundheitspolizeilichen und pflanzenschutzrechtlichen Massnahmen (Art. 11), technischen Vorschriften (Art. 12) und bilateralen Schutzmassnahmen (Art. 20) des Freihandelsabkommens gelten ebenso wie dessen Kapitel 8[^7-1] über die Streitbeilegung *mutatis mutandis* zwischen den Vertragsparteien dieses Abkommens.
 
-[^7-1]: Verweis gemäss Ziff. 5 des Prot. vom 18. Sept. 2015, von der BVers genehmigt am 17. März 2016, in Kraft getreten für die Schweiz am 1. Juni 2017 ([AS 2018 1163](https://fedlex.data.admin.ch/eli/oc/2018/172), [2017 453](https://fedlex.data.admin.ch/eli/oc/2017/71); [BBl 2016 817](https://fedlex.data.admin.ch/eli/fga/2016/158)915).
+[^7-1]: Verweis gemäss Ziff. 5 des Prot. vom 18. Sept. 2015, von der BVers genehmigt am 17. März 2016, in Kraft getreten für die Schweiz am 1. Juni 2017 ([AS 2018 1163](https://fedlex.data.admin.ch/eli/oc/2018/172); [2017 453](https://fedlex.data.admin.ch/eli/oc/2017/71); [BBl 2016 817](https://fedlex.data.admin.ch/eli/fga/2016/158)915).
 
 #### Art. 8
 

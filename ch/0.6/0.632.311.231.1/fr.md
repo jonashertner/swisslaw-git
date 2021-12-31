@@ -3,11 +3,11 @@ sr: "0.632.311.231.1"
 title: "Accord agricole du 17 décembre 2009 entre la Confédération suisse et la République d'Albanie (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/686"
 language: fr
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2009-12-17
 in_force: 2010-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/686/20170601/fr/xml/fedlex-data-admin-ch-eli-cc-2010-686-20170601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/686/20170601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/686/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-686-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/686/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 15 mars 2010[^t-1]
 
 Entré en vigueur le 1<sup>er</sup> novembre 2010
 
-(Etat le 1<sup>er</sup> juin 2017)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Art. 1, al. 1, let. b, de l’AF du 15 mars 2010 ([RO 2010 4803](https://fedlex.data.admin.ch/eli/oc/2010/684)).
 
@@ -47,11 +47,13 @@ L’Albanie octroie des concessions tarifaires aux produits agricoles originaire
 
 #### Art. 3
 
-**Règles d’origine et procédures douanières**
+**Règles d’origine et coopération administrative**[^3-1]
 
-<sup>1.</sup> Les règles d’origine et les dispositions relatives à la coopération en matière douanière fixées dans le Protocole B de l’Accord de libre-échange s’appliquent au présent Accord, sous réserve des dispositions de l’al. 2. Toute référence aux «États de l’AELE» dans ce Protocole est réputée désigner la Suisse.
+<sup>1.</sup> Les droits et obligations des Parties relatifs aux règles d’origine et à la coopération administrative entre les autorités douanières des Parties sont régis par le protocole B de l’accord de libre-échange.
 
-<sup>2.</sup> Aux fins du présent Accord, les art. 3 et 4 du Protocole B de l’Accord de libre-échange ne s’appliquent pas aux produits couverts par le présent Accord qui sont exportés d’un État de l’AELE dans un autre État de l’AELE.
+<sup>2.</sup> Toute référence aux «États de l’AELE» dans le Protocle B est réputée désigner la Suisse.
+
+[^3-1]: Nouvelle teneur selon l’Am. du 24 juin 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 872](https://fedlex.data.admin.ch/eli/oc/2021/872)).
 
 #### Art. 4
 
