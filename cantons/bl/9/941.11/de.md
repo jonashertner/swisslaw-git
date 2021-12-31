@@ -4,13 +4,13 @@ number: "941.11"
 title: Altersbetreuungs- und Pflegeverordnung
 short: APV
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-12-03
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2022-01-18
 adopted: 2018-03-20
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/941.11"
-pdf: "https://bl.clex.ch/api/de/versions/2512/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2512/pdf_file"
 
 (APV)
 
-Vom 20.03.2018 (Stand 01.01.2020)
+Vom 20.03.2018 (Stand 01.01.2022)
 
 Der Regierungsrat,
 
@@ -156,11 +156,11 @@ beschliesst:
 
 **Kostenrechnung und Leistungsstatistik**
 
-<sup>1</sup> Die stationären Pflegeeinrichtungen erstellen die Kostenrechnung, die Anlagebuchhaltung und die Leistungsstatistik gemäss der [Erfassungsmethodik der Fachgruppe Monitoring APH vom Dezember 2019](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/alter/pflegefinanzierung/pflegefinanzierung-dateien/2020_VO-Erfassungsmethodik-APH_B3-EM.pdf)[^10a-1].
+<sup>1</sup> Die stationären Pflegeeinrichtungen erstellen die Kostenrechnung, die Anlagebuchhaltung und die Leistungsstatistik gemäss der [Erfassungsmethodik der Fachgruppe Monitoring APH vom November 2021](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/alter/pflegefinanzierung/stationaer-alters-und-pflegeheime/dateien-stationaere-pflegefinanzierung/erfassungsmethodik-aktuell.pdf)[^10a-1].
 
 <sup>2</sup> Sie lassen sich die Einhaltung der Erfassungsmethodik durch eine akkreditierte Revisionsstelle bestätigen und reichen die Bestätigung der Direktion sowie den Gemeinden und Versorgungsregionen, mit welchen sie eine Leistungsvereinbarung abgeschlossen haben, bis Ende Mai des Folgejahres ein.
 
-[^10a-1]: https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/alter/pflegefinanzierung/pflegefinanzierung-dateien/2020\_VO-Erfassungsmethodik-APH\_B3-EM.pdf
+[^10a-1]: Linkadresse: https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/alter/pflegefinanzierung/stationaer-alters-und-pflegeheime/dateien-stationaere-pflegefinanzierung/erfassungsmethodik-aktuell.pdf
 
 #### § 11
 
