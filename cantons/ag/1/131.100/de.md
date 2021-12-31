@@ -4,13 +4,13 @@ number: "131.100"
 title: Gesetz über die politischen Rechte
 short: GPR
 language: de
-version: 2020-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-09-17
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2019-12-10
 adopted: 1992-03-10
 in_force: 1993-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/131.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2813/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3033/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2813/pdf_file"
 
 (GPR)
 
-Vom 10.03.1992 (Stand 01.04.2020)
+Vom 10.03.1992 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -177,7 +177,7 @@ beschliesst:
   - a) die Ersatzwahlen für Behörden der Bezirke und Kreise;
   - b) …
 - 3\. Vom Gemeinderat
-  - a) die Ersatzwahlen für Gemeinderäte, die Schulpflege und die von der Gemeinde zu wählenden Kommissionen;
+  - a) die Ersatzwahlen für Gemeinderäte und die von der Gemeinde zu wählenden Kommissionen;
   - b) die Wahlen von Abgeordneten in die Gemeindeverbände gemäss Gemeindeordnung;
   - c) die Abstimmungen in Gemeindeangelegenheiten.
 - 4\. Vom zuständigen Verbandsorgan die im Verbandsgebiet eines Gemeindeverbandes durchzuführenden Wahlen und Abstimmungen.
@@ -364,7 +364,7 @@ beschliesst:
 - 3\. im Wahlkreis des Kreises die Friedensrichterinnen und Friedensrichter;
 - 4\. im Wahlkreis der Gemeinde
   - a) die Gemeinderäte, der Gemeindeammann und der Vizeammann in gleichzeitiger Wahl, soweit die Gemeinde in ihrer Gemeindeordnung nicht die separate Wahl von Gemeindeammann und Vizeammann vorsieht;
-  - b) die Schulpflege;
+  - b) …
   - c) die übrigen Mitglieder und Ersatzmitglieder des Wahlbüros (Stimmenzähler);
   - d) die Kommissionen;
   - e) die Abgeordneten der Gemeindeverbände gemäss Gemeindeordnung.
