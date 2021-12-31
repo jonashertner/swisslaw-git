@@ -3,18 +3,18 @@ sr: "910.181"
 title: "Ordinanza del DEFR del 22 settembre 1997 sull'agricoltura biologica"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR sull’agricoltura biologica
 
-del 22 settembre 1997 (Stato 1° gennaio 2021)
+del 22 settembre 1997 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)*[^ingress-1]*,
 
@@ -106,19 +106,18 @@ Per la produzione, la preparazione e la formulazione di lievito biologico posson
 
 **Utilizzazione di prodotti e sostanze di cui all’articolo 16*j* capoverso 2 lettere b e c dell’ordinanza sull’agricoltura biologica per la produzione di vino**[^3b-1]
 
-Per la produzione di vino possono essere utilizzati soltanto prodotti e sostanze di cui all’allegato VIIIa del regolamento (CE) n. 889/2008[^3b-2].
+Per la produzione di vino possono essere utilizzati soltanto prodotti e sostanze di cui all’allegato V parte D del Regolamento di esecuzione (UE) 2021/1165[^3b-2].
 
-[^3b-1]: Introdotto dal n. I dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
-[^3b-2]: Regolamento (CE) n. 889/2008 della Commissione del 5 settembre 2008 recante modalità di applicazione del regolamento (CE) n. 834/2007 del Consiglio relativo alla produzione biologica e all’etichettatura dei prodotti biologici, per quanto riguarda la produzione biologica, l’etichettatura e i controlli, GU L 250 del 18.9.2008, pag. 1 modificato da ultimo dal regolamento di esecuzione (UE) 2019/2164, GU L 328 del 18.12.2019, pag. 61.
+[^3b-1]: Introdotto dal n. I dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nuovo testo giusta il n. I dell’O del DEFR del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^3b-2]: Regolamento di esecuzione (UE) 2021/1165 della Commissione del 15 luglio 2021 che autorizza l’utilizzo di taluni prodotti e sostanze nella produzione biologica e stabilisce i relativi elenchi, GU L 253 del 16.7.2021, pag. 45–47.
 
 #### Art. 3c
 
 **Pratiche e trattamenti enologici nonché relative limitazioni**[^3c-1]
 
-Sono ammessi le pratiche e i trattamenti enologici di cui all’articolo 29*d* del regolamento (CE) n. 889/2008[^3c-2].
+Sono ammessi le pratiche e i trattamenti enologici di cui all’allegato II parte VI numero 3 del Regolamento (UE) 2018/848 nella versione secondo l’allegato 3*b*.
 
-[^3c-1]: Introdotto dal n. I dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
-[^3c-2]: Cfr. nota a piè di pagina relativa all’art. 3*b*.
+[^3c-1]: Introdotto dal n. I dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nuovo testo giusta il n. I dell’O del DEFR del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 #### Art. 4
 
@@ -634,9 +633,12 @@ I prodotti biologici possono ancora essere prodotti e forniti sino al 31 dicembr
 
 <sup>6</sup> Il termine di cui al capoverso 5 è prorogato fino al 31 dicembre 2022.[^u3-4]
 
+<sup>7</sup> Il termine di cui al capoverso 6, per i suinetti fino a 35 kg e per il pollame giovane, è prorogato fino al 31 dicembre 2025.[^u3-5]
+
 [^u3-2]: Introdotto dal n. I dell’O del DEFR del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)).
 [^u3-3]: Introdotto dal n. I dell’O del DEFR del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 [^u3-4]: Introdotto dal n. I dell’O del DEFR del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
+[^u3-5]: Introdotto dal n. I dell’O del DEFR del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ## Disposizioni transitorie della modifica del 1° settembre 2016****
 
@@ -657,13 +659,27 @@ I prodotti biologici possono ancora essere prodotti e forniti sino al 31 dicembr
 
 [^u4-2]: Introdotto dal n. I dell’O del DEFR del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 
+## Disposizioni transitorie relative alla modifica del 3 novembre 2021****
+
+[^u5-1]
+
+[^u5-1]: [RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)
+
+<sup>2</sup> I prodotti biologici possono essere prodotti e forniti sino al 31 dicembre 2023 secondo le disposizioni previgenti dell’allegato 3 parte C. Le riserve ancora esistenti a tale data possono essere fornite sino al loro esaurimento.
+
+<sup>1</sup> Sino al 31 dicembre 2022 possono essere utilizzati per la produzione di derrate alimentari trasformate:
+
+- a. lecitine (E322) e cera di carnauba (E903) di cui all’allegato 3 parte A ottenute da materie prime biologiche;
+- b. farina di semi di carrube (E410), gomma di guar (E412), gomma arabica (E414), gomma di gellano (E418) e glicerolo (E422) di cui all’allegato 3 parte A non ottenuti da produzione biologica;
+- c. cera di carnauba per la preparazione di derrate alimentari di origine vegetale di cui all’allegato 3 parte B numero 1 ottenuta da materie prime biologiche.
+
 Allegato 1*[^t-1]*
 
 (art. 1 e 16 cpv. 5)
 
 ## Prodotti fitosanitari autorizzati e condizioni per l’uso
 
-[^t-1]: Nuovo testo giusta il n. III cpv. 1 dell’O del DEFR del 1° set. 2016 ([RU 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Aggiornato dal n. II cpv. 1 delle O del DEFR del 18 ott. 2017 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), del 31 ott. 2018 ([RU 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), dal n. II dell’O del DEFR del 23 ott. 2019 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) e dal n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-1]: Nuovo testo giusta il n. III cpv. 1 dell’O del DEFR del 1° set. 2016 ([RU 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Aggiornato dal n. II cpv. 1 delle O del DEFR del 18 ott. 2017 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), del 31 ott. 2018 ([RU 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), dal n. II dell’O del DEFR del 23 ott. 2019 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), dai n. II cpv. 1 delle O del DEFR dell’11 nov. 2020 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) e del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 Tutti i prodotti fitosanitari elencati sottostanno alle condizioni per l’uso di cui all’ordinanza del 12 maggio 2010[^annex1-lvlu1-1] sui prodotti fitosanitari (OPF). Condizioni più restrittive, valide per la produzione biologica, sono indicate nella seconda colonna di ogni tabella.
 
@@ -673,13 +689,13 @@ Tutti i prodotti fitosanitari elencati sottostanno alle condizioni per l’uso d
 
 <table>
 <tr><th>Designazione</th><th>Descrizione; requisiti in materia di composizione; condizioni per l’uso</th></tr>
-<tr><td>Allium sativum (estratto d’aglio)</td><td></td></tr>
+<tr><td>*Allium sativum* (estratto d’aglio)</td><td></td></tr>
 <tr><td>Azadiractina estratta da *Azadirachta indica* (albero del neem)</td><td></td></tr>
 <tr><td>Cera d’api</td><td>Solo come pasta cicatrizzante</td></tr>
 <tr><td>Cere vegetali</td><td>Solo come pasta cicatrizzante</td></tr>
 <tr><td>Farina di senape</td><td>Solo come fungicida</td></tr>
 <tr><td>Terpeni</td><td>Solo eugenolo, geraniolo e timolo</td></tr>
-<tr><td>Feromoni</td><td>Solo per la lotta contro gli insetti mediante trappole o erogatori, per esempio tecnica di confusione e feromoni di marcatura</td></tr>
+<tr><td>Feromoni e altri semiochimici</td><td>Solo per la lotta contro gli insetti mediante trappole o erogatori, compresi i sistemi di dosaggio ad aerosol, per esempio tecnica di confusione e feromoni di marcatura</td></tr>
 <tr><td>Laminarina</td><td>Solo per attivare le difese naturali delle piante utili. L’alga bruna dev’essere ottenuta da produzione biologica o raccolta in modo sostenibile</td></tr>
 <tr><td>Lecitina</td><td>Non ottenuta da organismi geneticamente modificati</td></tr>
 <tr><td>Oli vegetali, come olio di menta, di pino, di carvi, di colza e di finocchio</td><td>Tutti gli usi autorizzati, salvo erbicida</td></tr>
@@ -698,6 +714,7 @@ Tutti i prodotti fitosanitari elencati sottostanno alle condizioni per l’uso d
 
 <table>
 <tr><th>Designazione</th><th>Descrizione; requisiti in materia di composizione; condizioni per l’uso</th></tr>
+<tr><td>Cerevisane e altri prodotti a base di frammenti cellulari di microorganismi</td><td></td></tr>
 <tr><td>Cerevisane</td><td></td></tr>
 <tr><td>Microorganismi naturali, virus inclusi</td><td>Non modificati geneticamente</td></tr>
 <tr><td>Spinosad</td><td></td></tr>
@@ -738,7 +755,7 @@ Allegato 2*[^t-2]*
 
 ## Concimi, preparati e substrati autorizzati
 
-[^t-2]: Aggiornato dal n. I dell’O del DEFR del 7 dic. 1998 ([RU 1999 292](https://fedlex.data.admin.ch/eli/oc/1999/33)), dal n. I cpv. 1 dell’O del DEFR del 14 dic. 2000 ([RU 2001 252](https://fedlex.data.admin.ch/eli/oc/2001/52)), dall’art. 9 dell’O del DEFR del 28 feb. 2001 sul libro dei concimi ([RU 2001 722](https://fedlex.data.admin.ch/eli/oc/2001/109)), dal n. I dell’O del DEFR del 13 mar. 2001 ([RU 2001 1322](https://fedlex.data.admin.ch/eli/oc/2001/181)), dall’all. 3 dell’O del DEFR del 16 nov. 2007 sul libro dei concimi ([RU 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), dal n. II cpv. 1 dell’O del DEFR del 27 ott. 2010, ([RU 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)) e dal n. II cpv. 2 dell’O del DEFR del 29 ott. 2014 ([RU 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), dal n. II cpv. 1 dell’O del DEFR del 18 ott. 2017 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), dal n. II dell’O del DEFR del 23 ott. 2019 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) e dal n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-2]: Aggiornato dal n. I dell’O del DEFR del 7 dic. 1998 ([RU 1999 292](https://fedlex.data.admin.ch/eli/oc/1999/33)), dal n. I cpv. 1 dell’O del DEFR del 14 dic. 2000 ([RU 2001 252](https://fedlex.data.admin.ch/eli/oc/2001/52)), dall’art. 9 dell’O del DEFR del 28 feb. 2001 sul libro dei concimi ([RU 2001 722](https://fedlex.data.admin.ch/eli/oc/2001/109)), dal n. I dell’O del DEFR del 13 mar. 2001 ([RU 2001 1322](https://fedlex.data.admin.ch/eli/oc/2001/181)), dall’all. 3 dell’O del DEFR del 16 nov. 2007 sul libro dei concimi ([RU 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), dal n. II cpv. 1 dell’O del DEFR del 27 ott. 2010, ([RU 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)) e dal n. II cpv. 2 dell’O del DEFR del 29 ott. 2014 ([RU 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), dal n. II cpv. 1 dell’O del DEFR del 18 ott. 2017 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), dal n. II dell’O del DEFR del 23 ott. 2019 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), dai n. II cpv. 1 delle O del DEFR dell’11 nov. 2020 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) e del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 Concimi e preparati possono essere designati come bio-dinamici se sono stati fabbricati secondo le direttive dell’agricoltura bio-dinamica.
 
@@ -770,7 +787,7 @@ Sono fatte salve le disposizioni dell’ordinanza del 10 gennaio 2001[^annex2-lv
 <tr><td colspan="2">Letame\*</td><td>Prodotto costituito dal miscuglio di escrementi animali e materiali vegetali (lettiera). Indicazione delle specie animali.</td></tr>
 <tr><td colspan="2">Letame essiccato e pollina essiccata\*</td><td>Indicazione delle specie animali.</td></tr>
 <tr><td colspan="2">Carbone vegetale\*\*\*</td><td>L’unica materia prima ammessa per la produzione è legname allo stato naturale.</td></tr>
-<tr><td colspan="2">Acido umico, acido fulvico</td><td>Esclusivamente ottenuti da sali inorganici, da soluzioni senza sali di ammonio o dal trattamento dell’acqua potabile.</td></tr>
+<tr><td colspan="2">Acido umico, acido fulvico</td><td>Esclusivamente ottenuti con sali/soluzioni di natura inorganica esclusi i sali di ammonio o dal trattamento dell’acqua potabile.</td></tr>
 <tr><td colspan="2">Compost di letame costituito da escrementi animali inclusa la pollina\*</td><td>Indicazione delle specie animali.</td></tr>
 <tr><td colspan="2">Escrementi liquidi di animali (liquame, colaticcio)\*</td><td>Impiego previa fermentazione controllata e/o diluizione adeguata.</td></tr>
 <tr><td colspan="2">Compost o digestato di rifiuti domestici\*</td><td>Prodotto risultante dal compostaggio o dalla fermentazione anaerobica nella produzione di biogas. Unicamente rifiuti vegetali e animali. Prodotti ottenuti in un sistema di raccolta chiuso e controllato. Concentrazione massima in mg/kg di materia secca: cadmio: 0,7; rame 70; nichel: 25; piombo: 45; zinco: 200; mercurio: 0,4; cromo (in totale): 70; cromo (VI): 0\*\*</td></tr>
@@ -797,7 +814,7 @@ Sono fatte salve le disposizioni dell’ordinanza del 10 gennaio 2001[^annex2-lv
 <tr><td colspan="2">– latticini</td><td></td></tr>
 <tr><td colspan="2">Prodotti e sottoprodotti di origine vegetale come:</td><td></td></tr>
 <tr><td colspan="2">– farina di panelli di semi oleosi – gusci di cacao – germi di malto – fibre e panelli di cocco – vinaccia, melassa – fecce</td><td></td></tr>
-<tr><td colspan="2">Borlande ed estratti di borlande</td><td>Di provenienza svizzera; escluse le borlande con sali ammoniacali</td></tr>
+<tr><td colspan="2">Borlande ed estratti di borlande</td><td>Escluse le borlande con sali ammoniacali</td></tr>
 <tr><td colspan="2">Alghe e prodotti a base di alghe\*</td><td>Ottenuti direttamente e unicamente mediante: a. trattamenti fisici, inclusi l’essicazione, il congelamento e la macinazione; b. estrazione con acqua o con soluzioni acquose acide e/o alcaline; o c. fermentazione</td></tr>
 <tr><td colspan="2">Chitina (polisaccaride ottenuto dall’esoscheletro dei crostacei)</td><td>Solo se ottenuto da attività di pesca sostenibili</td></tr>
 <tr><td colspan="2">Leonardite (sedimenti organici grezzi ricchi di acidi umici)</td><td>Solo se ottenuta come sottoprodotto di attività estrattive</td></tr>
@@ -843,7 +860,7 @@ Allegato 3*[^t-3]*
 
 ## Prodotti e sostanze utilizzati per la produzione di derrate alimentari trasformate
 
-[^t-3]: Nuovo testo giusta il n. III cpv. 2 dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Aggiornato dal n. II dell’O del DEFR del 28 ott. 2015 ([RU 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), dal n. III cpv. 2 dell’O del DEFR del 1° set. 2016 ([RU 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)), dal n. II cpv. 1 delle O del DEFR del 18 ott. 2017 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), del 31 ott. 2018 ([RU 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), dal n. II dell’O del DEFR del 23 ott. 2019 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) e dal n. II cpv. 1 dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-3]: Nuovo testo giusta il n. III cpv. 2 dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Aggiornato dal n. II dell’O del DEFR del 28 ott. 2015 ([RU 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), dal n. III cpv. 2 dell’O del DEFR del 1° set. 2016 ([RU 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)), dal n. II cpv. 1 delle O del DEFR del 18 ott. 2017 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), del 31 ott. 2018 ([RU 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), dal n. II dell’O del DEFR del 23 ott. 2019 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), dai n. II cpv. 1 delle O del DEFR dell’11 nov. 2020 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) e del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ### Parte A: Additivi alimentari ammessi, compresi i supporti
 
@@ -865,7 +882,7 @@ Tutti gli additivi sottostanno alle limitazioni d’uso secondo l’ordinanza de
 <tr><td>E 300</td><td>Acido ascorbico</td><td colspan="2">Ammesso</td><td>Ammesso soltanto per prodotti a base di carne</td></tr>
 <tr><td>E 301</td><td>Ascorbato di sodio</td><td colspan="2">Non ammesso</td><td>Ammesso soltanto per prodotti a base di carne in associazione con nitriti o nitrati</td></tr>
 <tr><td>E 306\*</td><td>Estratti ricchi di tocoferolo</td><td colspan="2">Ammessi soltanto come antiossidante</td><td>Ammessi soltanto come antiossidante</td></tr>
-<tr><td>E 322\*</td><td>Lecitine</td><td colspan="2">Ammesse Soltanto se ottenute da materie prime biologiche</td><td>Ammesse soltanto per prodotti lattiero-caseari Ammesse soltanto se ottenute da materie prime biologiche</td></tr>
+<tr><td>E 322\*</td><td>Lecitine</td><td colspan="2">Ammesse Soltanto se di produzione biologica</td><td>Ammesse soltanto per prodotti lattiero-caseari Soltanto se di produzione biologica</td></tr>
 <tr><td>E 325</td><td>Lattato di sodio</td><td colspan="2">Non ammesso</td><td>Ammesso soltanto per prodotti lattiero-caseari e prodotti a base di carne</td></tr>
 <tr><td>E 330</td><td>Acido citrico</td><td colspan="2">Ammesso</td><td>Ammesso</td></tr>
 <tr><td>E 331</td><td>Citrato di sodio</td><td colspan="2">Ammesso</td><td>Ammesso</td></tr>
@@ -876,17 +893,17 @@ Tutti gli additivi sottostanno alle limitazioni d’uso secondo l’ordinanza de
 <tr><td>E 341 (i)</td><td>Fosfato monocalcico</td><td colspan="2">Ammesso soltanto come agente lievitante</td><td>Non ammesso</td></tr>
 <tr><td>E 392\*</td><td>Estratti di rosmarino</td><td colspan="2">Soltanto se di produzione biologica</td><td>Soltanto se di produzione biologica</td></tr>
 <tr><td>E 400</td><td>Acido alginico</td><td colspan="2">Ammesso</td><td>Ammesso soltanto per prodotti lattiero-caseari</td></tr>
-<tr><td>E 401</td><td>Alginato di sodio</td><td colspan="2">Ammesso</td><td>Ammesso soltanto per prodotti lattiero-caseari</td></tr>
+<tr><td>E 401</td><td>Alginato di sodio</td><td colspan="2">Ammesso</td><td>Soltanto per prodotti lattiero-caseari e insaccati a base di carne</td></tr>
 <tr><td>E 402</td><td>Alginato di potassio</td><td colspan="2">Ammesso</td><td>Ammesso soltanto per prodotti lattiero-caseari</td></tr>
 <tr><td>E 406</td><td>Agar-agar</td><td colspan="2">Ammesso</td><td>Ammesso soltanto per prodotti lattiero-caseari e prodotti a base di carne</td></tr>
 <tr><td>E 407</td><td>Carragenina</td><td colspan="2">Ammessa</td><td>Ammessa soltanto per prodotti lattiero-caseari</td></tr>
-<tr><td>E 410\*</td><td>Farina di semi di carrube</td><td colspan="2">Ammessa</td><td>Ammessa</td></tr>
-<tr><td>E 412\*</td><td>Gomma di guar</td><td colspan="2">Ammessa</td><td>Ammessa</td></tr>
-<tr><td>E 414\*</td><td>Gomma arabica</td><td colspan="2">Ammessa</td><td>Ammessa</td></tr>
+<tr><td>E 410\*</td><td>Farina di semi di carrube</td><td colspan="2">Ammessa Soltanto se di produzione biologica</td><td>Ammessa Soltanto se di produzione biologica</td></tr>
+<tr><td>E 412\*</td><td>Gomma di guar</td><td colspan="2">Ammessa Soltanto se di produzione biologica</td><td>Ammessa Soltanto se di produzione biologica</td></tr>
+<tr><td>E 414\*</td><td>Gomma arabica</td><td colspan="2">Ammessa Soltanto se di produzione biologica</td><td>Ammessa Soltanto se di produzione biologica</td></tr>
 <tr><td>E 415</td><td>Gomma di xantano</td><td colspan="2">Ammessa</td><td>Ammessa</td></tr>
-<tr><td>E 417</td><td>Gomma di tara</td><td colspan="2">Ammessa soltanto come addensante</td><td>Ammessa soltanto come addensante</td></tr>
-<tr><td>E 418</td><td>Gomma di gellano</td><td colspan="2">Ammessa soltanto nella forma ad alto tasso di acile</td><td>Ammessa soltanto nella forma ad alto tasso di acile</td></tr>
-<tr><td>E 422</td><td>Glicerolo</td><td colspan="2">Ammesso soltanto per estratti vegetali e aromi quale sostanza umidificante in capsule di gelatina e come involucro per compresse rivestite con film Soltanto di origine vegetale</td><td>Ammesso soltanto per aromi quale sostanza umidificante in capsule di gelatina e come involucro per compresse rivestite con film Soltanto di origine vegetale</td></tr>
+<tr><td>E 417</td><td>Gomma di tara</td><td colspan="2">Ammessa soltanto come addensante Soltanto se di produzione biologica</td><td>Ammessa soltanto come addensante Soltanto se di produzione biologica</td></tr>
+<tr><td>E 418</td><td>Gomma di gellano</td><td colspan="2">Ammessa soltanto nella forma ad alto tasso di acile Soltanto se di produzione biologica</td><td>Ammessa soltanto nella forma ad alto tasso di acile Soltanto se di produzione biologica</td></tr>
+<tr><td>E 422</td><td>Glicerolo</td><td colspan="2">Ammesso soltanto per estratti vegetali e aromi; ammesso soltanto come umettante in capsule di gelatina e come filmante per compresse Soltanto di origine vegetale Soltanto se di produzione biologica</td><td>Ammesso soltanto per aromi; ammesso soltanto come umettante in capsule di gelatina e come filmante per compresse Soltanto di origine vegetale Soltanto se di produzione biologica</td></tr>
 <tr><td>E 440\*(i)</td><td>Pectina</td><td colspan="2">Ammessa</td><td>Ammessa soltanto per prodotti lattiero-caseari</td></tr>
 <tr><td>E 464</td><td>Idrossipropilmetil-cellulosa</td><td colspan="2">Ammessa soltanto per la produzione di materiale da incapsulamento per capsule</td><td>Ammessa soltanto per la produzione di materiale da incapsulamento per capsule</td></tr>
 <tr><td>E 500</td><td>Carbonati di sodio</td><td colspan="2">Ammessi</td><td>Ammessi</td></tr>
@@ -899,7 +916,7 @@ Tutti gli additivi sottostanno alle limitazioni d’uso secondo l’ordinanza de
 <tr><td>E 551</td><td>Biossido di silicio</td><td colspan="2">Ammesso soltanto per erbe e spezie in polvere essiccate e per aromi</td><td>Ammesso soltanto per aromi</td></tr>
 <tr><td>E 553b</td><td>Talco</td><td colspan="2">Ammesso</td><td>Ammesso soltanto come agente di rivestimento per prodotti a base di carne</td></tr>
 <tr><td>E 901</td><td>Cera d’api</td><td colspan="2">Ammessa soltanto come agente di rivestimento per prodotti dolciari; soltanto da apicoltura biologica</td><td>Non ammessa</td></tr>
-<tr><td>E 903</td><td>Cera di carnauba</td><td colspan="2">Ammessa soltanto come agente di rivestimento per prodotti dolciari e involucro conservante di frutta che a seguito di una misura di quarantena per la protezione da organismi nocivi è sottoposta a una refrigerazione estrema (secondo l’all. 7 n. 46 dell’ordinanza del DEFR e del DATEC del 14 novembre 2019[^annex3-lvlu1-partA-2] concernente l’ordinanza sulla salute dei vegetali (OSalV-DEFR-DATEC))</td><td>Non ammessa</td></tr>
+<tr><td>E 903</td><td>Cera di carnauba</td><td colspan="2">Ammessa soltanto come agente di rivestimento per prodotti dolciari; ammessa soltanto come agente di rivestimento conservante per la frutta che nel quadro di una misura di quarantena per la protezione da organismi nocivi è stata sottoposta a un trattamento mediante freddo estremo (in virtù dell’all. 7 n. 46 dell’ordinanza del DEFR e del DATEC del 14 nov. 2019[^annex3-lvlu1-partA-2] concernente l’ordinanza sulla salute dei vegetali) Soltanto se di produzione biologica</td><td>Non ammessa</td></tr>
 <tr><td>E 938</td><td>Argon</td><td colspan="2">Ammesso</td><td>Ammesso</td></tr>
 <tr><td>E 939</td><td>Elio</td><td colspan="2">Ammesso</td><td>Ammesso</td></tr>
 <tr><td>E 941</td><td>Azoto</td><td colspan="2">Ammesso</td><td>Ammesso</td></tr>
@@ -919,7 +936,7 @@ Tutti gli additivi sottostanno alle limitazioni d’uso secondo l’ordinanza de
 <tr><th>Denominazione</th><th colspan="2">Condizioni specifiche per la preparazione di derrate alimentari</th></tr>
 <tr><th></th><th>di origine vegetale</th><th>di origine animale</th></tr>
 <tr><td>Acqua</td><td>Acqua potabile ai sensi dell’ordinanza del DFI del 16 dicembre 2016[^annex3-lvlu1-partB-lvl1-1] sull’acqua potabile e sull’acqua per piscine e docce accessibili al pubblico</td><td>Acqua potabile ai sensi dell’ordinanza del DFI del 16 dicembre 2016 sull’acqua potabile e sull’acqua per piscine e docce accessibili al pubblico</td></tr>
-<tr><td>Cloruro di calcio</td><td>Ammesso soltanto come coagulante</td><td>Non ammesso</td></tr>
+<tr><td>Cloruro di calcio</td><td>Ammesso soltanto come coagulante</td><td>Ammesso soltanto per la fabbricazione di insaccati a base di carne</td></tr>
 <tr><td>Carbonato di calcio</td><td>Ammesso</td><td>Non ammesso</td></tr>
 <tr><td>Idrossido di calcio</td><td>Ammesso</td><td>Non ammesso</td></tr>
 <tr><td>Gesso agricolo</td><td>Ammesso soltanto per la produzione di zucchero</td><td>Non ammesso</td></tr>
@@ -948,7 +965,7 @@ Tutti gli additivi sottostanno alle limitazioni d’uso secondo l’ordinanza de
 <tr><td>Colla di pesce</td><td>Ammesso</td><td>Non ammesso</td></tr>
 <tr><td>Oli vegetali</td><td>Ammessi soltanto come lubrificanti, distaccanti o antischiumogeni Soltanto se ottenuti da produzione biologica</td><td>Ammessi soltanto come lubrificanti, distaccanti o antischiumogeni Soltanto se ottenuti da produzione biologica</td></tr>
 <tr><td>Biossido di silicio in gel o in soluzione colloidale</td><td>Ammesso</td><td>Non ammesso</td></tr>
-<tr><td>Carbone attivato</td><td>Ammesso</td><td>Non ammesso</td></tr>
+<tr><td>Carbone attivato</td><td>Ammesso</td><td>Ammesso</td></tr>
 <tr><td>Talco</td><td>Ammesso soltanto nel rispetto dei criteri di purezza specifica stabiliti per l’additivo alimentare E 553b</td><td>Non ammesso</td></tr>
 <tr><td>Bentonite</td><td>Ammessa</td><td>Ammessa soltanto come regolatore della fermentazione dell’idromele</td></tr>
 <tr><td>Cellulosa</td><td>Ammessa</td><td>Ammessa soltanto per la produzione di gelatina</td></tr>
@@ -957,7 +974,7 @@ Tutti gli additivi sottostanno alle limitazioni d’uso secondo l’ordinanza de
 <tr><td>Gusci di nocciole</td><td>Ammessi</td><td>Non ammessi</td></tr>
 <tr><td>Farina di riso</td><td>Ammessa</td><td>Non ammessa</td></tr>
 <tr><td>Cera d’api</td><td>Ammessa soltanto come distaccante Soltanto da apicoltura biologica</td><td>Non ammessa</td></tr>
-<tr><td>Cera di carnauba</td><td>Ammessa soltanto come distaccante Soltanto se ottenuta da materie prime biologiche</td><td>Non ammessa</td></tr>
+<tr><td>Cera di carnauba</td><td>Ammessa soltanto come di taccante Soltanto se di produzione biologica</td><td>Non ammessa</td></tr>
 <tr><td>Acido acetico/aceto</td><td>Non ammesso</td><td>Ammesso soltanto se ottenuto da produzione biologica Per la trasformazione del pesce, solo da fonte biotecnologica, tranne se ottenuto con o a partire da OGM</td></tr>
 <tr><td>Tiamina cloridrato</td><td>Ammessa solo nella fabbricazione di vini di frutta, compresi il sidro di mele e il sidro di pere</td><td>Ammessa solo nella fabbricazione di idromele</td></tr>
 <tr><td>Fosfato di diammonio</td><td>Ammesso solo nella fabbricazione di vini di frutta, compresi il sidro di mele e il sidro di pere</td><td>Ammesso solo nella fabbricazione di idromele</td></tr>
@@ -985,87 +1002,16 @@ Tutti gli additivi sottostanno alle limitazioni d’uso secondo l’ordinanza de
 
 ### Parte C: Ingredienti non biologici di origine agricola
 
-### 1. Prodotti vegetali non trasformati e prodotti da questi ottenuti mediante trasformazione:
-
-### 1.1. Frutti e semi commestibili
-
-Ghiande *(Quercus spp.)*
-
-Noci di cola *(Cola acuminata)*
-
-Uva spina *(Ribes crispa L.)*
-
-Frutti della passione *(Passiflora edulis)*
-
-Lamponi essiccati *(Rubus idaeus L.)*
-
-Ribes rosso essiccato *(Ribes rubrum L.)*
-
-### 1.2. Spezie ed erbe aromatiche commestibili
-
-Pepe del Perù *(Schinus molle L.)*
-
-Semi di rafano *(Armoracia rusticana)*
-
-Alpinia o galanga minore *(Alpinia officinarum)*
-
-Fiori di cartamo *(Cartamus tinctoris)*
-
-Crescione acquatico *(Nasturtium officinale)*
-
-### 1.3. Prodotti vari
-
-Alghe, compresa la zostera marina, ammesse per la preparazione di derrate alimentari convenzionali non biologiche
-
-### 2. Prodotti vegetali
-
-### 2.1. Grassi ed oli, raffinati o meno ma non modificati chimicamente, ottenuti da piante diverse da:
-
-Cacao *(Theobroma cacao)*
-
-Cocco *(Cocos nucifera)*
-
-Olivo *(Olea europea)*
-
-Girasole *(Helianthus annuus)*
-
-Palma *(Elaeis guineensis)*
-
-Colza *(Brassica napus, rapa)*
-
-Cartamo *(Carthamus tinctorius)*
-
-Sesamo *(Sesamum indicum)*
-
-Soia *(Glycine max)*
-
-### 2.2. Zuccheri, amidi, e altri prodotti ottenuti da cereali e tuberi
-
-Fruttosio
-
-Cialde di riso
-
-Sfoglie di pane azzimo
-
-Amido di riso e granoturco ceroso, chimicamente non modificati
-
-### 2.3. Prodotti vari
-
-Proteina di piselli *(Pisum ssp.)*
-
-Rum, ottenuto esclusivamente da succo di canna da zucchero
-
-Kirsch, preparato a base di frutti e aromi di cui all’articolo 3 capoverso 1 lettera c
-
-### 3. Prodotti animali
-
-Animali acquatici, non di acquacoltura, ammessi per la preparazione di derrate alimentari convenzionali non biologiche.
-
-Gelatina
-
-Siero di latte disidratato
-
-Budella
+<table>
+<tr><th>Ingrediente</th><th>Condizioni particolari e limitazioni</th></tr>
+<tr><th>Alghe Arame (*Eisenia bicyclis*) sia non trasformate sia sotto forma di prodotti ottenuti dal primo livello di lavorazione e ad esse direttamente correlati</th><th></th></tr>
+<tr><th>Alghe Hijiki (*Hizikia fusiforme*) sia non trasformate sia sotto forma di prodotti ottenuti dal primo livello di lavorazione e ad esse direttamente correlati</th><th></th></tr>
+<tr><th>Corteccia di Pau d’Arco (*Handroanthus impetiginosus*) («lapacho»)</th><th>Utilizzo solo nel kombucha e nelle miscele di erbe per tisane</th></tr>
+<tr><th>Budelli</th><th>Ottenuti da materie prime naturali di origine animale o vegetale</th></tr>
+<tr><th>Gelatina</th><th>Ottenuta da specie animali diverse dal suino</th></tr>
+<tr><th>Sali minerali del latte (in polvere o liquidi)</th><th>Solo in caso di utilizzo come sostituti parziali o integrali del cloruro di sodio date le proprietà organolettiche</th></tr>
+<tr><th>Pesci e altri animali acquatici selvatici sia non trasformati sia sotto forma di prodotti ottenuti dalla loro lavorazione</th><th>Ottenuti solo da pesca sostenibile Solo se non disponibili animali d’acquacoltura biologica secondo gli standard internazionali riconosciuti</th></tr>
+</table>
 
 Allegato 3a*[^t-4]*
 
@@ -1091,7 +1037,19 @@ Allegato 3a*[^t-4]*
 
 Allegato 3b*[^t-5]*
 
-[^t-5]: Introdotto dal n. III cpv. 3 dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Abrogato dal n. II cpv. 2 dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+(art. 3*c*)
+
+## Atti normativi dell’Unione europea sull’agricoltura biologica
+
+[^t-5]: Introdotto dal n. III cpv. 3 dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nuovo testo giusta il n. II cpv. 2 dell’O del DEFR e del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+
+Regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo alla produzione biologica e all’etichettatura dei prodotti biologici e che abroga il regolamento (CE) n. 834/2007 del Consiglio, GU L 150 del 14.6.2018, pag. 1; modificato da ultimo dal Regolamento (UE) 2020/1693, GU L 381 del 13.11.2020, pag. 1.
+
+Regolamento (UE) 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013, menzionato nel Regolamento (UE) 2018/848, recante organizzazione comune dei mercati dei prodotti agricoli e che abroga i regolamenti (CEE) 922/72, (CEE) 234/79, (CE) 1037/2001 e (CE) 1234/2007 del Consiglio, nella versione come da GU L 347 del 20.12.2013, pag. 671; modificato da ultimo dal Regolamento (UE) 2017/2393, GU L 350 del 29.12.2017, pag. 15.
+
+Anziché il Regolamento (CE) 606/2009 della Commissione, del 10 luglio 2009, menzionato nel Regolamento (UE) 2018/848, recante alcune modalità di applicazione del regolamento (CE) 479/2008 del Consiglio per quanto riguarda le categorie di prodotti vitivinicoli, le pratiche enologiche e le relative restrizioni si applica il Regolamento (UE) 2019/934 della Commissione, del 12 marzo 2019, che integra il regolamento (UE) 1308/2013 del Parlamento europeo e del Consiglio per quanto riguarda le zone viticole in cui il titolo alcolometrico può essere aumentato, le pratiche enologiche autorizzate e le restrizioni applicabili in materia di produzione e conservazione dei prodotti vitivinicoli, la percentuale minima di alcole per i sottoprodotti e la loro eliminazione, nonché la pubblicazione delle schede dell’OIV, GU L 149 del 7.6.2019, pag. 1; modificato da ultimo dal Regolamento (UE) 2020/565, GU L 129 del 24.4.2020, pag. 1.
+
+Anziché il Regolamento (CE) 1234/2007 del Consiglio, del 22 ottobre 2007, menzionato nel Regolamento (UE) 2018/848, recante organizzazione comune dei mercati agricoli e disposizioni specifiche per taluni prodotti agricoli (regolamento unico OCM), si applica il Regolamento (UE) 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013, recante organizzazione comune dei mercati dei prodotti agricoli e che abroga i regolamenti (CEE) 922/72, (CEE) 234/79, (CE) 1037/2001 e (CE) 1234/2007 del Consiglio; modificato da ultimo dal Regolamento (UE) 2017/2393, GU L 350 del 29.12.2017, pag. 15.
 
 Allegato 4*[^t-6]*
 
@@ -1205,7 +1163,7 @@ Allegato 7*[^t-10]*
 
 ## Materie prime e additivi per alimenti per animali
 
-[^t-10]: Introdotto dal n. II dell’O del DEFR del 23 ago. 2000 ([RU 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nuovo testo giusta il n. III cpv. 2 dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Aggiornato dal n. II cpv. 2 dell’O del DEFR del 29 ott. 2014 ([RU 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)) e dal n. III cpv. 2 dell’O del DEFR del 1° set. 2016, in vigore dal 1° ott. 2016 ([RU 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)).
+[^t-10]: Introdotto dal n. II dell’O del DEFR del 23 ago. 2000 ([RU 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nuovo testo giusta il n. III cpv. 2 dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Aggiornato dal n. II cpv. 2 dell’O del DEFR del 29 ott. 2014 ([RU 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), dal n. III cpv. 2 dell’O del DEFR del 1° set. 2016 ([RU 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)) e dal n. II cpv. 1 dell’O del DEFR del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ### Parte A: Materie prime per alimenti per animali
 
@@ -1273,6 +1231,7 @@ Gruppo funzionale: g) leganti e i) antiagglomeranti
 
 <table>
 <tr><th>Codice</th><th>Categoria/ gruppo funzionale</th><th>Sostanza</th><th>Descrizione e condizioni per l’uso</th></tr>
+<tr><td>E 412</td><td>1</td><td>Farina di semi di guar</td><td></td></tr>
 <tr><td>E 535</td><td>1</td><td>Ferrocianuro di sodio</td><td>Dosaggio massimo: 20 mg/kg NaCl (calcolato come anione di ferrocianuro)</td></tr>
 <tr><td>E 551b</td><td>1</td><td>Silice colloidale</td><td></td></tr>
 <tr><td>E 551c</td><td>1</td><td>Kieselgur (terra diatomacea purificata)</td><td></td></tr>
@@ -1290,7 +1249,11 @@ Gruppo funzionale: k) additivi per l’insilamento
 
 <table>
 <tr><th>Codice</th><th>Categoria/ gruppo funzionale</th><th>Sostanza</th><th>Descrizione e condizioni per l’uso</th></tr>
-<tr><td></td><td>1k</td><td>Enzimi e microorganismi</td><td>Ammessi per la produzione di insilati solo quando le condizioni atmosferiche non consentono un’adeguata fermentazione</td></tr>
+<tr><td></td><td>1k</td><td>Enzimi, microorganismi</td><td>Ammessi per la produzione di insilati solo quando le condizioni atmosferiche non consentono un’adeguata fermentazione</td></tr>
+<tr><td>E236</td><td>1k</td><td>Acido formico</td><td></td></tr>
+<tr><td>E237</td><td>1k</td><td>Formiato di sodio</td><td></td></tr>
+<tr><td>E280</td><td>1k</td><td>Acido propionico</td><td></td></tr>
+<tr><td>E281</td><td>1k</td><td>Propionato di sodio</td><td></td></tr>
 </table>
 
 ### Categoria 2: Additivi organolettici
@@ -1299,6 +1262,7 @@ Gruppo funzionale: b) aromatizzanti
 
 <table>
 <tr><th>Codice</th><th>Categoria/ gruppo funzionale</th><th>Sostanza</th><th>Descrizione e condizioni per l’uso</th></tr>
+<tr><td></td><td>*2b*</td><td>*Castanea sativa Mill.: estratto di legno di castagno*</td><td></td></tr>
 <tr><td></td><td>2b</td><td>Sostanze aromatizzanti:</td><td>Solo estratti di prodotti agricoli</td></tr>
 </table>
 
@@ -1308,6 +1272,7 @@ Gruppo funzionale: a) vitamine, provitamine e sostanze a effetto analogo chimica
 
 <table>
 <tr><th>Codice</th><th>Categoria/ gruppo funzionale</th><th>Sostanza</th><th>Descrizione e condizioni per l’uso</th></tr>
+<tr><td></td><td>3a</td><td>Betaina anidra</td><td>Soltanto per animali monogastrici Soltanto di origine naturale, se disponibile di origine biologica</td></tr>
 <tr><td></td><td>3a</td><td>Vitamine e provitamine</td><td>– Derivati da prodotti agricoli. – Se ottenute con processi di sintesi, solo quelle identiche alle vitamine derivate da prodotti agricoli possono essere utilizzate per gli animali monogastrici. – Se ottenute con processi di sintesi, solo le vitamine A, D ed E identiche alle vitamine derivate da prodotti agricoli possono essere utilizzate per i ruminanti.</td></tr>
 </table>
 

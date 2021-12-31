@@ -3,18 +3,18 @@ sr: "910.181"
 title: "Ordonnance du DEFR du 22 septembre 1997 sur l'agriculture biologique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR sur l’agriculture biologique
 
-du 22 septembre 1997 (Etat le 1<sup>er</sup> janvier 2021)
+du 22 septembre 1997 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)*[^ingress-1]*,
 
@@ -106,19 +106,18 @@ Peuvent être utilisées pour la production, la fabrication et l’élaboration 
 
 **Utilisation des produits et substances visés à l’art. 16*j*, al. 2, let. b et c, de l’ordonnance sur l’agriculture biologique pour l’élaboration de vin**[^3b-1]
 
-Seuls les produits et substances visés à l’annexe VIIIa du règlement (CE) 889/2008[^3b-2] peuvent être utilisés pour l’élaboration de vin biologique.
+Seuls les produits et substances visés à l’annexe V, partie D, du règlement d’exécution (UE) 2021/1165[^3b-2] peuvent être utilisés pour l’élaboration de vin biologique.
 
-[^3b-1]: Introduit par le ch. I de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
-[^3b-2]: Règlement (CE) n<sup>o</sup> 889/2008 de la Commission du 5 septembre 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 834/2007 du Conseil relatif à la production biologique et à l’étiquetage des produits biologiques en ce qui concerne la production biologique, l’étiquetage et les contrôles, JO L 250 du 18.9.2008, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2019/2164, JO L 328 du 18.12.2019, p. 61.
+[^3b-1]: Introduit par le ch. I de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. I de l’O du DEFR du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^3b-2]: Règlement d’exécution (UE) 2021/1165 de la Commission du 15 juillet 2021 autorisant l’utilisation de certains produits et substances dans la production biologique et établissant la liste de ces produits et substances, JO L 253 du 16.7.2021, p. 45 à 47.
 
 #### Art. 3c
 
 **Pratiques et traitements œnologiques, ainsi que leurs restrictions**[^3c-1]
 
-Sont autorisés les pratiques et traitement œnologiques visés à l’art. 29*d* du règlement (CE) n<sup>o</sup> 889/2008[^3c-2].
+Sont autorisés les pratiques et traitements œnologiques visés à l’annexe II, partie VI, ch. 3, du règlement (UE) 2018/848, dans la version mentionnée à l’annexe 3*b*.
 
-[^3c-1]: Introduit par le ch. I de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
-[^3c-2]: Cf. note de bas de page relative à l’art. 3*b*.
+[^3c-1]: Introduit par le ch. I de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. I de l’O du DEFR du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 #### Art. 4
 
@@ -638,9 +637,12 @@ Les produits biologiques peuvent encore être produits et remis selon les dispos
 
 <sup>6</sup> Le délai visé à l’al. 5 est prolongé jusqu’au 31 décembre 2022.[^u3-4]
 
+<sup>7</sup> Le délai visé à l’al. 6 pour les porcelets jusqu’à 35 kg et la jeune volaille est prolongé jusqu’au 31 décembre 2025.[^u3-5]
+
 [^u3-2]: Introduit par le ch. I de l’O du DEFR du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)).
 [^u3-3]: Introduit par le ch. I de l’O du DEFR du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 [^u3-4]: Introduit par le ch. I de l’O du DEFR du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
+[^u3-5]: Introduit par le ch. I de l’O du DEFR du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ## Dispositions transitoires relative à la modification du 1<sup>er</sup> septembre 2016****
 
@@ -661,13 +663,29 @@ Les produits biologiques peuvent encore être produits et remis selon les dispos
 
 [^u4-2]: Introduit par le ch. I de l’O du DEFR du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 
+## Dispositions transitoires de la modification du 3 novembre 2021****
+
+[^u5-1]
+
+[^u5-1]: [RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)
+
+<sup>2</sup> Les produits biologiques peuvent encore être fabriqués et remis selon les prescriptions actuelles de l’annexe 3, partie C, jusqu’au 31 décembre 2023. Les stocks encore disponibles le 31 décembre 2023 peuvent être écoulés jusqu’à leur épuisement.
+
+<sup>1</sup> Les substances suivantes peuvent être utilisées jusqu’au 31 décembre 2022 pour la fabrication de denrées alimentaires transformées:
+
+- a. lécithine (E 322) et cire de carnauba (E 903) mentionnées à l’annexe 3, partie A, issues de matières premières biologiques;
+- b.[^u5-2] farine de graines de caroube (E 410), farine de graines de guar (E 412), gomme arabique (E 414), gomme gellane (E 418) et glycérine (E 422) mentionnées à l’annexe 3, partie A, issues de production non biologique;
+- c. cire de carnauba pour la préparation des denrées alimentaires d’origine végétale mentionnée à l’annexe 3, partie B, ch. 1, issue de matières premières biologiques.
+
+[^u5-2]: Erratum du 10 déc. 2021 ([RO 2021 840](https://fedlex.data.admin.ch/eli/oc/2021/840)).
+
 Annexe 1*[^t-1]*
 
 (art. 1 et 16, al. 5)
 
 ## Produits phytosanitaires autorisés et prescriptions d’utilisation
 
-[^t-1]: Nouvelle teneur selon le ch. III al. 1 de l’O du DEFR du 1<sup>er</sup> sept. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Mise à jour par le ch. II al. 1 des O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)) et du 31 oct. 2018 ([RO 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-1]: Nouvelle teneur selon le ch. III al. 1 de l’O du DEFR du 1<sup>er</sup> sept. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Mise à jour par le ch. II al. 1 des O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)) et du 31 oct. 2018 ([RO 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 des O du DEFR du 11 nov. 2020 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) et du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 Les produits phytosanitaires mentionnés dans la liste sont tous soumis aux prescriptions d’utilisation de l’ordonnance du 12 mai 2010 sur les produits phytosanitaires (OPPh)[^annex1-lvlu1-1]. Des prescriptions d’utilisation plus strictes concernant la production biologique figurent dans la deuxième colonne des tableaux.
 
@@ -686,7 +704,7 @@ Les produits phytosanitaires mentionnés dans la liste sont tous soumis aux pres
 <tr><td>Huiles végétales, p. ex. de menthe, de pin, de carvi, de colza et de fenouil</td><td>Toutes utilisations autorisées, sauf en tant qu’herbicide</td></tr>
 <tr><td>Laminarine</td><td>Uniquement en tant qu’éliciteur des mécanismes de défense naturels des plantes utiles. Le varech doit être issu de la production biologique et récolté dans le respect du principe d’une gestion durable.</td></tr>
 <tr><td>Lécithine</td><td>Non issue d’organismes génétiquement modifiés</td></tr>
-<tr><td>Phéromones</td><td>Uniquement pour la lutte contre les insectes dans les pièges ou les distributeurs, p. ex. technique de confusion, phéromones de marquage</td></tr>
+<tr><td>Phéromones et autres produits sémiochimiques</td><td>Uniquement pour la lutte contre les insectes dans les pièges ou les distributeurs, p. ex. technique de confusion, phéromones de marquage</td></tr>
 <tr><td>Protéines hydrolysées, à l’exclusion de la gélatine</td><td>Uniquement en tant qu’appât, pour des applications autorisées en combinaison avec d’autres produits appropriés de la présente liste</td></tr>
 <tr><td>Pyréthrine</td><td>Uniquement d’origine végétale</td></tr>
 <tr><td>Pyréthroïdes (uniquement deltaméthrine ou lambdacyhalothrine)</td><td>Uniquement pour pièges avec appâts spécifiques; uniquement contre *Bactrocera oleae* et *Ceratitis capitata Wied*</td></tr>
@@ -702,7 +720,7 @@ Les produits phytosanitaires mentionnés dans la liste sont tous soumis aux pres
 
 <table>
 <tr><th>Dénomination</th><th>Description, exigences quant à la composition, prescriptions d’utilisation</th></tr>
-<tr><td>Cerevisan</td><td></td></tr>
+<tr><td>Cerevisane et autres produits reposant sur des fragments de microorganismes</td><td></td></tr>
 <tr><td>Micro-organismes naturels, y c. les virus</td><td>Uniquement les organismes non génétiquement modifiés</td></tr>
 <tr><td>Spinosad</td><td></td></tr>
 </table>
@@ -742,7 +760,7 @@ Annexe 2*[^t-2]*
 
 ## Engrais autorisés, préparations et substrats
 
-[^t-2]: Mise à jour par le ch. I de l’ O du DEFR du 7 déc. 1998 ([RO 1999 292](https://fedlex.data.admin.ch/eli/oc/1999/33)), le ch. I al. 1 de l’O du DEFR du 14 déc. 2000 ([RO 2001 252](https://fedlex.data.admin.ch/eli/oc/2001/52)), l’art. 9 de l’O du DEFR du 28 fév. 2001 sur le Livre des engrais ([RO 2001 722](https://fedlex.data.admin.ch/eli/oc/2001/109)), le ch. I de l’O du DEFR du 13 mars 2001 ([RO 2001 1322](https://fedlex.data.admin.ch/eli/oc/2001/181)), l’annexe 3 de l’O du DEFR du 16 nov. 2007 sur le Livre des engrais, ([RO 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), le ch. II al. 1 de l’O du DEFR du 27 oct. 2010 ([RO 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)), le ch. II al. 2 de l’O du DEFR du 29 oct. 2014 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), le ch. II al. 1 de l’O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-2]: Mise à jour par le ch. I de l’ O du DEFR du 7 déc. 1998 ([RO 1999 292](https://fedlex.data.admin.ch/eli/oc/1999/33)), le ch. I al. 1 de l’O du DEFR du 14 déc. 2000 ([RO 2001 252](https://fedlex.data.admin.ch/eli/oc/2001/52)), l’art. 9 de l’O du DEFR du 28 fév. 2001 sur le Livre des engrais ([RO 2001 722](https://fedlex.data.admin.ch/eli/oc/2001/109)), le ch. I de l’O du DEFR du 13 mars 2001 ([RO 2001 1322](https://fedlex.data.admin.ch/eli/oc/2001/181)), l’annexe 3 de l’O du DEFR du 16 nov. 2007 sur le Livre des engrais, ([RO 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), le ch. II al. 1 de l’O du DEFR du 27 oct. 2010 ([RO 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)), le ch. II al. 2 de l’O du DEFR du 29 oct. 2014 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), le ch. II al. 1 de l’O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 des O du DEFR du 11 nov. 2020 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) et du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 Les engrais et les préparations peuvent être désignés comme biodynamiques lorsqu’ils sont produits selon les directives de l’agriculture biodynamique.
 
@@ -774,7 +792,7 @@ Les dispositions de l’ordonnance du 10 janvier 2001 sur les engrais[^annex2-lv
 <tr><td colspan="2">Sulfate de potassium\*</td><td>Tiré de sel brut de potasse. À utiliser uniquement après mise en évidence d’une carence en potassium à l’aide d’échantillons du sol</td></tr>
 <tr><td colspan="3">2.2. Produits organiques et organo-minéraux</td></tr>
 <tr><td colspan="2">Charbon végétal\*\*\*</td><td>Seul le bois à l’état naturel est autorisé en tant que matériel initial pour la fabrication.</td></tr>
-<tr><td colspan="2">Acides humiques, acides fulviques</td><td>Uniquement issus de sels/solutions anorganiques, à l’exception des sels d’ammonium, ou issus du traitement de l’eau potable</td></tr>
+<tr><td colspan="2">Acides humiques, acides fulviques</td><td>Uniquement produits à l’aide de sels/solutions anorganiques, à l’exclusion des sels d’ammonium, ou issus du traitement de l’eau potable.</td></tr>
 <tr><td colspan="2">Fumier\*</td><td>Mélange d’excréments animaux et de matière végétale (litière) Indication des espèces animales</td></tr>
 <tr><td colspan="2">Fumier séché et fiente de volaille déshydratée\*</td><td>Indication des espèces animales</td></tr>
 <tr><td colspan="2">Excréments animaux compostés, y compris les fientes de volaille et le fumier composté\*</td><td>Indication des espèces animales</td></tr>
@@ -808,7 +826,7 @@ Les dispositions de l’ordonnance du 10 janvier 2001 sur les engrais[^annex2-lv
 <tr><td colspan="2">– fibres et tourteaux de coco</td><td></td></tr>
 <tr><td colspan="2">– vinasse, mélasse</td><td></td></tr>
 <tr><td colspan="2">– marc</td><td></td></tr>
-<tr><td colspan="2">Drêche et extraits de drêche</td><td>D’origine suisse, exclusion des drêches ammoniacales</td></tr>
+<tr><td colspan="2">Drêche et extraits de drêche</td><td>À l’exclusion des drêches ammoniacales</td></tr>
 <tr><td colspan="2">Algues et produits d’algues\*</td><td>Obtenus directement et uniquement par: a. traitement physiques incluant déshydratation, congélation et broyage; b. extraction à l’eau, ou avec des solutions acides et/ou basiques, ou c. fermentation.</td></tr>
 <tr><td colspan="2">Chitine (polysaccharide obtenu à partir de la carapace de crustacés</td><td>Uniquement si elle est obtenue dans le contexte d’une pêche durable</td></tr>
 <tr><td colspan="2">Leonardite (sédiments organiques bruts, riches en acides humiques)</td><td>Uniquement si elle est obtenue en tant que sous-produit d’activités minières</td></tr>
@@ -857,7 +875,7 @@ Annexe 3*[^t-3]*
 
 ## Produits et substances destinés à la fabrication de denrées alimentaires transformées
 
-[^t-3]: Nouvelle teneur selon le ch. III al. 2 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Mise à jour par le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)), le ch. II al. 1 des O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)) et du 31 oct. 2018 ([RO 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-3]: Nouvelle teneur selon le ch. III al. 2 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Mise à jour par le ch. II de l’O du DEFR du 28 oct. 2015 ([RO 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)), le ch. II al. 1 des O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)) et du 31 oct. 2018 ([RO 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), le ch. II de l’O du DEFR du 23 oct. 2019 ([RO 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) et le ch. II al. 1 des O du DEFR du 11 nov. 2020 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) et du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ### Partie A Additifs alimentaires autorisés, y compris les supports
 
@@ -879,7 +897,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td>E 300</td><td>Acide ascorbique</td><td colspan="2">Admis</td><td>Admis uniquement dans les produits à base de viande</td></tr>
 <tr><td>E 301</td><td>Ascorbate de sodium</td><td colspan="2">Non admis</td><td>Admis uniquement dans les produits à base de viande en liaison avec les nitrites et nitrates</td></tr>
 <tr><td>E 306\*</td><td>Extrait riche en tocophérol</td><td colspan="2">Admis uniquement comme antioxydant</td><td>Admis uniquement comme antioxydant</td></tr>
-<tr><td>E 322\*</td><td>Lécithine</td><td colspan="2">Admis Uniquement si elle est issue de matières premières biologiques</td><td>Admis uniquement dans les produits laitiers Uniquement si elle est issue de matières premières biologiques</td></tr>
+<tr><td>E 322\*</td><td>Lécithine</td><td colspan="2">Admis Production biologique uniquement</td><td>Admis uniquement dans les produits laitiers Production biologique uniquement</td></tr>
 <tr><td>E 325</td><td>Lactate de sodium</td><td colspan="2">Non admis</td><td>Admis uniquement dans les produits laitiers et les produits à base de viande</td></tr>
 <tr><td>E 330</td><td>Acide citrique</td><td colspan="2">Admis</td><td>Admis</td></tr>
 <tr><td>E 331</td><td>Citrates de sodium</td><td colspan="2">Admis</td><td>Admis</td></tr>
@@ -890,17 +908,17 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td>E 341 (i)</td><td>Phosphate monocalcique</td><td colspan="2">Admis uniquement en tant que poudre à lever</td><td>Non admis</td></tr>
 <tr><td>E 392\*</td><td>Extrait de romarin</td><td colspan="2">Production biologique uniquement</td><td>Production biologique uniquement</td></tr>
 <tr><td>E 400</td><td>Acide alginique</td><td colspan="2">Admis</td><td>Admis uniquement dans les produits laitiers</td></tr>
-<tr><td>E 401</td><td>Alginate de sodium</td><td colspan="2">Admis</td><td>Admis uniquement dans les produits laitiers</td></tr>
+<tr><td>E 401</td><td>Alginate de sodium</td><td colspan="2">Admis</td><td>Admis uniquement dans les produits laitiers et la charcuterie à base de viande</td></tr>
 <tr><td>E 402</td><td>Alginate de potassium</td><td colspan="2">Admis</td><td>Admis uniquement dans les produits laitiers</td></tr>
 <tr><td>E 406</td><td>Agar-agar</td><td colspan="2">Admis</td><td>Admis uniquement dans les produits laitiers et les produits à base de viande</td></tr>
 <tr><td>E 407</td><td>Carraghénane</td><td colspan="2">Admis</td><td>Admis uniquement dans les produits laitiers</td></tr>
-<tr><td>E 410\*</td><td>Farine de graines de caroube</td><td colspan="2">Admis</td><td>Admis</td></tr>
-<tr><td>E 412\*</td><td>Farine de graines de guar</td><td colspan="2">Admis</td><td>Admis</td></tr>
-<tr><td>E 414\*</td><td>Gomme arabique</td><td colspan="2">Admis</td><td>Admis</td></tr>
+<tr><td>E 410\*</td><td>Farine de graines de caroube</td><td colspan="2">Admis Production biologique uniquement</td><td>Admis Production biologique uniquement</td></tr>
+<tr><td>E 412\*</td><td>Farine de graines de guar</td><td colspan="2">Admis Production biologique uniquement</td><td>Admis Production biologique uniquement</td></tr>
+<tr><td>E 414\*</td><td>Gomme arabique</td><td colspan="2">Admis Production biologique uniquement</td><td>Admis Production biologique uniquement</td></tr>
 <tr><td>E 415</td><td>Xanthan</td><td colspan="2">Admis</td><td>Admis</td></tr>
-<tr><td>E 417</td><td>Gomme Tara</td><td colspan="2">Admis uniquement comme agent épaississant</td><td>Admis uniquement comme agent épaississant</td></tr>
-<tr><td>E 418</td><td>Gomme gellane</td><td colspan="2">Uniquement avec une forte teneur en acyle</td><td>Uniquement avec une forte teneur en acyle</td></tr>
-<tr><td>E 422</td><td>Glycérine</td><td colspan="2">Uniquement admis pour les extraits végétaux et les arômes, comme agent humectant dans des capsules de gélatine et pour l’enrobage de comprimés pelliculés Uniquement d’origine végétale</td><td>Uniquement admis pour les arômes, comme agent humectant dans des capsules de gélatine et pour l’enrobage de comprimés pelliculés Uniquement d’origine végétale</td></tr>
+<tr><td>E 417</td><td>Gomme Tara</td><td colspan="2">Admis uniquement comme agent épaississant Production biologique uniquement</td><td>Admis uniquement comme agent épaississant Production biologique uniquement</td></tr>
+<tr><td>E 418</td><td>Gomme gellane</td><td colspan="2">Admis uniquement sous une forme à forte teneur en acyle Production biologique uniquement</td><td>Admis uniquement sous une forme à forte teneur en acyle Production biologique uniquement</td></tr>
+<tr><td>E 422</td><td>Glycérine</td><td colspan="2">Admis uniquement pour les extraits végétaux et les arômes; admis uniquement comme agent humectant dans les capsules de gélatine et pour l’enrobage de comprimés pelliculés Uniquement d’origine végétale Production biologique uniquement</td><td>Admis uniquement pour les arômes; admis uniquement comme agent humectant dans les capsules de gélatine et pour l’enrobage de comprimés pelliculés Uniquement d’origine végétale Production biologique uniquement</td></tr>
 <tr><td>E 440\*(i)</td><td>Pectine</td><td colspan="2">Admis</td><td>Admis uniquement dans les produits laitiers</td></tr>
 <tr><td>E 464</td><td>Hydroxypropylméthylcellulose</td><td colspan="2">Admis uniquement comme matériel d’encapsulage pour capsules</td><td>Admis uniquement comme matériel d’encapsulage pour capsules</td></tr>
 <tr><td>E 500</td><td>Carbonates de sodium</td><td colspan="2">Admis</td><td>Admis</td></tr>
@@ -913,7 +931,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td>E 551</td><td>Dioxyde de silicium</td><td colspan="2">Uniquement pour herbes et épices séchées en poudre, arômes</td><td>Uniquement pour les arômes</td></tr>
 <tr><td>E 553b</td><td>Talc</td><td colspan="2">Admis</td><td>Admis uniquement comme agent d’enrobage pour les produits à base de viande</td></tr>
 <tr><td>E 901</td><td>Cire d’abeilles</td><td colspan="2">Uniquement en tant qu’agent d’enrobage en confiserie Uniquement de la cire d’abeille issue de l’apiculture biologique</td><td>Non admis</td></tr>
-<tr><td>E 903</td><td>Cire de Carnauba</td><td colspan="2">Uniquement admis en tant qu’agent d’enrobage en confiserie; Uniquement admis pour l’enrobage en vue de leur conservation des fruits soumis à un traitement par le froid extrême dans le cadre d’une mesure de quarantaine visant à les protéger contre les organismes nuisibles (selon l’annexe 7, ch. 46, de l’ordonnance du DEFR et du DETEC du 14 nov. 2019 relative à l’ordonnance sur la santé des végétaux[^annex3-lvlu1-partA-2])</td><td>Non admis</td></tr>
+<tr><td>E 903</td><td>Cire de carnauba</td><td colspan="2">Admis uniquement en tant qu’agent d’enrobage en confiserie; Admis uniquement pour l’enrobage de conservation des fruits qui sont soumis à un traitement par le froid extrême dans le cadre d’une mesure de quarantaine visant à les protéger contre les organismes nuisibles (conformément à l’annexe 7, ch. 46, de l’ordonnance du DEFR et du DETEC du 14 novembre 2019 relative à l’ordonnance sur la santé des végétaux[^annex3-lvlu1-partA-2]) Production biologique uniquement</td><td>Non admis</td></tr>
 <tr><td>E 938</td><td>Argon</td><td colspan="2">Admis</td><td>Admis</td></tr>
 <tr><td>E 939</td><td>Hélium</td><td colspan="2">Admis</td><td>Admis</td></tr>
 <tr><td>E 941</td><td>Azote</td><td colspan="2">Admis</td><td>Admis</td></tr>
@@ -933,7 +951,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><th>Dénomination</th><th colspan="2">Conditions d’utilisation pour la préparation de denrées alimentaires</th></tr>
 <tr><th></th><th>d’origine végétale</th><th>d’origine animale</th></tr>
 <tr><td>Eau</td><td>Eau potable au sens de l’ordonnance du DFI du 16 décembre 2016 sur l’eau potable et l’eau des installations de baignade et de douche accessibles au public[^annex3-lvlu1-partB-lvl1-1]</td><td>Eau potable au sens de l’ordonnance du DFI du 16 décembre 2016 sur l’eau potable et l’eau des installations de baignade et de douche accessibles au public</td></tr>
-<tr><td>Chlorure de calcium</td><td>Admis uniquement comme agent de coagulation</td><td>Non admis</td></tr>
+<tr><td>Chlorure de calcium</td><td>Admis uniquement comme agent de coagulation</td><td>Admis uniquement dans la charcuterie à base de viande</td></tr>
 <tr><td>Carbonate de calcium</td><td>Admis</td><td>Non admis</td></tr>
 <tr><td>Hydroxyde de calcium</td><td>Admis</td><td>Non admis</td></tr>
 <tr><td>Sulfate de calcium</td><td>Admis uniquement comme agent de coagulation</td><td>Non admis</td></tr>
@@ -962,7 +980,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td>Ichtyocolle</td><td>Admis</td><td>Non admis</td></tr>
 <tr><td>Huiles végétales</td><td>Admis uniquement comme lubrifiant, agent antiadhérent ou antimoussant. Uniquement si elles sont issues de la production biologique</td><td>Admis uniquement comme lubrifiant, agent antiadhérent ou antimoussant. Uniquement si elles sont issues de la production biologique</td></tr>
 <tr><td>Gel ou solution colloïdale de dioxyde de silicium</td><td>Admis</td><td>Non admis</td></tr>
-<tr><td>Charbon activé</td><td>Admis</td><td>Non admis</td></tr>
+<tr><td>Charbon activé</td><td>Admis</td><td>Admis</td></tr>
 <tr><td>Talc</td><td>Admis uniquement en conformité avec le critère de pureté spécifique pour l’additif alimentaire E 553b</td><td>Non admis</td></tr>
 <tr><td>Bentonite</td><td>Admis</td><td>Uniquement comme régulateur de fermentation pour hydromel</td></tr>
 <tr><td>Cellulose</td><td>Admis</td><td>Admis uniquement pour la production de gélatine</td></tr>
@@ -971,7 +989,7 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 <tr><td>Coques de noisettes</td><td>Admis</td><td>Non admis</td></tr>
 <tr><td>Farine de riz</td><td>Admis</td><td>Non admis</td></tr>
 <tr><td>Cire d’abeilles</td><td>Admis uniquement comme agent antiadhérent Uniquement quand elle est issue de matières premières biologiques</td><td>Non admis</td></tr>
-<tr><td>Cire de carnauba</td><td>Admis uniquement comme agent antiadhérent Uniquement quand elle est issue de matières premières biologiques</td><td>Non admis</td></tr>
+<tr><td>Cire de carnauba</td><td>Admis uniquement comme agent antiadhérent Production biologique uniquement</td><td>Non admis</td></tr>
 <tr><td>Acide acétique/vinaigre</td><td>Non admis</td><td>Uniquement quand il est issu de la production biologique Pour la transformation du poisson, uniquement de source biotechnologique, sauf s’il est produit à partir d’OGM ou par des OGM</td></tr>
 <tr><td>Chlorhydrate de thiamine</td><td>Uniquement dans la transformation des vins de fruits, y c. le cidre, le poiré et l’hydromel</td><td>uniquement pour la fabrication de l’hydromel</td></tr>
 <tr><td>Phosphate diammonique</td><td>Uniquement dans la transformation des vins de fruits, y c. le cidre, le poiré et l’hydromel</td><td>uniquement pour la fabrication de l’hydromel</td></tr>
@@ -999,87 +1017,16 @@ L’utilisation de tous les additifs est soumise aux restrictions prévues par l
 
 ### Partie C: Ingrédients agricoles non issus de l’agriculture biologique
 
-### 1. Produits végétaux non transformés et produits dérivés de ces derniers par transformation:
-
-### 1.1. Fruits, noix et graines comestibles
-
-Gland *(Quercus spp.)*
-
-Noix de cola *(Cola acuminata)*
-
-Groseilles à maquereau *(Ribes crispa L.)*
-
-Fruits de la passion (*Passifl**o**ra edulis*)
-
-Framboises séchées *(Rubus idaeus L.)*
-
-Groseilles rouges séchées *(Ribes rubrum L.)*
-
-### 1.2. Épices comestibles et herbes aromatiques
-
-Poivre d’Amérique *(Schinus molle L.)*
-
-Graines de raifort *(Armoracia rusticana)*
-
-Petit galanga *(Alpinia officinarum)*
-
-Safran bâtard *(Cartamus tinctorius)*
-
-Cresson de fontaine *(Nasturtium officinale)*
-
-### 1.3. Divers
-
-Algues, y compris les algues marines, dont l’utilisation est admise dans les méthodes traditionnelles d’élaboration des denrées alimentaires.
-
-### 2. Produits végétaux
-
-### 2.1. Graisses et huiles, raffinées ou non raffinées, n’ayant pas été modifiées chimiquement, provenant de végétaux autres que les végétaux suivants:
-
-Cacao *(Theobroma cacao)*
-
-Noix de coco *(Cocos nucifera)*
-
-Olives *(Olea europea)*
-
-Tournesols *(Helianthus annuus)*
-
-Palme *(Elaeis guineensis)*
-
-Colza *(Brassica napus, rapa)*
-
-Safran bâtard *(Carthamus tinctorius)*
-
-Sésame *(Sesamum indicum)*
-
-Soja *(Glycine max)*
-
-### 2.2. Sucres, amidons et autres produits provenant de céréales et tubercules
-
-Fructose
-
-Feuilles minces en pâte de riz
-
-Feuilles minces de pain azyme
-
-Amidon de riz ou de maïs cireux, n’ayant pas été modifié chimiquement
-
-### 2.3. Divers
-
-Protéine de pois *(Pisum ssp.)*
-
-Rhum: obtenu exclusivement à partir de jus de canne à sucre
-
-Kirsch préparé à base de fruits et d’arômes visés à l’art. 3, al. 1, let. c
-
-### 3. Produits animaux
-
-Organismes aquatiques ne provenant pas de l’aquaculture et autorisés dans les méthodes traditionnelles d’élaboration des denrées alimentaires
-
-Gélatine
-
-Petit-lait en poudre
-
-Boyaux naturels
+<table>
+<tr><th>Ingrédient</th><th>Conditions et restrictions</th></tr>
+<tr><th>Algues Arame (*Eisenia bicyclis*), non transformées ainsi que les produits du premier échelon de transformation qui sont en lien direct avec ces algues</th><th></th></tr>
+<tr><th>Algues Hijiki (*Hizikia fusiforme*), non transformées ainsi que les produits du premier échelon de transformation qui sont en lien direct avec ces algues</th><th></th></tr>
+<tr><th>Écorce de Pau d’Arco (*Handroanthus impetiginosus*) «lapacho»</th><th>Seulement dans le Kombucha et les mélanges d’infusions</th></tr>
+<tr><th>Boyaux</th><th>Issus de matières premières naturelles d’origine végétale ou animale</th></tr>
+<tr><th>Gélatine</th><th>Issue d’autres espèces animales que le porc</th></tr>
+<tr><th>Minéraux du lait, en poudre ou liquides</th><th>Uniquement utilisés pour remplacer partiellement ou entièrement le chlorure de sodium en raison de ses propriétés sensorielles</th></tr>
+<tr><th>Poissons sauvages et autres animaux aquatiques sauvages, non transformées ainsi que les produits transformés qui en sont issus</th><th>Uniquement issus de la pêche durable Uniquement s’ils ne sont pas disponibles à partir de l’aquaculture biologique conformément aux normes internationales reconnues</th></tr>
+</table>
 
 Annexe 3a*[^t-4]*
 
@@ -1105,7 +1052,19 @@ Annexe 3a*[^t-4]*
 
 Annexe 3b*[^t-5]*
 
-[^t-5]: Introduite par le ch. III al. 3 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Abrogée par le ch. II al. 2 de l’O du DEFR du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+(art. 3*c*)
+
+## Actes de l’Union européenne concernant l’agriculture biologique
+
+[^t-5]: Introduite par le ch. III al. 3 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nouvelle teneur selon le ch. II al. 2 de l’O du DEFR du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+
+Règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l’étiquetage des produits biologiques, et abrogeant le règlement (CE) n<sup>o</sup> 834/2007 du Conseil, J LO 150 du 14.6.2018, p. 1; modifié en dernier lieu par le Règlement (UE) 2020/1693, J LO 381 du 13.11.2020, p. 1.
+
+Pour le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil, cité dans le règlement (UE) 2018/848, la version valable est celle du JO L 347 du 20.12.2013, p. 671, modifié en dernier lieu par le règlement (UE) 2017/2393, JO L 350 du 29.12.2017, p. 15.
+
+Le règlement délégué (UE) 2019/934 de la Commission du 12 mars 2019 complétant le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil en ce qui concerne les zones viticoles où le titre alcoométrique peut être augmenté, les pratiques œnologiques autorisées et les restrictions applicables à la production et à la conservation de produits de la vigne, le pourcentage minimal d’alcool pour les sous-produits et leur élimination, et la publication des fiches de l’OIV, J LO 149 du 7.6.2019, p. 1, modifié en dernier lieu par le règlement (UE) 2020/565, J LO 129 du 24.4.2020, p. 1, est valable en lieu et place du règlement (UE) n<sup>o</sup> 606/2009 de la Commission du 10 juillet 2009 fixant certaines modalités d’application du règlement (CE) n<sup>o</sup> 479/2008 du Conseil en ce qui concerne les catégories de produits de la vigne, les pratiques œnologiques et les restrictions qui s’y appliquent, cité dans le règlement (UE) 2018/848.
+
+Le règlement (UE) n<sup>o</sup> 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les règlements (CEE) n<sup>o</sup> 922/72, (CEE) n<sup>o</sup> 234/79, (CE) n<sup>o</sup> 1037/2001 et (CE) n<sup>o</sup> 1234/2007 du Conseil, JO L 347 du 20.12.2013, p. 671, modifié en dernier lieu par le règlement (UE) 2017/2393, J LO 350 du 29.12.2017, p. 15, est valable en lieu et place du règlement (CE) n<sup>o</sup> 1234/2007 du Conseil du 22 octobre 2007 portant organisation commune des marchés dans le secteur agricole et dispositions spécifiques en ce qui concerne certains produits de ce secteur (règlement «OCM unique»), cité dans le règlement (UE) 2018/848.
 
 Annexe 4*[^t-6]*
 
@@ -1113,7 +1072,7 @@ Annexe 4*[^t-6]*
 
 Annexe 4a*[^t-7]*
 
-[^t-7]: Introduite selon le ch. II al. 3 de l’O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)). Abrogée par le ch. II al. 2 de l’O du DEFR du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-7]: Introduite par le ch. II al. 3 de l’O du DEFR du 18 oct. 2017 ([RO 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)). Abrogée par le ch. II al. 2 de l’O du DEFR du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
 
 Annexe 5*[^t-8]*
 
@@ -1121,7 +1080,7 @@ Annexe 5*[^t-8]*
 
 ## Exigences propres au genre en matière de garde d’animaux de rente
 
-[^t-8]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Mise à jour selon le ch. II al. 1 de l’O du DEFR du 9 nov. 2005 ([RO 2005 5531](https://fedlex.data.admin.ch/eli/oc/2005/750)), le ch. I de l’O du DEFR du 26 mai 2008 ([RO 2008 2907](https://fedlex.data.admin.ch/eli/oc/2008/400)), le ch. I 1 de l’O du DEFR du 12 nov. 2008 ([RO 2008 5829](https://fedlex.data.admin.ch/eli/oc/2008/803)), le ch. III al. 1 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)) et le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)).
+[^t-8]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Mise à jour par le ch. II al. 1 de l’O du DEFR du 9 nov. 2005 ([RO 2005 5531](https://fedlex.data.admin.ch/eli/oc/2005/750)), le ch. I de l’O du DEFR du 26 mai 2008 ([RO 2008 2907](https://fedlex.data.admin.ch/eli/oc/2008/400)), le ch. I 1 de l’O du DEFR du 12 nov. 2008 ([RO 2008 5829](https://fedlex.data.admin.ch/eli/oc/2008/803)), le ch. III al. 1 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)) et le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)).
 
 Les exigences prévues pour le programme SRPA dans l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^annex5-lvlu1-1] doivent être respectées. Pour les caprins et les ovins ne relevant pas de l’art. 73, let. c et d, OPD, ces exigences s’appliquent par analogie.
 
@@ -1208,7 +1167,7 @@ Annexe 7*[^t-10]*
 
 ## Matières premières d’aliments pour animaux et additifs pour l’alimentation animale
 
-[^t-10]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nouvelle teneur selon le ch. III al. 2 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Mise à jour selon le ch. II al. 2 de l’O du DEFR du 29 oct. 2014 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)) et le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)).
+[^t-10]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Nouvelle teneur selon le ch. III al. 2 de l’O du DEFR du 31 oct. 2012 ([RO 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Mise à jour par le ch. II al. 2 de l’O du DEFR du 29 oct. 2014 ([RO 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), le ch. III al. 2 de l’O du DEFR du 1<sup>er</sup> sept. 2016 ([RO 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)) et le ch. II al. 1 de l’O du DEFR du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ### Partie A Matières premières d’aliments pour animaux
 
@@ -1275,25 +1234,30 @@ Groupe fonctionnel: b) Antioxigènes:
 Groupes fonctionnels: g) Liants et i) antiagglomérants:
 
 <table>
-<tr><th>Code</th><th>Catégorie/ Groupe fonctionnel</th><th>Désignation</th><th>Description, conditions d’utilisation</th></tr>
-<tr><td>E 535</td><td>1</td><td>Ferrocyanure de sodium</td><td>Teneur maximale: 20 mg/kg NaCl (calculé en anions ferrocyanure)</td></tr>
-<tr><td>E 551b</td><td>1</td><td>Silice colloïdale</td><td></td></tr>
-<tr><td>E 551c</td><td>1</td><td>Kieselgur (terre de diatomée purifiée)</td><td></td></tr>
-<tr><td>1m558</td><td>1</td><td>Bentonite</td><td></td></tr>
-<tr><td>E 559</td><td>1</td><td>Argiles kaolinitiques, exemptes d’amiante</td><td></td></tr>
-<tr><td>E 560</td><td>1</td><td>Mélanges naturels de stéatites et de chlorite</td><td></td></tr>
-<tr><td>E 561</td><td>1</td><td>Vermiculite</td><td></td></tr>
-<tr><td>E 562</td><td>1</td><td>Sépiolite</td><td></td></tr>
-<tr><td>E 566</td><td>1</td><td>Natrolite-phonolite</td><td></td></tr>
-<tr><td>1g568</td><td>1</td><td>Clinoptilolite d’origine sédimentaire</td><td></td></tr>
-<tr><td>E 599</td><td>1</td><td>Perlite</td><td></td></tr>
+<tr><th>Code</th><th colspan="2">Catégorie/ Groupe fonctionnel</th><th colspan="3">Désignation</th><th>Description, conditions d’utilisation</th></tr>
+<tr><td colspan="2">E 412</td><td colspan="2">1</td><td>Farine de graines de guar</td><td colspan="2"></td></tr>
+<tr><td>E 535</td><td colspan="2">1</td><td colspan="3">Ferrocyanure de sodium</td><td>Teneur maximale: 20 mg/kg NaCl (calculé en anions ferrocyanure)</td></tr>
+<tr><td>E 551b</td><td colspan="2">1</td><td colspan="3">Silice colloïdale</td><td></td></tr>
+<tr><td>E 551c</td><td colspan="2">1</td><td colspan="3">Kieselgur (terre de diatomée purifiée)</td><td></td></tr>
+<tr><td>1m558</td><td colspan="2">1</td><td colspan="3">Bentonite</td><td></td></tr>
+<tr><td>E 559</td><td colspan="2">1</td><td colspan="3">Argiles kaolinitiques, exemptes d’amiante</td><td></td></tr>
+<tr><td>E 560</td><td colspan="2">1</td><td colspan="3">Mélanges naturels de stéatites et de chlorite</td><td></td></tr>
+<tr><td>E 561</td><td colspan="2">1</td><td colspan="3">Vermiculite</td><td></td></tr>
+<tr><td>E 562</td><td colspan="2">1</td><td colspan="3">Sépiolite</td><td></td></tr>
+<tr><td>E 566</td><td colspan="2">1</td><td colspan="3">Natrolite-phonolite</td><td></td></tr>
+<tr><td>1g568</td><td colspan="2">1</td><td colspan="3">Clinoptilolite d’origine sédimentaire</td><td></td></tr>
+<tr><td>E 599</td><td colspan="2">1</td><td colspan="3">Perlite</td><td></td></tr>
 </table>
 
 Groupe fonctionnel: k) Additifs d’ensilage:
 
 <table>
-<tr><td>Code</td><td>Catégorie/ Groupe fonctionnel</td><td>Désignation</td><td>Description, conditions d’utilisation</td></tr>
-<tr><td></td><td>1k</td><td>Enzymes et micro-organismes</td><td>Pour ensilage: uniquement si les conditions climatiques ne permettent pas une fermentation suffisante</td></tr>
+<tr><th>Code</th><th>Catégorie/ Groupe fonctionnel</th><th>Désignation</th><th>Description, conditions d’utilisation</th></tr>
+<tr><td></td><td>1k</td><td>Enzymes, micro-organismes</td><td>Pour ensilage: uniquement si les conditions climatiques ne permettent pas une fermentation suffisante</td></tr>
+<tr><td>E236</td><td>1k</td><td>Acide formique</td><td></td></tr>
+<tr><td>E237</td><td>1k</td><td>Formiate de sodium</td><td></td></tr>
+<tr><td>E280</td><td>1k</td><td>Acide propionique</td><td></td></tr>
+<tr><td>E281</td><td>1k</td><td>Propionate de sodium</td><td></td></tr>
 </table>
 
 ### Catégorie 2: Additifs sensoriels
@@ -1301,8 +1265,9 @@ Groupe fonctionnel: k) Additifs d’ensilage:
 Groupe fonctionnel: b) Substances aromatisantes
 
 <table>
-<tr><td>Code</td><td></td><td></td><td></td></tr>
+<tr><td>Code</td><td>Catégorie/ Groupe fonctionnel</td><td>Désignation</td><td>Description, conditions d’utilisation</td></tr>
 <tr><td></td><td>2b</td><td>Substances aromatisantes</td><td>Seulement des extraits issus de produits agricoles</td></tr>
+<tr><td></td><td>*2b*</td><td>*Castanea sativa Mill.: Extrait de bois de châtaignier*</td><td></td></tr>
 </table>
 
 ### Catégorie 3: Additifs nutritionnels
@@ -1312,6 +1277,7 @@ Groupe fonctionnel: a) Vitamines, provitamines et substances à effet analogue c
 <table>
 <tr><th>Code</th><th>Catégorie/ Groupe fonctionnel</th><th>Désignation</th><th>Description, conditions d’utilisation</th></tr>
 <tr><td></td><td>3a</td><td>vitamines et provitamines</td><td>– issues de produits agricoles – si elles sont synthétiques, seules les vitamines qui sont identiques à celles provenant de produits agricoles peuvent être utilisées pour les monogastriques – dans le cas des vitamines synthétiques, seules les vitamines A, D et E identiques à celles provenant de produits agricoles peuvent être utilisées pour les ruminants</td></tr>
+<tr><td></td><td>3a</td><td>Betaïne anhydre</td><td>Uniquement pour les monogastriques Uniquement d’origine naturelle, et d’origine biologique si elle est disponible</td></tr>
 </table>
 
 Groupe fonctionnel: b) Oligo-éléments
@@ -1341,7 +1307,7 @@ Annexe 8*[^t-11]*
 
 ## Produits purs pour le nettoyage et la désinfection des bâtiments et des installations servant à la garde d’animaux (p. ex. équipements et ustensiles)
 
-[^t-11]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Mise à jour selon le ch. II al. 1 de l’O du DEFR du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
+[^t-11]: Introduite par le ch. II de l’O du DEFR du 23 août 2000 ([RO 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Mise à jour par le ch. II al. 1 de l’O du DEFR du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 
 ### 1. Produits autorisés
 

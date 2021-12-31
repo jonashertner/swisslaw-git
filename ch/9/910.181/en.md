@@ -3,11 +3,11 @@ sr: "910.181"
 title: EAER Ordinance of 22 September 1997 on Organic Farming
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20210101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 22 September 1997 (Status as of 1 January 2021)
+of 22 September 1997 (Status as of 1 January 2022)
 
 The Federal Department of Economic Affairs, Education and Research (EAER)*[^ingress-1]*,
 
@@ -38,7 +38,7 @@ ordains:
 
 **Plant protection products**[^1-1]
 
-The plant protection products authorised for uses in organic farming and the special directions for their use are laid down in Annex 1.
+The plant protection products authorised for uses in organic farming and the special directions for their use are in accordance with Annex 1.
 
 [^1-1]: Amended by No I of the EAER O of 1 Sept. 2016, in force since 1 Oct. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)).
 
@@ -46,7 +46,7 @@ The plant protection products authorised for uses in organic farming and the spe
 
 **Fertilisers[^2-1]**
 
-The fertilisers and equivalent products laid down in Annex 2 shall be authorised in organic farming.
+The fertilisers and equivalent products in accordance with Annex 2 shall be authorised in organic farming.
 
 [^2-1]: Term in accordance with No I of the EAER O of 13 March 2001, in force since 1 April 2001 ([AS 2001 1322](https://fedlex.data.admin.ch/eli/oc/2001/181)). This amendment has been made throughout the text.
 
@@ -58,9 +58,9 @@ The fertilisers and equivalent products laid down in Annex 2 shall be authorised
 
 The following may be used for processing foodstuffs, with the exception of yeast and wine:[^3-2]
 
-- a.[^3-3] products and substances laid down in Annex 3;
+- a.[^3-3] products and substances in accordance with Annex 3;
 - b. preparations made from micro-organisms and enzymes, which are normally used in the production of foodstuffs; enzymes, which are to be used as food additives, must be listed in Annex 3 Section A;
-- c.[^3-4] Products and substances laid down in Article 2 paragraph 1 letter b and c of the FDHA Flavourings Ordinance of 16 December 2016[^3-5] which are listed as «natural flavouring substances» or «flavouring preparations» under Article 10 of the Flavourings Ordinance;
+- c.[^3-4] Products and substances in accordance with Article 2 paragraph 1 letter b and c of the FDHA Flavourings Ordinance of 16 December 2016[^3-5] which are listed as «natural flavouring substances» or «flavouring preparations» under Article 10 of the Flavourings Ordinance;
 - d. drinking water and salts (mainly of sodium or potassium chloride), which are generally used in food processing;
 - e.[^3-6]
 
@@ -73,8 +73,8 @@ The following may be used for processing foodstuffs, with the exception of yeast
 
 For the assessment for the purposes of Article 18 paragraph 1 letter b of the Organic Farming Ordinance:
 
-- a. food additives laid down in Annex 3 Section A, which are marked with an asterisk in the column for the additive code, shall be included as ingredients of agricultural origin;
-- b. preparations and substances laid down in paragraph 1 (b–e) and substances laid down in Annex 3 Section A, which are not marked with an asterisk in the column for the additive code, shall not be included as ingredients of agricultural origin.
+- a. food additives in accordance with Annex 3 Section A, which are marked with an asterisk in the column for the additive code, shall be included as ingredients of agricultural origin;
+- b. preparations and substances in accordance with paragraph 1 (b–e) and substances in accordance with Annex 3 Section A, which are not marked with an asterisk in the column for the additive code, shall not be included as ingredients of agricultural origin.
 
 <sup>3</sup> This applies without prejudice to the provisions of the legislation on foodstuffs.
 
@@ -85,7 +85,7 @@ For the assessment for the purposes of Article 18 paragraph 1 letter b of the Or
 [^3-5]: [SR 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
 [^3-6]: Amended by No I of the EAER O of 23 Oct. 2019, in force since 1 Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^3-7]: [SR 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
-[^3-8]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^3-8]: SR **817.022.104**
 
 #### Art. 3a
 
@@ -95,8 +95,8 @@ For the assessment for the purposes of Article 18 paragraph 1 letter b of the Or
 
 The following substances may be used for the production, preparation and formulation of organic yeast:[^3a-2]
 
-- a.[^3a-3] substances laid down in Annex 3*a*;
-- b. products and substances laid down in Article 3 paragraph 1 letter b and d.
+- a.[^3a-3] substances in accordance with Annex 3*a*;
+- b. products and substances in accordance with Article 3 paragraph 1 letter b and d.
 
 <sup>2</sup> The addition of up to 5 per cent of non-organic yeast extract or autolysed yeast, calculated as dry mass, shall be permitted for the production of organic yeast, if it can be proved that no organically produced yeast extract or autolysed yeast is available.
 
@@ -108,19 +108,18 @@ The following substances may be used for the production, preparation and formula
 
 **Use of products and substances in accordance with Article 16*j* para paragraph 2 letter b and c of the Organic Farming Ordinance in the production of wine**[^3b-1]
 
-Products and substances laid down in Annex VIII*b* of Regulation (EC) 889/2008[^3b-2] may be used for the production of wine.
+Products and substances in accordance with Annex V Part D of Implementing Regulation (EU) 2021/1165[^3b-2] may be used for the production of wine.
 
-[^3b-1]: Inserted by No I of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No I of the EAER O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
-[^3b-2]: Commission Regulation (EC) No 889/2008 5 September 2008 laying down detailed rules for the implementation of Council Regulation (EC) No 834/2007 on organic production and labelling of organic products with regard to organic production, labelling and control, OJ L 250 of 18.9.2008, p. 1; last amended by Implementing Regulation (EU) 2019/2164, OJ L 328 of 18.12.2019, p. 61.
+[^3b-1]: Inserted by No I of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No I of the EAER O of 3 Nov. 2020, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^3b-2]: Commission Implementing Regulation (EU) 2021/1165 of 15 July 2021 authorising certain products and substances for use in organic production and establishing their lists, OJ L 253 of 16.7.2021, p. 45–47.
 
 #### Art. 3c
 
 **Oenological practices and processes and restrictions thereon**[^3c-1]
 
-Oenological practices and processes in accordance with Article 29*d* of Regulation (EC) 889/2008[^3c-2] are permitted.
+Oenological practices and processes in accordance with Annex II Part VI number 3 of Regulation (EU) 2018/848 as amended by Annex 3*b* are permitted.
 
-[^3c-1]: Inserted by No I of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No I of the EAER O of 11 Nov. 2020, in force since 1. Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
-[^3c-2]: See footnote to Art. 3*b*.
+[^3c-1]: Inserted by No I of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No I of the EAER O of 3 Nov. 2020, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 #### Art. 4
 
@@ -138,9 +137,9 @@ Oenological practices and processes in accordance with Article 29*d* of Regulati
 
 **Species-related requirements for organic stockfarming**[^4abis-1]
 
-<sup>1</sup> The provisions laid down in Annex 5 apply with regard to the species-related requirements for organic stockfarming.
+<sup>1</sup> The provisions in accordance with Annex 5 apply with regard to the species-related requirements for organic stockfarming.
 
-<sup>2</sup> The requirements regarding outdoor runs and outdoor climate areas together with other rules for housing the various livestock species are laid down in Annex 6.
+<sup>2</sup> The requirements regarding outdoor runs and outdoor climate areas together with other rules for housing the various livestock species are in accordance with Annex 6.
 
 [^4abis-1]: Originally Art. 4*a*. Inserted by No I of the EAER O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)).
 
@@ -204,7 +203,7 @@ Only the following shall be used in the processing of organic animal feedingstuf
 
 **Cleaning agents and disinfectants**[^4c-1]
 
-The cleaning agents and disinfectants laid down in Annex 8 shall be authorised for use in organic stockfarming.
+The cleaning agents and disinfectants in accordance with Annex 8 shall be authorised for use in organic stockfarming.
 
 [^4c-1]: Inserted by No I of the EAER O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)).
 
@@ -220,7 +219,7 @@ The cleaning agents and disinfectants laid down in Annex 8 shall be authorised f
 
 <sup>1</sup> Data concerning the previous year shall be transmitted to the Federal Office for Agriculture (FOAG) by 31 January each year.
 
-<sup>2</sup> The certification bodies must use the standard forms laid down in Annex 12 of this Ordinance for transmission of the annual report data referred to in Article 30*d* paragraph 3 of the Organic Farming Ordinance. The competent cantonal food inspection agency may ask the certification bodies for the annual report on the operators in its canton.
+<sup>2</sup> The certification bodies must use the standard forms in accordance with Annex 12 of this Ordinance for transmission of the annual report data referred to in Article 30*d* paragraph 3 of the Organic Farming Ordinance. The competent cantonal food inspection agency may ask the certification bodies for the annual report on the operators in its canton.
 
 [^4e-1]: Inserted by No I of the EAER O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)).
 
@@ -242,7 +241,7 @@ Beekeeping holdings may label their products as organic products even if they ha
 
 <sup>1</sup> When an operator runs several apiaries in the same area, all the units must comply with the requirements of this Ordinance.
 
-<sup>2</sup> Individual apiaries may be kept on sites which do not comply with the requirements laid down in Article 10, provided that the other provisions are fulfilled. Their products may not be labelled as organic products.
+<sup>2</sup> Individual apiaries may be kept on sites which do not comply with the requirements in accordance with Article 10, provided that the other provisions are fulfilled. Their products may not be labelled as organic products.
 
 #### Art. 7
 
@@ -250,7 +249,7 @@ Beekeeping holdings may label their products as organic products even if they ha
 
 <sup>1</sup> Beekeeping holdings which have converted to organic production may label their products as organic products no earlier than one year after conversion. Marketing with reference to being under conversion to organic farming is not permitted.
 
-<sup>2</sup> During the conversion period the wax must be replaced according to the requirements laid down in Article 16.
+<sup>2</sup> During the conversion period the wax must be replaced according to the requirements in accordance with Article 16.
 
 #### Art. 8
 
@@ -342,7 +341,7 @@ Disease prevention in beekeeping shall be based on the following principles:
 
 <sup>3</sup> Only phytotherapeutic and homeopathic products shall be used to control disease and infestation, unless the use of these products should prove or is unlikely to be effective to eradicate a disease or infestation which risks destroying colonies. Treatments using allopathic chemically synthesised medicinal products shall be used only if they are indispensable and are prescribed by a veterinarian.
 
-<sup>4</sup> If a treatment is applied with allopathic chemically synthesised medicinal products, during such a period, the colonies treated must be placed in isolation apiaries and all the wax must be replaced with wax complying with the conditions laid down in this Ordinance. Subsequently, the conversion period of one year will apply to those colonies. This provision shall not apply in the case of treatment with formic acid, lactic acid, acetic acid and oxalic acid, and with the substances menthol, thymol, eucalyptol and camphor to control *Varroa jacobsoni*.
+<sup>4</sup> If a treatment is applied with allopathic chemically synthesised medicinal products, during such a period, the colonies treated must be placed in isolation apiaries and all the wax must be replaced with wax complying with the conditions in accordance with this Ordinance. Subsequently, the conversion period of one year will apply to those colonies. This provision shall not apply in the case of treatment with formic acid, lactic acid, acetic acid and oxalic acid, and with the substances menthol, thymol, eucalyptol and camphor to control *Varroa jacobsoni*.
 
 <sup>5</sup> Whenever veterinary medicinal products are to be used, the type of product (including the indication of the active pharmacological substance) together with details of the diagnosis, the posology (dosage), the method of administration, the duration of the treatment and the legal withdrawal period must be recorded clearly and declared to the certification body, which must authorise the labelling of the relevant products as organic products.
 
@@ -453,7 +452,7 @@ Before issuing the certificate of inspection, the authority or certification bod
 
 **Requirements for the certificate of inspection**
 
-<sup>1</sup> The certificate of inspection must be drawn up in accordance with the provisions laid down in Annex 9 Section A or with the model in Annex V of Commission Regulation (EC) No 1235/2008[^16c-1]. It shall be drawn up in German, French, Italian or English.[^16c-2]
+<sup>1</sup> The certificate of inspection must be drawn up in accordance with the provisions in accordance with Annex 9 Section A or with the model in Annex V of Commission Regulation (EC) No 1235/2008[^16c-1]. It shall be drawn up in German, French, Italian or English.[^16c-2]
 
 <sup>2</sup> Subsequent alterations must be certified by the issuing authority or certification body.
 
@@ -497,7 +496,7 @@ The following shall be considered to be the original of the certificate of inspe
 
 **Preparation of a consignment before customs clearance**[^16e-1]
 
-Where a consignment is intended to be submitted before customs clearance to one or more forms of preparation as defined in Article 4 letter c of the Organic Farming Ordinance, the procedure laid down in Article 16*d* paragraph1 must be completed before the first preparation is carried out.
+Where a consignment is intended to be submitted before customs clearance to one or more forms of preparation as defined in Article 4 letter c of the Organic Farming Ordinance, the procedure in accordance with Article 16*d* paragraph1 must be completed before the first preparation is carried out.
 
 The customs declaration reference number for customs warehousing or inward processing must be given in box 19 of the certificate of inspection.
 
@@ -507,11 +506,11 @@ The customs declaration reference number for customs warehousing or inward proce
 
 **Splitting of a consignment before customs clearance**
 
-<sup>1</sup> Where is intended to split a consignment into different batches before customs clearance , the procedure laid down in Article 16*d* paragraph 1 must be completed before the splitting is carried out.
+<sup>1</sup> Where is intended to split a consignment into different batches before customs clearance , the procedure in accordance with Article 16*d* paragraph 1 must be completed before the splitting is carried out.
 
 <sup>2</sup> For each of the batches which results from the splitting, the importer shall also provide the certification body with an extract of the certificate of inspection via TRACES.[^16f-1]
 
-<sup>3</sup> The extract of the certificate of inspection must be drawn up in accordance with the provisions laid down in Annex 9 Section B.[^16f-2]
+<sup>3</sup> The extract of the certificate of inspection must be drawn up in accordance with the provisions in accordance with Annex 9 Section B.[^16f-2]
 
 <sup>4</sup> The competent certification body of the importer shall complete the declaration in box 13 certifying that the extract of the certificate of inspection corresponds to the certificate of inspection mentioned in box 3.[^16f-3]
 
@@ -543,12 +542,12 @@ The customs declaration reference number for customs warehousing or inward proce
 
 Conditions for entry shall be that the supplier:
 
-- a. provides evidence that he or, if the supplier only deals with pre-packaged seeds or plant propagating material, the most recent operator, has undergone the inspection procedure laid down in Chapter 5 of the Organic Farming Ordinance;
+- a. provides evidence that he or, if the supplier only deals with pre-packaged seeds or plant propagating material, the most recent operator, has undergone the inspection procedure in accordance with Chapter 5 of the Organic Farming Ordinance;
 - b. provides evidence that the seeds or plant propagating material to be marketed meet the general requirements for seeds and plant propagating material;
 - c. undertakes to provide access to all the information required under Article 16*h* and to update this information at the request of the operator of the information system or whenever necessary;
 - d. undertakes to notify the operator of the information system without delay if one of the registered varieties is no longer available.
 
-<sup>3</sup> The operator of the information system may remove an entry if the supplier fails to meet the conditions laid down in paragraph 2.
+<sup>3</sup> The operator of the information system may remove an entry if the supplier fails to meet the conditions in accordance with paragraph 2.
 
 #### Art. 16h
 
@@ -616,7 +615,7 @@ This Ordinance shall enter into force on 1 January 1998.
 
 [^u1-1]: [AS 2006 5165](https://fedlex.data.admin.ch/eli/oc/2006/785)
 
-Until 31 December 2007 organic produce may still be produced and delivered according to the present provisions of Annex 3 subparagraphs A and B. Stock existing on 31 December 2007 may still be delivered until depleted.
+Until 31 December 2007 organic produce may still be produced and supplied according to the present provisions of Annex 3 subparagraphs A and B. Stock existing on 31 December 2007 may still be supplied until depleted.
 
 ## Transitional provisions to the Amendment of 1 December 2011****
 
@@ -630,21 +629,24 @@ Until 31 December 2007 organic produce may still be produced and delivered accor
 
 [^u3-1]: [AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)
 
-<sup>1</sup> If feedingstuffs have to be purchased for non-ruminants to supplement the holding’s own feed stocks and if sufficient quantities of organic feedingstuffs are not available, non-organic protein feed may be purchased with the agreement of the certification body by 31 December 2015. The proportion of non-organically produced protein feed, as a ratio of dry matter, may total no more than 5 per cent per year of the total feed consumption for pigs and poultry. Animal feed materials in accordance with Annex 7 Section A 2 shall be deemed to be protein feed.
+<sup>1</sup> If feedingstuffs have to be purchased for non-ruminants to supplement the holding’s own feed stocks and if sufficient quantities of organic feedingstuffs are not available, non-organic protein feed may be purchased with the agreement of the certification body until 31 December 2015. The proportion of non-organically produced protein feed, as a ratio of dry matter, may total no more than 5 per cent per year of the total feed consumption for pigs and poultry. Animal feed materials in accordance with Annex 7 Section A 2 shall be deemed to be protein feed.
 
-<sup>2</sup> Feedingstuffs may be manufactured under existing legislation by 31 December 2014.
+<sup>2</sup> Feedingstuffs may be manufactured under existing legislation until 31 December 2014.
 
 <sup>3</sup> Existing stocks of animal feedingstuffs on 1 January 2015, which have been manufactured in accordance with existing legislation, may continue to be sold until stocks run out or may be fed to animals until the expiry date.
 
-<sup>4</sup> The time limit given in paragraph 1 shall be extended by 31 December 2018.[^u3-2]
+<sup>4</sup> The time limit given in paragraph 1 shall be extended until 31 December 2018.[^u3-2]
 
-<sup>5</sup> The time limit given in paragraph 4 shall be extended by 31 December 2020.[^u3-3]
+<sup>5</sup> The time limit given in paragraph 4 shall be extended until 31 December 2020.[^u3-3]
 
-<sup>6</sup> The time limit given in paragraph 5 shall be extended by 31 December 2022.[^u3-4]
+<sup>6</sup> The time limit given in paragraph 5 shall be extended until 31 December 2022.[^u3-4]
+
+<sup>7</sup> The time limit given in paragraph 6 shall be extended for piglets up to 35 kg and young poultry until 31 December 2025.[^u3-5]
 
 [^u3-2]: Inserted by No I of the EAER O of 28 Oct. 2015, in force since 1 Jan. 2016 ([AS 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)).
 [^u3-3]: Inserted by No I of the EAER O of 31 Oct. 2018, in force since 1 Jan. 2019 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 [^u3-4]: Inserted by No I of the EAER O of 23 Oct. 2019, in force since 1 Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
+[^u3-5]: Inserted by No I of the EAER O of 3 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ## Transitional provisions of the Amendment of 1 September 2016****
 
@@ -652,28 +654,42 @@ Until 31 December 2007 organic produce may still be produced and delivered accor
 
 [^u4-1]: [AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)
 
-<sup>2</sup> Vegetable oils laid down in Annex 3*a* not produced organically may be used for the production of yeast and yeast products by 31 December 2018.
+<sup>2</sup> Vegetable oils in accordance with Annex 3*a* not produced organically may be used for the production of yeast and yeast products until 31 December 2018.
 
-<sup>3</sup> The time limit given in paragraph 1 shall be extended by 31 December 2019 for the food additives and the technical aids in accordance with paragraph 1 letter b, c and d.[^u4-2]
+<sup>3</sup> The time limit given in paragraph 1 shall be extended until 31 December 2019 for the food additives and the technical aids in accordance with paragraph 1 letter b, c and d.[^u4-2]
 
-<sup>1</sup> The following may be used for the production of processed foodstuffs by 31 December 2018:
+<sup>1</sup> The following may be used for the production of processed foodstuffs until 31 December 2018:
 
-- a. Lecithins (E 322) laid down in Annex 3 Section A from non-organic raw materials;
-- b. Carnauba wax (E 903) laid down in Annex 3 Section A from non-organic raw materials;
-- c. Vegetable oils laid down in Annex 3 Section B 1 not produced organically;
-- d. Carnauba wax for the preparation of foodstuffs of plant origin laid down in Annex 3 Section B 1 from non-organic raw materials.
+- a. Lecithin (E 322) in accordance with Annex 3 Section A from non-organic raw materials;
+- b. Carnauba wax (E 903) in accordance with Annex 3 Section A from non-organic raw materials;
+- c. Vegetable oils in accordance with Annex 3 Section B 1 not produced organically;
+- d. Carnauba wax for the preparation of foodstuffs of plant origin in accordance with Annex 3 Section B 1 from non-organic raw materials.
 
 [^u4-2]: Inserted by No I of the EAER O of 31 Oct. 2018, in force since 1 Jan. 2019 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 
+## Transitional provisions of the Amendment of 3 November 2021****
+
+[^u5-1]
+
+[^u5-1]: [AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)
+
+<sup>2</sup> Organic products may be produced and supplied until 31 December 2023 in accordance with the current provisions of Annex 3 Part C. Stocks still existing on 31 December 2023 may continue to be sold until they run out.
+
+<sup>1</sup> The following may be used for the production of processed foodstuffs until 31 December 2022:
+
+- a. Lecithin (E 322) and carnauba wax (E 903) in accordance with Annex 3 Part A from organic raw materials;
+- b. Locust bean gum (E 410), guar gum (E 412), arabic gum (E 414), gellan gum (E 418) and glycerol (E 422) in accordance with Annex 3 Part A not produced organically;
+- c. Carnauba wax for the preparation of foodstuffs of plant origin in accordance with Annex 3 Part B number 1 from organic raw materials.
+
 Annex 1*[^t-1]*
 
-(Arts 1 and 16 para. 5)
+(Arts. 1 and 16 para. 5)
 
 ## Authorised plant protection products and conditions for use
 
-[^t-1]: Amended by No III para. 1 of the EAER O of 1 Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Revised by No II para. 1 of the EAER O of 18 Oct. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), of 31 Oct. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), No II of the EAER O of 23 Oct. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) and No II para. 1 of the EAER O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-1]: Amended by No III para. 1 of the EAER O of 1 Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Revised by No II para. 1 of the EAER O of 18 Oct. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), of 31 Oct. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), No II of the EAER O of 23 Oct. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), No II para. 1 of the EAER O of 11 Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) and of 3 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
-All listed plant protection products shall be subject to the directions for use laid down in the Ordinance of 12 May 2010**[^annex1-lvlu1-1]** on Plant Protection Products (PPPO). Stricter directions for use for organic production are given in the second column of each table.
+All listed plant protection products shall be subject to the directions for use in accordance with the Ordinance of 12 May 2010**[^annex1-lvlu1-1]** on Plant Protection Products (PPPO). Stricter directions for use for organic production are given in the second column of each table.
 
 ### 1. Substances of plant or animal origin
 
@@ -687,7 +703,7 @@ All listed plant protection products shall be subject to the directions for use 
 <tr><td>Hydrolysed protein, apart from gelatins</td><td>Only as attractant for permitted uses in conjunction with other suitable products contained in this Annex</td></tr>
 <tr><td>Laminarin</td><td>Only to stimulate immune defence in crops. The seaweed must be organically produced or sustainably harvested.</td></tr>
 <tr><td>Lecithins</td><td>No genetically modified organisms</td></tr>
-<tr><td>Pheromone</td><td>Only as insect control using traps or dispensers e.g. confusion technique, marking pheromones</td></tr>
+<tr><td>Pheromone and other semiochemicals</td><td>Only as insect control using traps or dispensers including aerosol dosage systems e.g. confusion technique, marking pheromones</td></tr>
 <tr><td>Plant oils such as e.g. mint oil, pine oil, caraway oil, fennel oil</td><td>All uses authorised, except herbicide.</td></tr>
 <tr><td>Plant waxes</td><td>Only as pruning agent/wound protectant.</td></tr>
 <tr><td>Pyrethrins</td><td>Only of plant origin</td></tr>
@@ -704,7 +720,7 @@ All listed plant protection products shall be subject to the directions for use 
 
 <table>
 <tr><th>Name</th><th>Description, compositional requirement, conditions for use</th></tr>
-<tr><td>Cerevisane Natural micro-organisms including viruses</td><td>No genetically modified organisms</td></tr>
+<tr><td>Cerevisane and other products based on fragments of cells of micro-organisms Natural micro-organisms including viruses</td><td>No genetically modified organisms</td></tr>
 <tr><td>Spinosad</td><td></td></tr>
 </table>
 
@@ -744,7 +760,7 @@ Annex 2*[^t-2]*
 
 ## Authorised fertilisers, preparations and substrata
 
-[^t-2]: Amended by No I of the EAER O of 7 Dec. 1998 ([AS 1999 292](https://fedlex.data.admin.ch/eli/oc/1999/33)), No I para. 1 of the EAER O of 14 Dec. 2000 ([AS 2001 252](https://fedlex.data.admin.ch/eli/oc/2001/52)), Art. 9 of the EFD Fertilisers Book Ordinance of 28 Feb. 2001 ([AS 2001 722](https://fedlex.data.admin.ch/eli/oc/2001/109)), No I of the EAER O of 13 March 2001 ([AS 2001 1322](https://fedlex.data.admin.ch/eli/oc/2001/181)), Annex 3 of the EFD Fertiliser Book Ordinance of 16 Nov. 2007 ([AS 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), No II para. 1 of the EAER O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)), No II para. 2 of the O of 29 Oct. 2014 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), No II para. 1 of the EAER O of 18 Oct. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), No II of the EAER O of 23 Oct. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) and No II para. 1 of the EAER O of 11 Nov. 2020, in force since 1 Jan. 2021 [AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-2]: Amended by No I of the EAER O of 7 Dec. 1998 ([AS 1999 292](https://fedlex.data.admin.ch/eli/oc/1999/33)), No I para. 1 of the EAER O of 14 Dec. 2000 ([AS 2001 252](https://fedlex.data.admin.ch/eli/oc/2001/52)), Art. 9 of the EFD Fertilisers Book Ordinance of 28 Feb. 2001 ([AS 2001 722](https://fedlex.data.admin.ch/eli/oc/2001/109)), No I of the EAER O of 13 March 2001 ([AS 2001 1322](https://fedlex.data.admin.ch/eli/oc/2001/181)), Annex 3 of the EFD Fertiliser Book Ordinance of 16 Nov. 2007 ([AS 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), No II para. 1 of the EAER O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)), No II para. 2 of the O of 29 Oct. 2014 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), No II para. 1 of the EAER O of 18 Oct. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), No II of the EAER O of 23 Oct. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) and No II para. 1 of the EAER O of 11 Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) and of 3 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 Fertilisers and preparations may be identified as bio-dynamic if they have been produced according to the guidelines for bio-dynamic farming.
 
@@ -791,7 +807,7 @@ The provisions of the Fertiliser Ordinance of 10 January 2001[^annex2-lvlu1-1] a
 <tr><td colspan="2">– hydrolysed proteins</td><td>Not to be used on edible parts of the plant</td></tr>
 <tr><td colspan="2">– milk products</td><td></td></tr>
 <tr><td colspan="2">Products and by-products of plant origin such as e.g.: – filter cake of oleaginous fruit – cocoa shells – malt sprouts – coconut fibre and coconut cake – vinasse, molasses – pomace</td><td></td></tr>
-<tr><td colspan="2">Pot ale and pot ale extract</td><td>Of Swiss origin, no ammonia pot ale</td></tr>
+<tr><td colspan="2">Stillage and stillage extract</td><td>Ammonium stillage excluded</td></tr>
 <tr><td colspan="2">Seaweeds and seaweed products\*</td><td>Only and directly obtained from: a. physical treatments, incl. drying, freezing and grinding; b. extraction with water or acid and/or alkali aqueous solutions; or c. fermentation.</td></tr>
 <tr><td colspan="2">Chitin (polysaccharide obtained from the shell of crustaceans)</td><td>Only products from sustainable fisheries</td></tr>
 <tr><td colspan="2">Leonardite (organic sediment with a high content of humic acids)</td><td>Only obtained as by-product from mining operations</td></tr>
@@ -800,7 +816,7 @@ The provisions of the Fertiliser Ordinance of 10 January 2001[^annex2-lvlu1-1] a
 <tr><td colspan="2">Bark compost</td><td>Of wood not treated chemically.</td></tr>
 <tr><td colspan="2">Wood ash</td><td>Of wood not treated chemically, as well as farm ash or with authorisation in accordance with the Ordinance on Fertilisers\*\*\*</td></tr>
 <tr><td colspan="2">Vegetable carbon\*\*\*</td><td>Only natural wood is permitted as raw material for production</td></tr>
-<tr><td colspan="2">Humic acid, fulvic acid</td><td>Exclusively from anorganic salts/solutions excepting ammonium salts or from drinking water treatment</td></tr>
+<tr><td colspan="2">Humic acid, fulvic acid</td><td>Exclusively with the aid of anorganic salts/solutions excepting ammonium salts or from drinking water treatment</td></tr>
 <tr><td colspan="2">2.3 Trace elements</td><td></td></tr>
 <tr><td colspan="2">Trace elements\*</td><td></td></tr>
 <tr><td colspan="3">2.4. Cultures of micro-organisms for soil treatment</td></tr>
@@ -838,67 +854,68 @@ Annex 3*[^t-3]*
 
 ## Products and substances for use in production of processed food
 
-[^t-3]: Amended by No III para. 2 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Revised by No II of the EAER O of 28 Oct. 2015 ([AS 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), No III para. 2 of the EAER O of 1 Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)), No II para. 1 of the EAER O of 18 Oct. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), of 31 Oct. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), No II of the EAER O of 23 Oct. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)) and No II Abs. 1 of the EAER O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+[^t-3]: Amended by No III para. 2 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Revised by No II of the EAER O of 28 Oct. 2015 ([AS 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), No III para. 2 of the EAER O of 1 Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)), No II para. 1 of the EAER O of 18 Oct. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), of 31 Oct. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), No II of the EAER O of 23 Oct. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), No II Abs. 1 of the EAER O of 11 Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) and of 3 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ### Section A Authorised food additives, including carriers
 
-All additives are subject to the application restrictions laid down in the Ordinance on Additives of 25 November 2013[^annex3-lvlu1-partA-1].
+All additives are subject to the application restrictions in accordance with the Ordinance on Additives of 25 November 2013[^annex3-lvlu1-partA-1].
 
 <table>
 <tr><th>Code</th><th>Indication</th><th colspan="2">Directions for use for the preparation of foodstuffs</th></tr>
 <tr><th></th><th></th><th>of plant origin</th><th>of animal origin</th></tr>
-<tr><td>E 153</td><td>Vegetable carbon</td><td>not permitted</td><td>Only permitted for ashy goat’s cheese and Morbier cheese</td></tr>
-<tr><td>E 160b\*</td><td>Annatto, bixin, norbixin</td><td>not permitted</td><td>Only permitted for Red Leicester, Double Gloucester, Cheddar and Mimolette cheeses</td></tr>
+<tr><td>E 153</td><td>Vegetable carbon</td><td>not permitted</td><td>only permitted for ashy goat’s cheese and Morbier cheese</td></tr>
+<tr><td>E 160b\*</td><td>Annatto, bixin, norbixin</td><td>not permitted</td><td>only permitted for Red Leicester, Double Gloucester, Cheddar and Mimolette cheeses</td></tr>
 <tr><td>E 170</td><td>Calcium carbonate</td><td>permitted (shall not be used as colour or calcium additive)</td><td>permitted (shall not be used as colour or calcium additive)</td></tr>
-<tr><td>E 220</td><td>Sulphur dioxide</td><td>Only permitted for fruit wines (wine made from fruit other than grapes, including cider and perry) In the case of fruit wine: 100 mg/l (\*) (\*) Maximum values refer to the total amount contained in all ingredients, expressed in mg/l SO<sub>2</sub></td><td>Permitted for met for met : 100 mg/l (\*)</td></tr>
-<tr><td>E 250</td><td>Sodium nitrite</td><td>not permitted</td><td>Only permitted for meat products Not permitted in combination with E 252 Standard value for the added amount, expressed in NaNO<sub>2</sub>: 80 mg/kg Maximum residual amount, expressed in NaNO<sub>2</sub>: 50 mg/kg</td></tr>
-<tr><td>E 252</td><td>Potassium nitrate</td><td>not permitted</td><td>Only permitted for meat products Not permitted in combination with E 250 Standard value for the added amount, expressed in NaNO<sub>3</sub>: 80 mg Maximum residual amount, expressed in NaNO<sub>3</sub>: 50 mg/kg</td></tr>
+<tr><td>E 220</td><td>Sulphur dioxide</td><td>only permitted for fruit wines (wine made from fruit other than grapes, including cider and perry) In the case of fruit wine: 100 mg/l (\*) (\*) Maximum values refer to the total amount contained in all ingredients, expressed in mg/l SO<sub>2</sub></td><td>permitted for met for met : 100 mg/l (\*)</td></tr>
+<tr><td>E 250</td><td>Sodium nitrite</td><td>not permitted</td><td>only permitted for meat products not permitted in combination with E 252 standard value for the added amount, expressed in NaNO<sub>2</sub>: 80 mg/kg maximum residual amount, expressed in NaNO<sub>2</sub>: 50 mg/kg</td></tr>
+<tr><td>E 252</td><td>Potassium nitrate</td><td>not permitted</td><td>only permitted for meat products not permitted in combination with E 250 standard value for the added amount, expressed in NaNO<sub>3</sub>: 80 mg maximum residual amount, expressed in NaNO<sub>3</sub>: 50 mg/kg</td></tr>
 <tr><td>E 270</td><td>Lactic acid</td><td>permitted</td><td>permitted</td></tr>
 <tr><td>E 290</td><td>Carbon dioxide</td><td>permitted</td><td>permitted</td></tr>
 <tr><td>E 296</td><td>Malic acid</td><td>permitted</td><td>not permitted</td></tr>
-<tr><td>E 300</td><td>Ascorbic acid</td><td>permitted</td><td>Only permitted for meat products</td></tr>
-<tr><td>E 301</td><td>Sodium ascorbate</td><td>not permitted</td><td>Only permitted for meat products in conjunction with nitrite or nitrate</td></tr>
-<tr><td>E 306\*</td><td>Extracts rich in tocopherol</td><td>Only permitted as antioxidant</td><td>Only permitted as antioxidant</td></tr>
-<tr><td>E 322\*</td><td>Lecithins</td><td>Permitted only from organic raw materials</td><td>Only permitted for milk products</td></tr>
-<tr><td>E 325</td><td>Sodium lactate</td><td>not permitted</td><td>Only permitted for milk and meat products</td></tr>
+<tr><td>E 300</td><td>Ascorbic acid</td><td>permitted</td><td>only permitted for meat products</td></tr>
+<tr><td>E 301</td><td>Sodium ascorbate</td><td>not permitted</td><td>only permitted for meat products in conjunction with nitrite or nitrate</td></tr>
+<tr><td>E 306\*</td><td>Extracts rich in tocopherol</td><td>only permitted as antioxidant</td><td>only permitted as antioxidant</td></tr>
+<tr><td>E 322\*</td><td>Lecithin</td><td>permitted only from organic production</td><td>only for milk products only from organic production</td></tr>
+<tr><td>E 325</td><td>Sodium lactate</td><td>not permitted</td><td>only permitted for milk and meat products</td></tr>
 <tr><td>E 330</td><td>Citric acid</td><td>permitted</td><td>permitted</td></tr>
 <tr><td>E 331</td><td>Sodium citrate</td><td>permitted</td><td>permitted</td></tr>
 <tr><td>E 333</td><td>Calcium citrate</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>E 334</td><td>Tartaric acid L(+)–</td><td>permitted</td><td>permitted for met</td></tr>
 <tr><td>E 335</td><td>Sodium tartrate</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>E 336</td><td>Potassium tartrate</td><td>permitted</td><td>not permitted</td></tr>
-<tr><td>E 341 (i)</td><td>Monocalcium phosphate</td><td>Only permitted as raising agent for self raising flour</td><td>not permitted</td></tr>
-<tr><td>E 392\*</td><td>Rosemary extracts</td><td>Only from organic production</td><td>Only from organic production</td></tr>
-<tr><td>E 400</td><td>Alginic acid</td><td>permitted</td><td>Only permitted for milk products</td></tr>
-<tr><td>E 401</td><td>Sodium alginate</td><td>permitted</td><td>Only permitted for milk products</td></tr>
-<tr><td>E 402</td><td>Potassium alginate</td><td>permitted</td><td>Only permitted for milk products</td></tr>
-<tr><td>E 406</td><td>Agar-Agar</td><td>permitted</td><td>Only permitted for milk and meat products</td></tr>
-<tr><td>E 407</td><td>Carrageenan</td><td>permitted</td><td>Only permitted for milk products</td></tr>
-<tr><td>E 410\*</td><td>Locust bean gum</td><td>permitted</td><td>permitted</td></tr>
-<tr><td>E 412\*</td><td>Guar gum</td><td>permitted</td><td>permitted</td></tr>
-<tr><td>E 414\*</td><td>Gum arabic</td><td>permitted</td><td>permitted</td></tr>
+<tr><td>E 341 (i)</td><td>Monocalcium phosphate</td><td>only permitted as raising agent for self raising flour</td><td>not permitted</td></tr>
+<tr><td>E 392\*</td><td>Rosemary extracts</td><td>only from organic production</td><td>only from organic production</td></tr>
+<tr><td>E 400</td><td>Alginic acid</td><td>permitted</td><td>only permitted for milk products</td></tr>
+<tr><td>E 401</td><td>Sodium alginate</td><td>permitted</td><td>only permitted for milk products and sausages based on meat</td></tr>
+<tr><td>E 402</td><td>Potassium alginate</td><td>permitted</td><td>only permitted for milk products</td></tr>
+<tr><td>E 406</td><td>Agar-Agar</td><td>permitted</td><td>only permitted for milk and meat products</td></tr>
+<tr><td>E 407</td><td>Carrageenan</td><td>permitted</td><td>only permitted for milk products</td></tr>
+<tr><td>E 410\*</td><td>Locust bean gum</td><td>permitted only from organic production</td><td>permitted only from organic production</td></tr>
+<tr><td>E 412\*</td><td>Guar gum</td><td>permitted only from organic production</td><td>permitted only from organic production</td></tr>
+<tr><td>E 414\*</td><td>Gum arabic</td><td>permitted only from organic production</td><td>permitted only from organic production</td></tr>
 <tr><td>E 415</td><td>Xanthan gum</td><td>permitted</td><td>permitted</td></tr>
-<tr><td>E 418</td><td>Gellan gum</td><td>High-acyl form only</td><td>High-acyl form only</td></tr>
-<tr><td>E 422</td><td>Glycerol</td><td>Only permitted for plant extracts and flavourings; only permitted as humectant gelatine capsules and as film coating on tablets Only of plant origin</td><td>Only permitted for flavourings; only permitted as humectant gelatine capsules and as film coating on tablets Only of plant origin</td></tr>
-<tr><td>E 440\*(i)</td><td>Pectin</td><td>permitted</td><td>Only permitted for milk products</td></tr>
-<tr><td>E 464</td><td>Hydroxypropylmethylcellulose</td><td>Only permitted for manufacturing outer shells of capsules</td><td>Only permitted for manufacturing outer shells of capsules</td></tr>
-<tr><td>E 500</td><td>Sodium carbonates</td><td>Permitted</td><td>Only permitted for milk jam («Dulce de leche»), sour cream butter and sour milk cheese</td></tr>
+<tr><td>E 417</td><td>Tara gum</td><td>only permitted a thickener only from organic production</td><td>only permitted a thickener only from organic production</td></tr>
+<tr><td>E 418</td><td>Gellan gum</td><td>high-acyl form only only from organic production</td><td>high-acyl form only only from organic production</td></tr>
+<tr><td>E 422</td><td>Glycerol</td><td>only permitted for plant extracts and flavourings; only permitted as humectant gelatine capsules and as film coating on tablets only of plant origin only from organic production</td><td>only permitted for flavourings; only permitted as humectant gelatine capsules and as film coating on tablets only of plant origin only from organic production</td></tr>
+<tr><td>E 440\*(i)</td><td>Pectin</td><td>permitted</td><td>only permitted for milk products</td></tr>
+<tr><td>E 464</td><td>Hydroxypropylmethylcellulose</td><td>only permitted for manufacturing outer shells of capsules</td><td>only permitted for manufacturing outer shells of capsules</td></tr>
+<tr><td>E 500</td><td>Sodium carbonates</td><td>permitted</td><td>only permitted for milk jam («Dulce de leche»), sour cream butter and sour milk cheese</td></tr>
 <tr><td>E 501</td><td>Potassium carbonates</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>E 503</td><td>Ammonium carbonates</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>E 504</td><td>Magnesium carbonates</td><td>permitted</td><td>not permitted</td></tr>
-<tr><td>E 509</td><td>Calcium chloride</td><td>not permitted</td><td>Only permitted for milk coagulation</td></tr>
-<tr><td>E 516</td><td>Calcium sulphate</td><td>Only permitted as carrier</td><td>not permitted</td></tr>
-<tr><td>E 524</td><td>Sodium hydroxide</td><td>Surface treatment of «Laugengebäck» and regulation of acidity in organic flavourings</td><td>not permitted</td></tr>
-<tr><td>E 551</td><td>Silicon dioxide Gel or colloidal solution</td><td>For herbs and spices in dried powdered form and Flavourings</td><td>only permitted for flavourings</td></tr>
-<tr><td>E 553b</td><td>Talc</td><td>permitted</td><td>Only permitted as coating for meat products</td></tr>
-<tr><td>E 901</td><td>Beeswax</td><td>As a glazing agent for confectionary only. Beeswax from organic beekeeping only</td><td>Not permitted</td></tr>
-<tr><td>E 903</td><td>Carnauba wax</td><td>As a glazing agent for confectionary only; only permitted as a preservative coating on fruit that undergoes extreme cold treatment in the course of a quarantine measure to protect it against harmful organisms (pursuant to Annex 7 No 46 of the EAER and DETEC Ordinance of 14 Nov. 2019[^annex3-lvlu1-partA-2]</td><td>Not permitted</td></tr>
+<tr><td>E 509</td><td>Calcium chloride</td><td>not permitted</td><td>only permitted for milk coagulation</td></tr>
+<tr><td>E 516</td><td>Calcium sulphate</td><td>only permitted as carrier</td><td>not permitted</td></tr>
+<tr><td>E 524</td><td>Sodium hydroxide</td><td>surface treatment of «Laugengebäck» and regulation of acidity in organic flavourings</td><td>not permitted</td></tr>
+<tr><td>E 551</td><td>Silicon dioxide Gel or colloidal solution</td><td>for herbs and spices in dried powdered form and Flavourings</td><td>only permitted for flavourings</td></tr>
+<tr><td>E 553b</td><td>Talc</td><td>permitted</td><td>only permitted as coating for meat products</td></tr>
+<tr><td>E 901</td><td>Beeswax</td><td>as a glazing agent for confectionary only. beeswax from organic beekeeping only</td><td>Not permitted</td></tr>
+<tr><td>E 903</td><td>Carnauba wax</td><td>as a glazing agent for confectionary only; only permitted as a preservative coating on fruit that undergoes extreme cold treatment in the course of a quarantine measure to protect it against harmful organisms (pursuant to Annex 7 No 46 of the EAER and DETEC Ordinance of 14 Nov. 2019[^annex3-lvlu1-partA-2] only from organic production</td><td>Not permitted</td></tr>
 <tr><td>E 938</td><td>Argon</td><td>permitted</td><td>permitted</td></tr>
 <tr><td>E 939</td><td>Helium</td><td>permitted</td><td>permitted</td></tr>
 <tr><td>E 941</td><td>Nitrogen</td><td>permitted</td><td>permitted</td></tr>
-<tr><td>E 948</td><td>Oxygen</td><td>permitted</td><td>Permitted</td></tr>
-<tr><td>E 968</td><td>Erythritol</td><td>Only when derived from organic production without using ion exchange technology</td><td>Only when derived from organic production without using ion exchange technology</td></tr>
-<tr><td colspan="4">\* For the calculation purposes laid down in Article 18 paragraph 1 letter b of the Organic Farming Ordinance, food additives marked with an asterisk shall be included as ingredients of agricultural origin.</td></tr>
+<tr><td>E 948</td><td>Oxygen</td><td>permitted</td><td>permitted</td></tr>
+<tr><td>E 968</td><td>Erythritol</td><td>only when derived from organic production without using ion exchange technology</td><td>only when derived from organic production without using ion exchange technology</td></tr>
+<tr><td colspan="4">\* For the calculation purposes in accordance with Article 18 paragraph 1 letter b of the Organic Farming Ordinance, food additives marked with an asterisk shall be included as ingredients of agricultural origin.</td></tr>
 </table>
 
 [^annex3-lvlu1-partA-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
@@ -911,48 +928,48 @@ All additives are subject to the application restrictions laid down in the Ordin
 <table>
 <tr><th>Indication</th><th colspan="2">Directions for use for the preparation of foodstuffs</th></tr>
 <tr><th></th><th>of plant origin</th><th>of animal origin</th></tr>
-<tr><td>Water</td><td>Drinking water as defined in the FDHA Ordinance of 16 December 2016[^annex3-lvlu1-partB-lvl1-1] on Drinking Water and Water in Public Baths and Shower Facilities</td><td>Drinking water as defined in the FDHA Ordinance of 16 December 2016 on Drinking Water and Water in Public Baths and Shower Facilities</td></tr>
-<tr><td>Calcium chloride</td><td>Only permitted as coagulant</td><td>not permitted</td></tr>
+<tr><td>Water</td><td>drinking water as defined in the FDHA Ordinance of 16 December 2016[^annex3-lvlu1-partB-lvl1-1] on Drinking Water and Water in Public Baths and Shower Facilities</td><td>drinking water as defined in the FDHA Ordinance of 16 December 2016 on Drinking Water and Water in Public Baths and Shower Facilities</td></tr>
+<tr><td>Calcium chloride</td><td>only permitted as coagulant</td><td>Only permitted for the production of sausages based on meat</td></tr>
 <tr><td>Calcium carbonate</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>Calcium hydroxide</td><td>permitted</td><td>not permitted</td></tr>
-<tr><td>Calcium sulphate</td><td>Only permitted as coagulant</td><td>not permitted</td></tr>
-<tr><td>Magnesium chloride (nigari)</td><td>Only permitted as coagulant</td><td>not permitted</td></tr>
-<tr><td>Potassium carbonates</td><td>Only permitted for drying grapes</td><td>not permitted</td></tr>
+<tr><td>Calcium sulphate</td><td>only permitted as coagulant</td><td>not permitted</td></tr>
+<tr><td>Magnesium chloride (nigari)</td><td>only permitted as coagulant</td><td>not permitted</td></tr>
+<tr><td>Potassium carbonates</td><td>only permitted for drying grapes</td><td>not permitted</td></tr>
 <tr><td>Sodium carbonates</td><td>permitted</td><td>permitted</td></tr>
-<tr><td>Lactic acid</td><td>not permitted</td><td>Only permitted for regulating the pH-value of the salt bath in cheese making</td></tr>
-<tr><td>L-(+) lactic acid from fermentation process</td><td>Only permitted for the production of plant protein extracts</td><td>not permitted</td></tr>
-<tr><td>Citric acid</td><td>Permitted</td><td>Permitted</td></tr>
-<tr><td>Sodium hydroxide</td><td>Only permitted for sugar(s) production, oil production (excluding olive oil) and the production of plant protein extracts</td><td>not permitted</td></tr>
-<tr><td>Natural gypsum</td><td>Only permitted for sugar production</td><td>not permitted</td></tr>
-<tr><td>Sulphuric acid</td><td>Only permitted for sugar production</td><td>Only permitted for gelatine production</td></tr>
-<tr><td>Hops extract</td><td>Only permitted for antimicrobial purposes in sugar production From organic production when available</td><td>not permitted</td></tr>
-<tr><td>Pine resin extract</td><td>Only permitted for antimicrobial purposes in sugar production From organic production when available</td><td>not permitted</td></tr>
-<tr><td>Hydrochloric acid</td><td>not permitted</td><td>Only permitted for gelatine production and for regulating the pH-value of the salt bath in the production of Gouda, Edam, Maasdammer, Boerenkaas, Friesian and Leidse Nagelkaas cheeses</td></tr>
-<tr><td>Ammonium hydroxide</td><td>not permitted</td><td>Only permitted for gelatine production</td></tr>
-<tr><td>Hydrogen peroxide</td><td>not permitted</td><td>Only permitted for gelatine production</td></tr>
-<tr><td>Carbon dioxide</td><td>Permitted</td><td>Permitted</td></tr>
-<tr><td>Nitrogen</td><td>permitted</td><td>Permitted</td></tr>
-<tr><td>Ethanol</td><td>Only permitted as solvent</td><td>Only permitted as solvent</td></tr>
-<tr><td>Tannic acid</td><td>Only permitted as filtration aid</td><td>not permitted</td></tr>
+<tr><td>Lactic acid</td><td>not permitted</td><td>only permitted for regulating the pH-value of the salt bath in cheese making</td></tr>
+<tr><td>L-(+) lactic acid from fermentation process</td><td>only permitted for the production of plant protein extracts</td><td>not permitted</td></tr>
+<tr><td>Citric acid</td><td>permitted</td><td>permitted</td></tr>
+<tr><td>Sodium hydroxide</td><td>only permitted for sugar(s) production, oil production (excluding olive oil) and the production of plant protein extracts</td><td>not permitted</td></tr>
+<tr><td>Natural gypsum</td><td>only permitted for sugar production</td><td>not permitted</td></tr>
+<tr><td>Sulphuric acid</td><td>only permitted for sugar production</td><td>only permitted for gelatine production</td></tr>
+<tr><td>Hops extract</td><td>only permitted for antimicrobial purposes in sugar production from organic production when available</td><td>not permitted</td></tr>
+<tr><td>Pine resin extract</td><td>only permitted for antimicrobial purposes in sugar production From organic production when available</td><td>not permitted</td></tr>
+<tr><td>Hydrochloric acid</td><td>not permitted</td><td>only permitted for gelatine production and for regulating the pH-value of the salt bath in the production of Gouda, Edam, Maasdammer, Boerenkaas, Friesian and Leidse Nagelkaas cheeses</td></tr>
+<tr><td>Ammonium hydroxide</td><td>not permitted</td><td>only permitted for gelatine production</td></tr>
+<tr><td>Hydrogen peroxide</td><td>not permitted</td><td>only permitted for gelatine production</td></tr>
+<tr><td>Carbon dioxide</td><td>permitted</td><td>permitted</td></tr>
+<tr><td>Nitrogen</td><td>permitted</td><td>permitted</td></tr>
+<tr><td>Ethanol</td><td>only permitted as solvent</td><td>only permitted as solvent</td></tr>
+<tr><td>Tannic acid</td><td>only permitted as filtration aid</td><td>not permitted</td></tr>
 <tr><td>Egg white albumen</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>Casein</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>Gelatine</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>Isinglass</td><td>permitted</td><td>not permitted</td></tr>
-<tr><td>Vegetable oils</td><td>Greasing, releasing or anti‑foaming agent. Only when derived from organic production</td><td>Greasing, releasing or anti-foaming agent. Only when derived from organic production</td></tr>
+<tr><td>Vegetable oils</td><td>Greasing, releasing or anti‑foaming agent. only when derived from organic production</td><td>Greasing, releasing or anti-foaming agent. only when derived from organic production</td></tr>
 <tr><td>Silicon dioxide as gel or colloidal solution</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>Activated carbon</td><td>permitted</td><td>not permitted</td></tr>
-<tr><td>Talc</td><td>Only permitted in compliance with the specific purity criteria for food additive E 553b</td><td>not permitted</td></tr>
-<tr><td>Bentonite</td><td>Permitted</td><td>Only permitted as sticking agent for mead</td></tr>
-<tr><td>Cellulose</td><td>permitted</td><td>Only permitted for gelatine production</td></tr>
-<tr><td>Diatomaceous earth</td><td>permitted</td><td>Only permitted for gelatine production</td></tr>
-<tr><td>Perlite</td><td>permitted</td><td>Only permitted for gelatine production</td></tr>
+<tr><td>Talc</td><td>only permitted in compliance with the specific purity criteria for food additive E 553b</td><td>not permitted</td></tr>
+<tr><td>Bentonite</td><td>permitted</td><td>only permitted as sticking agent for mead</td></tr>
+<tr><td>Cellulose</td><td>permitted</td><td>only permitted for gelatine production</td></tr>
+<tr><td>Diatomaceous earth</td><td>permitted</td><td>only permitted for gelatine production</td></tr>
+<tr><td>Perlite</td><td>permitted</td><td>only permitted for gelatine production</td></tr>
 <tr><td>Hazel-nut shells</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>Rice flour</td><td>permitted</td><td>not permitted</td></tr>
-<tr><td>Beeswax</td><td>Only permitted as anti-caking agent</td><td>not permitted</td></tr>
-<tr><td>Carnauba wax</td><td>Releasing agent. Only when derived from organic raw material. Only permitted as anti-caking agent</td><td>not permitted</td></tr>
-<tr><td>Acetic acid/vinegar</td><td>not permitted</td><td>Only when derived from organic production. For fish processing, only from biotechnological source, except if produced by or from GMO</td></tr>
-<tr><td>Thiamin hydrochloride</td><td>Only for use in processing of fruit wines, including cider and perry</td><td>Only for use in processing of mead</td></tr>
-<tr><td>Diammonium phosphate</td><td>Only for use in processing of fruit wines, including cider and perry</td><td>Only for use in processing of mead</td></tr>
+<tr><td>Beeswax</td><td>only permitted as a releaseing agent only from organic beekeeping</td><td>not permitted</td></tr>
+<tr><td>Carnauba wax</td><td>only permitted as a releasing agent. only from organic production</td><td>not permitted</td></tr>
+<tr><td>Acetic acid/vinegar</td><td>not permitted</td><td>only when derived from organic production for fish processing, only from biotechnological source, except if produced by or from GMO</td></tr>
+<tr><td>Thiamin hydrochloride</td><td>only for use in processing of fruit wines, including cider and perry</td><td>only for use in processing of mead</td></tr>
+<tr><td>Diammonium phosphate</td><td>only for use in processing of fruit wines, including cider and perry</td><td>only for use in processing of mead</td></tr>
 <tr><td>Wood fibre</td><td>The source of timber should be restricted to certified, sustainably harvested wood. Wood used must not contain toxic components (post‑harvest treatment, naturally occurring toxins or toxins from micro-organisms)</td><td>The source of timber should be restricted to certified, sustainably harvested wood. Wood used must not contain toxic components (post-harvest treatment, naturally occurring toxins or toxins from micro-organisms)</td></tr>
 </table>
 
@@ -975,87 +992,16 @@ All additives are subject to the application restrictions laid down in the Ordin
 
 ### Section C Ingredients of agricultural origin not produced organically
 
-### 1. Unprocessed plant products and processing products made from them
-
-### 1.1. Edible fruits, nuts and seeds
-
-Acorns *(Quercus spp**.)*
-
-Cola nuts *(Cola acuminate)*
-
-Dried raspberries *(Rubus idaeus L.)*
-
-Dried red currants *(Ribes rubrum*)
-
-Gooseberries *(Ribes crispa L.)*
-
-Maracuja *(passion fruit, Passiflora edulis)*
-
-### 1.2. Edible spices and herbs
-
-Galingale *(Alpinia officinarum**)*
-
-Horseradish seeds *(Armoracia rusticana)*
-
-Red pepper (*Schinus molle L.*)
-
-Safflower flowers (*Cartamus tinctoris*)
-
-Water-cress *(Nasturtium officinale)*
-
-### 1.3. Miscellaneous
-
-Seaweeds including eel-grass, which may be used for the production of conventional foodstuffs.
-
-### 2. Plant products
-
-### 2.1. Fats and oils, refined or unrefined, but not chemically modified, obtained from plants except:
-
-Cocoa *(Theobroma cacao)*
-
-Coconut *(Cocos nucifera)*
-
-Olives *(Olea europaea)*
-
-Sunflowers *(Helianthus annuus)*
-
-Palms*(Elaeis guineensis)*
-
-Rape *(Brassica napus, rapa)*
-
-Safflower *(Cartamus tinctoris)*
-
-Sesame *(Sesamum indicum)*
-
-Soya *(Glycine max)*
-
-### 2.2. Sugar, starch, other products from cereals and bulbs
-
-Fructose
-
-Rice paper
-
-Wafers
-
-Rice starch and corn starch, not chemically modified
-
-### 2.3. Miscellaneous
-
-Pea proteins *(Pisum ssp.)*
-
-Rum: only from cone-sugar syrup
-
-Kirsch, based on fruit and flavourings under Article 3 paragraph 1 letter c
-
-### 3. Animal products
-
-Aquatic animals, not from aquaculture, which may be used for the production of conventional foodstuffs.
-
-Gelatine
-
-Whey powder
-
-Natural intestines
+<table>
+<tr><th>Ingredient</th><th>Specific conditions and limits</th></tr>
+<tr><th>Alga Arame (Eisenia bicyclis), unprocessed as well as products of first-stage processing directly related to this alga</th><th></th></tr>
+<tr><th>Alga Hijiki (Hizikia fusiforme), unprocessed as well as products of first-stage processing directly related to this alga</th><th></th></tr>
+<tr><th>Bark of the Pau d’arco tree Handroanthus impetiginosus (‘lapacho’) |</th><th>only for use in Kombucha and tea mixtures</th></tr>
+<tr><th>Casings</th><th>from natural raw materials of animal or from plant origin material</th></tr>
+<tr><th>Gelatin</th><th>from sources other than porcine</th></tr>
+<tr><th>Milk mineral powder/liquid</th><th>only when used for its sensory function to replace wholly or partly sodium chloride</th></tr>
+<tr><th>Wild fishes and wild aquatic animals, unprocessed as well as products derived therefrom by processes</th><th>only from sustainable fisheries only when not available in organic aquaculture in accordance with recognised international standards</th></tr>
+</table>
 
 Annex 3a*[^t-4]*
 
@@ -1070,19 +1016,31 @@ Annex 3a*[^t-4]*
 <tr><th></th><th>Primary yeast</th><th>Yeast preparations/formulations</th></tr>
 <tr><td>Calcium chloride</td><td>permitted</td><td>not permitted</td></tr>
 <tr><td>Carbon dioxide</td><td>permitted</td><td>permitted</td></tr>
-<tr><td>Citric acid</td><td>Only permitted for regulating the pH-value in yeast production</td><td>not permitted</td></tr>
-<tr><td>Lactic acid</td><td>Only permitted for regulating the pH-value in yeast production</td><td>not permitted</td></tr>
+<tr><td>Citric acid</td><td>only permitted for regulating the pH-value in yeast production</td><td>not permitted</td></tr>
+<tr><td>Lactic acid</td><td>only permitted for regulating the pH-value in yeast production</td><td>not permitted</td></tr>
 <tr><td>Nitrogen</td><td>permitted</td><td>permitted</td></tr>
 <tr><td>Oxygen</td><td>permitted</td><td>permitted</td></tr>
-<tr><td>Potato starch</td><td>Only permitted for filtering</td><td>Only permitted for filtering</td></tr>
-<tr><td></td><td>Only from organic production</td><td>Only from organic production</td></tr>
-<tr><td>Sodium carbonates</td><td>Only permitted for regulating the pH-value</td><td>Only permitted for regulating the pH-value</td></tr>
-<tr><td>Vegetable oils</td><td>Only permitted as lubricants, anti‑caking agents, or anti‑foaming agents</td><td>Only permitted as lubricants, anti-caking agents, or anti-foaming agents Only from organic production</td></tr>
+<tr><td>Potato starch</td><td>only permitted for filtering</td><td>only permitted for filtering</td></tr>
+<tr><td></td><td>only from organic production</td><td>only from organic production</td></tr>
+<tr><td>Sodium carbonates</td><td>only permitted for regulating the pH-value</td><td>only permitted for regulating the pH-value</td></tr>
+<tr><td>Vegetable oils</td><td>only permitted as lubricants, anti‑caking agents, or anti‑foaming agents</td><td>only permitted as lubricants, anti-caking agents, or anti-foaming agents only from organic production</td></tr>
 </table>
 
 Annex 3b*[^t-5]*
 
-[^t-5]: Inserted by No III para. 3 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Repealed by No II para. 2 of the EAER O of 11 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
+(Art. 3*c*)
+
+## European Union legislation on organic agriculture
+
+[^t-5]: Inserted by No III para. 3 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No II para. 2 of the EAER O of 3 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+
+Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007, OJ L 150 of 14.6.2018, p. 1; last amended by Regulation (EU) 2020/1693, OJ L 381 of 13.11.2020, p. 1.
+
+For Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 referred to in Regulation (EU) 2018/848, the version in the OJ L 347 of 20.12.2013, p. 671 applies; last amended by Regulation (EU) 2017/2393, OJ L 350 of 29.12.2017, p 15.
+
+Instead of Commission Regulation (EC) No 606/2009 of 10 July 2009 with implementing provisions for Council Regulation (EC) No 479/2008 as regards the categories of grapevine products, oenological practices and the applicable restrictions referred to in Regulation (EU) 2018/848, Commission Delegated Regulation (EU) 2019/934 of 12 March 2019 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files applies, OJ L 149 of 7.6.2019, p. 1; last amended by Regulation (EU) 2020/565, OJ L 129 of 24.4.2020, p 1.
+
+Instead of Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) referred to in Regulation (EU) 2018/848, Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, OJ L 347 of 20.12.2013, p. 671; last amended by Regulation (EU) 2017/2393 applies, OJ L 350 of 29.12.2017, p. 15.
 
 Annex 4*[^t-6]*
 
@@ -1166,13 +1124,13 @@ Annex 6*[^t-9]*
 
 ### 1. Outdoor runs for animals of the bovine species and water buffaloes, sheep and goats (milk and meat production)
 
-The requirements laid down in Annex 6, letter E, paragraph 3, 4 and 5 of the DZV[^annex6-lvlu1-lvl1-1] must be complied with. The requirements apply mutatis mutandis to animals of the goat and sheep species which do not fall under Article 73 letter c and d of the DZV.
+The requirements in accordance with Annex 6, letter E, paragraph 3, 4 and 5 of the DZV[^annex6-lvlu1-lvl1-1] must be complied with. The requirements apply mutatis mutandis to animals of the goat and sheep species which do not fall under Article 73 letter c and d of the DZV.
 
 [^annex6-lvlu1-lvl1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 ### 2. Total area for animals of the pig species
 
-The requirements for outdoor runs laid down in Annex 6, letter E, paragraph 6 of the DZV must be complied with.
+The requirements for outdoor runs in accordance with Annex 6, letter E, paragraph 6 of the DZV must be complied with.
 
 <table>
 <tr><td>Animals</td><td>Total area (pen and outdoor run) at least ...m<sup>2</sup>/animal</td></tr>
@@ -1185,15 +1143,15 @@ The requirements for outdoor runs laid down in Annex 6, letter E, paragraph 6 of
 
 ### 3. Outdoor climate areas for productive poultry
 
-The requirements laid down in Annex 6, letter B of the DZV must be complied with.
+The requirements in accordance with Annex 6, letter B of the DZV must be complied with.
 
 Annex 7*[^t-10]*
 
-(Art. 4*b par. 1 lett. b and c*)
+(Art. 4*b* para. 1 lett. b and c)
 
 ## Animal feed materials and animal feed additives
 
-[^t-10]: Inserted by No II of the EAER O of 23 Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Amended by No III para. 2 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Revised by No II para. 2 of the EAER O of 29 Oct. 2014 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)) and No III para. 2 of the EAER O of 1 Sept. 2016, in force since 1 Oct. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)).
+[^t-10]: Inserted by No II of the EAER O of 23 Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Amended by No III para. 2 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Revised by No II para. 2 of the EAER O of 29 Oct. 2014 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), No III para. 2 of the EAER O of 1 Sept. 2016, ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)) und No II para. 1 of the EAER O of 3 Nov. 2020, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
 ### Section A Animal feed materials
 
@@ -1261,6 +1219,7 @@ Function group: g) Binders and i) Anti-caking agents:
 
 <table>
 <tr><th>Code</th><th>Category/ function group</th><th>Substance</th><th>Description, conditions for use</th></tr>
+<tr><td>E 412</td><td>1</td><td>Guar gum</td><td></td></tr>
 <tr><td>E 535</td><td>1</td><td>Sodium ferrocyanide</td><td>Maximum content: 20 mg/kg NaCl (calculated as ferrocyanide anion)</td></tr>
 <tr><td>E 551b</td><td>1</td><td>Colloidal silicon dioxide</td><td></td></tr>
 <tr><td>E 551c</td><td>1</td><td>Kieselgur (purified diatomaceous earth)</td><td></td></tr>
@@ -1279,6 +1238,10 @@ Function group k) Silage additives:
 <table>
 <tr><th>Code</th><th>Category/ function group</th><th>Substance</th><th>Description, conditions for use</th></tr>
 <tr><td></td><td>1k</td><td>Enzymes and micro-organisms</td><td>Use restricted to production of silage when weather conditions do not allow for adequate fermentation.</td></tr>
+<tr><td>E236</td><td>1k</td><td>Formic acid</td><td></td></tr>
+<tr><td>E237</td><td>1k</td><td>Sodium formate</td><td></td></tr>
+<tr><td>E280</td><td>1k</td><td>Propionic acid</td><td></td></tr>
+<tr><td>E281</td><td>1k</td><td>Sodium propionate</td><td></td></tr>
 </table>
 
 ### Category 2Sensory additives
@@ -1288,6 +1251,7 @@ Function group: b) Flavourings
 <table>
 <tr><th>Code</th><th>Category/ function group</th><th>Substance</th><th>Description, conditions for use</th></tr>
 <tr><td></td><td>2b</td><td>Flavourings</td><td>Only extracts from agricultural products</td></tr>
+<tr><td></td><td>*2b*</td><td>*Castanea sativa Mill.: chestnut extract*</td><td></td></tr>
 </table>
 
 ### Category 3Nutritional additives
@@ -1297,6 +1261,7 @@ Function group: a) Vitamins, pro-vitamins and chemically well-defined substances
 <table>
 <tr><th>Code</th><th>Category/ function group</th><th>Substance</th><th>Description, conditions for use</th></tr>
 <tr><td></td><td>3a</td><td>Vitamins and provitamins</td><td>– obtained from agricultural products – if obtained synthetically, only those which are identical to vitamins obtained from agricultural products may be used for monogastric animals – if obtained synthetically, only vitamins A, D and E, which are identical to vitamins obtained from agricultural products may be used for ruminants</td></tr>
+<tr><td></td><td>3a</td><td>Betaine anhydrous</td><td>only for monogastric animals from organic production; if not available, from natural origin</td></tr>
 </table>
 
 Function group: b) Trace elements
@@ -1393,7 +1358,7 @@ Swiss Confederation Extract No ...... of the certificate of inspection
 <table>
 <tr><td>1. Certification body or authority having issued the underlying certificate of inspection (name, address and code number)</td><td>2. Import under: Organic Farming Ordinance, Article 23 (list of countries) □ Organic Farming Ordinance, Article 23*a* (list of recognized certification bodies and inspection authorities) □</td></tr>
 <tr><td>3. Serial number of the underlying certificate of inspection</td><td>4. Operator having split the original consignment into batches (name and address)</td></tr>
-<tr><td>56. Inspection body or authority (name, address and code number)</td><td>6. Name and address of the importer of the original consignment</td></tr>
+<tr><td>5. Inspection body or authority (name, address and code number)</td><td>6. Name and address of the importer of the original consignment</td></tr>
 <tr><td>7. U. Country of origin of the original consignment</td><td>8. Country of export</td></tr>
 <tr><td>9. Country of clearance/Point of entry</td><td>10. Country of destination</td></tr>
 <tr><td colspan="2">11. Consignee of the batch obtained from splitting (name and address)</td></tr>
