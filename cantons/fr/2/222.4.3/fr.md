@@ -4,13 +4,12 @@ number: "222.4.3"
 title: "Loi d'application de la loi fédérale sur le bail à ferme agricole"
 short: LALBFA
 language: fr
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-05-31
+version: 2022-01-01
+version_adopted: 2021-11-05
 adopted: 1987-02-24
 in_force: 1987-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/222.4.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6371/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8473/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Bail à ferme agricole – L
 
 (LALBFA)
 
-du 24.02.1987 (version entrée en vigueur le 01.01.2011)
+du 24.02.1987 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -39,17 +38,23 @@ Décrète:
 
 **Objet**
 
-<sup>1</sup> La loi fixe les dispositions d'application de la loi fédérale sur le bail à ferme agricole (ci-après, la loi fédérale).
+<sup>1</sup> La loi fixe les dispositions d'application de la loi fédérale sur le bail à ferme agricole[^1-1] (ci-après, la loi fédérale).
+
+[^1-1]: RS [221.213.2](https://db.clex.ch/link/Bund/221.213.2/fr)
 
 #### Art. 2
 
 **Champ d'application**
 
-<sup>1</sup> La loi s'applique au bail à ferme agricole selon l'article premier de la loi fédérale, quelle que soit l'affectation des biens-fonds selon les dispositions en matière d'aménagement du territoire.
+<sup>1</sup> La loi s'applique au bail à ferme agricole selon l'article premier de la loi fédérale[^2-1], quelle que soit l'affectation des biens-fonds selon les dispositions en matière d'aménagement du territoire.
 
-<sup>2</sup> L'aliénation à titre onéreux de récoltes sur pied (fleuries) est un contrat analogue à l'affermage, pour autant que l'aliénateur n'ait pas effectué d'avances de cultures (LBFA art. 1 al. 3).
+<sup>2</sup> L'aliénation à titre onéreux de récoltes sur pied (fleuries) est un contrat analogue à l'affermage, pour autant que l'aliénateur n'ait pas effectué d'avances de cultures (LBFA[^2-2] art. 1 al. 3).
 
-<sup>3</sup> L'article 2 al. 1 et 3 de la loi fédérale est en outre applicable.
+<sup>3</sup> L'article 2 al. 1 et 3 de la loi fédérale[^2-3] est en outre applicable.
+
+[^2-1]: RS [221.213.2](https://db.clex.ch/link/Bund/221.213.2/fr)
+[^2-2]: RS [221.213.2](https://db.clex.ch/link/Bund/221.213.2/fr)
+[^2-3]: RS [221.213.2](https://db.clex.ch/link/Bund/221.213.2/fr)
 
 #### Art. 3
 
@@ -192,9 +197,11 @@ Décrète:
 
 **Juridiction ordinaire**
 
-<sup>1</sup> Les litiges de nature civile relatifs au bail à ferme sont portés devant la juridiction civile compétente selon la loi sur la justice.
+<sup>1</sup> Les litiges de nature civile relatifs au bail à ferme sont portés devant la juridiction civile compétente selon la loi sur la justice[^19-1].
 
 <sup>2</sup> …
+
+[^19-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 20
 
@@ -206,7 +213,7 @@ Décrète:
 
 **Autorité compétente**
 
-<sup>1</sup> L'Autorité foncière cantonale est compétente pour statuer sur toutes les questions qui relèvent de l'autorité administrative selon la loi fédérale.
+<sup>1</sup> L'Autorité foncière cantonale est compétente pour statuer sur toutes les questions qui relèvent de l'autorité administrative selon la loi fédérale[^21-1].
 
 <sup>2</sup> Elle statue notamment sur les demandes d'approbation, d'autorisation, ainsi que sur les oppositions.
 
@@ -215,6 +222,8 @@ Décrète:
 <sup>4</sup> Lorsque l'objet soumis à l'Autorité foncière cantonale est de nature non contentieuse, le président décide.
 
 <sup>5</sup> Le Conseil d'Etat fixe les modalités de cette délégation de compétence.
+
+[^21-1]: RS [221.213.2](https://db.clex.ch/link/Bund/221.213.2/fr)
 
 #### Art. 22
 
@@ -241,9 +250,9 @@ Décrète:
 - a) l'affermage complémentaire;
 - b) le fermage d'immeubles agricoles.
 
-<sup>2</sup> Le Service de l'agriculture a qualité pour former opposition.
+<sup>2</sup> Grangeneuve a qualité pour former opposition.
 
-<sup>3</sup> Les contrats portant sur l'affermage complémentaire ainsi que le fermage d'immeubles agricoles doivent être présentés au Service de l'agriculture.
+<sup>3</sup> Les contrats portant sur l'affermage complémentaire ainsi que le fermage d'immeubles agricoles doivent être présentés à Grangeneuve.
 
 #### Art. 25
 
@@ -281,7 +290,9 @@ Décrète:
 
 <sup>1</sup> Les décisions de l'Autorité foncière cantonale sont sujettes à recours au Tribunal cantonal.
 
-<sup>2</sup> Les décisions du conseil communal quant à l'attribution des terres communales sous forme d'affermage sont sujettes à recours conformément à l'article 153 de la loi du 25 septembre 1980 sur les communes.
+<sup>2</sup> Les décisions du conseil communal quant à l'attribution des terres communales sous forme d'affermage sont sujettes à recours conformément à l'article 153 de la loi du 25 septembre 1980 sur les communes[^28-1].
+
+[^28-1]: RSF [140.1](https://bdlf.fr.ch/data/140.1/fr)
 
 ## 4 Dispositions finales
 

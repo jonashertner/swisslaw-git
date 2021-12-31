@@ -4,13 +4,12 @@ number: "222.4.3"
 title: Ausführungsgesetz zum Bundesgesetz über die landwirtschaftliche Pacht
 short: AGLPG
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-05-31
+version: 2022-01-01
+version_adopted: 2021-11-05
 adopted: 1987-02-24
 in_force: 1987-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/222.4.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/6371/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Landwirtschaftliche Pacht – G
 
 (AGLPG)
 
-vom 24.02.1987 (Fassung in Kraft getreten am 01.01.2011)
+vom 24.02.1987 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -39,17 +38,23 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt die Anwendung des Bundesgesetzes über die landwirtschaftliche Pacht (im folgenden: Bundesgesetz genannt).
+<sup>1</sup> Dieses Gesetz regelt die Anwendung des Bundesgesetzes über die landwirtschaftliche Pacht[^1-1] (im folgenden: Bundesgesetz genannt).
+
+[^1-1]: SR [221.213.2](https://db.clex.ch/link/Bund/221.213.2/de)
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz gilt für die landwirtschaftliche Pacht nach dem Artikel 1 des Bundesgesetzes, unabhängig davon, welcher Nutzungsart die Grundstücke aufgrund der Gesetzgebung über die Raumplanung zugeteilt sind.
+<sup>1</sup> Dieses Gesetz gilt für die landwirtschaftliche Pacht nach dem Artikel 1 des Bundesgesetzes[^2-1], unabhängig davon, welcher Nutzungsart die Grundstücke aufgrund der Gesetzgebung über die Raumplanung zugeteilt sind.
 
-<sup>2</sup> Die entgeltliche Veräusserung von stehenden Kulturen ist einem Pachtvertrag gleichgestellt, sofern der Veräusserer keine Vorleistungen erbracht hat (LPG Art. 1 Abs. 3).
+<sup>2</sup> Die entgeltliche Veräusserung von stehenden Kulturen ist einem Pachtvertrag gleichgestellt, sofern der Veräusserer keine Vorleistungen erbracht hat (LPG[^2-2] Art. 1 Abs. 3).
 
-<sup>3</sup> Des weitern ist Artikel 2 Abs. 1 und 3 des Bundesgesetzes anwendbar.
+<sup>3</sup> Des weitern ist Artikel 2 Abs. 1 und 3 des Bundesgesetzes[^2-3] anwendbar.
+
+[^2-1]: SR [221.213.2](https://db.clex.ch/link/Bund/221.213.2/de)
+[^2-2]: SR [221.213.2](https://db.clex.ch/link/Bund/221.213.2/de)
+[^2-3]: SR [221.213.2](https://db.clex.ch/link/Bund/221.213.2/de)
 
 #### Art. 3
 
@@ -192,9 +197,11 @@ beschliesst:
 
 **Ordentliche Gerichtsbarkeit**
 
-<sup>1</sup> Streitigkeiten zivilrechtlicher Natur betreffend Pachtverträge werden bei der gemäss dem Justizgesetz zuständigen Zivilgerichtsbehörde anhängig gemacht.
+<sup>1</sup> Streitigkeiten zivilrechtlicher Natur betreffend Pachtverträge werden bei der gemäss dem Justizgesetz[^19-1] zuständigen Zivilgerichtsbehörde anhängig gemacht.
 
 <sup>2</sup> …
+
+[^19-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 20
 
@@ -206,7 +213,7 @@ beschliesst:
 
 **Zuständige Behörde**
 
-<sup>1</sup> Die Kantonale Behörde für Grundstückverkehr entscheidet über alle Fragen, die gemäss Bundesgesetz der Verwaltungsbehörde obliegen.
+<sup>1</sup> Die Kantonale Behörde für Grundstückverkehr entscheidet über alle Fragen, die gemäss Bundesgesetz[^21-1] der Verwaltungsbehörde obliegen.
 
 <sup>2</sup> Sie entscheidet namentlich über Genehmigungs- und Bewilligungsgesuche sowie über Einsprachen.
 
@@ -215,6 +222,8 @@ beschliesst:
 <sup>4</sup> Wird der Kantonalen Behörde für Grundstückverkehr ein nicht bestrittener Gegenstand unterbreitet, so entscheidet der Präsident.
 
 <sup>5</sup> Der Staatsrat setzt die Einzelheiten dieser Kompetenzdelegation fest.
+
+[^21-1]: SR [221.213.2](https://db.clex.ch/link/Bund/221.213.2/de)
 
 #### Art. 22
 
@@ -241,9 +250,9 @@ beschliesst:
 - a) die Zupacht;
 - b) den Pachtzins für landwirtschaftliche Grundstücke.
 
-<sup>2</sup> Das Amt für Landwirtschaft kann Einsprache erheben.
+<sup>2</sup> Grangeneuve kann Einsprache erheben.
 
-<sup>3</sup> Die Verträge über eine Zupacht oder über den Pachtzins für landwirtschaftliche Grundstücke müssen dem Amt für Landwirtschaft unterbreitet werden.
+<sup>3</sup> Die Verträge über eine Zupacht oder über den Pachtzins für landwirtschaftliche Grundstücke müssen Grangeneuve unterbreitet werden.
 
 #### Art. 25
 
@@ -281,7 +290,9 @@ beschliesst:
 
 <sup>1</sup> Gegen die Entscheide der Kantonalen Behörde für Grundstückverkehr ist die Beschwerde an das Kantonsgericht zulässig.
 
-<sup>2</sup> Verfügungen des Gemeinderats über die Verpachtung von Gemeindeland können gemäss Artikel 153 des Gesetzes vom 25. September 1980 über die Gemeinden mit Beschwerde angefochten werden.
+<sup>2</sup> Verfügungen des Gemeinderats über die Verpachtung von Gemeindeland können gemäss Artikel 153 des Gesetzes vom 25. September 1980 über die Gemeinden[^28-1] mit Beschwerde angefochten werden.
+
+[^28-1]: SGF [140.1](https://bdlf.fr.ch/data/140.1/de)
 
 ## 4 Schlussbestimmungen
 
