@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Verordnung vom 30. März 2011 über Massnahmen gegenüber Libyen
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: de
-version: 2021-11-24
+version: 2022-01-01
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20211124-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20211124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Libyen
 
-vom 30. März 2011 (Stand am 24. November 2021)
+vom 30. März 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -134,13 +134,14 @@ Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen un
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 4.
 
-<sup>3</sup> ...[^7-1]
+<sup>3</sup> …[^7-1]
 
-<sup>4</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>4</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^7-2].
 
 <sup>5</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
 [^7-1]: Aufgehoben durch Ziff. I der V vom 26. Okt. 2011, mit Wirkung seit 27. Okt. 2011 ([AS 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^7-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8
 
@@ -162,7 +163,7 @@ Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen un
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 27. Okt. 2011 ([AS 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
 
-## 3. Abschnitt: Automatische Übernahme von Listen, Veröffentlichung und Schlussbestimmungen****
+## 3. Abschnitt: Automatische Übernahme von Listen, Veröffentlichung und Schlussbestimmungen
 
 [^sec3-1]
 
@@ -282,7 +283,7 @@ Anhang 1
 [^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
 [^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 2 Abs. 1 Bst. a und b sowie Art. 9*a* und 9*b*)
 
@@ -292,25 +293,25 @@ Anhang 2*[^t-1]*
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.*[^annex2-lvlu1-1]*
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen, Unternehmen und Organisationen.[^annex2-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annex2-lvlu1-2]*
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
 [^annex2-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
-Anhang 3*[^t-2]*
+Anhang 3[^t-2]
 
 (Art. 2 Abs. 1)
 
-## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
+## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex3-lvlu1-1]
 
 [^t-2]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 20. März 2013 ([AS 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 19. Febr. 2014 ([AS 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)) und vom 23. Nov. 2021, in Kraft seit 24. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)).
 [^annex3-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 4 Abs. 1 und 2 sowie Art. 9*a* und 9*b*)
 
@@ -320,18 +321,18 @@ Anhang 4*[^t-3]*
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen.*[^annex4-lvlu1-1]*
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen.[^annex4-lvlu1-1]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.*[^annex4-lvlu1-2]*
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex4-lvlu1-2]
 
 [^annex4-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
 [^annex4-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
 (Art. 4)
 
-## Natürliche Personen, gegen die sich das Ein- und Durchreiseverbot richtet****
+## Natürliche Personen, gegen die sich das Ein- und Durchreiseverbot richtet
 
 [^annex5-lvlu1-1]
 

@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: "Ordonnance du 30 mars 2011 instituant des mesures à l'encontre de la Libye"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: fr
-version: 2021-11-24
+version: 2022-01-01
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20211124/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20211124-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20211124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Libye
 
-du 30 mars 2011 (Etat le 24 novembre 2021)
+du 30 mars 2011 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -136,11 +136,12 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 <sup>3</sup> ...[^7-1]
 
-<sup>4</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>4</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^7-2].
 
 <sup>5</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
 
 [^7-1]: Abrogé par le ch. I de l’O du 26 oct. 2011, avec effet au 27 oct. 2011 ([RO 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^7-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8
 
@@ -162,7 +163,7 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 27 oct. 2011 ([RO 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
 
-## Section 3 Reprise automatique de listes, publication et dispositions finales****
+## Section 3 Reprise automatique de listes, publication et dispositions finales
 
 [^sec3-1]
 
@@ -288,7 +289,7 @@ Annexe 1
 [^annex1-lvlu1-2]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^annex1-lvlu1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site internet suivant: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 2, al. 1, let. a et b, 9*a* et 9*b*)
 
@@ -298,25 +299,25 @@ Annexe 2*[^t-1]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annex2-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex2-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annex2-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex2-lvlu1-2].
 
 [^annex2-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la Libye &gt; Matériaux relatifs à la liste de sanctions.
 [^annex2-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 2, al. 1)
 
-## Personnes physiques, entreprises et entités visées par les sanctions financières****
+## Personnes physiques, entreprises et entités visées par les sanctions financières
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 20 mars 2013 ([RO 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 19 fév. 2014 ([RO 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), du 12 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)) et du 23 nov. 2021, en vigueur depuis le 24 nov. 2021 ([RO 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)).
+[^t-2]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 20 mars 2013 ([RO 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 19 fév. 2014 ([RO 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), du 12 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)) et du 23 nov. 2021, en vigueur depuis le 24 nov. 2021 à 18 heures ([RO 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)).
 [^annex3-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 4, al. 1 et 2, 9*a* et 9*b*)
 
@@ -326,18 +327,18 @@ Annexe 4*[^t-3]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent*[^annex4-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex4-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annex4-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex4-lvlu1-2].
 
 [^annex4-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la Libye &gt; Matériaux relatifs à la liste de sanctions.
 [^annex4-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 (art. 4)
 
-## Personnes physiques visées par l’interdiction d’entrée et de transit****
+## Personnes physiques visées par l’interdiction d’entrée et de transit
 
 [^annex5-lvlu1-1]
 

@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Ordinanza del 30 marzo 2011 che istituisce provvedimenti nei confronti della Libia
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: it
-version: 2021-11-24
+version: 2022-01-01
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20211124/it/xml/fedlex-data-admin-ch-eli-cc-2011-203-20211124-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20211124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-203-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Libia
 
-del 30 marzo 2011 (Stato 24 novembre 2021) (Stato 24 novembre 2021)
+del 30 marzo 2011 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -136,11 +136,12 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 5:
 
 <sup>3</sup> …[^7-1]
 
-<sup>4</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>4</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^7-2].
 
 <sup>5</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
 [^7-1]: Abrogato dal n. I dell’O del 26 ott. 2011, con effetto dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^7-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8
 
@@ -162,7 +163,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 5:
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
 
-## Sezione 3: Recepimento automatico di liste, pubblicazione e disposizioni finali****
+## Sezione 3: Recepimento automatico di liste, pubblicazione e disposizioni finali
 
 [^sec3-1]
 
@@ -288,11 +289,11 @@ Allegato 1
 [^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352).L’all. 3 può essere consultato sul sito Internet seguente (SECO): www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 [^annex1-lvlu1-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 2 cpv. 1 lett.a e b, 9*a* e 9*b*)
 
-## Persone fisiche, imprese e organizzazioni soggette alle sanzioni finanziarie****
+## Persone fisiche, imprese e organizzazioni soggette alle sanzioni finanziarie
 
 [^annex2-lvlu1-1]
 
@@ -301,25 +302,25 @@ Allegato 2*[^t-1]*
 
 **Nota bene**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite*[^annex2-lvlu1-2]*.
+\1. Il presente allegato corrisponde alle liste delle persone fisiche, imprese e organizzazioni indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex2-lvlu1-2].
 
-\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite*[^annex2-lvlu1-3]*.
+\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex2-lvlu1-3].
 
 [^annex2-lvlu1-2]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
 [^annex2-lvlu1-3]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 2 cpv. 1)
 
-## Persone fisiche, imprese e organizzazioni interessate dalle sanzioni finanziarie****
+## Persone fisiche, imprese e organizzazioni interessate dalle sanzioni finanziarie
 
 [^annex3-lvlu1-1]
 
 [^t-2]: Aggiornato dal n. 16 dell’O del 11 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dai n. l delle O del DEFR del 20 mar. 2013 (RU **2012** 957), del 14 giu. 2013 ([RU 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), del 19 feb. 2014 ([RU 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), del 24 mar. 2015 ([RU 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), del 27 ago. 2015 ([RU 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), del 5 feb. 2016 ([RU 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), dell’8 mag. 2017 ([RU 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), del 15 ago. 2018 ([RU 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), del 21 ago. 2019 ([RU 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), del 12 ago. 2020 ([RU 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), del 5 ott. 2020 ([RU 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), del 14 ott. 2020 ([RU 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), del 27 ott. 2020 ([RU 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), del 19 apr. 2021 ([RU 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), del 5 mag. 2021 ([RU 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), del 12 ago. 2021 ([RU 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)) e del 23 nov. 2021, in vigore dal 24 nov. 2021 ([RU 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)).
 [^annex3-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 4 cpv.1 e 2, 9*a* e 9*b*)
 
@@ -329,18 +330,18 @@ Allegato 4*[^t-3]*
 
 **Nota bene**
 
-\1. Il presente allegato corrisponde alle liste delle persone fisiche indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite*[^annex4-lvlu1-1]*.
+\1. Il presente allegato corrisponde alle liste delle persone fisiche indicate dal Consiglio di sicurezza delle Nazioni Unite o dal comitato competente del Consiglio di sicurezza delle Nazioni Unite[^annex4-lvlu1-1].
 
-\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite*[^annex4-lvlu1-2]*.
+\2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex4-lvlu1-2].
 
 [^annex4-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
 [^annex4-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 4)
 
-## Persone fisiche interessante dal divieto di entrata e di transito****
+## Persone fisiche interessante dal divieto di entrata e di transito
 
 [^annex5-lvlu1-1]
 
