@@ -4,11 +4,11 @@ title: "Ordinanza del 14 febbraio 2007 sulla tessera d'assicurato per l'assicura
 short: OTeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/101"
 language: it
-version: 2009-01-01
+version: 2022-01-01
 adopted: 2007-02-14
 in_force: 2007-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20090101/it/xml/fedlex-data-admin-ch-eli-cc-2007-101-20090101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20090101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-101-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20090101/it"
 
 (OTeA)**[^t-1]**
 
-del 14 febbraio 2007 (Stato 1° gennaio 2009)
+del 14 febbraio 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2007 1069](https://fedlex.data.admin.ch/eli/oc/2007/181)
 
@@ -64,7 +64,7 @@ La tessera d’assicurato contiene un microprocessore che consenta le operazioni
 L’assicuratore indica i dati seguenti sulla tessera d’assicurato:
 
 - a. cognome e nome dell’assicurato;
-- b. numero di assicurato dell’assicurazione vecchiaia e superstiti (AVS);
+- b.[^3-1] numero AVS;
 - c. data di nascita dell’assicurato;
 - d. sesso dell’assicurato;
 - e. nome e numero d’identificazione dell’assicuratore (numero UFSP);
@@ -74,6 +74,8 @@ L’assicuratore indica i dati seguenti sulla tessera d’assicurato:
 <sup>2</sup> I dati della tessera europea d’assicurazione malattia possono parimenti figurare sul retro della tessera d’assicurato. In tal caso il numero d’identificazione della tessera d’assicurato deve essere identico al numero d’identificazione della tessera europea d’assicurazione malattia.
 
 <sup>3</sup> Il Dipartimento federale dell’interno stabilisce i requisiti in materia di veste grafica.
+
+[^3-1]: Nuovo testo giusta l’all. n. II 37 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 4
 
@@ -95,18 +97,17 @@ L’assicuratore può inoltre memorizzare sulla tessera d’assicurato, sotto fo
 
 #### Art. 5
 
-**Numero d’assicurato AVS[^5-1]**
+**Numero AVS**[^5-1]
 
-<sup>1</sup> Prima di rilasciare la tessera d’assicurato, l’assicuratore verifica il numero di assicurato AVS presso il servizio competente e, se del caso, ne dispone l’attribuzione.
+<sup>1</sup> Prima di rilasciare la tessera d’assicurato, l’assicuratore verifica il numero AVS presso il servizio competente e, se del caso, ne dispone l’attribuzione.
 
-<sup>2</sup> L’assicuratore prende le misure di garanzia di cui all’articolo 50*g* della legge federale del 20 dicembre 1946[^5-2] sull’assicurazione vecchiaia e superstiti al fine di proteggere il numero d’assicurato.
+<sup>2</sup> Adotta le misure tecniche e organizzative di cui all’articolo 153*d* della legge federale del 20 dicembre 1946[^5-2] sull’assicurazione per la vecchiaia e i superstiti al fine di proteggere il numero AVS.
 
-<sup>3</sup> I fornitori di prestazioni annunciano all’Ufficio centrale di compensazione dell’AVS l’utilizzazione sistematica del numero d’assicurato conformemente all’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^5-3] sull’assicurazione per la vecchiaia e i superstiti. Possono designare un servizio incaricato di adempiere questo compito sotto forma di annuncio collettivo.[^5-4]
+<sup>3</sup> I fornitori di prestazioni annunciano all’Ufficio centrale di compensazione dell’AVS l’utilizzazione sistematica del numero AVS conformemente all’articolo 134<sup>ter</sup> dell’ordinanza del 31 ottobre 1947[^5-3] sull’assicurazione per la vecchiaia e per i superstiti. Possono designare un servizio incaricato di procedere a un annuncio collettivo.
 
-[^5-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 7 nov. 2007, in vigore dal 1° dic. 2007 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+[^5-1]: Nuovo testo giusta l’all. n. II 37 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^5-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^5-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^5-4]: Introdotto dal n. 2 dell’all. all’O del 7 nov. 2007, in vigore dal 1° dic. 2007 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
 ## Sezione 4: Dati ai sensi dell’articolo 42*a* capoverso 4 LAMal
 

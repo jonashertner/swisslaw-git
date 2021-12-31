@@ -4,11 +4,11 @@ title: Verordnung vom 14. Februar 2007 über die Versichertenkarte für die obli
 short: VVK
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/101"
 language: de
-version: 2009-01-01
+version: 2022-01-01
 adopted: 2007-02-14
 in_force: 2007-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20090101/de/xml/fedlex-data-admin-ch-eli-cc-2007-101-20090101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20090101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-101-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20090101/de"
 
 (VVK)
 
-vom 14. Februar 2007 (Stand am 1. Januar 2009)
+vom 14. Februar 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -63,7 +63,7 @@ Die Versichertenkarte muss einen Mikroprozessor enthalten, der folgende Anwendun
 Der Versicherer muss auf der Versichertenkarte folgende Daten aufdrucken:
 
 - a. Name und Vorname der versicherten Person;
-- b. Versichertennummer der Alters- und Hinterlassenenversicherung (AHV);
+- b.[^3-1] AHV-Nummer;
 - c. Geburtsdatum der versicherten Person;
 - d. Geschlecht der versicherten Person;
 - e. Name und Kennnummer des Versicherers (BAG-Nummer);
@@ -73,6 +73,8 @@ Der Versicherer muss auf der Versichertenkarte folgende Daten aufdrucken:
 <sup>2</sup> Auf der Rückseite der Versichertenkarte können zusätzlich die Daten der Europäischen Krankenversicherungskarte aufgedruckt sein. In diesem Fall muss die Kennnummer der Versichertenkarte mit der Kennnummer der Europäischen Krankenversicherungskarte identisch sein.
 
 <sup>3</sup> Das Eidgenössische Departement des Inneren legt die Anforderungen an die grafische Gestaltung fest.
+
+[^3-1]: Fassung gemäss Anhang Ziff. II 37 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 4
 
@@ -95,18 +97,17 @@ Er kann zusätzlich folgende Angaben elektronisch auf der Versichertenkarte absp
 
 #### Art. 5
 
-**Versichertennummer der AHV[^5-1]**
+**AHV-Nummer**[^5-1]
 
-<sup>1</sup> Vor der Ausstellung der Versichertenkarte muss der Versicherer die Versichertennummer der AHV bei der zuständigen Stelle verifizieren und nötigenfalls deren Zuweisung veranlassen.
+<sup>1</sup> Vor der Ausstellung der Versichertenkarte muss der Versicherer die AHV-Nummer bei der zuständigen Stelle verifizieren und nötigenfalls deren Zuweisung veranlassen.
 
-<sup>2</sup> Er muss zum Schutz der Versichertennummer die sichernden Massnahmen nach Artikel 50*g* des Bundesgesetzes vom 20. Dezember 1946[^5-2] über die Alters- und Hinterlassenenversicherung treffen.
+<sup>2</sup> Er muss zum Schutz der AHV-Nummer die technischen und organisatorischen Massnahmen nach Artikel 153*d* des Bundesgesetzes vom 20. Dezember 1946[^5-2] über die Alters- und Hinterlassenenversicherung treffen.
 
-<sup>3</sup> Die Leistungserbringer melden der Zentralen Ausgleichsstelle der AHV die systematische Verwendung der Versichertennummer gemäss Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^5-3] über die Alters- und Hinterlassenenversicherung. Sie können eine Stelle bezeichnen, welche diese Aufgabe als Sammelmeldung ausführt.[^5-4]
+<sup>3</sup> Die Leistungserbringer melden der Zentralen Ausgleichsstelle der AHV die systematische Verwendung der AHV-Nummer gemäss Artikel 134<sup>ter</sup> der Verordnung vom 31. Oktober 1947[^5-3] über die Alters- und Hinterlassenenversicherung. Sie können eine Stelle bezeichnen, welche eine Sammelmeldung macht.
 
-[^5-1]: Fassung gemäss Anhang Ziff. 2 der V vom 7. Nov. 2007 ([AS 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+[^5-1]: Fassung gemäss Anhang Ziff. II 37 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^5-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^5-3]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^5-4]: Eingefügt durch Anhang Ziff. 2 der V vom 7. Nov. 2007 ([AS 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
 ## 4. Abschnitt: Daten nach Artikel 42*a* Absatz 4 KVG
 
@@ -267,13 +268,9 @@ Das Eidgenössische Departement des Inneren legt unter Einbezug der interessiert
 
 **Änderung bisherigen Rechts**
 
-Die Verordnung vom 27. Juni 1995[^18-subdivu1-1] über die Krankenversicherung wird wie folgt geändert:
+…[^18-1]
 
-[^18-subdivu1-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867). Die hiernach aufgeführte Änd. ist eingefügt in der genannten V.
-
-### Art. 59 Abs. 1 Bst. d und e
-
-...
+[^18-1]: Die Änderung kann unter [AS 2007 497](https://fedlex.data.admin.ch/eli/oc/2007/101)konsultiert werden.
 
 #### Art. 19
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 14 février 2007 sur la carte d'assuré pour l'assurance o
 short: OCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/101"
 language: fr
-version: 2009-01-01
+version: 2022-01-01
 adopted: 2007-02-14
 in_force: 2007-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-101-20090101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20090101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/101/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-101-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/101/20090101/fr"
 
 (OCA)
 
-du 14 février 2007 (Etat le 1<sup>er</sup> janvier 2009)
+du 14 février 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -62,7 +62,7 @@ La carte d’assuré doit contenir un microprocesseur autorisant les application
 L’assureur doit imprimer les données suivantes sur la carte d’assuré:
 
 - a. nom et prénom de la personne assurée;
-- b. numéro d’assuré de l’assurance-vieillesse et survivants (AVS);
+- b.[^3-1] numéro AVS;
 - c. date de naissance de la personne assurée;
 - d. sexe de la personne assurée;
 - e. nom et numéro d’identification de l’assureur (numéro OFSP);
@@ -72,6 +72,8 @@ L’assureur doit imprimer les données suivantes sur la carte d’assuré:
 <sup>2</sup> Les données de la carte européenne d’assurance-maladie peuvent également être imprimées au dos de la carte d’assuré. Dans ce cas, le numéro d’identification de la carte d’assuré doit être identique au numéro d’identification de la carte européenne d’assurance-maladie.
 
 <sup>3</sup> Le Département fédéral de l’intérieur règle les exigences concernant la présentation graphique.
+
+[^3-1]: Nouvelle teneur selon l’annexe ch. II 37 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 4
 
@@ -93,18 +95,17 @@ Il peut également enregistrer électroniquement sur la carte d’assuré les in
 
 #### Art. 5
 
-**Numéro d’assuré AVS[^5-1]**
+**Numéro AVS**[^5-1]
 
-<sup>1</sup> Avant de délivrer la carte d’assuré, l’assureur est tenu de vérifier le numéro d’assuré AVS auprès du service compétent et, le cas échéant, d’en demander l’attribution.
+<sup>1</sup> Avant de délivrer la carte d’assuré, l’assureur est tenu de vérifier le numéro AVS auprès du service compétent et, le cas échéant, d’en demander l’attribution.
 
-<sup>2</sup> L’assureur doit prendre les mesures de précaution définies à l’art. 50*g* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^5-2] afin de protéger le numéro d’assuré.
+<sup>2</sup> Il doit prendre les mesures techniques et organisationnelles définies à l’art. 153*d* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^5-2] afin de protéger le numéro AVS.
 
-<sup>3</sup> Les fournisseurs de prestations annoncent à la Centrale de compensation de l’assurance-vieillesse, survivants et invalidité (CdC) l’utilisation systématique du numéro d’assuré au sens de l’art. 134<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^5-3]. Ils peuvent désigner un service chargé de remplir cette tâche sous forme d’annonce collective.[^5-4]
+<sup>3</sup> Les fournisseurs de prestations annoncent à la Centrale de compensation de l’assurance-vieillesse, survivants et invalidité l’utilisation systématique du numéro AVS au sens de l’art. 134<sup>ter</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^5-3]. Ils peuvent désigner un service chargé de procéder à une annonce collective.
 
-[^5-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. II 37 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^5-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^5-3]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^5-4]: Introduit par le ch. 2 de l’annexe à l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
 ## Section 4 Données au sens de l’art. 42*a*, al. 4, LAMal
 
