@@ -4,13 +4,12 @@ number: "331.16"
 title: Hausordnung für die Justizvollzugsanstalt des Kantons Solothurn
 short: HO JVA
 language: de
-version: 2014-07-01
-valid_until: 2021-12-31
-version_adopted: 2014-03-24
+version: 2022-01-01
+version_adopted: 2021-10-25
 adopted: 2014-03-24
 in_force: 2014-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/331.16"
-pdf: "https://bgs.so.ch/api/de/versions/4307/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5156/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,15 @@ pdf: "https://bgs.so.ch/api/de/versions/4307/pdf_file"
 
 (HO JVA)
 
-Vom 24.03.2014 (Stand 01.07.2014)
+Vom 24.03.2014 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
-gestützt auf Artikel 75 Absatz 3 und 91 Absatz 3 des Schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937[^ingress-1] und § 38 des Gesetzes über den Justizvollzug (JUVG) vom 13. November 2013[^ingress-2]
+gestützt auf § 38 des Gesetzes über den Justizvollzug (JUVG) vom 13. November 2013[^ingress-1]
 
 beschliesst:
 
-[^ingress-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
-[^ingress-2]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+[^ingress-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 ## 1. Allgemeines
 
@@ -36,7 +34,7 @@ beschliesst:
 
 **Gegenstand und Zweck**
 
-<sup>1</sup> Die Hausordnung bezweckt, die Eingliederung in die Gemeinschaft, die gegenseitige Rücksichtnahme und die Disziplin während des Aufenthalts in der Justizvollzugsanstalt Solothurn (JVA) zu fördern. Die Hausordnung setzt dazu Leitlinien.
+<sup>1</sup> Die Hausordnung bezweckt, die Eingliederung in die Gemeinschaft, den Schutz der Integrität der Gefangenen, des Personals der Vollzugseinrichtung und von Dritten, die gegenseitige Rücksichtnahme und die Disziplin während des Aufenthalts in der Justizvollzugsanstalt Solothurn (JVA) zu fördern. Die Hausordnung setzt dazu Leitlinien.
 
 <sup>2</sup> Die Hausordnung wird durch Merkblätter ergänzt und präzisiert.
 
@@ -46,12 +44,12 @@ beschliesst:
 
 **Konkordatsanstalt**
 
-<sup>1</sup> Die JVA ist eine Anstalt des Konkordats der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen (Konkordat) vom 5. Mai 2006[^2-1] (Konkordatsanstalt).
+<sup>1</sup> Die JVA ist eine Anstalt des Konkordats der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen (Konkordat) vom 5. Mai 2006[^2-1] (Konkordatsanstalt) und untersteht der Aufsicht des Amts.
 
-<sup>2</sup> Sie wird als geschlossene Einrichtung für Männer geführt und betreibt eigene Abteilungen für
+<sup>2</sup> Sie wird als geschlossene Einrichtung für Männer geführt und betreibt eigene Abteilungen für:
 
-- a) den geschlossenen Strafvollzug;
-- b) den geschlossenen Massnahmenvollzug.
+- a) den geschlossenen Massnahmenvollzug;
+- b) den geschlossenen Strafvollzug.
 
 [^2-1]: BGS [333.111](https://bgs.so.ch/data/333.111/de).
 
@@ -61,21 +59,16 @@ beschliesst:
 
 <sup>1</sup> Die JVA untersteht dem Direktor oder der Direktorin.
 
-<sup>2</sup> Der Direktor oder die Direktorin
+<sup>2</sup> Der Direktor oder die Direktorin:
 
 - a) leitet die JVA und vertritt sie nach aussen;
 - b) ist für einen grundrechtskonformen, sicheren und effizienten Betrieb verantwortlich und trifft die dazu erforderlichen Anordnungen;
-- c) ergänzt und präzisiert die Hausordnung in Merkblättern, insbesondere bezüglich Verwendung der Geldmittel der Gefangenen, Kleider- und Wäscheordnung, Arbeits-, Verpflegungs- und Freizeit, Zellenordnung, Umgang mit elektrischen und elektronischen Geräten, Freizeitaktivitäten und Beziehungen zur Aussenwelt.
+- c) ergänzt und präzisiert die Hausordnung in Merkblättern, insbesondere bezüglich Verwendung der Geldmittel der Gefangenen, Kleider- und Wäscheordnung, Arbeits-, Verpflegungs- und Freizeit, Zellenordnung, Umgang mit elektrischen und elektronischen Geräten, Freizeitaktivitäten und Beziehungen zur Aussenwelt;
+- d) kann vorläufig die Beziehungen der Gefangenen zur Aussenwelt einschränken und diese abweichend von der Hausordnung regeln, sofern dies zur Gewährleistung der Sicherheit und Ordnung der Vollzugseinrichtung dringend erforderlich ist.
 
 #### § 4
 
-**Führungsberichte**
-
-<sup>1</sup> Bei Gesuchen um wesentliche Vollzugsöffnungen, insbesondere Ausgang, Urlaub und bedingte Entlassung, sowie bei besonderen Vorkommnissen und Verlegungen in eine andere Vollzugseinrichtung wird für die einweisenden Behörden und Gerichte durch die Leitung der Vollzugseinrichtung ein Führungsbericht über den Gefangenen verfasst.
-
-<sup>2</sup> Der Führungsbericht gibt Auskunft über das Verhalten während des Vollzugs, das Einhalten von Abmachungen und das Erlangen von Erkenntnissen über soziale Strukturen, soweit sie für die Wiedereingliederung von Bedeutung sind. Er nimmt Bezug auf die im Vollzugsplan definierten Themen, Ziele und Vereinbarungen und beschreibt die Entwicklung des Gefangenen, insbesondere hinsichtlich Veränderungen im deliktsrelevanten Verhalten.
-
-<sup>3</sup> Bei aussergewöhnlichen Vorkommnissen wird die einweisende Behörde unverzüglich informiert.
+**…**
 
 ## 3. Eintritt
 
@@ -89,31 +82,43 @@ beschliesst:
 
 **Datenerfassung und Kontrolle der persönlichen Effekten**
 
-<sup>1</sup> Beim Eintritt werden die Identität der Gefangenen geprüft, die Personendaten erfasst und die Gefangenen fotografiert. Sämtliche Effekten der Gefangenen werden kontrolliert. Die Gefangenen werden einer Leibesvisitation unterzogen.
+<sup>1</sup> Beim Eintritt werden die Identität der Gefangenen geprüft sowie die Personendaten und die Gefangenen weisungsgemäss erkennungsdienstlich erfasst. Sämtliche Effekten der Gefangenen werden kontrolliert. Die Gefangenen werden gemäss den Grundsätzen von § 24 JUVG[^6-1] einer Leibesvisitation unterzogen.
 
-<sup>2</sup> Sämtliche Effekten, Barschaften und Ausweispapiere - namentlich Reisepässe, Identitätsbescheinigungen, Ausländerausweise und Führerausweise - sind abzugeben. Gegenstände, welche für die Gefangenen einen hohen Affektionswert haben oder Freizeit- oder Bildungszwecken dienen, sind den Gefangenen zu belassen, sofern dies mit den Erfordernissen der Sicherheit und Ordnung der Vollzugseinrichtung vereinbar ist und dem Vollzugsziel nicht widerspricht.
+<sup>2</sup> Sämtliche Effekten, Barschaften und Ausweispapiere, namentlich Reisepässe, Identitätsbescheinigungen, Ausländerausweise, Versicherungsausweise und Führerausweise, sind abzugeben. Gegenstände, welche für die Gefangenen einen hohen Affektionswert haben oder Freizeit- oder Bildungszwecken dienen, sind den Gefangenen zu belassen, sofern dies mit den Erfordernissen der Sicherheit und Ordnung der Vollzugseinrichtung vereinbar ist und dem Vollzugsziel nicht widerspricht. Kopien der Ausweispapiere können zu den Akten genommen werden.
 
-<sup>3</sup> Über die abgegebenen Effekten wird ein Verzeichnis erstellt. Das Verzeichnis wird zur Bestätigung der Vollständigkeit und Richtigkeit vom Gefangenen und einem oder einer Mitarbeitenden der Vollzugseinrichtung unterzeichnet. Im Weigerungsfall hat anstelle des Gefangenen ein zweiter Mitarbeiter oder eine zweite Mitarbeiterin der Vollzugseinrichtung zu unterzeichnen.
+<sup>3</sup> Über die abgegebenen Effekten und Gegenstände wird ein Verzeichnis erstellt. Das Verzeichnis wird zur Bestätigung der Vollständigkeit und Richtigkeit vom Gefangenen und einem oder einer Mitarbeitenden der Vollzugseinrichtung unterzeichnet. Im Weigerungsfall hat anstelle des Gefangenen ein zweiter Mitarbeiter oder eine zweite Mitarbeiterin der Vollzugseinrichtung zu unterzeichnen.
 
 <sup>4</sup> Für Gegenstände, die den Gefangenen belassen werden, übernimmt die Vollzugseinrichtung keine Haftung.
 
+[^6-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+
+#### § 6bis
+
+**Orientierung von Angehörigen und der gesetzlichen Vertretung**
+
+<sup>1</sup> Die Gefangenen haben das Recht, Angehörige, nahestehende Bekannte und gegebenenfalls ihre gesetzliche Vertretung über die Einweisung in die JVA zu orientieren. Bei ausländischen Gefangenen erfolgt die Benachrichtigung des Konsulats nur auf deren ausdrückliches Begehren hin.
+
+<sup>2</sup> Bei Verlegung in eine andere Vollzugseinrichtung stellt die JVA subsidiär sicher, dass die bisher involvierten Angehörigen und nahestehenden Bekannten sowie die gesetzliche Vertretung angemessen informiert werden.
+
 #### § 7
 
-**Meldungen der Polizei an die Vollzugseinrichtung**
+**Meldungen der einweisenden Behörde an die Vollzugseinrichtung**
 
-<sup>1</sup> Bei der Einlieferung in die Vollzugseinrichtung hat die Polizei dem Personal der Vollzugseinrichtung anzugeben:
+<sup>1</sup> Bei der Einweisung in die Vollzugseinrichtung hat die einweisende Behörde dem Personal der Vollzugseinrichtung anzugeben:
 
-- a) den Vollzugsgrund;
+- a) den Vollzugsgrund zusammen mit den erforderlichen Akten;
 - b) Hinweise über Flucht- und Gemeingefährlichkeit;
 - c) Hinweise über Krankheiten und Medikamentenabgabe.
 
+<sup>2</sup> Die JVA kann bei anderen Vollzugseinrichtungen und Kliniken zusätzliche Auskünfte einholen und weitere Unterlagen anfordern.
+
 #### § 8
 
-**Frei- und Sperrkonto**
+**Freikonto und Sperrkonti**
 
 <sup>1</sup> Die Leitung der Vollzugseinrichtung verwaltet die während des Aufenthalts in der Vollzugseinrichtung eingehenden Geldmittel der Gefangenen.
 
-<sup>2</sup> Beim Eintritt werden für jeden Gefangenen Frei- und Sperrkonti eröffnet.
+<sup>2</sup> Beim Eintritt werden für jeden Gefangenen Frei- und Sperrkonti eröffnet. Die Kontoführung richtet sich nach den Richtlinien des Konkordats betreffend das Arbeitsentgelt sowie betreffend die Kostenträger für Vollzugskosten und persönliche Auslagen.
 
 <sup>3</sup> Die Gefangenen erhalten periodisch eine Abrechnung.
 
@@ -121,7 +126,9 @@ beschliesst:
 
 **Besitz von Geld**
 
-<sup>1</sup> Der Bargeldbesitz ist nicht erlaubt. Das vorhandene Bargeld wird den Frei- oder Sperrkonti der Gefangenen gutgeschrieben.
+<sup>1</sup> Der Bargeldbesitz ist nicht erlaubt. Das mitgebrachte Bargeld wird zu einem von der Leitung der Vollzugseinrichtung festgelegten Betrag den Frei- oder Sperrkonti der Gefangenen gutgeschrieben.
+
+<sup>2</sup> Bei Übertritt aus einer anderen Vollzugseinrichtung erfolgt die Aufteilung auf die Frei- und Sperrkonti entsprechend der Abrechnung der betreffenden Vollzugseinrichtung oder gemäss Entscheid der Leitung der Vollzugseinrichtung.
 
 #### § 10
 
@@ -137,6 +144,8 @@ beschliesst:
 
 <sup>1</sup> Die Gefangenen haben bei der Arbeit Anstaltskleider zu tragen.
 
+<sup>1<sup>bis</sup></sup> Die Leitung der Vollzugseinrichtung kann auch ausserhalb der Arbeit Vorschriften zur Kleiderordnung erlassen.
+
 <sup>2</sup> Für die Reinigung und Pflege der privaten Kleider sind die Gefangenen verantwortlich. Die Vollzugseinrichtung übernimmt keine Haftung.
 
 #### § 12
@@ -151,37 +160,52 @@ beschliesst:
 
 #### § 13
 
-**Unterbringung / Zelle**
+**Unterkunft**
 
-<sup>1</sup> Den Gefangenen wird für die ganze Dauer des Aufenthalts in der Vollzugseinrichtung eine Zelle zugewiesen.
+<sup>1</sup> Den Gefangenen wird in der Regel eine Einzelzelle zugewiesen. Die Zuweisung erfolgt durch die Leitung der Vollzugseinrichtung.
 
-<sup>2</sup> In der Vollzugseinrichtung besteht ein Freizeitangebot. Die Gefangenen leben in einer Gemeinschaft.
+<sup>2</sup> Wenn der geordnete Betrieb sowie die Sicherheit und Ordnung der Vollzugseinrichtung es erlauben, leben die Gefangenen in einer Gemeinschaft.
 
 #### § 14
 
 **Vollzugsplan**
 
-<sup>1</sup> Gemäss Artikel 75 Absatz 3 StGB[^14-1] und im Rahmen der Vorgaben der einweisenden Behörde wird ein Vollzugsplan erarbeitet. Dieser wird nach Bedarf, mindestens aber jährlich, überprüft und angepasst.
+<sup>1</sup> Die Erarbeitung des Vollzugsplans richtet sich nach Artikel 75 Absatz 3 des Schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937[^14-1], § 11<sup>sexies</sup> JUVG[^14-2] sowie den Richtlinien des Konkordats betreffend Vollzugsplanung und Vollzugsplan. Dieser wird nach Bedarf, mindestens aber jährlich, überprüft und angepasst.
 
 <sup>2</sup> Die einweisende Behörde wird über den Vollzugsplan orientiert.
 
 [^14-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+[^14-2]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+
+#### § 14bis
+
+**Vollzugsbericht**
+
+<sup>1</sup> Bei Gesuchen um wesentliche Vollzugsöffnungen, wie insbesondere Ausgang, Urlaub und bedingte Entlassung, sowie bei besonderen Vorkommnissen und dauerhaften Verlegungen in eine andere Vollzugseinrichtung verfasst die Leitung der Vollzugseinrichtung für die einweisenden Behörden und gegebenenfalls die involvierten Gerichtsbehörden einen Bericht über den Vollzugsverlauf.
+
+<sup>2</sup> Der Bericht äussert sich zu den Entwicklungen gemäss Vollzugsplanung und Vollzugsplan.
+
+<sup>3</sup> Bei aussergewöhnlichen Vorkommnissen wird die einweisende Behörde unverzüglich informiert.
 
 ## 4. Rechte und Pflichten
 
 #### § 15
 
-**Pflichten der Gefangenen**
+**Pflichten Gefangener**
 
-<sup>1</sup> Die Gefangenen haben die Vollzugsvorschriften einzuhalten und den Anordnungen des Personals der Vollzugseinrichtung Folge zu leisten. Sie haben alles zu unterlassen, was die geordnete Durchführung des Vollzugs sowie die Aufrechterhaltung von Sicherheit und Ordnung in der Vollzugseinrichtung stört.
+<sup>1</sup> Die Gefangenen haben den Anordnungen des Personals der Vollzugseinrichtung Folge zu leisten und alles zu unterlassen, was die geordnete Durchführung des Vollzugs, die Erreichung der individuellen Vollzugsziele und die Aufrechterhaltung von Ordnung und Sicherheit der Vollzugseinrichtung stört. Im Übrigen richten sich die Pflichten der Gefangenen nach § 13 JUVG[^15-1].
 
 <sup>2</sup> Die Gefangenen haben an der Verwirklichung der Vollzugsziele aktiv mitzuwirken. Ein zugewiesener Bereich darf nicht ohne Erlaubnis verlassen werden.
 
+[^15-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+
 #### § 16
 
-**Persönliche Besprechung**
+**Interne Anlaufstellen**
 
-<sup>1</sup> Die Gefangenen können sich unter Angabe des Grundes schriftlich zu einer persönlichen Besprechung beim Direktor oder bei der Direktorin anmelden.
+<sup>1</sup> Die Bezugspersonen sind für die Gefangenen die erste Anlaufstelle für sämtliche Auskünfte, Anliegen und Hilfeleistungen.
+
+<sup>2</sup> Gefangene können sich schriftlich bei der Gruppenleitung zu einer persönlichen Besprechung beim Direktor oder bei der Direktorin anmelden. Das Anliegen ist zu begründen.
 
 #### § 17
 
@@ -195,7 +219,9 @@ beschliesst:
 
 **Versicherungsschutz**
 
-<sup>1</sup> Die Vollzugseinrichtung sorgt für die Aufrechterhaltung des Versicherungsschutzes in den Bereichen Krankheit, Unfall, Invalidität und Altersvorsorge.
+<sup>1</sup> Die Vollzugseinrichtung sorgt im Rahmen der gesetzlichen und konkordatlichen Vorgaben für die Aufrechterhaltung des Versicherungsschutzes in den Bereichen Krankheit, Unfall, Invalidität und Altersvorsorge.
+
+<sup>2</sup> Die Vollzugseinrichtung achtet auf eine angemessene Kostenbeteiligung der Gefangenen.
 
 ## 5. Alltag in der Vollzugseinrichtung
 
@@ -203,21 +229,23 @@ beschliesst:
 
 **Tagesordnung**
 
-<sup>1</sup> Weckzeit, Einschliesszeit und Arbeitszeit werden in der Tagesordnung festgelegt.
+<sup>1</sup> Die Tagesordnung regelt insbesondere die Aufschluss-, Einschliess- und Arbeitszeiten. Sie wird den Gefangenen in angemessener Weise zugänglich gemacht.
 
-<sup>2</sup> Bis zum Arbeitsbeginn sind die Zellen in Ordnung zu bringen.
+<sup>2</sup> …
 
-<sup>3</sup> Die Gefangenen haben täglich Anrecht auf einen Hoffreigang von mindestens einer Stunde.
+<sup>3</sup> Die Gefangenen haben in der Regel täglich Anrecht auf einen Hoffreigang von mindestens einer Stunde.
 
 #### § 20
 
 **Mahlzeiten**
 
-<sup>1</sup> An Arbeitstagen werden täglich 3 Mahlzeiten abgegeben.
+<sup>1</sup> An Arbeitstagen werden täglich 3 Mahlzeiten abgegeben. Im Rahmen des Gruppenvollzugs kann eine abweichende Regelung getroffen werden.
 
 <sup>2</sup> An Wochenenden und Feiertagen werden mindestens 2 Mahlzeiten abgegeben.
 
-<sup>3</sup> Diät- und Sonderkost werden auf ärztliche Verschreibung oder aufgrund der Religionszugehörigkeit abgegeben, soweit es die Verhältnisse der Vollzugseinrichtung zulassen.
+<sup>3</sup> Diät- und Sonderkost werden auf Veranlassung des Gesundheitsdiensts oder aufgrund der Religionszugehörigkeit abgegeben, soweit es die Verhältnisse der Vollzugseinrichtung zulassen.
+
+<sup>4</sup> Die Nutzung der Kochmöglichkeiten erfolgt gemäss den Vorgaben der Leitung der Vollzugseinrichtung.
 
 #### § 21
 
@@ -225,13 +253,15 @@ beschliesst:
 
 <sup>1</sup> Das Zelleninventar ist standardisiert. Beim Bezug der Zelle wird ein Abnahmeprotokoll erstellt.
 
-<sup>2</sup> Die Gefangenen dürfen ihre Zellen in angemessener Weise mit eigenen Gegenständen ausstatten. Die Zelle muss übersichtlich und geordnet eingerichtet sein und ist sauber zu halten. Darstellungen oder Gegenstände, die Sitte und Anstand verletzen, werden entfernt.
+<sup>2</sup> Die Gefangenen dürfen ihre Zellen im Rahmen der Zellenordnung individuell gestalten. Die Zelle muss jederzeit übersichtlich und geordnet eingerichtet sein und ist sauber zu halten. Die Zellen sind jeweils bis zum Arbeitsbeginn in Ordnung zu bringen. Darstellungen oder Gegenstände, die Sitte und Anstand verletzen oder geeignet sind, die Ordnung der Vollzugseinrichtung zu stören, werden entfernt. Die Kontrolle der Zellen erfolgt gemäss den Vorgaben der Leitung der Vollzugseinrichtung.
+
+<sup>3</sup> Die Nachtruhe ist einzuhalten. Die Einzelheiten richten sich nach der Tagesordnung.
 
 #### § 22
 
 **Elektrische und elektronische Geräte**
 
-<sup>1</sup> Die Vollzugseinrichtung kann in den Zellen Fernsehgeräte gegen Entgelt zur Verfügung stellen. Der Besitz von privaten Bildwiedergabegeräten, privaten Computern und privaten Kommunikationsgeräten sowie der entsprechenden Datenträger ist verboten.
+<sup>1</sup> Die Vollzugseinrichtung kann in den Zellen Fernsehgeräte gegen Entgelt zur Verfügung stellen. Der Besitz von privaten Bildwiedergabegeräten, privaten Computern und privaten Kommunikationsgeräten sowie der entsprechenden Datenträger ist grundsätzlich verboten. Über Ausnahmen entscheidet die Leitung der Vollzugseinrichtung.
 
 <sup>2</sup> Alle Geräte sind auf Zimmerlautstärke einzustellen.
 
@@ -244,13 +274,13 @@ beschliesst:
   - 4\. welche Bild- und Tonaufnahmen ermöglichen.
 - b) Abänderung anstaltseigener Geräte und Anlagen.
 
-<sup>4</sup> Bei Zuwiderhandlung können die elektrischen und elektronischen Geräte eingezogen werden.
+<sup>4</sup> Bei Zuwiderhandlung können die elektrischen und elektronischen Geräte entzogen werden.
+
+<sup>5</sup> Die Leitung der Vollzugseinrichtung kann zugunsten der Gefangenen abweichende Regelungen treffen.
 
 #### § 23
 
-**Medikamente und Nahrungsergänzungsmittel**
-
-<sup>1</sup> Der Gesundheitsdienst gibt die von Ärzten und Ärztinnen verschriebenen Medikamente ab und entscheidet, welche Nahrungsergänzungsmittel von den Gefangenen konsumiert werden dürfen.
+**…**
 
 ## 6. Arbeit
 
@@ -260,11 +290,11 @@ beschliesst:
 
 <sup>1</sup> Die Gefangenen sind verpflichtet, die ihnen zugewiesene Arbeit zu verrichten.
 
-<sup>2</sup> Bei der Arbeitszuteilung wird auf die Fähigkeiten, die Ausbildung und die Neigungen der Gefangenen sowie auf die Bedürfnisse und Möglichkeiten der Vollzugseinrichtung Rücksicht genommen.
+<sup>2</sup> Bei der Arbeitszuteilung wird auf die Fähigkeiten, die Ausbildung, die Neigungen, das Alter und den Gesundheitszustand der Gefangenen sowie auf die betrieblichen Bedürfnisse und Möglichkeiten der Vollzugseinrichtung angemessen Rücksicht genommen.
 
-<sup>3</sup> Die Gefangenen dürfen den Arbeitsplatz ohne Erlaubnis der Vorgesetzten nicht verlassen. Gesuche um Dispensation von der Arbeit sind dem oder der Vorgesetzten einzureichen.
+<sup>3</sup> Die Gefangenen dürfen den Arbeitsplatz ohne Erlaubnis der zuständigen Mitarbeitenden der Vollzugseinrichtung nicht verlassen. Gesuche um Dispensation von der Arbeit sind Letzteren einzureichen.
 
-<sup>4</sup> Gesuche um Arbeitsplatzwechsel sind zuerst mit dem zuständigen Leiter oder der zuständigen Leiterin der Betriebe und darauf mit dem zuständigen Bereichsleiter oder der zuständigen Bereichsleiterin zu besprechen.
+<sup>4</sup> Gesuche um Arbeitsplatzwechsel sind zuerst mit dem zuständigen Leiter oder der zuständigen Leiterin der Betriebe und im Anschluss mit dem zuständigen Bereichsleiter oder der zuständigen Bereichsleiterin zu besprechen.
 
 <sup>5</sup> Kurzfristige Arbeitsunfähigkeit ist durch den Gesundheitsdienst festzustellen. Bei länger dauernder Arbeitsunfähigkeit stellt ein Arzt oder eine Ärztin ein Arbeitsunfähigkeitszeugnis aus.
 
@@ -273,6 +303,8 @@ beschliesst:
 **Sorgfaltspflicht**
 
 <sup>1</sup> Die Gefangenen sind verpflichtet, die ihnen anvertrauten Maschinen, Geräte, Materialien und Einrichtungen mit Sorgfalt zu behandeln und zur persönlichen Ausrüstung Sorge zu tragen.
+
+<sup>1<sup>bis</sup></sup> Es ist verboten, Gegenstände, Werkzeuge und Materialien für den persönlichen Gebrauch vom Arbeitsplatz mitzunehmen oder am Arbeitsplatz für persönliche Zwecke zu benutzen. Über Ausnahmen entscheidet die Leitung der Vollzugseinrichtung.
 
 <sup>2</sup> Die Gefangenen haften für schuldhafte Beschädigungen.
 
@@ -284,31 +316,35 @@ beschliesst:
 
 <sup>1</sup> Berufs- und Attestlehren werden nach Möglichkeit angeboten.
 
+#### § 26bis
+
+**Beurteilung der Arbeitsleistung**
+
+<sup>1</sup> Die zuständigen Mitarbeitenden der Vollzugseinrichtung führen mit den Gefangenen in der Regel monatlich ein Einzelgespräch, in dessen Rahmen die Arbeitsleistungen besprochen und beurteilt werden.
+
 #### § 27
 
 **Arbeitsentgelt**
 
-<sup>1</sup> Den Gefangenen wird ein Arbeitsentgelt nach den Richtlinien des Konkordats[^27-1] ausgerichtet.
+<sup>1</sup> Den Gefangenen wird ein Arbeitsentgelt nach den Richtlinien des Konkordats betreffend das Arbeitsentgelt ausgerichtet.
 
 <sup>2</sup> Das Arbeitsentgelt ist abhängig von den Anforderungen am Arbeitsplatz sowie dem Verhalten, dem Arbeitseinsatz, der Arbeitsdisziplin und der Arbeitsleistung der Gefangenen.
 
-<sup>3</sup> Während Ausgängen und Urlauben, bei Arbeitsverweigerung, während des Arrestvollzugs, bei absichtlich herbeigeführter Arbeitsunfähigkeit und bei Belassen in der Zelle wird kein Arbeitsentgelt ausgerichtet.
+<sup>2<sup>bis</sup></sup> Die Gefangenen erhalten für angeordnete Arbeiten, die sie an Sonntagen und gesetzlichen Feiertagen verrichten, und für angeordnete Überstunden besondere Zulagen, die von der Leitung der Vollzugseinrichtung festgelegt werden.
 
-<sup>4</sup> Bei krankheits- oder unfallbedingter Arbeitsunfähigkeit ab dem dritten Tag und bei unverschuldeter Beschäftigungslosigkeit wird eine minimale Grundentschädigung ausgerichtet.
+<sup>3</sup> Während Besuchen, Ausgängen und Urlauben, bei Arbeitsverweigerung und absichtlich herbeigeführter Arbeitsunfähigkeit sowie während des Zelleneinschlusses und des Arrestvollzugs wird kein Arbeitsentgelt ausgerichtet.
 
-[^27-1]: BGS [333.111](https://bgs.so.ch/data/333.111/de).
+<sup>4</sup> Bei krankheits- oder unfallbedingter Arbeitsunfähigkeit ab dem dritten Tag und bei unverschuldeter Beschäftigungslosigkeit wird eine reduzierte Entschädigung ausgerichtet.
 
 #### § 28
 
 **Verwendung des Arbeitsentgelts**
 
-<sup>1</sup> Die Verwendung des Arbeitsentgelts richtet sich nach den Richtlinien des Konkordats[^28-1].
+<sup>1</sup> Die Verwendung des Arbeitsentgelts richtet sich nach den Richtlinien des Konkordats betreffend das Arbeitsentgelt.
 
-<sup>2</sup> Das Arbeitsentgelt wird anteilsmässig den Frei- oder Sperrkonti gutgeschrieben.
+<sup>2</sup> …
 
 <sup>3</sup> Die Gefangenen haben sich im Rahmen ihrer finanziellen Möglichkeiten an den Kosten des Vollzugs, an Schadenersatz- und Genugtuungsleistungen, an Gerichts- und Verfahrenskosten, an Gesundheitskosten, an Sozialversicherungsbeiträgen und ähnlichen Kosten, die nicht durch Kostgelder abgegolten werden, zu beteiligen.
-
-[^28-1]: BGS [333.111](https://bgs.so.ch/data/333.111/de).
 
 ## 7. Bildung und Freizeitgestaltung
 
@@ -346,7 +382,9 @@ beschliesst:
 
 **Betreuung und Beratung**
 
-<sup>1</sup> Bei der Lösung der persönlichen Probleme werden die Gefangenen betreut und beraten.
+<sup>1</sup> Bei der Lösung der persönlichen Probleme werden die Gefangenen durch die jeweils zuständigen Mitarbeitenden der Vollzugseinrichtung betreut und beraten.
+
+<sup>2</sup> Die Gefangenen werden in angemessener Weise über das Betreuungs- und Beratungsangebot informiert. Gegebenenfalls werden sie an die zuständigen Stellen, wie insbesondere die kantonale Justizvollzugskommission, verwiesen.
 
 #### § 33
 
@@ -354,13 +392,25 @@ beschliesst:
 
 <sup>1</sup> Die Gefangenen müssen hygienische Minimalanforderungen einhalten.
 
+<sup>1<sup>bis</sup></sup> Die Leitung der Vollzugseinrichtung kann die Gefangenen aus hygiensichen Gründen zur Vornahme der notwendigen Körperpflege verpflichten.
+
 <sup>2</sup> Den Gefangenen wird mindestens zweimal wöchentlich Gelegenheit zum Duschen gegeben, sofern es die Abläufe der Vollzugseinrichtung zulassen.
 
 #### § 34
 
 **Medizinische Betreuung**
 
-<sup>1</sup> Der Gesundheitsdienst stellt in Zusammenarbeit mit Ärzten und Ärztinnen die medizinische Versorgung der Gefangenen sicher.
+<sup>1</sup> Der Gesundheitsdienst stellt in Zusammenarbeit mit den Ärzten und Ärztinnen die medizinische Versorgung der Gefangenen sicher.
+
+<sup>1<sup>bis</sup></sup> Er gibt die von den Ärzten und Ärztinnen verschriebenen Medikamente ab und entscheidet, welche Nahrungsergänzungsmittel von den Gefangenen konsumiert werden dürfen. Die Abgabe der vorschriftsgemäss verordneten und durch den Gesundheitsdienst vorbereiteten Medikamente kann an entsprechend instruierte Mitarbeitende der Vollzugseinrichtung delegiert werden.
+
+<sup>1<sup>ter</sup></sup> Der Gesundheitsdienst kann bei Bedarf und nach vorgängiger Zustimmung der Leitung der Vollzugseinrichtung zusätzliche Abklärungen durch eine Fachperson durchführen lassen.
+
+<sup>1<sup>quater</sup></sup> Sofern aufgrund des gesundheitlichen Zustands eines Gefangenen eine Verlegung in ein Spital oder eine psychiatrische Klinik notwendig ist, hat die Leitung der Vollzugseinrichtung vorgängig die Zustimmung der einweisenden Behörde einzuholen. In dringenden Fällen veranlasst Erstere die Verlegung unverzüglich und informiert hierüber umgehend die einweisende Behörde.
+
+<sup>1<sup>quinquies</sup></sup> Für die Gefangenen besteht keine freie Arztwahl.
+
+<sup>1<sup>sexies</sup></sup> Eine angemessene zahnärztliche Behandlung ist im Rahmen der notwendigen und dringlichen Versorgung gewährleistet. Sofern die Kostentragung durch den Gefangenen gewährleistet ist, kann der Gesundheitsdienst nach vorgängiger Rücksprache mit der Leitung der Vollzugseinrichtung eine weitergehende Behandlung bewilligen. Der Gesundheitsdienst bezeichnet den Zahnarzt oder die Zahnärztin.
 
 <sup>2</sup> Die Einzelheiten sind in den Merkblättern des Gesundheitsdienstes enthalten.
 
@@ -368,18 +418,27 @@ beschliesst:
 
 **Psychiatrisch-therapeutische Betreuung**
 
-<sup>1</sup> Hat das Gericht eine stationäre Massnahme im Sinne von Artikel 59 des Schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937[^35-1] oder eine ambulante Behandlung im Sinne von Artikel 63 StGB[^35-2] angeordnet, stellt das Fachpersonal eines psychiatrischen Dienstes oder einer psychiatrischen Klinik den psychiatrisch-therapeutischen Teil der Massnahme sicher.
+<sup>1</sup> Hat das Gericht eine stationäre Massnahme im Sinne von Artikel 59 StGB[^35-1] oder eine ambulante Behandlung im Sinne von Artikel 63 StGB angeordnet, stellt das Fachpersonal eines psychiatrischen Dienstes oder einer psychiatrischen Klinik den psychiatrischen und den psychotherapeutischen Teil der Massnahme sicher.
 
 [^35-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
-[^35-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+
+#### § 35bis
+
+**Präventionsmassnahmen**
+
+<sup>1</sup> Die Leitung der Vollzugseinrichtung sorgt für die Durchführung von Präventionsmassnahmen zum Schutz vor übertragbaren Krankheiten und zur Verhinderung von Suiziden sowie die regelmässige Information der Gefangenen über gesundheitsfördernde Massnahmen und gesundheitsschädigendes Verhalten.
 
 #### § 36
 
 **Seelsorgerische Betreuung**
 
-<sup>1</sup> Seelsorger oder Seelsorgerinnen besuchen die Vollzugseinrichtung regelmässig.
+<sup>1</sup> Die Vollzugseinrichtung gewährleistet die seelsorgerische Betreuung. Seelsorger oder Seelsorgerinnen der Landeskirchen besuchen die Vollzugseinrichtung regelmässig.
 
-<sup>2</sup> Besuche von anderen Funktionsträgern einer Glaubensrichtung können nach Absprache mit der Leitung der Vollzugseinrichtung stattfinden.
+<sup>1<sup>bis</sup></sup> Gefangene ohne landeskirchliche Zugehörigkeit können ebenfalls von Seelsorgern und Seelsorgerinnen der Landeskirchen betreut werden.
+
+<sup>2</sup> Besuche von Seelsorgern und Seelsorgerinnen einer nicht landeskirchlichen Glaubensrichtung können nach Absprache mit der Leitung der Vollzugseinrichtung stattfinden, sofern nicht aus Gründen der Sicherheit und Ordnung der Vollzugseinrichtung ein Ausschluss geboten ist.
+
+<sup>3</sup> Die Leitung der Vollzugseinrichtung legt die Einzelheiten im Zusammenhang der seelsorgerischen Betreuung, insbesondere betreffend die Anrechnung von Gesprächen mit Seelsorgern oder Seelsorgerinnen auf die Anzahl der zulässigen Besuche, fest.
 
 ## 9. Tatbearbeitung und Wiedergutmachung
 
@@ -403,6 +462,12 @@ beschliesst:
 
 <sup>2</sup> Dasselbe gilt für Rechtsgeschäfte zwischen Gefangenen und dem Personal der Vollzugseinrichtung.
 
+#### § 38bis
+
+**Glücksspiele, Wetten und Lotterien**
+
+<sup>1</sup> Es ist den Gefangenen untersagt, sich innerhalb der Vollzugseinrichtung an Glücksspielen, Wetten und Lotterien mit Geld- oder Werteinsätzen in irgendeiner Form zu beteiligen.
+
 #### § 39
 
 **Unerlaubte Gegenstände, Genussmittel und Substanzen**
@@ -410,10 +475,10 @@ beschliesst:
 <sup>1</sup> Besitz, Benutzung und Konsum der nachfolgenden Gegenstände, Genussmittel und Substanzen sind untersagt:
 
 - a) nicht bewilligte elektrische und elektronische Geräte und Datenträger;
-- b) Gegenstände, Schriften, Ton- und Bildaufnahmen und andere Datenträger, die aus deliktspezifischen Gründen dem Vollzugsziel entgegen stehen;
+- b) Gegenstände, Schriften, Ton- und Bildaufnahmen und andere Datenträger, die dem Vollzugsziel entgegenstehen oder geeignet sind, Sicherheit und Ordnung der Vollzugseinrichtung zu gefährden;
 - c) Gegenstände, Schriften, Ton- und Bildaufnahmen und andere Datenträger, die sexuelle Handlungen mit Kindern, mit Tieren, mit menschlichen Ausscheidungen oder mit Gewalttätigkeiten zum Inhalt haben;
-- d) Alkohol und Drogen;
-- e) Medikamente, die nicht vom Gesundheitsdienst abgegeben worden sind;
+- d) Alkohol, Drogen und ähnlich wirkende Stoffe sowie Cannabisprodukte;
+- e) Medikamente, die nicht vom Gesundheitsdienst individuell abgegeben worden sind und nicht dem aktuellen Behandlungsplan entsprechen;
 - f) Nahrungsergänzungsmittel, die nicht vom Gesundheitsdienst bewilligt worden sind;
 - g) Waffen, waffenähnliche Gegenstände und zur Verwendung als gefährliche Waffen taugliche Gegenstände.
 
@@ -429,7 +494,11 @@ beschliesst:
 
 **Rauchen**
 
-<sup>1</sup> Rauchen ist lediglich in den ordentlichen Zellen bei geschlossener Tür und im Freien gestattet.
+<sup>1</sup> Das Rauchen ist lediglich in den ordentlichen Zellen bei geschlossener Tür und im Freien gestattet.
+
+<sup>1<sup>bis</sup></sup> Die Verwendung von elektronischen Zigaretten ist verboten. Die Leitung der Vollzugseinrichtung kann abweichende Regelungen treffen.
+
+<sup>1<sup>ter</sup></sup> Der Konsum sämtlicher Cannabisprodukten ist verboten.
 
 <sup>2</sup> Die Leitung der Vollzugseinrichtung kann das Rauchen einschränken oder verbieten:
 
@@ -441,13 +510,23 @@ beschliesst:
 
 **Alkohol und Drogen**
 
-<sup>1</sup> Die Gefangenen haben von Ausgängen und Urlauben nüchtern (0.0 Promille) und drogenfrei zurück zu kehren.
+<sup>1</sup> Die Gefangenen haben von Ausgängen und Urlauben nüchtern (0.0 Promille) und drogenfrei zurückzukehren.
+
+<sup>2</sup> Der Konsum von betäubungsmittelähnlichen Stoffen und sämtlichen Cannabisprodukten ist während Ausgängen und Urlauben ebenfalls verboten.
 
 #### § 42
 
 **Medikamente**
 
 <sup>1</sup> Besitz und Konsum von nicht vom Gesundheitsdienst abgegebenen Medikamenten sind auch während Ausgängen und Urlauben untersagt.
+
+#### § 42bis
+
+**Propaganda**
+
+<sup>1</sup> Propaganda jeglicher Art ist auf dem ganzen Areal der Vollzugseinrichtung untersagt. Darunter fällt auch das Sicht- und Hörbarmachen von politischen Zeichen oder Inhalten.
+
+<sup>2</sup> Das Recht auf freie Meinungsäusserung und die politischen Rechte bleiben davon unberührt.
 
 ## 11. Beziehungen zur Aussenwelt
 
@@ -461,21 +540,25 @@ beschliesst:
 
 **Briefpost**
 
-<sup>1</sup> Die Briefpost kann kontrolliert werden. Sämtliche ausgehende Post ist offen, frankiert und mit dem Absender versehen abzugeben.
+<sup>1</sup> Der Empfang und der Versand von Briefen sind nicht beschränkt, soweit die notwendige Kontrolle durch Anzahl, Umfang oder Sprache nicht erheblich erschwert oder verunmöglicht wird. Ausgehende Post ist offen, frankiert und mit dem Absender versehen abzugeben.
 
-<sup>2</sup> Der Briefverkehr mit Behörden und Amtsstellen unterliegt keiner Kontrolle.
+<sup>2</sup> Die Briefpost kann kontrolliert werden. Der Briefverkehr mit Behörden, Amtsstellen sowie Rechtsvertretern und Rechtsvertreterinnen wird lediglich einer Behältniskontrolle unterzogen.
 
-<sup>3</sup> Eine inhaltliche Überprüfung des Briefverkehrs mit Rechtsvertretern und Rechtsvertreterinnen findet nicht statt. Bei Missbrauch kann der anwaltliche Kontakt untersagt werden.
+<sup>3</sup> Der Briefverkehr mit Verteidigern und Verteidigerinnen sowie mit der Aufsichtsbehörde ist keiner inhaltlichen Überprüfung zugänglich. Bei Missbrauch kann der anwaltliche Kontakt untersagt werden.
+
+<sup>4</sup> Bargeld wird grundsätzlich den Sperrkonti zugewiesen. Die Leitung der Vollzugseinrichtung legt die betreffenden Einzelheiten fest.
 
 #### § 45
 
-**Telefonie**
+**Telefonie und Videotelefonie**
 
-<sup>1</sup> Für private Telefongespräche stehen während der Freizeit Telefongeräte zur Verfügung.
+<sup>1</sup> Für private Telefongespräche stehen während der Freizeit Telefongeräte zur Verfügung. Die Vollzugseinrichtung entscheidet im Rahmen der betrieblichen Möglichkeiten und in Nachachtung von Vollzugsziel, Sicherheit und Ordnung über die Nutzung von Videotelefonie.
 
-<sup>2</sup> Die Telefongespräche können überwacht werden. Bei Missbrauch können die telefonischen Kontakte eingeschränkt oder untersagt werden.
+<sup>2</sup> Telefon- und Videotelefongespräche können überwacht und aufgezeichnet werden. Bei Missbrauch können die telefonischen Kontakte eingeschränkt oder untersagt werden. Die Aufzeichnung richtet sich nach § 16<sup>bis</sup> JUVG[^45-1].
 
-<sup>3</sup> Telefonate mit Behörden und Amtsstellen oder mit Rechtsvertretern und Rechtsvertreterinnen können von den Gefangenen bei der Leitung der Vollzugseinrichtung angemeldet werden.
+<sup>3</sup> Telefonate und Videotelefonate mit Behörden, Amtsstellen sowie mit Rechtsvertretern und Rechtsvertreterinnen können von den Gefangenen bei der Leitung der Vollzugseinrichtung angemeldet werden.
+
+[^45-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 #### § 46
 
@@ -483,9 +566,9 @@ beschliesst:
 
 <sup>1</sup> Pakete werden nur zugelassen, wenn sie leicht kontrolliert werden können, die Sicherheit und Ordnung der Vollzugseinrichtung nicht gefährden und keine unerlaubten Gegenstände, Genussmittel und Substanzen enthalten.
 
-<sup>2</sup> Unerlaubte Gegenstände, Genussmittel und Substanzen werden eingezogen. Bargeld wird den Frei- oder Sperrkonti gutgeschrieben.
+<sup>2</sup> Unerlaubte Gegenstände, Genussmittel und Substanzen werden eingezogen. Bei Bargeld wird ist gemäss § 44 Absatz 4 vorzugehen.
 
-<sup>3</sup> Pro Monat dürfen höchstens zwei Pakete à 4 kg entgegen genommen werden. Vor der Aushändigung werden die Pakete kontrolliert.
+<sup>3</sup> Die Leitung der Vollzugseinrichtung legt Anzahl und Gewicht der zulässigen Paketsendungen fest und informiert die Gefangenen in angemessener Weise darüber. Vor der Aushändigung werden die Pakete kontrolliert.
 
 <sup>4</sup> Eingehende Sendungen, die nicht den Vorgaben der Vollzugseinrichtung entsprechen, werden auf Kosten der Gefangenen zurückgeschickt oder verwertet.
 
@@ -495,13 +578,13 @@ beschliesst:
 
 <sup>1</sup> Esswaren, Raucherwaren und Toilettenartikel können mittels Einkaufsliste bestellt oder bezogen werden. Bestellungen dürfen nur erfolgen, wenn genügend Geld auf dem Freikonto verfügbar ist und die Bestellung von der Leitung der Vollzugseinrichtung bewilligt worden ist.
 
-<sup>2</sup> Das Angebot beschränkt sich auf ausgewählte Produkte.
+<sup>2</sup> Das Angebot beschränkt sich auf ausgewählte Produkte. Externe Bestellungen sind grundsätzlich nicht erlaubt. Die Leitung der Vollzugseinrichtung kann in begründeten Fällen Ausnahmen bewilligen.
 
 #### § 48
 
 **Zeitungen und Zeitschriften**
 
-<sup>1</sup> Sofern genügend Geld auf dem Freikonto vorhanden ist, dürfen die Gefangenen Zeitungen und Zeitschriften abonnieren, die im Handel erhältlich sind und keinen unerlaubten Inhalt gemäss § 39 aufweisen.
+<sup>1</sup> Sofern genügend Geld auf dem Freikonto vorhanden ist, dürfen die Gefangenen in Absprache mit der Leitung der Vollzugseinrichtung Zeitungen und Zeitschriften abonnieren, die im Handel erhältlich sind und keinen unerlaubten Inhalt gemäss § 39 aufweisen.
 
 <sup>2</sup> Nach der Entlassung aus der Vollzugseinrichtung sind die Gefangenen für die Adressänderung verantwortlich. Abonnierte Zeitungen und Zeitschriften werden den Gefangenen nicht nachgesandt.
 
@@ -509,23 +592,25 @@ beschliesst:
 
 **Besuche**
 
-<sup>1</sup> Der Empfang von Besuch ist zweimal im Monat möglich. Alle Besuche sind im Voraus anzumelden. Erstbesuche müssen schriftlich angemeldet werden. Die Anmeldung muss Name, Adresse und Telefonnummer der Besucher und Besucherinnen enthalten. Unangemeldete Besuche werden nicht zugelassen. Besucher und Besucherinnen müssen sich mit einem amtlichen Ausweis mit Foto ausweisen können.
+<sup>1</sup> Der Empfang von Besuch ist mindestens zweimal im Monat möglich. Alle Besuche sind im Voraus anzumelden. Erstbesuche müssen schriftlich angemeldet werden. Die Anmeldung muss Name, Adresse, Telefonnummer der Besucher und Besucherinnen sowie Angaben zur Beziehung zum Gefangenen enthalten. Unangemeldete Besuche werden nicht zugelassen. Besucher und Besucherinnen haben sich einer Identitätskontrolle gemäss § 24<sup>bis</sup> Absatz 1 Buchstabe a JUVG[^49-1] zu unterziehen.
 
 <sup>2</sup> Grundsätzlich können vier Personen gleichzeitig empfangen werden. Die Leitung der Vollzugseinrichtung kann Ausnahmen bewilligen, die Besuchszeit einschränken oder erweitern oder den Besuch mit Auflagen (beispielsweise Trennscheibe) versehen. Die reguläre Besuchszeit beträgt in der Regel eine Stunde.
 
-<sup>3</sup> Verstösst das Verhalten der Gefangenen oder der Besucher und Besucherinnen gegen Anstand und Sitte oder besteht der Verdacht auf Übergabe von unerlaubten Gegenständen, Genussmitteln und Substanzen, kann der Besuch von der Aufsicht unterbrochen werden. Die Aufsicht kann bei den Besuchern und Besucherinnen eine oberflächliche Leibesvisitation durchführen oder andere angemessene Massnahmen treffen.
+<sup>3</sup> Verstösst das Verhalten der Gefangenen oder der Besucher und Besucherinnen gegen Anstand und Sitte oder besteht der Verdacht auf Übergabe von unerlaubten Gegenständen, Genussmitteln und Substanzen, kann der Besuch von der Aufsicht unterbrochen werden. Die Aufsicht kann bei den Besuchern und Besucherinnen eine oberflächliche Leibesvisitation gemäss § 24<sup>bis</sup> Absatz 1 Buchstabe b JUVG durchführen oder andere angemessene Massnahmen treffen.
 
-<sup>4</sup> Werden die Vorschriften der Besuchsordnung missachtet, können die fehlbaren Besucher und Besucherinnen von weiteren Besuchen ausgeschlossen werden.
+<sup>4</sup> Der Ausschluss von fehlbaren Besuchern und Besucherinnen von weiteren Besuchen richtet sich nach § 24<sup>bis</sup> Absätze 2 und 3 JUVG.
 
 <sup>5</sup> Aus sozialpräventiver Sicht oder aus Sicherheitsgründen kann ehemaligen Gefangenen der Besuch in der Vollzugseinrichtung untersagt werden.
 
-<sup>6</sup> Geschenke von Besuchern und Besucherinnen müssen den Vorgaben der Vollzugseinrichtung entsprechen.
+<sup>6</sup> Geschenke von Besuchern und Besucherinnen müssen den Vorgaben der Hausordnung entsprechen.
+
+[^49-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 #### § 50
 
 **Ausgang und Urlaub**
 
-<sup>1</sup> Die Gewährung von Ausgang und Urlaub richtet sich nach den Richtlinien des Konkordats. Ausgänge und Urlaube können mit Auflagen verbunden werden.
+<sup>1</sup> Die Gewährung von Ausgang und Urlaub richtet sich nach den Richtlinien des Konkordats betreffend die Ausgangs- und Urlaubsgewährung. Ausgänge und Urlaube können mit Auflagen verbunden werden. Sie werden abgesagt, eingeschränkt oder abgebrochen, wenn sich die Gefangenen nicht an die Anordnungen des Begleitpersonals halten.
 
 #### § 51
 
@@ -541,38 +626,44 @@ beschliesst:
 
 **Kontrollen**
 
-<sup>1</sup> Zum Schutz der Sicherheit und Ordnung kann das Personal der Vollzugseinrichtung die persönlichen Effekten oder Behältnisse und die Unterkünfte der Gefangenen durchsuchen.
+<sup>1</sup> Zum Schutz der Sicherheit und Ordnung kann das Personal der Vollzugseinrichtung die persönlichen Effekten und die Unterkünfte der Gefangenen durchsuchen.
 
-<sup>2</sup> Bei der Rückkehr von Ausgängen und Urlauben und bei Verdacht auf Schmuggel unerlaubter Gegenstände, Genussmittel und Substanzen können Leibesvisitationen durchgeführt werden. Besteht der konkrete Verdacht, dass die Gefangenen unerlaubte Gegenstände, Genussmittel und Substanzen in Körperöffnungen verborgen halten, kann die Untersuchung durch einen Arzt oder eine Ärztin angeordnet werden.
+<sup>2</sup> Bei der Rückkehr von Ausgängen und Urlauben sowie bei Verdacht auf Schmuggel unerlaubter Gegenstände, Genussmittel und Substanzen können Gefangene gemäss den Grundsätzen von § 24 JUVG[^52-1] einer Leibesvisitation unterzogen werden.
 
-<sup>3</sup> Atemluftkontrollen, Drogenkontrollen und Urinproben werden aufgrund von Auflagen oder Programmen und als Stichproben durchgeführt. Die Gefangenen haben den angeordneten Alkohol- und Drogentests nachzukommen. Urinproben werden unter Sichtkontrolle abgenommen. Die Verweigerung wird einem positiven Resultat gleichgestellt. Ergibt die Untersuchung ein belastendes Ergebnis, haben die Gefangenen die Untersuchungskosten zu bezahlen.
+<sup>3</sup> Atemluftkontrollen, Blutentnahmen und -proben, Urinproben, Haaranalysen und Ähnliches gemäss § 24 Absatz 3 JUVG werden aufgrund von Auflagen oder Programmen und als Stichproben durchgeführt. Urinproben werden unter Sichtkontrolle abgenommen. Die Verweigerung wird einem positiven Resultat gleichgestellt. Ergibt die Untersuchung ein belastendes Ergebnis, haben die Gefangenen die Untersuchungskosten zu bezahlen.
+
+<sup>4</sup> Die Leitung der Vollzugseinrichtung kann im Rahmen von §16<sup>ter</sup> Absatz 1 Buchstabe e JUVG die elektronische Überwachung von Urlaub und Ausgang anordnen.
+
+[^52-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 #### § 53
 
 **Zweck des Disziplinarwesens**
 
-<sup>1</sup> Das Disziplinarwesen dient der Durchsetzung der Hausordnung, der Gewährleistung von Sicherheit und Ordnung sowie dem Schutz des Personals der Vollzugseinrichtung und der Gefangenen.
+<sup>1</sup> Das Disziplinarwesen dient der Durchsetzung des JUVG[^53-1], der Hausordnung, des Vollzugsplans sowie der Anordnungen der Leitung und des Personals der Vollzugseinrichtung und bezweckt die Gewährleistung von Sicherheit und Ordnung sowie den Schutz des Personals der Vollzugseinrichtung und der Gefangenen.
 
-<sup>2</sup> Disziplinarsanktionen sind eine Reaktion auf fehlbares Verhalten, bezwecken dessen Korrektur und sollen fehlbare Gefangene künftig zu einem regelkonformen Verhalten bewegen. Klare, transparente und konsequent angewandte Regeln sollen den Gefangenen die Einsicht und Verantwortung für ein geordnetes Zusammenleben in der Vollzugseinrichtung vermitteln.
+<sup>2</sup> Disziplinarsanktionen sind eine Reaktion auf schuldhaftes Fehlverhalten, bezwecken dessen Korrektur und sollen fehlbare Gefangene künftig zu einem regelkonformen Verhalten bewegen. Klare, transparente und konsequent angewandte Regeln sollen den Gefangenen die Einsicht und Verantwortung für ein geordnetes Zusammenleben in der Vollzugseinrichtung vermitteln.
+
+[^53-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 #### § 54
 
-**Disziplinarvergehen**
+**Disziplinartatbestände**
 
-<sup>1</sup> Disziplinarvergehen sind vorsätzliche oder grobfahrlässige Verstösse gegen die kantonalen Vollzugsvorschriften, die Hausordnung, den Vollzugsplan sowie die Anordnungen der Leitung und des Personals der Vollzugseinrichtung.
+<sup>1</sup> Bei vorsätzlichen oder grobfahrlässigen Verstössen gegen die kantonalen Vollzugsvorschriften, die Hausordnung, den Vollzugsplan sowie die Anordnungen der Leitung und des Personals der Vollzugseinrichtung kann die Leitung der Vollzugseinrichtung gegen Gefangene Disziplinarsanktionen anordnen.
 
-<sup>2</sup> Als Disziplinarvergehen gelten insbesondere:
+<sup>2</sup> Als Disziplinartatbestände gelten insbesondere:
 
 - a) Flucht, Fluchtversuch und Fluchthilfe;
-- b) Beschimpfungen, Tätlichkeiten, Drohungen und ungebührliches Verhalten gegen das Personal der Vollzugseinrichtung, Mitgefangene oder Dritte;
-- c) Missbrauch des Ausgangs-, Urlaubs- und Besuchsrechts, wie verspätete Rückkehr, Nichtrückkehr, Nichteinhaltung des Urlaubsprogramms, Rückkehr in alkoholisiertem Zustand oder Rückkehr unter Drogeneinfluss;
-- d) Arbeitsverweigerung und Aufwiegelung zur Arbeitsverweigerung sowie verspätete Rückkehr oder Nichtrückkehr von einer externen Beschäftigung;
-- e) Beschädigung von Gebäuden und Gegenständen, mangelnde Sorgfalt im Umgang mit Material und Verschleuderung von Material;
-- f) Unerlaubte Kontakte zu Personen ausserhalb der Vollzugseinrichtung;
-- g) Besitz, Benutzung, Konsum, Einfuhr, Ausfuhr, Herstellung und Weitergabe von unerlaubten Gegenständen, Genussmitteln und Substanzen;
-- h) Verfälschung und Verweigerung von Alkohol- und Drogentests und Urinproben;
-- i) Störung von Sicherheit und Ordnung;
-- j) Missachtung von ausdrücklichen Anordnungen.
+- b) Beleidigungen, Drohungen, ungebührliches Verhalten sowie tätliche Auseinandersetzungen, Tätlichkeiten und Gewalt gegen das Personal oder die Leitung der Vollzugseinrichtung, Mitgefangene oder Dritte;
+- c) Missbrauch des Ausgangs-, Urlaubs- und Besuchsrechts;
+- d) Arbeitsverweigerung, Aufwiegelung zur Arbeitsverweigerung und Störung des Arbeitsbetriebs sowie verspätete Rückkehr oder Nichtrückkehr von einer externen Beschäftigung;
+- e) Beschädigung von Mobiliar und Immobilien, missbräuchliche Verwendung von elektronischen Geräten, mangelnde Sorgfalt im Umgang mit Material und rechtswidrige Aneignung fremder Vermögenswerte;
+- f) unerlaubte Kontakte mit anderen Gefangenen und Personen ausserhalb der Vollzugseinrichtung;
+- g) Ein- und Ausfuhr, Beschaffung, Vermittlung, Weitergabe, Herstellung, Besitz von und Handel mit Alkohol, Betäubungsmitteln oder ähnlich wirkenden Stoffen sowie Missbrauch von Arzneimitteln, Genussmitteln und Substanzen;
+- h) Ein- und Ausfuhr, Beschaffung, Vermittlung, Weitergabe, Herstellung, Besitz von und Handel mit unerlaubten Gegenständen, wie insbesondere Waffen, waffenähnlichen Gegenständen, Schriftstücken und Bargeld;
+- i) Umgehung, Verweigerung und Verfälschungen von Alkohol- und Drogentests und Urinproben;
+- j) Missachtung von ausdrücklichen Anordnungen des Personals oder Leitung der Vollzugseinrichtung sowie Störung von Sicherheit und Ordnung.
 
 #### § 55
 
@@ -580,43 +671,53 @@ beschliesst:
 
 <sup>1</sup> Disziplinarsanktionen sind:
 
-- a) Verweis;
-- b) Beschränkung oder Entzug der Verfügung über Geldmittel bis zu 4 Monaten;
-- c) Beschränkung oder Ausschluss vom Gemeinschaftsbetrieb, von Veranstaltungen, von Aus- und Weiterbildungsveranstaltungen sowie von Sport- und Freizeitaktivitäten bis zu 2 Monaten;
-- d) Beschränkung oder Entzug von elektrischen oder elektronischen Geräten bis zu 2 Monaten;
-- e) Beschränkung oder Entzug des Besuchs- und Korrespondenzrechts bis zu 1 Monat. Vorbehalten bleibt der Verkehr mit Behörden, Amtsstellen und Rechtsvertretern;
-- f) Ausgangs- und Urlaubsaufschub von 1 bis zu 12 Wochen;
-- g) Ausgangs- und Urlaubskürzung von 1 bis zu 48 Stunden;
-- h) Entzug von Ausgängen und Urlauben;
-- i) Busse bis 200 Franken;
-- j) Zelleneinschluss bis zu 14 Tagen;
-- k) Arrest bis zu 14 Tagen.
+- a) der Verweis;
+- b) sofern ein Zusammenhang zum erfüllten Disziplinartatbestand gegeben ist:
+- 1\. Beschränkung oder Entzug von Freizeitbeschäftigungen, wie insbesondere die Benutzung elektrischer oder elektronischer Geräte, bis zu 2 Monaten;
+- 2\. Beschränkung oder Entzug der Verfügung über Geldmittel bis zu 4 Monaten;
+- 3\. der Entzug der Arbeitsbeschäftigungsmöglichkeiten bis zu 3 Monaten;
+- 4\. Beschränkung oder Entzug von Aussenkontakten, wie insbesondere Telefonverbot und Besuchssperre, bis zu 2 Monaten, wobei der Verkehr mit Behörden, Rechtsvertretern und Rechtsvertreterinnen sowie Seelsorgenden vorbehalten bleibt;
+- 5\. Beschränkung oder Entzug von Ausgängen oder Urlauben bis zu 6 Monaten.
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
+- h) …
+- i) die Busse bis 200 Franken;
+- j) der Zelleneinschluss bis zu 14 Tagen;
+- k) der Arrest in der eigenen, in der zugewiesenen oder in einer dafür besonders eingerichteten Sicherheitszelle für höchstens 14 Tage.
 
 #### § 56
 
-**Bemessung der Disziplinarsanktionen**
+**Diszplinargewalt und Bemessung der Disziplinarsanktionen**
 
-<sup>1</sup> Die Bemessung der Disziplinarsanktion erfolgt aufgrund einer umfassenden Würdigung der Umstände, insbesondere aufgrund
+<sup>1</sup> Die Zuständigkeiten für die Ausübung der Disziplinargewalt und die Bemessung der Disziplinarsanktion richten sich nach den §§ 33 f. JUVG[^56-1].
 
-- a) der Schwere des Verschuldens;
-- b) der Schwere der Verletzung oder Gefährdung von Sicherheit und Ordnung;
-- c) des bisherigen Verhaltens im Vollzug;
-- d) der Beweggründe;
-- e) der persönlichen Verhältnisse des Gefangenen.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>2</sup> Begeht ein Gefangener innert zweier Monate seit der letzten Disziplinierung erneut ein Disziplinarvergehen, wird die die Disziplinarsanktion angemessen erhöht. Das Höchstmass einer Disziplinarsanktion kann dabei um maximal die Hälfte erhöht werden.
+<sup>2</sup> Erfüllt ein Gefangener innerhalb von 2 Monaten seit der letzten Disziplinierung erneut einen Disziplinartatbestand, wird die Disziplinarsanktion gemäss § 33<sup>bis</sup> Absatz 4 JUVG angemessen erhöht. Das Mass einer Disziplinarsanktion kann dabei um maximal die Hälfte der gesetzlich vorgesehenen Höchstgrenze erhöht werden.
 
-<sup>3</sup> Mehrere Disziplinarsanktionen können miteinander verbunden werden.
+<sup>3</sup> Mehrere Disziplinarsanktionen können gemäss § 33<sup>bis</sup> Absatz 2 JUVG miteinander verbunden werden. Hiervon ausgenommen sind:
 
-<sup>4</sup> In leichten Fällen kann von einer Disziplinarsanktion abgesehen werden, wenn das Disziplinarvergehen auf andere Weise erledigt werden kann.
+- a) die Verbindung mit dem Verweis;
+- b) die gleichzeitige Anordnung von Arrest und Busse für denselben erfüllten Disziplinartatbestand.
+
+<sup>4</sup> …
 
 <sup>5</sup> Hat der Gefangene mit seinem Fehlverhalten Schaden verursacht und ist dieser Schaden ausgewiesen, kann der Gefangene verpflichtet werden, neben der Disziplinarsanktion in angemessenem Umfang Schadenersatz zu leisten.
+
+[^56-1]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 #### § 57
 
 **Sicherstellung und Beschlagnahmung**
 
-<sup>1</sup> Gegenstände, die bei der Begehung von Disziplinarvergehen verwendet wurden, werden sichergestellt. Sie werden zu den Effekten gelegt, wenn das Eigentum feststeht. Ist die Feststellung des Eigentums nicht möglich oder gefährden die sichergestellten Gegenstände die Sicherheit und Ordnung der Vollzugseinrichtung, werden sie verwertet, vernichtet oder der Polizei übergeben.
+<sup>1</sup> Gegenstände, die bei der Erfüllung eines Disziplinartatbestands verwendet wurden, werden sichergestellt. Sie werden zu den Effekten gelegt, wenn das Eigentum feststeht. Ist die Feststellung des Eigentums nicht möglich oder gefährden die sichergestellten Gegenstände die Sicherheit und Ordnung der Vollzugseinrichtung, werden sie verwertet, vernichtet oder der Polizei übergeben.
 
 <sup>2</sup> Insbesondere gilt:
 
@@ -627,9 +728,7 @@ beschliesst:
 
 #### § 58
 
-**Vorsorgliche Verlegung**
-
-<sup>1</sup> Bei schweren oder wiederholten Disziplinarvergehen kann mit dem Disziplinarentscheid bis zum Versetzungsentscheid der einweisenden Behörde eine vorsorgliche Verlegung in eine andere Vollzugseinrichtung angeordnet werden.
+**…**
 
 #### § 59
 
@@ -651,7 +750,7 @@ beschliesst:
 
 **Vollzug des Zelleneinschlusses**
 
-<sup>1</sup> Der Zelleneinschluss wird in der ordentlichen Zelle des Gefangenen vollzogen. Das Fernsehgerät wird für diese Zeit aus der Zelle entfernt.
+<sup>1</sup> Der Zelleneinschluss wird in der eigenen, in der zugewiesenen oder in einer dafür besonders eingerichteten Sicherheitszelle vollzogen. Das Fernsehgerät wird für diese Zeit aus der Zelle entfernt.
 
 <sup>2</sup> Vor dem Zelleneinschluss gelten für den Gefangenen keine Einschränkungen.
 
@@ -659,7 +758,7 @@ beschliesst:
 
 - a) Ausgänge, Beziehungsurlaube und externe Besuche;
 - b) Aussenaktivitäten;
-- c) Telefonieren;
+- c) Telefon- und Videotelefongespräche;
 - d) Freizeitaktivitäten, die nicht spätestens bis zur Einschliesszeit beendet sind;
 - e) interne und externe Weiterbildungsveranstaltungen.
 
@@ -667,7 +766,7 @@ beschliesst:
 
 **Vollzug des Arrestes**
 
-<sup>1</sup> Der Arrest wird in der Arrestzelle vollzogen. Beim Antritt des Arrests wird der Gefangene einer Personenkontrolle unterzogen und muss sich vollständig entkleiden. Kleidung, Hausschuhe und Toilettenartikel werden dem Gefangenen zur Verfügung gestellt. Der Gefangene erhält die Möglichkeit, seine Angehörigen telefonisch oder schriftlich zu informieren.
+<sup>1</sup> Der Arrest wird in der Arrestzelle vollzogen. Beim Antritt des Arrests wird der Gefangene einer Personenkontrolle unterzogen und muss sich vollständig entkleiden. Kleidung und Hausschuhe werden dem Gefangenen zur Verfügung gestellt. Toilettenartikel werden ihm zugänglich gemacht. Er erhält die Möglichkeit, seine Angehörigen telefonisch oder schriftlich zu informieren.
 
 <sup>2</sup> Während des Arrests ist der Gefangene von Arbeit, Freizeitbeschäftigung, Veranstaltungen, Einkauf und Aussenkontakten ausgeschlossen. Das Rauchen ist eingeschränkt.
 
@@ -679,15 +778,11 @@ beschliesst:
 - b) Aushändigung und Versand von Briefpost;
 - c) eine Stunde Aufenthalt ausserhalb der Arrestzelle.
 
-<sup>5</sup> Auf Wunsch des Gefangenen sind folgende Kontakte erlaubt: Seelsorge, Behörden und Rechtsvertretung.
+<sup>5</sup> Auf Wunsch des Gefangenen ist der Kontakt mit Seelsorgenden, den Behörden und der Rechtsvertretung erlaubt.
 
 #### § 63
 
-**Disziplinargewalt**
-
-<sup>1</sup> Die Disziplinargewalt wird durch die Leitung der Vollzugseinrichtung ausgeübt.
-
-<sup>2</sup> Arrest von mehr als 5 Tagen und die vorsorgliche Verlegung in eine andere Vollzugseinrichtung werden durch den Direktor oder die Direktorin angeordnet. In dringenden Fällen kann ein anderes Mitglied der Leitung der Vollzugseinrichtung die vorsorgliche Verlegung anordnen, sofern vorab die Zustimmung des Direktors oder der Direktorin eingeholt wird.
+**…**
 
 #### § 64
 
@@ -695,13 +790,13 @@ beschliesst:
 
 <sup>1</sup> Die Mitarbeitenden der Vollzugseinrichtung halten das Fehlverhalten des Gefangenen schriftlich fest.
 
-<sup>2</sup> Der Gefangene erhält die Gelegenheit zur schriftlichen Stellungnahme (rechtliches Gehör). Die Frist zur Stellungnahme beträgt 1 Tag.
+<sup>2</sup> Der Gefangene erhält vor Erlass des Disziplinarentscheids die Gelegenheit zur Stellungnahme (rechtliches Gehör).
 
 <sup>3</sup> Der Disziplinarentscheid wird dem Gefangenen gegen Empfangsbestätigung ausgehändigt und bei Bedarf mündlich erläutert. Eine Kopie des Disziplinarentscheids wird in den Akten abgelegt.
 
 <sup>4</sup> Der Disziplinarentscheid wird mit einer Rechtsmittelbelehrung versehen. Beschwerden können innert 10 Tagen beim Departement des Innern eingereicht werden. Die Beschwerde ist schriftlich einzureichen und muss einen Antrag und eine Begründung enthalten.
 
-<sup>5</sup> Bei schweren Disziplinarvergehen wird die einweisende Behörde benachrichtigt.
+<sup>5</sup> Der einweisenden Behörde wird der Disziplinarentscheid zugestellt.
 
 #### § 65
 
@@ -719,11 +814,9 @@ beschliesst:
 
 **Bedingte Entlassung**
 
-<sup>1</sup> Die bedingte Entlassung richtet sich nach dem Strafgesetzbuch[^66-1]. Sie wird auf Gesuch der Gefangenen oder von Amtes wegen geprüft. Die Leitung der Vollzugseinrichtung macht die Gefangenen rechtzeitig vor dem möglichen Entlassungstermin darauf aufmerksam, dass sie bei der einweisenden Behörde ein Gesuch um bedingte Entlassung einreichen können.
+<sup>1</sup> Die bedingte Entlassung wird durch die zuständige Behörde auf Gesuch der Gefangenen oder von Amtes wegen geprüft. Die Leitung der Vollzugseinrichtung macht die Gefangenen rechtzeitig vor dem möglichen Entlassungstermin darauf aufmerksam, dass sie bei der einweisenden Behörde ein Gesuch um bedingte Entlassung einreichen können.
 
-<sup>2</sup> Die Leitung der Vollzugseinrichtung verfasst für die einweisende Behörde einen Führungsbericht. Dieser wird zusammen mit dem Gesuch des Gefangenen an die einweisende Behörde und bei entsprechender Empfehlung an die Bewährungshilfe weitergeleitet.
-
-[^66-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+<sup>2</sup> …
 
 #### § 67
 
