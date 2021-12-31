@@ -4,13 +4,13 @@ number: "812.11"
 title: Spitalversorgungsgesetz
 short: SpVG
 language: de
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-16
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-09
 adopted: 2013-06-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2125/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2474/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2125/pdf_file"
 
 (SpVG)
 
-vom 13.06.2013 (Stand 01.03.2021)
+vom 13.06.2013 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -100,7 +100,11 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat genehmigt die Versorgungsplanung und bringt sie dem Grossen Rat zur Kenntnis.
 
-<sup>2</sup> Die Versorgungsplanung wird in der Regel alle vier Jahre überarbeitet.
+<sup>2</sup> Die Versorgungsplanung wird periodisch frühestens alle vier und spätestens alle zehn Jahre überarbeitet.
+
+<sup>3</sup> Sie kann in Teilbereiche aufgeteilt und gestaffelt überarbeitet werden.
+
+<sup>4</sup> Der Regierungsrat kann die Periodizität und die Aufteilung in Teilbereiche durch Verordnung festlegen.
 
 #### Art. 8
 
@@ -178,7 +182,7 @@ beschliesst:
 
 <sup>2</sup> Ein Rechtsträger kann gleichzeitig als RSZ und als RPD bezeichnet werden. Ebenso können die Rechtsträger der Universitätsspitäler zusätzlich als RSZ und als RPD bezeichnet werden.
 
-<sup>3</sup> Wird die Inselspital-Stiftung als RSZ oder als RPD bezeichnet, sind die erforderlichen Regelungen im Inselvertrag nach Artikel 35 vorzunehmen. Die Bestimmungen zur Rechtsform, zur Organisation und zur Beteiligung finden keine Anwendung.
+<sup>3</sup> Wird die Inselspital-Stiftung als RSZ oder als RPD bezeichnet, sind die erforderlichen Regelungen im Inselvertrag nach Artikel 36 vorzunehmen. Die Bestimmungen zur Rechtsform, zur Organisation und zur Beteiligung finden keine Anwendung.
 
 #### Art. 17
 
@@ -393,6 +397,17 @@ beschliesst:
 
 <sup>3</sup> Die Universität Bern kann Leistungen in Lehre und Forschung bei anderen Leistungserbringern bestellen, soweit dies wirtschaftlich günstiger oder im Interesse der Lehr- und Forschungsqualität nötig ist.
 
+### 2.2.4 Baurechte und Mietverträge
+
+#### Art. 39a
+
+<sup>1</sup> Sofern die RPD oder die UPD im Eigentum des Kantons liegende Grundstücke oder Gebäude operativ und zugleich wirtschaftlich unmittelbar selbst für die Spitalversorgung nutzen, erhebt der Kanton
+
+- a in den bestehenden Baurechtsverträgen keinen Baurechtszins,
+- b in den zu erneuernden Mietverträgen einen Mietzins, der sich an der Höhe des Mietzinses orientiert, den die Parteien im Vertrag für die Jahre 2017 bis 2021 vereinbart hatten.
+
+<sup>2</sup> In allen anderen Fällen vereinbart der Kanton die Baurechts- oder Mietzinse im Einzelfall.
+
 ### 2.3 Weitere Organisationen
 
 #### Art. 40
@@ -415,7 +430,7 @@ beschliesst:
 
 **Beschluss des Grossen Rates**
 
-<sup>1</sup> Stellt die Gesundheits-, Sozial- und Integrationsdirektion in einem Versorgungsbereich ein medizinisch nicht gerechtfertigtes Wachstum des Leistungsvolumens fest, kann der Grosse Rat auf Antrag des Regierungsrates beschliessen, dass die Gesundheits-, Sozial- und Integrationsdirektion eine Lenkungsabgabe erhebt.
+<sup>1</sup> Stellt die Gesundheits- und Fürsorgedirektion in einem Versorgungsbereich ein medizinisch nicht gerechtfertigtes Wachstum des Leistungsvolumens fest, kann der Grosse Rat auf Antrag des Regierungsrates beschliessen, dass die Gesundheits- und Fürsorgedirektion eine Lenkungsabgabe erhebt.
 
 #### Art. 43
 
@@ -498,18 +513,40 @@ beschliesst:
 <sup>1</sup> Die im Kanton Bern gelegenen Listenspitäler geben in einem Vergütungsbericht die Summe aller Vergütungen an, die sie an folgende Personengruppen ausgerichtet haben:
 
 - a Mitglieder des strategischen Führungsorgans,
-- b Mitglieder der Geschäftsleitung,
-- c Führungspersonen der Kliniken und Organisationseinheiten auf gleicher Hierarchieebene.
+- b Mitglieder der Geschäftsleitung.
+- c …
+
+<sup>1a</sup> Die Listenspitäler geben im Vergütungsbericht den Lohn des Vorsitzenden der Geschäftsleitung an.
 
 <sup>2</sup> Listenspitäler einer interkantonal tätigen Spitalunternehmung erfassen im Vergütungsbericht sinngemäss die Personen nach Absatz 1.
 
-<sup>3</sup> Als Vergütungen gelten sinngemäss diejenigen, die in Artikel 663b bis Absatz 2 OR aufgeführt sind.
+<sup>3</sup> Als Vergütungen gelten sinngemäss diejenigen, die in Artikel 663b<sup>bis</sup> Absatz 2 OR aufgeführt sind.
 
-<sup>4</sup> Die Listenspitäler geben zudem alle Darlehen und Kredite an, die den Mitgliedern des strategischen Führungsorgans und der Geschäftsleitung gewährt wurden und noch ausstehen.
+<sup>4</sup> Die Listenspitäler geben zudem alle Darlehen und Kredite an, die den Personengruppen nach Absatz 1 gewährt wurden und noch ausstehen.
 
-<sup>5</sup> Der Umfang der Angaben zu Vergütungen und Krediten richtet sich sinngemäss nach Artikel 663bbis Absatz 4 OR.
+<sup>5</sup> Ohne Nennung von Name und Funktion der Personen nach Absatz 1 und unter Vorbehalt von Absatz 1a richtet sich der Umfang der Angaben zu Vergütungen und Krediten sinngemäss nach Artikel 663b<sup>bis</sup> Absatz 4 OR.
 
 <sup>6</sup> Die Listenspitäler veröffentlichen den Vergütungsbericht als Anhang zur Bilanz und auf ihrer Website.
+
+#### Art. 51a
+
+**Löhne von Chefärztinnen und Chefärzten**
+
+<sup>1</sup> Die im Kanton Bern gelegenen Listenspitäler melden der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion in anonymisierter Form die Löhne der Chefärztinnen und Chefärzte, die bei ihnen angestellt sind.
+
+<sup>2</sup> Als Lohn gelten
+
+- a fixe Vergütungen wie insbesondere Jahreslohn, Funktionszulagen, Einnahmen aus Gutachtens- und Lehrtätigkeit,
+- b variable Vergütungen wie insbesondere Honorare, Bonifikationen, Gutschriften, Garantiezahlungen, Tantiemen, Beteiligungen, Wandel- und Optionsrechte, Antritts- und Abgangsentschädigungen, Bürgschaften und Darlehen,
+- c Beiträge des Listenspitals an die berufliche Vorsorge und an Einkäufe in die berufliche Vorsorgeeinrichtung des Listenspitals.
+
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion veröffentlicht jährlich im Internet, wie sich die Löhne auf Lohnbandbreiten verteilen.
+
+<sup>4</sup> Der Regierungsrat kann durch Verordnung insbesondere regeln
+
+- a die zu meldenden Lohnbestandteile,
+- b welche Personen als Chefärztinnen und Chefärzte gelten,
+- c die Lohnbandbreiten.
 
 #### Art. 52
 
@@ -543,39 +580,46 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bestimmt den anzuwendenden Kostenrechnungsstandard durch Verordnung.
 
+#### Art. 55a
+
+**Vertrauliche Geburt**
+
+<sup>1</sup> Die im Kanton Bern gelegenen Listenspitäler mit einem Leistungsauftrag für Geburtshilfe ermöglichen den Patientinnen eine vertrauliche Geburt.
+
+<sup>2</sup> Das Listenspital
+
+- a stellt durch besondere Massnahmen sicher, dass das soziale Umfeld der Frau keine Kenntnis von der vertraulichen Geburt erhält,
+- b macht das Angebot einer vertraulichen Geburt in geeigneter Weise bekannt.
+
+<sup>3</sup> Der Kanton entrichtet den Listenspitälern für jede durchgeführte vertrauliche Geburt eine Pauschale, die den Mehraufwand zur Sicherstellung der Vertraulichkeit abdeckt.
+
+<sup>4</sup> Der Regierungsrat kann durch Verordnung insbesondere regeln
+
+- a die besonderen Massnahmen zur Sicherstellung der Vertraulichkeit,
+- b den Leistungsumfang der vertraulichen Geburt,
+- c die Höhe der Pauschale,
+- d die von der Pflicht zur vertraulichen Geburt ausgenommenen Listenspitäler.
+
 #### Art. 56
 
-**Lebenszyklusmanagement**
-
-<sup>1</sup> Die Listenspitäler und Listengeburtshäuser führen ein Lebenszyklusmanagement über ihre Infrastruktur.
-
-<sup>2</sup> Sie bringen der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion das Lebenszyklusmanagement und den Investitionskostenanteil der Abgeltung nach Artikel 49a KVG abzüglich den Anlagenutzungskosten zur Kenntnis.
-
-<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion definiert gemeinsam mit den Listenspitälern und Listengeburtshäusern die aus dem Lebenszyklusmanagement darzustellenden Kennzahlen, die Periodizität sowie die abzugebende Form der Daten.
-
-<sup>4</sup> Das Nähere regelt der Regierungsrat durch Verordnung.
+**…**
 
 #### Art. 57
 
-**Sanktionen**
+**Verwaltungssanktionen**
 
-<sup>1</sup> Verletzt ein Leistungserbringer teilweise oder vollständig eine Pflicht nach Artikel 49 bis 56, erhebt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr einen Betrag nach Massgabe von Absatz 2 bis 5.
+<sup>1</sup> Verletzt ein Leistungserbringer teilweise oder vollständig eine Pflicht nach Artikel 49 bis 55a, verfügt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr eine Verwaltungssanktion in Form einer Busse bis zu 500’000 Franken.
 
-<sup>2</sup> Bei einer Verletzung der Pflicht nach Artikel 49 entspricht der Betrag für das betreffende Jahr maximal 36 Franken multipliziert mit
+<sup>2</sup> Die Höhe der Busse richtet sich nach der Schwere des Verschuldens und der Grösse des Leistungserbringers.
 
-- a der Anzahl stationärer Austritte bei Leistungserbringern der Akutsomatik,
-- b der Anzahl stationärer Pflegetage bei Leistungserbringern der Rehabilitation oder Psychiatrie.
+<sup>3</sup> Die Schwere des Verschuldens hängt insbesondere ab von
 
-<sup>3</sup> Bei einer Verletzung der Pflicht nach Artikel 50 entspricht der Betrag maximal 0,1 Prozent der nach Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG)[^57-1] beitragspflichtigen Gesamtlohnsumme des betreffenden Jahres.
+- a der Bedeutung der Pflichtverletzung und
+- b den Umständen, die zur Pflichtverletzung geführt haben.
 
-<sup>4</sup> Bei einer Verletzung der Pflicht nach den Artikeln 52 bis 56 entspricht der Betrag für das betreffende Jahr maximal zwölf Franken multipliziert mit
+<sup>4</sup> Die Grösse des Leistungserbringers bemisst sich nach der Höhe seines Umsatzes. Massgebend ist in der Regel der Umsatz in den letzten fünf Jahren vor der Sanktionsverfügung.
 
-- a der Anzahl stationärer Austritte bei Leistungserbringern der Akutsomatik,
-- b der Anzahl stationärer Pflegetage bei Leistungserbringern der Rehabilitation oder Psychiatrie.
-
-<sup>5</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion passt die Beträge nach Absatz 2 und 4 jährlich dem Landesindex der Konsumentenpreise an.
-
-[^57-1]: SR 831.10
+<sup>5</sup> …
 
 ### 2.6 Finanzierung
 
@@ -832,11 +876,11 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann durch Leistungsverträge weiteren inner-, ausser- oder interkantonalen Rettungsdiensten Aufgaben des Rettungswesens übertragen, insbesondere spezialisierten Rettungsdiensten für die Rettung zu Wasser und durch die Luft.
 
-### 3.1.4 Kantonale Rettungsorganisation
+### 3.1.4
 
 #### Art. 88
 
-<sup>1</sup> Der Regierungsrat kann die Sanitätsnotrufzentrale und die regionalen Rettungsdienste in einer kantonalen Rettungsorganisation zusammenfassen.
+**…**
 
 ### 3.2 Mittelbewirtschaftung
 
@@ -864,7 +908,7 @@ beschliesst:
 
 **Rettungspflicht**
 
-<sup>1</sup> Die regionalen Rettungsdienste sowie die Leistungserbringer nach Artikel 87 und 88 sind verpflichtet, Rettungsleistungen zu erbringen. Diese Pflicht ist diskriminierungsfrei zu erfüllen. Sie besteht insbesondere unabhängig von Alter, Geschlecht, Herkunft oder Versicherungsstatus der Patientinnen und Patienten.
+<sup>1</sup> Die regionalen Rettungsdienste sowie die Leistungserbringer nach Artikel 87 sind verpflichtet, Rettungsleistungen zu erbringen. Diese Pflicht ist diskriminierungsfrei zu erfüllen. Sie besteht insbesondere unabhängig von Alter, Geschlecht, Herkunft oder Versicherungsstatus der Patientinnen und Patienten.
 
 #### Art. 93
 
@@ -876,27 +920,30 @@ beschliesst:
 
 **Koordination mit Spitälern**
 
-<sup>1</sup> Die regionalen Rettungsdienste und die kantonale Rettungsorganisation koordinieren ihre Tätigkeit mit einem oder mehreren Erbringern von Leistungen der Akutversorgung, welche die Voraussetzungen zur notfallmässigen Aufnahme von Patientinnen und Patienten erfüllen.
+<sup>1</sup> Die regionalen Rettungsdienste koordinieren ihre Tätigkeit mit einem oder mehreren Erbringern von Leistungen der Akutversorgung, welche die Voraussetzungen zur notfallmässigen Aufnahme von Patientinnen und Patienten erfüllen.
 
 #### Art. 95
 
 **Weitere Pflichten**
 
-<sup>1</sup> Artikel 50 ist für sämtliche Leistungserbringer und Artikel 56 für solche nach Artikel 84, 87 und 88 sinngemäss anwendbar.
+<sup>1</sup> Artikel 50 ist für sämtliche Leistungserbringer sinngemäss anwendbar.
 
 #### Art. 96
 
-**Sanktionen**
+**Verwaltungssanktionen**
 
-<sup>1</sup> Verletzt ein Leistungserbringer teilweise oder vollständig eine Pflicht nach Artikel 92, 50 oder 56, erhebt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr einen Betrag nach Massgabe von Absatz 2 bis 5.
+<sup>1</sup> Verletzt ein Leistungserbringer teilweise oder vollständig eine Pflicht nach Artikel 50 oder 92, verfügt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr eine Verwaltungssanktion in Form einer Busse bis zu 100’000 Franken.
 
-<sup>2</sup> Bei einer Verletzung der Pflicht nach Artikel 92 entspricht der Betrag für das betreffende Jahr der Anzahl Rettungseinsätze multipliziert mit maximal 36 Franken.
+<sup>2</sup> Die Höhe der Busse richtet sich nach der Schwere des Verschuldens und der Grösse des Leistungserbringers.
 
-<sup>3</sup> Bei einer Verletzung der Pflicht nach Artikel 50 entspricht der Betrag maximal 0,1 Prozent der nach AHVG beitragspflichtigen Gesamtlohnsumme des betreffenden Jahres.
+<sup>3</sup> Die Schwere des Verschuldens hängt insbesondere ab von
 
-<sup>4</sup> Bei einer Verletzung der Pflicht nach Artikel 56 entspricht der Betrag für das betreffende Jahr der Anzahl Rettungseinsätze multipliziert mit maximal zwölf Franken.
+- a der Bedeutung der Pflichtverletzung und
+- b den Umständen, die zur Pflichtverletzung geführt haben.
 
-<sup>5</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion passt die Beträge nach Absatz 2 und 4 jährlich dem Landesindex der Konsumentenpreise an.
+<sup>4</sup> Die Grösse des Leistungserbringers bemisst sich nach der Höhe seines Umsatzes. Massgebend ist in der Regel der Umsatz in den letzten fünf Jahren vor der Sanktionsverfügung.
+
+<sup>5</sup> …
 
 ### 3.4 Leistungsverträge
 
@@ -948,7 +995,10 @@ beschliesst:
 - c die Abgeltung von Leistungen, die für die eigene Trägerschaft erbracht werden,
 - d die geldwerten Leistungen der eigenen Trägerschaft.
 
-<sup>6</sup> Der Regierungsrat regelt die Einzelheiten zum genormten Betriebsaufwand und zur Berechnung der Beiträge an die Leistungserbringer durch Verordnung.
+<sup>6</sup> Der Regierungsrat
+
+- a regelt die Einzelheiten zum genormten Betriebsaufwand und zur Berechnung der Beiträge an die Leistungserbringer durch Verordnung,
+- b kann die Gesundheits-, Sozial- und Integrationsdirektion ermächtigen, den Betrag des genormten Betriebsaufwands in Abhängigkeit von den Kosten der Rettungsdienste neu festzulegen.
 
 #### Art. 101
 
@@ -1000,7 +1050,9 @@ beschliesst:
 
 **Pflicht**
 
-<sup>1</sup> Die in der Spitalversorgung und im Rettungswesen tätigen Leistungserbringer beteiligen sich an der praktischen Aus- und Weiterbildung in den vom Regierungsrat bezeichneten nichtuniversitären Gesundheitsberufen.
+<sup>1</sup> Die Leistungserbringer beteiligen sich an der praktischen Aus- und Weiterbildung in den vom Regierungsrat bezeichneten nichtuniversitären Gesundheitsberufen, indem sie ihre Aus- und Weiterbildungsplätze für im Kanton Bern gelegene schulische Bildungsanbieter bereitstellen.
+
+<sup>2</sup> Wenn im Kanton Bern Anbieter für einzelne Berufe fehlen oder nicht in der entsprechenden Amtssprache vorhanden sind, können die Leistungserbringer Plätze für ausserhalb des Kantons Bern gelegene Anbieter bereitstellen.
 
 #### Art. 107
 
@@ -1030,9 +1082,9 @@ beschliesst:
 
 **Abgeltung**
 
-<sup>1</sup> Der Leistungserbringer meldet der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion am Ende des Rechnungsjahres für jeden nichtuniversitären Gesundheitsberuf die Aus- und Weiterbildungswochen, die während des Rechnungsjahres erbracht worden sind.
+<sup>1</sup> Der Leistungserbringer meldet der zuständigen Stelle der Gesundheits- und Fürsorgedirektion am Ende des Rechnungsjahres für jeden nichtuniversitären Gesundheitsberuf die Aus- und Weiterbildungswochen, die während des Rechnungsjahres erbracht worden sind.
 
-<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion entrichtet dem Leistungserbringer die Abgeltung für die im Rechnungsjahr erbrachte Aus- und Weiterbildungsleistung. Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer nach KVG erhält, werden davon abgezogen.
+<sup>2</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion entrichtet dem Leistungserbringer die Abgeltung für die im Rechnungsjahr erbrachte Aus- und Weiterbildungsleistung. Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer nach KVG erhält, werden davon abgezogen.
 
 <sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann dem Leistungserbringer während des Rechnungsjahres periodische Vorschüsse auf der Grundlage der festgelegten Aus- und Weiterbildungsleistung ausrichten.
 
@@ -1044,17 +1096,22 @@ beschliesst:
 
 <sup>1</sup> Liegt die erbrachte Aus- und Weiterbildungsleistung des Leistungserbringers unter der festgelegten Aus- und Weiterbildungsleistung, hat der Leistungserbringer eine Ausgleichszahlung zu leisten.
 
-<sup>2</sup> Die Höhe der Ausgleichszahlung entspricht der dreifachen Differenz zwischen der Abgeltung für die festgelegte Aus- und Weiterbildungsleistung und der Abgeltung für die im Rechnungsjahr erbrachte Aus- und Weiterbildungsleistung.
+<sup>2</sup> Die Höhe der Ausgleichszahlung entspricht höchstens dem Betrag, der sich aus der Multiplikation folgender Faktoren ergibt:
 
-<sup>3</sup> Die Pflicht zur Ausgleichszahlung besteht erst, wenn ein Toleranzwert überschritten ist. Der Regierungsrat regelt die Einzelheiten zur Ausgleichszahlung und insbesondere die Höhe des Toleranzwerts durch Verordnung.
+- a Abgeltung für die festgelegte Aus- und Weiterbildungsleistung,
+- b dreifache prozentuale Differenz zwischen festgelegter und im Rechnungsjahr erbrachter Aus- und Weiterbildungsleistung.
 
-<sup>4</sup> Wird der Toleranzwert überschritten, wird auf eine Ausgleichszahlung verzichtet, wenn der Leistungserbringer nachweist, dass ihn kein Verschulden trifft.
+<sup>3</sup> Die Pflicht zur Ausgleichszahlung besteht erst, wenn ein Toleranzwert überschritten ist.
+
+<sup>4</sup> Bei einer Überschreitung des Toleranzwerts wird auf die Anordnung einer Ausgleichszahlung verzichtet, wenn der Leistungserbringer nachweist, dass ihn kein Verschulden trifft.
+
+<sup>5</sup> Der Regierungsrat regelt die Einzelheiten zur Ausgleichszahlung und insbesondere die Höhe des Toleranzwerts durch Verordnung.
 
 #### Art. 111
 
 **Delegation**
 
-<sup>1</sup> Der Regierungsrat kann seine Regelungskompetenzen im Bereich der nichtuniversitären Aus- und Weiterbildung durch Verordnung an die Gesundheits-, Sozial- und Integrationsdirektion übertragen.
+<sup>1</sup> Der Regierungsrat kann seine Regelungskompetenzen im Bereich der nichtuniversitären Aus- und Weiterbildung durch Verordnung an die Gesundheits- und Fürsorgedirektion übertragen.
 
 ### 4.3.2 Theoretische Aus- und Weiterbildung des Personals der Leistungserbringer
 
@@ -1064,7 +1121,7 @@ beschliesst:
 
 <sup>1</sup> Zur Sicherung des beruflichen Nachwuchses in den nichtuniversitären Gesundheitsberufen kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion den im Kanton Bern gelegenen Leistungserbringern Beiträge für die theoretische Aus- und Weiterbildung ihres Personals gewähren.
 
-<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion erstattet dem Regierungsrat jährlich Bericht. Sie gibt darin insbesondere Auskunft über die Höhe der gewährten Beiträge.
+<sup>2</sup> Die Gesundheits- und Fürsorgedirektion erstattet dem Regierungsrat jährlich Bericht. Sie gibt darin insbesondere Auskunft über die Höhe der gewährten Beiträge.
 
 #### Art. 113
 
@@ -1087,7 +1144,7 @@ beschliesst:
 <sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann Modellversuche durchführen oder im Rahmen der dafür bewilligten Ausgaben mit Beiträgen fördern, um neue oder veränderte Methoden, Konzepte, Regelungen, Formen oder Abläufe zu erproben
 
 - a in der Spitalversorgung, dem Rettungswesen oder in der Aus- und Weiterbildung sowie in deren Kooperationsfeldern,
-- b in den Kooperationsfeldern des Geltungsbereichs dieses Gesetzes sowie den Geltungsbereichen des Gesundheitsgesetzes vom 2. Dezember 1984 (GesG)[^115-1] und des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^115-2], soweit diese Modellversuche vor- und nachgelagerte Versorgungsbereiche betreffen.
+- b in den Kooperationsfeldern des Geltungsbereichs dieses Gesetzes sowie in den Geltungsbereichen des Gesundheitsgesetzes vom 2. Dezember 1984 (GesG)[^115-1] und des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^115-2] sowie des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^115-3], soweit diese Modellversuche vor- und nachgelagerte Versorgungsbereiche betreffen.
 
 <sup>2</sup> Für die Modellversuche gelten folgende Grundsätze:
 
@@ -1101,11 +1158,12 @@ beschliesst:
 
 <sup>5</sup> Der Grosse Rat wird in der Versorgungsplanung oder im besonderen Bericht über den Verlauf und die Ergebnisse der Modellversuche orientiert.
 
-<sup>6</sup> Der Regierungsrat kann zur Durchführung von Modellversuchen Versuchsverordnungen erlassen, die von diesem Gesetz abweichen. Artikel 44 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^115-3] ist anwendbar.
+<sup>6</sup> Der Regierungsrat kann zur Durchführung von Modellversuchen Versuchsverordnungen erlassen, die von diesem Gesetz abweichen. Artikel 44 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^115-4] ist anwendbar.
 
-[^115-1]: BSG 811.01
-[^115-2]: BSG 860.1
-[^115-3]: BSG 152.01
+[^115-1]: BSG [811.01](https://www.belex.sites.be.ch/data/811.01/de)
+[^115-2]: BSG [860.1](https://www.belex.sites.be.ch/data/860.1/de)
+[^115-3]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
+[^115-4]: BSG 152.01
 
 #### Art. 116
 
@@ -1173,6 +1231,16 @@ beschliesst:
 
 [^121-1]: SR 943.02
 
+#### Art. 121a
+
+**Nähere Bestimmungen**
+
+<sup>1</sup> Der Regierungsrat
+
+- a regelt die Einzelheiten zu den Bewilligungsvoraussetzungen nach Artikel 120 und 121 durch Verordnung,
+- b kann die Leistungserbringer verpflichten, zum Nachweis der Bewilligungsvoraussetzungen elektronische Messsysteme oder -programme zu verwenden,
+- c kann die Gesundheits-, Sozial- und Integrationsdirektion ermächtigen, die nach Buchstabe b zu verwendenden Messsysteme oder -programme zu bestimmen.
+
 #### Art. 122
 
 **Einschränkung der Betriebsbewilligung**
@@ -1229,24 +1297,32 @@ beschliesst:
 - d die Prüfung der Einhaltung von gesetzlichen Pflichten,
 - e die Prüfung der Erreichung von Zielen und Wirkungen der Leistungsverträge nach Artikel 8,
 - f die Prüfung der Abgeltung in den Leistungsverträgen nach Artikel 8,
-- g die Prüfung des Vergütungsanteils des Kantons nach Artikel 49a Absatz 1 KVG,
+- g die Prüfung des Vergütungsanteils des Kantons nach KVG und nach dem Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung (IVG)[^127-1],
 - h die Ausübung des Rückgriffrechts des Kantons nach Artikel 79a KVG.
 
-<sup>2</sup> Die Daten sind soweit zu anonymisieren, dass Rückschlüsse auf andere Personen als die Leistungserbringer ausgeschlossen sind.
+<sup>2</sup> Die Daten sind, sofern sie nicht zwingend für die Aufgabenerfüllung erforderlich sind, so weit zu anonymisieren, dass Rückschlüsse auf andere Personen als die Leistungserbringer ausgeschlossen sind.
 
-<sup>3</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung. Er kann insbesondere die Art und den Umfang der Daten sowie den Zeitpunkt der Datenlieferung näher regeln.
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung. Er kann die Gesundheits-, Sozial- und Integrationsdirektion ermächtigen, die Art und den Umfang der Daten sowie den Zeitpunkt der Datenlieferung näher zu regeln.
+
+[^127-1]: SR [831.20](https://db.clex.ch/link/Bund/831.20/de)
 
 #### Art. 128
 
-**2. Sanktion**
+**2. Verwaltungssanktionen**
 
-<sup>1</sup> Liefert ein Leistungserbringer die Daten nicht oder nicht nach den Vorgaben des Regierungsrates, erhebt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr einen Betrag von maximal zwölf Franken multipliziert mit
+<sup>1</sup> Liefert ein Leistungserbringer die Daten nicht oder nicht nach den Vorgaben des Regierungsrates, verfügt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr eine Verwaltungssanktion in Form einer Busse bis zu 500’000 Franken.
 
-- a der Anzahl stationärer Austritte bei Leistungserbringern der Akutsomatik.
-- b der Anzahl stationärer Pflegetage bei Leistungserbringern der Rehabilitation oder Psychiatrie,
-- c der Anzahl Rettungseinsätze bei Leistungserbringern des Rettungswesens.
+<sup>2</sup> Die Höhe der Busse richtet sich nach der Schwere des Verschuldens und der Grösse des Leistungserbringers.
 
-<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion passt den Betrag nach Absatz 1 jährlich dem Landesindex der Konsumentenpreise an.
+<sup>3</sup> Die Schwere des Verschuldens hängt insbesondere ab von
+
+- a der Anzahl der Nichtlieferungen,
+- b der Anzahl und der Dauer der verspäteten Lieferungen,
+- c den Umständen, die zur Pflichtverletzung geführt haben.
+
+<sup>4</sup> Die Grösse des Leistungserbringers bemisst sich nach der Höhe seines Umsatzes. Massgebend ist in der Regel der Umsatz in den letzten fünf Jahren vor der Sanktionsverfügung.
+
+<sup>5</sup> Die allfällige Verwaltungssanktion gegenüber einem Leistungserbringer fasst alle innerhalb eines Jahres erfolgten Verletzungen in einer Verfügung pro Jahr zusammen.
 
 #### Art. 129
 
@@ -1266,9 +1342,13 @@ beschliesst:
 
 **Datenschutz**
 
-<sup>1</sup> Leistungserbringer, denen kantonale Aufgaben übertragen sind, die Kommissionen nach Artikel 4 und die Ombudsstelle nach Artikel 5 unterstehen den Bestimmungen des kantonalen Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^130-1].
+<sup>1</sup> Die Bestimmungen des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^130-1] sind anwendbar auf
 
-[^130-1]: BSG 152.04
+- a die Kommissionen nach Artikel 4,
+- b die Ombudsstelle nach Artikel 5,
+- c die Leistungserbringer, soweit ihnen kantonale Aufgaben übertragen sind.
+
+[^130-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 ## 9 Mitwirkungs- und Meldepflichten
 

@@ -4,13 +4,13 @@ number: "812.11"
 title: Loi sur les soins hospitaliers
 short: LSH
 language: fr
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-16
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-09
 adopted: 2013-06-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2125/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2474/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2125/pdf_file"
 
 (LSH)
 
-du 13.06.2013 (état au 01.03.2021)
+du 13.06.2013 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -100,7 +100,11 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif approuve la planification des soins et en donne connaissance au Grand Conseil.
 
-<sup>2</sup> La planification des soins est en principe révisée tous les quatre ans.
+<sup>2</sup> La planification des soins est révisée périodiquement, après quatre ans au plus tôt et après dix ans au plus tard.
+
+<sup>3</sup> Elle peut être divisée en plusieurs domaines et être révisée de manière échelonnée.
+
+<sup>4</sup> Le Conseil-exécutif peut définir par voie d’ordonnance la périodicité de la révision ainsi que la division de la planification en plusieurs domaines.
 
 #### Art. 8
 
@@ -178,13 +182,13 @@ arrête:
 
 <sup>2</sup> Une entité juridique peut être désignée à la fois CHR et SPR. Les entités juridiques des hôpitaux universitaires peuvent également être désignées CHR et SPR.
 
-<sup>3</sup> Si la Fondation de l’Hôpital de l’Ile est désignée CHR ou SPR, le contrat avec l’Hôpital de l’Ile selon l’article 36 doit contenir les règles nécessaires. Les dispositions relatives à la forme juridique, à l’organisation et à la participation ne sont pas applicables.
+<sup>3</sup> Si la Fondation de l’Hôpital de l’Ile est désignée CHR ou SPR, il convient d’intégrer la réglementation requise dans le contrat avec l’Hôpital de l’Ile prévu à l’article 36. Les dispositions de la présente loi relatives à la forme juridique, à l’organisation et à la participation ne sont pas applicables.
 
 #### Art. 17
 
 **Liste des hôpitaux et des maisons de naissance 1. Mandats de prestations**
 
-<sup>1</sup> Le canton garantit la couverture des soins en attribuant aux fournisseurs de prestations, sur la base de la planification des soins, des mandats de prestations selon la liste des hôpitaux conformément à l’article 39 LAMal.
+<sup>1</sup> Le canton garantit la couverture en soins en attribuant aux fournisseurs de prestations, sur la base de la planification des soins, des mandats selon la liste des hôpitaux conformément à l’article 39 LAMal.
 
 <sup>2</sup> Le Conseil-exécutif arrête la liste des hôpitaux et des maisons de naissance par voie de décision conformément à l’article 8 de la loi du 6 juin 2000 portant introduction des lois fédérales sur l’assurance-maladie, sur l’assurance-accidents et sur l’assurance militaire (LiLAMAM)[^17-1].
 
@@ -200,7 +204,7 @@ arrête:
 
 <sup>3</sup> Il considère également en particulier
 
-- a l’offre de consultation sociale et la gestion administrative des patients selon l’article 52,
+- a l’offre de consultation sociale et la gestion administrative de la patientèle selon l’article 52,
 - b la mise à disposition d’une aumônerie hospitalière selon l’article 53.
 
 ### 2.2 Fournisseurs de prestations cantonaux
@@ -265,7 +269,7 @@ arrête:
 
 <sup>1</sup> Les CHR sont responsables de leur gestion.
 
-<sup>2</sup> Le canton s’efforce d’accorder aux CHR la marge de manoeuvre adéquate dans les limites fixées par le droit.
+<sup>2</sup> Le canton s’efforce d’accorder aux CHR la marge de manœuvre adéquate dans les limites fixées par le droit.
 
 <sup>3</sup> Les CHR mettent à profit leur marge de manœuvre.
 
@@ -375,7 +379,7 @@ arrête:
 
 <sup>1</sup> Les SPU sont gérés sous forme de sociétés anonymes selon les articles 620 ss CO. Ils poursuivent un but de service public au sens de la législation sur les impôts.
 
-<sup>2</sup> Le Conseil-exécutif prend, au nom du canton, les mesures nécessaires à l’aménagement des SPU en sociétés anonymes et à la participation du canton à ces dernières. Pour ce faire, il est en particulier autorisé à fonder, à dissoudre, à diviser ou à fusionner des sociétés anonymes ou à y prendre des participations ou à les vendre.
+<sup>2</sup> Le Conseil-exécutif prend, au nom du canton, les mesures nécessaires à l’aménagement des SPU en société anonyme et à la participation du canton à cette dernière. Pour ce faire, il est en particulier autorisé à fonder, à dissoudre, à diviser ou à fusionner des sociétés anonymes ou à y prendre des participations ou à les vendre.
 
 #### Art. 38
 
@@ -392,6 +396,17 @@ arrête:
 <sup>2</sup> Les hôpitaux universitaires et l’Université de Berne s’accordent des droits de représentation appropriés au sein de leurs organes de direction. Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance.
 
 <sup>3</sup> L’Université de Berne peut commander des prestations relevant de l’enseignement et de la recherche à d’autres fournisseurs de prestations si celles-ci sont plus avantageuses du point de vue des coûts ou nécessaires pour assurer la qualité de l’enseignement et de la recherche.
+
+### 2.2.4 Droits de superficie et contrats de bail
+
+#### Art. 39a
+
+<sup>1</sup> Dès lors que les SPR ou les SPU utilisent eux-mêmes directement des immeubles ou des constructions appartenant au canton à des fins opérationnelles et économiques, en les affectant aux soins hospitaliers, le canton
+
+- a ne prélève pas de rente du droit de superficie sur les contrats de droit de superficie existants;
+- b perçoit sur les baux à renouveler un loyer fixé sur la base de celui convenu par les parties dans le contrat portant sur les années 2017 à 2021.
+
+<sup>2</sup> Dans toute autre situation, le canton convient des rentes du droit de superficie et des loyers de cas en cas.
 
 ### 2.3 Autres organisations
 
@@ -415,7 +430,7 @@ arrête:
 
 **Arrêté du Grand Conseil**
 
-<sup>1</sup> Si la Direction de la santé, des affaires sociales et de l’intégration constate une augmentation du volume des prestations non justifiée du point de vue médical dans un domaine de soins, le Grand Conseil peut, sur proposition du Conseil-exécutif, charger la Direction de la santé, des affaires sociales et de l’intégration de prélever une taxe d’incitation.
+<sup>1</sup> Si la Direction de la santé, des affaires sociales et de l'intégration constate une augmentation du volume des prestations non justifiée du point de vue médical dans un domaine de soins, le Grand Conseil peut, sur proposition du Conseil-exécutif, la charger de prélever une taxe d’incitation.
 
 #### Art. 43
 
@@ -498,24 +513,46 @@ arrête:
 <sup>1</sup> Les hôpitaux répertoriés situés dans le canton de Berne publient un rapport sur le total des indemnités qu’ils ont versées aux groupes de personnes suivants:
 
 - a les membres de leur organe de gestion stratégique,
-- b les membres de leur direction,
-- c les cadres de leurs cliniques et des unités organisationnelles appartenant au même niveau hiérarchique.
+- b les membres de leur direction.
+- c …
 
-<sup>2</sup> Les hôpitaux répertoriés de sociétés oeuvrant dans plusieurs cantons mentionnent dans leur rapport les indemnités versées aux personnes occupant des postes analogues à ceux visés à l’alinéa 1.
+<sup>1a</sup> Les hôpitaux répertoriés précisent, dans le rapport sur les indemnités, le salaire versé au président ou à la présidente de la direction.
 
-<sup>3</sup> Sont réputées indemnités, par analogie, les indemnités figurant à l’article 663bbis, alinéa 2 CO.
+<sup>2</sup> Les hôpitaux répertoriés de sociétés œuvrant dans plusieurs cantons mentionnent dans leur rapport les indemnités versées aux personnes occupant des postes analogues à ceux visés à l’alinéa 1.
 
-<sup>4</sup> Les hôpitaux répertoriés publient en outre tous les prêts et crédits en cours consentis aux membres de leur organe de gestion stratégique et de leur direction.
+<sup>3</sup> Sont réputées indemnités, par analogie, les indemnités figurant à l’article 663b<sup>bis</sup>, alinéa 2 CO.
 
-<sup>5</sup> Les indications sur les indemnités et les crédits sont analogues à celles prévues par l’article 663bbis, alinéa 4 CO.
+<sup>4</sup> Les hôpitaux répertoriés publient en outre tous les prêts et crédits en cours consentis aux groupes de personnes visés à l'alinéa 1.
+
+<sup>5</sup> Les indications sur les indemnités et les crédits sont analogues à celles prévues par l’article 663b<sup>bis</sup>, alinéa 4 CO, sans mention du nom ni de la fonction des personnes visées à l’alinéa 1 et sous réserve des dispositions de l'alinéa 1a.
 
 <sup>6</sup> Les hôpitaux répertoriés publient le rapport sur les indemnités en annexe à leur bilan et sur leur site internet.
 
+#### Art. 51a
+
+**Salaires des médecins-chefs et des médecins-cheffes**
+
+<sup>1</sup> Les hôpitaux répertoriés situés dans le canton de Berne communiquent au service compétent de la Direction de la santé, des affaires sociales et de l’intégration les salaires des médecins-chefs et des médecins-cheffes qu’ils emploient, après avoir rendu les données anonymes.
+
+<sup>2</sup> Font partie du salaire
+
+- a les rémunérations fixes telles que, en particulier, le salaire annuel proprement dit, les allocations de fonction, les revenus de l’activité d’expertise et d’enseignement,
+- b les rémunérations variables telles que, en particulier, les honoraires, les bonifications, les notes de crédit, le paiement de garanties, les tantièmes, les participations, les droits de conversion et d’option, les primes d’embauche, les indemnités de départ, les cautionnements et les prêts,
+- c les cotisations de prévoyance professionnelle versées par l’hôpital répertorié et les contributions de ce dernier au rachat de cotisations auprès de son institution de prévoyance professionnelle.
+
+<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration publie chaque année sur internet la répartition des salaires par fourchettes.
+
+<sup>4</sup> Le Conseil-exécutif peut régler par voie d’ordonnance en particulier
+
+- a les éléments du salaire à communiquer,
+- b le cercle des personnes réputées médecin-chef ou médecin-cheffe,
+- c les fourchettes de salaires.
+
 #### Art. 52
 
-**Gestion administrative des patients et consultation sociale**
+**Gestion administrative de la patientèle et consultation sociale**
 
-<sup>1</sup> Les hôpitaux répertoriés situés dans le canton de Berne exploitent chacun un service de gestion administrative des patients ainsi qu’un service de consultation sociale ouvert aux patients et aux patientes et à leurs proches.
+<sup>1</sup> Les hôpitaux répertoriés situés dans le canton de Berne exploitent chacun un service de gestion administrative de la patientèle ainsi qu’un service de consultation sociale ouvert aux patients et aux patientes et à leurs proches.
 
 <sup>2</sup> Ces deux services assurent ensemble la coordination interne et externe à l’hôpital des prestations sociales, infirmières et médicales.
 
@@ -543,39 +580,46 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif définit par voie d’ordonnance le modèle de comptabilité analytique à appliquer.
 
+#### Art. 55a
+
+**Accouchement confidentiel**
+
+<sup>1</sup> Les hôpitaux répertoriés situés dans le canton de Berne qui bénéficient d’un mandat de prestations en obstétrique donnent à leurs patientes la possibilité de recourir, le cas échéant, à un accouchement confidentiel.
+
+<sup>2</sup> L'hôpital répertorié
+
+- a veille, par des mesures spécifiques, à ce que l’entourage de la mère ne soit pas mis au courant;
+- b fait connaître de manière appropriée la possibilité de l’accouchement confidentiel.
+
+<sup>3</sup> Le canton verse aux hôpitaux répertoriés un forfait par accouchement confidentiel destiné à couvrir les charges supplémentaires induites par l’obligation de discrétion.
+
+<sup>4</sup> Le Conseil-exécutif peut régler par voie d’ordonnance en particulier
+
+- a les mesures spécifiques à prendre pour garantir la confidentialité;
+- b l'étendue des prestations à fournir en cas d’accouchement confidentiel;
+- c le montant du forfait;
+- d les hôpitaux répertoriés dispensés de l’obligation de proposer l’accouchement confidentiel.
+
 #### Art. 56
 
-**Gestion du cycle de vie**
-
-<sup>1</sup> Les hôpitaux et les maisons de naissance répertoriés gèrent le cycle de vie de leur infrastructure.
-
-<sup>2</sup> Ils informent de cette gestion le service compétent de la Direction de la santé, des affaires sociales et de l’intégration et lui communiquent la part de la rémunération visée à l’article 49a LAMal imputée aux coûts d’investissement, déduction faite des coûts d’utilisation des immobilisations.
-
-<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration définit, d’entente avec les hôpitaux et les maisons de naissance répertoriés, les indicateurs de la gestion du cycle de vie à lui présenter, à quelle fréquence et sous quelle forme.
-
-<sup>4</sup> Le Conseil-exécutif règle les détails par voie d’ordonnance.
+**…**
 
 #### Art. 57
 
-**Sanctions**
+**Sanctions administratives**
 
-<sup>1</sup> En cas de violation partielle ou totale des obligations énoncées aux articles 49 à 56, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration prélève auprès du fournisseur de prestations pour l’année considérée un montant déterminé conformément aux alinéas 2 à 5.
+<sup>1</sup> En cas de violation partielle ou totale des obligations énoncées aux articles 49 à 55a par un fournisseur de prestations, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration lui inflige par voie de décision une sanction administrative pour l’année concernée sous la forme d’une amende pouvant atteindre 500'000 francs au plus.
 
-<sup>2</sup> En cas de violation de l’obligation énoncée à l’article 49, le montant prélevé pour l’année considérée correspond au maximum à 36 francs
+<sup>2</sup> Le montant de l’amende est proportionnel à la gravité de la faute et à la taille du fournisseur de prestations.
 
-- a par sortie hospitalière enregistrée dans le secteur des soins aigus somatiques,
-- b par journée de soins fournie en mode hospitalier dans les secteurs de la réadaptation et de la psychiatrie.
+<sup>3</sup> La gravité de la faute dépend en particulier
 
-<sup>3</sup> En cas de violation de l’obligation énoncée à l’article 50, le montant prélevé correspond au maximum à 0,1 pour cent de la masse salariale de l’année considérée soumise à cotisation selon la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^57-1].
+- a de l’importance de la violation des obligations et
+- b des circonstances qui ont mené à leur violation.
 
-<sup>4</sup> En cas de violation des obligations énoncées aux articles 52 à 56, le montant prélevé pour l’année considérée correspond au maximum à douze francs
+<sup>4</sup> La taille du fournisseur de prestations se mesure à l’aune de son chiffre d’affaires. Est déterminant, en règle générale, le chiffre d'affaires atteint durant les cinq années précédant la décision de sanction.
 
-- a par sortie hospitalière enregistrée dans le secteur des soins aigus somatiques,
-- b par journée de soins fournie en mode hospitalier dans les secteurs de la réadaptation et de la psychiatrie.
-
-<sup>5</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration adapte chaque année les montants maximaux prévus aux alinéas 2 et 4 à l’indice suisse des prix à la consommation.
-
-[^57-1]: RS 831.10
+<sup>5</sup> …
 
 ### 2.6 Financement
 
@@ -711,7 +755,7 @@ arrête:
 
 #### Art. 75
 
-**3.Dispositions complémentaires**
+**3. Dispositions complémentaires**
 
 <sup>1</sup> Le Conseil-exécutif règle par voie d’ordonnance les intérêts perçus sur les prêts et les modalités de leur remboursement.
 
@@ -739,18 +783,18 @@ arrête:
 
 <sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration exige le remboursement de la contribution aux restructurations selon l’article 70 et de la subvention aux investissements selon l’article 76 lorsque le ou la bénéficiaire
 
-- a a obtenu la contribution sur la base de données fausses ou incomplètes;
-- b n’utilise pas la contribution aux fins convenues;
-- c enfreint des charges ou des conditions liées à l’octroi de la contribution;
+- a a obtenu la contribution ou la subvention sur la base de données fausses ou incomplètes;
+- b n’utilise pas la contribution ou la subvention aux fins convenues;
+- c enfreint des charges ou des conditions liées à l’octroi de la contribution ou de la subvention;
 - d reçoit après coup des contributions aux investissements de tiers;
 - e modifie l’affectation de l’objet ou l’aliène;
-- f est rayé de la liste des hôpitaux ou des maisons de naissance.
+- f est rayée de la liste des hôpitaux ou des maisons de naissance.
 
 #### Art. 79
 
 **2. Calcul**
 
-<sup>1</sup> En cas de modification de l’affectation, d’aliénation ou de radiation de la liste des hôpitaux ou des maisons de naissance, le montant à rembourser est calculé en fonction du cycle de vie de l’infrastructure.
+<sup>1</sup> En cas de changement d'affectation, d’aliénation ou de radiation de la liste des hôpitaux ou des maisons de naissance, le montant à rembourser est calculé en fonction du cycle de vie de l’infrastructure.
 
 #### Art. 80
 
@@ -820,7 +864,7 @@ arrête:
 
 **Participation du canton**
 
-<sup>1</sup> L’organe cantonal compétent en matière d’autorisation de dépenses décide de la participation du canton aux services de sauvetage régionaux, si son engagement est nécessaire pour assurer des prestations de sauvetage suffisantes selon la planification des soins.
+<sup>1</sup> L’organe cantonal compétent en matière d’autorisation de dépenses décide de la participation du canton aux services de sauvetage régionaux, si l'engagement de ce dernier est nécessaire pour assurer des prestations de sauvetage suffisantes selon la planification des soins.
 
 <sup>2</sup> Lorsqu’il prend une participation, le canton détient la majorité du capital et des voix.
 
@@ -832,11 +876,11 @@ arrête:
 
 <sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut déléguer par voie de contrat de prestations des tâches relevant du sauvetage à d’autres services de sauvetage cantonaux, hors canton ou intercantonaux, en particulier à des services spécialisés dans le sauvetage aquatique et aérien.
 
-### 3.1.4 Organisation cantonale de sauvetage
+### 3.1.4
 
 #### Art. 88
 
-<sup>1</sup> Le Conseil-exécutif peut créer une organisation cantonale de sauvetage réunissant la centrale d’appels sanitaires urgents et les services de sauvetage régionaux.
+**…**
 
 ### 3.2 Gestion des ressources
 
@@ -850,9 +894,9 @@ arrête:
 
 #### Art. 90
 
-**Intervention**
+**Disponibilité à intervenir**
 
-<sup>1</sup> Les fournisseurs de prestations s’engagent à intervenir dans la mesure des prestations convenues.
+<sup>1</sup> Les fournisseurs de prestations garantissent leur disponibilité à intervenir dans la mesure des prestations convenues.
 
 #### Art. 91
 
@@ -862,9 +906,9 @@ arrête:
 
 #### Art. 92
 
-**Obligation de sauver**
+**Obligation de sauvetage**
 
-<sup>1</sup> Les services de sauvetage régionaux et les autres mandataires selon les articles 87 et 88 sont tenus de fournir les prestations de sauvetage sans discrimination, en particulier quels que soient l’âge, le sexe, l’origine ou la couverture d’assurance des personnes qui en bénéficient.
+<sup>1</sup> Les services de sauvetage régionaux et les autres mandataires selon l'article 87 sont tenus de fournir les prestations de sauvetage sans discrimination, en particulier quels que soient l’âge, le sexe, l’origine ou la couverture d’assurance des personnes qui en bénéficient.
 
 #### Art. 93
 
@@ -876,29 +920,30 @@ arrête:
 
 **Coordination avec les hôpitaux**
 
-<sup>1</sup> Les services de sauvetage régionaux et l’organisation cantonale de sauvetage coordonnent leur activité avec un ou plusieurs fournisseurs de soins aigus qui remplissent les conditions de prise en charge des urgences.
+<sup>1</sup> Les services de sauvetage régionaux coordonnent leur activité avec un ou plusieurs fournisseurs de soins aigus qui remplissent les conditions de prise en charge des urgences.
 
 #### Art. 95
 
 **Autres obligations**
 
-<sup>1</sup> L’article 50 pour l’ensemble des fournisseurs de prestations et l’article 56 pour ceux au sens des articles 84, 87 et 88 sont applicables par analogie.
+<sup>1</sup> L’article 50 est applicable par analogie à l'ensemble des fournisseurs de prestations.
 
 #### Art. 96
 
-**Sanctions**
+**Sanctions administratives**
 
-<sup>1</sup> En cas de violation partielle ou totale des obligations énoncées aux articles 92, 50 ou 56, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration prélève auprès du fournisseur de prestations concerné un montant déterminé conformément aux alinéas 2 à 5.
+<sup>1</sup> En cas de violation partielle ou totale des obligations énoncées aux articles 50 ou 92 par un fournisseur de prestations, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration lui inflige par voie de décision une sanction administrative pour l’année concernée sous la forme d’une amende pouvant atteindre 100'000 francs au plus.
 
-<sup>2</sup> En cas de violation des obligations énoncées à l’article 92, le montant prélevé correspond au nombre de sauvetages enregistrés durant l’année considérée multiplié au maximum par 36 francs.
+<sup>2</sup> Le montant de l’amende est proportionnel à la gravité de la faute et à la taille du fournisseur de prestations.
 
-<sup>3</sup> En cas de violation des obligations énoncées à l’article 50, le montant prélevé correspond au maximum à 0,1 pour cent de la masse salariale soumise à cotisation selon la LAVS[^96-1] durant l’année considérée.
+<sup>3</sup> La gravité de la faute dépend en particulier
 
-<sup>4</sup> En cas de violation des obligations énoncées à l’article 56, le montant prélevé correspond au nombre de sauvetages enregistrés durant l’année considérée multiplié au maximum par douze francs.
+- a de l’importance de la violation des obligations et
+- b des circonstances qui ont mené à leur violation.
 
-<sup>5</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration adapte les montants maximaux prévus aux alinéas 2 et 4 chaque année à l’indice suisse des prix à la consommation.
+<sup>4</sup> La taille du fournisseur de prestations se mesure à l’aune de son chiffre d’affaires. Est déterminant, en règle générale, le chiffre d'affaires atteint durant les cinq années précédant la décision de sanction.
 
-[^96-1]: RS 831.10
+<sup>5</sup> …
 
 ### 3.4 Contrats de prestations
 
@@ -950,7 +995,10 @@ arrête:
 - c l’indemnisation des prestations fournies pour l’organisme responsable du fournisseur de prestations,
 - d les prestations appréciables en argent de cet organisme.
 
-<sup>6</sup> Le Conseil-exécutif règle les détails du barème des coûts normatifs et du subventionnement des prestations par voie d’ordonnance.
+<sup>6</sup> Le Conseil-exécutif
+
+- a règle par voie d’ordonnance les modalités de détail concernant les coûts normatifs et le calcul des subventions aux fournisseurs de prestations;
+- b peut habiliter la Direction de la santé, des affaires sociales et de l’intégration à redéfinir le montant des coûts normatifs en fonction des charges des services de sauvetage.
 
 #### Art. 101
 
@@ -1002,7 +1050,9 @@ arrête:
 
 **Obligation**
 
-<sup>1</sup> Les fournisseurs de prestations du secteur hospitalier et du secteur du sauvetage participent à la formation et au perfectionnement pratiques dans les professions de la santé non universitaires désignées par le Conseil-exécutif.
+<sup>1</sup> Les fournisseurs de prestations participent à la formation et au perfectionnement pratiques dans les professions de la santé non universitaires désignées par le Conseil-exécutif en mettant des places à cet effet à la disposition d’instituts de formation situés dans le canton de Berne.
+
+<sup>2</sup> Ils peuvent mettre des places à la disposition d’instituts de formation situés dans un autre canton lorsque certaines filières ne sont pas proposées dans celui de Berne ou pas dans une langue officielle de ce dernier.
 
 #### Art. 107
 
@@ -1010,7 +1060,7 @@ arrête:
 
 <sup>1</sup> Chaque fournisseur établit une stratégie de formation.
 
-<sup>2</sup> La stratégie de formation indique les conditions requises en exploitation et les objectifs ainsi que les thèmes de la formation et du perfectionnement pratiques dans les professions de la santé non universitaires désignées par le Conseil-exécutif.
+<sup>2</sup> La stratégie de formation décrit les conditions d’exploitation requises ainsi que les objectifs et les grands axes de la formation et du perfectionnement pratiques dans les professions de la santé non universitaires désignées par le Conseil-exécutif.
 
 #### Art. 108
 
@@ -1020,21 +1070,21 @@ arrête:
 
 <sup>2</sup> Les consignes cantonales relatives au calcul du potentiel de formation prennent notamment en compte
 
-- a l’effectif du personnel du fournisseur de prestations exerçant une profession de la santé non universitaire;
+- a l’effectif du personnel du fournisseur de prestations dans les différentes professions de la santé non universitaires;
 - b la structure de l’entreprise du fournisseur de prestations;
 - c les prestations diagnostiques, thérapeutiques, infirmières et obstétriques du fournisseur de prestations dans les secteurs hospitalier et ambulatoire.
 
 <sup>3</sup> Le fournisseur de prestations peut organiser la formation et le perfectionnement lui-même ou en charger un autre fournisseur de prestations établi dans le canton de Berne.
 
-<sup>4</sup> Le Conseil-exécutif fixe la pondération applicable à chaque place de formation et de perfectionnement par voie d’ordonnance et édicte les consignes relatives au calcul du potentiel de formation des fournisseurs de prestations.
+<sup>4</sup> Le Conseil-exécutif fixe la pondération applicable à chaque type de formation et de perfectionnement par voie d’ordonnance et édicte les consignes relatives au calcul du potentiel de formation des fournisseurs de prestations.
 
 #### Art. 109
 
 **Indemnisation**
 
-<sup>1</sup> A la fin de l’exercice annuel, le fournisseur de prestations communique au service compétent de la Direction de la santé, des affaires sociales et de l’intégration, pour chaque profession de la santé non universitaire, le nombre de semaines de formation et de perfectionnement qui ont eu lieu pendant ledit exercice.
+<sup>1</sup> A la fin de l’exercice, le fournisseur de prestations communique au service compétent de la Direction de la santé, des affaires sociales et de l’intégration, pour chaque profession de la santé non universitaire, le nombre de semaines de formation et de perfectionnement accomplies pendant ledit exercice.
 
-<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration indemnise le fournisseur pour la prestation de formation et de perfectionnement réalisée pendant l’exercice annuel. Il déduit du montant versé les sommes que le fournisseur de prestations touche en vertu de la LAMal.
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration indemnise le fournisseur pour la prestation de formation et de perfectionnement réalisée pendant l’exercice. Il déduit du montant versé les sommes que le fournisseur de prestations touche pour la formation et le perfectionnement en vertu de la LAMal.
 
 <sup>3</sup> ll peut verser des avances périodiques au fournisseur de prestations durant l’exercice pour la formation et le perfectionnement convenus.
 
@@ -1046,17 +1096,22 @@ arrête:
 
 <sup>1</sup> Si la prestation de formation et de perfectionnement est inférieure au volume convenu, le fournisseur de prestations s’acquitte d’un versement compensatoire.
 
-<sup>2</sup> Le montant du versement compensatoire correspond à trois fois la différence entre l’indemnité prévue pour la formation et le perfectionnement et celle due pour la prestation effectivement fournie durant l’exercice annuel.
+<sup>2</sup> Le montant du versement compensatoire correspond au maximum au montant obtenu en multipliant les facteurs suivants:
 
-<sup>3</sup> L’obligation du versement compensatoire naît par le dépassement d’une marge de tolérance. Les détails relatifs au versement compensatoire et en particulier le montant de la marge de tolérance sont réglés par le Conseil-exécutif par voie d’ordonnance.
+- a l’indemnité prévue pour la prestation de formation et de perfectionnement convenue,
+- b trois fois la différence en pour cent entre la prestation de formation et de perfectionnement convenue et celle effectivement fournie durant l’exercice.
 
-<sup>4</sup> Si le fournisseur de prestations peut prouver qu’il n’est pas responsable du dépassement de la marge de tolérance, il est renoncé au versement compensatoire.
+<sup>3</sup> L’obligation du versement compensatoire naît uniquement en cas de dépassement d’une marge de tolérance.
+
+<sup>4</sup> Aucun versement compensatoire n'est exigé si le fournisseur de prestations peut prouver qu’il n’est pas responsable du dépassement de la marge de tolérance.
+
+<sup>5</sup> Le Conseil-exécutif règle par voie d’ordonnance les détails relatifs au versement compensatoire et en particulier le niveau de la marge de tolérance.
 
 #### Art. 111
 
 **Délégation de compétences**
 
-<sup>1</sup> Le Conseil-exécutif peut déléguer à la Direction de la santé, des affaires sociales et de l’intégration ses compétences concernant la réglementation de la formation et du perfectionnement dans les professions de la santé non universitaires par voie d’ordonnance.
+<sup>1</sup> Le Conseil-exécutif peut déléguer par voie d'ordonnance à la Direction de la santé, des affaires sociales et de l'intégration ses compétences concernant la réglementation de la formation et du perfectionnement dans les professions de la santé non universitaires.
 
 ### 4.3.2 Formation et perfectionnement théoriques du personnel des fournisseurs de prestations
 
@@ -1066,19 +1121,19 @@ arrête:
 
 <sup>1</sup> Afin de garantir la relève dans les professions de la santé non universitaires, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut octroyer aux fournisseurs de prestations établis dans le canton de Berne des subventions à la formation et au perfectionnement théoriques de leur personnel.
 
-<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration soumet un rapport annuel au Conseil-exécutif. Ce rapport porte en particulier sur le montant des subventions accordées.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration soumet au Conseil-exécutif un rapport annuel portant en particulier sur le montant des subventions octroyées.
 
 #### Art. 113
 
 **Conditions**
 
-<sup>1</sup> Des subventions peuvent être octroyées pour la formation et le perfectionnement du personnel du fournisseur de prestations quand il s’agit d’une profession de la santé non universitaire reconnue par le Conseil-exécutif, dont le besoin est attesté dans la planification cantonale des soins.
+<sup>1</sup> Des subventions peuvent être octroyées pour la formation et le perfectionnement du personnel du fournisseur de prestations quand il s’agit d’une profession de la santé non universitaire désignée par le Conseil-exécutif dont le besoin est attesté dans la planification cantonale des soins.
 
 #### Art. 114
 
 **Montant des subventions**
 
-<sup>1</sup> Les subventions couvrent les coûts de formation et de perfectionnement que les institutions qui les organisent facturent aux fournisseurs de prestations ou aux personnes engagées par ceux-ci.
+<sup>1</sup> Les subventions couvrent les coûts de formation et de perfectionnement que les instituts qui les organisent facturent aux fournisseurs de prestations ou aux personnes engagées par ceux-ci.
 
 ## 5. Essais pilotes et innovation médicale
 
@@ -1089,7 +1144,7 @@ arrête:
 <sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut réaliser ou, dans le cadre des dépenses autorisées, subventionner des essais pilotes destinés à tester des méthodes, stratégies, réglementations, formes ou procédures entièrement ou partiellement nouvelles
 
 - a dans les domaines des soins hospitaliers, du sauvetage, de la formation et du perfectionnement ainsi que dans leurs secteurs de coopération,
-- b dans les domaines à la jonction entre le champ d’application de la présente loi ainsi que de ceux de la loi du 2 décembre 1984 sur la santé publique (LSP)[^115-1] et de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^115-2], dès lors que les essais pilotes concernent la prise en charge en amont et en aval.
+- b dans les domaines à la jonction entre le champ d’application de la présente loi et ceux de la loi du 2 décembre 1984 sur la santé publique (LSP)[^115-1], de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^115-2],ainsi que de la loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^115-3], dès lors que les essais pilotes concernent la prise en charge en amont et en aval.
 
 <sup>2</sup> Les essais pilotes doivent respecter les principes suivants:
 
@@ -1103,11 +1158,12 @@ arrête:
 
 <sup>5</sup> Le Grand Conseil est informé du déroulement et des résultats des essais pilotes par la planification des soins ou le rapport spécifique.
 
-<sup>6</sup> Le Conseil-exécutif peut édicter des ordonnances exploratoires dérogeant à la présente loi pour la réalisation d’essais pilotes. L’article 44 de la loi du 20 juin 1995 sur l’organisation du Conseil-exécutif et de l’administration (loi d’organisation, LOCA)[^115-3] est applicable.
+<sup>6</sup> Le Conseil-exécutif peut édicter des ordonnances exploratoires dérogeant à la présente loi pour la réalisation d’essais pilotes. L’article 44 de la loi du 20 juin 1995 sur l’organisation du Conseil-exécutif et de l’administration (loi d’organisation, LOCA)[^115-4] est applicable.
 
-[^115-1]: RSB 811.01
-[^115-2]: RSB 860.1
-[^115-3]: RSB 152.01
+[^115-1]: RSB [811.01](https://www.belex.sites.be.ch/data/811.01/fr)
+[^115-2]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
+[^115-3]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
+[^115-4]: RSB 152.01
 
 #### Art. 116
 
@@ -1175,6 +1231,16 @@ arrête:
 
 [^121-1]: RS 943.02
 
+#### Art. 121a
+
+**Dispositions détaillées**
+
+<sup>1</sup> Le Conseil-exécutif
+
+- a règle par voie d’ordonnance les modalités de détail concernant les conditions d’autorisation énumérées aux articles 120 et 121;
+- b peut imposer aux fournisseurs de prestations l’usage de programmes ou systèmes de mesure informatiques pour attester le respect des conditions d’autorisation;
+- c peut habiliter la Direction de la santé, des affaires sociales et de l’intégration à définir les programmes ou systèmes de mesure à utiliser selon la lettre b.
+
 #### Art. 122
 
 **Restrictions à l’autorisation d’exploiter**
@@ -1223,7 +1289,7 @@ arrête:
 
 **Remise des données 1. Obligation**
 
-<sup>1</sup> Les fournisseurs de prestations remettent dans le délai imparti au service compétent de la Direction de la santé, des affaires sociales et de l’intégration toutes les données nécessaires pour
+<sup>1</sup> Les fournisseurs de prestations de soins hospitaliers et de sauvetage remettent dans le délai imparti au service compétent de la Direction de la santé, des affaires sociales et de l’intégration toutes les données nécessaires pour
 
 - a la planification des soins hospitaliers, la planification du sauvetage ainsi que les mesures requises pour garantir la relève professionnelle,
 - b le contrôle comparatif de la qualité,
@@ -1231,24 +1297,32 @@ arrête:
 - d la vérification du respect des obligations légales,
 - e la vérification de la réalisation des objectifs et des effets inscrits dans les contrats de prestations selon l’article 8,
 - f la vérification de l’indemnité inscrite dans les contrats de prestations selon l’article 8,
-- g la vérification de la part cantonale de la rémunération selon l’article 49a, alinéa 1 LAMal,
+- g la vérification de la part cantonale de la rémunération selon la LAMal et selon la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^127-1],
 - h l’exercice du droit de recours du canton selon l’article 79a LAMal.
 
-<sup>2</sup> Les données sont rendues anonymes afin d’exclure tout recoupement avec d’autres personnes que les fournisseurs de prestations.
+<sup>2</sup> A moins que des informations nominatives soient indispensables à l’accomplissement des tâches, les données sont rendues anonymes afin d’exclure tout recoupement avec d’autres personnes que les fournisseurs de prestations.
 
-<sup>3</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance. Il peut notamment préciser la nature et le volume des données ainsi que la date de remise.
+<sup>3</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance. Il peut habiliter la Direction de la santé, des affaires sociales et de l’intégration à préciser la nature et le volume des données ainsi que la date de remise.
+
+[^127-1]: RS [831.20](https://db.clex.ch/link/Bund/831.20/fr)
 
 #### Art. 128
 
-**2. Sanction**
+**2. Sanctions administratives**
 
-<sup>1</sup> Si un fournisseur de prestations ne communique pas les données requises ou ne respecte pas les consignes du Conseil-exécutif en la matière, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration perçoit de sa part un montant de douze francs au maximum
+<sup>1</sup> Si un fournisseur de prestations ne remet pas les données requises ou ne respecte pas les consignes du Conseil-exécutif en la matière, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration lui inflige par voie de décision une sanction administrative pour l’année concernée sous la forme d’une amende pouvant atteindre 500'000 francs au plus.
 
-- a par sortie hospitalière enregistrée l’année considérée dans le secteur des soins aigus,
-- b par journée de soins en mode hospitalier fournie l’année considérée dans les secteurs de la réadaptation ou de la psychiatrie,
-- c par intervention enregistrée l’année considérée dans le secteur du sauvetage.
+<sup>2</sup> Le montant de l’amende est proportionnel à la gravité de la faute et à la taille du fournisseur de prestations.
 
-<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration adapte chaque année le montant selon l’alinéa 1 à l’indice suisse des prix à la consommation.
+<sup>3</sup> La gravité de la faute dépend en particulier
+
+- a du nombre de remises manquantes,
+- b du nombre de remises hors délai et de la durée du retard,
+- c des circonstances qui ont mené à la violation de l’obligation.
+
+<sup>4</sup> La taille du fournisseur de prestations se mesure à l’aune de son chiffre d’affaires. Est déterminant, en règle générale, le chiffre d'affaires atteint durant les cinq années précédant la décision de sanction.
+
+<sup>5</sup> Les éventuelles sanctions administratives prononcées contre un fournisseur de prestations concernant plusieurs violations de l’obligation de remettre des données commises durant une année font l’objet d’une seule et même décision annuelle.
 
 #### Art. 129
 
@@ -1268,9 +1342,13 @@ arrête:
 
 **Protection des données**
 
-<sup>1</sup> Les fournisseurs de prestations auxquels des tâches cantonales sont déléguées, les commissions au sens de l’article 4 et l’organe de médiation au sens de l’article 5 sont soumis aux dispositions de la loi cantonale du 19 février 1986 sur la protection des données (LCPD)[^130-1].
+<sup>1</sup> Les dispositions de la loi cantonale du 19 février 1986 sur la protection des données (LCPD)[^130-1] s'appliquent
 
-[^130-1]: RSB 152.04
+- a aux commissions au sens de l’article 4,
+- b à l’organe de médiation au sens de l’article 5,
+- c aux fournisseurs de prestations, dans la mesure où des tâches cantonales leur sont déléguées.
+
+[^130-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
 ## 9 Obligation de collaborer et d’informer
 
