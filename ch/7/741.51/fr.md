@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2021-07-07
+version: 2022-01-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20210707/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20210707-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210707/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210707/fr"
 
 (Ordonnance réglant l’admission à la circulation routière,**[^t-1]** OAC)
 
-du 27 octobre 1976 (Etat le 7 juillet 2021)
+du 27 octobre 1976 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -294,14 +294,14 @@ L’autorité cantonale procède à la reconnaissance de médecins pour des exam
 
 Les médecins qui souhaitent procéder à des examens de niveau 1 sont reconnus:
 
-- a. s’ils possèdent un titre postgrade fédéral ou un titre postgrade étranger reconnu; et
+- a. s’ils possèdent un titre postgrade fédéral ou un titre postgrade étranger reconnu, et
 - b. s’ils disposent des connaissances et des aptitudes visées à l’annexe 1<sup>bis</sup>, ce qu’ils attestent à l’autorité cantonale.
 
 <sup>2</sup>
 
 Les médecins qui souhaitent procéder à des examens de niveau 2 sont reconnus:
 
-- a. s’ils ont obtenu la reconnaissance de niveau 1; et
+- a. s’ils ont obtenu la reconnaissance de niveau 1, et
 - b. s’ils ont suivi les modules 4 et 5 de la formation continue en médecine du trafic de la SSML.
 
 <sup>3</sup>
@@ -420,7 +420,7 @@ Les médecins utilisent, pour communiquer les résultats d’examen à l’autor
 
 #### Art. 6
 
-**Age minimal**
+**Âge minimal**
 
 <sup>1</sup>
 
@@ -472,7 +472,7 @@ L’autorité cantonale peut:
 [^6-3]: Introduite par le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-4]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 [^6-5]: Introduite par le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^6-6]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^6-6]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 (RO **201****9** 191).
 [^6-7]: Abrogé par le ch. I de l’O du 15 juin 2007, avec effet au 1<sup>er</sup> sept. 2009 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 [^6-8]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Abrogé par le ch. I de l’O du 15 juin 2007, avec effet au 1<sup>er</sup> sept. 2009 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
 [^6-9]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
@@ -490,7 +490,7 @@ L’autorité cantonale peut:
 
 <sup>3</sup> L’autorité cantonale peut déroger aux exigences médicales minimales si le requérant possède l’aptitude à la conduite au sens de l’art. 14, al. 2, LCR et qu’un médecin ayant obtenu la reconnaissance de niveau 4 le confirme.[^7-2]
 
-[^7-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^7-1]: Introduit par le ch. I de l’O du 1<sup>e</sup><sup>r</sup> juil. 2015 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)). Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
 #### Art. 8
@@ -503,7 +503,7 @@ L’autorité cantonale peut:
 
 L’obligation d’avoir conduit des voitures automobiles selon les exigences de l’al. 1 ne concerne pas les candidats qui ont suivi avec succès la formation minimale décrite à l’al. 2<sup>bis</sup> et qui ont conduit:
 
-- a. une voiture automobile de la catégorie C ou un trolleybus pendant trois mois au moins; ou
+- a. une voiture automobile de la catégorie C ou un trolleybus pendant trois mois au moins, ou
 - b. des voitures automobiles de la catégorie B régulièrement pendant deux ans au moins.[^8-2]
 
 <sup>2bis</sup> La formation minimale doit permettre à l’élève conducteur d’apprendre à manier correctement le véhicule et à acquérir les automatismes nécessaires. Elle a en outre pour but de le rendre capable de conduire de manière conviviale et de circuler en toute autonomie sans mettre en danger les autres usagers de la route. Elle doit être suivie auprès d’un moniteur autorisé à enseigner la conduite d’un véhicule automobile ou d’une combinaison de véhicules des catégories C, D, CE et DE ainsi que des sous-catégories C1, D1, C1E et D1E et titulaire d’un permis de conduire de la catégorie D.[^8-3]
@@ -544,7 +544,7 @@ Les candidats au permis de conduire de la sous-catégorie D1 doivent avoir condu
 
 Avant de déposer une demande de permis d’élève conducteur, de permis de conduire ou d’autorisation de transporter des personnes à titre professionnel, le candidat doit avoir effectué un examen sommaire des facultés visuelles auprès:
 
-- a. d’un médecin titulaire d’un diplôme fédéral ou d’un diplôme étranger reconnu qui exerce son activité en Suisse; ou
+- a. d’un médecin titulaire d’un diplôme fédéral ou d’un diplôme étranger reconnu qui exerce son activité en Suisse, ou
 - b. d’un opticien diplômé qui exerce son activité en Suisse.
 
 <sup>2</sup> Le contrôle portera sur l’acuité visuelle, le champ visuel et la mobilité des yeux (diplopie).
@@ -569,7 +569,7 @@ Avant de déposer une demande de permis d’élève conducteur, de permis de con
 Le cours de premiers secours aux blessés porte sur:
 
 - a. les instructions concernant les mesures de sécurité à prendre sur les lieux d’un accident et sur la façon d’alerter les services de sauvetage;
-- b. les connaissances relatives aux mesures à prendre jusqu’à l’intervention du médecin afin de maintenir les fonctions physiologiques nécessaires à la survie; et
+- b. les connaissances relatives aux mesures à prendre jusqu’à l’intervention du médecin afin de maintenir les fonctions physiologiques nécessaires à la survie, et
 - c. les connaissances concernant notamment la position correcte des blessés, la respiration artificielle pour les blessés qui ne respirent plus, la manière d’arrêter les hémorragies graves et les rudiments des massages cardiaques.
 
 <sup>4</sup> L’organisation et le programme des cours de premiers secours aux blessés ainsi que les exigences imposées aux instructeurs doivent être approuvés par l’OFROU.
@@ -606,7 +606,7 @@ Toute personne désirant obtenir un permis d’élève conducteur, un permis de 
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^11-3]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^11-3]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 (RO **2****015** 2599).
 
 #### Art. 11a
 
@@ -784,7 +784,7 @@ Les autorisations et conditions suivantes doivent être mentionnées dans le per
 <sup>6</sup> Tout transport professionnel de personnes est exclu lors des courses d’apprentissage.
 
 [^17-1]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
-[^17-2]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 (RO **20****03** 3719).
 [^17-3]: Introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 
 #### Art. 17a
@@ -830,7 +830,7 @@ Les autorisations et conditions suivantes doivent être mentionnées dans le per
 <sup>4</sup> Le moniteur de conduite doit attester par écrit que l’élève motocycliste a suivi l’instruction pratique de base et atteint les objectifs des cours.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^19-2]: Phrase introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^19-2]: Phrase introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>e</sup><sup>r</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^19-3]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 #### Art. 19a
@@ -889,7 +889,7 @@ Ne sont pas soumis à l’examen pratique:
 <sup>4</sup> S’il s’avère que lors de l’examen pratique le candidat connaît insuffisamment les règles de la circulation, l’autorité d’admission ordonne un nouvel examen portant sur la théorie de base.
 
 [^22-1]: Introduit par le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^22-2]: Introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
+[^22-2]: Introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 (RO **20****03** 3719).
 
 #### Art. 23
 
@@ -970,7 +970,7 @@ Lors de l’inscription dans le permis de conduire de conditions, de restriction
 
 #### Art. 24e
 
-**Elimination des conditions, des restrictions et des autres indications complémentaires**[^24e-1]
+**Élimination des conditions, des restrictions et des autres indications complémentaires**[^24e-1]
 
 <sup>1</sup> L’autorité compétente lève les conditions et les restrictions si le titulaire du permis remplit les conditions nécessaires pour conduire sans restriction des véhicules de la catégorie, de la sous-catégorie ou de la catégorie spéciale correspondante.
 
@@ -1014,7 +1014,7 @@ Lors de l’inscription dans le permis de conduire de conditions, de restriction
 L’autorité d’admission délivre, sur demande, un permis de conduire dont la durée de validité est limitée à cinq ans au maximum:
 
 - a. en remplacement d’un permis de conduire suisse égaré, délivré sur la base de l’art. 42, al. 3<sup>bis</sup>, let. b;
-- b. en remplacement d’un permis de conduire suisse égaré, si le nouveau pays de domicile ne reconnaît pas l’attestation visée à l’al. 2 comme un justificatif des autorisations de conduire obtenues en Suisse; ou
+- b. en remplacement d’un permis de conduire suisse égaré, si le nouveau pays de domicile ne reconnaît pas l’attestation visée à l’al. 2 comme un justificatif des autorisations de conduire obtenues en Suisse, ou
 - c. en remplacement d’un permis de conduire suisse égaré ou arrivé à échéance, si le nouveau pays de domicile a reconnu celui-ci comme un justificatif d’autorisations de conduire équivalentes à celles qu’il a délivrées, sans établir un permis de conduire national; un permis de conduire à l’essai échu ne peut être remplacé que si son titulaire a suivi la formation complémentaire prescrite dans le droit suisse.
 
 [^24h-1]: Introduit par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
@@ -1025,7 +1025,7 @@ L’autorité d’admission délivre, sur demande, un permis de conduire dont la
 
 **Autorisation**
 
-<sup>1</sup> Pour transporter professionnellement des personnes (art. 3, al. 1<sup>bis</sup>, OTR 2[^25-1]) avec des véhicules des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F, une autorisation de transporter des personnes à titre professionnel est nécessaire. Une telle autorisation n’est pas nécessaire pour les vélos-taxis électriques, même si ces derniers sont conduits avec un permis de conduire des catégories B et F.[^25-2]
+<sup>1</sup> Pour transporter professionnellement des personnes (art. 3, al. 1<sup>b</sup><sup>is</sup>, OTR 2[^25-1]) avec des véhicules des catégories B ou C, des sous-catégories B1 ou C1 ou de la catégorie spéciale F, une autorisation de transporter des personnes à titre professionnel est nécessaire. Une telle autorisation n’est pas nécessaire pour les vélos-taxis électriques, même si ces derniers sont conduits avec un permis de conduire des catégories B et F.[^25-2]
 
 <sup>2</sup>
 
@@ -1044,7 +1044,7 @@ L’autorisation de transporter des personnes à titre professionnel n’est pas
 
 L’autorisation de transporter des personnes à titre professionnel est accordée au titulaire d’un permis de conduire de la catégorie B, de la sous-catégorie B1 ou de la catégorie spéciale F lorsque le candidat peut prouver:
 
-- a. lors d’un examen théorique complémentaire, qu’il connaît la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes; le candidat qui désire effectuer uniquement des courses visées à l’art. 4, al. 1, let. a, b ou c, OTR 2 n’est pas tenu de passer cet examen; et
+- a. lors d’un examen théorique complémentaire, qu’il connaît la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes; le candidat qui désire effectuer uniquement des courses visées à l’art. 4, al. 1, let. a, b ou c, OTR 2 n’est pas tenu de passer cet examen, et
 - b. lors d’un examen pratique complémentaire, qu’il est capable de transporter des personnes dans un véhicule automobile de la catégorie, sous-catégorie ou catégorie spéciale correspondante sans les mettre en danger, même dans des situations de trafic difficiles.[^25-4]
 
 <sup>4</sup> L’autorisation d’effectuer des transports professionnels de personnes sera accordée sans autre examen au titulaire d’un permis de conduire de la catégorie D ou de la sous-catégorie D1.
@@ -1299,7 +1299,7 @@ Le permis d’élève conducteur ou le permis de conduire peut être retiré à 
 
 [^lvl1-lvl13-lvl132-1]
 
-[^lvl1-lvl13-lvl132-1]: Anciennement avant art. 30. Nouvelle teneur selon le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> déc. 2005 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^lvl1-lvl13-lvl132-1]: Anciennement avant art. 30. Nouvelle teneur selon le ch. I de l’O du 27 oct. 2004, en vigueur depuis le 1<sup>er</sup> déc. 2005 (RO **200****4** 5057).
 
 #### Art. 31
 
@@ -1531,10 +1531,10 @@ Sont tenus d’obtenir un permis de conduire suisse:
 
 <sup>3ter</sup>
 
-Ne sont pas tenues d’obtenir un permis de conduire suisse les personnes bénéficiaires de privilèges, d’immunités et de facilités visées à l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’Etat hôte[^42-9], à condition:
+Ne sont pas tenues d’obtenir un permis de conduire suisse les personnes bénéficiaires de privilèges, d’immunités et de facilités visées à l’art. 2, al. 2, de la loi du 22 juin 2007 sur l’État hôte[^42-9], à condition:
 
 - a. qu’elles soient titulaires d’un permis de conduire national valable;
-- b. qu’elles ne possèdent pas la nationalité suisse ou n’aient pas eu leur résidence permanente en Suisse avant d’entrer en fonctions; et
+- b. qu’elles ne possèdent pas la nationalité suisse ou n’aient pas eu leur résidence permanente en Suisse avant d’entrer en fonctions, et
 - c. qu’elles soient titulaires d’une carte de légitimation établie par le Département fédéral des affaires étrangères qui atteste qu’elles jouissent de l’immunité de juridiction.[^42-10]
 
 <sup>4</sup> Ne peut pas être utilisé en Suisse le permis de conduire étranger que le conducteur a obtenu en éludant les dispositions de la présente ordonnance concernant l’obtention du permis de conduire suisse ou les règles de compétence valables dans son pays de domicile.
@@ -1545,14 +1545,14 @@ Ne sont pas tenues d’obtenir un permis de conduire suisse les personnes béné
 [^42-4]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^42-5]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 [^42-6]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^42-7]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^42-7]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 (RO **20****02** 3259).
 [^42-8]: Introduit par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^42-9]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^42-10]: Introduit par l’annexe ch. 11 de l’O du 7 déc. 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 43
 
-**Age minimal**
+**Âge minimal**
 
 <sup>1</sup> Les permis de conduire étrangers ne peuvent être utilisés en Suisse que par des personnes ayant atteint l’âge minimal requis dans la présente ordonnance pour les conducteurs suisses. Pour la conduite non accompagnée de voitures automobiles de la catégorie B, l’âge minimal requis est de 18 ans.[^43-1]
 
@@ -1573,7 +1573,7 @@ Ne sont pas tenues d’obtenir un permis de conduire suisse les personnes béné
 
 <sup>3</sup> Les conducteurs de cyclomoteurs, de motocycles légers, de véhicules automobiles agricoles et forestiers et de véhicules automobiles de travail en provenance de l’étranger qui désirent obtenir le permis de conduire suisse doivent passer un examen de conduite s’ils ne sont pas titulaires d’un permis étranger correspondant.
 
-<sup>4</sup> Lorsqu’elles délivrent un permis de conduire suisse, les autorités exigent la remise des permis délivrés par des Etats de l’UE ou de l’AELE et les renvoient à l’autorité d’émission. Elles inscrivent dans les permis délivrés par d’autres Etats qu’ils ne sont pas valables en Suisse. Le contenu des permis étrangers sera enregistré.
+<sup>4</sup> Lorsqu’elles délivrent un permis de conduire suisse, les autorités exigent la remise des permis délivrés par des États de l’UE ou de l’AELE et les renvoient à l’autorité d’émission. Elles inscrivent dans les permis délivrés par d’autres États qu’ils ne sont pas valables en Suisse. Le contenu des permis étrangers sera enregistré.
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^44-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
@@ -1588,7 +1588,7 @@ Ne sont pas tenues d’obtenir un permis de conduire suisse les personnes béné
 
 Le permis de conduire suisse n’est pas délivré à l’essai aux titulaires d’un permis des catégories A ou B:
 
-- a. délivré avant le 1<sup>er</sup> décembre 2005; ou
+- a. délivré avant le 1<sup>er</sup> décembre 2005, ou
 - b. délivré à partir du 1<sup>er</sup> décembre 2005 et valable depuis un an au moins au moment où l’intéressé a élu domicile en Suisse.
 
 [^44a-1]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
@@ -1616,8 +1616,8 @@ Le permis de conduire étranger dont l’usage a été interdit sera déposé au
 
 L’interdiction de faire usage du permis, fondée sur le fait que les règles suisses ou étrangères de compétence ont été éludées, devient caduque si le titulaire du permis prouve que, depuis lors, il a:
 
-- a. été domicilié pendant au moins trois mois dans l’Etat qui a délivré le permis dont l’usage lui a été interdit; ou
-- b. obtenu un permis valable dans le nouvel Etat de domicile.[^45-2]
+- a. été domicilié pendant au moins trois mois dans l’État qui a délivré le permis dont l’usage lui a été interdit, ou
+- b. obtenu un permis valable dans le nouvel État de domicile.[^45-2]
 
 <sup>7</sup> Tout retrait de permis de conduire étranger, prononce par des autorités étrangères, sera exécuté si l’OFROU en dispose ainsi.
 
@@ -1707,7 +1707,7 @@ La formation doit rendre le candidat capable:
 
 Pour obtenir le certificat de compétence, le candidat doit:
 
-- a. démontrer, lors d’un examen écrit, qu’il est capable de dispenser l’enseignement théorique et pratique à des groupes de personnes diversement constitués; et
+- a. démontrer, lors d’un examen écrit, qu’il est capable de dispenser l’enseignement théorique et pratique à des groupes de personnes diversement constitués, et
 - b.[^64d-1] animer à titre d’essai une formation complémentaire couvrant l’ensemble des matières.
 
 <sup>2</sup> Le résultat de l’examen doit être communiqué au candidat par écrit, avec indication de la note globale. En cas d’échec, il convient d’indiquer les voies de recours. Le résultat de l’examen doit être communiqué au canton de domicile du candidat.
@@ -1725,7 +1725,7 @@ Pour obtenir le certificat de compétence, le candidat doit:
 
 L’autorisation est limitée à trois ans. Sa durée de validité est prolongée de trois ans à chaque fois si le titulaire de l’autorisation atteste que pendant les trois années écoulées il a:
 
-- a. dispensé durant au moins 30 jours des cours de formation complémentaire aux titulaires d’un permis de conduire à l’essai; et
+- a. dispensé durant au moins 30 jours des cours de formation complémentaire aux titulaires d’un permis de conduire à l’essai, et
 - b. suivi deux cours de perfectionnement pour animateurs d’une journée entière.
 
 <sup>2</sup> Les cantons fixent, d’entente avec l’OFROU, les exigences requises pour les organisateurs et le contenu des cours de perfectionnement pour animateurs.
@@ -1824,7 +1824,7 @@ L’expert de la circulation chargé des examens de conduite et des contrôles d
 
 La réussite d’un examen partiel au sens de l’art. 67, al. 1<sup>bis</sup>, leur donne déjà le droit, pendant la formation, de procéder en toute autonomie à des examens de conduite ou à des contrôles de véhicules:
 
-- a. si les compétences attestées lors de l’examen partiel les y habilitent; et
+- a. si les compétences attestées lors de l’examen partiel les y habilitent, et
 - b. si, ce faisant, ils sont encadrés de manière adéquate par un formateur.
 
 [^68a-1]: Introduit par le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
@@ -1884,7 +1884,7 @@ Le permis de circulation et les plaques seront délivrés:
 [^71-5]: Introduite par le ch. II de l’O du 7 mars 2008, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^71-6]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^71-7]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 1996 sur l’imposition des véhicules automobiles, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^71-8]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^71-8]: RS **741****.****41**
 [^71-9]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^71-10]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^71-11]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
@@ -1998,14 +1998,14 @@ Le canton de stationnement du véhicule délivre le permis de circulation au dé
 
 <sup>4</sup> Les rapports d’expertise ou leur contenu, ainsi que les renseignements techniques annexés doivent être conservés par l’autorité pendant quinze ans à dater de la première mise en circulation des véhicules.
 
-<sup>5</sup> En accord avec les cantons, l’autorité compétente du Département fédéral de la défense, de la protection de la population et des sports(DDPS) et l’administration des douanes[^75-6], l’OFROU définit le contenu du rapport d’expertise et publie des instructions sur la manière de le remplir.[^75-7]
+<sup>5</sup> En accord avec les cantons, l’autorité compétente du Département fédéral de la défense, de la protection de la population et des sports(DDPS) et l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^75-6], l’OFROU définit le contenu du rapport d’expertise et publie des instructions sur la manière de le remplir.[^75-7]
 
 [^75-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 [^75-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^75-3]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^75-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^75-5]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^75-6]: Nouvelle expression selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Il a été tenu compte de cette mod. dans tout le texte.
+[^75-6]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 [^75-7]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 2003, en vigueur depuis le 1<sup>er</sup> oct. 2003 ([RO 2003 3373](https://fedlex.data.admin.ch/eli/oc/2003/470)).
 
 #### Art. 76
@@ -2016,7 +2016,7 @@ Le canton de stationnement du véhicule délivre le permis de circulation au dé
 
 <sup>2</sup> Le droit d’utiliser en Suisse un véhicule n’ayant pas fait l’objet d’un placement sous régime douanier ou non imposé doit se fonder sur une autorisation des autorités douanières.
 
-<sup>3</sup> L’administration des douanes indique aux autorités d’immatriculation les genres de véhicules pour lesquels l’attestation du placement sous régime douanier ou de l’imposition au sens de l’al. 1 ou l’autorisation au sens de l’al. 2 ne sont pas nécessaires.
+<sup>3</sup> L’OFDF indique aux autorités d’immatriculation les genres de véhicules pour lesquels l’attestation du placement sous régime douanier ou de l’imposition au sens de l’al. 1 ou l’autorisation au sens de l’al. 2 ne sont pas nécessaires.
 
 [^76-1]: Nouvelle teneur selon l’annexe 4 ch. 35 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^76-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
@@ -2245,7 +2245,7 @@ Le sigle «CD» est destiné:
 
 - a. aux véhicules de service des missions diplomatiques et aux véhicules automobiles des membres du personnel diplomatique de ces missions;
 - b.[^86-1] aux véhicules de service des missions permanentes ou autres représentations auprès des organisations intergouvernementales et aux véhicules automobiles des membres du personnel diplomatique de ces missions;
-- c.[^86-2] aux véhicules de service des bénéficiaires institutionnels de privilèges, d’immunités et de facilités visés à l’art. 2, al. 1, let. a, b, i, j, k, l et m, de la loi du 22 juin 2007 sur l’Etat hôte[^86-3] et aux véhicules automobiles des fonctionnaires les plus haut placés de ces bénéficiaires institutionnels qui jouissent en Suisse du statut diplomatique.
+- c.[^86-2] aux véhicules de service des bénéficiaires institutionnels de privilèges, d’immunités et de facilités visés à l’art. 2, al. 1, let. a, b, i, j, k, l et m, de la loi du 22 juin 2007 sur l’État hôte[^86-3] et aux véhicules automobiles des fonctionnaires les plus haut placés de ces bénéficiaires institutionnels qui jouissent en Suisse du statut diplomatique.
 
 <sup>2</sup> Le sigle «CC» est destiné aux véhicules de service des postes consulaires dirigés par un agent de carrière et aux véhicules automobiles des fonctionnaires consulaires de carrière.
 
@@ -2269,7 +2269,7 @@ Le sigle «CD» est destiné:
 
 <sup>4</sup> Les plaques munies du sigle «CD», «CC» et «AT» sont délivrées en accord avec le Département fédéral des affaires étrangères.
 
-<sup>5</sup> A l’exception des plaques destinées à l’immatriculation provisoire, les plaques restent la propriété de l’autorité.
+<sup>5</sup> À l’exception des plaques destinées à l’immatriculation provisoire, les plaques restent la propriété de l’autorité.
 
 [^87-1]: Nouvelle teneur selon le ch. I 17 de l’O du 15 oct. 2008 sur les adaptations découlant de la loi fédérale sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
@@ -2358,7 +2358,7 @@ Le permis de circulation est délivré:
 
 <sup>3</sup> Les cantons remettent aux constructeurs ou importateurs le nombre de permis de circulation correspondant à celui des cyclomoteurs indiqué sur les listes. Les constructeurs ou importateurs inscrivent dans le permis de circulation les données techniques relatives à chaque cyclomoteur et confirment que celui-ci est conforme au type approuvé.
 
-<sup>4</sup> Les cantons tiennent des registres relatifs aux permis de circulation délivrés aux constructeurs ou aux importateurs, registres qui doivent être conservés avec les listes pendant cinq ans. Ils envoient une copie des listes à l’OFROU. L’OFROU et l’administration des douanes sont habilités à consulter en tout temps les registres et les listes.
+<sup>4</sup> Les cantons tiennent des registres relatifs aux permis de circulation délivrés aux constructeurs ou aux importateurs, registres qui doivent être conservés avec les listes pendant cinq ans. Ils envoient une copie des listes à l’OFROU. L’OFROU et l’OFDF sont habilités à consulter en tout temps les registres et les listes.
 
 <sup>5</sup> Les cyclomoteurs contrôlés par groupe ne peuvent être mis sur le marché qu’avec les permis de circulation qui leur sont attribués. En remplacement des permis égarés, le canton compétent pour le faire (art. 91, al. 3, 1<sup>re</sup> phrase) délivre de nouveaux permis en se fondant sur les listes.
 
@@ -2497,7 +2497,7 @@ Le permis de circulation peut être retiré:
 
 <sup>2</sup> Si le motif de retrait est devenu sans objet, le permis de circulation et les plaques doivent être rendus sur demande.
 
-<sup>3</sup> Les permis de circulation et les plaques dont le retrait a été décidé seront réclamés à leurs détenteurs, auxquels on fixera un bref délai. A l’expiration de ce délai, les permis de circulation et les plaques seront saisis par la police.
+<sup>3</sup> Les permis de circulation et les plaques dont le retrait a été décidé seront réclamés à leurs détenteurs, auxquels on fixera un bref délai. À l’expiration de ce délai, les permis de circulation et les plaques seront saisis par la police.
 
 #### Art. 108
 
@@ -2549,9 +2549,9 @@ Les véhicules automobiles et remorques immatriculés à l’étranger peuvent c
 
 <sup>2</sup> Les cyclomoteurs, motocycles légers, motocycles ayant une cylindrée de 125 cm<sup>3</sup> au maximum, véhicules automobiles agricoles et forestiers, voitures automobiles de travail et remorques qui viennent de l’étranger et pour lesquels le pays de provenance n’exige ni plaques ni permis de circulation, peuvent circuler en Suisse sans avoir de plaques.[^114-2] Au lieu du permis de circulation, on exigera un document contenant les renseignements essentiels sur le véhicule et le détenteur.
 
-<sup>3</sup> La plaque arrière suffit pour les véhicules automobiles venant d’Etats qui ne délivrent pas de plaque avant.[^114-3]
+<sup>3</sup> La plaque arrière suffit pour les véhicules automobiles venant d’États qui ne délivrent pas de plaque avant.[^114-3]
 
-<sup>4</sup> Les véhicules étrangers doivent être munis du signe distinctif de l’Etat d’immatriculation.
+<sup>4</sup> Les véhicules étrangers doivent être munis du signe distinctif de l’État d’immatriculation.
 
 [^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752). Voir aussi la conv. du 8 nov. 1968 sur le circulation routière ([RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) et l’ac. européen du 1<sup>er</sup> mai 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
 [^114-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
@@ -2661,11 +2661,11 @@ Les véhicules étrangers sont imposables par le canton de stationnement à part
 
 #### Art. 122
 
-**Contrôle par l’administration des douanes**[^122-1]
+**Contrôle par l’OFDF**[^122-1]
 
-<sup>1</sup> L’administration des douanes arrête avec les cantons les règles à appliquer pour le contrôle subséquent du placement sous régime douanier et du prélèvement de l’impôt conformément à la Limpauto[^122-2] et pour la gestion des contrôles en général. Elle a le droit de faire les vérifications y afférentes.
+<sup>1</sup> L’OFDF arrête avec les cantons les règles à appliquer pour le contrôle subséquent du placement sous régime douanier et du prélèvement de l’impôt conformément à la Limpauto[^122-2] et pour la gestion des contrôles en général. Il a le droit de faire les vérifications y afférentes.
 
-<sup>2</sup> En cas d’immatriculation provisoire de véhicules n’ayant pas fait l’objet d’un placement sous régime douanier ou non imposés, les cantons doivent remettre au Contrôle fédéral des véhicules les documents relatifs à l’exonération exigés par l’administration des douanes. En accord avec le Contrôle fédéral des véhicules, l’administration des douanes peut prévoir un système électronique de transmission des informations.
+<sup>2</sup> En cas d’immatriculation provisoire de véhicules n’ayant pas fait l’objet d’un placement sous régime douanier ou non imposés, les cantons doivent remettre au Contrôle fédéral des véhicules les documents relatifs à l’exonération exigés par l’OFDF. En accord avec le Contrôle fédéral des véhicules, l’OFDF peut prévoir un système électronique de transmission des informations.
 
 [^122-1]: Nouvelle teneur selon l’annexe 4 ch. 35 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^122-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
@@ -2724,9 +2724,9 @@ La statistique des véhicules comprend:
 - d. l’effectif des cyclomoteurs et des cycles à la fin de l’année;
 - e. le nombre des cyclomoteurs et des véhicules automobiles prévus sous let. a, importés chaque mois.
 
-<sup>3</sup> Suivant les instructions de l’Office fédéral de la statistique, les documents pour la statistique des véhicules automobiles prévue à l’al. 2, let. a et b, lui seront fournis par le Contrôle fédéral des véhicules, pour la statistique des remorques, des cyclomoteurs et des cycles (al. 2, let. c et d) par les cantons et pour la statistique des importations (al. 2, let. e) par la Direction générale de douanes.[^127-3]
+<sup>3</sup> Suivant les instructions de l’Office fédéral de la statistique, les documents pour la statistique des véhicules automobiles prévue à l’al. 2, let. a et b, lui seront fournis par le Contrôle fédéral des véhicules, pour la statistique des remorques, des cyclomoteurs et des cycles (al. 2, let. c et d) par les cantons et pour la statistique des importations (al. 2, let. e) par l’OFDF.[^127-3]
 
-<sup>4</sup> Les formules nécessaires aux relevés statistiques sont délivrées par l’Office fédéral de la statistique. A sa demande, l’OFROU peut régler différemment la procédure à suivre pour ces communications.
+<sup>4</sup> Les formules nécessaires aux relevés statistiques sont délivrées par l’Office fédéral de la statistique. À sa demande, l’OFROU peut régler différemment la procédure à suivre pour ces communications.
 
 [^127-1]: Nouvelle dénomination selon l’art. 1 de l’ACF du 23 avr. 1980 concernant l’adaptation des dispositions du droit fédéral aux nouvelles dénominations des départements et des offices (non publié). Il a été tenu compte de cette mod. dans tout le texte.
 [^127-2]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
@@ -2853,7 +2853,7 @@ L’al. 1 ne s’applique pas si la personne prouve qu’elle n’était objecti
 - d. elle effectuait son service militaire à titre de militaire en service long au sens de l’ordonnance du 22 novembre 2017 sur les obligations militaires[^148-2].
 
 [^148-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^148-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^148-2]: RS **512.2****1**
 
 #### Art. 149
 
@@ -2899,7 +2899,7 @@ L’OFROU peut:[^150-7]
 
 <sup>7</sup> L’OFROU reconnaît comme cours de conduite de tracteur au sens de l’art. 4, al. 3, les cours de perfectionnement lors desquels les participants acquerront la maîtrise du véhicule ainsi que les connaissances de base en matière de dynamique de la conduite nécessaires à la conduite dans le trafic. L’OFROU établit des instructions concernant le déroulement de ces cours.[^150-13]
 
-<sup>8</sup> Dans des cas motivés, l’administration des douanes peut, par dérogation à l’art. 115, al. 1, let. d, autoriser des transports intérieurs au moyen de véhicules immatriculés à l’étranger pour autant que la perception des redevances dues soit garantie.[^150-14]
+<sup>8</sup> Dans des cas motivés, l’OFDF peut, par dérogation à l’art. 115, al. 1, let. d, autoriser des transports intérieurs au moyen de véhicules immatriculés à l’étranger pour autant que la perception des redevances dues soit garantie.[^150-14]
 
 [^150-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^150-2]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
@@ -3102,9 +3102,9 @@ L’autorité cantonale peut octroyer à des titulaires d’une autorisation de 
 
 <sup>7</sup>
 
-Les autorités cantonales pourront, jusqu’au 31 décembre 2019, confier la réalisation des examens relevant de la médecine du trafic qui doivent être réalisés par un médecin selon l’art. 5*a*<sup>bis</sup>, al. 1, à des médecins qui n’ont pas obtenu la reconnaissance prescrite ou reconnaître leurs résultats d’examen, si:
+Les autorités cantonales pourront, jusqu’au 31 décembre 2019, confier la réalisation des examens relevant de la médecine du trafic qui doivent être réalisés par un médecin selon l’art. 5*a*<sup>bi</sup><sup>s</sup>, al. 1, à des médecins qui n’ont pas obtenu la reconnaissance prescrite ou reconnaître leurs résultats d’examen, si:
 
-- a. la personne a déjà procédé auparavant aux examens en question; et
+- a. la personne a déjà procédé auparavant aux examens en question, et
 - b. la personne à examiner devrait attendre trop longtemps avant de pouvoir subir l’examen en raison d’effectifs insuffisants chez les médecins ayant obtenu la reconnaissance correspondante.
 
 <sup>8</sup> Les autorités cantonales autres que celles du canton de domicile du titulaire du permis de conduire ne sont pas tenues de reconnaître les résultats des examens qui, conformément à l’al. 7, ont été réalisés par des médecins n’ayant pas obtenu la reconnaissance visée à l’art. 5*a*<sup>bis</sup>, al. 1.
@@ -3135,7 +3135,7 @@ Les autorités cantonales pourront, jusqu’au 31 décembre 2019, confier la ré
 
 <sup>1bis</sup> La personne qui atteint l’âge de 18 ans en 2021 et obtient le permis d’élève conducteur de la catégorie B cette même année est admise à l’examen pratique de conduite dès son 18<sup>e</sup> anniversaire, même si elle ne possède pas encore ledit permis depuis un an.[^151l-2]
 
-<sup>2</sup> A compter du 31 décembre 2019, les titulaires d’un permis de conduire à l’essai ne seront tenu de suivre qu’une journée de formation complémentaire. L’art. 27*c* ne s’applique pas.
+<sup>2</sup> À compter du 31 décembre 2019, les titulaires d’un permis de conduire à l’essai ne seront tenu de suivre qu’une journée de formation complémentaire. L’art. 27*c* ne s’applique pas.
 
 <sup>3</sup> L’art. 24, al. 5, du droit actuel continue de s’appliquer aux personnes qui ont obtenu avant le 1<sup>er</sup> janvier 2021 le permis de conduire de la catégorie A pour des véhicules d’une puissance maximale de 35 kW et dont le rapport entre la puissance du moteur et le poids à vide ne dépasse pas 0,20 kW/kg.
 
@@ -3146,7 +3146,7 @@ Les autorités cantonales pourront, jusqu’au 31 décembre 2019, confier la ré
 <sup>6</sup> Les titulaires d’un permis de conduire papier sont tenus de l’échanger contre un permis au format carte de crédit d’ici au 31 janvier 2024. Le nouveau permis sera daté du jour où l’autorité cantonale aura procédé à l’échange. Passé le délai légal, les permis de conduire papier n’attesteront plus l’autorisation de conduire.
 
 [^151l-1]: Introduit par le ch. I de l’O du 14 déc. 2018, al. 5 et 6 en vigueur depuis le 1<sup>er</sup> fév. 2019, al. 2 depuis le 1<sup>er</sup> janv. 2020 et al. 1, 3 et 4 depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^151l-2]: Introduit par le ch. I de l’O du 3 juil. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 2143](https://fedlex.data.admin.ch/eli/oc/2019/397)).
+[^151l-2]: Introduit par le ch. I de l’O du 3 juil. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 (RO **20****19** 2143).
 
 #### Art. 151m
 
@@ -3330,7 +3330,7 @@ A. Anamnèse
 
 B. Rapport d’examen
 
-- 1 *Etat de santé général/impression générale:*
+- 1 *État de santé général/impression générale:*
 -
 
 - 2 *Facultés visuelles*
@@ -3361,7 +3361,7 @@ B. Rapport d’examen
 - sensibilité (perception des vibrations, orientation):
 - épreuve de la marche sur une ligne droite:
 - signes végétatifs/tremblement:
-- 6 *Système cardiovasculaire*
+- 6 *Système card**iovasculaire*
 - pouls:
 - tension artérielle: évent. deuxième valeur de tension artérielle:
 - pouls périphériques:
@@ -3381,7 +3381,7 @@ B. Rapport d’examen
 - paralysies:
 - conséquences d’accident:
 - réduction des fonctions et du mouvement (mouvements de la tête en particulier):
-- 10 *autres particular**i**tés*
+- 10 *autres parti**cular**i**tés*
 -
 
 Examens supplémentaires (en cas d’indication fondée): analyses de laboratoire (par ex. marqueurs biologiques d’alcoolisme, dépistage de drogues), ECG, tests courts de dépistage de déficiences des fonctions cérébrales (par ex. Trail-Making Test A et B, mini-examen de l’état mental, test de la montre):
@@ -3400,7 +3400,7 @@ Annexe 2a*[^t-5]*
 
 [^t-5]: Introduit par le ch. II al. 1 de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
-**Catégories C ou D, sous-catégories C1 ou D1, autorisation de transporter des personnes à titre professionnel, experts de la circulation**
+**Catégories C ou D, sous-catégories C1 ou D1, auto****risation de transporter des personnes à titre professionnel, experts de la circulation**
 
 (Exemplaire pour le médecin)
 
@@ -3421,7 +3421,7 @@ A. Anamnèse
 
 B. Rapport d’examen
 
-- 1 *Etat de santé général/impression générale:*
+- 1 *État de santé général/impression générale:*
 -
 
 - 2 *Facultés visuelles*
@@ -3536,7 +3536,7 @@ Nom: Prénom: Date de naissance: NPA/Lieu: Adresse:
 </table>
 
 - 2\.2 □ Résultat équivoque: l’évaluation définitive doit être réalisée par un médecin reconnu de niveau 3 ou 4.
-- □ Etant donné que l’aptitude à la conduite du candidat soulève des doutes sérieux, il ne devrait conduire aucun véhicule avant des clarifications supplémentaires.
+- □ Étant donné que l’aptitude à la conduite du candidat soulève des doutes sérieux, il ne devrait conduire aucun véhicule avant des clarifications supplémentaires.
 - 3 *Conditions*
 
 <table>
@@ -3623,7 +3623,7 @@ Annexe 4*[^t-8]*
 
 ## Demande de permis d’élève conducteur ou de permis de conduire
 
-[^t-8]: Nouvelle teneur selon le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour selon le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 de l’O du 28 mars 2007 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)), le ch. II al. 3 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)) et le ch. II al. 1 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-8]: Nouvelle teneur selon le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour selon le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 de l’O du 28 mars 2007 (RO **200****7** 2183), le ch. II al. 3 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)[6001](https://fedlex.data.admin.ch/eli/oc/2015/934)) et le ch. II al. 1 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 <table>
 <tr><td>1</td><td>Indications personnelles</td><td></td></tr>
@@ -3664,9 +3664,9 @@ Demande de délivrance d’un permis d’élève conducteur ou d’un permis de 
 <tr><td>2.1</td><td colspan="2">Êtes-vous ou avez-vous déjà été titulaire d’un permis d’élève conducteur, d’un permis de conduire ou d’une autorisation de transporter des personnes à titre professionnel?</td></tr>
 <tr><td></td><td>Oui</td><td>Non</td></tr>
 <tr><td>2.2</td><td colspan="2">Dans l’affirmative, pour quelle(s) catégorie(s) de véhicules?</td></tr>
-<tr><td>2.3</td><td colspan="2">Par quel canton ou quel Etat a-t-il été délivré?</td></tr>
+<tr><td>2.3</td><td colspan="2">Par quel canton ou quel État a-t-il été délivré?</td></tr>
 <tr><td>2.4</td><td colspan="2">Date de délivrance:</td></tr>
-<tr><td>2.5</td><td colspan="2">En cas d’échange de permis de conduire étrangers: dans quel Etat avez-vous passé l’examen de conduite?</td></tr>
+<tr><td>2.5</td><td colspan="2">En cas d’échange de permis de conduire étrangers: dans quel État avez-vous passé l’examen de conduite?</td></tr>
 </table>
 
 <table>
@@ -3753,7 +3753,7 @@ Date: Cachet et signature:
 - Nom et adresse du représentant légal:
 -
 
-*Quiconque aura obtenu frauduleusement un permis en donnant des renseignements inexacts, en dissimulant des faits importants ou en présentant de faux certificats sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire (art. 97 LCR) et se verra retirer le permis (art. 16 LCR).*
+*Quiconque aura obtenu frauduleusement un permis en donnant des renseignements inexacts, en dissimulant des* *faits importants ou en présentant de faux certificats sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire (art. 97 LCR) et se verra retirer le permis (art. 16 LCR).*
 
 La personne soussignée confirme avoir complété la formule de demande conformément à la vérité:
 
@@ -3782,7 +3782,7 @@ Documents annexés
 - □ Apprentis de la profession de mécanicien en motocycles: attestation de l’Office cantonal de la formation professionnelle, selon laquelle un contrat d’apprentissage valable a été conclu (art. 11, al. 2, OAC)
 - □ Ressortissants étrangers: livret pour étrangers et permis de conduire étranger
 
-Appendice[^annex4-lvlu1-1]
+Appendice*[^annex4-lvlu1-1]*
 
 [^annex4-lvlu1-1]: Mise à jour selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
@@ -4019,7 +4019,7 @@ Annexe 12*[^t-15]*
 
 ## Examen pratique
 
-[^t-15]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 des O du 28 avr. 2004, ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), le ch. II des O du 29 nov. 2013 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), du 18 déc. 2015 ([RO 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) et le ch. II al. 3 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-15]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 des O du 28 avr. 2004, ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), le ch. II des O du 29 nov. 2013 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), du 18 déc. 2015 ([RO 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) et le ch. II al. 3 de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>e</sup><sup>r</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 ### I Conditions d’admission
 
@@ -4209,18 +4209,18 @@ Préparation et contrôle technique du véhicule, compte tenu des impératifs de
 
 ### G. Transport professionnel de personnes au moyen de véhicules légers affectés au transport de personnes
 
-Il est exigé de conduire de manière fluide, avec habileté et une bonne perception de la circulation. A cet effet, le candidat doit largement dépasser les exigences minimales requises pour les catégories spécifiques.
+Il est exigé de conduire de manière fluide, avec habileté et une bonne perception de la circulation. À cet effet, le candidat doit largement dépasser les exigences minimales requises pour les catégories spécifiques.
 
 ### IV Durée de l’examen et itinéraire à parcourir
 
 La durée de l’examen et l’itinéraire à parcourir doivent être suffisants pour permettre d’évaluer les aptitudes et les comportements prescrits dans la présente annexe. La durée de l’examen ne devrait être en aucun cas inférieure à:
 
 - – 30 minutes pour la catégorie A et la sous-catégorie A1;
-- – 60 minutes pour les catégories B, BE, DE, les sous-catégories B1, C1, D1, C1E et D1E, la catégorie spéciale F et pour l’autorisation de transporter des personnes à titre professionnel au sens de l’art. 25. La course d’examen destinée à l’obtention du certificat de capacité pour le transport de personnes ou de marchandises au sens de l’art. 14, al. 3, de l’ordonnance du 15 juin 2007 réglant l’admission des chauffeurs[^annex12-lvlu1-lvlIV-1] peut être effectuée directement à la suite;
+- – 60 minutes pour les catégories B, BE, DE, les sous-catégories B1, C1, D1, C1E et D1E, la catégorie spéciale F et pour l’autorisation de transporter des personnes à titre professionnel au sens de l’art. 25. La course d’examen destinée à l’obtention du certificat de capacité pour le transport de personnes ou de marchandises au sens de l’art. 14, al. 3, de l’ordonnance du 15 juin 2007 réglant l’admission des chauffeurs[^annex10-lvlu1-lvlIV-1] peut être effectuée directement à la suite;
 - – 90 minutes pour les catégories C et CE;
 - – 120 minutes pour la catégorie D.
 
-[^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^annex10-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
 
 ### V Véhicules servant aux examens
 
@@ -4262,3 +4262,4 @@ La partie de l’examen destinée à évaluer la maîtrise technique du véhicul
 - 3\.8 feux de circulation, signaux, marquage et autres éléments: comportement correct aux feux de circulation; respect des indications des agents réglant la circulation; comportement correct en présence de panneaux de signalisation et de marques routières;
 - 3\.9 signalisation: donner en temps utile les signaux nécessaires et corrects; indiquer correctement les changements de direction; réagir de manière appropriée à tous les signaux donnés par les autres usagers de la route;
 - 3\.10 freinage: ralentir à temps, freiner en fonction des circonstances; anticipation; utilisation des divers systèmes de freinage (pour les catégories C, D, CE et DE uniquement); utiliser les autres systèmes de réduction de la vitesse (pour les catégories C, D, CE et DE uniquement).
+- [tab]

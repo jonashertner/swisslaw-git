@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2021-07-07
+version: 2022-01-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20210707/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20210707-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210707/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210707/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)**[^t-1]**
 
-del 27 ottobre 1976 (Stato 7 luglio 2021)
+del 27 ottobre 1976 (Stato 1° gennaio 2022)
 
 [^t-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -84,7 +84,7 @@ Per i sottosistemi del sistema d’informazione sull’ammissione alla circolazi
 [^2-9]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 [^2-10]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
 [^2-11]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^2-12]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^2-12]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ## 1 Ammissione di persone****
 
@@ -202,7 +202,7 @@ Inoltre, nel traffico interno:
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^4-3]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^4-3]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^4-4]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 [^4-5]: Introdotta dal n. I dell’O del 26 set. 2003, in vigore dal 1° nov. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^4-6]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
@@ -233,7 +233,7 @@ Non necessitano di una licenza di condurre le persone che:
 
 <sup>3</sup> Autorizzando il traffico interno di una impresa conformemente all’articolo 33 OAV[^5-3], l’autorità cantonale può permettere eccezioni in merito alla categoria, alla sottocategoria o categoria speciale della licenza di condurre necessaria (art. 3).
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 (RU **201****5** 1333).
 [^5-2]: Introdotta dal n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^5-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
@@ -632,7 +632,7 @@ L’autorità cantonale verifica se sono adempiuti i requisiti per l’ottenimen
 <sup>3</sup> Le persone che soffrono di epilessia sono ammesse alla circolazione soltanto su presentazione di un rapporto favorevole rilasciato da un medico specialista in neurologia.
 
 [^11b-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^11b-2]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^11b-2]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 11c
 
@@ -666,7 +666,7 @@ Il risultato dell’esame deve essere comunicato al candidato. Il non superament
 
 [^lvl1-lvl12-lvl124-1]
 
-[^lvl1-lvl12-lvl124-1]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^lvl1-lvl12-lvl124-1]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13
 
@@ -700,7 +700,7 @@ Sono dispensate dall’esame teorico di base le persone che si candidano:
 
 Prima del rilascio della licenza per allievo conducente o di una licenza di condurre delle categorie speciali G o M l’autorità d’ammissione trasmette al SIAC Persone le generalità del richiedente e i dati necessari per il rilascio della licenza.
 
-[^14-1]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^14-1]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### 125 Licenza per allievo conducente
 
@@ -1158,7 +1158,7 @@ L’autorità cantonale può:
 
 La formazione complementare deve essere seguita entro 12 mesi dal rilascio della licenza di condurre in prova.
 
-[^27c-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2020 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^27c-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2020 (RU **2****019** 191).
 
 #### Art. 27d
 
@@ -1236,7 +1236,7 @@ I Cantoni:
 
 <sup>5</sup> La data del nuovo esame di conducente non è iscritta nella licenza di condurre.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
+[^28-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 (RU **20****13** 4697).
 
 #### Art. 28a
 
@@ -1277,7 +1277,7 @@ Se la persona interessata non supera la corsa di controllo:
 
 <sup>4</sup> Se la persona interessata non si presenta, senza giustificarsi, alla corsa di controllo, questa è considerata non superata. L’autorità, quando ordina la corsa di controllo, deve informare sulle conseguenze dell’omessa partecipazione.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^29-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 (RU **201****5** 2599).
 [^29-2]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 
 #### Art. 30
@@ -1396,7 +1396,7 @@ In casi di rigore, la revoca della licenza per qualsiasi categoria, sottocategor
 
 Chiunque desideri condurre veicoli a motore dopo l’annullamento della licenza di condurre in prova deve chiedere una licenza per allievo conducente. Rimane salvo l’articolo 35*a* capoverso 3.
 
-[^35b-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^35b-1]: Introdotto dal n. I dell’O del 27 ott. 2004, in vigore dal 1° dic. 2005 (RU **2****004** 5057).
 
 ### 132*b***** Divieto di circolare e ammonimento
 
@@ -1548,7 +1548,7 @@ Non hanno bisogno di un permesso di condurre svizzero le persone beneficiarie di
 [^42-6]: Nuovo testo giusta il n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^42-7]: Introdotta dal n. I dell’O del 7 mar. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)). Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^42-8]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^42-9]: Introdotto dal n. 11 dell’all. dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^42-9]: Introdotto dall’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 43
 
@@ -1840,7 +1840,7 @@ Qualora abbiano superato un esame parziale di cui all’articolo 67 capoverso 1<
 
 <sup>3</sup> I Cantoni e la competente autorità federale sono responsabili del perfezionamento dei loro esperti della circolazione. Hanno l’obbligo in particolare di assicurare il perfezionamento degli esperti della circolazione incaricati degli esami di conducente e dei controlli tecnici sui veicoli.
 
-[^69-1]: Nuovo testo giusta il n. II 4 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^69-1]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 
 ### 17 Noleggiatori di autoveicoli
 
@@ -1878,13 +1878,13 @@ La licenza di circolazione e le targhe sono rilasciate se:
 
 <sup>4</sup> I conducenti devono sempre portar seco l’originale della licenza di circolazione, a meno che non sia stato rilasciato un duplicato. Non è obbligatorio portar seco la licenza in caso di spostamenti con veicoli a motore agricoli e forestali fra la sede dell’azienda e il luogo di svolgimento dell’attività, né per spostamenti con i rimorchi del servizio antincendio e della protezione civile all’interno del territorio comunale.[^71-11]
 
-[^71-1]: Nuovo testo giusta il n. II 4 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^71-1]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^71-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^71-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^71-4]: Nuovo testo giusta il n. 35 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^71-4]: Nuovo testo giusta l’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^71-5]: Introdotta dal n. II dell’O del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^71-6]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
-[^71-7]: Nuovo testo giusta il n. 5 dell’appendice all’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^71-7]: Nuovo testo giusta l’appendice n. 5 dell’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
 [^71-8]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^71-9]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^71-10]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
@@ -1924,7 +1924,7 @@ Né la licenza di circolazione né le targhe sono necessarie per:
 
 <sup>3</sup> Se dispongono di un attestato d’assicurazione valido, i Cantoni, ricorrendo a una convocazione, possono permettere che un veicolo sia trasferito per la via più breve al luogo d’esame.[^72-12]
 
-[^72-1]: Nuovo testo giusta il n. 3 dell’all. 1 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^72-1]: Nuovo testo giusta l’all. 1 n. 3 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^72-2]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^72-3]: Nuovo testo giusta il n. II 4 dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^72-4]: Introdotta dal n. I dell’O del 7 mar. 1994, in vigore dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
@@ -1932,7 +1932,7 @@ Né la licenza di circolazione né le targhe sono necessarie per:
 [^72-6]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^72-7]: Introdotta dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^72-8]: Introdotta dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^72-9]: Introdotta dal il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^72-9]: Introdotta dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^72-10]: Nuova espressione giusta il n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^72-11]: Abrogato dal n. I dell’O del 12 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 [^72-12]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 93](https://fedlex.data.admin.ch/eli/oc/2007/23)).
@@ -1983,8 +1983,8 @@ L’autorità d’immatricolazione del Cantone di stanza del veicolo rilascia la
 
 [^74-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 93](https://fedlex.data.admin.ch/eli/oc/2007/23)).
 [^74-2]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
-[^74-3]: Nuovo testo giusta il n. 35 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^74-4]: Nuovo testo giusta il n. 5 dell’appendice all’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^74-3]: Nuovo testo giusta l’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^74-4]: Nuovo testo giusta l’appendice n. 5 dell’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
 [^74-5]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 
 #### Art. 75
@@ -1999,14 +1999,14 @@ L’autorità d’immatricolazione del Cantone di stanza del veicolo rilascia la
 
 <sup>4</sup> I rapporti di perizia o il loro contenuto, come pure i dati tecnici allegati, devono essere conservati dall’autorità durante 15 anni a far data dalla prima messa in circolazione dei veicoli.
 
-<sup>5</sup> L’USTRA, d’intesa con i Cantoni, l’autorità competente in seno al Dipartimento federale della difesa, della protezione della popolazione e dello sport e l’Amministrazione federale delle dogane[^75-6], stabilisce la forma da dare al rapporto di perizia ed emana le istruzioni sul modo di compilarlo.[^75-7]
+<sup>5</sup> L’USTRA, d’intesa con i Cantoni, l’autorità competente in seno al Dipartimento federale della difesa, della protezione della popolazione e dello sport e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^75-6], stabilisce la forma da dare al rapporto di perizia ed emana le istruzioni sul modo di compilarlo.[^75-7]
 
 [^75-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 [^75-2]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^75-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^75-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^75-5]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^75-6]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018 in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^75-5]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^75-6]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^75-7]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° ott. 2003 ([RU 2003 3373](https://fedlex.data.admin.ch/eli/oc/2003/470)).
 
 #### Art. 76
@@ -2017,10 +2017,10 @@ L’autorità d’immatricolazione del Cantone di stanza del veicolo rilascia la
 
 <sup>2</sup> Il diritto di utilizzare in Svizzera un veicolo per il quale non vi è stata un’imposizione doganale o per il quale non vi è stata una tassazione deve fondarsi su un’autorizzazione delle autorità doganali.
 
-<sup>3</sup> L’Amministrazione federale delle dogane comunica alle autorità d’immatricolazione i generi di veicoli per i quali non sono necessari la prova dell’imposizione doganale e dell’avvenuta tassazione secondo il capoverso 1 o un’autorizzazione secondo il capoverso 2.
+<sup>3</sup> L’UDSC comunica alle autorità d’immatricolazione i generi di veicoli per i quali non sono necessari la prova dell’imposizione doganale e dell’avvenuta tassazione secondo il capoverso 1 o un’autorizzazione secondo il capoverso 2.
 
-[^76-1]: Nuovo testo giusta il n. 35 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^76-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^76-1]: Nuovo testo giusta dell’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^76-2]: RS **6****41.51**
 
 #### Art. 77
 
@@ -2085,7 +2085,7 @@ Valgono come condizioni speciali ai sensi degli articoli 10 capoverso 3[^80-1] e
 [^80-2]: Ora: art. 96 cpv. 1 lett. c.
 [^80-3]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^80-4]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
-[^80-5]: Introdotto dal n. I dell’O dell’11 apr. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)). Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^80-5]: Introdotto dal n. I dell’O dell’11 apr. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)). Nuovo testo giusta l’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^80-6]: Introdotto dal n. I dell’O dell’11 apr. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)). Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
 
 #### Art. 81
@@ -2141,13 +2141,13 @@ Occorre procedere al cambio delle targhe se cambia la categoria del veicolo e se
 - a. per i veicoli a motore aventi un peso totale non superiore a 3500 kg se la categoria cambia per un periodo non superiore a sei mesi consecutivi;
 - b. per i restanti veicoli a motore se la categoria cambia per un periodo non superiore a tre mesi consecutivi.[^82-8]
 
-[^82-1]: Nuovo testo giusta il n. 3 dell’all. 1 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^82-2]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^82-3]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^82-4]: Abrogata dal n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, con effetto dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^82-1]: Nuovo testo giusta l’all. 1 n. 3 dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
+[^82-2]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^82-3]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^82-4]: Abrogata dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, con effetto dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-5]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^82-6]: Abrogata dal n. I dell’O dell’11 apr. 2001, con effetto dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
-[^82-7]: Introdotta dal n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^82-7]: Introdotta dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-8]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
 
 #### Art. 83
@@ -2204,9 +2204,9 @@ Le targhe, i cui angoli devono essere arrotondati (raggio di 1 cm), hanno le dim
 <sup>4</sup> Le targhe per i veicoli i cui detentori sono beneficiari di privilegi e immunità diplomatiche o consolari non hanno stemmi, ma sono provviste delle lettere in nero del Cantone. Le sigle e le lettere possono essere applicate in maniera indelebile mediante un processo fotografico.[^84-4] Le cifre e il punto in colore nero possono essere applicati mediante lo stesso procedimento o consistere in pezzi di alluminio ritagliati e ribaditi sulla targa. Il primo dei due gruppi di cifre separate da un punto serve da numero d’ordine per ogni missione, sede, delegazione o organizzazione; il secondo gruppo designa la nazione o l’organizzazione. Le cifre più basse sono riservate al capo della rappresentanza o dell’organizzazione come pure ai suoi sostituti.
 
 [^84-1]: Cantone introdotto dal n. I dell’O del 15 nov. 1978, in vigore dal 1° gen. 1979 ([RU 1978 1805](https://fedlex.data.admin.ch/eli/oc/1978/1805_1805_1805)).
-[^84-2]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^84-3]: Nuovo testo giusta il n. II 4 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
-[^84-4]: Nuovo testo dei per. 1 e 2 giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^84-2]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^84-3]: Nuovo testo giusta l’all.n. II 4 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^84-4]: Nuovo testo dei per. 1 e 2 giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 85
 
@@ -2222,12 +2222,12 @@ Le targhe, i cui angoli devono essere arrotondati (raggio di 1 cm), hanno le dim
 
 <sup>5</sup> La forma dei caratteri e le dimensioni delle lettere e delle cifre sono fissate dall’USTRA.[^85-6]
 
-[^85-1]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^85-2]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^85-1]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^85-2]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^85-3]: Nuovo testo giusta il n. I dell’O del 15 apr. 1987, in vigore dal 1° mag. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
-[^85-4]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^85-5]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^85-6]: Nuovo testo giusta il n. 11 dell’all. dell’O del 6 dic. 1999 sull’organizzazione del DATEC, in vigore dal 1° gen. 2000, in vigore dal 1° gen. 2000 ([RU 2000 243](https://fedlex.data.admin.ch/eli/oc/2000/44)).
+[^85-4]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^85-5]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^85-6]: Nuovo testo giusta l’all. n. 11 dell’O del 6 dic. 1999 sull’organizzazione del DATEC, in vigore dal 1° gen. 2000, in vigore dal 1° gen. 2000 ([RU 2000 243](https://fedlex.data.admin.ch/eli/oc/2000/44)).
 
 #### Art. 86
 
@@ -2247,8 +2247,8 @@ La sigla «CD» è destinata:
 
 <sup>4</sup> È vietato l’impiego separato delle sigle «CD» o «AT». La sigla «CC» separata è ammessa al massimo su un unico veicolo di ciascun caposede onorario di sede consolare cui il Consiglio federale abbia attribuito l’exequatur. Sulla licenza di circolazione del veicolo deve esserci la menzione «Sigla CC autorizzata».
 
-[^86-1]: Nuovo testo giusta il n. 11 dell’all. dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^86-2]: Nuovo testo giusta il n. 11 dell’all. dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^86-1]: Nuovo testo giusta l’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^86-2]: Nuovo testo giusta l’all. n. 11 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^86-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 87
@@ -2339,7 +2339,7 @@ La licenza di circolazione è rilasciata se:
 
 <sup>4</sup> Il conducente di ciclomotori deve sempre portar seco la licenza di circolazione.
 
-[^91-1]: Nuovo testo giusta il n. 35 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^91-1]: Nuovo testo giusta l’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^91-2]: Per. abrogato dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 
 #### Art. 92
@@ -2352,11 +2352,11 @@ La licenza di circolazione è rilasciata se:
 
 <sup>3</sup> I Cantoni consegnano ai costruttori o gli importatori il numero di licenze di circolazione corrispondente a quello dei ciclomotori indicati sugli elenchi. I costruttori o gli importatori devono iscrivere nella licenza di circolazione[^92-2] i dati tecnici relativi a ogni ciclomotore e confermare che esso è conforme al tipo approvato.
 
-<sup>4</sup> I Cantoni tengono dei registri relativi alle licenze di circolazione rilasciate ai costruttori o agli importatori i quali vanno conservati unitamente agli elenchi durante cinque anni. Essi inviano una copia degli elenchi all’USTRA. L’USTRA e l’Amministrazione federale delle dogane sono autorizzati a consultare in ogni momento i registri e gli elenchi.
+<sup>4</sup> I Cantoni tengono dei registri relativi alle licenze di circolazione rilasciate ai costruttori o agli importatori i quali vanno conservati unitamente agli elenchi durante cinque anni. Essi inviano una copia degli elenchi all’USTRA. L’USTRA e l’UDSC sono autorizzati a consultare in ogni momento i registri e gli elenchi.
 
 <sup>5</sup> I ciclomotori esaminati per gruppi possono essere messi in commercio soltanto con le licenze di circolazione loro attribuite. In sostituzione di licenze perse il Cantone competente per il rilascio (art. 91 cpv. 3 prima frase) ne emette delle nuove fondandosi sugli elenchi.
 
-[^92-1]: Nuovo testo giusta il n. 35 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^92-1]: Nuovo testo giusta l’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^92-2]: [RU 1978 20](https://fedlex.data.admin.ch/eli/oc/1978/__20)
 
 #### Art. 93
@@ -2373,8 +2373,8 @@ La licenza di circolazione è rilasciata se:
 
 <sup>5</sup> L’autorità può permettere di presentare all’esame un ciclomotore sprovvisto della licenza di circolazione e della targa se viene fornita la prova che il ciclomotore è assicurato. Alle stesse condizioni, il Cantone può autorizzare un fornitore, dispensato dall’obbligo di presentare i veicoli, a effettuare corse di prova con ciclomotori non provvisti della licenza di circolazione e della targa o a far eseguire tali corse da eventuali compratori.
 
-[^93-1]: Nuovo testo giusta il n. 35 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^93-2]: Nuovo testo giusta il n. 35 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^93-1]: Nuovo testo giusta l’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^93-2]: Nuovo testo giusta l’all. 4 n. 35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 94
 
@@ -2482,7 +2482,7 @@ La licenza di circolazione può essere revocata se:
 [^106-2]: Introdotta dal n. II dell’O del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^106-3]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^106-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^106-5]: Nuovo testo della frase giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^106-5]: Nuovo testo della frase giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 107
 
@@ -2513,7 +2513,7 @@ La licenza di circolazione può essere revocata se:
 Se al momento di un esame o di un controllo si costata che dei veicoli, per i quali non è necessaria una licenza di circolazione ai sensi dell’articolo 72, non sono in perfetto stato di sicurezza o non sono conformi alle prescrizioni, l’autorità può vietarne l’uso finché non siano state eliminate le deficienze. Il sequestro di veicoli è regolato dall’articolo 221 capoversi 3 e 4 OETV[^109-1].[^109-2]
 
 [^109-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^109-2]: Nuovo testo della frase giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^109-2]: Nuovo testo della frase giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 110
 
@@ -2548,9 +2548,9 @@ I veicoli a motore e i rimorchi immatricolati all’estero possono circolare in 
 
 <sup>4</sup> I veicoli stranieri devono essere muniti del segno distintivo dello Stato d’immatricolazione.
 
-[^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752). Vedi anche la Conv. dell’8 nov. 1968 sulla circolazione stradale ([RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) e l’Acc. europeo del 1° mag. 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
+[^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752). Vedi anche la Conv. dell’8 nov. 1968 sulla circolazione stradale (RS **0.7****41.10**) e l’Acc. europeo del 1° mag. 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
 [^114-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
-[^114-3]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^114-3]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 115
 
@@ -2586,8 +2586,8 @@ Il capoverso 6 non si applica quando veicoli esteri sono ammessi soltanto tempor
 
 [^115-1]: Nuovo testo giusta l’art. 59 n. 3 dell’O del 6 mar. 2000 sul traffico pesante, in vigore dal 1° gen. 2001 ([RU 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)).
 [^115-2]: Abrogato dal n. I dell’O del 7 mar. 1994, con effetto dal 1° apr. 1994 ([RU 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^115-3]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^115-4]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^115-3]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^115-4]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^115-5]: Introdotto dal n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 93](https://fedlex.data.admin.ch/eli/oc/2007/23)).
 
 #### Art. 116
@@ -2655,13 +2655,13 @@ I veicoli stranieri sono tassati dal Cantone di stanza a partire dal giorno in c
 
 #### Art. 122
 
-**Controllo da parte dell’Amministrazione federale delle dogane**[^122-1]
+**Controllo da parte dell’UDSC**[^122-1]
 
-<sup>1</sup> L’Amministrazione federale delle dogane fissa con i Cantoni le norme da applicare per il controllo posticipato dell’imposizione doganale e dell’avvenuta tassazione secondo la LIAut[^122-2], nonché per la tenuta dei controlli in generale. Essa è autorizzata ad effettuare le rispettive verifiche.
+<sup>1</sup> L’UDSC fissa con i Cantoni le norme da applicare per il controllo posticipato dell’imposizione doganale e dell’avvenuta tassazione secondo la LIAut[^122-2], nonché per la tenuta dei controlli in generale. Esso è autorizzato ad effettuare le rispettive verifiche.
 
-<sup>2</sup> In caso di immatricolazione provvisoria di veicoli per i quali non vi è stata un’imposizione doganale o una tassazione, i Cantoni consegnano al Controllo federale dei veicoli i documenti relativi all’esenzione, richiesti dall’Amministrazione federale delle dogane. D’intesa con il Controllo federale dei veicoli l’Amministrazione federale delle dogane può prevedere un sistema elettronico di trasmissione delle informazioni.
+<sup>2</sup> In caso di immatricolazione provvisoria di veicoli per i quali non vi è stata un’imposizione doganale o una tassazione, i Cantoni consegnano al Controllo federale dei veicoli i documenti relativi all’esenzione, richiesti dall’UDSC. D’intesa con il Controllo federale dei veicoli l’UDSC può prevedere un sistema elettronico di trasmissione delle informazioni.
 
-[^122-1]: Nuovo testo giusta il n. 35 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^122-1]: Nuovo testo giusta l’all. 4 n.35 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^122-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 
 ### 313 Notificazione di infrazioni e di altri fatti
@@ -2698,7 +2698,7 @@ Le autorità penali notificano alle autorità competenti in materia di circolazi
 
 [^125126-1]
 
-[^125126-1]: Abrogati dal n. II 8 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, con effetto dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^125126-1]: Abrogati dall’all. 4 n. II 8 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, con effetto dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ### 32 Statistica
 
@@ -2718,11 +2718,11 @@ La statistica dei veicoli comprende:
 - d. l’effettivo dei ciclomotori e dei velocipedi a fine anno;
 - e. il numero di ciclomotori e veicoli a motore, secondo la lettera a, importato ogni mese.
 
-<sup>3</sup> In conformità di quanto previsto dall’Ufficio federale di statistica, la documentazione per la statistica dei veicoli a motore, giusta il capoverso 2 lettere a e b, è messa a disposizione dal Controllo federale dei veicoli, mentre la documentazione per la statistica dei rimorchi nonché dei ciclomotori e velocipedi (cpv. 2 lett. c e d), dai Cantoni e per la statistica dell’importazione (cpv. 2 lett. e), dall’Amministrazione federale delle dogane.[^127-2]
+<sup>3</sup> In conformità di quanto previsto dall’Ufficio federale di statistica, la documentazione per la statistica dei veicoli a motore, giusta il capoverso 2 lettere a e b, è messa a disposizione dal Controllo federale dei veicoli, mentre la documentazione per la statistica dei rimorchi nonché dei ciclomotori e velocipedi (cpv. 2 lett. c e d), dai Cantoni e per la statistica dell’importazione (cpv. 2 lett. e), dall’UDSC.[^127-2]
 
 <sup>4</sup> I moduli necessari per i rilevamenti statistici sono forniti dall’Ufficio federale di statistica. Su domanda di quell’ufficio l’USTRA può disciplinare diversamente la procedura di notificazione.
 
-[^127-1]: Nuovo testo giusta il n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^127-1]: Nuovo testo giusta l’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^127-2]: Nuovo testo giusta il n. II 1 dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
 
 #### Art. 128
@@ -2741,7 +2741,7 @@ La statistica dei veicoli comprende:
 
 [^130142c-1]
 
-[^130142c-1]: Abrogati dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^130142c-1]: Abrogati dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 (RU **200****7** 2183).
 
 ## 4 Disposizioni penali
 
@@ -2890,7 +2890,7 @@ L’USTRA può:[^150-7]
 
 <sup>7</sup> L’USTRA riconosce come corsi per condurre trattori ai sensi dell’articolo 4 capoverso 3 i corsi di perfezionamento durante i quali ai partecipanti sono insegnate la necessaria comprensione di base della dinamica di condotta per la guida nella circolazione e la padronanza del veicolo. L’USTRA emana direttive sull’esecuzione di questi corsi.[^150-13]
 
-<sup>8</sup> In casi motivati, e in deroga alle disposizioni dell’articolo 115 capoverso 1 lettera d, l’Amministrazione federale delle dogane può autorizzare trasporti interni con veicoli esteri, sempre che sia garantita la riscossione della tassa dovuta.[^150-14]
+<sup>8</sup> In casi motivati, e in deroga alle disposizioni dell’articolo 115 capoverso 1 lettera d, l’UDSC può autorizzare trasporti interni con veicoli esteri, sempre che sia garantita la riscossione della tassa dovuta.[^150-14]
 
 [^150-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^150-2]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
@@ -2950,7 +2950,7 @@ Le licenze per allievo conducente e le licenze di condurre conformi all’allega
 
 <sup>3</sup> Le prescrizioni attuali possono continuare ad essere applicate per i veicoli a motore immatricolati prima del 1° ottobre 1995 che, giusta il nuovo diritto, sono qualificati come quadricicli leggeri a motore, quadricicli a motore o tricicli a motore.
 
-[^151a-1]: Introdotto dal n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^151a-1]: Introdotto dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 151b
 
@@ -3047,7 +3047,7 @@ I titolari di una licenza per allievo conducente della vecchia categoria A1 poss
 
 I maestri conducenti della Confederazione devono annunciarsi all’autorità di immatricolazione del loro Cantone di domicilio entro e non oltre il 30 giugno 2005 presentando la licenza per maestro conducente della Confederazione.
 
-[^151g-1]: Introdotto dal n. II 4 dell’all. all’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^151g-1]: Introdotto dall’all. n. II 4 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 
 #### Art. 151h
 
@@ -3125,16 +3125,16 @@ Fino al 31 dicembre 2019, le autorità cantonali possono incaricare di effettuar
 
 <sup>2</sup> Chi il 31 dicembre 2019 è titolare di una licenza di condurre in prova deve seguire soltanto un giorno di formazione complementare. L’articolo 27*c* non è applicabile.
 
-<sup>4</sup> Le persone che hanno ottenuto la licenza per allievo conducente della sottocategoria A1 prima del 1° gennaio 2021 e hanno svolto la formazione pratica di base della durata di otto ore conformemente al diritto previgente sono ammesse all’esame pratico di conducente. Se già titolari di una licenza di condurre della categoria B o della sottocategoria B1, tali persone ottengono la licenza di condurre senza dover superare l’esame pratico di conducente<sup>.</sup>
+<sup>3</sup> A chi ha conseguito prima del 1° gennaio 2021 la licenza di condurre di categoria A limitata a una potenza del motore di 35 kW e un rapporto tra questa e il peso a vuoto non superiore a 0,20 kW/kg, continua ad applicarsi l’articolo 24 capoverso 5 del diritto previgente.
 
-<sup>5</sup> Alle persone la cui licenza di condurre è limitata alla guida di veicoli provvisti di dispositivi che agevolano il cambio di marcia o a trazione elettrica la limitazione è soppressa, su richiesta, se non vi sono carenze nell’idoneità alla guida.
+<sup>4</sup> Le persone che hanno ottenuto la licenza per allievo conducente della sottocategoria A1 prima del 1° gennaio 2021 e hanno svolto la formazione pratica di base della durata di otto ore conformemente al diritto previgente sono ammesse all’esame pratico di conducente. Se già titolari di una licenza di condurre della categoria B o della sottocategoria B1, tali persone ottengono la licenza di condurre senza dover superare l’esame pratico di conducente<sup>.</sup>
 
 <sup>5</sup> Alle persone la cui licenza di condurre è limitata alla guida di veicoli provvisti di dispositivi che agevolano il cambio di marcia o a trazione elettrica la limitazione è soppressa, su richiesta, se non vi sono carenze nell’idoneità alla guida.
 
 <sup>6</sup> I titolari di una licenza di condurre cartacea devono sostituirla entro il 31 gennaio 2024 con un documento in formato carta di credito. Come data di rilascio del nuovo documento va riportata la data del giorno in cui l’autorità cantonale ha proceduto alla sostituzione. Trascorso il suddetto termine, i documenti cartacei perdono la loro validità come attestato delle autorizzazioni a condurre.
 
 [^151l-1]: Introdotto dal n. I dell’O del 14 dic. 2018, cpv. 5 e 6 in vigore dal 1° feb. 2019, cpv. 2 in vigore dal 1° gen. 2020, cpv. 1, 3 e 4 in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^151l-2]: Introdotto dal n. I dell’O del 3 lug. 2019, in vigore dal 1° gen. 2021 ([RU 2019 2143](https://fedlex.data.admin.ch/eli/oc/2019/397)).
+[^151l-2]: Introdotto dal n. I dell’O del 3 lug. 2019, in vigore dal 1° gen. 2021 (RU **20****19** 2143).
 
 #### Art. 151m
 
@@ -3208,7 +3208,7 @@ Tutte le disposizioni contrarie alla presente ordinanza sono abrogate alla data 
 
 [^u2-1]
 
-[^u2-1]: [RU 1991 982](https://fedlex.data.admin.ch/eli/oc/1991/982_982_982)
+[^u2-1]: RU **1****991** 982
 
 <sup>1</sup> Le persone che hanno l’età minima richiesta e presentano innanzi il 1° gennaio 1993 una domanda di licenza per allievo conducente delle categorie A, A1, A2, B, C, C1 o D2 non sono tenute a seguire il corso di teoria della circolazione conformemente all’articolo 17*a* o la formazione pratica di base conformemente all’articolo 17*b*.
 
@@ -3335,7 +3335,7 @@ B. Risultato dell’esame
 - Anomalie del setto nasale:
 - Macchie epatiche:
 - Altre anomalie:
-- 4 *Psiche*
+- 4 *Psich**e*
 - Umore:
 - Stato di eccitazione:
 - Attenzione:
@@ -3388,7 +3388,7 @@ Allegato 2a*[^t-5]*
 
 [^t-5]: Introdotto dal n. II cpv. 1 dell’O del 1° lug. 2015, in vigore dal 1° lug. 2016 ([RU 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 
-**Categorie C o D, sottocategorie C1 o D1, permesso per il trasporto professionale di persone, esperti della circolazione**
+**Categ****orie C o D, sottocategorie C1 o D1, permesso per il trasporto professionale di persone, esperti della circolazione**
 
 (copia per il medico)
 
@@ -3444,7 +3444,7 @@ B. Risultato dell’esame
 - Sensibilità (senso della vibrazione e senso della posizione):
 - Camminata lungo una linea:
 - Segni vegetativi/tremore:
-- 7 *Sistema cardiovascolare*
+- 7 *Siste**ma cardiovascolare*
 - Polso:
 - Pressione arteriosa: Eventuale valore diastolico:
 - Polsi periferici:
@@ -3823,7 +3823,7 @@ Allegato 7*[^t-11]*
 
 ## Gruppi di materie per gli esami di esperti della circolazione
 
-[^t-11]: Aggiornato dal n. II 10 dell’all. all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)) e dal n. II cpv. 2 dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
+[^t-11]: Aggiornato dall’all. n. II 10 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)) e dal n. II cpv. 2 dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
 ### 1 Esperti della circolazione incaricati degli esami di conducente e degli esami dei veicoli
 
@@ -4165,11 +4165,11 @@ Si richiede uno stile di guida regolare e fluido con una buona percezione del tr
 La durata dell’esame e la distanza percorsa devono essere sufficienti per consentire la valutazione della capacità e dei comportamenti conformemente al presente allegato. La durata dell’esame non deve essere in nessun caso inferiore a:
 
 - – 30 minuti per la categoria A e la sottocategoria A1,
-- – 60 minuti per le categorie B, BE, DE, le sottocategorie B1, C1, D1, C1E e D1E, la categoria speciale F come anche per il permesso per il trasporto professionale di persone giusta l’articolo 25. La corsa d’esame per conseguire il certificato di capacità per il trasporto di persone o il certificato di capacità per il trasporto di merci giusta l’articolo 14 capoverso 3 dell’ordinanza del 15 giugno 2007[^annex12-lvlu1-lvlIV-1] sull’ammissione degli autisti può essere effettuata subito dopo,
+- – 60 minuti per le categorie B, BE, DE, le sottocategorie B1, C1, D1, C1E e D1E, la categoria speciale F come anche per il permesso per il trasporto professionale di persone giusta l’articolo 25. La corsa d’esame per conseguire il certificato di capacità per il trasporto di persone o il certificato di capacità per il trasporto di merci giusta l’articolo 14 capoverso 3 dell’ordinanza del 15 giugno 2007[^annex11-lvlu1-lvlIV-1] sull’ammissione degli autisti può essere effettuata subito dopo,
 - – 90 minuti per le categorie C e CE,
 - – 120 minuti per la categoria D.
 
-[^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^annex11-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
 
 ### V. Veicoli per gli esami
 

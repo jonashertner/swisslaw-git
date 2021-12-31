@@ -4,11 +4,11 @@ title: "Verordnung vom 27. Oktober 1976 über die Zulassung von Personen und Fah
 short: VZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: de
-version: 2021-07-07
+version: 2022-01-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20210707/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20210707-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210707/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210707/de"
 
 (Verkehrszulassungsverordnung,**[^t-1]** VZV)
 
-vom 27. Oktober 1976 (Stand am 7. Juli 2021)
+vom 27. Oktober 1976 (Stand am 1. Januar 2022)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -443,15 +443,15 @@ Das Mindestalter zum Führen von Motorfahrzeugen beträgt für:
   - 1\. Kleinmotorräder: 15 Jahre,
   - 2\. die übrigen Fahrzeuge: 16 Jahre;
 
-- c<sup>bis</sup>.[^6-3] die Kategorien B und BE: 17 Jahre;
+- c<sup>bi</sup><sup>s</sup>.[^6-3] die Kategorien B und BE: 17 Jahre;
 - d.[^6-4] die Kategorien A, C und CE sowie die Unterkategorien B1, C1 und C1E: 18 Jahre;
 - e. die Kategorien D und DE sowie die Unterkategorien D1 und D1E: 21 Jahre;
 - f.[^6-5] Motorfahrzeuge, für die ein Führerausweis nicht erforderlich ist: 16 Jahre.
 - [tab] <sup>2</sup> Lernenden der beruflichen Grundbildung «Strassentransportfachfrau/Strassentransportfachmann EFZ» darf der Lernfahrausweis der Kategorien C und CE bereits nach vollendetem 17. Altersjahr erteilt werden. Die Führerprüfung der Kategorien B, C und CE darf frühestens 6 Monate vor dem vollendeten 18. Altersjahr abgelegt, der Führerausweis erst nach vollendetem 18. Altersjahr erteilt werden.[^6-6]
 
-<sup>3</sup> ...[^6-7]
+<sup>3</sup> …[^6-7]
 
-<sup>3bis</sup> ...[^6-8]
+<sup>3bis</sup> …[^6-8]
 
 <sup>4</sup>
 
@@ -552,7 +552,7 @@ Vor der Einreichung eines Gesuchs um die Erteilung eines Lernfahr- oder Führera
 
 <sup>3</sup> Der Sehtest darf im Zeitpunkt der Einreichung des Gesuchs nicht mehr als 24 Monate zurückliegen.
 
-<sup>4</sup> ...[^9-2]
+<sup>4</sup> …[^9-2]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^9-2]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
@@ -859,9 +859,9 @@ Das ASTRA erlässt Weisungen über die Gestaltung und den Inhalt des Kurses übe
 
 <sup>2</sup> Die Kantone erarbeiten die Prüfungsfragen im Einvernehmen mit dem ASTRA.
 
-<sup>3</sup> ...[^21-1]
+<sup>3</sup> …[^21-1]
 
-<sup>4</sup> ...[^21-2]
+<sup>4</sup> …[^21-2]
 
 [^21-1]: Aufgehoben durch Ziff. I der V vom 26. Sept. 2003, mit Wirkung seit 1. Nov. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^21-2]: Aufgehoben durch Ziff. I der V vom 14. Dez. 2018, mit Wirkung seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -911,7 +911,7 @@ Keine praktische Führerprüfung haben abzulegen:
 
 <sup>3</sup> Der Führerausweis der Kategorie A mit Leistungsbeschränkung wird Personen erteilt, die einen Lernfahrausweis mit Leistungsbeschränkung besitzen und die praktische Führerprüfung bestanden haben. Der Führerausweis der Kategorie A ohne Leistungsbeschränkung wird Personen erteilt, die einen Lernfahrausweis ohne Leistungsbeschränkung besitzen und die praktische Führerprüfung bestanden haben.[^24-2]
 
-<sup>4</sup> und <sup>5</sup> ...[^24-3]
+<sup>4</sup> und <sup>5</sup> …[^24-3]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -995,7 +995,7 @@ Für Auflagen, Beschränkungen und andere Zusatzangaben, die im Führerausweis e
 
 <sup>1</sup> Führer von land- und forstwirtschaftlichen Motorfahrzeugen müssen auf Fahrten zwischen dem Betrieb und dem bewirtschafteten Einsatzgebiet den Führerausweis oder die Bestätigung der Anmeldung zu einem anerkannten Traktorfahrkurs nicht mit sich führen.[^24g-2]
 
-<sup>2</sup> ...[^24g-3]
+<sup>2</sup> …[^24g-3]
 
 [^24g-1]: Ursprünglich Art. 24*d*
 [^24g-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
@@ -1073,7 +1073,7 @@ Die Bewilligung zum berufsmässigen Personentransport wird dem Inhaber eines Fü
 
 <sup>2</sup> Verlegt der Ausweisinhaber den Wohnsitz, muss er seine neue Adresse der zuständigen Behörde am neuen Wohnsitz innert 14 Tagen mitteilen. Bei einer Wohnsitzverlegung in das Ausland muss er sich bei der bisherigen Behörde abmelden.
 
-[^26-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
+[^26-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 (AS **20****02** 3259).
 
 #### Art. 26a
 
@@ -1117,7 +1117,7 @@ Die kantonale Behörde kann:
 <sup>4</sup> Die kantonale Behörde kann im Einzelfall anordnen, dass der Umfang einer verkehrsmedizinischen Untersuchung auszudehnen oder einzuschränken ist; der Arzt ist in diesem Fall nicht an die Formulare nach den Anhängen 2 und 2*a* gebunden.
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
-[^27-2]: Fassung gemäss Ziff. I der V vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2809](https://fedlex.data.admin.ch/eli/oc/2018/426)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 (AS **201****8** 2809).
 
 ### 12*b***** Weiterausbildung für Inhaber eines Führerausweises auf Probe
 
@@ -1177,7 +1177,7 @@ Zur Veranstaltung der Weiterausbildung ist eine Bewilligung erforderlich. Diese 
 - b. mindestens vier Moderatoren einsetzen kann; die Moderatoren, die Inhaber des Führerausweises auf Probe der Kategorie A weiterausbilden, müssen zusätzlich über eine Ausbildung als Motorradfahrlehrer verfügen;
 - c. über eine genügende Haftpflichtversicherung und eine Vollkaskoversicherung für die Fahrzeuge der Kursteilnehmer verfügt;
 - d. die Weiterausbildungskurse öffentlich anbietet; ausgenommen sind die Weiterausbildungskurse der Armee;
-- e.[^27e-3] ...
+- e.[^27e-3] …
 - f. über ein Qualitätssicherungssystem nach Artikel 27*f* verfügt.
 
 [^27e-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
@@ -1399,7 +1399,7 @@ Wer nach der Annullierung des Führerausweises auf Probe Motorfahrzeuge führen 
 
 [^lvl1-lvl13-lvl132b-1]
 
-[^lvl1-lvl13-lvl132b-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 ([AS 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)).
+[^lvl1-lvl13-lvl132b-1]: Eingefügt durch Ziff. I der V vom 27. Okt. 2004, in Kraft seit 1. Dez. 2005 (AS **2****004** 5057).
 
 #### Art. 36
 
@@ -1495,7 +1495,7 @@ Die Anerkennung wird erteilt, wenn:
 
 <sup>5</sup> Wird der Vorladung unentschuldigt keine Folge gegeben, so setzt die kantonale Behörde einen neuen Termin fest; der Betroffene hat die Kosten für den versäumten Verkehrsunterricht zu tragen. Die Anfechtung neuer Vorladungen, die wegen Vereinbarung eines anderen Termins ergehen, ist ausgeschlossen.[^41-6]
 
-<sup>6</sup> ...[^41-7]
+<sup>6</sup> …[^41-7]
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 28. April 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
 [^41-2]: Eingefügt durch Ziff. I der V vom 28. April 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
@@ -1576,13 +1576,13 @@ Personen, die Vorrechte, Immunitäten und Erleichterungen nach Artikel 2 Absatz 
 <sup>4</sup> Die Behörden ziehen bei der Erteilung eines schweizerischen Führerausweises Ausweise ein, die von EU- oder EFTA-Staaten ausgestellt worden sind, und senden sie an die Ausstellungsbehörde zurück. Sie vermerken in Ausweisen, die von andern Staaten ausgestellt worden sind, die Ungültigkeit für die Schweiz. Der Inhalt der ausländischen Ausweise wird registriert.
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^44-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
+[^44-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 (AS **2****015** 2599).
 
 #### Art. 44a
 
 **Führerausweis auf Probe**[^44a-1]
 
-<sup>1</sup> Inhabern eines gültigen ausländischen Führerausweises, der zum Führen von Motorfahrzeugen der Kategorie A oder B berechtigt, wird ein schweizerischer Führerausweis auf Probe erteilt. Die Probezeit beginnt mit der Ausstellung des schweizerischen Führerausweises. Sie dauert drei Jahre, abzüglich der Zeitdauer zwischen dem Ausstelldatum des ausländischen Führerausweises und dem letzten regulären Umtauschtermin nach Artikel 42 Absatz 3<sup>bis</sup> Buchstabe a. Sie bezieht sich auf alle bereits erworbenen Ausweiskategorien und auf die während der Probezeit erworbenen weiteren Kategorien und Unterkategorien.
+<sup>1</sup> Inhabern eines gültigen ausländischen Führerausweises, der zum Führen von Motorfahrzeugen der Kategorie A oder B berechtigt, wird ein schweizerischer Führerausweis auf Probe erteilt. Die Probezeit beginnt mit der Ausstellung des schweizerischen Führerausweises. Sie dauert drei Jahre, abzüglich der Zeitdauer zwischen dem Ausstelldatum des ausländischen Führerausweises und dem letzten regulären Umtauschtermin nach Artikel 42 Absatz 3<sup>b</sup><sup>is</sup> Buchstabe a. Sie bezieht sich auf alle bereits erworbenen Ausweiskategorien und auf die während der Probezeit erworbenen weiteren Kategorien und Unterkategorien.
 
 <sup>2</sup>
 
@@ -1640,7 +1640,7 @@ Aberkennungen, die wegen Umgehung der schweizerischen oder ausländischen Zustä
 [^46-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^46-3]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
-### 15 ...
+### 15 …
 
 #### Art. 47–64
 
@@ -1883,7 +1883,7 @@ Fahrzeugausweis und Kontrollschilder werden erteilt, wenn:
 [^71-6]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^71-7]: Fassung gemäss Anhang Ziff. 5 der Automobilsteuerverordnung vom 20. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
 [^71-8]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^71-9]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^71-9]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 (AS **20****19** 321).
 [^71-10]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^71-11]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
@@ -1917,7 +1917,7 @@ Weder Fahrzeugausweis noch Kontrollschilder benötigen:
 - k.[^72-8] Leicht-Motorfahrräder;
 - l.[^72-9] Rollstühle[^72-10] mit elektrischem Antrieb und einer Höchstgeschwindigkeit bis 10 km/h.
 
-<sup>2</sup> ...[^72-11]
+<sup>2</sup> …[^72-11]
 
 <sup>3</sup> Die Kantone können bei Vorliegen eines gültigen Versicherungsnachweises die Überführung eines Fahrzeugs zur Fahrzeugprüfung auf dem kürzesten Weg durch eine Vorladung bewilligen.[^72-12]
 
@@ -1961,7 +1961,7 @@ Die Zulassungsbehörde des Standortkantons erteilt den Fahrzeugausweis dem Halte
   bei der erstmaligen Zulassung eines Fahrzeugs schweizerischer Herkunft oder bei der Zulassung eines Fahrzeugs ausländischer Herkunft:
 
   - 1\. den Prüfungsbericht (Form. 13.20 A) gegebenenfalls mit Zollstempel oder mit separater Zollbewilligung,
-  - 2\.[^74-2] ...
+  - 2\.[^74-2] …
 
 - b.
 
@@ -1996,14 +1996,14 @@ Die Zulassungsbehörde des Standortkantons erteilt den Fahrzeugausweis dem Halte
 
 <sup>4</sup> Die Prüfungsberichte oder deren Inhalt sowie die technischen Angaben in den Beilagen sind von der Behörde während 15 Jahren seit der ersten Inverkehrsetzung der Fahrzeuge aufzubewahren.
 
-<sup>5</sup> Im Einvernehmen mit den Kantonen, der zuständigen Behörde im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) und der Eidgenössischen Zollverwaltung[^75-6] legt das ASTRA den Inhalt des Prüfungsberichts fest und erlässt Weisungen über das Ausfüllen des Prüfungsberichtes.[^75-7]
+<sup>5</sup> Im Einvernehmen mit den Kantonen, der zuständigen Behörde im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) und dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^75-6] legt das ASTRA den Inhalt des Prüfungsberichts fest und erlässt Weisungen über das Ausfüllen des Prüfungsberichtes.[^75-7]
 
 [^75-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
 [^75-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^75-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 [^75-4]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^75-5]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^75-6]: Ausdruck gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^75-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^75-7]: Fassung gemäss Ziff. I der V vom 3. Sept. 2003, in Kraft seit 1. Okt. 2003 ([AS 2003 3373](https://fedlex.data.admin.ch/eli/oc/2003/470)).
 
 #### Art. 76
@@ -2014,7 +2014,7 @@ Die Zulassungsbehörde des Standortkantons erteilt den Fahrzeugausweis dem Halte
 
 <sup>2</sup> Die Berechtigung, in der Schweiz ein Fahrzeug zu verwenden, für das keine Zollveranlagung durchgeführt wurde oder das unversteuert ist, ist mit einer Bewilligung der Zollbehörde nachzuweisen.
 
-<sup>3</sup> Die Eidgenössische Zollverwaltung gibt den Zulassungsbehörden die Fahrzeugarten bekannt, für die der Nachweis der Zollveranlagung und der Versteuerung nach Absatz 1 oder eine Bewilligung nach Absatz 2 nicht erforderlich ist.
+<sup>3</sup> Das BAZG gibt den Zulassungsbehörden die Fahrzeugarten bekannt, für die der Nachweis der Zollveranlagung und der Versteuerung nach Absatz 1 oder eine Bewilligung nach Absatz 2 nicht erforderlich ist.
 
 [^76-1]: Fassung gemäss Anhang 4 Ziff. 35 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^76-2]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
@@ -2098,7 +2098,7 @@ Wird der Zulassungsbehörde ein Fahrzeugausweis vorgelegt, der einen Eintrag nac
 
 <sup>3</sup> Die Verweigerung ist hinfällig, wenn die schriftliche oder elektronische Zustimmung der im Formular genannten natürlichen oder juristischen Person oder ein rechtskräftiges Gerichtsurteil über die Eigentumsverhältnisse vorliegen.[^81-3]
 
-<sup>4</sup> ...[^81-4]
+<sup>4</sup> …[^81-4]
 
 [^81-1]: Fassung gemäss Ziff. I der V vom 11. April 2001, in Kraft seit 1. Juni 2001 ([AS 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^81-2]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
@@ -2121,14 +2121,14 @@ Es werden abgegeben:
 - [tab] d.[^82-2]Kontrollschilder mit hellgrünem Grund und schwarzer Schrift für land- und forstwirtschaftliche Fahrzeuge;
 - [tab] e.[^82-3]Kontrollschilder mit gelbem Grund und schwarzer Schrift für Kleinmotorräder und Leichtmotorfahrzeuge;
 - f. Kontrollschilder mit schattenschwarzem Grund und weisser Schrift für Armeefahrzeuge; lassen sich diese Kontrollschilder nicht zweckmässig anbringen, so werden Wappen, Buchstabe und Nummer in einem schattenschwarzen Feld auf die Karosserie aufgemalt;
-- g.[^82-4] ...
+- g.[^82-4] …
 
 <sup>2</sup>
 
 Besonders gekennzeichnet werden:
 
 - a. die Schilder für die provisorische Zulassung nach Artikel 18 VVV[^82-5];
-- b.[^82-6] ...
+- b.[^82-6] …
 - c. die Händlerschilder mit dem Buchstaben «U»;
 - d.[^82-7] die Schilder für Fahrzeuge von Haltern mit diplomatischen oder konsularischen Vorrechten und Immunitäten mit dem Zeichen «CD», «CC» oder «AT» auf dunkelgrünem oder dunkelblauem Feld.
 
@@ -2308,7 +2308,7 @@ Die Kantone stellen Schilder mit reflektierendem Belag zur Verfügung. Sie entsc
 
 **Besondere Prüfungsfahrzeuge**[^88a-1]
 
-<sup>1</sup> ...[^88a-2]
+<sup>1</sup> …[^88a-2]
 
 <sup>2</sup> Wird die praktische Führerprüfung der Unterkategorie A1 mit einem Motorrad abgelegt, dessen Geschwindigkeit auf 45 km/h beschränkt ist, so dürfen nur entsprechende Motorräder geführt werden.
 
@@ -2346,7 +2346,7 @@ Motorfahrräder sind zum Verkehr zugelassen, wenn sie mit dem Fahrzeugausweis f�
 
 <sup>2</sup> Der Fahrzeugausweis wird aufgrund einer gruppenweisen Prüfung der Motorfahrräder beim Hersteller oder Importeur nach Artikel 92 oder aufgrund einer Einzelprüfung nach Artikel 93 abgegeben. Er ist unbefristet gültig.
 
-<sup>3</sup> Zuständig für die Abgabe des Fahrzeugausweises ist bei der gruppenweisen Prüfung die Zulassungsbehörde des Kantons, in dem der Betrieb liegt. ...[^91-2]
+<sup>3</sup> Zuständig für die Abgabe des Fahrzeugausweises ist bei der gruppenweisen Prüfung die Zulassungsbehörde des Kantons, in dem der Betrieb liegt. …[^91-2]
 
 <sup>4</sup> Der Fahrzeugausweis für Motorfahrräder ist stets mitzuführen.
 
@@ -2363,7 +2363,7 @@ Motorfahrräder sind zum Verkehr zugelassen, wenn sie mit dem Fahrzeugausweis f�
 
 <sup>3</sup> Die Kantone übergeben dem Hersteller oder Importeur die Fahrzeugausweise in der Anzahl der auf den Verzeichnissen angegebenen Motorfahrräder. Der Hersteller oder Importeur hat im Fahrzeugausweis die technischen Daten der einzelnen Motorfahrräder einzutragen und ihre Typenkonformität zu bestätigen.
 
-<sup>4</sup> Die Kantone führen über die den Herstellern oder den Importeuren abgegebenen Fahrzeugausweise Kontrollen, die zusammen mit den Verzeichnissen während fünf Jahren aufzubewahren sind. Sie stellen die Doppel der Verzeichnisse dem ASTRA zu. Das ASTRA und die Eidgenössische Zollverwaltung sind jederzeit zur Einsichtnahme in die kantonalen Kontrollen befugt.
+<sup>4</sup> Die Kantone führen über die den Herstellern oder den Importeuren abgegebenen Fahrzeugausweise Kontrollen, die zusammen mit den Verzeichnissen während fünf Jahren aufzubewahren sind. Sie stellen die Doppel der Verzeichnisse dem ASTRA zu. Das ASTRA und das BAZG sind jederzeit zur Einsichtnahme in die kantonalen Kontrollen befugt.
 
 <sup>5</sup> Gruppenweise geprüfte Motorfahrräder dürfen nur mit den für sie bestimmten Fahrzeugausweisen in den Handel gebracht werden. Für abhanden gekommene Fahrzeugausweise erteilt der für die Abgabe zuständige Kanton (Art. 91 Abs. 3 erster Satz) aufgrund der Verzeichnisse neue Ausweise.
 
@@ -2448,7 +2448,7 @@ Anhänger an Motorfahrrädern benötigen weder einen Fahrzeugausweis noch ein Ko
 
 [^97-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 
-### 24 ...
+### 24 …
 
 #### Art. 98–104
 
@@ -2529,7 +2529,7 @@ Wird bei einer Prüfung oder Kontrolle festgestellt, dass Fahrzeuge, die nach Ar
 
 [^110-1]: Aufgehoben durch Ziff. II 64 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### 253 ...
+### 253 …
 
 #### Art. 111–113
 
@@ -2554,9 +2554,9 @@ Wird bei einer Prüfung oder Kontrolle festgestellt, dass Fahrzeuge, die nach Ar
 
 <sup>4</sup> Ausländische Fahrzeuge müssen das Unterscheidungszeichen des Zulassungsstaates tragen.
 
-[^114-1]: [SR 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)**.** Heute: auch nach dem Übereink. vom 8. Nov. 1968 über den Strassenverkehr ([SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) und dem Europäischen Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
+[^114-1]: [SR 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)**.** Heute: auch nach dem Übereink. vom 8. Nov. 1968 über den Strassenverkehr ([SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) und dem Europäischen Zusatzübereinkommen vom 1. Mai 1971 (SR **0****.****741.101**).
 [^114-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
-[^114-3]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^114-3]: Fassung gemäss Anhang 1 Ziff. II 10 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 (AS **1****995** 4425).
 
 #### Art. 115
 
@@ -2572,7 +2572,7 @@ Wird bei einer Prüfung oder Kontrolle festgestellt, dass Fahrzeuge, die nach Ar
 
 <sup>2</sup> Ist die Gültigkeitsdauer einer ausländischen Zulassung im Ausland abgelaufen, so können die Zollämter bei der Einreise die Verwendung des Fahrzeugs in der Schweiz für höchstens einmal 30 aufeinander folgende Tage bewilligen; nach Ablauf dieser Frist muss das Fahrzeug in der Schweiz immatrikuliert werden.
 
-<sup>3</sup> ...[^115-2]
+<sup>3</sup> …[^115-2]
 
 <sup>4</sup> Ausländische Motorfahrräder sind als Motorräder oder Kleinmotorräder zuzulassen, sofern sie nicht einem in der Schweiz anerkannten Motorfahrrad-Typ in allen Teilen entsprechen.[^115-3]
 
@@ -2624,7 +2624,7 @@ Die ausländischen Fahrzeuge können im Standortkanton von dem Tag an besteuert 
 
 ### 31 Meldewesen
 
-### 311 ...
+### 311 …
 
 #### Art. 118
 
@@ -2659,11 +2659,11 @@ Die ausländischen Fahrzeuge können im Standortkanton von dem Tag an besteuert 
 
 #### Art. 122
 
-**Kontrolle durch die Eidgenössische Zollverwaltung**[^122-1]
+**Kontrolle durch das BAZG**[^122-1]
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung trifft mit den Kantonen die für die Nachprüfung der Zollveranlagung und Versteuerung nach AStG[^122-2] sowie für die Kontrollführung erforderliche Regelung. Sie ist befugt, die damit zusammenhängenden Überprüfungen vorzunehmen.
+<sup>1</sup> Das BAZG trifft mit den Kantonen die für die Nachprüfung der Zollveranlagung und Versteuerung nach AStG[^122-2] sowie für die Kontrollführung erforderliche Regelung. Es ist befugt, die damit zusammenhängenden Überprüfungen vorzunehmen.
 
-<sup>2</sup> Bei provisorisch zugelassenen Fahrzeugen, für die keine Zollveranlagung durchgeführt wurde oder die unversteuert sind, senden die Kantone die von der Eidgenössischen Zollverwaltung verlangten Unterlagen über die Befreiung an die Eidgenössische Fahrzeugkontrolle. Die Eidgenössische Zollverwaltung kann im Einvernehmen mit der Eidgenössischen Fahrzeugkontrolle ein elektronisches Meldeverfahren vorsehen.
+<sup>2</sup> Bei provisorisch zugelassenen Fahrzeugen, für die keine Zollveranlagung durchgeführt wurde oder die unversteuert sind, senden die Kantone die von dem BAZG verlangten Unterlagen über die Befreiung an die Eidgenössische Fahrzeugkontrolle. Das BAZG kann im Einvernehmen mit der Eidgenössischen Fahrzeugkontrolle ein elektronisches Meldeverfahren vorsehen.
 
 [^122-1]: Fassung gemäss Anhang 4 Ziff. 35 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^122-2]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
@@ -2696,7 +2696,7 @@ Die Strafbehörden melden der für den Strassenverkehr zuständigen Behörde des
 
 [^124-1]: Aufgehoben durch Ziff. I der V vom 13. Nov. 1991, mit Wirkung seit 1. Jan. 1992 ([AS 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
 
-### 314 ...
+### 314 …
 
 #### Art. 125 und 126
 
@@ -2722,7 +2722,7 @@ Die Fahrzeugstatistik umfasst:
 - d. den Bestand der Motorfahrräder und Fahrräder am Jahresende;
 - e. die Zahl der monatlich eingeführten Motorfahrräder und Motorfahrzeuge nach Buchstabe *a*.
 
-<sup>3</sup> Nach Massgabe des Bundesamtes für Statistik werden Unterlagen für die Statistik über Motorfahrzeuge nach Absatz 2 Buchstaben a und b von der Eidgenössischen Fahrzeugkontrolle, über die Anhänger sowie Motorfahrräder und Fahrräder (Abs. 2 Bst. c und d) von den Kantonen und über die Einfuhren (Abs. 2 Bst. e) von der Eidgenössischen Zollverwaltung zur Verfügung gestellt.[^127-3]
+<sup>3</sup> Nach Massgabe des Bundesamtes für Statistik werden Unterlagen für die Statistik über Motorfahrzeuge nach Absatz 2 Buchstaben a und b von der Eidgenössischen Fahrzeugkontrolle, über die Anhänger sowie Motorfahrräder und Fahrräder (Abs. 2 Bst. c und d) von den Kantonen und über die Einfuhren (Abs. 2 Bst. e) vom BAZG zur Verfügung gestellt.[^127-3]
 
 <sup>4</sup> Die für die Erhebungen notwendigen Formulare werden vom Bundesamt für Statistik abgegeben. Das ASTRA kann auf Antrag des Bundesamtes für Statistik das Meldeverfahren abweichend regeln.
 
@@ -2734,7 +2734,7 @@ Die Fahrzeugstatistik umfasst:
 
 [^128-1]
 
-[^128-1]: Aufgehoben durch Ziff. I der V vom 14. April 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1651](https://fedlex.data.admin.ch/eli/oc/2010/246)).
+[^128-1]: Aufgehoben durch Ziff. I der V vom 14. April 2010, mit Wirkung seit 1. Jan. 2011 (AS **201****0** 1651).
 
 #### Art. 129
 
@@ -2786,7 +2786,7 @@ Der Lehrmeister, der die vorzeitige Auflösung des Lehrverhältnisses mit dem La
 
 **Motorfahrradfahrer**
 
-1.–2.[^145-1] ...
+1.–2.[^145-1] …
 
 <sup>3.</sup> Wer ohne den erforderlichen Fahrzeugausweis oder das Kontrollschild ein Motorfahrrad führt,
 
@@ -2829,7 +2829,7 @@ wer ein ausländisches Fahrzeug führt, das nicht mit dem Unterscheidungszeichen
 
 wird mit Busse bestraft.[^147-1]
 
-2.[^147-2] ...
+2.[^147-2] …
 
 [^147-1]: Fassung des letzten Satzteiles gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^147-2]: Aufgehoben durch Ziff. II der V vom 7. April 1982, mit Wirkung seit 1. Juni 1982 ([AS 1982 535](https://fedlex.data.admin.ch/eli/oc/1982/535_535_535)).
@@ -2885,23 +2885,23 @@ Das ASTRA erlässt Weisungen hinsichtlich der Anforderungen an Form, Inhalt, Ges
 
 Das ASTRA kann:[^150-7]
 
-- a.[^150-8] ...
+- a.[^150-8] …
 - b.[^150-9] eine zum amtlichen Gebrauch bestimmte Anleitung für die Ärzte über die Durchführung der verkehrsmedizinischen Untersuchungen herausgeben;
 - c.[^150-10] für die Durchführung der Untersuchungen nach Artikel 9, 11*b* Absatz 1 und 27 einheitliche Methoden empfehlen;
 - d. die Anforderungen festlegen, denen Motorfahrzeugführer in verkehrspsychologischer Hinsicht genügen müssen;
 - e.[^150-11] die Anerkennungsfristen für ausländische Ausweise und Kontrollschilder ändern sowie auf die Kontrollfahrt nach Artikel 44 Absatz 1 und die Theorieprüfung nach Artikel 44 Absatz 2 verzichten gegenüber Führern aus Staaten, die in Bezug auf Ausbildung und Prüfung der Schweiz entsprechende Anforderungen stellen;
-- f.[^150-12] ...
+- f.[^150-12] …
 
 <sup>6</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen und in besonderen Fällen Ausnahmen von einzelnen Bestimmungen bewilligen. Es trifft allgemeine Anordnungen in der Regel nach Rücksprache mit den Kantonen und mit Fachleuten.
 
 <sup>7</sup> Das ASTRA anerkennt als Traktorfahrkurse im Sinne von Artikel 4 Absatz 3 Weiterbildungskurse, in welchen den Teilnehmern das für das Fahren im Verkehr erforderliche Grundverständnis der Fahrdynamik und die Beherrschung des Fahrzeugs gelehrt wird. Das ASTRA erlässt Weisungen über die Durchführung dieser Kurse.[^150-13]
 
-<sup>8</sup> Die Eidgenössische Zollverwaltung kann in begründeten Fällen in Abweichung von Artikel 115 Absatz 1 Buchstabe d Binnentransporte mit ausländischen Fahrzeugen bewilligen, sofern die Erhebung der geschuldeten Abgaben sichergestellt ist.[^150-14]
+<sup>8</sup> Das BAZG kann in begründeten Fällen in Abweichung von Artikel 115 Absatz 1 Buchstabe d Binnentransporte mit ausländischen Fahrzeugen bewilligen, sofern die Erhebung der geschuldeten Abgaben sichergestellt ist.[^150-14]
 
 [^150-1]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^150-2]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-3]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^150-4]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
+[^150-4]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 (AS **2****007** 5013).
 [^150-5]: Fassung gemäss Anhang 1 Ziff. 3 der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^150-6]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-7]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
@@ -2909,7 +2909,7 @@ Das ASTRA kann:[^150-7]
 [^150-9]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^150-10]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Juli 2016 ([AS 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^150-11]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^150-12]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5013](https://fedlex.data.admin.ch/eli/oc/2007/703)).
+[^150-12]: Aufgehoben durch Ziff. I der V vom 28. Sept. 2007, mit Wirkung seit 1. Jan. 2008 (AS **2007**5013).
 [^150-13]: Eingefügt durch Anhang 1 Ziff. 3 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^150-14]: Eingefügt durch Art. 59 Ziff. 3 der Schwerverkehrsabgabeverordnung vom 6. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)).
 
@@ -3005,7 +3005,7 @@ Die Inhaber eines Lernfahrausweises der bisherigen Kategorie A1, können mit ein
 
 <sup>6</sup> Prüfungsfahrzeuge der Kategorien C, D und CE, die den Anforderungen nach bisherigem Recht entsprechen, müssen spätestens ab dem 1.1.2006 den neuen Anforderungen entsprechen.
 
-<sup>7</sup> ...[^151d-2]
+<sup>7</sup> …[^151d-2]
 
 <sup>8</sup> Die bisherige Kategorie C1 berechtigt nach Ausstellung des neuen Führerausweises zum Führen von Motorfahrzeugen der neuen Unterkategorien C1 und C1E und von Wohnmotorwagen und Feuerwehrmotorwagen mit einem Gesamtgewicht von mehr als 7500 kg.
 
@@ -3017,7 +3017,7 @@ Die Inhaber eines Lernfahrausweises der bisherigen Kategorie A1, können mit ein
 
 <sup>12</sup> Die Pflicht zur Kontrolluntersuchung nach Artikel 27 Absatz 1 Buchstabe b besteht nicht für Personen, die bereits im Besitz eines Führerausweises für Motorfahrräder sind.
 
-<sup>13</sup> ...[^151d-5]
+<sup>13</sup> …[^151d-5]
 
 <sup>14</sup> Die bisherige Kategorie C ohne die Berechtigung zum Mitführen von Anhängern der Kategorie E an Motorfahrzeugen der Kategorie C (bisherige Auflage 09) berechtigt nach Ausstellung des neuen Führerausweises zum Führen der neuen Kategorien BE und DE sowie der neuen Unterkategorien C1E und D1E, sofern ein Führerausweis für das entsprechende Zugfahrzeug erteilt worden ist.
 
@@ -3156,7 +3156,7 @@ Die kantonalen Behörden können verkehrsmedizinische Untersuchungen, die von ei
 
 **Änderung bisherigen Rechts**
 
-...[^152-1]
+…[^152-1]
 
 [^152-1]: Die Änderungen können unter [AS 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)konsultiert werden.
 
@@ -3183,12 +3183,12 @@ Es werden insbesondere aufgehoben:
 [^153-2]: [[AS 1960 1182](https://fedlex.data.admin.ch/eli/oc/1960/1182_1237_1233)]
 [^153-3]: [[AS 1965 1041](https://fedlex.data.admin.ch/eli/oc/1965/1041_1053_1037)]
 [^153-4]: [[AS 1966 343](https://fedlex.data.admin.ch/eli/oc/1966/343_352_353)]
-[^153-5]: [[AS 1967 42](https://fedlex.data.admin.ch/eli/oc/1967/42_46_45)[68](https://fedlex.data.admin.ch/eli/oc/1967/68_76_), [1973 948](https://fedlex.data.admin.ch/eli/oc/1973/948_948_949)Ziff. II]
+[^153-5]: [[AS 1967 42](https://fedlex.data.admin.ch/eli/oc/1967/42_46_45)[68](https://fedlex.data.admin.ch/eli/oc/1967/68_76_); [1973 948](https://fedlex.data.admin.ch/eli/oc/1973/948_948_949)Ziff. II]
 [^153-6]: [[AS 1967 1671](https://fedlex.data.admin.ch/eli/oc/1967/1671_1717_1713)]
 [^153-7]: [[AS 1968 245](https://fedlex.data.admin.ch/eli/oc/1968/245_261_263)]
 [^153-8]: [[AS 1969 158](https://fedlex.data.admin.ch/eli/oc/1969/158_170_170)]
-[^153-9]: [[AS 1969 469](https://fedlex.data.admin.ch/eli/oc/1969/469_477_475)[524](https://fedlex.data.admin.ch/eli/oc/1969/524_532_)]
-[^153-10]: [[AS 1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811), [1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)Art. 10 Abs. 2 [715](https://fedlex.data.admin.ch/eli/oc/1971/715_716_716), [1972 603](https://fedlex.data.admin.ch/eli/oc/1972/603_611_535)[738](https://fedlex.data.admin.ch/eli/oc/1972/738_746_670)Art. 7 Abs. 2, [1973 2155](https://fedlex.data.admin.ch/eli/oc/1973/2155_2155_2155)Ziff. II, [1974 57](https://fedlex.data.admin.ch/eli/oc/1974/57_57_57)Art. 25]
+[^153-9]: [[AS 1969 469](https://fedlex.data.admin.ch/eli/oc/1969/469_477_475), [524](https://fedlex.data.admin.ch/eli/oc/1969/524_532_)]
+[^153-10]: [[AS 1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811); [1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)Art. 10 Abs. 2, [715](https://fedlex.data.admin.ch/eli/oc/1971/715_716_716); [1972 603](https://fedlex.data.admin.ch/eli/oc/1972/603_611_535), [738](https://fedlex.data.admin.ch/eli/oc/1972/738_746_670)Art. 7 Abs. 2; [1973 2155](https://fedlex.data.admin.ch/eli/oc/1973/2155_2155_2155)Ziff. II; [1974 57](https://fedlex.data.admin.ch/eli/oc/1974/57_57_57)Art. 25]
 [^153-11]: [[AS 1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)]
 [^153-12]: [SR 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
 
@@ -3336,7 +3336,7 @@ B. Untersuchungsbefunde
 - Lichtreaktion:
 - Motilität:
 - Gesichtsfeld:
-- 3 *Haut*
+- 3 *Hau**t*
 - Einstichstellen:
 - auffälliges Nasenseptum:
 - Leber-Stigmata:
@@ -3428,8 +3428,8 @@ B. Untersuchungsbefunde
 - Motilität:
 - Gesichtsfeld:
 - 3 *Hörvermögen*
-- Konversationssprache: ...... Meter (rechts/links)
-- Flüstersprache: ...... Meter (rechts/links)
+- Konversationssprache: …… Meter (rechts/links)
+- Flüstersprache: …… Meter (rechts/links)
 - Krankheiten des Innen- oder Mittelohres:
 - 4 *Haut*
 - Einstichstellen:
@@ -3457,7 +3457,7 @@ B. Untersuchungsbefunde
 - Auskultation/Herzgrenzen:
 - Venen:
 - Insuffizienzzeichen:
-- 8 *Atmungsorgane*
+- 8 *Atmungs**organe*
 - Thorax:
 - obere Luftwege:
 - Auskultation:
@@ -3470,7 +3470,7 @@ B. Untersuchungsbefunde
 - Lähmungen:
 - Unfallfolgen:
 - Funktions- und Bewegungseinschränkungen
-- 11 *andere Auffälligkeiten*
+- 11 *andere Auffälligkeite**n*
 -
 
 Zusatzuntersuchungen (bei begründeter Indikation): Laborbefunde (z.B. Alkoholmarker, Drogenscreening), EKG, Kurztests zur Ermittlung von Hirnleistungsdefiziten (z.B. Trail-Making-Test A und B/Mini-Mental-Status-Test, Uhrentest):
@@ -3540,14 +3540,14 @@ Name: Vorname: Geburtsdatum: PLZ/Wohnort: Adresse:
 <tr><td>3.2</td><td>Regelmässige ärztliche Kontrolle bei: Ärztin/Arzt der Stufe 1</td><td>Spezialärztin/Spezialarzt für</td></tr>
 </table>
 
-- Meldung des Resultats der ärztlichen Kontrolle an die kantonale Behörde in ...... Monat/en
+- Meldung des Resultats der ärztlichen Kontrolle an die kantonale Behörde in …… Monat/en
 - 3\.3 Andere Auflage (z.B. Blutzuckermessung vor Antritt der Fahrt bei Diabetesbehandlung mit Hypoglykämie-Gefahr):
 -
 
 - 4 *Nächste Kontrolluntersuchung*
 - Normale Kontrollabstände nach VZV
 - Kürzere Kontrollabstände als nach VZV:
-- Nächste Kontrolluntersuchung in ...... Monat/en durch eine anerkannte Ärztin oder einen anerkannten Arzt der Stufe ......
+- Nächste Kontrolluntersuchung in …… Monat/en durch eine anerkannte Ärztin oder einen anerkannten Arzt der Stufe ……
 
 Untersuchungsdatum:
 
@@ -4016,7 +4016,7 @@ Anhang 12*[^t-15]*
 
 ## Praktische Führerprüfung
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 ([AS 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), vom 18. Dez. 2015 ([AS 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) und vom Ziff. II Abs. 3 der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Juli 2002 ([AS 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Bereinigt gemäss Ziff. II der V vom 26. Sept. 2003 ([AS 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), Ziff. II 2 der V vom 28. April 2004 ([AS 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), Ziff. II Abs. 2 der V vom 15. Juni 2007 ([AS 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), Ziff. II der V vom 29. Nov. 2013 (AS **201****3** 4697), vom 18. Dez. 2015 ([AS 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) und vom Ziff. II Abs. 3 der V vom 14. Dez. 2018, in Kraft seit 1. Jan. 2021 ([AS 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
 
 ### I. Zulassungsbedingungen
 
@@ -4236,3 +4236,5 @@ Der Prüfungsteil zur Beurteilung der technischen Beherrschung des Fahrzeugs dar
 - 3\.8 Ampeln, Signale und Markierungen und andere Bedingungen: richtiges Verhalten an Ampeln; Hinweise von Verkehrspolizisten beachten; richtiges Verhalten bei Signalen und Markierungen;
 - 3\.9 Signale: bei Bedarf notwendige, richtige und rechtzeitige Signale geben; Fahrtrichtungen korrekt angeben; auf alle Signale von anderen Verkehrsteilnehmern angemessen reagieren;
 - 3\.10 Bremsen: rechtzeitiges Verlangsamen, den Umständen angepasstes Bremsen; vorausschauende Fahrweise; Verwendung der verschiedenen Bremssysteme (nur für die Kategorien C, D, CE, und DE); andere Systeme zur Geschwindigkeitsreduktion verwenden (nur für die Kategorien C, D, CE und DE).
+- [tab]
+- [tab]
