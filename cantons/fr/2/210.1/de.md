@@ -4,13 +4,13 @@ number: "210.1"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGZGB
 language: de
-version: 2020-07-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-12-31
 version_adopted: 2020-06-24
 adopted: 2012-02-10
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/210.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6590/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7162/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Zivilgesetzbuch - Einführungsgesetz
 
 (EGZGB)
 
-vom 10.02.2012 (Fassung in Kraft getreten am 01.07.2020)
+vom 10.02.2012 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -113,6 +113,18 @@ beschliesst:
 <sup>5</sup> Der Staatsrat legt die Voraussetzungen für die Anerkennung von Organisationen fest, die Opfer oder Urheberinnen und Urheber von Gewalt, Drohungen oder Nachstellungen begleiten. Der Staat beteiligt sich mit der Ausrichtung von nicht rückzahlbaren Beiträgen an der Finanzierung dieser Organisationen und an den Leistungen, die sie erbringen.
 
 <sup>6</sup> Bei einer Ausweisung aus der gemeinsamen Wohnung gemäss Artikel 6 Abs. 1 Bst. a wird die Gewalt ausübende Person verpflichtet, bei einer Organisation, die auf die Begleitung von Urheberinnen und Urhebern häuslicher Gewalt spezialisiert ist, an Sensibilisierungsgesprächen teilzunehmen. Der Staatsrat legt die Einzelheiten der Begleitung in einer Verordnung fest.
+
+#### Art. 6a
+
+**Umsetzung von Massnahmen der elektronischen Überwachung (ZGB 28c)**
+
+<sup>1</sup> Das Amt, das für den Vollzug der strafrechtlichen Sanktionen und die Bewährungshilfe zuständig ist[^6a-1], sorgt bei Gewalt, Drohungen oder Nachstellungen für den Vollzug der elektronischen Überwachung, die von der Gerichtspräsidentin oder vom Gerichtspräsidenten angeordnet wurde.
+
+<sup>2</sup> Die Gerichtspräsidentin oder der Gerichtspräsident entscheidet über die Beteiligung an den Kosten für den Vollzug der elektronischen Überwachung und wendet dafür sinngemäss die Regeln und den Tarif für die elektronische Überwachung an, welche die Lateinische Konferenz der in Straf- und Massnahmenvollzugsfragen zuständigen Behörden erlassen hat.
+
+<sup>3</sup> Im Übrigen regelt der Staatsrat das Verfahren auf dem Verordnungsweg.
+
+[^6a-1]: Heute: Amt für Justizvollzug und Bewährungshilfe.
 
 #### Art. 6b
 
@@ -260,7 +272,7 @@ beschliesst:
 
 <sup>1</sup> Die Friedensrichterin oder der Friedensrichter sorgt dafür, dass Zuwendungen an eine Gruppe von Personen, der das Recht der Persönlichkeit nicht zukommt, der für die Stiftungsaufsicht zuständigen Direktion[^22-1] zur Kenntnis gebracht werden.
 
-[^22-1]: Heute: Sicherheits- und Justizdirektion.
+[^22-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 
 #### Art. 23
 
@@ -748,7 +760,7 @@ beschliesst:
 
 <sup>3</sup> Die für die Gewerbepolizei zuständige Direktion[^75-1] übt die Aufsicht in diesem Bereich aus.
 
-[^75-1]: Heute: Sicherheits- und Justizdirektion.
+[^75-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 
 ## 6 Obligationenrecht
 

@@ -4,13 +4,13 @@ number: "210.1"
 title: "Loi d'application du code civil suisse"
 short: LACC
 language: fr
-version: 2020-07-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-12-31
 version_adopted: 2020-06-24
 adopted: 2012-02-10
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/210.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6590/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7162/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Code civil - Loi d'application
 
 (LACC)
 
-du 10.02.2012 (version entrée en vigueur le 01.07.2020)
+du 10.02.2012 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -113,6 +113,18 @@ Décrète:
 <sup>5</sup> Le Conseil d'Etat fixe les conditions de la reconnaissance des organisations qui prennent en charge les victimes et les auteur‑e‑s d'actes de violence, de menaces ou de harcèlement. L'Etat participe, par le versement de contributions non remboursables, au financement de ces organisations ainsi qu'aux prestations qu'elles dispensent.
 
 <sup>6</sup> En cas d'expulsion du logement commun prononcée conformément à l'article 6 al. 1 let. a, l'auteur‑e de violence est astreint‑e à des entretiens de sensibilisation auprès d'un organisme reconnu de prise en charge des auteur‑e‑s de violence domestique. Les modalités de ce suivi sont réglées par le Conseil d'Etat, par voie d'ordonnance.
+
+#### Art. 6a
+
+**Exécution des mesures de surveillance électronique (CCS 28c)**
+
+<sup>1</sup> Le service chargé de l'application des sanctions pénales et de la probation[^6a-1] s'occupe de l'exécution de la surveillance électronique ordonnée par le président ou la présidente de tribunal dans les cas de violence, de menaces ou de harcèlement.
+
+<sup>2</sup> Le président ou la présidente de tribunal statue sur la participation aux frais d'exécution de la surveillance électronique en appliquant, par analogie, les règles et le tarif pour la surveillance électronique fixés par la Conférence latine des autorités cantonales compétentes en matière d'exécution des peines et des mesures.
+
+<sup>3</sup> Pour le surplus, le Conseil d'Etat règle la procédure par voie d'ordonnance.
+
+[^6a-1]: Actuellement: Service de l'exécution des sanctions pénales et de la probation.
 
 #### Art. 6b
 
@@ -260,7 +272,7 @@ Décrète:
 
 <sup>1</sup> Le ou la juge de paix veille à ce que les libéralités faites à un groupe de personnes qui n'a pas la personnalité civile soient portées à la connaissance de la Direction chargée de la surveillance des fondations[^22-1].
 
-[^22-1]: Actuellement: Direction de la sécurité et de la justice.
+[^22-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 
 #### Art. 23
 
@@ -748,7 +760,7 @@ Décrète:
 
 <sup>3</sup> La Direction chargée de la police du commerce[^75-1] exerce la surveillance en ce domaine.
 
-[^75-1]: Actuellement: Direction de la sécurité et de la justice.
+[^75-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 
 ## 6 Droit des obligations
 
