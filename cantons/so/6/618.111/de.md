@@ -4,13 +4,13 @@ number: "618.111"
 title: "Gesetz über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe"
 short: Gebäudeversicherungsgesetz
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-03-20
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-12-08
 adopted: 2024-03-20
 in_force: 2025-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/618.111"
-pdf: "https://bgs.so.ch/api/de/versions/4849/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5192/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4849/pdf_file"
 
 (Gebäudeversicherungsgesetz)
 
-Vom 24.09.1972 (Stand 01.04.2019)
+Vom 24.09.1972 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -912,6 +912,17 @@ beschliesst:
 **Kurse**
 
 <sup>1</sup> Zur Förderung des Feuerwehrwesens organisiert die Gebäudeversicherung Kurse. Art und Dauer der Kurse werden in der Vollzugsverordnung geregelt.
+
+#### § 81bis
+
+**Beschaffung**
+
+<sup>1</sup> Die Gebäudeversicherung kann für die Feuerwehren
+
+- a) die persönliche Ausrüstung der Feuerwehrleute beschaffen und zu diesem Zweck ein zentrales Lager betreiben;
+- b) koordinierte Beschaffungen für Material, Gerätschaften und Fahrzeuge durchführen.
+
+<sup>2</sup> Sie überwälzt ihre Aufwendungen für die Beschaffungen und die Lagerführung auf die Träger der Feuerwehren.
 
 ## 4. Elementarschadenhilfe
 
