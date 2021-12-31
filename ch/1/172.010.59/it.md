@@ -4,11 +4,11 @@ title: Ordinanza del 19 ottobre 2016 sui sistemi di gestione delle identità e s
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20210101/it"
 
 (OIAM)
 
-del 19 ottobre 2016 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 19 ottobre 2016 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -426,7 +426,7 @@ Allegato*[^t-1]*
 
 ## Categorie di dati
 
-[^t-1]: Aggiornatao dal n. II dell’O del 14 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+[^t-1]: Aggiornato dal n. II dell’O del 14 nov. 2018 ([RU 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) e dall’all. n. II 7 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 Osservazione preliminare: per il significato degli asterischi (\*) si veda l’articolo 11 capoverso 4.
 
@@ -478,6 +478,6 @@ Osservazione preliminare: per il significato degli asterischi (\*) si veda l’a
 <tr><td>1. Livello di controllo</td><td></td><td>x</td><td></td></tr>
 <tr><td>2. Data della prossima ripetizione del controllo di sicurezza</td><td></td><td>x</td><td></td></tr>
 <tr><td>[tab] g. Dati che possono essere trattati soltanto nel sistema IAM gestito dalla Base d’aiuto alla condotta (BAC) dell’Esercito svizzero (art. 5 cpv. 1 lett. c)</td><td></td><td></td><td></td></tr>
-<tr><td>1. Numero d’assicurato AVS (art. 2 cpv. 1 lett. b LSIM)</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>1. Numero AVS (art. 2 cpv. 1 lett. b LSIM)</td><td></td><td>x</td><td>x</td></tr>
 <tr><td>2. Particolari caratteristiche biometriche personali: scansione dell’iride, scansione delle vene, impronte digitali, impronta della mano, caratteristiche della forma del viso e profilo vocale (art. 2*a* LSIM)</td><td></td><td>x</td><td></td></tr>
 </table>

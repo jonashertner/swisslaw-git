@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über Identitätsverwaltungs-Systeme und 
 short: IAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20210101/de"
 
 (IAMV)
 
-vom 19. Oktober 2016 (Stand am 1. Januar 2021)
+vom 19. Oktober 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -426,7 +426,7 @@ Anhang*[^t-1]*
 
 ## Datenkategorien
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2018 ([AS 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) und Anhang Ziff. II 7 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 Vorbemerkung: Zur Bedeutung der Sterne (\*) siehe Artikel 11 Absatz 4.
 
@@ -479,6 +479,6 @@ Vorbemerkung: Zur Bedeutung der Sterne (\*) siehe Artikel 11 Absatz 4.
 <tr><td>1. Prüfstufe</td><td></td><td>x</td><td></td></tr>
 <tr><td>2. Zeitpunkt der nächsten Wiederholung der Personensicherheitsprüfung</td><td></td><td>x</td><td></td></tr>
 <tr><td>[tab] g. Daten, die nur in dem von der Führungsunterstützungsbasis der Schweizer Armee betriebenen IAM-System (Art. 5 Abs. 1 Bst. c) bearbeitet werden dürfen</td><td></td><td></td><td></td></tr>
-<tr><td>1. AHV-Versichertennummer (Art. 2 Abs. 1 Bst. b MIG)</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>1. AHV-Nummer (Art. 2 Abs. 1 Bst. b MIG)</td><td></td><td>x</td><td>x</td></tr>
 <tr><td>2. besondere biometrische Personenmerkmale: Irisbild, Venenscan, Fingerabdruck, Handabdruck, Gesichtsformmerkmale und Stimmprofil (Art. 2*a* MIG)</td><td></td><td>x</td><td></td></tr>
 </table>

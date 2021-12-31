@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur les systèmes de gestion des données 
 short: OIAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/610"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-10-19
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/610/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-610-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/610/20210101/fr"
 
 (OIAM)
 
-du 19 octobre 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 19 octobre 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -426,7 +426,7 @@ Annexe*[^t-1]*
 
 ## Catégories de données
 
-[^t-1]: Mise à jour par le ch. II de l’O du 14 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)).
+[^t-1]: Mise à jour par le ch. II de l’O du 14 nov. 2018 ([RO 2018 4739](https://fedlex.data.admin.ch/eli/oc/2018/752)) et l’annexe ch. II 7 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 Remarque préliminaire: pour la signification des astérisques (\*), voir l’art. 11, al. 4.
 
@@ -478,6 +478,6 @@ Remarque préliminaire: pour la signification des astérisques (\*), voir l’ar
 <tr><td>1. Degré de contrôle</td><td></td><td>x</td><td></td></tr>
 <tr><td>2. Date de la prochaine répétition du contrôle</td><td></td><td>x</td><td></td></tr>
 <tr><td>[tab] g. Données qui ne peuvent être traitées que dans le système IAM exploité par la Base d’aide au commandement de l’armée suisse (art. 5, al. 1, let. c)</td><td></td><td></td><td></td></tr>
-<tr><td>1. Numéro d’assuré AVS (art. 2, al. 1, let. b, LSIA)</td><td></td><td>x</td><td>x</td></tr>
+<tr><td>1. Numéro AVS (art. 2, al. 1, let. b, LSIA)</td><td></td><td>x</td><td>x</td></tr>
 <tr><td>2. Caractéristiques biométriques personnelles particulières: scan de l’iris, scan des veines, empreinte digitale, empreinte de la main, caractéristiques de la forme du visage et profil de la voix (art. 2*a* LSIA)</td><td></td><td>x</td><td></td></tr>
 </table>
