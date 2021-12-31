@@ -3,13 +3,12 @@ canton: FR
 number: "122.3.1"
 title: Gesetz über die Oberamtmänner
 language: de
-version: 2021-12-01
-valid_until: 2021-12-31
-version_adopted: 2021-09-07
+version: 2022-01-01
+version_adopted: 2021-03-23
 adopted: 1975-11-20
 in_force: 1977-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.3.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6969/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6969/pdf_file"
 
 Oberamtmänner – G
 
-vom 20.11.1975 (Fassung in Kraft getreten am 01.12.2021)
+vom 20.11.1975 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -62,7 +61,7 @@ beschliesst:
 
 <sup>1a</sup> Er tritt sein Amt am ersten Tag des Monats an, der auf seine Vereidigung folgt.
 
-<sup>2</sup> Das Sondergesetz setzt sein Gehalt und seine Pension fest.
+<sup>2</sup> Das Sondergesetz setzt sein Gehalt und seine berufliche Vorsorge fest.
 
 <sup>3</sup> Der Oberamtmann untersteht zudem und sinngemäss der Gesetzgebung über das Staatspersonal.
 
