@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-12
+version: 2022-01-01
+valid_until: 2022-04-30
+version_adopted: 2021-03-31
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2993/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3057/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2993/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.07.2021)
+Vom 28.08.2002 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -341,11 +341,11 @@ beschliesst:
 <sup>4</sup> Der Kanton trägt die Kosten für
 
 - a) vom zuständigen Organ beschlossene Heimunterbringungen, soweit sie nicht durch andere Kostenträger übernommen werden,
-- b) Elternbeiträge gemäss § 54 Abs. 1 der Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsverordnung) vom 8. November 2006[^17f-1].
+- b) Elternbeiträge gemäss § 54 der Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsverordnung, BeV) vom 8. November 2006[^17f-1].
 
 <sup>5</sup> Der Kanton übernimmt für Personen in kantonalen Unterkünften
 
-- a) die Gemeindebeiträge gemäss § 53 Abs. 1 und 4<sup>bis</sup> der Betreuungsverordnung,
+- a) die Gemeindebeiträge gemäss § 53 BeV,
 - b) die Restkosten der stationären Pflege gemäss den Bestimmungen der Pflegegesetzgebung,
 - c) die Kosten der Mütter- und Väterberatung gemäss der zwischen dem Kantonalen Sozialdienst und der jeweiligen Trägerschaft der Mütter- und Väterberatungsstelle abgeschlossenen Vereinbarung.
 
