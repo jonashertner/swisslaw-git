@@ -4,13 +4,13 @@ number: "152.221.181"
 title: Verordnung über die Organisation und die Aufgaben der Bildungs- und Kulturdirektion
 short: "Organisationsverordnung BKD, OrV BKD"
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-10-23
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-11-10
 adopted: 2002-11-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.181"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1715/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1715/pdf_file"
 
 (Organisationsverordnung BKD, OrV BKD)
 
-vom 27.11.2002 (Stand 01.01.2020)
+vom 27.11.2002 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -167,8 +167,7 @@ beschliesst:
 - c ist verantwortlich für die Erarbeitung der Lehrpläne und sichert ein ausreichendes Angebot an geeigneten Lehrmitteln für die Kindergärten und Volksschulen,
 - d ist verantwortlich für die Erledigung der der Bildungs- und Kulturdirektion übertragenen Aufgaben im Bereich der Förderung der Musikschulen,
 - e führt die Erziehungsberatung,
-- f …
-- g führt die Patientenschule im Inselspital.
+- f–g …
 
 <sup>2</sup> Es betreut die Leistungsvereinbarung mit der kantonalen Schule französischer Sprache und stellt das Controlling sicher.
 

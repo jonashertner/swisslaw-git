@@ -4,13 +4,13 @@ number: "152.221.181"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'instruction publique et de la culture *"
 short: "Ordonnance d'organisation INC, OO INC"
 language: fr
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-10-23
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-11-10
 adopted: 2002-11-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.181"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1715/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2443/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1715/pdf_file"
 
 (Ordonnance d'organisation INC, OO INC)
 
-du 27.11.2002 (état au 01.01.2020)
+du 27.11.2002 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -167,8 +167,7 @@ arrête:
 - c est responsable de l'élaboration des plans d'études et veille à ce que l'éventail de moyens d'enseignement appropriés soit suffisant pour les jardins d'enfants et les établissements de la scolarité obligatoire;
 - d est responsable de l'exécution des tâches attribuées à la Direction de l'instruction publique et de la culture dans le domaine de l'encouragement des écoles de musique;
 - e dirige les services psychologiques pour enfants,
-- f …
-- g assure la gestion de l’école pour enfants hospitalisés de l’Hôpital de l’Ile.
+- f–g …
 
 <sup>2</sup> Il administre la convention de prestations conclue avec l’Ecole cantonale de langue française et assure le controlling.
 
