@@ -4,13 +4,12 @@ number: "145.52"
 title: Gesetz über die Ausübung des Anwaltsberufes
 short: Anwaltsgesetz
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-09-13
+version: 2022-01-01
+version_adopted: 2021-09-27
 adopted: 2005-04-11
 in_force: 2005-07-01
 url: "https://ar.clex.ch/app/de/texts_of_law/145.52"
-pdf: "https://ar.clex.ch/api/de/versions/972/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1387/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/972/pdf_file"
 
 (Anwaltsgesetz)
 
-vom 11.04.2005 (Stand 01.01.2011)
+vom 11.04.2005 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons Appenzell A.Rh.,
 
@@ -63,7 +62,7 @@ beschliesst:
 
 **Prüfungskommission a) Wahl**
 
-<sup>1</sup> Die Prüfungskommission besteht aus fünf Mitgliedern sowie einem bis zwei Ersatzmitgliedern, die vom Obergericht jeweils für eine Amtsdauer von vier Jahren gewählt werden.
+<sup>1</sup> Die Prüfungskommission besteht aus fünf Mitgliedern sowie mindestens drei Ersatzmitgliedern, die vom Obergericht jeweils für eine Amtsdauer von vier Jahren gewählt werden.
 
 <sup>2</sup> Mindestens zwei Mitglieder der Prüfungskommission sind in einem kantonalen Register eingetragene und im Kanton wohnhafte Anwältinnen oder Anwälte. Dem kantonalen Anwaltsverband steht ein Antragsrecht für diese Mitglieder zuhanden des Obergerichts zu.
 
@@ -89,7 +88,7 @@ beschliesst:
 
 **b) Wahl**
 
-<sup>1</sup> Die Aufsichtskommission besteht aus fünf Mitgliedern sowie zwei Ersatzmitgliedern, die vom Obergericht jeweils für eine Amtsdauer von vier Jahren gewählt werden.
+<sup>1</sup> Die Aufsichtskommission besteht aus fünf Mitgliedern sowie mindestens drei Ersatzmitgliedern, die vom Obergericht jeweils für eine Amtsdauer von vier Jahren gewählt werden.
 
 <sup>2</sup> Mindestens zwei Mitglieder der Aufsichtskommission sind in einem kantonalen Register eingetragene und im Kanton wohnhafte Anwältinnen oder Anwälte. Dem kantonalen Anwaltsverband steht ein Antragsrecht für diese Mitglieder zuhanden des Obergerichts zu.
 
