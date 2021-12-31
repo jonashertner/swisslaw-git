@@ -3,18 +3,18 @@ sr: "946.209.2"
 title: Ordinanza del 19 marzo 2002 che istituisce provvedimenti nei confronti dello Zimbabwe
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/154"
 language: it
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2002-03-19
 in_force: 2002-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2002-154-20200825-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20200825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-154-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti dello Zimbabwe
 
-del 19 marzo 2002 (Stato 25 agosto 2020) (Stato 25 agosto 2020)
+del 19 marzo 2002 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -87,9 +87,10 @@ Nella presente ordinanza s’intende per:
 
 <sup>1</sup> La SECO effettua i controlli.
 
-<sup>2</sup> Il controllo al confine compete all’Amministrazione federale delle dogane.
+<sup>2</sup> Il controllo al confine compete all’Ufficio federale della dogana e della sicurezza dei confini[^5a-2].
 
 [^5a-1]: Introdotto dal n. I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
+[^5a-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -127,7 +128,7 @@ La presente ordinanza entra in vigore il 20 marzo 2002.
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 30 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 2)
 
@@ -213,7 +214,7 @@ Allegato 1*[^t-1]*
 [^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352).L’all. 3 può essere consultato sul sito Internet seguente (SECO): www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 [^annex1-lvlu1-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 cpv. 1 e 2 e 4 cpv. 1)
 

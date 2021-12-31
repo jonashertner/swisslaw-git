@@ -3,18 +3,18 @@ sr: "946.209.2"
 title: "Ordonnance du 19 mars 2002 instituant des mesures à l'encontre du Zimbabwe"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/154"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2002-03-19
 in_force: 2002-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2002-154-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-154-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Zimbabwe
 
-du 19 mars 2002 (Etat le 25 août 2020)
+du 19 mars 2002 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -85,9 +85,10 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup> Le SECO procède aux contrôles.
 
-<sup>2</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>2</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^5a-2].
 
 [^5a-1]: Introduit par le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
+[^5a-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -125,7 +126,7 @@ La présente ordonnance entre en vigueur le 20 mars 2002.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 2)
 
@@ -171,7 +172,7 @@ Annexe 1*[^t-1]*
 
 - 5 Autres simulateurs que ceux cités dans la rubrique ML14 de l’annexe 3 de l’OCB pour l’entraînement à l’utilisation d’armes à feu et leurs logiciels spécialement conçus.
 - 6 Autres appareils de vision nocturne et d’image thermique et autres tubes intensificateurs d’image que ceux cités dans les annexes 3 et 5 de l’OCB.
-- 7 Barbelé rasoir
+- 7 Barbelé rasoir.
 - 8 Couteaux militaires, couteaux de combat et baïonnettes munis d’une lame d’une longueur supérieure à 10 cm, autres que ceux cités au ch. 1 de l’annexe 5 de l’OCB.
 - 9
 
@@ -191,13 +192,13 @@ Annexe 1*[^t-1]*
   - 11\.2 fers à entraver, chaînes multiples, manilles et menottes ou bracelets à manille individuels; ne sont pas visées les menottes dont la dimension totale, chaîne comprise, mesurée depuis le bord extérieur d’une menotte jusqu’au bord extérieur de l’autre menotte est comprise entre 150 et 280 mm en position verrouillée et qui n’ont pas été modifiées de façon à provoquer une douleur physique ou dessouffrances;
   - 11\.3 poucettes et vis pour les pouces, y compris les poucettes dentelées.
 
-- 12 Dispositifs portatifs à décharge électrique, notamment les matraques à décharge électrique, les boucliers à décharges électriques, les armes d’étourdissement et les armes à fléchettes à décharge électrique et ayant une tension à vide supérieure à 10 000 V, autres que ceux cités au ch. 1 de l’annexe 5 de l’OCB;
-- ne sont pas visés les dispositifs individuels à décharge électrique lorsqu’ils accompagnent leur utilisateur aux fins de la protection personnelle de celui-ci.
+- 12 Dispositifs portatifs à décharge électrique, notamment les matraques à décharge électrique, les boucliers à décharges électriques, les armes d’étourdissement et les armes à fléchettes à décharge électrique et ayant une tension à vide supérieure à 10 000 V, autres que ceux cités au ch. 1 de l’annexe 5 de l’OCB.
+- Ne sont pas visés les dispositifs individuels à décharge électrique lorsqu’ils accompagnent leur utilisateur aux fins de la protection personnelle de celui-ci.
 - 13
 
   Agents utilisés à des fins de lutte contre les émeutes ou d’autoprotection et équipement portatif de projection associé, comme suit:
 
-  - 13\.1 dispositifs portatifs conçus à des fins de lutte contre les émeutes ou d’autoprotection par l’administration ou la projection d’un agent chimique incapacitant autres que ceux cités au ch. 1 de l’annexe 5 de l’OCB;
+  - 13\.1 dispositifs portatifs conçus à des fins de lutte contre les émeutes ou d’autoprotection par l’administration ou la projection d’un agent chimique incapacitant autres que ceux cités au ch. 1 de l’annexe 5 de l’OCB.
   - Ce point ne s’applique pas aux dispositifs portatifs individuels lorsqu’ils accompagnent leur utilisateur à des fins de protection de celui-ci, même s’ils renferment un agent chimique;
   - 13\.2 vanillylamide de l’acide pélargonique (PAVA) (CAS 2444-46-4);
   - 13\.3 capsicum oléorésine (OC) (CAS 8023-77-6).
@@ -209,7 +210,7 @@ Annexe 1*[^t-1]*
 [^annex1-lvlu1-2]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^annex1-lvlu1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352).L’annexe 3 peut être consultée sur le site du SECO: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 1 et 2, et 4, al. 1)
 

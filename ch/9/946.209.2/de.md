@@ -3,18 +3,18 @@ sr: "946.209.2"
 title: Verordnung vom 19. März 2002 über Massnahmen gegenüber Simbabwe
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/154"
 language: de
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2002-03-19
 in_force: 2002-03-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2002-154-20200825-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/154/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-154-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/154/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Simbabwe
 
-vom 19. März 2002 (Stand am 25. August 2020)
+vom 19. März 2002 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -85,9 +85,10 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Das SECO führt die Kontrollen durch.
 
-<sup>2</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>2</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^5a-2].
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
+[^5a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -125,7 +126,7 @@ Diese Verordnung tritt am 20. März 2002 in Kraft.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 30. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3976](https://fedlex.data.admin.ch/eli/oc/2002/635)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Abs. 2)
 
@@ -210,10 +211,10 @@ Anhang 1*[^t-1]*
 [^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse des SECO: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
 [^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Abs. 1 und 2 sowie 4 Abs. 1)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie juristische Personen, gegen die sich die Finanzsanktionen richten
 
-[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[757](https://fedlex.data.admin.ch/eli/oc/2013/149)[1219](https://fedlex.data.admin.ch/eli/oc/2013/263)[3283](https://fedlex.data.admin.ch/eli/oc/2013/631), [2014 633](https://fedlex.data.admin.ch/eli/oc/2014/137), [2018 947](https://fedlex.data.admin.ch/eli/oc/2018/131), [2019 855](https://fedlex.data.admin.ch/eli/oc/2019/150), [2020 631](https://fedlex.data.admin.ch/eli/oc/2020/122)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [757](https://fedlex.data.admin.ch/eli/oc/2013/149), [1219](https://fedlex.data.admin.ch/eli/oc/2013/263), [3283](https://fedlex.data.admin.ch/eli/oc/2013/631); [2014 633](https://fedlex.data.admin.ch/eli/oc/2014/137); [2018 947](https://fedlex.data.admin.ch/eli/oc/2018/131); [2019 855](https://fedlex.data.admin.ch/eli/oc/2019/150); [2020 631](https://fedlex.data.admin.ch/eli/oc/2020/122)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
