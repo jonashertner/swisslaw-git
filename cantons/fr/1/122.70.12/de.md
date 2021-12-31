@@ -3,13 +3,12 @@ canton: FR
 number: "122.70.12"
 title: Reglement über die Arbeitszeit des Staatspersonals
 language: de
-version: 2010-01-01
-valid_until: 2021-12-31
-version_adopted: 2009-06-15
+version: 2022-01-01
+version_adopted: 2021-06-28
 adopted: 2009-06-15
 in_force: 2009-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5596/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8292/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5596/pdf_file"
 
 Staatspersonal, Arbeitszeit – R
 
-vom 15.06.2009 (Fassung in Kraft getreten am 01.01.2010)
+vom 15.06.2009 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,7 +41,9 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement gilt für das gesamte dem StPG unterstellte Personal, ausser für das Lehrpersonal.
+<sup>1</sup> Dieses Reglement gilt für das gesamte dem StPG[^2-1] unterstellte Personal, ausser für das Lehrpersonal.
+
+[^2-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 ## 2 Arbeitszeit
 
@@ -56,12 +57,14 @@ beschliesst:
 - b) die als solche anerkannten Überstunden;
 - c) die Dauer von einer oder zwei Pausen von insgesamt höchstens 20 Minuten pro normalem Arbeitstag;
 - d) die Arbeits- und Fahrdauer bei Dienstreisen;
-- e) die Dauer der im StPR vorgesehenen bewilligten Abwesenheiten;
+- e) die Dauer der im StPR[^3-1] vorgesehenen bewilligten Abwesenheiten;
 - f) die Feriendauer;
 - g) die Dauer des bezahlten Urlaubs;
 - h) die Dauer einer Ausbildung gemäss den Spezialbestimmungen.
 
 <sup>2</sup> Das Amt für Personal und Organisation (POA) erlässt Richtlinien darüber, wie die Elemente nach Absatz 1 berücksichtigt werden.
+
+[^3-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 4
 
@@ -73,35 +76,29 @@ beschliesst:
 
 #### Art. 5
 
-**Mittagspause**
+**Pause in der Hälfte der Arbeitszeit**
 
-<sup>1</sup> Für die Mittagspause wird die Arbeit für mindestens 30 Minuten unterbrochen. Diese Pause gilt nicht als Arbeitszeit und muss zwischen 11.00 und 14.00 Uhr ausserhalb des Arbeitsplatzes verbracht werden.
+<sup>1</sup> Ab einer täglichen Arbeitszeit von 7 Stunden muss die Arbeit durch eine unbezahlte Pause von mindestens 30 Minuten unterbrochen werden.
 
 #### Art. 6
 
-**Kontrolle**
-
-<sup>1</sup> Die direkten Vorgesetzten kontrollieren regelmässig:
-
-- a) die Anwesenheit der Mitarbeiterinnen und Mitarbeiter;
-- b) die Einhaltung der Blockzeiten im Sinne von Artikel 16 dieses Reglements;
-- c) die korrekte Berücksichtigung der Elemente nach Artikel 3.
+**…**
 
 ## 3 Arbeitszeiten
 
 #### Art. 7
 
-**Flexible Arbeitszeit**
+**Individuelle Arbeitszeit**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter bestimmen unter Vorbehalt der Artikel 8 und 9 ihre Arbeitszeit selbst.
+<sup>1</sup> Bei der Kantonsverwaltung ist die individuelle Arbeitszeit Standard; die Artikel 8 und 9 bleiben vorbehalten.
 
-<sup>2</sup> Die flexible Arbeitszeit setzt sich aus einer obligatorischen Präsenzzeit (Blockzeit) und einer von der Mitarbeiterin oder vom Mitarbeiter bestimmten Präsenzzeit (Gleitzeit) zusammen. Sie ist nach den Bestimmungen im 5. Abschnitt dieses Reglements geregelt.
+<sup>2</sup> Die individuelle Arbeitszeit soll es den Mitarbeiterinnen und Mitarbeitern ermöglichen, ihre Arbeitszeit innerhalb der Rahmenzeit nach Artikel 17 frei einzuteilen, sofern dies den Dienstbetrieb, der massgebend bleibt, nicht beeinträchtigt.
 
 #### Art. 8
 
 **Teilweise vorgeschriebene Arbeitszeit**
 
-<sup>1</sup> Kann die flexible Arbeitszeit aufgrund dienstlicher Bedürfnisse nicht vollumfänglich angewendet werden, so wird sie entsprechend eingeschränkt.
+<sup>1</sup> Kann die individuelle Arbeitszeit aufgrund dienstlicher Bedürfnisse nicht vollumfänglich angewendet werden, so wird sie entsprechend eingeschränkt.
 
 <sup>2</sup> Auf Dauer geltende Einschränkungen, die zu Nachtarbeit oder Arbeit an einem dienstfreien Tag verpflichten, werden in ihrem Grundsatz in einem vom Staatsrat oder der Anstellungsbehörde genehmigten spezifischen Reglement verankert oder im Standardpflichtenheft oder auch im individuellen Pflichtenheft festgehalten.
 
@@ -143,15 +140,18 @@ beschliesst:
 
 **Direkte Vorgesetzte**
 
-<sup>1</sup> Die direkten Vorgesetzten kontrollieren gemäss Artikel 6, ob die Arbeitszeiten von ihren Untergebenen eingehalten werden.
+<sup>1</sup> Die direkten Vorgesetzten kontrollieren regelmässig:
 
-<sup>2</sup> Sie sind für die vorübergehenden Einschränkungen der flexiblen Arbeitszeit zuständig.
+- a) die Erfassung und Einhaltung der monatlichen Arbeitszeit durch ihre Mitarbeitenden;
+- b) die korrekte Berücksichtigung der Elemente nach Artikel 3 in der Arbeitszeit.
+
+<sup>2</sup> Sie sind für die vorübergehenden Einschränkungen der individuellen Arbeitszeit zuständig.
 
 <sup>3</sup> Sie üben die übrigen Befugnisse aus, die ihnen mit diesem Reglement übertragen werden.
 
-## 5 Flexible Arbeitszeit
+## 5 Individuelle Arbeitszeit
 
-### 5.1 Basismodell
+### 5.1
 
 #### Art. 14
 
@@ -159,11 +159,13 @@ beschliesst:
 
 <sup>1</sup> Die normale Arbeitsdauer beträgt:
 
-- a) pro Tag: ein Fünftel der wöchentlichen Arbeitsdauer nach StPR;
+- a) pro Tag: ein Fünftel der wöchentlichen Arbeitsdauer nach StPR[^14-1];
 - b) pro Halbtag: die Hälfte der Arbeitsdauer nach Buchstabe a;
 - c) am Vortag eines Feiertages: drei Viertel der in Buchstabe a bestimmten Arbeitsdauer.
 
-<sup>2</sup> Vorbehalten bleiben die vorgeschriebenen Arbeitszeiten für unregelmässige Tagesarbeitsdauern sowie die Arbeitszeiten bei Teilzeitbeschäftigung.
+<sup>2</sup> Die tägliche Höchstarbeitszeit beträgt 12 Stunden. Im Fall ausserordentlicher Ereignisse kann die tägliche Arbeitszeit mit der Zustimmung der oder des direkten Vorgesetzten ausnahmsweise erhöht werden.
+
+[^14-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 15
 
@@ -173,32 +175,23 @@ beschliesst:
 
 #### Art. 16
 
-**Blockzeit und Gleitzeit**
-
-<sup>1</sup> Die in Vollzeit angestellten Mitarbeiterinnen und Mitarbeiter sind zur Arbeit verpflichtet:
-
-- a) morgens von 8.30 bis 11.00 Uhr;
-- b) nachmittags von 14.00 bis 16.30 Uhr.
-
-<sup>2</sup> Die Gleitzeit umfasst den Zeitraum ausserhalb der Blockzeit und innerhalb der Rahmenzeit nach Artikel 17.
-
-<sup>3</sup> Die Blockzeit des in Teilzeit angestellten Personals wird von der Dienstchefin oder vom Dienstchef festgelegt. Dabei wird den Wünschen der Mitarbeiterin oder des Mitarbeiters Rechnung getragen, soweit dies mit den dienstlichen Bedürfnissen und dem Grundsatz der Gleichbehandlung vereinbar ist.
-
-<sup>4</sup> Während der Blockzeit dürfen sich die Mitarbeiterinnen und Mitarbeiter aus privaten Gründen nur mit Erlaubnis der Dienstchefin oder des Dienstchefs, der oder des direkten Vorgesetzten von der Arbeit entfernen. Diese Abwesenheiten gelten unter Vorbehalt von Artikel 3 Abs. 1 Bst. e und f nicht als Arbeitszeit.
-
-<sup>5</sup> Die Vorschriften über die Öffnungszeiten der Kantonsverwaltung bleiben vorbehalten.
+**…**
 
 #### Art. 17
 
 **Rahmenzeit**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter setzen ihre Arbeitszeit zwischen 6.30 und 19.00 Uhr an. Die Artikel 12 und 16 bleiben vorbehalten.
+<sup>1</sup> Die tägliche Rahmenzeit beginnt von Montag bis Freitag frühestens um 6 Uhr und endet spätestens um 20 Uhr.
+
+<sup>2</sup> Auf Antrag kann die oder der direkte Vorgesetzte ausserhalb der Rahmenzeit nach Absatz 1 geleistete Arbeit bewilligen, sofern dies den Dienstbetrieb nicht beeinträchtigt.
+
+<sup>3</sup> Zur Vereinfachung der Arbeitsorganisation sind die Mitarbeitenden gehalten, ihre Abwesenheiten in ihren elektronischen Kalender einzutragen.
+
+<sup>4</sup> Die Vorschriften über die Öffnungszeiten der Kantonsverwaltung bleiben vorbehalten.
 
 #### Art. 18
 
-**Umwandlung von Ferien in Stunden**
-
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter können den über zwanzig Tage pro Jahr hinausgehenden Feriensaldo in Stunden umwandeln, die als Arbeitsstunden gelten. Sie ermöglichen ein Fernbleiben während der Gleitzeit sowie nach Einwilligung der oder des direkten Vorgesetzten während der Blockzeit.
+**…**
 
 #### Art. 19
 
@@ -206,15 +199,17 @@ beschliesst:
 
 <sup>1</sup> Jeweils am Monatsende wird die Differenz zwischen der geleisteten monatlichen Arbeitszeit und der monatlichen Sollarbeitszeit in den Grenzen der Artikel 20 und 21 auf die Sollarbeitszeit des folgenden Monats übertragen.
 
+<sup>2</sup> Auf der Grundlage einer schriftlichen Vereinbarung zwischen der Dienstchefin oder dem Dienstchef und der Mitarbeiterin oder dem Mitarbeiter kann der höchstzulässige Saldo nach den Artikeln 20 und 21 erhöht werden, wenn besondere Flexibilität für den reibungslosen Dienstbetrieb oder aufgrund individueller Wünsche nach Vereinbarkeit von Berufs- und Privatleben gefragt ist.
+
 #### Art. 20
 
 **Übertrag des monatlichen Saldos – Positiver Saldo**
 
 <sup>1</sup> Ergibt die Differenz zwischen der geleisteten monatlichen Arbeitszeit und der monatlichen Sollarbeitszeit einen positiven Saldo, so wird dieser Saldo im Umfang von höchstens 40 Stunden bei Vollzeitbeschäftigung und der verhältnismässigen Stundenzahl bei Teilzeitbeschäftigung von der Sollarbeitszeit des folgenden Monats in Abzug gebracht.
 
-<sup>2</sup> Möchte die Mitarbeiterin oder der Mitarbeiter den positiven Saldo mit Abwesenheit in der Blockzeit tageweise, halbtageweise oder stundenweise kompensieren, so schlägt sie oder er der oder dem direkten Vorgesetzten die gewünschten Daten frühzeitig vor. Die oder der direkte Vorgesetzte entscheidet unter Berücksichtigung der dienstlichen Bedürfnisse; Artikel 22 Abs. 3 bleibt vorbehalten.
+<sup>2</sup> Möchte die Mitarbeiterin oder der Mitarbeiter den positiven Saldo mit Abwesenheit tageweise oder halbtageweise kompensieren, so schlägt sie oder er der oder dem direkten Vorgesetzten die gewünschten Daten frühzeitig vor. Die oder der direkte Vorgesetzte entscheidet unter Berücksichtigung der dienstlichen Bedürfnisse; Artikel 22 Abs. 3 bleibt vorbehalten.
 
-<sup>3</sup> Übersteigt die Abwesenheitsdauer zur Kompensation des positiven Saldos drei Tage pro Monat, so ist die Einwilligung der Dienstchefin oder des Dienstchefs erforderlich.
+<sup>3</sup> …
 
 <sup>4</sup> Kann ein positiver Saldo nicht vor Auflösung des Dienstverhältnisses kompensiert werden, so wird er als Überstunden ausbezahlt.
 
@@ -224,9 +219,12 @@ beschliesst:
 
 <sup>1</sup> Ergibt die Differenz zwischen der geleisteten monatlichen Arbeitszeit und der monatlichen Sollarbeitszeit einen negativen Saldo, so wird dieser Saldo zur Sollarbeitszeit des folgenden Monats hinzugerechnet.
 
-<sup>2</sup> Beträgt der negative Saldo mehr als 20 Stunden bei Vollzeitbeschäftigung und mehr als die verhältnismässige Stundenzahl bei Teilzeitbeschäftigung, so müssen die darüber hinausgehenden Stunden im folgenden Monat nachgeholt werden. Sie gelten sonst als unbezahlte Abwesenheiten. Die Artikel 38ff. StPG sowie die Artikel 29ff. StPR bleiben vorbehalten.
+<sup>2</sup> Beträgt der negative Saldo mehr als 20 Stunden bei Vollzeitbeschäftigung und mehr als die verhältnismässige Stundenzahl bei Teilzeitbeschäftigung, so müssen die darüber hinausgehenden Stunden im folgenden Monat nachgeholt werden. Sie gelten sonst als unbezahlte Abwesenheiten. Die Artikel 38ff. StPG[^21-1] sowie die Artikel 29ff. StPR[^21-2] bleiben vorbehalten.
 
 <sup>3</sup> Bei Auflösung des Dienstverhältnisses muss der negative Saldo vor dem effektiven Ende des Dienstverhältnisses kompensiert werden, sonst wird auf dem letzten Gehalt ein Lohnabzug vorgenommen.
+
+[^21-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
+[^21-2]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 22
 
@@ -238,104 +236,47 @@ beschliesst:
 
 <sup>3</sup> Die Kompensation von Überstunden hat Vorrang vor der Kompensation des positiven Saldos nach Artikel 20.
 
-<sup>4</sup> In der Höchstzahl von 120 Überstunden, zu denen die Mitarbeiterinnen und Mitarbeiter nach Artikel 50 StPR verpflichtet werden können, ist der maximale positive Saldo nach Artikel 20 bereits enthalten.
+<sup>4</sup> In der Höchstzahl von 120 Überstunden, zu denen die Mitarbeiterinnen und Mitarbeiter nach Artikel 50 StPR[^22-1] verpflichtet werden können, ist der maximale positive Saldo nach Artikel 20 bereits enthalten.
 
-### 5.2 Arbeitszeitvereinbarung
+[^22-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
+
+### 5.2
 
 #### Art. 23
 
-**Grundsatz**
-
-<sup>1</sup> Es kann eine Arbeitszeitvereinbarung abgeschlossen werden, wenn die folgenden Bedingungen erfüllt sind:
-
-- a) die Arbeitszeitflexibilisierung entspricht den dienstlichen Bedürfnissen oder den für die Mitarbeiterin oder den Mitarbeiter geltenden Zielvereinbarungen, und
-- b) die Arbeitszeitflexibilisierung entspricht dem Bedürfnis der Mitarbeiterin oder des Mitarbeiters, das Privatleben mit den beruflichen Verpflichtungen in Einklang zu bringen.
+**…**
 
 #### Art. 24
 
-**Inhalt der Vereinbarung**
-
-<sup>1</sup> Die Vereinbarung legt den Rahmen für die Arbeitszeitflexibilisierung für einen bestimmten Zeitraum fest.
-
-<sup>2</sup> Dieser Zeitraum kann sich über höchstens zwei Jahre erstrecken.
-
-<sup>3</sup> Der Arbeitszeitsaldo für die Plus- und Minusstunden beträgt bei Vollzeitbeschäftigung von – 100 Stunden bis + 160 Stunden.
-
-<sup>4</sup> Es können bis zu drei Ferienwochen in Stunden umgewandelt werden.
+**…**
 
 #### Art. 25
 
-**Grenzen der täglichen und wöchentlichen Arbeit**
-
-<sup>1</sup> Die tägliche Höchstarbeitszeit beträgt 12 Stunden. Eine regelmässig über 10 Stunden hinausgehende Arbeitszeit ist nur über einen vernünftigen Zeitraum hinweg erlaubt (grundsätzlich nicht länger als 4 Wochen nacheinander). Für die in Teilzeit angestellten Mitarbeiterinnen und Mitarbeiter werden diese Obergrenzen im Verhältnis zum Beschäftigungsgrad festgelegt. Vorbehalten bleibt die Festsetzung eines durchschnittlichen jährlichen Beschäftigungsgrads in Anwendung von Artikel 10.
-
-<sup>2</sup> Zwischen 22.00 und 6.00 Uhr darf nicht gearbeitet werden; ausgenommen ist der Nachtdienst gemäss Artikel 8 Abs. 2.
-
-<sup>3</sup> Im Übrigen können technische Gründe oder Sicherheitsgründe, die den Zutritt zu den Gebäuden einschränken, weitere Arbeitszeitbeschränkungen zur Folge haben.
-
-<sup>4</sup> Arbeit, die freiwillig nachts, am Sonntag oder an einem dienstfreien Tag geleistet wird, gibt keinen Anspruch auf Entschädigungen nach dem StPR.
+**…**
 
 #### Art. 26
 
-**Verfahren**
-
-<sup>1</sup> Die Vereinbarung wird zwischen der oder dem direkten Vorgesetzten und der Mitarbeiterin oder dem Mitarbeiter anlässlich eines von der einen oder anderen Vereinbarungspartei verlangten Dienstgesprächs geschlossen.
-
-<sup>2</sup> Die Vereinbarung darf der Mitarbeiterin oder dem Mitarbeiter keinesfalls aufgezwungen werden.
-
-<sup>3</sup> Die Vereinbarung wird der Dienstchefin oder dem Dienstchef zur Genehmigung unterbreitet und anschliessend den beiden Unterzeichnenden mit Kopie an die Dienstchefin oder den Dienstchef zugestellt.
+**…**
 
 #### Art. 27
 
-**Überprüfung**
-
-<sup>1</sup> Die oder der direkte Vorgesetzte ist für die Einhaltung der Vereinbarung durch die Mitarbeiterin oder den Mitarbeiter verantwortlich.
-
-<sup>2</sup> Die Mitarbeiterin oder der Mitarbeiter erfasst die Arbeitszeit gemäss Artikel 4. Sie oder er muss die direkte Vorgesetzte oder den direkten Vorgesetzten informieren, falls die Einhaltung der Vereinbarung Schwierigkeiten bereitet.
-
-<sup>3</sup> Nach der Hälfte des in der Vereinbarung vorgesehenen Zeitraums zieht die oder der direkte Vorgesetzte eine Zwischenbilanz. Gegebenenfalls werden Korrekturmassnahmen getroffen; Artikel 28 bleibt vorbehalten.
+**…**
 
 #### Art. 28
 
-**Kündigung der Vereinbarung**
-
-<sup>1</sup> Die Vereinbarung kann jederzeit von beiden Parteien gekündigt werden, wenn die Voraussetzungen, die für sie massgebend waren, nicht mehr erfüllt sind. Die Dienstchefin oder der Dienstchef muss die Kündigung genehmigen.
-
-<sup>2</sup> Für die Mitarbeiterin oder den Mitarbeiter gilt dann wieder die gleiche Arbeitszeitregelung wie vor Inkrafttreten der Vereinbarung.
-
-<sup>3</sup> Die Abrechnung des positiven oder negativen Saldos erfolgt nach Artikel 29 Abs. 2–5.
+**…**
 
 #### Art. 29
 
-**Ablauf der Vereinbarung**
-
-<sup>1</sup> Nach Ablauf der Vereinbarung erfolgt der Ausgleich zwischen positivem und negativem Saldo nach den Absätzen 2–5.
-
-<sup>2</sup> Der Saldo der Plusstunden wird im Umfang von höchstens 40 Stunden auf den folgenden Monat übertragen.
-
-<sup>3</sup> Ein Saldo von mehr als 40 Plusstunden wird nur dann übertragen, wenn er begründet ist, und nur bis zur in der Vereinbarung vorgesehenen Plusstundenzahl. Die Dienstchefin oder der Dienstchef entscheidet über diesen Übertrag, der in Form von Überstunden nach den Artikeln 51–53 StPR erfolgt.
-
-<sup>4</sup> Der Saldo der Minusstunden wird im Umfang von höchstens 20 Stunden auf den folgenden Monat übertragen.
-
-<sup>5</sup> Ein Saldo von mehr als 20 Minusstunden kann bis zur in der Vereinbarung vorgesehenen Minusstundenzahl in den folgenden zwei Monaten kompensiert werden. Ist keine Kompensation möglich und in jedem Fall bei Unterschreitung der in der Vereinbarung vorgesehenen Minusstundenzahl, begründet der negative Saldo eine entsprechende Lohnkürzung, die grundsätzlich auf dem dreizehnten Monatsgehalt erfolgt.
-
-<sup>6</sup> Sind nach Ablauf der Vereinbarung Überstunden auszubezahlen oder muss ein Lohnabzug vorgenommen werden, so ist der Personalfachstelle oder gegebenenfalls dem POA eine Kopie der Vereinbarung zuzustellen.
+**…**
 
 #### Art. 30
 
-**Neue Vereinbarung**
-
-<sup>1</sup> Sind die Voraussetzungen nach Artikel 23 wieder erfüllt, so kann je nach Ergebnis der vorherigen Vereinbarung gemäss den Artikeln 24–29 eine neue Vereinbarung abgeschlossen werden.
-
-<sup>2</sup> Wird keine neue Vereinbarung unterzeichnet, so gelten für die Mitarbeiterin oder den Mitarbeiter die Artikel 14–22.
+**…**
 
 #### Art. 31
 
-**Kontrolle**
-
-<sup>1</sup> Die Verwaltungseinheiten führen ein Inventar der abgeschlossenen Vereinbarungen. Sie erstatten dem POA gegebenenfalls über die Personalfachstellen Bericht über die Zahl der abgeschlossenen Vereinbarungen und über deren Verlauf.
-
-<sup>2</sup> Drei Jahre nach Inkrafttreten der Bestimmungen über die Arbeitszeitvereinbarungen führt das POA bei allen Verwaltungseinheiten eine Umfrage über die Zufriedenheit durch, auf deren Grundlage es einen Bericht zuhanden des Staatsrates verfasst; gegebenenfalls schlägt es Änderungen vor. Diese Umfrage kann in regelmässigen Abständen wiederholt werden.
+**…**
 
 ## 6 Schlussbestimmungen
 
