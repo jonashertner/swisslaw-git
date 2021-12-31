@@ -4,11 +4,11 @@ title: Ordinanza del 6 novembre 2019 sui servizi finanziari (OSerFi)
 short: OSerFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/759"
 language: it
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2019-759-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-759-20220101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/it"
 
 (OSerFi)
 
-del 6 novembre 2019 (Stato 1° agosto 2021)
+del 6 novembre 2019 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge del 15 giugno 2018[^ingress-1] sui servizi finanziari (LSerFi),
 
 ordina:
 
-[^ingress-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^ingress-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## Titolo primo: Disposizioni generali
 
@@ -557,7 +557,7 @@ La somma assicurata a copertura di eventuali danni deve ammontare almeno a 500 0
 
 <sup>2</sup> Per i fornitori esteri di servizi finanziari sottoposti a una vigilanza prudenziale all’estero è considerato una garanzia finanziaria equivalente un capitale minimo corrispondente a 10 milioni di franchi.
 
-[^33-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^33-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### Sezione 2: Servizio di registrazione
 
@@ -665,7 +665,7 @@ Il servizio di registrazione sostiene, conformemente all’ordinanza del 15 otto
 - b. della procedura di adozione dei provvedimenti necessari per colmare le lacune;
 - c. della procedura di revoca dell’abilitazione.
 
-[^39-1]: [RS 956.122](https://fedlex.data.admin.ch/eli/cc/2008/749)
+[^39-1]: [RS 956.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11618)
 
 #### Art. 40
 
@@ -701,8 +701,8 @@ I consulenti alla clientela comunicano al servizio di registrazione entro 14 gio
 
 <sup>2</sup> Essi sono tenuti a rinnovare la loro registrazione entro 24 mesi. Altrimenti l’iscrizione nel registro viene cancellata.
 
-[^41-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^41-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^41-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 42
 
@@ -724,7 +724,7 @@ I consulenti alla clientela comunicano al servizio di registrazione entro 14 gio
 
 <sup>7</sup> Per il rimanente si applica l’ordinanza generale dell’8 settembre 2004[^42-1] sugli emolumenti.
 
-[^42-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^42-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Titolo terzo: Offerta di strumenti finanziari
 
@@ -784,7 +784,7 @@ Se non è incluso nel prospetto, il consenso all’utilizzazione di un prospetto
 
 <sup>3</sup> Nel caso delle offerte pubbliche di scambio, sono considerate equivalenti le indicazioni contenute in un prospetto dell’offerta redatto secondo l’articolo 127 della legge del 19 giugno 2015[^46-1] sull’infrastruttura finanziaria (LInFi). Per garantire l’equivalenza, l’organo di verifica può esigere dall’emittente, qualora le circostanze lo permettano, di presentare le modifiche sostanziali della struttura fornendo informazioni finanziarie proforma.
 
-[^46-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^46-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 47
 
@@ -1197,8 +1197,10 @@ I seguenti cambiamenti devono essere comunicati previamente alla FINMA:
 
 - a. la sostituzione di un membro dell’organo di gestione;
 - b. le modifiche delle basi organizzative.
-- [tab] <sup>4</sup> I cambiamenti di cui al capoverso 3 non devono essere approvati dalla FINMA.
-- [tab] <sup>5</sup> Se abilita più organi di verifica, la FINMA provvede a un coordinamento adeguato della loro prassi.
+
+<sup>4</sup> I cambiamenti di cui al capoverso 3 non devono essere approvati dalla FINMA.
+
+<sup>5</sup> Se abilita più organi di verifica, la FINMA provvede a un coordinamento adeguato della loro prassi.
 
 #### Art. 73
 
@@ -1264,7 +1266,7 @@ L’organo di verifica sostiene, conformemente all’ordinanza del 15 ottobre 20
 - a. della procedura di abilitazione;
 - b. della procedura di adozione dei provvedimenti necessari per colmare le lacune;
 
-[^76-1]: [RS 956.122](https://fedlex.data.admin.ch/eli/cc/2008/749)
+[^76-1]: [RS 956.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11618)
 
 #### Art. 77
 
@@ -1272,7 +1274,7 @@ L’organo di verifica sostiene, conformemente all’ordinanza del 15 ottobre 20
 
 ### (art. 52 LSerFi)
 
-- [tab] L’organo di verifica conserva per dieci anni i documenti e gli atti sui quali si basa la verifica.
+L’organo di verifica conserva per dieci anni i documenti e gli atti sui quali si basa la verifica.
 
 ### Sezione 9: Emolumenti
 
@@ -1286,7 +1288,7 @@ L’organo di verifica sostiene, conformemente all’ordinanza del 15 ottobre 20
 
 <sup>2</sup> Se la presente ordinanza non dispone altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^78-1] sugli emolumenti.
 
-[^78-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^78-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 79
 
@@ -1392,7 +1394,7 @@ Sono considerati titoli di credito non aventi carattere di derivati segnatamente
 - c. le obbligazioni di prestito con diritto di rimborso o di acquisto anticipato;
 - d. le obbligazioni zero-coupon.
 
-[^86-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^86-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 87
 
@@ -1613,8 +1615,8 @@ La modifica di altri atti normativi è disciplinata nell’allegato 11.
 
 <sup>2</sup> Anche se non dispongono ancora di un’autorizzazione della FINMA di cui all’articolo 5 capoverso 1 della legge del 15 giugno 2018[^103-1] sugli istituti finanziari, i gestori patrimoniali affiliati a un organismo di autodisciplina di cui all’articolo 24 della legge del 10 ottobre 1997[^103-2] sul riciclaggio di denaro e iscritti nel registro di commercio possono essere classificati clienti professionali di cui all’articolo 4 capoverso 3 lettera a LSerFi.
 
-[^103-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^103-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^103-1]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^103-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 #### Art. 104
 
@@ -1652,11 +1654,11 @@ Fino alla data di cui al capoverso 2, ai fornitori di servizi finanziari in ques
 <sup>6</sup> Trascorsi due anni dall’entrata in vigore della presente ordinanza, non sono più ammesse le operazioni non coperte effettuate con strumenti finanziari di clienti che hanno concluso un contratto scritto di gestione patrimoniale nonché di privati facoltosi che secondo l’articolo 10 capoverso 3<sup>bis</sup> LICol nella versione del 1° giugno 2013[^105-8] hanno dichiarato per scritto di voler essere considerati investitori qualificati.
 
 [^105-1]: [RU 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)
-[^105-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^105-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^105-3]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-4]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-5]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
-[^105-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^105-6]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^105-7]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-8]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
@@ -1686,11 +1688,11 @@ Fino alla data di cui al capoverso 2, ai fornitori di servizi finanziari in ques
 <sup>5</sup> Con l’entrata in vigore del presente articolo i contratti di distribuzione esistenti secondo la LICol non decadono.
 
 [^106-1]: [RU 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)
-[^106-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^106-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^106-3]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^106-4]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^106-5]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
-[^106-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^106-6]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^106-7]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
 #### Art. 107
@@ -1699,7 +1701,7 @@ Fino alla data di cui al capoverso 2, ai fornitori di servizi finanziari in ques
 
 ### (art. 31 e 95 cpv. 2 LSerFi)
 
-- [tab] Se al momento dell’entrata in vigore della LSerFi non esiste un servizio di registrazione adeguato, il termine di annuncio presso il servizio di registrazione decorre dall’abilitazione di tale servizio da parte della FINMA o dalla designazione di quest’ultimo da parte del Consiglio federale. Il termine è rispettato con la presentazione della domanda.
+Se al momento dell’entrata in vigore della LSerFi non esiste un servizio di registrazione adeguato, il termine di annuncio presso il servizio di registrazione decorre dall’abilitazione di tale servizio da parte della FINMA o dalla designazione di quest’ultimo da parte del Consiglio federale. Il termine è rispettato con la presentazione della domanda.
 
 #### Art. 108
 
@@ -1724,7 +1726,7 @@ Fino a quel momento, se non è redatto un prospetto secondo la LSerFi, si applic
 - a. le disposizioni sul prospetto d’emissione contenute nel Codice delle obbligazioni (CO)[^109-1] nella versione del 16 dicembre 2005[^109-2] (art. 652*a*) e nella versione del 1° gennaio 1912[^109-3] (art. 1156), per le offerte pubbliche in Svizzera;
 - b. le prescrizioni sul prospetto secondo i regolamenti delle sedi di negoziazione in questione, per l’ammissione al commercio.
 
-[^109-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^109-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^109-2]: [RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
 [^109-3]: [RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
 
@@ -1734,27 +1736,29 @@ Fino a quel momento, se non è redatto un prospetto secondo la LSerFi, si applic
 
 ### (art. 95 LSerFi)
 
-Per due anni dall’entrata in vigore della LSerFi è possibile:
+Fino al 31 dicembre 2022 è possibile:[^110-1]
 
-- a. per i fondi immobiliari offerti a clienti privati dopo l’entrata in vigore della LSerFi redigere e pubblicare, al posto di un foglio informativo di base secondo l’allegato 9, un prospetto semplificato ai sensi dell’allegato 2 dell’ordinanza del 22 novembre 2006[^110-1] sugli investimenti collettivi (OICol) nella versione del 1° marzo 2013[^110-2];
-- b. per i fondi in valori mobiliari e gli altri fondi per investimenti tradizionali offerti a clienti privati dopo l’entrata in vigore della LSerFi redigere e pubblicare, al posto di un foglio informativo di base secondo l’allegato 9, un prospetto semplificato (informazioni chiave per gli investitori) ai sensi dell’allegato 3 OICol nella versione del 15 luglio 2011[^110-3].
+- a. per i fondi immobiliari offerti a clienti privati dopo l’entrata in vigore della LSerFi redigere e pubblicare, al posto di un foglio informativo di base secondo l’allegato 9, un prospetto semplificato ai sensi dell’allegato 2 dell’ordinanza del 22 novembre 2006[^110-2] sugli investimenti collettivi (OICol) nella versione del 1° marzo 2013[^110-3];
+- b. per i fondi in valori mobiliari e gli altri fondi per investimenti tradizionali offerti a clienti privati dopo l’entrata in vigore della LSerFi redigere e pubblicare, al posto di un foglio informativo di base secondo l’allegato 9, un prospetto semplificato (informazioni chiave per gli investitori) ai sensi dell’allegato 3 OICol nella versione del 15 luglio 2011[^110-4].
 
-[^110-1]: [RS 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
-[^110-2]: [RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
-[^110-3]: [RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
+[^110-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^110-2]: [RS 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
+[^110-3]: [RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^110-4]: [RU 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
 
 #### Art. 111
 
-**Foglio informativo di base per prodotti strutturati e altri strumenti finanziari**
+**Foglio informativo di base per prodotti strutturati e altri strumenti finanziari**[^111-1]
 
 ### (art. 95 LSerFi)
 
-<sup>1</sup> Per i prodotti strutturati offerti a clienti privati dopo l’entrata in vigore della LSerFi, al posto di un foglio informativo di base secondo l’allegato 9, è possibile redigere e pubblicare, per due anni dall’entrata in vigore della LSerFi, un prospetto semplificato ai sensi dell’articolo 5 capoverso 2 LICol[^111-1] nella versione del 1° marzo 2013[^111-2].
+<sup>1</sup> Per i prodotti strutturati offerti a clienti privati dopo l’entrata in vigore della LSerFi, al posto di un foglio informativo di base secondo l’allegato 9, è possibile redigere e pubblicare, fino al 31 dicembre 2022, un prospetto semplificato ai sensi dell’articolo 5 capoverso 2 LICol[^111-2] nella versione del 1° marzo 2013[^111-3].
 
-<sup>2</sup> Per gli altri strumenti finanziari offerti dopo l’entrata in vigore della LSerFi l’obbligo di pubblicare un foglio informativo di base si applica due anni dopo l’entrata in vigore della presente ordinanza.
+<sup>2</sup> Per gli altri strumenti finanziari offerti dopo l’entrata in vigore della LSerFi l’obbligo di pubblicare un foglio informativo di base si applica dal 1° gennaio 2023.
 
-[^111-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^111-2]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
+[^111-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^111-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^111-3]: [RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
 ### Capitolo 3: Entrata in vigore
 
@@ -1864,9 +1868,9 @@ Allegato 1
   - d. indicare se per l’esercizio corrente è stato scelto un altro organo di revisione;
   - e. se durante il periodo di riferimento dei conti annuali pubblicati nel prospetto l’organo di revisione è stato destituito, non è stato rieletto o si è ritirato spontaneamente: indicare i relativi motivi.
 
-[^annex1-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex1-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex1-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex1-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex1-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex1-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Attività e prospettive dell’attività se queste indicazioni sono rilevanti per la valutazione dell’attività e della redditività dell’emittente
 
@@ -1949,8 +1953,8 @@ Allegato 1
 - 2\.6.14 Partecipazione di collaboratori [◊][#]
 - Se rilevante, possibilità di partecipazione nell’emittente per i collaboratori di tutti i livelli.
 
-[^annex1-lvlu1-lvl2-lvl26-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex1-lvlu1-lvl2-lvl26-2]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex1-lvlu1-lvl2-lvl26-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex1-lvlu1-lvl2-lvl26-2]: [RS 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.7 Politica di informazione
 
@@ -2114,8 +2118,8 @@ Allegato 2
 - 1\.1.11 Nel caso di un’ammissione al commercio: le indicazioni principali relative all’ammissione al commercio
 - 1\.1.12 Prospetto del [data] approvato da [nome dell’organo di verifica] il [data]
 
-[^annex2-lvlu1-lvl1-lvl11-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex2-lvlu1-lvl1-lvl11-2]: [RS 221.302.34](https://fedlex.data.admin.ch/eli/cc/2017/529)
+[^annex2-lvlu1-lvl1-lvl11-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex2-lvlu1-lvl1-lvl11-2]: [RS 221.302.34](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5923)
 
 ### 1.2 Prospetto di base
 
@@ -2169,8 +2173,8 @@ Allegato 2
 
 - 2\.3.3 Se l’emittente o un’eventuale garante o prestatore di cauzioni è un Paese, un Comune o un altro ente di diritto pubblico, occorre fornire le pertinenti indicazioni.
 
-[^annex2-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex2-lvlu1-lvl2-lvl23-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex2-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex2-lvlu1-lvl2-lvl23-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Attività e prospettive dell’attività dell’emittente e di eventuali garanti o prestatori di cauzioni
 
@@ -2404,7 +2408,7 @@ Allegato 2
 
 - 3\.13.4 Ricavo netto
 - Ricavo netto stimato dell’emissione, suddiviso in funzione degli usi principali.
-- 3\.13.5 Restrizioni di vendita *(selling restrictions)*
+- 3\.13.5 Restrizioni di vendita *(selling* *restrictions)*
 - Evidenziare eventuali restrizioni di vendita previste dal diritto estero.
 
 ### 4 Responsabilità per il prospetto (nel caso di un prospetto di base inserire queste informazioni anche nelle condizioni definitive)
@@ -2464,8 +2468,8 @@ Allegato 3
 - 1\.1.11 Nel caso di un’ammissione al commercio: le indicazioni principali relative all’ammissione al commercio
 - 1\.1.12 Prospetto del [data] approvato da [nome dell’organo di verifica] il [data]
 
-[^annex3-lvlu1-lvl1-lvl11-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex3-lvlu1-lvl1-lvl11-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex3-lvlu1-lvl1-lvl11-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex3-lvlu1-lvl1-lvl11-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 1.2 Prospetto di base
 
@@ -2515,7 +2519,7 @@ Allegato 3
   - b. indicare se per l’esercizio corrente è stato scelto un altro organo di revisione;
   - c. se durante il periodo di riferimento dei conti annuali pubblicati nel prospetto l’organo di revisione è stato destituito, non è stato rieletto o si è ritirato spontaneamente: indicare i relativi motivi.
 
-[^annex3-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex3-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2.4 Attività e prospettive dell’attività dell’emittente e di eventuali garanti o prestatori di cauzioni
 
@@ -2544,8 +2548,7 @@ Allegato 3
   - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD.
 
 - 2\.5.2 Prestiti in essere, per i quali è fornita una presentazione sommaria, sempre che quest’ultima non sia fuorviante [#]
-  - [tab] Se rilevanti, prestiti in essere, facendo una distinzione tra prestiti garantiti tramite garanzie reali o in altro modo dall’emittente o da terzi e prestiti non garantiti con indicazione del tasso d’interesse, della data di scadenza e della valuta.
-
+- Se rilevanti, prestiti in essere, facendo una distinzione tra prestiti garantiti tramite garanzie reali o in altro modo dall’emittente o da terzi e prestiti non garantiti con indicazione del tasso d’interesse, della data di scadenza e della valuta.
 - 2\.5.3 Titoli di partecipazione propri [#]
 - Numero dei titoli di partecipazione propri detenuti personalmente dall’emittente o da eventuali garanti o prestatori di cauzioni oppure su loro incarico, compresi i titoli di partecipazione propri detenuti da un’altra società in cui essi possiedono la maggioranza delle quote.
 
@@ -2871,9 +2874,9 @@ Allegato 4
   - d. indicare se per l’esercizio corrente è stato scelto un altro organo di revisione;
   - e. se durante il periodo di riferimento dei conti annuali pubblicati nel prospetto l’organo di revisione è stato destituito, non è stato rieletto o si è ritirato spontaneamente: indicare i relativi motivi.
 
-[^annex4-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex4-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex4-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex4-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex4-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex4-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Attività e prospettive dell’attività
 
@@ -3006,8 +3009,8 @@ Allegato 4
 - 2\.6.14 Partecipazione di collaboratori
 - Se rilevante, possibilità di partecipazione nell’emittente per i collaboratori di tutti i livelli.
 
-[^annex4-lvlu1-lvl2-lvl26-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex4-lvlu1-lvl2-lvl26-2]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex4-lvlu1-lvl2-lvl26-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex4-lvlu1-lvl2-lvl26-2]: [RS 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.7 Politica di informazione
 
@@ -3264,9 +3267,9 @@ Allegato 5
 - 2\.3.9 Terzi
 - Informazioni su terzi le cui retribuzioni sono versate dall’emittente.
 
-[^annex5-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex5-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex5-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex5-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex5-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex5-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Attività e prospettive dell’attività
 
@@ -3360,8 +3363,8 @@ Allegato 5
 - 2\.7.14 Partecipazione di collaboratori
 - Se rilevante, possibilità di partecipazione nell’emittente per i collaboratori di tutti i livelli.
 
-[^annex5-lvlu1-lvl2-lvl27-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex5-lvlu1-lvl2-lvl27-2]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex5-lvlu1-lvl2-lvl27-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex5-lvlu1-lvl2-lvl27-2]: [RS 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.8 Politica di informazione
 
@@ -3542,8 +3545,8 @@ Allegato 6
 - 1\.16 Nel caso di fondi per investimenti alternativi, un glossario che spiega le principali espressioni specialistiche nonché la clausola di rischio approvata dalla FINMA
 - 1\.1.7 Indicazioni sul processo di gestione del rischio di liquidità
 
-[^annex6-lvlu1-lvl1-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annex6-lvlu1-lvl1-2]: [RS 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
+[^annex6-lvlu1-lvl1-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^annex6-lvlu1-lvl1-2]: [RS 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
 
 ### 2 Informazioni sul titolare dell’autorizzazione (direzione del fondo, SICAV)
 
@@ -3643,17 +3646,17 @@ Allegato 9
 ### 2 Modello
 
 <table>
-<tr><td>**Foglio informativo di base**</td></tr>
-<tr><td>**Scopo** «Il presente foglio informativo di base mette a Sua[^annex9-lvlu1-lvl2-1] disposizione informazioni essenziali su questo strumento finanziario (sul «prodotto»). Non si tratta di materiale pubblicitario. Le presenti informazioni sono prescritte dalla legge allo scopo di aiutarla a capire il genere, i rischi, i costi, gli utili e le perdite possibili di questo prodotto e a confrontarlo con altri prodotti.»</td></tr>
-<tr><td>**Prodotto** **Nome del prodotto**: *[**nome del prodotto assegnato dal produttore ed eventualmente relativo codice internazionale di identificazione dei titoli o identificativo unico del prodotto.]* **Nome del produttore**: *[ragione sociale e sede del produttore.]* **Nome dell’emittente**: *[se l’emittente è una persona diversa dal produttore, indicare ragione sociale e sede dell’emittente.]* **Nome del garante**: *[**se il garante è una persona diversa dal produttore, indicare ragione sociale e sede del garante.]* **Autorità di vigilanza**: *[**indicare se il produttore, l’emittente o il garante è sottoposto a una vigilanza prudenziale ed eventualmente il nome dell’autorità di vigilanza.]* **Approvazione / autorizzazione del prodotto**: *[indicare se per il prodotto vige un eventuale obbligo legale di approvazione o autorizzazione.]* **Sito Internet e numero di telefono del produttore.** **Data di redazione del foglio informativo di base**: *[data di redazione o, se il foglio informativo di base è stato successivamente rivisto, data dell’ultima revisione.]*</td></tr>
+<tr><td>Foglio informativo di base</td></tr>
+<tr><td>Scopo «Il presente foglio informativo di base mette a Sua[^annex9-lvlu1-lvl2-1] disposizione informazioni essenziali su questo strumento finanziario (sul «prodotto»). Non si tratta di materiale pubblicitario. Le presenti informazioni sono prescritte dalla legge allo scopo di aiutarla a capire il genere, i rischi, i costi, gli utili e le perdite possibili di questo prodotto e a confrontarlo con altri prodotti.»</td></tr>
+<tr><td>Prodotto **Nome del prodotto**: *[**nome del prodotto assegnato dal produttore ed eventualmente relativo codice internazionale di identificazione dei titoli o* *identificativo unico del prodotto.]* **Nome del produttore**: *[ragione sociale e sede del produttore.]* **Nome dell’emittente**: *[se l’emittente è una persona diversa dal produttore, indicare ragione sociale e sede dell’emittente.]* **Nome del garante**: *[**se il garante è una persona diversa dal produttore, indicare ragione sociale e sede del garante.]* **Autorità di vigilanza**: *[**indicare se il produttore, l’emittente o il garante è sottoposto a una vigilanza prudenziale ed eventualmente il nome dell’autorità di vigilanza.]* **Approvazione / autorizzazione del prodotto**: *[indicare se per il prodotto vige un eventuale obbligo legale di approvazione o autorizzazione.]* **Sito Internet e numero di telefono del produttore.** **Data di redazione del foglio informativo di base**: *[data di* *redazione o, se il foglio informativo di base è stato successivamente rivisto, data dell’ultima revisione.]*</td></tr>
 <tr><td>***Avvertenza****: «È in procinto di acquistare un prodotto complesso, che potrebbe essere difficile capire.»*</td></tr>
-<tr><td>**Che genere di prodotto è?** *[Fornire le indicazioni secondo il numero 3.]*</td></tr>
-<tr><td>**Quali sono i rischi e cosa potrei ottenere in cambio?** *[Fornire le indicazioni secondo il numero 4.]*</td></tr>
-<tr><td>**Cosa accade se** ***[nome dell’emittente]*** **non è in grado di effettuare il pagamento?** *[Indicare se il cliente privato può subire una perdita finanziaria a causa del fallimento dell’emittente o del garante e, in caso affermativo, se è prevista una protezione dei depositi o una garanzia e se sussistono condizioni o limitazioni per tale protezione o garanzia.]*</td></tr>
-<tr><td>**Quali sono i costi?** *[Fornire le indicazioni secondo il numero 5.]*</td></tr>
-<tr><td>**Per quanto tempo devo mantenere l’investimento e posso ritirare il capitale anticipatamente?** *[Fornire le indicazioni secondo il numero 6.]*</td></tr>
-<tr><td>**Come posso presentare reclamo?** *[Indicare le modalità con cui il cliente privato può presentare reclami relativi al prodotto o alla condotta del produttore o della persona che fornisce consulenza sul prodotto o lo vende, nonché il luogo dove può inviare i reclami, inserendo (i) un link verso il sito web pertinente come pure (ii) un indirizzo postale e un indirizzo di posta elettronica aggiornati.]*</td></tr>
-<tr><td>**Altre indicazioni pertinenti** *[Altre indicazioni pertinenti facoltative, in particolare:* *–* *un rimando a documenti supplementari che contengono informazioni,* *–* *informazioni sull’imposizione del prodotto,* *–* *se del caso, precisazione secondo cui l’impresa di revisione dell’emittente non è sottoposta alla sorveglianza di un’autorità estera di sorveglianza dei revisori riconosciuta dal Consiglio federale.]*</td></tr>
+<tr><td>Che genere di prodotto è? *[Fornire le indicazioni secondo il numero 3.]*</td></tr>
+<tr><td>Quali sono i rischi e cosa potrei ottenere in cambio? *[Fornire le indicazioni secondo il numero 4.]*</td></tr>
+<tr><td>Cosa accade se *[nome dell’emittente]* non è in grado di effettuare il pagamento? *[Indicare se il cliente privato può subire una perdita finanziaria a causa del fallimento dell’emittente o del garante e, in caso affermativo, se è prevista una protezione dei depositi o una garanzia e se sussistono condizioni o limitazioni per tale protezione o garanzia.]*</td></tr>
+<tr><td>Quali sono i costi? *[Fornire le indicazioni secondo il numero 5.]*</td></tr>
+<tr><td>Per quanto tempo devo mantenere l’investimento e posso ritirare il capitale anticipatamente? *[Fornire le* *indicazioni secondo il numero 6.]*</td></tr>
+<tr><td>Come posso presentare reclamo? *[Indicare le modalità con cui il cliente privato può presentare reclami relativi al prodotto o alla condotta del produttore o della persona che fornisce consulenza sul prodotto o lo vende, nonché il luogo dove può inviare i reclami, inserendo (i) un link verso il sito web pertinente come pure (ii) un indirizzo postale e un indirizzo di posta elettronica aggiornati.]*</td></tr>
+<tr><td>Altre indicazioni pertinenti *[Altre indicazioni pertinenti* *facoltative, in particolare:* *–* *un rimando a documenti supplementari che contengono informazioni,* *–* *informazioni sull’imposizione del prodotto,* *–* *se del caso, precisazione secondo cui l’impresa di revisione dell’emittente non è sottoposta alla* *sorveglianza di un’autorità estera di sorveglianza dei revisori riconosciuta dal Consiglio federale.]*</td></tr>
 </table>
 
 [^annex9-lvlu1-lvl2-1]: In alternativa è possibile utilizzare in tutte le parti del foglio informativo di base il termine «investitore» o «cliente privato».

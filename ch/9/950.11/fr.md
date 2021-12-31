@@ -4,11 +4,11 @@ title: Ordonnance du 6 novembre 2019 sur les services financiers (OSFin)
 short: OSFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/759"
 language: fr
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-759-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-759-20220101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/fr"
 
 (OSFin)
 
-du 6 novembre 2019 (Etat le 1<sup>er</sup> août 2021)
+du 6 novembre 2019 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^ingres
 
 arrête:
 
-[^ingress-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^ingress-1]: [RS 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## Titre 1 Dispositions générales
 
@@ -557,7 +557,7 @@ La somme d’assurance disponible pour couvrir l’ensemble des sinistres sur un
 
 <sup>2</sup> Pour les prestataires de services financiers soumis à une surveillance prudentielle à l’étranger, est considéré comme une garantie financière équivalente un capital minimal présentant une contre-valeur de 10 millions de francs.
 
-[^33-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^33-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### Section 2 Organe d’enregistrement
 
@@ -665,7 +665,7 @@ L’organe d’enregistrement prend à sa charge les frais calculés conforméme
 - b. la procédure de prise des mesures nécessaires pour remédier aux manquements;
 - c. la procédure de retrait de l’agrément.
 
-[^39-1]: [RS 956.122](https://fedlex.data.admin.ch/eli/cc/2008/749)
+[^39-1]: [RS 956.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11618)
 
 #### Art. 40
 
@@ -701,8 +701,8 @@ Les conseillers à la clientèle déclarent les faits suivants à l’organe d�
 
 <sup>2</sup> Ils sont tenus de renouveler leur enregistrement dans un délai de 24 mois. À défaut, ils sont radiés du registre.
 
-[^41-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^41-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^41-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 42
 
@@ -724,7 +724,7 @@ Les conseillers à la clientèle déclarent les faits suivants à l’organe d�
 
 <sup>7</sup> Pour le reste, l’ordonnance générale du 8 septembre 2004 sur les émoluments (OGEmol)[^42-1] s’applique.
 
-[^42-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^42-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Titre 3 Offre d’instruments financiers
 
@@ -784,7 +784,7 @@ L’acceptation de l’utilisation d’un prospectus valable visée à l’art. 
 
 <sup>3</sup> Pour les offres publiques d’échange, les indications figurant dans un prospectus d’offre établi conformément à l’art. 127 de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF)[^46-1] sont considérées comme équivalentes. Afin de garantir l’équivalence, l’organe de contrôle peut exiger de l’émetteur qu’il présente les modifications importantes de sa structure dans des informations financières *pro forma*, pour autant que la situation le permette.
 
-[^46-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^46-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 47
 
@@ -813,7 +813,7 @@ Par plate-forme de négociation ou système de négociation fondé sur la TRD é
 
 <sup>3</sup> Les plate-forme de négociation ou les systèmes de négociation fondé sur la TRDsuisses et les organes de contrôle tiennent et publient une liste des plates-formes de négociation étrangères ou des segments de négociation de ces dernières qu’ils reconnaissent.
 
-[^48-1]: Nouvelle expression selon le ch. I 4 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Il a été tenu compte de la modification dans tout le texte.
+[^48-1]: Nouvelle expression selon le ch. I 4 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>re</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 49
 
@@ -1265,7 +1265,7 @@ L’organe de contrôle prend à sa charge les frais calculés conformément à 
 - b. la procédure de prise des mesures nécessaires pour remédier aux manquements;
 - c. la procédure de retrait de l’agrément.
 
-[^76-1]: [RS 956.122](https://fedlex.data.admin.ch/eli/cc/2008/749)
+[^76-1]: [RS 956.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11618)
 
 #### Art. 77
 
@@ -1287,7 +1287,7 @@ L’organe de contrôle conserve pendant dix ans les documents sur lesquels repo
 
 <sup>2</sup> Sauf règles particulières arrêtées dans la présente ordonnance, les dispositions de l’OGEmol[^78-1] s’appliquent.
 
-[^78-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^78-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 79
 
@@ -1395,7 +1395,7 @@ Par titres de créance n’ayant pas le caractère de dérivés, on entend en pa
 - c. les obligations avec droits de remboursement ou d’achat anticipés;
 - d. les emprunts à coupon zéro.
 
-[^86-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^86-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 87
 
@@ -1616,8 +1616,8 @@ La modification d’autres actes est réglée dans l’annexe 11.
 
 <sup>2</sup> Les gestionnaires de fortune affiliés à un organisme d’autorégulation au sens de l’art. 24 de la loi du 10 octobre 1997 sur le blanchiment d’argent[^103-1] et inscrits au registre du commerce peuvent être classés dans la catégorie de clients professionnels mentionnée à l’art. 4, al. 3, let. a, LSFin, même s’ils ne disposent pas encore de l’autorisation de la FINMA visée à l’art. 5, al. 1, de la loi fédérale du 15 juin 2018 sur les établissements financiers[^103-2].
 
-[^103-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^103-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^103-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^103-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 104
 
@@ -1655,11 +1655,11 @@ Jusqu’à la date choisie conformément à l’al. 2, les règles de comporteme
 <sup>6</sup> Les opérations non garanties portant sur des instruments financiers de clients ayant conclu un contrat écrit de gestion de fortune et de particuliers fortunés ayant déclaré par écrit vouloir être considérés comme investisseurs qualifiés conformément à l’art. 10, al. 3<sup>bis</sup>, LPCC dans sa teneur du 1<sup>er</sup> juin 2013[^105-8], sont interdites à l’échéance du délai de deux ans à compter de l’entrée en vigueur de la présente ordonnance.
 
 [^105-1]: [RO 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)
-[^105-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^105-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^105-3]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-4]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-5]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
-[^105-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^105-6]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^105-7]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-8]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
@@ -1689,11 +1689,11 @@ Jusqu’à la date choisie conformément à l’al. 2, les prescriptions organis
 <sup>5</sup> L’entrée en vigueur du présent article n’invalide pas les contrats de distribution existants au sens de la LPCC.
 
 [^106-1]: [RO 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)
-[^106-2]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^106-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^106-3]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^106-4]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^106-5]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
-[^106-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^106-6]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^106-7]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
 #### Art. 107
@@ -1727,7 +1727,7 @@ Dans l’intervalle, si aucun prospectus conforme à la LSFin n’est établi, l
 - a. pour les offres au public en Suisse: les dispositions du code des obligations (CO)[^109-1] relatives au prospectus d’émission, dans leur teneur du 16 décembre 2005[^109-2] (art. 652*a*) et dans celle du 1<sup>er</sup> janvier 1912[^109-3] (art. 1156);
 - b. pour l’admission à la négociation: les prescriptions relatives au prospectus de la plate-forme de négociation ou système de négociation fondé sur la TRD concernée.
 
-[^109-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^109-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^109-2]: [RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
 [^109-3]: RO **27** 317
 
@@ -1737,27 +1737,29 @@ Dans l’intervalle, si aucun prospectus conforme à la LSFin n’est établi, l
 
 ### (art. 95 LSFin)
 
-Pendant deux ans à compter de l’entrée en vigueur de la LSFin, il est possible de continuer à établir et à publier:
+Jusqu’au 31 décembre 2022, il est possible de continuer à établir et à publier:[^110-1]
 
-- a. pour les fonds immobiliers qui sont proposés à des clients privés après l’entrée en vigueur de la LSFin: un prospectus simplifié conforme à l’annexe 2 de l’ordonnance du 22 novembre 2006 sur les placements collectifs (OPCC)[^110-1] dans sa teneur du 1<sup>er</sup> mars 2013[^110-2] au lieu d’une feuille d’information de base conforme à l’annexe 9;
-- b. pour les fonds en valeurs mobilières et les autres fonds en investissements traditionnels qui sont proposés à des clients privés après l’entrée en vigueur de la LSFin: un prospectus simplifié (informations clés pour l’investisseur) conforme à l’annexe 3 OPCC dans sa teneur du 15 juillet 2011[^110-3] au lieu d’une feuille d’information de base conforme à l’annexe 9.
+- a. pour les fonds immobiliers qui sont proposés à des clients privés après l’entrée en vigueur de la LSFin: un prospectus simplifié conforme à l’annexe 2 de l’ordonnance du 22 novembre 2006 sur les placements collectifs (OPCC)[^110-2] dans sa teneur du 1<sup>er</sup> mars 2013[^110-3] au lieu d’une feuille d’information de base conforme à l’annexe 9;
+- b. pour les fonds en valeurs mobilières et les autres fonds en investissements traditionnels qui sont proposés à des clients privés après l’entrée en vigueur de la LSFin: un prospectus simplifié (informations clés pour l’investisseur) conforme à l’annexe 3 OPCC dans sa teneur du 15 juillet 2011[^110-4] au lieu d’une feuille d’information de base conforme à l’annexe 9.
 
-[^110-1]: [RS 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
-[^110-2]: [RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
-[^110-3]: [RO 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
+[^110-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^110-2]: [RS 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
+[^110-3]: [RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^110-4]: [RO 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
 
 #### Art. 111
 
-**Feuille d’information de base pour les produits structurés et les autres instruments financiers**
+**Feuille d’information de base pour les produits structurés et les autres instruments financiers**[^111-1]
 
 ### (art. 95 LSFin)
 
-<sup>1</sup> Pendant deux ans à compter de l’entrée en vigueur de la LSFin, il est possible de continuer à établir et à publier, pour les produits structurés qui sont proposés à des clients privés après l’entrée en vigueur de la LSFin, un prospectus simplifié conforme à l’art. 5, al. 2, LPCC[^111-1], dans sa teneur du 1<sup>er</sup> mars 2013[^111-2], au lieu d’une feuille d’information de base conforme à l’annexe 9.
+<sup>1</sup> Jusqu’au 31 décembre 2022, il est possible de continuer à établir et à publier, pour les produits structurés qui sont proposés à des clients privés après l’entrée en vigueur de la LSFin, un prospectus simplifié conforme à l’art. 5, al. 2, LPCC[^111-2], dans sa teneur du 1<sup>er</sup> mars 2013[^111-3], au lieu d’une feuille d’information de base conforme à l’annexe 9.
 
-<sup>2</sup> L’obligation d’établir une feuille d’information de base s’applique aux autres instruments financiers proposés après l’entrée en vigueur de la LSFin dans un délai de deux ans à compter de l’entrée en vigueur de la présente ordonnance.
+<sup>2</sup> L’obligation d’établir une feuille d’information de base s’applique aux autres instruments financiers proposés après l’entrée en vigueur de la LSFin à compter du 1<sup>er</sup> janvier 2023.
 
-[^111-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^111-2]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
+[^111-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^111-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^111-3]: [RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
 ### Chapitre 3 Entrée en vigueur
 
@@ -1867,9 +1869,9 @@ Annexe 1
   - d. si un autre organe de révision a été désigné pour l’exercice en cours: indication le signalant;
   - e. si, pendant la période couverte par les comptes annuels publiés dans le prospectus, l’organe de révision a été destitué ou révoqué ou n’a pas été réélu, ou encore s’est retiré de lui-même: indication des motifs du remplacement.
 
-[^annex1-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex1-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex1-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex1-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex1-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex1-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Activité et perspectives, dans la mesure où ces indications sont importantes pour l’évaluation de l’activité et de la rentabilité de l’émetteur
 
@@ -1958,8 +1960,8 @@ Annexe 1
 - 2\.6.14 Participation des collaborateurs [◊][#]
 - Pour autant qu’elles soient importantes, possibilités de participation des collaborateurs de tous niveaux hiérarchiques dans la société de l’émetteur.
 
-[^annex1-lvlu1-lvl2-lvl26-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex1-lvlu1-lvl2-lvl26-2]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex1-lvlu1-lvl2-lvl26-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex1-lvlu1-lvl2-lvl26-2]: [RS 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.7 Politique d’information
 
@@ -2132,8 +2134,8 @@ Annexe 2
 - 1\.1.11 En cas d’admission à la négociation: principales indications relatives à l’admission
 - 1\.1.12 Prospectus du [date] approuvé par [nom de l’organe de contrôle] le [date]
 
-[^annex2-lvlu1-lvl1-lvl11-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex2-lvlu1-lvl1-lvl11-2]: [RS 221.302.34](https://fedlex.data.admin.ch/eli/cc/2017/529)
+[^annex2-lvlu1-lvl1-lvl11-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex2-lvlu1-lvl1-lvl11-2]: [RS 221.302.34](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5923)
 
 ### 1.2 Prospectus de base
 
@@ -2190,8 +2192,8 @@ Annexe 2
 
 - 2\.3.3 Si l’émetteur ou les éventuels donneurs de garanties ou de sûretés sont un État, une commune ou une autre corporation de droit public, les indications doivent être données par analogie.
 
-[^annex2-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex2-lvlu1-lvl2-lvl23-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex2-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex2-lvlu1-lvl2-lvl23-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Activité et perspectives de l’émetteur et des éventuels donneurs de garanties ou de sûretés
 
@@ -2494,8 +2496,8 @@ Annexe 3
 - 1\.1.11 En cas d’admission à la négociation: principales indications relatives à l’admission
 - 1\.1.12 Prospectus du [date] approuvé par [nom de l’organe de contrôle] le [date]
 
-[^annex3-lvlu1-lvl1-lvl11-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex3-lvlu1-lvl1-lvl11-2]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex3-lvlu1-lvl1-lvl11-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex3-lvlu1-lvl1-lvl11-2]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 1.2 Prospectus de base
 
@@ -2545,7 +2547,7 @@ Annexe 3
   - b. si un autre organe de révision a été désigné pour l’exercice en cours: indication le signalant;
   - c. si, pendant la période couverte par les comptes annuels publiés dans le prospectus, l’organe de révision a été destitué ou révoqué ou n’a pas été réélu, ou encore s’est retiré de lui-même: indication des motifs du remplacement.
 
-[^annex3-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex3-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2.4 Activité de l’émetteur et des éventuels donneurs de garanties ou de sûretés
 
@@ -2915,9 +2917,9 @@ Annexe 4
   - d. si un autre organe de révision a été désigné pour l’exercice en cours: indication le signalant;
   - e. si, pendant la période couverte par les comptes annuels publiés dans le prospectus, l’organe de révision a été destitué ou révoqué ou n’a pas été réélu, ou encore s’est retiré de lui-même: indication des motifs du remplacement.
 
-[^annex4-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex4-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex4-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex4-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex4-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex4-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Activité et perspectives
 
@@ -3065,8 +3067,8 @@ Annexe 4
 - 2\.6.14 Participation des collaborateurs
 - Pour autant qu’elles soient importantes, possibilités de participation des collaborateurs de tous niveaux hiérarchiques dans la société de l’émetteur.
 
-[^annex4-lvlu1-lvl2-lvl26-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex4-lvlu1-lvl2-lvl26-2]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex4-lvlu1-lvl2-lvl26-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex4-lvlu1-lvl2-lvl26-2]: [RS 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.7 Politique d’information
 
@@ -3324,9 +3326,9 @@ Annexe 5
 - 2\.3.9 Tiers
 - Informations sur les tiers dont la rémunération est à la charge de l’émetteur.
 
-[^annex5-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex5-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex5-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex5-lvlu1-lvl2-lvl23-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex5-lvlu1-lvl2-lvl23-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex5-lvlu1-lvl2-lvl23-3]: [RS 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Activité et perspectives
 
@@ -3423,8 +3425,8 @@ Annexe 5
 - 2\.7.14 Participation des collaborateurs
 - Pour autant qu’elles soient importantes, possibilités de participation des collaborateurs de tous niveaux hiérarchiques dans la société de l’émetteur.
 
-[^annex5-lvlu1-lvl2-lvl27-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex5-lvlu1-lvl2-lvl27-2]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex5-lvlu1-lvl2-lvl27-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex5-lvlu1-lvl2-lvl27-2]: [RS 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.8 Politique d’information
 
@@ -3605,8 +3607,8 @@ Annexe 6
 - 1\.16 Pour les fonds en placements alternatifs, un glossaire définissant les principaux termes spécialisés et clause de mise en garde approuvée par la FINMA
 - 1\.17 Indications relatives au processus de gestion du risque de liquidité
 
-[^annex6-lvlu1-lvl1-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annex6-lvlu1-lvl1-2]: [RS 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
+[^annex6-lvlu1-lvl1-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^annex6-lvlu1-lvl1-2]: [RS 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
 
 ### 2 Informations sur le titulaire d’une autorisation (direction de fonds, SICAV)
 
@@ -3706,17 +3708,17 @@ Annexe 9
 ### 2 Modèle
 
 <table>
-<tr><td>**Feuille d’information de base**</td></tr>
-<tr><td>**But** «La présente feuille d’information de base met à votre[^annex9-lvlu1-lvl2-1] disposition des informations importantes concernant l’instrument financier (le «produit»). Il ne s’agit pas de matériel publicitaire, mais d’informations dont la fourniture est prescrite par la loi. Ces informations visent à vous aider à comprendre de quel type de produit il s’agit et quels risques, coûts, gains et pertes potentiels y sont associés et à vous permettre de le comparer à d’autres produits.»</td></tr>
-<tr><td>**Produit** **Nom du produit**: *[nom du produit émis par le producteur et, le cas échéant, code international d’identification des valeurs mobilières ou identifiant unique de l’instrument financier]* **Nom du producteur**: *[raison sociale et siège du producteur]* **Nom de l’émetteur**: *[si l’émetteur et le producteur diffèrent: raison sociale et siège de l’émetteur]* **Nom du garant**: *[si le garant et le producteur diffèrent: raison sociale et siège du garant]* **Autorité de surveillance:** *[**remarque* *précisant si le producteur, l’émetteur et le garant sont soumis à une surveillance prudentielle et, le cas échéant, indication de l’autorité de surveillance**]* **Approbation / autorisation du produit:** *[remarque concernant une éventuelle obligation d’obtenir une approbation ou une autorisation pour le produit]* **Site Internet et numéro de téléphone du producteur** **Date d’établissement de la feuille d’information de base**: *[date d’établissement ou, le cas échéant, de la dernière révision de la feuille d’information de base]*</td></tr>
+<tr><td>Feuille d’information de base</td></tr>
+<tr><td>But «La présente feuille d’information de base met à votre[^annex9-lvlu1-lvl2-1] disposition des informations importantes concernant l’instrument financier (le «produit»). Il ne s’agit pas de matériel publicitaire, mais d’informations dont la fourniture est prescrite par la loi. Ces informations visent à vous aider à comprendre de quel type de produit il s’agit et quels risques, coûts, gains et pertes potentiels y sont associés et à vous permettre de le comparer à d’autres produits.»</td></tr>
+<tr><td>Produit **Nom du produit**: *[nom du produit émis par le producteur et, le cas échéant, code international d’identification des valeurs mobilières ou identifiant unique de l’instrument financier]* **Nom du producteur**: *[raison sociale et siège du producteur]* **Nom de l’émetteur**: *[si l’émetteur et le producteur diffèrent: raison sociale et siège de l’émetteur]* **Nom du garant**: *[si le garant et le producteur diffèrent: raison sociale et siège du garant]* **Autorité de surveillance:** *[**remarque* *précisant si le producteur, l’émetteur et le garant sont soumis à une surveillance prudentielle et, le cas échéant, indication de l’autorité de surveillance**]* **Approbation / autorisation du produit:** *[remarque concernant une éventuelle obligation d’obtenir une approbation ou une autorisation pour le produit]* **Site Internet et numéro de téléphone du producteur** **Date d’établissement de la feuille d’information de base**: *[date d’établissement ou, le cas échéant, de la dernière révision de la feuille d’information de base]*</td></tr>
 <tr><td>***Mise en garde:*** *«Vous êtes sur le point d’acquérir un produit complexe qui peut être difficile à comprendre.»*</td></tr>
-<tr><td>**De quel type de produit s’agit-il?** *[Indications visées au ch. 3]*</td></tr>
-<tr><td>**Quels sont les risques et que puis-je obtenir en contrepartie?** *[Indications visées au ch. 4]*</td></tr>
-<tr><td>**Que se passe-t-il si** ***[nom de l’émetteur]*** **n’est pas en mesure d’effectuer les versements?** *[Indications précisant si le client privé peut subir une perte financière en cas de défaillance de l’émetteur ou du garant et, dans l’affirmative, s’il existe une protection des investisseurs ou une garantie; le cas échéant, indication des conditions et des restrictions s’appliquant à cette protection ou garantie]*</td></tr>
-<tr><td>**Quels sont les coûts?** *[**Indications visées au* *ch. 5]*</td></tr>
-<tr><td>**Combien de temps dois-je garder le placement et puis-je retirer de l’argent de façon anticipée?** *[Indications visées au ch. 6]*</td></tr>
-<tr><td>**Comment puis-je formuler une réclamation?** *[**Remarque précisant comment et où le client privé peut faire une réclamation sur le produit ou sur le comportement du producteur ou de la personne chargée du conseil ou de la vente du produit, avec (i) mise à disposition d’un lien vers le site Internet et (ii) indication d’une adresse postale et d’une adresse électronique valables, où déposer de telles réclamations**]*</td></tr>
-<tr><td>**Autres indications utiles** *[Autres indications utiles facultatives, en particulier:* *–* *renvoi aux documents supplémentaires contenant des informations;* *–* *informations sur l’imposition du produit;* *–* *le cas échéant, remarque* *précisant clairement* *que* *la société de révision de l’émetteur n’est pas soumise à la surveillance d’une autorité étrangère de surveillance en matière de révision reconnue par le Conseil fédéral.]*</td></tr>
+<tr><td>De quel type de produit s’agit-il? *[Indications visées au ch. 3]*</td></tr>
+<tr><td>Quels sont les risques et que puis-je obtenir en contrepartie? *[Indications visées au ch. 4]*</td></tr>
+<tr><td>Que se passe-t-il si *[nom de l’émetteur]* n’est pas en mesure d’effectuer les versements? *[Indications précisant si le client privé peut subir une perte financière en cas de défaillance de l’émetteur ou du garant et, dans l’affirmative, s’il existe une protection des investisseurs ou une garantie; le cas échéant, indication des conditions et des restrictions s’appliquant à cette protection ou garantie]*</td></tr>
+<tr><td>Quels sont les coûts? *[**Indications visées au* *ch. 5]*</td></tr>
+<tr><td>Combien de temps dois-je garder le placement et puis-je retirer de l’argent de façon anticipée? *[Indications visées au ch. 6]*</td></tr>
+<tr><td>Comment puis-je formuler une réclamation? *[**Remarque précisant comment et où le client privé peut faire une réclamation sur le produit ou sur le comportement du producteur ou de la personne chargée du conseil ou de la vente du produit, avec (i) mise à disposition d’un lien vers le site Internet et (ii) indication d’une adresse postale et d’une adresse électronique valables, où déposer de telles réclamations**]*</td></tr>
+<tr><td>Autres indications utiles *[Autres indications utiles facultatives, en particulier:* *–* *renvoi aux documents supplémentaires contenant des informations;* *–* *informations sur l’imposition du produit;* *–* *le cas échéant, remarque* *précisant clairement* *que* *la société de révision de l’émetteur n’est pas soumise à la surveillance d’une autorité étrangère de surveillance en matière de révision reconnue par le Conseil fédéral.]*</td></tr>
 </table>
 
 [^annex9-lvlu1-lvl2-1]: Au lieu de s’adresser à une personne, il est également possible d’utiliser dans toute la feuille d’information de base les termes «investisseur» ou «client privé».
@@ -3947,7 +3949,7 @@ Annexe 9
   La durée de détention recommandée à indiquer est la suivante:
 
   - a. produits de placement avec durée fixe: «jusqu’à l’échéance»;
-  - a. produits de placement sans durée fixe: «cinq ans»;
+  - b. produits de placement sans durée fixe: «cinq ans»;
   - c. produits à effet de levier: «jusqu’à […]».
 
 - 6\.1.3 Pour les produits à effet de levier, la durée de détention recommandée qu’il faut indiquer peut varier d’un jour à quelques semaines; pour les produits à effet de levier avec durée fixe, elle peut aller jusqu’à l’échéance.
@@ -3965,7 +3967,7 @@ Annexe 9
 
 ### 6.3 Négociabilité
 
-- Les indications relatives à la négociabilité incluent en particulier des indications relatives à la cotation auprès d’une plate-forme de négociation ou d'un système de négociation fondé sur la TRD ou à une éventuelle tenue de marché (*market making*) garantie pour le produit.
+- Les indications relatives à la négociabilité incluent en particulier des indications relatives à la cotation auprès d’une plate-forme de négociation ou d’un système de négociation fondé sur la TRD ou à une éventuelle tenue de marché (*market making*) garantie pour le produit.
 
 Annexe 10
 

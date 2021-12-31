@@ -4,11 +4,11 @@ title: "Ordinance of 6 November 2019 on Financial Services (Financial Services O
 short: FINSO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/759"
 language: en
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2019-759-20210801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2019-759-20220101-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Services Ordinance, FinSO)
 
-of 6 November 2019 (Status as of 1 August 2021)
+of 6 November 2019 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on the Financial Services Act of 15 June 2018[^ingress-1] (FinSA),
 
 ordains:
 
-[^ingress-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^ingress-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## Title 1 General Provisions
 
@@ -559,7 +559,7 @@ The amount insured available for all losses within one year must be at least CHF
 
 <sup>2</sup> For foreign financial service providers subject to prudential supervision abroad, minimum capital corresponding to an amount of CHF 10 million qualifies as equivalent collateral.
 
-[^33-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^33-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### Section 2 Registration body
 
@@ -667,7 +667,7 @@ In accordance with the FINMA Ordinance on the Levying of Supervisory Fees and Du
 - b. the procedure for instigating the necessary measures to remedy deficiencies;
 - c. the procedure leading to revocation of the licence.
 
-[^39-1]: [SR 956.122](https://fedlex.data.admin.ch/eli/cc/2008/749)
+[^39-1]: [SR 956.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11618)
 
 #### Art. 40
 
@@ -703,8 +703,8 @@ Client advisers shall report to the registration body within 14 days:
 
 <sup>2</sup> Client advisers must renew their registration after 24 months at the latest. Failure to do so will result in cancellation of the entry in the register.
 
-[^41-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^41-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^41-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 42
 
@@ -726,7 +726,7 @@ Client advisers shall report to the registration body within 14 days:
 
 <sup>7</sup> In all other respects, the General Fees Ordinance of 8 September 2004[^42-1] applies.
 
-[^42-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^42-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Title 3 Offering of Financial Instruments
 
@@ -786,7 +786,7 @@ Consent to use a valid prospectus in accordance with Article 36 paragraph 4 lett
 
 <sup>3</sup> In the case of public conversion offers, information in an offer prospectus produced in accordance with Article 127 of the Financial Market Infrastructure Act of 19 June 2015[^46-1] (FinMIA) is deemed equivalent. In order to ensure equivalence, the reviewing body may require that, insofar as circumstances permit, the issuer provide pro-forma financial information detailing any structural changes.
 
-[^46-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^46-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 47
 
@@ -1267,7 +1267,7 @@ In accordance with the FINMA Ordinance on the Levying of Supervisory Fees and Du
 - b. the procedure for instigating the necessary measures to remedy deficiencies;
 - c. the procedure leading to revocation of the licence.
 
-[^76-1]: [SR 956.122](https://fedlex.data.admin.ch/eli/cc/2008/749)
+[^76-1]: [SR 956.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11618)
 
 #### Art. 77
 
@@ -1289,7 +1289,7 @@ The reviewing body shall retain review documents and records for a period of ten
 
 <sup>2</sup> Insofar as the present Ordinance does not contain any special regulations, the provisions of the General Fees Ordinance of 8 September 2004[^78-1] apply.
 
-[^78-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^78-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 79
 
@@ -1397,7 +1397,7 @@ Non-derivative debt instruments are:
 - c. bonds with early redemption or purchase rights;
 - d. zero coupon bonds.
 
-[^86-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^86-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 87
 
@@ -1618,8 +1618,8 @@ The amendment of other legislative instruments is set out in Annex 11.
 
 <sup>2</sup> Portfolio managers who are members of a self-regulatory organisation in accordance with Article 24 of the Anti-Money Laundering Act of 10 October 1997[^103-1] and are entered in the commercial register can be classified as professional clients in accordance with Article 4 paragraph 3 letter a FinSA, even if they do not have authorisation from FINMA in accordance with Article 5 paragraph 1 of the Financial Institutions Act of 15 June 2018[^103-2].
 
-[^103-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^103-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^103-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^103-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 104
 
@@ -1657,11 +1657,11 @@ Until the time indicated in accordance with paragraph 2, the relevant financial 
 <sup>6</sup> Uncovered transactions with the financial instruments of clients with a written portfolio management agreement as well as of high-net-worth clients who in accordance with Article 10 paragraph 3<sup>bis</sup> CISA in the version of 1 June 2013[^105-8] have declared in writing that they wish to be deemed qualified investors is no longer permitted two years after entry into force of the present Ordinance.
 
 [^105-1]: [AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)
-[^105-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^105-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^105-3]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-4]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-5]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
-[^105-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^105-6]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^105-7]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-8]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
@@ -1691,11 +1691,11 @@ Until the time indicated in accordance with paragraph 2, the relevant financial 
 <sup>5</sup> Entry into force of the present Article does not nullify existing distribution agreements in accordance with CISA.
 
 [^106-1]: [AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)
-[^106-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^106-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^106-3]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^106-4]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^106-5]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
-[^106-6]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^106-6]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^106-7]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
 #### Art. 107
@@ -1729,7 +1729,7 @@ Until such time, insofar as no prospectus in accordance with FinSA is produced, 
 - a. for public offers in Switzerland: the provisions of the Code of Obligations[^109-1] on issue prospectuses in the version of 16 December 2005[^109-2] (Article 652*a*) and in the version of 1 January1912[^109-3] (Article 1156);
 - b. for admission to trading: the prospectus provisions in accordance with the regulations of the respective trading venues or DLT trading facilities.
 
-[^109-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^109-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^109-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
 [^109-3]: [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
 
@@ -1739,27 +1739,29 @@ Until such time, insofar as no prospectus in accordance with FinSA is produced, 
 
 ### (Art. 95 FinSA)
 
-For two years after the entry into force of the FinSA:
+Until 31 December 2022:[^110-1]
 
-- a. for real estate funds offered to retail clients after entry into force of the FinSA, in place of a key information document according to Annex 9 a simplified prospectus according to Annex 2 of the Collective Investment Schemes Act of 22 November 2006[^110-1] (CISO) in the version of 1 March 2013[^110-2] may be produced and published;
-- b. for securities funds and other funds for traditional investments offered to retail clients after entry into force of the FinSA, in place of a key information document according to Annex 9 the simplified prospectus (key investor information) according to Annex 3 CISO in the version of 15 July 2011[^110-3] may be produced and published.
+- a. a simplified prospectus according to Annex 2 of the Collective Investment Schemes Act of 22 November 2006[^110-2] (CISO) in the version of 1 March 2013[^110-3] may be produced and published in place of a key information document according to Annex 9 for real estate funds offered to retail clients after the entry into force of the FinSA;
+- b. the simplified prospectus (key investor information) according to Annex 3 CISO in the version of 15 July 2011[^110-4] may be produced and published in place of a key information document according to Annex 9 for securities funds and other funds for traditional investments offered to retail clients after the entry into force of the FinSA.
 
-[^110-1]: [SR 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
-[^110-2]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
-[^110-3]: [AS 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
+[^110-1]: Amended by No I of the O of 3 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^110-2]: [SR 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
+[^110-3]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^110-4]: [AS 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
 
 #### Art. 111
 
-**Key information document for structured products and other financial instruments**
+**Key information document for structured products and other financial instruments**[^111-1]
 
 ### (Art. 95 FinSA)
 
-<sup>1</sup> For structured products offered to retail clients after entry into force of the FinSA, during a period of two years after entry into force of the FinSA, in place of a key information document according to Annex 9 a simplified prospectus according to Article 5 paragraph 2 CISA[^111-1] in the version of 1 March 2013[^111-2] may be produced and published.
+<sup>1</sup> Until 31 December 2022, a simplified prospectus according to Article 5 paragraph 2 CISA[^111-2] in the version of 1 March 2013[^111-3] may be produced and published in place of a key information document according to Annex 9 for structured products offered to retail clients after the entry into force of the FinSA.
 
-<sup>2</sup> For the other financial instruments offered after entry into force of the FinSA, the duty to produce a key information document shall take effect two years after entry into force of the present Ordinance.
+<sup>2</sup> For the other financial instruments offered after the entry into force of the FinSA, the duty to produce a key information document applies from 1 January 2023.
 
-[^111-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^111-2]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
+[^111-1]: Amended by No I of the O of 3 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^111-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^111-3]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
 ### Chapter 3 Commencement
 
@@ -1775,7 +1777,8 @@ Annex 1
 
 ### 0 Relaxations of requirements and information on the first page
 
-- **0.1** **Relaxations of requirements**
+### 0.1 Relaxations of requirements
+
 -
 
   Relaxations of requirements in accordance with Article 57 are designated as follows:
@@ -1786,7 +1789,8 @@ Annex 1
   - d. Relaxation of requirements for admission to trading without public offer: [∞];
   - e. Relaxation of requirements for rights issue: [◊].
 
-- **0.2** **Information on the first page**
+### 0.2 Information on the first page
+
 - Prospectus of [date] approved by [name of reviewing body] on [date].
 
 ### 1 Summary (Art. 54)
@@ -1805,9 +1809,12 @@ Annex 1
 
 ### 2 Information on the issuer (registration form)
 
-- **2.1** **Risks**
+### 2.1 Risks
+
 - Description of the main risks with regard to the issuer and its industry.
-- **2.2** **General information on the issuer**
+
+### 2.2 General information on the issuer
+
 - 2\.2.1 Company name;
 - 2\.2.2 Registered office;
 - 2\.2.3 Location of the head office provided this is not identical with the registered office [#];
@@ -1818,7 +1825,9 @@ Annex 1
 - 2\.2.8 Date of the articles of association [#];
 - 2\.2.9 If available: Designation of the register, date of entry in this register and, if applicable, company or registration number [◊][#];
 - 2\.2.10 If the issuer is part of a group: description of the group's operational structure [◊][#].
-- **2.3** **Information on the board of directors, management, auditors and other bodies of the issue****r**
+
+### 2.3 Information on the board of directors, management, auditors and other bodies of the issuer
+
 - 2\.3.1 Composition of bodies [#]
 -
 
@@ -1855,14 +1864,19 @@ Annex 1
   - c. if applicable, information that the reference date for this information is not the date of the prospectus;
   - d. any material changes in the information in question that may have arisen since the reference date.
 
-- 2\.3.5 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex1-lvlu1-lvl2-1]
+- 2\.3.5 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex1-lvlu1-lvl2-lvl23-1]
   - a. company name and address of the licensed statutory auditors;
   - b. name of the audit oversight authority responsible for the auditors;
-  - c. highlighted statement to that effect if the audit company of the issuer or any guarantor or security provider is not supervised by a foreign audit oversight authority recognised by the Federal Council in accordance with Article 8 of the Audit Oversight Act of 16 December 2005[^annex1-lvlu1-lvl2-2] (AOA) and Annex 2 of the Auditor Oversight Ordinance of 22 August 2007[^annex1-lvlu1-lvl2-3] (AOO) [×];
+  - c. highlighted statement to that effect if the audit company of the issuer or any guarantor or security provider is not supervised by a foreign audit oversight authority recognised by the Federal Council in accordance with Article 8 of the Audit Oversight Act of 16 December 2005[^annex1-lvlu1-lvl2-lvl23-2] (AOA) and Annex 2 of the Auditor Oversight Ordinance of 22 August 2007[^annex1-lvlu1-lvl2-lvl23-3] (AOO) [×];
   - d. if other auditors have been elected during the current financial year, this fact must be stated;
   - e. if the auditors were voted out of office, dismissed, not re-elected or themselves resigned during the period covered by the financial statements published in the prospectus: the reasons for this change.
 
-- **2.4** **Business activities and prospects insofar as they are of material importance in assessing the business activities and earning power of the issuer**
+[^annex1-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex1-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex1-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
+
+### 2.4 Business activities and prospects insofar as they are of material importance in assessing the business activities and earning power of the issuer
+
 - 2\.4.1 Principal activities [◊][#]
   - a. description of principal activities at the present time, stating the main products sold and services performed;
   - b. details of any new products or activities.
@@ -1887,14 +1901,18 @@ Annex 1
 - Indication if the information in accordance with item 2.4 has been influenced by extraordinary events.
 - 2\.4.9 Business prospects
 - Details of business prospects, with an indication that these are uncertain.
-- **2.5** **Investments**
+
+### 2.5 Investments
+
 - 2\.5.1 Investments made [◊][#]
 - Figures on the principal investments made during the period covered by the historical financial information.
 - 2\.5.2 Current investments [#]
 - Principal current investments broken down into domestic and international.
 - 2\.5.3 Investments already approved [#]
 - Principal future investments that have already been firmly approved and for which undertakings have been entered into.
-- **2.6** **Capital and voting rights**
+
+### 2.6 Capital and voting rights
+
 - 2\.6.1 Capital structure
   - a. indication of the amount of ordinary, authorised and conditional capital as at the balance sheet date for the annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case, such as dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
@@ -1928,7 +1946,7 @@ Annex 1
 - 2\.6.9 Own equity securities [◊][#]
 - Number of own equity securities held by the issuer itself or on its behalf, including own equity securities held by another company in which the issuer holds a majority interest.
 - 2\.6.10 Significant shareholders
-- Information in accordance with Articles 120 and 121 FinMIA[^annex1-lvlu1-lvl2-4] and the corresponding implementation provisions of the FINMA Financial Market Infrastructure Ordinance of 3 December 2015[^annex1-lvlu1-lvl2-5] (FinMIO-FINMA), insofar as they are known to the issuer.
+- Information in accordance with Articles 120 and 121 FinMIA[^annex1-lvlu1-lvl2-lvl26-1] and the corresponding implementation provisions of the FINMA Financial Market Infrastructure Ordinance of 3 December 2015[^annex1-lvlu1-lvl2-lvl26-2] (FinMIO-FINMA), insofar as they are known to the issuer.
 - 2\.6.11 Cross-shareholdings
 - Cross-shareholdings that exceed 5 percent of the holdings of capital or voting rights on both sides.
 - 2\.6.12 Public purchase offers
@@ -1937,9 +1955,16 @@ Annex 1
 - Date on which entitlement to dividends begins. Details of any withholding taxes levied on the dividends, as well as information on whether or not these withholding taxes will be defrayed by the issuer.
 - 2\.6.14 Employee participation [◊][#]
 - Means by which employees at all levels may participate in the issuer, where material.
-- **2.7** **Information policy**
+
+[^annex1-lvlu1-lvl2-lvl26-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex1-lvlu1-lvl2-lvl26-2]: [SR 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
+
+### 2.7 Information policy
+
 - Frequency and form of information from the issuer to its shareholders. Indication of permanent sources of information and contact addresses for the issuer that are publicly accessible or may be used in particular by shareholders, such as links to websites, information centres, printed documents.
-- **2.8** **Annual and interim financial statements**
+
+### 2.8 Annual and interim financial statements
+
 - 2\.8.1 Annual financial statements
   - a. the last two published financial reports containing the annual financial statements for the last three full financial years, drawn up in accordance with a recognised financial reporting standard and audited by the auditors. Companies that have existed commercially for a shorter length of time: corresponding reduction in the period which the annual financial statement presentation must cover;
   - b. financial statements for the last financial year as provided for in the articles of association, insofar as they are relevant for the distribution of profits or for other rights of holders of equity securities.
@@ -1950,12 +1975,10 @@ Annex 1
 
 - 2\.8.3 Audit of annual financial statements
 - Presentation of the auditors' report for the audited annual financial statements disclosed in the prospectus.
-- [tab]
 - 2\.8.4 Balance sheet date
 - The balance sheet date of the last audited annual financial statements may be no more than 18 months in the past on the date the prospectus is published.
 - 2\.8.5 Interim financial statement for public offer without admission to trading [\*]
-  - [tab] Additional interim financial statement drawn up in accordance with the same financial reporting standard as for the annual financial statement and covering at least the first six months of the financial year, if the balance sheet date of the last audited annual financial statements is more than nine months in the past on the date the prospectus is published.
-
+- Additional interim financial statement drawn up in accordance with the same financial reporting standard as for the annual financial statement and covering at least the first six months of the financial year, if the balance sheet date of the last audited annual financial statements is more than nine months in the past on the date the prospectus is published.
 - 2\.8.6 Material changes since the most recent annual or interim financial statement
   - a. material changes in the issuer's assets and liabilities, financial position and profits and losses since the close of the last financial year or the balance sheet date of the interim financial statements;
   - b.
@@ -1968,39 +1991,48 @@ Annex 1
   - c. the disclosure is in accordance with the guideline issued by the competent reviewing body on pro-forma financial information;
   - d. if no material changes have occurred with regard to the issuer: a declaration to that effect.
 
-- **2.9** **Dividends and financial results**
+### 2.9 Dividends and financial results
+
 - 2\.9.1 Description of the issuer's policy on dividend distributions, as well as any restrictions in this regard.
 - 2\.9.2 Per-share dividends paid during the three most recent financial years.
 - 2\.9.3 Per-equity security information adjusted to ensure comparability, if the number of the issuer's equity securities has changed in the past three financial years, in particular as a result of a capital increase or reduction or following a combination or split of participation rights.
 
-[^annex1-lvlu1-lvl2-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex1-lvlu1-lvl2-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex1-lvlu1-lvl2-3]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
-[^annex1-lvlu1-lvl2-4]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex1-lvlu1-lvl2-5]: [SR 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
-
 ### 3 Information on the securities (securities note)
 
-- **3.1** **Issue price and issue volume**
+### 3.1 Issue price and issue volume
+
 - If the final issue price and the issue volume cannot be stated: indication of the maximum issue price and the criteria and conditions that can be used to determine the issue volume.
-- **3.2** **Risks**
+
+### 3.2 Risks
+
 - Description of the main risks regarding the securities.
-- **3.3** **Legal foundation**
+
+### 3.3 Legal foundation
+
 - Resolutions, authorisations and approvals by virtue of which the securities have been or will be issued.
-- **3.4** **Rights**
+
+### 3.4 Rights
+
 - Brief description of the rights attached to the securities, specifically the extent of voting rights, entitlement to a share of profits and, in the event of liquidation, to any proceeds, as well as any other preferential rights.
-- **3.5** **Restrictions**
+
+### 3.5 Restrictions
+
 - 3\.5.1 Restrictions on transferability
 - Restrictions on transferability for each category of securities, along with an indication of group clauses, if any, provided for in the articles of association, and of rules on granting exemptions, as well as grounds for the granting of exemptions during the year under review.
 - 3\.5.2 Transfer restrictions
 - Any transfer restrictions.
-- **3.6** **Publication**
-- Information on where notices about the securities and about the issuer will be published.
-- **3.7** **Securities number, ISIN and trading currency**
-  - a. If available: securities identification number such as securities number or ISIN;
-  - b. currency/currencies the equity securities are traded in.
 
-- **3.8** **Information on the off****er [∞]**
+### 3.6 Publication
+
+- Information on where notices about the securities and about the issuer will be published.
+
+### 3.7 Securities number, ISIN and trading currency
+
+- a. If available: securities identification number such as securities number or ISIN;
+- b. currency/currencies the equity securities are traded in.
+
+### 3.8 Information on the offer [∞]
+
 - 3\.8.1 Nature of the issue
 - Nature of the securities issue; specifically, in the case of firm underwritings, the lead underwriter must be stated. If the firm underwriting applies to only a portion of the issue, the level of the underwriting commitment must be given.
 - 3\.8.2 Number, type and par value of securities
@@ -2037,12 +2069,12 @@ Annex 1
 
 ### 4 Responsibility for the prospectus
 
-4.1 information about the companies or persons which take responsibility for the content of the prospectus or, if applicable, for certain designated sections of it:
+- 4\.1
 
-- a. Company name and registered office of the companies or name and position of the persons;
-- b. declarations by these companies or persons that the information is correct to the best of their knowledge and that no material facts or circumstances have been omitted.
+  Information about the companies or persons which take responsibility for the content of the prospectus or, if applicable, for certain designated sections of it:
 
-- [tab]
+  - a. Company name and registered office of the companies or name and position of the persons;
+  - b. declarations by these companies or persons that the information is correct to the best of their knowledge and that no material facts or circumstances have been omitted.
 
 Annex 2
 
@@ -2052,7 +2084,7 @@ Annex 2
 
 ### 0 Relaxations of requirements and information on the first page
 
-- **0.1** **Relaxations of requirements**
+### 0.1 Relaxations of requirements
 
 Relaxations of requirements in accordance with Article 57 are designated as follows:
 
@@ -2062,9 +2094,10 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - d. Relaxation of requirements for admission to trading without public offer: [∞];
 - e. Relaxation of requirements for low capitalisation via a trading venue or DLT trading facility: [±].
 
-- **0.2** **Information on the first page**
-  - a. Prospectus of [date] approved by [name of reviewing body] on [date].
-  - b. When requesting an exception in accordance with Article 51 paragraph 2 FinSA: Mention must be made that such an exception is being requested, that the prospectus has not yet been reviewed and that it is current only as of the date of the prospectus and that it does not have to be updated until a review decision has been made.
+### 0.2 Information on the first page
+
+- a. Prospectus of [date] approved by [name of reviewing body] on [date].
+- b. When requesting an exception in accordance with Article 51 paragraph 2 FinSA: Mention must be made that such an exception is being requested, that the prospectus has not yet been reviewed and that it is current only as of the date of the prospectus and that it does not have to be updated until a review decision has been made.
 
 ### 1 Summary (Art. 54)
 
@@ -2083,8 +2116,8 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - 1\.1.11 For an admission to trading: key information on the admission to trading;
 - 1\.1.12 Prospectus of [date] approved by [name of reviewing body] on [date].
 
-[^annex2-lvlu1-lvl1-lvl11-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex2-lvlu1-lvl1-lvl11-2]: [SR 221.302.34](https://fedlex.data.admin.ch/eli/cc/2017/529)
+[^annex2-lvlu1-lvl1-lvl11-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex2-lvlu1-lvl1-lvl11-2]: [SR 221.302.34](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5923)
 
 ### 1.2 Base prospectus
 
@@ -2093,15 +2126,17 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - 1\.2.3 Note that the key information on the securities for a specific public offer or a specific admission to trading of securities is supplemented in the final terms;
 - 1\.2.4 Note that the key information on any specific public offer is supplemented in the final terms;
 - 1\.2.5 Note that the key information on any admission to trading is supplemented in the final terms;
-  - 1\.2.6 a. Base prospectus of [date] approved by [name of reviewing body] on [date],
-
-- b. Note that the final terms are to be published and filed with the reviewing body as soon as possible after the final information is available; in the case of an admission to trading, this shall be by no later than the time that the securities in question are admitted to trading, published and filed with the reviewing body.
+- 1\.2.6 a. Base prospectus of [date] approved by [name of reviewing body] on [date],
+  - b. Note that the final terms are to be published and filed with the reviewing body as soon as possible after the final information is available; in the case of an admission to trading, this shall be by no later than the time that the securities in question are admitted to trading, published and filed with the reviewing body.
 
 ### 2 Information on the issuer and any guarantors and security providers (registration document)
 
-- **2.1** **Risks**
+### 2.1 Risks
+
 - Description of the main risks regarding the issuer and any guarantors or security providers.
-- **2.2** **General information on the issuer and any guarantors or security providers**
+
+### 2.2 General information on the issuer and any guarantors or security providers
+
 - 2\.2.1 Company name;
 - 2\.2.2 Registered office;
 - 2\.2.3 Location of the head office provided this is not identical with the registered office [#];
@@ -2113,7 +2148,9 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - 2\.2.9 If available, designation of the register, date of entry in this register and, if applicable, company or registration number [#];
 - 2\.2.10 If applicable, description of the group's operational structure [#];
 - 2\.2.11 If possible or envisaged: requirements for a change of issuer or guarantor or security provider.
-- **2.3** **Information on the board of directors, management, auditors and other bodies of the issuer and any guarantors or security providers**
+
+### 2.3 Information on the board of directors, management, auditors and other bodies of the issuer and any guarantors or security providers
+
 - 2.3.1 Composition of bodies [#]
 -
 
@@ -2125,15 +2162,20 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
   - d. any partners with personal liability in the case of partnerships with limited shares;
   - e. founders, if the company has existed for less than five years.
 
-- 2\.3.2 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex2-lvlu1-lvl2-1]
+- 2\.3.2 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex2-lvlu1-lvl2-lvl23-1]
   - a. company name and address of the licensed statutory auditors;
   - b. name of the audit oversight authority responsible for the auditors;
-  - c. highlighted statement if the audit company of the issuer or any guarantor or security provider is not supervised by a foreign audit oversight authority recognised by the Federal Council in accordance with Article 8 AOA and Annex 2 AOO[^annex2-lvlu1-lvl2-2];
+  - c. highlighted statement if the audit company of the issuer or any guarantor or security provider is not supervised by a foreign audit oversight authority recognised by the Federal Council in accordance with Article 8 AOA and Annex 2 AOO[^annex2-lvlu1-lvl2-lvl23-2];
   - d. if other auditors have been elected for the current financial year, this fact must be stated;
   - e. if the auditors were voted out from office, dismissed, not re-elected or themselves resigned during the period covered by the financial statements published in the prospectus: the attendant reasons must be disclosed.
 
 - 2\.3.3 If the issuer or any guarantor or security provider is a state, a municipality or another public entity, analogous information is to be provided.
-- **2.4** **Business activities and prospects of the issuer and any guarantors or** **security providers**
+
+[^annex2-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex2-lvlu1-lvl2-lvl23-2]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
+
+### 2.4 Business activities and prospects of the issuer and any guarantors or security providers
+
 - 2\.4.1 Principal activities [#]
   - a. Description of principal activities at the present time, stating the main products sold and services performed;
   - b. details of any new products or activities.
@@ -2152,7 +2194,8 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
   - b. note to that effect if this information has been influenced by extraordinary events;
   - c. details of the main business prospects, with an indication that these are uncertain.
 
-- **2.5** **Capital and voting rights of the issuer and any guarantors or** **security providers**
+### 2.5 Capital and voting rights of the issuer and any guarantors or security providers
+
 - 2\.5.1 Capital structure [#]
   - a. indication of the amount of ordinary, authorised and conditional capital as at the balance sheet date for the annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case, such as voting rights, dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
@@ -2163,7 +2206,9 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - 2\.5.3 Own equity securities [#]
 - Number of own equity securities held by the issuer or by any guarantors or security providers themselves or on their behalf, including own equity securities held by another company in which they hold a majority interest.
 - 2\.5.4 In the case of a special purpose vehicle it is sufficient to provide information on the guarantor or security provider.
-- **2.6** **Annual and interim financial statements of the issuer and any guarantors or security providers**
+
+### 2.6 Annual and interim financial statements of the issuer and any guarantors or security providers
+
 - 2\.6.1 Annual financial statements
   - a. the latest published financial reports containing the annual financial statements for the last two full financial years, drawn up in accordance with a recognised financial reporting standard and audited by the auditors, companies that have existed commercially for a shorter length of time: corresponding reduction in the period which the annual financial statement presentation must cover;
   - b. financial statements for the last financial year as provided for in the articles of association, insofar as they are relevant for the distribution of profits or for other rights of holders of debt securities.
@@ -2184,18 +2229,22 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 
 - 2\.6.7 In the case of a special purpose vehicle it is sufficient to provide information on the guarantor or security provider.
 
-[^annex2-lvlu1-lvl2-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex2-lvlu1-lvl2-2]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
-
 ### 3 Information on the securities (securities note)
 
-- **3.1** **Issue price and issue volume**
+### 3.1 Issue price and issue volume
+
 - If the final issue price and issue volume cannot be stated in the prospectus: indication of the maximum issue price and the criteria and conditions that can be used to determine the issue volume.
-- **3.2** **Risks**
+
+### 3.2 Risks
+
 - Description of the main risks regarding the securities.
-- **3.3** **Legal foundation**
+
+### 3.3 Legal foundation
+
 - Resolutions, authorisations and approvals by virtue of which the securities have been or will be issued.
-- **3.4** **Rights**
+
+### 3.4 Rights
+
 - 3\.4.1 Issuing conditions
   - a. for a prospectus: statement of the complete issuing conditions;
   - b. for a base prospectus: complete general issuing conditions and a sample of the final terms.
@@ -2219,17 +2268,28 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - 3\.4.10 Prescription
 - Prescripted period for claims to interest and redemption.
 - 3\.4.11 Security
-  - 3\.4.11.1 description of the nature and scope of any security provided;
-  - 3\.4.11.2 law applicable to the securities, and place of jurisdiction;
-  - 3\.4.11.3 in the case of guarantees, sureties or similar commitments by third parties:
+- 3\.4.11.1 description of the nature and scope of any security provided;
+- 3\.4.11.2 law applicable to the securities, and place of jurisdiction;
+- 3\.4.11.3
+
+  in the case of guarantees, sureties or similar commitments by third parties:
+
   - a. full wording, if it is not of such a substantial volume that the reviewing body consents to a substitute presentation in the summary;
   - b. supplementary description, if the full wording does not sufficiently cover the legal nature, scope and enforceability of the guarantee commitment;
   - c. note to investors informing them that they may obtain the full wording free of charge.
-  - 3\.4.11.4 For government guarantees:
+
+- 3\.4.11.4
+
+  For government guarantees:
+
   - a. full wording or, if deemed equivalent for the investor, reference to the applicable legal provisions
   - b. information about the content of the government guarantee, namely whether it also secures the specific securities
   - c. information on how any claims against the government that may arise from the guarantee commitment can be asserted and enforced;
-  - 3\.4.11.5 For a keep-well agreement:
+
+- 3\.4.11.5
+
+  For a keep-well agreement:
+
   - a.
 
     full wording or, of it is not sufficient for the investor, information on the nature and binding character of the agreement*;* in particular, the following must be set out:
@@ -2264,7 +2324,8 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
   - c. in the case of uncertificated securities: information on how they may be transferred, as well as on proof of legal ownership, or, in the case of uncertificated securities, information on the applicable legal provisions and the person who maintains the ledger of uncertificated securities and, if applicable, the main register of the issue in question;
   - d. for securities certificated in the form of one or more permanent global certificates or issued as uncertificated securities: the prospectus must state clearly that investors not be able to demand the delivery of individual certificates.
 
-- **3.5** **Convertible bonds and exchangeable claims**
+### 3.5 Convertible bonds and exchangeable claims
+
 - 3\.5.1 Conversion and exchange conditions
 - Convertible bonds and exchangeable claims: Statement of the detailed conversion or exchange conditions, with specific reference made to the circumstances under which the conditions and the related procedures may be altered.
 - 3\.5.2 Underlying instruments
@@ -2281,9 +2342,13 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 
 - *Underlying instruments not admitted to trading:*
 - For participation rights to which a convertible bond or exchangeable claim relates, which are not admitted to trading on a Swiss trading venue or Swiss DLT trading facility or a recognised foreign trading venue or recognised foreign DLT trading facility and whose admission to trading is not being applied for at the same time: Information which enables the investor to make an assessment of the participation rights.
-- **3.6** **Warrant bonds**
+
+### 3.6 Warrant bonds
+
 - Complete details about the securities and the warrant terms, as well as all stipulated information on the underlying instrument in accordance with the «Derivatives» scheme.
-- **3.7** **Asset-backed securities**
+
+### 3.7 Asset-backed securities
+
 - 3\.7.1 Transaction summary
 - 3\.7.1.1
 
@@ -2302,21 +2367,31 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
   - e. legal risks;
   - f. information on other significant risks associated with the structure and with the assets serving as collateral.
 
-- **3.8** **Publication**
-  - a. Information on where notices about the securities and about the issuer or guarantors or security providers will be published;
-  - b. if notices are to be published on a website, the prospectus must provide the website address.
+### 3.8 Publication
 
-- **3.9** **Restrictions on transferability, tradability**
+- a. Information on where notices about the securities and about the issuer or guarantors or security providers will be published;
+- b. if notices are to be published on a website, the prospectus must provide the website address.
+
+### 3.9 Restrictions on transferability, tradability
+
 - Transferability of the securities and any transfer restrictions.
-- **3.10** **Securities identification number**
+
+### 3.10 Securities identification number
+
 - If available, securities identification number such as securities number or ISIN.
-- **3.11** **Settlement date**
+
+### 3.11 Settlement date
+
 - Information on the payment or delivery deadline where conversion or other rights are exercised or the securities expire.
-- **3.12** **Information on admission to trading [×]**
+
+### 3.12 Information on admission to trading [×]
+
 - 3\.12 The planned duration for which the securities will be traded, stating the last trading day.
 - 3\.12.2 Trading volume
 - Information on the minimum trading volume of the securities, if only multiple denominations can be traded.
-- **3.13** **Information on the offer [∞]**
+
+### 3.13 Information on the offer [∞]
+
 - 3\.13.1 Nature of the issue
 - Nature of the securities issue; specifically, in the case of firm underwritings, the lead underwriter must be stated. If the firm underwriting applies to only a portion of the issue, the level of the underwriting commitment must be given.
 - 3\.13.2 Issue price
@@ -2348,7 +2423,8 @@ Annex 3
 
 ### 0 Relaxations of requirements and information on the first page
 
-- **0.1** **Relaxations of requirements**
+### 0.1 Relaxations of requirements
+
 -
 
   Relaxations of requirements in accordance with Article 57 are designated as follows:
@@ -2358,7 +2434,8 @@ Annex 3
   - c. Relaxation of requirements for public offer without admission to trading: [×];
   - d. Relaxation of requirements for admission to trading without public offer: [∞].
 
-- **0.2** **Information on the first page**
+### 0.2 Information on the first page
+
 - 0\.2.1 Prospectus of [date] approved by [name of reviewing body] on [date];
 - 0\.2.2 When requesting an exception in accordance with Article 51 paragraph 2 FinSA: Mention must be made that such an exception is being requested, that the prospectus has not yet been reviewed and that it is current only as of the date of the prospectus and that it does not have to be updated until a review decision has been made;
 - 0\.2.3
@@ -2386,8 +2463,8 @@ Annex 3
 - 1\.1.11 For an admission to trading: key information on the admission to trading;
 - 1\.1.12 Prospectus of [date] approved by [name of reviewing body] on [date].
 
-[^annex3-lvlu1-lvl1-lvl11-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex3-lvlu1-lvl1-lvl11-2]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex3-lvlu1-lvl1-lvl11-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex3-lvlu1-lvl1-lvl11-2]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 1.2 Base prospectus
 
@@ -2397,14 +2474,17 @@ Annex 3
 - 1\.2.3 Note that the key information on the securities for a specific public offer or a specific admission to trading of securities is supplemented in the final terms;
 - 1\.2.4 Note that the key information on any specific public offer is supplemented in the final terms;
 - 1\.2.5 Note that the key information on any admission to trading is supplemented in the final terms;
-  - 1\.2.6 a. base prospectus of [date] approved by [name of reviewing body] on [date],
+- 1\.2.6 a. base prospectus of [date] approved by [name of reviewing body] on [date],
   - b. note that the final terms are to be published and filed with the reviewing body as soon as possible after the final information is available. In the case of an admission to trading, this shall be by no later than the time that the securities in question are admitted to trading.
 
 ### 2 Information on the issuer and any guarantors or security providers (registration document)
 
-- **2.1** **Risks**
+### 2.1 Risks
+
 - Description of the main risks with regard to the issuer and any guarantors or security providers.
-- **2.2** **General information on the issuer and any guarantors or security providers**
+
+### 2.2 General information on the issuer and any guarantors or security providers
+
 - 2\.2.1 Company name;
 - 2\.2.2 Registered office;
 - 2\.2.3 Location of the head office provided that this is not identical with the registered office [#];
@@ -2415,7 +2495,9 @@ Annex 3
 - 2\.2.8 Date of the articles of association or the partnership agreement of the issuer and any guarantors or security providers [#];
 - 2\.2.9 If available, designation of the register, date of entry in this register and, if applicable, company or registration number [#];
 - 2\.2.10 If applicable, description of the group's operational structure.
-- **2.3** **Information on the board of directors, management, auditors and other bodies of the issuer and any guarantors or security providers**
+
+### 2.3 Information on the board of directors, management, auditors and other bodies of the issuer and any guarantors or security providers
+
 - 2\.3.1 Composition of bodies [#]
 -
 
@@ -2427,12 +2509,18 @@ Annex 3
   - d. any partners with personal liability in the case of limited partnerships;
   - e. founders, if the company has existed for less than five years.
 
-- 2\.3.2 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex3-lvlu1-lvl2-1]
+- 2\.3.2
+
+  Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex3-lvlu1-lvl2-lvl23-1]:
+
   - a. name or company name and address of the licensed statutory auditors;
   - b. if other auditors have been elected for the current financial year, this fact must be indicated;
-  - [tab] c. If the auditors were voted out of office, dismissed, not re-elected or themselves resigned during the period covered by the financial statements published in the prospectus, the attendant reasons must be disclosed.
+  - c. if the auditors were voted out of office, dismissed, not re-elected or themselves resigned during the period covered by the financial statements published in the prospectus, the attendant reasons must be disclosed.
 
-- **2.4** **Business activities of the issuer and any guarantors or security providers**
+[^annex3-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+
+### 2.4 Business activities of the issuer and any guarantors or security providers
+
 - 2\.4.0 General information
 - If the issuer or guarantor or security provider is the parent company of a group of companies, the following information with respect to business activities must be provided on a group-wide, consolidated basis.
   - a. The information required in accordance with items 2.4.1–2.4.2 insofar as it is of material importance in assessing the business activities and earning power;
@@ -2448,7 +2536,8 @@ Annex 3
   - a. information on pending or threatened court, arbitration or administrative proceedings, where these are of material importance in respect of assets and liabilities or profits and losses;
   - b. negative declaration to that effect if no proceedings are pending or impending.
 
-- **2.5** **Capital and voting rights of the issuer and any guarantors or security providers**
+### 2.5 Capital and voting rights of the issuer and any guarantors or security providers
+
 - 2\.5.0 General information
 - If the guarantor or security provider is an institution in accordance with Article 70 paragraph 1 FinSA, it is sufficient to furnish information on the guarantor or security provider only.
 - 2\.5.1 Capital structure [#]
@@ -2460,7 +2549,9 @@ Annex 3
 - Where material, information on outstanding bonds, with a distinction made between bonds secured with physical collateral or in another manner by the issuer or third parties and unsecured bonds, stating the interest rate, maturity and currency.
 - 2\.5.3 Own equity securities [#]
 - Number of own equity securities held by the issuer or by guarantors or security providers themselves or on their behalf, including own equity securities held by another company in which they hold a majority interest.
-- **2.6** **Annual and interim financial statements of the issuer and any guarantors or security providers**
+
+### 2.6 Annual and interim financial statements of the issuer and any guarantors or security providers
+
 - 2\.6.1 Annual financial statements
   - a. the latest published financial report containing the annual financial statements for the last two full financial years, drawn up in accordance with a recognised financial reporting standard and audited by the auditors. Companies that have existed commercially for a shorter length of time: corresponding reduction in the period which the annual financial statement presentation must cover;
   - b. financial statements for the last financial year as provided for in the articles of association, insofar as they are relevant for the distribution of profits or for other rights of holders of derivatives.
@@ -2476,20 +2567,23 @@ Annex 3
 - 2\.6.5 Interim financial statement for public offer without admission to trading [x] [\*]
 - Additional interim financial statement drawn up in accordance with the same financial reporting standard as for the annual financial statement and covering at least the first six months of the financial year, if the balance sheet date of the last audited annual financial statements is more than nine months in the past on the date the prospectus is published.
 - 2\.6.6 Material changes since the most recent annual financial statements (in the case of a base prospectus, the final terms are also to be included)
-  - c. material changes in the assets and liabilities, financial position and profits and losses since the close of the last financial year or the balance sheet date of the interim financial statements.
-  - d. a declaration to that effect if no material changes have occurred with regard to the issuer.
+  - a. material changes in the assets and liabilities, financial position and profits and losses since the close of the last financial year or the balance sheet date of the interim financial statements.
+  - b. a declaration to that effect if no material changes have occurred with regard to the issuer.
 
 - 2\.6.7 If the guarantor or security provider is an institution in accordance with Article 70 paragraph 1 FinSA, it is sufficient to furnish information on the guarantor or security provider only.
 
-[^annex3-lvlu1-lvl2-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-
 ### 3 Information on the securities (securities note)
 
-- **3.0** **Information in the base prospectus**
+### 3.0 Information in the base prospectus
+
 - General description of the categories of securities or products to be issued under the base prospectus, for example, based on the description of the main product categories contained in the SSPA Swiss Derivative Map of the Swiss Structured Products Association.
-- **3.1** **Risks**
+
+### 3.1 Risks
+
 - Description of the main risks with regard to the securities, in the form of an outline description of the loss potential of the securities in words or a graph showing the performance of the derivatives as a function of the underlying instrument.
-- **3.2** **Conditions**
+
+### 3.2 Conditions
+
 - 3\.2.0 General information
   - a. for a prospectus: statement of the complete issuing conditions.
   - b. for a base prospectus: publication of the general issuing conditions and a sample of the final terms.
@@ -2510,7 +2604,6 @@ Annex 3
 - Term of the securities.
 - 3\.2.7 Prescription
 - Prescriptive period for claims to interest and redemption.
-- [tab]
 - 3\.2.8 Subordination
 - If applicable, information concerning subordination of the securities with respect to other of the issuer's existing or future liabilities.
 - 3\.2.9 Applicable law and place of jurisdiction
@@ -2542,7 +2635,9 @@ Annex 3
 - Declaration under the section entitled «Issuer cover» that the corresponding number of underlying instruments has been pledged to or deposited with the issuer or the holder of the warrants, so that the issuer is able at all times to fulfil its obligation to deliver the instruments.
 - 3\.2.18 Change of issuer or guarantor or security provider
 - If applicable, requirements for a change.
-- **3.3** **Underlying instruments**
+
+### 3.3 Underlying instruments
+
 - 3\.3.1 General information
   - a. general designation of the underlying instruments and, if no description of the underlying instruments is publicly accessible, a brief description of the underlying instruments;
   - b. where available, the ISIN of the underlying instruments; otherwise an alternative unique identifier;
@@ -2575,16 +2670,25 @@ Annex 3
   - d. note on where the information on the investment strategy can be obtained free of charge;
   - e. note on where the monthly updated percentage-weighted composition of the underlying instrument is accessible.
 
-- **3.4** **Publication**
+### 3.4 Publication
+
 - 3\.4.1 Information on where notices about the securities and about the issuer or any guarantors or security providers are published.
 - 3\.4.2 If notices are to be published on a website, the prospectus must provide the website address.
-- **3.5** **Restrictions on transferability, tradability**
+
+### 3.5 Restrictions on transferability, tradability
+
 - Transferability of the securities and any transfer restrictions.
-- **3.6** **Securities identification number**
+
+### 3.6 Securities identification number
+
 - If available, securities identification number such as securities number or ISIN.
-- **3.7** **Fees**
+
+### 3.7 Fees
+
 - Fees levied on the investor after issue during the term.
-- **3.8** **Provision of security**
+
+### 3.8 Provision of security
+
 - 3\.8.1 Description of the nature and scope of any security provided;
 - 3\.8.2 Law applicable to the securities, and place of jurisdiction;
 - 3\.8.3
@@ -2619,19 +2723,24 @@ Annex 3
 
   - b. statement that it constitutes neither a guarantee nor a joint and several surety.
 
-- **3.9** **Information on admission to trading [×]**
+### 3.9 Information on admission to trading [×]
+
 - 3\.9.1 Duration of trading
 - The planned duration for which the securities will be traded, stating the last trading day and time if trading does not continue until the close of trading.
 - 3\.9.2 Trading volume
 - Information on the minimum trading volume of the securities, if only multiple denominations can be traded.
 - 3\.9.3 Type of quoting
 - For securities with an interest component, such as reverse convertibles: information on whether the securities will be traded or quoted including accrued interest or whether the accrued interest will be shown separately (flat/dirty trading or clean trading).
-- **3.10** **Information on the offer [∞]**
+
+### 3.10 Information on the offer [∞]
+
 - 3\.10.1 Issue price
 - Issue price of the securities.
 - 3\.10.2 Selling restrictions
 - Highlighted information on any selling restrictions according to foreign law.
-- **3.11** **Taxes**
+
+### 3.11 Taxes
+
 - Any Swiss withholding taxes levied on income from the securities.
 
 ### 4 Responsibility for the prospectus
@@ -2648,7 +2757,7 @@ Annex 4
 
 ### 0 Relaxations of requirements and information on the first page
 
-- **0.1** **Relaxations of requirements**
+### 0.1 Relaxations of requirements
 
 Relaxations of requirements in accordance with Article 57 are designated as follows:
 
@@ -2658,7 +2767,7 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - d. Relaxation of requirements for admission to trading without public offer: [∞];
 - e. Relaxation of requirements for rights issue: [◊].
 
-- **0.2** **Information on the first page**
+### 0.2 Information on the first page
 
 Prospectus of [date] approved by [name of reviewing body] on [date].
 
@@ -2677,9 +2786,12 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 
 ### 2 Information on the issuer (registration form)
 
-- **2.1** **Risks**
+### 2.1 Risks
+
 - Description of the main risks with regard to the issuer and its industry.
-- **2.2** **General information on the issuer**
+
+### 2.2 General information on the issuer
+
 - 2\.2.1 Company name;
 - 2\.2.2 Registered office;
 - 2\.2.3 Location of the head office provided this is not identical with the registered office [#];
@@ -2690,7 +2802,9 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.2.8 Date of the articles of association [◊][#];
 - 2\.2.9 If available: Designation of the register, date of entry in this register and, if applicable, company or registration number [◊][#];
 - 2\.2.10 If applicable, description of the group's operational structure.
-- **2.3** **Information on the board of directors, management,** **auditors and other bodies of the issuer**
+
+### 2.3 Information on the board of directors, management, auditors and other bodies of the issuer
+
 - 2\.3.1 Composition of bodies
 -
 
@@ -2740,14 +2854,19 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
   - c. if applicable, information to the effect that the reference date for this information is not the date of the prospectus;
   - d. any material changes in the information in question that may have arisen since the reference date.
 
-- 2\.3.7 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex4-lvlu1-lvl2-1]
+- 2\.3.7 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex4-lvlu1-lvl2-lvl23-1]
   - a. company name and address of the licensed statutory auditors;
   - b. name of the audit oversight authority responsible for the auditors;
-  - c. highlighted statement to that effect if the audit company of the issuer or any guarantor or security provider is not supervised by a foreign audit oversight authority recognised by the Federal Council in accordance with Article 8 AOA[^annex4-lvlu1-lvl2-2] and Annex 2 AOO[^annex4-lvlu1-lvl2-3] [×];
+  - c. highlighted statement to that effect if the audit company of the issuer or any guarantor or security provider is not supervised by a foreign audit oversight authority recognised by the Federal Council in accordance with Article 8 AOA[^annex4-lvlu1-lvl2-lvl23-2] and Annex 2 AOO[^annex4-lvlu1-lvl2-lvl23-3] [×];
   - d. if other auditors have been elected for the current financial year, this fact must be stated;
   - e. if the auditors were voted out of office, dismissed, not re-elected or themselves resigned during the period covered by the financial statements published in the prospectus: the attendant reasons must be disclosed.
 
-- **2.4** **Business activities and prospects**
+[^annex4-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex4-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex4-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
+
+### 2.4 Business activities and prospects
+
 - 2\.4.0 General information
   - a. the information required in items 2.4.1–2.4.7 insofar as it is of material importance in assessing the issuer's business activities and earning power;
   - b. note to that effect if this information has been influenced by extraordinary events;
@@ -2789,14 +2908,13 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
     - – for leases concluded with two or more companies that are associated with each other to form a group of companies by a majority of voting rights or capital ownership, or by control in any other way: disclosure of all leases with this group of companies if, from a consolidated point of view, those entities rank among the issuer's five most important tenants;
 
   - d. properties in development:
+  -
 
-- [tab]
+    For properties in development or projects, in addition to the information listed in letter a:
 
-  For properties in development or projects, in addition to the information listed in letter a:
-
-- – description of the project,
-- – status of project (permits, buildings, sales/rentals),
-- – estimated completion date;
+    - – description of the project,
+    - – status of project (permits, buildings, sales/rentals),
+    - – estimated completion date;
 
   - e. issuer's equity holdings in real estate companies
     - – equity holdings in real estate companies that constitute at least 10 percent of the issuer's consolidated total assets (material equity holdings), stating the name of the real estate company and the amount of the equity holding,
@@ -2812,7 +2930,9 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 
 - 2\.4.6 Number of employees [◊][#]
 - Number of employees on the balance sheet date for the financial statements contained in the prospectus.
-- **2.5** **Investment policy**
+
+### 2.5 Investment policy
+
 - 2\.5.1 Principles of investment policy
   - a. description of the investment objectives and the commercial orientation of the issuer, such as real estate in the existing portfolio, projects, real estate services, including the financial goals and investment policy, such as specialisation in commercial or residential properties, geographical areas, companies of a speculative and/or unusual nature, as well as the means of financing, in particular the principles applied to mortgaging and debt financing;
   - b. permissible and non-permissible investment properties;
@@ -2830,7 +2950,9 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - Principal current investments, indicating how these investments are distributed geographically (domestic and international).
 - 2\.5.4 Investments already approved
 - Principal future investments that have already been decided by the investor and for which commitments have been entered into.
-- **2.6** **Capital and voting rights**
+
+### 2.6 Capital and voting rights
+
 - 2\.6.1 Capital structure
   - a. amount of ordinary, authorised and conditional capital as at the balance sheet date for the annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case, such as dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
@@ -2864,7 +2986,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.6.9 Own participation rights [◊][#]
 - Number of own participation rights held by the issuer or on its behalf, including participation rights issued by the issuer and held by another company in which the issuer has a majority interest.
 - 2\.6.10 Significant shareholders
-- Information in accordance with Articles 120 and 121 FinMIA[^annex4-lvlu1-lvl2-4] and the corresponding implementation provisions of the FinMIO-FINMA[^annex4-lvlu1-lvl2-5], insofar as they are known to the issuer.
+- Information in accordance with Articles 120 and 121 FinMIA[^annex4-lvlu1-lvl2-lvl26-1] and the corresponding implementation provisions of the FinMIO-FINMA[^annex4-lvlu1-lvl2-lvl26-2], insofar as they are known to the issuer.
 - 2\.6.11 Cross-shareholdings
 - Cross-shareholdings that exceed 5 percent of the holdings of capital or voting rights on both sides.
 - 2\.6.12 Public purchase offers [×]
@@ -2873,9 +2995,16 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - Date on which entitlement to dividends begins. Details of any withholding taxes levied on the dividends, as well as information on whether or not these withholding taxes will be defrayed by the issuer.
 - 2\.6.14 Employee participation
 - Means by which employees at all levels may participate in the issuer, where material.
-- **2.7** **Information policy**
+
+[^annex4-lvlu1-lvl2-lvl26-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex4-lvlu1-lvl2-lvl26-2]: [SR 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
+
+### 2.7 Information policy
+
 - Frequency and form of information from the issuer to its shareholders as well as indication of permanent sources of information and contact addresses for the issuer that are publicly accessible or may be used in particular by shareholders, such as links to websites, information centres and printed documents.
-- **2.8** **Annual and interim financial statements**
+
+### 2.8 Annual and interim financial statements
+
 - 2\.8.1 Annual financial statements
   - a. the last two published financial reports containing the annual financial statements for the last three full financial years, drawn up in accordance with a recognised financial reporting standard and audited by the auditors, insofar as the issuer has existed for three years. Companies that have existed commercially for a shorter length of time: corresponding reduction in the period which the annual financial statement presentation must cover;
   - b. financial statements for the last financial year as provided for in the articles of association, insofar as they are relevant for the distribution of profits or for other rights of holders of equity securities.
@@ -2889,8 +3018,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.8.4 Balance sheet date
 - The balance sheet date of the last audited annual financial statements may be no more than 18 months in the past on the date the prospectus is published.
 - 2\.8.5 Interim financial statement for public offer without admission to trading [\*]
-  - [tab] Additional interim financial statement drawn up in accordance with the same financial reporting standard as for the annual financial statement and covering at least the first six months of the financial year, if the balance sheet date of the last audited annual financial statements is more than nine months in the past on the date the prospectus is published.
-
+- Additional interim financial statement drawn up in accordance with the same financial reporting standard as for the annual financial statement and covering at least the first six months of the financial year, if the balance sheet date of the last audited annual financial statements is more than nine months in the past on the date the prospectus is published.
 - 2\.8.6 Material changes since the most recent annual or interim financial statement
   - a. material changes in the issuer's assets and liabilities, financial position and profits and losses since the close of the last financial year or the balance sheet date of the interim financial statements;
   - b.
@@ -2914,37 +3042,44 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
   - h. overview of the maturities of long-term leases excluding residential real estate;
   - i details of financing, such as maturities, amortisation and interest rates.
 
-- **2.9** **Dividends and financial results**
+### 2.9 Dividends and financial results
+
 - 2\.9.1 Description of the issuer's policy on dividend distributions, as well as any restrictions in this regard.
 - 2\.9.2 Per-share dividends paid during the three most recent financial years.
 - 2\.9.3 Adjusted per-equity security information, if the number of the issuer's equity securities has changed in the past three financial years, in particular as a result of a capital increase or reduction, or following a combination or split of participation rights.
 
-[^annex4-lvlu1-lvl2-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex4-lvlu1-lvl2-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex4-lvlu1-lvl2-3]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
-[^annex4-lvlu1-lvl2-4]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex4-lvlu1-lvl2-5]: [SR 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
-
 ### 3 Information on the securities (securities note)
 
-- **3.1** **Risks**
+### 3.1 Risks
+
 - Description of the main risks with regard to the securities.
-- **3.2** **Legal basis**
+
+### 3.2 Legal basis
+
 - Resolutions, authorisations and approvals by virtue of which the securities have been or will be issued.
-- **3.3** **Rights**
+
+### 3.3 Rights
+
 - Brief description of the rights attached to the securities, specifically the extent of voting rights, entitlement to a share of profits and, in the event of liquidation, to any proceeds, as well as any other preferential rights.
-- **3.4** **Restrictions**
+
+### 3.4 Restrictions
+
 - 3\.4.1 Restrictions on transferability
 - Restrictions on transferability for each category of securities, along with an indication of group clauses, if any, provided for in the articles of association, and of rules on granting exemptions, as well as grounds for the granting of exemptions during the year under review.
 - 3\.4.2. Transfer restrictions
 - Any transfer restrictions.
-- **3.5** **Publication**
-- Information on where notices about the securities and about the issuer will be published.
-- **3.6** **Securities number, ISIN and trading currency**
-  - a. if available, securities identification number such as securities number or ISIN;
-  - b. currency the equity securities are traded in.
 
-- **3.7** **Information on the offer [∞]**
+### 3.5 Publication
+
+- Information on where notices about the securities and about the issuer will be published.
+
+### 3.6 Securities number, ISIN and trading currency
+
+- a. if available, securities identification number such as securities number or ISIN;
+- b. currency the equity securities are traded in.
+
+### 3.7 Information on the offer [∞]
+
 - 3\.7.1 Nature of the issue
 - Nature of the securities issue; specifically, in the case of firm underwritings, the lead underwriter must be stated. If the firm underwriting applies to only a portion of the issue, the level of the underwriting commitment must be given.
 - 3\.7.2 Number, type and par value of securities
@@ -2979,7 +3114,8 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
   - c. in the case of uncertificated securities: information on the rules on how they may be transferred, as well as on proof of legal ownership, or, in the case of uncertificated securities, information on the applicable legal provisions and the person who maintains the ledger of uncertificated securities and, if applicable, the main register of the issue in question;
   - d. in the case of securities in the form of one or more permanent global certificates: the prospectus must state clearly that investors might not be able to demand the delivery of individual certificates.
 
-- **3.8** **Price performance of the securities [×]**
+### 3.8 Price performance of the securities [×]
+
 - Where available, price performance data for the securities from the last three years, indicating the year-end price as well as the highest and lowest prices during the year.
 
 ### 4 Responsibility for the prospectus
@@ -2999,7 +3135,7 @@ Annex 5
 
 ### 0 Relaxations of requirements and information on the first page
 
-- **0.1** **Relaxations of requirements**
+### 0.1 Relaxations of requirements
 
 Relaxations of requirements in accordance with Article 57 are designated as follows:
 
@@ -3009,7 +3145,7 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - d. Relaxation of requirements for admission to trading without public offer: [∞];
 - e. Relaxation of requirements for rights issue: [◊].
 
-- **0.2** **Information on the first page**
+### 0.2 Information on the first page
 
 Prospectus of [date] approved by [name of reviewing body] on [date].
 
@@ -3028,11 +3164,16 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 
 ### 2 Information on the issuer (registration form)
 
-- **2.0** **General information**
+### 2.0 General information
+
 - The prospectus must contain the following information on the issuer. Where there are legitimate grounds for so doing, the reviewing body may depart from the provisions of the prospectus schemes or request the disclosure of additional information.
-- **2.1** **Risks**
+
+### 2.1 Risks
+
 - Description of the main risks with regard to the issuer and its industry.
-- **2.2** **General information on the issuer**
+
+### 2.2 General information on the issuer
+
 - 2\.2.2 Company name;
 - 2\.2.3 Registered office;
 - 2\.2.4 Location of the head office provided this is not identical with the registered office [#];
@@ -3044,7 +3185,9 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.2.10 If available, designation of the register, date of entry in this register and, if applicable, company or registration number [◊][#];
 - 2\.2.11 If applicable, description of the group's operational structure [#];
 - 2\.2.12 Profile of the typical investor for which the issuer is conceived.
-- **2.3** **Information on the board of directors, management, auditors and other bodies of the issuer**
+
+### 2.3 Information on the board of directors, management, auditors and other bodies of the issuer
+
 - 2\.3.1 Composition of bodies [#]
 -
 
@@ -3083,10 +3226,10 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
   - c. if applicable, information to the effect that the reference date for this information is not the date of the prospectus;
   - d. any material changes in the information in question that may have arisen since the reference date.
 
-- 2\.3.6 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex5-lvlu1-lvl2-1]
+- 2\.3.6 Auditors or information to the effect that the limited audit will be dispensed with in accordance with Article 727*a* paragraph 2 CO[^annex5-lvlu1-lvl2-lvl23-1]
   - a. name or company name and address of the licensed statutory auditors;
   - b. name of the audit oversight authority responsible for the auditors;
-  - c. highlighted statement to that effect if the audit company of the issuer or any guarantor or security provider is not supervised by a foreign audit oversight authority recognised by the Federal Council in accordance with Article 8 AOA[^annex5-lvlu1-lvl2-2] and Annex 2 AOO[^annex5-lvlu1-lvl2-3] [×];
+  - c. highlighted statement to that effect if the audit company of the issuer or any guarantor or security provider is not supervised by a foreign audit oversight authority recognised by the Federal Council in accordance with Article 8 AOA[^annex5-lvlu1-lvl2-lvl23-2] and Annex 2 AOO[^annex5-lvlu1-lvl2-lvl23-3] [×];
   - d. if other auditors have been elected for the current financial year, this fact must be stated;
   - e. if the auditors were voted out of office, dismissed, not re-elected or themselves resigned during the period covered by the financial statements published in the prospectus: the attendant reasons must be disclosed.
 
@@ -3106,7 +3249,13 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - Legal form, registered office and head office of the custodian bank, as well as its principal activities.
 - 2\.3.9 Third parties
 - Information on third parties whose fees are charged to the issuer.
-- **2.4** **Business activities and prospects**
+
+[^annex5-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex5-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex5-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
+
+### 2.4 Business activities and prospects
+
 - 2\.4.0 General information
   - a. the information required in items 2.4.1–2.4.5, insofar as it is of material importance in assessing the issuer's business activities and earning power;
   - b. note to that effect if this information has been influenced by extraordinary events;
@@ -3124,7 +3273,9 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 
 - 2\.4.5 Number of employees [◊][#]
 - Number of employees on the balance sheet date for the annual financial statements for the period covered by the historical financial statements contained in the prospectus.
-- **2.5** **Investment assets**
+
+### 2.5 Investment assets
+
 - 2\.5.1 Realisability
 - Details of the realisability of investment assets.
 - 2\.5.2 Tax treatment
@@ -3140,14 +3291,18 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 
 - 2\.5.4 Valuation methods
 - Detailed description of the intended valuation methods.
-- **2.6** **Investments**
+
+### 2.6 Investments
+
 - 2\.6.1 Investments made
 - Figures on the principal investments made for the period covered by the historical financial information.
 - 2\.6.2 Current investments
 - Principal current investments, indicating how these investments are distributed geographically, broken down into domestic and international.
 - 2\.6.3 Investments already approved
 - The principal future investments that have already been firmly approved by the investor and for which undertakings have been entered into.
-- **2.7** **Capital and voting rights**
+
+### 2.7 Capital and voting rights
+
 - 2\.7.1 Capital structure
   - a. indication of the amount of ordinary, authorised and conditional capital as at the balance sheet date for the last annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case such as dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
@@ -3181,7 +3336,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.7.9 Own participation rights [◊][#]
 - Number of own participation rights held by the issuer or on its behalf, including participation rights issued by the issuer and held by another company in which the issuer has a majority interest.
 - 2\.7.10 Significant shareholders
-- Information in accordance with Articles 120 and 121 FinMIA[^annex5-lvlu1-lvl2-4] and the corresponding implementation provisions of the FinMIO-FINMA[^annex5-lvlu1-lvl2-5], insofar as they are known to the issuer.
+- Information in accordance with Articles 120 and 121 FinMIA[^annex5-lvlu1-lvl2-lvl27-1] and the corresponding implementation provisions of the FinMIO-FINMA[^annex5-lvlu1-lvl2-lvl27-2], insofar as they are known to the issuer.
 - 2\.7.11 Cross-shareholdings
 - Cross-shareholdings that exceed 5 percent of the holdings of capital or voting rights on both sides.
 - 2\.7.12 Public purchase offers [×]
@@ -3190,9 +3345,16 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - Date on which entitlement to dividends begins. Details of any withholding taxes levied on the dividends, as well as information on whether or not these withholding taxes will be defrayed by the issuer.
 - 2\.7.14 Employee participation
 - Means by which employees at all levels may participate in the issuer, where material.
-- **2.8** **Information policy**
+
+[^annex5-lvlu1-lvl2-lvl27-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex5-lvlu1-lvl2-lvl27-2]: [SR 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
+
+### 2.8 Information policy
+
 - Frequency and form of information from the issuer to its shareholders as well as indication of permanent sources of information and contact addresses for the issuer that are publicly accessible or may be used in particular by shareholders, such as links to websites, information centres and printed documents.
-- **2.9** **Investment policy**
+
+### 2.9 Investment policy
+
 - Detailed description of the investment policy guidelines, in particular:
 - 2\.9.1 Investment objectives
 - Description of the issuer's investment objectives, including its financial goals, such as increasing capital or profitability, and its investment policy, for instance, specialisation in specific geographical areas or economic sectors.
@@ -3210,7 +3372,9 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - If applicable, disclosure of the criteria or recognised standards applied, and reference to the limited reliability of such information.
 - 2\.9.8 Changes to investment policy
 - Detailed description of decision-making authority in respect of changes to investment policy.
-- **2.10** **Annual and interim financial statements**
+
+### 2.10 Annual and interim financial statements
+
 - 2\.10.1 Annual financial statements
   - a. the last two published financial reports containing the annual financial statements for the last two full financial years, drawn up in accordance with a recognised financial reporting standard and audited by the auditors, insofar as the issuer has existed for three years. Companies that have been operational for a shorter length of time: corresponding reduction in the period which the annual financial statement presentation must cover;
   - b. financial statements for the last financial year as provided for in the articles of association, insofar as they are relevant for the distribution of profits or for other rights of holders of participation rights.
@@ -3244,37 +3408,44 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
   - d. disclosure of and motivation for any deviation from the investment policy during the reporting period;
   - e. parent companies must also provide the disclosures required in letters a–d for investments that are held by its investment company subsidiary.
 
-- **2.11** **Dividends and financial results**
+### 2.11 Dividends and financial results
+
 - 2\.11.1 Description of the issuer's policy on dividend distributions, as well as any restrictions in this regard.
 - 2\.11.2 Per-share dividends paid during the three most recent financial years.
 - 2\.11.3 Adjusted per-equity security information, if the number of the issuer's equity securities has changed in the past three financial years, in particular as a result of a capital increase or reduction, or following a combination or split of equity securities.
 
-[^annex5-lvlu1-lvl2-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex5-lvlu1-lvl2-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex5-lvlu1-lvl2-3]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
-[^annex5-lvlu1-lvl2-4]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex5-lvlu1-lvl2-5]: [SR 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
-
 ### 3 Information on the securities (securities note)
 
-- **3.1** **Risks**
+### 3.1 Risks
+
 - Description of the main risks with regard to the securities.
-- **3.2** **Legal basis**
+
+### 3.2 Legal basis
+
 - Resolutions, authorisations and approvals by virtue of which the securities have been or will be issued.
-- **3.3** **Rights**
+
+### 3.3 Rights
+
 - Brief description of the rights attached to the securities, specifically the extent of voting rights, entitlement to a share of profits and, in the event of liquidation, to any proceeds, as well as any other preferential rights.
-- **3.4** **Restrictions**
+
+### 3.4 Restrictions
+
 - 3\.4.1 Restrictions on transferability
 - Restrictions on transferability for each category of securities, along with an indication of group clauses, if any, provided for in the articles of association, and of rules on granting exemptions, as well as grounds for the granting of exemptions during the year under review.
 - 3\.4.2 Transfer restrictions
 - Any restrictions on tradability that apply from the first trading day onwards. In particular, any selling restrictions in accordance with foreign law must be clearly stated.
-- **3.5** **Publication**
-- Information on where notifications about the securities and about the issuer will be published.
-- **3.6** **Securities number, ISIN and trading currency**
-  - a. if available, securities identification numbers such as securities number or ISIN;
-  - b. currency the equity securities are traded in.
 
-- **3.7** **Information on the offer**
+### 3.5 Publication
+
+- Information on where notifications about the securities and about the issuer will be published.
+
+### 3.6 Securities number, ISIN and trading currency
+
+- a. if available, securities identification numbers such as securities number or ISIN;
+- b. currency the equity securities are traded in.
+
+### 3.7 Information on the offer
+
 - 3\.7.1 Nature of the issue
 - Nature of the securities issue; in the case of firm underwritings, the lead underwriter must be stated. If the firm underwriting applies to only a portion of the issue: the level of the underwriting commitment.
 - 3\.7.2 Number, type and par value of securities
@@ -3351,8 +3522,8 @@ Annex 6
 - 1\.16 in the case of funds for alternative investments, a glossary explaining the most important specialist terms, as well as the FINMA-approved risk clause;
 - 1\.17 information on the liquidity risk management process.
 
-[^annex6-lvlu1-lvl1-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annex6-lvlu1-lvl1-2]: [SR 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
+[^annex6-lvlu1-lvl1-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^annex6-lvlu1-lvl1-2]: [SR 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
 
 ### 2 Information on the licensee (fund management company, SICAV)
 
@@ -3408,7 +3579,7 @@ Annex 8
 
 ## Scale of fees for rulings and services provided by the reviewing body
 
-## 1 Rates
+### 1 Rates
 
 <table>
 <tr><th></th><th>in Swiss francs</th></tr>
@@ -3426,8 +3597,15 @@ Annex 8
 <tr><td>1.12 Costs of filing a supplement</td><td>10–50</td></tr>
 <tr><td>1.13 Costs of filing the final terms</td><td>2-5</td></tr>
 <tr><td>1.14 Additional costs for physical filing</td><td>1,000–2,000</td></tr>
-<tr><td colspan="2">2 Filing fee The filing fees relate only to transactions that have not been previously reviewed. 3 Surcharge For physical submissions of applications a surcharge of up to 50 percent can be levied on the aforementioned amounts to cover additional expenses.</td></tr>
 </table>
+
+### 2 Filing fee
+
+The filing fees relate only to transactions that have not been previously reviewed.
+
+### 3 Surcharge
+
+For physical submissions of applications a surcharge of up to 50 percent can be levied on the aforementioned amounts to cover additional expenses.
 
 Annex 9
 
@@ -3455,14 +3633,15 @@ Annex 9
 <tr><td>What costs will be incurred? *[Information in accordance with item 5.]*</td></tr>
 <tr><td>How long do I have to hold the investment for and can I withdraw money prematurely? *[Information in accordance with item 6.]*</td></tr>
 <tr><td>How can I make a complaint? *[Information on how and where the retail client can make a complaint about the product or about the conduct of the producer or the person advising on or selling the product, including (i) a link to the relevant website for such complaints and (ii) a current address and an e-mail address to which such complaints may be submitted.]*</td></tr>
-<tr><td>Other relevant information *[Further relevant information (optional). In particular:* [tab] *– a reference to additional documents containing information;* [tab] *– information on taxation of the product;* [tab] *– clearly visible note if the audit company of the issuer is not supervised by a foreign audit oversight authority recognised by the Federal Council.]*</td></tr>
+<tr><td>Other relevant information *[Further relevant information (optional). In particular:* *–* *a reference to additional documents containing information;* *–* *information on taxation of the product;* *–* *clearly visible note if the audit company of the issuer is not supervised by a foreign audit oversight authority recognised by the Federal Council.]*</td></tr>
 </table>
 
 [^annex9-lvlu1-lvl2-1]: Alternatively, the terms «investor» or «retail client» may be used in the entire key information document.
 
 ### 3 Details of the nature of the product
 
-- **3.0** **General information**
+### 3.0 General information
+
 -
 
   The section «What kind of product is it?» of the key information document contains:
@@ -3471,7 +3650,8 @@ Annex 9
   - b. objectives and means used to achieve them (item 3.2);
   - c. information on the target group and target market (item 3.3).
 
-- **3.1** **Legal form and applicable law**
+### 3.1 Legal form and applicable law
+
 - [tab]
 
   The key information document contains:
@@ -3596,10 +3776,8 @@ The information according to item 3 may be presented in tabular form as in the f
   The section «What costs will be incurred» of the key information document contains information on:
 
   - a. the total costs (item 5.1);
-
-b. the composition of costs (item 5.2);
-
-c. the distribution fees (item 5.3).
+  - b. the composition of costs (item 5.2);
+  - c. the distribution fees (item 5.3).
 
 ### 5.1 Total costs
 
@@ -3690,20 +3868,18 @@ c. the distribution fees (item 5.3).
 
 ### 6.2 Disinvestment procedure
 
-- The following information must be included on the disinvestment procedure:
+-
 
-a. information on the possibility of terminating the investment early;
+  The following information must be included on the disinvestment procedure:
 
-b. information on the conditions for early termination;
-
-c. any fees and contractual penalties;
-
-d. an explanation of the consequences of terminating the investment early, including the impact of early termination on the risk/return profile or on the applicability of capital guarantees.
+  - a. information on the possibility of terminating the investment early;
+  - b. information on the conditions for early termination;
+  - c. any fees and contractual penalties;
+  - d. an explanation of the consequences of terminating the investment early, including the impact of early termination on the risk/return profile or on the applicability of capital guarantees.
 
 ### 6.3 Tradability
 
 - Information on tradability contains in particular information on the listing on a trading venue or DLT trading facility or any market making for the product.
-- [tab]
 
 Annex 10
 
@@ -3712,10 +3888,9 @@ Annex 10
 ## Documents pursuant to foreign legislation which are equivalent to the key information document
 
 - 1\. Key information documents pursuant to Regulation (EU) No 1286/2014[^annex10-lvlu1-1] and Delegated Regulation (EU) No. 2017/653[^annex10-lvlu1-2]
-- 2\. ....
-- 3\. ....
-- 4\. ....
-- [tab]
+- 2\. …
+- 3\. …
+- 4\. …
 
 [^annex10-lvlu1-1]: Regulation (EU) No 1286/2014 of the European Parliament and of the Council on key information documents for packaged retail and insurance-based investment products (PRIIPs), OJ L 352/1 of 9.12.2014.
 [^annex10-lvlu1-2]: Commission Delegated Regulation (EU) No. 2017/653 supplementing Regulation (EU) No 1286/2014 of the European Parliament and of the Council on key information documents for packaged retail and insurance-based investment products (PRIIPs) by laying down regulatory technical standards with regard to the presentation, content, review and revision of key information documents and the conditions for fulfilling the requirement to provide such documents, OJ L 100/1 of 12.04.2017
@@ -3726,6 +3901,6 @@ Annex 11
 
 ## Amendment of Other Legislative Instruments
 
-...[^annex11-lvlu1-1]
+…[^annex11-lvlu1-1]
 
 [^annex11-lvlu1-1]: The amendments may be consulted under [AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759).

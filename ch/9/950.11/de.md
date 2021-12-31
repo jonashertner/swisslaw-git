@@ -4,11 +4,11 @@ title: "Verordnung vom 6. November 2019 über die Finanzdienstleistungen (Finanz
 short: FIDLEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/759"
 language: de
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2019-759-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-759-20220101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/de"
 
 (Finanzdienstleistungsverordnung, FIDLEV)
 
-vom 6. November 2019 (Stand am 1. August 2021)
+vom 6. November 2019 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Finanzdienstleistungsgesetz vom 15. Juni 2018[^ingress-1] (FID
 
 verordnet:
 
-[^ingress-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^ingress-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -557,7 +557,7 @@ Die Deckungssumme, die für alle Schadenfälle eines Jahres zur Verfügung steht
 
 <sup>2</sup> Für ausländische Finanzdienstleister, die im Ausland einer prudenziellen Aufsicht unterstehen, gilt ein Mindestkapital im Gegenwert von 10 Millionen Franken als gleichwertige finanzielle Sicherheit.
 
-[^33-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^33-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 ### 2. Abschnitt: Registrierungsstelle
 
@@ -665,7 +665,7 @@ Die Registrierungsstelle trägt nach Massgabe der FINMA-Gebühren- und Abgabenve
 - b. das Verfahren zur Ergreifung der notwendigen Massnahmen zur Behebung der Mängel;
 - c. das Verfahren, das zum Entzug der Zulassung führt.
 
-[^39-1]: [SR 956.122](https://fedlex.data.admin.ch/eli/cc/2008/749)
+[^39-1]: [SR 956.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11618)
 
 #### Art. 40
 
@@ -701,8 +701,8 @@ Die Kundenberaterinnen und ‑berater melden der Registrierungsstelle innert 14 
 
 <sup>2</sup> Sie haben ihre Registrierung spätestens nach Ablauf von 24 Monaten zu erneuern. Andernfalls wird die Eintragung im Register gelöscht.
 
-[^41-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^41-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^41-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^41-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 42
 
@@ -724,7 +724,7 @@ Die Kundenberaterinnen und ‑berater melden der Registrierungsstelle innert 14 
 
 <sup>7</sup> Im Übrigen gilt die Allgemeine Gebührenverordnung vom 8. September 2004[^42-1].
 
-[^42-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^42-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 3. Titel: Anbieten von Finanzinstrumenten
 
@@ -784,7 +784,7 @@ Die Einwilligung zur Verwendung eines gültigen Prospekts nach Artikel 36 Absatz
 
 <sup>3</sup> Bei öffentlichen Umtauschangeboten gelten Angaben in einem nach Artikel 127 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^46-1] (FinfraG) erstellten Angebotsprospekt als gleichwertig. Die Prüfstelle kann vom Emittenten zur Sicherstellung der Gleichwertigkeit verlangen, dass er wesentliche Strukturveränderungen, soweit nach den Umständen möglich, in Pro-forma-Finanzinformationen abbildet.
 
-[^46-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^46-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 47
 
@@ -1265,7 +1265,7 @@ Die Prüfstelle trägt, nach Massgabe der FINMA-Gebühren- und Abgabenverordnung
 - b. das Verfahren zur Ergreifung der notwendigen Massnahmen zur Behebung der Mängel;
 - c. das Verfahren, das zum Entzug der Zulassung führt.
 
-[^76-1]: [SR 956.122](https://fedlex.data.admin.ch/eli/cc/2008/749)
+[^76-1]: [SR 956.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11618)
 
 #### Art. 77
 
@@ -1287,7 +1287,7 @@ Die Prüfstelle bewahrt die der Prüfung zugrunde liegenden Dokumente und Unterl
 
 <sup>2</sup> Soweit diese Verordnung keine besonderen Regelungen enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^78-1].
 
-[^78-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^78-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 79
 
@@ -1395,7 +1395,7 @@ Als Forderungspapiere ohne derivativen Charakter gelten namentlich:
 - c. Anleihensobligationen mit vorzeitigen Rückzahlungs- oder Kaufrechten;
 - d. Nullcoupon-Anleihen.
 
-[^86-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^86-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 87
 
@@ -1616,8 +1616,8 @@ Die Änderung anderer Erlasse wird in Anhang 11 geregelt.
 
 <sup>2</sup> Vermögensverwalter, die einer Selbstregulierungsorganisation nach Artikel 24 des Geldwäschereigesetzes vom 10. Oktober 1997[^103-1] angehören und im Handelsregister eingetragen sind, können als professionelle Kunden nach Artikel 4 Absatz 3 Buchstabe a FIDLEG klassifiziert werden, auch wenn sie noch nicht über eine Bewilligung der FINMA nach Artikel 5 Absatz 1 des Finanzinstitutsgesetzes vom 15. Juni 2018[^103-2] verfügen.
 
-[^103-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^103-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^103-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^103-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 #### Art. 104
 
@@ -1655,11 +1655,11 @@ Bis zum Zeitpunkt nach Absatz 2 gelten für die entsprechenden Finanzdienstleist
 <sup>6</sup> Ungedeckte Geschäfte mit Finanzinstrumenten von Kundinnen und Kunden mit einem schriftlichen Vermögensverwaltungsvertrag sowie von vermögenden Privatpersonen, die nach Artikel 10 Absatz 3<sup>bis</sup> KAG in der Fassung vom 1. Juni 2013[^105-8] schriftlich erklärt haben, als qualifizierte Anleger gelten zu wollen, sind zwei Jahre nach Inkrafttreten dieser Verordnung nicht mehr zulässig.
 
 [^105-1]: [AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)
-[^105-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^105-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^105-3]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-4]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-5]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
-[^105-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^105-6]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^105-7]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^105-8]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
@@ -1689,11 +1689,11 @@ Bis zum Zeitpunkt nach Absatz 2 gelten für die entsprechenden Finanzdienstleist
 <sup>5</sup> Durch das Inkrafttreten dieses Artikels fallen bestehende Vertriebsverträge nach KAG nicht dahin.
 
 [^106-1]: [AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)
-[^106-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^106-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^106-3]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^106-4]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 [^106-5]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
-[^106-6]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^106-6]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^106-7]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
 #### Art. 107
@@ -1727,7 +1727,7 @@ Bis zu diesem Zeitpunkt gelten, soweit kein Prospekt nach FIDLEG erstellt wird:
 - a. für öffentliche Angebote in der Schweiz: die Bestimmungen des Obligationenrechts[^109-1] zum Emissionsprospekt in der Fassung vom 16. Dezember 2005[^109-2] (Art. 652*a*) und in der Fassung vom 1. Januar 1912[^109-3] (Art. 1156);
 - b. für die Zulassung zum Handel: die Prospektvorschriften gemäss den Regularien der betreffenden Handelsplätze oder DLT-Handelssysteme.
 
-[^109-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^109-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^109-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
 [^109-3]: [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
 
@@ -1737,27 +1737,29 @@ Bis zu diesem Zeitpunkt gelten, soweit kein Prospekt nach FIDLEG erstellt wird:
 
 ### (Art. 95 FIDLEG)
 
-Während zwei Jahren nach Inkrafttreten des FIDLEG kann:
+Bis zum 31. Dezember 2022 kann:[^110-1]
 
-- a. für Immobilienfonds, die nach Inkrafttreten des FIDLEG an Privatkundinnen und -kunden angeboten werden, anstelle eines Basisinformationsblatts nach Anhang 9 ein vereinfachter Prospekt nach Anhang 2 der Kollektivanlagenverordnung vom 22. November 2006[^110-1] (KKV) in der Fassung vom 1. März 2013[^110-2] erstellt und veröffentlicht werden;
-- b. für Effektenfonds und für übrige Fonds für traditionelle Anlagen, die nach Inkrafttreten des FIDLEG an Privatkundinnen und -kunden angeboten werden, anstelle eines Basisinformationsblatts nach Anhang 9 der vereinfachte Prospekt (wesentlichen Informationen für die Anlegerinnen und Anleger) nach Anhang 3 der KKV in der Fassung vom 15. Juli 2011[^110-3] erstellt und veröffentlicht werden.
+- a. für Immobilienfonds, die nach Inkrafttreten des FIDLEG an Privatkundinnen und -kunden angeboten werden, anstelle eines Basisinformationsblatts nach Anhang 9 ein vereinfachter Prospekt nach Anhang 2 der Kollektivanlagenverordnung vom 22. November 2006[^110-2] (KKV) in der Fassung vom 1. März 2013[^110-3] erstellt und veröffentlicht werden;
+- b. für Effektenfonds und für übrige Fonds für traditionelle Anlagen, die nach Inkrafttreten des FIDLEG an Privatkundinnen und -kunden angeboten werden, anstelle eines Basisinformationsblatts nach Anhang 9 der vereinfachte Prospekt (wesentlichen Informationen für die Anlegerinnen und Anleger) nach Anhang 3 der KKV in der Fassung vom 15. Juli 2011[^110-4] erstellt und veröffentlicht werden.
 
-[^110-1]: [SR 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
-[^110-2]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
-[^110-3]: [AS 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
+[^110-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^110-2]: [SR 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
+[^110-3]: [AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)
+[^110-4]: [AS 2011 3177](https://fedlex.data.admin.ch/eli/oc/2011/401)
 
 #### Art. 111
 
-**Basisinformationsblatt für strukturierte Produkte und übrige Finanzinstrumente**
+**Basisinformationsblatt für strukturierte Produkte und übrige Finanzinstrumente**[^111-1]
 
 ### (Art. 95 FIDLEG)
 
-<sup>1</sup> Für strukturierte Produkte, die nach Inkrafttreten des FIDLEG an Privatkundinnen und -kunden angeboten werden, kann während zwei Jahren nach Inkrafttreten des FIDLEG anstelle eines Basisinformationsblatts nach Anhang 9 ein vereinfachter Prospekt nach Artikel 5 Absatz 2 KAG[^111-1] in der Fassung vom 1. März 2013[^111-2] erstellt und veröffentlicht werden.
+<sup>1</sup> Für strukturierte Produkte, die nach Inkrafttreten des FIDLEG an Privatkundinnen und -kunden angeboten werden, kann bis zum 31. Dezember 2022 anstelle eines Basisinformationsblatts nach Anhang 9 ein vereinfachter Prospekt nach Artikel 5 Absatz 2 KAG[^111-2] in der Fassung vom 1. März 2013[^111-3] erstellt und veröffentlicht werden.
 
-<sup>2</sup> Für die übrigen Finanzinstrumente, die nach Inkrafttreten des FIDLEG angeboten werden, gilt die Pflicht zur Erstellung eines Basisinformationsblatts nach Ablauf von zwei Jahren seit dem Inkrafttreten dieser Verordnung.
+<sup>2</sup> Für die übrigen Finanzinstrumente, die nach Inkrafttreten des FIDLEG angeboten werden, gilt die Pflicht zur Erstellung eines Basisinformationsblatts ab dem 1. Januar 2023.
 
-[^111-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^111-2]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
+[^111-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 835](https://fedlex.data.admin.ch/eli/oc/2021/835)).
+[^111-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^111-3]: [AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116)
 
 ### 3. Kapitel: Inkrafttreten
 
@@ -1867,9 +1869,9 @@ Anhang 1
   - d. wurde während des laufenden Geschäftsjahrs ein anderes Revisionsorgan gewählt, so ist dies anzugeben;
   - e. falls das Revisionsorgan während des Zeitraums der von im Prospekt veröffentlichten Jahresabschlüsse abgewählt, entlassen oder nicht wiedergewählt wurde oder es sich von selbst zurückgezogen hat: die Gründe für diesen Wechsel.
 
-[^annex1-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex1-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex1-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex1-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex1-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex1-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Geschäftstätigkeit und -aussichten, soweit für die Beurteilung der Geschäftstätigkeit und Ertragskraft des Emittenten wesentlich
 
@@ -1952,8 +1954,8 @@ Anhang 1
 - 2\.6.14 Mitarbeiterbeteiligung [◊][#]
 - Möglichkeit der Beteiligung am Emittenten für die Mitarbeiterinnen und Mitarbeiter aller Stufen, soweit wesentlich.
 
-[^annex1-lvlu1-lvl2-lvl26-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex1-lvlu1-lvl2-lvl26-2]: [SR 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex1-lvlu1-lvl2-lvl26-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex1-lvlu1-lvl2-lvl26-2]: [SR 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.7 Informationspolitik
 
@@ -2111,8 +2113,8 @@ Anhang 2
 - 1\.1.11 bei einer Handelszulassung: die wichtigsten Angaben zur Handelszulassung;
 - 1\.1.12 Prospekt vom [Datum] genehmigt durch [Name Prüfstelle] am [Datum].
 
-[^annex2-lvlu1-lvl1-lvl11-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex2-lvlu1-lvl1-lvl11-2]: [SR 221.302.34](https://fedlex.data.admin.ch/eli/cc/2017/529)
+[^annex2-lvlu1-lvl1-lvl11-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex2-lvlu1-lvl1-lvl11-2]: [SR 221.302.34](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5923)
 
 ### 1.2 Basisprospekt
 
@@ -2166,8 +2168,8 @@ Anhang 2
 
 - 2\.3.3 Ist der Emittent oder ein allfälliger Garantie- oder Sicherheitengeber ein Staat, eine Gemeinde oder eine andere öffentlich-rechtliche Körperschaft, so sind die Angaben sinngemäss aufzuführen.
 
-[^annex2-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex2-lvlu1-lvl2-lvl23-2]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex2-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex2-lvlu1-lvl2-lvl23-2]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Geschäftstätigkeit und -aussichten des Emittenten und allfälliger Garantie- oder Sicherheitengeber
 
@@ -2458,8 +2460,8 @@ Anhang 3
 - 1\.1.11 Bei einer Handelszulassung: die wichtigsten Angaben zur Handelszulassung.
 - 1\.1.12 Prospekt vom [Datum] genehmigt durch [Name Prüfstelle] am [Datum].
 
-[^annex3-lvlu1-lvl1-lvl11-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex3-lvlu1-lvl1-lvl11-2]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex3-lvlu1-lvl1-lvl11-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex3-lvlu1-lvl1-lvl11-2]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 1.2 Basisprospekt
 
@@ -2509,7 +2511,7 @@ Anhang 3
   - b. wurde für das laufende Geschäftsjahr ein anderes Revisionsorgan gewählt, so ist dies anzugeben;
   - c. falls das Revisionsorgan während des Zeitraums der von im Prospekt veröffentlichten Jahresabschlüssen abgewählt bzw. entlassen, nicht wiedergewählt wurde oder es sich von selbst zurückgezogen hat: Offenlegung der entsprechenden Gründe.
 
-[^annex3-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex3-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2.4 Geschäftstätigkeit des Emittenten und allfälliger Garantie- oder Sicherheitengeber
 
@@ -2644,7 +2646,7 @@ Anhang 3
 - 3\.3.4 Zusätzliche Angaben bei Effekten auf Indizes
   - a. Namen der Stelle, welche den Index berechnet und publiziert (Indexsponsor), sofern diese Informationen nicht öffentlich zugänglich sind;
   - b. Angaben darüber, wo Informationen über das Titeluniversum und die Berechnungsweise des Index öffentlich zugänglich sind;
-  - c. Angabe, ob es sich um einen Preis (*Price*)- oder Performanceindex (*Total-Return-Index*) handelt.
+  - c. Angabe, ob es sich um einen Preis (*Price*)- oder Performanceindex (*Total**-Return-Index*) handelt.
 
 - 3\.3.5 Zusätzliche Angaben bei Effekten auf standardisierte Optionen und Terminkontrakte
   - a. Kontraktmonate, einschliesslich der Laufzeit und dem Verfall oder Angaben zum Umschichtungsmechanismus;
@@ -2855,9 +2857,9 @@ Anhang 4
   - d. wurde für das laufende Geschäftsjahr ein anderes Revisionsorgan gewählt, so ist dies anzugeben;
   - e. falls das Revisionsorgan während des Zeitraums der von im Prospekt veröffentlichten Jahresabschlüsse abgewählt, entlassen oder nicht wiedergewählt wurde oder es sich von selbst zurückgezogen hat: Offenlegung der entsprechenden Gründe.
 
-[^annex4-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex4-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex4-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex4-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex4-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex4-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Geschäftstätigkeit und -aussichten
 
@@ -2990,8 +2992,8 @@ Anhang 4
 - 2\.6.14 Mitarbeiterbeteiligung
 - Möglichkeiten der Beteiligung am Emittenten für die Mitarbeiterinnen und Mitarbeiter aller Stufen, soweit wesentlich.
 
-[^annex4-lvlu1-lvl2-lvl26-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex4-lvlu1-lvl2-lvl26-2]: [SR 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex4-lvlu1-lvl2-lvl26-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex4-lvlu1-lvl2-lvl26-2]: [SR 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.7 Informationspolitik
 
@@ -3029,7 +3031,7 @@ Anhang 4
 
   Zusätzliche Angaben im Anhang des Abschlusses:
 
-  - a. Inventar des Gesellschaftsvermögens zum inneren Wert (*Net Asset Value*) und den daraus errechneten Wert der Effekten auf den letzten Tag des Berichtszeitraums;
+  - a. Inventar des Gesellschaftsvermögens zum inneren Wert (*Net Asset* *Value*) und den daraus errechneten Wert der Effekten auf den letzten Tag des Berichtszeitraums;
   - b. von externen Schätzungsexperten ermittelter aktueller Wert (*Fair Value*) des Immobilienportefeuilles aufgeteilt nach für den betreffenden Emittenten geeigneten Anlagekategorien, wie Wohn-, Büro-, Gewerbeimmobilien oder Entwicklungsliegenschaften;
   - c. Angabe der Anfangs- und Endbestände sowie der Veränderungen der Art der Anlagen während des Berichtszeitraums auf Basis der aktuellen Werte mit separater Darstellung der Zu- und Abgänge sowie der realisierten und unrealisierten Gewinne und Verluste gesamthaft je Anlagekategorie;
   - d. Angaben zu denjenigen einzelnen Zu- und Abgängen welche mehr als 5 Prozent zum Wert des Gesamtportefeuilles beitragen;
@@ -3249,9 +3251,9 @@ Anhang 5
 - 2\.3.9 Dritte
 - Informationen über Dritte, deren Vergütungen dem Emittenten belastet werden.
 
-[^annex5-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annex5-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^annex5-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/eli/cc/2007/534)
+[^annex5-lvlu1-lvl2-lvl23-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annex5-lvlu1-lvl2-lvl23-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^annex5-lvlu1-lvl2-lvl23-3]: [SR 221.302.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5920)
 
 ### 2.4 Geschäftstätigkeit und –aussichten
 
@@ -3345,8 +3347,8 @@ Anhang 5
 - 2\.7.14 Mitarbeiterbeteiligung
 - Möglichkeiten der Beteiligung am Emittenten für die Mitarbeiterinnen und Mitarbeiter aller Stufen, soweit wesentlich.
 
-[^annex5-lvlu1-lvl2-lvl27-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annex5-lvlu1-lvl2-lvl27-2]: [SR 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
+[^annex5-lvlu1-lvl2-lvl27-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annex5-lvlu1-lvl2-lvl27-2]: [SR 958.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11628)
 
 ### 2.8 Informationspolitik
 
@@ -3401,7 +3403,7 @@ Anhang 5
   - d. Entsprechende Negativerklärung, falls beim Emittenten keine wesentlichen Änderungen eingetreten sind.
 
 - 2\.10.7 Anhang
-  - a. Inventar des Gesellschaftsvermögens zum inneren Wert (*Net Asset Value*) und den daraus errechneten Wert der Effekten auf den letzten Tag des Berichtszeitraums;
+  - a. Inventar des Gesellschaftsvermögens zum inneren Wert (*Net Asset* *Value*) und den daraus errechneten Wert der Effekten auf den letzten Tag des Berichtszeitraums;
   - b. Angabe der Anfangs- und Endbestände sowie der Veränderungen der Art der Anlagen während des Berichtszeitraums auf Basis der aktuellen Werte; separate Darstellung der Zu- und Abgänge sowie der realisierten und nicht realisierten Gewinne und Verluste je Anlagekategorie;
   - c. Angabe der einzelnen Zu- und Abgänge die mehr als 5 Prozent zum Wert des Gesamtportefeuilles beitragen;
   - d. Offenlegung und Begründung einer allfälligen Abweichung von der Anlagepolitik während des Berichtszeitraums;
@@ -3521,8 +3523,8 @@ Anhang 6
 - 1\.16 bei Fonds für alternative Anlagen ein Glossar, das die wichtigsten Fachausdrücke erklärt sowie die seitens FINMA genehmigte Risikoklausel;
 - 1\.17 Angaben über den Prozess zum Liquiditätsrisikomanagement.
 
-[^annex6-lvlu1-lvl1-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annex6-lvlu1-lvl1-2]: [SR 951.311](https://fedlex.data.admin.ch/eli/cc/2006/859)
+[^annex6-lvlu1-lvl1-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^annex6-lvlu1-lvl1-2]: [SR 951.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11534)
 
 ### 2 Informationen über den Bewilligungsträger (Fondsleitung, SICAV)
 
@@ -3622,17 +3624,17 @@ Anhang 9
 ### 2 Mustervorlage
 
 <table>
-<tr><td>**Basisinformationsblatt**</td></tr>
-<tr><td>**Zweck** «Dieses Basisinformationsblatt stellt Ihnen[^annex9-lvlu1-lvl2-1] wesentliche Informationen über dieses Finanzinstrument (das «Produkt») zur Verfügung. Es handelt sich nicht um Werbematerial. Diese Informationen sind gesetzlich vorgeschrieben, um Ihnen dabei zu helfen, die Art, das Risiko, die Kosten sowie die möglichen Gewinne und Verluste dieses Produkts zu verstehen und es mit anderen Produkten zu vergleichen.»</td></tr>
-<tr><td>**Produkt** **Name des Produkts**: *[**Name des Produkts, der vom Ersteller vergeben wurde, und gegebenenfalls die Internationale Wertpapierkennnummer oder die eindeutige Produktekennung für das Finanzinstrument.]* **Name des Erstellers**: *[**Firma und Sitz des Erstellers.]* **Name des Emittenten**: *[**Sofern der Emittent und der Ersteller nicht identisch sind: Firma und Sitz des Emittenten.]* **Name des Garanten**: *[**Sofern der Garant und der Ersteller nicht identisch sind: Firma und Sitz des Garanten.]* **Aufsichtsbehörde:** *[Hinweis darauf, ob* *der Ersteller, der Emittent und der Garant einer prudenziellen Aufsicht untersteht oder nicht und ggf. Angabe der Aufsichtsbehörde.]* **Produktegenehmigung / -bewilligung:** *[**Hinweis auf eine allfällige gesetzlichen Genehmigungs- oder Bewilligungspflicht für das Produkt.]* **Website und Telefonnummer des Erstellers.** **Erstellungsdatum des Basisinformationsblatts**: *[**Datum der Erstellung oder, sofern das Basisinformationsblatt anschliessend überarbeitet wurde, Datum der letzten Überarbeitung des Basisinformationsblatts.]*</td></tr>
+<tr><td>Basisinformationsblatt</td></tr>
+<tr><td>Zweck «Dieses Basisinformationsblatt stellt Ihnen[^annex9-lvlu1-lvl2-1] wesentliche Informationen über dieses Finanzinstrument (das «Produkt») zur Verfügung. Es handelt sich nicht um Werbematerial. Diese Informationen sind gesetzlich vorgeschrieben, um Ihnen dabei zu helfen, die Art, das Risiko, die Kosten sowie die möglichen Gewinne und Verluste dieses Produkts zu verstehen und es mit anderen Produkten zu vergleichen.»</td></tr>
+<tr><td>Produkt **Name des Produkts**: *[**Name des Produkts, der vom Ersteller vergeben wurde, und gegebenenfalls die Internationale Wertpapierkennnummer oder die eindeutige Produktekennung für das Finanzinstrument.]* **Name des Erstellers**: *[**Firma und Sitz des Erstellers.]* **Name des Emittenten**: *[**Sofern der Emittent und der Ersteller nicht identisch sind: Firma und Sitz des Emittenten.]* **Name des Garanten**: *[**Sofern der Garant und der Ersteller nicht identisch sind: Firma und Sitz des Garanten.]* **Aufsichtsbehörde:** *[Hinweis darauf, ob* *der Ersteller, der Emittent und der Garant* *einer* *prudenziellen Aufsicht untersteht oder nicht und ggf. Angabe der Aufsichtsbehörde.]* **Produktegenehmigung / -bewilligung:** *[**Hinweis auf eine allfällige gesetzlichen Genehmigungs- oder Bewilligungspflicht für das Produkt.]* **Website und Telefonnummer des Erstellers.** **Erstellungsdatum des Basisinformationsblatts**: *[**Datum der Erstellung oder,* *sofern* *das Basisinformationsblatt anschliessend überarbeitet wurde, Datum der letzten Überarbeitung des Basisinformationsblatts.]*</td></tr>
 <tr><td>***Warnhinweis****: «Sie sind im Begriff, ein Produkt zu erwerben, das nicht einfach ist und schwer zu verstehen sein kann.»*</td></tr>
-<tr><td>**Um welche Art von Produkt handelt es sich?** *[Angaben gemäss Ziffer 3]*</td></tr>
-<tr><td>**Welche Risiken bestehen und was könnte ich im Gegenzug dafür bekommen?** *[Angaben gemäss Ziffer 4]*</td></tr>
-<tr><td>**Was geschieht, wenn** ***[Name des Emittenten*****] nicht in der Lage ist, die Auszahlung vorzunehmen?** *[Angabe, ob die Privatkundin oder der Privatkunde aufgrund des Ausfalls des Emittenten oder des Garanten einen finanziellen Verlust erleiden kann, und falls ja, ob ein Einlageschutz oder eine Sicherheit vorhanden ist, sowie die Bedingungen und Einschränkungen des Einlageschutzes oder der Sicherheit.]*</td></tr>
-<tr><td>**Welche Kosten entstehen?** *[Angaben gemäss Ziffer 5]*</td></tr>
-<tr><td>**Wie lange muss ich die Anlage halten und kann ich vorzeitig Geld entnehmen?** *[Angaben gemäss Ziffer 6]*</td></tr>
-<tr><td>**Wie kann ich mich beschweren?** *[Hinweis darauf, wie und wo die Privatkundin oder der Privatkunde sich über das Produkt oder über das Verhalten des Erstellers oder der Person, die zu dem Produkt berät oder es verkauft, beschweren kann, unter Aufnahme (i) eines Links zur entsprechenden Website für solche Beschwerden und (ii) einer aktuellen Anschrift und einer E-Mail-Adresse, unter der solche Beschwerden eingereicht werden können.]*</td></tr>
-<tr><td>**Sonstige zweckdienliche Angaben** *[Optional sonstige zweckdienliche Angaben. Insbesondere:* *–* *ein Verweis auf zusätzliche Unterlagen, welche Informationen beinhalten;* *–* *Informationen zur Besteuerung des Produkts;* *–* *gut sichtbarer Hinweis, sofern das Revisionsunternehmen des Emittenten nicht von einer durch den Bundesrat anerkannten ausländischen Revisionsaufsichtsbehörde beaufsichtigt wird.]*</td></tr>
+<tr><td>Um welche Art von Produkt handelt es sich? *[Angaben gemäss Ziffer 3]*</td></tr>
+<tr><td>Welche Risiken bestehen und was könnte ich im Gegenzug dafür bekommen? *[Angaben gemäss Ziffer 4]*</td></tr>
+<tr><td>Was geschieht, wenn *[Name des Emittenten*] nicht in der Lage ist, die Auszahlung vorzunehmen? *[Angabe, ob die Privatkundin oder der Privatkunde aufgrund des Ausfalls des Emittenten oder des Garanten einen finanziellen Verlust erleiden kann, und falls ja, ob ein Einlageschutz oder eine Sicherheit vorhanden ist, sowie die Bedingungen und Einschränkungen des Einlageschutzes oder der Sicherheit.]*</td></tr>
+<tr><td>Welche Kosten entstehen? *[Angaben gemäss Ziffer 5]*</td></tr>
+<tr><td>Wie lange muss ich die Anlage halten und kann ich vorzeitig Geld entnehmen? *[Angaben gemäss Ziffer 6]*</td></tr>
+<tr><td>Wie kann ich mich beschweren? *[Hinweis darauf, wie und wo die Privatkundin oder der Privatkunde sich über das Produkt oder über das Verhalten des Erstellers oder der Person, die zu dem Produkt berät oder es verkauft, beschweren kann, unter Aufnahme (i) eines Links zur entsprechenden Website für solche Beschwerden und (ii) einer aktuellen Anschrift und einer E-Mail-Adresse, unter der solche Beschwerden eingereicht werden können.]*</td></tr>
+<tr><td>Sonstige zweckdienliche Angaben *[Optional sonstige zweckdienliche Angaben. Insbesondere:* *–* *ein Verweis auf zusätzliche Unterlagen, welche Informationen beinhalten;* *–* *Informationen zur Besteuerung des Produkts;* *–* *gut sichtbarer Hinweis, sofern das Revisionsunternehmen des Emittenten nicht von einer durch den Bundesrat anerkannten ausländischen Revisionsaufsichtsbehörde beaufsichtigt wird.]*</td></tr>
 </table>
 
 [^annex9-lvlu1-lvl2-1]: Alternativ können im gesamten Basisinformationsblatt auch die Bezeichnungen «Anleger», «Investor» oder «Privatkunde» verwendet werden.
@@ -3825,7 +3827,7 @@ Anhang 9
   - b. was die verschiedenen Kostenkategorien umfassen.
 
 <table>
-<tr><td colspan="4">Diese Tabelle zeigt die Auswirkungen auf die Rendite [pro Jahr] [pro Beispielperiode] [auf die Laufzeit]</td></tr>
+<tr><th colspan="4">Diese Tabelle zeigt die Auswirkungen auf die Rendite [pro Jahr] [pro Beispielperiode] [auf die Laufzeit]</th></tr>
 <tr><td>Einmalige Kosten</td><td>Einstiegskosten</td><td>[■] Prozent</td><td>Auswirkung der im Preis bereits inbegriffenen Kosten. [Angegeben sind die Höchstkosten; eventuell zahlen Sie weniger.]</td></tr>
 <tr><td></td><td>Ausstiegskosten</td><td>–</td><td>Nicht anwendbar.</td></tr>
 <tr><td>Laufende Kosten</td><td>Portfolio-Transaktionskosten</td><td>–</td><td>Nicht anwendbar.</td></tr>
@@ -3861,7 +3863,7 @@ Anhang 9
 
   - a. bei Anlageprodukten mit fester Laufzeit: «bis zur Fälligkeit»;
   - b. bei Anlageprodukten ohne feste Laufzeit: «für 5 Jahre»;
-  - c. bei Hebelprodukten: «bis [...]».
+  - c. bei Hebelprodukten: «bis […]».
 
 - 6\.1.3 Die bei Hebelprodukten anzugebende empfohlene Haltedauer kann von einem Kalendertag bis hin zu wenigen Kalenderwochen, bei Hebelprodukten mit fester Laufzeit auch bis zur Fälligkeit reichen.
 
@@ -3887,9 +3889,9 @@ Anhang 10
 ## Dokumente nach ausländischem Recht, die als dem Basisinformationsblatt gleichwertig anerkannt werden
 
 - 1\. Basisinformationsblätter nach der Verordnung (EU) Nr. 1286/2014[^annex10-lvlu1-1] und der Delegierten Verordnung (EU) 2017/653[^annex10-lvlu1-2]
-- 2\. ...
-- 3\. ...
-- 4\. ...
+- 2\. …
+- 3\. …
+- 4\. …
 
 [^annex10-lvlu1-1]: Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP), Abl. L 352/1 vom 9.12.2014.
 [^annex10-lvlu1-2]: Delegierte Verordnung (EU) 2017/653 der Kommission zur Ergänzung der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) durch technische Regulierungsstandards in Bezug auf die Darstellung, den Inhalt, die Überprüfung und die Überarbeitung dieser Basisinformationsblätter sowie die Bedingungen für die Erfüllung der Verpflichtung zu ihrer Bereitstellung, Abl. L 100/1 vom 12.4.2017.
@@ -3900,6 +3902,6 @@ Anhang 11
 
 ## Änderung anderer Erlasse
 
-...[^annex11-lvlu1-1]
+…[^annex11-lvlu1-1]
 
 [^annex11-lvlu1-1]: Die Änderungen können unter [AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)konsultiert werden.
