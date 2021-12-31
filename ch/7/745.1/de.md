@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 2009 über die Personenbeförderung (Personen
 short: PBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2009-680-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-680-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20210101/de"
 
 (Personenbeförderungsgesetz, PBG)
 
-vom 20. März 2009[^t-1] (Stand am 1. Januar 2021)
+vom 20. März 2009[^t-1] (Stand am 1. Januar 2022)
 
 [^t-1]: Anhang 1 des BG vom 20. März 2009 über die Bahnreform 2 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679))
 
@@ -575,21 +575,21 @@ Die absendende Person muss:
 
 <sup>1</sup> Bund und Kantone (Besteller) gelten den Unternehmen die laut Planrechnung ungedeckten Kosten des von ihnen gemeinsam bestellten Angebotes des regionalen Personenverkehrs ab.[^28-1]
 
-<sup>1bis</sup> Zudem gelten sie den Unternehmen für das Jahr 2020 die nach Auflösung der Spezialreserve nach Artikel 36 Absatz 2 verbleibenden Verluste im Verhältnis ihrer nach Artikel 30 festgelegten Anteile ab. Die anderen Reserven der Unternehmen werden nicht angerechnet. Die Abgeltung erfolgt aufgrund der Linienerfolgsrechnungen der Unternehmen.[^28-2]
+<sup>1bis</sup> Zudem gelten sie den Unternehmen für die Jahre 2020 und 2021 die nach Auflösung der Spezialreserve nach Artikel 36 Absatz 2 verbleibenden Verluste im Verhältnis ihrer nach Artikel 30 festgelegten Anteile ab. Die anderen Reserven der Unternehmen werden nicht angerechnet. Die Abgeltung erfolgt aufgrund der Linienerfolgsrechnungen der Unternehmen.[^28-2]
 
 <sup>2</sup> Angebote des Ortsverkehrs sowie Angebote ohne Erschliessungsfunktion sind von Bundesleistungen ausgeschlossen.
 
-<sup>2bis</sup> Für das Jahr 2020 richtet der Bund in Abweichung von Absatz 2 Abgeltungen in Höhe eines Drittels der Covid-19-bedingten finanziellen Verluste an den Ortsverkehr aus. Die Abgeltung erfolgt aufgrund der Linienerfolgsrechnungen der Unternehmen.[^28-3]
+<sup>2bis</sup> Für die Jahre 2020 und 2021 richtet der Bund in Abweichung von Absatz 2 Abgeltungen in Höhe eines Drittels der Covid-19-bedingten finanziellen Verluste an den Ortsverkehr aus. Die Abgeltung erfolgt aufgrund der Linienerfolgsrechnungen der Unternehmen.[^28-3]
 
 <sup>3</sup> Der Bund trägt allein die laut Planrechnung ungedeckten Kosten der von ihm bestellten Verkehrsangebote von nationaler Bedeutung. Er kann die Kosten von Leistungen im Zusammenhang mit dem Verkehrsangebot abgelten, wenn diese allen Unternehmen dienen oder offenstehen.[^28-4]
 
 <sup>4</sup> Bund, Kantone und Gemeinden können weitere Angebote oder Angebotsverbesserungen oder Tariferleichterungen bestellen. Sie tragen die laut Planrechnung ungedeckten Kosten dieser Angebote.
 
-<sup>5</sup> ...[^28-5]
+<sup>5</sup> …[^28-5]
 
 [^28-1]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^28-2]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^28-3]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^28-2]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^28-3]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 [^28-4]: Fassung des zweiten Satzes gemäss Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^28-5]: Aufgehoben durch Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, mit Wirkung seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
@@ -603,22 +603,16 @@ Die absendende Person muss:
 
 Finanzhilfen des Bundes setzen voraus, dass:
 
-- a. die COVID-19-bedingten finanziellen Ausfälle in der Zeit vom 1. März bis zum 30. September 2020 nach Abzug aller Reserven den in den Geschäftsjahren 2017–2019 erzielten Reingewinn des Unternehmens übersteigen;
-- b. das Unternehmen für die Geschäftsjahre 2020 und 2021 keine Dividenden ausschüttet.
+- a. die Covid-19-bedingten finanziellen Verluste in der Zeit vom 1. März 2020 bis 31. Dezember 2021 grösser sind als ein Drittel der Reserven, die in den Geschäftsjahren 2017–2019 gebildet wurden;
+- b. das Unternehmen für die Geschäftsjahre 2020, 2021 und 2022 keine Dividenden ausschüttet.
 
 <sup>3</sup> Die Finanzhilfe des Bundes beträgt 80 Prozent des Beitrags des Kantons.
 
-[^28a-1]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^28a-1]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 28b
 
-**Autoverlad**[^28b-1]
-
-<sup>1</sup> Um die Covid-19-bedingten finanziellen Ausfälle beim Autoverlad zu kompensieren, kann sich der Bund in den Jahren 2020 und 2021 an dessen Finanzierung beteiligen.
-
-<sup>2</sup> Finanzhilfen des Bundes werden à fonds perdu gewährt.
-
-<sup>3</sup> Sie setzen voraus, dass das Unternehmen für die Geschäftsjahre 2020 und 2021 keine Dividenden ausschüttet.
+[^28b-1]
 
 [^28b-1]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
@@ -666,16 +660,17 @@ Die Bundesversammlung beschliesst für die Abgeltung der ungedeckten Kosten des 
 
 **Finanzhilfen**[^31-1]
 
-<sup>1</sup> Bei Investitionen im Verkehrsbereich eines Unternehmens kann der Bund der Gläubigerin gegenüber eine Garantie abgeben, wenn dies im Interesse der Besteller ist. Das BAV regelt die Form und die Bedingungen der Garantie im Einzelnen.
+<sup>1</sup> Bei Investitionen im Verkehrsbereich eines Unternehmens kann der Bund der Gläubigerin eine Bürgschaft gewähren, wenn dies im Interesse der Besteller ist. Das BAV regelt die Form und die Bedingungen der Bürgschaft im Einzelnen.[^31-2]
 
 <sup>2</sup> Der Bund kann in besonderen Fällen, insbesondere um neuartige Lösungen zu fördern, an die Beschaffung von Fahrzeugen und an die Erstellung von Anlagen und Einrichtungen Beiträge leisten sowie unverzinsliche Darlehen gewähren.
 
 <sup>3</sup> Er kann zur Finanzierung von Ersatz- und Erneuerungsinvestitionen im Verkehrsbereich die rückzahlbaren Darlehen in bedingt rückzahlbare Darlehen umwandeln oder deren Rückzahlungen sistieren.
 
-<sup>4</sup> Die bedingt rückzahlbaren Darlehen des Bundes können unter Vorbehalt der notwendigen aktienrechtlichen Beschlüsse in Eigenkapital umgewandelt werden, insbesondere um die Beteiligung an notwendigen Bilanzsanierungen zu ermöglichen.[^31-2]
+<sup>4</sup> Die bedingt rückzahlbaren Darlehen des Bundes können unter Vorbehalt der notwendigen aktienrechtlichen Beschlüsse in Eigenkapital umgewandelt werden, insbesondere um die Beteiligung an notwendigen Bilanzsanierungen zu ermöglichen.[^31-3]
 
 [^31-1]: Fassung gemäss Ziff. I 7 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^31-2]: Eingefügt durch Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^31-2]: Fassung gemäss Ziff. I 8 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^31-3]: Eingefügt durch Ziff. I 9 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 31a
 
@@ -982,13 +977,13 @@ Das BAV kann nach Anhörung der Kantone Massnahmen zur Zielerreichung anordnen o
 
 <sup>2</sup> Übersteigen die Erträge und die von Bund und Kantonen erbrachten finanziellen Leistungen die Gesamtaufwendungen einer abgeltungsberechtigten Verkehrssparte, so weist das Unternehmen mindestens zwei Drittel dieses Überschusses der Spezialreserve zur Deckung künftiger Fehlbeträge abgeltungsberechtigter Verkehrssparten zu. Erreicht die Spezialreserve der Verkehrssparten 25 Prozent des Jahresumsatzes der abgeltungsberechtigten Verkehrssparten oder beträgt sie 12 Millionen Franken, so steht der Gewinn dem Unternehmen zur freien Verfügung.
 
-<sup>2bis</sup> In Abweichung von Absatz 2 ist in den Jahren 2020 und 2021 der gesamte Überschuss der Spezialreserve zuzuweisen. Unternehmen, die für das Jahr 2020 eine zusätzliche Abgeltung nach Artikel 28 Absätze 1<sup>bis</sup> und 2<sup>bis</sup> erhalten, dürfen für die Geschäftsjahre 2020 und 2021 keine Dividenden ausschütten.[^36-1]
+<sup>2bis</sup> In Abweichung von Absatz 2 ist in den Jahren 2020 und 2021 der gesamte Überschuss der Spezialreserve zuzuweisen. Unternehmen, die für die Jahre 2020 und 2021 eine zusätzliche Abgeltung nach Artikel 28 Absatz 1<sup>bis</sup> oder 2<sup>bis</sup> erhalten, dürfen für die Geschäftsjahre 2020, 2021 und 2022 keine Dividenden ausschütten.[^36-1]
 
 <sup>3</sup> Beendet das Unternehmen seine Tätigkeit in abgeltungsberechtigten Verkehrssparten, so muss es die Spezialreserve auflösen.
 
 <sup>4</sup> Übersteigen die Erträge einer nicht abgeltungsberechtigten Sparte des konzessionierten Verkehrs die Gesamtaufwendungen einer Sparte, so ist der entstandene Ertragsüberschuss frei verfügbar. Das Unternehmen kann diesen oder einen Teil davon zur Deckung künftiger Fehlbeträge dieser Sparten zurückstellen. Beendet es seine Tätigkeit in konzessionierten Sparten, so muss die Rückstellung aufgelöst werden.
 
-[^36-1]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^36-1]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 37
 

@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 2009 sul trasporto di viaggiatori (Legge sul
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2009-680-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-680-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20210101/it"
 
 (Legge sul trasporto di viaggiatori, LTV)
 
-del 20 marzo 2009[^t-1] (Stato 1° gennaio 2021)
+del 20 marzo 2009[^t-1] (Stato 1° gennaio 2022)
 
 [^t-1]: All. 1 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
 
@@ -585,11 +585,11 @@ Il mittente è tenuto a:
 
 <sup>1</sup> La Confederazione e i Cantoni (i committenti) indennizzano le imprese di trasporto per i costi non coperti, pianificati in quanto tali, dell’offerta di trasporto da essi ordinata congiuntamente nell’ambito del traffico regionale viaggiatori.[^28-1]
 
-<sup>1bis</sup> Per il 2020 la Confederazione e i Cantoni indennizzano inoltre le imprese per le perdite rimanenti dopo lo scioglimento della riserva speciale di cui all’articolo 36 capoverso 2, secondo le rispettive quote stabilite all’articolo 30. Le altre riserve delle imprese non sono considerate. L’indennità è versata in base ai conti economici delle singole linee delle imprese. [^28-2]
+<sup>1bis</sup> Per il 2020 e il 2021 la Confederazione e i Cantoni indennizzano inoltre le imprese per le perdite rimanenti dopo lo scioglimento della riserva speciale di cui all’articolo 36 capoverso 2, secondo le rispettive quote stabilite all’articolo 30. Le altre riserve delle imprese non sono considerate. L’indennità è versata in base ai conti economici delle singole linee delle imprese.[^28-2]
 
 <sup>2</sup> Le offerte del traffico locale e quelle senza funzione di collegamento sono escluse dalle prestazioni federali.
 
-<sup>2bis</sup> In deroga al capoverso 2, per il 2020 la Confederazione versa per il traffico locale indennità pari a un terzo delle perdite finanziarie dovute alla COVID-19. L’indennità è versata in base ai conti economici delle singole linee delle imprese.[^28-3]
+<sup>2bis</sup> In deroga al capoverso 2, per il 2020 e il 2021 la Confederazione versa per il traffico locale indennità pari a un terzo delle perdite finanziarie dovute alla COVID-19. L’indennità è versata in base ai conti economici delle singole linee delle imprese.[^28-3]
 
 <sup>3</sup> La Confederazione assume integralmente l’onere dei costi non coperti, pianificati in quanto tali, delle offerte di trasporto d’importanza nazionale da essa ordinate. Può inoltre assumere i costi di prestazioni legate all’offerta di trasporto quando esse giovano o sono accessibili a tutte le imprese.[^28-4]
 
@@ -598,8 +598,8 @@ Il mittente è tenuto a:
 <sup>5</sup> ...[^28-6]
 
 [^28-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^28-2]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^28-3]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^28-2]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^28-3]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 [^28-4]: Nuovo testo del per. giusta il n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^28-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^28-6]: Abrogato dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, con effetto dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
@@ -614,22 +614,16 @@ Il mittente è tenuto a:
 
 Gli aiuti finanziari della Confederazione sono versati soltanto se:
 
-- a. le perdite finanziarie dovute alla COVID-19 nel periodo compreso tra il 1° marzo 2020 e il 30 settembre 2020 superano, previa deduzione di tutte le riserve, l’utile netto realizzato dall’impresa negli esercizi 2017–2019; e
-- b. l’impresa non distribuisce dividendi per gli esercizi 2020 e 2021.
+- a. le perdite finanziarie dovute alla COVID-19 nel periodo compreso tra il 1° marzo 2020 e il 31 dicembre 2021 sono superiori a un terzo delle riserve costituite negli esercizi 2017–2019; e
+- b. l’impresa non distribuisce dividendi per gli esercizi 2020, 2021 e 2022.
 
 <sup>3</sup> Gli aiuti finanziari della Confederazione ammontano all’80 per cento del sostegno del Cantone.
 
-[^28a-1]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^28a-1]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 28b
 
-**Carico di autoveicoli**[^28b-1]
-
-<sup>1</sup> Negli anni 2020 e 2021 la Confederazione può partecipare al finanziamento del carico di autoveicoli al fine di compensare le perdite finanziarie dovute alla COVID-19 in tale settore.
-
-<sup>2</sup> Gli aiuti finanziari della Confederazione sono versati sotto forma di contributi a fondo perso.
-
-<sup>3</sup> Sono versati soltanto se l’impresa non distribuisce dividendi per gli esercizi 2020 e 2021.
+[^28b-1]
 
 [^28b-1]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
@@ -679,16 +673,17 @@ L’Assemblea federale stanzia, di volta in volta per quattro anni, un credito d
 
 **Aiuti finanziari**[^31-1]
 
-<sup>1</sup> Se un’impresa investe nel settore dei trasporti, la Confederazione può fornire una garanzia nei confronti del creditore ove lo esiga l’interesse dei committenti. L’UFT disciplina nei particolari la forma e le condizioni della garanzia.
+<sup>1</sup> Se un’impresa investe nel settore dei trasporti, la Confederazione può concedere una fideiussione al creditore ove lo esiga l’interesse dei committenti. L’UFT disciplina nei particolari la forma e le condizioni della fideiussione.[^31-2]
 
 <sup>2</sup> In casi particolari, segnatamente per promuovere soluzioni innovative, la Confederazione può accordare contributi e mutui senza interessi per l’acquisto di veicoli e la costruzione di impianti e installazioni.
 
 <sup>3</sup> Per il finanziamento di investimenti sostitutivi e di investimenti di rinnovo nel settore dei trasporti, la Confederazione può convertire i mutui rimborsabili in mutui condizionalmente rimborsabili o sospenderne il rimborso.
 
-<sup>4</sup> I mutui condizionalmente rimborsabili della Confederazione possono essere convertiti in capitale proprio, fatte salve le decisioni necessarie a tal fine secondo il diritto della società anonima, segnatamente per consentire la partecipazione alle necessarie misure di risanamento finanziarie.[^31-2]
+<sup>4</sup> I mutui condizionalmente rimborsabili della Confederazione possono essere convertiti in capitale proprio, fatte salve le decisioni necessarie a tal fine secondo il diritto della società anonima, segnatamente per consentire la partecipazione alle necessarie misure di risanamento finanziarie.[^31-3]
 
 [^31-1]: Nuovo testo giusta il n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^31-2]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^31-2]: Nuovo testo giusta il n. I 8 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^31-3]: Introdotto dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 31a
 
@@ -995,7 +990,7 @@ Sentiti i Cantoni, l’UFT può disporre misure per raggiungere gli obiettivi o 
 
 <sup>2</sup> Se i ricavi[^36-2] e le prestazioni finanziarie della Confederazione e dei Cantoni superano i costi globali di un settore di trasporto che dà diritto all’indennità, l’impresa attribuisce almeno due terzi di tale eccedenza alla riserva speciale per la copertura di disavanzi futuri dei settori di trasporto che danno diritto all’indennità. Se la riserva speciale dei settori di trasporto raggiunge il 25 per cento della cifra d’affari annuale dei settori che danno diritto all’indennità o 12 milioni di franchi, l’impresa può disporre liberamente dell’utile.
 
-<sup>2bis</sup> In deroga al capoverso 2, negli anni 2020 e 2021 l’intera eccedenza va attribuita alla riserva speciale. Le imprese che per il 2020 ricevono un’indennità supplementare secondo l’articolo 28 capoversi 1<sup>bis</sup> e 2<sup>bis</sup> non possono distribuire dividendi per gli esercizi 2020 e 2021.[^36-3]
+<sup>2bis</sup> In deroga al capoverso 2, negli anni 2020 e 2021 l’intera eccedenza va attribuita alla riserva speciale. Le imprese che per il 2020 e il 2021 ricevono un’indennità supplementare secondo l’articolo 28 capoverso 1<sup>bis</sup> o 2<sup>bis</sup> non possono distribuire dividendi per gli esercizi degli anni 2020, 2021 e 2022.[^36-3]
 
 <sup>3</sup> Se l’impresa cessa la sua attività nel settore di trasporto che dà diritto all’indennità, la riserva speciale deve essere sciolta.
 
@@ -1003,7 +998,7 @@ Sentiti i Cantoni, l’UFT può disporre misure per raggiungere gli obiettivi o 
 
 [^36-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 [^36-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^36-3]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^36-3]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 [^36-4]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 37
@@ -1365,7 +1360,7 @@ Le autorità di polizia e penali nonché gli uffici doganali notificano all’au
 
 La legge del 18 giugno 1993[^64-1] sul trasporto viaggiatori è abrogata.
 
-[^64-1]: [[RU 1993 3128](https://fedlex.data.admin.ch/eli/oc/1993/3128_3128_3128), [1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)all. n. 6, [1998 2859](https://fedlex.data.admin.ch/eli/oc/1998/2859_2859_2859), [2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497)n. I 2, [2006 5753](https://fedlex.data.admin.ch/eli/oc/2006/853)all. n. 2]
+[^64-1]: [[RU 1993 3128](https://fedlex.data.admin.ch/eli/oc/1993/3128_3128_3128); [1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452)all. n. 6; [1998 2859](https://fedlex.data.admin.ch/eli/oc/1998/2859_2859_2859); [2000 2877](https://fedlex.data.admin.ch/eli/oc/2000/497)n. I 2; [2006 5753](https://fedlex.data.admin.ch/eli/oc/2006/853)all. n. 2]
 
 #### Art. 65
 
