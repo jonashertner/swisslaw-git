@@ -4,11 +4,11 @@ title: "Legge del 1<sup>o</sup> luglio 1966 sulle epizoozie (LFE)"
 short: LFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20210101/it"
 
 (LFE)
 
-del 1° luglio 1966 (Stato 1° gennaio 2021)
+del 1° luglio 1966 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,7 +28,7 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° mag. 2013 ([RU 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6259](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
-## I.**** Principi
+## I. Principi
 
 [^lvlI-1]
 
@@ -158,7 +158,7 @@ Il Consiglio federale può nominare commissioni d’esame incaricate di far sost
 
 **Identitas SA**[^7a-1]
 
-<sup>1</sup> ...[^7a-2]
+<sup>1</sup> Identitas SA gestisce il sistema d’informazione concernente i dati sugli animali (banca dati sul traffico di animali) di cui all’articolo 45*b*.
 
 <sup>2</sup> Al fine di garantire la sorveglianza del traffico di animali e della salute degli animali, la Confederazione partecipa a Identitas SA. Ne detiene la maggioranza del capitale azionario.
 
@@ -166,11 +166,13 @@ Il Consiglio federale può nominare commissioni d’esame incaricate di far sost
 
 <sup>4</sup> Il consiglio d’amministrazione di Identitas SA provvede all’attuazione degli obiettivi strategici. Riferisce ogni anno al Consiglio federale sul raggiungimento di tali obiettivi e mette a disposizione le informazioni necessarie alla relativa verifica.
 
-<sup>5</sup> a <sup>7</sup> ...[^7a-3]
+<sup>5</sup> La gestione della banca dati sul traffico di animali è il compito centrale di Identitas SA.
 
-[^7a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^7a-2]: Entra in vigore in un secondo tempo ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
-[^7a-3]: Entrano in vigore in un secondo tempo ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+<sup>6</sup> Il Consiglio federale può delegare a Identitas SA ulteriori compiti necessari per l’attuazione di misure e per la gestione di dati nei settori della salute degli animali, della protezione degli animali e della sicurezza delle derrate alimentari, a condizione che tali compiti siano strettamente connessi con il compito centrale di Identitas SA. Esso disciplina l’assunzione dei costi.
+
+<sup>7</sup> Identitas SA può fornire prestazioni commerciali a terzi, a condizione che queste non compromettano l’adempimento dei compiti federali. Per le sue prestazioni commerciali fissa prezzi di mercato e imposta la contabilità aziendale in modo tale da poter documentare i costi e i ricavi delle singole prestazioni. Il sovvenzionamento indiretto delle prestazioni commerciali non è consentito.
+
+[^7a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021, cpv. 1 e 5-7 dal 1° gen. 2022 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 8
 
@@ -276,7 +278,7 @@ Il Consiglio federale può limitare il commercio delle derrate alimentari per mo
 [^11-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007, in vigore dal 1° giu. 2008 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)).
 [^11-2]: Nuovo testo del per. giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° mag. 2013 ([RU 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6259](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
-## III*a*.**** Servizi di sanità animale
+## III*a*. Servizi di sanità animale
 
 [^lvlIIIa-1]
 
@@ -351,21 +353,13 @@ Il Consiglio federale disciplina il contenuto e la forma del certificato d’acc
 
 #### Art. 15a
 
-**Registrazione del traffico di animali[^15a-2]**[^15a-1]
+**Registrazione del traffico di animali**[^15a-1]
 
-<sup>1</sup> Il traffico di animali delle specie bovina, ovina, caprina e suina è registrato nella banca dati sul traffico di animali.[^15a-3]
+<sup>1</sup> Il traffico di animali delle specie bovina, ovina, caprina e suina è registrato nella banca dati sul traffico di animali.
 
-<sup>2</sup> I detentori di animali sono tenuti a registrare nella banca dati sul traffico di animali tutti gli aumenti e le diminuzioni degli effettivi.[^15a-4]
+<sup>2</sup> I detentori di animali sono tenuti a registrare nella banca dati sul traffico di animali tutti gli aumenti e le diminuzioni degli effettivi.
 
-<sup>3</sup> La Confederazione può gestire autonomamente la banca dati o affidarne la gestione a terzi.
-
-<sup>4</sup> ...[^15a-5]
-
-[^15a-1]: Introdotto dal n. I della LF del 26 giu. 1998, in vigore dal 1° lug. 1999 ([RU 1999 1347](https://fedlex.data.admin.ch/eli/oc/1999/189); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^15a-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-5]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^15a-1]: Introdotto dal n. I della LF del 26 giu. 1998 ([RU 1999 1347](https://fedlex.data.admin.ch/eli/oc/1999/189); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)). Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 15b
 
@@ -462,12 +456,13 @@ Allo scopo di evitare la propagazione di un’epizoozia, l’USAV può:
 - b. limitare o vietare il passaggio di persone nel traffico di frontiera;
 - c. sottoporre l’autorizzazione a condizioni restrittive o rifiutarla.
 
-<sup>4</sup> L’USAV, d’intesa con l’Amministrazione federale delle dogane, designa i posti d’importazione, esportazione e transito.
+<sup>4</sup> L’USAV, d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini (UDSC), designa i posti d’importazione, esportazione e transito.[^24-5]
 
 [^24-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007, in vigore dal 1° giu. 2008 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)).
 [^24-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
 [^24-3]: Nuovo testo giusta il n. I della LF del 16 mar. 2012, in vigore dal 1° mag. 2013 ([RU 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6259](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^24-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^24-5]: Nuovo testo giusta il n. I 34 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 25
 
@@ -528,7 +523,7 @@ Circa il traffico di confine e il transito per via aerea, il Consiglio federale 
 
 [^30-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2007, in vigore dal 1° giu. 2008 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)).
 
-## V. Costi della lotta contro le epizoozie****
+## V. Costi della lotta contro le epizoozie
 
 [^lvlV-1]
 
@@ -585,16 +580,17 @@ Vengono versate indennità per perdite di animali quando:
 [^32-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° set. 1995 ([RU 1995 3711](https://fedlex.data.admin.ch/eli/oc/1995/3711_3711_3711); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^32-2]: Introdotto dal n. I della LF del 18 giu. 1993, in vigore dal 1° set. 1995 ([RU 1995 3711](https://fedlex.data.admin.ch/eli/oc/1995/3711_3711_3711); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
-#### Art. 33
+### **rt. 33**Indennità in casi speciali
 
-**Indennità in casi speciali**[^33-1]
+[^lvlV-lvlu4-1]
 
-<sup>1</sup> I Cantoni possono versare indennità anche se queste ultime non sono previste dalla Confederazione. L’articolo 36 è applicabile per analogia.[^33-2]
+[^lvlV-lvlu4-1]: Nuovo testo giusta il n. I della LF del 20 giu. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1776](https://fedlex.data.admin.ch/eli/oc/1980/1776_1776_1776); [FF 1980 I 469](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)).
+
+<sup>1</sup> I Cantoni possono versare indennità anche se queste ultime non sono previste dalla Confederazione. L’articolo 36 è applicabile per analogia.[^lvlV-lvlu4-2]
 
 <sup>2</sup> I Cantoni possono pagare indennità per la perdita di animali, che, con l’autorizzazione del veterinario cantonale, si trovano temporaneamente all’estero, per l’alpeggio o scopi analoghi, e i cui proprietari sono domiciliati nella Svizzera. L’articolo 36 è applicabile per analogia.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 20 giu. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1776](https://fedlex.data.admin.ch/eli/oc/1980/1776_1776_1776); [FF 1980 I 469](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)).
-[^33-2]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° set. 1995 ([RU 1995 3711](https://fedlex.data.admin.ch/eli/oc/1995/3711_3711_3711); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^lvlV-lvlu4-2]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° set. 1995 ([RU 1995 3711](https://fedlex.data.admin.ch/eli/oc/1995/3711_3711_3711); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 #### Art. 34
 
@@ -724,7 +720,7 @@ Il Consiglio federale stabilisce se e in quale misura sia permesso, nei casi di 
 [^45-2]: Nuovo testo giusta l’all. n. 26 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^45-3]: Nuovo testo giusta l’all. n. 26 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-## V*a*.**** Contributi per l’eliminazione dei sottoprodotti di origine animale
+## V*a*. Contributi per l’eliminazione dei sottoprodotti di origine animale
 
 [^lvlVa-1]
 
@@ -744,11 +740,11 @@ Il Consiglio federale stabilisce se e in quale misura sia permesso, nei casi di 
 
 [^45a-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
-## V*b*.**** Sistemi d’informazione
+## V*b*. Sistemi d’informazione
 
 [^lvlVb-1]
 
-[^lvlVb-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^lvlVb-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021, art. 45*b* cpv. 4 dal 1° gen. 2022 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 45b
 
@@ -760,9 +756,7 @@ Il Consiglio federale stabilisce se e in quale misura sia permesso, nei casi di 
 
 <sup>3</sup> La gestione della banca dati sul traffico di animali è finanziata per il tramite degli emolumenti versati dai detentori di animali e da altre persone tenute al versamento di emolumenti. Il Consiglio federale determina l’importo degli emolumenti e chi è tenuto a versarli.
 
-<sup>4</sup> ...[^45b-1]
-
-[^45b-1]: Entra in vigore in un secondo tempo ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+<sup>4</sup> I Cantoni sono autorizzati a utilizzare il sistema d’informazione di cui all’articolo 45*c* capoverso 1 lettera a per i propri compiti d’esecuzione nei settori della salute degli animali, della protezione degli animali e della sicurezza delle derrate alimentari. Gli accessi in linea a dati cantonali sono disciplinati dal diritto cantonale.
 
 #### Art. 45c
 
@@ -792,12 +786,14 @@ L’USAV gestisce altri sistemi d’informazione per sostenere l’esecuzione de
 Nell’ambito dei loro compiti legali, le persone e i servizi indicati di seguito possono trattare i dati in linea nei sistemi d’informazione di cui all’articolo 45*c* capoverso 1 lettere a e b:
 
 - a. l’USAV e l’UFAG, per garantire la sicurezza e l’igiene delle derrate alimentari, la sicurezza degli alimenti per animali, la salute e la protezione degli animali nonché una produzione primaria ineccepibile;
-- b. l’Amministrazione federale delle dogane, per garantire la sicurezza e l’igiene delle derrate alimentari, la sicurezza degli alimenti per animali, la salute e la protezione degli animali nonché una produzione primaria ineccepibile in relazione al trasporto di merci verso o dal territorio doganale svizzero;
+- b. l’UDSC[^45d-1], per garantire la sicurezza e l’igiene delle derrate alimentari, la sicurezza degli alimenti per animali, la salute e la protezione degli animali nonché una produzione primaria ineccepibile in relazione al trasporto di merci verso o dal territorio doganale svizzero;
 - c. le autorità cantonali d’esecuzione e i terzi incaricati di compiti di esecuzione, per adempiere i loro compiti nel rispettivo ambito di competenza.
 
 <sup>3</sup> Il Consiglio federale può prevedere che altri servizi federali, nell’ambito dei loro compiti legali, possano richiamare in linea i dati registrati nei sistemi d’informazione di cui all’articolo 45*c* capoverso 1 lettere a e b.
 
 <sup>4</sup> I Cantoni sono autorizzati a utilizzare il sistema d’informazione di cui all’articolo 45*c* capoverso 1 lettera a per i propri compiti d’esecuzione nei settori della salute degli animali, della protezione degli animali e della sicurezza delle derrate alimentari. Gli accessi in linea a dati cantonali sono disciplinati dal diritto cantonale.
+
+[^45d-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 45e
 
@@ -822,7 +818,7 @@ Per la banca dati sul traffico di animali e i sistemi d’informazione di cui al
 - g. l’obbligo di conservazione e di distruzione dei dati;
 - h. l’archiviazione dei dati.
 
-## VI. Disposizioni penali****
+## VI. Disposizioni penali
 
 [^lvlVI-1]
 
@@ -896,21 +892,23 @@ L’autore[^49-1] può essere, inoltre, condannato al pagamento delle tasse elus
 
 <sup>1</sup> Il perseguimento e il giudizio dei reati spettano ai Cantoni.
 
-<sup>2</sup> L’USAV persegue e giudica le infrazioni commesse all’atto dell’importazione, del transito e dell’esportazione di animali e di prodotti animali accertate presso i posti d’ispezione frontalieri riconosciuti. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^52-2] sulle dogane o alla legge del 12 giugno 2009[^52-3] sull’IVA, le infrazioni sono perseguite e giudicate dall’Amministrazione federale delle dogane.
+<sup>2</sup> L’USAV persegue e giudica le infrazioni commesse all’atto dell’importazione, del transito e dell’esportazione di animali e di prodotti animali accertate presso i posti d’ispezione frontalieri riconosciuti. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^52-2] sulle dogane o alla legge del 12 giugno 2009[^52-3] sull’IVA, le infrazioni sono perseguite e giudicate dall’UDSC.[^52-4]
 
-<sup>3</sup> Se in caso di importazione, transito ed esportazione di animali e di prodotti animali al di fuori dei posti d’ispezione frontalieri riconosciuti vi è simultaneamente un’infrazione alla legge del 18 marzo 2005 sulle dogane o alla legge del 12 giugno 2009 sull’IVA, le infrazioni sono perseguite e giudicate dall’Amministrazione federale delle dogane.
+<sup>3</sup> Se in caso di importazione, transito ed esportazione di animali e di prodotti animali al di fuori dei posti d’ispezione frontalieri riconosciuti vi è simultaneamente un’infrazione alla legge del 18 marzo 2005 sulle dogane o alla legge del 12 giugno 2009 sull’IVA, le infrazioni sono perseguite e giudicate dall’UDSC.[^52-5]
 
-<sup>4</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 1, 2 o 3 e un’infrazione alla legge federale del 16 marzo 2012[^52-4] sulla circolazione delle specie di fauna e di flora protette, alla legge federale del 16 dicembre 2005[^52-5] sulla protezione degli animali, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^52-6] sulle derrate alimentari, alla legge del 20 giugno 1986[^52-7] sulla caccia o alla legge federale del 21 giugno 1991[^52-8] sulla pesca, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^52-9]
+<sup>4</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 1, 2 o 3 e un’infrazione alla legge federale del 16 marzo 2012[^52-6] sulla circolazione delle specie di fauna e di flora protette, alla legge federale del 16 dicembre 2005[^52-7] sulla protezione degli animali, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^52-8] sulle derrate alimentari, alla legge del 20 giugno 1986[^52-9] sulla caccia o alla legge federale del 21 giugno 1991[^52-10] sulla pesca, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^52-11]
 
-[^52-1]: Nuovo testo giusta l’all. 2 alla LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
+[^52-1]: Nuovo testo giusta l’all. 2 della LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
 [^52-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^52-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^52-4]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^52-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^52-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^52-7]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^52-8]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^52-9]: Nuovo testo giusta l’all. n. II 7 alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^52-4]: Nuovo testo giusta il n. I 34 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^52-5]: Nuovo testo giusta il n. I 34 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^52-6]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^52-7]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^52-8]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^52-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^52-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^52-11]: Nuovo testo giusta l’all. n. II 7 della L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## VII. Disposizioni esecutive, finali e transitorie
 
@@ -936,11 +934,11 @@ L’autore[^49-1] può essere, inoltre, condannato al pagamento delle tasse elus
 
 <sup>1</sup> Nell’emanare disposizioni, il Consiglio federale tiene conto di direttive, raccomandazioni, prescrizioni e norme tecniche armonizzate a livello internazionale.
 
-<sup>2</sup> Nell’ambito della presente legge, il Consiglio federale può dichiarare applicabili determinate prescrizioni e norme tecniche armonizzate sul piano internazionale. Può autorizzare l’USAV ad adeguare aspetti tecnici d’importanza minore alle prescrizioni e norme dichiarate applicabili.
+<sup>2</sup> Nell’ambito della presente legge, il Consiglio federale può dichiarare applicabili determinate prescrizioni e norme tecniche armonizzate sul piano internazionale. Può autorizzare l’Ufficio federale di veterinaria ad adeguare aspetti tecnici d’importanza minore alle prescrizioni e norme dichiarate applicabili.
 
 <sup>3</sup> Il Consiglio federale può eccezionalmente stabilire una modalità di pubblicazione particolare delle prescrizioni e norme dichiarate applicabili e decidere di rinunciare alla traduzione nelle lingue ufficiali.
 
-[^53a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal 1° giu. 2008 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)).
+[^53a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal giu. 2008 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)).
 
 #### Art. 53b
 
@@ -1046,7 +1044,7 @@ L’USAV:
 <sup>2</sup> ...[^57a-2]
 
 [^57a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^57a-2]: Entra in vigore in un secondo tempo ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+[^57a-2]: Non ancora in vigore ([RU 2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680)).
 
 #### Art. 58
 

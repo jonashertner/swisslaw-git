@@ -4,20 +4,20 @@ title: Tierseuchengesetz vom 1. Juli 1966 (TSG)
 short: TSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Tierseuchengesetz
 
-(TSG)**[^t-1]**
+(TSG)[^t-1]
 
-vom 1. Juli 1966 (Stand am 1. Januar 2021)
+vom 1. Juli 1966 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I des BG vom 19. Dez. 1975, in Kraft seit 1. Juli 1977 ([AS 1977 1187](https://fedlex.data.admin.ch/eli/oc/1977/1187_1187_1187); [BBl 1975 II 106](https://fedlex.data.admin.ch/eli/fga/1975/2_106_114_105)).
 
@@ -30,7 +30,7 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
-## I.**** Grundsätze und Ziele
+## I. Grundsätze und Ziele
 
 [^lvlI-1]
 
@@ -136,7 +136,7 @@ Der Bundesrat kann Prüfungskommissionen ernennen, welche die Prüfungen durchf�
 
 <sup>1</sup> Die Kantone bezeichnen die Bieneninspektoren und ihre Stellvertreter und entschädigen sie.
 
-<sup>2</sup> ...[^5-1]
+<sup>2</sup> …[^5-1]
 
 [^5-1]: Aufgehoben durch Ziff. I des BG vom 16. März 2012, mit Wirkung seit 1. Jan. 2014 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
@@ -160,7 +160,7 @@ Der Bundesrat kann Prüfungskommissionen ernennen, welche die Prüfungen durchf�
 
 **Identitas AG**[^7a-1]
 
-<sup>1</sup> ...[^7a-2]
+<sup>1</sup> Die Identitas AG betreibt das Informationssystem zu Tierdaten (Tierverkehrsdatenbank) nach Artikel 45*b*.
 
 <sup>2</sup> Zur Sicherstellung der Überwachung des Tierverkehrs und der Tiergesundheit beteiligt sich der Bund an der Identitas AG. Er hält die Mehrheit am Aktienkapital der Identitas AG.
 
@@ -168,11 +168,13 @@ Der Bundesrat kann Prüfungskommissionen ernennen, welche die Prüfungen durchf�
 
 <sup>4</sup> Der Verwaltungsrat der Identitas AG sorgt für die Umsetzung der strategischen Ziele. Er erstattet dem Bundesrat jährlich Bericht über die Zielerreichung und stellt die Informationen zur Verfügung, die für die Überprüfung der Zielerreichung notwendig sind.
 
-<sup>5–7</sup> ... [^7a-3]
+<sup>5</sup> Der Betrieb der Tierverkehrsdatenbank ist die zentrale Aufgabe der Identitas AG.
 
-[^7a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^7a-2]: Tritt zu einem späteren Zeitpunkt in Kraft ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
-[^7a-3]: Treten zu einem späteren Zeitpunkt in Kraft ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+<sup>6</sup> Der Bundesrat kann der Identitas AG weitere Aufgaben übertragen, die zur Umsetzung von Massnahmen und zur Verwaltung von Daten in den Bereichen Tiergesundheit, Tierschutz und Lebensmittelsicherheit erforderlich sind, soweit diese Aufgaben in einem engen Zusammenhang mit der zentralen Aufgabe der Identitas AG stehen. Er regelt die Kostentragung.
+
+<sup>7</sup> Die Identitas AG kann für Dritte gewerbliche Leistungen erbringen, soweit diese die Erfüllung der Bundesaufgaben nicht beeinträchtigen. Sie muss für ihre gewerblichen Leistungen marktkonforme Preise festsetzen und das betriebliche Rechnungswesen so ausgestalten, dass Kosten und Erträge der einzelnen Leistungen ausgewiesen werden können. Eine Quersubventionierung gewerblicher Leistungen ist nicht zulässig.
+
+[^7a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021, Abs. 1 und 5–7 in Kraft seit 1. Jan. 2022 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 8
 
@@ -278,7 +280,7 @@ Der Bundesrat kann den Verkehr mit Lebensmitteln aus tierseuchenpolizeilichen Gr
 [^11-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Juni 2008 ([AS 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^11-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
-## III*a*. Tiergesundheitsdienste****
+## III*a*. Tiergesundheitsdienste
 
 [^lvlIIIa-1]
 
@@ -355,21 +357,13 @@ Der Verkehr mit verseuchten und seuchenverdächtigen Tieren sowie mit solchen, v
 
 #### Art. 15a
 
-**Erfassung des Tierverkehrs[^15a-2]**[^15a-1]
+**Erfassung des Tierverkehrs**[^15a-1]
 
-<sup>1</sup> Der Verkehr von Tieren der Rinder-, Schaf-, Ziegen- und Schweinegattung muss in der Tierverkehrsdatenbank erfasst werden.[^15a-3]
+<sup>1</sup> Der Verkehr von Tieren der Rinder-, Schaf-, Ziegen- und Schweinegattung muss in der Tierverkehrsdatenbank erfasst werden.
 
-<sup>2</sup> Die Tierhalter sind verpflichtet, alle Zu- und Abgänge in der Tierverkehrsdatenbank zu erfassen.[^15a-4]
+<sup>2</sup> Die Tierhalter sind verpflichtet, alle Zu- und Abgänge in der Tierverkehrsdatenbank zu erfassen.
 
-<sup>3</sup> Der Bund kann die Datenbank selbst betreiben oder durch Dritte betreiben lassen.
-
-<sup>4</sup> ...[^15a-5]
-
-[^15a-1]: Eingefügt durch Ziff. I des BG vom 26. Juni 1998, in Kraft seit 1. Juli 1999 ([AS 1999 1347](https://fedlex.data.admin.ch/eli/oc/1999/189); BBl **1996** IV I).
-[^15a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-5]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^15a-1]: Eingefügt durch Ziff. I des BG vom 26. Juni 1998 ([AS 1999 1347](https://fedlex.data.admin.ch/eli/oc/1999/189); BBl **1996** IV I). Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 15b
 
@@ -389,7 +383,7 @@ Der Bundesrat kann den Geltungsbereich der Vorschriften der Artikel 14–15*a* a
 
 **Beförderung von Tieren und tierischen Stoffen**
 
-<sup>1</sup> ...[^17-1]
+<sup>1</sup> …[^17-1]
 
 <sup>2</sup> Der Bundesrat wird über den Transport von Tieren und tierischen Stoffen sowie über die Mittel für ihre Beförderung die erforderlichen Vorschriften aufstellen.
 
@@ -466,12 +460,13 @@ Das BLV kann zur Verhinderung einer Seuchenverschleppung:
 - b. den Grenzverkehr von Personen einschränken oder verbieten;
 - c. Bewilligungen mit einschränkenden Bedingungen versehen oder verweigern.
 
-<sup>4</sup> Das BLV bezeichnet im Einvernehmen mit der Eidgenössischen Zollverwaltung die Ein-, Durch- und Ausfuhrstellen.
+<sup>4</sup> Das BLV bezeichnet im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) die Ein-, Durch- und Ausfuhrstellen.[^24-5]
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Juni 2008 ([AS 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^24-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^24-3]: Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^24-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^24-5]: Fassung gemäss Ziff. I 34 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 25
 
@@ -496,7 +491,7 @@ Das BLV kann zur Verhinderung einer Seuchenverschleppung:
 
 **Immunbiologische Erzeugnisse und andere Präparate**
 
-<sup>1</sup> ...[^27-1]
+<sup>1</sup> …[^27-1]
 
 <sup>2</sup> Der Bundesrat setzt die Bedingungen fest, unter denen Stoffe und Stoffgemische sowie einfache und zusammengesetzte Präparate angeboten oder verkauft werden dürfen, sofern sie zur Verhütung oder Behandlung von Tierseuchen dienen, zu deren Bekämpfung staatliche Massnahmen getroffen werden.[^27-2]
 
@@ -532,7 +527,7 @@ Für den Grenzverkehr und für die Durchfuhr im Flugverkehr kann der Bundesrat b
 
 [^30-1]: Fassung und gemäss Ziff. I des BG vom 5. Okt. 2007, in Kraft seit 1. Juni 2008 ([AS 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [BBl 2006 6337](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-## V. Kosten der Tierseuchenbekämpfung****
+## V. Kosten der Tierseuchenbekämpfung
 
 [^lvlV-1]
 
@@ -544,7 +539,7 @@ Für den Grenzverkehr und für die Durchfuhr im Flugverkehr kann der Bundesrat b
 
 <sup>1</sup> Die Kantone, in denen sich die Tiere befinden, leisten die Entschädigungen für Tierverluste und übernehmen ganz oder teilweise die Bekämpfungskosten.[^31-2]
 
-<sup>2</sup> ...[^31-3]
+<sup>2</sup> …[^31-3]
 
 <sup>3</sup> Der Bund leistet die Entschädigungen für Tierverluste im Zusammenhang mit hochansteckenden Seuchen.[^31-4]
 
@@ -613,11 +608,11 @@ Insbesondere werden keine Entschädigungen geleistet:
 - 1\. für Hunde und Katzen, für Wild, exotische Tiere und solche von geringem Wert;
 - 2\. für Tiere in zoologischen Gärten, Menagerien und ähnlichen Unternehmen;
 - 3\. für Schlachttiere ausländischer Herkunft;
-- 4\. ...[^34-1]
+- 4\. …[^34-1]
 - 5\. für Tiere, die im Ausland wohnhaften Personen gehören und die sich nur vorübergehend, wie zum Zwecke der Sömmerung oder Winterung, in der Schweiz befinden;
 - 6\. für Nutztiere ausländischer Herkunft, die in der Schweiz wohnhaften Personen gehören, wenn nicht der Nachweis erbracht wird, dass die Ansteckung erst nach der Einfuhr erfolgte.
 
-<sup>3</sup> ...[^34-2]
+<sup>3</sup> …[^34-2]
 
 [^34-1]: Aufgehoben durch Ziff. I des BG vom 16. März 2012, mit Wirkung seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^34-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 1975 ([AS 1977 1187](https://fedlex.data.admin.ch/eli/oc/1977/1187_1187_1187); [BBl 1975 II 106](https://fedlex.data.admin.ch/eli/fga/1975/2_106_114_105)). Fassung gemäss Ziff. I des BG vom 16. März 2012, in Kraft seit 1. Mai 2013 ([AS 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [BBl 2011 7027](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
@@ -728,7 +723,7 @@ Der Bundesrat bestimmt, ob und inwieweit in Seuchenfällen neben den in diesem A
 [^45-2]: Fassung gemäss Anhang Ziff. 26 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^45-3]: Fassung gemäss Anhang Ziff. 26 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-## V*a*.**** Beiträge zur Entsorgung tierischer Nebenprodukte
+## V*a*. Beiträge zur Entsorgung tierischer Nebenprodukte
 
 [^lvlVa-1]
 
@@ -748,11 +743,11 @@ Der Bundesrat bestimmt, ob und inwieweit in Seuchenfällen neben den in diesem A
 
 [^45a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
-## V*b*.**** Informationssysteme
+## V*b*. Informationssysteme
 
 [^lvlVb-1]
 
-[^lvlVb-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^lvlVb-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021, Art. 45*b* Abs. 4 in Kraft seit 1. Jan. 2022 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 45b
 
@@ -764,9 +759,7 @@ Der Bundesrat bestimmt, ob und inwieweit in Seuchenfällen neben den in diesem A
 
 <sup>3</sup> Der Betrieb der Tierverkehrsdatenbank wird über Gebühren der Tierhalter und weiterer Gebührenpflichtiger finanziert. Der Bundesrat bestimmt, wer gebührenpflichtig ist, und legt die Höhe der Gebühren fest.
 
-<sup>4</sup> ...[^45b-1]
-
-[^45b-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+<sup>4</sup> Die Gebühren werden durch die Identitas AG in Rechnung gestellt und vereinnahmt. Bei Streitigkeiten über die Rechnung erlässt das Bundesamt für Landwirtschaft (BLW) eine Verfügung.
 
 #### Art. 45c
 
@@ -796,12 +789,14 @@ Das BLV betreibt zur Unterstützung des Vollzugs der Gesetzgebung in den Bereich
 Die folgenden Stellen und Personen können im Rahmen ihrer gesetzlichen Aufgaben Daten in den Informationssystemen nach Artikel 45*c* Absatz 1 Buchstaben a und b online bearbeiten:
 
 - a. das BLV und das BLW: zur Gewährleistung der Sicherheit und der Hygiene von Lebensmitteln, der Futtermittelsicherheit, der Tiergesundheit und des Tierschutzes sowie einer einwandfreien Primärproduktion;
-- b. die Eidgenössische Zollverwaltung: zur Gewährleistung der Sicherheit und der Hygiene von Lebensmitteln, der Futtermittelsicherheit, der Tiergesundheit und des Tierschutzes sowie einer einwandfreien Primärproduktion im Zusammenhang mit dem Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet;
+- b. das BAZG[^45d-1]: zur Gewährleistung der Sicherheit und der Hygiene von Lebensmitteln, der Futtermittelsicherheit, der Tiergesundheit und des Tierschutzes sowie einer einwandfreien Primärproduktion im Zusammenhang mit dem Verbringen von Waren ins Zollgebiet oder aus dem Zollgebiet;
 - c. die kantonalen Vollzugsbehörden sowie Dritte, die mit Vollzugsaufgaben betraut sind: zur Erfüllung der Aufgaben in ihrem jeweiligen Zuständigkeitsbereich.
 
 <sup>3</sup> Der Bundesrat kann vorsehen, dass weitere Bundesstellen im Rahmen ihrer gesetzlichen Aufgaben Daten in den Informationssystemen nach Artikel 45*c* Absatz 1 Buchstaben a und b online abrufen können.
 
 <sup>4</sup> Die Kantone sind berechtigt, das Informationssystem nach Artikel 45*c* Absatz 1 Buchstabe a für ihre eigenen Vollzugsaufgaben in den Bereichen Tiergesundheit, Tierschutz und Lebensmittelsicherheit zu nutzen. Online-Zugriffe auf kantonale Daten richten sich nach dem jeweiligen kantonalen Recht.
+
+[^45d-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 45e
 
@@ -826,7 +821,7 @@ Der Bundesrat regelt für die Tierverkehrsdatenbank sowie die Informationssystem
 - g. die Pflicht zur Aufbewahrung und Vernichtung der Daten;
 - h. die Archivierung der Daten.
 
-## VI. Strafbestimmungen****
+## VI. Strafbestimmungen
 
 [^lvlVI-1]
 
@@ -898,21 +893,23 @@ Der Täter kann überdies zur Bezahlung der umgangenen Gebühren verurteilt werd
 
 <sup>1</sup> Verfolgung und Beurteilung strafbarer Handlungen sind Sache der Kantone.
 
-<sup>2</sup> Das BLV verfolgt und beurteilt Widerhandlungen bei der Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten, die an den zugelassenen Grenzkontrollstellen festgestellt werden. Liegt gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^52-2] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^52-3] vor, so verfolgt und beurteilt die Eidgenössische Zollverwaltung die Widerhandlungen.
+<sup>2</sup> Das BLV verfolgt und beurteilt Widerhandlungen bei der Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten, die an den zugelassenen Grenzkontrollstellen festgestellt werden. Liegt gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^52-2] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^52-3] vor, so verfolgt und beurteilt das BAZG die Widerhandlungen.[^52-4]
 
-<sup>3</sup> Liegt bei der Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten ausserhalb der zugelassenen Grenzkontrollstellen gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005 oder das Mehrwertsteuergesetz vom 12. Juni 2009 vor, so verfolgt und beurteilt die Eidgenössische Zollverwaltung die Widerhandlungen.
+<sup>3</sup> Liegt bei der Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten ausserhalb der zugelassenen Grenzkontrollstellen gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005 oder das Mehrwertsteuergesetz vom 12. Juni 2009 vor, so verfolgt und beurteilt das BAZG die Widerhandlungen.[^52-5]
 
-<sup>4</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 1, 2 oder 3 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Bundesgesetz vom 16. März 2012[^52-4] über den Verkehr mit Tieren und Pflanzen geschützter Arten, das Tierschutzgesetz vom 16. Dezember 2005[^52-5], das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^52-6], das Jagdgesetz vom 20. Juni 1986[^52-7] oder das Bundesgesetz vom 21. Juni 1991[^52-8] über die Fischerei dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^52-9]
+<sup>4</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 1, 2 oder 3 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Bundesgesetz vom 16. März 2012[^52-6] über den Verkehr mit Tieren und Pflanzen geschützter Arten, das Tierschutzgesetz vom 16. Dezember 2005[^52-7], das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^52-8], das Jagdgesetz vom 20. Juni 1986[^52-9] oder das Bundesgesetz vom 21. Juni 1991[^52-10] über die Fischerei dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^52-11]
 
 [^52-1]: Fassung gemäss Anhang 2 des BG vom 16. März 2012 über den Verkehr mit Tieren und Pflanzen geschützter Arten, in Kraft seit 1. Okt. 2013 ([AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [BBl 2011 6985](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
 [^52-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^52-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^52-4]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^52-5]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^52-6]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^52-7]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^52-8]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^52-9]: Fassung gemäss Anhang Ziff. II 7 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^52-4]: Fassung gemäss Ziff. I 34 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^52-5]: Fassung gemäss Ziff. I 34 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^52-6]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^52-7]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^52-8]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^52-9]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^52-10]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^52-11]: Fassung gemäss Anhang Ziff. II 7 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## VII. Vollzugs‑, Schluss- und Übergangsbestimmungen
 
@@ -1045,7 +1042,7 @@ Das BLV:
 
 <sup>1</sup> Die Leistungen der Kantone nach Artikel 57 Absätze 3 Buchstabe c und 4 werden durch einen Pauschalbeitrag zur teilweisen Deckung der Kosten des nationalen Überwachungsprogramms abgegolten.
 
-<sup>2</sup> ...[^57a-2]
+<sup>2</sup> …[^57a-2]
 
 [^57a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 [^57a-2]: Tritt zu einem späteren Zeitpunkt in Kraft ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
@@ -1119,7 +1116,7 @@ Die Kantone bringen die Ausführungsvorschriften dem EDI zur Kenntnis.
 
 Unabhängig davon, ob das Bundesgesetz vom 16. März 2012[^62a-2] über den Verkehr mit Tieren und Pflanzen geschützter Arten (BGCITES) oder die Änderung vom 16. März 2012 des TSG zuerst in Kraft tritt, wird Artikel 52 TSG mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten wie folgt geändert:
 
-...[^62a-3]
+…[^62a-3]
 
 Datum des Inkrafttretens: Art. 53 Abs. 1: 1. Jan. 1967[^62a-4] die übrigen Bestimmungen: 1. Januar 1968[^62a-5]
 

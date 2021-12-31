@@ -4,20 +4,20 @@ title: "Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)"
 short: LFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi sur les épizooties
 
-(LFE)**[^t-1]**
+(LFE)[^t-1]
 
-du 1<sup>er</sup> juillet 1966 (Etat le 1<sup>er</sup> janvier 2021)
+du 1<sup>er</sup> juillet 1966 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I de la LF du 19 déc. 1975, en vigueur depuis le 1<sup>er</sup> juil. 1977 ([RO 1977 1187](https://fedlex.data.admin.ch/eli/oc/1977/1187_1187_1187); [FF 1975 II 114](https://fedlex.data.admin.ch/eli/fga/1975/2_106_114_105)).
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
-## I.**** Principes et buts
+## I. Principes et buts
 
 [^lvlI-1]
 
@@ -119,7 +119,7 @@ Le Conseil fédéral peut nommer des commissions chargées d’organiser les exa
 [^3a-1]: Introduit par le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^3a-2]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^3a-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
-[^3a-4]: Nouvelle teneur selon le ch. II 7 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^3a-4]: Nouvelle teneur selon l’annexe ch. II 7 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 [^3a-5]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^3a-6]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^3a-7]: Nouvelle teneur selon l’annexe ch. II 7 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
@@ -136,7 +136,7 @@ Le Conseil fédéral peut nommer des commissions chargées d’organiser les exa
 
 <sup>1</sup> Les cantons désignent les inspecteurs des ruchers et leurs suppléants et les indemnisent.
 
-<sup>2</sup> ...[^5-1]
+<sup>2</sup> …[^5-1]
 
 [^5-1]: Abrogé par le ch. I de la LF du 16 mars 2012, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
@@ -160,7 +160,7 @@ Le Conseil fédéral peut nommer des commissions chargées d’organiser les exa
 
 **Identitas SA**[^7a-1]
 
-<sup>1</sup> ...[^7a-2]
+<sup>1</sup> Identitas SA exploite le système d’information sur les données animales (banque de données sur le trafic des animaux) visé à l’art. 45*b*.
 
 <sup>2</sup> La Confédération participe à la société Identitas SA dans le but d’assurer la surveillance du trafic et de la santé des animaux. Elle détient la majorité du capital-actions d’Identitas SA.
 
@@ -168,11 +168,13 @@ Le Conseil fédéral peut nommer des commissions chargées d’organiser les exa
 
 <sup>4</sup> Le conseil d’administration d’Identitas SA veille à la mise en œuvre des objectifs stratégiques. Il présente chaque année au Conseil fédéral un rapport sur la réalisation des objectifs et met à sa disposition les informations nécessaires pour vérifier leur réalisation.
 
-<sup>5</sup> à <sup>7</sup> ...[^7a-3]
+<sup>5</sup> L’exploitation de la banque de données sur le trafic des animaux est la tâche centrale d’Identitas SA.
 
-[^7a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^7a-2]: Entre en vigueur ultérieurement ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
-[^7a-3]: Entrent en vigueur ultérieurement ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+<sup>6</sup> Le Conseil fédéral peut charger Identitas SA d’accomplir d’autres tâches nécessaires à la mise en œuvre de mesures et à la gestion de données dans les domaines de la santé animale, de la protection des animaux et de la sécurité des denrées alimentaires, dans la mesure où ces tâches sont étroitement liées à la tâche centrale d’Identitas SA. Il règle la prise en charge des coûts.
+
+<sup>7</sup> Identitas SA peut fournir des prestations commerciales à des tiers, dans la mesure où elles ne compromettent pas la réalisation des tâches fédérales. Pour ses prestations commerciales, Identitas SA doit fixer des prix conformes à ceux du marché et tenir une comptabilité d’exploitation qui permette de détailler les coûts et les recettes de chacune des prestations. Ces prestations ne peuvent pas faire l’objet de subventions croisées.
+
+[^7a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, al. 1 et 5 à 7 depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 8
 
@@ -227,11 +229,7 @@ Le Conseil fédéral édicte les prescriptions générales de lutte contre les �
 - 9\. la participation des entreprises de transport aux mesures de lutte;
 - 10\.[^10-7] l’autorisation et l’emploi des produits de désinfection utilisés dans la lutte contre les épizooties;
 - 11\.[^10-8] l’approbation des programmes nationaux de lutte contre des épizooties présentant une importance pour le commerce international d’animaux, appliqués dans le cadre des services de santé animale.
-
-<sup>2</sup>
-
-La Confédération peut:
-
+- [tab] <sup>2</sup> La Confédération peut:
 - a. restreindre à une région la circulation des animaux et des produits animaux afin de protéger d’une épizootie les autres parties du pays;
 - b. ordonner que les mesures d’éradication soient limitées à certaines régions s’il n’est pas possible ni envisagé à court terme d’éradiquer une épizootie dans l’ensemble du pays;
 - c. déclarer indemnes les régions où aucune épizootie n’a été constatée pendant une durée déterminée.[^10-9]
@@ -278,7 +276,7 @@ Le Conseil fédéral peut, pour des motifs relevant de la police des épizooties
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^11-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
-## III*a*. Services de santé animale****
+## III*a*. Services de santé animale
 
 [^lvlIIIa-1]
 
@@ -357,21 +355,13 @@ Le Conseil fédéral règle le contenu et la forme du document d’accompagnemen
 
 #### Art. 15a
 
-**Enregistrement du trafic des animaux[^15a-2]**[^15a-1]
+**Enregistrement du trafic des animaux**[^15a-1]
 
-<sup>1</sup> Le trafic des animaux des espèces bovine, ovine, caprine et porcine doit être enregistré dans la banque de données sur le trafic des animaux.[^15a-3]
+<sup>1</sup> Le trafic des animaux des espèces bovine, ovine, caprine et porcine doit être enregistré dans la banque de données sur le trafic des animaux.
 
-<sup>2</sup> Les détenteurs d’animaux sont tenus d’enregistrer toutes les augmentations et diminutions d’effectif dans la banque de données sur le trafic des animaux.[^15a-4]
+<sup>2</sup> Les détenteurs d’animaux sont tenus d’enregistrer toutes les augmentations et diminutions d’effectif dans la banque de données sur le trafic des animaux.
 
-<sup>3</sup> La Confédération peut exploiter elle-même ou faire exploiter cette banque de données par des tiers.
-
-<sup>4</sup> ...[^15a-5]
-
-[^15a-1]: Introduit par le ch. I de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1999 1347](https://fedlex.data.admin.ch/eli/oc/1999/189); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)).
-[^15a-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^15a-5]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^15a-1]: Introduit par le ch. I de la LF du 26 juin 1998 ([RO 1999 1347](https://fedlex.data.admin.ch/eli/oc/1999/189); [FF 1996 IV 1](https://fedlex.data.admin.ch/eli/fga/1996/4_1_1_1)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 15b
 
@@ -391,7 +381,7 @@ Le Conseil fédéral peut étendre le champ d’application des art. 14 à 15*a*
 
 **Acheminement d’animaux et des produits qui en sont issus**
 
-<sup>1</sup> ...[^17-1]
+<sup>1</sup> …[^17-1]
 
 <sup>2</sup> Le Conseil fédéral édicte les prescriptions nécessaires en ce qui concerne le transport d’animaux et de matières animales ainsi que sur les moyens utilisés à cet effet.
 
@@ -468,12 +458,13 @@ En vue de prévenir la diffusion d’une épizootie, l’OSAV peut:
 - b. limiter ou interdire le passage de la frontière aux personnes;
 - c. assortir l’autorisation de conditions restrictives ou la refuser.
 
-<sup>4</sup> L’OSAV désigne, d’entente avec l’Administration fédérale des douanes, les postes d’importation, de transit ou d’exportation.
+<sup>4</sup> L’OSAV désigne, en accord avec l’Office fédéral de la douane et de la sécurité des frontières (OFDF), les postes d’importation, de transit ou d’exportation.[^24-5]
 
 [^24-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 [^24-2]: Nouvelle expression selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)). La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^24-3]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^24-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^24-5]: Nouvelle teneur selon le ch. I 34 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 25
 
@@ -498,7 +489,7 @@ En vue de prévenir la diffusion d’une épizootie, l’OSAV peut:
 
 **Produits immuno-biologiques**
 
-<sup>1</sup> ...[^27-1]
+<sup>1</sup> …[^27-1]
 
 <sup>2</sup> Lorsque des mesures officielles sont prises pour combattre des épizooties, le Conseil fédéral fixe les conditions auxquelles des corps simples ou composés et des produits naturels ou combinés peuvent être proposés à la vente ou vendus pour prévenir ou traiter ces épizooties.[^27-2]
 
@@ -534,7 +525,7 @@ Le Conseil fédéral peut arrêter des dispositions spéciales, dérogeant aux a
 
 [^30-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 6027](https://fedlex.data.admin.ch/eli/fga/2006/775)).
 
-## V. Frais de la lutte contre les épizooties****
+## V. Frais de la lutte contre les épizooties
 
 [^lvlV-1]
 
@@ -546,7 +537,7 @@ Le Conseil fédéral peut arrêter des dispositions spéciales, dérogeant aux a
 
 <sup>1</sup> Les cantons dans lesquels se trouvent les animaux atteints d’épizooties allouent les indemnités pour pertes d’animaux et couvrent tout ou partie des frais de la lutte.[^31-2]
 
-<sup>2</sup> ...[^31-3]
+<sup>2</sup> …[^31-3]
 
 <sup>3</sup> La Confédération verse les indemnités pour pertes d’animaux dues aux épizooties hautement contagieuses.[^31-4]
 
@@ -615,11 +606,11 @@ En outre, aucune indemnité n’est notamment versée:
 - 1\. pour les chiens et les chats, pour le gibier, les animaux exotiques et ceux de peu de valeur;
 - 2\. pour les animaux de jardins zoologiques, de ménageries et d’entreprises du même genre;
 - 3\. pour les animaux de boucherie de provenance étrangère;
-- 4\.[^34-1] ...
+- 4\.[^34-1] …
 - 5\. pour des animaux qui appartiennent à des personnes domiciliées à l’étranger et qui ne se trouvent en Suisse que passagèrement, par exemple en estivage ou en hivernage;
 - 6\. pour les animaux de rente de provenance étrangère qui appartiennent à des personnes domiciliées en Suisse, à moins que la preuve ne soit faite que l’infection est postérieure à l’importation.
 
-<sup>3</sup> ...[^34-2]
+<sup>3</sup> …[^34-2]
 
 [^34-1]: Abrogé par le ch. I de la LF du 16 mars 2012, avec effet au 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 [^34-2]: Introduit par le ch. I de la LF du 19 déc. 1975 ([RO 1977 1187](https://fedlex.data.admin.ch/eli/oc/1977/1187_1187_1187); [FF 1975 II 114](https://fedlex.data.admin.ch/eli/fga/1975/2_106_114_105)). Abrogé par le ch. I de la LF du 16 mars 2012, avec effet au 1<sup>er</sup> mai 2013 ([RO 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6479](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
@@ -730,7 +721,7 @@ Le Conseil fédéral détermine si, et dans quelle mesure, en cas d’épizootie
 [^45-2]: Nouvelle teneur selon l’annexe ch. 26 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^45-3]: Nouvelle teneur selon l’annexe ch. 26 de la LF du 15 juin 2018 (Révision du droit de la prescription), en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 221](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-## V*a*.**** Contributions à l’élimination des sous-produits animaux
+## V*a*. Contributions à l’élimination des sous-produits animaux
 
 [^lvlVa-1]
 
@@ -750,11 +741,11 @@ Le Conseil fédéral détermine si, et dans quelle mesure, en cas d’épizootie
 
 [^45a-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
-## V*b*.**** Systèmes d’information
+## V*b*. Systèmes d’information
 
 [^lvlVb-1]
 
-[^lvlVb-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^lvlVb-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, art. 45*b* al. 4 depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 45b
 
@@ -766,9 +757,7 @@ Le Conseil fédéral détermine si, et dans quelle mesure, en cas d’épizootie
 
 <sup>3</sup> L’exploitation de la banque de données sur le trafic des animaux est financée au moyen d’émoluments perçus auprès des détenteurs d’animaux et des autres personnes qui y sont assujetties. Le Conseil fédéral décide qui doit payer les émoluments et en fixe le montant.
 
-<sup>4</sup> ...[^45b-1]
-
-[^45b-1]: Entre en vigueur ultérieurement ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+<sup>4</sup> Les émoluments sont facturés et perçus par Identitas SA. En cas de litige sur une facture, l’Office fédéral de l’agriculture (OFAG) rend une décision.
 
 #### Art. 45c
 
@@ -798,12 +787,14 @@ L’OSAV exploite d’autres systèmes d’information destinés à faciliter l�
 Les personnes et les services mentionnés ci-après peuvent traiter en ligne des données dans les systèmes d’information visés à l’art. 45*c*, al. 1, let. a et b, dans les limites de leurs tâches légales:
 
 - a. l’OSAV et l’OFAG: afin de garantir la sécurité et l’hygiène des denrées alimentaires, la sécurité des aliments pour animaux, la santé animale, la protection des animaux et une production primaire irréprochable;
-- b. l’Administration fédérale des douanes: afin de garantir la sécurité et l’hygiène des denrées alimentaires, la sécurité des aliments pour animaux, la santé animale, la protection des animaux et une production primaire irréprochable eu égard aux marchandises introduites dans le territoire douanier suisse ou acheminées hors de celui-ci;
+- b. l’OFDF[^45d-1]: afin de garantir la sécurité et l’hygiène des denrées alimentaires, la sécurité des aliments pour animaux, la santé animale, la protection des animaux et une production primaire irréprochable eu égard aux marchandises introduites dans le territoire douanier suisse ou acheminées hors de celui-ci;
 - c. les autorités d’exécution cantonales et les tiers chargés de tâches d’exécution: afin de remplir leurs tâches dans leur domaine de compétence.
 
 <sup>3</sup> Le Conseil fédéral peut habiliter d’autres autorités fédérales à consulter en ligne des données dans les systèmes d’information visés à l’art. 45*c*, al. 1, let. a et b, dans les limites de leurs tâches légales.
 
 <sup>4</sup> Les cantons sont autorisés à utiliser le système d’information visé à l’art. 45*c*, al. 1, let. a, pour leurs propres tâches d’exécution dans les domaines de la santé animale, de la protection des animaux et de la sécurité des denrées alimentaires. Les accès en ligne aux données cantonales sont réglés par le droit cantonal.
+
+[^45d-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 45e
 
@@ -828,7 +819,7 @@ Pour la banque de données sur le trafic des animaux et les systèmes d’inform
 - g. les obligations de conservation et de destruction des données;
 - h. l’archivage des données.
 
-## VI. Dispositions pénales****
+## VI. Dispositions pénales
 
 [^lvlVI-1]
 
@@ -900,21 +891,23 @@ L’auteur peut en outre être condamné au paiement des taxes éludées.
 
 <sup>1</sup> La poursuite et le jugement des infractions sont du ressort des cantons.
 
-<sup>2</sup> L’OSAV poursuit et juge les infractions qui sont constatées lors de l’importation, du transit ou de l’exportation d’animaux ou de produits animaux aux postes d’inspection frontaliers agréés. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^52-2] ou à la loi du 12 juin 2009 sur la TVA[^52-3], l’Administration fédérale des douanes poursuit et juge ces infractions.
+<sup>2</sup> L’OSAV poursuit et juge les infractions qui sont constatées lors de l’importation, du transit ou de l’exportation d’animaux ou de produits animaux aux postes d’inspection frontaliers agréés. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^52-2] ou à la loi du 12 juin 2009 sur la TVA[^52-3], l’OFDF poursuit et juge ces infractions.[^52-4]
 
-<sup>3</sup> En cas d’importation, de transit ou d’exportation d’animaux ou de produits animaux en dehors des postes d’inspection frontaliers agréés, l’Administration fédérale des douanes poursuit et juge l’infraction s’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes ou à la loi du 12 juin 2009 sur la TVA.
+<sup>3</sup> En cas d’importation, de transit ou d’exportation d’animaux ou de produits animaux en dehors des postes d’inspection frontaliers agréés, l’OFDF poursuit et juge l’infraction s’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes ou à la loi du 12 juin 2009 sur la TVA.[^52-5]
 
-<sup>4</sup> Si un acte constitue à la fois une infraction visée aux al. 1 à 3 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^52-4], à la loi fédérale du 16 décembre 2005 sur la protection des animaux[^52-5], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^52-6], à la loi du 20 juin 1986 sur la chasse[^52-7] ou à la loi fédérale du 21 juin 1991 sur la pêche[^52-8] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^52-9]
+<sup>4</sup> Si un acte constitue à la fois une infraction visée aux al. 1 à 3 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^52-6], à la loi fédérale du 16 décembre 2005 sur la protection des animaux[^52-7], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^52-8], à la loi du 20 juin 1986 sur la chasse[^52-9] ou à la loi fédérale du 21 juin 1991 sur la pêche[^52-10] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^52-11]
 
 [^52-1]: Nouvelle teneur selon l’annexe 2 de la LF du 16 mars 2012 sur les espèces protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6439](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
 [^52-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^52-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^52-4]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^52-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^52-6]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
-[^52-7]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^52-8]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^52-9]: Nouvelle teneur selon l’annexe ch. II 7 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^52-4]: Nouvelle teneur selon le ch. I 34 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^52-5]: Nouvelle teneur selon le ch. I 34 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^52-6]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^52-7]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^52-8]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^52-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^52-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^52-11]: Nouvelle teneur selon l’annexe ch. II 7 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## VII. Dispositions d’exécution, finales et transitoires
 
@@ -1047,10 +1040,10 @@ L’OSAV:
 
 <sup>1</sup> Les cantons sont indemnisés pour les prestations visées à l’art. 57, al. 3, let. c, et 4, au moyen d’une contribution forfaitaire destinée à couvrir une partie des coûts du programme national de surveillance.
 
-<sup>2</sup> ...[^57a-2]
+<sup>2</sup> …[^57a-2]
 
-[^57a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^57a-2]: Entre en vigueur ultérieurement ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+[^57a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2022 486](https://fedlex.data.admin.ch/eli/oc/2022/486); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^57a-2]: Entre en vigueur ultérieurement ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680)).
 
 #### Art. 58
 
@@ -1113,7 +1106,7 @@ Les dispositions cantonales d’exécution sont communiquées au DFI.
 
 [^62-1]
 
-[^62-1]: Introduit par le ch. I de la LF du 20 juin 1980 ([RO 1980 1776](https://fedlex.data.admin.ch/eli/oc/1980/1776_1776_1776); [FF 1980 I 477](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Abrogé par le ch. 8 de l’annexe à la LF du 22 mars 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
+[^62-1]: Introduit par le ch. I de la LF du 20 juin 1980 ([RO 1980 1776](https://fedlex.data.admin.ch/eli/oc/1980/1776_1776_1776); [FF 1980 I 477](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Abrogé par l’annexe ch. 8 de la LF du 22 mars 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
 #### Art. 62a
 
@@ -1121,7 +1114,7 @@ Les dispositions cantonales d’exécution sont communiquées au DFI.
 
 Quel que soit l’ordre dans lequel la loi fédérale du 16 mars 2012 sur les espèces protégées (LCITES)[^62a-2] ou la modification du 16 mars 2012 de la LFE entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, l’art. 52 LFE est modifié comme suit:
 
-...[^62a-3]
+…[^62a-3]
 
 Date de l’entrée en vigueur: Art. 53, al. 1: 1<sup>er</sup> janvier 1967[^62a-4] Les autres dispositions: 1<sup>er</sup> janvier 1968[^62a-5]
 
