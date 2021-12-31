@@ -1,144 +1,153 @@
 ---
 canton: SG
 number: "551.1"
-title: Vollzugsverordnung über das Messwesen
+title: Verordnung über das Messwesen
 language: de
-version: 2000-07-01
-valid_until: 2021-12-31
-version_adopted: 2000-06-13
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-08-31
 adopted: 2021-08-31
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/551.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/212/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3287/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung über das Messwesen
+# Verordnung über das Messwesen
 
-vom 17.11.1987 (Stand 01.07.2000)
+vom 31.08.2021 (Stand 01.01.2022)
 
-Landammann und Regierungsrat des Kantons St.Gallen
+Die Regierung des Kantons St.Gallen
 
-erlassen
+erlässt
 
-in Ausführung des Bundesgesetzes über das Messwesen vom 9. Juni 1977[^ingress-1] und der eidgenössischen Verordnung über Aufgaben und Befugnisse der Kantone im Messwesen (Eichämter-Verordnung) vom 25. Juni 1980[^ingress-2]
+in Ausführung der Bundesgesetzgebung über das Messwesen[^ingress-1]
 
-als Verordnung:[^ingress-3]
+als Verordnung:[^ingress-2]
 
-[^ingress-1]: SR 941.20.
-[^ingress-2]: SR [941.292](https://db.clex.ch/link/Bund/941.292/de).
-[^ingress-3]: In Vollzug ab 1. Januar 1988.
+[^ingress-1]: SR [941](https://db.clex.ch/link/Bund/941/de).
+[^ingress-2]: In Vollzug ab 1. Januar 2022.
 
-## I. Organisation
+## I. Allgemeines
 
 #### Art. 1
 
 **Aufsicht und Vollzug**
 
-<sup>1</sup> Das Volkswirtschaftsdepartement übt die Aufsicht über das Messwesen aus.
+<sup>1</sup> Das kantonale Messwesen steht unter der Aufsicht des Amtes für Wirtschaft und Arbeit.
 
-<sup>2</sup> Es vollzieht mit den Eichmeistern die Bestimmungen über das Messwesen.
+<sup>2</sup> Das Amt für Wirtschaft und Arbeit vollzieht mit den Eichämtern die Bestimmungen über das Messwesen.
 
 #### Art. 2
 
-**Eichkreise**
+**Eichkreise und Eichämter**
 
-<sup>1</sup> Der Kanton wird eingeteilt in die vier Eichkreise:
+<sup>1</sup> Das Kantonsgebiet wird in die vier Eichkreise SG+1, SG+2, SG+3 und SG+4 eingeteilt.
 
-- 1\. Bezirke St.Gallen, Wil und Gossau;
-- 2\. Bezirke Obertoggenburg, Neutoggenburg, Alttoggenburg und Untertoggenburg;
-- 3\. Bezirke Werdenberg, Sargans, Gaster und See;
-- 4\. Bezirke Rorschach, Unterrheintal und Oberrheintal.
+<sup>2</sup> Die Einteilung der Eichkreise wird im Anhang dieses Erlasses aufgeführt.
+
+<sup>3</sup> Für jeden Eichkreis ist ein Eichamt zuständig.
+
+<sup>4</sup> Das Eichamt ist die zuständige Behörde im Sinn von Art. 34 Abs. 1 der eidgenössischen Verordnung über die Mengenangabe im Offenverkauf und auf Fertigpackungen vom 5. September 2012.[^2-1]
+
+[^2-1]: SR [941.204](https://db.clex.ch/link/Bund/941.204/de).
+
+## II. Eichmeisterinnen und Eichmeister
 
 #### Art. 3
 
-**Eichämter**
+**Wahl**
 
-<sup>1</sup> Das Volkswirtschaftsdepartement bezeichnet die Eichämter.
+<sup>1</sup> Die Regierung wählt für jeden Eichkreis eine Eichmeisterin oder einen Eichmeister.
+
+<sup>2</sup> Die Amtsdauer der Eichmeisterinnen und Eichmeister beträgt vier Jahre. Die Regierung kann ausnahmsweise eine kürzere Amtsdauer vorsehen.
 
 #### Art. 4
 
-**Eichmeister**
+**Aufgaben und Befugnisse**
 
-<sup>1</sup> Der Regierungsrat wählt einen Eichmeister je Eichkreis.
+<sup>1</sup> Aufgaben und Befugnisse der Eichmeisterinnen und Eichmeister richten sich nach Art. 4 der eidgenössischen Verordnung über die Zuständigkeiten im Messwesen vom 7. Dezember 2012.[^4-1]
 
-<sup>2</sup> Der Eichmeister wird vom Bezirksgerichtspräsidenten seines Wohnortes vereidigt.
+<sup>2</sup> Die Eichmeisterinnen und Eichmeister vertreten sich gegenseitig.
 
-<sup>3</sup> Er sorgt an seinem Wohnort für geeignete Räumlichkeiten zur Eichung und zur Aufbewahrung der Messmittel.
+<sup>3</sup> Die Übertragung von Vollzugsaufgaben einer Eichmeisterin oder eines Eichmeisters an eine Mitarbeiterin oder einen Mitarbeiter ist nur mit Zustimmung des Amtes für Wirtschaft und Arbeit möglich.
+
+[^4-1]: SR [941.206](https://db.clex.ch/link/Bund/941.206/de); abgekürzt ZMessV.
 
 #### Art. 5
 
-**Kantonseichmeister**
+**Leistungsvereinbarung**
 
-<sup>1</sup> Der Regierungsrat bezeichnet den Kantonseichmeister aus der Mitte der Eichmeister.
+<sup>1</sup> Das Amt für Wirtschaft und Arbeit schliesst mit der Eichmeisterin oder dem Eichmeister eine Leistungsvereinbarung ab.
 
-<sup>2</sup> Der Kantonseichmeister übt die Aufsicht über die Eichmeister und die Messmittel aus.
-
-<sup>3</sup> Er vertritt die Eichmeister gegenüber dem Volkswirtschaftsdepartement.
+<sup>2</sup> In der Leistungsvereinbarung werden insbesondere die bundesrechtlichen Kontrolltätigkeiten, für die keine Gebühren erhoben werden können und die zusätzlichen Aufgaben der Kantonseichmeisterin oder des Kantonseichmeisters geregelt.
 
 #### Art. 6
 
-**Vertretung**
+**Berichterstattung**
 
-<sup>1</sup> Die Eichmeister vertreten sich gegenseitig.[^6-1]
+<sup>1</sup> Die Eichmeisterinnen und Eichmeister erstatten dem Amt für Wirtschaft und Arbeit einen jährlichen Bericht über das vorangegangene Kalenderjahr. Der Bericht enthält insbesondere Angaben über:
 
-[^6-1]: Vgl. Art. 5 Abs. 4 der eidgV über Aufgaben und Befugnisse der Kantone im Messwesen (Eichämter-Verordnung) vom 25. Juni 1980, SR [941.292](https://db.clex.ch/link/Bund/941.292/de).
+- a) die erhobenen Gebühren und die übrigen Vergütungen;
+- b) die Vollzugstätigkeit und die kontrollierten Betriebe;
+- c) die gewerbsmässigen Tätigkeiten ausserhalb der hoheitlichen Aufgaben, für die das Amt für Wirtschaft und Arbeit eine Bewilligung erteilt hat;[^6-1]
+- d) die in der Leistungsvereinbarung nach Art. 5 dieses Erlasses festgelegten Informationen.
+
+<sup>2</sup> Sie betreiben eine Datenbank für das nach der Bundesgesetzgebung[^6-2] zu führende Verzeichnis.
+
+[^6-1]: Art. 6 Abs. 3 ZMessV, SR [941.206](https://www.gesetzessammlung.sg.ch/data/941.206/de).
+[^6-2]: Art. 4 Abs. 3 ZMessV, SR [941.206](https://db.clex.ch/link/Bund/941.206/de).
 
 #### Art. 7
 
-**Waagmeister**
+**Messmittel und Eichlokal**
 
-<sup>1</sup> Der Waagmeister wird vom Bezirksgerichtspräsidenten des Standorts der Waage vereidigt.
+<sup>1</sup> Der Kanton stellt die zur Durchführung der Eicharbeiten notwendigen Messmittel bereit.
 
-<sup>2</sup> Er untersteht der Aufsicht des Eichmeisters.
-
-## II. Abgaben
+<sup>2</sup> Die Eichmeisterinnen und Eichmeister unterhalten im Eichkreis ein Eichlokal zur Eichung und zur Aufbewahrung der Messmittel.
 
 #### Art. 8
 
-**Tarife**
+**Kantonseichmeisterin oder Kantonseichmeister**
 
-<sup>1</sup> Der Regierungsrat erlässt je einen Tarif für:
+<sup>1</sup> Die Regierung bezeichnet die Kantonseichmeisterin oder den Kantonseichmeister aus der Mitte der Eichmeisterinnen und Eichmeister.
 
-- a) Benützungsgebühren der Brückenwaagen;[^8-1]
-- b) Spesen bei Eicharbeiten ausserhalb des Eichamtes.
+<sup>2</sup> Die Kantonseichmeisterin oder der Kantonseichmeister übt die Aufsicht über die Messmittel aus.
 
-[^8-1]: Vgl. Art. 14 Abs. 1 der eidgV über Aufgaben und Befugnisse der Kantone im Messwesen (Eichämter-Verordnung) vom 25. Juni 1980, SR [941.292](https://db.clex.ch/link/Bund/941.292/de).
+<sup>3</sup> Sie oder er vertritt die Eichmeisterinnen und Eichmeister gegenüber dem Amt für Wirtschaft und Arbeit.
+
+## III. Entschädigung
 
 #### Art. 9
 
-**Entschädigung**
+**Gebühren und Auslagen**
 
-<sup>1</sup> Der Staat entschädigt die Eichmeister für den Vollzug der eidgenössischen Deklarationsverordnung[^9-1] nach dem Stundenansatz der eidgenössischen Eichgebühren-Verordnung.[^9-2]
+<sup>1</sup> Den Eichmeisterinnen und Eichmeistern steht der Ertrag der Gebühren nach den Vorschriften der eidgenössischen Verordnung über die Eich- und Kontrollgebühren im Messwesen vom 23. November 2005[^9-1] als Einkommen zu.
 
-<sup>2</sup> Der Kantonseichmeister erhält für seine zusätzlichen Aufgaben eine im Rahmen des Voranschlags festgesetzte Entschädigung.
+<sup>2</sup> Die Regierung erlässt einen Tarif für den Auslagenersatz nach Art. 6 der eidgenössischen Verordnung über die Eich- und Kontrollgebühren im Messwesen vom 23. November 2005[^9-2].
 
-[^9-1]: EidgV über das Abmessen und die Mengendeklaration von Waren in Handel und Verkehr (Deklarationsverordnung) vom 8. Juni 1998, SR [941.281](https://db.clex.ch/link/Bund/941.281/de).
-[^9-2]: Eidg Eichgebühren-Verordnung vom 30. Oktober 1985, SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de).
+[^9-1]: SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de).
+[^9-2]: SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de).
 
 #### Art. 10
 
-**Vergütung für Nachschau**
+**Entschädigung durch den Kanton**
 
-<sup>1</sup> Der Eichmeister erhebt die Entschädigung für den bei der periodischen Nachschau entstandenen administrativen Aufwand bei der politischen Gemeinde.[^10-1]
+<sup>1</sup> Für bundesrechtliche Kontrolltätigkeiten[^10-1], für die keine Gebühren erhoben werden können, haben die Eichmeisterinnen und Eichmeister Anspruch auf eine jährliche pauschale Entschädigung durch den Kanton.
 
-[^10-1]: Vgl. Art. 10 Abs. 1 der eidgV über Aufgaben und Befugnisse der Kantone im Messwesen (Eichämter-Verordnung) vom 25. Juni 1980, SR [941.292](https://db.clex.ch/link/Bund/941.292/de).
+<sup>2</sup> Die Kantonseichmeisterin oder der Kantonseichmeister erhält für die zusätzlichen Aufgaben eine Entschädigung.
 
-## III. Schlussbestimmungen
+<sup>3</sup> Die Einzelheiten dieser Entschädigungen werden in der Leistungsvereinbarung nach Art. 5 dieses Erlasses geregelt.
+
+[^10-1]: Eidgenössische Verordnung über die Mengenangabe im Offenverkauf und auf Fertigpackungen vom 5. September 2012, SR [941.204](https://db.clex.ch/link/Bund/941.204/de), sowie eidgenössische Verordnung über die Bekanntgabe von Preisen vom 11. Dezember 1978, SR [942.211](https://db.clex.ch/link/Bund/942.211/de).
 
 #### Art. 11
 
-**Aufhebung bisherigen Rechts**
+**Vergütung für Nachschau**
 
-<sup>1</sup> Die Vollzugsverordnung über Mass und Gewicht vom 15. Juni 1918[^11-1] wird aufgehoben.
+<sup>1</sup> Die Eichmeisterinnen und Eichmeister erheben die Entschädigung für den bei der periodischen Nachschau[^11-1] entstandenen administrativen Aufwand bei der politischen Gemeinde.
 
-[^11-1]: nGS 11–138 und 16–67 (sGS 551.1).
+[^11-1]: Art. 25 der eidgenössischen Messmittelverordnung vom 15. Februar 2006, SR [941.210](https://db.clex.ch/link/Bund/941.210/de).
 
-#### Art. 12
-
-**Vollzugsbeginn**
-
-<sup>1</sup> Diese Verordnung wird ab 1. Januar 1988 angewendet.
-
-nGS 22–84
+nGS 2021-071
