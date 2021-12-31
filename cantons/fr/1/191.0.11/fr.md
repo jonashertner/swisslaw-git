@@ -4,13 +4,13 @@ number: "191.0.11"
 title: Statut des corporations ecclésiastiques catholiques du canton de Fribourg
 short: Statut ecclésiastique catholique
 language: fr
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-08-31
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-01-31
 adopted: 1996-12-14
 in_force: 1998-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/191.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6928/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7112/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Statut ecclésiastique catholique
 
 (Statut ecclésiastique catholique)
 
-du 14.12.1996 (version entrée en vigueur le 01.01.2018)
+du 14.12.1996 (version entrée en vigueur le 01.01.2022)
 
 Les Catholiques[^ingress-1] du canton de Fribourg, communauté de fidèles rassemblés en Jésus-Christ, en communion avec l'Evêque diocésain et le Successeur de Pierre,
 
@@ -927,7 +927,7 @@ Se donnent le présent Statut ecclésiastique:
 
 <sup>1</sup> Un règlement régit la protection des droits des personnes lors du traitement de données qui les concernent.
 
-<sup>2</sup> L'Autorité cantonale de la transparence et de la protection des données est consultée lors de l'élaboration du règlement.
+<sup>2</sup> L'Autorité cantonale de la transparence, de la protection des données et de la médiation est consultée lors de l'élaboration du règlement.
 
 #### Art. 80
 

@@ -4,13 +4,13 @@ number: "191.0.11"
 title: Statut der katholischen kirchlichen Körperschaften des Kantons Freiburg
 short: Katholisches Kirchenstatut
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-08-31
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-01-31
 adopted: 1996-12-14
 in_force: 1998-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/191.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6928/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7112/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Katholisches Kirchenstatut
 
 (Katholisches Kirchenstatut)
 
-vom 14.12.1996 (Fassung in Kraft getreten am 01.01.2018)
+vom 14.12.1996 (Fassung in Kraft getreten am 01.01.2022)
 
 Die Katholiken[^ingress-1] des Kantons Freiburg, Gemeinschaft der in Jesus Christus versammelten Gläubigen, eins mit dem Diözesanbischof und dem Nachfolger Petri,
 
@@ -929,7 +929,7 @@ geben sich folgendes Kirchenstatut:
 
 <sup>1</sup> Ein Reglement legt den Schutz der Rechte von Personen fest, über die Daten bearbeitet werden.
 
-<sup>2</sup> Die kantonale Aufsichtsbehörde für Öffentlichkeit und Datenschutz wird bei der Ausarbeitung des Reglements zu Rate gezogen.
+<sup>2</sup> Die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation wird bei der Ausarbeitung des Reglements zu Rate gezogen.
 
 #### Art. 80
 
