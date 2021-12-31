@@ -3,20 +3,20 @@ canton: AG
 number: "401.100"
 title: Schulgesetz
 language: de
-version: 2020-08-01
-valid_until: 2021-12-31
-version_adopted: 2019-05-01
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2020-12-15
 adopted: 1981-03-17
 in_force: 1982-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/401.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2803/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3042/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Schulgesetz
 
-Vom 17.03.1981 (Stand 01.08.2020)
+Vom 17.03.1981 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -85,13 +85,13 @@ beschliesst:
 
 <sup>3</sup> Aus wichtigen Gründen kann das Departement Bildung, Kultur und Sport ein Kind auf Gesuch der Inhaber der elterlichen Sorge vorübergehend von der Schulpflicht entbinden oder vorzeitig daraus entlassen.
 
-<sup>4</sup> Die Schulpflicht kann auch im Rahmen einer Privatschule oder einer privaten Schulung erfüllt werden. Der Regierungsrat regelt hinsichtlich des Unterrichts der schulpflichtigen Kinder die Meldepflicht der Inhaber der elterlichen Sorge gegenüber der zuständigen Schulpflege.
+<sup>4</sup> Die Schulpflicht kann auch im Rahmen einer Privatschule oder einer privaten Schulung erfüllt werden. Der Regierungsrat regelt hinsichtlich des Unterrichts der schulpflichtigen Kinder die Meldepflicht der Inhaber der elterlichen Sorge gegenüber dem zuständigen Gemeinderat.
 
 #### § 5
 
 **Hinausschieben der Schulpflicht**
 
-<sup>1</sup> Die Schulpflege kann auf Gesuch der Eltern den späteren Eintritt in den Kindergarten gestatten.
+<sup>1</sup> Der Gemeinderat kann auf Gesuch der Eltern den späteren Eintritt in den Kindergarten gestatten.
 
 #### § 6
 
@@ -99,7 +99,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulpflicht ist in der Regel in den öffentlichen Schulen der Wohngemeinde oder des Schulkreises, zu dem die Wohngemeinde gehört, zu erfüllen.
 
-<sup>2</sup> Erfolgt der Unterrichtsbesuch ohne wichtige Gründe an der Volksschule einer anderen Gemeinde, entfällt die Unentgeltlichkeit gemäss § 3 Abs. 3. Das Schulgeld, das die Gemeinde erhebt, darf höchstens kostendeckend sein.
+<sup>2</sup> Erfolgt der Unterrichtsbesuch ohne wichtige Gründe an der Volksschule einer anderen Gemeinde, entfällt die Unentgeltlichkeit gemäss § 3 Abs. 3. Der Gemeinderat der Wohngemeinde entscheidet über die Bezahlung eines höchstens kostendeckenden Schulgeldes durch die Eltern.
 
 <sup>3</sup> Kinder und Jugendliche mit Aufenthalt in Heimen erfüllen ihre Schulpflicht in den Heimschulen oder den öffentlichen Schulen der Region.
 
@@ -109,7 +109,7 @@ beschliesst:
 
 <sup>1</sup> Das Schuljahr beginnt am zweiten Montag im August. Das erste Schulhalbjahr endet frühestens am dritten und spätestens am fünften Samstag nach Neujahr. Das zweite Schulhalbjahr endet mit den Sommerferien. Je zwei Wochen Frühlings-, Herbst- und Weihnachtsferien sowie drei Wochen Sommerferien werden für den Kanton einheitlich durch den Erziehungsrat festgelegt.[^7-1]
 
-<sup>2</sup> Den Rahmen für vier weitere Ferienwochen setzt das zuständige Departement nach Anhören der Schulpflegen fest.
+<sup>2</sup> Den Rahmen für vier weitere Ferienwochen setzt das zuständige Departement nach Anhören der Gemeinderäte fest.
 
 <sup>3</sup> In der Volksschule dauert der Unterricht von Montag bis Freitag. An den kantonalen Schulen werden die Unterrichtstage vom Regierungsrat festgelegt.
 
@@ -185,7 +185,7 @@ beschliesst:
 
 <sup>1</sup> Die Promotion innerhalb der Primarschule und der Oberstufe findet aufgrund eines leistungsbezogenen und selektiven Notenzeugnisses statt. Es können weitere Leistungsbelege beigezogen werden. Vorbehalten bleibt die Promotion von Schülerinnen und Schülern in der 1. Klasse der Primarschule sowie von Schülerinnen und Schülern mit besonderen schulischen Bedürfnissen.
 
-<sup>2</sup> Für den Stufen- und Typenwechsel gilt ein Empfehlungsverfahren. Bei fehlender Übereinstimmung zwischen der Schulpflege und den Eltern der betroffenen Schülerin oder des betroffenen Schülers können Stufen- und Typenwechsel von einer Prüfung abhängig gemacht werden.
+<sup>2</sup> Für den Stufen- und Typenwechsel gilt ein Empfehlungsverfahren. Bei Uneinigkeit können Stufen- und Typenwechsel von einer Prüfung abhängig gemacht werden.
 
 <sup>3</sup> Der Regierungsrat regelt die Einzelheiten zu allen schulischen Laufbahnentscheiden.
 
@@ -285,15 +285,21 @@ beschliesst:
 
 <sup>1</sup> Über den lehrplanmässigen Unterricht hinaus können die Gemeinden besondere Einrichtungen für den Instrumental- und Gesangsunterricht sowie für schulunterstützende Angebote wie namentlich die Aufgabenhilfe führen.
 
+#### § 17a
+
+**Kirchlicher Religionsunterricht**
+
+<sup>1</sup> Zur Erteilung des kirchlichen Religionsunterrichts sind den öffentlich-rechtlich anerkannten Religionsgemeinschaften für zwei Wochenstunden pro Abteilung innerhalb der Unterrichtszeit unentgeltlich geeignete Schulräume zur Verfügung zu stellen.
+
 #### § 18
 
 **…**
 
 #### § 18a
 
-**Klassenlehrer**
+**Klassenlehrperson**
 
-<sup>1</sup> Die Schulpflege bestimmt für jede Abteilung einen hauptverantwortlichen Klassenlehrer.
+<sup>1</sup> Für jede Abteilung ist eine hauptverantwortliche Lehrperson zu bestimmen.
 
 ### 2.2.1<sup>bis</sup>. Kindergarten
 
@@ -457,7 +463,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden bieten den Sprachheilunterricht an. Der Regierungsrat legt den Umfang fest. Bei den übrigen Massnahmen werden Angebot und Umfang mittels kantonaler Planung festgelegt.
 
-<sup>2</sup> Der Besuch des Sprachheilunterrichts setzt eine Abklärung durch eine Fachperson und die Zuweisung durch die Schulpflege voraus.
+<sup>2</sup> Der Besuch des Sprachheilunterrichts setzt eine Abklärung durch eine Fachperson voraus.
 
 ### 2.4. Mittelschulen
 
@@ -535,9 +541,11 @@ beschliesst:
 
 <sup>1</sup> Die Eltern beziehungsweise Pflegeeltern müssen die Lehrpersonen oder die Schulleitung über Verhaltensänderungen ihres Kinds oder über Ereignisse, die sich in dessen Umfeld abspielen, informieren, soweit dies für den Schulalltag von Bedeutung ist.
 
-<sup>2</sup> Die Eltern beziehungsweise Pflegeeltern haben die Pflicht, an Elternveranstaltungen oder Gesprächen teilzunehmen, die von der Schulpflege, der Schulleitung oder einer Lehrperson angeordnet werden.
+<sup>2</sup> Die Eltern beziehungsweise Pflegeeltern haben die Pflicht, an Elternveranstaltungen oder Gesprächen teilzunehmen, die vom Gemeinderat, der Schulleitung oder einer Lehrperson angeordnet werden.
 
-<sup>3</sup> Bleiben die Eltern beziehungsweise die Pflegeeltern den von der Schulpflege, der Schulleitung oder einer Lehrperson angeordneten Elternveranstaltungen oder Gesprächen unentschuldigt fern, können sie von der Schulpflege unter Androhung von Strafe vorgeladen werden. Folgen die Eltern beziehungsweise Pflegeeltern der Vorladung nicht, spricht die Schulpflege eine Busse aus. Im Wiederholungsfall erstattet die Schulpflege von Amtes wegen Strafanzeige bei der Staatsanwaltschaft für die Bezirke. Die Eltern beziehungsweise Pflegeeltern sind mit einer Busse von mindestens Fr. 600.– bis höchstens Fr. 1'000.– zu bestrafen.
+<sup>3</sup> Bleiben die Eltern beziehungsweise die Pflegeeltern den vom Gemeinderat, von der Schulleitung oder einer Lehrperson angeordneten Elternveranstaltungen oder Gesprächen unentschuldigt fern, können sie vom Gemeinderat unter Androhung von Strafe vorgeladen werden.
+
+<sup>4</sup> Folgen die Eltern beziehungsweise Pflegeeltern der Vorladung nicht, spricht der Gemeinderat eine Busse von höchstens Fr. 500.– aus. Im Wiederholungsfall erstattet der Gemeinderat von Amtes wegen Strafanzeige bei der Staatsanwaltschaft für die Bezirke. Die Eltern beziehungsweise Pflegeeltern sind mit einer Busse von mindestens Fr. 600.– bis höchstens Fr. 1'000.– zu bestrafen.
 
 #### § 37
 
@@ -545,27 +553,15 @@ beschliesst:
 
 <sup>1</sup> Die Eltern beziehungsweise Pflegeeltern sind verantwortlich, dass ihr schulpflichtiges Kind die Schule regelmässig besucht.
 
-<sup>2</sup> Bei vorsätzlichem unentschuldigtem Fernhalten des Kinds von der Schule bis höchstens drei Schultage werden die Eltern beziehungsweise Pflegeeltern von der Schulpflege gemahnt und im Wiederholungsfall mit einer Busse bestraft.
+<sup>2</sup> Bei vorsätzlichem unentschuldigtem Fernhalten des Kinds von der Schule bis maximal drei Schultage werden die Eltern beziehungsweise Pflegeeltern vom Gemeinderat gemahnt und im Wiederholungsfall mit einer Busse von höchstens Fr. 500.– bestraft.
 
-<sup>3</sup> Wenn das Fernhalten gemäss Absatz 2 länger als drei Schultage dauert, erstattet die Schulpflege von Amtes wegen Strafanzeige bei der Staatsanwaltschaft für die Bezirke und nötigenfalls Meldung an die Kindes- und Erwachsenenschutzbehörde gemäss Art. 307 ff. des Schweizerischen Zivilgesetzbuchs (ZGB) vom 10. Dezember 1907[^37-1]. Die Eltern beziehungsweise Pflegeeltern sind mit einer Busse von mindestens Fr. 600.– bis höchstens Fr. 1'000.–, im Wiederholungsfall mit einer Busse von mindestens Fr. 1'000.– bis höchstens Fr. 2'000.–, zu bestrafen.
+<sup>3</sup> Wenn das Fernhalten gemäss Absatz 2 länger als drei Schultage dauert, erstattet der Gemeinderat von Amtes wegen Strafanzeige bei der Staatsanwaltschaft für die Bezirke und nötigenfalls Meldung an die Kindes- und Erwachsenenschutzbehörde.
 
-[^37-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+<sup>4</sup> Die Eltern beziehungsweise Pflegeeltern sind mit einer Busse von mindestens Fr. 600.– bis höchstens Fr. 1'000.–, im Wiederholungsfall mit einer Busse von mindestens Fr. 1'000.– bis höchstens Fr. 2'000.– zu bestrafen.
 
 #### § 37a
 
-**Strafkompetenz der Schulpflege; Rechtsmittel**
-
-<sup>1</sup> Die Schulpflege kann gemäss den §§ 36a Abs. 3 und 37 Abs. 2 Bussen durch Strafbefehl bis höchstens Fr. 500.– aussprechen.
-
-<sup>2</sup> Gegen einen Strafbefehl kann die gebüsste Person bei der Schulpflege unter Ausschluss der Verwaltungsbeschwerde innert 20 Tagen schriftlich Einsprache erheben. Dadurch wird der Strafbefehl aufgehoben.
-
-<sup>3</sup> Die Einsprache erhebende Person ist zu einer Verhandlung vor die Schulpflege oder ein von ihr bestimmtes Mitglied vorzuladen. Die Schulpflege fällt einen begründeten Entscheid.
-
-<sup>4</sup> Gegen den Strafentscheid kann innert 20 Tagen nach Eröffnung bei der Bezirksgerichtspräsidentin beziehungsweise beim Bezirksgerichtspräsidenten als Einzelrichterin beziehungsweise als Einzelrichter schriftlich Beschwerde zum endgültigen Entscheid erhoben werden.
-
-<sup>5</sup> Im Übrigen gelten die Vorschriften des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937[^37a-1].
-
-[^37a-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+**…**
 
 #### § 38
 
@@ -592,7 +588,7 @@ beschliesst:
 
 **2. Anordnung durch Lehrpersonen der Volksschule**
 
-<sup>1</sup> Die Lehrpersonen an der Volksschule können folgende Disziplinarmassnahmen anordnen:
+<sup>1</sup> Die Lehrpersonen an der Volksschule können folgende Disziplinarmassnahmen anordnen, die sofort vollstreckbar sind:
 
 - a) Ermahnung;
 - b) schriftliche Arbeit, die von der anordnenden Lehrperson zu kontrollieren ist;
@@ -604,9 +600,9 @@ beschliesst:
 
 #### § 38c
 
-**3. Anordnung durch Schulpflegen**
+**3. Anordnung durch den Gemeinderat**
 
-<sup>1</sup> Die Schulpflegen können folgende Disziplinarmassnahmen anordnen:
+<sup>1</sup> Der Gemeinderat kann folgende Disziplinarmassnahmen anordnen:
 
 - a) schriftlicher Verweis;
 - b) gemeinnützige Arbeitsleistung bis maximal sechs unterrichtsfreie Halbtage;
@@ -620,9 +616,9 @@ beschliesst:
 
 **4. Anordnung durch das Departement Bildung, Kultur und Sport**
 
-<sup>1</sup> Das Departement Bildung, Kultur und Sport kann auf Antrag der Schulpflege einen befristeten vollständigen oder teilweisen Schulausschluss bis höchstens zwölf Schulwochen pro Schuljahr verfügen.
+<sup>1</sup> Das Departement Bildung, Kultur und Sport kann auf Antrag des Gemeinderats einen befristeten vollständigen oder teilweisen Schulausschluss bis höchstens zwölf Schulwochen pro Schuljahr verfügen.
 
-<sup>2</sup> Das Departement Bildung, Kultur und Sport kann auf Antrag der Schulpflege in Abstimmung mit der Kindes- und Erwachsenenschutzbehörde beziehungsweise der Jugendanwaltschaft eine Schülerin oder einen Schüler für die Dauer eines Verfahrens um Einweisung in ein Erziehungsheim vom Unterrichtsbesuch ausschliessen, wenn der ordentliche Schulbetrieb auf andere Weise nicht gewährleistet werden kann.
+<sup>2</sup> Das Departement Bildung, Kultur und Sport kann auf Antrag des Gemeinderats in Abstimmung mit der Kindes- und Erwachsenenschutzbehörde beziehungsweise der Jugendanwaltschaft eine Schülerin oder einen Schüler für die Dauer eines Verfahrens um Einweisung in ein Erziehungsheim vom Unterrichtsbesuch ausschliessen, wenn der ordentliche Schulbetrieb auf andere Weise nicht gewährleistet werden kann.
 
 #### § 38e
 
@@ -638,17 +634,7 @@ beschliesst:
 
 #### § 38f
 
-**6. Rechtsmittel**
-
-<sup>1</sup> Disziplinarmassnahmen, die von Lehrpersonen an der Volksschule angeordnet werden, sind nicht mittels Beschwerde anfechtbar und sofort vollstreckbar.
-
-<sup>2</sup> Disziplinarmassnahmen, die von der Schulpflege angeordnet werden, können mittels Beschwerde zum endgültigen Entscheid an den Schulrat des Bezirks weitergezogen werden. Vorbehalten bleibt Absatz 3.
-
-<sup>3</sup> Folgende Disziplinarmassnahmen sind mittels Beschwerde an den Regierungsrat weiterziehbar:
-
-- a) der durch die Schulpflege oder das Departement Bildung, Kultur und Sport angeordnete befristete vollständige oder teilweise Schulausschluss;
-- b) die Wegweisung von der Schule nach Vollendung der Schulpflicht;
-- c) der Schulausschluss für die Dauer eines Verfahrens um Einweisung in ein Erziehungsheim.
+**…**
 
 #### § 39
 
@@ -694,7 +680,7 @@ beschliesst:
 
 <sup>2</sup> Die Lehrpersonen einer Schule bilden die Lehrerkonferenz.
 
-<sup>3</sup> Als Vertreter der Lehrerschaft nehmen die Rektoren an den Sitzungen der Schulpflege, beziehungsweise der Aufsichtskommission mit beratender Stimme teil.
+<sup>3</sup> Der Regierungsrat regelt das Mitspracherecht der Lehrerkonferenz und die Vertretung der Anliegen der Lehrerschaft in der Schulleitung und gegenüber den zuständigen Behörden durch Verordnung.
 
 #### § 48
 
@@ -769,7 +755,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden sind verpflichtet, die Volksschule einschliesslich der Sonderschulen selbst zu führen oder sich an einer entsprechenden Kreisschule zu beteiligen beziehungsweise das Schulgeld für Kinder mit Aufenthalt auf ihrem Gebiet zu übernehmen.
 
-<sup>2</sup> Die Errichtung neuer Schulen und Abteilungen bedarf der Zustimmung des zuständigen Departements; es kann nach Anhören von Gemeinderat und Schulpflege die Errichtung neuer und die Aufhebung bisheriger Abteilungen anordnen.
+<sup>2</sup> Die Errichtung neuer Schulen bedarf der Zustimmung des zuständigen Departements.
 
 <sup>3</sup> Gemeinden und Gemeindeverbände, die einen Kindergarten, eine Einschulungsklasse, eine Kleinklasse, eine unterstützte Regelklasse, eine Schule der Oberstufe oder eine Sonderschule führen, sind im Rahmen der zulässigen Schülerzahlen der Abteilungen verpflichtet, Kinder aus anderen Gemeinden, in denen keine solchen Schulen bestehen, unter den gleichen Voraussetzungen aufzunehmen wie Kinder mit Aufenthalt in der Gemeinde selbst.
 
@@ -817,7 +803,9 @@ beschliesst:
 
 <sup>2</sup> Der Kreisschulverband übernimmt für seine Schulen die Rechte und Pflichten der beteiligten Gemeinden.
 
-<sup>3</sup> Für die Errichtung und die Organisation des Kreisschulverbandes gelten sinngemäss die einschlägigen Bestimmungen des Gesetzes über die Einwohnergemeinden (Gemeindegesetz) vom 19. Dezember 1978[^56-1]. Die Kreisschulpflege tritt an die Stelle des Vorstandes oder sie bildet ein zusätzliches Organ.
+<sup>3</sup> Für die Errichtung und die Organisation des Kreisschulverbandes gelten sinngemäss die einschlägigen Bestimmungen des Gesetzes über die Einwohnergemeinden (Gemeindegesetz, GG) vom 19. Dezember 1978[^56-1]. Der Vorstand übernimmt dabei die Funktion des Gemeinderats und konstituiert sich selbst. In der Regel soll ihm mindestens eine Vertreterin oder ein Vertreter pro angeschlossene Gemeinde angehören; er muss aber insgesamt mindestens drei Mitglieder umfassen.
+
+<sup>4</sup> Bei Kreisschulen, die vertraglich gemeinsam mit anderen Gemeinden geführt werden, kann den Mitgliedern von Gemeinderäten dieser Gemeinden in Bezug auf die im betreffenden Vertrag geregelten schulischen Angelegenheiten Einsitz mit beratender Stimme, abgestuftem oder vollem Stimmrecht in den Gemeinderäten der Standortgemeinden eingeräumt werden.
 
 [^56-1]: SAR [171.100](https://gesetzessammlungen.ag.ch/data/171.100/de)
 
@@ -853,7 +841,7 @@ beschliesst:
 
 **Bewilligung; Nachweis des genügenden Unterrichts**
 
-<sup>1</sup> Privatschulen, in denen Kinder ihre Schulpflicht erfüllen, bedürfen der Bewilligung des Erziehungsrats. Die Bewilligung von Sonderschulen richtet sich nach den Bestimmungen des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz) vom 2. Mai 2006[^58-1].
+<sup>1</sup> Privatschulen, in denen Kinder ihre Schulpflicht erfüllen, bedürfen der Bewilligung des Erziehungsrats. Die Bewilligung von Sonderschulen richtet sich nach den Bestimmungen des Gesetzes über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BeG) vom 2. Mai 2006[^58-1].
 
 <sup>2</sup> Der Regierungsrat legt zur Sicherung einer den öffentlichen Schulen gleichwertigen Ausbildung die Bewilligungsvoraussetzungen fest. Die jeweilige Trägerschaft einer Privatschule muss vertrauenswürdig sein und Gewähr dafür bieten, dass die Schülerinnen und Schüler nicht Einflüssen ausgesetzt werden, die denjenigen Zielen der öffentlichen Schulen zuwiderlaufen, die sich aus der Präambel dieses Gesetzes ergeben.
 
@@ -1062,53 +1050,41 @@ beschliesst:
 
 ## 7. Behörden
 
-### 7.1. Schulpflege
+### 7.1. Gemeinderat
 
 #### § 69
 
-**Zusammensetzung**
-
-<sup>1</sup> Als Behörde für das Volksschulwesen besteht in jeder Gemeinde eine Schulpflege von mindestens 3 Mitgliedern.
-
-<sup>2</sup> Für Schulen von Kreisschulverbänden ist die Kreisschulpflege zuständig. Die Bestimmungen über die Schulpflege gelten sinngemäss für die Kreisschulpflege.
-
-<sup>3</sup> Die Schulpflege konstituiert sich selbst.
-
-<sup>4</sup> Bei Kreisschulen, die vertraglich gemeinsam mit anderen Gemeinden geführt werden, kann den Mitgliedern von Schulpflegen dieser Gemeinden Sitz mit beratender Stimme, abgestuftem oder vollem Stimmrecht in den Schulpflegen der Standortgemeinden eingeräumt werden.
+**…**
 
 #### § 70
 
-**Kommissionen**
-
-<sup>1</sup> Für die Betreuung und Beaufsichtigung einzelner Bereiche kann die Schulpflege auf ihre Amtsdauer besondere Kommissionen von wenigstens 3 Mitgliedern wählen.
-
-<sup>2</sup> Ein Vertreter der Lehrerschaft nimmt an den Sitzungen mit beratender Stimme teil.
+**…**
 
 #### § 71
 
-**Aufgaben**
+**Aufgaben im schulischen Bereich**
 
-<sup>1</sup> Die Schulpflege ist verantwortlich für die Führung der Volksschule und beaufsichtigt die private Schulung. Sie trifft alle Entscheidungen, die mit einem ordentlichen Rechtsmittel angefochten werden können.
+<sup>1</sup> Der Gemeinderat ist verantwortlich für die Führung der Volksschule und beaufsichtigt die private Schulung. Er trifft alle Entscheidungen, die mit einem ordentlichen Rechtsmittel angefochten werden können.
 
-<sup>2</sup> Die Schulleitung führt die Schule operativ und entlastet die Schulpflege. Sie nimmt die interne Qualitätssicherung und -entwicklung wahr und ist der Schulpflege unterstellt.
+<sup>1<sup>bis</sup></sup> Er kann seine Entscheidungsbefugnisse durch Reglement an eines seiner Mitglieder oder an die Schulleitung delegieren. § 39 Abs. 2 des Gemeindegesetzes kommt in diesem Fall nicht zur Anwendung.
 
-<sup>3</sup> Der Regierungsrat regelt die Einzelheiten zur Schulleitung. Er kann für kleine Schulen von der Einsetzung einer Schulleitung absehen und die entsprechenden Kompetenzen bei der Schulpflege belassen.
+<sup>2</sup> Die Schulleitung führt die Schule operativ und entlastet den Gemeinderat. Sie nimmt die interne Qualitätssicherung und -entwicklung wahr und ist dem Gemeinderat unterstellt.
+
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten zur Schulleitung durch Verordnung.
 
 #### § 72
 
-**Kirchlicher Religionsunterricht**
-
-<sup>1</sup> Zur Erteilung des kirchlichen Religionsunterrichtes sind den öffentlichrechtlich anerkannten Religionsgemeinschaften für zwei Wochenstunden pro Abteilung innerhalb der Unterrichtszeit unentgeltlich geeignete Schulräume zur Verfügung zu stellen.
+**…**
 
 #### § 73
 
 **Laufbahnentscheide**
 
-<sup>1</sup> Die Schulpflege trifft alle Laufbahnentscheide, wenn sich die Eltern der Beurteilung der beteiligten Lehrpersonen nicht anschliessen können.
+<sup>1</sup> Der Gemeinderat trifft alle Laufbahnentscheide, wenn sich die betroffene Schülerin, der betroffene Schüler beziehungsweise deren Eltern der Beurteilung der beteiligten Lehrpersonen nicht anschliessen können.
 
-<sup>2</sup> Die Schulpflege entscheidet über die Zuweisung von Kindern und Jugendlichen mit Behinderungen oder erheblichen sozialen Beeinträchtigungen in Regelklassen oder in die Sonderschulung.
+<sup>2</sup> Er entscheidet über die Zuweisung von Kindern und Jugendlichen mit Behinderungen oder erheblichen sozialen Beeinträchtigungen in die Sonderschulung.
 
-<sup>2<sup>bis</sup></sup> Liegt beim Übertritt von einer staatlich anerkannten Privatschule in die öffentliche Schule eine entsprechende Empfehlung vor, wird die Schülerin oder der Schüler ohne weiteren Entscheid der Schulpflege aufgenommen.
+<sup>2<sup>bis</sup></sup> Liegt beim Übertritt von einer staatlich anerkannten Privatschule in die öffentliche Volksschule eine entsprechende Empfehlung vor, wird die Schülerin oder der Schüler ohne weiteren Entscheid des Gemeinderats aufgenommen.
 
 <sup>3</sup> …
 
@@ -1120,21 +1096,19 @@ beschliesst:
 
 **Weiterbildung**
 
-<sup>1</sup> Der Kanton kann für Mitglieder von Schulpflegen Weiterbildungskurse anbieten.
+<sup>1</sup> Der Kanton kann für Mitglieder von Gemeinderäten Weiterbildungskurse anbieten.
 
 <sup>2</sup> Er verrechnet die Kosten der Gemeinde oder dem Gemeindeverband weiter.
 
 #### § 74
 
-**Kompetenzgeld**
-
-<sup>1</sup> Zur Bestreitung besonderer nicht voraussehbarer Bedürfnisse der Schule ist der Schulpflege alljährlich ein angemessener Budgetkredit einzuräumen.
+**…**
 
 #### § 75
 
 **Beschwerderecht**
 
-<sup>1</sup> Gegen Entscheide der Schulpflege kann innert 30 Tagen von der Zustellung an Beschwerde beim Schulrat des Bezirks geführt werden.Vorbehalten bleibt die Zuständigkeit der Bezirksgerichtspräsidentin beziehungsweise des Bezirksgerichtspräsidenten gemäss § 37a Abs. 4 sowie die für dieses Verfahren geltenden Fristen.
+<sup>1</sup> Gegen kommunale Entscheidungen in Schulangelegenheiten kann innert 30 Tagen von der Zustellung an Beschwerde beim Schulrat des Bezirks geführt werden. Vorbehalten bleiben die Rechtsmittel in Strafsachen gemäss § 112 des Gemeindegesetzes.
 
 ### 7.2. Schulrat des Bezirks
 
@@ -1156,15 +1130,15 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Der Schulrat des Bezirks entscheidet über Beschwerden gegen Entscheide der Schulpflegen des Bezirks, wenn es sich nicht um solche des Strafverfahrens gemäss § 37a handelt.
+<sup>3</sup> Der Schulrat des Bezirks ist die erste Beschwerdeinstanz in Schulangelegenheiten.
 
-<sup>4</sup> Er führt nach Bedarf Orientierungs- und Weiterbildungsveranstaltungen für die Schulpflegen des Bezirks durch und kann dazu die Unterstützung des zuständigen Departements anfordern.
+<sup>4</sup> Er führt nach Bedarf Orientierungs- und Weiterbildungsveranstaltungen für Mitglieder der Gemeinderäte und Schulleitungen des Bezirks durch und kann dazu die Unterstützung des zuständigen Departements anfordern.
 
 #### § 78
 
 **Beschwerderecht**
 
-<sup>1</sup> Gegen Entscheide des Schulrats des Bezirks kann innert 30 Tagen von der Zustellung an Beschwerde beim Regierungsrat geführt werden; vorbehalten bleibt § 38f Abs. 2 dieses Gesetzes.
+<sup>1</sup> Gegen Entscheide des Schulrats des Bezirks kann innert 30 Tagen von der Zustellung an Beschwerde beim Regierungsrat geführt werden.
 
 ### 7.3. Erziehungsrat
 
@@ -1281,9 +1255,7 @@ beschliesst:
 
 #### § 90c
 
-**Einschulung**
-
-<sup>1</sup> Der Gemeinderat entscheidet auf Antrag der Schulpflege über eine Staffelung der Verschiebung des Einschulungsstichtags gemäss § 4 Abs. 2. Die Verschiebung muss spätestens bis zum Schuljahresbeginn 2018/19 vollzogen sein.
+**…**
 
 #### § 90d
 
