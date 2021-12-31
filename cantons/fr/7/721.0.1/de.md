@@ -4,13 +4,13 @@ number: "721.0.1"
 title: Gesetz über den Natur- und Landschaftsschutz
 short: NatG
 language: de
-version: 2015-07-01
-valid_until: 2021-12-31
-version_adopted: 2014-12-19
+version: 2022-01-01
+valid_until: 2023-09-30
+version_adopted: 2021-10-06
 adopted: 2012-09-12
 in_force: 2014-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/721.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6277/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6944/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Natur- und Landschaftsschutz – G
 
 (NatG)
 
-vom 12.09.2012 (Fassung in Kraft getreten am 01.07.2015)
+vom 12.09.2012 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -672,11 +672,13 @@ beschliesst:
 
 <sup>3</sup> Der Staatsrat definiert auf kantonaler Ebene Rechtsverletzungen für Bereiche, die vom Bundesrecht nicht abgedeckt werden.
 
+<sup>4</sup> Verstösse gegen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
+
 #### Art. 58
 
 **Verfahren und Vollstreckung**
 
-<sup>1</sup> Zuwiderhandlungen im Bereich des Natur- und Landschaftsschutzes werden nach dem Justizgesetz verfolgt und beurteilt. Für die vom Staatsrat bestimmten Übertretungen gelten hingegen die Bestimmungen von Artikel 54a ff. des Gesetzes vom 14. November 1996 über die Jagd sowie den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume über das Ordnungsbussenverfahren sinngemäss.
+<sup>1</sup> Zuwiderhandlungen im Bereich des Natur- und Landschaftsschutzes werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 <sup>2</sup> Die vollstreckbaren Entscheide werden von Amtes wegen der kantonalen oder kommunalen Behörde mitgeteilt, die die Schutzmassnahme verfügt hat; sie können ausserdem den übrigen Organen mitgeteilt werden, die Beiträge an die fragliche Massnahme geleistet haben.
 

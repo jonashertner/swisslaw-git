@@ -4,13 +4,13 @@ number: "721.0.1"
 title: Loi sur la protection de la nature et du paysage
 short: LPNat
 language: fr
-version: 2015-07-01
-valid_until: 2021-12-31
-version_adopted: 2014-12-19
+version: 2022-01-01
+valid_until: 2023-09-30
+version_adopted: 2021-10-06
 adopted: 2012-09-12
 in_force: 2014-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/721.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6277/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6944/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Protection de la nature et du paysage – L
 
 (LPNat)
 
-du 12.09.2012 (version entrée en vigueur le 01.07.2015)
+du 12.09.2012 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -672,11 +672,13 @@ Décrète:
 
 <sup>3</sup> Le Conseil d'Etat définit les contraventions cantonales dans les domaines qui ne sont pas déjà visés par le droit fédéral.
 
+<sup>4</sup> Les infractions aux dispositions de la présente loi et à celles de sa réglementation d'exécution que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
+
 #### Art. 58
 
 **Procédure et exécution**
 
-<sup>1</sup> La poursuite et le jugement des infractions en matière de protection de la nature et du paysage ont lieu conformément à la loi sur la justice. Toutefois, pour les contraventions définies par le Conseil d'Etat, les dispositions des articles 54a et suivants de la loi du 14 novembre 1996 sur la chasse et la protection des mammifères, des oiseaux sauvages et de leurs biotopes relatifs à la procédure d'amendes d'ordre s'appliquent par analogie.
+<sup>1</sup> La poursuite et le jugement des infractions en matière de protection de la nature et du paysage ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 <sup>2</sup> Les décisions exécutoires y relatives sont communiquées d'office à l'autorité cantonale ou communale qui a prononcé la mesure de protection; elles peuvent en outre être transmises aux autres organes qui ont versé des subventions en relation avec la mesure en question.
 
