@@ -4,85 +4,101 @@ number: "211.2"
 title: Gesetz zum Schutz der Persönlichkeit
 short: "Persönlichkeitsschutzgesetz, PSchG"
 language: de
-version: 2016-01-01
-corrected: 2021-11-09
-version_adopted: 2015-05-27
+version: 2022-01-01
+valid_until: 2025-02-28
+version_adopted: 2021-09-29
 adopted: 2008-06-25
 in_force: 2008-10-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/211.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/63/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/959/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz zum Schutz der Persönlichkeit (Persönlichkeitsschutzgesetz, PSchG)<sup>7</sup>
+# Gesetz zum Schutz der Persönlichkeit
 
-vom 25. Juni 2008<sup>1</sup>
+(Persönlichkeitsschutzgesetz, PSchG)
+
+vom 25.06.2008 (Stand 01.01.2022)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 28 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)<sup>2</sup>,
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 28 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^ingress-1],
 
 beschliesst:
 
-### I. ALLGEMEINE BESTIMMUNG
+[^ingress-1]: SR 210
+
+## 1 Allgemeine Bestimmung
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz bestimmt die zuständigen Instanzen gemäss der Art. 28 ff. ZGB und regelt das anwendbare Verfahren.
+<sup>1</sup> Dieses Gesetz bestimmt die zuständigen Instanzen gemäss der Art. 28ff. ZGB und regelt das anwendbare Verfahren.
 
 <sup>2</sup> Es regelt die Massnahmen zur Verminderung von Gewalt, Drohungen und Nachstellungen sowie die Zusammenarbeit der damit befassten Stellen.
 
-### II. ZUSTÄNDIGKEIT
+## 2 Zuständigkeit
 
 #### Art. 2
 
-**Kantonsgericht**
+**Kantonsgericht 1. Kollegialgericht**
 
-- 1\. Kollegialgericht<sup>7</sup>
+<sup>1</sup> Das Kantonsgericht als Kollegialgericht ist zuständig für die Beurteilung von Klagen zum Schutz der Persönlichkeit gemäss Art. 28a und 28b ZGB[^2-1].
 
-Das Kantonsgericht als Kollegialgericht ist zuständig für die Beurteilung von Klagen zum Schutz der Persönlichkeit gemäss Art. 28a und 28b ZGB<sup>2</sup>.
+[^2-1]: SR 210
 
 #### Art. 3
 
-**2. Einzelgericht<sup>7</sup>**
+**2. Einzelgericht**
 
-Das Kantonsgericht als Einzelgericht ist zuständig für:
+<sup>1</sup> Das Kantonsgericht als Einzelgericht ist zuständig für:
 
 - 1\. die gerichtliche Beurteilung einer nach Art. 8 angeordneten sofortigen Ausweisung;
+- 2\. die Beurteilung von Klagen betreffend das Recht auf Gegendarstellung gemäss Art. 28l ZGB[^3-1].
 
-- 2\. die Beurteilung von Klagen betreffend das Recht auf Gegendarstellung gemäss Art. 28l ZGB<sup>2</sup>.
+[^3-1]: SR 210
 
 #### Art. 4
 
 **Kantonspolizei**
 
-Die Kantonspolizei ist zuständig für die sofortige Ausweisung gemäss Art. 28b Abs. 4 ZGB<sup>2</sup>.
+<sup>1</sup> Die Kantonspolizei ist zuständig für die sofortige Ausweisung gemäss Art. 28b Abs. 4 ZGB[^4-1].
 
-### III. VERFAHREN
+[^4-1]: SR 210
 
-### A. Gerichtsverfahren
+#### Art. 4a
+
+**Amt**
+
+<sup>1</sup> Das Amt ist zuständig für den Vollzug einer gerichtlich angeordneten elektronischen Überwachung. Es kann mit Dritten zusammenarbeiten.
+
+## 3 Verfahren
+
+### 3.1 Gerichtsverfahren
 
 #### Art. 5
 
-**Grundsatz<sup>7</sup>**
+**Grundsatz**
 
-Soweit dieses Gesetz nichts anderes bestimmt, richtet sich das Verfahren vor den zivilgerichtlichen Behörden nach der Schweizerischen Zivilprozessordnung (ZPO)<sup>8</sup>.
+<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, richtet sich das Verfahren vor den zivilgerichtlichen Behörden nach der Schweizerischen Zivilprozessordnung (ZPO)[^5-1].
+
+[^5-1]: SR 272
 
 #### Art. 6
 
-**…<sup>7</sup>**
+**…**
 
 #### Art. 7
 
-**Anordnung einer Pflichtberatung<sup>7</sup>**
+**Anordnung einer Pflichtberatung**
 
-Mit der Anordnung von vorsorglichen Massnahmen wegen widerrechtlicher Verletzung der Persönlichkeit oder von Massnahmen gemäss Art. 28b ZGB<sup>2</sup> kann die verletzende Person richterlich verpflichtet werden, sich einer Beratung von bestimmter Dauer über den Umgang mit Gewalt zu unterziehen.
+<sup>1</sup> Mit der Anordnung von vorsorglichen Massnahmen wegen widerrechtlicher Verletzung der Persönlichkeit oder von Massnahmen gemäss Art. 28b ZGB[^7-1] kann die verletzende Person richterlich verpflichtet werden, sich einer Beratung von bestimmter Dauer über den Umgang mit Gewalt zu unterziehen.
 
-### B. Sofortige Ausweisung (Art. 28b Abs. 4 ZGB)
+[^7-1]: SR 210
+
+### 3.2 Sofortige Ausweisung (Art. 28b Abs. 4 ZGB)
 
 #### Art. 8
 
@@ -92,9 +108,11 @@ Mit der Anordnung von vorsorglichen Massnahmen wegen widerrechtlicher Verletzung
 
 <sup>2</sup> Die Ausweisung ist schriftlich anzuordnen. Die Polizei händigt die Verfügung den Betroffenen persönlich aus.
 
-<sup>3</sup> Die Polizei nimmt der ausgewiesenen Person alle Schlüssel zur Wohnung oder zum Haus ab. Die ausgewiesene Person erhält die Gelegenheit, die nötigen Gegenstände des persönlichen Bedarfs mitzunehmen.
+Die Polizei nimmt der ausgewiesenen Person alle Schlüssel zur Wohnung oder zum Haus ab. Die ausgewiesene Person erhält die Gelegenheit, die nötigen Gegenstände des persönlichen Bedarfs mitzunehmen.
 
-<sup>4</sup> Die Ausweisung gilt während 14 Tagen ab Mitteilung an die verletzende Person. Sie ergeht unter der Strafandrohung gemäss Art. 292 StGB<sup>4</sup>.
+<sup>3</sup> Die Ausweisung gilt während 14 Tagen ab Mitteilung an die verletzende Person. Sie ergeht unter der Strafandrohung gemäss Art. 292 StGB[^8-1].
+
+[^8-1]: SR 311.0
 
 #### Art. 9
 
@@ -105,18 +123,12 @@ Mit der Anordnung von vorsorglichen Massnahmen wegen widerrechtlicher Verletzung
 <sup>2</sup> Zudem informiert sie:
 
 - 1\. die verletzende Person schriftlich über:
-
-- a) die Möglichkeit der gerichtlichen Überprüfung der polizeilichen Anordnung;
-
-- b) geeignete Beratungsstellen;
-
+  - a) die Möglichkeit der gerichtlichen Überprüfung der polizeilichen Anordnung;
+  - b) geeignete Beratungsstellen;
 - 2\. die verletzte Person schriftlich über:
-
-- a) das Dahinfallen der Ausweisungsmassnahme nach Ablauf der festgelegten Dauer;
-
-- b) die Möglichkeit zur Anrufung des Zivilgerichts;
-
-- c) geeignete Beratungsstellen.
+  - a) das Dahinfallen der Ausweisungsmassnahme nach Ablauf der festgelegten Dauer;
+  - b) die Möglichkeit zur Anrufung des Zivilgerichts;
+  - c) geeignete Beratungsstellen.
 
 <sup>3</sup> Ist eine persönliche Aushändigung an die ausgewiesene Person trotz sachdienlicher Nachforschung nicht möglich, wird sie durch geeignete Bekanntmachung am Ort, wo sie wohnt oder sich gewöhnlich aufhält, aufgefordert, sich sofort bei der Polizei zu melden. Meldet sie sich binnen drei Tagen nicht, wird die Verfügung zusammen mit einem Hinweis auf Abs. 4 Satz 2 im Amtsblatt veröffentlicht.
 
@@ -124,17 +136,17 @@ Mit der Anordnung von vorsorglichen Massnahmen wegen widerrechtlicher Verletzung
 
 #### Art. 10
 
-**Gerichtliche Beurteilung<sup>7</sup>**
+**Gerichtliche Beurteilung**
 
 <sup>1</sup> Die ausgewiesene Person kann binnen 5 Tagen seit Eröffnung der Ausweisungsverfügung diese beim Kantonsgericht als Einzelgericht auf ihre Rechtmässigkeit überprüfen lassen. Das Gesuch um gerichtliche Beurteilung der polizeilichen Ausweisung ist, unter Beilage der Verfügung, schriftlich und begründet einzureichen. Dem Gesuch kommt keine aufschiebende Wirkung zu.
 
-<sup>2</sup> Der Entscheid erfolgt aufgrund der Akten und der Vorbringen. Die erforderlichen Massnahmen zur Feststellung des Sachverhaltes sind von Amtes wegen zu treffen. Es kann eine mündliche Verhandlung durchgeführt werden. Das Kantonsgericht als Einzelgericht erlässt seinen Entscheid binnen 4 Arbeitstagen seit Eingang des Gesuches.<sup>11</sup>
+<sup>2</sup> Der Entscheid erfolgt aufgrund der Akten und der Vorbringen. Die erforderlichen Massnahmen zur Feststellung des Sachverhaltes sind von Amtes wegen zu treffen. Es kann eine mündliche Verhandlung durchgeführt werden. Das Kantonsgericht als Einzelgericht erlässt seinen Entscheid binnen 4 Arbeitstagen seit Eingang des Gesuches.
 
-<sup>3</sup> Gegen den Entscheid des Kantonsgerichts als Einzelgericht kann binnen 5 Tagen Beschwerde beim Obergericht erhoben werden.<sup>11</sup>
+<sup>3</sup> Gegen den Entscheid des Kantonsgerichts als Einzelgericht kann binnen 5 Tagen Beschwerde beim Obergericht erhoben werden.
 
 #### Art. 11
 
-**Verlängerung<sup>7</sup>**
+**Verlängerung**
 
 <sup>1</sup> Hat die verletzte Person binnen 10 Tagen seit Eröffnung der Ausweisungsverfügung um Anordnung einer vorsorglichen Massnahme wegen widerrechtlicher Verletzung der Persönlichkeit beziehungsweise während des Scheidungsverfahrens, einer Massnahme nach Art. 28b oder Art. 175 ff. ZGB ersucht oder ist ein solches Verfahren bereits hängig, verlängert sich die Ausweisung bis zum Entscheid des Gerichts, jedoch längstens um 14 Tage.
 
@@ -148,17 +160,17 @@ Mit der Anordnung von vorsorglichen Massnahmen wegen widerrechtlicher Verletzung
 
 <sup>2</sup> Massnahmen der Zivilrechtspflegeorgane werden durch die Anordnung strafprozessualer Zwangsmassnahmen nicht aufgehoben.
 
-### C. Mitteilungspflichten
+### 3.3 Mitteilungspflichten
 
 #### Art. 13
 
-**Kindes- und Erwachsenenschutzbehörde<sup>10</sup>**
+**Kindes- und Erwachsenenschutzbehörde**
 
-Leben Minderjährige im Haushalt der betroffenen Person, teilt die Polizei die angeordnete Massnahme der Kindes- und Erwachsenenschutzbehörde unverzüglich mit.
+<sup>1</sup> Leben Minderjährige im Haushalt der betroffenen Person, teilt die Polizei die angeordnete Massnahme der Kindes- und Erwachsenenschutzbehörde unverzüglich mit.
 
 #### Art. 14
 
-**Kantonsgericht<sup>7</sup>**
+**Kantonsgericht**
 
 <sup>1</sup> Die Polizei übermittelt die Ausweisungsverfügung unverzüglich dem Kantonsgericht.
 
@@ -170,13 +182,44 @@ Leben Minderjährige im Haushalt der betroffenen Person, teilt die Polizei die a
 
 <sup>1</sup> Die Polizei übermittelt die Ausweisungsverfügung der zuständigen Beratungsstelle.
 
-<sup>2</sup> Das Kantonsgericht informiert die Beratungsstelle über getroffene Massnahmen, sofern nicht vorgängig eine polizeiliche Ausweisung gemäss Art. 8 erfolgt ist.[^15-1]
+<sup>2</sup> Das Kantonsgericht informiert die Beratungsstelle über getroffene Massnahmen, sofern nicht vorgängig eine polizeiliche Ausweisung gemäss Art. 8 erfolgt ist.
 
 <sup>3</sup> Nach Eingang der Mitteilung kontaktiert die Beratungsstelle umgehend je die betroffenen Personen. Lehnen die kontaktierten Personen eine Beratung ab, werden die übermittelten Unterlagen vernichtet.
 
-[^15-1]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+### 3.4 Elektronische Überwachung
 
-### IV. BERATUNGSSTELLEN
+#### Art. 15a
+
+**Anordnung**
+
+<sup>1</sup> Das Gericht prüft vor Anordnung einer elektronischen Überwachung gemäss Art. 28c ZGB[^15a-1] zusammen mit dem Amt deren Vollziehbarkeit.
+
+<sup>2</sup> Die angeordneten Überwachungsmassnahmen ergehen unter der Strafandrohung gemäss Art. 292 StGB[^15a-2].
+
+<sup>3</sup> Das Gericht stellt dem Amt und der Polizei den rechtskräftigen Anordnungsentscheid zu.
+
+[^15a-1]: SR 210
+[^15a-2]: SR 311.0
+
+#### Art. 15b
+
+**Meldepflichten bei Verstössen**
+
+<sup>1</sup> Das Amt teilt dem die elektronische Überwachung anordnenden Gericht die Verstösse gegen die angeordneten Verbote gemäss Art. 28b ZGBB[^15b-1]. beziehungsweise gegen angeordnete Überwachungsmassnahmen gemäss Art. 28c ZGB spätestens am ersten Werktag nach Kenntnisnahme mit.
+
+<sup>2</sup> Das Gericht bringt diese Verstösse bei der Strafverfolgungsbehörde zur Anzeige. Es informiert die Parteien und die Polizei darüber.
+
+[^15b-1]: SR 210
+
+#### Art. 15c
+
+**Datenschutz**
+
+<sup>1</sup> Die aufgezeichneten Daten über die beteiligten Personen dürfen nur zur Durchsetzung der angeordneten Verbote verwendet werden.
+
+<sup>2</sup> Das Amt sorgt dafür, dass die Daten spätestens zwölf Monate nach Abschluss der angeordneten Überwachungsmassnahme gelöscht werden.
+
+## 4 Beratungsstellen
 
 #### Art. 16
 
@@ -198,27 +241,26 @@ Leben Minderjährige im Haushalt der betroffenen Person, teilt die Polizei die a
 
 **Koordination**
 
-Das kantonale Sozialamt koordiniert die Zusammenarbeit der mit Gewalt, Drohung und Nachstellungen befassten Instanzen und Beratungsstellen.
+<sup>1</sup> Das kantonale Sozialamt koordiniert die Zusammenarbeit der mit Gewalt, Drohung und Nachstellungen befassten Instanzen und Beratungsstellen.
 
-### V. KOSTEN
+## 5 Kosten
 
 #### Art. 19
 
 **Sofortige Ausweisung**
 
-Die sofortige Ausweisung nach Art. 28b Abs. 4 ZGB ist kostenlos.
+<sup>1</sup> Die sofortige Ausweisung nach Art. 28b Abs. 4 ZGB ist kostenlos.
 
 #### Art. 20
 
 **Gerichtsverfahren**
 
-<sup>1</sup> Die Verlegung und Bemessung der Prozesskosten richten sich nach Massgabe der ZPO[^20-1] und dem Prozesskostengesetz[^20-2].[^20-3]
+<sup>1</sup> Die Verlegung und Bemessung der Prozesskosten richten sich nach Massgabe der ZPO[^20-1] und dem Prozesskostengesetz[^20-2].
 
 <sup>2</sup> Das Verfahren nach Art. 10 ist kostenpflichtig. Es besteht keine Kostenvorschusspflicht.
 
 [^20-1]: SR 272
-[^20-2]: NG 261.11
-[^20-3]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+[^20-2]: NG 261.2
 
 #### Art. 21
 
@@ -228,15 +270,15 @@ Die sofortige Ausweisung nach Art. 28b Abs. 4 ZGB ist kostenlos.
 
 <sup>2</sup> Die verletzenden Personen tragen die Kosten für die Beratung selber. Der Kanton kann Beiträge leisten.
 
-### VI. SCHLUSSBESTIMMUNGEN
+## 6 Schlussbestimmungen
 
 #### Art. 22
 
 **Aufhebung bisherigen Rechts**
 
-Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Einführungsverordnung vom 29. November 1985 zur Bundesgesetzgebung über den Persönlichkeitsschutz[^22-1].
+<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Einführungsverordnung vom 29. November 1985 zur Bundesgesetzgebung über den Persönlichkeitsschutz[^22-1].
 
-[^22-1]: A 1985,1291
+[^22-1]: A 1985, 1291
 
 #### Art. 23
 
@@ -248,14 +290,6 @@ Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, in
 
 <sup>3</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^23-1] fest.
 
-[^23-1]: A 2008, 1421, 1845; Datum des Inkrafttretens: 1. Oktober 2008; vom Bund genehmigt am 23. September 2008
+[^23-1]: Datum des Inkrafttretens: 1. Oktober 2008; vom Bund genehmigt am 23. September 2008
 
-## Weitere Fussnoten
-
-- [2] SR 210
-- [3] NG 262.1
-- [4] SR 311.0
-- [5] NG 261.11
-- [10] Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1743; A 2012,
-- [558] ; in Kraft seit 1. Januar 2013
-- [11] Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+A 2008, 1421, 1845
