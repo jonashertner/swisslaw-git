@@ -3,11 +3,11 @@ sr: "412.106"
 title: Bundesgesetz vom 25. September 2020 über die Eidgenössische Hochschule für Berufsbildung (EHB-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/414"
 language: de
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2021-414-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-414-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20210801/de"
 
 (EHB-Gesetz)
 
-vom 25. September 2020 (Stand am 1. August 2021)
+vom 25. September 2020 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -253,11 +253,33 @@ Hochschulangehörige sind:
 
 ## 5. Abschnitt: Personal und Rechte an Immaterialgütern
 
-#### Art. 14 und 15
+#### Art. 14
 
-[^1415-1]
+**Arbeitsverhältnisse nach BPG**
 
-[^1415-1]: Treten am 1. Jan. 2022 in Kraft.
+<sup>1</sup> Die Hochschulleitung und das übrige Personal unterstehen dem BPG[^14-1], soweit das vorliegende Gesetz nichts Abweichendes bestimmt.
+
+<sup>2</sup> Die EHB ist Arbeitgeberin im Sinne von Artikel 3 Absatz 2 BPG.
+
+<sup>3</sup> Für Angestellte in Lehr- und Forschungsprojekten sowie für Personen in Projekten, die mit Drittmitteln finanziert werden, kann das Arbeitsverhältnis während längstens neun Jahren wiederholt befristet abgeschlossen und ordentlich gekündigt werden.
+
+[^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 15
+
+**Arbeitsverhältnisse nach OR**
+
+<sup>1</sup>
+
+Die EHB kann die Arbeitsverhältnisse des folgenden Personals dem OR[^15-1] unterstellen:
+
+- a. Doktorandinnen und Doktoranden;
+- b. Angestellte in Projekten, die mit Drittmitteln finanziert werden;
+- c. externe Lehrbeauftragte.
+
+<sup>2</sup> Der Arbeitsvertrag für die Personalkategorien nach Absatz 1 kann, sofern er nach dem OR abgeschlossen wurde, über die Gesamtdauer von längstens neun Jahren wiederholt befristet abgeschlossen und ordentlich gekündigt werden. Wird diese Gesamtdauer überschritten, so gilt der Arbeitsvertrag als unbefristet.
+
+[^15-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 16
 

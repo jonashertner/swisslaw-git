@@ -3,11 +3,11 @@ sr: "412.106"
 title: Legge federale del 25 settembre 2020 sulla Scuola universitaria federale per la formazione professionale (Legge sulla SUFFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/414"
 language: it
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2021-414-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-414-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20210801/it"
 
 (Legge sulla SUFFP)
 
-del 25 settembre 2020 (Stato 1° agosto 2021)
+del 25 settembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -253,11 +253,33 @@ Sono membri della Scuola:
 
 ## Sezione 5: Personale e diritti sui beni immateriali
 
-#### Art. 14 e 15
+#### Art. 14
 
-[^1415-1]
+**Rapporti di lavoro secondo la LPers**
 
-[^1415-1]: In vigore dal 1° gen. 2022.
+<sup>1</sup> La Direzione della Scuola e il resto del personale sottostanno alla LPers[^14-1], per quanto la presente legge non disponga altrimenti.
+
+<sup>2</sup> La SUFFP è il datore di lavoro ai sensi dell’articolo 3 capoverso 2 LPers.
+
+<sup>3</sup> Per gli impiegati attivi in progetti d’insegnamento e di ricerca e per le persone che collaborano a progetti finanziati da terzi, il rapporto di lavoro a tempo determinato può essere rinnovato più volte per una durata complessiva di nove anni al massimo e disdetto secondo la procedura ordinaria.
+
+[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 15
+
+**Rapporti di lavoro secondo il CO**
+
+<sup>1</sup>
+
+La SUFFP può sottoporre al CO[^15-1] i rapporti di lavoro del personale seguente:
+
+- a. dottorandi;
+- b. impiegati che collaborano a progetti finanziati da terzi;
+- c. incaricati di corsi nell’ambito di incarichi d’insegnamento esterni.
+
+<sup>2</sup> Se è stato concluso secondo il CO, il contratto di lavoro a tempo determinato per le categorie di personale di cui al capoverso 1 può essere rinnovato più volte per una durata complessiva di nove anni al massimo e disdetto secondo la procedura ordinaria. Oltre tale durata il contratto di lavoro è considerato di durata indeterminata
+
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 16
 

@@ -3,11 +3,11 @@ sr: "412.106"
 title: Loi fédérale du 25 septembre 2020 sur la Haute école fédérale en formation professionnelle (Loi sur la HEFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/414"
 language: fr
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2021-414-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/414/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-414-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/414/20210801/fr"
 
 (Loi sur la HEFP)
 
-du 25 septembre 2020 (Etat le 1<sup>er</sup> août 2021)
+du 25 septembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -253,11 +253,33 @@ Les personnes relevant de la haute école sont:
 
 ## Section 5 Personnel et droits sur les biens immatériels
 
-#### Art. 14 et 15
+#### Art. 14
 
-[^1415-1]
+**Rapport de travail relevant de la LPers**
 
-[^1415-1]: Entrée en vigueur: 1<sup>er</sup> janv. 2022
+<sup>1</sup> Les membres de la direction et les autres membres du personnel sont soumis à la LPers[^14-1], pour autant que la présente loi n’en dispose pas autrement.
+
+<sup>2</sup> La HEFP est l’employeur au sens de l’art. 3, al. 2, LPers.
+
+<sup>3</sup> Les contrats de travail des employés engagés dans des projets pédagogiques ou de recherche et des personnes participant à des projets financés par des tiers peuvent être conclus pour une durée déterminée et résiliés selon la procédure ordinaire; ils peuvent être renouvelés pendant neuf ans au plus.
+
+[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+
+#### Art. 15
+
+**Rapports de travail relevant du CO**
+
+<sup>1</sup>
+
+La HEFP peut soumettre au CO[^15-1] le contrat de travail du personnel suivant:
+
+- a. doctorants;
+- b. employés participant à des projets financés par des fonds de tiers;
+- c. chargés de cours externes.
+
+<sup>2</sup> Le contrat de travail des personnes visées à l’al. 1 peut, s’il est soumis au CO, être conclu et renouvelé pour une durée déterminée et résilié selon la procédure ordinaire pendant une durée totale de neuf ans au plus. Au-delà de cette durée totale, il est réputé de durée indéterminée.
+
+[^15-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 16
 
