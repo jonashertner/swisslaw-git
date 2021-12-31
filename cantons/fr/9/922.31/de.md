@@ -3,13 +3,13 @@ canton: FR
 number: "922.31"
 title: Verordnung über die Wildruhezone La Berra
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2027-06-30
+version_adopted: 2021-11-23
 adopted: 2013-11-11
 in_force: 2013-12-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/6005/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6983/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6005/pdf_file"
 
 Wildruhezone La Berra – V
 
-vom 11.11.2013 (Fassung in Kraft getreten am 01.04.2019)
+vom 11.11.2013 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -118,27 +118,19 @@ beschliesst:
 
 **Widerhandlungen**
 
-<sup>1</sup> Wer gegen die Pflicht nach Artikel 5 verstösst, wird mit einer Busse gemäss Artikel 54 ff. JaG bestraft.
+<sup>1</sup> Wer gegen die Bedingungen von Artikel 5 verstösst, wird mit einer Busse gemäss Artikel 54 ff. JaG bestraft.
 
 <sup>2</sup> Die Anwendung der Strafbestimmungen, die in der Gesetzgebung über den Natur- und Landschaftsschutz, in der Gesetzgebung über den Strassenverkehr und in der Waldgesetzgebung vorgesehen sind, bleibt vorbehalten.
 
+<sup>3</sup> Widerhandlungen gegen diese Verordnung, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
+
 #### Art. 12a
 
-**Ordnungsbussen**
-
-<sup>1</sup> Wer gegen eine der Pflichten nach den Artikeln 3 und 4 verstösst, wird mit einer Ordnungsbusse gemäss Artikel 54a ff. JaG bestraft.
+**…**
 
 #### Art. 12b
 
-**Pauschalbetrag der Ordnungsbussen**
-
-<sup>1</sup> Es gelten die folgenden Pauschalbeträge für Ordnungsbussen:
-
-<table>
-<tr><th>Nr.</th><th>Verstoss gegen</th><th>Pauschalbetrag</th></tr>
-<tr><td>FR 401</td><td>Pflicht, auf den erlaubten Routen zu bleiben (Art. 3)</td><td>Fr. 100</td></tr>
-<tr><td>FR 402</td><td>Pflicht, Hunde an der Leine zu führen (Art. 4 Abs. 1)</td><td>Fr. 150</td></tr>
-</table>
+**…**
 
 #### Art. 13
 

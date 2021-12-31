@@ -3,13 +3,13 @@ canton: FR
 number: "922.31"
 title: Ordonnance concernant la zone de tranquillité de La Berra
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2027-06-30
+version_adopted: 2021-11-23
 adopted: 2013-11-11
 in_force: 2013-12-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6005/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6983/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6005/pdf_file"
 
 Zone de tranquillité de La Berra - O
 
-du 11.11.2013 (version entrée en vigueur le 01.04.2019)
+du 11.11.2013 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -118,27 +118,19 @@ Arrête:
 
 **Infractions**
 
-<sup>1</sup> La personne qui contrevient à l'obligation énoncée à l'article 5 est passible d'une amende, conformément aux articles 54 et suivants LCha.
+<sup>1</sup> La personne qui contrevient aux obligations énoncées à l'article 5 est passible d'une amende, conformément aux articles 54ss LCha.
 
 <sup>2</sup> L'application des dispositions pénales prévues par la législation sur la protection de la nature et du paysage, par la législation sur la circulation routière ainsi que par la législation sur les forêts demeure réservée.
 
+<sup>3</sup> Les infractions à la présente ordonnance que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
+
 #### Art. 12a
 
-**Amendes d'ordre**
-
-<sup>1</sup> La personne qui contrevient à l'une des obligations énoncées aux articles 3 et 4 est passible d'une amende d'ordre, conformément aux articles 54a et suivants LCha.
+**…**
 
 #### Art. 12b
 
-**Montant forfaitaire des amendes d'ordre**
-
-<sup>1</sup> Le montant forfaitaire des amendes d'ordre est le suivant:
-
-<table>
-<tr><th>No</th><th>Infractions</th><th>Montant forfaitaire</th></tr>
-<tr><td>FR 401</td><td>Obligation de rester sur les itinéraires autorisés (art. 3)</td><td>Fr. 100</td></tr>
-<tr><td>FR 402</td><td>Obligation de tenir les chiens en laisse (art. 4 al. 1)</td><td>Fr. 150</td></tr>
-</table>
+**…**
 
 #### Art. 13
 
