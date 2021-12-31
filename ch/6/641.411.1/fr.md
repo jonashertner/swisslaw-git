@@ -4,11 +4,11 @@ title: "Ordonnance du 15 juin 2007 sur l'imposition de la bière (OIB)"
 short: OIB
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/386"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2007-06-15
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/386/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-386-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/386/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-386-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20130101/fr"
 
 (OIB)
 
-du 15 juin 2007 (Etat le 1<sup>er</sup> janvier 2013)
+du 15 juin 2007 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 43, al. 1, de la loi fédérale du 6 octobre 2006 sur l’imposition
 
 arrête:
 
-[^ingress-1]: RS **641.41****1**
+[^ingress-1]: [RS 641.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8124)
 
 ## Section 1 Dispositions générales
 
@@ -47,7 +47,9 @@ arrête:
 
 <sup>1</sup> La bière ne peut être livrée à des débits situés dans l’enceinte d’une unité de fabrication que dans des récipients. La livraison directe, notamment par une conduite ou à partir d’une cuve de stockage, est interdite.
 
-<sup>2</sup> Sur demande du fabricant, l’Administration fédérale des douanes (administration des douanes) peut autoriser des exceptions si la quantité de bière imposable peut être déterminée avec certitude.
+<sup>2</sup> Sur demande du fabricant, l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^2-1] peut autoriser des exceptions si la quantité de bière imposable peut être déterminée avec certitude.
+
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 2 Tarif de l’impôt
 
@@ -67,9 +69,9 @@ Dans les mélanges de bière visés à l’art. 3, let. b, LIB, la part de sucre
 
 <sup>1</sup> La quantité de bière imposable est calculée d’après le volume des bouteilles récipients-mesures selon l’ordonnance du 5 septembre 2012 sur les déclarations de quantité[^4-1] ou selon la capacité nominale déclarée sur le préemballage. S’il n’est pas possible de procéder ainsi, elle est calculée d’après la capacité de l’emballage.[^4-2]
 
-<sup>2</sup> Sur demande, l’administration des douanes peut autoriser que la quantité de bière imposable soit déterminée d’une autre manière si la perception de l’impôt est garantie.
+<sup>2</sup> Sur demande, l’OFDF peut autoriser que la quantité de bière imposable soit déterminée d’une autre manière si la perception de l’impôt est garantie.
 
-[^4-1]: [RS 941.281](https://fedlex.data.admin.ch/eli/cc/1998/1614_1614_1614)
+[^4-1]: [RS 941.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11175)
 [^4-2]: Nouvelle teneur selon l’art. 39 ch. 1 de l’O du 5 sept. 2012 sur les déclarations de quantité, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
 
 #### Art. 5
@@ -78,9 +80,9 @@ Dans les mélanges de bière visés à l’art. 3, let. b, LIB, la part de sucre
 
 ### (art. 10, al. 1, LIB)
 
-<sup>1</sup> S’il se produit une perte de bière non finie ou finie dans l’unité de fabrication, le fabricant doit en informer immédiatement l’administration des douanes.
+<sup>1</sup> S’il se produit une perte de bière non finie ou finie dans l’unité de fabrication, le fabricant doit en informer immédiatement l’OFDF.
 
-<sup>2</sup> Si de la bière non finie ou finie doit être détruite dans l’unité de fabrication, le fabricant doit en informer préalablement l’administration des douanes.
+<sup>2</sup> Si de la bière non finie ou finie doit être détruite dans l’unité de fabrication, le fabricant doit en informer préalablement l’OFDF.
 
 #### Art. 6
 
@@ -99,7 +101,7 @@ La bière est réputée non destinée à la consommation lorsqu’elle est utili
 
 ### (art. 13, al. 1 et 2, let. b, LIB)
 
-Pour bénéficier de l’exonération en vertu de l’art. 13, al. 1 et 2, let. b, LIB, la personne assujettie à l’impôt doit présenter sa demande à l’administration des douanes avant la naissance de la créance fiscale.
+Pour bénéficier de l’exonération en vertu de l’art. 13, al. 1 et 2, let. b, LIB, la personne assujettie à l’impôt doit présenter sa demande à l’OFDF avant la naissance de la créance fiscale.
 
 #### Art. 8
 
@@ -119,9 +121,9 @@ Pour bénéficier de l’exonération en vertu de l’art. 13, al. 1 et 2, let. 
 
 ### (art. 14, al. 1, 4 et 5, LIB)
 
-<sup>1</sup> Si un fabricant produit de la bière pour la première fois, l’administration des douanes fixe provisoirement l’impôt sur la production annuelle présumée.
+<sup>1</sup> Si un fabricant produit de la bière pour la première fois, l’OFDF fixe provisoirement l’impôt sur la production annuelle présumée.
 
-<sup>2</sup> Si la fixation provisoire de l’impôt se révèle inexacte au vu de la production annuelle effective, l’administration des douanes fixe définitivement l’impôt l’année suivante.
+<sup>2</sup> Si la fixation provisoire de l’impôt se révèle inexacte au vu de la production annuelle effective, l’OFDF fixe définitivement l’impôt l’année suivante.
 
 <sup>3</sup> Pour les mélanges de bière visés à l’art. 3, let. b, LIB, la quantité de bière déterminante est calculée d’après les pourcentages mentionnés dans la recette au moment de la mise à la consommation de la bière.
 
@@ -149,7 +151,7 @@ Pour bénéficier de l’exonération en vertu de l’art. 13, al. 1 et 2, let. 
 
 Une unité de fabrication est réputée juridiquement indépendante:
 
-- a. si aucune autre unité de fabrication ne détient plus de 49,9 % de ses parts; ou
+- a. si aucune autre unité de fabrication ne détient plus de 49,9 % de ses parts, ou
 - b. si elle constitue sur les plans juridique et organisationnel une filiale indépendante d’une société holding.
 
 <sup>2</sup> Une unité de fabrication est réputée économiquement indépendante si elle peut négocier de façon autonome et exercer toutes les fonctions déterminantes en matière d’exploitation de façon autonome.
@@ -174,11 +176,11 @@ La bière est réputée fabriquée sous licence lorsqu’une unité de fabricati
 
 ### (art. 17 LIB)
 
-<sup>1</sup> La déclaration fiscale doit être présentée à l’administration des douanes sur formulaire officiel.
+<sup>1</sup> La déclaration fiscale doit être présentée à l’OFDF sur formulaire officiel.
 
-<sup>2</sup> Moyennant autorisation de l’administration des douanes, l’utilisation du formulaire officiel n’est pas nécessaire si les indications fournies correspondent au contenu de ce dernier.
+<sup>2</sup> Moyennant autorisation de l’OFDF, l’utilisation du formulaire officiel n’est pas nécessaire si les indications fournies correspondent au contenu de ce dernier.
 
-<sup>3</sup> L’administration des douanes peut autoriser la déclaration fiscale par voie électronique à la même condition.
+<sup>3</sup> L’OFDF peut autoriser la déclaration fiscale par voie électronique à la même condition.
 
 #### Art. 14
 
@@ -186,7 +188,7 @@ La bière est réputée fabriquée sous licence lorsqu’une unité de fabricati
 
 ### (art. 18 LIB)
 
-L’administration des douanes peut ne pas percevoir l’impôt si les frais de perception sont manifestement supérieurs au montant de l’impôt.
+L’OFDF peut ne pas percevoir l’impôt si les frais de perception sont manifestement supérieurs au montant de l’impôt.
 
 #### Art. 15
 
@@ -210,7 +212,7 @@ Si un fabricant retire de la bière imposée de la vente et la reprend dans l’
 
 ### (art. 27 LIB)
 
-L’administration des douanes fixe le montant des sûretés; à cet effet, elle tient compte de la quantité présumée de bière mise à la consommation par l’unité de fabrication.
+L’OFDF fixe le montant des sûretés; à cet effet, il tient compte de la quantité présumée de bière mise à la consommation par l’unité de fabrication.
 
 #### Art. 18
 
@@ -218,19 +220,19 @@ L’administration des douanes fixe le montant des sûretés; à cet effet, elle
 
 ### (art. 28 LIB)
 
-<sup>1</sup> Le fabricant doit stocker la bière conditionnée de telle façon que les contrôles de l’administration des douanes soient possibles sans restrictions.
+<sup>1</sup> Le fabricant doit stocker la bière conditionnée de telle façon que les contrôles de l’OFDF soient possibles sans restrictions.
 
-<sup>2</sup> Il doit tenir des relevés relatifs aux mouvements de matières premières à brasser et à leur consommation, à la fabrication de la bière, à l’entreposage, au conditionnement de la bière et à la remise de la bière non finie et finie. L’administration des douanes peut prescrire la forme de ces relevés.
+<sup>2</sup> Il doit tenir des relevés relatifs aux mouvements de matières premières à brasser et à leur consommation, à la fabrication de la bière, à l’entreposage, au conditionnement de la bière et à la remise de la bière non finie et finie. L’OFDF peut prescrire la forme de ces relevés.
 
-<sup>3</sup> Le fabricant doit déterminer les stocks de matières premières à brasser et de bière non finie et finie disponibles dans l’unité de fabrication à la fin de l’année brassicole ou de l’année civile et les annoncer sur formulaire officiel à l’administration des douanes dans le mois qui suit.
+<sup>3</sup> Le fabricant doit déterminer les stocks de matières premières à brasser et de bière non finie et finie disponibles dans l’unité de fabrication à la fin de l’année brassicole ou de l’année civile et les annoncer sur formulaire officiel à l’OFDF dans le mois qui suit.
 
 #### Art. 19
 
-**Prélèvement d’échantillons par l’administration des douanes**
+**Prélèvement d’échantillons par l’OFDF**
 
 ### (art. 28, al. 4, LIB)
 
-Dans le cadre de la surveillance fiscale, l’administration des douanes peut prélever gratuitement, en vue d’analyse, des échantillons de boissons qui sont passibles de l’impôt sur la bière ou pourraient l’être, ainsi que de matières utilisées pour la fabrication de ces marchandises.
+Dans le cadre de la surveillance fiscale, l’OFDF peut prélever gratuitement, en vue d’analyse, des échantillons de boissons qui sont passibles de l’impôt sur la bière ou pourraient l’être, ainsi que de matières utilisées pour la fabrication de ces marchandises.
 
 ## Section 4 Statistiques, émoluments et intérêt moratoire
 
@@ -238,17 +240,17 @@ Dans le cadre de la surveillance fiscale, l’administration des douanes peut pr
 
 **Statistiques**
 
-<sup>1</sup> L’administration des douanes peut utiliser les données relatives aux quantités de bière imposées à des fins statistiques. Elle respecte les exigences de la protection des données.
+<sup>1</sup> L’OFDF peut utiliser les données relatives aux quantités de bière imposées à des fins statistiques. Il respecte les exigences de la protection des données.
 
-<sup>2</sup> Elle peut publier les statistiques.
+<sup>2</sup> Il peut publier les statistiques.
 
 #### Art. 21
 
-**Emoluments**
+**Émoluments**
 
-La perception d’émoluments est régie par l’annexe de l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^21-1].
+La perception d’émoluments est régie par l’annexe de l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^21-1].
 
-[^21-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^21-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
 #### Art. 22
 
@@ -258,7 +260,7 @@ La perception d’émoluments est régie par l’annexe de l’ordonnance du 4 a
 
 <sup>1</sup> Le Département fédéral des finances fixe le montant jusqu’à concurrence duquel aucun intérêt moratoire n’est perçu.
 
-<sup>2</sup> Sur demande, l’administration des douanes peut ne pas percevoir l’intérêt moratoire dans les cas où le paiement constituerait une charge économique ou sociale considérable pour le fabricant.
+<sup>2</sup> Sur demande, l’OFDF peut ne pas percevoir l’intérêt moratoire dans les cas où le paiement constituerait une charge économique ou sociale considérable pour le fabricant.
 
 ## Section 5 Dispositions finales
 
@@ -271,8 +273,8 @@ Les ordonnances mentionnées ci-après sont abrogées:
 - 1\. règlement d’exécution du 27 novembre 1934 de l’arrêté du Conseil fédéral du 4 août 1934 concernant un impôt fédéral sur les boissons[^23-1];
 - 2\. ordonnance du 25 novembre 1998 fixant le taux de l’impôt sur la bière[^23-2].
 
-[^23-1]: [RS **6** 285; [RO 1974 1955](https://fedlex.data.admin.ch/eli/oc/1974/1955_1955_1955), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 27]
-[^23-2]: [[RO 1999 196](https://fedlex.data.admin.ch/eli/oc/1999/26), [2001 3381](https://fedlex.data.admin.ch/eli/oc/2001/505)]
+[^23-1]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)285. [RO 1974 1955](https://fedlex.data.admin.ch/eli/oc/1974/1955_1955_1955); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 27]
+[^23-2]: [[RO 1999 196](https://fedlex.data.admin.ch/eli/oc/1999/26); [2001 3381](https://fedlex.data.admin.ch/eli/oc/2001/505)]
 
 #### Art. 24
 

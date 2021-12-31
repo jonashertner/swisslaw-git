@@ -4,11 +4,11 @@ title: "Ordinanza del 15 giugno 2007 sull'imposizione della birra (OIBir)"
 short: OIBir
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/386"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2007-06-15
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/386/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2007-386-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/386/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-386-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20130101/it"
 
 (OIBir)
 
-del 15 giugno 2007 (Stato 1° gennaio 2013)
+del 15 giugno 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 43 capoverso 1 della legge del 6 ottobre 2006[^ingress-1] sul
 
 ordina:
 
-[^ingress-1]: [RS 641.411](https://fedlex.data.admin.ch/eli/cc/2007/385)
+[^ingress-1]: [RS 641.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8124)
 
 ## Sezione 1: Disposizioni generali
 
@@ -47,7 +47,9 @@ ordina:
 
 <sup>1</sup> Nei locali di mescita uniti agli stabilimenti di fabbricazione la birra può essere fornita solo in recipienti. La fornitura diretta, segnatamente tramite tubazioni o da serbatoio di stoccaggio, è di principio vietata.
 
-<sup>2</sup> Su richiesta del fabbricante, l’Amministrazione federale delle dogane (Amministrazione delle dogane) può accordare deroghe se la quantità di birra soggetta a imposta può essere inequivocabilmente determinata.
+<sup>2</sup> Su richiesta del fabbricante, Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^2-1] può accordare deroghe se la quantità di birra soggetta a imposta può essere inequivocabilmente determinata.
+
+[^2-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Sezione 2: Tariffa d’imposta
 
@@ -67,10 +69,10 @@ Per il calcolo del tenore di mosto iniziale delle miscele di birra ai sensi dell
 
 <sup>1</sup> La quantità di birra soggetta a imposta è calcolata sulla base delle bottiglie impiegate come recipienti di misura giusta l’ordinanza del 5 settembre 2012[^4-1] sulle indicazioni di quantità o della quantità nominale dichiarata sull’imballaggio preconfezionato; qualora ciò non fosse possibile, il calcolo si basa sulla capacità dell’imballaggio.[^4-2]
 
-<sup>2</sup> Su richiesta, l’Amministrazione delle dogane può autorizzare che il calcolo della quantità di birra soggetta a imposta venga effettuato in altro modo, a condizione che la riscossione dell’imposta sia garantita.
+<sup>2</sup> Su richiesta, l’UDSC può autorizzare che il calcolo della quantità di birra soggetta a imposta venga effettuato in altro modo, a condizione che la riscossione dell’imposta sia garantita.
 
-[^4-1]: [RS 941.204](https://fedlex.data.admin.ch/eli/cc/2012/607)
-[^4-2]: Nuovo testo giusta l’art. 39 n. 1 dell'O del 5 set. 2012 sulle indicazioni di quantità, in vigore dal 1° gen. 2013 ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
+[^4-1]: [RS 941.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11175)
+[^4-2]: Nuovo testo giusta l’art. 39 n. 1 dell’O del 5 set. 2012 sulle indicazioni di quantità, in vigore dal 1° gen. 2013 ([RU 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
 
 #### Art. 5
 
@@ -78,9 +80,9 @@ Per il calcolo del tenore di mosto iniziale delle miscele di birra ai sensi dell
 
 ### (art. 10 cpv. 1 LIB)
 
-<sup>1</sup> Il fabbricante deve comunicare immediatamente all’Amministrazione delle dogane se nello stabilimento di fabbricazione si è verificata una perdita della birra pronta da bere o non ancora pronta.
+<sup>1</sup> Il fabbricante deve comunicare immediatamente all’UDSC nello stabilimento di fabbricazione si è verificata una perdita della birra pronta da bere o non ancora pronta.
 
-<sup>2</sup> Il fabbricante deve comunicare previamente all’Amministrazione delle dogane se all’interno dello stabilimento di fabbricazione la birra pronta da bere o non ancora pronta deve essere eliminata.
+<sup>2</sup> Il fabbricante deve comunicare previamente all’UDSC se all’interno dello stabilimento di fabbricazione la birra pronta da bere o non ancora pronta deve essere eliminata.
 
 #### Art. 6
 
@@ -99,7 +101,7 @@ La birra non è destinata a scopo voluttuario se è utilizzata:
 
 ### (art. 13 cpv. 1 e 2 lett. b LIB)
 
-Per la birra esente dall’imposta ai sensi dell’articolo 13 capoversi 1 e 2 lettera b LIB, il contribuente deve chiedere l’esenzione all’Amministrazione delle dogane prima del sorgere del credito fiscale.
+Per la birra esente dall’imposta ai sensi dell’articolo 13 capoversi 1 e 2 lettera b LIB, il contribuente deve chiedere l’esenzione all’UDSC prima del sorgere del credito fiscale.
 
 #### Art. 8
 
@@ -119,9 +121,9 @@ Per la birra esente dall’imposta ai sensi dell’articolo 13 capoversi 1 e 2 l
 
 ### (art. 14 cpv. 1, 4 e 5 LIB)
 
-<sup>1</sup> Se il fabbricante produce birra per la prima volta, l’Amministrazione delle dogane fonda la determinazione provvisoria dell’imposta sulla presunta produzione annua.
+<sup>1</sup> Se il fabbricante produce birra per la prima volta, l’UDSC fonda la determinazione provvisoria dell’imposta sulla presunta produzione annua.
 
-<sup>2</sup> Qualora, sulla base dell’effettiva produzione annua, la determinazione provvisoria dell’imposta risulti errata, l’Amministrazione delle dogane fissa definitivamente l’imposta l’anno successivo.
+<sup>2</sup> Qualora, sulla base dell’effettiva produzione annua, la determinazione provvisoria dell’imposta risulti errata, l’UDSC fissa definitivamente l’imposta l’anno successivo.
 
 <sup>3</sup> In caso di miscele di birra ai sensi dell’articolo 3 lettera b LIB, la quantità determinante di birra è calcolata sulla base delle percentuali indicate nella ricetta al momento dell’immissione della birra in libero consumo.
 
@@ -174,11 +176,11 @@ Uno stabilimento di fabbricazione è considerato giuridicamente autonomo se:
 
 ### (art. 17 LIB)
 
-<sup>1</sup> La dichiarazione fiscale deve essere presentata all’Amministrazione delle dogane su modulo ufficiale.
+<sup>1</sup> La dichiarazione fiscale deve essere presentata all’UDSC su modulo ufficiale.
 
-<sup>2</sup> Previa autorizzazione dell’Amministrazione delle dogane, è possibile rinunciare all’utilizzazione del modulo ufficiale, a condizione che il contenuto delle indicazioni fornite corrisponda a quello del modello ufficiale.
+<sup>2</sup> Previa autorizzazione dell’UDSC, è possibile rinunciare all’utilizzazione del modulo ufficiale, a condizione che il contenuto delle indicazioni fornite corrisponda a quello del modello ufficiale.
 
-<sup>3</sup> L’Amministrazione delle dogane può, alle stesse condizioni, autorizzare la dichiarazione fiscale elettronica.
+<sup>3</sup> L’UDSC può, alle stesse condizioni, autorizzare la dichiarazione fiscale elettronica.
 
 #### Art. 14
 
@@ -186,7 +188,7 @@ Uno stabilimento di fabbricazione è considerato giuridicamente autonomo se:
 
 ### (art. 18 LIB)
 
-L’Amministrazione delle dogane può rinunciare alla riscossione dell’imposta se le spese di riscossione superano chiaramente l’importo dell’imposta.
+L’UDSC può rinunciare alla riscossione dell’imposta se le spese di riscossione superano chiaramente l’importo dell’imposta.
 
 #### Art. 15
 
@@ -210,7 +212,7 @@ Se il fabbricante ritira la birra tassata (birra di ritorno), l’imposta è res
 
 ### (art. 27 LIB)
 
-L’Amministrazione delle dogane fissa l’importo della garanzia; essa tiene conto della presunta quantità di birra immessa in libero consumo dallo stabilimento di fabbricazione.
+L’UDSC fissa l’importo della garanzia; questo tiene conto della presunta quantità di birra immessa in libero consumo dallo stabilimento di fabbricazione.
 
 #### Art. 18
 
@@ -218,19 +220,19 @@ L’Amministrazione delle dogane fissa l’importo della garanzia; essa tiene co
 
 ### (art. 28 LIB)
 
-<sup>1</sup> Il fabbricante deve immagazzinare la birra travasata in modo da consentire all’Amministrazione delle dogane di effettuare controlli senza restrizioni.
+<sup>1</sup> Il fabbricante deve immagazzinare la birra travasata in modo da consentire all’UDSC di effettuare controlli senza restrizioni.
 
-<sup>2</sup> Il fabbricante deve registrare i movimenti e il consumo delle materie prime per la birrificazione, la fabbricazione della birra, l’immagazzinamento, la birra travasata e la consegna di birra pronta da bere e non ancora pronta. L’Amministrazione delle dogane può prescrivere la forma delle registrazioni.
+<sup>2</sup> Il fabbricante deve registrare i movimenti e il consumo delle materie prime per la birrificazione, la fabbricazione della birra, l’immagazzinamento, la birra travasata e la consegna di birra pronta da bere e non ancora pronta. L’UDSC può prescrivere la forma delle registrazioni.
 
-<sup>3</sup> Alla fine dell’anno civile o di fabbricazione il fabbricante deve stabilire le scorte, presenti nello stabilimento di fabbricazione, di materie prime per la birrificazione nonché di birra pronta da bere e non ancora pronta e comunicarle all’Amministrazione delle dogane il mese successivo mediante modulo ufficiale.
+<sup>3</sup> Alla fine dell’anno civile o di fabbricazione il fabbricante deve stabilire le scorte, presenti nello stabilimento di fabbricazione, di materie prime per la birrificazione nonché di birra pronta da bere e non ancora pronta e comunicarle all’UDSC e il mese successivo mediante modulo ufficiale.
 
 #### Art. 19
 
-**Prelievo di campioni da parte dell’Amministrazione delle dogane**
+**Prelievo di campioni da parte dell’UDSC**
 
 ### (art. 28 cpv. 4 LIB)
 
-Nell’ambito della vigilanza fiscale delle bevande che soggiacciono o possono soggiacere all’imposta sulla birra nonché delle sostanze destinate alla fabbricazione di queste merci, l’Amministrazione delle dogane può prelevare gratuitamente campioni per analisi.
+Nell’ambito della vigilanza fiscale delle bevande che soggiacciono o possono soggiacere all’imposta sulla birra nonché delle sostanze destinate alla fabbricazione di queste merci, l’UDSC può prelevare gratuitamente campioni per analisi.
 
 ## Sezione 4: Statistiche, tasse e interesse moratorio
 
@@ -238,17 +240,17 @@ Nell’ambito della vigilanza fiscale delle bevande che soggiacciono o possono s
 
 **Statistiche**
 
-<sup>1</sup> L’Amministrazione delle dogane può utilizzare a scopi statistici le indicazioni relative alla quantità di birra tassata. Essa tiene conto delle esigenze in materia di protezione dei dati.
+<sup>1</sup> L’UDSC può utilizzare a scopi statistici le indicazioni relative alla quantità di birra tassata. Essa tiene conto delle esigenze in materia di protezione dei dati.
 
-<sup>2</sup> L’Amministrazione delle dogane può pubblicare le statistiche.
+<sup>2</sup> L’UDSC può pubblicare le statistiche.
 
 #### Art. 21
 
 **Tasse**
 
-La riscossione delle tasse si fonda sull’ordinanza del 4 aprile 2007[^21-1] sugli emolumenti dell’Amministrazione federale delle dogane.
+La riscossione delle tasse si fonda sull’ordinanza del 4 aprile 2007[^21-1] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-[^21-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^21-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
 #### Art. 22
 
@@ -258,7 +260,7 @@ La riscossione delle tasse si fonda sull’ordinanza del 4 aprile 2007[^21-1] su
 
 <sup>1</sup> Il Dipartimento federale delle finanze determina l’importo entro il quale non è riscosso alcun interesse moratorio.
 
-<sup>2</sup> Su richiesta, l’Amministrazione delle dogane può rinunciare alla riscossione dell’interesse moratorio se il pagamento comporta notevoli difficoltà economiche o sociali per il fabbricante.
+<sup>2</sup> Su richiesta, l’UDSC può rinunciare alla riscossione dell’interesse moratorio se il pagamento comporta notevoli difficoltà economiche o sociali per il fabbricante.
 
 ## Sezione 5: Disposizioni finali
 
@@ -271,8 +273,8 @@ I testi legislativi qui appresso sono abrogati:
 - 1\. decreto del Consiglio federale del 27 novembre 1934[^23-1] esecutivo del decreto del Consiglio federale del 4 agosto 1934 concernente un’imposta federale sulle bevande;
 - 2\. ordinanza del 25 novembre 1998[^23-2] concernente l’aliquota dell’imposta sulla birra.
 
-[^23-1]: [CS **6** 289; [RU 1974 1955](https://fedlex.data.admin.ch/eli/oc/1974/1955_1955_1955), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 27]
-[^23-2]: [[RU 1999 196](https://fedlex.data.admin.ch/eli/oc/1999/26), [2001 3381](https://fedlex.data.admin.ch/eli/oc/2001/505)]
+[^23-1]: [CS **6** 289. [RU 1974 1955](https://fedlex.data.admin.ch/eli/oc/1974/1955_1955_1955); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 27]
+[^23-2]: [[RU 1999 196](https://fedlex.data.admin.ch/eli/oc/1999/26); [2001 3381](https://fedlex.data.admin.ch/eli/oc/2001/505)]
 
 #### Art. 24
 

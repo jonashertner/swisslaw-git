@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Juni 2007 über die Biersteuer (Biersteuerverordnung,
 short: BStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/386"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2007-06-15
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/386/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2007-386-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/386/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-386-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/386/20130101/de"
 
 (Biersteuerverordnung, BStV)
 
-vom 15. Juni 2007 (Stand am 1. Januar 2013)
+vom 15. Juni 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 43 Absatz 1 des Biersteuergesetzes vom 6. Oktober 2006[^in
 
 verordnet:
 
-[^ingress-1]: [SR 641.411](https://fedlex.data.admin.ch/eli/cc/2007/385)
+[^ingress-1]: [SR 641.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8124)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -47,7 +47,9 @@ verordnet:
 
 <sup>1</sup> In Ausschankräumen, die mit einem Herstellungsbetrieb örtlich verbunden sind, darf Bier nur in Gebinden angeliefert werden. Die direkte Anlieferung, namentlich über Rohrleitung oder ab Lagertank, ist grundsätzlich verboten.
 
-<sup>2</sup> Die Eidgenössische Zollverwaltung (Zollverwaltung) kann auf Antrag der Herstellerin oder des Herstellers Ausnahmen bewilligen, wenn die steuerpflichtige Biermenge zweifelsfrei ermittelt werden kann.
+<sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^2-1] kann auf Antrag der Herstellerin oder des Herstellers Ausnahmen bewilligen, wenn die steuerpflichtige Biermenge zweifelsfrei ermittelt werden kann.
+
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ## 2. Abschnitt: Steuertarif
 
@@ -67,9 +69,9 @@ Bei Mischungen von Bier nach Artikel 3 Buchstabe b BStG wird für die Berechnung
 
 <sup>1</sup> Die steuerpflichtige Biermenge bemisst sich nach dem Volumen der Massbehältnis-Flaschen gemäss der Mengenangabeverordnung vom 5. September 2012[^4-1] oder der auf der Fertigpackung deklarierten Nennfüllmenge; wo dies nicht möglich ist, wird sie nach dem Raumgehalt der Umschliessung bemessen.[^4-2]
 
-<sup>2</sup> Die Zollverwaltung kann auf Antrag zulassen, dass die steuerpflichtige Biermenge auf andere Weise ermittelt wird, wenn die Erhebung der Steuer sichergestellt ist.
+<sup>2</sup> Das BAZG kann auf Antrag zulassen, dass die steuerpflichtige Biermenge auf andere Weise ermittelt wird, wenn die Erhebung der Steuer sichergestellt ist.
 
-[^4-1]: [SR 941.204](https://fedlex.data.admin.ch/eli/cc/2012/607)
+[^4-1]: [SR 941.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11175)
 [^4-2]: Fassung gemäss Art. 39 Ziff. 1 der Mengenangabeverordnung vom 5. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5275](https://fedlex.data.admin.ch/eli/oc/2012/607)).
 
 #### Art. 5
@@ -78,9 +80,9 @@ Bei Mischungen von Bier nach Artikel 3 Buchstabe b BStG wird für die Berechnung
 
 ### (Art. 10 Abs. 1 BStG)
 
-<sup>1</sup> Ist unfertiges oder fertiges Bier im Herstellungsbetrieb untergegangen, so muss die Herstellerin oder der Hersteller dies unverzüglich der Zollverwaltung melden.
+<sup>1</sup> Ist unfertiges oder fertiges Bier im Herstellungsbetrieb untergegangen, so muss die Herstellerin oder der Hersteller dies unverzüglich dem BAZG melden.
 
-<sup>2</sup> Soll unfertiges oder fertiges Bier im Herstellungsbetrieb vernichtet werden, so muss die Herstellerin oder der Hersteller dies vorgängig der Zollverwaltung melden.
+<sup>2</sup> Soll unfertiges oder fertiges Bier im Herstellungsbetrieb vernichtet werden, so muss die Herstellerin oder der Hersteller dies vorgängig dem BAZG melden.
 
 #### Art. 6
 
@@ -99,7 +101,7 @@ Bier ist nicht zu Genusszwecken bestimmt, wenn es verwendet wird:
 
 ### (Art. 13 Abs. 1 und 2 Bst. b BStG)
 
-Für Bier, das nach Artikel 13 Absätze 1 und 2 Buchstabe b BStG von der Steuer befreit ist, muss die steuerpflichtige Person der Zollverwaltung die Steuerbefreiung vor Entstehung der Steuerforderung beantragen.
+Für Bier, das nach Artikel 13 Absätze 1 und 2 Buchstabe b BStG von der Steuer befreit ist, muss die steuerpflichtige Person dem BAZG die Steuerbefreiung vor Entstehung der Steuerforderung beantragen.
 
 #### Art. 8
 
@@ -119,9 +121,9 @@ Für Bier, das nach Artikel 13 Absätze 1 und 2 Buchstabe b BStG von der Steuer 
 
 ### (Art. 14 Abs. 1, 4 und 5 BStG)
 
-<sup>1</sup> Nimmt eine Herstellerin oder ein Hersteller erstmals die Bierherstellung auf, so legt die Zollverwaltung die mutmassliche Jahresproduktion der vorläufigen Steuerfestsetzung zugrunde.
+<sup>1</sup> Nimmt eine Herstellerin oder ein Hersteller erstmals die Bierherstellung auf, so legt das BAZG die mutmassliche Jahresproduktion der vorläufigen Steuerfestsetzung zugrunde.
 
-<sup>2</sup> Erweist sich die vorläufige Steuerfestsetzung aufgrund der tatsächlichen Jahresproduktion als unrichtig, so setzt die Zollverwaltung die Steuer im Folgejahr endgültig fest.
+<sup>2</sup> Erweist sich die vorläufige Steuerfestsetzung aufgrund der tatsächlichen Jahresproduktion als unrichtig, so setzt das BAZG die Steuer im Folgejahr endgültig fest.
 
 <sup>3</sup> Bei Mischungen von Bier nach Artikel 3 Buchstabe b BStG wird die massgebende Biermenge nach den in der Rezeptur enthaltenen Anteilen im Zeitpunkt der Überführung des Biers in den steuerrechtlich freien Verkehr ermittelt.
 
@@ -174,11 +176,11 @@ In Lizenz hergestelltes Bier liegt vor, wenn ein Herstellungsbetrieb Bier nach d
 
 ### (Art. 17 BStG)
 
-<sup>1</sup> Die Steueranmeldung muss der Zollverwaltung auf amtlichem Formular eingereicht werden.
+<sup>1</sup> Die Steueranmeldung muss dem BAZG auf amtlichem Formular eingereicht werden.
 
-<sup>2</sup> Auf die Verwendung des amtlichen Formulars kann mit Bewilligung der Zollverwaltung verzichtet werden, wenn die Angaben inhaltlich dem amtlichen Vordruck entsprechen.
+<sup>2</sup> Auf die Verwendung des amtlichen Formulars kann mit Bewilligung des BAZG verzichtet werden, wenn die Angaben inhaltlich dem amtlichen Vordruck entsprechen.
 
-<sup>3</sup> Unter der gleichen Voraussetzung kann die Zollverwaltung die elektronische Steueranmeldung bewilligen.
+<sup>3</sup> Unter der gleichen Voraussetzung kann das BAZG die elektronische Steueranmeldung bewilligen.
 
 #### Art. 14
 
@@ -186,7 +188,7 @@ In Lizenz hergestelltes Bier liegt vor, wenn ein Herstellungsbetrieb Bier nach d
 
 ### (Art. 18 BStG)
 
-Die Zollverwaltung kann auf die Erhebung der Steuer verzichten, wenn der Erhebungsaufwand den Steuerbetrag offensichtlich übersteigt.
+Das BAZG kann auf die Erhebung der Steuer verzichten, wenn der Erhebungsaufwand den Steuerbetrag offensichtlich übersteigt.
 
 #### Art. 15
 
@@ -210,7 +212,7 @@ Nimmt eine Herstellerin oder ein Hersteller versteuertes Bier in den Herstellung
 
 ### (Art. 27 BStG)
 
-Die Zollverwaltung legt die Höhe der Sicherheitsleistung fest; sie berücksichtigt dabei die Biermenge, die vom Herstellungsbetrieb voraussichtlich in den steuerrechtlich freien Verkehr übergeführt wird.
+Das BAZG legt die Höhe der Sicherheitsleistung fest; es berücksichtigt dabei die Biermenge, die vom Herstellungsbetrieb voraussichtlich in den steuerrechtlich freien Verkehr übergeführt wird.
 
 #### Art. 18
 
@@ -218,19 +220,19 @@ Die Zollverwaltung legt die Höhe der Sicherheitsleistung fest; sie berücksicht
 
 ### (Art. 28 BStG)
 
-<sup>1</sup> Die Herstellerin oder der Hersteller muss abgefülltes Bier so lagern, dass Kontrollen der Zollverwaltung uneingeschränkt möglich sind.
+<sup>1</sup> Die Herstellerin oder der Hersteller muss abgefülltes Bier so lagern, dass Kontrollen des BAZG uneingeschränkt möglich sind.
 
-<sup>2</sup> Sie oder er muss Aufzeichnungen führen über die Bewegungen von Braurohstoffen und deren Verbrauch, die Bierherstellung, die Lagerung, das abgefüllte Bier und die Abgabe von unfertigem und fertigem Bier. Die Zollverwaltung kann die Form der Aufzeichnungen vorschreiben.
+<sup>2</sup> Sie oder er muss Aufzeichnungen führen über die Bewegungen von Braurohstoffen und deren Verbrauch, die Bierherstellung, die Lagerung, das abgefüllte Bier und die Abgabe von unfertigem und fertigem Bier. Das BAZG kann die Form der Aufzeichnungen vorschreiben.
 
-<sup>3</sup> Die Herstellerin oder der Hersteller muss auf Ende des Brau- oder Kalenderjahrs die im Herstellungsbetrieb vorhandenen Bestände an Braurohstoffen sowie von unfertigem und fertigem Bier feststellen und der Zollverwaltung auf amtlichem Formular im Folgemonat melden.
+<sup>3</sup> Die Herstellerin oder der Hersteller muss auf Ende des Brau- oder Kalenderjahrs die im Herstellungsbetrieb vorhandenen Bestände an Braurohstoffen sowie von unfertigem und fertigem Bier feststellen und dem BAZG auf amtlichem Formular im Folgemonat melden.
 
 #### Art. 19
 
-**Probeentnahme durch die Zollverwaltung**
+**Probeentnahme durch das BAZG**
 
 ### (Art. 28 Abs. 4 BStG)
 
-Die Zollverwaltung kann im Rahmen der Steueraufsicht von Getränken, die der Biersteuer unterliegen oder unterliegen können, sowie von Stoffen, die zur Herstellung solcher Waren bestimmt sind, unentgeltlich Proben zur Untersuchung entnehmen.
+Das BAZG kann im Rahmen der Steueraufsicht von Getränken, die der Biersteuer unterliegen oder unterliegen können, sowie von Stoffen, die zur Herstellung solcher Waren bestimmt sind, unentgeltlich Proben zur Untersuchung entnehmen.
 
 ## 4. Abschnitt: Statistiken, Gebühren und Verzugszins
 
@@ -238,17 +240,17 @@ Die Zollverwaltung kann im Rahmen der Steueraufsicht von Getränken, die der Bie
 
 **Statistiken**
 
-<sup>1</sup> Die Zollverwaltung kann die Angaben über die versteuerte Biermenge zu statistischen Zwecken verwenden. Sie berücksichtigt dabei die Anforderungen des Datenschutzes.
+<sup>1</sup> Das BAZG kann die Angaben über die versteuerte Biermenge zu statistischen Zwecken verwenden. Es berücksichtigt dabei die Anforderungen des Datenschutzes.
 
-<sup>2</sup> Sie kann die Statistiken veröffentlichen.
+<sup>2</sup> Es kann die Statistiken veröffentlichen.
 
 #### Art. 21
 
 **Gebühren**
 
-Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^21-1] über die Gebühren der Zollverwaltung.
+Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^21-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
-[^21-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^21-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
 #### Art. 22
 
@@ -258,7 +260,7 @@ Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^21-1] 
 
 <sup>1</sup> Das Eidgenössische Finanzdepartement regelt, bis zu welchem Betrag kein Verzugszins erhoben wird.
 
-<sup>2</sup> Die Zollverwaltung kann auf Antrag auf die Erhebung des Verzugszinses verzichten, wenn die Zahlung die Herstellerin oder den Hersteller wirtschaftlich oder sozial erheblich belasten würde.
+<sup>2</sup> Das BAZG kann auf Antrag auf die Erhebung des Verzugszinses verzichten, wenn die Zahlung die Herstellerin oder den Hersteller wirtschaftlich oder sozial erheblich belasten würde.
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -271,8 +273,8 @@ Folgende Verordnungen werden aufgehoben:
 - 1\. Vollziehungsverordnung vom 27. November 1934[^23-1] zum Bundesratsbeschluss vom 4. August 1934 über die eidgenössische Getränkesteuer;
 - 2\. Verordnung vom 25. November 1998[^23-2] über den Ansatz der Biersteuer.
 
-[^23-1]: [BS **6** 283; [AS 1974 1955](https://fedlex.data.admin.ch/eli/oc/1974/1955_1955_1955), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 27]
-[^23-2]: [[AS 1999 196](https://fedlex.data.admin.ch/eli/oc/1999/26), [2001 3381](https://fedlex.data.admin.ch/eli/oc/2001/505)]
+[^23-1]: [BS **6** 283. [AS 1974 1955](https://fedlex.data.admin.ch/eli/oc/1974/1955_1955_1955); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 27]
+[^23-2]: [[AS 1999 196](https://fedlex.data.admin.ch/eli/oc/1999/26); [2001 3381](https://fedlex.data.admin.ch/eli/oc/2001/505)]
 
 #### Art. 24
 
