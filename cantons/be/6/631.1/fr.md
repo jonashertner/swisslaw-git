@@ -4,13 +4,13 @@ number: "631.1"
 title: Loi sur la péréquation financière et la compensation des charges
 short: LPFC
 language: fr
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-12-09
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-03-09
 adopted: 2000-11-27
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/631.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1945/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3065/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1945/pdf_file"
 
 (LPFC)
 
-du 27.11.2000 (état au 01.07.2020)
+du 27.11.2000 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -235,7 +235,7 @@ arrête:
 
 <sup>1</sup> La prestation complémentaire est financée par le canton.
 
-<sup>2</sup> Le Conseil-exécutif détermine, dans le cadre du budget, le montant annuel des ressources disponibles pour l'octroi des prestations complémentaires. La somme des prestations complémentaires correspond en règle générale aux charges que les communes doivent supporter à titre de franchise dans le financement de l’aide sociale.
+<sup>2</sup> Le Conseil-exécutif détermine, dans le cadre du budget, le montant annuel des ressources disponibles pour l’octroi des prestations complémentaires. La somme des prestations complémentaires correspond en règle générale aux charges que les communes doivent supporter à titre de franchise dans le financement du secteur social.
 
 <sup>3</sup> Il n’existe pas de droit à une prestation complémentaire d’un montant déterminé.
 
@@ -247,7 +247,7 @@ arrête:
 
 **Domaine d’application**
 
-<sup>1</sup> Dans les domaines des traitements du corps enseignant, de l’aide sociale, des prestations complémentaires, des transports publics, des allocations familiales pour les personnes sans activité lucrative et des transferts de charges résultant d’une nouvelle répartition des tâches, le financement est assuré conjointement par le canton et les communes selon un système de compensation des charges. Celle-ci est exécutée chaque année.
+<sup>1</sup> Dans les domaines des traitements du corps enseignant, du secteur social, des prestations complémentaires, des transports publics, des allocations familiales pour les personnes sans activité lucrative et des transferts de charges résultant d’une nouvelle répartition des tâches, le financement est assuré conjointement par le canton et les communes selon un système de compensation des charges. Celle-ci est exécutée chaque année.
 
 #### Art. 23
 
@@ -354,15 +354,46 @@ arrête:
 
 <sup>4</sup> …
 
+#### Art. 24g
+
+**7 Encouragement des talents**
+
+<sup>1</sup> Le canton prend en charge la participation aux frais de traitement conformément à l’article 24b, alinéa 2 pour les élèves visés à l’article 7a, alinéa 2 LEO[^24g-1].
+
+<sup>2</sup> Les dépenses supplémentaires prises en charge par le canton conformément à l'alinéa 1 sont prises en compte dans le calcul de la ventilation des coûts prévue à l’article 24, alinéa 1.
+
+<sup>3</sup> La part des coûts visée à l’article 24, alinéa 4 est versée à la commune de domicile concernée.
+
+<sup>4</sup> Si un ou une enfant fréquente un établissement de la scolarité obligatoire qui n’est pas situé dans la commune où il ou elle a son domicile civil, la commune de domicile doit verser à la commune où se trouve l’école une contribution aux coûts d’exploitation et d’infrastructure scolaires.
+
+<sup>5</sup> La contribution aux coûts d’exploitation et d’infrastructure scolaires est calculée sur la base des coûts que l’ensemble des communes consacrent en moyenne à l’exploitation et à l’infrastructure de leurs écoles. Le canton relève ces coûts périodiquement.
+
+<sup>6</sup> Les communes concernées peuvent adopter une réglementation différente.
+
+[^24g-1]: RSB [432.210](https://www.belex.sites.be.ch/data/432.210/fr)
+
 #### Art. 25
 
-**Aide sociale**
+**Secteur social**
 
-<sup>1</sup> Les coûts déterminants pour la compensation des charges conformément à la législation sur l'aide sociale sont financés à 50 pour cent par le canton et à 50 pour cent par l'ensemble des communes.
+<sup>1</sup> Les coûts déterminants pour la compensation des charges du secteur social sont financés à 50 pour cent par le canton et à 50 pour cent par l’ensemble des communes.
+
+<sup>1a</sup> La compensation des charges du secteur social porte sur les coûts déterminants en vertu des actes législatifs suivants:
+
+- a loi du 11 juin 2001 sur l’aide sociale (LASoc)[^25-1],
+- b loi du 3 décembre 2019 sur l’aide sociale dans le domaine de l’asile et des réfugiés (LAAR)[^25-2],
+- c loi du 9 mars 2021 sur les programmes d’action sociale (LPASoc)[^25-3],
+- d loi du 3 décembre 2020 sur les prestations particulières d’encouragement et de protection destinées aux enfants (LPEP)[^25-4],
+- e article 21o, alinéa 1 LEO.
 
 <sup>2</sup> La part de chaque commune est déterminée en fonction de la population résidante.
 
 <sup>3</sup> Les parts des communes sont calculées conformément à la formule G indiquée en annexe.
+
+[^25-1]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
+[^25-2]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
+[^25-3]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
+[^25-4]: RSB [213.319](https://www.belex.sites.be.ch/data/213.319/fr)
 
 #### Art. 26–27
 

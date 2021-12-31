@@ -4,13 +4,13 @@ number: "631.1"
 title: Gesetz über den Finanz- und Lastenausgleich
 short: FILAG
 language: de
-version: 2020-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-12-09
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-03-09
 adopted: 2000-11-27
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/631.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1945/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3065/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1945/pdf_file"
 
 (FILAG)
 
-vom 27.11.2000 (Stand 01.07.2020)
+vom 27.11.2000 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -235,7 +235,7 @@ beschliesst:
 
 <sup>1</sup> Der Zuschuss wird durch den Kanton finanziert.
 
-<sup>2</sup> Der Regierungsrat bestimmt die jährlich für die Gewährung der Zuschüsse zur Verfügung stehenden Mittel im Rahmen des Voranschlags. Die Summe der Zuschüsse entspricht in der Regel den Lasten, welche die Gemeinden als Selbstbehalt bei der Finanzierung der Sozialhilfe zu tragen haben.
+<sup>2</sup> Der Regierungsrat bestimmt die jährlich für die Gewährung der Zuschüsse zur Verfügung stehenden Mittel im Rahmen des Voranschlags. Die Summe der Zuschüsse entspricht in der Regel den Lasten, welche die Gemeinden als Selbstbehalt bei der Finanzierung des Aufgabenbereichs Soziales zu tragen haben.
 
 <sup>3</sup> Auf einen Zuschuss in bestimmter Höhe besteht kein Rechtsanspruch.
 
@@ -247,7 +247,7 @@ beschliesst:
 
 **Anwendungsbereich**
 
-<sup>1</sup> Die Aufgabenbereiche Lehrergehälter, Sozialhilfe, Ergänzungsleistungen, öffentlicher Verkehr, Familienzulagen für Nichterwerbstätige und die Lastenverschiebungen aufgrund einer neuen Aufgabenteilung werden durch Kanton und Gemeinden in Form eines Lastenausgleichs finanziert. Dieser wird jährlich vollzogen.
+<sup>1</sup> Die Aufgabenbereiche Lehrergehälter, Soziales, Ergänzungsleistungen, öffentlicher Verkehr, Familienzulagen für Nichterwerbstätige und die Lastenverschiebungen aufgrund einer neuen Aufgabenteilung werden durch Kanton und Gemeinden in Form eines Lastenausgleichs finanziert. Dieser wird jährlich vollzogen.
 
 #### Art. 23
 
@@ -354,15 +354,46 @@ beschliesst:
 
 <sup>4</sup> …
 
+#### Art. 24g
+
+**7 Talentförderung**
+
+<sup>1</sup> Für den Schulbesuch gemäss Artikel 7a Absatz 2 VSG[^24g-1] trägt der Kanton den Gehaltskostenbeitrag gemäss Artikel 24b Absatz 2.
+
+<sup>2</sup> Die dabei durch den Kanton zusätzlich übernommenen Aufwendungen werden in die Berechnung der Kostenaufteilung gemäss Artikel 24 Absatz 1 einbezogen.
+
+<sup>3</sup> Der Anteil gemäss Artikel 24 Absatz 4 wird an die jeweilige Wohnsitzgemeinde ausgerichtet.
+
+<sup>4</sup> Besucht ein Kind die Volksschule nicht in der Gemeinde, in der es seinen zivilrechtlichen Wohnsitz hat, so hat die Wohnsitzgemeinde der Schulortsgemeinde einen Beitrag für den Schulbetrieb und die Schulinfrastruktur zu entrichten.
+
+<sup>5</sup> Der Beitrag für den Schulbetrieb und die Schulinfrastruktur richtet sich nach den durchschnittlichen Kosten aller Gemeinden für den Schulbetrieb und die Schulinfrastruktur. Der Kanton erhebt diese Kosten periodisch neu.
+
+<sup>6</sup> Die beteiligten Gemeinden können abweichende Regelungen vereinbaren.
+
+[^24g-1]: BSG [432.210](https://www.belex.sites.be.ch/data/432.210/de)
+
 #### Art. 25
 
-**Sozialhilfe**
+**Soziales**
 
-<sup>1</sup> Die für den Lastenausgleich massgebenden Aufwendungen gemäss Sozialhilfegesetzgebung werden zu 50 Prozent vom Kanton und zu 50 Prozent durch die Gesamtheit der Gemeinden finanziert.
+<sup>1</sup> Die für den Lastenausgleich Soziales massgebenden Aufwendungen werden zu 50 Prozent vom Kanton und zu 50 Prozent durch die Gesamtheit der Gemeinden finanziert.
+
+<sup>1a</sup> Über den Lastenausgleich Soziales werden die massgebenden Aufwendungen gemäss den folgenden Erlassen abgerechnet:
+
+- a Gesetz vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^25-1],
+- b Gesetz vom 3. Dezember 2019 über die Sozialhilfe im Asyl- und Flüchtlingsbereich (SAFG)[^25-2],
+- c Gesetz vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^25-3],
+- d Gesetz vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^25-4],
+- e Artikel 21o Absatz 1 VSG.
 
 <sup>2</sup> Massgebend für die Bestimmung der Gemeindeanteile ist die Wohnbevölkerung.
 
 <sup>3</sup> Die Gemeindeanteile werden nach der im Anhang wiedergegebenen Formel G berechnet.
+
+[^25-1]: BSG [860.1](https://www.belex.sites.be.ch/data/860.1/de)
+[^25-2]: BSG [861.1](https://www.belex.sites.be.ch/data/861.1/de)
+[^25-3]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
+[^25-4]: BSG [213.319](https://www.belex.sites.be.ch/data/213.319/de)
 
 #### Art. 26–27
 
