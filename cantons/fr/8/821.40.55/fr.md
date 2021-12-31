@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.55"
 title: "Ordonnance pour le soutien des technologies numériques dans l'élevage laitier"
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-11-24
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 2020-11-24
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.55"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6660/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7042/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6660/pdf_file"
 
 COVID-19, plan de relance – Elevage laitier – O
 
-du 24.11.2020 (version entrée en vigueur le 01.01.2021)
+du 24.11.2020 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,7 +35,7 @@ Arrête:
 <sup>1</sup> La présente ordonnance vise à soutenir et à favoriser les technologies numériques dans l'élevage laitier afin d'améliorer la santé du bétail et de diminuer les émissions de gaz à effet de serre par:
 
 - a) l'octroi d'une contribution individuelle au sens de l'article 5 de la loi du 17 novembre 1999 sur les subventions (LSub);
-- b) des prestations fournies par l'Institut agricole de l'Etat de Fribourg (IAG).
+- b) des prestations fournies par Grangeneuve.
 
 #### Art. 2
 
@@ -53,7 +53,7 @@ Arrête:
 
 <sup>1</sup> Peuvent bénéficier des contributions et prestations prévues, dans la limite des montants disponibles, les personnes qui en font la demande et:
 
-- a) dont l'exploitation ou la communauté d'exploitation est reconnue par le Service de l'agriculture (SAgri);
+- a) dont l'exploitation ou la communauté d'exploitation est reconnue par Grangeneuve;
 - b) qui détiennent des vaches laitières;
 - c) qui produisent du lait sur leur exploitation et le commercialisent.
 
@@ -65,7 +65,7 @@ Arrête:
 
 <sup>1</sup> Dans la limite des moyens disponibles, un soutien financier peut être accordé pour un projet lorsqu'il répond aux conditions cumulatives suivantes:
 
-- a) le projet concerne un investissement dans un système dit «de nouvelles technologies» selon la liste des produits élaborée par l'IAG(disponible sur son site Internet);
+- a) le projet concerne un investissement dans un système dit «de nouvelles technologies» selon la liste des produits élaborée par Grangeneuve (disponible sur son site Internet);
 - b) le projet concerne la propre exploitation ou communauté d'exploitation du requérant ou de la requérante.
 
 <sup>2</sup> Un seul projet par exploitation ou communauté d'exploitation peut faire l'objet d'un soutien.
@@ -84,9 +84,9 @@ Arrête:
 
 <sup>1</sup> Le requérant ou la requérante doit déposer sa demande de soutien jusqu'au 31 octobre 2022.
 
-<sup>2</sup> La demande est rédigée au moyen de la formule ad hoc disponible sur le site Internet de l'IAG. Elle doit être signée et accompagnée des annexes requises.
+<sup>2</sup> La demande est rédigée au moyen de la formule ad hoc disponible sur le site Internet de Grangeneuve. Elle doit être signée et accompagnée des annexes requises.
 
-<sup>3</sup> Elle est transmise à l'adresse *Centre de conseils agricoles, Projet technologies et élevage, route de Grangeneuve 31, 1725 Posieux* ou, par courriel, à l'adresse *iagspa@fr.ch*.
+<sup>3</sup> Elle est transmise à l'adresse Grangeneuve, Section Agriculture, Projet technologies et élevage, route de Grangeneuve 31, 1725 Posieux ou, par courriel, à l'adresse iagspa@fr.ch.
 
 <sup>4</sup> Par sa demande, le requérant ou la requérante s'engage à remplir les obligations qui lui incombent au sens de l'article 7 de la présente ordonnance.
 
@@ -98,8 +98,8 @@ Arrête:
 
 <sup>2</sup> Les personnes qui ont obtenu un soutien en application de la présente ordonnance doivent, jusqu'au 31 décembre 2023:
 
-- a) transmettre, à la demande de l'IAG, les données concernant la santé des animaux (coûts vétérinaires liés aux traitements des animaux) et des informations sur la gestion du troupeau laitier (alimentation, organisation du travail, etc.);
-- b) transmettre à l'IAG, sous format électronique, les données du contrôle laitier et de la reproduction, soit depuis le site des fédérations d'élevage (transmission automatisée), soit directement (en cas de non-affiliation à une fédération d'élevage).
+- a) transmettre, à la demande de Grangeneuve, les données concernant la santé des animaux (coûts vétérinaires liés aux traitements des animaux) et des informations sur la gestion du troupeau laitier (alimentation, organisation du travail, etc.);
+- b) transmettre à Grangeneuve, sous format électronique, les données du contrôle laitier et de la reproduction, soit depuis le site des fédérations d'élevage (transmission automatisée), soit directement (en cas de non-affiliation à une fédération d'élevage).
 
 <sup>3</sup> Si le ou la bénéficiaire ne remplit pas ces obligations au sens des alinéas 1 et 2, un remboursement partiel ou total du montant reçu peut être demandé.
 
@@ -109,34 +109,34 @@ Arrête:
 
 <sup>1</sup> En remplissant sa demande et si le soutien est accordé, le ou la bénéficiaire consent à ce que:
 
-- a) l'IAG et ses partenaires utilisent les données de l'exploitation concernant la santé des animaux, la gestion du troupeau, le contrôle laitier et de la reproduction pour le conseil, la recherche et l'enseignement, étant précisé que toutes les données seront traitées et utilisées uniquement de manière anonyme;
-- b) l'IAG utilise les données du contrôle laitier et de la reproduction reçues ou issues des sites des fédérations d'élevage.
+- a) Grangeneuve et ses partenaires utilisent les données de l'exploitation concernant la santé des animaux, la gestion du troupeau, le contrôle laitier et de la reproduction pour le conseil, la recherche et l'enseignement, étant précisé que toutes les données seront traitées et utilisées uniquement de manière anonyme;
+- b) Grangeneuve utilise les données du contrôle laitier et de la reproduction reçues ou issues des sites des fédérations d'élevage.
 
 #### Art. 9
 
 **Décision d'octroi**
 
-<sup>1</sup> L'IAG décide sur les demandes de soutien et de remboursement.
+<sup>1</sup> Grangeneuve décide sur les demandes de soutien et de remboursement.
 
 #### Art. 10
 
-**Prestations de l'IAG**
+**Prestations de Grangeneuve**
 
-<sup>1</sup> L'IAG assure la promotion de la mesure auprès des milieux concernés.
+<sup>1</sup> Grangeneuve assure la promotion de la mesure auprès des milieux concernés.
 
-<sup>2</sup> Afin de soutenir les producteurs de lait dans leurs démarches et dans le but que les objectifs de la mesure soient atteints, l'IAG propose aux bénéficiaires, jusqu'au 31 décembre 2023, les prestations suivantes:
+<sup>2</sup> Afin de soutenir les producteurs de lait dans leurs démarches et dans le but que les objectifs de la mesure soient atteints, Grangeneuve propose aux bénéficiaires, jusqu'au 31 décembre 2023, les prestations suivantes:
 
 - a) mise en valeur des données du contrôle laitier, de la reproduction et de santé;
 - b) conseil général sur la gestion du troupeau (particulièrement en ce qui concerne la santé des animaux et l'amélioration de critères influençant le bilan CO<sub>2</sub> d'une exploitation laitière) et mise en place de groupes d'intérêt s'il y a une attente de la part des producteurs;
 - c) évaluation de critères qui influencent le bilan CO<sub>2</sub> d'une exploitation laitière, avant la mise en place des systèmes et à la fin du projet (31 décembre 2023), appréciation de l'évolution constatée.
 
-<sup>3</sup> L'IAG n'assure pas la mise en route ni le service après-vente des systèmes subventionnés.
+<sup>3</sup> Grangeneuve n'assure pas la mise en route ni le service après-vente des systèmes subventionnés.
 
 #### Art. 11
 
 **Contrôle**
 
-<sup>1</sup> L'IAG assure un contrôle permanent des engagements financiers pris.
+<sup>1</sup> Grangeneuve assure un contrôle permanent des engagements financiers pris.
 
 <sup>2</sup> Il rapporte périodiquement ces engagements ainsi que les paiements effectués à la Direction des institutions, de l'agriculture et des forêts et à l'Administration des finances.
 

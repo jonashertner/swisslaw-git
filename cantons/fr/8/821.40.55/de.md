@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.55"
 title: Verordnung zur Unterstützung digitaler Technologien in der Milchwirtschaft
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-11-24
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 2020-11-24
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.55"
-pdf: "https://bdlf.fr.ch/api/de/versions/6660/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7042/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6660/pdf_file"
 
 COVID-19, Wiederankurbelungsplan – Milchwirtschaft – V
 
-vom 24.11.2020 (Fassung in Kraft getreten am 01.01.2021)
+vom 24.11.2020 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,7 +35,7 @@ beschliesst:
 <sup>1</sup> Mit dieser Verordnung sollen digitale Technologien in der Milchwirtschaft unterstützt und gefördert werden, um die Tiergesundheit zu verbessern und die Treibhausgasemissionen zu reduzieren, durch:
 
 - a) die Ausrichtung eines Individualbeitrags im Sinne von Artikel 5 des Subventionsgesetzes vom 17. November 1999 (SubG);
-- b) Dienstleistungen des Landwirtschaftlichen Instituts des Kantons Freiburg (LIG).
+- b) Dienstleistungen von Grangeneuve.
 
 #### Art. 2
 
@@ -53,7 +53,7 @@ beschliesst:
 
 <sup>1</sup> Folgende Personen können auf Gesuch die vorgesehenen Beiträge und Leistungen im Rahmen der verfügbaren Beträge in Anspruch nehmen:
 
-- a) Personen, deren Betrieb oder Betriebsgemeinschaft vom Amt für Landwirtschaft (LwA) anerkannt ist;
+- a) Personen, deren Betrieb oder Betriebsgemeinschaft von Grangeneuve anerkannt ist;
 - b) Personen, die Milchkühe halten;
 - c) Personen, die auf ihrem Betrieb Milch produzieren und diese vermarkten.
 
@@ -65,7 +65,7 @@ beschliesst:
 
 <sup>1</sup> Im Rahmen der verfügbaren Mittel kann ein Projekt finanziell unterstützt werden, wenn es die folgenden Bedingungen kumulativ erfüllt:
 
-- a) Beim Projekt handelt es sich um eine Investition in ein System der sogenannten «digitalen Technologien» gemäss der vom LIG erstellten Produktliste (auf der Website des LIG verfügbar).
+- a) Beim Projekt handelt es sich um eine Investition in ein System der sogenannten «digitalen Technologien» gemäss der von Grangeneuve erstellten Produktliste (auf der Website von Grangeneuve verfügbar).
 - b) Das Projekt betrifft den eigenen Betrieb oder die Betriebsgemeinschaft der Gesuchstellerin oder des Gesuchstellers.
 
 <sup>2</sup> Es kann nur ein Projekt pro Betrieb oder Betriebsgemeinschaft unterstützt werden.
@@ -84,9 +84,9 @@ beschliesst:
 
 <sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller muss das Unterstützungsgesuch bis zum 31. Oktober 2022 einreichen.
 
-<sup>2</sup> Das Gesuch wird über das entsprechende Formular auf der Website des LIG verfasst. Es muss unterzeichnet und zusammen mit den erforderlichen Anhängen eingereicht werden.
+<sup>2</sup> Das Gesuch wird über das entsprechende Formular auf der Website von Grangeneuve verfasst. Es muss unterzeichnet und zusammen mit den erforderlichen Anhängen eingereicht werden.
 
-<sup>3</sup> Das Gesuch wird an folgende Adresse gesendet: *Landwirtschaftliches Beratungszentrum, Projekt Technologien und Milchwirtschaft, Route de Grangeneuve 31, 1725 Posieux,* oder per E-Mail an *iagspa@fr.ch*.
+<sup>3</sup> Das Gesuch wird an folgende Adresse gesendet: *Grangeneuve, Sektion Landwirtschaft, Projekt Technologien und Milchwirtschaft, Route de Grangeneuve 31, 1725 Posieux,* oder per E-Mail an *iagspa@fr.ch*.
 
 <sup>4</sup> Mit der Einreichung des Gesuchs verpflichtet sich die Gesuchstellerin oder der Gesuchsteller, ihre oder seine Verpflichtungen im Sinne von Artikel 7 dieser Verordnung zu erfüllen.
 
@@ -98,8 +98,8 @@ beschliesst:
 
 <sup>2</sup> Personen, die im Rahmen dieser Verordnung Unterstützung erhalten haben, müssen bis zum 31. Dezember 2023:
 
-- a) auf Anfrage des LIG Daten über die Tiergesundheit (Tierarztkosten für die Behandlung der Tiere) und Informationen über das Bestandesmanagement (Fütterung, Arbeitsorganisation usw.) übermitteln;
-- b) Milchkontroll- und Zuchtdaten in elektronischer Form an das LIG übermitteln: entweder von der Website der Viehzuchtverbände (automatische Übermittlung) aus oder direkt (wenn keine Zugehörigkeit zu einem Zuchtverband besteht).
+- a) auf Anfrage von Grangeneuve Daten über die Tiergesundheit (Tierarztkosten für die Behandlung der Tiere) und Informationen über das Bestandesmanagement (Fütterung, Arbeitsorganisation usw.) übermitteln;
+- b) Milchkontroll- und Zuchtdaten in elektronischer Form an Grangeneuve übermitteln: entweder von der Website der Viehzuchtverbände (automatische Übermittlung) aus oder direkt (wenn keine Zugehörigkeit zu einem Zuchtverband besteht).
 
 <sup>3</sup> Kommt die Empfängerin oder der Empfänger den Pflichten gemäss den Absätzen 1 und 2 nicht nach, so kann eine teilweise oder vollständige Rückerstattung des erhaltenen Betrags verlangt werden.
 
@@ -109,34 +109,34 @@ beschliesst:
 
 <sup>1</sup> Mit dem Ausfüllen des Gesuchs und wenn eine Unterstützung gewährt wird, erklärt sich die Empfängerin oder der Empfänger mit Folgendem einverstanden:
 
-- a) Das LIG und seine Partner nutzen Daten des Betriebs aus den Bereichen Gesundheit, Bestandesmanagement, Milchkontrolle und Zucht für Beratung, Forschung und Unterricht. Sämtliche Daten werden nur in anonymer Form verarbeitet und genutzt.
-- b) Das LIG verwendet Milchkontroll- und Zuchtdaten, die es erhält oder den Websites der Viehzuchtverbände entnehmen kann.
+- a) Grangeneuve und seine Partner nutzen Daten des Betriebs aus den Bereichen Gesundheit, Bestandesmanagement, Milchkontrolle und Zucht für Beratung, Forschung und Unterricht. Sämtliche Daten werden nur in anonymer Form verarbeitet und genutzt.
+- b) Grangeneuve verwendet Milchkontroll- und Zuchtdaten, die es erhält oder den Websites der Viehzuchtverbände entnehmen kann.
 
 #### Art. 9
 
 **Entscheid über die Gewährung der Unterstützung**
 
-<sup>1</sup> Das LIG entscheidet über die Gesuche um Unterstützung und Rückerstattung.
+<sup>1</sup> Grangeneuve entscheidet über die Gesuche um Unterstützung und Rückerstattung.
 
 #### Art. 10
 
-**Leistungen des LIG**
+**Leistungen von Grangeneuve**
 
-<sup>1</sup> Das LIG wirbt in den betroffenen Kreisen für die Massnahme.
+<sup>1</sup> Grangeneuve wirbt in den betroffenen Kreisen für die Massnahme.
 
-<sup>2</sup> Um die Milchproduzentinnen und -produzenten in ihren Bemühungen zu unterstützen und die Ziele der Massnahme zu erreichen, bietet das LIG den Empfängerinnen und Empfängern bis zum 31. Dezember 2023 kostenlos die folgenden Leistungen an:
+<sup>2</sup> Um die Milchproduzentinnen und -produzenten in ihren Bemühungen zu unterstützen und die Ziele der Massnahme zu erreichen, bietet Grangeneuve den Empfängerinnen und Empfängern bis zum 31. Dezember 2023 kostenlos die folgenden Leistungen an:
 
 - a) Auswertung der Milchkontroll-, Zucht- und Gesundheitsdaten;
 - b) allgemeine Beratung zum Herdenmanagement (insbesondere zur Tiergesundheit und zur Verbesserung der Kriterien, welche die CO<sub>2</sub>-Bilanz eines Milchviehbetriebs beeinflussen) und, wenn die Produzentinnen und Produzenten dies wünschen, die Einrichtung von Interessengruppen;
 - c) Ermittlung der Kriterien, welche die CO<sub>2</sub>-Bilanz eines Milchviehbetriebs beeinflussen, vor der Einrichtung der Systeme und am Ende des Projekts (31. Dezember 2023), Beurteilung der beobachteten Entwicklung.
 
-<sup>3</sup> Das LIG bietet keine Unterstützung bei der Einrichtung oder beim Support für die subventionierten Systeme an.
+<sup>3</sup> Grangeneuve bietet keine Unterstützung bei der Einrichtung oder beim Support für die subventionierten Systeme an.
 
 #### Art. 11
 
 **Kontrolle**
 
-<sup>1</sup> Das LIG führt eine ständige Kontrolle der eingegangenen finanziellen Verpflichtungen durch.
+<sup>1</sup> Grangeneuve führt eine ständige Kontrolle der eingegangenen finanziellen Verpflichtungen durch.
 
 <sup>2</sup> Es erstattet der Direktion der Institutionen und der Land- und Forstwirtschaft und der Finanzverwaltung periodisch Bericht über diese Verpflichtungen und Zahlungen.
 
