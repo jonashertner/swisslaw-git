@@ -3,18 +3,18 @@ sr: "951.25"
 title: Loi fédérale du 6 octobre 2006 sur les aides financières aux organisations de cautionnement en faveur des PME
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/138"
 language: fr
-version: 2019-07-01
+version: 2022-01-01
 adopted: 2006-10-06
 in_force: 2007-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/138/20190701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-138-20190701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/138/20190701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/138/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-138-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/138/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les aides financières aux organisations de cautionnement en faveur des PME
 
-du 6 octobre 2006 (Etat le 1<sup>er</sup> juillet 2019)[^t-1]
+du 6 octobre 2006 (État le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1781](https://fedlex.data.admin.ch/eli/oc/2019/325); [FF 2018 1253](https://fedlex.data.admin.ch/eli/fga/2018/513)).
 
@@ -36,7 +36,7 @@ arrête:
 
 <sup>1</sup> La présente loi vise à permettre aux petites et moyennes entreprises (PME) en Suisse qui sont rentables et susceptibles de se développer, d’accéder plus facilement à des crédits bancaires.[^1-1] Elle encourage ainsi notamment la création de telles entreprises.
 
-<sup>2</sup> A cette fin, la Confédération peut octroyer des aides financières à des organisations de droit privé qui accordent des cautionnements.
+<sup>2</sup> À cette fin, la Confédération peut octroyer des aides financières à des organisations de droit privé qui accordent des cautionnements.
 
 [^1-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1781](https://fedlex.data.admin.ch/eli/oc/2019/325); [FF 2018 1253](https://fedlex.data.admin.ch/eli/fga/2018/513)).
 
@@ -122,13 +122,14 @@ Les aides financières sont octroyées:
 
 **Financement**[^8-1]
 
-<sup>1</sup> L’Assemblée fédérale approuve par arrêté fédéral simple des crédits-cadres limités dans le temps pour financer les prêts de rang subordonné prévus à l’art. 5, al. 2.
+<sup>1</sup> L’Assemblée fédérale approuve par arrêté fédéral simple des crédits d’engagement[^8-2] limités dans le temps pour financer les prêts de rang subordonné prévus à l’art. 5, al. 2.
 
 <sup>2</sup> Le montant net des cautionnements dont les pertes sont couvertes conformément à l’art. 6, al. 2, ne peut dépasser 600 millions de francs.
 
 <sup>3</sup> Les montants alloués aux aides financières servant à couvrir les pertes prévisibles sur cautionnement et les frais administratifs sont fixés par le budget.
 
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1781](https://fedlex.data.admin.ch/eli/oc/2019/325); [FF 2018 1253](https://fedlex.data.admin.ch/eli/fga/2018/513)).
+[^8-2]: Nouvelle expression selon l’annexe ch. 11 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## Section 3 Procédure et voies de droit
 
@@ -138,7 +139,7 @@ Les aides financières sont octroyées:
 
 <sup>1</sup> Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^9-1] reconnaît sur demande les organisations qui remplissent les conditions fixées aux art. 3 et 4. La reconnaissance peut être assortie de charges.
 
-<sup>2</sup> Il contrôle si les conditions et les charges sont respectées. A cet effet, les organisations bénéficiaires mettent à sa disposition les informations nécessaires.
+<sup>2</sup> Il contrôle si les conditions et les charges sont respectées. À cet effet, les organisations bénéficiaires mettent à sa disposition les informations nécessaires.
 
 <sup>3</sup> Il peut retirer la reconnaissance à une organisation qui ne remplit plus les conditions.
 
@@ -150,7 +151,7 @@ Les aides financières sont octroyées:
 
 Les décisions du DEFR peuvent faire l’objet d’un recours au Tribunal administratif fédéral.
 
-## Section 4 Evaluation
+## Section 4 Évaluation
 
 #### Art. 11
 

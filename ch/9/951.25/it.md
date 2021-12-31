@@ -3,18 +3,18 @@ sr: "951.25"
 title: Legge federale del 6 ottobre 2006 sugli aiuti finanziari alle organizzazioni che concedono fideiussioni alle piccole e medie imprese
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/138"
 language: it
-version: 2019-07-01
+version: 2022-01-01
 adopted: 2006-10-06
 in_force: 2007-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/138/20190701/it/xml/fedlex-data-admin-ch-eli-cc-2007-138-20190701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/138/20190701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/138/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-138-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/138/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sugli aiuti finanziari alle organizzazioni che concedono fideiussioni alle piccole e medie imprese
 
-del 6 ottobre 2006 (Stato 1° luglio 2019)
+del 6 ottobre 2006 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -120,13 +120,14 @@ Gli aiuti finanziari sono versati:
 
 **Finanziamento**[^8-1]
 
-<sup>1</sup> L’Assemblea federale stanzia con decreto federale semplice crediti quadro limitati nel tempo per finanziare mutui di grado posteriore secondo l’articolo 5 capoverso 2.
+<sup>1</sup> L’Assemblea federale stanzia con decreto federale semplice crediti d’impegno[^8-2] limitati nel tempo per finanziare mutui di grado posteriore secondo l’articolo 5 capoverso 2.
 
 <sup>2</sup> Il volume netto delle fideiussioni che fruiscono della copertura delle perdite secondo l’articolo 6 capoverso 2 non può superare i 600 milioni di franchi.
 
 <sup>3</sup> Gli importi degli aiuti finanziari per la copertura delle perdite prevedibili da fideiussioni e delle spese d’amministrazione sono iscritti nel preventivo.
 
 [^8-1]: Nuovo testo giusta il n. I della LF del 14 dic. 2018, in vigore dal 1° lug. 2019 ([RU 2019 1781](https://fedlex.data.admin.ch/eli/oc/2019/325); [FF 2018 1049](https://fedlex.data.admin.ch/eli/fga/2018/513)).
+[^8-2]: Nuova espr. giusta l’all. n. 11 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## Sezione 3: Procedura e rimedi giuridici
 

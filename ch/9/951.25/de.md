@@ -3,18 +3,18 @@ sr: "951.25"
 title: Bundesgesetz vom 6. Oktober 2006 über die Finanzhilfen an Bürgschaftsorganisationen für KMU
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/138"
 language: de
-version: 2019-07-01
+version: 2022-01-01
 adopted: 2006-10-06
 in_force: 2007-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/138/20190701/de/xml/fedlex-data-admin-ch-eli-cc-2007-138-20190701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/138/20190701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/138/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-138-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/138/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die Finanzhilfen an Bürgschaftsorganisationen für KMU****
+# Bundesgesetz über die Finanzhilfen an Bürgschaftsorganisationen für KMU
 
-vom 6. Oktober 2006 (Stand am 1. Juli 2019)[^t-1]
+vom 6. Oktober 2006 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018, in Kraft seit 1. Juli 2019 ([AS 2019 1781](https://fedlex.data.admin.ch/eli/oc/2019/325); [BBl 2018 1299](https://fedlex.data.admin.ch/eli/fga/2018/513)).
 
@@ -123,13 +123,14 @@ Finanzhilfen werden ausgerichtet:
 
 **Finanzierung**[^8-1]
 
-<sup>1</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss befristete Rahmenkredite für nachrangige Darlehen nach Artikel 5 Absatz 2.
+<sup>1</sup> Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss befristete Verpflichtungskredite[^8-2] für nachrangige Darlehen nach Artikel 5 Absatz 2.
 
 <sup>2</sup> Das Volumen der Bürgschaften, die von der Verlustdeckung nach Artikel 6 Absatz 2 profitieren, darf netto 600 Millionen Franken nicht überschreiten.
 
 <sup>3</sup> Die Mittel für Finanzhilfen zur Deckung absehbarer Bürgschaftsverluste sowie der Verwaltungskosten werden im Voranschlag eingestellt.
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2018, in Kraft seit 1. Juli 2019 ([AS 2019 1781](https://fedlex.data.admin.ch/eli/oc/2019/325); [BBl 2018 1299](https://fedlex.data.admin.ch/eli/fga/2018/513)).
+[^8-2]: Ausdruck gemäss Anhang Ziff. 11 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## 3. Abschnitt: Verfahren und Rechtsschutz
 
@@ -177,7 +178,7 @@ Der Bundesrat erstattet der Bundesversammlung regelmässig Bericht über die Zwe
 
 <sup>2</sup> Die nachstehenden Gesetze werden wie folgt geändert:
 
-…[^13-2]
+...[^13-2]
 
 [^13-1]: [AS **1949** II 1657, **1968** 101]
 [^13-2]: Die Änderungen können unter [AS 2007 693](https://fedlex.data.admin.ch/eli/oc/2007/138)konsultiert werden.
@@ -206,7 +207,7 @@ Bürgschaftsverträge, die bei Inkrafttreten der Änderung vom 14. Dezember 2018
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-Datum des Inkrafttretens: Art. 1-12: 15. März 2007[^15-1] Art. 13-15: 15. Juli 2007[^15-2]
+Datum des Inkrafttretens: Art. 1–12: 15. März 2007[^15-1] Art. 13–15: 15. Juli 2007[^15-2]
 
 [^15-1]: BRB vom 28. Febr. 2007
 [^15-2]: Abs. 1 des einzigen Art. der V vom 27. Juni 2007 ([AS 2007 3363](https://fedlex.data.admin.ch/eli/oc/2007/410))
