@@ -3,13 +3,13 @@ canton: FR
 number: "912.4.111"
 title: Verordnung ILFD über die Reben und den Wein
 language: de
-version: 2020-04-01
-valid_until: 2021-12-31
-version_adopted: 2020-03-27
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-26
 adopted: 2009-10-01
 in_force: 2009-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/912.4.111"
-pdf: "https://bdlf.fr.ch/api/de/versions/6480/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7446/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,17 +18,17 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6480/pdf_file"
 
 Reben und Wein – V
 
-vom 01.10.2009 (Fassung in Kraft getreten am 01.04.2020)
+vom 01.10.2009 (Fassung in Kraft getreten am 01.01.2022)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
 gestützt auf das Bundesgesetz vom 29. April 1998 über die Landwirtschaft (LwG) und die eidgenössische Verordnung vom 14. November 2007 über den Rebbau und die Einfuhr von Wein (Weinverordnung);
 
-gestützt auf das Bundesgesetz vom 9. Oktober 1992 über Lebensmittel und Gebrauchsgegenstände (LMG) und die Verordnung des EDI vom 23. November 2005 über alkoholische Getränke;
+gestützt auf das Bundesgesetz vom 20. Juni 2014 über Lebensmittel und Gebrauchsgegenstände (LMG) und die Verordnung des EDI vom 16. Dezember 2016 über Getränke;
 
 gestützt auf das Landwirtschaftsgesetz vom 3. Oktober 2006 (LandwG);
 
-gestützt auf das Ausführungsgesetz vom 9. Mai 1995 zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände;
+gestützt auf das Gesetz über die Lebensmittelsicherheit vom 13. Juni 2007 (LMSG);
 
 gestützt auf das Landwirtschaftsreglement vom 27. März 2007 (LandwR);
 
@@ -91,7 +91,7 @@ beschliesst:
 
 **Rebbaukataster – Gültigkeitserklärung der Daten**
 
-<sup>1</sup> Die erforderlichen Daten werden im Rebbaukataster erst eingetragen oder erfasst, nachdem sie vom Amt für Landwirtschaft (das Amt) für gültig erklärt worden sind.
+<sup>1</sup> Die erforderlichen Daten werden im Rebbaukataster erst eingetragen oder erfasst, nachdem sie von Grangeneuve für gültig erklärt worden sind.
 
 #### Art. 7
 
@@ -103,7 +103,7 @@ beschliesst:
 
 **Pflichten der Eigentümerinnen und Eigentümer und der Bewirtschafterinnen und Bewirtschafter**
 
-<sup>1</sup> Die Eigentümerinnen und Eigentümer oder Bewirtschafterinnen und Bewirtschafter der Rebgrundstücke müssen dem Amt laufend, spätestens jedoch bis zum 30. Juni jedes Jahres, jede Änderung von Angaben nach Artikel 5 melden.
+<sup>1</sup> Die Eigentümerinnen und Eigentümer oder Bewirtschafterinnen und Bewirtschafter der Rebgrundstücke müssen Grangeneuve laufend, spätestens jedoch bis zum 30. Juni jedes Jahres, jede Änderung von Angaben nach Artikel 5 melden.
 
 #### Art. 9
 
@@ -121,9 +121,9 @@ beschliesst:
 
 **Erneuerung von Rebflächen**
 
-<sup>1</sup> Jede Erneuerung von Rebflächen im Sinne von Artikel 3 der Weinverordnung des Bundes innerhalb der Rebbauzone muss dem Amt gemeldet werden, damit sie im Rebbaukataster eingetragen werden kann.
+<sup>1</sup> Jede Erneuerung von Rebflächen im Sinne von Artikel 3 der Weinverordnung des Bundes innerhalb der Rebbauzone muss Grangeneuve gemeldet werden, damit sie im Rebbaukataster eingetragen werden kann.
 
-<sup>2</sup> Das Amt erstellt die entsprechenden Musterformulare, die die für die Registrierung im Rebbaukataster wesentlichen Daten enthalten.
+<sup>2</sup> Grangeneuve erstellt die entsprechenden Musterformulare, welche die für die Registrierung im Rebbaukataster wesentlichen Daten enthalten.
 
 #### Art. 11
 
@@ -137,7 +137,7 @@ beschliesst:
 - b) innert nützlicher Frist geeignete Behandlungen zur Schädlingsbekämpfung vorzunehmen;
 - c) die notwendigen Massnahmen zu treffen, um schädliche Pflanzen sowie Pflanzen, die eine gesundheitliche Gefahr für benachbarte Parzellen darstellen, zu vernichten.
 
-<sup>3</sup> Werden diese Anforderungen nicht erfüllt, so kann das Amt anordnen, dass die nötigen Arbeiten auf Kosten der betreffenden Personen von Dritten ausgeführt werden.
+<sup>3</sup> Werden diese Anforderungen nicht erfüllt, so kann Grangeneuve anordnen, dass die nötigen Arbeiten auf Kosten der betreffenden Personen von Dritten ausgeführt werden.
 
 #### Art. 12
 
@@ -190,10 +190,10 @@ beschliesst:
 
 <sup>2</sup> Für den Rebberg Vully gelten folgende natürliche Mindestzuckergehalte:
 
-- a) Chasselas: 64° Oechsle
-- b) Übrige weisse Trauben: 70° Oechsle
-- c) Pinot noir: 75° Oechsle
-- d) Übrige rote Trauben: 70° Oechsle
+- a) Chasselas: — 64° Oechsle
+- b) Übrige weisse Trauben: — 70° Oechsle
+- c) Pinot noir: — 75° Oechsle
+- d) Übrige rote Trauben: — 70° Oechsle
 
 #### Art. 18
 
@@ -297,7 +297,7 @@ beschliesst:
 
 **Qualitative und quantitative Weinlesekontrolle – Traubenpass**
 
-<sup>1</sup> Vor jeder Weinlese stellt das Amt, gestützt auf die Daten im Rebbaukataster, der Bewirtschafterin oder dem Bewirtschafter eine Bescheinigung aus, welche die Traubenhöchstmengen festlegt, die für die Produktion von Wein verwendet werden dürfen (Art. 24b der Weinverordnung des Bundes).
+<sup>1</sup> Vor jeder Weinlese stellt Grangeneuve, gestützt auf die Daten im Rebbaukataster, der Bewirtschafterin oder dem Bewirtschafter eine Bescheinigung aus, welche die Traubenhöchstmengen festlegt, die für die Produktion von Wein verwendet werden dürfen (Art. 24b der Weinverordnung des Bundes).
 
 <sup>2</sup> Der Traubenpass muss der Einkellerin oder dem Einkellerer für jeden Traubenposten vorgelegt werden.
 
@@ -311,25 +311,25 @@ beschliesst:
 
 **Qualitative und quantitative Weinlesekontrolle – Pflichten der Einkellerin oder des Einkellerers**
 
-<sup>1</sup> Für die einzelnen Traubenposten muss die Einkellerin oder der Einkellerer in dem vom Amt zur Verfügung gestellten Informatiktool die Daten nach Artikel 29 der Weinverordnung des Bundes erfassen.
+<sup>1</sup> Für die einzelnen Traubenposten muss die Einkellerin oder der Einkellerer in dem von Grangeneuve zur Verfügung gestellten Informatiktool die Daten nach Artikel 29 der Weinverordnung des Bundes erfassen.
 
-<sup>2</sup> Die erfassten Daten müssen dem Amt bis spätestens 30. November des Weinjahrgangs übermittelt werden. Für Weine aus Spätlese endet die Frist am 31. Dezember.
+<sup>2</sup> Die erfassten Daten müssen Grangeneuve bis spätestens 30. November des Weinjahrgangs übermittelt werden. Für Weine aus Spätlese endet die Frist am 31. Dezember.
 
 #### Art. 29a
 
 **Qualitative und quantitative Weinlesekontrolle – Überwachung der Eigenkontrolle**
 
-<sup>1</sup> Das Amt wird mit der Überwachung der Eigenkontrolle der Einkellerin oder des Einkellerers auf der Grundlage einer Risikoanalyse beauftragt.
+<sup>1</sup> Grangeneuve wird mit der Überwachung der Eigenkontrolle der Einkellerin oder des Einkellerers auf der Grundlage einer Risikoanalyse beauftragt.
 
 <sup>2</sup> Es verfügt dazu über Weinbaukommissärinnen und Weinbaukommissäre und kann für spezielle Kontrollen die Unterstützung des Amts für Lebensmittelsicherheit und Veterinärwesen anfordern.
 
-<sup>3</sup> Das Amt erstellt für jede Einkellerin und jeden Einkellerer, die Traubengut entsprechend den vom Amt ausgestellten Traubenpässen einkellern, ein Kellerblatt.
+<sup>3</sup> Grangeneuve erstellt für jede Einkellerin und jeden Einkellerer, die Traubengut entsprechend den vom Grangeneuve ausgestellten Traubenpässen einkellern, ein Kellerblatt.
 
 #### Art. 29b
 
 **Qualitative und quantitative Weinlesekontrolle – Ergebnisse der Kontrolle und Statistiken**
 
-<sup>1</sup> Das Amt ist zuständig für die Meldung der Ergebnisse der Weinlesekontrolle und der Statistiken nach Artikel 30b der Weinverordnung des Bundes.
+<sup>1</sup> Grangeneuve ist zuständig für die Meldung der Ergebnisse der Weinlesekontrolle und der Statistiken nach Artikel 30b der Weinverordnung des Bundes.
 
 #### Art. 30
 
@@ -353,7 +353,7 @@ beschliesst:
 
 **Degustation – Regelmässigkeit**
 
-<sup>1</sup> Das Amt sorgt dafür, dass die Produktion jedes Kellers im Durchschnitt alle drei Jahre einer Degustation unterzogen wird.
+<sup>1</sup> Grangeneuve sorgt dafür, dass die Produktion jedes Kellers im Durchschnitt alle drei Jahre einer Degustation unterzogen wird.
 
 #### Art. 33
 
@@ -371,7 +371,7 @@ beschliesst:
 
 **Nachführung des Rebbaukatasters**
 
-<sup>1</sup> Die Nachführung des Rebbaukatasters durch das Amt erfolgt bis spätestens Ende 2015.
+<sup>1</sup> Die Nachführung des Rebbaukatasters ist am 31. Dezember 2015 erfolgt.
 
 <sup>2</sup> Rebflächen ausserhalb der Rebbauzone, denen keine Bewilligung erteilt werden kann, müssen beseitigt werden.
 

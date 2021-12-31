@@ -3,13 +3,13 @@ canton: FR
 number: "912.4.111"
 title: Ordonnance DIAF sur la vigne et le vin
 language: fr
-version: 2020-04-01
-valid_until: 2021-12-31
-version_adopted: 2020-03-27
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-26
 adopted: 2009-10-01
 in_force: 2009-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/912.4.111"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6480/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7446/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,17 +18,17 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6480/pdf_file"
 
 Vigne et vin – O
 
-du 01.10.2009 (version entrée en vigueur le 01.04.2020)
+du 01.10.2009 (version entrée en vigueur le 01.01.2022)
 
 La Direction des institutions, de l'agriculture et des forêts
 
 Vu la loi fédérale du 29 avril 1998 sur l'agriculture (LAgr) et l'ordonnance fédérale du 14 novembre 2007 sur la viticulture et l'importation de vin (ordonnance sur le vin);
 
-Vu la loi fédérale du 9 octobre 1992 sur les denrées alimentaires et les objets usuels (LDAl) et l'ordonnance du DFI du 23 novembre 2005 sur les boissons alcooliques;
+Vu la loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels (LDAl) et l'ordonnance du DFI du 16 décembre 2016 sur les boissons;
 
 Vu la loi du 3 octobre 2006 sur l'agriculture (LAgri);
 
-Vu la loi du 9 mai 1995 d'application de la loi fédérale sur les denrées alimentaires et les objets usuels;
+Vu la loi du 13 juin 2007 sur la sécurité alimentaire (LSAl);
 
 Vu le règlement du 27 mars 2007 sur l'agriculture (RAgri);
 
@@ -91,7 +91,7 @@ Adopte ce qui suit:
 
 **Cadastre viticole – Validation des données**
 
-<sup>1</sup> Les inscriptions ou les enregistrements des données requises ne sont portés au cadastre viticole qu'après leur validation par le Service de l'agriculture (ci-après: le Service).
+<sup>1</sup> Les inscriptions ou les enregistrements des données requises ne sont portés au cadastre viticole qu'après leur validation par Grangeneuve.
 
 #### Art. 7
 
@@ -103,7 +103,7 @@ Adopte ce qui suit:
 
 **Obligations des propriétaires et des exploitants**
 
-<sup>1</sup> Les propriétaires ou les exploitants des biens-fonds viticoles doivent annoncer au Service au fur et à mesure, mais au plus tard le 30 juin de chaque année, toutes les modifications qui se rapportent aux mentions figurant à l'article 5.
+<sup>1</sup> Les propriétaires ou les exploitants des biens-fonds viticoles doivent annoncer à Grangeneuve au fur et à mesure, mais au plus tard le 30 juin de chaque année, toutes les modifications qui se rapportent aux mentions figurant à l'article 5.
 
 #### Art. 9
 
@@ -121,9 +121,9 @@ Adopte ce qui suit:
 
 **Reconstitution**
 
-<sup>1</sup> Toute reconstitution de surfaces viticoles, au sens de l'article 3 de l'ordonnance fédérale sur le vin, doit être obligatoirement notifiée au Service en vue de son enregistrement au cadastre viticole.
+<sup>1</sup> Toute reconstitution de surfaces viticoles, au sens de l'article 3 de l'ordonnance fédérale sur le vin, doit être obligatoirement notifiée à Grangeneuve en vue de son enregistrement au cadastre viticole.
 
-<sup>2</sup> Le Service établit à cet égard les formules types qui comprennent les données essentielles pour l'enregistrement au cadastre viticole.
+<sup>2</sup> Grangeneuve établit à cet égard les formules types qui comprennent les données essentielles pour l'enregistrement au cadastre viticole.
 
 #### Art. 11
 
@@ -137,7 +137,7 @@ Adopte ce qui suit:
 - b) de procéder en temps utile à des traitements appropriés contre les parasites;
 - c) de prendre les mesures nécessaires pour détruire les végétaux nuisibles qui constituent un danger sanitaire pour les parcelles voisines.
 
-<sup>3</sup> En cas de carence, le Service peut ordonner que les travaux nécessaires soient exécutés par des tiers à charge des personnes concernées.
+<sup>3</sup> En cas de carence, Grangeneuve peut ordonner que les travaux nécessaires soient exécutés par des tiers à charge des personnes concernées.
 
 #### Art. 12
 
@@ -190,10 +190,10 @@ Adopte ce qui suit:
 
 <sup>2</sup> Pour le vignoble du Vully, les teneurs naturelles minimales en sucre sont les suivantes:
 
-- a) Chasselas: 64° Oechslé
-- b) Autres blancs: 70° Oechslé
-- c) Pinot noir: 75° Oechslé
-- d) Autres rouges: 70° Oechslé
+- a) Chasselas: — 64° Oechslé
+- b) Autres blancs: — 70° Oechslé
+- c) Pinot noir: — 75° Oechslé
+- d) Autres rouges: — 70° Oechslé
 
 #### Art. 18
 
@@ -297,7 +297,7 @@ Adopte ce qui suit:
 
 **Contrôle qualitatif et quantitatif de la vendange – Acquit**
 
-<sup>1</sup> Avant le début de chaque vendange, sur la base des données du cadastre viticole, le Service délivre à l'exploitant un certificat fixant la quantité maximale de raisin pouvant être utilisée pour la production de vin (art. 24b de l'ordonnance fédérale sur le vin).
+<sup>1</sup> Avant le début de chaque vendange, sur la base des données du cadastre viticole, Grangeneuve délivre à l'exploitant un certificat fixant la quantité maximale de raisin pouvant être utilisée pour la production de vin (art. 24b de l'ordonnance fédérale sur le vin).
 
 <sup>2</sup> Lors de chaque apport de vendange, l'acquit doit être présenté à l'encaveur
 
@@ -311,25 +311,25 @@ Adopte ce qui suit:
 
 **Contrôle qualitatif et quantitatif de la vendange – Obligations de l'encaveur**
 
-<sup>1</sup> Pour chaque lot de vendange, l'encaveur doit saisir les données prévues à l'article 29 de l'ordonnance fédérale sur le vin, au moyen de l'outil informatique mis à sa disposition par le Service.
+<sup>1</sup> Pour chaque lot de vendange, l'encaveur doit saisir les données prévues à l'article 29 de l'ordonnance fédérale sur le vin, au moyen de l'outil informatique mis à sa disposition par Grangeneuve.
 
-<sup>2</sup> Les données saisies doivent être transmises au Service au plus tard le 30 novembre de l'année du millésime, sauf pour les vendanges tardives pour lesquelles le délai est reporté au 31 décembre.
+<sup>2</sup> Les données saisies doivent être transmises à Grangeneuve au plus tard le 30 novembre de l'année du millésime, sauf pour les vendanges tardives pour lesquelles le délai est reporté au 31 décembre.
 
 #### Art. 29a
 
 **Contrôle qualitatif et quantitatif de la vendange – Surveillance de l'autocontrôle**
 
-<sup>1</sup> Le Service est chargé de la surveillance de l'autocontrôle de l'encaveur sur la base d'une analyse des risques.
+<sup>1</sup> Grangeneuve est chargé de la surveillance de l'autocontrôle de l'encaveur sur la base d'une analyse des risques.
 
 <sup>2</sup> A cet effet, il dispose des commissaires viticoles et peut requérir l'appui du Service de la sécurité alimentaire et des affaires vétérinaires pour assurer l'exécution de contrôles spécialisés.
 
-<sup>3</sup> Le Service établit une fiche de cave pour chaque encaveur qui a encavé des raisins au titre des acquits délivrés par le Service.
+<sup>3</sup> Grangeneuve établit une fiche de cave pour chaque encaveur qui a encavé des raisins au titre des acquits délivrés par Grangeneuve.
 
 #### Art. 29b
 
 **Contrôle qualitatif et quantitatif de la vendange – Résultats du contrôle et statistiques**
 
-<sup>1</sup> Le Service est responsable de la communication des résultats du contrôle de la vendange et des statistiques prévus à l'article 30b de l'ordonnance fédérale sur le vin.
+<sup>1</sup> Grangeneuve est responsable de la communication des résultats du contrôle de la vendange et des statistiques prévus à l'article 30b de l'ordonnance fédérale sur le vin.
 
 #### Art. 30
 
@@ -353,7 +353,7 @@ Adopte ce qui suit:
 
 **Dégustation – Périodicité**
 
-<sup>1</sup> Le Service veille à ce que la production de chaque cave fasse l'objet d'une dégustation officielle en moyenne tous les trois ans.
+<sup>1</sup> Grangeneuve veille à ce que la production de chaque cave fasse l'objet d'une dégustation officielle en moyenne tous les trois ans.
 
 #### Art. 33
 
@@ -371,7 +371,7 @@ Adopte ce qui suit:
 
 **Mise à jour du cadastre viticole**
 
-<sup>1</sup> Le Service procède à la mise à jour du cadastre viticole au plus tard jusqu'à la fin de l'année 2015.
+<sup>1</sup> Le cadastre viticole a été mis à jour le 31 décembre 2015.
 
 <sup>2</sup> Les surfaces de vigne situées hors de la zone vinicole qui ne peuvent être mises au bénéfice d'une autorisation doivent être arrachées.
 
