@@ -4,11 +4,11 @@ title: "Ordonnance de l'Assemblée fédérale du 3 octobre 2003 portant applicat
 short: OLPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: fr
-version: 2019-12-02
+version: 2022-01-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20191202/fr/xml/fedlex-data-admin-ch-eli-cc-2003-512-20191202-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20191202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20191202/fr"
 
 (Ordonnance sur l’administration du Parlement, OLPA)
 
-du 3 octobre 2003 (Etat le 2 décembre 2019)
+du 3 octobre 2003 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -193,11 +193,12 @@ Le député fournit aux Services du Parlement les indications suivantes sur le c
 - a. nom et prénom;
 - b. autres employeurs et nature des activités exercées pour eux;
 - c. adresse;
-- d. numéro d’assuré AVS.
+- d. numéro d’assuré AVS[^6c-2].
 
 <sup>4</sup> Les Services du Parlement publient dans un registre le nom des députés et les indications relatives à leurs collaborateurs personnels visées à l’al. 3, let. a et b.
 
 [^6c-1]: Introduit par le ch. I de l’O de l’Ass. féd. du 15 juin 2018, en vigueur depuis le 2 déc. 2019 ([RO 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2017 6425](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6493](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^6c-2]: Dès le 1<sup>er</sup> janvier 2022: « numéro AVS »
 
 #### Art. 7
 

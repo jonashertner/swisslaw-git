@@ -4,11 +4,11 @@ title: "Ordinanza dell'Assemblea federale del 3 ottobre 2003 relativa alla legge
 short: Oparl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: it
-version: 2019-12-02
+version: 2022-01-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20191202/it/xml/fedlex-data-admin-ch-eli-cc-2003-512-20191202-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20191202/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20191202/it"
 
 (Ordinanza sull’amministrazione parlamentare, Oparl)
 
-del 3 ottobre 2003 (Stato 2 dicembre 2019)
+del 3 ottobre 2003 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -191,11 +191,12 @@ Il deputato fornisce ai servizi del Parlamento i dati seguenti riguardo al colla
 - a. cognome e nome;
 - b. altri datori di lavoro e attività svolte per conto di questi ultimi;
 - c. indirizzo;
-- d. numero d’assicurato AVS.
+- d. numero d’assicurato AVS[^6c-2].
 
 <sup>4</sup> I Servizi del Parlamento pubblicano in un registro i nomi dei deputati e i dati dei collaboratori personali di cui al capoverso 3 lettere a e b.
 
 [^6c-1]: Introdotto dal n. I dell’O dell’AF del 15 giu. 2018, in vigore dal 2 dic. 2019 ([RU 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [FF 2007 5807](https://fedlex.data.admin.ch/eli/fga/2007/945)[5873](https://fedlex.data.admin.ch/eli/fga/2007/959)).
+[^6c-2]: Dal 1° gen. 2022: numero AVS.
 
 #### Art. 7
 

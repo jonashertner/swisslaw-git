@@ -4,11 +4,11 @@ title: "Verordnung der Bundesversammlung vom 3. Oktober 2003 zum Parlamentsgeset
 short: ParlVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/512"
 language: de
-version: 2019-12-02
+version: 2022-01-01
 adopted: 2003-10-03
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20191202/de/xml/fedlex-data-admin-ch-eli-cc-2003-512-20191202-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20191202/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/512/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-512-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/512/20191202/de"
 
 (Parlamentsverwaltungsverordnung, ParlVV)
 
-vom 3. Oktober 2003 (Stand am 2. Dezember 2019)
+vom 3. Oktober 2003 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -191,11 +191,12 @@ Das Ratsmitglied liefert den Parlamentsdiensten folgende Angaben zur von ihm bes
 - a. Namen und Vornamen;
 - b. weitere Arbeitgeberinnen oder Arbeitgeber und für diese ausgeübte Tätigkeiten;
 - c. Adresse;
-- d. AHV-Versichertennummer.
+- d. AHV-Versichertennummer[^6c-2].
 
 <sup>4</sup> Die Parlamentsdienste veröffentlichen die Namen der Ratsmitglieder und die Angaben ihrer persönlichen Mitarbeiter nach Absatz 3 Buchstaben a und b in einem Verzeichnis.
 
 [^6c-1]: Eingefügt durch Ziff. I der V der BVers vom 15. Juni 2018, in Kraft seit 2. Dez. 2019 ([AS 2018 3467](https://fedlex.data.admin.ch/eli/oc/2018/563); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995)[6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
+[^6c-2]: Seit 1. Jan. 2022: «AHV-Nummer».
 
 #### Art. 7
 
@@ -745,7 +746,7 @@ Verwaltungsverordnungen, die für die Bundesverwaltung gelten, werden für die P
 
 Die Verordnung der Bundesversammlung vom 7. Oktober 1988[^37-1] über die Parlamentsdienste wird aufgehoben.
 
-[^37-1]: [[AS 1989 334](https://fedlex.data.admin.ch/eli/oc/1989/334_334_334), [1991 482](https://fedlex.data.admin.ch/eli/oc/1991/482_482_482), [1993 3](https://fedlex.data.admin.ch/eli/oc/1993/3_3_3), [1995 4880](https://fedlex.data.admin.ch/eli/oc/1995/4880_4880_4880), [2000 284](https://fedlex.data.admin.ch/eli/oc/2000/55), [2001 3590](https://fedlex.data.admin.ch/eli/oc/2001/536)]
+[^37-1]: [[AS 1989 334](https://fedlex.data.admin.ch/eli/oc/1989/334_334_334); [1991 482](https://fedlex.data.admin.ch/eli/oc/1991/482_482_482); [1993 3](https://fedlex.data.admin.ch/eli/oc/1993/3_3_3); [1995 4880](https://fedlex.data.admin.ch/eli/oc/1995/4880_4880_4880); [2000 284](https://fedlex.data.admin.ch/eli/oc/2000/55); [2001 3590](https://fedlex.data.admin.ch/eli/oc/2001/536)]
 
 #### Art. 38
 
