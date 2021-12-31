@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2018 sulla protezione dei vegetali da organismi
 short: OSalV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/682"
 language: it
-version: 2020-08-01
+version: 2022-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20200801/it/xml/fedlex-data-admin-ch-eli-cc-2018-682-20200801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20200801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-682-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20200801/it"
 
 (Ordinanza sulla salute dei vegetali, OSalV)
 
-del 31 ottobre 2018 (Stato 1° agosto 2020)
+del 31 ottobre 2018 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -82,12 +82,13 @@ Ai sensi della presente ordinanza s’intendono per:
 
 - f. *piantagione:* ogni operazione di messa a dimora o di innesto di vegetali per assicurarne la successiva crescita, riproduzione o moltiplicazione;
 - g. *vegetali destinati alla piantagione:* vegetali piantati, che saranno piantati o ripiantati;
+- g<sup>bis</sup>.[^2-1] *zona infestata*: area nella quale un organismo da quarantena è talmente diffuso da non poter più essere eradicato;
 - h. *focolaio d’infestazione:* singoli vegetali infestati da organismi nocivi particolarmente pericolosi e i loro immediati dintorni al di fuori della zona infestata, inclusi i vegetali sospettati di essere infestati;
-- i. *zona cuscinetto:* zona indenne da infestazione circostante il focolaio d’infestazione;
+- i.[^2-2] *zona cuscinetto*: zona indenne da infestazione circostante una zona infestata o un focolaio d’infestazione;
 - j. *messa in commercio:* trasferimento o cessione a titolo oneroso o gratuito di merci;
 - k. *Stati terzi:* tutti gli Stati al di fuori della Svizzera, del Principato del Liechtenstein e degli Stati membri dell’Unione europea (UE); le isole Canarie, Ceuta, Melilla e i dipartimenti e i territori francesi d’oltremare sono considerati Stati terzi;
 - l. *utilizzo:* ogni attività in relazione a organismi nocivi particolarmente pericolosi e merci, in particolare l’importazione, la messa in commercio, la detenzione, la moltiplicazione e la diffusione;
-- m. *importazione:* introduzione di merci nel territorio svizzero, incluse le enclavi doganali svizzere (art. 3 cpv. 3 della legge del 18 marzo 2005[^2-1] sulle dogane) e il Principato del Liechtenstein;
+- m. *importazione:* introduzione di merci nel territorio svizzero, incluse le enclavi doganali svizzere (art. 3 cpv. 3 della legge del 18 marzo 2005[^2-3] sulle dogane) e il Principato del Liechtenstein;
 - n. *transito:* trasporto di merci non sdoganate attraverso la Svizzera;
 - o. *lotto:* l’unità più piccola utilizzabile nel commercio o altrimenti sul rispettivo livello di commercializzazione di merci che, in base alla loro omogeneità dal profilo della composizione, dell’origine e di altri elementi rilevanti, è identificabile;
 - p. *partita:* insieme di lotti;
@@ -96,7 +97,9 @@ Ai sensi della presente ordinanza s’intendono per:
 - s. *certificato fitosanitario:* documento ufficiale per il commercio di merci con Stati terzi che comprova che la merce adempie le prescrizioni fitosanitarie del Paese di destinazione;
 - t. *vettore:* organismo vivente che trasmette organismi nocivi particolarmente pericolosi da un vegetale infetto a un altro.
 
-[^2-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^2-1]: Introdotta dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^2-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 3
 
@@ -287,7 +290,7 @@ Se è constatata la presenza di un organismo da quarantena da trattare in via pr
 
 #### Art. 15
 
-**Delimitazione di aree**
+**Delimitazione di focolai d’infestazione e delle rispettive zone cuscinetto[^15-1]**
 
 <sup>1</sup> Il servizio cantonale competente, d’intesa con l’ufficio federale competente, delimita senza indugio l’area in cui vanno eseguite le misure di eradicazione di cui all’articolo 13. Tale area comprende il focolaio d’infestazione e una zona cuscinetto.
 
@@ -302,19 +305,23 @@ Il servizio cantonale competente, d’intesa con l’ufficio federale competente
 
 <sup>4</sup> Se l’area delimitata confina con uno Stato limitrofo, l’ufficio federale competente lo informa al riguardo.
 
+[^15-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+
 ### Sezione 5: Misure di contenimento
 
 #### Art. 16
 
-**Zone infestate**
+**Delimitazione di zone infestate e delle rispettive zone cuscinetto**[^16-1]
 
-<sup>1</sup> Se in un’area un organismo da quarantena è talmente diffuso da non poter più essere eradicato, l’ufficio federale competente, dopo aver sentito i servizi competenti dei Cantoni interessati, può delimitare tale area come zona infestata.
+<sup>1</sup> L’ufficio federale competente, d’intesa con i servizi competenti dei Cantoni interessati, delimita le zone infestate e le rispettive zone cuscinetto.
 
-<sup>2</sup> Nelle zone infestate non vengono più ordinate misure di eradicazione di cui all’articolo 13 contro l’organismo da quarantena in questione.
+<sup>2</sup> L’estensione della zona cuscinetto è stabilita sulla base del rischio di diffusione dell’organismo tramite vie di diffusione naturali o a causa delle attività umane.
 
-<sup>3</sup> In caso di rischio particolarmente elevato di diffusione dell’organismo da quarantena in questione al di fuori della zona infestata, l’ufficio federale competente può ordinare misure contro il pericolo di diffusione.
+<sup>3</sup> In caso di rischio particolarmente elevato di diffusione dell’organismo al di fuori della zona infestata, l’ufficio federale competente, d’intesa con i servizi competenti dei Cantoni interessati, può ordinare misure adeguate contro il pericolo di diffusione.
 
 <sup>4</sup> L’ufficio federale competente pubblica la delimitazione di una zona infestata nel Foglio ufficiale svizzero di commercio o in un altro modo adeguato.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 #### Art. 17
 
@@ -407,8 +414,10 @@ Se è constatata la presenza di un organismo da quarantena potenziale, l’uffic
 - e. misure di prevenzione secondo gli articoli 9 e 10;
 - f. misure d’informazione secondo l’articolo 11;
 - g. misure di eradicazione secondo l’articolo 13;
-- h. delimitazione di aree e zone infestate secondo gli articoli 15 e 16;
+- h.[^23-1] delimitazione di focolai d’infestazione e di zone infestate nonché delle rispettive zone cuscinetto secondo gli articoli 15 e 16;
 - i. sorveglianza, rilevamenti e piani d’emergenza secondo gli articoli 18–20.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 ### Sezione 9: Zone protette
 
@@ -500,10 +509,12 @@ I vegetali specifici destinati alla piantagione infestati da un organismo regola
 
 Se vi è un pericolo considerevole che la foresta non possa più svolgere le sue funzioni secondo l’articolo 1 capoverso 1 lettera c della legge forestale del 4 ottobre 1991 a causa di un organismo regolamentato non da quarantena che il DEFR e il DATEC hanno stabilito secondo l’articolo 29 capoverso 2 relativamente al materiale di moltiplicazione forestale, per lottare contro tale organismo regolamentato non da quarantena il servizio cantonale competente può prendere o ordinare in particolare le seguenti misure:
 
-- a. rimozione e distruzione adeguata delle merci infestate;
+- a.[^29a-1] eliminazione e distruzione adeguata delle merci infestate;
 - b. interventi che contribuiscono a conservare o a ripristinare la continuità e la qualità del popolamento;
 - c. misure di sensibilizzazione.
 - [tab] <sup>2</sup> Le misure non possono pregiudicare l’importazione e la messa in commercio di merci.
+
+[^29a-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 #### Art. 29b
 
@@ -573,9 +584,11 @@ Il DEFR e il DATEC possono stabilire che il certificato fitosanitario non è nec
 
 #### Art. 34
 
-**Misure equivalenti**
+**Misure equivalenti**[^34-1]
 
-Se le misure di uno Stato terzo comportano lo stesso livello di protezione fitosanitaria dell’adempimento delle condizioni stabilite nell’articolo 33 capoverso 2, l’ufficio federale competente può convenire con questo Stato terzo che le sue misure sono da considerarsi equivalenti se lo Stato terzo, nell’ambito della sua attività di controllo, garantisce che le condizioni equivalenti sono adempiute.
+Se le misure di uno Stato terzo comportano lo stesso livello di protezione fitosanitaria dell’adempimento delle condizioni stabilite nell’articolo 33 capoverso 2 e se lo Stato terzo, nell’ambito della sua attività di controllo, garantisce che le misure equivalenti sono prese, l’ufficio federale competente può riconoscere in un’ordinanza l’equivalenza delle misure dello Stato terzo.
+
+[^34-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 #### Art. 35
 
@@ -592,7 +605,7 @@ A prescindere dal fatto che sia effettivamente impiegato per il trasporto di ogg
 
 <sup>3</sup> Per l’importazione di materiale da imballaggio in legno da Stati terzi che non hanno attuato l’ISPM15, il SFF può riconoscere uno specifico certificato fitosanitario invece del marchio ai sensi del capoverso 1 lettera b.
 
-[^35-1]: L’ISPM15 «Réglementation des matériaux d’emballage en bois utilisés dans le commerce international» può essere consultata gratuitamente sul sito Internet: [www.ippc.int](http://www.ippc.int) &gt; Core Activities &gt; Standards & Implementation &gt; Standard Setting &gt; Adopted Standards (ISPMs).
+[^35-1]: L’ISPM15 «Réglementation des matériaux d’emballage en bois utilisés dans le commerce international» può essere consultata gratuitamente sul sito Internet: www.ippc.int &gt; Core Activities &gt; Standards & Implementation &gt; Standard Setting &gt; Adopted Standards (ISPMs).
 
 #### Art. 36
 
@@ -627,7 +640,7 @@ Se può essere esclusa la diffusione di organismi da quarantena, il SFF può, su
 - a. ricerca;
 - b. diagnosi;
 - c. scelta varietale e programmi di selezione;
-- d.[^37-2] conservazione di risorse fitogenetiche per l’agricoltura e l’alimentazione direttamente minacciate;
+- d.[^37-2] conservazione di risorse fitogenetiche direttamente minacciate;
 - e. formazione.
 
 <sup>2</sup>
@@ -643,7 +656,7 @@ L’autorizzazione disciplina in particolare:
 - g.[^37-3] le condizioni per ridurre al minimo il rischio di insediamento e diffusione di organismi da quarantena.
 
 [^37-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^37-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 [^37-3]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
 
 #### Art. 38
@@ -688,7 +701,15 @@ Non è necessario un passaporto fitosanitario per l’importazione di merci dall
 - a. importate nel bagaglio personale dei viaggiatori;
 - b. non utilizzate per scopi professionali o commerciali.
 
+<sup>4</sup>
+
+Il DEFR e il DATEC possono esentare dall’obbligo del passaporto fitosanitario l’importazione di merci che per esperienza presentano un rischio fitosanitario basso se tali merci:
+
+- a. vengono spedite da privati dall’UE per posta o con un servizio di corriere; e
+- b. in Svizzera non sono utilizzate per scopi professionali o commerciali.[^39-2]
+
 [^39-1]: Introdotta dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^39-2]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 #### Art. 39a
 
@@ -818,7 +839,9 @@ Per prova dell’avvenuto controllo s’intende:
 
 <sup>1</sup> Le merci provenienti da Stati terzi importate in Svizzera per via aerea sono notificate al SFF ai punti di entrata dell’aeroporto di Zurigo o dell’aeroporto di Ginevra. L’UFAG stabilisce gli orari nei quali le merci vengono controllate.
 
-<sup>2</sup> D’intesa con l’Amministrazione federale delle dogane, il SFF può eseguire i controlli in un altro luogo idoneo.
+<sup>2</sup> D’intesa con l’Ufficio federale della dogana e della sicurezza dei confini[^47-1], il SFF può eseguire i controlli in un altro luogo idoneo.
+
+[^47-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 48
 
@@ -1074,9 +1097,8 @@ Le persone che acquistano merci con obbligo del passaporto fitosanitario per l�
 
 Sono esentate dall’obbligo di notifica le aziende:
 
-- a. che cedono esclusivamente sementi, ad eccezione di quelle che rientrano nell’ambito di applicazione dell’articolo 33, in piccole quantità direttamente a consumatori finali che non sono attivi professionalmente nella produzione di vegetali;
-- b. che cedono esclusivamente merci in piccole quantità direttamente e non tramite mezzi di comunicazione a distanza a consumatori finali che non utilizzano le merci per scopi professionali o commerciali; oppure
-- c. con obbligo di omologazione.[^64-2]
+- a. che cedono esclusivamente merci, ad eccezione di quelle che rientrano nell’ambito di applicazione dell’articolo 33, in piccole quantità direttamente e non tramite mezzi di comunicazione a distanza a consumatori finali che non utilizzano le merci per scopi professionali o commerciali; oppure
+- b. con obbligo di omologazione.[^64-2]
 
 <sup>4</sup>
 
@@ -1091,7 +1113,7 @@ Se la produzione di vegetali o un’altra attività con materiale vegetale compo
 <sup>6</sup> Un’azienda con obbligo di notifica deve comunicare al SFF tutte le modifiche rispetto alle informazioni fornite all’atto della notifica entro 30 giorni dalla modifica.
 
 [^64-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
-[^64-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^64-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 ## Capitolo 7: Certificato fitosanitario e passaporto fitosanitario
 
@@ -1264,12 +1286,20 @@ Le aziende che mettono in commercio merci, che in virtù dell’articolo 60 poss
 
 <sup>3</sup>
 
-Il SFF concede un’omologazione per il rilascio di passaporti fitosanitari per le famiglie, i generi o le specie vegetali e per le categorie di oggetti menzionati nella domanda se l’azienda:
+Il SFF concede un’omologazione per il rilascio di passaporti fitosanitari per le famiglie, i generi o le specie vegetali e per le categorie di oggetti menzionati nella domanda se l’azienda dimostra che:[^77-1]
 
 - a. è in grado di effettuare le analisi di cui all’articolo 84 concernenti gli organismi nocivi particolarmente pericolosi che potrebbero infestare le sue merci;
 - b. dispone delle conoscenze necessarie per identificare i segni della presenza di organismi nocivi particolarmente pericolosi e i relativi sintomi;
 - c. conosce le misure da prendere per impedire la comparsa e la diffusione di organismi nocivi particolarmente pericolosi; e
 - d. dispone di sistemi e procedure che le consentono di assicurare la tracciabilità delle merci.
+
+<sup>4</sup> Il SFF mette a disposizione delle aziende con obbligo di omologazione materiale informativo che consente loro di acquisire le conoscenze di cui al capoverso 3 lettere b e c necessarie per l’omologazione.[^77-2]
+
+<sup>5</sup> Il DEFR e il DATEC stabiliscono come si devono dimostrare le conoscenze di cui al capoverso 3 lettere b e c. Possono prevedere in particolare che la prova debba essere fornita tramite la partecipazione a un corso o il superamento di un esame.[^77-3]
+
+[^77-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^77-2]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^77-3]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 #### Art. 78
 
@@ -1324,6 +1354,8 @@ Il SFF riconosce un piano di gestione dei rischi se quest’ultimo prevede misur
 
 <sup>2</sup> Devono tenere un registro sul rilevamento e sulla sorveglianza dei punti di cui al capoverso 1 e conservarlo per almeno tre anni.
 
+<sup>2bis</sup> Dispongono di un piano d’emergenza. Questo stabilisce le misure immediate da attuare in caso di sospetto o di constatazione della presenza di organismi nocivi particolarmente pericolosi, onde evitarne l’insediamento o la diffusione. Il piano va elaborato conformemente alle indicazioni del SFF.[^80-1]
+
 <sup>3</sup>
 
 Hanno inoltre i seguenti obblighi:
@@ -1331,9 +1363,16 @@ Hanno inoltre i seguenti obblighi:
 - a. garantire che il personale disponga di conoscenze fitosanitarie, in particolare per l’esecuzione delle analisi di cui all’articolo 84;
 - b. notificare al SFF entro 30 giorni ogni modifica delle informazioni fornite all’atto dell’omologazione, in particolare se intendono importare, produrre o mettere in commercio nuove categorie di merci;
 - c. controllare regolarmente lo stato di salute delle loro merci;
-- d. verificare che le merci da loro acquistate siano scortate da un passaporto fitosanitario conforme alle prescrizioni.
+- d. verificare che le merci da loro acquistate siano scortate da un passaporto fitosanitario conforme alle prescrizioni;
+- e.[^80-2] dimostrare regolarmente al SFF di disporre delle conoscenze fitosanitarie di cui all’articolo 77 capoverso 3 lettere b e c.
 
 <sup>4</sup> Le aziende che producono e mettono in commercio merci secondo l’articolo 60 e per tali merci rilasciano un passaporto fitosanitario, notificano annualmente al SFF le particelle e le unità di produzione nonché le merci ivi prodotte.
+
+<sup>5</sup> Il DEFR e il DATEC stabiliscono con che frequenza e in quale forma deve essere fornita la prova di cui al capoverso 3 lettera e. Possono prevedere in particolare che la prova debba essere fornita tramite la partecipazione a un corso o il superamento di un esame.[^80-3]
+
+[^80-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^80-2]: Introdotta dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^80-3]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 #### Art. 81
 
@@ -1376,11 +1415,11 @@ I passaporti fitosanitari possono essere rilasciati soltanto per le merci che:
 
 - a. sono indenni da organismi da quarantena o da organismi da quarantena potenziali;
 - b. adempiono le disposizioni di cui all’articolo 29;
-- c.[^83-1] sono state prodotte in Svizzera o nell’UE e adempiono determinate condizioni specifiche delle merci secondo l’articolo 59*a*;
+- c.[^83-1] adempiono le condizioni specifiche delle merci secondo l’articolo 59*a*, se si tratta di merci prodotte in Svizzera o nell’UE;
 - d. adempiono le condizioni disposte in virtù dell’articolo 33 capoverso 2, se sono state importate da uno Stato terzo; e
-- e. sono state assoggettate, se necessario, alle misure disposte in virtù degli articoli 13 capoversi 1 e 5, 22, 23 e 36 capoverso 1.
+- e.[^83-2] sono state assoggettate, se necessario, alle misure disposte in virtù degli articoli 13 capoverso 1, 16 capoverso 3, 22, 23 e 36 capoverso 1.
 
-<sup>2</sup> ...[^83-2]
+<sup>2</sup> ...[^83-3]
 
 <sup>3</sup>
 
@@ -1392,8 +1431,9 @@ I passaporti fitosanitari per zone protette possono essere rilasciati soltanto p
 
 <sup>4</sup> I passaporti fitosanitari sono rilasciati da un’azienda omologata a tal fine o dal SFF.
 
-[^83-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
-[^83-2]: Abrogato dal n. I dell’O del 19 giu. 2020, con effetto dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^83-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^83-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^83-3]: Abrogato dal n. I dell’O del 19 giu. 2020, con effetto dal 1° ago. 2020 ([RU 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
 
 #### Art. 84
 
@@ -1554,19 +1594,20 @@ Le aziende omologate per il trattamento devono inoltre:
 
 **Indennità per danni causati da misure della Confederazione**
 
-<sup>1</sup> La Confederazione versa, su richiesta in casi di rigore, un’indennità per danni causati all’agricoltura o all’ortoflorovivaismo esercitato a titolo professionale da misure prese dal SFF in virtù degli articoli 10, 13, 22, 23, 25 e 29 capoverso 5. Il DEFR stabilisce i criteri per il calcolo dell’indennità.
+<sup>1</sup> La Confederazione versa, su richiesta, un’indennità di equità per danni causati all’agricoltura o all’ortoflorovivaismo esercitato a titolo professionale da misure prese dal SFF in virtù degli articoli 10, 13, 16, 22, 23, 25 e 29 capoverso 5. Il DEFR stabilisce i criteri per il calcolo dell’indennità.[^96-1]
 
-<sup>2</sup> Non vengono versate indennità se il richiedente non si è attenuto alle disposizioni della presente ordinanza; sono fatte salve le prescrizioni della legge federale del 14 marzo 1958[^96-1] sulla responsabilità.
+<sup>2</sup> Non vengono versate indennità se il richiedente non si è attenuto alle disposizioni della presente ordinanza; sono fatte salve le prescrizioni della legge federale del 14 marzo 1958[^96-2] sulla responsabilità.
 
 <sup>3</sup> Le domande d’indennità, debitamente motivate, sono presentate all’UFAG immediatamente dopo la constatazione del danno, ma al più tardi un anno dopo l’esecuzione della misura che lo ha causato.
 
-[^96-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^96-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^96-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
 #### Art. 97
 
 **Indennità ai Cantoni**
 
-<sup>1</sup> La Confederazione, su richiesta, rimborsa ai Cantoni il 50 per cento delle spese riconosciute occasionate loro dalle misure di cui agli articoli 10, 11, 13–15, 17–19, 22 lettera c, 23, 25 e 29 capoverso 5.
+<sup>1</sup> La Confederazione, su richiesta, rimborsa ai Cantoni il 50 per cento delle spese riconosciute occasionate loro dalle misure di cui agli articoli 10, 11, 13–19, 22 lettera c, 23, 25 e 29*b*.[^97-1]
 
 <sup>2</sup>
 
@@ -1579,6 +1620,8 @@ Rimborsa il 75 per cento delle spese riconosciute se:
 <sup>3</sup> Può ridurre i contributi se le misure di lotta e di sorveglianza relative a organismi nocivi particolarmente pericolosi prese dai Cantoni non sono adeguate o se le misure di lotta e di sorveglianza e ordinate dal SFF non sono state attuate o lo sono state solo in parte.
 
 <sup>4</sup> Il DEFR stabilisce la procedura per la presentazione della domanda e quali spese sono riconosciute dalla Confederazione.
+
+[^97-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
 
 ### Sezione 2: Disposizioni applicabili alle foreste
 
@@ -1685,9 +1728,9 @@ I suddetti organi o i loro incaricati sono inoltre autorizzati a verificare se l
 
 <sup>1</sup>
 
-Gli uffici federali competenti possono delegare all’Amministrazione federale delle dogane, ai servizi cantonali competenti e alle seguenti organizzazioni di controllo indipendenti i compiti di seguito:
+Gli uffici federali competenti possono delegare all’Ufficio federale della dogana e della sicurezza dei confini, ai servizi cantonali competenti e alle seguenti organizzazioni di controllo indipendenti i compiti di seguito:
 
-- a. all’Amministrazione federale delle dogane, di comune accordo: i controlli all’importazione di cui agli articoli 49 e 50;
+- a. l’Ufficio federale della dogana e della sicurezza dei confini, di comune accordo: i controlli all’importazione di cui agli articoli 49 e 50;
 - b. ai servizi cantonali competenti: il rilascio dei certificati fitosanitari di cui agli articoli 57–59;
 - c. alle organizzazioni di controllo indipendenti conformemente all’articolo 180 della legge del 29 aprile 1998 sull’agricoltura o agli articoli 32 e 50*a* della legge forestale del 4 ottobre 1991: i controlli delle aziende secondo gli articoli 78 e 91 nonché controlli specifici all’importazione.
 
@@ -2067,7 +2110,7 @@ Allegato 6*[^t-1]*
 <tr><td colspan="2">1 Nome e indirizzo dell’esportatore</td><td colspan="3">2 **Certificato fitosanitario** **n.**</td></tr>
 <tr><td colspan="2">3 Nome e indirizzo del destinatario dichiarato</td><td colspan="3">4 **Servizio fitosanitario** **di** al(ai) Servizio(i) fitosanitario(i) di</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Luogo di origine</td></tr>
-<tr><td colspan="2">6 Mezzo(i) di trasporto dichiarato(i)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20200801/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Mezzo(i) di trasporto dichiarato(i)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20220101/it/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Punto di entrata dichiarato</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Segni particolari; numero e descrizione dei colli; nome del prodotto, nome botanico dei vegetali</td><td>9 Quantitativo dichiarato</td></tr>
 <tr><td colspan="5">10 Si certifica che i vegetali, i prodotti vegetali o gli altri oggetti regolamentati descritti nel presente certificato: – sono stati sottoposti a ispezione e/o test conformemente alle pertinenti procedure ufficiali e – sono considerati indenni da organismi da quarantena specificati dalla Parte contraente importatrice, e sono conformi alle disposizioni fitosanitarie in vigore nella Parte contraente importatrice, comprese quelle relative agli organismi regolamentati non da quarantena. I vegetali, i prodotti vegetali o gli altri oggetti regolamentati sono considerati praticamente indenni da altri organismi nocivi.</td></tr>
@@ -2089,7 +2132,7 @@ Il presente certificato non comporta alcuna responsabilità finanziaria per il S
 <tr><td colspan="2">1 Nome e indirizzo dell’esportatore</td><td colspan="3">2 **Certificato fitosanitario di riesportazione** **n.**</td></tr>
 <tr><td colspan="2">3 Nome e indirizzo del destinatario dichiarato</td><td colspan="3">4 **Servizio fitosanitario di** al(ai) Servizio(i) fitosanitario(i) di</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Luogo di origine</td></tr>
-<tr><td colspan="2">6 Mezzo(i) di trasporto dichiarato(i)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20200801/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Mezzo(i) di trasporto dichiarato(i)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20220101/it/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Punto di entrata dichiarato</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Segni particolari; numero e descrizione dei colli; nome del prodotto, nome botanico dei vegetali</td><td>9 Quantitativo dichiarato</td></tr>
 <tr><td colspan="5">10 Si certifica che i vegetali, i prodotti vegetali o gli altri oggetti regolamentati descritti nel presente certificato sono stati importati da ……………… (Parte contraente di origine) in ……………… (Parte contraente di riesportazione) sulla scorta del certificato fitosanitario n. ………………, – di cui (\*) l’originale ◻ la copia certificata conforme ◻ è allegato(a) al presente certificato – che (\*) sono imballati ◻ reimballati in ◻ contenitori originali ◻ nuovi ◻ e – che (\*) sulla base del certificato fitosanitario originale ◻ e di ulteriori controlli ◻ sono considerati conformi alle disposizioni fitosanitarie in vigore nella Parte contraente di importazione e – che durante l’immagazzinamento in ……………… (Parte contraente di riesportazione) non sono stati esposti al rischio di infestazione o di infezione. (\*) Contrassegnare la casella/le caselle opportuna/e</td></tr>
@@ -2106,7 +2149,7 @@ Il presente certificato non comporta alcuna responsabilità finanziaria per il S
 ### 3. Modello di certificato di pre-esportazione
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20200801/it/xml/image/image1.png)1 **Certificato di pre-esportazione** **N. CH / Numero interno di riferimento individuale** Il presente documento è rilasciato dall’autorità competente svizzera in conformità dell’ordinanza sulla salute dei vegetali (RS 916.20) su richiesta di un’azienda, al fine di comunicare alle autorità competenti degli Stati membri dell’UE l’avvenuta applicazione di determinate procedure fitosanitarie.</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20220101/it/xml/image/image1.png)1 **Certificato di pre-esportazione** **N. CH / Numero interno di riferimento individuale** Il presente documento è rilasciato dall’autorità competente svizzera in conformità dell’ordinanza sulla salute dei vegetali (RS 916.20) su richiesta di un’azienda, al fine di comunicare alle autorità competenti degli Stati membri dell’UE l’avvenuta applicazione di determinate procedure fitosanitarie.</td></tr>
 <tr><td colspan="3">2 Nome del Paese di origine e nome dell’autorità competente che rilascia la dichiarazione (e, se richiesto, logo dell’autorità competente del Paese di origine)</td></tr>
 <tr><td colspan="3">3 Azienda</td></tr>
 <tr><td colspan="2">4 Descrizione dell’invio</td><td>5 Quantitativo dichiarato</td></tr>
