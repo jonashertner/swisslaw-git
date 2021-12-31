@@ -4,11 +4,11 @@ title: Alkoholverordnung vom 15. September 2017 (AlkV)
 short: AlkV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/568"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/568/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-568-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/568/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-568-20220101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20180101/de"
 
 (AlkV)
 
-vom 15. September 2017 (Stand am 1. Januar 2018)
+vom 15. September 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 70 Absatz 1 und 78 des Alkoholgesetzes vom 21. Juni 19
 
 verordnet:
 
-[^ingress-1]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^ingress-1]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -37,9 +37,9 @@ verordnet:
 
 In dieser Verordnung bedeuten:
 
-- a. *Gebrannte Wasser*: Ethanol und Spirituosen;
+- a. *Gebrannte Wasser**:* Ethanol und Spirituosen;
 - b. *Ethanol:* Ethylalkohol (C<sub>2</sub>H<sub>5</sub>OH) in jeder Form und ohne Rücksicht auf die Art seiner Herstellung und seiner Verwendung; jede andere Alkoholart, die Trink- und Konsumzwecken dienen kann und den Ethylalkohol zu ersetzen vermag, gilt für die Zwecke dieser Verordnung als Ethanol;
-- c. *Spirituose*: Getränk, das durch Destillation oder andere technische Verfahren gewonnenes Ethanol enthält; als Spirituose gilt für die Zwecke dieser Verordnung auch reines oder verdünntes Ethanol, das zum menschlichen Konsum bestimmt ist;
+- c. *Spirituose:* Getränk, das durch Destillation oder andere technische Verfahren gewonnenes Ethanol enthält; als Spirituose gilt für die Zwecke dieser Verordnung auch reines oder verdünntes Ethanol, das zum menschlichen Konsum bestimmt ist;
 - d.
 
   *Ausschliesslich durch Vergärung gewonnene alkoholische Erzeugnisse:*
@@ -48,11 +48,11 @@ In dieser Verordnung bedeuten:
   - 2\. Naturweine aus frischen Weintrauben mit einem Alkoholgehalt von nicht mehr als 18 Volumenprozenten ohne Zusatz von gebrannten Wassern;
 
 - e. *Landwirt und Landwirtin:* Bewirtschafter oder Bewirtschafterin im Sinne der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^1-1], der oder die einen Betrieb mit mindestens 1 Hektare, bei Betrieben mit Spezialkulturen mit mindestens 50 Aren und bei Betrieben mit Reben in Steil- und Terrassenlagen mit mindestens 30 Aren anrechenbarer Nutzfläche führt;
-- f. *Landwirtschaftliche Brennerei*: Hausbrennerei nach Artikel 14 AlkG;
-- g. *Gewerbeproduzent und -produzentin*: Inhaber oder Inhaberin eines Gewerbebetriebes, dessen Jahresproduktion 200 Liter reinen Alkohol regelmässig übersteigt;
+- f. *Landwirtschaftliche Brennerei**:* Hausbrennerei nach Artikel 14 AlkG;
+- g. *Gewerbeproduzent und -produzentin**:* Inhaber oder Inhaberin eines Gewerbebetriebes, dessen Jahresproduktion 200 Liter reinen Alkohol regelmässig übersteigt;
 - h. *Kleinproduzent und* *‑produzentin:* Person, deren Jahresproduktion 200 Liter reinen Alkohol nicht übersteigt.
 
-[^1-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^1-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 #### Art. 2
 
@@ -60,10 +60,12 @@ In dieser Verordnung bedeuten:
 
 ### (Art. 23 AlkG)
 
-Aufzeichnungen und Meldungen, die zur Veranlagung erforderlich sind, erfolgen in der von der Eidgenössischen Zollverwaltung (EZV) vorgeschriebenen Form:
+Aufzeichnungen und Meldungen, die zur Veranlagung erforderlich sind, erfolgen in der vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^2-1] vorgeschriebenen Form:
 
 - a. elektronisch; oder
 - b. schriftlich.
+
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Oktober 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Januar 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ## 2. Kapitel: Herstellung gebrannter Wasser
 
@@ -97,9 +99,9 @@ Die Konzessionen für das Herstellen oder das Reinigen von gebrannten Wassern we
 
 <sup>3</sup> Gewerbe- und Lohnbrennereien müssen für die Feststellung der erzeugten Menge von gebrannten Wassern über Behälter, Waagen oder Durchlaufzähler verfügen, die den Bestimmungen der Messmittelverordnung vom 15. Februar 2006[^4-1] und den entsprechenden Ausführungsbestimmungen des Eidgenössischen Justiz- und Polizeidepartementes entsprechen.
 
-<sup>4</sup> Gewerbebrennereien müssen für die Lagerung von gebrannten Wassern über Behältnisse verfügen, die den Richtlinien der EZV entsprechen.
+<sup>4</sup> Gewerbebrennereien müssen für die Lagerung von gebrannten Wassern über Behältnisse verfügen, die den Richtlinien des BAZG entsprechen.
 
-[^4-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^4-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 5
 
@@ -115,7 +117,7 @@ Die gewerbliche Konzession bezeichnet die Produkte (Ethanol und Spirituosen) sow
 
 ### (Art. 13 AlkG)
 
-In der Konzession der fahrbaren Lohnbrennereien wird der Hauptstandort mit der Postadresse bezeichnet. Die weiteren Standorte müssen der EZV im Voraus bekannt gegeben werden.
+In der Konzession der fahrbaren Lohnbrennereien wird der Hauptstandort mit der Postadresse bezeichnet. Die weiteren Standorte müssen dem BAZG im Voraus bekannt gegeben werden.
 
 #### Art. 7
 
@@ -123,7 +125,7 @@ In der Konzession der fahrbaren Lohnbrennereien wird der Hauptstandort mit der P
 
 ### (Art. 14 AlkG)
 
-Sind Landwirte oder Landwirtinnen infolge der örtlichen Lage ihres Betriebes ausser Stande, sich einer Lohnbrennerei zu bedienen, so kann die EZV einem benachbarten Landwirtschaftsbetrieb die Bewilligung erteilen, deren Rohstoffe zu brennen oder ihnen den eigenen Brennapparat auszuleihen oder zu vermieten. Die für die gewerbliche Produktion vorgesehenen Kontrollmassnahmen sind sinngemäss anwendbar.
+Sind Landwirte oder Landwirtinnen infolge der örtlichen Lage ihres Betriebes ausser Stande, sich einer Lohnbrennerei zu bedienen, so kann das BAZG einem benachbarten Landwirtschaftsbetrieb die Bewilligung erteilen, deren Rohstoffe zu brennen oder ihnen den eigenen Brennapparat auszuleihen oder zu vermieten. Die für die gewerbliche Produktion vorgesehenen Kontrollmassnahmen sind sinngemäss anwendbar.
 
 #### Art. 8
 
@@ -131,7 +133,7 @@ Sind Landwirte oder Landwirtinnen infolge der örtlichen Lage ihres Betriebes au
 
 ### (Art. 14 AlkG)
 
-<sup>1</sup> Die EZV kann die Vergrösserung des Blaseninhalts einer landwirtschaftlichen Brennerei auf maximal 150 Liter gestatten.
+<sup>1</sup> Das BAZG kann die Vergrösserung des Blaseninhalts einer landwirtschaftlichen Brennerei auf maximal 150 Liter gestatten.
 
 <sup>2</sup> Landwirte und Landwirtinnen, die ihre Brennerei vernichten oder unbrauchbar machen, haben das Recht, während 25 Jahren ihre Konzession zu reaktivieren. Dieses Recht ist übertragbar.
 
@@ -153,7 +155,7 @@ Sind Landwirte oder Landwirtinnen infolge der örtlichen Lage ihres Betriebes au
 
 ### (Art. 7 AlkG)
 
-<sup>1</sup> Die EZV kontrolliert die Einhaltung der Konzessionsvorschriften.
+<sup>1</sup> Das BAZG kontrolliert die Einhaltung der Konzessionsvorschriften.
 
 <sup>2</sup> Die Kontrollkosten können dem Inhaber oder der Inhaberin der Konzession überbunden werden.
 
@@ -163,9 +165,9 @@ Sind Landwirte oder Landwirtinnen infolge der örtlichen Lage ihres Betriebes au
 
 ### (Art. 7 Abs. 3 AlkG)
 
-<sup>1</sup> Die EZV kann Kontrollvorrichtungen anordnen, soweit sie solche als erforderlich erachtet. Die Kosten können dem Inhaber oder der Inhaberin der Brennerei überbunden werden.
+<sup>1</sup> Das BAZG kann Kontrollvorrichtungen anordnen, soweit es solche als erforderlich erachtet. Die Kosten können dem Inhaber oder der Inhaberin der Brennerei überbunden werden.
 
-<sup>2</sup> Die Kontrollvorrichtungen dürfen nur durch die EZV angebracht und entfernt werden. Sie kann den Inhaber oder die Inhaberin der Brennerei ermächtigen, die Kontrollvorrichtungen selber anzubringen und zu entfernen.
+<sup>2</sup> Die Kontrollvorrichtungen dürfen nur durch das BAZG angebracht und entfernt werden. Es kann den Inhaber oder die Inhaberin der Brennerei ermächtigen, die Kontrollvorrichtungen selber anzubringen und zu entfernen.
 
 <sup>3</sup> Jede Beschädigung oder Störung ist unverzüglich zu melden.
 
@@ -175,7 +177,7 @@ Sind Landwirte oder Landwirtinnen infolge der örtlichen Lage ihres Betriebes au
 
 ### (Art. 7 AlkG)
 
-Die EZV kann weitere Kontrollmassnahmen anordnen, die ihr als gerechtfertigt erscheinen.
+Das BAZG kann weitere Kontrollmassnahmen anordnen, die ihm als gerechtfertigt erscheinen.
 
 #### Art. 13
 
@@ -183,13 +185,13 @@ Die EZV kann weitere Kontrollmassnahmen anordnen, die ihr als gerechtfertigt ers
 
 ### (Art. 6 Abs. 3 AlkG)
 
-Die EZV kann das Herstellen von gebrannten Wassern verweigern oder an das Erbringen einer Sicherheitsleistung knüpfen, wenn:
+Das BAZG kann das Herstellen von gebrannten Wassern verweigern oder an das Erbringen einer Sicherheitsleistung knüpfen, wenn:
 
 - a. die Zahlung als gefährdet erscheint;
 - b. verfallene Steuerschulden vorliegen;
 - c. die steuerpflichtige Person mit der Zahlung in Verzug ist;
 - d. ein Betreibungsverfahren hängig ist; oder
-- e. sie im Besitz von Verlustscheinen aus erfolglosen Betreibungs- oder Konkursverfahren ist.
+- e. es im Besitz von Verlustscheinen aus erfolglosen Betreibungs- oder Konkursverfahren ist.
 
 #### Art. 14
 
@@ -205,7 +207,7 @@ Landwirte und Landwirtinnen, die jährlich mehr als 200 Liter reinen Alkohol her
 
 ### (Art. 7 Abs. 4 AlkG)
 
-Einrichtungen, die zur Herstellung gebrannter Wasser dienen können und für die keine Konzession besteht, unterstehen ebenfalls der Kontrolle der EZV.
+Einrichtungen, die zur Herstellung gebrannter Wasser dienen können und für die keine Konzession besteht, unterstehen ebenfalls der Kontrolle des BAZG.
 
 ### 3. Abschnitt: Übernahmepreise für Kernobstbrand
 
@@ -275,7 +277,7 @@ Die Steuerforderung entsteht:
 
 <sup>4</sup> Die Bestimmungen über die Steuerlager und die Verwendungsbewilligung sind vorbehalten.
 
-[^20-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^20-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### 3. Abschnitt: Steuerbemessung
 
@@ -315,7 +317,7 @@ Die Steuerfreiheit nicht beanspruchen können Personen, die:
 
 <sup>1</sup>
 
-Die EZV kann für den steuerfreien Eigenbedarf eine Höchstgrenze festsetzen:
+Das BAZG kann für den steuerfreien Eigenbedarf eine Höchstgrenze festsetzen:
 
 - a. bei Landwirtschaftsbetrieben von öffentlich-rechtlichen Körperschaften oder gemeinnützigen Anstalten, sowie bei den Landwirtschaftsbetrieben natürlicher oder juristischer Personen, die von einer angestellten Person verwaltet oder geführt werden;
 - b. bei Landwirtschaftsbetrieben, die von einer oder mehreren Personen auf gemeinsame Rechnung bewirtschaftet werden, wenn eine oder mehrere dieser Personen einer weiteren regelmässigen Erwerbstätigkeit nachgehen;
@@ -327,7 +329,7 @@ Die EZV kann für den steuerfreien Eigenbedarf eine Höchstgrenze festsetzen:
 - h. bei Landwirten und Landwirtinnen, die sich über die rechtmässige Verwendung des steuerfreien Eigenbedarfs nicht ausweisen können, bei denen ein aussergewöhnlich hoher Eigenbedarf festgestellt wird oder bei denen infolge besonderer Verhältnisse die Kontrolle der Erzeugung oder Verwendung der Spirituosen erschwert ist;
 - i. bei Landwirten und Landwirtinnen, die wegen Widerhandlung gegen das Alkoholrecht bestraft worden sind.
 
-<sup>2</sup> Die Höchstgrenze des jährlichen steuerfreien Eigenbedarfs beträgt 5 Liter Spirituosen je erwachsene, im Landwirtschaftsbetrieb ständig tätige Person und 1 Liter je Stück Grossvieh. Die EZV kann in den Fällen von Absatz 1 Buchstabe h die Höchstmenge des steuerfreien Eigenbedarfs in Abweichung von dieser Regel festsetzen.
+<sup>2</sup> Die Höchstgrenze des jährlichen steuerfreien Eigenbedarfs beträgt 5 Liter Spirituosen je erwachsene, im Landwirtschaftsbetrieb ständig tätige Person und 1 Liter je Stück Grossvieh. Das BAZG kann in den Fällen von Absatz 1 Buchstabe h die Höchstmenge des steuerfreien Eigenbedarfs in Abweichung von dieser Regel festsetzen.
 
 #### Art. 24
 
@@ -351,7 +353,7 @@ Die Steuer für Kleinproduzenten und -produzentinnen wird um 30 Prozent ermässi
 
 <sup>3</sup> Verkaufsflächen müssen sichtbar gekennzeichnet vom Steuerlager getrennt sein.
 
-<sup>4</sup> Die EZV kann weitere Anforderungen festlegen, die im Einzelfall je nach Art der Waren und der Tätigkeiten für die Gewährleistung der Steuersicherheit erforderlich sind.
+<sup>4</sup> Das BAZG kann weitere Anforderungen festlegen, die im Einzelfall je nach Art der Waren und der Tätigkeiten für die Gewährleistung der Steuersicherheit erforderlich sind.
 
 #### Art. 26
 
@@ -359,7 +361,7 @@ Die Steuer für Kleinproduzenten und -produzentinnen wird um 30 Prozent ermässi
 
 ### (Art. 34 Abs. 3 AlkG)
 
-<sup>1</sup> Die steuerpflichtige Person muss das Gesuch um Bewilligung eines Steuerlagers bei der EZV einreichen.
+<sup>1</sup> Die steuerpflichtige Person muss das Gesuch um Bewilligung eines Steuerlagers beim BAZG einreichen.
 
 <sup>2</sup>
 
@@ -382,7 +384,7 @@ Dem Gesuch sind die für die Beurteilung wesentlichen Unterlagen beizulegen, ins
 
 <sup>2</sup> Die zu leistende Sicherheit richtet sich nach dem durchschnittlichen jährlichen Lagerbestand und den Mengen, die monatlich in den steuerrechtlich freien Verkehr überführt werden.
 
-<sup>3</sup> Die EZV bestimmt die Höhe der Sicherheit. Sie kann zusätzliche Auflagen und einen Mindestbetrag festlegen.
+<sup>3</sup> Das BAZG bestimmt die Höhe der Sicherheit. Es kann zusätzliche Auflagen und einen Mindestbetrag festlegen.
 
 #### Art. 28
 
@@ -392,7 +394,7 @@ Dem Gesuch sind die für die Beurteilung wesentlichen Unterlagen beizulegen, ins
 
 <sup>1</sup>
 
-Die EZV bewilligt ein Steuerlager, wenn:
+Das BAZG bewilligt ein Steuerlager, wenn:
 
 - a. jährlich mindestens 200 Liter reiner Alkohol im Sinne von Artikel 25 bewirtschaftet werden;
 - b. die erforderlichen Sicherheiten geleistet werden;
@@ -429,7 +431,7 @@ Der Lagerbetreiber oder die Lagerbetreiberin hat über die Ein- und die Ausgäng
 
 ### (Art. 34 Abs. 3 AlkG)
 
-<sup>1</sup> Steuerlagerbetriebe haben die Ein- und die Ausgänge monatlich bis zum 8. Tag des Folgemonats bei der EZV zur Veranlagung anzumelden. Gleichzeitig ist der Lagerbestand bekannt zu geben.
+<sup>1</sup> Steuerlagerbetriebe haben die Ein- und die Ausgänge monatlich bis zum 8. Tag des Folgemonats beim BAZG zur Veranlagung anzumelden. Gleichzeitig ist der Lagerbestand bekannt zu geben.
 
 <sup>2</sup> Ergibt sich ein Saldo zugunsten des Steuerlagerbetriebes, so wird ihm dieser gutgeschrieben oder verrechnet.
 
@@ -447,7 +449,7 @@ Der Lagerbetreiber oder die Lagerbetreiberin muss Änderungen, die Auswirkungen 
 
 ### (Art. 34 Abs. 3 AlkG)
 
-<sup>1</sup> Will der Lagerbetreiber oder die Lagerbetreiberin auf die Steuerlagerbewilligung verzichten, so ist dies der EZV drei Monate im Voraus mitzuteilen.
+<sup>1</sup> Will der Lagerbetreiber oder die Lagerbetreiberin auf die Steuerlagerbewilligung verzichten, so ist dies dem BAZG drei Monate im Voraus mitzuteilen.
 
 <sup>2</sup> Der Verzicht auf die Steuerlagerbewilligung wird auf ein Monatsende wirksam.
 
@@ -457,7 +459,7 @@ Der Lagerbetreiber oder die Lagerbetreiberin muss Änderungen, die Auswirkungen 
 
 ### (Art. 34 Abs. 3 AlkG)
 
-<sup>1</sup> Der Entzug der Steuerlagerbewilligung erfolgt durch eine Verfügung der EZV.
+<sup>1</sup> Der Entzug der Steuerlagerbewilligung erfolgt durch eine Verfügung des BAZG.
 
 <sup>2</sup>
 
@@ -493,7 +495,7 @@ Die Bewilligung für ein Steuerlager erlischt:
 
 ### (Art. 32 Abs. 2 AlkG)
 
-<sup>1</sup> Der Betrieb hat das Gesuch für eine Verwendungsbewilligung bei der EZV einzureichen.
+<sup>1</sup> Der Betrieb hat das Gesuch für eine Verwendungsbewilligung beim BAZG einzureichen.
 
 <sup>2</sup>
 
@@ -520,7 +522,7 @@ Dem Gesuch sind die für die Beurteilung wesentlichen Unterlagen beizufügen, in
 
 <sup>1</sup>
 
-Die EZV erteilt eine Verwendungsbewilligung, wenn:
+Das BAZG erteilt eine Verwendungsbewilligung, wenn:
 
 - a. es sich um eine Verwendung gewerblicher Natur nach Artikel 32 Absatz 1 AlkG oder zu Forschungszwecken handelt;
 - b.
@@ -545,7 +547,7 @@ Die EZV erteilt eine Verwendungsbewilligung, wenn:
 
 ### (Art. 32 Abs. 2 AlkG)
 
-<sup>1</sup> Der Inhaber oder die Inhaberin einer Verwendungsbewilligung hat bis zum 8. Tag des Folgemonats bei der EZV die Menge Ethanol anzumelden, die steuerpflichtig verwendet oder zur steuerpflichtigen Verwendung abgegeben wird.
+<sup>1</sup> Der Inhaber oder die Inhaberin einer Verwendungsbewilligung hat bis zum 8. Tag des Folgemonats beim BAZG die Menge Ethanol anzumelden, die steuerpflichtig verwendet oder zur steuerpflichtigen Verwendung abgegeben wird.
 
 <sup>2</sup> Ergibt sich ein Saldo zugunsten des Inhabers oder der Inhaberin der Verwendungsbewilligung, wird ihm oder ihr dieser gutgeschrieben oder verrechnet.
 
@@ -565,7 +567,7 @@ Die EZV erteilt eine Verwendungsbewilligung, wenn:
 
 ### (Art. 32 Abs. 2 AlkG)
 
-<sup>1</sup> Der Inhaber oder die Inhaberin einer Verwendungsbewilligung muss die jährlichen Ergebnisse der Warenbuchhaltung nach den Weisungen der EZV melden.
+<sup>1</sup> Der Inhaber oder die Inhaberin einer Verwendungsbewilligung muss die jährlichen Ergebnisse der Warenbuchhaltung nach den Weisungen des BAZG melden.
 
 <sup>2</sup>
 
@@ -665,7 +667,7 @@ Von der Pflicht zur Denaturierung ausgenommen sind Ethanol, Spirituosen und etha
 - a. für Lebens- oder Arzneimitteln bestimmt sind; oder
 - b. im Rahmen der Herstellung, der Verarbeitung oder der Verwendung mit Lebens- oder Arzneimitteln oder mit medizinaltechnischen Erzeugnissen in direkten Kontakt kommen können.
 
-<sup>3</sup> Die EZV kann auf Antrag weitere Ausnahmen von der Denaturierungspflicht bewilligen, wenn nachgewiesen wird, dass der Einsatz denaturierten Ethanols nicht möglich ist.
+<sup>3</sup> Das BAZG kann auf Antrag weitere Ausnahmen von der Denaturierungspflicht bewilligen, wenn nachgewiesen wird, dass der Einsatz denaturierten Ethanols nicht möglich ist.
 
 #### Art. 47
 
@@ -673,7 +675,7 @@ Von der Pflicht zur Denaturierung ausgenommen sind Ethanol, Spirituosen und etha
 
 ### (Art. 31 AlkG)
 
-<sup>1</sup> Ethanol und Spirituosen gelten als denaturiert, wenn darin mindestens ein von der EZV zugelassenes Denaturierungsmittel in der von ihr festgelegten Konzentration enthalten ist.
+<sup>1</sup> Ethanol und Spirituosen gelten als denaturiert, wenn darin mindestens ein vom BAZG zugelassenes Denaturierungsmittel in der von ihm festgelegten Konzentration enthalten ist.
 
 <sup>2</sup> Erzeugnisse oder alkoholhaltige Lösungen gelten als denaturiert, wenn sie bei der Herstellung steuerbefreiter Erzeugnisse in einer Weise verändert werden, dass sie für den Menschen nicht mehr geniessbar sind.
 
@@ -685,7 +687,7 @@ Von der Pflicht zur Denaturierung ausgenommen sind Ethanol, Spirituosen und etha
 
 ### (Art. 31 Abs. 2 AlkG)
 
-<sup>1</sup> Das Gesuch für eine Denaturierungsermächtigung ist bei der EZV einzureichen.
+<sup>1</sup> Das Gesuch für eine Denaturierungsermächtigung ist beim BAZG einzureichen.
 
 <sup>2</sup>
 
@@ -704,11 +706,11 @@ Dem Gesuch sind insbesondere anzufügen:
 
 <sup>1</sup>
 
-Die EZV erteilt eine Denaturierungsermächtigung, wenn:
+Das BAZG erteilt eine Denaturierungsermächtigung, wenn:
 
 - a. der Betrieb eine Steuerlager- oder einer Verwendungsbewilligung besitzt;
 - b. die Nachvollziehbarkeit des Denaturierungsprozesses sichergestellt ist;
-- c. der Gesuchsteller oder die Gesuchstellerin nachweist, dass gestützt auf Artikel 31 Absatz 3 AlkG durch die EZV zugelassene Denaturierungsmethoden zum Einsatz kommen;
+- c. der Gesuchsteller oder die Gesuchstellerin nachweist, dass gestützt auf Artikel 31 Absatz 3 AlkG durch das BAZG zugelassene Denaturierungsmethoden zum Einsatz kommen;
 - d. der Betrieb über die erforderlichen Messmittel verfügt; und
 - e. mehr als 1000 Liter reiner Alkohol pro Jahr denaturiert werden.
 
@@ -748,9 +750,9 @@ Artikel 33 und 34 finden sinngemäss Anwendung.
 
 ### (Art. 31 Abs. 2 AlkG)
 
-<sup>1</sup> Personen, die nicht Inhaber oder Inhaberin einer Denaturierungsermächtigung sind, können bei der EZV die Zulassung zu einer einmaligen Denaturierung beantragen.
+<sup>1</sup> Personen, die nicht Inhaber oder Inhaberin einer Denaturierungsermächtigung sind, können beim BAZG die Zulassung zu einer einmaligen Denaturierung beantragen.
 
-<sup>2</sup> Die Denaturierung ist mindestens fünf Arbeitstage im Voraus bei der EZV zu beantragen.
+<sup>2</sup> Die Denaturierung ist mindestens fünf Arbeitstage im Voraus beim BAZG zu beantragen.
 
 <sup>3</sup>
 
@@ -761,7 +763,7 @@ Dem Antrag sind Angaben beizufügen über:
 - c. die zu denaturierende Menge;
 - d. den Denaturierprozess und die vorhandenen Installationen.
 
-<sup>4</sup> Wer eine Denaturierung beantragt, hat die Denaturierstoffe zu beschaffen, geeignete Messmittel zur Verfügung zu stellen und die erforderlichen Sicherheitsmassnahmen zu treffen. Die EZV legt das weitere Vorgehen fest.
+<sup>4</sup> Wer eine Denaturierung beantragt, hat die Denaturierstoffe zu beschaffen, geeignete Messmittel zur Verfügung zu stellen und die erforderlichen Sicherheitsmassnahmen zu treffen. Das BAZG legt das weitere Vorgehen fest.
 
 ### 9. Abschnitt: Steuererhebung, Steuerrückerstattung und Steuererlass
 
@@ -771,7 +773,7 @@ Dem Antrag sind Angaben beizufügen über:
 
 ### (Art. 23 Abs. 1<sup>bis</sup> AlkG)
 
-<sup>1</sup> Die steuerpflichtige Person muss bei der EZV die Steueranmeldung einreichen.
+<sup>1</sup> Die steuerpflichtige Person muss beim BAZG die Steueranmeldung einreichen.
 
 <sup>2</sup> Die Anmeldung muss unmittelbar nach der Entstehung der Steuerforderung erfolgen. Artikel 31, 38, 57 und 58 bleiben vorbehalten.
 
@@ -783,15 +785,15 @@ Dem Antrag sind Angaben beizufügen über:
 
 ### (Art. 23 Abs. 1<sup>bis</sup> AlkG)
 
-<sup>1</sup> Die Veranlagung erfolgt aufgrund der Steueranmeldung der anmeldepflichtigen Person. Die EZV kann die Veranlagung auch aufgrund ihrer eigenen Feststellungen vornehmen. Die Veranlagung ergeht in Form einer Verfügung.
+<sup>1</sup> Die Veranlagung erfolgt aufgrund der Steueranmeldung der anmeldepflichtigen Person. Das BAZG kann die Veranlagung auch aufgrund ihrer eigenen Feststellungen vornehmen. Die Veranlagung ergeht in Form einer Verfügung.
 
 <sup>2</sup> Für die Steuerveranlagung sind das Volumen oder die Masse und der Alkoholge-halt massgebend.
 
-<sup>3</sup> Die EZV kann die Materialien vorschreiben, die für die Feststellung der Menge der steuerpflichtigen gebrannten Wasser erforderlich sind, insbesondere die Messmittel nach der Alkoholbestimmungsverordnung vom 5. Oktober 2010[^55-1].
+<sup>3</sup> Das BAZG kann die Materialien vorschreiben, die für die Feststellung der Menge der steuerpflichtigen gebrannten Wasser erforderlich sind, insbesondere die Messmittel nach der Alkoholbestimmungsverordnung vom 5. Oktober 2010[^55-1].
 
 <sup>4</sup> Gewerbeproduzenten und -produzentinnen haben als Basis für die Steueranmeldung eine Rohstoff- und Alkoholbuchhaltung zu führen.
 
-[^55-1]: [SR 941.210.2](https://fedlex.data.admin.ch/eli/cc/2010/664)
+[^55-1]: [SR 941.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11182)
 
 #### Art. 56
 
@@ -801,7 +803,7 @@ Dem Antrag sind Angaben beizufügen über:
 
 <sup>1</sup> Landwirte und Landwirtinnen werden für die Spirituosenmenge veranlagt, die sie entgeltlich oder unentgeltlich an Dritte abgeben oder für die der steuerfreie Eigenbedarf nicht beansprucht werden kann.
 
-<sup>2</sup> Landwirte und Landwirtinnen mit oder ohne begrenztem steuerfreiem Eigenbedarf sind verpflichtet, jede Weitergabe der EZV zu melden.
+<sup>2</sup> Landwirte und Landwirtinnen mit oder ohne begrenztem steuerfreiem Eigenbedarf sind verpflichtet, jede Weitergabe dem BAZG zu melden.
 
 <sup>3</sup> Erreichen die seit Anfang Rechnungsjahr zu versteuernden Weitergaben von Spirituosen eine Menge von 50 Litern, so sind sie am Ende des Monats, in dem die Menge überschritten wird, zur Veranlagung anzumelden. Mengen von weniger als 50 Liter werden am Ende des Rechnungsjahres veranlagt.
 
@@ -823,7 +825,7 @@ Die Einfuhrzollanmeldung muss folgende Angaben enthalten:
 - b. den Alkoholgehalt; und
 - c. bei Waren, die unter Steueraussetzung in ein Steuerlager oder an einen Betrieb mit Verwendungsbewilligung geliefert werden: die Bewilligungsnummer.
 
-<sup>2</sup> Bestehen bei der Einfuhr Zweifel, ob die Steuer zu erheben ist, so entscheidet die EZV. Die Zollorgane erheben die Steuer an der Grenze nach dem Veranlagungsverfahren des Zollrechts.
+<sup>2</sup> Bestehen bei der Einfuhr Zweifel, ob die Steuer zu erheben ist, so entscheidet das BAZG. Die Zollorgane erheben die Steuer an der Grenze nach dem Veranlagungsverfahren des Zollrechts.
 
 #### Art. 58
 
@@ -846,7 +848,7 @@ Die Ausfuhrzollanmeldung muss folgende Angaben enthalten:
 
 ### (Art. 23 Abs. 1<sup>bis</sup> AlkG)
 
-Die EZV kann im Rahmen der Steueraufsicht von Getränken und Erzeugnissen, die der Steuer unterliegen oder unterliegen können, sowie von Stoffen, die zur Herstellung solcher Waren bestimmt sind, unentgeltlich Proben zur Untersuchung entnehmen.
+Das BAZG kann im Rahmen der Steueraufsicht von Getränken und Erzeugnissen, die der Steuer unterliegen oder unterliegen können, sowie von Stoffen, die zur Herstellung solcher Waren bestimmt sind, unentgeltlich Proben zur Untersuchung entnehmen.
 
 #### Art. 60
 
@@ -854,9 +856,9 @@ Die EZV kann im Rahmen der Steueraufsicht von Getränken und Erzeugnissen, die d
 
 ### (Art. 23<sup>bis</sup> Abs. 3 AlkG)
 
-<sup>1</sup> Das bei der EZV einzureichende Gesuch muss die Begehren und deren Begründung enthalten. Dem Gesuch sind die für die Begründung des Begehrens wesentlichen Nachweise beizufügen.
+<sup>1</sup> Das beim BAZG einzureichende Gesuch muss die Begehren und deren Begründung enthalten. Dem Gesuch sind die für die Begründung des Begehrens wesentlichen Nachweise beizufügen.
 
-<sup>2</sup> Die EZV ist berechtigt, die Gewährung der Rückerstattung von der Erfüllung bestimmter Kontrollbedingungen abhängig zu machen.
+<sup>2</sup> Das BAZG ist berechtigt, die Gewährung der Rückerstattung von der Erfüllung bestimmter Kontrollbedingungen abhängig zu machen.
 
 <sup>3</sup> Kann der Betrag der fiskalischen Belastung nicht einwandfrei nachgewiesen werden, so kann für die Rückerstattung der niedrigste Satz zur Anwendung gelangen.
 
@@ -870,7 +872,7 @@ Die EZV kann im Rahmen der Steueraufsicht von Getränken und Erzeugnissen, die d
 
 ### (Art. 69 Abs. 3 und 4 AlkG)
 
-<sup>1</sup> Die EZV kann steuerpflichtigen Personen, die ausser Stande sind, den von ihnen zu leistenden Betrag rechtzeitig zu bezahlen, auf Gesuch hin Stundung gewähren.
+<sup>1</sup> Das BAZG kann steuerpflichtigen Personen, die ausser Stande sind, den von ihnen zu leistenden Betrag rechtzeitig zu bezahlen, auf Gesuch hin Stundung gewähren.
 
 <sup>2</sup> Lassen die Verhältnisse der steuerpflichtigen Person die Eintreibung des zu leistenden Betrages als grosse Härte erscheinen, so kann auf Gesuch hin ein teilweiser oder vollständiger Erlass gewährt werden. Dem Gesuch sind Unterlagen beizulegen, aus denen die finanziellen Verhältnisse (Vermögens- und Einkommensverhältnisse, Schuldverpflichtungen) hervorgehen.
 
@@ -882,7 +884,7 @@ Die EZV kann im Rahmen der Steueraufsicht von Getränken und Erzeugnissen, die d
 
 ### (Art. 69 Abs. 5 AlkG)
 
-Der Untergang einer versteuerten oder unversteuerten Ware ist der EZV unverzüglich zu melden. Die EZV kann eine abweichende Regelung dieser Meldung vorsehen, sofern aufgrund anderweitiger Bestimmungen eine Dokumentationspflicht im Fall des Untergangs besteht.
+Der Untergang einer versteuerten oder unversteuerten Ware ist dem BAZG unverzüglich zu melden. Das BAZG kann eine abweichende Regelung dieser Meldung vorsehen, sofern aufgrund anderweitiger Bestimmungen eine Dokumentationspflicht im Fall des Untergangs besteht.
 
 #### Art. 63
 
@@ -890,11 +892,11 @@ Der Untergang einer versteuerten oder unversteuerten Ware ist der EZV unverzügl
 
 ### (Art. 69 Abs. 6 AlkG)
 
-<sup>1</sup> Die willentliche Vernichtung einer versteuerten oder unversteuerten Ware ist vorgängig der EZV zu melden.
+<sup>1</sup> Die willentliche Vernichtung einer versteuerten oder unversteuerten Ware ist vorgängig dem BAZG zu melden.
 
 <sup>2</sup> Von der Anmeldepflicht ausgenommen sind Betriebe mit Verwendungsbewilligung, sofern die zu vernichtende Menge 1000 Liter Ethanol nicht übersteigt.
 
-<sup>3</sup> Die EZV regelt die Einzelheiten in Bezug auf die Dokumentation der Vernichtung.
+<sup>3</sup> Das BAZG regelt die Einzelheiten in Bezug auf die Dokumentation der Vernichtung.
 
 ### 10. Abschnitt: Fehlmengen bei Spirituosen
 
@@ -918,7 +920,7 @@ Der Untergang einer versteuerten oder unversteuerten Ware ist der EZV unverzügl
 
 Die Ausführungsbestimmungen der Zollverordnung vom 1. November 2006[^65-1] über die Zollpfandverwertung finden entsprechend Anwendung.
 
-[^65-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^65-1]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## 4. Kapitel: Handelsvorschriften
 
@@ -928,9 +930,9 @@ Die Ausführungsbestimmungen der Zollverordnung vom 1. November 2006[^65-1] übe
 
 ### (Art. 23 Abs. 3 und 42*a* AlkG)
 
-<sup>1</sup> Der Gross- und der Kleinhandel mit gebrannten Wassern unterstehen der Aufsicht der EZV, soweit dies zur Sicherung und zur Überwachung des Zoll- und des Steuerbezugs sowie der Durchführung der sonstigen Bestimmungen des AlkG und dieser Verordnung notwendig ist.
+<sup>1</sup> Der Gross- und der Kleinhandel mit gebrannten Wassern unterstehen der Aufsicht des BAZG, soweit dies zur Sicherung und zur Überwachung des Zoll- und des Steuerbezugs sowie der Durchführung der sonstigen Bestimmungen des AlkG und dieser Verordnung notwendig ist.
 
-<sup>2</sup> Zu diesem Zweck haben die Gross- und die Kleinhändler und -händlerinnen von gebrannten Wassern der EZV alle verlangten Auskünfte zu erteilen und Geschäftspapiere vorzulegen. Die EZV ist befugt, Warenlager und andere Geschäftsräumlichkeiten von Gross- und Kleinhändlern und -händlerinnen durch ihre Organe jederzeit und ohne Voranmeldung kontrollieren zu lassen.
+<sup>2</sup> Zu diesem Zweck haben die Gross- und die Kleinhändler und -händlerinnen von gebrannten Wassern dem BAZG alle verlangten Auskünfte zu erteilen und Geschäftspapiere vorzulegen. Das BAZG ist befugt, Warenlager und andere Geschäftsräumlichkeiten von Gross- und Kleinhändlern und -händlerinnen durch ihre Organe jederzeit und ohne Voranmeldung kontrollieren zu lassen.
 
 #### Art. 67
 
@@ -940,7 +942,7 @@ Die Ausführungsbestimmungen der Zollverordnung vom 1. November 2006[^65-1] übe
 
 <sup>1</sup>
 
-Die Geschäftsbücher und die Belege müssen es der EZV erlauben:
+Die Geschäftsbücher und die Belege müssen es dem BAZG erlauben:
 
 - a. die Ein- und die Ausgänge gebrannter Wasser nach Spirituosenart, Lieferanten, Lieferantinnen, Abnehmer und Abnehmerinnen zu kontrollieren; und
 - b. die Vorräte nach Spirituosenart jederzeit zu überprüfen.
@@ -977,7 +979,7 @@ Wer gebrannte Wasser ausschliesslich aus Eigengewächs oder selbst gesammeltem i
 
 ### (Art. 43 AlkG)
 
-Die EZV fördert die Koordination unter den Kantonen in der Regelung des Kleinhandels, indem sie namentlich:
+Das BAZG fördert die Koordination unter den Kantonen in der Regelung des Kleinhandels, indem sie namentlich:
 
 - a. die Zusammenarbeit zwischen Bund und Kantonen und unter den Kantonen unterstützt;
 - b. den gegenseitigen Informationsaustausch ausbaut;
@@ -990,9 +992,9 @@ Die EZV fördert die Koordination unter den Kantonen in der Regelung des Kleinha
 
 **Statistiken**
 
-<sup>1</sup> Die EZV kann die Angaben über versteuerte Spirituosen zu statistischen Zwecken verwenden.
+<sup>1</sup> Das BAZG kann die Angaben über versteuerte Spirituosen zu statistischen Zwecken verwenden.
 
-<sup>2</sup> Sie kann die Statistiken veröffentlichen.
+<sup>2</sup> Es kann die Statistiken veröffentlichen.
 
 #### Art. 71
 
@@ -1000,9 +1002,9 @@ Die EZV fördert die Koordination unter den Kantonen in der Regelung des Kleinha
 
 ### (Art. 70 AlkG)
 
-Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^71-1] über die Gebühren der Zollverwaltung.
+Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^71-1] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
-[^71-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^71-1]: [SR 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
 #### Art. 72
 
@@ -1020,7 +1022,7 @@ Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^71-1] 
 
 ### (Art. 69 AlkG)
 
-<sup>1</sup> Zu Unrecht erhobene oder zu Unrecht nicht zurückerstattete Beträge werden von der EZV vom Zeitpunkt der Zahlung an verzinst.
+<sup>1</sup> Zu Unrecht erhobene oder zu Unrecht nicht zurückerstattete Beträge werden vom BAZG vom Zeitpunkt der Zahlung an verzinst.
 
 <sup>2</sup> Das EFD legt die Zinssätze fest und regelt, bis zu welchem Betrag kein Vergütungszins ausgerichtet wird.
 
@@ -1030,7 +1032,7 @@ Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^71-1] 
 
 #### Art. 74
 
-<sup>1</sup> Die EZV erhält 7,8 Prozent der Einnahmen aus der Steuer für gebrannte Wasser (Bruttoeinnahmen abzüglich Rückerstattungen). Die Höhe der Vollzugspauschale wird periodisch überprüft.
+<sup>1</sup> Das BAZG erhält 7,8 Prozent der Einnahmen aus der Steuer für gebrannte Wasser (Bruttoeinnahmen abzüglich Rückerstattungen). Die Höhe der Vollzugspauschale wird periodisch überprüft.
 
 <sup>2</sup>
 
@@ -1059,7 +1061,7 @@ Anhang 1
 
 ## Übernahmepreis für Kernobstbrand
 
-Der Übernahmepreis der EZV für Kernobstbrand beträgt je Liter 100 Prozent Alkohol franko Übernahmestelle:
+Der Übernahmepreis des BAZG für Kernobstbrand beträgt je Liter 100 Prozent Alkohol franko Übernahmestelle:
 
 <table>
 <tr><td></td><td>Franken</td></tr>
@@ -1087,6 +1089,6 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [[AS 1999 1731](https://fedlex.data.admin.ch/eli/oc/1999/276), [2003 542](https://fedlex.data.admin.ch/eli/oc/2003/116), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 30, [2009 1757](https://fedlex.data.admin.ch/eli/oc/2009/260), [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 2]
-[^annex2-lvlu1-2]: [[AS 2006 5355](https://fedlex.data.admin.ch/eli/oc/2006/815), [2011 4325](https://fedlex.data.admin.ch/eli/oc/2011/588)Ziff. II 2]
+[^annex2-lvlu1-1]: [[AS 1999 1731](https://fedlex.data.admin.ch/eli/oc/1999/276); [2003 542](https://fedlex.data.admin.ch/eli/oc/2003/116); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 30; [2009 1757](https://fedlex.data.admin.ch/eli/oc/2009/260); [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 2]
+[^annex2-lvlu1-2]: [[AS 2006 5355](https://fedlex.data.admin.ch/eli/oc/2006/815); [2011 4325](https://fedlex.data.admin.ch/eli/oc/2011/588)Ziff. II 2]
 [^annex2-lvlu1-3]: Die Änderungen können unter [AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)konsultiert werden.

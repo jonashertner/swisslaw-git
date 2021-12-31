@@ -4,11 +4,11 @@ title: "Ordinanza del 15 settembre 2017 sull'alcol (OAlc)"
 short: OAlc
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/568"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/568/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-568-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/568/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-568-20220101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20180101/it"
 
 (OAlc)
 
-del 15 settembre 2017 (Stato 1° gennaio 2018)
+del 15 settembre 2017 (Stato 1° gennaio 2022)
 
-*Il Consiglio federale svizzero,*
+Il Consiglio federale svizzero,
 
 visti gli articoli 70 capoverso 1 e 78 della legge del 21 giugno 1932[^ingress-1] sull’alcool (LAlc),
 
 ordina:
 
-[^ingress-1]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^ingress-1]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -37,9 +37,9 @@ ordina:
 
 Nella presente ordinanza s’intende per:
 
-- a. *bevanda distillata*: etanolo e bevande spiritose;
+- a. *bevanda distillata**:* etanolo e bevande spiritose;
 - b. *etanolo:* l’alcol etilico (C<sub>2</sub>H<sub>5</sub>OH) in tutte le sue forme, qualunque sia il modo di produzione e impiego; qualsiasi altro tipo di alcol destinato all’uso come bevanda o genere di consumo e utilizzabile come surrogato dell’alcol etilico è considerato come etanolo ai fini della presente ordinanza;
-- c. *bevanda spiritosa*: bevanda contenente etanolo ottenuto mediante la distillazione o altri procedimenti tecnici; ai fini della presente ordinanza si intende per bevanda spiritosa anche l’etanolo puro o diluito destinato al consumo umano;
+- c. *bevanda spiritosa:* bevanda contenente etanolo ottenuto mediante la distillazione o altri procedimenti tecnici; ai fini della presente ordinanza si intende per bevanda spiritosa anche l’etanolo puro o diluito destinato al consumo umano;
 - d.
 
   *prodotti alcolici ottenuti esclusivamente mediante fermentazione:*
@@ -47,12 +47,12 @@ Nella presente ordinanza s’intende per:
   - 1\. i prodotti definiti nella legislazione sulle derrate alimentari come birra, vino, sidro o vino di frutta non contenenti più del 15 per cento di volume di alcol, senza aggiunta di bevande distillate,
   - 2\. i vini naturali di uve fresche non contenenti più del 18 per cento di volume di alcol, senza aggiunta di bevande distillate;
 
-- e. *agricoltore*: gestore ai sensi dell’ordinanza del 7 dicembre 1998[^1-1] sulla terminologia agricola che dirige un’azienda di almeno un ettaro di superficie agricola utile, oppure di almeno 50 are in caso di colture speciali o di almeno 30 are in caso di vigneti in zone di forte pendenza o in zone terrazzate;
-- f. *distilleria agricola*: distilleria domestica conformemente all’articolo 14 LAlc;
-- g. *produttore professionale*: titolare di un’azienda commerciale la cui produzione annua supera regolarmente i 200 litri di alcol puro;
+- e. *agricoltore**:* gestore ai sensi dell’ordinanza del 7 dicembre 1998[^1-1] sulla terminologia agricola che dirige un’azienda di almeno un ettaro di superficie agricola utile, oppure di almeno 50 are in caso di colture speciali o di almeno 30 are in caso di vigneti in zone di forte pendenza o in zone terrazzate;
+- f. *distilleria agricola**:* distilleria domestica conformemente all’articolo 14 LAlc;
+- g. *produttore professionale**:* titolare di un’azienda commerciale la cui produzione annua supera regolarmente i 200 litri di alcol puro;
 - h. *piccolo produttore:* persona la cui produzione non supera i 200 litri di alcol puro all’anno.
 
-[^1-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^1-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 #### Art. 2
 
@@ -60,10 +60,12 @@ Nella presente ordinanza s’intende per:
 
 ### (art. 3 LAlc)
 
-Le registrazioni e le notifiche necessarie ai fini della tassazione sono effettuate nella forma prescritta dall’Amministrazione federale delle dogane (AFD):
+Le registrazioni e le notifiche necessarie ai fini della tassazione sono effettuate nella forma prescritta Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^2-1]:
 
 - a. in forma elettronica; o
 - b. in forma scritta.
+
+[^2-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Capitolo 2: Produzione di bevande distillate
 
@@ -97,9 +99,9 @@ Le concessioni per la produzione o la rettificazione di bevande distillate sono 
 
 <sup>3</sup> Per determinare la quantità di bevande distillate prodotta, le distillerie professionali e le distillerie per conto di terzi devono disporre di recipienti, bilance o contatori conformi alle disposizioni dell’ordinanza del 15 febbraio 2006[^4-1] sugli strumenti di misurazione e alle pertinenti disposizioni d’esecuzione del Dipartimento federale di giustizia e polizia.
 
-<sup>4</sup> Per l’immagazzinamento delle bevande distillate, le distillerie professionali devono disporre di recipienti conformi alle direttive dell’AFD.
+<sup>4</sup> Per l’immagazzinamento delle bevande distillate, le distillerie professionali devono disporre di recipienti conformi alle direttive dell’UDSC.
 
-[^4-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^4-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 5
 
@@ -115,7 +117,7 @@ La concessione per le distillerie professionali designa i prodotti (etanolo e be
 
 ### (art. 13 LAlc)
 
-Nella concessione per le distillerie ambulanti per conto di terzi figurano il luogo di stazionamento principale della distilleria e l’indirizzo postale. Gli altri luoghi di stazionamento devono essere comunicati in anticipo all’AFD.
+Nella concessione per le distillerie ambulanti per conto di terzi figurano il luogo di stazionamento principale della distilleria e l’indirizzo postale. Gli altri luoghi di stazionamento devono essere comunicati in anticipo all’UDSC.
 
 #### Art. 7
 
@@ -123,7 +125,7 @@ Nella concessione per le distillerie ambulanti per conto di terzi figurano il lu
 
 ### (art. 14 LAlc)
 
-<sup>Per gli agricoltori impossibilitati ad avvalersi di una distilleria che lavora per conto di terzi a causa della loro posizione geografica, l’AFD può autorizzare un’azienda agricola vicina a distillare le loro materie prime o a concedere loro in prestito o a noleggio il proprio apparecchio per distillare. Si applicano per analogia le prescrizioni di controllo previste per la produzione professionale.</sup>
+Per gli agricoltori impossibilitati ad avvalersi di una distilleria che lavora per conto di terzi a causa della loro posizione geografica, l’UDSC può autorizzare un’azienda agricola vicina a distillare le loro materie prime o a concedere loro in prestito o a noleggio il proprio apparecchio per distillare. Si applicano per analogia le prescrizioni di controllo previste per la produzione professionale.
 
 #### Art. 8
 
@@ -131,7 +133,7 @@ Nella concessione per le distillerie ambulanti per conto di terzi figurano il lu
 
 ### (art. 14 LAlc)
 
-<sup>1</sup> L’AFD può autorizzare l’aumento della capacità della caldaia dell’alambicco di una distilleria agricola fino a 150 litri al massimo.
+<sup>1</sup> L’UDSC può autorizzare l’aumento della capacità della caldaia dell’alambicco di una distilleria agricola fino a 150 litri al massimo.
 
 <sup>2</sup> L’agricoltore che distrugge o rende inutilizzabile la propria distilleria ha il diritto di riattivare la concessione durante 25 anni. Questo diritto è trasferibile.
 
@@ -153,7 +155,7 @@ Nella concessione per le distillerie ambulanti per conto di terzi figurano il lu
 
 ### (art. 7 LAlc)
 
-<sup>1</sup> L’AFD controlla che le prescrizioni della concessione siano osservate.
+<sup>1</sup> L’UDSC controlla che le prescrizioni della concessione siano osservate.
 
 <sup>2</sup> Le spese per i controlli possono essere addossate al titolare della concessione.
 
@@ -163,9 +165,9 @@ Nella concessione per le distillerie ambulanti per conto di terzi figurano il lu
 
 ### (art. 7 cpv. 3 LAlc)
 
-<sup>1</sup> L’AFD può prescrivere i dispositivi di controllo che reputa necessari. Le spese possono essere addossate al titolare della distilleria.
+<sup>1</sup> L’UDSC può prescrivere i dispositivi di controllo che reputa necessari. Le spese possono essere addossate al titolare della distilleria.
 
-<sup>2</sup> I dispositivi di controllo sono collocati e tolti esclusivamente dagli organi dell’AFD. L’AFD può autorizzare il titolare della distilleria a collocare e togliere il dispositivo di controllo.
+<sup>2</sup> I dispositivi di controllo sono collocati e tolti esclusivamente dagli organi dell’UDSC. L’UDSC può autorizzare il titolare della distilleria a collocare e togliere il dispositivo di controllo.
 
 <sup>3</sup> Qualsiasi guasto o irregolarità deve essere notificato immediatamente.
 
@@ -175,7 +177,7 @@ Nella concessione per le distillerie ambulanti per conto di terzi figurano il lu
 
 ### (art. 7 LAlc)
 
-L’AFD può ordinare ulteriori provvedimenti di controllo che reputa giustificati.
+L’UDSC può ordinare ulteriori provvedimenti di controllo che reputa giustificati.
 
 #### Art. 13
 
@@ -183,13 +185,13 @@ L’AFD può ordinare ulteriori provvedimenti di controllo che reputa giustifica
 
 ### (art. 6 cpv. 3 LAlc)
 
-L’AFD può vietare la produzione di bevande distillate o subordinarla alla presentazione di una garanzia nel caso in cui:
+L’UDSC può vietare la produzione di bevande distillate o subordinarla alla presentazione di una garanzia nel caso in cui:
 
 - a. il pagamento appaia compromesso;
 - b. esistano debiti fiscali scaduti;
 - c. la persona soggetta all’imposta sia in ritardo con il pagamento;
 - d. sia pendente una procedura d’esecuzione; o
-- e. essa sia in possesso di un attestato di carenza beni in seguito a una procedura d’esecuzione e fallimento infruttuosa.
+- e. esso sia in possesso di un attestato di carenza beni in seguito a una procedura d’esecuzione e fallimento infruttuosa.
 
 #### Art. 14
 
@@ -205,7 +207,7 @@ Gli agricoltori che producono più di 200 litri di alcol puro all’anno sono so
 
 ### (art. 7 cpv. 4 LAlc)
 
-Sono sottoposti al controllo dell’AFD anche gli impianti che non sono oggetto di una concessione ma possono servire alla produzione di bevande distillate.
+Sono sottoposti al controllo dell’UDSC anche gli impianti che non sono oggetto di una concessione ma possono servire alla produzione di bevande distillate.
 
 ### Sezione 3: Prezzi di presa in consegna dell’acquavite di frutta a granelli
 
@@ -275,7 +277,7 @@ Il credito fiscale sorge:
 
 <sup>4</sup> Sono fatte salve le disposizioni sui depositi fiscali e sull’autorizzazione d’impiego.
 
-[^20-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^20-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### Sezione 3: Calcolo dell’imposta
 
@@ -315,7 +317,7 @@ Non ha diritto alla franchigia d’imposta chi:
 
 <sup>1</sup>
 
-L’AFD può fissare un limite massimo per il fabbisogno personale in franchigia d’imposta per:
+L’UDSC può fissare un limite massimo per il fabbisogno personale in franchigia d’imposta per:
 
 - a. le aziende agricole appartenenti a corporazioni di diritto pubblico o a istituti di utilità pubblica nonché per le aziende agricole appartenenti a persone fisiche o giuridiche e amministrate o gestite da un dipendente;
 - b. le aziende agricole gestite da una o più persone per conto di tutti, laddove una o più di esse esercitano regolarmente anche un’altra attività lucrativa;
@@ -327,7 +329,7 @@ L’AFD può fissare un limite massimo per il fabbisogno personale in franchigia
 - h. gli agricoltori che non sono in grado di provare di aver impiegato secondo le prescrizioni il quantitativo per il fabbisogno personale in franchigia d’imposta presso i quali si constata un fabbisogno personale straordinariamente elevato, oppure presso i quali circostanze particolari rendono difficile controllare la produzione o l’impiego delle bevande spiritose;
 - i. gli agricoltori che sono stati puniti per infrazioni alla legislazione sull’alcol.
 
-<sup>2</sup> Il quantitativo massimo di bevande spiritose ammesso in franchigia d’imposta per il fabbisogno personale è, annualmente, di 5 litri per persona adulta che lavora stabilmente nell’azienda agricola e di 1 litro per capo di bestiame grosso. Nei casi previsti nel capoverso 1 lettera h l’AFD può prescrivere un limite diverso in deroga a tale regola.
+<sup>2</sup> Il quantitativo massimo di bevande spiritose ammesso in franchigia d’imposta per il fabbisogno personale è, annualmente, di 5 litri per persona adulta che lavora stabilmente nell’azienda agricola e di 1 litro per capo di bestiame grosso. Nei casi previsti nel capoverso 1 lettera h l’UDSC può prescrivere un limite diverso in deroga a tale regola.
 
 #### Art. 24
 
@@ -351,7 +353,7 @@ L’imposta per piccoli produttori è ridotta del 30 per cento. La riduzione è 
 
 <sup>3</sup> Gli spazi adibiti alla vendita devono essere indicati chiaramente e separati dal deposito fiscale.
 
-<sup>4</sup> L’AFD può stabilire nei singoli casi e secondo il tipo di merce e di attività altri requisiti necessari a garantire la sicurezza fiscale.
+<sup>4</sup> L’UDSC può stabilire nei singoli casi e secondo il tipo di merce e di attività altri requisiti necessari a garantire la sicurezza fiscale.
 
 #### Art. 26
 
@@ -359,7 +361,7 @@ L’imposta per piccoli produttori è ridotta del 30 per cento. La riduzione è 
 
 ### (art. 34 cpv. 3 LAlc)
 
-<sup>1</sup> La persona assoggettata all’imposta deve presentare la domanda di autorizzazione per gestire un deposito fiscale all’AFD.
+<sup>1</sup> La persona assoggettata all’imposta deve presentare la domanda di autorizzazione per gestire un deposito fiscale all’UDSC.
 
 <sup>2</sup>
 
@@ -382,7 +384,7 @@ Alla domanda deve essere allegata la documentazione rilevante ai fini della valu
 
 <sup>2</sup> La garanzia da prestare è basata sull’inventario medio annuo e sulle quantità che vengono immesse mensilmente in libero consumo.
 
-<sup>3</sup> L’AFD fissa l’importo della garanzia. Essa può stabilire oneri supplementari e l’importo minimo.
+<sup>3</sup> L’UDSC fissa l’importo della garanzia. Esso può stabilire oneri supplementari e l’importo minimo.
 
 #### Art. 28
 
@@ -392,7 +394,7 @@ Alla domanda deve essere allegata la documentazione rilevante ai fini della valu
 
 <sup>1</sup>
 
-L’AFD autorizza un deposito fiscale se:
+L’UDSC autorizza un deposito fiscale se:
 
 - a. sono gestiti annualmente almeno 200 litri di alcol puro ai sensi dell’articolo 25;
 - b. sono prestate le garanzie necessarie;
@@ -429,7 +431,7 @@ Il gestore del deposito deve registrare le entrate e le uscite di bevande distil
 
 ### (art. 34 cpv. 3 LAlc)
 
-<sup>1</sup> Ai fini dell’imposizione, il gestore di un deposito fiscale deve notificare mensilmente all’AFD le entrate e le uscite entro l’ottavo giorno del mese successivo. Nel contempo deve comunicare l’inventario.
+<sup>1</sup> Ai fini dell’imposizione, il gestore di un deposito fiscale deve notificare mensilmente all’UDSC le entrate e le uscite entro l’ottavo giorno del mese successivo. Nel contempo deve comunicare l’inventario.
 
 <sup>2</sup> Se risulta un saldo a favore dell’azienda che gestisce un deposito fiscale, il relativo importo è accreditato o compensato.
 
@@ -447,7 +449,7 @@ Il gestore del deposito deve notificare preventivamente i cambiamenti che si rip
 
 ### (art. 34 cpv. 3 LAlc)
 
-<sup>1</sup> Il gestore del deposito che intende rinunciare all’autorizzazione per gestire un deposito fiscale lo comunica all’AFD con un preavviso di tre mesi.
+<sup>1</sup> Il gestore del deposito che intende rinunciare all’autorizzazione per gestire un deposito fiscale lo comunica all’UDSC con un preavviso di tre mesi.
 
 <sup>2</sup> La rinuncia all’autorizzazione per gestire un deposito fiscale ha effetto a partire dalla fine di un mese.
 
@@ -457,7 +459,7 @@ Il gestore del deposito deve notificare preventivamente i cambiamenti che si rip
 
 ### (art. 34 cpv. 3 LAlc)
 
-<sup>1</sup> La revoca dell’autorizzazione per gestire un deposito fiscale avviene mediante decisione dell’AFD.
+<sup>1</sup> La revoca dell’autorizzazione per gestire un deposito fiscale avviene mediante decisione dell’UDSC.
 
 <sup>2</sup>
 
@@ -493,7 +495,7 @@ L’autorizzazione per gestire un deposito fiscale si estingue:
 
 ### (art. 32 cpv. 2 LAlc)
 
-<sup>1</sup> L’azienda deve presentare la domanda di autorizzazione d’impiego all’AFD.
+<sup>1</sup> L’azienda deve presentare la domanda di autorizzazione d’impiego all’UDSC.
 
 <sup>2</sup>
 
@@ -520,7 +522,7 @@ Alla domanda deve essere allegata la documentazione rilevante ai fini della valu
 
 <sup>1</sup>
 
-L’AFD rilascia un’autorizzazione d’impiego se:
+L’UDSC rilascia un’autorizzazione d’impiego se:
 
 - a. l’impiego è di natura commerciale ai sensi dell’articolo 32 capoverso 1 LAlc o a scopo di ricerca;
 - b.
@@ -545,7 +547,7 @@ L’AFD rilascia un’autorizzazione d’impiego se:
 
 ### (art. 32 cpv. 2 LAlc)
 
-<sup>1</sup> Il titolare di un’autorizzazione d’impiego deve notificare all’AFD, entro l’ottavo giorno del mese successivo, la quantità di etanolo assoggettato all’imposta che è stata impiegata o ceduta.
+<sup>1</sup> Il titolare di un’autorizzazione d’impiego deve notificare all’UDSC, entro l’ottavo giorno del mese successivo, la quantità di etanolo assoggettato all’imposta che è stata impiegata o ceduta.
 
 <sup>2</sup> Se risulta un saldo a favore del titolare dell’autorizzazione, il relativo importo è accreditato o compensato.
 
@@ -565,7 +567,7 @@ L’AFD rilascia un’autorizzazione d’impiego se:
 
 ### (art. 32 cpv. 2 LAlc)
 
-<sup>1</sup> Il titolare di un’autorizzazione d’impiego deve notificare i risultati annuali della contabilità merci secondo le istruzioni dell’AFD.
+<sup>1</sup> Il titolare di un’autorizzazione d’impiego deve notificare i risultati annuali della contabilità merci secondo le istruzioni dell’UDSC.
 
 <sup>2</sup>
 
@@ -621,7 +623,7 @@ Le seguenti informazioni vengono rese disponibili al pubblico:
 
 ### Sezione 7: Trasporto in sospensione d’imposta
 
-(art. 32 cpv. 3 lett. a e 34 cpv. 2 LAlc)
+### (art. 32 cpv. 3 lett. a e 34 cpv. 2 LAlc)
 
 #### Art. 45
 
@@ -665,7 +667,7 @@ L’obbligo di denaturazione non si applica all’etanolo, alle bevande spiritos
 - a. sono destinati alla produzione di derrate alimentari o medicamenti; o
 - b. nell’ambito della produzione, della trasformazione o dell’impiego possono entrare direttamente a contatto con derrate alimentari o con medicamenti oppure con prodotti medico-tecnici.
 
-<sup>3</sup> L’AFD può autorizzare su richiesta altre esenzioni dall’obbligo di denaturazione se si dimostra che l’impiego di etanolo denaturalizzato non è possibile.
+<sup>3</sup> L’UDSC può autorizzare su richiesta altre esenzioni dall’obbligo di denaturazione se si dimostra che l’impiego di etanolo denaturalizzato non è possibile.
 
 #### Art. 47
 
@@ -673,7 +675,7 @@ L’obbligo di denaturazione non si applica all’etanolo, alle bevande spiritos
 
 ### (art. 31 LAlc)
 
-<sup>1</sup> L’etanolo e le bevande spiritose sono considerati denaturati se contengono almeno un agente denaturante ammesso dall’AFD, nella concentrazione da essa stabilita.
+<sup>1</sup> L’etanolo e le bevande spiritose sono considerati denaturati se contengono almeno un agente denaturante ammesso dall’UDSC, nella concentrazione da esso stabilita.
 
 <sup>2</sup> I prodotti o le soluzioni alcoliche sono considerati denaturati se nella fabbricazione di prodotti esenti da imposta vengono modificati in modo da non essere più commestibili.
 
@@ -685,7 +687,7 @@ L’obbligo di denaturazione non si applica all’etanolo, alle bevande spiritos
 
 ### (art. 31 cpv. 2 LAlc)
 
-<sup>1</sup> La domanda di autorizzazione per la denaturazione deve essere presentata all’AFD.
+<sup>1</sup> La domanda di autorizzazione per la denaturazione deve essere presentata all’UDSC.
 
 <sup>2</sup>
 
@@ -704,11 +706,11 @@ Nella domanda devono essere indicati in particolare:
 
 <sup>1</sup>
 
-L’AFD rilascia un’autorizzazione per la denaturazione se:
+L’UDSC rilascia un’autorizzazione per la denaturazione se:
 
 - a. l’azienda possiede un’autorizzazione per gestire un deposito fiscale o un’autorizzazione d’impiego;
 - b. è garantita la tracciabilità del processo di denaturazione;
-- c. il richiedente dimostra di impiegare i metodi di denaturazione ammessi dall’AFD in virtù dell’articolo 31 capoverso 3 LAlc;
+- c. il richiedente dimostra di impiegare i metodi di denaturazione ammessi dall’UDSC in virtù dell’articolo 31 capoverso 3 LAlc;
 - d. l’azienda dispone degli strumenti di misurazione necessari; e
 - e. vengono denaturati più di 1000 litri di alcol puro all’anno.
 
@@ -748,9 +750,9 @@ Si applicano per analogia le disposizioni degli articoli 33 e 34.
 
 ### (art. 31 cpv. 2 LAlc)
 
-<sup>1</sup> Le persone che non sono titolari di un’autorizzazione per la denaturazione possono chiedere all’AFD l’autorizzazione per un’unica denaturazione.
+<sup>1</sup> Le persone che non sono titolari di un’autorizzazione per la denaturazione possono chiedere all’UDSC l’autorizzazione per un’unica denaturazione.
 
-<sup>2</sup> La domanda deve essere presentata all’AFD con almeno cinque giorni lavorativi di anticipo.
+<sup>2</sup> La domanda deve essere presentata all’UDSC con almeno cinque giorni lavorativi di anticipo.
 
 <sup>3</sup>
 
@@ -761,7 +763,7 @@ Nella domanda occorre indicare:
 - c. la quantità dei prodotti da denaturare;
 - d. il processo di denaturazione e le installazioni disponibili.
 
-<sup>4</sup> Chiunque presenti una domanda per un’unica denaturazione deve procurarsi le sostanze denaturanti, fornire gli adeguati strumenti di misurazione e adottare le necessarie misure di sicurezza. L’AFD stabilisce l’ulteriore modo di procedere.
+<sup>4</sup> Chiunque presenti una domanda per un’unica denaturazione deve procurarsi le sostanze denaturanti, fornire gli adeguati strumenti di misurazione e adottare le necessarie misure di sicurezza. L’UDSC stabilisce l’ulteriore modo di procedere.
 
 ### Sezione 9: Riscossione, restituzione e condono dell’imposta
 
@@ -771,7 +773,7 @@ Nella domanda occorre indicare:
 
 ### (art. 23 cpv. 1<sup>bis</sup> LAlc)
 
-<sup>1</sup> La persona assoggettata all’imposta deve presentare la notifica per l’imposizione all’AFD.
+<sup>1</sup> La persona assoggettata all’imposta deve presentare la notifica per l’imposizione all’UDSC.
 
 <sup>2</sup> La notifica deve essere effettuata non appena sorge il credito fiscale. Sono fatti salvi gli articoli 31, 38, 57 e 58.
 
@@ -783,15 +785,15 @@ Nella domanda occorre indicare:
 
 ### (art. 23 cpv. 1<sup>bis</sup> LAlc)
 
-<sup>1</sup> L’imposizione avviene sulla base della notifica della persona assoggettata. L’AFD può anche effettuare la tassazione sulla base delle proprie constatazioni. La tassazione è comunicata sotto forma di decisione.
+<sup>1</sup> L’imposizione avviene sulla base della notifica della persona assoggettata. L’UDSC può anche effettuare la tassazione sulla base delle proprie constatazioni. La tassazione è comunicata sotto forma di decisione.
 
 <sup>2</sup> Per l’imposizione sono determinanti il volume o la massa e il tenore alcolico.
 
-<sup>3</sup> L’AFD può prescrivere l’attrezzatura necessaria per determinare la quantità delle bevande distillate assoggettate all’imposta, in particolare gli strumenti di misurazione secondo l’ordinanza del 5 ottobre 2010[^55-1] sulla determinazione del tenore alcolico.
+<sup>3</sup> L’UDSC può prescrivere l’attrezzatura necessaria per determinare la quantità delle bevande distillate assoggettate all’imposta, in particolare gli strumenti di misurazione secondo l’ordinanza del 5 ottobre 2010[^55-1] sulla determinazione del tenore alcolico.
 
 <sup>4</sup> I produttori professionali devono tenere una contabilità delle materie prime e dell’alcol su cui fondare la notifica per l’imposizione.
 
-[^55-1]: [RS 941.210.2](https://fedlex.data.admin.ch/eli/cc/2010/664)
+[^55-1]: [RS 941.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11182)
 
 #### Art. 56
 
@@ -801,7 +803,7 @@ Nella domanda occorre indicare:
 
 <sup>1</sup> Gli agricoltori sono tassati per la quantità di bevande spiritose ceduta dietro pagamento o gratuitamente a terzi o per la quale essi non possono far valere un fabbisogno personale in franchigia d’imposta.
 
-<sup>2</sup> Gli agricoltori con o senza fabbisogno personale limitato in franchigia d’imposta hanno l’obbligo di notificare all’AFD qualsiasi consegna.
+<sup>2</sup> Gli agricoltori con o senza fabbisogno personale limitato in franchigia d’imposta hanno l’obbligo di notificare all’UDSC qualsiasi consegna.
 
 <sup>3</sup> Se nel corso dell’anno contabile vengono ceduti più di 50 litri di bevande spiritose imponibili, la notifica ai fini dell’imposizione avviene alla fine di ogni mese in cui tale quantità è raggiunta o superata. Le quantità inferiori a 50 litri sono assoggettate alla fine dell’anno contabile.
 
@@ -823,7 +825,7 @@ La dichiarazione d’importazione deve contenere le seguenti indicazioni:
 - b. il tenore alcolico; e
 - c. per le merci che vengono consegnate in sospensione d’imposta a un deposito fiscale o a un’azienda con autorizzazione d’impiego, il numero di autorizzazione.
 
-<sup>2</sup> Se all’atto dell’importazione sorgono dubbi circa la riscossione dell’imposta, la decisione in merito spetta all’AFD. Gli organi doganali riscuotono l’imposta al confine conformemente alla procedura d’imposizione prevista nella legislazione doganale.
+<sup>2</sup> Se all’atto dell’importazione sorgono dubbi circa la riscossione dell’imposta, la decisione in merito spetta all’UDSC. Gli organi doganali riscuotono l’imposta al confine conformemente alla procedura d’imposizione prevista nella legislazione doganale.
 
 #### Art. 58
 
@@ -846,7 +848,7 @@ La dichiarazione d’esportazione deve contenere le seguenti informazioni:
 
 ### (art. 23 cpv. 1<sup>bis</sup> LAlc)
 
-Nell’ambito della vigilanza fiscale sulle bevande e sui prodotti che sono o possono essere assoggettati all’imposta nonché sulle sostanze destinate alla produzione di queste merci, l’AFD può prelevare gratuitamente campioni per analisi.
+Nell’ambito della vigilanza fiscale sulle bevande e sui prodotti che sono o possono essere assoggettati all’imposta nonché sulle sostanze destinate alla produzione di queste merci, l’UDSC può prelevare gratuitamente campioni per analisi.
 
 #### Art. 60
 
@@ -854,9 +856,9 @@ Nell’ambito della vigilanza fiscale sulle bevande e sui prodotti che sono o po
 
 ### (art. 23<sup>bis</sup> cpv. 3 LAlc)
 
-<sup>1</sup> La domanda da presentare all’AFD deve contenere le richieste con le rispettive motivazioni. Alla domanda devono essere allegati i giustificativi principali a fondamento della richiesta.
+<sup>1</sup> La domanda da presentare all’UDSC deve contenere le richieste con le rispettive motivazioni. Alla domanda devono essere allegati i giustificativi principali a fondamento della richiesta.
 
-<sup>2</sup> L’AFD è autorizzata a subordinare la restituzione all’adempimento di determinate condizioni previste ai fini dei controlli.
+<sup>2</sup> L’UDSC è autorizzato a subordinare la restituzione all’adempimento di determinate condizioni previste ai fini dei controlli.
 
 <sup>3</sup> Se non è possibile determinare correttamente l’importo dell’onere fiscale, per la restituzione si può applicare l’aliquota più bassa.
 
@@ -870,7 +872,7 @@ Nell’ambito della vigilanza fiscale sulle bevande e sui prodotti che sono o po
 
 ### (art. 69 cpv. 3 e 4 LAlc)
 
-<sup>1</sup> Su richiesta l’AFD può concedere una proroga alle persone assoggettate all’imposta che non sono in grado di pagare per tempo la somma dovuta.
+<sup>1</sup> Su richiesta l’UDSC può concedere una proroga alle persone assoggettate all’imposta che non sono in grado di pagare per tempo la somma dovuta.
 
 <sup>2</sup> Se la riscossione della somma dovuta risulta troppo gravosa per le condizioni della persona assoggettata all’imposta, su richiesta può essere concesso un condono parziale o intero. Alla richiesta devono essere allegati documenti che comprovino la situazione finanziaria (sostanza, reddito, debiti).
 
@@ -882,7 +884,7 @@ Nell’ambito della vigilanza fiscale sulle bevande e sui prodotti che sono o po
 
 ### (art. 69 cpv. 5 LAlc)
 
-Qualsiasi perdita di merce, assoggettata o meno all’imposta, deve essere immediatamente notificata all’AFD. L’AFD può prevedere deroghe nella misura in cui l’obbligo di documentazione in caso di perdita sia previsto da altre disposizioni.
+Qualsiasi perdita di merce, assoggettata o meno all’imposta, deve essere immediatamente notificata all’UDSC. L’UDSC può prevedere deroghe nella misura in cui l’obbligo di documentazione in caso di perdita sia previsto da altre disposizioni.
 
 #### Art. 63
 
@@ -890,11 +892,11 @@ Qualsiasi perdita di merce, assoggettata o meno all’imposta, deve essere immed
 
 ### (art. 69 cpv. 6 LAlc)
 
-<sup>1</sup> La distruzione intenzionale di merce, assoggettata o meno all’imposta, deve essere notificata preventivamente all’AFD.
+<sup>1</sup> La distruzione intenzionale di merce, assoggettata o meno all’imposta, deve essere notificata preventivamente all’UDSC.
 
 <sup>2</sup> Sono escluse dall’obbligo di notifica le aziende con autorizzazione d’impiego, purché la quantità da distruggere non superi i 1000 litri di etanolo.
 
-<sup>3</sup> L’AFD disciplina i dettagli relativi alla documentazione della distruzione.
+<sup>3</sup> L’UDSC disciplina i dettagli relativi alla documentazione della distruzione.
 
 ### Sezione 10: Ammanchi di bevande spiritose
 
@@ -918,7 +920,7 @@ Qualsiasi perdita di merce, assoggettata o meno all’imposta, deve essere immed
 
 Si applicano per analogia le disposizioni esecutive sulla realizzazione del pegno doganale contenute nell’ordinanza del 1° novembre 2006[^65-1] sulle dogane.
 
-[^65-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^65-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## Capitolo 4: Prescrizioni concernenti il commercio
 
@@ -928,9 +930,9 @@ Si applicano per analogia le disposizioni esecutive sulla realizzazione del pegn
 
 ### (art. 23 cpv. 3 e 42*a* LAlc)
 
-<sup>1</sup> Il commercio all’ingrosso e al minuto di bevande distillate sottostà alla vigilanza dell’AFD nella misura in cui ciò sia necessario per garantire e sorvegliare la riscossione del dazio doganale e dell’imposta nonché per applicare le altre disposizioni della LAlc e della presente ordinanza.
+<sup>1</sup> Il commercio all’ingrosso e al minuto di bevande distillate sottostà alla vigilanza dell’UDSC nella misura in cui ciò sia necessario per garantire e sorvegliare la riscossione del dazio doganale e dell’imposta nonché per applicare le altre disposizioni della LAlc e della presente ordinanza.
 
-<sup>2</sup> A tale scopo i commercianti all’ingrosso e al minuto di bevande distillate forniscono all’AFD tutte le informazioni e tutti i documenti commerciali richiesti. L’AFD è autorizzata a eseguire mediante i propri agenti in ogni momento e senza preavviso controlli dei magazzini e degli altri locali commerciali dei commercianti all’ingrosso e al minuto.
+<sup>2</sup> A tale scopo i commercianti all’ingrosso e al minuto di bevande distillate forniscono all’UDSC tutte le informazioni e tutti i documenti commerciali richiesti. L’UDSC è autorizzato a eseguire mediante i propri agenti in ogni momento e senza preavviso controlli dei magazzini e degli altri locali commerciali dei commercianti all’ingrosso e al minuto.
 
 #### Art. 67
 
@@ -940,7 +942,7 @@ Si applicano per analogia le disposizioni esecutive sulla realizzazione del pegn
 
 <sup>1</sup>
 
-I libri di commercio e i documenti giustificativi devono permettere all’AFD:
+I libri di commercio e i documenti giustificativi devono permettere all’UDSC:
 
 - a. di controllare le entrate e le uscite delle bevande distillate, distinte secondo il tipo di bevanda spiritosa, il fornitore e l’acquirente; e
 - b. di verificare in ogni momento le scorte, distinte secondo il tipo di bevanda spiritosa.
@@ -977,7 +979,7 @@ Chiunque produce o fa produrre bevande distillate provenienti esclusivamente dal
 
 ### (art. 43 LAlc)
 
-L’AFD promuove il coordinamento fra i Cantoni nel disciplinamento del commercio al minuto, segnatamente:
+L’UDSC promuove il coordinamento fra i Cantoni nel disciplinamento del commercio al minuto, segnatamente:
 
 - a. sostiene la collaborazione fra Confederazione e Cantoni come pure fra i Cantoni stessi;
 - b. migliora l’informazione reciproca;
@@ -990,7 +992,7 @@ L’AFD promuove il coordinamento fra i Cantoni nel disciplinamento del commerci
 
 **Statistiche**
 
-<sup>1</sup> L’AFD può utilizzare a scopi statistici le informazioni sulle bevande spiritose assoggettate all’imposta.
+<sup>1</sup> L’UDSC può utilizzare a scopi statistici le informazioni sulle bevande spiritose assoggettate all’imposta.
 
 <sup>2</sup> Può pubblicare le relative statistiche.
 
@@ -1000,9 +1002,9 @@ L’AFD promuove il coordinamento fra i Cantoni nel disciplinamento del commerci
 
 ### (art. 70 LAlc)
 
-La riscossione degli emolumenti si fonda sull’ordinanza del 4 aprile 2007[^71-1] sugli emolumenti dell’Amministrazione federale delle dogane.
+La riscossione degli emolumenti si fonda sull’ordinanza del 4 aprile 2007[^71-1] sugli emolumenti dell’dell’Ufficio federale della dogana e della sicurezza dei confini.
 
-[^71-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^71-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
 #### Art. 72
 
@@ -1020,7 +1022,7 @@ La riscossione degli emolumenti si fonda sull’ordinanza del 4 aprile 2007[^71-
 
 ### (art. 69 LAlc)
 
-<sup>1</sup> A contare dal momento del pagamento, l’AFD corrisponde un interesse rimuneratorio sugli importi indebitamente riscossi o non restituiti.
+<sup>1</sup> A contare dal momento del pagamento, l’UDSC corrisponde un interesse rimuneratorio sugli importi indebitamente riscossi o non restituiti.
 
 <sup>2</sup> Il DFF stabilisce le aliquote e l’importo minimo al di sotto del quale non è corrisposto alcun interesse rimuneratorio.
 
@@ -1030,7 +1032,7 @@ La riscossione degli emolumenti si fonda sull’ordinanza del 4 aprile 2007[^71-
 
 #### Art. 74
 
-<sup>1</sup> L’AFD riceve il 7,8 per cento dei proventi delle imposte sulle bevande distillate (entrate lorde dedotte le restituzioni). L’ammontare del forfait d’esecuzione è verificato periodicamente.
+<sup>1</sup> L’UDSC riceve il 7,8 per cento dei proventi delle imposte sulle bevande distillate (entrate lorde dedotte le restituzioni). L’ammontare del forfait d’esecuzione è verificato periodicamente.
 
 <sup>2</sup>
 
@@ -1059,7 +1061,7 @@ Allegato 1
 
 ## Prezzi di presa in consegna dell’acquavite di frutta a granelli
 
-L’AFD paga per ogni litro al 100 per cento di acquavite di frutta a granelli franco luogo di consegna:
+L’UDSC paga per ogni litro al 100 per cento di acquavite di frutta a granelli franco luogo di consegna:
 
 <table>
 <tr><td></td><td>franchi</td></tr>
@@ -1085,7 +1087,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annex2-lvlu1-3]
+…[^annex2-lvlu1-3]
 
 [^annex2-lvlu1-1]: [[RU 1999 1731](https://fedlex.data.admin.ch/eli/oc/1999/276), [2003 542](https://fedlex.data.admin.ch/eli/oc/2003/116), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 30, [2009 1757](https://fedlex.data.admin.ch/eli/oc/2009/260), [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 2]
 [^annex2-lvlu1-2]: [[RU 2006 5355](https://fedlex.data.admin.ch/eli/oc/2006/815), [2011 4325](https://fedlex.data.admin.ch/eli/oc/2011/588)II 2]

@@ -4,11 +4,11 @@ title: "Ordonnance du 15 septembre 2017 sur l'alcool (OAlc)"
 short: OAlc
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/568"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2017-09-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/568/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-568-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/568/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-568-20220101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/568/20180101/fr"
 
 (OAlc)
 
-du 15 septembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 15 septembre 2017 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 70, al. 1, et 78 de la loi fédérale du 21 juin 1932 sur l’alcool
 
 arrête:
 
-[^ingress-1]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^ingress-1]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
 ## Chapitre 1 Dispositions générales
 
@@ -37,9 +37,9 @@ arrête:
 
 On entend par:
 
-- a. *boisson distillée*: l’éthanol et toute boisson spiritueuse;
+- a. *boisson distillée**:* l’éthanol et toute boisson spiritueuse;
 - b. *éthanol:* l’alcool éthylique (C<sub>2</sub>H<sub>5</sub>OH) sous toutes ses formes, quels qu’en soient le mode de fabrication et l’utilisation, ou tout autre alcool susceptible de servir à la consommation et de remplacer l’alcool éthylique;
-- c. *boisson spiritueuse*: toute boisson contenant de l’éthanol obtenu par distillation ou par un autre procédé technique ainsi que l’éthanol pur ou dilué qui est destiné à la consommation humaine;
+- c. *boisson spiritueuse:* toute boisson contenant de l’éthanol obtenu par distillation ou par un autre procédé technique ainsi que l’éthanol pur ou dilué qui est destiné à la consommation humaine;
 - d.
 
   *produit alcoolique obtenu uniquement par fermentation:*
@@ -48,11 +48,11 @@ On entend par:
   - 2\. un vin naturel obtenu à partir de raisins frais dont la teneur en alcool ne dépasse pas 18 % du volume lorsqu’il n’est pas additionné de boissons distillées;
 
 - e. *agriculteur:* un exploitant au sens de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^1-1] qui gère une exploitation dont la surface utile est d’au moins 1 hectare, 50 ares s’il s’agit d’une exploitation pratiquant des cultures spéciales ou 30 ares s’il s’agit d’une exploitation pratiquant la viticulture en forte pente ou en terrasses;
-- f. *distillerie agricole*: une distillerie domestique visée à l’art. 14 LAlc;
-- g. *producteur professionnel*: le propriétaire d’une distillerie professionnelle dont la production annuelle dépasse régulièrement 200 litres d’alcool pur;
+- f. *distillerie agricole**:* une distillerie domestique visée à l’art. 14 LAlc;
+- g. *producteur professionnel**:* le propriétaire d’une distillerie professionnelle dont la production annuelle dépasse régulièrement 200 litres d’alcool pur;
 - h. *petit producteur:* toute personne dont la production annuelle ne dépasse pas 200 litres d’alcool pur.
 
-[^1-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^1-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 #### Art. 2
 
@@ -60,12 +60,12 @@ On entend par:
 
 ### (art. 23 LAlc)
 
-<sup>1</sup>
-
-Les registres et communications nécessaires à la taxation doivent être établis sous la forme prescrite par l’Administration fédérale des douanes (AFD), à savoir:
+Les registres et communications nécessaires à la taxation doivent être établis sous la forme prescrite par l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^2-1], à savoir:
 
 - a. par voie électronique, ou
 - b. par écrit.
+
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 octobre 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janvier 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Chapitre 2 Production de boissons distillées
 
@@ -99,9 +99,9 @@ Les concessions pour la fabrication ou la rectification de boissons distillées 
 
 <sup>3</sup> Pour la constatation de la quantité de boissons distillées produite, les distilleries professionnelles et les distilleries à façon doivent avoir des récipients, balances ou compteurs conformes aux dispositions de l’ordonnance du 15 février 2006 sur les instruments de mesure[^4-1] et aux dispositions d’exécution correspondantes du Département fédéral de justice et police.
 
-<sup>4</sup> Pour l’entreposage des boissons distillées, les distilleries professionnelles doivent avoir des récipients conformes aux directives de l’AFD.
+<sup>4</sup> Pour l’entreposage des boissons distillées, les distilleries professionnelles doivent avoir des récipients conformes aux directives de l’OFDF.
 
-[^4-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^4-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 5
 
@@ -117,7 +117,7 @@ La concession d’exploitation d’une distillerie professionnelle mentionne les
 
 ### (art. 13 LAlc)
 
-La concession d’exploitation d’une distillerie à façon ambulante mentionne l’emplacement principal et l’adresse postale de la distillerie. Les autres emplacements doivent être communiqués au préalable à l’AFD.
+La concession d’exploitation d’une distillerie à façon ambulante mentionne l’emplacement principal et l’adresse postale de la distillerie. Les autres emplacements doivent être communiqués au préalable à l’OFDF.
 
 #### Art. 7
 
@@ -125,7 +125,7 @@ La concession d’exploitation d’une distillerie à façon ambulante mentionne
 
 ### (art. 14 LAlc)
 
-Si, en raison de la situation géographique de leur exploitation, des agriculteurs ne peuvent recourir à une distillerie à façon, l’AFD peut autoriser un agriculteur voisin à distiller les matières premières de ces agriculteurs ou à prêter ou louer son appareil à ces derniers. Les mesures de contrôle prévues pour les distilleries professionnelles sont applicables par analogie.
+Si, en raison de la situation géographique de leur exploitation, des agriculteurs ne peuvent recourir à une distillerie à façon, l’OFDF peut autoriser un agriculteur voisin à distiller les matières premières de ces agriculteurs ou à prêter ou louer son appareil à ces derniers. Les mesures de contrôle prévues pour les distilleries professionnelles sont applicables par analogie.
 
 #### Art. 8
 
@@ -133,7 +133,7 @@ Si, en raison de la situation géographique de leur exploitation, des agriculteu
 
 ### (art. 14 LAlc)
 
-<sup>1</sup> L’AFD peut autoriser un agriculteur à augmenter à 150 litres au maximum la contenance de la cucurbite de son appareil à distiller.
+<sup>1</sup> L’OFDF peut autoriser un agriculteur à augmenter à 150 litres au maximum la contenance de la cucurbite de son appareil à distiller.
 
 <sup>2</sup> Les agriculteurs qui détruisent leur alambic ou le rendent inutilisable ont le droit de réactiver leur concession dans un délai de 25 ans. Ce droit est transmissible.
 
@@ -155,7 +155,7 @@ Si, en raison de la situation géographique de leur exploitation, des agriculteu
 
 ### (art. 7 LAlc)
 
-<sup>1</sup> L’AFD effectue des contrôles pour s’assurer du respect des prescriptions en matière de concession.
+<sup>1</sup> L’OFDF effectue des contrôles pour s’assurer du respect des prescriptions en matière de concession.
 
 <sup>2</sup> Les coûts des contrôles peuvent être mis à la charge du concessionnaire.
 
@@ -165,9 +165,9 @@ Si, en raison de la situation géographique de leur exploitation, des agriculteu
 
 ### (art. 7, al. 3, LAlc)
 
-<sup>1</sup> L’AFD peut exiger les dispositifs de contrôle qui lui paraissent nécessaires. Les coûts correspondants peuvent être mis à la charge du propriétaire de la distillerie.
+<sup>1</sup> L’OFDF peut exiger les dispositifs de contrôle qui lui paraissent nécessaires. Les coûts correspondants peuvent être mis à la charge du propriétaire de la distillerie.
 
-<sup>2</sup> Seule l’AFD a le droit de mettre en place ou d’enlever les dispositifs de contrôle. Elle peut déléguer ce droit au propriétaire de la distillerie.
+<sup>2</sup> Seul l’OFDF a le droit de mettre en place ou d’enlever les dispositifs de contrôle. Il peut déléguer ce droit au propriétaire de la distillerie.
 
 <sup>3</sup> Toute détérioration ou défaillance doit être annoncée sans délai.
 
@@ -177,7 +177,7 @@ Si, en raison de la situation géographique de leur exploitation, des agriculteu
 
 ### (art. 7 LAlc)
 
-L’AFD peut ordonner les autres mesures de contrôle qui lui paraissent justifiées.
+L’OFDF peut ordonner les autres mesures de contrôle qui lui paraissent justifiées.
 
 #### Art. 13
 
@@ -185,13 +185,13 @@ L’AFD peut ordonner les autres mesures de contrôle qui lui paraissent justifi
 
 ### (art. 6, al. 3, LAlc)
 
-L’AFD peut interdire la production de boissons distillées ou la subordonner à la fourniture de sûretés si:
+L’OFDF peut interdire la production de boissons distillées ou la subordonner à la fourniture de sûretés si:
 
 - a. le recouvrement de l’impôt paraît compromis;
 - b. des montants d’impôt sont échus;
 - c. l’assujetti est en demeure;
 - d. une procédure de poursuite pour dettes est pendante, ou si
-- e. elle est en possession d’actes de défaut de biens provenant de procédures de poursuite pour dettes ou de procédures de faillite infructueuses.
+- e. il est en possession d’actes de défaut de biens provenant de procédures de poursuite pour dettes ou de procédures de faillite infructueuses.
 
 #### Art. 14
 
@@ -207,7 +207,7 @@ Les agriculteurs qui produisent plus de 200 litres d’alcool pur par an sont so
 
 ### (art. 7, al. 4, LAlc)
 
-Les installations qui peuvent servir à produire des boissons distillées et qui ne font pas l’objet d’une concession sont également soumises au contrôle de l’AFD.
+Les installations qui peuvent servir à produire des boissons distillées et qui ne font pas l’objet d’une concession sont également soumises au contrôle de l’OFDF.
 
 ### Section 3 Prix de prise en charge de l’eau-de-vie de fruits à pépins
 
@@ -215,7 +215,7 @@ Les installations qui peuvent servir à produire des boissons distillées et qui
 
 #### Art. 16
 
-Le prix des eaux-de-vie de fruits à pépins prises en charge par l’AFD est réglé dans l’annexe 1.
+Le prix des eaux-de-vie de fruits à pépins prises en charge par l’OFDF est réglé dans l’annexe 1.
 
 ## Chapitre 3 Imposition
 
@@ -277,7 +277,7 @@ La créance fiscale naît:
 
 <sup>4</sup> Les dispositions relatives aux entrepôts fiscaux et à l’autorisation d’utilisation sont réservées.
 
-[^20-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^20-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ### Section 3 Calcul de l’impôt
 
@@ -317,11 +317,11 @@ Ne peuvent prétendre à la franchise d’impôt:
 
 <sup>1</sup>
 
-L’AFD peut limiter la quantité de boissons spiritueuses pouvant être utilisée en franchise d’impôt:
+L’OFDF peut limiter la quantité de boissons spiritueuses pouvant être utilisée en franchise d’impôt:
 
 - a. dans les exploitations agricoles qui appartiennent à des collectivités de droit public ou à des établissements d’utilité publique ainsi que dans celles qui sont dirigées par un gérant ou un chef d’exploitation pour le compte d’une personne physique ou morale;
 - b. dans les exploitations agricoles qui sont gérées par une ou plusieurs personnes pour le compte de tous si l’une ou plusieurs de ces personnes exercent une autre activité professionnelle régulière;
-- c. chez les agriculteurs qui ont les conditions d'une petite entreprise;
+- c. chez les agriculteurs qui ont les conditions d’une petite entreprise;
 - d. chez les agriculteurs qui possèdent une autorisation pour le débit ou une patente pour le commerce de détail de boissons spiritueuses;
 - e. chez les agriculteurs qui sont autorisés à distiller pour le compte de tiers;
 - f. chez les agriculteurs qui font ménage commun avec le propriétaire d’une distillerie professionnelle ou avec un commettant professionnel ou sur le domaine desquels se trouve une distillerie professionnelle, une auberge ou une entreprise transformant des produits de l’arboriculture fruitière ou de la viticulture à titre professionnel;
@@ -329,7 +329,7 @@ L’AFD peut limiter la quantité de boissons spiritueuses pouvant être utilis�
 - h. chez les agriculteurs qui ne peuvent prouver une utilisation conforme aux prescriptions des boissons spiritueuses allouées en franchise, dont l’usage à titre personnel est exceptionnellement élevé ou dont, en raison de circonstances spéciales, il est difficile de contrôler la production ou l’utilisation des boissons spiritueuses;
 - i. chez les agriculteurs qui ont été punis pour infraction à la législation sur l’alcool.
 
-<sup>2</sup> La quantité annuelle de boissons spiritueuses pouvant être utilisée en franchise d’impôt est au plus de 5 litres par adulte travaillant en permanence dans l’exploitation agricole et de 1 litre par unité de gros bétail. Dans les cas mentionnés à l’al. 1, let. i, l’AFD peut fixer une quantité maximale dérogeant à la présente disposition.
+<sup>2</sup> La quantité annuelle de boissons spiritueuses pouvant être utilisée en franchise d’impôt est au plus de 5 litres par adulte travaillant en permanence dans l’exploitation agricole et de 1 litre par unité de gros bétail. Dans les cas mentionnés à l’al. 1, let. i, l’OFDF peut fixer une quantité maximale dérogeant à la présente disposition.
 
 #### Art. 24
 
@@ -353,7 +353,7 @@ L’impôt est réduit de 30 % pour les petits producteurs. La réduction est ac
 
 <sup>3</sup> Les surfaces de vente doivent être clairement séparées de l’entrepôt fiscal.
 
-<sup>4</sup> Dans certains cas, en fonction du genre de marchandises et d’activités, l’AFD peut définir d’autres exigences en vue de garantir la sécurité fiscale.
+<sup>4</sup> Dans certains cas, en fonction du genre de marchandises et d’activités, l’OFDF peut définir d’autres exigences en vue de garantir la sécurité fiscale.
 
 #### Art. 26
 
@@ -361,7 +361,7 @@ L’impôt est réduit de 30 % pour les petits producteurs. La réduction est ac
 
 ### (art. 34, al. 3, LAlc)
 
-<sup>1</sup> L’assujetti doit présenter à l’AFD la demande d’autorisation d’exploiter un entrepôt fiscal.
+<sup>1</sup> L’assujetti doit présenter à l’OFDF la demande d’autorisation d’exploiter un entrepôt fiscal.
 
 <sup>2</sup>
 
@@ -384,7 +384,7 @@ Il doit y joindre les pièces essentielles pour l’évaluation, notamment:
 
 <sup>2</sup> Le montant des sûretés à fournir se fonde sur les stocks annuels moyens et sur les quantités mises à la consommation chaque mois.
 
-<sup>3</sup> L’AFD fixe le montant des sûretés. Elle peut imposer des charges supplémentaires ainsi qu’un montant minimal.
+<sup>3</sup> L’OFDF fixe le montant des sûretés. Il peut imposer des charges supplémentaires ainsi qu’un montant minimal.
 
 #### Art. 28
 
@@ -394,7 +394,7 @@ Il doit y joindre les pièces essentielles pour l’évaluation, notamment:
 
 <sup>1</sup>
 
-L’AFD octroie l’autorisation d’exploiter un entrepôt fiscal lorsque:
+L’OFDF octroie l’autorisation d’exploiter un entrepôt fiscal lorsque:
 
 - a. la quantité d’alcool pur traitée chaque année conformément à l’art. 25 s’élève au minimum à 200 litres;
 - b. les sûretés exigées sont fournies;
@@ -431,7 +431,7 @@ L’exploitant d’un entrepôt fiscal doit tenir un registre des entrées, des 
 
 ### (art. 34, al. 3, LAlc)
 
-<sup>1</sup> L’exploitant d’un entrepôt fiscal doit, pour le 8<sup>e</sup> jour du mois suivant, déclarer à l’AFD les entrées et les sorties de boissons distillées en vue de la taxation. Il doit annoncer son stock en même temps.
+<sup>1</sup> L’exploitant d’un entrepôt fiscal doit, pour le 8<sup>e</sup> jour du mois suivant, déclarer à l’OFDF les entrées et les sorties de boissons distillées en vue de la taxation. Il doit annoncer son stock en même temps.
 
 <sup>2</sup> Tout solde en faveur de l’exploitant d’un entrepôt fiscal est restitué à ce dernier sous la forme d’une note de crédit ou d’une compensation.
 
@@ -449,7 +449,7 @@ L’exploitant d’un entrepôt fiscal doit annoncer au préalable les modificat
 
 ### (art. 34, al. 3, LAlc)
 
-<sup>1</sup> S’il souhaite renoncer à l’autorisation, l’exploitant d’un entrepôt fiscal doit en informer l’AFD trois mois à l’avance.
+<sup>1</sup> S’il souhaite renoncer à l’autorisation, l’exploitant d’un entrepôt fiscal doit en informer l’OFDF trois mois à l’avance.
 
 <sup>2</sup> La renonciation à l’autorisation d’exploiter un entrepôt fiscal prend effet à la fin d’un mois.
 
@@ -459,7 +459,7 @@ L’exploitant d’un entrepôt fiscal doit annoncer au préalable les modificat
 
 ### (art. 34, al. 3, LAlc)
 
-<sup>1</sup> Le retrait de l’autorisation d’exploiter un entrepôt fiscal a lieu sur décision de l’AFD.
+<sup>1</sup> Le retrait de l’autorisation d’exploiter un entrepôt fiscal a lieu sur décision de l’OFDF.
 
 <sup>2</sup>
 
@@ -495,7 +495,7 @@ L’autorisation d’exploiter un entrepôt fiscal s’éteint:
 
 ### (art. 32, al. 2, LAlc)
 
-<sup>1</sup> L’entreprise doit présenter à l’AFD la demande d’autorisation d’utilisation.
+<sup>1</sup> L’entreprise doit présenter à l’OFDF la demande d’autorisation d’utilisation.
 
 <sup>2</sup>
 
@@ -522,7 +522,7 @@ Elle doit y joindre les pièces essentielles pour l’évaluation, notamment:
 
 <sup>1</sup>
 
-L’AFD octroie une autorisation d’utilisation lorsque les conditions suivantes sont réunies:
+L’OFDF octroie une autorisation d’utilisation lorsque les conditions suivantes sont réunies:
 
 - a. l’éthanol est utilisé dans des processus professionnels visés à l’art. 32, al. 1, LAlc ou à des fins de recherche;
 - b.
@@ -547,7 +547,7 @@ L’AFD octroie une autorisation d’utilisation lorsque les conditions suivante
 
 ### (art. 32, al. 2, LAlc)
 
-<sup>1</sup> Le détenteur d’une autorisation d’utilisation doit, pour le 8<sup>e</sup> jour du mois suivant, déclarer à l’AFD la quantité d’éthanol utilisée ou remise à des fins soumises à l’impôt.
+<sup>1</sup> Le détenteur d’une autorisation d’utilisation doit, pour le 8<sup>e</sup> jour du mois suivant, déclarer à l’OFDF la quantité d’éthanol utilisée ou remise à des fins soumises à l’impôt.
 
 <sup>2</sup> Tout solde en faveur du détenteur d’une autorisation d’utilisation est restitué à ce dernier sous la forme d’une note de crédit ou d’une compensation.
 
@@ -567,7 +567,7 @@ L’AFD octroie une autorisation d’utilisation lorsque les conditions suivante
 
 ### (art. 32, al. 2, LAlc)
 
-<sup>1</sup> Le détenteur d’une autorisation d’utilisation doit communiquer les résultats annuels de la comptabilité-matières conformément aux directives de l’AFD.
+<sup>1</sup> Le détenteur d’une autorisation d’utilisation doit communiquer les résultats annuels de la comptabilité-matières conformément aux directives de l’OFDF.
 
 <sup>2</sup>
 
@@ -667,7 +667,7 @@ Sont exemptés de l’obligation de dénaturation l’éthanol, les boissons spi
 - a. sont destinés à la fabrication de denrées alimentaires ou de médicaments, ou qui
 - b. peuvent entrer en contact direct avec des denrées alimentaires, des médicaments ou des produits relevant de la technique médicale dans le cadre de la fabrication, de la transformation ou de l’utilisation.
 
-<sup>3</sup> Sur demande, l’AFD peut accorder d’autres dérogations à l’obligation de dénaturation si le requérant prouve que l’utilisation d’éthanol dénaturé est impossible.
+<sup>3</sup> Sur demande, l’OFDF peut accorder d’autres dérogations à l’obligation de dénaturation si le requérant prouve que l’utilisation d’éthanol dénaturé est impossible.
 
 #### Art. 47
 
@@ -675,7 +675,7 @@ Sont exemptés de l’obligation de dénaturation l’éthanol, les boissons spi
 
 ### (art. 31 LAlc)
 
-<sup>1</sup> L’éthanol et les boissons spiritueuses sont réputés dénaturés s’ils contiennent au moins un dénaturant agréé par l’AFD dont la concentration a été fixée par celle-ci.
+<sup>1</sup> L’éthanol et les boissons spiritueuses sont réputés dénaturés s’ils contiennent au moins un dénaturant agréé par l’OFDF dont la concentration a été fixée par celui-ci.
 
 <sup>2</sup> Les produits ou les solutions contenant de l’alcool sont réputés dénaturés si, lors de la fabrication de produits exonérés de l’impôt, ils font l’objet de transformations les rendant impropres à la consommation humaine.
 
@@ -687,7 +687,7 @@ Sont exemptés de l’obligation de dénaturation l’éthanol, les boissons spi
 
 ### (art. 31, al. 2, LAlc)
 
-<sup>1</sup> La demande d’autorisation de dénaturation doit être présentée à l’AFD.
+<sup>1</sup> La demande d’autorisation de dénaturation doit être présentée à l’OFDF.
 
 <sup>2</sup>
 
@@ -706,11 +706,11 @@ Elle doit être accompagnée notamment:
 
 <sup>1</sup>
 
-L’AFD octroie une autorisation de dénaturation lorsque les conditions suivantes sont réunies:
+L’OFDF octroie une autorisation de dénaturation lorsque les conditions suivantes sont réunies:
 
 - a. l’entreprise dispose du statut d’entrepôt fiscal ou d’une autorisation d’utilisation;
 - b. la traçabilité du processus de dénaturation est garantie;
-- c. le requérant prouve qu’il applique des méthodes de dénaturation agréées par l’AFD conformément à l’art. 31, al. 3, LAlc;
+- c. le requérant prouve qu’il applique des méthodes de dénaturation agréées par l’OFDF conformément à l’art. 31, al. 3, LAlc;
 - d. l’entreprise dispose des instruments de mesures nécessaires;
 - e. la quantité d’alcool dénaturé dépasse 1000 litres d’alcool pur par an.
 
@@ -750,9 +750,9 @@ Les art. 33 et 34 sont applicables par analogie.
 
 ### (art. 31, al. 2, LAlc)
 
-<sup>1</sup> Les personnes qui ne détiennent pas une autorisation de dénaturation peuvent demander à l’AFD l’autorisation de procéder à une dénaturation unique.
+<sup>1</sup> Les personnes qui ne détiennent pas une autorisation de dénaturation peuvent demander à l’OFDF l’autorisation de procéder à une dénaturation unique.
 
-<sup>2</sup> La demande doit être présentée à l’AFD au minimum cinq jours ouvrables avant la dénaturation.
+<sup>2</sup> La demande doit être présentée à l’OFDF au minimum cinq jours ouvrables avant la dénaturation.
 
 <sup>3</sup>
 
@@ -763,7 +763,7 @@ Elle doit être accompagnée d’indications sur:
 - c. la quantité devant être dénaturée;
 - d. le processus de dénaturation et les installations disponibles.
 
-<sup>4</sup> Quiconque présente une demande de dénaturation est tenu d’acquérir les dénaturants, de mettre à disposition les instruments de mesure appropriés et de prendre les mesures de sécurité qui s’imposent. L’AFD règle la suite de la procédure.
+<sup>4</sup> Quiconque présente une demande de dénaturation est tenu d’acquérir les dénaturants, de mettre à disposition les instruments de mesure appropriés et de prendre les mesures de sécurité qui s’imposent. L’OFDF règle la suite de la procédure.
 
 ### Section 9 Perception, remboursement et remise de l’impôt
 
@@ -773,7 +773,7 @@ Elle doit être accompagnée d’indications sur:
 
 ### (art. 23, al. 1<sup>bis</sup>, LAlc)
 
-<sup>1</sup> L’assujetti doit remettre la déclaration fiscale à l’AFD.
+<sup>1</sup> L’assujetti doit remettre la déclaration fiscale à l’OFDF.
 
 <sup>2</sup> La déclaration doit être effectuée immédiatement après la naissance de la créance fiscale. Les art. 31, 38, 57 et 58 sont réservés.
 
@@ -785,15 +785,15 @@ Elle doit être accompagnée d’indications sur:
 
 ### (art. 23, al. 1<sup>bis</sup>, LAlc)
 
-<sup>1</sup> La taxation est effectuée sur la base de la déclaration fiscale de l’assujetti. L’AFD peut également procéder à la taxation en se fondant sur ses propres constatations. La taxation est notifiée au moyen d’une décision.
+<sup>1</sup> La taxation est effectuée sur la base de la déclaration fiscale de l’assujetti. L’OFDF peut également procéder à la taxation en se fondant sur ses propres constatations. La taxation est notifiée au moyen d’une décision.
 
 <sup>2</sup> Le volume ou la masse et la teneur en alcool sont déterminants pour la taxation.
 
-<sup>3</sup> L’AFD peut prescrire le matériel nécessaire à la constatation de la quantité de boissons distillées soumises à l’impôt, en particulier les instruments de mesure agréés en vertu de l’ordonnance du 5 octobre 2010 sur la détermination d’alcool[^55-1].
+<sup>3</sup> L’OFDF peut prescrire le matériel nécessaire à la constatation de la quantité de boissons distillées soumises à l’impôt, en particulier les instruments de mesure agréés en vertu de l’ordonnance du 5 octobre 2010 sur la détermination d’alcool[^55-1].
 
 <sup>4</sup> Les producteurs professionnels doivent tenir une comptabilité-matières et une comptabilité de l’alcool en vue de la déclaration fiscale.
 
-[^55-1]: [RS 941.210.2](https://fedlex.data.admin.ch/eli/cc/2010/664)
+[^55-1]: [RS 941.210.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11182)
 
 #### Art. 56
 
@@ -803,9 +803,9 @@ Elle doit être accompagnée d’indications sur:
 
 <sup>1</sup> Les agriculteurs sont taxés pour la quantité de boissons spiritueuses qu’ils remettent gratuitement ou contre rémunération à des tiers ou pour laquelle ils ne peuvent prétendre à l’allocation en franchise.
 
-<sup>2</sup> Les agriculteurs dont l’allocation en franchise est limitée ou non sont tenus d’annoncer à l’AFD toute cession.
+<sup>2</sup> Les agriculteurs dont l’allocation en franchise est limitée ou non sont tenus d’annoncer à l’OFDF toute cession.
 
-<sup>3</sup> Lorsque, au cours de l'exercice comptable, elles atteignent une quantité de 50 litres, les cessions de boissons spiritueuses doivent être déclarées en vue de la taxation à la fin du mois durant lequel la quantité est dépassée. Celles qui sont inférieures à 50 litres sont taxées à la fin de l’exercice comptable.
+<sup>3</sup> Lorsque, au cours de l’exercice comptable, elles atteignent une quantité de 50 litres, les cessions de boissons spiritueuses doivent être déclarées en vue de la taxation à la fin du mois durant lequel la quantité est dépassée. Celles qui sont inférieures à 50 litres sont taxées à la fin de l’exercice comptable.
 
 <sup>4</sup> Pour les agriculteurs dont la franchise d’impôt est limitée, la taxation fiscale concernant la quantité de boissons spiritueuses utilisée en plus de la franchise est établie à la fin de l’exercice comptable.
 
@@ -825,7 +825,7 @@ La déclaration en douane d’importation doit contenir les informations suivant
 - b. la teneur en alcool;
 - c. pour les marchandises qui sont livrées en suspension d’impôt à un entrepôt fiscal ou à une entreprise détenant une autorisation d’utilisation: le numéro de l’autorisation.
 
-<sup>2</sup> En cas de doute, l’AFD décide s’il faut percevoir un impôt à l’importation. Les organes de la douane perçoivent l’impôt à la frontière conformément à la procédure de taxation prévue par le droit douanier.
+<sup>2</sup> En cas de doute, l’OFDF décide s’il faut percevoir un impôt à l’importation. Les organes de la douane perçoivent l’impôt à la frontière conformément à la procédure de taxation prévue par le droit douanier.
 
 #### Art. 58
 
@@ -848,7 +848,7 @@ La déclaration en douane d’exportation doit contenir les informations suivant
 
 ### (art. 23, al. 1<sup>bis</sup>, LAlc)
 
-Dans le cadre de la surveillance fiscale, l’AFD peut prélever gratuitement, à des fins d’analyse, des échantillons de boissons et de produits qui sont soumis à l’impôt ou qui sont susceptibles de l’être ainsi que de matières utilisées pour la production de ces marchandises.
+Dans le cadre de la surveillance fiscale, l’OFDF peut prélever gratuitement, à des fins d’analyse, des échantillons de boissons et de produits qui sont soumis à l’impôt ou qui sont susceptibles de l’être ainsi que de matières utilisées pour la production de ces marchandises.
 
 #### Art. 60
 
@@ -856,13 +856,13 @@ Dans le cadre de la surveillance fiscale, l’AFD peut prélever gratuitement, �
 
 ### (art. 23<sup>bis</sup>, al. 3, LAlc)
 
-<sup>1</sup> La demande qui doit être remise à l’AFD doit contenir les prétentions et les motifs de ces dernières. Elle doit être accompagnée des principaux moyens de preuve.
+<sup>1</sup> La demande qui doit être remise à l’OFDF doit contenir les prétentions et les motifs de ces dernières. Elle doit être accompagnée des principaux moyens de preuve.
 
-<sup>2</sup> L’AFD peut subordonner le remboursement au respect de prescriptions particulières en matière de contrôle.
+<sup>2</sup> L’OFDF peut subordonner le remboursement au respect de prescriptions particulières en matière de contrôle.
 
 <sup>3</sup> S’il n’est pas possible de déterminer le montant exact de la charge fiscale, le remboursement peut être effectué au taux le plus bas.
 
-<sup>4</sup> L’assujetti doit conserver pendant cinq ans tous les documents essentiels pour le remboursement et les présenter sur demande à l’AFD.
+<sup>4</sup> L’assujetti doit conserver pendant cinq ans tous les documents essentiels pour le remboursement et les présenter sur demande à l’OFDF.
 
 <sup>5</sup> La demande de remboursement doit être présentée dans un délai d’un an à compter de la naissance du droit.
 
@@ -872,7 +872,7 @@ Dans le cadre de la surveillance fiscale, l’AFD peut prélever gratuitement, �
 
 ### (art. 69, al. 3 et 4, LAlc)
 
-<sup>1</sup> L’AFD peut accorder, sur demande, un sursis à l’assujetti qui n’est pas en mesure de s’acquitter à temps du montant dû.
+<sup>1</sup> L’OFDF peut accorder, sur demande, un sursis à l’assujetti qui n’est pas en mesure de s’acquitter à temps du montant dû.
 
 <sup>2</sup> Le montant dû peut, sur demande, faire l’objet d’une remise partielle ou totale au cas où, en raison des circonstances, son recouvrement constitue un acte de rigueur à l’égard de l’assujetti. La demande doit être accompagnée de documents établissant clairement la situation financière de l’assujetti (fortune, revenus et dettes).
 
@@ -884,7 +884,7 @@ Dans le cadre de la surveillance fiscale, l’AFD peut prélever gratuitement, �
 
 ### (art. 69, al. 5, LAlc)
 
-Toute perte de marchandises, imposées ou non, doit être annoncée immédiatement à l’AFD. Cette dernière peut prévoir une dérogation à cette règle, dans la mesure où l’obligation de documenter les pertes de marchandises figure dans d’autres dispositions.
+Toute perte de marchandises, imposées ou non, doit être annoncée immédiatement à l’OFDF. Ce dernier peut prévoir une dérogation à cette règle, dans la mesure où l’obligation de documenter les pertes de marchandises figure dans d’autres dispositions.
 
 #### Art. 63
 
@@ -892,11 +892,11 @@ Toute perte de marchandises, imposées ou non, doit être annoncée immédiateme
 
 ### (art. 69, al. 6, LAlc)
 
-<sup>1</sup> Toute destruction volontaire de marchandises, imposées ou non, doit être annoncée au préalable à l’AFD.
+<sup>1</sup> Toute destruction volontaire de marchandises, imposées ou non, doit être annoncée au préalable à l’OFDF.
 
 <sup>2</sup> Les entreprises détenant une autorisation d’utilisation sont exemptées de cette obligation à condition que la quantité devant être détruite ne dépasse pas 1000 litres d’éthanol.
 
-<sup>3</sup> L’AFD règle les modalités concernant la documentation de la destruction.
+<sup>3</sup> L’OFDF règle les modalités concernant la documentation de la destruction.
 
 ### Section 10 Quantités manquantes de boissons spiritueuses
 
@@ -920,7 +920,7 @@ Toute perte de marchandises, imposées ou non, doit être annoncée immédiateme
 
 Les dispositions d’exécution de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^65-1] relatives à la réalisation du gage douanier sont applicables par analogie.
 
-[^65-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^65-1]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## Chapitre 4 Prescriptions régissant le commerce
 
@@ -930,9 +930,9 @@ Les dispositions d’exécution de l’ordonnance du 1<sup>er</sup> novembre 200
 
 ### (art. 23, al. 3, et 42*a* LAlc)
 
-<sup>1</sup> L’AFD surveille le commerce de gros et le commerce de détail, dans la mesure où cette surveillance est nécessaire pour garantir la perception des droits de douane et de l’impôt et pour exécuter les autres dispositions de la LAlc et de la présente ordonnance.
+<sup>1</sup> L’OFDF surveille le commerce de gros et le commerce de détail, dans la mesure où cette surveillance est nécessaire pour garantir la perception des droits de douane et de l’impôt et pour exécuter les autres dispositions de la LAlc et de la présente ordonnance.
 
-<sup>2</sup> À cet effet, les grossistes et détaillants de boissons distillées doivent fournir à l’AFD tous les renseignements et documents commerciaux exigés. L’AFD est habilitée à faire contrôler par ses organes, en tout temps et sans préavis, les entrepôts de marchandises et autres locaux commerciaux des grossistes et détaillants.
+<sup>2</sup> À cet effet, les grossistes et détaillants de boissons distillées doivent fournir à l’OFDF tous les renseignements et documents commerciaux exigés. L’OFDF est habilité à faire contrôler par ses organes, en tout temps et sans préavis, les entrepôts de marchandises et autres locaux commerciaux des grossistes et détaillants.
 
 #### Art. 67
 
@@ -942,7 +942,7 @@ Les dispositions d’exécution de l’ordonnance du 1<sup>er</sup> novembre 200
 
 <sup>1</sup>
 
-Les livres de commerce et les pièces justificatives doivent permettre à l’AFD de:
+Les livres de commerce et les pièces justificatives doivent permettre à l’OFDF de:
 
 - a. contrôler les entrées et les sorties de boissons distillées par genre de boissons, par fournisseur et par acquéreur;
 - b. vérifier en tout temps les réserves par genre de boissons.
@@ -979,7 +979,7 @@ Quiconque produit ou fait produire des boissons distillées exclusivement à par
 
 ### (art. 43 LAlc)
 
-L’AFD encourage la coordination entre les cantons en ce qui concerne la réglementation du commerce de détail, notamment en:
+L’OFDF encourage la coordination entre les cantons en ce qui concerne la réglementation du commerce de détail, notamment en:
 
 - a. favorisant la collaboration entre la Confédération et les cantons et des cantons entre eux;
 - b. développant l’échange d’informations;
@@ -992,9 +992,9 @@ L’AFD encourage la coordination entre les cantons en ce qui concerne la régle
 
 **Statistiques**
 
-<sup>1</sup> L’AFD peut utiliser à des fins statistiques les données relatives aux boissons spiritueuses imposées.
+<sup>1</sup> L’OFDF peut utiliser à des fins statistiques les données relatives aux boissons spiritueuses imposées.
 
-<sup>2</sup> Elle peut publier les statistiques.
+<sup>2</sup> Il peut publier les statistiques.
 
 #### Art. 71
 
@@ -1002,9 +1002,9 @@ L’AFD encourage la coordination entre les cantons en ce qui concerne la régle
 
 ### (art. 70 LAlc)
 
-La perception d’émoluments est régie par l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^71-1].
+La perception d’émoluments est régie par l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^71-1].
 
-[^71-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
+[^71-1]: [RS 631.035](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7819)
 
 #### Art. 72
 
@@ -1022,7 +1022,7 @@ La perception d’émoluments est régie par l’ordonnance du 4 avril 2007 sur 
 
 ### (art. 69 LAlc)
 
-<sup>1</sup> L’AFD verse des intérêts sur les montants perçus ou non remboursés à tort à compter du paiement.
+<sup>1</sup> L’OFDF verse des intérêts sur les montants perçus ou non remboursés à tort à compter du paiement.
 
 <sup>2</sup> Le DFF fixe les taux d’intérêt ainsi que le montant jusqu’à concurrence duquel aucun intérêt rémunératoire n’est versé.
 
@@ -1032,7 +1032,7 @@ La perception d’émoluments est régie par l’ordonnance du 4 avril 2007 sur 
 
 #### Art. 74
 
-<sup>1</sup> L’AFD reçoit 7,8 % des recettes provenant de l’impôt sur les boissons distillées (recettes brutes moins les remboursements). Le montant du forfait d’exécution est réexaminé périodiquement.
+<sup>1</sup> L’OFDF reçoit 7,8 % des recettes provenant de l’impôt sur les boissons distillées (recettes brutes moins les remboursements). Le montant du forfait d’exécution est réexaminé périodiquement.
 
 <sup>2</sup>
 
@@ -1061,7 +1061,7 @@ Annexe 1
 
 ## Prix de prise en charge de l’eau-de-vie de fruits à pépins
 
-Le prix auquel l’AFD prend en charge l’eau-de-vie de fruits à pépins livrée franco au lieu de réception s’élève par litre d’alcool pur à:
+Le prix auquel l’OFDF prend en charge l’eau-de-vie de fruits à pépins livrée franco au lieu de réception s’élève par litre d’alcool pur à:
 
 <table>
 <tr><td></td><td>Francs</td></tr>
@@ -1089,6 +1089,6 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [[RO 1999 1731](https://fedlex.data.admin.ch/eli/oc/1999/276), [2003 542](https://fedlex.data.admin.ch/eli/oc/2003/116), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 30, [2009 1757](https://fedlex.data.admin.ch/eli/oc/2009/260), [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annexe ch. 2]
-[^annex2-lvlu1-2]: [[RO 2006 5355](https://fedlex.data.admin.ch/eli/oc/2006/815), [2011 4325](https://fedlex.data.admin.ch/eli/oc/2011/588)ch. II 2]
+[^annex2-lvlu1-1]: [[RO 1999 1731](https://fedlex.data.admin.ch/eli/oc/1999/276); [2003 542](https://fedlex.data.admin.ch/eli/oc/2003/116); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 30; [2009 1757](https://fedlex.data.admin.ch/eli/oc/2009/260); [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annexe ch. 2]
+[^annex2-lvlu1-2]: [[RO 2006 5355](https://fedlex.data.admin.ch/eli/oc/2006/815); [2011 4325](https://fedlex.data.admin.ch/eli/oc/2011/588)ch. II 2]
 [^annex2-lvlu1-3]: Les mod. peuvent être consultées au [RO 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568).
