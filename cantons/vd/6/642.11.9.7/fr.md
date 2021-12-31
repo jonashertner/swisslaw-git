@@ -4,7 +4,7 @@ number: "642.11.9.7"
 title: "RÈGLEMENT du 14.12.2016 sur le dépôt de la déclaration d'impôt des personnes physiques et des personnes morales, en particulier par voie électronique (RDVE)"
 short: RDVE
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11.9.7?id=bbeb7413-0c92-4516-8691-1f181cb11a4d"
 ---
 
@@ -48,9 +48,9 @@ arrête
 
 <sup>1</sup> Le contribuable qui a déposé sa déclaration d'impôt par voie électronique est immédiatement informé, par le même canal, de la réussite ou de l'échec de son envoi. En cas d'échec, il peut procéder à de nouveaux envois ou faire parvenir sa déclaration d'impôt par courrier.
 
-<sup>2</sup> A réception de la déclaration d'impôt par voie électronique, l'autorité fiscale fait parvenir au contribuable par le même canal un récapitulatif des éléments reçus et, à sa demande, par courrier dans les 10 jours.
+<sup>2</sup> A réception de la déclaration d'impôt par voie électronique, l'autorité fiscale fait parvenir au contribuable par le même canal un récapitulatif des éléments reçus et, à sa demande, par courrier dans les 6 jours.
 
-<sup>3</sup> Faute de contestation ou de dépôt d'une nouvelle déclaration d'impôt dans les 10 jours, la déclaration d'impôt est réputée valablement déposée.
+<sup>3</sup> Faute de contestation ou de dépôt d'une nouvelle déclaration d'impôt dans les 6 jours, la déclaration d'impôt est réputée valablement déposée.
 
 [^2-1]: Modif. 1 du 06.12.2017: Modification Al. 2; entrée en vigueur au 01.01.2018 · Modif. 2 du 28.11.2018: Modification Al. 3; entrée en vigueur au 01.01.2019 · Modif. 4 du 08.12.2021: Modification Al. 2-3; entrée en vigueur au 01.01.2022
 
