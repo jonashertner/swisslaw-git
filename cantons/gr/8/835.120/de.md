@@ -4,93 +4,108 @@ number: "835.120"
 title: Verordnung zum Gesetz über die Vergütung nicht versicherbarer Elementarschäden
 short: VVE
 language: de
-version: 2011-01-01
-corrected: 2014-11-01
-version_adopted: 2010-10-26
+version: 2022-01-01
+valid_until: 2023-06-30
+version_adopted: 2021-06-22
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/835.120"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/898/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3172/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Gesetz über die Vergütung nicht versicherbarer Elementarschäden (VVE)
+# Verordnung zum Gesetz über die Vergütung nicht versicherbarer Elementarschäden
 
-Gestützt auf Art. 45 der Kantonsverfassung[^t-1]
+(VVE)
+
+Vom 26.10.2010 (Stand 01.01.2022)
+
+Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
 von der Regierung erlassen am 26. Oktober 2010
 
-I. Aufsicht
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
-[^t-1]: BR 110.100 1.01.2011 1
+## 1. Aufsicht
 
 #### Art. 1
 
-Die Rechnungslegung der Elementarschadenkasse (Kasse) hat gemäss Rechnungslegung den von der Stiftung für Fachempfehlungen zur Rechnungslegung erlassenen Fachempfehlungen zur Rechnungslegung (Swiss GAAP FER) für Gebäudeversicherer zu erfolgen.
+**Rechnungslegung**
 
-### II. Organisation der Kasse
+<sup>1</sup> Die Rechnungslegung der Elementarschadenkasse (Kasse) hat gemäss den von der Stiftung für Fachempfehlungen zur Rechnungslegung erlassenen Fachempfehlungen zur Rechnungslegung (Swiss GAAP FER) für Gebäudeversicherer zu erfolgen.
+
+## 2. Organisation der Kasse
 
 #### Art. 2
 
-**kommission**
+**Verwaltungskommission**
 
-Die Verwaltungskommission der Gebäudeversicherung Graubünden übt Verwaltungsdie Funktion der Verwaltungskommission der Kasse aus.
+<sup>1</sup> Die Verwaltungskommission der Gebäudeversicherung Graubünden übt die Funktion der Verwaltungskommission der Kasse aus.
 
 #### Art. 3
 
-Als Geschäftsstelle wird die Direktion der Gebäudeversicherung Grau- Geschäftsstelle bünden bezeichnet. Sie führt die Geschäfte der Kasse und des Nothilfefonds, vertritt diese nach aussen und vollzieht die Beschlüsse der übergeordneten Organe.
+**Geschäftsleitung**
+
+<sup>1</sup> Die Direktion der Gebäudeversicherung Graubünden wirkt als Geschäftsleitung der Elementarschadenkasse. Sie vertritt diese nach aussen und vollzieht die Beschlüsse der Verwaltungskommission.
+
+#### Art. 3a
+
+**Geschäftsstelle**
+
+<sup>1</sup> Die Führung der Geschäfte der Kasse und des Nothilfefonds obliegt der von der Geschäftsleitung bezeichneten Geschäftsstelle.
 
 #### Art. 4
 
-<sup>1</sup> Als Schätzungsstellen amten die Kreisämter. Diese sind befugt, das Schätzungsstellen Amt für Schätzungswesen beizuziehen.
+**Schätzungsstelle**
 
-<sup>2</sup> In besonderen Fällen können im Einvernehmen mit der Geschäftsstelle andere Sachverständige beigezogen werden.
+<sup>1</sup> Zuständige Schätzungsstelle ist die Geschäftsstelle.
 
-<sup>3</sup> Vernachlässigt die Schätzungsstelle ihre Aufgabe, ist die Geschäftsstelle befugt, die Schätzung durch andere Sachverständige zu veranlassen.
+<sup>2</sup> Das Amt für Immobilienbewertungen unterstützt die Gebäudeversicherung bei mittleren und grossen Schadenereignissen. Es nimmt Meldungen von nicht versicherbaren Elementarschäden von der Gebäudeversicherung entgegen, ermittelt diese und bearbeitet die Schadenfälle. Die Entschädigung richtet sich nach den Verrechnungsansätzen für Dienstleistungen der kantonalen Verwaltung an Dritte.
+
+<sup>3</sup> …
 
 #### Art. 5
 
-Die Verwaltungskommission legt die Entschädigung für die Geschäfts- Entschädigung stelle und die Kreisämter fest. Die Geschäftsstelle ist für die Festlegung der Entschädigung weiterer für die Schätzung zugezogener Stellen zuständig.
+**Entschädigung**
 
-### III. Entschädigungen
+<sup>1</sup> Die Geschäftsleitung ist für die Festlegung der Entschädigung weiterer für die Schätzung zugezogener Stellen zuständig.
+
+## 3. Entschädigungen
 
 #### Art. 6
 
 **Entschädigungssatz**
 
-Der Entschädigungssatz der Kasse beträgt im Schadenfall 70 Prozent der anrechenbaren Schadensumme.
+<sup>1</sup> Der Entschädigungssatz der Kasse beträgt im Schadenfall 70 Prozent der anrechenbaren Schadensumme.
 
 #### Art. 7
 
 **Minimalschaden**
 
-Schäden, die den Betrag von 300 Franken nicht erreichen, werden nicht entschädigt.
+<sup>1</sup> Schäden, die den Betrag von 300 Franken nicht erreichen, werden nicht entschädigt.
 
-### IV. Verfahren im Schadenfall
+## 4. Verfahren im Schadenfall
 
 #### Art. 8
 
 **Schadenmeldung**
 
-<sup>1</sup> Die Schadenmeldungen sind an das zuständige Kreisamt zu richten.
+<sup>1</sup> Die Schadenmeldungen sind an die Geschäftsstelle zu richten.
 
-<sup>2</sup> Schadenmeldungen, die bei Gemeindeinstanzen oder bei der Geschäftsstelle eingehen, sind umgehend an das zuständige Kreisamt weiterzuleiten.
+<sup>2</sup> Schadenmeldungen, die bei Gemeindeinstanzen oder bei anderen Stellen eingehen, sind umgehend an die Geschäftsstelle weiterzuleiten.
 
 #### Art. 9
 
 **Schadenschätzung**
 
-<sup>1</sup> Liegt ein entschädigungsberechtigter Schaden im Sinne des Gesetzes vor, haben die Kreisämter diesen umgehend zu ermitteln. Sie haben die Geschäftsstelle ohne Verzug über schwere Schadenfälle zu orientieren und ihr den Zeitpunkt der Schadenschätzung mitzuteilen.
+<sup>1</sup> Liegt ein entschädigungsberechtigter Schaden im Sinne des Gesetzes vor, hat die Geschäftsstelle diesen umgehend zu ermitteln.
 
 <sup>2</sup> Die geschädigte Person ist zur Schätzung einzuladen. Sie ist berechtigt, sich vertreten zu lassen und auf ihre Kosten Sachverständige einzuladen.
 
 #### Art. 10
 
-**Zustellung des Schätzungsprotokolls**
-
-Die Kreisämter haben die Schätzungsprotokolle umgehend der Geschäftsstelle zukommen zu lassen.
+**…**
 
 #### Art. 11
 
@@ -100,35 +115,36 @@ Die Kreisämter haben die Schätzungsprotokolle umgehend der Geschäftsstelle zu
 
 <sup>2</sup> Sie setzt aufgrund des Schätzungsprotokolls beziehungsweise nach Vorliegen der Abrechnung die Entschädigung fest.
 
+<sup>3</sup> Wertvermehrende Aufwendungen werden nicht als anrechenbarer Schaden anerkannt.
+
 #### Art. 12
 
 **Teil- und Vorschusszahlungen**
 
 <sup>1</sup> Bei grösseren Schäden kann die Kasse, entsprechend dem Fortschritt der Wiederherstellungsarbeiten, Teilzahlungen leisten.
 
-**2**
-
-1.01.2011
-
 <sup>2</sup> Aufgrund von provisorischen Beitragszusicherungen des Schweizerischen Fonds für Hilfe bei nicht versicherbaren Elementarschäden oder von Hilfswerken kann die Kasse deren Beiträge ganz oder teilweise bevorschussen.
 
-### V. Finanzierung
+## 5. Finanzierung
 
 #### Art. 13
 
-**Kasse**
+**Abgaben an Kasse**
 
-Grundeigentümer und Baurechtberechtigte haben jährlich folgende Ab- Abgaben an gaben an die Kasse zu entrichten:
+<sup>1</sup> Grundeigentümer und Baurechtberechtigte haben jährlich folgende Abgaben an die Kasse zu entrichten:
 
-- a) für überbaute Grundstücke ein Rappen je 1 000 Franken der Gebäudeversicherungssumme der versicherten Gebäude und gebäudeähnlichen Objekte, mindestens jedoch fünf Franken je Grundeigentümer und Standortgemeinde des Grundstückes;
+- a) für überbaute Grundstücke 0,5 Rappen je 1000 Franken der Gebäudeversicherungssumme der versicherten Gebäude;
+- b) für nicht überbaute Grundstücke 0,25 Promille des Vermögenssteuerwertes.
 
-- b) für nicht überbaute Grundstücke 1 Promille des Vermögenssteuerwertes, mindestens jedoch fünf Franken je Grundeigentümer und Standortgemeinde des Grundstückes.
-
-### VI. Schlussbestimmungen
+## 6. Schlussbestimmungen
 
 #### Art. 14
 
-Diese Verordnung tritt mit der Teilrevision des Gesetzes über die Vergü- Inkrafttreten tung nicht versicherbarer Elementarschäden vom 15. Juni 2010[^14-1] in Kraft[^14-2].
+**Inkrafttreten**
 
-[^14-1]: BR 835.100
-[^14-2]: 1. Januar 2011 1.01.2011 3
+<sup>1</sup> Diese Verordnung tritt mit der Teilrevision des Gesetzes über die Vergütung nicht versicherbarer Elementarschäden vom 15. Juni 2010[^14-1] in Kraft[^14-2].
+
+[^14-1]: BR [835.100](https://www.gr-lex.gr.ch/data/835.100/de)
+[^14-2]: 1. Januar 2011
+
+-
