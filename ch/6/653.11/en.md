@@ -4,11 +4,11 @@ title: Ordinance of 23 November 2016 on the International Automatic Exchange of 
 short: AEOI Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/786"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2016-786-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2016-786-20220101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AEOI Ordinance)
 
-of 23 November 2016 (Status as of 1 January 2021)
+of 23 November 2016 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on the Federal Act of 18 December 2015[^ingress-1] on the International Au
 
 ordains:
 
-[^ingress-1]: [SR 653.1](https://fedlex.data.admin.ch/eli/cc/2016/259)
+[^ingress-1]: [SR 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 
 ## Section 1 …
 
@@ -55,13 +55,13 @@ The following collective investment vehicles are treated as non-reporting financ
 
 <sup>2</sup> However, these vehicles are deemed to be reporting financial institutions if interests are held by or through passive non-financial entities (NFEs) pursuant to the common reporting standard (CRS) with controlling persons that are reportable persons.
 
-[^2-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 3
 
 **Entities active in asset management or investment advice**
 
-Entities active in asset management or investment advice which, based on a customer's power of attorney or as the body of a company or a foundation, exclusively manage assets held in the name of the customer, company or foundation with a financial institution in Switzerland or abroad are treated as non-reporting financial institutions under Article 3 paragraph 11 AEOIA.
+Entities active in asset management or investment advice which, based on a customer’s power of attorney or as the body of a company or a foundation, exclusively manage assets held in the name of the customer, company or foundation with a financial institution in Switzerland or abroad are treated as non-reporting financial institutions under Article 3 paragraph 11 AEOIA.
 
 #### Art. 4
 
@@ -72,7 +72,7 @@ Central securities depositories under in accordance with Article 61 of the Finan
 - a. individuals or entities that are not reportable persons; or
 - b. passive NFEs with controlling persons that are not reportable persons.
 
-[^4-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 5
 
@@ -105,7 +105,7 @@ Foundations organised and established in Switzerland are deemed to be non-report
 
 <sup>2</sup> The assets that may be held in such accounts and the conditions under which such accounts may be held are governed by the Agreement of 14 February 2013[^8-1] between Switzerland and the United States of America for cooperation to facilitate the implementation of FATCA.
 
-[^8-1]: [SR 0.672.933.63](https://fedlex.data.admin.ch/eli/cc/2014/331)
+[^8-1]: [SR 0.672.933.63](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2583)
 
 #### Art. 9
 
@@ -140,8 +140,8 @@ Reporting Swiss financial institutions may treat accounts of co-owners associati
 - c. the use and management regulations under Article 649*a* paragraph 2 CC is noted in the land register.
 
 [^12-1]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^12-2]: [SR 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^12-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^12-2]: [SR 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
+[^12-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 13
 
@@ -149,7 +149,7 @@ Reporting Swiss financial institutions may treat accounts of co-owners associati
 
 Reporting Swiss financial institutions may treat accounts of condominium owners associations as excluded accounts in accordance with Article 4 paragraph 3 of the AEOIA provided the condominium owners associations meet the requirements set out in Article 712*l* paragraph 2 of the CC[^13-1].
 
-[^13-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 14
 
@@ -167,13 +167,13 @@ Reporting Swiss financial institutions may treat dormant accounts in accordance 
 
 #### Art. 16
 
-**E- money accounts**
+**E-money accounts**
 
 <sup>1</sup>
 
 Reporting Swiss financial institutions may treat e-money accounts as excluded accounts in accordance with Article 4 paragraph 3 of the AEOIA, provided:
 
-- a. the accounts are used exclusively as a means of payment in the form of e-money for cashless payments for goods and services, for cash withdrawals or for cashless payment transactions between individuals for which an electronically stored balance is a requirement for the transaction;
+- a. the accounts are used exclusively as a means of payment in the form of e‑money for cashless payments for goods and services, for cash withdrawals or for cashless payment transactions between individuals for which an electronically stored balance is a requirement for the transaction;
 - b. a contractually agreed balance of no more than 10,000 Swiss francs, US dollars or euros applies;
 - c. each overpayment of more than 10,000 Swiss francs, US dollars or euros is refunded to the account holder within 60 days; and
 - d. no interest is credited to the accounts.
@@ -184,7 +184,7 @@ Reporting Swiss financial institutions may treat e-money accounts as excluded ac
 
 **Accounts of deceased persons**
 
-Reporting Swiss financial institutions may treat deceased persons' accounts as accounts held exclusively by an estate with its own legal personality, and thus as excluded accounts, until the community of heirs is dissolved, provided the deceased’s death was notified to them by an opened will, a death certificate or in another appropriate form.
+Reporting Swiss financial institutions may treat deceased persons’ accounts as accounts held exclusively by an estate with its own legal personality, and thus as excluded accounts, until the community of heirs is dissolved, provided the deceased’s death was notified to them by an opened will, a death certificate or in another appropriate form.
 
 ## Section 4 Residence of Financial Institutions in Switzerland
 
@@ -197,13 +197,13 @@ The following are treated as resident in Switzerland in accordance with Article 
 - a. financial institutions that are subject to unlimited taxation in Switzerland or that have an economic affiliation in accordance with Article 4 paragraph 1 letter b or Article 51 paragraph 1 letter b of the Federal Act of 14 December 1990[^18-1] on Direct Federal Taxation;
 - b. tax-exempt financial institutions established under Swiss law.
 
-[^18-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^18-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 19
 
 **Trusts regulated abroad**
 
-Trusts that are regulated abroad as collective investments vehicles are not treated as resident in Switzerland irrespective of the trustees' domicile.
+Trusts that are regulated abroad as collective investments vehicles are not treated as resident in Switzerland irrespective of the trustees’ domicile.
 
 #### Art. 20
 
@@ -263,7 +263,7 @@ The following are also treated as depository accounts:
 
 <sup>3</sup> In order for a contract to qualify as an annuity contract, it is irrelevant whether it provides temporary or indefinite life cover. Endowment insurance contracts are not treated as annuity contracts.
 
-[^23-1]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^23-1]: [SR 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 
 #### Art. 24
 
@@ -372,7 +372,7 @@ Before fulfilling the claim, the reporting Swiss financial institution must have
 
 The cantons shall report the following to the FTA within two months after the end of each calendar year:
 
-- a. the OASI insurance number of the individuals with unlimited tax liability in the canton;
+- a. the OASI number[^32-1] of the individuals with unlimited tax liability in the canton;
 - b. the business identification number of the entities with unlimited tax liability in the canton.
 
 <sup>2</sup> The FTA shall assign the information transmitted automatically from abroad on the basis of these reports and if need be on the basis of further details required for identification pursuant to the applicable agreement to the cantons.
@@ -381,17 +381,19 @@ The cantons shall report the following to the FTA within two months after the en
 
 <sup>4</sup> Employees of this authority have access to this information in the retrieval procedure only if they identify themselves with two-factor authentication, whereby one of the factors has to be a unique and forgery-proof physical identifier.
 
+[^32-1]: Term in accordance with Annex No II 25 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
 ## Section 10 Information System
 
 #### Art. 33
 
 **Organisation and management of the information system**
 
-<sup>1</sup> The FTA's information system is operated as an independent information system on the platform of the Federal Office of Information Technology, Systems and Telecommunication on behalf of the FTA.
+<sup>1</sup> The FTA’s information system is operated as an independent information system on the platform of the Federal Office of Information Technology, Systems and Telecommunication on behalf of the FTA.
 
 <sup>2</sup> If the same data of various FTA organisational units is processed, the corresponding information systems can be networked to exchange master data, insofar as this is necessary for efficient data processing.
 
-<sup>3</sup> The FDF may specify detailed rules for the organisation and operation of the FTA's information system.
+<sup>3</sup> The FDF may specify detailed rules for the organisation and operation of the FTA’s information system.
 
 #### Art. 34
 
@@ -405,7 +407,7 @@ The FTA may process the personal data transmitted to it pursuant to the applicab
 
 The FTA shall destroy the data no later than 20 years after the end of the calendar year in which it received it.
 
-## Section 11 Final Provisions****
+## Section 11 Final Provisions
 
 [^sec11-1]
 
@@ -418,7 +420,7 @@ The FTA shall destroy the data no later than 20 years after the end of the calen
 In relation to accounts that are being operated on the day before the Amendment of 11 November 2020 comes into force and in respect of which the reporting Swiss financial institution has a self-certification that does not carry a tax identification number, the rules set out in Section I, Subsection C of the Annex to the Multilateral Competent Authority Agreement of 29 October 2014[^35a-2] on the Automatic Exchange of Financial Account Information apply.
 
 [^35a-1]: Inserted by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^35a-2]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^35a-2]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 36
 
@@ -437,10 +439,10 @@ Annex
 - 1\. In addition to the alternative procedure set out in the CRS or in an applicable agreement for financial accounts of individuals who are beneficiaries of a cash value insurance contract or annuity contract, the following provisions apply:
 -
 
-  *«A reporting financial institution may treat a financial account that is a member's interest in a group cash value insurance contract or group annuity contract as a financial account that is not a reportable account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the financial account that is a member's interest in a group cash value insurance contract or group annuity contract meets the following requirements:*
+  *«A reporting financial institution may treat a financial account that is a member’s interest in a group cash value insurance contract or group annuity contract as a financial account that is not a reportable account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the financial account that is a member’s interest in a group cash value insurance contract or group annuity contract meets the following requirements:*
 
   - *a)* *the group cash value insurance contract or group annuity insurance contract is issued to an employer and covers 25 or more employees/certificate holders;*
-  - *b)* *the employees/certificate holders are entitled to receive any contract value related to their interest and to name beneficiaries for the benefit payable upon the employee's death; and*
+  - *b)* *the employees/certificate holders are entitled to receive any contract value related to their interest and to name beneficiaries for the benefit payable upon the employee’s death; and*
   - *c)* *the aggregate amount payable to any employee/certificate holder or beneficiary does not exceed USD 1,000,000.*
 
 - *The term «group cash value insurance contract» means a cash value insurance contract that (i) provides cover for individuals who are affiliated through an employer, trade association, labour union or other association or group, and (ii) charges a premium for each member of the group (or member of a class within the group) that is determined without regard to the individual health characteristics other than age, gender and smoking habits of the member (or class of members) of the group.*
@@ -457,7 +459,7 @@ Annex
 
     - *i.* *the account holder also holds with the reporting financial institution (or with a related entity within the same jurisdiction as the reporting financial institution) a financial account that is a preexisting account under subparagraph C(9)(a),*
     - *ii.* *the reporting financial institution (and, as applicable, the related entity within the same jurisdiction as the reporting financial institution) treats both of the aforementioned financial accounts, and any other financial accounts of the account holder that are treated as preexisting accounts under letter b, as a single financial account for the purposes of satisfying the standards of knowledge requirements set forth in paragraph A of Section VII and for the purposes of determining the balance or value of any of the financial accounts when applying any of the account thresholds,*
-    - *iii.* *with respect to a financial account that is subject to AML/KYC procedures, the reporting financial institution is permitted to satisfy such AML/KYC procedures for the financial account by relying upon the AML/KYC procedures performed for the preexisting account described in subparagraph C(9)(a), and*
+    - *iii.* *with respect to a financial account that is subject to AML/KYC procedures, the reporting financial institution is permitted to satisfy such AML/KYC procedures for the financial account by relying upon the AML/KYC procedures performed for the* *preexisting account descr**ibed in subparagraph C(9)(a), and*
     - *iv.* *the opening of the financial account does not require the provision of new, additional or amended client information by the account holder other than for purposes of the common reporting standard.»*
 
 - 3\. Instead of the definition given for «related entity» in the CRS or in an applicable agreement, the following applies:

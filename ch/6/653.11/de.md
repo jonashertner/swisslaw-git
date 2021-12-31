@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 2016 über den internationalen automatischen 
 short: AIAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/786"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-786-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-786-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20210101/de"
 
 (AIAV)
 
-vom 23. November 2016 (Stand am 1. Januar 2021)
+vom 23. November 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -25,15 +25,15 @@ gestützt auf das Bundesgesetz vom 18. Dezember 2015[^ingress-1] über den inter
 
 verordnet:
 
-[^ingress-1]: [SR 653.1](https://fedlex.data.admin.ch/eli/cc/2016/259)
+[^ingress-1]: [SR 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 
-## 1. Abschnitt: ...
+## 1. Abschnitt: …
 
 #### Art. 1
 
 [^1-1]
 
-[^1-1]: Aufgehoben durch Ziff. I der V vom 7. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
+[^1-1]: Aufgehoben durch Ziff. I der V vom 7. November 2018, mit Wirkung seit 1. Januar 2019 ([AS 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
 
 ## 2. Abschnitt: Nicht meldende Finanzinstitute
 
@@ -53,7 +53,7 @@ Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 7 AIAG gelten die folge
 
 <sup>2</sup> Diese Organismen gelten jedoch als meldende Finanzinstitute, sofern Beteiligungen von oder über passive Non Financial Entities (NFEs) nach dem gemeinsamen Meldestandard (GMS) gehalten werden, deren beherrschende Personen meldepflichtig sind.
 
-[^2-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 3
 
@@ -70,7 +70,7 @@ Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 11 AIAG gelten Zentralv
 - a. natürliche Personen oder Rechtsträger, die keine meldepflichtigen Personen sind; oder
 - b. passive NFEs, die von nicht meldepflichtigen Personen beherrscht werden.
 
-[^4-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 5
 
@@ -91,7 +91,7 @@ Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 11 AIAG gelten in der S
 
 [^7-1]
 
-[^7-1]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^7-1]: Aufgehoben durch Ziff. I der V vom 11. November 2020, mit Wirkung seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## 3. Abschnitt: Ausgenommene Konten
 
@@ -103,7 +103,7 @@ Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 11 AIAG gelten in der S
 
 <sup>2</sup> Die Vermögenswerte, die auf solchen Konten gehalten werden dürfen, und die Voraussetzungen, unter denen solche Konten gehalten werden dürfen, richten sich nach dem Abkommen vom 14. Februar 2013[^8-1] zwischen der Schweiz und den Vereinigten Staaten von Amerika über die Zusammenarbeit für eine erleichterte Umsetzung von FATCA.
 
-[^8-1]: [SR 0.672.933.63](https://fedlex.data.admin.ch/eli/cc/2014/331)
+[^8-1]: [SR 0.672.933.63](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2583)
 
 #### Art. 9
 
@@ -137,9 +137,9 @@ Meldende schweizerische Finanzinstitute können Konten von Miteigentümergemeins
 - b. die Miteigentümerinnen und Miteigentümer eine Nutzungs- und Verwaltungsordnung nach Artikel 647 des Zivilgesetzbuches[^12-3] (ZGB) vereinbart haben, in der festgelegt wird, dass die von der Miteigentümergemeinschaft verwalteten finanziellen Vermögenswerte ausschliesslich für Aufwendungen im Zusammenhang mit der im Miteigentum stehenden Sache verwendet werden; und
 - c. diese Nutzungs- und Verwaltungsordnung nach Artikel 649*a* Absatz 2 ZGB im Grundbuch angemerkt ist.
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^12-2]: [SR 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^12-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^12-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^12-2]: [SR 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
+[^12-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 13
 
@@ -147,7 +147,7 @@ Meldende schweizerische Finanzinstitute können Konten von Miteigentümergemeins
 
 Meldende schweizerische Finanzinstitute können Konten von Stockwerkeigentümergemeinschaften als ausgenommene Konten nach Artikel 4 Absatz 3 AIAG behandeln, sofern die Stockwerkeigentümergemeinschaften die Voraussetzungen nach Artikel 712*l* Absatz 2 ZGB[^13-1] erfüllen.
 
-[^13-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 14
 
@@ -155,13 +155,13 @@ Meldende schweizerische Finanzinstitute können Konten von Stockwerkeigentümerg
 
 Meldende schweizerische Finanzinstitute können nachrichtenlose Konten nach Artikel 11 Absatz 6 Buchstaben a und b AIAG, bei denen der Kontostand oder -wert am Ende des Kalenderjahres oder eines anderen geeigneten Meldezeitraums oder im Zeitpunkt der Kontoauflösung höchstens 1000 US-Dollar beträgt, als ausgenommene Konten nach Artikel 4 Absatz 3 AIAG behandeln.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^15-1]: Aufgehoben durch Ziff. I der V vom 11. November 2020, mit Wirkung seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 16
 
@@ -195,7 +195,7 @@ Als in der Schweiz ansässig nach Artikel 5 Absatz 1 AIAG gelten:
 - a. Finanzinstitute, die in der Schweiz unbeschränkt steuerpflichtig sind oder eine wirtschaftliche Zugehörigkeit nach Artikel 4 Absatz 1 Buchstabe b oder Artikel 51 Absatz 1 Buchstabe b des Bundesgesetzes vom 14. Dezember 1990[^18-1] über die direkte Bundessteuer begründen;
 - b. steuerbefreite Finanzinstitute, die nach schweizerischem Recht errichtet worden sind.
 
-[^18-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^18-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 19
 
@@ -261,7 +261,7 @@ Als Einlagenkonten gelten auch:
 
 <sup>3</sup> Für die Qualifikation eines Vertrags als Rentenversicherungsvertrag ist unerheblich, ob der Vertrag die Langlebigkeit temporär oder zeitlich unbegrenzt absichert. Nicht kapitalbildende Verträge gelten nicht als Rentenversicherungsverträge.
 
-[^23-1]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^23-1]: [SR 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 
 #### Art. 24
 
@@ -313,7 +313,7 @@ Als solche Ausnahmen gelten namentlich:
 - b. Wechsel des Kontoinhabers oder der Kontoinhaberin infolge gerichtlicher oder behördlicher Anordnung;
 - c. Entstehung eines Begünstigtenanspruchs gegenüber einem Trust oder einem ähnlichen Rechtsgebilde auf der Grundlage von dessen Errichtungsakt oder Stiftungsurkunde.
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^27-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 28
 
@@ -346,7 +346,7 @@ Das meldende schweizerische Finanzinstitut muss vor Erfüllung des fälligen Ans
 
 [^30-1]
 
-[^30-1]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^30-1]: Aufgehoben durch Ziff. I der V vom 11. November 2020, mit Wirkung seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## 8. Abschnitt: Registrierungspflicht der meldenden schweizerischen Finanzinstitute
 
@@ -360,7 +360,7 @@ Das meldende schweizerische Finanzinstitut muss vor Erfüllung des fälligen Ans
 
 <sup>4</sup> Bei einem Trust, der nach Artikel 13 Absatz 4 AIAG anzumelden ist, muss die oder der Trustee vor dem Namen des Trusts den Zusatz «TDT=» hinzufügen. Artikel 13 Absätze 2 und 3 AIAG ist sinngemäss anwendbar.[^31-1]
 
-[^31-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^31-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## 9. Abschnitt: Vom Ausland automatisch übermittelte Informationen
 
@@ -370,7 +370,7 @@ Das meldende schweizerische Finanzinstitut muss vor Erfüllung des fälligen Ans
 
 Die Kantone melden der ESTV innerhalb von zwei Monaten nach Ende jedes Kalenderjahres:
 
-- a. die AHV-Versichertennummer der im Kanton unbeschränkt steuerpflichtigen natürlichen Personen;
+- a. die AHV-Nummer[^32-1] der im Kanton unbeschränkt steuerpflichtigen natürlichen Personen;
 - b. die Unternehmens-Identifikationsnummer der im Kanton unbeschränkt steuerpflichtigen Rechtsträger.
 
 <sup>2</sup> Die ESTV ordnet die vom Ausland automatisch übermittelten Informationen aufgrund dieser Meldungen sowie nötigenfalls aufgrund weiterer nach dem anwendbaren Abkommen zur Identifikation erforderlicher Angaben den Kantonen zu.
@@ -378,6 +378,8 @@ Die Kantone melden der ESTV innerhalb von zwei Monaten nach Ende jedes Kalenderj
 <sup>3</sup> Sie macht die vom Ausland automatisch übermittelten Informationen im Abrufverfahren der zur Festsetzung und Erhebung der direkten Steuern zuständigen Behörde des Kantons zugänglich, in dem die meldepflichtige Person unbeschränkt steuerpflichtig ist.
 
 <sup>4</sup> Mitarbeiterinnen und Mitarbeiter dieser Behörde haben nur dann auf diese Informationen Zugriff im Abrufverfahren, wenn sie sich durch zwei Faktoren authentifizieren, wobei einer der Faktoren ein physisches, eindeutiges und fälschungssicheres Identifikationsmerkmal sein muss.
+
+[^32-1]: Ausdruck gemäss Anhang Ziff. II 25 der V vom 17. November 2021, in Kraft seit 1. Januar 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ## 10. Abschnitt: Informationssystem
 
@@ -403,11 +405,11 @@ Die ESTV kann die ihr gemäss dem anwendbaren Abkommen übermittelten Personenda
 
 Die ESTV vernichtet die Daten spätestens 20 Jahre nach Ablauf des Kalenderjahres, in dem sie diese erhalten hat.
 
-## 11. Abschnitt: Schlussbestimmungen****
+## 11. Abschnitt: Schlussbestimmungen
 
 [^sec11-1]
 
-[^sec11-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^sec11-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 35a
 
@@ -415,8 +417,8 @@ Die ESTV vernichtet die Daten spätestens 20 Jahre nach Ablauf des Kalenderjahre
 
 In Bezug auf Konten, die am Tag vor Inkrafttreten der Änderung vom 11. November 2020 geführt werden und für die dem meldenden schweizerischen Finanzinstitut eine Selbstauskunft vorliegt, die keine Steueridentifikationsnummer enthält, sind die Regeln nach Abschnitt I Unterabschnitt C der Beilage zur multilateralen Vereinbarung vom 29. Oktober 2014[^35a-2] der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten anwendbar.
 
-[^35a-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^35a-2]: [SR 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^35a-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^35a-2]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 36
 
@@ -424,7 +426,7 @@ In Bezug auf Konten, die am Tag vor Inkrafttreten der Änderung vom 11. November
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft.
 
-[^36-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^36-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 Anhang
 
@@ -437,7 +439,7 @@ Anhang
 
   *«Ein meldendes Finanzinstitut kann ein Finanzkonto, das den Anteil eines Mitgliedes an einem rückkaufsfähigen Gruppenversicherungsvertrag oder einem Gruppenrentenversicherungsvertrag darstellt, bis zu dem Zeitpunkt, zu dem die Zahlung eines Betrags an den Arbeitnehmer/Inhaber des Versicherungsscheins oder Begünstigten fällig wird, als ein nicht meldepflichtiges Konto behandeln, sofern das Finanzkonto, das den Anteil eines Mitglieds an einem rückkaufsfähigen Gruppenversicherungsvertrag oder einem Gruppenrentenversicherungsvertrag darstellt, die folgenden Anforderungen erfüllt:*
 
-  - *a)* *der rückkaufsfähige Gruppenversicherungsvertrag oder der Gruppenrentenversicherungsvertrag ist auf einen Arbeitgeber ausgestellt und erstreckt sich auf mindestens 25 Arbeitnehmer/Versicherungsschein**inhaber;*
+  - *a)* *der r**ückkaufsfähige* *Gruppenversicherungsvertrag oder der Gruppenrentenversicherungsvertrag ist auf einen Arbeitgeber ausgestellt und erstreckt* *sich auf mindestens 25 Arbeitnehmer/Versicherungsschein**inhaber;*
   - *b)* *die Arbeitnehmer/Versicherungsscheininhaber haben Anspruch auf einen ihrem Anteil entsprechenden Vertragswert und dürfen Begüns**tigte benennen, an die die Leistungen im Falle des Ablebens des Arbeitnehmers zu zahlen sind; und*
   - *c)* *der an einen Arbeitnehmer/Versicherungsscheininhaber oder Begünstigten zu zahlende Gesamtbetrag beträgt höchstens 1 000 000 US-Dol**lar.*
 

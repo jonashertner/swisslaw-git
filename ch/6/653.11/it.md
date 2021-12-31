@@ -4,11 +4,11 @@ title: Ordinanza del 23 novembre 2016 sullo scambio automatico internazionale di
 short: OSAIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/786"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-786-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-786-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20210101/it"
 
 (OSAIn)
 
-del 23 novembre 2016 (Stato 1° gennaio 2021)
+del 23 novembre 2016 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 18 dicembre 2015[^ingress-1] sullo scambio automatic
 
 ordina:
 
-[^ingress-1]: [RS 653.1](https://fedlex.data.admin.ch/eli/cc/2016/259)
+[^ingress-1]: [RS 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 
 ## Sezione 1: …
 
@@ -53,7 +53,7 @@ Sono considerati istituti finanziari non tenuti alla comunicazione secondo l’a
 
 <sup>2</sup> Tali veicoli sono tuttavia considerati istituti finanziari tenuti alla comunicazione qualora le partecipazioni siano detenute da o per il tramite di entità non finanziarie passive secondo lo standard comune di comunicazione (SCC) il cui controllo è esercitato da persone oggetto di comunicazione.
 
-[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 3
 
@@ -70,7 +70,7 @@ Sono considerati istituti finanziari non tenuti alla comunicazione secondo l’a
 - a. persone fisiche o enti che non sono persone oggetto di comunicazione; oppure
 - b. entità non finanziarie passive controllate da persone che non sono oggetto di comunicazione.
 
-[^4-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 5
 
@@ -103,7 +103,7 @@ Sono considerate istituti finanziari non tenuti alla comunicazione secondo l’a
 
 <sup>2</sup> I valori patrimoniali che possono essere detenuti su questi conti e le condizioni secondo cui tali conti possono essere trattati sono disciplinati nell’Accordo del 14 febbraio 2013[^8-1] di cooperazione tra la Svizzera e gli Stati Uniti d’America per l’applicazione agevolata della normativa FATCA.
 
-[^8-1]: [RS 0.672.933.63](https://fedlex.data.admin.ch/eli/cc/2014/331)
+[^8-1]: [RS 0.672.933.63](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2583)
 
 #### Art. 9
 
@@ -138,8 +138,8 @@ Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come
 - c. tale regolamento per l’uso e l’amministrazione sia menzionato nel registro fondiario secondo l’articolo 649*a* capoverso 2 CC.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^12-2]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^12-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^12-2]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
+[^12-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 13
 
@@ -147,7 +147,7 @@ Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come
 
 Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come conti esclusi secondo l’articolo 4 capoverso 3 LSAI i conti delle comunioni di proprietari per piani purché le comunioni di proprietari per piani soddisfino le condizioni di cui all’articolo 712*l* capoverso 2 CC[^13-1].
 
-[^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 14
 
@@ -195,7 +195,7 @@ Sono considerati residenti in Svizzera secondo l’articolo 5 capoverso 1 LSAI:
 - a. gli istituti finanziari che sono illimitatamente assoggettati a imposta in Svizzera o che vantano un’appartenenza economica secondo l’articolo 4 capoverso 1 lettera b o l’articolo 51 capoverso 1 lettera b della legge federale del 14 dicembre 1990[^18-1] sull’imposta federale diretta;
 - b. gli istituti finanziari esentati da imposta che sono stati costituiti secondo il diritto svizzero.
 
-[^18-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^18-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 19
 
@@ -261,7 +261,7 @@ Con conto di deposito si intendono anche:
 
 <sup>3</sup> Per qualificare un contratto come contratto assicurativo di rendita è irrilevante se il contratto copre la longevità su base temporanea o illimitata. I contratti senza costituzione di capitale non sono considerati contratti assicurativi di rendita.
 
-[^23-1]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^23-1]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 
 #### Art. 24
 
@@ -375,7 +375,7 @@ Prima di soddisfare un diritto esigibile l’istituto finanziario svizzero tenut
 
 I Cantoni comunicano all’AFC entro due mesi dalla fine di ogni anno civile:
 
-- a. il numero d’assicurato AVS delle persone fisiche imponibili illimitatamente nel proprio Cantone;
+- a. il numero AVS[^32-1] delle persone fisiche imponibili illimitatamente nel proprio Cantone;
 - b. il numero d’identificazione delle imprese attribuito agli enti imponibili illimitatamente nel proprio Cantone.
 
 <sup>2</sup> L’AFC attribuisce ai Cantoni le informazioni trasmesse automaticamente dall’estero basandosi sulle suddette comunicazioni ed eventualmente su altri dati che, secondo l’accordo applicabile, sono necessari ai fini dell’identificazione.
@@ -383,6 +383,8 @@ I Cantoni comunicano all’AFC entro due mesi dalla fine di ogni anno civile:
 <sup>3</sup> L’AFC rende accessibili, mediante procedura di richiamo, le informazioni trasmesse dall’estero all’autorità competente in materia di tassazione e di riscossione dell’imposta federale diretta del Cantone in cui la persona oggetto di comunicazione è imponibile illimitatamente.
 
 <sup>4</sup> Ai collaboratori di tali autorità è concesso l’accesso a queste informazioni mediante procedura di richiamo soltanto se utilizzano l’autenticazione a due fattori, di cui uno deve essere costituito da un elemento d’identificazione fisico, univoco e non falsificabile.
+
+[^32-1]: Nuova espr. giusta l’all. n. II 25 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ## Sezione 10: Sistema d’informazione
 
@@ -408,7 +410,7 @@ L’AFC può procedere al trattamento dei dati personali che le sono trasmessi i
 
 L’AFC distrugge i dati al più tardi entro 20 anni a contare dalla fine dell’anno civile in cui li ha ricevuti.
 
-## Sezione 11: Disposizioni finali****
+## Sezione 11: Disposizioni finali
 
 [^sec11-1]
 
@@ -421,7 +423,7 @@ L’AFC distrugge i dati al più tardi entro 20 anni a contare dalla fine dell�
 In relazione ai conti già aperti il giorno antecedente l’entrata in vigore della modifica dell’11 novembre 2020 e per i quali l’istituto finanziario svizzero tenuto alla comunicazione dispone di un’autocertificazione che non contiene un numero d’identificazione fiscale, si applicano le regole secondo la sezione I parte C dell’allegato all’Accordo multilaterale del 29 ottobre 2014[^35a-2] tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari.
 
 [^35a-1]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^35a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^35a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 36
 
@@ -444,7 +446,7 @@ Allegato
 
   - *a)* *il contratto di assicurazione di gruppo per il quale è misurabile un valore maturato o il contratto di rendita di gruppo è emesso nei confronti di un datore di lavoro e copre 25 o più dipendenti/titolari di certificato;*
   - *b)* *i dipendenti/titolari di certificato sono abilitati a ricevere qualsiasi valore contrattuale connesso alle loro quote e a nominare dei beneficiari per l’indennità dovuta al momento del decesso del dipendente; e*
-  - *c)* *l’importo aggregato dovuto a ciascun dipendente/titolare di certificato o beneficiario non supera 1 000 000 USD**.*
+  - *c)* *l’importo aggregato dovuto a ciascun dipendente/titolare di certificato o beneficiario non supera 1 000 000 USD.*
 
 - *Per «contratto di assicurazione di gruppo per il quale è misurabile un valore maturato» si intende un contratto di assicurazione di gruppo che i) prevede una copertura per le persone fisiche che sono affiliate tramite un datore di lavoro, un’associazione professionale, un sindacato o un’altra associa**zione o un altro gruppo e ii) applica un premio a ciascun membro del gruppo (o membro di una categoria al suo interno) che è determinato indipendentemente dalle condizioni di salute del singolo a parte l’età, il genere e l’eventuale tabagismo del membro (o della categoria di membri) del gruppo.*
 - *Per «contratto di rendita di gruppo» si intende un contratto di rendita i cui beneficiari sono persone fisiche affiliate tramite un datore di lavoro, un’associazione professionale, un sindacato o un’altra associazione o un altro gruppo.»*
@@ -464,4 +466,4 @@ Allegato
     - *iv.* *l’apertura del conto finanziario non richiede la fornitura di informazioni sul cliente nuove, aggiuntive o modificate da parte del titolare del conto se non ai fini dello standard comune di comunicazione.»*
 
 - 3\. Anziché la nozione di «entità collegata» così come definita nello SCC o in un accordo applicabile si applica quanto segue:
-- *«**Un’entità è un’**«entità collegata»* *di un’altra entità se: i) una delle due entità controlla l’altra entità; ii) le due entità sono soggette a controllo comune; o iii) le due entità sono entità di investimento di cui alla parte A punto 6 lettera b, sono soggette a gestione comune e tale gestione adempie gli obblighi di adeguata verifica in materia fiscale di tali entità di investimento. A tal fine, il controllo comprende il possesso diretto o indiretto di più del 50 % dei diritti di voto e del valore in un’entità.**»*
+- *«Un’entità è un’«entità collegata» di un’altra entità se: i) una delle due entità controlla l’altra entità; ii) le due entità sono soggette a controllo comune; o iii) le due entità sono entità di investimento di cui alla parte A punto 6 lettera b, sono soggette a gestione comune e tale gestione adempie gli obblighi di adeguata verifica in materia fiscale di tali entità di investimento. A tal fine, il controllo comprende il possesso diretto o indiretto di più del 50 % dei diritti di voto e del valore in un’entità.»*

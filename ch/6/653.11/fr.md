@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 2016 sur l'échange international automatique 
 short: OEAR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/786"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-786-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-786-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20210101/fr"
 
 (OEAR)
 
-du 23 novembre 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 novembre 2016 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi fédérale du 18 décembre 2015 sur l’échange international automat
 
 arrête:
 
-[^ingress-1]: [RS 653.1](https://fedlex.data.admin.ch/eli/cc/2016/259)
+[^ingress-1]: [RS 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 
 ## Section 1 …
 
@@ -33,7 +33,7 @@ arrête:
 
 [^1-1]
 
-[^1-1]: Abrogé par le ch. I de l’O du 7 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
+[^1-1]: Abrogé par le ch. I de l’O du 7 novembre 2018, avec effet au 1<sup>er</sup> janvier 2019 ([RO 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
 
 ## Section 2 Institutions financières non déclarantes
 
@@ -53,7 +53,7 @@ Par institution financière non déclarante selon l’art. 3, al. 7, LEAR, on en
 
 <sup>2</sup> Les organismes susmentionnés sont toutefois considérés comme des institutions financières déclarantes si les participations sont détenues par des entités non financières (ENF) passives selon la norme commune de déclaration (NCD) ou par l’intermédiaire de celles-ci, lorsqu’elles sont elles-mêmes contrôlées par des personnes devant faire l’objet d’une déclaration.
 
-[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 
 #### Art. 3
 
@@ -70,7 +70,7 @@ Sont réputés institutions financières non déclarantes selon l’art. 3, al. 
 - a. des personnes physiques ou des entités qui ne sont pas des personnes devant faire l’objet d’une déclaration, ou
 - b. des ENF passives contrôlées par des personnes qui ne doivent pas faire l’objet d’une déclaration.
 
-[^4-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
 #### Art. 5
 
@@ -91,7 +91,7 @@ Sont réputées institutions financières non déclarantes selon l’art. 3, al.
 
 [^7-1]
 
-[^7-1]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^7-1]: Abrogé par le ch. I de l’O du 11 novembre 2020, avec effet au 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## Section 3 Comptes exclus
 
@@ -103,7 +103,7 @@ Sont réputées institutions financières non déclarantes selon l’art. 3, al.
 
 <sup>2</sup> Les valeurs qui peuvent être déposées sur de tels comptes et les conditions régissant leur détention se fondent sur l’Accord du 14 février 2013 entre la Suisse et les États-Unis d’Amérique sur leur coopération visant à faciliter la mise en œuvre du FATCA[^8-1].
 
-[^8-1]: [RS 0.672.933.63](https://fedlex.data.admin.ch/eli/cc/2014/331)
+[^8-1]: [RS 0.672.933.63](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2583)
 
 #### Art. 9
 
@@ -137,9 +137,9 @@ Les institutions financières suisses déclarantes peuvent traiter les comptes d
 - b. les copropriétaires ont conclu un règlement d’utilisation et d’administration conformément à l’art. 647 du code civil (CC)[^12-3], prévoyant que les actifs financiers administrés par la communauté de copropriétaires sont utilisés exclusivement pour financer les dépenses liées à l’objet en copropriété, et que
 - c. le règlement d’utilisation et d’administration est mentionné au registre foncier conformément à l’art. 649*a*, al. 2, CC.
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^12-2]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^12-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^12-2]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
+[^12-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 13
 
@@ -147,7 +147,7 @@ Les institutions financières suisses déclarantes peuvent traiter les comptes d
 
 Les institutions financières suisses déclarantes peuvent traiter les comptes de communautés de propriétaires par étages qui remplissent les conditions prévues par l’art. 712*l*, al. 2, CC[^13-1] comme des comptes exclus selon l’art. 4, al. 3, LEAR.
 
-[^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^13-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 14
 
@@ -155,13 +155,13 @@ Les institutions financières suisses déclarantes peuvent traiter les comptes d
 
 Les institutions financières suisses déclarantes peuvent traiter les comptes inactifs au sens de l’art. 11, al. 6, let. a et b, LEAR dont le solde ou la valeur ne dépasse pas 1000 dollars américains à la fin de l’année civile ou de toute autre période de déclaration appropriée ou au moment de leur résiliation comme comptes exclus au sens de l’art. 4, al. 3, LEAR.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^15-1]: Abrogé par le ch. I de l’O du 11 novembre 2020, avec effet au 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 16
 
@@ -195,7 +195,7 @@ Par résidentes de Suisse selon l’art. 5, al. 1, LEAR, on entend:
 - a. les institutions financières qui sont assujetties à l’impôt de façon illimitée en Suisse ou qui fondent un rattachement économique selon l’art. 4, al. 1, let. b, ou 51, al. 1, let. b, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^18-1];
 - b. les institutions financières exonérées qui ont été constituées selon le droit suisse.
 
-[^18-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^18-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 19
 
@@ -261,7 +261,7 @@ Sont également réputés comptes de dépôt:
 
 <sup>3</sup> La qualification d’un contrat de rente ne dépend pas du fait que le contrat assure la longévité de façon temporaire ou illimitée. Les contrats non constitutifs de capital ne sont pas réputés contrats de rente.
 
-[^23-1]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+[^23-1]: [RS 961.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11634)
 
 #### Art. 24
 
@@ -297,7 +297,7 @@ Elles peuvent indiquer les montants dans les monnaies suivantes:
 - c. en francs, ou
 - d. en dollars américains.
 
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## Section 7 Précisions concernant les obligations de diligence raisonnable
 
@@ -315,7 +315,7 @@ Font notamment partie de ces exceptions:
 - b. le changement du titulaire du compte sur ordre d’un tribunal ou d’une autorité;
 - c. la naissance d’un droit d’un bénéficiaire envers un *trust* ou une autre institution analogue sur la base de son acte constitutif ou de son acte de fondation.
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 28
 
@@ -348,7 +348,7 @@ Avant l’exécution de la prétention arrivée à échéance, l’institution f
 
 [^30-1]
 
-[^30-1]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^30-1]: Abrogé par le ch. I de l’O du 11 novembre 2020, avec effet au 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## Section 8 Obligation d’enregistrement faite aux institutions financières suisses déclarantes
 
@@ -362,8 +362,8 @@ Avant l’exécution de la prétention arrivée à échéance, l’institution f
 
 <sup>4</sup> Le *trustee* doit ajouter le préfixe «TDT=» devant le nom d’un *trust* devant être inscrit conformément à l’art. 13, al. 4, LEAR. L’art. 13, al. 2 et 3, LEAR est applicable par analogie.[^31-2]
 
-[^31-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^31-2]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^31-2]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## Section 9 Renseignements transmis automatiquement de l’étranger
 
@@ -373,16 +373,17 @@ Avant l’exécution de la prétention arrivée à échéance, l’institution f
 
 Les cantons communiquent à l’AFC au plus tard deux mois après la fin de chaque année civile:
 
-- a. le numéro d’assuré AVS des personnes physiques assujetties à l’impôt à titre illimité dans leur canton;
+- a. le numéro AVS[^32-1] des personnes physiques assujetties à l’impôt à titre illimité dans leur canton;
 - b. le numéro d’identification des entreprises des entités assujetties à l’impôt à titre illimité dans leur canton.
 
 <sup>2</sup> L’AFC affecte aux cantons les renseignements transmis automatiquement de l’étranger en se fondant sur ces numéros communiqués ou, au besoin, sur d’autres indications requises pour l’identification selon la convention applicable.
 
-<sup>3</sup> Elle donnel’accès aux renseignements transmis automatiquement de l’étranger aux autorités compétentes pour la taxation et la perception des impôts directs du canton dans lequel la personne devant faire l’objet d’une déclaration est assujettie à l’impôt à titre illimité au moyen d’une procédure d’appel.[^32-1]
+<sup>3</sup> Elle donnel’accès aux renseignements transmis automatiquement de l’étranger aux autorités compétentes pour la taxation et la perception des impôts directs du canton dans lequel la personne devant faire l’objet d’une déclaration est assujettie à l’impôt à titre illimité au moyen d’une procédure d’appel.[^32-2]
 
 <sup>4</sup> Les collaborateurs de ces autorités n’ont accès aux renseignements au moyen d’une procédure d’appel que s’ils disposent d’une authentification à deux facteurs, dont l’un doit être un élément d’identification physique, incontestable et infalsifiable.
 
-[^32-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^32-1]: Nouvelle expression selon l’annexe ch. II 25 de l’O du 17 novembre 2021, en vigueur depuis le 1<sup>er</sup> janvier 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## Section 10 Système d’information
 
@@ -408,11 +409,11 @@ L’AFC est habilitée à traiter les données personnelles qui lui ont été tr
 
 L’AFC détruit les données au plus tard 20 ans après la fin de l’année civile durant laquelle elle les a obtenues.
 
-## Section 11 Dispositions finales****
+## Section 11 Dispositions finales
 
 [^sec11-1]
 
-[^sec11-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^sec11-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 35a
 
@@ -420,8 +421,8 @@ L’AFC détruit les données au plus tard 20 ans après la fin de l’année ci
 
 En ce qui concerne les comptes déjà ouverts le jour précédant l’entrée en vigueur de la modification du 11 novembre 2020 et pour lesquels l’institution financière suisse déclarante dispose d’une autocertification ne comportant pas de numéro d’identification fiscale, les règles visées à la section I, par. C, de l’annexe à l’Accord multilatéral du 29 octobre 2014 entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers[^35a-2] sont applicables.
 
-[^35a-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^35a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/eli/cc/2016/759)
+[^35a-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^35a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
 
 #### Art. 36
 
@@ -429,7 +430,7 @@ En ce qui concerne les comptes déjà ouverts le jour précédant l’entrée en
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2017.
 
-[^36-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^36-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 Annexe
 
@@ -464,4 +465,4 @@ Annexe
     - *iv.* *l’ouverture du compte financier n’est pas conditionnée par la fourniture de renseignements nouveaux, supplémentaires ou modifiés concernant le client par le titulaire de compte autres que ceux requis aux fins de la Norme commune de déclaration.»*
 
 - 3\. En ce qui concerne la notion d’«entité liée» utilisée dans la NCD ou dans une convention applicable, on applique les principes suivants:
-- *«Une entité est une «entité liée» à une autre entité si (a) l’une des deux entités contrôle l’autre; (b) ces deux entités sont placées sous un contrôle conjoint; ou (c) ces deux entités sont des entités d’investissement décrites à l’al. A(6)(b), sont placées sous une direction commune, et cette direction s’acquitte des obligations de diligence raisonnable qui sont imposées aux entités d’investissement considérées. À cette fin, le contrôle comprend la détention directe ou indirecte de plus de 50 % des droits de vote ou de la valeur d’une entité.»*
+- *«Une entité est une «entité liée» à une autre entité si (a) l’une des deux entités contrôle l’autre; (b) ces deux entités sont placées sous un contrôle conjoint; ou (c) ces deux entités sont des entités d’investissement décrites à l’al. A(6)(b), sont placées sous une direction commune, et cette direction s’acquitte des obligations de diligence raisonnable qui sont imposées* *aux entités d’investissement considérées. À cette fin, le contrôle comprend la détention directe ou indirecte de plus de 50 % des droits de vote ou de la valeur d’une entité.»*
