@@ -4,13 +4,13 @@ number: "122.70.11"
 title: "Règlement du personnel de l'Etat"
 short: RPers
 language: fr
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-12
+version: 2022-01-01
+valid_until: 2025-07-31
+version_adopted: 2021-12-14
 adopted: 2002-12-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6397/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7027/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Personnel de l'Etat – R
 
 (RPers)
 
-du 17.12.2002 (version entrée en vigueur le 01.07.2019)
+du 17.12.2002 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -57,14 +57,15 @@ Arrête:
 - b) l'Office cantonal du matériel scolaire;
 - c) l'Etablissement de détention fribourgeois;
 - d) ...
-- e) l'Institut agricole de l'Etat de Fribourg;
+- e) Grangeneuve;
 - f) l'Etablissement d'assurance des animaux de rente;
 - g) l'hôpital fribourgeois;
 - h) le Réseau fribourgeois de soins en santé mentale;
 - i) l'Etablissement cantonal des assurances sociales;
 - j) la Caisse de prévoyance du personnel de l'Etat;
 - k) la Haute Ecole spécialisée de Suisse occidentale//Fribourg;
-- l) la Haute Ecole pédagogique Fribourg.
+- l) la Haute Ecole pédagogique Fribourg;
+- m) l'Etablissement cantonal de promotion foncière.
 
 ## 2 Régime général des attributions
 
@@ -79,8 +80,8 @@ Arrête:
 - a) le Conseil d'Etat pour le chancelier ou la chancelière d'Etat, le vice-chancelier ou la vice-chancelière d'Etat, les directeurs et directrices d'établissements personnalisés (ci-après: établissements) et les chefs et cheffes des services centraux;
 - b) le Tribunal cantonal pour le personnel du greffe;
 - c) les Directions, les établissements, la Chancellerie d'Etat et le Secrétariat du Grand Conseil pour les autres catégories de personnel, sous réserve des lettres suivantes;
-- d) le chef ou la cheffe du Service des bâtiments (architecte cantonal-e) pour le personnel engagé pour une durée inférieure à deux ans, exécutant des travaux de nettoyage;
-- e) le chef ou la cheffe du Service des ponts et chaussées (ingénieur-e cantonal-e) pour le personnel engagé pour une durée inférieure à deux ans, exécutant des travaux d'entretien des routes;
+- d) le chef ou la cheffe du Service des bâtiments pour le personnel engagé pour une durée inférieure à deux ans, exécutant des travaux de nettoyage;
+- e) le chef ou la cheffe du Service des ponts et chaussées pour le personnel engagé pour une durée inférieure à deux ans, exécutant des travaux d'entretien des routes;
 - f) le chef ou la cheffe du Service des forêts et de la nature pour le personnel engagé pour une durée inférieure à deux ans, rattaché à l'exploitation des forêts;
 - g) l'administrateur ou l'administratrice des vignes pour le personnel d'exploitation des domaines viticoles;
 - h) le chef ou la cheffe du Service cantonal des contributions pour le personnel engagé pour une durée inférieure à deux ans, effectuant de la saisie et du classement;
@@ -109,7 +110,7 @@ Arrête:
 - a) les directeurs et directrices d'établissements personnalisés;
 - b) les chef-fe-s des unités administratives subordonnées ou rattachées administrativement.
 
-<sup>2</sup> Sur la base de directives édictées par le Service du personnel et d'organisation et approuvées par le Conseil d'Etat, les Directions et les établissements désignent leurs propres cadres supérieurs. Ils se fondent sur la nature et le degré de la responsabilité assumée ainsi que sur la compétence décisionnelle des collaborateurs et collaboratrices dans:
+<sup>2</sup> Sur la base de directives édictées par le Service du personnel et d'organisation et approuvées par le Conseil d'Etat, les Directions et les établissements désignent leurs propres cadres supérieurs et en informent le Service du personnel et d'organisation. Ils se fondent sur la nature et le degré de la responsabilité assumée ainsi que sur la compétence décisionnelle des collaborateurs et collaboratrices dans:
 
 - a) la direction d'un établissement, d'une unité administrative ou d'une entité organisationnelle importante;
 - b) la conduite d'une entité spécialisée au sein de leurs états-majors;
@@ -151,7 +152,7 @@ Arrête:
 
 <sup>2</sup> Toutefois, lorsque ces dispositions ne concernent que le personnel d'une unité administrative ou que des catégories spécifiques de personnel, leur élaboration incombe à la Direction ou à l'établissement concerné sur la proposition de l'entité de gestion, en collaboration avec le Service du personnel et d'organisation.
 
-<sup>3</sup> La Commission consultative permanente pour les questions de personnel est associée à l'élaboration des dispositions concernant l'ensemble du personnel. Toutefois, elle peut être requise par le Conseil d'Etat de participer à l'élaboration de dispositions spécifiques à une catégorie de personnel, si le nombre de collaborateurs et collaboratrices concernés et l'importance des dispositions le justifient.
+<sup>3</sup> …
 
 <sup>4</sup> Le personnel est consulté conformément aux articles 123 et 128 LPers.
 
@@ -205,7 +206,7 @@ Arrête:
 
 <sup>1</sup> L'engagement d'un collaborateur ou d'une collaboratrice ne peut avoir lieu que si le poste à pourvoir figure au budget ou est garanti, tant sous l'angle de la couverture financière que sous l'angle de l'effectif, conformément à l'ordonnance sur la gestion des postes de travail.
 
-<sup>2</sup> Toutefois, en cas d'absence du ou de la titulaire d'un poste pour cause de maladie ou d'accident, l'engagement du remplaçant ou de la remplaçante peut être effectué même si la couverture financière ou en effectif n'est pas garantie. En principe, un délai de vacance de deux mois est respecté.
+<sup>2</sup> Toutefois, en cas d'absence du ou de la titulaire d'un poste pour cause de maladie ou d'accident, de congé de maternité, de congé paternité ou de congé d'adoption, l'engagement du remplaçant ou de la remplaçante peut être effectué même si la couverture financière ou en effectif n'est pas garantie. En principe, un délai de vacance de deux mois est respecté.
 
 <sup>3</sup> Les dispositions spéciales relatives au personnel enseignant et au personnel soignant sont réservées.
 
@@ -245,9 +246,9 @@ Arrête:
 
 **Mise au concours (art. 25 LPers) – Publication**
 
-<sup>1</sup> La mise au concours externe est publiée par voie d'Internet sur le site du Service du personnel et d'organisation ou sur le site de l'établissement ou de l'unité administrative concernée et par voie d'annonces groupées dans la Feuille officielle. Toutefois, la mise au concours externe peut être limitée à la voie d'Internet lorsqu'il s'agit de fonctions qui font l'objet d'annonces régulières et répétitives ou lorsque, en raison de la spécificité de la fonction, la voie de la Feuille officielle n'est pas propre à susciter des offres de service.
+<sup>1</sup> La mise au concours externe est publiée par voie d'Internet sur le site de l'Etat de Fribourg. Elle peut également être publiée sur le site de l'établissement ou de l'unité administrative concernée ou sur d'autres sites professionnels ou médias électroniques en fonction de la nature du poste à pourvoir.
 
-<sup>2</sup> La mise au concours externe peut être étendue à d'autres journaux ou à des revues spécialisées en fonction de la nature du poste à pourvoir et de la situation du marché du travail. Le choix des journaux est opéré en tenant compte de leur couverture géographique, du cercle des lecteurs et lectrices, de la périodicité de la parution et du coût.
+<sup>2</sup> La mise au concours externe peut être publiée dans des journaux ou des revues spécialisées en fonction de la nature du poste à pourvoir et de la situation du marché du travail. Le choix des journaux est opéré en tenant compte de leur couverture géographique, du cercle des lecteurs et lectrices, de la périodicité de la parution et du coût.
 
 <sup>3</sup> La mise au concours interne destinée à l'ensemble du personnel est publiée par voie d'Internet/Intranet et par voie de circulaire. Lorsque la mise au concours interne est limitée à une ou plusieurs unités administratives spécifiques, elle est portée à la connaissance de tous les collaborateurs et toutes les collaboratrices des unités concernées.
 
@@ -342,7 +343,7 @@ Arrête:
 
 <sup>1</sup> L'examen médical est obligatoire dès lors que le candidat ou la candidate est engagé-e pour une durée d'un an au moins.
 
-<sup>2</sup> Il se fait sur la base d'un questionnaire établi par la Caisse de prévoyance du personnel de l'Etat (ci-après: la Caisse de prévoyance) et délivré au plus tard avec le contrat d'engagement.
+<sup>2</sup> Il se fait sur la base d'un questionnaire délivré au plus tard avec le contrat d'engagement.
 
 #### Art. 26
 
@@ -350,7 +351,7 @@ Arrête:
 
 <sup>1</sup> La personne engagée remplit elle-même le questionnaire et le renvoie au médecin-conseil de l'Etat.
 
-<sup>2</sup> Celui-ci détermine, dans un délai d'un mois dès réception du questionnaire, si un examen médical complémentaire est nécessaire et si la personne engagée est apte à exercer l'activité prévue. Il transmet son appréciation à l'autorité d'engagement, à la Caisse de prévoyance et à la personne engagée.
+<sup>2</sup> Celui-ci détermine, dans un délai d'un mois dès réception du questionnaire, si un examen médical complémentaire est nécessaire et si la personne engagée est apte à exercer l'activité prévue. Il transmet son appréciation à l'autorité d'engagement et à la personne engagée.
 
 <sup>3</sup> L'examen médical complémentaire éventuel a lieu auprès du médecin généraliste, interniste ou chirurgien du choix de la personne engagée, autorisé à pratiquer dans le canton de Fribourg.
 
@@ -366,44 +367,36 @@ Arrête:
 
 <sup>4</sup> Une déclaration fausse relative à l'état de santé constitue un juste motif de renvoi au sens des articles 44 LPers et 32 du présent règlement.
 
-## 4 Statut
+## 4 Fin des rapports de service
 
 #### Art. 28
 
-**Reconnaissance officielle de la qualité d'agent ou agente des services publics (art. 32 LPers)**
-
-<sup>1</sup> La reconnaissance officielle de la qualité d'agent ou agente des services publics revêt une forme écrite adoptée par le Conseil d'Etat, sur le préavis du Service du personnel et d'organisation.
-
-<sup>2</sup> L'autorité d'engagement remet cette reconnaissance officielle aux personnes concernées selon la procédure qu'elle décide.
-
-<sup>3</sup> Le personnel engagé pour une période inférieure à deux ans ou payé à l'heure ne fait pas l'objet de la reconnaissance officielle.
-
-<sup>4</sup> Le personnel classé en classe inférieure n'a pas un droit à la reconnaissance officielle. Il peut toutefois en bénéficier après trois années de service au moins si ses prestations répondent aux exigences du poste et qu'il ne lui soit pas imposé une formation complémentaire.
+**…**
 
 #### Art. 29
 
 **Licenciement ordinaire (art. 37 à 41 LPers) – Procédure**
 
-<sup>1</sup> La procédure de licenciement ne peut être introduite qu'après que le collaborateur ou la collaboratrice a fait l'objet d'une évaluation des prestations au sens de l'article 22 LPers, qui atteste d'une insuffisance sur l'un des critères essentiels figurant sur la feuille d'évaluation.
+<sup>1</sup> La procédure de licenciement ne peut être introduite qu'après qu'une lettre d'avertissement ait été adressée au collaborateur ou à la collaboratrice, donnée par le chef ou la cheffe de service.
 
-<sup>2</sup> A la suite de cette évaluation ou, le cas échéant, à la suite du réexamen de celle-ci, le collaborateur ou la collaboratrice fait l'objet d'un avertissement. Celui-ci peut être donné par le chef ou la cheffe de service ou encore par l'autorité d'engagement. L'avertissement indique clairement où se situent les carences constatées et donne un délai raisonnable pour y remédier. Si des mesures d'accompagnement ou de formation du collaborateur ou de la collaboratrice ont été mises en place à la suite de l'entretien d'évaluation, la lettre d'avertissement en fait mention.
+<sup>2</sup> La lettre d'avertissement indique les carences constatées ainsi que les attentes d'amélioration et fixe un délai raisonnable pour y remédier.
 
-<sup>3</sup> Au terme du délai fixé dans la lettre d'avertissement, il est procédé à une nouvelle évaluation. Si celle-ci démontre que les insuffisances constatées persistent, l'autorité d'engagement ouvre la procédure de licenciement.
+<sup>2<sup>bis</sup></sup> Le collaborateur ou la collaboratrice peut présenter à l'autorité d'engagement, par écrit, dans un délai de dix jours, une demande de réexamen motivée contre la lettre d'avertissement. L'autorité d'engagement notifie par écrit sa détermination, en la motivant sommairement.
 
-<sup>4</sup> L'autorité d'engagement ou la personne désignée conformément à l'article 40 al. 2 LPers entend oralement le collaborateur ou la collaboratrice concerné-e. Elle peut procéder à d'autres opérations en vue de compléter le dossier.
+<sup>3</sup> Au terme du délai fixé dans la lettre d'avertissement, si les insuffisances constatées persistent, l'autorité d'engagement ou la personne désignée par elle ouvre la procédure de licenciement et, le cas échéant, procède aux mesures d'instruction nécessaires en vue de compléter le dossier.
 
-<sup>5</sup> Après l'entretien oral et, le cas échéant, les autres opérations, l'autorité d'engagement ou la personne désignée par elle impartit un délai au collaborateur ou à la collaboratrice concerné-e pour consulter le dossier et faire ses remarques.
+<sup>4</sup> Avant de rendre sa décision, l'autorité d'engagement ou la personne désignée par elle entend, en principe oralement, le collaborateur ou la collaboratrice concerné-e et lui impartit un délai pour consulter le dossier et faire ses remarques par écrit, conformément au droit d'être entendu.
+
+<sup>5</sup> Au terme de la consultation du dossier, l'autorité d'engagement rend sa décision. Celle-ci peut consister:
+
+- a) dans une résiliation avec trois mois d'avance pour la fin d'un mois, conformément à l'article 37 LPers;
+- b) dans un transfert au sens de l'article 34 al. 1 let. d LPers;
+- c) dans l'envoi d'une nouvelle lettre d'avertissement;
+- d) dans la renonciation à la prise d'une mesure.
 
 #### Art. 30
 
-**Licenciement ordinaire (art. 37 à 41 LPers) – Décision**
-
-<sup>1</sup> Au terme de la consultation du dossier, l'autorité d'engagement rend sa décision. Celle-ci peut consister:
-
-- a) dans une résiliation trois mois d'avance pour la fin d'un mois, conformément à l'article 37 LPers;
-- b) dans un transfert au sens de l'article 34 al. 1 let. d LPers;
-- c) dans l'envoi d'un nouvel avertissement;
-- d) dans la renonciation à la prise d'une mesure.
+**…**
 
 #### Art. 31
 
@@ -411,13 +404,13 @@ Arrête:
 
 <sup>1</sup> Les rapports de service du personnel engagé pour une période limitée prennent fin de plein droit au terme du contrat.
 
-<sup>2</sup> Lorsque le contrat prévoit la possibilité d'une résiliation avant le terme et que le contrat est prévu pour une durée inférieure à deux ans, les rapports de service peuvent être résiliés librement par l'employeur dans le délai d'une semaine pour la fin d'une semaine durant les trois premiers mois, dans le délai d'un mois pour la fin d'un mois jusqu'au terme de la première année de service et dans le délai de deux mois pour la fin d'un mois l'année suivante.
+<sup>2</sup> Lorsque le contrat prévoit la possibilité d'une résiliation avant le terme et que le contrat est prévu pour une durée inférieure à deux ans, les rapports de service peuvent être résiliés librement par l'employeur dans le délai d'une semaine pour la fin d'une semaine durant les deux premiers mois, dans le délai d'un mois pour la fin d'un mois dès le troisième mois.
 
-<sup>3</sup> Lorsque le contrat est conclu pour une durée égale ou supérieure à deux ans, le licenciement ordinaire avant le terme n'est possible que si le contrat l'a prévu expressément et selon les articles 29 et 30.
+<sup>3</sup> Lorsque le contrat est conclu pour une durée égale ou supérieure à deux ans, le licenciement ordinaire avant le terme n'est possible que si le contrat l'a prévu expressément et selon l'article 29.
 
 <sup>4</sup> Les rapports de service du personnel payé à l'heure prennent fin automatiquement au terme fixé dans le contrat. Lorsque, exceptionnellement, le contrat est de durée indéterminée conformément à l'article 1 al. 3 in fine, les rapports de service peuvent être résiliés librement dans les termes fixés à l'alinéa 2. Dès la dixième année, le délai est de trois mois d'avance pour la fin d'un mois.
 
-<sup>5</sup> Les rapports de service du personnel engagé pour une durée indéterminée et classé en classe inférieure peuvent être résiliés librement dans les termes fixés à l'alinéa 2. Reste réservé le cas où le collaborateur ou la collaboratrice a fait l'objet d'une reconnaissance officielle, conformément à l'article 28 al. 4, 2e phr.
+<sup>5</sup> …
 
 #### Art. 32
 
@@ -425,13 +418,15 @@ Arrête:
 
 <sup>1</sup> La procédure de renvoi peut être introduite dès qu'il existe des indices sérieux d'un motif de renvoi.
 
-<sup>2</sup> Selon la nature du motif supposé et si le lien de confiance avec le collaborateur ou la collaboratrice n'est pas définitivement rompu, l'autorité d'engagement envoie un avertissement au collaborateur ou à la collaboratrice concerné-e, conformément à l'article 29 al. 2. Dans ce cas, la suite de la procédure se déroule conformément à l'article 29 al. 3 à 5.
+<sup>2</sup> Selon la nature du motif supposé et si le lien de confiance avec le collaborateur ou la collaboratrice n'est pas définitivement rompu, l'autorité d'engagement envoie une lettre d'avertissement au collaborateur ou à la collaboratrice concerné-e.
 
-<sup>3</sup> Lorsque le motif supposé est particulièrement grave et de nature à porter atteinte définitivement aux liens de confiance, l'autorité d'engagement procède directement selon l'article 29 al. 4 et 5.
+<sup>3</sup> Avant de rendre sa décision, l'autorité d'engagement ou la personne désignée par elle entend, en principe oralement, le collaborateur ou la collaboratrice concerné-e et lui impartit un délai pour consulter le dossier et faire ses remarques par écrit, conformément au droit d'être entendu.
 
-<sup>4</sup> Lorsque le motif au sens de l'alinéa 3 est d'emblée prouvé (en cas de flagrant délit par exemple) ou qu'il est admis par le collaborateur ou la collaboratrice, l'autorité d'engagement rend la décision de renvoi immédiatement après avoir entendu oralement le collaborateur ou la collaboratrice.
+<sup>4</sup> Au terme du délai, l'autorité d'engagement rend sa décision qui peut consister en une résiliation immédiate des rapports de service ou le prononcé d'une autre mesure adéquate, notamment un transfert ou la renonciation de la prise d'une mesure.
 
-<sup>5</sup> La décision de renvoi prend effet dès sa réception par le collaborateur ou la collaboratrice.
+<sup>5</sup> Lorsque le motif est d'emblée prouvé (en cas de flagrant délit par exemple) ou qu'il est admis par le collaborateur ou la collaboratrice, l'autorité d'engagement rend la décision de renvoi immédiatement après avoir entendu oralement le collaborateur ou la collaboratrice.
+
+<sup>6</sup> La décision de renvoi prend effet dès sa réception par le collaborateur ou la collaboratrice.
 
 #### Art. 33
 
@@ -471,6 +466,26 @@ Arrête:
 <sup>3</sup> En cas de transfert en lieu et place du licenciement, le collaborateur ou la collaboratrice a droit à une indemnité calculée en fonction des alinéas 1 et 2, sur la base de la différence entre l'ancien traitement et le nouveau traitement.
 
 <sup>4</sup> L'article 38 est réservé.
+
+#### Art. 34a
+
+**Indemnité de situation acquise**
+
+<sup>1</sup> En cas d'affectation dans une fonction d'une classe inférieure, l'Etat garantit la rémunération pour les collaborateurs et collaboratrices âgés de 55 ans révolus, en leur octroyant une indemnité de situation acquise jusqu'à la résiliation de leurs rapports de service.
+
+<sup>2</sup> La fonction proposée au collaborateur ou à la collaboratrice doit être raisonnablement acceptable. Cette condition est remplie pour autant que la classe salariale qui lui est attribuée ne soit pas inférieure de quatre classes au maximum par rapport à la précédente.
+
+<sup>3</sup> Cette indemnité de situation acquise correspond à la différence entre l'ancien traitement annuel, majoré du treizième salaire, et le nouveau traitement annuel, majoré du treizième salaire.
+
+<sup>4</sup> L'indemnité est versée mensuellement, à raison d'un douzième du montant calculé selon l'alinéa 3.
+
+<sup>5</sup> L'indemnité n'est pas indexée au renchérissement.
+
+<sup>6</sup> Elle est assurée auprès de la Caisse de prévoyance du personnel de l'Etat.
+
+<sup>7</sup> En cas de promotion ou de changement de poste ultérieur, l'indemnité de situation acquise est supprimée. Il n'est pas tenu compte de cette indemnité lors de la fixation du nouveau traitement qui se fait conformément aux articles 107 à 109. Toutefois, en cas de promotion, si le nouveau traitement ne couvre pas l'ancien traitement majoré de l'indemnité de situation acquise, celle-ci est maintenue jusqu'à concurrence de la différence.
+
+<sup>8</sup> Le Service du personnel et d'organisation donne son préavis sur l'octroi de l'indemnité.
 
 #### Art. 35
 
@@ -602,11 +617,11 @@ Arrête:
 
 <sup>1</sup> Les unités administratives mettent en place des installations électroniques ou mécaniques de contrôle.
 
-<sup>2</sup> L'horaire de travail comprend un temps de présence obligatoire et un temps de présence déterminé par le collaborateur ou la collaboratrice. Le temps de présence déterminé par le collaborateur ou la collaboratrice peut varier journellement (horaire mobile).
+<sup>2</sup> L'horaire libre, l'horaire partiellement imposé et l'horaire entièrement imposé sont les modèles d'horaire appliqués au sein de l'administration.
 
-<sup>3</sup> Dans les unités administratives qui ne disposent pas encore des installations électroniques ou mécaniques de contrôle, le temps de présence déterminé par le collaborateur ou la collaboratrice doit être choisi pour une période prolongée et de manière à faciliter le contrôle (horaire fixe).
+<sup>3</sup> …
 
-<sup>4</sup> Les modalités de l'horaire mobile et de l'horaire fixe font l'objet d'un règlement particulier.
+<sup>4</sup> Les modalités de ces horaires font l'objet d'un règlement particulier.
 
 #### Art. 46
 
@@ -810,7 +825,7 @@ Arrête:
 
 <sup>5</sup> L'autorisation de report au-delà de la moitié des vacances doit être préalable et donnée par écrit, sur le préavis de l'entité de gestion.
 
-<sup>6</sup> Les conventions de flexibilisation du temps de travail restent réservées en ce qui concerne l'application des alinéas 3, 4 et 5.
+<sup>6</sup> …
 
 #### Art. 65
 
@@ -826,7 +841,7 @@ Arrête:
 
 **Principe**
 
-<sup>1</sup> L'interruption du travail pour d'autres motifs que les vacances, la maladie, un accident, une grossesse ou une maternité ou le service militaire nécessite l'octroi d'un congé.
+<sup>1</sup> L'interruption du travail pour d'autres motifs que les vacances, la maladie, un accident, une grossesse ou une maternité, la paternité, l'adoption ou le service militaire nécessite l'octroi d'un congé.
 
 #### Art. 67
 
@@ -841,8 +856,8 @@ Arrête:
 - e) décès du père ou de la mère du collaborateur ou de la collaboratrice: 3 jours;
 - f) décès du frère ou de la sœur du collaborateur ou de la collaboratrice: 2 jours;
 - g) funérailles d'un autre membre de la parenté, d'un ou une collègue de travail ou d'une autre personne avec laquelle le collaborateur ou la collaboratrice a eu d'étroites relations, suivant l'éloignement: ½ à 1 jour;
-- h) sur présentation d'un certificat médical attestant de la nécessité de la présence du collaborateur ou de la collaboratrice, maladie d'un enfant du collaborateur ou de la collaboratrice: jusqu'à 5 jours par an;
-- i) maladie grave d'un membre du ménage du collaborateur ou de la collaboratrice, manquant subitement de l'assistance nécessaire: jusqu'à 3 jours par an;
+- h) maladie ou accident d'un enfant du collaborateur ou de la collaboratrice: jusqu'à 5 jours par an et par enfant;
+- i) pour la prise en charge d'un membre de la famille (hors art. 67 al. 1 let. h) ou du partenaire atteint dans sa santé; le congé est limité au temps nécessaire à la prise en charge, mais ne dépassera pas 3 jours par cas et 10 jours par an au total;
 - j) déménagement: 1 jour; si le changement de domicile est imposé par l'Etat ou s'il est dû à un transfert au sens de l'article 34 al. 1 let. b LPers: 2 jours;
 - k) licenciement militaire, suivant l'éloignement: ½ à 1 jour;
 - l) participation, en tant que membre, aux assemblées générales d'associations professionnelles ou d'organisations syndicales: 1 jour par an
@@ -850,6 +865,16 @@ Arrête:
 <sup>2</sup> Le collaborateur ou la collaboratrice qui assume des responsabilités syndicales ou corporatives a droit, pour l'exercice des activités liées à cette charge, à un congé payé de cinq jours au plus par année, accordé par le chef ou la cheffe de service.
 
 <sup>3</sup> Hormis le cas du mariage ou de l'enregistrement du partenariat du collaborateur ou de la collaboratrice, le congé ne peut être pris que lors de l'événement qui le justifie et les jours qui le suivent.
+
+#### Art. 67a
+
+**Congé pour tâches d'assistance**
+
+<sup>1</sup> Si le collaborateur ou la collaboratrice a droit à une allocation de prise en charge parce que son enfant est gravement atteint dans sa santé en raison d'une maladie ou d'un accident, il a droit à un congé payé de quatorze semaines au plus.
+
+<sup>2</sup> Le congé doit être pris dans un délai-cadre de 18 mois. Le délai-cadre commence à courir le jour pour lequel la première indemnité journalière est versée.
+
+<sup>3</sup> Le congé peut être pris en une fois ou sous la forme de journées.
 
 #### Art. 68
 
@@ -1017,9 +1042,9 @@ Arrête:
 
 <sup>2</sup> La collaboratrice peut prendre jusqu'à deux semaines de son congé payé de maternité avant la date présumée de l'accouchement. Si le solde du congé payé de maternité n'est pas suffisant pour couvrir les seize semaines qui suivent l'accouchement, les semaines non couvertes sont, sur requête de la collaboratrice, considérées comme congé non payé. Dans tous les cas, la collaboratrice ne peut revenir travailler dans les huit semaines qui suivent l'accouchement.
 
-<sup>3</sup> En application de l'article 113 al. 2 LPers, la réduction du congé payé durant la première année de service est maintenue si, au terme du congé payé de douze semaines, la collaboratrice prend un congé non payé d'une durée supérieure à six mois.
+<sup>3</sup> …
 
-<sup>4</sup> Lorsque, en raison de sa grossesse, une collaboratrice ne paraît plus apte à remplir sa fonction, le chef ou la cheffe de service peut, en accord avec l'entité de gestion, l'obliger à prendre jusqu'à six semaines du congé payé de maternité avant la date présumée de l'accouchement. Si la collaboratrice conteste son inaptitude, elle est soumise à un examen du médecin-conseil de l'Etat.
+<sup>4</sup> …
 
 #### Art. 83
 
@@ -1027,7 +1052,13 @@ Arrête:
 
 <sup>1</sup> Le congé de maternité prend fin au plus tard au terme du contrat.
 
-<sup>2</sup> Lorsque la collaboratrice a été engagée pour une durée inférieure à un an, la durée du congé payé de maternité est de huit semaines. Toutefois, lorsque la collaboratrice était déjà enceinte lors de l'engagement, la durée du congé payé de maternité est de quatre semaines. L'alinéa 1 reste réservé.
+<sup>2</sup> …
+
+#### Art. 83a
+
+**Congé de maternité – En cas d'hospitalisation du nouveau-né**
+
+<sup>1</sup> En cas d'hospitalisation du nouveau-né, la durée du congé de maternité est prolongée conformément aux dispositions de la loi fédérale sur les allocations pour perte de gain.
 
 #### Art. 84
 
@@ -1061,9 +1092,9 @@ Arrête:
 
 **Congé de paternité**
 
-<sup>1</sup> Sur présentation de l'acte de naissance ou d'une pièce officielle, le collaborateur a droit à un congé payé de paternité de cinq jours ouvrables.
+<sup>1</sup> Sur présentation de l'acte de naissance ou d'une pièce officielle, le collaborateur a droit à un congé payé de paternité de quinze jours ouvrables.
 
-<sup>2</sup> Le congé peut être pris en une fois ou fractionné. Il doit être pris au plus tard dans l'année qui suit la naissance. L'article 71 est applicable.
+<sup>2</sup> Le congé peut être pris en une fois ou fractionné. Il doit être pris au plus tard dans les six mois qui suivent la naissance. L'article 71 est applicable.
 
 ### 6.3 Service militaire, service civil ou de protection civile (art. 111 LPers)
 
@@ -1172,11 +1203,13 @@ Arrête:
 
 **Octroi individuel – Octroi sous forme de supplément de traitement (art. 84 LPers)**
 
-<sup>1</sup> La prestation peut consister dans l'octroi d'un supplément de traitement égal au plus à 20 % du traitement de base maximal prévu pour la fonction, treizième salaire compris.
+<sup>1</sup> Le Conseil d'Etat décide de l'octroi d'un supplément de traitement égal au plus à 20 % du traitement de base maximal prévu pour la fonction, treizième salaire compris.
 
-<sup>2</sup> Le Conseil d'Etat décide de l'octroi et du montant de la prestation, sur la proposition de l'autorité d'engagement munie du préavis du Service du personnel et d'organisation.
+<sup>2</sup> Dans des cas exceptionnels, le Conseil d'Etat peut allouer une prestation allant au-delà de la limite des 20 % prévue.
 
-<sup>3</sup> Le maintien, la réduction ou la suppression de la prestation fait l'objet d'un rapport périodique adressé au Conseil d'Etat par l'autorité d'engagement. Le Service du personnel et d'organisation donne son préavis.
+<sup>3</sup> Le préavis du Service du personnel et d'organisation est requis.
+
+<sup>4</sup> Le maintien, la réduction ou la suppression de la prestation fait l'objet d'un rapport périodique adressé au Conseil d'Etat par l'autorité d'engagement. Le Service du personnel et d'organisation donne son préavis.
 
 #### Art. 100
 
@@ -1212,7 +1245,7 @@ Arrête:
 
 <sup>1</sup> L'augmentation annuelle déterminante pour les traitements classés dans les échelles de traitements est égale à la valeur d'un palier.
 
-<sup>2</sup> L'augmentation annuelle est octroyée chaque année, au début de l'année civile. Toutefois, la première augmentation annuelle est octroyée au terme de la période probatoire, à moins que le contrat d'engagement n'ait prévu une autre date.
+<sup>2</sup> L'augmentation annuelle est octroyée chaque année, au début de l'année civile. Toutefois, la première augmentation annuelle est octroyée au terme des douze premiers mois d'activité, à moins que le contrat d'engagement n'ait prévu une autre date.
 
 <sup>3</sup> L'augmentation annuelle déterminante pour les traitements fixés dans les barèmes particuliers, ainsi que la date d'octroi, est réglée dans les dispositions spécifiques aux catégories de personnel concernées.
 
@@ -1220,17 +1253,17 @@ Arrête:
 
 **Octroi d'une augmentation extraordinaire (art. 88 LPers)**
 
-<sup>1</sup> L'autorité d'engagement peut octroyer au début de l'année civile une augmentation annuelle dépassant la valeur d'un palier mais au plus de deux paliers au collaborateur ou à la collaboratrice dont l'évaluation des prestations se situe au degré le plus élevé d'appréciation.
+<sup>1</sup> L'autorité d'engagement peut octroyer au début de l'année civile une augmentation annuelle dépassant la valeur d'un palier mais au plus de deux paliers lorsque, sur la base d'une appréciation globale du comportement, des aptitudes et de la qualité des prestations, le collaborateur ou la collaboratrice dépasse les exigences de la fonction et du poste de travail.
 
 #### Art. 105
 
 **Refus ou report en cas d'insuffisance des prestations (art. 89 LPers)**
 
-<sup>1</sup> Le refus ou le report de l'augmentation annuelle ne peut être décidé qu'à la suite d'une évaluation des prestations. Celle-ci doit démontrer une insuffisance par rapport aux exigences du poste.
+<sup>1</sup> Le refus ou le report de l'augmentation annuelle ne peut être décidé que sur la base d'une appréciation globale du comportement, des aptitudes et de la qualité des prestations du collaborateur ou de la collaboratrice. Celle-ci doit démontrer une insuffisance par rapport aux exigences du poste.
 
-<sup>2</sup> En cas d'insuffisance partielle liée aux aptitudes, l'augmentation annuelle est partielle et correspond à un demi-palier. La seconde partie du palier peut être octroyée avec effet au 1<sup>er</sup> juillet si une nouvelle évaluation démontre que les prestations se sont améliorées et correspondent totalement aux exigences du poste.
+<sup>2</sup> En cas d'insuffisance partielle liée aux aptitudes, l'augmentation annuelle est partielle et correspond à un demi-palier. La seconde partie du palier peut être octroyée avec effet au 1<sup>er</sup> juillet si une nouvelle appréciation globale démontre que les prestations se sont améliorées et correspondent totalement aux exigences du poste.
 
-<sup>3</sup> Reste réservée l'éventuelle procédure de résiliation des rapports de service prévue aux articles 26 et 27.
+<sup>3</sup> Reste réservée l'éventuelle procédure de résiliation des rapports de service prévue aux articles 29 et 30.
 
 #### Art. 106
 
@@ -1261,7 +1294,7 @@ Arrête:
 - a) en cas de modification des exigences liées au poste de travail;
 - b) pour des motifs liés à la formation ou à l'expérience accrue du collaborateur ou de la collaboratrice.
 
-<sup>3</sup> Dans tous les cas, la promotion n'a lieu que lorsqu'une évaluation formelle des prestations a démontré que le collaborateur ou la collaboratrice répond pleinement aux exigences du poste.
+<sup>3</sup> Dans tous les cas, la promotion n'a lieu que lorsqu'une appréciation globale du comportement, des aptitudes et de la qualité des prestations du collaborateur ou de la collaboratrice a démontré que ce dernier ou cette dernière répond pleinement aux exigences du poste.
 
 <sup>4</sup> Le nouveau traitement est au moins égal à l'ancien traitement majoré de la valeur d'un palier de la nouvelle classe.
 
@@ -1276,7 +1309,7 @@ Arrête:
 - a) en cas de repourvue d'un poste vacant;
 - b) en cas de modification de la définition du poste de travail entraînant le rattachement de celui-ci à une nouvelle fonction de référence.
 
-<sup>3</sup> Dans tous les cas, la promotion n'a lieu qu'après une évaluation formelle des prestations démontrant que le collaborateur ou la collaboratrice dépasse sur tous les points les exigences minimales prévues pour le poste occupé avant la décision de promotion.
+<sup>3</sup> Dans tous les cas, la promotion n'a lieu que lorsqu'une appréciation globale du comportement, des aptitudes et de la qualité des prestations du collaborateur ou la collaboratrice a démontré que ce dernier ou cette dernière dépasse les exigences minimales prévues pour le poste occupé avant la décision de promotion.
 
 <sup>4</sup> Le nouveau traitement est fixé conformément à l'article 87 LPers. Il est au moins égal à l'ancien traitement majoré de la valeur d'un palier de la nouvelle classe.
 
@@ -1360,7 +1393,7 @@ Arrête:
 
 **Report de la gratification**
 
-<sup>1</sup> Lorsque le collaborateur ou la collaboratrice ne répond pas pleinement aux exigences du poste, l'autorité d'engagement peut, sur la base d'une évaluation des prestations, reporter d'une année l'octroi de la gratification d'ancienneté. L'octroi de la gratification l'année suivante est subordonné à une nouvelle évaluation des prestations qui démontre que le collaborateur ou la collaboratrice répond pleinement aux exigences du poste. Les articles 26 et 27 sont en outre réservés.
+<sup>1</sup> Lorsqu'une appréciation globale du comportement, des aptitudes et de la qualité des prestations du collaborateur ou de la collaboratrice démontre que ce dernier ou cette dernière ne répond pas pleinement aux exigences du poste, l'autorité d'engagement peut reporter d'une année l'octroi de la gratification d'ancienneté. L'octroi de la gratification l'année suivante est subordonné à une nouvelle appréciation qui démontre que le collaborateur ou la collaboratrice répond pleinement aux exigences du poste. Les articles 29 et 30 sont en outre réservés.
 
 ## 8 Indemnités diverses
 
@@ -1368,9 +1401,9 @@ Arrête:
 
 #### Art. 117
 
-<sup>1</sup> L'indemnité de remplacement n'est due que pour les remplacements d'une durée minimale de trois mois.
+<sup>1</sup> L'indemnité de remplacement n'est due que pour les remplacements d'une durée minimale de deux mois.
 
-<sup>2</sup> L'indemnité correspond à la moitié de la différence entre le traitement auquel le collaborateur ou la collaboratrice aurait pu prétendre à la suite d'une promotion dans cette fonction selon l'article 108 et le traitement qu'il ou elle touche dans sa fonction d'origine. Elle est au moins égale à la valeur d'un palier.
+<sup>2</sup> L'indemnité de remplacement correspond au traitement auquel le collaborateur ou la collaboratrice aurait pu prétendre à la suite d'une promotion dans cette fonction selon l'article 108.
 
 <sup>3</sup> L'octroi de l'indemnité est décidé par l'autorité d'engagement, sur le préavis du Service du personnel et d'organisation.
 
@@ -1517,7 +1550,7 @@ Arrête:
 
 <sup>1</sup> Lorsque le collaborateur ou la collaboratrice ne peut rentrer à son domicile pour y prendre son repas en raison d'un lieu de travail mobile (p. ex. chantier), il ou elle a droit à une indemnité de repas dont le montant est fixé dans l'annexe 3 du présent règlement.
 
-<sup>2</sup> La pause minimale de trois quarts d'heure, destinée à la consommation du repas, ne compte pas comme temps de travail.
+<sup>2</sup> La pause minimale d'une demi-heure, destinée à la consommation du repas, ne compte pas comme temps de travail.
 
 #### Art. 129b
 
@@ -1800,7 +1833,7 @@ Arrête:
 
 **Abrogations**
 
-<sup>1</sup> Le règlement du 10 juillet 1985 du personnel de l'Etat (RPE; RSF 122.70.11) est abrogé, sous réserve des articles 135 à 145 qui restent applicables jusqu'à l'entrée en vigueur de l'ordonnance relative à la formation continue et à l'introduction d'un système d'encouragement des inventions et suggestions du personnel.[^156-1]
+<sup>1</sup> Le règlement du 10 juillet 1985 du personnel de l'Etat (RPE; RSF 122.70.11) est abrogé, sous réserve des articles 135 à 144 qui restent applicables jusqu'à l'entrée en vigueur de l'ordonnance relative à la formation continue et à l'introduction d'un système d'encouragement des inventions et suggestions du personnel.[^156-1]
 
 <sup>2</sup> Sont en outre abrogés:
 

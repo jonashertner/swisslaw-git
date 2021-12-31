@@ -4,13 +4,13 @@ number: "122.70.11"
 title: Reglement über das Staatspersonal
 short: StPR
 language: de
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-12
+version: 2022-01-01
+valid_until: 2025-07-31
+version_adopted: 2021-12-14
 adopted: 2002-12-17
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6397/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7027/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Staatspersonal – R
 
 (StPR)
 
-vom 17.12.2002 (Fassung in Kraft getreten am 01.07.2019)
+vom 17.12.2002 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -57,7 +57,7 @@ beschliesst:
 - b) Kantonale Lehrmittelverwaltung;
 - c) Freiburger Strafanstalt;
 - d) ...
-- e) Landwirtschaftliches Institut des Kantons Freiburg;
+- e) Grangeneuve;
 - f) Nutztierversicherungsanstalt;
 - g) freiburger spital;
 - h) Freiburger Netzwerk für psychische Gesundheit;
@@ -65,6 +65,7 @@ beschliesst:
 - j) Pensionskasse des Staatspersonals;
 - k) Fachhochschule Westschweiz//Freiburg;
 - l) Pädagogische Hochschule Freiburg.
+- m) Kantonale Anstalt für die aktive Bodenpolitik.
 
 ## 2 Allgemeine Zuständigkeitsordnung
 
@@ -79,8 +80,8 @@ beschliesst:
 - a) der Staatsrat für die Staatskanzlerin oder den Staatskanzler, die Vizekanzlerin oder den Vizekanzler, die Direktorinnen und Direktoren der Anstalten mit eigener Rechtspersönlichkeit (Anstalten) sowie für die Chefinnen und Chefs der zentralen Dienste;
 - b) das Kantonsgericht für das Personal der Gerichtsschreibereien;
 - c) die Direktionen, die Anstalten, die Staatskanzlei und das Sekretariat des Grossen Rates für die übrigen Personalkategorien, unter Vorbehalt der folgenden Buchstaben;
-- d) die Chefin oder der Chef des Hochbauamtes (Kantonsarchitektin oder Kantonsarchitekt) für das für weniger als zwei Jahre angestellte Personal für Reinigungsarbeiten;
-- e) die Chefin oder der Chef des Tiefbauamtes (Kantonsingenieurin oder Kantonsingenieur) für das für weniger als zwei Jahre angestellte Personal für den Strassenunterhalt;
+- d) die Chefin oder der Chef des Hochbauamtes für das für weniger als zwei Jahre angestellte Personal für Reinigungsarbeiten;
+- e) die Chefin oder der Chef des Tiefbauamtes für das für weniger als zwei Jahre angestellte Personal für den Strassenunterhalt;
 - f) die Chefin oder der Chef des Amtes für Wald und Natur für das für weniger als zwei Jahre angestellte Personal für die Waldbewirtschaftung;
 - g) die Verwalterin oder der Verwalter der Staatsreben für das Betriebspersonal der Staatsreben;
 - h) die Chefin oder der Chef der Kantonalen Steuerverwaltung für das für weniger als zwei Jahre angestellte Personal für die Datenerfassung und -ablage;
@@ -109,7 +110,7 @@ beschliesst:
 - a) die Direktorinnen und Direktoren von Anstalten mit eigener Rechtspersönlichkeit;
 - b) die Chefinnen und Chefs der untergeordneten oder administrativ zugewiesenen Verwaltungseinheiten.
 
-<sup>2</sup> Die Direktionen und Anstalten bezeichnen ihre eigenen höheren Kader auf der Grundlage von Richtlinien des Amtes für Personal und Organisation, die der Staatsrat genehmigt hat. Sie gründen dabei auf der Art und dem Umfang der den Mitarbeiterinnen und Mitarbeitern übertragenen Verantwortung und Entscheidungskompetenzen bei der:
+<sup>2</sup> Die Direktionen und Anstalten bezeichnen ihre eigenen höheren Kader auf der Grundlage von Richtlinien des Amtes für Personal und Organisation, die der Staatsrat genehmigt hat, und setzen das Amt für Personal und Organisation darüber in Kenntnis. Als Grundlage nehmen sie dabei Bezug auf die Art und den Umfang der den Mitarbeiterinnen und Mitarbeitern übertragenen Verantwortung und Entscheidungskompetenzen bei der:
 
 - a) Leitung einer Anstalt, einer Verwaltungseinheit oder einer grösseren Organisationseinheit;
 - b) Führung eines Fachbereichs in Stabsfunktion;
@@ -151,7 +152,7 @@ beschliesst:
 
 <sup>2</sup> Bestimmungen, die lediglich das Personal einer Verwaltungseinheit oder spezifische Personalkategorien betreffen, werden von der zuständigen Direktion oder Anstalt auf Antrag der Fachstelle in Zusammenarbeit mit dem Amt für Personal und Organisation ausgearbeitet.
 
-<sup>3</sup> Die ständige beratende Kommission für Personalfragen wirkt bei der Ausarbeitung von Bestimmungen mit, die das gesamte Personal betreffen. Sie kann vom Staatsrat aufgefordert werden, bei der Erarbeitung spezifischer Bestimmungen für eine bestimmte Personalkategorie mitzuwirken, sofern die Zahl der betroffenen Mitarbeiterinnen und Mitarbeiter und die Tragweite der Bestimmungen dies rechtfertigen.
+<sup>3</sup> …
 
 <sup>4</sup> Das Personal wird gemäss den Artikeln 123 und 128 StPG konsultiert.
 
@@ -205,7 +206,7 @@ beschliesst:
 
 <sup>1</sup> Die Anstellung einer Mitarbeiterin oder eines Mitarbeiters kann nur dann erfolgen, wenn die zu besetzende Stelle im Voranschlag vorgesehen ist oder wenn sie sowohl in finanzieller Hinsicht als auch durch den Stellenbestand gemäss der Verordnung über die Stellenbewirtschaftung abgedeckt ist.
 
-<sup>2</sup> Ist eine Stelleninhaberin oder ein Stelleninhaber wegen Krankheit oder Unfall arbeitsabwesend, kann die Anstellung einer Stellvertreterin oder eines Stellvertreters auch dann erfolgen, wenn die Stellvertretung in finanzieller Hinsicht oder über den Stellenbestand nicht abgedeckt ist. Grundsätzlich ist dafür eine Stellenvakanz von zwei Monaten einzuhalten.
+<sup>2</sup> Ist eine Stelleninhaberin oder ein Stelleninhaber wegen Krankheit oder Unfall, Mutterschaftsurlaub, Vaterschaftsurlaub oder Adoptionsurlaub arbeitsabwesend, kann die Anstellung einer Stellvertreterin oder eines Stellvertreters auch dann erfolgen, wenn die Stellvertretung finanziell oder über den Stellenbestand nicht abgedeckt ist. Grundsätzlich ist dafür eine Stellenvakanz von zwei Monaten einzuhalten.
 
 <sup>3</sup> Die besonderen Bestimmungen für das Lehrpersonal und das Pflegepersonal bleiben vorbehalten.
 
@@ -245,9 +246,9 @@ beschliesst:
 
 **Stellenausschreibung (Art. 25 StPG) – Veröffentlichung**
 
-<sup>1</sup> Die externe Stellenausschreibung wird auf dem Internet auf der Website des Amtes für Personal und Organisation oder der Website der betreffenden Anstalt oder der betreffenden Verwaltungseinheit publiziert und als Sammelinserat im Amtsblatt veröffentlicht. Die externe Stellenausschreibung kann jedoch auch nur auf dem Internet veröffentlicht werden bei Funktionen, die regelmässig immer wieder ausgeschrieben werden, oder wenn bei besonderen Funktionen mit der Ausschreibung im Amtsblatt keine Bewerbungen zu erwarten sind.
+<sup>1</sup> Die externe Stellenausschreibung wird im Internet auf der Website des Staates Freiburg publiziert. Sie kann auch auf der Website der betreffenden Anstalt oder der betreffenden Verwaltungseinheit oder je nach Art der zu besetzenden Stelle auch in anderen Stellenportalen oder elektronischen Medien veröffentlicht werden.
 
-<sup>2</sup> Die externe Stellenausschreibung kann je nach Art der zu besetzenden Stelle und der Arbeitsmarktlage auf weitere Zeitungen oder auf Fachzeitschriften ausgedehnt werden. Die Zeitungen werden nach ihrer geografischen Abdeckung, dem Kreis der Leserinnen und Leser, der Erscheinungshäufigkeit und den Kosten ausgewählt.
+<sup>2</sup> Die externe Stellenausschreibung kann je nach Art der zu besetzenden Stelle und der Arbeitsmarktlage in Zeitungen oder Fachzeitschriften publiziert werden. Die Zeitungen werden nach ihrer geografischen Abdeckung, dem Kreis der Leserschaft, der Erscheinungshäufigkeit und den Kosten ausgewählt.
 
 <sup>3</sup> Die interne Stellenausschreibung, die sich an das gesamte Personal richtet, erfolgt über Internet/Intranet und per Rundschreiben. Ist die interne Stellenausschreibung auf eine oder mehrere spezifische Verwaltungseinheiten beschränkt, so werden alle Mitarbeiterinnen und Mitarbeiter der betreffenden Verwaltungseinheiten über die Stellenausschreibung informiert.
 
@@ -342,7 +343,7 @@ beschliesst:
 
 <sup>1</sup> Die ärztliche Untersuchung ist obligatorisch, wenn die Bewerberin oder der Bewerber für eine Dauer von mindestens einem Jahr angestellt wird.
 
-<sup>2</sup> Sie erfolgt auf der Grundlage eines von der Pensionskasse des Staatspersonals (die Pensionskasse) erstellten Gesundheitsfragebogens, der der Bewerberin oder dem Bewerber spätestens mit dem Anstellungsvertrag zugestellt wird.
+<sup>2</sup> Sie erfolgt auf der Grundlage eines Gesundheitsfragebogens, welcher der Bewerberin oder dem Bewerber spätestens mit dem Anstellungsvertrag zugestellt wird.
 
 #### Art. 26
 
@@ -350,7 +351,7 @@ beschliesst:
 
 <sup>1</sup> Die angestellte Person füllt den Gesundheitsfragebogen aus und schickt ihn dann an die Vertrauensärztin oder den Vertrauensarzt des Staates.
 
-<sup>2</sup> Die Vertrauensärztin oder der Vertrauensarzt bestimmt innert Monatsfrist nach Erhalt des Fragebogens, ob eine ergänzende ärztliche Untersuchung erforderlich ist und ob die angestellte Person die vorgesehene Tätigkeit ausüben kann. Sie oder er teilt den Befund der Anstellungsbehörde, der Pensionskasse und der angestellten Person mit.
+<sup>2</sup> Die Vertrauensärztin oder der Vertrauensarzt bestimmt innert Monatsfrist nach Erhalt des Fragebogens, ob eine ergänzende ärztliche Untersuchung erforderlich ist und ob die angestellte Person die vorgesehene Tätigkeit ausüben kann. Sie oder er teilt den Befund der Anstellungsbehörde und der angestellten Person mit.
 
 <sup>3</sup> Eine allfällige ergänzende ärztliche Untersuchung erfolgt bei einer Ärztin oder einem Arzt für Allgemeinmedizin, Innere Medizin oder Chirurgie freier Wahl mit einer Bewilligung zur Berufsausübung im Kanton Freiburg.
 
@@ -366,44 +367,36 @@ beschliesst:
 
 <sup>4</sup> Eine Falschangabe zum Gesundheitszustand gilt als wichtiger Entlassungsgrund im Sinne von Artikel 44 StPG und von Artikel 32 dieses Reglements.
 
-## 4 Dienstverhältnis
+## 4 Beendigung des Dienstverhältnisses
 
 #### Art. 28
 
-**Offizielle Anerkennung der besonderen Eigenschaft als Mitarbeiterin oder Mitarbeiter des öffentlichen Dienstes (Art. 32 StPG)**
-
-<sup>1</sup> Die offizielle Anerkennung der besonderen Eigenschaft als Mitarbeiterin oder Mitarbeiter des öffentlichen Dienstes erfolgt in einer schriftlichen, vom Staatsrat nach Stellungnahme des Amtes für Personal und Organisation erlassenen Form.
-
-<sup>2</sup> Die Anstellungsbehörde übergibt diese offizielle Anerkennung den betreffenden Personen gemäss einem von ihr bestimmten Verfahren.
-
-<sup>3</sup> Für das für weniger als zwei Jahre und das im Stundenlohn angestellte Personal erfolgt keine offizielle Anerkennung.
-
-<sup>4</sup> Für Personal, dessen Gehalt unterhalb der der Funktion zugeordneten Klassen festgesetzt ist, erfolgt keine offizielle Anerkennung. Diese Mitarbeiterinnen und Mitarbeiter können jedoch frühestens nach drei Dienstjahren offiziell anerkannt werden, wenn ihre Leistungen den Anforderungen der Stelle entsprechen und von ihnen keine Zusatzausbildung verlangt wurde.
+**…**
 
 #### Art. 29
 
 **Ordentliche Kündigung (Art. 37–41 StPG) – Verfahren**
 
-<sup>1</sup> Das Kündigungsverfahren kann erst dann eingeleitet werden, wenn aus einer vorangehenden Personalbeurteilung der Mitarbeiterin oder des Mitarbeiters im Sinne von Artikel 22 StPG eine Unzulänglichkeit in einem der auf dem Beurteilungsblatt aufgeführten Hauptkriterien hervorgeht.
+<sup>1</sup> Das Kündigungsverfahren kann erst eingeleitet werden, nachdem der Mitarbeiterin oder dem Mitarbeiter ein von der Dienstchefin oder vom Dienstchef unterzeichnetes Mahnschreiben zugestellt worden ist.
 
-<sup>2</sup> Im Anschluss an diese Personalbeurteilung oder gegebenenfalls deren Wiedererwägung ergeht eine schriftliche Verwarnung an die Mitarbeiterin oder den Mitarbeiter. Diese kann von der Dienstchefin oder dem Dienstchef oder von der Anstellungsbehörde erteilt werden. Die schriftliche Verwarnung führt klar die festgestellten Mängel auf und setzt eine angemessene Frist für deren Behebung. Wurden im Anschluss an die Personalbeurteilung Begleitmassnahmen oder Massnahmen zur Ausbildung der Mitarbeiterin oder des Mitarbeiters getroffen, so wird dies in der Verwarnung erwähnt.
+<sup>2</sup> Das Mahnschreiben nennt die festgestellten Mängel und die erwarteten Verbesserungen sowie eine angemessene Frist zur Behebung dieser Mängel.
 
-<sup>3</sup> Nach Ablauf der in der Verwarnung gesetzten Frist wird eine neue Personalbeurteilung durchgeführt. Zeigt sich dabei, dass die festgestellten Mängel weiter bestehen, so leitet die Anstellungsbehörde das Kündigungsverfahren ein.
+<sup>2<sup>bis</sup></sup> Die Mitarbeiterin oder der Mitarbeiter kann innerhalb von zehn Tagen schriftlich und unter Angabe von Gründen eine Überprüfung des Mahnschreibens beantragen. Die Anstellungsbehörde nimmt schriftlich und mit einer summarischen Begründung dazu Stellung.
 
-<sup>4</sup> Die Anstellungsbehörde oder die gemäss Artikel 40 Abs. 2 StPG bezeichnete Person hört die betroffene Person mündlich an. Sie kann weitere Ermittlungen zur Vervollständigung des Dossiers durchführen.
+<sup>3</sup> Wenn sich nach Ablauf der im Mahnschreiben gesetzten Frist zeigt, dass die festgestellten Mängel weiterbestehen, so leitet die Anstellungsbehörde oder die von ihr bezeichnete Person das Kündigungsverfahren ein und führt gegebenenfalls die zur Vervollständigung des Dossiers notwendigen Untersuchungsmassnahmen durch.
 
-<sup>5</sup> Nach der Anhörung und gegebenenfalls den weiteren Ermittlungen setzt die Anstellungsbehörde oder die von ihr bezeichnete Person der betreffenden Mitarbeiterin oder dem betreffenden Mitarbeiter eine Frist, innerhalb der sie oder er das Dossier einsehen und Bemerkungen dazu anbringen kann.
+<sup>4</sup> Bevor die Anstellungsbehörde oder die von ihr bezeichnete Person ihren Entscheid fällt, hört sie, gemäss dem Anspruch auf rechtliches Gehör, die betroffene Person grundsätzlich mündlich an und setzt ihr eine Frist zur Einsichtnahme ins Dossier und zur schriftlichen Einreichung von Bemerkungen.
 
-#### Art. 30
-
-**Ordentliche Kündigung (Art. 37–41 StPG) – Entscheid**
-
-<sup>1</sup> Nach Ablauf der Frist für die Einsichtnahme fällt die Anstellungsbehörde ihren Entscheid. Der Entscheid kann bestehen:
+<sup>5</sup> Nach Ablauf der Frist für die Einsichtnahme fällt die Anstellungsbehörde ihren Entscheid. Der Entscheid kann bestehen:
 
 - a) in einer Kündigung mit einer Kündigungsfrist von drei Monaten auf das Ende eines Monats gemäss Artikel 37 StPG;
 - b) in einer Versetzung im Sinne von Artikel 34 Abs. 1 Bst. d StPG;
-- c) in der Zustellung einer erneuten Verwarnung;
+- c) in der Zustellung eines erneuten Mahnschreibens;
 - d) im Verzicht auf das Ergreifen einer Massnahme.
+
+#### Art. 30
+
+**…**
 
 #### Art. 31
 
@@ -411,13 +404,13 @@ beschliesst:
 
 <sup>1</sup> Das Dienstverhältnis des Personals mit befristeter Anstellung endet von Rechts wegen mit dem Ablauf des Vertrags.
 
-<sup>2</sup> Sieht der Vertrag eine vorzeitige Kündigung vor und ist er für eine Dauer von weniger als zwei Jahren abgeschlossen, so kann das Dienstverhältnis vom Arbeitgeber jederzeit aufgelöst werden, und zwar unter Einhaltung einer einwöchigen Kündigungsfrist auf das Ende einer Woche in den ersten drei Monaten, einer einmonatigen Kündigungsfrist auf das Ende eines Monats bis zum Ende des ersten Dienstjahres und einer zweimonatigen Kündigungsfrist auf das Ende eines Monats im folgenden Jahr.
+<sup>2</sup> Sieht der Vertrag eine vorzeitige Kündigung vor und ist er für eine Dauer von weniger als zwei Jahren abgeschlossen, so kann das Dienstverhältnis vom Arbeitgeber jederzeit aufgelöst werden, und zwar unter Einhaltung einer einwöchigen Kündigungsfrist auf das Ende einer Woche in den ersten zwei Monaten und einer einmonatigen Kündigungsfrist auf das Ende eines Monats ab dem dritten Monat.
 
-<sup>3</sup> Wird der Vertrag für eine Dauer von zwei Jahren oder mehr abgeschlossen, so ist die vorzeitige ordentliche Kündigung nur dann möglich, wenn dies im Vertrag ausdrücklich vorgesehen ist und die Kündigung gemäss den Artikeln 29 und 30 erfolgt.
+<sup>3</sup> Wird der Vertrag für eine Dauer von zwei Jahren und mehr abgeschlossen, so ist die vorzeitige ordentliche Kündigung nur dann möglich, wenn dies im Vertrag ausdrücklich vorgesehen ist und die Voraussetzungen nach Artikel 29 erfüllt sind.
 
 <sup>4</sup> Das Dienstverhältnis des Personals im Stundenlohn endet automatisch zum im Vertrag vereinbarten Zeitpunkt. Bei einem ausnahmsweise für eine unbefristete Dauer abgeschlossenen Vertrag gemäss Artikel 1 Abs. 3 in fine kann das Dienstverhältnis unter Einhaltung der Kündigungsfristen nach Absatz 2 jederzeit aufgelöst werden. Ab dem 10. Dienstjahr kann mit einer Kündigungsfrist von drei Monaten auf das Ende eines Monats gekündigt werden.
 
-<sup>5</sup> Das Dienstverhältnis des für eine unbefristete Dauer angestellten Personals, dessen Gehalt unterhalb der der Funktion zugeordneten Klassen festgesetzt ist, kann unter Einhaltung der Kündigungsfristen nach Absatz 2 jederzeit aufgelöst werden. Vorbehalten bleibt der Fall, in dem die Person gemäss Artikel 28 Abs. 4, 2. Satz, offiziell in der besonderen Eigenschaft als Mitarbeiterin oder Mitarbeiter des öffentlichen Dienstes anerkannt wurde.
+<sup>5</sup> …
 
 #### Art. 32
 
@@ -425,13 +418,15 @@ beschliesst:
 
 <sup>1</sup> Das Entlassungsverfahren kann eingeleitet werden, sobald ernst zu nehmende Hinweise für einen Entlassungsgrund vorhanden sind.
 
-<sup>2</sup> Je nach Art des vermuteten Grundes und wenn das Vertrauensverhältnis mit der Mitarbeiterin oder dem Mitarbeiter nicht unwiderruflich gestört ist, stellt die Anstellungsbehörde der betreffenden Mitarbeiterin oder dem betreffenden Mitarbeiter eine schriftliche Verwarnung zu gemäss Artikel 29 Abs. 2. In diesem Fall richtet sich das Verfahren nach Artikel 29 Abs. 3–5.
+<sup>2</sup> Je nach Art des vermuteten Grundes und wenn das Vertrauensverhältnis mit der Mitarbeiterin oder dem Mitarbeiter nicht unwiderruflich gebrochen ist, stellt die Anstellungsbehörde der betreffenden Mitarbeiterin oder dem betreffenden Mitarbeiter ein Mahnschreiben zu.
 
-<sup>3</sup> Ist der vermutete Grund besonders schwer wiegender Art und stellt er einen unwiderruflichen Bruch des Vertrauensverhältnisses dar, so geht die Anstellungsbehörde direkt gemäss Artikel 29 Abs. 4 und 5 vor.
+<sup>3</sup> Bevor die Anstellungsbehörde oder die von ihr bezeichnete Person ihren Entscheid fällt, hört sie, gemäss dem Anspruch auf rechtliches Gehör, die betroffene Person grundsätzlich mündlich an und setzt ihr oder ihm eine Frist zur Einsichtnahme ins Dossier und zur schriftlichen Einreichung von Bemerkungen.
 
-<sup>4</sup> Ist der Grund nach Absatz 3 von Anfang an erwiesen (z.B. wenn jemand auf frischer Tat ertappt wird) oder gesteht die Mitarbeiterin oder der Mitarbeiter den erhobenen Tatbestand ein, so spricht die Anstellungsbehörde die Entlassung unmittelbar nach Anhören der Mitarbeiterin oder des Mitarbeiters aus.
+<sup>4</sup> Nach Ablauf der Frist fällt die Anstellungsbehörde ihren Entscheid, der in der sofortigen Auflösung des Dienstverhältnisses oder einer anderen angemessenen Massnahme wie einer Versetzung oder aber im Verzicht auf eine Massnahme bestehen kann.
 
-<sup>5</sup> Die Entlassung wird nach Erhalt des Entscheids durch die Mitarbeiterin oder den Mitarbeiter rechtskräftig.
+<sup>5</sup> Ist der Grund zum vornherein erwiesen (z. B. wenn jemand auf frischer Tat ertappt wird) oder gesteht die Mitarbeiterin oder der Mitarbeiter den erhobenen Tatbestand ein, so spricht die Anstellungsbehörde die Entlassung unmittelbar nach Anhören der Mitarbeiterin oder des Mitarbeiters aus.
+
+<sup>6</sup> Die Entlassung wird nach Erhalt des Entscheids durch die Mitarbeiterin oder den Mitarbeiter rechtskräftig.
 
 #### Art. 33
 
@@ -471,6 +466,26 @@ beschliesst:
 <sup>3</sup> Bei Versetzung an Stelle der Entlassung hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf eine Entschädigung, die entsprechend den Absätzen 1 und 2 und auf der Grundlage der Differenz zwischen dem alten und dem neuen Gehalt berechnet wird.
 
 <sup>4</sup> Der Artikel 38 bleibt vorbehalten.
+
+#### Art. 34a
+
+**Besitzstandsentschädigung**
+
+<sup>1</sup> Wird einer Mitarbeiterin oder einem Mitarbeiter eine Stelle in einer Funktion zugewiesen, die in einer tieferen Klasse eingereiht ist, so garantiert der Staat das Lohnniveau der über 55-jährigen Mitarbeiterinnen und Mitarbeiter bis zur Auflösung ihres Dienstverhältnisses mit einer Besitzstandsentschädigung.
+
+<sup>2</sup> Die der Mitarbeiterin oder dem Mitarbeiter angebotene Funktion muss zumutbar sein. Die Zumutbarkeit gilt als gegeben, wenn die vorgeschlagene Lohnklasse nicht mehr als 4 Klassen unter der vorherigen liegt.
+
+<sup>3</sup> Die Besitzstandsentschädigung entspricht der Differenz zwischen dem bisherigen Gehalt, erhöht um das 13. Monatsgehalt, und dem neuen Gehalt, erhöht um das 13. Monatsgehalt.
+
+<sup>4</sup> Die Entschädigung wird monatlich ausbezahlt und entspricht einem Zwölftel des nach Absatz 3 berechneten Betrags.
+
+<sup>5</sup> Die Entschädigung wird nicht an die Teuerung angepasst.
+
+<sup>6</sup> Sie ist bei der Pensionskasse des Staatspersonals versichert.
+
+<sup>7</sup> Bei Beförderung oder späterem Stellenwechsel wird die Besitzstandentschädigung aufgehoben. Bei der Festsetzung des neuen Gehalts, die nach den Artikeln 107-109 erfolgt, wird diese Entschädigung nicht berücksichtigt. Erreicht jedoch das neue Gehalt bei einer Beförderung das bisherige Gehalt plus Besitzstandentschädigung nicht, so wird die Entschädigung bis zum Differenzbetrag weiter ausbezahlt.
+
+<sup>8</sup> Das Amt für Personal und Organisation gibt seine Stellungnahme zur Gewährung der Besitzstandsentschädigung ab.
 
 #### Art. 35
 
@@ -602,11 +617,11 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltungseinheiten richten elektronische oder mechanische Zeiterfassungsgeräte ein.
 
-<sup>2</sup> Die Arbeitszeit setzt sich aus einer obligatorischen und einer von der Mitarbeiterin oder vom Mitarbeiter bestimmten Präsenzzeit zusammen. Die von der Mitarbeiterin oder vom Mitarbeiter bestimmbare Präsenzzeit kann täglich wechseln (gleitende Arbeitszeit).
+<sup>2</sup> In der Verwaltung kommen folgende Arbeitszeitmodelle zur Anwendung: flexible Arbeitszeit, teilweise vorgeschriebene Arbeitszeit und vollumfänglich vorgeschriebene Arbeitszeit.
 
-<sup>3</sup> Bei den Dienststellen, die noch nicht über elektronische oder mechanische Zeiterfassungsgeräte verfügen, muss die von der Mitarbeiterin oder vom Mitarbeiter bestimmbare Präsenzzeit für eine längere Zeitdauer und zudem so gewählt werden, dass die Kontrolle erleichtert wird (feste Arbeitszeit).
+<sup>3</sup> …
 
-<sup>4</sup> Die Bestimmungen über die gleitende und die feste Arbeitszeit sind Gegenstand eines besonderen Reglements.
+<sup>4</sup> Die Einzelheiten dieser Arbeitszeiten sind Gegenstand eines separaten Reglements.
 
 #### Art. 46
 
@@ -810,7 +825,7 @@ beschliesst:
 
 <sup>5</sup> Die Bewilligung, mehr als die Hälfte der Ferien auf das folgende Jahr zu übertragen, muss im Voraus und schriftlich nach Stellungnahme der Fachstelle erteilt werden.
 
-<sup>6</sup> Für die Anwendung der Absätze 3, 4 und 5 bleiben die Vereinbarungen über die Arbeitszeitflexibilisierung vorbehalten.
+<sup>6</sup> …
 
 #### Art. 65
 
@@ -826,7 +841,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Wer die Arbeit aus einem anderen Grund als Ferien, Krankheit, Unfall, Schwangerschaft, Mutterschaft oder Militärdienst aussetzen will, muss einen Urlaub beantragen.
+<sup>1</sup> Die Arbeitsaussetzung aus einem anderen Grund als Ferien, Krankheit, Unfall, Schwangerschaft oder Mutterschaft, Vaterschaft, Adoption oder Militärdienst setzt die Gewährung eines Urlaubs voraus.
 
 #### Art. 67
 
@@ -841,8 +856,8 @@ beschliesst:
 - e) Tod des Vaters oder der Mutter der Mitarbeiterin oder des Mitarbeiters: 3 Tage;
 - f) Tod des Bruders oder der Schwester der Mitarbeiterin oder des Mitarbeiters: 2 Tage;
 - g) Beisetzung einer oder eines anderen Verwandten, einer Arbeitskollegin oder eines Arbeitskollegen oder einer anderen, der Mitarbeiterin oder dem Mitarbeiter nahe stehenden Person, je nach Entfernung: ½ bis 1 Tag;
-- h) Krankheit eines Kindes der Mitarbeiterin oder des Mitarbeiters, auf Vorweisen eines Arztzeugnisses, das die erforderliche Anwesenheit der Mitarbeiterin oder des Mitarbeiters belegt: bis zu 5 Tage pro Jahr;
-- i) schwere Erkrankung einer mit der Mitarbeiterin oder dem Mitarbeiter im gemeinsamen Haushalt lebenden Person, der plötzlich die nötige Pflege fehlt: bis zu 3 Tage pro Jahr;
+- h) Krankheit oder Unfall eines Kindes der Mitarbeiterin oder des Mitarbeiters: bis zu fünf Arbeitstage pro Jahr und pro Kind;
+- i) für die Betreuung eines nicht unter Art. 67 Abs. 1 Bst. h fallenden Familienmitglieds oder der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung: der Urlaub ist auf die für die Betreuung notwendige Zeit beschränkt, beträgt jedoch höchstens 3 Arbeitstage pro Ereignis und insgesamt höchstens 10 Arbeitstage pro Jahr;
 - j) Umzug: 1 Tag; falls der Wohnsitzwechsel vom Staat vorgeschrieben oder wegen einer Versetzung gemäss Artikel 34 Abs. 1 Bst. b StPG nötig wird: 2 Tage;
 - k) militärische Entlassungsinspektion, je nach Entfernung: ½ bis 1 Tag;
 - l) Teilnahme als Mitglied an den Generalversammlungen von Berufsverbänden oder Gewerkschaften: 1 Tag pro Jahr.
@@ -850,6 +865,16 @@ beschliesst:
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die gewerkschaftliche oder genossenschaftliche Verantwortung übernehmen, haben für die mit diesem Amt verbundenen Aufgaben Anspruch auf einen von der Dienstchefin oder vom Dienstchef gewährten bezahlten Urlaub von höchstens fünf Tagen pro Jahr.
 
 <sup>3</sup> Ausser im Falle der Heirat oder der Eintragung der Partnerschaft der Mitarbeiterin oder des Mitarbeiters kann der Urlaub nur im Zeitpunkt des betreffenden Ereignisses und an den darauf folgenden Tagen bezogen werden.
+
+#### Art. 67a
+
+**Betreuungsurlaub**
+
+<sup>1</sup> Hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf eine Betreuungsentschädigung für ein schwer krankes oder verunfalltes Kind, so hat sie oder er Anspruch auf bezahlten Urlaub von höchstens vierzehn Wochen.
+
+<sup>2</sup> Der Urlaub muss in einer Rahmenfrist von 18 Monaten bezogen werden. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld gezahlt wird.
+
+<sup>3</sup> Der Urlaub kann auf einmal oder tageweise bezogen werden.
 
 #### Art. 68
 
@@ -1017,9 +1042,9 @@ beschliesst:
 
 <sup>2</sup> Die Mitarbeiterin kann bis zu zwei Wochen ihres bezahlten Mutterschaftsurlaubs vor dem voraussichtlichen Zeitpunkt der Niederkunft beziehen. Reicht der Rest des bezahlten Mutterschaftsurlaubs nicht aus, um die 16 Wochen nach der Niederkunft abzudecken, kann die Mitarbeiterin die fehlenden Wochen auf Gesuch hin als unbezahlten Urlaub beziehen. Die Mitarbeiterin darf in keinem Fall in den auf die Niederkunft folgenden 8 Wochen die Arbeit wieder aufnehmen.
 
-<sup>3</sup> In Anwendung von Artikel 113 Abs. 2 StPG wird an der Kürzung des bezahlten Mutterschaftsurlaubs im ersten Dienstjahr festgehalten, wenn die Mitarbeiterin am Ende des bezahlten Mutterschaftsurlaubs von 12 Wochen unbezahlten Urlaub von mehr als 6 Monaten bezieht.
+<sup>3</sup> …
 
-<sup>4</sup> Ist eine Mitarbeiterin wegen ihrer Schwangerschaft offenbar nicht mehr in der Lage, ihre Funktion auszuüben, so kann die Dienstchefin oder der Dienstchef im Einvernehmen mit der Fachstelle sie dazu verpflichten, bis zu 6 Wochen bezahlten Mutterschaftsurlaub vor dem voraussichtlichen Zeitpunkt der Niederkunft zu beziehen. Bestreitet die Mitarbeiterin ihre Arbeitsunfähigkeit, so muss sie sich von der Vertrauensärztin oder dem Vertrauensarzt des Staates untersuchen lassen.
+<sup>4</sup> …
 
 #### Art. 83
 
@@ -1027,7 +1052,13 @@ beschliesst:
 
 <sup>1</sup> Der Mutterschaftsurlaub endet spätestens bei Vertragsablauf.
 
-<sup>2</sup> Bei einer Anstellungsdauer von weniger als einem Jahr hat die Mitarbeiterin Anspruch auf 8 Wochen bezahlten Mutterschaftsurlaub. War die Mitarbeiterin jedoch zum Zeitpunkt der Anstellung bereits schwanger, so beträgt der bezahlte Mutterschaftsurlaub 4 Wochen. Absatz 1 bleibt vorbehalten.
+<sup>2</sup> …
+
+#### Art. 83a
+
+**Mutterschaftsurlaub - Bei Spitalaufenthalt des Neugeborenen**
+
+<sup>1</sup> Bei einem Spitalaufenthalt des Neugeborenen wird der Mutterschaftsurlaub gemäss den Bestimmungen des Bundesgesetzes über den Erwerbsersatz verlängert.
 
 #### Art. 84
 
@@ -1061,9 +1092,9 @@ beschliesst:
 
 **Vaterschaftsurlaub**
 
-<sup>1</sup> Der Mitarbeiter hat gegen Vorweisen der Geburtsurkunde oder eines anderen amtlichen Dokuments Anspruch auf einen Vaterschaftsurlaub von fünf Arbeitstagen.
+<sup>1</sup> Der Mitarbeiter hat gegen Vorweisen der Geburtsurkunde oder eines anderen amtlichen Dokuments Anspruch auf einen Vaterschaftsurlaub von fünfzehn Arbeitstagen.
 
-<sup>2</sup> Der Vaterschaftsurlaub kann aufgeteilt oder auf einmal bezogen werden. Er muss spätestens innert einem Jahr nach der Geburt bezogen werden. Es gilt Artikel 71.
+<sup>2</sup> Der Vaterschaftsurlaub kann aufgeteilt oder auf einmal bezogen werden. Er muss innert sechs Monaten nach der Geburt bezogen werden. Es gilt Artikel 71.
 
 ### 6.3 Militär , Zivil oder Zivilschutzdienst (Art. 111 StPG)
 
@@ -1172,11 +1203,13 @@ beschliesst:
 
 **Individuelle Ausrichtung (Art. 84 StPG) – Ausrichtung in Form einer Gehaltszulage (Art. 84 StPG)**
 
-<sup>1</sup> Die Arbeitsmarktzulage kann in Form einer Gehaltszulage gewährt werden, die maximal 20 % des für die Funktion vorgesehenen Höchstgehalts einschliesslich dreizehntes Monatsgehalt betragen darf.
+<sup>1</sup> Der Staatsrat entscheidet über die Gewährung einer Gehaltszulage, die maximal 20 % des für die Funktion vorgesehenen Höchstgehalts einschliesslich dreizehntes Monatsgehalt betragen darf.
 
-<sup>2</sup> Der Staatsrat entscheidet auf Antrag der Anstellungsbehörde und nach Stellungnahme des Amtes für Personal und Organisation über die Gewährung und die Höhe der Arbeitsmarktzulage.
+<sup>2</sup> In Ausnahmefällen kann der Staatsrat eine Gehaltszulage gewähren, welche die Höchstgrenze von 20% überschreitet.
 
-<sup>3</sup> Die Beibehaltung, Kürzung oder Aufhebung der Arbeitsmarktzulage ist Gegenstand eines regelmässigen Berichts der Anstellungsbehörde zuhanden des Staatsrates. Das Amt für Personal und Organisation nimmt dazu Stellung.
+<sup>3</sup> Das Amt für Personal und Organisation muss dazu Stellung nehmen.
+
+<sup>4</sup> Die Beibehaltung, Kürzung oder Aufhebung der Arbeitsmarktzulage ist Gegenstand eines regelmässigen Berichts der Anstellungsbehörde zuhanden des Staatsrats. Das Amt für Personal und Organisation nimmt dazu Stellung.
 
 #### Art. 100
 
@@ -1212,7 +1245,7 @@ beschliesst:
 
 <sup>1</sup> Die massgebende jährliche Gehaltserhöhung für die in den Gehaltsskalen eingereihten Gehälter beträgt eine Gehaltsstufe.
 
-<sup>2</sup> Die jährliche Gehaltserhöhung wird jedes Jahr zu Beginn des Kalenderjahres gewährt. Die erste jährliche Gehaltserhöhung wird jedoch erst am Ende der Probezeit gewährt, sofern im Anstellungsvertrag kein anderes Datum vorgesehen wurde.
+<sup>2</sup> Die jährliche Gehaltserhöhung wird jedes Jahr zu Beginn des Kalenderjahres gewährt. Die erste jährliche Gehaltserhöhung wird jedoch erst am Ende der ersten zwölf Arbeitsmonate gewährt, sofern im Anstellungsvertrag kein anderes Datum vorgesehen wurde.
 
 <sup>3</sup> Die massgebende jährliche Gehaltserhöhung für die in den ausserordentlichen Gehaltsskalen eingereihten Gehälter sowie der Zeitpunkt der Gewährung sind in den für die betreffenden Personalkategorien geltenden besonderen Bestimmungen geregelt.
 
@@ -1220,17 +1253,17 @@ beschliesst:
 
 **Gewährung einer ausserordentlichen Gehaltserhöhung (Art. 88 StPG)**
 
-<sup>1</sup> Die Anstellungsbehörde kann zu Beginn des Kalenderjahres Mitarbeiterinnen oder Mitarbeitern mit einer Personalbeurteilung auf der höchsten Stufe der Beurteilungsskala eine über den Betrag der jährlichen Gehaltsstufe hinausgehende Gehaltserhöhung gewähren, jedoch nicht mehr als zwei Gehaltsstufen.
+<sup>1</sup> Die Anstellungsbehörde kann zu Beginn des Kalenderjahres Mitarbeiterinnen oder Mitarbeitern, die auf der Grundlage einer Gesamtbeurteilung des Verhaltens, der Fähigkeiten und der Leistungsqualität die Anforderungen der Funktion und der Stelle übertreffen, eine über den Betrag der jährlichen Gehaltsstufe hinausgehende Gehaltserhöhung gewähren, jedoch nicht mehr als zwei Gehaltsstufen.
 
 #### Art. 105
 
 **Verweigerung oder Aufschub bei ungenügenden Leistungen (Art. 89 StPG)**
 
-<sup>1</sup> Die Verweigerung oder der Aufschub der jährlichen Gehaltserhöhung kann nur im Anschluss an eine Personalbeurteilung beschlossen werden. Aus dieser Beurteilung muss hervorgehen, dass die Anforderungen der Stelle nicht erfüllt sind.
+<sup>1</sup> Die Verweigerung oder der Aufschub der jährlichen Gehaltserhöhung kann nur auf der Grundlage einer Gesamtbeurteilung des Verhaltens, der Fähigkeiten und der Leistungsqualität der Mitarbeiterin oder des Mitarbeiters beschlossen werden. Aus dieser Gesamtbeurteilung muss hervorgehen, dass die Anforderungen der Stelle nicht erfüllt sind.
 
-<sup>2</sup> Sind die Anforderungen hinsichtlich der Fähigkeiten nur zum Teil erfüllt, so wird eine Teilerhöhung gewährt, die einer halben Gehaltsstufe entspricht. Die zweite Hälfte der Gehaltsstufe kann mit Wirkung auf den 1. Juli gewährt werden, wenn eine erneute Personalbeurteilung aufzeigt, dass sich die Leistungen verbessert haben und vollumfänglich den Anforderungen der Stelle entsprechen.
+<sup>2</sup> Sind die Anforderungen hinsichtlich der Fähigkeiten nur zum Teil erfüllt, so wird eine Teilerhöhung gewährt, die einer halben Gehaltsstufe entspricht. Die zweite Hälfte der Gehaltsstufe kann mit Wirkung auf den 1. Juli gewährt werden, wenn eine erneute Gesamtbeurteilung aufzeigt, dass sich die Leistungen verbessert haben und vollumfänglich den Anforderungen der Stelle entsprechen.
 
-<sup>3</sup> Vorbehalten bleibt das allfällige Verfahren zur Auflösung des Dienstverhältnisses nach den Artikeln 26 und 27.
+<sup>3</sup> Vorbehalten bleibt das allfällige Verfahren zur Auflösung des Dienstverhältnisses nach den Artikeln 29 und 30.
 
 #### Art. 106
 
@@ -1261,7 +1294,7 @@ beschliesst:
 - a) Die Anforderungen der Arbeitsstelle haben sich geändert.
 - b) Die Mitarbeiterin oder der Mitarbeiter hat eine weiterführende Ausbildung oder mehr Erfahrung vorzuweisen.
 
-<sup>3</sup> Die Beförderung kann in jedem Fall erst dann erfolgen, wenn eine formelle Personalbeurteilung gezeigt hat, dass die Mitarbeiterin oder der Mitarbeiter den Anforderungen der Stelle vollumfänglich entspricht.
+<sup>3</sup> Die Beförderung kann in jedem Fall erst dann erfolgen, wenn eine Gesamtbeurteilung des Verhaltens, der Fähigkeiten und der Leistungsqualität der Mitarbeiterin oder des Mitarbeiters gezeigt hat, dass sie oder er den Anforderungen der Stelle vollumfänglich entspricht.
 
 <sup>4</sup> Das neue Gehalt entspricht mindestens dem bisherigen Gehalt erhöht um den Betrag einer Gehaltsstufe der neuen Gehaltsklasse.
 
@@ -1276,7 +1309,7 @@ beschliesst:
 - a) Es handelt sich um die Wiederbesetzung einer offenen Stelle.
 - b) Das Stellenprofil hat eine Änderung erfahren, die zu einer Neuzuordnung zu einer anderen Referenzfunktion führt.
 
-<sup>3</sup> Die Beförderung kann in jedem Fall erst dann erfolgen, wenn eine formelle Personalbeurteilung gezeigt hat, dass die Leistungen der Mitarbeiterin oder des Mitarbeiters in allen Punkten über den Minimalanforderungen der bisherigen Stelle liegen.
+<sup>3</sup> Die Beförderung kann in jedem Fall erst dann erfolgen, wenn eine Gesamtbeurteilung des Verhaltens, der Fähigkeiten und der Leistungsqualität der Mitarbeiterin oder des Mitarbeiters gezeigt hat, dass die Leistungen der Mitarbeiterin oder des Mitarbeiters über den Minimalanforderungen der bisherigen Stelle liegen.
 
 <sup>4</sup> Das neue Gehalt wird gemäss Artikel 87 StPG festgesetzt. Es entspricht mindestens dem bisherigen Gehalt erhöht um den Betrag einer Gehaltsstufe der neuen Gehaltsklasse.
 
@@ -1360,7 +1393,7 @@ beschliesst:
 
 **Aufschub des Dienstaltersgeschenks**
 
-<sup>1</sup> Erfüllt die Mitarbeiterin oder der Mitarbeiter die Anforderungen der Stelle nicht vollumfänglich, so kann die Anstellungsbehörde im Anschluss an eine Personalbeurteilung die Ausrichtung des Dienstaltersgeschenks um ein Jahr aufschieben. Die Ausrichtung des Dienstaltersgeschenks im folgenden Jahr setzt eine erneute Personalbeurteilung voraus, die aufzeigt, dass die Mitarbeiterin oder der Mitarbeiter die Anforderungen der Stelle vollumfänglich erfüllt. Die Artikel 26 und 27 bleiben im Übrigen vorbehalten.
+<sup>1</sup> Hat sich bei einer Gesamtbeurteilung des Verhaltens, der Fähigkeiten und der Leistungsqualität der Mitarbeiterin oder des Mitarbeiters herausgestellt, dass sie oder er die Anforderungen der Stelle nicht vollumfänglich erfüllt, so kann die Anstellungsbehörde die Ausrichtung des Dienstaltersgeschenks um ein Jahr aufschieben. Die Ausrichtung des Dienstaltersgeschenks im folgenden Jahr setzt eine erneute Gesamtbeurteilung voraus, die aufzeigt, dass die Mitarbeiterin oder der Mitarbeiter die Anforderungen der Stelle vollumfänglich erfüllt. Die Artikel 29 und 30 bleiben im Übrigen vorbehalten.
 
 ## 8 Verschiedene Entschädigungen
 
@@ -1368,9 +1401,9 @@ beschliesst:
 
 #### Art. 117
 
-<sup>1</sup> Ein Anspruch auf eine Vertretungsentschädigung besteht nur bei Vertretungen mit einer Mindestdauer von drei Monaten.
+<sup>1</sup> Ein Anspruch auf eine Vertretungsentschädigung besteht nur bei Vertretungen mit einer Mindestdauer von zwei Monaten.
 
-<sup>2</sup> Die Entschädigung entspricht der Hälfte der Differenz zwischen dem Gehalt, das die Mitarbeiterin oder der Mitarbeiter aufgrund einer Beförderung gemäss Artikel 108 in diese Funktion erhalten hätte, und dem Gehalt der ursprünglichen Funktion. Sie entspricht mindestens einer Gehaltsstufe.
+<sup>2</sup> Die Entschädigung entspricht dem Gehalt, das die Mitarbeiterin oder der Mitarbeiter aufgrund einer Beförderung gemäss Artikel 108 in diese Funktion erhalten hätte.
 
 <sup>3</sup> Die Anstellungsbehörde entscheidet über die Gewährung der Entschädigung nach Stellungnahme des Amtes für Personal und Organisation.
 
@@ -1517,7 +1550,7 @@ beschliesst:
 
 <sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die aufgrund eines mobilen Arbeitsortes (z.B. Baustelle) nicht zu Hause essen können, haben Anspruch auf eine Entschädigung für ein Mittagessen nach Anhang 3 dieses Reglements.
 
-<sup>2</sup> Die Mindestpause von 3/4 Stunden, in der die Mahlzeit eingenommen wird, zählt nicht als Arbeitszeit.
+<sup>2</sup> Die Mindestpause von einer halben Stunde, in der die Mahlzeit eingenommen wird, zählt nicht als Arbeitszeit.
 
 #### Art. 129b
 
@@ -1800,7 +1833,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 10. Juli 1985 für das Staatspersonal (altes StPR; SGF 122.70.11) wird aufgehoben, unter Vorbehalt der folgenden Bestimmungen: die Artikel 135–145 gelten weiter bis zum Inkrafttreten der Verordnungen über die Weiterbildung und über die Einführung eines Systems zur Förderung von Erfindungen und Vorschlägen des Personals.[^156-1]
+<sup>1</sup> Das Reglement vom 10. Juli 1985 für das Staatspersonal (altes StPR; SGF 122.70.11) wird aufgehoben, unter Vorbehalt der folgenden Bestimmungen: Die Artikel 135–144 gelten weiter bis zum Inkrafttreten der Verordnungen über die Weiterbildung und über die Einführung eines Systems zur Förderung von Erfindungen und Vorschlägen des Personals.[^156-1]
 
 <sup>2</sup> Aufgehoben werden auch:
 
