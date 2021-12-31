@@ -4,11 +4,11 @@ number: "172.11"
 title: Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung (VOG RR)
 short: VOG RR
 language: de
-version: "2021-11-01"
-nachtrag: "114"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2022-07-01
 adopted: 2007-07-18
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_11-2007_07_18-2007_09_01-115.html"
 text: pdf
 ---
 
@@ -295,13 +295,13 @@ Der Regierungsrat ist zuständig für:
 
 - b. Betreuung von Aussenbeziehungen, die nicht in den Zuständigkeitsbereich einer Direktion fallen,
 
-- c. Unterstützung des Regierungsrates beim Controlling der Aussenbeziehungen, d.<sup>24</sup> Antragstellung an den Regierungsrat für die Berichterstattung gemäss § 34 q Abs. 2 des Kantonsratsgesetzes vom 5. April 1981[^22-1].
+- c. Unterstützung des Regierungsrates beim Controlling der Aussenbeziehungen, d.<sup>24</sup> Antragstellung an den Regierungsrat für die Berichterstattung gemäss § 34 q Abs. 2 des Kantonsratsgesetzes vom 5. April 1981.
 
 <sup>2</sup> Die Staatskanzlei kann die Erfüllung ihrer Aufgaben im Einzelfall dem Koordinationsgremium für Aussenbeziehungen (KAB) gemäss § 74 übertragen.
 
 **Verhandlungsmandate**
 
-§ 23.<sup>25</sup> <sup>1</sup> Die zuständige Direktion holt beim Regierungsrat in den Fällen von § 7 a OG RR[^22-2] ein Verhandlungsmandat ein. In weiteren Fällen der Aufnahme von Vertragsverhandlungen oder der Mitwirkung in interkantonalen Konferenzen und Gremien kann sie ein Mandat einholen.
+§ 23.<sup>25</sup> <sup>1</sup> Die zuständige Direktion holt beim Regierungsrat in den Fällen von § 7 a OG RR[^22-1] ein Verhandlungsmandat ein. In weiteren Fällen der Aufnahme von Vertragsverhandlungen oder der Mitwirkung in interkantonalen Konferenzen und Gremien kann sie ein Mandat einholen.
 
 <sup>2</sup> Das Verhandlungsmandat enthält insbesondere:
 
@@ -313,8 +313,7 @@ Der Regierungsrat ist zuständig für:
 
 - d. Zuständigkeit für Abschluss und Genehmigung von Verträgen.
 
-[^22-1]: LS 171.1.
-[^22-2]: LS 172.1.
+[^22-1]: LS 172.1.
 
 #### § 24
 
@@ -1078,6 +1077,14 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 <sup>58</sup> Eingefügt durch RRB vom 25. August 2021 (OS 76, 351; ABl 2021-09-10). In Kraft seit 1. November 2021.
 
+<sup>59</sup> Eingefügt durch RRB vom 7. Juli 2021 (OS 76, 390; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+
+<sup>60</sup> Fassung gemäss RRB vom 8. September 2021 (OS 76, 452; ABl 2021-09-24). In Kraft seit 1. Januar 2022.
+
+<sup>61</sup> Aufgehoben durch RRB vom 8. September 2021 (OS 76, 452; ABl 2021-09-24). In Kraft seit 1. Januar 2022.
+
+<sup>62</sup> Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 594; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
+
 **25**
 
 - 1\. 1. 22 - 115
@@ -1173,7 +1180,7 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 - 13\. Fonds zur Bekämpfung der Lotteriespielsucht
 
-- 14\. Feuerwehrwesen, Feuerpolizei und Gebäudeversicherung 15.<sup>26</sup> Intervention gegen häusliche Gewalt
+- 14\. Feuerwehrwesen, Feuerpolizei und Gebäudeversicherung 15.<sup>26</sup> Intervention gegen häusliche Gewalt 16.<sup>59</sup> Forensisches Institut Zürich
 
 ### C. Finanzdirektion<sup>32</sup>
 
@@ -1271,9 +1278,7 @@ Diese Verordnung tritt am 1. September 2007 in Kraft.
 
 ### E. Gesundheitsdirektion<sup>32</sup>
 
-- 1\. Gesundheitswesen, einschliesslich Bewilligungen und Aufsicht, Epidemiewesen, Gesundheitsförderung, Prävention sowie Krankentransport- und Rettungswesen
-
-- 2\. Gesundheitsversorgung, einschliesslich Spital- und Pflegeversorgung
+- 1\. Gesundheitswesen, einschliesslich Bewilligungen und Aufsicht, Epidemiewesen, Gesundheitsförderung, Prävention sowie Krankentransport- und Rettungswesen 2.<sup>60</sup> Gesundheitsversorgung, einschliesslich Spital-, Pflege- und ambulante Versorgung
 
 - 3\. Bestattungswesen
 
@@ -1423,19 +1428,17 @@ c.[^hErwachsene-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafr
 
 - 1\. 1. 22 - 115
 
-- 5\. Gesundheitsdirektion[^hErwachsene-2],[^hErwachsene-7] 5.1 Verwaltungseinheiten mit Amtsstruktur<sup>32</sup>
+- 5\. Gesundheitsdirektion[^hErwachsene-2],[^hErwachsene-7] 5.1 Verwaltungseinheiten mit Amtsstruktur<sup>32,</sup> <sup>60</sup>
 
-- a. Psychiatrische Universitätsklinik Zürich
+- a. Amt für Gesundheit
 
-- b. Integrierte Psychiatrie Winterthur
+- b. Kantonsapotheke
 
-- c. Kantonsapotheke
+- c. Kantonale Heilmittelkontrolle d.<sup>30</sup> Kantonales Labor
 
-- d. Kantonale Heilmittelkontrolle e.<sup>30</sup> Kantonales Labor
+- e. Veterinäramt
 
-- f. Veterinäramt
-
-5.2 Weitere Verwaltungseinheiten[^hErwachsene-8] a.<sup>31</sup> Abteilung Gesundheitsberufe und Bewilligungen b. Kantonsärztlicher Dienst c. Kantonszahnärztlicher Dienst
+5.2 Administrativ angegliederte Einheiten<sup>60</sup> a. Kantonale Ethikkommission
 
 - 6\. Bildungsdirektion 6.1 Verwaltungseinheiten mit Amtsstruktur
 
@@ -1470,7 +1473,6 @@ c.[^hErwachsene-1] Oberjugendanwaltschaft und Jugendanwaltschaften (Jugendstrafr
 [^hErwachsene-5]: Eingefügt durch RRB vom 2. Mai 2012 (OS 67, 491; ABl 2012, 1012). In Kraft seit 1. Januar 2013. 1. 1. 22 - 115 23
 [^hErwachsene-6]: Eingefügt durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 [^hErwachsene-7]: Fassung gemäss RRB vom 13. Juli 2011 (OS 66, 576; ABl 2011, 2065). In Kraft seit 1. Juli 2011.
-[^hErwachsene-8]: Eingefügt durch RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 
 ### Anhang 3: Selbstständige Entscheidkompetenzen der Verwaltungseinheiten
 
@@ -1494,9 +1496,9 @@ Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
 - e. Aufsichtsrechtliche Anordnungen und Massnahmen gegenüber den Gemeinden, f.<sup>37</sup> Unterstützung von Änderungen im Bestand von Gemeinden gemäss §§ 155–159 des Gemeindegesetzes, g.<sup>40</sup> Meldewesen und Einwohnerregister, soweit der Kanton zuständig ist.
 
-1.2 Handelsregisteramt Ordnungsbussen gemäss Art. 943 OR. 1.3 Oberjugendanwaltschaft<sup>49</sup> a. Festlegung des Zutrittsalters zu öffentlichen Filmvorführungen gemäss § 6 Abs. 1 des Gesetzes über den Jugendschutz bei öffentlichen Filmvorführungen und Trägermedien vom 26. November 2018 (JFTG)[^h1DirektionderJus-1],
+1.2 Handelsregisteramt Ordnungsbussen gemäss Art. 943 OR. 1.3 Oberjugendanwaltschaft<sup>49</sup> a. Festlegung des Zutrittsalters zu öffentlichen Filmvorführungen gemäss § 6 Abs. 1 des Gesetzes über den Jugendschutz bei öffentlichen Filmvorführungen und Trägermedien vom 26. November 2018 (JFTG),
 
-- b. Anordnung von verwaltungsrechtlichen Massnahmen gemäss § 10 Abs. 1 JFTG[^h1DirektionderJus-1].
+- b. Anordnung von verwaltungsrechtlichen Massnahmen gemäss § 10 Abs. 1 JFTG.
 
 - 2\. Sicherheitsdirektion<sup>22</sup> 2.1 Kantonspolizei, Strassenverkehrs- Gesamter Aufgabenbereich, unter Vorbehalt amt, Migrationsamt, Amt für Militär abweichender Regelungen in anderen und Zivilschutz, Sozialamt, Sportamt Verordnungen 2.2<sup>38</sup> Passbüro, Gewerbebewilligungen, Gesamter Aufgabenbereich, unter Vorbehalt Eichämter abweichender Regelungen in anderen Verordnungen
 
@@ -1504,12 +1506,11 @@ Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
 - 1\. 1. 22 - 115 Verwaltungseinheit Sachbereiche mit Entscheidungskompetenz im eigenen Namen
 
-[^h1DirektionderJus-1]: LS 935.21.
-[^h1DirektionderJus-2]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
+[^h1DirektionderJus-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 
 ### 4. Volkswirtschaftsdirektion
 
-[^h1DirektionderJus-2]
+[^h1DirektionderJus-1]
 
 4.1 Amt für Wirtschaft und Arbeit Gesamter Aufgabenbereich, einschliesslich Anordnungen betreffend die Erwerbstätigkeit kontrollpflichtiger Ausländerinnen und Aus-
 
@@ -1525,19 +1526,11 @@ länder.
 
 5.3 Kantonsapotheke Gesamter Aufgabenbereich.
 
-5.4[^h4Volkswirtschaftsd-3] Heilmittelkontrolle Gesamter Aufgabenbereich.
+5.4<sup>60</sup> Kantonale Heilmittelkontrolle Gesamter Aufgabenbereich.
 
-5.5 Psychiatrische Universitätsklinik Gesamter Aufgabenbereich.
+5.5<sup>60</sup> Amt für Gesundheit Gesamter Aufgabenbereich.
 
-Zürich 5.6 Integrierte Psychiatrie Winterthur Gesamter Aufgabenbereich.
-
-5.7 Kinder- und Jugendpsychiatrischer Gesamter Aufgabenbereich.
-
-Dienst 5.8 Abteilung Gesundheitsberufe Gesamter Aufgabenbereich unter Vorbehalt von und Bewilligungen personalrechtlichen Anordnungen.
-
-5.9 Kantonsärztlicher Dienst Gesamter Aufgabenbereich unter Vorbehalt von personalrechtlichen Anordnungen.
-
-5.10 Kantonszahnärztlicher Dienst Gesamter Aufgabenbereich unter Vorbehalt von personalrechtlichen Anordnungen.
+5.6–5.10<sup>61</sup>
 
 - 6\. Bildungsdirektion[^h4Volkswirtschaftsd-4] 6.1 Hochschulamt Anordnungen im Vollzug des Fachhochschulgesetzes.
 
@@ -1561,9 +1554,9 @@ Dienst 5.8 Abteilung Gesundheitsberufe Gesamter Aufgabenbereich unter Vorbehalt 
 
 - e. Anerkennung von Kursen in heimatlicher Sprache und Kultur gestützt auf § 15 VSG,
 
-- f. Bewilligung von Lehrerstellen an Durchgangszentren für Asylsuchende gestützt auf § 62 Abs. 3 VSG, g.<sup>32</sup> Beitragsberechtigung von Sonderschulen und Schulheimen gemäss § 65 Abs. 1 VSG, h.<sup>44</sup> Aufsicht sowie aufsichtsrechtliche Anordnungen und Massnahmen gegenüber den Gemeinden gestützt auf § 73 VSG, i.<sup>47</sup> Anordnungen im Zusammenhang mit dem Schulort, der Kostenpflicht und der Höhe des Schulgeldes gestützt auf § 12 VSG. 6.4<sup>48</sup> Amt für Jugend und Berufsberatung Anordnungen im Aufgabenbereich des Adoptionswesens.
+- f. Bewilligung von Lehrerstellen an Durchgangszentren für Asylsuchende gestützt auf § 62 Abs. 3 VSG, g.<sup>62</sup> Beitragsberechtigung von Spitalschulen gemäss § 62 a VSG[^3_2-1], § 31 Abs. 4 des Mittelschulgesetzes vom 13. Juni 1999[^3_2-2] und § 36 a Abs. 3 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008[^3_2-3], h.<sup>44</sup> Aufsicht sowie aufsichtsrechtliche Anordnungen und Massnahmen gegenüber den Gemeinden gestützt auf § 73 VSG, i.<sup>47</sup> Anordnungen im Zusammenhang mit dem Schulort, der Kostenpflicht und der Höhe des Schulgeldes gestützt auf § 12 VSG. 6.4<sup>48</sup> Amt für Jugend und Berufsberatung Anordnungen im Aufgabenbereich des Adoptionswesens.
 
-- 7\. Baudirektion 7.1[^3_2-1], <sup>20</sup> Amt für Landschaft und Natur a. Anordnungen im Bereich Bodenschutz,
+- 7\. Baudirektion 7.1[^3_2-4], <sup>20</sup> Amt für Landschaft und Natur a. Anordnungen im Bereich Bodenschutz,
 
 - b. . . .<sup>51</sup>
 
@@ -1575,9 +1568,12 @@ Dienst 5.8 Abteilung Gesundheitsberufe Gesamter Aufgabenbereich unter Vorbehalt 
 
 - 1\. 1. 22 - 115
 
-[^3_2-1]: Aufgehoben durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
+[^3_2-1]: LS 412.100.
+[^3_2-2]: LS 413.21.
+[^3_2-3]: LS 413.31.
+[^3_2-4]: Aufgehoben durch RRB vom 4. Mai 2011 (OS 66, 425; ABl 2011, 1507). In Kraft seit 1. August 2011.
 
 ## Weitere Fussnoten
 
-- [2] LS 131.1.
+- [10] Eingefügt durch RRB vom 2. Juni 2010 (OS 65, 366; ABl 2010, 1248). In Kraft seit 1. Juli 2010.
 - [20] Eingefügt durch RRB vom 11. Juli 2012 (OS 67, 392; ABl 2012-07-20). In Kraft seit 1. November 2012.
