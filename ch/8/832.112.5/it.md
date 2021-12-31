@@ -4,20 +4,20 @@ title: "Ordinanza del 3 luglio 2001 sulla riduzione dei premi nell’assicurazio
 short: ORPMUE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2002-164-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-164-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sulla riduzione dei premi nell’assicurazione malattie per beneficiari di rendite residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia****
+# Ordinanza sulla riduzione dei premi nell’assicurazione malattie per beneficiari di rendite residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia
 
 (ORPMUE)[^t-1]
 
-del 3 luglio 2001 (Stato 1° gennaio 2020)
+del 3 luglio 2001 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
 
@@ -95,9 +95,10 @@ Sono considerate reddito computabile le seguenti entrate:
 
 **Corsi di conversione**[^5-1]
 
-La sostanza netta ai sensi dell’articolo 3 capoverso 3 e il reddito computabile ai sensi dell’articolo 4 vengono convertiti in franchi svizzeri secondo il corso di conversione dell’Amministrazione federale delle dogane valido al momento della richiesta.
+La sostanza netta ai sensi dell’articolo 3 capoverso 3 e il reddito computabile ai sensi dell’articolo 4 vengono convertiti in franchi svizzeri secondo il corso di conversione dell’Ufficio federale della dogana e della sicurezza dei confini[^5-2] valido al momento della richiesta.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^5-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -233,7 +234,7 @@ Il Dipartimento ha la facoltà di emanare disposizioni più dettagliate in merit
 
 La presente ordinanza entra in vigore il 1° giugno 2002.
 
-## Disposizione finale della modifica del 9 novembre 2005****
+## Disposizione finale della modifica del 9 novembre 2005
 
 [^u1-1]
 
@@ -241,7 +242,7 @@ La presente ordinanza entra in vigore il 1° giugno 2002.
 
 ...
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 4 cpv. 2)
 

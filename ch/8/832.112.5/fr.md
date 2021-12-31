@@ -4,20 +4,20 @@ title: "Ordonnance du 3 juillet 2001 concernant la réduction des primes dans l�
 short: ORPMUE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-164-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-164-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance concernant la réduction des primes dans l’assurance-maladie en faveur des rentiers qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège****
+# Ordonnance concernant la réduction des primes dans l’assurance-maladie en faveur des rentiers qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège
 
 (ORPMUE)[^t-1]
 
-du 3 juillet 2001 (Etat le 1<sup>er</sup> janvier 2020)
+du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
 
@@ -95,9 +95,10 @@ Le revenu pris en compte comprend:
 
 **Cours de conversion**[^5-1]
 
-La fortune nette selon l’art. 3, al. 3, et le revenu pris en compte selon l’art. 4 sont convertis en francs suisses selon le cours de conversion de l’Administration fédérale des douanes valable au moment du dépôt de la demande.
+La fortune nette selon l’art. 3, al. 3, et le revenu pris en compte selon l’art. 4 sont convertis en francs suisses selon le cours de conversion de l’Office fédéral de la douane et de la sécurité des frontières[^5-2] valable au moment du dépôt de la demande.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -233,13 +234,13 @@ Le département peut édicter des prescriptions plus détaillées pour l’exéc
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 2002.
 
-## Disposition finale de la modification du 9 novembre 2005****
+## Disposition finale de la modification du 9 novembre 2005
 
 [^u1-1]
 
 [^u1-1]: [RO 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819). Abrogée par le ch. I de l’O du 20 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 4, al. 2)
 

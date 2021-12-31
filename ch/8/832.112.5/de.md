@@ -4,20 +4,20 @@ title: "Verordnung vom 3. Juli 2001 über die Prämienverbilligung in der Kranke
 short: VPVKEU
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2002-164-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-164-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Prämienverbilligung in der Krankenversicherung für Rentner und Rentnerinnen, die in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnen****
+# Verordnung über die Prämienverbilligung in der Krankenversicherung für Rentner und Rentnerinnen, die in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnen
 
 (VPVKEU)[^t-1]
 
-vom 3. Juli 2001 (Stand am 1. Januar 2020)
+vom 3. Juli 2001 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
 
@@ -95,9 +95,10 @@ Als anrechenbares Einkommen gelten die folgenden Einkünfte:
 
 **Umrechnungskurse**[^5-1]
 
-<sup>Das Reinvermögen gemäss Artikel 3 Absatz 3 und das anrechenbare Einkommen gemäss Artikel 4 werden zum Umrechnungskurs der Eidgenössischen Zollverwaltung, der zum Zeitpunkt der Antragstellung gilt, in Schweizer Franken umgerechnet.</sup>
+Das Reinvermögen gemäss Artikel 3 Absatz 3 und das anrechenbare Einkommen gemäss Artikel 4 werden zum Umrechnungskurs des Bundesamts für Zoll und Grenzsicherheit[^5-2], der zum Zeitpunkt der Antragstellung gilt, in Schweizer Franken umgerechnet.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -233,13 +234,13 @@ Das Departement kann zum Vollzug dieser Verordnung nähere Bestimmungen erlassen
 
 Diese Verordnung tritt am 1. Juni 2002 in Kraft.
 
-## Schlussbestimmungen zur Änderung vom 9. November 2005****
+## Schlussbestimmungen zur Änderung vom 9. November 2005
 
 [^u1-1]
 
 [^u1-1]: [AS 2005 6645](https://fedlex.data.admin.ch/eli/oc/2005/819). Aufgehoben durch Ziff. I der V vom 20. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)).
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 4 Abs. 2)
 
