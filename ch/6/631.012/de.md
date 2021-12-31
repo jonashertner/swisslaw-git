@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 4. April 2007 über Zollerleichterungen für Ware
 short: ZEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20211201/de"
 
 (Zollerleichterungsverordnung, ZEV)
 
-vom 4. April 2007 (Stand am 1. Dezember 2021)
+vom 4. April 2007 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -54,7 +54,7 @@ In dieser Verordnung bedeuten:
 
   *zollbegünstigte Person*: Person, die:
 
-  - 1\. für zollbegünstigte Waren eine Verwendungsverpflichtung hinterlegt hat, die von der Oberzolldirektion (OZD) genehmigt ist, oder
+  - 1\. für zollbegünstigte Waren eine Verwendungsverpflichtung hinterlegt hat, die von der Oberzolldirektion genehmigt ist, oder
   - 2\. eine mit einem Verwendungsvorbehalt versehene, unveränderte zollbegünstigte Ware im Zollgebiet übernimmt.
 
 ## 2. Kapitel: Reduzierte Zollansätze und Zollbefreiung bei der Veranlagung
@@ -79,7 +79,7 @@ Die Waren nach Anhang 2 der Agrareinfuhrverordnung vom 26. Oktober 2011[^4-2] si
 
 **Gesuch um Herabsetzung von Zollansätzen für bestimmte Verwendungen**
 
-<sup>1</sup> Ein Gesuch um Herabsetzung von Zollansätzen für bestimmte Verwendungen nach Artikel 14 Absatz 1 ZG muss bei der OZD eingereicht werden.
+<sup>1</sup> Ein Gesuch um Herabsetzung von Zollansätzen für bestimmte Verwendungen nach Artikel 14 Absatz 1 ZG muss beim Bundesamt für Zoll und Grenzsicherheit (BAZG)[^5-1] eingereicht werden.
 
 <sup>2</sup>
 
@@ -96,9 +96,11 @@ Das Gesuch muss folgende Unterlagen und Angaben enthalten:
 - i. gegebenenfalls prozentualer Gewichtsanteil der ins Zollgebiet verbrachten Ware am Fertigprodukt;
 - j. als tragbar erachteter reduzierter Zollansatz.
 
-<sup>3</sup> Die OZD kann weitere Angaben und Nachweise verlangen, wenn dies für die Beurteilung des Gesuchs erforderlich ist.
+<sup>3</sup> Das BAZG kann weitere Angaben und Nachweise verlangen, wenn dies für die Beurteilung des Gesuchs erforderlich ist.
 
-<sup>4</sup> Sie unterbreitet das Gesuch den betroffenen Organisationen und Bundesstellen zur Stellungnahme.
+<sup>4</sup> Es unterbreitet das Gesuch den betroffenen Organisationen und Bundesstellen zur Stellungnahme.
+
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 6
 
@@ -119,7 +121,7 @@ Die zollbegünstigte Person muss zudem:
 
 **Verwendungsnachweis**
 
-<sup>1</sup> Die zollbegünstigte Person muss der Zollverwaltung auf Verlangen nachweisen, dass sie die Waren der Verwendungsverpflichtung entsprechend verwendet hat.
+<sup>1</sup> Die zollbegünstigte Person muss dem BAZG auf Verlangen nachweisen, dass sie die Waren der Verwendungsverpflichtung entsprechend verwendet hat.
 
 <sup>2</sup> Verwendet sie die Waren im eigenen Betrieb, so muss sie Fabrikationskontrollen führen oder den Nachweis auf andere geeignete Weise erbringen.
 
@@ -129,7 +131,7 @@ Die zollbegünstigte Person muss zudem:
 
 <sup>1</sup> Bei jeder Weitergabe von unveränderten Waren im Zollgebiet muss in den Verkaufs- und Lieferdokumenten der Verwendungsvorbehalt nach Anhang 2 angebracht werden.
 
-<sup>2</sup> Wer unverändert weitergegebene Waren nicht gemäss der Verwendungsverpflichtung der zollbegünstigten Person oder gemäss dem Verwendungsvorbehalt verwendet, muss bei der OZD eine neue Zollanmeldung einreichen.
+<sup>2</sup> Wer unverändert weitergegebene Waren nicht gemäss der Verwendungsverpflichtung der zollbegünstigten Person oder gemäss dem Verwendungsvorbehalt verwendet, muss beim BAZG eine neue Zollanmeldung einreichen.
 
 ## 3. Kapitel: Änderung des Verwendungszwecks
 
@@ -139,13 +141,13 @@ Die zollbegünstigte Person muss zudem:
 
 **Verwendungen mit höheren Zollansätzen**
 
-Die OZD kann mit zollbegünstigten Personen Vereinbarungen über eine vereinfachte vorgängige neue Zollanmeldung und eine vereinfachte Entrichtung der Zolldifferenz abschliessen (Art. 14 Abs. 4 ZG).
+Das BAZG kann mit zollbegünstigten Personen Vereinbarungen über eine vereinfachte vorgängige neue Zollanmeldung und eine vereinfachte Entrichtung der Zolldifferenz abschliessen (Art. 14 Abs. 4 ZG).
 
 #### Art. 10
 
 **Verwendungen mit reduzierten Zollansätzen**
 
-<sup>1</sup> Wer veranlagte Waren zu Zwecken verwenden oder abgeben will, die reduzierten Zollabgaben unterliegen (Art. 14 Abs. 5 ZG), kann bei der OZD ein Gesuch um Rückerstattung der Differenz stellen.
+<sup>1</sup> Wer veranlagte Waren zu Zwecken verwenden oder abgeben will, die reduzierten Zollabgaben unterliegen (Art. 14 Abs. 5 ZG), kann beim BAZG ein Gesuch um Rückerstattung der Differenz stellen.
 
 <sup>2</sup>
 
@@ -164,7 +166,7 @@ Beträge von weniger als 200 Franken werden nicht rückerstattet.
 
 **Verweigerung oder Rückforderung der Rückerstattung**
 
-Sind die Voraussetzungen für die Rückerstattung nicht oder nur teilweise erfüllt, so verweigert oder reduziert die OZD die Rückerstattung oder fordert den zu Unrecht ausbezahlten Betrag zurück.
+Sind die Voraussetzungen für die Rückerstattung nicht oder nur teilweise erfüllt, so verweigert oder reduziert das BAZG die Rückerstattung oder fordert den zu Unrecht ausbezahlten Betrag zurück.
 
 ### 2. Abschnitt: Rückerstattungen für Futtermittel für Zoo-, Labor- und andere Tiere
 
@@ -206,17 +208,17 @@ Personen, die Waren nach Artikel 13 verarbeiten, mischen, abfüllen, im eigenen 
 
 **Rückerstattungsgesuch**
 
-<sup>1</sup> Das Rückerstattungsgesuch muss einen Kalendermonat oder ein Kalenderquartal umfassen, sofern die OZD keine abweichende Abrechnungsperiode bewilligt hat.
+<sup>1</sup> Das Rückerstattungsgesuch muss einen Kalendermonat oder ein Kalenderquartal umfassen, sofern das BAZG keine abweichende Abrechnungsperiode bewilligt hat.
 
 <sup>2</sup>
 
-Es muss bei der OZD im auf die Abrechnungsperiode nach Absatz 1 folgenden Kalendermonat oder Kalenderquartal schriftlich und mit folgenden Unterlagen eingereicht werden:
+Es muss beim BAZG im auf die Abrechnungsperiode nach Absatz 1 folgenden Kalendermonat oder Kalenderquartal schriftlich und mit folgenden Unterlagen eingereicht werden:
 
 - a. die Originale der Veranlagungsverfügungen für die einzelnen Rohstoffe und eine Kopie davon oder, wenn der Einkauf bei einem Importeur erfolgte, die Verkaufsrechnung ergänzt mit den Angaben über die Veranlagung (Nummer der Veranlagungsverfügung, Datum, Zollstelle und Zollansatz);
 - b. ein Verwendungsnachweis für die einzelnen Rohstoffe;
 - c. eine Zusammenstellung der hergestellten oder verkauften Menge je Futterart.
 
-<sup>3</sup> Genügt das Gesuch den Anforderungen nicht, so räumt die OZD der gesuchstellenden Person eine kurze Frist zur Nachbesserung ein.
+<sup>3</sup> Genügt das Gesuch den Anforderungen nicht, so räumt das BAZG der gesuchstellenden Person eine kurze Frist zur Nachbesserung ein.
 
 #### Art. 16
 
@@ -229,7 +231,7 @@ Die rückerstattungsberechtigte Menge wird berechnet:
 - a. auf der Grundlage der Fabrikationskontrolle oder der Verkaufsstatistik;
 - b. nach der Rohmasse, wenn die Rohstoffe unverändert abgegeben werden.
 
-<sup>2</sup> Die OZD legt in Absprache mit der gesuchstellenden Person die Berechnungsart fest.
+<sup>2</sup> Das BAZG legt in Absprache mit der gesuchstellenden Person die Berechnungsart fest.
 
 <sup>3</sup>
 
@@ -238,7 +240,7 @@ Massgebend sind:
 - a. für die Berechnung nach der Fabrikationskontrolle: die Mengen der tatsächlich verwendeten Rohstoffe;
 - b. für die Berechnung nach der Verkaufsstatistik: die Anteile der verwendeten Rohstoffe nach der Herstellungsformel (Rezeptur).
 
-<sup>4</sup> Die OZD kann bei der Berechnung nach der Fabrikationskontrolle den nachgewiesenen Produktionsverlust, bei der Berechnung nach der Verkaufsstatistik ohne besonderen Nachweis einen Produktionsverlust von höchstens vier Prozent berücksichtigen.
+<sup>4</sup> Das BAZG kann bei der Berechnung nach der Fabrikationskontrolle den nachgewiesenen Produktionsverlust, bei der Berechnung nach der Verkaufsstatistik ohne besonderen Nachweis einen Produktionsverlust von höchstens vier Prozent berücksichtigen.
 
 #### Art. 17
 
@@ -299,7 +301,7 @@ Die Verkaufsstatistik muss mindestens folgende Angaben zum hergestellten Produkt
 
 **Rückerstattungsgesuch**
 
-<sup>1</sup> Das Rückerstattungsgesuch muss vor einer anderweitigen Verwendung der Ware und innerhalb von drei Jahren seit der Ausstellung der Veranlagungsverfügung bei der OZD eingereicht werden.
+<sup>1</sup> Das Rückerstattungsgesuch muss vor einer anderweitigen Verwendung der Ware und innerhalb von drei Jahren seit der Ausstellung der Veranlagungsverfügung beim BAZG eingereicht werden.
 
 <sup>2</sup> Die gesuchstellende Person muss die Berechtigung nach Artikel 19 nachweisen.
 
@@ -307,15 +309,15 @@ Die Verkaufsstatistik muss mindestens folgende Angaben zum hergestellten Produkt
 
 **Kontrolle**
 
-Die Zollverwaltung kann durch Kontrollen am Domizil überprüfen, ob die Rückerstattungsberechtigung nach Artikel 19 gegeben ist.
+Das BAZG kann durch Kontrollen am Domizil überprüfen, ob die Rückerstattungsberechtigung nach Artikel 19 gegeben ist.
 
 #### Art. 22
 
 **Vorgängiges Einverständnis zur anderen Verwendung**
 
-<sup>1</sup> Die Ware darf erst anders verwendet oder abgegeben werden, wenn die OZD das Einverständnis dazu gegeben hat.
+<sup>1</sup> Die Ware darf erst anders verwendet oder abgegeben werden, wenn das BAZG das Einverständnis dazu gegeben hat.
 
-<sup>2</sup> Wird eine Ware ohne Einverständnis der OZD zu einem geänderten Zweck verwendet oder abgegeben, ist der Anspruch auf eine Rückerstattung verwirkt.
+<sup>2</sup> Wird eine Ware ohne Einverständnis des BAZG zu einem geänderten Zweck verwendet oder abgegeben, ist der Anspruch auf eine Rückerstattung verwirkt.
 
 ## 4. Kapitel: Gemeinsame Bestimmungen
 
@@ -356,7 +358,7 @@ Die Aufzeichnungen müssen folgende Angaben enthalten:
 
 **Änderungen der Firmeneintragung**
 
-Die zollbegünstigte Person muss der OZD Änderungen der Firmeneintragung im schweizerischen Handelsregister, namentlich die Änderung der Firmenbezeichnung oder des Domizils oder eine allfällige Liquidation des Geschäftsbetriebs, unverzüglich schriftlich melden.
+Die zollbegünstigte Person muss dem BAZG Änderungen der Firmeneintragung im schweizerischen Handelsregister, namentlich die Änderung der Firmenbezeichnung oder des Domizils oder eine allfällige Liquidation des Geschäftsbetriebs, unverzüglich schriftlich melden.
 
 ### 2. Abschnitt: Besondere Vorkommnisse
 
@@ -364,7 +366,7 @@ Die zollbegünstigte Person muss der OZD Änderungen der Firmeneintragung im sch
 
 **Meldepflicht**
 
-Die zollbegünstigte Person muss der OZD schriftlich melden:
+Die zollbegünstigte Person muss dem BAZG schriftlich melden:
 
 - a. durch Zufall oder höhere Gewalt vernichtete zollbegünstigte Waren;
 - b. Fehlmengen;
@@ -378,7 +380,7 @@ Die zollbegünstigte Person muss der OZD schriftlich melden:
 
 <sup>2</sup>
 
-Die OZD verzichtet in begründeten Fällen auf die Nachzahlung, namentlich wenn:
+Das BAZG verzichtet in begründeten Fällen auf die Nachzahlung, namentlich wenn:
 
 - a. die Fehlmenge im Rahmen der üblichen Lagerverluste für die entsprechende Ware liegt; oder
 - b. die Ware nachweislich durch Zufall oder höhere Gewalt vernichtet worden ist.
@@ -387,7 +389,7 @@ Die OZD verzichtet in begründeten Fällen auf die Nachzahlung, namentlich wenn:
 
 #### Art. 27
 
-<sup>1</sup> Die Verarbeitungsbetriebe müssen der OZD die erreichten Ausbeuten für Futtermittel, Ölsaaten und Waren, bei deren Verarbeitung Futtermittel anfallen, sowie für Hartweizen gemäss den Bestimmungen der entsprechenden nichtzollrechtlichen Erlasse melden.
+<sup>1</sup> Die Verarbeitungsbetriebe müssen dem BAZG die erreichten Ausbeuten für Futtermittel, Ölsaaten und Waren, bei deren Verarbeitung Futtermittel anfallen, sowie für Hartweizen gemäss den Bestimmungen der entsprechenden nichtzollrechtlichen Erlasse melden.
 
 <sup>2</sup> Die Meldung muss auf den dafür vorgesehenen Formularen erfolgen.
 
@@ -424,7 +426,7 @@ Anhang 1*[^t-1]*
 
 ## Zollerleichterungen je nach Verwendungszweck
 
-[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 4. Dez. 2018 ([AS 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), vom 22. Sept. ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), Ziff. II der V des EFD vom 8. Sept. 2021 ([AS 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)) und Ziff. I der V der OZD vom 22. Nov. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 748](https://fedlex.data.admin.ch/eli/oc/2021/748)).
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 4. Dez. 2018 ([AS 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), vom 22. Sept. ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), Ziff. II der V des EFD vom 8. Sept. 2021 ([AS 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), Ziff. I der V des EFD vom 15. Nov. 2021 ([AS 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)) und Ziff. I der V der OZD vom 20. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 894](https://fedlex.data.admin.ch/eli/oc/2021/894)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Warenbezeichnung</th><th>Verwendung</th><th>Zollansatz Fr. je 100 kg brutto</th></tr>
@@ -468,10 +470,10 @@ Anhang 1*[^t-1]*
 <tr><td>1008. 10 29</td><td>Buchweizen</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.––</td></tr>
 <tr><td>1008. 29 29</td><td>Hirse</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>frei</td></tr>
 <tr><td>1008. 30 20</td><td>Kanariensaat</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.––</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>1.50</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>1.50</td></tr>
-<tr><td>1008. 60 39</td><td>Triticale</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.50</td></tr>
-<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>1.50</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>––.50</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>––.50</td></tr>
+<tr><td>1008. 60 39</td><td>Triticale</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>3.50</td></tr>
+<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>––.50</td></tr>
 <tr><td>1102. 20 10</td><td>Mehl von Mais</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
 <tr><td>1102. 90 51</td><td>Mehl von Reis</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
 <tr><td>1102. 90 61</td><td>Mehl von anderem Getreide</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
@@ -490,7 +492,7 @@ Anhang 1*[^t-1]*
 <tr><td>1104. 19 29</td><td>Körner von Gerste, gequetscht oder in Flocken</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
 <tr><td>1104. 19 99</td><td>Körner von anderem Getreide, gequetscht oder in Flocken</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
 <tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln ohne Futtermittelanfall</td><td>10.—</td></tr>
-<tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>9.60</td></tr>
+<tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>10.20</td></tr>
 <tr><td>1104. 22 20</td><td>Mahlhafer, geschält, noch circa 10 % ungeschälte Körner enthaltend</td><td>zur Herstellung von fertigen Haferprodukten für die menschliche Ernährung</td><td>—.60</td></tr>
 <tr><td>1104. 23 90</td><td>Anders bearbeitete Körner von Mais</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
 <tr><td>1104. 23 90</td><td>Maisgrütze, d.h. grob gebrochene (geschrotete) Maiskörner, entkeimt und geschält</td><td>zur Herstellung von Cornflakes</td><td>—.20</td></tr>
@@ -499,7 +501,7 @@ Anhang 1*[^t-1]*
 <tr><td>1104. 29 18</td><td>Anders bearbeitete Körner von Weizen, Roggen, Mengkorn oder Triticale, geschält oder gerollt</td><td>zu technischen Zwecken</td><td>40.—</td></tr>
 <tr><td>1104. 29 22</td><td>Anders bearbeitete Körner von Hirse</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>––.85</td></tr>
 <tr><td>1104. 29 22</td><td>Anders bearbeitete Körner von Hirse</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
-<tr><td>1104. 29 32</td><td>Anders bearbeitete Körner von Gerste</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>6.––</td></tr>
+<tr><td>1104. 29 32</td><td>Anders bearbeitete Körner von Gerste</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>5.40</td></tr>
 <tr><td>1104. 29 32</td><td>Anders bearbeitete Körner von Gerste</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
 <tr><td>1104. 29 99</td><td>Anders bearbeitete Körner von anderem Getreide</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>10.—</td></tr>
 <tr><td>1104. 30 89</td><td>Weizenkeime</td><td>zur Teilentfettung für die menschliche Ernährung</td><td>28.80</td></tr>
@@ -537,10 +539,10 @@ Anhang 1*[^t-1]*
 <tr><td>1508. 10 90 90 18 90 19 90 98 90 99</td><td>Erdnussöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
 <tr><td>1508. 10 90 90 18 90 19 90 98 90 99</td><td>Erdnussöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zur industriellen Herstellung von Produkten der Tarifnummer 2103.9000</td><td>1.—</td></tr>
 <tr><td>1508. 90 98</td><td>Erdnussöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zur Nachraffination und anschliessenden Herstellung von Speiseölen und -fetten (Die Nachraffination umfasst eine oder mehrere der folgenden Stufen der Raffination: Entsäuern, Entfärben, Desodorieren.)</td><td>133.15</td></tr>
-<tr><td>1509. 10 91 10 99 90 91 90 99</td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
-<tr><td>1509. 10 99 90 99</td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zur industriellen Herstellung von Produkten der Tarifnummer 2103.9000</td><td>1.—</td></tr>
-<tr><td>1510. 00 91 00 99</td><td>Andere ausschliesslich aus Oliven gewonnene Öle und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert, und Mischungen dieser Öle oder Fraktionen mit Ölen oder Fraktionen der Nr. 1509</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
-<tr><td>1510. 00 91 00 99</td><td>Andere ausschliesslich aus Oliven gewonnene Öle und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert, und Mischungen dieser Öle oder Fraktionen mit Ölen oder Fraktionen der Nr. 1509</td><td>zur industriellen Herstellung von Produkten der Tarifnummer 2103.9000</td><td>1.—</td></tr>
+<tr><td>1509. 20 91 20 99 30 91 30 99 40 91 40 99 90 91 90 99</td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zu technischen Zwecken</td><td>1.––</td></tr>
+<tr><td>1509. 20 99 30 99 40 99 90 99</td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zur industriellen Herstellung von Produkten der Tarifnummer 2103.9000</td><td>1.––</td></tr>
+<tr><td>1510. 10 90 90 91 90 99</td><td>Andere ausschliesslich aus Oliven gewonnene Öle und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert, und Mischungen dieser Öle oder Fraktionen mit Ölen oder Fraktionen der Nr. 1509</td><td>zu technischen Zwecken</td><td>1.––</td></tr>
+<tr><td>1510. 10 90 90 91 90 99</td><td>Andere ausschliesslich aus Oliven gewonnene Öle und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert, und Mischungen dieser Öle oder Fraktionen mit Ölen oder Fraktionen der Nr. 1509</td><td>zur industriellen Herstellung von Produkten der Tarifnummer 2103.9000</td><td>1.––</td></tr>
 <tr><td>1511. 10 90</td><td>Palmöl, rohes</td><td>zur Herstellung von Produkten der Tarifnummer 2104.1000</td><td>—.10</td></tr>
 <tr><td>1511. 10 90</td><td>Palmöl, rohes</td><td>zur Herstellung von Brotaufstrichen der Tarifnummern 2106.9050, 2106.9073 oder 2106.9074</td><td>6.—</td></tr>
 <tr><td>1511. 10 90 90 18 90 19 90 98 90 99</td><td>Palmöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
@@ -564,15 +566,15 @@ Anhang 1*[^t-1]*
 <tr><td>1514. 11 90 19 91 19 99 91 90 99 91 99 99</td><td>Rapsöl, Rüböl oder Senföl und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
 <tr><td>1514. 11 90 19 91 19 99 91 90 99 91 99 99</td><td>Rapsöl, Rüböl oder Senföl und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zur industriellen Herstellung von Produkten der Tarifnummer 2103.9000</td><td>1.—</td></tr>
 <tr><td>1514. 19 91 99 91</td><td>Rapsöl, Rüböl oder Senföl und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zur Nachraffination und anschliessenden Herstellung von Speiseölen und ‑fetten (Die Nachraffination umfasst eine oder mehrere der folgenden Stufen der Raffination: Entsäuern, Entfärben, Desodorieren.)</td><td>133.15</td></tr>
-<tr><td>1515. 11 90 19 91 19 99 21 90 29 91 29 99 30 91 30 99 50 19 50 91 50 99 90 13 90 18 90 19 90 28 90 29 90 38 90 39 90 98 90 99</td><td>Andere pflanzliche Fette und andere fette pflanzliche Öle (einschliesslich Jojoba-Öl) und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
+<tr><td>1515. 11 90 19 91 19 99 21 90 29 91 29 99 30 91 30 99 50 19 50 91 50 99 60 91 60 99 90 13 90 18 90 19 90 28 90 29 90 38 90 39 90 98 90 99</td><td>Andere pflanzliche oder mikrobielle Fette und andere fette pflanzliche oder mikrobielle Öle (einschliesslich Jojoba-Öl) und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zu technischen Zwecken</td><td>1.––</td></tr>
 <tr><td>1515. 29 91 29 99 50 91 50 99 90 98 90 99</td><td>Fette und Öle von Mais, Sesam und anderen pflanzlichen Ölen und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zur industriellen Herstellung von Produkten der Tarifnummer 2103.9000</td><td>1.—</td></tr>
 <tr><td>1515. 19 91 29 91 30 91 50 91 90 18 90 28 90 38 90 98</td><td>Andere pflanzliche Fette und andere fette pflanzliche Öle (einschliesslich Jojoba-Öl) und ihre Fraktionen, auch raffiniert, aber nicht chemisch modifiziert</td><td>zur Nachraffination und anschliessenden Herstellung von Speiseölen und -fetten (Die Nachraffination umfasst eine oder mehrere der folgenden Stufen der Raffination: Entsäuern, Entfärben, Desodorieren.)</td><td>133.15</td></tr>
-<tr><td>1516. 10 91 10 99 20 92 20 93 20 97 20 98</td><td>Tierische oder pflanzliche Fette und Öle und ihre Fraktionen, ganz oder teilweise hydriert, umgeestert, wiederverestert oder elaidiniert, auch raffiniert, jedoch nicht anders zubereitet</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
+<tr><td>1516. 10 91 10 99 20 92 20 93 20 97 20 98 30 93 30 99</td><td>Tierische, pflanzliche oder mikrobielle Fette und Öle und ihre Fraktionen, ganz oder teilweise hydriert, umgeestert, wiederverestert oder elaidiniert, auch raffiniert, jedoch nicht anders zubereitet</td><td>zu technischen Zwecken</td><td>1.––</td></tr>
 <tr><td>1516. 10 91 20 93</td><td>Tierische oder pflanzliche Fette und Öle und ihre Fraktionen, andere als Kokos- und Palmkernöle, ganz oder teilweise hydriert, umgeestert, wiederverestert oder elaidiniert, auch raffiniert, jedoch nicht anders zubereitet</td><td>zur Nachraffination und anschliessenden Herstellung von Speiseölen und ‑fetten (Die Nachraffination umfasst eine oder mehrere der folgenden Stufen der Raffination: Entsäuern, Entfärben, Desodorieren.)</td><td>132.70</td></tr>
 <tr><td>1516. 10 91 20 93</td><td>Tierische oder pflanzliche Fette und Öle und ihre Fraktionen, andere als Kokos- und Palmkernöle, ganz oder teilweise hydriert, umgeestert, wiederverestert oder elaidiniert, auch raffiniert, jedoch nicht anders zubereitet, raffiniert Bemerkung: Die Zollbegünstigung wird nur gewährt, wenn die Fraktionen durch Vermischen mit andern Rohstoffen und Materialien einen Fabrikationsprozess durchmachen. Das blosse Umschmelzen in kleinere Behältnisse oder in bestimmte Formen für den Einzelverkauf genügt nicht.</td><td>zur Herstellung von Speiseölen und ‑fetten</td><td>137.65</td></tr>
 <tr><td>1516. 10 99 20 98</td><td>Tierische oder pflanzliche Fette und Öle und ihre Fraktionen, andere als Kokos- und Palmkernöle, ganz oder teilweise hydriert, umgeestert, wiederverestert oder elaidiniert, auch raffiniert, jedoch nicht anders zubereitet</td><td>zur Nachraffination und anschliessenden Herstellung von Speiseölen und ‑fetten (Die Nachraffination umfasst eine oder mehrere der folgenden Stufen der Raffination: Entsäuern, Entfärben, Desodorieren.)</td><td>133.30</td></tr>
 <tr><td>1516. 10 99 20 98</td><td>Tierische oder pflanzliche Fette und Öle und ihre Fraktionen, andere als Kokos- und Palmkernöle, ganz oder teilweise hydriert, umgeestert, wiederverestert oder elaidiniert, auch raffiniert, jedoch nicht anders zubereitet, raffiniert Bemerkung: Die Zollbegünstigung wird nur gewährt, wenn die Fraktionen durch Vermischen mit andern Rohstoffen und Materialien einen Fabrikationsprozess durchmachen. Das blosse Umschmelzen in kleinere Behältnisse oder in bestimmte Formen für den Einzelverkauf genügt nicht.</td><td>zur Herstellung von Speiseölen und ‑fetten</td><td>138.30</td></tr>
-<tr><td>1517. 90 62 90 63 90 67 90 68 90 71 90 79 90 81 90 89 90 91 90 99</td><td>Flüssige, geniessbare Mischungen oder Zubereitungen von tierischen oder pflanzlichen Fetten oder Ölen oder von Fraktionen verschiedener Fette oder Öle</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
+<tr><td>1517. 90 62 90 63 90 67 90 68 90 71 90 79 90 81 90 89 90 91 90 99</td><td>Flüssige, geniessbare Mischungen oder Zubereitungen von tierischen, pflanzlichen oder mikrobiellen Fetten oder Ölen oder von Fraktionen verschiedener Fette oder Öle dieses Kapitels</td><td>zu technischen Zwecken</td><td>1.––</td></tr>
 <tr><td>1518. 00 19</td><td>Nicht geniessbare Mischungen pflanzlicher Öle</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
 <tr><td>1518. 00 97</td><td>Nichtgeniessbare Mischungen von tierischen Fetten</td><td>zu technischen Zwecken</td><td>1.—</td></tr>
 <tr><td>1602. 50 98</td><td>Rindfleisch, gekocht und gefroren, in Würfeln mit einer Kantenlänge von ungefähr 2 cm</td><td>zur Herstellung von Gulaschsuppe</td><td>––.10</td></tr>

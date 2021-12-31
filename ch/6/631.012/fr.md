@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 4 avril 2007 sur les marchandises bénéficiant d'a
 short: OADou
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: fr
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-252-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-252-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20211201/fr"
 
 (Ordonnance sur les allégements douaniers, OADou)
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> décembre 2021)
+du 4 avril 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral des finances (DFF),
 
@@ -119,9 +119,11 @@ Le bénéficiaire doit en outre:
 
 **Preuve de l’emploi**
 
-<sup>1</sup> Sur demande de l’administration des douanes, le bénéficiaire doit prouver qu’il a utilisé les marchandises conformément à l’engagement d’emploi.
+<sup>1</sup> Sur demande de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^7-1], le bénéficiaire doit prouver qu’il a utilisé les marchandises conformément à l’engagement d’emploi.
 
 <sup>2</sup> S’il utilise les marchandises dans sa propre entreprise, il doit tenir des contrôles de fabrication ou apporter la preuve d’une autre manière appropriée.
+
+[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 8
 
@@ -307,7 +309,7 @@ La statistique des ventes contient au moins les indications suivantes concernant
 
 **Contrôle**
 
-L’administration des douanes peut, par des contrôles effectués à domicile, vérifier l’existence du droit au remboursement au sens de l’art. 19.
+L’OFDF peut, par des contrôles effectués à domicile, vérifier l’existence du droit au remboursement au sens de l’art. 19.
 
 #### Art. 22
 
@@ -409,8 +411,8 @@ Sont abrogées:
 - 1\. l’ordonnance du 20 septembre 1999 sur les allégements douaniers[^28-1];
 - 2\. l’ordonnance du 20 mai 1996 concernant le remboursement de droits de douane sur les fourrages pour animaux de jardins zoologiques, de laboratoire et autres[^28-2].
 
-[^28-1]: [[RO 1999 2474](https://fedlex.data.admin.ch/eli/oc/1999/383), [2001 129](https://fedlex.data.admin.ch/eli/oc/2001/26)[1070](https://fedlex.data.admin.ch/eli/oc/2001/163), [2004 81](https://fedlex.data.admin.ch/eli/oc/2004/5)[453](https://fedlex.data.admin.ch/eli/oc/2004/33)[1841](https://fedlex.data.admin.ch/eli/oc/2004/219)[2351](https://fedlex.data.admin.ch/eli/oc/2004/275)[2965](https://fedlex.data.admin.ch/eli/oc/2004/366)[3381](https://fedlex.data.admin.ch/eli/oc/2004/434)[4127](https://fedlex.data.admin.ch/eli/oc/2004/607)[4349](https://fedlex.data.admin.ch/eli/oc/2004/655)[4563](https://fedlex.data.admin.ch/eli/oc/2004/695)[4969](https://fedlex.data.admin.ch/eli/oc/2004/749), [2005 501](https://fedlex.data.admin.ch/eli/oc/2005/61)[727](https://fedlex.data.admin.ch/eli/oc/2005/88)[1247](https://fedlex.data.admin.ch/eli/oc/2005/185)[1827](https://fedlex.data.admin.ch/eli/oc/2005/302)[2125](https://fedlex.data.admin.ch/eli/oc/2005/346)[2509](https://fedlex.data.admin.ch/eli/oc/2005/428)[4237](https://fedlex.data.admin.ch/eli/oc/2005/554)[4567](https://fedlex.data.admin.ch/eli/oc/2005/595)[4729](https://fedlex.data.admin.ch/eli/oc/2005/625)[4955](https://fedlex.data.admin.ch/eli/oc/2005/676)[5731](https://fedlex.data.admin.ch/eli/oc/2005/787)[5733](https://fedlex.data.admin.ch/eli/oc/2005/788), [2006 75](https://fedlex.data.admin.ch/eli/oc/2006/16)[217](https://fedlex.data.admin.ch/eli/oc/2006/44)[1073](https://fedlex.data.admin.ch/eli/oc/2006/190)[1257](https://fedlex.data.admin.ch/eli/oc/2006/220)[1431](https://fedlex.data.admin.ch/eli/oc/2006/243)[2405](https://fedlex.data.admin.ch/eli/oc/2006/371)[2407](https://fedlex.data.admin.ch/eli/oc/2006/372)[2859](https://fedlex.data.admin.ch/eli/oc/2006/437)[3245](https://fedlex.data.admin.ch/eli/oc/2006/490)[3923](https://fedlex.data.admin.ch/eli/oc/2006/586)[4129](https://fedlex.data.admin.ch/eli/oc/2006/605)[4543](https://fedlex.data.admin.ch/eli/oc/2006/695)[5349](https://fedlex.data.admin.ch/eli/oc/2006/813)[5705](https://fedlex.data.admin.ch/eli/oc/2006/849), [2007 223](https://fedlex.data.admin.ch/eli/oc/2007/44)[279](https://fedlex.data.admin.ch/eli/oc/2007/56)[485](https://fedlex.data.admin.ch/eli/oc/2007/97)[731](https://fedlex.data.admin.ch/eli/oc/2007/148)[1301](https://fedlex.data.admin.ch/eli/oc/2007/208)]
-[^28-2]: [[RO 1996 2122](https://fedlex.data.admin.ch/eli/oc/1996/2122_2122_2122), [1997 1476](https://fedlex.data.admin.ch/eli/oc/1997/1476_1476_1476), [1999 1068](https://fedlex.data.admin.ch/eli/oc/1999/141)]
+[^28-1]: [[RO 1999 2474](https://fedlex.data.admin.ch/eli/oc/1999/383); [2001 129](https://fedlex.data.admin.ch/eli/oc/2001/26), [1070](https://fedlex.data.admin.ch/eli/oc/2001/163); [2004 81](https://fedlex.data.admin.ch/eli/oc/2004/5), [453](https://fedlex.data.admin.ch/eli/oc/2004/33), [1841](https://fedlex.data.admin.ch/eli/oc/2004/219), [2351](https://fedlex.data.admin.ch/eli/oc/2004/275), [2965](https://fedlex.data.admin.ch/eli/oc/2004/366), [3381](https://fedlex.data.admin.ch/eli/oc/2004/434), [4127](https://fedlex.data.admin.ch/eli/oc/2004/607), [4349](https://fedlex.data.admin.ch/eli/oc/2004/655), [4563](https://fedlex.data.admin.ch/eli/oc/2004/695), [4969](https://fedlex.data.admin.ch/eli/oc/2004/749); [2005 501](https://fedlex.data.admin.ch/eli/oc/2005/61), [727](https://fedlex.data.admin.ch/eli/oc/2005/88), [1247](https://fedlex.data.admin.ch/eli/oc/2005/185), [1827](https://fedlex.data.admin.ch/eli/oc/2005/302), [2125](https://fedlex.data.admin.ch/eli/oc/2005/346), [2509](https://fedlex.data.admin.ch/eli/oc/2005/428), [4237](https://fedlex.data.admin.ch/eli/oc/2005/554), [4567](https://fedlex.data.admin.ch/eli/oc/2005/595), [4729](https://fedlex.data.admin.ch/eli/oc/2005/625), [4955](https://fedlex.data.admin.ch/eli/oc/2005/676), [5731](https://fedlex.data.admin.ch/eli/oc/2005/787), [5733](https://fedlex.data.admin.ch/eli/oc/2005/788); [2006 75](https://fedlex.data.admin.ch/eli/oc/2006/16), [217](https://fedlex.data.admin.ch/eli/oc/2006/44), [1073](https://fedlex.data.admin.ch/eli/oc/2006/190), [1257](https://fedlex.data.admin.ch/eli/oc/2006/220), [1431](https://fedlex.data.admin.ch/eli/oc/2006/243), [2405](https://fedlex.data.admin.ch/eli/oc/2006/371), [2407](https://fedlex.data.admin.ch/eli/oc/2006/372), [2859](https://fedlex.data.admin.ch/eli/oc/2006/437), [3245](https://fedlex.data.admin.ch/eli/oc/2006/490), [3923](https://fedlex.data.admin.ch/eli/oc/2006/586), [4129](https://fedlex.data.admin.ch/eli/oc/2006/605), [4543](https://fedlex.data.admin.ch/eli/oc/2006/695), [5349](https://fedlex.data.admin.ch/eli/oc/2006/813), [5705](https://fedlex.data.admin.ch/eli/oc/2006/849); [2007 223](https://fedlex.data.admin.ch/eli/oc/2007/44), [279](https://fedlex.data.admin.ch/eli/oc/2007/56), [485](https://fedlex.data.admin.ch/eli/oc/2007/97), [731](https://fedlex.data.admin.ch/eli/oc/2007/148), [1301](https://fedlex.data.admin.ch/eli/oc/2007/208)]
+[^28-2]: [[RO 1996 2122](https://fedlex.data.admin.ch/eli/oc/1996/2122_2122_2122); [1997 1476](https://fedlex.data.admin.ch/eli/oc/1997/1476_1476_1476); [1999 1068](https://fedlex.data.admin.ch/eli/oc/1999/141)]
 
 #### Art. 29
 
@@ -424,7 +426,7 @@ Annexe 1*[^t-1]*
 
 ## Allégements douaniers accordés selon l’emploi
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 mars 2016 ([RO 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Mise à jour par le ch. I des O du DFF du 12 août 2016 ([RO 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), du 28 oct. 2016 ([RO 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)) et du 28 oct. 2016 ([RO 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), de l’O de la DGD du 11 nov. 2016 ([RO 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des O du DFF du 11 août 2017 ([RO 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), du 1<sup>er</sup> nov. 2017 ([RO 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), le ch. I de l’O de la DGD du 4 déc. 2018 ([RO 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), le ch. I de l’O de la DGD du 22 sept. 2020 ([RO 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), le ch. I de l’O du DFF du 17 nov. 2020 ([RO 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), le ch. II de l’O du DFF du 8 sept. 2021 ([RO 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)) et le ch. I de l’O de la DGD du 22 nov. 2021, en vigueur depuis le 1<sup>er</sup> déc. 2021 ([RO 2021 748](https://fedlex.data.admin.ch/eli/oc/2021/748)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 mars 2016 ([RO 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Mise à jour par le ch. I des O du DFF du 12 août 2016 ([RO 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), du 28 oct. 2016 ([RO 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)) et du 28 oct. 2016 ([RO 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), de l’O de la DGD du 11 nov. 2016 ([RO 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des O du DFF du 11 août 2017 ([RO 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), du 1<sup>er</sup> nov. 2017 ([RO 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), le ch. I de l’O de la DGD du 4 déc. 2018 ([RO 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), le ch. I de l’O de la DGD du 22 sept. 2020 ([RO 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), le ch. I de l’O du DFF du 17 nov. 2020 ([RO 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), le ch. II de l’O du DFF du 8 sept. 2021 ([RO 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), le ch. I de l’O du DFF du 15 nov. 2021 ([RO 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)) et le ch. I de l’O de la DGD du 20 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 894](https://fedlex.data.admin.ch/eli/oc/2021/894)).
 
 <table>
 <tr><th>N<sup>o</sup> du tarif</th><th>Désignation de la marchandise</th><th>Emploi</th><th>Taux du droit Fr. par 100 kg brut</th></tr>
@@ -468,10 +470,10 @@ Annexe 1*[^t-1]*
 <tr><td>1008. 10 29</td><td>Sarrasin</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>2.––</td></tr>
 <tr><td>1008. 29 29</td><td>Millet</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>exempt</td></tr>
 <tr><td>1008. 30 20</td><td>Alpiste</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>2.––</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>1.50</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>1.50</td></tr>
-<tr><td>1008. 60 39</td><td>Triticale</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>2.50</td></tr>
-<tr><td>1008. 90 27</td><td>Autres céréales</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>1.50</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>––.50</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>––.50</td></tr>
+<tr><td>1008. 60 39</td><td>Triticale</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>3.50</td></tr>
+<tr><td>1008. 90 27</td><td>Autres céréales</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>––.50</td></tr>
 <tr><td>1102. 20 10</td><td>Farine de maïs</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>20.—</td></tr>
 <tr><td>1102. 90 51</td><td>Farine de riz</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>20.—</td></tr>
 <tr><td>1102. 90 61</td><td>Farines d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>20.—</td></tr>
@@ -490,7 +492,7 @@ Annexe 1*[^t-1]*
 <tr><td>1104. 19 29</td><td>Grains aplatis ou en flocons d’orge</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td>1104. 19 99</td><td>Grains aplatis ou en flocons d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td>1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
-<tr><td>1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>9.60</td></tr>
+<tr><td>1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>10.20</td></tr>
 <tr><td>1104. 22 20</td><td>Avoine de mouture, décortiquée, contenant environ 10 % de grains non décortiqués</td><td>pour la fabrication de produits de mouture finis pour l’alimentation humaine</td><td>—.60</td></tr>
 <tr><td>1104. 23 90</td><td>Autres grains travaillés de maïs</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td>1104. 23 90</td><td>Gruaux de maïs, c.-à-d. grains de maïs grossièrement cassés (concassés) dégermés et mondés</td><td>pour la fabrication de corn flakes</td><td>—.20</td></tr>
@@ -499,7 +501,7 @@ Annexe 1*[^t-1]*
 <tr><td>1104. 29 18</td><td>Autres grains travaillés de froment (blé), de seigle, de méteil ou de triticale, mondés ou perlés</td><td>pour usages techniques</td><td>40.—</td></tr>
 <tr><td>1104. 29 22</td><td>Autres grains travaillés de millet</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>––.85</td></tr>
 <tr><td>1104. 29 22</td><td>Autres grains travaillés de millet</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
-<tr><td>1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>6.––</td></tr>
+<tr><td>1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>5.40</td></tr>
 <tr><td>1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td>1104. 29 99</td><td>Autres grains travaillés d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td>1104. 30 89</td><td>Germes de froment (blé)</td><td>pour dégraissage partiel pour l’alimentation humaine</td><td>28.80</td></tr>
@@ -537,10 +539,10 @@ Annexe 1*[^t-1]*
 <tr><td>1508. 10 90 90 18 90 19 90 98 90 99</td><td>Huile d’arachide et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.—</td></tr>
 <tr><td>1508. 10 90 90 18 90 19 90 98 90 99</td><td>Huile d’arachide et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>pour la fabrication industrielle de produits du numéro du tarif 2103.9000</td><td>1.—</td></tr>
 <tr><td>1508. 90 98</td><td>Huile d’arachide et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>pour raffinage subséquent et puis fabrication de graisses et huiles alimentaires (Par raffinage subséquent, on entend une ou plusieurs des étapes suivantes du raffinage: désacidification, décoloration, désodorisation.)</td><td>133.15</td></tr>
-<tr><td>1509. 10 91 10 99 90 91 90 99</td><td>Huile d’olive et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.—</td></tr>
-<tr><td>1509. 10 99 90 99</td><td>Huile d’olive et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>pour la fabrication industrielle de produits du numéro du tarif 2103.9000</td><td>1.—</td></tr>
-<tr><td>1510. 00 91 00 99</td><td>Autres huiles et leurs fractions, obtenues exclusivement à partir d’olives, même raffinées, mais non chimiquement modifiées, et mélanges de ces huiles ou fractions avec des huiles ou fractions du n<sup>o</sup> 1509</td><td>pour usages techniques</td><td>1.—</td></tr>
-<tr><td>1510. 00 91 00 99</td><td>Autres huiles et leurs fractions, obtenues exclusivement à partir d’olives, même raffinées, mais non chimiquement modifiées et mélanges de ces huiles ou fractions avec des huiles ou fractions du n<sup>o</sup> 1509</td><td>pour la fabrication industrielle de produits du numéro du tarif 2103.9000</td><td>1.—</td></tr>
+<tr><td>1509. 20 91 20 99 30 91 30 99 40 91 40 99 90 91 90 99</td><td>Huile d’olive et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.––</td></tr>
+<tr><td>1509. 20 99 30 99 40 99 90 99</td><td>Huile d’olive et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>pour la fabrication industrielle de produits du numéro du tarif 2103.9000</td><td>1.––</td></tr>
+<tr><td>1510. 10 90 90 91 90 99</td><td>Autres huiles et leurs fractions, obtenues exclusivement à partir d’olives, même raffinées, mais non chimiquement modifiées, et mélanges de ces huiles ou fractions avec des huiles ou fractions du n<sup>o</sup> 1509</td><td>pour usages techniques</td><td>1.––</td></tr>
+<tr><td>1510. 10 90 90 91 90 99</td><td>Autres huiles et leurs fractions, obtenues exclusivement à partir d’olives, même raffinées, mais non chimiquement modifiées, et mélanges de ces huiles ou fractions avec des huiles ou fractions du n<sup>o</sup> 1509</td><td>pour la fabrication industrielle de produits du numéro du tarif 2103.9000</td><td>1.––</td></tr>
 <tr><td>1511. 10 90</td><td>Huile de palme, brute</td><td>pour la fabrication de produits du numéro du tarif 2104.1000</td><td>—.10</td></tr>
 <tr><td>1511. 10 90</td><td>Huile de palme, brute</td><td>pour la fabrication de pâtes à tartiner des numéros du tarif 2106.9050, 2106.9073 ou 2106.9074</td><td>6.—</td></tr>
 <tr><td>1511. 10 90 90 18 90 19 90 98 90 99</td><td>Huile de palme et ses fractions, semi‑raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.—</td></tr>
@@ -564,15 +566,15 @@ Annexe 1*[^t-1]*
 <tr><td>1514. 11 90 19 91 19 99 91 90 99 91 99 99</td><td>Huiles de colza, de navette ou de moutarde et leurs fractions, même raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.—</td></tr>
 <tr><td>1514. 11 90 19 91 19 99 91 90 99 91 99 99</td><td>Huiles de colza, de navette ou de moutarde et leurs fractions, même raffinées, mais non chimiquement modifiées</td><td>pour la fabrication industrielle de produits du numéro du tarif 2103.9000</td><td>1.—</td></tr>
 <tr><td>1514. 19 91 99 91</td><td>Huiles de colza, de navette ou de moutarde et leurs fractions, même raffinées, mais non chimiquement modifiées</td><td>pour raffinage subséquent et puis fabrication de graisses et huiles alimentaires (Par raffinage subséquent, on entend une ou plusieurs des étapes suivantes du raffinage: désacidification, décoloration, désodorisation.)</td><td>133.15</td></tr>
-<tr><td>1515. 11 90 19 91 19 99 21 90 29 91 29 99 30 91 30 99 50 19 50 91 50 99 90 13 90 18 90 19 90 28 90 29 90 38 90 39 90 98 90 99</td><td>Autres graisses et huiles végétales (y compris l’huile de jojoba) et leurs fractions, même raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.—</td></tr>
+<tr><td>1515. 11 90 19 91 19 99 21 90 29 91 29 99 30 91 30 99 50 19 50 91 50 99 60 91 60 99 90 13 90 18 90 19 90 28 90 29 90 38 90 39 90 98 90 99</td><td>Autres graisses et huiles végétales ou d’origine microbienne (y compris l’huile de jojoba) et leurs fractions, même raffinées, mais non chimiquement modifiées</td><td>pour usages techniques</td><td>1.––</td></tr>
 <tr><td>1515. 29 91 29 99 50 91 50 99 90 98 90 99</td><td>Graisses et huiles de maïs, sésame et autres huiles végétales et leurs fractions, même raffinées, mais non chimiquement modifiées</td><td>pour la fabrication industrielle de produits du numéro du tarif 2103.9000</td><td>1.—</td></tr>
 <tr><td>1515. 19 91 29 91 30 91 50 91 90 18 90 28 90 38 90 98</td><td>Autres graisses et huiles végétales (y compris l’huile de jojoba) et leurs fractions, même raffinées, mais non chimiquement modifiées</td><td>pour raffinage subséquent et puis fabrication de graisses et huiles alimentaires (Par raffinage subséquent, on entend une ou plusieurs des étapes suivantes du raffinage: désacidification, décoloration, désodorisation.)</td><td>133.15</td></tr>
-<tr><td>1516. 10 91 10 99 20 92 20 93 20 97 20 98</td><td>Graisses et huiles animales ou végétales et leurs fractions, partiellement ou totalement hydrogénées, interestérifiées, réestérifiées ou élaïdinisées, même raffinées, mais non autrement préparées</td><td>pour usages techniques</td><td>1.—</td></tr>
+<tr><td>1516. 10 91 10 99 20 92 20 93 20 97 20 98 30 93 30 99</td><td>Graisses et huiles animales, végétales ou d’origine microbienne et leurs fractions, partiellement ou totalement hydrogénées, interestérifiées, réestérifiées ou élaïdinisées, même raffinées, mais non autrement préparées</td><td>pour usages techniques</td><td>1.––</td></tr>
 <tr><td>1516. 10 91 20 93</td><td>Graisses et huiles animales ou végétales et leurs fractions, autres que les huiles de coco et de palmiste, partiellement ou totalement hydrogénées, interestérifiées, réestérifiées ou élaïdinisées, même raffinées, mais non autrement préparées</td><td>pour raffinage subséquent et puis fabrication de graisses et huiles alimentaires (Par raffinage subséquent, on entend une ou plusieurs des étapes suivantes du raffinage: désacidification, décoloration, désodorisation.)</td><td>132.70</td></tr>
 <tr><td>1516. 10 91 20 93</td><td>Graisses et huiles animales ou végétales et leurs fractions, autres que les huiles de coco et de palmiste, partiellement ou totalement hydrogénées, interestérifiées, réestérifiées ou élaïdinisées, mais non autrement préparées, raffinées Remarque: L’allégement douanier n’est octroyé que si les fractions subissent un procédé de fabrication du fait de leur mélange avec d’autres matières de base et substances. Une simple refonte dans des récipients plus petits ou dans des formes déterminées pour la vente au détail ne suffit pas.</td><td>pour la fabrication de graisses et huiles alimentaires</td><td>137.65</td></tr>
 <tr><td>1516. 10 99 20 98</td><td>Graisses et huiles animales ou végétales et leurs fractions, autres que les huiles de coco et de palmiste, partiellement ou totalement hydrogénées, interestérifiées, réestérifiées ou élaïdinisées, même raffinées, mais non autrement préparées</td><td>pour raffinage subséquent et puis fabrication de graisses et huiles alimentaires (Par raffinage subséquent, on entend une ou plusieurs des étapes suivantes du raffinage: désacidification, décoloration, désodorisation.)</td><td>133.30</td></tr>
 <tr><td>1516. 10 99 20 98</td><td>Graisses et huiles animales ou végétales et leurs fractions, autres que les huiles de coco et de palmiste, partiellement ou totalement hydrogénées, interestérifiées, réestérifiées ou élaïdinisées, mais non autrement préparées, raffinées Remarque: L’allégement douanier n’est octroyé que si les fractions subissent un procédé de fabrication du fait de leur mélange avec d’autres matières de base et substances. Une simple refonte dans des récipients plus petits ou dans des formes déterminées pour la vente au détail ne suffit pas.</td><td>pour la fabrication de graisses et huiles alimentaires</td><td>138.30</td></tr>
-<tr><td>1517. 90 62 90 63 90 67 90 68 90 71 90 79 90 81 90 89 90 91 90 99</td><td>Mélanges ou préparations alimentaires de graisses ou d’huiles animales ou végétales ou de fractions de différentes graisses ou huiles, à l’état liquide</td><td>pour usages techniques</td><td>1.—</td></tr>
+<tr><td>1517. 90 62 90 63 90 67 90 68 90 71 90 79 90 81 90 89 90 91 90 99</td><td>Mélanges ou préparations alimentaires de graisses ou d’huiles animales, végétales ou d’origine microbienne ou de fractions de différentes graisses ou huiles du présent chapitre, à l’état liquide</td><td>pour usages techniques</td><td>1.––</td></tr>
 <tr><td>1518. 00 19</td><td>Mélanges d’huiles végétales non alimentaires</td><td>pour usages techniques</td><td>1.—</td></tr>
 <tr><td>1518. 00 97</td><td>Mélanges non alimentaires de graisses animales</td><td>pour usages techniques</td><td>1.—</td></tr>
 <tr><td>1602. 50 98</td><td>Viande de bœuf, cuite et congelée, en cubes d’une longueur d’arête d’environ 2 cm</td><td>pour la fabrication de soupe goulache</td><td>––.10</td></tr>
