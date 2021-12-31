@@ -3,13 +3,13 @@ canton: BS
 number: RiE 162.110
 title: Personalreglement
 language: de
-version: 2021-07-15
-valid_until: 2021-12-31
-version_adopted: 2021-07-06
+version: 2022-01-01
+valid_until: 2023-09-30
+version_adopted: 2021-12-07
 adopted: 2002-07-16
 in_force: 2002-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5300/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5387/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5300/pdf_file"
 
 Personalreglement | Riehen: Einwohnergemeinde
 
-Vom 16. Juli 2002 (Stand 15. Juli 2021)
+Vom 16. Juli 2002 (Stand 1. Januar 2022)
 
 Der Gemeinderat Riehen
 
@@ -88,6 +88,18 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>4</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter regelt gemeinsam mit der Leitung des Fachbereichs Personal die Aufbewahrung von Personalakten und das Zugriffsrecht in einer Richtlinie.
 
+#### § 5b
+
+**Schutz vor Diskriminierungen und sexuellen Belästigungen**
+
+<sup>1</sup> Alle Mitarbeiterinnen und Mitarbeiter mit einem Arbeitseinsatz bei der Gemeinde Riehen haben ein Recht auf Schutz ihrer persönlichen Integrität am Arbeitsplatz. Diskriminierungen, Mobbing und sexuelle Belästigungen werden von der Arbeitgeberin nicht geduldet.
+
+<sup>2</sup> Die Arbeitgeberin sorgt mit geeigneten Informations-, Schulungs- und Präventionsmassnahmen für ein Arbeitsklima, das Diskriminierungen, Mobbing und sexuelle Belästigungen am Arbeitsplatz nicht aufkommen lässt.
+
+<sup>3</sup> Führungsverantwortliche sind in ihrem Zuständigkeitsbereich für eine diskriminierungs- und belästigungsfreie Arbeitsatmosphäre verantwortlich.
+
+<sup>4</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter regelt in Richtlinien den Schutz der persönlichen Integrität und das interne Verfahren bei Vorfällen im Zusammenhang mit Mobbing oder sexueller Belästigung.
+
 ## II. Anstellung, Stellenwechsel und Beförderung
 
 #### § 6
@@ -130,11 +142,15 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 #### § 9
 
-**Strafregisterauszug**
+**Strafregisterauszüge**
 
-<sup>1</sup> Die Anstellungsinstanz verlangt vor der Anstellung einer Mitarbeiterin oder eines Mitarbeiters einen Auszug aus dem massgeblichen Strafregister.
+<sup>1</sup> Die Anstellungsinstanz verlangt vor der Anstellung einer Mitarbeiterin oder eines Mitarbeiters einen aktuellen Privatauszug aus dem massgeblichen Strafregister.
 
-<sup>2</sup> Auszüge aus den massgeblichen Strafregistern werden während des Arbeitsverhältnisses verlangt, wenn ein begründeter Verdacht auf eine strafbare Handlung besteht oder die Arbeitnehmerin oder der Arbeitnehmer auf zulässige Fragen der Anstellungsinstanz nach Vorstrafen möglicherweise unrichtige Auskünfte erteilt hat.
+<sup>1<sup>bis</sup></sup> Von Stellenbewerberinnen und Stellenbewerbern, die sich für eine Tätigkeit bewerben, die einen regelmässigen Kontakt mit Minderjährigen oder mit anderen besonders schutzbedürftigen Personen umfasst, verlangt die Anstellungsinstanz einen aktuellen Privat- und Sonderprivatauszug aus dem massgeblichen Strafregister. Dies gilt auch im Rahmen eines Funktionswechsels oder bei einer Änderung der bisherigen Funktion.
+
+<sup>2</sup> Privat- und Sonderprivatauszüge werden während des Arbeitsverhältnisses verlangt, wenn ein begründeter Verdacht auf eine strafbare Handlung besteht oder eine Mitarbeiterin oder ein Mitarbeiter auf zulässige Fragen der Anstellungsinstanz nach Vorstrafen möglicherweise unrichtige Auskünfte erteilt hat.
+
+<sup>3</sup> Die Sonderprivatauszüge werden regelmässig überprüft.
 
 #### § 10
 
@@ -783,11 +799,47 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 #### § 58
 
-**Beratung und Ombudsstelle**
+**Beratungsangebote**
 
-<sup>1</sup> Für Fragen gemäss § 24 Personalordnung kann sich eine Mitarbeiterin oder ein Mitarbeiter an die Leitung des Fachbereichs Personal wenden. Entsprechende Anfragen werden vertraulich behandelt. Je nach Fall kann die Leitung des Fachbereichs Personal im Einverständnis mit der ratsuchenden Person auch externe Beraterinnen und Berater beiziehen.
+<sup>1</sup> Der Fachbereich Personal berät die Mitarbeiterinnen und Mitarbeiter und Vorgesetzte bei dienstlichen oder einfachen privaten Fragestellungen. Entsprechende Anfragen werden vertraulich behandelt. Bei Bedarf vermittelt die Leitung Fachbereich Personal externe Fachstellen.
 
-<sup>2</sup> Der Gemeinderat kann zudem eine von der Verwaltung unabhängige Ombudsstelle einrichten. Der Anschluss an eine bestehende Ombudseinrichtung ist möglich.
+<sup>2</sup> Die Arbeitgeberin sorgt ausserdem:
+
+- a) für eine niederschwellige externe Sozialberatung;
+- b) für ein niederschwelliges internes Konfliktberatungsangebot;
+- c) für externe Beratungsangebote im Zusammenhang mit Konflikten, Mobbing oder sexueller Belästigung.
+
+<sup>3</sup> Für die interne Konfliktberatung wählt die Verwaltungsleiterin oder der Verwaltungsleiter aus dem Kreis der Mitarbeitenden eine weibliche und eine männliche Person. Die Konfliktberatungspersonen erhalten eine fachliche Schulung für die interne Konfliktberatung.
+
+<sup>4</sup> Die Beratungen werden vertraulich behandelt.
+
+#### § 58a
+
+**Sexuelle Belästigung**
+
+<sup>1</sup> Von sexueller Belästigung betroffene Personen haben einen Anspruch auf Beratung und Begleitung durch eine externe Vertrauensperson. Die externen Vertrauenspersonen können auch von Vorgesetzten beigezogen werden.
+
+<sup>2</sup> Es stehen mindestens eine weibliche und eine männliche Vertrauensperson zur Verfügung. Es ist zu gewährleisten, dass sich Betroffene an Vertrauenspersonen des gleichen Geschlechts wenden können.
+
+<sup>3</sup> Zu den Aufgaben der externen Vertrauenspersonen gehören insbesondere:
+
+- a) Beratung und Unterstützung der betroffenen Person;
+- b) Ergreifen informeller Schritte auf Wunsch und in Zusammenarbeit mit der betroffenen Person, mit dem Ziel, den sexuellen Belästigungen ein Ende zu setzen;
+- c) Information über das aufsichtsrechtliche Anzeigeverfahren, Aufzeigen der straf- bzw. zivilrechtlichen Möglichkeiten und Darlegung der Voraussetzungen sowie der möglichen Konsequenzen dieser Schritte gegenüber der betroffenen Person.
+
+<sup>4</sup> Aus sexueller Belästigung dürfen der betroffenen Person, sowie Personen, die solche Vorfälle melden oder Beratung und Unterstützung in Anspruch nehmen, keine Nachteile im Arbeitsverhältnis entstehen.
+
+#### § 58b
+
+**Abklärungsverfahren**
+
+<sup>1</sup> Abklärungen im Zusammenhang mit sexueller Belästigung erfolgen durch eine von der Arbeitgeberin eingesetzte externe, unabhängige Untersuchungsperson mit einer juristischen Ausbildung.
+
+<sup>2</sup> Sie ermittelt den Sachverhalt, sobald betroffene Personen bei ihr vorstellig werden, führt das Abklärungsverfahren mit den beteiligten Personen durch, befragt die Vertrauenspersonen und zieht nach Rücksprache mit der Arbeitgeberin weitere Fachpersonen bei.
+
+<sup>3</sup> Je nach Ausgang des Abklärungsverfahrens beantragt sie angemessene Massnahmen bei der Anstellungsinstanz.
+
+<sup>4</sup> Die untersuchende Person wird auch mit der Durchführung des Abklärungsverfahrens beauftragt, wenn Dritte von Mitarbeitenden am Arbeitsort oder Einsatzort sexuell belästigt werden oder wenn Dritte Mitarbeitende am Arbeitsort oder Einsatzort sexuell belästigen. Die Abs. 2 und 3 gelten in diesen Fällen sinngemäss.
 
 #### § 59
 
@@ -805,11 +857,18 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Für den Erlass von Verfügungen gegenüber Mitarbeiterinnen und Mitarbeitern ist die Anstellungsinstanz zuständig. Sie zieht für ihren Entscheid die direkten Vorgesetzten und die Leitung des Fachbereichs Personal bei.
 
-<sup>2</sup> Soweit sich der massgebliche Sachverhalt, die Begehren der Mitarbeiterin oder des Mitarbeiters sowie weitere relevante Vorbringen nicht bereits aus eigener Wahrnehmung ergeben, hört die verfügende Instanz die betroffene Mitarbeiterin oder den betroffenen Mitarbeiter vor Erlass einer Verfügung nochmals ausdrücklich mündlich oder schriftlich an. Bei einer mündlichen Anhörung kann sich die oder der Betroffene von einer Vertrauensperson begleiten oder vertreten lassen.
+<sup>2</sup> Soweit sich der massgebliche Sachverhalt, die Begehren der Mitarbeiterin oder des Mitarbeiters sowie weitere relevante Vorbringen nicht bereits aus eigener Wahrnehmung ergeben, hört die verfügende Instanz die betroffene Mitarbeiterin oder den betroffenen Mitarbeiter vor Erlass einer Verfügung nochmals mündlich oder schriftlich an. Bei einer mündlichen Anhörung kann sich die oder der Betroffene von einer Person ihres Vertrauens begleiten oder vertreten lassen.
 
-<sup>3</sup> Gegen die Verfügung der Anstellungsinstanz kann gemäss § 45 Personalordnung Rekurs an den Gemeinderat ergriffen werden, soweit dieser nicht selbst Anstellungsinstanz ist.
+<sup>3</sup> Bei Verfügungen im Zusammenhang mit sexueller Belästigung werden zusätzlich die beauftragte externe Vertrauensperson und die beauftragte untersuchende Person angehört.
 
-<sup>4</sup> Dem Grundsatz eines raschen und einfachen Verfahrens ist Rechnung zu tragen. Das Verfahren ist kostenlos, ausser bei Mutwilligkeit.
+<sup>4</sup> Mitarbeitende, welche von einer sexuellen Belästigung betroffen sind, können nach Abschluss des Abklärungsverfahrens eine Verfügung verlangen mit der:
+
+- a) eine drohende sexuelle Belästigung verboten oder unterlassen wird;
+- b) eine bestehende sexuelle Belästigung beseitigt wird;
+- c) eine sexuelle Belästigung festgestellt wird, wenn sich diese weiterhin störend auswirkt;
+- d) gegebenenfalls eine Entschädigung festgesetzt wird.
+
+<sup>5</sup> Mitarbeitende, die einer sexuellen Belästigung verdächtigt werden, können nach Abschluss des Abklärungsverfahrens bei ihrer Anstellungsinstanz den Erlass einer Verfügung verlangen, mit der festgestellt wird, dass keine sexuelle Belästigung erfolgt ist.
 
 #### § 61
 
@@ -839,6 +898,18 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 - e) Prozessrisiko.
 
 <sup>2</sup> Über Abfindungen entscheidet in jedem Fall der Gemeinderat. Im übrigen gelten die allgemeinen Finanzkompetenzen.
+
+#### § 62a
+
+**Rechtsmittelverfahren**
+
+<sup>1</sup> Gegen die Verfügung der Anstellungsinstanz kann gemäss § 45 Personalordnung Rekurs bzw. Einsprache an den Gemeinderat ergriffen werden.
+
+<sup>2</sup> Die aufschiebende Wirkung richtet sich nach § 46 Personalordnung.
+
+<sup>3</sup> Bei Verfahren betreffend sexueller Belästigung sind die zuständige Vertrauensperson und die beauftragte untersuchende Person anzuhören. Sie geben eine fachliche Empfehlung ab.
+
+<sup>4</sup> Die von einer sexuellen Belästigung Betroffenen können beantragen, dass im Rahmen einer allfälligen Anhörung auf eine Gegenüberstellung verzichtet wird.
 
 ## X. Orientierung und Mitwirkung
 
