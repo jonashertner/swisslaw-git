@@ -3,20 +3,20 @@ canton: AG
 number: "421.313"
 title: Verordnung über die Volksschule
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-16
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2021-04-07
 adopted: 2012-06-27
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.313"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2975/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3073/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Volksschule
 
-Vom 27.06.2012 (Stand 01.08.2021)
+Vom 27.06.2012 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -34,11 +34,11 @@ beschliesst:
 
 <sup>1</sup> Die für die Einwohnerkontrolle zuständige Behörde meldet bis Ende Januar den Schulleitungen die Personalien der Kinder, die im laufenden Jahr schulpflichtig werden, sowie laufend die Zu- und Wegzüge von schulpflichtigen Kindern und deren Personalien.
 
-<sup>2</sup> Die Eltern sind verpflichtet, ihre schulpflichtigen Kinder am Wohn- beziehungsweise Aufenthaltsort bei der Schulpflege einschreiben zu lassen.
+<sup>2</sup> Die Eltern sind verpflichtet, ihre schulpflichtigen Kinder am Wohn- beziehungsweise Aufenthaltsort bei der Schulleitung einschreiben zu lassen.
 
-<sup>3</sup> Eintritte in eine Privatschule und Austritte sowie Aufnahme und Beendigung einer privaten Schulung vor Beendigung der Schulpflicht sind der Schulpflege mindestens 14 Tage im Voraus zu melden.
+<sup>3</sup> Eintritte in eine Privatschule und Austritte sowie Aufnahme und Beendigung einer privaten Schulung vor Beendigung der Schulpflicht sind der Schulleitung mindestens 14 Tage im Voraus zu melden.
 
-<sup>4</sup> Die Schulpflege hat dem Departement Bildung, Kultur und Sport (BKS) im Zeitpunkt der Aufnahme und der Beendigung der privaten Schulung Meldung zu erstatten.
+<sup>4</sup> Die Schulleitung hat dem Departement Bildung, Kultur und Sport (BKS) im Zeitpunkt der Aufnahme und der Beendigung der privaten Schulung Meldung zu erstatten.
 
 #### § 2
 
@@ -52,9 +52,9 @@ beschliesst:
 
 <sup>1</sup> Bei einem Schulortswechsel sind der Schulleitung des neuen Schulorts die Unterlagen der Schülerin beziehungsweise des Schülers zuzustellen, für welche die Schulen zur Führung und Aufbewahrung verpflichtet sind.
 
-<sup>2</sup> Mit dem Aufnahmeentscheid der Schulpflege am neuen Schulort gehen alle Laufbahnentscheidkompetenzen auf diese über. Vorbehalten bleiben die besonderen Regelungen der Sonderschulgesetzgebung.
+<sup>2</sup> Mit dem Aufnahmeentscheid des Gemeinderats am neuen Schulort gehen alle Laufbahnentscheidkompetenzen auf diesen über. Vorbehalten bleiben die besonderen Regelungen der Sonderschulgesetzgebung.
 
-<sup>3</sup> Schülerinnen und Schüler dürfen nach disziplinarischen Umteilungen nur dann wieder ihrer angestammten Schule zugeteilt werden, wenn die beteiligten Schulpflegen dazu vorgängig eine schriftliche Vereinbarung abgeschlossen haben.
+<sup>3</sup> Schülerinnen und Schüler dürfen nach disziplinarischen Umteilungen nur dann wieder ihrer angestammten Schule zugeteilt werden, wenn die beteiligten Gemeinderäte dazu vorgängig eine schriftliche Vereinbarung abgeschlossen haben.
 
 #### § 4
 
@@ -89,7 +89,7 @@ beschliesst:
 
 **Unterrichtszeiten**
 
-<sup>1</sup> Der Unterricht beginnt in der Regel frühestens um 07.30 Uhr und endet spätestens um 18.00 Uhr, beim freiwilligen Schulsport ausnahmsweise spätestens um 19.00 Uhr. Ausnahmsweise kann die Schulpflege zur Abstimmung auf die Fahrpläne des öffentlichen Verkehrs eine Abweichung von diesen Zeiten um bis zu 20 Minuten beschliessen.
+<sup>1</sup> Der Unterricht beginnt in der Regel frühestens um 07.30 Uhr und endet spätestens um 18.00 Uhr, beim freiwilligen Schulsport ausnahmsweise spätestens um 19.00 Uhr. Ausnahmsweise kann der Gemeinderat zur Abstimmung auf die Fahrpläne des öffentlichen Verkehrs eine Abweichung von diesen Zeiten um bis zu 20 Minuten beschliessen.
 
 <sup>2</sup> Lektionen dauern 45 Minuten. Sie können zu Unterrichtseinheiten zusammengelegt oder in kürzere Sequenzen aufgeteilt werden.
 
@@ -101,7 +101,7 @@ beschliesst:
 
 **Schulanlässe**
 
-<sup>1</sup> Schulreisen und Lagerwochen, Jugendfeste, Sport- und Exkursionstage, Projektwochen und weitere Schulanlässe gelten als Schultage. Ihre Durchführung ist von der Schulpflege oder Schulleitung zu bewilligen und gegenüber den Schülerinnen, Schülern und Eltern rechtzeitig zu kommunizieren.
+<sup>1</sup> Schulreisen und Lagerwochen, Jugendfeste, Sport- und Exkursionstage, Projektwochen und weitere Schulanlässe gelten als Schultage. Ihre Durchführung ist vom Gemeinderat zu bewilligen und gegenüber den Schülerinnen, Schülern und Eltern rechtzeitig zu kommunizieren.
 
 <sup>2</sup> Schulanlässe können an Samstagen durchgeführt werden, insbesondere wenn die Eltern oder die Öffentlichkeit mit einbezogen werden oder zur Durchführung von Projektwochen und Klassenlagern.
 
@@ -117,7 +117,7 @@ beschliesst:
 
 <sup>1</sup> Die gemäss Bundesgesetzgebung und kantonaler Ausführungsgesetzgebung zum Arbeitsgesetz festgelegten Feiertage sind am betreffenden Schulort schulfrei.
 
-<sup>2</sup> Darüber hinaus können die Schulpflegen maximal drei einzelne Tage pro Schuljahr an lokalen Feiertagen, zum Semesterwechsel oder an Brückentagen für schulfrei erklären. Die Tage dürfen entsprechend auf Halbtage aufgeteilt werden.
+<sup>2</sup> Darüber hinaus kann der Gemeinderat maximal drei einzelne Tage pro Schuljahr für schulfrei erklären. Die Tage dürfen entsprechend auf Halbtage aufgeteilt werden.
 
 <sup>3</sup> Das BKS kann gestützt auf die Verordnung über die Weiterbildung der Lehrpersonen (Weiterbildungsverordnung Lehrpersonen) vom 15. November 2006[^9-1] schulfreie Weiterbildungstage bewilligen.
 
@@ -152,13 +152,13 @@ beschliesst:
 - a) Alkohol, Raucherwaren und andere Suchtmittel in die Schulanlagen und an schulische Anlässe mitzubringen und dort zu konsumieren,
 - b) Waffen und Waffenattrappen in die Schulanlagen oder an schulische Anlässe mitzubringen.
 
-<sup>3</sup> Die Schulpflege kann eine Schulordnung erlassen, die weitere allgemeine Weisungen zum Verhalten im Schulhaus, auf dem Schulareal und bei schulischen Anlässen auch ausserhalb der Schule enthält.
+<sup>3</sup> Der Gemeinderat kann eine Schulordnung erlassen, die weitere allgemeine Weisungen zum Verhalten im Schulhaus, auf dem Schulareal und bei schulischen Anlässen auch ausserhalb der Schule enthält.
 
 #### § 13
 
 **Urlaub**
 
-<sup>1</sup> Die Schulpflege beurlaubt auf entsprechendes Gesuch hin Schülerinnen und Schüler vom Unterrichtsbesuch. Sie berücksichtigt dabei einerseits den Grundsatz der Schulpflicht und den ordnungsgemässen Schulbetrieb, andererseits die persönlichen, familiären und schulischen Bedürfnisse der Gesuchstellenden.
+<sup>1</sup> Der Gemeinderat beurlaubt auf entsprechendes Gesuch hin Schülerinnen und Schüler vom Unterrichtsbesuch. Er berücksichtigt dabei einerseits den Grundsatz der Schulpflicht und den ordnungsgemässen Schulbetrieb, andererseits die persönlichen, familiären und schulischen Bedürfnisse der Gesuchstellenden.
 
 <sup>2</sup> Urlaubsgründe sind im Wesentlichen
 
@@ -169,19 +169,19 @@ beschliesst:
 - e) aussergewöhnlicher Förderbedarf von besonderen Begabungen,
 - f) Schnupperlehren und ähnliche Anlässe für die Berufsvorbereitung.
 
-<sup>3</sup> Die Schulpflege kann die Urlaubskompetenz an die Schulleitung oder Lehrperson delegieren. Bei Uneinigkeit im Einzelfall fällt die Schulpflege einen formellen Entscheid.
+<sup>3</sup> …
 
-<sup>4</sup> Auf Gesuche, mit denen ein Urlaub von mehr als 30 Unterrichtstagen beantragt wird, darf nur eingetreten werden, wenn die gesetzlichen Voraussetzungen der privaten Schulung vollumfänglich nachgewiesen sind.
+<sup>4</sup> Auf Gesuche, mit denen ein Urlaub von mehr als 30 Unterrichtstagen beantragt wird, darf nur eingetreten werden, wenn vorab für die betreffende Zeit eine Unterrichtsplanung mit Lerninhalten gemäss dem geltenden Lehrplan vorgelegt wird.
 
 #### § 14
 
 **Dispensation**
 
-<sup>1</sup> Die Schulpflege kann Schülerinnen und Schüler dauerhaft von einzelnen Lektionen dispensieren, wenn deren überdurchschnittliche Sachkompetenz im betreffenden Fach anderweitig ausgewiesen ist oder andere wichtige Gründe vorliegen.
+<sup>1</sup> Der Gemeinderat kann Schülerinnen und Schüler dauerhaft von einzelnen Lektionen dispensieren, wenn deren überdurchschnittliche Sachkompetenz im betreffenden Fach anderweitig ausgewiesen ist oder andere wichtige Gründe vorliegen.
 
-<sup>2</sup> Sie kann auf Gesuch der Eltern deren Kind während des ersten Kindergartenjahrs für maximal einen Unterrichtshalbtag pro Woche dispensieren.
+<sup>2</sup> Er kann auf Gesuch der Eltern deren Kind während des ersten Kindergartenjahrs für maximal einen Unterrichtshalbtag pro Woche dispensieren.
 
-<sup>3</sup> Sie dispensiert Schülerinnen und Schüler, wenn polizeiliche beziehungsweise gesundheitspolizeiliche Gründe es erfordern und Gefahr in Verzug ist. Dispensationen aus disziplinarischen Gründen gemäss Schulgesetz bleiben vorbehalten.
+<sup>3</sup> Er dispensiert Schülerinnen und Schüler, wenn polizeiliche beziehungsweise gesundheitspolizeiliche Gründe es erfordern und Gefahr in Verzug ist. Dispensationen aus disziplinarischen Gründen gemäss Schulgesetz bleiben vorbehalten.
 
 #### § 14a
 
@@ -203,7 +203,7 @@ beschliesst:
 
 **Freier Schulhalbtag**
 
-<sup>1</sup> Die Schulpflege kann bestimmen, dass
+<sup>1</sup> Der Gemeinderat kann bestimmen, dass
 
 - a) die pro Schuljahr anfallenden freien Schulhalbtage gemäss § 38 Abs. 1 des Schulgesetzes zusammengefasst bezogen werden dürfen,
 - b) bei besonderen Schulanlässen oder an Prüfungstagen keine freien Schulhalbtage bezogen werden dürfen.
@@ -214,7 +214,7 @@ beschliesst:
 
 **Schulausschluss**
 
-<sup>1</sup> Die Schulpflege hat dem Departement Bildung, Kultur und Sport im Zeitpunkt eines geplanten Schulausschlusses Meldung zu erstatten und demselben die Akten über die Schülerin beziehungsweise den Schüler zur Einsichtnahme zur Verfügung zu stellen.
+<sup>1</sup> Der Gemeinderat hat dem BKS im Zeitpunkt eines geplanten Schulausschlusses Meldung zu erstatten und demselben die Akten über die Schülerin beziehungsweise den Schüler zur Einsichtnahme zur Verfügung zu stellen.
 
 <sup>2</sup> Der Entscheid über den Schulausschluss muss zusätzlich zu den sich aus der Verwaltungsverfahrensgesetzgebung ergebenden Vorgaben folgende Angaben enthalten:
 
@@ -253,6 +253,18 @@ beschliesst:
 
 <sup>3</sup> Klassenlehrpersonen und Fachlehrpersonen haben sich über Umfang und Verteilung der Hausaufgaben und Prüfungen zu verständigen.
 
+#### § 20a
+
+**Konferenz der Lehrpersonen**
+
+<sup>1</sup> Die Lehrpersonen bringen ihre Anliegen und Anträge zu organisatorischen, pädagogischen und didaktischen Fragestellungen in der Konferenz vor. Ein Mitglied der Schulleitung hat in der Regel den Vorsitz.
+
+<sup>2</sup> Die Konferenz der Lehrpersonen ist bei der Ausarbeitung der Massnahmen gemäss § 2 Abs. 1 der Verordnung über die Qualitätssicherung der Volksschule (V QS) vom 7. April 2021[^20a-1] beteiligt, bespricht zusammen mit der Schulleitung alle weiteren Geschäfte, die für die gesamte Schule von Bedeutung sind und hat ein Antragsrecht an Schulleitung und Gemeinderat.
+
+<sup>3</sup> Die Schulleitung unterbreitet dem Gemeinderat regelmässig die Anliegen der Konferenz der Lehrpersonen. Bei Meinungsdifferenzen zwischen Schulleitung und der Konferenz der Lehrpersonen hat diese das Recht, ihre Anliegen direkt durch eine Vertretung in der Sitzung des Gemeinderats einbringen zu lassen.
+
+[^20a-1]: SAR [401.116](https://gesetzessammlungen.ag.ch/data/401.116/de)
+
 ### 2.4. Eltern
 
 #### § 21
@@ -289,7 +301,7 @@ beschliesst:
 - b) für den Unterricht und für Anlässe wie Schulreisen und Exkursionen ausgeruht, anständig bekleidet und zweckmässig ausgerüstet sind,
 - c) unter geeigneten Bedingungen die Hausaufgaben erledigen können.
 
-<sup>2</sup> Sie unterstützen und verstärken die Bildungs- und Erziehungsbestrebungen der Schule, arbeiten mit den Lehrpersonen, der Schulleitung und der Schulpflege zusammen und verhalten sich kooperativ.
+<sup>2</sup> Sie unterstützen und verstärken die Bildungs- und Erziehungsbestrebungen der Schule, arbeiten mit den Lehrpersonen, der Schulleitung und dem Gemeinderat zusammen und verhalten sich kooperativ.
 
 #### § 25
 
@@ -331,9 +343,9 @@ beschliesst:
 
 #### § 29
 
-**Information der Schulpflege**
+**Information des Gemeinderats**
 
-<sup>1</sup> Die Schulpflege erhält das Gesamtergebnis ihrer Schule und die anonymisierten Gesamtergebnisse aller teilnehmenden Schulen.
+<sup>1</sup> Der Gemeinderat erhält Einsicht in das Gesamtergebnis seiner Schule und die anonymisierten Gesamtergebnisse aller teilnehmenden Schulen.
 
 <sup>2</sup> …
 
@@ -373,7 +385,7 @@ beschliesst:
 
 <sup>2</sup> Es wird den Schülerinnen und Schülern am Ende der obligatorischen Schulzeit abgegeben.
 
-<sup>3</sup> Bei Schülerinnen und Schülern mit besonderen schulischen Bedürfnissen oder einer Behinderung entscheidet die Schulpflege in Berücksichtigung der spezifischen Ausgangslage und der konkreten Umstände über die Ausstellung des Abschlusszertifikats.
+<sup>3</sup> …
 
 #### § 32b
 
@@ -414,7 +426,7 @@ beschliesst:
 
 **Private Schulung**
 
-<sup>1</sup> Der Nachweis des genügenden Unterrichts gegenüber der Schulpflege gilt als erbracht, wenn
+<sup>1</sup> Der Nachweis des genügenden Unterrichts gegenüber dem Gemeinderat gilt als erbracht, wenn
 
 - a) die Bildungsziele jenen der öffentlichen Schule entsprechen,
 - a<sup>bis</sup>) eine Unterrichtsplanung mit Unterrichtszeiten, Lehrmitteln und Lerninhalten erstellt wird,
@@ -428,9 +440,9 @@ beschliesst:
 
 <sup>2</sup> Für den Fremdsprachenunterricht kann ausnahmsweise auf die Voraussetzungen von Absatz 1 lit. e und f verzichtet werden, wenn der Unterricht mittels geeignetem Fernstudium erfolgt, wobei ein entsprechender Vertragsabschluss vorzulegen ist.
 
-<sup>3</sup> Eine durch das BKS beauftragte Person überprüft die Planung und Umsetzung des Unterrichts regelmässig und gibt jeweils eine Einschätzung zum Lernstand jedes Kindes ab, das unterrichtet wird. Erweist sich der Unterricht als ungenügend, beantragt es der Schulpflege die Zuweisung des Kinds oder Jugendlichen in die öffentliche Schule.
+<sup>3</sup> Eine durch das BKS beauftragte Person überprüft die Planung und Umsetzung des Unterrichts regelmässig und gibt jeweils eine Einschätzung zum Lernstand jedes Kindes ab, das unterrichtet wird. Erweist sich der Unterricht als ungenügend, beantragt es dem Gemeinderat die Zuweisung des Kinds oder Jugendlichen in die öffentliche Schule.
 
-<sup>4</sup> Das BKS und die Schulpflege können mit den Eltern die einzelnen Modalitäten der privaten Schulung in einer schriftlichen Vereinbarung festlegen.
+<sup>4</sup> Das BKS und der Gemeinderat können mit den Eltern die einzelnen Modalitäten der privaten Schulung in einer schriftlichen Vereinbarung festlegen.
 
 ## 4.
 
