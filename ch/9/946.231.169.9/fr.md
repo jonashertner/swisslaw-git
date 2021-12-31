@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: "Ordonnance du 12 août 2015 instituant des mesures à l'encontre de la République du Soudan du Sud"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: fr
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20200825-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-532-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République du Soudan du Sud
 
-du 12 août 2015 (Etat le 25 août 2020)
+du 12 août 2015 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -142,9 +142,11 @@ Il peut, pour des personnes physiques visées à l’annexe 2, accorder des exce
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 4.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^5-1].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
+
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -164,7 +166,7 @@ Il peut, pour des personnes physiques visées à l’annexe 2, accorder des exce
 
 <sup>3</sup> Le SECO poursuit et juge les infractions au sens des art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-## Section 3 Reprise automatique de listes, publication et entrée en vigueur****
+## Section 3 Reprise automatique de listes, publication et entrée en vigueur
 
 [^sec3-1]
 
@@ -192,7 +194,7 @@ Le contenu des annexes 1 et 2 n’est publié ni au Recueil officiel du droit f�
 
 La présente ordonnance entre en vigueur le 12 août 2015 à 18 heures.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, al. 1, let. a, 4, al. 1 et 2, 8 et 8*a*)
 
@@ -208,10 +210,13 @@ Remarque
 [^annex1-lvlu1-1]: Les listes peuvent être consultées sur Internet, à l’adresse suivante: www.un.org/fr/sc &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la République du Soudan du Sud &gt; Matériaux relatifs à la liste de sanctions.
 [^annex1-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée des listes peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, al. 1, let. a, 4, al. 1 et 3, et 8*a*)
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit et entreprises et entités visées par les sanctions financières
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour selon le n. I de l’O du DATEC du 2 aout 2018, en vigueur depuis le 3 août 2018 à 18 heures ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)). Le texte de l’annexe n'est pas publié au RO. Il peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex2-lvlu1-1]
+
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 28 mars 2018 ([RO 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Mise à jour selon le n. I de l’O du DATEC du 2 aout 2018, en vigueur depuis le 3 août 2018 à 18 heures ([RO 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)).
+[^annex2-lvlu1-1]: Le texte de l’annexe n’est pas publié au RO. Il peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.

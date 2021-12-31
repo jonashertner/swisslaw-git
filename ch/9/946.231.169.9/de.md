@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Verordnung vom 12. August 2015 über Massnahmen gegenüber der Republik Südsudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: de
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20200825-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-532-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Republik Südsudan
 
-vom 12. August 2015 (Stand am 25. August 2020)
+vom 12. August 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -142,9 +142,11 @@ Es kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 4.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^5-1].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
+
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -164,7 +166,7 @@ Es kann für natürliche Personen nach Anhang 2 Ausnahmen gewähren:
 
 <sup>3</sup> Verstösse nach den Artikeln 9 und 10 EmbG werden vom SECO verfolgt und beurteilt; dieses kann Beschlagnahmungen oder Einziehungen anordnen.
 
-## 3. Abschnitt: Automatische Übernahme von Listen, Veröffentlichung und Inkrafttreten****
+## 3. Abschnitt: Automatische Übernahme von Listen, Veröffentlichung und Inkrafttreten
 
 [^sec3-1]
 
@@ -192,7 +194,7 @@ Die Inhalte der Anhänge 1 und 2 werden weder in der Amtlichen Sammlung des Bund
 
 Diese Verordnung tritt am 12. August 2015 um 18.00 Uhr in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 1 Bst. a, Art. 4 Abs. 1 und 2 sowie Art. 8 und 8*a*)
 
@@ -209,10 +211,13 @@ Anmerkung
 [^annex1-lvlu1-1]: Die Listen sind im Internet unter folgender Adresse abrufbar: [www.un.org/en/sc/](https://www.un.org/sc/suborg/en/sanctions/2206/materials) &gt; Subsidiary Organs &gt; Sanctions &gt; South Sudan Sanctions Committee &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Abs. 1 Bst. a, Art. 4 Abs. 1 und 3 sowie Art. 8*a*)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 28. März 2018 ([AS 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Bereinigt gemäss Ziff. I der V des UVEK vom 2. Aug. 2018, in Kraft seit 3. Aug. 2018 um 18 Uhr ([AS 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)). Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex2-lvlu1-1]
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 28. März 2018 ([AS 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Bereinigt gemäss Ziff. I der V des UVEK vom 2. Aug. 2018, in Kraft seit 3. Aug. 2018 um 18 Uhr ([AS 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)).
+[^annex2-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.

@@ -3,18 +3,18 @@ sr: "946.231.169.9"
 title: Ordinanza del 12 agosto 2015 che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/532"
 language: it
-version: 2020-08-25
+version: 2022-01-01
 adopted: 2015-08-12
 in_force: 2015-08-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20200825-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20200825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/532/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-532-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/532/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica del Sudan del Sud
 
-del 12 agosto 2015 (Stato 25 agosto 2020) (Stato 25 agosto 2020)
+del 12 agosto 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -142,9 +142,11 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 4.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^5-1].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
+
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -164,7 +166,7 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>3</sup> Le infrazioni di cui agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; essa può ordinare sequestri e confische.
 
-## Sezione 3: Recepimento automatico di liste, pubblicazione ed entrata in vigore****
+## Sezione 3: Recepimento automatico di liste, pubblicazione ed entrata in vigore
 
 [^sec3-1]
 
@@ -192,7 +194,7 @@ Il contenuto degli allegati 1 e 2 non è pubblicato né nella Raccolta ufficiale
 
 La presente ordinanza entra in vigore il 12 agosto 2015 alle ore 18.00.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 1 lett. a, 4 cpv. 1 e 2, 8 e 8*a*)
 
@@ -208,10 +210,13 @@ Allegato 1*[^t-1]*
 [^annex1-lvlu1-1]: Le liste sono consultabili al seguente indirizzo Internet: www.un.org/en/sc/ &gt; Subsidiary Organs &gt; Sanctions &gt; South Sudan Sanctions Committee &gt; Sanctions List Materials.
 [^annex1-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 cpv. 1 lett. a, 4 cpv. 1 e 3, e 8*a*)
 
-## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziariee.
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziarie
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Aggiornato dal n. I dell’O del DFEFR del 2 ago. 2018, in vigore dal 3 ago. 2018 alle ore 18.00 ([RU 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)). Il testo dell’all. non è pubblicato nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^annex2-lvlu1-1]
+
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 28 mar. 2018 ([RU 2018 1213](https://fedlex.data.admin.ch/eli/oc/2018/190)). Aggiornato dal n. I dell’O del DFEFR del 2 ago. 2018, in vigore dal 3 ago. 2018 alle ore 18.00 ([RU 2018 2847](https://fedlex.data.admin.ch/eli/oc/2018/436)).
+[^annex2-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
