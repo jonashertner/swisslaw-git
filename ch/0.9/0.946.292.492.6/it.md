@@ -3,11 +3,11 @@ sr: "0.946.292.492.6"
 title: Accordo del 16 gennaio 2017 tra il Consiglio federale svizzero e il Governo della Repubblica popolare Cinese sul reciproco riconoscimento del programma per operatori economici autorizzati in Svizzera e del programma «Enterprise Credit Management» in Cina
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/500"
 language: it
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2017-01-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/500/20170901/it/xml/fedlex-data-admin-ch-eli-cc-2017-500-20170901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/500/20170901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/500/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-500-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/500/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2017** 4251
 
 *Traduzione*
 
-Concluso a Berna il 16 gennaio 2017
+Concluso a Berna il 16 gennaio 2017 Entrato in vigore mediante scambio di note il 1° settembre 2017
 
-Entrato in vigore mediante scambio di note il 1° settembre 2017
-
-(Stato 1° settembre 2017)
+(Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -71,7 +69,9 @@ Il presente Accordo si applica ai seguenti programmi ed entità:
 ## 3. Reciproco riconoscimento
 
 - 3\.1 I programmi della Svizzera e della Cina sono reciprocamente riconosciuti compatibili ed equivalenti. Le qualifiche corrispondenti concesse ai partecipanti al programma sono reciprocamente accettate.
-- 3\.2 L’applicazione del presente Accordo compete all’Amministrazione federale delle dogane della Svizzera e all’Amministrazione generale delle dogane della Cina (di seguito «autorità doganali»).
+- 3\.2 L’applicazione del presente Accordo compete all’Amministrazione federale delle dogane[^lvl3-1] della Svizzera e all’Amministrazione generale delle dogane della Cina (di seguito «autorità doganali»).
+
+[^lvl3-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## 4. Compatibilità
 

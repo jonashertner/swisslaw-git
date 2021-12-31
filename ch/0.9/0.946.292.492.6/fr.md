@@ -3,11 +3,11 @@ sr: "0.946.292.492.6"
 title: Accord du 16 janvier 2017 entre le Conseil fédéral suisse et le Gouvernement de la République populaire de Chine sur la reconnaissance mutuelle du programme suisse relatif aux opérateurs économiques agréés et du programme chinois relatif à la gestion du crédit des entreprises
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/500"
 language: fr
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2017-01-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/500/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-500-20170901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/500/20170901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/500/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-500-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/500/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,31 +18,29 @@ RO **2017** 4251
 
 *Traduction*
 
-Conclu à Berne le 16 janvier 2017
+Conclu à Berne le 16 janvier 2017 Entré en vigueur par échange de notes le 1<sup>er</sup> septembre 2017
 
-Entré en vigueur par échange de notes le 1<sup>er</sup> septembre 2017
-
-(Etat le 1<sup>er</sup> septembre 2017)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse, d’une part, et le Gouvernement de la République populaire de Chine, d’autre part,
 
 ci-après dénommées «la Suisse» et «la Chine» et, ensemble, les Parties contractantes»,
 
-considérant l’accord de libre-échange du 6 juillet 2013 entre la Confédération suisse et la République populaire de Chine[^ingress-1];
+considérant l’accord de libre-échange du 6 juillet 2013 entre la Confédération suisse et la République populaire de Chine[^ingress-1],
 
-affirmant l’engagement de la Suisse et de la Chine visant à faciliter les échanges et à simplifier les exigences et les formalités concernant la mainlevée et le dédouanement rapides des marchandises;
+affirmant l’engagement de la Suisse et de la Chine visant à faciliter les échanges et à simplifier les exigences et les formalités concernant la mainlevée et le dédouanement rapides des marchandises,
 
-considérant que les Parties contractantes sont déterminées à améliorer la sécurité dans les échanges de marchandises entrant ou sortant de leur territoire sans entraver la fluidité de ces échanges;
+considérant que les Parties contractantes sont déterminées à améliorer la sécurité dans les échanges de marchandises entrant ou sortant de leur territoire sans entraver la fluidité de ces échanges,
 
-considérant que la sécurité et la sûreté, de même que la facilitation de la chaîne logistique du commerce international, peuvent être considérablement améliorées par la reconnaissance mutuelle de leurs programmes respectifs relatifs aux opérateurs économiques agréés;
+considérant que la sécurité et la sûreté, de même que la facilitation de la chaîne logistique du commerce international, peuvent être considérablement améliorées par la reconnaissance mutuelle de leurs programmes respectifs relatifs aux opérateurs économiques agréés,
 
-considérant qu’une évaluation conjointe a confirmé que le programme suisse relatif aux opérateurs économiques agréés (Authorised Economic Operator, AEO) et le programme chinois de mesures provisoires pour la gestion du crédit des entreprises (Interim Measures on Enterprise Credit Management, IMECM) sont des initiatives en matière de sécurité et de la mise en conformité propres à renforcer la sécurité des chaînes logistiques;
+considérant qu’une évaluation conjointe a confirmé que le programme suisse relatif aux opérateurs économiques agréés (Authorised Economic Operator, AEO) et le programme chinois de mesures provisoires pour la gestion du crédit des entreprises (Interim Measures on Enterprise Credit Management, IMECM) sont des initiatives en matière de sécurité et de la mise en conformité propres à renforcer la sécurité des chaînes logistiques,
 
-reconnaissant que les programmes se fondent sur des normes de sécurité reconnues au niveau international et promues par le cadre de normes SAFE visant à sécuriser et à faciliter le commerce mondial et adopté par l’Organisation mondiale des douanes;
+reconnaissant que les programmes se fondent sur des normes de sécurité reconnues au niveau international et promues par le cadre de normes SAFE visant à sécuriser et à faciliter le commerce mondial et adopté par l’Organisation mondiale des douanes,
 
-reconnaissant que le programme AEO de la Suisse et le programme IMECM de la Chine constituent des initiatives en faveur de la sécurité et de la mise en conformité, et qu’une évaluation conjointe a permis de conclure que leurs normes de qualification à des fins de sécurité et de sûreté étaient compatibles et conduisaient à des résultats équivalents;
+reconnaissant que le programme AEO de la Suisse et le programme IMECM de la Chine constituent des initiatives en faveur de la sécurité et de la mise en conformité, et qu’une évaluation conjointe a permis de conclure que leurs normes de qualification à des fins de sécurité et de sûreté étaient compatibles et conduisaient à des résultats équivalents,
 
-considérant que la reconnaissance mutuelle permet aux Parties contractantes d’accorder le bénéfice de facilités aux opérateurs économiques qui ont investi dans la mise en conformité et dans la sécurité de la chaîne logistique et ont été certifiés dans le cadre de leurs programmes respectifs;
+considérant que la reconnaissance mutuelle permet aux Parties contractantes d’accorder le bénéfice de facilités aux opérateurs économiques qui ont investi dans la mise en conformité et dans la sécurité de la chaîne logistique et ont été certifiés dans le cadre de leurs programmes respectifs,
 
 reconnaissant la nature spécialisée aussi bien des processus, des procédures et des mécanismes de gestion des frontières que de la législation régissant la gestion des programmes des Parties contractantes,
 
@@ -65,7 +63,9 @@ Le présent accord s’applique aux programmes et aux entités suivants:
 ## 3. Reconnaissance mutuelle
 
 - 3\.1 Les programmes de la Suisse et de la Chine sont mutuellement reconnus compatibles et équivalents. Les statuts correspondants accordés aux membres du programme sont mutuellement acceptés.
-- 3\.2 L’Administration fédérale des douanes de Suisse et l’Administration générale des douanes de la République populaire de Chine (ci-après dénommées les «autorités douanières») sont responsables de la mise en œuvre du présent accord.
+- 3\.2 L’Administration fédérale des douanes[^lvl3-1] de Suisse et l’Administration générale des douanes de la République populaire de Chine (ci-après dénommées les «autorités douanières») sont responsables de la mise en œuvre du présent accord.
+
+[^lvl3-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## 4. Compatibilité
 

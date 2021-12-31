@@ -3,11 +3,11 @@ sr: "0.946.292.492.6"
 title: Abkommen vom 16. Januar 2017 zwischen dem Schweizerischen Bundesrat und der Regierung der Volksrepublik China über die gegenseitige Anerkennung des Programms für zugelassene Wirtschaftsbeteiligte in der Schweiz und des Programms «Enterprise Credit Management» in China
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/500"
 language: de
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2017-01-16
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/500/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2017-500-20170901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/500/20170901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/500/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-500-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/500/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen in Bern am 16. Januar 2017
 
 In Kraft getreten durch Notenaustausch am 1. September 2017
 
-(Stand am 1. September 2017)
+(Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -71,7 +71,9 @@ Dieses Abkommen betrifft die folgenden Programme und Einheiten:
 ## 3. Gegenseitige Anerkennung
 
 - 3\.1 Hiermit wird gegenseitig anerkannt, dass die Programme der Schweiz und Chinas miteinander vereinbar und gleichwertig sind. Die dementsprechend zuerkannten Einstufungen als Programmteilnehmer werden gegenseitig akzeptiert.
-- 3\.2 Für die Durchführung dieses Abkommens sind die Eidgenössische Zollverwaltung und die Allgemeine Zollverwaltung der Volksrepublik China (nachstehend «Zollbehörden» genannt) zuständig.
+- 3\.2 Für die Durchführung dieses Abkommens sind die Eidgenössische Zollverwaltung[^lvl3-1] und die Allgemeine Zollverwaltung der Volksrepublik China (nachstehend «Zollbehörden» genannt) zuständig.
+
+[^lvl3-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## 4. Vereinbarkeit
 
