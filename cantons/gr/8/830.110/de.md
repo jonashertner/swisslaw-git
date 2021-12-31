@@ -2,24 +2,24 @@
 canton: GR
 number: "830.110"
 title: Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Graubünden
-short: "VO zum Gebäudeversicherungsgesetz, VOzGebVG"
+short: "Verordnung zum Gebäudeversicherungsgesetz, VOzGebVG"
 language: de
-version: 2021-01-01
-corrected: 2020-04-01
-version_adopted: 2020-03-10
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-22
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3024/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3171/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Graubünden
 
-(VO zum Gebäudeversicherungsgesetz, VOzGebVG)
+(Verordnung zum Gebäudeversicherungsgesetz, VOzGebVG)
 
-Vom 26.10.2010 (Stand 01.01.2021)
+Vom 26.10.2010 (Stand 01.01.2022)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -225,31 +225,15 @@ von der Regierung erlassen am 26. Oktober 2010
 
 #### Art. 16
 
-**Gebäudeklassen 1. Einteilung**
-
-<sup>1</sup> Die Gebäude werden im Rahmen der amtlichen Bewertung hinsichtlich des Schadenrisikos in die Gebäudeklassen A oder B eingeteilt.
-
-- a) …
-- b) …
-- c) …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 17
 
-**2. Gebäudeklasse A**
-
-<sup>1</sup> Zur Gebäudeklasse A gehören alle Gebäude, deren tragende Umfassungswände zu maximal einem Drittel brennbar sind.
+**…**
 
 #### Art. 18
 
-**3. Gebäudeklasse B**
-
-<sup>1</sup> Zur Gebäudeklasse B gehören alle übrigen Gebäude.
-
-<sup>2</sup> …
+**…**
 
 #### Art. 19
 
@@ -277,10 +261,10 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **2. Grundprämie**
 
-<sup>1</sup> Die Grundprämie beträgt je tausend Franken Versicherungssumme:
+<sup>1</sup> Die Grundprämie beträgt 26 Rappen je tausend Franken Versicherungssumme.
 
-- a) für die Gebäudeklasse A: 28 Rappen
-- b) für die Gebäudeklasse B: 48 Rappen
+- a) …
+- b) …
 - c) …
 
 <sup>2</sup> In der Grundprämie ist eine Präventionsabgabe von neun Rappen je tausend Franken Versicherungssumme enthalten.
@@ -385,7 +369,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Übergangsrecht**
 
-<sup>1</sup> Die auf Grund der bisherigen Ausführungsbestimmungen erfolgte Einteilung der Gebäude in Gebäudeklassen und die Belegung der Gebäude mit einer Elementarrisikoprämie gelten bis zu einer Risikoneubeurteilung durch die Gebäudeversicherung.
+<sup>1</sup> Die auf Grund der bisherigen Ausführungsbestimmungen erfolgte Belegung der Gebäude mit einer Elementarrisikoprämie gilt bis zu einer Risikoneubeurteilung durch die Gebäudeversicherung.
 
 #### Art. 34a
 

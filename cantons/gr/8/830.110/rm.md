@@ -4,13 +4,13 @@ number: "830.110"
 title: "Ordinaziun tar la lescha davart l'assicuranza d'edifizis dal chantun Grischun"
 short: "ordinaziun tar la lescha davart l'assicuranza d'edifizis, OAE"
 language: rm
-version: 2021-01-01
-corrected: 2020-04-01
-version_adopted: 2020-03-10
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-22
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3024/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3171/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3024/pdf_file"
 
 (ordinaziun tar la lescha davart l'assicuranza d'edifizis, OAE)
 
-dals 26-10-2010 (versiun dals 01-01-2021)
+dals 26-10-2010 (versiun dals 01-01-2022)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1],
 
@@ -225,31 +225,15 @@ relaschada da la regenza ils 26 d'october 2010
 
 #### Art. 16
 
-**Classas d'edifizis 1. divisiun**
-
-<sup>1</sup> En il rom da la valitaziun uffiziala vegnan ils edifizis dividids areguard il privel da donns en las classas d'edifizis A u B.
-
-- a) …
-- b) …
-- c) …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 17
 
-**2. classa d'edifizis A**
-
-<sup>1</sup> Tar la classa d'edifizis A tutgan tut ils edifizis, nua che las paraids da sustegn exteriuras da l'edifizi èn combustiblas per maximalmain in terz.
+**…**
 
 #### Art. 18
 
-**3. classa d'edifizis B**
-
-<sup>1</sup> Tar la classa d'edifizis B tutgan tut ils ulteriurs edifizis.
-
-<sup>2</sup> …
+**…**
 
 #### Art. 19
 
@@ -277,10 +261,10 @@ relaschada da la regenza ils 26 d'october 2010
 
 **2. premia da basa**
 
-<sup>1</sup> La premia da basa importa per mintga 1000 francs da la summa d'assicuranza:
+<sup>1</sup> La premia da basa importa 26 raps per mintga 1000 francs da la summa d'assicuranza.
 
-- a) per la classa d'edifizis A: 28 raps
-- b) per la classa d'edifizis B: 48 raps
+- a) …
+- b) …
 - c) …
 
 <sup>2</sup> En la premia da basa è cuntegnida ina taxa da prevenziun da 9 raps per mintga 1000 francs da la summa d'assicuranza.
@@ -385,7 +369,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Dretg transitoric**
 
-<sup>1</sup> La divisiun dals edifizis en classas d'edifizis tenor las disposiziuns executivas vertentas e l'incassament d'ina premia da ristga elementara per edifizi valan fin che l'assicuranza d'edifizis fa in nov giudicament da las ristgas.
+<sup>1</sup> L'incassament d'ina premia da ristga elementara per edifizi tenor las disposiziuns executivas vertentas vala fin che l'assicuranza d'edifizis fa in nov giudicament da las ristgas.
 
 #### Art. 34a
 

@@ -4,13 +4,13 @@ number: "830.110"
 title: "Ordinanza relativa alla legge concernente l'Assicurazione fabbricati nel Cantone dei Grigioni"
 short: "O relativa alla legge sull'Assicurazione fabbricati, OLAFab"
 language: it
-version: 2021-01-01
-corrected: 2020-04-01
-version_adopted: 2020-03-10
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-22
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3024/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3171/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3024/pdf_file"
 
 (O relativa alla legge sull'Assicurazione fabbricati, OLAFab)
 
-del 26.10.2010 (stato 01.01.2021)
+del 26.10.2010 (stato 01.01.2022)
 
 emanata dal Governo il 26 ottobre 2010
 
@@ -225,31 +225,15 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 16
 
-**Classi dei fabbricati 1. suddivisione**
-
-<sup>1</sup> Per quanto riguarda il rischio di danni, nell'ambito della valutazione ufficiale i fabbricati vengono attribuiti alla classe A o B.
-
-- a) …
-- b) …
-- c) …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 17
 
-**2. classe dei fabbricati A**
-
-<sup>1</sup> Fanno parte della classe A tutti i fabbricati le cui pareti perimetrali portanti sono combustibili per al massimo un terzo.
+**…**
 
 #### Art. 18
 
-**3. classe dei fabbricati B**
-
-<sup>1</sup> Nella classe B rientrano tutti gli altri fabbricati.
-
-<sup>2</sup> …
+**…**
 
 #### Art. 19
 
@@ -277,10 +261,10 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **2. premio base**
 
-<sup>1</sup> Il premio base ammonta per ogni mille franchi di somma assicurata:
+<sup>1</sup> Il premio base ammonta a 26 centesimi per ogni mille franchi di somma assicurata.
 
-- a) per la classe dei fabbricati A: a 28 centesimi
-- b) per la classe dei fabbricati B: a 48 centesimi
+- a) …
+- b) …
 - c) …
 
 <sup>2</sup> Nel premio base è contenuta una tassa di prevenzione di nove centesimi ogni mille franchi di somma assicurata.
@@ -385,7 +369,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Diritto transitorio**
 
-<sup>1</sup> La suddivisione dei fabbricati in classi di fabbricati avvenuta sulla base delle disposizioni esecutive di diritto previgente e l'attribuzione di un premio per il rischio elementare ai fabbricati rimangono valide fino a nuova valutazione del rischio da parte dell'Assicurazione fabbricati.
+<sup>1</sup> L'attribuzione di un premio per il rischio elementare ai fabbricati avvenuta sulla base delle disposizioni esecutive di diritto previgente rimane valida fino a nuova valutazione del rischio da parte dell'Assicurazione fabbricati.
 
 #### Art. 34a
 
