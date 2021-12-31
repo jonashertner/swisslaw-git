@@ -4,11 +4,11 @@ title: Legge federale del 16 marzo 2012 sulla circolazione delle specie di fauna
 short: LF-CITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: it
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20170501/it/xml/fedlex-data-admin-ch-eli-cc-2013-600-20170501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20170501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20170501/it"
 
 (LF-CITES)
 
-del 16 marzo 2012 (Stato 1° maggio 2017)
+del 16 marzo 2012 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -362,22 +362,23 @@ Nei casi gravi, la pena è una pena detentiva sino a tre anni o una pena pecunia
 
 **Azione penale**
 
-<sup>1</sup> L’USAV persegue e giudica le infrazioni di cui all’articolo 26. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^27-1] sulle dogane o alla legge del 12 giugno 2009[^27-2] sull’IVA, le infrazioni sono perseguite e giudicate dall’Amministrazione federale delle dogane. La procedura è retta dalla legge federale del 22 marzo 1974[^27-3] sul diritto penale amministrativo.
+<sup>1</sup> L’USAV persegue e giudica le infrazioni di cui all’articolo 26. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^27-1] sulle dogane o alla legge del 12 giugno 2009[^27-2] sull’IVA, le infrazioni sono perseguite e giudicate dall’Ufficio federale della dogana e della sicurezza dei confini. La procedura è retta dalla legge federale del 22 marzo 1974[^27-3] sul diritto penale amministrativo.[^27-4]
 
-<sup>2</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 1 e un’infrazione alla legge federale del 16 dicembre 2005[^27-4] sulla protezione degli animali, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^27-5] sulle derrate alimentari, alla legge del 29 aprile 1998[^27-6] sull’agricoltura, alla legge del 1° luglio 1966[^27-7] sulle epizoozie, alla legge del 20 giugno 1986[^27-8] sulla caccia o alla legge federale del 21 giugno 1991[^27-9] sulla pesca, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^27-10]
+<sup>2</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 1 e un’infrazione alla legge federale del 16 dicembre 2005[^27-5] sulla protezione degli animali, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^27-6] sulle derrate alimentari, alla legge del 29 aprile 1998[^27-7] sull’agricoltura, alla legge del 1° luglio 1966[^27-8] sulle epizoozie, alla legge del 20 giugno 1986[^27-9] sulla caccia o alla legge federale del 21 giugno 1991[^27-10] sulla pesca, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^27-11]
 
 <sup>3</sup> L’azione penale per le contravvenzioni si prescrive in cinque anni; la pena per una contravvenzione in quattro anni.
 
 [^27-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^27-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^27-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^27-4]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^27-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^27-6]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^27-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^27-8]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^27-9]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^27-10]: Nuovo testo giusta il n. II 1 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^27-4]: Nuovo testo giusta il n. I 10 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^27-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^27-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^27-7]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^27-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^27-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^27-11]: Nuovo testo giusta il n. II 1 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Sezione 8: Disposizioni finali
 
@@ -403,7 +404,7 @@ Il coordinamento di disposizioni di altri atti normativi con la presente legge �
 
 Data dell’entrata in vigore:[^30-1] 1° ottobre 2013
 
-[^30-1]: DCF del 4 set. 2013
+[^30-1]: DCF del 4 set. 2013.
 
 Allegato 1
 
@@ -413,7 +414,7 @@ Allegato 1
 
 Le leggi federali qui appresso sono modificate come segue:
 
-…[^annex1-lvlu1-1]
+...[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600).
 
@@ -427,6 +428,6 @@ Allegato 2
 
 [^annex2-lvlu1-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-2]: La mod. può essere consultata alla [RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600).

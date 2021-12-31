@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 mars 2012 sur la circulation des espèces de faune 
 short: LCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: fr
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-2013-600-20170501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20170501/fr"
 
 (Loi sur les espèces protégées, LCITES)
 
-du 16 mars 2012 (Etat le 1<sup>er</sup> mai 2017)
+du 16 mars 2012 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -181,7 +181,7 @@ En cas d’infraction prouvée à la CITES et sur recommandation des organes de 
 
 <sup>1</sup> Les organes de contrôle peuvent vérifier la provenance et l’origine des spécimens d’espèces protégées et la légalité de leur circulation.
 
-<sup>2</sup> A cette fin, ils ont accès, avec ou sans préavis, à tous les locaux et à toutes les installations qui abritent ces spécimens ou qui sont soupçonnés d’en abriter.
+<sup>2</sup> À cette fin, ils ont accès, avec ou sans préavis, à tous les locaux et à toutes les installations qui abritent ces spécimens ou qui sont soupçonnés d’en abriter.
 
 <sup>3</sup> Ils peuvent consulter les registres des spécimens et prélever des échantillons afin d’identifier les spécimens.
 
@@ -271,7 +271,7 @@ Les autorités fédérales chargées de l’exécution de la présente loi et de
 
 <sup>2</sup> Le comité d’experts est l’équivalent de l’autorité scientifique définie dans la CITES.
 
-## Section 4 Emoluments et coûts
+## Section 4 Émoluments et coûts
 
 #### Art. 20
 
@@ -362,22 +362,23 @@ Dans les cas graves, la peine est une peine privative de liberté de trois ans a
 
 **Poursuite pénale**
 
-<sup>1</sup> L’OSAV poursuit et juge les infractions visées à l’art. 26. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^27-1] ou à la loi du 12 juin 2009 sur la TVA[^27-2], l’Administration fédérale des douanes poursuit et juge ces infractions. La procédure est régie par la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^27-3].
+<sup>1</sup> L’OSAV poursuit et juge les infractions visées à l’art. 26. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^27-1] ou à la loi du 12 juin 2009 sur la TVA[^27-2], l’Office fédéral de la douane et de la sécurité des frontières poursuit et juge ces infractions. La procédure est régie par la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^27-3].[^27-4]
 
-<sup>2</sup> Si un acte constitue à la fois une infraction visée à l’al. 1 et une infraction à la loi du 16 décembre 2005 sur la protection des animaux[^27-4], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^27-5], à la loi du 29 avril 1998 sur l’agriculture[^27-6], à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^27-7], à la loi du 20 juin 1986 sur la chasse[^27-8] ou à la loi fédérale du 21 juin 1991 sur la pêche[^27-9] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^27-10]
+<sup>2</sup> Si un acte constitue à la fois une infraction visée à l’al. 1 et une infraction à la loi du 16 décembre 2005 sur la protection des animaux[^27-5], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^27-6], à la loi du 29 avril 1998 sur l’agriculture[^27-7], à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^27-8], à la loi du 20 juin 1986 sur la chasse[^27-9] ou à la loi fédérale du 21 juin 1991 sur la pêche[^27-10] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^27-11]
 
 <sup>3</sup> La poursuite pénale d’une contravention se prescrit par cinq ans, la peine pour une contravention, par quatre ans.
 
 [^27-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^27-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^27-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^27-4]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^27-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^27-6]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^27-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^27-8]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^27-9]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^27-10]: Nouvelle teneur selon le ch. I 1 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^27-4]: Nouvelle teneur selon le ch. I 10 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^27-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^27-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^27-7]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^27-9]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^27-10]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^27-11]: Nouvelle teneur selon le ch. I 1 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Section 8 Dispositions finales
 
@@ -413,7 +414,7 @@ Annexe 1
 
 Les lois fédérales mentionnées ci-après sont modifiées comme suit:
 
-…[^annex1-lvlu1-1]
+...[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600).
 
@@ -427,6 +428,6 @@ Annexe 2
 
 [^annex2-lvlu1-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-2]: La mod. peut être consultée au [RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600).

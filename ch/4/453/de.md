@@ -4,11 +4,11 @@ title: Bundesgesetz vom 16. März 2012 über den Verkehr mit Tieren und Pflanzen
 short: BGCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/600"
 language: de
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2012-03-16
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20170501/de/xml/fedlex-data-admin-ch-eli-cc-2013-600-20170501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/600/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-600-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/600/20170501/de"
 
 (BGCITES)
 
-vom 16. März 2012 (Stand am 1. Mai 2017)
+vom 16. März 2012 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -362,22 +362,23 @@ In schweren Fällen ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Gelds
 
 **Strafverfolgung**
 
-<sup>1</sup> Das BLV verfolgt und beurteilt Widerhandlungen nach Artikel 26. Liegt gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^27-1] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^27-2] vor, so verfolgt und beurteilt die Eidgenössische Zollverwaltung die Widerhandlungen. Das Verfahren richtet sich nach dem Bundesgesetz vom 22. März 1974[^27-3] über das Verwaltungsstrafrecht.
+<sup>1</sup> Das BLV verfolgt und beurteilt Widerhandlungen nach Artikel 26. Liegt gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^27-1] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^27-2] vor, so verfolgt und beurteilt das Bundesamt für Zoll und Grenzsicherheit die Widerhandlungen. Das Verfahren richtet sich nach dem Bundesgesetz vom 22. März 1974[^27-3] über das Verwaltungsstrafrecht.[^27-4]
 
-<sup>2</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 1 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Tierschutzgesetz vom 16. Dezember 2005[^27-4], das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^27-5], das Landwirtschaftsgesetz vom 29. April 1998[^27-6], das Tierseuchengesetz vom 1. Juli 1966[^27-7], das Jagdgesetz vom 20. Juni 1986[^27-8] oder das Bundesgesetz vom 21. Juni 1991[^27-9] über die Fischerei dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^27-10]
+<sup>2</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 1 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Tierschutzgesetz vom 16. Dezember 2005[^27-5], das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^27-6], das Landwirtschaftsgesetz vom 29. April 1998[^27-7], das Tierseuchengesetz vom 1. Juli 1966[^27-8], das Jagdgesetz vom 20. Juni 1986[^27-9] oder das Bundesgesetz vom 21. Juni 1991[^27-10] über die Fischerei dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^27-11]
 
 <sup>3</sup> Die Strafverfolgung von Übertretungen verjährt in fünf Jahren, die Strafe für eine Übertretung in vier Jahren.
 
 [^27-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^27-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^27-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^27-4]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^27-5]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^27-6]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^27-7]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^27-8]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^27-9]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^27-10]: Fassung gemäss Anhang Ziff. II 1 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^27-4]: Fassung gemäss Ziff. I 10 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^27-5]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^27-6]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^27-7]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^27-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^27-9]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^27-10]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^27-11]: Fassung gemäss Anhang Ziff. II 1 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## 8. Abschnitt: Schlussbestimmungen
 
@@ -413,7 +414,7 @@ Anhang 1
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^annex1-lvlu1-1]
+...[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Die Änd. können unter [AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)konsultiert werden.
 
@@ -427,6 +428,6 @@ Anhang 2
 
 [^annex2-lvlu1-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-2]: Die Änd. kann unter [AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)konsultiert werden.
