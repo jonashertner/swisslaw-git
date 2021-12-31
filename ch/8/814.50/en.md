@@ -4,11 +4,11 @@ title: Radiological Protection Act of 22 March 1991 (RPA)
 short: RPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933"
 language: en
-version: 2017-05-01
+version: 2022-01-01
 adopted: 1991-03-22
 in_force: 1994-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20170501/en/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20170501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20170501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RPA)
 
-of 22 March 1991 (Status as of 1 May 2017)
+of 22 March 1991 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -327,7 +327,7 @@ Radioactive waste arising in Switzerland must, as a general rule, be disposed of
 - a. the recipient country has consented to the import of the radioactive waste for disposal in an international agreement;
 - b. an appropriate nuclear facility meeting international standards of science and technology is available in the recipient country;
 - c. transit has been approved by the transit countries;
-- d. the sender has entered into a binding agreement with the recipient of the radioactive waste, with the approval of the authority designated by the Federal Council, to the effect that the sender will take back the waste if necessary [^25-1]
+- d. the sender has entered into a binding agreement with the recipient of the radioactive waste, with the approval of the authority designated by the Federal Council, to the effect that the sender will take back the waste if necessary.[^25-1]
 
 <sup>4</sup>
 
@@ -512,7 +512,7 @@ Once a licence is revoked or has expired, the sources of risk must be removed by
 
 [^chap4-1]
 
-[^chap4-1]: Revised by the Drafting Commission of the Federal Assembly (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^chap4-1]: Revised by the FA Drafting Commission (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 #### Art. 39
 
@@ -522,17 +522,21 @@ Once a licence is revoked or has expired, the sources of risk must be removed by
 
 <sup>2</sup> Where two or more persons are liable under paragraph 1, they shall be jointly and severally liable.
 
-<sup>3</sup> The above is without prejudice to the Nuclear Energy Liability Act of 18 March 1983[^39-1] with regard to nuclear damage caused by nuclear facilities or the transport of nuclear materials.
+<sup>3</sup> The above is without prejudice to the Convention of 29 July 1960[^39-1] on Third Party Liability in the Field of Nuclear Energy as amended by the Additional Protocol of 28 January 1964, the Protocol of 16 November 1982 and the Protocol of 12 February 2004 (the Paris Convention) and the Nuclear Energy Liability Act of 13 June 2008[^39-2] with regard to nuclear damage caused by nuclear facilities or the transport of nuclear materials.[^39-3]
 
-[^39-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^39-1]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^39-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^39-3]: Amended by Annex No II 4 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 40
 
-**Limitation of liability claims**
+**Limitation of liability claims**[^40-1]
 
-Claims for compensation or redress arising from damage caused by ionizing radiation and not covered by the Nuclear Energy Liability Act of 18 March 1983[^40-1] shall be time-barred three years after the injured party has become aware of the damage and of the identity of the liable party, and in any event 30 years after the cessation of the detrimental effects.
+Claims for compensation or redress arising from damage caused by ionizing radiation and not covered by the Paris Convention[^40-2] and the Nuclear Energy Liability Act of 13 June 2008[^40-3] shall be time-barred three years after the injured party has become aware of the damage and of the identity of the liable party, and in any event 30 years after the cessation of the detrimental effects.
 
-[^40-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^40-1]: Amended by Annex No II 4 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^40-2]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^40-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 ## Chapter 5 Proceedings, Legal Recourse and Fees
 
@@ -543,7 +547,7 @@ Claims for compensation or redress arising from damage caused by ionizing radiat
 Proceedings and legal recourse shall be governed by the Federal Act of 20 December 1968[^41-1] on Administrative Procedure and the Federal Act of 16 December 1943[^41-2] on the Organisation of Federal Justice.
 
 [^41-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^41-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Let. b 767, **1977** 237 No II 3 862 Art. 52 No 2 1323 No III, **1978** 688 Art. 88 No 3 1450, **1979** 42, **1980** 31 No IV 1718 Art. 52 No 2 1819 Art. 12 Para. 1, **1982** 1676 Annex No 13, **1983** 1886 Art. 36 No 1, **1986** 926 Art. 59 No 1, **1987** 226 No II 1 1665 No II, **1988** 1776 Annex No II 1, **1989** 504 Art. 33 Let. a, **1990** 938 No III Para. 5, **1992** 288, **1993** 274 Art. 75 No 1 1945 Annex No 1, **1995** 1227 Annex No 3 4093 Annex No 4, **1996** 508 Art. 36 750 Art. 17 1445 Annex No 2 1498 Annex No 2, **1997** 1155 Annex No 6 2465 Annex No 5, **1998** 2847 Annex No 3 3033 Annex No 2, **1999** 1118 Annex No 1 3071 No I 2, **2000** 273 Annex No 6 416 No I 2 505 No I 1 2355 Annex No 1 2719, **2001** 114 No I 4 894 Art. 40 No 3 1029 Art. 11 Para. 2, **2002** 863 Art. 35 1904 Art. 36 No 1 2767 No II 3988 Annex No 1, **2003** 2133 Annex No 7 3543 Annex No II 4 Let. a 4557 Annex No II 1**, 2004** 1985 Annex No II 1 4719 Annex No II 1, **2005** 5685 Annex No 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Para. 1]. See now: the Federal Supreme Court Act of 17 June 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^41-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 let. b [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)No II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 No 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)No III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 No 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)No IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 No 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 para. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 No 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 No 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)No II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)No II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Annex No II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 let. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)No III para. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 No 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Annex No 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Annex No 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Annex No 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Annex No 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Annex No 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Annex No 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Annex No 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Annex No 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)No I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)No I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)No I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Annex No 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)No I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 No 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 para. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)No II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Annex No 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Annex No 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Annex No II 4 let. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Annex No II 1;[2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Annex No II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Annex No II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Annex No 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 para. 1]. See now: the Federal Supreme Court Act of 17 June 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 
 #### Art. 42
 
@@ -581,7 +585,7 @@ The Federal Council shall set the fees for:
 Any person who wilfully:[^43a-2]
 
 - a. stores, disposes of or discharges radioactive substances to the environment in contravention of the regulations;
-- b. subjects property of considerable value to manifestly unjustified radiation exposure with the intention of impairing its utility
+- b. subjects property of considerable value to manifestly unjustified radiation exposure with the intention of impairing its utility,
 
 <sup>2</sup> If the offender acted negligently, the penalty shall be a monetary penalty not exceeding 180 daily penalty units.[^43a-3]
 
@@ -602,7 +606,7 @@ Any person who wilfully or negligently:[^44-1]
 - c. fails to undergo prescribed dosimetry;
 - d. fails to fulfil the duties of a licence holder or expert;
 - e. fails to fulfil the duty to surrender radioactive waste or remove sources of risk;
-- f. infringes an implementing regulation, infringement of which is declared to be punishable, or an order addressed to him or her with reference being made to the penalty provided for in this Article.
+- f. infringes an implementing regulation, infringement of which is declared to be punishable, or an order addressed to him or her with reference being made to the penalty provided for in this Article,
 
 <sup>2</sup> The Federal Council may provide for fines not exceeding 20,000 Swiss francs for infringements of regulations issued to deal with danger arising from radioactivity.[^44-3]
 
@@ -671,4 +675,4 @@ For liability claims that arose under current legislation but are not yet time-b
 
 Commencement date: 1 October 1994[^50-1]
 
-[^50-1]: Federal Council Decree of 22 June 1994.
+[^50-1]: FCD of 22 June 1994.

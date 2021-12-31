@@ -4,11 +4,11 @@ title: Loi du 22 mars 1991 sur la radioprotection (LRaP)
 short: LRaP
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933"
 language: fr
-version: 2017-05-01
+version: 2022-01-01
 adopted: 1991-03-22
 in_force: 1994-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20170501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1933_1933_1933-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1933_1933_1933/20170501/fr"
 
 (LRaP)
 
-du 22 mars 1991 (Etat le 1<sup>er</sup> mai 2017)
+du 22 mars 1991 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -520,18 +520,21 @@ Lorsqu’une autorisation a été retirée ou qu’elle est caduque, son détent
 
 <sup>2</sup> S’il y a plusieurs responsables, ils répondent solidairement.
 
-<sup>3</sup> Pour les dommages nucléaires provoqués par des centrales nucléaires ou lors du transport de matériaux nucléaires, la loi du 18 mars 1983[^39-1] sur la responsabilité civile en matière nucléaire est réservée.
+<sup>3</sup> Pour les dommages nucléaires provoqués par des centrales nucléaires ou lors du transport de matériaux nucléaires, la Convention du 29 juillet 1960 sur la responsabilité civile dans le domaine de l’énergie nucléaire, amendée par le protocole additionnel du 28 janvier 1964, par le protocole du 16 novembre 1982 et par le protocole du 12 février 2004 (Convention de Paris)[^39-1] et la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire (LRCN)[^39-2] sont réservées.[^39-3]
 
-[^39-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^39-1]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^39-2]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^39-3]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 13 juin 2008 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 40
 
-**Prescription des prétentions en matière de responsabilité civile**
+**Prescription des prétentions en matière de responsabilité civile**[^40-1]
 
-Les prétentions en matière de dommages-intérêts et de réparation du tort moral pour des dégâts[^40-1] occasionnés par des rayonnements ionisants et ne relevant pas de la loi du 18 mars 1983[^40-2] sur la responsabilité civile en matière nucléaire, se prescrivent par trois ans à compter de la date à laquelle le lésé a eu connaissance du dommage et de la personne civilement responsable et au plus par 30 ans à compter du moment où l’événement a cessé.
+Les prétentions en dommages-intérêts et en réparation du tort moral pour des dommages causés par des rayonnements ionisants et ne relevant pas de la Convention de Paris[^40-2] ni de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^40-3] se prescrivent par trois ans à compter de la date à laquelle le lésé a eu connaissance du dommage et de l’identité de la personne responsable mais au plus tard 30 ans après la cessation des effets de l’événement dommageable.
 
-[^40-1]: Rectifié par la CdR de l’Ass. féd. (art. 33 al. 1 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^40-2]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^40-1]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 13 juin 2008 sur la responsa-bilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022, publiée le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^40-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^40-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
 
 ## Chapitre 5 Procédure, voies de recours et émoluments
 
