@@ -4,13 +4,13 @@ number: "917.1"
 title: Gesetz über die Bodenverbesserungen
 short: BVG
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-05
 adopted: 1990-05-30
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6346/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7066/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bodenverbesserungen – G
 
 (BVG)
 
-vom 30.05.1990 (Fassung in Kraft getreten am 01.04.2019)
+vom 30.05.1990 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -88,11 +88,11 @@ beschliesst:
 
 **Zuständigkeit – Ämter**
 
-<sup>1</sup> Das Amt für Landwirtschaft ist zuständig für die landwirtschaftlichen und rebbaulichen Bodenverbesserungen, das Amt für Wald und Natur für die forstwirtschaftlichen Bodenverbesserungen.
+<sup>1</sup> Grangeneuve wird als für die landwirtschaftlichen und rebbaulichen Bodenverbesserungen zuständig betrachtet, das Amt für Wald und Natur ist für die forstwirtschaftlichen Bodenverbesserungen zuständig.
 
 <sup>2</sup> Sind beide Bereiche betroffen, so arbeiten beide Ämter eng zusammen.
 
-<sup>3</sup> Das Meliorationsamt und das Forstamt haben, jedes in seinem Bereich, die folgenden Aufgaben:
+<sup>3</sup> Beide Ämter haben in ihrem jeweiligen Bereich die folgenden Aufgaben:
 
 - a) sie wachen darüber, dass die verschiedenen beabsichtigten Operationen gesetzeskonform erfolgen;
 - b) sie beraten und erlassen die dazu notwendigen Anordnungen und Weisungen;
@@ -175,7 +175,7 @@ beschliesst:
 
 **Koordination**
 
-<sup>1</sup> Bei der Ausarbeitung von Bodenverbesserungsprojekten stellt das Amt für Landwirtschaft oder das Amt für Wald und Natur die Koordination mit den von den Projekten betroffenen Diensten und kantonalen Kommissionen sicher.
+<sup>1</sup> Bei der Ausarbeitung von Bodenverbesserungsprojekten stellt Grangeneuve oder das Amt für Wald und Natur die Koordination mit den von den Projekten betroffenen Diensten und kantonalen Kommissionen sicher.
 
 <sup>2</sup> …
 
@@ -1412,7 +1412,7 @@ beschliesst:
 
 <sup>1</sup> Als Alpverbesserung gilt namentlich die Anlage von Wegen, die eine bessere Bewirtschaftung der Alpweiden und der Bergwälder gestatten.
 
-<sup>2</sup> Die Alpwege werden unter der Aufsicht des Amts für Landwirtschaft oder des Amtes für Wald und Natur angelegt, je nachdem, ob sie vorwiegend die Alpweiden oder die Bergwälder erschliessen.
+<sup>2</sup> Die Alpwege werden unter der Aufsicht von Grangeneuve oder des Amtes für Wald und Natur angelegt, je nachdem, ob sie vorwiegend die Alpweiden oder die Bergwälder erschliessen.
 
 #### Art. 153
 
@@ -1750,7 +1750,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Gesuch um Beitragsgewährung ist an das Amt für Landwirtschaft zu senden.
+<sup>1</sup> Das Gesuch um Beitragsgewährung ist an Grangeneuve zu senden.
 
 <sup>2</sup> Über die Gewährung des Beitrages entscheidet die Direktion. Für weniger bedeutende Hilfen kann sie diese Aufgabe delegieren.
 
@@ -1760,7 +1760,7 @@ beschliesst:
 
 **Überweisung**
 
-<sup>1</sup> Der Beitrag wird nach der Werkabnahme und nach der Prüfung der Schlussabrechnung durch das Amt für Landwirtschaft überwiesen.
+<sup>1</sup> Der Beitrag wird nach der Werkabnahme und nach der Prüfung der Schlussabrechnung von Grangeneuve überwiesen.
 
 <sup>2</sup> Anzahlungen können gemäss dem jeweiligen Stand der Arbeiten überwiesen werden.
 
@@ -1768,7 +1768,7 @@ beschliesst:
 
 **Anmerkung**
 
-<sup>1</sup> In der Regel verlangt das Amt für Landwirtschaft eine Anmerkung im Grundbuch oder die Änderung einer bestehenden Anmerkung.
+<sup>1</sup> In der Regel verlangt Grangeneuve eine Anmerkung im Grundbuch oder die Änderung einer bestehenden Anmerkung.
 
 <sup>2</sup> Gegebenenfalls kann die Anmerkung durch eine Garantieerklärung ersetzt werden.
 
@@ -1902,9 +1902,11 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Entscheide, gegen die nicht Einsprache (Art. 197) oder Beschwerde an die Kommission (Art. 203) erhoben werden kann, sind mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege anfechtbar.
+<sup>1</sup> Entscheide, gegen die nicht Einsprache (Art. 197) oder Beschwerde an die Kommission (Art. 203) erhoben werden kann, können bei der Direktion angefochten werden.
 
-<sup>2</sup> Insbesondere kann gegen Beschlüsse der Gründungsversammlung und der Generalversammlung einer Körperschaft innert dreissig Tagen seit der Versammlung beim Kantonsgericht Beschwerde geführt werden.
+<sup>2</sup> Gegen Beschlüsse der Gründungsversammlung und der Generalversammlung einer Körperschaft kann innert dreissig Tagen seit der Versammlung beim Kantonsgericht Beschwerde geführt werden.
+
+<sup>3</sup> Im Übrigen wird das Verfahren im Gesetz über die Verwaltungsrechtspflege geregelt.
 
 #### Art. 209
 

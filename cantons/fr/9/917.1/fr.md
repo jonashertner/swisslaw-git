@@ -4,13 +4,13 @@ number: "917.1"
 title: Loi sur les améliorations foncières
 short: LAF
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-05
 adopted: 1990-05-30
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/917.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6346/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7066/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Améliorations foncières – L
 
 (LAF)
 
-du 30.05.1990 (version entrée en vigueur le 01.04.2019)
+du 30.05.1990 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -88,7 +88,7 @@ Décrète:
 
 **Attributions – Services**
 
-<sup>1</sup> Le Service de l'agriculture est le service chargé des améliorations foncières agricoles et viticoles et le Service des forêts et de la nature, celui à qui incombent les améliorations forestières.
+<sup>1</sup> Grangeneuve est considéré comme le service chargé des améliorations foncières agricoles et viticoles et le Service des forêts et de la nature, celui à qui incombent les améliorations forestières.
 
 <sup>2</sup> Ils collaborent étroitement, lorsque les deux domaines sont touchés.
 
@@ -175,7 +175,7 @@ Décrète:
 
 **Coordination**
 
-<sup>1</sup> Lors de l'élaboration de projets d'améliorations foncières, le Service de l'agriculture ou le Service des forêts et de la nature assure la coordination avec les services et les commissions cantonales que concernent ces projets.
+<sup>1</sup> Lors de l'élaboration de projets d'améliorations foncières, Grangeneuve ou le Service des forêts et de la nature assure la coordination avec les services et les commissions cantonales que concernent ces projets.
 
 <sup>2</sup> …
 
@@ -1412,7 +1412,7 @@ Décrète:
 
 <sup>1</sup> Est considéré notamment comme amélioration alpestre l'aménagement de chemins qui permettent une meilleure exploitation des alpages et des forêts en montagne.
 
-<sup>2</sup> Les chemins alpestres sont aménagés sous la surveillance du Service de l'agriculture ou du Service des forêts et de la nature, selon qu'ils desservent de manière prépondérante des alpages ou des forêts.
+<sup>2</sup> Les chemins alpestres sont aménagés sous la surveillance de Grangeneuve ou du Service des forêts et de la nature, selon qu'ils desservent de manière prépondérante des alpages ou des forêts.
 
 #### Art. 153
 
@@ -1750,7 +1750,7 @@ Décrète:
 
 **Procédure**
 
-<sup>1</sup> La demande de subvention est adressée au Service de l'agriculture.
+<sup>1</sup> La demande de subvention est adressée à Grangeneuve.
 
 <sup>2</sup> La subvention est décidée par la Direction. Celle-ci peut déléguer cette tâche pour les aides de moindre importance.
 
@@ -1760,7 +1760,7 @@ Décrète:
 
 **Versement**
 
-<sup>1</sup> La subvention est versée après la reconnaissance des travaux et la vérification du décompte final par le Service de l'agriculture.
+<sup>1</sup> La subvention est versée après la reconnaissance des travaux et la vérification du décompte final par Grangeneuve.
 
 <sup>2</sup> Des acomptes peuvent être versés selon l'avancement des travaux.
 
@@ -1768,7 +1768,7 @@ Décrète:
 
 **Mention**
 
-<sup>1</sup> En principe, le Service de l'agriculture requiert une mention au registre foncier ou la modification d'une mention existante.
+<sup>1</sup> En principe, Grangeneuve requiert une mention au registre foncier ou la modification d'une mention existante.
 
 <sup>2</sup> La mention peut être, au besoin, remplacée par une déclaration de garantie.
 
@@ -1902,9 +1902,11 @@ Décrète:
 
 **Principe**
 
-<sup>1</sup> Les décisions qui ne peuvent pas faire l'objet d'une opposition (art.197) ou d'un recours à la Commission (art. 203) peuvent être attaquées conformément au code de procédure et de juridiction administrative.
+<sup>1</sup> Les décisions qui ne peuvent pas faire l'objet d'une opposition (art. 197) ou d'un recours à la Commission (art. 203) sont sujettes à recours auprès de la Direction.
 
-<sup>2</sup> Sont en particulier susceptibles d'un recours au Tribunal cantonal, dans les trente jours suivant l'assemblée, les décisions de l'assemblée constitutive et de l'assemblée générale d'un syndicat.
+<sup>2</sup> Sont susceptibles d'un recours au Tribunal cantonal, dans les trente jours suivant l'assemblée, les décisions de l'assemblée constitutive et de l'assemblée générale d'un syndicat.
+
+<sup>3</sup> Pour le surplus, la procédure est réglée par code de procédure et de juridiction administrative.
 
 #### Art. 209
 
