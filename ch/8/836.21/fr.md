@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2007 sur les allocations familiales (OAFam)
 short: OAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210401/fr"
 
 (OAFam)
 
-du 31 octobre 2007 (Etat le 1<sup>er</sup> avril 2021)
+du 31 octobre 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -353,7 +353,7 @@ Les cantons peuvent édicter des dispositions plus avantageuses pour les bénéf
 Le registre des allocations familiales contient les données suivantes:
 
 - a.[^18a-1] le numéro AVS, le nom de famille, les prénoms, la date de naissance, le sexe et le pays de domicile de l’enfant donnant droit aux allocations familiales;
-- b. le numéro AVS, le nom de famille, les prénoms, la date de naissance et le sexe de l’ayant droit;
+- b. le numéro AVS[^18a-2], le nom de famille, les prénoms, la date de naissance et le sexe de l’ayant droit;
 - c. le lien de l’enfant donnant droit aux allocations familiales avec l’ayant droit;
 - d. le statut professionnel de l’ayant droit;
 - e. le service compétent selon l’art. 21*c* LAFam pour fixer et verser les allocations familiales;
@@ -366,6 +366,7 @@ Le registre des allocations familiales contient les données suivantes:
 <sup>2</sup> L’OFAS édicte des directives sur le détail des données à saisir.
 
 [^18a-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
+[^18a-2]: La nouvelle expression, selon l’annexe ch. II 40 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022, ne concerne que les textes allemand et italien ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 18b
 

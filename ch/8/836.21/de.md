@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2007 über die Familienzulagen (Familienzulage
 short: FamZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210401/de"
 
 (Familienzulagenverordnung, FamZV)
 
-vom 31. Oktober 2007 (Stand am 1. April 2021)
+vom 31. Oktober 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -352,8 +352,8 @@ Die Kantone können für die Berechtigten günstigere Regelungen festlegen.
 
 Das Familienzulagenregister enthält die folgenden Daten:
 
-- a.[^18a-1] Versichertennummer, Familienname, Vornamen, Geburtsdatum, Geschlecht und Wohnsitzstaat des anspruchsbegründenden Kindes;
-- b. Versichertennummer, Familienname, Vornamen, Geburtsdatum und Geschlecht der anspruchsberechtigten Person;
+- a.[^18a-1] AHV-Nummer[^18a-2], Familienname, Vornamen, Geburtsdatum, Geschlecht und Wohnsitzstaat des anspruchsbegründenden Kindes;
+- b. AHV-Nummer, Familienname, Vornamen, Geburtsdatum und Geschlecht der anspruchsberechtigten Person;
 - c. die Beziehung des anspruchsbegründenden Kindes zur anspruchsberechtigten Person;
 - d. den Erwerbsstatus der anspruchsberechtigten Person;
 - e. die für die Festsetzung und Ausrichtung der Familienzulage zuständige Stelle nach Artikel 21*c* FamZG;
@@ -366,6 +366,7 @@ Das Familienzulagenregister enthält die folgenden Daten:
 <sup>2</sup> Das BSV erlässt Weisungen über die Einzelheiten der zu erfassenden Daten.
 
 [^18a-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
+[^18a-2]: Ausdruck gemäss Anhang Ziff. II 40 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 18b
 
@@ -435,7 +436,7 @@ Der Datenschutz und die Informatiksicherheit richten sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^18h-1] zum Bundesgesetz über den Datenschutz;
 - b.[^18h-2] der Cyberrisikenverordnung vom 27. Mai 2020[^18h-3];
-- c.[^18h-4] ...
+- c.[^18h-4] …
 
 <sup>2</sup> Die Zentrale Ausgleichsstelle, die Stellen nach Artikel 21*c* FamZG und die Arbeitgeber treffen die notwendigen organisatorischen und technischen Massnahmen zur Sicherung der Daten.
 
@@ -538,6 +539,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)konsultiert werden.

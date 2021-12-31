@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2007 sugli assegni familiari (OAFami)
 short: OAFami
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-52-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-52-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210401/it"
 
 (OAFami)
 
-del 31 ottobre 2007 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 31 ottobre 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -357,8 +357,8 @@ I Cantoni possono stabilire regolamentazioni più favorevoli per gli aventi diri
 
 Il registro degli assegni familiari contiene i seguenti dati:
 
-- a.[^18a-1] numero d’assicurato, cognome, nome, data di nascita, sesso e Stato di domicilio del figlio che dà diritto all’assegno familiare;
-- b. numero d’assicurato, cognome, nome, data di nascita e sesso dell’avente diritto;
+- a.[^18a-1] numero AVS[^18a-2], cognome, nome, data di nascita, sesso e Stato di domicilio del figlio che dà diritto all’assegno familiare;
+- b. numero AVS, cognome, nome, data di nascita e sesso dell’avente diritto;
 - c. la relazione intercorrente tra il figlio e l’avente diritto;
 - d. la situazione occupazionale dell’avente diritto;
 - e. il servizio competente per il calcolo e il versamento dell’assegno conformemente all’articolo 21*c* LAFam;
@@ -371,6 +371,7 @@ Il registro degli assegni familiari contiene i seguenti dati:
 <sup>2</sup> L’UFAS emana direttive sui dettagli dei dati da registrare.
 
 [^18a-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
+[^18a-2]: Nuova espr. giusta l’all. n. II 40 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 18b
 
