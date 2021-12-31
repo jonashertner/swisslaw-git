@@ -3,11 +3,11 @@ sr: "0.632.311.231"
 title: "Accordo di libero scambio del 17 dicembre 2009 tra gli Stati dell'AELS e la Repubblica di Albania (con all. e prot.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/685"
 language: it
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2009-12-17
 in_force: 2010-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/685/20170601/it/xml/fedlex-data-admin-ch-eli-cc-2010-685-20170601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/685/20170601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/685/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-685-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/685/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2010** 4805; FF **2010** 393
 
 Traduzione
 
-Concluso a Ginevra il 17 dicembre 2009
+Concluso a Ginevra il 17 dicembre 2009 Approvato dall’Assemblea federale il 15 marzo 2010[^t-1] Strumento di ratifica depositato dalla Svizzera il 15 aprile 2010 Entrato in vigore per la Svizzera il 1° novembre 2010
 
-Approvato dall’Assemblea federale il 15 marzo 2010[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 15 aprile 2010
-
-Entrato in vigore per la Svizzera il 1° novembre 2010
-
-(Stato 1° giugno 2017)
+(Stato 1° gennaio 2022)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 15 mar. 2010 ([RU 2010 4803](https://fedlex.data.admin.ch/eli/oc/2010/684)).
 
@@ -719,7 +713,13 @@ Lista degli allegati**[^t-2]**
 <tr><td></td><td>Appendix 5 to Protocol B – List of countries or territories participating in the Euro-Mediterranean Partnership based on the Barcelona Declaration</td></tr>
 </table>
 
-[^t-2]: Questi doc. non sono pubblicati nella RU né nella RS. Sono disponibili solo in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: http://www.efta.int/free-trade/free-trade-agreements/albania/
+***Joint Committee Decisions***
+
+Decision No 1/2013 Rules of Procedure
+
+Decision No 1/2021 Amending Protocol B
+
+[^t-2]: Questi doc. non sono pubblicati nella RU ([RU 2021 873](https://fedlex.data.admin.ch/eli/oc/2021/873)). Possono essere ottenuti in versione originale inglese presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna. È inoltre disponibile sul sito Internet del Segretariato dell’AELS: www.efta.int &gt; Global Trade relations &gt; Free Trade Agreements &gt; Albania
 
 Campo d’applicazione il 4 ottobre 2011**[^t-3]**
 

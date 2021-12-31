@@ -3,11 +3,11 @@ sr: "0.632.311.231"
 title: Freihandelsabkommen vom 17. Dezember 2009 zwischen den EFTA-Staaten und der Republik Albanien (mit Anhängen und Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/685"
 language: de
-version: 2017-06-01
+version: 2022-01-01
 adopted: 2009-12-17
 in_force: 2010-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/685/20170601/de/xml/fedlex-data-admin-ch-eli-cc-2010-685-20170601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/685/20170601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/685/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-685-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/685/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. April 2010
 
 In Kraft getreten für die Schweiz am 1. November 2010
 
-(Stand am 1. Juni 2017)
+(Stand am 1. Januar 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 15. März 2010 ([AS 2010 4803](https://fedlex.data.admin.ch/eli/oc/2010/684))
 
@@ -830,7 +830,7 @@ Art. 53 Depositar
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Diese Dokumente werden weder in der AS noch der SR veröffentlicht. Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter: www.efta.int/free-trade/free-trade-agreements/albania/
+[^annexu1-lvlu2-1]: Diese Dokumente werden weder in der AS noch der SR veröffentlicht ([AS 2021 873](https://fedlex.data.admin.ch/eli/oc/2021/873)). Sie sind nur in englischer Originalsprache beim Bundesamt für Bauten und Logistik, Vertrieb Publikationen, 3003 Bern, bezogen werden und ist auf der Internetseite des EFTA-Sekretariates verfügbar: www.efta.int &gt; Global Trade relations &gt; Free Trade Agreements &gt; Albania
 
 - **Annex I** Referred to in Subparagraph 1 (a) of Article 6 – Excluded products
 - **Annex II** Referred to in Subparagraph 1 (c) of Article 6 – Fish and other marine products
@@ -858,6 +858,10 @@ Appendix 4A to Protocol B – Text of the invoice declaration
 Appendix 4B to Protocol B – Text of the invoice declaration EUR-MED
 
 Appendix 5 to Protocol B – List of countries or territories participating in the Euro-Mediterranean Partnership based on the Barcelona Declaration
+
+- **Joint Committee Decisions**
+- *No 1-13* Rules of Procedure
+- *No 1-21* Amending Protocol B (Concept of «originating products» and methods of administrative cooperation)
 
 Geltungsbereich am 4. Oktober 2011**[^t-2]**
 
