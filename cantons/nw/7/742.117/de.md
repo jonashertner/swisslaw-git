@@ -1,88 +1,78 @@
 ---
 canton: NW
 number: "742.117"
-title: Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2021 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
+title: Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2022 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
 language: de
-version: 2021-01-01
-corrected: 2021-09-08
-version_adopted: 2020-09-22
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-28
 adopted: 2025-09-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/320/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/956/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2021 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
+# Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2022 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
 
-vom 22. September 2020[^t-1]
+vom 28.09.2021 (Stand 01.01.2022)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 28h Abs. 2 des Einführungsgesetzes vom 25. Oktober 2006 zum Bundesgesetz über die Krankenversicherung (Krankenversicherungsgesetz, kKVG)[^t-2],
+gestützt auf Art. 28i Abs. 2 des Einführungsgesetzes vom 25. Oktober 2006 zum Bundesgesetz über die Krankenversicherung (Krankenversicherungsgesetz, kKVG)[^ingress-1],
 
 beschliesst:
 
-1.
+[^ingress-1]: NG 742.1
 
-Die Pflegetaxen für Pflegeleistungen der zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause sowie der selbständig erwerbenden Pflegefachpersonen gemäss Art. 28f Abs. 3 Ziff. 2 kKVG[^t-2] betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Stunde:
+#### Ziff. 1
 
-- a. für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a der Krankenpflege-Leistungsver- Fr. 128.00 ordnung, KLV[^t-3]
+<sup>1</sup> Die Pflegetaxen für Pflegeleistungen der zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause sowie der selbständig erwerbenden Pflegefachpersonen gemäss Art. 28f Abs. 3 Ziff. 2 kKVG[^Ziff1-1] betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2022 je Stunde:
 
-**Fr. 99.00**
+- a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a der Krankenpflege-Leistungsverordnung, KLV[^Ziff1-2]): — Fr. 131.00
+- b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 102.00
+- c) für Massnahmen der Grundpflege (Art. 7 Abs. 2 lit. c KLV): — Fr. 93.00
 
-- b. für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV)
+[^Ziff1-1]: NG 742.1
+[^Ziff1-2]: SR 832.112.31
 
-**Fr. 18.00**
+#### Ziff. 2
 
-- c. für Massnahmen der Grundpflege (Art. 7 Abs. 2 lit. c KLV) 2.
+<sup>1</sup> Die Pflegetaxen für ambulante Pflegeleistungen der Pflegeheime, die gemäss Art. 28f Abs. 3 Ziff. 3 kKVG[^Ziff2-1] als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2022 je Stunde:
 
-Die Pflegetaxen für ambulante Pflegeleistungen der Pflegeheime, die gemäss Art. 28f Abs. 3 Ziff. 3 kKVG[^t-2] als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Stunde:
+- a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a KLV[^Ziff2-2]): — Fr. 117.90
+- b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 91.80
+- c) für Massnahmen der Grundpflege (Art. 7 Abs. 2 lit. c KLV): — Fr. 83.70
 
-**Fr. 115.20**
+[^Ziff2-1]: NG 742.1
+[^Ziff2-2]: SR 832.112.31
 
-- a. für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a KLV[^t-3]
+#### Ziff. 3
 
-**Fr. 89.10**
+<sup>1</sup> Für Pflegeleistungen gemäss Ziff. 1 lit. a–c mit Einsatzzeiten von insgesamt 30 Minuten oder weniger je Tag und Klientin oder Klient erfolgt zusätzlich eine pauschale Vergütung von Fr. 12.00.
 
-- b. für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV)
+#### Ziff. 4
 
-**Fr. 81.00**
+<sup>1</sup> Für Pflegeleistungen bei akut oder chronisch kranken, behinderten oder sterbenden Minderjährigen erfolgt zusätzlich zur ordentlichen Pflegetaxe eine pauschale Vergütung je Stunde:
 
-- c. für Massnahmen der Grundpflege (Art. 7 Abs. 2 lit. c KLV)
+- a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a der KLV[^Ziff4-1]): — Fr. 5.–
+- b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 34.–
+- c) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV) bei Minderjährigen, die Anspruch auf Leistungen gemäss IVG[^Ziff4-2] haben: — Fr. 18.–
 
-3.
+[^Ziff4-1]: SR 832.112.31
+[^Ziff4-2]: SR 831.20
 
-Für Pflegeleistungen gemäss Ziff. 1 lit. a-c mit Einsatzzeiten von insgesamt 30 Minuten oder weniger je Tag und Klientin oder Klient erfolgt zusätzlich eine pauschale Vergütung von Fr. 12.00.
+#### Ziff. 5
 
-4.
+<sup>1</sup> Der Regierungsratsbeschluss vom 22. September 2020 betreffend die Festlegung der Höhe der Pflegetaxen 2021 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen[^Ziff5-1] wird aufgehoben.
 
-Für Pflegeleistungen bei akut oder chronisch kranken, behinderten oder sterbenden Minderjährigen erfolgt zusätzlich zur ordentlichen Pflegetaxe eine pauschale Vergütung je Stunde:
+[^Ziff5-1]: A 2020, 1935
 
-- a. für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a der KLV[^t-3]
+#### Ziff. 6
 
-**Fr. 5.00**
+<sup>1</sup> Gegen diesen Beschluss kann binnen 30 Tagen nach erfolgter Publikation beim Regierungsrat Einsprache erhoben werden (Art. 29 Abs. 1 kKVG[^Ziff6-1]).
 
-- b. für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV)
+[^Ziff6-1]: NG 742.1
 
-**Fr. 34.00**
-
-- c. für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV) bei Minderjährigen, die Anspruch auf Leistungen gemäss IVG[^t-4] haben
-
-**Fr. 90.00**
-
-5.
-
-Der Regierungsratsbeschluss vom 24. September 2019 betreffend die Festlegung der Höhe der Pflegetaxen 2020 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen[^t-5] wird aufgehoben.
-
-6.
-
-Gegen diesen Beschluss kann binnen 30 Tagen nach erfolgter Publikation beim Regierungsrat Einsprache erhoben werden (Art. 29 Abs. 1 kKVG[^t-2].
-
-[^t-1]: A 2020, 1935
-[^t-2]: NG 742.1
-[^t-3]: SR 832.112.31
-[^t-4]: SR 831.20
-[^t-5]: A 2018, 1665
+A 2021, 1794
