@@ -4,13 +4,13 @@ number: V A/11/1
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-05-01
+version: 2022-01-01
+valid_until: 2022-06-30
+version_adopted: 2021-09-05
 adopted: 2007-05-06
 in_force: 2008-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-A.11.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2533/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2534/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2533/pdf_file"
 
 (PolG)
 
-Vom 06.05.2007 (Stand 01.01.2017)
+Vom 06.05.2007 (Stand 01.01.2022)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -532,11 +532,23 @@ Vom 06.05.2007 (Stand 01.01.2017)
 
 <sup>4</sup> Ergibt die Prüfung, dass es bei der gemeldeten Person an hinreichenden Anzeichen für eine erhöhte Gewaltbereitschaft gegen Dritte fehlt, werden die über sie erhobenen Personendaten gelöscht.
 
+#### Art. 32c
+
+**Datenschutzberatung**
+
+<sup>1</sup> Die Kantonspolizei bezeichnet eine für die Datenschutzberatung zuständige Person.
+
+<sup>2</sup> Diese hat folgende Aufgaben:
+
+- a. sie berät und unterstützt die Mitarbeitenden der Kantonspolizei bei der Bearbeitung von Personendaten;
+- b. sie nimmt Datenschutz-Folgenabschätzungen gemäss dem kantonalen Datenschutzrecht vor;
+- c. sie ist Ansprechperson der oder des Beauftragten für Datenschutz und arbeitet mit dieser oder diesem zusammen.
+
 #### Art. 33
 
 **Weitere Bestimmungen**
 
-<sup>1</sup> Der Regierungsrat erlässt nähere ausführende Bestimmungen, insbesondere zum Zweck und Inhalt der Datenbearbeitung, zur Zugriffsberechtigung, zum Datenaustausch mit anderen Behörden und zur Aufbewahrungsdauer und Löschung von Daten und Aufzeichnungen.
+<sup>1</sup> Der Regierungsrat erlässt nähere ausführende Bestimmungen, insbesondere zum Zweck und Inhalt der Datenbearbeitung, zur Zugriffsberechtigung, zum Datenaustausch mit anderen Behörden und zur Aufbewahrungsdauer und Löschung von Daten und Aufzeichnungen. Die Kantonspolizei führt ein Register über ihre Datenbearbeitungstätigkeiten.
 
 <sup>2</sup> …
 
