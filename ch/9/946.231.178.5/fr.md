@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: "Ordonnance du 28 mars 2018 instituant des mesures à l'encontre du Venezuela"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: fr
-version: 2021-11-24
+version: 2022-01-01
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20211124/fr/xml/fedlex-data-admin-ch-eli-cc-2018-191-20211124-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20211124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-191-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Venezuela
 
-du 28 mars 2018 (Etat le 24 novembre 2021)
+du 28 mars 2018 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -130,9 +130,11 @@ Il est interdit d’honorer les créances qui se fondent sur un contrat ou une a
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 3.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^7-1].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires au gel des ressources économiques, telles que la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
+
+[^7-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8
 
@@ -172,11 +174,11 @@ L’art. 4 ne s’applique pas aux affaires régies par un contrat antérieur au
 
 La présente ordonnance entre en vigueur le 28 mars 2018 à 18 heures.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, al. 1, let. a, 3, al. 1, 6, let. a, et 10)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex1-lvlu1-1]
 

@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: Verordnung vom 28. März 2018 über Massnahmen gegenüber Venezuela
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: de
-version: 2021-11-24
+version: 2022-01-01
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2018-191-20211124-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20211124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-191-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Venezuela
 
-vom 28. März 2018 (Stand am 24. November 2021) (Stand am 24. November 2021)
+vom 28. März 2018 (Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -133,9 +133,11 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 3.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^7-1].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
+
+[^7-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8
 
@@ -175,11 +177,11 @@ Artikel 4 ist nicht auf Geschäfte anwendbar, die vor dem 28. März 2018 vertrag
 
 Diese Verordnung tritt am 28. März 2018 um 18 Uhr in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 1 Bst. a, 3 Abs. 1, 6 Bst. a und 10)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex1-lvlu1-1]
 

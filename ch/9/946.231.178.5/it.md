@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: Ordinanza del 28 marzo 2018 che istituisce provvedimenti nei confronti del Venezuela
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: it
-version: 2021-11-24
+version: 2022-01-01
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20211124/it/xml/fedlex-data-admin-ch-eli-cc-2018-191-20211124-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20211124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-191-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Venezuela
 
-del 28 marzo 2018 (Stato 24 novembre 2021) (Stato 24 novembre 2021)
+del 28 marzo 2018 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -133,9 +133,11 @@ La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 3.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^7-1].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
+
+[^7-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8
 
@@ -175,11 +177,11 @@ L’articolo 4 non si applica agli affari concordati in via contrattuale prima d
 
 La presente ordinanza entra in vigore il 28 marzo 2018 alle ore 18.00.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 1 lett. a e 3 cpv. 1, 6 lett. a e 10)
 
-## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie******
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie
 
 [^annex1-lvlu1-1]
 
