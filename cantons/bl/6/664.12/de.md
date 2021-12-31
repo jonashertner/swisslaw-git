@@ -3,285 +3,312 @@ canton: BL
 number: "664.12"
 title: Vereinbarung über das Immobilienwesen der Universität Basel
 language: de
-version: 2007-01-01
-valid_until: 2021-12-31
-version_adopted: 2006-06-27
+version: 2022-01-01
+version_adopted: 2021-05-25
 adopted: 2021-05-25
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/664.12"
-pdf: "https://bl.clex.ch/api/de/versions/590/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3238/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über das Immobilienwesen der Universität Basel
 
-Vom 27.06.2006 (Stand 01.01.2007)
+Vom 25.05.2021 (Stand 01.01.2022)
 
-Der Kanton Basel-Landschaft, handelnd durch den Regierungsrat, sowie der Kanton Basel-Stadt und die Einwohnergemeinde der Stadt Basel, handelnd durch den Regierungsrat des Kantons Basel-Stadt, gestützt auf § 39 Absatz 5 und § 40 Absatz 7 des Vertrags vom 27. Juni 2006[^ingress-1] zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel (Universitätsvertrag), vereinbaren:
+Der Kanton Basel-Stadt und die Einwohnergemeinde der Stadt Basel, handelnd durch den Regierungsrat des Kantons Basel-Stadt, sowie der Kanton Basel-Landschaft, handelnd durch den Regierungsrat,
 
-[^ingress-1]: GS 36.72, SGS 664.1
+gestützt auf § 39 Abs. 5, § 40 Abs. 7 und § 40a Abs. 5 des Vertrags zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel vom 27. Juni 2006[^ingress-1],
 
-## 1 Gegenstand und Ziel der Vereinbarung
+vereinbaren:
+
+[^ingress-1]: BS: [SG 442.400](https://db.clex.ch/link/BS/442.400/de), BL: [SGS 664.1](https://bl.clex.ch/data/664.1/de/art39)
+
+## 1 Allgemeines
 
 #### § 1
 
-**Gegenstand**
+**Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Gegenstand dieser Vereinbarung sind die von der Universität Basel genutzten Liegenschaften, bei denen laufende Kosten (betrieblicher Raumaufwand, Kosten für Unterhalt und Veränderungen) im Rahmen des Gesamtbudgets der Universität von den Vertragskantonen gemeinsam finanziert werden.
+<sup>1</sup> Die Vereinbarung regelt in Ergänzung zum Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel (nachfolgend: Universitätsvertrag) den Umgang mit den von der Universität genutzten Liegenschaften, namentlich:
 
-<sup>2</sup> Die Vereinbarung regelt in Ergänzung zum Universitätsvertrag den Umgang mit den von der Universität genutzten Liegenschaften, namentlich
+- a. das Mietmodell und die Festlegung der Mietabgeltung für Liegenschaften im Eigentum eines Vertragskantons;
+- b. den Grundausbau sowie den Mietausbau der Universität in Liegenschaften im Eigentum eines Vertragskantons;
+- c. die Investitionen in Liegenschaften im Eigentum eines Vertragskantons;
+- d. die Neuinvestitionen der Universität;
+- e. die Einmietung der Universität in Drittliegenschaften und Investitionsobjekten eines Vertragskantons;
+- f. die Aufgaben und Kompetenzen sowie die Zusammensetzung und Organisation des Immobiliengremiums.
 
-- a. die Festlegung der Mietabgeltung von Liegenschaften im Eigentum eines Vertragskantons,
-- b. die Festlegung und Verwendung der Mittel des Immobilienfonds,
-- c. die Nutzung und den Betrieb der von der Universität genutzten Liegenschaften im Eigentum eines Vertragskantons,
-- d. die Grundsätze für grössere Neuinvestitionen, die nicht über den Immobilienfonds finanziert werden.
-
-<sup>3</sup> Die Liegenschaften der Einwohnergemeinde der Stadt Basel werden den Liegenschaften eines Vertragskantons gleichgestellt und von dieser Vereinbarung ebenfalls erfasst.
-
-<sup>4</sup> Die Universität führt ein Verzeichnis der von ihr genutzten Liegenschaften und bringt dieses im Rahmen der Berichterstattung gemäss § 7 Absatz 4 des Universitätsvertrags den Regierungen zur Kenntnis.
+<sup>2</sup> Die Liegenschaften der Einwohnergemeinde der Stadt Basel werden den Liegenschaften eines Vertragskantons gleichgestellt und von dieser Vereinbarung ebenfalls erfasst.
 
 #### § 2
 
-**Ziel**
+**Zweck**
 
-<sup>1</sup> Ziel dieser Vereinbarung ist es, eine optimale räumliche und betriebswirtschaftliche Nutzung der Liegenschaften durch die Universität nach marktüblichen Kriterien sowie unter Berücksichtigung der entsprechenden Regelungen der Schweizerischen Universitätskonferenz (SUK) und des Leistungsauftrags der Universität sicherzustellen.
-
-## 2 Mietabgeltung und Beiträge für Unterhalt und Veränderungen von Liegenschaften im Eigentum eines Vertragskantons
+<sup>1</sup> Zweck dieser Vereinbarung ist es, eine für die Vertragskantone transparente, optimale räumliche und betriebswirtschaftliche Nutzung der Liegenschaften durch die Universität sicherzustellen.
 
 #### § 3
 
-**Mietabgeltung**
+**Spartenrechnung Immobilien**
 
-<sup>1</sup> Die Mietabgeltung für Liegenschaften im Eigentum eines Vertragskantons (Grundmiete) und die Beiträge für Unterhalt und Veränderungen (Einlage in den Immobilienfonds) werden anhand der Richtlinien der Schweizerischen Universitätskonferenz (SUK) für die Berechnung der Raumkosten in der Kosten-/Leistungsrechnung festgelegt[^3-1].
+<sup>1</sup> Die Universität führt eine Spartenrechnung «Immobilien».
 
-<sup>2</sup> Die Mietabgeltung für Liegenschaften im Eigentum eines Vertragskantons (Grundmiete), für die am 1.1.2007 ein Mietverhältnis mit der Universität besteht, umfasst auf der Grundlage von § 3 Absatz 1 die mittlere Kapitalverzinsung (4.5%) abzüglich der kalkulatorischen Bundessubventionen (23%) sowie zusätzlich den Landanteil von 25% des Neuwerts.
+<sup>2</sup> In der Spartenrechnung sind sämtliche immobilienspezifischen Aufwendungen und Erträge der Universität getrennt und einzeln auszuweisen.
 
-<sup>3</sup> Bei Mietverträgen für Liegenschaften im Eigentum eines Vertragskantons, die erst nach diesem Zeitpunkt entstehen, werden die SUK-Richtlinien brutto (ohne Abzug der Bundessubventionen) angewandt und die dem Eigentümer effektiv angefallenen oder anfallenden Bundessubventionen sowie weitere Beiträge Dritter bei der Berechnung der Mietabgeltung in Abzug gebracht.
+<sup>3</sup> Die Spartenrechnung beinhaltet insbesondere:
 
-<sup>4</sup> Die Mietabgeltung bezieht sich auf die effektiv gemieteten Flächen (Hauptnutzflächen nach SIA 416) und wird bei Veränderung der Flächen dem aktuellen Stand angepasst.
+- a. die Beiträge der Vertragskantone für Immobilienaufwendungen;
+- b. die Beiträge des Bundes für Immobilienaufwendungen;
+- c. die Grundmiete für Liegenschaften im Eigentum eines Vertragskantons;
+- d. den Mietaufwand für Drittliegenschaften;
+- e. den Aufwand für Unterhalt und Investitionen innerhalb des Ausbaufonds (Liegenschaften der Vertragskantone);
+- f. den Aufwand für Unterhalt und Investitionen ausserhalb des Ausbaufonds (Drittliegenschaften, Liegenschaften im Eigentum der Universität);
+- g. den Aufwand für Mobiliar, Betriebseinrichtungen und Betriebskosten;
+- h. die Abschreibungen und Zinsen auf Investitionen im Eigentum der Universität;
+- i. die Auflösung und Bildung von Rücklagen (inkl. Ausbaufonds und Ausgleichskonto).
 
-<sup>5</sup> Die Miet-Nebenkosten sind nicht in der Mietabgeltung enthalten. Sie werden über das Gesamtbudget der Universität finanziert.
+<sup>4</sup> Die Einzelheiten zu Umfang und Detaillierungsgrad der Spartenrechnung Immobilien legen die Vertragskantone in Absprache mit der Universität fest.
 
-[^3-1]: Für die erstmalige Festlegung gilt Version 2.0 des Kostenrechnungsmodells für universitäre Institutionen vom 4.10.2002, Anhang B.
+<sup>5</sup> Die Spartenrechnung schliesst jeweils mit einem ausgeglichenen Ergebnis ab. Über- und Unterdeckungen sind einem Ausgleichskonto zuzuführen.
+
+<sup>6</sup> Die Spartenrechnung sowie die Ausbaufondseinlagen und -entnahmen sind im Anhang zur Bilanz separat auszuweisen.
 
 #### § 4
 
-**Einlage in den Immobilienfonds**
+**Liegenschaftsverzeichnis**
 
-<sup>1</sup> Die Einlage in den Immobilienfonds wird im Leistungsauftrag an die Universität festgelegt.
-
-<sup>2</sup> Sie umfasst auf der Grundlage von § 3 Absatz 1 mindestens die Instandhaltung (1%) und die Instandsetzung / Erneuerung (2.5%). Sie kann zusätzlich Mittel für Veränderungen, Erwerb und Neubau gemäss § 40 Absatz 4 des Universitätsvertrags vorsehen.
+<sup>1</sup> Die Universität führt ein Verzeichnis der von ihr genutzten Liegenschaften und bringt dieses im Rahmen der Berichterstattung gemäss § 7 Abs. 4 des Universitätsvertrags den Regierungen zur Kenntnis.
 
 #### § 5
 
-**Anpassung**
+**Umsetzungsplanung**
 
-<sup>1</sup> Die Flächenpauschalen für die Mietabgeltung gemäss SUK-Richtlinien und die Einlage in den Immobilienfonds werden von den Regierungen der Vertragskantone jeweils für eine Leistungsauftragsperiode festgelegt.
+<sup>1</sup> Der Universitätsrat unterbreitet den Regierungen der Vertragskantone im Hinblick auf die Erneuerung des Leistungsauftrags die aktualisierte Umsetzungsplanung der Bauvorhaben auf Basis der gültigen Immobilienstrategie der Universität.
+
+<sup>2</sup> Bei vorgesehenen Neu- und Ersatzbauten mit einem Investitionsvolumen von mehr als CHF 3 Mio. sowie Neueinmietungen mit einem Volumen von über CHF 200’000.– pro Jahr gibt das Immobiliengremium unter Berücksichtigung der geltenden Umsetzungsplanung eine Empfehlung zum Investitionsmodell zuhanden der Universität ab.
+
+<sup>3</sup> Bei vorgesehenen Neu- und Ersatzbauten mit einem Investitionsvolumen von mehr als CHF 40 Mio. sowie Neueinmietungen mit einem Volumen von über CHF 1,4 Mio. pro Jahr und einer Mindestvertragsdauer von 10 Jahren entscheiden die Regierungen der Vertragskantone im frühen Planungsstadium auf der Grundlage einer Empfehlung des Immobiliengremiums über das Investitionsmodell.
 
 #### § 6
 
-**Planung**
+**Beurteilung der Projektorganisation und Einsatz einer Bautreuhandstelle**
 
-<sup>1</sup> Der Universitätsrat unterbreitet den Vertragskantonen im Hinblick auf eine neue Leistungsauftragsperiode rechtzeitig eine detaillierte Planung für das Immobilienwesen der Universität.
+<sup>1</sup> Die Projektorganisationen von Neu- und Ersatzbauten der Universität werden dem Immobiliengremium vorgängig zur Beurteilung unterbreitet.
 
-## 3 Verwendung der Mittel des Immobilienfonds
+<sup>2</sup> Komplexe Bauvorhaben sind von einer externen Bautreuhandstelle zu begleiten.
 
 #### § 7
 
-**Zweck des Immobilienfonds**
+**Ausschreibung von Aufträgen**
 
-<sup>1</sup> Der Immobilienfonds dient primär der Finanzierung von Unterhalt und Veränderungen.
+<sup>1</sup> Bei der Ausschreibung von Aufträgen und bei der Auftragsvergabe im Rahmen von Einladungsverfahren sowie bei freihändigen Vergaben von Aufträgen sind die Anbietenden in den Kantonen Basel-Landschaft und Basel-Stadt gleichwertig zu behandeln. Den gesetzlichen Rahmen für die Auftragsvergaben bilden das Beschaffungsgesetz des Kantons Basel-Stadt sowie die übergeordneten Rechtserlasse und Abkommen.
 
-<sup>2</sup> Massgebend für die Definition des Unterhalts und von Veränderungen ist die SIA-Norm 469[^7-1] sowie im Zusammenhang mit der Mittelverwendung aus dem Immobilienfonds das Universitätsförderungsgesetz (UFG)[^7-2], die zugehörige Verordnung (UFV)[^7-3] und die Richtlinien des Staatssekretariats für Bildung und Forschung für die Universitätsförderung - Investitionsbeiträge[^7-4].
-
-[^7-1]: SIA-Norm 469 «Erhaltung von Bauwerken», Ausgabe von 1997.
-[^7-2]: Bundesgesetz vom 8. Oktober 1999 über die Förderung der Universitäten und über die Zusammenarbeit im Hochschulbereich (Universitätsförderungsgesetz, UFG; SR 414.20).
-[^7-3]: Verordnung zum Universitätsförderungsgesetz vom 13. März 2000 (UFV; SR 414.200).
-[^7-4]: Richtlinien des Staatssekretariats für Bildung und Forschung für die Universitätsförderung - Investitionsbeiträge, vom 1. Mai 2005.
+## 2 Einmietung in Liegenschaften eines Vertragskantons
 
 #### § 8
 
-**Verwendung der Mittel des Immobilienfonds**
+**Mietmodell**
 
-<sup>1</sup> Festeingebaute Betriebseinrichtungen, wie zum Beispiel Labormöbel, Zu- und Ableitungen im Sanitärbereich, Abluftanlagen oder Elektroanschlüsse, können dem Immobilienfonds belastet werden.
+<sup>1</sup> Die Vermietung von Liegenschaften im Eigentum eines Vertragskantons an die Universität orientiert sich an der Trennung von Grundausbau und Mietausbau. Der Grundausbau ist in der Verantwortung des vermietenden Vertragskantons. Der Mietausbau ist in der Verantwortung der Universität als Mieterin.
 
-<sup>2</sup> Investitionen in Liegenschaften Dritter im Sinne des Mieterausbaus können dem Immobilienfonds belastet werden. Dabei sind Rückgaberegelungen zu treffen, die die zeitproportionale Abgeltung von baulichen Massnahmen sowie von allfälligen Rückbauten des Mieterausbaus bei Kündigung des Mietverhältnisses durch den Vermieter berücksichtigen.
+<sup>2</sup> Der vermietende Vertragskanton und die Universität regeln in Rahmenmietverträgen für unterschiedliche Raumtypen die allgemeinen Rechte und Pflichten der Vertragsparteien sowie die Abgrenzung des Mietausbaus vom Grundausbau.
 
-<sup>3</sup> Die Planung und Ausführung der über den Immobilienfonds finanzierten Bauvorhaben wird aus dem Immobilienfonds vergütet.
-
-<sup>4</sup> Soweit die Mittel des Immobilienfonds nicht für die Finanzierung von Unterhalt und Veränderung der Liegenschaften benötigt werden, kann der Universitätsrat Planungskredite und Investitionen für die bauliche Weiterentwicklung der Universität im Hinblick auf die neue Leistungsperiode aus dem Immobilienfonds bereitstellen.
+<sup>3</sup> Die Rahmenmietverträge sind vor Abschluss dem Immobiliengremium zur Beurteilung vorzulegen.
 
 #### § 9
 
-**Wertvermehrende Investitionen**
+**Objektspezifische Regelungen**
 
-<sup>1</sup> Wertvermehrende Investitionen in die Liegenschaften eines Vertragskantons, die durch den anderen Vertragskanton mitfinanziert wurden und die bei Verkauf oder anderweitiger Vermietung der Liegenschaft einen höheren Verkaufswert oder Mietzins ermöglichen, sind dem Immobilienfonds durch den Eigentümer anteilig zu entschädigen.
+<sup>1</sup> Objektspezifische Regelungen werden in Einzelmietverträgen zwischen dem vermietenden Vertragskanton und der Universität festgelegt.
 
-<sup>2</sup> Solche Investitionen und der anrechenbare Mehrwert mit Abschreibungsdauer sind im Zeitpunkt der Investition zu definieren.
+<sup>2</sup> Die Einzelmietverträge sind vor Abschluss dem Immobiliengremium zur Beurteilung vorzulegen.
+
+<sup>3</sup> Die Mietverhältnisse werden jeweils auf eine befristete Dauer abgeschlossen, die auf einen 5-Jahres-Zyklus abgestimmt ist. Der Universität als Mieterin wird in der Regel einmalig ein einseitiges Optionsrecht für weitere 5 Jahre eingeräumt.
+
+<sup>4</sup> Zum Zweck des Investitionsschutzes können Mietverhältnisse über mehrere 5-Jahres-Zyklen vereinbart werden.
 
 #### § 10
 
-**Ausschreibung von Aufträgen**
+**Mietabgeltung**
 
-<sup>1</sup> Bei der Ausschreibung von Aufträgen und bei der Auftragsvergabe im Rahmen von Einladungsverfahren sowie bei freihändigen Vergaben von Aufträgen zu Lasten des Immobilienfonds sind die Anbieter in den Kantonen Basel-Landschaft und Basel-Stadt gleichwertig zu behandeln. Den gesetzlichen Rahmen für die Auftragsvergaben bilden das Submissionsgesetz des Kantons Basel-Stadt sowie die übergeordneten Rechtserlasse und Abkommen.
+<sup>1</sup> Die Mietabgeltungen werden grundsätzlich auf Basis des Kostenrechnungsmodells der Schweizerischen Hochschulkonferenz (SHK) für die universitären Hochschulen (Kostenrechnungsmodell SHK) festgelegt.
 
-## 4 Nutzung und Betrieb von Liegenschaften im Eigentum eines Vertragskantons
+<sup>2</sup> Das Kostenrechnungsmodell SHK wird brutto (ohne Abzug der Bundessubventionen) angewandt und die dem vermietenden Vertragskanton effektiv angefallenen oder anfallenden Bundessubventionen sowie weitere Beiträge Dritter werden bei der Berechnung der Mietabgeltung in Abzug gebracht.
+
+<sup>3</sup> Die Mietabgeltung bezieht sich auf die effektiv gemieteten Flächen (Hauptnutzflächen nach SIA 416) und wird bei Veränderung der Flächen dem aktuellen Stand angepasst.
+
+<sup>4</sup> Massgebend für die Festlegung der Mietabgeltung ist die Gesamtmiete gemäss dem Kostenrechnungsmodell SHK (SHK-Gesamtmiete). Die SHK-Gesamtmiete wird aufgeteilt in einen Anteil Grundausbau und einen Anteil Mietausbau. Der Anteil Grundausbau geht als Mietabgeltung an den vermietenden Vertragskanton. Der Anteil Mietausbau wird dem Ausbaufonds zugewiesen.
+
+<sup>5</sup> Die Aufteilung der SHK-Gesamtmiete in Anteil Grundausbau und Anteil Mietausbau wird in den Einzelmietverträgen einvernehmlich festgelegt. Die Aufteilung kann jeweils auf Beginn einer neuen Leistungsauftragsperiode gesamthaft überprüft und angepasst werden. Das Verhältnis der Aufteilung hat keinen Einfluss auf die SHK-Gesamtmiete.
+
+<sup>6</sup> Differenzen aus der Überprüfung werden in der Verteilung der SHK-Gesamtmiete der nächsten Leistungsauftragsperiode berücksichtigt.
+
+<sup>7</sup> Die Mietnebenkosten sind nicht in der Gesamtmiete enthalten. Sie werden ausserhalb des Ausbaufonds der Spartenrechnung «Immobilien» belastet.
+
+## 3 Grund- und Mietausbau in Liegenschaften eines Vertragskantons
 
 #### § 11
 
-**Mietverträge**
+**Grundausbau**
 
-<sup>1</sup> Für die von der Universität genutzten Liegenschaften im Eigentum eines Vertragskantons werden Mietverträge auf der Grundlage der Bestimmungen in § 3 abgeschlossen.
+<sup>1</sup> Der Grundausbau in Liegenschaften, die an die Universität vermietet werden, berücksichtigt die Nutzungsbedürfnisse der Universität.
 
-<sup>2</sup> Die Mietverträge richten sich grundsätzlich nach den Bestimmungen dieser Vereinbarung. Sie bestehen aus einer Rahmen-Vereinbarung und den Einzelmietverträgen.
-
-<sup>3</sup> Die Mietverhältnisse werden jeweils auf eine befristete Dauer abgeschlossen, die auf einen Fünf-Jahres-Zyklus abgestimmt ist. Der Mieterin wird in der Regel einmalig ein einseitiges Optionsrecht für weitere fünf Jahre eingeräumt.
-
-<sup>4</sup> Zum Zweck des Investitionsschutzes können Mietverhältnisse über mehrere Fünf-Jahres-Zyklen vereinbart werden.
+<sup>2</sup> Der Vertragskanton hat die an die Universität vermieteten Liegenschaften werterhaltend und der Nutzung entsprechend angemessen zu unterhalten.
 
 #### § 12
 
-**Nutzung und Betrieb**
+**Mietausbau**
 
-<sup>1</sup> Die Liegenschaften werden der Universität zur Nutzung im Rahmen des Leistungsauftrags überlassen.
+<sup>1</sup> Die Universität trägt die Verantwortung für den Mietausbau, dessen Unterhalt und allfällige Rückbauten.
 
-<sup>2</sup> Die Universität trägt die Verantwortung für den Unterhalt der Liegenschaften gemäss § 7 Absatz 2. Dafür stehen ihr die Mittel des Immobilienfonds zur Verfügung.
+<sup>2</sup> Die Universität plant und realisiert den Mietausbau sowie dessen Unterhalt unter Berücksichtigung des Grundsatzes der Nachhaltigkeit.
 
-<sup>3</sup> Die Universität erhält das Recht, an den Liegenschaften im Eigentum der Vertragskantone bauliche Veränderungen unter Einhaltung der gesetzlichen Vorschriften vorzunehmen. Für bauliche Veränderungen ist die Zustimmung der Gebäudeeigentümer einzuholen und eine Rückgaberegelung zu treffen.
+<sup>3</sup> Sie hat für beabsichtigte Mietausbauten frühzeitig die Zustimmung des vermietenden Vertragskantons einzuholen.
 
-<sup>4</sup> Rückbaukosten für bauliche Veränderungen, die vor Inkrafttreten dieser Vereinbarung erfolgt sind, gehen zu Lasten des Gebäudeeigentümers. Rückbaukosten für bauliche Veränderungen, die nach Inkrafttreten dieser Vereinbarung erfolgt sind, gehen zu Lasten der Universität.
+<sup>4</sup> Der vermietende Vertragskanton prüft eine Koordination des Mietausbaus mit Grundausbauten, einschliesslich Unterhaltsarbeiten.
 
 #### § 13
 
-**Versicherungen**
+**Mehrkosten infolge Schutzwürdigkeit von Liegenschaften, Altlasten oder verdeckten Mängeln**
 
-<sup>1</sup> Der Gebäudeeigentümer schliesst für die Liegenschaften die obligatorische Gebäudeversicherung der Universität ab.
+<sup>1</sup> Verursacht die Schutzwürdigkeit von Liegenschaften zusätzliche Kosten, gehen diese zu Lasten des vermietenden Vertragskantons.
 
-<sup>2</sup> Die Universität schliesst eine Gebäudehaftpflichtversicherung ab.
-
-<sup>3</sup> Die Prämien für diese Versicherungen gehen zu Lasten der Universität.
-
-## 5 Nicht über den Immobilienfonds finanzierbare Massnahmen
+<sup>2</sup> Treten an den unter diese Vereinbarung fallenden Liegenschaften im Eigentum eines Vertragskantons verdeckte Mängel oder Altlasten auf, gelangen die Gewährleistungsregelungen gemäss Universitätsvertrag zur Anwendung.
 
 #### § 14
 
-**Finanzierung durch die Universität**
+**Ausbaufonds**
 
-<sup>1</sup> Nicht unter den Immobilienfonds fallen
+<sup>1</sup> Die Universität führt einen Ausbaufonds zur Finanzierung von Mietausbauten sowie deren Unterhalt und erforderlichen Rückbauten in Liegenschaften eines Vertragskantons.
 
-- a. die Finanzierung von Mobiliar und Apparaten,
-- b. die dauernde Übernahme von Mietkosten,
-- c. die Kosten für Energie, Wasser, Abwasser und Reinigung,
-- d. die Prämien für Versicherungen,
-- e. der Aufwand für das betriebliche Gebäudemanagement.
+<sup>2</sup> Der Fonds wird gespiesen durch den Anteil Mietausbau an der SHK-Gesamtmiete.
+
+## 4 Investitionen in Liegenschaften eines Vertragskantons
 
 #### § 15
 
-**Finanzierung durch einen Vertragskanton als Gebäudeeigentümer**
+**Finanzierung**
 
-<sup>1</sup> Entstehen durch die Schutzwürdigkeit von Liegenschaften im Eigentum eines Vertragskantons zusätzliche Kosten, dürfen diese nicht aus dem Immobilienfonds gedeckt werden, sondern gehen zu Lasten des Vertragskantons, in dessen Eigentum die Liegenschaften sich befinden.
+<sup>1</sup> Neu- und Umbauten zur anschliessenden Vermietung an die Universität werden in der Regel von dem Vertragskanton finanziert, der Gebäudeeigentümer ist bzw. wird. Den Mietausbau finanziert die Universität aus dem Ausbaufonds.
 
-<sup>2</sup> Treten an den unter diese Vereinbarung fallenden Liegenschaften im Eigentum eines Vertragskantons verdeckte Mängel oder Altlasten auf, gelangen die Gewährleistungsvereinbarungen gemäss Universitätsvertrag zur Anwendung.
-
-## 6 Gemeinsame Neuinvestitionen ausserhalb des Immobilienfonds
+<sup>2</sup> Die Bundessubventionen kommen vollumfänglich der Universität zugute. Die Umsetzung wird objektspezifisch zwischen dem vermietenden Vertragskanton und der Universität geregelt und dem Immobiliengremium vorgängig zur Beurteilung unterbreitet.
 
 #### § 16
 
-**Finanzierung**
+**Projektorganisation und Planung**
 
-<sup>1</sup> Die Kosten für gemeinsame Investitionen, die nicht über den Immobilienfonds finanziert werden, exklusive nicht fest installierte Betriebseinrichtungen und Mobilien, werden durch die Vertragskantone grundsätzlich hälftig finanziert.
+<sup>1</sup> Die Bauherrschaft liegt beim Vertragskanton, der Gebäudeeigentümer ist bzw. wird, sofern die Vertragskantone keine andere Regelung über die Projektorganisation treffen.
 
-<sup>2</sup> Mehrkosten für zusätzliche Leistungen oder ausserordentliche, kostenintensive Leistungsstandards, die nur von einem Vertragskanton gewünscht und vom andern Vertragskanton abgelehnt werden und die zum nachhaltigen Fortbestehen der Universität nicht notwendig sind, sind durch denjenigen Vertragskanton separat zu finanzieren, der diese Leistungen oder Leistungsstandards verlangt.
+<sup>2</sup> Die Universität wird als Nutzerin in das Projekt eingebunden. Sie ist verantwortlich für die Definition der betrieblichen Anforderungen und des Mietausbaus inkl. Betriebseinrichtungen und Mobilien.
+
+<sup>3</sup> Die Projektanträge müssen den Standards der Vertragskantone entsprechen und bezüglich Wirtschaftlichkeit, Leistungen, Leistungsstandards und Synergien auf jede Projektphase angewendet werden.
+
+## 5 Neuinvestitionen durch die Universität
 
 #### § 17
 
-**Betriebseinrichtungen und Mobilien**
+**Finanzierung**
 
-<sup>1</sup> Nicht fest installierte Betriebseinrichtungen und Mobilien gehen in Form der jährlichen Abschreibungen vollständig zu Lasten der Rechnung der Universität.
+<sup>1</sup> Die Universität kann bei begründetem, zusätzlichem Bedarf mit Zustimmung der Regierungen der Vertragskantone Investitionen für eigene Neubauten einschliesslich Erwerb von Liegenschaften inklusive deren Sanierung tätigen.
 
-<sup>2</sup> Die Finanzierung kann über ein zu verzinsendes und zu amortisierendes Kontokorrent-Darlehen durch einen Trägerkanton erfolgen.
+<sup>2</sup> Sie finanziert diese Investitionen durch:
 
-<sup>3</sup> Eigentümerin der nicht fest installierten Betriebseinrichtungen und Mobilien nach Fertigstellung eines Neubaus wird die Universität.
+- a. Fremdfinanzierung auf Basis einer paritätischen Kreditsicherungsgarantie der Vertragskantone;
+- b. ein zu verzinsendes und amortisierendes Kontokorrent-Darlehen der Vertragskantone; oder
+- c. Eigenkapital.
 
 #### § 18
 
-**Bundessubventionen**
+**Projektorganisation und -planung**
 
-<sup>1</sup> Bundessubventionen fliessen vollumfänglich in den Baukredit und dienen der Defizitdeckung.
+<sup>1</sup> Die Bauherrschaft liegt bei der Universität.
+
+<sup>2</sup> Die Universität stellt sicher, dass ihre Standort- und Bauentscheide auf transparenten Planungsgrundlagen basieren und auf die strategische Planung der Universität abgestimmt sind.
+
+<sup>3</sup> Sie hat in den Planungsunterlagen insbesondere aufzuzeigen, welche Kostenfolgen die Investitionsausgaben haben und wie sich die Investitionen auf die Kosten des laufenden Betriebs der Universität auswirken.
+
+<sup>4</sup> Sie berücksichtigt bei der Standortevaluation geeignete Areale in beiden Vertragskantonen.
+
+<sup>5</sup> Sie setzt den Ausbaustandard von Neuinvestitionen so an, dass die Kosten der kapitalisierten Ansätze gemäss dem Kostenrechnungsmodell SHK und der Bemessungsrichtlinien des Bundes für Bausubventionen nicht überschritten werden.
+
+<sup>6</sup> Sie erstattet den Vertragskantonen regelmässig Bericht über den Projektfortschritt.
+
+## 6 Einmietung der Universität in Drittliegenschaften und Investitionsobjekten eines Vertragskantons
 
 #### § 19
 
-**Planung**
+**Abschluss von Mietverträgen**
 
-<sup>1</sup> Standort- und Bauentscheide basieren auf transparenten Planungsgrundlagen, welche auf die strategische Planung der Universität abgestimmt sind sowie die Kostenfolgen der Investitionsausgaben und die Folgen der Investitionen auf die Kosten des laufenden Betriebs der Universität aufzeigen.
+<sup>1</sup> Die Universität kann Mietverträge in Drittliegenschaften abschliessen.
 
-<sup>2</sup> Investitionen in Bauvorhaben ausserhalb des Immobilienfonds müssen mit Betriebskostenoptimierungen verbunden sein oder als begründeter zusätzlicher Bedarf nachgewiesen werden.
+<sup>2</sup> Die Mietzinsen müssen verhältnismässig sein. Sie dürfen marktübliche Preise nicht überschreiten.
 
-<sup>3</sup> Die Bauherrschaft soll im Sinne der demokratischen Legitimierung und Steuerung, der politischen Akzeptanz, der Berücksichtigung der kantonalen Investitionspläne und der Kapitalbeschaffung gemeinsam ausgeübt werden.
-
-<sup>4</sup> Das Gesamtprojekt wird in Phasen etappiert, die jeweils hinsichtlich der Kostenberechnung separat betrachtet werden: Standortevaluation, allfällige Rückbaukosten für die Bereitstellung des Grundstücks, Vorprojekt, Bauprojekt. Die BL/BS-Standards bezüglich Wirtschaftlichkeit, Leistungen, Leistungsstandards und Synergien werden auf jede Projektphase angewendet.
-
-<sup>5</sup> Bei der Standortevaluation sind auch geeignete Areale im Kanton Basel-Landschaft zu berücksichtigen.
-
-<sup>6</sup> Der Ausbaustandard von Neuinvestitionen ist so anzusetzen, dass die Kosten der kapitalisierten Ansätze der Schweizerischen Universitätskonferenz und der Bemessungsrichtlinien des Bundes für Bausubventionen nicht überschritten werden. Abweichungen bedürfen der Zustimmung der zuständigen politischen Instanzen.
+<sup>3</sup> Ausnahmsweise und im gegenseitigen Einvernehmen der Vertragskantone kann ein Vertragskanton als Investor auftreten und vom Mietmodell gemäss § 8 und von der Mietabgeltung gemäss § 10 abgewichen werden. In diesem Fall müssen Bundessubventionen vollumfänglich in der Mietzinsberechnung berücksichtigt werden.
 
 #### § 20
 
-**Nutzung und Betrieb**
+**Mietausbauten**
 
-<sup>1</sup> Die Universität bezahlt für die Nutzung von Liegenschaften eine Mietabgeltung gemäss § 3 an die beiden Vertragskantone, sofern diese Eigentümer der Liegenschaft sind.
+<sup>1</sup> Der Mietausbau wird entweder durch die Universität analog § 17 Abs. 2 oder durch die Vermietenden finanziert.
 
-<sup>2</sup> Die Aufteilung der Mietabgeltung erfolgt gemäss dem Finanzierungsschlüssel für die Investition.
+<sup>2</sup> Für durch die Universität finanzierte Mietausbauten ist vorgängig eine Übernahme- bzw. Rückbauregelung für das Mietobjekt zu treffen.
 
-<sup>3</sup> Die Instandhaltung und Instandsetzung erfolgt über den Immobilienfonds der Universität.
-
-## 7 Fachkommission Immobilien
+## 7 Immobiliengremium
 
 #### § 21
 
-**Zusammensetzung**
+**Aufgaben**
 
-<sup>1</sup> Der Universitätsrat setzt eine Fachkommission ein, die ihn im Immobilienbereich berät.
+<sup>1</sup> Das Immobiliengremium hat insbesondere die folgenden Aufgaben:
 
-<sup>2</sup> Die Kommission setzt sich aus sieben bis neun Fachleuten zusammen, wobei auf eine angemessene Vertretung der Vertragskantone zu achten ist.
+- a. Es verschafft sich einen umfassenden Überblick über die Immobilienbelange der Universität.
+- b. Es beurteilt und plausibilisiert Anträge, Berichterstattungen und weitere Informationen an Regierungen und Universitätsrat.
+- c. Es überprüft das Liegenschaftsportfolio der Universität (Miete und Eigentum).
+- d. Es erarbeitet Empfehlungen zuhanden der Universität und der Vertragskantone in strategischen Immobilienfragen.
+- e. Es tauscht sich regelmässig mit dem Fachausschuss Immobilien des Universitätsrates aus.
+- f. Es erstattet jährlich Bericht an den Fachausschuss Immobilien, den Universitätsrat und den Lenkungsausschuss.
+
+<sup>2</sup> Es berücksichtigt dabei die finanziellen Möglichkeiten und weitere übergeordnete Interessen der Vertragskantone und der Universität.
 
 #### § 22
 
-**Aufgaben**
+**Pflichtenheft**
 
-<sup>1</sup> Die Kommission achtet besonders auf die zweckmässige, haushälterische Verwendung der Mittel im Sinne der Vertragskantone, auf die Werterhaltung der Liegenschaften im Eigentum der Universität oder eines Vertragskantons sowie auf die Einhaltung der rechtlichen Vorschriften.
+<sup>1</sup> Die Regierungen der Vertragskantone und der Universitätsrat legen in einem Pflichtenheft die weiteren Aufgaben und Kompetenzen sowie die Zusammensetzung und Organisation des Immobiliengremiums fest.
 
-<sup>2</sup> Sie kann dem Universitätsrat Änderungen des Liegenschaftenverzeichnisses vorschlagen.
-
-<sup>3</sup> Der Universitätsrat legt die weiteren Aufgaben der Kommission in einem Pflichtenheft fest.
-
-## 8 Schlussbestimmungen
+## 8 Übergangs- und Schlussbestimmungen
 
 #### § 23
 
-**Beilegung von Streitigkeiten**
+**Wertvermehrende Investitionen bis 31. Dezember 2021**
 
-<sup>1</sup> Für Streitfälle zwischen den Vereinbarungspartnern gilt sinngemäss § 46 des Universitätsvertrags[^23-1].
+<sup>1</sup> Wertvermehrende Investitionen, die die Universität seit Inkrafttreten des Universitätsvertrags bis zum 31. Dezember 2021 in Liegenschaften eines Vertragskantons getätigt hat, hat der Vertragskanton der Universität zum Zeitpunkt einer Handänderung oder Rückgabe der Liegenschaft in dem Umfang zu entschädigen, als sie noch nicht abgeschrieben sind.
 
-[^23-1]: GS 36.72, SGS 664.1
+<sup>2</sup> Die getätigten wertvermehrenden Investitionen in die Liegenschaften eines Vertragskantons sollen bis zum 31. Dezember 2021 erfasst werden mit Summe, Inhalt und Zeitpunkt der Investition. Dies gilt nur für Liegenschaften, für die derzeit eine Handänderung oder eine Rückgabe an den Vertragskanton beabsichtigt ist.
+
+<sup>3</sup> Für die übrigen Liegenschaften mit wertvermehrenden Investitionen gemäss Abs. 1 ist der Zugriff auf die entsprechenden Daten im Hinblick auf eine mögliche Handänderung oder Rückgabe der Liegenschaft sicherzustellen.
 
 #### § 24
 
-**Inkrafttreten**
+**Überführung von Liegenschaften in das neue Mietmodell**
 
-<sup>1</sup> Die Vereinbarung tritt nach der Genehmigung durch den Regierungsrat des Kantons Basel-Landschaft und den Regierungsrat des Kantons Basel-Stadt gleichzeitig mit dem Universitätsvertrag in Kraft[^24-1].
+<sup>1</sup> Bestehende Mietverhältnisse zwischen dem Kanton Basel-Stadt und der Universität werden bis 31. Dezember 2023 in das neue Mietmodell überführt.
 
-<sup>2</sup> Sie ist nach Ablauf der ersten Leistungsauftragsperiode der Universität zu überprüfen.
-
-[^24-1]: In Kraft seit 1. Januar 2007.
+<sup>2</sup> Die Überführung der Mietverhältnisse ist den Regierungen der Vertragskantone vorgängig zur Genehmigung vorzulegen.
 
 #### § 25
 
 **Kündigung**
 
-<sup>1</sup> Nach Ablauf der ersten beiden Leistungsauftragsperioden der Universität kann diese Vereinbarung von jeder der beiden Kantonsregierungen jeweils auf das Ende einer Leistungsauftragsperiode gekündigt werden.
+<sup>1</sup> Diese Vereinbarung kann von jeder der beiden Kantonsregierungen jeweils auf das Ende einer Leistungsauftragsperiode gekündigt werden.
 
-<sup>2</sup> Die Kündigung hat wenigstens ein Jahr im Voraus schriftlich zu erfolgen.
+<sup>2</sup> Die Kündigung muss mindestens 2 Jahre vor dem Ende der entsprechenden Leistungsauftragsperiode ausgesprochen werden.
 
-GS 36.0950
+#### § 26
+
+**Regelmässige Überprüfung**
+
+<sup>1</sup> Die Regierungen der Vertragskantone überprüfen diese Vereinbarung regelmässig im Zuge der Verhandlung der Leistungsaufträge an die Universität.
+
+GS 2022.024
