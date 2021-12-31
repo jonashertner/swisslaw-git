@@ -3,11 +3,11 @@ sr: "0.632.316.821"
 title: "Accord de libre-échange du 17 décembre 2009 entre les États de l'AELE et la République de Serbie (avec annexes, prot. et décl.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/605"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2009-12-17
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/605/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-605-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/605/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/605/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-605-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/605/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 15 avril 2010
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> octobre 2010
 
-(Etat le 1<sup>er</sup> juillet 2021)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 15 mars 2010 ([RO 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604))
 
@@ -846,7 +846,7 @@ Art. 55 Dépositaire
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Ces documents ne sont pas publiés au RO ([RO 2019 5057](https://fedlex.data.admin.ch/eli/oc/2019/799); [2021 335](https://fedlex.data.admin.ch/eli/oc/2021/335)). Ils peuvent être obtenus en version originale anglaise auprès de l’Office fédéral des constructions et de la logistique, Diffusions publications, 3003 Berne, et sont disponibles sur le site Internet du Secrétariat de l’AELE: www.efta.int/free-trade/Free-Trade-Agreement/Serbia.
+[^annexu1-lvlu2-1]: Ces documents ne sont pas publiés au RO ([RO 2019 5057](https://fedlex.data.admin.ch/eli/oc/2019/799); [2021 335](https://fedlex.data.admin.ch/eli/oc/2021/335), [867](https://fedlex.data.admin.ch/eli/oc/2021/867)). Ils peuvent être obtenus en version originale anglaise auprès de l’Office fédéral des constructions et de la logistique, Diffusions publications, 3003 Berne, et sont disponibles sur le site Internet du Secrétariat de l’AELE: www.efta.int &gt; Global Trade relations &gt; Free Trade Agreements &gt; Serbia.
 
 ***Annex I*** Referred to in Subparagraph 1 (a) of Article 6 – Excluded products
 
@@ -890,10 +890,12 @@ Appendix 4B to Protocol B – Text of the invoice declaration EUR-MED
 
 Appendix 5 to Protocol B – List of countries or territories participating in the Euro-Mediterranean Partnership based on the Barcelona Declaration
 
-***Joint committee***
+***Joint committee Decisions***
 
-Decision No 1-12 - Rules of Procedure
+Decision No 1-12 Rules of Procedure
+
+Decision No 1-18 Amending Protocol B
 
 Decision No 2-18 Amending Annex IV
 
-Decision No 1-18 Amending Protocol B
+Decision No 1-21 Amending Protocol B
