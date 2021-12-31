@@ -4,13 +4,13 @@ number: "213.316"
 title: Loi sur la protection de l’enfant et de l’adulte
 short: LPEA
 language: fr
-version: 2020-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-02
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-03-09
 adopted: 2012-02-01
 in_force: 2012-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.316"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1964/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2470/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1964/pdf_file"
 
 (LPEA)
 
-du 01.02.2012 (état au 01.11.2020)
+du 01.02.2012 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -494,7 +494,9 @@ arrête:
 
 <sup>3</sup> Après réception de la facture, l’autorité de protection de l’enfant et de l’adulte détermine si la personne concernée est en mesure de prendre les coûts à sa charge, au vu de son revenu et de sa fortune, ou s’il y a lieu de les préfinancer en application de l’article 42.
 
-<sup>4</sup> Elle statue sur la prise en charge des coûts par voie de décision.
+<sup>4</sup> Elle statue sur la prise en charge des coûts des mesures de protection de l’adulte par voie de décision.
+
+<sup>5</sup> La participation aux coûts des mesures de protection de l’enfant est fixée avec les personnes concernées. Si aucun accord n’est trouvé, le canton peut exiger cette participation par voie d’action civile.
 
 #### Art. 42
 
@@ -514,7 +516,7 @@ arrête:
 
 **3. Remboursement**
 
-<sup>1</sup> La personne concernée est tenue de s’acquitter ultérieurement des coûts lorsque ses conditions économiques s’améliorent notablement et que le remboursement peut être exigé d’elle. L’autorité de protection de l’enfant et de l’adulte examine régulièrement si les conditions d’un remboursement sont remplies.
+<sup>1</sup> La personne concernée est tenue de s’acquitter ultérieurement des coûts, à l’exception de ceux qui concernent les mesures de protection de l’enfant, lorsque ses conditions économiques s’améliorent notablement et que le remboursement peut être exigé d’elle. L’autorité de protection de l’enfant et de l’adulte examine régulièrement si les conditions d’un remboursement sont remplies.
 
 <sup>2</sup> Une fois la procédure close ou la mesure levée, l’autorité de protection de l’enfant et de l’adulte fixe le montant versé à titre de préfinancement dans une décision susceptible d’être attaquée. L’Intendance des impôts examine ensuite, lors de la procédure de taxation, si les conditions d’un remboursement sont remplies et, le cas échéant, en informe l’autorité qui a statué.
 
@@ -880,7 +882,7 @@ arrête:
 
 <sup>1</sup> Le canton veille, en collaboration avec les communes, à ce que les places nécessaires à l’exécution du placement à des fins d’assistance soient disponibles dans des institutions et foyers appropriés. La Direction de la santé, des affaires sociales et de l’intégration et la Direction de l’intérieur et de la justice font appel au directoire des autorités de protection de l’enfant et de l’adulte pour inventorier les besoins.
 
-<sup>2</sup> L’octroi de contributions d’investissement et d’exploitation à des institutions et à des foyers au sens des législations sur les soins hospitaliers et sur l’aide sociale peut être subordonné à l’obligation d’admettre des personnes pour lesquelles un placement à des fins d’assistance a été ordonné.
+<sup>2</sup> L’octroi de contributions d’investissement ou d’exploitation à des institutions et à des foyers au sens des législations sur les soins hospitaliers et sur les programmes d’action sociale peut être subordonné à l’obligation d’admettre des personnes pour lesquelles un placement à des fins d’assistance a été ordonné.
 
 ## 15 Dispositions d’exécution
 

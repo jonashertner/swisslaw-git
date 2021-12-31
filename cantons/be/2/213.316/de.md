@@ -4,13 +4,13 @@ number: "213.316"
 title: Gesetz über den Kindes- und Erwachsenenschutz
 short: KESG
 language: de
-version: 2020-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-02
+version: 2022-01-01
+valid_until: 2026-08-31
+version_adopted: 2021-03-09
 adopted: 2012-02-01
 in_force: 2012-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.316"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1964/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1964/pdf_file"
 
 (KESG)
 
-vom 01.02.2012 (Stand 01.11.2020)
+vom 01.02.2012 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -494,7 +494,9 @@ beschliesst:
 
 <sup>3</sup> Die Kindes- und Erwachsenenschutzbehörde klärt nach Eingang der Rechnung ab, ob die betroffene Person aufgrund ihrer Einkommens- und Vermögensverhältnisse in der Lage ist, für die Kosten aufzukommen oder ob diese im Sinne von Artikel 42 vorzufinanzieren sind.
 
-<sup>4</sup> Sie eröffnet den Kostenentscheid durch Verfügung.
+<sup>4</sup> Sie eröffnet den Entscheid über die Kosten von Erwachsenenschutzmassnahmen durch Verfügung.
+
+<sup>5</sup> Die Beteiligung an Kosten von Kindesschutzmassnahmen wird mit den betroffenen Personen vereinbart. Kommt keine Einigung zustande, kann der Kanton die Kostenbeteiligung auf dem zivilen Klageweg einfordern.
 
 #### Art. 42
 
@@ -514,7 +516,7 @@ beschliesst:
 
 **3. Nachzahlung**
 
-<sup>1</sup> Die betroffene Person ist zur Nachzahlung verpflichtet, wenn sich ihre wirtschaftlichen Verhältnisse wesentlich verbessert haben und ihr eine Nachzahlung zugemutet werden kann. Die Kindes- und Erwachsenenschutzbehörde prüft regelmässig, ob die Voraussetzungen der Nachzahlungspflicht erfüllt sind.
+<sup>1</sup> Die betroffene Person ist mit Ausnahme der Kosten von Kindesschutzmassnahmen zur Nachzahlung verpflichtet, wenn sich ihre wirtschaftlichen Verhältnisse wesentlich verbessert haben und ihr eine Nachzahlung zugemutet werden kann. Die Kindes- und Erwachsenenschutzbehörde prüft regelmässig, ob die Voraussetzungen der Nachzahlungspflicht erfüllt sind.
 
 <sup>2</sup> Nach Abschluss des Verfahrens oder nach Aufhebung der Massnahmen wird der vorfinanzierte Betrag von der kantonalen Kindes- und Erwachsenenschutzbehörde in einer anfechtbaren Verfügung festgelegt. Die Steuerverwaltung prüft anschliessend im Rahmen der Steuerveranlagung, ob die Voraussetzungen der Nachzahlungspflicht erfüllt sind und macht gegebenenfalls Meldung an die verfügende Behörde.
 
@@ -878,7 +880,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton sorgt in Zusammenarbeit mit den Gemeinden dafür, dass die zum Vollzug der fürsorgerischen Unterbringung erforderlichen Plätze in geeigneten Einrichtungen und Heimen zur Verfügung stehen. Die Gesundheits-, Sozial- und Integrationsdirektion und die Direktion für Inneres und Justiz ziehen für die Bedarfserhebung die Geschäftsleitung der Kindes- und Erwachsenenschutzbehörden bei.
 
-<sup>2</sup> Mit Investitions- oder Betriebskostenbeiträgen an Einrichtungen und Heime im Sinne der Spitalversorgungs- und Sozialhilfegesetzgebung kann als Auflage die Verpflichtung zur Aufnahme von Personen verbunden werden, für die eine fürsorgerische Unterbringung angeordnet worden ist.
+<sup>2</sup> Mit Investitions- oder Betriebskostenbeiträgen an Einrichtungen und Heime im Sinne der Spitalversorgungsgesetzgebung und der Gesetzgebung über die sozialen Leistungsangebote kann als Auflage die Verpflichtung zur Aufnahme von Personen verbunden werden, für die eine fürsorgerische Unterbringung angeordnet worden ist.
 
 ## 15 Ausführungsbestimmungen
 
