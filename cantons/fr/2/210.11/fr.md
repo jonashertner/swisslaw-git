@@ -4,13 +4,13 @@ number: "210.11"
 title: "Ordonnance d'application du code civil suisse"
 short: OACC
 language: fr
-version: 2020-09-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-01-31
 version_adopted: 2020-08-25
 adopted: 2012-12-11
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/210.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6593/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6905/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Code civil - O d'application
 
 (OACC)
 
-du 11.12.2012 (version entrée en vigueur le 01.09.2020)
+du 11.12.2012 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -63,17 +63,7 @@ Arrête:
 
 #### Art. 3
 
-**Participation financière pour thérapies suivies sur la proposition du Ministère public**
-
-<sup>1</sup> Les auteur-e-s d'actes de violence, de menaces ou de harcèlement qui ne disposent pas des ressources suffisantes pour supporter les frais d'une thérapie suivie sur la proposition du Ministère public sans s'exposer à la privation des choses nécessaires à leur existence ou à celle de leur famille peuvent bénéficier d'une participation de l'Etat pour le financement de leur thérapie, dans les limites du budget de l'Etat.
-
-<sup>2</sup> Le Ministère public est compétent pour traiter ces demandes de participation financière.
-
-<sup>3</sup> Celui ou celle qui entend bénéficier d'un tel soutien doit fournir tous les renseignements et toutes les pièces justificatives nécessaires à l'examen de sa situation financière. Il ou elle est tenu-e de signaler immédiatement toute modification survenue dans sa situation personnelle et économique.
-
-<sup>4</sup> Si le ou la bénéficiaire revient à meilleure fortune ou s'il est démontré que son état d'indigence n'existait pas, l'Etat peut exiger de lui le remboursement de ses prestations. La prétention doit être invoquée dans les dix ans dès l'octroi de la participation financière.
-
-<sup>5</sup> Le service chargé des relations avec le Pouvoir judiciaire est compétent pour demander le remboursement des prestations accordées.
+**…**
 
 #### Art. 3a
 
@@ -82,6 +72,18 @@ Arrête:
 <sup>1</sup> La Police cantonale notifie à l'auteur‑e de violence expulsé‑e qu'il ou elle a l'obligation de participer à trois entretiens auprès d'un organisme reconnu de prise en charge des auteur‑e‑s de violence domestique et lui transmet les coordonnées de l'organisme actif dans le canton de Fribourg. La Police cantonale transmet les données personnelles utiles de l'auteur‑e à l'organisme.
 
 <sup>2</sup> Si, pendant une période d'une année, plusieurs expulsions de domicile sont prononcées contre une même personne, celle-ci est astreinte à suivre une seule fois les trois entretiens obligatoires.
+
+#### Art. 3b
+
+**Procédure d'exécution de la surveillance électronique**
+
+<sup>1</sup> Le Service de l'exécution des sanctions pénales et de la probation (ci-après: le SESPP) peut en tout temps prendre connaissance des données relatives à la surveillance électronique des personnes concernées. Celles-là ne sont utilisées que pour l'exécution de l'interdiction prononcée.
+
+<sup>2</sup> En cas de constatation du non-respect de l'interdiction ou en cas de sollicitation de la victime ou du président ou de la présidente de tribunal, le SESPP est habilité à transmettre ces données aux autorités judiciaires compétentes et aux autorités de police.
+
+<sup>3</sup> Les données enregistrées sont effacées au plus tard douze mois après la fin de la mesure.
+
+<sup>4</sup> Le SESPP perçoit les frais d'exécution de la surveillance électronique. Il délègue sa compétence à un autre canton si nécessaire.
 
 ### 1.2 Choses trouvées (art. 69 LACC)
 

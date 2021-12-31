@@ -4,13 +4,13 @@ number: "210.11"
 title: Ausführungsverordnung zum Schweizerischen Zivilgesetzbuch
 short: AVZGB
 language: de
-version: 2020-09-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-01-31
 version_adopted: 2020-08-25
 adopted: 2012-12-11
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/210.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6593/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6905/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Zivilgesetzbuch, Ausführungsverordnung
 
 (AVZGB)
 
-vom 11.12.2012 (Fassung in Kraft getreten am 01.09.2020)
+vom 11.12.2012 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -63,17 +63,7 @@ beschliesst:
 
 #### Art. 3
 
-**Finanzielle Beteiligung an Therapien auf Antrag der Staatsanwaltschaft**
-
-<sup>1</sup> Urheberinnen und Urheber von Gewalt, Drohungen oder Nachstellungen, die nicht in der Lage sind, die Kosten einer von der Staatsanwaltschaft angeordneten Therapie zu tragen, ohne die Mittel anzugreifen, die sie zur Deckung des Grundbedarfs für sich und ihre Familie brauchen, können vom Staat, im Rahmen des Staatsvoranschlags, eine Beteiligung an der Finanzierung ihrer Therapie erhalten.
-
-<sup>2</sup> Für die Behandlung der Gesuche um finanzielle Beteiligung ist die Staatsanwaltschaft zuständig.
-
-<sup>3</sup> Wer eine solche Unterstützung beanspruchen möchte, muss alle Angaben und Belege vorlegen, die zur Prüfung der finanziellen Situation erforderlich sind. Sie oder er ist verpflichtet, jegliche Änderung der persönlichen oder finanziellen Lage unmittelbar zu melden.
-
-<sup>4</sup> Gelangt die oder der Berechtigte später zu hinreichenden Mitteln oder wird nachgewiesen, dass ihre oder seine Bedürftigkeit nicht bestand, so kann der Staat die Rückerstattung der Leistungen verlangen. Der Anspruch muss innert zehn Jahren nach Gewährung der finanziellen Beteiligung geltend gemacht werden.
-
-<sup>5</sup> Das für die Beziehungen zur richterlichen Gewalt zuständige Amt entscheidet über die Rückerstattung der gewährten Leistungen.
+**…**
 
 #### Art. 3a
 
@@ -82,6 +72,18 @@ beschliesst:
 <sup>1</sup> Die Kantonspolizei teilt der weggewiesenen Urheberin von Gewalt oder dem weggewiesenen Urheber von Gewalt mit, dass sie oder er verpflichtet ist, an drei Gesprächen bei einer anerkannten Organisation zur Betreuung von Urheberinnen und Urhebern von häuslicher Gewalt teilzunehmen, und gibt ihr oder ihm die Kontaktdaten der im Kanton Freiburg tätigen Organisation. Die Kantonspolizei leitet die sachdienlichen Personendaten an die Organisation weiter.
 
 <sup>2</sup> Wenn innert eines Jahres gegen dieselbe Person mehrere Wegweisungen verfügt werden, muss sie die drei obligatorischen Gespräche einmal absolvieren.
+
+#### Art. 3b
+
+**Verfahren für den Vollzug der elektronischen Überwachung**
+
+<sup>1</sup> Das Amt für Justizvollzug und Bewährungshilfe (JVBHA) kann jederzeit die Daten der elektronischen Überwachung von betroffenen Personen einsehen. Diese werden nur für den Vollzug des verfügten Verbots verwendet.
+
+<sup>2</sup> Wird festgestellt, dass das Verbot nicht eingehalten wird oder dass das Opfer oder die Gerichtspräsidentin bzw. der Gerichtspräsident aufgesucht wird, ist das JVBHA befugt, die Daten den zuständigen Gerichtsbehörden und der Polizei zu übermitteln.
+
+<sup>3</sup> Die gespeicherten Daten werden spätestens zwölf Monate nach dem Ende der Massnahme gelöscht.
+
+<sup>4</sup> Das JVBHA zieht die Kosten für den Vollzug der elektronischen Überwachung ein. Bei Bedarf delegiert es diese Kompetenz an einen anderen Kanton.
 
 ### 1.2 Fundsachen (Art. 69 EGZGB)
 
