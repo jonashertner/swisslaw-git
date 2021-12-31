@@ -3,20 +3,20 @@ canton: OW
 number: "641.412"
 title: Ausführungsbestimmungen über den steuerlichen Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-10-29
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-30
 adopted: 1995-01-03
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.412"
-pdf: "http://gdb.ow.ch/api/de/versions/1394/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1545/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über den steuerlichen Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
 
-vom 03.01.1995 (Stand 01.01.2020)
+vom 03.01.1995 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -53,6 +53,14 @@ beschliesst:
 <sup>4</sup> Für die Hin- und Rückfahrt über Mittag ist der Fahrkostenabzug auf die Höhe des vollen Abzugs für auswärtige Verpflegung (Art. 4 Abs. 1 dieser Ausführungsbestimmungen) beschränkt.
 
 <sup>5</sup> Der Fahrkostenabzug ist auf Fr. 10 000.– beschränkt. Bei der Fahrkostenbeschränkung werden sämtliche entstandenen Fahrkosten berücksichtigt (öffentliche Verkehrsmittel, Fahrrad, Motorfahrrad, Motorrad, Privatauto inkl. der Fahrkosten bei Wochenaufenthalt).
+
+#### Art. 3a
+
+**Fahrkosten bei der unentgeltlichen privaten Nutzung von Geschäftsfahrzeugen**
+
+<sup>1</sup> Nutzt die steuerpflichtige Person ein Geschäftsfahrzeug unentgeltlich für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke, so kann anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung und des Fahrkostenabzugs nach Artikel 3 eine pauschale Fahrkostenberechnung vorgenommen werden.
+
+<sup>2</sup> Bei der pauschalen Fahrkostenberechnung gelten 0,9 Prozent des Kaufpreises des Fahrzeugs als monatliches Einkommen aus dieser Nutzung.
 
 #### Art. 4
 
@@ -143,6 +151,8 @@ Geändert durch:
 
 \- Nachtrag vom 18. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2018, 56)
 
-\- Nachtrag vom 29. Oktober 2019, in Kraft seit 1. Januar 2020 (OGS 2019, 52)
+\- Nachtrag vom 29. Oktober 2019, in Kraft seit 1. Januar 2020 (OGS 2019, 52),
+
+\- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 47)
 
 OGS 1995, 57
