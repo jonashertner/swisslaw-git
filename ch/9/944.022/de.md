@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 2012 über die Deklaration von Pelzen und Pel
 short: PelzV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/114"
 language: de
-version: 2020-04-01
+version: 2022-01-01
 adopted: 2012-12-07
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/114/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2013-114-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/114/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-114-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20200401/de"
 
 (Pelzdeklarationsverordnung)
 
-vom 7. Dezember 2012 (Stand am 1. April 2020)
+vom 7. Dezember 2012 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -59,7 +59,7 @@ In dieser Verordnung bedeuten:
 
 Jede Person, die Pelze oder Pelzprodukte an Konsumentinnen und Konsumenten abgibt, muss darauf die Deklaration «Echtpelz» anbringen.
 
-[^2a-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2a-1]: Eingefügt durch Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 3
 
@@ -79,8 +79,8 @@ Jede Person, die Pelze oder Pelzprodukte an Konsumentinnen und Konsumenten abgib
 
 <sup>4</sup> Kann die Herkunft des Fells nachweislich auch keinem geografischen Raum zugeordnet werden, so ist die Deklaration «Herkunft unbekannt» anzubringen.[^4-2]
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^4-2]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^4-2]: Eingefügt durch Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 5
 
@@ -97,8 +97,8 @@ Die Art der Gewinnung ist wie folgt anzugeben:
 
 <sup>3</sup> Ist eine Angabe nach Absatz 2 nachweislich nicht möglich, so ist die Art der Gewinnung wie folgt anzugeben: «Gewinnungsart unbekannt – kann aus einer in der Schweiz nicht zugelassenen Haltungs- oder Jagdform stammen».[^5-2]
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 6
 
@@ -114,7 +114,7 @@ Bei Produkten, die aus mehr als drei Fellen verschiedener Tierarten, Herkunftsor
 
 <sup>2</sup> Die Deklarationen nach den Artikeln 2*a*–6 haben in mindestens einer Amtssprache des Bundes zu erfolgen.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 ## 3. Abschnitt: Kontrolle der Deklaration
 
@@ -126,7 +126,7 @@ Bei Produkten, die aus mehr als drei Fellen verschiedener Tierarten, Herkunftsor
 
 <sup>2</sup> Sie muss Systeme und Verfahren einrichten, mit deren Hilfe den Behörden auf deren Verlangen unentgeltlich die nötigen Auskünfte erteilt werden können.
 
-[^8-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^8-1]: Fassung gemäss Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 9
 
@@ -136,9 +136,10 @@ Bei Produkten, die aus mehr als drei Fellen verschiedener Tierarten, Herkunftsor
 
 <sup>2</sup> Es kann private und öffentliche Stellen für den Vollzug der Kontrolle beiziehen.
 
-<sup>3</sup> Es kann von der Eidgenössischen Zollverwaltung für eine festgesetzte Zeitdauer Meldungen von Einfuhrzollanmeldungsdaten genau bezeichneter Pelze und Pelzprodukte verlangen.
+<sup>3</sup> Es kann vom Bundesamt für Zoll und Grenzsicherheit[^9-2] für eine festgesetzte Zeitdauer Meldungen von Einfuhrzollanmeldungsdaten genau bezeichneter Pelze und Pelzprodukte verlangen.
 
-[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. November 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Januar 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^9-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Oktober 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Januar 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 10
 
@@ -157,7 +158,7 @@ Die Kontrollen des BLV erfolgen:
 
 <sup>4</sup> Wird die Deklaration nicht innerhalb der vom BLV gesetzten Frist berichtigt, so verfügt das BLV die Berichtigung der Deklaration.[^10-1]
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 11
 
@@ -181,7 +182,7 @@ Die Kontrollen des BLV erfolgen:
 
 Wer gegen die Vorschriften zur Deklaration nach den Artikeln 2*a*–7 verstösst, wird nach Artikel 11 des Konsumenteninformationsgesetzes vom 5. Oktober 1990 bestraft.
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -205,7 +206,7 @@ Pelze und Pelzprodukte, die den Bestimmungen dieser Verordnung nicht entsprechen
 
 Pelze und Pelzprodukte, die den Bestimmungen der Änderung vom 19. Februar 2020 nicht entsprechen, dürfen noch bis zum 31. August 2020 nach bisherigem Recht deklariert werden und danach noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
-[^14a-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^14a-1]: Eingefügt durch Ziff. I der V vom 19. Februar 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 15
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des 
 short: ODFou
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/114"
 language: fr
-version: 2020-04-01
+version: 2022-01-01
 adopted: 2012-12-07
 in_force: 2013-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/114/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2013-114-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/114/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-114-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/114/20200401/fr"
 
 (Ordonnance sur la déclaration des fourrures)
 
-du 7 décembre 2012 (Etat le 1<sup>er</sup> avril 2020)
+du 7 décembre 2012 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -46,8 +46,8 @@ Dans la présente ordonnance, on entend par:
 
   *fourrure*: peau munie de son poil de mammifères, à l’exception de celle:
 
-  - 1\. des animaux domestiqués de l’espèce équine, bovine, porcine, ovine et caprine ;
-  - 2\. des lamas et des alpagas.
+  - 1\. des animaux domestiqués de l’espèce équine, bovine, porcine, ovine et caprine,
+  - 2\. des lamas et des alpagas;
 
 - b. *produit de la pelleterie*: article fabriqué avec de la fourrure ou qui en contient.
 
@@ -59,7 +59,7 @@ Dans la présente ordonnance, on entend par:
 
 Toute personne qui cède des fourrures ou des produits de la pelleterie à des consommateurs doit y apposer la déclaration «fourrure véritable».
 
-[^2a-1]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2a-1]: Introduit par le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 3
 
@@ -79,8 +79,8 @@ Toute personne qui cède des fourrures ou des produits de la pelleterie à des c
 
 <sup>4</sup> S’il est prouvé que la provenance de la peau n’a pas pu être attribuée à une région géographique, il faut apposer la déclaration «provenance inconnue».[^4-2]
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^4-2]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^4-2]: Introduit par le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 5
 
@@ -97,8 +97,8 @@ L’origine de la peau doit être déclarée comme suit:
 
 <sup>3</sup> S’il est prouvé que l’origine de la peau ne peut être indiquée conformément à l’al. 2, il faut apposer la déclaration suivante: «origine inconnue – peut être issu d’un mode d’élevage ou d’un type de chasse non autorisé en Suisse».[^5-2]
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 6
 
@@ -114,7 +114,7 @@ Si le produit se compose de plus de trois peaux d’espèce animale, de provenan
 
 <sup>2</sup> Les déclarations exigées aux art. 2*a* à 6 doivent être apposées dans au moins une des langues officielles de la Confédération.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 ## Section 3 Contrôle de la déclaration
 
@@ -126,7 +126,7 @@ Si le produit se compose de plus de trois peaux d’espèce animale, de provenan
 
 <sup>2</sup> Elle doit mettre en place un système et une procédure permettant de fournir gratuitement les renseignements utiles aux autorités à leur demande.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 9
 
@@ -136,9 +136,10 @@ Si le produit se compose de plus de trois peaux d’espèce animale, de provenan
 
 <sup>2</sup> Il peut faire appel à des entités de droit public ou de droit privé pour l’exécution des contrôles.
 
-<sup>3</sup> Il peut exiger de l’Administration fédérale des douanes la communication de données sur des fourrures et des produits de la pelleterie précis importés au cours d’une période déterminée.
+<sup>3</sup> Il peut exiger de l’Office fédéral de la douane et de la sécurité des frontières[^9-2] la communication de données sur des fourrures et des produits de la pelleterie précis importés au cours d’une période déterminée.
 
-[^9-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^9-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janvier 2014 en application de l’art. 16 al. 3 de l’O du 17 novembre 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^9-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 octobre 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janvier 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 10
 
@@ -157,7 +158,7 @@ Les contrôles de l’OSAV sont effectués:
 
 <sup>4</sup> Si la correction de la déclaration n’a pas été effectuée dans le délai imparti par l’OSAV, ce dernier l’exige au moyen d’une décision administrative.[^10-1]
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 11
 
@@ -181,7 +182,7 @@ Les contrôles de l’OSAV sont effectués:
 
 Quiconque enfreint les dispositions des art. 2*a* à 7 est puni conformément à l’art. 11 de la loi du 5 octobre 1990 sur l’information des consommatrices et des consommateurs.
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 ## Section 5 Dispositions finales
 
@@ -205,7 +206,7 @@ Les fourrures et les produits de la pelleterie qui ne respectent pas les disposi
 
 Les fourrures et les produits de la pelleterie qui ne sont pas conformes à la modification du 19 février 2020 peuvent encore être déclarés selon l’ancien droit jusqu’au 31 août 2020 et remis aux consommateurs jusqu’à épuisement des stocks.
 
-[^14a-1]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^14a-1]: Introduit par le ch. I de l’O du 19 février 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
 
 #### Art. 15
 
