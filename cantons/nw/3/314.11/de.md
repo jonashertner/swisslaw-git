@@ -4,36 +4,35 @@ number: "314.11"
 title: Vollzugsverordnung zum Gesetz über die kantonale Mittelschule
 short: "Mittelschulverordnung, MSV"
 language: de
-version: 2020-08-01
-corrected: 2021-09-08
-version_adopted: 2019-12-03
+version: 2022-01-01
+valid_until: 2025-07-31
+version_adopted: 2021-11-16
 adopted: 2007-06-12
 in_force: 2007-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/314.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/150/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/930/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung, MSV)
+# Vollzugsverordnung zum Gesetz über die kantonale Mittelschule
 
-vom 12. Juni 2007[^t-2][^t-1]
+(Mittelschulverordnung, MSV)
+
+vom 12.06.2007 (Stand 01.01.2022)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 21 Abs. 2 und Art. 22 Abs. 2 des Gesetzes vom 7. Februar 2007 über die kantonale Mittelschule (Mittelschulgesetz)[^t-3] und von Art. 26 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^t-4],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 21 Abs. 2 und Art. 22 Abs. 2 des Gesetzes vom 7. Februar 2007 über die kantonale Mittelschule (Mittelschulgesetz)[^ingress-1] und von Art. 26 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^ingress-2],
 
 beschliesst:
 
-[^t-1]: Fassung gemäss Regierungsratsbeschluss vom 13. Juli 2010, A 2010, 1383; in Kraft seit 1. August 2010
-[^t-2]: A 2007, 1015
-[^t-3]: NG 314.1
-[^t-4]: NG 311.1
+[^ingress-1]: NG 314.1
+[^ingress-2]: NG 311.1
 
-### I. AUFNAHME
+## 1 Aufnahme
 
-### A. Voraussetzungen
+### 1.1 Voraussetzungen
 
 #### § 1
 
@@ -43,50 +42,46 @@ beschliesst:
 
 <sup>2</sup> In die 3. Klasse der Mittelschule werden Schülerinnen und Schüler aufgenommen, welche die 3. Klasse der Orientierungsschule abgeschlossen haben.
 
+<sup>3</sup> Im Rahmen der Begabtenförderung kann der Übertritt aus der Orientierungsstufe mit Zustimmung der Bildungsdirektion abweichend von Abs.2 erfolgen.
+
 #### § 2
 
-**Aufnahmekriterien**
+**Aufnahmekriterien 1. allgemein**
 
-### 1. allgemein
-
-Voraussetzung für die Aufnahme in die Mittelschule ist der Nachweis der erforderlichen Fähigkeiten, um dem Unterricht an der Mittelschule folgen zu können. Als Nachweis gelten die im Zeugnis ausgewiesene Leistungsbeurteilung sowie die Aufnahmeempfehlung der Klassenlehrperson.
+<sup>1</sup> Voraussetzung für die Aufnahme in die Mittelschule ist der Nachweis der erforderlichen Fähigkeiten, um dem Unterricht an der Mittelschule folgen zu können. Als Nachweis gelten die im Zeugnis ausgewiesene Leistungsbeurteilung sowie die Aufnahmeempfehlung der Klassenlehrperson.
 
 #### § 3
 
 **2. Leistungsbeurteilung**
 
-<sup>1</sup> Massgebend für die Aufnahme sind die gemittelten Noten der beiden letzten vor dem Aufnahmeentscheid ausgestellten Semesterzeugnisse in den Bereichen Deutsch, Mathematik und Fremdsprachen (Französisch und Englisch).[^3-1]
+<sup>1</sup> Massgebend für die Aufnahme sind die gemittelten Noten der beiden letzten vor dem Aufnahmeentscheid ausgestellten Semesterzeugnisse in den Bereichen Deutsch, Mathematik und Fremdsprachen (Französisch und Englisch).
 
 <sup>2</sup> Der Durchschnitt aus der doppelt gewichteten Mathematiknote und den Noten der anderen beiden Bereiche muss folgenden Wert erreichen:
 
 - 1\. für den Übertritt aus der Primarschule mindestens 5.2;
-
 - 2\. für den Übertritt aus der Orientierungsschule mindestens 5.0.
 
 <sup>3</sup> Für den Übertritt aus der Orientierungsschule wird zudem vorausgesetzt, dass der Unterricht in allen Fächern, die in Niveaus geführt werden, im Niveau A besucht wurde.
-
-[^3-1]: Fassung gemäss Regierungsratsbeschluss vom 8. Juli 2008, A 2008, 1621; in Kraft seit 1. August 2008
 
 #### § 4
 
 **3. Aufnahmeempfehlung**
 
-<sup>1</sup> Die Klassenlehrperson gibt eine Aufnahmeempfehlung ab. Sie kann „empfohlen“, „bedingt empfohlen“ oder „nicht empfohlen“ lauten.
+<sup>1</sup> Die Klassenlehrperson gibt eine Aufnahmeempfehlung ab. Sie kann «empfohlen», «bedingt empfohlen» oder «nicht empfohlen» lauten.
 
 <sup>2</sup> Die Empfehlung stützt sich auf eine Beurteilung des Lern- und Arbeitsverhaltens in allen Fächern und wird auf einem Beurteilungsformular festgehalten, das vom Mittelschulrat zu genehmigen ist. Die Eltern werden über die Empfehlung schriftlich orientiert.
 
 <sup>3</sup> Die Lehrperson kann in begründeten Fällen auch dann eine Aufnahme empfehlen, wenn der für den Übertritt massgebende Notendurchschnitt nicht erreicht wird.
 
-### B. Verfahren
+### 1.2 Verfahren
 
 #### § 5
 
 **Kantonale Übertrittskommission**
 
-Die Mittelschule wird in der kantonalen Übertrittskommission gemäss § 65 der Volksschulverordnung[^5-1] vertreten durch:
+<sup>1</sup> Die Mittelschule wird in der kantonalen Übertrittskommission gemäss § 65 der Volksschulverordnung[^5-1] vertreten durch:
 
 - 1\. die Schulleitung;
-
 - 2\. eine Lehrperson, die von der Lehrerkonferenz der Bildungsdirektion zur Wahl vorgeschlagen wird.
 
 [^5-1]: NG 312.11
@@ -95,7 +90,7 @@ Die Mittelschule wird in der kantonalen Übertrittskommission gemäss § 65 der 
 
 **Anmeldetermin**
 
-Der Anmeldetermin für den Übertritt aus der Primarschule und der Orientierungsschule in die Mittelschule sowie der Zeitplan für das Aufnahmeverfahren wird von der kantonalen Übertrittskommission jeweils vor Beginn des der Aufnahme vorangehenden Schuljahres festgelegt sowie den Schulleitungen der Gemeindeschulen und der Mittelschule mitgeteilt.
+<sup>1</sup> Der Anmeldetermin für den Übertritt aus der Primarschule und der Orientierungsschule in die Mittelschule sowie der Zeitplan für das Aufnahmeverfahren wird von der kantonalen Übertrittskommission jeweils vor Beginn des der Aufnahme vorangehenden Schuljahres festgelegt sowie den Schulleitungen der Gemeindeschulen und der Mittelschule mitgeteilt.
 
 #### § 7
 
@@ -109,7 +104,7 @@ Der Anmeldetermin für den Übertritt aus der Primarschule und der Orientierungs
 
 **Anmeldung**
 
-<sup>1</sup> Für Primarschülerinnen und -schüler ist die Anmeldung bis zum festgelegten Zeitpunkt der Klassenlehrperson zu übergeben. Diese leitet die Anmeldung zusammen mit den erforderlichen Zeugniskopien und der Aufnahmeempfehlung fristgerecht an die Schulleitung der Mittelschule weiter.
+<sup>1</sup> Für Primarschülerinnen und ‑schüler ist die Anmeldung bis zum festgelegten Zeitpunkt der Klassenlehrperson zu übergeben. Diese leitet die Anmeldung zusammen mit den erforderlichen Zeugniskopien und der Aufnahmeempfehlung fristgerecht an die Schulleitung der Mittelschule weiter.
 
 <sup>2</sup> Für Schülerinnen und Schüler der Orientierungsschule erfolgt die Anmeldung durch die Eltern bis zum festgelegten Zeitpunkt an die Schulleitung der Mittelschule. Die Eltern informieren gleichzeitig die Klassenlehrperson. Der Anmeldung sind die erforderlichen Zeugniskopien sowie die Aufnahmeempfehlung beizulegen.
 
@@ -120,7 +115,6 @@ Der Anmeldetermin für den Übertritt aus der Primarschule und der Orientierungs
 <sup>1</sup> In folgenden Fällen werden die Anmeldungen der kantonalen Übertrittskommission zur Stellungnahme übermittelt:
 
 - 1\. Schülerinnen und Schüler, welche zwar den erforderlichen Notendurchschnitt gemäss § 3 erreichen, aber nur über eine bedingte Aufnahmeempfehlung verfügen;
-
 - 2\. Schülerinnen und Schüler, welche zwar über eine unbedingte Aufnahmeempfehlung gemäss § 4 verfügen, aber den erforderlichen Notendurchschnitt nicht erreichen.
 
 <sup>2</sup> § 64 und § 68 der Volksschulverordnung[^9-1] sind sinngemäss anwendbar.
@@ -135,7 +129,7 @@ Der Anmeldetermin für den Übertritt aus der Primarschule und der Orientierungs
 
 <sup>2</sup> Sie informiert die zuständige Schulbehörde und die Klassenlehrperson über den Entscheid.
 
-### C. Schülerinnen und Schüler ausserkantonaler Schulen
+### 1.3 Schülerinnen und Schüler ausserkantonaler Schulen
 
 #### § 11
 
@@ -147,9 +141,7 @@ Der Anmeldetermin für den Übertritt aus der Primarschule und der Orientierungs
 
 #### § 12
 
-**Übertritt aus ausserkantonalen Primar- und Orientie-**
-
-rungsschulen
+**Übertritt aus ausserkantonalen Primar- und Orientierungsschulen**
 
 <sup>1</sup> Schülerinnen und Schüler ausserkantonaler Primarschulen richten ihre Anmeldung direkt an die Schulleitung der Mittelschule. Im Übrigen finden die Aufnahmekriterien und das Aufnahmeverfahren dieser Verordnung sinngemäss Anwendung.
 
@@ -165,49 +157,43 @@ rungsschulen
 
 <sup>2</sup> Es werden in der Regel keine Schülerinnen und Schüler aus ausserkantonalen Mittelschulen in das letzte Schuljahr der Mittelschule aufgenommen.
 
-### II. SCHULBESUCH
+## 2 Schulbesuch
 
-### A. Schulzeit
-
-[^hASchulzeit-1]: Fassung gemäss Regierungsratsbeschluss vom 13. Juli 2010, A 2010, 1383; in Kraft seit 1. August 2010
+### 2.1 Schulzeit
 
 #### § 14
 
-**Jährlich[^hASchulzeit-1]**
+**Jährlich**
 
-Das Schuljahr umfasst 37 bis 38 Unterrichtswochen.
-
-[^14-1]: Fassung gemäss Regierungsratsbeschluss vom 15. Oktober 2019, A 2019, 1770; in Kraft seit 1. August 2020
+<sup>1</sup> Das Schuljahr umfasst 37 bis 38 Unterrichtswochen.
 
 #### § 15
 
-**Wöchentlich[^14-1]**
+**Wöchentlich**
 
-Der Unterricht findet von Montag bis Freitag statt.
+<sup>1</sup> Der Unterricht findet von Montag bis Freitag statt.
 
 #### § 16
 
 **Täglich**
 
-Beginn und Dauer des täglichen Unterrichts in den einzelnen Klassen richten sich nach dem Stundenplan.
+<sup>1</sup> Beginn und Dauer des täglichen Unterrichts in den einzelnen Klassen richten sich nach dem Stundenplan.
 
 #### § 17
 
 **Pflichtlektionen**
 
-<sup>1</sup> Die wöchentliche Unterrichtszeit beträgt zwischen 34 und 38 Lektionen.[^17-1]
+<sup>1</sup> Die wöchentliche Unterrichtszeit beträgt zwischen 34 und 38 Lektionen.
 
 <sup>2</sup> Eine Lektion dauert in der Regel 45 Minuten.
 
-[^17-1]: Fassung gemäss Regierungsratsbeschluss vom 15. Oktober 2019, A 2019, 1770; in Kraft seit 1. August 2020
-
-### B. Absenzen
+### 2.2 Absenzen
 
 #### § 18
 
 **Grundsatz**
 
-Als Absenz gilt jede nicht besuchte Unterrichtsstunde.
+<sup>1</sup> Als Absenz gilt jede nicht besuchte Unterrichtsstunde.
 
 #### § 19
 
@@ -217,9 +203,7 @@ Als Absenz gilt jede nicht besuchte Unterrichtsstunde.
 
 <sup>2</sup> Nicht vorhersehbare Absenzen sind dem Sekretariat umgehend zu melden.
 
-<sup>3</sup> Nach einer nicht vorhersehbaren Absenz ist der Klassenlehrperson binnen zehn Tagen eine begründete Entschuldigung vorzulegen. Bei minderjährigen Schülerinnen und Schülern muss diese von den Eltern unterzeichnet sein.[^19-1]
-
-[^19-1]: Fassung gemäss Regierungsratsbeschluss vom 4. Dezember 2012, A 2012, 1851; in Kraft seit 1. Januar 2013
+<sup>3</sup> Nach einer nicht vorhersehbaren Absenz ist der Klassenlehrperson binnen zehn Tagen eine begründete Entschuldigung vorzulegen. Bei minderjährigen Schülerinnen und Schülern muss diese von den Eltern unterzeichnet sein.
 
 #### § 20
 
@@ -228,11 +212,8 @@ Als Absenz gilt jede nicht besuchte Unterrichtsstunde.
 <sup>1</sup> Als Gründe für vorhersehbare Absenzen gelten insbesondere:
 
 - 1\. wichtige Anlässe in der Familie;
-
 - 2\. berufs- und studienkundliche Anlässe;
-
 - 3\. militärische Aufgebote;
-
 - 4\. die Teilnahme an Leiterkursen von Jugend und Sport.
 
 <sup>2</sup> Für vorhersehbare Absenzen ist der Schulleitung spätestens fünf Schultage vor Beginn der Abwesenheit ein begründetes Gesuch einzureichen.
@@ -247,7 +228,7 @@ Als Absenz gilt jede nicht besuchte Unterrichtsstunde.
 
 **Dispensation vom Besuch einzelner Fächer**
 
-<sup>1</sup> Die Schulleitung kann in besonderen Fällen Schülerinnen und Schüler vom Besuch eines oder mehrerer Fächer beziehungsweise einzelner Lektionen dispensieren. Ein entsprechendes Gesuch erfolgt bei minderjährigen Schülerinnen und Schülern durch die Eltern.[^21-1]
+<sup>1</sup> Die Schulleitung kann in besonderen Fällen Schülerinnen und Schüler vom Besuch eines oder mehrerer Fächer beziehungsweise einzelner Lektionen dispensieren. Ein entsprechendes Gesuch erfolgt bei minderjährigen Schülerinnen und Schülern durch die Eltern.
 
 <sup>2</sup> Werden gesundheitliche Gründe geltend gemacht, ist ein ärztliches Zeugnis vorzulegen.
 
@@ -255,19 +236,17 @@ Als Absenz gilt jede nicht besuchte Unterrichtsstunde.
 
 <sup>4</sup> Schülerinnen und Schüler, die Französisch, Englisch, Italienisch oder Spanisch als Muttersprache haben, können bis zur 4. Klasse im entsprechenden Fach dispensiert werden. Alle Prüfungen müssen absolviert werden.
 
-[^21-1]: Fassung gemäss Regierungsratsbeschluss vom 4. Dezember 2012, A 2012, 1851; in Kraft seit 1. Januar 2013
-
 #### § 22
 
 **Nacharbeit**
 
-Die Schülerin oder der Schüler ist verpflichtet, den versäumten Unterrichtsstoff so rasch als möglich selbständig nachzuarbeiten.
+<sup>1</sup> Die Schülerin oder der Schüler ist verpflichtet, den versäumten Unterrichtsstoff so rasch als möglich selbständig nachzuarbeiten.
 
 #### § 23
 
 **Absenzenkontrolle**
 
-Die Schulleitung regelt die Absenzenkontrolle.
+<sup>1</sup> Die Schulleitung regelt die Absenzenkontrolle.
 
 #### § 24
 
@@ -276,14 +255,13 @@ Die Schulleitung regelt die Absenzenkontrolle.
 <sup>1</sup> Als unentschuldigt gilt:
 
 - 1\. jede nicht bewilligte Absenz;
-
 - 2\. jede Absenz, deren Entschuldigung von der Klassenlehrperson oder der Schulleitung als unbegründet abgelehnt wurde.
 
 <sup>2</sup> Bei unentschuldigten Absenzen trifft die Klassenlehrperson disziplinarische Massnahmen gemäss Art. 25 Abs. 1 des Mittelschulgesetzes[^24-1]; vorbehalten bleiben Massnahmen der Schulleitung oder des Mittelschulrates gemäss Art. 25 Abs. 2 und 3 des Mittelschulgesetzes sowie die Einreichung eines Strafantrages gemäss § 88.
 
 [^24-1]: NG 314.1
 
-### C. Schulpflicht
+### 2.3 Schulpflicht
 
 #### § 25
 
@@ -293,80 +271,61 @@ Die Schulleitung regelt die Absenzenkontrolle.
 
 <sup>2</sup> Die Schulleitung teilt den Austritt der zuständigen Schulbehörde mit.
 
-### III. UNTERRICHT
+## 3 Unterricht
 
-### A. Grundsätze
+### 3.1 Grundsätze
 
 #### § 26
 
 **Gestaltung des Unterrichts**
 
-Die Lehrperson hat das Recht, im Rahmen des Lehrplans und unter Verwendung der obligatorischen Lehrmittel den Unterricht frei zu gestalten.
-
-[^26-1]: Fassung gemäss Regierungsratsbeschluss vom 15. Oktober 2019, A 2019, 1770; in Kraft seit 1. August 2020
+<sup>1</sup> Die Lehrperson hat das Recht, im Rahmen des Lehrplans und unter Verwendung der obligatorischen Lehrmittel den Unterricht frei zu gestalten.
 
 #### § 27
 
-**Obligatorische Fächer[^26-1]**
+**Obligatorische Fächer**
 
 <sup>1</sup> Obligatorische Fächer sind:
 
 - 1\. die Grundlagenfächer gemäss Art. 9 Abs. 2 des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen (MAR)[^27-1], wobei die Fächer Bildnerisches Gestalten und Musik unterreichtet werden;
-
-- 2\. das Grundlagenfach Philosophie gemäss Art. 9 Abs. 2<sup>bis</sup> MAR;
-
+- 2\. das Grundlagenfach Philosophie gemäss Art. 9 Abs. 2 bis MAR;
 - 3\. ein Schwerpunktfach gemäss Art. 9 Abs. 3 MAR, im Rahmen von § 28;
-
 - 4\. ein Ergänzungsfach gemäss Art. 9 Abs. 3 MAR, im Rahmen von § 34;
-
-- 5\. die obligatorischen Fächer gemäss Art. 9 Abs. 5<sup>bis</sup> MAR;
-
+- 5\. die obligatorischen Fächer gemäss Art. 9 Abs. 5 bis MAR;
 - 6\. die weiteren Pflichtfächer:
-
-- a) Sport;
-
-- b) Naturlehre;
-
-- c) Religion/Ethik;
-
-- d) Technisch angewandtes Gestalten;
-
-- e) Hauswirtschaft;
-
-- f) Medien und Informatik;
-
-- g) Wahlpflichtfächer gemäss §§ 38 ff.
+  - a) Sport;
+  - b) Naturlehre;
+  - c) Religion/Ethik;
+  - d) Technisch angewandtes Gestalten;
+  - e) Hauswirtschaft;
+  - f) Medien und Informatik;
+  - g) Wahlpflichtfächer gemäss §§ 38 ff.
 
 <sup>2</sup> Im Grundlagenbereich werden folgende Sprachen bestimmt:
 
 - 1\. Erstsprache: Deutsch;
-
 - 2\. zweite Landessprache: Französisch;
-
 - 3\. dritte Sprache: Englisch.
 
-[^27-1]: https://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf
+[^27-1]: [https://edudoc.ch/record/38112/files/VO\_MAR\_d.pd](https://edudoc.ch/record/38112/files/VO_MAR_d.pdf)
 
-### B. Schwerpunktfächer
+### 3.2 Schwerpunktfächer
 
 #### § 28
 
 **Angebot, Voraussetzung**
 
-<sup>1</sup> Der Mittelschulrat legt das Angebot der Schwerpunktfächer im Rahmen des MAR[^28-1] fest.[^28-2]
+<sup>1</sup> Der Mittelschulrat legt das Angebot der Schwerpunktfächer im Rahmen des MAR[^28-1] fest.
 
 <sup>2</sup> Ein Schwerpunktfach wird geführt, wenn sich mindestens sechs Schülerinnen oder Schüler dafür entscheiden.
 
-[^28-1]: https://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf
-[^28-2]: Fassung gemäss Regierungsratsbeschluss vom 15. Oktober 2019, A 2019, 1770; in Kraft seit 1. August 2020
+[^28-1]: [https://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf](https://edudoc.ch/record/38112/files/VO_MAR_d.pdf)
 
 #### § 29
 
-**Repetition eines Schuljahres**
+**Repetition eines Schuljahres 1. nach dem 1. oder 2. Semester der 4. Klasse**
 
-### 1. nach dem 1. oder 2. Semester der 4. Klasse
-
-Die Schülerinnen und Schüler wählen unter den zustande gekommenen Schwerpunktfächern eines aus.
+<sup>1</sup> Die Schülerinnen und Schüler wählen unter den zustande gekommenen Schwerpunktfächern eines aus.
 
 #### § 30
 
@@ -378,9 +337,7 @@ Die Schülerinnen und Schüler wählen unter den zustande gekommenen Schwerpunkt
 
 #### § 31
 
-**3. nach dem 2. Semester der 5. Klasse oder nach dem**
-
-### 1. Semester der 6. Klasse
+**3. nach dem 2. Semester der 5. Klasse oder nach dem 1. Semester der 6. Klasse**
 
 <sup>1</sup> Die Schülerinnen und Schüler besuchen dasselbe Schwerpunktfach.
 
@@ -394,23 +351,23 @@ Die Schülerinnen und Schüler wählen unter den zustande gekommenen Schwerpunkt
 
 **4. bei nicht bestandener Maturitätsprüfung**
 
-Die Maturitätsverordnung[^32-1] regelt die Wiederholung.
+<sup>1</sup> Die Maturitätsverordnung[^32-1] regelt die Wiederholung.
 
 [^32-1]: NG 314.12
 
 #### § 33
 
-**Austauschschülerinnen und –schüler**
+**Austauschschülerinnen und ‑schüler**
 
-Für Schülerinnen und Schüler, die nach der 4. Klasse ein Austauschjahr absolvieren und anschliessend in eine 5. Klasse eintreten, in der ihr Schwerpunktfach nicht geführt wird, gilt § 31 sinngemäss.
+<sup>1</sup> Für Schülerinnen und Schüler, die nach der 4. Klasse ein Austauschjahr absolvieren und anschliessend in eine 5. Klasse eintreten, in der ihr Schwerpunktfach nicht geführt wird, gilt § 31 sinngemäss.
 
-### C. Ergänzungsfächer
+### 3.3 Ergänzungsfächer
 
 #### § 34
 
 **Angebot, Voraussetzung**
 
-<sup>1</sup> Der Mittelschulrat legt das Angebot der Ergänzungsfächer im Rahmen des MAR[^34-1] fest.[^34-2]
+<sup>1</sup> Der Mittelschulrat legt das Angebot der Ergänzungsfächer im Rahmen des MAR[^34-1] fest.
 
 <sup>2</sup> Ein Ergänzungsfach wird geführt, wenn sich mindestens sechs Schülerinnen oder Schüler dafür entscheiden.
 
@@ -418,16 +375,13 @@ Für Schülerinnen und Schüler, die nach der 4. Klasse ein Austauschjahr absolv
 
 <sup>4</sup> Damit ein Ergänzungsfach auch als Wahlpflichtfach geführt werden kann, muss es von mindestens fünf Schülerinnen oder Schülern als Ergänzungsfach gewählt werden.
 
-[^34-1]: https://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf
-[^34-2]: Fassung gemäss Regierungsratsbeschluss vom 15. Oktober 2019, A 2019, 1770; in Kraft seit 1. August 2020
+[^34-1]: [https://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf](https://edudoc.ch/record/38112/files/VO_MAR_d.pdf)
 
 #### § 35
 
-**Repetition eines Schuljahres**
+**Repetition eines Schuljahres 1. nach dem 1. oder 2. Semester der 5. Klasse**
 
-### 1. nach dem 1. oder 2. Semester der 5. Klasse
-
-Die Schülerinnen und Schüler wählen unter den zustande gekommenen Ergänzungsfächern der 5. Klasse eines aus.
+<sup>1</sup> Die Schülerinnen und Schüler wählen unter den zustande gekommenen Ergänzungsfächern der 5. Klasse eines aus.
 
 #### § 36
 
@@ -438,7 +392,6 @@ Die Schülerinnen und Schüler wählen unter den zustande gekommenen Ergänzungs
 <sup>2</sup> Wird dieses nicht geführt, besuchen sie das Ergänzungsfach weiterhin in der 6. Klasse sofern:
 
 - 1\. sie im 1. Semester im Ergänzungsfach mindestens die Note 5 erreichten und
-
 - 2\. der Besuch des Ergänzungsfachs vom Stundenplan her möglich ist.
 
 <sup>3</sup> Massgebend für die Promotion und die Maturität sind in jedem Fall die zuletzt erzielten Noten der beiden Semester der 6. Klasse.
@@ -461,13 +414,13 @@ Die Schülerinnen und Schüler wählen unter den zustande gekommenen Ergänzungs
 
 <sup>5</sup> Eine repetitionsbedingt verminderte Zahl an Wochenlektionen ist durch Belegung von zusätzlichen Wahlpflichtfächern zu kompensieren.
 
-### D. Wahlpflichtfächer
+### 3.4 Wahlpflichtfächer
 
 #### § 38
 
 **Begriff**
 
-Wahlpflichtfächer sind Pflichtlektionen gemäss Stundentafel, welche die Schülerinnen und Schüler aus einem jährlich wechselnden Angebot auswählen.
+<sup>1</sup> Wahlpflichtfächer sind Pflichtlektionen gemäss Stundentafel, welche die Schülerinnen und Schüler aus einem jährlich wechselnden Angebot auswählen.
 
 #### § 39
 
@@ -476,7 +429,6 @@ Wahlpflichtfächer sind Pflichtlektionen gemäss Stundentafel, welche die Schül
 <sup>1</sup> Ein Wahlpflichtfach wird geführt, wenn die dafür erforderliche Mindestzahl erreicht wird:
 
 - 1\. bei Wahlpflichtfächern, die von einer Lehrperson unterrichtet werden: acht Schülerinnen und Schüler;
-
 - 2\. bei Wahlpflichtfächern, die von zwei Lehrpersonen unterrichtet werden: 12 Schülerinnen und Schüler.
 
 <sup>2</sup> Bei den Wahlpflichtfächern Chor, Orchester und Blasmusik werden die ebenfalls teilnehmenden Schülerinnen und Schüler der 1. bis 3. Klasse mitgezählt.
@@ -505,13 +457,13 @@ Wahlpflichtfächer sind Pflichtlektionen gemäss Stundentafel, welche die Schül
 
 **Ergänzungsfächer als Wahlpflichtfächer**
 
-Ein Ergänzungsfach, das als Wahlpflichtfach belegt wird, kann auch nur während eines einzelnen Schuljahres besucht werden.
+<sup>1</sup> Ein Ergänzungsfach, das als Wahlpflichtfach belegt wird, kann auch nur während eines einzelnen Schuljahres besucht werden.
 
 #### § 43
 
 **Öffentlichkeit von Wahlpflichtfächern**
 
-Wahlpflichtfächer, die aufgrund der Schülerzahl zustande gekommen sind, können im Rahmen der Erwachsenenbildung öffentlich ausgeschrieben werden.
+<sup>1</sup> Wahlpflichtfächer, die aufgrund der Schülerzahl zustande gekommen sind, können im Rahmen der Erwachsenenbildung öffentlich ausgeschrieben werden.
 
 #### § 44
 
@@ -531,13 +483,11 @@ Wahlpflichtfächer, die aufgrund der Schülerzahl zustande gekommen sind, könne
 
 <sup>2</sup> Sie kann diese einer Lehrperson übertragen und deren Aufgaben sowie die Entschädigung in einem Pflichtenheft regeln.
 
-### E. Maturaarbeit
-
-[^hEMaturaarbeit-1]: Fassung gemäss Regierungsratsbeschluss vom 8. Juli 2008, A 2008, 1621; in Kraft seit 1. August 2008
+### 3.5 Maturaarbeit
 
 #### § 46
 
-**Grundsatz[^hEMaturaarbeit-1]**
+**Grundsatz**
 
 <sup>1</sup> Die Schülerinnen und Schüler verfassen während des 2. Semesters der 5. Klasse und des 1. Semesters der 6. Klasse allein oder in einer Gruppe eine eigenständige schriftliche Maturaarbeit.
 
@@ -555,25 +505,21 @@ Wahlpflichtfächer, die aufgrund der Schülerzahl zustande gekommen sind, könne
 
 <sup>4</sup> Bei nicht bestandener Maturitätsprüfung wird die Maturaarbeit nicht wiederholt.
 
-[^47-1]: Fassung gemäss Regierungsratsbeschluss vom 6. November 2012, A 2012, 1717; in Kraft seit 15. November 2012
-
 #### § 47a
 
-**Ablehnung der Maturaarbeit[^47-1]**
+**Ablehnung der Maturaarbeit**
 
 <sup>1</sup> Die Maturaarbeit wird bei verspäteter Abgabe, unselbständigem Verfassen oder systematischem Unterschlagen von Quellenangaben nicht angenommen.
 
 <sup>2</sup> Die Ausführungsbestimmungen des Mittelschulrates können für Härtefälle Ausnahmen vorsehen.
 
-[^47a-1]: Fassung gemäss Regierungsratsbeschluss vom 8. Juli 2008, A 2008, 1621; in Kraft seit 1. August 2008
-
 #### § 48
 
-**Ausführungsbestimmungen[^47a-1]**
+**Ausführungsbestimmungen**
 
-Der Mittelschulrat erlässt die Ausführungsbestimmungen.
+<sup>1</sup> Der Mittelschulrat erlässt die Ausführungsbestimmungen.
 
-### F. Séjour linguistique et culturel
+### 3.6 Séjour linguistique et culturel
 
 #### § 49
 
@@ -584,20 +530,14 @@ Der Mittelschulrat erlässt die Ausführungsbestimmungen.
 <sup>2</sup> Er bietet den Schülerinnen und Schülern die Möglichkeit:
 
 - 1\. die im Unterricht erworbenen Kenntnisse der zweiten Landessprache anzuwenden und gezielt zu erweitern;
-
 - 2\. in direkten Kontakt mit der frankophonen Bevölkerung zu treten;
-
 - 3\. einen Einblick in die kulturelle Vielfalt der gewählten Region zu erhalten;
-
 - 4\. ihre Selbst- und Sozialkompetenz zu entfalten;
-
 - 5\. den Aufenthalt gemäss ihren individuellen Bedürfnissen zu gestalten.
-
-[^49-1]: Fassung gemäss Regierungsratsbeschluss vom 23. April 2018, A 2019, 827; in Kraft seit 1. August 2018
 
 #### § 50
 
-**Dauer und Zeitpunkt[^49-1]**
+**Dauer und Zeitpunkt**
 
 <sup>1</sup> Der Aufenthalt dauert in der Regel 21 aufeinander folgende Tage, Hin- und Rückreise inbegriffen. Die Schulleitung kann auf Gesuch hin in begründeten Fällen eine Aufteilung des Aufenthalts in zwei Teile von jeweils 14 aufeinander folgenden Tagen bewilligen.
 
@@ -609,31 +549,31 @@ Der Mittelschulrat erlässt die Ausführungsbestimmungen.
 
 **Kosten**
 
-Die individuellen Kosten sind von den Eltern zu tragen.
+<sup>1</sup> Die individuellen Kosten sind von den Eltern zu tragen.
 
 #### § 52
 
 **Ausführungsbestimmungen**
 
-Die Schulleitung erlässt die Ausführungsbestimmungen.
+<sup>1</sup> Die Schulleitung erlässt die Ausführungsbestimmungen.
 
-### IV. BEURTEILUNG UND PROMOTION
+## 4 Beurteilung und Promotion
 
-### A. Zeugnis und Zwischenberichte
+### 4.1 Zeugnis und Zwischenberichte
 
 #### § 53
 
 **Zeugnis**
 
-Am Ende jedes Semesters wird ein Zeugnis ausgestellt, das von der Klassenlehrperson kontrolliert und unterzeichnet wird.
+<sup>1</sup> Am Ende jedes Semesters wird ein Zeugnis ausgestellt, das von der Klassenlehrperson kontrolliert und unterzeichnet wird.
 
 #### § 54
 
 **Zwischenbericht**
 
-Neu eingetretenen Schülerinnen und Schülern sowie jenen, deren Leistungen eine Beförderung in Frage stellen, wird bis zur Semestermitte ein Zwischenbericht ausgestellt.
+<sup>1</sup> Neu eingetretenen Schülerinnen und Schülern sowie jenen, deren Leistungen eine Beförderung in Frage stellen, wird bis zur Semestermitte ein Zwischenbericht ausgestellt.
 
-### B. Beurteilung von Leistung und Verhalten
+### 4.2 Beurteilung von Leistung und Verhalten
 
 #### § 55
 
@@ -643,17 +583,18 @@ Neu eingetretenen Schülerinnen und Schülern sowie jenen, deren Leistungen eine
 
 <sup>2</sup> Bedeutung der Noten:
 
-**2 schwach 1 sehr schwach**
-
-6 sehr gut 4 genügend 5 gut 3 ungenügend
+- 1\. 6 = sehr gut
+- 2\. 5 = gut
+- 3\. 4 = genügend
+- 4\. 3 = ungenügend
+- 5\. 2 = schwach
+- 6\. 1 = sehr schwach
 
 <sup>3</sup> In den Wahlpflichtfächern kann auf eine Benotung verzichtet werden.
 
-[^55-1]: Fassung gemäss Regierungsratsbeschluss vom 1. Juli 2014, A 2014, 1279; in Kraft seit 1. August 2014
-
 #### § 55a
 
-**Unregelmässigkeiten bei Prüfungen[^55-1]**
+**Unregelmässigkeiten bei Prüfungen**
 
 <sup>1</sup> Die Benützung unerlaubter Hilfsmittel sowie andere Unregelmässigkeiten führen zu einer Bewertung der Prüfung mit der Note 1 (sehr schwach).
 
@@ -665,7 +606,7 @@ Neu eingetretenen Schülerinnen und Schülern sowie jenen, deren Leistungen eine
 
 <sup>1</sup> Schülerinnen und Schülern, deren Einsatz oder Betragen in einem bestimmten Fach zu beanstanden ist, wird zur Leistungsnote eine Bemerkung eingetragen.
 
-<sup>2</sup> Zulässig sind folgende Bemerkungen: „Einsatz unbefriedigend“, „Einsatz schlecht“, „Betragen unbefriedigend“, „Betragen schlecht“.
+<sup>2</sup> Zulässig sind folgende Bemerkungen: «Einsatz unbefriedigend», «Einsatz schlecht», «Betragen unbefriedigend», «Betragen schlecht».
 
 #### § 57
 
@@ -675,54 +616,45 @@ Neu eingetretenen Schülerinnen und Schülern sowie jenen, deren Leistungen eine
 
 <sup>2</sup> Für das Zeugnis des zweiten Semesters zählt die Note des Jahresexamens im entsprechenden Fach ein Drittel.
 
-### C. Promotion
-
-[^hCPromotion-1]: Fassung gemäss Regierungsratsbeschluss vom 8. Mai 2012, A 2012, 850; in Kraft seit 1. August 2012
+### 4.3 Promotion
 
 #### § 58
 
-**Promotionsfächer[^hCPromotion-1]**
+**Promotionsfächer**
 
-<sup>1</sup> Für die Promotion werden berücksichtigt:[^58-1] 1. die Fächer gemäss § 27 Abs. 1 Ziff. 1-5;
+<sup>1</sup> Für die Promotion werden berücksichtigt:
 
+- 1\. die Fächer gemäss § 27 Abs. 1 Ziff. 1–5;
 - 2\. das Pflichtfach Naturlehre gemäss § 27 Abs. 1 Ziff. 6 lit. b.
 
 <sup>2</sup> Im ersten Semester der 6. Klasse wird auch die Bewertung der Maturaarbeit für die Promotion berücksichtigt.
 
-[^58-1]: Fassung gemäss Regierungsratsbeschluss vom 15. Oktober 2019, A 2019, 1770; in Kraft seit 1. August 2020
-[^58-2]: Fassung gemäss Regierungsratsbeschluss vom 8. Mai 2012, A 2012, 850; in Kraft seit 1. August 2012
-
 #### § 59
 
-**Definitive Promotion[^58-2]**
+**Definitive Promotion**
 
-Eine Schülerin oder ein Schüler wird definitiv befördert, wenn in den Promotionsfächern:
+<sup>1</sup> Eine Schülerin oder ein Schüler wird definitiv befördert, wenn in den Promotionsfächern:
 
 - 1\. die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben;
-
 - 2\. nicht mehr als vier Noten unter 4 liegen.
-
-[^59-1]: Fassung gemäss Regierungsratsbeschluss vom 8. Mai 2012, A 2012, 850; in Kraft seit 1. August 2012
 
 #### § 60
 
-**Provisorische Promotion[^59-1]**
+**Provisorische Promotion**
 
 <sup>1</sup> Soweit die nachfolgenden Regelungen nichts anderes bestimmen, werden Schülerinnen und Schüler, welche die Bedingungen zur definitiven Promotion nicht erfüllen, provisorisch befördert.
 
 <sup>2</sup> Während der 1. und 2. Klasse kann eine Schülerin oder ein Schüler nur einmal, während der 3. bis 6. Klasse höchstens zweimal provisorisch befördert werden.
 
-[^60-1]: Fassung gemäss Regierungsratsbeschluss vom 8. Mai 2012, A 2012, 850; in Kraft seit 1. August 2012
-
 #### § 61
 
-**Repetition[^60-1]**
+**Repetition**
 
 <sup>1</sup> Schülerinnen und Schüler müssen die letzten beiden Semester wiederholen, wenn sie die Bedingungen:
 
-1.[^61-1] zur definitiven Promotion in zwei aufeinanderfolgenden Semestern oder am Ende des 2. Semesters der 5. Klasse nicht erfüllen; oder 2. zur provisorischen Promotion nicht erfüllen.
-
-3.[^61-2] für die Annahme der Maturaarbeit nicht erfüllen.
+- 1\. zur definitiven Promotion in zwei aufeinanderfolgenden Semestern oder am Ende des 2. Semesters der 5. Klasse nicht erfüllen; oder
+- 2\. zur provisorischen Promotion nicht erfüllen.
+- 3\. für die Annahme der Maturaarbeit nicht erfüllen.
 
 <sup>2</sup> Eine Repetition ist frühestens am Ende der 2. Klasse möglich.
 
@@ -732,23 +664,17 @@ Eine Schülerin oder ein Schüler wird definitiv befördert, wenn in den Promoti
 
 <sup>5</sup> Repetierende Schülerinnen und Schüler gelten im ersten Semester ihrer Rückversetzung als definitiv befördert.
 
-[^61-1]: Fassung gemäss Regierungsratsbeschluss vom 15. Oktober 2019, A 2019, 1770; in Kraft seit 1. August 2020
-[^61-2]: Fassung gemäss Regierungsratsbeschluss vom 6. November 2012, A 2012, 1717; in Kraft seit 15. November 2012
-[^61-3]: Fassung gemäss Regierungsratsbeschluss vom 8. Mai 2012, A 2012, 850; in Kraft seit 1. August 2012
-
 #### § 62
 
-**Ausschluss[^61-3]**
+**Ausschluss**
 
-Wer die Voraussetzungen weder für eine definitive oder provisorische Promotion noch für eine Repetition erfüllt, wird vom weiteren Besuch der Mittelschule ausgeschlossen.
+<sup>1</sup> Wer die Voraussetzungen weder für eine definitive oder provisorische Promotion noch für eine Repetition erfüllt, wird vom weiteren Besuch der Mittelschule ausgeschlossen.
 
-### V. LEHRPERSONEN
-
-[^hVLEHRPERSONEN-1]: Fassung gemäss Regierungsratsbeschluss vom 24. Juni 2008, A 2008, 1527; in Kraft seit 1. August 2008
+## 5 Lehrpersonen
 
 #### § 63
 
-**..[^hVLEHRPERSONEN-1]**
+**…**
 
 #### § 64
 
@@ -770,13 +696,11 @@ Wer die Voraussetzungen weder für eine definitive oder provisorische Promotion 
 
 <sup>2</sup> Das Verfahren und die Aufgaben der Fachberatung werden im Qualitätskonzept geregelt.
 
-[^65-1]: Fassung gemäss Regierungsratsbeschluss vom 24. Juni 2008, A 2008, 1527; in Kraft seit 1. August 2008
+#### § 66–73
 
-#### § 66
+**…**
 
-**-73 ...[^65-1]**
-
-### VI. LEHRERKONFERENZ
+## 6 Lehrerkonferenz
 
 #### § 74
 
@@ -787,7 +711,6 @@ Wer die Voraussetzungen weder für eine definitive oder provisorische Promotion 
 <sup>2</sup> Sie wählt:
 
 - 1\. einen Ausschuss von drei bis fünf Mitgliedern zur Wahrnehmung spezieller, ihm von der Lehrerkonferenz oder der Schulleitung übertragener Aufgaben;
-
 - 2\. weitere Kommissionen und Arbeitsgruppen.
 
 <sup>3</sup> Sie regelt das Promotionsverfahren.
@@ -820,7 +743,7 @@ Wer die Voraussetzungen weder für eine definitive oder provisorische Promotion 
 
 <sup>3</sup> Die Aufgaben der Fachschaft werden im Qualitätskonzept geregelt.
 
-### VII. SCHULÄRZTLICHER DIENST
+## 7 Schulärztlicher Dienst
 
 #### § 78
 
@@ -849,19 +772,18 @@ Wer die Voraussetzungen weder für eine definitive oder provisorische Promotion 
 <sup>5</sup> Die Vergütung eines ärztlichen Individualgesprächs richtet sich sinngemäss nach der Volksschulverordnung[^79-1].
 
 [^79-1]: NG 312.11
-[^79-2]: Fassung gemäss Regierungsratsbeschluss vom 3. Dezember 2019, A 2019, 2120; in Kraft seit 1. August 2020
 
 #### § 79a
 
-**Schulzahnärztliche Untersuchung[^79-2]**
+**Schulzahnärztliche Untersuchung**
 
 <sup>1</sup> Im 3. Schuljahr der kantonalen Mittelschule erhalten die Schülerinnen und Schüler eine Vergütung für eine schulzahnärztliche Untersuchung.
 
 <sup>2</sup> Diese Untersuchung umfasst eine Bestandsaufnahme und zwei Röntgenbilder. Die Schülerinnen und Schüler erhalten für die Untersuchung einen Gutschein, welcher bei einer Zahnarztpraxis ihrer Wahl binnen 6 Monaten eingelöst werden kann.
 
-<sup>3</sup> Die Untersuchung in der Praxis wird je Schülerin und Schüler mit 74.10 Taxpunkten entschädigt; der Wert eines Taxpunktes beträgt Fr. 1.-.
+<sup>3</sup> Die Untersuchung in der Praxis wird je Schülerin und Schüler mit 74.10 Taxpunkten entschädigt; der Wert eines Taxpunktes beträgt Fr. 1.–.
 
-### VIII. ERWACHSENENBILDUNG
+## 8 Erwachsenenbildung
 
 #### § 80
 
@@ -875,17 +797,17 @@ Wer die Voraussetzungen weder für eine definitive oder provisorische Promotion 
 
 **Entlöhnung**
 
-Die Entlöhnung der in der Weiterbildung für Erwachsene tätigen Lehrpersonen richtet sich nach der Lehrpersonalverordnung[^81-1].
+<sup>1</sup> Die Entlöhnung der in der Weiterbildung für Erwachsene tätigen Lehrpersonen richtet sich nach der Lehrpersonalverordnung[^81-1].
 
 [^81-1]: NG 165.117
 
-### IX. QUALITÄTSSICHERUNG UND -ENTWICKLUNG
+## 9 Qualitätssicherung und ‑entwicklung
 
 #### § 82
 
 **Konzept**
 
-<sup>1</sup> Die Schulleitung erarbeitet unter Mitwirkung der Lehrerkonferenz ein Konzept zur Qualitätssicherung und -entwicklung.
+<sup>1</sup> Die Schulleitung erarbeitet unter Mitwirkung der Lehrerkonferenz ein Konzept zur Qualitätssicherung und ‑entwicklung.
 
 <sup>2</sup> Es berücksichtigt die Interessen der Schule als Betrieb sowie diejenigen aller Beteiligten und verpflichtet sie zur kontinuierlichen Schulentwicklung.
 
@@ -906,11 +828,8 @@ Die Entlöhnung der in der Weiterbildung für Erwachsene tätigen Lehrpersonen r
 <sup>1</sup> Das Konzept regelt insbesondere die Verfahren:
 
 - 1\. zur periodischen Beurteilung der Lehrpersonen;
-
 - 2\. zur Förderung und Entwicklung der Lehrpersonen;
-
 - 3\. zum Vorgehen bei erheblichen individuellen Qualitätsdefiziten von Lehrpersonen;
-
 - 4\. zur periodischen Überprüfung der Schulorganisation und des Schulbetriebs.
 
 <sup>2</sup> Die Beurteilung des übrigen Personals erfolgt gemäss der Personalgesetzgebung[^84-1].
@@ -921,92 +840,76 @@ Die Entlöhnung der in der Weiterbildung für Erwachsene tätigen Lehrpersonen r
 
 **Organisation**
 
-Im Konzept werden die Aufgaben und Zuständigkeiten für die Qualitätssicherung und -entwicklung geregelt.
+<sup>1</sup> Im Konzept werden die Aufgaben und Zuständigkeiten für die Qualitätssicherung und ‑entwicklung geregelt.
 
 #### § 86
 
 **Dokumentation**
 
-<sup>1</sup> Die Aktivitäten im Bereich der Qualitätssicherung und -entwicklung werden dokumentiert.
+<sup>1</sup> Die Aktivitäten im Bereich der Qualitätssicherung und ‑entwicklung werden dokumentiert.
 
 <sup>2</sup> Das Konzept regelt den Zugang zu den Dokumenten.
 
-### X. ANLÄSSE UND VERANSTALTUNGEN
+## 10 Anlässe und Veranstaltungen
 
 #### § 87
 
 **Grundsatz**
 
-Für Schulanlässe und -veranstaltungen erlässt die Schulleitung insbesondere Weisungen für:
+<sup>1</sup> Für Schulanlässe und ‑veranstaltungen erlässt die Schulleitung insbesondere Weisungen für:
 
 - 1\. Sonderwochen;
-
 - 2\. Exkursionen;
-
 - 3\. sportliche, gesellschaftliche und kulturelle Anlässe.
 
-### XI. STRAF-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
-
-[^hXISTRAFÜBERGANG-1]: Fassung gemäss Regierungsratsbeschluss vom 1. Juli 2014, A 2014, 1279; in Kraft seit 1. August 2014
+## 11 Straf-, Übergangs- und Schlussbestimmungen
 
 #### § 88
 
-**Strafantrag[^hXISTRAFÜBERGANG-1]**
+**Strafantrag**
 
-Der Mittelschulrat ist zuständig, bei Verstössen gemäss Art. 29 des Mittelschulgesetzes[^88-1] bei der Staatsanwaltschaft einen Strafantrag einzureichen.
+<sup>1</sup> Der Mittelschulrat ist zuständig, bei Verstössen gemäss Art. 29 des Mittelschulgesetzes[^88-1] bei der Staatsanwaltschaft einen Strafantrag einzureichen.
 
 [^88-1]: NG 314.1
 
 #### § 89
 
-**Übergangsbestimmung zur Änderung**
+**Übergangsbestimmung zur Änderung vom 8. Mai 2012**
 
-vom 8. Mai 2012[^89-1] Schülerinnen und Schüler werden nach denjenigen Promotions- und Repetitionsregeln beurteilt, die bei ihrem Schuleintritt galten.
-
-[^89-1]: Fassung gemäss Regierungsratsbeschluss vom 8. Mai 2012, A 2012, 850; in Kraft seit 1. August 2012
+<sup>1</sup> Schülerinnen und Schüler werden nach denjenigen Promotions- und Repetitionsregeln beurteilt, die bei ihrem Schuleintritt galten.
 
 #### § 89a
 
-**Übergangsbestimmung zur Änderung**
+**Übergangsbestimmung zur Änderung vom 23. April 2018**
 
-vom 23. April 2018[^89a-1] Für Schülerinnen und Schüler, die vor dem Schuljahr 2018/2019 bereits die 3. oder eine höhere Klasse der Mittelschule besucht haben, gelten für die Erfüllung des Séjour linguistique et culturel weiterhin die bisherigen Bestimmungen.
-
-[^89a-1]: Fassung gemäss Regierungsratsbeschluss vom 23. April 2018, A 2019, 827; in Kraft seit 1. August 2018
+<sup>1</sup> Für Schülerinnen und Schüler, die vor dem Schuljahr 2018/2019 bereits die 3. oder eine höhere Klasse der Mittelschule besucht haben, gelten für die Erfüllung des Séjour linguistique et culturel weiterhin die bisherigen Bestimmungen.
 
 #### § 89b
 
-**Übergangsbestimmung zur Änderung**
+**Übergangsbestimmung zur Änderung vom 15. Oktober 2019**
 
-vom 15. Oktober 2019[^89b-1] Schülerinnen und Schüler, die im Schuljahr 2020/2021 die 3. bis 6. Klasse beginnen, beenden ihre Ausbildung mit Ausnahme von § 61 Abs. 1 Ziff. 1 gemäss dem bisherigen Recht.
-
-[^89b-1]: Fassung gemäss Regierungsratsbeschluss vom 15. Oktober 2019, A 2019, 1770; in Kraft seit 1. August 2020
+<sup>1</sup> Schülerinnen und Schüler, die im Schuljahr 2020/2021 die 3. bis 6. Klasse beginnen, beenden ihre Ausbildung mit Ausnahme von § 61 Abs. 1 Ziff. 1 gemäss dem bisherigen Recht.
 
 #### § 90
 
 **Aufhebung bisherigen Rechts**
 
-Alle mit dieser Vollzugsverordnung in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
+<sup>1</sup> Alle mit dieser Vollzugsverordnung in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
 
 - 1\. der Landratsbeschluss vom 6. Juli 1988 über die Führung einer Mensa an der kantonalen Mittelschule[^90-1];
-
 - 2\. das Reglement vom 19. Juni 1997 betreffend die Aufnahme in die kantonale Mittelschule (Mittelschul-Aufnahmereglement)[^90-2];
-
 - 3\. das Reglement vom 28. Mai 1997 betreffend den Klassenübertritt in die kantonale Mittelschule (Mittelschul-Promotionsreglement)[^90-3];
-
 - 4\. das Reglement vom 20. Mai 2005 betreffend den Séjour linguistique et culturel[^90-4].
 
 [^90-1]: A 1988, 1365
 [^90-2]: A 1997, 989
-[^90-3]: A 1997,995; 2001,1527; 2003, 845
+[^90-3]: A 1997, 995; 2001, 1527; 2003, 845
 [^90-4]: A 2005, 1020
 
 #### § 91
 
 **Inkrafttreten**
 
-Diese Verordnung tritt auf den 1. August 2007 in Kraft.
+<sup>1</sup> Diese Verordnung tritt auf den 1. August 2007 in Kraft.
 
-## Weitere Fussnoten
-
-- [5] NG 314.21
-- [7] NG 165.114
+A 2007, 1015
