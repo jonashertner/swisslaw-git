@@ -3,13 +3,12 @@ canton: FR
 number: "912.4.112"
 title: Verordnung ILFD über die Organisation und die Arbeitsweise der Kommission für die Degustation von Weinen mit kontrollierter Ursprungsbezeichnung
 language: de
-version: 2009-10-01
-valid_until: 2021-12-31
-version_adopted: 2009-10-01
+version: 2022-01-01
+version_adopted: 2021-11-26
 adopted: 2009-10-01
 in_force: 2009-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/912.4.112"
-pdf: "https://bdlf.fr.ch/api/de/versions/5681/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6999/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5681/pdf_file"
 
 Kommission für die Degustation von AOC Weinen – V
 
-vom 01.10.2009 (Fassung in Kraft getreten am 01.10.2009)
+vom 01.10.2009 (Fassung in Kraft getreten am 01.01.2022)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
@@ -47,7 +46,7 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Das Amt für Landwirtschaft führt das Sekretariat der Kommission und organisiert die Degustationen; es untersteht dabei der Aufsicht der Präsidentin oder des Präsidenten. Namentlich für Probenahmen kann es das Fachpersonal des Amts für Lebensmittelsicherheit und Veterinärwesen beiziehen.
+<sup>1</sup> Grangeneuve führt das Sekretariat der Kommission und organisiert die Degustationen; es untersteht dabei der Aufsicht der Präsidentin oder des Präsidenten. Namentlich für Probenahmen kann es das Fachpersonal des Amts für Lebensmittelsicherheit und Veterinärwesen beiziehen.
 
 #### Art. 4
 
@@ -78,7 +77,7 @@ beschliesst:
 
 <sup>3</sup> Die Präsidentin oder der Präsident sichtet die Formulare und teilt der Kommission für jeden Wein die Ergebnisse mit.
 
-<sup>4</sup> Das Amt für Landwirtschaft nimmt die von der Kommission verlangten Analysen vor.
+<sup>4</sup> Grangeneuve nimmt die von der Kommission verlangten Analysen vor.
 
 #### Art. 6
 
@@ -90,7 +89,7 @@ beschliesst:
 
 <sup>3</sup> Wird ein Wein als qualitativ ungenügend beurteilt, so muss dies im Bericht ausreichend begründet werden.
 
-<sup>4</sup> Das Amt für Landwirtschaft informiert den zuständigen Lieferanten oder den Betrieb, dessen Firmenname auf der Etikette angegeben ist, innerhalb von 10 Tagen nach der Degustation über die Ergebnisse.
+<sup>4</sup> Grangeneuve informiert den zuständigen Lieferanten oder den Betrieb, dessen Firmenname auf der Etikette angegeben ist, innerhalb von 10 Tagen nach der Degustation über die Ergebnisse.
 
 <sup>5</sup> Ein abgewiesener Wein kann ein zweites Mal präsentiert werden, wenn er einer geeigneten Behandlung unterzogen worden ist. Das für die erste Degustation vorgesehene Verfahren für die Probenahme und die Degustation gilt auch für die zweite Präsentation.
 
@@ -98,11 +97,11 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Die verantwortliche Person des Betriebs, dessen Wein zurückgewiesen wurde, kann, nachdem sie gegebenenfalls von der Möglichkeit nach Artikel 6 Abs. 5 Gebrauch gemacht hat, den Entscheid der Kommission beim Amt für Landwirtschaft anfechten.
+<sup>1</sup> Die verantwortliche Person des Betriebs, dessen Wein zurückgewiesen wurde, kann, nachdem sie gegebenenfalls von der Möglichkeit nach Artikel 6 Abs. 5 Gebrauch gemacht hat, den Entscheid der Kommission bei Grangeneuve anfechten.
 
-<sup>2</sup> Das Amt für Landwirtschaft lässt eine neue Degustation durchführen, wobei es Expertinnen und Experten wählen kann, die nicht der Kommission angehören.
+<sup>2</sup> Grangeneuve lässt eine neue Degustation durchführen, wobei es Expertinnen und Experten wählen kann, die nicht der Kommission angehören.
 
-<sup>3</sup> Der Entscheid des Amts für Landwirtschaft kann gemäss dem Landwirtschaftsgesetz mit Beschwerde angefochten werden.
+<sup>3</sup> Der Entscheid von Grangeneuve kann gemäss dem Landwirtschaftsgesetz mit Beschwerde angefochten werden.
 
 #### Art. 8
 

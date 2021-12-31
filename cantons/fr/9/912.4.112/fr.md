@@ -3,13 +3,12 @@ canton: FR
 number: "912.4.112"
 title: "Ordonnance DIAF sur l'organisation et le fonctionnement de la Commission de dégustation des vins d'appellation d'origine contrôlée"
 language: fr
-version: 2009-10-01
-valid_until: 2021-12-31
-version_adopted: 2009-10-01
+version: 2022-01-01
+version_adopted: 2021-11-26
 adopted: 2009-10-01
 in_force: 2009-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/912.4.112"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5681/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6999/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5681/pdf_file"
 
 Commission de dégustation des vins AOC – O
 
-du 01.10.2009 (version entrée en vigueur le 01.10.2009)
+du 01.10.2009 (version entrée en vigueur le 01.01.2022)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -47,7 +46,7 @@ Adopte ce qui suit:
 
 **Organisation**
 
-<sup>1</sup> Le Service de l'agriculture est, sous l'autorité du président, chargé du secrétariat de la Commission et de l'organisation des dégustations. Il peut faire appel au personnel spécialisé du Service de la sécurité alimentaire et des affaires vétérinaires, notamment en vue de procéder au prélèvement des échantillons.
+<sup>1</sup> Grangeneuve est, sous l'autorité du président, chargé du secrétariat de la Commission et de l'organisation des dégustations. Il peut faire appel au personnel spécialisé du Service de la sécurité alimentaire et des affaires vétérinaires, notamment en vue de procéder au prélèvement des échantillons.
 
 #### Art. 4
 
@@ -78,7 +77,7 @@ Adopte ce qui suit:
 
 <sup>3</sup> Le président dépouille les fiches et communique le résultat de chaque vin à la Commission.
 
-<sup>4</sup> Le Service de l'agriculture fait procéder aux analyses demandées par la Commission.
+<sup>4</sup> Grangeneuve fait procéder aux analyses demandées par la Commission.
 
 #### Art. 6
 
@@ -90,7 +89,7 @@ Adopte ce qui suit:
 
 <sup>3</sup> Pour un vin jugé de qualité insuffisante, le rapport est dûment motivé.
 
-<sup>4</sup> Le Service de l'agriculture informe le fournisseur responsable ou l'entreprise dont la raison sociale figure sur l'étiquette des résultats obtenus, dans un délai de dix jours après la dégustation.
+<sup>4</sup> Grangeneuve informe le fournisseur responsable ou l'entreprise dont la raison sociale figure sur l'étiquette des résultats obtenus, dans un délai de dix jours après la dégustation.
 
 <sup>5</sup> Un vin refusé peut être présenté une seconde fois, à la condition qu'il ait subi un traitement approprié. La procédure de prélèvement et de dégustation prévue pour la première dégustation est applicable à la seconde présentation.
 
@@ -98,11 +97,11 @@ Adopte ce qui suit:
 
 **Contestation et recours**
 
-<sup>1</sup> Le responsable de l'entreprise dont un vin a été refusé, éventuellement après avoir fait usage de la possibilité offerte à l'article 6 al. 5, peut contester la décision de la Commission auprès du Service de l'agriculture.
+<sup>1</sup> Le responsable de l'entreprise dont un vin a été refusé, éventuellement après avoir fait usage de la possibilité offerte à l'article 6 al. 5, peut contester la décision de la Commission auprès de Grangeneuve.
 
-<sup>2</sup> Le Service de l'agriculture fait procéder à une nouvelle dégustation par des experts qu'il peut choisir en dehors de la Commission.
+<sup>2</sup> Grangeneuve fait procéder à une nouvelle dégustation par des experts qu'il peut choisir en dehors de la Commission.
 
-<sup>3</sup> La décision du Service de l'agriculture est sujette à recours, conformément à la loi sur l'agriculture.
+<sup>3</sup> La décision de Grangeneuve est sujette à recours, conformément à la loi sur l'agriculture.
 
 #### Art. 8
 
