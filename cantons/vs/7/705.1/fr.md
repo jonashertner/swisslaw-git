@@ -4,603 +4,582 @@ number: "705.1"
 title: Loi sur les constructions
 short: LC
 language: fr
-version: 2015-10-09
-corrected: 2017-07-26
-version_adopted: 2015-09-10
+version: 2022-01-01
+valid_until: 2023-01-31
+version_adopted: 2016-12-15
 adopted: 2025-02-13
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/705.1"
-pdf: "https://lex.vs.ch/api/fr/versions/317/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3365/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Loi sur les constructions
 
-du 8 février 1996
+(LC)
+
+du 15.12.2016 (état 01.01.2022)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 6, 31 et 69 de la Constitution cantonale, sur la proposition du Conseil d'Etat,
+vu les articles 6, 31 alinéa 1 et 42 alinéa 1 de la Constitution cantonale;
 
-ordonne:
+vu l'article 2 alinéa 1 de la loi d'adhésion à l'Accord intercantonal sur l'harmonisation de la terminologie dans le domaine de la construction du 15 décembre 2016;
 
-### Chapitre 1: Dispositions générales
+sur la proposition du Conseil d’Etat,
 
-#### Article premier
+ordonne:[^ingress-1]
 
-**But**
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-<sup>1</sup> La présente loi règle de manière uniforme la réalisation, la transformation, la démolition, la reconstruction ainsi que l'entretien des constructions et installations et veille notamment à ce que ces dernières respectent les exigences relatives à la santé publique, à la sécurité publique, à la protection de l'environnement et garantissent la qualité du milieu bâti et de son environnement.
+## 1 Dispositions générales
 
-<sup>2</sup> Elle assure le maintien, la protection et l'entretien des paysages, des sites et des monuments et observe les buts et les principes du droit fédéral et cantonal sur l'aménagement du territoire dans le respect de la propriété privée.
+#### Art. 1
+
+**But et champ d'application**
+
+<sup>1</sup> La présente loi fixe de manière uniforme la réalisation, la transformation, la démolition, la reconstruction ainsi que l'entretien des constructions et installations et veille notamment à ce que ces dernières respectent les exigences relatives à la santé publique, à la sécurité publique, à la protection de l'environnement et garantissent la qualité du milieu bâti et de son environnement.
+
+<sup>2</sup> Elle observe les buts et les principes de droit fédéral et cantonal sur l'aménagement du territoire dans le respect de la propriété privée.
 
 #### Art. 2
 
-<sup>1</sup> Compétence
+**Compétences**
 
-<sup>1</sup> Les autorités compétentes en matière de droit public sur les constructions sont:
-
-- 1\. Le conseil municipal pour les projets situés à l'intérieur des zones à bâtir, des zones de mayens, des zones de hameaux et des zones de maintien de l'habitat rural.
-
-Sont considérées comme zones à bâtir au sens de la présente loi:
+<sup>1</sup> Le conseil municipal est compétent pour les projets situés à l'intérieur des zones à bâtir, en particulier:
 
 - a) les zones d'habitation;
-
 - b) les zones de centre;
-
 - c) les zones artisanales;
-
 - d) les zones industrielles;
+- e) les zones de constructions et d'installations publiques;
+- f) les zones destinées à la pratique des activités sportives et récréatives situées dans le périmètre des zones à bâtir ou attenantes à celui-ci dans la mesure où la surface totale n'excède pas trois hectares.
 
-- e) les zones de bâtiments et d'installations publics;
+<sup>2</sup> La commission cantonale des constructions (ci-après: CCC) est compétente pour les projets situés à l'extérieur des zones à bâtir, en particulier:
 
-- f) les zones de sport et de détente situées dans le périmètre des zones à bâtir ou attenantes à celui-ci dans la mesure où la surface totale de ces zones n'excède pas 3 ha.
+- a) les zones agricoles;
+- b) les zones à protéger;
+- c) les petites entités urbanisées hors de la zone à bâtir, telles que les zones de hameaux et de maintien de l'habitat rural;
+- d) les territoires à habitat traditionnellement dispersé;
+- e) les constructions protégées en tant qu’éléments caractéristiques du paysage, telles que les zones des mayens;
+- f) les autres zones destinées à la pratique des activités sportives et récréatives;
+- g) les zones d'extraction et de dépôt de matériaux;
+- h) les aires forestières;
+- i) les autres zones.
 
-- 2\. La commission cantonale des constructions pour les constructions et les installations situées à l'extérieur des zones à bâtir. Il s'agit notamment de projets:
+<sup>3</sup> La CCC est également compétente pour les projets avec lesquels la commune se trouve en situation de conflits d'intérêts, en particulier lorsqu'elle est propriétaire du terrain ou est impliquée dans le projet par l'intermédiaire d'un autre droit réel.
 
-- a) nécessitant une dérogation au sens de l'article 24 LAT et de l'article 31 de la présente loi;
+#### Art. 2a
 
-- b) situés dans les zones agricoles;
+**Plateforme informatique**
 
-- c) situés dans les zones protégées;
+<sup>1</sup> Le canton met à disposition une plateforme informatique (ci-après: plateforme) permettant le dépôt et la gestion des dossiers de construction.
 
-- d) situés dans les zones d'extraction de matériaux et de décharge;
+<sup>2</sup> La CCC et les communes utilisent la plateforme pour la gestion des dossiers de construction. Les communes peuvent renoncer à imposer l’utilisation de celle-ci pour les dossiers relevant de leur compétence.
 
-- e) situés dans les zones agricoles protégées;
+<sup>3</sup> Les accès aux dossiers sont déterminés par l’autorité compétente au sens de l’article 2 LC.
 
-- f) situés dans les autres zones de sport et de détente (par exemple pistes de ski, terrains de golf, etc.);
+<sup>4</sup> La validation des documents déposés sur la plateforme remplace la signature individuelle. La plateforme assure l’intégrité et l’horodatage de chaque document et certifie l’identité de la personne l’ayant déposé ou validé.
 
-- g) situés à l'intérieur de l'aire forestière et dans les autres zones.
+<sup>5</sup> Le Conseil d’Etat édicte un règlement d’accès et d’utilisation de la plateforme.
 
-<sup>2</sup> La commission cantonale des constructions est également compétente pour les projets dont la commune est requérante ou partie.
+<sup>6</sup> Les systèmes utilisés par les communes, les unités administratives ou les tiers permettant le dépôt de documents sur la plateforme doivent être conformes aux exigences techniques et sécuritaires fixées par le règlement.
 
-<sup>3</sup> Abrogé
+<sup>7</sup> Les dispositions en matière de protection des données sont expressément réservées.
+
+## 2 Règles de construction
+
+### 2.1 Généralités
 
 #### Art. 3
 
-**Droit acquis**
+**Réglementation communale**
 
-<sup>1</sup> Les constructions et installations existantes réalisées conformément au droit antérieur mais devenues contraires aux plans ou aux prescriptions en vigueur peuvent être entretenues et modernisées, transformées ou agrandies pour autant que les travaux n'engendrent pas une aggravation de leur non-conformité au droit.
+<sup>1</sup> Les règlements communaux des constructions et des zones (ci-après: RCCZ) fixent toutes les dispositions d'exécution nécessaires, en particulier concernant les dimensions des constructions et installations (notamment distances, hauteurs et niveaux), les indices (types et valeurs) et l'ordre des constructions, ceci dans le respect du droit supérieur, en particulier pour ce qui concerne les définitions de prescriptions matérielles.
 
-<sup>2</sup> Les constructions et installations non conformes aux nouvelles prescriptions ou aux nouveaux plans ne doivent être adaptées que lorsque la loi ou le règlement communal des constructions le prévoit expressément, ou lorsque l'adaptation est imposée dans le but de préserver l'ordre public.
+<sup>2</sup> Les communes ne peuvent édicter des dispositions dérogatoires que lorsque la législation sur les constructions le prévoit expressément.
 
-<sup>3</sup> Demeurent réservées la législation spéciale et les dispositions communales qui règlent la situation acquise pour les cas spéciaux prévus par le droit communal des constructions.
+<sup>3</sup> S'agissant des règles matérielles de police des constructions, les communes peuvent adopter des prescriptions plus restrictives, ceci en respectant les définitions fixées exclusivement par le droit cantonal.
 
 #### Art. 4
 
-**Reconstruction**
+**Application d'autres législations, réglementations et normes**
 
-En cas de destruction due à un incendie ou à d'autres catastrophes naturelles, la reconstruction de bâtiments érigés conformément à l'ancien droit et devenus non conformes aux plans et dispositions en vigueur est possible lorsqu'aucun intérêt prépondérant ne s'y oppose et que la demande d'autorisation de construire est déposée dans les cinq ans à partir de la destruction. La reconstruction doit correspondre au bâtiment détruit du point de vue des caractéristiques, du volume et de l'emplacement. Une modification par rapport à l'ancienne construction est possible dans la mesure où elle apporte une amélioration notable.
+<sup>1</sup> L'Accord intercantonal sur l'harmonisation de la terminologie dans le domaine des constructions (ci-après: AIHC) s'applique lorsque les règles fixées par le droit cantonal ou communal portent sur des définitions figurant dans cet accord. La législation cantonale et la réglementation communale peuvent introduire des notions qui ne sont pas comprises dans l'AIHC.
 
-### Chapitre 2: Instruments de planification, de construction,notions
+<sup>2</sup> Les règles de droit public ressortant de lois spéciales sont réservées.
 
-et portée
+<sup>3</sup> A défaut de prescriptions prévues dans la législation cantonale et la réglementation communale, l'autorité compétente peut s'inspirer des règles fixées dans des normes techniques d'organismes spécialisés.
+
+<sup>4</sup> L'application des dispositions de droit civil, en particulier la loi cantonale d'application du code civil suisse, est réservée.
 
 #### Art. 5
 
-**Instruments de planification, de construction**
+**Droits acquis**
 
-<sup>1</sup> Les instruments de planification traités par la loi cantonale sur l'aménagement du territoire sont:
+<sup>1</sup> Les constructions et installations existantes réalisées conformément au droit antérieur mais devenues contraires aux plans ou aux prescriptions en vigueur peuvent être entretenues, transformées, agrandies, reconstruites ou changées d'affectation.
 
-- a) le plan directeur;
+<sup>2</sup> La protection du patrimoine bâti et les autres intérêts privés et publics doivent être dûment pris en compte dans le cadre d'une pesée des intérêts.
 
-- b) les plans d'affectation et les règlements communaux des constructions;
+<sup>3</sup> La garantie de la situation acquise hors de la zone à bâtir est régie par le droit fédéral.
 
-- c) les plans de quartier, les plans d'aménagement détaillés et les dispositions y relatives;
+<sup>4</sup> Les communes peuvent prévoir dans leur RCCZ que l'agrandissement, la reconstruction et le changement d'affectation ne sont possibles que sur la base d'un plan d'affectation spécial.
 
-- d) les remembrements et les rectifications de limites.
-
-<sup>2</sup> Les instruments de construction sont notamment:
-
-- a) les plans d'alignement;
-
-- b) l'ordre des constructions;
-
-- c) les règles de construction et les définitions contenues dans les dispositions d'exécution de la présente loi.
+<sup>5</sup> Est réservée l'autorisation à obtenir selon la législation sur les routes pour les projets situés à proximité des routes cantonales.
 
 #### Art. 6
 
-**Alignements: espèces, but**
+**Dérogations**
 
-<sup>1</sup> Il faut distinguer les alignements suivants:
+<sup>1</sup> Des dérogations aux prescriptions relatives à l'affectation de la zone à bâtir ainsi qu'aux autres dispositions en matière de construction peuvent être octroyées par l'autorité compétente lorsque des circonstances exceptionnelles ou des motifs importants le justifient et qu'aucun intérêt public ou privé prépondérant d'un voisin ne s'en trouve lésé.
 
-- a) alignements le long des voies de communication et des conduites;
+<sup>2</sup> Des dérogations peuvent être octroyées à titre précaire pour de petites constructions ou des constructions mobilières qu'il est possible d'enlever en tout temps, pour autant que le requérant démontre un intérêt suffisant et dans la mesure où aucun intérêt public ni aucun intérêt privé prépondérant d'un voisin ne s'en trouve lésé.
 
-- b) alignements le long des cours d'eaux;
+<sup>3</sup> Les autorités compétentes peuvent, dans le respect des droits des tiers et de la protection du paysage et des sites, accorder des dérogations aux règles fixées dans la présente loi, dans ses règlements d'application et dans les RCCZ, pour des projets de construction ayant un caractère traditionnel ou expérimental tant sur le plan de l'architecture que sur celui de la technique de construction.
 
-- c) alignements le long des forêts;
+<sup>4</sup> Les autorisations dérogatoires peuvent être accordées pour une durée déterminée ou sous réserve d'une révocation en tout temps. Dans ce cas, à l'échéance du délai et en cas de révocation, la construction ou l'installation autorisée doit être enlevée par son propriétaire dans un délai convenable; celui-ci ne peut prétendre à aucune indemnité.
 
-- d) alignements autour des objets naturels et culturels, des points de vue et le long des pistes de ski;
+<sup>5</sup> Les dérogations peuvent être assorties de conditions et de charges. Les conditions suivantes peuvent notamment être imposées:
 
-- e) autres alignements spéciaux.
+- a) aucune indemnité n'est versée en cas d'expropriation pour les dépenses occasionnées par des travaux entrepris en vue d'augmenter la valeur du bien-fonds et qui ont été autorisés par le biais d'une dérogation;
+- b) les constructions et installations autorisées en vue d'une utilisation déterminée ne peuvent faire l'objet d'un changement d'affectation, de la constitution d'une propriété par étages ou d'une division de parcelles;
+- c) une sûreté doit être fournie pour garantir l'exécution des obligations découlant de l'autorisation de construire.
 
-<sup>2</sup> Les alignements fixent la distance minimale entre les constructions et installations et notamment les voies de communication, les cours d'eau, les conduites aériennes et souterraines, les forêts, les pistes de ski. Ils priment les dispositions générales relatives aux distances.
+<sup>6</sup> Les délais, l'exclusion d'une indemnité (revers d'enlèvement ou de plus-value), l'interdiction de changer l'affectation, de distraire une parcelle, de diviser un immeuble ainsi que l'obligation de fournir une sûreté doivent être mentionnés au registre foncier avant le début des travaux.
 
-<sup>3</sup> Les divers alignements sont déterminés par la législation spéciale et le règlement communal des constructions.
+<sup>7</sup> Les autorisations dérogatoires hors de la zone à bâtir sont régies par le droit fédéral. La mise sous protection des constructions et installations hors zone à bâtir est décidée de cas en cas par la CCC.
 
-<sup>4</sup> Les alignements qui définissent également la distance par rapport à la forêt ne peuvent fixer une distance inférieure à la distance réglementaire par rapport à la forêt ou prévoir un empiétement sur l'alignement de certains éléments de construction sans l'accord du service cantonal des forêts et du paysage. Les dérogations sont réglées selon l'article 30 de la présente loi.
+### 2.2 Règles sur la mesure d'utilisation du sol
+
+### 2.2.1 Distances
 
 #### Art. 7
 
-**Alignements spéciaux**
+**Distance à la limite et distance entre bâtiments**
 
-<sup>1</sup> Les alignements architecturaux déterminent l'emplacement et le gabarit des constructions et installations ou fixent l'alignement d'une rangée de façades.
+<sup>1</sup> La distance à la limite est la distance entre la projection du pied de façade et la limite de parcelle. La distance entre bâtiments est la distance entre les projections des pieds de façade de deux bâtiments.
 
-<sup>2</sup> Les alignements arrières et intérieurs déterminent la profondeur horizontale autorisée et la dimension des cours intérieures.
+<sup>2</sup> Les saillies ne sont pas considérées dans le calcul des distances. Sont réservées les règles spécifiques sur les saillies ressortant de la législation sur les routes.
+
+<sup>3</sup> Les constructions souterraines ne sont pas soumises aux règles sur les distances et peuvent être réalisées en limite de propriété.
+
+<sup>4</sup> Les distances par rapport aux routes sont fixées par la législation sur les routes et la réglementation communale.
+
+<sup>5</sup> Si les communes fixent une distance minimale en fonction de la hauteur des façades, cette dernière notion correspond à celle de l'AIHC. Les communes peuvent fixer des règles concernant la prise en compte de lucarnes et autres constructions analogues dans le calcul de la hauteur des façades.
 
 #### Art. 8
 
-**Ordre des constructions; réalisation**
+**Détermination des distances**
 
-<sup>1</sup> L'ordre des constructions, leur emplacement, leurs dimensions, le nombre de niveaux ainsi que leur architecture sont réglés par les dispositions communales.
+<sup>1</sup> Les communes fixent en principe une distance à la limite et entre bâtiments pour chaque type de zones de leur plan d'affectation. De même, elles déterminent en principe une distance réduite pour les annexes et les petites constructions.
 
-<sup>2</sup> L'ordre contigu est autorisé aux conditions alternatives suivantes:
+<sup>2</sup> Les communes peuvent renoncer à fixer une distance à la limite et entre bâtiments pour chaque type de zones de leur plan d'affectation, dans la mesure où d'autres prescriptions sont prévues afin d'assurer un aménagement local cohérent.
 
-- a) lorsque le règlement communal des constructions le prévoit;
+<sup>3</sup> Les communes peuvent, par le biais d'un plan d'affectation spécial, permettre de déroger aux distances à la limite et entre bâtiments prévues dans leur RCCZ à des conditions particulières.
 
-- b) lorsque le bâtiment voisin est construit en limite de propriété et que l'ordre contigu est admissible du point de vue de l'architecture et de l'hygiène;
+<sup>4</sup> La renonciation à fixer des distances pour un type de zones ainsi que les dérogations accordées sur la base d'un plan d'affectation spécial ne s'appliquent pas par rapport aux parcelles voisines à ces périmètres.
 
-- c) moyennant la constitution par les propriétaires d'une servitude réciproque de contiguïté inscrite au registre foncier également en faveur de la commune.
-
-<sup>3</sup> Si après constitution de la servitude de contiguïté un des propriétaires renonce à construire en contiguïté, il doit respecter le double de la distance légale à la limite.
-
-<sup>4</sup> Lorsque les distances entre bâtiments, les distances aux limites et l'indice d'utilisation ainsi que les autres facteurs dépendant de la surface de la parcelle ont été calculés, la surface ayant servi de base aux calculs ne peut plus être réutilisée en vue de constructions ultérieures. Cette règle est également applicable en cas de division ultérieure de la parcelle.
+<sup>5</sup> La distance à la limite peut être modifiée par la constitution d'une servitude sur le fonds voisin, pour autant que la distance entre bâtiments soit respectée. Cette servitude doit être inscrite au registre foncier également en faveur de la commune.
 
 #### Art. 9
 
-**Point de référence d'altitude**
+**Alignements**
 
-<sup>1</sup> Le point de référence d'altitude est fixé par le géomètre officiel.
+<sup>1</sup> L'alignement correspond à une limite d'implantation des constructions, dictée notamment par des motifs d'urbanisme ou réservant l'espace à des installations existantes ou projetées.
 
-<sup>2</sup> La hauteur des constructions et installations doit se référer à l'altitude du point de référence.
+<sup>2</sup> Des alignements sont fixés en particulier le long des voies de communication, des conduites, des objets naturels et culturels. Les procédures et la détermination des alignements sont régies par la législation spéciale et la réglementation communale.
+
+<sup>3</sup> Les alignements architecturaux déterminent l'emplacement et le gabarit des constructions ou fixent l'alignement d'une rangée de façades. Les alignements arrière et intérieurs déterminent la profondeur horizontale autorisée et la dimension des cours intérieures. Les alignements architecturaux peuvent être déterminés dans le cadre d'une procédure de planification.
+
+<sup>4</sup> Les alignements priment les dispositions générales relatives aux distances.
 
 #### Art. 10
 
-**Distance à la limite et distance entre bâtiments**
+**Réserves des législations spéciales**
 
-<sup>1</sup> La distance à la limite est la distance horizontale la plus courte entre la façade et la limite du fonds.
+<sup>1</sup> Les distances et autres espaces libres définis dans d'autres législations, en particulier en matière de protection incendie, de forêts ou de protection des eaux, sont réservés.
 
-<sup>2</sup> La distance entre bâtiments est la distance horizontale la plus courte entre deux bâtiments. Elle correspond à la somme des distances légales par rapport à la limite.
-
-<sup>3</sup> La distance entre bâtiments situés sur le même fonds est égale à la somme des distances minimales à la limite exigées pour ce même fonds.
+### 2.2.2 Hauteur
 
 #### Art. 11
 
-<sup>1</sup> Hauteur des bâtiments; corps de bâtiments échelonnés
+**Hauteur totale**
 
-<sup>1</sup> La hauteur des bâtiments est fixée dans les règlements communaux.
+<sup>1</sup> La hauteur totale correspond à la plus grande hauteur entre le point le plus haut de la charpente du toit et le terrain de référence mesurée à l'aplomb.
 
-<sup>2</sup> La hauteur d'un bâtiment se mesure dès le niveau du terrain naturel ou du sol aménagé s'il est plus bas que le sol naturel, jusqu'à la face supérieure de la panne faîtière pour les toits en pente et jusqu'à la face supérieure de l'acrotère pour les toits plats. Sur un terrain en pente, la hauteur du bâtiment se mesure sur la façade aval.
+<sup>2</sup> Le terrain de référence équivaut au terrain naturel. S'il ne peut être déterminé en raison d'excavations et de remblais antérieurs, la référence est le terrain naturel environnant. Pour des motifs liés à l'aménagement du territoire ou à l'équipement, le terrain de référence peut être déterminé différemment dans le cadre d'une procédure de planification.
 
-<sup>3</sup> Si les corps de bâtiment sont échelonnés, la hauteur autorisée doit être calculée séparément pour chacun d'eux.
+<sup>3</sup> Si le bâtiment est échelonné dans sa hauteur ou par sa situation, la hauteur totale est définie individuellement pour chaque partie du bâtiment.
 
-<sup>4</sup> Les lucarnes et les excavations permettant l'accès aux garages ne sont pas prises en considération pour le calcul de la hauteur.
+<sup>4</sup> Les superstructures ne comptent pas dans le calcul de la hauteur totale.
 
 #### Art. 12
 
-<sup>1</sup> Niveaux
+**Hauteur d'excavation**
 
-<sup>1</sup> Tout sous-sol ou tout rez-de-chaussée doit être compté comme niveau si la surface des façades émerge de plus de deux tiers au-dessus du niveau du terrain naturel ou aménagé. La hauteur d'étage est déterminée par les règlements communaux.
-
-<sup>2</sup> Les combles habitables et l'attique doivent être aussi comptés comme niveau si leur surface brute de plancher excède les deux tiers de celle de l'étage complet, au-dessus duquel ils se trouvent. Lorsque les corps de bâtiment sont échelonnés, le nombre de niveaux sera calculé pour chacun d'eux.
+<sup>1</sup> La hauteur d'excavation correspond à la différence de hauteur entre le terrain naturel et le point le plus bas du terrain aménagé, en prolongation de la hauteur totale. L'ordonnance sur les constructions (ci-après: OC) peut prévoir, pour des cas spécifiques, que la hauteur d'excavation ne se mesure pas en prolongation de la hauteur totale.
 
 #### Art. 13
 
-**Indice d'utilisation**
+**Hauteur totale avec excavation**
 
-<sup>1</sup> L'indice d'utilisation est le rapport entre la surface brute totale déterminante des planchers et la surface de la parcelle prise en considération.
-
-<sup>2</sup> Le mode de calcul de l'indice sera réglé dans l'ordonnance.
-
-<sup>3</sup> Le transfert d'indice est autorisé dans la mesure où les parcelles sont contiguës et situées dans la même zone.
+<sup>1</sup> La hauteur totale avec excavation correspond à la somme de la hauteur totale et de la hauteur d'excavation.
 
 #### Art. 14
 
-**Définitions et modes de calcul**
+**Hauteur cumulée avec excavation**
 
-Par voie d'ordonnance, le Conseil d'Etat est habilité à préciser dans un glossaire les définitions de base et les modes de calcul.
-
-### Chapitre 3: Conditions préalables à la construction
-
-### Autorisation de construire, coordination, subordination à une
-
-autorisation de construire
+<sup>1</sup> La hauteur cumulée avec excavation correspond à la différence entre le point le plus haut de la charpente du toit du corps de bâtiment échelonné le plus élevé et le point le plus bas du terrain aménagé.
 
 #### Art. 15
 
-**Autorisation**
+**Détermination de la hauteur**
 
-<sup>1</sup> Les constructions et installations, leur transformation, leur agrandissement, leur changement d'affectation partiel ou total ainsi que leur démolition ayant une incidence du point de vue de l'aménagement du territoire, de la protection de l'environnement ou de la police des constructions sont subordonnés à une autorisation de construire de l'autorité compétente. L'assujettissement à autorisation de construire des installations solaires est régi par l'ordonnance, sous réserve du droit fédéral.[^15-1]
+<sup>1</sup> Les communes fixent une hauteur totale et une hauteur d'excavation pour chaque type de zones à bâtir. Elles peuvent en outre fixer une hauteur totale avec excavation et une hauteur cumulée avec excavation.
 
-<sup>2</sup> Les constructions et installations doivent respecter la présente loi, les dispositions du droit des constructions et les plans d'affectation ainsi que les autres dispositions du droit public fédéral, cantonal et communal.
-
-[^15-1]: Modification du 18 décembre 2014 BO No 4/2015, BO 01.06.2015 No 23/2015
+### 2.2.3 Etages
 
 #### Art. 16
 
-<sup>1,3,4</sup> Coordination
+**Définition et détermination**
 
-<sup>1</sup> Lorsqu'une construction ou installation nécessite des décisions émanant de plusieurs autorités en relation étroite avec l'autorisation de construire, celles-ci doivent être coordonnées par l'autorité compétente, matériellement et formellement, dans la procédure d'autorisation de construire.
+<sup>1</sup> Les étages correspondent au nombre de niveaux d'un bâtiment à l'exception du sous-sol, des combles et de l'attique. Le nombre de niveaux est compté indépendamment pour chaque corps de bâtiment.
 
-<sup>2</sup> A cette fin et lorsque les différentes autorisations relèvent du niveau cantonal, la commission cantonale des constructions dirige la procédure d'instruction, recueille toutes les prises de position des organes ou des autorités concernées et procède à la pesée de tous les intérêts en présence avant de rendre sa décision dont les éléments ne doivent pas être contradictoires.
+<sup>2</sup> Les communes peuvent fixer un nombre minimal ou maximal d'étages pour chaque type de zones.
 
-<sup>3</sup> La commission cantonale des constructions intègre dans sa décision globale toutes les autorisations de compétence cantonale relatives à l'objet, de manière à n'ouvrir qu'une seule voie de droit à l'encontre de sa décision. Si cette concentration ne peut se faire, elle veillera à ce que les décisions séparées soient notifiées simultanément à sa décision.
-
-<sup>3bis</sup> En cas de contradictions et à défaut de conciliation, l’autorité de la procédure décisive tranche.
-
-<sup>3ter</sup> Les décisions sont notifiées séparément, mais de manière simultanée, quand une attraction de compétences n’est pas réalisable, notamment quand la décision de la procédure décisive est communale.
-
-<sup>4</sup> Les procédures décisives sont arrêtées dans le règlement cantonal d'application de l'ordonnance fédérale relative à l'étude d'impact sur l'environnement.
-
-### Chapitre 4: Exigences relatives aux projets de construction
-
-### A. Protection et aménagement du paysage et de l'environnement
+### 2.2.4 Indices
 
 #### Art. 17
 
-**Protection du paysage et des sites**
+**Surface de terrain déterminante**
 
-<sup>1</sup> Les constructions et installations doivent respecter l'environnement naturel et bâti dans lequel elles s'inscrivent notamment du point de vue du volume, de l'emplacement, de la forme, des matériaux et de leur couleur.
+<sup>1</sup> La surface de terrain déterminante (STd) servant de base au calcul des indices correspond aux terrains ou parties de terrains compris dans la zone à bâtir correspondante.
 
-<sup>2</sup> Les constructions et installations ainsi que leurs abords doivent être entretenus afin de garantir le maintien de l'image du paysage et du site.
+<sup>2</sup> La surface des accès et routes privées sur le terrain déterminant est prise en compte.
 
-<sup>3</sup> L'autorité compétente en matière d'autorisation de construire peut ordonner la remise en état ou la démolition des bâtiments ou autres installations qui portent atteinte au paysage ou aux sites en raison de leur état de délabrement.
+<sup>3</sup> La surface des accès au bâtiment est prise en compte. Ne sont pas comptées les surfaces relatives au réseau routier (principal, collecteur et de desserte).
 
 #### Art. 18
 
-<sup>1</sup> Objets bénéficiant d'une protection particulière
+**Indices**
 
-<sup>1</sup> Bénéficient d'une protection particulière les éléments caractéristiques du paysage et des localités tels que:
+<sup>1</sup> L'indice brut d'utilisation du sol (IBUS) correspond au rapport entre la somme des surfaces de plancher (SP) et la surface de terrain déterminante (STd). La somme des surfaces de plancher se compose des surfaces utiles principales et secondaires, de dégagement, de constructions et d'installations. Ne sont pas prises en compte les surfaces dont le vide d'étage est inférieur à 1.80 mètre.
 
-- a) Les lacs, cours d'eaux et torrents et leurs rives. Les rives des lacs et des cours d'eau doivent être rendues accessibles au public pour autant que des motifs relevant de la protection de la nature et du paysage ne s'y opposent pas ou qu'aucune atteinte disproportionnée ne soit portée à la propriété privée ou au domaine public;
+<sup>2</sup> L'indice d'occupation du sol (IOS) correspond au rapport entre la surface déterminante d'une construction (SdC) et la surface de terrain déterminante (STd). Par surface déterminante d'une construction, on entend la surface située à l'intérieur de la projection du pied de façade.
 
-- b) Les paysages, sites et rues, les constructions et installations présentant une beauté ou un intérêt particulier, notamment ceux importants du point de vue historique, culturel ou scientifique. Leur valeur caractéristique ne doit pas être amoindrie;
+<sup>3</sup> L'indice de masse (IM) correspond au rapport entre le volume bâti au-dessus du terrain de référence (VBr) et la surface de terrain déterminante (STd). Le volume bâti correspond au volume déterminé par les limites extérieures d'un corps de bâtiment au-dessus du terrain de référence.
 
-- c) Les bosquets, taillis, haies, jardins, places, arcades, cours intérieures ou autres objets caractéristiques du paysage et des localités; ces objets doivent être conservés, voire rétablis, remplacés ou remaniés selon leur importance.
-
-<sup>2</sup> Les objets particulièrement dignes de protection ne doivent pas subir de modifications préjudiciables, ni être détournés de leur but, ni être touchés par des modifications apportées à leurs alentours.
-
-<sup>3</sup> Les communes peuvent indiquer les objets particulièrement dignes de protection dans leurs plans d'affectation des zones ou dans des inventaires. A défaut, elles décident de cas en cas à l'intérieur de la zone à bâtir.
-
-<sup>4</sup> Le Conseil d'Etat règle la procédure relative à l'établissement de l'inventaire dans l'ordonnance sur les constructions. Cette procédure porte sur la collaboration entre les communes et les services cantonaux, l'enquête publique des plans, la procédure d'opposition et de recours, la publicité et la mise à jour ainsi que sur l'entrée en force de l'inventaire.
-
-<sup>5</sup> La mise sous protection des constructions et installations hors zone à bâtir sera décidée de cas en cas par l'autorité compétente.
-
-<sup>6</sup> La protection des objets figurant dans les inventaires de la Confédération et du canton en application de la législation spéciale est réglée par cette législation.
+<sup>4</sup> L'indice de surface verte (Sver) correspond au rapport entre la surface verte déterminante (Sver) et la surface de terrain déterminante (STd). La surface verte comprend les surfaces naturelles et/ou végétalisées qui sont perméables et ne servent ni au dépôt ni au stationnement.
 
 #### Art. 19
 
-**Ouvrages dans les eaux et au bord des eaux**
+**Détermination**
 
-<sup>1</sup> Dans les eaux et dans la partie protégée des rives, seuls sont autorisés les ouvrages d'utilité publique ou nécessaires pour l'entretien des eaux, tels que les installations de navigation, les installations de natation ou de sport nautique, les ports, chemins de halage, installations des rives et autres installations analogues.
+<sup>1</sup> Les communes peuvent introduire un ou plusieurs indices et fixer le type et la valeur de l'indice maximal pour chacune de leurs zones à bâtir.
 
-<sup>2</sup> Les installations privées entrant dans la catégorie énumérée à l'alinéa 1 peuvent être autorisées sur des lacs, cours d'eau et rives privés si aucun intérêt public ne s'y oppose.
+<sup>2</sup> En cas de renonciation partielle ou totale à fixer un ou plusieurs indices, elles doivent définir d'autres prescriptions afin d'assurer un aménagement local cohérent.
 
-<sup>3</sup> Les remblayages de rives ou la création de dépôts de matériaux dans un but privé sont interdits.
-
-<sup>4</sup> Demeurent réservées, la loi sur les cours d'eau et la législation sur la protection des eaux, sur la protection de la nature, sur la pêche et sur la navigation.
+<sup>3</sup> Les communes peuvent fixer un indice minimal pour chacune de leurs zones à bâtir pour les nouvelles constructions, ceci en considération des objectifs à atteindre en matière de densification. Sont réservées les dispositions spéciales en matière d'aménagement du territoire fixant d'autres limites à la mesure d'utilisation du sol.
 
 #### Art. 20
 
-**Immissions, protection de l'environnement**
+**Transfert d'indices**
 
-<sup>1</sup> Les constructions et installations ne doivent pas produire sur le voisinage des effets qui seraient en contradiction avec le règlement de zones.
+<sup>1</sup> Les propriétaires fonciers concernés peuvent convenir, en constituant une servitude, de transférer sur une autre parcelle à bâtir l'indice non utilisé.
 
-<sup>2</sup> Dans les secteurs jouxtant les zones d'habitation, il faut tenir compte de ces dernières. Des conditions et charges nécessaires peuvent être imposées ou la modification du projet exigée dans le cadre de la procédure d'autorisation de construire.
+<sup>2</sup> Le transfert n'est possible que sur des fonds situés dans la même zone à bâtir et pour autant que le transfert n'entraîne pas une dénaturation ou un aménagement contraire à la zone en cause. Le transfert au-delà d'une route de desserte servant en principe d'équipement routier de détail est possible.
 
-<sup>3</sup> Les dispositions plus restrictives de la législation sur la protection de l'environnement demeurent réservées.
-
-### B. Réalisation de la construction
+<sup>3</sup> La servitude doit être inscrite au registre foncier également en faveur de la commune avant le début des travaux.
 
 #### Art. 21
 
-**Réserve du droit communal**
+**Majoration**
 
-Les communes peuvent adopter des dispositions plus restrictives que celles contenues dans la présente loi notamment pour ce qui concerne les distances à la limite et les distances entre bâtiments à respecter par rapport aux fonds voisins et par rapport aux autres constructions et installations.
+<sup>1</sup> L'OC fixe les cas où les indices peuvent être majorés, en particulier en cas de planification spéciale, de bâtiments qui consomment particulièrement peu d'énergie, de rez-de-chaussée commerciaux ou de bâtiments de l'hôtellerie.
+
+<sup>2</sup> La réglementation communale ou d'autres législations cantonales spéciales ne peuvent fixer des règles en matière de majoration d'indices ou de non-considération de surfaces ou de volumes.
+
+### 2.2.5 Ordre des constructions
 
 #### Art. 22
 
-**Distances, distance à la limite, et distance en général**
+**Ordre contigu**
 
-<sup>1</sup> La distance à la limite doit égaler le tiers de la hauteur des façades mais atteindre au minimum trois mètres à partir de chaque point de façade.
+<sup>1</sup> L'ordre contigu est autorisé aux conditions alternatives suivantes:
 
-<sup>2</sup> Les parties de construction dépassant la façade telles que les avant-toits, les entrées de maison, les balcons, les vérandas, les oriels, les escaliers extérieurs et autres ne sont comptées qu'à partir d'une profondeur de 1,50 m.
+- a) lorsque le RCCZ le prévoit;
+- b) lorsque le bâtiment voisin est construit en limite de propriété et que l'ordre contigu est admissible du point de vue de l'architecture et de l'hygiène;
+- c) moyennant la constitution par les propriétaires d'une servitude réciproque de contiguïté inscrite au registre foncier également en faveur de la commune.
 
-<sup>3</sup> Pour les annexes et les constructions isolées, la distance à la limite mesurée à l'extérieur de la construction est de 2 m pour autant qu'elles ne servent pas à abriter des personnes ou des animaux, que la hauteur des façades ne dépasse pas 2,50 m, que la hauteur à la faîtière ne dépasse pas 3,50 m et que l'emprise au sol n'excède pas 10 m2.
+<sup>2</sup> Si, après constitution de la servitude de contiguïté, un des propriétaires renonce à construire en contiguïté, il doit respecter le double de la distance légale à la limite.
 
-<sup>4</sup> Sous réserve de la loi sur les routes, les constructions et installations situées entièrement au-dessous du sol naturel peuvent être réalisées en limite de propriété.
-
-<sup>5</sup> Pour autant que les distances entre bâtiments soient respectées, la distance à la limite peut être modifiée par la constitution d'une servitude sur le fonds voisin. Cette servitude doit être inscrite au registre foncier également en faveur de la commune.
+### 2.2.6 Contrôle du respect des règles de construction et registre
 
 #### Art. 23
 
-**Distance à la forêt**
+**Contrôle**
 
-La distance entre les constructions et installations et la lisière des forêts est de 10 m.
+<sup>1</sup> Lorsque les distances entre bâtiments, les distances aux limites et les indices ainsi que les autres facteurs dépendant de la surface de la parcelle ont été calculés, la surface ayant servi de base aux calculs ne peut plus être réutilisée en vue de constructions ultérieures.
+
+<sup>2</sup> Les communes, en examinant leur registre, ainsi que le géomètre breveté inscrit au registre fédéral qui est appelé à établir notamment un verbal de modification de limite ou de division d'une parcelle, s'assurent que les prescriptions matérielles soient respectées.
 
 #### Art. 24
 
-**Distance par rapport aux routes et aux cours d'eau**
+**Registre et liste**
 
-<sup>1</sup> Les distances par rapport aux routes sont fixées par les dispositions de la loi sur les routes et les dispositions communales, celles par rapport aux cours d'eau par la loi sur la police des cours d'eau.
+<sup>1</sup> Les communes tiennent un registre qui contient la liste des surfaces utilisées en zone à bâtir. Ce registre est complété au besoin par un plan de situation. Il est public et est transmis annuellement au service cantonal responsable de l'aménagement du territoire.
 
-<sup>2</sup> Demeurent réservées les dispositions relatives aux distances contenues dans les lois fédérales et autres lois cantonales ainsi que les alignements.
+<sup>2</sup> Elles tiennent également une liste concernant toutes les autorisations délivrées par le conseil municipal et la CCC (par coordonnées de la carte topographique, par parcelle et par folio).
+
+### 2.3 Règles sur l'intégration, l'aspect général et environnement
 
 #### Art. 25
 
-**Terrains de jeux; espaces extérieurs**
+**Intégration et aspect général**
 
-<sup>1</sup> Le règlement communal peut prévoir que lors de la construction d'ensembles de logements, le maître de l'ouvrage peut être contraint par l'autorité compétente de créer des terrains de jeux suffisants pour les enfants; leur affectation peut être garantie par la constitution d'une servitude en faveur de la commune.
+<sup>1</sup> Les constructions et installations doivent respecter l'environnement naturel et bâti dans lequel elles s'inscrivent notamment du point de vue du volume, de l'emplacement, de la forme, des matériaux et de leur couleur.
 
-<sup>2</sup> Les espaces extérieurs doivent être aménagés en fonction des exigences d'un habitat de qualité.
+<sup>2</sup> Les constructions, installations et aménagements extérieurs doivent être conçus et entretenus de manière à s'intégrer harmonieusement avec l'environnement construit et paysager afin d'assurer un aspect général de qualité.
 
 #### Art. 26
 
-**Places de parc pour véhicules à moteur**
+**Matériaux et teintes**
 
-<sup>1</sup> Lors de la réalisation des constructions et installations ainsi que lors du changement d'affectation des constructions et installations existantes, le maître de l'ouvrage doit garantir sur la parcelle à bâtir ou à proximité un nombre suffisant de places de stationnement pour véhicules correspondant aux besoins. Pour ce faire et dans le but d'une utilisation mesurée du sol et d'une bonne gestion de la circulation et du territoire, les autorités compétentes favorisent la création de parkings collectifs sur fonds privés ou publics.
+<sup>1</sup> Les matériaux et les teintes des façades et toitures doivent assurer une unité et une harmonie dans l'aspect général et dans l'intégration au site.
 
-<sup>2</sup> Les communes sont habilitées à prévoir dans leurs règlements de constructions que:
-
-- a) les personnes visées par le premier alinéa doivent participer équitablement aux installations de stationnement collectives, publiques ou privées conformément aux dispositions de la loi sur les routes;
-
-- b) une contribution de remplacement équitable soit perçue auprès du maître de l'ouvrage en cas d'impossibilité d'aménager le nombre de places de parc nécessaire sur fonds privé ou d'inopportunité de participer à une installation publique de stationnement. Le montant de la contribution de remplacement doit être affecté au financement des parkings collectifs;
-
-- c) dans les zones qui, d'après le plan d'affectation des zones, doivent être libérées ou délestées de la circulation de véhicules à moteur privés, la construction de places de stationnement, de garages, de parkings couverts ou de silos à voitures est interdite ou autorisée en nombre limité.
-
-<sup>3</sup> L'affectation des places de parc peut être garantie par la constitution d'une servitude en faveur de la commune.
-
-<sup>4</sup> Pour garantir les obligations du maître de l'ouvrage découlant du présent article, la commune dispose d'une hypothèque légale directe, valable sans inscription au registre foncier. Le propriétaire pourra obtenir une franchise de cette hypothèque en fournissant une garantie bancaire de montant correspondant.
+<sup>2</sup> L'autorité compétente peut exiger, en tant que condition dans l'autorisation de construire, que des échantillons lui soient remis pour validation au plus tard lors de l'annonce du début des travaux.
 
 #### Art. 27
 
-**Sécurité et hygiène**
+**Modification du terrain naturel, remblai, déblai et mur de soutènement**
 
-<sup>1</sup> Les constructions et installations doivent être exécutées selon les règles reconnues de l'architecture. Elles doivent être conformes aux exigences en matière de police du feu, de la santé et du commerce.
+<sup>1</sup> Les modifications du terrain naturel doivent être réduites au maximum. Le projet doit être adapté à la topographie du terrain. Le terrain aménagé doit être en harmonie avec les parcelles voisines.
 
-<sup>2</sup> Les constructions et installations ne doivent pas porter atteinte à la sécurité et à la santé des personnes ou à la propriété de tiers.
+<sup>2</sup> Les communes peuvent fixer, pour chaque type de zones à bâtir, des hauteurs maximales de remblai et déblai par rapport au terrain naturel afin d'assurer une intégration suffisante dans le site existant.
 
-<sup>3</sup> Les maîtres de l'ouvrage ou leurs mandataires sont responsables du respect des prescriptions et des règles en matière de construction.
+<sup>3</sup> Un mur de soutènement ou tout autre ouvrage similaire prévu sur la limite parcellaire ou à l'intérieur d'une parcelle, ainsi que la pente du terrain aménagé doivent être réalisés en tenant compte des caractéristiques du terrain naturel, en particulier sa configuration et sa nature.
 
-<sup>4</sup> Les logements d'ouvriers, les réfectoires, les installations de chantier et toutes les activités liées à la construction sont soumis aux exigences en matière d'hygiène et de prévention des accidents.
+<sup>4</sup> Les prescriptions de la législation sur les routes relatives notamment aux murs et clôtures, haies et arbres sont réservées.
 
-#### Art. 27bis
-
-<sup>1</sup> Aménagements et renforcements
-
-L’autorisation de construire peut être subordonnée à des mesures constructives, de façon à résister aux effets destructeurs des dangers naturels.
+### 2.4 Prescriptions techniques
 
 #### Art. 28
 
-**Prise en compte des handicapés**
+**Sécurité et hygiène**
 
-<sup>1</sup> Les constructions et installations qui, en raison de leur affectation doivent aussi être accessibles aux handicapés et aux personnes âgées doivent, autant que possible, être conçues de manière à ce que ceux-ci puissent commodément y accéder et les utiliser.
+<sup>1</sup> Les constructions et installations doivent respecter les règles reconnues de l'architecture. Elles doivent être conformes aux exigences en matière de protection incendie, de santé et du commerce.
 
-<sup>2</sup> La législation sur l'intégration des personnes handicapées règle les modalités de détail.
+<sup>2</sup> Les constructions et installations ne doivent pas porter atteinte à la sécurité et à la santé des personnes ou à la propriété de tiers.
+
+<sup>3</sup> Les maîtres de l'ouvrage et leurs mandataires sont responsables du respect des prescriptions et des règles en matière de construction.
+
+<sup>4</sup> Les logements d'ouvriers, les réfectoires, les installations de chantier et toutes les activités liées à la construction sont soumis aux exigences en matière d'hygiène et de prévention des accidents.
 
 #### Art. 29
 
-**Normes de construction en matière d'énergie**
+**Terrain de jeux et espaces extérieurs**
 
-<sup>1</sup> Les constructions et installations doivent être réalisées et aménagées de façon à économiser l'énergie.
+<sup>1</sup> Le RCCZ peut prévoir que lors de la construction d'ensembles de logements, le maître de l'ouvrage peut être contraint par l'autorité compétente de créer des terrains de jeux suffisants pour les enfants; leur affectation peut être garantie par la constitution d'une servitude en faveur de la commune.
 
-<sup>2</sup> La législation sur l'énergie règle les modalités de détail.
-
-<sup>3</sup> Pour les bâtiments existants transformés ou rénovés de manière à satisfaire les exigences correspondantes de l'ordonnance sur l'utilisation rationnelle de l'énergie dans les constructions et les installations ou de manière à bénéficier d'un label Minergie ou d'un label reconnu par l'autorité cantonale compétente:[^29-1] a) un dépassement de 20 cm au plus pour l'ajout d'une isolation thermique ou la pose d'une installation solaire n'est pas pris en compte lors du calcul notamment de la hauteur du bâtiment, de la distance entre les bâtiments, à la limite, aux eaux publiques, à la route ou à la place de parc, ni dans le cadre de l'alignement des constructions;[^29-1] b) un ajout d'isolation sur les façades, y compris le parement extérieur, n'est pas considéré dans le calcul de l'indice d'utilisation du sol.[^29-1]
-
-<sup>4</sup> Les principes fixés à l'alinéa 3 priment les dispositions cantonales ou communales relatives aux distances, aux hauteurs, aux alignements et au calcul de l'indice d'utilisation du sol. Demeurent notamment réservées les exigences à respecter en matière de police du feu (matériaux de construction) et en vertu de la législation spéciale en matière de protection du patrimoine.[^29-1]
-
-<sup>5</sup> Pour un nouveau bâtiment, un dépassement d'au maximum 20 cm de la hauteur maximale du bâtiment fixée par le règlement communal des constructions est admis, pour autant que l'exigence d'isolation du toit prévue dans l'ordonnance sur les constructions soit respectée.[^29-1]
-
-[^29-1]: Modification du 18 décembre 2014 BO No 4/2015, BO 01.06.2015 No 23/2015
-
-### C. Exceptions
+<sup>2</sup> Les espaces extérieurs doivent être aménagés en fonction des exigences d'un habitat de qualité.
 
 #### Art. 30
 
-<sup>1</sup> Principe
+**Places de parc**
 
-<sup>1</sup> Des dérogations aux prescriptions relatives à l'affectation de la zone à bâtir et aux autres dispositions en matière de construction peuvent être octroyées par l'autorité compétente au sens de l'article 2 lorsque des circonstances exceptionnelles ou des motifs importants le justifient et qu'aucun intérêt public ou privé prépondérant des voisins ne s'en trouve lésé.
+<sup>1</sup> Les obligations liées aux places de parc (construction obligatoire, nombre, dimensionnement, implantation, places communes, exceptions et contribution de remplacement) sont régies par la législation sur les routes et par la réglementation communale.
 
-<sup>2</sup> Des dérogations peuvent être octroyées à titre précaire pour de petites constructions ou des constructions mobilières qu'il est possible d'enlever en tout temps, pour autant que le requérant démontre un intérêt suffisant et dans la mesure où aucun intérêt public ni aucun intérêt privé prépondérant des voisins ne s'en trouve lésé.
-
-<sup>3</sup> Les autorités compétentes peuvent, dans leurs domaines respectifs et dans le respect des droits des tiers et de la protection du paysage et des sites, accorder des dérogations aux règles fixées dans la présente loi, dans ses règlements d'application et dans les règlements communaux de constructions, pour des projets de construction ayant un caractère traditionnel ou expérimental tant sur le plan de l'architecture que sur celui de la technique de construction.
+<sup>2</sup> Les communes peuvent prévoir dans leur RCCZ l'obligation de réaliser des places de parc pour tout type de véhicules, notamment pour les motos et les vélos. Elles peuvent également exiger que les places de parc soient souterraines pour certains types de constructions ou installations.
 
 #### Art. 31
 
-<sup>1</sup> Dérogations selon l'art. 24c al. 2 LAT et l'art. 42 OAT
+**Environnement et immissions**
 
-<sup>1</sup> Les constructions et les installations existantes sises à l'extérieur de la zone à bâtir peuvent être rénovées, partiellement transformées ou reconstruites lorsqu'elles conservent, pour l'essentiel, leur affectation, leur volume et leur aspect extérieur, pour autant qu'elles aient été érigées ou transformées légalement et que ces travaux soient compatibles avec les exigences majeures de l'aménagement du territoire.
+<sup>1</sup> Les constructions et installations ne doivent pas produire sur le voisinage des effets qui seraient en contradiction avec le RCCZ.
 
-<sup>2</sup> Les modifications des constructions et installations sont autorisées aux conditions cumulatives suivantes:
+<sup>2</sup> Dans les secteurs jouxtant les zones d'habitation, il faut tenir compte de ces dernières. Des conditions et charges nécessaires peuvent être imposées ou la modification du projet exigée dans le cadre de la procédure d'autorisation de construire.
 
-- a) si elles sont souhaitables dans l'intérêt de la sauvegarde du patrimoine bâti et ne portent pas atteinte au paysage;
-
-- b) si elles sont nécessaires pour une utilisation judicieuse des constructions ou installations;
-
-- c) si elles n'entraînent aucune dépense supplémentaire d'équipement pour la collectivité;
-
-- d) si elles ne compromettent pas des intérêts de la zone, en particulier de l'agriculture.
-
-<sup>3</sup> Une augmentation de volume de faible importance n'est autorisée que si elle est absolument nécessaire, respecte l'état existant et en sauvegarde l'identité. L'état déterminant pour l'appréciation du respect de l'identité est l'état de la construction ou de l'installation au moment de la modification de la législation ou des plans d'affectation.
-
-<sup>4</sup> Des transformations successives de la même construction ou installation doivent correspondre aux prescriptions du présent article et doivent être appréciées par rapport à l'état initial de l'ouvrage.
-
-<sup>5</sup> Abrogé
-
-#### Art. 31bis
-
-<sup>1</sup> Dérogations selon l'art. 24d LAT
-
-<sup>1</sup> L'utilisation de bâtiments d'habitation agricoles conservés dans leur substance à des fins d'habitation sans rapport avec l'agriculture est autorisée aux conditions posées par l'article 24d alinéa 3 LAT.
-
-<sup>2</sup> Le changement total d'affectation des constructions et installations hors zone à bâtir jugées dignes d'être protégées est possible aux conditions suivantes :
-
-- a) les constructions ou installations ont été placées sous protection par la commission cantonale des constructions, sur préavis de la sous-commission pour la protection des sites;
-
-- b) leur conservation à long terme ne peut plus être assurée d'une autre manière;
-
-- c) elles ne sont plus nécessaires à leur usage antérieur, se prêtent à l'utilisation envisagée et n'impliquent pas une construction ou une installation de remplacement non objectivement nécessaire;
-
-- d) leur aspect extérieur et leur structure architecturale demeurent pour l'essentiel inchangés;
-
-- e) seule une légère extension des équipements existants est nécessaire et tous les coûts supplémentaires d'infrastructure et de services publics occasionnés par le changement total d'affectation sont pris en charge par le propriétaire;
-
-- f) l'exploitation agricole des terrains environnants n'est pas menacée;
-
-- g) aucun intérêt prépondérant ne s'y oppose.
+<sup>3</sup> Les dispositions de la législation sur la protection de l'environnement sont réservées.
 
 #### Art. 32
 
-**Dispositions accessoires; mention au registre foncier**
+**Normes de construction en matière d'énergie**
 
-<sup>1</sup> Les autorisations dérogatoires peuvent être accordées pour une durée déterminée ou sous réserve d'une révocation en tout temps. A l'échéance du délai et en cas de révocation, la construction ou l'installation autorisée doit être enlevée par son propriétaire dans un délai raisonnable; le propriétaire ne peut prétendre à aucune indemnité.
+<sup>1</sup> Pour les bâtiments existants transformés ou rénovés de manière à satisfaire aux exigences correspondantes de la législation cantonale sur l'utilisation rationnelle de l'énergie dans les constructions et les installations ou de manière à bénéficier d'un label reconnu par l'autorité cantonale compétente:
 
-<sup>2</sup> Les dérogations peuvent être assorties de conditions et de charges. Les conditions suivantes peuvent notamment être imposées:
+- a) un dépassement de 20 centimètres au plus pour l'ajout d'une isolation thermique ou la pose d'une installation solaire n'est pas pris en compte lors du calcul notamment de la hauteur du bâtiment, de la distance entre les bâtiments, à la limite, aux eaux publiques, à la route ou à la place de parc, ni dans le cadre de l'alignement des constructions;
+- b) un ajout d'isolation sur les façades, y compris le parement extérieur, n'est pas considéré dans le calcul de l'indice.
 
-- a) aucune indemnité n'est versée en cas d'expropriation pour les dépenses occasionnées par des travaux entrepris en vue d'augmenter la valeur du bien-fonds et qui ont été autorisés par le biais d'une dérogation;
+<sup>2</sup> Les principes fixés à l'alinéa 1 priment les dispositions cantonales ou communales relatives aux distances, aux hauteurs, aux alignements et au calcul des indices. Sont notamment réservées les exigences à respecter en matière de police du feu (matériaux de construction) et en vertu de la législation spéciale en matière de protection du patrimoine.
 
-- b) les constructions et installations autorisées en vue d'une utilisation déterminée ne peuvent faire l'objet d'un changement d'affectation, de la constitution d'une propriété par étages ou d'une division de parcelles;
-
-- c) une sûreté doit être fournie pour garantir l'exécution des obligations découlant de l'autorisation de construire.
-
-<sup>3</sup> Les délais, l'exclusion d'une indemnité (revers d'enlèvement ou de plus-value), l'interdiction de changer l'affectation, de distraire une parcelle, de diviser un immeuble ainsi que l'obligation de fournir une sûreté doivent être mentionnés au registre foncier avant le début des travaux.
-
-### Chapitre 5: Procédure d'autorisation de construire et police des
-
-constructions
-
-### A. Généralités
+<sup>3</sup> Pour une nouvelle construction, un dépassement d'au maximum 20 centimètres de la hauteur totale du bâtiment fixée par le RCCZ est admis, pour autant que l'exigence d'isolation du toit prévue dans l'OC soit respectée.
 
 #### Art. 33
 
-<sup>1</sup> But et compétence
+**Réserves en faveur des législations spéciales**
 
-<sup>1</sup> La procédure d'autorisation de construire et la police des constructions ont pour but la mise en oeuvre du droit des constructions et la sauvegarde de l'ordre et de la sécurité publics en matière de construction, ainsi que du patrimoine naturel et bâti.
+<sup>1</sup> Les exigences techniques ressortant d'autres législations telles que les prescriptions techniques concernant la prévention des dangers naturels ou l'accessibilité des personnes handicapées sont réservées.
 
-<sup>2</sup> La demande d'autorisation de construire doit être déposée par le requérant ou son mandataire et cosignée par le propriétaire du fonds.
+## 3 Autorisation de construire
 
-<sup>3</sup> Les autorités prennent, dans les limites de leur compétence, les mesures prévues par la loi. Elles sont habilitées à pénétrer dans les immeubles, bâtiments et locaux lorsqu'il n'existe aucun autre moyen d'établir des faits pertinents.
+### 3.1 Dispositions générales
 
 #### Art. 34
 
-<sup>1</sup> Ordonnance sur les constructions
+**Assujettissement à une autorisation de construire**
 
-<sup>1</sup> Au surplus l'ordonnance sur les constructions règle plus précisément la procédure d'autorisation de construire et la police des constructions.
-
-<sup>2</sup> Elle détermine:
-
-- a) les cas où l'autorisation est nécessaire selon le droit fédéral et cantonal et les travaux non soumis à autorisation;
-
-- b) les catégories d'autorisations, la composition, l'organisation et les tâches de la Commission cantonale des constructions (CCC) et du secrétariat cantonal des constructions;
-
-- c) l'organisation et les compétences de la commission consultative d'architecture;
-
-- d) les exigences relatives à la demande d'autorisation, à l'examen préliminaire de la demande, ainsi qu'à la notification de la décision;
-
-- e) les exigences relatives à l'obtention de tous les documents nécessaires à l'établissement de la statistique cantonale de la construction, y compris ceux concernant les dossiers situés à l'intérieur des zones à bâtir;
-
-- f) la validité, la durée et la prolongation de l'autorisation de construire;
-
-- g) les émoluments et frais.
-
-### B. Procédure d'autorisation de construire
+<sup>1</sup> Sont assujettis à une autorisation de construire la création, la transformation, l'agrandissement, la rénovation, le changement d'affectation ainsi que la démolition de tout aménagement durable créé par l'homme et ayant une incidence du point de vue de l'aménagement du territoire, de la protection de l'environnement ou de la police des constructions. L'assujettissement à autorisation de construire des installations utilisant des ressources énergétiques renouvelables telles que des installations solaires ou des pompes à chaleur est régi par l'OC, qui définit notamment le type d’installations concerné ainsi que les conditions qu’elles doivent remplir, sous réserve du droit fédéral.
 
 #### Art. 35
 
-**Demande**
+**Dispense d'autorisation de construire selon la présente loi**
 
-<sup>1</sup> Le requérant engage la procédure par le dépôt d'une demande d'autorisation de construire auprès de l'autorité communale compétente. Cette demande est également valable pour les autres autorisations que nécessite le projet.
+<sup>1</sup> Les constructions et installations totalement ou partiellement soustraites à la souveraineté cantonale par la législation fédérale ne sont pas subordonnées à une autorisation de construire selon la présente loi. Sont en particulier soustraites à la souveraineté cantonale les constructions et installations concernant la défense nationale, les chemins de fer, les routes nationales, la navigation, la navigation aérienne, les conduites pour la fourniture de gaz, les installations atomiques ainsi que les téléphériques et funiculaires.
 
-<sup>2</sup> La demande doit contenir toutes les indications et tous les documents nécessaires à son examen ainsi qu'à l'examen des autres demandes d'autorisations nécessaires.
-
-<sup>3</sup> Lorsque le projet comporte des dérogations, la demande motivée de dérogation doit être annexée à la demande d'autorisation de construire.
-
-### C. Publication, enquête publique
+<sup>2</sup> Ne sont pas soumises à autorisation de construire selon la présente loi les constructions et installations dont l'autorisation fait l'objet d'une procédure spéciale selon la législation cantonale, en particulier les routes publiques, les projets d'améliorations structurelles, les cours d'eau, les skilifts, les projets liés à l'utilisation des forces hydrauliques, les ouvrages liés à des itinéraires de mobilité de loisirs ainsi que les ouvrages de protection contre les dangers naturels.
 
 #### Art. 36
 
-**Procédure ordinaire**
+**Règles procédurales applicables**
 
-<sup>1</sup> Toutes les demandes concernant des projets nécessitant une autorisation selon la présente loi et l'ordonnance sur les constructions sont mises à l'enquête publique par la commune au plus tard dans les 30 jours dès réception du dossier complet conformément à l'ordonnance sur les constructions.
+<sup>1</sup> La loi sur la procédure et la juridiction administratives (ci-après: LPJA) est applicable dans la mesure où la législation sur les constructions ne contient pas de dispositions spéciales.
 
-<sup>2</sup> La publication a lieu par insertion dans le Bulletin officiel et dans la commune selon l'usage local.
-
-<sup>3</sup> Pour les travaux et les modifications de projets de peu d'importance qui ne touchent pas aux intérêts des tiers, il peut être fait abstraction de l'enquête publique. Le requérant est avisé par écrit de la renonciation à l'enquête publique.
+### 3.2 Demande de renseignements et demande de décision préalable
 
 #### Art. 37
 
-<sup>1</sup> Contenu
+**Demande de renseignements**
 
-La publication doit contenir:
+<sup>1</sup> Sur la base d'un dossier sommaire, une demande de renseignements sur les possibilités de construire sur un fonds déterminé peut être déposée auprès de l'autorité compétente.
 
-- a) le nom du requérant et de l'auteur du projet;
-
-- b) la désignation exacte de la parcelle (numéro, plan et nom local), les coordonnées de la carte topographique, le nom du propriétaire et la nature du projet;
-
-- c) l'affectation de la zone et l'indication des dispositions spéciales relatives à la construction pour les plans d'aménagement détaillés ou les plans de quartier;
-
-- d) l'indication que le projet comporte des dérogations par rapport à la législation en vigueur, notamment à l'article 24 LAT;
-
-- e) l'indication du lieu et de la date du dépôt du dossier et de la possibilité de faire opposition avec mention du délai d'opposition.
+<sup>2</sup> Elle n'équivaut pas à une demande d'autorisation de construire. Les renseignements fournis ne lient pas l'autorité compétente et ne peuvent faire l'objet d'un recours.
 
 #### Art. 38
 
-**Dépôt**
+**Demande de décision préalable**
 
-La demande d'autorisation, les plans et les pièces annexes peuvent être consultés auprès de l'administration communale par toute personne intéressée, dans le délai d'opposition.
+<sup>1</sup> Une demande de décision préalable sur les questions importantes relatives à la construction et à l'affectation, accompagnée de tous les documents nécessaires à l'évaluation, peut être déposée auprès de l'autorité compétente en matière de construction.
 
-### D. Procédure d'opposition
+<sup>2</sup> La procédure applicable est identique à celle applicable à une demande d'autorisation de construire.
+
+<sup>3</sup> La décision préalable a force obligatoire pour les tiers et les autorités compétentes en matière de construction pour les aspects traités, pour autant qu'elle soit toujours en force et que les circonstances n'aient pas changé. Elle ne déploie ses effets que dans le cadre d'une procédure postérieure d'autorisation de construire.
+
+<sup>4</sup> La durée de validité de la décision préalable est identique à celle de l'autorisation de construire.
+
+### 3.3 Procédure d'autorisation de construire
+
+### 3.3.1 Demande d'autorisation de construire
 
 #### Art. 39
 
-**Opposition: Motif**
+**Demande**
 
-Les motifs de l'opposition ne peuvent porter que sur la violation de dispositions de droit public.
+<sup>1</sup> Le requérant engage la procédure par le dépôt d’une demande d’autorisation de construire sur la plateforme. Les dossiers déposés sous forme papier sont digitalisés par l’autorité compétente.
+
+<sup>1<sup>bis</sup></sup> Les demandes relevant de la compétence du conseil municipal d’une commune ayant renoncé à l’utilisation de la plateforme sont déposées sous forme papier auprès de celle-ci.
+
+<sup>2</sup> La demande doit contenir toutes les indications et tous les documents nécessaires à son examen ainsi qu'à l'examen des autres demandes d'autorisations nécessaires.
+
+<sup>3</sup> Lorsque le projet nécessite des dérogations, la demande motivée de dérogation doit être annexée à la demande d'autorisation de construire.
+
+<sup>4</sup> La demande est signée ou validée par le requérant, le propriétaire et l'auteur des plans. En présence de plusieurs propriétaires, les règles de consentement sont notamment régies par le droit civil.
+
+<sup>5</sup> La demande est également valable pour les autres autorisations que nécessite le projet.
+
+#### Art. 39a
+
+**Consultation des organes cantonaux par les communes**
+
+<sup>1</sup> Après avoir examiné la conformité du projet aux dispositions du droit des constructions dont l’application lui incombe, la commune peut transmettre le dossier au SeCC afin que ce dernier consulte les organes cantonaux concernés. La transmission du dossier est faite par le biais de la plateforme.
+
+<sup>2</sup> Les demandes d'autorisation de construire qui, en raison de prescriptions légales, nécessitent obligatoirement la consultation d'un service cantonal spécialisé, doivent être transmises au SeCC par le biais de la plateforme. Le SeCC consulte ensuite uniquement les organes cantonaux devant obligatoirement être consultés. La commune est libre de solliciter d'autres préavis des services cantonaux.
+
+<sup>3</sup> Les préavis motivés des organes cantonaux qui répondent à l’application impérative d’une législation spéciale doivent préciser les dispositions légales sur lesquelles ils se fondent.
+
+<sup>4</sup> En cas de consultation, le SeCC communique au conseil municipal, dans les 30 jours dès réception des dossiers complets, le résultat des prises de position des organes cantonaux. Si pour des raisons impératives ce délai doit être prolongé, les parties doivent être informées de cet ajournement et de ses motifs.
 
 #### Art. 40
 
-**Légitimation**
+**Auteur de plans - Qualité**
 
-Ont qualité pour faire opposition:
+<sup>1</sup> A l'exception des constructions et installations de minime importance, les plans de construction doivent être établis par:
 
-- a) les personnes qui se trouvent directement lésées dans leurs propres intérêts dignes de protection par le projet déposé;
+- a) un titulaire d'un master ou d'un bachelor dans le domaine de la construction, en particulier d'une école polytechnique fédérale, d'une haute école spécialisée, ou d'une école jugée équivalente;
+- b) un titulaire d'un diplôme d'une école supérieure technique (ES) dans le domaine de la construction;
+- c) un titulaire d'une maîtrise fédérale ou d'un brevet fédéral exerçant son activité dans le domaine de la construction;
+- d) une personne inscrite au registre professionnel REG A, B ou C.
 
-- b) toute autre personne physique ou morale que la loi autorise à recourir.
+<sup>2</sup> L'OC définit la notion de minime importance.
 
 #### Art. 41
 
-<sup>2</sup> Délai et forme
+**Suspension du traitement de la demande**
+
+<sup>1</sup> Le traitement de la demande d'autorisation peut être suspendu si, bien que le projet apparaisse conforme à la législation, il se révèle contraire à un projet de modification de plan d'affectation ou du RCCZ.
+
+<sup>2</sup> Pour admettre la suspension, le conseil municipal doit au moins avoir pris la décision définitive de procéder à une telle modification.
+
+<sup>3</sup> La suspension est maintenue si la mise à l'enquête de la modification est effectuée dans les douze mois qui suivent la communication de la suspension.
+
+### 3.3.2 Publication et mise à l'enquête publique
+
+#### Art. 42
+
+**Publication**
+
+<sup>1</sup> Toutes les demandes concernant des projets nécessitant une autorisation de construire sont mises à l'enquête publique par l'autorité compétente au plus tard dans les 30 jours dès réception du dossier complet.
+
+<sup>2</sup> La publication a lieu par insertion dans le Bulletin officiel.
+
+<sup>3</sup> Pour les travaux et les modifications de projets de peu d'importance qui ne touchent pas aux intérêts des tiers, il peut être fait abstraction de l'enquête publique. Le requérant est avisé de la renonciation à l'enquête publique.
+
+#### Art. 43
+
+**Contenu de la publication**
+
+<sup>1</sup> La publication doit contenir:
+
+- a) le nom du requérant et de l'auteur des plans;
+- b) la désignation exacte de la parcelle (numéro, plan et nom local), les coordonnées de la carte topographique, le nom du propriétaire et la nature du projet;
+- c) l'affectation de la zone et l'éventuelle indication des dispositions spéciales relatives à la construction pour les plans d'aménagement détaillés ou les plans de quartier;
+- d) l'éventuelle indication que le projet nécessite des dérogations par rapport à la législation en vigueur;
+- e) l'indication des modalités de consultation du dossier et de la possibilité de faire opposition avec mention du délai d'opposition.
+
+#### Art. 44
+
+**Dépôt**
+
+<sup>1</sup> La demande d'autorisation, les plans et les pièces annexes peuvent être consultés auprès de l'autorité compétente par toute personne intéressée, dans le délai d'opposition. Les dossiers de compétence de la CCC sont également consultables auprès de l'administration communale.
+
+### 3.3.3 Opposition
+
+#### Art. 45
+
+**Motifs**
+
+<sup>1</sup> Les motifs de l'opposition ne peuvent porter que sur la violation de dispositions de droit public.
+
+#### Art. 46
+
+**Légitimation**
+
+<sup>1</sup> Ont qualité pour faire opposition:
+
+- a) les personnes qui se trouvent directement lésées dans leurs propres intérêts dignes de protection par le projet déposé;
+- b) toute autre personne physique ou morale que la loi autorise à recourir.
+
+#### Art. 47
+
+**Délai et forme**
 
 <sup>1</sup> Le délai d'opposition est de 30 jours à partir de la date de la publication dans le Bulletin officiel.
 
-<sup>2</sup> Les oppositions doivent être formulées par écrit auprès de l'autorité compétente mentionnée dans la publication officielle. Elles doivent être motivées.
+<sup>2</sup> Les oppositions doivent être formulées par écrit auprès de l’autorité compétente mentionnée dans la publication officielle. Pour les projets relevant de la compétence d’une autorité utilisant la plateforme, les oppositions peuvent être formulées par écrit ou déposées sur la plateforme. Les oppositions doivent être motivées en particulier quant à la qualité pour faire opposition.
 
 <sup>3</sup> Un représentant est désigné pour les oppositions collectives; à défaut, le premier des signataires est considéré comme représentant.
 
-#### Art. 42
+#### Art. 48
 
 **Réserve de droit**
 
@@ -608,335 +587,263 @@ Ont qualité pour faire opposition:
 
 <sup>2</sup> Quiconque a la jouissance et l'exercice des droits civils peut invoquer la réserve de ses droits, dans le délai d'opposition.
 
-#### Art. 43
+#### Art. 49
 
 **Séance de conciliation**
 
 <sup>1</sup> En cas d'opposition, l'autorité compétente peut inviter les parties à une séance de conciliation. Elle peut également le faire en cas d'allégation d'une réserve de droit.
 
-<sup>2</sup> Le résultat des pourparlers et l'indication des oppositions non liquidées seront consignés dans un procès-verbal.
+<sup>2</sup> Le résultat des pourparlers et l'indication des oppositions non liquidées peuvent être consignés dans un procès-verbal.
 
-### E. Décision préalable
+### 3.3.4 Décision
 
-#### Art. 44
-
-**Décision préalable**
-
-<sup>1</sup> Une demande de décision préalable sur les questions importantes relatives à la construction et à l'affectation peut être déposée auprès de l'autorité compétente en matière de construction.
-
-<sup>2</sup> La décision préalable est soumise à la même procédure que la décision sur la demande d'autorisation de construire.
-
-<sup>3</sup> La durée de validité de la décision préalable est la même que celle de l'autorisation de construire.
-
-### F. Décision
-
-#### Art. 45
+#### Art. 50
 
 **Décision**
 
 <sup>1</sup> La décision contient l'appréciation de la demande d'autorisation de construire, des demandes de dérogation ainsi que des oppositions non liquidées.
 
-<sup>2</sup> Le droit applicable est le droit en vigueur au moment de la décision.
+<sup>2</sup> La décision peut être soumise à des conditions et des charges, dont la mention au registre foncier peut être ordonnée.
 
-<sup>3</sup> Les autres autorisations nécessaires doivent être notifiées aux intéressés en même temps que la décision relative à l'autorisation de construire dans la mesure où aucune disposition de la législation spéciale ne s'y oppose.
+<sup>3</sup> Pour des constructions et installations liées à une activité spécifique et dont la suppression est justifiée à la fin d'une telle activité, notamment pour des constructions agricoles ou des constructions artisanales ou industrielles particulières, l'autorité compétente peut exiger, dans l'autorisation de construire, la suppression des constructions au terme de l'activité; afin de garantir la suppression des constructions, l'autorité compétente peut, préalablement à la délivrance de l'autorisation, exiger du requérant de fournir les assurances nécessaires, sous forme de garantie ou de gages immobiliers.
 
-### G. Recours
+<sup>4</sup> Les autres autorisations nécessaires doivent être notifiées aux intéressés en même temps que la décision relative à l'autorisation de construire dans la mesure où aucune disposition de la législation spéciale ne s'y oppose.
 
-#### Art. 46
+<sup>5</sup> Les communes rendent leur décision dans un délai de huit semaines dès la fin de la mise à l'enquête ou, le cas échéant, à partir du moment où celles-ci disposent d'un dossier complet.
 
-<sup>1</sup> Recours; effet suspensif
+#### Art. 51
+
+**Durée de validité**
+
+<sup>1</sup> L'autorisation de construire devient caduque si l'exécution du projet n'a pas commencé dans les trois ans dès son entrée en force. L'exécution est considérée comme commencée lorsque des travaux importants ont été réalisés, en particulier l'ensemble du terrassement ou une fouille importante nécessaire au projet. Dans tous les cas, l'exécution du projet est réputée commencée lorsque les semelles ou le radier de fondation sont exécutés.
+
+<sup>2</sup> Le délai ne commence pas à courir ou il est suspendu lorsque l'autorisation de construire ne peut être mise en œuvre pour des motifs juridiques et que le bénéficiaire entreprend avec diligence les démarches nécessaires à la suppression de l'empêchement.
+
+<sup>3</sup> Lorsqu'il s'agit d'un ensemble de constructions autorisées sous la forme d'une seule autorisation de construire, le délai est respecté si l'exécution de l'une des constructions a débuté dans les cinq ans dès l'entrée en force.
+
+<sup>4</sup> L'autorité compétente peut, pour de justes motifs, prolonger de trois ans au plus la durée de validité d'une autorisation de construire. La prolongation est exclue lorsque la situation de fait ou de droit déterminante au moment de l'octroi de l'autorisation de construire a changé.
+
+### 3.3.5 Recours
+
+#### Art. 52
+
+**Recours - Effet suspensif**
 
 <sup>1</sup> Les décisions peuvent faire l'objet d'un recours motivé au Conseil d'Etat dans les 30 jours dès leur notification.
 
-<sup>2</sup> Le recours n'a pas d'effet suspensif; celui-ci peut toutefois être ordonné d'office ou sur requête.
+<sup>2</sup> Le recours n'a pas d'effet suspensif; celui-ci peut toutefois être octroyé d'office ou sur requête.
 
-<sup>3</sup> La demande d'octroi de l'effet suspensif doit être déposée dans le délai de dix jours. Les travaux ne peuvent débuter avant l'entrée en force de la décision relative à l'effet suspensif.
+<sup>3</sup> La demande d'octroi de l'effet suspensif doit être déposée dans le délai de dix jours. Les travaux ne peuvent débuter avant l'entrée en force de la décision relative à l'effet suspensif. La décision sur l'effet suspensif doit être prise dans un délai de trois mois dès le dépôt de la requête.
 
-<sup>4</sup> Le bénéficiaire d'une autorisation de démolition totale ou partielle d'une construction ne peut en faire usage avant qu'elle ne soit exécutoire.
+<sup>4</sup> Le bénéficiaire d'une autorisation de démolition totale ou partielle d'une construction ne peut en faire usage avant qu'elle ne soit entrée en force.
 
 <sup>5</sup> Durant les procédures de recours, la police des constructions incombe à l'autorité de première instance, hormis le prononcé relatif à l'effet suspensif et à d'éventuelles mesures provisionnelles.
 
-#### Art. 47
+<sup>6</sup> Lorsque l'effet suspensif est ordonné sur requête du recourant, celui-ci peut être astreint à fournir des sûretés pour les frais de procédure et pour une éventuelle indemnité de partie. Si les sûretés ne sont pas fournies dans le délai fixé par l'autorité compétente, la décision ordonnant l'effet suspensif devient caduque.
 
-**Sûretés**
+#### Art. 53
 
-<sup>1</sup> Lorsque l'effet suspensif est ordonné sur requête du recourant, celui-ci peut être astreint à fournir des sûretés pour les frais de procédure et pour une éventuelle indemnité de partie.
-
-<sup>2</sup> Si les sûretés ne sont pas fournies dans le délai fixé par l'autorité compétente, la décision ordonnant l'effet suspensif devient caduque.
-
-#### Art. 48
-
-<sup>1</sup> Préjudice
+**Préjudice**
 
 <sup>1</sup> En cas de recours abusif ou téméraire, le recourant est tenu de réparer le préjudice causé par la demande de l'effet suspensif.
 
 <sup>2</sup> L'action en dommages-intérêts est intentée au choix du demandeur devant le juge civil dans le ressort duquel est situé l'immeuble objet de la demande ou au domicile du recourant.
 
-### H. Police des constructions
+## 4 Police des constructions
 
-#### Art. 49
+#### Art. 54
 
-<sup>1</sup> Compétence; tâches, haute surveillance
+**Compétences et haute surveillance**
 
 <sup>1</sup> La police des constructions incombe à l'autorité compétente en matière d'autorisation de construire.
 
 <sup>2</sup> Le Conseil d'Etat exerce la haute surveillance en matière de police des constructions par l'intermédiaire du département compétent.
 
-<sup>3</sup> Les organes de police des constructions prennent, dans le cadre de leur compétence, toutes les mesures nécessaires à l'application de la présente loi et des dispositions et décisions prises sur la base de cette loi.
-
-<sup>4</sup> Pour l'établissement des faits, les organes de police des constructions peuvent notamment:
-
-- a) procéder à des auditions;
-
-- b) avoir accès aux biens-fonds, inspecter les chantiers, locaux et autres installations;
-
-- c) exiger des personnes interpellées tous renseignements ainsi que tous documents nécessaires aux travaux en cours et justificatifs antérieurs sur l'objet.
-
-<sup>5</sup> Le bénéficiaire d'une autorisation de construire ou son mandataire est tenu:
-
-- a) d'afficher à ses frais l'attestation de l'autorisation à l'entrée du chantier pendant la durée des travaux;
-
-- b) d'informer la commune, respectivement la commission cantonale des constructions, du début et de la fin des travaux.
-
-<sup>6</sup> Les agents communaux et les fonctionnaires cantonaux désignés à cet effet par le conseil municipal, respectivement par le Conseil d'Etat, sont tenus, pour tous les objets sis hors de la zone à bâtir, d'informer la commission cantonale des constructions de tous les travaux exécutés sans autorisation, non conformes à l'autorisation délivrée ou en violation d'autres dispositions. Les frais d'intervention des communes sont facturés au canton.
-
-#### Art. 50
-
-**Autres tâches**
-
-Il incombe en particulier aux autorités chargées de la police des constructions:
-
-- a) de faire rétablir l'état conforme au droit lorsque les travaux de construction sont illicites ou que des dispositions en matière de construction ou les conditions et charges n'ont pas été respectées;
-
-- b) de veiller à la suppression des troubles causés à l'ordre public et provenant de constructions et installations inachevées, mal entretenues ou contraires aux prescriptions;
-
-- c) de délivrer ou de refuser le permis d'habiter ou d'exploiter;
-
-- d) de dresser procès-verbal des infractions commises.
-
-#### Art. 51
-
-**Procédure de remise en état des lieux: principe; contenu**
-
-<sup>1</sup> Lorsqu'un projet est exécuté sans autorisation de construire ou contrairement à l'autorisation délivrée, ou que lors de l'exécution d'un projet autorisé des dispositions sont violées, l'autorité compétente en matière de police des constructions ordonne l'arrêt total ou partiel des travaux et le fait observer; lorsque les circonstances l'exigent, elle peut ordonner l'interdiction d'utiliser les bâtiments et installations illicites. Ces décisions sont immédiatement exécutoires.
-
-<sup>2</sup> L'autorité de police des constructions fixe au propriétaire ou au titulaire d'un droit de superficie un délai convenable pour la remise en état des lieux conforme au droit sous la menace d'une exécution d'office.
-
-<sup>3</sup> La décision de remise en état des lieux doit contenir les éléments suivants:
-
-- a) la détermination exacte de la mesure à prendre par l'obligé pour rétablir une situation conforme au droit;
-
-- b) l'indication du délai d'exécution de la mesure ordonnée;
-
-- c) la menace de l'exécution d'office en cas de non-respect du délai fixé;
-
-- d) le cas échéant, l'indication de la possibilité de déposer une nouvelle demande;
-
-- e) l'indication des voies de recours.
-
-<sup>4</sup> Les règles suivantes sont applicables au rétablissement de l'état antérieur:
-
-- a) La décision de rétablissement de l'état antérieur est suspendue lorsque l'obligé a déposé dans les 30 jours à compter de sa notification une demande d'autorisation de construire. L'autorité peut prolonger ce délai pour de justes motifs. Une telle demande est exclue lorsque le projet a déjà fait l'objet d'une décision entrée en force.
-
-- b) L'autorité compétente examine dans le cadre de cette procédure si le projet peut éventuellement être autorisé.
-
-- c) Si le projet est partiellement ou totalement autorisé, la décision de rétablissement de l'état antérieur des lieux devient caduque dans la mesure correspondant à l'autorisation.
-
-- d) En cas de refus de l'autorisation de construire, l'autorité décide simultanément si et dans quelle mesure l'état conforme au droit doit être rétabli; elle fixe le cas échéant un nouveau délai pour l'exécution des mesures ordonnées.
-
-<sup>5</sup> Dix ans après le jour où l'état de fait contraire au droit était reconnaissable, la remise en état des lieux ne peut être exigée que si elle est commandée par des intérêts publics impératifs. La prescription absolue est de 30 ans dès l'achèvement des travaux.
-
-#### Art. 52
-
-**Atteinte à l'ordre public**
-
-<sup>1</sup> Il est interdit de porter atteinte au paysage, à l'environnement, aux sites bâtis, à la sécurité, à la santé des personnes, aux biens de valeur par des constructions et installations non terminées, mal entretenues, endommagées ou exploitées en violation des prescriptions en vigueur.
-
-<sup>2</sup> Quiconque porte une telle atteinte à l'ordre public fait l'objet d'une sommation de l'autorité de police des constructions l'obligeant à remédier à l'atteinte dans un délai raisonnable. Si le perturbateur est inconnu, la sommation sera adressée au propriétaire du bien-fonds duquel émane l'atteinte.
-
-#### Art. 53
-
-**Exécution par substitution**
-
-<sup>1</sup> L'autorité de police des constructions compétente, exécute par voie de contrainte les décisions prises sur la base des articles 50 à 52 immédiatement exécutoires ou passées en force, lorsqu'il apparaît que, malgré la commination d'une exécution par substitution, l'obligé ne donne pas suite à ces décisions.
-
-<sup>2</sup> En cas de danger imminent et sérieux pour des personnes ou des biens importants, l'autorité agit sans procédure préalable.
-
-<sup>3</sup> Les frais d'exécution par substitution incombent à l'obligé. Pour garantir la créance et les intérêts y afférents, la collectivité publique procédant à cette exécution bénéficie d'une hypothèque légale directe valable sans inscription au registre foncier.
-
-<sup>4</sup> Si une autorité de police des constructions néglige ses devoirs, le Conseil d'Etat prend les mesures nécessaires à sa place. La commune répond envers l'Etat des frais découlant de cette intervention.
-
-### Chapitre 6: Peines
-
-#### Art. 54
-
-<sup>1</sup> Actes punissables et sanctions pénales
-
-<sup>1</sup> Est puni par l'autorité compétente d'une amende de 1'000 à 100'000 francs:
-
-- a) celui qui en tant que responsable (notamment le propriétaire, le requérant, le responsable du projet, le maître d'ouvrage, l'architecte, l'ingénieur, le chef de chantier, l'entrepreneur) exécute ou fait exécuter des travaux sans autorisation ou avec autorisation non entrée en force, ne signale pas à l'autorité compétente le début et la fin des travaux, ne respecte pas les conditions et charges de l'autorisation octroyée, requiert une autorisation sur la base d'informations inexactes, habite, met en location ou utilise une construction ou installation sans avoir obtenu le permis d'habiter ou d'exploiter, ne se soumet pas à des ordres de police des constructions qui lui ont été adressés;
-
-- b) celui qui ne satisfait pas à une obligation que la loi met à sa charge;
-
-- c) celui qui contrevient de toute autre manière aux dispositions de la loi ou de ses dispositions d'exécution.
-
-<sup>2</sup> Dans les cas graves, notamment lorsqu'un projet de construction est réalisé malgré un refus de l'autorisation de construire, que des prescriptions ont été violées par cupidité ou qu'il y a récidive, l'amende peut être portée à 200'000 francs. En outre, les gains illicites sont confisqués conformément à l'article 58 du code pénal suisse.
-
-<sup>3</sup> Une amende de 10'000 francs au minimum est prononcée en sus à l'encontre de celui qui poursuit les travaux ou continue d'utiliser la construction ou l'installation lorsqu'un ordre d'arrêt ou une interdiction d'utiliser la construction ou l'installation lui a été signifié.
-
-<sup>4</sup> A l'échéance du délai accordé, en cas d'inexécution d'une décision ordonnant la remise en état des lieux, des amendes plus élevées sont prononcées par l'autorité compétente qui fixe un nouveau délai, ce aussi longtemps que l'état illicite subsiste.
-
-<sup>5</sup> Dans les cas de peu de gravité, l'amende prévue à l'alinéa 1 peut être réduite.
-
-<sup>6</sup> Demeurent réservées les dispositions pénales plus sévères prévues par d'autres lois ou règlements.
+<sup>3</sup> Les organes de police des constructions prennent, dans le cadre de leur compétence, toutes les mesures nécessaires à l'application de la présente loi.
 
 #### Art. 55
 
-**Prescription**
+**Tâches**
 
-<sup>1</sup> Les infractions se prescrivent par trois ans à compter de l'instant où elles sont reconnaissables. Les amendes se prescrivent dans le même délai à compter du moment où le prononcé devient exécutoire.
+<sup>1</sup> Il incombe en particulier aux autorités chargées de la police des constructions:
 
-<sup>2</sup> La prescription relative aux infractions est interrompue par tout acte d'instruction et la prescription relative aux peines par tout acte d'exécution.
+- a) de faire rétablir l'état conforme au droit lorsque les travaux de construction sont illicites ou que des dispositions en matière de construction ou les conditions et charges n'ont pas été respectées;
+- b) de veiller à la suppression des troubles causés à l'ordre public et provenant de constructions et installations inachevées, mal entretenues ou contraires aux prescriptions;
+- c) de délivrer ou de refuser le permis d'habiter ou d'utiliser;
+- d) de dresser le procès-verbal des infractions commises.
 
-<sup>3</sup> La prescription absolue intervient après six ans; pour les amendes prononcées annuellement, elle intervient après dix ans.
+<sup>2</sup> Pour l'établissement des faits, les organes de police des constructions peuvent notamment:
+
+- a) procéder à des auditions;
+- b) avoir accès aux biens-fonds, inspecter les chantiers, locaux et autres installations;
+- c) exiger des personnes interpellées tous renseignements ainsi que tous documents nécessaires aux travaux en cours et justificatifs antérieurs sur l'objet.
+
+<sup>3</sup> Le bénéficiaire d'une autorisation de construire ou son mandataire est tenu:
+
+- a) d'afficher à ses frais l'attestation de l'autorisation à l'entrée du chantier pendant la durée des travaux, pour autant que l'autorité compétente l'exige dans l'autorisation de construire;
+- b) d'informer l'autorité compétente du début et de la fin des travaux. Sont réservés les devoirs d'annonces à d'autres entités, en particulier à l'office compétent en matière de protection civile.
+
+<sup>4</sup> Pour tous les objets sis hors de la zone à bâtir, les agents communaux et les employés de l'Etat du Valais désignés à cet effet par le conseil municipal, respectivement par le Conseil d'Etat, sont tenus d'informer la CCC de tous les travaux exécutés sans autorisation, non conformes à l'autorisation délivrée ou en violation d'autres dispositions. Les frais d'intervention des communes sont facturés au canton.
 
 #### Art. 56
 
-**Dispositions diverses**
+**Arrêt des travaux et interdiction d'utiliser**
 
-<sup>1</sup> Si l'infraction a été commise dans le cadre de la gestion d'une personne morale, d'une société en nom collectif ou d'une société en commandite, leurs organes répondent solidairement des amendes, des gains soumis à confiscation, des émoluments et frais. Ils possèdent la qualité de partie dans la procédure pénale.
+<sup>1</sup> Lorsqu'un projet est exécuté sans autorisation de construire ou contrairement à l'autorisation délivrée, ou que lors de l'exécution d'un projet autorisé des dispositions sont violées, l'autorité compétente ordonne l'arrêt total ou partiel des travaux et le fait observer; lorsque les circonstances l'exigent, elle peut ordonner l'interdiction d'utiliser les bâtiments et installations illicites.
 
-<sup>2</sup> L'Etat et les communes peuvent exercer les droits de partie dans le cadre de la procédure pénale. Ils sont habilités à faire appel, même en ce qui concerne la quotité de la peine.
-
-<sup>3</sup> La procédure pénale est réglée par la législation cantonale en la matière.
-
-### Chapitre 7: Dispositions transitoires et finales
-
-### Modification et abrogation d'actes législatifs, entrée en vigueur
+<sup>2</sup> Ces décisions sont immédiatement exécutoires et un recours n'a pas d'effet suspensif.
 
 #### Art. 57
 
-**Abrogation d'actes législatifs**
+**Remise en état des lieux et régularisation**
 
-<sup>1</sup> Dès l'entrée en vigueur de la présente loi, toutes les dispositions contraires à celle-ci sont abrogées.
+<sup>1</sup> Lorsqu'un projet est exécuté sans autorisation de construire ou contrairement à l'autorisation délivrée, ou que lors de l'exécution d'un projet autorisé des dispositions sont violées, l'autorité compétente fixe un délai convenable au perturbateur (par situation et/ou par comportement) pour se déterminer sur les travaux exécutés.
 
-<sup>2</sup> Sont abrogés notamment:
+<sup>2</sup> Si une régularisation n'est pas d'emblée exclue, l'autorité impartit un délai convenable pour déposer une demande d'autorisation de construire en vue de la régularisation des travaux effectués. A défaut de dépôt d'une demande dans le délai fixé, l'autorité fait élaborer un dossier de demande d'autorisation de construire, les frais y relatifs étant à la charge du perturbateur. La collectivité publique dispose d'une hypothèque légale directe, primant sur tous les autres droits de gage existant sur l'immeuble et valable sans inscription au registre foncier, pour garantir la créance et les intérêts concernant les frais d'établissement du dossier et de la procédure y relative.
 
-- a) la loi du 19 mai 1924 sur les constructions;
+<sup>3</sup> Si une régularisation est manifestement exclue d'emblée, l'autorité compétente rend une décision de remise en état des lieux conforme au droit. Cette décision doit indiquer la mesure exacte à prendre pour rétablir une situation conforme au droit, le délai d'exécution, la menace d'exécution d'office en cas de non-respect de la mesure ordonnée et les voies de recours.
 
-- b) les articles 41,42 et 43 de la loi du 23 janvier 1987 concernant l'application de la loi fédérale sur l'aménagement du territoire du 22 juin 1979;
-
-- c) le décret du 31 janvier 1992 sur la procédure d'autorisation de construire (DAC);
-
-- d) les articles 11, 12 et 13 de la loi du 18 novembre 1977 sur la protection contre l'incendie et les éléments naturels ainsi que les articles 42, 43, 44, 45 et 46 du règlement d'application du 4 octobre 1978 de la loi du 18 novembre 1977 sur la protection contre l'incendie et les éléments naturels;
-
-- e) les articles 52 et 53 de la loi du 21 novembre 1856 sur les mines et carrières.
-
-#### Art. 57bis
-
-<sup>2</sup> Modification du droit en vigueur
-
-Sont modifiées comme suit dès l'entrée en vigueur de la présente loi:
-
-- a) La loi sur la police du commerce du 8 février 2007:
-
-#### Art. 28
-
-**al. 1**
-
-<sup>1</sup> Les oppositions à l'encontre d'une demande relative à un salon de jeux ou une installation similaire peuvent être déposées auprès de l'autorité compétente, dans les 30 jours dès la publication dans le Bulletin Officiel.
-
-- b) La loi sur l'hébergement, la restauration et le commerce de détail de boissons alcoolisées du 8 avril 2004:
-
-#### Art. 30
-
-**al. 4**
-
-<sup>4</sup> Les oppositions à l'encontre d'une demande peuvent être déposées auprès de l'autorité compétente, dans les 30 jours dès la publication dans le Bulletin Officiel.
-
-- c) La loi concernant l'application de la loi fédérale sur l'aménagement du territoire du 23 janvier 1987:
-
-#### Art. 34
-
-**al. 4**
-
-<sup>4</sup> En cas de modification partielle des plans d'affectation de zones et du règlement des constructions, ainsi que pour les plans d'affectation spéciaux, les délais d'enquête publique et d'opposition sont réduits à 20 jours.
-
-- d) La loi sur les expropriations du 8 mai 2008:
-
-#### Art. 25
-
-**al. 4**
-
-<sup>4</sup> Le délai d'enquête publique et d'opposition est réduit à 20 jours si la demande de prise de possession anticipée est formulée après l'échéance du délai prévu à l'article 21.
-
-- e) La loi sur les routes du 3 septembre 1965:
-
-#### Art. 44
-
-En cas d'urgence, les délais prévus par la présente loi peuvent être réduits à 20 jours, à condition que les propriétaires concernés en aient été informés préalablement.
-
-- f) La loi sur l'aménagement des cours d'eau du 15 mars 2007:
-
-#### Art. 41
-
-**al. 5**
-
-<sup>5</sup> Le délai de l'enquête publique est de 20 jours.
+<sup>4</sup> Dix ans après le jour où l'état de fait contraire au droit était reconnaissable, la remise en état des lieux ne peut être exigée que si elle est commandée par des intérêts publics impératifs. La prescription absolue est de 20 ans dès l'achèvement des travaux.
 
 #### Art. 58
 
-**Exécution**
+**Atteinte à l'ordre public**
 
-<sup>1</sup> Le Conseil d'Etat édicte les prescriptions nécessaires à l'exécution de la présente loi, lesquelles doivent faire l'objet d'une approbation par le Grand Conseil.
+<sup>1</sup> Il est interdit de porter atteinte au paysage, à l'environnement, aux sites bâtis, à la sécurité, à la santé des personnes, aux biens de valeur par des constructions non terminées, mal entretenues, endommagées ou exploitées en violation des prescriptions en vigueur.
 
-<sup>2</sup> L'ordonnance sur les constructions règle en particulier:
-
-- a) l'indice d'utilisation et la manière de le calculer;
-
-- b) la procédure relative à l'établissement de l'inventaire des objets particulièrement dignes de protection;
-
-- c) la procédure d'autorisation de construire et la police des constructions;
-
-- d) les définitions de base et les modes de calculs.
+<sup>2</sup> Quiconque porte une telle atteinte à l'ordre public fait l'objet d'une sommation de l'autorité de police des constructions l'obligeant à remédier à l'atteinte dans un délai convenable. Si le perturbateur est inconnu, la sommation est adressée au propriétaire du bien-fonds duquel émane l'atteinte.
 
 #### Art. 59
 
-**Adaptation de dispositions**
+**Suppression de constructions et installations plus utilisées ou plus exploitées**
 
-<sup>1</sup> Les dispositions matérielles communales et cantonales doivent si nécessaire, être adaptées dans les cinq ans à partir de l'entrée en vigueur de la présente loi. Ces modifications sont celles imposées par le droit fédéral et cantonal eu égard au genre et au contenu des dispositions.
+<sup>1</sup> En présence de constructions et installations qui ne sont plus utilisées ou plus exploitées et dont la suppression se justifie par un intérêt public prépondérant tel que la protection du paysage, l'aménagement du territoire ou les atteintes potentielles à l'environnement, la santé ou à la sécurité, l'autorité de police des constructions peut ordonner que le propriétaire, le superficiaire ou toute autre personne ayant ou ayant eu une maîtrise sur la construction garantisse, sous une forme adéquate (sûretés personnelles, sûretés réelles ou autres garanties), la couverture des coûts de suppression de la construction, de remise en état complète des lieux conformément à l'état initial, ainsi que des frais liés à une éventuelle exécution par substitution.
 
-<sup>2</sup> Les adaptations rédactionnelles font l'objet d'une décision du conseil municipal et d'une approbation du Conseil d'Etat.
+<sup>2</sup> Préalablement à l'ordre de fournir une garantie, l'autorité offre la possibilité de se déterminer, dans un délai convenable, au sujet du principe, de l'étendue et des modalités de la garantie. Le montant de la garantie est fixé en fonction du type, de l'envergure et de la particularité des travaux à effectuer. L'autorité et le destinataire de l'ordre peuvent convenir ensemble des conditions de garantie, de sorte qu'aucune décision ne soit nécessaire.
 
-<sup>3</sup> Les adaptations rédactionnelles doivent être entreprises dans les trois ans à partir de l'entrée en vigueur de la loi et doivent notamment porter sur:
+<sup>3</sup> Si les conditions de l'alinéa 1 sont remplies, l'autorité de police des constructions fixe un délai convenable pour la suppression de la construction et l'installation et la remise en état des lieux sous la menace d'une exécution d'office.
 
-- a) le remplacement des notions de l'ancien droit par celles correspondantes du nouveau droit;
+<sup>4</sup> Les décisions concernant les garanties ainsi que celles concernant la suppression de la construction et l'installation et la remise en état des lieux peuvent être rendues même en l'absence d'une telle mention dans l'autorisation de construire.
 
-- b) le remplacement des renvois aux dispositions de l'ancien droit par les renvois au nouveau droit;
-
-- c) la suppression des dispositions contraires au nouveau droit.
+<sup>5</sup> La cession ou le partage d'un immeuble faisant l'objet d'une mesure du présent article est assujetti à une autorisation de l'autorité ayant ordonné la mesure. L'autorité compétente fait mentionner au registre foncier que l'immeuble fait l'objet d'une mesure selon le présent article.
 
 #### Art. 60
 
-**Entrée en vigueur**
+**Exécution par substitution**
 
-<sup>1</sup> La présente loi est soumise au référendum facultatif.
+<sup>1</sup> L'autorité compétente exécute, par voie de contrainte, les décisions prises sur la base des articles du présent titre, immédiatement exécutoires ou passées en force, lorsque malgré la commination d'une exécution par substitution, l'obligé ne donne pas suite à ces décisions.
 
-<sup>2</sup> Le Conseil d'Etat fixe la date de l'entrée en vigueur de la présente loi.
+<sup>2</sup> En cas de danger imminent et sérieux pour des personnes ou des biens importants, l'autorité compétente agit sans procédure préalable.
 
-Ainsi adopté en deuxièmes débats en séance du Grand Conseil, à Sion, le 8 février 1996 Le président du Grand Conseil: Jean-René Fournier Les secrétaires: Florian Boisset, Herbert Marty
+<sup>3</sup> Les frais d'exécution par substitution incombent à l'obligé. Pour garantir la créance et les intérêts y afférents, la collectivité publique procédant à cette exécution bénéficie d'une hypothèque légale directe, primant sur tous les autres droits de gage existant sur l'immeuble, valable sans inscription au registre foncier.
 
-**Entrée en**
+<sup>4</sup> Si une autorité de police des constructions néglige ses devoirs, le Conseil d'Etat prend les mesures nécessaires à sa place. La commune répond envers l'Etat des frais découlant de cette intervention.
 
-### Intitulé et modifications Publication
+## 5 Dispositions pénales
 
-**1.01.1997**
+#### Art. 61
 
-vigueur RO/VS 1996, 82
+**Actes punissables et sanctions pénales**
 
-## Autres notes
+<sup>1</sup> Est puni par l'autorité compétente d'une amende de 1'000 à 100'000 francs:
 
-- [1] Modification du 4.09.2003 RO/VS 2004, 2 1.07.2004
-- [2] Modification du 12.11.2009 RO/VS 2010, 130 et 1.01.2010 344
-- [3] Modification du 18.11.2010 BO No 48/2010 26.04.2011
-- [4] Nouvelle teneur selon ch. II al. 2 let. b de la BO No 38/2011 1.01.2012 modification de la loi sur la protection de la nature, du paysage et des sites du 14.09.2011
+- a) celui qui en tant que responsable (notamment le propriétaire, le requérant, le responsable du projet, le maître d'ouvrage, l'architecte, l'ingénieur, le chef de chantier, l'entrepreneur) exécute ou fait exécuter des travaux sans autorisation ou avec autorisation non entrée en force, ne signale pas à l'autorité compétente le début et la fin des travaux, ne respecte pas les conditions et charges de l'autorisation octroyée, requiert une autorisation sur la base d'informations inexactes, habite, met en location ou utilise une construction ou installation sans avoir obtenu le permis d'habiter ou d'utiliser, ne se soumet pas à des ordres de police des constructions qui lui ont été adressés;
+- b) celui qui ne satisfait pas à une obligation que la présente loi met à sa charge;
+- c) celui qui contrevient de toute autre manière aux dispositions de la présente loi ou de ses dispositions d'exécution.
+
+<sup>2</sup> Dans les cas graves, notamment lorsqu'un projet de construction est réalisé malgré un refus de l'autorisation de construire, que des prescriptions ont été violées par cupidité ou qu'il y a récidive, l'amende peut être portée à 200'000 francs. En outre, les gains illicites sont confisqués conformément aux dispositions du code pénal suisse.
+
+<sup>3</sup> Une amende de 10'000 francs au minimum est prononcée à l'encontre de celui qui poursuit les travaux ou continue d'utiliser la construction lorsqu'un ordre d'arrêt ou une interdiction d'utiliser la construction ou l'installation lui a été signifié.
+
+<sup>4</sup> En cas d'inexécution de la remise en état des lieux dans le délai imparti, des amendes sont prononcées par l'autorité compétente. Si l'autorité compétente décide exceptionnellement d'accorder un délai supplémentaire, des amendes plus élevées sont infligées pour chaque nouveau délai accordé.
+
+<sup>5</sup> Sont réservées les dispositions pénales plus sévères prévues par d'autres législations.
+
+#### Art. 62
+
+**Prescription**
+
+<sup>1</sup> Les infractions se prescrivent par sept ans.
+
+#### Art. 63
+
+**Dispositions diverses**
+
+<sup>1</sup> Les amendes n'excédant pas 5'000 francs sont fixées selon la gravité de l'infraction et de la faute; l'autorité compétente n'est pas tenue de considérer d'autres éléments d'appréciation.
+
+<sup>2</sup> Lorsqu'une infraction est commise dans la gestion d'une personne morale, d'une société en nom collectif ou en commandite, d'une entreprise individuelle ou d'une collectivité sans personnalité juridique ou de quelque autre manière dans l'exercice d'une activité pour un tiers, l'autorité peut la condamner au paiement de l'amende et lui confisquer le gain illicite.
+
+<sup>3</sup> L'Etat et les communes peuvent exercer les droits de partie dans le cadre de la procédure pénale. Ils sont habilités à faire appel, même en ce qui concerne la quotité de la peine.
+
+<sup>4</sup> Pour le surplus, les législations cantonale et fédérale en matière pénale s'appliquent à défaut de dispositions spéciales dans la présente loi.
+
+## 6 Frais et dépens
+
+#### Art. 64
+
+**Frais et dépens**
+
+<sup>1</sup> Les communes, la CCC et le secrétariat cantonal des constructions prélèvent des frais séparés pour leurs activités en matière de procédure d'autorisation de construire. Ces frais comportent les émoluments et des débours.
+
+<sup>2</sup> Les frais perçus par la CCC et le secrétariat cantonal des constructions sont fixés dans un arrêté du Conseil d'Etat. Les émoluments peuvent varier entre un minimum de 100 francs et un maximum de 4'000 francs par dossier traité et par autorisation de construire délivrée. Ils peuvent aller jusqu'à 15'000 francs pour les dossiers complexes comportant notamment une autorisation de défricher ou une étude d'impact sur l'environnement.
+
+<sup>3</sup> Les frais relatifs à la police des constructions sont régis par la LPJA.
+
+<sup>4</sup> Pour le surplus, les frais et dépens sont régis par la LPJA.
+
+#### Art. 65
+
+**Sort des frais de procédure et de police des constructions**
+
+<sup>1</sup> Les frais de délivrance ou de refus de l'autorisation de construire sont à la charge du requérant ou de son mandataire.
+
+<sup>2</sup> Les frais peuvent être mis à la charge de l'opposant qui invoque des motifs manifestement infondés ou qui n'a manifestement pas qualité pour faire opposition.
+
+#### Art. 66
+
+**Avance de frais**
+
+<sup>1</sup> L'autorité compétente peut en tout temps demander au requérant ou à son mandataire et aux opposants une avance de frais appropriée en leur fixant un délai convenable et en les avisant qu'à défaut de versement, il n'est pas entré en matière sur la demande d'autorisation de construire, respectivement sur l'opposition.
+
+## 7 Disposition finale
+
+#### Art. 67
+
+**Exécution**
+
+<sup>1</sup> Le Conseil d'Etat édicte les prescriptions nécessaires à l'exécution de la présente loi, lesquelles doivent faire l'objet d'une approbation par le Grand conseil.
+
+<sup>2</sup> L'OC fixe des règles concernant notamment:
+
+- a) l'application des règles de construction pour des cas particuliers;
+- b) la procédure d'autorisation de construire, en particulier la demande, les documents à fournir, l'examen préliminaire, la notification des décisions;
+- c) l'organisation, la composition et les tâches de la CCC et du secrétariat cantonal des constructions, y compris la compétence du président de la CCC pour statuer sur des demandes d'importance mineure;
+- d) la police des constructions;
+- e) la validité, la durée et la prolongation de l'autorisation de construire ainsi que le début des travaux.
+
+## T1 Disposition transitoire
+
+#### Art. T1-1
+
+**Adaptations de dispositions et dispositions transitoires**
+
+<sup>1</sup> La présente loi s'applique dès son entrée en vigueur. Toute décision prise après son entrée en vigueur doit appliquer la présente loi. Les dispositions spéciales suivantes sont applicables jusqu'à l'implémentation des nouvelles dispositions cantonales dans les RCCZ selon le délai fixé dans le présent article:
+
+- a) l'indice d'utilisation selon l'ancienne loi est remplacé à l'entrée en vigueur de la présente loi par l'IBUS. Un tableau annexé à l'OC indique les valeurs correspondantes de l'IBUS par rapport à l'ancien indice d'utilisation. Dans tous les cas, aucune réduction de potentiel à bâtir ne doit résulter de ce remplacement d'indice;
+- b) la hauteur totale et celle des façades des constructions sont calculées selon l'ancien droit jusqu'à l'implémentation des dispositions cantonales dans le RCCZ.
+
+<sup>2</sup> Les RCCZ doivent être adaptés dans les sept ans à partir de l'entrée en vigueur de la présente loi.
+
+<sup>3</sup> Dans la période transitoire de sept ans, les adaptations exclusivement rédactionnelles et non matérielles, telles que le remplacement des notions et la modification des renvois au nouveau droit, ainsi que la mise en garde de la primauté de la nouvelle législation cantonale peuvent faire l'objet d'une décision du conseil municipal.
+
+<sup>4</sup> Les personnes ne répondant pas aux exigences minimales posées pour les auteurs de plans disposent d'un délai de cinq ans dès l'entrée en vigueur de la présente loi pour acquérir les compétences ou les reconnaissances requises.
+
+## T2 Disposition transitoire de la modification du 11 février 2021
+
+#### Art. T2-1
+
+<sup>1</sup> L’échéancier d’initialisation de la plateforme est défini par le Conseil d’Etat. Le Conseil d’Etat constate pour chaque commune et pour le SeCC que la plateforme fonctionne de manière adéquate.
+
+<sup>2</sup> Durant les 6 mois suivant la constatation par le Conseil d’Etat du fonctionnement adéquat de la plateforme dans une commune ou au SeCC, les dossiers déposés sous forme papier sont digitalisés et déposés sans frais sur la plateforme par l’autorité compétente.
+
+RCV BO/Abl. 1/2017, 31/2017
