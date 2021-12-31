@@ -3,11 +3,11 @@ sr: "910.12"
 title: "Ordinanza del 28 maggio 1997 sulla protezione delle denominazioni di origine e delle indicazioni geografiche dei prodotti agricoli, dei prodotti agricoli trasformati, dei prodotti silvicoli e dei prodotti silvicoli trasformati (Ordinanza DOP/IGP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20210101/it"
 
 (Ordinanza DOP/IGP)[^t-1]
 
-del 28 maggio 1997 (Stato 1° gennaio 2021)
+del 28 maggio 1997 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -471,11 +471,11 @@ Sono parimenti vietati:
 
 <sup>1</sup> Chiunque utilizzi una denominazione di origine registrata o un’indicazione geografica deve affidare a un organismo di certificazione definito nell’elenco degli obblighi il controllo della produzione, della trasformazione o dell’elaborazione del prodotto.
 
-<sup>1bis</sup> Il nome o il numero di codice dell’organismo di certificazione deve essere indicato sull’etichetta o sull’imballaggio del prodotto che beneficia di una DOP o di un’IGP. [^18-1]
+<sup>1bis</sup> ... [^18-1]
 
 <sup>2</sup> Il Dipartimento federale dell’economia, della formazione e della ricerca[^18-2] stabilisce le esigenze minime relative al controllo.[^18-3]
 
-[^18-1]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+[^18-1]: Introdotto dal n. I dell’O dell’11 nov. 2020 ([RU 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)). Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
 [^18-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 [^18-3]: Introdotto dal n. I 10 dell’O del 7 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
 
@@ -650,6 +650,14 @@ Verifica in particolare se l’organismo di certificazione dispone di procedure 
 <sup>3</sup> Gli organismi di certificazione svizzeri che, prima dell’entrata in vigore della modifica dell’11 novembre 2020, esercitavano già attività nel quadro della presente ordinanza e che sono accreditati conformemente all’articolo 19 capoverso 2 lettera a, sono considerati organismi di certificazione autorizzati conformemente all’articolo 19 capoverso 1.
 
 [^23a-1]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+
+#### Art. 23b
+
+**Disposizione transitoria della modifica del 3 novembre 2021**[^23b-1]
+
+I prodotti che recano una denominazione registrata possono essere etichettati secondo il diritto anteriore (art. 18 cpv. 1<sup>bis</sup>) fino all’esaurimento delle scorte delle etichette o degli imballaggi.
+
+[^23b-1]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
 
 #### Art. 24
 

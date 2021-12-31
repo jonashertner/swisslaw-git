@@ -3,11 +3,11 @@ sr: "910.12"
 title: Ordinance of 28 May 1997 on the Protection of Designations of Origin and Geographical Indications for Agricultural Products and Processed Agricultural Products (PDO/PGI Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20210101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20220101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PDO/PGI Ordinance)
 
-of 28 May 1997 (Status as of 1 January 2021)
+of 28 May 1997 (Status as of 1 January 2022)
 
 [^t-1]: Amended by No I of the O of 16 Sept. 2016, in force since 1 Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -472,12 +472,12 @@ No reference may be made to the use of a product with a protected name as an ing
 
 <sup>1</sup> Any person who uses a designation of origin or geographical indication must entrust the certification bodies listed in the product specification with control of the production, processing or refining of the product in question.[^18-1]
 
-<sup>1bis</sup> The name or the code number of the certification body must be indicated on the label or the packaging of the product with a PDO or PGI.[^18-2]
+<sup>1bis</sup> …[^18-2]
 
 <sup>2</sup> The Federal Department of Economic Affairs, Education and Research[^18-3] shall lay down the minimum requirements for control procedures.[^18-4]
 
 [^18-1]: Amended by No I of the O of 16 Sept. 2016, in force since 1 Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
-[^18-2]: Inserted by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+[^18-2]: Inserted by No I of the O of 11 Nov. 2020 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)). Repealed by No I of the O of 3 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
 [^18-3]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) on 1 Jan. 2013.
 [^18-4]: Inserted by No I 10 of the O of 7 Dec. 1998, in force since 1 Jan. 1999 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
 
@@ -652,6 +652,14 @@ In doing so, FOAG shall verify in particular whether the certification body has 
 <sup>3</sup> Swiss certification bodies that are accredited under Article 19 paragraph 2 letter a and were already carrying out activities pursuant to this Ordinance before the Amendment of 11 November 2020 came into force are deemed to be authorised certification bodies under Article 19 paragraph 1.
 
 [^23a-1]: Inserted by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+
+#### Art. 23b
+
+**Transitional provision to the Amendment of 3 November 2021**[^23b-1]
+
+Products with a registered name may be labelled according to the previous law (Art. 18 para. 1<sup>bis</sup>) until the stocks of labels or packaging are used up.
+
+[^23b-1]: Inserted by No I of the O of 3 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
 
 #### Art. 24
 

@@ -3,11 +3,11 @@ sr: "910.12"
 title: "Ordonnance du 28 mai 1997 concernant la protection des appellations d'origine et des indications géographiques des produits agricoles, des produits agricoles transformés, des produits sylvicoles et des produits sylvicoles transformés (Ordonnance sur les AOP et les IGP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20210101/fr"
 
 (Ordonnance sur les AOP et les IGP)[^t-1]
 
-du 28 mai 1997 (Etat le 1<sup>er</sup> janvier 2021)
+du 28 mai 1997 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -226,7 +226,7 @@ Il peut également comprendre:
 - b. la description de la forme distinctive du produit si elle existe;
 - c. les éléments relatifs au conditionnement, lorsque le groupement demandeur peut justifier que le conditionnement doit avoir lieu dans l’aire géographique délimitée afin de sauvegarder la qualité du produit et d’assurer la traçabilité ou le contrôle.[^7-3]
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>e</sup><sup>r</sup> janv. 2017 ([RO 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 [^7-2]: Abrogée par le ch. I de l’O du 14 nov. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 [^7-3]: Introduit par le ch. I de l’O du 26 nov. 2003 ([RO 2003 4867](https://fedlex.data.admin.ch/eli/oc/2003/716)). Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6109](https://fedlex.data.admin.ch/eli/oc/2007/815)).
 
@@ -470,12 +470,12 @@ Toute référence à l’utilisation d’un produit bénéficiant d’une dénom
 
 <sup>1</sup> Celui qui utilise une appellation d’origine ou une indication géographique doit confier à un organisme de certification défini dans le cahier des charges le contrôle de la production, de la transformation ou de l’élaboration du produit.
 
-<sup>1bis</sup> Le nom ou le numéro de code de l’organisme de certification doit être indiqué sur l’étiquette ou l’emballage du produit bénéficiant d’une AOP ou d’une IGP.[^18-1]
+<sup>1bis</sup> …[^18-1]
 
 <sup>2</sup> Le Département fédéral de l’économie, de la formation et de la recherche[^18-2] fixe les exigences minimales relatives au contrôle.[^18-3]
 
-[^18-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
-[^18-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles (RO **20****04** 4937).
+[^18-1]: Introduit par le ch. I de l’O du 11 nov. 2020 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)). Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
+[^18-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^18-3]: Introduit par le ch. I 10 de l’O du 10 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
 
 #### Art. 19
@@ -650,13 +650,21 @@ L’activité de surveillance de l’OFAG comprend notamment:
 
 [^23a-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
 
+#### Art. 23b
+
+**Disposition transitoire relative à la modification du 3 novembre 2021**[^23b-1]
+
+Les produits des dénominations enregistrées peuvent être étiquetés selon l’ancien droit (art. 18, al. 1<sup>bis</sup>) jusqu’à épuisement des stocks d’étiquettes ou d’emballages.
+
+[^23b-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
+
 #### Art. 24
 
 **Modification du droit en vigueur**
 
 …[^24-1]
 
-[^24-1]: La mod. peut être consultée au [RO 1997 1198](https://fedlex.data.admin.ch/eli/oc/1997/1198_1198_1198).
+[^24-1]: La mod. peut être consultée au RO **1****997** 1198.
 
 #### Art. 25
 

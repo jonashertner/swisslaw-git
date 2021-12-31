@@ -3,11 +3,11 @@ sr: "910.12"
 title: "Verordnung vom 28. Mai 1997 über den Schutz von Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse, verarbeitete landwirtschaftliche Erzeugnisse, waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse (GUB/GGA-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-05-28
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1198_1198_1198/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1198_1198_1198-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/1198_1198_1198/20210101/de"
 
 (GUB/GGA-Verordnung)[^t-1]
 
-vom 28. Mai 1997 (Stand am 1. Januar 2021)
+vom 28. Mai 1997 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
 
@@ -216,7 +216,7 @@ Das Pflichtenheft enthält folgende Angaben:
 - c.[^7-1] die Beschreibung des Erzeugnisses, insbesondere seine Rohstoffe und seine physischen, chemischen, mikrobiologischen und organoleptischen Haupteigenschaften; für waldwirtschaftliche Erzeugnisse und verarbeitete waldwirtschaftliche Erzeugnisse enthält es die Beschreibung der Holzart und der physischen oder anderer charakteristischer Eigenschaften;
 - d. die Beschreibung der Herstellungsmethode;
 - e.[^7-2] die Bezeichnung einer oder mehrerer Zertifizierungsstellen und die Mindestanforderungen an die Kontrolle;
-- f.[^7-3] ...
+- f.[^7-3] …
 
 <sup>2</sup>
 
@@ -425,7 +425,7 @@ Absatz 1 gilt insbesondere:
 - b. wenn sie übersetzt wird;
 - c. wenn sie zusammen mit Ausdrücken wie «Art», «Typ», «Verfahren», «Fasson», «Nachahmung», «nach Rezept» oder dergleichen verwendet wird;
 - d. wenn die Herkunft des Erzeugnisses angegeben wird;
-- e.[^17-1] ...
+- e.[^17-1] …
 
 <sup>3</sup>
 
@@ -471,12 +471,12 @@ In der Sachbezeichnung eines verarbeiteten Erzeugnisses oder in deren Nähe darf
 
 <sup>1</sup> Wer eine eingetragene Ursprungsbezeichnung oder geografische Angabe verwendet, muss die im Pflichtenheft aufgeführten Zertifizierungsstellen mit der Kontrolle der Erzeugung, Verarbeitung oder Veredelung des entsprechenden Erzeugnisses betrauen.[^18-1]
 
-<sup>1bis</sup> Auf der Etikette oder der Verpackung des Erzeugnisses mit GUB oder GGA muss der Name oder die Codenummer der Zertifizierungsstelle angegeben werden.[^18-2]
+<sup>1bis</sup> …[^18-2]
 
 <sup>2</sup> Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung[^18-3] legt die Mindestanforderungen an die Kontrolle fest.[^18-4]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3281](https://fedlex.data.admin.ch/eli/oc/2016/558)).
-[^18-2]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
+[^18-2]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)). Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
 [^18-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 [^18-4]: Eingefügt durch Ziff. I 10 der V vom 7. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)).
 
@@ -585,7 +585,7 @@ Die Überwachungstätigkeit des BLW umfasst insbesondere:
 
 <sup>3</sup> Das BLW stellt im Rahmen seiner Überwachungstätigkeit sicher, dass die Anforderungen nach den Artikeln 19 und 19*a* Absatz 2 erfüllt sind.
 
-<sup>4</sup> ...[^21a-2]
+<sup>4</sup> …[^21a-2]
 
 <sup>5</sup> Es kann Weisungen an die Zertifizierungsstellen erlassen. Die Weisungen umfassen auch einen Katalog zur Harmonisierung des Vorgehens der Zertifizierungsstellen bei Unregelmässigkeiten.
 
@@ -652,11 +652,19 @@ Dabei überprüft das BLW insbesondere, ob die Zertifizierungsstelle über schri
 
 [^23a-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5445](https://fedlex.data.admin.ch/eli/oc/2020/950)).
 
+#### Art. 23b
+
+**Übergangsbestimmung zur Änderung vom 3. November 2021**[^23b-1]
+
+Erzeugnisse mit einer eingetragenen Bezeichnung können nach bisherigem Recht (Art. 18 Abs. 1<sup>bis</sup>) etikettiert werden, bis die Etiketten- oder Verpackungsbestände aufgebraucht sind.
+
+[^23b-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 681](https://fedlex.data.admin.ch/eli/oc/2021/681)).
+
 #### Art. 24
 
 **Änderung bisherigen Rechts**
 
-...[^24-1]
+…[^24-1]
 
 [^24-1]: Die Änderung kann unter [AS 1997 1198](https://fedlex.data.admin.ch/eli/oc/1997/1198_1198_1198)konsultiert werden.
 
