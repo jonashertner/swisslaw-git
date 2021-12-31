@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2021-11-04
+version: 2022-01-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20211104/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20211104-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20211104/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20211104/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 4 novembre 2021)
+du 29 avril 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -836,29 +836,27 @@ En particulier, les personnes suivantes peuvent être considérées en priorité
 
 <sup>1</sup>
 
-La Confédération prend en charge les coûts des vaccinations contre le COVID-19 qui sont effectuées par des pharmaciens pour les personnes suivantes:[^64a-2]
+La Confédération prend en charge les coûts des vaccinations contre le COVID-19 qui sont effectuées par des pharmaciens pour les personnes suivantes:
 
-- a. personnes assurées au sens de l’art. 3 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^64a-3];
-- b. personnes assurées contre les maladies au sens de la loi fédérale du 19 juin 1992 sur lʼassurance militaire (LAM)[^64a-4];
-- c.[^64a-5]
+- a. personnes assurées au sens de l’art. 3 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^64a-2];
+- b. personnes assurées contre les maladies au sens de la loi fédérale du 19 juin 1992 sur lʼassurance militaire (LAM)[^64a-3];
+- c.
 
   les personnes qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal, ni conformément à la LAM, mais qui font partie de l’une des catégories de personnes suivantes:
 
   - 1\. les personnes qui ont leur domicile ou leur résidence habituelle en Suisse,
   - 2\. les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse,
-  - 3\. les Suisses de l’étranger et les membres de leur famille proche n’ayant pas la nationalité suisse avec lesquels ils font ménage commun.[^64a-6]
-
-<sup>1bis</sup> Elle prend aussi en charge les coûts des vaccinations contre le COVID-19 effectuées entre le 1<sup>er</sup> juillet 2021 et le 31 août 2021 pour les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse.[^64a-7]
+  - 3\. les Suisses de l’étranger et les membres de leur famille proche n’ayant pas la nationalité suisse avec lesquels ils font ménage commun.
 
 <sup>2</sup>
 
 Les pharmaciens doivent:
 
-- a. être titulaires d’un certificat obtenu dans le cadre du programme de formation complémentaire FPH du 1<sup>er</sup> décembre 2011 Vaccination et prélèvements sanguins[^64a-8];
+- a. être titulaires d’un certificat obtenu dans le cadre du programme de formation complémentaire FPH du 1<sup>er</sup> décembre 2011 Vaccination et prélèvements sanguins[^64a-4];
 - b. avoir reçu un mandat du canton pour effectuer les vaccinations contre le COVID-19, et
 - c. remplir les exigences du canton concernant l’utilisation du logiciel prescrit pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
 
-<sup>3</sup> La Confédération prend en charge un montant forfaitaire de 24 fr. 50 par vaccination effectuée au titre de l’al. 1.[^64a-9]
+<sup>3</sup> La Confédération prend en charge un montant forfaitaire de 29 francs par vaccination effectuée au titre de l’al. 1.
 
 <sup>4</sup>
 
@@ -868,23 +866,14 @@ Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la v
 - b. le contrôle du statut vaccinal et l’anamnèse vaccinale;
 - c. le contrôle des contre-indications;
 - d. la documentation;
-- e.[^64a-10] la délivrance de l’attestation de vaccination et du certificat de vaccination COVID-19.
-
-<sup>4bis</sup> ...[^64a-11]
+- e. la délivrance de l’attestation de vaccination et du certificat de vaccination COVID-19.
 
 <sup>5</sup> Les pharmaciens ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
 
-[^64a-1]: Introduit par le ch. I de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64a-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 17 sept. 2021, en vigueur du 1<sup>er</sup> sept. au 31 déc. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^64a-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64a-5]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 17 sept. 2021, en vigueur du 1<sup>er</sup> sept. au 31 déc. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^64a-6]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur du 4 fév. au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
-[^64a-7]: Introduit par l’annexe ch. 2 de l’O du 17 sept. 2021, en vigueur du 20 sept. au 31 déc. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^64a-8]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins
-[^64a-9]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
-[^64a-10]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64a-11]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur du 1<sup>er</sup> juin au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-1]: Introduit par le ch. I de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64a-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64a-4]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins.
 
 #### Art. 64b
 
@@ -892,7 +881,7 @@ Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la v
 
 <sup>1</sup>
 
-Pour la fin des mois de février, avril, juin, septembre et décembre, les pharmaciens transmettent à l’autorité cantonale compétente une facture groupée pour l’ensemble des vaccinations effectuées au cours des deux ou trois mois précédents au titre de l’art. 64*a*, al. 1. La facture doit indiquer:[^64b-2]
+Pour la fin des mois de mars, juin, septembre et décembre, les pharmaciens transmettent à l’autorité cantonale compétente une facture groupée pour l’ensemble des vaccinations effectuées au cours des deux ou trois mois précédents au titre de l’art. 64a, al. 1. La facture doit indiquer:
 
 - a. le nombre de vaccinations effectuées durant la période de facturation;
 - b. le coût forfaitaire par vaccination;
@@ -900,7 +889,7 @@ Pour la fin des mois de février, avril, juin, septembre et décembre, les pharm
 
 <sup>2</sup> La facture ne doit contenir que les prestations liées aux vaccinations. Elle est transmise par voie électronique.
 
-<sup>3</sup> L’autorité cantonale compétente contrôle la plausibilité des factures en fonction des doses de vaccin distribuées dans le canton, vérifie qu’elles sont complètes et les envoie par voie électronique à l’institution commune visée à l’art. 18 LAMal[^64b-3] (institution commune) dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
+<sup>3</sup> L’autorité cantonale compétente contrôle la plausibilité des factures en fonction des doses de vaccin distribuées dans le canton, vérifie qu’elles sont complètes et les envoie par voie électronique à l’institution commune visée à l’art. 18 LAMal[^64b-2] (institution commune) dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
 
 <sup>4</sup> Au plus tard le 20<sup>e</sup> jour ouvrable du mois qui suit la période de décompte, l’institution commune adresse à l’OFSP un décompte de toutes les factures reçues des cantons durant la période en question pour les vaccinations effectuées au titre de l’art. 64*a*, al. 1. L’OFSP règle la facture de l’institution commune dans les 10 jours ouvrables.
 
@@ -908,12 +897,8 @@ Pour la fin des mois de février, avril, juin, septembre et décembre, les pharm
 
 <sup>6</sup> Chaque trimestre, elle facture à l’OFSP les frais d’administration en fonction de la charge de travail effective. Le tarif horaire est de 95 francs; il englobe les charges salariales, les charges sociales et les frais d’infrastructure. Les dépenses liées aux éventuelles révisions ou adaptations de système et aux taux d’intérêt négatifs qui ne sont pas comprises dans les frais d’administration sont remboursées au prix coûtant.
 
-<sup>7</sup> ...[^64b-4]
-
-[^64b-1]: Introduit par le ch. I de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64b-2]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur du 1<sup>er</sup> sept. au 31 déc. 2021 ([RO 2021 506](https://fedlex.data.admin.ch/eli/oc/2021/506)).
-[^64b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64b-4]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur du 1<sup>er</sup> juin au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 64c
 
@@ -925,16 +910,9 @@ La Confédération prend en charge les coûts des vaccinations contre le COVID-1
 
 - a. les personnes qui ont leur domicile ou leur résidence habituelle en Suisse;
 - b. les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse;
-- c. les Suisses de l’étranger et les membres de leur famille proche n’ayant pas la nationalité suisse et vivant dans le même ménage.[^64c-2]
+- c. les Suisses de l’étranger et les membres de leur famille proche n’ayant pas la nationalité suisse avec lesquels ils font ménage commun.
 
-<sup>1bis</sup> Elle prend aussi en charge les coûts des vaccinations contre le COVID-19 effectuées entre le 1<sup>er</sup> juillet 2021 et le 31 août 2021 pour les personnes visées à l’al. 1, let. b.[^64c-3]
-
-<sup>2</sup>
-
-Elle ne prend en charge les coûts visés à l’al. 1 que pour les personnes:
-
-- a. qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal[^64c-4], ni conformément à la LAM[^64c-5], et
-- b.[^64c-6] ...
+<sup>2</sup> Elle ne prend en charge les coûts visés à l’al. 1 que pour les personnes qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal[^64c-2], ni conformément à la LAM[^64c-3].
 
 <sup>3</sup>
 
@@ -947,8 +925,9 @@ Elle prend en charge les coûts uniquement si les fournisseurs de prestations:
 
 Elle prend en charge un des forfaits suivants par vaccination effectuée au titre de l’al. 1:
 
-- a. 14 fr. 50 par vaccination effectuée dans un centre de vaccination, un hôpital ou par une équipe mobile;
-- b. 24 fr. 50 par vaccination effectuée dans un cabinet médical.[^64c-7]
+- a. 20 francs par vaccination effectuée dans un centre de vaccination, un hôpital ou par une équipe mobile;
+- b. 29 francs par vaccination effectuée dans un cabinet médical;
+- c. 40 fr. 45 par vaccination effectuée dans un cabinet médical pour les enfants jusqu’à l’âge de 11 ans révolus.
 
 <sup>5</sup>
 
@@ -958,33 +937,25 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 - b. le contrôle du statut vaccinal et l’anamnèse vaccinale;
 - c. le contrôle des contre-indications;
 - d. la documentation;
-- e. la délivrance de l’attestation de vaccination.
-
-<sup>5bis</sup> ...[^64c-8]
+- e. la délivrance de l’attestation de vaccination et du certificat de vaccination COVID-19.
 
 <sup>6</sup> Les fournisseurs de prestations ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
 
-<sup>7</sup> L’art. 64*b* s’applique par analogie à la procédure de prise en charge des coûts.[^64c-9]
+<sup>7</sup> L’art. 64*b* s’applique par analogie à la procédure de prise en charge des coûts.
 
-[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur du 4 janv. au 31 déc. 2021, al. 7, en vigueur du 4 fév. au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
-[^64c-2]: Nouvelle teneur selon le ch. I de l’O du 25 août 2021, en vigueur du 1<sup>er</sup> sept. au 31 déc. 2021 ([RO 2021 506](https://fedlex.data.admin.ch/eli/oc/2021/506)).
-[^64c-3]: Introduit par l’annexe ch. 2 de l’O du 17 sept. 2021, en vigueur du 20 sept. au 31 déc. 2021 ([RO 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
-[^64c-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64c-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64c-6]: Abrogée par le ch. I de l’O du 23 juin 2021, avec effet au 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64c-7]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
-[^64c-8]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur du 1<sup>er</sup> juin au 31 août 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64c-9]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
 #### Art. 64d
 
 **Prise en charge des coûts des vaccinations contre le COVID-19 pour la protection indirecte des personnes vulnérables**[^64d-1]
 
-<sup>1</sup> La Confédération prend en charge les coûts des vaccinations contre le COVID-19, y compris les vaccinations de rappel, des personnes qui ne sont pas elles-mêmes vulnérables, mais dont la vaccination sert à protéger indirectement les personnes vulnérables.
+<sup>1</sup> La Confédération prend en charge les coûts des vaccinations contre le COVID-19, y compris des vaccinations de rappel, des personnes qui ne sont pas elles-mêmes vulnérables, mais dont la vaccination sert à protéger indirectement les personnes vulnérables.
 
 <sup>2</sup> L’art. 64*c*, al. 3 à 7, s’applique.
 
-[^64d-1]: Introduit par le ch. I de l’O du 3 nov. 2021, en vigueur du 4 nov. au 31 déc. 2021 ([RO 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)).
+[^64d-1]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
 
 ### Section 3 Transport de marchandises
 
@@ -1000,9 +971,11 @@ Pour empêcher la propagation transfrontalière d’une maladie, le DFI peut:
 
 <sup>2</sup> Les prescriptions doivent être limitées dans le temps.
 
-<sup>3</sup> Le DFI peut confier l’exécution des mesures aux cantons ou à l’Administration fédérale des douanes.
+<sup>3</sup> Le DFI peut confier l’exécution des mesures aux cantons ou à l’Office fédéral de la douane et de la sécurité des frontières[^65-1].
 
-<sup>4</sup> À la demande de l’OFSP, l’Administration fédérale des douanes lui fournit des renseignements sur tous les faits importants pour l’exécution des mesures visées à l’al. 1. Elle permet à l’OFSP de consulter les dossiers et l’informe sans délai des incidents observés durant l’importation, le transit ou l’exportation.
+<sup>4</sup> À la demande de l’OFSP, l’Office fédéral de la douane et de la sécurité des frontières lui fournit des renseignements sur tous les faits importants pour l’exécution des mesures visées à l’al. 1. Il permet à l’OFSP de consulter les dossiers et l’informe sans délai des incidents observés durant l’importation, le transit ou l’exportation.
+
+[^65-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### Section 4 Manipulation et transport de cadavres
 
