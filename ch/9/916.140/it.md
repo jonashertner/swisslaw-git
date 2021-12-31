@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordinanza del 14 novembre 2007 concernente la viticoltura e l'importazione di vino (Ordinanza sul vino)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20200701/it"
 
 (Ordinanza sul vino)
 
-del 14 novembre 2007 (Stato 1° luglio 2020)
+del 14 novembre 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -747,7 +747,7 @@ L’organo di controllo effettua il controllo in funzione dei possibili rischi. 
 <sup>5</sup> In caso di contestazione l’organo di controllo dispone i provvedimenti necessari ed esercita il diritto di querela giusta l’articolo 172 della legge del 29 aprile 1998 sull’agricoltura.
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^35-2]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^35-2]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116.]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 
 #### Art. 35a
 
@@ -806,11 +806,12 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 
 <sup>2</sup> Esso annuncia alle autorità competenti tutte le osservazioni su infrazioni alla legislazione agricola o sulle derrate alimentari.
 
-<sup>3</sup> L’Amministrazione federale delle dogane comunica all’organo di controllo i dati relativi allo sdoganamento necessari ai fini dell’esecuzione della presente ordinanza.
+<sup>3</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^40-2] comunica all’organo di controllo i dati relativi allo sdoganamento necessari ai fini dell’esecuzione della presente ordinanza.
 
 <sup>4</sup> I servizi federali e cantonali forniscono all’organo di controllo, su sua domanda, ogni informazione utile alla sua attività.
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^40-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 41
 
@@ -944,7 +945,7 @@ I vini svizzeri a denominazione di origine controllata (DOC) prodotti con uve de
 L’ordinanza del 28 maggio 1997[^49-1] sul controllo del commercio dei vini e l’ordinanza del 7 dicembre 1998[^49-2] sul vino sono abrogate.
 
 [^49-1]: [[RU 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182), [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)n. I 9, [2002 1382](https://fedlex.data.admin.ch/eli/oc/2002/214), [2003 1761](https://fedlex.data.admin.ch/eli/oc/2003/264), [2004 4911](https://fedlex.data.admin.ch/eli/oc/2004/739), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 102]
-[^49-2]: [[RU 1999 86](https://fedlex.data.admin.ch/eli/oc/1999/16), [2002 1097](https://fedlex.data.admin.ch/eli/oc/2002/175), [2003 1757](https://fedlex.data.admin.ch/eli/oc/2003/263)[4915](https://fedlex.data.admin.ch/eli/oc/2003/725), [2005 2159](https://fedlex.data.admin.ch/eli/oc/2005/352), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 53]
+[^49-2]: [[RU 1999 86](https://fedlex.data.admin.ch/eli/oc/1999/16); [2002 1097](https://fedlex.data.admin.ch/eli/oc/2002/175); [2003 1757](https://fedlex.data.admin.ch/eli/oc/2003/263), [4915](https://fedlex.data.admin.ch/eli/oc/2003/725); [2005 2159](https://fedlex.data.admin.ch/eli/oc/2005/352); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 53]
 
 #### Art. 50
 

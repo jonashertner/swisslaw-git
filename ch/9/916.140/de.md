@@ -3,11 +3,11 @@ sr: "916.140"
 title: Verordnung vom 14. November 2007 über den Rebbau und die Einfuhr von Wein (Weinverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20200701/de"
 
 (Weinverordnung)
 
-vom 14. November 2007 (Stand am 1. Juli 2020)
+vom 14. November 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -739,7 +739,7 @@ Die Kontrollstelle nimmt die Kontrolle entsprechend den möglichen Risiken vor. 
 <sup>5</sup> Sie verfügt im Beanstandungsfall die erforderlichen Massnahmen und übt das Antragsrecht gemäss Artikel 172 des Landwirtschaftsgesetzes vom 29. April 1998 aus.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^35-2]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^35-2]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 
 #### Art. 35a
 
@@ -798,11 +798,12 @@ Die Kontrollstelle hat ferner die folgenden Pflichten:
 
 <sup>2</sup> Sie meldet alle Beobachtungen über Verstösse gegen das Landwirtschafts- oder das Lebensmittelrecht den zuständigen Behörden.
 
-<sup>3</sup> Die Eidgenössische Zollverwaltung teilt der Kontrollstelle die Angaben im Zusammenhang mit der Zollabfertigung mit, die zum Vollzug dieser Verordnung erforderlich sind.
+<sup>3</sup> Das Bundesamt für Zoll und Grenzsicherheit[^40-2] teilt der Kontrollstelle die Angaben im Zusammenhang mit der Zollabfertigung mit, die zum Vollzug dieser Verordnung erforderlich sind.
 
 <sup>4</sup> Die Amtsstellen des Bundes und der Kantone erteilen der Kontrollstelle auf deren Verlangen die für ihre Tätigkeit sachdienlichen Informationen.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^40-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 41
 
