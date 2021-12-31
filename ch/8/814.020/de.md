@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Oktober 2003 über die Lenkungsabgabe auf Benzin und 
 short: BDSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/599"
 language: de
-version: 2009-01-01
+version: 2022-01-01
 adopted: 2003-10-15
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/599/20090101/de/xml/fedlex-data-admin-ch-eli-cc-2003-599-20090101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/599/20090101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/599/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-599-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/599/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/599/20090101/de"
 
 (BDSV)
 
-vom 15. Oktober 2003
+vom 15. Oktober 2003 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -43,23 +43,24 @@ verordnet:
 
 **Vollzug**
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung vollzieht diese Verordnung mit Ausnahme der Bestimmungen über die Verteilung des Abgabeertrages. Die Zollverwaltung erhält 2,5 Prozent der Gesamteinnahmen (Bruttoertrag) als Entschädigung für ihren Aufwand.
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^2-1] vollzieht diese Verordnung mit Ausnahme der Bestimmungen über die Verteilung des Abgabeertrages. Das BAZG erhält 2,5 Prozent der Gesamteinnahmen (Bruttoertrag) als Entschädigung für seinen Aufwand.
 
-<sup>2</sup> Das Bundesamt für Umwelt[^2-1] (Bundesamt) vollzieht die Bestimmungen über die Verteilung des Abgabeertrages. Es untersucht die Wirkung der Abgabe auf die Umweltqualität und veröffentlicht die Ergebnisse regelmässig.
+<sup>2</sup> Das Bundesamt für Umwelt[^2-2] (Bundesamt) vollzieht die Bestimmungen über die Verteilung des Abgabeertrages. Es untersucht die Wirkung der Abgabe auf die Umweltqualität und veröffentlicht die Ergebnisse regelmässig.
 
-[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^2-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
 #### Art. 3
 
 **Abgabesatz**
 
-Der Abgabesatz für Benzin und Dieselöl mit einem Schwefelgehalt von mehr als 0,001 Prozent (% Masse) beträgt 3 Rappen je Liter bei 15 ºC.
+Der Abgabesatz für Benzin und Dieselöl mit einem Schwefelgehalt von mehr als 0,001 Prozent (% Masse) beträgt 3 Rappen je Liter bei 15 °C.
 
 #### Art. 4
 
 **Messverfahren**
 
-- [tab] <sup>1</sup> Die Probenerhebung erfolgt nach den Bestimmungen der Zollgesetzgebung.
+<sup>1</sup> Die Probenerhebung erfolgt nach den Bestimmungen der Zollgesetzgebung.
 
 <sup>2</sup>
 
@@ -70,9 +71,9 @@ Der Schwefelgehalt wird nach einer der folgenden Analysemethoden ermittelt:
 
 <sup>3</sup> Die Ergebnisse der einzelnen Messungen werden auf der Grundlage der Kriterien ausgewertet, die in der Norm ISO 4259:1992[^4-3] Artikel 9 beschrieben sind.
 
-[^4-1]: *Bezugsquelle:* Schweizerische Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^4-2]: *Bezugsquelle:* Schweizerische Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^4-3]: *Bezugsquelle:* Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^4-1]: Die Methode kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerische Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^4-2]: Die Methode kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerische Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^4-3]: Die Methode kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerische Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 #### Art. 5
 

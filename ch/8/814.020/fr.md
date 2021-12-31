@@ -4,11 +4,11 @@ title: "Ordonnance du 15 octobre 2003 sur la taxe d'incitation sur l'essence et 
 short: OEDS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/599"
 language: fr
-version: 2009-01-01
+version: 2022-01-01
 adopted: 2003-10-15
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/599/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-599-20090101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/599/20090101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/599/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-599-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/599/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/599/20090101/fr"
 
 (OEDS)
 
-du 15 octobre 2003 (Etat le 1<sup>er</sup> janvier 2009)
+du 15 octobre 2003 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -43,17 +43,18 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> L’Administration fédérale des douanes est chargée de l’exécution, à l’exception des dispositions concernant la répartition du produit de la taxe. L’Administration des douanes prélève 2,5 % des recettes totales (produit brut) à titre de dédommagement pour son travail.
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^2-1] est chargé de l’exécution, à l’exception des dispositions concernant la répartition du produit de la taxe. L’OFDF prélève 2,5 % des recettes totales (produit brut) à titre de dédommagement pour son travail.
 
-<sup>2</sup> L’Office fédéral de l’environnement[^2-1] (office) exécute les dispositions concernant la répartition du produit de la taxe. Il examine l’effet de la taxe sur la qualité de l’air et publie régulièrement les résultats obtenus.
+<sup>2</sup> L’Office fédéral de l’environnement[^2-2] (office) exécute les dispositions concernant la répartition du produit de la taxe. Il examine l’effet de la taxe sur la qualité de l’air et publie régulièrement les résultats obtenus.
 
-[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 3
 
 **Taux de la taxe**
 
-Le taux de la taxe est fixé à 3 centimes par litre d’essence et d’huile diesel d’une teneur en soufre supérieure à 0,001 % (% masse) à 15 ºC.
+Le taux de la taxe est fixé à 3 centimes par litre d’essence et d’huile diesel d’une teneur en soufre supérieure à 0,001 % (% masse) à 15 °C.
 
 #### Art. 4
 
@@ -70,9 +71,9 @@ La teneur en soufre est déterminée selon l’une des méthodes d’analyse sui
 
 <sup>3</sup> Les résultats de mesure sont évalués selon les critères définis à l’art. 9 de la norme ISO 4259:1992[^4-3].
 
-[^4-1]: Commande : Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^4-2]: Commande : Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^4-3]: Commande : Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^4-1]: Cette méthode peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^4-2]: Cette méthode peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^4-3]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
 
 #### Art. 5
 
