@@ -3,13 +3,12 @@ canton: FR
 number: "821.0.14"
 title: Verordnung über das Verfahren bei straflosem Schwangerschaftsabbruch
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-07-04
+version: 2022-01-01
+version_adopted: 2022-01-31
 adopted: 2002-09-24
 in_force: 2002-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/5466/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7114/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5466/pdf_file"
 
 Verfahren bei straflosem Schwangerschaftsabbruch – V
 
-vom 24.09.2002 (Fassung in Kraft getreten am 01.01.2017)
+vom 24.09.2002 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -110,7 +109,7 @@ beschliesst:
 
 <sup>1</sup> Gynäkologinnen und Gynäkologen, die einen Schwangerschaftsabbruch durchgeführt haben, müssen dies auf dem amtlichen Formular dem Bundesamt für Statistik mitteilen.
 
-<sup>2</sup> Die Personendaten unterliegen dem Arztgeheimnis. Jede Bearbeitung von Daten zu statistischen Zwecken muss vorgängig der Kantonale Behörde für Öffentlichkeit und Datenschutz zur Stellungnahme unterbreitet werden.
+<sup>2</sup> Die Personendaten unterliegen dem Arztgeheimnis. Jede Bearbeitung von Daten zu statistischen Zwecken muss vorgängig der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation zur Stellungnahme unterbreitet werden.
 
 #### Art. 12
 

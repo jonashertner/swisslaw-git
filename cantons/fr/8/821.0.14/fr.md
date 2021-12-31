@@ -3,13 +3,12 @@ canton: FR
 number: "821.0.14"
 title: "Ordonnance concernant la procédure à suivre en matière d'interruption non punissable de grossesse"
 language: fr
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-07-04
+version: 2022-01-01
+version_adopted: 2022-01-31
 adopted: 2002-09-24
 in_force: 2002-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5466/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7114/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5466/pdf_file"
 
 Interruption non punissable de grossesse, procédure à suivre – O
 
-du 24.09.2002 (version entrée en vigueur le 01.01.2017)
+du 24.09.2002 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -110,7 +109,7 @@ Arrête:
 
 <sup>1</sup> Le ou la médecin gynécologue qui a procédé à une interruption de grossesse doit le déclarer sur la formule officielle à l'intention de l'Office fédéral de la statistique.
 
-<sup>2</sup> Les informations personnelles sont soumises au secret médical. Tout traitement des données à des fins statistiques doit préalablement être soumis pour préavis à l'Autorité cantonale de la transparence et de la protection des données.
+<sup>2</sup> Les informations personnelles sont soumises au secret médical. Tout traitement des données à des fins statistiques doit préalablement être soumis pour préavis à l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 #### Art. 12
 
