@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 1995 über den zivilen Ersatzdienst (Zivildi
 short: ZDG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20200101/de"
 
 (Zivildienstgesetz, ZDG)
 
-vom 6. Oktober 1995 (Stand am 1. Januar 2020)
+vom 6. Oktober 1995 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -90,7 +90,7 @@ Der Zivildienst setzt seine Ziele in folgenden Tätigkeitsbereichen um:[^4-1]
 - b<sup>bis</sup>.[^4-2] Schulwesen: Vorschulstufe bis Sekundarstufe II;
 - c.[^4-3] Kulturgütererhaltung;
 - d.[^4-4] Umwelt- und Naturschutz, Landschaftspflege und Wald;
-- e.[^4-5] …
+- e.[^4-5] ...
 - f. Landwirtschaft;
 - g. Entwicklungszusammenarbeit und humanitäre Hilfe;
 - h.[^4-6] Vorbeugung und Bewältigung von Katastrophen und Notlagen sowie Regeneration nach solchen Ereignissen.
@@ -280,7 +280,7 @@ Die Vollzugsstelle verfügt die vorzeitige Entlassung aus dem Zivildienst, wenn 
 - c. im Zusammenhang mit ihrer Zivildienstpflicht gegenüber einer Person in einem solchen Ausmass gedroht hat, Gewalt anzuwenden, oder Gewalt angewendet hat, dass sie für den Zivildienst untragbar ist;
 - d. auf ihr Gesuch hin zur Militärdienstleistung zugelassen worden ist; ein Gesuch um Zulassung zum Militärdienst kann nur stellen, wer seinen ersten Zivildiensteinsatz ordentlich beendet hat.[^11-3]
 
-<sup>4</sup> …[^11-4]
+<sup>4</sup> ...[^11-4]
 
 [^11-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^11-2]: Eingefügt durch Ziff. I des BG vom 21. März 2003 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
@@ -345,7 +345,7 @@ Die Vollzugsstelle:
 - a. legt die Dauer der ausserordentlichen Zivildienstleistungen der betroffenen Personen fest;
 - b. kann Entlassungen aus der Zivildienstpflicht später verfügen als in Artikel 11 vorgesehen;
 - c. kann Pikettdienst anordnen;
-- d.[^14-2] …
+- d.[^14-2] ...
 - e. kann selbst die Rechte und Pflichten eines Einsatzbetriebes übernehmen.
 
 <sup>6</sup> Einsatzbetriebe können ihr Weisungsrecht nach Artikel 49 zeitlich befristet unterstützungsbedürftigen Dritten übertragen.
@@ -427,7 +427,7 @@ Die zuständige Amtsstelle des Eidgenössischen Departementes für Verteidigung,
 
 <sup>1</sup> Die gesuchstellende Person, welche ihr Gesuch spätestens drei Monate vor der nächsten Militärdienstleistung einreicht, ist nicht einrückungspflichtig, solange über ihr Gesuch nicht rechtskräftig entschieden ist. Später eingereichte Gesuche entbinden bis zur Zustellung des Zulassungsentscheides nicht von der Pflicht, die Militärdienstleistung zu erbringen.[^17-1]
 
-<sup>1bis</sup> …[^17-2]
+<sup>1bis</sup> ...[^17-2]
 
 <sup>2</sup> Der Bundesrat regelt, in welchen Fällen von den Grundsätzen nach Absatz 1 abgewichen werden kann.
 
@@ -592,11 +592,11 @@ Der zivildienstleistenden Person stehen die verfassungsmässigen und gesetzliche
 
 <sup>1</sup> Die zivildienstpflichtige Person erhält im Zusammenhang mit dem Zivildienst soweit notwendig soziale und rechtliche Beratung.[^26-1]
 
-<sup>2</sup> …[^26-2]
+<sup>2</sup> ...[^26-2]
 
 <sup>3</sup> Für die soziale Beratung und Unterstützung zivildienstleistender Personen gilt das Zuständigkeitsgesetz vom 24. Juni 1977[^26-3] sinngemäss.
 
-<sup>4</sup> und <sup>5</sup> …[^26-4]
+<sup>4</sup> und <sup>5</sup> ...[^26-4]
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 [^26-2]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
@@ -859,7 +859,7 @@ Sie kann das Gesuch ablehnen, wenn:
 
 <sup>2</sup> Das Verfahren ist kostenlos. Im Übrigen gelten die Bestimmungen des Bundesgesetzes vom 20. Dezember 1968[^43-2] über das Verwaltungsverfahren.
 
-<sup>3</sup> …[^43-3]
+<sup>3</sup> ...[^43-3]
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^43-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
@@ -995,7 +995,7 @@ Der Bund haftet für den Schaden, den die zivildienstleistende Person in Erfüll
 Der Bund ist nach den Haftungsbestimmungen ersatzpflichtig, die auf Arbeitnehmerinnen und Arbeitnehmer des Einsatzbetriebes anwendbar sind:
 
 - a. wenn der Einsatzbetrieb eine öffentlich-rechtliche juristische Person ist und deren Haftungsbestimmungen keinen direkten Anspruch gegen sie vorsehen;
-- b.[^53-1] …
+- b.[^53-1] ...
 
 <sup>3</sup> Hat der Einsatzbetrieb Ersatz geleistet, so kann er auf den Bund Rückgriff nehmen, soweit er in sinngemässer Anwendung von Artikel 321*e* des Obligationenrechts[^53-2] von der zivildienstleistenden Person Schadenersatz beanspruchen könnte.
 
@@ -1057,7 +1057,7 @@ Der Bund richtet ihr eine angemessene Entschädigung aus. Er berücksichtigt dab
 
 <sup>2</sup> Zuständig für den Erlass von Verfügungen im Sinne von Absatz 1 sind die Generaldirektionen und die Kreisdirektionen der PTT-Betriebe[^58-1] und der Schweizerischen Bundesbahnen sowie der ETH-Rat, soweit sie Einsatzbetriebe sind, in den übrigen Fällen das Eidgenössische Finanzdepartement.
 
-<sup>3</sup> …[^58-2]
+<sup>3</sup> ...[^58-2]
 
 [^58-1]: Heute: die Schweizerische Post.
 [^58-2]: Aufgehoben durch Anhang Ziff. 105 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1209,7 +1209,7 @@ Die Vollzugsstelle bestimmt die Disziplinarmassnahme nach dem Verschulden; sie b
 
 <sup>2</sup> Wer eine ausserordentliche Zivildienstleistung verweigert, wird mit Freiheitsstrafe oder Geldstrafe bestraft.[^72-2]
 
-<sup>3</sup> …[^72-3]
+<sup>3</sup> ...[^72-3]
 
 <sup>4</sup> Die fehlbare Person bleibt unter Vorbehalt von Artikel 75 straflos, wenn sie wegen Arbeitsunfähigkeit vorzeitig aus dem Zivildienst entlassen wird und die Arbeitsunfähigkeit bereits im Zeitpunkt der Tat bestanden hat.
 
@@ -1323,28 +1323,28 @@ Strafbar nach den Artikeln 72–76 ist auch, wer das Delikt im Ausland begeht.
 
 Sie kann besonders schützenswerte Personendaten bearbeiten über:
 
-- a.[^80-1] …
+- a.[^80-1] ...
 - b. die Militärdiensttauglichkeit der gesuchstellenden Personen;
 - c. Ausbildung sowie Eignungen und Neigungen der zivildienstpflichtigen Personen, soweit dies für die Vermittlung von Zivildiensteinsätzen massgeblich ist;
 - d. den Gesundheitszustand der zivildienstpflichtigen Personen;
 - e. Disziplinar- und Strafverfahren nach diesem Gesetz.[^80-2]
 
-<sup>1ter</sup> Sie ist berechtigt, die Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^80-3] über die Alters- und Hinterlassenenversicherung für die Erfüllung der Aufgaben nach diesem Gesetz systematisch zu verwenden.[^80-4]
+<sup>1ter</sup> ...[^80-3]
 
-<sup>1quater</sup> Sie kann Daten über Strafurteile, hängige Strafverfahren und freiheitsentziehende Massnahmen speichern, soweit dies zur Begründung eines Entscheids betreffend den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung oder zur Prüfung des Leumunds für bestimmte Einsätze notwendig ist.[^80-5]
+<sup>1quater</sup> Sie kann Daten über Strafurteile, hängige Strafverfahren und freiheitsentziehende Massnahmen speichern, soweit dies zur Begründung eines Entscheids betreffend den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung oder zur Prüfung des Leumunds für bestimmte Einsätze notwendig ist.[^80-4]
 
 <sup>2</sup>
 
-An das Informationssystem können direkt (online) angeschlossen werden:[^80-6]
+An das Informationssystem können direkt (online) angeschlossen werden:[^80-5]
 
-- a.[^80-7] die zuständigen Stellen des VBS für die Übermittlung von Daten im Zusammenhang mit der Gesuchsbehandlung und dem Erlöschen der Militärdienstpflicht;
-- b.[^80-8] …
-- c. die Militärversicherung[^80-9] für die Bearbeitung von Versicherungsfällen;
-- d.[^80-10] die Organe nach Artikel 21 des Erwerbsersatzgesetzes vom 25. September 1952[^80-11] für Abklärungen im Zusammenhang mit der Bezugsberechtigung;
+- a.[^80-6] die zuständigen Stellen des VBS für die Übermittlung von Daten im Zusammenhang mit der Gesuchsbehandlung und dem Erlöschen der Militärdienstpflicht;
+- b.[^80-7] ...
+- c. die Militärversicherung[^80-8] für die Bearbeitung von Versicherungsfällen;
+- d.[^80-9] die Organe nach Artikel 21 des Erwerbsersatzgesetzes vom 25. September 1952[^80-10] für Abklärungen im Zusammenhang mit der Bezugsberechtigung;
 - e. die Behörden des Wehrpflichtersatzes für ersatzrechtliche Handlungen;
 - f. Dritte, denen Vollzugsaufgaben der Vollzugsstelle übertragen wurden, für die Wahrnehmung dieser Aufgaben.
 
-<sup>3</sup> …[^80-12]
+<sup>3</sup> ...[^80-11]
 
 <sup>4</sup>
 
@@ -1356,21 +1356,20 @@ Der Bundesrat regelt insbesondere:
 - d. die Zugriffs- und Bearbeitungsberechtigungen;
 - e. die Zusammenarbeit mit den beteiligten Organen;
 - f. die Datensicherheit;
-- g. die Aufbewahrungsdauer der Daten.[^80-13]
+- g. die Aufbewahrungsdauer der Daten.[^80-12]
 
 [^80-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. April 2009 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^80-2]: Eingefügt durch Ziff. VII 1 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^80-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^80-4]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^80-5]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-3]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Aufgehoben durch Anhang Ziff. 26 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^80-4]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-5]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^80-6]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-7]: Fassung gemäss Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-8]: Aufgehoben durch Ziff. I des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-9]: Ausdruck gemäss Ziff. II Abs. 1 Bst. e des BG vom 18. März 2005 über die Übertragung der Führung der Militärversicherung an die SUVA, in Kraft seit 1. Juli 2005 ([AS 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [BBl 2004 2851](https://fedlex.data.admin.ch/eli/fga/2004/552)).
-[^80-10]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80-11]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^80-12]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. April 2009 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^80-13]: Fassung gemäss Ziff. VII 1 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^80-7]: Aufgehoben durch Ziff. I des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-8]: Ausdruck gemäss Ziff. II Abs. 1 Bst. e des BG vom 18. März 2005 über die Übertragung der Führung der Militärversicherung an die SUVA, in Kraft seit 1. Juli 2005 ([AS 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [BBl 2004 2851](https://fedlex.data.admin.ch/eli/fga/2004/552)).
+[^80-9]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-10]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^80-11]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2008, mit Wirkung seit 1. April 2009 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-12]: Fassung gemäss Ziff. VII 1 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 
 #### Art. 80a
 
@@ -1421,7 +1420,7 @@ Die Vollzugsstelle gibt nachstehenden Stellen Personendaten bekannt, soweit dies
 [^80b-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^80b-5]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
-### 2. Abschnitt: …
+### 2. Abschnitt: ...
 
 #### Art. 81–82
 
@@ -1441,7 +1440,7 @@ Die Vollzugsstelle gibt nachstehenden Stellen Personendaten bekannt, soweit dies
 
 [^83a-1]: Aufgehoben durch Ziff. II 37 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### 2*a*. Abschnitt: …
+### 2*a*. Abschnitt: ...
 
 #### Art. 83b
 
@@ -1499,6 +1498,6 @@ Anhang
 
 ## Änderung anderer Erlasse
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)konsultiert werden.

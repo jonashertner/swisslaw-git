@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1995 sul servizio civile sostitutivo (Legge
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20200101/it"
 
 (Legge sul servizio civile, LSC)
 
-del 6 ottobre 1995 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 6 ottobre 1995 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1344,22 +1344,22 @@ Può trattare dati personali degni di particolare protezione concernenti:
 - d. lo stato di salute delle persone che devono prestare servizio civile;
 - e. i procedimenti disciplinari o penali secondo la presente legge.[^80-2]
 
-<sup>1ter</sup> Per adempiere i compiti previsti dalla presente legge, l’organo d’esecuzione è autorizzato a utilizzare sistematicamente il numero d’assicurato secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^80-3] sull’assicurazione per la vecchiaia e per i superstiti.[^80-4]
+<sup>1ter</sup> ...[^80-3]
 
-<sup>1quater</sup> L’organo d’esecuzione può registrare dati concernenti condanne, procedimenti penali pendenti e misure privative della libertà in quanto tali dati siano necessari per motivare una decisione relativa all’esclusione dal servizio civile o da prestazioni di servizio civile o per verificare la reputazione in vista di determinati impieghi.[^80-5]
+<sup>1quater</sup> L’organo d’esecuzione può registrare dati concernenti condanne, procedimenti penali pendenti e misure privative della libertà in quanto tali dati siano necessari per motivare una decisione relativa all’esclusione dal servizio civile o da prestazioni di servizio civile o per verificare la reputazione in vista di determinati impieghi.[^80-4]
 
 <sup>2</sup>
 
-Possono essere collegati in linea al sistema d’informazione:[^80-6]
+Possono essere collegati in linea al sistema d’informazione:[^80-5]
 
-- a.[^80-7] i competenti servizi del DDPS, per la trasmissione di dati relativi alla trattazione delle domande e al proscioglimento dall’obbligo di prestare servizio militare;
-- b.[^80-8] …
-- c. l’assicurazione militare[^80-9], per il disbrigo di casi assicurati;
-- d.[^80-10] gli organi di cui all’articolo 21 della legge del 25 settembre 1952[^80-11] sulle indennità di perdita di guadagno, per i chiarimenti necessari per determinare gli aventi diritto;
+- a.[^80-6] i competenti servizi del DDPS, per la trasmissione di dati relativi alla trattazione delle domande e al proscioglimento dall’obbligo di prestare servizio militare;
+- b.[^80-7] …
+- c. l’assicurazione militare[^80-8], per il disbrigo di casi assicurati;
+- d.[^80-9] gli organi di cui all’articolo 21 della legge del 25 settembre 1952[^80-10] sulle indennità di perdita di guadagno, per i chiarimenti necessari per determinare gli aventi diritto;
 - e. le autorità della tassa d’esenzione, per le questioni connesse alla tassa d’esenzione;
 - f. terzi ai quali sono stati delegati compiti dell’organo d’esecuzione, per l’adempimento di questi compiti.
 
-<sup>3</sup> …[^80-12]
+<sup>3</sup> …[^80-11]
 
 <sup>4</sup>
 
@@ -1371,21 +1371,20 @@ Il Consiglio federale disciplina in particolare:
 - d. il diritto di accesso e di trattamento;
 - e. la collaborazione con gli organi interessati;
 - f. la sicurezza dei dati;
-- g. la durata di conservazione dei dati.[^80-13]
+- g. la durata di conservazione dei dati.[^80-12]
 
 [^80-1]: Abrogata dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^80-2]: Introdotto dal n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^80-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^80-4]: Introdotto dal n. I della LF del 3 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^80-5]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-3]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogato dall’all. n. 26 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^80-4]: Introdotto dal n. I della LF del 3 ott. 2008 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-5]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^80-6]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-7]: Nuovo testo giusta il n. I della LF del 21 mar. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-8]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-9]: <sup>¶</sup>Nuova espr. giusta in n. II cpv. 1 lett. e della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
-[^80-10]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80-11]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^80-12]: Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^80-13]: Nuovo testo giusta il n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^80-7]: Abrogata dal n. I della LF del 21 mar. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5451](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-8]: <sup>¶</sup>Nuova espr. giusta in n. II cpv. 1 lett. e della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
+[^80-9]: Nuovo testo giusta il n. I della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-10]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^80-11]: Abrogato dal n. I della LF del 3 ott. 2008, con effetto dal 1° apr. 2009 ([RU 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2255](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-12]: Nuovo testo giusta il n. VII 1 della LF del 24 mar. 2000 concernente l’istituzione e l’adeguamento di basi legali per il trattamento di dati personali, in vigore dal 1° set. 2000 ([RU 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 7979](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 
 #### Art. 80a
 

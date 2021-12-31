@@ -4,11 +4,11 @@ title: Loi fédérale du 6 octobre 1995 sur le service civil (LSC)
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1995-10-06
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1445_1445_1445-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1445_1445_1445/20200101/fr"
 
 (LSC)
 
-du 6 octobre 1995 (Etat le 1<sup>er</sup> janvier 2020)
+du 6 octobre 1995 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1333,22 +1333,22 @@ Il peut traiter des données sensibles concernant:
 - d. l’état de santé de la personne astreinte;
 - e. les procédures disciplinaires ou pénales ouvertes en vertu de la présente loi.[^80-2]
 
-<sup>1ter</sup> Il est habilité à utiliser systématiquement le numéro d’assuré AVS visé à l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^80-3] pour accomplir les tâches qui lui incombent en vertu de la présente loi*.*[^80-4]
+<sup>1ter</sup> …[^80-3]
 
-<sup>1quater</sup> Il peut enregistrer des données concernant des condamnations, des enquêtes pénales en cours et des mesures entraînant une privation de liberté si elles sont nécessaires pour motiver une décision relative à l’exclusion du service civil ou à l’interdiction d’accomplir des périodes de service ou pour vérifier la réputation d’une personne astreinte en vue de certaines affectations.[^80-5]
+<sup>1quater</sup> Il peut enregistrer des données concernant des condamnations, des enquêtes pénales en cours et des mesures entraînant une privation de liberté si elles sont nécessaires pour motiver une décision relative à l’exclusion du service civil ou à l’interdiction d’accomplir des périodes de service ou pour vérifier la réputation d’une personne astreinte en vue de certaines affectations.[^80-4]
 
 <sup>2</sup>
 
-Peuvent être raccordés en ligne au système d’information:[^80-6]
+Peuvent être raccordés en ligne au système d’information:[^80-5]
 
-- a.[^80-7] les services compétents du DDPS, pour la transmission de données dans le cadre du traitement des demandes d’admission et de l’extinction de l’obligation de servir dans l’armée;
-- b.[^80-8] …
-- c. l’assurance militaire[^80-9], pour le traitement des événements assurés;
-- d.[^80-10] les organes visés à l’art. 21 de la loi du 25 septembre 1952 sur les allocations pour perte de gain[^80-11], pour la détermination des ayants droit;
+- a.[^80-6] les services compétents du DDPS, pour la transmission de données dans le cadre du traitement des demandes d’admission et de l’extinction de l’obligation de servir dans l’armée;
+- b.[^80-7] …
+- c. l’assurance militaire[^80-8], pour le traitement des événements assurés;
+- d.[^80-9] les organes visés à l’art. 21 de la loi du 25 septembre 1952 sur les allocations pour perte de gain[^80-10], pour la détermination des ayants droit;
 - e. les autorités chargées des questions concernant la taxe d’exemption;
 - f. les tiers auxquels ont été confiées des tâches d’exécution incombant à l’organe d’exécution, pour l’accomplissement de ces tâches.
 
-<sup>3</sup> …[^80-12]
+<sup>3</sup> …[^80-11]
 
 <sup>4</sup>
 
@@ -1360,21 +1360,20 @@ Le Conseil fédéral règle notamment:
 - d. l’accès aux données et les autorisations de traitement;
 - e. la collaboration avec les organes concernés;
 - f. la sécurité des données;
-- g. la durée de conservation des données.[^80-13]
+- g. la durée de conservation des données.[^80-12]
 
 [^80-1]: Abrogée par le ch. I de la LF du 3 oct. 2008, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
 [^80-2]: Introduit par le ch. VII 1 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
-[^80-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^80-3]: Introduit par le ch. I de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogé par l’annexe ch. 26 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 [^80-4]: Introduit par le ch. I de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80-5]: Introduit par le ch. I de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-5]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
 [^80-6]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-7]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-8]: Abrogée par le ch. I de la LF du 21 mars 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^80-9]: Nouvelle expression selon le ch. II al. 1 let. e de la LF du 18 mars 2005 sur le transfert à la CNA de la gestion de l’assurance militaire, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2659](https://fedlex.data.admin.ch/eli/fga/2004/552)).
-[^80-10]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^80-11]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^80-12]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
-[^80-13]: Nouvelle teneur selon le ch. VII 1 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^80-7]: Abrogée par le ch. I de la LF du 21 mars 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [FF 2001 5819](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^80-8]: Nouvelle expression selon le ch. II al. 1 let. e de la LF du 18 mars 2005 sur le transfert à la CNA de la gestion de l’assurance militaire, en vigueur depuis le 1<sup>er</sup> juillet 2005 ([RO 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2659](https://fedlex.data.admin.ch/eli/fga/2004/552)).
+[^80-9]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^80-10]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^80-11]: Abrogé par le ch. I de la LF du 3 oct. 2008, avec effet au 1<sup>er</sup> avr. 2009 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)).
+[^80-12]: Nouvelle teneur selon le ch. VII 1 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 
 #### Art. 80a
 
