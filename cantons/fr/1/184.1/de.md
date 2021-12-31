@@ -4,13 +4,13 @@ number: "184.1"
 title: E-Government-Gesetz
 short: E-GovG
 language: de
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-18
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2020-12-18
 in_force: 2021-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6758/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7472/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ E-Government-Gesetz
 
 (E-GovG)
 
-vom 18.12.2020 (Fassung in Kraft getreten am 01.03.2021)
+vom 18.12.2020 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -253,7 +253,7 @@ beschliesst:
 
 <sup>1</sup> Die AHV-Nummer wird mit geeigneten organisatorischen und technischen Massnahmen, die der Entwicklung der verfügbaren Technologien angepasst sind und den Anforderungen des Bundesrechts entsprechen, gegen jegliches unbewilligte Bearbeiten geschützt.
 
-<sup>2</sup> Die Kantonale Behörde für Öffentlichkeit und Datenschutz wird bei der Wahl der zu treffenden Massnahmen konsultiert.
+<sup>2</sup> Die Kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation wird bei der Auswahl der zu treffenden Massnahmen konsultiert.
 
 #### Art. 22
 

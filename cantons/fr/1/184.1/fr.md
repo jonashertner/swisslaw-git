@@ -4,13 +4,13 @@ number: "184.1"
 title: Loi sur la cyberadministration
 short: LCyb
 language: fr
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-18
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-07
 adopted: 2020-12-18
 in_force: 2021-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6758/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7472/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Cyberadministration – L
 
 (LCyb)
 
-du 18.12.2020 (version entrée en vigueur le 01.03.2021)
+du 18.12.2020 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -253,7 +253,7 @@ Décrète:
 
 <sup>1</sup> Le numéro AVS est protégé contre tout traitement non autorisé par des mesures organisationnelles et techniques appropriées, adaptées à l'évolution des technologies disponibles et conformes aux exigences du droit fédéral.
 
-<sup>2</sup> L'Autorité cantonale de la transparence et de la protection des données est consultée sur le choix des mesures à mettre en place.
+<sup>2</sup> L'Autorité cantonale de la transparence, de la protection des données et de la médiation est consultée sur le choix des mesures à mettre en place.
 
 #### Art. 22
 
