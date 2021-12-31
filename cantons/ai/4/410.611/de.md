@@ -3,20 +3,19 @@ canton: AI
 number: "410.611"
 title: Standeskommissionsbeschluss über die Leistung von Beiträgen an die familienexterne Kinderbetreuung
 language: de
-version: 2018-08-01
-valid_until: 2021-12-31
-version_adopted: 2018-06-19
+version: 2022-01-01
+version_adopted: 2021-11-23
 adopted: 2002-09-24
 in_force: 2002-09-24
 url: "https://ai.clex.ch/app/de/texts_of_law/410.611"
-pdf: "https://ai.clex.ch/api/de/versions/1184/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1973/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Leistung von Beiträgen an die familienexterne Kinderbetreuung
 
-vom 24.09.2002 (Stand 01.08.2018)
+vom 24.09.2002 (Stand 01.01.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -69,7 +68,8 @@ beschliesst:
 - c) Unterhalts- und Verwaltungskosten für Grundstücke des Privatvermögens, soweit sie den Pauschalabzug von 20% der entsprechenden Erträge übersteigen;
 - d) Beiträge an anerkannte Formen der gebundenen Selbstvorsorge (Säule 3a);
 - e) Einkaufsbeiträge an Einrichtungen der beruflichen Vorsorge;
-- f) sämtliche Einkommen, die über das Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 (BGSH) abgerechnet werden.
+- f) sämtliche Einkommen, die über das Bundesgesetz über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 (BGSH) abgerechnet werden;
+- g) Dividenden, die infolge Teilbesteuerung in Abzug gebracht werden.
 
 <sup>3</sup> Lebt der anspruchsberechtigte Inhaber der elterlichen Sorge im Konkubinat, werden die massgebenden Gesamteinkommen beider zusammengezählt.
 
