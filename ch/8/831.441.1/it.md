@@ -4,11 +4,11 @@ title: "Ordinanza del 18 aprile 1984 sulla previdenza professionale per la vecch
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20210101/it"
 
 (OPP 2)
 
-del 18 aprile 1984 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 18 aprile 1984 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -269,25 +269,16 @@ Nel suo regolamento l’istituto di previdenza può derogare al salario determin
 
 <sup>2</sup> Il salario minimo assicurato secondo il capoverso 1 vale anche per l’assicurazione obbligatoria di persone per le quali gli importi limite sono ridotti conformemente all’articolo 4.
 
-[^3a-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^3a-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^3a-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 
 #### Art. 4
 
-**Salario coordinato di assicurati parzialmente invalidi**[^4-1]
+**Salario coordinato di assicurati parzialmente invalidi (art. 8 e 34 cpv. 1 lett. b LPP)**[^4-1]
 
-### (art. 8 e 34 cpv. 1 lett. b LPP)
+Per le persone parzialmente invalide ai sensi della legge federale del 19 giugno 1959[^4-2] sull’assicurazione per l’invalidità (LAI), gli importi limite fissati negli articoli 2, 7, 8 capoverso 1 e 46 LPP sono ridotti in misura corrispondente alla percentuale di rendita cui hanno diritto.
 
-Per le persone parzialmente invalide ai sensi della legge federale del 19 giugno 1959[^4-2] sull’assicurazione per l’invalidità, gli importi limite fissati negli articoli 2, 7, 8 capoverso 1 e 46 LPP sono ridotti come segue:
-
-<table>
-<tr><td>Diritto alla rendita in frazioni di una rendita intera</td><td>Riduzione degli importi limite</td></tr>
-<tr><td>¼</td><td>¼</td></tr>
-<tr><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾</td></tr>
-</table>
-
-[^4-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^4-1]: Nuovo testo giusta l’all. n. 3 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^4-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 5
@@ -337,7 +328,7 @@ Gli importi limite di cui agli articoli 2, 7, 8 e 46 LPP sono aumentati come seg
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^8-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 9
 
@@ -357,11 +348,11 @@ Gli importi limite di cui agli articoli 2, 7, 8 e 46 LPP sono aumentati come seg
 
 <sup>5</sup> Il fondo di garanzia versa alle casse di compensazione dell’AVS un’indennità di 9 franchi per ogni caso esaminato nell’ambito della verifica dell’affiliazione dei datori di lavoro ad esse assoggettati (art. 11 cpv. 4 LPP). Entro il 31 marzo dell’anno successivo, le casse di compensazione dell’AVS annunciano al fondo di garanzia i controlli da esse effettuati mediante il formulario prescritto dall’UFAS[^9-4].[^9-5]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^9-3]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^9-4]: Nuova espr. giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^9-5]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^9-5]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 10
 
@@ -441,7 +432,7 @@ Sull’avere di vecchiaia si corrisponde un interesse minimo:
 
 [^12a12b-1]
 
-[^12a12b-1]: Introdotti dal n. I dell’O del 23 ott. 2002 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)). Abrogati dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^12a12b-1]: Introdotti dal n. I dell’O del 23 ott. 2002 ([RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603)). Abrogati dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 13
 
@@ -476,18 +467,12 @@ L’età determinante il tasso applicabile al calcolo degli accrediti di vecchia
 
 ### (art. 15 e 34 cpv. 1 lett. b LPP)
 
-<sup>1</sup> Se l’assicurato beneficia di una rendita parziale d’invalidità, l’istituto di previdenza divide il suo avere di vecchiaia in una parte corrispondente al diritto alla rendita e in una parte attiva come segue:
-
-<table>
-<tr><td>Diritto alla rendita in frazioni di una rendita intera</td><td>Avere di vecchiaia fondato sull’invalidità parziale</td><td>Avere di vecchiaia fondato su un’attività lucrativa continuata</td></tr>
-<tr><td>¼</td><td>¼</td><td>¾</td></tr>
-<tr><td>½</td><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾</td><td>¼</td></tr>
-</table>
+<sup>1</sup> Se l’assicurato beneficia di una rendita parziale d’invalidità, l’istituto di previdenza divide il suo avere di vecchiaia in una parte corrispondente alla quota percentuale del diritto alla rendita e in una parte attiva.[^15-2]
 
 <sup>2</sup> La parte dell’avere di vecchiaia fondata sull’invalidità parziale deve essere trattata secondo l’articolo 14. L’avere di vecchiaia fondato su un’attività lucrativa continuata è equiparato all’avere di vecchiaia di un assicurato che esercita un’attività lucrativa a tempo pieno ed è trattato, in caso di fine del rapporto di lavoro, secondo gli articoli 3–5 LFLP.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^15-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^15-2]: Nuovo testo giusta l’all. n. 3 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 15a
 
@@ -567,7 +552,7 @@ Nel caso di scioglimento del contratto di affiliazione in seguito all’insolven
 
 [^17-1]
 
-[^17-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^17-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 18
 
@@ -584,7 +569,7 @@ Nel caso di scioglimento del contratto di affiliazione in seguito all’insolven
 <sup>3</sup> Se durante l’anno precedente l’insorgenza dell’evento assicurato, l’interessato non ha fruito completamente della sua capacità di guadagno a causa di malattia, infortunio o per altri motivi analoghi, il salario coordinato è calcolato in base a un salario corrispondente a una capacità di guadagno completa.
 
 [^18-1]: Vedi anche le disp. fin. della mod. del 18 ago. 2004 alla fine del presente testo.
-[^18-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 19
 
@@ -635,7 +620,7 @@ In caso di morte dell’ex partner registrato, l’ex partner registrato superst
 
 I contributi versati dall’assicurato secondo l’articolo 20*a* capoverso 1 lettera c LPP comprendono anche le somme di acquisto da esso versate.
 
-[^20a-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^20a-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 ### Sezione 5: …
 
@@ -643,7 +628,7 @@ I contributi versati dall’assicurato secondo l’articolo 20*a* capoverso 1 le
 
 [^2123-1]
 
-[^2123-1]: Abrogati dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^2123-1]: Abrogati dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 ### Sezione 6: Coordinamento con altre prestazioni e altri redditi****
 
@@ -731,7 +716,7 @@ Se l’assicurato ha raggiunto l’età ordinaria di pensionamento, l’istituto
 [^25-5]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^25-6]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^25-7]: Nuovo testo giusta il n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^25-8]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^25-8]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 26
 
@@ -787,7 +772,7 @@ Se la rendita d’invalidità ridotta è inferiore alla parte di rendita assegna
 
 [^chap1a-sec7-1]
 
-[^chap1a-sec7-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap1a-sec7-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 27
 
@@ -885,7 +870,7 @@ Se al regresso partecipano più assicuratori, essi designano un unico rappresent
 
 [^chap1a-sec8-1]
 
-[^chap1a-sec8-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap1a-sec8-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 27g
 
@@ -932,7 +917,7 @@ Se al regresso partecipano più assicuratori, essi designano un unico rappresent
 
 [^chap1a-sec9-1]
 
-[^chap1a-sec9-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap1a-sec9-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 27i
 
@@ -1161,7 +1146,7 @@ L’ufficio di revisione è tenuto a informare senza indugio l’autorità di vi
 
 [^38-1]
 
-[^38-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^38-1]: Abrogato dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 39
 
@@ -1327,7 +1312,7 @@ Gli istituti di previdenza gestiti secondo il sistema della capitalizzazione int
 
 <sup>1</sup>
 
-Nel caso in cui le riserve di fluttuazione non siano state interamente alimentate, gli istituti collettivi e comuni soggetti alla L possono concedere miglioramenti delle prestazioni se:
+Nel caso in cui le riserve di fluttuazione non siano state interamente alimentate, gli istituti collettivi e comuni soggetti alla LFLP possono concedere miglioramenti delle prestazioni se:
 
 - a. il 50 per cento al massimo dell’eccedenza di ricavi prima della costituzione della riserva di fluttuazione è utilizzata per miglioramenti delle prestazioni; e
 - b. la riserva di fluttuazione è alimentata almeno in misura del 75 per cento del corrente obiettivo di riferimento.
@@ -1461,7 +1446,7 @@ Devono inoltre informare ogni cassa pensioni affiliata in merito a:
 
 L’istituto di previdenza stabilisce in un regolamento le norme per costituire accantonamenti e riserve di fluttuazione. A tal fine deve osservare il principio della continuità.
 
-[^48e-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^48e-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 ### Sezione 2*b*:**** Integrità e lealtà dei responsabili
 
@@ -1684,13 +1669,22 @@ Il patrimonio di un istituto di previdenza può essere investito in:
 - c. immobili in proprietà individuale o in comproprietà, comprese le costruzioni in diritto di superficie, nonché terreni edificabili;
 - d. partecipazioni a società quali le azioni e i buoni di partecipazione, titoli analoghi quali i buoni di godimento, come pure quote sociali di cooperative; le partecipazioni a società e i titoli analoghi sono ammessi se sono quotati in borsa o negoziati su un altro mercato regolamentato aperto al pubblico;
 - d<sup>bis</sup>.[^53-2] infrastrutture;
-- e.[^53-3] investimenti alternativi quali i fondi speculativi (*hedge funds*), le *private equity*, le *insurance linked securities* e le materie prime.
+- d<sup>ter</sup>.[^53-3]
 
-<sup>2</sup> Gli investimenti di cui al capoverso 1 lettere a–d possono essere operati mediante investimenti diretti oppure investimenti collettivi secondo l’articolo 56 o strumenti finanziari derivati secondo l’articolo 56*a*. Questo vale anche per gli investimenti di cui al capoverso 1 lettera d<sup>bis</sup>, purché siano diversificati in modo appropriato; in caso contrario questi investimenti devono adempiere i requisiti di cui al capoverso 4.[^53-4]
+  investimenti in crediti non quotati in borsa di debitori (*private debt*) o in partecipazioni a società non quotate in borsa (*private equity*) che:
+
+  - [tab] 1. hanno sede in Svizzera, e
+  - [tab] 2. svolgono un’attività operativa in Svizzera;
+
+- e.[^53-4] investimenti alternativi quali i fondi speculativi (*hedge funds*), le *private equity*, le *insurance linked securities* e le materie prime.
+
+<sup>2</sup> Gli investimenti di cui al capoverso 1 lettere a–d possono essere operati mediante investimenti diretti oppure investimenti collettivi secondo l’articolo 56 o strumenti finanziari derivati secondo l’articolo 56*a*. Questo vale anche per gli investimenti di cui al capoverso 1 lettere d<sup>bis</sup> e d<sup>ter</sup>, purché siano diversificati in modo appropriato; in caso contrario questi investimenti devono adempiere i requisiti di cui al capoverso 4.[^53-5]
+
+<sup>2bis</sup> Se gli investimenti di cui al capoverso 1 lettera d<sup>ter</sup> sono investimenti collettivi di capitale, oltre la metà del loro capitale deve essere investita in Svizzera.[^53-6]
 
 <sup>3</sup>
 
-I crediti non elencati al capoverso 1 lettera b sono considerati investimenti alternativi, in particolare:
+I crediti non elencati al capoverso 1 lettera b, d<sup>bis</sup> o d<sup>ter</sup> sono considerati investimenti alternativi, in particolare:[^53-7]
 
 - a. i crediti non espressi in importi fissi o il cui rimborso totale o parziale è soggetto a condizioni;
 - b. i crediti cartolarizzati, quali i titoli garantiti da attività (*asset backed secur**i**ties*), e altri crediti derivanti da un trasferimento di rischi, quali i crediti nei confronti di una società veicolo o quelli basati su derivati creditizi;
@@ -1700,20 +1694,26 @@ I crediti non elencati al capoverso 1 lettera b sono considerati investimenti al
 
 <sup>5</sup>
 
-È ammesso un effetto leva soltanto nei casi seguenti:
+È ammesso un effetto di leva soltanto nei casi seguenti:[^53-8]
 
 - a. investimenti alternativi;
 - b. investimenti collettivi regolati in immobili, purché la quota di costituzione in pegno non possa eccedere il 50 per cento del valore venale;
 - c. un investimento in un singolo immobile conformemente all’articolo 54*b* capoverso 2;
-- d. investimenti in strumenti finanziari derivati, purché tale effetto leva non interessi l’intero patrimonio dell’istituto di previdenza.
+- d. investimenti in strumenti finanziari derivati, purché tale effetto leva non interessi l’intero patrimonio dell’istituto di previdenza;
+- e.[^53-9] investimenti secondo il capoverso 1 lettere d<sup>bis</sup> e d<sup>ter</sup>, se si tratta di finanziamenti transitori a breve termine coperti mediante impegni vincolanti all’investimento degli investitori o di assunzioni di credito a breve termine motivate da esigenze tecniche.
 
-<sup>6</sup> La legge del 23 giugno 2006[^53-5] sugli investimenti collettivi e le relative disposizioni d’esecuzione si applicano per analogia ai prestiti di valori mobiliari e alle operazioni di pensione. Le operazioni di pensione in cui l’istituto di previdenza agisce quale cedente non sono ammesse.
+<sup>6</sup> La legge del 23 giugno 2006[^53-10] sugli investimenti collettivi e le relative disposizioni d’esecuzione si applicano per analogia ai prestiti di valori mobiliari e alle operazioni di pensione. Le operazioni di pensione in cui l’istituto di previdenza agisce quale cedente non sono ammesse.
 
 [^53-1]: Nuovo testo giusta il n. I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^53-2]: Introdotta dal n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-3]: Nuovo testo giusta il n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-4]: Per. introdotto dal n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^53-3]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-4]: Nuovo testo giusta il n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^53-5]: Per. introdotto dal n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)). Nuovo testo del per. giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-6]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-7]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-8]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-9]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-10]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 53a
 
@@ -1790,12 +1790,14 @@ Alle singole categorie d’investimento si applicano i seguenti limiti riferiti 
 - b. 50 per cento: per gli investimenti in azioni;
 - c. 30 per cento: per gli investimenti immobiliari, di cui al massimo un terzo all’estero;
 - d. 15 per cento: per gli investimenti alternativi;
-- e. 30 per cento per gli investimenti in valute estere le cui fluttuazioni di cambio non sono assicurate;
-- f.[^55-3] 10 per cento: per gli investimenti in infrastrutture.
+- e. 30 per cento: per gli investimenti in valute estere le cui fluttuazioni di cambio non sono assicurate;
+- f.[^55-3] 10 per cento: per gli investimenti in infrastrutture;
+- g.[^55-4] 5 per cento: per gli investimenti di cui all’articolo 53 capoverso 1 lettera d<sup>ter</sup>.
 
 [^55-1]: Nuovo testo giusta il n. I dell’O del 19 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^55-2]: Nuovo testo giusta il n. I dell’O del 6 giu. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^55-3]: Introdotta dal n. I 2 dell’O del 26 ago. 2020 concernente modifiche nell’ambito della previdenza professionale, in vigore dal 1° ott. 2020 ([RU 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^55-4]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 
 #### Art. 56
 
@@ -2079,7 +2081,7 @@ Questa età di pensionamento è parimenti determinante per:
 
 [^chap7-sec1b-1]
 
-[^chap7-sec1b-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^chap7-sec1b-1]: Introdotta dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
 #### Art. 62b
 
@@ -2256,7 +2258,7 @@ Allegato*[^t-1]*
 
 <sup>1</sup> Il grado di copertura dell’istituto di previdenza è determinato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20210101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/it/xml/image/image1.png)
 
 - Pp corrisponde a: Tutti gli attivi alla data di chiusura del bilancio a valori di mercato, al netto degli obblighi, del conto terzi e delle riserve di contributi del datore di lavoro per le quali non vi è un accordo di rinuncia all’utilizzazione. È determinante il patrimonio di previdenza effettivo risultante dalla situazione finanziaria reale conformemente all’articolo 47 capoverso 2. La riserva di contributi dei datori di lavoro con rinuncia all’utilizzazione (RCDL con rinuncia all’utilizzazione), le riserve di fluttuazione e le riserve di fluttuazione nella ripartizione devono essere aggiunte al patrimonio di previdenza disponibile.
 - Cp corrisponde a: Capitale di previdenza attuariale necessario nel giorno di chiusura del bilancio (capitali a risparmio e capitali di copertura), compresi i necessari consolidamenti (p. es. in ragione dell’aumento della speranza di vita).

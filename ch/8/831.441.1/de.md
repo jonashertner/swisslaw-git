@@ -4,11 +4,11 @@ title: "Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassen
 short: BVV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20210101/de"
 
 (BVV 2)
 
-vom 18. April 1984 (Stand am 1. Januar 2021)
+vom 18. April 1984 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -278,16 +278,9 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement vom massgebenden Lohn der AHV ab
 
 ### (Art. 8 und 34 Abs. 1 Bst. b BVG)
 
-Für Personen, die im Sinne des Bundesgesetzes vom 19. Juni 1959[^4-2] über die Invalidenversicherung teilweise invalid sind, werden die Grenzbeträge nach den Artikeln 2, 7, 8 Absatz 1 und 46 BVG folgendermassen gekürzt:
+Für Personen, die im Sinne des Bundesgesetzes vom 19. Juni 1959[^4-2] über die Invalidenversicherung (IVG) teilweise invalid sind, werden die Grenzbeträge nach den Artikeln 2, 7, 8 Absatz 1 und 46 BVG entsprechend dem prozentualen Anteil ihres Teilrentenanspruchs gekürzt.
 
-<table>
-<tr><th>Rentenanspruch in Bruchteilen einer ganzen Rente</th><th>Kürzung der Grenzbeträge</th></tr>
-<tr><th>¼</th><th>¼</th></tr>
-<tr><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾</td></tr>
-</table>
-
-[^4-1]: Fassung gemäss Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^4-1]: Fassung gemäss Anhang Ziff. 3 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^4-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 5
@@ -476,18 +469,12 @@ Das für die Berechnung der Altersgutschrift massgebende Alter des Versicherten 
 
 ### (Art. 15 und 34 Abs. 1 Bst. b BVG)
 
-<sup>1</sup> Wird dem Versicherten eine Teil-Invalidenrente zugesprochen, so teilt die Vorsorgeeinrichtung dessen Altersguthaben wie folgt in einen der Rentenberechtigung entsprechenden und in einen aktiven Teil auf:
-
-<table>
-<tr><td>Rentenanspruch in Bruchteilen einer ganzen Rente</td><td>Auf Teilinvalidität entfallendes Altersguthaben</td><td>Auf weitergeführte Erwerbstätigkeit entfallendes Altersguthaben</td></tr>
-<tr><td>¼</td><td>¼</td><td>¾</td></tr>
-<tr><td>½</td><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾</td><td>¼</td></tr>
-</table>
+<sup>1</sup> Wird der versicherten Person eine Teil-Invalidenrente zugesprochen, so teilt die Vorsorgeeinrichtung dessen Altersguthaben in einen dem prozentualen Anteil der Rentenberechtigung entsprechenden und in einen aktiven Teil auf.[^15-2]
 
 <sup>2</sup> Das auf die Teilinvalidität entfallende Altersguthaben ist nach Artikel 14 zu behandeln. Das auf die weitergeführte Erwerbstätigkeit entfallende Altersguthaben ist dem Altersguthaben eines voll erwerbstätigen Versicherten gleichgestellt und wird bei Beendigung des Arbeitsverhältnisses nach den Artikeln 3–5 FZG behandelt.
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^15-2]: Fassung gemäss Anhang Ziff. 3 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 15a
 
@@ -637,7 +624,7 @@ Unter die von der versicherten Person einbezahlten Beiträge nach Artikel 20*a* 
 
 [^20a-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
-### 5. Abschnitt: ...
+### 5. Abschnitt: …
 
 #### Art. 21–23
 
@@ -720,11 +707,11 @@ Hat die versicherte Person das ordentliche Rentenalter erreicht, so darf die Vor
 
 [^25-3]
 
-<sup>1</sup> ...[^25-4]
+<sup>1</sup> …[^25-4]
 
 <sup>2</sup> Die Vorsorgeeinrichtung ist nicht verpflichtet, Leistungsverweigerungen oder ‑kürzungen der Unfallversicherung oder der Militärversicherung auszugleichen, wenn diese die Leistungsverweigerungen oder ‑kürzungen nach Artikel 21 des Bundesgesetzes vom 6. Oktober 2000[^25-5] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG), Artikel 37 und 39 des Bundesgesetzes vom 20. März 1981[^25-6] über die Unfallversicherung, Artikel 65 oder 66 des Bundesgesetzes vom 19. Juni 1992[^25-7] über die Militärversicherung vorgenommen haben.[^25-8]
 
-<sup>3</sup> ...[^25-9]
+<sup>3</sup> …[^25-9]
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 1992, in Kraft seit 1. Jan. 1993 ([AS 1992 2234](https://fedlex.data.admin.ch/eli/oc/1992/2234_2234_2234)).
 [^25-2]: Fassung gemäss Anhang Ziff. 1 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
@@ -1497,7 +1484,7 @@ Mit der Vermögensverwaltung dürfen als externe Personen und Institutionen nur 
 - i.[^48f-7] Arbeitgeber, die das Vermögen ihrer Vorsorgeeinrichtungen verwalten;
 - j.[^48f-8] Arbeitgeber- und Arbeitnehmerverbände, die das Vermögen ihrer Verbandseinrichtungen verwalten.
 
-<sup>5–7</sup> ...[^48f-9]
+<sup>5–7</sup> …[^48f-9]
 
 [^48f-1]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1349](https://fedlex.data.admin.ch/eli/oc/2013/317)).
 [^48f-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
@@ -1682,13 +1669,22 @@ Als Anlagen für das Vermögen einer Vorsorgeeinrichtung sind zulässig:
 - c. Immobilien im Allein- oder Miteigentum, einschliesslich Bauten im Baurecht sowie Bauland;
 - d. Beteiligungen an Gesellschaften wie Aktien und Partizipationsscheine, ähnliche Wertschriften wie Genussscheine, sowie Genossenschaftsanteilscheine; Beteiligungen an Gesellschaften und ähnlichen Wertschriften sind zugelassen, wenn sie an einer Börse kotiert sind oder an einem anderen geregelten, dem Publikum offenstehenden Markt gehandelt werden;
 - d<sup>bis</sup>.[^53-2] Anlagen in Infrastrukturen;
-- e.[^53-3] alternative Anlagen wie solche in Hedge Funds, Private Equity, Insurance Linked Securities und Rohstoffen.
+- [tab]
 
-<sup>2</sup> Die Anlagen nach Absatz 1 Buchstaben a–d können als direkte Anlagen oder mittels kollektiver Anlagen nach Artikel 56 oder derivativer Finanzinstrumente nach Artikel 56*a* vorgenommen werden. Dies gilt auch für Anlagen nach Absatz 1 Buchstabe d<sup>bis</sup>, falls sie angemessen diversifiziert sind; andernfalls gelten für diese Anlagen die Anforderungen nach Absatz 4.[^53-4]
+  d<sup>ter</sup>.[^53-3]Anlagen in nicht kotierten Forderungen gegenüber Schuldnern (*Private Debt*) oder in Beteiligungen an nicht kotierten Gesellschaften (*Private Equity*), die:
+
+  - 1\. ihren Sitz in der Schweiz haben, und
+  - 2\. in der Schweiz operativ tätig sind;
+
+- e.[^53-4] alternative Anlagen wie solche in Hedge Funds, Private Equity, Insurance Linked Securities und Rohstoffen.
+
+<sup>2</sup> Die Anlagen nach Absatz 1 Buchstaben a–d können als direkte Anlagen oder mittels kollektiver Anlagen nach Artikel 56 oder derivativer Finanzinstrumente nach Artikel 56*a* vorgenommen werden. Dies gilt auch für Anlagen nach Absatz 1 Buchstaben d<sup>bis</sup> und d<sup>ter</sup>, falls sie angemessen diversifiziert sind; andernfalls gelten für diese Anlagen die Anforderungen nach Absatz 4.[^53-5]
+
+<sup>2bis</sup> Handelt es sich bei den Anlagen nach Absatz 1 Buchstabe d<sup>ter</sup> um kollektive Kapitalanlagen, so muss mehr als die Hälfte des Kapitals dieser kollektiven Anlagen in der Schweiz investiert werden.[^53-6]
 
 <sup>3</sup>
 
-Forderungen, die nicht in Absatz 1 Buchstabe b aufgeführt sind, gelten als alternative Anlagen, insbesondere:
+Forderungen, die nicht in Absatz 1 Buchstabe b, d<sup>bis</sup> oder d<sup>ter</sup> aufgeführt sind, gelten als alternative Anlagen, insbesondere:[^53-7]
 
 - a. Forderungen, die nicht auf einen festen Geldbetrag lauten oder deren ganze oder teilweise Rückzahlung von Bedingungen abhängig ist;
 - b. verbriefte Forderungen wie Asset Backed Securities oder andere Forderungen, die aufgrund eines Risikotransfers zustande gekommen sind, wie Forderungen gegenüber einer Zweckgesellschaft oder Forderungen auf Basis von Kreditderivaten;
@@ -1703,15 +1699,20 @@ Ein Hebel ist nur zulässig in:
 - a. alternativen Anlagen;
 - b. regulierten kollektiven Anlagen in Immobilien, wenn die Belehnungsquote auf 50 Prozent des Verkehrswertes begrenzt ist;
 - c. einer Anlage in einer einzelnen Immobilie nach Artikel 54*b* Absatz 2;
-- d. Anlagen in derivativen Finanzinstrumenten, wenn keine Hebelwirkung auf das Gesamtvermögen der Vorsorgeeinrichtung ausgeübt wird.
+- d. Anlagen in derivativen Finanzinstrumenten, wenn keine Hebelwirkung auf das Gesamtvermögen der Vorsorgeeinrichtung ausgeübt wird;
+- e.[^53-8] Anlagen nach Absatz 1 Buchstaben d<sup>bis</sup> und d<sup>ter</sup>, wenn es sich dabei um kurzfristige durch Kapitalzusagen der Anleger gedeckte Brückenfinanzierungen oder um kurzfristige, technisch bedingte Kreditaufnahmen handelt.
 
-<sup>6</sup> Im Falle von Effektenleihe und Pensionsgeschäften gelten das Kollektivanlagegesetz vom 23. Juni 2006[^53-5] und seine Ausführungsbestimmungen sinngemäss. Pensionsgeschäfte, bei denen die Vorsorgeeinrichtung als Pensionsgeberin handelt, sind unzulässig.
+<sup>6</sup> Im Falle von Effektenleihe und Pensionsgeschäften gelten das Kollektivanlagegesetz vom 23. Juni 2006[^53-9] und seine Ausführungsbestimmungen sinngemäss. Pensionsgeschäfte, bei denen die Vorsorgeeinrichtung als Pensionsgeberin handelt, sind unzulässig.
 
 [^53-1]: Fassung gemäss Ziff. I der V vom 6. Juni 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^53-2]: Eingefügt durch Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-3]: Fassung gemäss Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-4]: Zweiter Satz eingefügt durch Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-5]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^53-3]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-4]: Fassung gemäss Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^53-5]: Zweiter Satz eingefügt durch Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)). Fassung des zweiten Satzes gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-6]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-7]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-8]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 53a
 
@@ -1795,11 +1796,14 @@ d. 15 Prozent: für alternative Anlagen;
 
 e. 30 Prozent: für Fremdwährungen ohne Währungssicherung;
 
-f.[^55-3] 10 Prozent: für Anlagen in Infrastruktur.
+f.[^55-3] 10 Prozent: für Anlagen in Infrastruktur;
+
+g.[^55-4] 5 Prozent: für Anlagen nach Artikel 53 Absatz 1 Buchstabe d<sup>ter</sup>.
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^55-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^55-3]: Eingefügt durch Ziff. I 2 der V vom 26. Aug. 2020 über Änderungen in der beruflichen Vorsorge, in Kraft seit 1. Okt. 2020 ([AS 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^55-4]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 
 #### Art. 56
 
@@ -2047,7 +2051,7 @@ Das BSV ist berechtigt, gegen Entscheide der kantonalen Gerichte und des Bundesv
 
 Die Verordnung vom 31. Oktober 1947[^61-1] über die Alters- und Hinterlassenenversicherung wird wie folgt geändert:
 
-...[^61-2]
+…[^61-2]
 
 [^61-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185). Die hiernach aufgeführten Änd. sind eingefügt in der genannten V.
 [^61-2]: Die Änd. können unter [AS 1984 543](https://fedlex.data.admin.ch/eli/oc/1984/543_543_543)konsultiert werden.
@@ -2257,7 +2261,7 @@ Anhang*[^t-1]*
 
 <sup>1</sup> Der Deckungsgrad der Vorsorgeeinrichtung wird wie folgt ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20210101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/de/xml/image/image1.png)
 
 Wobei für Vv gilt: Die gesamten Aktiven per Bilanzstichtag zu Marktwerten bilanziert, vermindert um Verbindlichkeiten, passive Rechnungsabgrenzung und Arbeitgeberbeitragsreserven, soweit keine Vereinbarung über einen Verwendungsverzicht des Arbeitgebers vorliegt. Es ist das effektive Vorsorgevermögen massgebend, wie es aus der tatsächlichen finanziellen Lage nach Artikel 47 Absatz 2 hervorgeht. Eine Arbeitgeberbeitragsreserve mit Verwendungsverzicht (AGBR mit Verwendungsverzicht), die Wertschwankungsreserven und die Umlageschwankungsreserven sind dem verfügbaren Vorsorgevermögen zuzurechnen.
 

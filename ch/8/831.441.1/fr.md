@@ -4,11 +4,11 @@ title: "Ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieilless
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20210101/fr"
 
 (OPP 2)
 
-du 18 avril 1984 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 avril 1984 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -278,16 +278,9 @@ L’institution de prévoyance peut, dans son règlement, s’écarter comme il 
 
 ### (art. 8 et 34, al. 1, let. b, LPP)
 
-Pour les personnes partiellement invalides au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^4-2], les montants-limites fixés aux art. 2, 7, 8, al. 1, et 46 LPP sont réduits comme suit:
+Pour les personnes partiellement invalides au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^4-2], les montants-limites fixés aux art. 2, 7, 8, al. 1, et 46 LPP sont réduits proportionnellement au pourcentage de rente auquel elles ont droit.
 
-<table>
-<tr><td>Droit à la rente en fraction d’une rente entière</td><td>Réduction des montants-limites</td></tr>
-<tr><td>¼</td><td>¼</td></tr>
-<tr><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾</td></tr>
-</table>
-
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^4-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^4-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 #### Art. 5
@@ -476,18 +469,12 @@ L’âge déterminant le taux applicable au calcul de la bonification de vieille
 
 ### (art. 15 et 34, al. 1, let. b, LPP)
 
-<sup>1</sup> Si l’assuré est mis au bénéfice d’une rente d’invalidité partielle, l’institution de prévoyance partage l’avoir de vieillesse en une partie correspondant au droit à la rente et en une partie active; le partage se fait comme suit:
-
-<table>
-<tr><th>Droit à la rente en fraction d’une rente entière</th><th>Avoir de vieillesse fondé sur l’invalidité partielle</th><th>Avoir de vieillesse actif</th></tr>
-<tr><td>¼</td><td>¼</td><td>¾</td></tr>
-<tr><td>½</td><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾</td><td>¼</td></tr>
-</table>
+<sup>1</sup> Si l’assuré est mis au bénéfice d’une rente d’invalidité partielle, l’institution de prévoyance partage l’avoir de vieillesse en une partie correspondant au pourcentage du droit à la rente et en une partie active.[^15-2]
 
 <sup>2</sup> La partie de l’avoir de vieillesse fondée sur une invalidité partielle doit être traitée selon l’art. 14. L’avoir de vieillesse actif est assimilé à celui d’un assuré valide et traité, à la fin des rapports de travail, selon les art. 3 à 5 LFLP.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
+[^15-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 15a
 
@@ -1676,13 +1663,22 @@ La fortune de l’institution de prévoyance peut être investie dans les placem
 - c. des biens immobiliers en propriété individuelle ou en copropriété, y compris des constructions en droit de superficie et des terrains à bâtir;
 - d. des participations à des sociétés, telles que les actions, les bons de participation ou les titres similaires, bons de jouissance inclus, ou les parts sociales de sociétés coopératives; les participations à des sociétés et les titres similaires sont autorisés s’ils sont cotés en Bourse ou traités sur un autre marché réglementé ouvert au public;
 - d<sup>bis</sup>.[^53-2] des placements dans les infrastructures;
-- e.[^53-3] des placements alternatifs tels que les fonds spéculatifs (*hedge funds*), les placements en *private equity*, les titres liés à une assurance (*insurance linked securities*) et les placements dans les matières premières.
+- d<sup>ter</sup>.[^53-3]
 
-<sup>2</sup> Les placements visés à l’al. 1, let. a à d, peuvent s’effectuer sous la forme de placements directs, de placements collectifs conformes à l’art. 56 ou d’instruments financiers dérivés conformes à l’art. 56*a*. Cette règle s’applique également aux placements visés à l’al. 1, let. d<sup>bis</sup>, à condition qu’ils soient diversifiés de façon appropriée; si tel n’est pas le cas, les exigences posées à l’al. 4 s’appliquent à ces placements.[^53-4]
+  des placements dans des créances non cotées (*private debt*) ou dans des participations à des sociétés non cotées (*private equity*) qui:
+
+  - 1\. ont leur siège en Suisse, et qui
+  - 2\. ont une activité opérationnelle en Suisse;
+
+- e.[^53-4] des placements alternatifs tels que les fonds spéculatifs (*hedge funds*), les placements en *private equity*, les titres liés à une assurance (*insurance linked securities*) et les placements dans les matières premières.
+
+<sup>2</sup> Les placements visés à l’al. 1, let. a à d, peuvent s’effectuer sous la forme de placements directs, de placements collectifs conformes à l’art. 56 ou d’instruments financiers dérivés conformes à l’art. 56*a*. Cette règle s’applique également aux placements visés à l’al. 1, let. d<sup>bis</sup> et d<sup>ter</sup>, à condition qu’ils soient diversifiés de façon appropriée; si tel n’est pas le cas, les exigences posées à l’al. 4 s’appliquent à ces placements.[^53-5]
+
+<sup>2bis</sup> Si les placements visés à l’al. 1, let. d<sup>ter</sup>, sont des placements collectifs, plus de la moitié du capital de ces placements collectifs doit être investie en Suisse.[^53-6]
 
 <sup>3</sup>
 
-Les créances qui ne sont pas énumérées à l’al. 1, let. b, sont traitées comme des placements alternatifs, notamment:
+Les créances qui ne sont pas énumérées à l’al. 1, let. b, d<sup>bis</sup> ou d<sup>ter</sup>, sont traitées comme des placements alternatifs, notamment:[^53-7]
 
 - a. les créances qui ne sont pas libellées en un montant fixe ou dont le remboursement intégral ou partiel est lié à des conditions;
 - b. les créances titrisées telles que les titres adossés à des actifs (*asset backed securities*), ou d’autres créances résultant d’un transfert de risque, par exemple les créances envers une société de portage ou basées sur des dérivés de crédit;
@@ -1697,15 +1693,20 @@ Un effet de levier n’est admissible que pour les cas suivants:
 - a. les placements alternatifs;
 - b. les placements collectifs réglementés dans l’immobilier, si le taux d’avance est limité à 50 % de la valeur vénale;
 - c. un placement dans un objet immobilier conforme à l’art. 54*b*, al. 2;
-- d. les placements dans des instruments financiers dérivés, à condition qu’aucun effet de levier ne s’exerce sur la fortune globale de l’institution de prévoyance.
+- d. les placements dans des instruments financiers dérivés, à condition qu’aucun effet de levier ne s’exerce sur la fortune globale de l’institution de prévoyance;
+- e.[^53-8] les placements visés à l’al. 1, let. d<sup>bis</sup> et d<sup>ter</sup>, en cas de prêts relais à court terme couverts par des engagements de capital des investisseurs ou d’emprunts à court terme répondant à des impératifs techniques.
 
-<sup>6</sup> La loi du 23 juin 2006 sur les placements collectifs et ses dispositions d’exécution[^53-5] s’appliquent par analogie aux prêt de valeurs mobilières et aux opérations de prise ou de mise en pension. Les opérations de mise en pension dans lesquelles l’institution de prévoyance agit comme cédante sont interdites.
+<sup>6</sup> La loi du 23 juin 2006 sur les placements collectifs et ses dispositions d’exécution[^53-9] s’appliquent par analogie aux prêt de valeurs mobilières et aux opérations de prise ou de mise en pension. Les opérations de mise en pension dans lesquelles l’institution de prévoyance agit comme cédante sont interdites.
 
 [^53-1]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^53-2]: Introduite par le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-3]: Nouvelle teneur selon le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-4]: Phrase introduite par le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
-[^53-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^53-3]: Introduite par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-4]: Nouvelle teneur selon le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^53-5]: Phrase introduite par le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)). Nouvelle teneur de la phrase selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-6]: Introduit par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-7]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-8]: Introduite par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
+[^53-9]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 53a
 
@@ -1784,11 +1785,13 @@ La part maximale de la fortune globale qui peut être placée dans les différen
 - c. 30 %: dans les placements immobiliers, dont un tiers au maximum à l’étranger;
 - d. 15 %: dans les placements alternatifs;
 - e. 30 %: dans les placements en devises étrangères sans couverture du risque de change;
-- f.[^55-3] 10 %: dans les placements dans les infrastructures.
+- f.[^55-3] 10 %: dans les placements dans les infrastructures;
+- g.[^55-4] 5 %: dans les placements visés à l’art. 53, al. 1, let. d<sup>ter</sup>.
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4651](https://fedlex.data.admin.ch/eli/oc/2008/650)).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1585](https://fedlex.data.admin.ch/eli/oc/2014/316)).
 [^55-3]: Introduite par le ch. I 2 de l’O du 26 août 2020 portant modification de dispositions dans la prévoyance professionnelle, en vigueur depuis le 1<sup>er</sup> oct. 2020 ([RO 2020 3755](https://fedlex.data.admin.ch/eli/oc/2020/681)).
+[^55-4]: Introduite par le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 794](https://fedlex.data.admin.ch/eli/oc/2021/794)).
 
 #### Art. 56
 
@@ -2248,7 +2251,7 @@ Annexe*[^t-1]*
 
 <sup>1</sup> Le taux de couverture de l’institution de prévoyance est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20210101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/fr/xml/image/image1.png)
 
 - où Fp: est égal à l’ensemble des actifs à la date du bilan et à la valeur du marché, diminués des engagements, des passifs de régularisation et des réserves de cotisations de l’employeur, pour autant qu’aucun accord sur une renonciation à leur utilisation par l’employeur n’ait été conclu, la fortune de prévoyance effective, telle qu’elle ressort de la situation financière réelle au sens de l’art. 47, al. 2, étant déterminante; une réserve de cotisations de l’employeur incluant une déclaration de renonciation à leur utilisation, les réserves de fluctuation de valeur et les réserves de fluctuation dans la répartition ne sont pas déduites de la fortune de prévoyance disponible, et
 - où Cp: est égal au capital de prévoyance actuariel nécessaire à la date du bilan (capital d’épargne et capital de couverture), y compris les renforcements nécessaires (au vu par ex. de l’augmentation de l’espérance de vie).
