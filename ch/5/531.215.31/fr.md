@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Ordonnance du 10 mai 2017 sur le stockage obligatoire de médicaments
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: fr
-version: 2020-01-15
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20200115/fr/xml/fedlex-data-admin-ch-eli-cc-2017-312-20200115-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20200115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-312-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le stockage obligatoire de médicaments
 
-du 10 mai 2017 (Etat le 15 janvier 2020)
+du 10 mai 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -71,7 +71,9 @@ Après avoir consulté les milieux économiques concernés, le Département féd
 
 **Coopération entre autorités**
 
-L’Administration fédérale des douanes et l’Institut suisse des produits thérapeutiques transmettent à l'OFAE, sur demande, les informations dont ils disposent sur l’importation de médicaments visés à l’art. 1.
+L’Office fédéral de la douane et de la sécurité des frontières[^5-1] et l’Institut suisse des produits thérapeutiques transmettent à l'OFAE, sur demande, les informations dont ils disposent sur l’importation de médicaments visés à l’art. 1.
+
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -113,7 +115,7 @@ L’ordonnance du 6 juillet 1983 sur la constitution de réserves obligatoires d
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juin 2017.
 
-Annexe[^t-1]
+Annexe*[^t-1]*
 
 (art. 1)
 

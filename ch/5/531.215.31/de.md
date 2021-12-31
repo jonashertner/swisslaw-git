@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Verordnung vom 10. Mai 2017 über die Pflichtlagerhaltung von Arzneimitteln
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: de
-version: 2020-01-15
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20200115/de/xml/fedlex-data-admin-ch-eli-cc-2017-312-20200115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20200115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-312-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Pflichtlagerhaltung von Arzneimitteln
 
-vom 10. Mai 2017 (Stand am 15. Januar 2020)
+vom 10. Mai 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -71,7 +71,9 @@ Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) bes
 
 **Zusammenarbeit der Behörden**
 
-Die Eidgenössische Zollverwaltung und das Schweizerische Heilmittelinstitut übermitteln dem BWL auf Anfrage hin die ihnen vorliegenden Informationen über Einfuhren von Waren nach Artikel 1.
+Das Bundesamt für Zoll und Grenzsicherheit[^5-1] und das Schweizerische Heilmittelinstitut übermitteln dem BWL auf Anfrage hin die ihnen vorliegenden Informationen über Einfuhren von Waren nach Artikel 1.
+
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -105,7 +107,7 @@ Das BWL stellt in strittigen Fällen, gestützt auf die Meldungen der Helvecura,
 
 Die Verordnung vom 6. Juli 1983[^9-1] über die Pflichtlagerhaltung von Arzneimitteln wird aufgehoben.
 
-[^9-1]: [[AS 1983 1004](https://fedlex.data.admin.ch/eli/oc/1983/1004_1004_1004), [2004 1361](https://fedlex.data.admin.ch/eli/oc/2004/162), [2013 1633](https://fedlex.data.admin.ch/eli/oc/2013/380), [2014 2305](https://fedlex.data.admin.ch/eli/oc/2014/388), [2016 1671](https://fedlex.data.admin.ch/eli/oc/2016/306)]
+[^9-1]: [[AS 1983 1004](https://fedlex.data.admin.ch/eli/oc/1983/1004_1004_1004); [2004 1361](https://fedlex.data.admin.ch/eli/oc/2004/162); [2013 1633](https://fedlex.data.admin.ch/eli/oc/2013/380); [2014 2305](https://fedlex.data.admin.ch/eli/oc/2014/388); [2016 1671](https://fedlex.data.admin.ch/eli/oc/2016/306)]
 
 #### Art. 10
 

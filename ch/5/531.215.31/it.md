@@ -3,18 +3,18 @@ sr: "531.215.31"
 title: Ordinanza del 10 maggio 2017 concernente la costituzione di scorte obbligatorie di medicamenti
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/312"
 language: it
-version: 2020-01-15
+version: 2022-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20200115/it/xml/fedlex-data-admin-ch-eli-cc-2017-312-20200115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20200115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/312/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-312-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/312/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la costituzione di scorte obbligatorie di medicamenti
 
-del 10 maggio 2017 (Stato 15 gennaio 2020)
+del 10 maggio 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -71,7 +71,9 @@ Dopo aver consultato le cerchie economiche interessate, il Dipartimento federale
 
 **Collaborazione tra le autorità**
 
-L’Amministrazione federale delle dogane e l’Istituto svizzero per gli agenti terapeutici trasmettono all’UFAE, su richiesta, le informazioni di cui dispongono sull’importazione di merci di cui all’articolo 1.
+L’Ufficio federale della dogana e della sicurezza dei confini[^5-1] e l’Istituto svizzero per gli agenti terapeutici trasmettono all’UFAE, su richiesta, le informazioni di cui dispongono sull’importazione di merci di cui all’articolo 1.
+
+[^5-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -202,6 +204,6 @@ Allegato*[^t-1]*
 <tr><td>Codice ATC</td><td>Designazione della merce</td><td>Osservazione</td></tr>
 <tr><td>C01CA24</td><td>adrenalina</td><td>siringhe pronte all’uso</td></tr>
 <tr><td>H01BB02</td><td>ossitocina</td><td>forme parenterali</td></tr>
-<tr><td>V08BA</td><td>mezzi di contrasto radiologici contenenti [solfato di bario](https://it.wikipedia.org/wiki/Solfato_di_bario)</td><td></td></tr>
+<tr><td>V08BA</td><td>mezzi di contrasto radiologici contenenti solfato di bario</td><td></td></tr>
 <tr><td>V08DA</td><td>mezzi di contrasto per ultrasonologia</td><td></td></tr>
 </table>
