@@ -4,13 +4,13 @@ number: "187.171"
 title: Verordnung der Evangelischen Synode des Kantons Thurgau über Leistungen der Landeskirche zu Gunsten von finanzschwachen Kirchgemeinden
 short: Finanzausgleichsverordnung
 language: de
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2014-11-24
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-06
 adopted: 2009-06-29
 in_force: 2009-06-29
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.171"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1802/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1972/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1802/pdf_file"
 
 V der Evang. Synode - Leistungen der Landeskirche
 
-vom 29.06.2009 (Stand 01.01.2016)
+vom 29.06.2009 (Stand 01.01.2022)
 
 ## 1. Zweck und Gegenstand
 
@@ -78,7 +78,7 @@ vom 29.06.2009 (Stand 01.01.2016)
 
 **Gesamtvolumen**
 
-<sup>1</sup> Das Gesamtvolumen, das für Baubeiträge eingesetzt wird, darf im Verhältnis zum Gesamtvolumen, das für die Mindestausstattung benötigt wird, einen bestimmten Prozentsatz nicht übersteigen. Bei Inkrafttreten der Verordnung liegt dieser Prozentsatz bei 50 %. Die Synode kann diesen Prozentsatz durch Beschluss geänderten Verhältnissen anpassen.
+<sup>1</sup> Das Gesamtvolumen, das für Baubeiträge eingesetzt wird, darf im Verhältnis zum Gesamtvolumen, das für die Mindestausstattung benötigt wird, einen bestimmten Prozentsatz nicht übersteigen. Dieser Prozentsatz liegt bei 75 %. Die Synode kann diesen Prozentsatz durch Beschluss geänderten Verhältnissen anpassen.
 
 #### § 7
 
@@ -201,18 +201,8 @@ vom 29.06.2009 (Stand 01.01.2016)
 
 <sup>1</sup> Bauten und Renovationen, die vor Inkraftsetzung dieser Verordnung unter Einhaltung der Bestimmungen des im Zeitpunkt des Beschlusses geltenden Rechts beschlossen und ausgeführt worden sind, gelten als genehmigt im Sinn von § 8 dieser Verordnung.
 
-#### § 22
+#### § 22–23
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung der Evangelischen Synode des Kantons Thurgau über Leistungen aus dem Zentralfonds zu Gunsten von finanzschwachen Kirchgemeinden vom 25. Nov. 2002 wird aufgehoben.
-
-#### § 23
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf einen durch den Kirchenrat festzulegenden Zeitpunkt in Kraft[^23-1].
-
-[^23-1]: In Kraft gesetzt auf den 1. Januar 2011.
+**…**
 
 09/2010
