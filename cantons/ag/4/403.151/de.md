@@ -3,20 +3,20 @@ canton: AG
 number: "403.151"
 title: Verordnung über das Schulgeld
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-03-20
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2021-04-07
 adopted: 1985-12-16
 in_force: 1986-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/403.151"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2752/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3064/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Schulgeld
 
-Vom 16.12.1985 (Stand 01.01.2020)
+Vom 16.12.1985 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -89,7 +89,7 @@ beschliesst:
 
 <sup>1</sup> Zuständig für die Festsetzung des Schulgeldes sowie für den Entscheid über die Erhebung oder Übernahme eines solchen ist der Gemeinderat.
 
-<sup>2</sup> Können sich die Beteiligten über die Tragung des Schulgelds, über dessen Höhe oder in Bezug auf den Anteil der Kosten für den Personalaufwand über die Berechnungsweise und den Stichtag nicht einigen, entscheidet hierüber in erster Instanz das Departement Bildung, Kultur und Sport. Dieser Entscheid ist an den Regierungsrat weiterziehbar.
+<sup>2</sup> Können sich die beteiligten Schulträger über die Tragung des Schulgelds, über dessen Höhe oder in Bezug auf den Anteil der Kosten für den Personalaufwand über die Berechnungsweise und den Stichtag nicht einigen, entscheidet hierüber in erster Instanz das Departement Bildung, Kultur und Sport. Dieser Entscheid ist an den Regierungsrat weiterziehbar.
 
 #### § 7
 
