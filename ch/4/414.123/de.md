@@ -3,18 +3,18 @@ sr: "414.123"
 title: Verordnung vom 5. Dezember 2014 über das Finanz- und Rechnungswesen des ETH-Bereichs
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/770"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2014-12-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2014-770-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-770-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Finanz- und Rechnungswesen des ETH-Bereichs
 
-vom 5. Dezember 2014 (Stand am 1. Januar 2021)
+vom 5. Dezember 2014 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -62,9 +62,13 @@ Lässt sich bei Erbschaften, Vermächtnissen und Schenkungen (Zuwendungen), die 
 
 #### Art. 2b
 
-[^2b-1]
+**Erträge aus Energieverkauf**[^2b-1]
 
-[^2b-1]: Eingefügt durch Ziff. II der V vom 5. April 2017 ([AS 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Aufgehoben durch Ziff. I der V vom 4. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
+<sup>1</sup> Wenn die ETH oder die Forschungsanstalten nicht selbst benötigte Energie verkaufen, sind 90 Prozent der Bruttoerträge der allgemeinen Bundeskasse abzuliefern.
+
+<sup>2</sup> Der ETH-Rat budgetiert und begründet im Rahmen des Voranschlags die erwarteten Erträge aus dem Energieverkauf.
+
+[^2b-1]: Eingefügt durch Ziff. II der V vom 5. April 2017 ([AS 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 605](https://fedlex.data.admin.ch/eli/oc/2021/605)).
 
 ## 2. Kapitel: Rechnungslegung
 
@@ -78,7 +82,7 @@ Für die Rechnungslegung gelten folgende Grundsätze:
 
 - a. *Wesentlichkeit:* Es sind sämtliche Informationen offenzulegen, die für eine rasche und umfassende Beurteilung der Vermögens-, der Finanz- und der Ertragslage notwendig sind und Entscheide der beschliessenden Behörde beeinflussen können.
 - b. *Vollständigkeit:* Es sind alle Aufwände und Erträge sowie Investitionsausgaben und Investitionseinnahmen aufzuführen.
-- c. *Verstän**d**lichkeit:* Die Informationen müssen klar und nachvollziehbar sein.
+- c. *Verständlichkeit:* Die Informationen müssen klar und nachvollziehbar sein.
 - d. *Stetigkeit:* Die Grundsätze der Rechnungslegung und der Buchführung sollen so weit als möglich über einen längeren Zeitraum unverändert bleiben und die Vergleichbarkeit ermöglichen.
 - e. *Bruttodarstellung:* Aufwände und Erträge sowie Investitionsausgaben und Investitionseinnahmen sind getrennt voneinander ohne gegenseitige Verrechnung in voller Höhe auszuweisen.
 
@@ -445,7 +449,7 @@ Der ETH-Rat informiert das Generalsekretariat des WBF und die EFV über wesentli
 
 <sup>4</sup> Er kann das Budget in einem Bericht veröffentlichen.
 
-### 4*a*. Kapitel:**** Nutzung bundeseigener Grundstücke durch Dritte
+### 4*a*. Kapitel: Nutzung bundeseigener Grundstücke durch Dritte
 
 [^chap4-chap4a-1]
 
@@ -579,7 +583,7 @@ Die Verordnung des ETH-Rates vom 5. Februar 2004[^38-1] über das Rechnungswesen
 
 **Änderung anderer Erlasse**
 
-...[^39-1]
+…[^39-1]
 
 [^39-1]: Die Änderungen können unter [AS 2014 4579](https://fedlex.data.admin.ch/eli/oc/2014/770)konsultiert werden.
 
@@ -626,7 +630,7 @@ Anhang 1
 <tr><td>IPSAS 18</td><td>Die ETH und die Forschungsanstalten haben keine Segmentberichterstattung zu erstellen. Der ETH-Rat kann in seinen Weisungen etwas anderes festlegen.</td></tr>
 </table>
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 4 Abs. 2 und 16 Abs. 5)
 

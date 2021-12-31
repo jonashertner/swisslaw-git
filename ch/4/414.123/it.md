@@ -3,18 +3,18 @@ sr: "414.123"
 title: Ordinanza del 5 dicembre 2014 sulle finanze e sulla contabilità nel settore dei PF
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/770"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2014-12-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2014-770-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-770-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle finanze e sulla contabilità nel settore dei PF
 
-del 5 dicembre 2014 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 5 dicembre 2014 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -62,9 +62,13 @@ Se la destinazione di una liberalità (eredità, legato o donazione) vincolata a
 
 #### Art. 2b
 
-[^2b-1]
+**Ricavi della vendita di energia**[^2b-1]
 
-[^2b-1]: Introdotto dal n. II dell’O del 5 apr. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Abrogato dal n. dal n. I dell’O del 4 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
+<sup>1</sup> Se i PF o gli istituti di ricerca vendono l’energia che non utilizzano, il 90 per cento dei ricavi lordi è versato alla Cassa federale.
+
+<sup>2</sup> Il Consiglio dei PF iscrive e motiva nel preventivo i previsti ricavi derivanti dalla vendita di energia.
+
+[^2b-1]: Introdotto dal n. II dell’O del 5 apr. 2017 ([RU 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 605](https://fedlex.data.admin.ch/eli/oc/2021/605)).
 
 ## Capitolo 2: Presentazione dei conti
 
@@ -445,7 +449,7 @@ Il Consiglio dei PF informa la Segreteria generale del DEFR e l’AFF in caso di
 
 <sup>4</sup> Può pubblicare il preventivo in un rapporto.
 
-### Capitolo 4*a*:**** Utilizzazione da parte di terzi di fondi di proprietà della Confederazione
+### Capitolo 4*a*: Utilizzazione da parte di terzi di fondi di proprietà della Confederazione
 
 [^chap4-chap4a-1]
 
@@ -579,7 +583,7 @@ L’ordinanza del Consiglio dei PF del 5 febbraio 2004[^38-1] sulla contabilità
 
 **Modifica di altri atti normativi**
 
-...*[^39-1]*
+...[^39-1]
 
 [^39-1]: Le mod. possono essere consultate alla [RU 2014 4579](https://fedlex.data.admin.ch/eli/oc/2014/770).
 
@@ -626,7 +630,7 @@ Allegato 1
 <tr><td>IPSAS 18</td><td>I PF e gli istituti di ricerca non sono tenuti a redigere un rapporto per segmenti. Il Consiglio dei PF può stabilire altrimenti nelle sue istruzioni.</td></tr>
 </table>
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 4 cpv. 2 e 16 cpv. 5)
 

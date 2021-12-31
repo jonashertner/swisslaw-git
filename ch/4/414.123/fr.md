@@ -3,18 +3,18 @@ sr: "414.123"
 title: Ordonnance du 5 décembre 2014 sur les finances et la comptabilité du domaine des EPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/770"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2014-12-05
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-770-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/770/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-770-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/770/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les finances et la comptabilité du domaine des EPF
 
-du 5 décembre 2014 (Etat le 1<sup>er</sup> janvier 2021)
+du 5 décembre 2014 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -62,9 +62,13 @@ Lorsque l’affectation prévue d’une libéralité (succession, leg ou donatio
 
 #### Art. 2b
 
-[^2b-1]
+**Revenus de la vente d’énergie**[^2b-1]
 
-[^2b-1]: Introduit par le ch. II de l’O du 5 avr. 2017 ([RO 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Abrogé par le ch. I de l’O du 4 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4987](https://fedlex.data.admin.ch/eli/oc/2020/885)).
+<sup>1</sup> Lorsque les EPF ou les établissements de recherche vendent de l’énergie dont ils n’ont pas l’usage, 90 % des revenus bruts issus de cette vente sont versés à la caisse fédérale.
+
+<sup>2</sup> Le Conseil des EPF prévoit et motive dans le cadre du budget les revenus escomptés de la vente d’énergie.
+
+[^2b-1]: Introduit par le ch. II de l’O du 5 avr. 2017 ([RO 2017 2555](https://fedlex.data.admin.ch/eli/oc/2017/242)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 605](https://fedlex.data.admin.ch/eli/oc/2021/605)).
 
 ## Chapitre 2 Présentation des comptes
 
@@ -445,7 +449,7 @@ Le Conseil des EPF informe le Secrétariat général du DEFR et l’AFF des évo
 
 <sup>4</sup> Il peut publier le budget dans un rapport.
 
-### Chapitre 4*a***** Usage par des tiers de biens-fonds propriété de la Confédération
+### Chapitre 4*a* Usage par des tiers de biens-fonds propriété de la Confédération
 
 [^chap4-chap4a-1]
 
@@ -626,7 +630,7 @@ Annexe 1
 <tr><td>IPSAS 18</td><td>Les EPF et les établissements de recherche ne doivent pas établir de rapport sectoriel. Le Conseil des EPF peut en décider autrement dans ses directives.</td></tr>
 </table>
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 4, al. 2, et 16, al. 5)
 
