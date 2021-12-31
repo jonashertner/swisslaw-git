@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 sur la réception par type des véhicules rout
 short: ORT
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: fr
-version: 2019-02-05
+version: 2022-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20190205/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20190205-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20190205/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20190205/fr"
 
 (ORT)
 
-du 19 juin 1995 (Etat le 5 février 2019)
+du 19 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -49,7 +49,7 @@ Au sens de la présente ordonnance, on entend par:
 
 - a.[^2-1] type: l’échantillon sur lequel se fonde la réception de véhicules, de châssis, de systèmes de véhicules, de composants de véhicules, d’objets d’équipement ou de dispositifs de protection fabriqués en série; un type peut être divisé en variantes et en versions;
 - b. réception par type: l’attestation officielle selon laquelle un type est conforme aux exigences techniques requises en la matière et se prête à l’usage auquel il est destiné;
-- c. réception générale-UE[^2-2]: la réception par type d’un véhicule, délivrée par une autorité d’un Etat membre de l’UE, conformément au droit de l’UE;
+- c. réception générale-UE[^2-2]: la réception par type d’un véhicule, délivrée par une autorité d’un État membre de l’UE, conformément au droit de l’UE;
 - d. réception partielle-UE ou CEE-ONU[^2-3]: la réception par type d’un système de véhicule, d’un composant de véhicule, d’un objet d’équipement ou d’un dispositif de protection délivrée par une autorité, conformément au droit de l’UE ou de la CEE-ONU;
 - e. certificat de conformité de l’UE: la confirmation établie par le constructeur, selon laquelle un véhicule déterminé est en tous points conforme à la réception générale-UE;
 - f.[^2-4] déclaration de conformité: la déclaration écrite du constructeur, selon laquelle un composant de véhicule, un système de véhicule, un objet d’équipement ou un dispositif de protection satisfait aux exigences techniques spécifiques requises pour l’admission en Suisse;
@@ -103,9 +103,9 @@ Une fiche de données est délivrée en lieu et place d’une réception par typ
 
 <sup>1</sup> Les véhicules et châssis importés pour un usage personnel sont dispensés de la réception par type et peuvent être annoncés directement à l’autorité cantonale d’immatriculation.[^4-1]
 
-<sup>1bis</sup> …[^4-2]
+<sup>1bis</sup> ...[^4-2]
 
-<sup>2</sup> …[^4-3]
+<sup>2</sup> ...[^4-3]
 
 <sup>3</sup> En ce qui concerne les constructeurs suisses, sont dispensés de la réception par type, par année, cinq véhicules ou châssis du même type, au maximum, de la même variante ou de la même version émanant de leur propre production.[^4-4]
 
@@ -236,7 +236,7 @@ La réception par type est délivrée si le type de véhicule présente toutes l
 
 La déclaration de conformité est reconnue lorsque:
 
-- a.[^14-1] le constructeur dispose de l’infrastructure nécessaire à l’exécution de l’expertise ou qu’il confie cette tâche à un organe d’expertise agréé ou désigné par l’autorité compétente de l’Etat concerné;
+- a.[^14-1] le constructeur dispose de l’infrastructure nécessaire à l’exécution de l’expertise ou qu’il confie cette tâche à un organe d’expertise agréé ou désigné par l’autorité compétente de l’État concerné;
 - b.[^14-2] le constructeur effectue un contrôle systématique de qualité dans l’entreprise (attesté p. ex. par un certificat de qualité ISO 9001, resp. EN 29001) et
 - c. l’office fédéral a accès aux données et aux résultats des expertises.
 
@@ -247,7 +247,7 @@ La déclaration de conformité est reconnue lorsque:
 
 **Réception selon le droit étranger ou international**
 
-Des réceptions délivrées par des Etats étrangers selon le droit national ou international sont reconnues lorsque les prescriptions appliquées sont équivalentes aux prescriptions suisses[^15-1]. Le requérant doit en apporter la preuve lors de l’inscription.
+Des réceptions délivrées par des États étrangers selon le droit national ou international sont reconnues lorsque les prescriptions appliquées sont équivalentes aux prescriptions suisses[^15-1]. Le requérant doit en apporter la preuve lors de l’inscription.
 
 [^15-1]: OETV du 19 juin 1995 ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)), OETV 1 du 19 juin 1995 ([RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)), OETV 2 du 19 juin 1995 ([RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)), OETV 3 du 2 sept. 1998 ([RS 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)) (voir [RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 
@@ -328,7 +328,7 @@ Les prescriptions et les documents relatifs aux expertises se fondent sur l’or
 
 <sup>2</sup> Il est responsable de l’état de l’objet à expertiser quant à sa conformité à la série de fabrication et à la sécurité de fonctionnement et, si la formule d’inscription le précise, également de l’arrimage sûr du chargement.
 
-<sup>3</sup> Les véhicules, les châssis et les systèmes de véhicules seront présentés par une personne capable de fournir des renseignements sur leurs caractéristiques techniques et sur l’équipement. …[^20-1]
+<sup>3</sup> Les véhicules, les châssis et les systèmes de véhicules seront présentés par une personne capable de fournir des renseignements sur leurs caractéristiques techniques et sur l’équipement. ...[^20-1]
 
 [^20-1]: Phrase abrogée par le ch. I de l’O du 6 sept. 2000, avec effet au 1<sup>er</sup> oct. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
 
@@ -350,7 +350,7 @@ L’organe d’expertise détermine le lieu de l’expertise. Dans la mesure où
 
 **Exécution de l’expertise technique de composants de véhicules, d’objets d’équipement et de dispositifs de protection**
 
-<sup>1</sup> A l’occasion de l’expertise technique de composants de véhicules, d’objets d’équipement et de dispositifs de protection, l’organe d’expertise peut conserver un modèle comme pièce justificative ou élément de comparaison.
+<sup>1</sup> À l’occasion de l’expertise technique de composants de véhicules, d’objets d’équipement et de dispositifs de protection, l’organe d’expertise peut conserver un modèle comme pièce justificative ou élément de comparaison.
 
 <sup>2</sup> Aucune indemnité ne peut être requise pour des objets endommagés ou devenus inutilisables lors de l’expertise technique. Sur demande, les objets seront restitués au requérant.
 
@@ -506,7 +506,7 @@ Si l’office fédéral constate qu’un type réceptionné ne présente pas tou
 
 [^31c-1]: Introduit par le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 
-## Chapitre 4 Emoluments
+## Chapitre 4 Émoluments
 
 #### Art. 32
 
@@ -551,9 +551,9 @@ Lorsque des circonstances particulières le justifient, l’office fédéral peu
 L’office fédéral peut majorer l’émolument, selon le tarif de l’annexe 3, de 50 % au plus, notamment lorsque:
 
 - a.[^37-1] à la demande dûment motivée du requérant, les actes sont traités exceptionnellement à titre prioritaire;
-- b.[^37-2] …
+- b.[^37-2] ...
 - c. le temps consacré au traitement administratif des documents est particulièrement élevé;
-- d.[^37-3] …
+- d.[^37-3] ...
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)).
 [^37-2]: Abrogée par le ch. I de l’O du 6 sept. 2000, avec effet au 1<sup>er</sup> oct. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
@@ -587,11 +587,11 @@ L’office fédéral peut, pour des raisons importantes, réduire ou remettre le
 
 **Décision**
 
-A la demande de l’assujetti, l’émolument fera l’objet d’une décision formelle.
+À la demande de l’assujetti, l’émolument fera l’objet d’une décision formelle.
 
 #### Art. 41
 
-**Echéance**
+**Échéance**
 
 <sup>1</sup>
 
@@ -624,7 +624,7 @@ L’émolument est échu:
 
 #### Art. 44
 
-**…[^44-1]**
+**...[^44-1]**
 
 Est punie de l’amende, pour autant qu’aucune autre disposition pénale plus sévère ne soit applicable, toute personne qui:[^44-2]
 
@@ -787,11 +787,11 @@ Annexe 3*[^t-3]*
 
 (art. 32)
 
-## Emoluments
+## Émoluments
 
-[^t-3]: Mise à jour selon le ch. II al. 1 de l’O du 2 sept. 1998 ([RO 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. II des O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)) et du 10 juin 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)) et le ch. II 9 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du 6 sept. 2000 ([RO 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), le ch. II des O du 21 août 2002 ([RO 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)) et du 10 juin 2005 ([RO 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), le ch. II al. 1 des O du 29 nov. 2006 ([RO 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), du 14 oct. 2009 ([RO 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), le ch. II 9 de l’annexe 4 à l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) et le ch. I de l’O du 8 sept. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
 
-### 1 Emoluments pour la réception par type de véhicules et de châssis
+### 1 Émoluments pour la réception par type de véhicules et de châssis
 
 L’émolument est fixé comme il suit:
 
@@ -802,9 +802,9 @@ L’émolument est fixé comme il suit:
 <tr><td>1.3 Pour une fiche supplémentaire, des compléments, adjonctions et corrections</td><td>200.–</td></tr>
 </table>
 
-### 2 …
+### 2 ...
 
-### 3 Emoluments additionnels pour la réception par type de véhicules et de châssis
+### 3 Émoluments additionnels pour la réception par type de véhicules et de châssis
 
 Pour chaque véhicule immatriculé, l’émolument additionnel est fixé comme il suit:
 
@@ -817,7 +817,7 @@ Pour chaque véhicule immatriculé, l’émolument additionnel est fixé comme i
 
 [^annex3-lvlu1-lvl3-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
-### 4 Emoluments pour la réception par type de composants et de systèmes de véhicules, d’objets d’équipement et de dispositifs de protection
+### 4 Émoluments pour la réception par type de composants et de systèmes de véhicules, d’objets d’équipement et de dispositifs de protection
 
 L’émolument est fixé comme il suit:
 
@@ -825,14 +825,14 @@ L’émolument est fixé comme il suit:
 <tr><td></td><td>Francs</td></tr>
 <tr><td>4.1 Pour les réceptions par type ayant une validité nationale</td><td>100.–</td></tr>
 <tr><td>4.2 Pour les réceptions par type ayant une validité internationale</td><td>300.–</td></tr>
-<tr><td>4.3 Elaboration, parallèlement à la réception par type, d’une fiche de données pour les dispositifs silencieux d’échappement de remplacement et les catalyseurs de remplacement avec une évaluation de conformité, une attestation de conformité ou une réception équivalente selon la loi suisse pour la saisie, pour chaque réception par type</td><td>50.–</td></tr>
+<tr><td>4.3 Élaboration, parallèlement à la réception par type, d’une fiche de données pour les dispositifs silencieux d’échappement de remplacement et les catalyseurs de remplacement avec une évaluation de conformité, une attestation de conformité ou une réception équivalente selon la loi suisse pour la saisie, pour chaque réception par type</td><td>50.–</td></tr>
 </table>
 
-### 5 Emoluments en fonction du temps consacré
+### 5 Émoluments en fonction du temps consacré
 
 Pour l’expertise administrative des documents, l’émolument varie entre 70 et 120 francs par heure de travail. Il dépend de l’ampleur et de la difficulté du travail et s’applique aux prestations qui ne correspondent pas à l’étendue ordinaire de l’expertise.
 
-### 6 Emoluments pour la vérification de conformité
+### 6 Émoluments pour la vérification de conformité
 
 L’émolument est fixé comme il suit:
 
@@ -840,23 +840,6 @@ L’émolument est fixé comme il suit:
 <tr><td></td><td>Francs</td></tr>
 <tr><td>6.1 Forfait pour la vérification de conformité, pour une durée de 4 heures au plus</td><td>500.–</td></tr>
 <tr><td>6.2 pour chaque heure ou fraction d’heure supplémentaire</td><td>100.–</td></tr>
-</table>
-
-### 7 …
-
-### 8 Autres émoluments
-
-L’émolument est fixé comme il suit:
-
-<table>
-<tr><td>8.1 …</td><td></td></tr>
-<tr><td>8.2 Remises de données relatives aux émissions et à la consommation de carburant sur des listes ou des supports informatiques Par liste ou support de données, en fonction du volume de celles-ci</td><td>20.– à 100.–</td></tr>
-<tr><td>8.3 CD-ROM des données relatives à la réception par type</td><td></td></tr>
-<tr><td>Emolument de base pour la préparation d’une banque de données spécifique du client</td><td>Selon le volume de travail</td></tr>
-<tr><td>Emolument de base par CD (y compris trois modules de banque de données au max.) en fonction du volume des données</td><td>120.– à 180.–</td></tr>
-<tr><td>Pour chaque module de banque de données supplémentaire, en fonction du volume des données</td><td>40.– à 60.–</td></tr>
-<tr><td>8.4 Remise de données relatives aux types de véhicules mis sur le marché helvétique à une autorité cantonale, par année (y compris 6 mises à jour)</td><td>150.–</td></tr>
-<tr><td>8.5 Exploitations spéciales sur des listes ou des supports de données</td><td>Selon le volume du travail</td></tr>
 </table>
 
 Annexe 4*[^t-4]*

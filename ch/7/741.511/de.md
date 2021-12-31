@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die Typengenehmigung von Strassenfahrz
 short: TGV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: de
-version: 2019-02-05
+version: 2022-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20190205/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20190205-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20190205/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20190205/de"
 
 (TGV)
 
-vom 19. Juni 1995 (Stand am 5. Februar 2019)
+vom 19. Juni 1995 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -789,7 +789,7 @@ Anhang 3*[^t-3]*
 
 ## Gebühren
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Sept. 1998 ([AS 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), Ziff. II der V vom 21. Aug. 2002 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), Ziff. II der V vom 10. Juni 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)) und Ziff. II Abs. 1 vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), vom 14. Okt. 2009 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)) und Anhang 4 Ziff. II 9 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 6. Sept. 2000 ([AS 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), Ziff. II der V vom 21. Aug. 2002 ([AS 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), Ziff. II der V vom 10. Juni 2005 ([AS 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)) und Ziff. II Abs. 1 vom 29. Nov. 2006 ([AS 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), vom 14. Okt. 2009 ([AS 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), Anhang 4 Ziff. II 9 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) und Ziff. I der V vom 8. Sept. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
 
 <table>
 <tr><td>1</td><td>Gebühren für die Typengenehmigung von Fahrzeugen und Fahrgestellen</td><td></td></tr>
@@ -798,7 +798,7 @@ Anhang 3*[^t-3]*
 <tr><td>1.1</td><td>die administrative Verarbeitung der Unterlagen</td><td>200.––</td></tr>
 <tr><td>1.2</td><td>die Erteilung der Typengenehmigung bzw. des Datenblattes</td><td>100.––</td></tr>
 <tr><td>1.3</td><td>Zusatzkarte, Ergänzungen, Nachträge und Korrekturen</td><td>200.––</td></tr>
-<tr><td>2</td><td>…</td><td></td></tr>
+<tr><td>2</td><td>...</td><td></td></tr>
 <tr><td>3</td><td>Zusatzgebühren für die Typengenehmigung von Fahrzeugen und Fahrgestellen</td><td></td></tr>
 <tr><td></td><td>Die Zusatzgebühr beträgt je immatrikuliertes Fahrzeug:</td><td></td></tr>
 <tr><td>3.1</td><td>Motorwagen</td><td>5.50</td></tr>
@@ -818,19 +818,6 @@ Anhang 3*[^t-3]*
 <tr><td></td><td>Die Gebühr beträgt für:</td><td></td></tr>
 <tr><td>6.1</td><td>Konformitätsüberprüfungen von bis zu 4 Stunden Zeitaufwand, pauschal</td><td>500. —</td></tr>
 <tr><td>6.2</td><td>jede weitere angebrochene Arbeitsstunde</td><td>100. —</td></tr>
-<tr><td>7</td><td>…</td><td></td></tr>
-<tr><td>8</td><td>Übrige Gebühren</td><td></td></tr>
-<tr><td></td><td>Die Gebühr beträgt für:</td><td></td></tr>
-<tr><td>8.1</td><td>…</td><td></td></tr>
-<tr><td>8.2</td><td>Abgabe von Emissions- und Treibstoffverbrauchsdaten auf Liste oder EDV-Trägern</td><td></td></tr>
-<tr><td></td><td>Pro Liste oder Träger je nach Datenumfang</td><td>20.— bis 100.—</td></tr>
-<tr><td>8.3</td><td>Typengenehmigungsdaten CD-ROM</td><td></td></tr>
-<tr><td></td><td>Grundgebühr für das Vorbereiten einer kundenspezifischen Datenbank</td><td>Nach Zeitaufwand</td></tr>
-<tr><td></td><td></td><td>Franken</td></tr>
-<tr><td></td><td>Grundgebühr pro CD (inbegriffen max. drei Datenbank-Module), je nach Datenumfang</td><td>120. — bis 180. —</td></tr>
-<tr><td></td><td>jedes weitere Datenbank-Modul, je nach Datenumfang</td><td>40. — bis 60. —</td></tr>
-<tr><td>8.4</td><td>Abgabe von Datensätzen zu den in der Schweiz in Handel gebrachten Fahrzeugtypen an eine kantonale Behörde, pro Jahr (inkl. 6 Updates)</td><td>150.—</td></tr>
-<tr><td>8.5</td><td>Spezielle Auswertungen auf Listen oder Datenträgern</td><td>Nach Zeitaufwand</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)

@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 concernente l'approvazione del tipo di veic
 short: OATV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: it
-version: 2019-02-05
+version: 2022-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20190205/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20190205-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20190205/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20190205/it"
 
 (OATV)
 
-del 19 giugno 1995 (Stato 5 febbraio 2019) (Stato 5 febbraio 2019)
+del 19 giugno 1995 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -788,47 +788,34 @@ Allegato 3*[^t-3]*
 
 ## Emolumenti
 
-[^t-3]: Aggiornata dal n. II cpv. 1 dell’O del 2 set. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)), dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dal n. II dell’O del 10 giu. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)) e dal n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^t-3]: Aggiornata dal n. II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dal n. II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dal n. II dell’O del 10 giu. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), dal n. II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dal n. II 10 dell’all. 4 all’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dal n. I dell’O dell’8 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
 
 <table>
-<tr><td>1</td><td colspan="2">Emolumenti per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
-<tr><td></td><td colspan="2">L’emolumento ammonta a:</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>Fr.</td></tr>
-<tr><td>1.1</td><td colspan="2">trattamento amministrativo</td><td>200.–</td></tr>
-<tr><td>1.2</td><td colspan="2">rilascio dell’approvazione del tipo o della scheda tecnica</td><td>100.–</td></tr>
-<tr><td>1.3</td><td colspan="2">carta supplementare, complementi, aggiunte e correzioni</td><td>200.–</td></tr>
-<tr><td>2</td><td colspan="2">...</td><td></td></tr>
-<tr><td>3</td><td colspan="2">Emolumenti suppletivi per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
-<tr><td></td><td colspan="2">L’emolumento suppletivo ammonta per ogni veicolo immatricolato:</td><td></td></tr>
-<tr><td>3.1</td><td colspan="2">Autoveicoli</td><td>5.50</td></tr>
-<tr><td>3.2</td><td colspan="2">Rimorchi, motoveicoli e altri veicoli a motore</td><td>4.–</td></tr>
-<tr><td>3.3</td><td colspan="2">Ciclomotori e veicoli equiparati ai ciclomotori</td><td>1.50</td></tr>
-<tr><td></td><td colspan="2">Come prova dell’avvenuto pagamento dell’emolumento suppletivo per veicoli a motore e rimorchi serve una marca di controllo che il titolare dell’approvazione del tipo (secondo l’allegato 1 n. 1.1) deve incollare sul rapporto d’esame per veicoli. Rapporti d’esame senza marca di controllo sono respinti. Per approvazioni del tipo eseguite volontariamente, non è necessario incollare la marca di controllo sul rapporto d’esame. L’emolumento suppletivo per ciclomotori e per i veicoli equiparati ai ciclomotori è riscosso dal servizio di omologazione presso il titolare dell’approvazione del tipo sulla base di apposite liste (art. 92 cpv. 4 OAC[^annex3-lvlu1-1]). L’Ufficio federale può consultare la dichiarazione doganale.</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>Fr.</td></tr>
-<tr><td>4</td><td colspan="2">Emolumenti per le approvazioni del tipo di parti staccate di veicoli, sistemi di veicoli, accessori d’equipaggiamento e dispositivi di protezione</td><td></td></tr>
-<tr><td></td><td colspan="2">L’emolumento ammonta a:</td><td></td></tr>
-<tr><td>4.1</td><td colspan="2">Approvazioni del tipo con validità nazionale</td><td>100.–</td></tr>
-<tr><td>4.2</td><td colspan="2">Approvazioni del tipo con validità internazionale</td><td>300.–</td></tr>
-<tr><td>4.3</td><td colspan="2">Elaborazione di un set dati di silenziatori di sostituzione e catalizzatori di sostituzione con una valutazione della conformità o una certificazione della conformità oppure con un’approvazione equivalente secondo la legislazione svizzera al fine di registrarlo sull’approvazione del tipo</td><td></td></tr>
-<tr><td></td><td colspan="2">Per approvazione del tipo elaborata</td><td>50.–</td></tr>
-<tr><td>5</td><td colspan="2">Emolumenti in funzione del tempo impiegato</td><td></td></tr>
-<tr><td></td><td colspan="2">Per l’esame amministrativo di giustificativi e documenti l’emolumento varia tra 70 e 120 franchi per ora di lavoro impiegata. Esso dipende dal volume e dalla difficoltà del lavoro e si applica alle prestazioni che non corrispondono al volume ordinario dell’esame.</td><td></td></tr>
-<tr><td>6</td><td colspan="2">Emolumenti per l’esame della conformità</td><td></td></tr>
-<tr><td></td><td colspan="2">L’emolumento ammonta a:</td><td></td></tr>
-<tr><td>6.1</td><td colspan="2">Forfait per esami della conformità della durata fino a 4 ore</td><td>500.–</td></tr>
-<tr><td>7</td><td>…</td><td colspan="2"></td></tr>
-<tr><td>8</td><td>Altri emolumenti</td><td colspan="2"></td></tr>
-<tr><td></td><td>L’emolumento ammonta a:</td><td colspan="2"></td></tr>
-<tr><td>8.1</td><td>…</td><td colspan="2"></td></tr>
-<tr><td>8.2</td><td>Consegna di dati d’emissione e di consumo di carburante su lista o supporto informatico</td><td colspan="2"></td></tr>
-<tr><td></td><td>Per lista o supporto di dati, in funzione del loro volume</td><td colspan="2">da 20.– a 100.–</td></tr>
-<tr><td>8.3</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>Emolumento di base per l’allestimento di una banca dati specifica del cliente</td><td colspan="2">In funzione del tempo impiegato</td></tr>
-<tr><td></td><td>Emolumento di base per CD (inclusi al massimo tre moduli di banche dati), in funzione del volume dei dati</td><td colspan="2">da 120.– a 180.–</td></tr>
-<tr><td></td><td>Per ogni ulteriore modulo di banca dati, in funzione del volume dei dati</td><td colspan="2">da 40.– a 60.–</td></tr>
-<tr><td></td><td colspan="2"></td><td>Fr.</td></tr>
-<tr><td>8.4</td><td>Consegna a un’autorità cantonale di dati relativi ai tipi di veicoli messi in commercio in Svizzera, per anno (incl. 6 aggiornamenti)</td><td colspan="2">150.–</td></tr>
-<tr><td>8.5</td><td>Elaborazioni speciali su liste o supporti di dati</td><td colspan="2">In funzione del tempo impiegato</td></tr>
+<tr><td>1</td><td>Emolumenti per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
+<tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
+<tr><td></td><td></td><td>Fr.</td></tr>
+<tr><td>1.1</td><td>trattamento amministrativo</td><td>200.–</td></tr>
+<tr><td>1.2</td><td>rilascio dell’approvazione del tipo o della scheda tecnica</td><td>100.–</td></tr>
+<tr><td>1.3</td><td>carta supplementare, complementi, aggiunte e correzioni</td><td>200.–</td></tr>
+<tr><td>2</td><td>...</td><td></td></tr>
+<tr><td>3</td><td>Emolumenti suppletivi per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
+<tr><td></td><td>L’emolumento suppletivo ammonta per ogni veicolo immatricolato:</td><td></td></tr>
+<tr><td>3.1</td><td>Autoveicoli</td><td>5.50</td></tr>
+<tr><td>3.2</td><td>Rimorchi, motoveicoli e altri veicoli a motore</td><td>4.–</td></tr>
+<tr><td>3.3</td><td>Ciclomotori e veicoli equiparati ai ciclomotori</td><td>1.50</td></tr>
+<tr><td></td><td>Come prova dell’avvenuto pagamento dell’emolumento suppletivo per veicoli a motore e rimorchi serve una marca di controllo che il titolare dell’approvazione del tipo (secondo l’allegato 1 n. 1.1) deve incollare sul rapporto d’esame per veicoli. Rapporti d’esame senza marca di controllo sono respinti. Per approvazioni del tipo eseguite volontariamente, non è necessario incollare la marca di controllo sul rapporto d’esame. L’emolumento suppletivo per ciclomotori e per i veicoli equiparati ai ciclomotori è riscosso dal servizio di omologazione presso il titolare dell’approvazione del tipo sulla base di apposite liste (art. 92 cpv. 4 OAC[^annex3-lvlu1-1]). L’Ufficio federale può consultare la dichiarazione doganale.</td><td></td></tr>
+<tr><td></td><td></td><td>Fr.</td></tr>
+<tr><td>4</td><td>Emolumenti per le approvazioni del tipo di parti staccate di veicoli, sistemi di veicoli, accessori d’equipaggiamento e dispositivi di protezione</td><td></td></tr>
+<tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
+<tr><td>4.1</td><td>Approvazioni del tipo con validità nazionale</td><td>100.–</td></tr>
+<tr><td>4.2</td><td>Approvazioni del tipo con validità internazionale</td><td>300.–</td></tr>
+<tr><td>4.3</td><td>Elaborazione di un set dati di silenziatori di sostituzione e catalizzatori di sostituzione con una valutazione della conformità o una certificazione della conformità oppure con un’approvazione equivalente secondo la legislazione svizzera al fine di registrarlo sull’approvazione del tipo</td><td></td></tr>
+<tr><td></td><td>Per approvazione del tipo elaborata</td><td>50.–</td></tr>
+<tr><td>5</td><td>Emolumenti in funzione del tempo impiegato</td><td></td></tr>
+<tr><td></td><td>Per l’esame amministrativo di giustificativi e documenti l’emolumento varia tra 70 e 120 franchi per ora di lavoro impiegata. Esso dipende dal volume e dalla difficoltà del lavoro e si applica alle prestazioni che non corrispondono al volume ordinario dell’esame.</td><td></td></tr>
+<tr><td>6</td><td>Emolumenti per l’esame della conformità</td><td></td></tr>
+<tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
+<tr><td>6.1</td><td>Forfait per esami della conformità della durata fino a 4 ore</td><td>500.–</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
