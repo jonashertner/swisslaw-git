@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 décembre 2008 sur le transfert de la route au rail
 short: LTTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/727"
 language: fr
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20200926/fr/xml/fedlex-data-admin-ch-eli-cc-2009-727-20200926-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20200926/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-727-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20200926/fr"
 
 (Loi sur le transfert du transport de marchandises, LTTM)
 
-du 19 décembre 2008 (Etat le 26 septembre 2020)
+du 19 décembre 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -110,7 +110,7 @@ Le produit net de la Bourse du transit alpin sert notamment à financer des mesu
 
 <sup>1</sup> Afin que l’objectif du transfert soit atteint, la Confédération peut adopter des mesures de promotion. Elle encouragera en premier lieu le trafic combiné non accompagné sur grandes distances. Ces mesures ne doivent pas avoir d’effets discriminatoires sur les entreprises suisses ou étrangères pratiquant le transport de marchandises.
 
-<sup>2</sup> Le montant moyen des indemnités accordées par envoi transporté doit diminuer chaque année. Cette disposition n’est pas applicable en 2020 ni en 2021.[^8-1]
+<sup>2</sup> Le montant moyen des indemnités accordées par envoi transporté doit diminuer chaque année. ...[^8-1]
 
 <sup>3</sup> La promotion du trafic combiné accompagné (chaussée roulante) ne doit être réalisée qu’en complément de celle du trafic combiné non accompagné.
 

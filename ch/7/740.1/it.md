@@ -4,11 +4,11 @@ title: "Legge federale del 19 dicembre 2008 concernente il trasferimento dalla s
 short: LTrasf
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/727"
 language: it
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20200926/it/xml/fedlex-data-admin-ch-eli-cc-2009-727-20200926-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20200926/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-727-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20200926/it"
 
 (Legge sul trasferimento del traffico merci, LTrasf)
 
-del 19 dicembre 2008 (Stato 26 settembre 2020)
+del 19 dicembre 2008 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -110,7 +110,7 @@ I proventi netti della borsa dei transiti alpini sono utilizzati in particolare 
 
 <sup>1</sup> Per il raggiungimento dell’obiettivo di trasferimento, la Confederazione può adottare misure di promovimento. In tale ambito è promosso in primo luogo il traffico combinato non accompagnato su lunghe distanze. Tali misure non possono avere effetti discriminatori nei confronti delle imprese di trasporto svizzere o estere nel traffico merci.
 
-<sup>2</sup> L’importo dell’indennità media per invio trasportato deve ridursi di anno in anno. Questa disposizione non si applica agli anni 2020 e 2021.[^8-1]
+<sup>2</sup> L’importo dell’indennità media per invio trasportato deve ridursi di anno in anno. ...[^8-1]
 
 <sup>3</sup> Il traffico combinato accompagnato (strada viaggiante) può essere promosso solo a titolo complementare rispetto al traffico combinato non accompagnato.
 

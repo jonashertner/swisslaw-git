@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Dezember 2008 über die Verlagerung des alpenqueren
 short: GVVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/727"
 language: de
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20200926/de/xml/fedlex-data-admin-ch-eli-cc-2009-727-20200926-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20200926/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/727/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-727-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/727/20200926/de"
 
 (Güterverkehrsverlagerungsgesetz, GVVG)
 
-vom 19. Dezember 2008 (Stand am 26. September 2020)
+vom 19. Dezember 2008 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -110,7 +110,7 @@ Der Reinertrag der Alpentransitbörse wird insbesondere für Massnahmen zur Erre
 
 <sup>1</sup> Damit das Verlagerungsziel erreicht wird, kann der Bund Förderungsmassnahmen beschliessen. Dabei wird in erster Linie der unbegleitete kombinierte Verkehr über grosse Distanzen gefördert. Diese Massnahmen dürfen keine diskriminierenden Auswirkungen auf die schweizerischen und ausländischen Transportunternehmen im Güterverkehr haben.
 
-<sup>2</sup> Die Höhe der durchschnittlichen Abgeltung pro transportierter Sendung hat von Jahr zu Jahr abzunehmen. Diese Bestimmung ist für die Jahre 2020 und 2021 nicht anwendbar.[^8-1]
+<sup>2</sup> Die Höhe der durchschnittlichen Abgeltung pro transportierter Sendung hat von Jahr zu Jahr abzunehmen. ...[^8-1]
 
 <sup>3</sup> Der begleitete kombinierte Verkehr (Rollende Landstrasse) darf nur ergänzend zum unbegleiteten kombinierten Verkehr gefördert werden.
 
