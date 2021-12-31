@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "935.976.1"
-title: Ordonnance sur la détention et la conduite de taxis
-short: "Ordonnance sur les taxis, OT"
+title: "Ordonnance sur les taxis *"
+short: OT
 language: fr
-version: 2012-06-01
-valid_until: 2021-12-31
-version_adopted: 2012-01-11
+version: 2022-01-01
+version_adopted: 2021-09-08
 adopted: 2012-01-11
 in_force: 2012-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.976.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/949/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2532/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur la détention et la conduite de taxis
+# Ordonnance sur les taxis
 
-(Ordonnance sur les taxis, OT)
+(OT)
 
-du 11.01.2012 (état au 01.06.2012)
+du 11.01.2012 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -74,13 +73,13 @@ arrête:
 - c qui, par son passé et son comportement antérieur, offre la garantie d’un exercice de l’activité conforme au droit;
 - d qui dispose de bonnes connaissances de la langue officielle ou des langues officielles de la commune d’emplacement du taxi;
 - e qui a une situation financière régulière;
-- f qui apporte la preuve qu’elle maintient l’offre de transport durant au moins 40 semaines par année, pour chacun des taxis qu’elle exploite.
+- f …
 
-<sup>3</sup> L’organe communal compétent peut s’écarter de la disposition de l’alinéa 2, lettre f si l’offre de base en matière de service de taxi ne peut pas être garantie d’une autre manière sur le territoire de la commune.
+<sup>3</sup> …
 
-<sup>4</sup> Une personne morale se voit établir ou renouveler son autorisation de détenir un taxi si une personne physique membre d’un de ses organes et habilitée à signer remplit les conditions de l’alinéa 2.
+<sup>4</sup> Une personne morale se voit établir ou renouveler son autorisation de détenir un taxi sur demande écrite si une personne physique membre d’un de ses organes et habilitée à signer remplit les conditions de l’alinéa 2.
 
-<sup>5</sup> La disposition de l’alinéa 2, lettre f ne s’applique pas aux demandes d’autorisation de détenir une voiture tirée par des chevaux ou un cyclopousse (équipé ou non d’une assistance électrique).
+<sup>5</sup> …
 
 #### Art. 5
 
@@ -94,17 +93,19 @@ arrête:
 - b qui est autorisée à exercer cette activité sur le plan du droit des étrangers;
 - c qui, par son passé et son comportement antérieur, offre la garantie d’un exercice de l’activité conforme au droit;
 - d qui dispose de connaissances suffisantes de la langue officielle ou des langues officielles de la commune d’emplacement du taxi;
-- e qui est titulaire d’un permis de conduire pour la catégorie de véhicules correspondante et conduit un véhicule à moteur depuis plus de trois ans sans avoir compromis la sécurité routière par une infraction des règles de la circulation;
-- f qui justifie par un examen d’aptitude pratique et théorique de connaissances suffisantes du territoire de la commune d’emplacement du taxi et de son agglomération selon la définition donnée par l’Office fédéral de la statistique (état en 2000), et
+- e qui est titulaire d’un permis de conduire pour la catégorie de véhicules correspondante et qui, au cours des trois dernières années, n'a fait l'objet ni d'un retrait du permis de conduire sur la base des articles 16c, 16c<sup>bis</sup> ou 16d de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^5-1] ni d'un retrait de permis de conduire répété sur la base des articles 16a ou 16b LCR;
+- f qui justifie par un examen d’aptitude pratique et théorique de connaissances suffisantes du territoire de la commune d’emplacement du taxi et de son agglomération selon la définition donnée par l’Office fédéral de la statistique (état en 2012);
 - g qui justifie par un examen d’aptitude théorique de connaissances suffisantes des dispositions cantonales et communales relatives aux taxis.
 
 <sup>3</sup> L’autorisation est renouvelée sur demande de la personne qui en est titulaire, si elle apporte la preuve qu’elle a conduit régulièrement un taxi. A défaut, elle devra passer à nouveau l’examen d’aptitude conformément à l’alinéa 2, lettres f et g.
 
-<sup>4</sup> Concernant les examens d’aptitude, les communes peuvent collaborer et organiser des sessions ensemble. Celles qui forment une agglomération selon la définition donnée par l’Office fédéral de la statistique (état en 2000) veillent à élaborer des examens d’aptitude aussi uniformes que possible.
+<sup>4</sup> Concernant les examens d’aptitude, les communes peuvent collaborer et organiser des sessions ensemble. Celles qui forment une agglomération selon la définition donnée par l’Office fédéral de la statistique (état en 2012) veillent à élaborer des examens d’aptitude aussi uniformes que possible.
 
-<sup>5</sup> Si la personne qui dépose la demande dispose déjà d’une autorisation de conduire un taxi dans une autre commune bernoise, la commune d’emplacement du taxi peut renoncer à faire passer l’examen d’aptitude théorique mentionné à l’alinéa 2, lettre g. Si l’autre commune et la commune d’emplacement du taxi forment une agglomération selon la définition donnée par l’Office fédéral de la statistique (état en 2000), la commune d’emplacement du taxi peut en outre renoncer à faire passer l’examen d’aptitude pratique et théorique mentionné à l’alinéa 2, lettre f.
+<sup>5</sup> Si la personne qui dépose la demande dispose déjà d’une autorisation de conduire un taxi dans une autre commune bernoise, la commune d’emplacement du taxi peut renoncer à faire passer l’examen d’aptitude théorique mentionné à l’alinéa 2, lettre g. Si l’autre commune et la commune d’emplacement du taxi forment une agglomération selon la définition donnée par l’Office fédéral de la statistique (état en 2012), la commune d’emplacement du taxi peut en outre renoncer à faire passer l’examen d’aptitude pratique et théorique mentionné à l’alinéa 2, lettre f.
 
 <sup>6</sup> Les dispositions de l’alinéa 2, lettres e, f et g et de l’alinéa 3 ne s’appliquent pas aux demandes d’autorisation pour conduire des voitures tirées par des chevaux et des cyclopousses (équipés ou non d’une assistance électrique).
+
+[^5-1]: RS [741.01](https://db.clex.ch/link/Bund/741.01/fr)
 
 #### Art. 6
 
@@ -128,15 +129,14 @@ arrête:
 
 <sup>1</sup> N’offre en général pas la garantie d’exercice conforme au droit de l’activité soumise à autorisation au sens de l’article 4, alinéa 2, lettre c et de l’article 5, alinéa 2, lettre c, la personne
 
-- a qui a violé à plusieurs reprises au cours des trois dernières années les dispositions relatives aux taxis ou les dispositions fédérales sur la durée du travail et du repos des conducteurs professionnels de véhicules automobiles (art. 56 de la loi fédérale du 19 décembre 1958 sur la circulation routière, LCR)[^7-1];
+- a qui a violé à plusieurs reprises au cours des trois dernières années les dispositions relatives aux taxis ou les dispositions fédérales sur la durée du travail et du repos des conducteurs professionnels de véhicules automobiles (art. 56 LCR);
 - b qui a été condamnée à une peine privative de liberté d’au moins six mois ou à une peine pécuniaire d’au moins 180 jours-amende au cours des cinq dernières années;
 - c qui a, en tant qu’employeur, violé gravement ou de manière répétée des dispositions relevant du droit du travail ou du droit des étrangers;
 - d qui s’est vu retirer une autorisation de conduire ou de détenir un taxi au cours des trois dernières années.
 
-<sup>2</sup> Il est possible d’attester de connaissances linguistiques bonnes ou suffisantes au sens des articles 4, alinéa 2, lettre d et 5, alinéa 2, lettre d au moyen d’un diplôme de langue de niveau B1 ou A2 du Cadre européen commun de référence pour les langues du Conseil de l’Europe[^7-2] ou d’une formation linguistique équivalente ou supérieure. Si la personne concernée remplit de toute évidence les exigences linguistiques, l’autorité compétente en matière d’autorisation peut renoncer à exiger une attestation.
+<sup>2</sup> Il est possible d’attester de connaissances linguistiques bonnes ou suffisantes au sens des articles 4, alinéa 2, lettre d et 5, alinéa 2, lettre d au moyen d’un diplôme de langue de niveau B1 ou A2 du Cadre européen commun de référence pour les langues du Conseil de l’Europe[^7-1] ou d’une formation linguistique équivalente ou supérieure. Si la personne concernée remplit de toute évidence les exigences linguistiques, l’autorité compétente en matière d’autorisation peut renoncer à exiger une attestation.
 
-[^7-1]: RS 741.01
-[^7-2]: [http://www.coe.int/t/dg4/linguistic/cadre1\_fr.asp](http://www.coe.int/t/dg4/linguistic/cadre1_fr.asp)
+[^7-1]: [http://www.coe.int/t/dg4/linguistic/cadre1\_fr.asp](http://www.coe.int/t/dg4/linguistic/cadre1_fr.asp)
 
 #### Art. 8
 
@@ -162,12 +162,27 @@ arrête:
 
 - a de remplir des fiches de contrôle des courses à l’intention du détenteur ou de la détentrice du taxi;
 - b de toujours garder dans le véhicule l’autorisation de conduire un taxi;
-- c de toujours garder l’intérieur et l’extérieur du véhicule propre, et
-- d de contrôler chaque jour si des objets ont été oubliés dans le véhicule et de les remettre au bureau public des objets trouvés s’ils ne peuvent être directement rendus au client ou à la cliente.
+- c de toujours garder l’intérieur et l’extérieur du véhicule propre;
+- d de contrôler chaque jour si des objets ont été oubliés dans le véhicule et de les remettre au bureau public des objets trouvés s’ils ne peuvent être directement rendus au client ou à la cliente;
+- e d'annoncer à l'autorité compétente en matière d'autorisation, par écrit et dans un délai de 14 jours à compter de l'entrée en force, toute condamnation pénale au sens de l'article 7, alinéa 1, lettres a et b, et toute mesure administrative en matière de circulation routière au sens de l'article 5, alinéa 2, lettre e, pendant la durée de validité de l'autorisation.
 
-<sup>3</sup> La personne qui détient le taxi est tenue d’afficher clairement les tarifs sur l’extérieur du véhicule. Elle doit conserver les fiches de contrôle des courses mentionnées à l’alinéa 2, lettre a pendant au moins deux ans.
+<sup>3</sup> La personne qui détient le taxi est tenue
+
+- a d'afficher clairement les tarifs sur l'extérieur du véhicule, pour autant que ce dernier ne serve pas uniquement à des courses sur commande;
+- b de conserver les fiches de contrôle des courses mentionnées à l'alinéa 2, lettre a pendant au moins deux ans;
+- c d'annoncer à l'autorité compétente en matière d'autorisation, par écrit et dans un délai de 14 jours à compter de l'entrée en force, toute condamnation pénale au sens de l'article 7, alinéa 1, lettres a et b pendant la durée de validité de l'autorisation.
 
 <sup>4</sup> Les titulaires d’une autorisation de détenir ou de conduire un taxi sont tenus de collaborer avec les autorités cantonales et communales lors de contrôles et de leur présenter les documents nécessaires.
+
+#### Art. 10a
+
+**Devoir de signalisation**
+
+<sup>1</sup> Les taxis doivent être pourvus d'un lumineux ou d'une vignette de la commune d'emplacement; font exception les voitures tirées par des chevaux et les cyclopousses (équipés ou non d'une assistance électrique).
+
+<sup>2</sup> L'utilisation des places de stationnement publiques et des couloirs de bus n'est autorisée qu'aux véhicules pourvus d'un lumineux.
+
+<sup>3</sup> Les véhicules servant uniquement à des courses sur commande et qui ne sont pas pourvus d'un lumineux doivent porter une vignette de la commune d'emplacement.
 
 #### Art. 11
 
@@ -177,12 +192,22 @@ arrête:
 
 <sup>2</sup> Elles sont notamment autorisées à
 
-- a imposer une obligation d’assurer des transports et d’assurer un service de permanence, dans la mesure où des places de stationnement publiques sont disponibles, sous réserve de motifs particuliers de refus;
+- a imposer une obligation d’assurer des transports, dans la mesure où des places de stationnement publiques sont disponibles, sous réserve de motifs particuliers de refus;
 - b poser d’autres exigences ou des exigences plus strictes en matière de police industrielle concernant les détenteurs et détentrices et les chauffeurs et chauffeures de taxi ainsi que l’équipement des véhicules;
 - c édicter des dispositions relatives au comportement des chauffeurs et chauffeures de taxi;
 - d fixer des conditions et charges spéciales pour les voitures tirées par des chevaux, les cyclopousses (équipés ou non d’une assistance électrique) et les engins apparentés (p. ex. une interdiction de circuler sur certains tronçons de rues).
 
 <sup>3</sup> Elles organisent l’examen d’aptitude pratique et théorique pour les chauffeurs et chauffeures de taxi.
+
+## 2a Dispositions pénales
+
+#### Art. 11a
+
+**Infractions**
+
+<sup>1</sup> Quiconque enfreint les devoirs visés à l'article 6, alinéa 4, à l'article 10 ou à l'article 10a est puni de l'amende.
+
+<sup>2</sup> La peine visée à l'alinéa 1 n'est pas infligée en cas d'infraction à l'article 10, alinéa 2, lettre d.
 
 ## 3 Dispositions transitoires et dispositions finales
 
