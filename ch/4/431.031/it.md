@@ -4,11 +4,11 @@ title: "Ordinanza del 26 gennaio 2011 sul numero d'identificazione delle imprese
 short: OIDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: it
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2011-81-20200201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-81-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20200201/it"
 
 (OIDI)
 
-del 26 gennaio 2011 (Stato 1° febbraio 2020)
+del 26 gennaio 2011 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -64,7 +64,7 @@ Per la notifica all’UST delle unità IDI e dei dati IDI sono determinanti i re
 - a. registro di commercio: registri cantonali di commercio, registro centrale dell’Ufficio federale del registro di commercio;
 - b.[^3-1] registri settoriali: registri cantonali dell’agricoltura, raccolte di dati degli uffici cantonali di veterinaria, raccolte di dati dei chimici o dei laboratori cantonali, registro dell’Ufficio federale dell’agricoltura, registro delle professioni mediche (MedReg), registro delle professioni sanitarie (GesReg), registro nazionale delle professioni sanitarie (NAREG), registri cantonali degli avvocati, albi cantonali dei notai;
 - c. registri delle casse di compensazione AVS, registri fiscali cantonali, registro IVA;
-- d.[^3-2] altri registri: registro delle imprese e degli stabilimenti dell’UST, raccolte di dati dell’Amministrazione federale delle dogane concernenti le imprese attive in ambito di esportazione o importazione, sistema d’informazione centrale sulla migrazione (SIMIC), registri dell’Istituto nazionale svizzero di assicurazione contro gli infortuni (Suva) e degli assicuratori di cui all’articolo 68 della legge federale del 20 marzo 1981[^3-3] sull’assicurazione contro gli infortuni, il registro delle imprese del Principato del Liechtenstein.
+- d.[^3-2] altri registri: registro delle imprese e degli stabilimenti dell’UST, raccolte di dati dell’ Ufficio federale della dogana e della sicurezza dei confini[^3-3] concernenti le imprese attive in ambito di esportazione o importazione, sistema d’informazione centrale sulla migrazione (SIMIC), registri dell’Istituto nazionale svizzero di assicurazione contro gli infortuni (Suva) e degli assicuratori di cui all’articolo 68 della legge federale del 20 marzo 1981[^3-4] sull’assicurazione contro gli infortuni, il registro delle imprese del Principato del Liechtenstein.
 
 <sup>2</sup> Gli altri servizi IDI hanno la facoltà di notificare unità IDI. La loro notifica è presa in considerazione unicamente se non sussiste alcuna notifica precedente da parte di un servizio IDI di cui al capoverso 1.
 
@@ -74,7 +74,8 @@ Per la notifica all’UST delle unità IDI e dei dati IDI sono determinanti i re
 
 [^3-1]: Nuovo testo giusta l’art. 21 dell’O del 13 dic. 2019 sul registro LPSam, in vigore dal 1° feb. 2020 ([RU 2020 111](https://fedlex.data.admin.ch/eli/oc/2020/20)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
-[^3-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^3-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
 #### Art. 4
 

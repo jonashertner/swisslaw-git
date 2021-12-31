@@ -4,11 +4,11 @@ title: "Ordonnance du 26 janvier 2011 sur le numéro d'identification des entrep
 short: OIDE
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: fr
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2011-81-20200201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-81-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20200201/fr"
 
 (OIDE)
 
-du 26 janvier 2011 (Etat le 1<sup>er</sup> février 2020)
+du 26 janvier 2011 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -37,7 +37,7 @@ arrête:
 
 <sup>1</sup> Seules les personnes physiques enregistrées auprès d’un service IDE au moins sont des entités IDE au sens de l’art. 3, al. 1, let. c, ch. 3, LIDE.
 
-<sup>2</sup> Les bénéficiaires institutionnels énumérés à l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’Etat hôte[^1-1] ne sont pas des entités IDE au sens de l’art. 3, al. 1, let. c, ch. 5, LIDE.
+<sup>2</sup> Les bénéficiaires institutionnels énumérés à l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^1-1] ne sont pas des entités IDE au sens de l’art. 3, al. 1, let. c, ch. 5, LIDE.
 
 <sup>3</sup> Les personnes physiques qui détiennent des animaux et qui ne sont pas visées par les art. 7, 18*a* et 21 de l’ordonnance du 27 juin 1995 sur les épizooties[^1-2] ne sont pas des entités IDE au sens de l’art. 3, al. 1, let. c, ch. 6, LIDE.[^1-3]
 
@@ -64,7 +64,7 @@ Les services IDE au sens des art. 5, al. 1, et 9, al. 1, LIDE sont prioritaires,
 - a. registre du commerce: registres cantonaux du commerce, registre central de l’Office fédéral du registre du commerce;
 - b.[^3-1] registres de branches économiques: registres cantonaux de l’agriculture, fichiers de données des services vétérinaires cantonaux, fichiers de données des chimistes cantonaux ou laboratoires cantonaux, registre de l’Office fédéral de l’agriculture, registre des professions médicales (MedReg), registre des professions de la santé (GesReg), registre national des professions de la santé (NAREG), registres cantonaux des avocats, registres cantonaux des notaires;
 - c. registres des caisses de compensation AVS, registres fiscaux cantonaux, registre des assujettis à la TVA;
-- d.[^3-2] autres registres: Registre des entreprises et des établissements de l’OFS, fichiers de données de l’Administration fédérale des douanes concernant les entreprises enregistrées sous l’appellation importatrices ou exportatrices, système d’information central sur la migration (SYMIC), registres de la caisse nationale d’assurance (Suva) et des assureurs au sens de l’art. 68 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^3-3], registre des entreprises de la Principauté du Liechtenstein.
+- d.[^3-2] autres registres: Registre des entreprises et des établissements de l’OFS, fichiers de données de l’Office fédéral de la douane et de la sécurité des frontières[^3-3] concernant les entreprises enregistrées sous l’appellation importatrices ou exportatrices, système d’information central sur la migration (SYMIC), registres de la caisse nationale d’assurance (Suva) et des assureurs au sens de l’art. 68 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^3-4], registre des entreprises de la Principauté du Liechtenstein.
 
 <sup>2</sup> Les autres services IDE peuvent annoncer des entités IDE. Leur annonce est prise en compte pour autant qu’aucune annonce n’ait déjà été faite par un service IDE selon l’al. 1.
 
@@ -74,7 +74,8 @@ Les services IDE au sens des art. 5, al. 1, et 9, al. 1, LIDE sont prioritaires,
 
 [^3-1]: Nouvelle teneur selon l’art. 21 de l’O du 13 déc. 2019 concernant le registre LPSan, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 111](https://fedlex.data.admin.ch/eli/oc/2020/20)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 15 déc. 2014 ([RO 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
-[^3-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^3-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
 #### Art. 4
 

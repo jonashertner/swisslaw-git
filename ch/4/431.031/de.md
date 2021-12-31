@@ -4,11 +4,11 @@ title: Verordnung vom 26. Januar 2011 über die Unternehmens-Identifikationsnumm
 short: UIDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/81"
 language: de
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2011-01-26
 in_force: 2011-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20200201/de/xml/fedlex-data-admin-ch-eli-cc-2011-81-20200201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/81/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-81-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/81/20200201/de"
 
 (UIDV)
 
-vom 26. Januar 2011 (Stand am 1. Februar 2020)
+vom 26. Januar 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -64,7 +64,7 @@ Für die Meldung von UID-Einheiten und deren UID-Daten an das BFS sind die Regis
 - a. Handelsregister: kantonale Handelsregister, Zentralregister des Eidgenössischen Amtes für das Handelsregister;
 - b.[^3-1] Branchenregister: kantonale Landwirtschaftsregister, Datensammlungen von kantonalen Veterinärämtern, Datensammlungen von Kantonschemikern oder kantonalen Labors, Register des Bundesamtes für Landwirtschaft, Medizinalberuferegister (MedReg), Gesundheitsberuferegister (GesReg), Nationales Register der Gesundheitsberufe (NAREG), kantonale Anwaltsregister, kantonale Notariatsregister;
 - c. Register der AHV-Ausgleichskassen, kantonale Steuerregister, Mehrwertsteuerregister;
-- d.[^3-2] übrige Register: Betriebs- und Unternehmensregister des BFS, Datensammlungen der Eidgenössischen Zollverwaltung über im Import und Export registrierte Unternehmen, Zentrales Migrationsinformationssystem (ZEMIS), Register der Schweizerischen Unfallversicherungsanstalt (Suva) und der Versicherer nach Artikel 68 des Bundesgesetzes vom 20. März 1981[^3-3] über die Unfallversicherung, Unternehmensregister des Fürstentums Liechtenstein.
+- d.[^3-2] übrige Register: Betriebs- und Unternehmensregister des BFS, Datensammlungen des Bundesamts für Zoll und Grenzsicherheit[^3-3] über im Import und Export registrierte Unternehmen, Zentrales Migrationsinformationssystem (ZEMIS), Register der Schweizerischen Unfallversicherungsanstalt (Suva) und der Versicherer nach Artikel 68 des Bundesgesetzes vom 20. März 1981[^3-4] über die Unfallversicherung, Unternehmensregister des Fürstentums Liechtenstein.
 
 <sup>2</sup> Weitere UID-Stellen können UID-Einheiten melden. Ihre Meldung wird berücksichtigt, soweit nicht bereits eine Meldung aus dem Register einer UID-Stelle nach Absatz 1 vorliegt.
 
@@ -74,7 +74,8 @@ Für die Meldung von UID-Einheiten und deren UID-Daten an das BFS sind die Regis
 
 [^3-1]: Fassung gemäss Art. 21 der Registerverordnung GesBG vom 13. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2020 111](https://fedlex.data.admin.ch/eli/oc/2020/20)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 15. Dez. 2014 ([AS 2014 3675](https://fedlex.data.admin.ch/eli/oc/2014/634)).
-[^3-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^3-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^3-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
 #### Art. 4
 
@@ -475,6 +476,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)konsultiert werden.
