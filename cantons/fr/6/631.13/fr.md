@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "631.13"
-title: "Arrêté concernant l'échéance et la perception des créances fiscales"
+title: "Ordonnance concernant l'échéance et la perception des créances fiscales"
 language: fr
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-06-16
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-06
 adopted: 2001-02-13
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6714/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6910/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Arrêté concernant l'échéance et la perception des créances fiscales
+# Ordonnance concernant l'échéance et la perception des créances fiscales
 
 Echéance et perception des créances fiscales – A
 
-du 13.02.2001 (version entrée en vigueur le 01.01.2016)
+du 13.02.2001 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -114,19 +114,19 @@ Arrête:
 
 **Imputation de l'impôt anticipé**
 
-<sup>1</sup> L'impôt anticipé de l'année fiscale en cours, dont la demande de remboursement a été déposée dans les délais prescrits, est imputé à la date du terme général d'échéance de l'année fiscale suivante. Toutefois, lors de la fixation des acomptes, il est tenu compte, à titre provisoire, du dernier montant de l'impôt anticipé comptabilisé ou connu.
+<sup>1</sup> L'impôt anticipé de l'année fiscale en cours, dont la demande de remboursement a été déposée dans les délais prescrits, est imputé à la date du décompte final des impôts cantonaux de l'année fiscale en cours. Toutefois, lors de la fixation des acomptes, il est tenu compte, à titre provisoire, du dernier montant de l'impôt anticipé comptabilisé ou connu.
 
-<sup>2</sup> Si la demande de remboursement n'a pas été déposée dans les délais, l'impôt anticipé peut être imputé au plus tôt à la date du terme général d'échéance de l'impôt de l'année qui suit le dépôt de la demande.
+<sup>2</sup> Si la demande de remboursement n'a pas été déposée dans les délais, l'impôt anticipé peut être imputé au plus tôt à la date du décompte final des impôts cantonaux de l'année durant laquelle la demande de remboursement a été déposée.
 
-<sup>3</sup> L'impôt anticipé remboursable ne porte pas intérêt rémunératoire avant le terme général d'échéance retenu aux alinéas 1 ou 2.
+<sup>3</sup> L'impôt anticipé remboursable ne porte pas intérêt rémunératoire.
 
-<sup>4</sup> Dans des cas exceptionnels, en particulier lorsque l'on est en présence d'importants gains de loterie ou de distribution de dividendes extraordinaires, le montant de l'impôt anticipé retenu couvre en premier lieu l'impôt ordinaire de l'année fiscale suivante. A la demande du contribuable, le solde présumé peut servir à couvrir l'impôt de l'année d'imposition du revenu exceptionnel; dans ce cas, la date-valeur du transfert est fixée à la fin du mois qui suit la date du dépôt de la déclaration, mais au plus tôt à la date du terme général d'échéance.
+<sup>4</sup> …
 
 #### Art. 9
 
-**Imputation forfaitaire d'impôt**
+**Imputation d'impôts étrangers à la source**
 
-<sup>1</sup> Le traitement de l'imputation forfaitaire d'impôt est assimilé au traitement de l'imputation de l'impôt anticipé.
+<sup>1</sup> Le traitement de l'imputation d'impôts étranger à la source est assimilé au traitement de l'imputation de l'impôt anticipé.
 
 #### Art. 10
 
@@ -138,7 +138,7 @@ Arrête:
 
 **Echéance du décompte final**
 
-<sup>1</sup> Le solde des créances fiscales dues après une taxation est notifié dans un décompte final échu au terme général d'échéance.
+<sup>1</sup> Le solde des créances fiscales dues après une taxation est notifié dans un décompte final.
 
 <sup>2</sup> Les intérêts et les frais sont échus à la date de notification du décompte final.
 
@@ -151,6 +151,12 @@ Arrête:
 <sup>1</sup> La perception des créances fiscales impayées dans les délais a lieu conformément à la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP) et à ses dispositions d'exécution.
 
 <sup>2</sup> ...
+
+#### Art. 12a
+
+**Disposition transitoire**
+
+<sup>1</sup> Le décompte de la période fiscale 2021 comportera le remboursement de l'impôt anticipé de deux périodes fiscales, à savoir celui qui est échu en 2020 et celui qui est échu en 2021. Il sera imputé à la date du décompte final des impôts de l'année fiscale 2021.
 
 #### Art. 13
 

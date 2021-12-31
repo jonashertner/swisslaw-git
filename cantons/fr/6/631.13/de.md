@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "631.13"
-title: Beschluss über die Fälligkeit und den Bezug der Steuerforderungen
+title: Verordnung über die Fälligkeit und den Bezug der Steuerforderungen
 language: de
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-06-16
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-06
 adopted: 2001-02-13
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6714/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6910/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Fälligkeit und den Bezug der Steuerforderungen
+# Verordnung über die Fälligkeit und den Bezug der Steuerforderungen
 
 Fälligkeit und Bezug der Steuerforderungen – B
 
-vom 13.02.2001 (Fassung in Kraft getreten am 01.01.2016)
+vom 13.02.2001 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -114,19 +114,19 @@ beschliesst:
 
 **Anrechnung der Verrechnungssteuer**
 
-<sup>1</sup> Die Verrechnungssteuer des laufenden Steuerjahres, für die der Rückerstattungsantrag in den vorgeschriebenen Fristen eingereicht wurde, wird auf das Datum des allgemeinen Fälligkeitstermins des folgenden Steuerjahres angerechnet. Bei der Festlegung der Akontozahlungen wird jedoch provisorisch der letzte Betrag der Verrechnungssteuer berücksichtigt, der verbucht wurde oder bekannt ist.
+<sup>1</sup> Die Verrechnungssteuer des laufenden Steuerjahres, für die der Rückerstattungsantrag in den vorgeschriebenen Fristen eingereicht wurde, wird auf das Datum der Schlussabrechnung der Kantonssteuern des laufenden Steuerjahres angerechnet. Bei der Festlegung der Akontozahlungen wird jedoch provisorisch der letzte Betrag der Verrechnungssteuer berücksichtigt, der verbucht wurde oder bekannt ist.
 
-<sup>2</sup> Wird der Rückerstattungsantrag nicht fristgerecht eingereicht, so kann die Verrechnungssteuer frühestens auf das Datum des allgemeinen Fälligkeitstermins der Steuer des Jahres, das dem Rückerstattungsantrag folgt, angerechnet werden.
+<sup>2</sup> Wird der Rückerstattungsantrag nicht fristgerecht eingereicht, so kann die Verrechnungssteuer frühestens auf das Datum der Schlussabrechnung der Kantonssteuern des Jahres, in dem der Rückerstattungsantrag eingereicht worden ist, angerechnet werden.
 
-<sup>3</sup> Die zurückzuerstattende Verrechnungssteuer trägt keinen Vergütungszins vor dem in den Absätzen 1 oder 2 festgelegten allgemeinen Fälligkeitstermin.
+<sup>3</sup> Die zurückzuerstattende Verrechnungssteuer trägt keinen Vergütungszins.
 
-<sup>4</sup> In Ausnahmefällen, insbesondere bei bedeutenden Einkünften aus Lotterien oder ausserordentlichen Dividendenauszahlungen deckt der zurückbehaltene Verrechnungssteuerbetrag in erster Linie die ordentliche Steuer des folgenden Steuerjahres ab. Auf Verlangen der steuerpflichtigen Person kann der voraussichtliche Saldo die Steuer des Jahres, in dem das ausserordentliche Einkommen besteuert wird, abdecken; in diesem Fall ist das Valutadatum der Übertragung das Monatsende, das dem Datum der Einreichung der Steuererklärung folgt, frühestens aber das Datum des allgemeinen Fälligkeitstermins.
+<sup>4</sup> …
 
 #### Art. 9
 
-**Pauschale Steueranrechnung**
+**Anrechnung ausländischer Quellensteuern**
 
-<sup>1</sup> Das Verfahren der pauschalen Steueranrechnung ist dem Verfahren für die Anrechnung der Verrechnungssteuer gleichgestellt.
+<sup>1</sup> Das Verfahren der Anrechnung ausländischer Quellensteuern ist dem Verfahren für die Anrechnung der Verrechnungssteuer gleichgestellt.
 
 #### Art. 10
 
@@ -138,7 +138,7 @@ beschliesst:
 
 **Fälligkeit der Schlussabrechnung**
 
-<sup>1</sup> Der Saldo der nach einer Veranlagung geschuldeten Steuerforderung wird in der Schlussabrechnung eröffnet, die am allgemeinen Fälligkeitstermin fällig wird.
+<sup>1</sup> Der Saldo der nach einer Veranlagung geschuldeten Steuerforderung wird in der Schlussabrechnung eröffnet.
 
 <sup>2</sup> Die Zinsen und die Kosten sind am Eröffnungsdatum der Schlussabrechnung fällig.
 
@@ -151,6 +151,12 @@ beschliesst:
 <sup>1</sup> Der Bezug der nicht fristgerecht entrichteten Steuern erfolgt gemäss dem Bundesgesetz vom 11.April 1889 über Schuldbetreibung und Konkurs (SchKG) und dessen Vollzugsbestimmungen.
 
 <sup>2</sup> ...
+
+#### Art. 12a
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die Abrechnung für die Steuerperiode 2021 wird die Rückerstattung der Verrechnungssteuer für zwei Steuerperioden, nämlich die für 2020 und die für 2021 fällige, enthalten. Die Anrechnung erfolgt auf das Datum der Schlussabrechnung der Kantonssteuern für das Steuerjahr 2021.
 
 #### Art. 13
 
