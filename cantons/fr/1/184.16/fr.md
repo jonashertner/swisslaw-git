@@ -3,13 +3,13 @@ canton: FR
 number: "184.16"
 title: "Ordonnance concernant la mise en œuvre du Référentiel cantonal de données de personnes, organisations et nomenclatures (projet pilote)"
 language: fr
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-09
+version: 2022-01-01
+valid_until: 2023-07-31
+version_adopted: 2022-01-31
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6773/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7111/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6773/pdf_file"
 
 Référentiel cantonal de données – O
 
-du 24.06.2019 (version entrée en vigueur le 01.03.2021)
+du 24.06.2019 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -137,9 +137,9 @@ Arrête:
 
 <sup>1</sup> Les données personnelles sont protégées contre toute atteinte à leur confidentialité et contre tout traitement non autorisé. La protection est assurée lors de chaque phase du traitement des données; elle est appliquée à l'égard de toute personne, à l'intérieur comme à l'extérieur de l'administration.
 
-<sup>2</sup> Durant la phase pilote, l'Autorité cantonale de la transparence et de la protection des données (ci-après: l'ATPrD) est régulièrement consultée au sujet de l'évolution de la mise en œuvre et de l'exploitation du Référentiel cantonal. Elle peut en outre intervenir à tout moment pour exiger le respect des dispositions légales en matière de protection des données.
+<sup>2</sup> Durant la phase pilote, l'Autorité cantonale de la transparence, de la protection des données et de la médiation (ci-après: l'ATPrDM) est régulièrement consultée au sujet de l'évolution de la mise en œuvre et de l'exploitation du Référentiel cantonal. Elle peut en outre intervenir à tout moment pour exiger le respect des dispositions légales en matière de protection des données.
 
-<sup>3</sup> Les règles concernant la sécurité et la protection des données, ainsi que la surveillance par l'ATPrD, sont précisées dans l'Annexe 5 à la présente ordonnance.
+<sup>3</sup> Les règles concernant la sécurité et la protection des données, ainsi que la surveillance par l'ATPrDM, sont précisées dans l'Annexe 5 à la présente ordonnance.
 
 #### Art. 11
 
@@ -155,7 +155,7 @@ Arrête:
 
 <sup>1</sup> Les annexes à la présente ordonnance sont mises à jour aussi souvent que nécessaire en fonction de l'avancement et de l'évolution de la mise en œuvre du Référentiel cantonal ainsi que des besoins et des priorités identifiés.
 
-<sup>2</sup> L'ATPrD doit être consultée lors de nouvelles mises à jour.
+<sup>2</sup> L'ATPrDM doit être consultée lors de nouvelles mises à jour.
 
 #### Art. 13
 
@@ -301,7 +301,7 @@ Arrête:
 - c) collaborer à l'élaboration de directives, de conventions et de règlements d'utilisation liés au fonctionnement et à l'exploitation du Référentiel cantonal;
 - d) collaborer à l'élaboration des dispositions légales définitives sur le fonctionnement et l'exploitation du Référentiel cantonal;
 - e) rapporter des problèmes spécifiques concernant le traitement des données à l'intérieur de leur métier auprès du comité de conformité;
-- f) annoncer à la Commission ainsi qu'à l'ATPrD les constats d'incidents et de violation des obligations liés à la sécurité et à la protection des données à l'intérieur de leur métier.
+- f) annoncer à la Commission ainsi qu'à l'ATPrDM les constats d'incidents et de violation des obligations liés à la sécurité et à la protection des données à l'intérieur de leur métier.
 
 <sup>2</sup> Le comité de conformité organise la formation de base afin que les délégué‑e‑s à la protection des données puissent remplir leurs attributions.
 
@@ -335,7 +335,7 @@ Arrête:
 
 <sup>2</sup> L'identifiant unique cantonal est utilisé pour assurer l'interopérabilité et l'interfaçage autorisé entre les systèmes.
 
-<sup>3</sup> Dans la mesure où ils ont déclaré leurs fichiers auprès de l'ATPrD, les organes contributeurs de données au sens de l'article A2-1 al. 1 sont autorisés à:
+<sup>3</sup> Dans la mesure où ils ont déclaré leurs fichiers auprès de l'ATPrDM, les organes contributeurs de données au sens de l'article A2-1 al. 1 sont autorisés à:
 
 - a) intégrer l'identifiant unique cantonal dans leurs propres bases de données et à en faire usage dans le cadre de la tenue et de la gestion de leurs bases de données et de leurs échanges avec le Référentiel cantonal;
 - b) transmettre au Référentiel cantonal les identifiants sectoriels des personnes et organisations issus de leurs bases de données métier ainsi que les métadonnées de provenance. Le système ne peut les utiliser que pour assurer des correspondances entre les données métier et les données du Référentiel cantonal à des fins d'arbitrage, d'identification et de mise à jour automatique des données.
@@ -463,11 +463,11 @@ Arrête:
 
 #### Art. A5-3
 
-**Intervention et préavis de l'Autorité cantonale de la transparence et de la protection des données**
+**Intervention et préavis de l'Autorité cantonale de la transparence, de la protection des données et de la médiation**
 
-<sup>1</sup> L'ATPrD a accès en tout temps à toutes les informations qu'elle réclame concernant la mise en œuvre, l'exploitation et la maintenance du Référentiel cantonal. Elle peut procéder ou faire procéder à des audits pour vérifier que les exigences en matière de protection des données soient respectées.
+<sup>1</sup> L'ATPrDM a accès en tout temps à toutes les informations qu'elle réclame concernant la mise en œuvre, l'exploitation et la maintenance du Référentiel cantonal. Elle peut procéder ou faire procéder à des audits pour vérifier que les exigences en matière de protection des données soient respectées.
 
-<sup>2</sup> L'ATPrD est en outre invitée à donner son préavis à chaque étape clé de la phase pilote. Constituent notamment une étape clé:
+<sup>2</sup> L'ATPrDM est en outre invitée à donner son préavis à chaque étape clé de la phase pilote. Constituent notamment une étape clé:
 
 - a) l'élaboration de règlements d'utilisation;
 - b) l'élaboration des projets de convention entre la Commission et un organe contributeur ou consommateur de données;

@@ -3,13 +3,13 @@ canton: FR
 number: "184.16"
 title: "Verordnung über das kantonale Bezugssystem von Daten von Personen, von Organisationen und von Verzeichnissen (Pilotprojekt)"
 language: de
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-09
+version: 2022-01-01
+valid_until: 2023-07-31
+version_adopted: 2022-01-31
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/6773/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7111/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6773/pdf_file"
 
 Kantonale Bezugssystem von Daten – V
 
-vom 24.06.2019 (Fassung in Kraft getreten am 01.03.2021)
+vom 24.06.2019 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -137,9 +137,9 @@ beschliesst:
 
 <sup>1</sup> Die Personendaten sind vor jeglichen Angriffen auf ihre Vertraulichkeit und vor unerlaubten Bearbeitungen zu schützen. Der Schutz ist in jeder Phase der Datenbearbeitung gewährleistet; er gilt gegenüber jeder Person, sowohl innerhalb als auch ausserhalb der Verwaltung.
 
-<sup>2</sup> Während der Pilotphase wird die Kantonale Behörde für Öffentlichkeit und Datenschutz (ÖDSB) regelmässig angehört, um zu sehen, wie sich die Umsetzung und der Betrieb des kantonalen Bezugssystems entwickelt. Sie kann zudem jederzeit eingreifen, um die Einhaltung der Datenschutzbestimmungen zu fordern.
+<sup>2</sup> Während der Pilotphase wird die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation (ÖDSMB) regelmässig angehört, um zu sehen, wie sich die Umsetzung und der Betrieb des kantonalen Bezugssystems entwickelt. Sie kann zudem jederzeit eingreifen, um die Einhaltung der Datenschutzbestimmungen zu fordern.
 
-<sup>3</sup> Die Regeln zur Sicherheit und zum Schutz der Daten und zur Aufsicht durch die ÖDSB werden in Anhang 5 dieser Verordnung erläutert.
+<sup>3</sup> Die Regeln zur Sicherheit und zum Schutz der Daten und zur Aufsicht durch die ÖDSMB werden in Anhang 5 dieser Verordnung erläutert.
 
 #### Art. 11
 
@@ -155,7 +155,7 @@ beschliesst:
 
 <sup>1</sup> Die Anhänge dieser Verordnung werden, sooft es aufgrund der Fortschritte und Entwicklungen bei der Umsetzung des kantonalen Bezugssystems und aufgrund der neuen Bedürfnisse und Prioritäten nötig ist, aktualisiert.
 
-<sup>2</sup> Die ÖDSB muss bei neuen Aktualisierungen angehört werden.
+<sup>2</sup> Die ÖDSMB muss bei neuen Aktualisierungen angehört werden.
 
 #### Art. 13
 
@@ -301,7 +301,7 @@ beschliesst:
 - c) bei der Ausarbeitung von Richtlinien, Vereinbarungen und Nutzungsreglementen über die Funktionsweise und die Nutzung des kantonalen Bezugssystems mitzuarbeiten;
 - d) bei der Ausarbeitung der definitiven gesetzlichen Bestimmungen über die Funktionsweise und den Betrieb des kantonalen Bezugssystems mitzuarbeiten;
 - e) dem Ausschuss für die bestimmungsgemässe Verwendung der Daten spezifische Schwierigkeiten, welche die Datenbearbeitung innerhalb ihres Fachbereichs betreffen, zu melden;
-- f) der Kommission sowie der ÖDSB die Protokolle zu Vorfällen und Verletzungen der Verpflichtungen in Verbindung mit der Sicherheit und dem Schutz der Daten innerhalb ihres Fachbereichs zu übermitteln.
+- f) der Kommission sowie der ÖDSMB die Protokolle zu Vorfällen und Verletzungen der Verpflichtungen in Verbindung mit der Sicherheit und dem Schutz der Daten innerhalb ihres Fachbereichs zu übermitteln.
 
 <sup>2</sup> Der Ausschuss für die bestimmungsgemässe Verwendung der Daten organisiert die Grundausbildung, damit die Referenzdatenschutzdelegierten ihre Aufgaben erfüllen können.
 
@@ -335,7 +335,7 @@ beschliesst:
 
 <sup>2</sup> Die eindeutige kantonale User-ID wird verwendet, um die Interoperabilität und die bewilligte Kopplung zwischen den Systemen sicherzustellen.
 
-<sup>3</sup> Die datenliefernden Organe nach Artikel A2-1 Abs. 1 haben, je nachdem, ob sie ihre Datensammlungen bei der ÖDSB deklariert haben, die Berechtigung:
+<sup>3</sup> Die datenliefernden Organe nach Artikel A2-1 Abs. 1 haben, je nachdem, ob sie ihre Datensammlungen bei der ÖDSMB deklariert haben, die Berechtigung:
 
 - a) die eindeutige kantonale User-ID in ihre eigenen Datenbanken zu integrieren und diese bei der Führung und Verwaltung ihrer Datenbanken und ihrem Austausch mit dem kantonalen Bezugssystem zu verwenden;
 - b) sektorielle User-IDs von Personen und Organisationen aus ihren Fachdatenbaken und die Metadaten zur Herkunft auf das kantonale Bezugssystem zu laden. Das System kann sie einzig dazu nutzen, um zur Identifizierung und automatischen Nachführung der Daten und zur Lösung von Konflikten bei widersprüchlichen Informationen in diesen Daten Übereinstimmungen zwischen den Fachdaten und denjenigen des kantonalen Bezugssystems sicherzustellen.
@@ -463,11 +463,11 @@ beschliesst:
 
 #### Art. A5-3
 
-**Eingreifen und Stellungnahme der Kantonalen Behörde für Öffentlichkeit und Datenschutz**
+**Eingreifen und Stellungnahme der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation**
 
-<sup>1</sup> Die ÖDSB hat jederzeit Zugang zu sämtlichen Informationen über die Umsetzung, den Betrieb und die Wartung des kantonalen Bezugssystems, die sie verlangt. Sie kann Prüfungen durchführen oder durchführen lassen, um sicherzustellen, dass die Anforderungen des Datenschutzes eingehalten werden.
+<sup>1</sup> Die ÖDSMB hat jederzeit Zugang zu sämtlichen Informationen über die Umsetzung, den Betrieb und die Wartung des kantonalen Bezugssystems, die sie verlangt. Sie kann Prüfungen durchführen oder durchführen lassen, um sicherzustellen, dass die Anforderungen des Datenschutzes eingehalten werden.
 
-<sup>2</sup> Die ÖDSB wird zudem eingeladen, ihre Stellungnahme bei jeder Schlüsseletappe der Pilotphase abzugeben. Schlüsseletappen sind namentlich:
+<sup>2</sup> Die ÖDSMB wird zudem eingeladen, ihre Stellungnahme bei jeder Schlüsseletappe der Pilotphase abzugeben. Schlüsseletappen sind namentlich:
 
 - a) das Verfassen von Nutzungsreglementen;
 - b) die Ausarbeitung von Vereinbarungsprojekten zwischen der Kommission und einem datenliefernden oder datennutzenden Organ;
