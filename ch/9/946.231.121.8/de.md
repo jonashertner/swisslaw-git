@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: Verordnung vom 4. Dezember 2015 über Massnahmen gegenüber Burundi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: de
-version: 2020-11-12
+version: 2022-01-01
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20201112/de/xml/fedlex-data-admin-ch-eli-cc-2015-849-20201112-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20201112/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-849-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Burundi
 
-vom 4. Dezember 2015 (Stand am 12. November 2020)
+vom 4. Dezember 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -72,9 +72,11 @@ In dieser Verordnung bedeuten:
 
 <sup>1</sup> Das SECO überwacht den Vollzug der Zwangsmassnahmen nach Artikel 1.
 
-<sup>2</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>2</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^3-1].
 
 <sup>3</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
+
+[^3-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 4
 
@@ -108,10 +110,13 @@ Der Inhalt des Anhangs wird weder in der Amtlichen Sammlung des Bundesrechts (AS
 
 Diese Verordnung tritt am 4. Dezember 2015 um 18.00 Uhr in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1 Abs. 1)
 
 ## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: In der AS nicht veröffentlicht ([AS 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622), [2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628), [2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter ww.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annexu1-lvlu1-1]
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 7. Nov. 2018 ([AS 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), vom 7. Nov. 2019 (**2019** 3445) und vom 11. Nov. 2020, in Kraft seit 12. Nov. 2020 um 18.00 Uhr (**2020** 4667).
+[^annexu1-lvlu1-1]: In der AS nicht veröffentlicht ([AS 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622), [2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628), [2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter ww.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.

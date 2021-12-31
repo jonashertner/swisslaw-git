@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: Ordinanza del 4 dicembre 2015 che istituisce provvedimenti nei confronti del Burundi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: it
-version: 2020-11-12
+version: 2022-01-01
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20201112/it/xml/fedlex-data-admin-ch-eli-cc-2015-849-20201112-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20201112/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-849-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Burundi
 
-del 4 dicembre 2015 (Stato 12 novembre 2020) (Stato 12 novembre 2020)
+del 4 dicembre 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -72,9 +72,11 @@ Ai sensi della presente ordinanza si intende per:
 
 <sup>1</sup> La SECO sorveglia l’esecuzione delle misure coercitive di cui all’articolo 1.
 
-<sup>2</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>2</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^3-1].
 
 <sup>3</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
+
+[^3-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 4
 
@@ -108,10 +110,13 @@ Il contenuto dell’allegato non è pubblicato né nella Raccolta ufficiale dell
 
 La presente ordinanza entra in vigore il 4 dicembre 2015 alle ore 18.00.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1 cpv. 1)
 
 ## Persone fisiche, imprese e organizzazioni soggette alle sanzioni finanziarie
 
-[^t-1]: Non pubblicato nella RU ([RU 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622), [2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628)e [2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)). È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^annexu1-lvlu1-1]
+
+[^t-1]: Aggiornato dal n. I delle O del DEFR del 7 nov. 2018 ([RU 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), del 7 nov. 2019 ([RU 2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628)), del 11 nov. 2020, in vigore dal 12 nov. 2022 ([RU 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)).
+[^annexu1-lvlu1-1]: È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.

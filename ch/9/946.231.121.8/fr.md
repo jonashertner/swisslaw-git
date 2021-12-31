@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: "Ordonnance du 4 décembre 2015 instituant des mesures à l'encontre du Burundi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: fr
-version: 2020-11-12
+version: 2022-01-01
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20201112/fr/xml/fedlex-data-admin-ch-eli-cc-2015-849-20201112-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20201112/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-849-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Burundi
 
-du 4 décembre 2015 (Etat le 12 novembre 2020)
+du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -72,9 +72,11 @@ Au sens de la présente ordonnance, on entend par:
 
 <sup>1</sup> Le SECO surveille l’exécution des mesures de coercition prévues à l’art. 1.
 
-<sup>2</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>2</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^3-1].
 
 <sup>3</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
+
+[^3-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 4
 
@@ -108,10 +110,13 @@ Le texte de l’annexe n’est publié ni au Recueil officiel du droit fédéral
 
 La présente ordonnance entre en vigueur le 4 décembre 2015 à 18 heures.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1, al. 1)
 
 ## Personnes physiques, entreprises et entités visées par les sanctions financières
 
-[^t-1]: Non publiée au RO ([RO 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622), [2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628), [2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annexu1-lvlu1-1]
+
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 7 nov. 2018 ([RO 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), du 7 nov. 2019 ([RO 2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628)) et du 11 nov. 2020, en vigueur depuis le 12 nov. 2020 à 18 heures ([RO 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)).
+[^annexu1-lvlu1-1]: Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse
