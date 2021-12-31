@@ -4,13 +4,12 @@ number: "730.200"
 title: Gesetz über den Finanzausgleich im Kanton Graubünden
 short: "Finanzausgleichsgesetz, FAG"
 language: de
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-19
+version: 2022-01-01
+version_adopted: 2021-02-18
 adopted: 2013-12-05
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/730.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3145/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3785/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3145/pdf_file"
 
 (Finanzausgleichsgesetz, FAG)
 
-Vom 05.12.2013 (Stand 01.03.2021)
+Vom 05.12.2013 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -146,7 +145,8 @@ beschliesst:
 <sup>2</sup> Der Ausgleich bemisst sich nach den Nettoaufwendungen der Gemeinden aufgrund von Leistungen gemäss:
 
 - a) Gesetz über die Unterstützung Bedürftiger[^8-1];
-- b) Verordnung über die Bevorschussung von Unterhaltsbeiträgen für unterhaltsberechtigte Kinder[^8-2].
+- b) Verordnung über die Bevorschussung von Unterhaltsbeiträgen für unterhaltsberechtigte Kinder[^8-2];
+- c) Artikel 63a des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^8-3].
 
 <sup>3</sup> Zu den Nettoaufwendungen zählen Leistungen, zu denen die Gemeinden gesetzlich verpflichtet sind, abzüglich der Einnahmen aus Rückerstattungen, aus der Verwandtenunterstützungspflicht und aus Versicherungsleistungen. Die Regierung kann für die Nettoaufwendungen Normkosten festlegen.
 
@@ -167,6 +167,7 @@ beschliesst:
 
 [^8-1]: BR [546.250](https://www.gr-lex.gr.ch/data/546.250/de)
 [^8-2]: BR [215.050](https://www.gr-lex.gr.ch/data/215.050/de)
+[^8-3]: BR [210.100](https://www.gr-lex.gr.ch/data/210.100/de)
 
 #### Art. 9
 
@@ -302,5 +303,32 @@ beschliesst:
 <sup>1</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^24-1] dieses Gesetzes. Sie kann Artikel 17 Absatz 2 rückwirkend, frühestens auf den 1. Januar 2014, in Kraft setzen.
 
 [^24-1]: Mit RB vom 18. November 2014 mit Ausnahme von Artikel 17 Absatz 2 auf den 1. Januar 2016 in Kraft gesetzt. Artikel 17 Absatz 2 tritt am 1. Januar 2015 in Kraft.
+
+## A1 Anhang 1: Art. 19 Abs. 4
+
+#### Art. A1-1
+
+<sup>1</sup> Dieser Anhang basiert auf der FA-Globalbilanz.
+
+<sup>2</sup> Gestützt auf Artikel 19 Absatz 4 haben die nachstehenden Gemeinden Anspruch auf einen befristeten Ausgleich:
+
+- a) Gemeinden mit einer Mehrbelastung gemäss der FA-Globalbilanz von mehr als Fr. 300.00 pro Einwohner haben Anspruch auf 100 Prozent des Ausgleichsbeitrages gemäss Artikel 19 Absatz 2:
+  - 1\. Almens
+  - 2\. Küblis
+  - 3\. Luzein
+  - 4\. Masein
+  - 5\. Rhäzüns
+  - 6\. Rodels
+  - 7\. Trun
+  - 8\. Verdabbio
+- b) Gemeinden mit einer Mehrbelastung gemäss der FA-Globalbilanz zwischen Fr. 100.00 und Fr. 300.00 pro Einwohner haben Anspruch auf einen Anteil von 50 Prozent des Ausgleichsbeitrages gemäss Artikel 19 Absatz 2:
+  - 1\. Fideris
+  - 2\. Mundaun
+  - 3\. Paspels
+  - 4\. Saas i.P.
+  - 5\. Sagogn
+  - 6\. Schmitten
+  - 7\. Surava
+- c) Für Gemeinden, die sich zusammenschliessen, entfällt nach dem Zusammenschluss der befristete Ausgleich
 
 2014-031

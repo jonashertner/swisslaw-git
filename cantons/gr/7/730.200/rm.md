@@ -4,13 +4,12 @@ number: "730.200"
 title: Lescha davart la gulivaziun da finanzas en il chantun Grischun
 short: "lescha davart la gulivaziun da finanzas, LGF"
 language: rm
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-19
+version: 2022-01-01
+version_adopted: 2021-02-18
 adopted: 2013-12-05
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/730.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3145/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3785/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3145/pdf_file"
 
 (lescha davart la gulivaziun da finanzas, LGF)
 
-dals 05-12-2013 (versiun dals 01-03-2021)
+dals 05-12-2013 (versiun dals 01-01-2022)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -146,7 +145,8 @@ concluda:
 <sup>2</sup> La gulivaziun vegn calculada tenor las expensas nettas da las vischnancas sin basa da prestaziuns tenor:
 
 - a) la lescha davart il sustegn da persunas basegnusas[^8-1];
-- b) l'ordinaziun davart il pajament anticipà da contribuziuns al mantegniment per uffants cun dretg da mantegniment[^8-2].
+- b) l'Ordinaziun davart il pajament anticipà da contribuziuns al mantegniment per uffants cun dretg da mantegniment[^8-2];
+- c) l'artitgel 63a da la Lescha introductiva tar il Cudesch civil svizzer[^8-3].
 
 <sup>3</sup> Da las expensas nettas fan part prestaziuns che ston vegnir pajadas da las vischnancas tenor lescha, minus las entradas da restituziuns, d'obligaziuns da sustegnair parentas e parents e da prestaziuns d'assicuranza. La regenza po fixar custs normads per las expensas nettas.
 
@@ -167,6 +167,7 @@ concluda:
 
 [^8-1]: DG [546.250](https://www.gr-lex.gr.ch/data/546.250/rm)
 [^8-2]: DG [215.050](https://www.gr-lex.gr.ch/data/215.050/rm)
+[^8-3]: DG [210.100](https://www.gr-lex.gr.ch/data/210.100/rm)
 
 #### Art. 9
 
@@ -302,5 +303,32 @@ concluda:
 <sup>1</sup> La regenza fixescha il termin da l'entrada en vigur[^24-1] da questa lescha. Ella po metter en vigur retroactivamain l'artitgel 17 alinea 2, il pli baud per il 1. da schaner 2014.
 
 [^24-1]: Messa en vigur cun CR dals 18 da november 2014 per il 1. da schaner 2016 cun excepziun da l'artitgel 17 alinea 2. L'artitgel 17 entra en vigur il 1. da schaner 2015.
+
+## A1 Agiunta 1: Art. 19 al. 4
+
+#### Art. A1-1
+
+<sup>1</sup> Questa agiunta sa basa sin la bilantscha globala da la GF.
+
+<sup>2</sup> Sa basond sin l'artitgel 19 alinea 4 han las vischnancas qua sutvart il dretg d'ina gulivaziun limitada:
+
+- a) Las vischnancas cun ina grevezza supplementara tenor la bilantscha globala da la GF da passa fr. 300.00 per abitanta u abitant han il dretg da 100 pertschient da la contribuziun da gulivaziun tenor l'artitgel 19 alinea 2:
+  - 1\. Almen
+  - 2\. Küblis
+  - 3\. Luzein
+  - 4\. Masagn
+  - 5\. Razén
+  - 6\. Roten
+  - 7\. Trun
+  - 8\. Verdabbio
+- b) Las vischnancas cun ina grevezza supplementara tenor la bilantscha globala da la GF da fr. 100.00 fin fr. 300.00 per abitanta u abitant han il dretg da 50 pertschient da la contribuziun da gulivaziun tenor l'artitgel 19 alinea 2:
+  - 1\. Fideris
+  - 2\. Mundaun
+  - 3\. Pasqual
+  - 4\. Saas
+  - 5\. Sagogn
+  - 6\. Schmitten
+  - 7\. Surava
+- c) Per vischnancas che fusiuneschan, croda davent la gulivaziun limitada suenter la fusiun
 
 2014-031
