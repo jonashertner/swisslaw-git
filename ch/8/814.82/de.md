@@ -4,11 +4,11 @@ title: "Verordnung vom 10. November 2004 zum Rotterdamer Übereinkommen über da
 short: ChemPICV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: de
-version: 2021-06-01
+version: 2022-01-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-725-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/de"
 
 (PIC-Verordnung, ChemPICV)
 
-vom 10. November 2004 (Stand am 1. Juni 2021)
+vom 10. November 2004 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -210,9 +210,10 @@ Innerhalb von 15 Tagen nach Eingang einer Ausfuhrmeldung nach Artikel 3 erteilt 
 - a. für jede Chemikalie nach Anhang 1, sofern die Meldung die erforderlichen Angaben enthält;
 - b. für jede Chemikalie nach Anhang 2, sofern die Ausfuhrbeschränkungen voraussichtlich eingehalten werden.
 
-<sup>2</sup> Das BAFU informiert die Eidgenössische Zollverwaltung über die Ausfuhrmeldungen nach Artikel 3 sowie die nach Absatz 1 erteilten Kennnummern.
+<sup>2</sup> Das BAFU informiert das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^8a-2] über die Ausfuhrmeldungen nach Artikel 3 sowie die nach Absatz 1 erteilten Kennnummern.
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 22. März 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^8a-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 9
 
@@ -222,7 +223,7 @@ Innerhalb von 15 Tagen nach Eingang einer Ausfuhrmeldung nach Artikel 3 erteilt 
 
 <sup>2</sup> Die Bundesämter informieren sich laufend gegenseitig über Tatsachen und Erkenntnisse, die im Zusammenhang mit der Umsetzung der PIC-Konvention stehen.
 
-<sup>3</sup> Das BAFU kann von der Eidgenössischen Zollverwaltung die zum Vollzug dieser Verordnung erforderlichen Angaben aus den Zollanmeldungen von ein- und ausgeführten Stoffen und Zubereitungen verlangen.[^9-1]
+<sup>3</sup> Das BAFU kann vom BAZG die zum Vollzug dieser Verordnung erforderlichen Angaben aus den Zollanmeldungen von ein- und ausgeführten Stoffen und Zubereitungen verlangen.[^9-1]
 
 [^9-1]: Fassung gemäss Anhang 4 Ziff. 46 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 

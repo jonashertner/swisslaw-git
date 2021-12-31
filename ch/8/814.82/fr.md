@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 2004 relative à la Convention de Rotterdam su
 short: OPICChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: fr
-version: 2021-06-01
+version: 2022-01-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-725-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/fr"
 
 (Ordonnance PIC, OPICChim)
 
-du 10 novembre 2004 (Etat le 1<sup>er</sup> juin 2021)
+du 10 novembre 2004 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -210,9 +210,10 @@ L’OFEV attribue un numéro d’identification, valable durant une année civil
 - a. à chaque produit chimique selon l’annexe 1, à condition que l’annonce comprenne les informations requises;
 - b. à chaque produit chimique selon l’annexe 2, à condition que l’on puisse présumer le respect des restrictions d’exportation.
 
-<sup>2</sup> L’OFEV informe l’Administration fédérale des douanes des annonces d’exportation visées à l’art. 3 et des numéros d’identification attribués conformément à l’al. 1.
+<sup>2</sup> L’OFEV informe l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^8a-2] des annonces d’exportation visées à l’art. 3 et des numéros d’identification attribués conformément à l’al. 1.
 
 [^8a-1]: Introduit par le ch. I de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^8a-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 9
 
@@ -222,7 +223,7 @@ L’OFEV attribue un numéro d’identification, valable durant une année civil
 
 <sup>2</sup> Les offices fédéraux s’informent de manière réciproque et suivie sur les faits et les connaissances en rapport avec la mise en œuvre de la Convention PIC.
 
-<sup>3</sup> L’OFEV peut exiger de l’Administration fédérale des douanes les données nécessaires à l’exécution de la présente ordonnance contenues dans les déclarations en douane des substances et préparations importées ou exportées.[^9-1]
+<sup>3</sup> L’OFEV peut exiger de l’OFDF les données nécessaires à l’exécution de la présente ordonnance contenues dans les déclarations en douane des substances et préparations importées ou exportées.[^9-1]
 
 [^9-1]: Nouvelle teneur selon l’annexe 4 ch. 46 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 

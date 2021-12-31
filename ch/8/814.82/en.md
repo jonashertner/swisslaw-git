@@ -4,11 +4,11 @@ title: "Ordinance of 10 November 2004 on the Rotterdam Convention on the Prior I
 short: ChemPICO
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: en
-version: 2021-06-01
+version: 2022-01-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210601/en/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210601-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2004-725-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PIC Ordinance, ChemPICO)
 
-of 10 November 2004 (Status as of 1 June 2021)
+of 10 November 2004 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -199,7 +199,7 @@ The importers must comply with the import decisions from Switzerland in accordan
 
 The FOEN[^8-1] is the designated national authority under Article 4 of the PIC Convention.
 
-[^8-1]: The name of this administrative unit has been modified pursuant to Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This amendment has been made throughout the text.
+[^8-1]: The name of this administrative unit has been changed pursuant to Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This change has been made throughout the text.
 
 #### Art. 8a
 
@@ -212,9 +212,10 @@ Within 15 days of receiving an export notification in terms of Article 3, the FO
 - a. for each chemical under Annex 1, provided the notification contains the required information;
 - b. for each chemical under Annex 2, provided the export restrictions are likely to be met.
 
-<sup>2</sup> The FOEN shall inform the Federal Customs Administration of the export notifications under Article 3 and of the identification numbers issued under paragraph 1.
+<sup>2</sup> The FOEN shall inform the Federal Office for Customs and Border Security (FOCBS)[^8a-2] of the export notifications under Article 3 and of the identification numbers issued under paragraph 1.
 
 [^8a-1]: Inserted by No I of the O of 22 March 2017, in force since 1 May 2017 ([AS 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^8a-2]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 #### Art. 9
 
@@ -224,7 +225,7 @@ Within 15 days of receiving an export notification in terms of Article 3, the FO
 
 <sup>2</sup> The federal agencies shall keep one another informed about facts and knowledge relating to implementation of the PIC Convention.
 
-<sup>3</sup> The FOEN may request from the Swiss Federal Customs Administration the details needed to enforce this Ordinance contained in customs declarations relating to imported and exported substances and preparations.[^9-1]
+<sup>3</sup> The FOEN may request from the FOCBS the details needed to enforce this Ordinance contained in customs declarations relating to imported and exported substances and preparations.[^9-1]
 
 [^9-1]: Amended by Annex 4 No 46 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 

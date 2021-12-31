@@ -4,11 +4,11 @@ title: "Ordinanza del 10 novembre 2004 relativa alla Convenzione di Rotterdam su
 short: OPICChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: it
-version: 2021-06-01
+version: 2022-01-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2004-725-20210601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-725-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20210601/it"
 
 (Ordinanza PIC, OPICChim)
 
-del 10 novembre 2004 (Stato 1° giugno 2021)
+del 10 novembre 2004 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -209,9 +209,10 @@ Entro 15 giorni dal ricevimento dell’annuncio di esportazione di cui all’art
 - a. per ogni prodotto chimico di cui all’appendice 1, sempre che l’annuncio contenga i dati richiesti;
 - b. per ogni prodotto chimico di cui all’appendice 2, sempre che siano presumibilmente rispettate le limitazioni di esportazione.
 
-<sup>2</sup> L’UFAM informa l’Amministrazione federale delle dogane in merito agli annunci di esportazione di cui all’articolo 3 nonché ai numeri di riferimento identificativi rilasciati conformemente al capoverso 1.
+<sup>2</sup> L’UFAM informa l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^8a-2] in merito agli annunci di esportazione di cui all’articolo 3 nonché ai numeri di riferimento identificativi rilasciati conformemente al capoverso 1.
 
 [^8a-1]: Introdotto dal n. I dell’O del 22 mar. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^8a-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo
 
 #### Art. 9
 
@@ -221,7 +222,7 @@ Entro 15 giorni dal ricevimento dell’annuncio di esportazione di cui all’art
 
 <sup>2</sup> Gli uffici federali si informano costantemente e a vicenda su fatti e informazioni connessi con l’applicazione della Convenzione PIC.
 
-<sup>3</sup> L’UFAM può esigere dall’Amministrazione federale delle dogane i dati necessari all’applicazione della presente ordinanza provenienti dalle dichiarazioni doganali di sostanze e preparati importati ed esportati.
+<sup>3</sup> L’UFAM può esigere dall’UDSC i dati necessari all’applicazione della presente ordinanza provenienti dalle dichiarazioni doganali di sostanze e preparati importati ed esportati.
 
 #### Art. 10
 
