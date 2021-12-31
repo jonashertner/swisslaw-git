@@ -4,13 +4,13 @@ number: "531.200"
 title: Gesetz über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeigesetz, PolG"
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2023-09-27
 version_adopted: 2020-12-08
 adopted: 2005-12-06
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2982/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2982/pdf_file"
 
 (Polizeigesetz, PolG)
 
-Vom 06.12.2005 (Stand 01.07.2021)
+Vom 06.12.2005 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -790,13 +790,11 @@ beschliesst:
 
 #### § 43a
 
-**Berichterstattung[^43a-1]**
+**Berichterstattung**
 
 <sup>1</sup> Die Kantonspolizei und die Polizeikräfte der Gemeinden erstatten dem Regierungsrat regelmässig Bericht über die durch sie angeordneten polizeilichen Massnahmen.
 
 <sup>2</sup> Der Regierungsrat regelt die Einzelheiten der Berichterstattung durch Verordnung.
-
-[^43a-1]: Inkrafttreten: 1. Januar 2022
 
 ### 2.2.2. Polizeilicher Zwang
 
