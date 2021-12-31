@@ -3,11 +3,11 @@ sr: "0.641.295.142.1"
 title: "Accordo del 12 luglio 2012 tra la Confederazione Svizzera e il Principato del Liechtenstein relativo al Trattato concernente l'imposta sul valore aggiunto nel Principato del Liechtenstein (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/486"
 language: it
-version: 2019-12-22
+version: 2022-01-01
 adopted: 2012-07-12
 in_force: 2012-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/486/20191222/it/xml/fedlex-data-admin-ch-eli-cc-2012-486-20191222-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/486/20191222/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/486/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-486-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/486/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2012** 4147
 
 Traduzione
 
-Concluso il 12 luglio 2012
+Concluso il 12 luglio 2012 Entrato in vigore il mediante scambio di note il 17 agosto 2012
 
-Entrato in vigore il mediante scambio di note il 17 agosto 2012
-
-(Stato 22 dicembre 2019)
+(Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero e il Governo del Principato del Liechtenstein,
 
@@ -70,7 +68,9 @@ Per il diritto alla deduzione dell’imposta precedente è irrilevante da quale 
 
 <sup>(2)</sup> In singoli casi, le amministrazioni delle contribuzioni dei due Stati contraenti possono convenire di assoggettare un’impresa come contribuente nell’altro Stato contraente.
 
-<sup>(3)</sup> L’imposta sulle importazioni di beni è riscossa nel territorio d’applicazione comune dall’Amministrazione federale delle dogane secondo le prescrizioni enumerate nell’Allegato II del presente Accordo. Modifiche e complementi dell’Allegato II sono effettuati, ad eccezione della legislazione doganale, secondo la procedura prevista dall’articolo 1 capoverso 2 del Trattato.
+<sup>(3)</sup> L’imposta sulle importazioni di beni è riscossa nel territorio d’applicazione comune dall’Amministrazione federale delle dogane[^5-1] secondo le prescrizioni enumerate nell’Allegato II del presente Accordo. Modifiche e complementi dell’Allegato II sono effettuati, ad eccezione della legislazione doganale, secondo la procedura prevista dall’articolo 1 capoverso 2 del Trattato.
+
+[^5-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 6
 
@@ -84,7 +84,9 @@ Per il diritto alla deduzione dell’imposta precedente è irrilevante da quale 
 
 **Cassa comune per le entrate IVA**
 
-Le entrate IVA contabilizzate dalle amministrazioni delle contribuzioni dei due Stati contraenti e dall’Amministrazione federale delle dogane affluiscono in una cassa comune istituita dal Dipartimento federale delle finanze secondo criteri uniformi.
+Le entrate IVA contabilizzate dalle amministrazioni delle contribuzioni dei due Stati contraenti e dall’Amministrazione federale delle dogane[^7-1] affluiscono in una cassa comune istituita dal Dipartimento federale delle finanze secondo criteri uniformi.
+
+[^7-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8
 
@@ -104,18 +106,19 @@ Se nell’arco di un mese dovesse presentare difficoltà di liquidità, l’Ammi
 
 **Assistenza reciproca**
 
-<sup>(1)</sup> Le amministrazioni delle contribuzioni dei due Stati contraenti nonché, nell’ambito dell’imposta sull’importazione, l’Amministrazione federale delle dogane e l’Amministrazione delle contribuzioni del Liechtenstein si prestano reciproca assistenza nell’adempimento dei loro compiti.[^10-1] Esse si mettono gratuitamente a disposizione tutte le pubblicazioni relative alla prassi, i moduli e i documenti giustificativi appropriati oppure vi concedono l’accesso.
+<sup>(1)</sup> Le amministrazioni delle contribuzioni dei due Stati contraenti nonché, nell’ambito dell’imposta sull’importazione, l’Amministrazione federale delle dogane[^10-1] e l’Amministrazione delle contribuzioni del Liechtenstein si prestano reciproca assistenza nell’adempimento dei loro compiti.[^10-2] Esse si mettono gratuitamente a disposizione tutte le pubblicazioni relative alla prassi, i moduli e i documenti giustificativi appropriati oppure vi concedono l’accesso.
 
 <sup>(2)</sup> Le amministrazioni delle contribuzioni dei due Stati contraenti si comunicano reciprocamente le informazioni che possono avere importanza in relazione ad autotassazioni di contribuenti inesatte, incomplete o che possono dar adito a dubbi, nella misura in cui concernono gli interessi dell’altro Stato contraente.
 
 <sup>(3)</sup> Per il controllo del pagamento e della riscossione dell’IVA nei casi previsti dall’articolo 3 capoverso 2 e per il controllo delle prestazioni effettuate e acquisite, su richiesta dell’Amministrazione federale delle contribuzioni svizzera, le transazioni possono essere verificate da parte dell’Amministrazione delle contribuzioni del Liechtenstein sul suo territorio e, su richiesta dell’Amministrazione delle contribuzioni del Liechtenstein, l’Amministrazione federale delle contribuzioni svizzera può verificare determinate transazioni nel rimanente territorio d’applicazione.
 
-(3*a*) In deroga al capoverso 3, l’amministrazione delle contribuzioni di uno degli Stati contraenti può controllare contribuenti iscritti nel proprio registro dei contribuenti IVA anche nel territorio dell’altro Stato. L’amministrazione delle contribuzioni dell’altro Stato deve essere informata previamente.[^10-2]
+(3*a*) In deroga al capoverso 3, l’amministrazione delle contribuzioni di uno degli Stati contraenti può controllare contribuenti iscritti nel proprio registro dei contribuenti IVA anche nel territorio dell’altro Stato. L’amministrazione delle contribuzioni dell’altro Stato deve essere informata previamente.[^10-3]
 
 <sup>(4)</sup> Le contestazioni sulla reciproca assistenza fra le amministrazioni delle contribuzioni dei due Stati contraenti dovranno essere sottoposte alla Commissione mista. In caso di mancato consenso, le controversie dovranno essere composte per via diplomatica.
 
-[^10-1]: Nuovo testo giusta la Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
-[^10-2]: Introdotto dalla Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
+[^10-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^10-2]: Nuovo testo giusta la Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
+[^10-3]: Introdotto dalla Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
 
 #### Art. 11
 
@@ -125,7 +128,7 @@ Se nell’arco di un mese dovesse presentare difficoltà di liquidità, l’Ammi
 
 (1<sup>bis</sup>) L’Amministrazione delle contribuzioni del Liechtenstein può, mediante procedura di richiamo, rendere accessibili al personale dell’Amministrazione federale delle dogane incaricato della determinazione e riscossione dell’imposta sul valore aggiunto e dell’esecuzione di procedimenti penali e amministrativi i dati per i quali la legge del Principato del Liechtenstein concernente l’imposta sul valore aggiunto prevede la comunicazione.[^11-1]
 
-(1<sup>ter</sup>) L’Amministrazione federale delle dogane può, mediante procedura di richiamo, rendere accessibili al personale dell’Amministrazione delle contribuzioni del Liechtenstein incaricato della determinazione e riscossione dell’imposta sul valore aggiunto i dati che, al momento dell’importazione ed esportazione di beni da parte di persone iscritte nel registro IVA del Liechtenstein, sono necessari ai fini dell’imposizione doganale.[^11-2]
+(1<sup>ter</sup>) L’Amministrazione federale delle dogane[^11-2] può, mediante procedura di richiamo, rendere accessibili al personale dell’Amministrazione delle contribuzioni del Liechtenstein incaricato della determinazione e riscossione dell’imposta sul valore aggiunto i dati che, al momento dell’importazione ed esportazione di beni da parte di persone iscritte nel registro IVA del Liechtenstein, sono necessari ai fini dell’imposizione doganale.[^11-3]
 
 <sup>(2)</sup> I dati comunicati ai sensi del presente Accordo devono essere elaborati e salvaguardati conformemente alle disposizioni in materia di protezione dei dati vigenti nei due Stati contraenti.
 
@@ -139,11 +142,14 @@ A tale scopo:
 
 <sup>(4)</sup> Gli Stati contraenti si impegnano a registrare la comunicazione, il ricevimento e la trasmissione di dati nonché a proteggere gli stessi da un trattamento abusivo mediante adeguate misure tecniche ed organizzative. Le autorità degli Stati contraenti competenti per la protezione dei dati esaminano l’elaborazione dei dati comunicati.
 
-<sup>(5)</sup> Alla persona interessata devono essere fornite, su richiesta, informazioni sui dati esistenti sulla sua persona nonché sull’utilizzazione prevista. Le amministrazioni delle contribuzioni dei due Stati contraenti nonché l’Amministrazione federale delle dogane possono rifiutare, limitare o differire la comunicazione delle informazioni, nella misura in cui l’interesse pubblico preponderante lo esiga o la comunicazione delle informazioni comprometta lo scopo di un’istruzione penale o di un’altra procedura d’inchiesta. Appena cessano i motivi di rifiuto, limitazione o differimento, le amministrazioni delle contribuzioni dei due Stati contraenti nonché l’Amministrazione federale delle dogane forniscono le informazioni, a meno che ciò sia impossibile, o possibile soltanto con mezzi sproporzionati.[^11-3]
+<sup>(5)</sup> Alla persona interessata devono essere fornite, su richiesta, informazioni sui dati esistenti sulla sua persona nonché sull’utilizzazione prevista. Le amministrazioni delle contribuzioni dei due Stati contraenti nonché l’Amministrazione federale delle dogane[^11-4] possono rifiutare, limitare o differire la comunicazione delle informazioni, nella misura in cui l’interesse pubblico preponderante lo esiga o la comunicazione delle informazioni comprometta lo scopo di un’istruzione penale o di un’altra procedura d’inchiesta. Appena cessano i motivi di rifiuto, limitazione o differimento, le amministrazioni delle contribuzioni dei due Stati contraenti nonché l’Amministrazione federale delle dogane[^11-5] forniscono le informazioni, a meno che ciò sia impossibile, o possibile soltanto con mezzi sproporzionati.[^11-6]
 
 [^11-1]: Introdotto dalla Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
-[^11-2]: Introdotto dalla Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
-[^11-3]: Nuovo testo giusta la Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
+[^11-2]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^11-3]: Introdotto dalla Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
+[^11-4]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^11-5]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^11-6]: Nuovo testo giusta la Dec. approvata dalla Commissione mista il 29 mag. 2019, in vigore dal 22 dic. 2019 ([RU 2019 4283](https://fedlex.data.admin.ch/eli/oc/2019/739)).
 
 #### Art. 12
 
