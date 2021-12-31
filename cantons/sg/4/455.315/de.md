@@ -1,22 +1,21 @@
 ---
 canton: SG
 number: "455.315"
-title: Verordnung über den Sport-Toto-Fonds
+title: Verordnung über den Sportfonds
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-30
+version: 2022-01-01
+version_adopted: 2021-08-31
 adopted: 2008-04-08
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/455.315"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3210/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Sport-Toto-Fonds
+# Verordnung über den Sportfonds
 
-vom 08.04.2008 (Stand 01.07.2021)
+vom 08.04.2008 (Stand 01.01.2022)
 
 Die Regierung des Kantons St.Gallen
 
@@ -29,13 +28,13 @@ als Verordnung:[^ingress-2]
 [^ingress-1]: sGS [455.31](https://www.gesetzessammlung.sg.ch/data/455.31/de).
 [^ingress-2]: In Vollzug ab 1. Januar 2009.
 
-## I. Sport-Toto-Fonds
+## I. Sportfonds
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Der Kanton St.Gallen führt einen Sport-Toto-Fonds:
+<sup>1</sup> Der Kanton St.Gallen führt einen Sportfonds:
 
 - a) zur Förderung des Sports im Kanton St.Gallen;
 - b) zur Unterstützung des Breiten- und Leistungssports in den Verbänden und deren Vereinen sowie der in diesen geleisteten ehrenamtlichen Tätigkeit. Sportvereinigungen, für die der entsprechende nationale Sportverband eine Aktiengesellschaft als Rechtsform vorschreibt, werden wie Vereine behandelt, soweit die Unterstützung den Nachwuchs betrifft.
@@ -63,7 +62,7 @@ als Verordnung:[^ingress-2]
 
 **Verwendung**
 
-<sup>1</sup> Die Beiträge sind für Sportarten bestimmt, die in den Verbänden der Swiss Olympic Association ausgeübt werden.
+<sup>1</sup> Die Beiträge sind für Sportarten bestimmt, die bei den Mitgliedern der Swiss Olympic Association ausgeübt werden.
 
 <sup>2</sup> Beiträge können geleistet werden an:
 
@@ -77,7 +76,13 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Betriebsbeiträge können an Anlagen von überregionaler Bedeutung geleistet werden.
 
-<sup>4</sup> Das Bildungsdepartement kann zur Überbrückung oder Abwendung einer durch höhere Gewalt drohenden Zahlungsunfähigkeit Verbänden und Vereinen nach Art. 1 Abs. 1 Bst. b dieses Erlasses zinslose Darlehen aus dem Sport-Toto-Fonds gewähren. Die Regierung bemisst den zur Verfügung stehenden Betrag.
+<sup>4</sup> Das Bildungsdepartement kann zur Überbrückung oder Abwendung einer durch höhere Gewalt drohenden Zahlungsunfähigkeit Verbänden und Vereinen nach Art. 1 Abs. 1 Bst. b dieses Erlasses zinslose Darlehen aus dem Sportfonds gewähren. Die Regierung bemisst den zur Verfügung stehenden Betrag.
+
+#### Art. 3a
+
+**Bemessung**
+
+<sup>1</sup> Die Bemessung von Beiträgen für Projekte mit anrechenbaren Gesamtkosten von mehr als Fr. 400 000.– erfolgt gemäss Berechnungsformel im Anhang zu diesem Erlass.
 
 #### Art. 4
 
@@ -87,8 +92,9 @@ als Verordnung:[^ingress-2]
 
 - a) hoch riskante Sportarten;
 - b) Anlagen, die auf eine vorwiegend kommerzielle Nutzung ausgerichtet sind;
+- b<sup>bis</sup>) Anlagen, für die in den 24 Monaten vor Einreichung eines neuen Gesuchs bereits Beiträge gesprochen wurden;
 - c) die Ausrüstung für den Sportunterricht an Schulen;
-- d) Veranstaltungen, die Jugend+Sport unterstützt. Vorbehalten sind kantonale Kurse sowie von der Sport-Toto-Kommission bewilligte Projekte und Programme;
+- d) Veranstaltungen, die Jugend+Sport unterstützt. Vorbehalten sind kantonale Kurse sowie von der Sportfonds-Kommission bewilligte Projekte und Programme;
 - d<sup>bis</sup>) Geldleistungen und Löhne;
 - e) vorwiegend gesellschaftliche Anlässe;
 - f) Investitionen und Auslagen zur Erfüllung öffentlicher Aufgaben.
@@ -121,17 +127,17 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Diesen Erlass setzen um:
 
 - a) Bildungsdepartement;
-- b) Sport-Toto-Kommission.
+- b) Sportfonds-Kommission.
 
 <sup>2</sup> Vorbehalten bleibt Art. 11 dieses Erlasses.
 
 #### Art. 8
 
-**b) Sport-Toto-Kommission**
+**b) Sportfonds-Kommission**
 
-<sup>1</sup> Die Sport-Toto-Kommission besteht aus dem Vorstand der Interessengemeinschaft St.Galler Sportverbände. Die Leiterin oder der Leiter des Amtes für Sport hat beratende Stimme.
+<sup>1</sup> Die Sportfonds-Kommission besteht aus dem Vorstand der Interessengemeinschaft St.Galler Sportverbände. Die Leiterin oder der Leiter des Amtes für Sport hat beratende Stimme.
 
-<sup>2</sup> Bildungsdepartement und Interessengemeinschaft St.Galler Sportverbände schliessen für die Erfüllung der Aufgabe der Sport-Toto-Kommission eine Leistungsvereinbarung insbesondere über:
+<sup>2</sup> Bildungsdepartement und Interessengemeinschaft St.Galler Sportverbände schliessen für die Erfüllung der Aufgabe der Sportfonds-Kommission eine Leistungsvereinbarung insbesondere über:
 
 - a) das Verfahren zur Prüfung der Gesuche, zur Antragstellung an das Bildungsdepartement und zum Vollzug der Beitragsleistungen;
 - b) eine Ermächtigung, Beiträge zu leisten;
@@ -148,11 +154,11 @@ als Verordnung:[^ingress-2]
 
 **Verfahren a) Verteilung der Mittel**
 
-<sup>1</sup> Das Bildungsdepartement verteilt die Mittel aus dem Fonds nach der Vereinbarung.[^9-1]
+<sup>1</sup> Das Bildungsdepartement verteilt die Mittel aus dem Sportfonds nach der Vereinbarung.[^9-1] Beiträge von mehr als Fr. 500 000.– bedürfen der Genehmigung der Regierung.
 
-<sup>2</sup> Die Sport-Toto-Kommission prüft die Gesuche und sorgt für den Vollzug der Beitragsleistungen.
+<sup>2</sup> Die Sportfonds-Kommission prüft die Gesuche und sorgt für den Vollzug der Beitragsleistungen.
 
-<sup>3</sup> Das Bildungsdepartement kann die Sport-Toto-Kommission ermächtigen, jährlich Beiträge von höchstens 75 Prozent des Fondsbestandes am Ende des Vorjahrs und Fr. 200 000.– im Einzelfall selbst auszurichten.
+<sup>3</sup> Das Bildungsdepartement kann die Sportfonds-Kommission ermächtigen, jährlich Beiträge von höchstens 75 Prozent des Fondsbestandes am 30. Juni des laufenden Jahres und Fr. 500 000.– im Einzelfall selbst auszurichten.
 
 [^9-1]: Art. 25 der Vereinbarung.
 
@@ -160,7 +166,7 @@ als Verordnung:[^ingress-2]
 
 **b) Ablehnung, Aussetzung und Rückforderung**
 
-<sup>1</sup> Ist ein Gesuch abzulehnen oder sind Beitragsleistungen auszusetzen oder geleistete Beiträge zurückzufordern, gibt die Sport-Toto-Kommission der Gesuchstellerin oder dem Gesuchsteller schriftlich Bescheid.
+<sup>1</sup> Ist ein Gesuch abzulehnen oder sind Beitragsleistungen auszusetzen oder geleistete Beiträge zurückzufordern, gibt die Sportfonds-Kommission der Gesuchstellerin oder dem Gesuchsteller schriftlich Bescheid.
 
 <sup>2</sup> Sie weist die Gesuchstellerin oder den Gesuchsteller auf das Recht hin, eine anfechtbare Verfügung des Bildungsdepartementes nach dem Gesetz über die Verwaltungsrechtspflege vom 16. Mai 1965[^10-1] zu erwirken.
 
@@ -177,7 +183,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Art. 3 bis 6 und Art. 10 dieses Erlasses werden sachgemäss angewendet.
 
-<sup>3</sup> Regierung oder Bildungsdepartement können die Sport-Toto-Kommission zur Stellungnahme einladen oder die Gesuchstellerin oder den Gesuchsteller auf das Verfahren nach Art. 9 und 10 dieses Erlasses verweisen.
+<sup>3</sup> Regierung oder Bildungsdepartement können die Sportfonds-Kommission zur Stellungnahme einladen oder die Gesuchstellerin oder den Gesuchsteller auf das Verfahren nach Art. 9 und 10 dieses Erlasses verweisen.
 
 ## IV. Schlussbestimmung
 
