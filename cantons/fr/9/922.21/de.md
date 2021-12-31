@@ -4,13 +4,13 @@ number: "922.21"
 title: Verordnung über die Aufsicht über die Tier- und Pflanzenwelt und über die Jagd und die Fischerei
 short: AufsV
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-23
 adopted: 2023-10-09
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/6330/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6982/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Aufsicht über Tier- und Pflanzenwelt, Jagd und Fischerei – V
 
 (AufsV)
 
-vom 16.12.2003 (Fassung in Kraft getreten am 01.04.2019)
+vom 16.12.2003 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -231,6 +231,8 @@ beschliesst:
 
 <sup>2</sup> Das Amt sorgt für die Ausbildung der übrigen Beamten der Wildhut.
 
+<sup>3</sup> Die kantonale Gesetzgebung über die Ordnungsbussen bleibt vorbehalten.
+
 #### Art. 23
 
 **Amtsgeheimnis**
@@ -273,7 +275,7 @@ beschliesst:
 
 <sup>1</sup> Der Wildhüter-Fischereiaufseher hat folgende Aufgaben:
 
-- a) Er sorgt für die Einhaltung der Gesetzgebung über die Jagd sowie den Schutz wild lebender Säugetiere und Vögel und ihrer Lebensräume und der Gesetzgebung über die Fischerei und den Naturschutz.
+- a) Er sorgt für die Einhaltung der Gesetzgebung über die Jagd sowie den Schutz wild lebender Säugetiere und Vögel und ihrer Lebensräume, der Gesetzgebung über die Fischerei und den Naturschutz und der kantonalen Gesetzgebung über die Ordnungsbussen.
 - b) Er führt die Weisungen des Amtes aus.
 - c) Er nimmt die ihm durch die Gesetzgebung nach Buchstabe a übertragenen Aufgaben wahr und wirkt beim Vollzug der Gesetzgebung über den Wald, den Gewässerschutz, die Tierseuchen, den Tierschutz und denVerkehr mit.
 - d) Er trägt zur Information der Öffentlichkeit über seine Tätigkeitsbereiche bei.
@@ -323,7 +325,7 @@ beschliesst:
 
 <sup>1</sup> Der Aufseher in den Naturschutzgebieten hat folgende Aufgaben:
 
-- a) Er sorgt für die Einhaltung der Gesetzgebung über den Natur- und Landschaftsschutz.
+- a) Er sorgt für die Einhaltung der Gesetzgebung über den Natur- und Landschaftsschutz und der kantonalen Gesetzgebung über die Ordnungsbussen.
 - b) Er führt die Weisungen des Amtes aus.
 - c) Er nimmt die Aufgaben, die ihm durch die Gesetzgebung nach Buchstabe a übertragen werden, wahr; Er wirkt beim Vollzug der Gesetzgebung über den Wald, die Jagd und den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume, die Fischerei, den Gewässerschutz, die Tierseuchen, den Tierschutz und den Verkehr mit.
 - d) Er trägt zur Information der Öffentlichkeit über seine Tätigkeitsbereiche bei.

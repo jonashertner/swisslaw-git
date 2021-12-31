@@ -4,13 +4,13 @@ number: "922.21"
 title: "Ordonnance sur la surveillance de la faune et de la flore, de la chasse et de la pêche"
 short: OSurv
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-23
 adopted: 2023-10-09
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6330/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6982/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Surveillance de la faune, de la flore, de la chasse et de la pêche – O
 
 (OSurv)
 
-du 16.12.2003 (version entrée en vigueur le 01.04.2019)
+du 16.12.2003 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -231,6 +231,8 @@ Arrête:
 
 <sup>2</sup> Le Service pourvoit à la formation des autres agents de la police de la faune.
 
+<sup>3</sup> La législation cantonale sur les amendes d'ordre est réservée.
+
 #### Art. 23
 
 **Secret de fonction**
@@ -273,7 +275,7 @@ Arrête:
 
 <sup>1</sup> Le garde-faune assume les tâches suivantes:
 
-- a) il veille au respect de la législation sur la chasse, la protection des mammifères, des oiseaux sauvages et de leurs biotopes, la pêche et la protection de la nature;
+- a) il veille au respect de la législation sur la chasse, la protection des mammifères, des oiseaux sauvages et de leurs biotopes, la pêche et la protection de la nature, ainsi que de la législation cantonale sur les amendes d'ordre;
 - b) il exécute les directives du Service;
 - c) il exécute les tâches qui lui sont confiées par la législation mentionnée sous la lettre a; il collabore à l'exécution de la législation sur les forêts, la protection des eaux, les épizooties, la protection des animaux et la circulation;
 - d) il contribue à l'information du public dans ses domaines d'activités;
@@ -323,7 +325,7 @@ Arrête:
 
 <sup>1</sup> Le surveillant assume les tâches suivantes:
 
-- a) il veille au respect de la législation sur la protection de la nature et du paysage;
+- a) il veille au respect de la législation sur la protection de la nature et du paysage, ainsi que de la législation cantonale sur les amendes d'ordre;
 - b) il exécute les directives du Service;
 - c) il exécute les tâches qui lui sont confiées par la législation mentionnée sous la lettre a; il collabore à l'exécution de la législation sur les forêts, sur la chasse et la protection des mammifères, des oiseaux sauvages et de leurs biotopes, sur la pêche, sur la protection des eaux, sur les épizooties, sur la protection des animaux et sur la circulation;
 - d) il contribue à l'information du public dans ses domaines d'activité;
