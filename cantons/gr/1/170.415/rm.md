@@ -4,36 +4,39 @@ number: "170.415"
 title: Ordinaziun davart il temp da lavur
 short: OTL
 language: rm
-version: 2012-12-01
-corrected: 2014-11-25
-version_adopted: 2012-09-25
+version: 2020-10-01
+corrected: 2022-01-01
+version_adopted: 2020-09-22
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1733/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3079/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart il temp da lavur (OTL)
+# Ordinaziun davart il temp da lavur
 
-sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^t-1] e sin l'art. 49 da la lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun (lescha dal persunal, LP)[^t-2]
+(OTL)
+
+dals 08-03-2011 (versiun dals 01-10-2020)
+
+sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 49 da la lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun (lescha dal persunal, LP)[^ingress-2]
 
 relaschada da la regenza ils 8 da mars 2011
 
-I. Champ d'applicaziun, cumpetenza e princips
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm/art45)
+[^ingress-2]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm/art49)
 
-[^t-1]: DG 110.100
-[^t-2]: DG 170.400
+## 1. Champ d'applicaziun, cumpetenza e princips
 
 #### Art. 1
 
 **Champ d'applicaziun**
 
-Questa ordinaziun regla il temp da lavur da las collavuraturas e dals collavuraturs chantunals tenor l'artitgel 3 alinea 1 da la lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun (lescha dal persunal, LP)[^1-1].
+<sup>1</sup> Questa ordinaziun regla il temp da lavur da las collavuraturas e dals collavuraturs chantunals tenor l'artitgel 3 alinea 1 da la lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun (lescha dal persunal, LP)[^1-1].
 
-[^1-1]: DG 170.400 1-12-2012 1
+[^1-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 2
 
@@ -53,7 +56,7 @@ Questa ordinaziun regla il temp da lavur da las collavuraturas e dals collavurat
 
 <sup>2</sup> Las collavuraturas ed ils collavuraturs n'han nagin dretg sin ina tscherta furma da temp da lavur u sin in tschert plan da temp da lavur.
 
-### II. Disposiziuns generalas
+## 2. Disposiziuns generalas
 
 #### Art. 4
 
@@ -65,11 +68,13 @@ Questa ordinaziun regla il temp da lavur da las collavuraturas e dals collavurat
 
 #### Art. 5
 
-**2. servetsch extern**
+**2. viadis da servetsch**
 
-<sup>1</sup> Sco servetsch extern valan activitads d'in mez u d'in entir di ordaifer il lieu da lavur. Registrà vegn il temp da lavur prestà effectivamain entaifer las uras da manaschi tenor l'artitgel 7. Quest temp vegn mess a quint cun maximalmain 11 uras per in entir di e cun maximalmain 5,5 uras per in mez di.
+<sup>1</sup> Da princip vala il temp da viadi davent dal lieu da lavur fin al lieu d'acziun ed enavos sco temp da lavur.
 
-<sup>2</sup> Il temp da viadi davent dal lieu da lavur al lieu d'acziun respectiv ed enavos vala sco temp da lavur. Sch'il lieu d'acziun sa chatta pli datiers dal lieu da domicil da la collavuratura u dal collavuratur, vegn mess a quint sco temp da lavur il temp da viadi davent dal lieu da domicil al lieu d'acziun.
+<sup>2</sup> Il temp da viadi davent dal lieu da domicil u davent d'in auter lieu fin al lieu d'acziun ed enavos vala sco temp da lavur, sch'el è pli curt.
+
+<sup>3</sup> En cunvegnientscha cun il departament e cun il UP pon vegnir fixadas regulaziuns divergentas, en spezial sch'i vegn lavurà principalmain ordaifer il lieu da lavur u en viadi.
 
 #### Art. 6
 
@@ -85,17 +90,13 @@ Questa ordinaziun regla il temp da lavur da las collavuraturas e dals collavurat
 
 **Uras da manaschi**
 
-Las uras da manaschi resultan ubain dal plan da temp da lavur ch'è vegnì fixà da l'instanza cumpetenta ubain dal temp da lavur fix.
+<sup>1</sup> Las uras da manaschi resultan ubain dal plan da temp da lavur ch'è vegnì fixà da l'instanza cumpetenta ubain dal temp da lavur fix.
 
 #### Art. 8
 
 **Uras d'avertura e cuntanschibladad per telefon**
 
 <sup>1</sup> Las uras d'avertura èn da las 08.00 fin las 12.00 e da las 13.30 fin las 17.00. Durant questas uras sto vegnir garantida la cuntanschibladad per telefon.
-
-**2**
-
-1-12-2012
 
 <sup>2</sup> Sch'ils basegns da la clientella pretendan quai, ston vegnir extendidas las uras d'avertura. En il cas singul sto la clientella vegnir retschavida er ordaifer las uras d'avertura.
 
@@ -107,7 +108,7 @@ Las uras da manaschi resultan ubain dal plan da temp da lavur ch'è vegnì fixà
 
 <sup>1</sup> Sco firads valan Bumaun, il venderdi sontg, il glindesdi da Pasca, Ascensiun, il glindesdi da Tschuncaisma, il 1. d'avust, il di da Nadal e Son Steffan. Sche quests firads na pon betg vegnir retratgs per motivs dal manaschi, exista in dretg sin cumpensaziun cun temp liber. Firads che crodan en las vacanzas na vegnan betg mess a quint sco vacanzas.
 
-<sup>2</sup> Ils firads locals supplementars che vegnan designads da las vischnancas valan – cun resalva dals interess dal manaschi – per las collavuraturas e per ils collavuraturs che han là lur lieu da lavur.
+<sup>2</sup> Ils firads locals supplementars che vegnan designads da las vischnancas respectivamain da las fracziuns valan – cun resalva dals interess dal manaschi – per las collavuraturas ed ils collavuraturs che han là lur lieu da lavur.
 
 <sup>3</sup> Per motivs dal manaschi pon las collavuraturas ed ils collavuraturs vegnir engaschads en auters lieus durant ils firads locals.
 
@@ -123,8 +124,8 @@ Las uras da manaschi resultan ubain dal plan da temp da lavur ch'è vegnì fixà
 
 <sup>3</sup> Ils ulteriurs 2,5 dis vegnan quintads tar las vacanzas tenor l'artitgel 49 alinea 1 LP[^10-2].
 
-[^10-1]: DG 170.400
-[^10-2]: DG 170.400 1-12-2012 3
+[^10-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm/art49)
+[^10-2]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm/art49)
 
 #### Art. 11
 
@@ -151,12 +152,11 @@ Las uras da manaschi resultan ubain dal plan da temp da lavur ch'è vegnì fixà
 <sup>1</sup> Sco uras supplementaras valan mo las uras da lavur ch'èn vegnidas ordinadas u permessas da l'instanza cumpetenta:
 
 - a) ordaifer las uras da manaschi che valan tenor il plan da temp da lavur fixà en cas d'in temp da lavur per mais;
-
 - b) ordaifer las uras da manaschi fixadas da l'instanza cumpetenta en cas d'in temp da lavur fix.
 
 <sup>2</sup> Uras supplementaras ston vegnir cumpensadas cun temp liber da medema durada. Il saldo da las uras supplementaras sto vegnir reducì ina giada per onn a maximalmain 25 uras supplementaras.
 
-<sup>3</sup> Sch'ina cumpensaziun cun temp liber n'è betg pussaivla, importa l'indemnisaziun finanziala – en cas d'in grad d'occupaziun da 100 pertschient – 1/183 dal salari da basa mensil per mintga ura supplementara, inclusiv la part dal 13. salari mensil plus in supplement da 25 pertschient.
+<sup>3</sup> Sch'ina cumpensaziun cun temp liber n'è betg pussaivla, importa l'indemnisaziun finanziala – en cas d'in grad d'occupaziun da 100 pertschient – 1/183 dal salari da basa mensil per mintga ura supplementara, inclusiv la part dal 13avel salari mensil plus in supplement da 25 pertschient.
 
 <sup>4</sup> Sche la pussaivladad da cumpensar uras supplementaras cun temp liber na vegn betg tratga a niz, dastgan maximalmain 25 uras supplementaras vegnir transferidas sin la proxima perioda da rendaquint. Eventualas ulteriuras uras supplementaras scrodan senza indemnisaziun.
 
@@ -164,17 +164,15 @@ Las uras da manaschi resultan ubain dal plan da temp da lavur ch'è vegnì fixà
 
 **Registraziun dal temp e da la prestaziun**
 
-<sup>1</sup>[^14-1]Collavuraturas e collavuraturs ch'èn engaschads durant passa 3 mais ston registrar lur temp da lavur e lur absenzas en moda electronica. Lur prestaziuns ston vegnir registradas cunvegnentamain en coordinaziun cun la contabilitad dals custs e da las prestaziuns.
+<sup>1</sup> Collavuraturas e collavuraturs ch'èn engaschads durant passa 3 mais ston registrar lur temp da lavur e lur absenzas en moda electronica. Lur prestaziuns ston vegnir registradas cunvegnentamain en coordinaziun cun la contabilitad dals custs e da las prestaziuns.
 
 <sup>2</sup> Betg registrads en il sistem na vegnan praticums sco er collavuraturas e collavuraturs cun salaris per ura, cun salaris per di u cun salaris pauschals. Davart excepziuns decida l'instanza cumpetenta.
 
 <sup>3</sup> Las manadras ed ils manaders dals posts da servetsch, lur substitutas e lur substituts sco er las secretarias ed ils secretaris dals departaments ston registrar mo las absenzas da mezs u d'entirs dis. Ellas ed els disponan libramain da lur temp da lavur confurm a lur incumbensas. Eventuala lavur supplementara vala sco inclusa en il salari. Las prestaziuns pon vegnir registradas cun pauschalas.
 
-[^14-1]: versiun tenor l'ordinaziun davart l'adattaziun d'ordinaziuns da la regenza en connex cun l'introducziun dal MAC2; mess en vigur cun CR dals 25 da settember 2012 per il 1. da december 2012 4 1-12-2012
+## 3. Furmas da temp da lavur
 
-### III. Furmas da temp da lavur
-
-- 1\. TEMP DA LAVUR PER MAIS
+### 3.1. Temp da lavur per mais
 
 #### Art. 15
 
@@ -182,11 +180,14 @@ Las uras da manaschi resultan ubain dal plan da temp da lavur ch'è vegnì fixà
 
 <sup>1</sup> Per il temp da lavur per mais valan las suandants uras da lavur flexiblas e las suandantas uras da bloc:
 
-uras da lavur flexiblas: uras da bloc:
+<table>
+<tr><th>uras da lavur flexiblas:</th><th>uras da bloc:</th></tr>
+<tr><td>da las 06.00 fin las 08.30</td><td>da las 08.30 fin las 11.00</td></tr>
+<tr><td>da las 11.00 fin las 14.00</td><td>da las 14.00 fin las 16.30</td></tr>
+<tr><td>da las 16.30 fin las 20.00</td><td></td></tr>
+</table>
 
-da las 06.00 fin las 08.30 da las 08.30 fin las 11.00 da las 11.00 fin las 14.00 da las 14.00 fin las 16.30 da las 16.30 fin las 20.00 Exceptà da quai è il venderdi suentermezdi. Lura duran las uras da bloc da las 14.00 fin las 16.00 e las uras da lavur flexiblas da las 16.00 fin las 20.00.
-
-<sup>2</sup> Durant las uras da bloc ston esser preschents tut las collavuraturas e tut ils collavuraturs. L'instanza cumpetenta po permetter sortidas privatas motivadas durant las uras da bloc.
+<sup>2</sup> Durant las uras da bloc ston tut las collavuraturas e tut ils collavuraturs da princip esser preschents u cuntanschibels al lieu da lavur.
 
 #### Art. 16
 
@@ -204,21 +205,17 @@ da las 06.00 fin las 08.30 da las 08.30 fin las 11.00 da las 11.00 fin las 14.00
 
 <sup>1</sup> Avant che finir la relaziun da lavur sto vegnir cumpensà il saldo positiv u negativ da las uras da lavur flexiblas.
 
-**5**
-
-1-12-2012
-
 <sup>2</sup> In saldo positiv vegn indemnisà en daners e senza supplements, sch'i n'è betg stà pussaivel da reducir il surpli d'uras fin a l'extrada, saja quai pervia da motivs da la lavur u pervia d'absenzas pli lungas pajadas. In saldo positiv da main che 3 uras scroda senza indemnisaziun.
 
 <sup>3</sup> Sch'i resta in saldo negativ da 3 uras u dapli, vegn reducì proporziunalmain il salari u vegn pretendì enavos il salari pajà da memia.
 
-- 2\. TEMP DA LAVUR PER ONN
+### 3.2. Temp da lavur per onn
 
 #### Art. 18
 
 **Intent**
 
-Cun il temp da lavur per onn duai vegnir cuntanschida ina flexibilitad uschè gronda sco pussaivel tar la concepziun dal temp da lavur. Il temp da lavur duai vegnir adattà a variaziuns da la chargia da lavur durant l'onn sco er als differents basegns da las collavuraturas e dals collavuraturs.
+<sup>1</sup> Cun il temp da lavur per onn duai vegnir cuntanschida ina flexibilitad uschè gronda sco pussaivel tar la concepziun dal temp da lavur. Il temp da lavur duai vegnir adattà a variaziuns da la chargia da lavur durant l'onn sco er als differents basegns da las collavuraturas e dals collavuraturs.
 
 #### Art. 19
 
@@ -242,32 +239,24 @@ Cun il temp da lavur per onn duai vegnir cuntanschida ina flexibilitad uschè gr
 
 **Disposiziuns restrenschentas**
 
-Suenter avair tadlà l'uffizi da persunal pon las instanzas cumpetentas restrenscher las disposiziuns davart il temp da lavur per onn, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats dals departaments dovran il consentiment dal departament per quest intent.
+<sup>1</sup> Suenter avair tadlà l'uffizi da persunal pon las instanzas cumpetentas restrenscher las disposiziuns davart il temp da lavur per onn, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats dals departaments dovran il consentiment dal departament per quest intent.
 
-- 3\. TEMP DA LAVUR FIX
+### 3.3. Temp da lavur fix
 
 #### Art. 22
 
 **Temp da lavur fix**
 
-Per motivs organisatorics u per auters motivs dal manaschi po l'instanza cumpetenta fixar il cumenzament e la fin da la lavur per mintga sectur u en moda individuala.
+<sup>1</sup> Per motivs organisatorics u per auters motivs dal manaschi po l'instanza cumpetenta fixar il cumenzament e la fin da la lavur per mintga sectur u en moda individuala.
 
-**6**
-
-1-12-2012
-
-### IV. Disposiziuns finalas
+## 4. Disposiziuns finalas
 
 #### Art. 23
 
 **Aboliziun dal dretg vertent, entrada en vigur**
 
-Questa ordinaziun entra en vigur il 1. da matg 2011 e remplazza l'ordinaziun davart il temp da lavur dals 12 da december 2006[^23-1].
+<sup>1</sup> Questa ordinaziun entra en vigur il 1. da matg 2011 e remplazza l'ordinaziun davart il temp da lavur dals 12 da december 2006[^23-1].
 
-[^23-1]: CUL 2006, 4867 1-12-2012 7
+[^23-1]: CUL 2006, 4867
 
-### Agiunta
-
-**8**
-
-1-12-2012
+-

@@ -4,36 +4,39 @@ number: "170.415"
 title: "Ordinanza sull'orario di lavoro"
 short: OOL
 language: it
-version: 2012-12-01
-corrected: 2014-11-25
-version_adopted: 2012-09-25
+version: 2020-10-01
+corrected: 2022-01-01
+version_adopted: 2020-09-22
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1733/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3079/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sull'orario di lavoro (OOL)
+# Ordinanza sull'orario di lavoro
+
+(OOL)
+
+del 08.03.2011 (stato 01.10.2020)
 
 emanata dal Governo l'8 marzo 2011
 
-visti l'art. 45 cpv. 1 della Costituzione cantonale[^t-1] e l'art. 49 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni (legge sul personale, LCPers)[^t-2]
+visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni (legge sul personale, LCPers)[^ingress-2].
 
-I. Campo d'applicazione, competenza e condizioni quadro
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it/art45)
+[^ingress-2]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it/art49)
 
-[^t-1]: CSC 110.100
-[^t-2]: CSC 170.400
+## 1. Campo d'applicazione, competenza e condizioni quadro
 
 #### Art. 1
 
 **Campo d'applicazione**
 
-La presente ordinanza disciplina l'orario di lavoro dei collaboratori cantonali conformemente all'articolo 3 capoverso 1 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni (legge sul personale, LCPers)[^1-1].
+<sup>1</sup> La presente ordinanza disciplina l'orario di lavoro dei collaboratori cantonali conformemente all'articolo 3 capoverso 1 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni (legge sul personale, LCPers)[^1-1].
 
-[^1-1]: CSC 170.400 1.12.2012 1
+[^1-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 2
 
@@ -53,7 +56,7 @@ La presente ordinanza disciplina l'orario di lavoro dei collaboratori cantonali 
 
 <sup>2</sup> I collaboratori non hanno un diritto assoluto a una determinata forma di orario di lavoro o a un determinato modello di orario di lavoro.
 
-### II. Disposizioni generali
+## 2. Disposizioni generali
 
 #### Art. 4
 
@@ -65,11 +68,13 @@ La presente ordinanza disciplina l'orario di lavoro dei collaboratori cantonali 
 
 #### Art. 5
 
-**2. Servizio esterno**
+**2. Viaggi di servizio**
 
-<sup>1</sup> Sono considerate servizio esterno le attività di mezza giornata o di una giornata intera fuori della sede di servizio. Va rilevato l'orario di lavoro effettivamente prestato durante l'orario d'esercizio conformemente all'articolo 7. Esso viene riconosciuto con al massimo undici ore per giorno intero e con al massimo cinque ore e mezza per mezza giornata.
+<sup>1</sup> In linea di principio il tempo di trasferta dal luogo di lavoro al luogo d'intervento e ritorno è considerato orario di lavoro.
 
-<sup>2</sup> Il tempo di trasferta dal luogo di servizio al luogo d'intervento e ritorno è considerato orario di lavoro. Se il luogo d'intervento si trova più vicino al domicilio del collaboratore, viene riconosciuto quale orario di lavoro il tempo di trasferta dal domicilio al luogo d'intervento.
+<sup>2</sup> Il tempo di trasferta dal domicilio o da un altro luogo al luogo d'intervento e ritorno è considerato orario di lavoro se tale tempo di trasferta è più breve.
+
+<sup>3</sup> D'intesa con il Dipartimento e l'UP è possibile stabilire regolamentazioni divergenti, in particolare se il lavoro si svolge principalmente in un luogo diverso dal luogo di lavoro o in viaggio.
 
 #### Art. 6
 
@@ -85,17 +90,13 @@ La presente ordinanza disciplina l'orario di lavoro dei collaboratori cantonali 
 
 **Orario d'esercizio**
 
-L'orario d'esercizio risulta dal modello di orario di lavoro stabilito dall'autorità competente o dall'orario di lavoro fisso.
+<sup>1</sup> L'orario d'esercizio risulta dal modello di orario di lavoro stabilito dall'autorità competente o dall'orario di lavoro fisso.
 
 #### Art. 8
 
 **Orari di apertura al pubblico e reperibilità telefonica**
 
 <sup>1</sup> Gli orari di apertura coprono la fascia che va dalle ore 08.00 alle ore 12.00 e dalle ore 13.30 alle ore 17.00. In questi orari va garantita la reperibilità telefonica.
-
-**2**
-
-1.12.2012
 
 <sup>2</sup> Se le esigenze dell'utenza lo richiedono, gli orari di apertura vanno estesi. In singoli casi, gli utenti devono essere ricevuti anche al di fuori degli orari di apertura.
 
@@ -107,7 +108,7 @@ L'orario d'esercizio risulta dal modello di orario di lavoro stabilito dall'auto
 
 <sup>1</sup> Sono giorni festivi Capodanno, Venerdì Santo, Lunedì di Pasqua, Ascensione, Lunedì di Pentecoste, 1° agosto, Natale e Santo Stefano. Se per ragioni aziendali non si può usufruire di questi giorni festivi, si ha diritto alla compensazione con tempo libero. I giorni festivi che cadono durante le vacanze non vengono conteggiati come giorni di vacanza.
 
-<sup>2</sup> I giorni festivi locali supplementari designati dai comuni valgono per i collaboratori la cui sede di servizio si trova nel rispettivo comune, fatti salvi gli interessi aziendali.
+<sup>2</sup> I giorni festivi locali supplementari designati dai comuni o dalle frazioni valgono per i collaboratori il cui luogo di lavoro si trova nel rispettivo comune, fatti salvi gli interessi aziendali.
 
 <sup>3</sup> Nei giorni in cui cadono le festività locali i collaboratori possono essere impiegati altrove per ragioni aziendali.
 
@@ -123,16 +124,16 @@ L'orario d'esercizio risulta dal modello di orario di lavoro stabilito dall'auto
 
 <sup>3</sup> I rimanenti due giorni e mezzo conformemente all'articolo 49 capoverso 1 LCPers[^10-2] vengono aggiunti alle vacanze.
 
-[^10-1]: CSC 170.400
-[^10-2]: CSC 170.400 1.12.2012 3
+[^10-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it/art49)
+[^10-2]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it/art49)
 
 #### Art. 11
 
 **2. non pagati**
 
-<sup>1</sup> Se l'attività del servizio lo consente e il servizio lo autorizza, i collaboratori con un volume d'impiego del 100 percento possono prendere cinque o dieci giorni liberi supplementari non pagati per anno civile.
+<sup>1</sup> Se l'attività del servizio lo consente e il servizio lo autorizza, i collaboratori con un volume d'impiego del 100 per cento possono prendere cinque o dieci giorni liberi supplementari non pagati per anno civile.
 
-<sup>2</sup> In caso di cinque giorni supplementari il salario viene ridotto dell'1,98 percento, in caso di dieci giorni liberi supplementari non pagati del 3,96 percento.
+<sup>2</sup> In caso di cinque giorni supplementari il salario viene ridotto dell'1,98 per cento, in caso di dieci giorni liberi supplementari non pagati del 3,96 per cento.
 
 <sup>3</sup> Una volta scelto, il modello vale almeno per un anno civile e non può essere modificato nel frattempo. In assenza di una richiesta di revoca, il modello scelto vale anche per l'anno seguente.
 
@@ -148,13 +149,14 @@ L'orario d'esercizio risulta dal modello di orario di lavoro stabilito dall'auto
 
 **Lavoro straordinario**
 
-<sup>1</sup> Sono considerate lavoro straordinario solo le ore lavorative ordinate o autorizzate dall'autorità competente a) al di fuori dell'orario d'esercizio valido secondo il modello di orario di lavoro stabilito, in caso di orario di lavoro mensile;
+<sup>1</sup> Sono considerate lavoro straordinario solo le ore lavorative ordinate o autorizzate dall'autorità competente
 
+- a) al di fuori dell'orario d'esercizio valido secondo il modello di orario di lavoro stabilito, in caso di orario di lavoro mensile;
 - b) al di fuori dell'orario d'esercizio stabilito dall'autorità competente, in caso di orario di lavoro fisso.
 
 <sup>2</sup> Il lavoro straordinario va compensato con tempo libero di pari durata. Il saldo del lavoro straordinario va ridotto una volta all'anno ad al massimo 25 ore.
 
-<sup>3</sup> Se la compensazione con ore di tempo libero non è possibile, l'indennità finanziaria in caso di occupazione al 100 percento ammonta a 1/183 del salario base mensile per ogni ora di lavoro straordinario, inclusa la quota per la 13a mensilità, più un supplemento del 25 percento.
+<sup>3</sup> Se la compensazione con ore di tempo libero non è possibile, l'indennità finanziaria in caso di occupazione al 100 per cento ammonta a 1/183 del salario base mensile per ogni ora di lavoro straordinario, inclusa la quota per la 13a mensilità, più un supplemento del 25 per cento.
 
 <sup>4</sup> Se non si fa uso della possibilità di compensare il lavoro straordinario con ore di tempo libero, al periodo di conteggio successivo possono essere riportate al massimo 25 ore di lavoro straordinario. Le ore di lavoro straordinario che eventualmente eccedono tale misura decadono senza diritto a indennizzo.
 
@@ -162,17 +164,15 @@ L'orario d'esercizio risulta dal modello di orario di lavoro stabilito dall'auto
 
 **Rilevamento dell'orario di lavoro e delle prestazioni**
 
-<sup>1</sup>[^14-1]I collaboratori la cui durata d'impiego supera i tre mesi devono rilevare in forma elettronica il tempo di lavoro e le assenze. Le prestazioni devono essere rilevate in modo opportuno in accordo con il calcolo dei costi e delle prestazioni.
+<sup>1</sup> I collaboratori la cui durata d'impiego supera i tre mesi devono rilevare in forma elettronica il tempo di lavoro e le assenze. Le prestazioni devono essere rilevate in modo opportuno in accordo con il calcolo dei costi e delle prestazioni.
 
 <sup>2</sup> Nel sistema non vengono rilevati i periodi di pratica, nonché i collaboratori con salario orario, giornaliero o forfetario. L'autorità competente decide in merito alle eccezioni.
 
 <sup>3</sup> I capi servizio, i loro supplenti, nonché i segretari di concetto devono rilevare solo le assenze di mezza giornata o di giornate intere. Essi suddividono autonomamente il proprio orario di lavoro in base ai loro compiti. Un eventuale lavoro supplementare è considerato incluso nel salario. Le prestazioni possono venire rilevate con indicazioni forfetarie.
 
-[^14-1]: Testo giusta ordinanza sull'adeguamento di ordinanze governative in relazione all'introduzione del MCA2; posto in vigore il 1° dicembre 2012 con DG del
+## 3. Forme di orario di lavoro
 
-### III. Forme di orario di lavoro
-
-- 1\. ORARIO DI LAVORO MENSILE
+### 3.1. Orario di lavoro mensile
 
 #### Art. 15
 
@@ -180,11 +180,14 @@ L'orario d'esercizio risulta dal modello di orario di lavoro stabilito dall'auto
 
 <sup>1</sup> In caso di orario di lavoro mensile vigono i seguenti orari flessibili e orari fissi:
 
-Orari flessibili: Orari fissi:
+<table>
+<tr><th>Orari flessibili:</th><th>Orari fissi:</th></tr>
+<tr><td>dalle 06.00 alle 08.30</td><td>dalle 08.30 alle 11.00</td></tr>
+<tr><td>dalle 11.00 alle 14.00</td><td>dalle 14.00 alle 16.30</td></tr>
+<tr><td>dalle 16.30 alle 20.00</td><td></td></tr>
+</table>
 
-dalle 06.00 alle 08.30 dalle 08.30 alle 11.00 dalle 11.00 alle 14.00 dalle 14.00 alle 16.30 dalle 16.30 alle 20.00 Fa eccezione il venerdì pomeriggio, quando l'orario fisso va dalle 14.00 alle 16.00 e l'orario flessibile dalle 16.00 alle 20.00.
-
-<sup>2</sup> Durante gli orari fissi tutti i collaboratori devono essere presenti. L'autorità competente può autorizzare uscite private motivate durante gli orari fissi.
+<sup>2</sup> Durante gli orari fissi in linea di principio tutti i collaboratori devono essere presenti sul luogo di lavoro o essere reperibili.
 
 #### Art. 16
 
@@ -202,21 +205,17 @@ dalle 06.00 alle 08.30 dalle 08.30 alle 11.00 dalle 11.00 alle 14.00 dalle 14.00
 
 <sup>1</sup> Prima della conclusione del rapporto di lavoro, il saldo dell'orario flessibile, positivo o negativo, deve essere compensato.
 
-**5**
-
-1.12.2012
-
 <sup>2</sup> Un saldo positivo viene indennizzato finanziariamente senza supplemento, se per ragioni di servizio o a seguito di lunghe assenze pagate non è stato possibile ridurre le ore supplementari prima della partenza. Un saldo positivo inferiore a tre ore decade senza diritto a indennizzo.
 
 <sup>3</sup> Un eventuale saldo negativo residuo di tre ore e più comporta una riduzione proporzionale del salario o una richiesta di rimborso del salario versato in eccesso.
 
-- 2\. ORARIO DI LAVORO ANNUALE
+### 3.2. Orario di lavoro annuale
 
 #### Art. 18
 
 **Scopo**
 
-L'orario di lavoro annuale mira alla maggior flessibilità possibile nell'organizzazione dell'orario di lavoro. L'orario di lavoro deve essere adeguato a oscillazioni nel volume di lavoro durante l'anno e alle differenti esigenze dei collaboratori.
+<sup>1</sup> L'orario di lavoro annuale mira alla maggior flessibilità possibile nell'organizzazione dell'orario di lavoro. L'orario di lavoro deve essere adeguato a oscillazioni nel volume di lavoro durante l'anno e alle differenti esigenze dei collaboratori.
 
 #### Art. 19
 
@@ -240,36 +239,24 @@ L'orario di lavoro annuale mira alla maggior flessibilità possibile nell'organi
 
 **Restrizioni**
 
-Sentito l'Ufficio del personale, le autorità competenti possono limitare le disposizioni relative all'orario di lavoro annuale, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati dei Dipartimenti necessitano del consenso del Dipartimento.
+<sup>1</sup> Sentito l'Ufficio del personale, le autorità competenti possono limitare le disposizioni relative all'orario di lavoro annuale, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati dei Dipartimenti necessitano del consenso del Dipartimento
 
-- 3\. ORARIO DI LAVORO FISSO
+### 3.3. Orario di lavoro fisso
 
 #### Art. 22
 
 **Orario di lavoro fisso**
 
-Per ragioni organizzative o altre ragioni aziendali, l'autorità competente può fissare l'orario d'inizio e di fine del lavoro per settori o individualmente.
+<sup>1</sup> Per ragioni organizzative o altre ragioni aziendali, l'autorità competente può fissare l'orario d'inizio e di fine del lavoro per settori o individualmente.
 
-**6**
-
-1.12.2012
-
-### IV. Disposizioni finali
+## 4. Disposizioni finali
 
 #### Art. 23
 
 **Abrogazione del diritto previgente, entrata in vigore**
 
-La presente ordinanza entra in vigore il 1° maggio 2011 e sostituisce l'ordinanza sull'orario di lavoro del 12 dicembre 2006[^23-1].
+<sup>1</sup> La presente ordinanza entra in vigore il 1° maggio 2011 e sostituisce l'ordinanza sull'orario di lavoro del 12 dicembre 2006[^23-1].
 
-[^23-1]: AGS 2006, 4867 1.12.2012 7
+[^23-1]: AGS 2006, 4867
 
-### Appendice
-
-**8**
-
-1.12.2012
-
-## Altre note
-
-- [25] settembre 2012 4 1.12.2012
+-

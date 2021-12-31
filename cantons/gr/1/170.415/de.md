@@ -4,36 +4,39 @@ number: "170.415"
 title: Arbeitszeitverordnung
 short: AzV
 language: de
-version: 2012-12-01
-corrected: 2014-11-25
-version_adopted: 2012-09-25
+version: 2020-10-01
+corrected: 2022-01-01
+version_adopted: 2020-09-22
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1733/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3079/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Arbeitszeitverordnung (AzV)
+# Arbeitszeitverordnung
 
-Gestützt auf Artikel 45 Absatz 1 der Kantonsverfassung[^t-1] und Artikel 49 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden (Personalgesetz, PG)[^t-2]
+(AzV)
 
-von der Regierung erlassen am 08. März 2011
+Vom 08.03.2011 (Stand 01.10.2020)
 
-I. Geltungsbereich, Zuständigkeit und Grundsätze
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 49 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden (Personalgesetz, PG)[^ingress-2]
 
-[^t-1]: BR 110.100
-[^t-2]: BR 170.400
+von der Regierung erlassen am 8. März 2011
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de/art45)
+[^ingress-2]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de/art49)
+
+## 1. Geltungsbereich, Zuständigkeit und Grundsätze
 
 #### Art. 1
 
 **Geltungsbereich**
 
-Diese Verordnung regelt die Arbeitszeit der kantonalen Mitarbeitenden gemäss Artikel 3 Absatz 1 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden (Personalgesetz, PG)[^1-1].
+<sup>1</sup> Diese Verordnung regelt die Arbeitszeit der kantonalen Mitarbeitenden gemäss Artikel 3 Absatz 1 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden (Personalgesetz, PG)[^1-1].
 
-[^1-1]: BR 170.400 01.12.2012 1
+[^1-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 2
 
@@ -53,7 +56,7 @@ Diese Verordnung regelt die Arbeitszeit der kantonalen Mitarbeitenden gemäss Ar
 
 <sup>2</sup> Die Mitarbeitenden haben keinen Anspruch auf eine bestimmte Arbeitszeitform oder auf einen bestimmten Arbeitszeitplan.
 
-### II. Allgemeine Bestimmungen
+## 2. Allgemeine Bestimmungen
 
 #### Art. 4
 
@@ -65,11 +68,13 @@ Diese Verordnung regelt die Arbeitszeit der kantonalen Mitarbeitenden gemäss Ar
 
 #### Art. 5
 
-**2. Aussendienst**
+**2. Dienstreisen**
 
-<sup>1</sup> Als Aussendienst gelten halb- oder ganztägig dauernde Tätigkeiten ausserhalb des Dienstortes. Zu erfassen ist die innerhalb der Betriebszeit gemäss Artikel 7 effektiv geleistete Arbeitszeit. Sie wird mit höchstens elf Stunden pro ganzen Tag und mit höchstens fünfeinhalb Stunden pro halben Tag angerechnet.
+<sup>1</sup> Grundsätzlich gilt die Reisezeit ab Arbeitsort zum Einsatzort und zurück als Arbeitszeit.
 
-<sup>2</sup> Die Reisezeit ab Dienstort zum jeweiligen Einsatzort und zurück gilt als Arbeitszeit. Liegt der Einsatzort näher beim Wohnort der Mitarbeiterin oder des Mitarbeiters, wird die Reisezeit ab Wohnort zum Einsatzort als Arbeitszeit angerechnet.
+<sup>2</sup> Die Reisezeit ab Wohnort oder einem anderen Ort zum Einsatzort und zurück gilt als Arbeitszeit, wenn sie kürzer ist.
+
+<sup>3</sup> Nach Absprache mit dem Departement und dem PA können abweichende Regelungen vereinbart werden, insbesondere wenn hauptsächlich ausserhalb des Arbeitsortes oder unterwegs gearbeitet wird.
 
 #### Art. 6
 
@@ -85,7 +90,7 @@ Diese Verordnung regelt die Arbeitszeit der kantonalen Mitarbeitenden gemäss Ar
 
 **Betriebszeit**
 
-Die Betriebszeit ergibt sich aus dem von der zuständigen Instanz festgelegten Arbeitszeitplan oder aus der fixen Arbeitszeit.
+<sup>1</sup> Die Betriebszeit ergibt sich aus dem von der zuständigen Instanz festgelegten Arbeitszeitplan oder aus der fixen Arbeitszeit.
 
 #### Art. 8
 
@@ -95,10 +100,6 @@ Die Betriebszeit ergibt sich aus dem von der zuständigen Instanz festgelegten A
 
 <sup>2</sup> Wenn es die Kundenbedürfnisse erfordern, sind die Öffnungszeiten zu erweitern. Im Einzelfall sind Kundinnen und Kunden auch ausserhalb der Öffnungszeiten zu empfangen.
 
-**2**
-
-01.12.2012
-
 <sup>3</sup> Wenn es die betriebliche Aufgabenerledigung zulässt, kann die zuständige Instanz die Öffnungszeiten und die telefonische Erreichbarkeit einschränken. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
 
 #### Art. 9
@@ -107,7 +108,7 @@ Die Betriebszeit ergibt sich aus dem von der zuständigen Instanz festgelegten A
 
 <sup>1</sup> Als Feiertage gelten der Neujahrstag, Karfreitag, Ostermontag, Auffahrtstag, Pfingstmontag, 1. August, Weihnachtstag und der Stefanstag. Können diese Feiertage aus betrieblichen Gründen nicht bezogen werden, besteht Anspruch auf Kompensation mit Freizeit. In die Ferien fallende Feiertage werden nicht als Ferien angerechnet.
 
-<sup>2</sup> Die von den Gemeinden bezeichneten zusätzlichen lokalen Feiertage gelten unter Vorbehalt der betrieblichen Interessen für die Mitarbeitenden, die dort ihren Dienstort haben.
+<sup>2</sup> Die von den Gemeinden beziehungsweise Fraktionen bezeichneten zusätzlichen lokalen Feiertage gelten unter Vorbehalt der betrieblichen Interessen für die Mitarbeitenden, die dort ihren Arbeitsort haben.
 
 <sup>3</sup> Die Mitarbeitenden können an den lokalen Feiertagen aus betrieblichen Gründen andernorts eingesetzt werden.
 
@@ -123,8 +124,8 @@ Die Betriebszeit ergibt sich aus dem von der zuständigen Instanz festgelegten A
 
 <sup>3</sup> Die übrigen zweieinhalb Tage gemäss Artikel 49 Absatz 1 PG[^10-2] werden den Ferien dazugeschlagen.
 
-[^10-1]: BR 170.400
-[^10-2]: BR 170.400 01.12.2012 3
+[^10-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de/art49)
+[^10-2]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de/art49)
 
 #### Art. 11
 
@@ -148,8 +149,9 @@ Die Betriebszeit ergibt sich aus dem von der zuständigen Instanz festgelegten A
 
 **Überstunden**
 
-<sup>1</sup> Als Überstunden gelten nur von der zuständigen Instanz angeordnete oder bewilligte Arbeitsstunden a) ausserhalb der gemäss festgelegtem Arbeitszeitplan geltenden Betriebszeit bei Monatsarbeitszeit;
+<sup>1</sup> Als Überstunden gelten nur von der zuständigen Instanz angeordnete oder bewilligte Arbeitsstunden
 
+- a) ausserhalb der gemäss festgelegtem Arbeitszeitplan geltenden Betriebszeit bei Monatsarbeitszeit;
 - b) ausserhalb der von der zuständigen Instanz festgelegten Betriebszeit bei fixer Arbeitszeit.
 
 <sup>2</sup> Überstunden sind durch Freizeit gleicher Dauer auszugleichen. Der Überstundensaldo ist einmal jährlich auf höchstens 25 Überstunden abzubauen.
@@ -162,17 +164,15 @@ Die Betriebszeit ergibt sich aus dem von der zuständigen Instanz festgelegten A
 
 **Zeit- und Leistungserfassung**
 
-<sup>1</sup>[^14-1]Mitarbeitende mit einer Anstellungsdauer von mehr als drei Monaten haben die Arbeitszeit und die Absenzen elektronisch zu erfassen. Die Leistungen sind in Abstimmung mit der Kosten- und Leistungsrechnung zweckmässig zu erfassen.
+<sup>1</sup> Mitarbeitende mit einer Anstellungsdauer von mehr als drei Monaten haben die Arbeitszeit und die Absenzen elektronisch zu erfassen. Die Leistungen sind in Abstimmung mit der Kosten- und Leistungsrechnung zweckmässig zu erfassen.
 
 <sup>2</sup> Im System nicht erfasst werden Praktika sowie Mitarbeitende mit Stunden-, Tag- oder Pauschallohn. Über Ausnahmen entscheidet die zuständige Instanz.
 
 <sup>3</sup> Die Dienststellenleitenden, deren Stellvertretende sowie die Departementssekretärinnen und -sekretäre haben nur die halb- und ganztageweisen Absenzen zu erfassen. Sie teilen ihre Arbeitszeit entsprechend ihren Aufgaben selbstständig ein. Allfällige Mehrarbeit gilt als im Lohn inbegriffen. Die Leistungen können mit Pauschalen erfasst werden.
 
-[^14-1]: Fassung gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt. 4 01.12.2012
+## 3. Arbeitszeitformen
 
-### III. Arbeitszeitformen
-
-- 1\. MONATSARBEITSZEIT
+### 3.1. Monatsarbeitszeit
 
 #### Art. 15
 
@@ -180,11 +180,14 @@ Die Betriebszeit ergibt sich aus dem von der zuständigen Instanz festgelegten A
 
 <sup>1</sup> Bei der Monatsarbeitszeit gelten folgende Gleit- und Blockzeiten:
 
-Gleitzeiten: Blockzeiten:
+<table>
+<tr><th>Gleitzeiten:</th><th>Blockzeiten:</th></tr>
+<tr><td>06.00 bis 08.30 Uhr</td><td>08.30 bis 11.00 Uhr</td></tr>
+<tr><td>11.00 bis 14.00 Uhr</td><td>14.00 bis 16.30 Uhr</td></tr>
+<tr><td>16.30 bis 20.00 Uhr</td><td></td></tr>
+</table>
 
-06.00 bis 08.30 Uhr 08.30 bis 11.00 Uhr 11.00 bis 14.00 Uhr 14.00 bis 16.30 Uhr 16.30 bis 20.00 Uhr Davon ausgenommen ist der Freitagnachmittag, an welchem die Blockzeit von 14.00 bis 16.00 Uhr und die Gleitzeit von 16.00 bis 20.00 Uhr dauert.
-
-<sup>2</sup> Während der Blockzeiten haben alle Mitarbeitenden anwesend zu sein. Die zuständige Instanz kann begründete Privatausgänge während der Blockzeiten bewilligen.
+<sup>2</sup> Während der Blockzeiten haben grundsätzlich alle Mitarbeitenden am Arbeitsort anwesend oder erreichbar zu sein.
 
 #### Art. 16
 
@@ -206,17 +209,13 @@ Gleitzeiten: Blockzeiten:
 
 <sup>3</sup> Ein allfälliger negativer Restsaldo von drei Stunden und mehr führt zu einer anteilmässigen Lohnkürzung oder zu einer Rückforderung des zuviel bezahlten Lohnes.
 
-**5**
-
-**6**
-
-01.12.2012 2. JAHRESARBEITSZEIT
+### 3.2. Jahresarbeitszeit
 
 #### Art. 18
 
 **Zweck**
 
-Mit der Jahresarbeitszeit soll eine möglichst hohe Flexibilität bei der Gestaltung der Arbeitszeit erreicht werden. Die Arbeitszeit soll an Schwankungen der Arbeitsbelastung während des Jahres sowie an die unterschiedlichen Bedürfnisse der Mitarbeitenden angepasst werden.
+<sup>1</sup> Mit der Jahresarbeitszeit soll eine möglichst hohe Flexibilität bei der Gestaltung der Arbeitszeit erreicht werden. Die Arbeitszeit soll an Schwankungen der Arbeitsbelastung während des Jahres sowie an die unterschiedlichen Bedürfnisse der Mitarbeitenden angepasst werden.
 
 #### Art. 19
 
@@ -224,7 +223,7 @@ Mit der Jahresarbeitszeit soll eine möglichst hohe Flexibilität bei der Gestal
 
 <sup>1</sup> Die jährliche Sollarbeitszeit kann innert weniger als zwölf Monaten erbracht werden. Der Zeitausgleich kann zusammenhängend erfolgen.
 
-<sup>2</sup> Die Entlöhnung erfolgt in gleichmässigen monatlichen Raten
+<sup>2</sup> Die Entlöhnung erfolgt in gleichmässigen monatlichen Raten.
 
 #### Art. 20
 
@@ -240,30 +239,24 @@ Mit der Jahresarbeitszeit soll eine möglichst hohe Flexibilität bei der Gestal
 
 **Einschränkende Bestimmungen**
 
-Die zuständigen Instanzen können nach Anhören des Personalamts die Bestimmungen über die Jahresarbeitszeit einschränken, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
+<sup>1</sup> Die zuständigen Instanzen können nach Anhören des Personalamts die Bestimmungen über die Jahresarbeitszeit einschränken, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
 
-- 3\. FIXE ARBEITSZEIT
+### 3.3. Fixe Arbeitszeit
 
 #### Art. 22
 
 **Fixe Arbeitszeit**
 
-Aus organisatorischen oder anderen betrieblichen Gründen kann die zuständige Instanz Arbeitsbeginn und -ende pro Bereich oder individuell festlegen.
+<sup>1</sup> Aus organisatorischen oder anderen betrieblichen Gründen kann die zuständige Instanz Arbeitsbeginn und -ende pro Bereich oder individuell festlegen.
 
-01.12.2012
-
-### IV. Schlussbestimmungen
+## 4. Schlussbestimmungen
 
 #### Art. 23
 
 **Aufhebung bisherigen Rechts, Inkrafttreten**
 
-Diese Verordnung tritt am 1. Mai 2011 in Kraft und ersetzt die Arbeitszeitverordnung vom 12. Dezember 2006[^23-1].
+<sup>1</sup> Diese Verordnung tritt am 1. Mai 2011 in Kraft und ersetzt die Arbeitszeitverordnung vom 12. Dezember 2006[^23-1].
 
-[^23-1]: AGS 2006, 4867 01.12.2012 7
+[^23-1]: AGS 2006, 4867
 
-### Anhang
-
-**8**
-
-01.12.2012
+-
