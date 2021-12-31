@@ -4,11 +4,11 @@ title: "Verordnung vom 6. März 2000 über eine leistungsabhängige Schwerverkeh
 short: SVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: de
-version: 2021-10-22
+version: 2022-01-01
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20211022/de/xml/fedlex-data-admin-ch-eli-cc-2000-192-20211022-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-192-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/de"
 
 (Schwerverkehrsabgabeverordnung, SVAV)
 
-vom 6. März 2000 (Stand am 22. Oktober 2021)
+vom 6. März 2000 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -93,7 +93,7 @@ Von der Abgabepflicht ausgenommen sind:[^3-1]
 - l. Raupenfahrzeuge (Art. 28 VTS);
 - m. Transportachsen.
 
-<sup>2</sup> Die Eidgenössische Zollverwaltung (EZV)[^3-13] kann in begründeten Fällen, insbesondere mit Rücksicht auf staatsvertragliche Regelungen, aus humanitären Gründen oder für gemeinnützige nicht kommerzielle Fahrten, weitere Ausnahmen bewilligen.
+<sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^3-13] kann in begründeten Fällen, insbesondere mit Rücksicht auf staatsvertragliche Regelungen, aus humanitären Gründen oder für gemeinnützige nicht kommerzielle Fahrten, weitere Ausnahmen bewilligen.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
@@ -107,7 +107,7 @@ Von der Abgabepflicht ausgenommen sind:[^3-1]
 [^3-10]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5011](https://fedlex.data.admin.ch/eli/oc/2007/702)).
 [^3-11]: [SR 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
 [^3-12]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3-13]: Ausdruck gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)). Diese Änderung wurde im ganzen Text berücksichtigt.
+[^3-13]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 4
 
@@ -120,8 +120,9 @@ Von der Abgabepflicht ausgenommen sind:[^3-1]
 <tr><td>a.[^4-2] schwere Motorwagen für den Personentransport, schwere Personenwagen, Personentransport- und Wohnanhänger mit je einem Gesamtgewicht von über 3,5 t</td><td>650</td></tr>
 <tr><td>b. Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 3,5 t bis höchstens 8,5 t</td><td>2200</td></tr>
 <tr><td>c.[^4-3] Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 8,5 t bis höchstens 19,5 t</td><td>3300</td></tr>
-<tr><td>d.[^4-4] Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 19,5 t bis höchstens 26 t</td><td>4400</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td></td><td>Franken</td></tr>
+<tr><td>d.[^4-4] Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 19,5 t bis höchstens 26 t</td><td>4400</td></tr>
 <tr><th>e. Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 26 t</th><th>5000</th></tr>
 <tr><th>f. Motorkarren, Traktoren, Motorfahrzeuge für den Sachentransport mit einer Höchstgeschwindigkeitbis 45 km/h pro 100 kg Gesamtgewicht</th><th>11</th></tr>
 <tr><th>g. Motorfahrzeuge des Schausteller- und Zirkusgewerbes, die ausschliesslich Schausteller- oder Zirkusmaterial transportieren oder der Abgabe nicht unterliegende Anhänger ziehen, pro 100 kg Gesamtgewicht</th><th>8.[^4-5]</th></tr>
@@ -142,7 +143,7 @@ Für provisorisch immatrikulierte Fahrzeuge, die zur Ausfuhr bestimmt sind, wird
 - a. Fahrzeuge nach den Absätzen 1 und 2: 20 Franken für einen Tag, 50 Franken für jeweils drei Tage;
 - b. andere Fahrzeuge: 70 Franken für einen Tag, 200 Franken für jeweils drei Tage.
 
-<sup>4</sup> Die EZV[^4-8] kann in Einzelfällen für weitere Fahrzeuge die pauschale Abgabeerhebung vorsehen.
+<sup>4</sup> Das BAZG kann in Einzelfällen für weitere Fahrzeuge die pauschale Abgabeerhebung vorsehen.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
@@ -151,7 +152,6 @@ Für provisorisch immatrikulierte Fahrzeuge, die zur Ausfuhr bestimmt sind, wird
 [^4-5]: Fassung gemäss Ziff. I der V vom 12. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670)).
 [^4-6]: Fassung gemäss Ziff. I der V vom 12. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670)).
 [^4-7]: Fassung gemäss Ziff. I der V vom 12. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670)).
-[^4-8]: Ausdruck gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)). Diese Änderung wurde im ganzen Text berücksichtigt.
 
 #### Art. 5
 
@@ -161,7 +161,7 @@ Soweit diese Verordnung nichts anderes bestimmt, sind für deren Vollzug zustän
 
 - a.
 
-  die EZV für:
+  das BAZG für:
 
   - 1\. Fahrzeuge des Bundes,
   - 2\. der leistungsabhängigen Abgabeerhebung unterliegende inländische Fahrzeuge, soweit es sich um die Veranlagung und den Bezug der Abgabe handelt,
@@ -179,7 +179,7 @@ Soweit diese Verordnung nichts anderes bestimmt, sind für deren Vollzug zustän
 
 **Grenzübertritt**
 
-Fahrzeuge, die der Abgabe unterliegen, haben die von der EZV bezeichneten Grenzübergangsstellen zu benützen.
+Fahrzeuge, die der Abgabe unterliegen, haben die vom BAZG bezeichneten Grenzübergangsstellen zu benützen.
 
 ## 2. Kapitel: Sonderregelungen
 
@@ -189,9 +189,9 @@ Fahrzeuge, die der Abgabe unterliegen, haben die von der EZV bezeichneten Grenz�
 
 <sup>1</sup> Für Fahrzeuge des Linienverkehrs (Art. 3 Abs. 1 Bst. c) wird die Abgabe für die ausserhalb dieses Verkehrs gefahrenen Kilometer pauschal erhoben. Sie berechnet sich nach dem prozentualen Anteil der ausserhalb des Linienverkehrs gefahrenen Kilometer an der gesamten Fahrleistung.
 
-<sup>2</sup> Halterinnen und Halter von Fahrzeugen des Linienverkehrs müssen der EZV im ersten Quartal des auf die Abgabeperiode folgenden Jahres eine Deklaration über die Verwendung und die dabei gefahrenen Kilometer der eingesetzten Fahrzeuge einreichen.
+<sup>2</sup> Halterinnen und Halter von Fahrzeugen des Linienverkehrs müssen dem BAZG im ersten Quartal des auf die Abgabeperiode folgenden Jahres eine Deklaration über die Verwendung und die dabei gefahrenen Kilometer der eingesetzten Fahrzeuge einreichen.
 
-<sup>3</sup> Bleibt die Deklaration aus, so erhebt die EZV die volle Abgabe für die ganze Periode.
+<sup>3</sup> Bleibt die Deklaration aus, so erhebt das BAZG die volle Abgabe für die ganze Periode.
 
 ### 2. Abschnitt: Fahrten im unbegleiteten kombinierten Verkehr
 
@@ -199,7 +199,7 @@ Fahrzeuge, die der Abgabe unterliegen, haben die von der EZV bezeichneten Grenz�
 
 **Im unbegleiteten kombinierten Verkehr eingesetzte Fahrzeuge**
 
-<sup>1</sup> Halterinnen und Halter von der Abgabe unterliegenden Fahrzeugen, mit denen Fahrten im unbegleiteten kombinierten Verkehr (UKV) ausgeführt werden, erhalten für die Fahrten im Vor- und Nachlauf des UKV von der EZV auf Antrag eine Rückerstattung.
+<sup>1</sup> Halterinnen und Halter von der Abgabe unterliegenden Fahrzeugen, mit denen Fahrten im unbegleiteten kombinierten Verkehr (UKV) ausgeführt werden, erhalten für die Fahrten im Vor- und Nachlauf des UKV vom BAZG auf Antrag eine Rückerstattung.
 
 <sup>2</sup> Pro Ladebehälter oder Sattelanhänger, der von der Strasse auf die Bahn oder das Schiff oder von der Bahn oder dem Schiff auf die Strasse umgeschlagen wird, beträgt die Rückerstattung:
 
@@ -210,7 +210,7 @@ Fahrzeuge, die der Abgabe unterliegen, haben die von der EZV bezeichneten Grenz�
 <tr><td>c. für Ladebehälter oder Sattelanhänger mit einer Länge von über 6,1 m</td><td>33.[^8-1]</td></tr>
 </table>
 
-<sup>3</sup> Der Rückerstattungsantrag ist zusammen mit der Deklaration nach Artikel 22 an die EZV zu richten.
+<sup>3</sup> Der Rückerstattungsantrag ist zusammen mit der Deklaration nach Artikel 22 an das BAZG zu richten.
 
 <sup>4</sup> Der Rückerstattungsbetrag darf die gesamte Abgabe der im UKV eingesetzten Fahrzeuge der Antragstellerin oder des Antragstellers pro Abgabeperiode nicht übersteigen.[^8-2]
 
@@ -223,7 +223,7 @@ Fahrzeuge, die der Abgabe unterliegen, haben die von der EZV bezeichneten Grenz�
 
 <sup>1</sup> Fahrten im Vor- und Nachlauf des UKV sind solche, die von Strassenfahrzeugen mit Ladebehältern (Container, Wechselaufbauten) oder mit Sattelanhängern zwischen dem Verlade- oder Entladeort und einem Umschlagsbahnhof oder Rheinhafen ausgeführt werden, ohne dass das Ladegut beim Übergang vom einen zum anderen Verkehrsträger das Transportgefäss wechselt.
 
-<sup>2</sup> ...[^9-1]
+<sup>2</sup> …[^9-1]
 
 [^9-1]: Aufgehoben durch Anhang Ziff. II 2 der Gütertransportverordnung vom 25. Mai 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
@@ -250,7 +250,7 @@ Das Eidgenössische Finanzdepartement (EFD) regelt im Zusammenhang mit den Fahrt
 
 <sup>1</sup> Für Fahrzeuge, mit denen ausschliesslich Rohholz transportiert wird, beträgt die Abgabe 75 Prozent der Ansätze nach den Artikeln 4 Absätze 1 Buchstabe f und 2 Buchstaben a und b sowie 14 Absatz 1.[^11-1]
 
-<sup>2</sup> Für Fahrzeuge, mit denen nicht ausschliesslich Rohholz transportiert wird, gewährt die EZV auf Antrag eine Rückerstattung von 2.10 Franken pro m<sup>3</sup> transportiertes Rohholz. Der Rückerstattungsbetrag darf höchstens 25 Prozent der gesamten Abgabe pro Fahrzeug und Periode betragen.
+<sup>2</sup> Für Fahrzeuge, mit denen nicht ausschliesslich Rohholz transportiert wird, gewährt das BAZG auf Antrag eine Rückerstattung von 2.10 Franken pro m<sup>3</sup> transportiertes Rohholz. Der Rückerstattungsbetrag darf höchstens 25 Prozent der gesamten Abgabe pro Fahrzeug und Periode betragen.
 
 <sup>3</sup> Als Rohholz gilt namentlich Waldrundholz, Industrie-, Energie- und Restholz. Das EFD umschreibt diese Begriffe näher.
 
@@ -283,14 +283,12 @@ Für die folgenden Fahrzeuge beträgt die Abgabe 75 Prozent der Ansätze nach Ar
 
 Die Vergünstigung nach Artikel 11 Absatz 1 oder Artikel 12 wird nur gewährt, wenn die Halterin oder der Halter:
 
-- a. die Vergünstigung bei jeder Inverkehrsetzung des Fahrzeugs bei der EZV[^12a-1] beantragt; und
+- a. die Vergünstigung bei jeder Inverkehrsetzung des Fahrzeugs beim BAZG beantragt; und
 - b. sich verpflichtet, das Fahrzeug ausschliesslich für den in Artikel 11 Absatz 1 oder Artikel 12 genannten Zweck zu verwenden.
 
-<sup>2</sup> Die Halterin oder der Halter muss sämtliche für die Vergünstigung wesentlichen Unterlagen und Belege während fünf Jahren aufbewahren. Sie oder er muss der EZV auf deren Verlangen die Einhaltung der Verpflichtung nach Absatz 1 Buchstabe b nachweisen.
+<sup>2</sup> Die Halterin oder der Halter muss sämtliche für die Vergünstigung wesentlichen Unterlagen und Belege während fünf Jahren aufbewahren. Sie oder er muss dem BAZG auf dessen Verlangen die Einhaltung der Verpflichtung nach Absatz 1 Buchstabe b nachweisen.
 
-<sup>3</sup> Stellt die EZV fest, dass das Fahrzeug nicht pflichtgemäss verwendet wird, so entzieht sie die Vergünstigung.
-
-[^12a-1]: Ausdruck gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)). Die Änderung wurde im ganzen Text berücksichtigt.
+<sup>3</sup> Stellt das BAZG fest, dass das Fahrzeug nicht pflichtgemäss verwendet wird, so entzieht sie die Vergünstigung.
 
 ## 3. Kapitel: Massgebendes Gewicht und Tarif****
 
@@ -310,7 +308,7 @@ Die Vergünstigung nach Artikel 11 Absatz 1 oder Artikel 12 wird nur gewährt, w
 
 <sup>4</sup> Bei anderen Kombinationen zweier Fahrzeuge, die der Abgabe unterliegen, werden das Gesamtgewicht des Zugfahrzeugs und dasjenige des Anhängers addiert.
 
-<sup>5</sup> Bei einem Fahrzeug, das unter verschiedenen Fahrzeugarten bzw. Karosserien zum Verkehr zugelassen ist, bemisst sich die Abgabe nach dem höchsten in Frage kommenden Gesamtgewicht. Die EZV kann in besonderen Fällen ein anderes massgebendes Gewicht festsetzen.
+<sup>5</sup> Bei einem Fahrzeug, das unter verschiedenen Fahrzeugarten bzw. Karosserien zum Verkehr zugelassen ist, bemisst sich die Abgabe nach dem höchsten in Frage kommenden Gesamtgewicht. Das BAZG kann in besonderen Fällen ein anderes massgebendes Gewicht festsetzen.
 
 <sup>6</sup> Bei Motorfahrzeugen, die nach Artikel 15 Absatz 5 vom Erfassungsgeräteobligatorium ausgenommen sind, ist das höchstzulässige Gesamtzugsgewicht massgebend.
 
@@ -378,7 +376,7 @@ Für Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen, beträgt die Ab
 
 **Ausrüstung**
 
-<sup>1</sup> Die Abgabe wird mit einem von der EZV zugelassenen elektronischen Messgerät ermittelt. Dieses besteht aus dem im Fahrzeug eingebauten Fahrtschreiber oder Wegimpulsaufnehmer sowie einem Erfassungsgerät, das die massgebende Fahrleistung ermittelt und registriert.[^15-1]
+<sup>1</sup> Die Abgabe wird mit einem vom BAZG zugelassenen elektronischen Messgerät ermittelt. Dieses besteht aus dem im Fahrzeug eingebauten Fahrtschreiber oder Wegimpulsaufnehmer sowie einem Erfassungsgerät, das die massgebende Fahrleistung ermittelt und registriert.[^15-1]
 
 <sup>2</sup> Die zulässigen Fehlergrenzen für den Fahrtschreiber richten sich nach den Bestimmungen über den Einbau von Fahrtschreibern (Art. 100 Abs. 2–4 VTS[^15-2]).[^15-3]
 
@@ -391,9 +389,9 @@ Mit dem Erfassungsgerät sind auf Kosten der Halterin oder des Halters folgende 
 
 <sup>4</sup> Vom Erfassungsgeräteobligatorium ausgenommen sind Motorfahrzeuge, die der pauschalen Abgabeerhebung unterliegen.
 
-<sup>5</sup> Die EZV kann weitere Motorfahrzeuge vom Erfassungsgeräteobligatorium ausnehmen.
+<sup>5</sup> Das BAZG kann weitere Motorfahrzeuge vom Erfassungsgeräteobligatorium ausnehmen.
 
-<sup>6</sup> und <sup>7</sup> ...[^15-4]
+<sup>6</sup> und <sup>7</sup> …[^15-4]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^15-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
@@ -404,13 +402,13 @@ Mit dem Erfassungsgerät sind auf Kosten der Halterin oder des Halters folgende 
 
 **Kostenlose Abgabe des Erfassungsgeräts**[^15a-1]
 
-<sup>1</sup> Für die Erstausrüstung gibt die EZV den Halterinnen und Haltern für jedes der Einbaupflicht unterliegende Motorfahrzeug ein Erfassungsgerät leihweise ab. Die Kosten für den Ersatz defekter Erfassungsgeräte trägt die EZV.[^15a-2]
+<sup>1</sup> Für die Erstausrüstung gibt das BAZG den Halterinnen und Haltern für jedes der Einbaupflicht unterliegende Motorfahrzeug ein Erfassungsgerät leihweise ab. Die Kosten für den Ersatz defekter Erfassungsgeräte trägt das BAZG.[^15a-2]
 
-<sup>2</sup> Erfassungsgeräte, die nicht mehr benötigt werden, sind der EZV oder einer von der EZV bezeichneten Stelle zurückzugeben. Die EZV stellt nicht zurückgegebene oder beschädigte Erfassungsgeräte der Halterin oder dem Halter in Rechnung.[^15a-3]
+<sup>2</sup> Erfassungsgeräte, die nicht mehr benötigt werden, sind dem BAZG oder einer vom BAZG bezeichneten Stelle zurückzugeben. Das BAZG stellt nicht zurückgegebene oder beschädigte Erfassungsgeräte der Halterin oder dem Halter in Rechnung.[^15a-3]
 
 <sup>3</sup> Die Halterin oder der Halter trägt die Kosten für den Einbau des Erfassungsgeräts in das Motorfahrzeug.
 
-<sup>4</sup> Die EZV kann sich beim Ersatz defekter oder nicht reparierbarer Erfassungsgeräte an den entstehenden Werkstattkosten beteiligen.
+<sup>4</sup> Das BAZG kann sich beim Ersatz defekter oder nicht reparierbarer Erfassungsgeräte an den entstehenden Werkstattkosten beteiligen.
 
 [^15a-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 [^15a-2]: Fassung gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -422,11 +420,11 @@ Mit dem Erfassungsgerät sind auf Kosten der Halterin oder des Halters folgende 
 
 <sup>1</sup> Das Erfassungsgerät ist vor der Inverkehrsetzung des Motorfahrzeugs einzubauen. Für den Einbau, die Prüfung und die Inbetriebnahme des Erfassungsgeräts ist die Halterin oder der Halter verantwortlich.
 
-<sup>2</sup> Der Einbau und die Inbetriebnahme des Erfassungsgeräts sind durch Montagestellen vorzunehmen, die von der EZV ermächtigt werden. Die Montagestellen führen bei der Inbetriebnahme sowie bei jeder Nachprüfung die Konformitätsbewertung des vollständigen Messgeräts durch und stellen gegen eine Gebühr die erforderlichen Konformitätsausweise aus.[^16-1]
+<sup>2</sup> Der Einbau und die Inbetriebnahme des Erfassungsgeräts sind durch Montagestellen vorzunehmen, die vom BAZG ermächtigt werden. Die Montagestellen führen bei der Inbetriebnahme sowie bei jeder Nachprüfung die Konformitätsbewertung des vollständigen Messgeräts durch und stellen gegen eine Gebühr die erforderlichen Konformitätsausweise aus.[^16-1]
 
-<sup>3</sup> Die Halterin oder der Halter muss das Erfassungsgerät mit einer von der EZV abgegebenen Chipkarte initialisieren oder initialisieren lassen.
+<sup>3</sup> Die Halterin oder der Halter muss das Erfassungsgerät mit einer vom BAZG abgegebenen Chipkarte initialisieren oder initialisieren lassen.
 
-<sup>4</sup> ...[^16-2]
+<sup>4</sup> …[^16-2]
 
 <sup>5</sup> Wird ein der Einbaupflicht unterliegendes Motorfahrzeug nicht mit einem Erfassungsgerät ausgerüstet, so verweigert die kantonale Vollzugsbehörde die Zulassung des betreffenden Motorfahrzeugs.
 
@@ -436,8 +434,8 @@ Das EFD regelt:
 
 - a. die Einzelheiten betreffend den Einbau, die Inbetriebnahme, die Reparatur, den Austausch und das temporäre Entfernen des Erfassungsgeräts;
 - b. die Anforderungen an und die Kontrolle von Montagestellen, die Erfassungsgeräte einbauen, prüfen, reparieren und temporär entfernen;
-- c. das Zulassungsverfahren für die Anerkennung von Montagestellen durch die EZV;
-- d. das Zulassungsverfahren für die Anerkennung von Stellen, die für die Abgabe von Prägezeichen zuständig sind, durch die EZV.[^16-3]
+- c. das Zulassungsverfahren für die Anerkennung von Montagestellen durch das BAZG;
+- d. das Zulassungsverfahren für die Anerkennung von Stellen, die für die Abgabe von Prägezeichen zuständig sind, durch das BAZG.[^16-3]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^16-2]: Aufgehoben durch Ziff. I der V vom 9. März 2018, mit Wirkung seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -447,9 +445,9 @@ Das EFD regelt:
 
 **Anhänger**
 
-<sup>1</sup> Führt das Motorfahrzeug einen Anhänger mit, so muss die Fahrzeugführerin oder der Fahrzeugführer alle für die Veranlagung erforderlichen Angaben am Erfassungsgerät deklarieren. Die EZV bezeichnet die erforderlichen Angaben.[^17-1]
+<sup>1</sup> Führt das Motorfahrzeug einen Anhänger mit, so muss die Fahrzeugführerin oder der Fahrzeugführer alle für die Veranlagung erforderlichen Angaben am Erfassungsgerät deklarieren. Das BAZG bezeichnet die erforderlichen Angaben.[^17-1]
 
-<sup>2</sup> Für jeden Anhänger mit einem Gesamtgewicht von über 3,5 t mit Ausnahme der landwirtschaftlichen Anhänger stellt die EZV eine Chipkarte aus, die alle für die Erfassung erforderlichen Daten enthält. Für landwirtschaftliche Anhänger sowie Anhänger mit einem Gesamtgewicht bis 3,5 t wird die Chipkarte nur in besonderen Fällen oder auf Antrag der Halterin oder des Halters ausgestellt.
+<sup>2</sup> Für jeden Anhänger mit einem Gesamtgewicht von über 3,5 t mit Ausnahme der landwirtschaftlichen Anhänger stellt das BAZG eine Chipkarte aus, die alle für die Erfassung erforderlichen Daten enthält. Für landwirtschaftliche Anhänger sowie Anhänger mit einem Gesamtgewicht bis 3,5 t wird die Chipkarte nur in besonderen Fällen oder auf Antrag der Halterin oder des Halters ausgestellt.
 
 <sup>3</sup> Die Abgabe für mitgeführte Anhänger ist von der Halterin oder vom Halter des Zugfahrzeugs zu deklarieren und zu bezahlen.
 
@@ -465,9 +463,9 @@ Das EFD regelt:
 
 <sup>3</sup> Bei Verdacht auf Gerätefehler ist das Gerät von einer Montagestelle auf Funktionstüchtigkeit kontrollieren zu lassen.[^18-2]
 
-<sup>4</sup> Wird ein defektes Messgerät innerhalb einer von der EZV festgesetzten Frist nicht repariert, so entzieht die kantonale Vollzugsbehörde den Fahrzeugausweis und die Kontrollschilder des betreffenden Motorfahrzeugs. Wechselschilder dürfen für nicht betroffene Fahrzeuge weiter verwendet werden.
+<sup>4</sup> Wird ein defektes Messgerät innerhalb einer vom BAZG festgesetzten Frist nicht repariert, so entzieht die kantonale Vollzugsbehörde den Fahrzeugausweis und die Kontrollschilder des betreffenden Motorfahrzeugs. Wechselschilder dürfen für nicht betroffene Fahrzeuge weiter verwendet werden.
 
-<sup>5</sup> Die EZV haftet nicht für die Auswirkungen technischer Störungen der elektronischen Hilfsmittel.
+<sup>5</sup> Das BAZG haftet nicht für die Auswirkungen technischer Störungen der elektronischen Hilfsmittel.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^18-2]: Fassung gemäss Ziff. I der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
@@ -476,7 +474,7 @@ Das EFD regelt:
 
 **Aufzeichnungsformular an Stelle des Erfassungsgeräts**
 
-<sup>1</sup> Nebst dem Erfassungsgerät muss die Fahrzeugführerin oder der Fahrzeugführer stets ein Aufzeichnungsformular mitführen, das bei Ausfall, Fehlfunktionen oder Fehlermeldungen des Messgeräts zu verwenden ist. Das Formular wird von der EZV zur Verfügung gestellt.[^19-1]
+<sup>1</sup> Nebst dem Erfassungsgerät muss die Fahrzeugführerin oder der Fahrzeugführer stets ein Aufzeichnungsformular mitführen, das bei Ausfall, Fehlfunktionen oder Fehlermeldungen des Messgeräts zu verwenden ist. Das Formular wird vom BAZG zur Verfügung gestellt.[^19-1]
 
 <sup>2</sup> Führt das Motorfahrzeug einen Anhänger mit, so ist dessen Gesamtgewicht auf dem Formular zu deklarieren.
 
@@ -488,7 +486,7 @@ Das EFD regelt:
 
 **Fahrtenbuch**
 
-<sup>1</sup> In Motorfahrzeugen, welche die EZV vom Erfassungsgeräteobligatorium ausgenommen hat, ist ein Fahrtenbuch zu verwenden. Dieses wird von den Vollzugsbehörden abgegeben.
+<sup>1</sup> In Motorfahrzeugen, welche das BAZG vom Erfassungsgeräteobligatorium ausgenommen hat, ist ein Fahrtenbuch zu verwenden. Dieses wird von den Vollzugsbehörden abgegeben.
 
 <sup>2</sup> Die Halterin oder der Halter muss dafür sorgen, dass die Fahrzeugführerin oder der Fahrzeugführer die vorgeschriebenen Aufzeichnungen vornimmt.
 
@@ -505,7 +503,7 @@ Die Fahrzeugführerin oder der Fahrzeugführer muss bei der korrekten Ermittlung
 
 **Deklaration**
 
-<sup>1</sup> Die abgabepflichtige Person muss der EZV die für die Berechnung der Abgabe erforderlichen Angaben innerhalb von 20 Tagen nach Ablauf der Abgabeperiode deklarieren.
+<sup>1</sup> Die abgabepflichtige Person muss dem BAZG die für die Berechnung der Abgabe erforderlichen Angaben innerhalb von 20 Tagen nach Ablauf der Abgabeperiode deklarieren.
 
 <sup>1bis</sup> Soll die Berechnung der Abgabe aufgrund des tieferen Gewichts nach Artikel 13 Absatz 7 erfolgen, so muss die abgabepflichtige Person für jede Abgabeperiode ein Gesuch einreichen. Dieses ist innerhalb von 20 Tagen nach Ablauf der jeweiligen Abgabeperiode einzureichen. Wird innerhalb dieser Frist kein Gesuch eingereicht, so wird die Abgabe aufgrund des massgebenden Gewichts nach Artikel 13 Absätze 1–6 berechnet.[^22-1]
 
@@ -525,9 +523,9 @@ Die Fahrzeugführerin oder der Fahrzeugführer muss bei der korrekten Ermittlung
 
 <sup>1</sup> Die Abgabe wird auf Grund der von der abgabepflichtigen Person eingereichten elektronischen oder schriftlichen Deklaration veranlagt.
 
-<sup>2</sup> Die EZV kann weitere Beweismittel verlangen.
+<sup>2</sup> Das BAZG kann weitere Beweismittel verlangen.
 
-<sup>3</sup> Unterbleibt die Deklaration, ist sie lückenhaft oder widersprüchlich oder macht die EZV Feststellungen, die im Widerspruch zur Deklaration stehen, so nimmt sie die Veranlagung nach pflichtgemässem Ermessen vor.
+<sup>3</sup> Unterbleibt die Deklaration, ist sie lückenhaft oder widersprüchlich oder macht das BAZG Feststellungen, die im Widerspruch zur Deklaration stehen, so nimmt es die Veranlagung nach pflichtgemässem Ermessen vor.
 
 #### Art. 24
 
@@ -539,7 +537,7 @@ Die Fahrzeugführerin oder der Fahrzeugführer muss bei der korrekten Ermittlung
 
 <sup>3</sup> Bei der Ausserverkehrsetzung des Fahrzeugs endet die Abgabeperiode am Tag der Annullierung des Fahrzeugausweises.
 
-<sup>4</sup> ...[^24-3]
+<sup>4</sup> …[^24-3]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
@@ -549,7 +547,7 @@ Die Fahrzeugführerin oder der Fahrzeugführer muss bei der korrekten Ermittlung
 
 **Bezug der Abgabe**[^25-1]
 
-<sup>1</sup> Die EZV stellt der abgabepflichtigen Person eine Veranlagungsverfügung in Papierform oder elektronisch zu.
+<sup>1</sup> Das BAZG stellt der abgabepflichtigen Person eine Veranlagungsverfügung in Papierform oder elektronisch zu.
 
 <sup>2</sup> Die Abgabe wird 60 Tage nach Ende der Abgabeperiode fällig.
 
@@ -582,11 +580,11 @@ Es legt zudem fest:
 
 Wer für ein im Ausland immatrikuliertes Motorfahrzeug (ausländisches Motorfahrzeug) abgabepflichtig ist, kann die für die Erhebung der Abgabe erforderlichen Daten wie folgt erfassen:
 
-- a. mit einem von der EZV zugelassenen Erfassungsgerät;
+- a. mit einem vom BAZG zugelassenen Erfassungsgerät;
 - b. mit einem interoperablen Erfassungsgerät eines europäischen Dienstes zur elektronischen Erhebung von Strassenbenützungsgebühren (*European Electronic Toll Service*; EETS-Anbieter); oder
 - c. ohne Erfassungsgerät.
 
-### 2. Abschnitt: Motorfahrzeuge mit von der EZV zugelassenem Erfassungsgerät****
+### 2. Abschnitt: Motorfahrzeuge mit vom BAZG zugelassenem Erfassungsgerät****
 
 [^chap4a-sec2-1]
 
@@ -596,7 +594,7 @@ Wer für ein im Ausland immatrikuliertes Motorfahrzeug (ausländisches Motorfahr
 
 [^26-1]
 
-<sup>1</sup> Die Fahrzeugführerin oder der Fahrzeugführer muss das von der EZV zugelassene Erfassungsgerät mit einer von der EZV abgegebenen Chipkarte sofort nach Erhalt, jedoch spätestens vor der nächsten Einfahrt in die Schweiz initialisieren oder initialisieren lassen. Auf Antrag kann die EZV eine Chipkarte für den Anhänger ausstellen.
+<sup>1</sup> Die Fahrzeugführerin oder der Fahrzeugführer muss das vom BAZG zugelassene Erfassungsgerät mit einer vom BAZG abgegebenen Chipkarte sofort nach Erhalt, jedoch spätestens vor der nächsten Einfahrt in die Schweiz initialisieren oder initialisieren lassen. Auf Antrag kann das BAZG eine Chipkarte für den Anhänger ausstellen.
 
 <sup>2</sup> Im Übrigen gelten die Artikel 15–19, 21, 22 Absätze 1<sup>bis</sup> und 2, 23 Absatz 3 sowie 25 Absatz 1.
 
@@ -618,12 +616,12 @@ Wer für ein im Ausland immatrikuliertes Motorfahrzeug (ausländisches Motorfahr
 
 Mit der Erfassung der für die Erhebung der Abgabe erforderlichen Daten und der Entrichtung der Abgabe kann ein EETS-Anbieter beauftragt werden, wenn:
 
-- a. der EETS-Anbieter von der EZV zur Erbringung des Dienstes in der Schweiz zugelassen ist; und
+- a. der EETS-Anbieter vom BAZG zur Erbringung des Dienstes in der Schweiz zugelassen ist; und
 - b. die abgabepflichtige Person im Motorfahrzeug ein Erfassungsgerät des beauftragten EETS-Anbieters installiert hat.
 
 <sup>2</sup> Die Fahrzeugführerin oder der Fahrzeugführer muss bei der Einfahrt in die Schweiz nachweisen, dass der EETS-Anbieter mit der Fahrleistungserfassung und der Abgabeentrichtung beauftragt ist.
 
-<sup>3</sup> Die Abgabeforderung erlischt mit der Bezahlung der Abgabe an die EZV.
+<sup>3</sup> Die Abgabeforderung erlischt mit der Bezahlung der Abgabe an das BAZG.
 
 #### Art. 26b
 
@@ -631,7 +629,7 @@ Mit der Erfassung der für die Erhebung der Abgabe erforderlichen Daten und der 
 
 <sup>1</sup>
 
-Die EZV erteilt einem EETS-Anbieter die Zulassung, wenn dieser:
+Das BAZG erteilt einem EETS-Anbieter die Zulassung, wenn dieser:
 
 - a. in einem Mitgliedstaat des Europäischen Wirtschaftsraumes oder in der Schweiz niedergelassen ist;
 - b. nachweist, dass er die technischen und betrieblichen Vorgaben des EFD erfüllt;
@@ -640,7 +638,7 @@ Die EZV erteilt einem EETS-Anbieter die Zulassung, wenn dieser:
 
 <sup>2</sup> Das EFD legt die technischen und betrieblichen Vorgaben fest.
 
-<sup>3</sup> Die EZV kann eine Zulassung sistieren oder entziehen, wenn der EETS-Anbieter die Voraussetzung für die Zulassungserteilung nicht mehr vollumfänglich erfüllt.
+<sup>3</sup> Das BAZG kann eine Zulassung sistieren oder entziehen, wenn der EETS-Anbieter die Voraussetzung für die Zulassungserteilung nicht mehr vollumfänglich erfüllt.
 
 #### Art. 26c
 
@@ -653,12 +651,12 @@ Die EETS-Anbieter müssen:
 - a. die abgabepflichtigen Personen und die Motorfahrzeuge, für die diese die Abgabe schulden, registrieren;
 - b. der abgabepflichtigen Person ein Erfassungsgerät abgeben;
 - c. die Fahrleistung der Motorfahrzeuge, für die die Abgabe geschuldet ist, erfassen;
-- d. die für die Erhebung der Abgabe erforderlichen Daten an die EZV übermitteln;
-- e. die Abgabe innerhalb der Zahlungsfrist der EZV bezahlen.
+- d. die für die Erhebung der Abgabe erforderlichen Daten an das BAZG übermitteln;
+- e. die Abgabe innerhalb der Zahlungsfrist dem BAZG bezahlen.
 
 <sup>2</sup> Die Zulassung kann mit weiteren Auflagen verbunden werden.
 
-<sup>3</sup> Die EETS-Anbieter erhalten für ihre Dienstleistungen gegenüber der EZV zur Erfassung und Übermittlung der Daten und zur Entrichtung der Abgabe ein Entgelt. Das EFD bestimmt dessen Höhe. Es kann eine Bezugsprovision vorsehen.
+<sup>3</sup> Die EETS-Anbieter erhalten für ihre Dienstleistungen gegenüber dem BAZG zur Erfassung und Übermittlung der Daten und zur Entrichtung der Abgabe ein Entgelt. Das EFD bestimmt dessen Höhe. Es kann eine Bezugsprovision vorsehen.
 
 #### Art. 26d
 
@@ -676,17 +674,17 @@ Die EETS-Anbieter müssen:
 
 **Veranlagung**
 
-<sup>1</sup> Der EETS-Anbieter übermittelt die für die Erhebung der Abgabe erforderlichen Daten an die EZV.
+<sup>1</sup> Der EETS-Anbieter übermittelt die für die Erhebung der Abgabe erforderlichen Daten an das BAZG.
 
 <sup>2</sup> Artikel 23 gilt sinngemäss.
 
-<sup>3</sup> Die EZV eröffnet die Veranlagungsverfügung der abgabepflichtigen Person in Papierform oder elektronisch. Der EETS-Anbieter gilt als zustellungsbevollmächtigt.
+<sup>3</sup> Das BAZG eröffnet die Veranlagungsverfügung der abgabepflichtigen Person in Papierform oder elektronisch. Der EETS-Anbieter gilt als zustellungsbevollmächtigt.
 
 #### Art. 26f
 
 **Rechnungsstellung**
 
-Die EZV stellt dem EETS-Anbieter die Summe aller Abgaben in Rechnung, die für die mit seinen Geräten erfassten Fahrten veranlagt wurde. Die Rechnungstellung erfolgt höchstens einmal wöchentlich.
+Das BAZG stellt dem EETS-Anbieter die Summe aller Abgaben in Rechnung, die für die mit seinen Geräten erfassten Fahrten veranlagt wurde. Die Rechnungstellung erfolgt höchstens einmal wöchentlich.
 
 ### 4. Abschnitt: Motorfahrzeuge ohne Erfassungsgerät****
 
@@ -713,7 +711,7 @@ Die EZV stellt dem EETS-Anbieter die Summe aller Abgaben in Rechnung, die für d
 
 <sup>2</sup> Wird während des Aufenthalts im Inland ein Anhänger an-, ab- oder umgekuppelt, so ist dies vor der Weiterfahrt auf dem entsprechenden Aufzeichnungsformular zu deklarieren. Als Bemessungsgrundlage gilt das höchste während des Aufenthalts im Inland erreichte Gesamtgewicht der Fahrzeugkombination.
 
-<sup>3</sup> ...[^28-1]
+<sup>3</sup> …[^28-1]
 
 [^28-1]: Aufgehoben durch Ziff. I der V vom 9. März 2018, mit Wirkung seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
@@ -723,11 +721,11 @@ Die EZV stellt dem EETS-Anbieter die Summe aller Abgaben in Rechnung, die für d
 
 <sup>1</sup> Die Abgabe wird bei der Ausfahrt aus der Schweiz fällig und ist sofort zu entrichten. Ein im Voraus bekannter Abgabebetrag kann bereits bei der Einfahrt erhoben werden.
 
-<sup>2</sup> Die EZV bezeichnet die zulässigen Zahlungsmittel und die dafür eingerichteten Zolldienststellen. Für die Bezahlung der Abgabe können insbesondere Debit-, Kredit und Tankkarten angenommen werden.[^29-1]
+<sup>2</sup> Das BAZG bezeichnet die zulässigen Zahlungsmittel und die dafür eingerichteten Zolldienststellen. Für die Bezahlung der Abgabe können insbesondere Debit-, Kredit und Tankkarten angenommen werden.[^29-1]
 
 <sup>2bis</sup>
 
-Die EZV kann für den Bezug der Abgabe Anbieter von Tankkarten beiziehen, wenn diese:
+Das BAZG kann für den Bezug der Abgabe Anbieter von Tankkarten beiziehen, wenn diese:
 
 - a. in einem Mitgliedstaat des Europäischen Wirtschaftsraumes oder in der Schweiz niedergelassen sind;
 - b. nachweisen, dass sie die technischen und betrieblichen Vorgaben des EFD erfüllen; und
@@ -735,9 +733,9 @@ Die EZV kann für den Bezug der Abgabe Anbieter von Tankkarten beiziehen, wenn d
 
 <sup>2ter</sup> Das EFD legt die technischen und betrieblichen Vorgaben fest.[^29-3]
 
-<sup>2quater</sup> Anbieter von Tankkarten erhalten für ihre Dienstleistungen gegenüber der EZV zum Bezug der Abgabe ein Entgelt. Das EFD bestimmt dessen Höhe. Es kann eine Bezugsprovision vorsehen.[^29-4]
+<sup>2quater</sup> Anbieter von Tankkarten erhalten für ihre Dienstleistungen gegenüber dem BAZG zum Bezug der Abgabe ein Entgelt. Das EFD bestimmt dessen Höhe. Es kann eine Bezugsprovision vorsehen.[^29-4]
 
-<sup>3</sup> Die EZV kann unter Vorbehalt des Widerrufs Zahlungserleichterungen oder Zahlungsfristen gewähren. Sie kann die Gewährung von der Stellung einer Sicherheit abhängig machen.
+<sup>3</sup> Das BAZG kann unter Vorbehalt des Widerrufs Zahlungserleichterungen oder Zahlungsfristen gewähren. Es kann die Gewährung von der Stellung einer Sicherheit abhängig machen.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 [^29-2]: Eingefügt durch Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -780,7 +778,7 @@ Beträge bis 50 Franken müssen nicht zurückerstattet werden.
 
 <sup>1</sup> Für jeden Tag, an dem ein Fahrzeug nachweislich nur im Ausland verkehrt, hat die Halterin oder der Halter Anspruch auf die Rückerstattung von <sup>1</sup>/360 der Jahresabgabe. Für Tage, an denen das Fahrzeug im Ausland und in der Schweiz verkehrt, besteht Anspruch auf den halben Rückerstattungsbetrag.
 
-<sup>2</sup> Rückerstattungsgesuche sind innerhalb eines Jahres nach Ablauf der Abgabeperiode mit den entsprechenden Fahrtenkontrollen der EZV einzureichen. Diese kann weitere Beweismittel verlangen.
+<sup>2</sup> Rückerstattungsgesuche sind innerhalb eines Jahres nach Ablauf der Abgabeperiode mit den entsprechenden Fahrtenkontrollen dem BAZG einzureichen. Dieses kann weitere Beweismittel verlangen.
 
 <sup>3</sup> Beträge unter 50 Franken je Gesuch werden nicht zurückerstattet.
 
@@ -790,7 +788,7 @@ Beträge bis 50 Franken müssen nicht zurückerstattet werden.
 
 <sup>1</sup> Für jeden Tag, an dem ein für die Armee oder den Zivilschutz gemietetes Fahrzeug nachweislich für einen Zweck nach Artikel 3 Absatz 1 Buchstabe a oder a<sup>bis</sup> verkehrt, hat die Halterin oder der Halter Anspruch auf die Rückerstattung von <sup>1</sup>/<sub>360</sub> der Jahresabgabe. Für Tage, an denen das Fahrzeug sowohl für einen solchen Zweck wie auch als der pauschalen Abgabe unterliegendes Fahrzeug verkehrt, besteht Anspruch auf den halben Rückerstattungsbetrag.
 
-<sup>2</sup> Rückerstattungsgesuche sind innerhalb eines Jahres nach Ablauf der Abgabeperiode mit den entsprechenden Fahrtenkontrollen, Mietverträgen, Übernahme- und Übergabeprotokollen sowie mit Angabe des Verwendungszwecks der EZV einzureichen. Diese kann weitere Beweismittel verlangen.
+<sup>2</sup> Rückerstattungsgesuche sind innerhalb eines Jahres nach Ablauf der Abgabeperiode mit den entsprechenden Fahrtenkontrollen, Mietverträgen, Übernahme- und Übergabeprotokollen sowie mit Angabe des Verwendungszwecks dem BAZG einzureichen. Dieses kann weitere Beweismittel verlangen.
 
 <sup>3</sup> Beträge unter 50 Franken je Gesuch werden nicht zurückerstattet.
 
@@ -811,7 +809,7 @@ Für ausländische Fahrzeuge, die der pauschalen Abgabeerhebung unterliegen, kan
 - c. einen bis elf aufeinander folgende Monate;
 - d. ein Jahr.
 
-<sup>2</sup> Zahlungsnachweis ist ein Ausweis der EZV. Die Fahrzeugführerin oder der Fahrzeugführer muss diesen den Kontrollorganen auf Verlangen vorweisen.
+<sup>2</sup> Zahlungsnachweis ist ein Ausweis des BAZG. Die Fahrzeugführerin oder der Fahrzeugführer muss diesen den Kontrollorganen auf Verlangen vorweisen.
 
 <sup>3</sup> Abgabepflichtige Personen ohne gültigen Zahlungsnachweis müssen sich bei einer besetzten Zolldienststelle anmelden.
 
@@ -827,7 +825,7 @@ Für Abgabeperioden, die kürzer sind als ein Jahr, wird die Abgabe anteilmässi
 - b. 5 Prozent für zehn frei wählbare Tage;
 - c. je 9 Prozent für einen bis elf aufeinander folgende Monate.
 
-<sup>2</sup> Wird der Zahlungsnachweis vor Ablauf der Abgabeperiode der EZV zurückgegeben, so besteht Anspruch auf anteilmässige Rückerstattung der Abgabe.
+<sup>2</sup> Wird der Zahlungsnachweis vor Ablauf der Abgabeperiode dem BAZG zurückgegeben, so besteht Anspruch auf anteilmässige Rückerstattung der Abgabe.
 
 <sup>3</sup> Beträge bis 50 Franken werden nicht zurückerstattet.
 
@@ -864,9 +862,9 @@ Neben der Halterin oder dem Halter sind für die leistungsabhängige Schwerverke
 
 #### Art. 36a
 
-**Anfrage bei der EZV**[^36a-1]
+**Anfrage beim BAZG**[^36a-1]
 
-<sup>1</sup> Die nach Artikel 36 Absatz 1<sup>bis</sup> solidarisch haftbare Person, die einer Drittperson ein Zugfahrzeug oder einen Anhänger (Fahrzeug) zum Gebrauch überlassen will, kann im Rahmen des Vertragsabschlusses bei der EZV anfragen, ob die Drittperson (Vertragspartei) oder die Halterin oder der Halter des Fahrzeugs, falls es sich nicht um dieselbe Person handelt, zahlungsunfähig ist oder erfolglos gemahnt wurde.[^36a-2]
+<sup>1</sup> Die nach Artikel 36 Absatz 1<sup>bis</sup> solidarisch haftbare Person, die einer Drittperson ein Zugfahrzeug oder einen Anhänger (Fahrzeug) zum Gebrauch überlassen will, kann im Rahmen des Vertragsabschlusses beim BAZG anfragen, ob die Drittperson (Vertragspartei) oder die Halterin oder der Halter des Fahrzeugs, falls es sich nicht um dieselbe Person handelt, zahlungsunfähig ist oder erfolglos gemahnt wurde.[^36a-2]
 
 <sup>2</sup>
 
@@ -874,18 +872,18 @@ Die Anfrage muss enthalten:
 
 - a. die Personalien und die Adresse der Vertragspartei sowie gegebenenfalls der Halterin oder des Halters;
 - b. die Angaben zum Fahrzeug; und
-- c. die schriftliche Einwilligung der Vertragspartei und gegebenenfalls der Halterin oder des Halters in die Auskunftserteilung durch die EZV.
+- c. die schriftliche Einwilligung der Vertragspartei und gegebenenfalls der Halterin oder des Halters in die Auskunftserteilung durch das BAZG.
 
-<sup>3</sup> Falls die Vertragspartei oder gegebenenfalls die Halterin oder der Halter zahlungsunfähig ist oder erfolglos gemahnt wurde, weist die EZV in ihrer Antwort die anfragende Person darauf hin, dass sie mit Vertragsabschluss solidarisch haftbar wird für die von diesem Zeitpunkt an geschuldeten Abgaben sowie allfällige Zinsen und Gebühren für das Fahrzeug.
+<sup>3</sup> Falls die Vertragspartei oder gegebenenfalls die Halterin oder der Halter zahlungsunfähig ist oder erfolglos gemahnt wurde, weist das BAZG in seiner Antwort die anfragende Person darauf hin, dass sie mit Vertragsabschluss solidarisch haftbar wird für die von diesem Zeitpunkt an geschuldeten Abgaben sowie allfällige Zinsen und Gebühren für das Fahrzeug.
 
 [^36a-1]: Eingefügt durch Ziff. I der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^36a-2]: Fassung gemäss Ziff. I der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 
 #### Art. 36b
 
-**Spätere Mitteilung der EZV**[^36b-1]
+**Spätere Mitteilung des BAZG**[^36b-1]
 
-Stellt die EZV nach Inverkehrsetzung des Fahrzeugs nach Artikel 36*a* Absatz 2 Buchstabe b fest, dass die Halterin oder der Halter zahlungsunfähig ist oder erfolglos gemahnt wurde, und erwägt sie, die nach Artikel 36 Absatz 1<sup>bis</sup> solidarisch haftbare Person der Solidarhaftung zu unterstellen, so teilt sie dieser Person schriftlich mit, dass sie für künftige Abgaben sowie für allfällige Zinsen und Gebühren für das Fahrzeug solidarisch haftet, wenn:
+Stellt das BAZG nach Inverkehrsetzung des Fahrzeugs nach Artikel 36*a* Absatz 2 Buchstabe b fest, dass die Halterin oder der Halter zahlungsunfähig ist oder erfolglos gemahnt wurde, und erwägt es, die nach Artikel 36 Absatz 1<sup>bis</sup> solidarisch haftbare Person der Solidarhaftung zu unterstellen, so teilt es dieser Person schriftlich mit, dass sie für künftige Abgaben sowie für allfällige Zinsen und Gebühren für das Fahrzeug solidarisch haftet, wenn:
 
 - a. sie den Vertrag nicht innerhalb von 60 Tagen kündigt; oder
 - b. alle ausstehenden Abgaben und allfällige Zinsen und Gebühren für das Fahrzeug nicht innerhalb von 60 Tagen vollständig bezahlt werden.
@@ -910,7 +908,7 @@ Als Reinertrag gilt der Ertrag nach Abzug der Aufwandentschädigung nach Artikel
 
 <sup>3</sup> Die verbleibenden 76,5 Prozent des Kantonsanteils werden nach dem Verteilungsschlüssel in Artikel 40 auf alle Kantone verteilt.[^38-4]
 
-<sup>4</sup> ...[^38-5]
+<sup>4</sup> …[^38-5]
 
 [^38-1]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^38-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6789](https://fedlex.data.admin.ch/eli/oc/2017/758)).
@@ -967,7 +965,7 @@ Massgebend für die Strassenlängen sind die neuesten Angaben über:
 
 <sup>4</sup> Massgebend für die Zahl der Wohnbevölkerung ist die letzte Erhebung über die mittlere Wohnbevölkerung.[^40-5]
 
-<sup>5</sup> Massgebend für die steuerliche Belastung des Motorfahrzeugverkehrs durch die Kantone ist der Totalindex der Motorfahrzeugsteuern. Die EZV ermittelt diese Indexzahl gestützt auf die Angaben der Eidgenössischen Finanzverwaltung und des Bundesamtes für Statistik jährlich.[^40-6]
+<sup>5</sup> Massgebend für die steuerliche Belastung des Motorfahrzeugverkehrs durch die Kantone ist der Totalindex der Motorfahrzeugsteuern. Das BAZG ermittelt diese Indexzahl gestützt auf die Angaben der Eidgenössischen Finanzverwaltung und des Bundesamtes für Statistik jährlich.[^40-6]
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528)).
 [^40-2]: [SR 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
@@ -992,7 +990,7 @@ Massgebend für die Strassenlängen sind die neuesten Angaben über:
 
 **Kontrolleinrichtungen**[^42-1]
 
-Die EZV kann ortsfeste und mobile Kontrolleinrichtungen betreiben.
+Das BAZG kann ortsfeste und mobile Kontrolleinrichtungen betreiben.
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 
@@ -1016,9 +1014,9 @@ Wertminderungen und Kosten, die durch Kontrollen entstehen, werden nicht entsch�
 
 **Allgemeines**
 
-<sup>1</sup> Die kantonalen Vollzugsbehörden melden der EZV laufend die zur Erhebung der Abgabe erforderlichen Daten.
+<sup>1</sup> Die kantonalen Vollzugsbehörden melden dem BAZG laufend die zur Erhebung der Abgabe erforderlichen Daten.
 
-<sup>2</sup> Die EZV erlässt die zum Vollzug erforderlichen Weisungen.
+<sup>2</sup> Das BAZG erlässt die zum Vollzug erforderlichen Weisungen.
 
 <sup>3</sup> Die zu erhebende Abgabe beträgt mindestens 5 Franken.
 
@@ -1026,7 +1024,7 @@ Wertminderungen und Kosten, die durch Kontrollen entstehen, werden nicht entsch�
 
 <sup>5</sup> Die Vollzugsbehörden sind für ihren Aufwand beim Vollzug des SVAG und dieser Verordnung zu entschädigen. Das EFD regelt die Einzelheiten.
 
-<sup>6</sup> Soweit das SVAG und diese Verordnung nichts anderes bestimmen, gelten für die von der EZV zu vollziehenden Bestimmungen die Vorschriften der Zollgesetzgebung.
+<sup>6</sup> Soweit das SVAG und diese Verordnung nichts anderes bestimmen, gelten für die vom BAZG zu vollziehenden Bestimmungen die Vorschriften der Zollgesetzgebung.
 
 [^45-1]: Fassung gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
@@ -1044,7 +1042,7 @@ Wertminderungen und Kosten, die durch Kontrollen entstehen, werden nicht entsch�
 
 <sup>1</sup>
 
-Die EZV kann mit einzelnen abgabepflichtigen Personen Vereinbarungen treffen, welche die Veranlagung der Abgabe vereinfachen, namentlich über:
+Das BAZG kann mit einzelnen abgabepflichtigen Personen Vereinbarungen treffen, welche die Veranlagung der Abgabe vereinfachen, namentlich über:
 
 - a. das Deklarationsverfahren;
 - b. die Veranlagung von abgabepflichtigen Personen, für die mehrere Vollzugsbehörden zuständig sind.
@@ -1072,9 +1070,9 @@ Die Vollzugsbehörden können Abgaben, Zinsen und Kosten, auch solche, die weder
 
 **Abrechnung und Kontrollführung**
 
-<sup>1</sup> Zentrale Abrechnungs- und Kontrollstelle ist die EZV.
+<sup>1</sup> Zentrale Abrechnungs- und Kontrollstelle ist das BAZG.
 
-<sup>2</sup> Die Kantone rechnen periodisch mit der EZV nach deren Weisungen ab. Am Ende des Rechnungsjahres ist ein definitiver Abschluss zu erstellen.
+<sup>2</sup> Die Kantone rechnen periodisch mit dem BAZG nach deren Weisungen ab. Am Ende des Rechnungsjahres ist ein definitiver Abschluss zu erstellen.
 
 <sup>3</sup> Das Rechnungsjahr ist das Kalenderjahr.
 
@@ -1084,14 +1082,14 @@ Die Vollzugsbehörden können Abgaben, Zinsen und Kosten, auch solche, die weder
 
 <sup>1</sup>
 
-Wird die Abgabe für ein inländisches Fahrzeug nicht bezahlt, unterbleiben Vorauszahlungen oder Sicherheitsleistungen oder werden von den Vollzugsbehörden angeordnete Sicherungsmassnahmen durch die Halterin oder den Halter nicht umgesetzt, so wird die Halterin oder der Halter gemahnt; bleibt die Mahnung erfolglos, so kann die EZV zusätzlich zu den Massnahmen nach Artikel 14*a* SVAG:
+Wird die Abgabe für ein inländisches Fahrzeug nicht bezahlt, unterbleiben Vorauszahlungen oder Sicherheitsleistungen oder werden von den Vollzugsbehörden angeordnete Sicherungsmassnahmen durch die Halterin oder den Halter nicht umgesetzt, so wird die Halterin oder der Halter gemahnt; bleibt die Mahnung erfolglos, so kann das BAZG zusätzlich zu den Massnahmen nach Artikel 14*a* SVAG:
 
 - a. die Weiterfahrt mit dem Fahrzeug verweigern; oder
 - b. das Fahrzeug beschlagnahmen, soweit dies unter den gegebenen Umständen verhältnismässig ist.
 
 <sup>2</sup>
 
-Wird die Abgabe für ein ausländisches Fahrzeug nicht bezahlt, unterbleiben Vorauszahlungen oder Sicherheitsleistungen oder werden von den Vollzugsbehörden angeordnete Sicherungsmassnahmen durch die Halterin oder den Halter nicht umgesetzt, so kann die EZV:
+Wird die Abgabe für ein ausländisches Fahrzeug nicht bezahlt, unterbleiben Vorauszahlungen oder Sicherheitsleistungen oder werden von den Vollzugsbehörden angeordnete Sicherungsmassnahmen durch die Halterin oder den Halter nicht umgesetzt, so kann das BAZG:
 
 - a. die Weiterfahrt mit dem Fahrzeug verweigern; oder
 - b. das Fahrzeug beschlagnahmen, soweit dies unter den gegebenen Umständen verhältnismässig ist.
@@ -1102,7 +1100,7 @@ Wird die Abgabe für ein ausländisches Fahrzeug nicht bezahlt, unterbleiben Vor
 
 **Verweigerung und Entzug von Fahrzeugausweis und Kontrollschildern**[^50a-1]
 
-<sup>1</sup> In den Fällen nach Artikel 14*a* SVAG kann die EZV die kantonale Vollzugsbehörde anweisen, den Fahrzeugausweis und die Kontrollschilder zu verweigern oder zu entziehen.
+<sup>1</sup> In den Fällen nach Artikel 14*a* SVAG kann das BAZG die kantonale Vollzugsbehörde anweisen, den Fahrzeugausweis und die Kontrollschilder zu verweigern oder zu entziehen.
 
 <sup>2</sup> Nach einem Entzug des Fahrzeugausweises und der Kontrollschilder dürfen Wechselschilder für nicht betroffene Fahrzeuge weiterverwendet werden.
 
@@ -1132,8 +1130,8 @@ Die Revision von Verfügungen und Beschwerdeentscheiden richtet sich nach den Ar
 Für die Behandlung von Erlassgesuchen sind zuständig:
 
 - a. die kantonalen Vollzugsbehörden für die von ihnen veranlagten Fahrzeuge;
-- b.[^52-1] die EZV für die von ihr veranlagten inländischen und ausländischen Fahrzeuge;
-- c.[^52-2] ...
+- b.[^52-1] das BAZG für die von ihm veranlagten inländischen und ausländischen Fahrzeuge;
+- c.[^52-2] …
 
 <sup>3</sup> Es können nur rechtskräftig festgesetzte Abgabenbeträge erlassen werden.
 
@@ -1148,9 +1146,9 @@ Für die Behandlung von Erlassgesuchen sind zuständig:
 
 **Beschaffung von Daten**
 
-<sup>1</sup> Die EZV beschafft die Identitätsdaten und die Adressen sowie die Angaben über die Zahlungsverbindungen der abgabepflichtigen Personen.
+<sup>1</sup> Das BAZG beschafft die Identitätsdaten und die Adressen sowie die Angaben über die Zahlungsverbindungen der abgabepflichtigen Personen.
 
-<sup>2</sup> Die von den kantonalen Vollzugsbehörden und den Zollämtern übermittelten Daten werden von der EZV zentral bearbeitet.
+<sup>2</sup> Die von den kantonalen Vollzugsbehörden und den Zollämtern übermittelten Daten werden vom BAZG zentral bearbeitet.
 
 #### Art. 54
 
@@ -1191,14 +1189,14 @@ Es werden aufgehoben:
 - a. die Verordnung vom 23. Dezember 1999[^58-1] über den Einbau von Geräten für den Vollzug des Schwerverkehrsabgabegesetzes im Jahr 2000;
 - b. die Verordnung vom 25. Juni 1997[^58-2] über die Umladestationen des kombinierten Verkehrs.
 
-[^58-1]: [[AS 2000 341](https://fedlex.data.admin.ch/eli/oc/2000/67)[937](https://fedlex.data.admin.ch/eli/oc/2000/142)]
-[^58-2]: [[AS 1997 1633](https://fedlex.data.admin.ch/eli/oc/1997/1633_1633_1633), [1998 1648](https://fedlex.data.admin.ch/eli/oc/1998/1648_1648_1648)[2051](https://fedlex.data.admin.ch/eli/oc/1998/2051_2051_2051)]
+[^58-1]: [[AS 2000 341](https://fedlex.data.admin.ch/eli/oc/2000/67), [937](https://fedlex.data.admin.ch/eli/oc/2000/142)]
+[^58-2]: [[AS 1997 1633](https://fedlex.data.admin.ch/eli/oc/1997/1633_1633_1633); [1998 1648](https://fedlex.data.admin.ch/eli/oc/1998/1648_1648_1648), [2051](https://fedlex.data.admin.ch/eli/oc/1998/2051_2051_2051)]
 
 #### Art. 59
 
 **Änderung bisherigen Rechts**
 
-...[^59-1]
+…[^59-1]
 
 [^59-1]: Die Änderungen können unter [AS 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)konsultiert werden.
 
@@ -1214,7 +1212,7 @@ Inländische und ausländische Fahrzeuge, die der leistungsabhängigen Abgabeerh
 
 **Verwendung des Erfassungsgeräts**[^61-1]
 
-Die von der EZV kostenlos abgegebenen Erfassungsgeräte dürfen weder verschenkt noch verkauft, vermietet oder ausgeliehen werden. Widerhandlungen werden mit Busse bis 5000 Franken geahndet.
+Die vom BAZG kostenlos abgegebenen Erfassungsgeräte dürfen weder verschenkt noch verkauft, vermietet oder ausgeliehen werden. Widerhandlungen werden mit Busse bis 5000 Franken geahndet.
 
 [^61-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 
@@ -1238,7 +1236,7 @@ Fahrzeuge der Abgabekategorie 2 (EURO 3) werden bis zum 31. Dezember 2008 zum Ta
 
 Die Solidarhaftung der Eigentümerin oder des Eigentümers, der Vermieterin oder des Vermieters, der Leasinggeberin oder des Leasinggebers nach Artikel 36 Absatz 1<sup>bis</sup> gilt nur für Verträge, die nach Inkrafttreten der Änderung vom 7. März 2008 dieser Verordnung abgeschlossen worden sind.
 
-[^62b-1]: Eingefügt durch Ziff I der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)[1653](https://fedlex.data.admin.ch/eli/oc/2008/241)).
+[^62b-1]: Eingefügt durch Ziff I der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190), [1653](https://fedlex.data.admin.ch/eli/oc/2008/241)).
 
 ### 6. Abschnitt: Inkrafttreten
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 6 mars 2000 concernant une redevance sur le trafic des poi
 short: ORPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: fr
-version: 2021-10-22
+version: 2022-01-01
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20211022/fr/xml/fedlex-data-admin-ch-eli-cc-2000-192-20211022-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-192-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/fr"
 
 (Ordonnance relative à une redevance sur le trafic des poids lourds, ORPL)
 
-du 6 mars 2000 (Etat le 22 octobre 2021)
+du 6 mars 2000 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -93,7 +93,7 @@ Font exception à l’assujettissement à la redevance:[^3-1]
 - l. les véhicules à chenilles (art. 28 OETV);
 - m. les essieux de transport.
 
-<sup>2</sup> Dans des cas dûment motivés, notamment eu égard aux conventions internationales, pour des raisons humanitaires ou pour des courses d’intérêt public à caractère non commercial, l’Administration fédérale des douanes (AFD)[^3-13] peut autoriser d’autres exceptions.
+<sup>2</sup> Dans des cas dûment motivés, notamment eu égard aux conventions internationales, pour des raisons humanitaires ou pour des courses d’intérêt public à caractère non commercial, l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^3-13] peut autoriser d’autres exceptions.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
@@ -107,7 +107,7 @@ Font exception à l’assujettissement à la redevance:[^3-1]
 [^3-10]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5011](https://fedlex.data.admin.ch/eli/oc/2007/702)).
 [^3-11]: [RS 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
 [^3-12]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3-13]: Nouvelle expression selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-13]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
@@ -141,7 +141,7 @@ Pour les véhicules destinés à l’exportation et munis d’une immatriculatio
 - a. 20 francs pour un jour, 50 francs par tranche de trois jours pour les véhicules selon al. 1 et 2;
 - b. 70 francs pour un jour, 200 francs par tranche de trois jours pour les autres véhicules.
 
-<sup>4</sup> Dans des cas isolés, l’AFD peut prévoir une perception forfaitaire de la redevance pour d’autres véhicules.
+<sup>4</sup> Dans des cas isolés, l’OFDF peut prévoir une perception forfaitaire de la redevance pour d’autres véhicules.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
@@ -158,7 +158,7 @@ Dans la mesure où l’ordonnance n’en dispose pas autrement, son exécution e
 
 - a.
 
-  de l’AFD pour:
+  de l’OFDF pour:
 
   - 1\. les véhicules de la Confédération,
   - 2\. les véhicules suisses soumis à la redevance liée aux prestations, dans la mesure où l’exécution concerne la fixation et le prélèvement de la redevance,
@@ -176,7 +176,7 @@ Dans la mesure où l’ordonnance n’en dispose pas autrement, son exécution e
 
 **Franchissement de la frontière**
 
-Les véhicules soumis à la redevance doivent utiliser les bureaux de passage frontaliers désignés par l’AFD.
+Les véhicules soumis à la redevance doivent utiliser les bureaux de passage frontaliers désignés par l’OFDF.
 
 ## Chapitre 2 Réglementations particulières
 
@@ -186,9 +186,9 @@ Les véhicules soumis à la redevance doivent utiliser les bureaux de passage fr
 
 <sup>1</sup> Pour les véhicules affectés au trafic de ligne (art. 3, al. 1, let. c), la redevance est perçue forfaitairement pour les kilomètres parcourus en dehors de ce trafic. Elle se calcule selon la part proportionnelle des kilomètres parcourus en dehors du trafic de ligne par rapport au kilométrage total.
 
-<sup>2</sup> Au cours du premier trimestre de l’année suivant la période fiscale, les détenteurs de véhicules affectés au trafic de ligne doivent faire parvenir à l’AFD une déclaration concernant l’utilisation des véhicules en service, avec les kilométrages respectifs.
+<sup>2</sup> Au cours du premier trimestre de l’année suivant la période fiscale, les détenteurs de véhicules affectés au trafic de ligne doivent faire parvenir à l’OFDF une déclaration concernant l’utilisation des véhicules en service, avec les kilométrages respectifs.
 
-<sup>3</sup> Si la déclaration fait défaut, l’AFD perçoit la redevance pleine pour la période entière.
+<sup>3</sup> Si la déclaration fait défaut, l’OFDF perçoit la redevance pleine pour la période entière.
 
 ### Section 2 Courses effectuées en transport combiné non accompagné
 
@@ -196,7 +196,7 @@ Les véhicules soumis à la redevance doivent utiliser les bureaux de passage fr
 
 **Véhicules affectés au transport combiné non accompagné**
 
-<sup>1</sup> Les détenteurs de véhicules soumis à la redevance à l’aide desquels sont effectuées des courses en transport combiné non accompagné (TCNA) bénéficient d’un remboursement, sur demande présentée à l’AFD, pour les parcours initiaux ou terminaux du TCNA.
+<sup>1</sup> Les détenteurs de véhicules soumis à la redevance à l’aide desquels sont effectuées des courses en transport combiné non accompagné (TCNA) bénéficient d’un remboursement, sur demande présentée à l’OFDF, pour les parcours initiaux ou terminaux du TCNA.
 
 <sup>2</sup> Le montant suivant est remboursé par unité de chargement ou semi-remorque transbordée de la route au trafic ferroviaire ou fluvial, ou du trafic ferroviaire ou fluvial à la route:
 
@@ -207,7 +207,7 @@ Les véhicules soumis à la redevance doivent utiliser les bureaux de passage fr
 <tr><td>c. pour les unités de chargement ou semi-remorques d’une longueur supérieure à 6,1 m</td><td>33.[^8-1]</td></tr>
 </table>
 
-<sup>3</sup> La demande de remboursement doit être adressée à l’AFD avec la déclaration selon l’art. 22.
+<sup>3</sup> La demande de remboursement doit être adressée à l’OFDF avec la déclaration selon l’art. 22.
 
 <sup>4</sup> Le montant remboursé ne doit pas excéder, par période fiscale, la redevance totale des véhicules du requérant utilisés dans le TCNA.[^8-2]
 
@@ -247,7 +247,7 @@ Le Département fédéral des finances (DFF) règle, en relation avec les parcou
 
 <sup>1</sup> Pour les véhicules servant uniquement au transport de bois brut, la redevance se monte à 75 % des taux figurant aux art. 4, al. 1, let. f, et 2, let. a et b, et 14, al. 1.[^11-1]
 
-<sup>2</sup> L’AFD accorde, sur demande, un remboursement de 2 fr. 10 par m<sup>3</sup> de bois brut transporté pour les véhicules ne servant pas uniquement au transport de bois brut. Le montant remboursé peut atteindre 25 % au maximum de la redevance totale par véhicule et par période.
+<sup>2</sup> L’OFDF accorde, sur demande, un remboursement de 2 fr. 10 par m<sup>3</sup> de bois brut transporté pour les véhicules ne servant pas uniquement au transport de bois brut. Le montant remboursé peut atteindre 25 % au maximum de la redevance totale par véhicule et par période.
 
 <sup>3</sup> Sont notamment réputés bois brut le bois en grumes, le bois d’industrie, le bois d’énergie et les déchets de bois. Le DFF définit plus précisément ces termes.
 
@@ -280,14 +280,12 @@ Pour les véhicules suivants, la redevance se monte à 75 % des taux énoncés �
 
 Les allégements visés aux art. 11, al. 1, et 12 ne sont accordés que si le détenteur du véhicule:
 
-- a. demande l’allégement auprès de l’AFD[^12a-1] lors de chaque mise en circulation du véhicule, et
+- a. demande l’allégement auprès de l’OFDF lors de chaque mise en circulation du véhicule, et
 - b. s’engage à utiliser le véhicule uniquement aux fins visées à l’art. 11, al. 1, ou à l’art. 12.
 
-<sup>2</sup> Le détenteur du véhicule doit conserver pendant cinq ans tous les documents et justificatifs essentiels pour l’allégement. Il doit prouver le respect de l’engagement visé à l’al. 1, let. b, à l’AFD lorsque celle-ci en fait la demande.
+<sup>2</sup> Le détenteur du véhicule doit conserver pendant cinq ans tous les documents et justificatifs essentiels pour l’allégement. Il doit prouver le respect de l’engagement visé à l’al. 1, let. b, à l’OFDF lorsque celui-ci en fait la demande.
 
-<sup>3</sup> Si l’AFD constate que le véhicule n’a pas été utilisé correctement, elle retire l’allégement.
-
-[^12a-1]: Nouvelle expression selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)). Il a été tenu compte de cette mod. dans tout le texte.
+<sup>3</sup> Si l’OFDF constate que le véhicule n’a pas été utilisé correctement, elle retire l’allégement.
 
 ## Chapitre 3 Poids déterminant et tarif****
 
@@ -307,7 +305,7 @@ Les allégements visés aux art. 11, al. 1, et 12 ne sont accordés que si le d�
 
 <sup>4</sup> Pour les autres combinaisons de deux véhicules soumis à la redevance, on additionne le poids total du véhicule tracteur et le poids total de la remorque.
 
-<sup>5</sup> Pour le véhicule à carrosserie interchangeable ou de genre modifiable, la redevance est calculée sur la base du poids total le plus élevé entrant en ligne de compte. Dans des cas particuliers, l’AFD peut fixer un autre poids déterminant.
+<sup>5</sup> Pour le véhicule à carrosserie interchangeable ou de genre modifiable, la redevance est calculée sur la base du poids total le plus élevé entrant en ligne de compte. Dans des cas particuliers, l’OFDF peut fixer un autre poids déterminant.
 
 <sup>6</sup> Si le véhicule automobile est dispensé de l’obligation de montage d’un appareil selon art. 15, al. 5, c’est le poids maximal autorisé de l’ensemble qui est déterminant.
 
@@ -375,7 +373,7 @@ Pour les véhicules soumis à la redevance liée aux prestations, la redevance, 
 
 **Équipement**
 
-<sup>1</sup> La redevance est déterminée au moyen d’un dispositif de mesure électronique agréé par l’AFD. Ce dispositif se compose du tachygraphe monté dans le véhicule ou de l’enregistreur d’impulsions destiné à déterminer la distance parcourue, ainsi que d’un appareil de saisie qui compte et enregistre le kilométrage parcouru déterminant.[^15-1]
+<sup>1</sup> La redevance est déterminée au moyen d’un dispositif de mesure électronique agréé par l’OFDF. Ce dispositif se compose du tachygraphe monté dans le véhicule ou de l’enregistreur d’impulsions destiné à déterminer la distance parcourue, ainsi que d’un appareil de saisie qui compte et enregistre le kilométrage parcouru déterminant.[^15-1]
 
 <sup>2</sup> Les erreurs maximales tolérées pour le tachygraphe sont définies dans les dispositions relatives au montage du tachygraphe (art. 100, al. 2 à 4, OETV[^15-2]).[^15-3]
 
@@ -388,7 +386,7 @@ Le détenteur doit équiper à ses frais les véhicules à moteur suivants immat
 
 <sup>4</sup> Les véhicules soumis à la perception forfaitaire sont dispensés de l’obligation de monter l’appareil de saisie.
 
-<sup>5</sup> L’AFD peut dispenser d’autres véhicules automobiles de l’obligation de monter l’appareil de saisie.
+<sup>5</sup> L’OFDF peut dispenser d’autres véhicules automobiles de l’obligation de monter l’appareil de saisie.
 
 <sup>6</sup> et <sup>7</sup> ...[^15-4]
 
@@ -401,13 +399,13 @@ Le détenteur doit équiper à ses frais les véhicules à moteur suivants immat
 
 **Remise gratuite de l’appareil de saisie**[^15a-1]
 
-<sup>1</sup> Pour le premier équipement, l’AFD prête aux détenteurs un appareil de saisie par véhicule à moteur soumis à l’obligation de montage. Les coûts de remplacement des appareils de saisie défectueux sont à la charge de l’AFD.[^15a-2]
+<sup>1</sup> Pour le premier équipement, l’OFDF prête aux détenteurs un appareil de saisie par véhicule à moteur soumis à l’obligation de montage. Les coûts de remplacement des appareils de saisie défectueux sont à la charge de l’OFDF.[^15a-2]
 
-<sup>2</sup> Les appareils de saisie qui ne sont plus utilisés doivent être restitués à l’AFD ou à un office désigné par cette dernière. L’AFD facture les appareils de saisie non restitués ou abîmés au détenteur.[^15a-3]
+<sup>2</sup> Les appareils de saisie qui ne sont plus utilisés doivent être restitués à l’OFDF ou à un office désigné par ce dernier. L’OFDF facture les appareils de saisie non restitués ou abîmés au détenteur.[^15a-3]
 
 <sup>3</sup> Le détenteur du véhicule à moteur assume les frais de montage de l’appareil de saisie.
 
-<sup>4</sup> L’AFD peut participer aux coûts d’atelier pour le remplacement d’appareils de saisie défectueux ou irréparables.
+<sup>4</sup> L’OFDF peut participer aux coûts d’atelier pour le remplacement d’appareils de saisie défectueux ou irréparables.
 
 [^15a-1]: Introduit par le ch. I de l’O du 15 sept. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 [^15a-2]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -419,9 +417,9 @@ Le détenteur doit équiper à ses frais les véhicules à moteur suivants immat
 
 <sup>1</sup> L’appareil de saisie doit être monté avant la mise en circulation du véhicule. Le détenteur est responsable du montage, du contrôle et de la mise en service de l’appareil de saisie.
 
-<sup>2</sup> Le montage et la mise en service de l’appareil de saisie doivent être effectués par des stations de montage agréées par l’AFD. Lors de la mise en service, ainsi que lors de chaque vérification ultérieure, ces stations de montage procèdent au test de conformité de l’ensemble de l’instrument de mesure; elles établissent l’attestation de conformité requise contre versement d’un émolument.[^16-1]
+<sup>2</sup> Le montage et la mise en service de l’appareil de saisie doivent être effectués par des stations de montage agréées par l’OFDF. Lors de la mise en service, ainsi que lors de chaque vérification ultérieure, ces stations de montage procèdent au test de conformité de l’ensemble de l’instrument de mesure; elles établissent l’attestation de conformité requise contre versement d’un émolument.[^16-1]
 
-<sup>3</sup> Le détenteur du véhicule doit initialiser ou faire initialiser l’appareil de saisie au moyen d’une carte à puce remise par l’AFD.
+<sup>3</sup> Le détenteur du véhicule doit initialiser ou faire initialiser l’appareil de saisie au moyen d’une carte à puce remise par l’OFDF.
 
 <sup>4</sup> ...[^16-2]
 
@@ -433,8 +431,8 @@ Le DFF règle:
 
 - a. les modalités concernant le montage, la mise en service, la réparation, l’échange et l’enlèvement temporaire de l’appareil de saisie;
 - b. les exigences et le contrôle des stations de montage qui installent, contrôlent, réparent et enlèvent temporairement les appareils de saisie;
-- c. la procédure d’homologation pour la reconnaissance de stations de montage par l’AFD;
-- d. la procédure d’homologation pour la reconnaissance de services compétents pour la remise de sceaux par l’AFD.[^16-3]
+- c. la procédure d’homologation pour la reconnaissance de stations de montage par l’OFDF;
+- d. la procédure d’homologation pour la reconnaissance de services compétents pour la remise de sceaux par l’OFDF.[^16-3]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^16-2]: Abrogé par le ch. I de l’O du 9 mars 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -444,9 +442,9 @@ Le DFF règle:
 
 **Remorques**
 
-<sup>1</sup> Si le véhicule automobile tracte une remorque, le conducteur doit introduire toutes les indications nécessaires à la taxation dans l’appareil de saisie. L’AFD énumère les indications nécessaires.[^17-1]
+<sup>1</sup> Si le véhicule automobile tracte une remorque, le conducteur doit introduire toutes les indications nécessaires à la taxation dans l’appareil de saisie. L’OFDF énumère les indications nécessaires.[^17-1]
 
-<sup>2</sup> Pour chaque remorque d’un poids total supérieur à 3,5 t, à l’exception des remorques agricoles, l’AFD établit une carte à puce contenant toutes les données nécessaires pour la saisie. Pour les remorques agricoles ainsi que pour les remorques d’un poids total jusqu’à 3,5 t, une carte à puce n’est établie que dans des cas particuliers ou sur demande du détenteur.
+<sup>2</sup> Pour chaque remorque d’un poids total supérieur à 3,5 t, à l’exception des remorques agricoles, l’OFDF établit une carte à puce contenant toutes les données nécessaires pour la saisie. Pour les remorques agricoles ainsi que pour les remorques d’un poids total jusqu’à 3,5 t, une carte à puce n’est établie que dans des cas particuliers ou sur demande du détenteur.
 
 <sup>3</sup> Pour les remorques tractées, la déclaration et le paiement de la redevance sont l’affaire du détenteur du véhicule tracteur.
 
@@ -462,9 +460,9 @@ Le DFF règle:
 
 <sup>3</sup> En cas de soupçon de défectuosité, il faut faire contrôler l’aptitude au fonctionnement de l’instrument de mesure par une station de montage.[^18-2]
 
-<sup>4</sup> Si l’instrument de mesure défectueux n’est pas réparé dans le délai fixé par l’AFD, l’autorité cantonale d’exécution retire le permis de circulation et les plaques de contrôle du véhicule concerné. Les plaques interchangeables peuvent continuer à être utilisées pour les véhicules non concernés.
+<sup>4</sup> Si l’instrument de mesure défectueux n’est pas réparé dans le délai fixé par l’OFDF, l’autorité cantonale d’exécution retire le permis de circulation et les plaques de contrôle du véhicule concerné. Les plaques interchangeables peuvent continuer à être utilisées pour les véhicules non concernés.
 
-<sup>5</sup> L’AFD décline toute responsabilité pour les conséquences des défaillances techniques des moyens auxiliaires électroniques.
+<sup>5</sup> L’OFDF décline toute responsabilité pour les conséquences des défaillances techniques des moyens auxiliaires électroniques.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2008, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^18-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2008, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
@@ -473,7 +471,7 @@ Le DFF règle:
 
 **Formulaire d’enregistrement en lieu et place de l’appareil de saisie**
 
-<sup>1</sup> Outre l’appareil de saisie, le conducteur doit emporter en permanence un formulaire d’enregistrement utilisable en cas de panne de l’instrument de mesure, de fonctionnement incorrect ou d’annonces d’erreur. Le formulaire est fourni par l’AFD.[^19-1]
+<sup>1</sup> Outre l’appareil de saisie, le conducteur doit emporter en permanence un formulaire d’enregistrement utilisable en cas de panne de l’instrument de mesure, de fonctionnement incorrect ou d’annonces d’erreur. Le formulaire est fourni par l’OFDF.[^19-1]
 
 <sup>2</sup> Si le véhicule automobile tracte une remorque, c’est le poids total de celle-ci qui doit être déclaré sur le formulaire.
 
@@ -485,7 +483,7 @@ Le DFF règle:
 
 **Carnet de route**
 
-<sup>1</sup> Le carnet de route doit être utilisé pour les véhicules automobiles que l’AFD dispense de l’obligation de montage d’un appareil de saisie. Il est remis par les autorités d’exécution.
+<sup>1</sup> Le carnet de route doit être utilisé pour les véhicules automobiles que l’OFDF dispense de l’obligation de montage d’un appareil de saisie. Il est remis par les autorités d’exécution.
 
 <sup>2</sup> Le détenteur doit veiller à ce que le conducteur procède aux relevés prescrits.
 
@@ -502,7 +500,7 @@ Le conducteur doit collaborer à l’établissement correct du kilométrage. Il 
 
 **Déclaration**
 
-<sup>1</sup> La personne assujettie à la redevance doit fournir à l’AFD les indications nécessaires au calcul de la redevance dans les vingt jours suivant l’expiration de la période fiscale.
+<sup>1</sup> La personne assujettie à la redevance doit fournir à l’OFDF les indications nécessaires au calcul de la redevance dans les vingt jours suivant l’expiration de la période fiscale.
 
 <sup>1bis</sup> Si le calcul de la redevance doit être effectué sur la base du poids le plus bas visé à l’art. 13, al. 7, la personne assujettie à la redevance doit déposer une demande pour chaque période fiscale. Cette demande doit être déposée dans les 20 jours qui suivent l’expiration de la période fiscale. Si aucune demande n’est présentée dans ce délai, la redevance est alors calculée sur la base du poids déterminant au sens de l’art. 13, al. 1 à 6.[^22-1]
 
@@ -522,9 +520,9 @@ Le conducteur doit collaborer à l’établissement correct du kilométrage. Il 
 
 <sup>1</sup> La redevance est déterminée sur la base de la déclaration électronique ou écrite remise par la personne assujettie à la redevance.
 
-<sup>2</sup> L’AFD peut exiger d’autres moyens de preuve.
+<sup>2</sup> L’OFDF peut exiger d’autres moyens de preuve.
 
-<sup>3</sup> Si la déclaration fait défaut, si elle est incomplète ou contradictoire, ou si l’AFD fait des constatations en contradiction avec la déclaration, cette administration procède à la taxation dans les limites de son pouvoir d’appréciation.
+<sup>3</sup> Si la déclaration fait défaut, si elle est incomplète ou contradictoire, ou si l’OFDF fait des constatations en contradiction avec la déclaration, cette administration procède à la taxation dans les limites de son pouvoir d’appréciation.
 
 #### Art. 24
 
@@ -546,7 +544,7 @@ Le conducteur doit collaborer à l’établissement correct du kilométrage. Il 
 
 **Recouvrement de la redevance**[^25-1]
 
-<sup>1</sup> L’AFD envoie une décision de taxation sur papier ou par voie électronique à la personne assujettie à la redevance.
+<sup>1</sup> L’OFDF envoie une décision de taxation sur papier ou par voie électronique à la personne assujettie à la redevance.
 
 <sup>2</sup> La redevance devient exigible 60 jours après la fin de la période fiscale.
 
@@ -579,11 +577,11 @@ Il détermine en outre:
 
 Quiconque est assujetti à la redevance pour un véhicule à moteur immatriculé à l’étranger (véhicule à moteur étranger) peut saisir les données nécessaires pour la perception de la redevance de la manière suivante:
 
-- a. au moyen d’un appareil de saisie agréé par l’AFD;
+- a. au moyen d’un appareil de saisie agréé par l’OFDF;
 - b. au moyen d’un appareil de saisie interopérable d’un service européen de perception électronique des redevances pour l’utilisation des routes (*European Electronic Toll Service*; prestataire du SET), ou
 - c. sans appareil de saisie.
 
-### Section 2 Véhicules à moteur équipés d’un appareil de saisie agréé par l’AFD****
+### Section 2 Véhicules à moteur équipés d’un appareil de saisie agréé par l’OFDF ****
 
 [^chap4a-sec2-1]
 
@@ -593,7 +591,7 @@ Quiconque est assujetti à la redevance pour un véhicule à moteur immatriculé
 
 [^26-1]
 
-<sup>1</sup> Le conducteur doit initialiser ou faire initialiser l’appareil de saisie agréé par l’AFD au moyen d’une carte à puce remise par l’AFD, dès réception de cette carte mais au plus tard avant la prochaine entrée en Suisse. Sur demande, l’AFD peut établir une carte à puce pour la remorque.
+<sup>1</sup> Le conducteur doit initialiser ou faire initialiser l’appareil de saisie agréé par l’OFDF au moyen d’une carte à puce remise par l’OFDF, dès réception de cette carte mais au plus tard avant la prochaine entrée en Suisse. Sur demande, l’OFDF peut établir une carte à puce pour la remorque.
 
 <sup>2</sup> Sont applicables au surplus les art. 15 à 19, 21, 22, al. 1bis et 2, 23, al. 3, et 25, al. 1.
 
@@ -615,12 +613,12 @@ Quiconque est assujetti à la redevance pour un véhicule à moteur immatriculé
 
 Un prestataire du SET peut être mandaté pour la saisie des données nécessaires à la perception de la redevance et le paiement de celle-ci si:
 
-- a. le prestataire du SET est agréé par l’AFD pour fournir ce service en Suisse, et
+- a. le prestataire du SET est agréé par l’OFDF pour fournir ce service en Suisse, et
 - b. l’assujetti à la redevance a installé dans le véhicule à moteur un appareil de saisie du prestataire du SET mandaté.
 
 <sup>2</sup> Lors de l’entrée en Suisse, le conducteur doit prouver que le prestataire du SET est mandaté pour saisir le kilométrage parcouru et pour acquitter la redevance.
 
-<sup>3</sup> La créance s’éteint avec le paiement de la redevance à l’AFD.
+<sup>3</sup> La créance s’éteint avec le paiement de la redevance à l’OFDF.
 
 #### Art. 26b
 
@@ -628,7 +626,7 @@ Un prestataire du SET peut être mandaté pour la saisie des données nécessair
 
 <sup>1</sup>
 
-L’AFD octroie un agrément à un prestataire du SET à condition que celui-ci:
+L’OFDF octroie un agrément à un prestataire du SET à condition que celui-ci:
 
 - a. soit établi dans un État membre de l’Espace économique européen ou en Suisse;
 - b. prouve qu’il satisfait aux critères techniques et opérationnels du DFF;
@@ -637,7 +635,7 @@ L’AFD octroie un agrément à un prestataire du SET à condition que celui-ci:
 
 <sup>2</sup> Le DFF définit les critères techniques et opérationnels.
 
-<sup>3</sup> L’AFD peut suspendre ou retirer un agrément si le prestataire du SET ne remplit plus complètement les conditions d’octroi.
+<sup>3</sup> L’OFDF peut suspendre ou retirer un agrément si le prestataire du SET ne remplit plus complètement les conditions d’octroi.
 
 #### Art. 26c
 
@@ -650,12 +648,12 @@ Les prestataires du SET agréés doivent:
 - a. enregistrer les personnes assujetties à la redevance et les véhicules à moteur pour lesquelles elles doivent s’acquitter de la redevance;
 - b. remettre à la personne assujettie à la redevance un appareil de saisie;
 - c. saisir le kilométrage parcouru des véhicules à moteur pour lesquels la redevance est due;
-- d. transmettre à l’AFD les données nécessaires pour la perception de la redevance;
-- e. payer la redevance à l’AFD dans le délai imparti.
+- d. transmettre à l’OFDF les données nécessaires pour la perception de la redevance;
+- e. payer la redevance à l’OFDF dans le délai imparti.
 
 <sup>2</sup> L’agrément peut être assorti d’autres charges.
 
-<sup>3</sup> Les prestataires du SET touchent une compensation pour les services rendus à l’AFD s’agissant de la saisie et de transmission des données ainsi que du paiement de la redevance. Le DFF fixe le montant de cette compensation. Il peut prévoir une commission de perception.
+<sup>3</sup> Les prestataires du SET touchent une compensation pour les services rendus à l’OFDF s’agissant de la saisie et de transmission des données ainsi que du paiement de la redevance. Le DFF fixe le montant de cette compensation. Il peut prévoir une commission de perception.
 
 #### Art. 26d
 
@@ -673,17 +671,17 @@ Les prestataires du SET agréés doivent:
 
 **Taxation**
 
-<sup>1</sup> Le prestataire du SET transmet à l’AFD les données nécessaires à la perception de la redevance.
+<sup>1</sup> Le prestataire du SET transmet à l’OFDF les données nécessaires à la perception de la redevance.
 
 <sup>2</sup> L’art. 23 s’applique par analogie.
 
-<sup>3</sup> L’AFD notifie la décision de taxation à la personne assujettie à la redevance sous forme papier ou par voie électronique. Le prestataire du SET est réputé habilité à recevoir les notifications.
+<sup>3</sup> L’OFDF notifie la décision de taxation à la personne assujettie à la redevance sous forme papier ou par voie électronique. Le prestataire du SET est réputé habilité à recevoir les notifications.
 
 #### Art. 26f
 
 **Facturation**
 
-L’AFD facture périodiquement au prestataire du SET la somme des redevances dues sur la base des trajets saisis par les appareils dudit prestataire. La facturation est établie au maximum une fois par semaine.
+L’OFDF facture périodiquement au prestataire du SET la somme des redevances dues sur la base des trajets saisis par les appareils dudit prestataire. La facturation est établie au maximum une fois par semaine.
 
 ### Section 4 Véhicules à moteur sans appareil de saisie****
 
@@ -720,11 +718,11 @@ L’AFD facture périodiquement au prestataire du SET la somme des redevances du
 
 <sup>1</sup> La redevance devient exigible lors de la sortie de Suisse et doit être payée immédiatement. Un montant de redevance connu à l’avance peut être perçu lors de l’entrée déjà.
 
-<sup>2</sup> L’AFD désigne les moyens de paiement autorisés et les offices douaniers équipés à cet effet. Des cartes de débit, de crédit et de carburant peuvent être acceptées pour le paiement des redevances.[^29-1]
+<sup>2</sup> L’OFDF désigne les moyens de paiement autorisés et les offices douaniers équipés à cet effet. Des cartes de débit, de crédit et de carburant peuvent être acceptées pour le paiement des redevances.[^29-1]
 
 <sup>2bis</sup>
 
-L’AFD peut faire appel à des prestataires de cartes de carburant pour le recouvrement de la redevance si ceux-ci:
+L’OFDF peut faire appel à des prestataires de cartes de carburant pour le recouvrement de la redevance si ceux-ci:
 
 - a. sont établis dans un État membre de l’Espace économique européen ou en Suisse;
 - b prouvent qu’ils satisfont aux critères techniques et opérationnels du DFF, et qu’ils
@@ -732,9 +730,9 @@ L’AFD peut faire appel à des prestataires de cartes de carburant pour le reco
 
 <sup>2ter</sup> Le DFF définit les critères techniques et opérationnels.[^29-3]
 
-<sup>2quater</sup> Les prestataires de cartes de carburant touchent une compensation pour les services rendus à l’AFD s’agissant du recouvrement de la redevance. Le DFF fixe le montant de cette compensation. Il peut prévoir une commission de perception.[^29-4]
+<sup>2quater</sup> Les prestataires de cartes de carburant touchent une compensation pour les services rendus à l’OFDF s’agissant du recouvrement de la redevance. Le DFF fixe le montant de cette compensation. Il peut prévoir une commission de perception.[^29-4]
 
-<sup>3</sup> L’AFD peut, sous réserve de révocation, accorder des facilités ou des délais de paiement. Elle peut lier leur octroi à la fourniture d’une sûreté.
+<sup>3</sup> L’OFDF peut, sous réserve de révocation, accorder des facilités ou des délais de paiement. Il peut lier leur octroi à la fourniture d’une sûreté.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 (RO 2018 1521).
 [^29-2]: Introduit par le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -777,7 +775,7 @@ Les montants jusqu’à 50 francs ne doivent pas être remboursés.
 
 <sup>1</sup> Pour chaque jour au cours duquel il est prouvé qu’un véhicule ne circule qu’à l’étranger, le détenteur a droit au remboursement de <sup>1</sup>/<sub>360</sub> de la redevance annuelle. Chaque jour durant lequel le véhicule circule à l’étranger et en Suisse donne droit à la moitié du remboursement.
 
-<sup>2</sup> Les demandes de remboursement, accompagnées des fiches de contrôle des courses appropriées, doivent être présentées à l’AFD dans un délai d’une année après l’expiration de la période fiscale. L’AFD peut exiger d’autres moyens de preuve.
+<sup>2</sup> Les demandes de remboursement, accompagnées des fiches de contrôle des courses appropriées, doivent être présentées à l’OFDF dans un délai d’une année après l’expiration de la période fiscale. L’OFDF peut exiger d’autres moyens de preuve.
 
 <sup>3</sup> Les montants inférieurs à 50 francs par demande ne sont pas remboursés.
 
@@ -787,7 +785,7 @@ Les montants jusqu’à 50 francs ne doivent pas être remboursés.
 
 <sup>1</sup> Pour chaque jour au cours duquel il est prouvé qu’un véhicule loué pour l’armée ou la protection civile circule dans l’un des buts énoncés à l’art. 3, al. 1, let. a ou a<sup>bis</sup>, le détenteur a droit au remboursement de <sup>1</sup>/360 de la redevance annuelle. Chaque jour durant lequel le véhicule circule aussi bien dans l’un de ces buts qu’en tant que véhicule soumis à la redevance forfaitaire sur le trafic des poids lourds donne droit à la moitié du remboursement.
 
-<sup>2</sup> Les demandes de remboursement, accompagnées des fiches de contrôle des courses correspondantes, des contrats de location, des procès-verbaux de prise en charge et de remise ainsi que de l’indication de l’emploi, doivent être présentées à l’AFD dans le délai d’un an après l’expiration de la période fiscale. L’AFD peut exiger d’autres moyens de preuve.
+<sup>2</sup> Les demandes de remboursement, accompagnées des fiches de contrôle des courses correspondantes, des contrats de location, des procès-verbaux de prise en charge et de remise ainsi que de l’indication de l’emploi, doivent être présentées à l’OFDF dans le délai d’un an après l’expiration de la période fiscale. L’OFDF peut exiger d’autres moyens de preuve.
 
 <sup>3</sup> Les montants inférieurs à 50 francs par demande ne sont pas remboursés.
 
@@ -808,7 +806,7 @@ Pour les véhicules étrangers soumis à la redevance forfaitaire, la redevance 
 - c. un à onze mois consécutifs;
 - d. une année.
 
-<sup>2</sup> Le justificatif de paiement est constitué par une quittance de l’AFD. Sur demande, le conducteur doit la présenter aux organes de contrôle.
+<sup>2</sup> Le justificatif de paiement est constitué par une quittance de l’OFDF. Sur demande, le conducteur doit la présenter aux organes de contrôle.
 
 <sup>3</sup> Les personnes assujetties à la redevance qui ne disposent pas d’un justificatif de paiement valable doivent s’annoncer à un office douanier desservi.
 
@@ -824,7 +822,7 @@ Pour les périodes fiscales inférieures à une année, la redevance est calcul�
 - b. 5 % pour dix jours au choix;
 - c. 9 % par mois pour un à onze mois consécutifs.
 
-<sup>2</sup> Si le justificatif de paiement est restitué à l’AFD avant l’expiration de la période fiscale, un remboursement proportionnel de la redevance est possible.
+<sup>2</sup> Si le justificatif de paiement est restitué à l’OFDF avant l’expiration de la période fiscale, un remboursement proportionnel de la redevance est possible.
 
 <sup>3</sup> Les montants jusqu’à 50 francs ne sont pas remboursés.
 
@@ -861,23 +859,23 @@ Outre le détenteur, sont solidairement responsables de la redevance sur le traf
 
 #### Art. 36a
 
-**Demande à l’AFD**[^36a-1]
+**Demande à l’OFDF**[^36a-1]
 
-- [tab] <sup>1</sup> La personne solidairement responsable au sens de l’art. 36, al. 1<sup>bis</sup>, qui désire remettre un véhicule tracteur ou une remorque (véhicule) à un tiers pour utilisation peut, dans le cadre de la conclusion du contrat, demander à l’AFD si le tiers (partie contractante), ou le détenteur du véhicule s’il ne s’agit pas de la même personne, est insolvable ou a été mis en demeure sans effet.[^36a-2]
+- [tab] <sup>1</sup> La personne solidairement responsable au sens de l’art. 36, al. 1<sup>bis</sup>, qui désire remettre un véhicule tracteur ou une remorque (véhicule) à un tiers pour utilisation peut, dans le cadre de la conclusion du contrat, demander à l’OFDF si le tiers (partie contractante), ou le détenteur du véhicule s’il ne s’agit pas de la même personne, est insolvable ou a été mis en demeure sans effet.[^36a-2]
 - [tab] <sup>2</sup> La demande doit comporter:
 - a. l’identité et l’adresse de la partie contractante ainsi que, le cas échéant, du détenteur;
 - b. les indications relatives au véhicule, et
-- c. une déclaration écrite de la partie contractante et, le cas échéant, du détenteur autorisant l’AFD à donner les renseignements demandés.
-- [tab] <sup>3</sup> Si la partie contractante ou, le cas échéant, le détenteur est insolvable ou a été mis en demeure sans effet, l’AFD, dans sa réponse, attire l’attention du requérant sur le fait que celui-ci, du fait de la conclusion du contrat et pour le véhicule concerné, devient solidairement responsable du paiement des redevances dues à partir de ce moment ainsi que des intérêts et émoluments éventuels.
+- c. une déclaration écrite de la partie contractante et, le cas échéant, du détenteur autorisant l’OFDF à donner les renseignements demandés.
+- [tab] <sup>3</sup> Si la partie contractante ou, le cas échéant, le détenteur est insolvable ou a été mis en demeure sans effet, l’OFDF, dans sa réponse, attire l’attention du requérant sur le fait que celui-ci, du fait de la conclusion du contrat et pour le véhicule concerné, devient solidairement responsable du paiement des redevances dues à partir de ce moment ainsi que des intérêts et émoluments éventuels.
 
 [^36a-1]: Introduit par le ch. I de l’O du 7 mars 2008, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^36a-2]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 
 #### Art. 36b
 
-**Communication ultérieure de l’AFD**[^36b-1]
+**Communication ultérieure de l’OFDF**[^36b-1]
 
-Si l’AFD constate, après la mise en circulation du véhicule visé à l’art. 36*a*, al. 2, let. b, que le détenteur est insolvable ou a été mis en demeure sans effet et qu’elle envisage d’actionner la personne solidairement responsable au sens de l’art. 36, al. 1<sup>bis</sup>, elle informe cette personne par écrit que celle-ci est solidairement responsable du paiement des redevances futures ainsi que des intérêts et émoluments éventuels concernant ce véhicule:
+Si l’OFDF constate, après la mise en circulation du véhicule visé à l’art. 36*a*, al. 2, let. b, que le détenteur est insolvable ou a été mis en demeure sans effet et qu’il envisage d’actionner la personne solidairement responsable au sens de l’art. 36, al. 1<sup>bis</sup>, il informe cette personne par écrit que celle-ci est solidairement responsable du paiement des redevances futures ainsi que des intérêts et émoluments éventuels concernant ce véhicule:
 
 - a. si elle ne résilie pas le contrat dans un délai de 60 jours, ou
 - b. si toutes les redevances dues pour ce véhicule ainsi que les intérêts et émoluments éventuels ne sont pas payés intégralement dans les 60 jours.
@@ -959,7 +957,7 @@ Sont déterminants pour établir la longueur des routes les chiffres les plus r�
 
 <sup>4</sup> Sont déterminants pour établir la population résidente les chiffres du dernier relevé de la population résidente moyenne.[^40-5]
 
-<sup>5</sup> S’agissant de l’imposition par les cantons du trafic automobile, l’indice total des impôts sur les véhicules à moteur est déterminant. L’AFD détermine cet indice chaque année en s’appuyant sur les données de l’Administration fédérale des finances et de l’Office fédéral de la statistique.[^40-6]
+<sup>5</sup> S’agissant de l’imposition par les cantons du trafic automobile, l’indice total des impôts sur les véhicules à moteur est déterminant. L’OFDF détermine cet indice chaque année en s’appuyant sur les données de l’Administration fédérale des finances et de l’Office fédéral de la statistique.[^40-6]
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528)).
 [^40-2]: [RS 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
@@ -984,7 +982,7 @@ Sont déterminants pour établir la longueur des routes les chiffres les plus r�
 
 **Installations de contrôle**[^42-1]
 
-L’AFD peut exploiter des installations de contrôle fixes ou mobiles.
+L’OFDF peut exploiter des installations de contrôle fixes ou mobiles.
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 
@@ -1008,9 +1006,9 @@ Les moins-values et les frais résultant des contrôles ne donnent pas lieu à u
 
 **Généralités**
 
-<sup>1</sup> Les autorités cantonales d’exécution communiquent à l’AFD au fur et à mesure les données nécessaires à la perception de la redevance.
+<sup>1</sup> Les autorités cantonales d’exécution communiquent à l’OFDF au fur et à mesure les données nécessaires à la perception de la redevance.
 
-<sup>2</sup> L’AFD publie les instructions nécessaires à l’exécution.
+<sup>2</sup> L’OFDF publie les instructions nécessaires à l’exécution.
 
 <sup>3</sup> La redevance minimale à percevoir se monte à 5 francs.
 
@@ -1018,7 +1016,7 @@ Les moins-values et les frais résultant des contrôles ne donnent pas lieu à u
 
 <sup>5</sup> Les autorités d’exécution doivent être indemnisées pour le travail qu’elles accomplissent en exécution de la LRPL et de la présente ordonnance. Le DFF règle les dispositions de détail.
 
-<sup>6</sup> Dans la mesure où la LRPL et la présente ordonnance n’en disposent pas autrement, les prescriptions de la législation douanière s’appliquent aux dispositions devant être exécutées par l’AFD.
+<sup>6</sup> Dans la mesure où la LRPL et la présente ordonnance n’en disposent pas autrement, les prescriptions de la législation douanière s’appliquent aux dispositions devant être exécutées par l’OFDF.
 
 [^45-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
@@ -1036,7 +1034,7 @@ Les moins-values et les frais résultant des contrôles ne donnent pas lieu à u
 
 <sup>1</sup>
 
-L’AFD peut conclure des accords avec certaines personnes assujetties à la redevance dans le but de simplifier la fixation de la redevance, notamment au sujet de:
+L’OFDF peut conclure des accords avec certaines personnes assujetties à la redevance dans le but de simplifier la fixation de la redevance, notamment au sujet de:
 
 - a. la procédure de déclaration;
 - b. l’imposition de personnes assujetties à la redevance pour lesquelles plusieurs autorités d’exécution sont compétentes.
@@ -1064,9 +1062,9 @@ Les autorités d’exécution peuvent faire garantir les redevances, les intér�
 
 **Décompte et tenue des contrôles**
 
-<sup>1</sup> L’office central de décompte et de contrôle est l’AFD.
+<sup>1</sup> L’office central de décompte et de contrôle est l’OFDF.
 
-<sup>2</sup> Les cantons effectuent un décompte périodique avec l’AFD, selon les instructions de cette dernière. Un bouclement définitif doit être établi à la fin de l’année comptable.
+<sup>2</sup> Les cantons effectuent un décompte périodique avec l’OFDF, selon les instructions de ce dernier. Un bouclement définitif doit être établi à la fin de l’année comptable.
 
 <sup>3</sup> L’année comptable est l’année civile.
 
@@ -1076,14 +1074,14 @@ Les autorités d’exécution peuvent faire garantir les redevances, les intér�
 
 <sup>1</sup>
 
-Si la redevance pour un véhicule suisse n’est pas payée, si des paiements anticipés ou des fournitures de sûretés sont omis ou si des mesures de garantie ordonnées par les autorités d’exécution ne sont pas mises en œuvre par le détenteur, celui-ci est mis en demeure; si la mise en demeure reste sans effet, l’AFD peut, en plus des mesures visées à l’art. 14*a* LRPL:
+Si la redevance pour un véhicule suisse n’est pas payée, si des paiements anticipés ou des fournitures de sûretés sont omis ou si des mesures de garantie ordonnées par les autorités d’exécution ne sont pas mises en œuvre par le détenteur, celui-ci est mis en demeure; si la mise en demeure reste sans effet, l’OFDF peut, en plus des mesures visées à l’art. 14*a* LRPL:
 
 - a. refuser l’autorisation de poursuivre le voyage avec le véhicule, ou
 - b. séquestrer le véhicule, pour autant que cela soit conforme au principe de la proportionnalité compte tenu des circonstances.
 
 <sup>2</sup>
 
-Si la redevance pour un véhicule étranger n’est pas payée, si des paiements anticipés ou des fournitures de sûretés sont omis ou si des mesures de garantie ordonnées par les autorités d’exécution ne sont pas mises en œuvre par le détenteur, l’AFD peut:
+Si la redevance pour un véhicule étranger n’est pas payée, si des paiements anticipés ou des fournitures de sûretés sont omis ou si des mesures de garantie ordonnées par les autorités d’exécution ne sont pas mises en œuvre par le détenteur, l’OFDF peut:
 
 - a. refuser l’autorisation de poursuivre le voyage avec le véhicule, ou
 - b. séquestrer le véhicule, pour autant que cela soit conforme au principe de la proportionnalité compte tenu des circonstances.
@@ -1094,7 +1092,7 @@ Si la redevance pour un véhicule étranger n’est pas payée, si des paiements
 
 **Refus et retrait du permis de circulation et des plaques de contrôle**[^50a-1]
 
-<sup>1</sup> Dans les cas visés à l’art. 14*a* LRPL, l’AFD peut ordonner à l’autorité cantonale d’exécution de refuser ou de retirer le permis de circulation et les plaques de contrôle.
+<sup>1</sup> Dans les cas visés à l’art. 14*a* LRPL, l’OFDF peut ordonner à l’autorité cantonale d’exécution de refuser ou de retirer le permis de circulation et les plaques de contrôle.
 
 <sup>2</sup> Après un retrait du permis de circulation et des plaques de contrôle, les plaques interchangeables peuvent continuer à être utilisées pour les véhicules non concernés.
 
@@ -1122,7 +1120,7 @@ La révision de décisions et de décisions sur recours s’opère conformément
 <sup>2</sup> Le traitement des demandes de remise est de la compétence
 
 - a. des autorités cantonales d’exécution pour les véhicules qu’elles ont imposés;
-- b.[^52-1] de l’AFD pour les véhicules suisses et étrangers qu’elle a taxés;
+- b.[^52-1] de l’OFDF pour les véhicules suisses et étrangers qu’il a taxés;
 - c.[^52-2] ...
 
 <sup>3</sup> Seuls les montants de redevance entrés en force peuvent faire l’objet d’une remise.
@@ -1138,9 +1136,9 @@ La révision de décisions et de décisions sur recours s’opère conformément
 
 **Collecte des données**
 
-<sup>1</sup> L’AFD collecte les données d’identité et les adresses des personnes assujetties ainsi que leurs relations financières.
+<sup>1</sup> L’OFDF collecte les données d’identité et les adresses des personnes assujetties ainsi que leurs relations financières.
 
-<sup>2</sup> Ces données transmises par les autorités cantonales d’exécution et par les bureaux de douane sont traitées de manière centralisée par l’AFD.
+<sup>2</sup> Ces données transmises par les autorités cantonales d’exécution et par les bureaux de douane sont traitées de manière centralisée par l’OFDF.
 
 #### Art. 54
 
@@ -1204,7 +1202,7 @@ Les véhicules suisses et étrangers soumis à la redevance sur le trafic des po
 
 **Utilisation de l’appareil de saisie**[^61-1]
 
-Les appareils de saisie remis gratuitement par l’AFD ne peuvent être ni offerts, ni vendus, ni loués, ni prêtés. Les infractions font l’objet d’une amende de 5000 francs au plus.
+Les appareils de saisie remis gratuitement par l’OFDF ne peuvent être ni offerts, ni vendus, ni loués, ni prêtés. Les infractions font l’objet d’une amende de 5000 francs au plus.
 
 [^61-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 

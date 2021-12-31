@@ -4,11 +4,11 @@ title: "Ordinanza del 6 marzo 2000 concernente una tassa sul traffico pesante co
 short: OTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: it
-version: 2021-10-22
+version: 2022-01-01
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20211022/it/xml/fedlex-data-admin-ch-eli-cc-2000-192-20211022-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2000-192-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20211022/it"
 
 (Ordinanza sul traffico pesante, OTTP)
 
-del 6 marzo 2000 (Stato 22 ottobre 2021)
+del 6 marzo 2000 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -93,7 +93,7 @@ Sono esentati dall’obbligo della tassa:[^3-1]
 - l. i veicoli cingolati (art. 28 OETV);
 - m. gli assi di trasporto.
 
-<sup>2</sup> L’Amministrazione federale delle dogane (AFD)[^3-13] può autorizzare altre deroghe in casi giustificati, segnatamente in considerazione di convenzioni internazionali, per motivi umanitari o per corse non commerciali d’utilità pubblica.
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^3-13] può autorizzare altre deroghe in casi giustificati, segnatamente in considerazione di convenzioni internazionali, per motivi umanitari o per corse non commerciali d’utilità pubblica.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
@@ -107,7 +107,7 @@ Sono esentati dall’obbligo della tassa:[^3-1]
 [^3-10]: Nuovo testo giusta il n. I dell’O del 28 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5011](https://fedlex.data.admin.ch/eli/oc/2007/702)).
 [^3-11]: [RS 741.522](https://fedlex.data.admin.ch/eli/cc/2007/704)
 [^3-12]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^3-13]: Nuova espr. giusta il n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-13]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -145,7 +145,7 @@ Sui veicoli immatricolati provvisoriamente, destinati all’esportazione, è ris
 - a. 20 franchi per un giorno e 50 franchi per tre giorni nel caso di veicoli di cui ai capoversi 1 e 2;
 - b. 70 franchi per un giorno e 200 franchi per tre giorni nel caso di altri veicoli.
 
-<sup>4</sup> In singoli casi l’AFD può prevedere la riscossione di una tassa forfettaria per altri veicoli.
+<sup>4</sup> In singoli casi l’UDSC può prevedere la riscossione di una tassa forfettaria per altri veicoli.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
@@ -162,7 +162,7 @@ Sui veicoli immatricolati provvisoriamente, destinati all’esportazione, è ris
 
 - a.
 
-  l’AFD per:
+  l’UDSC per:
 
   - 1\. i veicoli della Confederazione,
   - 2\. i veicoli svizzeri soggetti alla tassa commisurata alle prestazioni, nella misura in cui l’esecuzione concerne la determinazione e la riscossione della tassa,
@@ -180,7 +180,7 @@ Sui veicoli immatricolati provvisoriamente, destinati all’esportazione, è ris
 
 **Passaggio del confine**
 
-I veicoli assoggettati alla tassa devono varcare il confine presso i posti di confine designati dall’AFD.
+I veicoli assoggettati alla tassa devono varcare il confine presso i posti di confine designati dall’UDSC.
 
 ## Capitolo 2: Ordinamenti speciali
 
@@ -190,9 +190,9 @@ I veicoli assoggettati alla tassa devono varcare il confine presso i posti di co
 
 <sup>1</sup> Nel caso di veicoli utilizzati nel traffico di linea (art. 3 cpv. 1 lett. c), per i chilometri percorsi fuori da tale traffico la tassa è riscossa forfettariamente. Essa è calcolata proporzionalmente ai chilometri percorsi fuori dal traffico di linea rispetto al chilometraggio totale.
 
-<sup>2</sup> Nel primo trimestre dell’anno che segue il periodo di tassazione, i detentori dei veicoli utilizzati nel traffico di linea devono presentare all’AFD una dichiarazione concernente l’impiego dei veicoli in sevizio, precisando il chilometraggio percorso.
+<sup>2</sup> Nel primo trimestre dell’anno che segue il periodo di tassazione, i detentori dei veicoli utilizzati nel traffico di linea devono presentare all’UDSC una dichiarazione concernente l’impiego dei veicoli in sevizio, precisando il chilometraggio percorso.
 
-<sup>3</sup> Se la dichiarazione è omessa, l’AFD riscuote la totalità della tassa per l’intero periodo.
+<sup>3</sup> Se la dichiarazione è omessa, l’UDSC riscuote la totalità della tassa per l’intero periodo.
 
 ### Sezione 2: Corse effettuate nel traffico combinato non accompagnato
 
@@ -200,7 +200,7 @@ I veicoli assoggettati alla tassa devono varcare il confine presso i posti di co
 
 **Veicoli utilizzati nel traffico combinato non accompagnato**
 
-<sup>1</sup> Su richiesta da presentare l’AFD, i detentori di veicoli assoggettati alla tassa e utilizzati per effettuare corse nel traffico combinato non accompagnato (TCNA) fruiscono di una restituzione per i percorsi iniziali e finali eseguiti nel TCNA.
+<sup>1</sup> Su richiesta da presentare all’UDSC, i detentori di veicoli assoggettati alla tassa e utilizzati per effettuare corse nel traffico combinato non accompagnato (TCNA) fruiscono di una restituzione per i percorsi iniziali e finali eseguiti nel TCNA.
 
 <sup>2</sup> Per ogni unità di carico o semirimorchio trasbordato dalla strada alla ferrovia o alla nave oppure dalla ferrovia o dalla nave alla strada, è restituito l’importo seguente:
 
@@ -211,7 +211,7 @@ I veicoli assoggettati alla tassa devono varcare il confine presso i posti di co
 <tr><td>c. per le unità di carico o i semirimorchi di lunghezza superiore a 6,1 m</td><td>33[^8-1]</td></tr>
 </table>
 
-<sup>3</sup> La domanda di restituzione dev’essere presentata all’AFD unitamente alla dichiarazione secondo l’articolo 22.
+<sup>3</sup> La domanda di restituzione dev’essere presentata all’UDSC unitamente alla dichiarazione secondo l’articolo 22.
 
 <sup>4</sup> Per ogni periodo fiscale l’importo della restituzione non può superare la tassa totale computata per i veicoli del richiedente impiegati nel TCNA.[^8-2]
 
@@ -251,7 +251,7 @@ In relazione alle corse iniziali e finali nel TCNA, il Dipartimento federale del
 
 <sup>1</sup> Per i veicoli con i quali viene trasportato esclusivamente legname greggio la tassa ammonta al 75 per cento delle aliquote di cui agli articoli 4 capoversi 1 lettera f e 2 lettere a e b e 14 capoverso 1.[^11-1]
 
-<sup>2</sup> Per i veicoli che non trasportano esclusivamente legname greggio l’AFD concede, su richiesta, una restituzione di franchi 2,10 per m<sup>3</sup> di legname greggio trasportato. L’importo della restituzione può ammontare al massimo al 25 per cento dell’importo complessivo della tassa riscossa per veicolo e periodo.
+<sup>2</sup> Per i veicoli che non trasportano esclusivamente legname greggio l’UDSC concede, su richiesta, una restituzione di franchi 2,10 per m<sup>3</sup> di legname greggio trasportato. L’importo della restituzione può ammontare al massimo al 25 per cento dell’importo complessivo della tassa riscossa per veicolo e periodo.
 
 <sup>3</sup> Per legname greggio si intendono segnatamente tronchi, legname industriale, legname per la produzione di energia e cascami di legno. Il DFF definisce più precisamente queste espressioni.
 
@@ -284,14 +284,12 @@ Per i seguenti veicoli la tassa ammonta al 75 per cento delle aliquote di cui al
 
 L’agevolazione di cui all’articolo 11 capoverso 1 o all’articolo 12 viene concessa soltanto se il detentore:
 
-- a. chiede tale agevolazione presso l’AFD[^12a-1] all’atto di ogni messa in circolazione del veicolo; e
+- a. chiede tale agevolazione presso l’UDSC all’atto di ogni messa in circolazione del veicolo; e
 - b. si impegna a utilizzare il veicolo esclusivamente per gli scopi menzionati nell’articolo 11 capoverso 1 o nell’articolo 12.
 
-<sup>2</sup> Il detentore deve conservare per cinque anni tutti i documenti e giustificativi rilevanti per l’agevolazione. Deve comprovare all’AFD, su richiesta della stessa, il rispetto dell’impegno di cui al capoverso 1 lettera b.
+<sup>2</sup> Il detentore deve conservare per cinque anni tutti i documenti e giustificativi rilevanti per l’agevolazione. Deve comprovare all’UDSC, su richiesta dello stesso, il rispetto dell’impegno di cui al capoverso 1 lettera b.
 
-<sup>3</sup> Se constata che il veicolo non è stato utilizzato debitamente, l’AFD revoca l’agevolazione.
-
-[^12a-1]: Nuova espr. giusta il n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)). Di detta mod. é tenuto conto in tutto il presente testo.
+<sup>3</sup> Se constata che il veicolo non è stato utilizzato debitamente, l’UDSC revoca l’agevolazione.
 
 ## Capitolo 3: Peso determinante e tariffa****
 
@@ -311,7 +309,7 @@ L’agevolazione di cui all’articolo 11 capoverso 1 o all’articolo 12 viene 
 
 <sup>4</sup> Per le altre combinazioni di due veicoli assoggettati alla tassa, si addizioneranno il peso totale del veicolo trattore e il peso totale del rimorchio.
 
-<sup>5</sup> Nel caso di veicoli con carrozzeria intercambiabile o di genere modificabile, la tassa è calcolata secondo il peso totale più elevato che può essere preso in considerazione. In casi particolari l’AFD può fissare un altro peso determinante.
+<sup>5</sup> Nel caso di veicoli con carrozzeria intercambiabile o di genere modificabile, la tassa è calcolata secondo il peso totale più elevato che può essere preso in considerazione. In casi particolari l’UDSC può fissare un altro peso determinante.
 
 <sup>6</sup> Se l’autoveicolo è esentato dall’obbligo di montare un apparecchio di rilevazione giusta l’articolo 15 capoverso 5, farà stato il peso massimo autorizzato del convoglio.
 
@@ -380,7 +378,7 @@ Per i veicoli assoggettati, la tassa per chilometro percorso e per tonnellata de
 
 **Equipaggiamento**
 
-<sup>1</sup> La tassa è determinata con un apparecchio di misurazione elettronico riconosciuto dall’AFD. Esso è costituito da un tachigrafo o da un registratore di impulsi per il calcolo della distanza percorsa montato sul veicolo e da un apparecchio di rilevazione che conteggia e registra il chilometraggio determinante.[^15-1]
+<sup>1</sup> La tassa è determinata con un apparecchio di misurazione elettronico riconosciuto dall’UDSC. Esso è costituito da un tachigrafo o da un registratore di impulsi per il calcolo della distanza percorsa montato sul veicolo e da un apparecchio di rilevazione che conteggia e registra il chilometraggio determinante.[^15-1]
 
 <sup>2</sup> Gli errori massimi tollerati per il tachigrafo sono definiti dalle disposizioni concernenti l’installazione di tachigrafi (art. 100 cpv. 2–4 OETV[^15-2]).[^15-3]
 
@@ -393,7 +391,7 @@ Il detentore deve equipaggiare a sue spese i veicoli a motore qui appresso immat
 
 <sup>4</sup> I veicoli assoggettati alla tassa forfettaria sono esonerati dall’obbligo di montare l’apparecchio di rilevazione.
 
-<sup>5</sup> L’Amministrazione federale delle dogane può esonerare altri veicoli dall’obbligo di montare l’apparecchio di rilevazione.
+<sup>5</sup> L’UDSC può esonerare altri veicoli dall’obbligo di montare l’apparecchio di rilevazione.
 
 <sup>6</sup> e <sup>7</sup> …[^15-4]
 
@@ -406,13 +404,13 @@ Il detentore deve equipaggiare a sue spese i veicoli a motore qui appresso immat
 
 **Consegna gratuita dell’apparecchio di rilevazione**[^15a-1]
 
-<sup>1</sup> Per il primo equipaggiamento, l’AFD consegna in prestito ai detentori un apparecchio di rilevazione per ogni autoveicolo assoggettato all’obbligo del montaggio. L’AFD si assume i costi per la sostituzione degli apparecchi di rilevazione difettosi.[^15a-2]
+<sup>1</sup> Per il primo equipaggiamento, l’UDSC consegna in prestito ai detentori un apparecchio di rilevazione per ogni autoveicolo assoggettato all’obbligo del montaggio. L’UDSC si assume i costi per la sostituzione degli apparecchi di rilevazione difettosi.[^15a-2]
 
-<sup>2</sup> Gli apparecchi di rilevazione non più necessari devono essere restituiti all’AFD o a un ufficio da essa designato. L’AFD fattura al detentore gli apparecchi di rilevazione non restituiti o danneggiati.[^15a-3]
+<sup>2</sup> Gli apparecchi di rilevazione non più necessari devono essere restituiti all’UDSC o a un ufficio da esso designato. L’UDSC fattura al detentore gli apparecchi di rilevazione non restituiti o danneggiati.[^15a-3]
 
 <sup>3</sup> Le spese per il montaggio dell’apparecchio di rilevazione sono a carico del detentore.
 
-<sup>4</sup> In caso di sostituzione di apparecchi di rilevazione difettosi o non riparabili l’AFD può partecipare alle spese d’officina insorte.
+<sup>4</sup> In caso di sostituzione di apparecchi di rilevazione difettosi o non riparabili l’UDSC può partecipare alle spese d’officina insorte.
 
 [^15a-1]: Introdotto dal n. I dell’O del 15 set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 [^15a-2]: Nuovo testo giusta il n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -424,9 +422,9 @@ Il detentore deve equipaggiare a sue spese i veicoli a motore qui appresso immat
 
 <sup>1</sup> L’apparecchio di rilevazione dev’essere montato prima della messa in circolazione del veicolo. La responsabilità del montaggio, della verifica e della messa in funzione dell’apparecchio incombe al detentore.
 
-<sup>2</sup> Il montaggio e la messa in funzione dell’apparecchio di rilevazione devono essere effettuati da officine di montaggio autorizzate dall’AFD. Le officine di montaggio effettuano la verifica circa la conformità dell’intero apparecchio di misurazione all’atto della messa in funzione e delle verifiche ulteriori e rilasciano, contro versamento di una tassa, l’attestazione di conformità richiesta.[^16-1]
+<sup>2</sup> Il montaggio e la messa in funzione dell’apparecchio di rilevazione devono essere effettuati da officine di montaggio autorizzate dall’UDSC. Le officine di montaggio effettuano la verifica circa la conformità dell’intero apparecchio di misurazione all’atto della messa in funzione e delle verifiche ulteriori e rilasciano, contro versamento di una tassa, l’attestazione di conformità richiesta.[^16-1]
 
-<sup>3</sup> Il detentore del veicolo deve inizializzare o far inizializzare l’apparecchio di rilevazione con una carta chip rilasciata dall’AFD.
+<sup>3</sup> Il detentore del veicolo deve inizializzare o far inizializzare l’apparecchio di rilevazione con una carta chip rilasciata dall’UDSC.
 
 <sup>4</sup> …[^16-2]
 
@@ -438,8 +436,8 @@ Il DFF disciplina:
 
 - a. i particolari per quanto concerne il montaggio, la messa in funzione, la riparazione, la sostituzione e la rimozione temporanea di apparecchi di rilevazione;
 - b. i requisiti e il controllo delle officine di montaggio che montano, verificano, riparano e rimuovono temporaneamente apparecchi di rilevazione;
-- c. la procedura di autorizzazione per il riconoscimento delle officine di montaggio da parte dell’AFD;
-- d. la procedura di autorizzazione per il riconoscimento da parte dell’AFD dei servizi per la consegna di sigilli.[^16-3]
+- c. la procedura di autorizzazione per il riconoscimento delle officine di montaggio da parte dell’UDSC;
+- d. la procedura di autorizzazione per il riconoscimento da parte dell’UDSC dei servizi per la consegna di sigilli.[^16-3]
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^16-2]: Abrogato dal n. I dell’O del 9 mar. 2018, con effetto dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -449,9 +447,9 @@ Il DFF disciplina:
 
 **Rimorchi**
 
-<sup>1</sup> Se l’autoveicolo traina un rimorchio, il conducente deve immettere nell’apparecchio di rilevazione tutti i dati necessari per la tassazione. L’AFD stabilisce i dati necessari.[^17-1]
+<sup>1</sup> Se l’autoveicolo traina un rimorchio, il conducente deve immettere nell’apparecchio di rilevazione tutti i dati necessari per la tassazione. L’UDSC stabilisce i dati necessari.[^17-1]
 
-<sup>2</sup> Per ogni rimorchio d’un peso totale eccedente le 3,5 t l’AFD fornisce una carta chip contenente tutti i dati necessari alla rilevazione. Nel caso di rimorchi agricoli nonché di rimorchi d’un peso totale sino a 3,5 t, la carta chip è rilasciata solo in casi particolari o a richiesta del detentore.
+<sup>2</sup> Per ogni rimorchio d’un peso totale eccedente le 3,5 t l’UDSC fornisce una carta chip contenente tutti i dati necessari alla rilevazione. Nel caso di rimorchi agricoli nonché di rimorchi d’un peso totale sino a 3,5 t, la carta chip è rilasciata solo in casi particolari o a richiesta del detentore.
 
 <sup>3</sup> Per i rimorchi trainati, la dichiarazione e il pagamento della tassa incombono al detentore del veicolo trattore.
 
@@ -467,9 +465,9 @@ Il DFF disciplina:
 
 <sup>3</sup> Se si sospetta una disfunzione dell’apparecchio bisogna farlo verificare da un’officina di montaggio.[^18-2]
 
-<sup>4</sup> Se l’apparecchio di misurazione difettoso non viene riparato entro il termine fissato dall’AFD, l’autorità d’esecuzione cantonale revoca la licenza di circolazione e le targhe di controllo del rispettivo veicolo. Le targhe intercambiabili possono essere utilizzate ulteriormente per i veicoli non toccati dal provvedimento.
+<sup>4</sup> Se l’apparecchio di misurazione difettoso non viene riparato entro il termine fissato dall’UDSC, l’autorità d’esecuzione cantonale revoca la licenza di circolazione e le targhe di controllo del rispettivo veicolo. Le targhe intercambiabili possono essere utilizzate ulteriormente per i veicoli non toccati dal provvedimento.
 
-<sup>5</sup> L’AFD declina ogni responsabilità per le conseguenze di disturbi tecnici dei mezzi ausiliari elettronici.
+<sup>5</sup> L’UDSC declina ogni responsabilità per le conseguenze di disturbi tecnici dei mezzi ausiliari elettronici.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^18-2]: Nuovo testo giusta il n. I dell’O del 7 mar. 2008, in vigore dal 1° apr. 2008 ([RU 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
@@ -478,7 +476,7 @@ Il DFF disciplina:
 
 **Modulo di registrazione invece dell’apparecchio di rilevazione**
 
-<sup>1</sup> Oltre all’apparecchio di rilevazione, il conducente deve sempre avere con sé un modulo di registrazione da utilizzare in caso di guasto, disfunzione dell’apparecchio o se quest’ultimo emette messaggi d’errore. Il modulo è messo a disposizione dall’AFD.[^19-1]
+<sup>1</sup> Oltre all’apparecchio di rilevazione, il conducente deve sempre avere con sé un modulo di registrazione da utilizzare in caso di guasto, disfunzione dell’apparecchio o se quest’ultimo emette messaggi d’errore. Il modulo è messo a disposizione dall’UDSC.[^19-1]
 
 <sup>2</sup> Se l’autoveicolo traina un rimorchio, il modulo deve menzionare il peso totale di quest’ultimo.
 
@@ -490,7 +488,7 @@ Il DFF disciplina:
 
 **Libretto di bordo**
 
-<sup>1</sup> Il libretto di bordo è utilizzato per i veicoli a motore che l’AFD ha esonerato dall’obbligo di montare un apparecchio di rilevazione. Esso è fornito dalle autorità esecutive.
+<sup>1</sup> Il libretto di bordo è utilizzato per i veicoli a motore che l’UDSC ha esonerato dall’obbligo di montare un apparecchio di rilevazione. Esso è fornito dalle autorità esecutive.
 
 <sup>2</sup> Il detentore provvede affinché il conducente del veicolo effettui le annotazioni prescritte.
 
@@ -507,7 +505,7 @@ Il conducente del veicolo deve collaborare alla corretta rilevazione della prest
 
 **Dichiarazione**
 
-<sup>1</sup> La persona assoggettata al pagamento della tassa deve dichiarare all’AFD, entro 20 giorni dalla scadenza del periodo di tassazione, i dati necessari al calcolo della tassa.
+<sup>1</sup> La persona assoggettata al pagamento della tassa deve dichiarare all’UDSC, entro 20 giorni dalla scadenza del periodo di tassazione, i dati necessari al calcolo della tassa.
 
 <sup>1bis</sup> Se il calcolo della tassa deve avvenire sulla base del peso inferiore conformemente all’articolo 13 capoverso 7, la persona assoggetta al pagamento della tassa deve presentare una domanda per ogni periodo di tassazione. Tale domanda deve essere presentata entro 20 giorni dalla scadenza del periodo di tassazione in questione. Se entro questo termine non viene presentata alcuna domanda, la tassa è calcolata sulla base del peso determinante secondo l’articolo 13 capoversi 1–6.[^22-1]
 
@@ -527,9 +525,9 @@ Il conducente del veicolo deve collaborare alla corretta rilevazione della prest
 
 <sup>1</sup> La tassa viene determinata in base alla dichiarazione trasmessa elettronicamente dalla persona assoggettata al pagamento della tassa o alla sua dichiarazione scritta.
 
-<sup>2</sup> L’AFD può esigere ulteriori mezzi probatori.
+<sup>2</sup> L’UDSC può esigere ulteriori mezzi probatori.
 
-<sup>3</sup> Se la dichiarazione viene omessa, se è lacunosa o contraddittoria oppure se l’AFD effettua accertamenti in contraddizione con la dichiarazione, essa procede alla tassazione d’ufficio.
+<sup>3</sup> Se la dichiarazione viene omessa, se è lacunosa o contraddittoria oppure se l’UDSC effettua accertamenti in contraddizione con la dichiarazione, essa procede alla tassazione d’ufficio.
 
 #### Art. 24
 
@@ -551,7 +549,7 @@ Il conducente del veicolo deve collaborare alla corretta rilevazione della prest
 
 **Riscossione della tassa**[^25-1]
 
-<sup>1</sup> L’AFD invia una decisione d’imposizione in forma cartacea o elettronica alla persona assoggettata al pagamento della tassa.
+<sup>1</sup> L’UDSC invia una decisione d’imposizione in forma cartacea o elettronica alla persona assoggettata al pagamento della tassa.
 
 <sup>2</sup> La tassa è esigibile 60 giorni dopo la scadenza del periodo di tassazione.
 
@@ -584,11 +582,11 @@ Esso stabilisce inoltre:
 
 Le persone assoggettate al pagamento della tassa per veicoli immatricolati all’estero (autoveicoli esteri) possono rilevare i dati necessari alla riscossione della tassa come segue:
 
-- a. con un apparecchio di rilevazione autorizzato dall’AFD;
+- a. con un apparecchio di rilevazione autorizzato dall’UDSC;
 - b. con un apparecchio di rilevazione interoperabile di un servizio europeo per la riscossione elettronica dei pedaggi stradali (*European Electronic Toll Service*; fornitore del SET); o
 - c. senza apparecchio di rilevazione.
 
-### Sezione 2: Autoveicoli con apparecchio di rilevazione autorizzato dall’AFD****
+### Sezione 2: Autoveicoli con apparecchio di rilevazione autorizzato dall’UDSC****
 
 [^chap4a-sec2-1]
 
@@ -598,7 +596,7 @@ Le persone assoggettate al pagamento della tassa per veicoli immatricolati all�
 
 [^26-1]
 
-<sup>1</sup> Il conducente del veicolo deve inizializzare o far inizializzare l’apparecchio di rilevazione autorizzato dall’AFD con una carta chip rilasciata dall’AFD subito dopo il ricevimento della stessa, ma al più tardi prima della successiva entrata in Svizzera. Su richiesta, l’AFD può rilasciare una carta chip per il rimorchio.
+<sup>1</sup> Il conducente del veicolo deve inizializzare o far inizializzare l’apparecchio di rilevazione autorizzato dall’UDSC con una carta chip rilasciata dall’UDSC subito dopo il ricevimento della stessa, ma al più tardi prima della successiva entrata in Svizzera. Su richiesta, l’UDSC può rilasciare una carta chip per il rimorchio.
 
 <sup>2</sup> Del rimanente sono applicabili gli articoli 15–19, 21, 22 capoversi 1<sup>bis</sup> e 2, 23 capoverso 3 e 25 capoverso 1.
 
@@ -620,12 +618,12 @@ Le persone assoggettate al pagamento della tassa per veicoli immatricolati all�
 
 È possibile incaricare un fornitore del SET del rilevamento dei dati necessari alla riscossione della tassa nonché del pagamento della tassa se:
 
-- a. il fornitore del SET è autorizzato dall’AFD a fornire il servizio in Svizzera; e
+- a. il fornitore del SET è autorizzato dall’UDSC a fornire il servizio in Svizzera; e
 - b. la persona assoggettata al pagamento della tassa ha montato sull’autoveicolo un apparecchio di rilevazione del fornitore del SET autorizzato.
 
 <sup>2</sup> All’entrata in Svizzera, il conducente deve comprovare che il fornitore del SET è incaricato del rilevamento della prestazione chilometrica e del versamento della tassa.
 
-<sup>3</sup> Il credito fiscale si estingue con il pagamento della tassa all’AFD.
+<sup>3</sup> Il credito fiscale si estingue con il pagamento della tassa all’UDSC.
 
 #### Art. 26b
 
@@ -633,7 +631,7 @@ Le persone assoggettate al pagamento della tassa per veicoli immatricolati all�
 
 <sup>1</sup>
 
-L’AFD rilascia l’autorizzazione a un fornitore del SET se quest’ultimo:
+L’UDSC rilascia l’autorizzazione a un fornitore del SET se quest’ultimo:
 
 - a. ha sede in uno Stato membro dello Spazio economico europeo o in Svizzera;
 - b. fornisce la prova che soddisfa le prescrizioni tecniche e operative del DFF;
@@ -642,7 +640,7 @@ L’AFD rilascia l’autorizzazione a un fornitore del SET se quest’ultimo:
 
 <sup>2</sup> Il DFF fissa le prescrizioni tecniche e operative.
 
-<sup>3</sup> L’AFD può sospendere o revocare l’autorizzazione se il fornitore del SET non soddisfa più interamente le condizioni per il suo rilascio.
+<sup>3</sup> L’UDSC può sospendere o revocare l’autorizzazione se il fornitore del SET non soddisfa più interamente le condizioni per il suo rilascio.
 
 #### Art. 26c
 
@@ -655,12 +653,12 @@ I fornitori del SET devono:
 - a. registrare le persone assoggettate al pagamento della tassa e gli autoveicoli per i quali esse devono pagare la tassa;
 - b. consegnare alla persona assoggettata al pagamento della tassa un apparecchio di rilevazione;
 - c. rilevare la prestazione chilometrica degli autoveicoli per i quali la tassa è dovuta;
-- d. trasmettere all’AFD i dati necessari alla riscossione della tassa;
-- e. versare la tassa all’AFD entro il termine di pagamento.
+- d. trasmettere all’UDSC i dati necessari alla riscossione della tassa;
+- e. versare la tassa all’UDSC entro il termine di pagamento.
 
 <sup>2</sup> L’autorizzazione può essere vincolata ad altre condizioni.
 
-<sup>3</sup> I fornitori del SET ricevono un compenso per le proprie prestazioni di rilevamento e trasmissione dei dati, nonché di riscossione della tassa fornite all’AFD. Il DFF ne stabilisce l’entità. Esso può prevedere una provvigione di riscossione.
+<sup>3</sup> I fornitori del SET ricevono un compenso per le proprie prestazioni di rilevamento e trasmissione dei dati, nonché di riscossione della tassa fornite all’UDSC. Il DFF ne stabilisce l’entità. Esso può prevedere una provvigione di riscossione.
 
 #### Art. 26d
 
@@ -678,17 +676,17 @@ I fornitori del SET devono:
 
 **Imposizione della tassa**
 
-<sup>1</sup> Il fornitore del SET trasmette all’AFD i dati necessari alla riscossione della tassa.
+<sup>1</sup> Il fornitore del SET trasmette all’UDSC i dati necessari alla riscossione della tassa.
 
 <sup>2</sup> L’articolo 23 è applicabile per analogia.
 
-<sup>3</sup> L’AFD notifica, in forma cartacea o elettronica, la decisione d’imposizione alla persona assoggettata al pagamento della tassa. Il fornitore del SET è autorizzato a ricevere le notificazioni.
+<sup>3</sup> L’UDSC notifica, in forma cartacea o elettronica, la decisione d’imposizione alla persona assoggettata al pagamento della tassa. Il fornitore del SET è autorizzato a ricevere le notificazioni.
 
 #### Art. 26f
 
 **Fatturazione**
 
-L’AFD fattura al fornitore del SET la somma di tutte le tasse dovute per le corse rilevate con i suoi apparecchi. La fatturazione avviene al massimo una volta a settimana.
+L’UDSC fattura al fornitore del SET la somma di tutte le tasse dovute per le corse rilevate con i suoi apparecchi. La fatturazione avviene al massimo una volta a settimana.
 
 ### Sezione 4: Autoveicoli senza apparecchio di rilevazione****
 
@@ -725,11 +723,11 @@ L’AFD fattura al fornitore del SET la somma di tutte le tasse dovute per le co
 
 <sup>1</sup> La tassa diventa esigibile all’uscita dalla Svizzera e dev’essere pagata immediatamente. Un importo della tassa noto a priori può essere riscosso già all’atto dell’entrata.
 
-<sup>2</sup> L’AFD designa i mezzi di pagamento autorizzati e gli uffici doganali equipaggiati a questo scopo. Per il pagamento della tassa possono essere accettate carte di credito, di addebito e carte-carburante.[^29-1]
+<sup>2</sup> L’UDSC designa i mezzi di pagamento autorizzati e gli uffici doganali equipaggiati a questo scopo. Per il pagamento della tassa possono essere accettate carte di credito, di addebito e carte-carburante.[^29-1]
 
 <sup>2bis</sup>
 
-L’AFD può far capo a fornitori di carte-carburante per la riscossione della tassa se questi:
+L’UDSC può far capo a fornitori di carte-carburante per la riscossione della tassa se questi:
 
 - a. hanno sede in uno Stato membro dello Spazio economico europeo o in Svizzera;
 - b. forniscono la prova che soddisfano le prescrizioni tecniche e operative del DFF; e
@@ -737,9 +735,9 @@ L’AFD può far capo a fornitori di carte-carburante per la riscossione della t
 
 <sup>2ter</sup> Il DFF fissa le prescrizioni tecniche e operative.[^29-3]
 
-<sup>2quater</sup> I fornitori di carte-carburante ricevono un compenso per le proprie prestazioni di riscossione della tassa fornite all’AFD. Il DFF ne stabilisce l’entità. Esso può prevedere una provvigione di riscossione.[^29-4]
+<sup>2quater</sup> I fornitori di carte-carburante ricevono un compenso per le proprie prestazioni di riscossione della tassa fornite all’UDSC. Il DFF ne stabilisce l’entità. Esso può prevedere una provvigione di riscossione.[^29-4]
 
-<sup>3</sup> Con riserva di revoca, l’AFD può accordare agevolazioni di pagamento o altri termini di pagamento. Essa può vincolare la concessione delle suddette agevolazioni alla prestazione d’una garanzia.
+<sup>3</sup> Con riserva di revoca, l’UDSC può accordare agevolazioni di pagamento o altri termini di pagamento. Esso può vincolare la concessione delle suddette agevolazioni alla prestazione d’una garanzia.
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 [^29-2]: Introdotto dal n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
@@ -782,7 +780,7 @@ Gli importi sino a 50 franchi non devono essere restituiti.
 
 <sup>1</sup> Per ogni giorno per il quale è comprovato che il veicolo circola esclusivamente all’estero, il detentore ha diritto alla restituzione di <sup>1</sup>/<sub>360</sub> della tassa annua. Per i giorni in cui il veicolo circola all’estero e in Svizzera, la restituzione è della metà.
 
-<sup>2</sup> Le domande di restituzione, corredate degli appositi fogli di controllo delle corse, devono essere presentate all’AFD entro un anno dalla scadenza del periodo di tassazione. L’AFD può esigere altri mezzi probatori.
+<sup>2</sup> Le domande di restituzione, corredate degli appositi fogli di controllo delle corse, devono essere presentate all’UDSC entro un anno dalla scadenza del periodo di tassazione. L’UDSC può esigere altri mezzi probatori.
 
 <sup>3</sup> Gli importi inferiori a 50 franchi per domanda non sono restituiti.
 
@@ -792,7 +790,7 @@ Gli importi sino a 50 franchi non devono essere restituiti.
 
 <sup>1</sup> Per ogni giorno per il quale è comprovato che un veicolo noleggiato per l’Esercito o la protezione civile circola per uno scopo di cui all’articolo 3 capoverso 1 lettera a o a<sup>bis</sup>, il detentore ha diritto alla restituzione di <sup>1</sup>/<sub>360</sub> della tassa annua. Per i giorni in cui il veicolo circola sia per un tale scopo sia quale veicolo assoggettato alla tassa forfettaria, la restituzione è pari alla metà dell’importo.
 
-<sup>2</sup> Le domande di restituzione, corredate dei relativi fogli di controllo delle corse, contratti di noleggio, verbali di presa in consegna e di consegna nonché dell’indicazione dello scopo d’impiego, devono essere presentate all’AFD entro un anno dalla scadenza del periodo di tassazione. L’AFD può esigere altri mezzi probatori.
+<sup>2</sup> Le domande di restituzione, corredate dei relativi fogli di controllo delle corse, contratti di noleggio, verbali di presa in consegna e di consegna nonché dell’indicazione dello scopo d’impiego, devono essere presentate all’UDSC entro un anno dalla scadenza del periodo di tassazione. L’UDSC può esigere altri mezzi probatori.
 
 <sup>3</sup> Gli importi inferiori a 50 franchi per domanda non sono restituiti.
 
@@ -813,7 +811,7 @@ Nel caso di veicoli esteri assoggettati alla tassa forfettaria, quest’ultima p
 - c. uno sino a 11 mesi consecutivi;
 - d. un anno.
 
-<sup>2</sup> La prova del pagamento è costituita da un certificato rilasciato dall’AFD. A richiesta, il conducente del veicolo deve presentarlo agli organi di controllo.
+<sup>2</sup> La prova del pagamento è costituita da un certificato rilasciato dall’UDSC. A richiesta, il conducente del veicolo deve presentarlo agli organi di controllo.
 
 <sup>3</sup> Le persone assoggettate al pagamento della tassa sprovviste di una prova del pagamento valida, devono annunciarsi presso un ufficio doganale occupato.
 
@@ -829,7 +827,7 @@ Per i periodi di tassazione inferiori a un anno, la tassa è calcolata proporzio
 - b. 5 per cento per 10 giorni a libera scelta;
 - c. 9 per cento al mese, per un periodo di uno sino a 11 mesi consecutivi.
 
-<sup>2</sup> Se la prova del pagamento è restituita all’AFD prima della scadenza del periodo di tassazione, v’è diritto ad una restituzione proporzionale della tassa.
+<sup>2</sup> Se la prova del pagamento è restituita all’UDSC prima della scadenza del periodo di tassazione, v’è diritto ad una restituzione proporzionale della tassa.
 
 <sup>3</sup> Gli importi sino a 50 franchi non sono restituiti.
 
@@ -866,9 +864,9 @@ Oltre al detentore, sono solidalmente responsabili della tassa sul traffico pesa
 
 #### Art. 36a
 
-**Richiesta all’AFD**[^36a-1]
+**Richiesta all’UDSC**[^36a-1]
 
-<sup>1</sup> La persona solidalmente responsabile ai sensi dell’articolo 36 capoverso 1<sup>bis</sup> che intende affidare un veicolo trattore o un rimorchio (veicolo) a un terzo per l’uso può chiedere all’AFD, nel quadro della conclusione del contratto, se il terzo (parte contraente) o il detentore del veicolo, qualora non si tratti della stessa persona, è insolvibile o è stato invano diffidato.[^36a-2]
+<sup>1</sup> La persona solidalmente responsabile ai sensi dell’articolo 36 capoverso 1<sup>bis</sup> che intende affidare un veicolo trattore o un rimorchio (veicolo) a un terzo per l’uso può chiedere all’UDSC, nel quadro della conclusione del contratto, se il terzo (parte contraente) o il detentore del veicolo, qualora non si tratti della stessa persona, è insolvibile o è stato invano diffidato.[^36a-2]
 
 <sup>2</sup>
 
@@ -876,18 +874,18 @@ La richiesta deve contenere:
 
 - a. i dati personali e l’indirizzo della parte contraente, ed eventualmente del detentore;
 - b. le indicazioni relative al veicolo; e
-- c. una dichiarazione scritta della parte contraente, ed eventualmente del detentore, che autorizza l’AFD a fornire le informazioni richieste.
+- c. una dichiarazione scritta della parte contraente, ed eventualmente del detentore, che autorizza l’UDSC a fornire le informazioni richieste.
 
-<sup>3</sup> Se la parte contraente, o eventualmente il detentore, è insolvibile o è stata invano diffidata, l’AFD nella sua risposta avverte il richiedente sul fatto che questi, con la conclusione del contratto, diventa solidalmente responsabile delle tasse dovute da quel momento, nonché di eventuali interessi e altre prestazioni pecuniarie concernenti il veicolo.
+<sup>3</sup> Se la parte contraente, o eventualmente il detentore, è insolvibile o è stata invano diffidata, l’UDSC nella sua risposta avverte il richiedente sul fatto che questi, con la conclusione del contratto, diventa solidalmente responsabile delle tasse dovute da quel momento, nonché di eventuali interessi e altre prestazioni pecuniarie concernenti il veicolo.
 
 [^36a-1]: Introdotto dal n. I dell’O del 7 mar. 2008, in vigore dal 1° gen. 2008 ([RU 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 [^36a-2]: Nuovo testo giusta il n. I dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 
 #### Art. 36b
 
-**Comunicazione successiva dell’AFD**[^36b-1]
+**Comunicazione successiva dell’UDSC**[^36b-1]
 
-Se l’AFD constata, dopo la messa in circolazione del veicolo di cui all’articolo 36*a* capoverso 2 lettera b, che il detentore è insolvibile o è stato invano diffidato, e considera la possibilità di sottoporre alla responsabilità solidale la persona solidalmente responsabile ai sensi dell’articolo 36 capoverso 1<sup>bis</sup>, essa comunica per scritto a questa persona di ritenerla solidalmente responsabile di tasse future, nonché di eventuali interessi e altre prestazioni pecuniarie concernenti il veicolo:
+Se l’UDSC constata, dopo la messa in circolazione del veicolo di cui all’articolo 36*a* capoverso 2 lettera b, che il detentore è insolvibile o è stato invano diffidato, e considera la possibilità di sottoporre alla responsabilità solidale la persona solidalmente responsabile ai sensi dell’articolo 36 capoverso 1<sup>bis</sup>, esso comunica per scritto a questa persona di ritenerla solidalmente responsabile di tasse future, nonché di eventuali interessi e altre prestazioni pecuniarie concernenti il veicolo:
 
 - a. se non recede dal contratto entro 60 giorni; o
 - b. se tutte le tasse scoperte, nonché eventuali interessi e altre prestazioni pecuniarie concernenti il veicolo non vengono interamente pagati entro 60 giorni.
@@ -969,7 +967,7 @@ Determinanti per la lunghezza delle strade sono i dati più recenti riguardanti:
 
 <sup>4</sup> Per la determinazione della popolazione residente fanno stato le cifre dell’ultimo accertamento sulla popolazione residente media.[^40-5]
 
-<sup>5</sup> Per l’imposizione fiscale del traffico motorizzato da parte dei Cantoni è determinante l’indice totale della tassa sui veicoli a motore. L’AFD accerta annualmente tale indice sulla base delle indicazioni dell’Amministrazione federale delle finanze e dell’Ufficio federale di statistica.[^40-6]
+<sup>5</sup> Per l’imposizione fiscale del traffico motorizzato da parte dei Cantoni è determinante l’indice totale della tassa sui veicoli a motore. L’UDSC accerta annualmente tale indice sulla base delle indicazioni dell’Amministrazione federale delle finanze e dell’Ufficio federale di statistica.[^40-6]
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528)).
 [^40-2]: [RS 725.116.21](https://fedlex.data.admin.ch/eli/cc/2007/797)
@@ -994,7 +992,7 @@ Determinanti per la lunghezza delle strade sono i dati più recenti riguardanti:
 
 **Infrastrutture di controllo**[^42-1]
 
-L’AFD può gestire infrastrutture di controllo fisse e mobili.
+L’UDSC può gestire infrastrutture di controllo fisse e mobili.
 
 [^42-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 
@@ -1018,9 +1016,9 @@ I deprezzamenti e i costi risultanti dai controlli non sono risarciti.
 
 **In generale**
 
-<sup>1</sup> Le autorità d’esecuzione cantonali notificano di volta in volta all’AFD i dati necessari alla riscossione della tassa.
+<sup>1</sup> Le autorità d’esecuzione cantonali notificano di volta in volta all’UDSC i dati necessari alla riscossione della tassa.
 
-<sup>2</sup> L’AFD emana le disposizioni necessarie all’esecuzione.
+<sup>2</sup> L’UDSC emana le disposizioni necessarie all’esecuzione.
 
 <sup>3</sup> L’importo minimo della tassa da riscuotere è di almeno 5 franchi.
 
@@ -1028,7 +1026,7 @@ I deprezzamenti e i costi risultanti dai controlli non sono risarciti.
 
 <sup>5</sup> Le autorità d’esecuzione ricevono un compenso per l’esecuzione della LTTP e della presente ordinanza. Il DFF disciplina i particolari.
 
-<sup>6</sup> Sempre che la LTTP e la presente ordinanza non dispongano altrimenti, le disposizioni che devono essere eseguite dall’AFD si fondano sulla legislazione doganale.
+<sup>6</sup> Sempre che la LTTP e la presente ordinanza non dispongano altrimenti, le disposizioni che devono essere eseguite dell’UDSC si fondano sulla legislazione doganale.
 
 [^45-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
@@ -1046,7 +1044,7 @@ I deprezzamenti e i costi risultanti dai controlli non sono risarciti.
 
 <sup>1</sup>
 
-L’AFD può concludere accordi con singole persone assoggettate al pagamento della tassa al fine di semplificare la procedura di tassazione, segnatamente in merito:
+L’UDSC può concludere accordi con singole persone assoggettate al pagamento della tassa al fine di semplificare la procedura di tassazione, segnatamente in merito:
 
 - a. alla procedura di dichiarazione;
 - b. alla tassazione di persone assoggettate subordinate a diverse autorità esecutive.
@@ -1074,9 +1072,9 @@ Le autorità d’esecuzione possono far garantire tasse, interessi e spese anche
 
 **Conteggio e tenuta dei controlli**
 
-<sup>1</sup> L’ufficio centrale di conteggio e di controllo è l’AFD.
+<sup>1</sup> L’ufficio centrale di conteggio e di controllo è l’UDSC.
 
-<sup>2</sup> I Cantoni effettuano conteggi periodici con l’AFD conformemente alle istruzioni di quest’ultima. Alla fine dell’anno contabile dev’essere allestita una chiusura definitiva.
+<sup>2</sup> I Cantoni effettuano conteggi periodici con l’UDSC conformemente alle istruzioni di quest’ultima. Alla fine dell’anno contabile dev’essere allestita una chiusura definitiva.
 
 <sup>3</sup> L’anno contabile corrisponde all’anno civile.
 
@@ -1086,14 +1084,14 @@ Le autorità d’esecuzione possono far garantire tasse, interessi e spese anche
 
 <sup>1</sup>
 
-Se la tassa per un veicolo svizzero non è pagata, se i pagamenti anticipati o le prestazioni di garanzia non sono avvenuti oppure se i provvedimenti cautelativi ordinati dalle autorità d’esecuzione non sono attuati dal detentore, quest’ultimo viene diffidato; se la diffida rimane infruttuosa, l’AFD può, oltre alle misure previste dall’articolo 14*a* LTTP:
+Se la tassa per un veicolo svizzero non è pagata, se i pagamenti anticipati o le prestazioni di garanzia non sono avvenuti oppure se i provvedimenti cautelativi ordinati dalle autorità d’esecuzione non sono attuati dal detentore, quest’ultimo viene diffidato; se la diffida rimane infruttuosa, l’UDSC può, oltre alle misure previste dall’articolo 14*a* LTTP:
 
 - a. rifiutare il proseguimento del viaggio con il veicolo; o
 - b. sequestrare il veicolo, sempre che le circostanze lo giustifichino.
 
 <sup>2</sup>
 
-Se la tassa per un veicolo estero non è pagata, se i pagamenti anticipati o le prestazioni di garanzia non sono avvenuti oppure se i provvedimenti cautelativi ordinati dalle autorità d’esecuzione non sono attuati dal detentore, l’AFD può:
+Se la tassa per un veicolo estero non è pagata, se i pagamenti anticipati o le prestazioni di garanzia non sono avvenuti oppure se i provvedimenti cautelativi ordinati dalle autorità d’esecuzione non sono attuati dal detentore, l’UDSC può:
 
 - a. rifiutare il proseguimento del viaggio con il veicolo; o
 - b. sequestrare il veicolo, sempre che le circostanze lo giustifichino.
@@ -1104,7 +1102,7 @@ Se la tassa per un veicolo estero non è pagata, se i pagamenti anticipati o le 
 
 **Rifiuto e revoca della licenza di circolazione e delle targhe di controllo**[^50a-1]
 
-<sup>1</sup> Nei casi previsti dall’articolo 14*a* LTTP, l’AFD può ordinare alle autorità d’esecuzione cantonali di rifiutare o revocare la licenza di circolazione e le targhe di controllo.
+<sup>1</sup> Nei casi previsti dall’articolo 14*a* LTTP, l’UDSC può ordinare alle autorità d’esecuzione cantonali di rifiutare o revocare la licenza di circolazione e le targhe di controllo.
 
 <sup>2</sup> Dopo una revoca della licenza di circolazione e delle targhe di controllo, le targhe trasferibili possono essere utilizzate ulteriormente per i veicoli non toccati dal provvedimento.
 
@@ -1134,7 +1132,7 @@ La revisione di decisioni e di decisioni su ricorso è retta dagli articoli 66�
 Le domande di condono sono di competenza:
 
 - a. delle autorità d’esecuzione cantonali per i veicoli da esse tassati;
-- b.[^52-1] dell’AFD per i veicoli esteri e svizzeri da essa tassati;
+- b.[^52-1] dell’UDSC per i veicoli esteri e svizzeri da esso tassati;
 - c.[^52-2] …
 
 <sup>3</sup> Possono essere condonati unicamente gli importi passati in giudicato fissati in modo giuridicamente vincolante.
@@ -1150,9 +1148,9 @@ Le domande di condono sono di competenza:
 
 **Raccolta di dati**
 
-<sup>1</sup> L’AFD raccoglie i dati concernenti l’identità e gli indirizzi delle persone assoggettate alla tassa nonché le loro relazioni finanziarie.
+<sup>1</sup> L’UDSC raccoglie i dati concernenti l’identità e gli indirizzi delle persone assoggettate alla tassa nonché le loro relazioni finanziarie.
 
-<sup>2</sup> Il trattamento dei dati trasmessi dalle autorità d’esecuzione cantonali e dagli uffici doganali è centralizzato presso l’AFD.
+<sup>2</sup> Il trattamento dei dati trasmessi dalle autorità d’esecuzione cantonali e dagli uffici doganali è centralizzato presso l’UDSC.
 
 #### Art. 54
 
@@ -1216,7 +1214,7 @@ I veicoli esteri e svizzeri assoggettati alla tassa sul traffico pesante commisu
 
 **Utilizzazione dell’apparecchio di rilevazione**[^61-1]
 
-Gli apparecchi di rilevazione consegnati gratuitamente dall’AFD non possono essere donati, venduti, noleggiati né prestati. Le infrazioni sono punite con una multa sino a 5000 franchi.
+Gli apparecchi di rilevazione consegnati gratuitamente dall’UDSC non possono essere donati, venduti, noleggiati né prestati. Le infrazioni sono punite con una multa sino a 5000 franchi.
 
 [^61-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 
