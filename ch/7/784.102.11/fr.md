@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 18 novembre 2020 sur l'utilisation du spectre d
 short: OOUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: fr
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210901/fr"
 
 (OOUS)
 
-du 18 novembre 2020 (Etat le 1<sup>er</sup> septembre 2021)
+du 18 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -171,7 +171,7 @@ Les prescriptions d’examen pour l’obtention des certificats au sens de l’a
 
 L’ordonnance de l’OFCOM du 9 mars 2007 sur la gestion des fréquences et les concessions de radiocommunication[^15-1] est abrogée.
 
-[^15-1]: [[RO 2007 1023](https://fedlex.data.admin.ch/eli/oc/2007/173)[7087](https://fedlex.data.admin.ch/eli/oc/2007/927), [2009 1089](https://fedlex.data.admin.ch/eli/oc/2009/171)[4231](https://fedlex.data.admin.ch/eli/oc/2009/515), [2011 5267](https://fedlex.data.admin.ch/eli/oc/2011/759), [2012 6573](https://fedlex.data.admin.ch/eli/oc/2012/791), [2015 2775](https://fedlex.data.admin.ch/eli/oc/2015/524)[4979](https://fedlex.data.admin.ch/eli/oc/2015/813), [2016 1685](https://fedlex.data.admin.ch/eli/oc/2016/308), [2017 3203](https://fedlex.data.admin.ch/eli/oc/2017/319)[7145](https://fedlex.data.admin.ch/eli/oc/2017/772), [2018 2689](https://fedlex.data.admin.ch/eli/oc/2018/394), [2019 989](https://fedlex.data.admin.ch/eli/oc/2019/181)[2573](https://fedlex.data.admin.ch/eli/oc/2019/477)[4247](https://fedlex.data.admin.ch/eli/oc/2019/730), [2020 1223](https://fedlex.data.admin.ch/eli/oc/2020/232)[3565](https://fedlex.data.admin.ch/eli/oc/2020/633)]
+[^15-1]: [[RO 2007 1023](https://fedlex.data.admin.ch/eli/oc/2007/173), [7087](https://fedlex.data.admin.ch/eli/oc/2007/927); [2009 1089](https://fedlex.data.admin.ch/eli/oc/2009/171), [4231](https://fedlex.data.admin.ch/eli/oc/2009/515); [2011 5267](https://fedlex.data.admin.ch/eli/oc/2011/759); [2012 6573](https://fedlex.data.admin.ch/eli/oc/2012/791); [2015 2775](https://fedlex.data.admin.ch/eli/oc/2015/524), [4979](https://fedlex.data.admin.ch/eli/oc/2015/813); [2016 1685](https://fedlex.data.admin.ch/eli/oc/2016/308); [2017 3203](https://fedlex.data.admin.ch/eli/oc/2017/319), [7145](https://fedlex.data.admin.ch/eli/oc/2017/772); [2018 2689](https://fedlex.data.admin.ch/eli/oc/2018/394); [2019 989](https://fedlex.data.admin.ch/eli/oc/2019/181), [2573](https://fedlex.data.admin.ch/eli/oc/2019/477), [4247](https://fedlex.data.admin.ch/eli/oc/2019/730); [2020 1223](https://fedlex.data.admin.ch/eli/oc/2020/232), [3565](https://fedlex.data.admin.ch/eli/oc/2020/633)]
 
 #### Art. 16
 
@@ -187,10 +187,10 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 5 juil. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 476](https://fedlex.data.admin.ch/eli/oc/2021/476)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 739](https://fedlex.data.admin.ch/eli/oc/2021/739)).
 [^annex1-lvlu1-1]: Le texte de l’annexe 1 est publié dans le RO et dans le RS sous la forme d’un renvoi (art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles [[RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)]). Il peut être commandé gratuitement auprès de l’Office fédéral de la communication (OFCOM), section KF-FK, rue de l’Avenir 44, case postale 256, 2501 Bienne, ou être consulté à l’adresse www.ofcom.admin.ch &gt; Fréquences et antennes &gt; Utilisation des fréquences avec ou sans concessions.
 
-Version 3 du 5 juillet 2021
+Version 4 du 11 novembre 2021
 
 Annexe 2
 

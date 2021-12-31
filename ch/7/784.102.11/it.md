@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM del 18 novembre 2020 sull'utilizzazione dello spett
 short: OUUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: it
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210901/it"
 
 (OUUS)
 
-del 18 novembre 2020 (Stato 1° settembre 2021)
+del 18 novembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -187,10 +187,10 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 5 lug. 2021, in vigore dal 1° set. 2021 ([RU 2021 476](https://fedlex.data.admin.ch/eli/oc/2021/476)).
-[^annex1-lvlu1-1]: Il testo dell’all. 1 è pubblicato nella RU mediante rimando (art. 5 cpv. 1 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali [[RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)]). Può essere ordinato gratuitamente presso l’Ufficio federale delle comunicazioni (UFCOM), Sezione KF-FK, rue de l’Avenir 44, casella postale 256, 2501 Bienne oppure consultato all’indirizzo www.ufcom.admin.ch &gt; Frequenze & antenne &gt; Utilizzo delle frequenze con o senza concessioni.
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM dell’11 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2022 739](https://fedlex.data.admin.ch/eli/oc/2022/739)).
+[^annex1-lvlu1-1]: Il testo dell’all. 1 è pubblicato nella RU e nella RS mediante rimando (art. 5 cpv. 1 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali [[RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)]). Può essere ordinato gratuitamente presso l’Ufficio federale delle comunicazioni (UFCOM), Sezione KF-FK, rue de l’Avenir 44, casella postale 256, 2501 Bienne oppure consultato all’indirizzo www.ufcom.admin.ch &gt; Frequenze & antenne &gt; Utilizzo delle frequenze con o senza concessioni.
 
-Versione 3 del 5 luglio 2021
+Versione 4 dell’11 novembre 2021
 
 Allegato 2
 

@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 18. November 2020 über die Nutzung des Funkfreq
 short: VVNF
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: de
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-914-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20210901/de"
 
 (VVNF)
 
-vom 18. November 2020 (Stand am 1. September 2021)
+vom 18. November 2020 (Stand am 1. Januar 2022)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -187,10 +187,10 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 5. Juli 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 476](https://fedlex.data.admin.ch/eli/oc/2021/476)).
-[^annex1-lvlu1-1]: Der Text von Anhang 1 wird in der AS und in der SR per Verweis publiziert (Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 [[SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)]). Er kann beim Bundesamt für Kommunikation (BAKOM), Sektion KF-FK, Zukunftstrasse 44, Postfach 256, 2501 Biel, kostenlos bestellt oder unter www.bakom.admin.ch &gt; Frequenzen und Antennen &gt; Frequenznutzung mit oder ohne Konzessionen eingesehen werden.
+[^t-1]: Fassung gemäss Ziff. I der V des BAKOM vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 739](https://fedlex.data.admin.ch/eli/oc/2021/739)).
+[^annex1-lvlu1-1]: Der Text von Anhang 1 wird in der AS und in der SR per Verweis publiziert (Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 [[SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)]). Er kann beim Bundesamt für Kommunikation (BAKOM), Sektion KF-FK, Zukunftstrasse 44, Postfach 256, 2501 Biel kostenlos bestellt oder unter www.bakom.admin.ch &gt; Frequenzen und Antennen &gt; Frequenznutzung mit oder ohne Konzessionen eingesehen werden.
 
-Fassung 3 vom 5. Juli 2021
+Fassung 4 vom 11. November 2021
 
 Anhang 2
 
