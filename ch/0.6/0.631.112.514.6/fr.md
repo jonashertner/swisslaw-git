@@ -3,11 +3,11 @@ sr: "0.631.112.514.6"
 title: Accord du 2 novembre 1994 entre la Suisse et le Liechtenstein relatif au traité du 29 mars 1923 concernant la réunion de la Principauté de Liechtenstein au territoire douanier suisse (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829"
 language: fr
-version: 2007-09-27
+version: 2022-01-01
 adopted: 1994-11-02
 in_force: 1995-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829/20070927/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3829_3829_3829-20070927-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3829_3829_3829/20070927/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3829_3829_3829-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3829_3829_3829/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3829_3829_3829/20070927/fr"
 
 RO **1995** 3829
 
-Traduction*[^t-1]*
+Traduction
 
-Conclu le 2 novembre 1994
+Conclu le 2 novembre 1994 Approuvé par l’Assemblée fédérale le 12 décembre 1994[^t-1] Instruments de ratification échangés le 25 avril 1995 Entré en vigueur le 1<sup>er</sup> mai 1995
 
-Approuvé par l’Assemblée fédérale le 12 décembre 1994[^t-2]
+(Etat le 1<sup>er</sup> janvier 2022)
 
-Instruments de ratification échangés le 25 avril 1995
-
-Entré en vigueur le 1<sup>er</sup> mai 1995
-
-(Etat le 27 septembre 2007)
-
-[^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Art. 1<sup>er</sup> al. 1 let. b de l’AF du 12 déc. 1994 ([RO 1995 3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813)).
+[^t-1]: Art. 1<sup>er</sup> al. 1 let. b de l’AF du 12 déc. 1994 ([RO 1995 3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813)).
 
 Le Conseil fédéral suisse et Son Altesse Sérénissime le Prince régnant de Liechtenstein,
 
@@ -78,22 +71,22 @@ Si des mesures d’urgence s’avèrent nécessaires en raison d’insuffisances
 
 #### Art. 5
 
-Les autorités compétentes des Etats contractants se communiquent leurs données, notamment celles qui sont mentionnées à l’annexe II, dans la mesure où cela s’avère nécessaire pour exécuter le présent accord.
+Les autorités compétentes des États contractants se communiquent leurs données, notamment celles qui sont mentionnées à l’annexe II, dans la mesure où cela s’avère nécessaire pour exécuter le présent accord.
 
 #### Art. 6
 
 Les données personnelles transmises ne peuvent être conservées qu’aussi longtemps que le but dans lequel elles ont été communiquées n’a pas été atteint.
 
-Les Etats contractants s’engagent à consigner la communication, la réception et la transmission de données personnelles et à les protéger, par des mesures techniques et organisationnelles appropriées, contre toute utilisation non autorisée.
+Les États contractants s’engagent à consigner la communication, la réception et la transmission de données personnelles et à les protéger, par des mesures techniques et organisationnelles appropriées, contre toute utilisation non autorisée.
 
-Les autorités des Etats contractants qui sont chargées d’assurer la protection des données vérifient la manière dont les données personnelles ont été traitées.
+Les autorités des États contractants qui sont chargées d’assurer la protection des données vérifient la manière dont les données personnelles ont été traitées.
 
 Toute personne qui en fait la demande doit être renseignée sur la nature et sur l’usage prévu des données la concernant. Cette obligation cesse si l’intérêt public à refuser la communication des renseignements l’emporte sur l’intérêt de la personne concernée à les recevoir.
 
-Les données personnelles nécessaires à l’exécution du présent accord et transmises par les Etats contractants doivent être traitées et mises en sécurité conformément aux dispositions sur la protection des données en vigueur en Suisse et dans la Principauté de Liechtenstein. Il s’ensuit:
+Les données personnelles nécessaires à l’exécution du présent accord et transmises par les États contractants doivent être traitées et mises en sécurité conformément aux dispositions sur la protection des données en vigueur en Suisse et dans la Principauté de Liechtenstein. Il s’ensuit:
 
-- a) que l’Etat requérant ne peut utiliser ces données que dans le but prévu par l’accord;
-- b) que, à la demande de l’un des Etats contractants, l’autre lui fournit les renseignements sur l’utilisation qu’il a faite des données transmises;
+- a) que l’État requérant ne peut utiliser ces données que dans le but prévu par l’accord;
+- b) que, à la demande de l’un des États contractants, l’autre lui fournit les renseignements sur l’utilisation qu’il a faite des données transmises;
 - c) que les données transmises ne peuvent être traitées que par les autorités chargées de l’exécution de l’accord.
 
 #### Art. 7
@@ -104,15 +97,15 @@ Sur mandat de la Principauté de Liechtenstein, la Confédération suisse ménag
 
 Les coûts supplémentaires occasionnés à la Confédération par le présent accord sont pris en charge par la Principauté de Liechtenstein. Le coût annuel moyen d’un fonctionnaire de l’administration générale de la Confédération, déterminé par l’Administration fédérale des finances, sert de base de calcul.
 
-Les autorités compétentes des Etats contractants fixent les détails dans un accord administratif.
+Les autorités compétentes des États contractants fixent les détails dans un accord administratif.
 
 #### Art. 9
 
-Une commission mixte, composée de représentants des Etats contractants, est instituée.
+Une commission mixte, composée de représentants des États contractants, est instituée.
 
 La commission mixte agit par consensus.
 
-La commission mixte se réunit selon les besoins, mais au moins une fois par année. Les deux Etats contractants peuvent demander la convocation d’une séance.
+La commission mixte se réunit selon les besoins, mais au moins une fois par année. Les deux États contractants peuvent demander la convocation d’une séance.
 
 La commission mixte se dote d’un règlement intérieur.
 
@@ -120,7 +113,7 @@ La commission mixte peut instituer des sous‑commissions ou des groupes de trav
 
 #### Art. 10
 
-La commission mixte est chargée d’assurer l’exécution du présent accord. A cet effet, les Etats contractants échangent des informations et procèdent, à la demande de l’un d’eux, à des consultations au sein de la commission mixte.
+La commission mixte est chargée d’assurer l’exécution du présent accord. À cet effet, les États contractants échangent des informations et procèdent, à la demande de l’un d’eux, à des consultations au sein de la commission mixte.
 
 La commission mixte formule des recommandations et prend des décisions.
 
@@ -136,23 +129,23 @@ Les annexes font partie intégrante de l’accord.
 
 Le présent accord est soumis à ratification. Les instruments de ratification seront échangés à Berne.
 
-Le présent accord entrera en vigueur, après ratification, à la date fixée par les Etats contractants.
+Le présent accord entrera en vigueur, après ratification, à la date fixée par les États contractants.
 
 #### Art. 13
 
 Le présent accord est valable aussi longtemps que l’accord EEE est en vigueur pour la Principauté de Liechtenstein.
 
-Il peut être dénoncé en tout temps par chaque Etat contractant moyennant le délai d’un an.
+Il peut être dénoncé en tout temps par chaque État contractant moyennant le délai d’un an.
 
 *En foi de quoi,* les plénipotentiaires ont signé le présent accord. Fait à Berne, en double exemplaire, en langue allemande, le 2 novembre 1994. Pour la Confédération suisse: Flavio Cotti Pour la Principauté du Liechtenstein: Mario Frick
 
-Annexe I[^t-3]
+Annexe I*[^t-2]*
 
 (art. 4 de l’accord)
 
 ## Mesures de surveillance du marché et de contrôle pour empêcher un trafic de détournement de marchandises déterminées
 
-[^t-3]: Nouvelle teneur selon la D du 28 mars 2008, en vigueur depuis le 27 sept. 2007 ([RO 2010 1249](https://fedlex.data.admin.ch/eli/oc/2010/177)).
+[^t-2]: Nouvelle teneur selon la D du 28 mars 2008, en vigueur depuis le 27 sept. 2007 ([RO 2010 1249](https://fedlex.data.admin.ch/eli/oc/2010/177)).
 
 ### 1 Objectifs
 
@@ -171,11 +164,13 @@ Le domaine d’application du SMC doit être adapté régulièrement à l’évo
 ### 3 Mesures
 
 - 31 Annonces d’importation
-- Toutes les importations du Liechtenstein sont communiquées (annonces d’importations) par l’Administration fédérale des douanes (AFD) à l’Office du commerce et des transports (Amt für Handel und Transport, AHT) du Liechtenstein.
+- Toutes les importations du Liechtenstein sont communiquées (annonces d’importations) par l’Administration fédérale des douanes (AFD)[^annexI-lvlu1-lvl3-1] à l’Office du commerce et des transports (Amt für Handel und Transport, AHT) du Liechtenstein.
 - 32 Marchandises à risques
 - Aux marchandises EEE qui présentent un certain risque, il convient d’appliquer, du point de vue du maintien de la sécurité publique et de la protection des consommateurs, des conditions comparables à celles qui régissent les marchandises correspondantes selon le droit suisse.
 - 33 Sanctions
 - Pour atteindre les objectifs mentionnés au ch. 1 et pour empêcher les importations parallèles illicites du Liechtenstein en Suisse, le Liechtenstein prévoit des sanctions qui sont au moins aussi sévères que celles prévues en Suisse pour des infractions comparables.
+
+[^annexI-lvlu1-lvl3-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (OFDF) (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 4 Groupes de marchandises
 
@@ -186,7 +181,7 @@ Le domaine d’application du SMC doit être adapté régulièrement à l’évo
 - 43 Produits chimiques
 - Il incombe à l’Office de la protection de l’environnement (Amt für Umweltschutz, AUS) de surveiller les produits suivants: matériaux usagés, matériaux neufs, produits biocides, peintures, lessives et substances susceptibles d’influencer le climat.
 - 44 Organismes génétiquement modifiés
-- A l’exception des semences, des aliments pour animaux, des denrées alimentaires, des produits thérapeutiques, des engrais et des marchandises phytosanitaires. L’AUS est compétent.
+- À l’exception des semences, des aliments pour animaux, des denrées alimentaires, des produits thérapeutiques, des engrais et des marchandises phytosanitaires. L’AUS est compétent.
 - 45 Installations de télécommunication et installations d’usagers
 - Ces installations sont surveillées au moyen du système de surveillance du marché institué par l’Office fédéral de la communication. Les mesures nécessitées au Liechtenstein sont mises en œuvre en collaboration avec l’Office de la communication (Amt für Kommunikation).
 - 46 Médicaments
@@ -237,7 +232,9 @@ Tous les BD examinent, timbrent et visent les certificats de circulation des mar
 
 ### 33 Contrôles ultérieurs, établissement subséquent de CCM EUR. 1, établissement de duplicata, actes d’enquête
 
-L’Administration fédérale des douanes (AFD) exécute ces tâches à l’intention de l’Office liechtensteinois des affaires douanières (AZW).
+L’Administration fédérale des douanes (AFD)[^annexIII-lvlu1-lvl3-lvl33-1] exécute ces tâches à l’intention de l’Office liechtensteinois des affaires douanières (AZW).
+
+[^annexIII-lvlu1-lvl3-lvl33-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (OFDF) (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 4 Procédure d’autorisation
 
@@ -245,27 +242,33 @@ Si la Suisse doit appliquer à l’encontre des opérateurs liechtensteinois des
 
 ### 5 Assistance administrative en matière douanière protocole 11 de l’AEEE)
 
-L’AFD prête assistance à l’AZW dans les domaines suivants:
+L’AFD[^annexIII-lvlu1-lvl5-1] prête assistance à l’AZW dans les domaines suivants:
 
-- – Assistance administrative sur demande d’un Etat membre de l’EEE
-- – Assistance administrative sans qu’il n’y ait demande d’un Etat membre de l’EEE
+- – Assistance administrative sur demande d’un État membre de l’EEE
+- – Assistance administrative sans qu’il n’y ait demande d’un État membre de l’EEE
 - – Experts et témoins.
+
+[^annexIII-lvlu1-lvl5-1]: Actuellement: OFDF (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 6 Système d’annonces
 
-l’AFD annonce à l’AZW tous les envois importés par des destinataires liechtensteinois et soumis à l’annonce obligatoire.
+L’AFD[^annexIII-lvlu1-lvl6-1] annonce à l’AZW tous les envois importés par des destinataires liechtensteinois et soumis à l’annonce obligatoire.
+
+[^annexIII-lvlu1-lvl6-1]: Actuellement: OFDF (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 7 Transports de marchandises et de personnes
 
-L’AFD veille au dédouanement conforme aux dispositions de l’EEE
+L’AFD[^annexIII-lvlu1-lvl7-1] veille au dédouanement conforme aux dispositions de l’EEE
 
-- – du trafic des marchandises (concerne le cabotage selon le droit de l’EEE ainsi que les réglementations spéciales relevant des accords bilatéraux conclus par la Suisse avec l’EEE et d’autres Etats tiers)
+- – du trafic des marchandises (concerne le cabotage selon le droit de l’EEE ainsi que les réglementations spéciales relevant des accords bilatéraux conclus par la Suisse avec l’EEE et d’autres États tiers)
 - et
 - – du trafic despersonnes (concerne le cabotage selon le droit de l’EEE ainsi que la pratique de l’autorisation conformément aux dispositions de l’EEE).
 
+[^annexIII-lvlu1-lvl7-1]: Actuellement: OFDF (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 ### 8 Offices responsables
 
-- – pour la Suisse: la Direction générale des douanes(DGD)
+- – pour la Suisse: la Direction générale des douanes (DGD)
 - – pour la Principauté de Liechtenstein: l’Office des affaires douanières(AZW)
 
 ### 9 Arrangement administratif

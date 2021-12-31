@@ -3,11 +3,11 @@ sr: "0.631.112.514.6"
 title: Accordo del 2 novembre 1994 tra la Confederazione Svizzera e il Liechtenstein relativo al Trattato di unione doganale concluso il 29 marzo 1923 tra la Confederazione Svizzera e il Principato del Liechtenstein
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829"
 language: it
-version: 2007-09-27
+version: 2022-01-01
 adopted: 1994-11-02
 in_force: 1995-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829/20070927/it/xml/fedlex-data-admin-ch-eli-cc-1995-3829_3829_3829-20070927-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3829_3829_3829/20070927/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3829_3829_3829-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3829_3829_3829/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3829_3829_3829/20070927/it"
 
 RU **1995** 3829; FF **1994** V 601
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso il 2 novembre 1994 Approvato dall’Assemblea federale il 12 dicembre 1994[^t-2] Ratificato con strumenti scambiati il 25 aprile 1995 Entrato in vigore il 1° maggio 1995
+Concluso il 2 novembre 1994 Approvato dall’Assemblea federale il 12 dicembre 1994[^t-1] Ratificato con strumenti scambiati il 25 aprile 1995 Entrato in vigore il 1° maggio 1995
 
-(Stato 27 settembre 2007)
+(Stato 1° gennaio 2022)
 
-[^t-1]: Il testo originale è pubblicato nell’ediz. ted. della presente Raccolta.
-[^t-2]: Art. 1 cpv. 1 lett. b del DF del 12 dic. 1994 ([RU 1995 3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813)).
+[^t-1]: Art. 1 cpv. 1 lett. b del DF del 12 dic. 1994 ([RU 1995 3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813)).
 
 Il Consiglio federale svizzero e Sua Altezza il Principe regnante di Liechtenstein,
 
@@ -138,15 +137,15 @@ Il presente Accordo è valido fintantoché l’Accordo SEE rimane in vigore per 
 
 Esso può essere denunciato in ogni momento da ciascuno Stato contraente con un preavviso di un anno.
 
-*In fede di che* i plenipotenziari hanno firmato il presente Accordo. Fatto a Berna, in doppio esemplare in lingua tedesca, il 2 novembre 1994. Per la Confederazione Svizzera: Per il Principato del Liechtenstein: Flavio Cotti Mario Frick
+*In fede di che* i plenipotenziari hanno firmato il presente Accordo. Fatto a Berna, in doppio esemplare in lingua tedesca, il 2 novembre 1994. Per la Confederazione Svizzera: Flavio Cotti Per il Principato del Liechtenstein: Mario Frick
 
-Allegato I*[^t-3]*
+Allegato I*[^t-2]*
 
 (art. 4 dell’Accordo)
 
 ## Misure di sorveglianza del mercato e di controllo tese ad evitare traffici di aggiramento con determinate merci
 
-[^t-3]: Nuovo testo giusta il n. 1 della Dec. per circolazione degli atti della Commissione mista del 28 mar. 2008, in vigore dal 27 set. 2007 ([RU 2010 1249](https://fedlex.data.admin.ch/eli/oc/2010/177)).
+[^t-2]: Nuovo testo giusta il n. 1 della Dec. per circolazione degli atti della Commissione mista del 28 mar. 2008, in vigore dal 27 set. 2007 ([RU 2010 1249](https://fedlex.data.admin.ch/eli/oc/2010/177)).
 
 ### 1 Obiettivi
 
@@ -165,11 +164,13 @@ Il campo d’applicazione del SSMC deve essere adattato periodicamente alla risp
 ### 3 Misure
 
 - 31 Notifiche d’importazione
-- Tutte le importazioni nel Liechtenstein vengono segnalate all’Ufficio per il commercio e il trasporto del Liechtenstein da parte dell’Amministrazione federale delle dogane (notifiche d’importazione).
+- Tutte le importazioni nel Liechtenstein vengono segnalate all’Ufficio per il commercio e il trasporto del Liechtenstein da parte dell’Amministrazione federale delle dogane[^annexI-lvlu1-lvl3-1] (notifiche d’importazione).
 - 32 Merci con potenziale di rischio
 - Per le merci SEE con un determinato potenziale di rischio vigono, in termini di salvaguardia della sicurezza pubblica e della protezione dei consumatori, premesse identiche a quelle che devono soddisfare le rispettive merci secondo il diritto svizzero.
 - 33 Sanzioni
 - Nell’intento di perseguire gli obiettivi di cui al numero 1 e per impedire importazioni parallele abusive dal Liechtenstein verso la Svizzera, il Liechtenstein prevede sanzioni che sono per lo meno commisurate a quelle previste dalla legge per infrazioni analoghe commesse in Svizzera.
+
+[^annexI-lvlu1-lvl3-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 4 Categorie di merci
 
@@ -230,7 +231,9 @@ Gli uffici doganali esaminano, timbrano e vistano i certificati di circolazione 
 
 ### 33 Verifiche, rilascio successivo di certificati di circolazione delle merci EUR.1, rilascio di duplicati, inchieste
 
-Questi compiti sono eseguiti dall’Amministrazione federale delle dogane (AFD all’indirizzo dell’Ufficio delle dogane del Liechtenstein (AZW).
+Questi compiti sono eseguiti dall’Amministrazione federale delle dogane (AFD)[^annexIII-lvlu1-lvl3-lvl33-1] all’indirizzo dell’Ufficio delle dogane del Liechtenstein (AZW).
+
+[^annexIII-lvlu1-lvl3-lvl33-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (UDSC) (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 4 Procedura di autorizzazione
 
@@ -238,31 +241,35 @@ Le autorità competenti svizzere rilasciano automaticamente agli operatori del L
 
 ### 5 Assistenza amministrativa reciproca in materie di dogane (protocollo 11 dell’Accordo SEE)
 
-L’AFD sostiene l’AZW nei seguenti ambiti:
+L’AFD[^annexIII-lvlu1-lvl5-1] sostiene l’AZW nei seguenti ambiti:
 
 - – assistenza amministrativa su richiesta di uno Stato SEE;
 - – assistenza amministrativa senza richiesta di uno Stato SEE;
 - – specialisti e testimoni.
 
+[^annexIII-lvlu1-lvl5-1]: Ora: UDSC (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 ### 6 Sistema di comunicazione
 
-L’AFD comunica all’AZW gli invii importati da destinatari del Liechtenstein e che sottostanno all’obbligo della notifica.
+L’AFD[^annexIII-lvlu1-lvl6-1] comunica all’AZW gli invii importati da destinatari del Liechtenstein e che sottostanno all’obbligo della notifica.
+
+[^annexIII-lvlu1-lvl6-1]: Ora: UDSC (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 7 Trasporti di merci e di persone
 
-L’AFD si adopera affinché le formalità doganali in materia di:
+L’AFD[^annexIII-lvlu1-lvl7-1] si adopera affinché le formalità doganali in materia di:
 
 - – *circolazione delle merci* (riguarda il cabotaggio secondo il diritto dello SEE nonché i disciplinamenti speciali nell’ambito di accordi bilaterali sul traffico stipulati dalla Svizzera con Stati SEE e altri Stati terzi) e
 - – *circolazione delle persone* (riguarda il cabotaggio secondo il diritto dello SEE nonché la prassi da adottare in materia di autorizzazioni, conformemente allo SEE)
 
 siano sbrigate in modo conforme alle disposizioni dello SEE.
 
+[^annexIII-lvlu1-lvl7-1]: Ora: UDSC (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 ### 8 Servizi competenti
 
-<table>
-<tr><td>– da parte della Svizzera:</td><td>Direzione generale delle dogane (DGD)</td></tr>
-<tr><td>– da parte del Liechtenstein:</td><td>Ufficio delle dogane (AZW).</td></tr>
-</table>
+- – da parte della Svizzera: Direzione generale delle dogane (DGD)
+- – da parte del Liechtenstein: Ufficio delle dogane (AZW).
 
 ### 9 Accordo amministrativo
 

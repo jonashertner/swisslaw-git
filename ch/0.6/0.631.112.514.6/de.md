@@ -3,11 +3,11 @@ sr: "0.631.112.514.6"
 title: Vereinbarung vom 2. November 1994 zwischen der Schweiz und Liechtenstein zum Vertrag vom 29. März 1923 über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829"
 language: de
-version: 2007-09-27
+version: 2022-01-01
 adopted: 1994-11-02
 in_force: 1995-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829/20070927/de/xml/fedlex-data-admin-ch-eli-cc-1995-3829_3829_3829-20070927-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3829_3829_3829/20070927/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3829_3829_3829/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3829_3829_3829-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3829_3829_3829/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 2. November 1994 Von der Bundesversammlung genehmigt am 12. Dezember 1994[^t-1] Ratifikationsurkunden ausgetauscht am 25. April 1995 In Kraft getreten am 1. Mai 1995
 
-(Stand am 27. September 2007)
+(Stand am 1. Januar 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 12. Dez. 1994 ([AS 1995 3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813))
 
@@ -137,9 +137,9 @@ Diese Vereinbarung gilt so lange, als das EWR‑Abkommen für das Fürstentum Li
 
 Sie kann von jedem Vertragsstaat jederzeit auf ein Jahr gekündigt werden.
 
-*Zu Urkund dessen* haben die Bevollmächtigten diese Vereinbarung mit ihren Unterschriften versehen. Geschehen in Bern, in doppelter Ausfertigung in deutscher Sprache, am 2. November 1994. Für die Schweizerische Eidgenossenschaft: Für das Fürstentum Liechtenstein: Flavio Cotti Mario Frick
+*Zu Urkund dessen* haben die Bevollmächtigten diese Vereinbarung mit ihren Unterschriften versehen. Geschehen in Bern, in doppelter Ausfertigung in deutscher Sprache, am 2. November 1994. Für die Schweizerische Eidgenossenschaft: Flavio Cotti Für das Fürstentum Liechtenstein: Mario Frick
 
-Anhang I[^t-2]
+Anhang I*[^t-2]*
 
 (Art. 4 der Vereinbarung)
 
@@ -164,11 +164,13 @@ Der Anwendungsbereich des MKS ist periodisch an die diesbezügliche Rechtsentwic
 ### 3 Massnahmen
 
 - 31 Importmeldungen
-- Alle Einfuhren nach Liechtenstein werden dem liechtensteinischen Amt für Handel und Transport (AHT) von der Eidgenössischen Zollverwaltung (EZV) gemeldet (Importmeldungen).
+- Alle Einfuhren nach Liechtenstein werden dem liechtensteinischen Amt für Handel und Transport (AHT) von der Eidgenössischen Zollverwaltung (EZV)[^annexI-lvlu1-lvl3-1] gemeldet (Importmeldungen).
 - 32 Waren mit Gefährdungspotential
 - Für Waren mit einem gewissen Gefährdungspotential gelten für EWR-Waren hinsichtlich der Gewährleistung der öffentlichen Sicherheit und des Verbraucherschutzes vergleichbare Voraussetzungen wie für entsprechende Waren nach Schweizer Recht.
 - 33 Sanktionen
 - In Verfolgung der unter Ziffer 1 genannten Ziele sowie zur Verhinderung unzulässiger Parallelimporte von Liechtenstein in die Schweiz werden in Liechtenstein Sanktionen vorgesehen, die sich zumindest nach dem in der Schweiz für vergleichbare Widerhandlungen gesetzlich vorgesehenen Strafmass bemessen.
+
+[^annexI-lvlu1-lvl3-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (BAZG) (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 4 Warengruppen
 
@@ -230,7 +232,9 @@ Alle ZA prüfen, stempeln und visieren liechtensteinische Warenverkehrsbescheini
 
 ### 33 Nachprüfungen, nachträgliche Ausstellung von WVB EUR.1, Ausstellung von Duplikaten, Untersuchungshandlungen
 
-Diese Aufgaben führt die Eidgenössische Zollverwaltung (EZV) zuhanden des liechtensteinischen Amtes für Zollwesen (AZW) durch.
+Diese Aufgaben führt die Eidgenössische Zollverwaltung (EZV)[^annexIII-lvlu1-lvl4-lvl33-1] zuhanden des liechtensteinischen Amtes für Zollwesen (AZW) durch.
+
+[^annexIII-lvlu1-lvl4-lvl33-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (BAZG) (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 4 Bewilligungsverfahren
 
@@ -238,22 +242,28 @@ Die zuständigen schweizerischen Behörden erteilen liechtensteinischen Operateu
 
 ### 5 Amtshilfe in Zollsachen (Protokoll 11 EWRA)
 
-Die EZV leistet dem AZW in folgenden Bereichen Unterstützung:
+Die EZV[^annexIII-lvlu1-lvl6-1] leistet dem AZW in folgenden Bereichen Unterstützung:
 
 - – Amtshilfe auf Ersuchen eines EWR‑Mitgliedstaates
 - – Amtshilfe ohne Ersuchen eines EWR‑Mitgliedstaates
 - – Sachverständige und Zeugen
 
+[^annexIII-lvlu1-lvl6-1]: Heute: BAZG (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 ### 6 Meldewesen
 
-Die EZV meldet dem AZW alle von liechtensteinischen Empfängern eingeführten und der Meldepflicht unterstehenden Sendungen.
+Die EZV[^annexIII-lvlu1-lvl7-1] meldet dem AZW alle von liechtensteinischen Empfängern eingeführten und der Meldepflicht unterstehenden Sendungen.
+
+[^annexIII-lvlu1-lvl7-1]: Heute: BAZG (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 7 Güter‑ und Personentransporte
 
-Die EZV ist besorgt für eine EWR‑konforme Abfertigung des
+Die EZV[^annexIII-lvlu1-lvl8-1] ist besorgt für eine EWR‑konforme Abfertigung des
 
 - – *Güterverkehrs* (betrifft die Kabotage gemäss EWR‑Recht sowie die besonderen Regelungen im Bereich bilateraler Verkehrsabkommen der Schweiz mit EWR‑ und anderen Drittstaaten) und des
 - – *Personenverkehrs* (betrifft die Kabotage gemäss EWR‑Recht sowie die anzuwendende EWR‑konforme Bewilligungspraxis).
+
+[^annexIII-lvlu1-lvl8-1]: Heute: BAZG (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 8 Verantwortliche Stellen
 
