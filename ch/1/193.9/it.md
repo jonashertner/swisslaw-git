@@ -3,18 +3,18 @@ sr: "193.9"
 title: "Legge federale del 19 dicembre 2003 su misure di promozione civile della pace e di rafforzamento dei diritti dell'uomo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: it
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2004-253-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-253-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale su misure di promozione civile della pace e di rafforzamento dei diritti dell’uomo
 
-del 19 dicembre 2003 (Stato 1° dicembre 2021)
+del 19 dicembre 2003 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -76,7 +76,9 @@ La Confederazione può accordare aiuti finanziari e prendere altre misure, come:
 
 **Finanziamento**
 
-I mezzi per finanziare le misure previste dalla presente legge sono stanziati sotto forma di crediti quadro pluriennali.
+I mezzi per finanziare le misure previste dalla presente legge sono stanziati sotto forma di crediti d’impegno[^4-1] pluriennali.
+
+[^4-1]: Nuova espr. giusta l’all. n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 5
 
@@ -106,7 +108,7 @@ Il Consiglio federale vigila sull’impiego efficace dei mezzi stanziati. Dispon
 
 Il Consiglio federale può concludere accordi internazionali:
 
-- a. sull’impiego dei fondi provenienti dai crediti quadro;
+- a. sull’impiego dei fondi provenienti dai crediti d’impegno;
 - b. sulla partecipazione a missioni civili di promozione della pace;
 - c. sull’invio di esperti.
 

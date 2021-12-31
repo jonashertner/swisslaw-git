@@ -3,18 +3,18 @@ sr: "193.9"
 title: "Loi fédérale du 19 décembre 2003 sur des mesures de promotion civile de la paix et de renforcement des droits de l'homme"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: fr
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2004-253-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-253-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur des mesures de promotion civile de la paix et de renforcement des droits de l’homme
 
-du 19 décembre 2003 (Etat le 1<sup>er</sup> décembre 2021)
+du 19 décembre 2003 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -76,7 +76,9 @@ La Confédération peut accorder des aides financières et prendre d’autres me
 
 **Financement**
 
-Les moyens nécessaires au financement des mesures prévues par la présente loi sont accordés sous la forme de crédits-cadres pluriannuels.
+Les moyens nécessaires au financement des mesures prévues par la présente loi sont accordés sous la forme de crédits d’engagement[^4-1] pluriannuels.
+
+[^4-1]: Nouvelle expression selon l’annexe ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 5
 
@@ -106,7 +108,7 @@ Le Conseil fédéral veille à une utilisation efficace des moyens accordés. Il
 
 Le Conseil fédéral peut conclure des traités internationaux portant sur:
 
-- a. l’utilisation des fonds prélevés sur les crédits-cadres;
+- a. l’utilisation des fonds prélevés sur les crédits d’engagement;
 - b. la participation à des missions civiles de promotion de la paix;
 - c. l’envoi d’experts.
 

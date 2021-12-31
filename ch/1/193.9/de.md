@@ -3,18 +3,18 @@ sr: "193.9"
 title: Bundesgesetz vom 19. Dezember 2003 über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/253"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2003-12-19
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2004-253-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/253/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-253-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/253/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Massnahmen zur zivilen Friedensförderung und Stärkung der Menschenrechte
 
-vom 19. Dezember 2003 (Stand am 1. Dezember 2021)
+vom 19. Dezember 2003 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -76,7 +76,9 @@ Der Bund kann Finanzhilfen leisten und andere Massnahmen ergreifen, wie:
 
 **Finanzierung**
 
-Die Mittel für die Massnahmen nach diesem Gesetz werden als Rahmenkredite für jeweils mehrere Jahre bewilligt.
+Die Mittel für die Massnahmen nach diesem Gesetz werden als Verpflichtungskredite[^4-1] für jeweils mehrere Jahre bewilligt.
+
+[^4-1]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 5
 
@@ -106,7 +108,7 @@ Der Bundesrat wacht über die wirksame Verwendung der bewilligten Mittel. Er ver
 
 Der Bundesrat kann völkerrechtliche Verträge abschliessen über:
 
-- a. die Verwendung der Gelder aus den Rahmenkrediten;
+- a. die Verwendung der Gelder aus den Verpflichtungskrediten;
 - b. die Beteiligung an zivilen friedensfördernden Missionen;
 - c. die Entsendung von Expertinnen und Experten.
 
