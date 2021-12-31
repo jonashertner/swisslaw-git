@@ -4,10 +4,10 @@ number: "520"
 title: Bevölkerungsschutzgesetz (BSG)
 short: BSG
 language: de
-nachtrag: "61"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2008-02-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-520-2008_02_04-2008_07_01-061.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-520-2008_02_04-2008_07_01-115.html"
 text: pdf
 ---
 
@@ -42,7 +42,7 @@ Das Gesetz bezweckt, in ausserordentlichen Lagen a. die Grundversorgung der Bev�
 
 **Ausserordentliche Lage**
 
-Eine ausserordentliche Lage liegt vor, wenn auf Grund einer Notlage oder Katastrophe die ordentlichen Abläufe und Mittel zur Bewältigung der anstehenden Aufgaben der betroffenen Gemeinschaft nicht genügen und a. Menschen oder Tiere stark gefährdet sind,
+Eine ausserordentliche Lage liegt vor, wenn aufgrund einer Notlage oder Katastrophe die ordentlichen Abläufe und Mittel zur Bewältigung der anstehenden Aufgaben der betroffenen Gemeinschaft nicht genügen und a. Menschen oder Tiere stark gefährdet sind,
 
 - b. die Grundversorgung der Bevölkerung nicht mehr gewährleistet ist oder
 
@@ -54,19 +54,21 @@ Eine ausserordentliche Lage liegt vor, wenn auf Grund einer Notlage oder Katastr
 
 Partnerorganisationen im Sinne dieses Gesetzes sind:
 
-- a. Polizei: die Kantonspolizei und die kommunalen Polizeien,
+a.[^3-1] Polizeibehörden: die Kantonspolizei und die kommunalen Polizeien sowie das Forensische Institut Zürich,
 
 - b. Feuerwehr: die Orts-, Stützpunkt-, Betriebs- und Berufsfeuerwehren sowie die Gebäudeversicherungsanstalt (Kantonale Feuerwehr),
 
-- c. Gesundheitswesen: die Spitäler, die Polikliniken der öffentlichen Hand, die ambulanten ärztlichen Institutionen, die frei praktizierenden Angehörigen von Berufen des Gesundheitswesens (Ärztinnen und Ärzte, Psychotherapeutinnen und Psychotherapeuten, Zahnärztinnen und Zahnärzte, Apothekerinnen und Apotheker),
+- c. Gesundheitswesen: die Spitäler, die Polikliniken der öffentlichen Hand, die ambulanten ärztlichen Institutionen, die frei praktizierenden Angehörigen von Berufen des Gesundheitswesens (Ärztinnen und Ärzte, Psychotherapeutinnen und Psychotherapeuten, Zahnärz-
 
 **1**
 
-- 1\. 7. 08 - 61 die privaten und öffentlichen Sanitätsrettungsdienste, die Spitexdienste, die frei praktizierenden Tierärztinnen und Tierärzte, das Tierspital der Universität Zürich und die privaten Tierkliniken,
+- 1\. 1. 22 - 115 tinnen und Zahnärzte, Apothekerinnen und Apotheker), die privaten und öffentlichen Sanitätsrettungsdienste, die Spitexdienste, die frei praktizierenden Tierärztinnen und Tierärzte, das Tierspital der Universität Zürich und die privaten Tierkliniken,
 
 - d. technische Betriebe: die Betreiber von Einrichtungen der Energie- und Wasserversorgung, der Entsorgung, der Telematik und von Verkehrsverbindungen,
 
 - e. Zivilschutz: die kantonale Zivilschutzorganisation sowie die regionalen und gemeindeeigenen Zivilschutzorganisationen.
+
+[^3-1]: Fassung gemäss G vom 12. April 2021 (OS 76, 387; ABl 2020-05-15). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 7
 
 #### § 4
 
@@ -174,21 +176,21 @@ Bis zum Eintreffen der zuständigen Partnerorganisation trifft die Polizei die e
 
 **3**
 
-- 1\. 7. 08 - 61 § 14. Die Polizeien der Städte Zürich und Winterthur leiten in der Regel die Einsätze in ihren Städten.
+- 1\. 1. 22 - 115 § 14. Die Polizeien der Städte Zürich und Winterthur leiten in der Regel die Einsätze in ihren Städten.
 
 #### § 15
 
 **c. Polizeien der Städte Zürich und Winterthur**
 
-**d. Feuerwehr**
+**d. Feuerwehr und Forensisches Institut Zürich**
 
-Die Feuerwehr ist zuständig für die Rettung von Menschen und Tieren und leistet Hilfe bei A-, B- und C-Ereignissen.
+<sup>1</sup> Die Feuerwehr ist zuständig für die Rettung von Menschen und Tieren und leistet Hilfe bei A-, B- und C-Ereignissen.
 
-#### § 16
+<sup>2</sup> Das Forensische Institut Zürich unterstützt die Einsatzkräfte bei Bedarf, insbesondere bei A-Ereignissen im Rahmen seiner Aufgaben im Bereich der nuklearen Forensik und bei C-Ereignissen.[^15-1]
 
 **e. Gesundheitswesen**
 
-<sup>1</sup> Im Gesundheitswesen sind zuständig:
+§ 16. <sup>1</sup> Im Gesundheitswesen sind zuständig:
 
 - a. die Spitäler für die medizinische Versorgung im stationären Bereich und auf Notfallstationen,
 
@@ -197,6 +199,8 @@ Die Feuerwehr ist zuständig für die Rettung von Menschen und Tieren und leiste
 - c. die frei praktizierenden Angehörigen von Berufen des Gesundheitswesens, die Polikliniken der öffentlichen Hand, die ambulanten ärztlichen Institutionen sowie die Apotheken für den Notfalldienst.
 
 <sup>2</sup> Bei der Vorbereitung der Bewältigung eines bewaffneten Konflikts (Aufwuchs) stellt die für das Gesundheitswesen zuständige Direktion den Betrieb der geschützten Spitäler und geschützten Sanitätsstellen sicher.
+
+[^15-1]: Eingefügt durch G vom 12. April 2021 (OS 76, 387; ABl 2020-05-15). In Kraft seit 1. Januar 2022.
 
 #### § 17
 
@@ -274,7 +278,7 @@ Die technischen Betriebe stellen die Funktionsfähigkeit ihrer Einrichtungen und
 
 **5**
 
-- 1\. 7. 08 - 61
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Die Betreiber von Abfall- und Abwasserentsorgungsanlagen können ungeachtet ihrer Rechtsform verpflichtet werden,
 
@@ -318,14 +322,13 @@ In diesen Lagen gelten folgende Bestimmungen sinngemäss: §§ 3–9, 11 Abs. 1 
 
 <sup>1</sup> Wurden bei der Bewältigung einer ausserordentlichen Lage Leistungen, Eigentum oder andere Rechte von natürlichen und juristischen Personen des Privatrechts beansprucht, richtet ihnen der Kanton eine angemessene Entschädigung aus.
 
-<sup>2</sup> Für den Gebrauch, die Wertverminderung oder den Verlust von requirierten Mitteln richtet sich die Höhe der Entschädigung nach den Vorschriften des Bundes über die Requisition[^26-1].
+<sup>2</sup> Für den Gebrauch, die Wertverminderung oder den Verlust von requirierten Mitteln richtet sich die Höhe der Entschädigung nach den Vorschriften des Bundes über die Requisition.
 
-<sup>3</sup> Besteht keine Versicherungsdeckung, haftet der Kanton gemäss §§ 8–10 des Haftungsgesetzes vom 14. September 1969[^26-2] für Schäden, die einer Person während der Tätigkeit für eine Partnerorganisation anlässlich einer ausserordentlichen Lage entstanden sind.
+<sup>3</sup> Besteht keine Versicherungsdeckung, haftet der Kanton gemäss §§ 8–10 des Haftungsgesetzes vom 14. September 1969[^26-1] für Schäden, die einer Person während der Tätigkeit für eine Partnerorganisation anlässlich einer ausserordentlichen Lage entstanden sind.
 
-<sup>4</sup> Das Verfahren richtet sich nach dem Haftungsgesetz[^26-2].
+<sup>4</sup> Das Verfahren richtet sich nach dem Haftungsgesetz[^26-1].
 
-[^26-1]: SR 519.7. 1. 7. 08 - 61 7
-[^26-2]: LS 170.1.
+[^26-1]: LS 170.1.
 
 #### § 27
 
