@@ -3,11 +3,11 @@ sr: "235.26"
 title: "Ordonnance du 25 septembre 2020 sur le système d'information Plato (Ordonnance Plato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
 language: fr
-version: 2020-11-01
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2020-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-747-20201101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-747-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20201101/fr"
 
 (Ordonnance Plato)
 
-du 25 septembre 2020 (Etat le 1<sup>er</sup> novembre 2020)
+du 25 septembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 6 de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères[^ingress-1], vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],
+vu l’art. 29 de la loi fédérale du 18 décembre 2020 sur le traitement des données personnelles par le Département fédéral des affaires étrangères[^ingress-1],[^ingress-2] vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Le renvoi a été adapté au 1<sup>er</sup> déc. 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ## Section 1 Dispositions générales
 
@@ -161,11 +162,13 @@ La DSH et le Domaine AH/CSA édictent un règlement relatif au traitement des do
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> novembre 2020.
 
-Annexe
+Annexe*[^t-1]*
 
 (art. 5, al. 2)
 
 ## Données personnelles saisies dans Plato
+
+[^t-1]: Mise à jour par l’annexe ch. II 12 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### I. Indications relatives à la personne
 
@@ -189,7 +192,7 @@ Annexe
 - 18\. Langue de correspondance
 - 19\. Compétences linguistiques
 - 20\. Diplômes et certificats de langues
-- 21\. Numéro d’assuré(e) au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annexu1-lvlu1-lvlI-1]
+- 21\. Numéro AVS au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annexu1-lvlu1-lvlI-1]
 - 22\. Numéro personnel
 - 23\. Indications relatives aux documents officiels (date et lieu de dépôt)
 - 24\. Profession et formation

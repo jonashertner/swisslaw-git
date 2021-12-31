@@ -3,11 +3,11 @@ sr: "235.26"
 title: Verordnung vom 25. September 2020 über das Informationssystem Plato (Plato-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
 language: de
-version: 2020-11-01
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2020-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20201101/de/xml/fedlex-data-admin-ch-eli-cc-2020-747-20201101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-747-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20201101/de"
 
 (Plato-Verordnung)
 
-vom 25. September 2020 (Stand am 1. November 2020)
+vom 25. September 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 6 des Bundesgesetzes vom 24. März 2000[^ingress-1] über die Bearbeitung von Personendaten im Eidgenössischen Departement für auswärtige Angelegenheiten und auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],
+gestützt auf Artikel 29 des Bundesgesetzes vom 18. Dezember 2020[^ingress-1] über die Bearbeitung von Personendaten durch das Eidgenössischen Departement für auswärtige Angelegenheiten[^ingress-2] und auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-3],
 
 verordnet:
 
 [^ingress-1]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Dez. 2021 angepasst.
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -161,11 +162,13 @@ Die AMS und der Direktionsbereich HH/SKH erlassen ein Bearbeitungsreglement. Die
 
 Diese Verordnung tritt am 1. November 2020 in Kraft.
 
-Anhang
+Anhang*[^t-1]*
 
 (Art. 5 Abs. 2)
 
 ## Im Plato erfasste Personendaten
+
+[^t-1]: Bereinigt gemäss Anhang Ziff. II 12 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### I. Angaben zur Person
 
@@ -189,7 +192,7 @@ Anhang
 - 18\. Korrespondenzsprache
 - 19\. Sprachkenntnisse
 - 20\. Sprachdiplome und -zertifikate
-- 21\. Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^annexu1-lvlu1-lvlI-1] über die Alters- und Hinterlassenenversicherung
+- 21\. AHV-Nummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^annexu1-lvlu1-lvlI-1] über die Alters- und Hinterlassenenversicherung
 - 22\. Personalnummer
 - 23\. Angaben zu Schriften (Datum und Ort des Depots)
 - 24\. Beruf und Ausbildung
@@ -231,7 +234,6 @@ Anhang
 - 5\. Ausstellungsort
 - 6\. Ausstellungsdatum
 - 7\. Übergabe
-- [tab]
 - 8\. Rückgabe
 - 9\. Passablage
 

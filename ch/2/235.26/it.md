@@ -3,11 +3,11 @@ sr: "235.26"
 title: "Ordinanza del 25 settembre 2020 concernente il sistema d'informazione Plato (Ordinanza Plato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/747"
 language: it
-version: 2020-11-01
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2020-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20201101/it/xml/fedlex-data-admin-ch-eli-cc-2020-747-20201101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20201101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/747/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-747-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/747/20201101/it"
 
 (Ordinanza Plato)
 
-del 25 settembre 2020 (Stato 1° novembre 2020)
+del 25 settembre 2020 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 6 della legge federale del 24 marzo 2000[^ingress-1] sul trattamento di dati personali in seno al Dipartimento federale degli affari esteri; visto l’articolo 57*h* capoverso 3 della legge federale del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,
+visto l’articolo 29 della legge federale del 18 dicembre 2020[^ingress-1] sul trattamento dei dati personali da parte del Dipartimento federale degli affari esteri,[^ingress-2] visto l’articolo 57*h* capoverso 3 della legge federale del 21 marzo 1997[^ingress-3] sull’organizzazione del Governo e dell’Amministrazione,
 
 ordina:
 
 [^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° dic. 2021.
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 ## Sezione 1: Disposizioni generali
 
@@ -161,11 +162,13 @@ La DSU e il Settore AU/CSA emanano un regolamento sul trattamento dei dati. Esso
 
 La presente ordinanza entra in vigore il 1° novembre 2020.
 
-Allegato
+Allegato[^t-1]
 
 (art. 5 cpv. 2)
 
 ## Dati personali registrati in Plato
+
+[^t-1]: Aggiornato dall’all. n. II 12 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### I. Dati personali
 
@@ -189,7 +192,7 @@ Allegato
 - 18\. Lingua di corrispondenza
 - 19\. Conoscenze linguistiche
 - 20\. Diplomi e certificati linguistici
-- 21\. Numero d’assicurato ai sensi dell’articolo 50*c* della legge federale del 20 dicembre 1946[^annexu1-lvlu1-lvlI-1] su l’assicurazione per la vecchiaia e per i superstiti
+- 21\. Numero AVS ai sensi dell’articolo 50*c* della legge federale del 20 dicembre 1946[^annexu1-lvlu1-lvlI-1] su l’assicurazione per la vecchiaia e per i superstiti
 - 22\. Numero personale
 - 23\. Indicazioni su documenti (data e luogo del deposito)
 - 24\. Professione e formazione
