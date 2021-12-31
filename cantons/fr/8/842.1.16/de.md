@@ -3,20 +3,20 @@ canton: FR
 number: "842.1.16"
 title: Verordnung über den Kantonsanteil an der Abgeltung von stationären Leistungen
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-02-03
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-01-26
 adopted: 2021-01-26
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/842.1.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/6453/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6757/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Kantonsanteil an der Abgeltung von stationären Leistungen
 
-vom 03.02.2020 (Fassung in Kraft getreten am 01.01.2021)
+vom 26.01.2021 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -32,6 +32,6 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Der Kantonsanteil an der Abgeltung von stationären Leistungen für das Jahr 2021 beträgt 55 %.
+<sup>1</sup> Der Kantonsanteil an der Abgeltung von stationären Leistungen für das Jahr 2022 beträgt 55 %.
 
-2020\_013
+2021\_011

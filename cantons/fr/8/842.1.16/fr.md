@@ -3,20 +3,20 @@ canton: FR
 number: "842.1.16"
 title: Ordonnance fixant la part cantonale à la rémunération des prestations hospitalières
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-02-03
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-01-26
 adopted: 2021-01-26
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/842.1.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6453/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6757/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance fixant la part cantonale à la rémunération des prestations hospitalières
 
-du 03.02.2020 (version entrée en vigueur le 01.01.2021)
+du 26.01.2021 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -32,6 +32,6 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> La part cantonale à la rémunération des prestations hospitalières est de 55 % en 2021.
+<sup>1</sup> La part cantonale à la rémunération des prestations hospitalières est de 55 % en 2022.
 
-2020\_013
+2021\_011
