@@ -5,12 +5,12 @@ title: "Lescha introductiva tar il cudesch civil svizzer *"
 short: LItCCS
 language: rm
 version: 2022-01-01
-valid_until: 2024-12-31
+corrected: 2021-12-16
 version_adopted: 2021-08-27
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3220/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3173/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -165,7 +165,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> Per l'expulsiun immediata tenor l'artitgel 28b alinea 4 è cumpetenta la polizia chantunala. La procedura sa drizza tenor la lescha da polizia[^15a-1].
 
-<sup>2</sup> …
+<sup>2</sup> La regenza po installar in post da cussegliaziun per persunas violentas e designescha il post cumpetent.
 
 [^15a-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
 
@@ -1791,11 +1791,11 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 #### Art. 146c
 
-**4. access public electronic**
+**4. publicaziun da las datas en l'internet**
 
-<sup>1</sup> Las datas dal register principal che pon vegnir consultadas senza stuair cumprovar in interess vegnan rendidas accessiblas dal chantun a la publicitad sin via electronica.
+<sup>1</sup> Il chantun publitgescha en l'internet las datas dal register principal che pon vegnir consultadas senza stuair cumprovar in interess.
 
-<sup>2</sup> Permessas èn mo consultaziuns che sa refereschan a bains immobigliars. Il sistem d'infurmaziun sto vegnir protegì cunter consultaziuns da seria. Ils access vegnan protocollads automaticamain, ed ils protocols vegnan conservads durant 1 onn.
+<sup>2</sup> Las consultaziuns ston sa referir a bains immobigliars, e per di dastgan vegnir fatgas maximalmain tschintg consultaziuns. Ils access vegnan protocollads automaticamain, ed ils protocols vegnan conservads durant 1 onn.
 
 <sup>3</sup> Tras ina dumonda en scrit pon ils proprietaris da bains immobigliars pretender dal post spezialisà ch'el laschia prender invista dals protocols concernent lur bains immobigliars.
 
