@@ -4,11 +4,11 @@ title: Verordnung vom 30. November 2018 über das Informationssystem Verkehrszul
 short: IVZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20200101/de"
 
 (IVZV)
 
-vom 30. November 2018 (Stand am 1. Januar 2020)
+vom 30. November 2018 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -83,15 +83,16 @@ Das Subsystem IVZ-Fahrzeuge enthält folgende Daten zu den von schweizerischen B
 
 <sup>3</sup> Die Polizeiorgane sowie die mit verkehrspolizeilichen Aufgaben betrauten Zollorgane übermitteln dem IVZ die Daten zur Sperrung und Entsperrung von Fahrzeugen und Kontrollschildern, die zur Fahndung ausgeschrieben sind, aus dem automatisierten Polizeifahndungssystem (RIPOL) nach der RIPOL-Verordnung vom 26. Oktober 2016[^5-1].
 
-<sup>4</sup> Die Eidgenössische Zollverwaltung (EZV) übermittelt dem IVZ die für die Kontrolle der Verzollung und Versteuerung nach dem Automobilsteuergesetz vom 21. Juni 1996[^5-2] (AstG) erforderlichen Daten. Sie kann auch die für die Erteilung und den Entzug der Fahrzeugausweise zuständigen Behörden damit beauftragen.
+<sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^5-2] übermittelt dem IVZ die für die Kontrolle der Verzollung und Versteuerung nach dem Automobilsteuergesetz vom 21. Juni 1996[^5-3] (AstG) erforderlichen Daten. Es kann auch die für die Erteilung und den Entzug der Fahrzeugausweise zuständigen Behörden damit beauftragen.
 
 <sup>5</sup> Die zuständige Behörde im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport übermittelt dem IVZ die für die Treibstoffrationierung sowie die Belegung und Einmietung von Fahrzeugen für die Armee, den Zivilschutz und die wirtschaftliche Landesversorgung erforderlichen Daten.
 
-<sup>6</sup> Die Versicherer übermitteln dem IVZ die Daten nach Anhang 1 Kapitel A Ziffer 2 der Verkehrsversicherungsverordnung vom 20. November 1959[^5-3] sowie die Daten über das Aussetzen oder Aufhören der Versicherung.
+<sup>6</sup> Die Versicherer übermitteln dem IVZ die Daten nach Anhang 1 Kapitel A Ziffer 2 der Verkehrsversicherungsverordnung vom 20. November 1959[^5-4] sowie die Daten über das Aussetzen oder Aufhören der Versicherung.
 
 [^5-1]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^5-2]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^5-3]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^5-3]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^5-4]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
 ## 3. Abschnitt: Subsystem IVZ-Personen
 
@@ -134,7 +135,7 @@ Das Subsystem IVZ-Personen enthält folgende Daten:
 
 <sup>2</sup> Die kantonal zuständigen Behörden (Art. 23 Abs. 1 der Chauffeurverordnung vom 19. Juni 1995[^8-1], ARV 1) übermitteln dem IVZ die Daten zu den Kontrollkarten nach Anhang 2 Ziffer 24 sowie Änderungen dieser Daten.
 
-<sup>3</sup> Die EZV übermittelt dem IVZ die Daten zu den Werkstattkarten nach Anhang 2 Ziffer 22 sowie Änderungen dieser Daten.
+<sup>3</sup> Das BAZG übermittelt dem IVZ die Daten zu den Werkstattkarten nach Anhang 2 Ziffer 22 sowie Änderungen dieser Daten.
 
 [^8-1]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
 
@@ -213,7 +214,7 @@ Die Übermittlung von Daten ans IVZ muss über die vom ASTRA definierten Schnitt
 
 <sup>1</sup>
 
-Die EZV kann neben den Behörden nach Artikel 89*d* SVG die Daten bearbeiten, die erforderlich sind für:
+Das BAZG kann neben den Behörden nach Artikel 89*d* SVG die Daten bearbeiten, die erforderlich sind für:
 
 - a. die Kontrolle der Verzollung und Versteuerung nach dem AstG[^16-1];
 - b. die Erhebung der leistungsabhängigen Schwerverkehrsabgabe nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^16-2].

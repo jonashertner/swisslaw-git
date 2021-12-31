@@ -4,11 +4,11 @@ title: "Ordonnance du 30 novembre 2018 sur le système d'information relatif à 
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20200101/fr"
 
 (OSIAC)
 
-du 30 novembre 2018 (Etat le 1<sup>er</sup> janvier 2020)
+du 30 novembre 2018 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -83,15 +83,16 @@ Le sous-système SIAC-Véhicules contient les données ci-après relatives aux v
 
 <sup>3</sup> Les organes de police et les organes douaniers chargés des tâches de police routière transmettent au SIAC les données du système de recherches informatisées de police (RIPOL) relatives à l’interdiction et à la levée d’interdiction des véhicules et des plaques de contrôle dont l’avis de recherche est publié, conformément à l’ordonnance RIPOL du 26 octobre 2016[^5-1].
 
-<sup>4</sup> L’Administration fédérale des douanes (AFD) transmet au SIAC les données nécessaires au contrôle du dédouanement et à l’imposition selon la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles (Limpauto)[^5-2]. Elle peut également confier cette tâche aux autorités chargées de délivrer et de retirer les permis de circulation.
+<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^5-2] transmet au SIAC les données nécessaires au contrôle du dédouanement et à l’imposition selon la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles (Limpauto)[^5-3]. Il peut également confier cette tâche aux autorités chargées de délivrer et de retirer les permis de circulation.
 
 <sup>5</sup> L’autorité compétente au sein du Département fédéral de la défense, de la protection de la population et des sports transmet au SIAC les données nécessaires au rationnement des carburants, à la réquisition et à la location de véhicules pour l’armée, la protection civile et l’approvisionnement économique du pays.
 
-<sup>6</sup> Les assureurs transmettent au SIAC les données visées à l’annexe 1, let. A, ch. 2, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules[^5-3] et les données sur la suspension ou la cessation de l’assurance.
+<sup>6</sup> Les assureurs transmettent au SIAC les données visées à l’annexe 1, let. A, ch. 2, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules[^5-4] et les données sur la suspension ou la cessation de l’assurance.
 
 [^5-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^5-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^5-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^5-4]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
 ## Section 3 Sous-système SIAC-Personnes
 
@@ -134,7 +135,7 @@ Le sous-système SIAC-Personnes contient les données:
 
 <sup>2</sup> Les autorités cantonales compétentes (art. 23, al. 1, de l’ordonnance du 19 juin 1995 sur les chauffeurs [OTR 1][^8-1]) transmettent au SIAC les données relatives aux cartes de contrôle visées à l’annexe 2, ch. 24 et toute modification de ces données.
 
-<sup>3</sup> L’AFD transmet au SIAC les données relatives aux cartes d’atelier visées à l’annexe 2, ch. 22 et toute modification de ces données.
+<sup>3</sup> L’OFDF transmet au SIAC les données relatives aux cartes d’atelier visées à l’annexe 2, ch. 22 et toute modification de ces données.
 
 [^8-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
 
@@ -213,7 +214,7 @@ Les données doivent être transmises au SIAC via les interfaces et selon les pr
 
 <sup>1</sup>
 
-Outre les autorités visées à l’art. 89*d* LCR, l’AFD peut traiter les données nécessaires:
+Outre les autorités visées à l’art. 89*d* LCR, l’OFDF peut traiter les données nécessaires:
 
 - a. au contrôle du dédouanement et de l’imposition selon la Limpauto[^16-1];
 - b. à la perception de la redevance sur le trafic des poids lourds liée aux prestations selon la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^16-2].
@@ -633,8 +634,8 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annex4-lvlu1-5]
 
-[^annex4-lvlu1-1]: [[RO 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364), [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489), [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471), [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782), [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264), [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25), [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247), [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553)]
-[^annex4-lvlu1-2]: [[RO 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474), [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490), [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353)[5073](https://fedlex.data.admin.ch/eli/oc/2004/783), [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26)[5043](https://fedlex.data.admin.ch/eli/oc/2007/705), [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248)]
-[^annex4-lvlu1-3]: [[RO 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472), [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27), [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 18, [2010 1657](https://fedlex.data.admin.ch/eli/oc/2010/249)]
-[^annex4-lvlu1-4]: [[RO 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267), [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556)]
+[^annex4-lvlu1-1]: [[RO 2000 2300](https://fedlex.data.admin.ch/eli/oc/2000/364); [2002 3316](https://fedlex.data.admin.ch/eli/oc/2002/489); [2003 3375](https://fedlex.data.admin.ch/eli/oc/2003/471); [2004 5071](https://fedlex.data.admin.ch/eli/oc/2004/782); [2006 1685](https://fedlex.data.admin.ch/eli/oc/2006/264); [2007 105](https://fedlex.data.admin.ch/eli/oc/2007/25); [2010 1653](https://fedlex.data.admin.ch/eli/oc/2010/247); [2011 3903](https://fedlex.data.admin.ch/eli/oc/2011/553)]
+[^annex4-lvlu1-2]: [[RO 2000 2800](https://fedlex.data.admin.ch/eli/oc/2000/474); [2002 3320](https://fedlex.data.admin.ch/eli/oc/2002/490); [2004 2871](https://fedlex.data.admin.ch/eli/oc/2004/353), [5073](https://fedlex.data.admin.ch/eli/oc/2004/783), [2007 107](https://fedlex.data.admin.ch/eli/oc/2007/26), [5043](https://fedlex.data.admin.ch/eli/oc/2007/705); [2010 1655](https://fedlex.data.admin.ch/eli/oc/2010/248)]
+[^annex4-lvlu1-3]: [[RO 2003 3376](https://fedlex.data.admin.ch/eli/oc/2003/472); [2007 109](https://fedlex.data.admin.ch/eli/oc/2007/27); [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)ch. I 18; [2010 1657](https://fedlex.data.admin.ch/eli/oc/2010/249)]
+[^annex4-lvlu1-4]: [[RO 2006 1703](https://fedlex.data.admin.ch/eli/oc/2006/267); [2011 3911](https://fedlex.data.admin.ch/eli/oc/2011/556)]
 [^annex4-lvlu1-5]: Les mod. peuvent être consultées au [RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783).

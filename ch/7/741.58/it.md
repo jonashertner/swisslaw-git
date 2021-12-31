@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2018 concernente il sistema d'informazione sul
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20200101/it"
 
 (OSIAC)
 
-del 30 novembre 2018 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 30 novembre 2018 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -80,15 +80,16 @@ Il sottosistema SIAC Veicoli contiene i seguenti dati relativi ai veicoli immatr
 
 <sup>3</sup> Gli organi di polizia nonché gli organi doganali con compiti di polizia stradale trasmettono al SIAC i dati sul blocco e sullo sblocco di veicoli e targhe oggetto di segnalazioni di ricerca, registrati nel sistema di ricerca informatizzato di polizia (RIPOL) ai sensi dell’ordinanza RIPOL del 26 ottobre 2016[^5-1].
 
-<sup>4</sup> L’Amministrazione federale delle dogane (AFD) trasmette al SIAC i dati necessari per il controllo di sdoganamento e imposizione fiscale secondo la legge federale del 21 giugno 1996[^5-2] sull’imposizione degli autoveicoli (LIAut). Essa può anche affidare tale compito alle autorità competenti per il rilascio e la revoca delle licenze di circolazione.
+<sup>4</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^5-2] trasmette al SIAC i dati necessari per il controllo di sdoganamento e imposizione fiscale secondo la legge federale del 21 giugno 1996[^5-3] sull’imposizione degli autoveicoli (LIAut). Esso può anche affidare tale compito alle autorità competenti per il rilascio e la revoca delle licenze di circolazione.
 
 <sup>5</sup> L’autorità competente in seno al Dipartimento federale della difesa, della protezione della popolazione e dello sport trasmette al SIAC i dati necessari per il razionamento del carburante nonché l’occupazione e il noleggio di veicoli destinati all’esercito, alla protezione civile e all’approvvigionamento economico del Paese.
 
-<sup>6</sup> Gli assicuratori trasmettono al SIAC i dati di cui all’allegato 1 lettera A numero 2 dell’ordinanza del 20 novembre 1959[^5-3] sull’assicurazione dei veicoli nonché i dati relativi alla sospensione o alla cessazione dell’assicurazione.
+<sup>6</sup> Gli assicuratori trasmettono al SIAC i dati di cui all’allegato 1 lettera A numero 2 dell’ordinanza del 20 novembre 1959[^5-4] sull’assicurazione dei veicoli nonché i dati relativi alla sospensione o alla cessazione dell’assicurazione.
 
 [^5-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^5-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^5-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^5-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^5-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^5-4]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 
 ## Sezione 3: Sottosistema SIAC Persone
 
@@ -131,7 +132,7 @@ Il sottosistema SIAC Persone contiene:
 
 <sup>2</sup> Le autorità cantonali competenti (art. 23 cpv. 1 dell’O del 19 giu. 1995[^8-1] per gli autisti, OLR 1) trasmettono al SIAC i dati relativi alle carte di controllo di cui all’allegato 2 numero 24 nonché le relative modifiche.
 
-<sup>3</sup> L’AFD trasmette al SIAC i dati relativi alle carte dell’officina di cui all’allegato 2 numero 22 nonché le relative modifiche.
+<sup>3</sup> L’UDSC trasmette al SIAC i dati relativi alle carte dell’officina di cui all’allegato 2 numero 22 nonché le relative modifiche.
 
 [^8-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
 
@@ -210,7 +211,7 @@ La trasmissione di dati al SIAC deve avvenire attraverso le interfacce e le proc
 
 <sup>1</sup>
 
-Oltre alle autorità di cui all’articolo 89*d* LCStr, anche l’AFD può trattare i dati necessari per:
+Oltre alle autorità di cui all’articolo 89*d* LCStr, anche l’UDSC può trattare i dati necessari per:
 
 - a. il controllo dello sdoganamento e dell’imposizione secondo la LIAut[^16-1];
 - b. la riscossione della tassa sul traffico pesante commisurata alle prestazioni conformemente alla legge del 19 dicembre 1997[^16-2] sul traffico pesante.
