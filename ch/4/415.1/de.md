@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2015 über die Informationssysteme des Bundes i
 short: IBSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: de
-version: 2016-11-01
+version: 2022-01-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20161101/de/xml/fedlex-data-admin-ch-eli-cc-2016-596-20161101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20161101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-596-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20161101/de"
 
 (IBSG)
 
-vom 19. Juni 2015 (Stand am 1. November 2016)
+vom 19. Juni 2015 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -55,7 +55,7 @@ Dieses Gesetz regelt die Bearbeitung von Personendaten (Daten), einschliesslich 
 Die in Artikel 1 Absatz 1 genannten Stellen und Personen dürfen zur Erfüllung der Aufgaben, die dem Vollzug des SpoFöG[^2-1] dienen:
 
 - a. Daten bearbeiten und durch ein Abrufverfahren zugänglich machen, soweit es dieses Gesetz oder ein anderes Bundesgesetz ausdrücklich vorsieht;
-- b. die Versichertennummer der Alters- und Hinterlassenenversicherung (AHV-Versichertennummer) nach dem Bundesgesetz vom 20. Dezember 1946[^2-2] über die Alters- und Hinterlassenenversicherung verwenden;
+- b.[^2-2] ...
 - c. Daten in elektronischer Form bekannt geben, sofern ein angemessener Schutz gegen unbefugten Zugriff und unbefugtes Bearbeiten gewährleistet ist.
 
 <sup>2</sup> Die Stellen und Personen, bei denen Daten beschafft werden dürfen, sind zur unentgeltlichen Bekanntgabe verpflichtet.
@@ -67,7 +67,7 @@ Die in Artikel 1 Absatz 1 genannten Stellen und Personen dürfen zur Erfüllung 
 <sup>5</sup> Bilder, die eindeutig identifizierbare Personen zeigen, dürfen nur mit deren Einwilligung veröffentlicht werden.
 
 [^2-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-2]: Aufgehoben durch Anhang Ziff. 10 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 3
 
@@ -129,14 +129,15 @@ Das nationale Informationssystem für Sport dient den Behörden, Organisationen 
 Das nationale Informationssystem für Sport enthält alle Personendaten und Informationen, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, die zur Erfüllung der Aufgaben in den Bereichen nach Artikel 8 notwendig sind, insbesondere:
 
 - a. Personalien;
-- b. AHV-Versichertennummer;
+- b. AHV-Nummer[^9-1];
 - c. Hinweise über Aktivitäten, Funktionen und die Zugehörigkeit zu Leistungsgruppen;
 - d. Qualifikationen und Anerkennungen als Sportleiterin oder Sportleiter sowie deren Sistierung, Entzug oder Wegfall;
-- e. Daten nach Artikel 10 SpoFöG[^9-1], soweit sie zur Begründung eines Entscheids betreffend Erteilung, Sistierung oder Entzug von Anerkennungen als «Jugend und Sport»-Kader oder als Kader im Programm «Erwachsenensport Schweiz» erforderlich sind;
+- e. Daten nach Artikel 10 SpoFöG[^9-2], soweit sie zur Begründung eines Entscheids betreffend Erteilung, Sistierung oder Entzug von Anerkennungen als «Jugend und Sport»-Kader oder als Kader im Programm «Erwachsenensport Schweiz» erforderlich sind;
 - f. Angaben über Untersuchungen und die Verhängung von Massnahmen im Zusammenhang mit Verstössen gegen Bestimmungen des fairen und sicheren Sports;
 - g. freiwillig gemachte Angaben.
 
-[^9-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^9-1]: Ausdruck gemäss Anhang Ziff. 10 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^9-2]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 10
 
@@ -294,7 +295,7 @@ Das Informationssystem der EHSM enthält alle Personendaten und Informationen, e
   Daten zu Dozentinnen und Dozenten und Lehrbeauftragten:
 
   - 1\. Personalien,
-  - 2\. AHV-Versichertennummer,
+  - 2\. AHV-Nummer,
   - 3\. Ausbildungsabschlüsse und Titel,
   - 4\. Sprachkompetenzen,
   - 5\. Funktionen,
@@ -305,7 +306,7 @@ Das Informationssystem der EHSM enthält alle Personendaten und Informationen, e
   Daten zu Studentinnen und Studenten:
 
   - 1\. Personalien,
-  - 2\. AHV-Versichertennummer,
+  - 2\. AHV-Nummer,
   - 3\. Fotografien,
   - 4\. Ausbildungsabschlüsse und Titel,
   - 5\. Sprachkompetenzen,

@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 2015 sui sistemi d'informazione della Confe
 short: LSISpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: it
-version: 2016-11-01
+version: 2022-01-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20161101/it/xml/fedlex-data-admin-ch-eli-cc-2016-596-20161101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20161101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-596-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20161101/it"
 
 (LSISpo)
 
-del 19 giugno 2015 (Stato 1° novembre 2016)
+del 19 giugno 2015 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -55,7 +55,7 @@ La presente legge disciplina il trattamento dei dati personali (dati), compresi 
 Per l’adempimento dei compiti necessari all’esecuzione della LPSpo[^2-1] gli enti e le persone di cui all’articolo 1 capoverso 1 possono:
 
 - a. trattare dati e renderli accessibili mediante procedura di richiamo nella misura in cui la presente legge o unʼaltra legge federale lo preveda espressamente;
-- b. utilizzare i numeri dʼassicurato dellʼassicurazione vecchiaia e superstiti (numero dʼassicurato AVS) secondo la legge federale del 20 dicembre 1946[^2-2] sull’assicurazione per la vecchiaia e per i superstiti;
+- b.[^2-2] ...
 - c. comunicare dati in forma elettronica, sempre che sia garantita una protezione adeguata contro lʼaccesso e il trattamento non autorizzati.
 
 <sup>2</sup> Gli enti e le persone presso cui possono essere raccolti dati sono tenuti a comunicarli gratuitamente.
@@ -67,7 +67,7 @@ Per l’adempimento dei compiti necessari all’esecuzione della LPSpo[^2-1] gli
 <sup>5</sup> Le immagini che raffigurano persone chiaramente identificabili possono essere pubblicate unicamente previo consenso di quest’ultime.
 
 [^2-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-2]: Abrogata dall’all. n. 10 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 3
 
@@ -129,14 +129,15 @@ Il sistema nazionale dʼinformazione per lo sport serve alle autorità, alle org
 Il sistema nazionale dʼinformazione per lo sport contiene tutti i dati personali e le informazioni, compresi i dati personali degni di particolare protezione e i profili della personalità, che sono necessari per lʼadempimento dei compiti negli ambiti di cui all’articolo 8, in particolare:
 
 - a. le generalità;
-- b. il numero dʼassicurato AVS;
+- b. il numero AVS[^9-1];
 - c. indicazioni su attività, funzioni e appartenenza a gruppi di prestazione;
 - d. le qualifiche e i riconoscimenti di monitore di sport e indicazioni relative alla sospensione, revoca o decadenza di tali riconoscimenti;
-- e. i dati di cui allʼarticolo 10 LPSpo[^9-1], nella misura in cui siano necessari per motivare una decisione di rilascio, sospensione o revoca di riconoscimenti di quadro Gioventù e Sport o di quadro del programma Sport per gli adulti Svizzera;
+- e. i dati di cui allʼarticolo 10 LPSpo[^9-2], nella misura in cui siano necessari per motivare una decisione di rilascio, sospensione o revoca di riconoscimenti di quadro Gioventù e Sport o di quadro del programma Sport per gli adulti Svizzera;
 - f. indicazioni su inchieste e su misure pronunciate in relazione a violazioni delle norme per la correttezza e sicurezza nello sport;
 - g. i dati forniti volontariamente.
 
-[^9-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^9-1]: Nuova espr. giusta l’all. 10 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^9-2]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 10
 
@@ -294,7 +295,7 @@ Il sistema d’informazione della SUFSM contiene tutti i dati personali e le inf
   riguardo ai docenti e agli incaricati di corsi:
 
   - 1\. le generalità,
-  - 2\. il numero d’assicurato AVS,
+  - 2\. il numero AVS,
   - 3\. i diplomi e i titoli,
   - 4\. le competenze linguistiche,
   - 5\. le funzioni,
@@ -305,7 +306,7 @@ Il sistema d’informazione della SUFSM contiene tutti i dati personali e le inf
   riguardo agli studenti:
 
   - 1\. le generalità,
-  - 2\. il numero d’assicurato AVS,
+  - 2\. il numero AVS,
   - 3\. le fotografie,
   - 4\. i diplomi e i titoli,
   - 5\. le competenze linguistiche,

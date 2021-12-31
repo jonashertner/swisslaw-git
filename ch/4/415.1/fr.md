@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 2015 sur les systèmes d'information de la Con
 short: LSIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/596"
 language: fr
-version: 2016-11-01
+version: 2022-01-01
 adopted: 2015-06-19
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20161101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-596-20161101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20161101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/596/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-596-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/596/20161101/fr"
 
 (LSIS)[^t-1]
 
-du 19 juin 2015 (Etat le 1<sup>er</sup> novembre 2016)
+du 19 juin 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -57,7 +57,7 @@ La présente loi règle le traitement des données personnelles (données), y co
 Les services et personnes visés à l’art. 1, al. 1, peuvent, pour accomplir les tâches servant à l’exécution de la LESp[^2-1]:
 
 - a. traiter des données et les rendre accessibles en ligne, dans la mesure où la présente loi ou une autre loi fédérale le prévoit expressément;
-- b. utiliser le numéro d’assuré de l’assurance vieillesse et survivants (numéro AVS) prévu dans la loi fédérale du 20 décembre 1946 sur l’assurance vieillesse et survivants[^2-2];
+- b.[^2-2] …
 - c. communiquer des données sous forme électronique, pour autant qu’un niveau de protection adéquat soit assuré contre tout accès ou traitement non autorisés.
 
 <sup>2</sup> Les services et personnes auprès desquels les données peuvent être collectées sont tenus de les communiquer gratuitement.
@@ -69,7 +69,7 @@ Les services et personnes visés à l’art. 1, al. 1, peuvent, pour accomplir l
 <sup>5</sup> Les images qui montrent des personnes clairement identifiables ne peuvent être publiées qu’avec leur consentement.
 
 [^2-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-2]: Abrogée par l’annexe ch. 10 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 3
 
