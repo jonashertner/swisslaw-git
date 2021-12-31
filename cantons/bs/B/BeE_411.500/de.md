@@ -4,13 +4,12 @@ number: BeE 411.500
 title: Vertrag betreffend die Zusammenarbeit der Gemeinden Bettingen und Riehen für den Betrieb und die Finanzierung ihrer Schulen
 short: Schulvertrag
 language: de
-version: 2019-08-01
-valid_until: 2021-12-31
-version_adopted: 2019-03-18
+version: 2022-01-01
+version_adopted: 2021-09-28
 adopted: 2009-01-06
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20411.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4694/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6246/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Schulvertrag mit Riehen | Bettingen: Einwohnergemeinde[^t-1]
 
 (Schulvertrag)
 
-Vom 6. Januar 2009 (Stand 1. August 2019)
+Vom 6. Januar 2009 (Stand 1. Januar 2022)
 
 Die **Einwohnergemeinde Bettingen**, vertreten durch den Gemeinderat, nachstehend Bettingen genannt, handelnd unter dem Vorbehalt der Genehmigung durch die Gemeindeversammlung,
 
@@ -37,7 +36,7 @@ betreffend die Zusammenarbeit der beiden Gemeinden für den Betrieb und die Fina
 [^ingress-1]: SG [111.100](https://www.gesetzessammlung.bs.ch/data/111.100/de).
 [^ingress-2]: SG [170.100](https://www.gesetzessammlung.bs.ch/data/170.100/de).
 [^ingress-3]: SG [410.100](https://www.gesetzessammlung.bs.ch/data/410.100/de). Massgeblich sind namentlich die Änderungen des Schulgesetzes vom 6. 6. 2007 und vom 20. 2. 2008, mit Wirksamkeit per 1. 8. 2009.
-[^ingress-4]: SG [412.100.](https://www.gesetzessammlung.bs.ch/data/412.100./de) / [BeE 412.100.](https://www.gesetzessammlung.bs.ch/data/BeE%20412.100./de) / [RiE 412.100](https://www.gesetzessammlung.bs.ch/data/RiE%20412.100/de).
+[^ingress-4]: SG [412.100](https://www.gesetzessammlung.bs.ch/data/412.100/de) / [BeE 412.100](https://www.gesetzessammlung.bs.ch/data/BeE%20412.100/de) / [RiE 412.100](https://www.gesetzessammlung.bs.ch/data/RiE%20412.100/de).
 
 ## 1. Allgemeines
 
@@ -81,9 +80,9 @@ betreffend die Zusammenarbeit der beiden Gemeinden für den Betrieb und die Fina
 
 ### 2.2. Zuständigkeiten und Aufgaben
 
-#### § 5
+### 2.2.1. Gemeinderäte Bettingen und Riehen
 
-**2.2.1 Gemeinderäte Bettingen und Riehen**
+#### § 5
 
 <sup>1</sup> Die Gemeinderäte Bettingen und Riehen sind im Rahmen der kantonalen Vorgaben zuständig für die politisch-strategische Führung der Gemeindeschulen. Sie haben im Einzelnen namentlich folgende gemeinsame Aufgaben:
 
@@ -97,7 +96,7 @@ betreffend die Zusammenarbeit der beiden Gemeinden für den Betrieb und die Fina
 - 8\. …
 - 9\. Ernennung der Schulrekurskommission und Genehmigung ihrer Entschädigungsregelung.
 
-<sup>2</sup> Die Gemeinderäte Bettingen und Riehen ernennen auf eine Amtsdauer von vier Jahren die Schulräte für die Schulstandorte in der eigenen Gemeinde, soweit sie nicht von der betreffenden Schule oder vom Elternrat in den Schulrat delegiert werden. Parteien, Institutionen und Einzelpersonen können dem zuständigen Gemeinderat Kandidatinnen und Kandidaten für den Schulrat vorschlagen.
+<sup>2</sup> Die Gemeinderäte Bettingen und Riehen ernennen auf eine Amtsdauer von vier Jahren die Schulräte für die Schulstandorte in der eigenen Gemeinde, soweit sie nicht von der betreffenden Schule, vom Elternrat, der Gemeindeversammlung Bettingen oder der zuständigen Sachkommission des Einwohnerrats Riehen in den Schulrat delegiert werden. Parteien, Institutionen und Einzelpersonen können dem zuständigen Gemeinderat Kandidatinnen und Kandidaten für den Schulrat vorschlagen.
 
 <sup>3</sup> Im Übrigen richten sich die Zuständigkeiten der Gemeinderäte nach § 32 der Gemeindeordnung der Einwohnergemeinde Bettingen[^5-2] bzw. § 24 der Gemeindeordnung der Einwohnergemeinde Riehen[^5-3].
 
@@ -105,9 +104,25 @@ betreffend die Zusammenarbeit der beiden Gemeinden für den Betrieb und die Fina
 [^5-2]: BeE 111.100.
 [^5-3]: RiE 111.100.
 
-#### § 6
+### 2.2.1<sup>bis</sup>. Gemeindeversammlung Bettingen und zuständige Sachkommission des Einwohnerrats Riehen
 
-**2.2.2 Schulausschuss Bettingen / Riehen**
+#### § 5a
+
+<sup>1</sup> Die Gemeindeversammlung Bettingen kann eine Person in den Schulrat des Schulstandorts in der eigenen Gemeinde delegieren.
+
+<sup>2</sup> Die Wahl erfolgt pro Amtsperiode der Schulräte gemäss den Regelungen der Gemeindeordnung der Einwohnergemeinde Bettingen. Parteien, Institutionen und Einzelpersonen können Kandidatinnen und Kandidaten für den Schulrat vorschlagen. Eine Wiederwahl ist möglich.
+
+<sup>3</sup> Die für die Gemeindeschulen zuständige Sachkommission des Einwohnerrats Riehen kann pro Amtsperiode der Schulräte je ein Mitglied aus ihrer Sachkommission in die Schulräte der Schulstandorte in der eigenen Gemeinde delegieren. Eine Wiederwahl ist möglich.
+
+<sup>4</sup> Die Delegierten gemäss Abs. 1 und 3 dürfen weder eigene Kinder in der Schule noch verwandtschaftliche oder partnerschaftliche Beziehungen zu Schulleitungsmitgliedern der Schule haben.
+
+<sup>5</sup> Tritt eine Delegierte oder ein Delegierter während der Amtsperiode der Schulräte zurück, können die Gemeindeversammlung Bettingen bzw. die zuständige Sachkommission des Einwohnerrats Riehen eine Nachwahl bis zum Ende der laufenden Amtsperiode vornehmen.
+
+<sup>6</sup> Die Regelungen des Kantons und der Gemeinde Riehen zu den Aufgaben, Rechten und Pflichten sowie und Entschädigungen der externen Schulratsmitglieder gelten auch für die Delegierten.
+
+### 2.2.2. Schulausschuss Bettingen / Riehen
+
+#### § 6
 
 <sup>1</sup> Der Schulausschuss setzt sich aus je einem Mitglied der Gemeinderäte Bettingen und Riehen sowie aus den beiden zuständigen leitenden Mitarbeitenden der Gemeindeverwaltungen Bettingen und Riehen zusammen. Er kann für einzelne Themen aus dem Schulbereich die zuständigen Fachleute der Gemeinden zur Beratung beiziehen.
 
@@ -117,9 +132,9 @@ betreffend die Zusammenarbeit der beiden Gemeinden für den Betrieb und die Fina
 
 <sup>4</sup> Der Schulausschuss trifft sich in regelmässigen Abständen, mindestens jedoch einmal pro Quartal.
 
-#### § 7
+### 2.2.3. Zuständige Verwaltungsabteilung der Gemeindeverwaltung Riehen
 
-**2.2.3 Zuständige Verwaltungsabteilung der Gemeindeverwaltung Riehen**
+#### § 7
 
 <sup>1</sup> Die zuständige Verwaltungsabteilung der Gemeindeverwaltung Riehen setzt die politisch-strategischen Entscheide der Gemeinderäte um und ist für die operative Abwicklung sämtlicher Aufgaben betreffend die Gemeindeschulen zuständig.
 
@@ -133,13 +148,15 @@ betreffend die Zusammenarbeit der beiden Gemeinden für den Betrieb und die Fina
 
 <sup>4</sup> Die Abteilungsleitung informiert den Schulausschuss mindestens einmal pro Semester über den operativen Schulbetrieb.
 
+### 2.2.4.
+
 #### § 8
 
 **…**
 
-#### § 9
+### 2.2.5. Gemeinsame Schulrekurskommission
 
-**2.2.5 Gemeinsame Schulrekurskommission**
+#### § 9
 
 <sup>1</sup> Die Gemeinderäte Bettingen und Riehen wählen auf eine Amtszeit von vier Jahren eine fünfköpfige, weisungsunabhängige Schulrekurskommission.
 
