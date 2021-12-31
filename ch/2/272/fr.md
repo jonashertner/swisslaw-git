@@ -4,11 +4,11 @@ title: Code de procédure civile du 19 décembre 2008 (CPC)
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20210101/fr"
 
 (CPC)
 
-du 19 décembre 2008 (Etat le 1<sup>er</sup> janvier 2021)
+du 19 décembre 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -81,25 +81,26 @@ Le droit cantonal institue la juridiction compétente pour statuer en instance c
 - b. les litiges relevant du droit des cartels;
 - c. les litiges portant sur l’usage d’une raison de commerce;
 - d. les litiges relevant de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^5-1] lorsque la valeur litigieuse dépasse 30 000 francs ou que la Confédération exerce son droit d’action;
-- e. les litiges relevant de laloi fédérale du 18 mars 1983 sur la responsabilité civile en matière nucléaire[^5-2];
+- e.[^5-2] les litiges relevant de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^5-3];
 - f. les actions contre la Confédération;
-- g. la désignation d’un contrôleur spécial en vertu de l’art. 697*b* du code des obligations (CO)[^5-3];
-- h.[^5-4] les litiges relevant de la loi du 23 juin 2006 sur les placements collectifs[^5-5], de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^5-6] et de la loi fédérale du 15 juin 2018 sur les établissements financiers[^5-7];
-- i.[^5-8] les litiges relevant de la loi du 21 juin 2013 sur la protection des armoiries[^5-9], de la loi fédérale du 25 mars 1954 concernant la protection de l’emblème et du nom de la Croix-Rouge[^5-10] et de la loi fédérale du 15 décembre 1961 concernant la protection des noms et emblèmes de l’Organisation des Nations Unies et d’autres organisations intergouvernementales[^5-11].
+- g. la désignation d’un contrôleur spécial en vertu de l’art. 697*b* du code des obligations (CO)[^5-4];
+- h.[^5-5] les litiges relevant de la loi du 23 juin 2006 sur les placements collectifs[^5-6], de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^5-7] et de la loi fédérale du 15 juin 2018 sur les établissements financiers[^5-8];
+- i.[^5-9] les litiges relevant de la loi du 21 juin 2013 sur la protection des armoiries[^5-10], de la loi fédérale du 25 mars 1954 concernant la protection de l’emblème et du nom de la Croix-Rouge[^5-11] et de la loi fédérale du 15 décembre 1961 concernant la protection des noms et emblèmes de l’Organisation des Nations Unies et d’autres organisations intergouvernementales[^5-12].
 
 <sup>2</sup> Cette juridiction est également compétente pour statuer sur les mesures provisionnelles requises avant litispendance.
 
 [^5-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^5-2]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-4]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-6]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-7]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-8]: Introduite par l’annexe 3 ch. II 3 de la L du 21 juin 2013 sur la protection des armoiries, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-9]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-10]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-11]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-2]: Nouvelle teneur selon l’annexe 2 ch. 1, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914); [RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^5-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^5-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-5]: Nouvelle teneur selon l’annexe ch. II 4 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-6]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-8]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-9]: Introduite par l’annexe 3 ch. II 3 de la L du 21 juin 2013 sur la protection des armoiries, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-10]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-11]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-12]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -415,6 +416,18 @@ Le tribunal du domicile ou du siège du défendeur ou celui du lieu où les mesu
 <sup>2</sup> En plus des tribunaux mentionnés à l’al. 1, le tribunal du siège d’une succursale du défendeur est compétent pour statuer sur les actions intentées contre le bureau national d’assurance (art. 74 de la loi du 19 déc. 1958 sur la circulation routière, LCR[^38-1]) ou le fonds national de garantie (art. 76 LCR).
 
 [^38-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+#### Art. 38a
+
+**Dommages nucléaires**[^38a-1]
+
+<sup>1</sup> Le tribunal du canton où l’événement dommageable est survenu connaît impérativement des actions découlant d’un accident nucléaire.
+
+<sup>2</sup> S’il est impossible de déterminer ce canton avec certitude, le tribunal du canton où se situe l’installation nucléaire de l’exploitant responsable est impérativement compétent.
+
+<sup>3</sup> S’il existe plusieurs fors selon les règles qui précèdent, le tribunal du canton le plus étroitement lié à l’accident et le plus affecté par ses conséquences est impérativement compétent.
+
+[^38a-1]: Introduit par l’annexe 2 ch. 1, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914); [RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 5125](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 39
 
@@ -2778,7 +2791,7 @@ La procédure sommaire s’applique notamment dans les affaires suivantes:
   - 3\. déclaration d’absence (art. 35 à 38 CC),
   - 4\. modification d’une inscription dans les registres de l’état civil (art. 42 CC);
 
-- b.[^249-3] ...
+- b.[^249-3] …
 - c.
 
   droit des successions:
@@ -3511,7 +3524,7 @@ La convention d’entretien ou la décision qui fixe les contributions d’entre
 
 #### Art. 302
 
-**...[^302-1]**
+**…[^302-1]**
 
 <sup>1</sup>
 
@@ -4046,11 +4059,15 @@ Lorsque la décision prescrit une obligation de faire, de s’abstenir ou de tol
 - d. prescrire une mesure de contrainte telle que l’enlèvement d’une chose mobilière ou l’expulsion d’un immeuble;
 - e. ordonner l’exécution de la décision par un tiers.
 
+<sup>1bis</sup> Lorsque la décision prévoit une interdiction au sens de l’art. 28*b* CC[^343-2], le tribunal chargé de statuer sur l’exécution peut ordonner, à la requête du demandeur, une surveillance électronique au sens de l’art. 28*c* CC.[^343-3]
+
 <sup>2</sup> La partie succombante et les tiers sont tenus de fournir tous renseignements utiles et de tolérer les perquisitions nécessaires.
 
 <sup>3</sup> La personne chargée de l’exécution peut requérir l’assistance de l’autorité compétente.
 
 [^343-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^343-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-3]: Introduit par le ch. I 2 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 344
 
@@ -4840,7 +4857,7 @@ La loi du 24 mars 2000 sur les fors[^annex1-lvlu1-lvlI-1] est abrogée.
 
 ### II. Modification du droit en vigueur
 
-...[^annex1-lvlu1-lvlII-1]
+…[^annex1-lvlu1-lvlII-1]
 
 [^annex1-lvlu1-lvlII-1]: Les mod. peuvent être consultées au [RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
@@ -4854,38 +4871,22 @@ Annexe 2
 
 Quel que soit l’ordre dans lequel le code de procédure civile du 19 décembre 2008 (CPC) et la loi du 13 juin 2008 sur la responsabilité civile en matière nucléaire (nouvelle LRCN)*[^annex2-lvlu1-lvl1-1]* entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le CPC est modifié comme suit:
 
-***Art. 5, al. 1, let. e***
+...[^annex2-lvlu1-lvl1-2]
 
-<sup>1</sup>
-
-Le droit cantonal institue la juridiction compétente pour statuer en instance cantonale unique sur:
-
-- e. les litiges relevant de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^annex2-lvlu1-lvl1-2];
-
-#### Art. 38a
-
-**Dommages nucléaires**
-
-<sup>1</sup> Le tribunal du canton où l’événement dommageable est survenu connaît impérativement des actions découlant d’un accident nucléaire.
-
-<sup>2</sup> S’il est impossible de déterminer ce canton avec certitude, le tribunal du canton où se situe l’installation nucléaire de l’exploitant responsable est impérativement compétent.
-
-<sup>3</sup> S’il existe plusieurs fors selon les règles qui précèdent, le tribunal du canton le plus étroitement lié à l’accident et le plus affecté par ses conséquences est impérativement compétent.
-
-[^annex2-lvlu1-lvl1-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); FF **2008** 4845
-[^annex2-lvlu1-lvl1-2]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); FF **2008** 4845
+[^annex2-lvlu1-lvl1-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); en vigueur depuis le 1<sup>er</sup> janv. 2022, publié le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
+[^annex2-lvlu1-lvl1-2]: Les mod. peuvent être consultées au [RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
 ### 2. Coordination du ch. 19 de l’annexe 1 avec la nouvelle LRCN
 
 Quel que soit l’ordre dans lequel le CPC et la nouvelle LRCN*[^annex2-lvlu1-lvl2-1]* entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le ch. 19 de l’annexe 1 CPC est sans objet et la nouvelle LRCN est modifiée selon le ch. 20 de l’annexe 1 CPC.
 
-[^annex2-lvlu1-lvl2-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); FF **2008** 4845
+[^annex2-lvlu1-lvl2-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); en vigueur depuis le 1<sup>er</sup> janv. 2022, publié le 27 janv. 2022 ([RO 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
 
 ### 3. Coordination du code de procédure civile avec la modification du CC du 19 décembre 2008 (Protection de l’adulte, droit des personnes et droit de la filiation)
 
 Quel que soit l’ordre dans lequel le CPC et la modification du CC du 19 décembre 2008 (Protection de l’adulte, droit des personnes et droit de la filiation)*[^annex2-lvlu1-lvl3-1]* entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le CPC est modifié comme suit:
 
-...[^annex2-lvlu1-lvl3-2]
+…[^annex2-lvlu1-lvl3-2]
 
 [^annex2-lvlu1-lvl3-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^annex2-lvlu1-lvl3-2]: Les mod. peuvent être consultées au [RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).

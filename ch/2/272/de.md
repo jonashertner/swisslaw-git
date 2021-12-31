@@ -4,11 +4,11 @@ title: "Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessor
 short: ZPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20210101/de"
 
 (Zivilprozessordnung, ZPO)
 
-vom 19. Dezember 2008 (Stand am 1. Januar 2021)
+vom 19. Dezember 2008 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -81,25 +81,26 @@ Das kantonale Recht bezeichnet das Gericht, welches als einzige kantonale Instan
 - b. kartellrechtliche Streitigkeiten;
 - c. Streitigkeiten über den Gebrauch einer Firma;
 - d. Streitigkeiten nach dem Bundesgesetz vom 19. Dezember 1986[^5-1] gegen den unlauteren Wettbewerb, sofern der Streitwert mehr als 30 000 Franken beträgt oder sofern der Bund sein Klagerecht ausübt;
-- e. Streitigkeiten nach dem Kernenergiehaftpflichtgesetz vom 18. März 1983[^5-2];
+- e.[^5-2] Streitigkeiten nach dem Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^5-3];
 - f. Klagen gegen den Bund;
-- g. die Einsetzung eines Sonderprüfers nach Artikel 697*b* des Obligationenrechts (OR)[^5-3];
-- h.[^5-4] Streitigkeiten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^5-5], nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^5-6] und nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^5-7];
-- i.[^5-8] Streitigkeiten nach dem Wappenschutzgesetz vom 21. Juni 2013[^5-9], dem Bundesgesetz vom 25. März 1954[^5-10] betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes und dem Bundesgesetz vom 15. Dezember 1961[^5-11] zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen.
+- g. die Einsetzung eines Sonderprüfers nach Artikel 697*b* des Obligationenrechts (OR)[^5-4];
+- h.[^5-5] Streitigkeiten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^5-6], nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^5-7] und nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^5-8];
+- i.[^5-9] Streitigkeiten nach dem Wappenschutzgesetz vom 21. Juni 2013[^5-10], dem Bundesgesetz vom 25. März 1954[^5-11] betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes und dem Bundesgesetz vom 15. Dezember 1961[^5-12] zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen.
 
 <sup>2</sup> Diese Instanz ist auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit einer Klage zuständig.
 
 [^5-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^5-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-4]: Fassung gemäss Anhang Ziff. II 4 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-5]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-6]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-7]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-8]: Eingefügt durch Anhang 3 Ziff. II 3 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-9]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-10]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-11]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-2]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 1. Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^5-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^5-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-5]: Fassung gemäss Anhang Ziff. II 4 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-6]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-7]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-8]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-9]: Eingefügt durch Anhang 3 Ziff. II 3 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-10]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-11]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-12]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -414,6 +415,18 @@ Für Schadenersatzklagen wegen ungerechtfertigter vorsorglicher Massnahmen ist d
 <sup>2</sup> Für Klagen gegen das nationale Versicherungsbüro (Art. 74 des Strassenverkehrsgesetzes vom 19. Dez. 1958[^38-1]; SVG) oder gegen den nationalen Garantiefonds (Art. 76 SVG) ist zusätzlich das Gericht am Ort einer Zweigniederlassung dieser Einrichtungen zuständig.
 
 [^38-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+#### Art. 38a
+
+**Nuklearschäden**[^38a-1]
+
+<sup>1</sup> Für Klagen aus nuklearen Ereignissen ist zwingend das Gericht des Kantons zuständig, auf dessen Gebiet das Ereignis eingetreten ist.
+
+<sup>2</sup> Kann dieser Kanton nicht mit Sicherheit bestimmt werden, so ist zwingend das Gericht des Kantons zuständig, in welchem die Kernanlage des haftpflichtigen Inhabers gelegen ist.
+
+<sup>3</sup> Bestehen nach diesen Regeln mehrere Gerichtsstände, so ist zwingend das Gericht des Kantons zuständig, der die engste Verbindung zum Ereignis aufweist und am meisten von seinen Auswirkungen betroffen ist.
+
+[^38a-1]: Eingefügt durch Anhang 2 Ziff. 1, in Kraft seit 1. Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 #### Art. 39
 
@@ -2776,7 +2789,7 @@ Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
   - 3\. Verschollenerklärung (Art. 35–38 ZGB),
   - 4\. Bereinigung einer Eintragung im Zivilstandsregister (Art. 42 ZGB);
 
-- b.[^249-3] ...
+- b.[^249-3] …
 - c.
 
   Erbrecht:
@@ -3508,7 +3521,7 @@ Werden im Unterhaltsvertrag oder im Entscheid Unterhaltsbeiträge festgelegt, so
 
 #### Art. 302
 
-**...[^302-1]**
+**…[^302-1]**
 
 <sup>1</sup>
 
@@ -4042,11 +4055,15 @@ Lautet der Entscheid auf eine Verpflichtung zu einem Tun, Unterlassen oder Dulde
 - d. eine Zwangsmassnahme wie Wegnahme einer beweglichen Sache oder Räumung eines Grundstückes; oder
 - e. eine Ersatzvornahme.
 
+<sup>1bis</sup> Enthält der Entscheid ein Verbot nach Artikel 28*b* ZGB[^343-2], so kann das Vollstreckungsgericht auf Antrag der gesuchstellenden Person eine elektronische Überwachung nach Artikel 28*c* ZGB anordnen.[^343-3]
+
 <sup>2</sup> Die unterlegene Partei und Dritte haben die erforderlichen Auskünfte zu erteilen und die notwendigen Durchsuchungen zu dulden.
 
 <sup>3</sup> Die mit der Vollstreckung betraute Person kann die Hilfe der zuständigen Behörde in Anspruch nehmen.
 
 [^343-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^343-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-3]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Jan. 2022 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 344
 
@@ -4836,7 +4853,7 @@ Das Gerichtsstandsgesetz vom 24. März 2000[^annex1-lvlu1-lvlI-1] wird aufgehobe
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annex1-lvlu1-lvlII-1]
+…[^annex1-lvlu1-lvlII-1]
 
 [^annex1-lvlu1-lvlII-1]: Die Änderungen können unter [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)konsultiert werden.
 
@@ -4850,38 +4867,22 @@ Anhang 2
 
 *Unabhängig davon, ob das Kernenergiehaftpflichtgesetz vom 13. Juni 2008*[^annex2-lvlu1-lvl1-1] *(ne**u**es KHG) oder die Zivilprozessordnung vom 19. Dezember 2008 (ZPO) zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeit**i**gem Inkrafttreten die ZPO wie folgt geändert:*
 
-**Art. 5 Abs. 1 Bst. e**
+…[^annex2-lvlu1-lvl1-2]
 
-<sup>1</sup>
-
-Das kantonale Recht bezeichnet das Gericht, welches als einzige kantonale Instanz zuständig ist für:
-
-- e. Streitigkeiten nach dem Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^annex2-lvlu1-lvl1-2];
-
-***Art. 38a* Nuklearschäden**
-
-<sup>1</sup> Für Klagen aus nuklearen Ereignissen ist zwingend das Gericht des Kantons zuständig, auf dessen Gebiet das Ereignis eingetreten ist.
-
-<sup>2</sup> Kann dieser Kanton nicht mit Sicherheit bestimmt werden, so ist zwingend das Gericht des Kantons zuständig, in welchem die Kernanlage des haftpflichtigen Inhabers gelegen ist.
-
-<sup>3</sup> Bestehen nach diesen Regeln mehrere Gerichtsstände, so ist zwingend das Gericht des Kantons zuständig, der die engste Verbindung zum Ereignis aufweist und am meisten von seinen Auswirkungen betroffen ist.
-
-[^annex2-lvlu1-lvl1-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
-[^annex2-lvlu1-lvl1-2]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
+[^annex2-lvlu1-lvl1-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); in Kraft seit 1. Jan. 2022, publiziert am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
+[^annex2-lvlu1-lvl1-2]: Die Änderungen können unter [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)konsultiert werden.
 
 ### 2. Koordination von Ziffer 19 des Anhangs 1 mit dem neuen KHG
 
 *Unabhängig davon, ob das neue KHG*[^annex2-lvlu1-lvl2-1] *oder die ZPO zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkraf**t**treten Ziffer 19 des Anhangs 1 der ZPO gegenstandslos und das neue KHG wird gemäss Ziffer 20 des Anhangs 1 der ZPO geändert.*
 
-[^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
+[^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); in Kraft seit 1. Jan. 2022, publiziert am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
 
 ### 3. Koordination mit der Änderung vom 19. Dezember 2008 des ZGB (Erwachsenenschutz, Personenrecht und Kindesrecht)
 
 *Unabhängig davon, ob die Änderung vom 19. Dezember 2008*[^annex2-lvlu1-lvl3-1] *des ZGB (Erwac**h**se**nenschutz, Persone**n**recht und Kindesrecht) oder die ZPO zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleich**zei**t**i**gem Inkrafttreten die ZPO wie folgt geändert:*
 
-...[^annex2-lvlu1-lvl3-2]
-
-Inhaltsverzeichnis
+…[^annex2-lvlu1-lvl3-2]
 
 [^annex2-lvlu1-lvl3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^annex2-lvlu1-lvl3-2]: Die Änderungen können unter [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)konsultiert werden.

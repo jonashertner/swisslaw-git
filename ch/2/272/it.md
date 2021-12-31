@@ -4,11 +4,11 @@ title: "Codice di diritto processuale civile svizzero del 19 dicembre 2008 (Codi
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20210101/it"
 
 (Codice di procedura civile, CPC)
 
-del 19 dicembre 2008 (Stato 1° gennaio 2021)
+del 19 dicembre 2008 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -81,25 +81,26 @@ Il diritto cantonale designa il tribunale competente a decidere, in istanza cant
 - b. controversie in materia cartellistica;
 - c. controversie vertenti sull’uso di una ditta commerciale;
 - d. controversie secondo la legge federale del 19 dicembre 1986[^5-1] contro la concorrenza sleale, in quanto il valore litigioso ecceda 30 000 franchi o in quanto la Confederazione eserciti il suo diritto d’azione;
-- e. controversie secondo la legge del 18 marzo 1983[^5-2] sulla responsabilità civile in materia nucleare;
+- e.[^5-2] controversie secondo la legge federale del 13 giugno 2008[^5-3] sulla responsabilità civile in materia nucleare;
 - f. azioni giudiziali contro la Confederazione;
-- g. designazione di un controllore speciale secondo l’articolo 697*b* del Codice delle obbligazioni[^5-3] (CO);
-- h.[^5-4] controversie secondo la legge del 23 giugno 2006[^5-5] sugli investimenti collettivi, la legge del 19 giugno 2015[^5-6] sull’infrastruttura finanziaria e la legge del 15 giugno 2018[^5-7] sugli istituti finanziari;
-- i.[^5-8] controversie secondo la legge del 21 giugno 2013[^5-9] sulla protezione degli stemmi, la legge federale del 25 marzo 1954[^5-10] concernente la protezione dell’emblema e del nome della Croce Rossa e la legge federale del 15 dicembre 1961[^5-11] concernente la protezione dei nomi e degli emblemi dell’Organizzazione delle Nazioni Unite e d’altre organizzazioni intergovernative.
+- g. designazione di un controllore speciale secondo l’articolo 697*b* del Codice delle obbligazioni[^5-4] (CO);
+- h.[^5-5] controversie secondo la legge del 23 giugno 2006[^5-6] sugli investimenti collettivi, la legge del 19 giugno 2015[^5-7] sull’infrastruttura finanziaria e la legge del 15 giugno 2018[^5-8] sugli istituti finanziari;
+- i.[^5-9] controversie secondo la legge del 21 giugno 2013[^5-10] sulla protezione degli stemmi, la legge federale del 25 marzo 1954[^5-11] concernente la protezione dell’emblema e del nome della Croce Rossa e la legge federale del 15 dicembre 1961[^5-12] concernente la protezione dei nomi e degli emblemi dell’Organizzazione delle Nazioni Unite e d’altre organizzazioni intergovernative.
 
 <sup>2</sup> Questo tribunale è parimenti competente per l’emanazione di provvedimenti cautelari prima della pendenza della causa.
 
 [^5-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^5-2]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-4]: Nuovo testo giusta l’all. n. II 4 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-6]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-7]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-8]: Introdotta dall’all. 3 n. II 3 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-9]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-10]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-11]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-2]: Nuovo testo giusta l’all. 2 n. 1, in vigore dal 1° gen. 2022 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); FF **2007** 5397).
+[^5-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); FF **2008** 4673
+[^5-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-5]: Nuovo testo giusta l’all. n. II 4 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-6]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^5-7]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-8]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^5-9]: Introdotta dall’all. 3 n. II 3 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-10]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
+[^5-11]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
+[^5-12]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
 
 #### Art. 6
 
@@ -414,6 +415,18 @@ Per le azioni di risarcimento del danno in caso di provvedimenti cautelari ingiu
 <sup>2</sup> Se l’azione è diretta contro l’Ufficio nazionale di assicurazione (art. 74 della LF del 19 dic. 1958[^38-1] sulla circolazione stradale, LCStr) o contro il Fondo nazionale di garanzia (art. 76 LCStr), oltre al giudice di cui al capoverso 1 è competente anche il giudice del luogo di una delle loro succursali.
 
 [^38-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+
+#### Art. 38a
+
+**Danni nucleari**[^38a-1]
+
+<sup>1</sup> Per le azioni in materia di incidenti nucleari è imperativo il foro del Cantone in cui si è prodotto il sinistro.
+
+<sup>2</sup> Se è impossibile determinare tale Cantone con certezza, è imperativo il foro del Cantone in cui è situato l’impianto nucleare dell’esercente civilmente responsabile.
+
+<sup>3</sup> Se risultano competenti più fori, è imperativo il foro del Cantone che presenta il legame più stretto con il sinistro e ne subisce maggiormente le conseguenze.
+
+[^38a-1]: Introdotto dall’all. 2 n. 1, in vigore dal 1° gen. 2022 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); FF **2007** 5397).
 
 #### Art. 39
 
@@ -734,7 +747,7 @@ Sono autorizzati a esercitare la rappresentanza professionale in giudizio:
 
 <sup>2</sup> Il giudice avvisa l’autorità di protezione degli adulti e quella di protezione dei minori se reputa che si debbano adottare misure protettive.[^69-1]
 
-[^69-1]: Nuovo testo giusta l’all. 2 n. 3 della LF del 19 dic. 2008, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^69-1]: Nuovo testo giusta l’all. 2 n. 3, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### Capitolo 3: Litisconsorzio
 
@@ -1122,7 +1135,7 @@ Il giudice può prescindere dai principi di ripartizione e ripartire le spese gi
 - e. la causa è stralciata dal ruolo in quanto priva di oggetto e la legge non prevede altrimenti;
 - f. altre circostanze speciali fanno apparire iniqua una ripartizione secondo l’esito della procedura.
 
-<sup>1bis</sup> In caso di reiezione di un’azione in materia di diritto societario volta a ottenere una prestazione a favore della società, il giudice può ripartire le spese giudiziarie secondo equità tra la società e l’attore.[^107-1]
+<sup>1</sup> <sup>bis</sup> In caso di reiezione di un’azione in materia di diritto societario volta a ottenere una prestazione a favore della società, il giudice può ripartire le spese giudiziarie secondo equità tra la società e l’attore.[^107-1]
 
 <sup>2</sup> Per motivi d’equità, le spese processuali non causate né da una parte né da terzi possono essere poste a carico del Cantone.
 
@@ -1772,7 +1785,7 @@ Possono rifiutarsi di prestare qualsivoglia cooperazione:
 
 <sup>3</sup> I fratellastri e sorellastre sono equiparati ai fratelli e sorelle.
 
-[^165-1]: Nuovo testo giusta l’all. 2 n. 3 della LF del 19 dic. 2008, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^165-1]: Nuovo testo giusta l’all. 2 n. 3, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 166
 
@@ -2774,7 +2787,7 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
   - 3\. dichiarazione di scomparsa (art. 35–38 CC),
   - 4\. rettificazione di un’iscrizione nel registro dello stato civile (art. 42 CC);[^249-1]
 
-- b.[^249-2] ...
+- b.[^249-2] …
 - c.
 
   diritto successorio:
@@ -2799,8 +2812,8 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
   - 10\.[^249-4] annullamento di cartelle ipotecarie (art. 856 e 865 CC),
   - 11\. annotazione di restrizioni della facoltà di disporre e iscrizioni provvisorie, se contenziose (art. 960 cpv. 1 n. 1, 961 cpv. 1 n. 1 e 966 cpv. 2 CC).
 
-[^249-1]: Nuovo testo giusta l’all. 2 n. 3 della LF del 19 dic. 2008, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^249-2]: Abrogata dall’all. 2 n. 3 della LF del 19 dic. 2008, con effetto dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^249-1]: Nuovo testo giusta l’all. 2 n. 3, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^249-2]: Abrogata dall’all. 2 n. 3, con effetto dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^249-3]: Nuovo testo giusta il n. II 3 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 [^249-4]: Nuovo testo giusta il n. II 3 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -3443,7 +3456,7 @@ Il giudice esamina se occorra disporre una rappresentanza in particolare nei seg
 <sup>3</sup> La rappresentanza è ordinata in ogni caso se il figlio capace di discernimento la chiede. Il figlio può interporre reclamo contro il diniego di istituirla.
 
 [^299-1]: Nuovo testo giusta l’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^299-2]: Nuovo testo giusta l’all. 2 n. 3 della LF del 19 dic. 2008, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^299-2]: Nuovo testo giusta l’all. 2 n. 3, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^299-3]: Nuovo testo giusta l’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
 #### Art. 300
@@ -3503,7 +3516,7 @@ Il contratto di mantenimento o la decisione che fissa contributi di mantenimento
 
 #### Art. 302
 
-**...[^302-1]**
+**…[^302-1]**
 
 <sup>1</sup>
 
@@ -4797,11 +4810,11 @@ Nei procedimenti pendenti al momento dell’entrata in vigore della modifica del
 
 <sup>2</sup> Le parti possono presentare nuove conclusioni sulle questioni toccate dal cambiamento del diritto applicabile; i punti della sentenza che non sono stati impugnati rimangono vincolanti, a meno che siano così strettamente connessi con le conclusioni non ancora giudicate da giustificare una decisione complessiva.
 
-## Capitolo 5:**** Disposizione transitoria della modifica del 14 dicembre 2018
+### Capitolo 5:**** Disposizione transitoria della modifica del 14 dicembre 2018
 
-[^chap5-1]
+[^part4-tit3-chap5-1]
 
-[^chap5-1]: Introdotto dal n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^part4-tit3-chap5-1]: Introdotto dal n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 407d
 
@@ -4835,7 +4848,7 @@ La legge del 24 marzo 2000[^annex1-lvlu1-lvlI-1] sul foro è abrogata.
 
 Le leggi federali qui appresso sono modificate come segue:
 
-...[^annex1-lvlu1-lvlII-1]
+…[^annex1-lvlu1-lvlII-1]
 
 [^annex1-lvlu1-lvlII-1]: Le mod. possono essere consultate alla [RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
@@ -4849,36 +4862,22 @@ Allegato 2
 
 *Indipendentemente dal fatto che entri prima in vigore la legge federale del 13 gi**u**gno 2008*[^annex2-lvlu1-lvl1-1] *sulla responsabilità civile in materia nucleare (nuova LRCN) o il Codice di procedura civile del 19 dicembre 2008* *(CPC), alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il CPC sarà modif**i**cato come segue:*
 
-**Art. 5 cpv. 1 lett. e**
+… [^annex2-lvlu1-lvl1-2]
 
-<sup>1</sup>
-
-Il diritto cantonale designa il tribunale competente a decidere, in istanza cantonale unica, nei seguenti ambiti:
-
-- e. controversie secondo la legge federale del 13 giugno 2008[^annex2-lvlu1-lvl1-2] sulla responsabilità civile in materia nucleare;
-
-**Art. 38a Danni nucleari**
-
-<sup>1</sup> Per le azioni in materia di incidenti nucleari è imperativo il foro del Cantone in cui si è prodotto il sinistro.
-
-<sup>2</sup> Se è impossibile determinare tale Cantone con certezza, è imperativo il foro del Cantone in cui è situato l’impianto nucleare dell’esercente civilmente responsabile.
-
-<sup>3</sup> Se risultano competenti più fori, è imperativo il foro del Cantone che presenta il legame più stretto con il sinistro e ne subisce maggiormente le conseguenze.
-
-[^annex2-lvlu1-lvl1-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [FF 2008 4671](https://fedlex.data.admin.ch/eli/fga/2008/954)
-[^annex2-lvlu1-lvl1-2]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [FF 2008 4671](https://fedlex.data.admin.ch/eli/fga/2008/954)
+[^annex2-lvlu1-lvl1-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43). In vigore dal 1° gen. 2022; [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43), pubblicata il 27 gen. 2022.
+[^annex2-lvlu1-lvl1-2]: Le mod. possono essere consultate alla [RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
 ### 2. Coordinamento del numero 19 dell’allegato 1 CPC con la nuova LRCN
 
 *Indipendentemente dal fatto che entri prima in vigore la nuova LRCN*[^annex2-lvlu1-lvl2-1] *o il CPC, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il numero 19 dell’allegato 1 CPC diverrà privo d’oggetto e la nuova LRCN risulterà modificata conformemente al numero 20 dell’allegato 1 CPC.*
 
-[^annex2-lvlu1-lvl2-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [FF 2008 4671](https://fedlex.data.admin.ch/eli/fga/2008/954)
+[^annex2-lvlu1-lvl2-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43). In vigore dal 1° gen. 2022; [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43), pubblicata il 27 gen. 2022.
 
 ### 3. Coordinamento con la modifica del CC del 19 dicembre 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione)
 
 *Indipendentemente dal fatto che entri prima in vigore la modifica del CC del 19 dicembre 2008*[^annex2-lvlu1-lvl3-1] *(Protezione degli adulti, diritto delle persone e diritto della filiazi**o**ne) o il CPC, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il CPC sarà modificato come segue:*
 
-... [^annex2-lvlu1-lvl3-2]
+… [^annex2-lvlu1-lvl3-2]
 
 [^annex2-lvlu1-lvl3-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^annex2-lvlu1-lvl3-2]: Le mod. possono essere consultate alla [RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).

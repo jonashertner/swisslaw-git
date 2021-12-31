@@ -4,11 +4,11 @@ title: "Swiss Civil Procedure Code of 19 December 2008 (Civil Procedure Code, CP
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20220101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Civil Procedure Code, CPC)
 
-of 19 December 2008 (Status as of 1 January 2021)
+of 19 December 2008 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1210,7 +1210,7 @@ In litigation proceedings, no court costs are charged in disputes:
 - c. relating to an employment contract or the Recruitment Act of 6 October 1989[^114-3] up to an amount in dispute of 30,000 francs;
 - d. relating to the Participation Act of 17 December 1993[^114-4];
 - e. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[^114-5] on Health Insurance;
-- f.[^114-6] because of violence, threats or harassment under Article 28*b* SCC[^114-7] or relating to electronic surveillance under Article 28*c* SCC.
+- f.[^114-6] because of violence, threats or harassment under Article 28*b* CC[^114-7] or relating to electronic monitoring under Article 28*c* CC.
 
 [^114-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
 [^114-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
@@ -1226,7 +1226,7 @@ In litigation proceedings, no court costs are charged in disputes:
 
 <sup>1</sup> Court costs may also be charged in cost-free proceedings to a party who proceeds in a vexatious manner or in bad faith.
 
-<sup>2</sup> In the case of litigation relating to Article 114 letter f, court costs may also be charged to the unsuccessful party if a prohibition pursuant to Article 28*b* SCC[^115-1] or electronic surveillance pursuant to Article 28*c* SCC is ordered against them.[^115-2]
+<sup>2</sup> In the case of litigation relating to Article 114 letter f, court costs may also be charged to the unsuccessful party if an injunction pursuant to Article 28*b* CC[^115-1] or electronic monitoring pursuant to Article 28*c* CC is ordered against them.[^115-2]
 
 [^115-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^115-2]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
@@ -1786,7 +1786,7 @@ The following persons have the right to refuse to cooperate:
 Any third party may refuse to cooperate:
 
 - a. in establishing facts that would expose him or her or a close associate as defined in Article 165 to criminal prosecution or civil liability;
-- b. to the extent that the revelation of a secret would be punishable by virtue of Article 321 SCC[^166-1]; auditors excepted; however, with the exception of lawyers and clerics, third parties must cooperate if they are subject to a disclosure duty or if they have been released from duty of secrecy, unless they show credibly that the interest in keeping the secret takes precedence over the interest in finding the truth;
+- b. to the extent that the revelation of a secret would be an offence by virtue of Article 321 SCC[^166-1]; auditors excepted; however, with the exception of lawyers and clerics, third parties must cooperate if they are subject to a disclosure duty or if they have been released from duty of secrecy, unless they show credibly that the interest in keeping the secret takes precedence over the interest in finding the truth;
 - c. in establishing facts that have been confided in him or her in his or her official capacity as public official as defined in Article 110 paragraph 3[^166-2] SCC or as a member of a public authority, or facts that have come to his or her attention in exercising his or her office; he or she must cooperate if he or she is subject to a disclosure duty or if he or she has been authorised to testify by his or her superior authority;
 - d.[^166-3] when asked to testify as an ombudsperson, marriage or family counsellor or mediator on facts that have come to his or her attention in the course of his or her activities;
 - e. when asked in his or her capacity as professional or auxiliary person engaged in the publication of information in the editorial part of a periodical to reveal the identity of the author or the content or source of his or her information.
@@ -2115,7 +2115,7 @@ Litigation shall be preceded by an attempt at conciliation before a conciliation
 Conciliation proceedings are not held:
 
 - a. in summary proceedings;
-- a<sup>bis</sup>.[^198-1] in proceedings on violence, threats or harassment relating to Article 28*b* SCC[^198-2] or on electronic surveillance relating to Article 28*c* SCC;
+- a<sup>bis</sup>.[^198-1] in proceedings on violence, threats or harassment pursuant to Article 28*b* CC[^198-2] or on electronic monitoring pursuant to Article 28*c* CC;
 - b. in proceedings on civil status;
 - b<sup>bis</sup>.[^198-3] in proceedings on child maintenance and other child-related issues if a parent has requested the child protection authority to intervene before the proceedings (Art. 298*b* and 298*d* CC[^198-4]);
 - c. in divorce proceedings;
@@ -2673,7 +2673,7 @@ If for any other reasons the proceedings end without a decision, the proceedings
 They apply regardless of the amount in dispute in the case of:[^243-1]
 
 - a. disputes under the Gender Equality Act of 24 March 1995[^243-2];
-- b.[^243-3] disputes concerning violence, threats or stalking under Article 28*b* SCC[^243-4] or concerning electronic surveillance in relation to Article 28*c* SCC;
+- b.[^243-3] disputes concerning violence, threats or stalking pursuant to Article 28*b* CC[^243-4] or concerning electronic monitoring pursuant to Article 28*c* CC;
 - c. disputes concerning the tenancy and lease of residential and business property or the lease of agricultural property if they concern the deposit of rent, protection against abusive rent, protection against termination, or the extension of the rental relationship;
 - d. disputes concerning the right of access to personal data provided by the Federal Act of 19 June 1992[^243-5] on Data Protection;
 - e. disputes concerning the Participation Act of 17 December 1993[^243-6];
@@ -4044,11 +4044,15 @@ If the decision provides for an obligation to act, refrain from acting or to tol
 - d. order a compulsory measure such as taking away a movable item or vacating immovable property; or
 - e. order performance by a third party.
 
+<sup>1bis</sup> If the decision contains an injunction under Article 28*b* CC[^343-2], the enforcement court may at the request of the applicant order electronic monitoring in accordance with Article 28*c* CC.[^343-3]
+
 <sup>2</sup> The unsuccessful party and third parties must provide the required information and tolerate the required searches.
 
 <sup>3</sup> The person entrusted with enforcement may request the assistance of the competent authorities.
 
 [^343-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^343-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-3]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 Jan. 2022 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 344
 
@@ -4317,9 +4321,7 @@ A member of the arbitral tribunal may be challenged:
 - b. if there is a ground for challenge in accordance with the rules of arbitration adopted by the parties; or
 - c. if there is reasonable doubt as to his or her independence or impartiality.
 
-<sup>2</sup> A party may challenge an arbitrator whom that party has appointed or in whose appointment that party has participated only if the grounds for the challenge came to the attention of the party concerned after the appointment despite exercising due diligence.[^367-1] Notice of the reason for the challenge must be given to the arbitral tribunal and the opposing party immediately.
-
-[^367-1]: Amended by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+<sup>2</sup> A party may challenge an arbitrator whom that party has appointed or in whose appointment that party has participated only if the grounds for the challenge came to the attention of the party concerned after the appointment despite exercising due diligence. Notice of the reason for the challenge must be given to the arbitral tribunal and the opposing party immediately.
 
 #### Art. 368
 
