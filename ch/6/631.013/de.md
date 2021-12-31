@@ -4,29 +4,31 @@ title: Zollverordnung des BAZG vom 4. April 2007 (ZV-BAZG)
 short: ZV-BAZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/253"
 language: de
-version: 2018-12-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/253/20181201/de/xml/fedlex-data-admin-ch-eli-cc-2007-253-20181201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/253/20181201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/253/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-253-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/253/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Zollverordnung der EZV
+# Zollverordnung des BAZG
 
-(ZV-EZV)
+(ZV-BAZG)[^t-1]
 
-vom 4. April 2007 (Stand am 1. Dezember 2018)
+vom 4. April 2007 (Stand am 1. Januar 2022)
 
-Die Eidgenössische Zollverwaltung (EZV),
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG),
 
 gestützt auf die Artikel 24 Absatz 4, 25 Absatz 3, 28 Absatz 2, 29 Absatz 1, 33 Absatz 2, 40 Absätze 1 und 3, 56 Absatz 1, 66 Absatz 1, 71, 73 Absatz 3 und 100 Absatz 2 des Zollgesetzes vom 18. März 2005[^ingress-1] (ZG) und in Ausführung der Zollverordnung vom 1. November 2006[^ingress-2] (ZV),
 
 verordnet:
 
-[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## 1. Titel: Zollpflicht
 
@@ -64,7 +66,7 @@ Die Kosten für die Vernichtung von Waren im Zollgebiet trägt die Gesuchsteller
 
 <sup>1</sup> Die summarische Anmeldung muss in Papierform oder elektronisch erfolgen. Ausgenommen davon sind Waren des Reiseverkehrs.
 
-<sup>2</sup> …[^3-1]
+<sup>2</sup> ...[^3-1]
 
 [^3-1]: Aufgehoben durch Ziff. I der V der EZV vom 18. Okt. 2018, mit Wirkung seit 1. Dez. 2018 ([AS 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
 
@@ -99,7 +101,7 @@ Die anmeldepflichtige Person darf Waren bei der Zollstelle anmelden:
 
 ### 2. Kapitel: Form der Zollanmeldung
 
-### 1. Abschnitt:**** Allgemeine Bestimmungen
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 [^tit2-chap2-sec1-1]
 
@@ -154,7 +156,7 @@ Die summarische Ein- und Ausgangsanmeldung zu Sicherheitszwecken erfolgt elektro
 
 Die Zollanmeldung erfolgt in einer Amtssprache des Bundes.
 
-### 2. Abschnitt:**** Elektronische Zollanmeldung mit den Systemen «e-dec» und «NCTS»****
+### 2. Abschnitt: Elektronische Zollanmeldung mit den Systemen «e-dec» und «NCTS»
 
 [^tit2-chap2-sec2-1][^tit2-chap2-sec2-2]
 
@@ -169,7 +171,7 @@ Die Zollanmeldung erfolgt in einer Amtssprache des Bundes.
 
 <sup>1</sup>
 
-Die Oberzolldirektion (OZD) gewährt einer anmeldepflichtigen Person für die elektronische Zollanmeldung die Verwendung des Systems «e-dec», des Systems «NCTS» oder beider Systeme auf schriftliches Gesuch hin, wenn diese Person:
+Die Oberzolldirektion gewährt einer anmeldepflichtigen Person für die elektronische Zollanmeldung die Verwendung des Systems «e-dec», des Systems «NCTS» oder beider Systeme auf schriftliches Gesuch hin, wenn diese Person:
 
 - a. Sitz oder Wohnsitz im Zollgebiet hat;
 - b. über die erforderliche Informatikausrüstung verfügt;
@@ -178,23 +180,23 @@ Die Oberzolldirektion (OZD) gewährt einer anmeldepflichtigen Person für die el
 
 <sup>2</sup>
 
-Einer anmeldepflichtigen Person mit Sitz oder Wohnsitz im grenznahen Raum des Zollauslands kann die OZD die Verwendung des Systems «e-dec» zur Einfuhrzollanmeldung gewähren, wenn die Person die Voraussetzungen nach Absatz 1 Buchstaben b–d erfüllt und:
+Einer anmeldepflichtigen Person mit Sitz oder Wohnsitz im grenznahen Raum des Zollauslands kann das BAZG die Verwendung des Systems «e-dec» zur Einfuhrzollanmeldung gewähren, wenn die Person die Voraussetzungen nach Absatz 1 Buchstaben b–d erfüllt und:
 
 - a. über ein Zustelldomizil im Zollgebiet verfügt; und
-- b. dafür sorgt, dass die EZV auf die nach den Artikeln 94–98 ZV aufzubewahrenden Daten und Dokumente vom Zollgebiet aus zugreifen kann.
+- b. dafür sorgt, dass das BAZG auf die nach den Artikeln 94–98 ZV aufzubewahrenden Daten und Dokumente vom Zollgebiet aus zugreifen kann.
 
 <sup>3</sup>
 
-Einer anmeldepflichtigen Person mit Sitz oder Wohnsitz im Zollausland kann die OZD die Verwendung des Systems «e-dec» und des Anwendungsbereichs Ausfuhr des Systems «NCTS» zur Ausfuhrzollanmeldung gewähren, wenn die Person die Voraussetzungen nach Absatz 1 Buchstaben b und d erfüllt und:
+Einer anmeldepflichtigen Person mit Sitz oder Wohnsitz im Zollausland kann das BAZG die Verwendung des Systems «e-dec» und des Anwendungsbereichs Ausfuhr des Systems «NCTS» zur Ausfuhrzollanmeldung gewähren, wenn die Person die Voraussetzungen nach Absatz 1 Buchstaben b und d erfüllt und:
 
 - a. auf dem Gelände nebeneinanderliegender Grenzabfertigungsstellen über Büroräumlichkeiten verfügt; und
-- b. dafür sorgt, dass die EZV auf die nach den Artikeln 94–98 ZV aufzubewahrenden Daten und Dokumente vom Zollgebiet aus zugreifen kann.
+- b. dafür sorgt, dass das BAZG auf die nach den Artikeln 94–98 ZV aufzubewahrenden Daten und Dokumente vom Zollgebiet aus zugreifen kann.
 
-<sup>4</sup> Gewährt die OZD einer anmeldepflichtigen Person für die Zollanmeldung die Verwendung des Systems «e-dec», des Systems «NCTS» oder beider Systeme, so muss die Person die zugeführten, gestellten und summarisch angemeldeten Waren über das betreffende System anmelden. Andere Anmeldeformen sind nur zulässig, wenn die EZV die Zollanmeldung über diese Systeme nicht anbieten kann.
+<sup>4</sup> Gewährt das BAZG einer anmeldepflichtigen Person für die Zollanmeldung die Verwendung des Systems «e-dec», des Systems «NCTS» oder beider Systeme, so muss die Person die zugeführten, gestellten und summarisch angemeldeten Waren über das betreffende System anmelden. Andere Anmeldeformen sind nur zulässig, wenn das BAZG die Zollanmeldung über diese Systeme nicht anbieten kann.
 
 <sup>5</sup> Für Transitzollanmeldungen ist Absatz 1 Buchstabe a nicht anwendbar.
 
-<sup>6</sup> Die OZD entscheidet spätestens 10 Tage nach Erhalt der vollständigen Unterlagen, ob sie das Gesuch bewilligt, und teilt der anmeldepflichtigen Person gegebenenfalls eine Firmennummer zu.[^8-2]
+<sup>6</sup> Das BAZG entscheidet spätestens 10 Tage nach Erhalt der vollständigen Unterlagen, ob sie das Gesuch bewilligt, und teilt der anmeldepflichtigen Person gegebenenfalls eine Firmennummer zu.[^8-2]
 
 [^8-1]: Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^8-2]: Fassung gemäss Ziff. I der V der EZV vom 23. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
@@ -205,11 +207,11 @@ Einer anmeldepflichtigen Person mit Sitz oder Wohnsitz im Zollausland kann die O
 
 ### (Art. 28 Abs. 2 ZG)
 
-Die EZV entzieht die Zulassung zur Verwendung des Systems «e-dec», des Systems «NCTS» beziehungsweise beider Systeme, wenn die Person:[^9-2]
+Das BAZG entzieht die Zulassung zur Verwendung des Systems «e-dec», des Systems «NCTS» beziehungsweise beider Systeme, wenn die Person:[^9-2]
 
 - a. die Voraussetzungen für die Zulassung nicht mehr erfüllt;
 - b. die an die Zulassung geknüpften Bedingungen und Auflagen nicht einhält; oder
-- c.[^9-3] eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug der EZV obliegt.
+- c.[^9-3] eine schwere Widerhandlung oder wiederholt Widerhandlungen gegen Bundesrecht begeht, soweit dessen Vollzug dem BAZG obliegt.
 
 [^9-1]: Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^9-2]: Fassung gemäss Ziff. I der V der EZV vom 18. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
@@ -221,9 +223,9 @@ Die EZV entzieht die Zulassung zur Verwendung des Systems «e-dec», des Systems
 
 ### (Art. 28 Abs. 2 und 109 Abs. 1 ZG)
 
-<sup>1</sup> Die anmeldepflichtige Person muss der OZD die Mitarbeiterinnen und Mitarbeiter, die zum Ausstellen von Zollanmeldungen mit den Systemen «e-dec» und «NCTS» berechtigt sind, sowie die ihnen zugeteilten Personennummern melden.
+<sup>1</sup> Die anmeldepflichtige Person muss das BAZG die Mitarbeiterinnen und Mitarbeiter, die zum Ausstellen von Zollanmeldungen mit den Systemen «e-dec» und «NCTS» berechtigt sind, sowie die ihnen zugeteilten Personennummern melden.
 
-<sup>2</sup> Sie muss Änderungen unverzüglich der OZD melden.
+<sup>2</sup> Sie muss Änderungen unverzüglich das BAZG melden.
 
 [^10-1]: Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 
@@ -243,11 +245,11 @@ Personen, die Zollanmeldungen mit den Systemen «e-dec» und «NCTS» ausstellen
 
 ### (Art. 28 Abs. 2 ZG)
 
-<sup>1</sup> Die OZD teilt der anmeldepflichtigen Person mit, an welche elektronische Adresse sie die Daten übermitteln muss.
+<sup>1</sup> Das BAZG teilt der anmeldepflichtigen Person mit, an welche elektronische Adresse sie die Daten übermitteln muss.
 
 <sup>2</sup> Sie gibt ihr die technischen Angaben bekannt, die sie für eine sichere Übermittlung der Daten an die Systeme «e-dec» und «NCTS» benötigt.[^12-1]
 
-<sup>3</sup> Die anmeldepflichtige Person hat keinen Zugriff auf die elektronisch gespeicherten Daten der EZV.
+<sup>3</sup> Die anmeldepflichtige Person hat keinen Zugriff auf die elektronisch gespeicherten Daten des BAZG.
 
 <sup>4</sup> Solange das System «e-dec» beziehungsweise das System «NCTS» den Eingang der Daten nicht bestätigt hat, gilt die elektronische Zollanmeldung als nicht eingereicht.[^12-2]
 
@@ -260,9 +262,9 @@ Personen, die Zollanmeldungen mit den Systemen «e-dec» und «NCTS» ausstellen
 
 ### (Art. 28 Abs. 2 ZG)
 
-Die EZV haftet nicht:
+Das BAZG haftet nicht:
 
-- a. für die Auswirkungen technischer Störungen, soweit die Störung nicht auf Grobfahrlässigkeit seitens der EZV zurückzuführen ist; oder
+- a. für die Auswirkungen technischer Störungen, soweit die Störung nicht auf Grobfahrlässigkeit seitens des BAZG zurückzuführen ist; oder
 - b. für indirekte Schäden und Folgeschäden im Zusammenhang mit der elektronischen Datenverarbeitung.
 
 #### Art. 14
@@ -271,9 +273,9 @@ Die EZV haftet nicht:
 
 ### (Art. 28 Abs. 2 ZG)
 
-<sup>1</sup> Die anmeldepflichtige Person muss ihre Informatikausrüstung in einem den Anforderungen der EZV entsprechenden Zustand halten.
+<sup>1</sup> Die anmeldepflichtige Person muss ihre Informatikausrüstung in einem den Anforderungen des BAZG entsprechenden Zustand halten.
 
-<sup>2</sup> Die OZD meldet der anmeldepflichtigen Person frühzeitig Änderungen der Systeme «e-dec» und «NCTS». Diese muss die Änderungen fristgerecht umsetzen.[^14-2]
+<sup>2</sup> Das BAZG meldet der anmeldepflichtigen Person frühzeitig Änderungen der Systeme «e-dec» und «NCTS». Diese muss die Änderungen fristgerecht umsetzen.[^14-2]
 
 [^14-1]: Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^14-2]: Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
@@ -315,7 +317,7 @@ Die Zollanmeldung gilt als angenommen, wenn sie die summarische Prüfung des Sys
 
 <sup>3</sup> Lautet das Selektionsergebnis «frei mit», so muss die anmeldepflichtige Person der Zollstelle einen Ausdruck der Zollanmeldung und die erforderlichen Begleitdokumente vorlegen. Die Waren gelten als freigegeben.
 
-<sup>4</sup> Lautet das Selektionsergebnis «frei ohne» oder «frei ohne / mit NZE», so muss die anmeldepflichtige Person der Zollstelle allfällige Transitdokumente und Bewilligungen sowie allfällige Zeugnisse oder Bescheinigungen, die für den Vollzug der nichtzollrechtlichen Erlasse des Bundes erforderlich sind, vorlegen. Die Waren gelten für die EZV als freigegeben.[^17-3]
+<sup>4</sup> Lautet das Selektionsergebnis «frei ohne» oder «frei ohne / mit NZE», so muss die anmeldepflichtige Person der Zollstelle allfällige Transitdokumente und Bewilligungen sowie allfällige Zeugnisse oder Bescheinigungen, die für den Vollzug der nichtzollrechtlichen Erlasse des Bundes erforderlich sind, vorlegen. Die Waren gelten für das BAZG als freigegeben.[^17-3]
 
 <sup>5</sup>
 
@@ -409,7 +411,7 @@ Beim Selektionsergebnis «gesperrt» muss die anmeldepflichtige Person die Dokum
 
 <sup>2</sup> Die anmeldepflichtige Person muss die berichtigte oder ergänzte Zollanmeldung spätestens am zehnten Arbeitstag nach der Zurückweisung erneut vorlegen. In begründeten Fällen kann die Zollstelle diese Frist verlängern.[^20-1]
 
-<sup>3</sup> <sup>3</sup> Reicht die anmeldepflichtige Person die berichtigte oder ergänzte Zollanmeldung nicht fristgerecht ein, so kann die Zollstelle die Waren von Amtes wegen veranlagen. Bei der Einfuhr wendet sie dabei den höchsten Zollansatz und die höchsten Bemessungsgrundlagen an, die für die betreffenden Waren anwendbar sind.[^20-2]
+<sup>3<sup>3</sup></sup> Reicht die anmeldepflichtige Person die berichtigte oder ergänzte Zollanmeldung nicht fristgerecht ein, so kann die Zollstelle die Waren von Amtes wegen veranlagen. Bei der Einfuhr wendet sie dabei den höchsten Zollansatz und die höchsten Bemessungsgrundlagen an, die für die betreffenden Waren anwendbar sind.[^20-2]
 
 [^20-1]: Fassung gemäss Ziff. I der V der EZV vom 10. April 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2119](https://fedlex.data.admin.ch/eli/oc/2008/306)).
 [^20-2]: Fassung gemäss Ziff. I der V der EZV vom 23. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
@@ -422,9 +424,9 @@ Beim Selektionsergebnis «gesperrt» muss die anmeldepflichtige Person die Dokum
 
 <sup>1</sup> Die Veranlagungsverfügung wird auf dem System «e-dec» beziehungsweise dem System «NCTS» aufgeschaltet und gilt ab diesem Zeitpunkt als eröffnet. Sobald die anmeldepflichtige Person die Veranlagungsverfügung herunterlädt, wird dies im betreffenden System festgehalten.
 
-<sup>2</sup> …[^20a-2]
+<sup>2</sup> ...[^20a-2]
 
-<sup>3</sup> Im Anwendungsbereich Ausfuhr des Systems «NCTS/Ausfuhr» wird die Veranlagungsverfügung durch die Zollverwaltung in Papierform ausgestellt.
+<sup>3</sup> Im Anwendungsbereich Ausfuhr des Systems «NCTS/Ausfuhr» wird die Veranlagungsverfügung durch das BAZG in Papierform ausgestellt.
 
 [^20a-1]: Eingefügt durch Ziff. I der V der EZV vom 27. Febr. 2009 ([AS 2009 1147](https://fedlex.data.admin.ch/eli/oc/2009/187)). Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^20a-2]: Aufgehoben durch Ziff. I der V der EZV vom 18. Okt. 2018, mit Wirkung seit 1. Dez. 2018 ([AS 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
@@ -441,7 +443,7 @@ Beim Selektionsergebnis «gesperrt» muss die anmeldepflichtige Person die Dokum
 
 [^20b-1]: Eingefügt durch Ziff. I der V der EZV vom 27. Febr. 2009 ([AS 2009 1147](https://fedlex.data.admin.ch/eli/oc/2009/187)). Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 
-### 3. Abschnitt:**** Elektronische Zollanmeldung über die Internetapplikation «e-dec web»
+### 3. Abschnitt: Elektronische Zollanmeldung über die Internetapplikation «e-dec web»
 
 [^tit2-chap2-sec3-1]
 
@@ -469,7 +471,7 @@ Wer für die Zollanmeldung nicht die Systeme «e-dec» und «NCTS» verwendet, m
 
 <sup>4</sup> Die Veranlagungsverfügung wird auf der Internetapplikation «e-dec web» aufgeschaltet. Artikel 20*b* gilt sinngemäss.
 
-### 3*a*. Abschnitt:**** Elektronische Anmeldung und elektronische Zollanmeldung über einen Anmeldeautomaten
+### 3*a*. Abschnitt: Elektronische Anmeldung und elektronische Zollanmeldung über einen Anmeldeautomaten
 
 [^tit2-chap2-sec3a-1]
 
@@ -504,10 +506,10 @@ Die elektronische Anmeldung und die elektronische Zollanmeldung über einen Anme
 
 <sup>2</sup> Die Waren nach Absatz 1 Buchstaben a−c dürfen nur mit einem zum Strassenverkehr zugelassenen Beförderungsmittel nach Artikel 25 Absatz 1 Buchstabe b, e oder f ins Zollgebiet verbracht werden.
 
-[^20e-1]: [SR 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
-[^20e-2]: [SR 0.631.252.512](https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281)
-[^20e-3]: [SR 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
-[^20e-4]: [SR 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^20e-1]: [SR 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
+[^20e-2]: [SR 0.631.252.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2062)
+[^20e-3]: [SR 0.631.244.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2053)
+[^20e-4]: [SR 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
 
 #### Art. 20f
 
@@ -536,7 +538,7 @@ Sie erhält vom Anmeldeautomaten:
 
 Für Waren nach Artikel 20*e* Absatz 1 Buchstabe a Ziffer 1 und für Beförderungsmittel nach Artikel 20*e* Absatz 1 Buchstabe d gilt die Zollanmeldung als angenommen, wenn der Anmeldeautomat den Eingang der Daten bestätigt.
 
-### 4. Abschnitt: Zollanmeldung in Papierform****
+### 4. Abschnitt: Zollanmeldung in Papierform
 
 [^tit2-chap2-sec4-1]
 
@@ -575,16 +577,16 @@ Die Zollanmeldung in Papierform ist zulässig:
   - 19\. Waren aus den Freizonen Hochsavoyen und der Landschaft Gex, sofern sie über eine Bewilligung der Zollkreisdirektion Genf verfügen,
   - 20\. anderen Waren in geringen Mengen, sofern sie keinen Abgaben unterliegen und nicht für den Handel bestimmt sind;
 
-- b.[^21-4] …
+- b.[^21-4] ...
 - c. bei der Überführung von Waren in das Verfahren der vorübergehenden Verwendung (Art. 58 ZG);
 - d. bei der Überführung von Waren in das Verfahren der aktiven Veredelung nach dem vereinfachten Nichterhebungs- und Rückerstattungsverfahren (Art. 59 ZG; Art. 168 Abs. 3 ZV);
 - e.[^21-5] bei der Überführung in das Ausfuhrverfahren (Art. 61 ZG) von Waren nach Buchstabe a, mit Ausnahme der Ziffern 7–9, 15, 16 und 19;
 - f. bei der Überführung in das Ausfuhrverfahren (Art. 61 ZG) von Tabakfabrikaten mit Rückerstattung oder Aussetzung der Tabaksteuer;
-- g. mit Ausnahmebewilligung der OZD oder der Zollkreisdirektion in besonderen Einzelfällen.
+- g. mit Ausnahmebewilligung des BAZG oder der Zollkreisdirektion in besonderen Einzelfällen.
 
 [^21-1]: Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^21-2]: Fassung gemäss Ziff. I der V der EZV vom 23. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
-[^21-3]: [SR 631.011](https://fedlex.data.admin.ch/eli/cc/2007/251)
+[^21-3]: [SR 631.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7814)
 [^21-4]: Aufgehoben durch Ziff. I der V der EZV vom 25. Febr. 2015, mit Wirkung seit 1. Mai 2015 ([AS 2015 853](https://fedlex.data.admin.ch/eli/oc/2015/161)).
 [^21-5]: Fassung gemäss Ziff. I der V der EZV vom 23. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
 
@@ -604,7 +606,7 @@ Die Zollanmeldung in Papierform ist zulässig:
 
 #### Art. 23
 
-**Ausfüllen der Zollanmeldung durch die EZV**
+**Ausfüllen der Zollanmeldung durch das BAZG**
 
 ### (Art. 28 Abs. 1 Bst. b ZG)
 
@@ -618,7 +620,7 @@ Die Zollanmeldung in Papierform ist zulässig:
 
 ### (Art. 28 Abs. 1 Bst. b ZG)
 
-Wer Waren des Reiseverkehrs einführt, hat die Zollanmeldung in einer von der EZV zugelassenen Anmeldebox zu deponieren, falls die mündliche Zollanmeldung oder die Zollanmeldung durch eine andere Form der Willensäusserung nicht möglich oder nicht zugelassen ist.
+Wer Waren des Reiseverkehrs einführt, hat die Zollanmeldung in einer vom BAZG zugelassenen Anmeldebox zu deponieren, falls die mündliche Zollanmeldung oder die Zollanmeldung durch eine andere Form der Willensäusserung nicht möglich oder nicht zugelassen ist.
 
 [^23a-1]: Eingefügt durch Ziff. I der V der EZV vom 10. Dez. 2012 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)). Fassung gemäss Ziff. I der V der EZV vom 18. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
 
@@ -660,7 +662,7 @@ Die bewirtschaftende Person, die für die Einfuhr von rohen Bodenerzeugnissen, T
 
 [^24a-1]: Eingefügt durch Ziff. I der V der EZV vom 11. April 2008, in Kraft seit 1. Mai 2008 ([AS 2008 1811](https://fedlex.data.admin.ch/eli/oc/2008/267)).
 
-### 5. Abschnitt:**** Mündliche Zollanmeldung
+### 5. Abschnitt: Mündliche Zollanmeldung
 
 [^tit2-chap2-sec5-1]
 
@@ -692,7 +694,7 @@ Die Zollstelle kann die anmeldepflichtige Person von der mündlichen Zollanmeldu
 
 [^25-1]: Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^25-2]: Fassung gemäss Ziff. I der V der EZV vom 18. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
-[^25-3]: [SR 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^25-3]: [SR 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
 [^25-4]: Eingefügt durch Ziff. I der V der EZV vom 16. Dez. 2010 ([AS 2011 5](https://fedlex.data.admin.ch/eli/oc/2011/3)). Fassung gemäss Ziff. I der V der EZV vom 10. Dez. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^25-5]: Eingefügt durch Ziff. I der V der EZV vom 23. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
 [^25-6]: Eingefügt durch Ziff. I der V der EZV vom 18. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
@@ -706,7 +708,7 @@ Die Zollstelle kann die anmeldepflichtige Person von der mündlichen Zollanmeldu
 
 Die mündliche Zollanmeldung gilt als angenommen, wenn die Zollstelle sie entgegennimmt.
 
-### 6. Abschnitt:**** Zollanmeldung bei grünem Durchgang
+### 6. Abschnitt: Zollanmeldung bei grünem Durchgang
 
 [^tit2-chap2-sec6-1]
 
@@ -738,7 +740,7 @@ Die anmeldepflichtige Person darf den grünen Durchgang nur benutzen, wenn sie W
 
 <sup>3</sup> Verbringt die anmeldepflichtige Person andere als in Absatz 1 aufgeführte Waren ins Zollgebiet oder aus dem Zollgebiet, so muss sie die Waren nach den allgemeinen Bestimmungen der Zollgesetzgebung anmelden.
 
-### 7. Abschnitt:**** Grüne Sichtzollanmeldung im Strassenverkehr
+### 7. Abschnitt: Grüne Sichtzollanmeldung im Strassenverkehr
 
 [^tit2-chap2-sec7-1]
 
@@ -750,7 +752,7 @@ Die anmeldepflichtige Person darf den grünen Durchgang nur benutzen, wenn sie W
 
 ### (Art. 28 Abs. 1 Bst. d ZG)
 
-Die EZV kann im Strassenverkehr für privat genutzte Beförderungsmittel die grüne Sichtzollanmeldung zulassen.
+Das BAZG kann im Strassenverkehr für privat genutzte Beförderungsmittel die grüne Sichtzollanmeldung zulassen.
 
 [^29-1]: Fassung gemäss Ziff. I der V der EZV vom 18. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
 
@@ -769,7 +771,7 @@ Die Fahrzeugführerin oder der Fahrzeugführer darf die grüne Sichtzollanmeldun
 - c. weder Beschränkungen noch Verboten unterliegen; und
 - d. weder zeugnis- noch bewilligungspflichtig sind.
 
-<sup>2</sup> Sie oder er muss die grüne Sichtzollanmeldung so an der Windschutzscheibe anbringen, dass sie für das Personal der EZV gut sichtbar ist.
+<sup>2</sup> Sie oder er muss die grüne Sichtzollanmeldung so an der Windschutzscheibe anbringen, dass sie für das Personal des BAZG gut sichtbar ist.
 
 <sup>3</sup> Das Benutzen der grünen Sichtzollanmeldung gilt als Zollanmeldung. Mit dem Passieren der Zollgrenze gilt die Zollanmeldung als angenommen.
 
@@ -777,7 +779,7 @@ Die Fahrzeugführerin oder der Fahrzeugführer darf die grüne Sichtzollanmeldun
 
 [^30-1]: Fassung gemäss Ziff. I der V der EZV vom 18. Okt. 2018, in Kraft seit 1. Dez. 2018 ([AS 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
 
-### 8. Abschnitt:**** Grünes Zollanmeldungsschild für öffentliche Verkehrsmittel
+### 8. Abschnitt: Grünes Zollanmeldungsschild für öffentliche Verkehrsmittel
 
 [^tit2-chap2-sec8-1]
 
@@ -815,7 +817,7 @@ Die anmeldepflichtige Person darf ein öffentliches Verkehrsmittel mit grünem Z
 
 <sup>4</sup> Die Absätze 1–3 gelten sinngemäss für öffentliche Verkehrsmittel, in denen die anmeldepflichtige Person in anderer Form auf die Regelung nach Absatz 1 hingewiesen wird.
 
-### 9. Abschnitt:**** Zollanmeldung bei Zollstrassen mit Zollanmeldungstafel
+### 9. Abschnitt: Zollanmeldung bei Zollstrassen mit Zollanmeldungstafel
 
 [^tit2-chap2-sec9-1]
 
@@ -930,9 +932,9 @@ Zum Abtransport von Waren berechtigt auch:
 
 [^39-1]
 
-Die zugelassene Versenderin oder der zugelassene Versender beziehungsweise die zugelassene Empfängerin oder der zugelassene Empfänger muss die Zollschuld bargeldlos gegen Rechnung im Rahmen des Zentralisierten Abrechnungsverfahrens der EZV (ZAZ) bezahlen.
+Die zugelassene Versenderin oder der zugelassene Versender beziehungsweise die zugelassene Empfängerin oder der zugelassene Empfänger muss die Zollschuld bargeldlos gegen Rechnung im Rahmen des Zentralisierten Abrechnungsverfahrens des BAZG (ZAZ) bezahlen.
 
-[^39-1]: [SR 631.011](https://fedlex.data.admin.ch/eli/cc/2007/251)
+[^39-1]: [SR 631.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7814)
 
 #### Art. 40
 
@@ -1005,7 +1007,7 @@ Verhindert ein Unfall oder höhere Gewalt den Abschluss des Transitdokuments, so
 
 ### (Art. 49 Abs. 4 ZG)
 
-Wird das Transitverfahren für Waren, die bereits wieder aus dem Zollgebiet verbracht worden sind, nicht ordnungsgemäss abgeschlossen, so kann die EZV den Identitätsnachweis von der Vorlage einer amtlichen Bescheinigung, namentlich der Veranlagungsverfügung einer ausländischen Zollbehörde, abhängig machen.
+Wird das Transitverfahren für Waren, die bereits wieder aus dem Zollgebiet verbracht worden sind, nicht ordnungsgemäss abgeschlossen, so kann das BAZG den Identitätsnachweis von der Vorlage einer amtlichen Bescheinigung, namentlich der Veranlagungsverfügung einer ausländischen Zollbehörde, abhängig machen.
 
 ### 6. Kapitel: Zolllagerverfahren
 
@@ -1058,7 +1060,7 @@ Als Massengüter gelten Waren in Mengen von mindestens 10 000 kg Eigenmasse, die
 
 ### (Art. 58 Abs. 3 ZG)
 
-Wird das Verfahren der vorübergehenden Verwendung für Waren, die bereits wieder aus dem Zollgebiet verbracht worden sind, nicht ordnungsgemäss abgeschlossen, so kann die EZV den Identitätsnachweis von der Vorlage einer amtlichen Bescheinigung, namentlich der Veranlagungsverfügung der ausländischen Zollbehörde, abhängig machen.
+Wird das Verfahren der vorübergehenden Verwendung für Waren, die bereits wieder aus dem Zollgebiet verbracht worden sind, nicht ordnungsgemäss abgeschlossen, so kann das BAZG den Identitätsnachweis von der Vorlage einer amtlichen Bescheinigung, namentlich der Veranlagungsverfügung der ausländischen Zollbehörde, abhängig machen.
 
 #### Art. 53
 
@@ -1096,7 +1098,7 @@ Die neue Zollanmeldung kann in Abweichung von Artikel 162 Absatz 3 ZV bis späte
 
 #### Art. 56
 
-**Erteilung von Bewilligungen durch die OZD**
+**Erteilung von Bewilligungen durch das BAZG**
 
 ### (Art. 59 und 60 ZG; Art. 165–173 ZV)
 
@@ -1104,7 +1106,7 @@ Die neue Zollanmeldung kann in Abweichung von Artikel 162 Absatz 3 ZV bis späte
 
 <sup>2</sup> Für Gesuche um Erneuerung einer Bewilligung sind die Angaben nach Absatz 1 nicht erforderlich.
 
-<sup>3</sup> Die Gesuche müssen rechtsgültig unterschrieben sein und der OZD per Post oder Telefax zugestellt werden.
+<sup>3</sup> Die Gesuche müssen rechtsgültig unterschrieben sein und dem BAZG per Post oder Telefax zugestellt werden.
 
 #### Art. 57
 
@@ -1114,7 +1116,7 @@ Die neue Zollanmeldung kann in Abweichung von Artikel 162 Absatz 3 ZV bis späte
 
 Für die im Anhang aufgeführten Waren und Veredelungsarten erteilen die Zollstellen die Bewilligungen für die aktive und die passive Veredelung.
 
-### 9. Kapitel:**** Zollfreilager
+### 9. Kapitel: Zollfreilager
 
 [^tit2-chap9-1]
 
@@ -1149,7 +1151,7 @@ Ausgenommen sind:
 
 ### (Art. 86 ZG)
 
-Die OZD entscheidet über den Erlass von Zollabgaben.
+Das BAZG entscheidet über den Erlass von Zollabgaben.
 
 #### Art. 60
 
@@ -1159,7 +1161,7 @@ Die OZD entscheidet über den Erlass von Zollabgaben.
 
 Die Kosten für die Vernichtung von Waren trägt die Gesuchstellerin oder der Gesuchsteller.
 
-## 4. Titel: Befugnisse des Personals der EZV
+## 4. Titel: Befugnisse des Personals des BAZG
 
 ### (Art. 100 Abs. 2 ZG)
 
@@ -1168,8 +1170,8 @@ Die Kosten für die Vernichtung von Waren trägt die Gesuchstellerin oder der Ge
 Die Befugnisse nach den Artikeln 101, 102 Absätze 1 und 2 sowie 103–105 ZG stehen zu:
 
 - a. den Angehörigen des Grenzwachtkorps;
-- b.[^61-1] den Mitarbeiterinnen und Mitarbeitern der Sektion Zollfahndung der Zollkreisdirektionen und der Abteilung Strafsachen der OZD;
-- c. den Mitarbeiterinnen und Mitarbeitern der EZV, die mit Kontrollen nach den Artikeln 30 und 31 ZG sowie mit der Beschau nach Artikel 36 ZG betraut sind.
+- b.[^61-1] den Mitarbeiterinnen und Mitarbeitern der Sektion Zollfahndung der Zollkreisdirektionen und der Abteilung Strafsachen des BAZG;
+- c. den Mitarbeiterinnen und Mitarbeitern des BAZG, die mit Kontrollen nach den Artikeln 30 und 31 ZG sowie mit der Beschau nach Artikel 36 ZG betraut sind.
 
 [^61-1]: Fassung gemäss Ziff. I der V der EZV vom 16. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2011 5](https://fedlex.data.admin.ch/eli/oc/2011/3)).
 
@@ -1202,11 +1204,11 @@ Anhang
 Die Veredelung der nachfolgend aufgeführten Waren wird von den Zollstellen bewilligt, sofern die Veranlagung im Verfahren nach den Artikeln 1 und 2 der Verordnung des EFD vom 4. April 2007[^annexu1-lvlu1-1] über den Veredelungsverkehr erfolgt:
 
 <table>
-<tr><td>Ware</td><td>Veredelungsarten</td></tr>
+<tr><th>Ware</th><th>Veredelungsarten</th></tr>
 <tr><td>a. Privatwaren aller Art</td><td>Veredelungen aller Art</td></tr>
 <tr><td>b. Handelswaren aller Art</td><td>Ausbesserung; Restaurieren; Bearbeitungen wie Bedrucken, Lackieren, Schleifen, Stanzen o. Ä.</td></tr>
 <tr><td>c. Maschinen, Geräte, Software</td><td>Modifizieren, Updaten</td></tr>
 <tr><td>d. Beförderungsmittel aller Art (inkl. Zubehör)</td><td>Karrossieren, Umbau, Montage oder ähnliche Zwecke</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [SR 631.016](https://fedlex.data.admin.ch/eli/cc/2007/254)
+[^annexu1-lvlu1-1]: [SR 631.016](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7818)

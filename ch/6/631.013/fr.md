@@ -4,29 +4,31 @@ title: Ordonnance de l’OFDF du 4 avril 2007 sur les douanes (OD-OFDF)
 short: OD-OFDF
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/253"
 language: fr
-version: 2018-12-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/253/20181201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-253-20181201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/253/20181201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/253/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-253-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/253/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’AFD sur les douanes
+# Ordonnance de l’OFDF sur les douanes
 
-(OD-AFD)
+(OD-OFDF)[^t-1]
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> décembre 2018)
+du 4 avril 2007 (État le 1<sup>er</sup> janvier 2022)
 
-L’Administration fédérale des douanes (AFD),
+[^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+
+L’Office fédéral de la douane et de la sécurité des frontières (OFDF),
 
 vu les art. 24, al. 4, 25, al. 3, 28, al. 2, 29, al. 1, 33, al. 2, 40, al. 1 et 3, 56, al. 1, 66, al. 1, 71, 73, al. 3, et 100, al. 2, de la loi du 18 mars 2005 sur les douanes (LD)[^ingress-1], vu l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)[^ingress-2],
 
 arrête:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 ## Titre 1 Assujettissement
 
@@ -99,7 +101,7 @@ La personne assujettie à l’obligation de déclarer peut déclarer des marchan
 
 ### Chapitre 2 Forme de la déclaration en douane
 
-### Section 1**** Dispositions générales
+### Section 1 Dispositions générales
 
 [^tit2-chap2-sec1-1]
 
@@ -154,7 +156,7 @@ La déclaration sommaire d’entrée et de sortie à des fins de sécurité est 
 
 La déclaration en douane est effectuée dans une des langues officielles de la Confédération.
 
-### Section 2**** Déclaration en douane électronique effectuée à l’aide des systèmes «e‑dec» et «NCTS»****
+### Section 2 Déclaration en douane électronique effectuée à l’aide des systèmes «e‑dec» et «NCTS»
 
 [^tit2-chap2-sec2-1][^tit2-chap2-sec2-2]
 
@@ -173,24 +175,24 @@ La Direction générale des douanes (DGD) autorise la personne assujettie à l�
 
 - a. a son siège ou son domicile sur le territoire douanier;
 - b. dispose de l’équipement informatique nécessaire;
-- c. fournit une sûreté pour les redevances présumées; et
+- c. fournit une sûreté pour les redevances présumées, et
 - d. garantit le déroulement réglementaire de la procédure, notamment en ce qui concerne la sécurité des données.
 
 <sup>2</sup>
 
 La DGD peut autoriser une personne assujettie à l’obligation de déclarer qui a son siège ou son domicile dans une région frontalière du territoire douanier étranger à utiliser le système «e-dec» pour établir la déclaration en douane d’importation si cette personne remplit les conditions énoncées à l’al. 1, let. b à d, et:
 
-- a. dispose d’un domicile de notification sur le territoire douanier; et
-- b. veille à ce que l’AFD puisse accéder à partir du territoire douanier aux données et documents devant être conservés conformément aux art. 94 à 98 OD.
+- a. dispose d’un domicile de notification sur le territoire douanier, et
+- b. veille à ce que l’OFDF puisse accéder à partir du territoire douanier aux données et documents devant être conservés conformément aux art. 94 à 98 OD.
 
 <sup>3</sup>
 
 La DGD peut autoriser une personne assujettie à l’obligation de déclarer qui a son siège ou son domicile sur le territoire douanier étranger à utiliser le système «e‑dec» et l’interface «Exportation» du système «NCTS» pour établir la déclaration en douane d’exportation si cette personne remplit les conditions énoncées à l’al. 1, let. b et d, et:
 
-- a. dispose de locaux dans le périmètre d’un bureau à contrôles nationaux juxtaposés; et
-- b. veille à ce que l’AFD puisse accéder à partir du territoire douanier aux données et documents devant être conservés conformément aux art. 94 à 98 OD.
+- a. dispose de locaux dans le périmètre d’un bureau à contrôles nationaux juxtaposés, et
+- b. veille à ce que l’OFDF puisse accéder à partir du territoire douanier aux données et documents devant être conservés conformément aux art. 94 à 98 OD.
 
-<sup>4</sup> Si la DGD autorise la personne assujettie à l’obligation de déclarer à effectuer la déclaration en douane au moyen du système «e-dec», du système «NCTS» ou des deux systèmes, cette personne doit déclarer les marchandises conduites, présentées et déclarées sommairement en douane au moyen de ces systèmes. D’autres formes de déclaration ne sont autorisées que si l’AFD ne peut pas offrir la déclaration en douane au moyen de ces systèmes.
+<sup>4</sup> Si la DGD autorise la personne assujettie à l’obligation de déclarer à effectuer la déclaration en douane au moyen du système «e-dec», du système «NCTS» ou des deux systèmes, cette personne doit déclarer les marchandises conduites, présentées et déclarées sommairement en douane au moyen de ces systèmes. D’autres formes de déclaration ne sont autorisées que si l’OFDF ne peut pas offrir la déclaration en douane au moyen de ces systèmes.
 
 <sup>5</sup> Pour les déclarations en douane de transit, l’al. 1, let. a, n’est pas applicable.
 
@@ -205,11 +207,11 @@ La DGD peut autoriser une personne assujettie à l’obligation de déclarer qui
 
 ### (art. 28, al. 2, LD)
 
-L’AFD retire l’autorisation d’utiliser le système «e-dec», le système «NCTS» ou les deux systèmes si la personne:[^9-2]
+L’OFDF retire l’autorisation d’utiliser le système «e-dec», le système «NCTS» ou les deux systèmes si la personne:[^9-2]
 
 - a. ne remplit plus les conditions d’octroi de l’autorisation;
-- b. n’observe pas les conditions et les charges liées à l’autorisation; ou
-- c.[^9-3] commet une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où l’exécution en incombe à l’AFD.
+- b. n’observe pas les conditions et les charges liées à l’autorisation, ou
+- c.[^9-3] commet une infraction grave ou des infractions répétées au droit fédéral, dans la mesure où l’exécution en incombe à l’OFDF.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 10 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 18 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
@@ -245,9 +247,9 @@ Les personnes qui établissent des déclarations en douane au moyen des système
 
 <sup>1</sup> La DGD indique à la personne assujettie à l’obligation de déclarer à quelle adresse électronique elle doit transmettre les données.
 
-<sup>2</sup> Elle communique à la personne assujettie à l’obligation de déclarer les indications techniques dont celle-ci a besoin pour une transmission sûre aux systèmes «e-dec» et «NCTS».[^12-1]
+<sup>2</sup> Il communique à la personne assujettie à l’obligation de déclarer les indications techniques dont celle-ci a besoin pour une transmission sûre aux systèmes «e-dec» et «NCTS».[^12-1]
 
-<sup>3</sup> La personne assujettie à l’obligation de déclarer n’a pas accès aux données que l’AFD conserve sous forme électronique.
+<sup>3</sup> La personne assujettie à l’obligation de déclarer n’a pas accès aux données que l’OFDF conserve sous forme électronique.
 
 <sup>4</sup> Tant que le système «e-dec» ou «NCTS» n’a pas confirmé la réception des données, la déclaration en douane électronique est réputée non présentée.[^12-2]
 
@@ -260,9 +262,9 @@ Les personnes qui établissent des déclarations en douane au moyen des système
 
 ### (art. 28, al. 2, LD)
 
-L’AFD ne répond pas:
+L’OFDF ne répond pas:
 
-- a. des conséquences des défaillances techniques, si la défaillance n’est pas due à une négligence grave de l’AFD;
+- a. des conséquences des défaillances techniques, si la défaillance n’est pas due à une négligence grave de l’OFDF;
 - b. des dommages indirects et consécutifs en relation avec la transmission électronique des données.
 
 #### Art. 14
@@ -271,7 +273,7 @@ L’AFD ne répond pas:
 
 ### (art. 28, al. 2, LD)
 
-<sup>1</sup> La personne assujettie à l’obligation de déclarer doit maintenir son équipement informatique dans un état correspondant aux exigences de l’AFD.
+<sup>1</sup> La personne assujettie à l’obligation de déclarer doit maintenir son équipement informatique dans un état correspondant aux exigences de l’OFDF.
 
 <sup>2</sup> La DGD annonce les modifications des systèmes «e-dec» et «NCTS» suffisamment tôt à la personne assujettie à l’obligation de déclarer. Celle-ci doit procéder aux modifications dans les délais.[^14-2]
 
@@ -286,7 +288,7 @@ L’AFD ne répond pas:
 
 La personne assujettie à l’obligation de déclarer assume les coûts liés:
 
-- a. à l’acquisition, à l’exploitation et à la maintenance de son équipement informatique; et
+- a. à l’acquisition, à l’exploitation et à la maintenance de son équipement informatique, et
 - b. à la connexion, à l’exploitation et à la maintenance des lignes servant à la transmission des données aux systèmes «e-dec» et «NCTS».
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 10 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
@@ -315,13 +317,13 @@ La déclaration en douane est réputée acceptée au moment où elle a passé av
 
 <sup>3</sup> Si le résultat de la sélection est «libre avec», la personne assujettie à l’obligation de déclarer doit présenter un tirage de la déclaration en douane et les documents d’accompagnement nécessaires au bureau de douane. Les marchandises sont réputées libérées.
 
-<sup>4</sup> Si le résultat de la sélection est «libre sans» ou «libre sans/ALAD», la personne assujettie à l’obligation de déclarer doit présenter au bureau de douane les éventuels documents de transit et autorisations ainsi que les éventuels certificats ou attestations nécessaires à l’exécution des actes législatifs de la Confédération autres que douaniers. Les marchandises sont réputées libérées en ce qui concerne l’AFD.[^17-3]
+<sup>4</sup> Si le résultat de la sélection est «libre sans» ou «libre sans/ALAD», la personne assujettie à l’obligation de déclarer doit présenter au bureau de douane les éventuels documents de transit et autorisations ainsi que les éventuels certificats ou attestations nécessaires à l’exécution des actes législatifs de la Confédération autres que douaniers. Les marchandises sont réputées libérées en ce qui concerne l’OFDF.[^17-3]
 
 <sup>5</sup>
 
 Si les marchandises sont soumises à des actes législatifs de la Confédération autres que douaniers, la personne assujettie à l’obligation de déclarer doit, indépendamment du résultat de la sélection:
 
-- a. remettre les marchandises aux organes de contrôle compétents; ou
+- a. remettre les marchandises aux organes de contrôle compétents, ou
 - b.[^17-4] prouver que les charges fondées sur les actes législatifs de la Confédération autres que douaniers sont remplies.[^17-5]
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 18 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
@@ -424,7 +426,7 @@ Si le résultat de la sélection est «bloqué», la personne assujettie à l’
 
 <sup>2</sup> …[^20a-2]
 
-<sup>3</sup> Dans l’interface «Exportation» du système «NCTS», l’administration des douanes établit la décision de taxation sur support papier.
+<sup>3</sup> Dans l’interface «Exportation» du système «NCTS», l’OFDF établit la décision de taxation sur support papier.
 
 [^20a-1]: Introduit par le ch. I de l’O de l’AFD du 27 fév. 2009 ([RO 2009 1147](https://fedlex.data.admin.ch/eli/oc/2009/187)). Nouvelle teneur selon le ch. I de l’O de l’AFD du 10 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^20a-2]: Abrogé par le ch. I de l’O de l’AFD du 18 oct. 2018, avec effet au 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
@@ -441,7 +443,7 @@ Si le résultat de la sélection est «bloqué», la personne assujettie à l’
 
 [^20b-1]: Introduit par le ch. I de l’O de l’AFD du 27 fév. 2009 ([RO 2009 1147](https://fedlex.data.admin.ch/eli/oc/2009/187)). Nouvelle teneur selon le ch. I de l’O de l’AFD du 10 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 
-### Section 3**** Déclaration en douane électronique effectuée à l’aide de l’application Internet «e-dec web»****
+### Section 3 Déclaration en douane électronique effectuée à l’aide de l’application Internet «e-dec web»
 
 [^tit2-chap2-sec3-1][^tit2-chap2-sec3-2]
 
@@ -470,7 +472,7 @@ Quiconque n’utilise pas les systèmes «e-dec» et «NCTS» pour la déclarati
 
 <sup>4</sup> La décision de taxation est mise en ligne dans l’application Internet «e-dec web». L’art. 20*b* est applicable par analogie.
 
-### Section 3*a***** Déclaration électronique et déclaration en douane effectuée au moyen d’un dispositif électronique de déclaration
+### Section 3*a* Déclaration électronique et déclaration en douane effectuée au moyen d’un dispositif électronique de déclaration
 
 [^tit2-chap2-sec3a-1]
 
@@ -505,10 +507,10 @@ La déclaration électronique et la déclaration en douane effectuée au moyen d
 
 <sup>2</sup> Les marchandises visées à l’al. 1, let. a à c, ne peuvent être acheminées sur le territoire douanier qu’avec un des moyens de transport admis à la circulation routière visés à l’art. 25, al. 1, let. b, e et f.
 
-[^20e-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
-[^20e-2]: [RS 0.631.252.512](https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281)
-[^20e-3]: [RS 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
-[^20e-4]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^20e-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
+[^20e-2]: [RS 0.631.252.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2062)
+[^20e-3]: [RS 0.631.244.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2053)
+[^20e-4]: [RS 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
 
 #### Art. 20f
 
@@ -537,7 +539,7 @@ La personne assujettie reçoit du dispositif électronique:
 
 Pour les marchandises visées à l’art. 20*e*, al. 1, let. a, ch. 1, et pour les moyens de transport visés à l’art. 20*e*, al. 1, let. d, la déclaration en douane est réputée acceptée au moment où le dispositif électronique de déclaration confirme la réception des données.
 
-### Section 4**** Déclaration en douane sur support papier
+### Section 4 Déclaration en douane sur support papier
 
 [^tit2-chap2-sec4-1]
 
@@ -555,7 +557,7 @@ La déclaration en douane sur support papier est admise:[^21-2]
 
   lors de la mise en libre pratique (art. 48 LD) de:[^21-3]
 
-  - 1\. marchandises destinées à des chefs d’Etat ainsi qu’à des services diplomatiques, consulaires ou internationaux et à leurs membres (art. 6 OD),
+  - 1\. marchandises destinées à des chefs d’État ainsi qu’à des services diplomatiques, consulaires ou internationaux et à leurs membres (art. 6 OD),
   - 2\. cercueils, urnes et ornements funéraires (art. 7 OD),
   - 3\. prix d’honneur, insignes commémoratifs et dons d’honneur (art. 8 OD), pour autant qu’ils ne soient soumis à aucune redevance,
   - 4\. moyens de paiement légaux, papiers-valeurs, manuscrits, papiers d’affaires et documents sans valeur de collection, timbres officiels et titres de transport (art. 13 OD),
@@ -586,7 +588,7 @@ La déclaration en douane sur support papier est admise:[^21-2]
 [^21-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 10 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 23 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
 [^21-3]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 23 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
-[^21-4]: [RS 631.011](https://fedlex.data.admin.ch/eli/cc/2007/251)
+[^21-4]: [RS 631.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7814)
 [^21-5]: Abrogée par le ch. I de l’O de l’AFD du 25 fév. 2015, avec effet au 1<sup>er</sup> mai 2015 ([RO 2015 853](https://fedlex.data.admin.ch/eli/oc/2015/161)).
 [^21-6]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 23 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
 
@@ -606,7 +608,7 @@ La déclaration en douane sur support papier est admise:[^21-2]
 
 #### Art. 23
 
-**Etablissement de la déclaration en douane par l’AFD**
+**Établissement de la déclaration en douane par l’OFDF**
 
 ### (art. 28, al. 1, let. b, LD)
 
@@ -620,7 +622,7 @@ La déclaration en douane sur support papier est admise:[^21-2]
 
 ### (art. 28, al. 1, let. b, LD)
 
-Quiconque importe des marchandises du trafic touristique doit déposer la déclaration en douane dans une boîte à déclarations autorisée par l’AFD lorsque la déclaration en douane verbale ou la déclaration en douane par une autre forme d’expression de la volonté n’est pas possible ou pas admise.
+Quiconque importe des marchandises du trafic touristique doit déposer la déclaration en douane dans une boîte à déclarations autorisée par l’OFDF lorsque la déclaration en douane verbale ou la déclaration en douane par une autre forme d’expression de la volonté n’est pas possible ou pas admise.
 
 [^23a-1]: Introduit par le ch. I de l’O de l’AFD du 10 déc. 2012 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)). Nouvelle teneur selon le ch. I de l’O de l’AFD du 18 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
 
@@ -632,7 +634,7 @@ Quiconque importe des marchandises du trafic touristique doit déposer la décla
 
 La déclaration en douane sur support papier est réputée acceptée lorsque:
 
-- a. le bureau de douane l’a munie de l’empreinte du timbre à date et d’une signature; ou
+- a. le bureau de douane l’a munie de l’empreinte du timbre à date et d’une signature, ou
 - b. la personne assujettie à l’obligation de déclarer l’a déposée dans une boîte à déclaration au sens de l’art. 23*a*.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 10 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
@@ -662,7 +664,7 @@ L’exploitant qui a demandé l’exonération ou la réduction des droits de do
 
 [^24a-1]: Introduit par le ch. I de l’O de l’AFD du 11 avr. 2008, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2008 1811](https://fedlex.data.admin.ch/eli/oc/2008/267)).
 
-### Section 5**** Déclaration en douane verbale
+### Section 5 Déclaration en douane verbale
 
 [^tit2-chap2-sec5-1]
 
@@ -689,12 +691,12 @@ La déclaration en douane verbale est admise pour:[^25-1]
 
 Le bureau de douane peut exclure la personne assujettie à l’obligation de déclarer de la déclaration en douane verbale:
 
-- a. si les marchandises doivent être placées sous un régime douanier autre que la mise en libre pratique; ou
+- a. si les marchandises doivent être placées sous un régime douanier autre que la mise en libre pratique, ou
 - b. si les conditions d’exploitation du bureau de douane ou les actes législatifs de la Confédération autres que douaniers l’exigent.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 10 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^25-2]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 18 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
-[^25-3]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^25-3]: [RS 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
 [^25-4]: Introduite par le ch. I de l’O de l’AFD du 16 déc. 2010 ([RO 2011 5](https://fedlex.data.admin.ch/eli/oc/2011/3)). Nouvelle teneur selon le ch. I de l’O de l’AFD du 10 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 219](https://fedlex.data.admin.ch/eli/oc/2013/29)).
 [^25-5]: Introduite par le ch. I de l’O de l’AFD du 23 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2307](https://fedlex.data.admin.ch/eli/oc/2014/389)).
 [^25-6]: Introduite par le ch. I de l’O de l’AFD du 18 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
@@ -708,7 +710,7 @@ Le bureau de douane peut exclure la personne assujettie à l’obligation de dé
 
 La déclaration en douane verbale est réputée acceptée au moment où elle est faite au bureau de douane.
 
-### Section 6**** Déclaration en douane par utilisation de la voie verte
+### Section 6 Déclaration en douane par utilisation de la voie verte
 
 [^tit2-chap2-sec6-1]
 
@@ -740,7 +742,7 @@ La personne assujettie à l’obligation de déclarer ne peut utiliser la voie v
 
 <sup>3</sup> Si la personne assujettie à l’obligation de déclarer introduit dans le territoire douanier ou achemine hors du territoire douanier des marchandises autres que celles visées à l’al. 1, elle doit déclarer celles-ci conformément aux dispositions générales de la législation douanière.
 
-### Section 7**** Déclaration à vue verte dans le trafic par route
+### Section 7 Déclaration à vue verte dans le trafic par route
 
 [^tit2-chap2-sec7-1]
 
@@ -752,7 +754,7 @@ La personne assujettie à l’obligation de déclarer ne peut utiliser la voie v
 
 ### (art. 28, al. 1, let. d, LD)
 
-L’AFD peut autoriser la déclaration à vue verte pour les moyens de transport privés dans le trafic par route.
+L’OFDF peut autoriser la déclaration à vue verte pour les moyens de transport privés dans le trafic par route.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 18 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
 
@@ -771,7 +773,7 @@ Le conducteur ne peut utiliser la déclaration à vue verte que s’il conduit u
 - c. ne sont soumises ni à des restrictions ni à des interdictions;
 - d. ne sont assujetties ni à un certificat ni à un permis.
 
-<sup>2</sup> Il doit apposer la déclaration à vue verte sur son pare-brise de façon qu’elle soit bien visible pour le personnel de l’AFD.
+<sup>2</sup> Il doit apposer la déclaration à vue verte sur son pare-brise de façon qu’elle soit bien visible pour le personnel de l’OFDF.
 
 <sup>3</sup> L’utilisation de la déclaration à vue verte est réputée déclaration en douane. La déclaration en douane est réputée acceptée du fait du franchissement de la frontière douanière.
 
@@ -779,7 +781,7 @@ Le conducteur ne peut utiliser la déclaration à vue verte que s’il conduit u
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 18 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
 
-### Section 8**** Plaque verte de déclaration en douane pour les moyens de transport publics
+### Section 8 Plaque verte de déclaration en douane pour les moyens de transport publics
 
 [^tit2-chap2-sec8-1]
 
@@ -817,7 +819,7 @@ La personne assujettie à l’obligation de déclarer ne peut utiliser un moyen 
 
 <sup>4</sup> Les al. 1 à 3 s’appliquent par analogie aux moyens de transport publics dans lesquels la personne assujettie à l’obligation de déclarer est informée de la réglementation visée à l’al. 1 sous une autre forme.
 
-### Section 9**** Déclaration en douane sur les routes douanières munies d’un panneau de déclaration en douane
+### Section 9 Déclaration en douane sur les routes douanières munies d’un panneau de déclaration en douane
 
 [^tit2-chap2-sec9-1]
 
@@ -932,9 +934,9 @@ L’enlèvement de la marchandise peut être autorisé sur le vu:
 
 [^39-1]
 
-L’expéditeur agréé ou le destinataire agréé doit acquitter la dette douanière sans numéraire, contre facture, dans le cadre de la procédure centralisée de décompte de l’AFD (PCD).
+L’expéditeur agréé ou le destinataire agréé doit acquitter la dette douanière sans numéraire, contre facture, dans le cadre de la procédure centralisée de décompte de l’OFDF (PCD).
 
-[^39-1]: [RS 631.011](https://fedlex.data.admin.ch/eli/cc/2007/251)
+[^39-1]: [RS 631.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7814)
 
 #### Art. 40
 
@@ -1007,7 +1009,7 @@ Si un accident ou un cas de force majeure empêche l’apurement du document de 
 
 ### (art. 49, al. 4, LD)
 
-Si le régime de transit n’est pas apuré pour des marchandises qui ont déjà été réacheminées hors du territoire douanier, l’AFD peut exiger que leur identification soit prouvée par la présentation d’une attestation officielle, notamment la décision de taxation de l’autorité douanière étrangère.
+Si le régime de transit n’est pas apuré pour des marchandises qui ont déjà été réacheminées hors du territoire douanier, l’OFDF peut exiger que leur identification soit prouvée par la présentation d’une attestation officielle, notamment la décision de taxation de l’autorité douanière étrangère.
 
 ### Chapitre 6 Régime de l’entrepôt douanier
 
@@ -1060,7 +1062,7 @@ Sont réputées de grande consommation les marchandises présentées en quantit�
 
 ### (art. 58, al. 3, LD)
 
-Si le régime de l’admission temporaire n’est pas apuré pour des marchandises qui ont déjà été réacheminées hors du territoire douanier, l’AFD peut exiger que leur identification soit prouvée par la présentation d’une attestation officielle, notamment la décision de taxation de l’autorité douanière étrangère.
+Si le régime de l’admission temporaire n’est pas apuré pour des marchandises qui ont déjà été réacheminées hors du territoire douanier, l’OFDF peut exiger que leur identification soit prouvée par la présentation d’une attestation officielle, notamment la décision de taxation de l’autorité douanière étrangère.
 
 #### Art. 53
 
@@ -1089,7 +1091,7 @@ L’identification des chevaux acheminés à travers la frontière douanière ou
 En dérogation à l’art. 162, al. 3, OD, la nouvelle déclaration en douane peut être présentée au plus tard 30 jours civils après le transfert de propriété de la marchandise lorsque les conditions suivantes sont réunies:
 
 - a. la marchandise a été déclarée préalablement sur support papier et a été taxée en tant que marchandise importée pour vente incertaine;
-- b. la nouvelle déclaration en douane a été présentée dans le délai de validité de la déclaration en douane précédente ;
+- b. la nouvelle déclaration en douane a été présentée dans le délai de validité de la déclaration en douane précédente;
 - c. la présentation ultérieure n’est pas liée à une diminution des redevances ou à un contournement des actes législatifs de la Confédération autres que douaniers.
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 18 oct. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4045](https://fedlex.data.admin.ch/eli/oc/2018/653)).
@@ -1116,7 +1118,7 @@ En dérogation à l’art. 162, al. 3, OD, la nouvelle déclaration en douane pe
 
 Les bureaux de douane délivrent les autorisations pour le trafic de perfectionnement actif ou passif pour les marchandises et les genres de perfectionnement énumérés dans l’annexe.
 
-### Chapitre 9**** Dépôts francs sous douane
+### Chapitre 9 Dépôts francs sous douane
 
 [^tit2-chap9-1]
 
@@ -1161,7 +1163,7 @@ La DGD décide de la remise des droits de douane.
 
 Les coûts de la destruction de marchandises sont assumés par le requérant.
 
-## Titre 4 Compétences du personnel de l’AFD
+## Titre 4 Compétences du personnel de l’OFDF
 
 ### (art. 100, al. 2, LD)
 
@@ -1171,7 +1173,7 @@ Les compétences visées aux art. 101, 102, al. 1 et 2, et 103 à 105 LD sont at
 
 - a. aux membres du Corps des gardes-frontière;
 - b.[^61-1] aux collaborateurs de la section Antifraude douanière des directions d’arrondissement des douanes et de la division Affaires pénales de la DGD;
-- c. aux collaborateurs de l’AFD chargés des contrôles visés aux art. 30 et 31 LD et de la vérification au sens de l’art. 36 LD.
+- c. aux collaborateurs de l’OFDF chargés des contrôles visés aux art. 30 et 31 LD et de la vérification au sens de l’art. 36 LD.
 
 [^61-1]: Nouvelle teneur selon le ch. I de l’O de l’AFD du 16 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 5](https://fedlex.data.admin.ch/eli/oc/2011/3)).
 
@@ -1204,11 +1206,11 @@ Annexe
 Le perfectionnement des marchandises énumérées ci-après est autorisé par les bureaux de douane pour autant que la taxation soit effectuée conformément à la procédure visée aux art. 1 et 2 de l’ordonnance du DFF du 4 avril 2007 sur le trafic de perfectionnement[^annexu1-lvlu1-1]:
 
 <table>
-<tr><td>Marchandise</td><td>Genres de perfectionnement</td></tr>
+<tr><th>Marchandise</th><th>Genres de perfectionnement</th></tr>
 <tr><td>a. marchandises privées de toute nature</td><td>perfectionnements de tout genre</td></tr>
 <tr><td>b. marchandises commerciales</td><td>réparation, restauration, ouvraisons de surface telles que l’impression, le laquage, le meulage, l’estampage ou similaires</td></tr>
 <tr><td>c. machines, appareils et logiciels</td><td>modifications, mises à jour</td></tr>
 <tr><td>d. moyens de transport de tout genre (y compris accessoires)</td><td>carrossage, transformation, montage d’accessoires et fins similaires</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [RS 631.016](https://fedlex.data.admin.ch/eli/cc/2007/254)
+[^annexu1-lvlu1-1]: [RS 631.016](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7818)
