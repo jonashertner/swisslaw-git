@@ -4,13 +4,13 @@ number: "411.200"
 title: Gesetz über die Anstellung von Lehrpersonen
 short: GAL
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-09-13
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2019-12-10
 adopted: 2002-12-17
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2300/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3036/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2300/pdf_file"
 
 (GAL)
 
-Vom 17.12.2002 (Stand 01.01.2017)
+Vom 17.12.2002 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -495,9 +495,9 @@ beschliesst:
 
 **Arbeitgeberfunktion**
 
-<sup>1</sup> Die Schulpflege beziehungsweise die Kreisschulpflege nimmt die Arbeitgeberfunktionen wahr. Sie ist insbesondere zuständig für die Anstellung und für die Auflösung des Anstellungsverhältnisses.
+<sup>1</sup> Der Gemeinderat beziehungsweise der Vorstand bei einem Kreisschulverband nimmt die Arbeitgeberfunktionen wahr. Er ist insbesondere zuständig für die Anstellung und für die Auflösung des Anstellungsverhältnisses.
 
-<sup>2</sup> Im Zuständigkeitsbereich der Gemeinden und Gemeindeverbände ist die Schulpflege beziehungsweise die Kreisschulpflege auch verantwortlich für:
+<sup>2</sup> Im kommunalen Zuständigkeitsbereich ist er auch verantwortlich für:
 
 - a) den Schutz der Persönlichkeit der Lehrpersonen;
 - b) den Schutz vor ungerechtfertigten Angriffen;
@@ -505,7 +505,9 @@ beschliesst:
 - d) die Information über Tatsachen und Vorhaben, die für die Tätigkeit und Stellung von Lehrpersonen von Bedeutung sind;
 - e) die Erteilung von Bewilligungen im Zusammenhang mit Nebenbeschäftigungen und öffentlichen Ämtern.
 
-<sup>3</sup> Die Schulpflege beziehungsweise die Kreisschulpflege kann, sofern es sich um befristete Anstellungsverhältnisse handelt, die Anstellung der Lehrpersonen an die Schulleitung delegieren. Vorbehalten bleibt § 71 Abs. 1 Satz 2 des Schulgesetzes. Die Schulleitung ist in jedem Fall bei allen Personalentscheiden anzuhören.
+<sup>3</sup> Er kann seine arbeitsrechtlichen Kompetenzen betreffend die Lehrpersonen mit Ausnahme der ordentlichen Kündigung, der fristlosen Aufhebung des Anstellungsvertrags, der Aufhebung des Anstellungsvertrags im gegenseitigen Einvernehmen sowie der Freistellung an eines seiner Mitglieder oder an die Schulleitung delegieren und verteilen. Die Schulleitung ist in jedem Fall bei allen Personalentscheiden anzuhören.
+
+<sup>4</sup> Er regelt die Einzelheiten zur Delegation in einem Reglement.
 
 #### § 43
 
