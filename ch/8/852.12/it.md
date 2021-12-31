@@ -3,18 +3,18 @@ sr: "852.12"
 title: Ordinanza del 18 giugno 2021 sui sistemi d’informazione consolare del Dipartimento federale degli affari esteri
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/396"
 language: it
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2021-06-18
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2021-396-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-396-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sui sistemi d’informazione consolare del Dipartimento federale degli affari esteri
 
-del 18 giugno 2021 (Stato 1° agosto 2021)
+del 18 giugno 2021 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -276,11 +276,13 @@ Sono abrogati:
 
 La presente ordinanza entra in vigore il 1° agosto 2021.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 9 cpv. 1)
 
 ## Dati personali trattati in EDAssist+
+
+[^t-1]: Aggiornato dall’all. n. II 43 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1. Hotline
 
@@ -288,7 +290,7 @@ Allegato 1
 
 - 1\.1.1 Cognomi
 - 1\.1.2 Nomi
-- 1\.1.3 Numero d’assicurato (AVS)
+- 1\.1.3 Numero AVS
 - 1\.1.4 Stato: sconosciuto, deceduto, ferito, malato, in buona salute
 - 1\.1.5 Lingue
 - 1\.1.6 Sesso
@@ -339,7 +341,7 @@ Allegato 1
 - 3\.6 Nazionalità
 - 3\.7 Luoghi d’origine
 - 3\.8 Stato civile
-- 3\.9 Numero d’assicurato (AVS)
+- 3\.9 Numero AVS
 - 3\.10 Stato: sconosciuto, deceduto, ferito, malato, in buona salute
 - 3\.11 Data della morte
 - 3\.12 Dati sul dossier: titolo, numero di riferimento, evento, tipo, Paese, competenza (rappresentanza e collaboratore specializzato)
@@ -347,7 +349,6 @@ Allegato 1
 - 3\.14 Numeri di telefono
 - 3\.15 Numeri di fax
 - 3\.16 E-mail
-- [tab]
 
 ### 4. Aiuto sociale
 
@@ -385,17 +386,17 @@ Allegato 1
 <tr><td>Tipo di relazione con le persone di riferimento</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
 </table>
 
-- [tab]
-
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 9 cpv. 3)
 
 ## Elenco dati interfacce
 
+[^t-2]: Aggiornato dall’all. n. II 43 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
 <table>
 <tr><th>Sistema d’informazione</th><th>Dati personali</th></tr>
-<tr><td>E-VERA</td><td>a. Cognomi b. Nomi c. Indirizzo, mezzi di comunicazione: dati di contatto d. Data di nascita e. Sesso f. Lingue g. Luoghi d’origine h. Nazionalità i. Numero d’assicurato (AVS) j. Numero personale [tab]</td></tr>
+<tr><td>E-VERA</td><td>a. Cognomi b. Nomi c. Indirizzo, mezzi di comunicazione: dati di contatto d. Data di nascita e. Sesso f. Lingue g. Luoghi d’origine h. Nazionalità i. Numero AVS j. Numero personale</td></tr>
 <tr><td>Travel Admin</td><td>a. Cognomi b. Nomi c. Data di nascita d. Dati di contatto e. Numeri di telefono f. Nazionalità</td></tr>
 </table>
 
@@ -414,8 +415,8 @@ Allegato 3
 - 7\. Sesso
 - 8\. Appellativo
 - 9\. Nazionalità
-- 10\. Dati sui compagni di viaggio: appellativo, cognomi, nomi, data di nascita, nazionalità, luogo di domicilio, Paese, e-mail, numeri di telefono
-- 11\. Indirizzo di emergenza: appellativo, cognomi, nomi, luogo di domicilio, Paese, e-mail, numeri di telefono
+- 10\. Dati sui compagni di viaggio: appellativo, cognomi, nomi, data di nascita, nazionalità, luogo di domicilio, Paese, e‑mail, numeri di telefono
+- 11\. Indirizzo di emergenza: appellativo, cognomi, nomi, luogo di domicilio, Paese, e‑mail, numeri di telefono
 - 12\. Dettagli relativi all’itinerario/destinazione: longitudine/latitudine, città, indirizzo, codice Paese, codice regionale
 - 13\. Informazioni aggiuntive sulla destinazione
 - 14\. Informazioni sulla durata del viaggio/del soggiorno

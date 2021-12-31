@@ -3,18 +3,18 @@ sr: "852.12"
 title: Verordnung vom 18. Juni 2021 über die konsularischen Informationssysteme des Eidgenössischen Departements für auswärtige Angelegenheiten
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/396"
 language: de
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2021-06-18
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2021-396-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-396-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die konsularischen Informationssysteme des Eidgenössischen Departements für auswärtige Angelegenheiten
 
-vom 18. Juni 2021 (Stand am 1. August 2021)
+vom 18. Juni 2021 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -384,15 +384,17 @@ Anhang 1
 <tr><td>Art der Beziehung zu den Bezugspersonen</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
 </table>
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 9 Abs. 3)
 
 ## Datenkatalog Schnittstellen
 
+[^t-1]: Bereinigt gemäss Anhang Ziff. II 43 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
 <table>
 <tr><th>Informationssystem</th><th>Personendaten</th></tr>
-<tr><td>E-VERA</td><td>a. Namen b. Vornamen c. Adressdaten und Kommunikationsmittel: Kontaktangaben d. Geburtsdatum e. Geschlecht f. Sprachen g. Heimatorte h. Staatsangehörigkeiten i. Versichertennummer j. Personennummer [tab]</td></tr>
+<tr><td>E-VERA</td><td>a. Namen b. Vornamen c. Adressdaten und Kommunikationsmittel: Kontaktangaben d. Geburtsdatum e. Geschlecht f. Sprachen g. Heimatorte h. Staatsangehörigkeiten i. AHV-Nummer j. Personennummer</td></tr>
 <tr><td>Travel Admin</td><td>a. Namen b. Vornamen c. Geburtsdatum d. Kontaktangaben e. Telefonnummern f. Staatsangehörigkeiten</td></tr>
 </table>
 
@@ -411,8 +413,8 @@ Anhang 3
 - 7\. Geschlecht
 - 8\. Anrede
 - 9\. Nationalitäten
-- 10\. Angaben zu Mitreisenden: Anrede, Name, Vorname, Geburtsdatum, Nationalitäten, Wohnort, Land, E-Mail, Telefonnummern
-- 11\. Notfalladresse: Anrede, Name, Vorname, Wohnort, Land, E-Mail, Telefonnummern
+- 10\. Angaben zu Mitreisenden: Anrede, Name, Vorname, Geburtsdatum, Nationalitäten, Wohnort, Land, E‑Mail, Telefonnummern
+- 11\. Notfalladresse: Anrede, Name, Vorname, Wohnort, Land, E‑Mail, Telefonnummern
 - 12\. Angaben zu Reiseroute/-ort: Längen-/Breitengrad, Stadt, Adresse, Ländercode, Regionalcode
 - 13\. Zusatzinformation zum Reiseort
 - 14\. Angaben zur Dauer der Reisen / der Aufenthalte

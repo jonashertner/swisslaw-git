@@ -3,18 +3,18 @@ sr: "852.12"
 title: Ordonnance du 18 juin 2021 sur les systèmes d’information consulaires du Département fédéral des affaires étrangères
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/396"
 language: fr
-version: 2021-08-01
+version: 2022-01-01
 adopted: 2021-06-18
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2021-396-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-396-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les systèmes d’information consulaires du Département fédéral des affaires étrangères
 
-du 18 juin 2021 (Etat le 1<sup>er</sup> août 2021)
+du 18 juin 2021 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -75,7 +75,7 @@ Le système EDAssist+ se compose de quatre modules:
 
 Le module hotline contient des données sur les personnes suivantes:
 
-- a. les personnes visées à l’art.4, al.1 et 2, de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères qui sont portées disparues;
+- a. les personnes visées à l’art. 4, al. 1 et 2, de la loi fédérale du 24 mars 2000 sur le traitement des données personnelles au Département fédéral des affaires étrangères qui sont portées disparues;
 - b. les personnes ayant déposé un avis de recherche.
 
 #### Art. 6
@@ -347,7 +347,6 @@ Annexe 1
 - 3\.14 Numéro(s) de téléphone
 - 3\.15 Numéro(s) de fax
 - 3\.16 Adresse(s) électronique(s)
-- [tab]
 
 ### 4. Aide sociale
 
@@ -385,17 +384,17 @@ Annexe 1
 <tr><td>Lien avec les personnes de référence</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr>
 </table>
 
-- [tab]
-
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 9, al. 3)
 
 ## Données enregistrées sur les interfaces
 
+[^t-1]: Mise à jour par l’annexe ch. II 43 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+
 <table>
 <tr><th>Système d’information</th><th>Données personnelles</th></tr>
-<tr><td>E-VERA</td><td>a. Nom(s) b. Prénom(s) c. Adresse et moyens de communication: coordonnées d. Date de naissance e. Sexe f. Langue(s) g. Lieu(x) d’origine h. Nationalité(s) i. Numéro d’assuré j. Numéro de personne [tab]</td></tr>
+<tr><td>E-VERA</td><td>a. Nom(s) b. Prénom(s) c. Adresse et moyens de communication: coordonnées d. Date de naissance e. Sexe f. Langue(s) g. Lieu(x) d’origine h. Nationalité(s) i. Numéro AVS j. Numéro de personne</td></tr>
 <tr><td>Travel Admin</td><td>a. Nom(s) b. Prénom(s) c. Date de naissance d. Coordonnées e. Numéro(s) de téléphone f. Nationalité(s)</td></tr>
 </table>
 
