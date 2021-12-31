@@ -4,11 +4,11 @@ title: Loi du 18 mars 2005 sur les douanes (LD)
 short: LD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: fr
-version: 2018-09-15
+version: 2022-01-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20180915/fr/xml/fedlex-data-admin-ch-eli-cc-2007-249-20180915-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20180915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20180915/fr"
 
 (LD)[^t-1]
 
-du 18 mars 2005 (Etat le 15 septembre 2018)
+du 18 mars 2005 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -42,11 +42,11 @@ La présente loi règle:
 
 - a. la surveillance et le contrôle de la circulation des personnes et des marchandises traversant la frontière douanière;
 - b. la perception des droits de douane;
-- c.[^1-1] la perception des redevances dues en vertu de lois fédérales autres que douanières, dans la mesure où elle incombe à l’Administration fédérale des douanes (AFD);
-- d. l’exécution d’actes législatifs de la Confédération autres que douaniers et l’accomplissement de tâches, dans la mesure où elles incombent à l’AFD[^1-2].
+- c.[^1-1] la perception des redevances dues en vertu de lois fédérales autres que douanières, dans la mesure où elle incombe à l’Office fédéral de la douane et de la sécurité des frontières (OFDF);
+- d. l’exécution d’actes législatifs de la Confédération autres que douaniers et l’accomplissement de tâches, dans la mesure où elles incombent à l’OFDF[^1-2].
 
-[^1-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^1-2]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-1]: Nouvelle teneur selon le ch. I 16 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^1-2]: Nouvelle expression selon le ch. I 16 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -64,7 +64,7 @@ La présente loi règle:
 
 <sup>2</sup> Les enclaves douanières étrangères sont les territoires étrangers incorporés au territoire douanier en vertu de traités internationaux ou du droit coutumier.
 
-<sup>3</sup> Les enclaves douanières suisses sont les zones frontières suisses exclues du territoire douanier par le Conseil fédéral ou, lorsqu’il s’agit de biens-fonds dont la situation géographique est particulière, par l’AFD. L’AFD peut surveiller les enclaves douanières suisses et y appliquer les actes législatifs de la Confédération autres que douaniers.
+<sup>3</sup> Les enclaves douanières suisses sont les zones frontières suisses exclues du territoire douanier par le Conseil fédéral ou, lorsqu’il s’agit de biens-fonds dont la situation géographique est particulière, par l’OFDF. L’OFDF peut surveiller les enclaves douanières suisses et y appliquer les actes législatifs de la Confédération autres que douaniers.
 
 <sup>4</sup> La frontière douanière est la frontière du territoire douanier.
 
@@ -78,17 +78,17 @@ La présente loi règle:
 
 <sup>1</sup> Les propriétaires de biens-fonds sis à proximité de la frontière douanière veillent à ce que les installations ou les plantations aménagées sur leurs biens-fonds n’entravent pas la surveillance de la frontière.
 
-<sup>2</sup> Quiconque crée ou transforme des constructions ou des installations à proximité immédiate de la frontière douanière ou de la rive des eaux frontières doit avoir une autorisation de l’AFD.
+<sup>2</sup> Quiconque crée ou transforme des constructions ou des installations à proximité immédiate de la frontière douanière ou de la rive des eaux frontières doit avoir une autorisation de l’OFDF.
 
 #### Art. 5
 
 **Bureaux de douane et installations**
 
-<sup>1</sup> L’AFD érige pour l’exécution de ses tâches des bureaux de douane et des installations; les coûts sont pris en charge par la Confédération.
+<sup>1</sup> L’OFDF érige pour l’exécution de ses tâches des bureaux de douane et des installations; les coûts sont pris en charge par la Confédération.
 
-<sup>2</sup> Les tiers qui demandent à l’AFD d’exécuter ses tâches dans leurs installations et locaux doivent les mettre gratuitement à disposition et prendre en charge les frais d’exploitation encourus par l’AFD.
+<sup>2</sup> Les tiers qui demandent à l’OFDF d’exécuter ses tâches dans leurs installations et locaux doivent les mettre gratuitement à disposition et prendre en charge les frais d’exploitation encourus par l’OFDF.
 
-<sup>3</sup> Si les installations et locaux de ces tiers servent en plus à l’exécution de tâches douanières en faveur d’autres personnes, l’AFD participe équitablement aux frais d’installation et d’exploitation encourus.
+<sup>3</sup> Si les installations et locaux de ces tiers servent en plus à l’exécution de tâches douanières en faveur d’autres personnes, l’OFDF participe équitablement aux frais d’installation et d’exploitation encourus.
 
 #### Art. 6
 
@@ -199,11 +199,11 @@ Le Conseil fédéral peut admettre en franchise:
 
 **Trafic de perfectionnement actif**
 
-<sup>1</sup> L’AFD accorde la réduction ou l’exonération des droits de douane pour les marchandises introduites temporairement dans le territoire douanier pour être ouvrées, transformées ou réparées, si aucun intérêt public prépondérant ne s’y oppose.
+<sup>1</sup> L’OFDF accorde la réduction ou l’exonération des droits de douane pour les marchandises introduites temporairement dans le territoire douanier pour être ouvrées, transformées ou réparées, si aucun intérêt public prépondérant ne s’y oppose.
 
-<sup>2</sup> Aux mêmes conditions, elle accorde la réduction ou l’exonération des droits de douane pour des marchandises importées lorsque des marchandises indigènes en même quantité, dans le même état et de même qualité sont exportées en tant que produits ouvrés ou transformés.
+<sup>2</sup> Aux mêmes conditions, il accorde la réduction ou l’exonération des droits de douane pour des marchandises importées lorsque des marchandises indigènes en même quantité, dans le même état et de même qualité sont exportées en tant que produits ouvrés ou transformés.
 
-<sup>3</sup> L’AFD accorde la réduction ou l’exonération des droits de douane pour les produits agricoles et les produits agricoles de base lorsque des produits indigènes similaires ne sont pas disponibles en quantité suffisante ou que le handicap de prix des matières premières ne peut pas être compensé par d’autres mesures pour ces produits.
+<sup>3</sup> L’OFDF accorde la réduction ou l’exonération des droits de douane pour les produits agricoles et les produits agricoles de base lorsque des produits indigènes similaires ne sont pas disponibles en quantité suffisante ou que le handicap de prix des matières premières ne peut pas être compensé par d’autres mesures pour ces produits.
 
 <sup>4</sup> Le Conseil fédéral règle l’ampleur du remboursement, de la réduction ou de l’exonération des droits de douane pour les marchandises qui, au lieu d’être exportées du territoire douanier, y sont détruites sur demande.
 
@@ -211,9 +211,9 @@ Le Conseil fédéral peut admettre en franchise:
 
 **Trafic de perfectionnement passif**
 
-<sup>1</sup> L’AFD accorde la réduction ou l’exonération des droits de douane pour les marchandises réimportées qui ont été exportées temporairement pour être ouvrées, transformées ou réparées, si aucun intérêt public prépondérant ne s’y oppose.
+<sup>1</sup> L’OFDF accorde la réduction ou l’exonération des droits de douane pour les marchandises réimportées qui ont été exportées temporairement pour être ouvrées, transformées ou réparées, si aucun intérêt public prépondérant ne s’y oppose.
 
-<sup>2</sup> Aux mêmes conditions, elle accorde la réduction ou l’exonération des droits de douanes lorsque les marchandises exportées ont été remplacées à l’étranger par des marchandises en même quantité, dans le même état et de même qualité.
+<sup>2</sup> Aux mêmes conditions, il accorde la réduction ou l’exonération des droits de douanes lorsque les marchandises exportées ont été remplacées à l’étranger par des marchandises en même quantité, dans le même état et de même qualité.
 
 <sup>3</sup> Le Conseil fédéral peut prévoir une autre base de calcul des droits de douane pour tenir compte de la valeur ajoutée résultant du perfectionnement lorsque la détermination des droits selon le surplus de poids ne permet pas de l’établir.
 
@@ -266,7 +266,7 @@ Les marchandises bénéficient de taux de droits de douane réduits en fonction 
 
 <sup>1bis</sup> Les voyageurs qui prennent un vol à destination de l’étranger ou qui arrivent de l’étranger peuvent acheter des marchandises en franchise dans les boutiques hors taxes. Le Conseil fédéral désigne ces marchandises. [^17-2]
 
-<sup>2</sup> L’AFD peut autoriser les compagnies aériennes et d’autres entreprises à entreposer sur les aérodromes douaniers ou à proximité de ces derniers des réserves de marchandises non dédouanées pour leurs buffets de bord et à se servir de ces réserves pour préparer des mets ou des boissons à emporter sur les vols à destination de l’étranger. [^17-3]
+<sup>2</sup> L’OFDF peut autoriser les compagnies aériennes et d’autres entreprises à entreposer sur les aérodromes douaniers ou à proximité de ces derniers des réserves de marchandises non dédouanées pour leurs buffets de bord et à se servir de ces réserves pour préparer des mets ou des boissons à emporter sur les vols à destination de l’étranger. [^17-3]
 
 <sup>3</sup> L’autorisation n’est délivrée que si les mesures de contrôle et de sécurité nécessaires sont assurées.
 
@@ -310,15 +310,15 @@ La marchandise peut être taxée au taux le plus élevé applicable à son genre
 
 **Renseignements en matière de tarif et d’origine**
 
-<sup>1</sup> Sur demande écrite, l’AFD fournit par écrit des renseignements sur le classement tarifaire et l’origine préférentielle des marchandises.
+<sup>1</sup> Sur demande écrite, l’OFDF fournit par écrit des renseignements sur le classement tarifaire et l’origine préférentielle des marchandises.
 
-<sup>2</sup> Elle limite à six ans la validité de son renseignement sur le classement tarifaire et à trois ans celle de son renseignement sur l’origine préférentielle. L’ayant droit doit prouver dans la déclaration en douane que la marchandise déclarée correspond à tous égards à celle décrite dans le renseignement.
+<sup>2</sup> Il limite à six ans la validité de son renseignement sur le classement tarifaire et à trois ans celle de son renseignement sur l’origine préférentielle. L’ayant droit doit prouver dans la déclaration en douane que la marchandise déclarée correspond à tous égards à celle décrite dans le renseignement.
 
 <sup>3</sup> Le renseignement n’est pas contraignant s’il a été délivré sur la base d’indications inexactes ou incomplètes du demandeur.
 
 <sup>4</sup> Il perd son caractère contraignant lorsque les dispositions pertinentes sont modifiées.
 
-<sup>5</sup> L’AFD peut révoquer le renseignement pour de justes motifs.
+<sup>5</sup> L’OFDF peut révoquer le renseignement pour de justes motifs.
 
 ## Titre 2 Procédure douanière
 
@@ -340,7 +340,7 @@ La marchandise peut être taxée au taux le plus élevé applicable à son genre
 
 **Routes douanières, débarcadères et aérodromes douaniers**
 
-<sup>1</sup> Les marchandises qui traversent la frontière douanière par terre, par eau ou par air doivent emprunter les routes (routes douanières), les ports ou les débarcadères (débarcadères douaniers) et les aérodromes (aérodromes douaniers) désignés à cet effet par l’AFD.
+<sup>1</sup> Les marchandises qui traversent la frontière douanière par terre, par eau ou par air doivent emprunter les routes (routes douanières), les ports ou les débarcadères (débarcadères douaniers) et les aérodromes (aérodromes douaniers) désignés à cet effet par l’OFDF.
 
 <sup>2</sup>
 
@@ -349,15 +349,15 @@ Sont en outre réputées routes douanières, pour autant qu’elles franchissent
 - a. les lignes de chemin de fer servant au transport public;
 - b. les lignes électriques;
 - c. les conduites;
-- d. les autres voies de transport et de communication désignées comme routes douanières par l’AFD.
+- d. les autres voies de transport et de communication désignées comme routes douanières par l’OFDF.
 
-<sup>3</sup> L’AFD peut, pour tenir compte de conditions spéciales, autoriser la circulation des marchandises ailleurs. Elle fixe les conditions et les charges.
+<sup>3</sup> L’OFDF peut, pour tenir compte de conditions spéciales, autoriser la circulation des marchandises ailleurs. Il fixe les conditions et les charges.
 
 #### Art. 23
 
 **Surveillance et contrôle douaniers**
 
-<sup>1</sup> A compter de leur introduction dans le territoire douanier jusqu’à leur réexportation ou à leur mise en libre pratique, les marchandises sont soumises à la surveillance et au contrôle douaniers.
+<sup>1</sup> À compter de leur introduction dans le territoire douanier jusqu’à leur réexportation ou à leur mise en libre pratique, les marchandises sont soumises à la surveillance et au contrôle douaniers.
 
 <sup>2</sup> La surveillance douanière comprend l’action menée au plan général par l’admi-nistration des douanes en vue d’assurer le respect du droit douanier et des actes législatifs de la Confédération autres que douaniers.
 
@@ -369,21 +369,21 @@ Sont en outre réputées routes douanières, pour autant qu’elles franchissent
 
 <sup>1</sup> Les marchandises conduites au bureau de douane doivent être présentées en douane et déclarées sommairement par la personne assujettie à l’obligation de conduire les marchandises ou par son mandataire.
 
-<sup>2</sup> La présentation consiste à communiquer à l’AFD le fait que les marchandises se trouvent au bureau de douane ou dans un autre lieu agréé par l’AFD.
+<sup>2</sup> La présentation consiste à communiquer à l’OFDF le fait que les marchandises se trouvent au bureau de douane ou dans un autre lieu agréé par l’OFDF.
 
-<sup>3</sup> Les marchandises présentées sont sous la garde de l’AFD.
+<sup>3</sup> Les marchandises présentées sont sous la garde de l’OFDF.
 
-<sup>4</sup> L’AFD peut prescrire la forme de la présentation et de la déclaration sommaire.
+<sup>4</sup> L’OFDF peut prescrire la forme de la présentation et de la déclaration sommaire.
 
 #### Art. 25
 
 **Déclaration**
 
-<sup>1</sup> La personne assujettie à l’obligation de déclarer doit, dans le délai fixé par l’AFD, déclarer en vue de la taxation les marchandises conduites, présentées et déclarées sommairement au bureau de douane et remettre les documents d’accompagnement.
+<sup>1</sup> La personne assujettie à l’obligation de déclarer doit, dans le délai fixé par l’OFDF, déclarer en vue de la taxation les marchandises conduites, présentées et déclarées sommairement au bureau de douane et remettre les documents d’accompagnement.
 
 <sup>2</sup> La destination douanière doit être consignée dans la déclaration en douane.
 
-<sup>3</sup> L’AFD peut prévoir, dans l’intérêt de la surveillance douanière, que des marchandises soient déclarées au bureau de douane avant d’être introduites dans le territoire douanier ou sorties de celui-ci.
+<sup>3</sup> L’OFDF peut prévoir, dans l’intérêt de la surveillance douanière, que des marchandises soient déclarées au bureau de douane avant d’être introduites dans le territoire douanier ou sorties de celui-ci.
 
 <sup>4</sup> La personne assujettie à l’obligation de déclarer peut, avant de remettre la déclaration en douane, analyser ou faire analyser à ses frais et à ses risques des marchandises déclarées sommairement.
 
@@ -395,7 +395,7 @@ Sont assujettis à l’obligation de déclarer:
 
 - a. les personnes assujetties à l’obligation de conduire les marchandises;
 - b. les personnes chargées d’établir la déclaration en douane;
-- c.[^26-1] …
+- c.[^26-1] ...
 - d. les personnes qui modifient l’emploi d’une marchandise.
 
 [^26-1]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -422,9 +422,9 @@ La déclaration en douane peut être établie:
 - a. par un procédé électronique;
 - b. par écrit;
 - c. verbalement;
-- d. sous une autre forme d’expression de la volonté admise par l’AFD.
+- d. sous une autre forme d’expression de la volonté admise par l’OFDF.
 
-<sup>2</sup> L’AFD peut prescrire la forme de la déclaration; elle peut notamment ordonner l’utilisation d’un procédé électronique et faire dépendre celle-ci d’un contrôle du système utilisé.
+<sup>2</sup> L’OFDF peut prescrire la forme de la déclaration; il peut notamment ordonner l’utilisation d’un procédé électronique et faire dépendre celle-ci d’un contrôle du système utilisé.
 
 #### Art. 29
 
@@ -432,13 +432,13 @@ La déclaration en douane peut être établie:
 
 <sup>1</sup>
 
-L’AFD fixe pour chaque bureau de douane:
+L’OFDF fixe pour chaque bureau de douane:
 
 - a. les compétences du bureau;
 - b. l’horaire applicable à la taxation;
 - c. le lieu où la taxation est effectuée(emplacement officiel).
 
-<sup>2</sup> Elle tient compte des besoins nationaux et régionaux et donne connaissance de ses instructions de manière appropriée.
+<sup>2</sup> Il tient compte des besoins nationaux et régionaux et donne connaissance de ses instructions de manière appropriée.
 
 <sup>3</sup> Les bureaux de douane peuvent procéder à la taxation ailleurs qu’à l’emplacement officiel, notamment au domicile de l’expéditeur ou du destinataire.
 
@@ -446,7 +446,7 @@ L’AFD fixe pour chaque bureau de douane:
 
 **Contrôles sur le territoire douanier**
 
-<sup>1</sup> L’AFD peut procéder à des contrôles quant à l’accomplissement des obligations douanières sur le territoire douanier.
+<sup>1</sup> L’OFDF peut procéder à des contrôles quant à l’accomplissement des obligations douanières sur le territoire douanier.
 
 <sup>2</sup> Les personnes qui étaient assujetties à l’obligation de déclarer lors de l’importation doivent, sur demande, fournir la preuve que les marchandises importées ont fait l’objet d’une procédure de taxation.
 
@@ -456,9 +456,9 @@ L’AFD fixe pour chaque bureau de douane:
 
 **Contrôles à domicile**
 
-<sup>1</sup> L’AFD peut procéder sans préavis à des contrôles à domicile chez les personnes qui sont ou étaient assujetties à l’obligation de déclarer ou débitrices de la dette douanière dans une procédure de taxation ou qui ont l’obligation de tenir une comptabilité en vertu de la présente loi.
+<sup>1</sup> L’OFDF peut procéder sans préavis à des contrôles à domicile chez les personnes qui sont ou étaient assujetties à l’obligation de déclarer ou débitrices de la dette douanière dans une procédure de taxation ou qui ont l’obligation de tenir une comptabilité en vertu de la présente loi.
 
-<sup>2</sup> Elle peut procéder au contrôle physique du genre, de la quantité et de l’état des marchandises, requérir tous les renseignements nécessaires et contrôler des données et des documents, des systèmes et des informations susceptibles d’être importants pour l’exécution de la présente loi.
+<sup>2</sup> Il peut procéder au contrôle physique du genre, de la quantité et de l’état des marchandises, requérir tous les renseignements nécessaires et contrôler des données et des documents, des systèmes et des informations susceptibles d’être importants pour l’exécution de la présente loi.
 
 <sup>3</sup> Le droit de contrôler prend fin cinq ans après l’importation. L’ouverture d’une enquête pénale est réservée.
 
@@ -482,7 +482,7 @@ L’AFD fixe pour chaque bureau de douane:
 
 <sup>1</sup> La déclaration en douane acceptée par le bureau de douane lie la personne assujettie à l’obligation de déclarer.
 
-<sup>2</sup> L’AFD fixe la forme et la date de l’acceptation.
+<sup>2</sup> L’OFDF fixe la forme et la date de l’acceptation.
 
 #### Art. 34
 
@@ -492,18 +492,18 @@ L’AFD fixe pour chaque bureau de douane:
 
 La personne assujettie à l’obligation de déclarer peut rectifier ou retirer la déclaration en douane acceptée tant que les marchandises sont encore présentées et que le bureau de douane:
 
-- a. n’a pas constaté que les indications qui figurent dans la déclaration en douane ou dans les documents d’accompagnement sont inexactes; ou
+- a. n’a pas constaté que les indications qui figurent dans la déclaration en douane ou dans les documents d’accompagnement sont inexactes, ou
 - b. n’a pas ordonné de vérification.
 
-<sup>2</sup> Le Conseil fédéral peut prévoir un court délai pour rectifier la déclaration en douane acceptée lorsque les marchandises ne sont plus sous la garde de l’AFD.
+<sup>2</sup> Le Conseil fédéral peut prévoir un court délai pour rectifier la déclaration en douane acceptée lorsque les marchandises ne sont plus sous la garde de l’OFDF.
 
-<sup>3</sup> La personne assujettie à l’obligation de déclarer peut présenter au bureau de douane une demande de modification de la taxation, dans les 30 jours suivant la date à laquelle les marchandises ont quitté la garde de l’AFD; elle doit présenter simultanément une déclaration en douane rectifiée.
+<sup>3</sup> La personne assujettie à l’obligation de déclarer peut présenter au bureau de douane une demande de modification de la taxation, dans les 30 jours suivant la date à laquelle les marchandises ont quitté la garde de l’OFDF; elle doit présenter simultanément une déclaration en douane rectifiée.
 
 <sup>4</sup>
 
 Le bureau de douane donne suite à la demande si la personne assujettie à l’obligation de déclarer prouve:
 
-- a. que les marchandises ont été déclarées par erreur pour le régime douanier indiqué dans la déclaration en douane; ou
+- a. que les marchandises ont été déclarées par erreur pour le régime douanier indiqué dans la déclaration en douane, ou
 - b. que les conditions requises pour la nouvelle taxation demandée étaient déjà remplies lorsque la déclaration en douane a été acceptée et que les marchandises sont toujours en l’état.
 
 #### Art. 35
@@ -558,11 +558,11 @@ Le bureau de douane fixe les droits de douane, établit la décision de taxation
 
 **Libération et enlèvement des marchandises**
 
-<sup>1</sup> Le bureau de douane libère les marchandises taxées sur la base de la décision de taxation ou d’un autre document à désigner par l’AFD.
+<sup>1</sup> Le bureau de douane libère les marchandises taxées sur la base de la décision de taxation ou d’un autre document à désigner par l’OFDF.
 
 <sup>2</sup> Les marchandises ne peuvent être enlevées que si le bureau de douane les a libérées.
 
-<sup>3</sup> L’AFD fixe le délai pour l’enlèvement des marchandises.
+<sup>3</sup> L’OFDF fixe le délai pour l’enlèvement des marchandises.
 
 #### Art. 41
 
@@ -585,9 +585,9 @@ Le Conseil fédéral peut prévoir des simplifications de la procédure douaniè
 - a. supprimer l’obligation de présentation en douane ou de déclaration sommaire, dans la mesure où le contrôle douanier des marchandises n’est pas compromis;
 - b. prévoir des facilités pour le trafic touristique;
 - c. prévoir des déclarations collectives périodiques;
-- d. déléguer des tâches de l’AFD à des personnes qui sont parties à la procédure douanière.
+- d. déléguer des tâches de l’OFDF à des personnes qui sont parties à la procédure douanière.
 
-<sup>2</sup> L’AFD peut, pour simplifier davantage la procédure douanière ou procéder à des essais pilotes, conclure des accords avec des personnes qui sont parties à la procédure douanière, si ces accords ne portent pas notablement atteinte à la concurrence.
+<sup>2</sup> L’OFDF peut, pour simplifier davantage la procédure douanière ou procéder à des essais pilotes, conclure des accords avec des personnes qui sont parties à la procédure douanière, si ces accords ne portent pas notablement atteinte à la concurrence.
 
 <sup>3</sup> Les simplifications de la procédure douanière ne sont admises que si la sécurité douanière n’est pas compromise, en particulier si le montant des droits de douane n’est pas diminué.
 
@@ -597,7 +597,7 @@ Le Conseil fédéral peut prévoir des simplifications de la procédure douaniè
 
 <sup>1</sup>
 
-L’AFD octroie, sur demande, aux personnes domiciliées dans le territoire douanier ou dans les enclaves douanières suisses le statut d’opérateur économique agréé (*Authorised Economic Operator*, AEO) si elles remplissent les conditions suivantes:
+L’OFDF octroie, sur demande, aux personnes domiciliées dans le territoire douanier ou dans les enclaves douanières suisses le statut d’opérateur économique agréé (*Authorised Economic Operator*, AEO) si elles remplissent les conditions suivantes:
 
 - a. avoir respecté les exigences douanières;
 - b. disposer d’un système de gestion des écritures commerciales et d’éventuelles écritures de transport qui permette des contrôles douaniers de sécurité appropriés;
@@ -608,7 +608,7 @@ L’AFD octroie, sur demande, aux personnes domiciliées dans le territoire doua
 
 <sup>2bis</sup> Le Conseil fédéral est habilité à conclure seul des traités internationaux portant exclusivement sur la reconnaissance mutuelle du statut d’opérateur économique agréé.[^42a-2]
 
-<sup>3</sup> L’AFD peut effectuer des contrôles de l’exploitation commerciale des requérants et des opérateurs économiques agréés.
+<sup>3</sup> L’OFDF peut effectuer des contrôles de l’exploitation commerciale des requérants et des opérateurs économiques agréés.
 
 [^42a-1]: Introduit par l’art. 3 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’Ac. entre la Suisse et la CE sur la facilitation et la sécurité douanières, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149); [FF 2009 8091](https://fedlex.data.admin.ch/eli/fga/2009/1532)).
 [^42a-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -626,7 +626,7 @@ Le trafic dans la zone frontière est l’importation ou l’exportation à l’
 
 <sup>2</sup> La zone frontière est le territoire suisse et étranger compris dans une bande de 10 km de chaque côté de la frontière douanière (zone parallèle).
 
-<sup>3</sup> L’AFD peut étendre la zone frontière en fonction des particularités locales.
+<sup>3</sup> L’OFDF peut étendre la zone frontière en fonction des particularités locales.
 
 <sup>4</sup> Le Conseil fédéral règle la procédure douanière applicable au trafic dans la zone frontière.
 
@@ -636,7 +636,7 @@ Le trafic dans la zone frontière est l’importation ou l’exportation à l’
 
 <sup>1</sup> Le Conseil fédéral règle la procédure douanière applicable au trafic par rail, par bateau et par air.
 
-<sup>2</sup> Les entreprises de transport doivent faire parvenir à l’AFD tous les documents et relevés qui peuvent revêtir de l’importance pour le contrôle douanier. Cette transmission doit avoir lieu sous forme électronique si l’AFD en fait la demande.
+<sup>2</sup> Les entreprises de transport doivent faire parvenir à l’OFDF tous les documents et relevés qui peuvent revêtir de l’importance pour le contrôle douanier. Cette transmission doit avoir lieu sous forme électronique si l’OFDF en fait la demande.
 
 [^44-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -648,11 +648,11 @@ Le trafic dans la zone frontière est l’importation ou l’exportation à l’
 
 <sup>2</sup> La personne assujettie à l’obligation de déclarer est l’exploitant des installations de transport par conduites.
 
-<sup>3</sup> L’exploitant doit permettre à l’AFD de consulter tous les documents et relevés qui peuvent être importants pour le contrôle douanier.
+<sup>3</sup> L’exploitant doit permettre à l’OFDF de consulter tous les documents et relevés qui peuvent être importants pour le contrôle douanier.
 
 #### Art. 46
 
-**Energie électrique**
+**Énergie électrique**
 
 Le Conseil fédéral règle la procédure douanière applicable à l’énergie électrique.
 
@@ -718,7 +718,7 @@ Le régime du transit implique:
 
 **Définition**
 
-<sup>1</sup> L’entrepôt douanier est un lieu du territoire douanier agréé par l’AFD et placé sous la surveillance douanière, dans lequel des marchandises peuvent être entreposées aux conditions fixées par l’AFD.
+<sup>1</sup> L’entrepôt douanier est un lieu du territoire douanier agréé par l’OFDF et placé sous la surveillance douanière, dans lequel des marchandises peuvent être entreposées aux conditions fixées par l’OFDF.
 
 <sup>2</sup> L’entrepôt douanier peut être un entrepôt douanier ouvert ou un entrepôt de marchandises de grande consommation.
 
@@ -773,23 +773,23 @@ L’entrepositaire est:
 L’entreposeur a la responsabilité d’assurer:
 
 - a. que les marchandises, pendant leur entreposage dans l’entrepôt douanier, ne soient pas soustraites à la surveillance douanière;
-- b. l’exécution des obligations qui découlent de l’entreposage des marchandises; et
+- b. l’exécution des obligations qui découlent de l’entreposage des marchandises, et
 - c. l’observation des charges fixées dans l’autorisation.
 
-<sup>6</sup> L’AFD peut exiger que l’entreposeur fournisse une sûreté pour l’observation des obligations visées à l’al. 5.
+<sup>6</sup> L’OFDF peut exiger que l’entreposeur fournisse une sûreté pour l’observation des obligations visées à l’al. 5.
 
 #### Art. 54
 
 **Autorisation d’exploiter un entrepôt douanier ouvert**
 
-<sup>1</sup> Quiconque exploite un entrepôt douanier ouvert doit avoir une autorisation de l’AFD.
+<sup>1</sup> Quiconque exploite un entrepôt douanier ouvert doit avoir une autorisation de l’OFDF.
 
 <sup>2</sup>
 
-L’AFD délivre l’autorisation si:
+L’OFDF délivre l’autorisation si:
 
 - a. le requérant est domicilié en Suisse et garantit l’exploitation conforme de l’entrepôt douanier ouvert;
-- b. la surveillance et le contrôle douaniers n’entraînent pas des frais administratifs disproportionnés pour l’AFD.
+- b. la surveillance et le contrôle douaniers n’entraînent pas des frais administratifs disproportionnés pour l’OFDF.
 
 <sup>3</sup>
 
@@ -802,7 +802,7 @@ L’autorisation peut:
 
 **Entrepôt de marchandises de grande consommation**
 
-<sup>1</sup> Seules les marchandises admises par l’AFD peuvent être entreposées dans les entrepôts de marchandises de grande consommation.
+<sup>1</sup> Seules les marchandises admises par l’OFDF peuvent être entreposées dans les entrepôts de marchandises de grande consommation.
 
 <sup>2</sup> Elles peuvent être entreposées pendant deux ans au plus. Sur demande motivée, ce délai peut être prorogé à cinq ans au maximum.
 
@@ -812,7 +812,7 @@ L’autorisation peut:
 
 **Inventaire et ouvraison des marchandises entreposées**
 
-<sup>1</sup> L’entreposeur ou l’entrepositaire doit tenir un inventaire de toutes les marchandises entreposées. L’AFD prescrit la forme de l’inventaire.
+<sup>1</sup> L’entreposeur ou l’entrepositaire doit tenir un inventaire de toutes les marchandises entreposées. L’OFDF prescrit la forme de l’inventaire.
 
 <sup>2</sup> Le Conseil fédéral fixe les conditions auxquelles les marchandises entreposées dans des entrepôts douaniers ouverts peuvent être ouvrées.
 
@@ -847,7 +847,7 @@ Le régime de l’admission temporaire implique:
 
 <sup>1</sup> Les marchandises qui doivent être introduites dans le territoire douanier en vue d’un perfectionnement actif doivent être déclarées pour le régime du perfectionnement actif.
 
-<sup>2</sup> Quiconque introduit des marchandises dans le territoire douanier en vue d’un perfectionnement actif doit avoir une autorisation de l’AFD. L’autorisation peut être assortie de charges et prévoir notamment des restrictions quantitatives et temporelles.
+<sup>2</sup> Quiconque introduit des marchandises dans le territoire douanier en vue d’un perfectionnement actif doit avoir une autorisation de l’OFDF. L’autorisation peut être assortie de charges et prévoir notamment des restrictions quantitatives et temporelles.
 
 <sup>3</sup>
 
@@ -866,7 +866,7 @@ Le régime du perfectionnement actif implique:
 
 <sup>1</sup> Les marchandises qui doivent être achéminées vers le territoire douanier étranger en vue d’un perfectionnement passif doivent être déclarées pour le régime du perfectionnement passif.
 
-<sup>2</sup> Quiconque achemine des marchandises vers le territoire douanier étranger en vue du perfectionnement passif doit avoir une autorisation de l’AFD. L’autorisation peut être assortie de charges et prévoir notamment des restrictions quantitatives et temporelles.
+<sup>2</sup> Quiconque achemine des marchandises vers le territoire douanier étranger en vue du perfectionnement passif doit avoir une autorisation de l’OFDF. L’autorisation peut être assortie de charges et prévoir notamment des restrictions quantitatives et temporelles.
 
 <sup>3</sup>
 
@@ -939,14 +939,14 @@ L’entrepositaire est:
 
 **Autorisation d’exploiter un dépôt franc sous douane**
 
-<sup>1</sup> Quiconque exploite un dépôt franc sous douane doit avoir une autorisation de l’AFD.
+<sup>1</sup> Quiconque exploite un dépôt franc sous douane doit avoir une autorisation de l’OFDF.
 
 <sup>2</sup>
 
-L’AFD délivre l’autorisation aux conditions suivantes:
+L’OFDF délivre l’autorisation aux conditions suivantes:
 
 - a. le requérant est domicilié en Suisse et garantit l’exploitation conforme du dépôt franc sous douane;
-- b. la surveillance et le contrôle douaniers n’entraînent pas des frais administratifs disproportionnés pour l’AFD;
+- b. la surveillance et le contrôle douaniers n’entraînent pas des frais administratifs disproportionnés pour l’OFDF;
 - c. il est garanti que le dépôt franc sous douane est en principe ouvert à tous aux mêmes conditions.
 
 <sup>3</sup>
@@ -970,7 +970,7 @@ L’autorisation peut:
 
 **Surveillance et inventaire**
 
-<sup>1</sup> L’entreposeur doit tenir un inventaire de toutes les marchandises sensibles entreposées. L’AFD prescrit la forme de l’inventaire.
+<sup>1</sup> L’entreposeur doit tenir un inventaire de toutes les marchandises sensibles entreposées. L’OFDF prescrit la forme de l’inventaire.
 
 <sup>2</sup> L’autorisation d’exploiter un dépôt franc sous douane peut prévoir que l’obligation de tenir un inventaire incombe à l’entrepositaire.
 
@@ -982,7 +982,7 @@ L’entreposeur a la responsabilité d’assurer:
 - b. l’exécution des obligations qui découlent de l’entreposage des marchandises;
 - c. l’observation des charges fixées dans l’autorisation.
 
-<sup>4</sup> L’AFD peut exiger que l’entreposeur fournisse une sûreté pour l’observation des obligations visées à l’al. 3.
+<sup>4</sup> L’OFDF peut exiger que l’entreposeur fournisse une sûreté pour l’observation des obligations visées à l’al. 3.
 
 #### Art. 67
 
@@ -998,7 +998,7 @@ Les marchandises sont sorties de l’entrepôt lorsqu’elles sont placées sous
 
 **Définition**
 
-La dette douanière est l’obligation de payer les droits de douane fixés par l’AFD.
+La dette douanière est l’obligation de payer les droits de douane fixés par l’OFDF.
 
 #### Art. 69
 
@@ -1015,7 +1015,7 @@ La dette douanière naît:
 
 **Débiteur**
 
-<sup>1</sup> Le débiteur doit payer la dette douanière ou la garantir si l’AFD l’exige.
+<sup>1</sup> Le débiteur doit payer la dette douanière ou la garantir si l’OFDF l’exige.
 
 <sup>2</sup>
 
@@ -1024,7 +1024,7 @@ Est débiteur de la dette douanière:
 - a. la personne qui conduit ou fait conduire les marchandises à travers la frontière douanière;
 - b. la personne assujettie à l’obligation de déclarer ou son mandataire;
 - c. la personne pour le compte de laquelle les marchandises sont importées ou exportées;
-- d.[^70-1] …
+- d.[^70-1] ...
 
 <sup>3</sup> Les débiteurs répondent solidairement de la dette douanière. Le recours entre eux est régi par les dispositions du code des obligations[^70-2].
 
@@ -1032,7 +1032,7 @@ Est débiteur de la dette douanière:
 
 Les personnes qui établissent professionnellement des déclarations en douane ne répondent pas solidairement:
 
-- a. si la dette douanière est payée par prélèvement sur le compte de l’importateur en procédure centralisée de décompte de l’AFD (PCD);
+- a. si la dette douanière est payée par prélèvement sur le compte de l’importateur en procédure centralisée de décompte de l’OFDF (PCD);
 - b. si la dette douanière résulte de la notification d’une décision de perception subséquente selon la loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA)[^70-3] et qu’aucune infraction à la législation administrative fédérale ne peut être imputée à la personne qui a établi professionnellement la déclaration en douane; dans les cas de peu de gravité, le montant de la responsabilité solidaire peut être réduit.
 
 <sup>4bis</sup>
@@ -1055,7 +1055,7 @@ Ne répondent pas non plus solidairement les entreprises de transport et leurs e
 
 **Non-perception des droits de douane**
 
-L’AFD peut renoncer à la perception des droits de douane si celle-ci entraîne des frais administratifs manifestement supérieurs aux recettes.
+L’OFDF peut renoncer à la perception des droits de douane si celle-ci entraîne des frais administratifs manifestement supérieurs aux recettes.
 
 #### Art. 72
 
@@ -1073,7 +1073,7 @@ L’AFD peut renoncer à la perception des droits de douane si celle-ci entraîn
 
 <sup>2</sup> Le DFF fixe les modalités de paiement et les conditions d’octroi des facilités de paiement. Il peut prévoir des délais de paiement.
 
-<sup>3</sup> L’AFD peut obliger les débiteurs qui utilisent régulièrement le trafic des paiements à payer la dette douanière sans numéraire.
+<sup>3</sup> L’OFDF peut obliger les débiteurs qui utilisent régulièrement le trafic des paiements à payer la dette douanière sans numéraire.
 
 #### Art. 74
 
@@ -1088,7 +1088,7 @@ L’intérêt n’est pas dû:
 - a. dans les cas spéciaux prévus par le Conseil fédéral;
 - b. tant que la dette douanière est garantie par un dépôt d’espèces.
 
-<sup>3</sup> L’AFD verse des intérêts sur les montants perçus à tort ou non remboursés à tort à compter du paiement.
+<sup>3</sup> L’OFDF verse des intérêts sur les montants perçus à tort ou non remboursés à tort à compter du paiement.
 
 <sup>4</sup> Le DFF fixe les taux d’intérêt.
 
@@ -1112,9 +1112,9 @@ L’intérêt n’est pas dû:
 
 #### Art. 76
 
-<sup>1</sup> Lorsque la créance douanière est conditionnelle ou que l’AFD octroie des facilités de paiement, le débiteur doit fournir des sûretés pour garantir la créance sous forme de dépôt d’espèces, de consignation de titres sûrs et négociables ou de cautionnement douanier.
+<sup>1</sup> Lorsque la créance douanière est conditionnelle ou que l’OFDF octroie des facilités de paiement, le débiteur doit fournir des sûretés pour garantir la créance sous forme de dépôt d’espèces, de consignation de titres sûrs et négociables ou de cautionnement douanier.
 
-<sup>2</sup> Si aucune sûreté n’est fournie ou si le paiement de la créance douanière paraît menacé, l’AFD peut rendre une décision de réquisition de sûretés ou faire valoir le droit de gage douanier même si la créance n’est pas encore exigible.
+<sup>2</sup> Si aucune sûreté n’est fournie ou si le paiement de la créance douanière paraît menacé, l’OFDF peut rendre une décision de réquisition de sûretés ou faire valoir le droit de gage douanier même si la créance n’est pas encore exigible.
 
 <sup>3</sup>
 
@@ -1144,9 +1144,9 @@ Le cautionnement douanier en tant que cautionnement solidaire garantit:
 
 **Droits et obligations de la caution**
 
-<sup>1</sup> Si la caution paie la créance douanière, l’AFD lui délivre, sur demande, un récépissé lui permettant de se retourner contre le débiteur et de demander la mainlevée définitive de l’opposition.
+<sup>1</sup> Si la caution paie la créance douanière, l’OFDF lui délivre, sur demande, un récépissé lui permettant de se retourner contre le débiteur et de demander la mainlevée définitive de l’opposition.
 
-<sup>2</sup> Les marchandises qui ont donné lieu à la créance douanière cautionnée et qui sont sous la garde de l’AFD sont remises à la caution contre paiement de la créance douanière.
+<sup>2</sup> Les marchandises qui ont donné lieu à la créance douanière cautionnée et qui sont sous la garde de l’OFDF sont remises à la caution contre paiement de la créance douanière.
 
 <sup>3</sup> La caution ne peut faire valoir, à l’égard de la créance douanière, d’autres exceptions que le débiteur. Tout titre exécutoire qui peut être produit contre ce dernier déploie également ses effets à l’égard de la caution.
 
@@ -1156,9 +1156,9 @@ Le cautionnement douanier en tant que cautionnement solidaire garantit:
 
 <sup>1</sup> La responsabilité de la caution prend fin en même temps que celle du débiteur.
 
-<sup>2</sup> Le cautionnement général peut être résilié au plus tôt un an après sa constitution. Dans ce cas, il ne s’étend plus aux créances douanières à l’égard du débiteur nées plus de 30 jours après la réception de la résiliation par l’AFD.
+<sup>2</sup> Le cautionnement général peut être résilié au plus tôt un an après sa constitution. Dans ce cas, il ne s’étend plus aux créances douanières à l’égard du débiteur nées plus de 30 jours après la réception de la résiliation par l’OFDF.
 
-<sup>3</sup> L’AFD peut annuler le cautionnement en tout temps.
+<sup>3</sup> L’OFDF peut annuler le cautionnement en tout temps.
 
 #### Art. 80
 
@@ -1193,7 +1193,7 @@ Le cautionnement douanier en tant que cautionnement solidaire garantit:
 La Confédération a un droit de gage légal (droit de gage douanier):
 
 - a. sur les marchandises passibles de droits de douane;
-- b. sur les marchandises et les choses ayant servi à commettre une infraction à la législation douanière ou aux actes législatifs de la Confédération autres que douaniers que l’AFD exécute.
+- b. sur les marchandises et les choses ayant servi à commettre une infraction à la législation douanière ou aux actes législatifs de la Confédération autres que douaniers que l’OFDF exécute.
 
 <sup>2</sup> Si le gage douanier ne couvre pas toutes les créances garanties, le débiteur peut préciser quelles dettes il entend éteindre grâce au produit de la réalisation du gage. Si le débiteur ne se prononce pas dans le délai fixé, les créances garanties par le gage douanier sont éteintes dans l’ordre fixé par le Conseil fédéral.
 
@@ -1203,11 +1203,11 @@ La Confédération a un droit de gage légal (droit de gage douanier):
 
 **Séquestre**
 
-<sup>1</sup> L’AFD fait valoir son droit de gage par le séquestre.
+<sup>1</sup> L’OFDF fait valoir son droit de gage par le séquestre.
 
 <sup>2</sup> Le séquestre s’exerce par la mainmise sur le gage ou par l’interdiction faite au possesseur des marchandises ou des choses d’en disposer.
 
-<sup>3</sup> Lorsque l’AFD trouve des marchandises dont il y a lieu de présumer qu’elles ont été introduites illégalement dans le territoire douanier, celles-ci sont séquestrées en tant que gage douanier. Si la valeur des marchandises le justifie, l’AFD recherche l’ayant droit.
+<sup>3</sup> Lorsque l’OFDF trouve des marchandises dont il y a lieu de présumer qu’elles ont été introduites illégalement dans le territoire douanier, celles-ci sont séquestrées en tant que gage douanier. Si la valeur des marchandises le justifie, l’OFDF recherche l’ayant droit.
 
 #### Art. 84
 
@@ -1228,7 +1228,7 @@ Les marchandises ou les choses sont restituées sans sûreté si le propriétair
 
 **Perception subséquente des droits de douane**
 
-Si l’AFD a, par erreur, omis de percevoir un droit de douane, fixé un droit de douane insuffisant ou effectué un remboursement de droit de douane trop élevé, elle peut recouvrer le montant dû si elle communique au débiteur son intention de le faire dans un délai d’un an à compter de l’établissement de la décision de taxation.
+Si l’OFDF a, par erreur, omis de percevoir un droit de douane, fixé un droit de douane insuffisant ou effectué un remboursement de droit de douane trop élevé, il peut recouvrer le montant dû si il communique au débiteur son intention de le faire dans un délai d’un an à compter de l’établissement de la décision de taxation.
 
 #### Art. 86
 
@@ -1236,7 +1236,7 @@ Si l’AFD a, par erreur, omis de percevoir un droit de douane, fixé un droit d
 
 <sup>1</sup>
 
-L’AFD ne perçoit pas de droits de douane ou en rembourse tout ou partie sur demande lorsque:
+L’OFDF ne perçoit pas de droits de douane ou en rembourse tout ou partie sur demande lorsque:
 
 - a. des marchandises sous sa garde ou placées sous le régime du transit, de l’entrepôt douanier, du perfectionnement actif ou passif ou de l’admission temporaire sont totalement ou partiellement détruites, par cas fortuit ou force majeure ou avec l’assentiment des autorités;
 - b. des marchandises en libre pratique sont totalement ou partiellement détruites en vertu d’une décision des autorités ou réexportées en vertu d’une telle décision;
@@ -1245,7 +1245,7 @@ L’AFD ne perçoit pas de droits de douane ou en rembourse tout ou partie sur d
 
 <sup>2</sup>
 
-Sur demande, l’AFD renonce totalement ou partiellement à faire valoir les créances visées à l’art. 12 DPA[^86-1] ou rembourse totalement ou partiellement les créances déjà acquittées:
+Sur demande, l’OFDF renonce totalement ou partiellement à faire valoir les créances visées à l’art. 12 DPA[^86-1] ou rembourse totalement ou partiellement les créances déjà acquittées:
 
 - a. si aucune faute n’est imputable au requérant, et
 - b.
@@ -1279,13 +1279,13 @@ Le gage douanier peut être réalisé:
 - a. lorsque la créance garantie est exécutoire, et
 - b. lorsque le délai de paiement imparti au débiteur ou à la caution est échu.
 
-<sup>2</sup> L’AFD peut réaliser immédiatement et sans l’accord du propriétaire du gage les marchandises et les choses qui se déprécient rapidement ou nécessitent un entretien coûteux.
+<sup>2</sup> L’OFDF peut réaliser immédiatement et sans l’accord du propriétaire du gage les marchandises et les choses qui se déprécient rapidement ou nécessitent un entretien coûteux.
 
 <sup>3</sup> En règle générale, le gage est réalisé par la vente aux enchères publiques. Le Conseil fédéral peut fixer les principes de la procédure; au surplus, celle-ci est régie par le droit cantonal applicable au lieu de la vente aux enchères.
 
 <sup>4</sup>
 
-L’AFD ne peut réaliser le gage de gré à gré qu’avec l’accord du propriétaire du gage, à moins:
+L’OFDF ne peut réaliser le gage de gré à gré qu’avec l’accord du propriétaire du gage, à moins:
 
 - a. que le gage n’ait pas pu être vendu aux enchères, ou
 - b. que la valeur du gage n’excède pas 5000 francs et que le propriétaire du gage ne soit pas connu.[^87-1]
@@ -1294,10 +1294,10 @@ L’AFD ne peut réaliser le gage de gré à gré qu’avec l’accord du propri
 
 Le Conseil fédéral règle:
 
-- a. les conditions supplémentaires auxquelles l’AFD peut réaliser le gage de gré à gré;
-- b. les cas dans lesquels l’AFD peut renoncer à une réalisation du gage douanier.[^87-2]
+- a. les conditions supplémentaires auxquelles l’OFDF peut réaliser le gage de gré à gré;
+- b. les cas dans lesquels l’OFDF peut renoncer à une réalisation du gage douanier.[^87-2]
 
-<sup>6</sup> L’AFD peut vendre en bourse des titres déposés.[^87-3]
+<sup>6</sup> L’OFDF peut vendre en bourse des titres déposés.[^87-3]
 
 [^87-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^87-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -1314,26 +1314,26 @@ La poursuite par voie de saisie selon l’art. 42 LP[^88-1] est introduite:
 - a. lorsqu’une créance douanière exécutoire n’est pas garantie par un gage douanier réalisable ou qu’elle n’est pas couverte intégralement par la réalisation du gage, et
 - b. lorsque le délai de paiement imparti au débiteur ou à la caution est échu.
 
-<sup>2</sup> Si le débiteur est déclaré en faillite, l’AFD peut faire valoir sa créance sans préjudice de ses prétentions découlant du droit de gage. L’art. 198 LP ne s’applique pas.
+<sup>2</sup> Si le débiteur est déclaré en faillite, l’OFDF peut faire valoir sa créance sans préjudice de ses prétentions découlant du droit de gage. L’art. 198 LP ne s’applique pas.
 
-<sup>3</sup> Les décisions exécutoires de l’AFD sont assimilées à un jugement au sens de l’art. 80 LP.
+<sup>3</sup> Les décisions exécutoires de l’OFDF sont assimilées à un jugement au sens de l’art. 80 LP.
 
-<sup>4</sup> La collocation définitive d’une créance contestée n’a pas lieu tant qu’une décision passée en force de l’AFD fait défaut.
+<sup>4</sup> La collocation définitive d’une créance contestée n’a pas lieu tant qu’une décision passée en force de l’OFDF fait défaut.
 
 [^88-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### Chapitre 5 Emoluments
+### Chapitre 5 Émoluments
 
 #### Art. 89
 
 <sup>1</sup>
 
-L’AFD peut percevoir des émoluments pour:
+L’OFDF peut percevoir des émoluments pour:
 
-- a. les décisions qu’elle rend en application de la législation douanière;
+- a. les décisions qu’il rend en application de la législation douanière;
 - b. ses prestations de service, notamment la mise à disposition de son infrastructure ainsi que de ses installations et équipements.
 
-<sup>2</sup> Le Conseil fédéral peut prévoir la perception d’émoluments pour d’autres actes officiels accomplis par l’AFD en application de la législation douanière.
+<sup>2</sup> Le Conseil fédéral peut prévoir la perception d’émoluments pour d’autres actes officiels accomplis par l’OFDF en application de la législation douanière.
 
 <sup>3</sup> Il fixe le montant des émoluments.
 
@@ -1343,27 +1343,33 @@ L’AFD peut percevoir des émoluments pour:
 
 #### Art. 90
 
-<sup>1</sup> La fixation, la perception, le remboursement et la prescription des redevances ainsi que la restitution de montants perçus en vertu de lois fédérales autres que douanières sont régis par les dispositions de la présente loi si l’exécution de ces lois incombe à l’AFD et pour autant que ces actes n’excluent pas l’application des dispositions de la présente loi.
+<sup>1</sup> La fixation, la perception, le remboursement et la prescription des redevances ainsi que la restitution de montants perçus en vertu de lois fédérales autres que douanières sont régis par les dispositions de la présente loi si l’exécution de ces lois incombe à l’OFDF et pour autant que ces actes n’excluent pas l’application des dispositions de la présente loi.
 
 <sup>2</sup> La disposition concernant la remise des droits de douane (art. 86) ne s’applique aux autres redevances dues en vertu d’une loi fédérale autre que douanière que si cet acte le prévoit.
 
-## Titre 5 Administration des douanes
+## Titre 5 Office fédéral de la douane et de la sécurité des frontières****
+
+[^tit5-1]
+
+[^tit5-1]: Nouvelle teneur selon le ch. I 16 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### Chapitre 1 Organisation et personnel
 
 #### Art. 91
 
-**Administration des douanes**
+**OFDF[^91-1]**
 
-<sup>1</sup> L’AFD est constituée de la Direction générale des douanes, des directions d’arrondissement et des bureaux de douane.
+<sup>1</sup> L’OFDF est constitué de la Direction générale des douanes, des directions d’arrondissement et des bureaux de douane.
 
 <sup>2</sup> Le Corps des gardes-frontière est une formation armée et portant l’uniforme.
+
+[^91-1]: Nouvelle teneur selon le ch. I 16 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 91a
 
 **Assermentation**[^91a-1]
 
-<sup>1</sup> L’AFD désigne le personnel autorisé à faire usage de la contrainte et de mesures policières et à exercer les compétences prévues aux art. 101 à 105.
+<sup>1</sup> L’OFDF désigne le personnel autorisé à faire usage de la contrainte et de mesures policières et à exercer les compétences prévues aux art. 101 à 105.
 
 <sup>2</sup> Le personnel visé à l’al. 1 fait le serment de remplir en conscience les devoirs de sa charge. Une promesse solennelle peut être faite en lieu et place du serment.
 
@@ -1376,28 +1382,28 @@ L’AFD peut percevoir des émoluments pour:
 
 **Engagements à l’étranger[^92-1]**
 
-<sup>1</sup> L’AFD peut participer à des missions à l’étranger dans le cadre de mesures internationales.
+<sup>1</sup> L’OFDF peut participer à des missions à l’étranger dans le cadre de mesures internationales.
 
-<sup>2</sup> La participation du personnel de l’AFD à ces missions est volontaire.
+<sup>2</sup> La participation du personnel de l’OFDF à ces missions est volontaire.
 
-<sup>3</sup> L’AFD peut, dans le cadre de mesures internationales, mettre du matériel de surveillance des frontières à la disposition d’Etats étrangers et de l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen.[^92-2]
+<sup>3</sup> L’OFDF peut, dans le cadre de mesures internationales, mettre du matériel de surveillance des frontières à la disposition d’États étrangers et de l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen.[^92-2]
 
 <sup>4</sup>
 
-Elle peut engager des agents de liaison à l’étranger et les charger des tâches suivantes:
+Il peut engager des agents de liaison à l’étranger et les charger des tâches suivantes:
 
-- a. collecte d’informations stratégiques, tactiques et opérationnelles dont elle a besoin pour remplir ses tâches légales;
-- b. échange d’informations entre les autorités partenaires dans l’Etat d’accueil et auprès des organisations internationales ainsi que des autorités suisses;
+- a. collecte d’informations stratégiques, tactiques et opérationnelles dont il a besoin pour remplir ses tâches légales;
+- b. échange d’informations entre les autorités partenaires dans l’État d’accueil et auprès des organisations internationales ainsi que des autorités suisses;
 - c. promotion de la coopération policière et judiciaire.[^92-3]
 
-<sup>5</sup> Elle peut, en accord avec l’Office fédéral de la police (fedpol), déléguer des tâches de ses propres agents de liaison aux agents de liaison de fedpol. Dans le cadre des tâches déléguées par l’AFD, les agents de liaison de fedpol sont assimilés aux agents de liaison de l’AFD en ce qui concerne l’accès aux systèmes d’information et le droit de traiter les données pour autant que cela soit nécessaire à l’accomplissement des tâches.[^92-4]
+<sup>5</sup> Il peut, en accord avec l’Office fédéral de la police (fedpol), déléguer des tâches de ses propres agents de liaison aux agents de liaison de fedpol. Dans le cadre des tâches déléguées par l’OFDF, les agents de liaison de fedpol sont assimilés aux agents de liaison de l’OFDF en ce qui concerne l’accès aux systèmes d’information et le droit de traiter les données pour autant que cela soit nécessaire à l’accomplissement des tâches.[^92-4]
 
 <sup>6</sup>
 
 Le Conseil fédéral est autorisé à:
 
-- a. conclure des traités internationaux de coopération sur l’engagement de personnel de l’AFD au sein de l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen;
-- b. convenir avec les autorités étrangères compétentes de l’engagement d’agents de liaison de l’AFD;
+- a. conclure des traités internationaux de coopération sur l’engagement de personnel de l’OFDF au sein de l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen;
+- b. convenir avec les autorités étrangères compétentes de l’engagement d’agents de liaison de l’OFDF;
 - c. régler l’étendue des tâches prévues à l’al. 4.[^92-5]
 
 [^92-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
@@ -1408,9 +1414,9 @@ Le Conseil fédéral est autorisé à:
 
 #### Art. 93
 
-**Caisse de prévoyance du personnel de l’AFD**
+**Caisse de prévoyance du personnel de l’OFDF**
 
-<sup>1</sup> L’AFD gère une caisse de prévoyance pour son personnel.
+<sup>1</sup> L’OFDF gère une caisse de prévoyance pour son personnel.
 
 <sup>2</sup> Le Conseil fédéral règle le but, l’organisation, le financement et la gestion de la caisse de prévoyance.
 
@@ -1420,17 +1426,17 @@ Le Conseil fédéral est autorisé à:
 
 **Tâches douanières**
 
-L’AFD exécute la législation douanière et les traités internationaux dont l’exécution lui incombe.
+L’OFDF exécute la législation douanière et les traités internationaux dont l’exécution lui incombe.
 
 #### Art. 95
 
 **Tâches non douanières**
 
-<sup>1</sup> L’AFD participe à l’exécution d’actes législatifs de la Confédération autres que douaniers si ces actes le prévoient.
+<sup>1</sup> L’OFDF participe à l’exécution d’actes législatifs de la Confédération autres que douaniers si ces actes le prévoient.
 
-<sup>1bis</sup> Elle soutient la lutte contre le blanchiment d’argent et le financement du terrorisme dans le cadre de ses tâches.[^95-1]
+<sup>1bis</sup> Il soutient la lutte contre le blanchiment d’argent et le financement du terrorisme dans le cadre de ses tâches.[^95-1]
 
-<sup>2</sup> Elle déduit ses frais de perception du produit brut des redevances à affectation spéciale.
+<sup>2</sup> Il déduit ses frais de perception du produit brut des redevances à affectation spéciale.
 
 [^95-1]: Introduit par le ch. I 5 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
@@ -1438,7 +1444,7 @@ L’AFD exécute la législation douanière et les traités internationaux dont 
 
 **Tâches de sécurité[^96-1]**
 
-<sup>1</sup> Dans le cadre de ses tâches douanières et autres que douanières, l’AFD accomplit également des tâches de sécurité dans l’espace frontalier afin de contribuer à la sécurité intérieure du pays et à la protection de la population. Ces activités doivent être coordonnées avec celles qui sont accomplies par la police de la Confédération et des cantons.[^96-2]
+<sup>1</sup> Dans le cadre de ses tâches douanières et autres que douanières, l’OFDF accomplit également des tâches de sécurité dans l’espace frontalier afin de contribuer à la sécurité intérieure du pays et à la protection de la population. Ces activités doivent être coordonnées avec celles qui sont accomplies par la police de la Confédération et des cantons.[^96-2]
 
 <sup>2</sup> Les compétences des autorités de poursuite pénale et de la police de la Confédération et des cantons sont sauvegardées. L’art. 97 est réservé.
 
@@ -1449,7 +1455,7 @@ L’AFD exécute la législation douanière et les traités internationaux dont 
 
 **Transfert de tâches de police cantonales**[^97-1]
 
-<sup>1</sup> Sur demande d’un canton, le DFF peut conclure avec celui-ci une convention selon laquelle l’AFD est habilitée à accomplir des tâches de police liées à l’exécution d’actes législatifs de la Confédération autres que douaniers et déléguées aux cantons en vertu de la législation fédérale.
+<sup>1</sup> Sur demande d’un canton, le DFF peut conclure avec celui-ci une convention selon laquelle l’OFDF est habilité à accomplir des tâches de police liées à l’exécution d’actes législatifs de la Confédération autres que douaniers et déléguées aux cantons en vertu de la législation fédérale.
 
 <sup>2</sup> La convention règle en particulier le secteur d’intervention, l’étendue des tâches déléguées et la prise en charge des frais.
 
@@ -1459,13 +1465,13 @@ L’AFD exécute la législation douanière et les traités internationaux dont 
 
 **Délégation de tâches par le Conseil fédéral**
 
-Le Conseil fédéral peut déléguer à l’AFD l’exécution de tâches urgentes de la Confédération dans le domaine du trafic transfrontière.
+Le Conseil fédéral peut déléguer à l’OFDF l’exécution de tâches urgentes de la Confédération dans le domaine du trafic transfrontière.
 
 #### Art. 99
 
-**Assignation d’objectifs à l’AFD**
+**Assignation d’objectifs à l’OFDF**
 
-Le DFF peut assigner périodiquement à l’AFD des objectifs concernant l’accomplissement de ses tâches.
+Le DFF peut assigner périodiquement à l’OFDF des objectifs concernant l’accomplissement de ses tâches.
 
 ### Chapitre 3 Compétences
 
@@ -1475,7 +1481,7 @@ Le DFF peut assigner périodiquement à l’AFD des objectifs concernant l’acc
 
 <sup>1</sup>
 
-Pour exécuter les tâches qui lui sont confiées, en particulier pour garantir la légalité de la circulation des personnes et des marchandises traversant la frontière douanière et pour contribuer à la sécurité intérieure du pays et à la protection de la population, l’AFD peut notamment:
+Pour exécuter les tâches qui lui sont confiées, en particulier pour garantir la légalité de la circulation des personnes et des marchandises traversant la frontière douanière et pour contribuer à la sécurité intérieure du pays et à la protection de la population, l’OFDF peut notamment:
 
 - a.
 
@@ -1492,7 +1498,7 @@ Pour exécuter les tâches qui lui sont confiées, en particulier pour garantir 
 
 <sup>1bis</sup> Dans la mesure où la présente loi ne contient pas de dispositions sur l’usage de la contrainte et de mesures policières, la loi du 20 mars 2008 sur l’usage de la contrainte[^100-1] est applicable.[^100-2]
 
-<sup>2</sup> …[^100-3]
+<sup>2</sup> ...[^100-3]
 
 [^100-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
 [^100-2]: Introduit par le ch. 5 de l’annexe à la L du 20 mars 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2429](https://fedlex.data.admin.ch/eli/fga/2006/250)).
@@ -1502,7 +1508,7 @@ Pour exécuter les tâches qui lui sont confiées, en particulier pour garantir 
 
 **Interrogatoire et palpation**
 
-<sup>1</sup> L’AFD peut appréhender et interroger une personne lorsque les circonstances portent à croire qu’elle peut fournir des indications utiles à l’exécution d’une des tâches incombant à l’AFD.
+<sup>1</sup> L’OFDF peut appréhender et interroger une personne lorsque les circonstances portent à croire qu’elle peut fournir des indications utiles à l’exécution d’une des tâches incombant à l’OFDF.
 
 <sup>2</sup>
 
@@ -1517,7 +1523,7 @@ Une personne peut être palpée:
 
 <sup>1</sup>
 
-L’AFD peut faire pratiquer une fouille corporelle ou un examen corporel sur une personne:
+L’OFDF peut faire pratiquer une fouille corporelle ou un examen corporel sur une personne:
 
 - a. si elle est soupçonnée d’être dangereuse ou de transporter avec elle des objets devant être mis en sûreté;
 - b. si les conditions d’une arrestation provisoire sont remplies.
@@ -1528,11 +1534,11 @@ L’AFD peut faire pratiquer une fouille corporelle ou un examen corporel sur un
 
 #### Art. 103
 
-**Etablissement de l’identité de personnes**
+**Établissement de l’identité de personnes**
 
 <sup>1</sup>
 
-L’AFD peut établir l’identité d’une personne en la photographiant ou en relevant ses données biométriques:
+L’OFDF peut établir l’identité d’une personne en la photographiant ou en relevant ses données biométriques:
 
 - a. si cette personne est soupçonnée d’avoir commis ou de s’apprêter à commettre une infraction grave;
 - b. si un autre acte législatif prévoit l’établissement de l’identité de personnes.
@@ -1545,16 +1551,16 @@ L’AFD peut établir l’identité d’une personne en la photographiant ou en 
 
 <sup>1</sup>
 
-L’AFD peut provisoirement mettre en sûreté des objets et des valeurs patrimoniales qui, selon toute vraisemblance:
+L’OFDF peut provisoirement mettre en sûreté des objets et des valeurs patrimoniales qui, selon toute vraisemblance:
 
 - a. seront utilisés comme moyens de preuve, ou
 - b. doivent être confisqués.
 
-<sup>2</sup> Elle transmet immédiatement les objets et les valeurs patrimoniales à l’autorité compétente. Celle-ci décide s’il faut ordonner le séquestre.
+<sup>2</sup> Il transmet immédiatement les objets et les valeurs patrimoniales à l’autorité compétente. Celle-ci décide s’il faut ordonner le séquestre.
 
-<sup>3</sup> Si l’autorité compétente n’ordonne pas le séquestre, l’AFD restitue à l’ayant droit les objets et valeurs patrimoniales se trouvant en sa possession. Si ce dernier ou son lieu de résidence n’est pas connu, l’art. 92 DPA[^104-2] s’applique par analogie.
+<sup>3</sup> Si l’autorité compétente n’ordonne pas le séquestre, l’OFDF restitue à l’ayant droit les objets et valeurs patrimoniales se trouvant en sa possession. Si ce dernier ou son lieu de résidence n’est pas connu, l’art. 92 DPA[^104-2] s’applique par analogie.
 
-<sup>4</sup> L’AFD peut ordonner une confiscation autonome d’objets et de valeurs patrimoniales au sens des art. 69 et 70 du code pénal[^104-3]. La procédure est régie par l’art. 66 DPA.
+<sup>4</sup> L’OFDF peut ordonner une confiscation autonome d’objets et de valeurs patrimoniales au sens des art. 69 et 70 du code pénal[^104-3]. La procédure est régie par l’art. 66 DPA.
 
 [^104-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^104-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1564,11 +1570,11 @@ L’AFD peut provisoirement mettre en sûreté des objets et des valeurs patrimo
 
 **Conduite au poste de douane et arrestation provisoire**
 
-<sup>1</sup> L’AFD peut conduire au poste de douane aux fins de contrôle des personnes soupçonnées d’avoir commis ou de s’apprêter à commettre une infraction grave. Elle peut les dénoncer à l’autorité compétente.
+<sup>1</sup> L’OFDF peut conduire au poste de douane aux fins de contrôle des personnes soupçonnées d’avoir commis ou de s’apprêter à commettre une infraction grave. Il peut les dénoncer à l’autorité compétente.
 
-<sup>2</sup> S’il y a péril en la demeure ou en cas de résistance, elle peut arrêter provisoirement la personne conduite au poste selon l’art. 19 DPA[^105-1].
+<sup>2</sup> S’il y a péril en la demeure ou en cas de résistance, il peut arrêter provisoirement la personne conduite au poste selon l’art. 19 DPA[^105-1].
 
-<sup>3</sup> Elle conduit immédiatement la personne arrêtée provisoirement à l’autorité compétente.
+<sup>3</sup> Il conduit immédiatement la personne arrêtée provisoirement à l’autorité compétente.
 
 [^105-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -1588,7 +1594,7 @@ Le personnel du Corps des gardes-frontière peut faire usage d’armes au sens d
 
 Le Conseil fédéral règle:
 
-- a. dans quelle mesure le personnel de l’AFD autre que celui du Corps des gardes-frontière a le droit de porter et d’utiliser des armes ou d’autres moyens d’autodéfense ou de contrainte;
+- a. dans quelle mesure le personnel de l’OFDF autre que celui du Corps des gardes-frontière a le droit de porter et d’utiliser des armes ou d’autres moyens d’autodéfense ou de contrainte;
 - b. l’usage de l’arme et des autres moyens d’autodéfense ou de contrainte.
 
 [^106-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
@@ -1597,7 +1603,7 @@ Le Conseil fédéral règle:
 
 **Perquisition de biens-fonds, de fonds clos et de constructions**
 
-<sup>1</sup> Le personnel de l’AFD peut, dans l’espace frontalier, perquisitionner des biens-fonds, aux fins de contrôle.
+<sup>1</sup> Le personnel de l’OFDF peut, dans l’espace frontalier, perquisitionner des biens-fonds, aux fins de contrôle.
 
 <sup>2</sup> Il peut également perquisitionner, aux fins de contrôle, des fonds clos et des constructions contigus à la rive d’une eau frontière, hormis les logements.
 
@@ -1611,7 +1617,7 @@ Le Conseil fédéral règle:
 
 <sup>1</sup>
 
-L’AFD peut utiliser des appareils automatiques de prise de vue et de relevé, ainsi que d’autres appareils de surveillance:
+L’OFDF peut utiliser des appareils automatiques de prise de vue et de relevé, ainsi que d’autres appareils de surveillance:
 
 - a. pour déceler à temps le franchissement illégal de la frontière ou des risques pour la sécurité du trafic transfrontière;
 - b. notamment pour des recherches ainsi que pour la surveillance des dépôts francs sous douane et des locaux où sont gardées des valeurs ou des personnes conduites au poste de douane ou arrêtées provisoirement.
@@ -1624,7 +1630,7 @@ L’AFD peut utiliser des appareils automatiques de prise de vue et de relevé, 
 
 <sup>1</sup> Quiconque établit des déclarations en douane à titre professionnel doit avoir les aptitudes requises.
 
-<sup>2</sup> L’AFD peut, pour une durée déterminée ou indéterminée, interdire aux personnes n’ayant pas les aptitudes requises ou ayant enfreint la législation douanière d’établir professionnellement des déclarations en douane ou d’exercer d’autres activités dans le cadre de la procédure douanière.
+<sup>2</sup> L’OFDF peut, pour une durée déterminée ou indéterminée, interdire aux personnes n’ayant pas les aptitudes requises ou ayant enfreint la législation douanière d’établir professionnellement des déclarations en douane ou d’exercer d’autres activités dans le cadre de la procédure douanière.
 
 ## Titre 6 Protection des données et assistance administrative
 
@@ -1632,13 +1638,13 @@ L’AFD peut utiliser des appareils automatiques de prise de vue et de relevé, 
 
 #### Art. 110
 
-**Systèmes d’information de l’AFD**
+**Systèmes d’information de l’OFDF**
 
-<sup>1</sup> L’AFD peut traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, lorsque cela est nécessaire à l’exécution des actes législatifs qu’elle doit appliquer.
+<sup>1</sup> L’OFDF peut traiter des données personnelles, y compris des données sensibles et des profils de la personnalité, lorsque cela est nécessaire à l’exécution des actes législatifs qu’il doit appliquer.
 
 <sup>2</sup>
 
-Elle peut gérer des systèmes d’information notamment pour:
+Il peut gérer des systèmes d’information notamment pour:
 
 - a. fixer et percevoir des redevances;
 - b. établir des analyses de risques;
@@ -1657,7 +1663,7 @@ Le Conseil fédéral règle:[^110-2]
 
 - a. l’organisation et l’exploitation des systèmes d’information;
 - b. les catalogues des données à saisir;
-- [tab] c.[^110-3] la reprise, dans un système d’information de l’AFD, conformément à l’art. 111, al. 1, de données provenant d’autres systèmes d’information de la Confédération;
+- [tab] c.[^110-3] la reprise, dans un système d’information de l’OFDF, conformément à l’art. 111, al. 1, de données provenant d’autres systèmes d’information de la Confédération;
 - d. les autorisations de traitement;
 - d<sup>bis</sup>.[^110-4] la collecte et la communication des données visée aux art. 112 et 113;
 - e. la durée de conservation;
@@ -1672,7 +1678,7 @@ Le Conseil fédéral règle:[^110-2]
 
 **Système d’information en matière pénale**[^110a-1]
 
-<sup>1</sup> L’AFD exploite un système d’information pour la poursuite et le jugement des auteurs d’infractions ainsi que pour le traitement des demandes d’assistance administrative et d’entraide judiciaire.
+<sup>1</sup> L’OFDF exploite un système d’information pour la poursuite et le jugement des auteurs d’infractions ainsi que pour le traitement des demandes d’assistance administrative et d’entraide judiciaire.
 
 <sup>2</sup>
 
@@ -1704,7 +1710,7 @@ Le système d’information permet de traiter les données sensibles suivantes:
 
 **Système d’information pour la gestion des résultats des contrôles douaniers**[^110b-1]
 
-<sup>1</sup> L’AFD exploite un système d’information pour la gestion des résultats des contrôles douaniers.
+<sup>1</sup> L’OFDF exploite un système d’information pour la gestion des résultats des contrôles douaniers.
 
 <sup>2</sup>
 
@@ -1712,7 +1718,7 @@ Le système d’information sert à l’éxécution de la présente loi, en part
 
 - a. la gestion centralisée des résultats des contrôles douaniers;
 - b. la collecte des données nécessaires à l’analyse des risques;
-- c. la collecte des données nécessaires à l’établissement des rapports concernant l’exécution des tâches de l’AFD.
+- c. la collecte des données nécessaires à l’établissement des rapports concernant l’exécution des tâches de l’OFDF.
 
 <sup>3</sup>
 
@@ -1729,7 +1735,7 @@ Le système d’information permet de traiter les données sensibles suivantes:
 
 **Système d’information pour l’établissement d’analyses des risques**[^110c-1]
 
-<sup>1</sup> Le centre de situation et d’analyse de l’AFD exploite un système d’information pour l’établissement d’analyses des risques.
+<sup>1</sup> Le centre de situation et d’analyse de l’OFDF exploite un système d’information pour l’établissement d’analyses des risques.
 
 <sup>2</sup>
 
@@ -1749,7 +1755,7 @@ Le système d’information permet de traiter les données sensibles suivantes:
 - d. les indications relatives aux mesures de droit administratif pouvant être prises ou ayant été ordonnées;
 - e. les indications relatives à des procédures pénales pendantes ou achevées.
 
-<sup>4</sup> Les résultats des analyses des risques peuvent être rendus accessibles à des personnes autorisées sur les pages Intranet de l’AFD.
+<sup>4</sup> Les résultats des analyses des risques peuvent être rendus accessibles à des personnes autorisées sur les pages Intranet de l’OFDF.
 
 [^110c-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1757,7 +1763,7 @@ Le système d’information permet de traiter les données sensibles suivantes:
 
 **Système d’information pour le soutien à la conduite**[^110d-1]
 
-<sup>1</sup> L’AFD exploite un système d’information pour le soutien à la conduite.
+<sup>1</sup> L’OFDF exploite un système d’information pour le soutien à la conduite.
 
 <sup>2</sup> Le système d’information sert à la collecte et au traitement de toutes les informations nécessaires au pilotage opérationnel et stratégique des engagements ainsi qu’à leur direction.
 
@@ -1767,7 +1773,7 @@ Le système d’information permet de traiter les données personnelles, y compr
 
 - a. les indications permettant d’identifier une personne, de la localiser et de prendre contact avec elle, ainsi que des indications relatives aux moyens de transport qu’elle utilise et aux marchandises, objets et valeurs patrimoniales qu’elle transporte;
 - b. les indications relatives aux événements traités par les centrales d’engagement;
-- c. les indications relatives aux ressources de l’AFD et des autorités concernées.
+- c. les indications relatives aux ressources de l’OFDF et des autorités concernées.
 
 [^110d-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1775,7 +1781,7 @@ Le système d’information permet de traiter les données personnelles, y compr
 
 **Système d’information pour la documentation de l’activité du Corps des gardes-frontière**[^110e-1]
 
-<sup>1</sup> L’AFD exploite un système d’information pour la documentation de l’activité du Corps des gardes-frontière et l’établissement des statistiques et des analyses des risques.
+<sup>1</sup> L’OFDF exploite un système d’information pour la documentation de l’activité du Corps des gardes-frontière et l’établissement des statistiques et des analyses des risques.
 
 <sup>2</sup>
 
@@ -1798,7 +1804,7 @@ Ont accès en ligne aux données visées à l’al. 2, let. a à c, les personne
   - 1\. de lutte contre la criminalité, en particulier contre les infractions dont la poursuite relève de la Confédération,
   - 2\. de lutte contre le blanchiment d’argent et le financement du terrorisme;
 
-- b. les collaborateurs du Secrétariat d’Etat aux migrations compétents en matière d’exécution de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^110e-2] et de la loi du 26 juin 1998 sur l’asile[^110e-3].
+- b. les collaborateurs du Secrétariat d’État aux migrations compétents en matière d’exécution de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^110e-2] et de la loi du 26 juin 1998 sur l’asile[^110e-3].
 
 <sup>4</sup> Dans le cadre de conventions au sens de l’art. 97, l’accès en ligne aux données visées à l’al. 2, let. a à c, peut être accordé aux collaborateurs des autorités cantonales de police compétents en matière de lutte contre la criminalité.
 
@@ -1810,7 +1816,7 @@ Ont accès en ligne aux données visées à l’al. 2, let. a à c, les personne
 
 **Système d’information pour appareils de prises de vue, de relevé et autres appareils de surveillance**[^110f-1]
 
-<sup>1</sup> L’AFD exploite un système d’information pour la gestion des enregistrements visés aux art. 108 ou 128*a*.
+<sup>1</sup> L’OFDF exploite un système d’information pour la gestion des enregistrements visés aux art. 108 ou 128*a*.
 
 <sup>2</sup>
 
@@ -1828,9 +1834,9 @@ Le système d’information permet de traiter notamment des données concernant:
 
 **Interfaces**[^110g-1]
 
-<sup>1</sup> Les systèmes d’information prévus aux art. 110*a* à 110*f* peuvent être reliés les uns aux autres ainsi qu’aux autres systèmes d’information de l’AFD de telle façon que, dans le cadre de leurs droits d’accès, les utilisateurs puissent vérifier par une seule interrogation si une personne ou une organisation déterminée est enregistrée dans un système d’information.
+<sup>1</sup> Les systèmes d’information prévus aux art. 110*a* à 110*f* peuvent être reliés les uns aux autres ainsi qu’aux autres systèmes d’information de l’OFDF de telle façon que, dans le cadre de leurs droits d’accès, les utilisateurs puissent vérifier par une seule interrogation si une personne ou une organisation déterminée est enregistrée dans un système d’information.
 
-<sup>2</sup> Une liaison des systèmes d’information visés aux art. 110*a* à 110*f* avec d’autres systèmes d’information de l’administration fédérale auxquels l’AFD a accès n’est admise que si la législation régissant ces derniers le prévoit.
+<sup>2</sup> Une liaison des systèmes d’information visés aux art. 110*a* à 110*f* avec d’autres systèmes d’information de l’administration fédérale auxquels l’OFDF a accès n’est admise que si la législation régissant ces derniers le prévoit.
 
 [^110g-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1838,7 +1844,7 @@ Le système d’information permet de traiter notamment des données concernant:
 
 **Plates-formes d’exploitation**[^110h-1]
 
-<sup>1</sup> Des plates-formes d’exploitation peuvent être mises en place pour les systèmes d’information de l’AFD. Une plate-forme d’exploitation se compose d’une plate-forme d’exploitation sommaire et d’une plate-forme d’exploitation détaillée.
+<sup>1</sup> Des plates-formes d’exploitation peuvent être mises en place pour les systèmes d’information de l’OFDF. Une plate-forme d’exploitation se compose d’une plate-forme d’exploitation sommaire et d’une plate-forme d’exploitation détaillée.
 
 <sup>2</sup> La plate-forme d’exploitation sommaire sert à la préparation, à l’exploitation et à la conservation des données.
 
@@ -1850,15 +1856,15 @@ Le système d’information permet de traiter notamment des données concernant:
 
 **Autres systèmes d’information**
 
-<sup>1</sup> Dans l’exercice de ses tâches, l’AFD peut traiter des données des systèmes d’information d’autres autorités de la Confédération et des cantons, pour autant que d’autres actes législatifs de la Confédération ou des cantons le prévoient. Elle utilise ces données exclusivement de manière conforme au but assigné par ces actes.
+<sup>1</sup> Dans l’exercice de ses tâches, l’OFDF peut traiter des données des systèmes d’information d’autres autorités de la Confédération et des cantons, pour autant que d’autres actes législatifs de la Confédération ou des cantons le prévoient. Il utilise ces données exclusivement de manière conforme au but assigné par ces actes.
 
-<sup>2</sup> Dans l’exercice de ses tâches, elle peut collecter des données des systèmes d’information des aérodromes douaniers, des entrepôts douaniers ouverts, des entrepôts pour marchandises de grande consommation ainsi que des dépôts francs sous douane.
+<sup>2</sup> Dans l’exercice de ses tâches, il peut collecter des données des systèmes d’information des aérodromes douaniers, des entrepôts douaniers ouverts, des entrepôts pour marchandises de grande consommation ainsi que des dépôts francs sous douane.
 
 #### Art. 112
 
 **Communication de données à des autorités suisses**
 
-<sup>1</sup> L’AFD peut communiquer des données ainsi que les constatations faites par son personnel dans l’exercice de ses fonctions aux autorités de la Confédération, des cantons et des communes ainsi qu’aux organisations ou personnes de droit public ou privé auxquelles la Confédération a confié des tâches de droit public (autorités suisses), lorsque cela est nécessaire à l’exécution des actes législatifs que ces autorités doivent appliquer.
+<sup>1</sup> L’OFDF peut communiquer des données ainsi que les constatations faites par son personnel dans l’exercice de ses fonctions aux autorités de la Confédération, des cantons et des communes ainsi qu’aux organisations ou personnes de droit public ou privé auxquelles la Confédération a confié des tâches de droit public (autorités suisses), lorsque cela est nécessaire à l’exécution des actes législatifs que ces autorités doivent appliquer.
 
 <sup>2</sup>
 
@@ -1866,33 +1872,34 @@ Peuvent en particulier être communiquées les données et connexions de donnée
 
 - a. indications sur l’identité de personnes;
 - b. indications sur l’assujettissement aux redevances;
-- c. indications sur les procédures en suspens ou achevées relevant du droit administratif, du droit pénal administratif et du droit pénal ainsi que sur les sanctions relevant de la compétence de l’Administration des douanes;
+- c.[^112-1] indications sur les procédures en suspens ou achevées relevant du droit administratif, du droit pénal administratif et du droit pénal ainsi que sur les sanctions relevant de la compétence de l’OFDF;
 - d. indications sur l’introduction dans le territoire douanier, l’importation et l’exportation de marchandises;
 - e. indications sur des infractions ou des infractions potentielles, y compris les infractions aux actes législatifs de la Confédération autres que douaniers;
 - f. indications sur des franchissements de la frontière;
 - g. indications sur la situation financière et économique de personnes.
 
-<sup>3</sup> Les données visées à l’al. 2, let. g, peuvent être communiquées à des tiers si ceux-ci doivent contrôler la solvabilité des débiteurs pour le compte de l’AFD. Ces tiers doivent garantir à l’AFD d’utiliser ces données exclusivement dans le sens de la tâche qui a été confiée.
+<sup>3</sup> Les données visées à l’al. 2, let. g, peuvent être communiquées à des tiers si ceux-ci doivent contrôler la solvabilité des débiteurs pour le compte de l’OFDF. Ces tiers doivent garantir à l’OFDF d’utiliser ces données exclusivement dans le sens de la tâche qui a été confiée.
 
 <sup>4</sup>
 
-L’AFD peut rendre accessibles par procédure d’appel les données suivantes aux autorités mentionnées ci-après si elles sont nécessaires à l’exécution des actes législatifs que ces autorités doivent appliquer:
+L’OFDF peut rendre accessibles par procédure d’appel les données suivantes aux autorités mentionnées ci-après si elles sont nécessaires à l’exécution des actes législatifs que ces autorités doivent appliquer:
 
 - a. données des déclarations en douane, aux autorités suisses;
-- b. données des systèmes d’information de l’AFD, aux divers services de cette dernière;
+- b. données des systèmes d’information de l’OFDF, aux divers services de ce dernier;
 - c. données des systèmes d’information du Corps des gardes-frontière, aux autorités de police compétentes.
 
 <sup>5</sup> Le Conseil fédéral fixe les modalités; il détermine en particulier les données qui peuvent être communiquées et les buts dans lesquels elles peuvent l’être.
 
-<sup>6</sup> Les données communiquées doivent être utilisées exclusivement de manière conforme au but assigné. Elles ne doivent pas être transmises à des tiers sans l’assentiment de l’AFD. L’art. 6, al. 1, de la loi fédérale du 19 juin 1992 sur la protection des données[^112-1] est réservé.
+<sup>6</sup> Les données communiquées doivent être utilisées exclusivement de manière conforme au but assigné. Elles ne doivent pas être transmises à des tiers sans l’assentiment de l’OFDF. L’art. 6, al. 1, de la loi fédérale du 19 juin 1992 sur la protection des données[^112-2] est réservé.
 
-[^112-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^112-1]: Nouvelle teneur selon le ch. I 16 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^112-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 113
 
 **Communication de données à des autorités étrangères**
 
-L’AFD ne peut communiquer des données, y compris des données sensibles et des profils de la personnalité, à des autorités d’autres Etats ainsi qu’à des organisations supranationales ou internationales (autorités étrangères), dans des cas d’espèce ou en procédure d’appel, que si un traité international le prévoit.
+L’OFDF ne peut communiquer des données, y compris des données sensibles et des profils de la personnalité, à des autorités d’autres États ainsi qu’à des organisations supranationales ou internationales (autorités étrangères), dans des cas d’espèce ou en procédure d’appel, que si un traité international le prévoit.
 
 ### Chapitre 2 Assistance administrative entre autorités suisses****
 
@@ -1902,11 +1909,11 @@ L’AFD ne peut communiquer des données, y compris des données sensibles et de
 
 #### Art. 114
 
-**…[^114-1]**
+**...[^114-1]**
 
-<sup>1</sup> L’AFD et les autres autorités suisses se fournissent l’assistance administrative et se soutiennent mutuellement dans l’exécution de leurs tâches.
+<sup>1</sup> L’OFDF et les autres autorités suisses se fournissent l’assistance administrative et se soutiennent mutuellement dans l’exécution de leurs tâches.
 
-<sup>2</sup> Les autorités suisses fournissent à l’AFD les données, y compris des données sensibles et des profils de la personnalité, qui sont nécessaires à l’exécution des actes législatifs qu’elle doit appliquer.
+<sup>2</sup> Les autorités suisses fournissent à l’OFDF les données, y compris des données sensibles et des profils de la personnalité, qui sont nécessaires à l’exécution des actes législatifs qu’il doit appliquer.
 
 [^114-1]: Abrogé par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, avec effet au 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1920,9 +1927,9 @@ L’AFD ne peut communiquer des données, y compris des données sensibles et de
 
 **Objet et champ d’application**[^115-1]
 
-<sup>1</sup> L’AFD peut, dans les limites de ses compétences, accorder à des autorités étrangères, à leur demande, l’assistance administrative nécessaire à l’exécution de leurs tâches, notamment pour assurer l’application correcte du droit douanier et pour prévenir, découvrir et poursuivre des infractions au droit douanier, si un traité international le prévoit.
+<sup>1</sup> L’OFDF peut, dans les limites de ses compétences, accorder à des autorités étrangères, à leur demande, l’assistance administrative nécessaire à l’exécution de leurs tâches, notamment pour assurer l’application correcte du droit douanier et pour prévenir, découvrir et poursuivre des infractions au droit douanier, si un traité international le prévoit.
 
-<sup>2</sup> Si un traité international le prévoit, elle peut également accorder l’assistance administrative d’office.
+<sup>2</sup> Si un traité international le prévoit, il peut également accorder l’assistance administrative d’office.
 
 [^115-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1930,11 +1937,11 @@ L’AFD ne peut communiquer des données, y compris des données sensibles et de
 
 **Compétence**[^115a-1]
 
-<sup>1</sup> L’AFD exécute l’assistance administrative fondée sur les demandes de l’étranger et dépose les demandes suisses.
+<sup>1</sup> L’OFDF exécute l’assistance administrative fondée sur les demandes de l’étranger et dépose les demandes suisses.
 
-<sup>2</sup> Lorsque la demande de l’étranger concerne un domaine réglé par un acte législatif autre que douanier, l’AFD transmet la demande à l’autorité compétente.
+<sup>2</sup> Lorsque la demande de l’étranger concerne un domaine réglé par un acte législatif autre que douanier, l’OFDF transmet la demande à l’autorité compétente.
 
-<sup>3</sup> Lorsque l’autorité compétente à raison de la matière n’est pas en mesure de mettre en œuvre les mesures demandées, l’AFD exécute l’assistance administrative avec le soutien de l’autorité compétente.
+<sup>3</sup> Lorsque l’autorité compétente à raison de la matière n’est pas en mesure de mettre en œuvre les mesures demandées, l’OFDF exécute l’assistance administrative avec le soutien de l’autorité compétente.
 
 [^115a-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1942,7 +1949,7 @@ L’AFD ne peut communiquer des données, y compris des données sensibles et de
 
 **Demande**[^115b-1]
 
-<sup>1</sup> La demande d’un Etat étranger doit être adressée par écrit, dans l’une des langues officielles suisses ou en anglais, et contenir les indications prévues par le traité international.
+<sup>1</sup> La demande d’un État étranger doit être adressée par écrit, dans l’une des langues officielles suisses ou en anglais, et contenir les indications prévues par le traité international.
 
 <sup>2</sup> Lorsque ces conditions ne sont pas remplies, l’autorité compétente en informe l’autorité requérante par écrit et lui donne la possibilité de compléter sa demande par écrit.
 
@@ -1960,11 +1967,11 @@ Pour obtenir des renseignement, des documents, des objets ou des valeurs patrimo
 
 **Obligation de coopérer**[^115d-1]
 
-<sup>1</sup> L’AFD peut, dans les limites de l’art. 115*c*, obliger la personne visée par la demande d’assistance administrative à coopérer, notamment à fournir des renseignements, et à produire des données et des documents.
+<sup>1</sup> L’OFDF peut, dans les limites de l’art. 115*c*, obliger la personne visée par la demande d’assistance administrative à coopérer, notamment à fournir des renseignements, et à produire des données et des documents.
 
 <sup>2</sup> La personne visée par la demande peut refuser de coopérer ou de témoigner si elle est soumise à un secret professionnel légal ou si elle a le droit de refuser de témoigner.
 
-<sup>3</sup> Si la personne visée par la demande refuse de coopérer ou de témoigner, l’AFD rend une décision sur l’obligation de coopérer et fournir des renseignements, des données ou des documents.
+<sup>3</sup> Si la personne visée par la demande refuse de coopérer ou de témoigner, l’OFDF rend une décision sur l’obligation de coopérer et fournir des renseignements, des données ou des documents.
 
 [^115d-1]: Introduit par le ch. 2 de l’annexe à la L du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -2032,7 +2039,7 @@ La personne visée par la demande d’assistance administrative peut prendre par
 
 <sup>1bis</sup> Les décisions de première instance des directions d’arrondissement peuvent faire l’objet d’un recours auprès de la Direction générale des douanes.
 
-<sup>2</sup> L’AFD est représentée par la Direction générale des douanes dans les procédures devant le Tribunal administratif fédéral et le Tribunal fédéral.
+<sup>2</sup> L’OFDF est représenté par la Direction générale des douanes dans les procédures devant le Tribunal administratif fédéral et le Tribunal fédéral.
 
 <sup>3</sup> Le délai de recours en première instance contre la taxation est de 60 jours à compter de l’établissement de la décision de taxation.
 
@@ -2116,8 +2123,8 @@ Encourt la peine applicable à l’auteur de l’infraction préalable quiconque
 
 Est puni d’une amende pouvant atteindre le quintuple de la valeur des marchandises quiconque:
 
-- a. détruit une marchandise ou une chose saisie par l’AFD à titre de gage douanier, qui est laissée en sa possession, ou
-- b. en dispose sans l’assentiment de l’AFD.
+- a. détruit une marchandise ou une chose saisie par l’OFDF à titre de gage douanier, qui est laissée en sa possession, ou
+- b. en dispose sans l’assentiment de l’OFDF.
 
 <sup>2</sup> La valeur des marchandises correspond à leur cours sur le marché intérieur lors de la découverte du détournement du gage douanier. Si ce cours n’est pas connu, la valeur des marchandises est déterminée par des experts.
 
@@ -2150,7 +2157,7 @@ Si l’amende prévisible ne dépasse pas 100 000 francs et que l’enquête por
 
 <sup>1</sup> Si une infraction constitue à la fois une soustraction ou une mise en péril et un trafic prohibé, la peine encourue est celle qui est prévue pour l’infraction la plus grave; elle peut être augmentée de façon appropriée.
 
-<sup>2</sup> Si une infraction constitue à la fois une infraction douanière et une infraction dont la poursuite incombe à l’AFD, la peine encourue est celle qui est prévue pour l’infraction la plus grave; elle peut être augmentée de façon appropriée.
+<sup>2</sup> Si une infraction constitue à la fois une infraction douanière et une infraction dont la poursuite incombe à l’OFDF, la peine encourue est celle qui est prévue pour l’infraction la plus grave; elle peut être augmentée de façon appropriée.
 
 [^126-1]: Nouvelle teneur selon l’art. 44 de la LF du 6 oct. 2006 sur l’imposition de la bière, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2895](https://fedlex.data.admin.ch/eli/oc/2007/385); [FF 2005 5321](https://fedlex.data.admin.ch/eli/fga/2005/890)).
 
@@ -2165,7 +2172,7 @@ En tant que le fait constitutif d’une infraction douanière n’est pas réali
 - a. à une disposition de la législation douanière ou d’un traité international ou à une de leurs dispositions d’exécution, si la violation de ces dispositions est déclarée punissable par un acte législatif, ou
 - b. à une décision rendue à son endroit et signifiée sous menace de la peine prévue au présent article.
 
-<sup>2</sup> Quiconque contrevient aux injonctions verbales du personnel de l’AFD ou aux ordres donnés sous forme de signaux ou de tableaux encourt une amende pouvant atteindre 2000 francs. La menace de la peine prévue au présent article n’est pas nécessaire.
+<sup>2</sup> Quiconque contrevient aux injonctions verbales du personnel de l’OFDF ou aux ordres donnés sous forme de signaux ou de tableaux encourt une amende pouvant atteindre 2000 francs. La menace de la peine prévue au présent article n’est pas nécessaire.
 
 <sup>3</sup> Le renvoi devant le juge de l’auteur d’une infraction à l’art. 285 ou 286 du code pénal[^127-1] est réservé.
 
@@ -2177,7 +2184,7 @@ En tant que le fait constitutif d’une infraction douanière n’est pas réali
 
 <sup>1</sup> Les infractions sont poursuivies et jugées conformément à la présente loi et à la DPA[^128-1].
 
-<sup>2</sup> L’autorité compétente pour poursuivre et juger est l’AFD.
+<sup>2</sup> L’autorité compétente pour poursuivre et juger est l’OFDF.
 
 [^128-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -2187,14 +2194,14 @@ En tant que le fait constitutif d’une infraction douanière n’est pas réali
 
 <sup>1</sup>
 
-Dans le cadre de sa compétence de poursuite pénale, l’AFD peut ordonner que des personnes et des choses soient observées secrètement dans des lieux librement accessibles et que des enregistrements audio et vidéo soient effectués aux conditions suivantes:
+Dans le cadre de sa compétence de poursuite pénale, l’OFDF peut ordonner que des personnes et des choses soient observées secrètement dans des lieux librement accessibles et que des enregistrements audio et vidéo soient effectués aux conditions suivantes:
 
 - a. des indices concrets laissent présumer que des crimes ou des délits ont été commis;
 - b. l’enquête n’aurait autrement aucune chance d’aboutir ou serait excessivement difficile.
 
 <sup>2</sup> La poursuite, au-delà de 30 jours, d’une mesure ordonnée en vertu de l’al. 1 est soumise à l’autorisation de la Direction générale des douanes.
 
-<sup>3</sup> Au plus tard lors de la clôture de l’instruction, l’AFD communique à la personne directement concernée par une observation les motifs, le mode et la durée de celle-ci.
+<sup>3</sup> Au plus tard lors de la clôture de l’instruction, l’OFDF communique à la personne directement concernée par une observation les motifs, le mode et la durée de celle-ci.
 
 <sup>4</sup>
 
@@ -2247,7 +2254,7 @@ Le Conseil fédéral exécute la présente loi.
 
 <sup>6</sup> Les recours contre des décisions sur recours rendues par les directions d’arrondissement qui sont en suspens devant la Direction générale des douanes lors de l’entrée en vigueur de la présente loi sont tranchés par la Direction générale des douanes.
 
-<sup>7</sup> …[^132-2]
+<sup>7</sup> ...[^132-2]
 
 [^132-1]: [RS **6** 469; [RO 1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2]
 [^132-2]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -2278,6 +2285,6 @@ Annexe
 
 ## Modification du droit en vigueur
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249).

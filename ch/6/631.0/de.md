@@ -4,11 +4,11 @@ title: Zollgesetz vom 18. März 2005 (ZG)
 short: ZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: de
-version: 2018-09-15
+version: 2022-01-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20180915/de/xml/fedlex-data-admin-ch-eli-cc-2007-249-20180915-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20180915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20180915/de"
 
 (ZG)
 
-vom 18. März 2005 (Stand am 15. September 2018)
+vom 18. März 2005 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -40,11 +40,11 @@ Dieses Gesetz regelt:
 
 - a. die Überwachung und die Kontrolle des Personen- und Warenverkehrs über die Zollgrenze;
 - b. die Erhebung der Zollabgaben;
-- c.[^1-1] die Erhebung der Abgaben nach nichtzollrechtlichen Bundesgesetzen, soweit sie der Eidgenössischen Zollverwaltung (EZV) obliegt;
-- d. den Vollzug nichtzollrechtlicher Erlasse des Bundes und die Erfüllung von Aufgaben, soweit sie der EZV[^1-2] obliegen.
+- c.[^1-1] die Erhebung der Abgaben nach nichtzollrechtlichen Bundesgesetzen, soweit sie dem Bundesamt für Zoll und Grenzsicherheit (BAZG) obliegt;
+- d. den Vollzug nichtzollrechtlicher Erlasse des Bundes und die Erfüllung von Aufgaben, soweit sie dem BAZG[^1-2] obliegen.
 
-[^1-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^1-2]: Ausdruck gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-1]: Fassung gemäss Ziff. I 16 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^1-2]: Ausdruck gemäss Ziff. I 16 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 2
 
@@ -62,7 +62,7 @@ Dieses Gesetz regelt:
 
 <sup>2</sup> Zollanschlussgebiete sind die ausländischen Gebiete, die auf Grund völkerrechtlicher Verträge oder des Völkergewohnheitsrechts zum Zollgebiet gehören.
 
-<sup>3</sup> Zollausschlussgebiete sind schweizerische Grenzgebiete, die vom Bundesrat oder, bei einzelnen Liegenschaften in besonderer geografischer Lage, von der EZV vom Zollgebiet ausgeschlossen werden. Die EZV kann die Zollausschlussgebiete überwachen und in ihnen die nichtzollrechtlichen Erlasse des Bundes anwenden.
+<sup>3</sup> Zollausschlussgebiete sind schweizerische Grenzgebiete, die vom Bundesrat oder, bei einzelnen Liegenschaften in besonderer geografischer Lage, vom BAZG vom Zollgebiet ausgeschlossen werden. Das BAZG kann die Zollausschlussgebiete überwachen und in ihnen die nichtzollrechtlichen Erlasse des Bundes anwenden.
 
 <sup>4</sup> Die Zollgrenze ist die Grenze des Zollgebiets.
 
@@ -76,17 +76,17 @@ Dieses Gesetz regelt:
 
 <sup>1</sup> Die Eigentümerinnen und Eigentümer von Grundstücken in der Nähe der Zollgrenze müssen dafür sorgen, dass Einrichtungen oder Bepflanzungen auf ihren Grundstücken die Überwachung der Grenze nicht behindern.
 
-<sup>2</sup> Wer Bauten und Anlagen in unmittelbarer Nähe der Zollgrenze oder des Ufers von Grenzgewässern errichtet oder verändert, braucht eine Bewilligung der EZV.
+<sup>2</sup> Wer Bauten und Anlagen in unmittelbarer Nähe der Zollgrenze oder des Ufers von Grenzgewässern errichtet oder verändert, braucht eine Bewilligung des BAZG.
 
 #### Art. 5
 
 **Zollstellen und Anlagen**
 
-<sup>1</sup> Die EZV errichtet zur Erfüllung ihrer Aufgaben Zollstellen und Zollanlagen; die Kosten trägt der Bund.
+<sup>1</sup> Das BAZG errichtet zur Erfüllung seiner Aufgaben Zollstellen und Zollanlagen; die Kosten trägt der Bund.
 
-<sup>2</sup> Erfüllt die EZV ihre Aufgaben in Anlagen und Räumen Dritter auf deren Begehren, so müssen diese die Anlagen und Räume unentgeltlich zur Verfügung stellen und die Betriebskosten der EZV übernehmen.
+<sup>2</sup> Erfüllt das BAZG seine Aufgaben in Anlagen und Räumen Dritter auf deren Begehren, so müssen diese die Anlagen und Räume unentgeltlich zur Verfügung stellen und die Betriebskosten des BAZG übernehmen.
 
-<sup>3</sup> Werden die Anlagen und Räume Dritter zusätzlich für Zollaufgaben zu Gunsten weiterer Personen genutzt, so beteiligt sich die EZV angemessen an den Anlage- und Betriebskosten.
+<sup>3</sup> Werden die Anlagen und Räume Dritter zusätzlich für Zollaufgaben zu Gunsten weiterer Personen genutzt, so beteiligt sich das BAZG angemessen an den Anlage- und Betriebskosten.
 
 #### Art. 6
 
@@ -195,11 +195,11 @@ Der Bundesrat kann für zollfrei erklären:
 
 **Aktiver Veredelungsverkehr**
 
-<sup>1</sup> Für Waren, die zur Bearbeitung, Verarbeitung oder Ausbesserung vorübergehend ins Zollgebiet verbracht werden, gewährt die EZV Zollermässigung oder Zollbefreiung, sofern keine überwiegenden öffentlichen Interessen entgegenstehen.
+<sup>1</sup> Für Waren, die zur Bearbeitung, Verarbeitung oder Ausbesserung vorübergehend ins Zollgebiet verbracht werden, gewährt das BAZG Zollermässigung oder Zollbefreiung, sofern keine überwiegenden öffentlichen Interessen entgegenstehen.
 
-<sup>2</sup> Unter den gleichen Voraussetzungen gewährt die EZV für Waren, die ins Zollgebiet eingeführt werden, Zollermässigung oder Zollbefreiung, wenn inländische Waren gleicher Menge, Beschaffenheit und Qualität als bearbeitete oder verarbeitete Erzeugnisse ausgeführt werden.
+<sup>2</sup> Unter den gleichen Voraussetzungen gewährt das BAZG für Waren, die ins Zollgebiet eingeführt werden, Zollermässigung oder Zollbefreiung, wenn inländische Waren gleicher Menge, Beschaffenheit und Qualität als bearbeitete oder verarbeitete Erzeugnisse ausgeführt werden.
 
-<sup>3</sup> Für landwirtschaftliche Erzeugnisse und landwirtschaftliche Grundstoffe gewährt die EZV Zollermässigung oder Zollbefreiung, wenn gleichartige inländische Erzeugnisse nicht in genügender Menge verfügbar sind oder für solche Erzeugnisse der Rohstoffpreisnachteil nicht durch andere Massnahmen ausgeglichen werden kann.
+<sup>3</sup> Für landwirtschaftliche Erzeugnisse und landwirtschaftliche Grundstoffe gewährt das BAZG Zollermässigung oder Zollbefreiung, wenn gleichartige inländische Erzeugnisse nicht in genügender Menge verfügbar sind oder für solche Erzeugnisse der Rohstoffpreisnachteil nicht durch andere Massnahmen ausgeglichen werden kann.
 
 <sup>4</sup> Der Bundesrat regelt, in welchem Ausmass Rückerstattung, Zollermässigung oder Zollbefreiung für Waren gewährt wird, die nicht wieder ausgeführt, sondern auf Antrag im Zollgebiet vernichtet werden.
 
@@ -207,9 +207,9 @@ Der Bundesrat kann für zollfrei erklären:
 
 **Passiver Veredelungsverkehr**
 
-<sup>1</sup> Für Waren, die zur Bearbeitung, Verarbeitung oder Ausbesserung vorübergehend ausgeführt werden, gewährt die EZV auf wieder eingeführten Erzeugnissen Zollermässigung oder Zollbefreiung, sofern keine überwiegenden öffentlichen Interessen entgegenstehen.
+<sup>1</sup> Für Waren, die zur Bearbeitung, Verarbeitung oder Ausbesserung vorübergehend ausgeführt werden, gewährt das BAZG auf wieder eingeführten Erzeugnissen Zollermässigung oder Zollbefreiung, sofern keine überwiegenden öffentlichen Interessen entgegenstehen.
 
-<sup>2</sup> Unter den gleichen Voraussetzungen gewährt die EZV Zollermässigung oder Zollbefreiung, wenn die ausgeführten Waren im Ausland durch Waren gleicher Menge, Beschaffenheit und Qualität ersetzt worden sind.
+<sup>2</sup> Unter den gleichen Voraussetzungen gewährt das BAZG Zollermässigung oder Zollbefreiung, wenn die ausgeführten Waren im Ausland durch Waren gleicher Menge, Beschaffenheit und Qualität ersetzt worden sind.
 
 <sup>3</sup> Der Bundesrat kann für die Zollabgaben eine andere Bemessungsgrundlage vorsehen, wenn die Zollbemessung nach dem Mehrgewicht den Veredelungsmehrwert nicht zu erfassen vermag.
 
@@ -262,7 +262,7 @@ Für bestimmte Verwendungen von Waren werden tiefere Zollansätze angewendet, we
 
 <sup>1bis</sup> In Zollfreiläden können ins Ausland abfliegende oder aus dem Ausland ankommende Reisende zollfreie Waren einkaufen. Der Bundesrat bezeichnet die Waren.[^17-2]
 
-<sup>2</sup> Die EZV kann den Luftverkehrs- und anderen Unternehmen bewilligen, auf den Zollflugplätzen oder in deren Nähe unverzollte Vorräte für ihre Bordbuffetdienste anzulegen sowie aus solchen Vorräten Speisen und Getränke zur Mitnahme auf Flügen ins Ausland zuzubereiten.[^17-3]
+<sup>2</sup> Das BAZG kann den Luftverkehrs- und anderen Unternehmen bewilligen, auf den Zollflugplätzen oder in deren Nähe unverzollte Vorräte für ihre Bordbuffetdienste anzulegen sowie aus solchen Vorräten Speisen und Getränke zur Mitnahme auf Flügen ins Ausland zuzubereiten.[^17-3]
 
 <sup>3</sup> Die Bewilligung wird nur erteilt, wenn die nötigen Kontroll- und Sicherungsmassnahmen gewährleistet sind.
 
@@ -306,15 +306,15 @@ Die Ware kann mit dem höchsten Zollansatz belegt werden, der nach ihrer Art anw
 
 **Zolltarif- und Ursprungsauskünfte**
 
-<sup>1</sup> Die EZV erteilt auf schriftliche Anfrage schriftliche Auskunft über die zolltarifarische Einreihung und den präferenziellen Ursprung von Waren.
+<sup>1</sup> Das BAZG erteilt auf schriftliche Anfrage schriftliche Auskunft über die zolltarifarische Einreihung und den präferenziellen Ursprung von Waren.
 
-<sup>2</sup> Sie beschränkt die Gültigkeit ihrer Auskunft über die zolltarifarische Einreihung auf sechs Jahre und über den Ursprung auf drei Jahre. Die berechtigte Person muss in der Zollanmeldung nachweisen, dass die angemeldete Ware der in der Auskunft beschriebenen in jeder Hinsicht entspricht.
+<sup>2</sup> Es beschränkt die Gültigkeit seiner Auskunft über die zolltarifarische Einreihung auf sechs Jahre und über den Ursprung auf drei Jahre. Die berechtigte Person muss in der Zollanmeldung nachweisen, dass die angemeldete Ware der in der Auskunft beschriebenen in jeder Hinsicht entspricht.
 
 <sup>3</sup> Die Auskunft ist nicht verbindlich, wenn sie auf unrichtigen oder unvollständigen Angaben der anfragenden Person beruht.
 
 <sup>4</sup> Die Auskunft verliert ihre Verbindlichkeit, wenn die entsprechenden Bestimmungen geändert werden.
 
-<sup>5</sup> Die EZV kann die Auskunft aus einem wichtigen Grund widerrufen.
+<sup>5</sup> Das BAZG kann die Auskunft aus einem wichtigen Grund widerrufen.
 
 ## 2. Titel: Zollveranlagungsverfahren
 
@@ -336,7 +336,7 @@ Die Ware kann mit dem höchsten Zollansatz belegt werden, der nach ihrer Art anw
 
 **Zollstrassen, Schiffszolllandestellen und Zollflugplätze**
 
-<sup>1</sup> Der Warenverkehr über die Zollgrenze zu Land, zu Wasser und in der Luft muss über bestimmte Strassen (Zollstrassen), Häfen und Landestellen (Schiffszolllandestellen) und Flugplätze (Zollflugplätze) erfolgen, die von der EZV bezeichnet werden.
+<sup>1</sup> Der Warenverkehr über die Zollgrenze zu Land, zu Wasser und in der Luft muss über bestimmte Strassen (Zollstrassen), Häfen und Landestellen (Schiffszolllandestellen) und Flugplätze (Zollflugplätze) erfolgen, die vom BAZG bezeichnet werden.
 
 <sup>2</sup>
 
@@ -345,9 +345,9 @@ Soweit sie über die Zollgrenze führen, gelten überdies als Zollstrassen:
 - a. die dem öffentlichen Verkehr dienenden Eisenbahnlinien;
 - b. die elektrischen Leitungen;
 - c. die Rohrleitungen; oder
-- d. andere Verkehrs- und Kommunikationsverbindungen, die von der EZV als Zollstrassen bezeichnet werden.
+- d. andere Verkehrs- und Kommunikationsverbindungen, die vom BAZG als Zollstrassen bezeichnet werden.
 
-<sup>3</sup> Die EZV kann mit Rücksicht auf besondere Verhältnisse den Warenverkehr auch anderswo bewilligen. Sie legt die Bedingungen und Auflagen fest.
+<sup>3</sup> Das BAZG kann mit Rücksicht auf besondere Verhältnisse den Warenverkehr auch anderswo bewilligen. Es legt die Bedingungen und Auflagen fest.
 
 #### Art. 23
 
@@ -355,7 +355,7 @@ Soweit sie über die Zollgrenze führen, gelten überdies als Zollstrassen:
 
 <sup>1</sup> Waren, die ins Zollgebiet verbracht werden, unterliegen vom Zeitpunkt des Verbringens an bis zur Wiederausfuhr oder zur Überführung in den zollrechtlich freien Verkehr der Zollüberwachung und der Zollprüfung.
 
-<sup>2</sup> Die Zollüberwachung umfasst allgemeine Massnahmen der EZV, um die Einhaltung des Zollrechts und der nichtzollrechtlichen Erlasse des Bundes zu gewährleisten.
+<sup>2</sup> Die Zollüberwachung umfasst allgemeine Massnahmen des BAZG, um die Einhaltung des Zollrechts und der nichtzollrechtlichen Erlasse des Bundes zu gewährleisten.
 
 <sup>3</sup> Die Zollprüfung umfasst die besonderen Amtshandlungen, die dieses Gesetz zur Gewährleistung der Einhaltung des Zollrechts und der nichtzollrechtlichen Erlasse des Bundes vorsieht.
 
@@ -365,21 +365,21 @@ Soweit sie über die Zollgrenze führen, gelten überdies als Zollstrassen:
 
 <sup>1</sup> Die zuführungspflichtige Person oder die von ihr Beauftragten müssen die der Zollstelle zugeführten Waren gestellen und summarisch anmelden.
 
-<sup>2</sup> Die Gestellung ist die Mitteilung an die EZV, dass sich die Waren bei der Zollstelle oder an einem anderen von der EZV zugelassenen Ort befinden.
+<sup>2</sup> Die Gestellung ist die Mitteilung an das BAZG, dass sich die Waren bei der Zollstelle oder an einem anderen vom BAZG zugelassenen Ort befinden.
 
-<sup>3</sup> Gestellte Waren stehen im Gewahrsam der EZV.
+<sup>3</sup> Gestellte Waren stehen im Gewahrsam des BAZG.
 
-<sup>4</sup> Die EZV kann die Form der Gestellung und der summarischen Anmeldung vorschreiben.
+<sup>4</sup> Das BAZG kann die Form der Gestellung und der summarischen Anmeldung vorschreiben.
 
 #### Art. 25
 
 **Anmelden**
 
-<sup>1</sup> Die anmeldepflichtige Person muss die der Zollstelle zugeführten, gestellten und summarisch angemeldeten Waren innerhalb der von der EZV bestimmten Frist zur Veranlagung anmelden und die Begleitdokumente einreichen.
+<sup>1</sup> Die anmeldepflichtige Person muss die der Zollstelle zugeführten, gestellten und summarisch angemeldeten Waren innerhalb der vom BAZG bestimmten Frist zur Veranlagung anmelden und die Begleitdokumente einreichen.
 
 <sup>2</sup> In der Zollanmeldung ist die zollrechtliche Bestimmung der Waren festzulegen.
 
-<sup>3</sup> Die EZV kann im Interesse der Zollüberwachung vorsehen, dass Waren der Zollstelle angemeldet werden, bevor sie ins Zollgebiet oder aus dem Zollgebiet verbracht werden.
+<sup>3</sup> Das BAZG kann im Interesse der Zollüberwachung vorsehen, dass Waren der Zollstelle angemeldet werden, bevor sie ins Zollgebiet oder aus dem Zollgebiet verbracht werden.
 
 <sup>4</sup> Die anmeldepflichtige Person kann die summarisch angemeldeten Waren vor der Abgabe der Zollanmeldung auf eigene Kosten und eigene Gefahr untersuchen oder untersuchen lassen.
 
@@ -391,7 +391,7 @@ Anmeldepflichtig sind:
 
 - a. die zuführungspflichtigen Personen;
 - b. die mit der Zollanmeldung beauftragten Personen;
-- c.[^26-1] …
+- c.[^26-1] ...
 - d. Personen, die den Verwendungszweck einer Ware ändern.
 
 [^26-1]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -419,9 +419,9 @@ Angemeldet wird:
 - a. elektronisch;
 - b. schriftlich;
 - c. mündlich; oder
-- d. durch eine andere von der EZV zugelassene Form der Willensäusserung.
+- d. durch eine andere vom BAZG zugelassene Form der Willensäusserung.
 
-<sup>2</sup> Die EZV kann die Anmeldeform vorschreiben; sie kann namentlich den Einsatz der elektronischen Datenverarbeitung (EDV) anordnen und diesen von einer Prüfung des EDV-Systems abhängig machen.
+<sup>2</sup> Das BAZG kann die Anmeldeform vorschreiben; es kann namentlich den Einsatz der elektronischen Datenverarbeitung (EDV) anordnen und diesen von einer Prüfung des EDV-Systems abhängig machen.
 
 #### Art. 29
 
@@ -429,13 +429,13 @@ Angemeldet wird:
 
 <sup>1</sup>
 
-Die EZV legt für die einzelnen Zollstellen fest:
+Das BAZG legt für die einzelnen Zollstellen fest:
 
-- a. welches ihre Zuständigkeiten sind;
-- b. die Zeiten, zu denen sie Veranlagungen vornehmen;
+- a. welches seine Zuständigkeiten sind;
+- b. die Zeiten, zu denen es Veranlagungen vornehmen;
 - c. den Ort, an dem die Veranlagung stattfindet (Amtsplatz).
 
-<sup>2</sup> Sie berücksichtigt die nationalen und die regionalen Bedürfnisse und gibt ihre Anordnungen auf geeignete Weise bekannt.
+<sup>2</sup> Es berücksichtigt die nationalen und die regionalen Bedürfnisse und gibt seine Anordnungen auf geeignete Weise bekannt.
 
 <sup>3</sup> Die Zollstellen können die Veranlagung auch ausserhalb des Amtsplatzes vornehmen, namentlich am Domizil der Versenderin oder des Versenders oder der Empfängerin oder des Empfängers.
 
@@ -443,7 +443,7 @@ Die EZV legt für die einzelnen Zollstellen fest:
 
 **Kontrollen im Zollgebiet**
 
-<sup>1</sup> Die EZV kann im Zollgebiet Kontrollen über die Erfüllung der Zollpflicht durchführen.
+<sup>1</sup> Das BAZG kann im Zollgebiet Kontrollen über die Erfüllung der Zollpflicht durchführen.
 
 <sup>2</sup> Personen, die bei der Wareneinfuhr anmeldepflichtig waren, müssen auf Verlangen den Nachweis erbringen, dass für die eingeführten Waren das Veranlagungsverfahren durchgeführt worden ist.
 
@@ -453,9 +453,9 @@ Die EZV legt für die einzelnen Zollstellen fest:
 
 **Kontrollen am Domizil**
 
-<sup>1</sup> Die EZV kann ohne Vorankündigung Kontrollen am Domizil von Personen durchführen, die anmeldepflichtig, Zollschuldnerinnen oder Zollschuldner in einem Veranlagungsverfahren sind oder waren oder die nach diesem Gesetz zur Buchführung verpflichtet sind.
+<sup>1</sup> Das BAZG kann ohne Vorankündigung Kontrollen am Domizil von Personen durchführen, die anmeldepflichtig, Zollschuldnerinnen oder Zollschuldner in einem Veranlagungsverfahren sind oder waren oder die nach diesem Gesetz zur Buchführung verpflichtet sind.
 
-<sup>2</sup> Sie kann die physische Kontrolle der Art, der Menge und der Beschaffenheit von Waren vornehmen, alle erforderlichen Auskünfte verlangen sowie Daten und Dokumente, Systeme und Informationen überprüfen, die für den Vollzug dieses Gesetzes von Bedeutung sein können.
+<sup>2</sup> Es kann die physische Kontrolle der Art, der Menge und der Beschaffenheit von Waren vornehmen, alle erforderlichen Auskünfte verlangen sowie Daten und Dokumente, Systeme und Informationen überprüfen, die für den Vollzug dieses Gesetzes von Bedeutung sein können.
 
 <sup>3</sup> Das Kontrollrecht endet fünf Jahre nach der Wareneinfuhr. Vorbehalten bleibt die Eröffnung einer Strafuntersuchung.
 
@@ -479,7 +479,7 @@ Die EZV legt für die einzelnen Zollstellen fest:
 
 <sup>1</sup> Die von der Zollstelle angenommene Zollanmeldung ist für die anmeldepflichtige Person verbindlich.
 
-<sup>2</sup> Die EZV legt Form und Zeitpunkt der Annahme fest.
+<sup>2</sup> Das BAZG legt Form und Zeitpunkt der Annahme fest.
 
 #### Art. 34
 
@@ -492,9 +492,9 @@ Die anmeldepflichtige Person kann die angenommene Zollanmeldung berichtigen oder
 - a. nicht festgestellt hat, dass die Angaben in der Zollanmeldung oder in den Begleitdokumenten unrichtig sind; oder
 - b. keine Beschau angeordnet hat.
 
-<sup>2</sup> Der Bundesrat kann für Waren, die den Gewahrsam der EZV bereits verlassen haben, eine kurze Frist zur Berichtigung der angenommenen Zollanmeldung vorsehen.
+<sup>2</sup> Der Bundesrat kann für Waren, die den Gewahrsam des BAZG bereits verlassen haben, eine kurze Frist zur Berichtigung der angenommenen Zollanmeldung vorsehen.
 
-<sup>3</sup> Innerhalb von 30 Tagen ab dem Zeitpunkt, in dem die Waren den Gewahrsam der EZV verlassen haben, kann die anmeldepflichtige Person der Zollstelle ein Gesuch um Änderung der Veranlagung einreichen; gleichzeitig muss sie eine berichtigte Zollanmeldung einreichen.
+<sup>3</sup> Innerhalb von 30 Tagen ab dem Zeitpunkt, in dem die Waren den Gewahrsam des BAZG verlassen haben, kann die anmeldepflichtige Person der Zollstelle ein Gesuch um Änderung der Veranlagung einreichen; gleichzeitig muss sie eine berichtigte Zollanmeldung einreichen.
 
 <sup>4</sup>
 
@@ -555,11 +555,11 @@ Die Zollstelle setzt die Zollabgaben fest, stellt die Veranlagungsverfügung aus
 
 **Freigabe und Abtransport von Waren**
 
-<sup>1</sup> Die Zollstelle gibt veranlagte Waren auf Grund der Veranlagungsverfügung oder eines anderen von der EZV zu bestimmenden Dokuments frei.
+<sup>1</sup> Die Zollstelle gibt veranlagte Waren auf Grund der Veranlagungsverfügung oder eines anderen vom BAZG zu bestimmenden Dokuments frei.
 
 <sup>2</sup> Waren dürfen erst abtransportiert werden, wenn die Zollstelle sie freigegeben hat.
 
-<sup>3</sup> Die EZV setzt die Frist für den Abtransport fest.
+<sup>3</sup> Das BAZG setzt die Frist für den Abtransport fest.
 
 #### Art. 41
 
@@ -582,9 +582,9 @@ Der Bundesrat kann Vereinfachungen im Zollveranlagungsverfahren vorsehen. Er kan
 - a. von der Pflicht zum Gestellen oder summarischen Anmelden befreien, sofern dadurch die Zollprüfung der Waren nicht beeinträchtigt wird;
 - b. Erleichterungen im Reiseverkehr vorsehen;
 - c. periodische Sammelanmeldungen vorsehen;
-- d. am Zollveranlagungsverfahren beteiligten Personen Aufgaben der EZV übertragen.
+- d. am Zollveranlagungsverfahren beteiligten Personen Aufgaben des BAZG übertragen.
 
-<sup>2</sup> Die EZV kann zur weiteren Vereinfachung des Zollveranlagungsverfahrens oder zur Durchführung von Pilotversuchen Vereinbarungen mit am Zollveranlagungsverfahren beteiligten Personen schliessen, soweit dadurch die Wettbewerbsverhältnisse nicht wesentlich beeinträchtigt werden.
+<sup>2</sup> Das BAZG kann zur weiteren Vereinfachung des Zollveranlagungsverfahrens oder zur Durchführung von Pilotversuchen Vereinbarungen mit am Zollveranlagungsverfahren beteiligten Personen schliessen, soweit dadurch die Wettbewerbsverhältnisse nicht wesentlich beeinträchtigt werden.
 
 <sup>3</sup> Vereinfachungen des Zollveranlagungsverfahrens sind nur zulässig, soweit die Zollsicherheit nicht beeinträchtigt und namentlich der Zollabgabenbetrag nicht geschmälert wird.
 
@@ -594,7 +594,7 @@ Der Bundesrat kann Vereinfachungen im Zollveranlagungsverfahren vorsehen. Er kan
 
 <sup>1</sup>
 
-Die EZV verleiht Personen, die im Zollgebiet oder in den Zollausschlussgebieten ansässig sind, auf Antrag den Status des zugelassenen Wirtschaftsbeteiligten (*Authorised Economic Operator*, AEO), wenn sie die folgenden Voraussetzungen erfüllen:
+Das BAZG verleiht Personen, die im Zollgebiet oder in den Zollausschlussgebieten ansässig sind, auf Antrag den Status des zugelassenen Wirtschaftsbeteiligten (*Authorised Economic Operator*, AEO), wenn sie die folgenden Voraussetzungen erfüllen:
 
 - a. die bisherige Einhaltung der Zollvorschriften;
 - b. ein System zur Führung der Geschäftsbücher und gegebenenfalls der Beförderungsunterlagen, das geeignete sicherheitsrelevante Zollkontrollen ermöglicht;
@@ -605,7 +605,7 @@ Die EZV verleiht Personen, die im Zollgebiet oder in den Zollausschlussgebieten 
 
 <sup>2bis</sup> Er ist ermächtigt, völkerrechtliche Verträge, welche nur die gegenseitige Anerkennung des Status des zugelassenen Wirtschaftsbeteiligten betreffen, selbstständig abzuschliessen.[^42a-2]
 
-<sup>3</sup> Die EZV kann Kontrollen des Geschäftsbetriebs der antragstellenden Personen und der zugelassenen Wirtschaftsbeteiligten durchführen.
+<sup>3</sup> Das BAZG kann Kontrollen des Geschäftsbetriebs der antragstellenden Personen und der zugelassenen Wirtschaftsbeteiligten durchführen.
 
 [^42a-1]: Eingefügt durch Art. 3 des BB vom 18. Juni 2010 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und der EG über Zollerleichterungen und Zollsicherheit, in Kraft seit 1. April 2011 ([AS 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149); [BBl 2009 8929](https://fedlex.data.admin.ch/eli/fga/2009/1532)).
 [^42a-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -623,7 +623,7 @@ Grenzzonenverkehr ist die Ein- oder Ausfuhr innerhalb der Grenzzone von:
 
 <sup>2</sup> Die Grenzzone ist das in- und ausländische Gebiet, das sich beidseits der Zollgrenze als Gebietsstreifen von 10 Kilometern Tiefe längs der Zollgrenze befindet (Parallelzone).
 
-<sup>3</sup> Die EZV kann die Grenzzone mit Rücksicht auf besondere örtliche Verhältnisse ausdehnen.
+<sup>3</sup> Das BAZG kann die Grenzzone mit Rücksicht auf besondere örtliche Verhältnisse ausdehnen.
 
 <sup>4</sup> Der Bundesrat regelt das Zollveranlagungsverfahren für den Grenzzonenverkehr.
 
@@ -633,7 +633,7 @@ Grenzzonenverkehr ist die Ein- oder Ausfuhr innerhalb der Grenzzone von:
 
 <sup>1</sup> Der Bundesrat regelt das Zollveranlagungsverfahren für den Eisenbahn-, den Schiffs- und den Luftverkehr.
 
-<sup>2</sup> Die Verkehrsunternehmen müssen der EZV alle Unterlagen und Aufzeichnungen, die für die Zollprüfung von Bedeutung sein können, zukommen lassen. Auf Verlangen der EZV hat dies in elektronischer Form zu erfolgen.
+<sup>2</sup> Die Verkehrsunternehmen müssen dem BAZG alle Unterlagen und Aufzeichnungen, die für die Zollprüfung von Bedeutung sein können, zukommen lassen. Auf Verlangen des BAZG hat dies in elektronischer Form zu erfolgen.
 
 [^44-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -645,7 +645,7 @@ Grenzzonenverkehr ist die Ein- oder Ausfuhr innerhalb der Grenzzone von:
 
 <sup>2</sup> Anmeldepflichtig ist die Inhaberin oder der Inhaber der Rohrleitungsanlage.
 
-<sup>3</sup> Die Inhaberin oder der Inhaber muss der EZV Einsicht in alle Unterlagen und Aufzeichnungen gewähren, die für die Zollprüfung von Bedeutung sein können.
+<sup>3</sup> Die Inhaberin oder der Inhaber muss dem BAZG Einsicht in alle Unterlagen und Aufzeichnungen gewähren, die für die Zollprüfung von Bedeutung sein können.
 
 #### Art. 46
 
@@ -715,7 +715,7 @@ Im Transitverfahren:
 
 **Begriff**
 
-<sup>1</sup> Zolllager sind von der EZV zugelassene und unter Zollüberwachung stehende Orte im Zollgebiet, an denen Waren unter den von der EZV festgelegten Voraussetzungen gelagert werden dürfen.
+<sup>1</sup> Zolllager sind vom BAZG zugelassene und unter Zollüberwachung stehende Orte im Zollgebiet, an denen Waren unter den vom BAZG festgelegten Voraussetzungen gelagert werden dürfen.
 
 <sup>2</sup> Zolllager können offene Zolllager oder Lager für Massengüter sein.
 
@@ -773,20 +773,20 @@ Die Lagerhalterin oder der Lagerhalter ist dafür verantwortlich, dass:
 - b. die Pflichten, die sich aus der Lagerung der Waren ergeben, erfüllt werden; und
 - c. die mit der Bewilligung verbundenen Auflagen eingehalten werden.
 
-<sup>6</sup> Die EZV kann verlangen, dass die Lagerhalterin oder der Lagerhalter für die Einhaltung der Pflichten nach Absatz 5 eine Sicherheit leistet.
+<sup>6</sup> Das BAZG kann verlangen, dass die Lagerhalterin oder der Lagerhalter für die Einhaltung der Pflichten nach Absatz 5 eine Sicherheit leistet.
 
 #### Art. 54
 
 **Bewilligung für offene Zolllager**
 
-<sup>1</sup> Wer ein offenes Zolllager betreibt, braucht eine Bewilligung der EZV.
+<sup>1</sup> Wer ein offenes Zolllager betreibt, braucht eine Bewilligung des BAZG.
 
 <sup>2</sup>
 
-Die EZV erteilt die Bewilligung, wenn:
+Das BAZG erteilt die Bewilligung, wenn:
 
 - a. die Gesuchstellerin oder der Gesuchsteller in der Schweiz ansässig ist und für den ordnungsgemässen Betrieb des offenen Zolllagers Gewähr bietet; und
-- b. die Zollüberwachung und die Zollprüfung für die EZV nicht mit einem unverhältnismässigen Verwaltungsaufwand verbunden sind.
+- b. die Zollüberwachung und die Zollprüfung für das BAZG nicht mit einem unverhältnismässigen Verwaltungsaufwand verbunden sind.
 
 <sup>3</sup>
 
@@ -799,7 +799,7 @@ Die Bewilligung kann:
 
 **Lager für Massengüter**
 
-<sup>1</sup> In Lagern für Massengüter dürfen nur die von der EZV zugelassenen Waren gelagert werden.
+<sup>1</sup> In Lagern für Massengüter dürfen nur die vom BAZG zugelassenen Waren gelagert werden.
 
 <sup>2</sup> Sie dürfen höchstens zwei Jahre gelagert werden. In begründeten Fällen kann diese Frist auf Antrag auf höchstens fünf Jahre verlängert werden.
 
@@ -809,7 +809,7 @@ Die Bewilligung kann:
 
 **Eingelagerte Waren; Bestandesaufzeichnungen und Bearbeitung**
 
-<sup>1</sup> Die Lagerhalterin oder der Lagerhalter oder die Einlagererin oder der Einlagerer muss über alle eingelagerten Waren Bestandesaufzeichnungen führen. Die EZV regelt deren Form.
+<sup>1</sup> Die Lagerhalterin oder der Lagerhalter oder die Einlagererin oder der Einlagerer muss über alle eingelagerten Waren Bestandesaufzeichnungen führen. Das BAZG regelt deren Form.
 
 <sup>2</sup> Der Bundesrat regelt, unter welchen Bedingungen die in offenen Zolllagern eingelagerten Waren bearbeitet werden dürfen.
 
@@ -844,7 +844,7 @@ Im Verfahren der vorübergehenden Verwendung:
 
 <sup>1</sup> Waren, die zur aktiven Veredelung ins Zollgebiet verbracht werden sollen, sind zum Verfahren der aktiven Veredelung anzumelden.
 
-<sup>2</sup> Wer Waren zur aktiven Veredelung ins Zollgebiet verbringt, braucht eine Bewilligung der EZV. Die Bewilligung kann mit Auflagen verbunden und namentlich mengenmässig und zeitlich beschränkt werden.
+<sup>2</sup> Wer Waren zur aktiven Veredelung ins Zollgebiet verbringt, braucht eine Bewilligung des BAZG. Die Bewilligung kann mit Auflagen verbunden und namentlich mengenmässig und zeitlich beschränkt werden.
 
 <sup>3</sup>
 
@@ -863,7 +863,7 @@ Im Verfahren der aktiven Veredelung:
 
 <sup>1</sup> Waren, die zur passiven Veredelung ins Zollausland verbracht werden sollen, sind zum Verfahren der passiven Veredelung anzumelden.
 
-<sup>2</sup> Wer Waren zur passiven Veredelung ins Zollausland verbringt, braucht eine Bewilligung der EZV. Die Bewilligung kann mit Auflagen verbunden und namentlich mengenmässig und zeitlich beschränkt werden.
+<sup>2</sup> Wer Waren zur passiven Veredelung ins Zollausland verbringt, braucht eine Bewilligung des BAZG. Die Bewilligung kann mit Auflagen verbunden und namentlich mengenmässig und zeitlich beschränkt werden.
 
 <sup>3</sup>
 
@@ -936,14 +936,14 @@ Einlagererin oder Einlagerer ist:
 
 **Bewilligung**
 
-<sup>1</sup> Wer ein Zollfreilager betreibt, braucht eine Bewilligung der EZV.
+<sup>1</sup> Wer ein Zollfreilager betreibt, braucht eine Bewilligung des BAZG.
 
 <sup>2</sup>
 
-Die EZV erteilt die Bewilligung, wenn:
+Das BAZG erteilt die Bewilligung, wenn:
 
 - a. die Gesuchstellerin oder der Gesuchsteller in der Schweiz ansässig ist und für den ordnungsgemässen Betrieb des Zollfreilagers Gewähr bietet;
-- b. die Zollüberwachung und die Zollprüfung für die EZV nicht mit einem unverhältnismässigen Verwaltungsaufwand verbunden sind; und
+- b. die Zollüberwachung und die Zollprüfung für das BAZG nicht mit einem unverhältnismässigen Verwaltungsaufwand verbunden sind; und
 - c. Gewähr geboten ist, dass das Zollfreilager grundsätzlich allen Personen unter gleichen Voraussetzungen offen steht.
 
 <sup>3</sup>
@@ -967,7 +967,7 @@ Die Bewilligung kann:
 
 **Überwachung und Bestandesaufzeichnungen**
 
-<sup>1</sup> Die Lagerhalterin oder der Lagerhalter muss über alle eingelagerten sensiblen Waren Bestandesaufzeichnungen führen. Die EZV regelt deren Form.
+<sup>1</sup> Die Lagerhalterin oder der Lagerhalter muss über alle eingelagerten sensiblen Waren Bestandesaufzeichnungen führen. Das BAZG regelt deren Form.
 
 <sup>2</sup> In der Bewilligung zum Betrieb eines Zollfreilagers kann vorgesehen werden, dass die Pflicht, Bestandesaufzeichnungen zu führen, der Einlagererin oder dem Einlagerer obliegt.
 
@@ -979,7 +979,7 @@ Die Lagerhalterin oder der Lagerhalter ist dafür verantwortlich, dass:
 - b. die Pflichten, die sich aus der Lagerung der Waren ergeben, erfüllt werden; und
 - c. die mit der Bewilligung verbundenen Auflagen eingehalten werden.
 
-<sup>4</sup> Die EZV kann verlangen, dass die Lagerhalterin oder der Lagerhalter für die Einhaltung der Pflichten nach Absatz 3 eine Sicherheit leistet.
+<sup>4</sup> Das BAZG kann verlangen, dass die Lagerhalterin oder der Lagerhalter für die Einhaltung der Pflichten nach Absatz 3 eine Sicherheit leistet.
 
 #### Art. 67
 
@@ -995,7 +995,7 @@ Waren werden ausgelagert, indem sie in ein Zollverfahren, das für solche Waren 
 
 **Begriff**
 
-Die Zollschuld ist die Verpflichtung, die von der EZV zu veranlagenden Zollabgaben zu bezahlen.
+Die Zollschuld ist die Verpflichtung, die vom BAZG zu veranlagenden Zollabgaben zu bezahlen.
 
 #### Art. 69
 
@@ -1012,7 +1012,7 @@ Die Zollschuld entsteht:
 
 **Zollschuldnerin und Zollschuldner**
 
-<sup>1</sup> Die Zollschuldnerin oder der Zollschuldner muss die Zollschuld bezahlen oder, wenn dies von der EZV verlangt wird, sicherstellen.
+<sup>1</sup> Die Zollschuldnerin oder der Zollschuldner muss die Zollschuld bezahlen oder, wenn dies vom BAZG verlangt wird, sicherstellen.
 
 <sup>2</sup>
 
@@ -1021,7 +1021,7 @@ Zollschuldnerin oder Zollschuldner ist:
 - a. die Person, die Waren über die Zollgrenze bringt oder bringen lässt;
 - b. die Person, die zur Zollanmeldung verpflichtet oder damit beauftragt ist;
 - c. die Person, auf deren Rechnung die Waren ein- oder ausgeführt werden;
-- d.[^70-1] …
+- d.[^70-1] ...
 
 <sup>3</sup> Die Zollschuldnerinnen und Zollschuldner haften für die Zollschuld solidarisch. Der Rückgriff unter ihnen richtet sich nach dem Obligationenrecht[^70-2].
 
@@ -1029,7 +1029,7 @@ Zollschuldnerin oder Zollschuldner ist:
 
 Nicht solidarisch haften Personen, die gewerbsmässig Zollanmeldungen ausstellen, sofern die Zollschuld:
 
-- a. im zentralisierten Abrechnungsverfahren der EZV (ZAZ) über das Konto des Importeurs bezahlt wird; oder
+- a. im zentralisierten Abrechnungsverfahren des BAZG (ZAZ) über das Konto des Importeurs bezahlt wird; oder
 - b. aus dem Erlass einer Nachbezugsverfügung nach dem Bundesgesetz vom 22. März 1974[^70-3] über das Verwaltungsstrafrecht (VStrR) hervorgegangen ist und die Person, welche die Zollanmeldung gewerbsmässig ausgestellt hat, an der Widerhandlung gegen die Verwaltungsgesetzgebung des Bundes kein Verschulden trifft; bei nicht schwerwiegenden Widerhandlungen kann der Betrag der solidarischen Haftung verringert werden.
 
 <sup>4bis</sup>
@@ -1052,7 +1052,7 @@ Ebenfalls nicht solidarisch haften Transportunternehmen und ihre Angestellten, w
 
 **Verzicht auf die Erhebung der Zollabgaben**
 
-Die EZV kann auf die Erhebung der Zollabgaben verzichten, wenn der Erhebungsaufwand den Abgabenertrag offensichtlich überschreitet.
+Das BAZG kann auf die Erhebung der Zollabgaben verzichten, wenn der Erhebungsaufwand den Abgabenertrag offensichtlich überschreitet.
 
 #### Art. 72
 
@@ -1070,7 +1070,7 @@ Die EZV kann auf die Erhebung der Zollabgaben verzichten, wenn der Erhebungsaufw
 
 <sup>2</sup> Das EFD regelt die Zahlungsweise und die Bedingungen für Zahlungserleichterungen. Es kann Zahlungsfristen vorsehen.
 
-<sup>3</sup> Die EZV kann Zollschuldnerinnen und Zollschuldner mit regelmässigem Zahlungsverkehr verpflichten, die Zollschuld bargeldlos zu bezahlen.
+<sup>3</sup> Das BAZG kann Zollschuldnerinnen und Zollschuldner mit regelmässigem Zahlungsverkehr verpflichten, die Zollschuld bargeldlos zu bezahlen.
 
 #### Art. 74
 
@@ -1085,7 +1085,7 @@ Der Verzugszins ist nicht geschuldet:
 - a. in besonderen Fällen, die der Bundesrat vorsieht;
 - b. solange die Zollschuld durch Barhinterlage sichergestellt ist.
 
-<sup>3</sup> Zu Unrecht erhobene oder zu Unrecht nicht zurückerstattete Beträge werden von der EZV vom Zeitpunkt der Zahlung an verzinst.
+<sup>3</sup> Zu Unrecht erhobene oder zu Unrecht nicht zurückerstattete Beträge werden vom BAZG vom Zeitpunkt der Zahlung an verzinst.
 
 <sup>4</sup> Das EFD legt die Zinssätze fest.
 
@@ -1109,9 +1109,9 @@ Der Verzugszins ist nicht geschuldet:
 
 #### Art. 76
 
-<sup>1</sup> Entsteht eine Zollforderung nur bedingt oder gewährt die EZV Zahlungserleichterungen, so muss die Zollschuldnerin oder der Zollschuldner die Zollforderung durch Barhinterlage, durch Hinterlegung sicherer und marktgängiger Wertpapiere oder durch Zollbürgschaft sicherstellen.
+<sup>1</sup> Entsteht eine Zollforderung nur bedingt oder gewährt das BAZG Zahlungserleichterungen, so muss die Zollschuldnerin oder der Zollschuldner die Zollforderung durch Barhinterlage, durch Hinterlegung sicherer und marktgängiger Wertpapiere oder durch Zollbürgschaft sicherstellen.
 
-<sup>2</sup> Wird keine Sicherheit geleistet oder erscheint die Zahlung als gefährdet, so kann die EZV, auch wenn die Zollforderung noch nicht fällig ist, eine Sicherstellungsverfügung erlassen oder das Zollpfandrecht geltend machen.
+<sup>2</sup> Wird keine Sicherheit geleistet oder erscheint die Zahlung als gefährdet, so kann das BAZG, auch wenn die Zollforderung noch nicht fällig ist, eine Sicherstellungsverfügung erlassen oder das Zollpfandrecht geltend machen.
 
 <sup>3</sup>
 
@@ -1141,9 +1141,9 @@ Durch die Zollbürgschaft als Solidarbürgschaft können sichergestellt werden:
 
 **Rechte und Pflichten der Bürgin oder des Bürgen**
 
-<sup>1</sup> Bezahlt die Bürgin oder der Bürge die Zollforderung, so stellt die EZV auf Verlangen ihr oder ihm eine Bescheinigung aus, die als Grundlage für den Rückgriff auf die Zollschuldnerin oder den Zollschuldner und als definitiver Rechtsöffnungstitel dient.
+<sup>1</sup> Bezahlt die Bürgin oder der Bürge die Zollforderung, so stellt das BAZG auf Verlangen ihr oder ihm eine Bescheinigung aus, die als Grundlage für den Rückgriff auf die Zollschuldnerin oder den Zollschuldner und als definitiver Rechtsöffnungstitel dient.
 
-<sup>2</sup> Die Waren, bezüglich deren die verbürgte Zollforderung entstanden ist und die sich im Gewahrsam der EZV befinden, werden der Bürgin oder dem Bürgen gegen Bezahlung der Zollforderung ausgehändigt.
+<sup>2</sup> Die Waren, bezüglich deren die verbürgte Zollforderung entstanden ist und die sich im Gewahrsam des BAZG befinden, werden der Bürgin oder dem Bürgen gegen Bezahlung der Zollforderung ausgehändigt.
 
 <sup>3</sup> Die Bürgin oder der Bürge kann mit Bezug auf die Zollforderung keine anderen Einreden geltend machen als die Zollschuldnerin oder der Zollschuldner. Vollstreckbare Titel gegenüber der Zollschuldnerin oder dem Zollschuldner wirken auch gegenüber der Bürgin oder dem Bürgen.
 
@@ -1153,9 +1153,9 @@ Durch die Zollbürgschaft als Solidarbürgschaft können sichergestellt werden:
 
 <sup>1</sup> Die Haftung der Bürgin oder des Bürgen endet mit derjenigen der Zollschuldnerin oder des Zollschuldners.
 
-<sup>2</sup> Die Generalbürgschaft kann frühestens ein Jahr nach Errichtung gekündigt werden. Die Bürgschaft erstreckt sich dann nicht mehr auf Zollforderungen, die gegenüber der Zollschuldnerin oder dem Zollschuldner später als 30 Tage nach Eingang der Kündigung bei der EZV entstanden sind.
+<sup>2</sup> Die Generalbürgschaft kann frühestens ein Jahr nach Errichtung gekündigt werden. Die Bürgschaft erstreckt sich dann nicht mehr auf Zollforderungen, die gegenüber der Zollschuldnerin oder dem Zollschuldner später als 30 Tage nach Eingang der Kündigung beim BAZG entstanden sind.
 
-<sup>3</sup> Die Bürgschaft kann von der EZV jederzeit aufgehoben werden.
+<sup>3</sup> Die Bürgschaft kann vom BAZG jederzeit aufgehoben werden.
 
 #### Art. 80
 
@@ -1190,7 +1190,7 @@ Durch die Zollbürgschaft als Solidarbürgschaft können sichergestellt werden:
 Der Bund hat ein gesetzliches Pfandrecht (Zollpfandrecht):
 
 - a. an Waren, für die Zollabgaben zu entrichten sind; und
-- b. an Waren beziehungsweise Sachen, die zur Verletzung zollrechtlicher Erlasse oder nichtzollrechtlicher Erlasse des Bundes, bei deren Vollzug die EZV mitwirkt, gedient haben.
+- b. an Waren beziehungsweise Sachen, die zur Verletzung zollrechtlicher Erlasse oder nichtzollrechtlicher Erlasse des Bundes, bei deren Vollzug das BAZG mitwirkt, gedient haben.
 
 <sup>2</sup> Deckt das Zollpfand nicht alle gesicherten Forderungen, so kann die Zollschuldnerin oder der Zollschuldner erklären, welche Schulden sie oder er mit dem Erlös tilgen will. Entscheidet sich die Zollschuldnerin oder der Zollschuldner innerhalb der gesetzten Frist nicht, so haftet das Zollpfand in der vom Bundesrat festgelegten Reihenfolge.
 
@@ -1200,11 +1200,11 @@ Der Bund hat ein gesetzliches Pfandrecht (Zollpfandrecht):
 
 **Beschlagnahme**
 
-<sup>1</sup> Die EZV macht das Zollpfandrecht durch Beschlagnahme geltend.
+<sup>1</sup> Das BAZG macht das Zollpfandrecht durch Beschlagnahme geltend.
 
 <sup>2</sup> Die Beschlagnahme besteht in der Besitzergreifung oder in einem Verfügungsverbot, das an die Besitzerin oder den Besitzer der Waren beziehungsweise der Sachen gerichtet wird.
 
-<sup>3</sup> Findet die EZV Waren, von denen anzunehmen ist, dass sie widerrechtlich ins Zollgebiet verbracht worden sind, so sind sie als Zollpfand zu beschlagnahmen. Falls der Wert der Waren es rechtfertigt, versucht die EZV, die berechtigte Person ausfindig zu machen.
+<sup>3</sup> Findet das BAZG Waren, von denen anzunehmen ist, dass sie widerrechtlich ins Zollgebiet verbracht worden sind, so sind sie als Zollpfand zu beschlagnahmen. Falls der Wert der Waren es rechtfertigt, versucht das BAZG, die berechtigte Person ausfindig zu machen.
 
 #### Art. 84
 
@@ -1225,7 +1225,7 @@ Ohne Sicherstellung werden beschlagnahmte Waren beziehungsweise Sachen freigegeb
 
 **Nachforderung von Zollabgaben**
 
-Hat die EZV irrtümlich eine von ihr zu erhebende Zollabgabe nicht oder zu niedrig oder einen zurückerstatteten Zollabgabenbetrag zu hoch festgesetzt, so kann sie den geschuldeten Betrag nachfordern, wenn sie die entsprechende Absicht innerhalb eines Jahres nach dem Ausstellen der Veranlagungsverfügung mitteilt.
+Hat das BAZG irrtümlich eine von ihm zu erhebende Zollabgabe nicht oder zu niedrig oder einen zurückerstatteten Zollabgabenbetrag zu hoch festgesetzt, so kann es den geschuldeten Betrag nachfordern, wenn es die entsprechende Absicht innerhalb eines Jahres nach dem Ausstellen der Veranlagungsverfügung mitteilt.
 
 #### Art. 86
 
@@ -1233,16 +1233,16 @@ Hat die EZV irrtümlich eine von ihr zu erhebende Zollabgabe nicht oder zu niedr
 
 <sup>1</sup>
 
-Die EZV verzichtet auf Gesuch hin auf die Erhebung von Zollabgaben oder erstattet diese ganz oder teilweise zurück:
+Das BAZG verzichtet auf Gesuch hin auf die Erhebung von Zollabgaben oder erstattet diese ganz oder teilweise zurück:
 
-- a. wenn im Gewahrsam der EZV stehende oder in ein Transitverfahren, ein Zolllagerverfahren, ein Verfahren der aktiven oder der passiven Veredelung oder ein Verfahren der vorübergehenden Verwendung übergeführte Waren durch Zufall, durch höhere Gewalt oder mit amtlicher Einwilligung ganz oder teilweise vernichtet werden;
+- a. wenn im Gewahrsam des BAZG stehende oder in ein Transitverfahren, ein Zolllagerverfahren, ein Verfahren der aktiven oder der passiven Veredelung oder ein Verfahren der vorübergehenden Verwendung übergeführte Waren durch Zufall, durch höhere Gewalt oder mit amtlicher Einwilligung ganz oder teilweise vernichtet werden;
 - b. wenn in den zollrechtlich freien Verkehr übergeführte Waren auf amtliche Verfügung hin ganz oder teilweise vernichtet oder auf amtliche Verfügung hin wieder ausgeführt werden;
 - c. wenn eine Nachforderung mit Rücksicht auf besondere Verhältnisse die Zollschuldnerin oder den Zollschuldner unverhältnismässig belasten würde;
 - d. in anderen Fällen, wenn aussergewöhnliche Gründe, die nicht die Bemessung der Zollabgaben betreffen, die Zahlung als besondere Härte erscheinen liessen.
 
 <sup>2</sup>
 
-Sie verzichtet auf Gesuch hin ganz oder teilweise auf die Einforderung von Leistungen nach Artikel 12 VStrR[^86-1] oder erstattet bereits beglichene Leistungen ganz oder teilweise zurück, wenn:
+Es verzichtet auf Gesuch hin ganz oder teilweise auf die Einforderung von Leistungen nach Artikel 12 VStrR[^86-1] oder erstattet bereits beglichene Leistungen ganz oder teilweise zurück, wenn:
 
 - a. die Gesuchstellerin oder den Gesuchsteller kein Verschulden trifft; und
 - b.
@@ -1276,13 +1276,13 @@ Ein Zollpfand kann verwertet werden, wenn:
 - a. die dadurch gesicherte Zollforderung vollstreckbar geworden ist; und
 - b. die Zahlungsfrist, die der Zollschuldnerin oder dem Zollschuldner beziehungsweise der Bürgin oder dem Bürgen gesetzt wurde, unbenützt abgelaufen ist.
 
-<sup>2</sup> Die EZV kann Waren beziehungsweise Sachen, die einer schnellen Wertverminderung ausgesetzt sind oder einen kostspieligen Unterhalt erfordern, sofort und ohne Einverständnis der Pfandeigentümerin oder des Pfandeigentümers verwerten.
+<sup>2</sup> Das BAZG kann Waren beziehungsweise Sachen, die einer schnellen Wertverminderung ausgesetzt sind oder einen kostspieligen Unterhalt erfordern, sofort und ohne Einverständnis der Pfandeigentümerin oder des Pfandeigentümers verwerten.
 
 <sup>3</sup> Das Pfand wird in der Regel durch öffentliche Versteigerung verwertet. Der Bundesrat kann Grundsätze für das Verfahren festlegen; im Übrigen richtet sich dieses nach dem am Versteigerungsort geltenden kantonalen Recht.
 
 <sup>4</sup>
 
-Die EZV darf das Pfand nur mit dem Einverständnis der Pfandeigentümerin oder des Pfandeigentümers freihändig verkaufen, ausser:
+Das BAZG darf das Pfand nur mit dem Einverständnis der Pfandeigentümerin oder des Pfandeigentümers freihändig verkaufen, ausser:
 
 - a. das Pfand konnte nicht öffentlich versteigert werden; oder
 - b. der Pfandwert beträgt höchstens 5000 Franken und die Pfandeigentümerin oder der Pfandeigentümer ist nicht bekannt.[^87-1]
@@ -1291,10 +1291,10 @@ Die EZV darf das Pfand nur mit dem Einverständnis der Pfandeigentümerin oder d
 
 Der Bundesrat regelt:
 
-- a. unter welchen zusätzlichen Voraussetzungen die EZV das Pfand freihändig verkaufen kann;
-- b. in welchen Fällen die EZV auf eine Zollpfandverwertung verzichten kann.[^87-2]
+- a. unter welchen zusätzlichen Voraussetzungen das BAZG das Pfand freihändig verkaufen kann;
+- b. in welchen Fällen das BAZG auf eine Zollpfandverwertung verzichten kann.[^87-2]
 
-<sup>6</sup> Die EZV kann hinterlegte Wertpapiere an der Börse verkaufen.[^87-3]
+<sup>6</sup> Das BAZG kann hinterlegte Wertpapiere an der Börse verkaufen.[^87-3]
 
 [^87-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^87-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -1311,11 +1311,11 @@ Die Betreibung auf Pfändung nach Artikel 42 SchKG[^88-1] ist einzuleiten, wenn:
 - a. eine vollstreckbare Zollforderung durch kein verwertbares Zollpfand gesichert ist oder die Zollpfandverwertung keine volle Deckung ergeben hat; und
 - b. die Zahlungsfrist, die der Zollschuldnerin oder dem Zollschuldner beziehungsweise der Bürgin oder dem Bürgen gesetzt wurde, unbenützt abgelaufen ist.
 
-<sup>2</sup> Wurde über die Zollschuldnerin oder den Zollschuldner der Konkurs eröffnet, so kann die EZV ihre Forderung unbeschadet ihrer Ansprüche aus dem Zollpfandrecht geltend machen. Artikel 198 SchKG ist nicht anwendbar.
+<sup>2</sup> Wurde über die Zollschuldnerin oder den Zollschuldner der Konkurs eröffnet, so kann das BAZG seine Forderung unbeschadet seiner Ansprüche aus dem Zollpfandrecht geltend machen. Artikel 198 SchKG ist nicht anwendbar.
 
-<sup>3</sup> Rechtskräftige Verfügungen der EZV sind einem gerichtlichen Urteil im Sinne von Artikel 80 SchKG gleichgestellt.
+<sup>3</sup> Rechtskräftige Verfügungen des BAZG sind einem gerichtlichen Urteil im Sinne von Artikel 80 SchKG gleichgestellt.
 
-<sup>4</sup> Die endgültige Kollokation einer bestrittenen Forderung unterbleibt, bis eine rechtskräftige Verfügung der EZV vorliegt.
+<sup>4</sup> Die endgültige Kollokation einer bestrittenen Forderung unterbleibt, bis eine rechtskräftige Verfügung des BAZG vorliegt.
 
 [^88-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
@@ -1325,12 +1325,12 @@ Die Betreibung auf Pfändung nach Artikel 42 SchKG[^88-1] ist einzuleiten, wenn:
 
 <sup>1</sup>
 
-Die EZV kann Gebühren erheben für:
+Das BAZG kann Gebühren erheben für:
 
-- a. Verfügungen, die sie in Vollzug der Zollgesetzgebung erlässt;
-- b. Dienstleistungen, die sie erbringt, namentlich indem sie ihre Infrastruktur sowie ihre Anlagen und Einrichtungen zur Verfügung stellt.
+- a. Verfügungen, die es in Vollzug der Zollgesetzgebung erlässt;
+- b. Dienstleistungen, die es erbringt, namentlich indem es seine Infrastruktur sowie seine Anlagen und Einrichtungen zur Verfügung stellt.
 
-<sup>2</sup> Der Bundesrat kann die Gebührenerhebung für andere amtliche Verrichtungen vorsehen, welche die EZV nach der Zollgesetzgebung vornimmt.
+<sup>2</sup> Der Bundesrat kann die Gebührenerhebung für andere amtliche Verrichtungen vorsehen, welche das BAZG nach der Zollgesetzgebung vornimmt.
 
 <sup>3</sup> Er regelt die Höhe der Gebühren im Einzelnen.
 
@@ -1340,27 +1340,33 @@ Die EZV kann Gebühren erheben für:
 
 #### Art. 90
 
-<sup>1</sup> Die Veranlagung, die Erhebung, die Rückerstattung und die Verjährung von Abgaben sowie die Rückforderung von Beträgen nach nichtzollrechtlichen Bundesgesetzen richten sich nach dem vorliegenden Gesetz, soweit der Vollzug dieser Gesetze der EZV obliegt und soweit sie die Anwendung des vorliegenden Gesetzes nicht ausschliessen.
+<sup>1</sup> Die Veranlagung, die Erhebung, die Rückerstattung und die Verjährung von Abgaben sowie die Rückforderung von Beträgen nach nichtzollrechtlichen Bundesgesetzen richten sich nach dem vorliegenden Gesetz, soweit der Vollzug dieser Gesetze dem BAZG obliegt und soweit sie die Anwendung des vorliegenden Gesetzes nicht ausschliessen.
 
 <sup>2</sup> Die Bestimmung über den Erlass von Zollabgaben (Art. 86) ist auf Abgaben nach einem nichtzollrechtlichen Bundesgesetz nur anwendbar, wenn dieses es vorsieht.
 
-## 5. Titel: Die Zollverwaltung
+## 5. Titel: Bundesamt für Zoll und Grenzsicherheit****
+
+[^tit5-1]
+
+[^tit5-1]: Fassung gemäss Ziff. I 16 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### 1. Kapitel: Organisation und Personal
 
 #### Art. 91
 
-**Zollverwaltung**
+**BAZG[^91-1]**
 
-<sup>1</sup> Die EZV gliedert sich in die Oberzolldirektion, die Zollkreisdirektionen und die Zollstellen.
+<sup>1</sup> Das BAZG gliedert sich in die Oberzolldirektion, die Zollkreisdirektionen und die Zollstellen.
 
 <sup>2</sup> Das Grenzwachtkorps ist ein bewaffneter und uniformierter Verband.
+
+[^91-1]: Fassung gemäss Ziff. I 16 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 91a
 
 **Vereidigung**[^91a-1]
 
-<sup>1</sup> Die EZV bezeichnet das Personal, das polizeilichen Zwang und polizeiliche Massnahmen anwenden darf und dem die Befugnisse nach den Artikeln 101–105 zustehen.
+<sup>1</sup> Das BAZG bezeichnet das Personal, das polizeilichen Zwang und polizeiliche Massnahmen anwenden darf und dem die Befugnisse nach den Artikeln 101–105 zustehen.
 
 <sup>2</sup> Das nach Absatz 1 bezeichnete Personal wird auf gewissenhafte Pflichterfüllung hin vereidigt. Statt des Eids kann das Gelübde abgelegt werden.
 
@@ -1373,28 +1379,28 @@ Die EZV kann Gebühren erheben für:
 
 **Einsätze im Ausland[^92-1]**
 
-<sup>1</sup> Die EZV kann im Rahmen internationaler Massnahmen bei Einsätzen im Ausland mitwirken.
+<sup>1</sup> Das BAZG kann im Rahmen internationaler Massnahmen bei Einsätzen im Ausland mitwirken.
 
-<sup>2</sup> Für das Personal der EZV sind solche Einsätze freiwillig.
+<sup>2</sup> Für das Personal des BAZG sind solche Einsätze freiwillig.
 
-<sup>3</sup> Im Rahmen internationaler Massnahmen kann die EZV ausländischen Staaten und der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union auch Material zur Überwachung von Grenzen zur Verfügung stellen.[^92-2]
+<sup>3</sup> Im Rahmen internationaler Massnahmen kann das BAZG ausländischen Staaten und der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union auch Material zur Überwachung von Grenzen zur Verfügung stellen.[^92-2]
 
 <sup>4</sup>
 
-Sie kann im Ausland Verbindungsleute einsetzen und mit folgenden Aufgaben betrauen:
+Es kann im Ausland Verbindungsleute einsetzen und mit folgenden Aufgaben betrauen:
 
-- a. Sammeln strategischer, taktischer und operativer Informationen, die die EZV für die Erfüllung ihrer gesetzlichen Aufgaben benötigt;
+- a. Sammeln strategischer, taktischer und operativer Informationen, die das BAZG für die Erfüllung seiner gesetzlichen Aufgaben benötigt;
 - b. Austausch von Informationen zwischen den Partnerbehörden im Empfangsstaat und bei internationalen Organisationen sowie den schweizerischen Behörden;
 - c. Förderung der polizeilichen und justiziellen Zusammenarbeit.[^92-3]
 
-<sup>5</sup> Die EZV kann im Einvernehmen mit dem Bundesamt für Polizei (fedpol) Aufgaben ihrer Verbindungsleute an die Polizeiverbindungsleute von fedpol delegieren. Soweit dies für die Aufgabenerfüllung erforderlich ist, sind die Polizeiverbindungsleute im Rahmen der von der EZV übertragenen Aufgaben den Verbindungsleuten der EZV bezüglich des Zugriffs auf die Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt.[^92-4]
+<sup>5</sup> Das BAZG kann im Einvernehmen mit dem Bundesamt für Polizei (fedpol) Aufgaben seiner Verbindungsleute an die Polizeiverbindungsleute von fedpol delegieren. Soweit dies für die Aufgabenerfüllung erforderlich ist, sind die Polizeiverbindungsleute im Rahmen der vom BAZG übertragenen Aufgaben den Verbindungsleuten des BAZG bezüglich des Zugriffs auf die Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt.[^92-4]
 
 <sup>6</sup>
 
 Der Bundesrat wird ermächtigt:
 
-- a. völkerrechtliche Zusammenarbeitsverträge über den Einsatz von Personal der EZV in der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union abzuschliessen;
-- b. mit den zuständigen ausländischen Behörden den Einsatz von Verbindungsleuten der EZV zu vereinbaren;
+- a. völkerrechtliche Zusammenarbeitsverträge über den Einsatz von Personal des BAZG in der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union abzuschliessen;
+- b. mit den zuständigen ausländischen Behörden den Einsatz von Verbindungsleuten des BAZG zu vereinbaren;
 - c. den Umfang der Aufgaben nach Absatz 4 zu regeln.[^92-5]
 
 [^92-1]: Fassung gemäss Anhang Ziff. 3 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
@@ -1407,7 +1413,7 @@ Der Bundesrat wird ermächtigt:
 
 **Wohlfahrtskasse des Zollpersonals**
 
-<sup>1</sup> Die EZV führt für ihr Personal eine Wohlfahrtskasse.
+<sup>1</sup> Das BAZG führt für sein Personal eine Wohlfahrtskasse.
 
 <sup>2</sup> Der Bundesrat regelt Zweck, Organisation, Finanzierung und Verwaltung der Wohlfahrtskasse.
 
@@ -1417,17 +1423,17 @@ Der Bundesrat wird ermächtigt:
 
 **Zollrechtliche Aufgaben**
 
-Die EZV vollzieht die Zollgesetzgebung sowie die völkerrechtlichen Verträge, deren Vollzug der EZV obliegt.
+Das BAZG vollzieht die Zollgesetzgebung sowie die völkerrechtlichen Verträge, deren Vollzug dem BAZG obliegt.
 
 #### Art. 95
 
 **Nichtzollrechtliche Aufgaben**
 
-<sup>1</sup> Die EZV wirkt beim Vollzug nichtzollrechtlicher Erlasse des Bundes mit, soweit die betreffenden Erlasse dies vorsehen.
+<sup>1</sup> Das BAZG wirkt beim Vollzug nichtzollrechtlicher Erlasse des Bundes mit, soweit die betreffenden Erlasse dies vorsehen.
 
-<sup>1bis</sup> Im Rahmen ihrer Aufgaben unterstützt sie die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung.[^95-1]
+<sup>1bis</sup> Im Rahmen seiner Aufgaben unterstützt es die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung.[^95-1]
 
-<sup>2</sup> Sind Abgaben zweckgebunden, so zieht die EZV ihre Erhebungskosten vom Rohertrag ab.
+<sup>2</sup> Sind Abgaben zweckgebunden, so zieht das BAZG seine Erhebungskosten vom Rohertrag ab.
 
 [^95-1]: Eingefügt durch Ziff. I 5 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
@@ -1435,7 +1441,7 @@ Die EZV vollzieht die Zollgesetzgebung sowie die völkerrechtlichen Verträge, d
 
 **Sicherheitsaufgaben[^96-1]**
 
-<sup>1</sup> Im Rahmen ihrer zollrechtlichen und nichtzollrechtlichen Aufgaben erfüllt die EZV im Grenzraum auch Sicherheitsaufgaben, um zur inneren Sicherheit des Landes und zum Schutz der Bevölkerung beizutragen. Diese Tätigkeiten sind mit jenen der Polizei des Bundes und der Kantone zu koordinieren.[^96-2]
+<sup>1</sup> Im Rahmen seiner zollrechtlichen und nichtzollrechtlichen Aufgaben erfüllt das BAZG im Grenzraum auch Sicherheitsaufgaben, um zur inneren Sicherheit des Landes und zum Schutz der Bevölkerung beizutragen. Diese Tätigkeiten sind mit jenen der Polizei des Bundes und der Kantone zu koordinieren.[^96-2]
 
 <sup>2</sup> Die Kompetenzen der Strafverfolgungsbehörden und der Polizei von Bund und Kantonen bleiben gewahrt. Artikel 97 bleibt vorbehalten.
 
@@ -1446,7 +1452,7 @@ Die EZV vollzieht die Zollgesetzgebung sowie die völkerrechtlichen Verträge, d
 
 **Übernahme kantonaler polizeilicher Aufgaben**[^97-1]
 
-<sup>1</sup> Das EFD kann mit einem Kanton auf dessen Begehren eine Vereinbarung abschliessen, wonach die EZV ermächtigt wird, polizeiliche Aufgaben zu erfüllen, die im Zusammenhang mit dem Vollzug nichtzollrechtlicher Erlasse des Bundes stehen und den Kantonen durch die Gesetzgebung des Bundes übertragen worden sind.
+<sup>1</sup> Das EFD kann mit einem Kanton auf dessen Begehren eine Vereinbarung abschliessen, wonach das BAZG ermächtigt wird, polizeiliche Aufgaben zu erfüllen, die im Zusammenhang mit dem Vollzug nichtzollrechtlicher Erlasse des Bundes stehen und den Kantonen durch die Gesetzgebung des Bundes übertragen worden sind.
 
 <sup>2</sup> Die Vereinbarungen regeln insbesondere den Einsatzraum, den Umfang der Aufgaben und die Übernahme der Kosten.
 
@@ -1456,13 +1462,13 @@ Die EZV vollzieht die Zollgesetzgebung sowie die völkerrechtlichen Verträge, d
 
 **Aufgabenübertragung durch den Bundesrat**
 
-Der Bundesrat kann der EZV den Vollzug dringlicher Bundesaufgaben im Bereich des grenzüberschreitenden Verkehrs übertragen.
+Der Bundesrat kann dem BAZG den Vollzug dringlicher Bundesaufgaben im Bereich des grenzüberschreitenden Verkehrs übertragen.
 
 #### Art. 99
 
 **Leistungsziele**
 
-Das EFD kann der EZV periodisch Leistungsziele für die Erfüllung ihrer Aufgaben setzen.
+Das EFD kann dem BAZG periodisch Leistungsziele für die Erfüllung seiner Aufgaben setzen.
 
 ### 3. Kapitel: Befugnisse
 
@@ -1472,7 +1478,7 @@ Das EFD kann der EZV periodisch Leistungsziele für die Erfüllung ihrer Aufgabe
 
 <sup>1</sup>
 
-Die EZV ist zur Erfüllung der ihr übertragenen Aufgaben, insbesondere um den ordnungsgemässen Verkehr von Personen und Waren über die Zollgrenze zu gewährleisten und um zur inneren Sicherheit des Landes und zum Schutz der Bevölkerung beizutragen, namentlich befugt:
+Das BAZG ist zur Erfüllung der ihm übertragenen Aufgaben, insbesondere um den ordnungsgemässen Verkehr von Personen und Waren über die Zollgrenze zu gewährleisten und um zur inneren Sicherheit des Landes und zum Schutz der Bevölkerung beizutragen, namentlich befugt:
 
 - a.
 
@@ -1489,7 +1495,7 @@ Die EZV ist zur Erfüllung der ihr übertragenen Aufgaben, insbesondere um den o
 
 <sup>1bis</sup> Soweit das vorliegende Gesetz keine besonderen Bestimmungen enthält, ist das Zwangsanwendungsgesetz vom 20. März 2008[^100-1] anwendbar.[^100-2]
 
-<sup>2</sup> …[^100-3]
+<sup>2</sup> ...[^100-3]
 
 [^100-1]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
 [^100-2]: Eingefügt durch Anhang Ziff. 5 des Zwangsanwendungsgesetzes vom 20. März 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [BBl 2006 2489](https://fedlex.data.admin.ch/eli/fga/2006/250)).
@@ -1499,7 +1505,7 @@ Die EZV ist zur Erfüllung der ihr übertragenen Aufgaben, insbesondere um den o
 
 **Anhalten und Abtasten**
 
-<sup>1</sup> Die EZV darf eine Person anhalten und befragen, wenn Umstände die Annahme rechtfertigen, dass sie sachdienliche Angaben für die Erfüllung einer der EZV obliegenden Aufgabe machen kann.
+<sup>1</sup> Das BAZG darf eine Person anhalten und befragen, wenn Umstände die Annahme rechtfertigen, dass sie sachdienliche Angaben für die Erfüllung einer dem BAZG obliegenden Aufgabe machen kann.
 
 <sup>2</sup>
 
@@ -1514,7 +1520,7 @@ Eine Person darf abgetastet werden, wenn:
 
 <sup>1</sup>
 
-Die EZV darf eine Person körperlich durchsuchen oder sie körperlich untersuchen lassen, wenn:
+Das BAZG darf eine Person körperlich durchsuchen oder sie körperlich untersuchen lassen, wenn:
 
 - a. der Verdacht besteht, dass von der Person eine Gefährdung ausgeht oder dass sie Gegenstände, die sicherzustellen sind, mit sich führt; oder
 - b. die Voraussetzungen für eine vorläufige Festnahme erfüllt sind.
@@ -1529,7 +1535,7 @@ Die EZV darf eine Person körperlich durchsuchen oder sie körperlich untersuche
 
 <sup>1</sup>
 
-Die EZV darf durch Fotografieren oder durch Abnahme biometrischer Daten die Identität einer Person festhalten, sofern:
+Das BAZG darf durch Fotografieren oder durch Abnahme biometrischer Daten die Identität einer Person festhalten, sofern:
 
 - a. diese Person begangener oder möglicherweise bevorstehender schwerer Widerhandlungen verdächtigt wird; oder
 - b. ein anderer Erlass das Festhalten der Identität von Personen vorsieht.
@@ -1542,16 +1548,16 @@ Die EZV darf durch Fotografieren oder durch Abnahme biometrischer Daten die Iden
 
 <sup>1</sup>
 
-Die EZV kann Gegenstände und Vermögenswerte vorläufig sicherstellen, wenn die Gegenstände und Vermögenswerte voraussichtlich:
+Das BAZG kann Gegenstände und Vermögenswerte vorläufig sicherstellen, wenn die Gegenstände und Vermögenswerte voraussichtlich:
 
 - a. als Beweismittel gebraucht werden; oder
 - b. einzuziehen sind.
 
-<sup>2</sup> Sie übermittelt Gegenstände und Vermögenswerte unverzüglich der zuständigen Behörde. Diese entscheidet über die Anordnung einer Beschlagnahme.
+<sup>2</sup> Es übermittelt Gegenstände und Vermögenswerte unverzüglich der zuständigen Behörde. Diese entscheidet über die Anordnung einer Beschlagnahme.
 
-<sup>3</sup> Ordnet die zuständige Behörde keine Beschlagnahme an, so gibt die EZV die in ihrem Gewahrsam befindlichen Gegenstände und Vermögenswerte der berechtigten Person zurück. Ist diese oder deren Aufenthaltsort nicht bekannt, so findet Artikel 92 VStrR[^104-2] sinngemäss Anwendung.
+<sup>3</sup> Ordnet die zuständige Behörde keine Beschlagnahme an, so gibt das BAZG die in ihrem Gewahrsam befindlichen Gegenstände und Vermögenswerte der berechtigten Person zurück. Ist diese oder deren Aufenthaltsort nicht bekannt, so findet Artikel 92 VStrR[^104-2] sinngemäss Anwendung.
 
-<sup>4</sup> Die EZV kann eine selbstständige Einziehung von Gegenständen und Vermögenswerten nach den Artikeln 69 und 70 des Strafgesetzbuchs[^104-3] anordnen. Das Verfahren richtet sich nach Artikel 66 VStrR.
+<sup>4</sup> Das BAZG kann eine selbstständige Einziehung von Gegenständen und Vermögenswerten nach den Artikeln 69 und 70 des Strafgesetzbuchs[^104-3] anordnen. Das Verfahren richtet sich nach Artikel 66 VStrR.
 
 [^104-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^104-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1561,11 +1567,11 @@ Die EZV kann Gegenstände und Vermögenswerte vorläufig sicherstellen, wenn die
 
 **Abführen und vorläufige Festnahme**
 
-<sup>1</sup> Die EZV darf eine Person, die begangener Widerhandlungen oder möglicherweise bevorstehender schwerer Widerhandlungen verdächtigt wird, zur Kontrolle abführen. Sie kann der zuständigen Behörde Anzeige erstatten.
+<sup>1</sup> Das BAZG darf eine Person, die begangener Widerhandlungen oder möglicherweise bevorstehender schwerer Widerhandlungen verdächtigt wird, zur Kontrolle abführen. Es kann der zuständigen Behörde Anzeige erstatten.
 
-<sup>2</sup> Bei Gefahr im Verzug oder im Falle von Widerstand darf die EZV die abgeführte Person nach Artikel 19 VStrR[^105-1] vorläufig festnehmen.
+<sup>2</sup> Bei Gefahr im Verzug oder im Falle von Widerstand darf das BAZG die abgeführte Person nach Artikel 19 VStrR[^105-1] vorläufig festnehmen.
 
-<sup>3</sup> Sie führt die vorläufig festgenommene Person unverzüglich der zuständigen Behörde zu.
+<sup>3</sup> Es führt die vorläufig festgenommene Person unverzüglich der zuständigen Behörde zu.
 
 [^105-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -1585,7 +1591,7 @@ Das Personal des Grenzwachtkorps darf Waffen nach Artikel 4 Absatz 1 des Waffeng
 
 Der Bundesrat regelt:
 
-- a. inwieweit das übrige Personal der EZV Waffen oder andere Selbstverteidigungs- und Zwangsmittel tragen und einsetzen darf;
+- a. inwieweit das übrige Personal des BAZG Waffen oder andere Selbstverteidigungs- und Zwangsmittel tragen und einsetzen darf;
 - b. den Gebrauch der Waffe und der übrigen Selbstverteidigungs- und Zwangsmittel im Einzelnen.
 
 [^106-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
@@ -1594,7 +1600,7 @@ Der Bundesrat regelt:
 
 **Durchsuchen von Grundstücken, Einfriedungen und Bauten**
 
-<sup>1</sup> Das Personal der EZV darf zu Kontrollzwecken im Grenzraum Grundstücke durchsuchen.
+<sup>1</sup> Das Personal des BAZG darf zu Kontrollzwecken im Grenzraum Grundstücke durchsuchen.
 
 <sup>2</sup> Zu Kontrollzwecken darf es auch Einfriedungen und Bauten, die an das Ufer eines Grenzgewässers anstossen, mit Ausnahme von Wohnungen, durchsuchen.
 
@@ -1608,7 +1614,7 @@ Der Bundesrat regelt:
 
 <sup>1</sup>
 
-Die EZV kann automatische Bildaufnahme- und Bildaufzeichnungsgeräte sowie andere Überwachungsgeräte einsetzen:
+Das BAZG kann automatische Bildaufnahme- und Bildaufzeichnungsgeräte sowie andere Überwachungsgeräte einsetzen:
 
 - a. um unerlaubte Grenzübertritte oder Gefahren für die Sicherheit im grenzüberschreitenden Verkehr frühzeitig zu erkennen;
 - b. namentlich zur Fahndung sowie zur Überwachung von Räumen mit Wertsachen, von Räumen mit abgeführten oder vorläufig festgenommenen Personen und von Zollfreilagern.
@@ -1621,7 +1627,7 @@ Die EZV kann automatische Bildaufnahme- und Bildaufzeichnungsgeräte sowie ander
 
 <sup>1</sup> Wer gewerbsmässig Zollanmeldungen ausstellt, muss über die erforderliche Eignung verfügen.
 
-<sup>2</sup> Die EZV kann Personen, die nicht über die erforderliche Eignung verfügen oder die gegen die Zollgesetzgebung verstossen haben, das gewerbsmässige Ausstellen von Zollanmeldungen und weitere Tätigkeiten im Rahmen des Zollveranlagungsverfahrens auf bestimmte oder unbestimmte Zeit verbieten.
+<sup>2</sup> Das BAZG kann Personen, die nicht über die erforderliche Eignung verfügen oder die gegen die Zollgesetzgebung verstossen haben, das gewerbsmässige Ausstellen von Zollanmeldungen und weitere Tätigkeiten im Rahmen des Zollveranlagungsverfahrens auf bestimmte oder unbestimmte Zeit verbieten.
 
 ## 6. Titel: Datenschutz und Amtshilfe
 
@@ -1629,13 +1635,13 @@ Die EZV kann automatische Bildaufnahme- und Bildaufzeichnungsgeräte sowie ander
 
 #### Art. 110
 
-**Informationssysteme der EZV**
+**Informationssysteme des BAZG**
 
-<sup>1</sup> Die EZV darf Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bearbeiten, sofern dies für den Vollzug der von ihr anzuwendenden Erlasse notwendig ist.
+<sup>1</sup> Das BAZG darf Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bearbeiten, sofern dies für den Vollzug der von ihr anzuwendenden Erlasse notwendig ist.
 
 <sup>2</sup>
 
-Sie darf Informationssysteme führen, namentlich betreffend:
+Es darf Informationssysteme führen, namentlich betreffend:
 
 - a. das Veranlagen und das Erheben von Abgaben;
 - b. das Erstellen von Risikoanalysen;
@@ -1654,7 +1660,7 @@ Der Bundesrat regelt:[^110-2]
 
 - a. die Organisation und den Betrieb der Informationssysteme;
 - b. die Kataloge der zu erfassenden Daten;
-- c.[^110-3] die Übernahme von Daten in ein Informationssystem der EZV aus anderen Informationssystemen des Bundes im Rahmen von Artikel 111 Absatz 1;
+- c.[^110-3] die Übernahme von Daten in ein Informationssystem des BAZG aus anderen Informationssystemen des Bundes im Rahmen von Artikel 111 Absatz 1;
 - d. die Berechtigung zum Bearbeiten der Daten;
 - d<sup>bis</sup>.[^110-4] die Beschaffung und die Bekanntgabe der Daten im Rahmen der Artikel 112 und 113;
 - e. die Dauer des Aufbewahrens der Daten;
@@ -1669,7 +1675,7 @@ Der Bundesrat regelt:[^110-2]
 
 **Informationssystem für Strafsachen**[^110a-1]
 
-<sup>1</sup> Die EZV betreibt für die Verfolgung und Beurteilung von Straffällen sowie das Behandeln von Amts- und Rechtshilfeersuchen ein Informationssystem.
+<sup>1</sup> Das BAZG betreibt für die Verfolgung und Beurteilung von Straffällen sowie das Behandeln von Amts- und Rechtshilfeersuchen ein Informationssystem.
 
 <sup>2</sup>
 
@@ -1701,7 +1707,7 @@ Im Informationssystem können folgende besonders schützenswerte Personendaten b
 
 **Informationssystem für die Bewirtschaftung der Resultate von Zollkontrollen**[^110b-1]
 
-<sup>1</sup> Die EZV betreibt für die Bewirtschaftung der Resultate von Zollkontrollen ein Informationssystem.
+<sup>1</sup> Das BAZG betreibt für die Bewirtschaftung der Resultate von Zollkontrollen ein Informationssystem.
 
 <sup>2</sup>
 
@@ -1709,7 +1715,7 @@ Das Informationssystem dient dem Vollzug dieses Gesetzes, insbesondere:
 
 - a. der zentralen Verwaltung der Resultate der Zollkontrollen;
 - b. der Beschaffung der Datengrundlage für die Risikoanalyse;
-- c. der Beschaffung der Datengrundlage für die Berichterstattung über die Erfüllung der Aufgaben der EZV.
+- c. der Beschaffung der Datengrundlage für die Berichterstattung über die Erfüllung der Aufgaben des BAZG.
 
 <sup>3</sup>
 
@@ -1726,7 +1732,7 @@ Im Informationssystem können folgende besonders schützenswerte Personendaten b
 
 **Informationssystem für die Erstellung von Risikoanalysen**[^110c-1]
 
-<sup>1</sup> Das Lage- und Analysezentrum der EZV betreibt für das Erstellen von Risikoanalysen ein Informationssystem.
+<sup>1</sup> Das Lage- und Analysezentrum des BAZG betreibt für das Erstellen von Risikoanalysen ein Informationssystem.
 
 <sup>2</sup>
 
@@ -1746,7 +1752,7 @@ Im Informationssystem können folgende besonders schützenswerte Personendaten b
 - d. Angaben über möglicherweise zu ergreifende oder angeordnete verwaltungsrechtliche Massnahmen;
 - e. Angaben über hängige oder abgeschlossene Strafverfahren.
 
-<sup>4</sup> Die Resultate von Risikoanalysen können auf den Intranetseiten der EZV berechtigten Personen zugänglich gemacht werden.
+<sup>4</sup> Die Resultate von Risikoanalysen können auf den Intranetseiten des BAZG berechtigten Personen zugänglich gemacht werden.
 
 [^110c-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1754,7 +1760,7 @@ Im Informationssystem können folgende besonders schützenswerte Personendaten b
 
 **Informationssystem für die Führungsunterstützung**[^110d-1]
 
-<sup>1</sup> Die EZV betreibt für die Führungsunterstützung ein Informationssystem.
+<sup>1</sup> Das BAZG betreibt für die Führungsunterstützung ein Informationssystem.
 
 <sup>2</sup> Das Informationssystem dient der Beschaffung und Bearbeitung aller notwendigen Informationen zur operativen und strategischen Steuerung und Leitung der Einsätze.
 
@@ -1764,7 +1770,7 @@ Im Informationssystem können folgende Personendaten, einschliesslich besonders 
 
 - a. Angaben zur Identifikation, Lokalisierung und Kontaktierung einer Person sowie Angaben über die von ihr verwendeten Beförderungsmittel und über mitgeführte Waren, Gegenstände und Vermögenswerte;
 - b. Angaben über Ereignisse, welche die Einsatzzentralen bearbeiten;
-- c. Angaben über die Ressourcen der EZV und der beteiligten Behörden.
+- c. Angaben über die Ressourcen des BAZG und der beteiligten Behörden.
 
 [^110d-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1772,7 +1778,7 @@ Im Informationssystem können folgende Personendaten, einschliesslich besonders 
 
 **Informationssystem für die Dokumentation der Tätigkeit des Grenzwachtkorps**[^110e-1]
 
-<sup>1</sup> Die EZV betreibt für die Dokumentation der Tätigkeit des Grenzwachtkorps und für die Erstellung von Statistiken und Risikoanalysen ein Informationssystem.
+<sup>1</sup> Das BAZG betreibt für die Dokumentation der Tätigkeit des Grenzwachtkorps und für die Erstellung von Statistiken und Risikoanalysen ein Informationssystem.
 
 <sup>2</sup>
 
@@ -1809,7 +1815,7 @@ Auf die Daten nach Absatz 2 Buchstaben a–c haben die folgenden Personen im Abr
 
 **Informationssystem für Bildaufnahme-, Bildaufzeichnungs- und andere Überwachungsgeräte**[^110f-1]
 
-<sup>1</sup> Die EZV betreibt ein Informationssystem für die Bewirtschaftung von Aufzeichnungen, die gestützt auf Artikel 108 oder 128*a* erstellt werden.
+<sup>1</sup> Das BAZG betreibt ein Informationssystem für die Bewirtschaftung von Aufzeichnungen, die gestützt auf Artikel 108 oder 128*a* erstellt werden.
 
 <sup>2</sup>
 
@@ -1827,9 +1833,9 @@ Im Informationssystem können insbesondere Daten bearbeitet werden von:
 
 **Schnittstellen**[^110g-1]
 
-<sup>1</sup> Die Informationssysteme nach den Artikeln 110*a*–110*f* können so miteinander sowie mit den weiteren Informationssystemen der EZV verbunden werden, dass die Benutzerinnen und Benutzer im Rahmen ihrer Zugriffsrechte mit einer einzigen Abfrage prüfen können, ob eine bestimmte Person oder Organisation in einem Informationssystem verzeichnet ist.
+<sup>1</sup> Die Informationssysteme nach den Artikeln 110*a*–110*f* können so miteinander sowie mit den weiteren Informationssystemen des BAZG verbunden werden, dass die Benutzerinnen und Benutzer im Rahmen ihrer Zugriffsrechte mit einer einzigen Abfrage prüfen können, ob eine bestimmte Person oder Organisation in einem Informationssystem verzeichnet ist.
 
-<sup>2</sup> Eine Verbindung der Informationssysteme nach den Artikeln 110*a*–110*f* mit anderen Informationssystemen der Bundesverwaltung, auf die die EZV Zugriff hat, ist nur zulässig, sofern die Gesetzgebung über die letztgenannten Informationssysteme dies vorsieht.
+<sup>2</sup> Eine Verbindung der Informationssysteme nach den Artikeln 110*a*–110*f* mit anderen Informationssystemen der Bundesverwaltung, auf die das BAZG Zugriff hat, ist nur zulässig, sofern die Gesetzgebung über die letztgenannten Informationssysteme dies vorsieht.
 
 [^110g-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1837,7 +1843,7 @@ Im Informationssystem können insbesondere Daten bearbeitet werden von:
 
 **Auswertungsplattformen**[^110h-1]
 
-<sup>1</sup> Für die Informationssysteme der EZV können Auswertungsplattformen errichtet werden. Eine Auswertungsplattform besteht aus einer Grobauswertungsplattform und aus einer Feinauswertungsplattform.
+<sup>1</sup> Für die Informationssysteme des BAZG können Auswertungsplattformen errichtet werden. Eine Auswertungsplattform besteht aus einer Grobauswertungsplattform und aus einer Feinauswertungsplattform.
 
 <sup>2</sup> Die Grobauswertungsplattform dient der Aufbereitung, Auswertung und Aufbewahrung der Daten.
 
@@ -1849,15 +1855,15 @@ Im Informationssystem können insbesondere Daten bearbeitet werden von:
 
 **Andere Informationssysteme**
 
-<sup>1</sup> Die EZV darf zur Erfüllung ihrer Aufgaben Daten aus Informationssystemen anderer Behörden des Bundes und der Kantone bearbeiten, sofern dies in anderen Erlassen des Bundes beziehungsweise in kantonalen Erlassen vorgesehen ist. Sie verwendet die Daten ausschliesslich zweckkonform.
+<sup>1</sup> Das BAZG darf zur Erfüllung seiner Aufgaben Daten aus Informationssystemen anderer Behörden des Bundes und der Kantone bearbeiten, sofern dies in anderen Erlassen des Bundes beziehungsweise in kantonalen Erlassen vorgesehen ist. Es verwendet die Daten ausschliesslich zweckkonform.
 
-<sup>2</sup> Sie darf zur Erfüllung ihrer Aufgaben Daten aus Informationssystemen der Zollflugplätze, der offenen Zolllager, der Lager für Massengüter und der Zollfreilager beschaffen.
+<sup>2</sup> Es darf zur Erfüllung seiner Aufgaben Daten aus Informationssystemen der Zollflugplätze, der offenen Zolllager, der Lager für Massengüter und der Zollfreilager beschaffen.
 
 #### Art. 112
 
 **Datenbekanntgabe an inländische Behörden**
 
-<sup>1</sup> Die EZV darf den Behörden von Bund, Kantonen und Gemeinden sowie mit öffentlich-rechtlichen Aufgaben des Bundes betrauten Organisationen oder Personen des öffentlichen oder des privaten Rechts (inländische Behörden) Daten sowie Feststellungen, die das Zollpersonal bei der Ausübung seines Dienstes gemacht hat, bekannt geben, sofern dies für den Vollzug der von diesen Behörden anzuwendenden Erlasse notwendig ist.
+<sup>1</sup> Das BAZG darf den Behörden von Bund, Kantonen und Gemeinden sowie mit öffentlich-rechtlichen Aufgaben des Bundes betrauten Organisationen oder Personen des öffentlichen oder des privaten Rechts (inländische Behörden) Daten sowie Feststellungen, die das Zollpersonal bei der Ausübung seines Dienstes gemacht hat, bekannt geben, sofern dies für den Vollzug der von diesen Behörden anzuwendenden Erlasse notwendig ist.
 
 <sup>2</sup>
 
@@ -1865,26 +1871,27 @@ Es dürfen namentlich folgende Daten und Datenverbindungen, einschliesslich beso
 
 - a. Angaben über die Identität von Personen;
 - b. Angaben über Abgabepflichten;
-- c. Angaben über hängige und abgeschlossene Verwaltungs-, Verwaltungsstraf- und Strafverfahren sowie über verwaltungs-, verwaltungsstraf- und strafrechtliche Sanktionen aus ihrem Zuständigkeitsbereich;
+- c.[^112-1] Angaben über hängige und abgeschlossene Verwaltungs-, Verwaltungsstraf- und Strafverfahren sowie über verwaltungs-, verwaltungsstraf- und strafrechtliche Sanktionen aus dem Zuständigkeitsbereich des BAZG;
 - d. Angaben über das Verbringen sowie die Ein- und Ausfuhr von Waren;
 - e. Angaben über begangene oder möglicherweise bevorstehende strafbare Handlungen, einschliesslich Widerhandlungen gegen nichtzollrechtliche Erlasse des Bundes;
 - f. Angaben über Grenzübertritte;
 - g. Angaben über die finanzielle und wirtschaftliche Situation von Personen.
-- [tab] <sup>3</sup> Die Daten nach Absatz 2 Buchstabe g dürfen Dritten bekannt gegeben werden, falls diese im Auftrag der EZV die Bonität von Schuldnerinnen und Schuldnern überprüfen sollen. Die Dritten haben der EZV zuzusichern, dass sie die Daten ausschliesslich im Sinne ihres Auftrags verwenden.
-- [tab] <sup>4</sup> Die EZV darf die folgenden Daten den nachfolgend genannten Behörden im Abrufverfahren zugänglich machen, sofern die Daten für den Vollzug der von diesen Behörden anzuwendenden Erlasse notwendig sind:
+- [tab] <sup>3</sup> Die Daten nach Absatz 2 Buchstabe g dürfen Dritten bekannt gegeben werden, falls diese im Auftrag des BAZG die Bonität von Schuldnerinnen und Schuldnern überprüfen sollen. Die Dritten haben dem BAZG zuzusichern, dass sie die Daten ausschliesslich im Sinne ihres Auftrags verwenden.
+- [tab] <sup>4</sup> Das BAZG darf die folgenden Daten den nachfolgend genannten Behörden im Abrufverfahren zugänglich machen, sofern die Daten für den Vollzug der von diesen Behörden anzuwendenden Erlasse notwendig sind:
 - a. Daten von Zollanmeldungen: den inländischen Behörden;
-- b. Daten aus Informationssystemen der EZV: den Dienststellen der EZV;
+- b. Daten aus Informationssystemen des BAZG: den Dienststellen des BAZG;
 - c. Daten aus Informationssystemen des Grenzwachtkorps: den zuständigen Polizeibehörden.
 - [tab] <sup>5</sup> Der Bundesrat regelt die Einzelheiten, namentlich Zweck und Inhalt der Datenbekanntgabe.
-- [tab] <sup>6</sup> Die bekannt gegebenen Daten sind ausschliesslich zweckkonform zu verwenden. Sie dürfen ohne Zustimmung der EZV nicht an Dritte weitergeleitet werden. Artikel 6 Absatz 1 des Bundesgesetzes vom 19. Juni 1992[^112-1] über den Datenschutz bleibt vorbehalten.
+- [tab] <sup>6</sup> Die bekannt gegebenen Daten sind ausschliesslich zweckkonform zu verwenden. Sie dürfen ohne Zustimmung des BAZG nicht an Dritte weitergeleitet werden. Artikel 6 Absatz 1 des Bundesgesetzes vom 19. Juni 1992[^112-2] über den Datenschutz bleibt vorbehalten.
 
-[^112-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^112-1]: Fassung gemäss Ziff. I 16 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^112-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 113
 
 **Datenbekanntgabe an ausländische Behörden**
 
-Die EZV darf Behörden anderer Staaten sowie supranationaler und internationaler Organisationen (ausländische Behörden) Daten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, im Einzelfall oder im Abrufverfahren nur bekannt geben, sofern ein völkerrechtlicher Vertrag dies vorsieht.
+Das BAZG darf Behörden anderer Staaten sowie supranationaler und internationaler Organisationen (ausländische Behörden) Daten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, im Einzelfall oder im Abrufverfahren nur bekannt geben, sofern ein völkerrechtlicher Vertrag dies vorsieht.
 
 ### 2. Kapitel: Amtshilfe unter inländischen Behörden****
 
@@ -1894,11 +1901,11 @@ Die EZV darf Behörden anderer Staaten sowie supranationaler und internationaler
 
 #### Art. 114
 
-**…[^114-1]**
+**...[^114-1]**
 
-<sup>1</sup> Die EZV und andere inländische Behörden leisten einander bei der Erfüllung ihrer Aufgaben Amtshilfe und unterstützen sich gegenseitig.
+<sup>1</sup> Das BAZG und andere inländische Behörden leisten einander bei der Erfüllung ihrer Aufgaben Amtshilfe und unterstützen sich gegenseitig.
 
-<sup>2</sup> Die inländischen Behörden geben der EZV Daten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bekannt, sofern dies für den Vollzug der von der EZV anzuwendenden Erlasse notwendig ist.
+<sup>2</sup> Die inländischen Behörden geben dem BAZG Daten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, bekannt, sofern dies für den Vollzug der vom BAZG anzuwendenden Erlasse notwendig ist.
 
 [^114-1]: Aufgehoben durch Anhang Ziff. 2 des Steueramtshilfegesetzes vom 28. Sept. 2012, mit Wirkung seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1912,9 +1919,9 @@ Die EZV darf Behörden anderer Staaten sowie supranationaler und internationaler
 
 **Gegenstand und Geltungsbereich**[^115-1]
 
-<sup>1</sup> Die EZV kann im Rahmen ihrer Zuständigkeit ausländischen Behörden auf deren Ersuchen Amtshilfe bei der Erfüllung ihrer Aufgaben, namentlich bei der Sicherstellung der ordnungsgemässen Anwendung des Zollrechts und bei der Verhütung, Aufdeckung und Verfolgung von Widerhandlungen gegen das Zollrecht, leisten, sofern ein völkerrechtlicher Vertrag dies vorsieht.
+<sup>1</sup> Das BAZG kann im Rahmen seiner Zuständigkeit ausländischen Behörden auf deren Ersuchen Amtshilfe bei der Erfüllung ihrer Aufgaben, namentlich bei der Sicherstellung der ordnungsgemässen Anwendung des Zollrechts und bei der Verhütung, Aufdeckung und Verfolgung von Widerhandlungen gegen das Zollrecht, leisten, sofern ein völkerrechtlicher Vertrag dies vorsieht.
 
-<sup>2</sup> Wenn ein völkerrechtlicher Vertrag dies vorsieht, kann sie die Amtshilfe auch von Amtes wegen leisten.
+<sup>2</sup> Wenn ein völkerrechtlicher Vertrag dies vorsieht, kann es die Amtshilfe auch von Amtes wegen leisten.
 
 [^115-1]: Fassung gemäss Anhang Ziff. 2 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1922,11 +1929,11 @@ Die EZV darf Behörden anderer Staaten sowie supranationaler und internationaler
 
 **Zuständigkeit**[^115a-1]
 
-<sup>1</sup> Die EZV vollzieht die Amtshilfe aufgrund ausländischer Ersuchen und stellt die schweizerischen Ersuchen.
+<sup>1</sup> Das BAZG vollzieht die Amtshilfe aufgrund ausländischer Ersuchen und stellt die schweizerischen Ersuchen.
 
-<sup>2</sup> Betrifft das ausländische Ersuchen einen Bereich, der durch einen nichtzollrechtlichen Erlass geregelt ist, so übermittelt die EZV das Ersuchen an die zuständige Behörde.
+<sup>2</sup> Betrifft das ausländische Ersuchen einen Bereich, der durch einen nichtzollrechtlichen Erlass geregelt ist, so übermittelt das BAZG das Ersuchen an die zuständige Behörde.
 
-<sup>3</sup> Ist die zuständige Behörde nicht in der Lage, die ersuchten Massnahmen durchzuführen, so vollzieht die EZV die Amtshilfe mit Unterstützung der zuständigen Behörde.
+<sup>3</sup> Ist die zuständige Behörde nicht in der Lage, die ersuchten Massnahmen durchzuführen, so vollzieht das BAZG die Amtshilfe mit Unterstützung der zuständigen Behörde.
 
 [^115a-1]: Eingefügt durch Anhang Ziff. 2 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1952,11 +1959,11 @@ Zum Zweck der Herausgabe von Informationen, Unterlagen, Gegenständen oder Verm�
 
 **Mitwirkungspflicht**[^115d-1]
 
-<sup>1</sup> Im Rahmen von Artikel 115*c* kann die EZV die vom Ersuchen betroffene Person zur Mitwirkung verpflichten und von ihr insbesondere Informationen, Daten und Unterlagen verlangen.
+<sup>1</sup> Im Rahmen von Artikel 115*c* kann das BAZG die vom Ersuchen betroffene Person zur Mitwirkung verpflichten und von ihr insbesondere Informationen, Daten und Unterlagen verlangen.
 
 <sup>2</sup> Die betroffene Person kann die Mitwirkung oder die Zeugenaussage verweigern, wenn sie einem gesetzlich geschützten Berufsgeheimnis untersteht oder wenn ihr ein Zeugnisverweigerungsrecht zusteht.
 
-<sup>3</sup> Verweigert sie die Mitwirkung oder die Zeugenaussage, so erlässt die EZV eine Verfügung über die Pflicht zur Mitwirkung und zur Herausgabe von Informationen, Daten und Unterlagen.
+<sup>3</sup> Verweigert sie die Mitwirkung oder die Zeugenaussage, so erlässt das BAZG eine Verfügung über die Pflicht zur Mitwirkung und zur Herausgabe von Informationen, Daten und Unterlagen.
 
 [^115d-1]: Eingefügt durch Anhang Ziff. 2 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -2024,7 +2031,7 @@ Die vom Ersuchen betroffene Person kann sich am Verfahren beteiligen und Einsich
 
 <sup>1bis</sup> Gegen erstinstanzliche Verfügungen der Zollkreisdirektionen kann bei der Oberzolldirektion Beschwerde geführt werden.
 
-<sup>2</sup> Die EZV wird im Verfahren vor dem Bundesverwaltungsgericht und dem Bundesgericht durch die Oberzolldirektion vertreten.
+<sup>2</sup> Das BAZG wird im Verfahren vor dem Bundesverwaltungsgericht und dem Bundesgericht durch die Oberzolldirektion vertreten.
 
 <sup>3</sup> Die Frist für die erste Beschwerde gegen die Veranlagung beträgt 60 Tage ab dem Ausstellen der Veranlagungsverfügung.
 
@@ -2108,8 +2115,8 @@ Nach der Strafandrohung für die Vortat wird bestraft, wer zollpflichtige oder v
 
 Mit Busse bis zum Fünffachen des Warenwerts wird bestraft, wer:
 
-- a. eine von der EZV als Zollpfand beschlagnahmte Ware beziehungsweise Sache, die in seinem Besitz belassen worden ist, vernichtet; oder
-- b. ohne Zustimmung der EZV darüber verfügt.
+- a. eine vom BAZG als Zollpfand beschlagnahmte Ware beziehungsweise Sache, die in seinem Besitz belassen worden ist, vernichtet; oder
+- b. ohne Zustimmung des BAZG darüber verfügt.
 
 <sup>2</sup> Der Warenwert entspricht dem im Zeitpunkt der Entdeckung der Zollpfandunterschlagung geltenden Marktpreis im Inland. Ist dieser nicht bekannt, so wird der Warenwert durch Sachverständige bestimmt.
 
@@ -2142,7 +2149,7 @@ Fällt eine Busse von höchstens 100 000 Franken in Betracht und würde die Ermi
 
 <sup>1</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Zollhinterziehung oder ‑gefährdung und eines Bannbruchs, so wird die für die schwerere Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
 
-<sup>2</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Zollwiderhandlung und anderer von der EZV zu verfolgender Widerhandlungen, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+<sup>2</sup> Erfüllt eine Handlung gleichzeitig den Tatbestand einer Zollwiderhandlung und anderer vom BAZG zu verfolgender Widerhandlungen, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
 
 [^126-1]: Fassung gemäss Art. 44 des Biersteuergesetzes vom 6. Okt. 2006, in Kraft seit 1. Juli 2007 ([AS 2007 2895](https://fedlex.data.admin.ch/eli/oc/2007/385); [BBl 2005 5649](https://fedlex.data.admin.ch/eli/fga/2005/890)).
 
@@ -2157,7 +2164,7 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird mit Busse
 - a. gegen eine Vorschrift der Zollgesetzgebung, eines völkerrechtlichen Vertrags oder gegen eine ihrer Ausführungsbestimmungen, soweit ein Erlass die Übertretung dieser Vorschriften für strafbar erklärt; oder
 - b. gegen eine unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichtete Verfügung.
 
-<sup>2</sup> Widerhandlungen gegen mündliche Anordnungen des Personals der EZV oder gegen Anordnungen, die durch Signale oder Tafeln getroffen werden, werden mit Busse bis zu 2000 Franken bestraft. Für die Anordnung ist kein Hinweis auf die Strafdrohung dieses Artikels erforderlich.
+<sup>2</sup> Widerhandlungen gegen mündliche Anordnungen des Personals des BAZG oder gegen Anordnungen, die durch Signale oder Tafeln getroffen werden, werden mit Busse bis zu 2000 Franken bestraft. Für die Anordnung ist kein Hinweis auf die Strafdrohung dieses Artikels erforderlich.
 
 <sup>3</sup> Vorbehalten bleibt die Überweisung an ein Strafgericht nach Artikel 285 oder 286 des Strafgesetzbuchs[^127-1].
 
@@ -2169,7 +2176,7 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird mit Busse
 
 <sup>1</sup> Widerhandlungen werden nach diesem Gesetz und dem VStrR[^128-1] verfolgt und beurteilt.
 
-<sup>2</sup> Verfolgende und urteilende Behörde ist die EZV.
+<sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.
 
 [^128-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -2179,14 +2186,14 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird mit Busse
 
 <sup>1</sup>
 
-Die EZV kann im Rahmen ihrer Strafverfolgungskompetenz anordnen, dass Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachtet werden und dabei Bild- oder Tonaufzeichnungen gemacht werden können, wenn:
+Das BAZG kann im Rahmen seiner Strafverfolgungskompetenz anordnen, dass Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachtet werden und dabei Bild- oder Tonaufzeichnungen gemacht werden können, wenn:
 
 - a. aufgrund konkreter Anhaltspunkte anzunehmen ist, dass Verbrechen oder Vergehen begangen worden sind; und
 - b. die Untersuchung sonst aussichtslos wäre oder unverhältnismässig erschwert würde.
 
 <sup>2</sup> Hat eine nach Absatz 1 angeordnete Massnahme 30 Tage gedauert, so bedarf ihre Fortsetzung der Genehmigung durch die Oberzolldirektion.
 
-<sup>3</sup> Die EZV teilt den von einer Observation direkt betroffenen Personen spätestens mit Abschluss der Untersuchung Grund, Art und Dauer der Observation mit.
+<sup>3</sup> Das BAZG teilt den von einer Observation direkt betroffenen Personen spätestens mit Abschluss der Untersuchung Grund, Art und Dauer der Observation mit.
 
 <sup>4</sup>
 
@@ -2239,7 +2246,7 @@ Der Bundesrat vollzieht dieses Gesetz.
 
 <sup>6</sup> Beschwerden gegen Beschwerdeentscheide der Zollkreisdirektionen, die bei Inkrafttreten dieses Gesetzes bei der Oberzolldirektion hängig sind, werden von dieser entschieden.
 
-<sup>7</sup> …[^132-2]
+<sup>7</sup> ...[^132-2]
 
 [^132-1]: [BS **6** 465; [AS 1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 2]
 [^132-2]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -2272,6 +2279,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)konsultiert werden.

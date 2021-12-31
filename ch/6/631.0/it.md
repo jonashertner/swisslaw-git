@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2005 sulle dogane (LD)
 short: LD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/249"
 language: it
-version: 2018-09-15
+version: 2022-01-01
 adopted: 2005-03-18
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20180915/it/xml/fedlex-data-admin-ch-eli-cc-2007-249-20180915-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20180915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/249/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-249-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/249/20180915/it"
 
 (LD)
 
-del 18 marzo 2005 (Stato 15 settembre 2018)
+del 18 marzo 2005 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -40,11 +40,11 @@ La presente legge disciplina:
 
 - a. la sorveglianza e il controllo del traffico delle persone e delle merci attraverso il confine doganale;
 - b. la riscossione dei tributi doganali;
-- c.[^1-1] la riscossione dei tributi esigibili in virtù di leggi federali di natura non doganale, sempre che spetti all’Amministrazione federale delle dogane (AFD);
-- d. l’esecuzione di disposti federali di natura non doganale e l’adempimento di altri compiti, sempre che spettino all’AFD[^1-2].
+- c.[^1-1] la riscossione dei tributi esigibili in virtù di leggi federali di natura non doganale, sempre che spetti all’Ufficio federale della dogana e della sicurezza dei confini (UDSC);
+- d. l’esecuzione di disposti federali di natura non doganale e l’adempimento di altri compiti, sempre che spettino all’UDSC[^1-2].
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
-[^1-2]: Nuova espr. giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-1]: Nuovo testo giusta il n. I 16 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^1-2]: Nuova espr. giusta il n. I 16 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -62,7 +62,7 @@ La presente legge disciplina:
 
 <sup>2</sup> Le enclavi doganali estere sono i territori esteri inclusi nel territorio doganale per effetto di accordi internazionali o del diritto consuetudinario internazionale.
 
-<sup>3</sup> Le enclavi doganali svizzere sono territori doganali svizzeri che il Consiglio federale o, nel caso di singoli immobili in particolare situazione geografica, l’AFD esclude dal territorio doganale. L’AFD può controllare le enclavi doganali e applicare al loro interno i disposti federali di natura non doganale.
+<sup>3</sup> Le enclavi doganali svizzere sono territori doganali svizzeri che il Consiglio federale o, nel caso di singoli immobili in particolare situazione geografica, l’UDSC esclude dal territorio doganale. L’UDSC può controllare le enclavi doganali e applicare al loro interno i disposti federali di natura non doganale.
 
 <sup>4</sup> Il confine doganale è il confine del territorio doganale.
 
@@ -76,17 +76,17 @@ La presente legge disciplina:
 
 <sup>1</sup> I proprietari di fondi situati in prossimità del confine doganale devono provvedere affinché le infrastrutture o le piantagioni sui loro fondi non intralcino la sorveglianza del confine.
 
-<sup>2</sup> Chiunque edifica o modifica costruzioni e impianti nelle immediate vicinanze del confine doganale o della riva di acque confinarie necessita di un’autorizzazione dell’AFD.
+<sup>2</sup> Chiunque edifica o modifica costruzioni e impianti nelle immediate vicinanze del confine doganale o della riva di acque confinarie necessita di un’autorizzazione dell’UDSC.
 
 #### Art. 5
 
 **Uffici doganali e impianti**
 
-<sup>1</sup> Per adempiere i suoi compiti, l’AFD allestisce uffici e impianti doganali; i costi sono a carico della Confederazione.
+<sup>1</sup> Per adempiere i suoi compiti, l’UDSC allestisce uffici e impianti doganali; i costi sono a carico della Confederazione.
 
-<sup>2</sup> Se l’AFD adempie i suoi compiti in impianti e locali di terzi su loro richiesta, questi devono mettere a disposizione gratuitamente tali impianti e locali e assumere i costi d’esercizio a carico dell’AFD.
+<sup>2</sup> Se l’UDSC adempie i suoi compiti in impianti e locali di terzi su loro richiesta, questi devono mettere a disposizione gratuitamente tali impianti e locali e assumere i costi d’esercizio a carico dell’UDSC.
 
-<sup>3</sup> Se gli impianti e i locali di terzi sono utilizzati anche per adempiere compiti doganali a favore di altre persone, l’AFD partecipa adeguatamente ai costi degli impianti e d’esercizio.
+<sup>3</sup> Se gli impianti e i locali di terzi sono utilizzati anche per adempiere compiti doganali a favore di altre persone, l’UDSC partecipa adeguatamente ai costi degli impianti e d’esercizio.
 
 #### Art. 6
 
@@ -197,11 +197,11 @@ Il Consiglio federale può dichiarare esenti da dazio:
 
 **Traffico di perfezionamento attivo**
 
-<sup>1</sup> L’AFD accorda la riduzione dei tributi doganali o la franchigia doganale per le merci portate temporaneamente nel territorio doganale per essere lavorate, trasformate o riparate, sempre che nessun interesse preponderante vi si opponga.
+<sup>1</sup> L’UDSC accorda la riduzione dei tributi doganali o la franchigia doganale per le merci portate temporaneamente nel territorio doganale per essere lavorate, trasformate o riparate, sempre che nessun interesse preponderante vi si opponga.
 
-<sup>2</sup> Alle stesse condizioni l’AFD accorda la riduzione dei tributi doganali o la franchigia doganale per merci importate nel territorio doganale se merci svizzere, nella stessa quantità e della medesima qualità e natura, vengono esportate come prodotti lavorati o trasformati.
+<sup>2</sup> Alle stesse condizioni l’UDSC accorda la riduzione dei tributi doganali o la franchigia doganale per merci importate nel territorio doganale se merci svizzere, nella stessa quantità e della medesima qualità e natura, vengono esportate come prodotti lavorati o trasformati.
 
-<sup>3</sup> Per i prodotti agricoli, compresi quelli di base, l’AFD accorda la riduzione o la franchigia se non sono disponibili prodotti svizzeri dello stesso genere in quantità sufficiente o se gli inconvenienti dovuti al prezzo delle materie prime necessarie per tali prodotti non possono essere compensati con altri provvedimenti.
+<sup>3</sup> Per i prodotti agricoli, compresi quelli di base, l’UDSC accorda la riduzione o la franchigia se non sono disponibili prodotti svizzeri dello stesso genere in quantità sufficiente o se gli inconvenienti dovuti al prezzo delle materie prime necessarie per tali prodotti non possono essere compensati con altri provvedimenti.
 
 <sup>4</sup> Il Consiglio federale disciplina in quale misura la restituzione, la riduzione o la franchigia doganale sono accordate per le merci che non vengono riesportate bensì, a richiesta, sono distrutte nel territorio doganale.
 
@@ -209,9 +209,9 @@ Il Consiglio federale può dichiarare esenti da dazio:
 
 **Traffico di perfezionamento passivo**
 
-<sup>1</sup> L’AFD concede la riduzione dei tributi doganali o la franchigia doganale per le merci reimportate che sono state esportate temporaneamente per essere lavorate, trasformate o riparate, sempre che nessun interesse pubblico preponderante vi si opponga.
+<sup>1</sup> L’UDSC concede la riduzione dei tributi doganali o la franchigia doganale per le merci reimportate che sono state esportate temporaneamente per essere lavorate, trasformate o riparate, sempre che nessun interesse pubblico preponderante vi si opponga.
 
-<sup>2</sup> Alle stesse condizioni l’AFD accorda la riduzione dei tributi doganali o la franchigia doganale se le merci esportate sono state sostituite all’estero con merci della stessa quantità, natura e qualità.
+<sup>2</sup> Alle stesse condizioni l’UDSC accorda la riduzione dei tributi doganali o la franchigia doganale se le merci esportate sono state sostituite all’estero con merci della stessa quantità, natura e qualità.
 
 <sup>3</sup> Il Consiglio federale può prevedere un’altra base di calcolo per i tributi doganali se il calcolo del dazio secondo l’eccedenza di peso non riesce a misurare il valore aggiunto del perfezionamento.
 
@@ -264,7 +264,7 @@ Per determinati impieghi delle merci sono applicate aliquote di dazio più basse
 
 <sup>1bis</sup> Nei negozi in zona franca di tasse i viaggiatori in partenza per l’estero o in provenienza dall’estero possono acquistare merci in franchigia di dazio. Il Consiglio federale designa le merci.[^17-2]
 
-<sup>2</sup> L’AFD può autorizzare le compagnie di navigazione aerea e altre imprese a costituire negli aerodromi doganali o nelle loro vicinanze scorte di merci non sdoganate per l’approvvigionamento dei loro ristoranti di bordo nonché per la preparazione di cibi e bevande da imbarcare sugli aerei in partenza per l’estero.[^17-3]
+<sup>2</sup> L’UDSC può autorizzare le compagnie di navigazione aerea e altre imprese a costituire negli aerodromi doganali o nelle loro vicinanze scorte di merci non sdoganate per l’approvvigionamento dei loro ristoranti di bordo nonché per la preparazione di cibi e bevande da imbarcare sugli aerei in partenza per l’estero.[^17-3]
 
 <sup>3</sup> L’autorizzazione è rilasciata soltanto se sono garantite le necessarie misure di controllo e di sicurezza.
 
@@ -308,15 +308,15 @@ La merce può essere tassata all’aliquota più elevata applicabile al suo gene
 
 **Informazioni in materia di tariffa e di origine**
 
-<sup>1</sup> Su richiesta scritta, l’AFD rilascia informazioni scritte sulla classificazione tariffale e l’origine preferenziale delle merci.
+<sup>1</sup> Su richiesta scritta, l’UDSC rilascia informazioni scritte sulla classificazione tariffale e l’origine preferenziale delle merci.
 
-<sup>2</sup> Essa limita la validità delle sue informazioni a sei anni per quanto concerne la classificazione tariffale e a tre anni per quanto riguarda l’origine. L’avente diritto deve provare nella dichiarazione doganale che la merce dichiarata corrisponde esattamente a quella descritta nell’informazione.
+<sup>2</sup> Esso limita la validità delle sue informazioni a sei anni per quanto concerne la classificazione tariffale e a tre anni per quanto riguarda l’origine. L’avente diritto deve provare nella dichiarazione doganale che la merce dichiarata corrisponde esattamente a quella descritta nell’informazione.
 
 <sup>3</sup> L’informazione non è vincolante se è stata rilasciata in base a indicazioni inesatte o incomplete del richiedente.
 
 <sup>4</sup> Essa perde il suo carattere vincolante se sono modificate le relative disposizioni.
 
-<sup>5</sup> L’AFD può revocare l’informazione per un motivo grave.
+<sup>5</sup> L’UDSC può revocare l’informazione per un motivo grave.
 
 ## Titolo secondo: Procedura d’imposizione doganale
 
@@ -338,7 +338,7 @@ La merce può essere tassata all’aliquota più elevata applicabile al suo gene
 
 **Strade doganali, punti d’approdo doganali e aerodromi doganali**
 
-<sup>1</sup> Il traffico delle merci attraverso il confine doganale per terra, acqua e aria deve svolgersi su determinate strade (strade doganali), porti e punti d’approdo (punti d’approdo doganali) e aerodromi (aerodromi doganali) designati dall’AFD.
+<sup>1</sup> Il traffico delle merci attraverso il confine doganale per terra, acqua e aria deve svolgersi su determinate strade (strade doganali), porti e punti d’approdo (punti d’approdo doganali) e aerodromi (aerodromi doganali) designati dall’UDSC.
 
 <sup>2</sup>
 
@@ -347,9 +347,9 @@ Sono inoltre reputate strade doganali, sempre che attraversino il confine dogana
 - a. le linee ferroviarie adibite al servizio pubblico;
 - b. le linee elettriche;
 - c. gli impianti in condotta; o
-- d. altre vie di trasporto o comunicazione designate come strade doganali dall’AFD.
+- d. altre vie di trasporto o comunicazione designate come strade doganali dall’UDSC.
 
-<sup>3</sup> L’AFD, tenendo conto di situazioni particolari, può autorizzare il traffico delle merci anche in altri luoghi. Essa ne stabilisce le condizioni e gli oneri.
+<sup>3</sup> L’UDSC, tenendo conto di situazioni particolari, può autorizzare il traffico delle merci anche in altri luoghi. Esso ne stabilisce le condizioni e gli oneri.
 
 #### Art. 23
 
@@ -357,7 +357,7 @@ Sono inoltre reputate strade doganali, sempre che attraversino il confine dogana
 
 <sup>1</sup> Le merci introdotte nel territorio doganale soggiacciono alla vigilanza e al controllo doganali dal momento dell’introduzione sino all’atto della riesportazione o immissione in libera pratica.
 
-<sup>2</sup> La vigilanza doganale comprende ogni provvedimento generale adottato dall’AFD per garantire l’osservanza della normativa doganale e dei disposti federali di natura non doganale.
+<sup>2</sup> La vigilanza doganale comprende ogni provvedimento generale adottato dall’UDSC per garantire l’osservanza della normativa doganale e dei disposti federali di natura non doganale.
 
 <sup>3</sup> Il controllo doganale comprende l’espletamento degli atti specifici previsti dalla presente legge al fine di garantire l’osservanza della normativa doganale e dei disposti federali di natura non doganale.
 
@@ -367,21 +367,21 @@ Sono inoltre reputate strade doganali, sempre che attraversino il confine dogana
 
 <sup>1</sup> La persona soggetta all’obbligo di presentazione, o il suo mandatario, deve presentare la merce in dogana e dichiararla sommariamente.
 
-<sup>2</sup> La presentazione consiste nel comunicare all’AFD che le merci si trovano presso l’ufficio doganale o in un altro luogo autorizzato dall’AFD.
+<sup>2</sup> La presentazione consiste nel comunicare all’UDSC che le merci si trovano presso l’ufficio doganale o in un altro luogo autorizzato dall’UDSC.
 
-<sup>3</sup> Le merci presentate sono poste sotto la custodia dell’AFD.
+<sup>3</sup> Le merci presentate sono poste sotto la custodia dell’UDSC.
 
-<sup>4</sup> L’AFD può prescrivere la forma della presentazione e della dichiarazione sommaria.
+<sup>4</sup> L’UDSC può prescrivere la forma della presentazione e della dichiarazione sommaria.
 
 #### Art. 25
 
 **Dichiarazione**
 
-<sup>1</sup> Entro il termine fissato dall’AFD, la persona soggetta all’obbligo di dichiarazione deve dichiarare per l’imposizione le merci presentate in dogana e dichiarate sommariamente e presentare i documenti di scorta.
+<sup>1</sup> Entro il termine fissato dall’UDSC, la persona soggetta all’obbligo di dichiarazione deve dichiarare per l’imposizione le merci presentate in dogana e dichiarate sommariamente e presentare i documenti di scorta.
 
 <sup>2</sup> Nella dichiarazione doganale occorre precisare la destinazione doganale delle merci.
 
-<sup>3</sup> Nell’interesse della vigilanza doganale, l’AFD può prevedere che le merci siano dichiarate all’ufficio doganale prima di essere introdotte nel territorio doganale o asportate da esso.
+<sup>3</sup> Nell’interesse della vigilanza doganale, l’UDSC può prevedere che le merci siano dichiarate all’ufficio doganale prima di essere introdotte nel territorio doganale o asportate da esso.
 
 <sup>4</sup> Prima di consegnare la dichiarazione doganale la persona soggetta all’obbligo di dichiarazione può esaminare o far esaminare a proprie spese e a proprio rischio le merci dichiarate sommariamente.
 
@@ -393,7 +393,7 @@ Sono soggette all’obbligo di dichiarazione:
 
 - a. le persone soggette all’obbligo di presentare la merce in dogana;
 - b. le persone incaricate di allestire la dichiarazione doganale;
-- c.[^26-1] …
+- c.[^26-1] ...
 - d. le persone che modificano l’impiego previsto di una merce.
 
 [^26-1]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -421,9 +421,9 @@ La dichiarazione doganale è presentata:
 - a. elettronicamente;
 - b. per scritto;
 - c. verbalmente; oppure
-- d. in un’altra forma di manifestazione della volontà ammessa dall’AFD.
+- d. in un’altra forma di manifestazione della volontà ammessa dall’UDSC.
 
-<sup>2</sup> L’AFD può prescrivere la forma della dichiarazione; può segnatamente ordinare che si ricorra all’elaborazione elettronica dei dati, previo esame del sistema informatico utilizzato.
+<sup>2</sup> L’UDSC può prescrivere la forma della dichiarazione; può segnatamente ordinare che si ricorra all’elaborazione elettronica dei dati, previo esame del sistema informatico utilizzato.
 
 #### Art. 29
 
@@ -431,13 +431,13 @@ La dichiarazione doganale è presentata:
 
 <sup>1</sup>
 
-L’AFD stabilisce per i singoli uffici doganali:
+L’UDSC stabilisce per i singoli uffici doganali:
 
 - a. quali sono le loro competenze;
 - b. gli orari in cui vengono espletate le operazioni d’imposizione;
 - c. il luogo in cui si svolge l’imposizione (area ufficiale).
 
-<sup>2</sup> Essa tiene conto delle necessità nazionali e regionali e rende note le sue disposizioni in modo appropriato.
+<sup>2</sup> Esso tiene conto delle necessità nazionali e regionali e rende note le sue disposizioni in modo appropriato.
 
 <sup>3</sup> Gli uffici doganali possono effettuare le operazioni d’imposizione anche fuori dell’area ufficiale, segnatamente al domicilio dello speditore o del destinatario.
 
@@ -445,7 +445,7 @@ L’AFD stabilisce per i singoli uffici doganali:
 
 **Controlli sul territorio doganale**
 
-<sup>1</sup> L’AFD può svolgere sul territorio doganale controlli concernenti l’adempimento dell’obbligo doganale.
+<sup>1</sup> L’UDSC può svolgere sul territorio doganale controlli concernenti l’adempimento dell’obbligo doganale.
 
 <sup>2</sup> Le persone che erano soggette all’obbligo di dichiarazione all’atto dell’importazione delle merci devono, a richiesta, fornire la prova che le merci importate sono state sottoposte alla procedura d’imposizione.
 
@@ -455,9 +455,9 @@ L’AFD stabilisce per i singoli uffici doganali:
 
 **Controlli domiciliari**
 
-<sup>1</sup> L’AFD può eseguire senza preavviso controlli domiciliari presso persone che sono o erano soggette all’obbligo di dichiarazione o debitrici in una procedura d’imposizione oppure che hanno l’obbligo di tenere una contabilità in virtù della presente legge.
+<sup>1</sup> L’UDSC può eseguire senza preavviso controlli domiciliari presso persone che sono o erano soggette all’obbligo di dichiarazione o debitrici in una procedura d’imposizione oppure che hanno l’obbligo di tenere una contabilità in virtù della presente legge.
 
-<sup>2</sup> Essa può procedere al controllo fisico del genere, della quantità e della natura delle merci, chiedere tutte le informazioni necessarie e esaminare dati, documenti e informazioni che possono essere importanti per l’esecuzione della presente legge.
+<sup>2</sup> Esso può procedere al controllo fisico del genere, della quantità e della natura delle merci, chiedere tutte le informazioni necessarie e esaminare dati, documenti e informazioni che possono essere importanti per l’esecuzione della presente legge.
 
 <sup>3</sup> Il diritto[^31-1] di controllo si estingue cinque anni dopo l’importazione della merce. È fatta salva l’apertura di un’inchiesta penale.
 
@@ -483,7 +483,7 @@ L’AFD stabilisce per i singoli uffici doganali:
 
 <sup>1</sup> La dichiarazione doganale accettata dall’ufficio doganale è vincolante per la persona soggetta all’obbligo di dichiarazione.
 
-<sup>2</sup> L’AFD stabilisce la forma e il momento dell’accettazione.
+<sup>2</sup> L’UDSC stabilisce la forma e il momento dell’accettazione.
 
 #### Art. 34
 
@@ -496,9 +496,9 @@ La persona soggetta all’obbligo di dichiarazione può rettificare o ritirare l
 - a. non ha constatato l’inesattezza delle indicazioni contenute nella dichiarazione doganale o nei documenti di scorta; oppure
 - b. non ha ordinato la visita della merce.
 
-<sup>2</sup> Per la merce che non è più sotto la custodia dell’AFD, il Consiglio federale può prevedere un breve termine per rettificare la dichiarazione doganale accettata.
+<sup>2</sup> Per la merce che non è più sotto la custodia dell’UDSC, il Consiglio federale può prevedere un breve termine per rettificare la dichiarazione doganale accettata.
 
-<sup>3</sup> Entro 30 giorni dal momento in cui la merce non è più sotto la custodia dell’AFD, la persona soggetta all’obbligo di dichiarazione può presentare all’ufficio doganale una domanda di modifica dell’imposizione; essa deve presentare in pari tempo una dichiarazione doganale rettificata.
+<sup>3</sup> Entro 30 giorni dal momento in cui la merce non è più sotto la custodia dell’UDSC, la persona soggetta all’obbligo di dichiarazione può presentare all’ufficio doganale una domanda di modifica dell’imposizione; essa deve presentare in pari tempo una dichiarazione doganale rettificata.
 
 <sup>4</sup>
 
@@ -559,11 +559,11 @@ L’ufficio doganale stabilisce i tributi doganali, allestisce la decisione d’
 
 **Liberazione e sgombero di merci**
 
-<sup>1</sup> L’ufficio doganale libera le merci tassate in base alla decisione d’imposizione o a un altro documento stabilito dall’AFD.
+<sup>1</sup> L’ufficio doganale libera le merci tassate in base alla decisione d’imposizione o a un altro documento stabilito dall’UDSC.
 
 <sup>2</sup> Le merci possono essere sgomberate soltanto se sono stata liberate dall’ufficio doganale.
 
-<sup>3</sup> L’AFD fissa il termine per lo sgombero.
+<sup>3</sup> L’UDSC fissa il termine per lo sgombero.
 
 #### Art. 41
 
@@ -586,9 +586,9 @@ Il Consiglio federale può prevedere semplificazioni nella procedura d’imposiz
 - a. liberare dall’obbligo di presentazione in dogana e della dichiarazione sommaria se non ne risulta compromesso il controllo doganale;
 - b. prevedere agevolazioni nel traffico turistico;
 - c. prevedere dichiarazioni collettive periodiche;
-- d. delegare compiti dell’AFD a persone che partecipano alla procedura d’imposizione doganale.
+- d. delegare compiti dell’UDSC a persone che partecipano alla procedura d’imposizione doganale.
 
-<sup>2</sup> Al fine di semplificare ulteriormente la procedura d’imposizione doganale o di eseguire prove pilota, l’AFD può concludere accordi con le persone che partecipano alla procedura d’imposizione doganale, sempre che in tal modo non si pregiudichino le condizioni di concorrenza.
+<sup>2</sup> Al fine di semplificare ulteriormente la procedura d’imposizione doganale o di eseguire prove pilota, l’UDSC può concludere accordi con le persone che partecipano alla procedura d’imposizione doganale, sempre che in tal modo non si pregiudichino le condizioni di concorrenza.
 
 <sup>3</sup> Le semplificazioni della procedura d’imposizione doganale sono ammesse unicamente se non compromettono la sicurezza doganale e segnatamente se non riducono l’importo dei tributi doganali.
 
@@ -598,7 +598,7 @@ Il Consiglio federale può prevedere semplificazioni nella procedura d’imposiz
 
 <sup>1</sup>
 
-Su richiesta, l’AFD concede alle persone stabilite nel territorio doganale o nelle enclavi doganali svizzere la qualifica di operatore economico autorizzato (*Authorised Economic Operator*, AEO) se tali persone adempiono le seguenti condizioni:
+Su richiesta, l’UDSC concede alle persone stabilite nel territorio doganale o nelle enclavi doganali svizzere la qualifica di operatore economico autorizzato (*Authorised Economic Operator*, AEO) se tali persone adempiono le seguenti condizioni:
 
 - a. una comprovata osservanza degli obblighi doganali;
 - b. un sistema di gestione delle scritture commerciali e, se del caso, relative ai trasporti, che consenta di effettuare adeguati controlli doganali di sicurezza;
@@ -609,7 +609,7 @@ Su richiesta, l’AFD concede alle persone stabilite nel territorio doganale o n
 
 <sup>2bis</sup> È legittimato a concludere autonomamente trattati internazionali che concernono esclusivamente il reciproco riconoscimento della qualifica di operatore economico autorizzato.[^42a-2]
 
-<sup>3</sup> L’AFD può effettuare controlli dell’azienda del richiedente e dell’operatore economico autorizzato.
+<sup>3</sup> L’UDSC può effettuare controlli dell’azienda del richiedente e dell’operatore economico autorizzato.
 
 [^42a-1]: Introdotto dall’art. 3 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero l’Acc. tra la Svizzera e la CE sulle agevolazioni doganali e sulla sicurezza doganale, in vigore dal 1° apr. 2011 ([RU 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149); [FF 2009 7783](https://fedlex.data.admin.ch/eli/fga/2009/1532)).
 [^42a-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -627,7 +627,7 @@ Il traffico nella zona di confine è l’importazione o l’esportazione all’i
 
 <sup>2</sup> La zona di confine è il territorio svizzero ed estero che, sulle due parti del confine doganale, si estende lungo il medesimo per una striscia di 10 km di profondità (zona parallela).
 
-<sup>3</sup> L’AFD può estendere la zona di confine tenendo conto di condizioni locali particolari.
+<sup>3</sup> L’UDSC può estendere la zona di confine tenendo conto di condizioni locali particolari.
 
 <sup>4</sup> Il Consiglio federale disciplina la procedura d’imposizione doganale per il traffico nella zona di confine.
 
@@ -637,7 +637,7 @@ Il traffico nella zona di confine è l’importazione o l’esportazione all’i
 
 <sup>1</sup> Il Consiglio federale disciplina la procedura d’imposizione doganale applicabile al traffico ferroviario, per via d’acqua e aereo.
 
-<sup>2</sup> Le imprese di trasporto devono trasmettere all’AFD tutti i documenti e tutte le registrazioni che possono essere importanti ai fini del controllo doganale. Su richiesta dell’AFD, la trasmissione deve avvenire in forma elettronica.
+<sup>2</sup> Le imprese di trasporto devono trasmettere all’UDSC tutti i documenti e tutte le registrazioni che possono essere importanti ai fini del controllo doganale. Su richiesta dell’UDSC, la trasmissione deve avvenire in forma elettronica.
 
 [^44-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -649,7 +649,7 @@ Il traffico nella zona di confine è l’importazione o l’esportazione all’i
 
 <sup>2</sup> L’obbligo di dichiarazione doganale incombe titolare dell’impianto in condotta.
 
-<sup>3</sup> Il titolare deve permettere all’AFD di consultare tutti i documenti e tutte le registrazioni che possono essere importanti ai fini del controllo doganale.
+<sup>3</sup> Il titolare deve permettere all’UDSC di consultare tutti i documenti e tutte le registrazioni che possono essere importanti ai fini del controllo doganale.
 
 #### Art. 46
 
@@ -721,7 +721,7 @@ Nel regime di transito:
 
 **Definizione**
 
-<sup>1</sup> Il deposito doganale è un luogo del territorio doganale autorizzato dall’AFD e posto sotto vigilanza doganale, nel quale le merci possono essere immagazzinate alle condizioni stabilite dall’AFD.
+<sup>1</sup> Il deposito doganale è un luogo del territorio doganale autorizzato dall’UDSC e posto sotto vigilanza doganale, nel quale le merci possono essere immagazzinate alle condizioni stabilite dall’UDSC.
 
 <sup>2</sup> Il deposito doganale può essere un deposito aperto o un deposito di merci di gran consumo.
 
@@ -779,20 +779,20 @@ Il depositario è responsabile di:
 - b. far rispettare gli obblighi risultanti dall’immagazzinamento delle merci; e
 - c. far adempire gli oneri connessi all’autorizzazione.
 
-<sup>6</sup> L’AFD può esigere che il depositario presti una garanzia per l’osservanza degli obblighi di cui al capoverso 5.
+<sup>6</sup> L’UDSC può esigere che il depositario presti una garanzia per l’osservanza degli obblighi di cui al capoverso 5.
 
 #### Art. 54
 
 **Autorizzazione per i depositi doganali aperti**
 
-<sup>1</sup> Per gestire un deposito doganale aperto è necessaria un’autorizzazione dell’AFD.
+<sup>1</sup> Per gestire un deposito doganale aperto è necessaria un’autorizzazione dell’UDSC.
 
 <sup>2</sup>
 
-L’AFD rilascia l’autorizzazione se:
+L’UDSC rilascia l’autorizzazione se:
 
 - a. il richiedente risiede in Svizzera e offre garanzia per una gestione regolare del deposito doganale aperto; e
-- b. la vigilanza e il controllo doganali non comportano un dispendio amministrativo sproporzionato per l’AFD.
+- b. la vigilanza e il controllo doganali non comportano un dispendio amministrativo sproporzionato per l’UDSC.
 
 <sup>3</sup>
 
@@ -805,7 +805,7 @@ L’autorizzazione può:
 
 **Depositi per merci di gran consumo**
 
-<sup>1</sup> In depositi per merci di gran consumo possono essere immagazzinate solo le merci ammesse dall’AFD.
+<sup>1</sup> In depositi per merci di gran consumo possono essere immagazzinate solo le merci ammesse dall’UDSC.
 
 <sup>2</sup> Le merci possono essere immagazzinate per due anni al massimo. Su richiesta, in casi giustificati questo termine può essere prorogato a cinque anni al massimo.
 
@@ -815,7 +815,7 @@ L’autorizzazione può:
 
 **Merci depositate; inventari e lavorazione**
 
-<sup>1</sup> Il depositario o il depositante deve tenere un inventario di tutte le merci depositate. L’AFD disciplina la forma dell’inventario.
+<sup>1</sup> Il depositario o il depositante deve tenere un inventario di tutte le merci depositate. L’UDSC disciplina la forma dell’inventario.
 
 <sup>2</sup> Il Consiglio federale disciplina le condizioni alle quali le merci depositate in un deposito doganale aperto possono essere sottoposte a lavorazione.
 
@@ -850,7 +850,7 @@ Nel regime di ammissione temporanea:
 
 <sup>1</sup> Le merci introdotte nel territorio doganale per essere sottoposte al perfezionamento attivo devono essere dichiarate come sottoposte a tale regime.
 
-<sup>2</sup> Per introdurre merci nel territorio doganale al fine di sottoporle al perfezionamento attivo è necessaria un’autorizzazione dell’AFD. L’autorizzazione può essere vincolata a oneri, in particolare limitata quantitativamente e nel tempo.
+<sup>2</sup> Per introdurre merci nel territorio doganale al fine di sottoporle al perfezionamento attivo è necessaria un’autorizzazione dell’UDSC. L’autorizzazione può essere vincolata a oneri, in particolare limitata quantitativamente e nel tempo.
 
 <sup>3</sup>
 
@@ -869,7 +869,7 @@ Nel regime del perfezionamento attivo:
 
 <sup>1</sup> Le merci introdotte nel territorio doganale estero per essere sottoposte al perfezionamento passivo devono essere dichiarate come sottoposte a tale regime.
 
-<sup>2</sup> Per introdurre merci nel territorio doganale estero al fine di sottoporle al perfezionamento passivo è necessaria un’autorizzazione dell’AFD. L’autorizzazione può essere vincolata a oneri, in particolare limitata quantitativamente e nel tempo.
+<sup>2</sup> Per introdurre merci nel territorio doganale estero al fine di sottoporle al perfezionamento passivo è necessaria un’autorizzazione dell’UDSC. L’autorizzazione può essere vincolata a oneri, in particolare limitata quantitativamente e nel tempo.
 
 <sup>3</sup>
 
@@ -942,14 +942,14 @@ Il depositante è:
 
 **Autorizzazione**
 
-<sup>1</sup> Per gestire un deposito franco doganale è necessaria un’autorizzazione dell’AFD.
+<sup>1</sup> Per gestire un deposito franco doganale è necessaria un’autorizzazione dell’UDSC.
 
 <sup>2</sup>
 
-L’AFD rilascia l’autorizzazione se:
+L’UDSC rilascia l’autorizzazione se:
 
 - a. il richiedente risiede in Svizzera e offre garanzia per una gestione regolare del deposito franco doganale;
-- b. la vigilanza e il controllo doganali non comportano un dispendio amministrativo sproporzionato per l’AFD; e
+- b. la vigilanza e il controllo doganali non comportano un dispendio amministrativo sproporzionato per l’UDSC; e
 - c. vi è garanzia che il deposito franco doganale è per principio aperto a tutti alle medesime condizioni.
 
 <sup>3</sup>
@@ -973,7 +973,7 @@ L’autorizzazione può:
 
 **Vigilanza e inventario**
 
-<sup>1</sup> Il depositario deve tenere un inventario di tutte le merci sensibili depositate. L’AFD stabilisce la forma dell’inventario.
+<sup>1</sup> Il depositario deve tenere un inventario di tutte le merci sensibili depositate. L’UDSC stabilisce la forma dell’inventario.
 
 <sup>2</sup> L’autorizzazione di gestire un deposito franco doganale può prevedere che l’obbligo di tenere un inventario spetti al depositante.
 
@@ -985,7 +985,7 @@ Il depositario è responsabile di:
 - b. far rispettare gli obblighi risultanti dall’immagazzinamento delle merci; e
 - c. far adempire gli oneri connessi all’autorizzazione.
 
-<sup>4</sup> L’AFD può esigere che il depositario presti una garanzia per l’osservanza degli obblighi di cui al capoverso 3.
+<sup>4</sup> L’UDSC può esigere che il depositario presti una garanzia per l’osservanza degli obblighi di cui al capoverso 3.
 
 #### Art. 67
 
@@ -1001,7 +1001,7 @@ Le merci escono dal deposito quando è loro assegnato un regime doganale che sar
 
 **Definizione**
 
-L’obbligazione doganale è l’impegno di pagare i tributi doganali stabiliti dall’AFD.
+L’obbligazione doganale è l’impegno di pagare i tributi doganali stabiliti dall’UDSC.
 
 #### Art. 69
 
@@ -1018,7 +1018,7 @@ L’obbligazione doganale sorge:
 
 **Debitore doganale**
 
-<sup>1</sup> Il debitore doganale deve corrispondere l’importo dell’obbligazione doganale o, se l’AFD lo esige, garantirlo.
+<sup>1</sup> Il debitore doganale deve corrispondere l’importo dell’obbligazione doganale o, se l’UDSC lo esige, garantirlo.
 
 <sup>2</sup>
 
@@ -1027,7 +1027,7 @@ L’obbligazione doganale sorge:
 - a. chiunque trasporta o fa trasportare merci attraverso il confine doganale;
 - b. chiunque è tenuto a presentare la dichiarazione doganale o è incaricato di presentarla;
 - c. la persona per conto della quale la merce è importata o esportata;
-- d.[^70-1] …
+- d.[^70-1] ...
 
 <sup>3</sup> I debitori doganali rispondono solidalmente dell’obbligazione doganale. Il regresso fra di loro è disciplinato dal Codice delle obbligazioni[^70-2].
 
@@ -1035,7 +1035,7 @@ L’obbligazione doganale sorge:
 
 Non rispondono solidalmente le persone che allestiscono professionalmente dichiarazioni doganali se l’obbligazione doganale:
 
-- a. è pagata mediante il conto dell’importatore nell’ambito della procedura accentrata di conteggio dell’AFD (PCD); o
+- a. è pagata mediante il conto dell’importatore nell’ambito della procedura accentrata di conteggio dell’UDSC (PCD); o
 - b. risulta da una decisione di riscossione posticipata secondo la legge federale del 22 marzo 1974[^70-3] sul diritto penale amministrativo (DPA) e la persona che ha allestito professionalmente la dichiarazione doganale non è colpevole dell’infrazione alla legislazione amministrativa della Confederazione; in caso di infrazione non grave l’importo della responsabilità solidale può essere diminuito.
 
 <sup>4bis</sup>
@@ -1058,7 +1058,7 @@ Neanche le imprese di trasporto e i loro dipendenti rispondono solidalmente, se 
 
 **Rinuncia alla riscossione dei tributi doganali**
 
-L’AFD può rinunciare a riscuotere i tributi doganali se il dispendio amministrativo supera chiaramente il ricavo previsto.
+L’UDSC può rinunciare a riscuotere i tributi doganali se il dispendio amministrativo supera chiaramente il ricavo previsto.
 
 #### Art. 72
 
@@ -1076,7 +1076,7 @@ L’AFD può rinunciare a riscuotere i tributi doganali se il dispendio amminist
 
 <sup>2</sup> Il DFF disciplina le modalità di pagamento e le condizioni per le agevolazioni di pagamento. Esso può prevedere termini di pagamento.
 
-<sup>3</sup> L’AFD può obbligare i debitori doganali che si avvalgono regolarmente del traffico dei pagamenti a corrispondere l’obbligazione doganale altrimenti che in contanti.
+<sup>3</sup> L’UDSC può obbligare i debitori doganali che si avvalgono regolarmente del traffico dei pagamenti a corrispondere l’obbligazione doganale altrimenti che in contanti.
 
 #### Art. 74
 
@@ -1091,7 +1091,7 @@ L’interesse di mora non è dovuto:
 - a. nei casi particolari previsti dal Consiglio federale;
 - b. fintanto che l’obbligazione doganale è garantita mediante deposito in contanti.
 
-<sup>3</sup> A contare dal momento del pagamento, l’AFD corrisponde gli interessi sugli importi indebitamente riscossi o indebitamente non restituiti.
+<sup>3</sup> A contare dal momento del pagamento, l’UDSC corrisponde gli interessi sugli importi indebitamente riscossi o indebitamente non restituiti.
 
 <sup>4</sup> Il DFF stabilisce i saggi d’interesse.
 
@@ -1115,9 +1115,9 @@ L’interesse di mora non è dovuto:
 
 #### Art. 76
 
-<sup>1</sup> Se un credito doganale sorge solo condizionatamente oppure se l’AFD accorda agevolazioni di pagamento, il debitore doganale deve garantire il credito doganale mediante deposito in contanti, deposito di titoli sicuri e negoziabili o mediante fideiussione doganale.
+<sup>1</sup> Se un credito doganale sorge solo condizionatamente oppure se l’UDSC accorda agevolazioni di pagamento, il debitore doganale deve garantire il credito doganale mediante deposito in contanti, deposito di titoli sicuri e negoziabili o mediante fideiussione doganale.
 
-<sup>2</sup> Se non è prestata una garanzia oppure se il pagamento appare compromesso, l’AFD può ordinare, anche se il credito doganale non è ancora esigibile, che sia prestata una garanzia o far valere il diritto di pegno doganale.
+<sup>2</sup> Se non è prestata una garanzia oppure se il pagamento appare compromesso, l’UDSC può ordinare, anche se il credito doganale non è ancora esigibile, che sia prestata una garanzia o far valere il diritto di pegno doganale.
 
 <sup>3</sup>
 
@@ -1147,9 +1147,9 @@ Con la fideiussione doganale solidale possono essere garantiti:
 
 **Diritti e doveri del fideiussore**
 
-<sup>1</sup> Se il fideiussore paga il credito doganale, l’AFD gli rilascia a richiesta un’attestazione che gli permette di esercitare il diritto di regresso contro il debitore doganale e di chiedere il rigetto definitivo dell’opposizione.
+<sup>1</sup> Se il fideiussore paga il credito doganale, l’UDSC gli rilascia a richiesta un’attestazione che gli permette di esercitare il diritto di regresso contro il debitore doganale e di chiedere il rigetto definitivo dell’opposizione.
 
-<sup>2</sup> Le merci che sono all’origine del credito doganale garantito e che sono sottoposte alla custodia dell’AFD sono consegnate al fideiussore contro pagamento del credito.
+<sup>2</sup> Le merci che sono all’origine del credito doganale garantito e che sono sottoposte alla custodia dell’UDSC sono consegnate al fideiussore contro pagamento del credito.
 
 <sup>3</sup> Riguardo al credito doganale, il fideiussore non può far valere eccezioni che non siano quelle del debitore doganale. I titoli esecutivi nei confronti di quest’ultimo hanno effetto anche contro il fideiussore.
 
@@ -1159,9 +1159,9 @@ Con la fideiussione doganale solidale possono essere garantiti:
 
 <sup>1</sup> La responsabilità del fideiussore cessa contemporaneamente a quella del debitore doganale.
 
-<sup>2</sup> La garanzia generale può essere disdetta al più presto un anno dopo la sua costituzione. In tal caso la fideiussione non si estende più ai crediti doganali nei confronti del debitore doganale sorti oltre 30 giorni dopo il ricevimento della disdetta da parte dell’AFD.
+<sup>2</sup> La garanzia generale può essere disdetta al più presto un anno dopo la sua costituzione. In tal caso la fideiussione non si estende più ai crediti doganali nei confronti del debitore doganale sorti oltre 30 giorni dopo il ricevimento della disdetta da parte dell’UDSC.
 
-<sup>3</sup> L’AFD può annullare in qualsiasi momento la fideiussione.
+<sup>3</sup> L’UDSC può annullare in qualsiasi momento la fideiussione.
 
 #### Art. 80
 
@@ -1196,7 +1196,7 @@ Con la fideiussione doganale solidale possono essere garantiti:
 La Confederazione ha un diritto di pegno legale (diritto di pegno doganale):
 
 - a. sulle merci per le quali devono essere versati tributi doganali; e
-- b. sulle merci o sulle cose che sono servite a commettere una violazione di disposti federali doganali o non doganali alla cui esecuzione l’AFD coopera.
+- b. sulle merci o sulle cose che sono servite a commettere una violazione di disposti federali doganali o non doganali alla cui esecuzione l’UDSC coopera.
 
 <sup>2</sup> Se il pegno doganale non copre tutti i crediti garantiti, il debitore doganale può precisare quali debiti intende estinguere con il provento della realizzazione. Se il debitore doganale non si decide entro il termine stabilito, il pegno doganale risponde nella graduatoria stabilita dal Consiglio federale.
 
@@ -1206,11 +1206,11 @@ La Confederazione ha un diritto di pegno legale (diritto di pegno doganale):
 
 **Sequestro**
 
-<sup>1</sup> L’AFD fa valere il diritto di pegno doganale mediante sequestro.
+<sup>1</sup> L’UDSC fa valere il diritto di pegno doganale mediante sequestro.
 
 <sup>2</sup> Si procede al sequestro prendendo possesso delle merci o delle cose oppure diffidando il detentore a non disporne.
 
-<sup>3</sup> Se accerta la presenza di merci che si presume siano state introdotte illecitamente nel territorio doganale, l’AFD le sequestra a titolo di pegno doganale. Se il valore della merce lo giustifica, l’AFD cerca di rintracciare l’avente diritto.
+<sup>3</sup> Se accerta la presenza di merci che si presume siano state introdotte illecitamente nel territorio doganale, l’UDSC le sequestra a titolo di pegno doganale. Se il valore della merce lo giustifica, l’UDSC cerca di rintracciare l’avente diritto.
 
 #### Art. 84
 
@@ -1231,7 +1231,7 @@ Senza garanzia, le merci o le cose sequestrate sono liberate se il proprietario:
 
 **Riscossione posticipata di tributi doganali**
 
-Se per errore l’AFD non ha stabilito un tributo doganale o ha stabilito un tributo doganale insufficiente, oppure ha restituito un importo troppo elevato di un tributo doganale, essa può riscuotere posticipatamente l’importo dovuto, purché ne comunichi l’intenzione entro un anno dalla decisione d’imposizione[^85-1].
+Se per errore l’UDSC non ha stabilito un tributo doganale o ha stabilito un tributo doganale insufficiente, oppure ha restituito un importo troppo elevato di un tributo doganale, esso può riscuotere posticipatamente l’importo dovuto, purché ne comunichi l’intenzione entro un anno dalla decisione d’imposizione[^85-1].
 
 [^85-1]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -1241,7 +1241,7 @@ Se per errore l’AFD non ha stabilito un tributo doganale o ha stabilito un tri
 
 <sup>1</sup>
 
-A richiesta, l’AFD rinuncia alla riscossione di tributi doganali o li restituisce completamente o in parte se:
+A richiesta, l’UDSC rinuncia alla riscossione di tributi doganali o li restituisce completamente o in parte se:
 
 - a. merci poste sotto la sua custodia oppure ammesse in regime di transito, di deposito doganale, di perfezionamento attivo o passivo oppure d’ammissione temporanea sono distrutte totalmente o parzialmente per caso fortuito o per forza maggiore oppure con il consenso dell’autorità;
 - b. merci ammesse in libera pratica sono distrutte totalmente o parzialmente oppure riesportate per decisione dell’autorità;
@@ -1250,7 +1250,7 @@ A richiesta, l’AFD rinuncia alla riscossione di tributi doganali o li restitui
 
 <sup>2</sup>
 
-A richiesta, essa rinuncia interamente o parzialmente a far valere l’obbligo di pagamento secondo l’articolo 12 DPA[^86-1] oppure restituisce interamente o parzialmente la somma già versata se:
+A richiesta, esso rinuncia interamente o parzialmente a far valere l’obbligo di pagamento secondo l’articolo 12 DPA[^86-1] oppure restituisce interamente o parzialmente la somma già versata se:
 
 - a. il richiedente non è colpevole; e
 - b.
@@ -1283,13 +1283,13 @@ Un pegno doganale può essere realizzato se:
 
 - a. il credito doganale così garantito è diventato esigibile; e
 - b. il termine di pagamento impartito al debitore doganale o al fideiussore è scaduto infruttuosamente.
-- [tab] <sup>2</sup> L’AFD può realizzare immediatamente e senza il consenso del proprietario del pegno le merci o cose che sono esposte a rapido deprezzamento o che richiedono una manutenzione costosa.
+- [tab] <sup>2</sup> L’UDSC può realizzare immediatamente e senza il consenso del proprietario del pegno le merci o cose che sono esposte a rapido deprezzamento o che richiedono una manutenzione costosa.
 
 <sup>3</sup> Il pegno è di norma realizzato mediante incanto pubblico. Il Consiglio federale può stabilire i principi relativi alla procedura; per il rimanente fanno stato le disposizioni del diritto cantonale vigente nel luogo dell’incanto.
 
 <sup>4</sup>
 
-L’AFD può realizzare il pegno a trattative private soltanto previo consenso del proprietario, a meno che:
+L’UDSC può realizzare il pegno a trattative private soltanto previo consenso del proprietario, a meno che:
 
 - a. il pegno non abbia potuto essere realizzato mediante incanto pubblico; o
 - b. il valore del pegno ammonti al massimo a 5000 franchi e il proprietario sia sconosciuto.[^87-1]
@@ -1298,10 +1298,10 @@ L’AFD può realizzare il pegno a trattative private soltanto previo consenso d
 
 Il Consiglio federale stabilisce:
 
-- a. le ulteriori condizioni alle quali l’AFD può realizzare il pegno a trattative private;
-- b. i casi nei quali l’AFD può rinunciare alla realizzazione del pegno.[^87-2]
+- a. le ulteriori condizioni alle quali l’UDSC può realizzare il pegno a trattative private;
+- b. i casi nei quali l’UDSC può rinunciare alla realizzazione del pegno.[^87-2]
 
-<sup>6</sup> L’AFD può vendere in borsa i titoli depositati.[^87-3]
+<sup>6</sup> L’UDSC può vendere in borsa i titoli depositati.[^87-3]
 
 [^87-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^87-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
@@ -1318,11 +1318,11 @@ Si procede per esecuzione in via di pignoramento secondo l’articolo 42 LEF[^88
 - a. un credito doganale esigibile non è garantito da un pegno doganale realizzabile o non è interamente coperto con il ricavo della realizzazione del pegno; e
 - b. il termine di pagamento impartito al debitore doganale o al fideiussore è scaduto infruttuosamente.
 
-<sup>2</sup> Se nei confronti del debitore doganale è stato dichiarato il fallimento, l’AFD può far valere il suo credito senza pregiudizio delle sue pretese derivanti dal diritto di pegno doganale. Non è applicabile l’articolo 198 LEF.
+<sup>2</sup> Se nei confronti del debitore doganale è stato dichiarato il fallimento, l’UDSC può far valere il suo credito senza pregiudizio delle sue pretese derivanti dal diritto di pegno doganale. Non è applicabile l’articolo 198 LEF.
 
-<sup>3</sup> Le decisioni passate in giudicato dell’AFD sono parificate alle sentenze giudiziarie a tenore dell’articolo 80 LEF.
+<sup>3</sup> Le decisioni passate in giudicato dell’UDSC sono parificate alle sentenze giudiziarie a tenore dell’articolo 80 LEF.
 
-<sup>4</sup> La graduazione definitiva di un credito contestato non ha luogo finché manca una decisione dell’AFD passata in giudicato.
+<sup>4</sup> La graduazione definitiva di un credito contestato non ha luogo finché manca una decisione dell’UDSC passata in giudicato.
 
 [^88-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
@@ -1332,12 +1332,12 @@ Si procede per esecuzione in via di pignoramento secondo l’articolo 42 LEF[^88
 
 <sup>1</sup>
 
-L’AFD può riscuotere tasse per:
+L’UDSC può riscuotere tasse per:
 
 - a. decisioni che emana in esecuzione della legislazione doganale;
 - b. servizi che fornisce, segnatamente mettendo a disposizione la propria infrastruttura nonché i propri impianti e installazioni.
 
-<sup>2</sup> Il Consiglio federale può prevedere la riscossione di tasse per altre attività ufficiali che l’AFD intraprende ai sensi della legislazione doganale.
+<sup>2</sup> Il Consiglio federale può prevedere la riscossione di tasse per altre attività ufficiali che l’UDSC intraprende ai sensi della legislazione doganale.
 
 <sup>3</sup> Esso disciplina nei dettagli l’ammontare delle tasse.
 
@@ -1347,27 +1347,33 @@ L’AFD può riscuotere tasse per:
 
 #### Art. 90
 
-<sup>1</sup> L’imposizione, la riscossione, la restituzione e la prescrizione di tributi, nonché la domanda di restituzione di importi risultanti da leggi federali di natura non doganale sono disciplinate dalla presente legge, sempre che l’esecuzione di tali leggi spetti all’AFD ed esse non escludano l’applicazione della presente legge.
+<sup>1</sup> L’imposizione, la riscossione, la restituzione e la prescrizione di tributi, nonché la domanda di restituzione di importi risultanti da leggi federali di natura non doganale sono disciplinate dalla presente legge, sempre che l’esecuzione di tali leggi spetti all’UDSC ed esse non escludano l’applicazione della presente legge.
 
 <sup>2</sup> La disposizione sul condono di tributi doganali (art. 86) è applicabile ai tributi ai sensi di una legge federale di natura non doganale solo se tale legge lo prevede.
 
-## Titolo quinto: Amministrazione delle dogane
+## Titolo quinto: Ufficio federale della dogana e della sicurezza dei confini****
+
+[^tit5-1]
+
+[^tit5-1]: Nuovo testo giusta il n. I 16 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### Capitolo 1: Organizzazione e personale
 
 #### Art. 91
 
-**Amministrazione delle dogane**
+**UDSC[^91-1]**
 
-<sup>1</sup> L’AFD è costituita dalla Direzione generale delle dogane, dalle direzioni di circondario e dagli uffici doganali.
+<sup>1</sup> L’UDSC è costituita dalla Direzione generale delle dogane, dalle direzioni di circondario e dagli uffici doganali.
 
 <sup>2</sup> Il Corpo delle guardie di confine è una formazione armata e in uniforme.
+
+[^91-1]: Nuovo testo giusta il n. I 16 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 91a
 
 **Giuramento**[^91a-1]
 
-<sup>1</sup> L’AFD designa le persone che possono applicare la coercizione di polizia e misure di polizia e a cui sono conferite le facoltà di cui agli articoli 101–105.
+<sup>1</sup> L’UDSC designa le persone che possono applicare la coercizione di polizia e misure di polizia e a cui sono conferite le facoltà di cui agli articoli 101–105.
 
 <sup>2</sup> Le persone designate secondo il capoverso 1 giurano di adempiere coscienziosamente il loro dovere. Il giuramento può essere sostituito dalla promessa solenne.
 
@@ -1380,28 +1386,28 @@ L’AFD può riscuotere tasse per:
 
 **Impieghi all’estero[^92-1]**
 
-<sup>1</sup> L’AFD può partecipare a missioni all’estero nell’ambito di provvedimenti internazionali.
+<sup>1</sup> L’UDSC può partecipare a missioni all’estero nell’ambito di provvedimenti internazionali.
 
-<sup>2</sup> Per il personale dell’AFD la partecipazione a tali missioni è volontaria.
+<sup>2</sup> Per il personale dell’UDSC la partecipazione a tali missioni è volontaria.
 
-<sup>3</sup> Nell’ambito di provvedimenti internazionali, l’AFD può mettere a disposizione di Stati esteri e dell’agenzia dell’Unione europea responsabile della sorveglianza delle frontiere esterne Schengen il materiale di sorveglianza delle frontiere.[^92-2]
+<sup>3</sup> Nell’ambito di provvedimenti internazionali, l’UDSC può mettere a disposizione di Stati esteri e dell’agenzia dell’Unione europea responsabile della sorveglianza delle frontiere esterne Schengen il materiale di sorveglianza delle frontiere.[^92-2]
 
 <sup>4</sup>
 
-Essa può impiegare agenti di collegamento all’estero e assegnare loro i seguenti compiti:
+Esso può impiegare agenti di collegamento all’estero e assegnare loro i seguenti compiti:
 
-- a. raccolta di informazioni strategiche, tattiche e operative di cui essa necessita per l’adempimento dei propri compiti previsti dalla legge;
+- a. raccolta di informazioni strategiche, tattiche e operative di cui esso necessita per l’adempimento dei propri compiti previsti dalla legge;
 - b. scambio di informazioni tra le autorità partner nello Stato d’accoglienza e presso organizzazioni internazionali nonché tra le autorità svizzere;
 - c. promozione della cooperazione giudiziaria e di polizia.[^92-3]
 
-<sup>5</sup> L’AFD, d’intesa con l’Ufficio federale di polizia (fedpol), può delegare compiti dei propri agenti di collegamento agli agenti di collegamento di fedpol. Nel quadro dei compiti delegati dall’AFD, gli agenti di collegamento di fedpol sono equiparati a quelli dell’AFD per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di elaborare i dati, purché ciò sia necessario per l’adempimento dei compiti.[^92-4]
+<sup>5</sup> L’UDSC, d’intesa con l’Ufficio federale di polizia (fedpol), può delegare compiti dei propri agenti di collegamento agli agenti di collegamento di fedpol. Nel quadro dei compiti delegati dall’UDSC, gli agenti di collegamento di fedpol sono equiparati a quelli dell’UDSC per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di elaborare i dati, purché ciò sia necessario per l’adempimento dei compiti.[^92-4]
 
 <sup>6</sup>
 
 Il Consiglio federale è autorizzato a:
 
-- a. concludere trattati internazionali di cooperazione concernenti l’impiego di personale dell’AFD in seno all’agenzia dell’Unione europea responsabile della sorveglianza delle frontiere esterne Schengen;
-- b. concordare con le autorità estere competenti l’impiego di agenti di collegamento dell’AFD;
+- a. concludere trattati internazionali di cooperazione concernenti l’impiego di personale dell’UDSC in seno all’agenzia dell’Unione europea responsabile della sorveglianza delle frontiere esterne Schengen;
+- b. concordare con le autorità estere competenti l’impiego di agenti di collegamento dell’UDSC;
 - c. disciplinare l’estensione dei compiti previsti al capoverso 4.[^92-5]
 
 [^92-1]: Nuovo testo giusta il n. 3 dell’all. al DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 set. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
@@ -1414,7 +1420,7 @@ Il Consiglio federale è autorizzato a:
 
 **Cassa di previdenza del personale doganale**
 
-<sup>1</sup> L’AFD gestisce una cassa di previdenza per il suo personale.
+<sup>1</sup> L’UDSC gestisce una cassa di previdenza per il suo personale.
 
 <sup>2</sup> Il Consiglio federale disciplina lo scopo, l’organizzazione, il finanziamento e la gestione della cassa di previdenza.
 
@@ -1424,17 +1430,17 @@ Il Consiglio federale è autorizzato a:
 
 **Compiti di natura doganale**
 
-L’AFD esegue la legislazione doganale e i trattati internazionali la cui esecuzione rientra nelle sue competenze.
+L’UDSC esegue la legislazione doganale e i trattati internazionali la cui esecuzione rientra nelle sue competenze.
 
 #### Art. 95
 
 **Compiti di natura non doganale**
 
-<sup>1</sup> L’AFD collabora all’esecuzione di disposti federali di natura non doganale, per quanto questi disposti lo prevedano.
+<sup>1</sup> L’UDSC collabora all’esecuzione di disposti federali di natura non doganale, per quanto questi disposti lo prevedano.
 
-<sup>1bis</sup> Nell’ambito dei propri compiti, essa sostiene la lotta contro il riciclaggio di denaro e contro il finanziamento del terrorismo.[^95-1]
+<sup>1bis</sup> Nell’ambito dei propri compiti, esso sostiene la lotta contro il riciclaggio di denaro e contro il finanziamento del terrorismo.[^95-1]
 
-<sup>2</sup> Se i tributi sono a destinazione vincolata, l’AFD deduce dal provento lordo le proprie spese di riscossione.
+<sup>2</sup> Se i tributi sono a destinazione vincolata, l’UDSC deduce dal provento lordo le proprie spese di riscossione.
 
 [^95-1]: Introdotto dal n. I 5 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
@@ -1442,7 +1448,7 @@ L’AFD esegue la legislazione doganale e i trattati internazionali la cui esecu
 
 **Compiti di sicurezza[^96-1]**
 
-<sup>1</sup> Nel quadro dei propri compiti di natura doganale e non doganale, nell’area di confine l’AFD svolge anche compiti di sicurezza per contribuire alla sicurezza interna del Paese e alla protezione della popolazione. Queste attività sono coordinate con quelle della polizia federale e cantonale.[^96-2]
+<sup>1</sup> Nel quadro dei propri compiti di natura doganale e non doganale, nell’area di confine l’UDSC svolge anche compiti di sicurezza per contribuire alla sicurezza interna del Paese e alla protezione della popolazione. Queste attività sono coordinate con quelle della polizia federale e cantonale.[^96-2]
 
 <sup>2</sup> Sono salvaguardate le competenze delle autorità penali nonché della polizia federale e cantonale. Rimane salvo l’articolo 97.
 
@@ -1453,7 +1459,7 @@ L’AFD esegue la legislazione doganale e i trattati internazionali la cui esecu
 
 **Assunzione di compiti di polizia cantonale**[^97-1]
 
-<sup>1</sup> Il DFF può concludere con un Cantone, su richiesta di quest’ultimo, un accordo sulla base del quale l’AFD è autorizzata ad adempiere compiti di polizia che sono in relazione con l’esecuzione di disposti federali di natura non doganale e che la legislazione della Confederazione ha delegato ai Cantoni.
+<sup>1</sup> Il DFF può concludere con un Cantone, su richiesta di quest’ultimo, un accordo sulla base del quale l’UDSC è autorizzato ad adempiere compiti di polizia che sono in relazione con l’esecuzione di disposti federali di natura non doganale e che la legislazione della Confederazione ha delegato ai Cantoni.
 
 <sup>2</sup> Gli accordi disciplinano in particolare l’area d’impiego, la portata dei compiti e l’assunzione dei costi.
 
@@ -1463,13 +1469,13 @@ L’AFD esegue la legislazione doganale e i trattati internazionali la cui esecu
 
 **Delega di compiti da parte del Consiglio federale**
 
-Il Consiglio federale può delegare all’AFD l’esecuzione di compiti urgenti della Confederazione nell’ambito del traffico transfrontaliero.
+Il Consiglio federale può delegare all’UDSC l’esecuzione di compiti urgenti della Confederazione nell’ambito del traffico transfrontaliero.
 
 #### Art. 99
 
 **Assegnazione di obiettivi**
 
-Il DFF può assegnare periodicamente all’AFD obiettivi per l’adempimento dei suoi compiti.
+Il DFF può assegnare periodicamente all’UDSC obiettivi per l’adempimento dei suoi compiti.
 
 ### Capitolo 3: Competenze
 
@@ -1479,7 +1485,7 @@ Il DFF può assegnare periodicamente all’AFD obiettivi per l’adempimento dei
 
 <sup>1</sup>
 
-Per l’adempimento dei compiti che le sono assegnati, in particolare per garantire il traffico regolare di merci e persone attraverso il confine doganale e per contribuire alla sicurezza interna del Paese e alla protezione della popolazione, l’AFD è abilitata segnatamente a:
+Per l’adempimento dei compiti che le sono assegnati, in particolare per garantire il traffico regolare di merci e persone attraverso il confine doganale e per contribuire alla sicurezza interna del Paese e alla protezione della popolazione, l’UDSC è abilitato segnatamente a:
 
 - a.
 
@@ -1496,7 +1502,7 @@ Per l’adempimento dei compiti che le sono assegnati, in particolare per garant
 
 <sup>1bis</sup> Sempreché la presente legge non contenga norme speciali, è applicabile la legge del 20 marzo 2008[^100-1] sulla coercizione.[^100-2]
 
-<sup>2</sup> …[^100-3]
+<sup>2</sup> ...[^100-3]
 
 [^100-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
 [^100-2]: Introdotto dal n. 5 dell’all. alla L del 20 mar. 2008 sulla coercizone, in vigore dal 1° gen. 2009 ([RU 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2327](https://fedlex.data.admin.ch/eli/fga/2006/250)).
@@ -1506,7 +1512,7 @@ Per l’adempimento dei compiti che le sono assegnati, in particolare per garant
 
 **Intercettazione e tastamento**
 
-<sup>1</sup> L’AFD può intercettare e interrogare una persona se le circostanze lasciano presumere che essa possa fornire indicazioni utili all’adempimento di un compito che incombe all’Amministrazione stessa.
+<sup>1</sup> L’UDSC può intercettare e interrogare una persona se le circostanze lasciano presumere che essa possa fornire indicazioni utili all’adempimento di un compito che incombe all’UDSC[^101-1].
 
 <sup>2</sup>
 
@@ -1515,13 +1521,15 @@ Una persona può essere tastata se:
 - a. vi è il sospetto che costituisca un rischio o che porti su di sé armi o altri oggetti che devono essere messi al sicuro; oppure
 - b. sono adempite le condizioni per il fermo.
 
+[^101-1]: Nuova espr. giusta il n. I 16 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+
 #### Art. 102
 
 **Perquisizione e visita personale**
 
 <sup>1</sup>
 
-L’AFD può far perquisire o sottoporre alla visita personale una persona se:
+L’UDSC può far perquisire o sottoporre alla visita personale una persona se:
 
 - a. sospetta che tale persona costituisca un rischio o porti su di sé oggetti che devono essere messi al sicuro; oppure
 - b. sono adempite le condizioni per il fermo.
@@ -1536,7 +1544,7 @@ L’AFD può far perquisire o sottoporre alla visita personale una persona se:
 
 <sup>1</sup>
 
-L’AFD può accertare l’identità di una persona fotografandola o rilevandone dati biometrici se:
+L’UDSC può accertare l’identità di una persona fotografandola o rilevandone dati biometrici se:
 
 - a. tale persona è sospettata di aver commesso o di essere potenzialmente in procinto di commettere gravi infrazioni; o
 - b. un altro disposto prevede l’accertamento dell’identità di persone.
@@ -1549,16 +1557,16 @@ L’AFD può accertare l’identità di una persona fotografandola o rilevandone
 
 <sup>1</sup>
 
-L’AFD può mettere provvisoriamente al sicuro oggetti e valori patrimoniali, se questi presumibilmente:
+L’UDSC può mettere provvisoriamente al sicuro oggetti e valori patrimoniali, se questi presumibilmente:
 
 - a. saranno utilizzati come mezzi di prova; o
 - b. devono essere confiscati.
 
-<sup>2</sup> Essa consegna immediatamente all’autorità competente gli oggetti e i valori patrimoniali. Detta autorità decide se ordinare un sequestro.
+<sup>2</sup> Esso consegna immediatamente all’autorità competente gli oggetti e i valori patrimoniali. Detta autorità decide se ordinare un sequestro.
 
-<sup>3</sup> Se l’autorità competente non ordina il sequestro, l’AFD restituisce all’avente diritto gli oggetti e i valori patrimoniali posti sotto la sua custodia. Qualora l’avente diritto o il suo luogo di soggiorno sia sconosciuto, si applica per analogia l’articolo 92 DPA[^104-2].
+<sup>3</sup> Se l’autorità competente non ordina il sequestro, l’UDSC restituisce all’avente diritto gli oggetti e i valori patrimoniali posti sotto la sua custodia. Qualora l’avente diritto o il suo luogo di soggiorno sia sconosciuto, si applica per analogia l’articolo 92 DPA[^104-2].
 
-<sup>4</sup> L’AFD può ordinare la confisca indipendente di oggetti e valori patrimoniali di cui agli articoli 69 e 70 del Codice penale[^104-3]. La procedura è retta dall’articolo 66 DPA.
+<sup>4</sup> L’UDSC può ordinare la confisca indipendente di oggetti e valori patrimoniali di cui agli articoli 69 e 70 del Codice penale[^104-3]. La procedura è retta dall’articolo 66 DPA.
 
 [^104-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^104-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1568,11 +1576,11 @@ L’AFD può mettere provvisoriamente al sicuro oggetti e valori patrimoniali, s
 
 ****S**corta al posto e fermo**
 
-<sup>1</sup> L’AFD può scortare al posto a fini di controllo una persona sospettata di aver commesso o di essere potenzialmente in procinto di commettere gravi infrazioni. Essa può sporgere denuncia all’autorità competente.
+<sup>1</sup> L’UDSC può scortare al posto a fini di controllo una persona sospettata di aver commesso o di essere potenzialmente in procinto di commettere gravi infrazioni. Esso può sporgere denuncia all’autorità competente.
 
-<sup>2</sup> In caso di pericolo nel ritardo o di resistenza, l’AFD può mettere in stato di fermo la persona scortata al posto secondo l’articolo 19 DPA[^105-1].
+<sup>2</sup> In caso di pericolo nel ritardo o di resistenza, l’UDSC può mettere in stato di fermo la persona scortata al posto secondo l’articolo 19 DPA[^105-1].
 
-<sup>3</sup> Essa consegna immediatamente la persona fermata all’autorità competente.
+<sup>3</sup> Esso consegna immediatamente la persona fermata all’autorità competente.
 
 [^105-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -1592,7 +1600,7 @@ Il personale del Corpo delle guardie di confine può far uso delle armi di cui a
 
 Il Consiglio federale disciplina:
 
-- a. in quale misura il rimanente personale dell’AFD è autorizzato a portare e utilizzare armi o altri mezzi di autodifesa e coattivi;
+- a. in quale misura il rimanente personale dell’UDSC è autorizzato a portare e utilizzare armi o altri mezzi di autodifesa e coattivi;
 - b. l’uso dell’arma e degli altri mezzi di autodifesa e coattivi.
 
 [^106-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
@@ -1601,7 +1609,7 @@ Il Consiglio federale disciplina:
 
 **Perquisizione di fondi, recinti e costruzioni**
 
-<sup>1</sup> A fini di controllo, il personale dell’AFD è autorizzato a perquisire fondi nell’area di confine.
+<sup>1</sup> A fini di controllo, il personale dell’UDSC è autorizzato a perquisire fondi nell’area di confine.
 
 <sup>2</sup> A fini di controllo è pure autorizzato a perquisire recinti e costruzioni situati sulla riva di acque confinarie, eccettuate le abitazioni.
 
@@ -1615,7 +1623,7 @@ Il Consiglio federale disciplina:
 
 <sup>1</sup>
 
-L’AFD può impiegare telecamere e videoregistratori automatici nonché altri apparecchi di sorveglianza:
+L’UDSC può impiegare telecamere e videoregistratori automatici nonché altri apparecchi di sorveglianza:
 
 - a. al fine di accertare tempestivamente i passaggi illegali del confine o i pericoli per la sicurezza nel traffico transfrontaliero;
 - b. in particolare per la ricerca nonché per la sorveglianza di depositi franchi doganali e di locali in cui si trovano valori o persone scortate al posto o fermate.
@@ -1628,7 +1636,7 @@ L’AFD può impiegare telecamere e videoregistratori automatici nonché altri a
 
 <sup>1</sup> Chiunque allestisce professionalmente dichiarazioni doganali deve essere idoneo a tale attività.
 
-<sup>2</sup> L’AFD può vietare a tempo determinato o indeterminato a persone che non sono idonee o hanno violato la legislazione doganale di allestire dichiarazioni doganali a titolo professionale e di esercitare altre attività nell’ambito della procedura d’imposizione doganale.
+<sup>2</sup> L’UDSC può vietare a tempo determinato o indeterminato a persone che non sono idonee o hanno violato la legislazione doganale di allestire dichiarazioni doganali a titolo professionale e di esercitare altre attività nell’ambito della procedura d’imposizione doganale.
 
 ## Titolo sesto: Protezione dei dati e assistenza amministrativa
 
@@ -1636,13 +1644,13 @@ L’AFD può impiegare telecamere e videoregistratori automatici nonché altri a
 
 #### Art. 110
 
-**Sistemi d’informazione dell’AFD**
+**Sistemi d’informazione dell’UDSC**
 
-<sup>1</sup> L’AFD può elaborare dati personali, inclusi quelli degni di particolare protezione e i profili della personalità, sempre che sia necessario per l’esecuzione dei disposti che essa deve applicare.
+<sup>1</sup> L’UDSC può elaborare dati personali, inclusi quelli degni di particolare protezione e i profili della personalità, sempre che sia necessario per l’esecuzione dei disposti che esso deve applicare.
 
 <sup>2</sup>
 
-L’AFD può gestire sistemi d’informazione, segnatamente per:
+L’UDSC può gestire sistemi d’informazione, segnatamente per:
 
 - a. determinare e riscuotere tributi;
 - b. allestire analisi dei rischi;
@@ -1661,7 +1669,7 @@ Il Consiglio federale disciplina:[^110-2]
 
 - a. l’organizzazione e la gestione dei sistemi d’informazione;
 - b. i cataloghi dei dati da registrare;
-- c.[^110-3] la ripresa in un sistema d’informazione dell’AFD di dati provenienti da altri sistemi d’informazione della Confederazione nel quadro dell’articolo 111 capoverso 1;
+- c.[^110-3] la ripresa in un sistema d’informazione dell’UDSC di dati provenienti da altri sistemi d’informazione della Confederazione nel quadro dell’articolo 111 capoverso 1;
 - d. il diritto di elaborazione dei dati;
 - d<sup>bis</sup>.[^110-4] l’acquisizione e la comunicazione dei dati nel quadro degli articoli 112 e 113;
 - e. la durata di conservazione dei dati;
@@ -1676,7 +1684,7 @@ Il Consiglio federale disciplina:[^110-2]
 
 **Sistema d’informazione in materia penale**[^110a-1]
 
-<sup>1</sup> L’AFD gestisce un sistema d’informazione per il perseguimento e il giudizio di casi penali nonché per il trattamento di domande di assistenza amministrativa e giudiziaria.
+<sup>1</sup> L’UDSC gestisce un sistema d’informazione per il perseguimento e il giudizio di casi penali nonché per il trattamento di domande di assistenza amministrativa e giudiziaria.
 
 <sup>2</sup>
 
@@ -1708,7 +1716,7 @@ Nel sistema d’informazione possono essere elaborati i seguenti dati personali 
 
 **Sistema d’informazione per la gestione dei risultati dei controlli doganali**[^110b-1]
 
-<sup>1</sup> L’AFD gestisce un sistema d’informazione per la gestione dei risultati dei controlli doganali.
+<sup>1</sup> L’UDSC gestisce un sistema d’informazione per la gestione dei risultati dei controlli doganali.
 
 <sup>2</sup>
 
@@ -1716,7 +1724,7 @@ Il sistema d’informazione serve all’esecuzione della presente legge, in part
 
 - a. la gestione centralizzata dei risultati dei controlli doganali;
 - b. l’acquisizione dei dati necessari all’analisi dei rischi;
-- c. l’acquisizione dei dati necessari per i rapporti sull’adempimento dei compiti dell’AFD.
+- c. l’acquisizione dei dati necessari per i rapporti sull’adempimento dei compiti dell’UDSC.
 
 <sup>3</sup>
 
@@ -1733,7 +1741,7 @@ Nel sistema d’informazione possono essere elaborati i seguenti dati personali 
 
 **Sistema d’informazione per l’elaborazione di analisi dei rischi**[^110c-1]
 
-<sup>1</sup> Il Centro di situazione e analisi dell’AFD gestisce un sistema d’informazione per l’elaborazione di analisi dei rischi.
+<sup>1</sup> Il Centro di situazione e analisi dell’UDSC gestisce un sistema d’informazione per l’elaborazione di analisi dei rischi.
 
 <sup>2</sup>
 
@@ -1753,7 +1761,7 @@ Nel sistema d’informazione possono essere elaborati i seguenti dati personali 
 - d. indicazioni sulle misure di diritto amministrativo ordinate o che devono eventualmente essere adottate;
 - e. indicazioni sui procedimenti penali pendenti o conclusi.
 
-<sup>4</sup> I risultati delle analisi dei rischi possono essere resi accessibili alle persone autorizzate sul sito Intranet dell’AFD.
+<sup>4</sup> I risultati delle analisi dei rischi possono essere resi accessibili alle persone autorizzate sul sito Intranet dell’UDSC.
 
 [^110c-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1761,7 +1769,7 @@ Nel sistema d’informazione possono essere elaborati i seguenti dati personali 
 
 **Sistema d’informazione per il sostegno alla conduzione**[^110d-1]
 
-<sup>1</sup> L’AFD gestisce un sistema d’informazione per il sostegno alla conduzione.
+<sup>1</sup> L’UDSC gestisce un sistema d’informazione per il sostegno alla conduzione.
 
 <sup>2</sup> Il sistema d’informazione serve all’acquisizione e all’elaborazione di tutte le informazioni necessarie alla gestione operativa e strategica degli impieghi e alla loro direzione.
 
@@ -1771,7 +1779,7 @@ Nel sistema d’informazione possono essere elaborati i seguenti dati personali,
 
 - a. indicazioni necessarie per identificare, localizzare e contattare una persona, nonché indicazioni sui mezzi di trasporto da essa impiegati e su merci, oggetti e valori patrimoniali da essa trasportati;
 - b. indicazioni sugli eventi trattati dalle centrali d’intervento;
-- c. indicazioni sulle risorse dell’AFD e delle autorità coinvolte.
+- c. indicazioni sulle risorse dell’UDSC e delle autorità coinvolte.
 
 [^110d-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1779,7 +1787,7 @@ Nel sistema d’informazione possono essere elaborati i seguenti dati personali,
 
 **Sistema d’informazione per la documentazione delle attività del Corpo delle guardie di confine**[^110e-1]
 
-<sup>1</sup> L’AFD gestisce un sistema d’informazione per la documentazione delle attività del Corpo delle guardie di confine e per l’elaborazione di statistiche e analisi dei rischi.
+<sup>1</sup> L’UDSC gestisce un sistema d’informazione per la documentazione delle attività del Corpo delle guardie di confine e per l’elaborazione di statistiche e analisi dei rischi.
 
 <sup>2</sup>
 
@@ -1816,7 +1824,7 @@ Le seguenti persone hanno accesso, mediante procedura di richiamo, ai dati di cu
 
 **Sistema d’informazione per telecamere, videoregistratori e altri apparecchi di sorveglianza**[^110f-1]
 
-<sup>1</sup> L’AFD gestisce un sistema d’informazione per la gestione di registrazioni effettuate in virtù degli articoli 108 o 128*a*.
+<sup>1</sup> L’UDSC gestisce un sistema d’informazione per la gestione di registrazioni effettuate in virtù degli articoli 108 o 128*a*.
 
 <sup>2</sup>
 
@@ -1834,9 +1842,9 @@ Nel sistema d’informazione possono essere elaborati in particolare i dati rela
 
 **Interfacce**[^110g-1]
 
-<sup>1</sup> I sistemi d’informazione di cui agli articoli 110*a*–110*f* possono essere collegati tra loro e con altri sistemi d’informazione dell’AFD in maniera tale da consentire agli utenti che dispongono dei diritti d’accesso di verificare con un’unica interrogazione se una determinata persona od organizzazione è registrata in un sistema d’informazione.
+<sup>1</sup> I sistemi d’informazione di cui agli articoli 110*a*–110*f* possono essere collegati tra loro e con altri sistemi d’informazione dell’UDSC in maniera tale da consentire agli utenti che dispongono dei diritti d’accesso di verificare con un’unica interrogazione se una determinata persona od organizzazione è registrata in un sistema d’informazione.
 
-<sup>2</sup> Il collegamento dei sistemi d’informazione di cui agli articoli 110*a*–110*f* con altri sistemi d’informazione dell’Amministrazione federale ai quali l’AFD ha accesso è possibile soltanto se la legislazione relativa a tali altri sistemi lo prevede.
+<sup>2</sup> Il collegamento dei sistemi d’informazione di cui agli articoli 110*a*–110*f* con altri sistemi d’informazione dell’Amministrazione federale ai quali l’UDSC ha accesso è possibile soltanto se la legislazione relativa a tali altri sistemi lo prevede.
 
 [^110g-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 
@@ -1844,7 +1852,7 @@ Nel sistema d’informazione possono essere elaborati in particolare i dati rela
 
 **Piattaforme di analisi**[^110h-1]
 
-<sup>1</sup> Per i sistemi d’informazione dell’AFD è possibile realizzare piattaforme di analisi. Una piattaforma di analisi si compone di una piattaforma di analisi sommaria e di una piattaforma di analisi dettagliata.
+<sup>1</sup> Per i sistemi d’informazione dell’UDSC è possibile realizzare piattaforme di analisi. Una piattaforma di analisi si compone di una piattaforma di analisi sommaria e di una piattaforma di analisi dettagliata.
 
 <sup>2</sup> La piattaforma di analisi sommaria serve al trattamento, all’interpretazione e alla conservazione dei dati.
 
@@ -1856,15 +1864,15 @@ Nel sistema d’informazione possono essere elaborati in particolare i dati rela
 
 **Altri sistemi d’informazione**
 
-<sup>1</sup> Nell’adempimento dei suoi compiti, l’AFD può elaborare dati provenienti da sistemi d’informazione di altre autorità della Confederazione e dei Cantoni, sempre che ciò sia previsto da altri disposti federali o cantonali. Essa deve utilizzare i dati esclusivamente in modo conforme allo scopo previsto.
+<sup>1</sup> Nell’adempimento dei suoi compiti, l’UDSC può elaborare dati provenienti da sistemi d’informazione di altre autorità della Confederazione e dei Cantoni, sempre che ciò sia previsto da altri disposti federali o cantonali. Esso deve utilizzare i dati esclusivamente in modo conforme allo scopo previsto.
 
-<sup>2</sup> Nell’adempimento dei suoi compiti l’AFD può altresì procurarsi dati provenienti dai sistemi d’informazione degli aerodromi doganali, dei depositi doganali aperti, dei depositi per merci di gran consumo nonché dei depositi franchi doganali.
+<sup>2</sup> Nell’adempimento dei suoi compiti l’UDSC può altresì procurarsi dati provenienti dai sistemi d’informazione degli aerodromi doganali, dei depositi doganali aperti, dei depositi per merci di gran consumo nonché dei depositi franchi doganali.
 
 #### Art. 112
 
 **Comunicazione di dati ad autorità svizzere**
 
-<sup>1</sup> L’AFD può comunicare alle autorità della Confederazione, dei Cantoni e dei Comuni, nonché alle organizzazioni o persone di diritto pubblico o privato cui la Confederazione ha assegnato compiti di diritto pubblico (autorità svizzere), dati e accertamenti effettuati dal personale delle dogane nell’esercizio delle sue funzioni, sempre che ciò sia necessario per l’esecuzione dei disposti che tali autorità devono applicare.
+<sup>1</sup> L’UDSC può comunicare alle autorità della Confederazione, dei Cantoni e dei Comuni, nonché alle organizzazioni o persone di diritto pubblico o privato cui la Confederazione ha assegnato compiti di diritto pubblico (autorità svizzere), dati e accertamenti effettuati dal personale delle dogane nell’esercizio delle sue funzioni, sempre che ciò sia necessario per l’esecuzione dei disposti che tali autorità devono applicare.
 
 <sup>2</sup>
 
@@ -1872,33 +1880,34 @@ Possono in particolare essere comunicati i seguenti dati e connessioni di dati, 
 
 - a. indicazioni concernenti l’identità di persone;
 - b. indicazioni concernenti gli assoggettamenti a tributi;
-- c. indicazioni concernenti procedimenti amministrativi e penali pendenti o conclusi, nonché sanzioni amministrative e penali rientranti nelle competenze dell’AFD;
+- c.[^112-1] indicazioni concernenti procedimenti amministrativi e penali pendenti o conclusi, nonché sanzioni amministrative e penali rientranti nelle competenze dell’UDSC;
 - d indicazioni concernenti l’introduzione, l’importazione e l’esportazione di merci;
 - e. indicazioni concernenti reati commessi o la cui commissione è potenzialmente imminente, comprese le infrazioni a disposti federali di natura non doganale;
 - f. indicazioni concernenti passaggi del confine;
 - g. indicazioni concernenti la situazione finanziaria ed economica di persone.
 
-<sup>3</sup> I dati giusta il capoverso 2 lettera g possono pure essere comunicati a terzi incaricati dall’AFD di controllare la solvibilità dei debitori. I terzi devono garantire all’AFD di utilizzare i dati esclusivamente ai fini dell’espletamento dell’incarico.
+<sup>3</sup> I dati giusta il capoverso 2 lettera g possono pure essere comunicati a terzi incaricati dall’UDSC di controllare la solvibilità dei debitori. I terzi devono garantire all’UDSC di utilizzare i dati esclusivamente ai fini dell’espletamento dell’incarico.
 
 <sup>4</sup>
 
-L’AFD può rendere accessibili alle autorità menzionate qui appresso i seguenti dati mediante procedura di richiamo, sempre che essi siano necessari per l’esecuzione dei disposti che queste autorità devono applicare:
+L’UDSC può rendere accessibili alle autorità menzionate qui appresso i seguenti dati mediante procedura di richiamo, sempre che essi siano necessari per l’esecuzione dei disposti che queste autorità devono applicare:
 
 - a. dati di dichiarazioni doganali: alle autorità svizzere;
-- b. dati provenienti da sistemi d’informazione dell’AFD: agli organi di quest’ultima;
+- b. dati provenienti da sistemi d’informazione dell’UDSC: agli organi di quest’ultima;
 - c. dati provenienti da sistemi informatici del Corpo delle guardie di confine: alle competenti autorità di polizia.
 
 <sup>5</sup> Il Consiglio federale disciplina i particolari, segnatamente lo scopo e il contenuto della comunicazione di dati.
 
-<sup>6</sup> I dati comunicati devono essere utilizzati esclusivamente in modo conforme allo scopo previsto. Essi non possono essere trasmessi a terzi senza il consenso dell’AFD. È fatto salvo l’articolo 6 capoverso 1 della legge federale del 19 giugno 1992[^112-1] sulla protezione dei dati.
+<sup>6</sup> I dati comunicati devono essere utilizzati esclusivamente in modo conforme allo scopo previsto. Essi non possono essere trasmessi a terzi senza il consenso dell’UDSC. È fatto salvo l’articolo 6 capoverso 1 della legge federale del 19 giugno 1992[^112-2] sulla protezione dei dati.
 
-[^112-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^112-1]: Nuovo testo giusta il n. I 16 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^112-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 113
 
 **Comunicazione di dati ad autorità estere**
 
-L’AFD può comunicare dati, inclusi i dati personali degni di particolare protezione e i profili della personalità, ad autorità di altri Stati nonché ad organizzazioni sopranazionali o internazionali (autorità estere) in singoli casi o mediante procedura di richiamo, sempre che un trattato internazionale lo preveda.
+L’UDSC può comunicare dati, inclusi i dati personali degni di particolare protezione e i profili della personalità, ad autorità di altri Stati nonché ad organizzazioni sopranazionali o internazionali (autorità estere) in singoli casi o mediante procedura di richiamo, sempre che un trattato internazionale lo preveda.
 
 ### Capitolo 2: Assistenza amministrativa tra autorità svizzere****
 
@@ -1910,9 +1919,9 @@ L’AFD può comunicare dati, inclusi i dati personali degni di particolare prot
 
 **...[^114-1]**
 
-<sup>1</sup> L’AFD e altre autorità svizzere si prestano vicendevolmente assistenza amministrativa nell’adempimento dei loro compiti e collaborano mutualmente.
+<sup>1</sup> L’UDSC e altre autorità svizzere si prestano vicendevolmente assistenza amministrativa nell’adempimento dei loro compiti e collaborano mutualmente.
 
-<sup>2</sup> Le autorità svizzere comunicano all’AFD dati, inclusi i dati personali degni di particolare protezione e i profili della personalità, sempre che ciò sia necessario per l’esecuzione dei disposti ch’essa deve applicare.
+<sup>2</sup> Le autorità svizzere comunicano all’UDSC dati, inclusi i dati personali degni di particolare protezione e i profili della personalità, sempre che ciò sia necessario per l’esecuzione dei disposti ch’esso deve applicare.
 
 [^114-1]: Abrogata dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, con effetto dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1926,9 +1935,9 @@ L’AFD può comunicare dati, inclusi i dati personali degni di particolare prot
 
 **Oggetto e campo d’applicazione**[^115-1]
 
-<sup>1</sup> Nell’ambito delle proprie competenze, l’AFD può prestare a richiesta assistenza amministrativa alle autorità estere nell’esecuzione dei loro compiti, segnatamente per garantire la corretta applicazione del diritto doganale, nonché per prevenire, scoprire e perseguire infrazioni contro il diritto doganale, sempre che ciò sia previsto da un trattato internazionale.
+<sup>1</sup> Nell’ambito delle proprie competenze, l’UDSC può prestare a richiesta assistenza amministrativa alle autorità estere nell’esecuzione dei loro compiti, segnatamente per garantire la corretta applicazione del diritto doganale, nonché per prevenire, scoprire e perseguire infrazioni contro il diritto doganale, sempre che ciò sia previsto da un trattato internazionale.
 
-<sup>2</sup> Ove un trattato internazionale lo preveda, essa può concedere l’assistenza amministrativa anche d’ufficio.
+<sup>2</sup> Ove un trattato internazionale lo preveda, esso può concedere l’assistenza amministrativa anche d’ufficio.
 
 [^115-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1936,11 +1945,11 @@ L’AFD può comunicare dati, inclusi i dati personali degni di particolare prot
 
 **Competenza**[^115a-1]
 
-<sup>1</sup> L’AFD esegue l’assistenza amministrativa in base alle domande estere e presenta le domande svizzere.
+<sup>1</sup> L’UDSC esegue l’assistenza amministrativa in base alle domande estere e presenta le domande svizzere.
 
-<sup>2</sup> Se la domanda estera concerne un settore disciplinato da un disposto di natura non doganale, l’AFD inoltra la domanda all’autorità competente.
+<sup>2</sup> Se la domanda estera concerne un settore disciplinato da un disposto di natura non doganale, l’UDSC inoltra la domanda all’autorità competente.
 
-<sup>3</sup> Se l’autorità competente non è in grado di eseguire i provvedimenti richiesti, l’AFD esegue l’assistenza amministrativa con l’ausilio dell’autorità competente.
+<sup>3</sup> Se l’autorità competente non è in grado di eseguire i provvedimenti richiesti, l’UDSC esegue l’assistenza amministrativa con l’ausilio dell’autorità competente.
 
 [^115a-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -1966,11 +1975,11 @@ Ai fini della produzione di informazioni, documentazione, oggetti o valori patri
 
 **Obbligo di collaborazione**[^115d-1]
 
-<sup>1</sup> Nell’ambito dell’articolo 115*c* l’AFD può obbligare la persona interessata dalla domanda a collaborare ed esigere in particolare da essa informazioni, dati e documenti.
+<sup>1</sup> Nell’ambito dell’articolo 115*c* l’UDSC può obbligare la persona interessata dalla domanda a collaborare ed esigere in particolare da essa informazioni, dati e documenti.
 
 <sup>2</sup> La persona interessata può rifiutarsi di collaborare o di deporre se è soggetta a un segreto professionale tutelato dalla legge o se ha la facoltà di non deporre.
 
-<sup>3</sup> Se la persona interessata rifiuta di collaborare o di deporre, l’AFD emana una decisione sull’obbligo di collaborare e di produrre informazioni, dati e documenti.
+<sup>3</sup> Se la persona interessata rifiuta di collaborare o di deporre, l’UDSC emana una decisione sull’obbligo di collaborare e di produrre informazioni, dati e documenti.
 
 [^115d-1]: Introdotto dal n. 2 dell’all. alla L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 
@@ -2038,7 +2047,7 @@ Se è stata obbligata a collaborare conformemente all’articolo 115*d* o se son
 
 <sup>1bis</sup> Contro le decisioni di prima istanza delle direzioni di circondario è ammissibile il ricorso presso la Direzione generale delle dogane.
 
-<sup>2</sup> Nelle procedure davanti al Tribunale amministrativo federale e dinanzi al Tribunale federale, l’AFD è rappresentata dalla Direzione generale delle dogane.
+<sup>2</sup> Nelle procedure davanti al Tribunale amministrativo federale e dinanzi al Tribunale federale, l’UDSC è rappresentato dalla Direzione generale delle dogane.
 
 <sup>3</sup> Il termine di ricorso di prima istanza contro l’imposizione è di 60 giorni a contare dall’allestimento della decisione d’imposizione.[^116-2]
 
@@ -2123,8 +2132,8 @@ Chiunque acquista, accetta in dono, in pegno o in custodia, occulta, spaccia, ai
 
 È punito con la multa fino al quintuplo del valore della merce chiunque:
 
-- a. lasciato in possesso di una merce o una cosa che l’AFD ha sequestrato come pegno doganale, la distrugge; oppure
-- b. ne dispone senza il consenso dell’AFD.
+- a. lasciato in possesso di una merce o una cosa che l’UDSC ha sequestrato come pegno doganale, la distrugge; oppure
+- b. ne dispone senza il consenso dell’UDSC.
 
 <sup>2</sup> Il valore della merce corrisponde al prezzo commerciale applicato sul mercato interno al momento in cui è scoperta la distrazione del pegno doganale. Se tale prezzo non è noto, il valore della merce è stabilito da periti.
 
@@ -2157,7 +2166,7 @@ Se la multa applicabile non supera i 100 000 franchi e l’individuazione delle 
 
 <sup>1</sup> Se una fattispecie costituisce in pari tempo una frode o una messa in pericolo del dazio e una ricettazione doganale[^126-2], si applica la pena prevista per l’infrazione più grave; tale pena può essere adeguatamente aumentata.
 
-<sup>2</sup> Se una fattispecie costituisce in pari tempo un’infrazione doganale e un’altra infrazione il cui perseguimento incombe all’AFD, si applica la pena prevista per l’infrazione più grave; tale pena può essere adeguatamente aumentata.
+<sup>2</sup> Se una fattispecie costituisce in pari tempo un’infrazione doganale e un’altra infrazione il cui perseguimento incombe all’UDSC, si applica la pena prevista per l’infrazione più grave; tale pena può essere adeguatamente aumentata.
 
 [^126-1]: Nuovo testo giusta l’art. 44 della L del 6 ott. 2006 sull’imposizione della birra, in vigore dal 1° lug. 2007 ([RU 2007 2895](https://fedlex.data.admin.ch/eli/oc/2007/385); [FF 2005 5045](https://fedlex.data.admin.ch/eli/fga/2005/890)).
 [^126-2]: Corretto: Infrazione dei divieti.
@@ -2173,7 +2182,7 @@ Sempre che non sia adempita la fattispecie legale di un’infrazione doganale, �
 - a. una norma della legislazione doganale, di un trattato internazionale oppure una delle sue disposizioni d’esecuzione, nella misura in cui un atto legislativo dichiari punibile la violazione di tali norme; oppure
 - b. una decisione notificatagli sotto comminatoria della pena contemplata dal presente articolo.
 
-<sup>2</sup> L’inosservanza di un ordine verbale del personale dell’AFD o di un ordine impartito mediante segnali o tavole è punita con la multa sino a 2000 franchi. L’ordine impartito non deve necessariamente comminare la pena prevista nel presente articolo.
+<sup>2</sup> L’inosservanza di un ordine verbale del personale dell’UDSC o di un ordine impartito mediante segnali o tavole è punita con la multa sino a 2000 franchi. L’ordine impartito non deve necessariamente comminare la pena prevista nel presente articolo.
 
 <sup>3</sup> È fatto salvo il rinvio a giudizio giusta gli articoli 285 o 286 del Codice penale[^127-1].
 
@@ -2185,7 +2194,7 @@ Sempre che non sia adempita la fattispecie legale di un’infrazione doganale, �
 
 <sup>1</sup> Le infrazioni sono perseguite e giudicate secondo la presente legge e il DPA[^128-1].
 
-<sup>2</sup> L’AFD è l’autorità competente per il perseguimento e il giudizio.
+<sup>2</sup> L’UDSC è l’autorità competente per il perseguimento e il giudizio.
 
 [^128-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
@@ -2195,14 +2204,14 @@ Sempre che non sia adempita la fattispecie legale di un’infrazione doganale, �
 
 <sup>1</sup>
 
-Nel quadro della propria competenza in materia di perseguimento penale, l’AFD può ordinare di far osservare in segreto persone e cose nei luoghi accessibili al pubblico e di effettuarvi registrazioni su supporto visivo o sonoro, se:
+Nel quadro della propria competenza in materia di perseguimento penale, l’UDSC può ordinare di far osservare in segreto persone e cose nei luoghi accessibili al pubblico e di effettuarvi registrazioni su supporto visivo o sonoro, se:
 
 - a. in base a indizi concreti si può ritenere che sia stato commesso un crimine o un delitto; e
 - b. altrimenti l’inchiesta risulterebbe vana o eccessivamente difficile.
 
 <sup>2</sup> Un provvedimento ordinato secondo il capoverso 1 non può protrarsi per più di 30 giorni, salva l’approvazione della Direzione generale delle dogane.
 
-<sup>3</sup> Al più tardi alla chiusura dell’inchiesta l’AFD comunica alle persone direttamente interessate dall’osservazione il motivo, il genere e la durata dell’osservazione.
+<sup>3</sup> Al più tardi alla chiusura dell’inchiesta l’UDSC comunica alle persone direttamente interessate dall’osservazione il motivo, il genere e la durata dell’osservazione.
 
 <sup>4</sup>
 
@@ -2255,7 +2264,7 @@ Il Consiglio federale è incaricato dell’esecuzione della presente legge.
 
 <sup>6</sup> I ricorsi contro decisioni su ricorso pronunciate dalle direzioni di circondario, pendenti presso la Direzione generale delle dogane al momento dell’entrata in vigore della presente legge, sono decisi dalla Direzione medesima.
 
-<sup>7</sup> …[^132-2]
+<sup>7</sup> ...[^132-2]
 
 [^132-1]: [CS **6** 475; [RU 1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2]
 [^132-2]: Abrogato dal n. I della LF del 18 mar. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2395](https://fedlex.data.admin.ch/eli/fga/2015/604)).
