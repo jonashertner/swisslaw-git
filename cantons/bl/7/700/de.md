@@ -4,13 +4,12 @@ number: "700"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-01-28
+version: 2022-01-01
+version_adopted: 2021-01-14
 adopted: 1996-11-28
 in_force: 1998-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/700"
-pdf: "https://bl.clex.ch/api/de/versions/2992/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2992/pdf_file"
 
 (PolG)
 
-Vom 28.11.1996 (Stand 01.07.2021)
+Vom 28.11.1996 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -39,9 +38,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2<sup>bis</sup></sup> Für Private, die Sicherheitsdienstleistungen erbringen, gelten die Bestimmungen des Kapitels 10.
 
-<sup>3</sup> Für die Tätigkeit der Polizei Basel-Landschaft im Bereich der Strafverfolgung gilt die Schweizerische Strafprozessordnung[^1-1]
+<sup>3</sup> Für die Tätigkeit der Polizei Basel-Landschaft im Bereich der Strafverfolgung gilt die Schweizerische Strafprozessordnung[^1-1].
 
-[^1-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^1-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 2
 
@@ -53,14 +52,14 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Polizei Basel-Landschaft erfüllt folgende Aufgaben:
 
-- a. Sie ergreift Massnahmen, um unmittelbar drohende Gefahren für die öffentliche Sicherheit und Ordnung sowie für Mensch, Tier und Umwelt abzuwehren und eingetretene Störungen zu beseitigen;
-- b. sie trifft Vorkehrungen zur Erkennung, Verhinderung und Bekämpfung von Straftaten;
-- c. sie hilft Menschen, die unmittelbar an Leib und Leben bedroht oder anderweitig in Not sind;
-- d. sie wirkt mit bei der Strafverfolgung nach den Vorschriften der Schweizerischen Strafprozessordnung[^3-1];
-- e. sie erhebt Ordnungsbussen gemäss dem Ordnungsbussengesetz[^3-2];
-- f. sie leistet den Verwaltungs- und Gerichtsbehörden Amts- und Vollzugshilfe, soweit die polizeiliche Mithilfe durch die Rechtsordnung vorgesehen oder zu deren Durchsetzung erforderlich ist;
-- g. sie trifft Massnahmen zur Erhöhung der Sicherheit im Strassenverkehr und vollzieht die Strassenverkehrsvorschriften;
-- h. sie erfüllt weitere Aufgaben, die ihr durch Gesetz, Dekret und Verordnung übertragen sind.
+- a. Sie ergreift Massnahmen, um unmittelbar drohende Gefahren für die öffentliche Sicherheit und Ordnung sowie für Mensch, Tier und Umwelt abzuwehren und eingetretene Störungen zu beseitigen.
+- b. Sie trifft Vorkehrungen zur Erkennung, Verhinderung und Bekämpfung von Straftaten.
+- c. Sie hilft Menschen, die unmittelbar an Leib und Leben bedroht oder anderweitig in Not sind.
+- d. Sie wirkt mit bei der Strafverfolgung nach den Vorschriften der Schweizerischen Strafprozessordnung[^3-1].
+- e. Sie erhebt Ordnungsbussen gemäss dem Ordnungsbussengesetz[^3-2].
+- f. Sie leistet den Verwaltungs- und Gerichtsbehörden Amts- und Vollzugshilfe, soweit die polizeiliche Mithilfe durch die Rechtsordnung vorgesehen oder zu deren Durchsetzung erforderlich ist.
+- g. Sie trifft Massnahmen zur Erhöhung der Sicherheit im Strassenverkehr und vollzieht die Strassenverkehrsvorschriften.
+- h. Sie erfüllt weitere Aufgaben, die ihr durch Gesetz, Dekret und Verordnung übertragen sind.
 
 <sup>2</sup> Der Schutz privater Rechte obliegt der Polizei nur dann, wenn:
 
@@ -68,7 +67,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - b. gerichtlicher Schutz nicht rechtzeitig zu erlangen ist und
 - c. ohne polizeiliche Hilfe die Verwirklichung des Rechts vereitelt oder wesentlich erschwert werden könnte.
 
-[^3-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^3-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
 [^3-2]: [SR 314.1](https://db.clex.ch/link/Bund/314.1/de)
 
 #### § 3a
@@ -79,8 +78,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Die Gemeinden erfüllen zudem folgende Aufgaben, sofern ihr diese vom Regierungsrat übertragen sind:
 
-- a. das Ordnungsbussenwesen im Strassenverkehr (§§ 7-7d);
-- b. das Gemeindepolizeiwesen (§§ 7e-7j).
+- a. das Ordnungsbussenwesen im Strassenverkehr (§§ 7–7d);
+- b. das Gemeindepolizeiwesen (§§ 7e–7j).
 
 ## 2 Zusammenarbeit mit Gemeinden, Kantonen, Bund und mit dem Ausland
 
@@ -116,7 +115,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>6</sup> Vorbehalten bleiben staatsvertragliche Vereinbarungen zwischen den Kantonen.
 
-[^5-1]: GS 36.732, SGS [105](https://bl.clex.ch/data/105/de)
+[^5-1]: [SGS 105](https://bl.clex.ch/data/105/de)
 
 ## 2<sup>bis</sup> Zuständigkeiten der Gemeinden
 
@@ -132,7 +131,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Die Polizei Basel-Landschaft leitet Meldungen wegen Störung der öffentlichen Ordnung an die entsprechende Gemeinde weiter.
 
-[^6-1]: GS 24.293, SGS [180](https://bl.clex.ch/data/180/de)
+[^6-1]: [SGS 180](https://bl.clex.ch/data/180/de)
 
 ### 2<sup>bis</sup>.2 Ordnungsbussen im Strassenverkehr
 
@@ -153,12 +152,12 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Voraussetzungen**
 
-<sup>1</sup> Die Ordnungsbussenkompetenz gemäss § 7 Buchstabe a setzt voraus, dass:
+<sup>1</sup> Die Ordnungsbussenkompetenz gemäss § 7 Abs. 1 Bst. a setzt voraus, dass:
 
 - a. die Gemeinde die zur Erhebung von Ordnungsbussen ermächtigten Kontrollpersonen namentlich bezeichnet und
 - b. die Kontrollpersonen über Kenntnisse des Ordnungsbussenverfahrens verfügen.
 
-<sup>2</sup> Die Ordnungsbussenkompetenz gemäss § 7 Buchstabe b setzt voraus, dass die Gemeinde anerkannte Kontrollgeräte einsetzt und diese sachgerecht bedienen lässt.
+<sup>2</sup> Die Ordnungsbussenkompetenz gemäss § 7 Abs. 1 Bst. b setzt voraus, dass die Gemeinde anerkannte Kontrollgeräte einsetzt und diese sachgerecht bedienen lässt.
 
 #### § 7b
 
@@ -168,14 +167,14 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Die Uniform muss sich deutlich von derjenigen der Polizei Basel-Landschaft unterscheiden.
 
-<sup>3</sup> Die Gemeinde kann Personen gemäss Absatz 1 zum Selbst- und Drittschutz mit folgenden Waffen und Geräten ausstatten:
+<sup>3</sup> Die Gemeinde kann Personen gemäss Abs. 1 zum Selbst- und Drittschutz mit folgenden Waffen und Geräten ausstatten:
 
-- a. Schlagstöcke (Artikel 4 Absatz 1 Buchstabe d Waffengesetz[^7b-1]);
+- a. Schlagstöcke (Art. 4 Abs. 1 Bst. d Waffengesetz[^7b-1]);
 - b. Geräte, die nicht unter das Waffengesetz fallen (Pfefferspray usw.).
 
-<sup>4</sup> Der Einsatz von Waffen und Geräten ist aus den in § 41 Absatz 1 Buchstaben a und b umschriebenen Gründen zulässig.
+<sup>4</sup> Der Einsatz von Waffen und Geräten ist aus den in § 41 Abs. 1 Bst. a und b umschriebenen Gründen zulässig.
 
-[^7b-1]: SR [514.54](https://db.clex.ch/link/Bund/514.54/de)
+[^7b-1]: [SR 514.54](https://db.clex.ch/link/Bund/514.54/de)
 
 #### § 7c
 
@@ -212,11 +211,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Die Gemeindepolizei ist zuständig für:
 
 - a. die Wahrung der öffentlichen Ordnung gemäss § 6;
-- b. das Ordnungsbussenwesen gemäss §§ 7-7e;
+- b. das Ordnungsbussenwesen gemäss den §§ 7–7e;
 - c. die Kontrolle des fahrenden Verkehrs hinsichtlich der Widerhandlung gegen Strassenverkehrsvorschriften, die im Ordnungsbussenverfahren geahndet werden:
   - 1\. auf Gemeindestrassen mit oder ohne Einsatz technischer Geräte;
   - 2\. innerorts auf Kantonsstrassen ohne Einsatz technischer Geräte;
-- d. die Ahndung des unbefugten Konsums von Betäubungsmitteln des Wirkungstyps Cannabis im Ordnungsbussenverfahren (Ziff. 8001 der Bussenliste 2 der Ordnungsbussenverordnung [^7f-1]).
+- d. die Ahndung des unbefugten Konsums von Betäubungsmitteln des Wirkungstyps Cannabis im Ordnungsbussenverfahren (Ziff. 8001 der Bussenliste 2 der Ordnungsbussenverordnung[^7f-1]).
 
 [^7f-1]: [SR 314.11](https://db.clex.ch/link/Bund/314.11/de)
 
@@ -226,7 +225,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Übertragung der Kompetenz zur Führung einer Gemeindepolizei setzt voraus, dass:
 
-- a. jede Angestellte und jeder Angestellte der Gemeindepolizei den eidgenössischen Fachausweis oder das Diplom «Polizist/Polizistin» oder «Grenzwächter/Grenzwächterin» oder ein Gleichwertigkeitszertifikat besitzt;
+- a. jede Angestellte und jeder Angestellte der Gemeindepolizei den eidgenössischen Fachausweis oder das Diplom «Polizist»/«Polizistin» oder «Grenzwächter»/«Grenzwächterin» oder ein Gleichwertigkeitszertifikat besitzt;
 - b. die Voraussetzungen für die Erhebung von Ordnungsbussen erfüllt sind (§ 7a).
 
 #### § 7h
@@ -239,7 +238,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Die Gemeinde kann die Gemeindepolizistinnen und Gemeindepolizisten zum Selbst- und Drittschutz bewaffnen.
 
-<sup>4</sup> Der Waffeneinsatz richtet sich nach § 41 Absatz 1 Buchstaben a und b.
+<sup>4</sup> Der Waffeneinsatz richtet sich nach § 41 Abs. 1 Bst. a und b.
 
 #### § 7i
 
@@ -251,8 +250,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - b. Identitätsfeststellungen (§ 21a);
 - c. Befragungen (§ 22);
 - d. Durchsuchung von Personen und beweglichen Sachen (§ 29 und § 30);
-- e. Sicherstellung von Sachen (§ 32 bis § 35);
-- f. polizeilichen Zwang (§ 38 bis § 40).
+- e. Sicherstellung von Sachen (§§ 32–35);
+- f. polizeilichen Zwang (§§ 38–40).
 
 #### § 7j
 
@@ -260,7 +259,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Gemeinde trägt die Kosten der Gemeindepolizei.
 
-<sup>2</sup> Für die Bussenerträge gilt § 7d Absätze 2 und 3.
+<sup>2</sup> Für die Bussenerträge gilt § 7d Abs. 2 und 3.
 
 #### § 7k
 
@@ -282,9 +281,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <table>
 <tr><th>Behörde</th><th>Bereich</th><th>Bussenziffern</th></tr>
-<tr><td>Amt für Migration und Bürgerrecht</td><td>Ausländer- und Integrationsgesetz[^7l-3]</td><td>Bussenliste 2, Kapitel I.</td></tr>
-<tr><td>Amt für Migration und Bürgerrecht</td><td>Asylgesetz[^7l-4]</td><td>Bussenliste 2, Kapitel II.</td></tr>
-<tr><td>Amt für Industrie, Gewerbe und Arbeit (KIGA Baselland)</td><td>Bundesgesetz über unlauteren Wettbewerb[^7l-5]</td><td>Bussenliste 2, Kapitel III.</td></tr>
+<tr><td>Amt für Migration, Integration und Bürgerrecht</td><td>Ausländer- und Integrationsgesetz[^7l-3]</td><td>Bussenliste 2, Kapitel I</td></tr>
+<tr><td>Amt für Migration, Integration und Bürgerrecht</td><td>Asylgesetz[^7l-4]</td><td>Bussenliste 2, Kapitel II</td></tr>
+<tr><td>Kantonales Amt für Industrie, Gewerbe und Arbeit (KIGA)</td><td>Bundesgesetz gegen den unlauteren Wettbewerb[^7l-5]</td><td>Bussenliste 2, Kapitel III</td></tr>
 </table>
 
 [^7l-1]: [SR 314.11](https://db.clex.ch/link/Bund/314.11/de)
@@ -333,12 +332,12 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - d. über gute mündliche und schriftliche Deutschkenntnisse verfügt sowie Kenntnis mindestens einer Fremdsprache aufweist;
 - e. einen guten Leumund besitzt;
 - f. eine den Anforderungen genügende physische und psychische Leistungsfähigkeit aufweist;
-- g. im Besitz eines gültigen Führerausweises der Kategorie B (Artikel 3 Verkehrszulassungsverordnung[^10-1]) ist;
+- g. im Besitz eines gültigen Führerausweises der Kategorie B (Art. 3 Verkehrszulassungsverordnung[^10-1]) ist;
 - h. die Aufnahmeprüfung besteht.
 
 <sup>2</sup> Ausnahmsweise kann aus wichtigen dienstlichen Gründen auf das Erfordernis des Schweizer Bürgerrechts verzichtet werden.
 
-[^10-1]: SR [741.51](https://db.clex.ch/link/Bund/741.51/de)
+[^10-1]: [SR 741.51](https://db.clex.ch/link/Bund/741.51/de)
 
 #### § 11
 
@@ -405,10 +404,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Besondere Schutzmassnahmen**
 
-<sup>1</sup> Nach dem rechtskräftigen Abschluss oder ausserhalb von Strafverfahren ist die Polizei Basel-Landschaft zuständig für Schutzmassnahmen im Sinne Artikel 156 StPO[^16a-1]. Die zu schützenden Personen können insbesondere mit einer Legende im Sinne von Artikel 288 Absatz 1 StPO[^16a-2] und den dafür notwendigen Urkunden ausgestattet werden.
+<sup>1</sup> Nach dem rechtskräftigen Abschluss oder ausserhalb von Strafverfahren ist die Polizei Basel-Landschaft zuständig für Schutzmassnahmen im Sinne von Art. 156 StPO[^16a-1]. Die zu schützenden Personen können insbesondere mit einer Legende im Sinne von Art. 288 Abs. 1 StPO[^16a-2] und den dafür notwendigen Urkunden ausgestattet werden.
 
-[^16a-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
-[^16a-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^16a-1]: [SR312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^16a-2]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 17
 
@@ -418,10 +417,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Geht eine Störung oder Gefährdung der öffentlichen Sicherheit und Ordnung unmittelbar von einem Tier oder einer Sache aus, richtet sich das polizeiliche Handeln gegen diejenige Person, die als Eigentümer oder Eigentümerin oder aus einem anderen Grund die tatsächliche Verfügungsgewalt über das Tier oder die Sache ausübt.
 
-<sup>3</sup> Das polizeiliche Handeln kann sich gegen andere als in Absatz 1 und 2 erwähnte Personen richten, wenn:
+<sup>3</sup> Das polizeiliche Handeln kann sich gegen andere als in Abs. 1 und 2 erwähnte Personen richten, wenn:
 
 - a. eine erhebliche Störung oder eine unmittelbar drohende, erhebliche Gefahr abzuwehren ist und
-- b. Massnahmen gegen die pflichtigen Personen gemäss den Absätzen 1 und 2 nicht rechtzeitig möglich oder erfolgversprechend sind und
+- b. Massnahmen gegen die pflichtigen Personen gemäss den Abs. 1 und 2 nicht rechtzeitig möglich oder erfolgversprechend sind und
 - c. die anderen Personen ohne erhebliche eigene Gefährdung und ohne jede Verletzung höherwertiger Pflichten in Anspruch genommen werden können.
 
 #### § 18
@@ -462,7 +461,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>4</sup> …
 
-[^21-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^21-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 21a
 
@@ -510,8 +509,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Für die Entnahme eines Wangenschleimhautabstrichs und die Erstellung eines DNA-Profils gilt die Schweizerische Strafprozessordnung[^23-1] und das DNA-Profil-Gesetz[^23-2].
 
-[^23-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
-[^23-2]: SR [363](https://db.clex.ch/link/Bund/363/de)
+[^23-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^23-2]: [SR 363](https://db.clex.ch/link/Bund/363/de)
 
 #### § 23a
 
@@ -525,14 +524,14 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Ausschreibung in der Öffentlichkeit**
 
-<sup>1</sup> Die Polizei Basel-Landschaft kann die Öffentlichkeit in gedruckter oder elektronischer Form zur Mithilfe bei der Suche nach Personen oder Sachen auffordern und dabei Bild- und Tonmaterial einsetzen, wenn
+<sup>1</sup> Die Polizei Basel-Landschaft kann die Öffentlichkeit in gedruckter oder elektronischer Form zur Mithilfe bei der Suche nach Personen oder Sachen auffordern und dabei Bild- und Tonmaterial einsetzen, wenn:
 
 - a. eine Person aus einer Einrichtung entwichen ist, in der sie sich aus strafrechtlichen oder fürsorgerischen Gründen aufzuhalten hat oder
 - b. der Aufenthalt einer Person unbekannt ist und dringende Anhaltspunkte für eine schwere Gefährdung ihrer Gesundheit oder ihres Lebens bestehen oder
 - c. eine Sache als verloren gemeldet wurde oder
 - d. dies der Abwehr von Verbrechen oder Vergehen dient.
 
-<sup>2</sup> Die Ausschreibung wird von Amtes wegen oder auf Antrag widerrufen, sobald der Grund dafür weggefallen ist.
+<sup>2</sup> Die Ausschreibung wird von Amts wegen oder auf Antrag widerrufen, sobald der Grund dafür weggefallen ist.
 
 #### § 23c
 
@@ -540,7 +539,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Für strafprozessuale Ausschreibungen gilt die Schweizerische Strafprozessordnung[^23c-1].
 
-[^23c-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^23c-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 24
 
@@ -576,7 +575,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - a. Dritte gefährdet oder Dritten mit einer ernsthaften Gefährdung droht;
 - b. durch ihr Verhalten die unmittelbare Gefahr einer gewalttätigen Auseinandersetzung schafft.
 
-<sup>2</sup> Die Polizei Basel-Landschaft kann eine Person in einem schwerwiegenden Fall von einem bestimmten öffentlichen Ort für höchstens 1 Monat wegweisen, verbunden mit der Androhung der Straffolgen gemäss Artikel 292 des Schweizerischen Strafgesetzbuchs[^26bis-1].
+<sup>2</sup> Die Polizei Basel-Landschaft kann eine Person in einem schwerwiegenden Fall von einem bestimmten öffentlichen Ort für höchstens 1 Monat wegweisen, verbunden mit der Androhung der Straffolgen gemäss Art. 292 des Schweizerischen Strafgesetzbuchs[^26bis-1].
 
 <sup>3</sup> Schwerwiegend ist der Fall namentlich, wenn eine Person:
 
@@ -599,7 +598,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>8</sup> Die Polizei Basel-Landschaft informiert die weggewiesene Person über adäquate Beratungsstellen.
 
-[^26bis-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^26bis-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### § 26a
 
@@ -611,13 +610,13 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - b. ihr die Betretung eines eng umgrenzten Gebietes untersagen;
 - c. ihr verbieten, mit bestimmten Personen in irgendeiner Form Kontakt aufzunehmen.
 
-<sup>2</sup> Die polizeiliche Anordnung dauert 12 Tage. Sie erfolgt unter der Strafandrohung gemäss Artikel 292 StGB[^26a-1].
+<sup>2</sup> Die polizeiliche Anordnung dauert 12 Tage. Sie erfolgt unter der Strafandrohung gemäss Art. 292 StGB[^26a-1].
 
 <sup>3</sup> …
 
-<sup>4</sup> Die Polizei Basel-Landschaft kann die Einhaltung der Schutzmassnahmen gemäss Absatz 1 kontrollieren. Zur Kontrolle können auch technische Überwachungsgeräte, einschliesslich der festen Verbindung mit der zu überwachenden Person, eingesetzt werden.
+<sup>4</sup> Die Polizei Basel-Landschaft kann die Einhaltung der Schutzmassnahmen gemäss Abs. 1 kontrollieren. Zur Kontrolle können auch technische Überwachungsgeräte, einschliesslich der festen Verbindung mit der zu überwachenden Person, eingesetzt werden.
 
-[^26a-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^26a-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### § 26b
 
@@ -625,7 +624,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Polizei Basel-Landschaft informiert die Parteien schriftlich über Beratungsangebote und über die Möglichkeit, gerichtliche Schutzmassnahmen zu verlangen.
 
-<sup>2</sup> Die Polizei Basel-Landschaft übermittelt die Adresse der gefährdeten sowie der weggewiesenen Person umgehend von Amtes wegen:
+<sup>2</sup> Die Polizei Basel-Landschaft übermittelt die Adresse der gefährdeten sowie der weggewiesenen Person umgehend von Amts wegen:
 
 - a. inklusive Sachverhaltsinformationen an die Staatsanwaltschaft oder die Jugendanwaltschaft und
 - b. an die zuständigen Beratungsstellen.
@@ -646,7 +645,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>4</sup> Das Gericht kann für die Dauer der Schutzmassnahmen gemäss Schweizerischem Zivilgesetzbuch den Einsatz technischer Überwachungsgeräte, einschliesslich der festen Verbindung mit der zu überwachenden Person, anordnen.
 
-[^26c-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^26c-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
 
 #### § 27
 
@@ -654,10 +653,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Polizei Basel-Landschaft kann vorübergehend Personen in Gewahrsam nehmen:
 
-- a. die wegen ihres Zustandes oder Verhaltens öffentliches Ärgernis erregen oder die öffentliche Sicherheit und Ordnung gefährden;
+- a. die wegen ihres Zustands oder Verhaltens öffentliches Ärgernis erregen oder die öffentliche Sicherheit und Ordnung gefährden;
 - b. die sich dem Vollzug einer Freiheitsstrafe oder einer anderen freiheitsentziehenden Massnahme entzogen haben;
 - c. soweit dies zur Sicherstellung des Vollzugs einer durch die zuständige Instanz angeordneten Wegweisung, Ausweisung, Landesverweisung oder Auslieferungshaft notwendig ist;
-- d. die in Fällen der häuslichen Gewalt andere Personen ernsthaft gefährden oder diesen mit einer ernsthaften Gefährdung drohen. Es kann gleichzeitig eine Massnahme gemäss § 26a verfügt werden. Die Polizei Basel-Landschaft übermittelt die Adresse der betroffenen Person an die Behörden gemäss § 26b Absatz 2.
+- d. die in Fällen der häuslichen Gewalt andere Personen ernsthaft gefährden oder diesen mit einer ernsthaften Gefährdung drohen. Es kann gleichzeitig eine Massnahme gemäss § 26a verfügt werden. Die Polizei Basel-Landschaft übermittelt die Adresse der betroffenen Person an die Behörden gemäss § 26b Abs. 2.
 
 <sup>2</sup> Die festgehaltene Person hat Anspruch auf:
 
@@ -669,15 +668,15 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>4</sup> ...
 
-<sup>5</sup> Entfällt der Grund für den Gewahrsam, spätestens aber nach 24 Stunden, muss die Polizei Basel-Landschaft die festgehaltene Person in jedem Fall aus dem Polizeigewahrsam entlassen, sofern die Fortdauer des Freiheitsentzuges nicht aufgrund eines anderen Gesetzes angeordnet worden ist.
+<sup>5</sup> Entfällt der Grund für den Gewahrsam, spätestens aber nach 24 Stunden, muss die Polizei Basel-Landschaft die festgehaltene Person in jedem Fall aus dem Polizeigewahrsam entlassen, sofern die Fortdauer des Freiheitsentzugs nicht aufgrund eines anderen Gesetzes angeordnet worden ist.
 
 #### § 27a
 
 **Polizeigewahrsam bei Gewalt an Sportveranstaltungen**
 
-<sup>1</sup> Der Polizeigewahrsam für gewalttätige Personen anlässlich von Sportveranstaltungen richtet sich nach dem Konkordat vom 15. November 2007[^27a-1] über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen .
+<sup>1</sup> Der Polizeigewahrsam für gewalttätige Personen anlässlich von Sportveranstaltungen richtet sich nach dem Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^27a-1] .
 
-<sup>2</sup> Für die richterliche Überprüfung der Rechtmässigkeit des Polizeigewahrsams gemäss Artikel 8 Absatz 5 des Konkordats vom 15. November 2007[^27a-2] über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen ist das Präsidium des Zwangsmassnahmengerichts zuständig.
+<sup>2</sup> Für die richterliche Überprüfung der Rechtmässigkeit des Polizeigewahrsams gemäss Art. 8 Abs. 5 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^27a-2] ist das Präsidium des Zwangsmassnahmengerichts zuständig.
 
 <sup>3</sup> Ist eine richterliche Überprüfung erst kurz vor oder zeitgleich mit dem Vollzug des Polizeigewahrsams möglich, so erfolgt sie ohne Verzug.
 
@@ -689,8 +688,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>7</sup> ...
 
-[^27a-1]: GS 36.1298, SGS [702.14](https://bl.clex.ch/data/702.14/de)
-[^27a-2]: GS 36.1299, SGS [702.14](https://bl.clex.ch/data/702.14/de)
+[^27a-1]: [SGS 702.14](https://bl.clex.ch/data/702.14/de)
+[^27a-2]: [SGS 702.14](https://bl.clex.ch/data/702.14/de)
 
 #### § 28
 
@@ -700,7 +699,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> …
 
-[^28-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de), Art. 198
+[^28-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de), Art. 198.
 
 #### § 29
 
@@ -715,7 +714,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Die Durchsuchung ist von einer Person gleichen Geschlechts oder von einem Arzt oder einer Ärztin vorzunehmen, es sei denn, diese Massnahme ertrage keinen Aufschub.
 
-<sup>3</sup> Die Entkleidung der betroffenen Person ist nur soweit zulässig, als dies für die Durchsuchung unbedingt erforderlich ist. Sie ist von einer Person gleichen Geschlechts oder von einem Arzt oder einer Ärztin vorzunehmen. Menschenwürde und Schamgefühl sind zu achten.
+<sup>3</sup> Die Entkleidung der betroffenen Person ist nur so weit zulässig, als dies für die Durchsuchung unbedingt erforderlich ist. Sie ist von einer Person gleichen Geschlechts oder von einem Arzt oder einer Ärztin vorzunehmen. Menschenwürde und Schamgefühl sind zu achten.
 
 #### § 30
 
@@ -727,15 +726,15 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - b. der dringende Verdacht besteht, dass sich in ihnen eine Person befindet, die widerrechtlich festgehalten wird oder die in Gewahrsam genommen werden darf;
 - c. der dringende Verdacht besteht, dass sich in ihnen ein Gegenstand befindet, der sichergestellt werden darf.
 
-<sup>2</sup> Die Durchsuchung wird soweit möglich in Anwesenheit jener Person durchgeführt, welche die Sachherrschaft ausübt. Ist sie abwesend, so muss ein Vertreter oder eine Vertreterin oder ein Zeuge oder eine Zeugin beigezogen werden.
+<sup>2</sup> Die Durchsuchung wird, soweit möglich, in Anwesenheit jener Person durchgeführt, welche die Sachherrschaft ausübt. Ist sie abwesend, so muss ein Vertreter oder eine Vertreterin oder ein Zeuge oder eine Zeugin beigezogen werden.
 
 #### § 31
 
-**Betreten und Durchsuchen von nicht-öffentlichen Grundstücken und Räumen**
+**Betreten und Durchsuchen von nicht öffentlichen Grundstücken und Räumen**
 
-<sup>1</sup> Die Polizei Basel-Landschaft darf nicht-öffentliche Grundstücke und Räume ohne Einwilligung der berechtigten Person betreten und durchsuchen, soweit es zur Abwehr einer unmittelbar drohenden Gefahr erforderlich ist.
+<sup>1</sup> Die Polizei Basel-Landschaft darf nicht öffentliche Grundstücke und Räume ohne Einwilligung der berechtigten Person betreten und durchsuchen, soweit es zur Abwehr einer unmittelbar drohenden Gefahr erforderlich ist.
 
-<sup>2</sup> § 30 Absatz 2 gilt sinngemäss.
+<sup>2</sup> § 30 Abs. 2 gilt sinngemäss.
 
 #### § 32
 
@@ -781,22 +780,22 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Kosten der Sicherstellung, Verwahrung, Verwertung und Entsorgung**
 
-<sup>1</sup> Die gemäss § 17 Absätze 1 und 2 verantwortlichen Personen tragen die Kosten für die Sicherstellung, Verwahrung, Verwertung und Entsorgung.
+<sup>1</sup> Die gemäss § 17 Abs. 1 und 2 verantwortlichen Personen tragen die Kosten für die Sicherstellung, Verwahrung, Verwertung und Entsorgung.
 
 <sup>2</sup> Die Polizei Basel-Landschaft kann die Herausgabe der Sache oder des Erlöses von der Zahlung der Kosten abhängig machen. Wird die Bezahlung nach erfolgloser Ansetzung einer angemessenen Frist verweigert, kann die Sache verwertet werden.
 
 #### § 36
 
-**Präventive Observation; Begriff, Anordnung, Genehmigung und Voraussetzungen**
+**Präventive Observation: Begriff, Anordnung, Genehmigung und Voraussetzungen**
 
 <sup>1</sup> Als präventive Observation gilt das planmässig angelegte Beobachten von Personen oder Personenkreisen zur Verhinderung von Straftaten oder zur Gefahrenabwehr, wobei Bild- und Tonaufnahmen gemacht werden können.
 
-<sup>2</sup> Betrifft die präventive Observation nicht-öffentliche Vorgänge, gelten die Bestimmungen der Strafprozessordnung über den Einsatz technischer Überwachungsgeräte sinngemäss.
+<sup>2</sup> Betrifft die präventive Observation nicht öffentliche Vorgänge, gelten die Bestimmungen der Strafprozessordnung über den Einsatz technischer Überwachungsgeräte sinngemäss.
 
-<sup>3</sup> Der Leiter oder die Leiterin der Polizei Basel-Landschaft kann präventive Observationen anordnen. Präventive Observationen bedürfen der Genehmigung durch das Präsidium des Zwangsmassnahmengerichts, wenn sie:
+<sup>3</sup> Der Leiter oder die Leiterin der Polizei Basel-Landschaft kann präventive Observationen anordnen. Präventive Observationen bedürfen der Genehmigung durch das Präsidium des Zwangsmassnahmengerichts, wenn:
 
-- a. voraussichtlich innerhalb einer Woche länger als 24 Stunden dauern oder wenn sie
-- b. über den Zeitraum einer Woche hinaus stattfinden oder wenn
+- a. sie voraussichtlich innerhalb 1 Woche länger als 24 Stunden dauern oder
+- b. sie über den Zeitraum von 1 Woche hinaus stattfinden oder
 - c. die Zielpersonen in Räumen beobachtet werden, die nicht öffentlich zugänglich sind.
 
 <sup>4</sup> Die Anordnung bleibt längstens 3 Monate in Kraft. Sie kann durch den Leiter oder die Leiterin der Polizei Basel-Landschaft um jeweils höchstens 3 Monate verlängert werden. Die Verlängerung bedarf der Genehmigung durch das Präsidium des Zwangsmassnahmengerichts.
@@ -810,7 +809,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Aktenmässige Erfassung, Mitteilungspflicht, Beschwerde**
 
-<sup>1</sup> Die wesentlichen Aspekte der präventiven Observation, insbesondere deren Dauer, der observierte Personenkreis und die dabei gemachten Feststellungen werden aktenmässig erfasst.
+<sup>1</sup> Die wesentlichen Aspekte der präventiven Observation, insbesondere deren Dauer, der observierte Personenkreis und die dabei gemachten Feststellungen, werden aktenmässig erfasst.
 
 <sup>2</sup> Die betroffenen Personen sind über die Massnahme der präventiven Observation zu unterrichten, sobald dies ohne Gefährdung des Zwecks der Massnahme geschehen kann.
 
@@ -837,8 +836,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Zur Erkennung und Verhinderung von Verbrechen und Vergehen können Angehörige der Polizei Basel-Landschaft:
 
-- a. mit anderen Personen Kontakt aufnehmen, ohne ihre wahre Identität und Funktion bekannt zu geben und dabei
-- b. Scheingeschäfte abschliessen oder den Willen zum Abschluss vortäuschen.
+- a. mit anderen Personen Kontakt aufnehmen, ohne ihre wahre Identität und Funktion bekannt zu geben, und
+- b. dabei Scheingeschäfte abschliessen oder den Willen zum Abschluss vortäuschen.
 
 <sup>2</sup> Die wahre Identität und Funktion der verdeckten Fahnderinnen und Fahnder wird in den Verfahrensakten und bei Einvernahmen offen gelegt.
 
@@ -848,7 +847,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Ein polizeilicher Einsatzleiter kann eine verdeckte Fahndung anordnen, wenn:
 
-- a. hinreichende Anzeichen bestehen, dass es zu Verbrechen oder Vergehen kommen könnte sowie
+- a. hinreichende Anzeichen bestehen, dass es zu Verbrechen oder Vergehen kommen könnte, sowie
 - b. andere Massnahmen erfolglos geblieben sind oder die Prävention sonst aussichtslos wäre oder unverhältnismässig erschwert würde.
 
 <sup>2</sup> Hat eine verdeckte Fahndung 1 Monat gedauert, kann sie das Zwangsmassnahmengericht auf Gesuch hin einmal oder mehrmals um jeweils höchstens 3 Monate verlängern.
@@ -859,9 +858,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Ausschreibung von Personen und Sachen zwecks verdeckter Registrierung**
 
-<sup>1</sup> Die Polizei Basel-Landschaft kann Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container im Sinne von Artikel 33 und 34 der N-SIS-Verordnung[^37c-1] zwecks verdeckter Registrierung und gezielter Kontrolle ausschreiben.
+<sup>1</sup> Die Polizei Basel-Landschaft kann Personen, Fahrzeuge, Wasserfahrzeuge, Luftfahrzeuge und Container im Sinne von Art. 33 und 34 der N-SIS-Verordnung[^37c-1] zwecks verdeckter Registrierung und gezielter Kontrolle ausschreiben.
 
-[^37c-1]: SR [362.0](https://db.clex.ch/link/Bund/362.0/de)
+[^37c-1]: [SR 362.0](https://db.clex.ch/link/Bund/362.0/de)
 
 #### § 37d
 
@@ -874,7 +873,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - c. zur Vermisstensuche;
 - d. zur Identifizierung von Unfallopfern.
 
-[^37d-1]: GS 34.1331, SGS [540](https://bl.clex.ch/data/540/de)
+[^37d-1]: [SGS 540](https://bl.clex.ch/data/540/de)
 
 ### 5.3 Polizeilicher Zwang
 
@@ -914,11 +913,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
   - 1\. wenn Personen, die ein schweres Verbrechen begangen haben oder eines solchen dringend verdächtigt sind, sich der Festnahme oder einem bereits angeordneten Freiheitsentzug durch Flucht zu entziehen versuchen;
   - 2\. wenn die Polizistin oder der Polizist aufgrund erhaltener Informationen oder eigener Feststellungen annehmen muss, dass Personen für andere eine unmittelbar drohende Gefahr für Leib und Leben darstellen und sich diese der Festnahme oder einem bereits angeordneten Freiheitsentzug durch Flucht zu entziehen versuchen;
   - 3\. zur Befreiung von Geiseln;
-  - 4\. zur Verhinderung eines unmittelbar drohenden schweren Verbrechens an Einrichtungen, die der Allgemeinheit dienen oder die für die Allgemeinheit wegen ihres Schadenpotentials eine besondere Gefahr bilden.
+  - 4\. zur Verhinderung eines unmittelbar drohenden schweren Verbrechens an Einrichtungen, die der Allgemeinheit dienen oder die für die Allgemeinheit wegen ihres Schadenpotenzials eine besondere Gefahr bilden.
 
 <sup>2</sup> Dem Schusswaffengebrauch hat ein deutlicher Warnruf vorauszugehen, sofern der Zweck und die Umstände es zulassen.
 
-<sup>3</sup> Ein Warnschuss darf nur abgegeben werden, wenn ein Warnruf erfolglos bleibt oder die Umstände die Wirkung eines Warnrufes vereiteln.
+<sup>3</sup> Ein Warnschuss darf nur abgegeben werden, wenn ein Warnruf erfolglos bleibt oder die Umstände die Wirkung eines Warnrufs vereiteln.
 
 <sup>4</sup> Überdies ist ein Warnschuss nur dann zulässig, wenn die Voraussetzungen auch für einen gezielten Schusswaffengebrauch gegeben sind und wenn Dritte nicht ernsthaft gefährdet werden.
 
@@ -944,7 +943,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Der Lauf der Beschwerdefrist und die Beschwerdeerhebung haben keine aufschiebende Wirkung.
 
-<sup>4</sup> Hat das Gericht über Schutzmassnahmen entschieden, treten diese anstelle der Massnahmen nach § 26a und das Beschwerdeverfahren fällt dahin.
+<sup>4</sup> Hat das Gericht über Schutzmassnahmen entschieden, treten diese an die Stelle der Massnahmen nach § 26a, und das Beschwerdeverfahren fällt dahin.
 
 <sup>5</sup> Im Beschwerdeverfahren kann die Anhörung der Parteien schriftlich oder mündlich oder anlässlich einer Parteiverhandlung erfolgen. Die Vorladungen erfolgen formlos. Ist keine Stellungnahme erhältlich zu machen, entscheidet das Zivilkreisgerichtspräsidium aufgrund der vorliegenden Grundlagen.
 
@@ -952,7 +951,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>7</sup> Die Bestimmungen des Gesetzes über die Verfassungs- und Verwaltungsprozessordnung[^42a-1] gelten sinngemäss.
 
-[^42a-1]: GS 31.847, SGS [271](https://bl.clex.ch/data/271/de)
+[^42a-1]: [SGS 271](https://bl.clex.ch/data/271/de)
 
 ## 6 Videoüberwachung und Datenabgleich
 
@@ -973,9 +972,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - c. um Angehörige von Toten und von Personen in handlungsunfähigem Zustand zu informieren;
 - d. um im Ereignisfall klären zu können, wie viele Personen in einer Liegenschaft gemeldet sind.
 
-<sup>2</sup> Die Abfrageberechtigungen im Einzelnen regelt die Verordnung gemäss § 14 Absatz 3 des Anmeldungs- und Registergesetzes (ARG)[^43a-1].
+<sup>2</sup> Die Abfrageberechtigungen im Einzelnen regelt die Verordnung gemäss § 14 Abs. 3 des Anmeldungs- und Registergesetzes (ARG)[^43a-1].
 
-[^43a-1]: GS 36.752, SGS [111](https://bl.clex.ch/data/111/de)
+[^43a-1]: [SGS 111](https://bl.clex.ch/data/111/de/art14)
 
 #### § 44
 
@@ -993,8 +992,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Der Datenaustausch nach Abs. 1 darf im Abrufverfahren erfolgen; für jedes Abrufverfahren sind die Zugriffsberechtigungen und Modalitäten festzulegen.
 
 [^44a-1]: [SGS 162](https://bl.clex.ch/data/162/de)
-[^44a-2]: [SGS 162](https://bl.clex.ch/data/162/de)
-[^44a-3]: [SGS 162](https://bl.clex.ch/data/162/de)
+[^44a-2]: [SGS 162](https://bl.clex.ch/data/162/de/art3)
+[^44a-3]: [SGS 162](https://bl.clex.ch/data/162/de/art18)
 
 #### § 44b
 
@@ -1016,15 +1015,15 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **ViCLAS-Konkordat, Zuständigkeiten**
 
-<sup>1</sup> Das Zwangsmassnahmengericht ist zuständig für die Verlängerung der Löschungsfrist in Fällen erheblicher Wiederholungsgefahr (Artikel 13 Absatz 1 Buchstabe b ViCLAS-Konkordat[^45a-1]).
+<sup>1</sup> Das Zwangsmassnahmengericht ist zuständig für die Verlängerung der Löschungsfrist in Fällen erheblicher Wiederholungsgefahr (Art. 13 Abs. 1 Bst. b ViCLAS-Konkordat[^45a-1]).
 
-<sup>2</sup> Zuständig für die Meldung an die ViCLAS-Zentralstelle (Artikel 13 Absatz 3 ViCLAS-Konkordat) sind:
+<sup>2</sup> Zuständig für die Meldung an die ViCLAS-Zentralstelle (Art. 13 Abs. 3 ViCLAS-Konkordat) sind:
 
-- a. die Sicherheitsdirektion bezüglich Beginn und Ende einer Freiheitsstrafe oder einer stationären Massnahme (Artikel 13 Absatz 1 Buchstabe d ViCLAS-Konkordat);
-- b. die Gerichte bezüglich Freisprüchen oder anderen Entscheiden mit welchen ein Tatverdacht definitiv ausgeräumt wird (Artikel 13 Absatz 1 Buchstaben e und f ViCLAS-Konkordat);
-- c. die Polizei Basel-Landschaft beziehungsweise die Staatsanwaltschaft bezüglich definitiver Ausräumung eines Verdachts (Artikel 13 Absatz 1 Buchstabe e ViCLAS-Konkordat).
+- a. die Sicherheitsdirektion bezüglich Beginn und Ende einer Freiheitsstrafe oder einer stationären Massnahme (Art. 13 Abs. 1 Bst. d ViCLAS-Konkordat);
+- b. die Gerichte bezüglich Freisprüchen oder anderen Entscheiden, mit welchen ein Tatverdacht definitiv ausgeräumt wird (Art. 13 Abs. 1 Bst. e und f ViCLAS-Konkordat);
+- c. die Polizei Basel-Landschaft beziehungsweise die Staatsanwaltschaft bezüglich definitiver Ausräumung eines Verdachts (Art. 13 Abs. 1 Bst. e ViCLAS-Konkordat).
 
-[^45a-1]: GS 37.521, SGS [700.14](https://bl.clex.ch/data/700.14/de)
+[^45a-1]: [SGS 700.14](https://bl.clex.ch/data/700.14/de)
 
 #### § 45b
 
@@ -1059,9 +1058,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Personenbezogene Videoüberwachung des öffentlichen Raums**
 
-<sup>1</sup> Die Direktionen, die Landeskanzlei, das Kantonsgericht, die selbständigen Verwaltungsbetriebe sowie die Gemeinden können - zum Schutz von Angestellten oder von Objekten und in ihrem jeweiligen Verantwortlichkeitsbereich - eine örtlich begrenzte Überwachung allgemein und nicht allgemein zugänglicher öffentlicher Orte mit Videokameras anordnen, welche die Personenidentifikation zulassen.
+<sup>1</sup> Die Direktionen, die Landeskanzlei, das Kantonsgericht, die selbständigen Verwaltungsbetriebe sowie die Gemeinden können – zum Schutz von Angestellten oder von Objekten und in ihrem jeweiligen Verantwortlichkeitsbereich – eine örtlich begrenzte Überwachung allgemein und nicht allgemein zugänglicher öffentlicher Orte mit Videokameras anordnen, welche die Personenidentifikation zulassen.
 
-<sup>2</sup> Die Videoüberwachung darf nur die Verhinderung und Ahndung von Straftaten bezwecken. Sie muss verhältnismässig sein, d.h.
+<sup>2</sup> Die Videoüberwachung darf nur die Verhinderung und Ahndung von Straftaten bezwecken. Sie muss verhältnismässig sein, d. h.:
 
 - a. sie muss geeignet sein, Straftaten zu verhindern oder deren Ahndung zu erleichtern, und
 - b. deren Zweck darf nicht durch eine mildere Massnahme erreichbar sein.
@@ -1100,16 +1099,16 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Herausgabe, Information und Aufbewahrung der Videoaufzeichnungen**
 
-<sup>1</sup> Videoaufzeichnungsdaten, Kopien und Ausdrucke dürfen zur strafrechtlichen Verfolgung sowie zur Verfolgung zivilrechtlicher Ansprüche auf Grund von Straftaten an die zuständigen Behörden weitergegeben werden.
+<sup>1</sup> Videoaufzeichnungsdaten, Kopien und Ausdrucke dürfen zur strafrechtlichen Verfolgung sowie zur Verfolgung zivilrechtlicher Ansprüche aufgrund von Straftaten an die zuständigen Behörden weitergegeben werden.
 
 <sup>2</sup> Für die Herausgabe, die Information der betroffenen Person und die Aufbewahrung gelten die straf- und zivilprozessualen Vorschriften.
 
-<sup>3</sup> Aufzeichnungsdaten, Kopien und Ausdrucke aus personenbezogener Videoüberwachung werden, unter Vorbehalt von Buchstabe d, je nach dem im Betriebsreglement festgelegten Einsatzzweck spätestens nach Ablauf folgender Aufbewahrungsfristen vernichtet:
+<sup>3</sup> Aufzeichnungsdaten, Kopien und Ausdrucke aus personenbezogener Videoüberwachung werden, unter Vorbehalt von Bst. d, je nach dem im Betriebsreglement festgelegten Einsatzzweck spätestens nach Ablauf folgender Aufbewahrungsfristen vernichtet:
 
 - a. Übertretungen sowie Sachbeschädigungen an öffentlichen Einrichtungen: 30 Tage;
 - b. Verbrechen und Vergehen, ausgenommen Sachbeschädigungen an öffentlichen Einrichtungen: 365 Tage;
-- c. bei gemischter Nutzung gilt eine Aufbewahrungsfrist von 365 Tagen, jedoch findet nach 30 Tagen keine Auswertung für Delikte nach Buchstabe a mehr statt;
-- d. laufen polizeiliche Ermittlungen, so stehen die Fristen gemäss Buchstaben a-c still, bis die Staatsanwaltschaft oder dieJugendanwaltschaft über die Beschlagnahme der betreffenden Videosequenz entschieden hat.
+- c. bei gemischter Nutzung gilt eine Aufbewahrungsfrist von 365 Tagen, jedoch findet nach 30 Tagen keine Auswertung für Delikte nach Bst. a mehr statt;
+- d. laufen polizeiliche Ermittlungen, so stehen die Fristen gemäss Bst. a–c still, bis die Staatsanwaltschaft oder die Jugendanwaltschaft über die Beschlagnahme der betreffenden Videosequenz entschieden hat.
 
 #### § 45f
 
@@ -1139,10 +1138,24 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Polizei Basel-Landschaft schliesst ihre Informationssysteme an den Nationalen Polizeiindex[^45g-1] an.
 
-<sup>2</sup> Der Umfang der erfassten Daten richtet sich nach Artikel 17 Absatz 3 BPI[^45g-2].
+<sup>2</sup> Der Umfang der erfassten Daten richtet sich nach Art. 17 Abs. 3 BPI[^45g-2].
 
-[^45g-1]: SR [361](https://db.clex.ch/link/Bund/361/de), Art. 17
-[^45g-2]: SR [361](https://db.clex.ch/link/Bund/361/de)
+[^45g-1]: [SR 361](https://db.clex.ch/link/Bund/361/de), Art. 17.
+[^45g-2]: [SR 361](https://db.clex.ch/link/Bund/361/de)
+
+#### § 45gbis
+
+**Datenschutzberatung**
+
+<sup>1</sup> Die Polizei Basel-Landschaft bezeichnet eine Datenschutzberaterin oder einen Datenschutzberater.
+
+<sup>2</sup> Sie oder er:
+
+- a. berät und unterstützt bei der Bearbeitung von Personendaten,
+- b. nimmt Datenschutz-Folgenabschätzungen vor (§ 11a Informations- und Datenschutzgesetz, IDG[^45gbis-1]) und
+- c. arbeitet mit der Aufsichtsstelle Datenschutz (§ 35 IDG) zusammen.
+
+[^45gbis-1]: [SGS 162](https://bl.clex.ch/data/162/de/art11a)
 
 ## 7 Überwachung des Fernmeldeverkehrs (Vermisstensuche, Fahndung nach verurteilten Personen)
 
@@ -1156,7 +1169,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Gegen den Entscheid des Präsidiums des Zwangsmassnahmengerichts kann beim Kantonsgericht, Abteilung Verfassungs- und Verwaltungsrecht, Beschwerde erhoben werden.
 
-[^45h-1]: SR [780.1](https://db.clex.ch/link/Bund/780.1/de)
+[^45h-1]: [SR 780.1](https://db.clex.ch/link/Bund/780.1/de)
 
 #### § 45i
 
@@ -1188,7 +1201,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Die Geschäftsprüfungskommission des Landrats nimmt die Oberaufsicht im Rahmen des Bundesrechts wahr.
 
-[^47-1]: SR [120](https://db.clex.ch/link/Bund/120/de)
+[^47-1]: [SR 120](https://db.clex.ch/link/Bund/120/de)
 
 ## 9 Polizeiliche Kompetenzen ausserhalb der Polizei Basel-Landschaft
 
@@ -1198,7 +1211,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Mitarbeitende des Kantons können mit polizeilichen Befugnissen ausgestattet werden, wenn und soweit dies zur Erfüllung ihrer Aufgaben nötig ist und in einem Gesetz ausdrücklich vorgesehen ist.
 
-<sup>2</sup> Die Mitarbeitenden müssen über die für ihren Auftrag, ihre Befugnisse und ihre Bewaffnung notwendige Ausbildung aufweisen und werden namentlich beauftragt.
+<sup>2</sup> Die Mitarbeitenden müssen die für ihren Auftrag, ihre Befugnisse und ihre Bewaffnung notwendige Ausbildung aufweisen und werden namentlich beauftragt.
 
 #### § 47b
 
@@ -1209,7 +1222,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - a. Durchsuchung von Personen (§ 29);
 - b. Durchsuchung von beweglichen Sachen (§ 30);
 - c. Sicherstellung von beweglichen Sachen (§ 32);
-- d. Anwendung von Zwang (§§ 38-41).
+- d. Anwendung von Zwang (§§ 38–41).
 
 #### § 47c
 
@@ -1220,7 +1233,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - a. Durchsuchung von Personen (§ 29);
 - b. Durchsuchung von beweglichen Sachen (§ 30);
 - c. Sicherstellung von beweglichen Sachen (§ 32);
-- d. Anwendung von Zwang (§§ 38-40).
+- d. Anwendung von Zwang (§§ 38–40).
 
 <sup>2</sup> Zur Gewährleistung der Sicherheit in weiteren Gebäuden, die von Kanton, Gemeinden oder selbständigen Betrieben genutzt werden, kann der Regierungsrat den Mitarbeitenden der Eingangskontrolle die gleichen Befugnisse erteilen.
 
@@ -1242,7 +1255,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Abklärung der Gefährdungslage, Gefährderansprache, Ermahnung**
 
-<sup>1</sup> Droht eine gefährdende Person konkret damit, dass sie eine Straftat im Sinne von § 47d Absatz 1 begehen wird, oder stellt sie eine solche auf andere Weise in Aussicht, kann die für das Bedrohungsmanagement zuständige Stelle:
+<sup>1</sup> Droht eine gefährdende Person konkret damit, dass sie eine Straftat im Sinne von § 47d Abs. 1 begehen wird, oder stellt sie eine solche auf andere Weise in Aussicht, kann die für das Bedrohungsmanagement zuständige Stelle:
 
 - a. Abklärungen zur Einschätzung der Gefährlichkeit dieser Person und betreffend notwendige Massnahmen treffen;
 - b. die dafür notwendigen Daten einschliesslich besonderer Personendaten erheben und diese mit den relevanten Stellen austauschen;
@@ -1253,7 +1266,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - a. einer Vorladung bisher ohne hinreichenden Grund nicht Folge geleistet wurde oder
 - b. Gefahr im Verzug ist.
 
-<sup>3</sup> Die Abklärungen und die Gefährderansprache sowie die Ermahnung können auch am Aufenthaltsort der gefährdenden Person erfolgen, wenn es für die Einschätzung des Risikopotentials erforderlich ist, namentlich zur Einschätzung der Lebensumstände, der Familienverhältnisse oder der Paardynamik. Liegen Gründe gemäss Absatz 2 vor, sind auch eine zwangsweise Gefährderansprache und eine Ermahnung am Aufenthaltsort zulässig.
+<sup>3</sup> Die Abklärungen und die Gefährderansprache sowie die Ermahnung können auch am Aufenthaltsort der gefährdenden Person erfolgen, wenn es für die Einschätzung des Risikopotenzials erforderlich ist, namentlich zur Einschätzung der Lebensumstände, der Familienverhältnisse oder der Paardynamik. Liegen Gründe gemäss Abs. 2 vor, sind auch eine zwangsweise Gefährderansprache und eine Ermahnung am Aufenthaltsort zulässig.
 
 <sup>4</sup> Die für das Bedrohungsmanagement zuständige Stelle informiert die gefährdende Person zu Beginn des Gesprächs darüber:
 
@@ -1271,10 +1284,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Behörden nach § 3 Abs. 1 des Informations- und Datenschutzgesetzes[^47f-1] sowie Medizinalpersonen im Sinne von § 22 des Gesundheitsgesetzes[^47f-2] dürfen der für das Bedrohungsmanagement zuständigen Stelle Meldungen betreffend gefährdende Personen erstatten.
 
-<sup>3</sup> Die Datenweitergabe nach Absatz 1 wird der gefährdenden Person mitgeteilt, soweit und solange dadurch nicht die Erfüllung der gesetzlichen Aufgabe ernsthaft gefährdet wird.
+<sup>3</sup> Die Datenweitergabe nach Abs. 1 wird der gefährdenden Person mitgeteilt, soweit und solange dadurch nicht die Erfüllung der gesetzlichen Aufgabe ernsthaft gefährdet wird.
 
-[^47f-1]: GS 37.1165, SGS [162](https://bl.clex.ch/data/162/de/art3)
-[^47f-2]: GS 36.0808, SGS [901](https://bl.clex.ch/data/901/de/art22)
+[^47f-1]: [SGS 162](https://bl.clex.ch/data/162/de/art3)
+[^47f-2]: [SGS 901](https://bl.clex.ch/data/901/de/art22)
 
 ## 10 Rechte und Pflichten Privater
 
@@ -1300,7 +1313,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> In diesem Gesetz gelten als
 
-- a. Sicherheitsdienstleistungen folgende Tätigkeiten, unter Vorbehalt von Absatz 2:
+- a. Sicherheitsdienstleistungen folgende Tätigkeiten, unter Vorbehalt von Abs. 2:
   - 1\. Türsteherdienste;
   - 2\. …
   - 3\. Bewachungs- und Überwachungsdienste;
@@ -1331,7 +1344,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Ausländische Sicherheitsunternehmen, die sich auf das Freizügigkeitsabkommen[^51b-1] mit der EU berufen können, sind von der Bewilligungspflicht ausgenommen.
 
-[^51b-1]: [SR 0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/de), Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit.
+[^51b-1]: [SR 0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/de), Abkommen zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit vom 21. Juni 1999.
 
 #### § 51c
 
@@ -1446,11 +1459,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Übertragung von polizeilichen Aufgaben an Private**
 
-<sup>1</sup> Der Kanton und die Gemeinden können nicht-hoheitliche polizeiliche Aufgaben durch Vertrag Privaten übertragen.
+<sup>1</sup> Der Kanton und die Gemeinden können nicht hoheitliche polizeiliche Aufgaben durch Vertrag Privaten übertragen.
 
-<sup>2</sup> Die Kompetenz, im Rahmen der Kontrollen gemäss § 7 Buchstaben a und b Übertretungen von Strassenverkehrsvorschriften im Ordnungsbussenverfahren zu ahnden, kann durch Vertrag an Private übertragen werden.
+<sup>2</sup> Die Kompetenz, im Rahmen der Kontrollen gemäss § 7 Bst. a und b Übertretungen von Strassenverkehrsvorschriften im Ordnungsbussenverfahren zu ahnden, kann durch Vertrag an Private übertragen werden.
 
-<sup>3</sup> Umfang, Rechte und Pflichten richten sich nach §§ 51b ff. sowie den allfälligen zusätzlichen Einschränkungen des individuellen Vertrags.
+<sup>3</sup> Umfang, Rechte und Pflichten richten sich nach § 51b ff. sowie den allfälligen zusätzlichen Einschränkungen des individuellen Vertrags.
 
 <sup>4</sup> Die Aufsicht, insbesondere über die Einhaltung der Grundrechte, verbleibt beim Kanton oder der Gemeinde.
 
@@ -1490,7 +1503,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>4</sup> Die Rechtmässigkeit der Massnahme, für die Vollzugshilfe geleistet werden soll, richtet sich nach dem für die ersuchende Behörde geltenden Recht, und die Durchführung der Massnahme nach dem für die Polizeiorgane geltenden Recht.
 
-<sup>5</sup> Vollzugshilfe darf nur soweit geleistet werden, als sie erforderlich ist.
+<sup>5</sup> Vollzugshilfe darf nur so weit geleistet werden, als sie erforderlich ist.
 
 ## 12 Schadenersatz, Kostenersatz, Gebühren, Inkasso
 
@@ -1515,7 +1528,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>3</sup> Kostenersatz wird verlangt:
 
 - a. von der Veranstalterin oder dem Veranstalter gemäss § 55a;
-- b. vom Verursacher oder von der Verursacherin ausserordentlicher Aufwendungen, die bei einem anderen Polizeieinsatz entstehen, namentlich wenn er vorsätzlich oder grobfahrlässig verursacht worden ist oder wenn er in überwiegend privatem Interesse erfolgt ist;
+- b. vom Verursacher oder von der Verursacherin ausserordentlicher Aufwendungen, die bei einem anderen Polizeieinsatz entstehen, namentlich, wenn er vorsätzlich oder grobfahrlässig verursacht worden ist oder wenn er in überwiegend privatem Interesse erfolgt ist;
 - c. bei durchgeführtem Polizeigewahrsam gemäss § 55c;
 - d. bei einem Polizeieinsatz aufgrund eines Fehlalarms einer privaten Alarmanlage.
 
@@ -1529,11 +1542,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> Eine Überschreitung der normalen polizeilichen Grundversorgung liegt dann vor, wenn die Polizei Basel-Landschaft für die Veranstaltung ein spezielles Polizeiaufgebot vorsieht.
 
-<sup>3</sup> Die Sicherheitsdirektion reduziert den Kostenersatz auf Antrag der Veranstalterin oder des Veranstalters um maximal 50%, sofern die Veranstalterin oder der Veranstalter den Massnahmenkatalog der Polizei Basel-Landschaft zur Vermeidung von Polizeieinsatzkosten ganz oder teilweise umsetzt.
+<sup>3</sup> Die Sicherheitsdirektion reduziert den Kostenersatz auf Antrag der Veranstalterin oder des Veranstalters um maximal 50 %, sofern die Veranstalterin oder der Veranstalter den Massnahmenkatalog der Polizei Basel-Landschaft zur Vermeidung von Polizeieinsatzkosten ganz oder teilweise umsetzt.
 
 <sup>4</sup> Der Regierungsrat kann teilweise oder ganz auf den Kostenersatz verzichten, um Veranstaltungen von erheblicher gesellschaftlicher, kultureller, sportlicher oder wirtschaftlicher Bedeutung zu gewinnen oder zu erhalten.
 
-<sup>5</sup> Auf Gesuch hin legt die Polizei Basel-Landschaft vor der geplanten Veranstaltung den Kostenersatz wie folgt in Franken fest:
+<sup>5</sup> Auf Gesuch hin legt die Polizei Basel-Landschaft vor der geplanten Veranstaltung den Kostenersatz wie folgt in CHF fest:
 
 - a. als Betrag pro Veranstaltungsbesucherin oder -besucher oder
 - b. als Pauschalbetrag oder
@@ -1563,11 +1576,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Gebühren bei Polizeigewahrsam**
 
-<sup>1</sup> Personen, welche gemäss § 27 Absatz 1 Buchstabe a (öffentliches Ärgernis, Gefährdung der öffentlichen Sicherheit und Ordnung) in Polizeigewahrsam genommen wurden, werden die vollen mit dem Polizeigewahrsam verbundenen Kosten auferlegt.
+<sup>1</sup> Personen, welche gemäss § 27 Abs. 1 Bst. a (öffentliches Ärgernis, Gefährdung der öffentlichen Sicherheit und Ordnung) in Polizeigewahrsam genommen wurden, werden die vollen, mit dem Polizeigewahrsam verbundenen Kosten auferlegt.
 
 <sup>2</sup> Steht der Polizeigewahrsam im Zusammenhang mit einer strafbaren Handlung, so gelten die Kostenverrechnungsbestimmungen der Schweizerischen Strafprozessordnung[^55c-1].
 
-[^55c-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^55c-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 55d
 
@@ -1581,7 +1594,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Übergangsbestimmung der Änderung vom 16. Januar 2014, Weitergeltung bestehender Bewilligungen**
 
-<sup>1</sup> Bewilligungen für die privaten Sicherheitsdienstleistungen nach §§ 51a ff., die vor Inkrafttreten der Änderung vom 16. Januar 2014 ausgestellt wurden, bleiben während längstens 2 Jahren gültig.
+<sup>1</sup> Bewilligungen für die privaten Sicherheitsdienstleistungen nach § 51a ff., die vor Inkrafttreten der Änderung vom 16. Januar 2014 ausgestellt wurden, bleiben während längstens 2 Jahren gültig.
 
 #### § 56
 
