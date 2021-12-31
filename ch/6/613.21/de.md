@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2007 über den Finanz- und Lastenausgleich (Fi
 short: FiLaV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/792"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-792-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-792-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20210101/de"
 
 (FiLaV)
 
-vom 7. November 2007 (Stand am 1. Januar 2021)
+vom 7. November 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -849,41 +849,41 @@ Anhang 1*[^t-1]*
 
 ## Ressourcenpotenzial und standardisierter Steuerertrag
 
-[^t-1]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2014 ([AS 2014 3825](https://fedlex.data.admin.ch/eli/oc/2014/658)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 4. Nov. 2015 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-1]: Fassung gemäss Ziff. I 1 der V vom 5. Nov. 2014 ([AS 2014 3825](https://fedlex.data.admin.ch/eli/oc/2014/658)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 4. Nov. 2015 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### 1. Ressourcenpotenzial
 
-Kantonswerte für das Referenzjahr 2021
+Kantonswerte für das Referenzjahr 2022
 
 <table>
-<tr><th>Kanton</th><th>Ressourcen- potenzial (in 1000 Fr.)</th><th>Mittlere ständige und nichtständige Wohnbevölkerung (Mittelwert 2015–2017)</th><th>Ressourcen- potenzial pro Kopf (in Fr.)</th><th>Ressourcen- index</th></tr>
-<tr><td>Zürich</td><td>63 734 639</td><td>1 490 464</td><td>42 762</td><td>122.4</td></tr>
-<tr><td>Bern</td><td>28 752 304</td><td>1 028 768</td><td>27 948</td><td>80.0</td></tr>
-<tr><td>Luzern</td><td>12 723 719</td><td>404 324</td><td>31 469</td><td>90.1</td></tr>
-<tr><td>Uri</td><td>923 022</td><td>36 563</td><td>25 245</td><td>72.2</td></tr>
-<tr><td>Schwyz</td><td>9 609 925</td><td>156 368</td><td>61 457</td><td>175.9</td></tr>
-<tr><td>Obwalden</td><td>1 533 598</td><td>37 567</td><td>40 824</td><td>116.8</td></tr>
-<tr><td>Nidwalden</td><td>2 300 125</td><td>42 833</td><td>53 700</td><td>153.7</td></tr>
-<tr><td>Glarus</td><td>1 016 972</td><td>40 522</td><td>25 097</td><td>71.8</td></tr>
-<tr><td>Zug</td><td>11 062 593</td><td>124 672</td><td>88 734</td><td>253.9</td></tr>
-<tr><td>Freiburg</td><td>8 218 019</td><td>311 554</td><td>26 378</td><td>75.5</td></tr>
-<tr><td>Solothurn</td><td>6 739 411</td><td>270 113</td><td>24 950</td><td>71.4</td></tr>
-<tr><td>Basel-Stadt</td><td>9 793 800</td><td>195 507</td><td>50 094</td><td>143.4</td></tr>
-<tr><td>Basel-Landschaft</td><td>9 773 262</td><td>285 917</td><td>34 182</td><td>97.8</td></tr>
-<tr><td>Schaffhausen</td><td>2 665 351</td><td>81 300</td><td>32 784</td><td>93.8</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>1 627 360</td><td>54 940</td><td>29 621</td><td>84.8</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>532 035</td><td>16 086</td><td>33 075</td><td>94.6</td></tr>
-<tr><td>St. Gallen</td><td>14 275 844</td><td>504 132</td><td>28 318</td><td>81.0</td></tr>
-<tr><td>Graubünden</td><td>5 927 960</td><td>204 900</td><td>28 931</td><td>82.8</td></tr>
-<tr><td>Aargau</td><td>18 892 997</td><td>664 316</td><td>28 440</td><td>81.4</td></tr>
-<tr><td>Thurgau</td><td>7 430 022</td><td>270 964</td><td>27 421</td><td>78.5</td></tr>
-<tr><td>Tessin</td><td>12 023 942</td><td>355 527</td><td>33 820</td><td>96.8</td></tr>
-<tr><td>Waadt</td><td>27 678 122</td><td>788 441</td><td>35 105</td><td>100.5</td></tr>
-<tr><td>Wallis</td><td>7 812 498</td><td>345 046</td><td>22 642</td><td>64.8</td></tr>
-<tr><td>Neuenburg</td><td>5 085 302</td><td>179 497</td><td>28 331</td><td>81.1</td></tr>
-<tr><td>Genf</td><td>23 653 167</td><td>490 847</td><td>48 188</td><td>137.9</td></tr>
-<tr><td>Jura</td><td>1 654 362</td><td>73 262</td><td>22 581</td><td>64.6</td></tr>
-<tr><td>Total Kantone</td><td>295 440 352</td><td>8 454 426</td><td>34 945</td><td>100.0</td></tr>
+<tr><th>Kanton</th><th>Ressourcen- potenzial (in 1000 Fr.)</th><th>Mittlere ständige und nichtständige Wohnbevölkerung (Mittelwert 2016–2018)</th><th>Ressourcen- potenzial pro Kopf (in Fr.)</th><th>Ressourcen- index</th></tr>
+<tr><td>Zürich</td><td>66 637 068</td><td>1 508 364</td><td>44 178</td><td>123.3</td></tr>
+<tr><td>Bern</td><td>29 477 880</td><td>1 034 573</td><td>28 493</td><td>79.5</td></tr>
+<tr><td>Luzern</td><td>13 341 047</td><td>407 830</td><td>32 712</td><td>91.3</td></tr>
+<tr><td>Uri</td><td>941 896</td><td>36 627</td><td>25 716</td><td>71.8</td></tr>
+<tr><td>Schwyz</td><td>10 050 768</td><td>157 730</td><td>63 721</td><td>177.9</td></tr>
+<tr><td>Obwalden</td><td>1 386 884</td><td>37 792</td><td>36 698</td><td>102.4</td></tr>
+<tr><td>Nidwalden</td><td>2 400 687</td><td>43 083</td><td>55 722</td><td>155.5</td></tr>
+<tr><td>Glarus</td><td>1 057 535</td><td>40 599</td><td>26 048</td><td>72.7</td></tr>
+<tr><td>Zug</td><td>11 561 954</td><td>126 362</td><td>91 499</td><td>255.4</td></tr>
+<tr><td>Freiburg</td><td>8 129 776</td><td>315 241</td><td>25 789</td><td>72.0</td></tr>
+<tr><td>Solothurn</td><td>6 943 789</td><td>272 546</td><td>25 478</td><td>71.1</td></tr>
+<tr><td>Basel-Stadt</td><td>9 987 533</td><td>196 446</td><td>50 841</td><td>141.9</td></tr>
+<tr><td>Basel-Landschaft</td><td>10 026 418</td><td>287 667</td><td>34 854</td><td>97.3</td></tr>
+<tr><td>Schaffhausen</td><td>2 795 011</td><td>81 879</td><td>34 136</td><td>95.3</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>1 686 171</td><td>55 188</td><td>30 553</td><td>85.3</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>556 731</td><td>16 145</td><td>34 483</td><td>96.3</td></tr>
+<tr><td>St. Gallen</td><td>15 059 617</td><td>506 737</td><td>29 719</td><td>83.0</td></tr>
+<tr><td>Graubünden</td><td>6 093 307</td><td>205 224</td><td>29 691</td><td>82.9</td></tr>
+<tr><td>Aargau</td><td>19 639 516</td><td>672 044</td><td>29 224</td><td>81.6</td></tr>
+<tr><td>Thurgau</td><td>7 784 005</td><td>274 007</td><td>28 408</td><td>79.3</td></tr>
+<tr><td>Tessin</td><td>12 253 302</td><td>356 336</td><td>34 387</td><td>96.0</td></tr>
+<tr><td>Waadt</td><td>28 445 252</td><td>797 472</td><td>35 669</td><td>99.6</td></tr>
+<tr><td>Wallis</td><td>8 059 429</td><td>347 870</td><td>23 168</td><td>64.7</td></tr>
+<tr><td>Neuenburg</td><td>5 144 640</td><td>179 255</td><td>28 700</td><td>80.1</td></tr>
+<tr><td>Genf</td><td>24 272 455</td><td>496 070</td><td>48 929</td><td>136.6</td></tr>
+<tr><td>Jura</td><td>1 726 161</td><td>73 452</td><td>23 500</td><td>65.6</td></tr>
+<tr><td>Total Kantone</td><td>305 458 831</td><td>8 526 539</td><td>35 824</td><td>100.0</td></tr>
 </table>
 
 ### 2. Standardisierter Steuerertrag
@@ -894,9 +894,9 @@ Der standardisierte Steuerertrag der Schweiz entspricht den durchschnittlichen S
 
 Der standardisierte Steuersatz ist für alle Kantone gleich hoch und basiert auf dem Ressourcenpotenzial und den Steuereinnahmen der Gesamtheit der Kantone.
 
-Wert des standardisierten Steuersatzes für das Referenzjahr 2021
+Wert des standardisierten Steuersatzes für das Referenzjahr 2022
 
-Standardisierter Steuersatz für das Referenzjahr 2021 = 25,9%
+Standardisierter Steuersatz für das Referenzjahr 2022 = 25,8 %
 
 Anhang 2*[^t-2]*
 
@@ -904,39 +904,39 @@ Anhang 2*[^t-2]*
 
 ## Massgebendes Einkommen der natürlichen Personen
 
-[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
-Kantonswerte für das Referenzjahr 2021
+Kantonswerte für das Referenzjahr 2022
 
 <table>
 <tr><th>Kanton</th><th>Massgebendes Einkommen der natürlichen Personen (in 1000 Fr.)</th></tr>
-<tr><td>Zürich</td><td>39 345 985</td></tr>
-<tr><td>Bern</td><td>17 744 729</td></tr>
-<tr><td>Luzern</td><td>7 620 301</td></tr>
-<tr><td>Uri</td><td>557 447</td></tr>
-<tr><td>Schwyz</td><td>5 747 274</td></tr>
-<tr><td>Obwalden</td><td>1 011 307</td></tr>
-<tr><td>Nidwalden</td><td>1 257 921</td></tr>
-<tr><td>Glarus</td><td>618 472</td></tr>
-<tr><td>Zug</td><td>5 181 337</td></tr>
-<tr><td>Freiburg</td><td>5 318 925</td></tr>
-<tr><td>Solothurn</td><td>4 998 993</td></tr>
-<tr><td>Basel-Stadt</td><td>5 104 253</td></tr>
-<tr><td>Basel-Landschaft</td><td>7 162 228</td></tr>
-<tr><td>Schaffhausen</td><td>1 414 397</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>1 029 467</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>329 877</td></tr>
-<tr><td>St. Gallen</td><td>8 406 513</td></tr>
-<tr><td>Graubünden</td><td>3 558 754</td></tr>
-<tr><td>Aargau</td><td>13 127 915</td></tr>
-<tr><td>Thurgau</td><td>4 960 954</td></tr>
-<tr><td>Tessin</td><td>6 949 908</td></tr>
-<tr><td>Waadt</td><td>17 704 049</td></tr>
-<tr><td>Wallis</td><td>5 251 355</td></tr>
-<tr><td>Neuenburg</td><td>2 937 751</td></tr>
-<tr><td>Genf</td><td>13 166 387</td></tr>
-<tr><td>Jura</td><td>1 001 973</td></tr>
-<tr><td>Total Kantone</td><td>181 508 472</td></tr>
+<tr><td>Zürich</td><td>40 524 317</td></tr>
+<tr><td>Bern</td><td>18 280 684</td></tr>
+<tr><td>Luzern</td><td>7 939 257</td></tr>
+<tr><td>Uri</td><td>581 303</td></tr>
+<tr><td>Schwyz</td><td>6 009 034</td></tr>
+<tr><td>Obwalden</td><td>844 504</td></tr>
+<tr><td>Nidwalden</td><td>1 284 115</td></tr>
+<tr><td>Glarus</td><td>634 189</td></tr>
+<tr><td>Zug</td><td>5 485 073</td></tr>
+<tr><td>Freiburg</td><td>5 482 316</td></tr>
+<tr><td>Solothurn</td><td>5 136 435</td></tr>
+<tr><td>Basel-Stadt</td><td>5 220 318</td></tr>
+<tr><td>Basel-Landschaft</td><td>7 310 099</td></tr>
+<tr><td>Schaffhausen</td><td>1 457 283</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>1 065 511</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>335 479</td></tr>
+<tr><td>St. Gallen</td><td>8 674 392</td></tr>
+<tr><td>Graubünden</td><td>3 652 876</td></tr>
+<tr><td>Aargau</td><td>13 615 370</td></tr>
+<tr><td>Thurgau</td><td>5 149 128</td></tr>
+<tr><td>Tessin</td><td>7 091 046</td></tr>
+<tr><td>Waadt</td><td>18 263 012</td></tr>
+<tr><td>Wallis</td><td>5 462 917</td></tr>
+<tr><td>Neuenburg</td><td>2 971 163</td></tr>
+<tr><td>Genf</td><td>13 226 673</td></tr>
+<tr><td>Jura</td><td>1 026 464</td></tr>
+<tr><td>Total Kantone</td><td>186 722 956</td></tr>
 </table>
 
 Anhang 3*[^t-3]*
@@ -945,7 +945,7 @@ Anhang 3*[^t-3]*
 
 ## Massgebendes quellenbesteuertes Einkommen
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 3 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 3 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### 1. Definition der Variablen und Parameter
 
@@ -961,7 +961,7 @@ Anhang 3*[^t-3]*
 - TE Anteil der durch den Kanton Genf an Frankreich zurückerstatteten Bruttolohnsumme der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch den Kanton Genf gemäss Abkommen des Kantons Genf mit Frankreich vom 29.1.1973
 - TF Maximaler Anteil (Steuersatz) der durch Frankreich zurückerstatteten Bruttolohnsumme der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch Frankreich gemäss dem Abkommen der Kantone Bern, Solothurn, Basel-Stadt, Basel-Landschaft, Waadt, Wallis und Neuenburg vom 11.4.1983
 - TG Anteil der an Italien zurückerstatteten Bruttosteuereinnahmen von begrenzt besteuerten Grenzgängerinnen und Grenzgängern aus Italien gemäss Artikel 14*a* DBA-I und der Vereinbarung der Kantone Graubünden, Tessin und Wallis mit Italien
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image1.png)</sub> Letzter verfügbarer standardisierter Steuersatz für das Bemessungsjahr t (d.h. Bemessungsjahr + 3 Jahre)
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image1.png)</sub> Letzter verfügbarer standardisierter Steuersatz für das Bemessungsjahr t (d.h. Bemessungsjahr + 3 Jahre)
 - γ Faktor Gamma: Auf drei Stellen gerundetes Verhältnis zwischen dem massgebenden Einkommen der natürlichen Personen der Schweiz und dem Primäreinkommen der privaten Haushalte der Schweiz in den Bemessungsjahren. Der Faktor Gamma wird jährlich berechnet.
 - δ Faktor Delta: Faktor, der die Lasten der Grenzgänger berücksichtigt und deren Einkommen BQB, BQC, BQD, BQE, BQF und BQG tiefer gewichtet.
 
@@ -970,24 +970,24 @@ Anhang 3*[^t-3]*
 <table>
 <tr><td>(1)</td><td>Massgebendes quellenbesteuertes Einkommen der gebietsansässigen Ausländerinnen und Ausländer und ausländischen Verwaltungsrätinnen und Verwaltungsräte eines Kantons: γ · BQA</td></tr>
 <tr><td>(2)</td><td>Massgebendes quellenbesteuertes Einkommen der vollständig besteuerten Grenzgängerinnen und Grenzgänger eines Kantons: γ · δ ·BQB</td></tr>
-<tr><td>(3)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Österreich: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image2.png)</td></tr>
-<tr><td>(4)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Deutschland: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image3.png)</td></tr>
-<tr><td>(5)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch den Kanton Genf: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image4.png)</td></tr>
-<tr><td>(6)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch Frankreich: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image5.png)</td></tr>
-<tr><td>(7)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Italien: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image6.png)</td></tr>
+<tr><td>(3)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Österreich: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image2.png)</td></tr>
+<tr><td>(4)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Deutschland: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image3.png)</td></tr>
+<tr><td>(5)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch den Kanton Genf: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image4.png)</td></tr>
+<tr><td>(6)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Frankreich mit Besteuerung durch Frankreich: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image5.png)</td></tr>
+<tr><td>(7)</td><td>Massgebendes quellenbesteuertes Einkommen der begrenzt besteuerten Grenzgängerinnen und Grenzgänger aus Italien: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image6.png)</td></tr>
 </table>
 
-### 3. Parameterwerte für das Referenzjahr 2021
+### 3. Parameterwerte für das Referenzjahr 2022
 
 <table>
 <tr><th>Parameter</th><th>Wert</th></tr>
-<tr><td>γ2015</td><td>0.368</td></tr>
-<tr><td>γ2016</td><td>0.372</td></tr>
-<tr><td>γ2017</td><td>0.379</td></tr>
+<tr><td>γ<sub>2016</sub></td><td>0.372</td></tr>
+<tr><td>γ<sub>2017</sub></td><td>0.379</td></tr>
+<tr><td>γ<sub>2018</sub></td><td>0.381</td></tr>
 <tr><td>δ</td><td>0.750</td></tr>
-<tr><td>SST<sub>2018</sub></td><td>0.263</td></tr>
 <tr><td>SST<sub>2019</sub></td><td>0.261</td></tr>
 <tr><td>SST<sub>2020</sub></td><td>0.261</td></tr>
+<tr><td>SST<sub>2021</sub></td><td>0.259</td></tr>
 <tr><td>TC</td><td>0.125</td></tr>
 <tr><td>TD</td><td>0.045</td></tr>
 <tr><td>TE</td><td>0.035</td></tr>
@@ -1008,37 +1008,37 @@ Anhang 3*[^t-3]*
 - 4\.4.4 *Formel (6), Grenzgängerinnen und Grenzgänger aus Frankreich (ohne Grenzgängerinnen und Grenzgänger aus Frankreich in Genf):* Die Besteuerung erfolgt durch Frankreich, die Schweiz erhält maximal 4,5 Prozent des Bruttoeinkommens. Der in der Schweiz steuerlich ausgeschöpfte Einkommensanteil wird durch Division des Steuerertrags, TF ⋅ δ **<sup>.</sup>** BQF, mit dem entsprechenden standardisierten Steuersatz, *SST*<sub>t+3</sub>, ermittelt.
 - 4\.4.5 *Formel (7), Grenzgängerinnen und Grenzgänger aus Italien:* Rückvergütung von 40 Prozent der Steuereinnahmen an Italien. Das massgebende steuerbare Einkommen, γ ⋅ δ **<sup>.</sup>** BQG, wird um den Italien zustehenden Anteil, TG, korrigiert.
 
-### 5. Kantonswerte für das Referenzjahr 2021
+### 5. Kantonswerte für das Referenzjahr 2022
 
 <table>
 <tr><th>Kanton</th><th>Massgebende quellenbesteuerte Einkommen (in 1000 Fr.)</th></tr>
-<tr><td>Zürich</td><td>2 330 086</td></tr>
-<tr><td>Bern</td><td>601 242</td></tr>
-<tr><td>Luzern</td><td>298 925</td></tr>
-<tr><td>Uri</td><td>30 755</td></tr>
-<tr><td>Schwyz</td><td>157 520</td></tr>
-<tr><td>Obwalden</td><td>37 794</td></tr>
-<tr><td>Nidwalden</td><td>40 258</td></tr>
-<tr><td>Glarus</td><td>45 727</td></tr>
-<tr><td>Zug</td><td>246 310</td></tr>
-<tr><td>Freiburg</td><td>261 154</td></tr>
-<tr><td>Solothurn</td><td>200 869</td></tr>
-<tr><td>Basel-Stadt</td><td>776 112</td></tr>
-<tr><td>Basel-Landschaft</td><td>419 529</td></tr>
-<tr><td>Schaffhausen</td><td>157 278</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>23 311</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>10 000</td></tr>
-<tr><td>St. Gallen</td><td>465 428</td></tr>
-<tr><td>Graubünden</td><td>406 955</td></tr>
-<tr><td>Aargau</td><td>717 531</td></tr>
-<tr><td>Thurgau</td><td>296 472</td></tr>
-<tr><td>Tessin</td><td>1 101 054</td></tr>
-<tr><td>Waadt</td><td>1 376 084</td></tr>
-<tr><td>Wallis</td><td>452 389</td></tr>
-<tr><td>Neuenburg</td><td>289 718</td></tr>
-<tr><td>Genf</td><td>2 477 460</td></tr>
-<tr><td>Jura</td><td>106 719</td></tr>
-<tr><td>Total Kantone</td><td>13 326 681</td></tr>
+<tr><td>Zürich</td><td>2 296 180</td></tr>
+<tr><td>Bern</td><td>628 644</td></tr>
+<tr><td>Luzern</td><td>312 157</td></tr>
+<tr><td>Uri</td><td>31 252</td></tr>
+<tr><td>Schwyz</td><td>163 087</td></tr>
+<tr><td>Obwalden</td><td>39 487</td></tr>
+<tr><td>Nidwalden</td><td>42 953</td></tr>
+<tr><td>Glarus</td><td>45 847</td></tr>
+<tr><td>Zug</td><td>252 261</td></tr>
+<tr><td>Freiburg</td><td>262 836</td></tr>
+<tr><td>Solothurn</td><td>216 920</td></tr>
+<tr><td>Basel-Stadt</td><td>788 129</td></tr>
+<tr><td>Basel-Landschaft</td><td>425 739</td></tr>
+<tr><td>Schaffhausen</td><td>162 710</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>16 970</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>9 902</td></tr>
+<tr><td>St. Gallen</td><td>481 384</td></tr>
+<tr><td>Graubünden</td><td>417 509</td></tr>
+<tr><td>Aargau</td><td>740 183</td></tr>
+<tr><td>Thurgau</td><td>308 325</td></tr>
+<tr><td>Tessin</td><td>1 158 978</td></tr>
+<tr><td>Waadt</td><td>1 369 536</td></tr>
+<tr><td>Wallis</td><td>444 932</td></tr>
+<tr><td>Neuenburg</td><td>282 209</td></tr>
+<tr><td>Genf</td><td>2 562 799</td></tr>
+<tr><td>Jura</td><td>108 906</td></tr>
+<tr><td>Total Kantone</td><td>13 569 836</td></tr>
 </table>
 
 Anhang 4*[^t-4]*
@@ -1047,18 +1047,18 @@ Anhang 4*[^t-4]*
 
 ## Massgebendes Vermögen der natürlichen Personen
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 3 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-4]: Fassung gemäss Ziff. II Abs. 3 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### 1. Definition der Variablen und Parameter
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image7.png)</sub> Vermögenssteuereinnahmen der Kantone und Gemeinden
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image8.png)</sub> Reinvermögen
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image9.png)</sub> Einkommenssteuereinnahmen der Kantone und Gemeinden
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image10.png)</sub> Quellensteuereinnahmen der Kantone und Gemeinden
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image11.png)</sub> Kantonsanteil an der direkten Bundessteuer nach Artikel 196 Absatz 1 DBG[^annex4-lvlu1-lvl1-1]
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image12.png)</sub> Einkommenssteuereinnahmen der direkten Bundessteuer
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image13.png)</sub> Massgebende Einkommen der natürlichen Personen
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image14.png)</sub> Massgebende quellenbesteuerte Einkommen der natürlichen Personen
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image7.png)</sub> Vermögenssteuereinnahmen der Kantone und Gemeinden
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image8.png)</sub> Reinvermögen
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image9.png)</sub> Einkommenssteuereinnahmen der Kantone und Gemeinden
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image10.png)</sub> Quellensteuereinnahmen der Kantone und Gemeinden
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image11.png)</sub> Kantonsanteil an der direkten Bundessteuer nach Artikel 196 Absatz 1 DBG[^annex4-lvlu1-lvl1-1]
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image12.png)</sub> Einkommenssteuereinnahmen der direkten Bundessteuer
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image13.png)</sub> Massgebende Einkommen der natürlichen Personen
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image14.png)</sub> Massgebende quellenbesteuerte Einkommen der natürlichen Personen
 
 [^annex4-lvlu1-lvl1-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
@@ -1066,52 +1066,52 @@ Anhang 4*[^t-4]*
 
 - 2\.1 Der Faktor Alpha nach Artikel 13 wird gemäss folgender Formel berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image15.png)
 
 - 2\.2 Der Faktor Alpha wird jährlich berechnet und basiert auf den letzten verfügbaren sechs Bemessungsjahren.
 
-### 3. Faktor Alpha für die Bemessungsjahre 2015–17
+### 3. Faktor Alpha für die Bemessungsjahre 2016–2018
 
 <table>
-<tr><td></td><td>2015</td><td>2016</td><td>2017</td></tr>
-<tr><td>Faktor Alpha</td><td>0.014</td><td>0.014</td><td>0.014</td></tr>
+<tr><td></td><td>2016</td><td>2017</td><td>2018</td></tr>
+<tr><td>Faktor Alpha</td><td>0.014</td><td>0.014</td><td>0.015</td></tr>
 </table>
 
 ### 4. Kommentar zur Berechnung des Faktors Alpha
 
 Der Faktor Alpha berechnet sich, indem die Ausschöpfung der Vermögen durch die Ausschöpfung der Einkommen dividiert wird. Die Ausschöpfung der Vermögen entspricht den gesamten Vermögenssteuereinnahmen der Kantone und Gemeinden dividiert durch die gesamten Reinvermögen der Schweiz. Für die Ausschöpfung der Einkommen werden die gesamten Einkommens- und Quellensteuereinnahmen der Kantone und Gemeinden inklusive dem Kantonsanteil an der direkten Bundessteuer auf Einkommen verwendet und durch die massgebenden Einkommen der natürlichen Personen gemäss Anhang 2 und den massgebenden quellenbesteuerten Einkommen gemäss Anhang 3 dividiert.
 
-### 5. Kantonswerte für das Referenzjahr 2021
+### 5. Kantonswerte für das Referenzjahr 2022
 
 <table>
 <tr><th>Kanton</th><th>Massgebendes Vermögen der natürlichen Personen (in 1000 Fr.)</th></tr>
-<tr><td>Zürich</td><td>5 764 797</td></tr>
-<tr><td>Bern</td><td>2 417 992</td></tr>
-<tr><td>Luzern</td><td>1 239 182</td></tr>
-<tr><td>Uri</td><td>95 486</td></tr>
-<tr><td>Schwyz</td><td>1 630 336</td></tr>
-<tr><td>Obwalden</td><td>177 540</td></tr>
-<tr><td>Nidwalden</td><td>454 010</td></tr>
-<tr><td>Glarus</td><td>109 427</td></tr>
-<tr><td>Zug</td><td>922 281</td></tr>
-<tr><td>Freiburg</td><td>431 785</td></tr>
-<tr><td>Solothurn</td><td>393 844</td></tr>
-<tr><td>Basel-Stadt</td><td>788 441</td></tr>
-<tr><td>Basel-Landschaft</td><td>636 003</td></tr>
-<tr><td>Schaffhausen</td><td>193 321</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>208 035</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>75 088</td></tr>
-<tr><td>St. Gallen</td><td>1 521 548</td></tr>
-<tr><td>Graubünden</td><td>878 161</td></tr>
-<tr><td>Aargau</td><td>1 674 557</td></tr>
-<tr><td>Thurgau</td><td>806 405</td></tr>
-<tr><td>Tessin</td><td>957 516</td></tr>
-<tr><td>Waadt</td><td>2 090 123</td></tr>
-<tr><td>Wallis</td><td>756 244</td></tr>
-<tr><td>Neuenburg</td><td>272 522</td></tr>
-<tr><td>Genf</td><td>1 776 011</td></tr>
-<tr><td>Jura</td><td>104 353</td></tr>
-<tr><td>Total Kantone</td><td>26 375 009</td></tr>
+<tr><td>Zürich</td><td>6 067 788</td></tr>
+<tr><td>Bern</td><td>2 543 378</td></tr>
+<tr><td>Luzern</td><td>1 344 698</td></tr>
+<tr><td>Uri</td><td>101 926</td></tr>
+<tr><td>Schwyz</td><td>1 726 839</td></tr>
+<tr><td>Obwalden</td><td>196 017</td></tr>
+<tr><td>Nidwalden</td><td>505 884</td></tr>
+<tr><td>Glarus</td><td>115 639</td></tr>
+<tr><td>Zug</td><td>1 031 130</td></tr>
+<tr><td>Freiburg</td><td>451 115</td></tr>
+<tr><td>Solothurn</td><td>404 547</td></tr>
+<tr><td>Basel-Stadt</td><td>882 968</td></tr>
+<tr><td>Basel-Landschaft</td><td>657 637</td></tr>
+<tr><td>Schaffhausen</td><td>209 428</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>217 711</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>84 324</td></tr>
+<tr><td>St. Gallen</td><td>1 625 145</td></tr>
+<tr><td>Graubünden</td><td>930 399</td></tr>
+<tr><td>Aargau</td><td>1 772 452</td></tr>
+<tr><td>Thurgau</td><td>861 194</td></tr>
+<tr><td>Tessin</td><td>1 053 574</td></tr>
+<tr><td>Waadt</td><td>2 190 622</td></tr>
+<tr><td>Wallis</td><td>806 118</td></tr>
+<tr><td>Neuenburg</td><td>282 250</td></tr>
+<tr><td>Genf</td><td>1 913 579</td></tr>
+<tr><td>Jura</td><td>107 877</td></tr>
+<tr><td>Total Kantone</td><td>28 084 237</td></tr>
 </table>
 
 Anhang 5*[^t-5]*
@@ -1120,39 +1120,39 @@ Anhang 5*[^t-5]*
 
 ## Massgebende Gewinne der juristischen Personen ohne besonderen Steuerstatus
 
-[^t-5]: Fassung gemäss Ziff. I Abs. 1 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-5]: Fassung gemäss Ziff. I Abs. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
-Kantonswerte für das Referenzjahr 2021
+Kantonswerte für das Referenzjahr 2022
 
 <table>
 <tr><th>Kanton</th><th>Massgebende Gewinne der juristischen Personen ohne besonderen Steuerstatus (in 1000 Fr.)</th></tr>
-<tr><td>Zürich</td><td>15 409 647</td></tr>
-<tr><td>Bern</td><td>7 452 512</td></tr>
-<tr><td>Luzern</td><td>3 509 628</td></tr>
-<tr><td>Uri</td><td>233 721</td></tr>
-<tr><td>Schwyz</td><td>1 901 802</td></tr>
-<tr><td>Obwalden</td><td>290 271</td></tr>
-<tr><td>Nidwalden</td><td>507 885</td></tr>
-<tr><td>Glarus</td><td>209 405</td></tr>
-<tr><td>Zug</td><td>3 354 533</td></tr>
-<tr><td>Freiburg</td><td>1 883 516</td></tr>
-<tr><td>Solothurn</td><td>1 096 427</td></tr>
-<tr><td>Basel-Stadt</td><td>2 399 919</td></tr>
-<tr><td>Basel-Landschaft</td><td>1 320 799</td></tr>
-<tr><td>Schaffhausen</td><td>410 270</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>357 588</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>112 232</td></tr>
-<tr><td>St. Gallen</td><td>3 557 344</td></tr>
-<tr><td>Graubünden</td><td>879 275</td></tr>
-<tr><td>Aargau</td><td>3 283 662</td></tr>
-<tr><td>Thurgau</td><td>1 339 600</td></tr>
-<tr><td>Tessin</td><td>2 666 289</td></tr>
-<tr><td>Waadt</td><td>4 287 625</td></tr>
-<tr><td>Wallis</td><td>1 268 822</td></tr>
-<tr><td>Neuenburg</td><td>899 746</td></tr>
-<tr><td>Genf</td><td>4 828 471</td></tr>
-<tr><td>Jura</td><td>396 992</td></tr>
-<tr><td>Total Kantone</td><td>63 857 978</td></tr>
+<tr><td>Zürich</td><td>16 829 069</td></tr>
+<tr><td>Bern</td><td>7 506 769</td></tr>
+<tr><td>Luzern</td><td>3 576 666</td></tr>
+<tr><td>Uri</td><td>219 376</td></tr>
+<tr><td>Schwyz</td><td>1 969 091</td></tr>
+<tr><td>Obwalden</td><td>290 671</td></tr>
+<tr><td>Nidwalden</td><td>528 508</td></tr>
+<tr><td>Glarus</td><td>221 336</td></tr>
+<tr><td>Zug</td><td>3 327 779</td></tr>
+<tr><td>Freiburg</td><td>1 640 110</td></tr>
+<tr><td>Solothurn</td><td>1 120 095</td></tr>
+<tr><td>Basel-Stadt</td><td>2 757 889</td></tr>
+<tr><td>Basel-Landschaft</td><td>1 321 501</td></tr>
+<tr><td>Schaffhausen</td><td>432 612</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>372 183</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>124 296</td></tr>
+<tr><td>St. Gallen</td><td>3 947 171</td></tr>
+<tr><td>Graubünden</td><td>874 611</td></tr>
+<tr><td>Aargau</td><td>3 326 077</td></tr>
+<tr><td>Thurgau</td><td>1 443 928</td></tr>
+<tr><td>Tessin</td><td>2 679 719</td></tr>
+<tr><td>Waadt</td><td>4 079 170</td></tr>
+<tr><td>Wallis</td><td>1 243 545</td></tr>
+<tr><td>Neuenburg</td><td>950 720</td></tr>
+<tr><td>Genf</td><td>4 930 192</td></tr>
+<tr><td>Jura</td><td>441 466</td></tr>
+<tr><td>Total Kantone</td><td>66 154 552</td></tr>
 </table>
 
 Anhang 6*[^t-6]*
@@ -1161,7 +1161,7 @@ Anhang 6*[^t-6]*
 
 ## Massgebende Gewinne der juristischen Personen mit besonderem Steuerstatus
 
-[^t-6]: Fassung gemäss Ziff. II Abs. 3 der V vom 6. Nov. 2019, in Kraft bis zum 31. Dez. 2025 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-6]: Fassung gemäss Ziff. II Abs. 3 der V vom 6. Nov. 2019, in Kraft bis zum 31. Dez. 2025 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### Zuschlagsfaktoren für die Berechnungen der Faktoren Beta
 
@@ -1179,7 +1179,7 @@ Anhang 6*[^t-6]*
 
 Die Zuschlagsfaktoren gemäss Artikel 20 Absatz 2 werden gemäss folgender Formel berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image16.png)
 
 ### 3. Parameterwerte für Referenzjahre ab 2020
 
@@ -1204,37 +1204,37 @@ Die Zuschlagsfaktoren gemäss Artikel 20 Absatz 2 werden gemäss folgender Forme
 
 Die Faktoren Beta berechnen sich aus einem Basisfaktor β\* und einem Zuschlagsfaktor. Der Zuschlagsfaktor berechnet sich wie folgt: In einem ersten Schritt wird der Gewinnsteuersatz der direkten Bundessteuer, TDBG, mit dem Kantonsanteil, π, multipliziert (TDBG · π). Anschliessend erfolgt eine Korrektur um den Teil, der bereits im Basisfaktor enthalten ist (1–β\*). Mit einer weiteren Korrektur (1–ϖ) wird dem Umstand Rechnung getragen, dass der Kantonsanteil an der direkten Bundessteuer zumindest teilweise einer Bezugsprovision an die Kantone gleichkommt. In einem letzten Schritt wird dieser bereinigte Steuersatz durch die Division mit dem standardisierten Steuersatz des Jahres 2019, SST<sub>2019</sub>, auf einen auf die Gewinne anwendbaren Faktor hochgerechnet.
 
-### 6. Kantonswerte für das Referenzjahr 2021
+### 6. Kantonswerte für das Referenzjahr 2022
 
 <table>
 <tr><th>Kanton</th><th>Massgebende Gewinne der juristischen Personen mit besonderem Steuerstatus (in 1000 Fr.)</th></tr>
-<tr><td>Zürich</td><td>1 027 691</td></tr>
-<tr><td>Bern</td><td>739 439</td></tr>
-<tr><td>Luzern</td><td>179 511</td></tr>
-<tr><td>Uri</td><td>828</td></tr>
-<tr><td>Schwyz</td><td>177 767</td></tr>
-<tr><td>Obwalden</td><td>15 495</td></tr>
-<tr><td>Nidwalden</td><td>35 477</td></tr>
-<tr><td>Glarus</td><td>24 776</td></tr>
-<tr><td>Zug</td><td>1 351 132</td></tr>
-<tr><td>Freiburg</td><td>452 402</td></tr>
-<tr><td>Solothurn</td><td>31 022</td></tr>
-<tr><td>Basel-Stadt</td><td>790 551</td></tr>
-<tr><td>Basel-Landschaft</td><td>252 964</td></tr>
-<tr><td>Schaffhausen</td><td>467 313</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>15 697</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>1 513</td></tr>
-<tr><td>St. Gallen</td><td>320 879</td></tr>
-<tr><td>Graubünden</td><td>96 428</td></tr>
-<tr><td>Aargau</td><td>36 770</td></tr>
-<tr><td>Thurgau</td><td>11 985</td></tr>
-<tr><td>Tessin</td><td>263 556</td></tr>
-<tr><td>Waadt</td><td>2 217 052</td></tr>
-<tr><td>Wallis</td><td>7 555</td></tr>
-<tr><td>Neuenburg</td><td>610 152</td></tr>
-<tr><td>Genf</td><td>1 286 815</td></tr>
-<tr><td>Jura</td><td>24 016</td></tr>
-<tr><td>Total Kantone</td><td>10 438 785</td></tr>
+<tr><td>Zürich</td><td>997 590</td></tr>
+<tr><td>Bern</td><td>747 541</td></tr>
+<tr><td>Luzern</td><td>236 872</td></tr>
+<tr><td>Uri</td><td>896</td></tr>
+<tr><td>Schwyz</td><td>186 795</td></tr>
+<tr><td>Obwalden</td><td>15 449</td></tr>
+<tr><td>Nidwalden</td><td>39 020</td></tr>
+<tr><td>Glarus</td><td>32 513</td></tr>
+<tr><td>Zug</td><td>1 495 177</td></tr>
+<tr><td>Freiburg</td><td>438 189</td></tr>
+<tr><td>Solothurn</td><td>25 013</td></tr>
+<tr><td>Basel-Stadt</td><td>454 269</td></tr>
+<tr><td>Basel-Landschaft</td><td>317 545</td></tr>
+<tr><td>Schaffhausen</td><td>519 358</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>18 104</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>1 183</td></tr>
+<tr><td>St. Gallen</td><td>330 029</td></tr>
+<tr><td>Graubünden</td><td>125 493</td></tr>
+<tr><td>Aargau</td><td>59 056</td></tr>
+<tr><td>Thurgau</td><td>11 596</td></tr>
+<tr><td>Tessin</td><td>195 760</td></tr>
+<tr><td>Waadt</td><td>2 531 846</td></tr>
+<tr><td>Wallis</td><td>7 202</td></tr>
+<tr><td>Neuenburg</td><td>568 853</td></tr>
+<tr><td>Genf</td><td>1 542 603</td></tr>
+<tr><td>Jura</td><td>20 831</td></tr>
+<tr><td>Total Kantone</td><td>10 918 782</td></tr>
 </table>
 
 Anhang 7*[^t-7]*
@@ -1245,37 +1245,37 @@ Anhang 7*[^t-7]*
 
 [^t-7]: Fassung gemäss Ziff. I Abs. 1 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
 
-Kantonswerte für das Referenzjahr 2021
+Kantonswerte für das Referenzjahr 2022
 
 <table>
 <tr><th>Kanton</th><th>Massgebende Steuerrepartitionen der direkten Bundessteuer (in 1000 Fr.)</th></tr>
-<tr><td>Zürich</td><td>–143 567</td></tr>
-<tr><td>Bern</td><td>–203 610</td></tr>
-<tr><td>Luzern</td><td>–123 828</td></tr>
-<tr><td>Uri</td><td>4 785</td></tr>
-<tr><td>Schwyz</td><td>–4 775</td></tr>
-<tr><td>Obwalden</td><td>1 192</td></tr>
-<tr><td>Nidwalden</td><td>4 573</td></tr>
-<tr><td>Glarus</td><td>9 164</td></tr>
-<tr><td>Zug</td><td>6 999</td></tr>
-<tr><td>Freiburg</td><td>–129 763</td></tr>
-<tr><td>Solothurn</td><td>18 257</td></tr>
-<tr><td>Basel-Stadt</td><td>–65 476</td></tr>
-<tr><td>Basel-Landschaft</td><td>–18 261</td></tr>
-<tr><td>Schaffhausen</td><td>22 772</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>–6 738</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>3 324</td></tr>
-<tr><td>St. Gallen</td><td>4 133</td></tr>
-<tr><td>Graubünden</td><td>108 387</td></tr>
-<tr><td>Aargau</td><td>52 563</td></tr>
-<tr><td>Thurgau</td><td>14 608</td></tr>
-<tr><td>Tessin</td><td>85 618</td></tr>
-<tr><td>Waadt</td><td>3 189</td></tr>
-<tr><td>Wallis</td><td>76 133</td></tr>
-<tr><td>Neuenburg</td><td>75 412</td></tr>
-<tr><td>Genf</td><td>118 023</td></tr>
-<tr><td>Jura</td><td>20 309</td></tr>
-<tr><td>Total Kantone</td><td>–66 573</td></tr>
+<tr><td>Zürich</td><td>–77 877</td></tr>
+<tr><td>Bern</td><td>–229 135</td></tr>
+<tr><td>Luzern</td><td>–68 603</td></tr>
+<tr><td>Uri</td><td>7 143</td></tr>
+<tr><td>Schwyz</td><td>–4 076</td></tr>
+<tr><td>Obwalden</td><td>755</td></tr>
+<tr><td>Nidwalden</td><td>208</td></tr>
+<tr><td>Glarus</td><td>8 011</td></tr>
+<tr><td>Zug</td><td>–29 466</td></tr>
+<tr><td>Freiburg</td><td>–144 791</td></tr>
+<tr><td>Solothurn</td><td>40 779</td></tr>
+<tr><td>Basel-Stadt</td><td>–116 041</td></tr>
+<tr><td>Basel-Landschaft</td><td>–6 104</td></tr>
+<tr><td>Schaffhausen</td><td>13 621</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>–4 308</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>1 548</td></tr>
+<tr><td>St. Gallen</td><td>1 496</td></tr>
+<tr><td>Graubünden</td><td>92 420</td></tr>
+<tr><td>Aargau</td><td>126 378</td></tr>
+<tr><td>Thurgau</td><td>9 834</td></tr>
+<tr><td>Tessin</td><td>74 224</td></tr>
+<tr><td>Waadt</td><td>11 065</td></tr>
+<tr><td>Wallis</td><td>94 714</td></tr>
+<tr><td>Neuenburg</td><td>89 445</td></tr>
+<tr><td>Genf</td><td>96 609</td></tr>
+<tr><td>Jura</td><td>20 616</td></tr>
+<tr><td>Total Kantone</td><td>8 467</td></tr>
 </table>
 
 Anhang 7a*[^t-8]*
@@ -1284,73 +1284,73 @@ Anhang 7a*[^t-8]*
 
 ## Beiträge an die ressourcenschwachen Kantone
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 2 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-8]: Eingefügt durch Ziff. II Abs. 2 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### 1. Definition der Variablen und Parameter
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image17.png)</sub> Beitrag an den ressourcenschwachen Kanton r
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image18.png)</sub> durchschnittliche mittlere ständige und nichtständige Wohnbevölkerung des ressourcenschwachen Kantons r in den Bemessungsjahren
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image19.png)</sub> Ressourcenindex des ressourcenschwachen Kantons r
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image20.png)</sub> Indexwert der garantierten Mindestausstattung
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image21.png) Standardisierter Steuerertrag der Schweiz pro Einwohnerin und Einwohner
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image17.png)</sub> Beitrag an den ressourcenschwachen Kanton r
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image18.png)</sub> durchschnittliche mittlere ständige und nichtständige Wohnbevölkerung des ressourcenschwachen Kantons r in den Bemessungsjahren
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image19.png)</sub> Ressourcenindex des ressourcenschwachen Kantons r
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image20.png)</sub> Indexwert der garantierten Mindestausstattung
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image21.png) Standardisierter Steuerertrag der Schweiz pro Einwohnerin und Einwohner
 
 ### 2. Berechnung
 
 - 2\.1 Der Beitrag an einen ressourcenschwachen Kanton *r* berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image22.png)
 
 - 2\.2 Der Werte der Parameter *p* und *t* werden wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image23.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image24.png)
 
-### 3. Parameterwerte für das Referenzjahr 2021
+### 3. Parameterwerte für das Referenzjahr 2022
 
 <table>
 <tr><td>Parameter</td><td>Wert</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image25.png)</td><td>9 066</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image26.png)</td><td>87.1</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image25.png)</td><td>9 239</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image26.png)</td><td>86.5</td></tr>
 </table>
 
 ### 4. Kommentar zur Berechnung
 
-- 4\.1 Die Berechnung richtet sich nach der Höhe des Ressourcenindexes. Bei einem Ressourcenindex von kleiner als 70 Punkten wird der Ausgleichsbetrag so festgelegt, dass der Kanton nach Ausgleich genau die garantierte Mindestausstattung <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image27.png)</sub> erreicht.
-- 4\.2 Bei Ressourcenindizes ab 70 Punkten steigt der resultierende Index nach Ausgleich progressiv an. Bei einem Ressourcenindex von genau 70 Punkten soll eine Erhöhung des standardisierten Steuerertrags um eine Einheit den Ausgleichsbetrag um 90 Prozent dieser Einheit reduzieren (Grenzabschöpfung). Die Stärke der Progression wird durch die Parameter *p* und *t* definiert, welche abhängig sind von der Höhe der garantierten Mindestausstattung <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image27.png)</sub>, der Grenze von 70 Punkten, ab der die Progression beginnt, und der Grenzabschöpfung von 90 Prozent.
+- 4\.1 Die Berechnung richtet sich nach der Höhe des Ressourcenindexes. Bei einem Ressourcenindex von kleiner als 70 Punkten wird der Ausgleichsbetrag so festgelegt, dass der Kanton nach Ausgleich genau die garantierte Mindestausstattung <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image27.png)</sub> erreicht.
+- 4\.2 Bei Ressourcenindizes ab 70 Punkten steigt der resultierende Index nach Ausgleich progressiv an. Bei einem Ressourcenindex von genau 70 Punkten soll eine Erhöhung des standardisierten Steuerertrags um eine Einheit den Ausgleichsbetrag um 90 Prozent dieser Einheit reduzieren (Grenzabschöpfung). Die Stärke der Progression wird durch die Parameter *p* und *t* definiert, welche abhängig sind von der Höhe der garantierten Mindestausstattung <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image27.png)</sub>, der Grenze von 70 Punkten, ab der die Progression beginnt, und der Grenzabschöpfung von 90 Prozent.
 
-### 5. Auszahlung für das Jahr 2021
+### 5. Auszahlung für das Jahr 2022
 
 <table>
 <tr><th>Kanton</th><th>Ressourcen- index</th><th></th><th colspan="3">Ressourcenausgleich in Franken</th><th></th></tr>
 <tr><th></th><th></th><th colspan="2">horizontal</th><th>vertikal</th><th colspan="2">Total</th></tr>
-<tr><td>Zürich</td><td>122.4</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Bern</td><td>80.0</td><td colspan="2">336 900 106</td><td>505 350 159</td><td colspan="2">842 250 265</td></tr>
-<tr><td>Luzern</td><td>90.1</td><td colspan="2">43 871 907</td><td>65 807 860</td><td colspan="2">109 679 767</td></tr>
-<tr><td>Uri</td><td>72.2</td><td colspan="2">20 055 915</td><td>30 083 873</td><td colspan="2">50 139 788</td></tr>
-<tr><td>Schwyz</td><td>175.9</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Obwalden</td><td>116.8</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Nidwalden</td><td>153.7</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Glarus</td><td>71.8</td><td colspan="2">22 766 582</td><td>34 149 873</td><td colspan="2">56 916 455</td></tr>
-<tr><td>Zug</td><td>253.9</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Freiburg</td><td>75.5</td><td colspan="2">140 475 297</td><td>210 712 945</td><td colspan="2">351 188 242</td></tr>
-<tr><td>Solothurn</td><td>71.4</td><td colspan="2">155 333 344</td><td>233 000 016</td><td colspan="2">388 333 360</td></tr>
-<tr><td>Basel-Stadt</td><td>143.4</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Basel-Landschaft</td><td>97.8</td><td colspan="2">2 829 646</td><td>4 244 469</td><td colspan="2">7 074 115</td></tr>
-<tr><td>Schaffhausen</td><td>93.8</td><td colspan="2">4 164 626</td><td>6 246 939</td><td colspan="2">10 411 565</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>84.8</td><td colspan="2">11 688 669</td><td>17 533 004</td><td colspan="2">29 221 673</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>94.6</td><td colspan="2">656 026</td><td>984 039</td><td colspan="2">1 640 065</td></tr>
-<tr><td>St. Gallen</td><td>81.0</td><td colspan="2">151 542 605</td><td>227 313 907</td><td colspan="2">378 856 512</td></tr>
-<tr><td>Graubünden</td><td>82.8</td><td colspan="2">52 837 551</td><td>79 256 326</td><td colspan="2">132 093 877</td></tr>
-<tr><td>Aargau</td><td>81.4</td><td colspan="2">193 916 439</td><td>290 874 658</td><td colspan="2">484 791 097</td></tr>
-<tr><td>Thurgau</td><td>78.5</td><td colspan="2">99 526 987</td><td>149 290 481</td><td colspan="2">248 817 468</td></tr>
-<tr><td>Tessin</td><td>96.8</td><td colspan="2">6 497 496</td><td>9 746 245</td><td colspan="2">16 243 741</td></tr>
-<tr><td>Waadt</td><td>100.5</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Wallis</td><td>64.8</td><td colspan="2">279 117 019</td><td>418 675 528</td><td colspan="2">697 792 547</td></tr>
-<tr><td>Neuenburg</td><td>81.1</td><td colspan="2">53 787 488</td><td>80 681 233</td><td colspan="2">134 468 721</td></tr>
-<tr><td>Genf</td><td>137.9</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Jura</td><td>64.6</td><td colspan="2">59 723 871</td><td>89 585 806</td><td colspan="2">149 309 677</td></tr>
-<tr><td>Total Kantone</td><td>100.0</td><td colspan="2">1 635 691 574</td><td>2 453 537 361</td><td colspan="2">4 089 228 935</td></tr>
+<tr><td>Zürich</td><td>123.3</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Bern</td><td>79.5</td><td colspan="2">337 404 050</td><td>506 106 075</td><td colspan="2">843 510 125</td></tr>
+<tr><td>Luzern</td><td>91.3</td><td colspan="2">32 728 476</td><td>49 092 714</td><td colspan="2">81 821 190</td></tr>
+<tr><td>Uri</td><td>71.8</td><td colspan="2">20 204 219</td><td>30 306 329</td><td colspan="2">50 510 548</td></tr>
+<tr><td>Schwyz</td><td>177.9</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Obwalden</td><td>102.4</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Nidwalden</td><td>155.5</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Glarus</td><td>72.7</td><td colspan="2">21 203 692</td><td>31 805 538</td><td colspan="2">53 009 230</td></tr>
+<tr><td>Zug</td><td>255.4</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Freiburg</td><td>72.0</td><td colspan="2">171 837 213</td><td>257 755 819</td><td colspan="2">429 593 032</td></tr>
+<tr><td>Solothurn</td><td>71.1</td><td colspan="2">156 186 139</td><td>234 279 209</td><td colspan="2">390 465 348</td></tr>
+<tr><td>Basel-Stadt</td><td>141.9</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Basel-Landschaft</td><td>97.3</td><td colspan="2">3 427 905</td><td>5 141 857</td><td colspan="2">8 569 762</td></tr>
+<tr><td>Schaffhausen</td><td>95.3</td><td colspan="2">2 415 637</td><td>3 623 455</td><td colspan="2">6 039 092</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>85.3</td><td colspan="2">10 489 660</td><td>15 734 490</td><td colspan="2">26 224 150</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>96.3</td><td colspan="2">326 973</td><td>490 460</td><td colspan="2">817 433</td></tr>
+<tr><td>St. Gallen</td><td>83.0</td><td colspan="2">122 497 882</td><td>183 746 823</td><td colspan="2">306 244 705</td></tr>
+<tr><td>Graubünden</td><td>82.9</td><td colspan="2">49 980 457</td><td>74 970 685</td><td colspan="2">124 951 142</td></tr>
+<tr><td>Aargau</td><td>81.6</td><td colspan="2">184 573 360</td><td>276 860 040</td><td colspan="2">461 433 400</td></tr>
+<tr><td>Thurgau</td><td>79.3</td><td colspan="2">91 057 499</td><td>136 586 249</td><td colspan="2">227 643 748</td></tr>
+<tr><td>Tessin</td><td>96.0</td><td colspan="2">8 079 888</td><td>12 119 832</td><td colspan="2">20 199 720</td></tr>
+<tr><td>Waadt</td><td>99.6</td><td colspan="2">473 584</td><td>710 376</td><td colspan="2">1 183 960</td></tr>
+<tr><td>Wallis</td><td>64.7</td><td colspan="2">280 645 962</td><td>420 968 943</td><td colspan="2">701 614 905</td></tr>
+<tr><td>Neuenburg</td><td>80.1</td><td colspan="2">55 779 487</td><td>83 669 230</td><td colspan="2">139 448 717</td></tr>
+<tr><td>Genf</td><td>136.6</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Jura</td><td>65.6</td><td colspan="2">56 738 456</td><td>85 107 684</td><td colspan="2">141 846 140</td></tr>
+<tr><td>Total Kantone</td><td>100.0</td><td colspan="2">1 606 050 539</td><td>2 409 075 808</td><td colspan="2">4 015 126 347</td></tr>
 </table>
 
 Anhang 8*[^t-9]*
@@ -1359,7 +1359,7 @@ Anhang 8*[^t-9]*
 
 ## Beiträge der ressourcenstarken Kantone
 
-[^t-9]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 4. Nov. 2015 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-9]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 4. Nov. 2015 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### 1. Definition der Variablen und Parameter
 
@@ -1377,47 +1377,47 @@ n Anzahl ressourcenstarke Kantone
 
 Der Beitrag eines ressourcenstarken Kantons *q* berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image28.png)
 
 ### 3. Kommentar zur Berechnung
 
 Zur Festlegung des Beitrags eines ressourcenstarken Kantons q wird sein 100 Punkte übersteigender Ressourcenindex, RI<sub>q</sub>-100, mit seiner mittleren ständigen und nichtständigen Wohnbevölkerung, e<sub>q</sub>, multipliziert. Dieser Wert wird anschliessend in Beziehung gesetzt zur Summe der Werte aller n ressourcenstarken Kantone,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image29.png)
 
 Daraus ergibt sich sein Anteil am gesamten Beitrag der ressourcenstarken Kantone, A.
 
-### 4. Einzahlung für das Jahr 2021
+### 4. Einzahlung für das Jahr 2022
 
 <table>
 <tr><th>Kanton</th><th>Ressourcenindex</th><th>Beiträge in Franken</th></tr>
-<tr><td>Zürich</td><td>122.4</td><td>575 469 393</td></tr>
-<tr><td>Bern</td><td>80.0</td><td>0</td></tr>
-<tr><td>Luzern</td><td>90.1</td><td>0</td></tr>
-<tr><td>Uri</td><td>72.2</td><td>0</td></tr>
-<tr><td>Schwyz</td><td>175.9</td><td>204 774 800</td></tr>
-<tr><td>Obwalden</td><td>116.8</td><td>10 908 200</td></tr>
-<tr><td>Nidwalden</td><td>153.7</td><td>39 680 674</td></tr>
-<tr><td>Glarus</td><td>71.8</td><td>0</td></tr>
-<tr><td>Zug</td><td>253.9</td><td>331 241 365</td></tr>
-<tr><td>Freiburg</td><td>75.5</td><td>0</td></tr>
-<tr><td>Solothurn</td><td>71.4</td><td>0</td></tr>
-<tr><td>Basel-Stadt</td><td>143.4</td><td>146 298 185</td></tr>
-<tr><td>Basel-Landschaft</td><td>97.8</td><td>0</td></tr>
-<tr><td>Schaffhausen</td><td>93.8</td><td>0</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>84.8</td><td>0</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>94.6</td><td>0</td></tr>
-<tr><td>St. Gallen</td><td>81.0</td><td>0</td></tr>
-<tr><td>Graubünden</td><td>82.8</td><td>0</td></tr>
-<tr><td>Aargau</td><td>81.4</td><td>0</td></tr>
-<tr><td>Thurgau</td><td>78.5</td><td>0</td></tr>
-<tr><td>Tessin</td><td>96.8</td><td>0</td></tr>
-<tr><td>Waadt</td><td>100.5</td><td>6 225 155</td></tr>
-<tr><td>Wallis</td><td>64.8</td><td>0</td></tr>
-<tr><td>Neuenburg</td><td>81.1</td><td>0</td></tr>
-<tr><td>Genf</td><td>137.9</td><td>321 093 802</td></tr>
-<tr><td>Jura</td><td>64.6</td><td>0</td></tr>
-<tr><td>Total Kantone</td><td>100.0</td><td>1 635 691 574</td></tr>
+<tr><td>Zürich</td><td>123.3</td><td>588 685 510</td></tr>
+<tr><td>Bern</td><td>79.5</td><td>0</td></tr>
+<tr><td>Luzern</td><td>91.3</td><td>0</td></tr>
+<tr><td>Uri</td><td>71.8</td><td>0</td></tr>
+<tr><td>Schwyz</td><td>177.9</td><td>205 569 658</td></tr>
+<tr><td>Obwalden</td><td>102.4</td><td>1 542 497</td></tr>
+<tr><td>Nidwalden</td><td>155.5</td><td>40 049 604</td></tr>
+<tr><td>Glarus</td><td>72.7</td><td>0</td></tr>
+<tr><td>Zug</td><td>255.4</td><td>328 668 752</td></tr>
+<tr><td>Freiburg</td><td>72.0</td><td>0</td></tr>
+<tr><td>Solothurn</td><td>71.1</td><td>0</td></tr>
+<tr><td>Basel-Stadt</td><td>141.9</td><td>137 818 140</td></tr>
+<tr><td>Basel-Landschaft</td><td>97.3</td><td>0</td></tr>
+<tr><td>Schaffhausen</td><td>95.3</td><td>0</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>85.3</td><td>0</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>96.3</td><td>0</td></tr>
+<tr><td>St. Gallen</td><td>83.0</td><td>0</td></tr>
+<tr><td>Graubünden</td><td>82.9</td><td>0</td></tr>
+<tr><td>Aargau</td><td>81.6</td><td>0</td></tr>
+<tr><td>Thurgau</td><td>79.3</td><td>0</td></tr>
+<tr><td>Tessin</td><td>96.0</td><td>0</td></tr>
+<tr><td>Waadt</td><td>99.6</td><td>0</td></tr>
+<tr><td>Wallis</td><td>64.7</td><td>0</td></tr>
+<tr><td>Neuenburg</td><td>80.1</td><td>0</td></tr>
+<tr><td>Genf</td><td>136.6</td><td>303 716 378</td></tr>
+<tr><td>Jura</td><td>65.6</td><td>0</td></tr>
+<tr><td>Total Kantone</td><td>100.0</td><td>1 606 050 539</td></tr>
 </table>
 
 Anhang 9*[^t-10]*
@@ -1444,40 +1444,40 @@ Anhang 12*[^t-13]*
 
 (Art. 33)
 
-## Geografisch-topografischer Lastenausgleich: Ausgleichszahlungen 2021
+## Geografisch-topografischer Lastenausgleich: Ausgleichszahlungen 2022
 
-[^t-13]: Fassung gemäss Ziff. I Abs. 1 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-13]: Fassung gemäss Ziff. I Abs. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 <table>
 <tr><th>Kanton</th><th></th><th></th><th colspan="5">Ausgleichsbeträge in Franken</th><th></th><th></th></tr>
 <tr><th></th><th colspan="3">Siedlungshöhe</th><th>Steilheit des Geländes</th><th>Siedlungsstruktur</th><th>Geringe Bevölkerungsdichte</th><th colspan="3">Total</th></tr>
 <tr><td>Zürich</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Bern</td><td colspan="3">1 915 836</td><td>1 335 048</td><td>20 990 875</td><td>4 008 543</td><td colspan="3">28 250 302</td></tr>
-<tr><td>Luzern</td><td colspan="3">0</td><td>0</td><td>6 080 440</td><td>0</td><td colspan="3">6 080 440</td></tr>
-<tr><td>Uri</td><td colspan="3">516 740</td><td>5 660 841</td><td>1 680 667</td><td>3 759 198</td><td colspan="3">11 617 446</td></tr>
-<tr><td>Schwyz</td><td colspan="3">2 498 233</td><td>2 095 068</td><td>1 721 808</td><td>577 929</td><td colspan="3">6 893 039</td></tr>
-<tr><td>Obwalden</td><td colspan="3">488 138</td><td>2 833 873</td><td>1 431 662</td><td>1 284 699</td><td colspan="3">6 038 372</td></tr>
-<tr><td>Nidwalden</td><td colspan="3">0</td><td>525 985</td><td>506 794</td><td>279 882</td><td colspan="3">1 312 660</td></tr>
-<tr><td>Glarus</td><td colspan="3">0</td><td>3 276 073</td><td>5 292</td><td>2 045 700</td><td colspan="3">5 327 066</td></tr>
+<tr><td>Bern</td><td colspan="3">1 924 941</td><td>1 339 050</td><td>20 800 683</td><td>4 059 003</td><td colspan="3">28 123 677</td></tr>
+<tr><td>Luzern</td><td colspan="3">0</td><td>0</td><td>6 007 519</td><td>0</td><td colspan="3">6 007 519</td></tr>
+<tr><td>Uri</td><td colspan="3">519 856</td><td>5 677 824</td><td>1 540 700</td><td>3 757 928</td><td colspan="3">11 496 309</td></tr>
+<tr><td>Schwyz</td><td colspan="3">2 548 391</td><td>2 101 354</td><td>1 703 350</td><td>575 235</td><td colspan="3">6 928 330</td></tr>
+<tr><td>Obwalden</td><td colspan="3">494 703</td><td>2 842 374</td><td>1 489 558</td><td>1 288 190</td><td colspan="3">6 114 824</td></tr>
+<tr><td>Nidwalden</td><td colspan="3">0</td><td>527 563</td><td>584 480</td><td>288 180</td><td colspan="3">1 400 223</td></tr>
+<tr><td>Glarus</td><td colspan="3">0</td><td>3 285 902</td><td>5 831</td><td>2 047 474</td><td colspan="3">5 339 206</td></tr>
 <tr><td>Zug</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Freiburg</td><td colspan="3">1 925 361</td><td>0</td><td>6 114 145</td><td>546 480</td><td colspan="3">8 585 987</td></tr>
+<tr><td>Freiburg</td><td colspan="3">2 031 933</td><td>0</td><td>6 298 692</td><td>534 826</td><td colspan="3">8 865 451</td></tr>
 <tr><td>Solothurn</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
 <tr><td>Basel-Stadt</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
 <tr><td>Basel-Landschaft</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
 <tr><td>Schaffhausen</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Appenzell A.Rh.</td><td colspan="3">17 520 513</td><td>191 768</td><td>2 097 902</td><td>0</td><td colspan="3">19 810 183</td></tr>
-<tr><td>Appenzell I.Rh.</td><td colspan="3">5 219 242</td><td>371 065</td><td>2 692 792</td><td>394 400</td><td colspan="3">8 677 499</td></tr>
-<tr><td>St. Gallen</td><td colspan="3">0</td><td>0</td><td>1 747 994</td><td>0</td><td colspan="3">1 747 994</td></tr>
-<tr><td>Graubünden</td><td colspan="3">39 175 414</td><td>62 370 082</td><td>9 407 517</td><td>25 659 240</td><td colspan="3">136 612 252</td></tr>
+<tr><td>Appenzell A.Rh.</td><td colspan="3">17 762 089</td><td>192 343</td><td>2 291 458</td><td>0</td><td colspan="3">20 245 890</td></tr>
+<tr><td>Appenzell I.Rh.</td><td colspan="3">5 236 667</td><td>372 179</td><td>2 672 513</td><td>396 920</td><td colspan="3">8 678 279</td></tr>
+<tr><td>St. Gallen</td><td colspan="3">0</td><td>0</td><td>1 867 763</td><td>0</td><td colspan="3">1 867 763</td></tr>
+<tr><td>Graubünden</td><td colspan="3">39 083 297</td><td>62 557 194</td><td>9 774 415</td><td>25 669 849</td><td colspan="3">137 084 756</td></tr>
 <tr><td>Aargau</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Thurgau</td><td colspan="3">0</td><td>0</td><td>3 561 208</td><td>0</td><td colspan="3">3 561 208</td></tr>
-<tr><td>Tessin</td><td colspan="3">0</td><td>9 985 263</td><td>0</td><td>4 611 639</td><td colspan="3">14 596 903</td></tr>
-<tr><td>Waadt</td><td colspan="3">59 131</td><td>0</td><td>0</td><td>0</td><td colspan="3">59 131</td></tr>
-<tr><td>Wallis</td><td colspan="3">28 950 969</td><td>29 392 147</td><td>551 738</td><td>14 868 884</td><td colspan="3">73 763 738</td></tr>
-<tr><td>Neuenburg</td><td colspan="3">20 914 979</td><td>2 073 252</td><td>5 112</td><td>0</td><td colspan="3">22 993 344</td></tr>
+<tr><td>Thurgau</td><td colspan="3">0</td><td>0</td><td>3 159 577</td><td>0</td><td colspan="3">3 159 577</td></tr>
+<tr><td>Tessin</td><td colspan="3">0</td><td>10 015 219</td><td>0</td><td>4 701 774</td><td colspan="3">14 716 994</td></tr>
+<tr><td>Waadt</td><td colspan="3">107 042</td><td>0</td><td>0</td><td>0</td><td colspan="3">107 042</td></tr>
+<tr><td>Wallis</td><td colspan="3">29 115 153</td><td>29 480 324</td><td>488 017</td><td>14 889 937</td><td colspan="3">73 973 431</td></tr>
+<tr><td>Neuenburg</td><td colspan="3">20 694 614</td><td>2 079 472</td><td>38 216</td><td>0</td><td colspan="3">22 812 303</td></tr>
 <tr><td>Genf</td><td colspan="3">0</td><td>0</td><td>0</td><td>0</td><td colspan="3">0</td></tr>
-<tr><td>Jura</td><td colspan="3">925 909</td><td>0</td><td>1 459 287</td><td>2 018 640</td><td colspan="3">4 403 835</td></tr>
-<tr><td>Total Kantone</td><td colspan="3">120 110 466</td><td>120 110 466</td><td>60 055 233</td><td>60 055 233</td><td colspan="3">360 331 399</td></tr>
+<tr><td>Jura</td><td colspan="3">952 111</td><td>0</td><td>1 512 626</td><td>2 026 083</td><td colspan="3">4 490 819</td></tr>
+<tr><td>Total Kantone</td><td colspan="3">120 470 798</td><td>120 470 798</td><td>60 235 399</td><td>60 235 399</td><td colspan="3">361 412 393</td></tr>
 </table>
 
 Anhang 13*[^t-14]*
@@ -1486,61 +1486,61 @@ Anhang 13*[^t-14]*
 
 ## Massgebende Sonderlasten aufgrund der Bevölkerungsstruktur
 
-[^t-14]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 4. Nov. 2015 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-14]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 4. Nov. 2015 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 **Berechnung des Lastenindex**
 
 a) Variablen und Parameter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image30.png) Teilindikator «Armut» des Kantons k
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image30.png) Teilindikator «Armut» des Kantons k
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image31.png) Teilindikator «Altersstruktur» des Kantons k
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image31.png) Teilindikator «Altersstruktur» des Kantons k
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image32.png) Teilindikator «Ausländerintegration» des Kantons k
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image32.png) Teilindikator «Ausländerintegration» des Kantons k
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image33.png) Mittelwert der Teilindikatoren «Armut» der Kantone
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image33.png) Mittelwert der Teilindikatoren «Armut» der Kantone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image34.png) Mittelwert der Teilindikatoren «Altersstruktur» der Kantone
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image34.png) Mittelwert der Teilindikatoren «Altersstruktur» der Kantone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image35.png) Mittelwert der Teilindikatoren «Ausländerintegration» der Kantone
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image35.png) Mittelwert der Teilindikatoren «Ausländerintegration» der Kantone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image36.png) Standardabweichung der Teilindikatoren «Armut» der Kantone
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image36.png) Standardabweichung der Teilindikatoren «Armut» der Kantone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image37.png) Standardabweichung der Teilindikatoren «Altersstruktur» der Kantone
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image37.png) Standardabweichung der Teilindikatoren «Altersstruktur» der Kantone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image38.png) Standardabweichung der Teilindikatoren «Ausländerintegration» der Kantone
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image38.png) Standardabweichung der Teilindikatoren «Ausländerintegration» der Kantone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image39.png) Standardisierter Teilindikator «Armut» des Kantons k
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image39.png) Standardisierter Teilindikator «Armut» des Kantons k
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image40.png) Standardisierter Teilindikator «Altersstruktur» des Kantons k
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image40.png) Standardisierter Teilindikator «Altersstruktur» des Kantons k
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image41.png) Standardisierter Teilindikator «Ausländerintegration» des Kantons k
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image41.png) Standardisierter Teilindikator «Ausländerintegration» des Kantons k
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image42.png) Gewicht für den standardisierten Teilindikator «Armut»
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image42.png) Gewicht für den standardisierten Teilindikator «Armut»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image43.png) Gewicht für den standardisierten Teilindikator «Altersstruktur»
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image43.png) Gewicht für den standardisierten Teilindikator «Altersstruktur»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image44.png) Gewicht für den standardisierten Teilindikator «Ausländerintegration»
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image44.png) Gewicht für den standardisierten Teilindikator «Ausländerintegration»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image45.png) Lastenindex für Sonderlasten der Bevölkerungsstruktur des Kantons k
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image45.png) Lastenindex für Sonderlasten der Bevölkerungsstruktur des Kantons k
 
 b) Die standardisierten Teilindikatoren werden wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image46.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image46.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image47.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image47.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image48.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image48.png).
 
 Die Standardisierung erfolgt, indem die Abweichungen der Teilindikatoren zum jeweiligen Schweizer Mittelwert mit der Standardabweichung dividiert werden.
 
 c) Der Lastenindex für Sonderlasten der Bevölkerungsstruktur eines Kantons *k* berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image49.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image49.png)
 
 d) Die Gewichte werden mit Hilfe einer Hauptkomponentenanalyse berechnet. Für die Gewichte gilt deshalb:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image50.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image50.png),
 
 mit
 
@@ -1550,12 +1550,12 @@ mit
 
 x<sub>ZS</sub> Eigenvektor des Eigenwerts λ<sub>ZS</sub>
 
-e) Gewichte für das Jahr 2021:
+e) Gewichte für das Jahr 2022:
 
 <table>
 <tr><td>μ<sub>ZSA</sub></td><td>0.56</td></tr>
-<tr><td>μ<sub>ZSS</sub></td><td>0.18</td></tr>
-<tr><td>μ<sub>ZSI</sub></td><td>0.48</td></tr>
+<tr><td>μ<sub>ZSS</sub></td><td>0.12</td></tr>
+<tr><td>μ<sub>ZSI</sub></td><td>0.51</td></tr>
 </table>
 
 Anhang 14*[^t-15]*
@@ -1564,61 +1564,61 @@ Anhang 14*[^t-15]*
 
 ## Massgebende Sonderlasten der Kernstädte
 
-[^t-15]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 4. Nov. 2015 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-15]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 4. Nov. 2015 ([AS 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### 1. Berechnung des Lastenindex der Gemeinden
 
 a) Variablen und Parameter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image51.png) Teilindikator «Gemeindegrösse» der Gemeinde *g*
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image51.png) Teilindikator «Gemeindegrösse» der Gemeinde *g*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image52.png) Teilindikator «Siedlungsdichte» der Gemeinde *g*
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image52.png) Teilindikator «Siedlungsdichte» der Gemeinde *g*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image53.png) Teilindikator «Beschäftigungsquote» der Gemeinde *g*
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image53.png) Teilindikator «Beschäftigungsquote» der Gemeinde *g*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image54.png) Mittelwert der Teilindikatoren «Gemeindegrösse» der Gemeinden
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image54.png) Mittelwert der Teilindikatoren «Gemeindegrösse» der Gemeinden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image55.png) Mittelwert der Teilindikatoren «Siedlungsdichte» der Gemeinden
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image55.png) Mittelwert der Teilindikatoren «Siedlungsdichte» der Gemeinden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image56.png) Mittelwert der Teilindikatoren «Beschäftigungsquote» der Gemeinden
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image56.png) Mittelwert der Teilindikatoren «Beschäftigungsquote» der Gemeinden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image57.png) Standardabweichung der Teilindikatoren «Gemeindegrösse» der Gemeinden
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image57.png) Standardabweichung der Teilindikatoren «Gemeindegrösse» der Gemeinden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image58.png) Standardabweichung der Teilindikatoren «Siedlungsdichte» der Gemeinden
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image58.png) Standardabweichung der Teilindikatoren «Siedlungsdichte» der Gemeinden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image59.png) Standardabweichung der Teilindikatoren «Beschäftigungsquote» der Gemeinden
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image59.png) Standardabweichung der Teilindikatoren «Beschäftigungsquote» der Gemeinden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image60.png) Standardisierter Teilindikator «Gemeindegrösse» der Gemeinde *g*
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image60.png) Standardisierter Teilindikator «Gemeindegrösse» der Gemeinde *g*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image61.png) Standardisierter Teilindikator «Siedlungsdichte» der Gemeinde *g*
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image61.png) Standardisierter Teilindikator «Siedlungsdichte» der Gemeinde *g*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image62.png) Standardisierter Teilindikator «Beschäftigungsquote» der Gemeinde *g*
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image62.png) Standardisierter Teilindikator «Beschäftigungsquote» der Gemeinde *g*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image63.png) Gewicht für den standardisierten Teilindikator «Gemeindegrösse»
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image63.png) Gewicht für den standardisierten Teilindikator «Gemeindegrösse»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image64.png) Gewicht für den standardisierten Teilindikator «Siedlungsdichte»
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image64.png) Gewicht für den standardisierten Teilindikator «Siedlungsdichte»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image65.png) Gewicht für den standardisierten Teilindikator «Beschäftigungsquote»
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image65.png) Gewicht für den standardisierten Teilindikator «Beschäftigungsquote»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image66.png) Lastenindex für Sonderlasten der Kernstädte für Gemeinde *g*
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image66.png) Lastenindex für Sonderlasten der Kernstädte für Gemeinde *g*
 
 b) Die standardisierten Teilindikatoren werden wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image67.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image67.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image68.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image68.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image69.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image69.png).
 
 Die Standardisierung erfolgt, indem die Abweichungen der Teilindikatoren zum jeweiligen Schweizer Mittelwert mit der Standardabweichung dividiert werden.
 
 c) Der Lastenindex für Sonderlasten der Kernstädte einer Gemeinde berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image70.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image70.png)
 
 d) Die Gewichte werden mit Hilfe einer Hauptkomponentenanalyse berechnet. Für die Gewichte gilt deshalb:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image71.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image71.png),
 
 mit
 
@@ -1628,12 +1628,12 @@ mit
 
 xZF Eigenvektor des Eigenwerts λZF
 
-e) Gewichte für das Jahr 2021:
+e) Gewichte für das Jahr 2022:
 
 <table>
-<tr><td>µ<sub>ZFG</sub></td><td>0.47</td></tr>
-<tr><td>µ<sub>ZFS</sub></td><td>0.49</td></tr>
-<tr><td>µ<sub>ZFB</sub></td><td>0.34</td></tr>
+<tr><td>μ<sub>ZFG</sub></td><td>0.47</td></tr>
+<tr><td>μ<sub>ZFS</sub></td><td>0.49</td></tr>
+<tr><td>μ<sub>ZFB</sub></td><td>0.33</td></tr>
 </table>
 
 ### 2. Berechnung des Lastenindex der Kantone
@@ -1654,46 +1654,46 @@ b) Berechnung:
 
 Der Lastenindex eines Kantons ist der mit der Bevölkerung gewichtete Durchschnitt der Lastenindizes seiner Gemeinden. Er ist somit gegeben durch die Summe der mit der ständigen Wohnbevölkerung multiplizierten Lastenindizes der Gemeinden im Kanton, dividiert durch die ständige Wohnbevölkerung des Kantons:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image72.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image72.png)
 
 Anhang 15*[^t-16]*
 
 (Art. 40)
 
-## Soziodemografischer Lastenausgleich: Ausgleichszahlungen 2021
+## Soziodemografischer Lastenausgleich: Ausgleichszahlungen 2022
 
-[^t-16]: Fassung gemäss Ziff. I Abs. 1 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-16]: Fassung gemäss Ziff. I Abs. 1 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 <table>
 <tr><th>Kanton</th><th></th><th colspan="3">Ausgleichsbeträge in Franken</th><th></th></tr>
 <tr><th></th><th colspan="2">Sonderlasten der Bevölkerungsstruktur</th><th>Sonderlasten der Kernstädte</th><th colspan="2">Total</th></tr>
-<tr><td>Zürich</td><td colspan="2">7 854 095</td><td>81 763 872</td><td colspan="2">89 617 967</td></tr>
-<tr><td>Bern</td><td colspan="2">4 030 483</td><td>0</td><td colspan="2">4 030 483</td></tr>
+<tr><td>Zürich</td><td colspan="2">15 494 524</td><td>93 506 943</td><td colspan="2">109 001 467</td></tr>
+<tr><td>Bern</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Luzern</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Uri</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Schwyz</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Obwalden</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Nidwalden</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Glarus</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Zug</td><td colspan="2">463 744</td><td>0</td><td colspan="2">463 744</td></tr>
+<tr><td>Zug</td><td colspan="2">1 939 001</td><td>0</td><td colspan="2">1 939 001</td></tr>
 <tr><td>Freiburg</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Solothurn</td><td colspan="2">7 372 205</td><td>0</td><td colspan="2">7 372 205</td></tr>
-<tr><td>Basel-Stadt</td><td colspan="2">41 775 402</td><td>21 414 421</td><td colspan="2">63 189 823</td></tr>
+<tr><td>Solothurn</td><td colspan="2">8 315 748</td><td>0</td><td colspan="2">8 315 748</td></tr>
+<tr><td>Basel-Stadt</td><td colspan="2">45 924 973</td><td>24 011 773</td><td colspan="2">69 936 746</td></tr>
 <tr><td>Basel-Landschaft</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Schaffhausen</td><td colspan="2">1 197 608</td><td>0</td><td colspan="2">1 197 608</td></tr>
+<tr><td>Schaffhausen</td><td colspan="2">683 401</td><td>0</td><td colspan="2">683 401</td></tr>
 <tr><td>Appenzell A.Rh.</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Appenzell I.Rh.</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>St. Gallen</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Graubünden</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Aargau</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
 <tr><td>Thurgau</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
-<tr><td>Tessin</td><td colspan="2">11 049 092</td><td>0</td><td colspan="2">11 049 092</td></tr>
-<tr><td>Waadt</td><td colspan="2">96 582 070</td><td>4 445 114</td><td colspan="2">101 027 184</td></tr>
-<tr><td>Wallis</td><td colspan="2">11 274 094</td><td>0</td><td colspan="2">11 274 094</td></tr>
-<tr><td>Neuenburg</td><td colspan="2">14 735 852</td><td>0</td><td colspan="2">14 735 852</td></tr>
-<tr><td>Genf</td><td colspan="2">97 026 920</td><td>39 153 726</td><td colspan="2">136 180 646</td></tr>
-<tr><td>Jura</td><td colspan="2">192 701</td><td>0</td><td colspan="2">192 701</td></tr>
-<tr><td>Total Kantone</td><td colspan="2">293 554 266</td><td>146 777 133</td><td colspan="2">440 331 399</td></tr>
+<tr><td>Tessin</td><td colspan="2">6 364 370</td><td>0</td><td colspan="2">6 364 370</td></tr>
+<tr><td>Waadt</td><td colspan="2">115 023 986</td><td>4 868 870</td><td colspan="2">119 892 856</td></tr>
+<tr><td>Wallis</td><td colspan="2">12 789 809</td><td>0</td><td colspan="2">12 789 809</td></tr>
+<tr><td>Neuenburg</td><td colspan="2">15 001 183</td><td>0</td><td colspan="2">15 001 183</td></tr>
+<tr><td>Genf</td><td colspan="2">112 737 934</td><td>44 749 878</td><td colspan="2">157 487 812</td></tr>
+<tr><td>Jura</td><td colspan="2">0</td><td>0</td><td colspan="2">0</td></tr>
+<tr><td>Total Kantone</td><td colspan="2">334 274 929</td><td>167 137 464</td><td colspan="2">501 412 393</td></tr>
 </table>
 
 Anhang 16*[^t-17]*
@@ -1722,9 +1722,9 @@ ECHk,T Anzahl der Schweizer Einwohner der ständigen Wohnbevölkerung des Kanton
 
 ENk,T Anzahl der niedergelassenen Ausländer des Kantons k im Bemessungsjahr T
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image73.png) Gewichtung der Bruttoeinkommen von Grenzgängern aus dem Nachbarstaat X des Kantons k im Bemessungsjahr T gemäss Anhang 3
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image73.png) Gewichtung der Bruttoeinkommen von Grenzgängern aus dem Nachbarstaat X des Kantons k im Bemessungsjahr T gemäss Anhang 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image74.png) Bruttoeinkommen von Grenzgängern aus dem Nachbarstaat X des Kantons k im Bemessungsjahr T gemäss Anhang 3
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image74.png) Bruttoeinkommen von Grenzgängern aus dem Nachbarstaat X des Kantons k im Bemessungsjahr T gemäss Anhang 3
 
 RVk,T Reinvermögen pro Einwohner des Kantons k im Bemessungsjahr T
 
@@ -1738,7 +1738,7 @@ EJPk,T Ertrag der Gewinnsteuer pro Einwohner des Kantons k im Bemessungsjahr T
 
 GDBk,T Gewinne gemäss direkter Bundessteuer (nach Beteiligungsabzug) pro Einwohner des Kantons k im Bemessungsjahr T
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image75.png) Faktor Beta des Gesellschaftstyps gemischte Gesellschaft im Bemessungsjahr T gemäss Anhang 6
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image75.png) Faktor Beta des Gesellschaftstyps gemischte Gesellschaft im Bemessungsjahr T gemäss Anhang 6
 
 WGDBt Wachstumsrate der Gewinne gemäss direkter Bundessteuer der gesamten Schweiz im Jahr t
 
@@ -1756,23 +1756,23 @@ uk,t Residuen (Schätzfehler)
 
 <table>
 <tr><th>Fall</th><th>Bestandteil Ressourcenpotenzial</th><th colspan="3">Regressionsgleichung zur Bestimmung der Koeffizienten</th><th colspan="2"></th></tr>
-<tr><td>1</td><td>Massgebendes Einkommen natürliche Personen</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image76.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>für</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image77.png)</td></tr>
-<tr><td>2</td><td>Massgebende quellenbesteuerte Einkommen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image78.png)</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>mit</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image79.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image80.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image81.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image82.png)</td><td colspan="2"></td></tr>
-<tr><td>3</td><td>Massgebendes Vermögen natürliche Personen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image83.png)</td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>mit</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image84.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image85.png)</td><td colspan="2"></td></tr>
+<tr><td>1</td><td>Massgebendes Einkommen natürliche Personen</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image76.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>für</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image77.png)</td></tr>
+<tr><td>2</td><td>Massgebende quellenbesteuerte Einkommen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image78.png)</td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>mit</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image79.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image80.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image81.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image82.png)</td><td colspan="2"></td></tr>
+<tr><td>3</td><td>Massgebendes Vermögen natürliche Personen</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image83.png)</td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>mit</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image84.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image85.png)</td><td colspan="2"></td></tr>
 <tr><td>4</td><td>Massgebende Gewinne juristische Personen</td><td colspan="5">Schritt 1:</td></tr>
-<tr><td></td><td></td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image86.png)</sub></td><td></td></tr>
-<tr><td></td><td></td><td>mit</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image87.png)</sub></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image86.png)</sub></td><td></td></tr>
+<tr><td></td><td></td><td>mit</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image87.png)</sub></td><td colspan="2"></td></tr>
 <tr><td></td><td></td><td colspan="3">Schritt 2:</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image88.png)</sub></td><td colspan="2"></td></tr>
-<tr><td>5</td><td>Gewinne gemäss direkter Bundessteuer</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image89.png)</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td>für</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image90.png)</td></tr>
+<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image88.png)</sub></td><td colspan="2"></td></tr>
+<tr><td>5</td><td>Gewinne gemäss direkter Bundessteuer</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image89.png)</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>für</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image90.png)</td></tr>
 </table>
 
 Anhang 17*[^t-18]*
@@ -1815,19 +1815,19 @@ Anhang 18*[^t-19]*
 
 ## Härteausgleich
 
-[^t-19]: Bereinigt gemäss Ziff. I 2 der V vom 15. Nov. 2017 ([AS 2017 6287](https://fedlex.data.admin.ch/eli/oc/2017/694)), Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-19]: Bereinigt gemäss Ziff. I 2 der V vom 15. Nov. 2017 ([AS 2017 6287](https://fedlex.data.admin.ch/eli/oc/2017/694)), Ziff. II Abs. 4 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)) und Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### 1. Variablen und Parameter
 
 <table>
 <tr><td>gw<sub>k</sub></td><td>Grenzwert für die zu erreichende Mindestentlastung eines Kantons in Prozent des standardisierten Steuerertrags des Kantons *k*</td></tr>
 <tr><td>ε</td><td>Faktor zur Bestimmung der mit dem Härteausgleich angestrebten Entlastung in Abhängigkeit des Ressourcenindex</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image91.png)</td><td>Standardisierter Steuerertrag des Kantons *k* des Jahres 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image92.png)</td><td>Standardisierter Steuerertrag des Kantons *k* des Jahres 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image93.png)</td><td>Ressourcenindex des Kantons *k* des Jahres 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image94.png)</td><td>Ressourcenindex des Kantons *k* des Jahres 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image95.png)</td><td>Nettoergebnis des Kantons *k* in der Globalbilanz 2004 (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image96.png)</td><td>Nettoergebnis des Kantons *k* in der Globalbilanz 2005 (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image91.png)</td><td>Standardisierter Steuerertrag des Kantons *k* des Jahres 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image92.png)</td><td>Standardisierter Steuerertrag des Kantons *k* des Jahres 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image93.png)</td><td>Ressourcenindex des Kantons *k* des Jahres 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image94.png)</td><td>Ressourcenindex des Kantons *k* des Jahres 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image95.png)</td><td>Nettoergebnis des Kantons *k* in der Globalbilanz 2004 (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image96.png)</td><td>Nettoergebnis des Kantons *k* in der Globalbilanz 2005 (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
 <tr><td>nes<sub>k</sub></td><td>Nettoergebnis des Kantons *k* in Prozent des standardisierten Steuerertrags des Kantons *k* (positive Werte: Belastung, negative Werte: Entlastung)</td></tr>
 <tr><td>HA<sub>k</sub></td><td>Anfangsbeitrag aus dem Härteausgleich für den Kanton *k*</td></tr>
 </table>
@@ -1836,7 +1836,7 @@ Anhang 18*[^t-19]*
 
 Der Grenzwert für den Bezug von Härteausgleich berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image97.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image97.png)
 
 Der Grenzwert eines Kantons berechnet sich durch die Multiplikation des Faktors Epsilon, ε, mit der durchschnittlichen Abweichung des Ressourcenindex des Kantons vom Schweizer Durchschnitt in den Jahren 2004 und 2005. Negative Werte bedeuten eine Entlastung, positive Werte eine Belastung. Aus der Formel ergibt sich, dass der Grenzwert für einen durchschnittlich ressourcenschwachen Kanton negativ ist, d.h. dass eine Entlastung angestrebt wird.
 
@@ -1844,7 +1844,7 @@ Der Grenzwert eines Kantons berechnet sich durch die Multiplikation des Faktors 
 
 Das Nettoergebnis der Globalbilanz eines Kantons in Prozent des standardisierten Steuerertrags wird wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image98.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image98.png)
 
 Negative Werte bedeuten eine Nettoentlastung, positive Werte eine Nettobelastung.
 
@@ -1854,20 +1854,20 @@ Der Anfangsbeitrag eines Kantons *k* aus dem Härteausgleich richtet sich nach f
 
 <table>
 <tr><td>Bedingungen (wenn ...,)</td><td></td><td>Härteausgleich (... dann)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image99.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image100.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image101.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image99.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image100.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image101.png)</td></tr>
 </table>
 
 *Bedingung 1:* Ist der durchschnittliche Ressourcenindex in den Jahren 2004 und 2005 grösser als der Schweizer Durchschnitt,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image102.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image102.png),
 
 so erhält der Kanton keinen Härteausgleich.
 
 *Bedingung 2:* Ist der durchschnittliche Ressourcenindex in den Jahren 2004 und 2005 kleiner als der Schweizer Durchschnitt,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image103.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image103.png),
 
 so muss zwischen zwei Fällen unterschieden werden:
 
@@ -1875,17 +1875,17 @@ so muss zwischen zwei Fällen unterschieden werden:
 
 *all 2b:* Ist das Nettoergebnis der Globalbilanz in Prozent des standardisierten Steuerertrags grösser als der Grenzwert (d.h. ist die Nettoentlastung kleiner als die angestrebte Entlastung oder weist der Kanton eine Nettobelastung auf), so erhält der Kanton Härteausgleich in der Höhe der Differenz zwischen dem Nettoergebnis und dem Grenzwert, multipliziert mit seinem durchschnittlichen standardisierten Steuerertrag in den Jahren 2004 und 2005:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image104.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image104.png)
 
 ### 5. Bestimmung des Faktors Epsilon
 
 Der Faktor ε wird so bestimmt, dass die Summe aller Ausgleichszahlungen für die *h* im Härteausgleich anspruchsberechtigten Kantone *z* gleich dem für den Härteausgleich zur Verfügung stehenden Gesamtbetrag *H* entspricht:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image105.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image105.png).
 
 Mit *z* werden jene ressourcenschwachen Kantone bezeichnet, welche Anspruch auf Härteausgleich haben, d.h. alle Kantone *k*, für welche das Nettoergebnis in Prozent des standardisierten Steuerertrags einen höheren Wert aufweist als der Grenzwert:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20210101/de/xml/image/image106.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20220101/de/xml/image/image106.png).
 
 Der Faktor ε und die Kantone *z* werden mit einem Iterationsverfahren bestimmt.
 
@@ -1924,40 +1924,40 @@ Der Faktor ε und die Kantone *z* werden mit einem Iterationsverfahren bestimmt.
 <tr><td>Total Kantone</td><td>100.0</td><td></td><td></td><td></td><td>430 454 285</td></tr>
 </table>
 
-### 7. Beiträge für das Jahr 2021: Bereinigung der Anspruchsberechtigung aufgrund des Ressourcenindex 2021
+### 7. Beiträge für das Jahr 2022: Bereinigung der Anspruchsberechtigung aufgrund des Ressourcenindex 2022
 
 \+ = Belastung Kanton; – = Entlastung Kanton
 
 <table>
 <tr><th>Kanton</th><th>Ressourcen- index</th><th></th><th colspan="3">Bereinigter Härteausgleich in Franken</th><th></th></tr>
 <tr><th></th><th></th><th colspan="2">Auszahlung</th><th>Einzahlung</th><th colspan="2">Saldo</th></tr>
-<tr><td>Zürich</td><td>122.4</td><td colspan="2">0</td><td>13 802 904</td><td colspan="2">13 802 904</td></tr>
-<tr><td>Bern</td><td>80.0</td><td colspan="2">–36 494 262</td><td>10 769 742</td><td colspan="2">–25 724 520</td></tr>
-<tr><td>Luzern</td><td>90.1</td><td colspan="2">–16 584 448</td><td>3 904 859</td><td colspan="2">–12 679 589</td></tr>
-<tr><td>Uri</td><td>72.2</td><td colspan="2">0</td><td>391 432</td><td colspan="2">391 432</td></tr>
-<tr><td>Schwyz</td><td>175.9</td><td colspan="2">0</td><td>1 445 061</td><td colspan="2">1 445 061</td></tr>
-<tr><td>Obwalden</td><td>116.8</td><td colspan="2">0</td><td>363 659</td><td colspan="2">363 659</td></tr>
-<tr><td>Nidwalden</td><td>153.7</td><td colspan="2">0</td><td>417 103</td><td colspan="2">417 103</td></tr>
-<tr><td>Glarus</td><td>71.8</td><td colspan="2">–5 718 130</td><td>433 285</td><td colspan="2">–5 284 845</td></tr>
-<tr><td>Zug</td><td>253.9</td><td colspan="2">0</td><td>1 109 573</td><td colspan="2">1 109 573</td></tr>
-<tr><td>Freiburg</td><td>75.5</td><td colspan="2">–96 096 021</td><td>2 681 244</td><td colspan="2">–93 414 777</td></tr>
-<tr><td>Solothurn</td><td>71.4</td><td colspan="2">0</td><td>2 742 735</td><td colspan="2">2 742 735</td></tr>
-<tr><td>Basel-Stadt</td><td>143.4</td><td colspan="2">0</td><td>2 175 913</td><td colspan="2">2 175 913</td></tr>
-<tr><td>Basel-Landschaft</td><td>97.8</td><td colspan="2">0</td><td>2 906 464</td><td colspan="2">2 906 464</td></tr>
-<tr><td>Schaffhausen</td><td>93.8</td><td colspan="2">0</td><td>828 469</td><td colspan="2">828 469</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>84.8</td><td colspan="2">0</td><td>603 625</td><td colspan="2">603 625</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>94.6</td><td colspan="2">0</td><td>165 440</td><td colspan="2">165 440</td></tr>
-<tr><td>St. Gallen</td><td>81.0</td><td colspan="2">0</td><td>5 069 658</td><td colspan="2">5 069 658</td></tr>
-<tr><td>Graubünden</td><td>82.8</td><td colspan="2">0</td><td>2 132 005</td><td colspan="2">2 132 005</td></tr>
-<tr><td>Aargau</td><td>81.4</td><td colspan="2">0</td><td>6 111 751</td><td colspan="2">6 111 751</td></tr>
-<tr><td>Thurgau</td><td>78.5</td><td colspan="2">0</td><td>2 571 458</td><td colspan="2">2 571 458</td></tr>
-<tr><td>Tessin</td><td>96.8</td><td colspan="2">0</td><td>3 470 901</td><td colspan="2">3 470 901</td></tr>
-<tr><td>Waadt</td><td>100.5</td><td colspan="2">0</td><td>7 102 171</td><td colspan="2">7 102 171</td></tr>
-<tr><td>Wallis</td><td>64.8</td><td colspan="2">0</td><td>3 086 846</td><td colspan="2">3 086 846</td></tr>
-<tr><td>Neuenburg</td><td>81.1</td><td colspan="2">–76 182 909</td><td>1 883 924</td><td colspan="2">–74 298 985</td></tr>
-<tr><td>Genf</td><td>137.9</td><td colspan="2">0</td><td>4 615 464</td><td colspan="2">4 615 464</td></tr>
-<tr><td>Jura</td><td>64.6</td><td colspan="2">–13 571 288</td><td>763 333</td><td colspan="2">–12 807 955</td></tr>
-<tr><td>Total Kantone</td><td>100.0</td><td colspan="2">–244 647 058</td><td>81 549 019</td><td colspan="2">–163 098 039</td></tr>
+<tr><td>Zürich</td><td>123.3</td><td colspan="2">0</td><td>12 816 983</td><td colspan="2">12 816 983</td></tr>
+<tr><td>Bern</td><td>79.5</td><td colspan="2">–33 887 529</td><td>10 000 475</td><td colspan="2">–23 887 054</td></tr>
+<tr><td>Luzern</td><td>91.3</td><td colspan="2">–15 399 845</td><td>3 625 940</td><td colspan="2">–11 773 905</td></tr>
+<tr><td>Uri</td><td>71.8</td><td colspan="2">0</td><td>363 473</td><td colspan="2">363 473</td></tr>
+<tr><td>Schwyz</td><td>177.9</td><td colspan="2">0</td><td>1 341 842</td><td colspan="2">1 341 842</td></tr>
+<tr><td>Obwalden</td><td>102.4</td><td colspan="2">0</td><td>337 683</td><td colspan="2">337 683</td></tr>
+<tr><td>Nidwalden</td><td>155.5</td><td colspan="2">0</td><td>387 310</td><td colspan="2">387 310</td></tr>
+<tr><td>Glarus</td><td>72.7</td><td colspan="2">–5 309 692</td><td>402 336</td><td colspan="2">–4 907 356</td></tr>
+<tr><td>Zug</td><td>255.4</td><td colspan="2">0</td><td>1 030 318</td><td colspan="2">1 030 318</td></tr>
+<tr><td>Freiburg</td><td>72.0</td><td colspan="2">–89 232 020</td><td>2 489 726</td><td colspan="2">–86 742 294</td></tr>
+<tr><td>Solothurn</td><td>71.1</td><td colspan="2">0</td><td>2 546 825</td><td colspan="2">2 546 825</td></tr>
+<tr><td>Basel-Stadt</td><td>141.9</td><td colspan="2">0</td><td>2 020 491</td><td colspan="2">2 020 491</td></tr>
+<tr><td>Basel-Landschaft</td><td>97.3</td><td colspan="2">0</td><td>2 698 859</td><td colspan="2">2 698 859</td></tr>
+<tr><td>Schaffhausen</td><td>95.3</td><td colspan="2">0</td><td>769 293</td><td colspan="2">769 293</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>85.3</td><td colspan="2">0</td><td>560 509</td><td colspan="2">560 509</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>96.3</td><td colspan="2">0</td><td>153 623</td><td colspan="2">153 623</td></tr>
+<tr><td>St. Gallen</td><td>83.0</td><td colspan="2">0</td><td>4 707 539</td><td colspan="2">4 707 539</td></tr>
+<tr><td>Graubünden</td><td>82.9</td><td colspan="2">0</td><td>1 979 719</td><td colspan="2">1 979 719</td></tr>
+<tr><td>Aargau</td><td>81.6</td><td colspan="2">0</td><td>5 675 197</td><td colspan="2">5 675 197</td></tr>
+<tr><td>Thurgau</td><td>79.3</td><td colspan="2">0</td><td>2 387 782</td><td colspan="2">2 387 782</td></tr>
+<tr><td>Tessin</td><td>96.0</td><td colspan="2">0</td><td>3 222 980</td><td colspan="2">3 222 980</td></tr>
+<tr><td>Waadt</td><td>99.6</td><td colspan="2">0</td><td>6 594 873</td><td colspan="2">6 594 873</td></tr>
+<tr><td>Wallis</td><td>64.7</td><td colspan="2">0</td><td>2 866 357</td><td colspan="2">2 866 357</td></tr>
+<tr><td>Neuenburg</td><td>80.1</td><td colspan="2">–70 741 272</td><td>1 749 358</td><td colspan="2">–68 991 914</td></tr>
+<tr><td>Genf</td><td>136.6</td><td colspan="2">0</td><td>4 285 788</td><td colspan="2">4 285 788</td></tr>
+<tr><td>Jura</td><td>65.6</td><td colspan="2">–12 601 910</td><td>708 810</td><td colspan="2">–11 893 100</td></tr>
+<tr><td>Total Kantone</td><td>100.0</td><td colspan="2">–227 172 268</td><td>75 724 089</td><td colspan="2">–151 448 179</td></tr>
 </table>
 
 Anhang 19*[^t-20]*
@@ -1966,42 +1966,42 @@ Anhang 19*[^t-20]*
 
 ## Temporäre Abfederungsmassnahmen
 
-[^t-20]: Eingefügt durch Ziff. II Abs. 2 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5227](https://fedlex.data.admin.ch/eli/oc/2020/908)).
+[^t-20]: Eingefügt durch Ziff. II Abs. 2 der V vom 6. Nov. 2019 ([AS 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 701](https://fedlex.data.admin.ch/eli/oc/2021/701)).
 
 ### 1. Berechnung der Ausgleichszahlungen
 
 - 1\.1 Beitragsberechtigt sind alle Kantone, welche in den Jahren 2021 bis zum aktuellen Referenzjahr nie einen Ressourcenindex ≥ 100 Punkten erreicht haben.
 - 1\.2 Alle beitragsberechtigten Kantone erhalten in den Jahren 2021–2025 einen einheitlichen Beitrag pro Einwohnerin und Einwohner. Dieser Beitrag wird so berechnet, dass die Gesamtsumme den Mitteln nach Artikel 19*c* Absatz 2 FiLaG entspricht.
 
-### 2. Beiträge für das Jahr 2021
+### 2. Beiträge für das Jahr 2022
 
 <table>
-<tr><th>Kanton</th><th>Massgebende Bevölkerung</th><th>Abfederungsmassnahme in Franken</th></tr>
+<tr><th>Kanton</th><th>Massgebende Bevölkerung</th><th>Abfederungsmass-nahme in Franken</th></tr>
 <tr><td>Zürich</td><td>0</td><td>0</td></tr>
-<tr><td>Bern</td><td>1 028 768</td><td>16 050 271</td></tr>
-<tr><td>Luzern</td><td>404 324</td><td>6 308 039</td></tr>
-<tr><td>Uri</td><td>36 563</td><td>570 431</td></tr>
+<tr><td>Bern</td><td>1 034 573</td><td>40 074 723</td></tr>
+<tr><td>Luzern</td><td>407 830</td><td>15 797 518</td></tr>
+<tr><td>Uri</td><td>36 627</td><td>1 418 766</td></tr>
 <tr><td>Schwyz</td><td>0</td><td>0</td></tr>
 <tr><td>Obwalden</td><td>0</td><td>0</td></tr>
 <tr><td>Nidwalden</td><td>0</td><td>0</td></tr>
-<tr><td>Glarus</td><td>40 522</td><td>632 205</td></tr>
+<tr><td>Glarus</td><td>40 599</td><td>1 572 636</td></tr>
 <tr><td>Zug</td><td>0</td><td>0</td></tr>
-<tr><td>Freiburg</td><td>311 554</td><td>4 860 694</td></tr>
-<tr><td>Solothurn</td><td>270 113</td><td>4 214 152</td></tr>
+<tr><td>Freiburg</td><td>315 241</td><td>12 211 016</td></tr>
+<tr><td>Solothurn</td><td>272 546</td><td>10 557 196</td></tr>
 <tr><td>Basel-Stadt</td><td>0</td><td>0</td></tr>
-<tr><td>Basel-Landschaft</td><td>285 917</td><td>4 460 712</td></tr>
-<tr><td>Schaffhausen</td><td>81 300</td><td>1 268 395</td></tr>
-<tr><td>Appenzell A.Rh.</td><td>54 940</td><td>857 144</td></tr>
-<tr><td>Appenzell I.Rh.</td><td>16 086</td><td>250 962</td></tr>
-<tr><td>St. Gallen</td><td>504 132</td><td>7 865 188</td></tr>
-<tr><td>Graubünden</td><td>204 900</td><td>3 196 737</td></tr>
-<tr><td>Aargau</td><td>664 316</td><td>10 364 294</td></tr>
-<tr><td>Thurgau</td><td>270 964</td><td>4 227 424</td></tr>
-<tr><td>Tessin</td><td>355 527</td><td>5 546 729</td></tr>
+<tr><td>Basel-Landschaft</td><td>287 667</td><td>11 142 936</td></tr>
+<tr><td>Schaffhausen</td><td>81 879</td><td>3 171 612</td></tr>
+<tr><td>Appenzell A.Rh.</td><td>55 188</td><td>2 137 735</td></tr>
+<tr><td>Appenzell I.Rh.</td><td>16 145</td><td>625 391</td></tr>
+<tr><td>St. Gallen</td><td>506 737</td><td>19 628 712</td></tr>
+<tr><td>Graubünden</td><td>205 224</td><td>7 949 451</td></tr>
+<tr><td>Aargau</td><td>672 044</td><td>26 031 963</td></tr>
+<tr><td>Thurgau</td><td>274 007</td><td>10 613 795</td></tr>
+<tr><td>Tessin</td><td>356 336</td><td>13 802 871</td></tr>
 <tr><td>Waadt</td><td>0</td><td>0</td></tr>
-<tr><td>Wallis</td><td>345 046</td><td>5 383 216</td></tr>
-<tr><td>Neuenburg</td><td>179 497</td><td>2 800 411</td></tr>
+<tr><td>Wallis</td><td>347 870</td><td>13 474 930</td></tr>
+<tr><td>Neuenburg</td><td>179 255</td><td>6 943 535</td></tr>
 <tr><td>Genf</td><td>0</td><td>0</td></tr>
-<tr><td>Jura</td><td>73 262</td><td>1 142 996</td></tr>
-<tr><td>Total Kantone</td><td>5 127 728</td><td>80 000 000</td></tr>
+<tr><td>Jura</td><td>73 452</td><td>2 845 214</td></tr>
+<tr><td>Total Kantone</td><td>5 163 221</td><td>200 000 000</td></tr>
 </table>
