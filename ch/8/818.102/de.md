@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2021-12-30
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211230/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211230-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,29 +16,28 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 30. Dezember 2021)
+vom 25. September 2020 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 68 Absatz 1, 69 Absatz 2, 92, 93, 100, 101 Absatz 2, 102, 103, 113, 114 Absatz 1, 117 Absatz 1, 118 Absatz 2 Buchstabe b, 121 Absatz 1, 122, 123 und 133 der Bundesverfassung (BV)[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 12. August 2020[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 68 Absatz 1, 69 Absatz 2, 92, 93, 101 Absatz 2, 102, 113, 114 Absatz 1, 117 Absatz 1, 118 Absatz 2 Buchstabe b, 121 Absatz 1, 122, 123 und 133 der Bundesverfassung (BV)[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 12. August 2020[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2020 6563](https://fedlex.data.admin.ch/eli/fga/2020/1669)
-[^ingress-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
 
 #### Art. 1
 
-**Gegenstand und Grundsätze**
+**Gegenstand und Grundsätze**[^1-1]
 
 <sup>1</sup> Dieses Gesetz regelt besondere Befugnisse des Bundesrates zur Bekämpfung der Covid-19-Epidemie und zur Bewältigung der Auswirkungen der Bekämpfungsmassnahmen auf Gesellschaft, Wirtschaft und Behörden.
 
 <sup>2</sup> Der Bundesrat macht von diesen Befugnissen nur so weit Gebrauch, als dies zur Bewältigung der Covid-19-Epidemie notwendig ist. Insbesondere macht er davon keinen Gebrauch, wenn das Ziel auch im ordentlichen oder dringlichen Gesetzgebungsverfahren rechtzeitig erreicht werden kann.
 
-<sup>2bis</sup> Der Bundesrat orientiert sich an den Grundsätzen der Subsidiarität, Wirksamkeit und der Verhältnismässigkeit. Er richtet seine Strategie auf die mildest- und kürzestmögliche Einschränkung des wirtschaftlichen und gesellschaftlichen Lebens aus, indem Bund und Kantone zuvor sämtliche Möglichkeiten von Schutzkonzepten, von Test- und Impfstrategien sowie des Contact-Tracing ausschöpfen.[^1-1]
+<sup>2bis</sup> Der Bundesrat orientiert sich an den Grundsätzen der Subsidiarität, Wirksamkeit und der Verhältnismässigkeit. Er richtet seine Strategie auf die mildest- und kürzestmögliche Einschränkung des wirtschaftlichen und gesellschaftlichen Lebens aus, indem Bund und Kantone zuvor sämtliche Möglichkeiten von Schutzkonzepten, von Test- und Impfstrategien sowie des Contact-Tracing ausschöpfen.[^1-2]
 
-<sup>3</sup> Er bezieht die Kantonsregierungen und die Dachverbände der Sozialpartner bei der Erarbeitung von Massnahmen ein, die ihre Zuständigkeit betreffen.[^1-2]
+<sup>3</sup> Er bezieht die Kantonsregierungen und die Dachverbände der Sozialpartner bei der Erarbeitung von Massnahmen ein, die ihre Zuständigkeit betreffen.[^1-3]
 
 <sup>4</sup> Er informiert das Parlament regelmässig, frühzeitig und umfassend über die Umsetzung dieses Gesetzes. Er konsultiert die zuständigen Kommissionen vorgängig über die geplanten Verordnungen und Verordnungsänderungen.
 
@@ -46,8 +45,9 @@ beschliesst:
 
 <sup>6</sup> Der Bundesrat und die Kantone orientieren sich bei der Anordnung von Massnahmen an den verfügbaren, zeitlich und regional vergleichbaren Daten, die auf die Gefahr einer Überlastung des Gesundheitssystems, erhöhter Sterblichkeit sowie schwerer Krankheitsverläufe hindeuten.
 
-[^1-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen) ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2031 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 3; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^1-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2031 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 3; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^1-1]: Gilt bis zum 31. Dez. 2031 (Art. 21 Abs. 6).
+[^1-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen) ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2031 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 3; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^1-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2031 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 3; [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 1a
 
@@ -122,16 +122,16 @@ Der Bund trifft die folgenden Massnahmen in enger Abstimmung mit den Kantonen:
 - a.[^3-6] umfassendes, wirksames und digitales Contact-Tracing; die Daten des Contact-Tracing sind nach Abschluss der Datenauswertung, spätestens aber zwei Jahre nach ihrer Erhebung zu anonymisieren oder zu löschen;
 - b. tägliches Monitoring als Grundlage für Entscheidungen in einem Stufenplan für Lockerungen oder Verschärfungen;
 - c. Massnahmen, Kriterien und Schwellenwerte orientieren sich an nationalen und internationalen Erfahrungen der Wissenschaft, insbesondere auch bezüglich Verminderung der Virenübertragung durch Aerosole;
-- d.[^3-7] einen Impfplan, der eine möglichst breite Durchimpfung der Impfwilligen bis spätestens Ende Mai 2021 sicherstellt;
+- d.[^3-7] ...;
 - e. Möglichkeiten, die Quarantäne schrittweise zu lockern, zu verkürzen oder aufzuheben, wenn durch Alternativen wie Impfung, regelmässige Tests oder andere Massnahmen eine vergleichbare Reduktion der Verbreitung gesichert werden kann.[^3-8]
 
 [^3-1]: In Kraft bis 31. Dez. 2022, mit Ausnahme von Abs. 7 Bst. d ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^3-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft seit 20. März 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^3-2]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^3-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^3-4]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen) ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^3-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^3-6]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^3-7]: In Kraft bis 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153)).
+[^3-7]: In Kraft bis 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^3-8]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft seit 20. März 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 3a
@@ -238,11 +238,13 @@ Bei Grenzschliessung ergreift der Bundesrat die notwendigen Massnahmen, um die R
 
 Der Bundesrat kann zur Gewährleistung des Justizbetriebs und der verfassungsrechtlichen Verfahrensgarantien von den Bestimmungen der Verfahrensgesetze des Bundes in Zivil- und Verwaltungssachen abweichende Bestimmungen in den folgenden Bereichen erlassen:
 
-- a. Stillstand, Erstreckung oder Wiederherstellung gesetzlicher oder behördlichen Fristen und Termine;
-- b.[^7-1] Einsatz technischer Instrumente oder Hilfsmittel wie Video- und Telefonkonferenzen bei Verfahrenshandlungen mit Teilnahme von Parteien, Zeuginnen und Zeugen oder Dritten, namentlich Verhandlungen und Einvernahmen;
-- c. Form und Zustellung von Eingaben, Mitteilungen und Entscheiden sowie Einsatz von Online-Versteigerungsplattformen im Betreibungs- und Konkursverfahren.
+- a.[^7-1] …
+- b.[^7-2] Einsatz technischer Instrumente oder Hilfsmittel wie Video- und Telefonkonferenzen bei Verfahrenshandlungen mit Teilnahme von Parteien, Zeuginnen und Zeugen oder Dritten, namentlich Verhandlungen und Einvernahmen;
+- c.[^7-3] …
 
-[^7-1]: In Kraft bis 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^7-1]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 2).
+[^7-2]: In Kraft bis 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^7-3]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 2).
 
 #### Art. 8
 
@@ -259,9 +261,7 @@ Der Bundesrat kann, soweit dies zur Ausübung der Rechte bei Versammlungen von G
 
 #### Art. 8a
 
-**Kantonale Erleichterungen**[^8a-1]
-
-Der Bundesrat gewährt Kantonen, die eine stabile oder rückläufige epidemiologische Lage aufweisen und eine Covid-19-Teststrategie oder andere geeignete Massnahmen zur Bewältigung der Epidemie anwenden, Erleichterungen.
+[^8a-1]
 
 [^8a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
@@ -271,18 +271,19 @@ Der Bundesrat gewährt Kantonen, die eine stabile oder rückläufige epidemiolog
 
 Der Bundesrat kann, soweit dies zur Verhinderung von Massenkonkursen und zur Stabilisierung der Schweizer Wirtschaft und Gesellschaft erforderlich ist, vom Bundesgesetz vom 11. April 1889[^9-1] über Schuldbetreibung und Konkurs (SchKG) und vom Obligationenrecht[^9-2] abweichende Bestimmungen erlassen über:
 
-- a. den Nachlassvertrag (Art. 293 ff. SchKG);
-- b. die Voraussetzungen, die Wirkungen und das Verfahren einer besonderen Stundung;
-- c. die Anzeigepflichten bei Kapitalverlust und Überschuldung.
+- a. und b.[^9-3] …
+- c.[^9-4] die Anzeigepflichten bei Kapitalverlust und Überschuldung.
 
 [^9-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^9-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-3]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 2).
+[^9-4]: Gilt bis zum 31. Dez. 2031 (Art. 21 Abs. 8).
 
 #### Art. 10
 
-**Massnahmen im Bereich der Versorgungssicherheit**
+[^10-1]
 
-Der Bundesrat wird ermächtigt, die Haftung für die Zollschuld für Personen, die gewerbsmässig Zollanmeldungen ausstellen, sowie für Transporteure auszuschliessen, sofern der Empfänger oder der Importeur infolge der Massnahmen des Bundes im Zusammenhang mit der Covid-19-Epidemie wegen Konkurses, Nachlassstundung, Liquidation oder offensichtlicher Zahlungsunfähigkeit zahlungsunfähig wird.
+[^10-1]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 2).
 
 #### Art. 11
 
@@ -477,7 +478,7 @@ Die Beiträge sind an folgende Bedingungen geknüpft:
 
 <sup>8</sup> Werden Bedingungen nach Absatz 6 Buchstabe a oder d oder die Pflicht nach Absatz 7 erster Satz nicht eingehalten, so richtet sich die Rückforderung der Beiträge nach dem Subventionsgesetz vom 5. Oktober 1990[^12b-7]. Werden die Bedingungen nach Absatz 6 Buchstabe b oder c nicht eingehalten, so hat ein Klub diejenigen Beiträge zurückzuerstatten, die 50 Prozent der entgangenen Ticketeinnahmen nach Absatz 4 übersteigen.[^12b-8]
 
-<sup>9</sup> Gesuche für Spiele zwischen dem 29. Oktober 2020 und dem 31. Dezember 2020 können bis zum 30. April 2021 eingereicht werden.[^12b-9]
+<sup>9</sup> …[^12b-9]
 
 [^12b-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 30. Juni 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 1; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-2]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Erwerbsausfallentschädigung, Sport und Kapazitätsbeschränkungen), in Kraft vom 19. Juni 2021 bis zum 30. Juni 2022 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 1; [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
@@ -503,36 +504,9 @@ Die Beiträge sind an folgende Bedingungen geknüpft:
 
 #### Art. 14
 
-**Massnahmen im Medienbereich**
+[^14-1]
 
-<sup>1</sup>
-
-Der Bundesrat ergreift im Medienbereich die folgenden Massnahmen:
-
-- a. Der Bund trägt die vollen Kosten für die Tageszustellung von abonnierten Tages- und Wochenzeitungen der Regional- und Lokalpresse (Art. 16 Abs. 4 Bst. a des Postgesetzes vom 17. Dez. 2010[^14-1]) durch die Schweizerische Post im Umfang der am 1. Juni 2020 geltenden Tarife.
-- b. Er beteiligt sich an den Kosten für die Tageszustellung von abonnierten Tages- und Wochenzeitungen der überregionalen und nationalen Presse durch die Schweizerische Post mit 27 Rappen pro Exemplar.
-- c. Die Abonnementskosten der Basisdienste Text der Nachrichtenagentur Keystone-SDA werden in Bezug auf die Nutzungsrechte für elektronische Medien im Umfang der am 1. Juni 2020 geltenden Tarife aus bisher nicht verwendetem Ertrag aus der Abgabe für Radio und Fernsehen getragen; es ist ein Kostendach von 10 Millionen Franken einzuhalten.
-- d.[^14-2]
-
-  Das Bundesamt für Kommunikation kann auf Gesuch hin Zahlungen aus der Abgabe für Radio und Fernsehen an folgende private Radio- und Fernsehunternehmen tätigen:
-
-  - 1\. die kommerziellen Radiostationen mit einer gültigen FM-Konzession;
-  - 2\. komplementäre Radiostationen mit einer Konzession;
-  - 3\. konzessionierte regionale TV-Stationen.
-
-<sup>1bis</sup> Die Zahlungen nach Absatz 1 Buchstabe d erfolgen auf der Grundlage des belegten Rückgangs der Einnahmen aus Werbung und Sponsoring zwischen 2019 und 2021, wobei höchstens 20 Millionen Franken ausbezahlt werden. Voraussetzung für die Gewährung dieser Hilfe ist die schriftliche Zusicherung der Hilfeempfängerinnen und -empfänger gegenüber dem Bundesamt für Kommunikation, das erhaltene Geld zurückzuzahlen, wenn für das Jahr 2021 eine Dividende ausbezahlt wird.[^14-3]
-
-<sup>2</sup> Er hebt die Massnahmen spätestens beim Inkrafttreten eines Bundesgesetzes, das Massnahmen zugunsten der Medien vorsieht, auf.
-
-<sup>3</sup> Er regelt die Fördervoraussetzungen und das Verfahren für die Berechnung und Auszahlung der Ermässigungen nach Absatz 1 Buchstaben a und b sowie für die Übernahme der Abonnementskosten nach Absatz 1 Buchstabe c.
-
-<sup>4</sup> Die Gewährung der Ermässigungen nach Absatz 1 Buchstaben a und b setzt voraus, dass sich die Herausgeberin gegenüber dem Bundesamt für Kommunikation (BAKOM) schriftlich verpflichtet, für das entsprechende Geschäftsjahr keine Dividende auszuschütten.
-
-<sup>5</sup> Das BAKOM vergütet die Abonnementskosten der Basisdienste Text der Nachrichtenagentur Keystone-SDA direkt der Nachrichtenagentur Keystone-SDA. Diese reduziert die Rechnungen an die Abnehmerinnen in diesem Umfang.
-
-[^14-1]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^14-2]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^14-3]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^14-1]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 2).
 
 #### Art. 15
 
@@ -554,17 +528,18 @@ Der Bundesrat kann Bestimmungen erlassen über:
 
 <sup>4</sup> Der Bundesrat stellt sicher, dass Entschädigungen auf der Grundlage des selbstdeklarierten Erwerbsausfalls ausgerichtet werden. Die Richtigkeit der Angaben wird insbesondere mittels Stichproben überprüft.
 
-<sup>5</sup> Der Bundesrat kann die Bestimmungen des ATSG anwendbar erklären. Er kann Abweichungen von Artikel 24 Absatz 1 ATSG betreffend das Erlöschen des Anspruchs und Artikel 49 Absatz 1 ATSG betreffend die Anwendbarkeit des formlosen Verfahrens vorsehen.
+<sup>5</sup> Der Bundesrat kann die Bestimmungen des ATSG anwendbar erklären. Er kann Abweichungen von Artikel 24 Absatz 1 ATSG betreffend das Erlöschen des Anspruchs, von Artikel 49 Absatz 1 ATSG betreffend die Anwendbarkeit des formlosen Verfahrens und von Artikel 58 Absatz 1 ATSG betreffend die Zuständigkeit des Versicherungsgerichts vorsehen.[^15-4]
 
 [^15-1]: Gilt bis zum 31. Dez. 2022 (Art. 21 Abs. 11).
 [^15-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft seit 1. April 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^15-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^15-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 16
 
-**Massnahme im Bereich der beruflichen Vorsorge**
+[^16-1]
 
-Der Bundesrat kann zur Überbrückung von Liquiditätsengpässen vorsehen, dass der Arbeitgeber die Arbeitgeberbeitragsreserven für die Vergütung der Arbeitnehmerbeiträge an die berufliche Vorsorge verwenden darf.
+[^16-1]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 2).
 
 #### Art. 17
 
@@ -574,28 +549,30 @@ Der Bundesrat kann zur Überbrückung von Liquiditätsengpässen vorsehen, dass 
 
 Der Bundesrat kann vom Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^17-1] (AVIG) abweichende Bestimmungen erlassen über:
 
-- a. den Anspruch und die Auszahlung der Kurzarbeitsentschädigung für Berufsbildnerinnen und Berufsbildner, die sich um Lernende kümmern;
-- b.[^17-2] die Nichtberücksichtigung der Abrechnungsperioden ab dem 1. März 2020, für die der Arbeitsausfall 85 Prozent der betrieblichen Arbeitszeit (Art. 35 Abs. 1<sup>bis</sup> AVIG) überschritten hat;
-- c. die Verlängerung der Rahmenfrist für den Leistungsbezug und für die Beitragszeit für Versicherte, die zwischen dem 1. März 2020 und dem 31. August 2020 Anspruch auf maximal 120 zusätzliche Taggelder gehabt haben;
-- d.[^17-3] den Ablauf des Verfahrens zur Voranmeldung von Kurzarbeit und zur Ausrichtung der Kurzarbeitsentschädigung sowie die Form von deren Auszahlung;
-- e.[^17-4] Anspruch und Auszahlung von Kurzarbeitsentschädigung für Mitarbeiterinnen und Mitarbeiter auf Abruf in unbefristeten Arbeitsverhältnissen;
-- f.[^17-5] Anspruch und Auszahlung von Kurzarbeitsentschädigung für Personen nach Artikel 33 Absatz 1 Buchstabe e AVIG;
-- g.[^17-6] die Karenzzeit nach Artikel 32 Absatz 2 AVIG;
-- h.[^17-7] die Höchstdauer der Kurzarbeitsentschädigung nach Artikel 35 Absatz 2 AVIG.
+- a.[^17-2] den Anspruch und die Auszahlung der Kurzarbeitsentschädigung für Berufsbildnerinnen und Berufsbildner, die sich um Lernende kümmern;
+- b.[^17-3] die Nichtberücksichtigung der Abrechnungsperioden ab dem 1. März 2020, für die der Arbeitsausfall 85 Prozent der betrieblichen Arbeitszeit (Art. 35 Abs. 1<sup>bis</sup> AVIG) überschritten hat;
+- c.[^17-4] die Verlängerung der Rahmenfrist für den Leistungsbezug und für die Beitragszeit für Versicherte, die zwischen dem 1. März 2020 und dem 31. August 2020 Anspruch auf maximal 120 zusätzliche Taggelder gehabt haben;
+- d.[^17-5] den Ablauf des Verfahrens zur Voranmeldung von Kurzarbeit und zur Ausrichtung der Kurzarbeitsentschädigung sowie die Form von deren Auszahlung;
+- e.[^17-6] Anspruch und Auszahlung von Kurzarbeitsentschädigung für Mitarbeiterinnen und Mitarbeiter auf Abruf in unbefristeten Arbeitsverhältnissen;
+- f.[^17-7] Anspruch und Auszahlung von Kurzarbeitsentschädigung für Personen nach Artikel 33 Absatz 1 Buchstabe e AVIG;
+- g.[^17-8] die Karenzzeit nach Artikel 32 Absatz 2 AVIG;
+- h.[^17-9] die Höchstdauer der Kurzarbeitsentschädigung nach Artikel 35 Absatz 2 AVIG.
 
-<sup>2</sup> Alle anspruchsberechtigten Personen gemäss AVIG erhalten für die Kontrollperioden März, April und Mai 2021 zusätzlich höchstens 66 Taggelder. Der aktuelle Anspruch auf die Höchstzahl an Taggeldern nach Artikel 27 AVIG wird dadurch nicht belastet.[^17-8]
+<sup>2</sup> Alle anspruchsberechtigten Personen gemäss AVIG erhalten für die Kontrollperioden März, April und Mai 2021 zusätzlich höchstens 66 Taggelder. Der aktuelle Anspruch auf die Höchstzahl an Taggeldern nach Artikel 27 AVIG wird dadurch nicht belastet.[^17-10]
 
-<sup>3</sup> Für Versicherte, die Anspruch auf zusätzliche Taggelder nach Absatz 2 haben, wird die Rahmenfrist für den Leistungsbezug um die Dauer des zusätzlichen Taggeldbezuges verlängert. Die Rahmenfrist für die Beitragszeit wird bei Bedarf um dieselbe Dauer verlängert.[^17-9]
+<sup>3</sup> Für Versicherte, die Anspruch auf zusätzliche Taggelder nach Absatz 2 haben, wird die Rahmenfrist für den Leistungsbezug um die Dauer des zusätzlichen Taggeldbezuges verlängert. Die Rahmenfrist für die Beitragszeit wird bei Bedarf um dieselbe Dauer verlängert.[^17-11]
 
 [^17-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^17-2]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2023 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^17-3]: In Kraft bis 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-4]: In Kraft bis 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-5]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-6]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-7]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^17-8]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^17-9]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17-2]: Gilt bis zum 31. Dez. 2023 (Art. 21 Abs. 7).
+[^17-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2023 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^17-4]: Gilt bis zum 31. Dez. 2023 (Art. 21 Abs. 7).
+[^17-5]: In Kraft bis 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-6]: In Kraft bis 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-7]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-8]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 1. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. II Abs. 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-9]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17-10]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17-11]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2023 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 17a
 
@@ -647,11 +624,9 @@ Kann ein Covid-19-Hilfegesuch (Kurzarbeitsentschädigung, Härtefall, sektoriell
 
 #### Art. 18
 
-**Strafbestimmungen**
+[^18-1]
 
-<sup>1</sup> Mit Busse wird bestraft, wer vorsätzlich den Massnahmen zuwiderhandelt, die der Bundesrat gestützt auf Artikel 3 oder 4 anordnet und deren Zuwiderhandlung er gestützt auf die vorliegende Bestimmung für strafbar erklärt.
-
-<sup>2</sup> Der Bundesrat kann festlegen, dass bestimmte Widerhandlungen nach Absatz 1 durch Ordnungsbusse von höchstens 300 Franken zu ahnden sind, und er bestimmt dafür die Höhe des Bussenbetrags.
+[^18-1]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 2).
 
 #### Art. 19
 
@@ -706,9 +681,9 @@ Der Bund führt eine regelmässig aktualisierte Statistik über die im Rahmen de
 
 <sup>11</sup> Die Geltungsdauer von Artikel 15 nach Absatz 10 wird bis zum 31. Dezember 2022 verlängert.[^21-6]
 
-[^21-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Berichtigung der RedK der BVers vom 22. Dez. 2021, publiziert am 30. Dez. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2023 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Berichtigung der RedK der BVers vom 22. Dez. 2021, publiziert am 30. Dez. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Berichtigung der RedK der BVers vom 22. Dez. 2021, publiziert am 30. Dez. 2021 ([AS 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-5]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Erwerbsausfallentschädigung, Sport und Kapazitätsbeschränkungen), in Kraft vom 19. Juni 2021 bis zum 31. Dez. 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
-[^21-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^21-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2023 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-3]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2031 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-4]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft seit 19. Dez. 2020 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-5]: Eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Erwerbsausfallentschädigung, Sport und Kapazitätsbeschränkungen), in Kraft seit 19. Juni 2021 ([AS 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^21-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 18. Dez. 2021 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).

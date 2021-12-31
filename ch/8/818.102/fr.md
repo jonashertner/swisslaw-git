@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l'épidémie de COVID-19 (Loi COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: fr
-version: 2021-12-30
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211230/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211230-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,17 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/fr"
 
 (Loi COVID-19)
 
-du 25 septembre 2020 (Etat le 30 décembre 2021)
+du 25 septembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 68, al. 1, 69, al. 2, 92, 93, 100, 101, al. 2, 102, 103, 113, 114, al. 1, 117, al. 1, 118, al. 2, let. b, 121, al. 1, 122, 123 et 133 de la Constitution (Cst.)[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 12 août 2020[^ingress-3],
+vu les art. 68, al. 1, 69, al. 2, 92, 93, 101, al. 2, 102, 113, 114, al. 1, 117, al. 1, 118, al. 2, let. b, 121, al. 1, 122, 123 et 133 de la Constitution (Cst.)[^ingress-1], vu le message du Conseil fédéral du 12 août 2020[^ingress-2],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^ingress-3]: [FF 2020 6363](https://fedlex.data.admin.ch/eli/fga/2020/1669)
+[^ingress-2]: [FF 2020 6363](https://fedlex.data.admin.ch/eli/fga/2020/1669)
 
 #### Art. 1
 
@@ -121,7 +120,7 @@ La Confédération prend les mesures suivantes, en étroite collaboration avec l
 - a.[^3-6] mettre en place un traçage électronique des contacts qui soit complet et efficace; les données du traçage devront être anonymisées ou supprimées après avoir été analysées, mais au plus tard deux ans après avoir été prélevées;
 - b. organiser un monitorage quotidien sur lequel se fonderont les décisions d’assouplissement ou de durcissement prises dans le cadre d’un plan par étapes;
 - c. définir les mesures, les critères et les valeurs limites en fonction des expériences faites par les milieux scientifiques en Suisse et à l’étranger, en particulier pour ce qui est de réduire la transmission du virus par aérosol;
-- d.[^3-7] définir un plan de vaccination garantissant que le plus grand nombre de volontaires possibles puissent se faire vacciner d’ici fin mai 2021 au plus tard;
+- d.[^3-7] …
 - e. permettre d’assouplir, de raccourcir ou d’abolir progressivement l’obligation de quarantaine si des mesures de rechange telles que la vaccination ou les tests réguliers peuvent garantir une réduction comparable de la propagation du virus.[^3-8]
 
 [^3-1]: En vigueur jusqu’au 31 déc. 2022, sous réserve de l’al. 7, let. d ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
@@ -141,7 +140,7 @@ La Confédération prend les mesures suivantes, en étroite collaboration avec l
 
 <sup>2</sup> Le Conseil fédéral peut prévoir des exceptions.
 
-[^3a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars au 31 déc. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^3a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars 2021 au 31 déc. 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^3a-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 3b
@@ -237,11 +236,13 @@ En cas de fermeture des frontières, le Conseil fédéral prend les mesures néc
 
 Le Conseil fédéral peut, pour assurer le fonctionnement de la justice et les garanties de procédure prévues par la Constitution, édicter des dispositions dérogeant aux lois fédérales de procédure dans les affaires civiles et administratives dans les domaines suivants:
 
-- a. suspension, prolongation ou restitution des délais et échéances fixés par la loi ou l’autorité;
-- b.[^7-1] recours à des moyens techniques tels que la téléconférence ou la vidéoconférence pour les actes de procédure impliquant la participation de parties, de témoins ou de tiers, tels que les audiences et les auditions*;*
-- c. forme et notification des écrits, des communications et des décisions et recours aux enchères sur des plateformes en ligne dans la procédure de poursuite et de faillite.
+- a.[^7-1] …
+- b.[^7-2] recours à des moyens techniques tels que la téléconférence ou la vidéoconférence pour les actes de procédure impliquant la participation de parties, de témoins ou de tiers, tels que les audiences et les auditions*;*
+- c.[^7-3] …
 
-[^7-1]: En vigueur jusqu’au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^7-1]: En vigueur jusqu’au 31 déc. 2021 (art. 21, al. 2).
+[^7-2]: En vigueur jusqu’au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^7-3]: En vigueur jusqu’au 31 déc. 2021 (art. 21, al. 2).
 
 #### Art. 8
 
@@ -258,9 +259,7 @@ Le Conseil fédéral peut déroger aux dispositions du code civil[^8-2] et du co
 
 #### Art. 8a
 
-**Allègements cantonaux**[^8a-1]
-
-Le Conseil fédéral accorde des allègements aux cantons qui affichent une situation épidémiologique stable ou en amélioration et qui appliquent une stratégie de dépistage ou toute autre mesure appropriée pour gérer l’épidémie de COVID-19.
+[^8a-1]
 
 [^8a-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
@@ -270,19 +269,19 @@ Le Conseil fédéral accorde des allègements aux cantons qui affichent une situ
 
 Le Conseil fédéral peut, dans la mesure nécessaire pour éviter des faillites en masse et assurer la stabilité de l’économie et de la société suisses, édicter des dispositions dérogeant à la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^9-1] et au code des obligations[^9-2] sur:
 
-- a. le concordat (art. 293 ss LP);
-- b. les conditions, les effets et la procédure d’un sursis spécial;
-- c. [^9-3] les avis obligatoires en cas de perte de capital et de surendettement.
+- a. et b.[^9-3] …
+- c. [^9-4] les avis obligatoires en cas de perte de capital et de surendettement.
 
 [^9-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^9-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^9-3]: En vigueur jusqu’au 31 déc. 2031 (art. 21, al. 8).
+[^9-3]: En vigueur jusqu’au 31 déc. 2021 (art. 21, al. 2).
+[^9-4]: En vigueur jusqu’au 31 déc. 2031 (art. 21, al. 8).
 
 #### Art. 10
 
-**Mesures dans le domaine de la sécurité de l’approvisionnement**
+[^10-1]
 
-Le Conseil fédéral est habilité à exclure la responsabilité de la dette douanière pour les personnes qui délivrent des déclarations en douane à titre professionnel ainsi que pour les transporteurs si le destinataire ou l’importateur est insolvable, à la suite des mesures prises par la Confédération pour lutter contre l’épidémie de COVID-19, pour cause de faillite, de sursis concordataire, de liquidation ou d’insolvabilité manifeste.
+[^10-1]: En vigueur jusqu’au 31 déc. 2021 (art. 21, al. 2).
 
 #### Art. 11
 
@@ -462,7 +461,7 @@ La Confédération peut soutenir par des contributions à fonds perdu:[^12b-2]
 
 <sup>4</sup> Pour chaque match, elles représentent au maximum deux tiers de la recette moyenne de billetterie que le club a réalisée lors des matches du championnat national pour la saison 2018/2019. Les recettes effectives des ventes de billets à partir du 29 octobre 2020 sont déduites du montant.
 
-<sup>5</sup> ...[^12b-3]
+<sup>5</sup> …[^12b-3]
 
 <sup>6</sup>
 
@@ -477,14 +476,14 @@ L’octroi des contributions est soumis aux conditions suivantes:
 
 <sup>8</sup> Si les conditions mentionnées à l’al. 6, let. a ou d, ou l’obligation visée à l’al. 7, 1<sup>re</sup> phrase, ne sont pas respectées, la restitution des contributions est régie par la loi du 5 octobre 1990 sur les subventions[^12b-7]. Si les conditions visées à l’al. 6, let. b ou c, ne sont pas respectées, le club doit rembourser les contributions qui dépassent 50 % du montant de la perte de recettes de billetterie au sens de l’al. 4.[^12b-8]
 
-<sup>9</sup> Les demandes concernant des matches qui se sont tenus entre le 29 octobre 2020 et le 31 décembre 2020 peuvent être déposées jusqu’au 30 avril 2021.[^12b-9]
+<sup>9</sup> …[^12b-9]
 
 [^12b-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 30 juin 2022 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 1; [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Allocations pour perte de gain, sport et restrictions de capacité), en vigueur du 19 juin 2021 au 30 juin 2022 ([RO 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 1; [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^12b-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Allocations pour perte de gain, sport et restrictions de capacité), en vigueur du 19 juin 2021 au 30 juin 2022 ([RO 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 1; [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093),[2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-3]: Abrogé par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), avec effet du 1<sup>er</sup> janv. au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^12b-4]: Sixième phrase introduite par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 1<sup>er</sup> janv. 2021 au 30 juin 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-5]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 1<sup>er</sup> janv. 2021 au 30 juin 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-6]: Phrase introduite par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 1<sup>er</sup> janv. 2021 au 30 juin 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^12b-6]: Troisième phrase introduite par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 1<sup>er</sup> janv. 2021 au 30 juin 2022 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-7]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 [^12b-8]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2027 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-9]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 1<sup>er</sup> janv. au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
@@ -503,36 +502,9 @@ L’octroi des contributions est soumis aux conditions suivantes:
 
 #### Art. 14
 
-**Mesures dans le domaine des médias**
+[^14-1]
 
-<sup>1</sup>
-
-Le Conseil fédéral prend les mesures suivantes dans le domaine des médias:
-
-- a. la Confédération prend entièrement en charge les coûts de la distribution régulière par La Poste Suisse des quotidiens et hebdomadaires en abonnement de la presse locale et régionale (art. 16, al. 4, let. a, de la loi du 17 décembre 2010 sur la poste[^14-1]) aux tarifs en vigueur le 1<sup>er</sup> juin 2020;
-- b. elle participe aux coûts pour la distribution régulière par La Poste Suisse des quotidiens et hebdomadaires en abonnement de la presse suprarégionale et nationale à hauteur de 27 centimes par exemplaire;
-- c. les coûts d’abonnement des services de base textes de l’agence de presse Keystone-ATS, s’agissant des droits d’utilisation pour les médias électroniques, sont financés aux tarifs en vigueur le 1<sup>er</sup> juin 2020 au moyen du produit non utilisé de la redevance de radio-télévision; un plafond de 10 millions de francs doit être respecté;
-- d.[^14-2]
-
-  sur demande, l’Office fédéral de la communication peut effectuer des paiements issus de la redevance radio-télévision aux entreprises privées de radio et de télévision suivantes:
-
-  - 1\. les stations de radio commerciales avec une concessions FM valable,
-  - 2\. les stations de radio complémentaires avec une concession,
-  - 3\. les télévisions régionales concessionnées.
-
-<sup>1bis</sup> Les paiements visés à l’al. 1, let. d sont basés sur les pertes prouvées de revenu de la publicité et du sponsoring entre 2019 et 2021; un plafond de 20 millions de francs doit être respecté. L’octroi du soutien est subordonné à l’engagement écrit des bénéficiaires envers l’Office fédéral de la communication de rembourser l’argent reçu si un dividende est versé pour l’année 2021.[^14-3]
-
-<sup>2</sup> Il abroge les mesures au plus tard à l’entrée en vigueur d’une loi fédérale prévoyant des mesures en faveur des médias.
-
-<sup>3</sup> Il règle les conditions du soutien et la procédure de calcul et de versement des rabais prévus à l’al. 1, let. a et b, et la prise en charge des coûts d’abonnement visés à l’al. 1, let. c.
-
-<sup>4</sup> Les rabais prévus à l’al. 1, let. a et b, ne sont accordés que si l’éditeur concerné s’engage par écrit vis-à-vis de l’Office fédéral de la communication (OFCOM) à ne pas verser de dividendes pour l’exercice correspondant.
-
-<sup>5</sup> L’OFCOM rembourse les coûts d’abonnement des services de base textes de l’agence de presse Keystone-ATS directement à l’agence. Celle-ci déduit ce montant des factures envoyées aux abonnés.
-
-[^14-1]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^14-2]: Introduite par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^14-3]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), en vigueur du 20 mars au 31 déc. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^14-1]: En vigueur jusqu’au 31 déc. 2021 (art. 21, al. 2).
 
 #### Art. 15
 
@@ -554,17 +526,18 @@ Le Conseil fédéral peut édicter des dispositions sur:
 
 <sup>4</sup> Le Conseil fédéral s’assure que l’allocation versée est établie sur la base de la déclaration de la personne concernée. La véracité des informations fournies est contrôlée notamment par échantillon.
 
-<sup>5</sup> Le Conseil fédéral peut déclarer les dispositions de la LPGA applicables. Il peut prévoir des dérogations à l’art. 24, al. 1, LPGA concernant l’extinction du droit et à l’art. 49, al. 1, LPGA concernant l’applicabilité de la procédure simplifiée.
+<sup>5</sup> Le Conseil fédéral peut déclarer les dispositions de la LPGA applicables. Il peut prévoir des dérogations à l’art. 24, al. 1, LPGA concernant l’extinction du droit, à l’art. 49, al. 1, LPGA concernant l’applicabilité de la procédure simplifiée et à l’art. 58, al. 1, LPGA concernant la compétence du tribunal des assurances.[^15-4]
 
 [^15-1]: En vigueur jusqu’au 31 déc. 2022 (art. 21, al. 11).
 [^15-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifesta-tions), en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^15-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^15-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 16
 
-**Mesures dans le domaine de la prévoyance professionnelle**
+[^16-1]
 
-Le Conseil fédéral peut prévoir que, pour surmonter des manques de liquidités, l’employeur peut recourir aux réserves de cotisations d’employeur pour le paiement des cotisations des salariés à la prévoyance professionnelle.
+[^16-1]: En vigueur jusqu’au 31 déc. 2021 (art. 21, al. 2).
 
 #### Art. 17
 
@@ -615,7 +588,7 @@ En dérogation à la LACI[^17a-2], l’indemnité en cas de réduction de l’ho
 
 - b. en cas d’occupation à temps partiel, le revenu et le montant minimum de l’indemnité en cas de réduction de l’horaire de travail, en vertu de la let. a, sont calculés proportionnellement au taux d’occupation.
 
-[^17a-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 1<sup>er</sup> déc. 2020 au 31 déc. 2022 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [354](https://fedlex.data.admin.ch/eli/oc/2021/354), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Erratum de la CdR de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^17a-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 1<sup>er</sup> déc. 2020 au 31 déc. 2022 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. II al. 2; [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Erratum de la CdR de l’Ass. féd. du 25 août 2021, publié le 2 sept. 2021 ([RO 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^17a-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17b
@@ -624,7 +597,7 @@ En dérogation à la LACI[^17a-2], l’indemnité en cas de réduction de l’ho
 
 En dérogation à l’art. 36, al. 1, LACI[^17b-2], aucun délai de préavis ne doit être observé pour la réduction de l’horaire de travail. Le préavis doit être renouvelé lorsque la réduction de l’horaire de travail dure plus de six mois. À partir du 1<sup>er</sup> juillet 2022, une réduction de l’horaire de travail pour une durée de plus de trois mois ne peut être autorisée que jusqu’au 31 décembre 2022 au plus tard.
 
-[^17b-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations), ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17b-1]: Introduit par le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations) ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^17b-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17c
@@ -649,11 +622,9 @@ Lorsqu’une demande d’aide COVID (indemnité en cas de réduction de l’hora
 
 #### Art. 18
 
-**Dispositions pénales**
+[^18-1]
 
-<sup>1</sup> Quiconque contrevient intentionnellement aux mesures que le Conseil fédéral ordonne en vertu des art. 3 ou 4 et dont il déclare l’inobservation punissable en vertu de la présente disposition, est puni de l’amende.
-
-<sup>2</sup> Le Conseil fédéral peut prévoir que certaines infractions visées à l’al. 1 sont sanctionnées par une amende d’ordre de 300 francs au plus et fixe le montant de celle-ci.
+[^18-1]: En vigueur jusqu’au 31 déc. 2021 (art. 21, al. 2).
 
 #### Art. 19
 
@@ -708,9 +679,9 @@ La Confédération tient à jour une statistique relative aux aides apportées d
 
 <sup>11</sup> La durée de validité de l’art. 15 mentionnée à l’al. 10 est prolongée jusqu’au 31 décembre 2022.[^21-6]
 
-[^21-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2031 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Erratum de la CdR de l’Ass. féd. du 22 déc. 2021, publié le 30 déc. 2021 ([RO 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-2]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2023 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Erratum de la CdR de l’Ass. féd. du 22 déc. 2021, publié le 30 déc. 2021 ([RO 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-3]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2031 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Erratum de la CdR de l’Ass. féd. du 22 déc. 2021, publié le 30 déc. 2021 ([RO 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-4]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-5]: Introduit par le ch. I de la LF du 18 juin 2021 (Allocations pour perte de gain, sport et restrictions de capacité), en vigueur du 19 juin au 31 déc. 2021 ([RO 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
-[^21-6]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^21-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2031 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-2]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2023 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-3]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2031 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-4]: Introduit par le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur depuis le 19 déc. 2020 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-5]: Introduit par le ch. I de la LF du 18 juin 2021 (Allocations pour perte de gain, sport et restrictions de capacité), en vigueur depuis le 19 juin ([RO 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^21-6]: Introduit par le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 18 déc. 2021 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).

@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Legge federale del 25 settembre 2020 sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all'epidemia di COVID-19 (Legge COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: it
-version: 2021-12-30
+version: 2022-01-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20211230/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20211230-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,29 +16,28 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20211230/it"
 
 (Legge COVID-19)
 
-del 25 settembre 2020 (Stato 30 dicembre 2021)
+del 25 settembre 2020 7 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 68 capoverso 1, 69 capoverso 2, 92, 93, 100, 101 capoverso 2, 102, 103, 113, 114 capoverso 1, 117 capoverso 1, 118 capoverso 2 lettera b, 121 capoverso 1, 122, 123 e 133 della Costituzione federale (Cost.)[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 12 agosto 2020[^ingress-3],
+visti gli articoli 68 capoverso 1, 69 capoverso 2, 92, 93, 101 capoverso 2, 102, 113, 114 capoverso 1, 117 capoverso 1, 118 capoverso 2 lettera b, 121 capoverso 1, 122, 123 e 133 della Costituzione federale (Cost.)[^ingress-1]; visto il messaggio del Consiglio federale del 12 agosto 2020[^ingress-2],
 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^ingress-3]: [FF 2020 5797](https://fedlex.data.admin.ch/eli/fga/2020/1669)
+[^ingress-2]: [FF 2020 5797](https://fedlex.data.admin.ch/eli/fga/2020/1669)
 
 #### Art. 1
 
-**Oggetto e principi**
+**Oggetto e principi**[^1-1]
 
 <sup>1</sup> La presente legge disciplina talune competenze speciali spettanti al Consiglio federale per combattere l’epidemia di COVID‑19 e per far fronte alle ripercussioni dei relativi provvedimenti sulla società, sull’economia e sulle autorità.
 
 <sup>2</sup> Il Consiglio federale fa uso di tali competenze soltanto nella misura necessaria per far fronte all’epidemia di COVID‑19. Non ne fa uso in particolare se l’obiettivo perseguito può essere raggiunto in tempo utile anche seguendo la procedura legislativa ordinaria o d’urgenza.
 
-<sup>2bis</sup> Il Consiglio federale si basa sui principi di sussidiarietà, efficacia e proporzionalità. La sua strategia limita il meno possibile e il più brevemente possibile la vita economica e sociale; a tal fine, la Confederazione e i Cantoni sfruttano in primo luogo tutte le possibilità offerte dai piani di protezione, dalle strategie di test e di vaccinazione e dal tracciamento dei contatti.[^1-1]
+<sup>2bis</sup> Il Consiglio federale si basa sui principi di sussidiarietà, efficacia e proporzionalità. La sua strategia limita il meno possibile e il più brevemente possibile la vita economica e sociale; a tal fine, la Confederazione e i Cantoni sfruttano in primo luogo tutte le possibilità offerte dai piani di protezione, dalle strategie di test e di vaccinazione e dal tracciamento dei contatti.[^1-2]
 
-<sup>3</sup> Coinvolge i governi cantonali e le associazioni di categoria delle parti sociali nell’elaborazione dei provvedimenti che toccano le loro competenze.[^1-2]
+<sup>3</sup> Coinvolge i governi cantonali e le associazioni di categoria delle parti sociali nell’elaborazione dei provvedimenti che toccano le loro competenze.[^1-3]
 
 <sup>4</sup> Informa periodicamente il Parlamento, in modo tempestivo ed esauriente, in merito all’attuazione della presente legge. Consulta previamente le commissioni competenti riguardo alle ordinanze e modifiche di ordinanza in preparazione.
 
@@ -46,8 +45,9 @@ decreta:
 
 <sup>6</sup> Nel disporre i provvedimenti, il Consiglio federale e i Cantoni si basano sui dati disponibili, raffrontabili nel tempo e tra le regioni, che evidenziano il rischio di un sovraccarico del sistema sanitario, di un incremento della mortalità o di un decorso grave della malattia.
 
-[^1-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari) ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2031 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 3; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^1-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2031 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 3; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^1-1]: In vigore fino al 31 dic. 2031 (art. 21 cpv. 6).
+[^1-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari) ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2031 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 3; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^1-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2031 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 3; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 1a
 
@@ -120,7 +120,7 @@ La Confederazione adotta i provvedimenti seguenti di concerto con i Cantoni:
 - a.[^3-6] mette a punto un sistema elettronico di tracciamento dei contatti efficace e capillare; i dati di tale sistema sono anonimizzati o cancellati al termine della loro valutazione, ma al più tardi due anni dopo la loro raccolta;
 - b. organizza un monitoraggio quotidiano che serva da base per le decisioni di inasprimento o allentamento adottate nel quadro di un piano a tappe;
 - c. definisce provvedimenti, criteri e valori soglia in funzione delle esperienze scientifiche acquisite a livello nazionale e internazionale, in particolare anche riguardo alla riduzione della trasmissione del virus via aerosol;
-- d.[^3-7] definisce un piano vaccinale che garantisca al maggior numero possibile di persone che lo desiderano di farsi vaccinare entro fine maggio 2021 al più tardi;
+- d.[^3-7] ...
 - e. permette di allentare, abbreviare o abolire progressivamente l’obbligo di quarantena se, mediante provvedimenti alternativi quali la vaccinazione, test periodici o altro, è possibile garantire una riduzione comparabile della propagazione del virus.[^3-8]
 
 [^3-1]: Salvo il cpv. 7 lett. d, in vigore fino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
@@ -236,11 +236,13 @@ In caso di chiusura delle frontiere, il Consiglio federale adotta i provvediment
 
 Per garantire il funzionamento della giustizia e il rispetto delle garanzie procedurali costituzionali, il Consiglio federale può emanare disposizioni che deroghino alle leggi federali di procedura civile e amministrativa con riguardo a:
 
-- a. la sospensione, la proroga o la restituzione di termini e scadenze stabiliti dalla legge o dalle autorità;
-- b.[^7-1] il ricorso a strumenti tecnici o ausiliari quali videoconferenze e conferenze telefoniche per gli atti procedurali che prevedono la partecipazione di parti, testimoni o terzi, in particolare udienze e audizioni;
-- c. la forma e la notificazione di atti scritti, comunicazioni e decisioni, nonché il ricorso a piattaforme d’incanto in linea nella procedura di esecuzione e fallimento.
+- a.[^7-1] ...
+- b.[^7-2] il ricorso a strumenti tecnici o ausiliari quali videoconferenze e conferenze telefoniche per gli atti procedurali che prevedono la partecipazione di parti, testimoni o terzi, in particolare udienze e audizioni;
+- c.[^7-3] ...
 
-[^7-1]: In vigore fino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^7-1]: In vigore fino al 31 dic. 2021 (art. 21 cpv. 2).
+[^7-2]: In vigore fino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^7-3]: In vigore fino al 31 dic. 2021 (art. 21 cpv. 2).
 
 #### Art. 8
 
@@ -257,9 +259,7 @@ Se necessario all’esercizio dei diritti nelle assemblee di società, il Consig
 
 #### Art. 8a
 
-**Allentamenti a livello cantonale**[^8a-1]
-
-Il Consiglio federale prevede allentamenti per i Cantoni la cui situazione epidemiologica è stabile o in miglioramento e che applicano una strategia di test o altri provvedimenti adatti a combattere l’epidemia di COVID-19.
+[^8a-1]
 
 [^8a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
@@ -269,19 +269,19 @@ Il Consiglio federale prevede allentamenti per i Cantoni la cui situazione epide
 
 Se necessario per impedire fallimenti di massa e assicurare la stabilità dell’economia e della società svizzere, il Consiglio federale può emanare disposizioni che deroghino alla legge federale dell’11 aprile 1889[^9-1] sulla esecuzione e sul fallimento (LEF) e al Codice delle obbligazioni[^9-2] con riguardo a:
 
-- a. il concordato (art. 293 segg. LEF);
-- b. le condizioni, gli effetti e la procedura di una moratoria speciale;
-- c.[^9-3] gli avvisi obbligatori in caso di perdita di capitale ed eccedenza di debiti.
+- [tab] a. e b.[^9-3]
+- c.[^9-4] gli avvisi obbligatori in caso di perdita di capitale e indebitamento eccessivo.
 
 [^9-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^9-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^9-3]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^9-3]: In vigore fino al 31 dic. 2021 (art. 21 cpv. 2).
+[^9-4]: In vigore fino al 31 dic. 2031 (art. 21 cpv. 8).
 
 #### Art. 10
 
-**Provvedimenti in materia di sicurezza dell’approvvigionamento**
+[^10-1]
 
-Il Consiglio federale è autorizzato a esonerare dalla responsabilità per l’obbligazione doganale le persone che allestiscono professionalmente dichiarazioni doganali e i trasportatori per il caso in cui il destinatario o l’importatore, a seguito dei provvedimenti adottati dalla Confederazione in relazione con l’epidemia di COVID-19, divenga insolvibile a causa del fallimento, di una moratoria concordataria o di una palese insolvenza.
+[^10-1]: In vigore fino al 31 dic. 2021 (art. 21 cpv. 2).
 
 #### Art. 11
 
@@ -334,7 +334,7 @@ Il Consiglio federale è autorizzato a esonerare dalla responsabilità per l’o
 
 <sup>7</sup> Il sostegno a eventi regionali e locali compete ai Cantoni.
 
-[^11a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Correzione della Conissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
+[^11a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Correzione della Conissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^11a-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^11a-3]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
@@ -476,17 +476,17 @@ I contributi sono concessi alle condizioni seguenti:
 
 <sup>8</sup> Se le condizioni di cui al capoverso 6 lettera a o d oppure l’obbligo di cui al capoverso 7 primo periodo non sono osservati, la restituzione dei contributi è retta dalla legge del 5 ottobre 1990[^12b-7] sui sussidi. Se le condizioni di cui al capoverso 6 lettera b o c non sono osservate, il club è tenuto a restituire quanto eccede il 50 per cento delle entrate non realizzate dalla biglietteria secondo il capoverso 4.[^12b-8]
 
-<sup>9</sup> Le richieste concernenti partite disputate tra il 29 ottobre 2020 e il 31 dicembre 2020 possono essere presentate sino al 30 aprile 2021.[^12b-9]
+<sup>9</sup> ...[^12b-9]
 
 [^12b-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 30 giu. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-2]: Nuovo testo giusta il I della LF del 18 giu. 2021 (Indennità per perdita di guadagno, sport e limitazioni della capienza), in vigore dal 19 giu. 2021 al 30 giu. 2022 ([RU 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 1; [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-3]: Abrogato dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), con effetto dal 1° gen. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^12b-4]: Sesto per. introdotto n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° gen. 2021 al 30 giu. 2022 (RU **2021** 153, 878 II cpv. 1; FF **2021** 285, 2515).
+[^12b-4]: Sesto per. introdotto n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° gen. 2021 al 30 giu. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-5]: Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° gen. 2021 al 30 giu. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-6]: Terzo per. introdotto n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° gen. 2021 al 30 giu. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^12b-7]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 [^12b-8]: Nuovo testo giusta il I della LF del 18 giu. 2021 (Indennità per perdita di guadagno, sport e limitazioni della capienza ([RU 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)). Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2027 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^12b-9]: Introdotto n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° gen. 2021 al 30 giu. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 1; [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^12b-9]: Introdotto n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° gen. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 13
 
@@ -502,36 +502,9 @@ I contributi sono concessi alle condizioni seguenti:
 
 #### Art. 14
 
-**Provvedimenti nel settore dei media**
+[^14-1]
 
-<sup>1</sup>
-
-Nel settore dei media il Consiglio federale adotta i seguenti provvedimenti:
-
-- a. la Confederazione assume i costi complessivi per la distribuzione regolare da parte della Posta Svizzera dei quotidiani e settimanali in abbonamento della stampa regionale e locale (art. 16 cpv. 4 lett. a della legge del 17 dicembre 2010[^14-1] sulle poste); tali costi sono determinati in base alle tariffe vigenti il 1° giugno 2020;
-- b. la Confederazione partecipa, con 27 centesimi per esemplare, ai costi per la distribuzione regolare da parte della Posta Svizzera dei quotidiani e settimanali in abbonamento della stampa sovraregionale e nazionale;
-- c. i costi dell’abbonamento ai servizi di base «testo» dell’agenzia di stampa Keystone-ATS relativi ai diritti di utilizzazione per i media elettronici, determinati in base alle tariffe vigenti il 1° giugno 2020, sono finanziati, sino a un massimo di 10 milioni di franchi, con la quota dei proventi del canone radiotelevisivo non utilizzata;
-- d.[^14-2]
-
-  l’Ufficio federale delle comunicazioni può versare contributi su richiesta, attingendo ai proventi del canone radiotelevisivo, a favore delle aziende private di radiotelevisione seguenti:
-
-  - 1\. stazioni radiofoniche commerciali titolari di una concessione FM valida,
-  - 2\. stazioni radiofoniche complementari titolari di una concessione,
-  - 3\. stazioni televisive regionali titolari di una concessione.
-
-<sup>1bis</sup> I versamenti di cui al capoverso 1 lettera d si basano sulla comprovata diminuzione dei proventi della pubblicità e delle sponsorizzazioni tra il 2019 e il 2021, ma ammontano al massimo a 20 milioni di franchi. L’aiuto è accordato a condizione che i beneficiari si impegnino per scritto a rimborsare all’Ufficio federale delle comunicazioni l’aiuto ricevuto qualora per il 2021 siano distribuiti dividendi.[^14-3]
-
-<sup>2</sup> Il Consiglio federale revoca i provvedimenti al più tardi all’entrata in vigore di una legge federale che prevede misure a favore dei media.
-
-<sup>3</sup> Disciplina le condizioni di promozione e la procedura per il calcolo e il versamento dei contributi di cui al capoverso 1 lettere a e b, nonché per l’assunzione dei costi di abbonamento di cui al capoverso 1 lettera c.
-
-<sup>4</sup> La riduzione di cui al capoverso 1 lettere a e b è concessa a condizione che l’editore si impegni per scritto nei confronti dell’Ufficio federale delle comunicazioni (UFCOM) a non distribuire dividendi per l’esercizio in questione.
-
-<sup>5</sup> L’UFCOM rimborsa i costi dell’abbonamento ai servizi di base «testo» direttamente all’agenzia di stampa Keystone-ATS. Questa detrae tale importo dalle fatture per gli abbonati.
-
-[^14-1]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^14-2]: Introdotta dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^14-3]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^14-1]: In vigore fino al 31 dic. 2021 (art. 21 cpv. 2).
 
 #### Art. 15
 
@@ -553,17 +526,18 @@ Il Consiglio federale può emanare disposizioni concernenti:
 
 <sup>4</sup> Il Consiglio federale si assicura che le indennità siano versate in funzione delle perdite di guadagno dichiarate dagli interessati. La correttezza delle indicazioni fornite è verificata in particolare mediante controlli a campione.
 
-<sup>5</sup> Il Consiglio federale può dichiarare applicabili le disposizioni della LPGA. Può prevedere deroghe all’articolo 24 capoverso 1 LPGA per quanto concerne l’estinzione del diritto e all’articolo 49 capoverso 1 LPGA per quanto concerne l’applicabilità della procedura semplificata.
+<sup>5</sup> Il Consiglio federale può dichiarare applicabili le disposizioni della LPGA. Può prevedere deroghe all’articolo 24 capoverso 1 LPGA per quanto concerne l’estinzione del diritto, all’articolo 49 capoverso 1 LPGA per quanto concerne l’applicabilità della procedura semplificata e all’articolo 58 capoverso 1 LPGA per quanto concerne la competenza del tribunale delle assicurazioni.[^15-4]
 
-[^15-1]: In vigore fino al 31 dic. 2022 (art. 21 cpv. 1).
+[^15-1]: In vigore fino al 31 dic. 2022 (art. 21 cpv. 11).
 [^15-2]: Nuovo testo del per. giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° apr. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^15-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^15-4]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 
 #### Art. 16
 
-**Provvedimenti nel settore della previdenza professionale**
+[^16-1]
 
-Per permettere loro di sormontare problemi di liquidità, il Consiglio federale può prevedere che i datori di lavoro possano utilizzare la riserva dei loro contributi per pagare i contributi dei lavoratori alla previdenza professionale.
+[^16-1]: In vigore fino al 31 dic. 2021 (art. 21 cpv. 2).
 
 #### Art. 17
 
@@ -573,28 +547,30 @@ Per permettere loro di sormontare problemi di liquidità, il Consiglio federale 
 
 Il Consiglio federale può emanare disposizioni che deroghino alla legge del 25 giugno 1982[^17-1] sull’assicurazione contro la disoccupazione (LADI) con riguardo a:
 
-- a. il diritto all’indennità per lavoro ridotto dei formatori professionali che si occupano di apprendisti e il versamento di tale indennità;
-- b.[^17-2] la non considerazione dei periodi di conteggio a partire dal 1° marzo 2020 nei quali la perdita di lavoro è ammontata a oltre l’85 per cento dell’orario normale di lavoro dell’azienda (art. 35 cpv. 1<sup>bis</sup> LADI);
-- c. il prolungamento del termine quadro per la riscossione della prestazione e per il periodo di contribuzione degli assicurati che, tra il 1° marzo e il 31 agosto 2020, hanno avuto diritto a un massimo di 120 indennità giornaliere supplementari;
-- d.[^17-3] lo svolgimento della procedura relativa al preannuncio di lavoro ridotto e al versamento dell’indennità per lavoro ridotto nonché la forma di tale versamento;
-- e.[^17-4] il diritto all’indennità per lavoro ridotto dei lavoratori su chiamata con un rapporto di lavoro di durata indeterminata e il versamento di tale indennità;
-- f. [^17-5] il diritto all’indennità per lavoro ridotto e il versamento di tale indennità per le persone di cui all’articolo 33 capoverso 1 lettera e LADI;
-- g.[^17-6] il periodo d’attesa di cui all’articolo 32 capoverso 2 LADI;
-- h.[^17-7] la durata massima dell’indennità per lavoro ridotto secondo l’articolo 35 capoverso 2 LADI.
+- a.[^17-2] il diritto all’indennità per lavoro ridotto dei formatori professionali che si occupano di apprendisti e il versamento di tale indennità;
+- b.[^17-3] la non considerazione dei periodi di conteggio a partire dal 1° marzo 2020 nei quali la perdita di lavoro è ammontata a oltre l’85 per cento dell’orario normale di lavoro dell’azienda (art. 35 cpv. 1<sup>bis</sup> LADI);
+- c.[^17-4] il prolungamento del termine quadro per la riscossione della prestazione e per il periodo di contribuzione degli assicurati che, tra il 1° marzo e il 31 agosto 2020, hanno avuto diritto a un massimo di 120 indennità giornaliere supplementari;
+- d.[^17-5] lo svolgimento della procedura relativa al preannuncio di lavoro ridotto e al versamento dell’indennità per lavoro ridotto nonché la forma di tale versamento;
+- e.[^17-6] il diritto all’indennità per lavoro ridotto dei lavoratori su chiamata con un rapporto di lavoro di durata indeterminata e il versamento di tale indennità;
+- f. [^17-7] il diritto all’indennità per lavoro ridotto e il versamento di tale indennità per le persone di cui all’articolo 33 capoverso 1 lettera e LADI;
+- g.[^17-8] il periodo d’attesa di cui all’articolo 32 capoverso 2 LADI;
+- h.[^17-9] la durata massima dell’indennità per lavoro ridotto secondo l’articolo 35 capoverso 2 LADI.
 
-<sup>2</sup> A tutte le persone aventi diritto all’indennità secondo la LADI è riconosciuto per i periodi di controllo di marzo, aprile e maggio 2021 un massimo di 66 indennità giornaliere supplementari. Queste indennità non sono computate nell’attuale numero massimo di indennità giornaliere di cui all’articolo 27 LADI.[^17-8]
+<sup>2</sup> A tutte le persone aventi diritto all’indennità secondo la LADI è riconosciuto per i periodi di controllo di marzo, aprile e maggio 2021 un massimo di 66 indennità giornaliere supplementari. Queste indennità non sono computate nell’attuale numero massimo di indennità giornaliere di cui all’articolo 27 LADI.[^17-10]
 
-<sup>3</sup> Per gli assicurati che hanno diritto alle indennità giornaliere supplementari di cui al capoverso 2, il termine quadro per la riscossione della prestazione è prolungato della durata corrispondente al periodo di riscossione delle indennità giornaliere supplementari. Il termine quadro per il periodo di contribuzione è prolungato all’occorrenza della stessa durata.[^17-9]
+<sup>3</sup> Per gli assicurati che hanno diritto alle indennità giornaliere supplementari di cui al capoverso 2, il termine quadro per la riscossione della prestazione è prolungato della durata corrispondente al periodo di riscossione delle indennità giornaliere supplementari. Il termine quadro per il periodo di contribuzione è prolungato all’occorrenza della stessa durata.[^17-11]
 
 [^17-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^17-2]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 1° set. 2020 al 31 dic. 2023 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^17-3]: In vigore fino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-4]: In vigore fino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-5]: Introdotta dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2022 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), 878 II cpv. 2; [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-6]: Introdotta dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), 878 II cpv. 2; [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^17-7]: Introdotta dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^17-8]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2023 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
-[^17-9]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2023 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17-2]: In vigore fino al 31 dic. 2023 (art. 21 cpv. 7).
+[^17-3]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 1° set. 2020 al 31 dic. 2023 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^17-4]: In vigore fino al 31 dic. 2023 (art. 21 cpv. 7).
+[^17-5]: In vigore fino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-6]: In vigore fino al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)II cpv. 2; [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-7]: Introdotta dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2022 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), 878 II cpv. 2; [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-8]: Introdotta dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 1° set. 2020 al 31 dic. 2022 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), 878 II cpv. 2; [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^17-9]: Introdotta dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17-10]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2023 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17-11]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2023 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
 #### Art. 17a
 
@@ -646,11 +622,9 @@ Se una richiesta di aiuti COVID-19 (indennità per lavoro ridotto, casi di rigor
 
 #### Art. 18
 
-**Disposizioni penali**
+[^18-1]
 
-<sup>1</sup> È punito con la multa chiunque viola intenzionalmente i provvedimenti disposti dal Consiglio federale in virtù degli articoli 3 o 4 e la cui violazione è dichiarata punibile in virtù della presente disposizione.
-
-<sup>2</sup> Il Consiglio federale può stabilire quali violazioni di cui al capoverso 1 sono punite con una multa disciplinare fino a 300 franchi e determina l’importo della multa.
+[^18-1]: In vigore fino al 31 dic. 2021 (art. 21 cpv. 2).
 
 #### Art. 19
 
@@ -705,9 +679,9 @@ La Confederazione tiene una statistica, aggiornata periodicamente, dei sussidi c
 
 <sup>11</sup> La durata di validità dell’articolo 15 di cui al capoverso 10 è prorogata sino al 31 dicembre 2022.[^21-6]
 
-[^21-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2031 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correzione della Commissione di redazione dell’AF del 22 dic. 2021, pubblicata il 30 dic. 2021 ([RU 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2023 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correzione della Commissione di redazione dell’AF del 22 dic. 2021, pubblicata il 30 dic. 2021 ([RU 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-3]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2031 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)). Correzione della Commissione di redazione dell’AF del 22 dic. 2021, pubblicata il 30 dic. 2021 ([RU 2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924)).
-[^21-4]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^21-5]: Introdotto dal n. I della LF del 18 giu. 2021 (Indennità per perdita di guadagno, sport e limitazioni della capienza), in vigore dal 19 giu. 2021 al 31 dic. 2021 ([RU 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^21-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2031 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2023 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-3]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2031 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 924](https://fedlex.data.admin.ch/eli/oc/2021/924); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-4]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^21-5]: Introdotto dal n. I della LF del 18 giu. 2021 (Indennità per perdita di guadagno, sport e limitazioni della capienza), in vigore dal 19 giu. 2021 ([RU 2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^21-6]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
