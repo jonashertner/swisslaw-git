@@ -4,13 +4,12 @@ number: "910.113"
 title: Verordnung über Strukturverbesserungen in der Landwirtschaft
 short: SVV
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+version_adopted: 2021-11-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.113"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2193/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2193/pdf_file"
 
 (SVV)
 
-vom 05.11.1997 (Stand 01.04.2021)
+vom 05.11.1997 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -47,29 +46,35 @@ beschliesst:
 
 **Ordentliche Beiträge 1. Abstufungen**
 
-<sup>1</sup> An die Kosten von Strukturverbesserungen können Kantonsbeiträge bis zu folgenden Höchstansätzen ausgerichtet werden:
+<sup>1</sup> An die beitragsberechtigten Kosten von Strukturverbesserungen können Kantonsbeiträge bis zu folgenden Höchstansätzen ausgerichtet werden:
 
 <table>
-<tr><th>Nr.</th><th>Bodenverbesserungsart und landwirtschaftliche Hochbauten</th><th>Höchstansätze ausserhalb des Berggebiets (normal)</th><th>Höchstansätze ausserhalb des Berggebiets (erschwert)</th><th>Berggebiet</th></tr>
-<tr><td>1.</td><td>Güterzusammenlegungen</td><td>35%</td><td>40%</td><td>40%</td></tr>
-<tr><td>2.</td><td>Rebgüterzusammenlegungen</td><td>–</td><td>40%</td><td>–</td></tr>
-<tr><td>3.</td><td>Weganlagen</td><td>25%</td><td>35%</td><td>40%</td></tr>
-<tr><td>4.</td><td>Ent- und Bewässerungen</td><td>25%</td><td>30%</td><td>35%</td></tr>
-<tr><td>5.</td><td>Wasserversorgungen</td><td>–</td><td>30%</td><td>35%</td></tr>
-<tr><td>6.</td><td>Elektrizitätsversorgungen</td><td>–</td><td>–</td><td>35%</td></tr>
-<tr><td>7.</td><td>Transportanlagen</td><td>–</td><td>40%</td><td>40%</td></tr>
-<tr><td>8.</td><td>Sicherung und Wiederherstellung von kulturtechnischen Anlagen und landwirtschaftliche Hochbauten</td><td>30%</td><td>35%</td><td>40%</td></tr>
-<tr><td>9.</td><td>Pachtlandarrondierungen</td><td>25%</td><td>30%</td><td>35%</td></tr>
-<tr><td>10.</td><td>Ökonomiegebäude</td><td>30%</td><td>35%</td><td>40%</td></tr>
-<tr><td>12.</td><td>Alpgebäude</td><td>–</td><td>–</td><td>40%</td></tr>
-<tr><td>13.</td><td>Dorfkäsereien</td><td>–</td><td>–</td><td>25%</td></tr>
-<tr><td>14.</td><td>Düngeranlagen</td><td>30%</td><td>40%</td><td>40%</td></tr>
-<tr><td>15.</td><td>Umweltmeliorationen</td><td>40%</td><td>40%</td><td>40%</td></tr>
-<tr><td>16.</td><td>Periodischer Unterhalt von Wegen</td><td>–</td><td>40%</td><td>40%</td></tr>
-<tr><td>17.</td><td>Projekte zur regionalen Entwicklung</td><td>40%</td><td>40%</td><td>40%</td></tr>
+<tr><th>Nr.</th><th>Bodenverbesserungsart und landwirtschaftliche Hochbauten</th><th>Höchstansätze ausserhalb des Berggebiets</th><th>Berggebiet</th></tr>
+<tr><td>1.</td><td>Gesamtmeliorationen und Landumlegungen</td><td>40%</td><td>40%</td></tr>
+<tr><td>2.</td><td>Rebgüterzusammenlegungen</td><td>40%</td><td>–</td></tr>
+<tr><td>3.</td><td>Weganlagen</td><td>35%</td><td>40%</td></tr>
+<tr><td>4.</td><td>Ent- und Bewässerungen</td><td>30%</td><td>35%</td></tr>
+<tr><td>5.</td><td>Wasserversorgungen</td><td>30%</td><td>35%</td></tr>
+<tr><td>6.</td><td>Elektrizitätsversorgungen</td><td>–</td><td>35%</td></tr>
+<tr><td>7.</td><td>Transportanlagen</td><td>40%</td><td>40%</td></tr>
+<tr><td>8.</td><td>Sicherung und Wiederherstellung von kulturtechnischen Anlagen</td><td>35%</td><td>40%</td></tr>
+<tr><td>9.</td><td>Pachtlandarrondierungen</td><td>30%</td><td>35%</td></tr>
+<tr><td>10.</td><td>Ökonomiegebäude</td><td>35%</td><td>40%</td></tr>
+<tr><td>12.</td><td>Alpgebäude</td><td>–</td><td>40%</td></tr>
+<tr><td>13.</td><td>Gemeinschaftliche Anlagen für die Milchverarbeitung</td><td>35%</td><td>40%</td></tr>
+<tr><td>14.</td><td>Düngeranlagen</td><td>40%</td><td>40%</td></tr>
+<tr><td>15.</td><td>...</td><td>...</td><td>...</td></tr>
+<tr><td>16.</td><td>Periodische Wiederinstandstellung von Wegen</td><td>40%</td><td>40%</td></tr>
+<tr><td>17.</td><td>Projekte zur regionalen Entwicklung</td><td>40%</td><td>40%</td></tr>
+<tr><td>18.</td><td>Fernmeldeanlagen</td><td></td><td>40%</td></tr>
+<tr><td>19.</td><td>Gemeinschaftliche Anlagen für die Verarbeitung und Lagerung</td><td></td><td>35%</td><td>40%</td></tr>
+<tr><td>20.</td><td>Bauten und Einrichtungen für gewerbliche Kleinbetriebe</td><td></td><td>35%</td><td>40%</td></tr>
+<tr><td>21.</td><td>Massnahmen zur Verwirklichung ökologischer Ziele</td><td></td><td>35%</td><td>40%</td></tr>
+<tr><td>22.</td><td>Massnahmen zur Erfüllung der Anforderungen des Heimat- und Landschaftsschutzes</td><td></td><td>35%</td><td>40%</td></tr>
+<tr><td>23.</td><td>Gemeinschaftliche Initiativen von Produzentinnen und Produzenten</td><td></td><td>35%</td><td>40%</td></tr>
 </table>
 
-<sup>2</sup> Für landwirtschaftliche Hochbauten sowie für Strukturverbesserungen nach den Ziffern 10 bis 14 sind die Kantonsbeiträge innerhalb der Höchstansätze pauschal auszurichten.
+<sup>2</sup> Für Strukturverbesserungen nach Absatz 1 Ziffern 10 bis 14 sowie 19 bis 23 können die Kantonsbeiträge innerhalb der Höchstansätze pauschal oder anteilsmässig ausgerichtet werden.
 
 <sup>3</sup> An in Absatz 1 nicht erwähnte Strukturverbesserungen können in sinngemässer Anwendung der dortigen Höchstansätze Kantonsbeiträge geleistet werden, sofern nicht ausreichende Beiträge oder Darlehen aufgrund anderer Erlasse erhältlich sind.
 
@@ -103,11 +108,11 @@ beschliesst:
 
 #### Art. 6
 
-**Beitragsbemessung**
+**Tragbarkeit**
 
-<sup>1</sup> Bei der Festsetzung des Beitrages ist die wirtschaftliche Leistungsfähigkeit der Person, Personengemeinschaft oder Körperschaft zu berücksichtigen, die den Beitrag erhält.
+<sup>1</sup> Die Tragbarkeit der vorgesehenen Investition muss gegeben sein.
 
-<sup>2</sup> Bei Gesamt- und Umweltmeliorationen sowie bei Projekten zur regionalen Entwicklung findet Absatz 1 keine Anwendung.
+<sup>2</sup> …
 
 #### Art. 7
 
@@ -143,47 +148,43 @@ beschliesst:
 
 #### Art. 10
 
-**3. Verfahren**
-
-<sup>1</sup> Beitragsgesuche sind vor Inangriffnahme der Arbeiten mit den erforderlichen Unterlagen und mit Angaben über allfällige Beiträge Dritter der ASP schriftlich einzureichen.
-
-<sup>2</sup> Die ASP eröffnet den Gesuchstellerinnen und Gesuchstellern die von Bund und Kanton zugesicherten Beiträge schriftlich.
-
-<sup>3</sup> Die Beitragsempfängerin oder der Beitragsempfänger hat binnen 30 Tagen nach Mitteilung der Zusicherung schriftlich zu erklären, dass sie oder er die an die Beitragsleistung geknüpften Bedingungen und Auflagen anerkennt.
-
-<sup>4</sup> An die Kosten von Arbeiten und Werken, die ohne Bewilligung angefangen oder erstellt wurden, dürfen keine Beiträge gewährt werden.
+**…**
 
 #### Art. 11
 
 **Besondere Voraussetzungen für den landwirtschaftlichen Hochbau 1. Nebenerwerbsbetriebe**
 
-<sup>1</sup> In der voralpinen Hügelzone und im Berggebiet können Kantonsbeiträge auch zur Unterstützung von direktzahlungsberechtigten Nebenerwerbsbetrieben ausgerichtet werden.
+<sup>1</sup> In der voralpinen Hügelzone und im Berggebiet können Kantonsbeiträge auch zur Unterstützung von direktzahlungsberechtigten Nebenerwerbsbetrieben mit mindestens 0,6 Standardarbeitskraft (SAK) ausgerichtet werden.
 
 #### Art. 12
 
 **2. Persönliche und betriebliche Anforderungen**
 
-<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller muss über eine landwirtschaftliche oder gleichwertige Ausbildung verfügen, ein zukunftsgerichtetes Betriebskonzept vorlegen und sich in der Regel über eine erfolgreiche Betriebsführung ausweisen.
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller muss über eine geeignete Ausbildung verfügen oder sich über eine erfolgreiche Betriebsführung ausweisen sowie gegebenenfalls ein zukunftsgerichtetes Betriebskonzept vorweisen.
 
-<sup>2</sup> Die geplanten baulichen Massnahmen müssen mindestens den Anforderungen des ökologischen Leistungsnachweises Rechnung tragen.
+<sup>2</sup> Die landwirtschaftlichen Betriebe müssen die Voraussetzungen des ökologischen Leistungsnachweises erfüllen.
 
 #### Art. 13
 
-**3. Verfahren**
+**Verfahren**
 
-<sup>1</sup> Beitragsgesuche sind bei der ASP einzureichen.
+<sup>1</sup> Beitragsgesuche sind vor Baubeginn oder vor der Anschaffung mit den erforderlichen Unterlagen bei der ASP schriftlich einzureichen.
 
 <sup>2</sup> Die ASP beurteilt die Gesuche in der Reihenfolge ihres Eintreffens.
 
 <sup>3</sup> Sie gewährt die Beiträge bei Vorliegen der Voraussetzungen nach der Prioritätenordnung der Wirtschafts-, Energie- und Umweltdirektion im Rahmen der vorhandenen Budgetmittel.
 
-<sup>4</sup> An die Kosten von Arbeiten und Werken, die ohne Bewilligung angefangen oder erstellt wurden, werden keine Beiträge gewährt.
+<sup>4</sup> Sie eröffnet den Gesuchstellerinnen und Gesuchstellern die von Bund und Kanton zugesicherten Beiträge schriftlich.
+
+<sup>5</sup> Die Beitragsempfängerin oder der Beitragsempfänger hat binnen 30 Tagen nach Mitteilung der Zusicherung schriftlich zu erklären, dass sie oder er die an die Beitragsleistung geknüpften Bedingungen und Anlagen anerkennt.
+
+<sup>6</sup> An die Kosten von Arbeiten und Werken, die ohne Bewilligung angefangen oder erstellt wurden, werden keine Beiträge gewährt.
 
 #### Art. 14
 
 **Widerruf und Änderung der Zusicherung; Schadenersatz**
 
-<sup>1</sup> Die ASP widerruft die Beitragszusicherung, wenn ein unter Vorbehalt der Zustimmung des Grossen Rates zugesicherter Beitrag von diesem nicht genehmigt wird.
+<sup>1</sup> …
 
 <sup>2</sup> Die ASP kann die Beitragszusicherung widerrufen oder ändern, wenn
 
@@ -214,7 +215,7 @@ beschliesst:
 
 <sup>2</sup> Die oder der Rückerstattungspflichtige haftet für den durch die Widerhandlung entstandenen weiteren Schaden.
 
-<sup>3</sup> Zur Festlegung der Rückerstattung von Beiträgen kann der Perimeter in Zonen mit abgestuften Ansätzen unterteilt werden.
+<sup>3</sup> Die Berechnung der Rückerstattung von Beiträgen erfolgt in Anlehnung an die bundesrechtlichen Bestimmungen, sofern die kantonalen Bestimmungen keine abweichende Regelung vorsehen.
 
 <sup>4</sup> Die ASP teilt die einschlägigen Verfügungen den das Projekt unterstützenden Gemeinden mit.
 
@@ -230,9 +231,9 @@ beschliesst:
 
 **3. Garantieerklärung**
 
-<sup>1</sup> Ist eine Gemeinde Bauherrin, so kann diese anstelle der Grundbuchanmerkung eine Garantieverpflichtung für die Rückerstattungen im Sinne der eidgenössischen Verordnung vom 7. Dezember 1998 über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung, SVV[^17-1]) eingehen.
+<sup>1</sup> In begründeten Fällen und in Absprache mit dem Bundesamt für Landwirtschaft (BLW) kann anstelle der Grundbuchanmerkung eine schriftliche Garantieerklärung für die Rückerstattungen im Sinne der eidgenössischen Verordnung vom 7. Dezember 1998 über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung, SVV)[^17-1] abgegeben werden.
 
-[^17-1]: SR 913.1
+[^17-1]: SR [913.1](https://db.clex.ch/link/Bund/913.1/de)
 
 #### Art. 18
 

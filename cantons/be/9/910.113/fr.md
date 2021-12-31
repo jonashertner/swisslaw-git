@@ -4,13 +4,12 @@ number: "910.113"
 title: "Ordonnance sur les améliorations structurelles dans l'agriculture"
 short: OASA
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+version_adopted: 2021-11-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.113"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2193/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2442/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2193/pdf_file"
 
 (OASA)
 
-du 05.11.1997 (état au 01.04.2021)
+du 05.11.1997 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -47,29 +46,35 @@ arrête:
 
 **Subventions ordinaires 1. Barème**
 
-<sup>1</sup> Des subventions cantonales peuvent être versées pour couvrir les frais d'améliorations structurelles, jusqu'à concurrence des taux maximaux suivants:
+<sup>1</sup> Des subventions cantonales peuvent être versées pour couvrir les frais d'améliorations structurelles qui y donnent droit, jusqu'à concurrence des taux maximaux suivants:
 
 <table>
-<tr><th>N°</th><th>Type d'amélioration foncière et de bâtiments agricoles</th><th>Taux maximum hors des régions de montagne (normal)</th><th>Taux maximum hors des régions de montagne (difficile)</th><th>Régions de montagne</th></tr>
-<tr><td>1.</td><td>Remaniements parcellaires</td><td>35%</td><td>40%</td><td>40%</td></tr>
-<tr><td>2.</td><td>Remembrements de vignobles</td><td>–</td><td>40%</td><td>–</td></tr>
-<tr><td>3.</td><td>Chemins</td><td>25%</td><td>35%</td><td>40%</td></tr>
-<tr><td>4.</td><td>Drainages et irrigations</td><td>25%</td><td>30%</td><td>35%</td></tr>
-<tr><td>5.</td><td>Approvisionnement en eau</td><td>–</td><td>30%</td><td>35%</td></tr>
-<tr><td>6.</td><td>Approvisionnement en électricité</td><td>–</td><td>–</td><td>35%</td></tr>
-<tr><td>7.</td><td>Installations de transport</td><td>–</td><td>40%</td><td>40%</td></tr>
-<tr><td>8.</td><td>Sécurité et reconstruction d'équipements techniques et de bâtiments agricoles</td><td>30%</td><td>35%</td><td>40%</td></tr>
-<tr><td>9.</td><td>Regroupement de terrains affermés</td><td>25%</td><td>30%</td><td>35%</td></tr>
-<tr><td>10.</td><td>Bâtiments d'exploitation</td><td>30%</td><td>35%</td><td>40%</td></tr>
-<tr><td>12.</td><td>Chalets d'alpage</td><td>–</td><td>–</td><td>40%</td></tr>
-<tr><td>13.</td><td>Fromageries de village</td><td>–</td><td>–</td><td>25%</td></tr>
-<tr><td>14.</td><td>Installations de stockage des engrais de ferme</td><td>30%</td><td>40%</td><td>40%</td></tr>
-<tr><td>15.</td><td>Améliorations foncières écologiques</td><td>40%</td><td>40%</td><td>40%</td></tr>
-<tr><td>16.</td><td>Entretien périodique de chemins</td><td>–</td><td>40%</td><td>40%</td></tr>
-<tr><td>17.</td><td>Projets de développement régional</td><td>40%</td><td>40%</td><td>40%</td></tr>
+<tr><th>N°</th><th>Type d'amélioration foncière et de bâtiments agricoles</th><th>Taux maximum hors des régions de montagne</th><th>Régions de montagne</th></tr>
+<tr><td>1.</td><td>Améliorations intégrales et remaniements parcellaires</td><td>40%</td><td>40%</td></tr>
+<tr><td>2.</td><td>Remembrements de vignobles</td><td>40%</td><td>–</td></tr>
+<tr><td>3.</td><td>Chemins</td><td>35%</td><td>40%</td></tr>
+<tr><td>4.</td><td>Drainages et irrigations</td><td>30%</td><td>35%</td></tr>
+<tr><td>5.</td><td>Approvisionnement en eau</td><td>30%</td><td>35%</td></tr>
+<tr><td>6.</td><td>Approvisionnement en électricité</td><td>–</td><td>35%</td></tr>
+<tr><td>7.</td><td>Installations de transport</td><td>40%</td><td>40%</td></tr>
+<tr><td>8.</td><td>Sécurité et reconstruction d'équipements techniques et de bâtiments agricoles</td><td>35%</td><td>40%</td></tr>
+<tr><td>9.</td><td>Regroupement de terrains affermés</td><td>30%</td><td>35%</td></tr>
+<tr><td>10.</td><td>Bâtiments d'exploitation</td><td>35%</td><td>40%</td></tr>
+<tr><td>12.</td><td>Chalets d'alpage</td><td>–</td><td>40%</td></tr>
+<tr><td>13.</td><td>Installations communautaires destinées à la transformation de lait</td><td>35%</td><td>40%</td></tr>
+<tr><td>14.</td><td>Installations de stockage des engrais de ferme</td><td>40%</td><td>40%</td></tr>
+<tr><td>15.</td><td>...</td><td>...</td><td>...</td></tr>
+<tr><td>16.</td><td>Entretien périodique de chemins</td><td>40%</td><td>40%</td></tr>
+<tr><td>17.</td><td>Projets de développement régional</td><td>40%</td><td>40%</td></tr>
+<tr><td>18.</td><td>Installations de télécommunication</td><td></td><td>40%</td></tr>
+<tr><td>19.</td><td>Installations communautaires destinées à la transformation et au stockage</td><td></td><td>35%</td><td>40%</td></tr>
+<tr><td>20.</td><td>Bâtiments et installations pour les petites entreprises artisanales</td><td></td><td>35%</td><td>40%</td></tr>
+<tr><td>21.</td><td>Mesures pour l'atteinte d'objectifs écologiques</td><td></td><td>35%</td><td>40%</td></tr>
+<tr><td>22.</td><td>Mesures pour le respect des exigences de la protection du patrimoine et des paysages</td><td></td><td>35%</td><td>40%</td></tr>
+<tr><td>23.</td><td>Initiatives communautaires de producteurs et productrices</td><td></td><td>35%</td><td>40%</td></tr>
 </table>
 
-<sup>2</sup> Pour les bâtiments agricoles et les améliorations structurelles au sens des chiffres 10 à 14, les subventions cantonales sont versées sous forme de forfait, dans les limites des montants maximaux.
+<sup>2</sup> Pour les améliorations structurelles au sens de l'alinéa 1, chiffres 10 à 14 et 19 à 23, les subventions cantonales sont versées sous forme de forfait ou au prorata, dans les limites des montants maximaux.
 
 <sup>3</sup> Les projets d'améliorations structurelles non mentionnés au 1<sup>er</sup> alinéa peuvent bénéficier de subventions cantonales calculées par analogie selon les montants maximaux déterminants, à condition qu'il ne soit pas possible d'obtenir des subventions ou des prêts suffisants en application d'autres actes législatifs.
 
@@ -103,11 +108,11 @@ arrête:
 
 #### Art. 6
 
-**Calcul de la subvention**
+**Charge supportable**
 
-<sup>1</sup> Les subventions cantonales sont calculées en fonction de la capacité financière de la personne, de la communauté de personnes ou de la collectivité bénéficiaires.
+<sup>1</sup> La charge résultant de l'investissement prévu doit être supportable.
 
-<sup>2</sup> L’alinéa 1 ne s’applique pas lorsqu’il s’agit d’améliorations globales ou d’améliorations foncières écologiques ainsi que de projets de développement régional.
+<sup>2</sup> …
 
 #### Art. 7
 
@@ -143,47 +148,43 @@ arrête:
 
 #### Art. 10
 
-**3. Procédure**
-
-<sup>1</sup> Les demandes de subvention doivent être déposées au SASP par écrit avant le commencement des travaux, assorties des documents nécessaires et complétées le cas échéant par des informations sur les contributions de tiers.
-
-<sup>2</sup> Le SASP notifie par écrit au requérant ou à la requérante les promesses de subvention de la Confédération ou du canton.
-
-<sup>3</sup> Les bénéficiaires des subventions doivent déclarer par écrit dans les 30 jours qui suivent la notification de la promesse de subvention qu'ils acceptent les conditions et charges auxquelles est soumis le versement des subventions.
-
-<sup>4</sup> Aucune subvention n'est versée pour couvrir les coûts des travaux et ouvrages entrepris ou construits sans autorisation.
+**…**
 
 #### Art. 11
 
 **Conditions particulières pour les bâtiments agricoles 1. Exploitations procurant un revenu accessoire**
 
-<sup>1</sup> Dans la zone préalpine des collines et dans les régions de montagne, les subventions cantonales peuvent être allouées pour soutenir des exploitations procurant un revenu accessoire et donnant droit à des paiements directs.
+<sup>1</sup> Dans la zone préalpine des collines et dans les régions de montagne, les subventions cantonales peuvent être allouées pour soutenir des exploitations procurant un revenu accessoire et donnant droit à des paiements directs qui comptent au moins 0,6 unité de main-d'oeuvre standard (UMOS).
 
 #### Art. 12
 
 **2. Qualité de requérants ou requérantes et critères appliqués aux exploitations**
 
-<sup>1</sup> Les requérants et requérantes doivent avoir acquis une formation agricole ou une formation équivalente, présenter un programme pour la gestion prospective de leur exploitation et, en règle générale, justifier d'une gestion performante.
+<sup>1</sup> Les requérants et requérantes doivent avoir acquis une formation adéquate ou justifier d'une gestion performante et, le cas échéant, présenter un programme pour la gestion prospective de leur exploitation.
 
-<sup>2</sup> Les travaux de construction prévus doivent tenir compte au moins des exigences relatives aux prestations écologiques requises.
+<sup>2</sup> Les exploitations agricoles doivent remplir les exigences relatives aux prestations écologiques requises.
 
 #### Art. 13
 
-**3. Procédure**
+**Procédure**
 
-<sup>1</sup> Les demandes de subvention doivent être déposées au SASP.
+<sup>1</sup> Les demandes de subvention doivent être déposées au SASP par écrit et assorties des documents requis avant le début de tous travaux de construction ou avant toute acquisition.
 
 <sup>2</sup> Le SASP traite les demandes dans l'ordre de leur arrivée.
 
 <sup>3</sup> Lorsque les conditions sont réunies, il accorde les subventions dans l'ordre des priorités de la Direction de l’économie, de l’énergie et de l’environnement, dans la limite des moyens budgétaires disponibles.
 
-<sup>4</sup> Aucune subvention n'est versée pour couvrir les coûts des travaux et ouvrages entrepris ou construits sans autorisation.
+<sup>4</sup> Il notifie les subventions promises par la Confédération et le canton par écrit au requérant ou à la requérante.
+
+<sup>5</sup> Le ou la destinataire des subventions doit déclarer par écrit dans les 30 jours suivant la notification qu'il ou elle accepte les conditions et charges liées à cette prestation.
+
+<sup>6</sup> Aucune subvention n'est versée pour couvrir les coûts des travaux et ouvrages entrepris ou construits sans autorisation.
 
 #### Art. 14
 
 **Révocation ou modification de la promesse de subvention; réparation du dommage**
 
-<sup>1</sup> Le SASP révoque la promesse de subvention lorsqu'une subvention promise sous réserve de l'approbation du Grand Conseil a été refusée par ce dernier.
+<sup>1</sup> …
 
 <sup>2</sup> Il peut révoquer ou modifier la promesse de subvention si
 
@@ -214,7 +215,7 @@ arrête:
 
 <sup>2</sup> La personne tenue au remboursement répond des dommages dus à son manquement.
 
-<sup>3</sup> Pour le calcul du montant à rembourser, le périmètre peut être subdivisé en zones à taux échelonnés.
+<sup>3</sup> Sauf réglementation cantonale contraire, le montant à rembourser est calculé conformément aux dispositions du droit fédéral.
 
 <sup>4</sup> Le SASP communique aux communes qui soutiennent le projet les décisions rendues à son sujet.
 
@@ -230,9 +231,9 @@ arrête:
 
 **3. Déclaration de garantie**
 
-<sup>1</sup> Si la commune est maître de l'ouvrage, elle peut, en lieu et place d'une mention au registre foncier, émettre une déclaration de garantie du remboursement au sens de l'ordonnance du 7 décembre 1998 sur les améliorations structurelles dans l'agriculture (ordonnance sur les améliorations structurelles, OAS)[^17-1].
+<sup>1</sup> Dans des cas dûment motivés, il est possible de remettre, d'entente avec l'Office fédéral de l'agriculture (OFAG), une déclaration de garantie du remboursement écrite au sens de l'ordonnance du 7 décembre 1998 sur les améliorations structurelles dans l'agriculture (ordonnance sur les améliorations structurelles, OAS)[^17-1] en lieu et place d'une mention au registre foncier.
 
-[^17-1]: RS 913.1
+[^17-1]: RS [913.1](https://db.clex.ch/link/Bund/913.1/fr)
 
 #### Art. 18
 
