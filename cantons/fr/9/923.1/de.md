@@ -4,13 +4,12 @@ number: "923.1"
 title: Gesetz über die Fischerei
 short: FischG
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-25
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 1979-05-15
 in_force: 1979-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/923.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6566/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6951/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Fischerei – G
 
 (FischG)
 
-vom 15.05.1979 (Fassung in Kraft getreten am 01.01.2020)
+vom 15.05.1979 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -534,47 +533,29 @@ beschliesst:
 
 <sup>1</sup> Wer gegen eine Bestimmung der Artikel 4 Abs. 1, 22 Abs. 2, 28, 30, 32, 37 und 39 dieses Gesetzes verstösst, wird mit einer Busse bis zu 5000 Franken oder bis zu 10'000 Franken im Wiederholungsfall innerhalb von zwei Jahren nach der ersten Widerhandlung bestraft. Die Spezialgesetzgebung bleibt vorbehalten.
 
-<sup>2</sup> Übertretungen, auf die das Ordnungsbussenverfahren anwendbar ist, bleiben vorbehalten.
+<sup>2</sup> Verstösse gegen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
+
+<sup>3</sup> Versuch und Gehilfenschaft sind strafbar; ausgenommen sind Widerhandlungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden.
 
 #### Art. 45a
 
-**Zuständigkeit**
-
-<sup>1</sup> ...
-
-<sup>2</sup> Widerhandlungen werden nach diesem Gesetz und nach dem Justizgesetz verfolgt und beurteilt.
+**…**
 
 #### Art. 45b
 
-**Ordnungsbussen – Grundsatz**
-
-<sup>1</sup> Der Staatsrat bestimmt, in welchen Fällen geringfügige Übertretungen mit Ordnungsbussen geahndet werden können, und setzt den Pauschalbetrag dieser Bussen fest.
-
-<sup>2</sup> Der Höchstbetrag dieser Ordnungsbussen entspricht demjenigen des Ordnungsbussengesetzes des Bundes.
+**…**
 
 #### Art. 45c
 
-**Ordnungsbussen – Zusammentreffen mehrerer Übertretungen**
-
-<sup>1</sup> Werden durch eine oder mehrere Übertretungen mehrere Ordnungsbussentatbestände erfüllt, so werden die Bussen zusammengezählt, und es wird eine Gesamtbusse auferlegt.
+**…**
 
 #### Art. 45d
 
-**Ordnungsbussen – Zuständigkeit und Art der Strafe**
-
-<sup>1</sup> Das Aufsichtspersonal des Amts stellt die Übertretungen fest.
-
-<sup>2</sup> Gegebenenfalls verhängt es Ordnungsbussen mit offiziellem Formular.
+**…**
 
 #### Art. 45e
 
-**Ordnungsbussen – Bezahlung oder Anzeige**
-
-<sup>1</sup> Die Person, welche die Übertretung begangen hat, muss die Ordnungsbusse sofort oder innert 30 Tagen bezahlen.
-
-<sup>2</sup> Bei sofortiger Bezahlung wird eine Quittung ausgestellt.
-
-<sup>3</sup> Wird die Busse weder sofort noch während der folgenden 30 Tage bezahlt, so wird die Widerhandlung der Oberamtsperson angezeigt, die gemäss dem Justizgesetz entscheidet.
+**…**
 
 #### Art. 46
 
@@ -606,7 +587,7 @@ beschliesst:
 
 **Verfolgung und Beurteilung**
 
-<sup>1</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt.
+<sup>1</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
 
 #### Art. 50
 

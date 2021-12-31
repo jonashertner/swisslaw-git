@@ -4,13 +4,12 @@ number: "923.1"
 title: Loi sur la pêche
 short: LPêche
 language: fr
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-25
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 1979-05-15
 in_force: 1979-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/923.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6566/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6951/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Pêche – L
 
 (LPêche)
 
-du 15.05.1979 (version entrée en vigueur le 01.01.2020)
+du 15.05.1979 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -534,47 +533,29 @@ Décrète:
 
 <sup>1</sup> Est passible d'une amende jusqu'à 5000 francs, ou jusqu'à 10'000 francs en cas de récidive dans les deux ans à compter du moment de l'infraction, la personne qui contrevient aux articles 4 al. 1, 22 al. 2, 28, 30, 32, 37 et 39 de la présente loi. La législation spéciale est réservée.
 
-<sup>2</sup> Les contraventions sujettes à la procédure d'amendes d'ordre demeurent réservées.
+<sup>2</sup> Les infractions aux dispositions de la présente loi et à celles de sa réglementation d'exécution que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
+
+<sup>3</sup> La tentative et la complicité sont punissables, excepté pour les infractions que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre.
 
 #### Art. 45a
 
-**Procédure**
-
-<sup>1</sup> ...
-
-<sup>2</sup> La poursuite et le jugement des infractions ont lieu conformément à la présente loi et à la loi sur la justice.
+**…**
 
 #### Art. 45b
 
-**Amendes d'ordre – Principes**
-
-<sup>1</sup> Le Conseil d'Etat fixe les cas dans lesquels des contraventions de peu d'importance peuvent être sanctionnées par des amendes d'ordre et détermine le montant forfaitaire de ces amendes.
-
-<sup>2</sup> La limite supérieure du montant des amendes d'ordre correspond à celle qui est prévue par la loi fédérale sur les amendes d'ordre.
+**…**
 
 #### Art. 45c
 
-**Amendes d'ordre – Concours de plusieurs contraventions**
-
-<sup>1</sup> En cas de contraventions à une ou plusieurs dispositions réprimées par plusieurs amendes d'ordre, celles-ci sont cumulées pour constituer une amende globale.
+**…**
 
 #### Art. 45d
 
-**Amendes d'ordre – Compétence et mode de sanction**
-
-<sup>1</sup> Le personnel de surveillance du Service constate les contraventions.
-
-<sup>2</sup> Le cas échéant, il inflige les amendes d'ordre au moyen de formules officielles.
+**…**
 
 #### Art. 45e
 
-**Amendes d'ordre – Paiement ou dénonciation**
-
-<sup>1</sup> Le contrevenant peut payer l'amende d'ordre immédiatement ou dans les trente jours.
-
-<sup>2</sup> En cas de paiement immédiat, une quittance est établie.
-
-<sup>3</sup> A défaut de paiement immédiat ou dans les trente jours qui suivent, l'infraction est dénoncée au préfet, qui statue conformément à la loi sur la justice.
+**…**
 
 #### Art. 46
 
@@ -606,7 +587,7 @@ Décrète:
 
 **Poursuite et jugement**
 
-<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice.
+<sup>1</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
 
 #### Art. 50
 
