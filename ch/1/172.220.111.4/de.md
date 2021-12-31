@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über den Schutz von Personendaten des B
 short: BPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-793-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20180101/de"
 
 (BPDV)
 
-vom 22. November 2017 (Stand am 1. Januar 2018)
+vom 22. November 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -454,7 +454,7 @@ Die Daten für die Personalzeitwirtschaft im Informationssystem Personalcontroll
 - b. dem Informationssystem integrierte Ressourcenbewirtschaftung nach den Artikeln 179*a*–179*f* des Bundesgesetzes vom 3. Oktober 2008[^40-2] über die militärischen Informationssysteme;
 - c. dem Informationssystem über das Personal der Armeeapotheke nach den Artikeln 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> der Verordnung vom 16. Dezember 2009[^40-3] über die militärischen Informationssysteme (MIV);
 - d. dem Informationssystem über das Personal der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung nach den Artikeln 72*j*–72*j*<sup>sexies</sup> MIV;
-- e. dem Informationssystem Perizoll nach Anhang 7 der Verordnung vom 23. August 2017[^40-4] über die Bearbeitung von Personendaten in der Eidgenössischen Zollverwaltung.
+- e. dem Informationssystem Perizoll nach Anhang 7 der Verordnung vom 23. August 2017[^40-4] über die Bearbeitung von Personendaten im Bundesamt für Zoll und Grenzsicherheit[^40-5].
 
 <sup>4</sup> Die im Informationssystem Personalcontrolling enthaltenen Daten sind in Anhang 4 aufgeführt.
 
@@ -462,6 +462,7 @@ Die Daten für die Personalzeitwirtschaft im Informationssystem Personalcontroll
 [^40-2]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^40-3]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 [^40-4]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^40-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 41
 
@@ -1343,7 +1344,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annex8-lvlu1-2]
+...[^annex8-lvlu1-2]
 
-[^annex8-lvlu1-1]: [[AS 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786), [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378)[2209](https://fedlex.data.admin.ch/eli/oc/2013/467)Ziff. III, [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
+[^annex8-lvlu1-1]: [[AS 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786); [2013 1617](https://fedlex.data.admin.ch/eli/oc/2013/378), [2209](https://fedlex.data.admin.ch/eli/oc/2013/467)Ziff. III; [2015 4095](https://fedlex.data.admin.ch/eli/oc/2015/687)]
 [^annex8-lvlu1-2]: Die Änderungen können unter [AS 2017 7271](https://fedlex.data.admin.ch/eli/oc/2017/793)konsultiert werden.

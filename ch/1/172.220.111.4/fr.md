@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 concernant la protection des données pers
 short: OPDC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-793-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20180101/fr"
 
 (OPDC)
 
-du 22 novembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 22 novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -454,14 +454,15 @@ Les données relatives à la gestion du temps dans le système d’information p
 - b. système d’information pour la gestion intégrée des ressources, visé aux art. 179*a* à 179*f* de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée[^40-2];
 - c. système d’information sur le personnel de la Pharmacie de l’armée, visé aux art. 72*g*<sup>septies</sup> à 72*g*<sup>undecies</sup> de l’ordonnance du 16 décembre 2009 sur le système d’information de l’armée (OSIAr)[^40-3];
 - d. système d’information sur le personnel des unités administratives du DDPS hors du Groupement Défense, visé aux art. 72*j* à 72*j*<sup>sexies</sup> OSIAr;
-- e. système d’information « Perizoll », visé à l’annexe 7 de l’ordonnance du 23 août 2017 sur le traitement des données dans l’AFD[^40-4].
+- e. système d’information « Perizoll », visé à l’annexe 7 de l’ordonnance du 23 août 2017 sur le traitement des données dans l’Office fédéral de la douane et de la sécurité des frontières[^40-4] [^40-5].
 
 <sup>4</sup> Les données contenues dans le système d’information pour le contrôle de gestion du personnel sont énumérées à l’annexe 4.
 
 [^40-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
 [^40-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^40-3]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
-[^40-4]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^40-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^40-5]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
 
 #### Art. 41
 

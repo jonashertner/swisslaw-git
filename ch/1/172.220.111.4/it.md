@@ -4,11 +4,11 @@ title: Ordinanza del 22 novembre 2017 sulla protezione dei dati personali del pe
 short: OPDPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/793"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/793/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-793-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/793/20180101/it"
 
 (OPDPers)
 
-del 22 novembre 2017 (Stato 1° gennaio 2018)
+del 22 novembre 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -454,7 +454,7 @@ I dati per la rilevazione delle presenze del personale vengono inoltre ripresi:
 - b. dal sistema d’informazione per la gestione integrata delle risorse conformemente agli articoli 179*a*–179*f* della legge federale del 3 ottobre 2008[^40-2] sui sistemi d’informazione militari;
 - c. dal sistema d’informazione concernente il personale della Farmacia dell’esercito conformemente agli articoli 72*g*<sup>septies</sup>–72*g*<sup>undecies</sup> dell’ordinanza del 16 dicembre 2009[^40-3] sui sistemi d’informazione militari (OSIM);
 - d. dal sistema d’informazione concernente il personale delle unità amministrative del DDPS esterne all’Aggruppamento Difesa conformemente agli articoli 72*j*–72*j*<sup>sexies</sup> OSIM;
-- e. dal sistema d’informazione «Perizoll» conformemente all’allegato 7 dell’ordinanza del 23 agosto 2017[^40-4] sul trattamento dei dati personali nell’Amministrazione federale delle dogane.
+- e. dal sistema d’informazione «Perizoll» conformemente all’allegato 7 dell’ordinanza del 23 agosto 2017[^40-4] sul trattamento dei dati personali nell’Ufficio federale della dogana e della sicurezza dei confini[^40-5].
 
 <sup>4</sup> I dati contenuti nel sistema d’informazione per il controllo della gestione del personale sono elencati nell’allegato 4.
 
@@ -462,6 +462,7 @@ I dati per la rilevazione delle presenze del personale vengono inoltre ripresi:
 [^40-2]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^40-3]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 [^40-4]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^40-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 41
 
