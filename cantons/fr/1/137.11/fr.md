@@ -4,13 +4,13 @@ number: "137.11"
 title: "Ordonnance sur la profession d'avocat"
 short: OAv
 language: fr
-version: 2015-07-01
-valid_until: 2021-12-31
-version_adopted: 2015-06-22
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2003-07-01
 in_force: 2003-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/137.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5081/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7053/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Profession d'avocat – O
 
 (OAv)
 
-du 01.07.2003 (version entrée en vigueur le 01.07.2015)
+du 01.07.2003 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -279,12 +279,17 @@ Arrête:
 <sup>2</sup> La demande d'admission est adressée au Service de la justice dans les délais suivants:
 
 - a) du 10 au 28 février pour la session commençant en mai;
-- b) du 15 au 30 juin pour la session commençant en septembre;
+- b) du 1<sup>er</sup> au 15 juin pour la session commençant en septembre;
 - c) du 15 au 31 octobre pour la session commençant en janvier.
 
 <sup>3</sup> La personne candidate verse au Service de la justice, dans le délai qui lui est fixé, un émolument qui est affecté au paiement des frais d'examen conformément à l'article 20 al. 1 let. h et i.
 
-<sup>4</sup> Dans les dix jours après la séance d'appréciation constatant son échec, la personne ayant échoué peut se réinscrire pour la prochaine session.
+<sup>4</sup> Après un échec, le délai de réinscription pour les prochaines épreuves est de 10 jours. Le délai commence à courir:
+
+- a) en cas d'échec aux épreuves écrites, le lendemain du jour de la réception du procès-verbal qui contient la motivation de l'échec;
+- b) en cas d'échec à l'épreuve orale, le lendemain du jour de la séance d'appréciation, qui a lieu au terme de l'épreuve. Si dans les 5 jours après la séance d'appréciation, la motivation écrite du résultat est demandée, le délai de réinscription commence à courir le lendemain du jour de la réception de celle-ci.
+
+<sup>5</sup> Une demande de réinscription, pour les prochaines épreuves écrites ou orales, peut toujours être adressée dans les délais mentionnés à l'article 19c al. 2.
 
 #### Art. 19d
 
@@ -336,7 +341,9 @@ Arrête:
 
 <sup>1</sup> L'examen écrit est réussi lorsque chaque épreuve écrite est réussie.
 
-<sup>2</sup> La personne qui a subi un échec obtient une motivation écrite succincte insérée dans l'extrait du procès-verbal constatant l'échec et peut obtenir un entretien avec l'auteur-e du thème dans la ou les branches non réussies.
+<sup>1a</sup> Le résultat est communiqué à l'issue de la séance d'appréciation oralement ou en l'absence du candidat par mail.
+
+<sup>2</sup> La personne qui a subi un échec obtient une motivation écrite succincte insérée dans l'extrait du procès-verbal constatant l'échec.
 
 <sup>3</sup> La personne qui a échoué et qui se présente une nouvelle fois à l'examen subit les épreuves qu'elle n'a pas réussies.
 
@@ -375,7 +382,7 @@ Arrête:
 
 <sup>4</sup> La personne qui a échoué à l'oral dispose d'un délai de cinq jours dès la communication orale de son échec pour demander une motivation écrite succincte de son résultat. La Commission d'examen lui communique cette motivation dans les cinq jours.
 
-<sup>5</sup> La personne qui a subi un échec peut également obtenir un entretien avec le président ou la présidente de la Commission d'examen.
+<sup>5</sup> …
 
 #### Art. 19l
 

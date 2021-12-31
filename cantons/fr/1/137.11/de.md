@@ -4,13 +4,13 @@ number: "137.11"
 title: Verordnung über den Anwaltsberuf
 short: AnwV
 language: de
-version: 2015-07-01
-valid_until: 2021-12-31
-version_adopted: 2015-06-22
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2003-07-01
 in_force: 2003-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/137.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5081/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7053/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Anwaltsberuf – V
 
 (AnwV)
 
-vom 01.07.2003 (Fassung in Kraft getreten am 01.07.2015)
+vom 01.07.2003 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -279,12 +279,17 @@ beschliesst:
 <sup>2</sup> Das Zulassungsgesuch muss innert folgender Fristen an das Amt für Justiz gerichtet werden:
 
 - a) vom 10. bis 28. Februar für die im Mai beginnende Session;
-- b) vom 15. bis 30. Juni für die im September beginnende Session;
+- b) vom 1. bis 15. Juni für die im September beginnende Session;
 - c) vom 15. bis 31. Oktober für die im Januar beginnende Session.
 
 <sup>3</sup> Die Person, die das Examen ablegt, überweist dem Amt für Justiz innerhalb der angesetzten Frist die Gebühr, die gemäss Artikel 20 Abs. 1 Bst. h und i für die Bezahlung der Examenskosten vorgesehen ist.
 
-<sup>4</sup> Wer nicht bestanden hat, kann sich innerhalb von zehn Tagen nach der Bewertungssitzung, an welcher der Misserfolg festgestellt wurde, für die nächste Session neu einschreiben.
+<sup>4</sup> Nach einem Misserfolg beträgt die Frist für die Anmeldung zu den nächsten Prüfungen 10 Tage. Die Frist beginnt zu laufen:
+
+- a) bei nicht bestandenen schriftlichen Prüfungen am Tag nach Erhalt des Protokolls, das die Begründung des Misserfolgs enthält;
+- b) bei nicht bestandenen mündlichen Prüfungen am Tag nach der Bewertungssitzung, die am Ende der Prüfung stattfindet. Wenn innert 5 Tagen nach der Bewertungssitzung eine schriftliche Begründung des Resultats verlangt wird, beginnt die Frist für die Neueinschreibung am Tag nach dem Erhalt der schriftlichen Begründung zu laufen.
+
+<sup>5</sup> Gesuche um eine Neueinschreibung für die nächsten schriftlichen oder mündlichen Prüfungen können jederzeit innert der Fristen nach Artikel 19c Abs. 2 eingereicht werden.
 
 #### Art. 19d
 
@@ -336,7 +341,9 @@ beschliesst:
 
 <sup>1</sup> Das schriftliche Examen gilt als bestanden, wenn jede einzelne schriftliche Prüfung bestanden ist.
 
-<sup>2</sup> Wer eine Prüfung nicht bestanden hat, erhält eine kurze Begründung, die im Protokollauszug enthalten ist, in dem der Misserfolg festgestellt wird, und hat Anrecht auf ein Gespräch mit der Verfasserin oder dem Verfasser des Themas der nichtbestandenen Prüfung oder Prüfungen.
+<sup>1a</sup> Das Ergebnis wird am Ende der Bewertungssitzung mündlich oder in Abwesenheit der Kandidatin oder des Kandidaten per E-Mail mitgeteilt.
+
+<sup>2</sup> Wer eine Prüfung nicht bestanden hat, erhält eine kurze Begründung, die im Protokollauszug enthalten ist, in dem der Misserfolg festgestellt wird.
 
 <sup>3</sup> Wer nicht bestanden hat und erneut zum Examen antritt, muss die Prüfungen wiederholen, die als nicht bestanden bewertet worden sind.
 
@@ -375,7 +382,7 @@ beschliesst:
 
 <sup>4</sup> Wer das mündliche Examen nicht bestanden hat, kann innert einer Frist von fünf Tagen nach der mündlichen Mitteilung des Misserfolgs eine kurze schriftliche Begründung des Ergebnisses verlangen. Die Prüfungskommission stellt diese Begründung innerhalb von fünf Tagen zu.
 
-<sup>5</sup> Wer nicht bestanden hat, hat ebenfalls Anrecht auf ein Gespräch mit der Präsidentin oder dem Präsidenten der Prüfungskommission.
+<sup>5</sup> …
 
 #### Art. 19l
 
