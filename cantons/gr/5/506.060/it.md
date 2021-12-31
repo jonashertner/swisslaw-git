@@ -4,13 +4,13 @@ number: "506.060"
 title: "Ordinanza della legge sulla promozione della cura degli ammalati e dell'assistenza alle persone anziane e bisognose di cure"
 short: "Ordinanza della legge sulla cura degli ammalati, OLCA"
 language: it
-version: 2019-01-01
-corrected: 2018-12-20
-version_adopted: 2018-12-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2918/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3204/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2918/pdf_file"
 
 (Ordinanza della legge sulla cura degli ammalati, OLCA)
 
-del 19.12.2017 (stato 01.01.2019)
+del 19.12.2017 (stato 01.01.2022)
 
 emanata dal Governo il 19 dicembre 2017
 
@@ -39,7 +39,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - b) ad allestire un rapporto sulle retribuzioni secondo le direttive previste dall'articolo 663b<sup>bis</sup> CO[^1-1];
 - c) a calcolare e registrare i costi e le prestazioni conformemente all'ordinanza sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell'assicurazione malattie[^1-2] (OCPre) e al manuale REKOLE® di H+ Gli Ospedali Svizzeri.
 
-<sup>2</sup> Il rapporto sulle retribuzioni deve essere pubblicato quale allegato al bilancio e sul sito web degli ospedali.
+<sup>2</sup> Il rapporto sulle retribuzioni deve essere pubblicato quale allegato al bilancio e sul sito web degli ospedali. Nel rapporto sulle retribuzioni destinato alla pubblicazione, in deroga alle direttive di cui all'articolo 663b<sup>bis</sup> capoverso 4 numero 2 CO la retribuzione corrisposta alla direzione deve essere indicata quale importo totale.
 
 <sup>3</sup> L'anno d'esercizio deve corrispondere all'anno civile.
 
@@ -60,7 +60,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>3</sup> Il calcolo dei costi va allestito conformemente al manuale dell'Associazione degli istituti sociali e di cura svizzeri e alle direttive dell'Ufficio.
 
-<sup>4</sup> Il rapporto sulle retribuzioni deve essere allestito secondo le direttive di cui all'articolo 663b<sup>bis</sup> CO[^2-1] e deve essere pubblicato quale allegato al bilancio nonché sul sito web della casa per anziani e di cura.
+<sup>4</sup> Il rapporto sulle retribuzioni deve essere allestito secondo le direttive di cui all'articolo 663b<sup>bis</sup> CO[^2-1] e deve essere pubblicato quale allegato al bilancio nonché sul sito web della casa per anziani e di cura. Nel rapporto sulle retribuzioni destinato alla pubblicazione, in deroga alle direttive di cui all'articolo 663b<sup>bis</sup> capoverso 4 numero 2 CO la retribuzione corrisposta alla direzione deve essere indicata quale importo totale. Se la direzione è composta da un'unica persona, si può rinunciare a pubblicare la retribuzione.
 
 <sup>5</sup> …
 
@@ -107,7 +107,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - g) il conto d'esercizio REKOLE aggregato secondo il modello ITAR-K di H+ Gli Ospedali Svizzeri;
 - h) entro il 31 marzo dell'anno seguente, il calcolo dei costi, il risultato dei rilevamenti della qualità prescritti dal Governo, nonché i dati e i documenti necessari per il calcolo dei sussidi e per la verifica dell'autorizzazione d'esercizio;
 - i) entro il 30 aprile dell'anno seguente, il conto annuale sottoposto a una revisione ordinaria conformemente all'articolo 727 CO[^5-1] insieme alla contabilità degli investimenti, nonché il rapporto completo dell'ufficio di revisione;
-- j) tutti i dati dei servizi di salvataggio registrati nel programma di redazione dei verbali e di gestione della qualità.
+- j) tutti i dati dei servizi di salvataggio registrati nel programma di redazione dei verbali e di gestione della qualità;
+- k) i file dei costi per caso forniti nel quadro della rilevazione dei dati di SwissDRG.
 
 [^5-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
 
@@ -126,10 +127,17 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Servizi di cura e assistenza a domicilio nonché infermieri diplomati ammessi**
 
-<sup>1</sup> I servizi e gli infermieri diplomati ammessi che fanno valere un diritto a sussidi alle prestazioni devono inoltrare o notificare all'Ufficio:
+<sup>1</sup> I servizi con mandato di prestazioni comunale che fanno valere un diritto a sussidi alle prestazioni devono inoltrare o notificare all'Ufficio:
 
-- a) entro il 31 marzo dell'anno seguente i dati d'esercizio conformemente alle direttive dell'Ufficio, il conto annuale con la contabilità degli investimenti, il calcolo dei costi, nonché i dati e i documenti necessari per il calcolo dei sussidi e per la verifica dell'autorizzazione d'esercizio, rispettivamente del riconoscimento del diritto a sussidi;
-- b) entro dieci giorni dalla fine di un trimestre il numero di unità di prestazione fornite nelle categorie di prestazioni aventi diritto a sussidi.
+- a) entro il 31 marzo dell'anno seguente i dati d'esercizio conformemente alle direttive dell'Ufficio, il conto annuale sottoposto a revisione limitata conformemente all'articolo 727a CO[^7-1] con la contabilità degli investimenti, il rapporto dell'ufficio di revisione, il calcolo dei costi, nonché i dati e i documenti necessari per il calcolo dei sussidi e per la verifica dell'autorizzazione d'esercizio, rispettivamente del riconoscimento del diritto a sussidi;
+- b) entro dieci giorni dalla fine di un trimestre il numero di unità di prestazione aventi diritto a sussidi.
+
+<sup>2</sup> I servizi senza mandato di prestazioni comunale e gli infermieri diplomati ammessi che fanno valere un diritto a sussidi alle prestazioni devono inoltrare o notificare all'Ufficio:
+
+- a) entro il 31 marzo dell'anno seguente i dati d'esercizio conformemente alle direttive dell'Ufficio nonché i dati e i documenti necessari per il calcolo dei sussidi e per la verifica dell'autorizzazione d'esercizio, rispettivamente del riconoscimento del diritto a sussidi;
+- b) entro dieci giorni dalla fine di un trimestre il numero di unità di prestazione aventi diritto a sussidi.
+
+[^7-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
 
 ## 3. Pianificazione ospedaliera ed elenco degli ospedali
 
@@ -187,19 +195,88 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 [^12-1]: CSC [506.000](https://www.gr-lex.gr.ch/data/506.000/it)
 [^12-2]: CSC [500.010](https://www.gr-lex.gr.ch/data/500.010/it)
 
-## 5. Regioni di pianificazione per la cura e l'assistenza
+#### Art. 12a
+
+**Presupposti per il sussidio**
+
+<sup>1</sup> I sussidi conformemente all'articolo 9a capoverso 2 della legge[^12a-1] vengono concessi a favore di progetti se questi ultimi:
+
+- a) contribuiscono in modo duraturo a garantire l'assistenza sanitaria decentralizzata;
+- b) contribuiscono a incrementare la qualità dell'assistenza nella regione di assistenza sanitaria o nella sottoregione; oppure
+- c) contribuiscono ad aumentare il grado di autonomia in relazione all'assistenza nella regione di assistenza sanitaria o nella sottoregione.
+
+<sup>2</sup> I progetti non devono impedire od ostacolare l'attuazione di altri progetti conformemente all'articolo 9a capoverso 2 della legge previsti nella regione di assistenza sanitaria o nella sottoregione.
+
+<sup>3</sup> I richiedenti devono impegnarsi a informare regolarmente l'Ufficio in merito allo stato dell'attuazione del progetto.
+
+[^12a-1]: CSC [506.000](https://www.gr-lex.gr.ch/data/506.000/it)
+
+#### Art. 12b
+
+**Documentazione da inoltrare**
+
+<sup>1</sup> I richiedenti devono inoltrare all'Ufficio tutta la documentazione necessaria per la valutazione dei progetti, in particolare:
+
+- a) stima dei costi complessivi del progetto in conformità alle direttive dell'Ufficio;
+- b) garanzie di contributi di terzi;
+- c) dichiarazioni di partecipazione dei fornitori di prestazioni coinvolti nel progetto;
+- d) documentazione relativa all'adempimento dei presupposti per il sussidio.
+
+#### Art. 12c
+
+**Garanzia di sussidio**
+
+<sup>1</sup> L'Ufficio decide in merito al diritto del progetto di ricevere il sussidio e fissa l'importo massimo del sussidio nonché l'ammontare dell'aliquota di sussidio.
+
+<sup>2</sup> La garanzia di sussidio deve essere richiesta prima dell'inizio del progetto.
+
+<sup>3</sup> In caso di progetti già in corso al momento dell'entrata in vigore della revisione parziale del 26 agosto 2020 della legge sulla cura degli ammalati si prescinde dalla garanzia di sussidio prima dell'inizio del progetto conformemente al capoverso 2.
+
+#### Art. 12d
+
+**Costi computabili**
+
+<sup>1</sup> Per la garanzia di sussidio e la determinazione del sussidio sono computabili i costi:
+
+- a) che sono in sintonia con gli obiettivi della politica ospedaliera del Cantone; e
+- b) che sono opportuni e necessari in caso di azione conforme al principio di economicità.
+
+<sup>2</sup> In caso di progetti di cui all'articolo 12c capoverso 3 sono inoltre computabili solo i costi insorti dopo l'entrata in vigore della revisione parziale.
+
+#### Art. 12e
+
+**Ammontare dei sussidi**
+
+<sup>1</sup> L'aliquota di sussidio per sussidi a favore di progetti conformemente all'articolo 9a capoverso 2 della legge[^12e-1] ammonta:
+
+- a) per progetti conformemente alla lettera a: al 50 per cento;
+- b) per progetti conformemente alla lettera b: tra il 25 e il 50 per cento; in modo graduato secondo il numero di fornitori di prestazioni che si aggregano;
+- c) per progetti conformemente alla lettera c: fino al 25 per cento in modo graduato secondo il contributo dato all'ottimizzazione dell'assistenza sanitaria nella regione di assistenza sanitaria o nella sottoregione;
+- d) per progetti conformemente alla lettera d: fino al 50 per cento in modo graduato secondo il contributo dato all'ottimizzazione dell'assistenza sanitaria nella regione di assistenza sanitaria o nella sottoregione.
+
+[^12e-1]: CSC [506.000](https://www.gr-lex.gr.ch/data/506.000/it)
+
+#### Art. 12f
+
+**Consuntivo del progetto**
+
+<sup>1</sup> Il consuntivo del progetto deve essere allestito secondo le direttive dell'Ufficio.
+
+#### Art. 12g
+
+**Determinazione dei sussidi**
+
+<sup>1</sup> L'Ufficio determina il sussidio dopo aver esaminato il consuntivo del progetto.
+
+## 5.
 
 #### Art. 13
 
-**Regioni di casa per anziani e di cura**
-
-<sup>1</sup> La suddivisione del territorio cantonale in regioni di pianificazione per la cura e l'assistenza stazionarie e l'attribuzione dei comuni alle regioni di pianificazione sono stabilite nell'allegato 4.
+**…**
 
 #### Art. 14
 
-**Regioni Spitex**
-
-<sup>1</sup> La suddivisione del territorio cantonale in regioni di pianificazione per la cura e l'assistenza ambulatoriali e l'attribuzione dei comuni alle regioni di pianificazione sono stabilite nell'allegato 5.
+**…**
 
 ## 6. Sussidi alle offerte per la cura e l'assistenza stazionarie a pazienti lungodegenti e persone anziane
 
@@ -211,7 +288,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> Sulla base del progetto rielaborato secondo le istruzioni del Dipartimento, il Governo decide in merito al diritto a sussidi e all'ammontare del sussidio cantonale.
 
-<sup>3</sup> Sussidi agli investimenti vengono accordati soltanto se la necessità è comprovata e se vi è una presa di posizione positiva della regione di pianificazione.
+<sup>3</sup> Sussidi agli investimenti vengono accordati soltanto se la necessità è comprovata e se vi è una presa di posizione positiva della regione di assistenza sanitaria.
 
 #### Art. 16
 
@@ -278,7 +355,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Sussidi d'esercizio dei comuni**
 
-<sup>1</sup> I comuni della regione di pianificazione interessata devono accordarsi tra loro per quanto riguarda il finanziamento della quota comunale alle spese di cura di persone che entrano in una casa per anziani o di cura o in un'unità di cura provenienti direttamente dall'estero.
+<sup>1</sup> I comuni della regione di assistenza sanitaria interessata devono accordarsi tra loro per quanto riguarda il finanziamento della quota comunale alle spese di cura di persone che entrano in una casa per anziani o di cura o in un'unità di cura provenienti direttamente dall'estero.
 
 ## 7. Sussidi ai servizi di cura e assistenza a domicilio e agli infermieri diplomati ammessi
 
@@ -307,7 +384,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **3. Infermieri diplomati ammessi**
 
-<sup>1</sup> I costi riconosciuti degli infermieri diplomati ammessi all'attività a carico dell'assicurazione obbligatoria delle cure medico-sanitarie ammontano al 90 per cento dei costi riconosciuti dei servizi con mandato di prestazioni comunale.
+<sup>1</sup> I costi riconosciuti degli infermieri diplomati ammessi all'attività a carico dell'assicurazione obbligatoria delle cure medico-sanitarie ammontano al 90 per cento dei costi riconosciuti per prestazioni di cura nonché per prestazioni di cure acute e transitorie dei servizi con mandato di prestazioni comunale.
 
 #### Art. 23
 
@@ -352,7 +429,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - b) per le prestazioni di economia domestica e di assistenza a 20 ore la settimana;
 - c) per il servizio pasti a un pasto al giorno.
 
-<sup>2</sup> Il capointervento può estendere l'entità delle prestazioni aventi diritto a sussidi secondo il capoverso 1 lettera b per un periodo massimo di 60 giorni:
+<sup>2</sup> Il responsabile del settore cura e assistenza può estendere l'entità delle prestazioni aventi diritto a sussidi secondo il capoverso 1 lettera b per un periodo massimo di 60 giorni:
 
 - a) ad al massimo 48 ore la settimana per sgravare i familiari curanti;
 - b) ad al massimo 168 ore la settimana per persone la cui entrata in un'istituzione stazionaria non è possibile, nonché in caso di malati gravi e di persone in fin di vita;
@@ -363,7 +440,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Verifica del bisogno**
 
-<sup>1</sup> La verifica del bisogno deve essere effettuata a casa degli utenti al più tardi cinque giorni dopo il primo intervento.
+<sup>1</sup> La verifica del bisogno deve essere effettuata a casa degli utenti al più tardi 14 giorni dopo il primo intervento.
 
 <sup>2</sup> In caso di cambiamenti rilevanti, le prestazioni da fornire vanno adeguate al bisogno. La verifica del bisogno va riesaminata sul posto almeno una volta all'anno.
 
@@ -371,7 +448,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Sussidi d'esercizio del Cantone 1. Versamento**
 
-<sup>1</sup> Sulla base delle unità di prestazione notificate per ogni categoria di prestazioni avente diritto a sussidi, l'Ufficio versa sussidi alle prestazioni provvisori entro la fine del mese seguente la chiusura del trimestre.
+<sup>1</sup> Sulla base delle unità di prestazione notificate, l'Ufficio versa sussidi alle prestazioni provvisori entro la fine del mese seguente la chiusura del trimestre.
 
 <sup>2</sup> La determinazione definitiva dei sussidi alle prestazioni da parte dell'Ufficio avviene dopo l'esame dei dati determinanti.
 
@@ -385,7 +462,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>3</sup> Si può rinunciare a una riduzione conformemente all'articolo 44 capoverso 1 lettera g della legge, se per prestazioni formative non fornite vengono versati contributi di compensazione al fondo di formazione dell'Associazione Spitex Grigioni.
 
-<sup>4</sup> Il regolamento del fondo di formazione e l'ammontare dei contributi di formazione da versare vanno sottoposti al Governo per approvazione.
+<sup>4</sup> Il regolamento del fondo di formazione e l'ammontare dei contributi di compensazione da versare vanno sottoposti all'Ufficio per approvazione.
 
 <sup>5</sup> La ripartizione tra i rimanenti fornitori di prestazioni degli importi in misura dei quali vengono ridotti i sussidi in applicazione dell'articolo 44 capoverso 1 lettere g e h della legge avviene in rapporto alle prestazioni formative a beneficio delle professioni sanitarie da essi prestate in misura superiore alle direttive del Governo.
 
@@ -429,8 +506,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> L'assistenza di base conformemente all'articolo 48 capoverso 2 lettera c della legge[^31-1] comprende almeno le seguenti prestazioni:
 
-- a) nei giorni feriali la persona incaricata dell'assistenza deve essere presente nella struttura per almeno un'ora;
-- b) nei giorni feriali la persona incaricata dell'assistenza deve essere reperibile telefonicamente per almeno cinque ore.
+- a) la persona incaricata dell'assistenza deve essere presente nella struttura per almeno un'ora in almeno tre giorni feriali;
+- b) nei giorni feriali la persona incaricata dell'assistenza deve essere reperibile telefonicamente per almeno cinque ore;
+- c) la persona incaricata dell'assistenza coordina e organizza all'occorrenza i servizi ausiliari nonché un servizio di chiamata d'emergenza attivo 24 ore su 24.
 
 [^31-1]: CSC [506.000](https://www.gr-lex.gr.ch/data/506.000/it)
 
@@ -491,9 +569,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 38
 
-**Soccorso aereo**
-
-<sup>1</sup> Gli interventi di soccorso aereo vengono coordinati e disposti dalla centrale operativa 1414.
+**…**
 
 #### Art. 39
 

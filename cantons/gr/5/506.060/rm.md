@@ -4,13 +4,13 @@ number: "506.060"
 title: "Ordinaziun tar la lescha per promover la tgira da persunas malsaunas e l'assistenza da persunas attempadas e da persunas che basegnan tgira"
 short: "ordinaziun tar la lescha per promover la tgira da persunas malsaunas, OLTM"
 language: rm
-version: 2019-01-01
-corrected: 2018-12-20
-version_adopted: 2018-12-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2918/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3204/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2918/pdf_file"
 
 (ordinaziun tar la lescha per promover la tgira da persunas malsaunas, OLTM)
 
-dals 19-12-2017 (versiun dals 01-01-2019)
+dals 19-12-2017 (versiun dals 01-01-2022)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -39,7 +39,7 @@ relaschada da la regenza ils 19 da december 2017
 - b) da far in rapport d'indemnisaziun analogamain a las directivas da l'artitgel 663b<sup>bis</sup> DO[^1-1];
 - c) d'eruir e da registrar ils custs e las prestaziuns tenor l'ordinaziun davart la calculaziun dals custs e la registraziun da las prestaziuns tras ils ospitals, tras las chasas da parturir e tras las chasas da tgira en l'assicuranza da malsauns[^1-2] (OCPre) e tenor il manual REKOLE® da H+ Ils ospitals da la Svizra.
 
-<sup>2</sup> Il rapport d'indemnisaziun sto vegnir publitgà sco agiunta tar la bilantscha e sin la pagina d'internet dals ospitals.
+<sup>2</sup> Il rapport d'indemnisaziun sto vegnir publitgà sco agiunta tar la bilantscha e sin la pagina d'internet dals ospitals. En il rapport d'indemnisaziun ch'è destinà per la publicaziun sto l'indemnisaziun a la direcziun vegnir cumprovada sco import total, e quai en divergenza da las directivas da l'artitgel 663b<sup>bis</sup> alinea 4 cifra 2 DO.
 
 <sup>3</sup> L'onn da gestiun sto correspunder a l'onn chalendar.
 
@@ -60,7 +60,7 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>3</sup> La calculaziun dals custs sto vegnir fatga tenor il manual da l'associaziun dals instituts socials e da tgira svizzers e tenor las directivas da l'uffizi.
 
-<sup>4</sup> Il rapport d'indemnisaziun sto vegnir fatg analogamain a las directivas da l'artitgel 663b<sup>bis</sup> DO[^2-1] e publitgà sco agiunta tar la bilantscha sco er sin la pagina d'internet da la chasa da persunas attempadas e da tgira.
+<sup>4</sup> Il rapport d'indemnisaziun sto vegnir fatg analogamain a las directivas da l'artitgel 663b<sup>bis</sup> DO[^2-1] e publitgà sco agiunta tar la bilantscha sco er sin la pagina d'internet da la chasa da persunas attempadas e da tgira. En il rapport d'indemnisaziun ch'è destinà per la publicaziun sto l'indemnisaziun a la direcziun vegnir cumprovada sco import total, e quai en divergenza da las directivas da l'artitgel 663b<sup>bis</sup> alinea 4 cifra 2 DO. Sche la direcziun cumpiglia mo ina persuna, poi vegnir desistì da publitgar l'indemnisaziun.
 
 <sup>5</sup> …
 
@@ -107,7 +107,8 @@ relaschada da la regenza ils 19 da december 2017
 - g) il quint da gestiun REKOLE agregà tenor il model ITAR-K da H+ Ils ospitals da la Svizra;
 - h) fin il pli tard ils 31 da mars da l'onn suandant la calculaziun dals custs, il resultat da las mesiraziuns da la qualitad prescrittas da la regenza, sco er las datas ed ils documents ch'èn necessaris per calcular las contribuziuns e per controllar la permissiun da manaschi;
 - i) fin il pli tard ils 30 d'avrigl da l'onn suandant il quint annual cun la contabilitad da la facultad investida, ch'è vegnì suttamess ad ina revisiun ordinaria tenor l'artitgel 727 DO[^5-1], sco er il rapport cumplessiv dal post da revisiun;
-- j) tut las datas dals servetschs da salvament ch'èn registradas en il program per rediger protocols e per il management da qualitad.
+- j) tut las datas dals servetschs da salvament ch'èn registradas en il program per rediger protocols e per il management da qualitad;
+- k) la datoteca dals custs pro cas furnida en il rom da la retschertga da datas da swissDRG.
 
 [^5-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
 
@@ -126,10 +127,17 @@ relaschada da la regenza ils 19 da december 2017
 
 **Servetschs da la tgira ed assistenza a chasa sco er tgirunzas diplomadas admessas e tgirunzs diplomads admess**
 
-<sup>1</sup> Servetschs sco er tgirunzas diplomadas admessas e tgirunzs diplomads admess che fan valair in dretg sin contribuziuns da prestaziun ston a l'uffizi:
+<sup>1</sup> Servetschs cun ina incarica da prestaziun communala, che fan valair in dretg sin contribuziuns da prestaziun ston a l'uffizi:
 
-- a) inoltrar las datas da gestiun tenor las directivas da l'uffizi, il quint annual cun la contabilitad da la facultad investida, la calculaziun dals custs, sco er las datas ed ils documents ch'èn necessaris per calcular las contribuziuns e per controllar la permissiun da manaschi respectivamain per renconuscher il dretg da survegnir contribuziuns, e quai fin ils 31 da mars da l'onn suandant;
-- b) annunziar – mintgamai entaifer 10 dis suenter la fin d'in quartal – il dumber da las unitads da prestaziun ch'els han furnì en las categorias da prestaziun che han il dretg da survegnir contribuziuns.
+- a) inoltrar las datas da gestiun tenor las directivas da l'uffizi, il quint annual cun la contabilitad da la facultad investida, ch'è vegnì suttamess ad ina revisiun limitada tenor l'artitgel 727a DO[^7-1], cun il rapport dal post da revisiun, la calculaziun dals custs, sco er las datas ed ils documents ch'èn necessaris per calcular las contribuziuns e per controllar la permissiun da manaschi respectivamain per renconuscher il dretg da survegnir contribuziuns, e quai fin ils 31 da mars da l'onn suandant;
+- b) annunziar – mintgamai entaifer 10 dis suenter la fin d'in quartal – il dumber da las unitads da prestaziun che han il dretg da survegnir contribuziuns.
+
+<sup>2</sup> Servetschs senza ina incarica da prestaziun communala sco er tgirunzas diplomadas admessas e tgirunzs diplomads admess che fan valair in dretg sin contribuziuns da prestaziun ston a l'uffizi:
+
+- a) inoltrar las datas da gestiun tenor las directivas da l'uffizi sco er las datas ed ils documents ch'èn necessaris per calcular las contribuziuns e per controllar la permissiun da manaschi respectivamain per renconuscher il dretg da survegnir contribuziuns, e quai fin ils 31 da mars da l'onn suandant;
+- b) annunziar – mintgamai entaifer 10 dis suenter la fin d'in quartal – il dumber da las unitads da prestaziun che han il dretg da survegnir contribuziuns.
+
+[^7-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
 
 ## 3. Planisaziun dals ospitals e glista dals ospitals
 
@@ -187,19 +195,88 @@ relaschada da la regenza ils 19 da december 2017
 [^12-1]: DG [506.000](https://www.gr-lex.gr.ch/data/506.000/rm)
 [^12-2]: DG [500.010](https://www.gr-lex.gr.ch/data/500.010/rm)
 
-## 5. Regiuns da planisaziun per la tgira ed assistenza
+#### Art. 12a
+
+**Premissas per survegnir contribuziuns**
+
+<sup>1</sup> Contribuziuns tenor l'artitgel 9a alinea 2 da la lescha[^12a-1] vegnan concedidas a projects, sche quels:
+
+- a) contribueschan duraivlamain a garantir il provediment decentral da la sanadad;
+- b) gidan ad augmentar la qualitad dal provediment en la regiun respectivamain en la subregiun da provediment da la sanadad; u
+- c) gidan ad augmentar il grad d'autoprovediment en la regiun respectivamain en la subregiun da provediment da la sanadad.
+
+<sup>2</sup> Ils projects na dastgan betg impedir u engrevgiar la realisaziun d'ulteriurs projects tenor l'artitgel 9a alinea 2 da la lescha en la regiun respectivamain en la subregiun da provediment da la sanadad.
+
+<sup>3</sup> Las petentas ed ils petents ston s'obligar d'infurmar regularmain l'uffizi davart il stadi da la realisaziun dal project.
+
+[^12a-1]: DG [506.000](https://www.gr-lex.gr.ch/data/506.000/rm)
+
+#### Art. 12b
+
+**Documents che ston vegnir inoltrads**
+
+<sup>1</sup> Las petentas ed ils petents ston inoltrar a l'uffizi tut ils documents ch'èn necessaris per giuditgar il project, en spezial:
+
+- a) la stimaziun dals custs totals dal project tenor las prescripziuns da l'uffizi;
+- b) garanzias da contribuziuns da terzas varts;
+- c) decleraziuns da participaziun da las furnituras e dals furniturs da prestaziuns involvids en il project;
+- d) documentaziun da l'adempliment da las premissas per survegnir contribuziuns.
+
+#### Art. 12c
+
+**Garanzia da contribuziuns**
+
+<sup>1</sup> L'uffizi decida, sch'il project ha il dretg da survegnir ina contribuziun, e fixescha l'autezza maximala da la contribuziun sco er l'autezza da la tariffa da contribuziun.
+
+<sup>2</sup> La garanzia da contribuziuns sto vegnir dumandada avant che cumenzar cun il project.
+
+<sup>3</sup> En cas da projects che curran gia il mument che la revisiun parziala dals 26 d'avust 2020 da la Lescha per promover la tgira da persunas malsaunas entra en vigur, vegni desistì da la pretensiun tenor l'alinea 2 che la garanzia da contribuziuns stoppia vegnir dumandada avant che cumenzar cun il project.
+
+#### Art. 12d
+
+**Custs imputabels**
+
+<sup>1</sup> Per la garanzia da contribuziuns e per la fixaziun da las contribuziuns èn imputabels ils custs:
+
+- a) che s'accordan cun las finamiras da la politica d'ospitals dal chantun; e
+- b) ch'èn adattads e necessaris, sche la moda d'agir è economica.
+
+<sup>2</sup> En cas da projects tenor l'artitgel 12c alinea 3 èn ultra da quai imputabels mo quels custs che resultan suenter che la revisiun parziala è entrada en vigur.
+
+#### Art. 12e
+
+**Autezza da las contribuziuns**
+
+<sup>1</sup> La tariffa da contribuziun per contribuziuns a projects tenor l'artitgel 9a alinea 2 da la lescha[^12e-1] importa:
+
+- a) per projects tenor la litera a: 50 pertschient;
+- b) per projects tenor la litera b: 25 fin 50 pertschient, graduà tenor il dumber da furnituras e furniturs da prestaziuns che s'associeschan;
+- c) per projects tenor la litera c: fin 25 pertschient, graduà tenor la contribuziun per optimar il provediment da la sanadad en la regiun respectivamain en la subregiun da provediment da la sanadad;
+- d) per projects tenor la litera d: fin 50 pertschient, graduà tenor la contribuziun per optimar il provediment da la sanadad en la regiun respectivamain en la subregiun da provediment da la sanadad.
+
+[^12e-1]: DG [506.000](https://www.gr-lex.gr.ch/data/506.000/rm)
+
+#### Art. 12f
+
+**Rendaquint dal project**
+
+<sup>1</sup> Il rendaquint dal project sto vegnir fatg tenor las directivas da l'uffizi.
+
+#### Art. 12g
+
+**Fixaziun da la contribuziun**
+
+<sup>1</sup> L'uffizi fixescha la contribuziun suenter avair examinà il rendaquint dal project.
+
+## 5.
 
 #### Art. 13
 
-**Regiuns da chasas da persunas attempadas e da tgira**
-
-<sup>1</sup> La divisiun dal territori chantunal en regiuns da planisaziun per la tgira ed assistenza staziunara e l'attribuziun da las vischnancas a las regiuns da planisaziun vegnan fixadas en l'agiunta 4.
+**…**
 
 #### Art. 14
 
-**Regiuns da spitex**
-
-<sup>1</sup> La divisiun dal territori chantunal en regiuns da planisaziun per la tgira ed assistenza ambulanta e l'attribuziun da las vischnancas a las regiuns da planisaziun vegnan fixadas en l'agiunta 5.
+**…**
 
 ## 6. Contribuziuns a las purschidas per la tgira ed assistenza staziunara da pazientas stablas e da pazients stabels sco er da persunas attempadas
 
@@ -211,7 +288,7 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>2</sup> Sin basa dal project ch'è vegnì elavurà tenor las directivas dal departament decida la regenza, sch'ina contribuziun chantunala è giustifitgada e quant gronda ch'ella duai esser.
 
-<sup>3</sup> Contribuziuns d'investiziun vegnan concedidas mo, sch'il basegn è cumprovà e sch'igl è avant maun ina posiziun positiva da la regiun da planisaziun.
+<sup>3</sup> Contribuziuns d'investiziun vegnan concedidas mo, sch'il basegn è cumprovà e sch'igl è avant maun ina posiziun positiva da la regiun da provediment da la sanadad.
 
 #### Art. 16
 
@@ -278,7 +355,7 @@ relaschada da la regenza ils 19 da december 2017
 
 **Contribuziuns da gestiun da las vischnancas**
 
-<sup>1</sup> En quai che concerna la finanziaziun da la part che la vischnanca sto pajar dals custs da tgira da persunas che entran directamain da l'exteriur en ina chasa da persunas attempadas e da tgira u en in gruppa da tgira ston las vischnancas da la regiun da planisaziun respectiva s'accordar ina cun l'autra.
+<sup>1</sup> En quai che concerna la finanziaziun da la part che la vischnanca sto pajar dals custs da tgira da persunas che entran directamain da l'exteriur en ina chasa da persunas attempadas e da tgira u en in gruppa da tgira ston las vischnancas da la regiun da provediment da la sanadad respectiva s'accordar ina cun l'autra.
 
 ## 7. Contribuziuns als servetschs da la tgira ed assistenza a chasa ed a las tgirunzas diplomadas admessas ed als tgirunzs diplomads admess
 
@@ -307,7 +384,7 @@ relaschada da la regenza ils 19 da december 2017
 
 **3. tgirunzas diplomadas admessas e tgirunzs diplomads admess**
 
-<sup>1</sup> Ils custs renconuschids da las tgirunzas diplomadas e dals tgirunzs diplomads ch'èn admess ad activitads a quint da l'assicuranza obligatorica per la tgira da persunas malsaunas importan 90 pertschient dals custs renconuschids dals servetschs cun ina incarica da prestaziun communala.
+<sup>1</sup> Ils custs renconuschids da las tgirunzas diplomadas e dals tgirunzs diplomads ch'èn admess ad activitads a quint da l'assicuranza obligatorica per la tgira da persunas malsaunas importan 90 pertschient dals custs renconuschids per las prestaziuns da tgira sco er per las prestaziuns da la tgira acuta e transitorica dals servetschs cun ina incarica da prestaziun communala.
 
 #### Art. 23
 
@@ -352,7 +429,7 @@ relaschada da la regenza ils 19 da december 2017
 - b) tar las prestaziuns da tegnairchasa e d'assistenza: 20 uras per emna;
 - c) tar il servetsch da pasts: in past per di.
 
-<sup>2</sup> La dimensiun da las prestaziuns che han il dretg da survegnir contribuziuns tenor l'alinea 1 litera b po vegnir extendida dal manader da l'acziun durant maximalmain 60 dis:
+<sup>2</sup> La dimensiun da las prestaziuns che han il dretg da survegnir contribuziuns tenor l'alinea 1 litera b po vegnir extendida da la manadra u dal manader dal sectur da la tgira e da l'assistenza durant maximalmain 60 dis:
 
 - a) sin maximalmain 48 uras per emna per distgargiar persunas che tgiran lur confamigliars;
 - b) sin maximalmain 168 uras per emna tar persunas, per las qualas i n'è betg pussaivel d'entrar en ina instituziun staziunara, sco er en cas da persunas grevamain malsaunas u en cas da persunas muribundas;
@@ -363,7 +440,7 @@ relaschada da la regenza ils 19 da december 2017
 
 **Scleriment dal basegn**
 
-<sup>1</sup> Il basegn sto vegnir sclerì il pli tard 5 dis suenter l'emprima acziun tar las clientas respectivamain tar ils clients a chasa.
+<sup>1</sup> Il basegn sto vegnir sclerì il pli tard 14 dis suenter l'emprima acziun tar las clientas respectivamain tar ils clients a chasa.
 
 <sup>2</sup> En cas da midadas relevantas ston las prestaziuns, che ston vegnir furnidas, vegnir adattadas al basegn. Il scleriment dal basegn sto vegnir controllà al lieu almain ina giada per onn.
 
@@ -371,7 +448,7 @@ relaschada da la regenza ils 19 da december 2017
 
 **Contribuziuns da gestiun dal chantun 1. pajament**
 
-<sup>1</sup> Sin basa da las unitads da prestaziun ch'èn vegnidas annunziadas per categoria da prestaziun e che han il dretg da survegnir contribuziuns, paja l'uffizi contribuziuns da prestaziun provisoricas mintgamai fin la fin dal mais che suonda il quartal.
+<sup>1</sup> Sin basa da las unitads da prestaziun ch'èn vegnidas annunziadas, paja l'uffizi contribuziuns da prestaziun provisoricas mintgamai fin la fin dal mais che suonda il quartal.
 
 <sup>2</sup> L'uffizi determinescha definitivamain las contribuziuns da prestaziun suenter avair controllà las datas decisivas.
 
@@ -385,7 +462,7 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>3</sup> Ad ina reducziun tenor l'artitgel 44 alinea 1 litera g da la lescha poi vegnir renunzià, sch'i vegnan pajadas contribuziuns d'indemnisaziun en il fond da scolaziun da la federaziun grischuna da spitex per prestaziuns da scolaziun che n'èn betg vegnidas furnidas.
 
-<sup>4</sup> Il reglament dal fond da scolaziun e l'import da las contribuziuns d'indemnisaziun che ston vegnir pajadas ston vegnir approvads da la regenza.
+<sup>4</sup> Il reglament dal fond da scolaziun e l'import da las contribuziuns d'indemnisaziun che ston vegnir pajadas ston vegnir approvads da l'uffizi.
 
 <sup>5</sup> La repartiziun dals imports, per ils quals las contribuziuns vegnan reducidas applitgond l'artitgel 44 alinea 1 literas g e h da la lescha, sin ils auters furniturs da prestaziuns vegn fatga en proporziun cun las prestaziuns da scolaziun per professiuns da sanadad che vegnan furnidas da quels furniturs e che van sur las prescripziuns da la regenza ora.
 
@@ -429,8 +506,9 @@ relaschada da la regenza ils 19 da december 2017
 
 <sup>2</sup> La tgira da basa tenor l'artitgel 48 alinea 2 litera c da la lescha[^31-1] cumpiglia almain las suandantas prestaziuns:
 
-- a) la persuna d'assistenza sto esser preschenta ils lavurdis durant almain 1 ura en l'instituziun;
-- b) la persuna d'assistenza sto esser cuntanschibla per telefon ils lavurdis durant almain 5 uras.
+- a) la persuna d'assistenza sto esser preschenta ad almain 3 lavurdis durant almain 1 ura en l'instituziun;
+- b) la persuna d'assistenza sto esser cuntanschibla per telefon ils lavurdis durant almain 5 uras;
+- c) la persuna d'assistenza coordinescha ed organisescha en cas da basegn ils servetschs d'agid sco er in clom d'urgenza da 24 uras.
 
 [^31-1]: DG [506.000](https://www.gr-lex.gr.ch/data/506.000/rm)
 
@@ -491,9 +569,7 @@ relaschada da la regenza ils 19 da december 2017
 
 #### Art. 38
 
-**Salvament aviatic**
-
-<sup>1</sup> Las acziuns dal salvament aviatic vegnan coordinadas e disponidas da la centrala d'acziuns 1414.
+**…**
 
 #### Art. 39
 

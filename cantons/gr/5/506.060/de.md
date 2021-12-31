@@ -4,13 +4,13 @@ number: "506.060"
 title: Verordnung zum Gesetz über die Förderung der Krankenpflege und der Betreuung von betagten und pflegebedürftigen Personen
 short: "Verordnung zum Krankenpflegegesetz, VOzKPG"
 language: de
-version: 2019-01-01
-corrected: 2018-12-20
-version_adopted: 2018-12-18
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2918/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3204/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2918/pdf_file"
 
 (Verordnung zum Krankenpflegegesetz, VOzKPG)
 
-Vom 19.12.2017 (Stand 01.01.2019)
+Vom 19.12.2017 (Stand 01.01.2022)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -39,7 +39,7 @@ von der Regierung erlassen am 19. Dezember 2017
 - b) einen Vergütungsbericht analog den Vorgaben von Artikel 663b<sup>bis</sup> OR[^1-1] zu erstellen;
 - c) die Kosten und Leistungen gemäss der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung[^1-2] (VKL) und dem Handbuch REKOLE® von H+ Die Spitäler der Schweiz zu ermitteln und zu erfassen.
 
-<sup>2</sup> Der Vergütungsbericht ist als Anhang zur Bilanz und auf der Webseite der Spitäler zu veröffentlichen.
+<sup>2</sup> Der Vergütungsbericht ist als Anhang zur Bilanz und auf der Webseite der Spitäler zu veröffentlichen. In dem für die Veröffentlichung bestimmten Vergütungsbericht ist die Vergütung an die Geschäftsleitung in Abweichung von den Vorgaben von Artikel 663b<sup>bis</sup> Absatz 4 Ziffer 2 OR als Gesamtbetrag auszuweisen.
 
 <sup>3</sup> Das Geschäftsjahr hat dem Kalenderjahr zu entsprechen.
 
@@ -60,7 +60,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>3</sup> Die Kostenrechnung ist gemäss dem Handbuch des Verbands Heime und Institutionen Schweiz und den Vorgaben des Amts zu erstellen.
 
-<sup>4</sup> Der Vergütungsbericht ist analog den Vorgaben von Artikel 663b<sup>bis</sup> OR[^2-1] zu erstellen und als Anhang zur Bilanz sowie auf der Webseite des Alters- und Pflegeheimes zu veröffentlichen.
+<sup>4</sup> Der Vergütungsbericht ist analog den Vorgaben von Artikel 663b<sup>bis</sup> OR[^2-1] zu erstellen und als Anhang zur Bilanz sowie auf der Webseite des Alters- und Pflegeheims zu veröffentlichen. In dem für die Veröffentlichung bestimmten Vergütungsbericht ist die Vergütung an die Geschäftsleitung in Abweichung von den Vorgaben von Artikel 663b<sup>bis</sup> Absatz 4 Ziffer 2 OR als Gesamtbetrag auszuweisen. Besteht die Geschäftsleitung aus einer Person, kann auf die Veröffentlichung der Vergütung verzichtet werden.
 
 <sup>5</sup> …
 
@@ -107,7 +107,8 @@ von der Regierung erlassen am 19. Dezember 2017
 - g) die Betriebsrechnung REKOLE aggregiert nach dem ITAR-K Modell von H+ Die Spitäler der Schweiz;
 - h) bis spätestens am 31. März des Folgejahres die Kostenrechnung, das Ergebnis der von der Regierung vorgegebenen Qualitätsmessungen sowie die zur Beitragsbemessung und zur Überprüfung der Betriebsbewilligung notwendigen Daten und Unterlagen;
 - i) bis spätestens am 30. April des Folgejahres die einer ordentlichen Revision gemäss Artikel 727 OR[^5-1] unterzogene Jahresrechnung mit der Anlagebuchhaltung sowie den umfassenden Bericht der Revisionsstelle;
-- j) alle im Protokollerfassungs- und Qualitätsmanagementprogramm erfassten Daten der Rettungsdienste.
+- j) alle im Protokollerfassungs- und Qualitätsmanagementprogramm erfassten Daten der Rettungsdienste;
+- k) die im Rahmen der swissDRG-Datenerhebung gelieferte Fallkostendatei.
 
 [^5-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
@@ -126,10 +127,17 @@ von der Regierung erlassen am 19. Dezember 2017
 
 **Dienste der häuslichen Pflege und Betreuung sowie zugelassene Pflegefachpersonen**
 
-<sup>1</sup> Dienste und zugelassene Pflegefachpersonen, die Anspruch auf Leistungsbeiträge erheben, haben dem Amt:
+<sup>1</sup> Dienste mit kommunalem Leistungsauftrag, die Anspruch auf Leistungsbeiträge erheben, haben dem Amt:
 
-- a) bis am 31. März des Folgejahres die Betriebsdaten gemäss den Vorgaben des Amts, die Jahresrechnung mit der Anlagebuchhaltung, die Kostenrechnung sowie die zur Beitragsbemessung und zur Überprüfung der Betriebsbewilligung beziehungsweise der Anerkennung der Beitragsberechtigung notwendigen Daten und Unterlagen einzureichen;
-- b) jeweils innert zehn Tagen nach Ende eines Quartals die Anzahl der in den beitragsberechtigten Leistungskategorien erbrachten Leistungseinheiten zu melden.
+- a) bis am 31. März des Folgejahres die Betriebsdaten gemäss den Vorgaben des Amts, die einer eingeschränkten Revision gemäss Artikel 727a OR[^7-1] unterzogene Jahresrechnung mit der Anlagebuchhaltung, dem Bericht der Revisionsstelle, die Kostenrechnung sowie die zur Beitragsbemessung und zur Überprüfung der Betriebsbewilligung beziehungsweise der Anerkennung der Beitragsberechtigung notwendigen Daten und Unterlagen einzureichen;
+- b) jeweils innert zehn Tagen nach Ende eines Quartals die Anzahl der beitragsberechtigten Leistungseinheiten zu melden.
+
+<sup>2</sup> Dienste ohne kommunalem Leistungsauftrag und zugelassene Pflegefachpersonen, die Anspruch auf Leistungsbeiträge erheben, haben dem Amt:
+
+- a) bis am 31. März des Folgejahres die Betriebsdaten gemäss den Vorgaben des Amts sowie die zur Beitragsbemessung und zur Überprüfung der Betriebsbewilligung beziehungsweise der Anerkennung der Beitragsberechtigung notwendigen Daten und Unterlagen einzureichen;
+- b) jeweils innert zehn Tagen nach Ende eines Quartals die Anzahl der beitragsberechtigten Leistungseinheiten zu melden.
+
+[^7-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 ## 3. Spitalplanung und Spitalliste
 
@@ -187,19 +195,88 @@ von der Regierung erlassen am 19. Dezember 2017
 [^12-1]: BR [506.000](https://www.gr-lex.gr.ch/data/506.000/de)
 [^12-2]: BR [500.010](https://www.gr-lex.gr.ch/data/500.010/de)
 
-## 5. Planungsregionen für die Pflege und Betreuung
+#### Art. 12a
+
+**Beitragsvoraussetzungen**
+
+<sup>1</sup> Beiträge gemäss Artikel 9a Absatz 2 des Gesetzes[^12a-1] werden an Projekte gewährt, wenn diese:
+
+- a) nachhaltig zur Sicherstellung der dezentralen Gesundheitsversorgung beitragen;
+- b) zur Steigerung der Versorgungsqualität in der Gesundheitsversorgungsregion beziehungsweise Subregion beitragen; oder
+- c) zur Erhöhung des Eigenversorgungsgrads in der Gesundheitsversorgungsregion beziehungsweise Subregion beitragen.
+
+<sup>2</sup> Die Projekte dürfen die Umsetzung weiterer Projekte gemäss Artikel 9a Absatz 2 des Gesetzes in der Gesundheitsversorgungsregion beziehungsweise Subregion nicht verhindern oder erschweren.
+
+<sup>3</sup> Die Gesuchsteller haben sich zu verpflichten, das Amt regelmässig über den Stand der Umsetzung des Projekts zu informieren.
+
+[^12a-1]: BR [506.000](https://www.gr-lex.gr.ch/data/506.000/de)
+
+#### Art. 12b
+
+**Einzureichende Unterlagen**
+
+<sup>1</sup> Die Gesuchsteller haben dem Amt sämtliche für die Beurteilung der Projekte notwendigen Unterlagen einzureichen, insbesondere:
+
+- a) Gesamtkostenschätzung des Projekts gemäss den Vorgaben des Amts;
+- b) Beitragszusicherungen Dritter;
+- c) Mitwirkungserklärungen der in das Projekt involvierten Leistungserbringer;
+- d) Dokumentation der Erfüllung der Beitragsvoraussetzungen.
+
+#### Art. 12c
+
+**Beitragszusicherung**
+
+<sup>1</sup> Das Amt entscheidet über die Beitragsberechtigung des Projekts und legt die maximale Höhe des Beitrags sowie die Höhe des Beitragssatzes fest.
+
+<sup>2</sup> Die Beitragszusicherung ist vor dem Projektbeginn einzuholen.
+
+<sup>3</sup> Bei Projekten, die im Zeitpunkt des Inkrafttretens der Teilrevision vom 26. August 2020 des Krankenpflegegesetzes bereits im Gange sind, wird von der Beitragszusicherung vor Projektbeginn gemäss Absatz 2 abgesehen.
+
+#### Art. 12d
+
+**Anrechenbare Kosten**
+
+<sup>1</sup> Für die Beitragszusicherung und die Beitragsfestsetzung sind Kosten anrechenbar:
+
+- a) die im Einklang mit der Zielsetzung der Spitalpolitik des Kantons stehen; und
+- b) die zweckmässig und bei wirtschaftlicher Handlungsweise notwendig sind.
+
+<sup>2</sup> Bei Projekten gemäss Artikel 12c Absatz 3 sind zudem nur die nach dem Inkrafttreten der Teilrevision anfallenden Kosten anrechenbar.
+
+#### Art. 12e
+
+**Höhe der Beiträge**
+
+<sup>1</sup> Der Beitragssatz für Beiträge an Projekte gemäss Artikel 9a Absatz 2 des Gesetzes[^12e-1] beträgt:
+
+- a) für Projekte gemäss Litera a: 50 Prozent;
+- b) für Projekte gemäss Litera b: abgestuft nach der Anzahl der sich zusammenschliessenden Leistungserbringer 25 bis 50 Prozent;
+- c) für Projekte gemäss Litera c: abgestuft nach dem Beitrag zur Optimierung der Gesundheitsversorgung in der Gesundheitsversorgungsregion beziehungsweise Subregion bis 25 Prozent;
+- d) für Projekte gemäss Litera d: abgestuft nach dem Beitrag zur Optimierung der Gesundheitsversorgung in der Gesundheitsversorgungsregion beziehungsweise Subregion bis 50 Prozent.
+
+[^12e-1]: BR [506.000](https://www.gr-lex.gr.ch/data/506.000/de)
+
+#### Art. 12f
+
+**Projektabrechnung**
+
+<sup>1</sup> Die Projektabrechnung ist gemäss den Vorgaben des Amts zu erstellen.
+
+#### Art. 12g
+
+**Beitragsfestsetzung**
+
+<sup>1</sup> Das Amt legt den Beitrag nach Prüfung der Projektabrechnung fest.
+
+## 5.
 
 #### Art. 13
 
-**Alters- und Pflegeheimregionen**
-
-<sup>1</sup> Die Einteilung des Kantonsgebiets in Planungsregionen für die stationäre Pflege und Betreuung und die Zuteilung der Gemeinden zu den Planungsregionen werden im Anhang 4 festgelegt.
+**…**
 
 #### Art. 14
 
-**Spitex-Regionen**
-
-<sup>1</sup> Die Einteilung des Kantonsgebiets in Planungsregionen für die ambulante Pflege und Betreuung und die Zuteilung der Gemeinden zu den Planungsregionen werden im Anhang 5 festgelegt.
+**…**
 
 ## 6. Beiträge an die Angebote zur stationären Pflege und Betreuung von Langzeitpatientinnen und -patienten und von betagten Personen
 
@@ -211,7 +288,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>2</sup> Die Regierung entscheidet gestützt auf das gemäss den Weisungen des Departementes überarbeitete Projekt über die Beitragsberechtigung und die Höhe des kantonalen Beitrags.
 
-<sup>3</sup> Investitionsbeiträge werden nur gewährt, wenn der Bedarf ausgewiesen ist und eine positive Stellungnahme der Planungsregion vorliegt.
+<sup>3</sup> Investitionsbeiträge werden nur gewährt, wenn der Bedarf ausgewiesen ist und eine positive Stellungnahme der Gesundheitsversorgungsregion vorliegt.
 
 #### Art. 16
 
@@ -278,7 +355,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 **Betriebsbeiträge der Gemeinden**
 
-<sup>1</sup> Bezüglich der Finanzierung des Gemeindeanteils an den Pflegekosten von Personen, die direkt aus dem Ausland in ein Alters- und Pflegeheim oder in eine Pflegegruppe eintreten, haben sich die Gemeinden der betreffenden Planungsregion untereinander zu verständigen.
+<sup>1</sup> Bezüglich der Finanzierung des Gemeindeanteils an den Pflegekosten von Personen, die direkt aus dem Ausland in ein Alters- und Pflegeheim oder in eine Pflegegruppe eintreten, haben sich die Gemeinden der betreffenden Gesundheitsversorgungsregion untereinander zu verständigen.
 
 ## 7. Beiträge an die Dienste der häuslichen Pflege und Betreuung und zugelassene Pflegefachpersonen
 
@@ -307,7 +384,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 **3. Zugelassene Pflegefachpersonen**
 
-<sup>1</sup> Die anerkannten Kosten der zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung zugelassenen Pflegefachpersonen betragen 90 Prozent der anerkannten Kosten der Dienste mit kommunalem Leistungsauftrag.
+<sup>1</sup> Die anerkannten Kosten der zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung zugelassenen Pflegefachpersonen betragen 90 Prozent der anerkannten Kosten für Pflegeleistungen sowie für Leistungen der Akut- und Übergangspflege der Dienste mit kommunalem Leistungsauftrag.
 
 #### Art. 23
 
@@ -352,7 +429,7 @@ von der Regierung erlassen am 19. Dezember 2017
 - b) bei den hauswirtschaftlichen und betreuerischen Leistungen 20 Stunden pro Woche;
 - c) beim Mahlzeitendienst eine Mahlzeit pro Tag.
 
-<sup>2</sup> Der Umfang der beitragsberechtigten Leistungen gemäss Absatz 1 Litera b kann durch die Einsatzleitung während maximal 60 Tagen ausgedehnt werden:
+<sup>2</sup> Der Umfang der beitragsberechtigten Leistungen gemäss Absatz 1 Litera b kann durch die Leiterin oder den Leiter des Fachbereichs Pflege und Betreuung während maximal 60 Tagen ausgedehnt werden:
 
 - a) auf maximal 48 Stunden pro Woche zur Entlastung pflegender Angehöriger;
 - b) auf maximal 168 Stunden pro Woche bei Personen, denen der Eintritt in eine stationäre Einrichtung nicht möglich ist, sowie bei Schwerkranken und Sterbenden;
@@ -363,7 +440,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 **Bedarfsabklärung**
 
-<sup>1</sup> Die Bedarfsabklärung ist spätestens fünf Tage nach dem ersten Einsatz bei den Klientinnen beziehungsweise Klienten zu Hause durchzuführen.
+<sup>1</sup> Die Bedarfsabklärung ist spätestens 14 Tage nach dem ersten Einsatz bei den Klientinnen beziehungsweise Klienten zu Hause durchzuführen.
 
 <sup>2</sup> Bei relevanten Veränderungen sind die zu erbringenden Leistungen dem Bedarf anzupassen. Die Bedarfsklärung ist mindestens jährlich vor Ort zu überprüfen.
 
@@ -371,7 +448,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 **Betriebsbeiträge des Kantons 1. Auszahlung**
 
-<sup>1</sup> Das Amt richtet auf der Basis der pro beitragsberechtigte Leistungskategorie gemeldeten Leistungseinheiten jeweils bis Ende des Quartalsfolgemonats provisorische Leistungsbeiträge aus.
+<sup>1</sup> Das Amt richtet auf der Basis der gemeldeten Leistungseinheiten jeweils bis Ende des Quartalsfolgemonats provisorische Leistungsbeiträge aus.
 
 <sup>2</sup> Die definitive Festsetzung der Leistungsbeiträge durch das Amt erfolgt nach Prüfung der massgebenden Daten.
 
@@ -385,7 +462,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>3</sup> Auf eine Kürzung gemäss Artikel 44 Absatz 1 Litera g des Gesetzes kann verzichtet werden, wenn für nicht erbrachte Ausbildungsleistungen Abgeltungsbeiträge in den Ausbildungsfonds des Spitex Verbands Graubünden entrichtet werden.
 
-<sup>4</sup> Das Reglement des Ausbildungsfonds und die Höhe der zu entrichtenden Abgeltungsbeiträge bedürfen der Genehmigung der Regierung.
+<sup>4</sup> Das Reglement des Ausbildungsfonds und die Höhe der zu entrichtenden Abgeltungsbeiträge bedürfen der Genehmigung des Amtes.
 
 <sup>5</sup> Die Verteilung der Beträge, um welche die Beiträge in Anwendung von Artikel 44 Absatz 1 Litera g und h des Gesetzes gekürzt werden, auf die übrigen Leistungserbringer wird im Verhältnis zu den von diesen über den Vorgaben der Regierung erbrachten Ausbildungsleistungen für Gesundheitsberufe vorgenommen.
 
@@ -429,8 +506,9 @@ von der Regierung erlassen am 19. Dezember 2017
 
 <sup>2</sup> Die Grundbetreuung gemäss Artikel 48 Absatz 2 Litera c des Gesetzes[^31-1] umfasst mindestens folgende Leistungen:
 
-- a) die Betreuungsperson muss an Werktagen während mindestens einer Stunde vor Ort in der Einrichtung anwesend sein;
-- b) die Betreuungsperson muss an Werktagen während mindestens fünf Stunden telefonisch erreichbar sein.
+- a) die Betreuungsperson muss an mindestens drei Werktagen während mindestens einer Stunde vor Ort in der Einrichtung anwesend sein;
+- b) die Betreuungsperson muss an Werktagen während mindestens fünf Stunden telefonisch erreichbar sein;
+- c) die Betreuungsperson koordiniert und organisiert bei Bedarf die Hilfsdienste sowie einen 24-Stunden-Notruf.
 
 [^31-1]: BR [506.000](https://www.gr-lex.gr.ch/data/506.000/de)
 
@@ -491,9 +569,7 @@ von der Regierung erlassen am 19. Dezember 2017
 
 #### Art. 38
 
-**Luftrettung**
-
-<sup>1</sup> Die Einsätze der Luftrettung werden durch die Einsatzzentrale 1414 koordiniert und disponiert.
+**…**
 
 #### Art. 39
 
