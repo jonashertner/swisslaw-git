@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Militärdienstpflicht (VMDP)
 short: VMDP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20210101/de"
 
 (VMDP)
 
-vom 22. November 2017 (Stand am 1. Januar 2021)
+vom 22. November 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -26,7 +26,7 @@ gestützt auf das Militärgesetz vom 3. Februar 1995[^ingress-1] (MG) und auf Ar
 verordnet:
 
 [^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-2]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dez. 2019 ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 
 ## 1. Kapitel: Zweck
 
@@ -956,7 +956,7 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst beträ
   - 5\. als Zahnarzt, Zahnärztin: 538 Tage,
   - 6\.[^47-7] als Veterinärarzt, Veterinärärztin: 536 Tage.
 
-<sup>2</sup> ...[^47-8]
+<sup>2</sup> …[^47-8]
 
 <sup>3</sup>
 
@@ -1107,7 +1107,7 @@ Berufsmilitärs, deren Arbeitsverhältnis vor Erreichen der Altersgrenzen für d
 
 Auf Gesuch von Angehörigen der Armee an das Kdo Ausb können diese zur Leistung von freiwilligen Kaderausbildungsdiensten zum Erreichen eines Unteroffiziersgrades, höheren Unteroffiziersgrades, Subalternoffiziersgrades oder Hauptmanngrades aufgeboten werden, wenn:[^54-1]
 
-- a. und b.[^54-2] ...
+- a. und b.[^54-2] …
 - c. sie aufgrund der bereits geleisteten Tage Ausbildungsdienst in der neu zu erwerbenden Funktion keine vier Wiederholungskurse mehr leisten könnten; und
 - d. ihr Arbeitgeber oder das zuständige Regionale Arbeitsvermittlungszentrum schriftlich dazu eingewilligt hat.
 
@@ -2015,7 +2015,7 @@ Die Kreiskommandanten und Kreiskommandantinnen sind zuständig für:
   - 5\. Muttersprache,
   - 6\. Beruf,
   - 7\. Wohnadresse,
-  - 8\. AHV-Versichertennummer;
+  - 8\. AHV-Nummer[^102-1];
 
 - b. die Führung der Kontrolldaten nach Buchstabe a der stellungspflichtigen Personen;
 - c. die Führung der Kontrolldaten nach Buchstabe a der militärdienstpflichtigen Personen, soweit nach Bundesrecht keine andere Stelle dafür zuständig ist;
@@ -2035,6 +2035,8 @@ Die Truppenkörper und die Formationen der Armee sind jeweils einem Kanton zur W
 - a. Sie sorgen für die Zusammenarbeit mit den Kommandos der Territorialdivisionen.
 - b. Sie werden bei Kommandobesetzungen konsultiert.
 - c. Sie haben das Recht, die Ausbildungsdienste zu besuchen.
+
+[^102-1]: Ausdruck gemäss Anhang Ziff. II 19 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 103
 
@@ -2638,7 +2640,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex7-lvlu1-7]
+…[^annex7-lvlu1-7]
 
 [^annex7-lvlu1-1]: [[AS 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141), [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)Art. 9 Ziff. 1 [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)Art. 24, [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)Art. 7 [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)Anhang 3 [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)Art. 44, [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)Ziff. III 2, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 35, [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)Ziff. II, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 6, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)Ziff. I 2]
 [^annex7-lvlu1-2]: [[AS 2002 892](https://fedlex.data.admin.ch/eli/oc/2002/158), [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)Ziff. I 2]

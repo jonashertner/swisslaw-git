@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)
 short: OMi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20210101/fr"
 
 (OMi)
 
-du 22 novembre 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 22 novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -26,7 +26,7 @@ vu la loi du 3 février 1995 sur l’armée (LAAM)[^ingress-1], vu l’art. 75, 
 arrête:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-2]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 
 ## Chapitre 1 But
 
@@ -2020,7 +2020,7 @@ Le commandant d’arrondissement est compétent pour:
   - 5\. la langue maternelle,
   - 6\. la profession,
   - 7\. l’adresse de domicile,
-  - 8\. le numéro d’assuré AVS;
+  - 8\. le numéro AVS[^102-1];
 
 - b. la tenue des données de contrôle visées à la let. a pour les conscrits;
 - c. la tenue des données de contrôle visées à la let. a pour les personnes astreintes au service militaire, pour autant que cette compétence ne relève pas d’un autre service conformément au droit fédéral;
@@ -2040,6 +2040,8 @@ Les corps de troupe et les formations de l’armée sont attribués à un canton
 - a. ils veillent à collaborer avec les commandements des divisions territoriales;
 - b. ils sont consultés lors de la nomination d’un commandant;
 - c. ils ont le droit de faire des visites à la troupe en service d’instruction.
+
+[^102-1]: Nouvelle expression selon l’annexe ch. II 19 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 103
 

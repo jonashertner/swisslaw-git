@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 concernente l'obbligo di prestare servizi
 short: OOPSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20210101/it"
 
 (OOPSM)
 
-del 22 novembre 2017 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 22 novembre 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ vista la legge militare del 3 febbraio 1995[^ingress-1] (LM); visto l’articolo
 ordina:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-2]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645),[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 
 ## **Capitolo 1:** **Scopo**
 
@@ -2013,7 +2013,7 @@ I comandanti di circondario sono competenti per:
   - 5\. lingua materna,
   - 6\. professione,
   - 7\. indirizzo di domicilio,
-  - 8\. numero d’assicurato AVS;
+  - 8\. numero AVS[^102-1];
 
 - b. la tenuta dei dati di controllo secondo la lettera a delle persone soggette all’obbligo di leva;
 - c. la tenuta dei dati di controllo secondo la lettera a relativi alle persone soggette all’obbligo di prestare servizio militare, sempre che secondo il diritto federale non sia competente al riguardo un altro organo;
@@ -2033,6 +2033,8 @@ I singoli corpi di truppa e le singole formazioni dell’esercito sono assegnati
 - a. provvedono alla collaborazione con i comandi delle divisioni territoriali;
 - b. sono consultati in occasione dell’occupazione di funzioni di comando;
 - c. hanno il diritto di visitare i servizi d’istruzione.
+
+[^102-1]: Nuova espr. giusta l’all. n. II 19 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 103
 
