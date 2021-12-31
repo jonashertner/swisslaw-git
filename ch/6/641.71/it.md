@@ -3,11 +3,11 @@ sr: "641.71"
 title: "Legge federale del 23 dicembre 2011 sulla riduzione delle emissioni di CO<sub>2</sub> (Legge sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/855"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-855-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-855-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20210101/it"
 
 (Legge sul CO<sub>2</sub>)
 
-del 23 dicembre 2011 (Stato 1° gennaio 2021)
+del 23 dicembre 2011 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -48,13 +48,19 @@ decreta:
 
 <sup>3</sup> I diritti di emissione sono diritti negoziabili per l’emissione di gas serra che vengono assegnati a titolo gratuito o messi all’asta dalla Confederazione o da Stati o comunità di Stati che dispongono di sistemi di scambio di quote di emissioni (SSQE) riconosciuti dal Consiglio federale.[^2-2]
 
-<sup>4</sup> I certificati di riduzione delle emissioni sono attestati negoziabili, riconosciuti a livello internazionale, per le riduzioni delle emissioni conseguite all’estero.
+<sup>4</sup> I certificati di riduzione delle emissioni sono attestati negoziabili, riconosciuti a livello internazionale, per le riduzioni delle emissioni conseguite all’estero secondo il Protocollo di Kyoto dell’11 dicembre 1997[^2-3] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici.[^2-4]
 
-<sup>5</sup> Gli impianti sono unità tecniche fisse in un luogo determinato.[^2-3]
+<sup>4bis</sup> Gli attestati internazionali sono attestati relativi a riduzioni comprovabili di emissioni di gas serra conseguite all’estero secondo l’Accordo del 12 dicembre 2015[^2-5] sul clima.[^2-6]
+
+<sup>5</sup> Gli impianti sono unità tecniche fisse in un luogo determinato.[^2-7]
 
 [^2-1]: Nuovo testo giusta l’all. n. II 2 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^2-2]: Nuovo testo giusta l’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^2-3]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^2-3]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^2-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2-5]: [RS 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
+[^2-6]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2-7]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 3
 
@@ -62,20 +68,24 @@ decreta:
 
 <sup>1</sup> Entro il 2020 le emissioni di gas serra in Svizzera devono essere ridotte globalmente del 20 per cento rispetto al 1990. Il Consiglio federale può stabilire obiettivi intermedi settoriali.
 
-<sup>1bis</sup> Nel 2021 le emissioni di gas serra in Svizzera devono essere ridotte di un ulteriore 1,5 per cento rispetto al 1990. Il Consiglio federale può stabilire obiettivi intermedi settoriali.*[^3-1]*
+<sup>1bis</sup> Fino al 2024 le emissioni di gas serra devono essere ridotte ogni anno di un ulteriore 1,5 per cento rispetto al 1990. Il Consiglio federale può stabilire obiettivi intermedi settoriali.*[^3-1]*
 
-<sup>2</sup> Il Consiglio federale può fissare l’obiettivo di riduzione al 40 per cento conformemente alle convenzioni internazionali. Il 75 per cento al massimo di queste riduzioni supplementari delle emissioni di gas serra può essere conseguito con provvedimenti realizzati all’estero.
+<sup>1ter</sup> Almeno il 75 per cento della riduzione delle emissioni di gas serra di cui al capoverso 1bis deve essere conseguita con provvedimenti realizzati in Svizzera.*[^3-2]*
+
+<sup>2</sup> ...*[^3-3]*
 
 <sup>3</sup> La quantità totale delle emissioni di gas serra è calcolata in funzione dei gas serra emessi in Svizzera. Le emissioni derivanti dai carburanti per aerei utilizzati nei voli internazionali non sono considerate.
 
-<sup>3bis</sup> Il Consiglio federale stabilisce in che misura i diritti di emissione di Stati o comunità di Stati che dispongono di SSQE riconosciuti dal Consiglio federale vengono considerati per il raggiungimento dell’obiettivo di riduzione di cui al capoverso 1.[^3-2]
+<sup>3bis</sup> Il Consiglio federale stabilisce in che misura i diritti di emissione di Stati o comunità di Stati che dispongono di SSQE riconosciuti dal Consiglio federale vengono considerati per il raggiungimento dell’obiettivo di riduzione di cui al capoverso 1.[^3-4]
 
 <sup>4</sup> Il Consiglio federale può fissare obiettivi di riduzione per singoli settori economici d’intesa con le cerchie interessate.
 
 <sup>5</sup> Il Consiglio federale sottopone per tempo all’Assemblea federale proposte relative agli obiettivi di riduzione da attuare dopo il 2020. Consulta dapprima le cerchie interessate.
 
-[^3-1]: Introdotto dal n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^3-2]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^3-1]: Introdotto dal n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub> ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)). Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^3-2]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^3-3]: Abrogato dal n. I della LF del 17 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^3-4]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 4
 
@@ -152,7 +162,7 @@ I requisiti di qualità devono in particolare soddisfare i seguenti criteri di q
 
 <sup>4</sup> I valori obiettivo di cui ai capoversi 1 e 2 si basano sui metodi di misurazione applicati finora. Se i metodi di misurazione sono modificati, il Consiglio federale stabilisce nelle disposizioni di esecuzione i valori obiettivo corrispondenti. Designa i metodi di misurazione applicabili; al riguardo tiene conto delle norme dell’Unione europea.[^10-1]
 
-[^10-1]: Introdotto dal n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^10-1]: Introdotto dal n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 10a
 
@@ -263,7 +273,7 @@ Il Consiglio federale stabilisce le categorie di impianti e al riguardo consider
 - b. in che misura la tassa sul CO<sub>2</sub> pregiudica la competitività internazionale degli impianti appartenenti alla categoria in questione.
 
 [^15-1]: Nuovo testo giusta l’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^15-2]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^15-2]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 16
 
@@ -276,7 +286,7 @@ Il Consiglio federale stabilisce le categorie di impianti e al riguardo consider
 <sup>3</sup> Il Consiglio federale stabilisce le categorie di impianti.
 
 [^16-1]: Nuovo testo giusta l’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^16-2]: Nuovo testo giusta il n. I 2 della LF del 20 di. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^16-2]: Nuovo testo giusta il n. I 2 della LF del 20 di. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 16a
 
@@ -296,7 +306,7 @@ Il Consiglio federale disciplina:
 <sup>4</sup> Se in virtù di accordi internazionali esistono più sistemi internazionali per la riduzione delle emissioni di gas serra degli aeromobili, il Consiglio federale provvede affinché gli operatori di aeromobili non siano sottoposti in maniera cumulativa a tali sistemi per quanto concerne le emissioni di gas serra causate dai voli.
 
 [^16a-1]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^16a-2]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^16a-2]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 17
 
@@ -319,7 +329,7 @@ Il Consiglio federale disciplina:
 <sup>3</sup> Riserva ogni anno una quantità adeguata di diritti di emissione per impianti e per aeromobili per renderli accessibili ai partecipanti al SSQE futuri e a quelli in forte crescita.
 
 [^18-1]: Nuovo testo giusta l’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^18-2]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^18-2]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 #### Art. 19
 
@@ -369,7 +379,7 @@ I gestori di impianti e gli operatori di aeromobili presentano ogni anno alla Co
 
 <sup>2</sup> I diritti di emissione mancanti devono essere consegnati alla Confederazione l’anno successivo.
 
-[^21-1]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^21-1]: Nuovo testo giusta il n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
 
 ### Sezione 2: ...
 
@@ -387,13 +397,14 @@ I gestori di impianti e gli operatori di aeromobili presentano ogni anno alla Co
 
 <sup>1</sup> Chiunque immette carburanti in consumo conformemente alla legge federale del 21 giugno 1996[^26-1] sull’imposizione degli oli minerali deve compensare una parte delle emissioni di CO<sub>2</sub> derivanti dall’utilizzazione energetica dei carburanti.
 
-<sup>2</sup> Dopo aver sentito il settore interessato, il Consiglio federale fissa l’aliquota di compensazione tra il 5 e il 40 per cento in funzione del raggiungimento dell’obiettivo di riduzione di cui all’articolo 3 e stabilisce la quota delle misure di compensazione che deve essere realizzata in Svizzera.
+<sup>2</sup> Dopo aver sentito il settore interessato, il Consiglio federale fissa l’aliquota di compensazione tra il 5 e il 40 per cento in funzione del raggiungimento dell’obiettivo di riduzione di cui all’articolo 3 o dell’evoluzione delle emissioni di CO<sub>2</sub> dei trasporti e stabilisce la quota delle misure di compensazione che deve essere realizzata in Svizzera.[^26-2]
 
 <sup>3</sup> L’aumento ammissibile applicato ai carburanti ammonta al massimo a 5 centesimi per litro.
 
 <sup>4</sup> Il Consiglio federale può escludere dall’obbligo di compensazione l’immissione in consumo di piccole quantità di carburanti.
 
 [^26-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^26-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 27
 
@@ -409,7 +420,14 @@ Sottostanno all’obbligo di compensazione le persone assoggettate all’obbligo
 
 <sup>1</sup> Chiunque non adempie il proprio obbligo di compensazione deve versare alla Confederazione un importo di 160 franchi per tonnellata di CO<sub>2</sub> non compensata.
 
-<sup>2</sup> I certificati di riduzione delle emissioni mancanti devono essere consegnati alla Confederazione l’anno successivo.
+<sup>2</sup>
+
+Deve inoltre consegnare alla Confederazione, l’anno successivo, in quantità corrispondente alla quota non compensata:
+
+- a. per il 2021, i certificati di riduzione delle emissioni;
+- b. a partire dal 2022, i diritti di emissione o attestati internazionali.[^28-1]
+
+[^28-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 ### Sezione 3*a*:**** Registro dello scambio di quote di emissioni
 
@@ -468,6 +486,10 @@ Sono assoggettati:
 
 <sup>1bis</sup> Su richiesta presentata entro il 31 maggio 2021, l’impegno di riduzione di cui al capoverso 1 può essere prorogato sino alla fine del 2021, a condizione che la riduzione venga proseguita nella stessa misura e in modo lineare.[^31-4]
 
+<sup>1ter</sup> Su richiesta presentata entro il termine stabilito dal Consiglio federale, l’impegno di riduzione di cui al capoverso 1<sup>bis</sup> può essere prorogato sino alla fine del 2024, a condizione che il gestore si impegni a realizzare una determinata riduzione supplementare rispetto ai capoversi 1 e 1<sup>bis</sup>.[^31-5]
+
+<sup>1quater</sup> Anche i gestori ai sensi del capoverso 1 che non hanno già preso un impegno di riduzione possono impegnarsi a ridurre le emissioni di gas serra in una determinata misura entro la fine del 2024.[^31-6]
+
 <sup>2</sup>
 
 Il Consiglio federale designa i settori economici e al riguardo considera:
@@ -477,12 +499,17 @@ Il Consiglio federale designa i settori economici e al riguardo considera:
 
 <sup>3</sup>
 
-La portata dell’impegno di riduzione si basa in particolare:[^31-5]
+La portata dell’impegno di riduzione si basa in particolare:[^31-7]
 
 - a. sulla media delle emissioni di gas serra ammesse nel periodo 2008–2012;
 - b. sull’obiettivo di riduzione di cui all’articolo 3.
 
-<sup>4</sup> Il Consiglio federale stabilisce in che misura i gestori possono adempiere il loro impegno di riduzione mediante la consegna di certificati di riduzione delle emissioni.[^31-6]
+<sup>4</sup>
+
+Il Consiglio federale stabilisce in che misura i gestori possono adempiere il loro impegno di riduzione:
+
+- a. fino al 2021, mediante la consegna di certificati di riduzione delle emissioni;
+- b. a partire dal 2022, mediante la consegna di diritti di emissione.[^31-8]
 
 <sup>5</sup> Su domanda di un gestore, la Confederazione può tenere conto anche delle riduzioni di emissioni realizzate al di fuori dei propri impianti di produzione grazie a miglioramenti dei prodotti.
 
@@ -491,9 +518,11 @@ La portata dell’impegno di riduzione si basa in particolare:[^31-5]
 [^31-1]: Nuovo testo giusta l’all. n. II 2 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^31-2]: Nuova espr. giusta l’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^31-3]: Nuovo testo giusta l’all. n. II 2 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-4]: Introdotto dal n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^31-5]: Nuovo testo giusta l’all. n. II 2 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-6]: Nuovo testo giusta l’all. n. II 2 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^31-4]: Introdotto dal n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^31-5]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^31-6]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^31-7]: Nuovo testo giusta l’all. n. II 2 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^31-8]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 31a
 
@@ -529,9 +558,10 @@ Il Consiglio federale disciplina i dettagli, in particolare:
 
 <sup>1</sup> I gestori di impianti di cui all’articolo 31 che non rispettano l’impegno preso nei confronti della Confederazione versano a quest’ultima un importo di 125 franchi per tonnellata di CO<sub>2</sub>eq emessa in eccesso.[^32-1]
 
-<sup>2</sup> Per le tonnellate di CO<sub>2</sub>eq emesse in eccesso i corrispondenti certificati di riduzione delle emissioni devono essere consegnati alla Confederazione l’anno successivo.
+<sup>2</sup> Per le tonnellate di CO<sub>2</sub>eq emesse in eccesso devono essere consegnati alla Confederazione l’anno successivo i corrispondenti diritti di emissione.[^32-2]
 
 [^32-1]: Nuovo testo giusta l’all. n. II 2 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^32-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 ### Sezione 3:**** Restituzione della tassa sul CO<sub>2</sub> ai gestori di impianti di cogenerazione che non partecipano al SSQE né hanno preso un impegno di riduzione
 
@@ -654,7 +684,11 @@ I proventi della sanzione di cui all’articolo 13 sono versati al fondo per le 
 
 I proventi sono calcolati in base agli introiti, inclusi gli interessi e dedotti i costi di esecuzione.
 
-## Capitolo 7: Esecuzione e promozione
+## Capitolo 7: Esecuzione, procedura e promozione****
+
+[^chap7-1]
+
+[^chap7-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 39
 
@@ -673,12 +707,14 @@ Nell’ambito dell’attuazione degli accordi internazionali sul collegamento di
 
 <sup>3</sup> Il Consiglio federale disciplina la procedura per infliggere le sanzioni.
 
-<sup>4</sup> L’Ufficio federale dell’ambiente è competente per valutare le questioni in materia di protezione del clima.
+<sup>4</sup> L’Ufficio federale dell’ambiente (UFAM) è competente per valutare le questioni in materia di protezione del clima.[^39-2]
 
-<sup>5</sup> L’Ufficio federale dell’ambiente emana prescrizioni relative alla forma di domande, segnalazioni e rapporti. Può ordinare che si ricorra all’elaborazione elettronica dei dati. In questo caso definisce in particolare i requisiti relativi all’interoperabilità dei sistemi informatici e alla sicurezza dei dati.[^39-2]
+<sup>5</sup> L’UFAM emana prescrizioni relative alla forma di domande, segnalazioni e rapporti.[^39-3] Può ordinare che si ricorra all’elaborazione elettronica dei dati. In questo caso definisce in particolare i requisiti relativi all’interoperabilità dei sistemi informatici e alla sicurezza dei dati.[^39-4]
 
 [^39-1]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^39-2]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^39-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^39-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^39-4]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 40
 
@@ -729,6 +765,34 @@ Sono soggetti all’obbligo di informare in particolare:
 <sup>3</sup> Il Consiglio federale stabilisce le categorie di dati personali che possono essere trattati e per quanto tempo essi devono essere conservati.
 
 [^40b-1]: Introdotto dall’all. del DF del 22 mar. 2019 che approva l’Acc. tra la Svizzera e l’Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra e lo traspone nel diritto svizzero, in vigore dal 1° gen. 2020 ([RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [FF 2018 363](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+
+#### Art. 40c
+
+**Sistemi d’informazione e di documentazione**[^40c-1]
+
+<sup>1</sup> L’UFAM gestisce i sistemi d’informazione e di documentazione per lo svolgimento elettronico delle procedure secondo la presente legge. Il Consiglio federale designa le procedure che sono svolte per via elettronica.
+
+<sup>2</sup> Nello svolgimento elettronico delle procedure, l’UFAM garantisce l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>3</sup> In caso di trasmissione per via elettronica di atti che per legge devono essere muniti di firma, le autorità federali competenti possono accettare, invece della firma elettronica qualificata, un’altra conferma elettronica dei dati da parte della persona interessata nella procedura in questione.
+
+<sup>4</sup>
+
+L’UFAM può concedere accesso ai sistemi d’informazione e di documentazione agli organi e alle persone seguenti:
+
+- a. Ufficio federale dell’energia;
+- b. Ufficio federale delle assicurazioni sociali;
+- c. Ufficio federale dell’aviazione civile;
+- d. Ufficio federale della dogana e della sicurezza dei confini (UDSC);
+- e. organizzazioni private di cui all’articolo 39 capoverso 2;
+- f. richiedenti, persone assoggettate all’obbligo di dichiarazione e gestori ai sensi della presente legge;
+- g. organi di validazione e di verifica riconosciuti;
+- h. organi di controllo da esso incaricati;
+- i. altri organi e persone designati dal Consiglio federale, nella misura necessaria all’adempimento dei compiti e obblighi loro conferiti dalla presente legge.
+
+<sup>5</sup> Gli organi e le persone di cui al capoverso 4 possono accedere ai dati personali contenuti nei sistemi d’informazione e di documentazione, compresi i dati personali degni di particolare protezione relativi a procedimenti e sanzioni amministrativi o penali, e trattarli, nella misura necessaria all’adempimento dei compiti e obblighi loro conferiti dalla presente legge.
+
+[^40c-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 41
 
@@ -783,11 +847,13 @@ Sono soggetti all’obbligo di informare in particolare:
 
 <sup>1</sup> Le infrazioni sono perseguite e giudicate conformemente alla legge federale del 22 marzo 1974[^45-1] sul diritto penale amministrativo.
 
-<sup>2</sup> L’Amministrazione federale delle dogane è l’autorità competente per il perseguimento e il giudizio delle infrazioni.
+<sup>2</sup> L’UDSC è l’autorità competente per il perseguimento e il giudizio delle infrazioni.[^45-2]
 
-<sup>3</sup> Se il fatto costituisce contemporaneamente un’infrazione secondo gli articoli 42 o 43 e un’infrazione alla legislazione doganale o ad altri atti normativi federali in materia di tasse il cui perseguimento spetta all’Amministrazione federale delle dogane, è inflitta la pena prevista per l’infrazione più grave, aumentata in misura adeguata.
+<sup>3</sup> Se il fatto costituisce contemporaneamente un’infrazione secondo gli articoli 42 o 43 e un’infrazione alla legislazione doganale o ad altri atti normativi federali in materia di tasse il cui perseguimento spetta all’UDSC, è inflitta la pena prevista per l’infrazione più grave, aumentata in misura adeguata.[^45-3]
 
 [^45-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^45-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^45-3]: Nuovo testo giusta il n. I 23 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Capitolo 9: Disposizioni finali
 
@@ -823,7 +889,19 @@ La legge dell’8 ottobre 1999[^46-1] sul CO<sub>2</sub> è abrogata.
 
 <sup>2</sup> I certificati di riduzione delle emissioni non utilizzati nel periodo 2013–2020 possono essere riportati in misura limitata al 2021. Il Consiglio federale disciplina i dettagli.
 
-[^48a-1]: Introdotto dal n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243), [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011)[4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^48a-1]: Introdotto dal n. I 2 della LF del 20 dic. 2019 che proroga i termini delle agevolazioni fiscali per il gas naturale, il gas liquido e i biocarburanti e che modifica la legge sul CO<sub>2</sub>, in vigore dal 1° gen. 2021 ([RU 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [FF 2019 4719](https://fedlex.data.admin.ch/eli/fga/2019/2011), [4827](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 48b
+
+**[Trasferimento dei diritti di emissione, dei certificati di riduzione delle emissioni e degli attestati non utilizzati](https://www.fedlex.admin.ch/eli/cc/2012/855/it) nel 2021**[^48b-1]
+
+<sup>1</sup> I diritti di emissione non utilizzati nel 2021 possono essere riportati illimitatamente al periodo 2022–2024.
+
+<sup>2</sup> I certificati di riduzione delle emissioni non utilizzati nel 2021 possono essere riportati illimitatamente al periodo 2022–2024.
+
+<sup>3</sup> Gli attestati non utilizzati per le riduzioni delle emissioni conseguite in Svizzera nel periodo 2013–2021 possono essere riportati illimitatamente al periodo 2022–2024.
+
+[^48b-1]: Introdotto dal n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 49
 

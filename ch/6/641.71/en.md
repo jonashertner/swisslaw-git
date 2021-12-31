@@ -3,11 +3,11 @@ sr: "641.71"
 title: "Federal Act of 23 December 2011 on the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Act)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/855"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-12-23
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2012-855-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2012-855-20220101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/855/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Act)
 
-of 23 December 2011 (Status as of 1 January 2021)
+of 23 December 2011 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -50,13 +50,19 @@ decrees:
 
 <sup>3</sup> Emission allowances are tradable rights to emit greenhouse gases allocated or auctioned by the Confederation or by states or communities of states with emissions trading schemes (ETS) recognised by the Federal Council.[^2-2]
 
-<sup>4</sup> Emission reduction certificates are internationally recognised tradable documents attesting to reductions in emissions achieved abroad.
+<sup>4</sup> Emission reduction certificates are internationally recognised tradable documents attesting to reductions in emissions achieved abroad in accordance with the Kyoto Protocol of 11 December 1997[^2-3] to the United Nations Framework Convention on Climate Change.[^2-4]
 
-<sup>5</sup> Installations are fixed technical units at a single location.[^2-3]
+<sup>4bis</sup> International attestations are attestations of verifiable reductions in greenhouse gas emissions achieved abroad in accordance with the Climate Convention of 12 December 2015[^2-5].[^2-6]
+
+<sup>5</sup> Installations are fixed technical units at a single location.[^2-7]
 
 [^2-1]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^2-2]: Amended by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^2-3]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^2-3]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^2-4]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2-5]: [SR 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
+[^2-6]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^2-7]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 3
 
@@ -64,20 +70,24 @@ decrees:
 
 <sup>1</sup> Domestic greenhouse gas emissions must be reduced overall by 20 per cent as compared with 1990 levels, by 2020. The Federal Council may set sector-specific interim targets.
 
-<sup>1bis</sup> Domestic greenhouse gas emissions must be reduced in 2021 by a further 1.5 per cent compared with 1990 levels. The Federal Council may specify sectoral interim targets.[^3-1]
+<sup>1bis</sup> Greenhouse gas emissions must be reduced by a further 1.5 per cent annually by 2024 compared with 1990 levels. The Federal Council may specify sectoral interim targets.[^3-1]
 
-<sup>2</sup> The Federal Council may increase the reduction target to 40 per cent in order to comply with international agreements. A maximum of 75 per cent of the additional reductions in greenhouse gas emissions may be achieved through measures carried out abroad.
+<sup>1ter</sup> At least 75 per cent of the reduction in greenhouse gas emissions in accordance with paragraph 1<sup>bis</sup> must be achieved through domestic measures.[^3-2]
+
+<sup>2</sup> …[^3-3]
 
 <sup>3</sup> The total volume of greenhouse gas emissions is calculated on the basis of the greenhouse gases emitted in Switzerland. Emissions from the use of aviation fuel on international flights are not taken into account.
 
-<sup>3bis</sup> The Federal Council shall determine the extent to which emission allowances from states or communities of states with ETSs recognised by the Federal Council shall be taken into account in order to achieve the reduction target in accordance with paragraph 1.[^3-2]
+<sup>3bis</sup> The Federal Council shall determine the extent to which emission allowances from states or communities of states with ETSs recognised by the Federal Council shall be taken into account in order to achieve the reduction target in accordance with paragraph 1.[^3-4]
 
 <sup>4</sup> The Federal Council may set reduction targets for individual economic sectors by agreement with the parties concerned.
 
 <sup>5</sup> It shall at the due time submit proposals to the Federal Assembly on the reduction targets for the period after 2020. It shall consult the parties concerned beforehand.
 
-[^3-1]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^3-2]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^3-1]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)). Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^3-2]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^3-3]: Repealed by No I of the FA of 17 Dec. 2021, with effect from 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^3-4]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 4
 
@@ -388,13 +398,14 @@ Installation operators and aircraft operators must submit annual greenhouse gas 
 
 <sup>1</sup> Any person who in accordance with the Mineral Oil Tax Act of 21 June 1996[^26-1] releases motor fuels for consumption must compensate for part of the CO<sub>2</sub> emissions that are attributable to the use of the motor fuels as energy source.
 
-<sup>2</sup> The Federal Council after consulting the sector sets the compensation rate at between 5 and 40 per cent based on the extent to which the reduction target specified in Article 3 has been achieved and decides on the extent of domestic compensation measures.
+<sup>2</sup> The Federal Council, after consulting the sector, shall set the compensation rate at between 5 and 40 per cent based on the extent to which the reduction target specified in Article 3 or the development of CO<sub>2</sub> emissions from traffic has been achieved and decides on the extent of domestic compensation measures.[^26-2]
 
 <sup>3</sup> The permitted compensation surcharge on motor fuels amounts to a maximum of 5 centimes per litre.
 
 <sup>4</sup> The Federal Council may exempt the release for free circulation of minor quantities of motor fuel from the duty to provide compensation.
 
 [^26-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^26-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 27
 
@@ -410,7 +421,14 @@ Persons liable to pay tax under the Mineral Oil Tax Act of 21 June 1996[^27-1] a
 
 <sup>1</sup> Any person who fails to fulfil an obligation to compensate must pay the Confederation the sum of 160 francs for each uncompensated tonne of CO<sub>2</sub>.
 
-<sup>2</sup> The missing emission reduction certificates must be surrendered to the Confederation in the following year.
+<sup>2</sup>
+
+In addition, the following must be surrendered to the Confederation in the following year in the relevant amount:
+
+- a. for 2021: emission reduction certificates;
+- b. from 2022: emission allowances or international attestations.[^28-1]
+
+[^28-1]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 ### Section 3*a***** Emissions Trading Register
 
@@ -469,6 +487,10 @@ The following are liable to pay the levy:
 
 <sup>1bis</sup> The reduction obligations in paragraph 1 may be extended until the end of 2021 provided that the scope of the reduction is continued on a linear basis and a corresponding application is submitted by 31 May 2021.[^31-4]
 
+<sup>1ter</sup> The reduction obligations in accordance with paragraph 1<sup>bis</sup> may be extended until the end of 2024 provided that operators undertake to achieve a reduction of a specific amount in addition to that in paragraphs 1 and 1<sup>bis</sup> and submit a related application by a date specified by the Federal Council.[^31-5]
+
+<sup>1quater</sup> Operators in accordance with paragraph 1 that have not yet undertaken to meet a reduction obligation may also undertake to reduce their greenhouse gas emissions by a specific amount by the end of 2024.[^31-6]
+
 <sup>2</sup>
 
 The Federal Council shall designate the economic sectors. In doing so, it takes account of:
@@ -478,12 +500,17 @@ The Federal Council shall designate the economic sectors. In doing so, it takes 
 
 <sup>3</sup>
 
-The scope of the reduction obligation is determined in particular by:[^31-5]
+The scope of the reduction obligation is determined in particular by:[^31-7]
 
 - a. the average greenhouse gas emissions allowed for the years 2008–2012;
 - b. the reduction target in accordance with Article 3.
 
-<sup>4</sup> The Federal Council shall determine the extent to which operators may fulfil their reduction obligation by surrendering emission reduction certificates.[^31-6]
+<sup>4</sup>
+
+The Federal Council shall determine the extent to which operators may fulfil their reduction obligation:
+
+- a. by 2021: by surrendering emission reduction certificates;
+- b. from 2022: by surrendering emission allowances.[^31-8]
 
 <sup>5</sup> At the operator’s request, the Confederation may also take account of emission reductions achieved through product improvements outside the operator's own production plants.
 
@@ -493,8 +520,10 @@ The scope of the reduction obligation is determined in particular by:[^31-5]
 [^31-2]: Term in accordance with Annex para. 1 of the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems (Amendment of the CO<sub>2</sub> Act), in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)). This amendment has been made in the provisions specified in the AS.
 [^31-3]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^31-4]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
-[^31-5]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^31-6]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^31-5]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^31-6]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^31-7]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^31-8]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 31a
 
@@ -530,9 +559,10 @@ The Federal Council shall regulate the details, in particular:
 
 <sup>1</sup> Operators specified in Article 31 that do not meet their reduction obligation to the Confederation must pay the Confederation the sum of 125 francs for each excess tonne of CO<sub>2</sub>eq emitted.[^32-1]
 
-<sup>2</sup> For the excess tonnes CO<sub>2</sub>eq emitted, emission reduction certificates must be surrendered to the Confederation in the following year.
+<sup>2</sup> For the excess tonnes CO<sub>2</sub>eq emitted, emission allowances must be surrendered to the Confederation in the following year.[^32-2]
 
 [^32-1]: Amended by Annex No II 2 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^32-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 ### Section 3**** Refund of the CO<sub>2</sub> levy to CHP Plant Operators that neither participate in the ETS nor are subject to a Reduction Obligation
 
@@ -655,7 +685,11 @@ The revenues from the penalty under Article 13 is allocated to the National High
 
 The revenues are calculated by deducting the implementation costs from the income including interest.
 
-## Chapter 7 Implementation and Promotion
+## Chapter 7 Implementation, Procedures and Promotion****
+
+[^chap7-1]
+
+[^chap7-1]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 39
 
@@ -674,12 +708,13 @@ In order to implement international agreements on the linking of emissions tradi
 
 <sup>3</sup> It regulates the sanctions procedure.
 
-<sup>4</sup> The Federal Office for the Environment is responsible for the assessment of matters relating to climate protection.
+<sup>4</sup> The Federal Office for the Environment (FOEN) is responsible for the assessment of matters relating to climate protection.[^39-2]
 
-<sup>5</sup> It shall issue regulations on the form of applications, notifications and reports. It may order the use of electronic data processing. In such an event, it shall specify requirements in particular for the interoperability of the IT systems and for data security.[^39-2]
+<sup>5</sup> It shall issue regulations on the form of applications, notifications and reports. It may order the use of electronic data processing. In such an event, it shall specify requirements in particular for the interoperability of the IT systems and for data security.[^39-3]
 
 [^39-1]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
-[^39-2]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+[^39-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^39-3]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
 
 #### Art. 40
 
@@ -730,6 +765,34 @@ The following are required to provide information in particular:
 <sup>3</sup> The Federal Council shall determine the categories of personal data that may be processed and the length of time they may be stored.
 
 [^40b-1]: Inserted by the Annex to the FD of 22 March 2019 on the approval of the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems, in force since 1 Jan. 2020 ([AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752); [BBl 2018 411](https://fedlex.data.admin.ch/eli/fga/2018/109)).
+
+#### Art. 40c
+
+**Information and documentation systems**[^40c-1]
+
+<sup>1</sup> The FOEN shall operate information and documentation systems in order to conduct procedures under this Act electronically. The Federal Council shall specify which procedures are to be conducted electronically.
+
+<sup>2</sup> The FOEN shall ensure the authenticity and integrity of the data transmitted in procedures that are conducted electronically.
+
+<sup>3</sup> The competent federal authorities, when submitting documents electronically that must by law be signed may recognise another electronic confirmation of the information by the person involved in the procedure concerned instead of a qualified electronic signature.
+
+<sup>4</sup>
+
+The FOEN may grant the following bodies and persons access to the information and documentation systems:
+
+- a. the Swiss Federal Office of Energy;
+- b. the Federal Social Insurance Office;
+- c. the Federal Office of Civil Aviation;
+- d. the Federal Office for Customs and Border Security (FOCBS);
+- e. private organisations under Article 39 paragraph 2;
+- f. applicants, persons required to report and operators under this Act;
+- g. approved validators and verifiers;
+- h. inspection centres authorised by the FOEN;
+- i. other bodies or persons designated by the Federal Council, provided this is required to fulfil duties and obligations under this Act.
+
+<sup>5</sup> The bodies and person mentioned in paragraph 4 may retrieve and process personal data from the information and documentation systems including sensitive person data about administrative or criminal prosecutions and penalties, provided this is necessary in order to fulfil their duties and obligations under this Act.
+
+[^40c-1]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 41
 
@@ -784,11 +847,13 @@ Unless the offence carries a higher penalty under another provision, a fine may 
 
 <sup>1</sup> Offences are prosecuted and adjudicated in accordance with the Federal Act of 22 March 1974[^45-1] on Administrative Criminal Law.
 
-<sup>2</sup> The prosecuting and adjudicating authority is the Federal Customs Administration.
+<sup>2</sup> The prosecuting and adjudicating authority is the FOCBS.[^45-2]
 
-<sup>3</sup> If an act constitutes both an offence under Articles 42 or 43 and an offence against other federal tax legislation that is subject to prosecution by the Federal Customs Administration, the penalty for the more serious offence is imposed and increased appropriately.
+<sup>3</sup> If an act constitutes both an offence under Articles 42 or 43 and an offence against other federal tax legislation that is subject to prosecution by the FOCBS, the penalty for the more serious offence is imposed and increased appropriately.[^45-3]
 
 [^45-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^45-2]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^45-3]: Amended by No I 23 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapter 9 Final Provisions
 
@@ -820,11 +885,23 @@ The CO<sub>2</sub> Act of 8 October 1999[^46-1] is repealed.
 
 **Carrying over unused emission allowances and emission reduction certificates 2013–2020**[^48a-1]
 
-<sup>1</sup> Emission allowances that have not been used in the 2013–2020 period may be carried over without limitation to 2021.
+<sup>1</sup> Emission allowances that were not used in the 2013–2020 period may be carried over without limitation to 2021.
 
-<sup>2</sup> Emission reduction certificates that have not been used in the 2013–2020 period may be carried over without limitation to 2021. The Federal Council shall regulate the details.
+<sup>2</sup> Emission reduction certificates that were not used in the 2013–2020 period may be carried over without limitation to 2021. The Federal Council shall regulate the details.
 
 [^48a-1]: Inserted by No I 2 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force since 1 Jan. 2021 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+
+#### Art. 48b
+
+**Carrying over unused emission allowances, emission reduction certificates and attestations 2021**[^48b-1]
+
+<sup>1</sup> Emission allowances that were not used in 2021 may be carried over without limitation to the 2022–2024 period.
+
+<sup>2</sup> Emission reduction certificates that were not used in 2021 may be carried over without limitation to the 2022–2024 period.
+
+<sup>3</sup> Attestations for unused domestic emission reductions achieved in the 2013–2021 period may be carried over without limitation to the 2022–2024 period.
+
+[^48b-1]: Inserted by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
 
 #### Art. 49
 
