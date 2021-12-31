@@ -3,30 +3,29 @@ canton: FR
 number: "912.5.112"
 title: Ordonnance DIAF instituant des mesures de lutte contre le feu bactérien
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-11-26
 adopted: 2007-04-23
 in_force: 2007-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/912.5.112"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5988/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7000/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance DIAF instituant des mesures de lutte contre le feu bactérien
 
-du 23.04.2007 (version entrée en vigueur le 01.04.2019)
+du 23.04.2007 (version entrée en vigueur le 01.01.2022)
 
 La Direction des institutions, de l'agriculture et des forêts
 
 Vu l'article 150 de la loi fédérale du 29 avril 1998 sur l'agriculture;
 
-Vu les articles 29 al. 3 et 34 de l'ordonnance fédérale du 28 février 2001 sur la protection des végétaux;
+Vu l'ordonnance fédérale du 31 octobre 2018 sur la protection des végétaux contre les organismes nuisibles particulièrement dangereux (OSaVé);
 
-Vu la loi du 23 juin 2006 sur l'Institut agricole de l'Etat de Fribourg;
+Vu la loi du 23 juin 2006 sur Grangeneuve;
 
-Vu les articles 6 et 8 de la loi du 3 octobre 2006 sur l'agriculture et les articles 34 et 37 de son règlement;
+Vu l'article 6 de la loi du 3 octobre 2006 sur l'agriculture et les articles 34 et 37 de son règlement;
 
 Sur la proposition du Service phytosanitaire cantonal,
 
@@ -54,7 +53,7 @@ Adopte ce qui suit:
 
 #### Art. 4
 
-<sup>1</sup> Les décisions rendues en application de la présente ordonnance sont sujettes à recours, conformément à la loi du 23 juin 2006 sur l'Institut agricole de l'Etat de Fribourg.
+<sup>1</sup> Les décisions rendues en application de la présente ordonnance sont sujettes à recours, conformément à la loi du 23 juin 2006 sur Grangeneuve.
 
 #### Art. 5
 

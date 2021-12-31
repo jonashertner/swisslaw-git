@@ -3,30 +3,29 @@ canton: FR
 number: "912.5.112"
 title: Verordnung ILFD über die Bekämpfung des Feuerbrands
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-11-26
 adopted: 2007-04-23
 in_force: 2007-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/912.5.112"
-pdf: "https://bdlf.fr.ch/api/de/versions/5988/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7000/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung ILFD über die Bekämpfung des Feuerbrands
 
-vom 23.04.2007 (Fassung in Kraft getreten am 01.04.2019)
+vom 23.04.2007 (Fassung in Kraft getreten am 01.01.2022)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
 gestützt auf Artikel 150 des Bundesgesetzes vom 29. April 1998 über die Landwirtschaft;
 
-gestützt auf die Artikel 29 Abs. 3 und 34 der Bundesverordnung vom 28. Februar 2001 über Pflanzenschutz;
+gestützt auf die Bundesverordnung vom 31. Oktober 2018 über den Schutz von Pflanzen vor besonders gefährlichen Schadorganismen (PGesV);
 
-gestützt auf das Gesetz vom 23. Juni 2006 über das Landwirtschaftliche Institut des Kantons Freiburg;
+gestützt auf das Gesetz vom 23. Juni 2006 über Grangeneuve;
 
-gestützt auf die Artikel 6 und 8 des Landwirtschaftsgesetzes vom 3. Oktober 2006 und die Artikel 34 und 37 des Landwirtschaftsreglements;
+gestützt auf Artikel 6 des Landwirtschaftsgesetzes vom 3. Oktober 2006 und die Artikel 34 und 37 des Landwirtschaftsreglements;
 
 auf Antrag des kantonalen Pflanzenschutzdienstes,
 
@@ -54,7 +53,7 @@ beschliesst:
 
 #### Art. 4
 
-<sup>1</sup> Die in Anwendung dieser Verordnung erlassenen Verfügungen können nach dem Gesetz vom 23. Juni 2006 über das Landwirtschaftliche Institut des Kantons Freiburg mit Beschwerde angefochten werden.
+<sup>1</sup> Die in Anwendung dieser Verordnung erlassenen Verfügungen können nach dem Gesetz vom 23. Juni 2006 über Grangeneuve mit Beschwerde angefochten werden.
 
 #### Art. 5
 
