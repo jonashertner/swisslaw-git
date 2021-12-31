@@ -3,20 +3,20 @@ canton: LU
 number: "834"
 title: Vollzugsverordnung zur eidgenössischen Chemikaliengesetzgebung
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-20
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-30
 adopted: 2009-04-28
 in_force: 2009-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/834"
-pdf: "https://srl.lu.ch/api/de/versions/3359/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3875/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zur eidgenössischen Chemikaliengesetzgebung
 
-vom 28.04.2009 (Stand 01.01.2019)
+vom 28.04.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -86,6 +86,16 @@ beschliesst:
 <sup>2</sup> Die Höhe der Gebühren richtet sich nach dem Gebührentarif und der Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^6-1].
 
 [^6-1]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
+
+## 3a Rechtsschutz
+
+#### § 6a
+
+<sup>1</sup> Gegen Verfügungen der Dienststelle Lebensmittelkontrolle und Verbraucherschutz kann innert 10 Tagen schriftlich und begründet Einsprache erhoben werden.
+
+<sup>2</sup> Im Übrigen gelten die Vorschriften des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^6a-1], soweit das eidgenössische Recht nichts anderes vorsieht.
+
+[^6a-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
 
 ## 4 Schlussbestimmungen
 
