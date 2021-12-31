@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 2007 sur le fonds de désaffectation et sur le
 short: OFDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/64"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-12-07
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-64-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-64-20220101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20200101/fr"
 
 (Ordonnance sur le fonds de désaffectation et sur le fonds de gestion, OFDG)
 
-du 7 décembre 2007 (Etat le 1<sup>er</sup> janvier 2020)
+du 7 décembre 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -93,11 +93,18 @@ Les coûts de gestion des déchets englobent en particulier les coûts relatifs:
 
 <sup>4</sup> Les aspects de l’étude des coûts relatifs à la sécurité sont examinés par l’Inspection fédérale de la sécurité nucléaire (IFSN) et le calcul des coûts est vérifié par des experts indépendants. Ces derniers vérifient en particulier si les coûts et les suppléments sont estimés de manière réaliste.[^4-3]
 
-<sup>5</sup> Sur la base de l’étude de coûts et du contrôle prévu à l’al. 4, la commission demande au Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) de fixer le montant prévisible des coûts de désaffectation et de gestion des déchets pour chaque installation nucléaire.
+<sup>4bis</sup> Sur la base du contrôle prévu à l’al. 4, le comité en charge des coûts établit un rapport de contrôle récapitulatif à l’attention de la commission. Dans ce rapport, il lui demande de fixer le montant prévisible des coûts de désaffectation et de gestion des déchets.[^4-4]
+
+<sup>4ter</sup> La commission demande au Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) de se prononcer dans les trois mois sur les études de coûts et sur le rapport de contrôle.[^4-5]
+
+<sup>5</sup> Elle fixe le montant prévisible des coûts de désaffectation et de gestion des déchets pour chaque installation nucléaire en s’appuyant sur les études de coûts, le contrôle prévu à l’al. 4 et le rapport de contrôle, et après avoir pris acte de l’avis du DETEC.[^4-6]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 [^4-2]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^4-4]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-5]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-6]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 4a
 
@@ -117,7 +124,7 @@ Les coûts de gestion des déchets englobent en particulier les coûts relatifs:
 
 Sont notamment considérés comme coûts d’administration:
 
-- a.[^5-1] les indemnités journalières et autres indemnités versées aux membres de la commission, des comités et des groupes d’experts;
+- a.[^5-1] les indemnités journalières et autres indemnités versées aux membres de la commission, du comité de la commission, des comités, des groupes d’experts et des groupes de travail;
 - b.[^5-2] les frais du bureau et de l’organe de révision;
 - c. les indemnités versées aux experts consultés;
 - d. les dépenses de la Confédération au titre de ses activités de surveillance du fonds de désaffectation et du fonds de gestion;
@@ -127,7 +134,7 @@ Sont notamment considérés comme coûts d’administration:
 
 <sup>2</sup> Les frais de gestion de la fortune ne sont pas considérés comme des coûts d’administration.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 ## Section 3 Obligation de contribuer et montant des contributions
@@ -170,11 +177,13 @@ On entend par mise hors service définitive:
 - a. pour une centrale nucléaire: l’arrêt définitif du fonctionnement de puissance;
 - b. pour une autre installation nucléaire: l’arrêt définitif de l’exploitation.
 
-<sup>3</sup> Les calculs se fondent sur une durée d’exploitation présumée des centrales nucléaires de 50 ans. Si une centrale peut être exploitée plus longtemps, le DETEC adapte la base de calcul.
+<sup>3</sup> Les calculs se fondent sur une durée d’exploitation présumée des centrales nucléaires de 50 ans. La commission peut adapter la base de calcul en s’appuyant sur l’avis de l’IFSN concernant le justificatif de sécurité pour l’exploitation à long terme au sens des art. 34, al. 4, et 34*a* de l’ordonnance du 10 décembre 2004 sur l’énergie nucléaire[^8-2].[^8-3]
 
 <sup>4</sup> La durée d’exploitation présumée des installations de gestion des déchets radioactifs doit être fixée dans le programme de gestion des déchets.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^8-2]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 8a
 
@@ -351,12 +360,13 @@ Le capital excédentaire est restitué aux cotisants après le décompte final c
 
 La commission fixe le crédit-cadre destiné au versement de ressources provenant des fonds pour la prochaine période de taxation de cinq ans visée à l’art. 9, al. 1. Pour ce faire, elle se fonde sur:
 
-- a. le montant prévisible des coûts de désaffectation et de gestion des déchets fixé par le DETEC;
+- a.[^14-2] le montant prévisible des coûts de désaffectation et de gestion des déchets qu’elle a fixé;
 - b. l’étude de coûts.
 
 <sup>2</sup> Elle peut, dans des cas exceptionnels, adapter le crédit-cadre précédemment fixé.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 14a
 
@@ -447,7 +457,11 @@ Les coûts, les contributions et les créances sont calculés en francs suisses.
 
 <sup>1</sup> Les propriétaires soumettent à l’approbation de la commission le plan de constitution des provisions pour les coûts de gestion des déchets précédant la mise hors service définitive des centrales nucléaires.
 
+<sup>1bis</sup> Ils calculent le plan de constitution des provisions par analogie avec le modèle actuariel destiné au calcul des contributions et en tenant compte des paramètres énoncés à l’annexe 1.[^19-1]
+
 <sup>2</sup> Ils soumettent également à la commission le rapport de l’organe de révision attestant que le plan de constitution des provisions a été respecté et que ces provisions ont été utilisées conformément à leur destination.
+
+[^19-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 ## Section 8 Organisation
 
@@ -455,131 +469,202 @@ Les coûts, les contributions et les créances sont calculés en francs suisses.
 
 **Organes**[^20-1]
 
-<sup>1</sup>
-
 Les organes des fonds sont:
 
 - a. la commission;
-- b. le bureau;
-- c. l’organe de révision.
+- b. le comité de la commission;
+- c. le comité de placements;
+- d. le comité en charge des coûts;
+- e. le bureau;
+- f. l’organe de révision.
 
-<sup>2</sup> Les membres de la commission et de l’organe de révision sont nommés par le Conseil fédéral pour une période de quatre ans. La durée du mandat coïncide avec la législature du Conseil national. Elle commence le 1<sup>er</sup> janvier et se termine le 31 décembre.
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
-<sup>3</sup> Le mandat des membres de la commission ou de l’organe de révision qui sont nommés en cours de législature se termine à la fin de celle-ci.
+#### Art. 20a
 
-<sup>4</sup> La limitation des mandats en vertu de l’art. 8*i* de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration (OLOGA)[^20-2] s’applique par analogie pour les membres de la commission.
+**Nomination et durée du mandat**[^20a-1]
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^20-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+<sup>1</sup> Les membres de la commission et l’organe de révision sont nommés par le Conseil fédéral.
+
+<sup>2</sup> Les membres des comités et le bureau sont nommés par la commission.
+
+<sup>3</sup> La durée du mandat est de quatre ans; elle coïncide avec la législature du Conseil national. Elle commence le 1<sup>er</sup> janvier et se termine le 31 décembre.
+
+<sup>4</sup> Le mandat des membres de la commission, des comités, du bureau et de l’organe de révision qui sont nommés en cours de législature se termine à la fin de celle-ci.
+
+<sup>5</sup> La limitation des mandats en vertu de l’art. 8*i* de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration (OLOGA)[^20a-2] s’applique par analogie aux membres de la commission et des comités.
+
+[^20a-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20a-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 20b
+
+**Représentants au sein de la commission et des comités**[^20b-1]
+
+<sup>1</sup> Les propriétaires ont droit à une représentation équitable, mais au plus à un tiers des sièges de la commission et de chacun des comités.
+
+<sup>2</sup> Les collaborateurs du DETEC, de l’IFSN et des entreprises qui ont participé à la vérification des études de coûts sur mandat du fonds de désaffectation et du fonds de gestion ne peuvent pas être nommés membres de la commission ou des comités.
+
+<sup>3</sup> Les art. 8*c*, al. 1, et 8*c*<sup>bis</sup>, al. 1, OLOGA[^20b-2] concernant la représentation des sexes et des communautés linguistiques s’appliquent par analogie à la commission et aux comités. À titre exceptionnel, il peut être dérogé à ces exigences pour des raisons de qualification.
+
+[^20b-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20b-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 21
 
-**Commission**[^21-1]
+**Taille et composition de la commission, du comité de la commission et des comités**[^21-1]
 
-<sup>1</sup> La commission compte au maximum onze membres.
+<sup>1</sup> La commission compte au maximum dix membres.
 
-<sup>2</sup> Les propriétaires ont droit à un nombre équitable de sièges, un tiers au maximum.
+<sup>2</sup>
 
-<sup>3</sup> Les collaborateurs du DETEC, de l’IFSN et des entreprises qui ont participé à la vérification des études de coûts sur mandat du fonds de désaffectation et du fonds de gestion ne peuvent pas être nommés membres de la commission ou des comités.
+Le comité de la commission comprend quatre membres, à savoir:
 
-<sup>4</sup> Les art. 8*c*, al. 1, et 8*c*<sup>bis</sup>, al. 1, OLOGA[^21-2] concernant la représentation des sexes et des communautés linguistiques s’appliquent par analogie. À titre exceptionnel, il peut être dérogé à ces exigences pour des raisons de qualification.
+- a. le président de la commission;
+- b. un membre de la commission proposé par les propriétaires, et
+- c. les présidents du comité de placements et du comité en charge des coûts.
 
-<sup>5</sup> La commission peut faire appel à des experts.
+<sup>3</sup> Le comité de placements et le comité en charge des coûts comptent chacun entre huit et douze membres. L’un et l’autre comprennent des membres de la commission et des experts nommés par celle-ci.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
-[^21-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+<sup>4</sup> La présidence et la vice-présidence de la commission ainsi que la présidence du comité de la commission et des comités sont chacune assurées par un membre indépendant de la commission (art. 21*a*, al. 1).
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 21a
 
 **Indépendance**[^21a-1]
 
-<sup>1</sup> Les membres de la commission autres que les représentants des propriétaires ne doivent entretenir avec ces derniers aucune relation susceptible de mettre en doute leur impartialité.
+<sup>1</sup> Les membres de la commission, du comité de la commission et des comités autres que les représentants des propriétaires (membres indépendants) ne doivent entretenir avec ces derniers aucune relation susceptible de mettre en doute leur impartialité.[^21a-2]
 
 <sup>2</sup> Si un membre précité veut néanmoins exercer une activité qui pourrait être incompatible avec son indépendance, il sollicite au préalable une recommandation de la commission. En cas de doute, celle-ci demande au DETEC de procéder à une évaluation.
 
 [^21a-1]: Introduit par le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^21a-2]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 21b
 
 **Confidentialité**[^21b-1]
 
-<sup>1</sup> Les délibérations de la commission, de ses comités et des groupes techniques ne sont pas publiques. Les débats et documents ont un caractère confidentiel dans la mesure où il existe un intérêt public prépondérant à les garder secrets.
+<sup>1</sup> Les délibérations de la commission, du comité de la commission, des comités, des groupes d’experts et des groupes de travail ont lieu à huis clos.
 
-<sup>2</sup> Les membres de la commission et les autres personnes présentes aux séances doivent s’en tenir aux prescriptions concernant la discrétion professionnelle et l’obligation de témoigner applicables aux collaborateurs de la Confédération.
+<sup>2</sup> Les membres de la commission, du comité de la commission et des comités ainsi que les autres personnes présentes aux séances sont soumis aux prescriptions concernant la discrétion professionnelle et à l’obligation de témoigner applicables aux collaborateurs de la Confédération.
 
 <sup>3</sup> L’autorité supérieure au sens de l’art. 320, ch. 2, du code pénal[^21b-2] est le DETEC.
 
-<sup>4</sup> Le devoir de réserve s’applique également aux membres démissionnaires de la commission.
+<sup>4</sup> Le devoir de réserve s’applique également aux membres démissionnaires.
 
-[^21b-1]: Introduit par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^21b-1]: Introduit par le ch. I de l’O du 7 oct. 2015 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^21b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 21c
 
-**Indemnité des membres de la commission**[^21c-1]
+**Indemnité**[^21c-1]
 
-<sup>1</sup> Sauf disposition contraire de la présente ordonnance, l’indemnité est régie par analogie par les art. 8*l* à 8*t* OLOGA[^21c-2] portant sur les commissions de suivi du marché de type M2/A. Pour les postes à temps partiel, le taux d’occupation est fixé par le DETEC.
+<sup>1</sup> Sauf disposition contraire de la présente ordonnance, l’indemnité des membres de la commission, du comité de la commission et des comités est régie par analogie par les art. 8*l* à 8*t* OLOGA[^21c-2] portant sur les commissions de suivi du marché de type M2/A. Pour les postes à temps partiel, le taux d’occupation est fixé par le DETEC.
 
-<sup>2</sup> S’agissant des présidents de comités, le montant d’indemnité valable pour le président de la commission s’applique.
+<sup>2</sup> S’agissant des présidents du comité de la commission et des comités, le montant de l’indemnité valable pour un président s’applique.
 
-<sup>3</sup> Le DETEC peut augmenter le montant d’indemnité de 50 % au maximum pour les membres indépendants.
+<sup>3</sup> Le DETEC peut augmenter le montant de l’indemnité de 50 % au maximum pour les membres indépendants.
 
-[^21c-1]: Introduit par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^21c-1]: Introduit par le ch. I de l’O du 7 oct. 2015 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^21c-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 21d
+
+**Motifs de récusation**[^21d-1]
+
+<sup>1</sup> Les membres indépendants de la commission, du comité de la commission et des comités se récusent en cas de conflits d’intérêts en relation avec leur personne, leurs employeurs ou leurs mandants.
+
+<sup>2</sup>
+
+Les membres de la commission, du comité de la commission et des comités qui représentent les propriétaires se récusent en cas de conflits d’intérêts:
+
+- a. lors de litiges impliquant les propriétaires représentés et le fonds de désaffectation ou le fonds de gestion, ou
+- b. en relation avec leur personne.
+
+[^21d-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 22
 
-**Comités et groupes de travail[^22-1]**
+**Groupes d’experts et groupes de travail**[^22-1]
 
-<sup>1</sup> La commission peut créer des comités et des groupes de travail constitués de ses propres membres et d’experts externes.[^22-2]
+<sup>1</sup> La commission peut créer des groupes d’experts et des groupes de travail constitués de ses propres membres, de membres des comités et d’experts externes.
 
-<sup>1bis</sup> Les propriétaires ont droit à un nombre équitable de sièges, un tiers au maximum.[^22-3]
+<sup>2</sup> Les propriétaires ont droit à une représentation équitable, mais au plus à un tiers des sièges de chaque groupe d’experts et de chaque groupe de travail.
 
-<sup>2</sup> La présidence des comités est assurée par un membre de la commission.
+<sup>3</sup> Les présidences des groupes d’experts et des groupes de travail sont chacune assurées par un membre indépendant de la commission.
 
-<sup>3</sup> Les comités et groupes de travail élaborent des bases de décision pour la commission.
+<sup>4</sup> Les groupes d’experts et les groupes de travail élaborent des bases de décision pour la commission.
 
-[^22-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^22-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^22-3]: Introduit par le ch. I de l’O du 25 juin 2014 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+
+#### Art. 22a
+
+**Mandat commun**[^22a-1]
+
+Dans l’exercice de leurs activités, les membres de la commission, du comité de la commission et des comités visent un financement suffisant du fonds de désaffectation et du fonds de gestion.
+
+[^22a-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 23
 
-**Tâches**
+**Tâches de la commission[^23-1]**
 
 La commission assume en particulier les tâches suivantes:
 
-- a.[^23-1] elle demande au DETEC de fixer les règles pour la réalisation de l’étude de coûts;
-- a<sup>bis</sup>.[^23-2] elle dirige et coordonne l’examen de l’étude de coûts;
-- a<sup>ter</sup>.[^23-3] elle demande au DETEC de fixer le montant prévisible des coûts de désaffectation et de gestion des déchets;
+- a.[^23-2] elle fixe dans chaque cas particulier les règles pour la réalisation de l’étude de coûts;
+- a<sup>bis</sup>.[^23-3] elle dirige et coordonne l’examen de l’étude de coûts;
+- a<sup>ter</sup>.[^23-4] elle fixe dans chaque cas particulier le montant prévisible des coûts de désaffectation et de gestion des déchets;
 - b. elle fixe le modèle actuariel destiné au calcul des contributions, le plan financier et le budget des coûts de désaffectation et de gestion des déchets;
 - c. elle fixe le montant des contributions dues à chacun des fonds par les propriétaires;
 - d. elle décide de l’acceptation des papiers-valeurs, des contrats d’assurance et des garanties;
-- e. elle décide du montant et de l’échéance des sommes à réclamer ou à restituer aux propriétaires;
+- e.[^23-5] elle décide du montant et de l’échéance des sommes à réclamer aux propriétaires;
 - f. elle pourvoit à l’octroi d’avances entre les fonds;
-- g. elle soumet au DETEC[^23-4], à l’intention du Conseil fédéral, les propositions d’avance de la Confédération;
+- g. elle soumet au DETEC[^23-6], à l’intention du Conseil fédéral, les propositions d’avance de la Confédération;
 - h. elle constate que le propriétaire s’est acquitté intégralement de ses obligations;
-- i.[^23-5] elle approuve le plan de constitution des provisions pour les coûts de gestion des déchets précédant la mise hors service définitive des centrales nucléaires;
+- i.[^23-7] elle approuve le plan de constitution des provisions pour les coûts de gestion des déchets précédant la mise hors service définitive des centrales nucléaires;
 - j. elle vérifie les coûts de désaffectation, de gestion des déchets et d’administration, et les impute aux fonds;
 - k. elle autorise le paiement des coûts de gestion des déchets qui n’ont pas encore été intégrés dans l’évaluation des coûts;
 - l. elle décide du montant et de l’échéance des sommes à restituer en vertu de l’art. 78, al. 2, de la loi du 21 mars 2003 sur l’énergie nucléaire;
 - m. elle place les avoirs des fonds;
-- n.[^23-6] elle édicte les directives de placement;
+- n.[^23-8] elle édicte les directives de placement;
 - o. elle désigne le bureau;
 - p. elle choisit les offices de dépôt et désigne les gestionnaires de fortune;
-- q. elle nomme les membres des comités;
-- r. elle surveille les activités du bureau et des comités et experts auxquels elle a fait appel;
-- s.[^23-7] elle donne à l’Office fédéral de l’énergie (OFEN) tous les renseignements nécessaires à l’exécution de la surveillance;
-- t.[^23-8] elle rédige les rapports et les comptes annuels et soumet les rapports annuels au Conseil fédéral pour approbation.
+- q.[^23-9] elle nomme les membres du comité de placements et du comité en charge des coûts;
+- q<sup>bis</sup>.[^23-10] elle nomme le membre du comité de la commission proposé par les propriétaires (art. 21, al. 2, let. b);
+- q<sup>ter</sup>.[^23-11] elle fait appel à des experts en cas de besoin;
+- r.[^23-12] elle surveille les activités du bureau, du comité de la commission ainsi que celles des comités et des groupes d’experts ou de travail auxquels elle a fait appel;
+- s.[^23-13] elle donne à l’Office fédéral de l’énergie (OFEN) tous les renseignements nécessaires à l’exécution de la surveillance;
+- t.[^23-14] elle rédige les rapports et les comptes annuels et soumet les rapports annuels au Conseil fédéral pour approbation.
 
-[^23-1]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-2]: Introduite par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^23-3]: Introduite par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-4]: Nouvelle expression selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Il a été tenu compte de cette mod. dans tout le texte.
-[^23-5]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-6]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-4]: Introduite par le ch. I de l’O du 7 oct. 2015 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-5]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-6]: Nouvelle expression selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Il a été tenu compte de cette mod. dans tout le texte.
 [^23-7]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-8]: Introduite par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-8]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-9]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-10]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-11]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-12]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-13]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-14]: Introduite par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+
+#### Art. 23a
+
+**Tâches du comité de la commission et des comités**[^23a-1]
+
+<sup>1</sup> Le comité de la commission et les comités élaborent des bases de décision pour la commission.
+
+<sup>2</sup> Le comité de la commission traite en particulier les dossiers en cours sur mandat de la commission et prépare les décisions de cette dernière.
+
+<sup>3</sup> Le comité de placements est notamment chargé de surveiller la gestion de la fortune ainsi que d’élaborer et de mettre en œuvre la stratégie de placement.
+
+<sup>4</sup> Le comité en charge des coûts est notamment chargé de surveiller l’élaboration et le contrôle de l’étude de coûts.
+
+[^23a-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 24
 
@@ -662,14 +747,14 @@ Le Conseil fédéral a les compétences suivantes:
 Le DETEC a les compétences suivantes:
 
 - a. il édicte un règlement sur l’organisation des fonds, les principes et les buts du placement des avoirs ainsi que le cadre de ces placements;
-- b. il fixe pour chaque installation les règles pour la réalisation de l’étude de coûts;
-- c. il fixe pour chaque installation le montant prévisible des coûts de désaffectation et de gestion des déchets;
-- d.[^29a-2] il fixe, sur proposition de la commission, le profil de compétence des membres de la commission, des présidents du comité de placements et du comité en charge des coûts ainsi que des membres desdits comités.
+- b. et c.[^29a-2] …
+- d.[^29a-3] il fixe, sur proposition de la commission, le profil de compétences des membres de la commission, des présidents du comité de placements et du comité en charge des coûts, des membres desdits comités et du membre visé à l’art. 23, let. q<sup>bis</sup>.
 
 <sup>3</sup> L’OFEN est compétent pour la préparation et le suivi des décisions du Conseil fédéral et du DETEC.
 
 [^29a-1]: Introduit par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^29a-2]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^29a-2]: Abrogées par le ch. I de l’O du 24 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^29a-3]: Introduite par le ch. I de l’O du 6 nov. 2019 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 30
 
@@ -732,11 +817,11 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2008.
 
 Annexe 1*[^t-1]*
 
-(art. 8*a,* al. 3)
+(art. 8*a*, al. 3, et 19, al. 1<sup>bis</sup>)
 
 ## Rendement du capital et taux de renchérissement
 
-[^t-1]: Introduite par le ch. II de l’O du 7 oct. 2015 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nouvelle teneur selon le ch. II al. 1 de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^t-1]: Introduite par le ch. II de l’O du 7 oct. 2015 ([RO 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nouvelle teneur selon le ch. II al. 1 de l’O du 6 nov. 2019 ([RO 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 Le montant des contributions visé à l’art. 8*a*, al. 1 et 2, se détermine en tenant compte:
 
@@ -756,7 +841,7 @@ Dans la présente ordonnance, on entend par:
 - 1 *valeur actuelle:* la valeur du jour d’un montant en espèces attendu ultérieurement.
 - 1\.1 La valeur actuelle s’obtient au moyen de la formule ci-après après actualisation du montant attendu par le taux d’intérêt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20200101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/fr/xml/image/image1.png)
 
 - PV: valeur actuelle
 - C<sub>t</sub>: montant au moment t

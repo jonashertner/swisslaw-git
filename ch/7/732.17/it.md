@@ -4,11 +4,11 @@ title: "Ordinanza del 7 dicembre 2007 sul Fondo di disattivazione e sul Fondo di
 short: OFDS
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/64"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-12-07
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2008-64-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-64-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20200101/it"
 
 (Ordinanza sul Fondo di disattivazione e sul Fondo di smaltimento, OFDS)
 
-del 7 dicembre 2007 (Stato 1° gennaio 2020)
+del 7 dicembre 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -93,11 +93,18 @@ I costi di smaltimento comprendono in particolare i costi:
 
 <sup>4</sup> Lo studio sui costi è verificato dall’Ispettorato federale della sicurezza nucleare (IFSN) in merito agli aspetti concernenti la sicurezza e da specialisti indipendenti in merito al calcolo dei costi. Questi ultimi verificano, in particolare, se i costi e i supplementi sono stati stimati in modo realistico.[^4-3]
 
-<sup>5</sup> Sulla base dello studio sui costi e della verifica di cui al capoverso 4, la Commissione chiede al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) di stabilire il prevedibile ammontare dei costi di disattivazione e di smaltimento per ogni impianto nucleare.
+<sup>4bis</sup> Sulla base dela verifica di cui al capoverso 4, il comitato per il controllo dei costi elabora un rapporto di verifica sintetico all’attenzione della Commissione. Nel rapporto chiede la fissazione del prevedibile ammontare dei costi di disattivazione e di smaltimento.[^4-4]
+
+<sup>4ter</sup> La Commissione richiede al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) di esprimere il suo parere sugli studi sui costi e sul rapporto di verifica entro tre mesi.[^4-5]
+
+<sup>5</sup> Sulla base degli studi sui costi, della verifica di cui al capoverso 4 e del rapporto di verifica e tenuto conto del parere del DATEC, la Commissione stabilisce il prevedibile ammontare dei costi di disattivazione e di smaltimento per ogni impianto nucleare.[^4-6]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 [^4-2]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 [^4-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^4-4]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-5]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-6]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 4a
 
@@ -117,7 +124,7 @@ I costi di smaltimento comprendono in particolare i costi:
 
 Per costi amministrativi si intendono in particolare:
 
-- a.[^5-1] le diarie e le indennità per i membri della Commissione nonché per i comitati e i gruppi di specialisti;
+- a.[^5-1] le diarie e le indennità per i membri della Commissione, del comitato della Commissione e dei comitati, nonché dei gruppi di specialisti e dei gruppi di lavoro;
 - b.[^5-2] le spese per l’Ufficio e il Servizio di revisione;
 - c. le indennità corrisposte agli specialisti;
 - d. le spese della Confederazione per le attività di vigilanza sul Fondo di disattivazione e sul Fondo di smaltimento;
@@ -127,7 +134,7 @@ Per costi amministrativi si intendono in particolare:
 
 <sup>2</sup> I costi di gestione del patrimonio non sono considerati costi amministrativi.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^5-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 ## Sezione 3: Obbligo di contribuire e importo dei contributi
@@ -175,11 +182,13 @@ Per messa fuori servizio definitiva si intende:
 - a. nel caso di una centrale nucleare, l’interruzione definitiva dell’esercizio produttivo;
 - b. nel caso di un altro impianto nucleare, l’interruzione definitiva dell’esercizio.
 
-<sup>3</sup> I calcoli sono fondati su una durata d’esercizio presunta delle centrali nucleari di 50 anni. Se una centrale nucleare può essere mantenuta in esercizio più a lungo, il DATEC adegua la base di calcolo.
+<sup>3</sup> I calcoli sono fondati su una durata d’esercizio presunta delle centrali nucleari di 50 anni. La Commissione può adeguare la base di calcolo basandosi sul parere dell’IFSN concernente la prova della sicurezza per l’esercizio a lungo termine di cui agli articoli 34 capoverso 4 e 34*a* dell’ordinanza del 10 dicembre 2004[^8-2] sull’energia nucleare.[^8-3]
 
 <sup>4</sup> La durata d’esercizio presunta per gli impianti di smaltimento è stabilita nel programma di smaltimento delle scorie.
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^8-2]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
+[^8-3]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 8a
 
@@ -356,12 +365,13 @@ Il capitale accumulato in eccedenza nei Fondi è rimborsato ai proprietari tenut
 
 La Commissione stabilisce un quadro finanziario per il versamento delle risorse dei Fondi per il periodo di tassazione quinquennale successivo, conformemente all’articolo 9 capoverso 1. A tale scopo si basa:
 
-- a. sui costi di disattivazione e di smaltimento prevedibili fissati dal DATEC;
+- a.[^14-2] sui costi di disattivazione e di smaltimento prevedibili che ha fissato;
 - b. sullo studio sui costi.
 
 <sup>2</sup> In casi eccezionali la Commissione può adeguare il quadro finanziario precedentemente stabilito.
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 14a
 
@@ -452,7 +462,11 @@ I costi, i contributi e le pretese sono calcolati in franchi svizzeri.
 
 <sup>1</sup> I proprietari sottopongono alla Commissione, per approvazione, il piano di accantonamento per i costi di smaltimento risultanti prima della messa fuori servizio definitiva delle centrali nucleari.
 
+<sup>1bis</sup> Essi calcolano il piano di accantonamento utilizzando per analogia il modello attuariale per il calcolo dei contributi, tenendo conto dei parametri di cui all’allegato 1.[^19-1]
+
 <sup>2</sup> Essi presentano inoltre alla Commissione il rapporto del Servizio di revisione che attesta il rispetto dei piani di accantonamento e l’utilizzazione a destinazione vincolata di accantonamenti.
+
+[^19-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 ## Sezione 8: Organizzazione
 
@@ -460,131 +474,202 @@ I costi, i contributi e le pretese sono calcolati in franchi svizzeri.
 
 **Organi**[^20-1]
 
-<sup>1</sup>
-
 Gli organi dei Fondi sono:
 
 - a. la Commissione;
-- b. l’Ufficio;
-- c. il Servizio di revisione.
+- b. il comitato della Commissione;
+- c. il comitato per gli investimenti;
+- d. il comitato per il controllo dei costi;
+- e. l’Ufficio;
+- f. il Servizio di revisione.
 
-<sup>2</sup> I membri della Commissione e del Servizio di revisione sono nominati dal Consiglio federale, ogni volta per un quadriennio. La durata del mandato coincide con la legislatura del Consiglio nazionale. Essa inizia il 1° gennaio e termina il 31 dicembre.
+[^20-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
-<sup>3</sup> Il mandato dei membri della Commissione e del Servizio di revisione nominati nel corso della legislatura termina alla fine di quest’ultima.
+#### Art. 20a
 
-<sup>4</sup> Ai membri della Commissione si applica per analogia la limitazione della durata della funzione di cui all’articolo 8*i* dell’ordinanza del 25 novembre 1998[^20-2] sull’organizzazione del Governo e dell’Amministrazione (OLOGA).
+**Nomina e durata del mandato**[^20a-1]
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^20-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+<sup>1</sup> I membri della Commissione e del Servizio di revisione sono nominati dal Consiglio federale.
+
+<sup>2</sup> I membri dei comitati e l’Ufficio sono nominati dalla Commissione.
+
+<sup>3</sup> La durata del mandato è di quattro anni e coincide con la legislatura del Consiglio nazionale. Essa inizia il 1° gennaio e termina il 31 dicembre.
+
+<sup>4</sup> Il mandato dei membri della Commissione e dei comitati, nonché dell’Ufficio e del Servizio di revisione nominati nel corso della legislatura termina alla fine di quest’ultima.
+
+<sup>5</sup> Ai membri della Commissione e dei comitati si applica per analogia la limitazione della durata della funzione di cui all’articolo 8*i* dell’ordinanza del 25 novembre 1998[^20a-2] sull’organizzazione del Governo e dell’Amministrazione (OLOGA).
+
+[^20a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20a-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 20b
+
+**Rappresentanza in seno alla Commissione e ai comitati**[^20b-1]
+
+<sup>1</sup> I proprietari hanno diritto a un’adeguata rappresentanza, ma al massimo a un terzo dei seggi nella Commissione e in ciascuno dei comitati.
+
+<sup>2</sup> I collaboratori del DATEC, dell’IFSN e di imprese che hanno partecipato alla verifica degli studi sui costi su mandato del Fondo di disattivazione e del Fondo di smaltimento non possono essere nominati come membri della Commissione o dei comitati.
+
+<sup>3</sup> Per la rappresentanza dei sessi e delle comunità linguistiche in seno alla Commissione e ai comitati si applicano per analogia gli articoli 8*c* capoverso 1 e 8*c*<sup>bis</sup> capoverso 1 OLOGA[^20b-2]. È possibile derogare eccezionalmente a queste disposizioni per ragioni di qualifiche.
+
+[^20b-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20b-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 21
 
-**Commissione**[^21-1]
+**Dimensioni e composizione della Commissione, del comitato della Commissione e dei comitati**[^21-1]
 
-<sup>1</sup> La Commissione si compone di undici membri al massimo.
+<sup>1</sup> La Commissione si compone di dieci membri al massimo.
 
-<sup>2</sup> I proprietari hanno diritto a un’adeguata rappresentanza, ma al massimo a un terzo dei seggi della Commissione.
+<sup>2</sup>
 
-<sup>3</sup> I collaboratori del DATEC, dell’IFSN e di imprese che hanno collaborato alla verifica degli studi sui costi su mandato del Fondo di disattivazione e del Fondo di smaltimento non possono essere nominati come membri della Commissione o dei comitati.
+Il comitato della Commissione si compone di quattro membri ed è formato:
 
-<sup>4</sup> Per la rappresentanza dei sessi e delle comunità linguistiche si applicano per analogia gli articoli 8*c* capoverso 1 e 8*c*<sup>bis</sup> capoverso 1 OLOGA[^21-2]. È possibile derogare eccezionalmente a queste disposizioni per ragioni concernenti le qualifiche professionali.
+- a. dal presidente della Commissione;
+- b. da un membro della Commissione proposto dai proprietari; e
+- c. dai presidenti del comitato per gli investimenti e del comitato per il controllo dei costi.
 
-<sup>5</sup> La Commissione può far capo a specialisti.
+<sup>3</sup> Il comitato per gli investimenti e il comitato per il controllo dei costi si compongono ciascuno di 8–12 membri. Entrambi i comitati sono composti da membri della Commissione e altri specialisti nominati dalla Commissione.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
-[^21-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+<sup>4</sup> La presidenza e la vicepresidenza della Commissione, nonché la presidenza del comitato della Commissione e dei comitati, sono esercitate da membri indipendenti della Commissione (art. 21*a* cpv. 1).
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 21a
 
 **Indipendenza**[^21a-1]
 
-<sup>1</sup> I membri della Commissione che non rappresentano i proprietari non possono intrattenere con questi ultimi relazioni tali da poter far sorgere il sospetto di parzialità.
+<sup>1</sup> I membri della Commissione, del comitato della Commissione e dei comitati che non rappresentano i proprietari (membri indipendenti) non possono intrattenere con questi ultimi relazioni tali da mettere in dubbio la loro imparzialità.[^21a-2]
 
 <sup>2</sup> Se intende intraprendere un’attività che potrebbe essere incompatibile con l’esigenza di indipendenza, un membro di cui al capoverso precedente deve previamente chiedere la raccomandazione della Commissione. In caso di dubbio, la Commissione chiede una valutazione al DATEC.
 
 [^21a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^21a-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 21b
 
 **Segreto**[^21b-1]
 
-<sup>1</sup> Le deliberazioni della Commissione, dei suoi comitati e dei gruppi di specialisti non sono pubbliche. Le deliberazioni e i documenti sono confidenziali, sempre che gli interessi pubblici al mantenimento del segreto siano preponderanti.
+<sup>1</sup> Le deliberazioni della Commissione, del comitato della Commissione, dei comitati nonché dei gruppi di specialisti e dei gruppi di lavoro si svolgono a porte chiuse.
 
-<sup>2</sup> I membri della Commissione e le altre persone che partecipano alle sedute sottostanno alle disposizioni valide per gli impiegati della Confederazione in merito al segreto d’ufficio e all’obbligo di testimoniare.
+<sup>2</sup> I membri della Commissione, del comitato della Commissione e dei comitati e le altre persone che partecipano alle sedute sottostanno alle disposizioni vigenti concernenti il segreto d’ufficio e l’obbligo di testimoniare applicabili agli impiegati della Confederazione.
 
 <sup>3</sup> Il DATEC è l’autorità competente ai sensi dell’articolo 320 numero 2 del Codice penale[^21b-2].
 
-<sup>4</sup> L’obbligo di serbare il segreto vige anche per i membri che non fanno più parte della Commissione.
+<sup>4</sup> L’obbligo di serbare il segreto vige anche per i membri uscenti.
 
-[^21b-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^21b-1]: Introdotto dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^21b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 21c
 
-**Indennizzo dei membri della Commissione**[^21c-1]
+**Indennizzo**[^21c-1]
 
-<sup>1</sup> Salvo disposizione contraria della presente ordinanza, l’indennità è retta per analogia dagli articoli 8*l*–8*t* OLOGA[^21c-2] per le commissioni di vigilanza sul mercato della categoria M2/A.
+<sup>1</sup> Salvo disposizione contraria della presente ordinanza, l’indennità dei membri della Commissione, del comitato della Commissione e dei comitati è retta per analogia dagli articoli 8*l*–8*t* OLOGA[^21c-2] per le commissioni di vigilanza sul mercato della categoria M2/A. Nel caso di posti a tempo parziale, il grado d’occupazione è stabilito dal DATEC.
 
-<sup>2</sup> Per i presidenti dei comitati si applicano gli stessi importi previsti per i presidenti.
+<sup>2</sup> Per i presidenti del comitato della Commissione e dei comitati si applicano gli stessi importi previsti per i presidenti.
 
 <sup>3</sup> Il DATEC può aumentare gli importi al massimo del 50 per cento per i membri indipendenti.
 
-[^21c-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^21c-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^21c-1]: Introdotto dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^21c-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)**.****1**
+
+#### Art. 21d
+
+**Motivi di ricusazione**[^21d-1]
+
+<sup>1</sup> In caso di conflitti d’interesse in relazione alla propria persona, ai propri datori di lavoro o mandanti, i membri indipendenti della Commissione, del comitato della Commissione e dei comitati si ricusano.
+
+<sup>2</sup>
+
+I membri della Commissione, del comitato della Commissione e dei comitati che rappresentano i proprietari si ricusano in caso di conflitti d’interesse:
+
+- a. in occasione di controversie legali in cui sono coinvolti i proprietari rappresentati e il Fondo di disattivazione o il Fondo di smaltimento; o
+- b. in relazione alla propria persona.
+
+[^21d-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 22
 
-**Comitati e gruppi di specialisti[^22-1]**
+**Gruppi di specialisti e gruppi di lavoro**[^22-1]
 
-<sup>1</sup> La Commissione può istituire comitati e gruppi di specialisti composti di membri della Commissione e di specialisti esterni.[^22-2]
+<sup>1</sup> La Commissione può istituire gruppi di specialisti e gruppi di lavoro composti di membri della Commissione, membri dei comitati e specialisti esterni.
 
-<sup>1bis</sup> I proprietari hanno diritto a un’adeguata rappresentanza, ma al massimo a un terzo dei seggi di ciascun comitato o di ciascun gruppo di specialisti.[^22-3]
+<sup>2</sup> I proprietari hanno diritto a un’adeguata rappresentanza, ma al massimo a un terzo dei seggi in ciascun gruppo di specialisti e gruppo di lavoro.
 
-<sup>2</sup> Ciascun comitato è presieduto da un membro della Commissione.
+<sup>3</sup> I gruppi di specialisti e i gruppi di lavoro sono presieduti ciascuno da un membro indipendente della Commissione.
 
-<sup>3</sup> I comitati e i gruppi di specialisti preparano la documentazione necessaria per le decisioni della Commissione.
+<sup>4</sup> I gruppi di specialisti e i gruppi di lavoro elaborano basi decisionali per la Commissione.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^22-3]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^22-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+
+#### Art. 22a
+
+**Mandato in comune**[^22a-1]
+
+Nello svolgimento delle proprie attività i membri della Commissione, del comitato della Commissione e dei comitati si adoperano per garantire un finanziamento sufficiente del Fondo di disattivazione e del Fondo di smaltimento.
+
+[^22a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 23
 
-**Compiti**
+**Compiti della Commissione[^23-1]**
 
 La Commissione svolge in particolare i seguenti compiti:
 
-- a.[^23-1] chiede al DATEC di stabilire le prescrizioni per l’allestimento dello studio sui costi;
-- a<sup>bis</sup>.[^23-2] dirige e coordina la verifica dello studio sui costi;
-- a<sup>ter</sup>.[^23-3] chiede al DATEC di stabilire il prevedibile ammontare dei costi di disattivazione e di smaltimento;
+- a.[^23-2] stabilisce nel caso specifico le prescrizioni per allestire lo studio sui costi;
+- a<sup>bis</sup>.[^23-3] dirige e coordina la verifica dello studio sui costi;
+- a<sup>ter</sup>.[^23-4] stabilisce nel caso specifico il prevedibile ammontare dei costi di disattivazione e di smaltimento;
 - b. stabilisce il modello attuariale per il calcolo dei contributi, il piano finanzia-rio e il preventivo per i costi di smaltimento;
 - c. stabilisce i contributi dei proprietari ai Fondi;
 - d. decide sull’accettazione di titoli, contratti di assicurazione e altre garanzie;
-- e. fissa l’ammontare e la scadenza delle somme da esigere dai proprietari o da restituire ai medesimi;
+- e.[^23-5] fissa l’ammontare e la scadenza delle somme da esigere dai proprietari;
 - f. consente la concessione di anticipi fra i Fondi;
-- g. sottopone al DATEC[^23-4], a destinazione del Consiglio federale, proposte concernenti gli anticipi della Confederazione;
+- g. sottopone al DATEC[^23-6], a destinazione del Consiglio federale, proposte concernenti gli anticipi della Confederazione;
 - h. constata che i proprietari abbiano adempiuto integralmente i loro obblighi;
-- i.[^23-5] approva il piano di accantonamento per i costi di smaltimento che precedono la messa fuori servizio definitiva delle centrali nucleari;
+- i.[^23-7] approva il piano di accantonamento per i costi di smaltimento che precedono la messa fuori servizio definitiva delle centrali nucleari;
 - j. esamina i costi di disattivazione, di smaltimento nonché i costi amministrativi, e li addebita ai Fondi;
 - k. autorizza il pagamento dei costi di smaltimento che non erano inclusi nella stima dei costi;
 - l. fissa l’ammontare e la scadenza delle somme da restituire ai proprietari tenuti a versare contributi conformemente all’articolo 78 capoverso 2 della legge federale del 21 marzo 2003 sull’energia nucleare;
 - m. investe gli averi dei Fondi;
-- n.[^23-6] emana le direttive relative agli investimenti;
+- n.[^23-8] emana le direttive relative agli investimenti;
 - o. nomina l’Ufficio;
 - p. sceglie gli uffici di deposito e nomina i gestori patrimoniali;
-- q. sceglie i membri dei comitati;
-- r. vigila sull’operato dell’Ufficio e degli specialisti cui esso ha fatto capo;
-- s.[^23-7] fornisce all’Ufficio federale dell’energia (UFE) tutte le informazioni necessarie all’esercizio della vigilanza;
-- t.[^23-8] allestisce i rapporti e i conti annuali e sottopone i rapporti annuali al Consiglio federale per approvazione.
+- q.[^23-9] nomina i membri del comitato per gli investimenti e del comitato per il controllo dei costi;
+- q<sup>bis</sup>.[^23-10] nomina il membro del comitato della Commissione proposto dai proprietari (art. 21 cpv. 2 lett. b);
+- q<sup>ter</sup>.[^23-11] coinvolge specialisti all’occorrenza;
+- r.[^23-12] vigila sull’operato dell’Ufficio, del comitato della Commissione e dei comitati nonché dei gruppi di specialisti e dei gruppi di lavoro cui essa ha fatto capo;
+- s.[^23-13] fornisce all’Ufficio federale dell’energia (UFE) tutte le informazioni necessarie all’esercizio della vigilanza;
+- t.[^23-14] allestisce i rapporti e i conti annuali e sottopone i rapporti annuali al Consiglio federale per approvazione.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-2]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^23-3]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-4]: Nuovo termine giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^23-5]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-6]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-4]: Introdotta dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-5]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-6]: Nuovo termine giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^23-7]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-8]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-8]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-9]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-10]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-11]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-12]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-13]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-14]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+
+#### Art. 23a
+
+**Compiti del comitato della Commissione e dei comitati**[^23a-1]
+
+<sup>1</sup> Il comitato della Commissione e i comitati elaborano basi decisionali per la Commissione.
+
+<sup>2</sup> Il comitato della Commissione gestisce in particolare gli affari correnti su mandato della Commissione e ne prepara le decisioni.
+
+<sup>3</sup> Il comitato per gli investimenti è competente in particolare per la sorveglianza sull’amministrazione del patrimonio e l’elaborazione e attuazione della strategia d’investimento.
+
+<sup>4</sup> Il comitato per il controllo dei costi è competente in particolare per l’allestimento dello studio sui costi e la sua verifica.
+
+[^23a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 24
 
@@ -667,14 +752,14 @@ Il Consiglio federale ha le seguenti competenze:
 Il DATEC ha le seguenti competenze:
 
 - a. emana un regolamento sull’organizzazione dei Fondi, i principi e gli obiettivi degli investimenti patrimoniali nonché le relative condizioni;
-- b. stabilisce nel caso specifico le prescrizioni per allestire lo studio sui costi;
-- c. stabilisce nel caso specifico il prevedibile ammontare dei costi di disattivazione e di smaltimento;
-- d.[^29a-2] su proposta della Commissione, definisce il profilo dei requisiti per i membri della Commissione, i presidenti del comitato per gli investimenti e del comitato per il controllo dei costi e per i rispettivi membri.
+- b. e c.[^29a-2] ...
+- d.[^29a-3] su proposta della Commissione, definisce il profilo dei requisiti per i membri della Commissione, i presidenti del comitato per gli investimenti e del comitato per il controllo dei costi e per i rispettivi membri, nonché per il membro di cui all’articolo 23 lettera q<sup>bis</sup>.
 
 <sup>3</sup> L’UFE è competente per la preparazione e l’esecuzione delle decisioni del Consiglio federale e del DATEC.
 
 [^29a-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^29a-2]: Introdotta dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^29a-2]: Abrogate dal n. I dell’O del 24 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^29a-3]: Introdotta dal n. I dell’O del 6 nov. 2019 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 30
 
@@ -737,11 +822,11 @@ La presente ordinanza entra in vigore il 1° febbraio 2008.
 
 Allegato 1*[^t-1]*
 
-(art. 8*a* cpv. 3)
+(art. 8*a* cpv. 3 e 19 cpv. 1<sup>bis</sup>)
 
 ## Reddito del capitale e tasso di rincaro
 
-[^t-1]: Introdotto dal n. II dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. II cpv. 1 dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^t-1]: Introdotto dal n. II dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. II cpv. 1 dell’O del 6 nov. 2019 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 Per il calcolo dei contributi secondo l’articolo 8a capoversi 1 e 2 si suppone:
 
@@ -761,7 +846,7 @@ Nella presente ordinanza:
 - 1 Il termine *valore attuale* indica il valore al momento attuale di un importo di denaro atteso in futuro.
 - 1\.1 Il valore attuale si ottiene scontando l’importo futuro con il tasso d’interesse sul capitale, secondo la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20200101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/it/xml/image/image1.png)
 
 - PV: valore attuale
 - C<sub>t</sub>: importo al momento t

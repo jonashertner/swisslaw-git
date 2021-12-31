@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 2007 über den Stilllegungsfonds und den Ents
 short: SEFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/64"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-12-07
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2008-64-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-64-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20200101/de"
 
 (Stilllegungs- und Entsorgungsfondsverordnung, SEFV)
 
-vom 7. Dezember 2007 (Stand am 1. Januar 2020)
+vom 7. Dezember 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -93,11 +93,18 @@ Zu den Entsorgungskosten gehören namentlich die Kosten für:
 
 <sup>4</sup> Die Kostenstudie wird in Bezug auf die für die Sicherheit relevanten Aspekte vom Eidgenössischen Nuklearsicherheitsinspektorat (ENSI) und in Bezug auf die Kostenberechnung von unabhängigen Fachleuten überprüft. Diese prüfen insbesondere, ob die Kosten und die Zuschläge realistisch eingeschätzt werden.[^4-3]
 
-<sup>5</sup> Die Kommission stellt gestützt auf die Kostenstudien und die Überprüfung nach Absatz 4 dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) Antrag auf Festlegung der voraussichtlichen Höhe der Stilllegungs- und Entsorgungskosten für jede Kernanlage.
+<sup>4bis</sup> Das Kostenkomitee erstellt aufgrund der Überprüfung nach Absatz 4 einen zusammenfassenden Prüfbericht zuhanden der Kommission. Es beantragt darin die Festlegung der voraussichtlichen Höhe der Stilllegungs- und Entsorgungskosten.[^4-4]
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+<sup>4ter</sup> Die Kommission ersucht das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK), innerhalb von drei Monaten zu den Kostenstudien und zum Prüfbericht Stellung zu nehmen.[^4-5]
+
+<sup>5</sup> Die Kommission legt gestützt auf die Kostenstudien, die Überprüfung nach Absatz 4 und den Prüfbericht sowie in Kenntnis der Stellungnahme des UVEK die voraussichtliche Höhe der Stilllegungs- und Entsorgungskosten für jede Kernanlage fest.[^4-6]
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 (AS **20****15** 4043).
 [^4-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-5]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 4a
 
@@ -117,7 +124,7 @@ Zu den Entsorgungskosten gehören namentlich die Kosten für:
 
 Als Verwaltungskosten gelten insbesondere:
 
-- a.[^5-1] die Taggelder und Entschädigungen für die Mitglieder der Kommission sowie der Ausschüsse und Fachgruppen;
+- a.[^5-1] die Taggelder und Entschädigungen für die Mitglieder der Kommission, des Kommissionsausschusses und der Komitees sowie der Fach- und Arbeitsgruppen;
 - b.[^5-2] die Kosten der Geschäfts- und der Revisionsstelle;
 - c. die Entschädigung beigezogener Fachleute;
 - d. die Aufwendungen des Bundes für Aufsichtstätigkeiten über den Stilllegungs- und den Entsorgungsfonds;
@@ -127,7 +134,7 @@ Als Verwaltungskosten gelten insbesondere:
 
 <sup>2</sup> Nicht als Verwaltungskosten gelten die Kosten für die Vermögensbewirtschaftung.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 ## 3. Abschnitt: Beitragspflicht und Festlegung der Beiträge
@@ -175,11 +182,13 @@ Unter endgültiger Ausserbetriebnahme ist zu verstehen:
 - a. bei einem Kernkraftwerk: die endgültige Einstellung des Leistungsbetriebs;
 - b. bei einer anderen Kernanlage: die endgültige Einstellung des Betriebs.
 
-<sup>3</sup> Als Berechnungsgrundlage wird für die Kernkraftwerke eine Betriebsdauer von 50 Jahren angenommen. Kann ein Kernkraftwerk länger betrieben werden, so passt das UVEK die Berechnungsgrundlage an.
+<sup>3</sup> Als Berechnungsgrundlage wird für die Kernkraftwerke eine Betriebsdauer von 50 Jahren angenommen. Die Kommission kann die Berechnungsgrundlage gestützt auf die Stellungnahme des ENSI zum Sicherheitsnachweis für den Langzeitbetrieb nach den Artikeln 34 Absatz 4 und 34*a* der Kernenergieverordnung vom 10. Dezember 2004[^8-2] anpassen.[^8-3]
 
 <sup>4</sup> Die für die Entsorgungsanlagen anzunehmende Betriebsdauer ist im Entsorgungsprogramm festzulegen.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^8-2]: [SR 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
+[^8-3]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 8a
 
@@ -356,12 +365,13 @@ Vom angesammelten Kapital werden abgezogen:
 
 Die Kommission legt jeweils den Kreditrahmen für die Auszahlung von Fondsmitteln für die nachfolgende fünfjährige Veranlagungsperiode nach Artikel 9 Absatz 1 fest. Dafür stützt sie sich auf:
 
-- a. die vom UVEK festgelegte voraussichtliche Höhe der Stilllegungs- und Entsorgungskosten;
+- a.[^14-2] die von ihr festgelegte voraussichtliche Höhe der Stilllegungs- und Entsorgungskosten;
 - b. die Kostenstudie.
 
 <sup>2</sup> Sie kann den zuvor festgelegten Kreditrahmen in Ausnahmefällen anpassen.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 14a
 
@@ -452,7 +462,11 @@ Grundlage für die Berechnung der Kosten, der Beiträge und der Ansprüche ist d
 
 <sup>1</sup> Die Eigentümer unterbreiten der Kommission für die Entsorgungskosten, die vor der endgültigen Ausserbetriebnahme der Kernkraftwerke anfallen, den Rückstellungsplan zur Genehmigung.
 
+<sup>1bis</sup> Sie berechnen den Rückstellungsplan sinngemäss mit dem finanzmathematischen Modell zur Berechnung der Beiträge unter Berücksichtigung der Parameter nach Anhang 1.[^19-1]
+
 <sup>2</sup> Sie legen der Kommission zudem den Prüfbericht der Revisionsstelle über die Einhaltung der Rückstellungspläne und die zweckgebundene Verwendung von Rückstellungen vor.
+
+[^19-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 ## 8. Abschnitt: Organisation
 
@@ -460,131 +474,202 @@ Grundlage für die Berechnung der Kosten, der Beiträge und der Ansprüche ist d
 
 **Organe**[^20-1]
 
-<sup>1</sup>
-
 Die Organe der Fonds sind:
 
 - a. die Kommission;
-- b. die Geschäftsstelle;
-- c. die Revisionsstelle.
+- b. der Kommissionsausschuss;
+- c. das Anlagekomitee;
+- d. das Kostenkomitee;
+- e. die Geschäftsstelle;
+- f. die Revisionsstelle.
 
-<sup>2</sup> Die Mitglieder der Kommission und die Revisionsstelle werden vom Bundesrat jeweils für eine Amtsdauer von vier Jahren gewählt. Die Amtsdauer richtet sich nach der Legislaturperiode des Nationalrats. Sie beginnt am 1. Januar und endet am 31. Dezember.
+[^20-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
-<sup>3</sup> Das Mandat von Kommissionsmitgliedern oder der Revisionsstelle, die während der Amtsdauer gewählt werden, endet mit deren Ablauf.
+#### Art. 20a
 
-<sup>4</sup> Für Kommissionsmitglieder gilt sinngemäss die Amtszeitbeschränkung nach Artikel 8*i* der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^20-2] (RVOV).
+**Wahl und Amtsdauer**[^20a-1]
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^20-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+<sup>1</sup> Die Mitglieder der Kommission und die Revisionsstelle werden vom Bundesrat gewählt.
+
+<sup>2</sup> Die Mitglieder der Komitees und die Geschäftsstelle werden von der Kommission gewählt.
+
+<sup>3</sup> Die Amtsdauer beträgt jeweils vier Jahre und richtet sich nach der Legislaturperiode des Nationalrats. Sie beginnt am 1. Januar und endet am 31. Dezember.
+
+<sup>4</sup> Das Mandat von Mitgliedern der Kommission und der Komitees sowie der Geschäftsstelle und der Revisionsstelle, die während der Amtsdauer gewählt werden, endet mit deren Ablauf.
+
+<sup>5</sup> Für Mitglieder der Kommission und der Komitees gilt sinngemäss die Amtszeitbeschränkung nach Artikel 8*i* der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^20a-2] (RVOV).
+
+[^20a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20a-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 20b
+
+**Vertretung in der Kommission und in den Komitees**[^20b-1]
+
+<sup>1</sup> Die Eigentümer haben Anspruch auf eine angemessene Vertretung, höchstens aber auf einen Drittel der Sitze in der Kommission und in den Komitees.
+
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter des UVEK, des ENSI und von Unternehmen, die im Auftrag des Stilllegungs- und des Entsorgungsfonds bei der Prüfung der Kostenstudien mitgewirkt haben, sind nicht als Mitglieder der Kommission oder der Komitees wählbar.
+
+<sup>3</sup> Für die Vertretung der Geschlechter und der Sprachregionen in der Kommission und in den Komitees gelten die Artikel 8*c* Absatz 1 und 8*c*<sup>bis</sup> Absatz 1 RVOV[^20b-2] sinngemäss. Von diesen Vorgaben kann aus Gründen der Qualifikation ausnahmsweise abgewichen werden.
+
+[^20b-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20b-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 21
 
-**Kommission**[^21-1]
+**Grösse und Zusammensetzung der Kommission, des Kommissionsausschusses und der Komitees**[^21-1]
 
-<sup>1</sup> Der Kommission gehören höchstens elf Mitglieder an.
+<sup>1</sup> Die Kommission hat höchstens zehn Mitglieder.
 
-<sup>2</sup> Die Eigentümer haben Anspruch auf eine angemessene Vertretung, höchstens aber auf einen Drittel der Kommissionssitze.
+<sup>2</sup>
 
-<sup>3</sup> Mitarbeiterinnen und Mitarbeiter des UVEK, des ENSI und von Unternehmen, die im Auftrag des Stilllegungs- und des Entsorgungsfonds bei der Prüfung der Kostenstudien mitgewirkt haben, sind nicht als Mitglieder der Kommission oder der Ausschüsse wählbar.
+Der Kommissionsausschuss hat vier Mitglieder und setzt sich zusammen aus:
 
-<sup>4</sup> Für die Vertretung der Geschlechter und der Sprachregionen gelten die Artikel 8*c* Absatz 1 und 8*c*<sup>bis</sup> Absatz 1 RVOV[^21-2] sinngemäss. Von diesen Vorgaben kann aus Gründen der Qualifikation ausnahmsweise abgewichen werden.
+- a. der Präsidentin oder dem Präsidenten der Kommission;
+- b. einem Kommissionsmitglied, das von den Eigentümern vorgeschlagen wird; und
+- c. den Vorsitzenden des Anlage- und des Kostenkomitees.
 
-<sup>5</sup> Die Kommission kann Fachleute beiziehen.
+<sup>3</sup> Das Anlage- und das Kostenkomitee haben jeweils 8–12 Mitglieder. Beide Komitees setzen sich zusammen aus Kommissionsmitgliedern und weiteren von der Kommission gewählten Fachleuten.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
-[^21-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+<sup>4</sup> Das Präsidium und das Vizepräsidium der Kommission sowie den Vorsitz des Kommissionaussschusses und der Komitees führt jeweils ein unabhängiges Kommissionsmitglied (Art. 21*a* Abs. 1).
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 21a
 
 **Unabhängigkeit**[^21a-1]
 
-<sup>1</sup> Kommissionsmitglieder, die nicht die Eigentümer vertreten, dürfen zu den Eigentümern in keiner Beziehung stehen, die den Anschein der Voreingenommenheit erwecken kann.
+<sup>1</sup> Mitglieder der Kommission, des Kommissionsausschusses und der Komitees, die nicht die Eigentümer vertreten (unabhängige Mitglieder), dürfen zu den Eigentümern in keiner Beziehung stehen, die den Anschein der Voreingenommenheit erwecken kann.[^21a-2]
 
 <sup>2</sup> Will ein solches Mitglied eine Tätigkeit aufnehmen, die mit seiner Unabhängigkeit unvereinbar sein könnte, so holt es vorgängig die Empfehlung der Kommission ein. In Zweifelsfällen ersucht die Kommission das UVEK um eine Beurteilung.
 
 [^21a-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^21a-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 21b
 
 **Verschwiegenheit**[^21b-1]
 
-<sup>1</sup> Die Beratungen der Kommission sowie ihrer Ausschüsse und Fachgruppen sind nicht öffentlich. Die Beratungen und Unterlagen sind vertraulich, soweit die öffentlichen Interessen an deren Geheimhaltung überwiegen.
+<sup>1</sup> Die Beratungen der Kommission, des Kommissionsausschusses, der Komitees sowie der Fach- und Arbeitsgruppen finden unter Ausschluss der Öffentlichkeit statt.
 
-<sup>2</sup> Die Kommissionsmitglieder und die übrigen an Sitzungen teilnehmenden Personen unterstehen den für die Angestellten des Bundes geltenden Vorschriften über die Amtsverschwiegenheit und die Zeugnispflicht.
+<sup>2</sup> Die Mitglieder der Kommission, des Kommissionsausschusses und der Komitees sowie die übrigen an Sitzungen teilnehmenden Personen unterstehen den für die Angestellten des Bundes geltenden Vorschriften über die Amtsverschwiegenheit und die Zeugnispflicht.
 
 <sup>3</sup> Zuständige Behörde nach Artikel 320 Ziffer 2 des Strafgesetzbuches[^21b-2] ist das UVEK.
 
-<sup>4</sup> Die Pflicht zur Verschwiegenheit bleibt auch für ausgeschiedene Kommissionsmitglieder bestehen.
+<sup>4</sup> Die Pflicht zur Verschwiegenheit bleibt auch für ausgeschiedene Mitglieder bestehen.
 
-[^21b-1]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^21b-1]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^21b-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 21c
 
-**Entschädigung der Kommissionsmitglieder**[^21c-1]
+**Entschädigung**[^21c-1]
 
-<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, richtet sich die Entschädigung sinngemäss nach den Artikeln 8*l*–8*t* RVOV[^21c-2] für marktorientierte Kommissionen der Kategorie M2/A. Bei Teilzeitpensen legt das UVEK den Beschäftigungsgrad fest.
+<sup>1</sup> Soweit diese Verordnung nichts anderes bestimmt, richtet sich die Entschädigung der Mitglieder der Kommission, des Kommissionsausschusses und der Komitees sinngemäss nach den Artikeln 8*l*–8*t* RVOV[^21c-2] für marktorientierte Kommissionen der Kategorie M2/A. Bei Teilzeitpensen legt das UVEK den Beschäftigungsgrad fest.
 
-<sup>2</sup> Für Vorsitzende von Ausschüssen gelten die Ansätze für eine Präsidentin oder einen Präsidenten.
+<sup>2</sup> Für die Vorsitzenden des Kommissionsausschusses und der Komitees gelten die Ansätze für eine Präsidentin oder einen Präsidenten.
 
 <sup>3</sup> Für unabhängige Mitglieder kann das UVEK die Ansätze höchstens um 50 Prozent erhöhen.
 
-[^21c-1]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^21c-1]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^21c-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+
+#### Art. 21d
+
+**Ausstandsgründe**[^21d-1]
+
+<sup>1</sup> Die unabhängigen Mitglieder der Kommission, des Kommissionsausschusses und der Komitees treten in den Ausstand, wenn ein Interessenkonflikt im Zusammenhang mit ihrer Person oder ihren Arbeit- beziehungsweise Auftraggebern besteht.
+
+<sup>2</sup>
+
+Die Mitglieder der Kommission, des Kommissionsausschusses und der Komitees, welche die Eigentümer vertreten, treten in den Ausstand, wenn ein Interessenkonflikt besteht:
+
+- a. bei Rechtsstreitigkeiten mit Beteiligung der vertretenen Eigentümer und dem Stilllegungs- oder dem Entsorgungsfonds; oder
+- b. im Zusammenhang mit ihrer Person.
+
+[^21d-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 22
 
-**Ausschüsse und Fachgruppen[^22-1]**
+**Fach- und Arbeitsgruppen**[^22-1]
 
-<sup>1</sup> Die Kommission kann aus Kommissionsmitgliedern und beigezogenen Fachleuten zusammengesetzte Ausschüsse und Fachgruppen bilden.[^22-2]
+<sup>1</sup> Die Kommission kann Fach- und Arbeitsgruppen bilden, die sich aus Kommissionsmitgliedern, Komiteemitgliedern und beigezogenen Fachleuten zusammensetzen.
 
-<sup>1bis</sup> Die Eigentümer haben Anspruch auf eine angemessene Vertretung, höchstens aber auf einen Drittel der Sitze im jeweiligen Ausschuss oder der jeweiligen Fachgruppe.[^22-3]
+<sup>2</sup> Die Eigentümer haben Anspruch auf eine angemessene Vertretung, höchstens aber auf einen Drittel der Sitze in der jeweiligen Fach- und Arbeitsgruppe.
 
-<sup>2</sup> Den Vorsitz der Ausschüsse führt ein Kommissionsmitglied.
+<sup>3</sup> Den Vorsitz der Fach- und Arbeitsgruppen führt jeweils ein unabhängiges Kommissionsmitglied.
 
-<sup>3</sup> Die Ausschüsse und Fachgruppen erarbeiten Entscheidungsunterlagen für die Kommission.
+<sup>4</sup> Die Fach- und Arbeitsgruppen erarbeiten Entscheidungsgrundlagen für die Kommission.
 
-[^22-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^22-2]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^22-3]: Eingefügt durch Ziff. I der V vom 25. Juni 2014 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^22-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+
+#### Art. 22a
+
+**Gemeinsamer Auftrag**[^22a-1]
+
+Die Mitglieder der Kommission, des Kommissionsausschusses und der Komitees streben bei der Ausübung ihrer Tätigkeiten eine ausreichende Finanzierung des Stilllegungs- und des Entsorgungsfonds an.
+
+[^22a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 23
 
-**Aufgaben**
+**Aufgaben der Kommission[^23-1]**
 
 Die Kommission hat insbesondere folgende Aufgaben:
 
-- a.[^23-1] Sie beantragt dem UVEK die Vorgaben für die Erstellung der Kostenstudie.
-- a<sup>bis</sup>.[^23-2] Sie leitet und koordiniert die Überprüfung der Kostenstudie.
-- a<sup>ter</sup>.[^23-3] Sie beantragt dem UVEK die voraussichtliche Höhe der Stilllegungs- und Entsorgungskosten.
+- a.[^23-2] Sie legt die Vorgaben für die Erstellung der Kostenstudie im Einzelfall fest.
+- a<sup>bis</sup>.[^23-3] Sie leitet und koordiniert die Überprüfung der Kostenstudie.
+- a<sup>ter</sup>.[^23-4] Sie legt die voraussichtliche Höhe der Stilllegungs- und Entsorgungskosten im Einzelfall fest.
 - b. Sie legt das finanzmathematische Modell zur Berechnung der Beiträge, den Finanzplan und das Budget für die Stilllegungs- und Entsorgungskosten fest.
 - c. Sie legt die Beiträge der Eigentümer an die Fonds fest.
 - d. Sie beschliesst über die Annahme von Wertschriften, Versicherungsansprüchen und Garantien.
-- e. Sie beschliesst über Höhe und Zeitpunkt des Ausgleichs von Fehlbeträgen und Überschüssen.
+- e.[^23-5] Sie beschliesst über Höhe und Zeitpunkt des Ausgleichs von Fehlbeträgen.
 - f. Sie gewährt Vorschüsse der Fonds unter sich.
-- g. Sie beantragt dem UVEK[^23-4] zuhanden des Bundesrates Vorschüsse des Bundes.
+- g. Sie beantragt dem UVEK[^23-6] zuhanden des Bundesrates Vorschüsse des Bundes.
 - h. Sie stellt fest, dass ein Eigentümer seinen Verpflichtungen vollständig nachgekommen ist.
-- i.[^23-5] Sie genehmigt den Rückstellungsplan für die vor der endgültigen Ausserbetriebnahme der Kernkraftwerke anfallenden Entsorgungskosten.
+- i.[^23-7] Sie genehmigt den Rückstellungsplan für die vor der endgültigen Ausserbetriebnahme der Kernkraftwerke anfallenden Entsorgungskosten.
 - j. Sie prüft die angefallenen Stilllegungs-, Entsorgungs- und Verwaltungskosten und belastet sie den Fonds.
 - k. Sie bewilligt die Zahlung von Entsorgungskosten, die bisher nicht Teil der Kostenschätzung waren.
 - l. Sie beschliesst über Höhe und Zeitpunkt von Rückerstattungen gemäss Artikel 78 Absatz 2 des Kernenergiegesetzes vom 21. März 2003.
 - m. Sie legt das Fondsvermögen an.
-- n.[^23-6] Sie erlässt die Anlagerichtlinien.
+- n.[^23-8] Sie erlässt die Anlagerichtlinien.
 - o. Sie ernennt die Geschäftsstelle.
 - p. Sie bestimmt die Depotstellen und ernennt die Vermögensverwalter.
-- q. Sie wählt die Mitglieder der Ausschüsse.
-- r. Sie überwacht die Tätigkeiten der Geschäftsstelle und der von ihr eingesetzten Ausschüsse und Fachleute.
-- s.[^23-7] Sie erteilt dem Bundesamt für Energie (BFE) alle für den Vollzug der Aufsicht erforderlichen Auskünfte.
-- t.[^23-8] Sie erstellt die Jahresberichte und Jahresrechnungen und unterbreitet die Jahresberichte dem Bundesrat zur Genehmigung.
+- q.[^23-9] Sie wählt die Mitglieder des Anlage- und des Kostenkomitees.
+- q<sup>bis</sup>.[^23-10] Sie wählt das Mitglied des Kommissionsausschusses, das von den Eigentümern vorgeschlagen wird (Art. 21 Abs. 2 Bst. b).
+- q<sup>ter</sup>.[^23-11] Sie zieht bei Bedarf Fachleute bei.
+- r.[^23-12] Sie überwacht die Tätigkeiten der Geschäftsstelle, des Kommissionsausschusses und der von ihr eingesetzten Komitees sowie Fach- und Arbeitsgruppen.
+- s.[^23-13] Sie erteilt dem Bundesamt für Energie (BFE) alle für den Vollzug der Aufsicht erforderlichen Auskünfte.
+- t.[^23-14] Sie erstellt die Jahresberichte und Jahresrechnungen und unterbreitet die Jahresberichte dem Bundesrat zur Genehmigung.
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-2]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^23-3]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-4]: Ausdruck gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Die Änd. wurde im ganzen Erlass berücksichtigt.
-[^23-5]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-6]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-4]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-5]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-6]: Ausdruck gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Die Änd. wurde im ganzen Erlass berücksichtigt.
 [^23-7]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-8]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-8]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-9]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 (AS **2****021** 821).
+[^23-10]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-11]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-12]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-13]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-14]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+
+#### Art. 23a
+
+**Aufgaben des Kommissionsausschusses und der Komitees**[^23a-1]
+
+<sup>1</sup> Der Kommissionsausschuss und die Komitees erarbeiten Entscheidungsgrundlagen für die Kommission.
+
+<sup>2</sup> Der Kommissionsausschuss führt insbesondere die laufenden Geschäfte im Auftrag der Kommission und bereitet ihre Beschlüsse vor.
+
+<sup>3</sup> Das Anlagekomitee ist inbesondere zuständig für die Aufsicht über die Vermögensbewirtschaftung und für die Erarbeitung und Umsetzung der Anlagestrategie.
+
+<sup>4</sup> Das Kostenkomitee ist insbesondere zuständig für die Aufsicht über die Erstellung der Kostenstudie und für deren Überprüfung.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 24
 
@@ -667,14 +752,14 @@ Der Bundesrat hat folgende Zuständigkeiten:
 Das UVEK hat folgende Zuständigkeiten:
 
 - a. Es erlässt ein Reglement über die Organisation der Fonds, die Grundsätze und Ziele der Vermögensanlage sowie über den Anlagerahmen.
-- b. Es legt die Vorgaben für die Erstellung der Kostenstudie im Einzelfall fest.
-- c. Es legt die voraussichtliche Höhe der Stilllegungs- und Entsorgungskosten im Einzelfall fest.
-- d.[^29a-2] Es legt auf Vorschlag der Kommission das Anforderungsprofil für die Mitglieder der Kommission, die Vorsitzenden des Anlage- und des Kostenausschusses sowie für deren Mitglieder fest.
+- b. und c.[^29a-2] *...*
+- d.[^29a-3] Es legt auf Vorschlag der Kommission das Anforderungsprofil für die Mitglieder der Kommission, die Vorsitzenden des Anlage- und des Kostenkomitees und für deren Mitglieder sowie das Mitglied nach Artikel 23 Buchstabe q<sup>bis</sup> fest.
 
 <sup>3</sup> Das BFE ist zuständig für Vorbereitung und Vollzug der Entscheidungen des Bundesrats und des UVEK.
 
 [^29a-1]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^29a-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^29a-2]: Aufgehoben durch Ziff. I der V vom 24. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^29a-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 30
 
@@ -737,11 +822,11 @@ Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
 Anhang 1*[^t-1]*
 
-(Art. 8*a* Abs. 3)
+(Art. 8*a* Abs. 3 und 19 Abs. 1<sup>bis</sup>)
 
 ## Anlagerendite und Teuerungsrate
 
-[^t-1]: Eingefügt durch Ziff. II der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Fassung gemäss Ziff. II Abs. 1 der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^t-1]: Eingefügt durch Ziff. II der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Fassung gemäss Ziff. II Abs. 1 der V vom 6. Nov. 2019 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Bereinigt durch Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 Der Beitragsberechnung nach Artikel 8*a* Absätze 1 und 2 werden zugrunde gelegt:
 
@@ -762,7 +847,7 @@ In dieser Verordnung bedeuten:
 - 1 *Barwert:* der heutige Wert eines in der Zukunft erwarteten Geldbetrags.
 - 1\.1 Der Barwert wird durch Abzinsung des künftigen Geldbetrags mit einem Kapitalzinssatz nach der folgenden Formel ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20200101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/de/xml/image/image1.png)
 
 - PV: Barwert
 - C<sub>t</sub>: Geldbetrag im Zeitpunkt
@@ -772,7 +857,11 @@ In dieser Verordnung bedeuten:
 - 1\.2 Der Barwert der zukünftigen Kosten wird ermittelt, indem man für jedes zukünftige Kostenelement (= Geldbetrag C<sub>t</sub>) den Barwert gemäss der Formel nach Ziffer 1.1 ermittelt und diese einzelnen Barwerte anschliessend zu einem (Gesamt-)Barwert aufsummiert.
 - 2 *Ist-Wert:* der Wert eines Fondsanteils, der pro Kernanlage und Fonds per Bilanzstichtag ausgewiesen wird.
 - 3 …
-- 4 *Soll-Wert:*
-- 4\.1 vor der endgültigen Ausserbetriebnahme: der Wert per Bilanzstichtag, der basierend auf dem Soll-Wert am Ende der vorangehenden Veranlagungsperiode über die angenommene Restbetriebsdauer einer Kernanlage mittels konstanter jährlicher Beiträge (unter Berücksichtigung der Anlagerendite) bis zur Ausserbetriebnahme zum Zielwert führt;
-- 4\.2 nach der endgültigen Ausserbetriebnahme: der Barwert der zukünftigen Kosten nach aktueller Kostenstudie am Ende des jeweiligen Kalenderjahres bis zum Abschluss der Stilllegung- oder der Entsorgungsarbeiten, unter Einbezug von Anlagerendite und Teuerungsrate nach Anhang 1.
+- 4
+
+  *Soll-We**rt:*
+
+  - 4\.1 vor der endgültigen Ausserbetriebnahme: der Wert per Bilanzstichtag, der basierend auf dem Soll-Wert am Ende der vorangehenden Veranlagungsperiode über die angenommene Restbetriebsdauer einer Kernanlage mittels konstanter jährlicher Beiträge (unter Berücksichtigung der Anlagerendite) bis zur Ausserbetriebnahme zum Zielwert führt;
+  - 4\.2 nach der endgültigen Ausserbetriebnahme: der Barwert der zukünftigen Kosten nach aktueller Kostenstudie am Ende des jeweiligen Kalenderjahres bis zum Abschluss der Stilllegung- oder der Entsorgungsarbeiten, unter Einbezug von Anlagerendite und Teuerungsrate nach Anhang 1.
+
 - 5 *Zielwert:* der Wert, der im Zeitpunkt der endgültigen Ausserbetriebnahme einer Kernanlage erreicht sein muss.
