@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2021-11-04
+version: 2022-01-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211104/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211104-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211104/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211104/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)**[^t-1]**
 
-du 29 septembre 1995 (Etat le 4 novembre 2021)
+du 29 septembre 1995 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -27,7 +27,7 @@ vu les art. 33, 36, al. 1, 54, al. 2 à 4, 59*a*, 62, 65, al. 3, 65*b*, al. 3, 6
 
 arrête:
 
-[^ingress-1]: <sup>RS</sup> <sup>**832.1**</sup>**02**
+[^ingress-1]: <sup>RS 832.1</sup>**02**
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
 
 ## Titre 1 Prestations
@@ -145,7 +145,7 @@ Pour que, après 40 séances, l’assurance continue de prendre en charge les co
 
 #### Art. 4
 
-L’assurance prend en charge les analyses, les médicaments, les moyens et appareils diagnostiques ou thérapeutiques, les examens par imagerie ainsi que les prestations de physiothérapie, prescrits par les chiropraticiens, qui suivent:[^4-1]
+L’assurance prend en charge les prestations suivantes prescrites par les chiropraticiens admis conformément à l’art. 44 OAMal ou par les organisations de chiropraticiens admises conformément à l’art. 44*a* OAMal:[^4-1]
 
 - a.[^4-2] analyses: en application de l’art. 62, al. 1, let. b, OAMal, les analyses sont désignées séparément dans la liste des analyses;
 - b.[^4-3] médicaments:
@@ -160,15 +160,15 @@ L’assurance prend en charge les analyses, les médicaments, les moyens et appa
 
 - c.[^4-7]
 
-  moyens et appareils:
+  moyens et appareils diagnostiques ou thérapeutiques:[^4-8]
 
   - 1\. les produits du groupe 05. Bandages,
   - 2\. les produits du groupe 09.02.01 Appareils de neurostimulation transcutanée électriques (TENS),
   - 3\. les produits du groupe 16. Articles pour cryothérapie et/ou thermothérapie,
   - 4\. les produits du groupe 23. Orthèses,
-  - 5\.[^4-8] les produits du groupe 35. Matériel de pansements;
+  - 5\.[^4-9] les produits du groupe 35. Matériel de pansements;
 
-- d.[^4-9]
+- d.[^4-10]
 
   examens par imagerie:
 
@@ -178,18 +178,19 @@ L’assurance prend en charge les analyses, les médicaments, les moyens et appa
   - 4\. échographie de diagnostic,
   - 5\. scintigraphie osseuse en trois phases;
 
-- e.[^4-10] prestations de physiothérapie selon l’art. 5.
+- e.[^4-11] prestations de physiothérapie selon l’art. 5.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^4-4]: Nouvelle teneur selon l’annexe 6 ch. II 5 de l’O du 21 sept. 2018 sur les médicaments, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^4-7]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
-[^4-9]: Introduite par le ch. I de l’O du DFI du 10 juil. 2000 ([RO 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-10]: Introduite par le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
+[^4-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^4-9]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+[^4-10]: Introduite par le ch. I de l’O du DFI du 10 juil. 2000 ([RO 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
+[^4-11]: Introduite par le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
 
 ### Section 4**** Prestations fournies par les pharmaciens
 
@@ -243,7 +244,7 @@ L’assurance prend en charge les coûts des prestations des disciplines suivant
 
 <sup>1</sup>
 
-Les prestations suivantes des physiothérapeutes, au sens des art. 46 et 47 OAMal ou des organisations, au sens de l’art. 52*a* OAMal, sont prises en charge lorsqu’elles sont fournies sur prescription médicale et dans le cadre du traitement de maladies musculosquelettiques ou neurologiques ou des systèmes des organes internes et des vaisseaux, pour autant que la physiothérapie permette de les traiter:[^5-1]
+L’assurance prend en charge les prestations suivantes des physiothérapeutes admis conformément à l’art. 47 OAMal ou des organisations de physiothérapie admises conformément à l’art. 52 OAMal, lorsqu’elles sont fournies sur prescription médicale et dans le cadre du traitement de maladies musculosquelettiques ou neurologiques ou des systèmes des organes internes et des vaisseaux, pour autant que la physiothérapie permette de les traiter:[^5-1]
 
 - a. mesures relatives à l’examen et à l’évaluation physiothérapeutiques;
 - b.
@@ -257,9 +258,9 @@ Les prestations suivantes des physiothérapeutes, au sens des art. 46 et 47 OAMa
   - 5\. thérapie médicale d’entraînement,
   - 6\. physiothérapie lymphologique,
   - 7\. kinésithérapie dans l’eau,
-  - 8\. hippothérapie en cas de sclérose en plaques,
+  - 8\.[^5-2] hippothérapie en cas de sclérose en plaques, d’infirmité motrice cérébrale et de trisomie 21,
   - 9\. physiothérapie cardio-vasculaire,
-  - 10\.[^5-2] physiothérapie du plancher pelvien;
+  - 10\.[^5-3] physiothérapie du plancher pelvien;
 
 - c.
 
@@ -270,29 +271,30 @@ Les prestations suivantes des physiothérapeutes, au sens des art. 46 et 47 OAMa
   - 3\. luminothérapie (ultraviolets, infrarouges, rayons colorés),
   - 4\. ultrasons,
   - 5\. hydrothérapie,
-  - 6\. massages musculaires et des tissus conjonctifs.[^5-3]
+  - 6\. massages musculaires et des tissus conjonctifs.[^5-4]
 
-<sup>1bis</sup> Les mesures visées à l’al 1, let. b, ch. 1, 3 à 5, 7 et 9 peuvent être appliquées individuellement ou en groupes.[^5-4]
+<sup>1bis</sup> Les mesures visées à l’al 1, let. b, ch. 1, 3 à 5, 7 et 9 peuvent être appliquées individuellement ou en groupes.[^5-5]
 
-<sup>1ter</sup> La thérapie médicale d’entraînement débute par une introduction à l’entraînement pratiqué sur des appareils et se termine tout au plus dans les trois mois suivants. Elle est précédée d’un traitement physiothérapeutique individuel.[^5-5]
+<sup>1ter</sup> La thérapie médicale d’entraînement débute par une introduction à l’entraînement pratiqué sur des appareils et se termine tout au plus dans les trois mois suivants. Elle est précédée d’un traitement physiothérapeutique individuel.[^5-6]
 
-<sup>2</sup> L’assurance prend en charge, par prescription médicale, au plus les coûts de neuf séances, le premier traitement devant intervenir dans les cinq semaines qui suivent la prescription médicale.[^5-6]
+<sup>2</sup> L’assurance prend en charge, par prescription médicale, au plus les coûts de neuf séances, le premier traitement devant intervenir dans les cinq semaines qui suivent la prescription médicale.[^5-7]
 
 <sup>3</sup> Une nouvelle prescription médicale est nécessaire pour la prise en charge d’un plus grand nombre de séances.
 
-<sup>4</sup> Pour que, après un traitement équivalent à 36 séances, celui-ci continue à être pris en charge, le médecin traitant doit adresser un rapport au médecin-conseil de l’assureur et lui remettre une proposition dûment motivée. Le médecin-conseil propose de poursuivre ou non la thérapie aux frais de l’assurance, en indiquant dans quelle mesure et à quel moment le prochain rapport doit être présenté.[^5-7]
+<sup>4</sup> Pour que, après un traitement équivalent à 36 séances, celui-ci continue à être pris en charge, le médecin traitant doit adresser un rapport au médecin-conseil de l’assureur et lui remettre une proposition dûment motivée. Le médecin-conseil propose de poursuivre ou non la thérapie aux frais de l’assurance, en indiquant dans quelle mesure et à quel moment le prochain rapport doit être présenté.[^5-8]
 
-<sup>5</sup> Pour les assurés qui ont droit jusqu’au jour où ils atteignent l’âge de 20 ans aux prestations prévues à l’art. 13 de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^5-8], la prise en charge des coûts en cas de poursuite d’une physiothérapie déjà commencée s’effectue, après cette date, conformément à l’al. 4.[^5-9]
+<sup>5</sup> Pour les assurés qui ont droit jusqu’au jour où ils atteignent l’âge de 20 ans aux prestations prévues à l’art. 13 de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^5-9], la prise en charge des coûts en cas de poursuite d’une physiothérapie déjà commencée s’effectue, après cette date, conformément à l’al. 4.[^5-10]
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^5-4]: Introduit par le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^5-5]: Introduit par le ch. I de l’O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
-[^5-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^5-7]: Introduit par le ch. I de l’O du DFI du 9 déc. 2002 ([RO 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)).
-[^5-8]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^5-9]: Introduit par le ch. I de l’O du DFI du 10 déc. 2008 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-5]: Introduit par le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-6]: Introduit par le ch. I de l’O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+[^5-7]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-8]: Introduit par le ch. I de l’O du DFI du 9 déc. 2002 ([RO 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)).
+[^5-9]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^5-10]: Introduit par le ch. I de l’O du DFI du 10 déc. 2008 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
 
 ### Section 2 Ergothérapie
 
@@ -300,24 +302,25 @@ Les prestations suivantes des physiothérapeutes, au sens des art. 46 et 47 OAMa
 
 <sup>1</sup>
 
-Les prestations fournies, sur prescription médicale, par les ergothérapeutes et les organisations d’ergothérapie, au sens des art. 46, 48 et 52 OAMal, sont prises en charge dans la mesure où:
+L’assurance prend en charge les prestations fournies, sur prescription médicale, par les ergothérapeutes admis conformément à l’art. 48 OAMal ou les organisations d’ergothérapie admises conformément à l’art. 52*a* OAMal, dans la mesure où:[^6-1]
 
 - a. elles procurent à l’assuré, en cas d’affections somatiques, grâce à une amélioration des fonctions corporelles, l’autonomie dans l’accomplissement des actes ordinaires de la vie, ou
-- b.[^6-1] elles sont effectuées dans le cadre d’un traitement psychiatrique.
+- b.[^6-2] elles sont effectuées dans le cadre d’un traitement psychiatrique.
 
-<sup>2</sup> L’assurance prend en charge, par prescription médicale, au plus les coûts de neuf séances, le premier traitement devant intervenir dans les huit semaines qui suivent la prescription médicale.[^6-2]
+<sup>2</sup> L’assurance prend en charge, par prescription médicale, au plus les coûts de neuf séances, le premier traitement devant intervenir dans les huit semaines qui suivent la prescription médicale.[^6-3]
 
 <sup>3</sup> Une nouvelle prescription médicale est nécessaire pour la prise en charge d’un plus grand nombre de séances.
 
-<sup>4</sup> Pour que, après un traitement équivalent à 36 séances, celui-ci continue à être pris en charge, le médecin traitant doit adresser un rapport au médecin-conseil de l’assureur et lui remettre une proposition dûment motivée. Le médecin-conseil propose de poursuivre ou non la thérapie aux frais de l’assurance, en indiquant dans quelle mesure et à quel moment le prochain rapport doit être présenté.[^6-3]
+<sup>4</sup> Pour que, après un traitement équivalent à 36 séances, celui-ci continue à être pris en charge, le médecin traitant doit adresser un rapport au médecin-conseil de l’assureur et lui remettre une proposition dûment motivée. Le médecin-conseil propose de poursuivre ou non la thérapie aux frais de l’assurance, en indiquant dans quelle mesure et à quel moment le prochain rapport doit être présenté.[^6-4]
 
-<sup>5</sup> Pour les assurés qui ont droit jusqu’au jour où ils atteignent l’âge de 20 ans aux prestations prévues à l’art. 13 de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^6-4], la prise en charge des coûts en cas de poursuite d’une ergothérapie déjà commencée s’effectue, après cette date, conformément à l’al. 4.[^6-5]
+<sup>5</sup> Pour les assurés qui ont droit jusqu’au jour où ils atteignent l’âge de 20 ans aux prestations prévues à l’art. 13 de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^6-5], la prise en charge des coûts en cas de poursuite d’une ergothérapie déjà commencée s’effectue, après cette date, conformément à l’al. 4.[^6-6]
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^6-3]: Introduit par le ch. I de l’O du DFI du 9 déc. 2002 ([RO 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)).
-[^6-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^6-5]: Introduit par le ch. I de l’O du DFI du 10 déc. 2008 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^6-4]: Introduit par le ch. I de l’O du DFI du 9 déc. 2002 ([RO 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Nouvelle teneur selon le ch. I de l’O du DFI du 10 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)).
+[^6-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^6-6]: Introduit par le ch. I de l’O du DFI du 10 déc. 2008 ([RO 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
 
 ### Section 3 Soins ambulatoires ou dispensés dans un établissement médico-social****
 
@@ -555,7 +558,7 @@ La procédure de contrôle sert à vérifier le bien-fondé de l’évaluation d
 
 <sup>1</sup>
 
-Les diététiciens et les organisations de diététique, au sens des art. 46, 50*a* et 52*b* OAMal, prodiguent, sur prescription ou sur mandat médical, des conseils diététiques aux assurés qui souffrent des maladies suivantes:[^9b-2]
+Les diététiciens admis conformément à l’art. 50*a* OAMal et les organisations de diététique admises conformément à l’art. 52*c* OAMal prodiguent, sur prescription ou sur mandat médical, des conseils diététiques aux assurés qui souffrent des maladies suivantes:[^9b-2]
 
 - a.[^9b-3] troubles du métabolisme;
 - b.[^9b-4] obésité (indice de masse corporelle de plus de 30) et affections qui découlent de la surcharge pondérale ou qui y sont associées;
@@ -571,7 +574,7 @@ Les diététiciens et les organisations de diététique, au sens des art. 46, 50
 <sup>3</sup> Si les conseils nutritionnels doivent être poursuivis aux frais de l’assurance après douze séances, le médecin traitant en réfère au médecin-conseil; il lui transmet une proposition dûment motivée concernant la poursuite des conseils nutritionnels. Le médecin-conseil propose à l’assureur de poursuivre ou non les séances de conseils nutritionnels aux frais de l’assurance, en indiquant dans quelle mesure.
 
 [^9b-1]: Anciennement art. 9*a.*
-[^9b-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5829](https://fedlex.data.admin.ch/eli/oc/2012/681)).
+[^9b-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^9b-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
 [^9b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
 [^9b-5]: Introduite par le ch. I de l’O du DFI du 6 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
@@ -605,12 +608,13 @@ L’assurance prend en charge le coût des conseils aux diabétiques qui sont pr
 
 **Principe**[^10-1]
 
-Les logopédistes-orthophonistes et les organisations de logopédistes-orthophonistes traitent, sur prescription médicale, les patients souffrant de troubles du langage, de la parole, de la voix, du débit et de la déglutition ayant une des causes suivantes:
+Les logopédistes-orthophonistes admis conformément à l’art. 50 OAMal et les organisations de logopédistes-orthophonistes admises conformément à l’art. 52*b* OAMal traitent, sur prescription médicale, les patients souffrant de troubles du langage, de la parole, de la voix, du débit et de la déglutition ayant une des causes suivantes:[^10-2]
 
 - a. affections neurologiques par infection, par traumatisme, par intoxication, par tumeur, par troubles vasculaires, par hypoxie, par troubles dégénératifs ou comme séquelle post-opératoire;
 - b. affections phoniatriques, en particulier malformation partielle ou totale des lèvres, de la langue, du palais, de la mâchoire ou du larynxet altération de la musculature oro-faciale ou de la fonction du larynx d’origine infectieuse, traumatique, tumorale, fonctionnelle ou comme séquelle post-opératoire.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 fév. 2020, en vigueur depuis le 1<sup>er</sup> avril 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 
 #### Art. 11
 
@@ -637,9 +641,63 @@ Les logopédistes-orthophonistes et les organisations de logopédistes-orthophon
 
 #### Art. 11a
 
-<sup>1</sup> L’assurance prend en charge les coûts des prestations diagnostiques fournies sur prescription médicale par des neuropsychologues au sens de l’art. 50*b* OAMal.
+<sup>1</sup> L’assurance prend en charge les coûts des prestations diagnostiques fournies sur prescription médicale par des neuropsychologues admis conformément à l’art. 50*b* OAMal ou par des organisations de neuropsychologues admises conformément à l’art. 52*d* OAMal.[^11a-1]
 
 <sup>2</sup> Elle prend en charge, par prescription médicale, au plus les coûts de six séances. Deux prescriptions médicales au maximum sont possibles par année et par patient.
+
+[^11a-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
+### Section 6 ...
+
+#### Art. 11b
+
+[^11b-1]
+
+[^11b-1]: Entre en vigueur le 1<sup>er</sup> juil. 2022 ([RO 2021 189](https://fedlex.data.admin.ch/eli/oc/2021/189), [440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
+### Section 7**** Podologie
+
+[^tit1-chap2-sec7-1]
+
+[^tit1-chap2-sec7-1]: Introduite par le ch. I de l’O du DFI du 25 mai 2021 ([RO 2021 324](https://fedlex.data.admin.ch/eli/oc/2021/324)). Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
+#### Art. 11c
+
+<sup>1</sup>
+
+L’assurance prend en charge les coûts des prestations fournies sur prescription médicale par des podologues admis conformément à l’art. 50*d* OAMal ou par des organisations de podologie admises conformément à l’art. 52*f* OAMal, si les conditions suivantes sont réunies:
+
+- a.
+
+  les prestations sont fournies à des personnes affectées de diabète sucré qui présentent un des facteurs de risque suivants de développer un syndrome du pied diabétique:
+
+  - 1\. polyneuropathie, avec ou sans maladie artérielle occlusive périphérique (MAOP),
+  - 2\. ulcère diabétique préalable,
+  - 3\. amputation effectuée en raison du diabète sucré avec ou sans neuropathie ou angiopathie;
+
+- b.
+
+  les prestations fournies sont les suivantes:
+
+  - 1\. contrôle du pied, de la peau et des ongles,
+  - 2\. mesures protectrices, notamment élimination atraumatique des parties calleuses et soin atraumatique des ongles,
+  - 3\. conseils et instructions au patient concernant les soins des pieds, des ongles et de la peau et concernant le choix des chaussures et des aides orthopédiques,
+  - 4\. examen de l’adaptation de la chaussure.
+
+<sup>2</sup>
+
+Elle prend en charge les coûts pour le nombre maximum suivant de séances par année civile:
+
+- a.
+
+  pour les personnes affectées de diabète sucré présentant une polyneuropathie:
+
+  - 1\. sans MAOP: 4 séances,
+  - 2\. avec MAOP: 6 séances;
+
+- b. pour les personnes souffrant de diabète sucré qui ont fait un ulcère diabétique ou ont subi une amputation en raison du diabète sucré: 6 séances.
+
+<sup>3</sup> Une nouvelle prescription médicale est nécessaire pour la prise en charge des soins podologiques médicaux après la fin d’une année civile.
 
 ### Chapitre 3 Mesures de prévention
 
@@ -678,8 +736,9 @@ L’assurance prend en charge les coûts des vaccinations prophylactiques suivan
 <tr><td>j. Vaccination contre la varicelle</td><td colspan="2">Selon le Plan de vaccination 2021.</td></tr>
 <tr><td>k. Vaccination contre les papillomavirus humain (HPV)</td><td colspan="2">1. Selon le Plan de vaccination 2021: a. vaccination de base des filles à partir de 11 ans jusqu’au jour où elles atteignent l’âge de 15 ans; b. vaccination des filles à partir de 15 ans et des jeunes femmes jusqu’au jour où elles atteignent l’âge de 27 ans; c. vaccination complémentaire pour les garçons à partir de 11 ans et les jeunes hommes jusqu’au jour où ils atteignent l’âge de 27 ans. 2. Vaccination dans le cadre de programmes cantonaux de vaccination qui doivent satisfaire aux exigences minimales suivantes: a. l’information des groupes cibles et de leurs parents ou représentants légaux sur la disponibilité des vaccins et les recommandations de l’OFSP et de la CFV visées au ch. 1 est assurée; b. la vaccination complète est visée; c. les prestations et les obligations des responsables du programme, des médecins chargés de la vaccination et des assureurs-maladie sont définies; d. la collecte des données, le décompte, les flux d’information et les flux financiers sont réglés. 3. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris). 4. La prise en charge du vaccin nonavalent est en cours d’évaluation jusqu’au 31 décembre 2022.</td></tr>
 <tr><td>l. Vaccination contre l’hépatite A</td><td colspan="2">Selon le Plan de vaccination 2021. Pour les personnes suivantes: – pour les patients atteints d’une affection chronique du foie; – pour les enfants en provenance de pays à forte ou moyenne endémie qui vivent en Suisse et retournent dans leur pays d’origine pour un séjour temporaire; – pour les consommateurs de drogue par injection; – pour les hommes ayant des relations sexuelles avec d’autres hommes en dehors d’une relation stable. Vaccination post-expositionnelle dans les sept jours suivant l’exposition. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>m. Vaccination contre la rage</td><td colspan="2">Vaccination post-expositionnelle, après une morsure par un animal enragé ou susceptible de l’être. En cas d’indication professionnelle la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>n.[^12a-6] Vaccination contre le COVID-19</td><td colspan="2">1. Immunisation de base en cas d’épidémie de COVID-19, pour les personnes particulièrement menacées. 2. Vaccination de rappel en cas d’épidémie de COVID-19, pour les personnes particulièrement menacées. En évaluation. Aucune franchise n’est prélevée pour les prestations énumérées aux ch. 1 et 2. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
+<tr><td>m.[^12a-6] Vaccination contre la rage</td><td colspan="2">Vaccination post-expositionnelle, après une exposition à un animal enragé ou susceptible de l’être, conformément aux directives et recommandations du 27 janvier 2021 de l’Office fédéral de la santé publique et de la Commission fédérale pour les vaccinations[^12a-7]. En cas d’indication professionnelle la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>n.[^12a-8] Vaccination contre le COVID-19</td><td colspan="2">1. Immunisation de base en cas d’épidémie de COVID-19, pour les personnes particulièrement menacées. 2. Vaccination de rappel en cas d’épidémie de COVID-19, pour les personnes particulièrement menacées. En évaluation. Aucune franchise n’est prélevée pour les prestations énumérées aux ch. 1 et 2. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
+<tr><td>o.[^12a-9] Vaccination contre l’herpès zoster</td><td colspan="2">Avec le vaccin sous-unitaire adjuvanté. Pour les groupes d’âge et les groupes à risque prévus par les recommandations de vaccination du 22 novembre 2021 de l’Office fédéral de la santé publique et de la Commission fédérale pour les vaccinations[^12a-10].</td></tr>
 </table>
 
 [^12a-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
@@ -687,7 +746,11 @@ L’assurance prend en charge les coûts des vaccinations prophylactiques suivan
 [^12a-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 [^12a-4]: Voir l’ordonnance du 29 avril 2015 sur les épidémies ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)**)**.
 [^12a-5]: Abrogée par le ch. I de l’O du DFI du 8 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12a-6]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nouvelle teneur selon le ch. I de l’O du DFI du 3 nov. 2021, en vigueur du 4 nov. 2021 au 30 juin 2022 ([RO 2021 649](https://fedlex.data.admin.ch/eli/oc/2021/649)).
+[^12a-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^12a-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^12a-8]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nouvelle teneur selon le ch. I de l’O du DFI du 3 nov. 2021, en vigueur du 4 nov. 2021 au 30 juin 2022 ([RO 2021 649](https://fedlex.data.admin.ch/eli/oc/2021/649)).
+[^12a-9]: Introduite par le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^12a-10]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 
 #### Art. 12b
 
@@ -771,7 +834,7 @@ L’assurance prend en charge les coûts des mesures suivantes en vue du dépist
 <tr><td>a.[^12e-2] Dépistage de: phénylcétonurie, galactosémie, déficit en biotinidase, syndrome adrénogénital, hypothyroïdie congénitale, déficit en acyl-CoA medium-chain-déhydrogénase (MCAD), fibrose kystique, acidurie glutarique de type 1, maladie du sirop d’érable, déficits immunitaires congénitaux sévères.</td><td>Pour les nouveau-nés. Analyses de laboratoire selon la liste des analyses (LA).</td></tr>
 <tr><td>b.[^12e-3] Examen gynécologique, y compris les prélèvements de dépistage cytologiques cervico-vaginaux.</td><td>Les deux premiers examens, y compris les prélèvements de dépistage cytologiques (en particulier le test de Papanicolau pour le dépistage précoce du cancer du col de l’utérus, cytologie en milieu liquide pour la détection précoce du cancer du col de l’utérus avec les méthodes ThinPrep ou Autocyte Prep / SurePath), sont réalisés annuellement puis tous les trois ans. Ce schéma est valable en cas de résultats normaux. Sinon, la fréquence des examens dépend de l’évaluation clinique. La mise en évidence du papillomavirus humain lors du frottis est exclue de la prise en charge des coûts.</td></tr>
 <tr><td>c.[^12e-4] Mammographie de dépistage</td><td>Dès l’âge de 50 ans, tous les deux ans. Dans le cadre d’un programme organisé de dépistage du cancer du sein qui remplit les conditions fixées par l’ordonnance du 23 juin 1999 sur la garantie de la qualité des programmes de dépistage du cancer du sein par mammographie[^12e-5]. Aucune franchise n’est prélevée sur cette prestation.</td></tr>
-<tr><td>d.[^12e-6] Dépistage du cancer du côlon</td><td>Tranche d’âge de 50 à 69 ans. Méthodes: – analyse visant à détecter la présence de sang occulte dans les selles, tous les deux ans, analyses de laboratoire selon la liste des analyses (LA), coloscopie en cas de résultat positif, ou – coloscopie, tous les dix ans. Si l’analyse a lieu dans le cadre des programmes cantonaux de Bâle-Ville, de Fribourg, de Genève, des Grisons, du Jura, de Neuchâtel, de Saint-Gall, du Tessin, d’Uri, de Vaud, du Valais ou de l’arrondissement administratif du Jura bernois, aucune franchise n’est prélevée pour cette prestation.</td></tr>
+<tr><td>d.[^12e-6] Dépistage du cancer du côlon</td><td>Tranche d’âge de 50 à 69 ans. Méthodes: – analyse visant à détecter la présence de sang occulte dans les selles, tous les deux ans, analyses de laboratoire selon la liste des analyses (LA), coloscopie en cas de résultat positif, ou – coloscopie, tous les dix ans. Si l’analyse a lieu dans le cadre des programmes cantonaux de Bâle-Ville, de Berne, de Fribourg, de Genève, des Grisons, du Jura, de Lucerne, de Neuchâtel, de Saint-Gall, du Tessin, d’Uri, de Vaud ou du Valais, aucune franchise n’est prélevée pour cette prestation.</td></tr>
 </table>
 
 [^12e-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
@@ -779,7 +842,7 @@ L’assurance prend en charge les coûts des mesures suivantes en vue du dépist
 [^12e-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^12e-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^12e-5]: [RS 832.102.4](https://fedlex.data.admin.ch/eli/cc/1999/341)
-[^12e-6]: Introduite par le ch. I de l’O du DFI du 10 juin 2013 ([RO 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)). Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12e-6]: Introduite par le ch. I de l’O du DFI du 10 juin 2013 ([RO 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)). Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
 
 ### Chapitre 4 Prestations spécifiques en cas de maternité
 
@@ -795,23 +858,24 @@ L’assurance prend en charge, en cas de maternité, les examens de contrôle su
 <tr><td>1. lors d’une grossesse normale sept examens</td><td>– *première consultation:* anamnèse, examen gynécologique et clinique, conseils, examen des veines et recherche d’œdèmes des jambes; prescription des analyses de laboratoire nécessaires conformément à la liste des analyses (LA); – *consultations ultérieures:* contrôle de l’état de santé général, notamment du poids, de la tension artérielle et de la hauteur de l’utérus, examen urinaire et auscultation des bruits cardiaques fœtaux; prescription des analyses de laboratoire nécessaires conformément à la liste des analyses (LA); conseils généraux relatifs à la grossesse et plus précisément aux troubles liés à la grossesse. – Si les contrôles ont été faits exclusivement par des médecins, ceux-ci informent l’assurée que l’entretien de conseil avec une sage-femme visé à l’art. 14 est judicieux durant le deuxième trimestre.</td></tr>
 <tr><td>2. lors d’une grossesse à risque</td><td>renouvellement des examens selon l’évaluation clinique</td></tr>
 <tr><td>b. contrôles ultrasonographiques</td><td></td></tr>
-<tr><td>1. lors d’une grossesse normale: une échographie entre la 12<sup>e</sup> et la 14<sup>e</sup> semaine de grossesse; une échographie entre la 20<sup>e</sup> et la 23<sup>e</sup> semaine de grossesse.</td><td>Après un entretien approfondi d’explication et de conseil qui doit être consigné. Selon les «Recommandations pour les examens échographiques en cours de grossesse», de la Société suisse d’ultrasonographie en médecine (SSUM), section gynécologie et obstétrique, 3<sup>e</sup> édition (2019)[^13-2]. Seulement par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale (SSUM) du 28 mai 1998, révisé le 15 mars 2012[^13-3].</td></tr>
+<tr><td>1.[^13-2] lors d’une grossesse normale: une échographie entre la 12<sup>e</sup> et la 14<sup>e</sup> semaine de grossesse; une échographie entre la 20<sup>e</sup> et la 23<sup>e</sup> semaine de grossesse.</td><td>Après un entretien approfondi d’explication et de conseil qui doit être consigné. Selon les «Recommandations pour les examens échographiques en cours de grossesse», de la Société suisse d’ultrasonographie en médecine (SSUM), section gynécologie et obstétrique, 4<sup>e</sup> édition (2019)[^13-3]. Seulement par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale (SSUM) du 28 mai 1998, révisé le 15 mars 2012[^13-4].</td></tr>
 <tr><td>2. lors d’une grossesse à risque</td><td>Renouvellement des examens selon l’évaluation clinique Seulement par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale (SSUM) du 28 mai 1998, révisé le 15 mars 2012.</td></tr>
-<tr><td>b<sup>bis</sup>. test du premier trimestre</td><td>Analyse prénatale du risque de trisomie 21, 18 et 13: en mesurant la clarté nucale par échographie (entre la 12<sup>e</sup> et la 14<sup>e</sup> semaine), par dosage de la PAPP-A et de la fraction libre de la bêta-hCG dans le sang maternel, sur la base d’autres facteurs liés au fœtus et à la mère. Information conformément à l’art. 16 et respect du droit à l’autodétermination au sens de l’art. 18 de la loi fédérale du 8 octobre 2004 sur l’analyse génétique humaine (LAGH)[^13-4]. Prescription pour la mesure de la clarté nucale. Prescription et mesure de la clarté nucale seulement par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale (SSUM) du 28 mai 1998, révisé le 15 mars 2012. Analyses de laboratoire selon la liste des analyses (LA).</td></tr>
-<tr><td>b<sup>ter</sup>. test prénatal non invasif (TPNI)</td><td>Uniquement pour détecter une trisomie 21, 18 ou 13. À partir de la 12<sup>e</sup> semaine de grossesse. Chez les femmes enceintes dont le fœtus présente un risque de 1:1000 ou plus de trisomie 21, 18 ou 13. Évaluation du risque et pose de l’indication en cas de malformation du fœtus détectée pendant l’examen échographique, selon l’avis d’experts n<sup>o</sup> 52 du 14 mars 2018[^13-5] de Gynécologie suisse rédigé par le groupe de travail de l’Académie de médecine fœto-maternelle et la Société suisse de génétique médicale. En cas de grossesse gémellaire, les TPNI par micro-réseau ou par polymorphisme mononucléotidique (SNP) sont exclus de la prise en charge des coûts par l’assurance. Après un entretien explicatif et de conseil conformément aux art. 14 et 15 LAGH et après obtention du consentement écrit de la femme enceinte, dans le respect de son droit à l’autodétermination au sens de l’art. 18 LAGH. Prescription seulement par des spécialistes en gynécologie et obstétrique avec formation approfondie en médecine fœto-maternelle (programme de formation postgraduée du 15 mars 2012, révisé le 16 février 2017[^13-6]), par des spécialistes en génétique médicale ou par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale de la SSUM du 28 mai 1998, révisé le 15 mars 2012. Analyses de laboratoire selon la liste des analyses (LA). Si le sexe du fœtus est déterminé pour des raisons techniques, cette information ne peut être communiquée avant la fin de la 12<sup>e</sup> semaine d’aménorrhée.</td></tr>
+<tr><td>b<sup>bis</sup>. test du premier trimestre</td><td>Analyse prénatale du risque de trisomie 21, 18 et 13: en mesurant la clarté nucale par échographie (entre la 12<sup>e</sup> et la 14<sup>e</sup> semaine), par dosage de la PAPP-A et de la fraction libre de la bêta-hCG dans le sang maternel, sur la base d’autres facteurs liés au fœtus et à la mère. Information conformément à l’art. 16 et respect du droit à l’autodétermination au sens de l’art. 18 de la loi fédérale du 8 octobre 2004 sur l’analyse génétique humaine (LAGH)[^13-5]. Prescription pour la mesure de la clarté nucale. Prescription et mesure de la clarté nucale seulement par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale (SSUM) du 28 mai 1998, révisé le 15 mars 2012. Analyses de laboratoire selon la liste des analyses (LA).</td></tr>
+<tr><td>b<sup>ter</sup>. test prénatal non invasif (TPNI)</td><td>Uniquement pour détecter une trisomie 21, 18 ou 13. À partir de la 12<sup>e</sup> semaine de grossesse. Chez les femmes enceintes dont le fœtus présente un risque de 1:1000 ou plus de trisomie 21, 18 ou 13. Évaluation du risque et pose de l’indication en cas de malformation du fœtus détectée pendant l’examen échographique, selon l’avis d’experts n<sup>o</sup> 52 du 14 mars 2018[^13-6] de Gynécologie suisse rédigé par le groupe de travail de l’Académie de médecine fœto-maternelle et la Société suisse de génétique médicale. En cas de grossesse gémellaire, les TPNI par micro-réseau ou par polymorphisme mononucléotidique (SNP) sont exclus de la prise en charge des coûts par l’assurance. Après un entretien explicatif et de conseil conformément aux art. 14 et 15 LAGH et après obtention du consentement écrit de la femme enceinte, dans le respect de son droit à l’autodétermination au sens de l’art. 18 LAGH. Prescription seulement par des spécialistes en gynécologie et obstétrique avec formation approfondie en médecine fœto-maternelle (programme de formation postgraduée du 15 mars 2012, révisé le 16 février 2017[^13-7]), par des spécialistes en génétique médicale ou par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale de la SSUM du 28 mai 1998, révisé le 15 mars 2012. Analyses de laboratoire selon la liste des analyses (LA). Si le sexe du fœtus est déterminé pour des raisons techniques, cette information ne peut être communiquée avant la fin de la 12<sup>e</sup> semaine d’aménorrhée.</td></tr>
 <tr><td>c. examen pré-partum au moyen de la cardiotocographie</td><td>Lors d’une grossesse à risque</td></tr>
 <tr><td>d. amniocentèse, prélèvement des villosités choriales, cordocentèse</td><td>Après un entretien approfondi qui doit être consigné dans les cas suivants: – pour confirmer un résultat positif chez les femmes enceintes dont le test de diagnostic prénatal non invasif (DPNI) laisse fortement supposer que le fœtus est atteint d’une trisomie 21, 18 ou 13 ou dont le test du premier trimestre indique qu’elles présentent un risque de 1:380 ou plus que le fœtus soit atteint d’une telle maladie; – pour les femmes enceintes chez lesquelles le résultat de l’échographie, l’anamnèse familiale ou toute autre raison laisse supposer un risque de 1:380 ou plus que le fœtus soit atteint d’une maladie due à des facteurs exclusivement génétiques; – en cas de mise en danger du fœtus par une complication, une maladie de la femme enceinte, une maladie qui n’est pas due à des facteurs génétiques ou par des troubles du développement du fœtus; Prescription d’analyses génétiques seulement par des spécialistes en gynécologie et obstétrique avec formation approfondie en médecine fœto-maternelle, par des spécialistes (programme de formation postgraduée du 15 mars 2012, révisé le 16 février 2017), par des spécialistes en génétique médicale ou par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale de la SSUM du 28 mai 1998, révisé le 15 mars 2012. [tab] Analyses de laboratoire selon la liste des analyses (LA).</td></tr>
 <tr><td>e. contrôle post-partum un examen</td><td>Entre la sixième et la dixième semaine post-partum: anamnèse intermédiaire, statut gynécologique et clinique y compris l’octroi de conseils.</td></tr>
-<tr><td>f. contrôle après une fausse couche</td><td>Après une fausse couche ou une interruption de grossesse médicalement indiquée à partir de la 13<sup>e</sup> jusqu’à la fin de la 23<sup>e</sup> semaine de grossesse. Anamnèse intermédiaire, statut gynécologique et clinique, conseils; analyses de laboratoire et contrôle ultrasonographique selon l’évaluation clinique. Contrôle ultrasonographique seulement par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale de la SSUM du 28 mai 1998, révisé le 15 mars 2012. [^13-7]</td></tr>
+<tr><td>f. contrôle après une fausse couche</td><td>Après une fausse couche ou une interruption de grossesse médicalement indiquée à partir de la 13<sup>e</sup> jusqu’à la fin de la 23<sup>e</sup> semaine de grossesse. Anamnèse intermédiaire, statut gynécologique et clinique, conseils; analyses de laboratoire et contrôle ultrasonographique selon l’évaluation clinique. Contrôle ultrasonographique seulement par des médecins ayant suivi une formation postgraduée qui corresponde au programme de formation complémentaire en ultrasonographie prénatale de la SSUM du 28 mai 1998, révisé le 15 mars 2012. [^13-8]</td></tr>
 </table>
 
 [^13-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^13-2]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^13-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^13-4]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
-[^13-5]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^13-3]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^13-4]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^13-5]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 [^13-6]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
-[^13-7]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^13-7]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref
+[^13-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
 #### Art. 14
 
@@ -841,7 +905,7 @@ L’assurance prend en charge une contribution de 150 francs:
 
 <sup>1</sup>
 
-Les sages-femmes et les organisations de sages-femmes peuvent effectuer à la charge de l’assurance les prestations suivantes:
+L’assurance prend en charge les prestations suivantes des sages-femmes admises conformément à l’art. 45 OAMal et des organisations de sages-femmes admises conformément à l’art. 45*a* OAMal:[^16-2]
 
 - a.
 
@@ -850,7 +914,7 @@ Les sages-femmes et les organisations de sages-femmes peuvent effectuer à la ch
   - 1\. lors d’une grossesse normale, la sage-femme ou l’organisation de sages-femmes peut effectuer sept examens de contrôle; elle est tenue de signaler à l’assurée qu’une consultation médicale est indiquée pendant le premier trimestre,
   - 2\. lors d’une grossesse à risque, sans manifestation pathologique, la sage-femme ou l’organisation de sages-femmes collabore avec le médecin; lors d’une grossesse pathologique, la sage-femme ou l’organisation de sages-femmes effectue ses prestations selon la prescription médicale;
 
-- a<sup>bis</sup>.[^16-2]
+- a<sup>bis</sup>.[^16-3]
 
   un suivi consistant en des visites à domicile pour prodiguer des soins à l’assurée et surveiller son état de santé après une fausse couche ou une interruption de grossesse médicalement indiquée à partir de la 13<sup>e</sup> jusqu’à la fin de la 23<sup>e</sup> semaine de grossesse, aux conditions suivantes:
 
@@ -871,7 +935,8 @@ Les sages-femmes et les organisations de sages-femmes peuvent effectuer à la ch
 <sup>3</sup> Elles peuvent prescrire, lors d’un examen de contrôle, un contrôle ultrasonographique conformément à l’art. 13, let. b.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
-[^16-2]: Introduite par le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^16-3]: Introduite par le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 
 ### Chapitre 5 Soins dentaires
 
@@ -1136,11 +1201,11 @@ L’assurance octroie une rémunération pour les moyens et appareils thérapeut
 
 #### Art. 21
 
-**Demande**[^21-1]
+**Annonce**[^21-1]
 
-Les demandes qui ont pour objet l’admission de nouveaux moyens et appareils sur la liste ou le montant de la rémunération doivent être adressées à l’OFSP. L’OFSP examine chaque demande et la soumet à la Commission fédérale des analyses, moyens et appareils.
+Les demandes qui ont pour objet l’admission de nouveaux moyens et appareils sur la liste ou le montant du remboursement doivent être adressées à l’OFSP. L’OFSP examine chaque demande et la présente à la Commission fédérale des analyses, moyens et appareils.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 3581](https://fedlex.data.admin.ch/eli/oc/2007/440)).
 
 #### Art. 22
 
@@ -1547,7 +1612,7 @@ Dans le cadre du réexamen visé à l’art. 34*d*, al. 1, les génériques sont
 
 Toute augmentation de prix fondée sur l’art. 67, al. 2, OAMal est exclue. L’OFSP peut autoriser, à titre exceptionnel, une augmentation de prix afin que la couverture des besoins en soins de la population suisse soit assurée s’il n’y a pas d’autre solution thérapeutique.
 
-[^35-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur du 1<sup>er</sup> janv. 2021 au 31 déc. 2022 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
 
 #### Art. 35a
 
@@ -1735,16 +1800,13 @@ La prime par emballage pour les médicaments qui ne sont remis que sur prescript
 
 [^39-1]: Abrogé par le ch. I de l’O du DFI du 2 juil. 2002, avec effet au 1<sup>er</sup> juil. 2002 ([RO 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)).
 
-### Chapitre 2 Écoles de chiropratique
+### Chapitre 2 …
 
 #### Art. 40
 
 [^40-1]
 
-Les écoles de chiropratique reconnues au sens de l’art. 44, al. 1, let. a, OAMal sont précisées à l’art. 1 de l’ordonnance du DFI du 20 août 2007 sur les filières d’études de chiropratique reconnues offertes par des hautes écoles universitaires étrangères[^40-2].
-
-[^40-1]: Nouvelle teneur selon l’art. 2 de l’O du DFI du 20 août 2007 sur les filières d’études de chiropratique reconnues offertes par des hautes écoles universitaires étrangères, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 4085](https://fedlex.data.admin.ch/eli/oc/2007/542)).
-[^40-2]: [RS 811.115.4](https://fedlex.data.admin.ch/eli/cc/2021/916)
+[^40-1]: Abrogé par le ch. I de l’O du DFI du 23 juin 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 
 ### Chapitre 3 ...
 
@@ -1991,42 +2053,63 @@ Les assureurs appliquent la réglementation prévue à l’art. 38*a* d’ici au
 
 [^u12-2]: Introduit par le ch. I de l’O du DFI du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 
+## Disposition transitoire de la modification du 23 juin 2021****
+
+[^u13-1]
+
+[^u13-1]: Entre en vigueur le 1<sup>er</sup> juil. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
 Annexe 1*[^t-2]*
 
 (art. 1)
 
-## Prise en charge par l’assurance obligatoire des soins de certaines prestations fournies par les médecins
+## Prise en charge par l’assurance obligatoire des soins de certaines prestations fournies par les médecins****
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). L’annexe 1 peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; prestations médicales &gt; Annexe 1 OPAS.
+[^annex1-lvlu1-1]
+
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFI du 7 fév. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Mise à jour par le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)) et du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^annex1-lvlu1-1]: Cette annexe n’est pas publiée au RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; prestations médicales &gt; Annexe 1 OPAS.
 
 Annexe 1a*[^t-3]*
 
 (art. 3*c,* al. 4)
 
-## Restriction de prise en charge des coûts pour certaines interventions électives
+## Restriction de prise en charge des coûts pour certaines interventions électives****
 
-[^t-3]: Cette annexe n’est pas publiée au RO ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). L’annexe 1*a* peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Prestations médicales &gt; Annexe 1*a* OPAS.
+[^annex1a-lvlu1-1]
+
+[^t-3]: Introduite par le ch. II al. 4 de l’O du DFI du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Nouvelle teneur selon le ch. II de l’O du DFI du 7 fév. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Mise à jour par le ch. II al. 2 des O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)) et du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^annex1a-lvlu1-1]: Cette annexe n’est pas publiée au RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Prestations médicales &gt; Annexe 1*a* OPAS.
 
 Annexe 2*[^t-4]*
 
 (art. 20*a*)
 
-## Liste des moyens et appareils
+## Liste des moyens et appareils****
 
-[^t-4]: Cette annexe n’est pas publiée au RO ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392), [394](https://fedlex.data.admin.ch/eli/oc/2021/394)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste de moyens et appareils (LiMA).
+[^annex2-lvlu1-1]
+
+[^t-4]: Mise à jour par le ch. II al. 2 des O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)), du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. I de l’O du DFI du 7 juin 2018 ([RO 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), le ch. II al. 3 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 2 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 6 déc. 2019 ([RO 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. II al. 3 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), le ch. II al. 2 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), le ch. I des O du DFI des 8 juin 2021 ([RO 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)) et le ch. II al. 3 de l’O du DFI du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^annex2-lvlu1-1]: Cette annexe n’est pas publiée au RO. La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste de moyens et appareils (LiMA).
 
 Annexe 3*[^t-5]*
 
 (art. 28)
 
-## Liste des analyses
+## Liste des analyses****
 
-[^t-5]: Cette annexe n’est pas publiée au RO ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033);[2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste des analyses (LA).
+[^annex3-lvlu1-1]
+
+[^t-5]: Mise à jour par le ch. I des O du DFI du 28 janv. 2009 ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), du 26 juin 2009 ([RO 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), le ch. II al. 3 des O du DFI du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), le ch. I de l’O du DFI du 13 août 2012 ([RO 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), le ch. II al. 3 des O du DFI du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), le ch. I de l’O du DFI du 21 oct. 2014 ([RO 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), le ch. II al. 3 des O du DFI du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. II al. 4 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 3 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. I des O du DFI du 28 fév. 2020 ([RO 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), du 27 avr. 2020 ([RO 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), le ch. II al. 4 de l’O du DFI du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. I de l’O du DFI du 25 sept. 2020 ([RO 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), le ch. II al. 4 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I des O du DFI du 5 janv. 2021 ([RO 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), du 26 fév. 2021 ([RO 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), le ch. II al. 3 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)) et le ch. II al. 4 de l’O du DFI du 1<sup>er</sup> déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^annex3-lvlu1-1]: Cette annexe n’est pas publiée au RO. La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste des analyses (LA).
 
 Annexe 4*[^t-6]*
 
 (art. 29)
 
-## Liste des médicaments avec tarif
+## Liste des médicaments avec tarif****
 
-[^t-6]: Cette annexe n’est pas publiée au RO ([RO 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Médicaments.
+[^annex4-lvlu1-1]
+
+[^t-6]: Mise à jour par le ch. II al. 2 de l’O du DFI du 2 juin 2005 ([RO 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), le ch. II al. 4 de l’O du DFI du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. II al. 5 de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^annex4-lvlu1-1]: Cette annexe n’est pas publiée au RO. La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et tarifs &gt; Médicaments.

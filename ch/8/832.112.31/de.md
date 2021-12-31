@@ -4,20 +4,20 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2021-11-04
+version: 2022-01-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20211104/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20211104-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20211104/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung
+# Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung****
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 4. November 2021)
+vom 29. September 1995 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -114,7 +114,7 @@ Soll die Psychotherapie nach 40 Sitzungen zu Lasten der Versicherung fortgesetzt
 [^3b-1]: Eingefügt durch Ziff. I der V des EDI vom 3. Juli 2006 ([AS 2006 2957](https://fedlex.data.admin.ch/eli/oc/2006/452)). Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^3b-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 
-### 2*a*. Abschnitt: Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen****
+### 2*a*. Abschnitt: Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen
 
 [^tit1-chap1-sec2a-1]
 
@@ -146,7 +146,7 @@ Soll die Psychotherapie nach 40 Sitzungen zu Lasten der Versicherung fortgesetzt
 
 #### Art. 4
 
-Die Versicherung übernimmt die Kosten der folgenden von Chiropraktoren und Chiropraktorinnen verordneten Analysen, Arzneimittel, der Untersuchung oder Behandlung dienenden Mittel und Gegenstände, bildgebenden Verfahren sowie physiotherapeutischen Leistungen:[^4-1]
+Die Versicherung übernimmt die Kosten der folgenden Leistungen, soweit sie von nach Artikel 44 KVV zugelassenen Chiropraktoren und Chiropraktorinnen oder von nach Artikel 44*a* KVV zugelassenen Organisationen der Chiropraktik verordnet sind:[^4-1]
 
 - a.[^4-2] Analysen: die Analysen sind gestützt auf Artikel 62 Absatz 1 Buchstabe b KVV in der Analysenliste separat bezeichnet;
 - b.[^4-3] Arzneimittel:
@@ -162,15 +162,15 @@ Die Versicherung übernimmt die Kosten der folgenden von Chiropraktoren und Chir
 
 - c.[^4-7]
 
-  Mittel und Gegenstände:
+  der Untersuchung oder Behandlung dienende Mittel und Gegenstände:[^4-8]
 
   - 1\. Produkte der Gruppe 05. Bandagen,
   - 2\. Produkte der Gruppe 09.02.01 Transkutane elektrische Nervenstimulationsgeräte (TENS),
   - 3\. Produkte der Gruppe 16. Kälte- und/oder Wärmetherapie-Mittel,
   - 4\. Produkte der Gruppe 23. Orthesen,
-  - 5\.[^4-8] Produkte der Gruppe 35. Verbandmaterial;
+  - 5\.[^4-9] Produkte der Gruppe 35. Verbandmaterial;
 
-- d.[^4-9]
+- d.[^4-10]
 
   Bildgebende Verfahren:
 
@@ -180,18 +180,19 @@ Die Versicherung übernimmt die Kosten der folgenden von Chiropraktoren und Chir
   - 4\. Diagnostischer Ultraschall,
   - 5\. Drei-Phasen-Skelettszintigraphie;
 
-- e.[^4-10] physiotherapeutische Leistungen nach Artikel 5.
+- e.[^4-11] physiotherapeutische Leistungen nach Artikel 5.
 
-[^4-1]: Fassung gemäss Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
+[^4-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^4-2]: Fassung gemäss Ziff. I der V des EDI vom 17. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5283](https://fedlex.data.admin.ch/eli/oc/2003/775)).
 [^4-3]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^4-4]: Fassung gemäss Anhang 6 Ziff. II 5 der Arzneimittelverordnung vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
 [^4-5]: Fassung gemäss Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^4-6]: Fassung gemäss Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^4-7]: Fassung gemäss Ziff. I der V des EDI vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-8]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
-[^4-9]: Eingefügt durch Ziff. I der V des EDI vom 10. Juli 2000 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Fassung gemäss Ziff. I der V des EDI vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-10]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
+[^4-8]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^4-9]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)).
+[^4-10]: Eingefügt durch Ziff. I der V des EDI vom 10. Juli 2000 ([AS 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Fassung gemäss Ziff. I der V des EDI vom 10. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
+[^4-11]: Eingefügt durch Ziff. I der V des EDI vom 24. Juni 2009, in Kraft seit 1. Jan. 2011 ([AS 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)Ziff. I).
 
 ### 4. Abschnitt:**** Pharmazeutische Leistungen
 
@@ -245,7 +246,7 @@ Die Versicherung übernimmt die Kosten von Leistungen der folgenden Fachrichtung
 
 <sup>1</sup>
 
-Die Kosten folgender Leistungen werden übernommen, wenn sie auf ärztliche Anordnung hin von Physiotherapeuten und Physiotherapeutinnen im Sinne der Artikel 46 und 47 KVV oder von Organisationen im Sinne von Artikel 52*a* KVV und im Rahmen der Behandlung von Krankheiten des muskuloskelettalen oder neurologischen Systems oder der Systeme der inneren Organe und Gefässe, soweit diese der Physiotherapie zugänglich sind, erbracht werden:[^5-1]
+Die Versicherung übernimmt die Kosten der folgenden Leistungen, die auf ärztliche Anordnung hin von nach Artikel 47 KVV zugelassenen Physiotherapeuten und Physiotherapeutinnen oder von nach Artikel 52 KVV zugelassenen Organisationen der Physiotherapie und im Rahmen der Behandlung von Krankheiten des muskuloskelettalen oder neurologischen Systems oder der Systeme der inneren Organe und Gefässe, soweit diese der Physiotherapie zugänglich sind, erbracht werden:[^5-1]
 
 - a. Massnahmen der physiotherapeutischen Untersuchung und der Abklärung;
 - b.
@@ -259,9 +260,9 @@ Die Kosten folgender Leistungen werden übernommen, wenn sie auf ärztliche Anor
   - 5\. medizinische Trainingstherapie,
   - 6\. lymphologische Physiotherapie,
   - 7\. Bewegungstherapie im Wasser,
-  - 8\. Physiotherapie auf dem Pferd bei multipler Sklerose,
+  - 8\.[^5-2] Hippotherapie bei multipler Sklerose, Cerebralparese und Trisomie 21,
   - 9\. Herz-Kreislauf-Physiotherapie,
-  - [tab] 10.[^5-2] Beckenboden**-**Physiotherapie;
+  - [tab] 10.[^5-3] Beckenboden**-**Physiotherapie;
 
 - c.
 
@@ -272,29 +273,30 @@ Die Kosten folgender Leistungen werden übernommen, wenn sie auf ärztliche Anor
   - 3\. Lichttherapie (Ultraviolett, Infrarot, Rotlicht)
   - 4\. Ultraschall,
   - 5\. Hydrotherapie,
-  - 6\. Muskel- und Bindegewebsmassage.[^5-3]
+  - 6\. Muskel- und Bindegewebsmassage.[^5-4]
 
-<sup>1bis</sup> Massnahmen nach Absatz 1 Buchstaben b Ziffern 1, 3–5, 7 und 9 können in Einzel- oder Gruppentherapie durchgeführt werden.[^5-4]
+<sup>1bis</sup> Massnahmen nach Absatz 1 Buchstaben b Ziffern 1, 3–5, 7 und 9 können in Einzel- oder Gruppentherapie durchgeführt werden.[^5-5]
 
-<sup>1ter</sup> Die medizinische Trainingstherapie beginnt mit einer Einführung in das Training an Geräten und ist maximal drei Monate nach der Einführung abgeschlossen. Der medizinischen Trainingstherapie geht eine physiotherapeutische Einzelbehandlung voran.[^5-5]
+<sup>1ter</sup> Die medizinische Trainingstherapie beginnt mit einer Einführung in das Training an Geräten und ist maximal drei Monate nach der Einführung abgeschlossen. Der medizinischen Trainingstherapie geht eine physiotherapeutische Einzelbehandlung voran.[^5-6]
 
-<sup>2</sup> Die Versicherung übernimmt je ärztliche Anordnung die Kosten von höchstens neun Sitzungen, wobei die erste Behandlung innert fünf Wochen seit der ärztlichen Anordnung durchgeführt werden muss.[^5-6]
+<sup>2</sup> Die Versicherung übernimmt je ärztliche Anordnung die Kosten von höchstens neun Sitzungen, wobei die erste Behandlung innert fünf Wochen seit der ärztlichen Anordnung durchgeführt werden muss.[^5-7]
 
 <sup>3</sup> Für die Übernahme von weiteren Sitzungen ist eine neue ärztliche Anordnung erforderlich.
 
-<sup>4</sup> Soll die Physiotherapie nach einer Behandlung, die 36 Sitzungen entspricht, zu Lasten der Versicherung fortgesetzt werden, so hat der behandelnde Arzt oder die behandelnde Ärztin dem Vertrauensarzt oder der Vertrauensärztin zu berichten und einen begründeten Vorschlag über die Fortsetzung der Therapie zu unterbreiten. Der Vertrauensarzt oder die Vertrauensärztin prüft den Vorschlag und beantragt, ob, in welchem Umfang und für welche Zeitdauer bis zum nächsten Bericht die Physiotherapie zu Lasten der Versicherung fortgesetzt werden kann.[^5-7]
+<sup>4</sup> Soll die Physiotherapie nach einer Behandlung, die 36 Sitzungen entspricht, zu Lasten der Versicherung fortgesetzt werden, so hat der behandelnde Arzt oder die behandelnde Ärztin dem Vertrauensarzt oder der Vertrauensärztin zu berichten und einen begründeten Vorschlag über die Fortsetzung der Therapie zu unterbreiten. Der Vertrauensarzt oder die Vertrauensärztin prüft den Vorschlag und beantragt, ob, in welchem Umfang und für welche Zeitdauer bis zum nächsten Bericht die Physiotherapie zu Lasten der Versicherung fortgesetzt werden kann.[^5-8]
 
-<sup>5</sup> Bei Versicherten, welche bis zum vollendeten 20. Altersjahr Anspruch auf Leistungen nach Artikel 13 des Bundesgesetzes vom 19. Juni 1959[^5-8] über die Invalidenversicherung haben, richtet sich die Kostenübernahme für die Fortsetzung einer bereits begonnenen Physiotherapie nach dem vollendeten 20. Altersjahr nach Absatz 4.[^5-9]
+<sup>5</sup> Bei Versicherten, welche bis zum vollendeten 20. Altersjahr Anspruch auf Leistungen nach Artikel 13 des Bundesgesetzes vom 19. Juni 1959[^5-9] über die Invalidenversicherung haben, richtet sich die Kostenübernahme für die Fortsetzung einer bereits begonnenen Physiotherapie nach dem vollendeten 20. Altersjahr nach Absatz 4.[^5-10]
 
-[^5-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
-[^5-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
-[^5-3]: Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^5-4]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^5-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^5-3]: Fassung gemäss Ziff. I der V des EDI vom 27. Okt. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)).
+[^5-4]: Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 [^5-5]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^5-6]: Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^5-7]: Eingefügt durch Ziff. I des EDI vom 9. Dez. 2002 ([AS 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
-[^5-8]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^5-9]: Eingefügt durch Ziff. I der V des EDI vom 10. Dez. 2008 ([AS 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-6]: Eingefügt durch Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-7]: Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^5-8]: Eingefügt durch Ziff. I des EDI vom 9. Dez. 2002 ([AS 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
+[^5-9]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^5-10]: Eingefügt durch Ziff. I der V des EDI vom 10. Dez. 2008 ([AS 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 
 ### 2. Abschnitt: Ergotherapie
 
@@ -302,26 +304,27 @@ Die Kosten folgender Leistungen werden übernommen, wenn sie auf ärztliche Anor
 
 <sup>1</sup>
 
-Die Versicherung übernimmt die Kosten der Leistungen, die auf ärztliche Anordnung hin von Ergotherapeuten und Ergotherapeutinnen sowie von Organisationen der Ergotherapie im Sinne der Artikel 46, 48 und 52 KVV erbracht werden, soweit sie:
+Die Versicherung übernimmt die Kosten der Leistungen, die auf ärztliche Anordnung hin von nach Artikel 48 KVV zugelassenen Ergotherapeuten und Ergotherapeutinnen oder von nach Artikel 52*a* KVV zugelassenen Organisationen der Ergotherapie erbracht werden, soweit sie:[^6-1]
 
 - a. der versicherten Person bei somatischen Erkrankungen durch Verbesserung der körperlichen Funktionen zur Selbständigkeit in den alltäglichen Lebensverrichtungen verhelfen oder
-- b.[^6-1] im Rahmen einer psychiatrischen Behandlung durchgeführt werden.
+- b.[^6-2] im Rahmen einer psychiatrischen Behandlung durchgeführt werden.
 
-<sup>2</sup> Die Versicherung übernimmt je ärztliche Anordnung die Kosten von höchstens neun Sitzungen, wobei die erste Behandlung innert acht Wochen seit der ärztlichen Anordnung durchgeführt werden muss.[^6-2]
+<sup>2</sup> Die Versicherung übernimmt je ärztliche Anordnung die Kosten von höchstens neun Sitzungen, wobei die erste Behandlung innert acht Wochen seit der ärztlichen Anordnung durchgeführt werden muss.[^6-3]
 
 <sup>3</sup> Für die Übernahme von weiteren Sitzungen ist eine neue ärztliche Anordnung erforderlich.
 
-<sup>4</sup> Soll die Ergotherapie nach einer Behandlung, die 36 Sitzungen entspricht, zu Lasten der Versicherung fortgesetzt werden, so hat der behandelnde Arzt oder die behandelnde Ärztin dem Vertrauensarzt oder der Vertrauensärztin zu berichten und einen begründeten Vorschlag über die Fortsetzung der Therapie zu unterbreiten. Der Vertrauensarzt oder die Vertrauensärztin prüft den Vorschlag und beantragt, ob, in welchem Umfang und für welche Zeitdauer bis zum nächsten Bericht die Ergotherapie zu Lasten der Versicherung fortgesetzt werden kann.[^6-3]
+<sup>4</sup> Soll die Ergotherapie nach einer Behandlung, die 36 Sitzungen entspricht, zu Lasten der Versicherung fortgesetzt werden, so hat der behandelnde Arzt oder die behandelnde Ärztin dem Vertrauensarzt oder der Vertrauensärztin zu berichten und einen begründeten Vorschlag über die Fortsetzung der Therapie zu unterbreiten. Der Vertrauensarzt oder die Vertrauensärztin prüft den Vorschlag und beantragt, ob, in welchem Umfang und für welche Zeitdauer bis zum nächsten Bericht die Ergotherapie zu Lasten der Versicherung fortgesetzt werden kann.[^6-4]
 
-<sup>5</sup> Bei Versicherten, welche bis zum vollendeten 20. Altersjahr Anspruch auf Leistungen nach Artikel 13 des Bundesgesetzes vom 19. Juni 1959[^6-4] über die Invalidenversicherung haben, richtet sich die Kostenübernahme für die Fortsetzung einer bereits begonnenen Ergotherapie nach dem vollendeten 20. Altersjahr nach Absatz 4.[^6-5]
+<sup>5</sup> Bei Versicherten, welche bis zum vollendeten 20. Altersjahr Anspruch auf Leistungen nach Artikel 13 des Bundesgesetzes vom 19. Juni 1959[^6-5] über die Invalidenversicherung haben, richtet sich die Kostenübernahme für die Fortsetzung einer bereits begonnenen Ergotherapie nach dem vollendeten 20. Altersjahr nach Absatz 4.[^6-6]
 
-[^6-1]: Fassung gemäss Ziff. I der V des EDI vom 13. Dez. 1996, in Kraft seit 1. Jan. 1997 ([AS 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
-[^6-2]: Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
-[^6-3]: Eingefügt durch Ziff. I des EDI vom 9. Dez. 2002 ([AS 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
-[^6-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^6-5]: Eingefügt durch Ziff. I der V des EDI vom 10. Dez. 2008 ([AS 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^6-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^6-2]: Fassung gemäss Ziff. I der V des EDI vom 13. Dez. 1996, in Kraft seit 1. Jan. 1997 ([AS 1997 564](https://fedlex.data.admin.ch/eli/oc/1997/564_564_564)).
+[^6-3]: Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
+[^6-4]: Eingefügt durch Ziff. I des EDI vom 9. Dez. 2002 ([AS 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)). Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
+[^6-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^6-6]: Eingefügt durch Ziff. I der V des EDI vom 10. Dez. 2008 ([AS 2008 6493](https://fedlex.data.admin.ch/eli/oc/2008/885)). Fassung gemäss Ziff. I der V des EDI vom 5. Juni 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)).
 
-### 3. Abschnitt: Krankenpflege ambulant oder im Pflegeheim****
+### 3. Abschnitt: Krankenpflege ambulant oder im Pflegeheim
 
 [^tit1-chap2-sec3-1]
 
@@ -557,7 +560,7 @@ Das Kontrollverfahren dient der Überprüfung der Bedarfsermittlung sowie der Ko
 
 <sup>1</sup>
 
-Der Ernährungsberater, die Ernährungsberaterin oder die Organisation der Ernährungsberatung im Sinne der Artikel 46, 50*a* und 52*b* KVV berät auf ärztliche Anordnung hin oder in ärztlichem Auftrag Patienten und Patientinnen mit folgenden Krankheiten:[^9b-2]
+Die nach Artikel 50*a* zugelassenen Ernährungsberater und Ernährungsberaterinnen und die nach 52*c* KVV zugelassenen Organisationen der Ernährungsberatung beraten auf ärztliche Anordnung hin oder in ärztlichem Auftrag Patienten und Patientinnen mit folgenden Krankheiten:[^9b-2]
 
 - a.[^9b-3] Stoffwechselkrankheiten;
 - b.[^9b-4] Adipositas (Body-Mass-Index von über 30) und Folgeerkrankungen des Übergewichts oder in Kombination mit dem Übergewicht;
@@ -573,7 +576,7 @@ Der Ernährungsberater, die Ernährungsberaterin oder die Organisation der Ernä
 <sup>3</sup> Soll die Ernährungsberatung nach einer Behandlung, die zwölf Sitzungen umfasst hat, zu Lasten der Versicherung fortgesetzt werden, so muss der behandelnde Arzt oder die behandelnde Ärztin einen begründeten Vorschlag über die Fortsetzung der Therapie an den Vertrauensarzt oder an die Vertrauensärztin richten. Der Vertrauensarzt oder die Vertrauensärztin schlägt dem Versicherer vor, ob und in welchem Umfang die Ernährungsberatung zu Lasten der Versicherung fortgesetzt werden soll.[^9b-7]
 
 [^9b-1]: Ursprünglich Art. 9*a*.
-[^9b-2]: Fassung gemäss Ziff. I der V des EDI vom 16. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5829](https://fedlex.data.admin.ch/eli/oc/2012/681)).
+[^9b-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^9b-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
 [^9b-4]: Fassung gemäss Ziff. I der V des EDI vom 16. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5829](https://fedlex.data.admin.ch/eli/oc/2012/681)).
 [^9b-5]: Eingefügt durch Ziff. I der V des EDI vom 6. Dez. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
@@ -610,12 +613,13 @@ Die Versicherung übernimmt die Kosten der Diabetesberatung, die auf ärztliche 
 
 **Grundsatz**[^10-1]
 
-Der Logopäde, die Logopädin oder die Organisation der Logopädie führt auf ärztliche Anordnung hin Behandlungen von Patienten und Patientinnen mit Störungen der Sprache, des Sprechens, der Stimme, des Redeflusses und des Schluckens durch, die zurückzuführen sind auf:
+Die nach Artikel 50 KVV zugelassenen Logopäden und Logopädinnen und die nach Artikel 52*b* KVV zugelassenen Organisationen der Logopädie führen auf ärztliche Anordnung hin Behandlungen von Patienten und Patientinnen mit Störungen der Sprache, des Sprechens, der Stimme, des Redeflusses und des Schluckens durch, die zurückzuführen sind auf:[^10-2]
 
 - a. neurologische Leiden mit infektiöser, traumatischer, chirurgisch-postoperativer, toxischer, tumoröser, vaskulärer, hypoxischer oder degenerativer Ursache;
 - b. phoniatrische Leiden, insbesondere partielle oder totale Missbildung der Lippen, der Zunge, des Gaumens, des Kiefers oder des Kehlkopfes sowie Störungen der orofazialen Muskulatur oder der Larynxfunktion mit infektiöser, traumatischer, chirurgisch-postoperativer, tumoröser oder funktioneller Ursache.
 
 [^10-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)).
+[^10-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 
 #### Art. 11
 
@@ -642,9 +646,63 @@ Der Logopäde, die Logopädin oder die Organisation der Logopädie führt auf ä
 
 #### Art. 11a
 
-<sup>1</sup> Die Versicherung übernimmt die Kosten der diagnostischen Leistungen, die auf ärztliche Anordnung hin von Neuropsychologen und Neuropsychologinnen nach Artikel 50*b* KVV durchgeführt werden.
+<sup>1</sup> Die Versicherung übernimmt die Kosten der diagnostischen Leistungen, die auf ärztliche Anordnung hin von nach Artikel 50*b* KVV zugelassenen Neuropsychologen und Neuropsychologinnen oder von nach Artikel 52*d* KVV zugelassenen Organisationen der Neuropsychologie erbracht werden.[^11a-1]
 
 <sup>2</sup> Sie übernimmt je ärztliche Anordnung die Kosten von höchstens sechs Sitzungen. Pro Jahr und Patient oder Patientin sind höchstens zwei ärztliche Anordnungen möglich.
+
+[^11a-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
+### 6. Abschnitt: …
+
+#### Art. 11b
+
+[^11b-1]
+
+[^11b-1]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 189](https://fedlex.data.admin.ch/eli/oc/2021/189), [440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
+### 7. Abschnitt:**** Podologie
+
+[^tit1-chap2-sec7-1]
+
+[^tit1-chap2-sec7-1]: Eingefügt durch Ziff. I der V des EDI vom 26. Mai 2021 ([AS 2021 324](https://fedlex.data.admin.ch/eli/oc/2021/324)). Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
+#### Art. 11c
+
+<sup>1</sup>
+
+Die Versicherung übernimmt die Kosten der Leistungen, die auf ärztliche Anordnung hin von nach Artikel 50*d* KVV zugelassenen Podologen und Podologinnen oder von nach Artikel 52*f* KVV zugelassenen Organisationen der Podologie erbracht werden, soweit:
+
+- a.
+
+  die Leistungen bei Personen mit Diabetes mellitus durchgeführt werden, bei denen einer der nachfolgenden Risikofaktoren für ein diabetisches Fuss-Syndrom vorliegt:
+
+  - 1\. Polyneuropathie, mit oder ohne peripher arterielle Verschlusskrankheit (PAVK),
+  - 2\. früheres diabetisches Ulcus,
+  - 3\. erfolgte diabetesbedingte Amputation, unabhängig vom Vorliegen einer Neuro- oder Angiopathie; und
+
+- b.
+
+  es sich um folgende Leistungen handelt:
+
+  - 1\. Fuss-, Haut-, und Nagelkontrolle,
+  - 2\. protektive Massnahmen, namentlich atraumatisches Entfernen von Hornhaut und atraumatische Nagelpflege,
+  - 3\. Instruktion und Beratung der Patienten und Patientinnen zu Fuss-, Nagel- und Hautpflege und zur Wahl der Schuhe und von orthopädischen Hilfsmitteln,
+  - 4\. Prüfung der Passform der Schuhe.
+
+<sup>2</sup>
+
+Sie übernimmt pro Kalenderjahr die Kosten für höchstens folgende Anzahl Sitzungen:
+
+- a.
+
+  bei Personen mit Diabetes mellitus und Polyneuropathie:
+
+  - 1\. ohne PAVK: vier Sitzungen,
+  - 2\. mit PAVK: sechs Sitzungen;
+
+- b. bei Personen mit Diabetes mellitus nach diabetischem Ulcus oder nach diabetesbedingter Amputation: sechs Sitzungen.
+
+<sup>3</sup> Eine neue ärztliche Anordnung ist erforderlich für die Fortsetzung der medizinischen Fusspflege zulasten der Versicherung nach dem Ende eines Kalenderjahres.
 
 ### 3. Kapitel: Massnahmen der Prävention
 
@@ -675,7 +733,7 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktische Impfungen u
 <tr><td>b. Haemophilus-Influenzae-Impfung</td><td>Gemäss Impfplan 2021 bei Kindern bis zum vollendeten 5. Altersjahr.</td></tr>
 <tr><td>c. Impfung gegen Influenza</td><td>1. Jährliche Impfung bei Personen mit einem erhöhten Komplikationsrisiko gemäss Impfplan 2021. 2. Während einer Influenza-Pandemie-Bedrohung oder einer Influenza-Pandemie bei Personen, bei denen das BAG eine Impfung empfiehlt[^12a-4]. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart.</td></tr>
 <tr><td>d. Hepatitis-B-Impfung</td><td>Gemäss Impfplan 2021. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>e.[^12a-5] ...</td><td></td></tr>
+<tr><td>e.[^12a-5] …</td><td></td></tr>
 <tr><td>f. Pneumokokken-Impfung</td><td>Gemäss Impfplan 2021 bei Kindern bis zum vollendeten 5. Altersjahr.</td></tr>
 <tr><td>g. Meningokokken-Impfung</td><td>Gemäss Impfplan 2021. Die Kosten werden nur für die Impfung mit Impfstoffen übernommen, die für die betreffende Altersgruppe über die nötige Zulassung verfügen. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>h. Impfung gegen Tuberkulose</td><td>Mit BCG-Impfstoff gemäss Impfplan 2021.</td></tr>
@@ -683,8 +741,9 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktische Impfungen u
 <tr><td>j. Varizellen-Impfung</td><td>Gemäss Impfplan 2021.</td></tr>
 <tr><td>k. Impfung gegen Humane Papillomaviren (HPV)</td><td>1. Gemäss Impfplan 2021: a. Basisimpfung der Mädchen zwischen dem vollendeten 11. und dem vollendeten 15. Altersjahr; b. Impfung der Mädchen und Frauen zwischen dem vollendeten 15. und dem vollendeten 27. Altersjahr; c. ergänzende Impfung bei Knaben und Männern zwischen dem vollendeten 11. und dem vollendeten 27. Altersjahr. 2. Impfung im Rahmen von kantonalen Impfprogrammen, die folgende Minimalanforderungen erfüllen: a. Die Information der Zielgruppen und von deren Eltern/gesetzlicher Vertretung über die Verfügbarkeit der Impfung und die Empfehlungen des BAG und der EKIF nach Ziffer 1 ist sichergestellt. b. Die Vollständigkeit der Impfung wird angestrebt. c. Die Leistungen und Pflichten der Programmträger, der impfenden Ärzte und Ärztinnen und der Krankenversicherer sind definiert. d. Datenerhebung, Abrechnung, Informations- und Finanzflüsse sind geregelt. 3. Auf dieser Leistung wird keine Franchise erhoben. Für die Impfung inklusive Impfstoff wird eine pauschale Vergütung vereinbart. 4. Die Kostenübernahme des nonavalenten Impfstoffes ist in Evaluation bis 31. Dezember 2022.</td></tr>
 <tr><td>l. Hepatitis-A-Impfung</td><td>Gemäss Impfplan 2021. Bei folgenden Personen: – bei Patienten und Patientinnen mit einer chronischen Lebererkrankung; – bei Kindern aus Ländern mit mittlerer und hoher Endemizität, die in der Schweiz leben und für einen vorübergehenden Aufenthalt in ihr Herkunftsland zurückkehren; – bei drogeninjizierenden Personen; – bei Männern mit sexuellen Kontakten zu Männern ausserhalb einer stabilen Beziehung. Postexpositionelle Impfung innerhalb von sieben Tagen nach Exposition. Bei beruflicher und reisemedizinischer Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><td>m. Impfung gegen Tollwut</td><td>Postexpositionelle Impfung nach Biss durch ein tollwütiges oder tollwutverdächtiges Tier. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
-<tr><th>n.[^12a-6] Impfung gegen Covid-19</th><th>1. Grundimmunisierung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. 2. Auffrischimpfung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. In Evaluation. Auf den Leistungen nach den Ziffern 1 und 2 wird keine Franchise erhoben. Für die Impfung einschliesslich Impfstoff wird eine pauschale Vergütung vereinbart.</th></tr>
+<tr><td>m.[^12a-6] Impfung gegen Tollwut</td><td>Postexpositionelle Impfung nach Exposition durch ein tollwütiges oder tollwutverdächtiges Tier gemäss den Richtlinien und Empfehlungen des Bundesamtes für Gesundheit und der Eidgenössischen Kommission für Impffragen vom 27. Januar 2021[^12a-7]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
+<tr><th>n.[^12a-8] Impfung gegen Covid-19</th><th>1. Grundimmunisierung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. 2. Auffrischimpfung während einer Covid-19-Epidemie, bei in erhöhtem Masse gefährdeten Personen. In Evaluation. Auf den Leistungen nach den Ziffern 1 und 2 wird keine Franchise erhoben. Für die Impfung einschliesslich Impfstoff wird eine pauschale Vergütung vereinbart.</th></tr>
+<tr><td>o.[^12a-9] Impfung gegen Herpes Zoster</td><td>Mit dem adjuvantierten Subunit-Impfstoff. Bei den Alters- und Risikogruppen gemäss den Impfempfehlungen des Bundesamtes für Gesundheit und der Eidgenössischen Kommission für Impffragen vom 22. November 2021[^12a-10].</td></tr>
 </table>
 
 [^12a-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
@@ -692,7 +751,11 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktische Impfungen u
 [^12a-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
 [^12a-4]: Siehe die Epidemienverordnung vom 29. April 2015 ([SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)).
 [^12a-5]: Aufgehoben durch Ziff. I der V des EDI vom 8. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12a-6]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Fassung gemäss Ziff. I der V des EDI vom 3. Nov. 2021, in Kraft vom 4. Nov. 2021 bis zum 30. Juni 2022 ([AS 2021 649](https://fedlex.data.admin.ch/eli/oc/2021/649)).
+[^12a-6]: Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^12a-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^12a-8]: Eingefügt durch Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Fassung gemäss Ziff. I der V des EDI vom 3. Nov. 2021, in Kraft vom 4. Nov. 2021 bis zum 30. Juni 2022 ([AS 2021 649](https://fedlex.data.admin.ch/eli/oc/2021/649)).
+[^12a-9]: Eingefügt durch Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^12a-10]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
 
 #### Art. 12b
 
@@ -705,6 +768,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur Prophylaxe v
 <tr><td>a. Vitamin-K-Prophylaxe</td><td>Bei Neugeborenen (3 Dosen).</td></tr>
 <tr><td>b. Vitamin-D-Gabe zur Rachitisprophylaxe</td><td>Während des ersten Lebensjahres.</td></tr>
 <tr><td>c.[^12b-2] HIV-Postexpositionsprophylaxe</td><td>Gemäss den Empfehlungen des BAG vom 24. November 2014 (BAG-Bulletin Nr. 48, 2014)[^12b-3]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>d.[^12b-4] Postexpositionelle passive Immunisierung</td><td>Gemäss den Empfehlungen des BAG und der Schweizerischen Kommission für Impffragen (Richtlinien und Empfehlungen «Postexpositionelle passive Immunisierung» vom Oktober 2004)[^12b-5]. Bei beruflicher Indikation erfolgt keine Kostenübernahme durch die Versicherung.</td></tr>
 <tr><td>e.[^12b-6] Prophylaktische Mastektomie und / oder Adnexektomie</td><td>Bei Trägerinnen von Mutationen oder Deletionen im BRCA1- oder BRCA2-Gen</td></tr>
 <tr><td>f.[^12b-7] Passive Impfung mit Hepatitis B-Immunglobulin</td><td>Bei Neugeborenen HBs-Ag-positiver Mütter.</td></tr>
@@ -778,7 +842,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur frühzeitige
 <tr><td>a.[^12e-2] Screening-Untersuchung auf Phenylketonurie, Galaktosämie, Biotinidasemangel, Adrenogenitales Syndrom, Kongenitale Hypothyreose, Medium-Chain-Acyl-CoA-Dehydrogenase (MCAD)-Mangel, Cystische Fibrose, Glutarazidurie Typ 1, Ahornsirupkrankheit, schwere angeborene Immundefekte.</td><td>Bei Neugeborenen. Laboranalysen gemäss Analysenliste (AL).</td></tr>
 <tr><td>b.[^12e-3] Gynäkologische Vorsorgeuntersuchung inklusive Krebsabstrich</td><td>Die ersten beiden Untersuchungen inklusive Krebsabstrich (insbesondere Papanicolau-Test zur Früherkennung des Zervixkarzinoms, Dünnschicht-Zytologie zur Früherkennung des Zervixkarzinoms mit den Methoden ThinPrep oder Autocyte Prep / SurePath) im Jahresintervall und danach alle drei Jahre. Dies gilt bei normalen Befunden; sonst Untersuchungsintervall nach klinischem Ermessen. Ausgenommen von der Kostenübernahme ist der Nachweis des Humanen Papilloma Virus beim Cervix-Screening.</td></tr>
 <tr><td>c.[^12e-4] Screening-Mammografie</td><td>Ab dem vollendeten 50. Lebensjahr alle zwei Jahre. Im Rahmen eines Programms zur Früherkennung des Brustkrebses gemäss der Verordnung vom 23. Juni 1999[^12e-5] über die Qualitätssicherung bei Programmen zur Früherkennung von Brustkrebs durch Mammografie. Auf dieser Leistung wird keine Franchise erhoben.</td></tr>
-<tr><td>d.[^12e-6] Früherkennung des Kolonkarzinoms</td><td>Im Alter von 50 bis 69 Jahren. Untersuchungsmethoden: – Untersuchung auf okkultes Blut im Stuhl, alle 2 Jahre, Laboranalysen gemäss Analysenliste (AL), Koloskopie im Falle eines positiven Befundes, oder – Koloskopie, alle 10 Jahre. Findet die Untersuchung im Rahmen der Früherkennungsprogramme in den Kantonen Basel-Stadt, Freiburg, Genf, Graubünden, Jura, Neuenburg, St. Gallen, Tessin, Uri, Waadt, Wallis oder im Verwaltungskreis Berner Jura statt, wird auf der Leistung keine Franchise erhoben.</td></tr>
+<tr><td>d.[^12e-6] Früherkennung des Kolonkarzinoms</td><td>Im Alter von 50 bis 69 Jahren. Untersuchungsmethoden: – Untersuchung auf okkultes Blut im Stuhl, alle 2 Jahre, Laboranalysen gemäss Analysenliste (AL), Koloskopie im Falle eines positiven Befundes, oder – Koloskopie, alle 10 Jahre. Findet die Untersuchung im Rahmen der Früherkennungsprogramme in den Kantonen Basel-Stadt, Bern, Freiburg, Genf, Graubünden, Jura, Luzern, Neuenburg, St. Gallen, Tessin, Uri, Waadt oder Wallis statt, wird auf der Leistung keine Franchise erhoben.</td></tr>
 </table>
 
 [^12e-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
@@ -786,7 +850,7 @@ Die Versicherung übernimmt die Kosten für folgende Massnahmen zur frühzeitige
 [^12e-3]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^12e-4]: Fassung gemäss Ziff. I der V des EDI vom 27. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)).
 [^12e-5]: [SR 832.102.4](https://fedlex.data.admin.ch/eli/cc/1999/341)
-[^12e-6]: Eingefügt durch Ziff. I der V des EDI vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)). Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^12e-6]: Eingefügt durch Ziff. I der V des EDI vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)). Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
 
 ### 4. Kapitel: Besondere Leistungen bei Mutterschaft
 
@@ -802,23 +866,24 @@ Die Versicherung übernimmt bei Mutterschaft die folgenden Kontrolluntersuchunge
 <tr><td>1. In der normalen Schwangerschaft sieben Untersuchungen</td><td>– *Erstkonsultation:* Anamnese, klinische und vaginale Untersuchung, Beratung, Untersuchung auf Varizen und Beinödeme. Veranlassung der notwendigen Laboranalysen gemäss Analysenliste (AL). – *Weitere Konsultationen:* Kontrolle des Allgemeinzustandes, insbesondere von Gewicht, Blutdruck, Fundusstand, Urinstatus und Auskultation fötaler Herztöne. Veranlassung der notwendigen Laboranalysen gemäss Analysenliste (AL). Umfassende Beratung in Zusammenhang mit der Schwangerschaft, namentlich zu aufgetretenen Schwangerschaftsbeschwerden. – Falls die Kontrollen ausschliesslich durch Ärzte und Ärztinnen durchgeführt werden, weisen diese die Versicherte darauf hin, dass im zweiten Trimenon der Schwangerschaft ein Beratungsgespräch mit der Hebamme nach Artikel 14 sinnvoll ist.</td></tr>
 <tr><td>[tab] 2. In der Risikoschwangerschaft</td><td>Untersuchungsintervall nach klinischem Ermessen.</td></tr>
 <tr><td>b. Ultraschallkontrollen</td><td></td></tr>
-<tr><td>1. In der normalen Schwangerschaft eine Routineuntersuchung in der 12.–14. Schwangerschaftswoche; eine Routineuntersuchung in der 20.–23. Schwangerschaftswoche</td><td>Nach einem umfassenden Aufklärungs- und Beratungsgespräch, das dokumentiert werden muss. Durchführung gemäss den «Empfehlungen zur Ultraschalluntersuchung in der Schwangerschaft» der Schweizerischen Gesellschaft für Ultraschall in der Medizin (SGUM), Sektion Gynäkologie und Geburtshilfe, 3. Auflage (2019)[^13-2]. Nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012[^13-3], entspricht.</td></tr>
+<tr><td>1.[^13-2] In der normalen Schwangerschaft eine Routineuntersuchung in der 12.–14. Schwangerschaftswoche; eine Routineuntersuchung in der 20.–23. Schwangerschaftswoche</td><td>Nach einem umfassenden Aufklärungs- und Beratungsgespräch, das dokumentiert werden muss. Durchführung gemäss den «Empfehlungen zur Ultraschalluntersuchung in der Schwangerschaft» der Schweizerischen Gesellschaft für Ultraschall in der Medizin (SGUM), Sektion Gynäkologie und Geburtshilfe, 4. Auflage (2019)[^13-3]. Nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012[^13-4], entspricht.</td></tr>
 <tr><td>2. In der Risikoschwangerschaft</td><td>Untersuchungsintervall nach klinischem Ermessen. Nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht.</td></tr>
-<tr><td>b<sup>bis</sup>. Ersttrimestertest</td><td>Pränatale Abklärung des Risikos von Trisomie 21, 18 und 13: anhand der Messung der Nackentransparenz in der Ultraschalluntersuchung (12.–14. Woche), der Bestimmung von PAPP-A und freiem ß-HCG im mütterlichen Blut und weiterer mütterlicher und fötaler Faktoren. Nach einer Information nach Artikel 16 und der Gewährung des Selbstbestimmungsrechts nach Artikel 18 des Bundesgesetzes vom 8. Oktober 2004[^13-4] über genetische Untersuchungen beim Menschen (GUMG). Anordnung und Messung der Nackentransparenz nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. Laboranalysen gemäss Analysenliste (AL).</td></tr>
-<tr><td>b<sup>ter</sup>. Nicht-invasiver pränataler Test (NIPT)</td><td>Zur Untersuchung auf eine Trisomie 21, 18 oder 13. Ab der 12. Schwangerschaftswoche. Bei Schwangeren, bei denen ein Risiko von 1:1000 oder höher besteht, dass beim Fötus eine Trisomie 21, 18 oder 13 vorliegt. Ermittlung des Risikos und Indikationsstellung bei Fehlbildungen im Ultraschall gemäss Expertenbrief Nr. 52 vom 14. März 2018[^13-5] der Schweizerischen Gesellschaft für Gynäkologie und Geburtshilfe (SGGG), verfasst von der Arbeitsgruppe der Akademie für fetomaternale Medizin und der Schweizerischen Gesellschaft für medizinische Genetik. Bei Zwillingsschwangerschaften sind NIPT mittels Microarray oder Single Nucleotide Polymorphism (SNP) von der Kostenübernahme durch die Versicherung ausgeschlossen. Nach einem umfassenden Aufklärungs‑ und Beratungsgespräch nach den Artikeln 14 und 15 GUMG sowie nach Erteilung der schriftlichen Zustimmung durch die Schwangere unter Gewährung des Selbstbestimmungsrechts nach Artikel 18 GUMG. Anordnung nur durch Fachärzte und Fachärztinnen in Gynäkologie und Geburtshilfe mit Schwerpunkt fetomaternale Medizin (Weiterbildungsprogramm vom 15. März 2012, revidiert am 16. Februar 2017[^13-6]), Fachärzte und Fachärztinnen für Medizinische Genetik und Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. Laboranalysen gemäss Analysenliste (AL). Wird aus technischen Gründen das Geschlecht des Fötus bestimmt, darf diese Information nicht vor Ablauf von 12 Wochen seit Beginn der letzten Periode mitgeteilt werden.</td></tr>
+<tr><td>b<sup>bis</sup>. Ersttrimestertest</td><td>Pränatale Abklärung des Risikos von Trisomie 21, 18 und 13: anhand der Messung der Nackentransparenz in der Ultraschalluntersuchung (12.–14. Woche), der Bestimmung von PAPP-A und freiem ß-HCG im mütterlichen Blut und weiterer mütterlicher und fötaler Faktoren. Nach einer Information nach Artikel 16 und der Gewährung des Selbstbestimmungsrechts nach Artikel 18 des Bundesgesetzes vom 8. Oktober 2004[^13-5] über genetische Untersuchungen beim Menschen (GUMG). Anordnung und Messung der Nackentransparenz nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. Laboranalysen gemäss Analysenliste (AL).</td></tr>
+<tr><td>b<sup>ter</sup>. Nicht-invasiver pränataler Test (NIPT)</td><td>Zur Untersuchung auf eine Trisomie 21, 18 oder 13. Ab der 12. Schwangerschaftswoche. Bei Schwangeren, bei denen ein Risiko von 1:1000 oder höher besteht, dass beim Fötus eine Trisomie 21, 18 oder 13 vorliegt. Ermittlung des Risikos und Indikationsstellung bei Fehlbildungen im Ultraschall gemäss Expertenbrief Nr. 52 vom 14. März 2018[^13-6] der Schweizerischen Gesellschaft für Gynäkologie und Geburtshilfe (SGGG), verfasst von der Arbeitsgruppe der Akademie für fetomaternale Medizin und der Schweizerischen Gesellschaft für medizinische Genetik. Bei Zwillingsschwangerschaften sind NIPT mittels Microarray oder Single Nucleotide Polymorphism (SNP) von der Kostenübernahme durch die Versicherung ausgeschlossen. Nach einem umfassenden Aufklärungs‑ und Beratungsgespräch nach den Artikeln 14 und 15 GUMG sowie nach Erteilung der schriftlichen Zustimmung durch die Schwangere unter Gewährung des Selbstbestimmungsrechts nach Artikel 18 GUMG. Anordnung nur durch Fachärzte und Fachärztinnen in Gynäkologie und Geburtshilfe mit Schwerpunkt fetomaternale Medizin (Weiterbildungsprogramm vom 15. März 2012, revidiert am 16. Februar 2017[^13-7]), Fachärzte und Fachärztinnen für Medizinische Genetik und Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. Laboranalysen gemäss Analysenliste (AL). Wird aus technischen Gründen das Geschlecht des Fötus bestimmt, darf diese Information nicht vor Ablauf von 12 Wochen seit Beginn der letzten Periode mitgeteilt werden.</td></tr>
 <tr><td>c. Präpartale Untersuchungen mittels Kardiotokografie</td><td>Bei entsprechender Indikation in der Risikoschwangerschaft.</td></tr>
 <tr><td>d. Amniozentese, Chorionbiopsie, Cordozentese</td><td>Nach einem umfassenden Aufklärungs- und Beratungsgespräch, das dokumentiert werden muss, in den folgenden Fällen: – Zur Bestätigung eines positiven Befundes bei Schwangeren, bei denen aufgrund des nicht-invasiven pränatalen genetischen Tests (NIPT) ein hochgradiger Verdacht oder aufgrund des Ersttrimestertests ein Risiko von 1:380 oder höher besteht, dass beim Fötus eine Trisomie 21, 18 oder 13 vorliegt; – bei Schwangeren, bei denen aufgrund des Ultraschallbefundes, der Familienanamnese oder aus einem andern Grund ein Risiko von 1:380 oder höher besteht, dass beim Fötus eine ausschliesslich genetisch bedingte Erkrankung vorliegt; – bei Gefährdung des Fötus durch eine Schwangerschaftskomplikation, eine Erkrankung der Mutter oder eine nicht genetisch bedingte Erkrankung oder Entwicklungsstörung des Fötus. Anordnung für genetische Untersuchungen nur durch Fachärzte und Fachärztinnen in Gynäkologie und Geburtshilfe mit Schwerpunkt fetomaternale Medizin (Weiterbildungsprogramm vom 15. März 2012, revidiert am 16. Februar 2017) sowie Fachärzte und Fachärztinnen für Medizinische Genetik und Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht. [tab] Laboranalysen gemäss Analysenliste (AL)</td></tr>
 <tr><td>e. Kontrolle post-partum eine Untersuchung</td><td>Zwischen sechster und zehnter postpartum-Woche: Zwischenanamnese, klinische und gynäkologische Untersuchung inkl. Beratung.</td></tr>
-<tr><td>f. Kontrolle nach Fehlgeburt</td><td>Nach Fehlgeburt oder medizinisch indiziertem Schwangerschaftsabbruch ab der 13. bis zur vollendeten 23. Schwangerschaftswoche. Zwischenanamnese, gynäkologischer und klinischer Status, Beratung; Laboranalysen und Ultraschalluntersuchung nach klinischem Ermessen. Ultraschalluntersuchung nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht.[^13-7]</td></tr>
+<tr><td>f. Kontrolle nach Fehlgeburt</td><td>Nach Fehlgeburt oder medizinisch indiziertem Schwangerschaftsabbruch ab der 13. bis zur vollendeten 23. Schwangerschaftswoche. Zwischenanamnese, gynäkologischer und klinischer Status, Beratung; Laboranalysen und Ultraschalluntersuchung nach klinischem Ermessen. Ultraschalluntersuchung nur durch Ärzte und Ärztinnen mit einer Weiterbildung, die dem Fähigkeitsprogramm Schwangerschaftsultraschall (SGUM) vom 28. Mai 1998, revidiert am 15. März 2012, entspricht.[^13-8]</td></tr>
 </table>
 
 [^13-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^13-2]: Die Dokumente sind einsehbar unter: www.bag.admin.ch/ref
-[^13-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
-[^13-4]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
-[^13-5]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^13-2]: Fassung gemäss Ziff. I der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^13-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^13-4]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^13-5]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 [^13-6]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
-[^13-7]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^13-7]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref
+[^13-8]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 
 #### Art. 14
 
@@ -848,7 +913,7 @@ Die Versicherung übernimmt einen Beitrag von 150 Franken:
 
 <sup>1</sup>
 
-Die Hebammen und die Organisationen der Hebammen können zu Lasten der Versicherung die folgenden Leistungen erbringen:
+Die Versicherung übernimmt die Kosten der folgenden Leistungen, die von nach Artikel 45 KVV zugelassenen Hebammen oder von nach Artikel 45*a* KVV zugelassenen Organisationen der Hebammen erbracht werden:[^16-2]
 
 - a.
 
@@ -857,7 +922,7 @@ Die Hebammen und die Organisationen der Hebammen können zu Lasten der Versicher
   - 1\. In der normalen Schwangerschaft kann die Hebamme oder die Organisation der Hebammen sieben Kontrolluntersuchungen durchführen; sie weist die Versicherte darauf hin, dass ersten Trimenon eine ärztliche Untersuchung angezeigt ist.
   - 2\. Bei einer Risikoschwangerschaft ohne manifeste Pathologie arbeitet die Hebamme oder die Organisation der Hebammen mit dem Arzt oder mit der Ärztin zusammen; bei einer Risikoschwangerschaft mit manifester Pathologie erbringt sie ihre Leistungen auf ärztliche Anordnung.
 
-- a<sup>bis</sup>.[^16-2]
+- a<sup>bis</sup>.[^16-3]
 
   Betreuung im Rahmen von Hausbesuchen zur Pflege und zur Überwachung des Gesundheitszustands der Versicherten nach einer Fehlgeburt oder einem medizinisch indizierten Schwangerschaftsabbruch ab der 13. bis zur vollendeten 23. Schwangerschaftswoche, wie folgt:
 
@@ -878,7 +943,8 @@ Die Hebammen und die Organisationen der Hebammen können zu Lasten der Versicher
 <sup>3</sup> Sie können bei den Kontrolluntersuchungen Ultraschallkontrollen nach Artikel 13 Buchstabe b anordnen.
 
 [^16-1]: Fassung gemäss Ziff. I der V des EDI vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
-[^16-2]: Eingefügt durch Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
+[^16-2]: Fassung gemäss Ziff. I der V des EDI vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+[^16-3]: Eingefügt durch Ziff. I der V des EDI vom 6. Juni 2019, in Kraft seit 1. Juli 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 
 ### 5. Kapitel: Zahnärztliche Behandlungen
 
@@ -978,7 +1044,7 @@ Die Versicherung übernimmt die Kosten der zahnärztlichen Behandlungen, die dur
   - 7\. Schwere psychische Erkrankungen mit konsekutiver schwerer Beeinträchtigung der Kaufunktion;
 
 - d. Speicheldrüsenerkrankungen;
-- e.[^18-4] ...
+- e.[^18-4] …
 
 <sup>2</sup> Die Versicherung übernimmt die Kosten der in Absatz 1 aufgeführten Leistungen nur auf vorgängige besondere Gutsprache des Versicherers, der die Empfehlung des Vertrauensarztes oder der Vertrauensärztin berücksichtigt.[^18-5]
 
@@ -1131,7 +1197,7 @@ Die Versicherung leistet eine Vergütung an Mittel und Gegenstände, die der Beh
 
 <sup>1</sup> Die Mittel und Gegenstände, die nach Artikel 20 Absatz 1 vergütet werden, sind in der Liste nach Anhang 2 nach Produktgruppen aufgeführt.[^20a-2]
 
-<sup>2</sup> ...[^20a-3]
+<sup>2</sup> …[^20a-3]
 
 <sup>3</sup> Die Liste der Mittel und Gegenstände wird in der AS und in der SR nicht veröffentlicht. Die Änderungen und konsolidierte Fassungen der Liste werden auf der Website des BAG publiziert[^20a-4].[^20a-5]
 
@@ -1253,7 +1319,7 @@ Ein Arzneimittel wird in die Spezialitätenliste aufgenommen, wenn:[^30-1]
 - a.[^30-2] seine Wirksamkeit, Zweckmässigkeit und Wirtschaftlichkeit nachgewiesen sind;
 - b.[^30-3] die Zulassung des Schweizerischen Heilmittelinstituts (Swissmedic) vorliegt.
 
-<sup>2</sup> ...[^30-4]
+<sup>2</sup> …[^30-4]
 
 [^30-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)).
 [^30-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)).
@@ -1276,7 +1342,7 @@ Ein Gesuch um Aufnahme in die Spezialitätenliste hat insbesondere zu enthalten:
 - d. die der Swissmedic eingereichte Zusammenfassung der klinischen Dokumentation;
 - e. die wichtigsten klinischen Studien;
 - f.[^30a-6] die Fabrikabgabepreise in allen Vergleichsländern nach Artikel 34*a*<sup>bis</sup> Absatz 1;
-- g.[^30a-7] ...
+- g.[^30a-7] …
 
 <sup>2</sup> Zusammen mit der Zulassungsverfügung und der Zulassungsbescheinigung sind die definitive Fachinformation mit Angabe allfälliger Änderungen und der definitive Zielpreis für die Europäische Gemeinschaft nachzureichen.
 
@@ -1437,7 +1503,7 @@ Die IT-Gruppen werden in folgende Einheiten nach Artikel 65*d* Absatz 1 KVV eing
   - 2\. Stoffwechsel (07),
   - 3\. Antidota (15),
   - 4\. Kationenaustauscher (16),
-  - 5\.[^34d-3] ...
+  - 5\.[^34d-3] …
   - 6\. Gastroenterologika Komplementärmedizin (54),
   - 7\. Stoffwechsel Komplementärmedizin (57);
 
@@ -1503,7 +1569,7 @@ Auf Verlangen des BAG muss die Zulassungsinhaberin dem BAG folgende Unterlagen e
 
 <sup>3</sup> Für die Ermittlung der Preise nach Absatz 1 muss die Zulassungsinhaberin, die das Originalpräparat vertreibt, dem BAG die umsatzstärkste Packung sämtlicher Handelsformen desselben Wirkstoffs während der letzten zwölf Monate in der Schweiz bekannt geben. Das BAG kann die entsprechenden Umsatzzahlen einfordern.
 
-<sup>4</sup> ...[^34e-2]
+<sup>4</sup> …[^34e-2]
 
 [^34e-1]: Eingefügt durch Ziff. I der V des EDI vom 29. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)). Siehe auch die UeB der Änd. 29.4.15 und 1.2.2017 am Ende dieses Textes.
 [^34e-2]: Aufgehoben durch Ziff. I der V des EDI vom 1. Febr. 2017, mit Wirkung seit 1. März 2017 ([AS 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)).
@@ -1551,7 +1617,7 @@ Im Zuge der Überprüfung nach Artikel 34*d* Absatz 1 gelten Generika als wirtsc
 
 Preiserhöhungen nach Artikel 67 Absatz 2 KVV sind ausgeschlossen. Das BAG kann ausnahmsweise Preiserhöhungen gewähren, wenn die Versorgung der Schweizer Bevölkerung sichergestellt werden muss und therapeutische Alternativen fehlen.
 
-[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 30. Nov. 2020, in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2022 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
 
 #### Art. 35a
 
@@ -1631,7 +1697,7 @@ Für die Überprüfung eines Originalpräparates aufgrund einer Einschränkung d
 
 <sup>1</sup> Die Überprüfungen nach den Artikeln 37–37*c* umfassen alle Packungsgrössen, Dosierungen und galenischen Formen des Originalpräparates.
 
-<sup>2</sup> ...[^37d-2]
+<sup>2</sup> …[^37d-2]
 
 [^37d-1]: Eingefügt durch Ziff. I der V des EDI vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1757](https://fedlex.data.admin.ch/eli/oc/2006/271)).
 [^37d-2]: Aufgehoben durch Ziff. I der V des EDI vom 29. April 2015, mit Wirkung seit 1. Juni 2015 ([AS 2015 1359](https://fedlex.data.admin.ch/eli/oc/2015/281)).
@@ -1733,7 +1799,7 @@ Der Zuschlag je Packung für verschreibungspflichtige Arzneimittel beträgt bei 
 
 ## 2. Titel: Voraussetzungen der Leistungserbringung
 
-### 1. Kapitel: ...
+### 1. Kapitel: …
 
 #### Art. 39
 
@@ -1741,18 +1807,15 @@ Der Zuschlag je Packung für verschreibungspflichtige Arzneimittel beträgt bei 
 
 [^39-1]: Aufgehoben durch Ziff. I der V vom 2. Juli 2002, mit Wirkung seit 1. Juli 2002 ([AS 2002 3013](https://fedlex.data.admin.ch/eli/oc/2002/436)).
 
-### 2. Kapitel: Schulen für Chiropraktik
+### 2. Kapitel: …
 
 #### Art. 40
 
 [^40-1]
 
-Die nach Artikel 44 Absatz 1 Buchstabe a KVV anerkannten Schulen für Chiropraktik werden in Artikel 1 der Verordnung des EDI vom 20. August 2007[^40-2] über die anerkannten Studiengänge für Chiropraktik ausländischer universitärer Hochschulen bestimmt.
+[^40-1]: Aufgehoben durch Ziff. I der V des EDI vom 23. Juni 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 
-[^40-1]: Fassung gemäss Art. 2 der V des EDI vom 20. Aug. 2007 über die anerkannten Studiengänge für Chiropraktik ausländischer universitärer Hochschulen, in Kraft seit 1. Sept. 2007 ([AS 2007 4085](https://fedlex.data.admin.ch/eli/oc/2007/542)).
-[^40-2]: [SR 811.115.4](https://fedlex.data.admin.ch/eli/cc/2021/916)
-
-### 3. Kapitel: ...
+### 3. Kapitel: …
 
 #### Art. 41
 
@@ -1779,7 +1842,7 @@ Als höhere Fachausbildung im Sinne von Artikel 54 Absatz 2 KVV gilt:
 
 <sup>3</sup> Als Weiterbildungstitel im Sinne von Artikel 54 Absatz 3 Buchstabe b KVV gilt ein Weiterbildungstitel in Labormedizin in den Fachgebieten Hämatologie, klinische Chemie, klinische Immunologie und medizinische Mikrobiologie.[^42-2]
 
-<sup>4</sup> ...[^42-3]
+<sup>4</sup> …[^42-3]
 
 [^42-1]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^42-2]: Fassung gemäss Ziff. I der V des EDI vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
@@ -1825,16 +1888,16 @@ Es werden aufgehoben:
 - i. die Verordnung des EDI vom 28. Dezember 1989[^44-9] über die von den anerkannten Krankenkassen als Pflichtleistungen zu übernehmenden Arzneimittel;
 - k. die Verordnung des EDI vom 23. Dezember 1988[^44-10] über die von den anerkannten Krankenkassen als Pflichtleistungen zu übernehmenden Analysen.
 
-[^44-1]: [[AS 1965 127](https://fedlex.data.admin.ch/eli/oc/1965/127_131_131), [1970 949](https://fedlex.data.admin.ch/eli/oc/1970/949_949_949), [1971 1714](https://fedlex.data.admin.ch/eli/oc/1971/1714_1719_1719), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)Ziff. II]
-[^44-2]: [[AS 1965 425](https://fedlex.data.admin.ch/eli/oc/1965/425_429_423), [1968 1012](https://fedlex.data.admin.ch/eli/oc/1968/1012_1052_968), [1974 688](https://fedlex.data.admin.ch/eli/oc/1974/688_688_688), [1986 891](https://fedlex.data.admin.ch/eli/oc/1986/891_891_891)]
-[^44-3]: [[AS 1965 613](https://fedlex.data.admin.ch/eli/oc/1965/613_619_612), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)Ziff. II]
-[^44-4]: [[AS 1965 1199](https://fedlex.data.admin.ch/eli/oc/1965/1199_1211_1201), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)Ziff. II, [1988 973](https://fedlex.data.admin.ch/eli/oc/1988/973_973_973)]
-[^44-5]: [[AS 1965 1201](https://fedlex.data.admin.ch/eli/oc/1965/1201_1213_1202), [1968 798](https://fedlex.data.admin.ch/eli/oc/1968/798_838_754), [1971 1262](https://fedlex.data.admin.ch/eli/oc/1971/1262_1258_1258), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)Ziff. II, [1988 2012](https://fedlex.data.admin.ch/eli/oc/1988/2012_2012_2012), [1993 349](https://fedlex.data.admin.ch/eli/oc/1993/349_349_349), [1995 890](https://fedlex.data.admin.ch/eli/oc/1995/890_890_890)]
+[^44-1]: [[AS 1965 127](https://fedlex.data.admin.ch/eli/oc/1965/127_131_131); [1970 949](https://fedlex.data.admin.ch/eli/oc/1970/949_949_949); [1971 1714](https://fedlex.data.admin.ch/eli/oc/1971/1714_1719_1719); [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)Ziff. II]
+[^44-2]: [[AS 1965 425](https://fedlex.data.admin.ch/eli/oc/1965/425_429_423); [1968 1012](https://fedlex.data.admin.ch/eli/oc/1968/1012_1052_968); [1974 688](https://fedlex.data.admin.ch/eli/oc/1974/688_688_688); [1986 891](https://fedlex.data.admin.ch/eli/oc/1986/891_891_891)]
+[^44-3]: [[AS 1965 613](https://fedlex.data.admin.ch/eli/oc/1965/613_619_612); [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)Ziff. II]
+[^44-4]: [[AS 1965 1199](https://fedlex.data.admin.ch/eli/oc/1965/1199_1211_1201); [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)Ziff. II; [1988 973](https://fedlex.data.admin.ch/eli/oc/1988/973_973_973)]
+[^44-5]: [[AS 1965 1201](https://fedlex.data.admin.ch/eli/oc/1965/1201_1213_1202); [1968 798](https://fedlex.data.admin.ch/eli/oc/1968/798_838_754); [1971 1262](https://fedlex.data.admin.ch/eli/oc/1971/1262_1258_1258); [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)Ziff. II; [1988 2012](https://fedlex.data.admin.ch/eli/oc/1988/2012_2012_2012); [1993 349](https://fedlex.data.admin.ch/eli/oc/1993/349_349_349); [1995 890](https://fedlex.data.admin.ch/eli/oc/1995/890_890_890)]
 [^44-6]: [[AS 1986 87](https://fedlex.data.admin.ch/eli/oc/1986/87_87_87)]
-[^44-7]: [[AS 1991 519](https://fedlex.data.admin.ch/eli/oc/1991/519_519_519), [1995 891](https://fedlex.data.admin.ch/eli/oc/1995/891_891_891)]
-[^44-8]: [[AS 1968 1496](https://fedlex.data.admin.ch/eli/oc/1968/1496_1543_1463), [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)]
-[^44-9]: [[AS 1990 127](https://fedlex.data.admin.ch/eli/oc/1990/127_127_127), [1991 959](https://fedlex.data.admin.ch/eli/oc/1991/959_959_959), [1994 765](https://fedlex.data.admin.ch/eli/oc/1994/765_765_765)]
-[^44-10]: [[AS 1989 374](https://fedlex.data.admin.ch/eli/oc/1989/374_374_374), [1995 750](https://fedlex.data.admin.ch/eli/oc/1995/750_750_750)[3688](https://fedlex.data.admin.ch/eli/oc/1995/3688_3688_3688)]
+[^44-7]: [[AS 1991 519](https://fedlex.data.admin.ch/eli/oc/1991/519_519_519); [1995 891](https://fedlex.data.admin.ch/eli/oc/1995/891_891_891)]
+[^44-8]: [[AS 1968 1496](https://fedlex.data.admin.ch/eli/oc/1968/1496_1543_1463); [1986 1487](https://fedlex.data.admin.ch/eli/oc/1986/1487_1487_1487)]
+[^44-9]: [[AS 1990 127](https://fedlex.data.admin.ch/eli/oc/1990/127_127_127); [1991 959](https://fedlex.data.admin.ch/eli/oc/1991/959_959_959); [1994 765](https://fedlex.data.admin.ch/eli/oc/1994/765_765_765)]
+[^44-10]: [[AS 1989 374](https://fedlex.data.admin.ch/eli/oc/1989/374_374_374); [1995 750](https://fedlex.data.admin.ch/eli/oc/1995/750_750_750), [3688](https://fedlex.data.admin.ch/eli/oc/1995/3688_3688_3688)]
 
 #### Art. 45
 
@@ -1848,9 +1911,9 @@ Es werden aufgehoben:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
-<sup>2</sup> ...[^46-2]
+<sup>2</sup> …[^46-2]
 
-<sup>3</sup> ...[^46-3]
+<sup>3</sup> …[^46-3]
 
 [^46-1]: Fassung gemäss Ziff. I der V des EDI vom 26. Febr. 1996, in Kraft seit 1. Juni 1996 ([AS 1996 1232](https://fedlex.data.admin.ch/eli/oc/1996/1232_1232_1232)).
 [^46-2]: Aufgehoben durch Ziff. I der V des EDI vom 15. Jan. 1996, mit Wirkung seit 1. Mai 1996 ([AS 1996 909](https://fedlex.data.admin.ch/eli/oc/1996/909_909_909)).
@@ -1882,7 +1945,7 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 <sup>1</sup> Für die Zeit vom 1. Juli bis zum 30. September 2006 erfolgt die Kostenübernahme für die Positron-Emissions-Tomographie (PET) gemäss Anhang 1 Ziffer 9.2 der Fassung vom 9. November 2005[^u3-2].[^u3-3]
 
-<sup>2</sup> ...[^u3-4]
+<sup>2</sup> …[^u3-4]
 
 [^u3-2]: [AS 2006 23](https://fedlex.data.admin.ch/eli/oc/2006/10)
 [^u3-3]: In Kraft seit 1. Juli 2006.
@@ -1961,7 +2024,7 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 [^u10-1]: [AS 2015 4189](https://fedlex.data.admin.ch/eli/oc/2015/700)
 
-<sup>1</sup> ...[^u10-2]
+<sup>1</sup> …[^u10-2]
 
 <sup>2</sup> Für die Rückerstattung von Mehreinnahmen bei Arzneimitteln, die vor dem 1. Juni 2015 in die Spezialitätenliste aufgenommen wurden, gilt Absatz 3 der Übergangsbestimmung zur Änderung vom 29. April 2015.
 
@@ -1993,42 +2056,63 @@ Die Versicherer setzen die in Artikel 38*a* vorgesehene Selbstbehaltsregelung bi
 
 [^u12-2]: Eingefügt durch Ziff. I der V des EDI vom 7. Febr. 2020, in Kraft seit 1. Juli 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)).
 
+## Übergangsbestimmung zur Änderung vom 23. Juni 2021****
+
+[^u13-1]
+
+[^u13-1]: Tritt am 1. Juli 2022 in Kraft ([AS 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
+
 Anhang 1*[^t-2]*
 
 (Art. 1)
 
-## Vergütungspflicht der obligatorischen Krankenpflegeversicherung für bestimmte ärztliche Leistungen
+## Vergütungspflicht der obligatorischen Krankenpflegeversicherung für bestimmte ärztliche Leistungen****
 
-[^t-2]: Der Anhang wird nicht in der AS nicht veröffentlicht ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen &gt; Anhang 1 der KLV.
+[^annex1-lvlu1-1]
+
+[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)) und vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^annex1-lvlu1-1]: Der Anhang wird nicht in der AS nicht veröffentlicht. Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; ärztliche Leistungen &gt; Anhang 1 der KLV.
 
 Anhang 1a*[^t-3]*
 
 (Art. 3*c* Abs. 4)
 
-## Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen
+## Einschränkung der Kostenübernahme bei bestimmten elektiven Eingriffen****
 
-[^t-3]: Der Anhang wird nicht in der AS nicht veröffentlicht ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339); [2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Ärztliche Leistungen &gt; Anhang 1a der KLV.
+[^annex1a-lvlu1-1]
+
+[^t-3]: Eingefügt durch Ziff. III Abs. 4 der V des EDI vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Fassung gemäss Ziff. II der V des EDI vom 7. Febr. 2020 ([AS 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)) und vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^annex1a-lvlu1-1]: Der Anhang wird nicht in der AS nicht veröffentlicht. Er kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Ärztliche Leistungen &gt; Anhang 1a der KLV.
 
 Anhang 2*[^t-4]*
 
 (Art. 20*a*)
 
-## Mittel- und Gegenstände-Liste
+## Mittel- und Gegenstände-Liste****
 
-[^t-4]: In der AS nicht veröffentlicht ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [2375](https://fedlex.data.admin.ch/eli/oc/2018/340), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [4387](https://fedlex.data.admin.ch/eli/oc/2019/756); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [392](https://fedlex.data.admin.ch/eli/oc/2021/392), [394](https://fedlex.data.admin.ch/eli/oc/2021/394)). Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL).
+[^annex2-lvlu1-1]
+
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 5. Juni 2009 ([AS 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370), vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. I der V des EDI vom 7. Juni 2018 ([AS 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 2 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 6. Dez. 2019 ([AS 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. II Abs. 3 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 30. Nov. 2020 ([AS 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), Ziff. II Abs. 2 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), Ziff. I der V des EDI vom 8. Juni 2021 ([AS 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)) und Ziff. II Abs. 3 der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^annex2-lvlu1-1]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Mittel- und Gegenständeliste (MiGeL).
 
 Anhang 3*[^t-5]*
 
 (Art. 28)
 
-## Analysenliste
+## Analysenliste****
 
-[^t-5]: In der AS nicht veröffentlicht (Art. 28) ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246), [3173](https://fedlex.data.admin.ch/eli/oc/2009/401), [6083](https://fedlex.data.admin.ch/eli/oc/2009/744); [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359), [5837](https://fedlex.data.admin.ch/eli/oc/2010/831); [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370), [6487](https://fedlex.data.admin.ch/eli/oc/2011/899); [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400), [4347](https://fedlex.data.admin.ch/eli/oc/2012/511), [6587](https://fedlex.data.admin.ch/eli/oc/2012/795); [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414), [5329](https://fedlex.data.admin.ch/eli/oc/2013/850); [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269), [3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [4393](https://fedlex.data.admin.ch/eli/oc/2014/724); [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406), [5125](https://fedlex.data.admin.ch/eli/oc/2015/837); [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396), [4639](https://fedlex.data.admin.ch/eli/oc/2016/750); [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [7151](https://fedlex.data.admin.ch/eli/oc/2017/773); [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339), [5085](https://fedlex.data.admin.ch/eli/oc/2018/793); [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78), [1931](https://fedlex.data.admin.ch/eli/oc/2019/355); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [629](https://fedlex.data.admin.ch/eli/oc/2020/121), [1409](https://fedlex.data.admin.ch/eli/oc/2020/277), [2539](https://fedlex.data.admin.ch/eli/oc/2020/464), [4139](https://fedlex.data.admin.ch/eli/oc/2020/755), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033); [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44), [148](https://fedlex.data.admin.ch/eli/oc/2021/148), [392](https://fedlex.data.admin.ch/eli/oc/2021/392)). Die Liste kann eingesehen werden unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL).
+[^annex3-lvlu1-1]
+
+[^t-5]: Bereinigt gemäss Ziff. I der V des EDI vom 28. Jan. 2009 ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), vom 26. Juni 2009 ([AS 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), Ziff. II Abs. 3 der V des EDI vom 27. Okt. 2009 ([AS 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), vom 14. Juni 2010 ([AS 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), vom 2. Dez. 2010 ([AS 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), vom 31. Mai 2011 ([AS 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), vom 5. Dez. 2011 ([AS 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), vom 12. Juni 2012 ([AS 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), Ziff. I der V des EDI vom 13. Aug. 2012 ([AS 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), Ziff. II Abs. 3 der V des EDI vom 15. Nov. 2012 ([AS 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), vom 10. Juni 2013 ([AS 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)), vom 6. Dez. 2013 ([AS 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), vom 16. Mai 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), Ziff. I der V des EDI vom 21. Okt. 2014 ([AS 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), Ziff. II Abs. 3 der V des EDI vom 20. Nov. 2014 ([AS 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), vom 17. Juni 2015 ([AS 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), vom 27. Nov. 2015 ([AS 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), vom 20. Juni 2016 ([AS 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), vom 25. Nov. 2016 ([AS 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), vom 2. Juni 2017 ([AS 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), vom 28. Nov. 2017 ([AS 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), vom 7. Juni 2018 ([AS 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2018 ([AS 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), Ziff. II Abs. 3 der V des EDI vom 16. Jan. 2019 ([AS 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), vom 6. Juni 2019 ([AS 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), vom 27. April 2020 ([AS 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), Ziff. II Abs. 3 der V des EDI vom 27. Mai 2020 ([AS 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), Ziff. I der V des EDI vom 25. Sept. 2020 ([AS 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), Ziff. II Abs. 4 der V des EDI vom 30. Nov. 2020 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), Ziff. I der V des EDI vom 5. Jan. 2021 ([AS 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), vom 26. Febr. 2021 ([AS 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), Ziff. II Abs. 3 der V des EDI vom 8. Juni 2021 ([AS 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)) und Ziff. II Abs. 4 der V des EDI vom 1. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)).
+[^annex3-lvlu1-1]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL).
 
 Anhang 4*[^t-6]*
 
 (Art. 29)
 
-## Arzneimittelliste mit Tarif
+## Arzneimittelliste mit Tarif****
 
-[^t-6]: In der AS nicht veröffentlicht ([AS 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470); [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98), [6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Arzneimittel &gt; Arzneimittelliste mit Tarif (ALT).
+[^annex4-lvlu1-1]
+
+[^t-6]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 2. Juni 2005 ([AS 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), Ziff. II Abs. 4 der V des EDI vom 7. Febr. 2020 ([AS 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)) und Ziff. II Abs. 5 der V des EDI vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
+[^annex4-lvlu1-1]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Arzneimittel &gt; Arzneimittelliste mit Tarif (ALT).
