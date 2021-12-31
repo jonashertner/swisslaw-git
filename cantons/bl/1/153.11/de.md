@@ -3,20 +3,20 @@ canton: BL
 number: "153.11"
 title: Verordnung zur Arbeitszeit
 language: de
-version: 2021-08-31
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2023-12-31
 version_adopted: 2021-08-31
 adopted: 2000-01-04
 in_force: 2000-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.11"
-pdf: "https://bl.clex.ch/api/de/versions/3085/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3086/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Arbeitszeit
 
-Vom 04.01.2000 (Stand 31.08.2021)
+Vom 04.01.2000 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -157,6 +157,8 @@ beschliesst:
 <sup>2</sup> Der Zeitsaldo ist in der Regel stundenweise innerhalb der Gleitzeit zu kompensieren.
 
 <sup>3</sup> …
+
+<sup>3<sup>bis</sup></sup> Solange der jährliche Ferienanspruch nicht vollständig bezogen oder geplant ist, darf pro Woche zudem maximal 1 Arbeitstag in Höhe der täglichen Sollarbeitszeit kompensiert werden. In derselben Woche darf keine Überzeit kompensiert werden.
 
 #### § 8
 
