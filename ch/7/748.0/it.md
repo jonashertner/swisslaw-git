@@ -4,32 +4,22 @@ title: Legge federale del 21 dicembre 1948 sulla navigazione aerea (LNA)
 short: LNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: it
-version: 2021-08-01
+version: 2022-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla navigazione aerea
 
-(LNA**[^t-1]**)
+(LNA[^t-1])
 
-del 21 dicembre 1948 (Stato 1° agosto 2021)
+del 21 dicembre 1948 (Stato 1° gennaio 2022)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
-
-L’Assemblea federale della Confederazione Svizzera,
-
-visti gli articoli 87 e 92 della Costituzione federale[^ingress-1] (Cost.);[^ingress-2] visto il messaggio del Consiglio federale del 23 marzo 1945[^ingress-3],
-
-decreta:
-
-[^ingress-1]: [CS **1** 3]. A queste disp. corrispondono ora gli art. 87 e 92 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
-[^ingress-3]: FF **1945** 481
 
 ## Parte prima: Principi della navigazione aerea
 
@@ -329,7 +319,7 @@ L’UFAC può designare, d’intesa con la Direzione generale delle dogane, dete
 
 [^11-1]: Nuovo testo giusta il n. I della LF del 14 giu. 1963, in vigore dal 1° mag. 1964 ([RU 1964 317](https://fedlex.data.admin.ch/eli/oc/1964/325_317_317); BBl **1962** II 717 ediz. ted., FF **1962** II 713 ediz. franc.).
 
-### Capo secondo: Uso dello spazio aereo e misure di sicurezza****
+### Capo secondo: Uso dello spazio aereo e misure di sicurezza
 
 [^part1-tit1-chap2-1]
 
@@ -859,7 +849,7 @@ Nella misura in cui gli accordi internazionali non prevedano altrimenti, il tras
 
 [^35-1]: Abrogato giusta il n. I della LF del 26 giu. 1998, con effetto dal 15 nov. 1998 ([RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)).
 
-### Capo terzo: Infrastruttura****
+### Capo terzo: Infrastruttura
 
 [^part1-tit1-chap3-1]
 
@@ -1127,7 +1117,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 [^37i-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
-### 6. Procedura di conciliazione e di stima; immissione in possesso anticipata
+### 6. . Procedura di conciliazione e di stima; immissione in possesso anticipata
 
 [^part1-tit1-chap3-lvlI-lvl6-1]
 
@@ -1314,11 +1304,12 @@ In quanto gli interessi militari lo consentano, gli aerodromi e gli idroscali ap
 - b. le disposizioni relative all’aviazione civile che sono applicabili anche a detti aerodromi e idroscali per motivi legati alla sicurezza dell’aviazione, nonché l’intensità di fruizione a partire dalla quale tali disposizioni sono applicabili;
 - c. le competenze.[^38-1]
 
-<sup>2</sup> Gli aeromobili a servizio dell’esercito, della dogana e della polizia possono usare gratuitamente degli aerodromi e idroscali civili sussidiati dalla Confederazione, sempreché non intralcino l’aviazione civile.
+<sup>2</sup> Gli aeromobili a servizio dell’esercito, dell’Ufficio federale della dogana e della sicurezza dei confini e della polizia possono usare gratuitamente degli aerodromi e idroscali civili sussidiati dalla Confederazione, sempreché non intralcino l’aviazione civile.[^38-2]
 
 <sup>3</sup> Rimangono riservati speciali accordi regolanti i diritti d’uso di cui ai capoversi 1 e 2.
 
 [^38-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2019 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^38-2]: Nuovo testo giusta il n. I 29 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### 11. Tasse aeroportuali
 
@@ -1680,13 +1671,13 @@ Sono inoltre a suo carico:
 - a. le spese di soppressione o adattamento degli ostacoli alla navigazione aerea che pregiudicano l’impiego dell’aerodromo, se situato su territorio svizzero;
 - b. le indennità dovute conformemente all’articolo 44 capoverso 1, se l’aerodromo è situato su territorio svizzero.[^45-2]
 
-<sup>3</sup> ...[^45-3]
+<sup>3</sup> …[^45-3]
 
 [^45-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^45-2]: Nuovo testo giusta il n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^45-3]: Abrogato dal n. I 62 della LF del 14 dic. 1984 sui provvedimenti di risparmio 1984, con effetto dal 1° gen. 1986 ([RU 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [FF 1984 I 1013](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
 
-### 2. ...
+### 2. …
 
 #### Art. 46
 
@@ -1810,7 +1801,7 @@ Un aeromobile può essere iscritto nella matricola svizzera soltanto se:
 [^52-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1971, in vigore dal 1° gen. 1974 ([RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^52-2]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° apr. 1994 ([RU 1994 733](https://fedlex.data.admin.ch/eli/oc/1994/733_733_733); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
-### 2. e 3 ...
+### 2. e 3 …
 
 #### Art. 53 e 54
 
@@ -1910,7 +1901,7 @@ Per esercitare la loro attività, le seguenti persone necessitano di una licenza
 [^60-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^60-2]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
-### II. ...
+### II. …
 
 #### Art. 61
 
@@ -1965,7 +1956,7 @@ Chi usa un aeromobile senza il consenso dell’esercente risponde del danno cagi
 
 In caso di danno cagionato a terra da due o più aeromobili entrati in collisione, gli esercenti di questi aeromobili sono considerati solidalmente responsabili verso i terzi vittime del danno.
 
-### II. ...
+### II. …
 
 #### Art. 67
 
@@ -2052,7 +2043,7 @@ L’obbligo di prestare garanzia per gli aeromobili stranieri è regolato dagli 
 
 <sup>4</sup> In quanto le convenzioni applicabili riservino un aumento contrattuale dei limiti di responsabilità, il Consiglio federale può emanare prescrizioni giusta le quali il rilascio di concessioni e di autorizzazioni a imprese svizzere del traffico aereo commerciale deve essere subordinato alla condizione che esse offrano ai passeggeri una somma maggiore per la responsabilità civile.
 
-<sup>5</sup> ...[^75-3]
+<sup>5</sup> …[^75-3]
 
 [^75-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^75-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
@@ -2126,7 +2117,7 @@ Sono esclusi dal sequestro conservativo:
 
 <sup>2</sup> Le disposizioni del presente articolo non si applicano al sequestro conservativo domandato dal proprietario spossessato del suo aeromobile mediante atto illecito.
 
-### III.a V. ...
+### III.a V. ….
 
 #### Art. 82 a 84
 
@@ -2344,7 +2335,7 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 
 [^part2-tit5-chap2-lvlI-lvl2-1]
 
-[^part2-tit5-chap2-lvlI-lvl2-1]: Nuovo testo giusta l’all. del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero il Protocollo emendativo della Convenzione di Tokyo, in vigore dal 1° ago. 2021 ([RU 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^part2-tit5-chap2-lvlI-lvl2-1]: Nuovo testo giusta l’all. del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero il Prot. emendativo della Conv. di Tokyo, in vigore dal 1° ago 2021 ([RU 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 97
 
@@ -2361,7 +2352,7 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 <sup>4</sup> L’articolo 6 capoversi 3 e 4 del Codice penale svizzero[^97-3] è applicabile.[^97-4]
 
 [^97-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
-[^97-2]: Introdotto dall’all. del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero il Protocollo emendativo della Convenzione di Tokyo, in vigore dal 1° ago. 2021 ([RU 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^97-2]: Introdotto dall’all. del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero il Prot. emendativo della Conv. di Tokyo, in vigore dal 1° ago 2021 ([RU 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 [^97-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^97-4]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
@@ -2413,20 +2404,21 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 
 Sempre che non sia d’intralcio al procedimento penale, essi informano l’UFAC delle condanne e dei procedimenti penali in corso concernenti persone operanti all’interno dell’area di sicurezza di un aeroporto e aventi come oggetto:
 
-- a. attività terroristiche ai sensi dell’articolo 13*a* capoverso 1 lettera b numero 1 della legge federale del 21 marzo 1997[^100-2] sulle misure per la salvaguardia della sicurezza interna;
-- b. i reati di cui agli articoli 111–113, 122, 134, 139, 140, 156, 183, 185, 221 e 223–226<sup>ter</sup> del Codice penale svizzero[^100-3];
-- c. gli atti punibili secondo l’articolo 19 capoverso 2 della legge del 3 ottobre 1951[^100-4] sugli stupefacenti;
-- d. i reati secondo l’articolo 37 della legge federale del 25 marzo 1977[^100-5] sugli esplosivi;
-- e. i reati secondo l’articolo 33 della legge del 20 giugno 1997[^100-6] sulle armi.
+- a. attività terroristiche ai sensi dell’articolo 13*a* capoverso 1 lettera b numero 1[^100-2] della legge federale del 21 marzo 1997[^100-3] sulle misure per la salvaguardia della sicurezza interna;
+- b. i reati di cui agli articoli 111–113, 122, 134, 139, 140, 156, 183, 185, 221 e 223–226<sup>ter</sup> del Codice penale svizzero[^100-4];
+- c. gli atti punibili secondo l’articolo 19 capoverso 2 della legge del 3 ottobre 1951[^100-5] sugli stupefacenti;
+- d. i reati secondo l’articolo 37 della legge federale del 25 marzo 1977[^100-6] sugli esplosivi;
+- e. i reati secondo l’articolo 33 della legge del 20 giugno 1997[^100-7] sulle armi.
 
 <sup>3</sup> L’UFAC può consultare il Servizio delle attività informative della Confederazione per verificare le autorizzazioni, le licenze e i certificati delle persone impiegate nell’area di sicurezza dell’aeroporto.
 
 [^100-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^100-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^100-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^100-4]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^100-5]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^100-6]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^100-2]: Attualmente: l’art. 19 cpv. 2 lett. a della LF sulle attività informative ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
+[^100-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^100-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^100-5]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^100-6]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^100-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 ### V. Provve dimenti per prevenire attentati
 
@@ -2721,6 +2713,74 @@ Il Consiglio federale può prevedere che talune disposizioni della presente legg
 
 [^108a-1]: Introdotto dal n. I della LF del 1° ott. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
+### IV*b.* Controllo dei precedenti personali
+
+### 1. Principi
+
+#### Art. 108b
+
+[^108b-1]
+
+<sup>1</sup>
+
+Sono tenuti a eseguire controlli dei precedenti personali i seguenti servizi:
+
+- a. le imprese di trasporto aereo con sede in Svizzera, per il loro personale aeronautico;
+- b. gli esercenti di aeroporti, per tutte le altre persone che hanno o dovranno avere accesso all’area di sicurezza di un aeroporto.
+
+<sup>2</sup>
+
+Il controllo dei precedenti personali comprende almeno:
+
+- a. la verifica dell’identità della persona in questione;
+- b. l’accertamento di eventuali precedenti penali e procedimenti penali in corso;
+- c. la verifica del curriculum vitae, in particolare delle informazioni su precedenti impieghi, formazioni e soggiorni all’estero.
+
+<sup>3</sup> Il controllo dei precedenti personali è eseguito soltanto con il consenso della persona oggetto del controllo. Se l’accesso all’area di sicurezza dell’aeroporto non viene autorizzato, la persona in questione può chiedere all’esercente dell’aeroporto di emanare una decisione.
+
+[^108b-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 2. Trattamento dei dati
+
+#### Art. 108c
+
+[^108c-1]
+
+<sup>1</sup> Al fine di accertare un eventuale rischio per la sicurezza, l’impresa di trasporto aereo o l’esercente dell’aeroporto può comunicare al servizio di polizia cantonale competente i dati di cui all’articolo 108*b* capoverso 2.
+
+<sup>2</sup>
+
+Al fine di accertare un eventuale rischio per la sicurezza, il servizio di polizia cantonale competente può:
+
+- a. rilevare i dati iscritti nel casellario giudiziale, inclusi i dati su procedimenti penali in corso;
+- b. chiedere informazioni al Servizio delle attività informative della Confederazione.
+
+<sup>3</sup> Esso può richiedere a un servizio di polizia estero i dati necessari al controllo dei precedenti personali, inclusi i dati personali degni di particolare protezione e i profili della personalità, e trattare tali dati, purché sia assicurata una protezione adeguata dei dati trasmessi.
+
+<sup>4</sup> Esso trasmette all’esercente dell’aeroporto e all’impresa di trasporto aereo i dati necessari all’emanazione della decisione di cui all’articolo 108*b* capoverso 3, inclusi i dati personali degni di particolare protezione e i profili della personalità.
+
+[^108c-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 3. Raccomandazione
+
+#### Art. 108d
+
+[^108d-1]
+
+Su domanda dell’impresa di trasporto aereo o dell’esercente dell’aeroporto, il servizio di polizia cantonale competente raccomanda se autorizzare o no la persona in questione ad accedere all’area di sicurezza dell’aeroporto.
+
+[^108d-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 4. Ripetizione
+
+#### Art. 108e
+
+[^108e-1]
+
+Il controllo dei precedenti personali è ripetuto a intervalli regolari. È eseguito anzitempo se vi è motivo di ritenere che siano emersi nuovi rischi.
+
+[^108e-1]: Introdotto dal n. I 11 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
 ### V. Esecuzione di accordi internazionali e adattamento allo sviluppo tecnico
 
 #### Art. 109
@@ -2738,6 +2798,7 @@ Il Consiglio federale è autorizzato a prendere, fino a tanto che una legge non 
 Con l’entrata in vigore della presente legge sono abrogate tutte le disposizioni contrarie ad essa; in particolare:
 
 - a. il decreto del Consiglio federale del 27 gennaio 1920[^110-1] che regola la circolazione aerea in Svizzera e le prescrizioni esecutive emanate dal DATEC e dall’UFAC;
+
 - b. le prescrizioni del Consiglio federale del 24 gennaio 1921[^110-2] concernenti la circolazione degli aeromobili sopra e sulle acque.
 
 [^110-1]: [[RU 36 183](https://fedlex.data.admin.ch/eli/oc/36/171_177_183)]
@@ -2753,53 +2814,18 @@ Data dell’entrata in vigore: 15 giugno 1950[^111-1]
 
 [^111-1]: DCF del 5 giu. 1950.
 
-## Disposizioni finali della modifica del 17 dicembre 1971****
+Disposizioni finali della modifica del 17 dicembre 1971[^t-2] III <sup>1</sup> Nell’applicazione dell’articolo 44 deve essere tenuto conto degli impianti sistemati prima del 1° gennaio 1971 in vicinanza di aerodromi esistenti, tenuto conto della costituzione di zone di sicurezza o di zone di rumore. <sup>2</sup> Le procedure giusta l’articolo 44 che, al momento dell’entrata in vigore della presente legge[^t-3], sono avviate secondo il diritto cantonale nell’intento di istituire zone di sicurezza o di rumore vanno portate a termine secondo il diritto cantonale. IV–V[^t-4]
 
-[^u1-1]
+Disposizioni finali della modifica del 26 giugno 1998[^t-5] <sup>1</sup> Le autorizzazioni di esercizio rilasciate in virtù del diritto previgente rimangono in vigore fino alla scadenza della loro validità. Non possono più essere modificate o rinnovate. <sup>2</sup> I diritti derivanti da concessioni esistenti rimangono validi, purché siano effettivamente utilizzati al momento dell’entrata in vigore della presente modifica. Essi vengono ripresi nelle concessioni di rotta. Se tali diritti venissero pregiudicati da accordi internazionali, non può essere preteso alcun indennizzo dalla Confederazione. I diritti in concessione esistenti possono essere revocati o limitati con riserva di indennizzo.
 
-[^u1-1]: [RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)
+Disposizioni finali della modifica del 18 giugno 1999[^t-6] <sup>1</sup> Le procedure di concessione edilizia e di autorizzazione di costruzione pendenti al momento dell’entrata in vigore della presente modifica sono continuate come procedure d’approvazione dei piani. Per le espropriazioni va, se del caso, attuata a posteriori la procedura d’opposizione. <sup>2</sup> Ai ricorsi pendenti si applica il diritto procedurale previgente.
 
-III
+Disposizioni transitorie della modifica del 1° ottobre 2010[^t-7] <sup>1</sup> Le procedure pendenti dinanzi alla Commissione federale sugli infortuni aeronautici (Commissione; ex art. 26 cpv. 1[^t-8]) al momento dell’entrata in vigore della modifica del 1° ottobre 2010 della presente legge sono portate a termine in applicazione del diritto anteriore. La Commissione resta in funzione fino al termine dell’ultima procedura. <sup>2</sup> Per una durata di cinque anni al massimo a partire dall’entrata in vigore della presente modifica e per quanto le prescrizioni europee applicabili in virtù di accordi bilaterali non dispongano altrimenti, il Consiglio federale può prevedere che i proventi della tassa di una singola categoria di aerodromi possano essere utilizzati per finanziare i costi di un’altra categoria di aerodromi in deroga all’articolo 49 capoverso 4. <sup>3</sup> Il Consiglio federale stabilisce quali importi possono essere trasferiti e tra quali categorie.
 
-<sup>1</sup> Nell’applicazione dell’articolo 44 deve essere tenuto conto degli impianti sistemati prima del 1° gennaio 1971 in vicinanza di aerodromi esistenti, tenuto conto della costituzione di zone di sicurezza o di zone di rumore.
-
-<sup>2</sup> Le procedure giusta l’articolo 44 che, al momento dell’entrata in vigore della presente legge[^u1-2], sono avviate secondo il diritto cantonale nell’intento di istituire zone di sicurezza o di rumore vanno portate a termine secondo il diritto cantonale.
-
-IV–V[^u1-3]
-
-[^u1-2]: Questa L è entrata in vigore il 1° gen. 1974, salvo l’art. 34 che è entrato in vigore il 23 nov. 1973 (RU **1973** 1750).
-[^u1-3]: Abrogati dal n. II della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-
-## Disposizioni finali della modifica del 26 giugno 1998****
-
-[^u2-1]
-
-[^u2-1]: [RU 1998 2566](https://fedlex.data.admin.ch/eli/oc/1998/2566_2566_2566); [FF 1997 III 982](https://fedlex.data.admin.ch/eli/fga/1997/3_1181_1058_982)
-
-<sup>1</sup> Le autorizzazioni di esercizio rilasciate in virtù del diritto previgente rimangono in vigore fino alla scadenza della loro validità. Non possono più essere modificate o rinnovate.
-
-<sup>2</sup> I diritti derivanti da concessioni esistenti rimangono validi, purché siano effettivamente utilizzati al momento dell’entrata in vigore della presente modifica. Essi vengono ripresi nelle concessioni di rotta. Se tali diritti venissero pregiudicati da accordi internazionali, non può essere preteso alcun indennizzo dalla Confederazione. I diritti in concessione esistenti possono essere revocati o limitati con riserva di indennizzo.
-
-## Disposizioni finali della modifica del 18 giugno 1999****
-
-[^u3-1]
-
-[^u3-1]: [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029
-
-<sup>1</sup> Le procedure di concessione edilizia e di autorizzazione di costruzione pendenti al momento dell’entrata in vigore della presente modifica sono continuate come procedure d’approvazione dei piani. Per le espropriazioni va, se del caso, attuata a posteriori la procedura d’opposizione.
-
-<sup>2</sup> Ai ricorsi pendenti si applica il diritto procedurale previgente.
-
-## Disposizioni transitorie della modifica del 1° ottobre 2010****
-
-[^u4-1]
-
-[^u4-1]: [RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)
-
-<sup>1</sup> Le procedure pendenti dinanzi alla Commissione federale sugli infortuni aeronautici (Commissione; ex art. 26 cpv. 1[^u4-2]) al momento dell’entrata in vigore della modifica del 1° ottobre 2010 della presente legge sono portate a termine in applicazione del diritto anteriore. La Commissione resta in funzione fino al termine dell’ultima procedura.
-
-<sup>2</sup> Per una durata di cinque anni al massimo a partire dall’entrata in vigore della presente modifica e per quanto le prescrizioni europee applicabili in virtù di accordi bilaterali non dispongano altrimenti, il Consiglio federale può prevedere che i proventi della tassa di una singola categoria di aerodromi possano essere utilizzati per finanziare i costi di un’altra categoria di aerodromi in deroga all’articolo 49 capoverso 4.
-
-<sup>3</sup> Il Consiglio federale stabilisce quali importi possono essere trasferiti e tra quali categorie.
-
-[^u4-2]: [RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010)
+[^t-2]: [RU 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [FF 1971 I 197](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)
+[^t-3]: Questa L è entrata in vigore il 1° gen. 1974, salvo l’art. 34 che è entrato in vigore il 23 nov. 1973 (RU **1973** 1750).
+[^t-4]: Abrogati dal n. II della LF del 18 giu. 1993, con effetto dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
+[^t-5]: [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029
+[^t-6]: [RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029
+[^t-7]: [RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)
+[^t-8]: [RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010).

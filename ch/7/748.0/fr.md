@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2021-08-01
+version: 2022-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210801/fr"
 
 (LA)**[^t-1]** **[^t-2]**
 
-du 21 décembre 1948 (Etat le 1<sup>er</sup> août 2021)
+du 21 décembre 1948 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -1309,11 +1309,12 @@ Dans la mesure où les intérêts militaires le permettent, les aérodromes qui 
 - b. les dispositions régissant l’aviation civile qui, pour des motifs liés à la sécurité de l’aviation, sont également applicables à ces aérodromes ainsi que l’intensité d’utilisation à partir de laquelle ces dispositions s’appliquent;
 - c. les compétences.[^38-1]
 
-<sup>2</sup> Les aéronefs au service de l’armée, de la douane et de la police peuvent user gratuitement des aérodromes civils subventionnés par la Confédération s’il n’en résulte pas de perturbations pour l’aviation civile.
+<sup>2</sup> Les aéronefs au service de l’armée, de l’Office fédéral de la douane et de la sécurité des frontières et de la police peuvent user gratuitement des aérodromes civils subventionnés par la Confédération s’il n’en résulte pas de perturbations pour l’aviation civile.[^38-2]
 
 <sup>3</sup> Les arrangements spéciaux réglant l’usage des droits statués aux al. 1 et 2 sont réservés.
 
 [^38-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^38-2]: Nouvelle teneur selon le ch. I 29 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### 11. Redevances aéroportuaires
 
@@ -2400,20 +2401,21 @@ Une concession accordée en vertu des art. 28, 30 ou 37[^93-1] peut être retir�
 
 Pour autant que la procédure pénale n’en soit pas entravée, ils communiquent à l’OFAC les condamnations et procédures pénales en cours frappant les personnes actives dans la zone de sûreté à accès réglementé d’un aéroport concernant:
 
-- a. des activités terroristes au sens de l’art. 13*a*, al. 1, let. b, ch. 1, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^100-2];
-- b. les infractions visées aux art. 111 à 113, 122, 134, 139, 140, 156, 183, 185, 221 et 223 à 226<sup>ter</sup> du code pénal[^100-3];
-- c. les infractions visées à l’art. 19, al. 2, de la loi du 3 octobre 1951 sur les stupéfiants[^100-4];
-- d. les infractions visées à l’art. 37 de la loi du 25 mars 1977 sur les explosifs[^100-5];
-- e. les infractions visées à l’art. 33 de la loi du 20 juin 1997 sur les armes[^100-6].
+- a. des activités terroristes au sens de l’art. 13*a*, al. 1, let. b, ch. 1,[^100-2] de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^100-3];
+- b. les infractions visées aux art. 111 à 113, 122, 134, 139, 140, 156, 183, 185, 221 et 223 à 226<sup>ter</sup> du code pénal[^100-4];
+- c. les infractions visées à l’art. 19, al. 2, de la loi du 3 octobre 1951 sur les stupéfiants[^100-5];
+- d. les infractions visées à l’art. 37 de la loi du 25 mars 1977 sur les explosifs[^100-6];
+- e. les infractions visées à l’art. 33 de la loi du 20 juin 1997 sur les armes[^100-7].
 
 <sup>3</sup> L’OFAC peut solliciter l’avis du Service de renseignement de la Confédération dans le but de vérifier les autorisations, licences et certificats des personnes actives dans la zone de sûreté à accès réglementé d’un aéroport.
 
 [^100-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^100-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^100-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^100-4]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^100-5]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^100-6]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^100-2]: V. actuellement l’art. 19, al. 2, let. a, de la LF sur le renseignement ([RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
+[^100-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^100-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^100-5]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^100-6]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
+[^100-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 
 ### V. Mesures de prévention des attentats
 
@@ -2714,6 +2716,74 @@ Le Conseil fédéral peut prévoir que certaines dispositions de la présente lo
 <sup>3</sup> Il peut déléguer à l’OFAC la compétence d’édicter des prescriptions administratives ou techniques, en particulier la désignation des normes techniques visées à l’al. 2.
 
 [^108a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+
+### IV*b*. Vérification des antécédents
+
+### 1. Principes
+
+#### Art. 108b
+
+[^108b-1]
+
+<sup>1</sup>
+
+Les services suivants doivent effectuer des vérifications d’antécédents:
+
+- a. les entreprises de transport aérien dont le siège est en Suisse: pour leur personnel aéronautique;
+- b. les exploitants d’aéroport: pour toutes les autres personnes qui ont ou doivent avoir accès à la zone de sûreté d’un aéroport.
+
+<sup>2</sup>
+
+La vérification des antécédents consiste au moins à:
+
+- a. vérifier l’identité de la personne concernée;
+- b. vérifier s’il existe des antécédents pénaux et des procédures pénales en cours;
+- c. contrôler le *curriculum vitæ* mentionnant notamment les emplois précédents, les formations et les séjours à l’étranger.
+
+<sup>3</sup> Elle ne peut être effectuée qu’avec le consentement de la personne qui en est l’objet. Si l’accès à la zone de sûreté de l’aéroport n’est pas octroyé, la personne concernée peut demander à l’exploitant d’aéroport de rendre une décision.
+
+[^108b-1]: Introduit par le ch. I 11 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 2. Traitement des données
+
+#### Art. 108c
+
+[^108c-1]
+
+<sup>1</sup> L’entreprise de transport aérien ou l’exploitant d’aéroport peut fournir au service de police cantonal compétent les données visées à l’art. 108*b*, al. 2, en vue de déterminer le risque pour la sécurité.
+
+<sup>2</sup>
+
+Pour déterminer le risque pour la sécurité, le service de police cantonal compétent peut:
+
+- a. relever des données dans le casier judiciaire, y compris concernant des procédures pénales en cours;
+- b. requérir des renseignements auprès du Service de renseignement de la Confédération.
+
+<sup>3</sup> Il peut recueillir auprès du service de police étranger compétent et traiter les données nécessaires à la vérification des antécédents, y compris les données sensibles et les profils de la personnalité, si les données transmises bénéficient d’un niveau de protection adéquat.
+
+<sup>4</sup> Il transmet à l’exploitant d’aéroport et à l’entreprise de transport aérien les données nécessaires au prononcé de la décision visée à l’art. 108*b*, al. 3, y compris les données sensibles et les profils de la personnalité.
+
+[^108c-1]: Introduit par le ch. I 11 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 3. Recommandation
+
+#### Art. 108d
+
+[^108d-1]
+
+Sur demande de l’entreprise de transport aérien ou de l’exploitant d’aéroport, le service de police cantonal compétent formule une recommandation quant à l’octroi ou non de l’accès de la personne concernée à la zone de sûreté de l’aéroport.
+
+[^108d-1]: Introduit par le ch. I 11 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 4. Renouvellement
+
+#### Art. 108e
+
+[^108e-1]
+
+La vérification des antécédents doit être renouvelée périodiquement. Elle est effectuée de manière anticipée s’il y a lieu de penser que de nouveaux risques sont apparus.
+
+[^108e-1]: Introduit par le ch. I 11 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 ### V. Exécution d’accords internationaux et adaptation au développement technique
 

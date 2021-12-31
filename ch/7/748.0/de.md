@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2021-08-01
+version: 2022-01-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210801/de"
 
 (Luftfahrtgesetz, LFG)**[^t-1]**
 
-vom 21. Dezember 1948 (Stand am 1. August 2021)
+vom 21. Dezember 1948 (Stand am 1. Januar 2022)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -84,7 +84,7 @@ Zum Verkehr im schweizerischen Luftraum sind unter Vorbehalt von Absatz 2 zugela
 
 #### Art. 3
 
-<sup>1</sup> Der Bundesrat hat im Rahmen der Zuständigkeit des Bundes die Aufsicht über die Luftfahrt im gesamten Gebiet der Schweizerischen Eidgenossenschaft. Er übt sie durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK[^3-1]) aus. ...[^3-2].[^3-3]
+<sup>1</sup> Der Bundesrat hat im Rahmen der Zuständigkeit des Bundes die Aufsicht über die Luftfahrt im gesamten Gebiet der Schweizerischen Eidgenossenschaft. Er übt sie durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK[^3-1]) aus. …[^3-2].[^3-3]
 
 <sup>2</sup> Für die unmittelbare Aufsicht wird beim UVEK eine besondere Abteilung, das BAZL, gebildet.
 
@@ -178,7 +178,7 @@ Das BAZL kann mit ausländischen Luftfahrtbehörden oder internationalen Einrich
 [^4-1]: Fassung gemäss Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 [^4-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
-### 3. ...
+### 3. …
 
 #### Art. 5
 
@@ -194,7 +194,7 @@ Das BAZL kann mit ausländischen Luftfahrtbehörden oder internationalen Einrich
 
 <sup>1</sup> Gegen Verfügungen, die sich auf dieses Gesetz und seine Ausführungsbestimmungen stützen, kann nach den allgemeinen Bestimmungen über die Bundesrechtspflege Beschwerde geführt werden.[^6-2]
 
-<sup>2</sup> ...[^6-3]
+<sup>2</sup> …[^6-3]
 
 [^6-1]: Fassung gemäss Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 [^6-2]: Fassung gemäss Anhang Ziff. 82 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -474,7 +474,7 @@ Das BAZL kann im Einvernehmen mit den zuständigen Direktionen des Eidgenössisc
 
 <sup>1</sup> Die Handhabung der Luftpolizei steht den vom Bundesrat bezeichneten Organen zu.
 
-<sup>1bis</sup> ...[^21-1]
+<sup>1bis</sup> …[^21-1]
 
 <sup>2</sup> Die allgemeinen polizeilichen Befugnisse von Bund und Kantonen auf den Flugplätzen und andern dem Luftverkehr dienenden Grundstücken bleiben vorbehalten.
 
@@ -1037,13 +1037,13 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 
 <sup>2</sup> Das Gesuch ist in den amtlichen Publikationsorganen der betroffenen Kantone und Gemeinden zu publizieren und während 30 Tagen öffentlich aufzulegen.
 
-<sup>3</sup> ...[^37d-3]
+<sup>3</sup> …[^37d-3]
 
 [^37d-1]: Eingefügt durch Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfa-chung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^37d-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^37d-3]: Aufgehoben durch Anhang Ziff. 16 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### f. ...
+### f. …
 
 #### Art. 37e
 
@@ -1128,7 +1128,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 <sup>1</sup> Nach Abschluss des Plangenehmigungsverfahrens für Flughafenanlagen wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission (Schätzungskommission) nach den Bestimmungen des EntG[^37k-2] durchgeführt.[^37k-3]
 
-<sup>2</sup> ...[^37k-4]
+<sup>2</sup> …[^37k-4]
 
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im übrigen gilt Artikel 76 EntG.
 
@@ -1255,7 +1255,7 @@ Innerhalb der Baulinien dürfen keine baulichen Veränderungen oder sonstigen Vo
 
 <sup>2</sup> Verfügungen über die Aufhebung von Baulinien sind unter Angabe der Beschwerdefrist in den betroffenen Gemeinden zu veröffentlichen.
 
-<sup>3</sup> Ist eine Entschädigung geleistet worden, so gelten die Grundsätze über die ungerechtfertigte Bereicherung sinngemäss. Bei Handänderungen wird der neue Eigentümer rückerstattungspflichtig. Bei Streitigkeiten entscheidet die Schätzungskommission. ...[^37s-2]
+<sup>3</sup> Ist eine Entschädigung geleistet worden, so gelten die Grundsätze über die ungerechtfertigte Bereicherung sinngemäss. Bei Handänderungen wird der neue Eigentümer rückerstattungspflichtig. Bei Streitigkeiten entscheidet die Schätzungskommission. …[^37s-2]
 
 [^37s-1]: Eingefügt durch Ziff. I 13 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^37s-2]: Satz aufgehoben durch Anhang Ziff. 82 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -1283,7 +1283,7 @@ In den festgelegten oder vorgesehenen Projektierungszonen sowie innerhalb der fe
 
 <sup>1</sup> An der Nutzung der Landesflughäfen als Drehscheiben des internationalen Luftverkehrs und Teil des Gesamtverkehrssystems besteht ein nationales Interesse.
 
-<sup>2</sup> Die Landesflughäfen Zürich und Genf sind bezüglich der ihnen gemäss der Sachplanung des Bundes zugeschriebenen Funktion als Gesamtanlagen in ihrem Bestand geschützt. Rechtsetzende wie rechtsanwendende Organe schenken dieser Besitzstandsgarantie die notwendige Beachtung; insbesondere auch im Zusammenhang mit Vorschriften des Moorschutzes und Moorlandschaftsschutzes sowie deren Vollzug.
+<sup>2</sup> Die Landesflughäfen Zürich und Genf sind bezüglich der ihnen gemäss der Sachplanung des Bundes zugeschriebenen Funktion als Gesamtanlagen in ihrem Bestand geschützt. Rechtsetzende wie rechtsanwendende Organe schenken dieser Besitzstandsgarantie die notwendige Beachtung; insbesondere auch im Zusammenhang mit Vorschriften des Moorschutzes und Moorlandschaftsschutzes sowie deren Vollzug.d
 
 [^37u-1]: Ursprünglich: Art. 36*e*. Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
@@ -1291,7 +1291,7 @@ In den festgelegten oder vorgesehenen Projektierungszonen sowie innerhalb der fe
 
 [^part1-tit1-chap3-lvlI-lvl10-1]
 
-[^part1-tit1-chap3-lvlI-lvl10-1]: Ursprünglich Ziff. 3.
+[^part1-tit1-chap3-lvlI-lvl10-1]: Ursprünglich: Ziff. 3.
 
 #### Art. 38
 
@@ -1303,11 +1303,12 @@ Soweit es die militärischen Interessen erlauben, sind die bundeseigenen Flugpl�
 - b. welche Bestimmungen für die zivile Luftfahrt aus Gründen der Flugsicherheit ab welcher Nutzungsintensität auch für diese Flugplätze anwendbar sind;
 - c. die Zuständigkeiten.[^38-1]
 
-<sup>2</sup> Die Luftfahrzeuge im Dienste der Armee, der Zollverwaltung und der Polizei können die vom Bunde subventionierten Zivilflugplätze unentgeltlich benützen, soweit dadurch die zivile Luftfahrt nicht beeinträchtigt wird.
+<sup>2</sup> Die Luftfahrzeuge im Dienste der Armee, des Bundesamtes für Zoll und Grenzsicherheit und der Polizei können die vom Bunde subventionierten Zivilflugplätze unentgeltlich benützen, soweit dadurch die zivile Luftfahrt nicht beeinträchtigt wird.[^38-2]
 
 <sup>3</sup> Besondere Vereinbarungen über die Benützungsrechte gemäss den Absätzen 1 und 2 bleiben vorbehalten.
 
 [^38-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^38-2]: Fassung gemäss Ziff. I 29 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### 11. Flughafengebühren
 
@@ -1386,7 +1387,7 @@ Der Flughafenhalter berücksichtigt bei der Festlegung der Gebühren namentlich 
 
 <sup>2</sup> Er sorgt für die Errichtung und den Betrieb einer nationalen Datenerfassungsschnittstelle für alle Luftfahrtdaten nach Absatz 1. Er kann diese Aufgabe einer juristischen Person des Privatrechts übertragen. Diese untersteht der Aufsicht durch das BAZL.
 
-<sup>3</sup> und <sup>4</sup> ...[^40a-2]
+<sup>3</sup> und <sup>4</sup> …[^40a-2]
 
 [^40a-1]: Eingefügt durch Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605), [2018 3841](https://fedlex.data.admin.ch/eli/oc/2018/608); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^40a-2]: Noch nicht in Kraft.
@@ -1626,7 +1627,7 @@ Die betroffene Person hat ihre Ansprüche innert fünf Jahren seit der Veröffen
 [^44-5]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 [^44-6]: Fassung gemäss Anhang Ziff. 16 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### d. ...
+### d. …
 
 #### Art. 44a
 
@@ -1666,13 +1667,13 @@ Ferner gehen zu Lasten des Flugplatzhalters:
 - a. die Kosten der Beseitigung oder Anpassung bestehender Luftfahrthindernisse, welche die Benützung eines Flugplatzes im Inland beeinträchtigen;
 - b. die Entschädigungen nach Artikel 44 Absatz 1, wenn der Flugplatz im Inland liegt.[^45-2]
 
-<sup>3</sup> ...[^45-3]
+<sup>3</sup> …[^45-3]
 
 [^45-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1971, in Kraft seit 1. Jan. 1974 ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [BBl 1971 I 266](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^45-2]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^45-3]: Aufgehoben durch Ziff. I 62 des BG vom 14. Dez. 1984 über die Sparmassnahmen 1984 ([AS 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [BBl 1984 I 1253](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
 
-### 2. ...
+### 2. …
 
 #### Art. 46
 
@@ -1796,7 +1797,7 @@ Ein Luftfahrzeug wird im schweizerischen Luftfahrzeugregister nur eingetragen, w
 [^52-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 1971, in Kraft seit 1. Jan. 1974 ([AS 1973 1738](https://fedlex.data.admin.ch/eli/oc/1973/1738_1738_1738); [BBl 1971 I 266](https://fedlex.data.admin.ch/eli/fga/1971/1_266_287_197)).
 [^52-2]: Fassung gemäss Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. April 1994 ([AS 1994 733](https://fedlex.data.admin.ch/eli/oc/1994/733_733_733); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
-### 2.–3. ...
+### 2.–3. …
 
 #### Art. 53–54
 
@@ -1894,7 +1895,7 @@ Folgende Personen bedürfen zur Ausübung ihrer Tätigkeit einer Erlaubnis des B
 [^60-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 [^60-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
-### II. ...
+### II. …
 
 #### Art. 61
 
@@ -1949,7 +1950,7 @@ Wer das Luftfahrzeug ohne Wissen und Willen des Halters benützt, ist zum Ersatz
 
 Wird ein Schaden auf der Erde dadurch verursacht, dass zwei oder mehrere Luftfahrzeuge zusammenstossen, so sind die Halter dieser Luftfahrzeuge den geschädigten Dritten als Solidarschuldner ersatzpflichtig.
 
-### II. ...
+### II. …
 
 #### Art. 67
 
@@ -2036,7 +2037,7 @@ Für ausländische Luftfahrzeuge richtet sich die Sicherstellungspflicht nach de
 
 <sup>4</sup> Soweit die Übereinkommen eine vertragliche Erhöhung der Haftungsgrenzen vorbehalten, kann der Bundesrat vorschreiben, dass schweizerische Unternehmen der gewerbsmässigen Luftfahrt Konzessionen und Bewilligungen nur erhalten, wenn sie den Fluggästen eine bestimmte höhere Haftungssumme anbieten.
 
-<sup>5</sup> ...[^75-3]
+<sup>5</sup> …[^75-3]
 
 [^75-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^75-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
@@ -2110,7 +2111,7 @@ Der Sicherungsbeschlagnahme sind nicht unterworfen:
 
 <sup>2</sup> Dieser Artikel bezieht sich nicht auf die Sicherungsbeschlagnahme, die ein Eigentümer nachsucht, wenn ihm der Besitz seines Luftfahrzeuges durch eine unerlaubte Handlung entzogen worden ist.
 
-### III.–V. ...
+### III.–V. …
 
 #### Art. 82–84
 
@@ -2402,7 +2403,7 @@ Sie melden dem BAZL, sofern durch die Meldung das Strafverfahren nicht beeinträ
 <sup>3</sup> Das BAZL kann zur Überprüfung von Bewilligungen, Erlaubnissen und Ausweisen für im Sicherheitsbereich eines Flughafens tätige Personen Stellungnahmen des Nachrichtendienstes des Bundes einholen.
 
 [^100-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^100-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^100-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546). Dieser Art. ist nicht mehr in Kraft. Siehe heute: Art. 19 Abs. 2 Bst. a des Nachrichtendienstgesetzes vom 25. Sept. 2015 ([SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)).
 [^100-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^100-4]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^100-5]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
@@ -2464,7 +2465,7 @@ Sie melden dem BAZL, sofern durch die Meldung das Strafverfahren nicht beeinträ
 [^101-1]: Fassung gemäss Ziff. I 62 des BG vom 14. Dez. 1984 über die Sparmassnahmen 1984, in Kraft seit 1. Jan. 1986 ([AS 1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660); [BBl 1984 I 1253](https://fedlex.data.admin.ch/eli/fga/1984/1_1253_1281_1013)).
 [^101-2]: Fassung gemäss Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [BBl 1992 I 607](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
 
-### 2. ...
+### 2. …
 
 #### Art. 101a
 
@@ -2698,6 +2699,74 @@ Der Bundesrat kann vorsehen, dass einzelne Bestimmungen dieses Gesetzes auf Luft
 <sup>3</sup> Er kann den Erlass administrativer und technischer Vorschriften, insbesondere das Bezeichnen der technischen Normen nach Absatz 2, dem BAZL übertragen.
 
 [^108a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. April 2011 ([AS 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [BBl 2009 4915](https://fedlex.data.admin.ch/eli/fga/2009/850)).
+
+### IV*b.* Zuverlässigkeitsüberprüfung
+
+### 1. Grundsätze
+
+#### Art. 108b
+
+[^108b-1]
+
+<sup>1</sup>
+
+Folgende Stellen müssen Zuverlässigkeitsüberprüfungen durchführen:
+
+- a. Luftverkehrsunternehmen mit Sitz in der Schweiz: für ihr Luftfahrtpersonal;
+- b. Flughafenhalter: für alle anderen Personen, die Zugang zum Sicherheitsbereich eines Flughafens haben oder erhalten sollen.
+
+<sup>2</sup>
+
+Die Zuverlässigkeitsüberprüfung umfasst zumindest:
+
+- a. die Verifizierung der Identität der betreffenden Person;
+- b. die Überprüfung, ob Vorstrafen vorhanden oder Strafverfahren hängig sind;
+- c. die Kontrolle des Lebenslaufs, insbesondere die Angaben über bisherige Beschäftigungen, Ausbildungen und Auslandsaufenthalte.
+
+<sup>3</sup> Sie darf nur mit der Einwilligung der zu prüfenden Person durchgeführt werden. Wird der Zugang zum Sicherheitsbereich des Flughafens nicht gewährt, so kann die betroffene Person vom Flughafenhalter eine Verfügung verlangen.
+
+[^108b-1]: Eingefügt durch Ziff. I 11 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 2. Datenbearbeitung
+
+#### Art. 108c
+
+[^108c-1]
+
+<sup>1</sup> Das Luftverkehrsunternehmen oder der Flughafenhalter kann der zuständigen kantonalen Polizeistelle zur Abklärung des Sicherheitsrisikos die Daten nach Artikel 108*b* Absatz 2 bekanntgeben.
+
+<sup>2</sup>
+
+Die zuständige kantonale Polizeistelle kann zur Abklärung des Sicherheitsrisikos:
+
+- a. Daten aus dem Strafregister erheben, einschliesslich Daten über hängige Strafverfahren;
+- b. beim Nachrichtendienst des Bundes Auskünfte einholen.
+
+<sup>3</sup> Sie kann Daten, die für die Zuverlässigkeitsüberprüfung benötigt werden, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofilen, bei einer ausländischen Polizeistelle einholen und die Daten bearbeiten, sofern der angemessene Schutz der übermittelten Daten gewährleistet ist.
+
+<sup>4</sup> Sie übermittelt dem Flughafenhalter und dem Luftverkehrsunternehmen die Daten, die für den Erlass der Verfügung nach Artikel 108*b* Absatz 3 benötigt werden, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofilen.
+
+[^108c-1]: Eingefügt durch Ziff. I 11 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 3. Empfehlung
+
+#### Art. 108d
+
+[^108d-1]
+
+Die zuständige kantonale Polizeistelle gibt auf Antrag des Luftverkehrsunternehmens oder des Flughafenhalters eine Empfehlung ab, der betreffenden Person Zugang zum Sicherheitsbereich des Flughafens zu gewähren oder nicht.
+
+[^108d-1]: Eingefügt durch Ziff. I 11 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+### 4. Wiederholung
+
+#### Art. 108e
+
+[^108e-1]
+
+Die Zuverlässigkeitsüberprüfung ist in regelmässigen Abständen zu wiederholen. Sie wird vorzeitig durchgeführt, wenn Grund zur Annahme besteht, dass neue Risiken entstanden sind.
+
+[^108e-1]: Eingefügt durch Ziff. I 11 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 ### V. Durchführung von zwischenstaatlichen Vereinbarungen und Anpassung an die technische Entwicklung
 
