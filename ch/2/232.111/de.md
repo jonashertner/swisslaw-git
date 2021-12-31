@@ -4,20 +4,20 @@ title: Verordnung vom 23. Dezember 1992 über den Schutz von Marken und Herkunft
 short: MSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20211201/de/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20220101-de-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über den Schutz von Marken und Herkunftsangaben****
+# Verordnung über den Schutz von Marken und Herkunftsangaben
 
 (MSchV)[^t-1]
 
-vom 23. Dezember 1992 (Stand am 1. Dezember 2021)
+vom 23. Dezember 1992 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -39,10 +39,11 @@ verordnet:
 
 <sup>1</sup> Der Vollzug der Verwaltungsaufgaben, die sich aus dem MSchG ergeben, und der Vollzug dieser Verordnung sind Sache des Eidgenössischen Instituts für Geistiges Eigentum (IGE)[^1-1].[^1-2]
 
-<sup>2</sup> Ausgenommen sind die Artikel 70–72 MSchG und die Artikel 54–57 dieser Verordnung, deren Vollzug der Eidgenössischen Zollverwaltung obliegt.
+<sup>2</sup> Ausgenommen sind die Artikel 70–72 MSchG und die Artikel 54–57 dieser Verordnung, deren Vollzug dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^1-3] obliegt.
 
 [^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^1-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
+[^1-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
@@ -170,8 +171,8 @@ Das Eintragungsgesuch umfasst:
 
 - a. den Antrag auf Eintragung der Marke;
 - b. den Namen und Vornamen oder die Firma sowie die Adresse des Hinterlegers;
-- c.[^9-1] ...
-- d.[^9-2] ...
+- c.[^9-1] …
+- d.[^9-2] …
 
 <sup>2</sup>
 
@@ -228,7 +229,7 @@ Die Erklärung für die Priorität nach der Pariser Verbandsübereinkunft vom 20
 
 <sup>2</sup> Der Prioritätsbeleg besteht aus einer Bescheinigung der zuständigen Behörde über die Ersthinterlegung, mit der Angabe der Hinterlegungs- oder Eintragungsnummer der Marke.
 
-<sup>3</sup> ...[^12-2]
+<sup>3</sup> …[^12-2]
 
 [^12-1]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
 [^12-2]: Aufgehoben durch Ziff. I der V vom 2. Sept. 2015, mit Wirkung seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
@@ -400,7 +401,7 @@ Der Widerspruch ist in zwei Exemplaren einzureichen und muss enthalten:
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 14. März 2008, in Kraft seit 1. Juli 2008 ([AS 2008 1893](https://fedlex.data.admin.ch/eli/oc/2008/276)).
 
-### 2*a*. Abschnitt:**** Verfahren zur Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke
+### 2*a*. Abschnitt: Verfahren zur Löschung einer Markeneintragung wegen Nichtgebrauchs der Marke
 
 [^chap2-sec2a-1]
 
@@ -509,7 +510,7 @@ Der Antrag auf Eintragung der Übertragung ist vom bisherigen Markeninhaber oder
 - b.[^28-1] den Namen und Vornamen oder die Firma, die Adresse des Erwerbers und gegebenenfalls sein Zustellungsdomizil in der Schweiz;
 - c. bei teilweiser Übertragung die Angabe der Waren und Dienstleistungen, für welche die Marke übertragen worden ist.
 
-<sup>2</sup> ...[^28-2]
+<sup>2</sup> …[^28-2]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2243](https://fedlex.data.admin.ch/eli/oc/2011/307)).
 [^28-2]: Aufgehoben durch Ziff. I der V vom 2. Dez. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
@@ -593,7 +594,7 @@ Das IGE führt für jedes Eintragungsgesuch und jede Markeneintragung ein Aktenh
 
 <sup>3</sup> Beweisurkunden, die Fabrikations- oder Geschäftsgeheimnisse offenbaren, werden auf Antrag ausgesondert. Die Aussonderung wird im Aktenheft vermerkt.[^36-3]
 
-<sup>4</sup> ...[^36-4]
+<sup>4</sup> …[^36-4]
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 [^36-2]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
@@ -646,7 +647,7 @@ Die Auskünfte beschränken sich auf:
 
 <sup>2</sup> Es bewahrt die Akten zurückgezogener und zurückgewiesener Eintragungsgesuche sowie vollständig widerrufener Eintragungen (Art. 33 MSchG) im Original oder in Kopie noch während fünf Jahren nach der Zurückziehung, der Zurückweisung oder dem Widerruf auf.[^39-1]
 
-<sup>3</sup> ...[^39-2]
+<sup>3</sup> …[^39-2]
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
 [^39-2]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
@@ -682,7 +683,7 @@ Die Eintragung wird gegebenenfalls ergänzt mit:
 - d. der Angabe, dass es sich um eine Garantie- oder eine Kollektivmarke handelt;
 - d<sup>bis</sup>.[^40-7] der Angabe, dass es sich um eine geografische Marke handelt;
 - e. Angaben über die Inanspruchnahme einer Priorität nach den Artikeln 7 und 8 MSchG;
-- f.[^40-8] ...
+- f.[^40-8] …
 
 <sup>3</sup>
 
@@ -735,7 +736,7 @@ Das IGE erstellt auf Antrag einen Prioritätsbeleg für eine schweizerische Erst
 
 [^41a-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 1995 ([AS 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Fassung gemäss Ziff. I der V vom 18. Okt. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 4479](https://fedlex.data.admin.ch/eli/oc/2006/689)).
 
-## 4. Kapitel: Veröffentlichungen des IGE****
+## 4. Kapitel: Veröffentlichungen des IGE
 
 [^chap4-1]
 
@@ -767,7 +768,7 @@ Das IGE veröffentlicht:
 
 [^44-1]: Aufgehoben durch Ziff. I der V vom 8. März 2002, mit Wirkung seit 1. Juli 2002 ([AS 2002 1119](https://fedlex.data.admin.ch/eli/oc/2002/182)).
 
-## 5. Kapitel: ...
+## 5. Kapitel: …
 
 #### Art. 45–46
 
@@ -775,7 +776,7 @@ Das IGE veröffentlicht:
 
 [^4546-1]: Aufgehoben durch Ziff. I der V vom 25. Okt. 1995, mit Wirkung seit 1. Jan. 1996 ([AS 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
 
-## 6. Kapitel: Internationale Markenregistrierung****
+## 6. Kapitel: Internationale Markenregistrierung
 
 [^chap6-1]
 
@@ -822,7 +823,7 @@ Das IGE veröffentlicht:
 
 <sup>1</sup> Das IGE führt ein Aktenheft für jede international registrierte Marke, deren Ursprungsland die Schweiz ist.
 
-<sup>2</sup> ...[^49-1]
+<sup>2</sup> …[^49-1]
 
 [^49-1]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
 
@@ -836,7 +837,7 @@ Das IGE veröffentlicht:
 
 <sup>2</sup> Das IGE führt ein Aktenheft, aus dem der Verlauf des Widerspruchsverfahrens ersichtlich ist.
 
-<sup>3</sup> ...[^50-2]
+<sup>3</sup> …[^50-2]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 18. Aug. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
 [^50-2]: Eingefügt durch Ziff. I der V vom 22. Jan. 1997 ([AS 1997 865](https://fedlex.data.admin.ch/eli/oc/1997/865_865_865)). Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5019](https://fedlex.data.admin.ch/eli/oc/2004/768)).
@@ -877,7 +878,7 @@ Gegenüber international registrierten Marken tritt an die Stelle:
 
 [^52-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2017 ([AS 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
-## 6*a*. Kapitel:**** Herkunftsangaben
+## 6*a*. Kapitel: Herkunftsangaben
 
 [^chap6a-1]
 
@@ -1050,7 +1051,7 @@ Als ein Ort der tatsächlichen Verwaltung nach Artikel 49 MSchG wird der Ort ver
 - a. für die Erreichung des Geschäftszwecks massgebliche Tätigkeiten ausgeübt werden; und
 - b. für das Erbringen der Dienstleistung massgebliche Entscheide getroffen werden.
 
-## 6*b**.* Kapitel:**** Internationale Registrierung von geografischen Angaben
+## 6*b**.* Kapitel: Internationale Registrierung von geografischen Angaben
 
 [^chap6b-1]
 
@@ -1115,13 +1116,13 @@ Gesuche, mit denen ein Grund nach Artikel 50*e* Absatz 1 MSchG geltend gemacht w
 
 [^53-1]: [SR 232.119](https://fedlex.data.admin.ch/eli/cc/1971/1908_1915_1915)
 
-## 8. Kapitel: Hilfeleistung der Zollverwaltung
+## 8. Kapitel: Hilfeleistung des BAZG
 
 #### Art. 54
 
 **Bereich**[^54-1]
 
-Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren, die widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen sind, ins oder aus dem Zollgebiet.
+Die Hilfeleistung des BAZG erstreckt sich auf das Verbringen von Waren, die widerrechtlich mit einer Marke oder einer Herkunftsangabe versehen sind, ins oder aus dem Zollgebiet.
 
 [^54-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1156,7 +1157,7 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren
 
 **Proben oder Muster**[^56a-1]
 
-<sup>1</sup> Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann die Zollverwaltung dem Antragsteller auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller ermöglichen.
+<sup>1</sup> Der Antragsteller kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Ware beantragen. Anstelle von Proben oder Mustern kann das BAZG dem Antragsteller auch Fotografien der zurückbehaltenen Ware übergeben, wenn diese eine Prüfung durch den Antragsteller ermöglichen.
 
 <sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzolldirektion oder während des Zurückbehaltens der Ware direkt bei der Zollstelle gestellt werden, welche die Ware zurückbehält.
 
@@ -1166,9 +1167,9 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren
 
 **Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^56b-1]
 
-<sup>1</sup> Die Zollverwaltung weist den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Sie setzt ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Das BAZG weist den Anmelder, Besitzer oder Eigentümer der Ware auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihm für die Stellung des Antrags eine angemessene Frist.
 
-<sup>2</sup> Gestattet die Zollverwaltung dem Antragsteller die Besichtigung der zurückbehaltenen Ware, so nimmt sie bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers und des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Gestattet das BAZG dem Antragsteller die Besichtigung der zurückbehaltenen Ware, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen des Antragstellers und des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
 
 [^56b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1176,9 +1177,9 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren
 
 **Aufbewahrung von Beweismitteln bei Vernichtung der Ware**[^56c-1]
 
-<sup>1</sup> Die Zollverwaltung bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung des Anmelders, Besitzers oder Eigentümers nach Artikel 72 Absatz 1 MSchG auf. Nach Ablauf dieser Frist fordert sie den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet die Zollverwaltung die Proben oder Muster.
+<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung des Anmelders, Besitzers oder Eigentümers nach Artikel 72 Absatz 1 MSchG auf. Nach Ablauf dieser Frist fordert es den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
 
-<sup>2</sup> Die Zollverwaltung kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
+<sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Ware erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
 
 [^56c-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1186,7 +1187,7 @@ Die Hilfeleistung der Zollverwaltung erstreckt sich auf das Verbringen von Waren
 
 **Gebühren**[^57-1]
 
-Die Gebühren für die Hilfeleistung der Zollverwaltung richten sich nach der Verordnung vom 4. April 2007[^57-2] über die Gebühren der Zollverwaltung.
+Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^57-2] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 [^57-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)

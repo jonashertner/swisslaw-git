@@ -4,20 +4,20 @@ title: Ordinanza del 23 dicembre 1992 sulla protezione dei marchi e delle indica
 short: OPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: it
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20211201/it/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20220101-it-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sulla protezione dei marchi e delle indicazioni di provenienza****
+# Ordinanza sulla protezione dei marchi e delle indicazioni di provenienza
 
 (OPM)[^t-1]
 
-del 23 dicembre 1992 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)
+del 23 dicembre 1992 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -39,9 +39,10 @@ ordina:
 
 <sup>1</sup> L’Istituto Federale della Proprietà Intellettuale (IPI) esegue i compiti amministrativi derivanti dalla LPM e dalla presente ordinanza.[^1-1]
 
-<sup>2</sup> Gli articoli 70 a 72 LPM e gli articoli 54 a 57 della presente ordinanza sono di competenza dell’Amministrazione federale delle dogane.
+<sup>2</sup> Gli articoli 70 a 72 LPM e gli articoli 54 a 57 della presente ordinanza sono di competenza dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-2].
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4829](https://fedlex.data.admin.ch/eli/oc/2016/774)).
+[^1-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -60,7 +61,7 @@ Se fissato in mesi o anni, il termine scade il giorno dell’ultimo mese che cor
 <sup>2</sup> L’IPI[^3-2] può chiedere che i documenti probatori che non sono redatti in una lingua ufficiale siano tradotti e che sia attestata l’esattezza della traduzione; è fatto salvo l’articolo 14 capoverso 3. Se, nonostante l’ingiunzione, la traduzione o l’attes-tazione non è presentata, il documento non è preso in considerazione.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 18 ago. 2021, in vigore dal 1° dic. 2021 ([RU 2021 510](https://fedlex.data.admin.ch/eli/oc/2021/510)).
-[^3-2]: Nuova espr. giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-2]: Nuova espr. giusta il n. I dell’O del 25 ott. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -400,7 +401,7 @@ L’opposizione deve essere presentata in due esemplari e contenere:
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 14 mar. 2008, in vigore dal 1° lug. 2008 ([RU 2008 1893](https://fedlex.data.admin.ch/eli/oc/2008/276)).
 
-### Sezione 2*a*:**** Procedura di cancellazione di una registrazione per mancato uso del marchio
+### Sezione 2*a*: Procedura di cancellazione di una registrazione per mancato uso del marchio
 
 [^chap2-sec2a-1]
 
@@ -869,7 +870,7 @@ Le seguenti regole si applicano ai marchi iscritti nel registro internazionale:
 
 [^52-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
-## Capitolo 6*a*:**** Indicazioni di provenienza
+## Capitolo 6*a*: Indicazioni di provenienza
 
 [^chap6a-1]
 
@@ -1042,7 +1043,7 @@ Si presume sito dell’amministrazione effettiva ai sensi dell’articolo 49 LPM
 - a. sono esercitate le attività rilevanti ai fini del conseguimento dello scopo commerciale; e
 - b. sono prese le decisioni determinanti per la fornitura dei servizi.
 
-## Capitolo 6*b*:**** Registrazione internazionale delle indicazioni geografiche
+## Capitolo 6*b*: Registrazione internazionale delle indicazioni geografiche
 
 [^chap6b-1]
 
@@ -1107,13 +1108,13 @@ Le domande che invocano i motivi di rifiuto di cui all’articolo 50*e* capovers
 
 [^53-1]: [RS 232.119](https://fedlex.data.admin.ch/eli/cc/1971/1908_1915_1915)
 
-## Capitolo 8: Intervento dell’Amministrazione delle dogane
+## Capitolo 8: Intervento dell’UDSC
 
 #### Art. 54
 
 **Campo d’applicazione**[^54-1]
 
-L’Amministrazione federale delle dogane è abilitata a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di merci munite di un marchio o di un’indicazione di provenienza illeciti.
+L’UDSC è abilitata a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di merci munite di un marchio o di un’indicazione di provenienza illeciti.
 
 [^54-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1123,12 +1124,12 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 <sup>1</sup> Il titolare del marchio, il titolare di una licenza legittimato ad agire, l’avente diritto a un’indicazione di provenienza oppure una parte legittimata ad agire in virtù dell’articolo 56 LPM (richiedente) deve presentare la domanda d’intervento alla Direzione generale delle dogane.[^55-1]
 
-1<sup>bis</sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^55-2]
+<sup>1bis</sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^55-2]
 
 <sup>2</sup> La domanda è valevole due anni se non è stata presentata per un periodo più breve. Può essere rinnovata.
 
 [^55-1]: Nuovo testo giusta il n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2017 ([RU 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
-[^55-2]: Introdotto dal n. I 3 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^55-2]: Introdotto dal n. I 3 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Ufficio federale della dogana e della sicurezza dei confini, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 56
 
@@ -1148,7 +1149,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Campioni**[^56a-1]
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece di campioni l’Amministrazione delle dogane può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece di campioni l’UDSC può trasmettere al richiedente fotografie della merce ritenuta, se queste ne consentono l’esame.
 
 <sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione della merce, direttamente all’ufficio doganale che trattiene la merce.
 
@@ -1158,9 +1159,9 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Tutela dei segreti di fabbricazione e di affari**[^56b-1]
 
-<sup>1</sup> L’Amministrazione delle dogane informa il dichiarante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta essa stabilisce un termine adeguato.
+<sup>1</sup> L’UDSC informa il dichiarante, il detentore o il proprietario della merce della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta essa stabilisce un termine adeguato.
 
-<sup>2</sup> Qualora l’Amministrazione delle dogane consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del dichiarante, del detentore o del proprietario.
+<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare la merce ritenuta, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del dichiarante, del detentore o del proprietario.
 
 [^56b-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1168,9 +1169,9 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Conservazione dei mezzi di prova in caso di distruzione della merce**[^56c-1]
 
-<sup>1</sup> L’Amministrazione delle dogane trattiene i campioni prelevati per un periodo di un anno dalla notifica del dichiarante, del detentore o del proprietario in virtù dell’articolo 72 capoverso 1 LPM. Allo scadere di tale termine l’Amministrazione delle dogane invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’Amministrazione delle dogane distrugge i campioni.
+<sup>1</sup> L’UDSC trattiene i campioni prelevati per un periodo di un anno dalla notifica del dichiarante, del detentore o del proprietario in virtù dell’articolo 72 capoverso 1 LPM. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
 
-<sup>2</sup> Invece di prelevare campioni essa può fotografare la merce distrutta, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
+<sup>2</sup> Invece di prelevare campioni esso può fotografare la merce distrutta, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
 
 [^56c-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1178,7 +1179,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Tasse**[^57-1]
 
-Le tasse per l’intervento dell’Amministrazione delle dogane sono rette dall’ordinanza del 4 aprile 2007[^57-2] sugli emolumenti dell’Amministrazione federale delle dogane.
+Le tasse per l’intervento dell’UDSC sono rette dall’ordinanza del 4 aprile 2007[^57-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
 [^57-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 [^57-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)

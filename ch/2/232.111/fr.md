@@ -4,20 +4,20 @@ title: Ordonnance du 23 décembre 1992 sur la protection des marques et des indi
 short: OPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/296_296_296"
 language: fr
-version: 2021-12-01
+version: 2022-01-01
 adopted: 1992-12-23
 in_force: 1993-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/296_296_296/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-296_296_296-20220101-fr-xml-16.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/296_296_296/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur la protection des marques et des indications de provenance****
+# Ordonnance sur la protection des marques et des indications de provenance
 
 (OPM)[^t-1]
 
-du 23 décembre 1992 (Etat le 1<sup>er</sup> décembre 2021)
+du 23 décembre 1992 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
@@ -39,10 +39,11 @@ arrête:
 
 <sup>1</sup> L’Institut fédéral de la Propriété intellectuelle (IPI)[^1-1] exécute les travaux administratifs découlant de la LPM et de la présente ordonnance.[^1-2]
 
-<sup>2</sup> Les art. 70 à 72 LPM et les art. 54 à 57 de la présente ordonnance sont du ressort de l’Administration fédérale des douanes.
+<sup>2</sup> Les art. 70 à 72 LPM et les art. 54 à 57 de la présente ordonnance sont du ressort de l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^1-3].
 
 [^1-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
+[^1-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -400,7 +401,7 @@ L’opposition doit être présentée en deux exemplaires et contenir:
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 14 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 1893](https://fedlex.data.admin.ch/eli/oc/2008/276)).
 
-### Section 2*a***** Procédure de radiation d’un enregistrement pour défaut d’usage de la marque
+### Section 2*a* Procédure de radiation d’un enregistrement pour défaut d’usage de la marque
 
 [^chap2-sec2a-1]
 
@@ -554,7 +555,7 @@ Sur demande du titulaire de la marque, l’IPI radie le droit enregistré au pro
 
 **Rectifications**
 
-<sup>1</sup> A la demande du titulaire, les erreurs affectant l’enregistrement sont rectifiées sans retard.
+<sup>1</sup> À la demande du titulaire, les erreurs affectant l’enregistrement sont rectifiées sans retard.
 
 <sup>2</sup> Lorsque l’erreur est imputable à l’IPI, elle est rectifiée d’office.
 
@@ -772,7 +773,7 @@ L’IPI publie:
 
 [^4546-1]: Abrogés par le ch. I de l’O du 25 oct. 1995, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 5158](https://fedlex.data.admin.ch/eli/oc/1995/5158_5158_5158)).
 
-## Chapitre 6 Enregistrements internationaux de marques****
+## Chapitre 6 Enregistrements internationaux de marques
 
 [^chap6-1]
 
@@ -874,7 +875,7 @@ Les règles suivantes s’appliquent aux marques inscrites au registre internati
 
 [^52-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3649](https://fedlex.data.admin.ch/eli/oc/2015/610)).
 
-## Chapitre 6*a***** Indications de provenance
+## Chapitre 6*a* Indications de provenance
 
 [^chap6a-1]
 
@@ -1047,7 +1048,7 @@ Un réel site administratif au sens de l’art. 49 LPM est présumé être le li
 - a. où sont exercées les activités déterminantes permettant d’atteindre le but commercial, et
 - b. où sont prises les décisions déterminantes concernant les services proposés.
 
-## Chapitre 6*b***** Enregistrement international d’indications géographiques
+## Chapitre 6*b* Enregistrement international d’indications géographiques
 
 [^chap6b-1]
 
@@ -1112,13 +1113,13 @@ Les demandes invoquant les motifs de refus visés à l’art. 50*e*, al. 1, LPM 
 
 [^53-1]: [RS 232.119](https://fedlex.data.admin.ch/eli/cc/1971/1908_1915_1915)
 
-## Chapitre 8 Intervention de l’administration des douanes
+## Chapitre 8 Intervention de l’OFDF
 
 #### Art. 54
 
 **Domaine d’application**[^54-1]
 
-L’Administration des douanes est habilitée à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de produits munis d’une marque ou d’une indication de provenance illicites.
+L’OFDF est habilité à intervenir en cas d’introduction sur le territoire douanier et de sortie dudit territoire de produits munis d’une marque ou d’une indication de provenance illicites.
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1152,7 +1153,7 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Échantillons**[^56a-1]
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits retenus. Au lieu d’échantillons, l’Administration des douanes peut aussi lui remettre des photographies desdits produits si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou l’inspection des produits retenus. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdits produits si elles lui permettent d’effectuer cet examen.
 
 <sup>2</sup> Le requérant peut adresser cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des produits, directement au bureau de douane qui retient les produits.
 
@@ -1162,9 +1163,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Protection des secrets de fabrication et d’affaires**[^56b-1]
 
-<sup>1</sup> L’Administration des douanes informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Elle lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
 
-<sup>2</sup> Si l’Administration des douanes autorise le requérant à inspecter les produits retenus, elle tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les produits retenus, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 [^56b-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1172,9 +1173,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Conservation des moyens de preuve en cas de destruction des produits**[^56c-1]
 
-<sup>1</sup> L’Administration des douanes conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 72, al. 1 LPM. Après expiration de ce délai, elle invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’Administration des douanes détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 72, al. 1 LPM. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’Administration des douanes peut faire des photographies des produits détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des produits détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
 [^56c-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 
@@ -1182,7 +1183,7 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Émoluments**[^57-1]
 
-Les émoluments perçus pour l’intervention de l’Administration des douanes sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^57-2].
+Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^57-2].
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2547](https://fedlex.data.admin.ch/eli/oc/2008/364)).
 [^57-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
