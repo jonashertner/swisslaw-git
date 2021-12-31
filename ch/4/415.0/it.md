@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2011 sulla promozione dello sport e dell'at
 short: LPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-460-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20210101/it"
 
 (Legge sulla promozione dello sport, LPSpo)
 
-del 17 giugno 2011 (Stato 1° gennaio 2021)
+del 17 giugno 2011 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -217,7 +217,7 @@ A tale scopo adotta in particolare le misure seguenti:
 
 <sup>3</sup> Può promuovere offerte che consentono di conciliare sport e formazione.
 
-[^16-1]: Nuovo testo giusta l’all. n. II 1 della LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [FF 2019 477](https://fedlex.data.admin.ch/eli/fga/2019/113)).
+[^16-1]: Nuovo testo giusta l’all. n. II 1 della LF 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [FF 2019 477](https://fedlex.data.admin.ch/eli/fga/2019/113)).
 
 #### Art. 17
 
@@ -257,11 +257,14 @@ A tale scopo adotta in particolare le misure seguenti:
 
 <sup>1</sup> Le unità amministrative della Confederazione, l’Istituto svizzero per gli agenti terapeutici, i servizi cantonali competenti e l’organo competente per le misure antidoping di cui all’articolo 19 collaborano per limitare la disponibilità di prodotti e metodi dopanti.
 
-<sup>2</sup> L’Amministrazione delle dogane comunica alle autorità cantonali di perseguimento penale gli accertamenti che la inducono a sospettare una violazione delle disposizioni della presente legge.
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) comunica alle autorità cantonali di perseguimento penale gli accertamenti che lo inducono a sospettare una violazione delle disposizioni della presente legge.[^20-1]
 
-<sup>3</sup> Nei casi di sospetta violazione delle disposizioni della presente legge, l’Amministrazione delle dogane è autorizzata a trattenere alla frontiera o in depositi doganali i prodotti dopanti e a far capo all’organo competente per le misure antidoping di cui all’articolo 19. Quest’ultimo procede agli accertamenti del caso e adotta le misure necessarie.
+<sup>3</sup> Nei casi di sospetta violazione delle disposizioni della presente legge, l’UDSC è autorizzato a trattenere alla frontiera o in depositi doganali i prodotti dopanti e a far capo all’organo competente per le misure antidoping di cui all’articolo 19. Quest’ultimo procede agli accertamenti del caso e adotta le misure necessarie.[^20-2]
 
 <sup>4</sup> Indipendentemente da un eventuale procedimento penale, l’organo competente per le misure antidoping di cui all’articolo 19 può disporre la confisca e la distruzione di prodotti dopanti o di oggetti destinati direttamente allo sviluppo e all’applicazione di metodi dopanti.
+
+[^20-1]: Nuovo testo giusta il n. I 9 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-2]: Nuovo testo giusta il n. I 9 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 21
 
@@ -309,19 +312,20 @@ Il caso è considerato grave segnatamente se l’autore:
 
 **Azione penale**
 
-<sup>1</sup> L’azione penale compete ai Cantoni. Nell’ambito dell’inchiesta, le autorità cantonali di perseguimento penale possono far capo all’organo competente per le misure antidoping di cui all’articolo 19 e all’Amministrazione delle dogane.
+<sup>1</sup> L’azione penale compete ai Cantoni. Nell’ambito dell’inchiesta, le autorità cantonali di perseguimento penale possono far capo all’organo competente per le misure antidoping di cui all’articolo 19 e all’UDSC.[^23-1]
 
 <sup>2</sup> Se i controlli antidoping dimostrano il ricorso a prodotti o metodi di cui all’articolo 19 capoverso 3, l’organo che ha eseguito i controlli informa le competenti autorità di perseguimento penale e trasmette loro tutti gli atti.
 
 <sup>3</sup>
 
-Conformemente all’articolo 104 capoverso 2 del Codice di procedura penale[^23-1], l’organo competente per le misure antidoping di cui all’articolo 19 dispone dei seguenti diritti di parte:
+Conformemente all’articolo 104 capoverso 2 del Codice di procedura penale[^23-2], l’organo competente per le misure antidoping di cui all’articolo 19 dispone dei seguenti diritti di parte:
 
 - a. il diritto di impugnare i decreti di non luogo a procedere e di abbandono;
 - b. il diritto di fare opposizione ai decreti d’accusa;
 - c. il diritto di interporre appello o appello incidentale contro i punti della sentenza relativi alla pena.
 
-[^23-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23-1]: Nuovo testo giusta il n. I 9 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 24
 
@@ -515,7 +519,7 @@ La legge federale del 17 marzo 1972[^33-1] che promuove la ginnastica e lo sport
 
 **Modifica del diritto vigente**
 
-…[^34-1]
+...[^34-1]
 
 [^34-1]: Le mod. possono essere consultate alla [RU 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460).
 

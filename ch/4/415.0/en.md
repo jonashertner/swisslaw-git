@@ -4,11 +4,11 @@ title: "Federal Act of 17 June 2011 on the Prommotion of Sport and Exercise (Spo
 short: SpoPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2012-460-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Sport Promotion Act, SpoPA)
 
-of 17 June 2011 (Status as of 1 January 2021)
+of 17 June 2011 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation, based on Article 68 of the Federal Constitution*[^ingress-1]*, having considered the Federal Council Dispatch of 11 November 2009*[^ingress-2]*,
 
@@ -257,11 +257,14 @@ For this it takes in particular the following measures:
 
 <sup>1</sup> The federal administrative units, the Swiss Agency for Therapeutic Products, the responsible cantonal agencies and the anti-doping agency established under Article 19 shall work together to restrict the availability of doping substances and methods.
 
-<sup>2</sup> The Federal Customs Administration shall report any evidence indicating that this Act has been infringed to the cantonal prosecution authorities.
+<sup>2</sup> The Federal Office for Customs and Border Security (FOCBS) shall report any evidence indicating that this Act has been infringed to the cantonal prosecution authorities.[^20-1]
 
-<sup>3</sup> When it suspects that this Act has been infringed, the Federal Customs Administration is entitled to retain doping substances at the border or in customs warehouses and to involve the anti-doping agency established under Article 19. The agency carries out further investigations and takes the required action.
+<sup>3</sup> When it suspects that this Act has been infringed, the FOCBS is entitled to retain doping substances at the border or in customs warehouses and to involve the anti-doping agency established under Article 19. The agency carries out further investigations and takes the required action.[^20-2]
 
 <sup>4</sup> The anti-doping agency established under Article 19 may, irrespective of any criminal proceedings, order any doping substances or objects used in the direct development and application of doping methods to be forfeited and destroyed.
+
+[^20-1]: Amended by No I 9 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-2]: Amended by No I 9 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 21
 
@@ -309,19 +312,20 @@ A case is considered serious in particular if the offender:
 
 **Prosecution**
 
-<sup>1</sup> The cantons are responsible for prosecution. The cantonal prosecution authorities may involve the anti-doping agency as established under Article 19 and the Federal Customs Administration in any investigations.
+<sup>1</sup> The cantons are responsible for prosecution. The cantonal prosecution authorities may involve the anti-doping agency as established under Article 19 and the FOCBS in any investigations.[^23-1]
 
 <sup>2</sup> If substances or methods under Article 19 paragraph 3 are identified in a doping control, the agency carrying out the control shall inform the prosecution authorities responsible and send them all the pertinent documents.
 
 <sup>3</sup>
 
-The anti-doping agency established under Article 19 has the following party rights as defined in Article 104 paragraph 2 of the Criminal Procedure Code[^23-1]:
+The anti-doping agency established under Article 19 has the following party rights as defined in Article 104 paragraph 2 of the Criminal Procedure Code[^23-2]:
 
 - a. to file an appeal against discontinuation and no proceedings orders;
 - b. to file an objection to summary penalty orders;
 - c. to file an appeal and accessory appeal against sentence against judgments.
 
-[^23-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23-1]: Amended by No I 9 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 24
 

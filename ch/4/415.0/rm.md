@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2011 davart la promoziun dal sport 
 short: LPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2012-460-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha per promover il sport, LPSpo)
 
-dals 17 da zercladur 2011 (versiun dal 1. da schaner 2021)
+dals 17 da zercladur 2011 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -259,11 +259,14 @@ Per quest intent prenda ella particularmain las suandantas mesiras:
 
 <sup>1</sup> Las unitads administrativas da la Confederaziun, l’Institut svizzer per products terapeutics, ils posts chantunals cumpetents sco er il post cumpetent per mesiras cunter doping tenor l’artitgel 19 collavuran per restrenscher la disponibladad da products e da metodas da doping.
 
-<sup>2</sup> L’Administraziun da duana annunzia a las autoritads chantunalas da persecuziun penala las constataziuns che l’inciteschan da suspectar cuntravenziuns cunter questa lescha.
+<sup>2</sup> L’Uffizi federal da la duana e da la segirezza dals cunfins (UDSC) annunzia a las autoritads chantunalas da persecuziun penala las constataziuns che l’inciteschan da suspectar cuntravenziuns cunter questa lescha.[^20-1]
 
-<sup>3</sup> L’Administraziun da duana ha il dretg, sch’ella suspectescha ina cuntravenziun cunter questa lescha, da retegnair products da doping al cunfin u en ils deposits da duana e da consultar il post cumpetent per mesiras cunter doping tenor l’artitgel 19. Quest post fa ils ulteriurs scleriments e prenda las mesiras necessarias.
+<sup>3</sup> Il UDSC ha il dretg, sch’el suspectescha ina cuntravenziun cunter questa lescha, da retegnair products da doping al cunfin u en ils deposits da duana e da consultar il post cumpetent per mesiras cunter doping tenor l’artitgel 19. Quest post fa ils ulteriurs scleriments e prenda las mesiras necessarias.[^20-2]
 
 <sup>4</sup> Independentamain d’ina eventuala procedura penala po il post cumpetent per mesiras cunter doping tenor l’artitgel 19 disponer da confiscar e da destruir products da doping u objects che servan directamain a sviluppar ed ad applitgar metodas da doping.
+
+[^20-1]: Versiun tenor la cifra I 9 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-2]: Versiun tenor la cifra I 9 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 21
 
@@ -292,7 +295,7 @@ Las autoritads da controlla da doping tenor l’alinea 2 han il dretg d’elavur
 
 **Disposiziuns penalas**
 
-<sup>1</sup> Tgi che – per intents da doping – producescha, acquista, importa, exporta, transferescha, intermediescha, distribuescha, perscriva, metta en circulaziun, consegna u posseda products tenor l’artitgel 19 alinea 3 u applitgescha envers terzs metodas tenor l’artitgel 19 alinea 3, vegn chastià cun in chasti da detenziun fin 3 onns u cun in chasti pecuniar.
+<sup>1</sup> Tgi che producescha, acquista, importa, exporta, transferescha, intermediescha, distribuescha, perscriva, metta en circulaziun, consegna u posseda – per intents da doping – products tenor l’artitgel 19 alinea 3 u applitgescha envers terzs metodas tenor l’artitgel 19 alinea 3, vegn chastià cun in chasti da detenziun fin 3 onns u cun in chasti pecuniar.
 
 <sup>2</sup> En cas grevs è il chasti in chasti da detenziun fin 5 onns; ensemen cun il chasti da detenziun vegn pronunzià in chasti pecuniar.
 
@@ -311,19 +314,20 @@ In cas grev è avant maun en spezial, sch’il delinquent:
 
 **Persecuziun penala**
 
-<sup>1</sup> La persecuziun penala è chaussa dals chantuns. Per l’inquisiziun pon las autoritads chantunalas da persecuziun penala consultar il post cumpetent per mesiras cunter doping tenor l’artitgel 19 e l’Administraziun da duana.
+<sup>1</sup> La persecuziun penala è chaussa dals chantuns. Per l’inquisiziun pon las autoritads chantunalas da persecuziun penala consultar il post cumpetent per mesiras cunter doping tenor l’artitgel 19 ed il UDSC.[^23-1]
 
 <sup>2</sup> Sch’ina controlla da doping cumprova products u metodas tenor l’artitgel 19 alinea 3, infurmescha l’organ che ha fatg la controlla las autoritads cumpetentas da persecuziun penala e transmetta tut ils documents a quellas.
 
 <sup>3</sup>
 
-Tenor l’artitgel 104 alinea 2 dal Cudesch da procedura penala[^23-1] ha il post cumpetent per mesiras cunter doping tenor l’artitgel 19 ils suandants dretgs da partida:
+Tenor l’artitgel 104 alinea 2 dal Cudesch da procedura penala[^23-2] ha il post cumpetent per mesiras cunter doping tenor l’artitgel 19 ils suandants dretgs da partida:
 
 - a. far recurs cunter disposiziuns da betg avrir l’inquisiziun penala e cunter disposiziuns da sistida;
 - b. far protesta cunter mandats penals;
 - c. far appellaziun e far appellaziun adesiva cunter ils aspects penals da sentenzias.
 
-[^23-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23-1]: Versiun tenor la cifra I 9 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 24
 

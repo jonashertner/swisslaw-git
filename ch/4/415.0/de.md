@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2011 über die Förderung von Sport und Bewegu
 short: SpoFöG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-460-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20210101/de"
 
 (Sportförderungsgesetz, SpoFöG)
 
-vom 17. Juni 2011 (Stand am 1. Januar 2021)
+vom 17. Juni 2011 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -257,11 +257,14 @@ Er ergreift dazu insbesondere folgende Massnahmen:
 
 <sup>1</sup> Die Verwaltungseinheiten des Bundes, das Schweizerische Heilmittelinstitut, die zuständigen kantonalen Stellen sowie die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle arbeiten zusammen, um die Verfügbarkeit von Dopingmitteln und -methoden einzuschränken.
 
-<sup>2</sup> Die Zollverwaltung meldet Feststellungen, die einen Verdacht auf Zuwiderhandlungen gegen dieses Gesetz begründen, den kantonalen Strafverfolgungsbehörden.
+<sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) meldet Feststellungen, die einen Verdacht auf Zuwiderhandlungen gegen dieses Gesetz begründen, den kantonalen Strafverfolgungsbehörden.[^20-1]
 
-<sup>3</sup> Die Zollverwaltung ist berechtigt, bei Verdacht einer Zuwiderhandlung gegen dieses Gesetz Dopingmittel an der Grenze oder in Zolllagern zurückzuhalten und die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle beizuziehen. Diese nimmt die weiteren Abklärungen vor und trifft die erforderlichen Massnahmen.
+<sup>3</sup> Das BAZG ist berechtigt, bei Verdacht einer Zuwiderhandlung gegen dieses Gesetz Dopingmittel an der Grenze oder in Zolllagern zurückzuhalten und die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle beizuziehen. Diese nimmt die weiteren Abklärungen vor und trifft die erforderlichen Massnahmen.[^20-2]
 
 <sup>4</sup> Die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle kann unabhängig von einem allfälligen Strafverfahren die Einziehung und Vernichtung von Dopingmitteln oder von Gegenständen, die der unmittelbaren Entwicklung und Anwendung von Dopingmethoden dienen, verfügen.
+
+[^20-1]: Fassung gemäss Ziff. I 9 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-2]: Fassung gemäss Ziff. I 9 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 21
 
@@ -309,19 +312,20 @@ Ein schwerer Fall liegt namentlich vor, wenn die Täterin oder der Täter:
 
 **Strafverfolgung**
 
-<sup>1</sup> Die Strafverfolgung ist Sache der Kantone. Die kantonalen Strafverfolgungsbehörden können die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle und die Zollverwaltung zur Untersuchung beiziehen.
+<sup>1</sup> Die Strafverfolgung ist Sache der Kantone. Die kantonalen Strafverfolgungsbehörden können die nach Artikel 19 für Massnahmen gegen Doping zuständige Stelle und das BAZG zur Untersuchung beiziehen.[^23-1]
 
 <sup>2</sup> Werden bei einer Dopingkontrolle Mittel oder Methoden nach Artikel 19 Absatz 3 nachgewiesen, so informiert das Organ, das die Kontrolle durchgeführt hat, die zuständigen Strafverfolgungsbehörden und leitet sämtliche Unterlagen an diese weiter.
 
 <sup>3</sup>
 
-Der nach Artikel 19 für Massnahmen gegen Doping zuständigen Stelle stehen im Sinne von Artikel 104 Absatz 2 der Strafprozessordnung[^23-1] die folgenden Parteirechte zu:
+Der nach Artikel 19 für Massnahmen gegen Doping zuständigen Stelle stehen im Sinne von Artikel 104 Absatz 2 der Strafprozessordnung[^23-2] die folgenden Parteirechte zu:
 
 - a. die Beschwerde gegen Nichtanhandnahme- und Einstellungsverfügungen;
 - b. die Einsprache gegen Strafbefehle;
 - c. die Berufung und Anschlussberufung im Strafpunkt gegen Urteile.
 
-[^23-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23-1]: Fassung gemäss Ziff. I 9 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 24
 

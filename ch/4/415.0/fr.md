@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2011 sur l'encouragement du sport et de l'acti
 short: LESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/460"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2011-06-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-460-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/460/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-460-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/460/20210101/fr"
 
 (Loi sur l’encouragement du sport, LESp)[^t-1]
 
-du 17 juin 2011 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 juin 2011 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -259,11 +259,14 @@ La Confédération peut soutenir la recherche scientifique dans le domaine du sp
 
 <sup>1</sup> Les unités administratives de la Confédération, l’Institut suisse des produits thérapeutiques, les organes cantonaux compétents ainsi que l’autorité compétente en matière de lutte contre le dopage visée à l’art. 19 collaborent en vue de limiter la disponibilité des produits et des méthodes de dopage.
 
-<sup>2</sup> L’Administration des douanes communique aux autorités cantonales de poursuite pénale les observations qui l’amènent à suspecter une infraction à la présente loi.
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) communique aux autorités cantonales de poursuite pénale les observations qui l’amènent à suspecter une infraction à la présente loi.[^20-1]
 
-<sup>3</sup> L’Administration des douane est habilitée, si elle suspecte une infraction à la présente loi, à retenir des produits dopants à la frontière ou dans un entrepôt douanier et à faire appel à l’autorité compétente en matière de lutte contre le dopage (art. 19). Celle-ci mène l’enquête et prend les mesures nécessaires.
+<sup>3</sup> L’OFDF est habilité, s’il suspecte une infraction à la présente loi, à retenir des produits dopants à la frontière ou dans un entrepôt douanier et à faire appel à l’autorité compétente en matière de lutte contre le dopage (art. 19). Celle-ci mène l’enquête et prend les mesures nécessaires.[^20-2]
 
 <sup>4</sup> L’autorité compétente en matière de lutte contre le dopage (art. 19) peut, indépendamment de toute procédure pénale, ordonner la saisie et la destruction de produits dopants ou d’objets destinés au développement ou à l’application de méthodes de dopage.
+
+[^20-1]: Nouvelle teneur selon le ch. I 9 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-2]: Nouvelle teneur selon le ch. I 9 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 21
 
@@ -311,19 +314,20 @@ Le cas est grave notamment lorsque l’auteur:
 
 **Poursuite pénale**
 
-<sup>1</sup> La poursuite pénale est du ressort des cantons. Les autorités cantonales de poursuite pénale peuvent associer à l’enquête l’autorité compétente en matière de lutte contre le dopage (art. 19) et l’Administration des douanes.
+<sup>1</sup> La poursuite pénale est du ressort des cantons. Les autorités cantonales de poursuite pénale peuvent associer à l’enquête l’autorité compétente en matière de lutte contre le dopage (art. 19) et l’OFDF.[^23-1]
 
 <sup>2</sup> Lorsqu’un contrôle antidopage révèle l’usage d’une méthode ou d’un produit visé à l’art. 19, al. 3, l’organe ayant réalisé le contrôle en informe les autorités de poursuite pénale compétentes et leur transmet les documents en sa possession.
 
 <sup>3</sup>
 
-Conformément à l’art. 104, al. 2, du code de procédure pénale[^23-1], l’autorité compétente en matière de lutte contre le dopage visée à (art. 19) est reconnue comme partie et dispose par conséquent des droits suivants:
+Conformément à l’art. 104, al. 2, du code de procédure pénale[^23-2], l’autorité compétente en matière de lutte contre le dopage visée à (art. 19) est reconnue comme partie et dispose par conséquent des droits suivants:
 
 - a. droit de faire recours contre les ordonnances de non entrée en matière et de classement;
 - b. droit de former opposition contre les ordonnances pénales;
 - c. droit d’interjeter appel ou appel joint contre des jugements au pénal.
 
-[^23-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^23-1]: Nouvelle teneur selon le ch. I 9 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^23-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 24
 
