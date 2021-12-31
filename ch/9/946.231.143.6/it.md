@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2021-08-18
+version: 2022-01-01
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210818/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210818-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210818/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 18 agosto 2021) (Stato 18 agosto 2021)
+dell’11 novembre 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -254,11 +254,13 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 6:
 
 <sup>1</sup> La SECO è responsabile dell’esecuzione degli articoli 2−9 e 11.
 
-<sup>2</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>2</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^12-1].
 
 <sup>3</sup> La SEM è responsabile dell’esecuzione dell’articolo 10.
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, quali la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
+
+[^12-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 13
 
@@ -270,7 +272,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 6:
 
 <sup>3</sup> Le infrazioni agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; essa può disporre sequestri o confische.
 
-## Sezione 7: Recepimento automatico di liste, pubblicazione e disposizioni finali****
+## Sezione 7: Recepimento automatico di liste, pubblicazione e disposizioni finali
 
 [^sec7-1]
 
@@ -580,7 +582,7 @@ Sono esclusi dalle disposizioni dei numeri 1–3:
 
 - b) software che sono di pubblico dominio.
 
-Allegato 5*[^t-1]*
+Allegato 5[^t-1]
 
 (art. 7 cpv. 1, 10 cpv. 1 e 2, 11 lett. b, 14 e 14*a*)
 
@@ -597,18 +599,18 @@ Allegato 5*[^t-1]*
 [^annex5-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: www.un.org/en/sc/ &gt; 2231 (2015) &gt; 2231 list.
 [^annex5-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
 
-Allegato 6*[^t-2]*
+Allegato 6[^t-2]
 
 (art. 7 cpv. 1, 10 cpv. 1 e 3, 11 lett. b)
 
-## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di ingresso e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie****
+## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di ingresso e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie
 
 [^annex6-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta i n. I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)) del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)) e del 17 ago. 2021, in vigore dal 18 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)).
+[^t-2]: Nuovo testo giusta il n. I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)) del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)) e del 17 ago. 2021, in vigore dal 18 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)).
 [^annex6-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
-Allegato 7*[^t-3]*
+Allegato 7[^t-3]
 
 (art. 7 cpv. 1 e 11 lett. b)
 
@@ -616,5 +618,5 @@ Allegato 7*[^t-3]*
 
 [^annex7-lvlu1-1]
 
-[^t-3]: Aggiornato dai n. I delle O del DEFR del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 1° mag. 2017 ([RU 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), del 23 apr. 2018 ([RU 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), del 7 mag. 2019 ([RU 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), del 29 apr. 2020 ([RU 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)) e del 27 apr. 2021, in vigore dal 28 apr. 2021 ([RU 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)).
+[^t-3]: Aggiornato dal n. I delle O del DEFR del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 1° mag. 2017 ([RU 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), del 23 apr. 2018 ([RU 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), del 7 mag. 2019 ([RU 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), del 29 apr. 2020 ([RU 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)) e del 27 apr. 2021, in vigore dal 28 apr. 2021 ([RU 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)).
 [^annex7-lvlu1-1]: È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.

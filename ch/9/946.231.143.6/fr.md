@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2021-08-18
+version: 2022-01-01
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210818/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210818-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210818/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (Etat le 18 août 2021)
+du 11 novembre 2015 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -90,14 +90,14 @@ Le Secrétariat d’État à l’économie (SECO) accorde l’autorisation pour 
 
 <sup>5</sup> L’exercice d’une activité au sens de l’al. 1 doit être annoncé au SECO dans un délai de cinq jours ouvrés. Le SECO notifie l’exercice de cette activité au Conseil de sécurité et à l’Agence internationale de l’énergie atomique, conformément à la résolution 2231 (2015).
 
-[^3-1]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: www.un.org &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^3-1]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
 [^3-2]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^3-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 [^3-4]: Les directives du GFN sont accessibles en ligne à l’adresse: www.nuclearsuppliersgroup.org/fr/ &gt; Directives.
 [^3-5]: Nouvelle teneur selon le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-6]: Introduit par le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-7]: Introduit par le ch. I de l’O du 18 mai 2016, en vigueur depuis le 18 mai 2016 ([RO 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-8]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne en versions française et anglaise à l’adresse: www.un.org &gt; Notre action &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions
+[^3-8]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Notre action &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions
 
 #### Art. 4
 
@@ -161,9 +161,9 @@ L’entreprise ayant l’intention de conclure un accord avec une personne ou un
 <sup>4</sup> Pour autant que la résolution 2231 (2015) du Conseil de sécurité des Nations Unies du 20 juillet 2015[^6-4] le requière, le SECO sollicite la prise de position du Conseil de sécurité ou de la Commission conjointe du Plan d’action global commun.
 
 [^6-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Le texte de l’annexe 2 peut être consulté sur le site du SECO à l’adresse: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
-[^6-3]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: www.un.org &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
-[^6-4]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne en versions française et anglaise à l’adresse: www.un.org &gt; Notre action &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Le texte de l’annexe 2 peut être consulté sur le site du SECO à l’adresse: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^6-3]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^6-4]: Les textes des résolutions du Conseil de sécurité des Nations Unies sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Notre action &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
 
 ## Section 4 Gel des valeurs patrimoniales et interdiction de mise à disposition
 
@@ -193,7 +193,7 @@ Le SECO peut, exceptionnellement, autoriser des versements prélevés sur des co
 
 <sup>4</sup> Le SECO autorise les dérogations visées à l’al. 3 après avoir consulté les services compétents du DFAE et du Département fédéral des finances (DFF) et, le cas échéant, en accord avec les résolutions pertinentes du Conseil de sécurité des Nations Unies.
 
-[^7-1]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: www.un.org &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
+[^7-1]: Le texte du Plan d’action global commun figure à l’annexe A de la résolution 2231 (2015) du Conseil de sécurité des Nations Unies. Les textes des résolutions du Conseil de sécurité sont accessibles en ligne en versions française et anglaise à l’adresse: [www.un.org](https://www.un.org) &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Documents &gt; Résolutions.
 
 #### Art. 8
 
@@ -254,11 +254,13 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 <sup>1</sup> Le SECO exécute les art. 2 à 9 et 11.
 
-<sup>2</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>2</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^12-1].
 
 <sup>3</sup> Le SEM exécute l’art. 10.
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires au gel des ressources économiques, par exemple en procédant à la mention d’un blocage dans le registre foncier ou à la saisie ou à la mise sous scellé de biens de luxe.
+
+[^12-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 13
 
@@ -270,7 +272,7 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 <sup>3</sup> Le SECO poursuit et juge les infractions aux art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-## Section 7 Reprise automatique de listes, publication et dispositions finales****
+## Section 7 Reprise automatique de listes, publication et dispositions finales
 
 [^sec7-1]
 
@@ -527,7 +529,7 @@ Annexe 3
 - 15 Technologies spécifiques requises pour la mise au point, la production ou l’utilisation des biens cités dans la présente liste.
 
 [^annex3-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex3-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site du SECO: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^annex3-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site du SECO: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 Annexe 4
 
@@ -579,7 +581,7 @@ Les ch. 1 à 3 ne s’appliquent pas:
 
 - b) aux logiciels qui se trouvent dans le domaine public.
 
-Annexe 5*[^t-1]*
+Annexe 5[^t-1]
 
 (art. 7, al. 1, 10, al. 1 et 2, 11, let. b, 14 et 14*a*)
 
@@ -589,31 +591,31 @@ Annexe 5*[^t-1]*
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies*[^annex5-lvlu1-1]*.
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies[^annex5-lvlu1-1].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annex5-lvlu1-2]*.
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex5-lvlu1-2].
 
-[^annex5-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; 2231 (2015) &gt; Liste établie en application de la résolution 2231 (2015).
-[^annex5-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex5-lvlu1-1]: La liste peut être consultée sur Internet, à l’adresse suivante: [www.un.org/securitycouncil/fr](https://www.un.org/securitycouncil/fr) &gt; 2231 (2015) &gt; Liste établie en application de la résolution 2231 (2015).
+[^annex5-lvlu1-2]: La banque de données SESAM est librement accessible sur Internet: [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 6*[^t-2]*
+Annexe 6[^t-2]
 
 (art. 7, al. 1, 10, al. 1 et 3, et 11, let. b)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex6-lvlu1-1]
 
 [^t-2]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)) et du 17 août 2021, en vigueur depuis le 18 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)).
-[^annex6-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex6-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
-Annexe 7*[^t-3]*
+Annexe 7[^t-3]
 
 (art. 7, al. 1, et 11, let. b)
 
-## Personnes physiques visées par les sanctions financières****
+## Personnes physiques visées par les sanctions financières
 
 [^annex7-lvlu1-1]
 
 [^t-3]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)) et du 27 avr. 2021, en vigueur depuis le 28 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)).
-[^annex7-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex7-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur [www.seco.admin.ch](https://www.seco.admin.ch) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
