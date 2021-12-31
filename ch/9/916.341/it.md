@@ -4,11 +4,11 @@ title: "Ordinanza del 26 novembre 2003 concernente il mercato del bestiame da ma
 short: OBM
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2003-791-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-791-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20210101/it"
 
 (Ordinanza sul bestiame da macello, OBM)
 
-del 26 novembre 2003 (Stato 1° gennaio 2021)
+del 26 novembre 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -86,17 +86,16 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 
 <sup>2</sup> Per unità di macellazione si intendono 1 vacca, 1 manzo, 2 vitelli, 1 cavallo, 1 puledro, 5 maiali, 10 pecore, 10 capre, 20 suinetti, 20 agnelli e 20 capretti.
 
-<sup>3</sup> I macelli riportano l’esito della classificazione neutrale della qualità degli animali macellati in forma scritta sul documento di pesatura e trasmettono i risultati alla banca dati centrale conformemente all’articolo 15*a* capoverso 1 della legge del 1° luglio 1966[^3-2] sulle epizoozie. I risultati della classificazione della qualità degli animali della specie equina non devono essere trasmessi.[^3-3]
+<sup>3</sup> I macelli riportano l’esito della classificazione neutrale della qualità degli animali macellati in forma scritta sul documento di pesatura e trasmettono i risultati a Identitas AG. I risultati della classificazione della qualità degli animali della specie equina non devono essere trasmessi.[^3-2]
 
-<sup>4</sup> Il fornitore e l’acquirente possono contestare l’esito della classificazione neutrale della qualità degli animali macellati presso l’organizzazione incaricata conformemente all’articolo 26 capoverso 1 lettera a. Per gli animali della specie suina la contestazione deve avvenire entro 6 ore, per gli animali delle altre specie entro 24 ore dalla macellazione. Le carcasse interessate rimangono bloccate nel macello, intere, fino a quando la procedura relativa alla contestazione non è conclusa.[^3-4]
+<sup>4</sup> Il fornitore e l’acquirente possono contestare l’esito della classificazione neutrale della qualità degli animali macellati presso l’organizzazione incaricata conformemente all’articolo 26 capoverso 1 lettera a. Per gli animali della specie suina la contestazione deve avvenire entro 6 ore, per gli animali delle altre specie entro 24 ore dalla macellazione. Le carcasse interessate rimangono bloccate nel macello, intere, fino a quando la procedura relativa alla contestazione non è conclusa.[^3-3]
 
-<sup>5</sup> Sui mercati pubblici sorvegliati l’organizzazione incaricata effettua una classificazione neutrale della qualità degli animali vivi della specie bovina e ovina conformemente all’articolo 26 capoverso 1 lettera a.[^3-5]
+<sup>5</sup> Sui mercati pubblici sorvegliati l’organizzazione incaricata effettua una classificazione neutrale della qualità degli animali vivi della specie bovina e ovina conformemente all’articolo 26 capoverso 1 lettera a.[^3-4]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^3-3]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^3-2]: Nuovo testo giusta l’all. 3 n. II 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-3]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 [^3-4]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-5]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 4
 
@@ -112,12 +111,12 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 
 <sup>1</sup> L’Ufficio federale dell’agricoltura (UFAG) disciplina, sulla base dei criteri di cui all’articolo 4, i sistemi di valutazione e di classificazione.[^5-1]
 
-<sup>2</sup> L’UFAG[^5-2] definisce gli apparecchi tecnici per la classificazione della qualità di animali macellati della specie suina nonché la loro applicazione e il loro controllo.
+<sup>2</sup> Può definire quali apparecchi tecnici possono essere utilizzati per la classificazione della qualità di animali macellati nonché disciplinare l’applicazione e il controllo degli apparecchi.[^5-2]
 
 <sup>3</sup> Le spese d’investimento e d’esercizio degli apparecchi tecnici sono sostenute dai macelli.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^5-2]: Nuova espr. giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 689](https://fedlex.data.admin.ch/eli/oc/2021/689)).
 
 ## Capitolo 2*a*:**** Determinazione del peso di macellazione
 
@@ -137,7 +136,7 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 
 **Designazione**[^6-1]
 
-<sup>1</sup> L’organizzazione incaricata secondo l’articolo 26 capoverso 1 lettera b designa, per ogni anno civile, i mercati pubblici per gli animali della specie bovina a partire da 161 giorni d’età e per gli animali della specie ovina. La designazione avviene d’intesa con i Cantoni e le organizzazioni contadine e necessita del consenso dell’UFAG.[^6-2]
+<sup>1</sup> L’organizzazione incaricata secondo l’articolo 26 capoverso 1 lettera b designa, per ogni anno civile, i mercati pubblici per gli animali della specie bovina a partire da 161 giorni d’età e per gli animali della specie ovina. La designazione avviene d’intesa con i Cantoni e le organizzazioni contadine e necessita del consenso dell’UFAG[^6-2].[^6-3]
 
 <sup>2</sup> Quali mercati pubblici possono essere designati soltanto i mercati sui quali, tra il 1° luglio e il 30 giugno precedente il rispettivo anno civile, sono stati portati mediamente almeno 50 animali per essere venduti all’asta conformemente all’articolo 7 capoverso 2.
 
@@ -148,7 +147,8 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 <sup>5</sup> L’organizzazione incaricata allestisce, prima dell’inizio dell’anno civile, un programma annuale in cui figurano i mercati pubblici designati. Tale programma indica in particolare le piazze e i giorni dei singoli mercati nonché le categorie di animali che possono essere portate sul mercato.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° lug. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^6-2]: Nuova espr. giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° lug. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 7
 
@@ -552,22 +552,28 @@ Le domande per l’ottenimento di quote del contingente in base al numero di ani
 
 #### Art. 24a
 
-**Animali macellati**[^24a-1]
+**Assegnazione del contingente doganale parziale n. 5.7**[^24a-1]
 
-Per le categorie di carne e di prodotti carnei 5.71–5.75 vale il numero di animali macellati della rispettiva specie animale secondo l’articolo 14 capoverso 2.
+Per l’assegnazione delle quote del contingente doganale parziale n. 5.7 sono determinanti i seguenti numeri:
 
-[^24a-1]: Introdotto dal n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+- a. per le categorie di carne e prodotti carnei 5.71 e 5.72: numero di animali macellati della specie bovina;
+- b. per la categoria di carne e prodotti carnei 5.73: numero di animali macellati della specie equina;
+- c. per la categoria di carne e prodotti carnei 5.74: numero di animali macellati della specie ovina;
+- d. per la categoria di carne e di prodotti carnei 5.75: numero di animali macellati della specie caprina.
+
+[^24a-1]: Introdotto dal n. I dell’O del 6 nov. 2013 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Nuovo testo giusta l’all. 3 n. II 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24b
 
 **Domande per l’ottenimento di quote del contingente in base al numero di animali macellati**[^24b-1]
 
-<sup>1</sup> Nella domanda per l’ottenimento di quote del contingente in base al numero di animali macellati vanno indicati il numero di PGI e il numero BDTA di cui all’articolo 2 lettera e rispettivamente all’articolo 21 capoverso 5 dell’ordinanza BDTA del 26 ottobre 2011[^24b-2].
+<sup>1</sup> Nella domanda per l’ottenimento di quote del contingente in base al numero di animali macellati vanno indicati il numero di PGI e il numero BDTA del richiedente di cui all’articolo 15 capoverso 1 dell’ordinanza del 3 novembre 2021[^24b-2] concernente Identitas AG e la banca dati sul traffico di animali.[^24b-3]
 
 <sup>2</sup> Le domande devono essere presentate mediante il portale Internet Agate entro il 31 agosto precedente l’inizio del periodo di contingentamento.
 
 [^24b-1]: Introdotto dal n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^24b-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24b-3]: Nuovo testo giusta l’all. 3 n. II 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### Sezione 4: Rinuncia alla ripartizione
 

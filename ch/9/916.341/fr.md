@@ -4,11 +4,11 @@ title: "Ordonnance du 26 novembre 2003 sur les marchés du bétail de boucherie 
 short: OBB
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-791-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-791-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20210101/fr"
 
 (Ordonnance sur le bétail de boucherie, OBB)
 
-du 26 novembre 2003 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 novembre 2003 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -86,17 +86,16 @@ Dans les abattoirs ci-après, l’organisation mandatée procède à une taxatio
 
 <sup>2</sup> Sont considérés comme une unité d’abattage une vache, une génisse, deux veaux, un cheval, un poulain, cinq porcs, dix moutons, dix chèvres, vingt porcelets, vingt agneaux et vingt cabris.
 
-<sup>3</sup> Les abattoirs inscrivent le résultat de la taxation neutre de la qualité des animaux abattus sur les bulletins de pesée et les transmettent à la banque de données centrale, selon l’art. 15*a*, al. 1, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^3-2]. Il n’est pas nécessaire de transmettre les résultats de la taxation de la qualité des animaux de l’espèce chevaline.[^3-3]
+<sup>3</sup> Les abattoirs inscrivent le résultat de la taxation neutre de la qualité des animaux abattus sur les bulletins de pesée et les transmettent à Identitas SA. Il n’est pas nécessaire de transmettre les résultats de la taxation de la qualité des animaux de l’espèce chevaline.[^3-2]
 
-<sup>4</sup> Le fournisseur et l’acquéreur peuvent contester le résultat de la taxation neutre de la qualité des animaux abattus auprès de l’organisation mandatée conformément à l’art. 26, al. 1, let. a. La contestation doit intervenir dans un délai de 6 heures après l’abattage pour les animaux de l’espèce porcine, et de 24 heures pour les autres espèces. Les carcasses concernées restent bloquées dans l’abattoir sans être découpées, jusqu’à ce que la procédure engagée à la suite de la contestation soit achevée.[^3-4]
+<sup>4</sup> Le fournisseur et l’acquéreur peuvent contester le résultat de la taxation neutre de la qualité des animaux abattus auprès de l’organisation mandatée conformément à l’art. 26, al. 1, let. a. La contestation doit intervenir dans un délai de 6 heures après l’abattage pour les animaux de l’espèce porcine, et de 24 heures pour les autres espèces. Les carcasses concernées restent bloquées dans l’abattoir sans être découpées, jusqu’à ce que la procédure engagée à la suite de la contestation soit achevée.[^3-3]
 
-<sup>5</sup> Sur les marchés publics surveillés, l’organisation mandatée procède à une taxation neutre de la qualité des animaux sur pied des espèces bovine et ovine, conformément à l’art. 26, al. 1, let. a.[^3-5]
+<sup>5</sup> Sur les marchés publics surveillés, l’organisation mandatée procède à une taxation neutre de la qualité des animaux sur pied des espèces bovine et ovine, conformément à l’art. 26, al. 1, let. a.[^3-4]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^3-3]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^3-2]: Nouvelle teneur selon l’annexe 3 ch. II 8 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-3]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 [^3-4]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-5]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 4
 
@@ -112,11 +111,12 @@ Dans les abattoirs ci-après, l’organisation mandatée procède à une taxatio
 
 <sup>1</sup> L’Office fédéral de l’agriculture (OFAG) définit les systèmes de taxation et de classification sur la base des critères mentionnés à l’art. 4.[^5-1]
 
-<sup>2</sup> Il désigne les appareils techniques nécessaires à la taxation de la qualité des animaux abattus de l’espèce porcine et définit leur utilisation et leur surveillance.
+<sup>2</sup> Il peut déterminer les appareils techniques qui peuvent être utilisés pour la taxation de la qualité des animaux abattus et régler l’utilisation et la surveillance de ces appareils.[^5-2]
 
 <sup>3</sup> Les investissements et les coûts d’exploitation des appareils techniques sont assumés par les abattoirs.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 689](https://fedlex.data.admin.ch/eli/oc/2021/689)).
 
 ## Chapitre 2*a***** Pesage des animaux abattus
 
@@ -552,17 +552,22 @@ Les demandes de parts de contingent selon le nombre d’animaux acquis aux ench�
 
 #### Art. 24a
 
-**Animaux abattus**[^24a-1]
+**Attribution au contingent tarifaire partiel n<sup>o</sup> 5.7**[^24a-1]
 
-Concernant les catégories de viande et de produits à base de viande 5.71 à 5.75, c’est le nombre d’animaux abattus de la catégorie d’animaux correspondante visée à l’art. 14, al. 2, qui est déterminant.
+Les chiffres suivants sont déterminants pour l’attribution des parts au contingent tarifaire partiel n<sup>o</sup> 5.7:
 
-[^24a-1]: Introduit par le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+- a. pour les catégories de viande et de produits à base de viande 5.71 et 5.72: le nombre de bovins abattus;
+- b. pour la catégorie de viande et de produits à base de viande 5.73: le nombre d’équidés abattus;
+- c. pour la catégorie de viande et de produits à base de viande 5.74: le nombre d’ovins abattus;
+- d. pour la catégorie de viande et de produits à base de viande 5.75: le nombre de caprins abattus.
+
+[^24a-1]: Introduit par le ch. I de l’O du 6 nov. 2013 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Nouvelle teneur selon l’annexe 3 ch. II 8 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24b
 
 **Demandes de parts de contingents selon le nombre d’animaux abattus**[^24b-1]
 
-<sup>1</sup> Pour toute demande de part de contingent selon le nombre d’animaux abattus le numéro du PGI et le numéro BDTA selon l’art. 2, let. e, ou 21, al. 5, de l’ordonnance du 26 octobre 2011 sur la BDTA[^24b-2] sont requis.
+<sup>1</sup> Pour toute demande de part de contingent selon le nombre d’animaux abattus le numéro du PGI et le numéro BDTA selon l’art. 15, al. 1, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^24b-2] sont requis.[^24b-3]
 
 <sup>2</sup> Les demandes doivent être déposées au plus tard le 31 août précédant le début de la période contingentaire via le portail Internet Agate.
 
@@ -570,6 +575,7 @@ Concernant les catégories de viande et de produits à base de viande 5.71 à 5.
 
 [^24b-1]: Introduit par le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^24b-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24b-3]: Nouvelle teneur selon l’annexe 3 ch. II 8 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### Section 4 Renonciation à la répartition
 

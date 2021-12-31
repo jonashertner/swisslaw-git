@@ -4,11 +4,11 @@ title: "Verordnung vom 26. November 2003 über den Schlachtvieh- und Fleischmark
 short: SV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2003-791-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-791-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20210101/de"
 
 (Schlachtviehverordnung, SV)
 
-vom 26. November 2003 (Stand am 1. Januar 2021)
+vom 26. November 2003 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -56,7 +56,7 @@ Ausgenommen von Absatz 1 sind:
 - c. geschlachtete Tiere der Schweinegattung in Schlachtbetrieben mit weniger als 1200 Schlachteinheiten pro Jahr; und
 - d. geschlachtete Tiere der Rindvieh-, Pferde-, Schaf- und Ziegengattung in Schlachtbetrieben mit weniger als 1200 Schlachteinheiten pro Jahr, bei denen der Lieferant auf eine Qualitätseinstufung verzichtet;
 - e.[^2-1] Schlachtungen im Auftrag von Produzenten zur Direktvermarktung.
-- f.[^2-2] ...
+- f.[^2-2] …
 
 [^2-1]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Juli 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^2-2]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2013, mit Wirkung seit 1. Juli 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
@@ -86,17 +86,16 @@ In folgenden Schlachtbetrieben muss für geschlachtete Tiere eine neutrale Quali
 
 <sup>2</sup> Als Schlachteinheit gelten 1 Kuh, 1 Rind, 2 Kälber, 1 Pferd, 1 Fohlen, 5 Schweine, 10 Schafe, 10 Ziegen, 20 Ferkel, 20 Lämmer und 20 Gitzi.
 
-<sup>3</sup> Die Schlachtbetriebe halten das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren schriftlich auf dem Waagdokument fest und übermitteln die Ergebnisse an die zentrale Datenbank nach Artikel 15*a* Absatz 1 des Tierseuchengesetzes vom 1. Juli 1966[^3-2]. Nicht übermittelt werden müssen Ergebnisse der Qualitätseinstufung von Tieren der Pferdegattung.[^3-3]
+<sup>3</sup> Die Schlachtbetriebe halten das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren schriftlich auf dem Waagdokument fest und übermitteln die Ergebnisse an die Identitas AG. Nicht übermittelt werden müssen Ergebnisse der Qualitätseinstufung von Tieren der Pferdegattung.[^3-2]
 
-<sup>4</sup> Der Lieferant und der Abnehmer können das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren bei der beauftragten Organisation nach Artikel 26 Absatz 1 Buchstabe a beanstanden. Die Beanstandung hat bei Tieren der Schweinegattung bis spätestens sechs, bei den übrigen Tiergattungen bis spätestens 24 Stunden nach der Schlachtung zu erfolgen. Die betreffenden Schlachtkörper müssen so lange im Schlachtbetrieb unzerlegt blockiert werden, bis das Verfahren der Beanstandung abgeschlossen ist.[^3-4]
+<sup>4</sup> Der Lieferant und der Abnehmer können das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren bei der beauftragten Organisation nach Artikel 26 Absatz 1 Buchstabe a beanstanden. Die Beanstandung hat bei Tieren der Schweinegattung bis spätestens sechs, bei den übrigen Tiergattungen bis spätestens 24 Stunden nach der Schlachtung zu erfolgen. Die betreffenden Schlachtkörper müssen so lange im Schlachtbetrieb unzerlegt blockiert werden, bis das Verfahren der Beanstandung abgeschlossen ist.[^3-3]
 
-<sup>5</sup> Auf überwachten öffentlichen Märkten muss für lebende Tiere der Rindvieh- und Schafgattung eine neutrale Qualitätseinstufung durch die beauftragte Organisation nach Artikel 26 Absatz 1 Buchstabe a vorgenommen werden.[^3-5]
+<sup>5</sup> Auf überwachten öffentlichen Märkten muss für lebende Tiere der Rindvieh- und Schafgattung eine neutrale Qualitätseinstufung durch die beauftragte Organisation nach Artikel 26 Absatz 1 Buchstabe a vorgenommen werden.[^3-4]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^3-3]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^3-2]: Fassung gemäss Anhang 3 Ziff. II 8 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-3]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 [^3-4]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-5]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 4
 
@@ -112,11 +111,12 @@ In folgenden Schlachtbetrieben muss für geschlachtete Tiere eine neutrale Quali
 
 <sup>1</sup> Das Bundesamt für Landwirtschaft (BLW) legt anhand der Kriterien nach Artikel 4 Einschätzungs- und Klassifizierungssysteme fest.[^5-1]
 
-<sup>2</sup> Es legt die technischen Geräte für die Qualitätseinstufung von geschlachteten Tieren der Schweinegattung sowie deren Anwendung und Überwachung fest.
+<sup>2</sup> Es kann festlegen, welche technischen Geräte für die Einstufung der Qualität von geschlachteten Tieren eingesetzt werden dürfen, und die Anwendung und Überwachung der Geräte regeln.[^5-2]
 
 <sup>3</sup> Die Investitions- und Betriebskosten der technischen Geräte werden durch die Schlachtbetriebe getragen.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^5-2]: Fassung ge689mäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 689](https://fedlex.data.admin.ch/eli/oc/2021/689)).
 
 ## 2*a*. Kapitel:**** Ermittlung des Schlachtgewichts
 
@@ -553,17 +553,22 @@ Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere sind dem BLW 
 
 #### Art. 24a
 
-**Geschlachtete Tiere**[^24a-1]
+**Zuteilung zum Teilzollkontingent Nr. 5.7**[^24a-1]
 
-Für die Fleisch- und Fleischwarenkategorien 5.71–5.75 gilt die Zahl der geschlachteten Tiere der entsprechenden Tiergattung nach Artikel 14 Absatz 2.
+Für die Zuteilung der Anteile am Teilzollkontingent Nr. 5.7 sind die folgenden Zahlen massgebend:
 
-[^24a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2015 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+- a. für die Fleisch- und Fleischwarenkategorien 5.71 und 5.72: die Zahl der geschlachteten Tiere der Rindviehgattung;
+- b. für die Fleisch- und Fleischwarenkategorie 5.73: die Zahl der geschlachteten Tiere der Pferdegattung;
+- c. für die Fleisch- und Fleischwarenkategorie 5.74: die Zahl der geschlachteten Tiere der Schafgattung;
+- d. für die Fleisch- und Fleischwarenkategorie 5.75: die Zahl der geschlachteten Tiere der Ziegengattung.
+
+[^24a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2013 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Fassung gemäss Anhang 3 Ziff. II 8 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24b
 
 **Gesuche um Kontingentsanteile nach der Zahl der geschlachteten Tiere**[^24b-1]
 
-<sup>1</sup> Im Gesuch um Kontingentsanteile nach der Zahl der geschlachteten Tiere sind die GEB-Nummer und die TVD-Nummer nach Artikel 2 Buchstabe e beziehungsweise 21 Absatz 5 der TVD-Verordnung vom 26. Oktober 2011[^24b-2] anzugeben.
+<sup>1</sup> Im Gesuch um Kontingentsanteile nach der Zahl der geschlachteten Tiere sind die GEB-Nummer und die TVD-Nummer der Gesuchstellerin nach Artikel 15 Absatz 1 der Verordnung vom 3. November 2021[^24b-2] über die Identitas AG und die Tierverkehrsdatenbank anzugeben.[^24b-3]
 
 <sup>2</sup> Die Gesuche sind bis zum 31. August vor Beginn der Kontingentsperiode über das Internetportal Agate einzureichen.
 
@@ -571,6 +576,7 @@ Für die Fleisch- und Fleischwarenkategorien 5.71–5.75 gilt die Zahl der gesch
 
 [^24b-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^24b-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^24b-3]: Fassung gemäss Anhang 3 Ziff. II 8 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 ### 4. Abschnitt: Verzicht auf die Verteilung
 
@@ -633,7 +639,7 @@ Das BLW überträgt folgende Aufgaben an eine oder mehrere private Organisatione
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^26-2]: Eingefügt durch Art. 62 Abs. 2 der V vom 16. Dez. 2016 über das Schlachten und die Fleischkontrolle, in Kraft seit 1. Mai 2017 ([AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)).
-[^26-3]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^26-3]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
 [^26-4]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 #### Art. 27
@@ -662,7 +668,7 @@ Das BLW vollzieht diese Verordnung, soweit damit nicht andere Behörden betraut 
 
 Die Verordnung vom 7. Dezember 1998[^29-1] über den Schlachtvieh- und Fleischmarkt wird aufgehoben.
 
-[^29-1]: [[AS 1999 111](https://fedlex.data.admin.ch/eli/oc/1999/19), [2000 401](https://fedlex.data.admin.ch/eli/oc/2000/84), [2001 314](https://fedlex.data.admin.ch/eli/oc/2001/67)[2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 18 [2880](https://fedlex.data.admin.ch/eli/oc/2001/427), [2002 3495](https://fedlex.data.admin.ch/eli/oc/2002/521)]
+[^29-1]: [[AS 1999 111](https://fedlex.data.admin.ch/eli/oc/1999/19); [2000 401](https://fedlex.data.admin.ch/eli/oc/2000/84); [2001 314](https://fedlex.data.admin.ch/eli/oc/2001/67), [2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 18, [2880](https://fedlex.data.admin.ch/eli/oc/2001/427); [2002 3495](https://fedlex.data.admin.ch/eli/oc/2002/521)]
 
 #### Art. 30
 
