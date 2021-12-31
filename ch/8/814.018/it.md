@@ -4,11 +4,11 @@ title: "Ordinanza del 12 novembre 1997 relativa alla tassa d'incentivazione sui 
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20180101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20180101/it"
 
 (OCOV)
 
-del 12 novembre 1997 (Stato 1° gennaio 2018)
+del 12 novembre 1997 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -66,7 +66,7 @@ L’UFAM:
 - b. aiuta la Direzione generale delle dogane nell’esecuzione delle disposizioni sull’esenzione dalla tassa grazie a provvedimenti per ridurre le emissioni (art. 9–9*h*);
 - c. esamina l’effetto sulla qualità dell’aria della tassa e dell’esenzione dalla tassa grazie a provvedimenti per ridurre le emissioni e pubblica a intervalli regolari i risultati.
 
-<sup>3</sup> L’Amministrazione federale delle dogane mette a disposizione dell’UFAM i dati necessari.
+<sup>3</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^4-2] mette a disposizione dell’UFAM i dati necessari.
 
 <sup>4</sup>
 
@@ -75,14 +75,15 @@ I Cantoni aiutano le autorità esecutive, salvo quando l’obbligo di pagare la 
 - a. i piani di provvedimenti secondo l’articolo 9*d* nonché il loro adeguamento (art. 9*f* e 9*g*);
 - b. le prove secondo l’articolo 9*h*;
 - c. i bilanci dei COV secondo l’articolo 10;
-- d.[^4-2] la domanda di proroga dei termini secondo l’articolo 9*i*.
+- d.[^4-3] la domanda di proroga dei termini secondo l’articolo 9*i*.
 
 <sup>5</sup> Le autorità esecutive ricevono insieme l’1,5 per cento del prodotto complessivo (prodotto lordo) a titolo di indennità per il lavoro svolto.
 
 <sup>6</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) emana, d’intesa con il Dipartimento federale delle finanze, prescrizioni sull’indennità da versare ai Cantoni per il loro aiuto nell’ambito dell’esecuzione.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^4-2]: Introdotta dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), con effetto dal 1° gen. 2022.
+[^4-3]: Introdotta dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
 
 #### Art. 5
 
@@ -479,7 +480,7 @@ La Direzione generale delle dogane può accordare un’autorizzazione per l’ac
 - a. a utilizzarle o trattarle in modo che non possano pervenire nell’ambiente; oppure
 - b. a esportarle.[^21-2]
 
-<sup>1</sup> *<sup>a</sup>* …[^21-3]
+<sup>1</sup> *<sup>a</sup>* ...[^21-3]
 
 <sup>1bis</sup>
 
@@ -510,7 +511,7 @@ Essa può concedere detta autorizzazione anche alle persone che utilizzano una s
 
 <sup>2</sup> La tassa sui COV impiegati in modo che non siano esenti deve essere pagata posticipatamente.
 
-<sup>3</sup> …[^22-1]
+<sup>3</sup> ...[^22-1]
 
 <sup>4</sup> I documenti relativi alla procedura per l’acquisto di COV temporaneamente non gravati dalla tassa devono essere conservati per cinque anni a contare dall’inoltro del bilancio dei COV.[^22-2]
 
@@ -523,7 +524,7 @@ Essa può concedere detta autorizzazione anche alle persone che utilizzano una s
 
 La persona soggetta all’obbligo di dichiarazione che richiede una nuova imposizione doganale conformemente all’articolo 34 capoverso 3 della legge del 18 marzo 2005[^22a-2] sulle dogane deve provare che, al momento della dichiarazione doganale originaria, vi era già un’autorizzazione per l’acquisto di COV temporaneamente non gravati dalla tassa.
 
-[^22a-1]: Introdotto dal n. 43 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^22a-1]: Introdotto dall’all. 4 n. 43 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^22a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 22b
@@ -761,7 +762,7 @@ Allegato 2*[^t-2]*
 
 ## Elenco dei prodotti (composti organici volatili, COV, soggetti alla tassa)
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 2 apr. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Aggiornato dal n. 16 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. II cpv. 2 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), dal n. 10 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. 6 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) e dal n. II cpv. 2 dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del 2 apr. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Aggiornato dall’all. 3 n. 16 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. II cpv. 2 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), dall’all. 3 n. 10 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dall’all. 2 n. 6 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dal n. II cpv. 2 dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)) e dall’all. 3 n. 13 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><td>N. di tariffa[^annex2-lvlu1-1]</td><td>Prodotto(i)/Gruppo(i) di prodotti</td></tr>
@@ -782,11 +783,11 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>– liquefatti:</td></tr>
 <tr><td></td><td>– – altri</td></tr>
 <tr><td>1990</td><td>– – – altri</td></tr>
-<tr><td>2715. 0000</td><td>Miscele bituminose a base di asfalto o di bitumi naturali, di bitume di petrolio, di catrame minerale o di pece di catrame minerale (per esempio, mastici bituminosi, «cut-backs»)</td></tr>
 </table>
 
 <table>
 <tr><th>N. di tariffa</th><th>Prodotto(i)/Gruppo(i) di prodotti</th></tr>
+<tr><td>2715. 0000</td><td>Miscele bituminose a base di asfalto o di bitumi naturali, di bitume di petrolio, di catrame minerale o di pece di catrame minerale (per esempio, mastici bituminosi, «cut-backs»)</td></tr>
 <tr><td>3201.</td><td>Estratti per concia di origine vegetale; tannini e loro sali, eteri, esteri e altri derivati:</td></tr>
 <tr><td>1000</td><td>– estratto di quebracho</td></tr>
 <tr><td>2000</td><td>– estratto di mimosa</td></tr>
@@ -810,6 +811,7 @@ Allegato 2*[^t-2]*
 <tr><td>1500</td><td>– – coloranti al tino (compresi quelli utilizzabili in tale stato come coloranti pigmentari) e preparazioni a base di tali coloranti</td></tr>
 <tr><td>1600</td><td>– – coloranti reattivi e preparazioni a base di tali coloranti</td></tr>
 <tr><td>1700</td><td>– – coloranti pigmentari e preparazioni a base di tali coloranti</td></tr>
+<tr><td>1800</td><td>[tab] – materie coloranti carotenoidi e preparazioni a base di tali materie</td></tr>
 <tr><td></td><td>– – altri, comprese le miscele di sostanze coloranti di almeno due delle voci da 3204.11 a 3204.19:</td></tr>
 <tr><td>1910</td><td>– – prodotti delle liste contenuti nella parte 1b</td></tr>
 <tr><td>1990</td><td>– – altri</td></tr>
@@ -907,20 +909,20 @@ Allegato 2*[^t-2]*
 <tr><td>1100</td><td>– – da toeletta (compresi quelli ad uso medicinale) – – altri:</td></tr>
 <tr><td>1990</td><td>– – – altri (oltre ai saponi ordinari)</td></tr>
 <tr><td>3000</td><td>– prodotti e preparazioni organici tensioattivi per la pulizia della pelle,sotto forma di liquido o di crema, condizionati per la vendita al minuto,anche contenenti sapone</td></tr>
-<tr><td>ex 3402.</td><td>Agenti organici di superficie (diversi dai saponi); preparazioni tensioattive, preparazioni per liscivie (comprese le preparazioni ausiliarie per lavare) e preparazioni per pulire, anche contenenti sapone, diverse da quelle della voce 3401; *tranne i detersivi per tessili pronti all’uso delle voci di tariffa 3402.2000/9000*.</td></tr>
-<tr><td></td><td>– agenti organici di superficie, anche condizionati per la vendita al minuto:</td></tr>
-<tr><td></td><td>– – anionici:</td></tr>
-<tr><td>1110</td><td>– – – solfoleati</td></tr>
-<tr><td>1190</td><td>– – – altri</td></tr>
-<tr><td></td><td>– – cationici:</td></tr>
-<tr><td>1210</td><td>– – – prodotti delle liste contenuti nella parte 1b</td></tr>
-<tr><td>1290</td><td>– – – altri</td></tr>
-<tr><td></td><td>– – non ionici:</td></tr>
-<tr><td>1310</td><td>– – – prodotti delle liste contenuti nella parte 1b</td></tr>
-<tr><td>1390</td><td>– – – altri</td></tr>
-<tr><td>1900</td><td>– – altri</td></tr>
-<tr><td>2000</td><td>– preparazioni condizionate per la vendita al minuto</td></tr>
-<tr><td>9000</td><td>– altri</td></tr>
+<tr><td>ex 3402.</td><td>Agenti organici di superficie (diversi dai saponi); preparazioni tensioattive, preparazioni per liscivie (comprese le preparazioni ausiliarie per lavare) e preparazioni per pulire, anche contenenti sapone, diverse da quelle della voce 3401; tranne i detersivi per tessili pronti all’uso delle voci di tariffa 3402.5000/9000.</td></tr>
+<tr><td></td><td>[tab] – agenti organici di superficie anionici, anche condizionati per la vendita al minuto:</td></tr>
+<tr><td>3100</td><td>[tab] – – acidi solfonici di alchilbenzeni lineari e loro sali</td></tr>
+<tr><td>3900</td><td>[tab] – – altri</td></tr>
+<tr><td></td><td>[tab] – altri agenti organici di superficie, anche condizionati per la vendita al minuto:</td></tr>
+<tr><td></td><td>[tab] – – cationici:</td></tr>
+<tr><td>4110</td><td>[tab] – – – prodotti delle liste contenute nella Parte 1 b</td></tr>
+<tr><td>4190</td><td>[tab] – – – altri</td></tr>
+<tr><td></td><td>[tab] – – non ionici:</td></tr>
+<tr><td>4210</td><td>[tab] – – – prodotti delle liste contenute nella Parte 1 b</td></tr>
+<tr><td>4290</td><td>[tab] – – – altri</td></tr>
+<tr><td>4900</td><td>[tab] – – altri</td></tr>
+<tr><td>5000</td><td>[tab] – preparazioni condizionate per la vendita al minuto</td></tr>
+<tr><td>9000</td><td>[tab] – andere</td></tr>
 <tr><td>3403.</td><td>Preparazioni lubrificanti (compresi gli oli da taglio, le preparazioni per eliminare il grippaggio dei dadi, le preparazioni antiruggine o anti- corrosione e le preparazioni per la sformatura, a base di lubrificanti) e preparazioni dei tipi utilizzati per l’ensimaggio delle materie tessili, per oliare o ingrassare il cuoio, le pelli o altre materie, escluse quelle contenenti come costituenti di base 70 % o più, in peso, di oli di petrolio o di minerali bituminosi:</td></tr>
 <tr><td></td><td>– contenenti oli di petrolio o di minerali bituminosi:</td></tr>
 <tr><td>1100</td><td>– – preparazioni per il trattamento delle materie tessili, del cuoio, delle pelli. o di altre materie</td></tr>
@@ -1000,16 +1002,6 @@ Allegato 2*[^t-2]*
 <tr><td>4000</td><td>– additivi preparati per cementi, malte o calcestruzzo</td></tr>
 <tr><td>5000</td><td>– malte e calcestruzzo, non refrattari</td></tr>
 <tr><td>6000</td><td>– sorbitolo diverso da quello della voce 2905.44</td></tr>
-<tr><td></td><td>– miscugli contenenti derivati alogenati del metano, dell’etano o del propano:</td></tr>
-<tr><td>7100</td><td>– – contenenti clorofluorocarburi (CFC), anche contenenti idroclorofluoro- carburi (HCFC), perfluorocarburi (PFC) o idrofluorocarburi (HFC)</td></tr>
-<tr><td>7200</td><td>– – contenenti bromoclorodifluorometano, bromotrifluorometano o dibromotetrafluoroetani</td></tr>
-<tr><td>7300</td><td>– – contenenti idrobromofluorocarburi (HBFC)</td></tr>
-<tr><td>7400</td><td>– – contenenti idroclorofluorocarburi (HCFC), anche contenenti perfluoro- carburi (PFC) o idrofluorocarburi (HFC), ma non contenenti cloro- fluorocarburi (CFC)</td></tr>
-<tr><td>7500</td><td>– – contenenti tetracloruro di carbonio</td></tr>
-<tr><td>7600</td><td>– – contenenti tricloroetano-1,1,1 metilcloroformio)</td></tr>
-<tr><td>7700</td><td>– – contenenti bromometano (bromuro di metile) o bromoclorometano</td></tr>
-<tr><td>7800</td><td>– – contenenti perfluorocarburi (PFC) o idrofluorocarburi (HFC), ma non contenenti clorofluorocarburi (CFC) o idroclorofluorocarburi (HCFC)</td></tr>
-<tr><td>7900</td><td>– – altri</td></tr>
 <tr><td></td><td>– merci indicate nella nota di sottovoci 3 di questo capitolo:</td></tr>
 <tr><td>8100</td><td>– – contenenti ossirano (ossido di etilene)</td></tr>
 <tr><td>8200</td><td>– – contenenti polibromobifenili (PBB), policlorotrifenili (PCT) o policlorobifenili (PCB)</td></tr>
@@ -1019,8 +1011,10 @@ Allegato 2*[^t-2]*
 <tr><td>8600</td><td>– – contenenti pentaclorobenzene (ISO) o esaclorobenzene (ISO)</td></tr>
 <tr><td>8700</td><td>– – contenenti acido perfluorottano solfonico, suoi sali, perfluorottano sulfonamide o floruro di perfluorottano solfonile</td></tr>
 <tr><td>8800</td><td>– – contenenti eteri tetra-, penta-, esa-, epta- o ottabromodifenilici</td></tr>
+<tr><td>8900</td><td>[tab] – – contenenti paraffine clorurate a catena corta</td></tr>
 <tr><td></td><td>– altri:</td></tr>
 <tr><td>9100</td><td>– – miscele e preparazioni costituite principalmente da (5-etil-2-metil-2-ossido-1,3,2-diossafosfinan-5-il)metil metil metilfosfonato e bis[(5-etil-2-metil-2-ossido-1,3,2-diossafosfinan-5-il)metil] metilfosfonato</td></tr>
+<tr><td>9200</td><td>[tab] – – esteri di poliglicolo di acido metilfosfonico</td></tr>
 <tr><td></td><td>– – altri:</td></tr>
 <tr><td></td><td>– – – preparazioni per usi farmaceutici, preparazioni per le industrie alimentari:</td></tr>
 <tr><td>9911</td><td>– – – – prodotti delle liste contenuti nella parte 1b</td></tr>
@@ -1044,6 +1038,30 @@ Allegato 2*[^t-2]*
 <tr><td>9090</td><td>– – altri</td></tr>
 <tr><td>3826.</td><td>Biodiesel e sue miscele, non contenenti oli di petrolio né minerali bituminosi o contenenti, in peso, meno del 70 %:</td></tr>
 <tr><td>0090</td><td>– altri</td></tr>
+<tr><td>3827.</td><td>Miscugli contenenti derivati alogenati del metano, dell’etano o del propano, non nominati né compresi altrove:</td></tr>
+<tr><td></td><td>[tab] – contenenti clorofluorocarburi (CFC), anche contenenti idroclorofluorocarburi (HCFC), perfluorocarburi (PFC) o idrofluorocarburi (HFC); contenenti idrobromofluorocarburi (HBFC); contenenti tetracloruro di carbonio; contenenti 1,1,1-tricloroetano (metilcloroformio):</td></tr>
+<tr><td>1100</td><td>[tab] – – contenenti clorofluorocarburi (CFC) , anche contenenti idroclorofluorocarburi (HCFC), perfluorocarburi (PFC) o idrofluorocarburi (HFC)</td></tr>
+<tr><td>1200</td><td>[tab] – – contenenti idrobromofluorocarburi (HBFC)</td></tr>
+<tr><td>1300</td><td>[tab] – – contenenti tetracloruro di carbonio</td></tr>
+<tr><td>1400</td><td>[tab] – – contenenti 1,1,1-tricloroetano (metilcloroformio)</td></tr>
+<tr><td>2000</td><td>[tab] – contenenti bromoclorodifluorurometano (alone-1211), bromotrifluorometano (alone-1301) o dibromotetrafluoroetani (alone-2402)</td></tr>
+<tr><td></td><td>[tab] – contenenti idroclorofluorocarburi (HCFC), anche contenenti perfluorocarburi (PFC) o idrofluorocarburi (HFC), ma non contenenti clorofluorocarburi (CFC):</td></tr>
+<tr><td>3100</td><td>[tab] – – contenenti sostanze delle voci 2903.41 a 2903.48</td></tr>
+<tr><td>3200</td><td>[tab] – – altri, contenenti sostanze delle voci 2903.71 a 2903.75</td></tr>
+<tr><td>3900</td><td>[tab] – – altri</td></tr>
+<tr><td>4000</td><td>[tab] – contenenti bromuro di metile (bromometano) o bromoclorometano</td></tr>
+<tr><td></td><td>[tab] – contenenti trifluorometano (HFC-23) o perfluorocarburi (PFC) ma non contenenti clorofluorocarburi (CFC) o idroclorofluorocarburi (HCFC):</td></tr>
+<tr><td>5100</td><td>[tab] – – contenenti trifluorometano (HFC-23)</td></tr>
+<tr><td>5900</td><td>[tab] – – altri</td></tr>
+<tr><td></td><td>[tab] – contenenti altri idrofluorocarburi (HFC) ma non contenenti clorofluorocarburi (CFC) o idroclorofluorocarburi (HCFC):</td></tr>
+<tr><td>6100</td><td>[tab] – – contenenti, in peso, 15 % o più di 1,1,1-trifluoroetano (HFC-143a)</td></tr>
+<tr><td>6200</td><td>[tab] – – altri, non menzionati nella sottovoce qui precedente, contenenti, in peso, 55 % o più di pentafluoroetano (HFC-125) ma non contenenti derivati fluorurati non saturi degli idrocarburi aciclici (HFO)</td></tr>
+<tr><td>6300</td><td>[tab] – – altri, non menzionati nelle sottovoci qui precedenti, contenenti, in peso, 40 % o più di pentafluoroetano (HFC-125)</td></tr>
+<tr><td>6400</td><td>[tab] – – altri, non menzionati nelle sottovoci qui precedenti, contenenti, in peso, 30 % o più di 1,1,1,2-tetrafluoroetano (HFC-134a) ma non contenenti derivati fluorurati non saturi degli idrocarburi aciclici (HFO)</td></tr>
+<tr><td>6500</td><td>[tab] – – altri, non menzionati nelle sottovoci qui precedenti, contenenti, in peso, 20 % o più di difluorometano (HFC-32) e 20 % o più di pentafluoroetano (HFC-125)</td></tr>
+<tr><td>6800</td><td>[tab] – – altri, non menzionati nelle sottovoci qui precedenti, contenenti sostanze delle voci 2903.41 a 2903.48</td></tr>
+<tr><td>6900</td><td>[tab] – – altri</td></tr>
+<tr><td>9000</td><td>[tab] – altri</td></tr>
 <tr><td>3901.</td><td>Polimeri di etilene, in forme primarie:</td></tr>
 <tr><td>1000</td><td>– polietilene di densità inferiore a 0,94</td></tr>
 <tr><td>2000</td><td>– polietilene di densità uguale o superiore a 0,94</td></tr>
@@ -1097,12 +1115,14 @@ Allegato 2*[^t-2]*
 <tr><td>9010</td><td>– – prodotti delle liste contenuti nella parte 1b</td></tr>
 <tr><td>9090</td><td>– – altri</td></tr>
 <tr><td>3907.</td><td>Poliacetali, altri polieteri e resine epossidiche, in forme primarie; policarbonati, resine alchidiche, poliesteri allilici e altri poliesteri, in forme primarie:</td></tr>
-<tr><td></td><td>– poliacetali:</td></tr>
-<tr><td>1010</td><td>– – prodotti delle liste contenuti nella parte 1b</td></tr>
-<tr><td>1090</td><td>– – altri</td></tr>
-<tr><td></td><td>– altri polieteri:</td></tr>
-<tr><td>2010</td><td>– – prodotti delle liste contenuti nella parte 1b</td></tr>
-<tr><td>2090</td><td>– – altri</td></tr>
+<tr><td></td><td>[tab] – poliacetali:</td></tr>
+<tr><td>1010</td><td>[tab] – – prodotti delle liste contenuti nella parte 1b</td></tr>
+<tr><td>1090</td><td>[tab] – – altri</td></tr>
+<tr><td></td><td>[tab] – altri polieteri:</td></tr>
+<tr><td>2100</td><td>[tab] – – metilfosfonato di bis(poliossietilene)</td></tr>
+<tr><td></td><td>[tab] – – altri:</td></tr>
+<tr><td>2910</td><td>[tab] – – – prodotti delle liste contenute nella parte 1b</td></tr>
+<tr><td>2990</td><td>[tab] – – – altri</td></tr>
 <tr><td></td><td>– resine epossidiche:</td></tr>
 <tr><td>3010</td><td>– – prodotti delle liste contenuti nella parte 1b</td></tr>
 <tr><td>3090</td><td>– – altri</td></tr>
@@ -1136,6 +1156,7 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>– resine di petrolio, resine cumaroniche, resine indeniche, resine di cumarone-indene e politerpeni:</td></tr>
 <tr><td>1010</td><td>– – dispersi o disciolti in veicoli non acquosi</td></tr>
 <tr><td>1090</td><td>– – altri</td></tr>
+<tr><td>2000</td><td>[tab] – poli(1,3-fenilene metilfosfonato)</td></tr>
 <tr><td></td><td>– altri:</td></tr>
 <tr><td>9010</td><td>– – prodotti delle liste contenuti nella parte 1b</td></tr>
 <tr><td>9090</td><td>– altri</td></tr>
@@ -1164,7 +1185,7 @@ Allegato 2*[^t-2]*
 <tr><td>0090</td><td>– altri</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871),All.
+[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871),Allegato
 
 Allegato 3*[^t-3]*
 

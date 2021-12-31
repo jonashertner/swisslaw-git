@@ -4,11 +4,11 @@ title: "Ordonnance du 12 novembre 1997 sur la taxe d'incitation sur les composé
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20180101/fr"
 
 (OCOV)
 
-du 12 novembre 1997 (Etat le 1<sup>er</sup> janvier 2018)
+du 12 novembre 1997 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -66,7 +66,7 @@ L’OFEV:
 - b. soutient la DGD dans l’exécution des dispositions relatives à l’exonération de la taxe liée à des mesures prises pour réduire les émissions (art. 9 à 9*h*);
 - c. examine les effets sur la qualité de l’air de la taxe et de l’exonération de la taxe liée à des mesures prises pour réduire les émissions et publie régulièrement les résultats obtenus.
 
-<sup>3</sup> La DGD met à la disposition de l’OFEV les documents nécessaires.
+<sup>3</sup> L’Office fédéral de la douane et de la sécurité des frontières[^4-2] met à la disposition de l’OFEV les documents nécessaires.
 
 <sup>4</sup>
 
@@ -75,14 +75,15 @@ Les cantons soutiennent les autorités d’exécution, pour autant que ce ne soi
 - a. les plans de mesures au sens de l’art. 9*d* et leur adaptation (art. 9*f* et 9*g*);
 - b. la preuve au sens de l’art. 9*h*;
 - c. les bilans de COV au sens de l’art. 10;
-- d.[^4-2] la demande de prolongation du délai visée à l’art. 9*i.*
+- d.[^4-3] la demande de prolongation du délai visée à l’art. 9*i.*
 
 <sup>5</sup> Les autorités d’exécution reçoivent ensemble 1,5 % des recettes totales (produit brut) à titre de dédommagement pour leur travail.
 
 <sup>6</sup> En accord avec le Département fédéral des finances, le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) édicte des prescriptions concernant l’indemnisation des cantons pour leur contribution à l’exécution de l’ordonnance.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^4-2]: Introduite par le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
+[^4-3]: Introduite par le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
 
 #### Art. 5
 
@@ -142,7 +143,7 @@ Sont exonérés de la taxe les COV contenus dans les mélanges et les objets sui
 Les COV utilisés dans une installation stationnaire au sens de l’art. 2, al. 1, et de l’annexe 1, ch. 32, de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^9-2] sont exonérés de la taxe si:
 
 - a. grâce aux mesures prises, la quantité annuelle des émissions de COV provenant de cette installation est inférieure d’au moins 50 % à la quantité maximale d’émissions admise pour un même volume de production en vertu de la limitation préventive des émissions prévue aux art. 3 et 4 OPair;
-- b. l’installation d’épuration des effluents gazeux (installation d’épuration) utilisée à cet effet est en bon état du point de vue technique et que sa disponibilité est de 95 % pendant la durée d’exploitation; et que
+- b. l’installation d’épuration des effluents gazeux (installation d’épuration) utilisée à cet effet est en bon état du point de vue technique et que sa disponibilité est de 95 % pendant la durée d’exploitation, et que
 - c. les émissions de COV de l’installation stationnaire qui ne sont pas dirigées vers l’installation d’épuration (émissions diffuses de COV), sont réduites selon l’annexe 3.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
@@ -178,14 +179,14 @@ La composition d’un groupe d’installations ne peut être modifiée durant la
 
 #### Art. 9b
 
-**Evénements extraordinaires et remplacement de l’installation d’épuration**[^9b-1]
+**Événements extraordinaires et remplacement de l’installation d’épuration**[^9b-1]
 
 <sup>1</sup>
 
 Si la disponibilité de l’installation d’épuration exigée à l’art. 9, al. 1, let. b, n’a pas été atteinte au cours d’un exercice en raison d’un événement extraordinaire, les COV émis en dehors de la période d’arrêt dû à cet événement sont exonérés de la taxe si:
 
 - a. les conditions d’exonération selon l’art. 9 sont remplies en dehors de cette période;
-- b. l’autorité cantonale a été immédiatement informée de l’événement extraordinaire; et que
+- b. l’autorité cantonale a été immédiatement informée de l’événement extraordinaire, et que
 - c. l’événement extraordinaire n’est pas dû à un entretien insuffisant ou à une exploitation inappropriée de l’installation d’épuration.
 
 <sup>2</sup>
@@ -193,7 +194,7 @@ Si la disponibilité de l’installation d’épuration exigée à l’art. 9, a
 Si la disponibilité de l’installation d’épuration exigée à l’art. 9, al. 1, let. b, n’a pas été atteinte au cours d’un exercice en raison du remplacement de l’installation, les COV émis en dehors de la période d’arrêt dû au remplacement de l’installation sont exonérés de la taxe si:
 
 - a. les conditions d’exonération au sens de l’art. 9 sont remplies en dehors de cette période;
-- b. l’autorité cantonale a été informée au préalable de l’arrêt prévu de l’installation d’épuration; et que
+- b. l’autorité cantonale a été informée au préalable de l’arrêt prévu de l’installation d’épuration, et que
 - c. les travaux de remplacement ont été effectués pendant les vacances d’entreprise ou pendant des périodes de faible production.
 
 [^9b-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
@@ -206,7 +207,7 @@ Si la disponibilité de l’installation d’épuration exigée à l’art. 9, a
 
 La condition stipulée à l’art. 9, al. 1, let. c, est remplie si:
 
-- a. l’installation stationnaire remplit déjà les exigences de l’annexe 3; ou si
+- a. l’installation stationnaire remplit déjà les exigences de l’annexe 3, ou si
 - b.[^9c-2] les émissions diffuses de COV de l’installation stationnaire sont réduites conformément à un plan de mesures approuvé par la DGD de manière à ce que l’installation stationnaire soit conforme aux exigences de l’annexe 3, au plus tard le 31 décembre 2022 (période de validité).
 
 <sup>2</sup> Le DETEC adapte l’annexe 3 et la période de validité fixée à l’al. 1, let. b, tous les cinq ans, après avoir consulté les secteurs économiques concernés et les cantons. Il tient compte de l’évolution de la technique.
@@ -273,7 +274,7 @@ Le plan de mesures exigé à l’art. 9*c*, al. 1, let. b, contient:
 
 Quiconque désire bénéficier d’une exonération de la taxe au sens de l’art. 35*a*, al. 4, LPE doit prouver chaque année que les conditions d’exonération au sens de l’art. 9 sont remplies. Il faut en particulier prouver que:
 
-- a. l’installation stationnaire remplit les exigences de l’annexe 3; ou que
+- a. l’installation stationnaire remplit les exigences de l’annexe 3, ou que
 - b.[^9h-2] les mesures prévues dans le plan de mesures approuvé pour l’exercice concerné ont été mises en œuvre dans les délais et que l’installation stationnaire remplit les autres exigences de l’annexe 3.
 
 <sup>2</sup> La preuve doit être remise en même temps que le bilan de COV.
@@ -486,7 +487,7 @@ La DGD peut autoriser des personnes à acquérir des COV temporairement non soum
 Elle peut aussi accorder cette autorisation à des personnes utilisant une substance figurant à l’annexe 1 de la présente ordonnance lorsqu’elles attestent:
 
 - a. que la part de cette substance représente au moins 55 % de leur consommation totale de COV;
-- b. qu’elles utilisent au moins une tonne de cette substance par an; et
+- b. qu’elles utilisent au moins une tonne de cette substance par an, et
 - c. que celle-ci ne peut pénétrer dans l’environnement à la suite de la transformation chimique due aux procédés d’utilisation qu’à raison de 2 % au plus en moyenne.[^21-4]
 
 <sup>2</sup> L’autorisation peut aussi être accordée à des personnes qui pratiquent le commerce de gros de COV et qui prouvent qu’elles possèdent un stock moyen d’au moins 25 t de COV ou qu’elles vendent au moins 50 t de COV par an.[^21-5]
@@ -523,7 +524,7 @@ Elle peut aussi accorder cette autorisation à des personnes utilisant une subst
 
 La personne assujettie à l’obligation de déclarer qui demande une nouvelle taxation au sens de l’art. 34, al. 3, de la loi du 18 mars 2005 sur les douanes[^22a-2] doit prouver qu’une autorisation de se procurer des COV temporairement non soumis à la taxe existait au moment de la déclaration en douane initiale.
 
-[^22a-1]: Introduit par le ch. 43 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^22a-1]: Introduit par l’annexe 4 ch. 43 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^22a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 22b
@@ -563,7 +564,7 @@ On entend par assureurs:
 
 Les assureurs redistribuent le produit annuel en montants égaux à toutes les personnes qui, au cours de l’année de redistribution:
 
-- a. sont tenues de s’assurer conformément à la LAMal ou à l’art. 2, al. 1 ou 2, LAM; et
+- a. sont tenues de s’assurer conformément à la LAMal ou à l’art. 2, al. 1 ou 2, LAM, et
 - b. sont domiciliées ou résident habituellement en Suisse.
 
 <sup>6</sup> Lorsque des personnes n’ont été assurées que temporairement auprès d’un assureur pendant l’année de redistribution, les montants sont redistribués au prorata de la durée d’affiliation.[^23-4]
@@ -651,7 +652,7 @@ Annexe 1*[^t-1]*
 <table>
 <tr><td>N<sup>o</sup> de tarif[^annex1-lvlu1-lvl1-1]</td><td>Substance(s)</td><td>N<sup>o</sup> CAS</td></tr>
 <tr><td>2915.2100</td><td>**acide acétique**</td><td>64-19-7</td></tr>
-<tr><td>ex[^annex1-lvlu1-lvl1-2] 2915.3980</td><td>acétate de benzyle</td><td>140-11-4</td></tr>
+<tr><td>ex[^annex1-lvlu1-lvl1-2] 2915.3980</td><td>**acétate de benzyle**</td><td>140-11-4</td></tr>
 <tr><td>ex 2915.3980</td><td>**acétate de 2-n-butoxyéthyle**</td><td>112-07-2</td></tr>
 <tr><td>2915.3100</td><td>**acétate d’éthyle**</td><td>141-78-6</td></tr>
 <tr><td>ex 2915.3980</td><td>**acétate d’isobutyle**</td><td>110-19-0</td></tr>
@@ -703,7 +704,7 @@ Annexe 1*[^t-1]*
 <tr><td>ex 2901.1099</td><td>**heptane**</td><td>142-82-5</td></tr>
 <tr><td>ex 2901.1099</td><td>**hexane**</td><td>110-54-3</td></tr>
 <tr><td>ex 2905.1980</td><td>**hexane-1-ol**</td><td>111-27-3</td></tr>
-<tr><td>ex 2914.4090</td><td>**4-****hydroxy-4-méthylpentane-2-one** (diacétonealcool)</td><td>123-42-2</td></tr>
+<tr><td>ex 2914.4090</td><td>**4-hydroxy-4-méthylpentane-2-one** (diacétonealcool)</td><td>123-42-2</td></tr>
 <tr><td>ex 2902.1999</td><td>**D-limonène** ([R]-p-mentha-1,8-diene)</td><td>5989-27-5</td></tr>
 <tr><td>ex 2902.1999 + ex 3805.9000</td><td>**DL-limonène** ([RS]-p-mentha-1,8-diene)</td><td>138-86-3</td></tr>
 <tr><td>ex 2902.1999</td><td>**L-limonène** ([S]-p-mentha-1,8-diene, di‑penthène) D-, DL- et L-limonène d’essences terpéniques (p. ex. terpènes d’orange, dipentène)</td><td>5989-54-8</td></tr>
@@ -713,7 +714,7 @@ Annexe 1*[^t-1]*
 <tr><td>ex 2901.1099</td><td>**2-méthylbutane** (isopentane)</td><td>78-78-4</td></tr>
 <tr><td>ex 2902.1999</td><td>**méthylcyclohexane**</td><td>108-87-2</td></tr>
 <tr><td>ex 2901.1099</td><td>**2-méthylpentane** (isohexane)</td><td>107-83-5</td></tr>
-<tr><td>2914.1300</td><td>**4-****méthylpentane-2-one** (méthyl isobutylcétone)</td><td>108-10-1</td></tr>
+<tr><td>2914.1300</td><td>**4-méthylpentane-2-one** (méthyl isobutylcétone)</td><td>108-10-1</td></tr>
 <tr><td>ex 2905.1490</td><td>**2-méthylpropane-1-ol** (isobutanol)</td><td>78-83-1</td></tr>
 <tr><td>ex 2711.1390 + ex 2901.1019</td><td>**2-méthylpropane** (isobutane)</td><td>75-28-5</td></tr>
 <tr><td>ex 2933.7900</td><td>**N-méthyl-2-pyrrolidone** (1‑méthyl‑2‑pyrrolidone)</td><td>872-50-4</td></tr>
@@ -731,7 +732,7 @@ Annexe 1*[^t-1]*
 <tr><td>ex 2902.9099</td><td>**triméthylbenzènes** (1,2,3‑, 1,2,4‑ et 1,3,5‑ triméthylbenzène)</td><td>526-73-8 95-63-6 108-67-8</td></tr>
 <tr><td>2902.4190</td><td>**o-xylène**</td><td>95-47-6</td></tr>
 <tr><td>2902.4290</td><td>**m-xylène**</td><td>108-38-3</td></tr>
-<tr><td>2902.4390</td><td>p-xylène</td><td>106-42-3</td></tr>
+<tr><td>2902.4390</td><td>**p-xylène**</td><td>106-42-3</td></tr>
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
@@ -761,7 +762,7 @@ Annexe 2*[^t-2]*
 
 ## Liste positive des produits (mélanges et objets importés contenant des COV soumis à la taxe)
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 2 avr. 2008 ([RO 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Mise à jour selon le ch. 16 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. II al. 2 de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), le ch. 10 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. 6 de l’annexe 2 à l’O du 29 juin 2016 modifiant le tarif des douanes concernant les droits de douane pour certains produits des technologies de l’information ([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) et le ch. II al. 2 de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 2 avr. 2008 ([RO 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Mise à jour par l’annexe 3 ch. 16 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. II al. 2 de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), l’annexe 3 ch. 10 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), l’annexe 2 ch. 6 de l’O du 29 juin 2016 modifiant le tarif des douanes concernant les droits de douane pour certains produits des technologies de l’information ([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), le ch. II al. 2 de l’O du 25 oct. 2017 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)) et l’annexe 3 ch. 13 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><td>N<sup>o</sup> de tarif[^annex2-lvlu1-1]</td><td>Produit(s)/groupe(s) de produits</td></tr>
@@ -812,6 +813,7 @@ Annexe 2*[^t-2]*
 <tr><td>1500</td><td>[tab] – – colorants de cuve (y compris ceux utilisables en l’état comme colorants pigmentaires) et préparations à base de ces colorants</td></tr>
 <tr><td>1600</td><td>[tab] – – colorants réactifs et préparations à base de ces colorants</td></tr>
 <tr><td>1700</td><td>[tab] – – colorants pigmentaires et préparations à base de ces colorants</td></tr>
+<tr><td>1800</td><td>[tab] – matières colorantes caroténoïdes et préparations à base de ces matières</td></tr>
 <tr><td></td><td>[tab] – – autres, y compris les mélanges de matières colorantes d’au moins deux des n<sup>os</sup> 3204.11 à 3204.19:</td></tr>
 <tr><td>1910</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
 <tr><td>1990</td><td>[tab] – – – autres</td></tr>
@@ -910,19 +912,19 @@ Annexe 2*[^t-2]*
 <tr><td>1100</td><td>[tab] – – de toilette (y compris ceux à usages médicaux) [tab] – – autres:</td></tr>
 <tr><td>1990</td><td>[tab] – autres (que savons ordinaires)</td></tr>
 <tr><td>3000</td><td>[tab] – produits et préparations organiques tensio-actifs destinés au lavage de la peau, sous forme de liquide ou de crème, conditionnés pour la vente au détail, même contenant du savon</td></tr>
-<tr><td>ex 3402.</td><td>Agents de surface organiques (autres que les savons); préparations tensio-actives, préparations pour lessives (y compris les préparations auxiliaires de lavage) et préparations de nettoyage, même contenant du savon, autres que celles du n<sup>o</sup> 3401; à l’exception des lessives prêtes à l’emploi portant les numéros de tarif 3402.2000/9000.</td></tr>
-<tr><td></td><td>[tab] – agents de surface organiques, même conditionnés pour la vente au détail:</td></tr>
-<tr><td></td><td>[tab] – – anioniques:</td></tr>
-<tr><td>1110</td><td>[tab] – – – sulfoléates</td></tr>
-<tr><td>1190</td><td>[tab] – – – autres</td></tr>
+<tr><td>ex 3402.</td><td>Agents de surface organiques (autres que les savons); préparations tensio-actives, préparations pour lessives (y compris les préparations auxiliaires de lavage) et préparations de nettoyage, même contenant du savon, autres que celles du n<sup>o</sup> 3401; à l’exception des lessives prêtes à l’emploi portant les numéros de tarif 3402.5000/9000</td></tr>
+<tr><td></td><td>[tab] – agents de surface organiques anioniques, même conditionnés pour la vente au détail:</td></tr>
+<tr><td>3100</td><td>[tab] – – acides sulfoniques d’alkylbenzènes linéaires et leurs sels</td></tr>
+<tr><td>3900</td><td>[tab] – – autres</td></tr>
+<tr><td></td><td>[tab] – autres agents de surface organiques, même conditionnés pour la vente au détail:</td></tr>
 <tr><td></td><td>[tab] – – cationiques:</td></tr>
-<tr><td>1210</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>1290</td><td>[tab] – – – autres</td></tr>
+<tr><td>4110</td><td>[tab] – – – produits selon listes dans la Partie 1 b</td></tr>
+<tr><td>4190</td><td>[tab] – – – autres</td></tr>
 <tr><td></td><td>[tab] – – non-ioniques:</td></tr>
-<tr><td>1310</td><td>[tab] – – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>1390</td><td>[tab] – – – autres</td></tr>
-<tr><td>1900</td><td>[tab] – – autres</td></tr>
-<tr><td>2000</td><td>[tab] – préparations conditionnées pour la vente au détail</td></tr>
+<tr><td>4210</td><td>[tab] – – – produits selon listes dans la Partie 1 b</td></tr>
+<tr><td>4290</td><td>[tab] – – – autres</td></tr>
+<tr><td>4900</td><td>[tab] – – autres</td></tr>
+<tr><td>5000</td><td>[tab] – préparations conditionnées pour la vente au détail</td></tr>
 <tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3403.</td><td>Préparations lubrifiantes (y compris les huiles de coupe, les préparations pour le dégrippage des écrous, les préparations antirouille ou anticorrosion et les préparations pour le démoulage, à base de lubrifiants) et préparations des types utilisés pour l’ensimage des matières textiles, l’huilage ou le graissage du cuir, des pelleteries ou d’autres matières, à l’exclusion de celles contenant comme constituants de base 70 % ou davantage en poids d’huiles de pétrole ou de minéraux bitumineux:</td></tr>
 <tr><td></td><td>[tab] – contenant des huiles de pétrole ou de minéraux bitumineux:</td></tr>
@@ -1003,16 +1005,6 @@ Annexe 2*[^t-2]*
 <tr><td>4000</td><td>[tab] – additifs préparés pour ciments, mortiers ou bétons</td></tr>
 <tr><td>5000</td><td>[tab] – mortiers et bétons, non réfractaires</td></tr>
 <tr><td>6000</td><td>[tab] – sorbitol autre que celui du n<sup>o</sup> 2905.44</td></tr>
-<tr><td></td><td>[tab] – mélanges contenant des dérivés halogénés du méthane, de l’éthane ou du propane:</td></tr>
-<tr><td>7100</td><td>[tab] – – contenant des chlorofluorocarbures (CFC), même contenant des hydrochlorofluorocarbures (HCFC), des perfluorocarbures (PFC) ou des hydrofluorocarbures (HFC)</td></tr>
-<tr><td>7200</td><td>[tab] – – contenant du bromochlorodifluorométhane, du bromotrifluorométhane ou des dibromotétrafluoroéthanes</td></tr>
-<tr><td>7300</td><td>[tab] – – contenant des hydrobromofluorocarbures (HBFC)</td></tr>
-<tr><td>7400</td><td>[tab] – – contenant des hydrochlorofluorocarbures (HCFC), même contenant des perfluorocarbures (PFC) ou des hydrofluorocarbures (HFC), mais ne contenant pas de chlorofluorocarbures (CFC)</td></tr>
-<tr><td>7500</td><td>[tab] – – contenant du tétrachlorure de carbone</td></tr>
-<tr><td>7600</td><td>[tab] – – contenant du trichloroéthane-1,1,1 (méthylchloroforme)</td></tr>
-<tr><td>7700</td><td>[tab] – – contenant du bromométhane (bromure de méthyle) ou du bromochlorométhane</td></tr>
-<tr><td>7800</td><td>[tab] – – contenant des perfluorocarbures (PFC) ou des hydrofluorocarbures (HFC), mais ne contenant pas de chlorofluorocarbures (CFC) ou d’hydrochlorofluorocarbures (HCFC)</td></tr>
-<tr><td>7900</td><td>– – autres</td></tr>
 <tr><td></td><td>[tab] – marchandises mentionnées dans la note 3 de sous-positions du présent chapitre:</td></tr>
 <tr><td>8100</td><td>[tab] – – contenant de l’oxiranne (oxyde d’éthylène)</td></tr>
 <tr><td>8200</td><td>[tab] – – contenant des polybromobiphényles (PBB), des polychloroterphényles (PCT) ou des polychlorobiphényles (PCB)</td></tr>
@@ -1022,8 +1014,10 @@ Annexe 2*[^t-2]*
 <tr><td>8600</td><td>[tab] – – contenant du pentachlorobenzène (ISO) ou du hexachlorobenzène (ISO)</td></tr>
 <tr><td>8700</td><td>[tab] – – contenant de l’acide perfluorooctane sulfonique, ses sels, des perfluorooctane sulfonamides, ou du fluorure de perfluorooctane sulfonyle</td></tr>
 <tr><td>8800</td><td>[tab] – – contenant des éthers tétra-, penta-, hexa-, hepta- ou octabromodiphényliques</td></tr>
+<tr><td>8900</td><td>[tab] – – contenant des paraffines chlorées à chaîne courte</td></tr>
 <tr><td></td><td>[tab] – autres:</td></tr>
 <tr><td>9100</td><td>[tab] – – mélanges et préparations constitués essentiellement de méthylphosphonate de (5-éthyl-2-méthyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)méthyle et de méthyle et de méthylphosphonate de bis[(5-éthyl-2-méthyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)méthyle]</td></tr>
+<tr><td>9200</td><td>[tab] – – esters de polyglycol d’acide méthylphosphonique</td></tr>
 <tr><td></td><td>[tab] – – autres:</td></tr>
 <tr><td></td><td>[tab] – – – préparations à usages pharmaceutiques, préparations pour les industries alimentaires:</td></tr>
 <tr><td>9911</td><td>[tab] – – – – produits selon listes dans la Partie 1 b</td></tr>
@@ -1047,6 +1041,30 @@ Annexe 2*[^t-2]*
 <tr><td>9090</td><td>[tab] – – autres</td></tr>
 <tr><td>3826.</td><td>Biodiesel et ses mélanges, ne contenant pas d’huiles de pétrole ni de minéraux bitumineux ou en contenant moins de 70 % en poids:</td></tr>
 <tr><td>0090</td><td>[tab] – autres</td></tr>
+<tr><td>3827.</td><td>Mélanges contenant des dérivés halogénés du méthane, de l’éthane ou du propane, non dénommés ni compris ailleurs:</td></tr>
+<tr><td></td><td>[tab] – contenant des chlorofluorocarbures (CFC), même contenant des hydrochlorofluorocarbures (HCFC), des perfluorocarbures (PFC) ou des hydrofluorocarbures (HFC); contenant des hydrobromofluorocarbures (HBFC); contenant du tétrachlorure de carbone; contenant du 1,1,1-trichloroéthane (méthylchloroforme):</td></tr>
+<tr><td>1100</td><td>[tab] – – contenant des chlorofluorocarbures (CFC), même contenant des hydrochlorofluorocarbures (HCFC), des perfluorocarbures (PFC) ou des hydrofluorocarbures (HFC)</td></tr>
+<tr><td>1200</td><td>[tab] – – contenant des hydrobromofluorocarbures (HBFC)</td></tr>
+<tr><td>1300</td><td>[tab] – – contenant du tétrachlorure de carbone</td></tr>
+<tr><td>1400</td><td>[tab] – – contenant du 1,1,1-trichloroéthane (méthylchloroforme)</td></tr>
+<tr><td>2000</td><td>[tab] – contenant du bromochlorodifluorométhane (halon-1211), du bromotrifluorométhane (halon-1301) ou des dibromotétrafluoroéthanes (halon-2402)</td></tr>
+<tr><td></td><td>[tab] – contenant des hydrochlorofluorocarbures (HCFC), même contenant des perfluorocarbures (PFC) ou des hydrofluorocarbures (HFC), mais ne contenant pas de chlorofluorocarbures (CFC):</td></tr>
+<tr><td>3100</td><td>[tab] – – contenant des substances des n°s 2903.41 à 2903.48</td></tr>
+<tr><td>3200</td><td>[tab] – – autres, contenant des substances des n°s 2903.71 à 2903.75</td></tr>
+<tr><td>3900</td><td>[tab] – – autres</td></tr>
+<tr><td>4000</td><td>[tab] – contenant du bromure de méthyle (bromométhane) ou du bromochlorométhane</td></tr>
+<tr><td></td><td>[tab] – contenant du trifluorométhane (HFC-23) ou des perfluorocarbures (PFC) mais ne contenant pas de chlorofluorocarbures (CFC) ou d’hydrochlorofluorocarbures (HCFC):</td></tr>
+<tr><td>5100</td><td>[tab] – – contenant du trifluorométhane (HFC-23)</td></tr>
+<tr><td>5900</td><td>[tab] – – autres</td></tr>
+<tr><td></td><td>[tab] – contenant d’autres hydrofluorocarbures (HFC) mais ne contenant pas de chlorofluorocarbures (CFC) ou d’hydrochlorofluorocarbures (HCFC):</td></tr>
+<tr><td>6100</td><td>[tab] – – contenant en masse 15 % ou plus de 1,1,1-trifluoroéthane (HFC-143a)</td></tr>
+<tr><td>6200</td><td>[tab] – – autres, non mentionnés dans la sous-position ci-dessus, contenant en masse 55 % ou plus de pentafluoroéthane (HFC-125) mais ne contenant pas de dérivés fluorés non saturés des hydrocarbures acycliques (HFO)</td></tr>
+<tr><td>6300</td><td>[tab] – – autres, non mentionnés dans les sous-positions ci-dessus, contenant en masse 40 % ou plus de pentafluoroéthane (HFC-125)</td></tr>
+<tr><td>6400</td><td>[tab] – – autres, non mentionnés dans les sous-positions ci-dessus, contenant en masse 30 % ou plus de 1,1,1,2-tétrafluoroéthane (HFC-134a) mais ne contenant pas de dérivés fluorés non saturés des hydrocarbures acycliques (HFO)</td></tr>
+<tr><td>6500</td><td>[tab] – – autres, non mentionnés dans les sous-positions ci-dessus, contenant en masse 20 % ou plus de difluorométhane (HFC-32) et 20 % ou plus de pentafluoroéthane (HFC-125)</td></tr>
+<tr><td>6800</td><td>[tab] – – autres, non mentionnés dans les sous-positions ci-dessus, contenant des substances des n°s 2903.41 à 2903.48</td></tr>
+<tr><td>6900</td><td>[tab] – – autres</td></tr>
+<tr><td>9000</td><td>[tab] – autres</td></tr>
 <tr><td>3901.</td><td>Polymères de l’éthylène, sous formes primaires:</td></tr>
 <tr><td>1000</td><td>[tab] – polyéthylène d’une densité inférieure à 0,94</td></tr>
 <tr><td>2000</td><td>[tab] – polyéthylène d’une densité égale ou supérieure à 0,94</td></tr>
@@ -1102,10 +1120,12 @@ Annexe 2*[^t-2]*
 <tr><td>3907.</td><td>Polyacétals, autres polyéthers et résines époxydes, sous formes primaires; polycarbonates, résines alkydes, polyesters allyliques et autres polyesters, sous formes primaires:</td></tr>
 <tr><td></td><td>[tab] – polyacétals:</td></tr>
 <tr><td>1010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>1090</td><td>[tab] – – autres:</td></tr>
-<tr><td></td><td>[tab] – autres polyéthers</td></tr>
-<tr><td>2010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
-<tr><td>2090</td><td>[tab] – – autres</td></tr>
+<tr><td>1090</td><td>[tab] – – autres</td></tr>
+<tr><td></td><td>[tab] – autres polyéthers:</td></tr>
+<tr><td>2100</td><td>[tab] – – méthylphosphonate de bis(polyoxyéthylène)</td></tr>
+<tr><td></td><td>[tab] – – autres:</td></tr>
+<tr><td>2910</td><td>[tab] – – – produits selon listes dans la Partie 1 b</td></tr>
+<tr><td>2990</td><td>[tab] – – – autres</td></tr>
 <tr><td></td><td>[tab] – résines époxydes:</td></tr>
 <tr><td>3010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
 <tr><td>3090</td><td>[tab] – – autres</td></tr>
@@ -1139,6 +1159,7 @@ Annexe 2*[^t-2]*
 <tr><td></td><td>[tab] – résines de pétrole, résines de coumarone, résines d’indène, résines de coumarone-indène et polyterpènes:</td></tr>
 <tr><td>1010</td><td>[tab] – – dispersés ou dissous dans un milieu non aqueux</td></tr>
 <tr><td>1090</td><td>[tab] – – autres</td></tr>
+<tr><td>2000</td><td>[tab] – poly(1,3-phénylène méthylphosphonate)</td></tr>
 <tr><td></td><td>[tab] – autres:</td></tr>
 <tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
 <tr><td>9090</td><td>[tab] – – autres</td></tr>
@@ -1162,7 +1183,7 @@ Annexe 2*[^t-2]*
 <tr><td></td><td>[tab] – autres:</td></tr>
 <tr><td>9010</td><td>[tab] – – produits selon listes dans la partie 1b</td></tr>
 <tr><td>9090</td><td>[tab] – – autres</td></tr>
-<tr><td>3914.</td><td>Echangeurs d’ions à base de polymères des n<sup>os</sup> 3901 à 3913, sous formes primaires:</td></tr>
+<tr><td>3914.</td><td>Échangeurs d’ions à base de polymères des n<sup>os</sup> 3901 à 3913, sous formes primaires:</td></tr>
 <tr><td>0010</td><td>[tab] – produits selon listes dans la partie 1b</td></tr>
 <tr><td>0090</td><td>[tab] – autres</td></tr>
 </table>
@@ -1175,7 +1196,7 @@ Annexe 3*[^t-3]*
 
 ## Réduction des émissions diffuses de COV
 
-[^t-3]: Introduite par le ch. II al. 3 de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Mise à jour selon le ch. II de l’O du DETEC du 28 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)).
+[^t-3]: Introduite par le ch. II al. 3 de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Mise à jour par le ch. II de l’O du DETEC du 28 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)).
 
 ### 1 Exigences applicables à l’exploitation d’installations stationnaires
 
@@ -1201,7 +1222,7 @@ Tous les processus impliquant des COV doivent être optimisés afin de réduire 
 
 <sup>7</sup> Le système d’évacuation des effluents gazeux doit faire l’objet d’un plan de maintenance tenu à jour, qui définit en particulier comment garantir:
 
-- a. l’étanchéité du système d’évacuation des effluents gazeux; et
+- a. l’étanchéité du système d’évacuation des effluents gazeux, et
 - b. le remplacement rapide des composants critiques pour le système.
 
 <sup>8</sup> Dans la mesure où l’état de la technique et les conditions d’exploitation le permettent et pour autant que cela soit économiquement supportable, la ventilation des locaux d’exploitation avec un apport d’air mécanique doit fonctionner de telle sorte qu’il y ait une dépression lorsqu’un bâtiment de production:
@@ -1240,7 +1261,7 @@ Les récipients contenant des COV doivent être équipés d’un dispositif de f
 <tr><td>– Séchage et cuisson lors de travaux d’impression, de contrecollage et de revêtement</td><td>– En système fermé</td></tr>
 <tr><td>– Nettoyage de récipients, de produits et de pièces<sup>a</sup> et nettoyage en général</td><td>– Nettoyage à l’eau ou avec des détergents sans COV dans la mesure où l’état de la technique le permet. Les exigences suivantes s’appliquent en cas d’utilisation de COV: – Lorsque le nettoyage a lieu plusieurs fois par semaine: uniquement en systèmes fermés avec traitement (externe) des déchets de solvants – L’ouverture de l’installation de nettoyage pour retirer les récipients, produits et pièces nettoyés doit être synchronisée avec le démarrage de l’aspiration vers l’installation d’épuration pour qu’aucune émission de COV ne s’échappe dans la pièce et dans l’environnement – Nettoyage et séchage manuels hors système fermé uniquement dans des locaux fermés avec évacuation des effluents gazeux vers l’installation d’épuration; asservissement du système de fermeture du bac de nettoyage immédiatement après le nettoyage – Entreposage des ustensiles de nettoyage contaminés avec des solvants dans des récipients fermés</td></tr>
 <tr><td>– Entreposage</td><td>– Dans des récipients fermés ou en système fermé; équilibrage de la pression en dirigeant les effluents gazeux vers l’installation d’épuration ou au moyen d’une soupape de contrepression</td></tr>
-<tr><td>– Elimination</td><td>– Par une conduite menant au centre d’élimination ou dans des récipients fermés</td></tr>
+<tr><td>– Élimination</td><td>– Par une conduite menant au centre d’élimination ou dans des récipients fermés</td></tr>
 <tr><td colspan="2"><sup>a</sup> Lorsque des COV halogénés sont utilisés, l’annexe 2, ch. 87, OPair s’applique.</td></tr>
 </table>
 

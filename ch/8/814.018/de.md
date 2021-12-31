@@ -4,11 +4,11 @@ title: Verordnung vom 12. November 1997 über die Lenkungsabgabe auf flüchtigen
 short: VOCV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20180101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20180101/de"
 
 (VOCV)
 
-vom 12. November 1997 (Stand am 1. Januar 2018)
+vom 12. November 1997 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -66,7 +66,7 @@ Das BAFU:
 - b. unterstützt die Oberzolldirektion beim Vollzug der Bestimmungen über die Abgabebefreiung bei Massnahmen zur Verminderung der Emissionen (Art. 9–9*h*);
 - c. untersucht die Wirkung der Abgabe und der Abgabebefreiung bei Massnahmen zur Verminderung der Emissionen auf die Luftqualität und veröffentlicht die Ergebnisse regelmässig.
 
-<sup>3</sup> Die Eidgenössische Zollverwaltung stellt dem BAFU die benötigten Unterlagen zur Verfügung.
+<sup>3</sup> Das Bundesamt für Zoll und Grenzsicherheit[^4-2] stellt dem BAFU die benötigten Unterlagen zur Verfügung.
 
 <sup>4</sup>
 
@@ -75,14 +75,15 @@ Die Kantone unterstützen die Vollzugsbehörden, soweit nicht der Bund abgabepfl
 - a. die Massnahmenpläne nach Artikel 9*d* sowie ihre Anpassung (Art. 9*f* und 9*g*);
 - b. die Nachweise nach Artikel 9*h*;
 - c. die VOC-Bilanzen nach Artikel 10;
-- d.[^4-2] das Gesuch um Fristerstreckung nach Artikel 9*i.*
+- d.[^4-3] das Gesuch um Fristerstreckung nach Artikel 9*i.*
 
 <sup>5</sup> Die Vollzugsbehörden erhalten zusammen 1,5 Prozent der Gesamteinnahmen (Bruttoertrag) als Entschädigung für ihren Aufwand.
 
 <sup>6</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) erlässt im Einvernehmen mit dem Eidgenössischen Finanzdepartement Vorschriften über die Abgeltung der Kantone für die Unterstützung des Vollzugs.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^4-2]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)) auf den 1. Jan. 2022 angepasst.
+[^4-3]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
 
 #### Art. 5
 
@@ -475,7 +476,7 @@ Die Oberzolldirektion kann Personen eine Bewilligung zum Bezug von vorläufig ab
 - a. so zu verwenden oder so zu behandeln, dass sie nicht in die Umwelt gelangen können; oder
 - b. zu exportieren.[^21-2]
 
-<sup>1</sup> *<sup>a</sup>* …[^21-3]
+<sup>1</sup> *<sup>a</sup>* ...[^21-3]
 
 <sup>1bis</sup>
 
@@ -506,7 +507,7 @@ Sie kann diese Bewilligung auch Personen erteilen, die einen Stoff nach Anhang 1
 
 <sup>2</sup> Für VOC, die so verwendet werden, dass sie nicht von der Abgabe befreit sind, muss die Abgabe nachbezahlt werden.
 
-<sup>3</sup> …[^22-1]
+<sup>3</sup> ...[^22-1]
 
 <sup>4</sup> Die Unterlagen des Verfahrens zum Bezug von vorläufig abgabebefreiten VOC sind während fünf Jahren seit Einreichung der VOC-Bilanz aufzubewahren.[^22-2]
 
@@ -757,7 +758,7 @@ Anhang 2*[^t-2]*
 
 ## Produkte-Positivliste (der Abgabe unterstellte flüchtige organische Verbindungen, VOC)
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 2. April 2008 ([AS 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Bereinigt gemäss Anhang 3 Ziff. 16 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. II Abs. 2 der V vom 27. Juni 2012 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), Anhang 3 Ziff. 10 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Anhang 2 Ziff. 6 der V vom 29. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) und Ziff. II der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 2. April 2008 ([AS 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Bereinigt gemäss Anhang 3 Ziff. 16 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. II Abs. 2 der V vom 27. Juni 2012 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), Anhang 3 Ziff. 10 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Anhang 2 Ziff. 6 der V vom 29. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), Ziff. II der V vom 25. Okt. 2017 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)) und Anhang 3 Ziff. 13 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><td colspan="3">Zolltarif-Nr.[^annex2-lvlu1-1]</td><td></td><td>Produkt(e)/Produktegruppe(n)</td></tr>
@@ -797,14 +798,15 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="3">1210</td><td>– – – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
 <tr><td></td><td colspan="3">1290</td><td>– – – andere</td></tr>
 <tr><td></td><td colspan="3"></td><td>[tab] – – basische Farbstoffe und Zubereitungen auf der Grundlage dieser Farbstoffe:</td></tr>
-<tr><td></td><td colspan="3">1310</td><td>– – – Erzeugnisse ge mäss Listen im Teil 1b</td></tr>
+<tr><td></td><td colspan="3">1310</td><td>– – – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
 <tr><td></td><td colspan="3">1390</td><td>– – – andere</td></tr>
 <tr><td></td><td colspan="3">1400</td><td>– – Direktfarbstoffe und Zubereitungen auf der Grundlage dieser Farbstoffe</td></tr>
 <tr><td></td><td colspan="3">1500</td><td>[tab] – – Küpenfarbstoffe (einschliesslich der in diesem Zustand als Pigmentfarben verwendbaren) und Zubereitungen auf der Grundlage dieser Farbstoffe</td></tr>
 <tr><td></td><td colspan="3">1600</td><td>– – Reaktivfarbstoffe und Zubereitungen auf der Grundlage dieser Farbstoffe</td></tr>
 <tr><td></td><td colspan="3">1700</td><td>– – Pigmentfarbstoffe und Zubereitungen auf der Grundlage dieser Farbstoffe</td></tr>
+<tr><td></td><td colspan="3">1800</td><td>[tab] – Carotinoidfarbstoffe und Zubereitungen auf Grundlage dieser Farbstoffe</td></tr>
 <tr><td></td><td colspan="3"></td><td>[tab] – – andere, einschliesslich der Mischungen von mindestens zwei Farb-stoffen der Nrn. 3204.11 bis 3204.19:</td></tr>
-<tr><td></td><td colspan="3">1910</td><td>– – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
+<tr><td></td><td colspan="3">1910</td><td>– – – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
 <tr><td></td><td colspan="3">1990</td><td>– – – andere</td></tr>
 <tr><td></td><td colspan="3">2000</td><td>[tab] – synthetische organische Erzeugnisse der als fluoreszierende Aufheller verwendeten Art</td></tr>
 <tr><td></td><td colspan="3"></td><td>– andere:</td></tr>
@@ -813,12 +815,12 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="3">3205.0000</td><td>Farblacke; in Anmerkung 3 zu diesem Kapitel genannte Zubereitungen auf der Grundlage dieser Farblacke</td></tr>
 <tr><td></td><td colspan="3">3206.</td><td>Andere Farbstoffe; in Anmerkung 3 zu diesem Kapitel genannte Zubereitungen, ausgenommen solche der Nrn. 3203, 3204 oder 3205; anorganische Erzeugnisse der als Luminophore verwendeten Art, auch chemisch einheitlich:</td></tr>
 <tr><td></td><td colspan="3"></td><td>– Pigmente und Zubereitungen auf der Grundlage von Titandioxid:</td></tr>
-<tr><td></td><td colspan="3">1100</td><td>[tab] – – 80 % oder mehr Titandioxid enthaltend, auf die Trockensubstanz berechnet</td></tr>
 <tr><td></td><td colspan="3">1900</td><td>– – andere</td></tr>
 </table>
 
 <table>
 <tr><th colspan="2">Zolltarif-Nr.</th><th></th><th>Produkt(e)/Produktegruppe(n)</th></tr>
+<tr><td></td><td colspan="2">1100</td><td>[tab] – – 80 % oder mehr Titandioxid enthaltend, auf die Trockensubstanz berechnet</td></tr>
 <tr><td></td><td colspan="2">2000</td><td>– Pigmente und Zubereitungen auf der Grundlage von Chromverbindungen</td></tr>
 <tr><td></td><td colspan="2"></td><td>– andere Farbstoffe und andere Zubereitungen:</td></tr>
 <tr><td></td><td colspan="2">4100</td><td>– – Ultramarin und seine Zubereitungen</td></tr>
@@ -904,20 +906,20 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="2">1100</td><td>– – zur Körperpflege (einschliesslich derjenigen zu medizinischen Zwecken) – – andere:</td></tr>
 <tr><td></td><td colspan="2">1990</td><td>– – – andere (als gewöhnliche Seifen)</td></tr>
 <tr><td></td><td colspan="2">3000</td><td>– organisch grenzflächenaktive Erzeugnisse und Zubereitungen zum Waschen der Haut, in flüssiger oder dickflüssiger Form, in Aufmachung für den Einzelverkauf, auch Seife enthaltend</td></tr>
-<tr><td>ex</td><td colspan="2">3402.</td><td>Organische grenzflächenaktive Stoffe (ausgenommen Seifen); grenzflächenaktive Zubereitungen, zubereitete Waschmittel (einschliesslich Waschhilfsmittel) und zubereitete Reinigungsmittel, auch Seife enthaltend, ausgenommen solche der Nr. 3401; *ausgenommen gebrauchsfertiger Texti**l**waschmittel der Tarifnummer 3402.2000/9000.*</td></tr>
-<tr><td></td><td colspan="2"></td><td>[tab] – organische grenzflächenaktive Stoffe, auch in Aufmachungen für den Einzelverkauf:</td></tr>
-<tr><td></td><td colspan="2"></td><td>– – anionaktiv:</td></tr>
-<tr><td></td><td colspan="2">1110</td><td>– – – Ölsulfonate</td></tr>
-<tr><td></td><td colspan="2">1190</td><td>– – – andere</td></tr>
-<tr><td></td><td colspan="2"></td><td>– – kationaktiv:</td></tr>
-<tr><td></td><td colspan="2">1210</td><td>– – – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
-<tr><td></td><td colspan="2">1290</td><td>– – – andere</td></tr>
-<tr><td></td><td colspan="2"></td><td>– – nicht ionogen:</td></tr>
-<tr><td></td><td colspan="2">1310</td><td>– – – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
-<tr><td></td><td colspan="2">1390</td><td>– – – andere</td></tr>
-<tr><td></td><td colspan="2">1900</td><td>– – andere</td></tr>
-<tr><td></td><td colspan="2">2000</td><td>– Zubereitungen in Aufmachungen für den Einzelverkauf</td></tr>
-<tr><td></td><td colspan="2">9000</td><td>– andere</td></tr>
+<tr><td>ex</td><td colspan="2">3402.</td><td>Organische grenzflächenaktive Stoffe (ausgenommen Seifen); grenzflächenaktive Zubereitungen, zubereitete Waschmittel (einschliesslich Waschhilfsmittel) und zubereitete Reinigungsmittel, auch Seife enthaltend, ausgenommen solche der Nr. 3401; ausgenommen gebrauchsfertiger Textilwaschmittel der Tarifnummer 3402.5000/9000.</td></tr>
+<tr><td></td><td colspan="2"></td><td>[tab] – anionaktive organische grenzflächenaktive Stoffe, auch in Aufmachungen für den Einzelverkauf:</td></tr>
+<tr><td></td><td colspan="2">3100</td><td>[tab] – – Lineare Alkylbenzol-sulfonsäuren und ihre Salze</td></tr>
+<tr><td></td><td colspan="2">3900</td><td>[tab] – – andere</td></tr>
+<tr><td></td><td colspan="2"></td><td>[tab] – andere grenzflächenaktive Stoffe, auch in Aufmachungen für den Einzelverkauf:</td></tr>
+<tr><td></td><td colspan="2"></td><td>[tab] – – kationaktiv:</td></tr>
+<tr><td></td><td colspan="2">4110</td><td>[tab] – – – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
+<tr><td></td><td colspan="2">4190</td><td>[tab] – – – andere</td></tr>
+<tr><td></td><td colspan="2"></td><td>[tab] – – nicht ionogen:</td></tr>
+<tr><td></td><td colspan="2">4210</td><td>[tab] – – – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
+<tr><td></td><td colspan="2">4290</td><td>[tab] – – – andere</td></tr>
+<tr><td></td><td colspan="2">4900</td><td>[tab] – – andere</td></tr>
+<tr><td></td><td colspan="2">5000</td><td>[tab] – Zubereitungen in Aufmachungen für den Einzelverkauf</td></tr>
+<tr><td></td><td colspan="2">9000</td><td>[tab] – andere</td></tr>
 <tr><td></td><td colspan="2">3403.</td><td>Zubereitete Schmiermittel (einschliesslich Schneidöle, Zubereitungen zum Lösen von Schrauben, zubereitete Rostschutz- oder Korrosionsschutzmittel und Formentrennmittel, auf der Grundlage von Schmierstoffen) und Zubereitungen der als Schmälzmittel für Spinnstoffe, Mittel zum Ölen oder Fetten von Leder, Pelzen oder anderen Stoffen verwendeten Art, ausgenommen solche, die als wesentlichen Bestandteil 70 Gewichtsprozent oder mehr Erdöl oder Öl aus bituminösen Mineralien enthalten:</td></tr>
 <tr><td></td><td colspan="2"></td><td>– Erdöl oder Öl aus bituminösen Mineralien enthaltend:</td></tr>
 <tr><td></td><td colspan="2">1100</td><td>[tab] – – Zubereitungen zum Behandeln von Spinnstoffen, Leder, Pelzen oder anderen Stoffen</td></tr>
@@ -996,16 +998,6 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="2">4000</td><td>– zubereitete Additive für Zement, Mörtel oder Beton</td></tr>
 <tr><td></td><td colspan="2">5000</td><td>– Mörtel und Beton, nicht feuerfest</td></tr>
 <tr><td></td><td colspan="2">6000</td><td>– Sorbit, ausgenommen solches der Nr. 2905.44</td></tr>
-<tr><td></td><td colspan="2"></td><td>– Mischungen, die Methan-, Ethan- oder Propan-Halogenderivate enthalten:</td></tr>
-<tr><td></td><td colspan="2">7100</td><td>[tab] – – Fluorchlorkohlenwasserstoffe (FCKW) enthaltend, auch teilhalogenierte Fluorchlorkohlenwasserstoffe (HFCKW), perfluorierte Kohlenwasserstoffe (PFKW) oder teilfluorierte Kohlenwasserstoffe (HFKW) enthaltend</td></tr>
-<tr><td></td><td colspan="2">7200</td><td>[tab] – – Bromchlordifluormethan, Bromtrifluormethan oder Dibromtetrafluorethan enthaltend</td></tr>
-<tr><td></td><td colspan="2">7300</td><td>[tab] – – teilhalogenierte Brom-Fluor-Kohlenwasserstoffe (HBFKW) enthaltend</td></tr>
-<tr><td></td><td colspan="2">7400</td><td>[tab] – – teilhalogenierte Fluorchlorkohlenwasserstoffe (HFCKW) enthaltend, auch perfluorierte Kohlenwasserstoffe (PFKW) oder teilfluorierte (KFKW) Kohlenwasserstoffe enthaltend, aber keine Fluorchlorkohlenwasserstoffe (FCKW) enthaltend</td></tr>
-<tr><td></td><td colspan="2">7500</td><td>– – Tetrachlorkohlenstoff enthaltend</td></tr>
-<tr><td></td><td colspan="2">7600</td><td>– – 1,1,1-Trichlorethan (Methylchloroform) enthaltend</td></tr>
-<tr><td></td><td colspan="2">7700</td><td>– – Brommethan (Methylbromid) oder Bromchlormethan enthaltend</td></tr>
-<tr><td></td><td colspan="2">7800</td><td>[tab] – – perfluorierte Kohlenwasserstoffe (PFKW) oder teilfluorierte Kohlenwasserstoffe (HFKW) enthaltend, aber keine Fluorchlorkohlenwasserstoffe (FCKW) oder teilhalogenierte Fluorkohlenwasserstoffe (HFCKW) enthaltend</td></tr>
-<tr><td></td><td colspan="2">7900</td><td>– – andere</td></tr>
 <tr><td></td><td colspan="2"></td><td>– in Unternummern-Anmerkung 3 zu diesem Kapitel genannte Waren</td></tr>
 <tr><td></td><td colspan="2">8100</td><td>– – Oxiran (Ethylenoxid) enthaltend</td></tr>
 <tr><td></td><td colspan="2">8200</td><td>[tab] – – polychlorierte Biphenyle (PCB), polychlorierte Terphenyle (PCT) oder polybromierte Biphenyle (PBB) enthaltend</td></tr>
@@ -1015,8 +1007,10 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="2">8600</td><td>– – Pentachlorbenzol (ISO) oder Hexachlorbenzol (ISO) enthaltend</td></tr>
 <tr><td></td><td colspan="2">8700</td><td>[tab] – – Perfluoroctansulfonsäure, ihre Salze, Perfluoroctansulfonamid oder Perfluoroctansulfonylfluorid enthaltend</td></tr>
 <tr><td></td><td colspan="2">8800</td><td>– – Tetra-, Penta-,Hexa-, Hepta-oder Octabromdiphenylether enthaltend</td></tr>
+<tr><td></td><td colspan="2">8900</td><td>[tab] – – Kurzkettige Chlorparaffine enthaltend</td></tr>
 <tr><td></td><td colspan="2"></td><td>– andere:</td></tr>
 <tr><td></td><td colspan="2">9100</td><td>– – Mischungen und Zubereitungen hauptsächlich aus (5-Ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl-methylmethylphosphonat und Bis [(5-ethyl-2-methyl-2-oxido-1,3,2-dioxaphosphinan-5-yl)methyl] methylphosphonat bestehend</td></tr>
+<tr><td></td><td colspan="2">9200</td><td>[tab] – – Polyglycolester der Methylphosphonsäure</td></tr>
 <tr><td></td><td colspan="2"></td><td>– – andere:</td></tr>
 <tr><td></td><td colspan="2"></td><td>– – – Zubereitungen für pharmazeutischen Gebrauch, Zubereitungen für Lebensmittel:</td></tr>
 <tr><td></td><td colspan="2">9911</td><td>– – – – Erzeugnisse gemäss Listen im Teil 1 b</td></tr>
@@ -1040,6 +1034,30 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="2">9090</td><td>– – andere</td></tr>
 <tr><td></td><td colspan="2">3826.</td><td>Biodiesel und seine Mischungen, keine Erdöle oder Öle aus bituminösen Mineralien enthaltend oder mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von weniger als 70 %:</td></tr>
 <tr><td></td><td colspan="2">0090</td><td>– andere</td></tr>
+<tr><td></td><td colspan="2">3827.</td><td>Mischungen, die Halogenderivate von Methan, Ethan oder Propan enthalten, anderweit weder genannt noch inbegriffen:</td></tr>
+<tr><td></td><td colspan="2"></td><td>[tab] – Fluorchlorcarbone (FCC) enthaltend, auch teilhalogenierte Fluorchlorkohlenwasserstoffe (HFCKW), Perfluorcarbone (PFC) oder teilfluorierte Kohlenwasserstoffe (HFKW) enthaltend; teilhalogenierte Brom-Fluor-Kohlenwasserstoffe (HFBKW) enthaltend; Tetrachlorkohlenstoff enthaltend; 1,1,1-Trichlorethan (Methylchloroform) enthaltend:</td></tr>
+<tr><td></td><td colspan="2">1100</td><td>[tab] – – Fluorchlorcarbone (FCC) enthaltend, auch teilhalogenierte Fluorchlorkohlenwasserstoffe (HFCKW), Perfluorcarbone (PFC) oder teilfluorierte Kohlenwasserstoffe (HFKW) enthaltend</td></tr>
+<tr><td></td><td colspan="2">1200</td><td>[tab] – – teilhalogenierte Brom-Fluor-Kohlenwasserstoffe (HFBKW) enthaltend</td></tr>
+<tr><td></td><td colspan="2">1300</td><td>[tab] – – Tetrachlorkohlenstoff enthaltend</td></tr>
+<tr><td></td><td colspan="2">1400</td><td>[tab] – – 1,1,1-Trichlorethan (Methylchloroform) enthaltend</td></tr>
+<tr><td></td><td colspan="2">2000</td><td>[tab] – Bromchlordidfluormethan (Halon-1211), Bromtrifluormethan (Halon-1301) oder 1,2-Dibromtetrafluorethan (Halon-2402) enthaltend</td></tr>
+<tr><td></td><td colspan="2"></td><td>[tab] – Teilhalogenierte Fluorchlorkohlenwasserstoffe (HFCKW), auch Perfluorcarbone (PFC) oder teilfluorierte Kohlenwasserstoffe (HFKW), aber keine Fluorchlorcarbone (FCC) enthaltend:</td></tr>
+<tr><td></td><td colspan="2">3100</td><td>[tab] – – Stoffe der Nummern 2903.41 bis 2903.48 enthaltend</td></tr>
+<tr><td></td><td colspan="2">3200</td><td>[tab] – – andere, Stoffe der Nummern 2903.71 bis 2903.75 enthaltend</td></tr>
+<tr><td></td><td colspan="2">3900</td><td>[tab] – – andere</td></tr>
+<tr><td></td><td colspan="2">4000</td><td>[tab] – Methylbromid (Brommethan) oder Bromchlormethan enthaltend</td></tr>
+<tr><td></td><td colspan="2"></td><td>[tab] – Fluoroform (HFC-23) oder Perfluorcarbone (PFC) aber keine Fluorchlorcarbone (FCC) oder teilhalogenierte Fluorchlorkohlenwasserstoffe (HFCKW) enthaltend:</td></tr>
+<tr><td></td><td colspan="2">5100</td><td>[tab] – – Fluoroform (HFC-23) enthaltend</td></tr>
+<tr><td></td><td colspan="2">5900</td><td>[tab] – – andere</td></tr>
+<tr><td></td><td colspan="2"></td><td>[tab] – Teilfluorierte Kohlenwasserstoffe (HFKW) aber keine Fluorchlorcarbone (FCC) oder teilhalogenierte Fluorchlorkohlenwasserstoffe (HFCKW) enthaltend:</td></tr>
+<tr><td></td><td colspan="2">6100</td><td>[tab] – – 15 Gewichtsprozent oder mehr 1,1,1-Trifluorethan (HFC-143a) enthaltend</td></tr>
+<tr><td></td><td colspan="2">6200</td><td>[tab] – – andere, in der vorstehend erwähnten Unternummer nicht genannt, 55 Gewichtsprozent oder mehr Pentafluorethan (HFC-125) aber keine Fluorderivate von ungesättigten acyclischen Kohlenwasserstoffen (HFO) enthaltend</td></tr>
+<tr><td></td><td colspan="2">6300</td><td>[tab] – – andere, in den vorstehend erwähnten Unternummern nicht genannt, 40 Gewichtsprozent oder mehr Pentafluorethan (HFC-125) enthaltend</td></tr>
+<tr><td></td><td colspan="2">6400</td><td>[tab] – – andere, in den vorstehend erwähnten Unternummern nicht genannt, 30 Gewichtsprozent oder mehr 1,1,1,2-Tetrafluorethan (HFC-134a) aber keine Fluorderivate von ungesättigten acyclischen Kohlenwasserstoffen (HFO) enthaltend</td></tr>
+<tr><td></td><td colspan="2">6500</td><td>[tab] – – andere, in den vorstehend erwähnten Unternummern nicht genannt, 20 Gewichtsprozent oder mehr Difluormethan (HFC-32) und 20 Gewichtsprozent oder mehr Pentafluorethan (HFC-125) enthaltend</td></tr>
+<tr><td></td><td colspan="2">6800</td><td>[tab] – – andere, in den vorstehend erwähnten Unternummern nicht genannt, Stoffe der Nummern 2903.41 bis 2903.48 enthaltend</td></tr>
+<tr><td></td><td colspan="2">6900</td><td>[tab] – – andere</td></tr>
+<tr><td></td><td colspan="2">9000</td><td>[tab] – andere</td></tr>
 <tr><td></td><td colspan="2">3901.</td><td>Polymere des Ethylens, in Primärformen:</td></tr>
 <tr><td></td><td colspan="2">1000</td><td>– Polyethylen mit einer Dichte von weniger als 0,94</td></tr>
 <tr><td></td><td colspan="2">2000</td><td>– Polyethylen mit einer Dichte von 0,94 oder mehr</td></tr>
@@ -1092,13 +1110,15 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="2"></td><td>– andere:</td></tr>
 <tr><td></td><td colspan="2">9010</td><td>– – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
 <tr><td></td><td colspan="2">9090</td><td>– – andere</td></tr>
-<tr><td></td><td colspan="2">3907.</td><td>Polyacetale, andere Polyether und Epoxyharze, in Primärformen; Polycarbonate, Alkydharze, Allylpolyester und andere Polyester, in Primärformen:</td></tr>
+<tr><td></td><td colspan="2">3907.</td><td>Polyacetale, andere Polyether und Epoxidharze, in Primärformen; Polycarbonate, Alkydharze, Allylpolyester und andere Polyester, in Primärformen:</td></tr>
 <tr><td></td><td colspan="2"></td><td>– Polyacetale:</td></tr>
 <tr><td></td><td colspan="2">1010</td><td>– – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
 <tr><td></td><td colspan="2">1090</td><td>– – andere</td></tr>
 <tr><td></td><td colspan="2"></td><td>– andere Polyether:</td></tr>
-<tr><td></td><td colspan="2">2010</td><td>– – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
-<tr><td></td><td colspan="2">2090</td><td>– – andere</td></tr>
+<tr><td></td><td colspan="2">2100</td><td>– – Bis(polyoxyethylen) Methylphosphonat</td></tr>
+<tr><td></td><td colspan="2"></td><td>– – andere</td></tr>
+<tr><td></td><td colspan="2">2910</td><td>[tab] – – – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
+<tr><td></td><td colspan="2">2990</td><td>[tab] – – – andere</td></tr>
 <tr><td></td><td colspan="2"></td><td>– Epoxidharze:</td></tr>
 <tr><td></td><td colspan="2">3010</td><td>– – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
 <tr><td></td><td colspan="2">3090</td><td>– – andere</td></tr>
@@ -1133,6 +1153,7 @@ Anhang 2*[^t-2]*
 <tr><td></td><td colspan="2"></td><td>[tab] – Petroleumharze, Cumaronharze, Indenharze, Cumaron-Inden-Harze und Polyterpene:</td></tr>
 <tr><td></td><td colspan="2">1010</td><td>– – in nicht wässerigen Medien dispergiert oder gelöst</td></tr>
 <tr><td></td><td colspan="2">1090</td><td>– – andere</td></tr>
+<tr><td></td><td colspan="2">2000</td><td>[tab] – Poly(1,3-phenylenmethyl phosphonat)</td></tr>
 <tr><td></td><td colspan="2"></td><td>– andere:</td></tr>
 <tr><td></td><td colspan="2">9010</td><td>– – Erzeugnisse gemäss Listen im Teil 1b</td></tr>
 <tr><td></td><td colspan="2">9090</td><td>– – andere</td></tr>
