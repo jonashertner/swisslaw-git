@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur les installations de télécommunicati
 short: OIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: fr
-version: 2021-07-16
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/fr/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210716-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-24-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/fr"
 
 (OIT)
 
-du 25 novembre 2015 (Etat le 16 juillet 2021)
+du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -645,14 +645,15 @@ En cas de modifications substantielles des normes ou prescriptions techniques ap
 
 <sup>2</sup> Il procède à cet effet à des contrôles par sondage. Il effectue aussi un contrôle lorsqu’il a des raisons de supposer qu’une installation de télécommunication n'est pas conforme aux dispositions de la présente ordonnance et aux prescriptions de l’OFCOM. Il est également habilité à procéder à des contrôles sur les installations de télécommunication à la suite d’une demande de concession.
 
-<sup>3</sup> Il peut demander à l’Administration fédérale des douanes (AFD) de lui fournir, pour une période déterminée, des renseignements sur les importations d’installations de télécommunication.
+<sup>3</sup> Il peut demander à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^36-2] de lui fournir, pour une période déterminée, des renseignements sur les importations d’installations de télécommunication.
 
-<sup>4</sup> Si l’AFD découvre dans le cadre de ses activités ordinaires des installations de télécommunication qu’elle soupçonne, sur la base d’une liste de contrôle fournie par l’OFCOM, de ne pas être conformes aux dispositions de la présente ordonnance, elle en prélève un échantillon qu’elle transmet sans délai à l’OFCOM.
+<sup>4</sup> Si l’OFDF découvre dans le cadre de ses activités ordinaires des installations de télécommunication qu’il soupçonne, sur la base d’une liste de contrôle fournie par l’OFCOM, de ne pas être conformes aux dispositions de la présente ordonnance, il en prélève un échantillon qu’il transmet sans délai à l’OFCOM.
 
-<sup>5</sup> L’ordonnance du 2 mai 1990 sur la protection des ouvrages[^36-2] demeure réservée pour les installations de télécommunication militaires.
+<sup>5</sup> L’ordonnance du 2 mai 1990 sur la protection des ouvrages[^36-3] demeure réservée pour les installations de télécommunication militaires.
 
 [^36-1]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
-[^36-2]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^36-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^36-3]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
 #### Art. 37
 
@@ -782,14 +783,14 @@ Annexe 1
 - 1\.1 La marque de conformité suisse se compose des deux grandes lettres latines «C» et «H» accolées: «CH». Les lettres doivent être appliquées dans une forme elliptique, l’axe principal de l’ellipse étant horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 En cas de réduction ou d’agrandissement de la marque de conformité, les proportions de celle-ci doivent être respectées.
 - **2.** **Marque de conformité étrangère**
 - 2\.1 Est admise la marque de conformité définie à l’annexe II du règlement (CE) n<sup>o</sup> 765/2008[^annex1-lvlu1-1]. L’illustration a un caractère informatif.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/fr/xml/image/image2.png)
 
 - 2\.2 L’apposition de cette marque de conformité doit respecter les principes généraux définis à l’art. 30 du règlement (CE) n<sup>o</sup> 765/2008.
 - **3.** Les dimensions minimales de la marque de conformité peuvent être réduites en raison de la petite taille de l’installation de radiocommunication pour autant que la marque de conformité reste visible et lisible.

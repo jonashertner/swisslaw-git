@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sugli impianti di telecomunicazione (OIT)
 short: OIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: it
-version: 2021-07-16
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210716-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/it"
 
 (OIT)
 
-del 25 novembre 2015 (Stato 16 luglio 2021)
+del 25 novembre 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -644,14 +644,15 @@ In caso di modifiche sostanziali delle norme o prescrizioni tecniche applicabili
 
 <sup>2</sup> A tale fine l’UFCOM procede a controlli a campione. Effettua un controllo qualora vi sia motivo di supporre che un impianto di telecomunicazione non è conforme alle disposizioni della presente ordinanza e alle prescrizioni dell’UFCOM. È inoltre autorizzato a controllare impianti di radiocomunicazione nell’ambito dell’esame di una domanda di concessione.
 
-<sup>3</sup> L’UFCOM può esigere che l’Amministrazione federale delle dogane (AFD) gli fornisca, per un periodo determinato, informazioni sull’importazione di impianti di telecomunicazione.
+<sup>3</sup> L’UFCOM può esigere che l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^36-2] gli fornisca, per un periodo determinato, informazioni sull’importazione di impianti di telecomunicazione.
 
-<sup>4</sup> Se, nel quadro delle sue attività ordinarie, l’AFD scopre impianti di telecomunicazione per i quali sospetta, in base a una lista di controllo fornita dall’UFCOM, la non conformità alla presente ordinanza, ne preleva un campione e lo trasmette senza indugio all’UFCOM.
+<sup>4</sup> Se, nel quadro delle sue attività ordinarie, l’UDSC scopre impianti di telecomunicazione per i quali sospetta, in base a una lista di controllo fornita dall’UFCOM, la non conformità alla presente ordinanza, ne preleva un campione e lo trasmette senza indugio all’UFCOM.
 
-<sup>5</sup> Per quanto attiene agli impianti di telecomunicazione militari, rimane salva l’ordinanza del 2 maggio 1990[^36-2] concernente la protezione delle opere militari.
+<sup>5</sup> Per quanto attiene agli impianti di telecomunicazione militari, rimane salva l’ordinanza del 2 maggio 1990[^36-3] concernente la protezione delle opere militari.
 
 [^36-1]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
-[^36-2]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^36-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^36-3]: [RS 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
 #### Art. 37
 
@@ -780,14 +781,14 @@ Allegato 1
 - 1\.1 Il marchio di conformità svizzero è composto di due lettere latine maiuscole susseguenti, «C» e «H»: «CH». Le lettere devono essere applicate in una forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 In caso di riduzione o di ingrandimento del marchio di conformità, devono essere mantenute le sue proporzioni.
 - **2.** **Marchio di conformità estero**
 - 2\.1 È ammesso il marchio di conformità definito nell’allegato II del regolamento (CE) n. 765/2008[^annex1-lvlu1-1]. L’illustrazione ha carattere informativo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/it/xml/image/image2.png)
 
 - 2\.2 L’apposizione di questo marchio di conformità deve rispettare i principi generali definiti all’articolo 30 del regolamento (CE) n. 765/2008.
 - **3.** Le dimensioni minime del marchio di conformità possono essere ridotte nel caso di impianti di radiocomunicazione di piccole dimensioni, purché il marchio di conformità resti visibile e leggibile.

@@ -4,11 +4,11 @@ title: Ordinance of 25 November 2015 on Telecommunications Installations (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: en
-version: 2021-07-16
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210716-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20220101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (FAV)
 
-of 25 November 2015 (Status as of 16 July 2021)
+of 25 November 2015 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -437,7 +437,7 @@ Importers and distributors shall ensure that, while radio equipment is under the
 
 <sup>2</sup> The information and documents must be provided in paper or electronic form and in a language that OFCOM can easily understand.
 
-<sup>3</sup> The economic operators und information society service providers shall cooperate with OFCOM, at its request, on any action taken to eliminate the risks posed by radio equipment which they have placed on the market. This obligation also applies to the authorised representative for the radio equipment covered by the mandate.[^24-1]
+<sup>3</sup> The economic operators and information society service providers shall cooperate with OFCOM, at its request, on any action taken to eliminate the risks posed by radio equipment which they have placed on the market. This obligation also applies to the authorised representative for the radio equipment covered by the mandate.[^24-1]
 
 [^24-1]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
@@ -449,7 +449,7 @@ Importers and distributors shall ensure that, while radio equipment is under the
 
 The following are exempted from the provisions in Chapter 2:
 
-- a.[^25-1] radio equipment that is installed and operated exclusively on frequencies allocated to the military for military, civil defence or other purposes involving exceptional situations, unless it is installed and operated in a common radio network with other bodies;
+- a.[^25-1] radio equipment that is installed and operated exclusively on frequencies allocated to the armed forces for military, civil defence or other purposes involving exceptional situations, unless it is installed and operated in a common radio network with other bodies;
 - b. radio equipment that is installed and operated solely for technical tests by virtue of a radiocommunications licence granted for that purpose;
 - c. radio equipment that is installed and operated on frequencies of over 3000 GHz;
 - d. radio equipment for radio amateurs that is not made available on the market;
@@ -650,14 +650,15 @@ If the applicable technical standards or regulations are substantially amended, 
 
 <sup>2</sup> For this purpose, it shall carry out sample tests. It shall carry out an inspection if it has reason to believe that a telecommunications installation is not in conformity with the provisions of this Ordinance and the OFCOM regulations. It is also authorised to inspect telecommunications installations after a licence application has been filed
 
-<sup>3</sup> It may ask the Federal Customs Administration (FCA) to provide information on imports of telecommunications installations over a specific period.
+<sup>3</sup> It may ask the Federal Office for Customs and Border Security (FOCBS)[^36-2] to provide information on imports of telecommunications installations over a specific period.
 
-<sup>4</sup> If the FCA encounters telecommunications installations in the course of its normal activities that it suspects, on the basis of a checklist from OFCOM, do not comply with this Ordinance, it shall obtain a sample and send it immediately to OFCOM.
+<sup>4</sup> If the FOCBS encounters telecommunications installations in the course of its normal activities that it suspects, on the basis of a checklist from OFCOM, do not comply with this Ordinance, it shall obtain a sample and send it immediately to OFCOM.
 
-<sup>5</sup> The Ordinance of 2 May 1990[^36-2] on the Protection of Military Installations remains reserved as regards military telecommunications installations.
+<sup>5</sup> The Ordinance of 2 May 1990[^36-3] on the Protection of Military Installations remains reserved as regards military telecommunications installations.
 
 [^36-1]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
-[^36-2]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^36-2]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^36-3]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
 #### Art. 37
 
@@ -735,7 +736,7 @@ If OFCOM provides information to the public pursuant to Article 33 paragraph 4 T
 
 The Ordinance of 14 June 2002[^42-1] on Telecommunications Installations is repealed.
 
-[^42-1]: [[AS 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310), [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695), [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72), [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926)No II, [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279), [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707)[6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Annex 3 No II 7, [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788), [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 para. 2 let. e]
+[^42-1]: [[AS 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310); [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695): **2005** 677; **2007** 995, 7085 No II; **2008** 1903; **2009** 5837, 6243 Annex 3 No II 7; **2012** 6561; **2014** 4169; **2016** 119 Art. 30 para. 2 let. e]
 
 #### Art. 43
 
@@ -763,7 +764,7 @@ Until 12 June 2017, radio equipment that does not comply with this Ordinance may
   - 1\. it complied with the Ordinance of 9 April 1997[^44-2] on Low Voltage Electrical Equipment and the Ordinance of 18 November 2009[^44-3] on Electromagnetic Compatibility, or
   - 2\. it complies with the Ordinance of 25 November 2015[^44-4] on Low Voltage Electrical Equipment and the Ordinance of 25 November 2015[^44-5] on Electromagnetic Compatibility.
 
-[^44-1]: [[AS 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310), [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695), [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72), [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170)[7085](https://fedlex.data.admin.ch/eli/oc/2007/926)No II, [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279), [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707)[6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Annex 3 No II 7, [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788), [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698), [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 para. 2 let. e]
+[^44-1]: [[AS 2002 2086](https://fedlex.data.admin.ch/eli/oc/2002/310); [2003 4771](https://fedlex.data.admin.ch/eli/oc/2003/695); [2005 677](https://fedlex.data.admin.ch/eli/oc/2005/72); [2007 995](https://fedlex.data.admin.ch/eli/oc/2007/170), [7085](https://fedlex.data.admin.ch/eli/oc/2007/926)No II; [2008 1903](https://fedlex.data.admin.ch/eli/oc/2008/279); [2009 5837](https://fedlex.data.admin.ch/eli/oc/2009/707), [6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Annex 3 No II 7; [2012 6561](https://fedlex.data.admin.ch/eli/oc/2012/788); [2014 4169](https://fedlex.data.admin.ch/eli/oc/2014/698); [2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 para. 2 let. e]
 [^44-2]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 No 2[762](https://fedlex.data.admin.ch/eli/oc/2000/127)No I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Annex 3 No II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Annex 4 No II 1[2749](https://fedlex.data.admin.ch/eli/oc/2010/358)No I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Annex No 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]
 [^44-3]: [[AS 2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763), [2014 4159](https://fedlex.data.admin.ch/eli/oc/2014/696). [AS 2016 119](https://fedlex.data.admin.ch/eli/oc/2016/18)Art. 30 para. 1]
 [^44-4]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
@@ -777,7 +778,7 @@ Until 12 June 2017, radio equipment that does not comply with this Ordinance may
 
 <sup>2</sup> Article 11 comes into force on 12 June 2018.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 18 para. 1)
 
@@ -789,14 +790,14 @@ Annex 1*[^t-1]*
 - 1\.1 The Swiss conformity marking comprises the two Latin capital letters «C» and «H» together as «CH». The letters must be appear within an elliptical shape; the main axis of the ellipse is horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
 </table>
 
 - 1\.2 In the case of any reduction in size or enlargement of the conformity marking, these proportions must be retained.
 - **2.** **Foreign conformity marking**
 - 2\.1 The use of the conformity marking set out in Annex II to Regulation (EC) No 765/2008[^annex1-lvlu1-1] is permitted. The illustration below is for information purposes only.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/en/xml/image/image2.png)
 
 - 2\.2 When affixing this conformity marking, the general principles set out in Article 30 of Regulation (EC) No 765/2008 must be respected.
 - **3.** The minimum dimensions of the conformity marking may be reduced because of the small size of the radio equipment provided it remains visible and legible.
@@ -859,7 +860,7 @@ Annex 3
 - **9** The manufacturer shall retain a copy of the type examination certificate, its annexes and additions and the technical documentation for ten years after the radio equipment has been placed on the market for submission to OFCOM.
 - **10** The manufacturer’s authorised representative may submit the request referred to in point 3 and fulfil the obligations set out in points 7 and 9, provided they are specified in a mandate.
 
-### II Conformiy to type based on internal production control (Module C)
+### II Conformity to type based on internal production control (Module C)
 
 - **1** Conformity to type based on an internal production control is the part of a conformity assessment procedure in which the manufacturer fulfils the obligations set out in points 2 and 3 and ensures and under its responsibility declares that the radio equipment concerned conforms to the type described in the type examination certificate and satisfies the applicable requirements of this Ordinance.
 - **2** **Manufacture**

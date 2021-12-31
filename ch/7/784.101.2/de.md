@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über Fernmeldeanlagen (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: de
-version: 2021-07-16
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/de/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210716-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-24-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/de"
 
 (FAV)
 
-vom 25. November 2015 (Stand am 16. Juli 2021)
+vom 25. November 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -294,7 +294,7 @@ Die technischen Unterlagen müssen gegebenenfalls mindestens folgende Elemente e
 
 **Aufbewahrung von Konformitätserklärung und technischen Unterlagen**
 
-<sup>1</sup> Die Herstellerin, ihre bevollmächtigte Person, oder, wenn keiner diesen beiden Personen in der Schweiz niedergelassen ist, die Importeurin müssen während zehn Jahren ab dem Datum des Inverkehrbringen eine Kopie der Konformitätserklärung und der technischen Unterlagen vorlegen können.
+<sup>1</sup> Die Herstellerin, ihre bevollmächtigte Person, oder, wenn keiner diesen beiden Personen in der Schweiz niedergelassen ist, die Importeurin müssen während zehn Jahren ab dem Datum des Inverkehrbringens eine Kopie der Konformitätserklärung und der technischen Unterlagen vorlegen können.
 
 <sup>2</sup> Bei Inverkehrbringen von Funkanlageserien beginnt diese Frist mit dem Datum des Inverkehrbringens der letzten Anlage der betroffenen Serie zu laufen.
 
@@ -446,7 +446,7 @@ Solange sich eine Funkanlage in der Verantwortung der Importeurinnen und der Hä
 
 Von den Bestimmungen in Kapitel 2 ausgenommen sind:
 
-- a.[^25-1] Funkanlagen, die für militärische Zwecke, für Zwecke des Zivilschutzes oder für andere Ausnahmesituationszwecke ausschliesslich auf Frequenzen, die dem Militär zugewiesen sind, erstellt und betrieben werden, sofern sie nicht in einem gemeinsamen Funknetz zusammen mit anderen Organisationen erstellt und betrieben werden;
+- a.[^25-1] Funkanlagen, die für militärische Zwecke, für Zwecke des Zivilschutzes oder für andere Ausnahmesituationszwecke ausschliesslich auf Frequenzen, die der Armee zugewiesen sind, erstellt und betrieben werden, sofern sie nicht in einem gemeinsamen Funknetz zusammen mit anderen Organisationen erstellt und betrieben werden;
 - b. Funkanlagen, die ausschliesslich zu technischen Versuchszwecken aufgrund einer diesbezüglich erteilten Funkkonzession erstellt und betrieben werden;
 - c. Funkanlagen, die auf Frequenzen über 3000 GHz erstellt und betrieben werden;
 - d. Funkanlagen für die Teilnahme am Amateurfunk, die nicht auf dem Markt bereitgestellt werden;
@@ -465,7 +465,7 @@ Von den Bestimmungen in Kapitel 2 ausgenommen sind:
 - j. Sendeanlagen zum Messen oder Testen, die von im Fernmeldebereich spezialisierten Personen erstellt und betrieben werden, sei es zum Aufdecken und Diagnostizieren von Problemen anlässlich der Inbetriebnahme, des Erstellens oder des Betreibens von Fernmeldeanlagen oder sei es zum Erstellen ihrer Charakteristika und Überprüfen ihrer Funktionstüchtigkeit;
 - k. Funkempfangsanlagen zum Messen oder Testen, sei es zum Aufdecken und Diagnostizieren von Problemen anlässlich der Inbetriebnahme, des Erstellens oder des Betreibens von Fernmeldeanlagen oder sei es zum Erstellen ihrer Charakteristika und Überprüfen ihrer Funktionstüchtigkeit.
 
-<sup>2</sup> Funkanlagen, die in den Anwendungsbereich von Kapitel 3 dieser Verordnung fallen, unterliegen bezüglich den Voraussetzungen für die Bereitstellung auf dem Markt der NEV[^25-8] und der VEMV[^25-9]. Vorbehalten bleiben Artikel 36–40 dieser Verordnung.
+<sup>2</sup> Funkanlagen, die in den Anwendungsbereich von Kapitel 3 dieser Verordnung fallen, unterliegen bezüglich der Voraussetzungen für die Bereitstellung auf dem Markt der NEV[^25-8] und der VEMV[^25-9]. Vorbehalten bleiben Artikel 36–40 dieser Verordnung.
 
 <sup>3</sup> Die Funkanlagen nach Absatz 1 Buchstaben b und g dürfen nicht auf dem Markt bereitgestellt werden.
 
@@ -595,7 +595,7 @@ Die folgenden leitungsgebundenen Fernmeldeendeinrichtungen sind von Absatz 1 aus
 
 <sup>1</sup> Funkanlagen, die durch diese Verordnung abgedeckt sind und in Betrieb genommen werden, müssen dieser Verordnung entsprechen.
 
-<sup>2</sup> In Betrieb genommene leitungsgebundene Fernmeldeanlagen müssen den anwendbaren Bestimmungen der VEMV[^32-1] bezüglich den Bedingungen der Inbetriebnahme entsprechen.
+<sup>2</sup> In Betrieb genommene leitungsgebundene Fernmeldeanlagen müssen den anwendbaren Bestimmungen der VEMV[^32-1] bezüglich der Bedingungen der Inbetriebnahme entsprechen.
 
 <sup>3</sup> Fernmeldeanlagen müssen ordnungsgemäss installiert und gewartet sowie bestimmungsgemäss betrieben werden.
 
@@ -647,14 +647,15 @@ Werden die anwendbaren technischen Normen oder Vorschriften wesentlich geändert
 
 <sup>2</sup> Es führt zu diesem Zweck Stichproben durch. Es führt auch eine Kontrolle durch, wenn es Grund zur Annahme hat, dass eine Fernmeldeanlage nicht den Bestimmungen dieser Verordnung und den Vorschriften des BAKOM entspricht. Es ist zudem ermächtigt, anlässlich eines Konzessionsgesuchs Kontrollen von Fernmeldeanlagen durchzuführen.
 
-<sup>3</sup> Es kann von der Eidgenössischen Zollverwaltung (EZV) verlangen, dass sie ihm Auskünfte über die Einfuhr von Fernmeldeanlagen für einen bestimmten Zeitraum erteilt.
+<sup>3</sup> Es kann vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^36-2] verlangen, dass sie ihm Auskünfte über die Einfuhr von Fernmeldeanlagen für einen bestimmten Zeitraum erteilt.
 
-<sup>4</sup> Stösst die EZV im Rahmen ihrer normalen Tätigkeiten auf Fernmeldeanlagen, bei denen sie aufgrund einer vom BAKOM erstellten Kontrollliste den Verdacht hat, dass sie den Bestimmungen dieser Verordnung nicht entsprechen, erhebt sie ein Muster und übermittelt es unverzüglich dem BAKOM.
+<sup>4</sup> Stösst das BAZG im Rahmen seiner normalen Tätigkeiten auf Fernmeldeanlagen, bei denen es aufgrund einer vom BAKOM erstellten Kontrollliste den Verdacht hat, dass sie den Bestimmungen dieser Verordnung nicht entsprechen, erhebt es ein Muster und übermittelt es unverzüglich dem BAKOM.
 
-<sup>5</sup> Die Anlageschutzverordnung vom 2. Mai 1990[^36-2] bleibt für die militärischen Fernmeldeanlagen vorbehalten.
+<sup>5</sup> Die Anlageschutzverordnung vom 2. Mai 1990[^36-3] bleibt für die militärischen Fernmeldeanlagen vorbehalten.
 
 [^36-1]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
-[^36-2]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
+[^36-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^36-3]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854)
 
 #### Art. 37
 
@@ -774,7 +775,7 @@ Bis zum 12. Juni 2017 dürfen Funkanlagen, die nicht der vorliegenden Verordnung
 
 <sup>2</sup> Artikel 11 tritt am 12. Juni 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 18 Abs. 1)
 
@@ -786,14 +787,14 @@ Anhang 1*[^t-1]*
 - 1\.1 Das schweizerische Konformitätskennzeichen setzt sich aus zwei grossen lateinischen Buchstaben «C» und «H» zusammen: «CH». Die Buchstaben müssen in einer Ellipse angebracht werden; die Hauptachse der Ellipse ist horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 Bei einer Verkleinerung oder Vergrösserung des Konformitätskennzeichens müssen seine Proportionen beibehalten werden.
 - **2.** **Ausländisches Konformitätskennzeichen**
 - 2\.1 Zugelassen ist das Konformitätskennzeichen, das in Anhang II der Verordnung (EG) Nr. 765/2008[^annex1-lvlu1-1] festgelegt ist. Die Illustration dient Informationszwecken.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20220101/de/xml/image/image2.png)
 
 - 2\.2 Beim Anbringen dieses Konformitätskennzeichens müssen die allgemeinen Grundsätze, die in Artikel 30 der Verordnung (EG) Nr. 765/2008 definiert werden, respektiert werden.
 - **3.** Die Mindestgrössen des Konformitätskennzeichens können aufgrund der geringen Grösse der Funkanlage reduziert werden, sofern es sichtbar und leserlich bleibt.
@@ -847,7 +848,7 @@ Anhang 3
 - 6\.2 Die Baumusterprüfbescheinigung und ihre Anhänge enthalten alle zweckdienlichen Angaben, anhand derer sich die Konformität der hergestellten Funkanlagen mit dem geprüften Baumuster beurteilen und eine Kontrolle nach ihrer Inbetriebnahme durchführen lässt.
 - 6\.3 Entspricht das Baumuster nicht den anwendbaren Anforderungen dieser Verordnung, verweigert die Konformitätsbewertungsstelle die Ausstellung einer Baumusterprüfbescheinigung und unterrichtet den Antragsteller darüber, wobei sie ihre Weigerung ausführlich begründet.
 - **7** **Verfolgungspflichten**
-- 7\.1 Die Konformitätsbewertungsstelle informiert sich laufend über alle Änderungen des allgemein anerkannten Stands der Technik; deuten diese darauf hin, dass das genehmigtes Baumuster nicht mehr den anwendbaren Anforderungen dieser Verordnung entspricht, entscheidet sie, ob derartige Änderungen weitere Untersuchungen nötig machen. Ist dies der Fall, so setzt die Konformitätsbewertungsstelle die Herstellerin davon in Kenntnis.
+- 7\.1 Die Konformitätsbewertungsstelle informiert sich laufend über alle Änderungen des allgemein anerkannten Stands der Technik; deuten diese darauf hin, dass das genehmigte Baumuster nicht mehr den anwendbaren Anforderungen dieser Verordnung entspricht, entscheidet sie, ob derartige Änderungen weitere Untersuchungen nötig machen. Ist dies der Fall, so setzt die Konformitätsbewertungsstelle die Herstellerin davon in Kenntnis.
 - 7\.2 Die Herstellerin unterrichtet die Konformitätsbewertungsstelle, der die technischen Unterlagen zur Baumusterprüfbescheinigung vorliegen, über alle Änderungen an dem genehmigten Baumuster, die die Konformität der Funkanlage mit den grundlegenden Anforderungen dieser Verordnung oder den Bedingungen für die Gültigkeit dieser Bescheinigung beeinträchtigen können. Derartige Änderungen erfordern eine Zusatzgenehmigung in Form einer Ergänzung der ursprünglichen Baumusterprüfbescheinigung.
 - **8** **Informationspflichten**
 - 8\.1 Jede Konformitätsbewertungsstelle unterrichtet das BAKOM über die Baumusterprüfbescheinigungen und/oder allfällige Ergänzungen dazu, die sie ausgestellt oder zurückgenommen hat, und übermittelt ihm in regelmässigen Abständen oder auf Verlangen eine Aufstellung dieser Bescheinigungen und/oder Ergänzungen dazu, die sie verweigert, ausgesetzt oder auf andere Art eingeschränkt hat.
