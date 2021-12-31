@@ -4,13 +4,13 @@ number: "961.12"
 title: Verordnung über die Massnahmen zur Bekämpfung der Covid-19-Epidemie 2
 short: Covid-19 Vo BL 2
 language: de
-version: 2021-12-08
-valid_until: 2021-12-31
-version_adopted: 2021-12-07
+version: 2022-01-01
+valid_until: 2022-02-16
+version_adopted: 2021-12-14
 adopted: 2021-11-18
 in_force: 2021-11-19
 url: "https://bl.clex.ch/app/de/texts_of_law/961.12"
-pdf: "https://bl.clex.ch/api/de/versions/3145/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3145/pdf_file"
 
 (Covid-19 Vo BL 2)
 
-Vom 18.11.2021 (Stand 08.12.2021)
+Vom 18.11.2021 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -88,13 +88,13 @@ beschliesst:
 
 <sup>2</sup> Von der Maskenpflicht ausgenommen sind:
 
-- a. Schülerinnen und Schüler der Primarstufe bis und mit 4. Primarschulklasse, ausser wenn sie eine Mehrjahrgangsklasse mit Schülerinnen und Schülern der 5. oder 6. Primarschule besuchen;
+- a. Schülerinnen und Schüler des Kindergartens;
 - b. …
 - c. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können.
 
 <sup>3</sup> Weitere Ausnahmen können in kantonalen Schutzkonzepten geregelt werden.
 
-<sup>4</sup> Für Schülerinnen und Schüler ab der 1. Primarschulklasse gilt eine Maskenempfehlung.
+<sup>4</sup> …
 
 #### § 3abis
 
@@ -104,11 +104,15 @@ beschliesst:
 
 <sup>2</sup> Davon ausgenommen sind:
 
-- a. Kinder bis und mit 4. Primarschulklasse;
+- a. Kinder bis und mit 4. Primarschulklasse; Abs. 2<sup>bis</sup> bleibt vorbehalten;
 - b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können;
 - c. die Wohnräume (private Zimmer und Gruppengemeinschaftsräume) in Kinder- und Jugendheimen;
 - d. gut dokumentierte Ausnahmen in Kindertagesstätten, in der schulergänzenden Kinderbetreuung und in Kinder- und Jugendheimen in der direkten Betreuung von Kindern;
 - e. Kinder und Jugendliche ab der 5. Primarschulklasse und Erwachsene bei Mahlzeiten, sobald sie am Sitzplatz sind.
+
+<sup>2<sup>bis</sup></sup> In der schulnahen Tagesbetreuung sowie für Schülerinnen- und Schülergruppen in Kindertagesstätten gilt eine Maskentragpflicht ab der 1. Primarklasse.
+
+<sup>2<sup>ter</sup></sup> Für die Kinder der 1.–4. Primarklasse, die nicht zum Tragen einer Maske in der Kinderbetreuung verpflichtet sind, gilt eine Maskenempfehlung.
 
 <sup>3</sup> Die Bildungs-, Kultur- und Sportdirektion kann weiterführende Eckwerte für die Schutzkonzepte der Einrichtungen der Kinderbetreuung festlegen.
 
@@ -133,6 +137,36 @@ beschliesst:
 <sup>3</sup> Die Leitung der Einrichtung bestimmt die Mitarbeitenden, welche unter die Testpflicht gemäss Abs. 1 fallen, und regelt die Einzelheiten.
 
 [^4-1]: [SR 818.102.2](https://db.clex.ch/link/Bund/818.102.2/de)
+
+#### § 4a
+
+**Testpflicht an Schulen**
+
+<sup>1</sup> Die Schülerinnen und Schüler bzw. Lernenden und alle Mitarbeitenden der öffentlichen Schulen mit Ausnahme der Musikschulen, welche direkten Kontakt zu den Schülerinnen und Schülern haben, sind verpflichtet, sich einmal wöchentlich im Rahmen des Breiten Testens Baselland auf Sars-Cov-2 testen zu lassen.
+
+<sup>2</sup> Von der Testpflicht gemäss Abs. 1 ausgenommen sind Schülerinnen und Schüler sowie Mitarbeitende, die in den letzten 3 Monaten positiv auf eine Sars-Cov-2 Infektion getestet worden sind.
+
+<sup>3</sup> Die Schulleitung kann weitere Ausnahmen bewilligen.
+
+<sup>4</sup> Schülerinnen und Schüler bzw. Lernende, welche an den wöchentlichen Tests nicht teilnehmen, begeben sich sofort in Quarantäne, wenn bei einer Reihenuntersuchung in ihrem oder seinem Umfeld eine Infektion mit Sars-Cov-2 festgestellt wird. Ausgenommen sind Personen, die gemäss Abs. 2 von der Testpflicht ausgenommen sind.
+
+<sup>5</sup> Die Quarantäne nach Abs. 4 kann nach Vorlegen eines negativen Tests aufgehoben werden.
+
+#### § 4b
+
+**Wiederaufnahme Schulbetrieb an den Volksschulen und den Musikschulen nach den Weihnachtsferien 2021/22**
+
+<sup>1</sup> Alle Schülerinnen und Schüler sowie Lehrpersonen der Volksschulen nehmen in der 1. Woche nach den Weihnachtsferien 2021/22 am ordentlichen repetitiven Test im Rahmen des Breiten Testen Baselland teil.
+
+<sup>2</sup> Der Präsenzunterricht startet nach Vorliegen des Testresultats. Bis dahin findet Fernunterricht statt.
+
+<sup>3</sup> An den Musikschulen findet in der 1. Woche Fernunterricht statt. Der Präsenzunterricht startet ab dem 10. Januar 2022.
+
+<sup>4</sup> Schülerinnen und Schüler, welche am Test der 1. Woche nach den Weihnachtsferien nicht teilnehmen, begeben sich ab dem ersten Schultag (3. Januar 2022) für 10 Tage in Quarantäne.
+
+<sup>5</sup> Die Quarantäne nach Abs. 4 kann nach Vorlegen eines negativen Tests aufgehoben werden.
+
+<sup>6</sup> Die Bildungs-, Kultur- und Sportdirektion regelt die Einzelheiten.
 
 #### § 5
 
