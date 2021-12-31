@@ -3,18 +3,20 @@ sr: "631.035"
 title: Ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/255"
 language: fr
-version: 2018-05-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20180501/fr/xml/fedlex-data-admin-ch-eli-cc-2007-255-20180501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20180501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-255-20220101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur les émoluments de l’Administration fédérale des douanes
+# Ordonnance sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> mai 2018)
+du 4 avril 2007 (Etat le 1<sup>er</sup> janvier 2022)[^t-1]
+
+[^t-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 Le Conseil fédéral suisse,
 
@@ -28,9 +30,9 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> L’Administration fédérale des douanes (administration des douanes) ne perçoit aucun émolument pour les décisions qu’elle rend et les prestations qu’elle fournit dans le cadre de son activité ordinaire.
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) ne perçoit aucun émolument pour les décisions qu’il rend et les prestations qu’il fournit dans le cadre de son activité ordinaire.
 
-<sup>2</sup> Elle perçoit les émoluments mentionnés dans l’annexe pour ses décisions et prestations particulières.
+<sup>2</sup> Il perçoit les émoluments mentionnés dans l’annexe pour ses décisions et prestations particulières.
 
 #### Art. 2
 
@@ -44,13 +46,13 @@ Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émolu
 
 **Non-versement de l’avance**
 
-Si l’avance ou la garantie requise en vertu de l’art. 10 OGEmol[^3-1] n’est pas versée, l’administration des douanes ne fournit pas sa prestation.
+Si l’avance ou la garantie requise en vertu de l’art. 10 OGEmol[^3-1] n’est pas versée, l’OFDF ne fournit pas sa prestation.
 
 [^3-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 4
 
-**Emolument forfaitaire**
+**Émolument forfaitaire**
 
 En accord avec l’assujetti, les directions d’arrondissement peuvent percevoir un émolument forfaitaire pour des opérations officielles similaires à caractère répétitif.
 
@@ -74,19 +76,19 @@ L’ordonnance du 22 août 1984 sur les taxes de l’administration des douanes[
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2007.
 
-Annexe*[^t-1]*
+Annexe*[^t-2]*
 
 (art. 1, al. 2)
 
 ## Tarif des émoluments
 
-[^t-1]: Mise à jour selon le ch. III 1 de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), le ch. I de l’O du 21 mai 2008 ([RO 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), le ch. III de l’O du 8 avr. 2009 ([RO 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), le ch. 2 de l’annexe à l’O du 23 mai 2012 sur la délivrance des preuves d’origine ([RO 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), le ch. 2 de l’annexe à l’O du 27 janv. 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) et le ch. II de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^t-2]: Mise à jour selon le ch. III 1 de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), le ch. I de l’O du 21 mai 2008 ([RO 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), le ch. III de l’O du 8 avr. 2009 ([RO 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), le ch. 2 de l’annexe à l’O du 23 mai 2012 sur la délivrance des preuves d’origine ([RO 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), le ch. 2 de l’annexe à l’O du 27 janv. 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) et le ch. II de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
 <table>
-<tr><th>Chiffre</th><th>Emolument</th></tr>
-<tr><td>1 Emoluments calculés selon le tarif horaire</td><td></td></tr>
+<tr><th>Chiffre</th><th>Émolument</th></tr>
+<tr><td>1 Émoluments calculés selon le tarif horaire</td><td></td></tr>
 <tr><td>1.1 Un émolument est perçu:</td><td></td></tr>
-<tr><td>– pour les opérations officielles exécutées hors de l’emplacement officiel; – pour les escortes, surveillances et contrôles; – pour la mise en place ou la tenue de contrôles incombant à l’assujetti, mais que celui-ci n’a pas exécutés ou qu’il a exécutés de manière non conforme aux prescriptions; – pour les rectifications et des annulations, y compris dans les procédures avec le système e-dec import (e-dec) ou avec le nouveau système de transit informatisé (NCTS); – pour les analyses chimico-techniques; – pour l’intervention de l’administration des douanes en matière de propriété intellectuelle (ch. 12)</td><td></td></tr>
+<tr><td>– pour les opérations officielles exécutées hors de l’emplacement officiel; – pour les escortes, surveillances et contrôles; – pour la mise en place ou la tenue de contrôles incombant à l’assujetti, mais que celui-ci n’a pas exécutés ou qu’il a exécutés de manière non conforme aux prescriptions; – pour les rectifications et des annulations, y compris dans les procédures avec le système e-dec import (e-dec) ou avec le nouveau système de transit informatisé (NCTS); – pour les analyses chimico-techniques; – pour l’intervention de l’OFDF en matière de propriété intellectuelle (ch. 12)</td><td></td></tr>
 <tr><td>par quart d’heure et par employé:</td><td>[tab]</td></tr>
 <tr><td>a. durant les heures d’ouverture</td><td>22 fr.</td></tr>
 <tr><td>b. en dehors des heures d’ouverture</td><td>27 fr.</td></tr>
@@ -105,7 +107,7 @@ Annexe*[^t-1]*
 <tr><td>a. durant les heures d’ouverture</td><td>11 fr.</td></tr>
 <tr><td>b. en dehors des heures d’ouverture</td><td>13.50 fr.</td></tr>
 <tr><td>1.3 Aucun émolument n’est perçu:</td><td></td></tr>
-<tr><td>1.31 pour les opérations officielles imputables à une erreur de l’administration des douanes;</td><td></td></tr>
+<tr><td>1.31 pour les opérations officielles imputables à une erreur de l’OFDF;</td><td></td></tr>
 <tr><td>1.32 dans la procédure e-dec:</td><td></td></tr>
 <tr><td>1.321 pour les corrections de déclarations en douane sélectionnées (bloqué ou libre/avec) avant l’examen formel de déclaration en douane;</td><td></td></tr>
 <tr><td>1.322 pour la transformation après l’échéance, de taxations provisoires en taxations définitives apurées automatiquement par e-dec;</td><td></td></tr>
@@ -116,10 +118,10 @@ Annexe*[^t-1]*
 <tr><td>1.334 pour le traitement des listes internationales et de la liste nationale des cas en suspens *«E**n**trées en transit non liquidées»*;</td><td></td></tr>
 <tr><td>1.34 pour les vérifications hors de l’emplacement officiel et les contrôles d’entreprises ainsi que les contrôles chez des expéditeurs/destinataires agréés ou dans des entrepôts douaniers ouverts sur ordre du bureau de douane;</td><td></td></tr>
 <tr><td>1.35 pour la taxation durant les heures d’ouverture des bureaux de douane d’expositions;</td><td></td></tr>
-<tr><td>1.36 pour l’apposition, par l’administration des douanes, de scellés et de marques douanières, selon ch. 1.23 (dont le nombre n’excède pas 20 pièces par envoi);</td><td></td></tr>
-<tr><td>1.37 dans le trafic par chemin de fer, pour autant que du personnel de l’administration des douanes ne doive pas y être affecté: – pour la prise en charge du train; – pour le contrôle du train; – pour le contrôle du chargement;</td><td></td></tr>
+<tr><td>1.36 pour l’apposition, par l’OFDF, de scellés et de marques douanières, selon ch. 1.23 (dont le nombre n’excède pas 20 pièces par envoi);</td><td></td></tr>
+<tr><td>1.37 dans le trafic par chemin de fer, pour autant que du personnel de l’OFDF ne doive pas y être affecté: – pour la prise en charge du train; – pour le contrôle du train; – pour le contrôle du chargement;</td><td></td></tr>
 <tr><td>1.38 dans le trafic aérien: pour les opérations officielles en relation directe avec la réparation d’aéronefs en service;</td><td></td></tr>
-<tr><td>1.39 pour les analyses chimico-techniques ordonnées par l’administration des douanes.</td><td></td></tr>
+<tr><td>1.39 pour les analyses chimico-techniques ordonnées par l’OFDF.</td><td></td></tr>
 <tr><td>2 Taxation en dehors des heures d’ouverture du bureau de douane</td><td></td></tr>
 <tr><td>2.1 Un émolument est perçu: pour la taxation en dehors des heures d’ouverture du bureau de douane</td><td>30 fr. par taxation</td></tr>
 <tr><td>2.2 Aucun émolument n’est perçu:</td><td></td></tr>
@@ -139,7 +141,7 @@ Annexe*[^t-1]*
 <tr><td>2.284 pour le transit en cas de fermeture passagère d’un aéroport;</td><td></td></tr>
 <tr><td>2.285 pour les marchandises sujettes à prompte détérioration;</td><td></td></tr>
 <tr><td>2.29 dans le trafic de la zone frontière et dans le trafic des zones franches de la Haute-Savoie et du Pays de Gex.</td><td></td></tr>
-<tr><td>3 Utilisation de balances, de grues et d’autres engins de l’administration des douanes:</td><td></td></tr>
+<tr><td>3 Utilisation de balances, de grues et d’autres engins de l’OFDF:</td><td></td></tr>
 <tr><td>3.1 Un émolument est perçu:</td><td></td></tr>
 <tr><td>3.11 pour les pesages sur ponts-bascules et sur balances à pesage par roues</td><td>30 fr. par pesage</td></tr>
 <tr><td>3.12 pour les pesages sur d’autres balances</td><td>2 fr. par 100 kg ou fraction de cette quantité max. 25 fr. par envoi</td></tr>
@@ -150,7 +152,7 @@ Annexe*[^t-1]*
 <tr><td>3.22 pour les pesages/tarages sur ponts-bascules et sur balances à pesage par roues lors de pesages de contrôle ordonnés par la douane ou par la police, pour autant que le poids constaté ne soit pas contesté;</td><td></td></tr>
 <tr><td>3.23 pour les pesages sur des balances placées dans les halles ou sur les quais: – effectués par l’assujetti sous sa responsabilité (sans surveillance de la douane); – dans le trafic avec les entreprises publiques de transport; – pour les pesages de contrôle, lorsque la différence de poids n’excède pas 3 % du poids annoncé; – dans le régime du transit national ou de l’admission temporaire; – pour les marchandises dans le trafic touristique et le trafic de frontière;</td><td></td></tr>
 <tr><td>3.24 pour l’utilisation de grues et d’engins similaires: – lors de la présentation en douane; – sur ordre du bureau de douane.</td><td></td></tr>
-<tr><td>4 Utilisation de locaux et d’emplacements officiels de l’administration des douanes en vue du dépôt de marchandises ou du stationnement de véhicules:</td><td></td></tr>
+<tr><td>4 Utilisation de locaux et d’emplacements officiels de l’OFDF en vue du dépôt de marchandises ou du stationnement de véhicules:</td><td></td></tr>
 <tr><td>4.1 Un émolument est perçu:</td><td></td></tr>
 <tr><td>4.11 pour le dépôt de marchandises, par jour et par 100 kg ou fraction de cette quantité</td><td>2 fr. min. 7 fr.</td></tr>
 <tr><td>4.12 pour le stationnement de véhicules chargés ou vides, par jour et par véhicule ou combinaison de véhicules d’un poids total</td><td></td></tr>
@@ -164,7 +166,7 @@ Annexe*[^t-1]*
 <tr><td>4.24 pour les marchandises déchargées sur un quai ou dans une halle douanière en vue de la taxation sur la base du poids net, d’un examen, d’un prélèvement d’échantillons ou pour le pesage, qui sont ensuite rechargées sur le véhicule d’arrivée;</td><td></td></tr>
 <tr><td>4.25 pour les marchandises auxquelles l’assujetti à l’obligation de déclarer renonce;</td><td></td></tr>
 <tr><td>4.26 pour les marchandises du trafic touristique laissées en dépôt;</td><td></td></tr>
-<tr><td>4.27 pour les marchandises séquestrées, en tant qu’elles ne sont pas retenues dans le cadre de la collaboration de l’administration des douanes, en vertu de la législation applicable en matière de propriété intellectuelle.</td><td></td></tr>
+<tr><td>4.27 pour les marchandises séquestrées, en tant qu’elles ne sont pas retenues dans le cadre de la collaboration de l’OFDF, en vertu de la législation applicable en matière de propriété intellectuelle.</td><td></td></tr>
 <tr><td>5 Octroi d’autorisations et prolongation de délais:</td><td></td></tr>
 <tr><td>5.1 Un émolument est perçu:</td><td></td></tr>
 <tr><td>5.11 pour l’octroi d’autorisations: selon les circonstances, l’importance et le temps consacré</td><td>20 fr. à 1000 fr.</td></tr>
@@ -216,10 +218,10 @@ Annexe*[^t-1]*
 <tr><td>8.331 de redevances garanties dans le régime du transit national ou dans le régime de l’admission temporaire;</td><td></td></tr>
 <tr><td>8.332 dans le régime du transit national, lorsque la taxation définitive n’a pas lieu par mise en compte des redevances garanties mais par application du numéro ou groupe tarifaire entrant réellement en ligne de compte;</td><td></td></tr>
 <tr><td>8.333 de redevances garanties pour des marchandises taxées provisoirement dans les cas où la taxation provisoire est expressément prescrite ou qu’elle a été effectuée en raison de la TVA;</td><td></td></tr>
-<tr><td>8.34 lors de remboursements imputables à une erreur de l’administration des douanes;</td><td></td></tr>
+<tr><td>8.34 lors de remboursements imputables à une erreur de l’OFDF;</td><td></td></tr>
 <tr><td>8.35 lors de remises de droits selon l’art. 86 LD;</td><td></td></tr>
 <tr><td>8.36 lors de remboursements de l’impôt sur les véhicules automobiles en vertu de l’art. 19, al. 2, de la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles[^annexu1-lvlu1-4] (y compris les remboursements en cas de réduction subséquente de la contre-prestation) et de remboursements de l’impôt sur les véhicules automobiles perçu lors de la réimportation (marchandises indigènes en retour);</td><td></td></tr>
-<tr><td>8.37 lors de remboursements et remises de la TVA: – liés à une modification de la contre-prestation, au sens de l’art. 54, al. 2, de la loi du 12 juin 2009 sur la TVA (LTVA)[^annexu1-lvlu1-5]; – liés à l’adaptation de l’impôt perçu sur des livraisons de remplacement; – effectués parce que l’administration des douanes a surévalué la base de calcul de l’impôt; – liés à des biens en retour d’origine suisse, en vertu de l’art. 53, al. 1, let. f, LTVA[^annexu1-lvlu1-6]; – liés à des remises d’impôt, en vertu de l’art. 64 LTVA[^annexu1-lvlu1-7] (remise de l’impôt).</td><td></td></tr>
+<tr><td>8.37 lors de remboursements et remises de la TVA: – liés à une modification de la contre-prestation, au sens de l’art. 54, al. 2, de la loi du 12 juin 2009 sur la TVA (LTVA)[^annexu1-lvlu1-5]; – liés à l’adaptation de l’impôt perçu sur des livraisons de remplacement; – effectués parce que l’OFDF a surévalué la base de calcul de l’impôt; – liés à des biens en retour d’origine suisse, en vertu de l’art. 53, al. 1, let. f, LTVA[^annexu1-lvlu1-6]; – liés à des remises d’impôt, en vertu de l’art. 64 LTVA[^annexu1-lvlu1-7] (remise de l’impôt).</td><td></td></tr>
 <tr><td>8.38 lors de remboursements de l’impôt sur les huiles minérales: – liés à la récupération des vapeurs d’hydrocarbures en entrepôt agréé ou aux marchandises réacheminées vers un entrepôt agréé, en vertu de l’art. 18, al. 1, let. a et b, de la loi du 21 juin 1996 sur l’imposition des huiles minérales (Limpmin)[^annexu1-lvlu1-8] pour autant que la mise en compte ait lieu avec la déclaration fiscale périodique; – liés à des remises de l’impôt, en vertu de l’art. 26 Limpmin; – liés à la rectification subséquente d’une déclaration fiscale périodique; – liés à la transformation d’un entrepôt de réserves obligatoires en un entrepôt agréé; – liés à un rinçage effectué avec du carburant imposé.</td><td></td></tr>
 <tr><td>9 Attestations, authentifications, duplicata, photocopies et photographies</td><td></td></tr>
 <tr><td>9.1 Un émolument est perçu:</td><td></td></tr>
@@ -269,7 +271,7 @@ Annexe*[^t-1]*
 <tr><td>11.112 – de duplicata de documents en rapport avec la perception de la RPLP ou de la RPLF</td><td>20 fr. par document</td></tr>
 <tr><td>11.12 pour d’autres activités en rapport avec la perception de la RPLP ou de la RPLF:</td><td></td></tr>
 <tr><td>11.121 – correction de déclarations et de taxations en raison de manquements de la personne assujettie à la redevance</td><td>émolument selon ch. 1</td></tr>
-<tr><td>11.122 – acceptation de cautionnements généraux en tant que sûreté d’un compte RPLP ou d’un compte en douane dans la procédure centralisée de décompte de l’administration des douanes</td><td>émolument selon ch. 6</td></tr>
+<tr><td>11.122 – acceptation de cautionnements généraux en tant que sûreté d’un compte RPLP ou d’un compte en douane dans la procédure centralisée de décompte de l’OFDF</td><td>émolument selon ch. 6</td></tr>
 <tr><td>11.123 – établissement de certificats de conformité par les stations de montage</td><td>20 fr. par justificatif</td></tr>
 <tr><td>11.13 Remboursements</td><td>émolument selon ch. 8.13, compte tenu du ch. 8.34</td></tr>
 <tr><td>11.14 Perception subséquente de la RPLF dans le trafic de ligne: surcroît de travail dû à la présentation tardive de la déclaration</td><td>émolument selon ch. 1</td></tr>
@@ -281,10 +283,10 @@ Annexe*[^t-1]*
 <tr><td>11.25 pour l’établissement de rappels en cas d’inobservation du délai de déclaration ou du délai de paiement;</td><td></td></tr>
 <tr><td>11.26 pour des remboursements en rapport avec des courses en TCNA et pour les transports de bois brut;</td><td></td></tr>
 <tr><td>11.27 pour les remboursements de la RPLF pour les courses à l’étranger ainsi que pour les véhicules pris en location pour l’armée ou la protection civile.</td><td></td></tr>
-<tr><td>12 Intervention de l’administration des douanes en matière de propriété intellectuelle (lois sur le droit d’auteur, sur les topographies, sur la protection des marques, sur les designs et sur les brevets)</td><td></td></tr>
+<tr><td>12 Intervention de l’OFDF en matière de propriété intellectuelle (lois sur le droit d’auteur, sur les topographies, sur la protection des marques, sur les designs et sur les brevets)</td><td></td></tr>
 <tr><td>12.1 Le requérant de l’intervention est tenu de s’acquitter d’un émolument:</td><td></td></tr>
-<tr><td>12.11 pour le traitement d’une demande d’intervention de l’administration des douanes</td><td>selon ch. 1.1, au min. 1500 fr., au max. 3000 fr.</td></tr>
-<tr><td>12.12 pour chaque renouvellement d’une demande d’intervention de l’administration des douanes</td><td>selon ch. 1.1, au min. 500 fr., au max. 1500 fr.</td></tr>
+<tr><td>12.11 pour le traitement d’une demande d’intervention de l’OFDF</td><td>selon ch. 1.1, au min. 1500 fr., au max. 3000 fr.</td></tr>
+<tr><td>12.12 pour chaque renouvellement d’une demande d’intervention de l’OFDF</td><td>selon ch. 1.1, au min. 500 fr., au max. 1500 fr.</td></tr>
 <tr><td>12.13 pour l’extension d’une demande d’intervention à des œuvres, topographies, marques, designs ou inventions additionnels</td><td>selon ch. 1.1, au min. 750 fr., au max. 3000 fr.</td></tr>
 <tr><td>12.14 pour chaque communication au requérant, y compris la rétention d’envois suspects</td><td>selon ch. 1.1, au min. 50 fr.</td></tr>
 <tr><td>12.15 pour la prolongation du délai de rétention d’envois suspects</td><td>30 fr. par prolongation</td></tr>
@@ -305,7 +307,7 @@ Annexe*[^t-1]*
 
 [^annexu1-lvlu1-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^annexu1-lvlu1-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^annexu1-lvlu1-3]: La liste positive de la Direction générale des douanes peut être téléchargée gratuitement sur Internet à l’adresse suivante: www.ezv.admin.ch &gt; Infos pour entreprises &gt; Impôts et redevances &gt; Importation en Suisse &gt; Impôt sur les huiles minérales &gt; Biocarburants &gt; Preuves écologiques et sociales.
+[^annexu1-lvlu1-3]: La liste positive de la Direction générale des douanes peut être téléchargée gratuitement sur Internet à l’adresse suivante: www.bazg.admin.ch &gt; Infos pour entreprises &gt; Impôts et redevances &gt; Importation en Suisse &gt; Impôt sur les huiles minérales &gt; Biocarburants &gt; Preuves écologiques et sociales.
 [^annexu1-lvlu1-4]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 [^annexu1-lvlu1-5]: [[RO 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)[1134](https://fedlex.data.admin.ch/eli/oc/2000/183), [2001 3086](https://fedlex.data.admin.ch/eli/oc/2001/462), [2002 1480](https://fedlex.data.admin.ch/eli/oc/2002/232), [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 5, [2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591)annexe ch. 2, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 52, [2006 2673](https://fedlex.data.admin.ch/eli/oc/2006/408)[5379](https://fedlex.data.admin.ch/eli/oc/2006/822)annexe ch. II 5, [2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)annexe ch. 7 [3425](https://fedlex.data.admin.ch/eli/oc/2007/418)annexe ch. 1 [6637](https://fedlex.data.admin.ch/eli/oc/2007/860)annexe ch. II 5 [6827](https://fedlex.data.admin.ch/eli/oc/2007/877). [RO 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615)art. 110]. Voir actuellement la LF du 12 juin 2009 régissant la taxe sur la valeur ajoutée, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)).
 [^annexu1-lvlu1-6]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).

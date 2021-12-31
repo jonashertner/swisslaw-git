@@ -3,18 +3,20 @@ sr: "631.035"
 title: Verordnung vom 4. April 2007 über die Gebühren des Bundesamts für Zoll und Grenzsicherheit
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/255"
 language: de
-version: 2018-05-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20180501/de/xml/fedlex-data-admin-ch-eli-cc-2007-255-20180501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20180501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-255-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Gebühren der Zollverwaltung
+# Verordnung über die Gebühren des Bundesamts für Zoll und Grenzsicherheit
 
-vom 4. April 2007 (Stand am 1. Mai 2018)
+vom 4. April 2007 (Stand am 1. Januar 2022)[^t-1]
+
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 Der Schweizerische Bundesrat,
 
@@ -28,9 +30,9 @@ verordnet:
 
 **Grundsatz**
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung (EZV) erhebt keine Gebühren für Verfügungen und Dienstleistungen im Rahmen ihrer ordentlichen Tätigkeit.
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) erhebt keine Gebühren für Verfügungen und Dienstleistungen im Rahmen seiner ordentlichen Tätigkeit.
 
-<sup>2</sup> Sie erhebt die im Anhang aufgeführten Gebühren für besondere Verfügungen und Dienstleistungen.
+<sup>2</sup> Es erhebt die im Anhang aufgeführten Gebühren für besondere Verfügungen und Dienstleistungen.
 
 #### Art. 2
 
@@ -44,7 +46,7 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 **Nichtbezahlung eines Vorschusses**
 
-Wird der Vorschuss oder die Sicherheit, der beziehungsweise die nach Artikel 10 AllgGebV[^3-1] zu leisten ist, nicht geleistet, so erbringt die EZV die entsprechende Dienstleistung nicht.
+Wird der Vorschuss oder die Sicherheit, der beziehungsweise die nach Artikel 10 AllgGebV[^3-1] zu leisten ist, nicht geleistet, so erbringt das BAZG die entsprechende Dienstleistung nicht.
 
 [^3-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
@@ -66,7 +68,7 @@ Die Zollstellen können die Gebühr im Einverständnis mit der Oberzolldirektion
 
 Die Verordnung vom 22. August 1984[^6-1] über die Gebühren der Zollverwaltung wird aufgehoben.
 
-[^6-1]: [[AS 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960), [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193)]
+[^6-1]: [[AS 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960); [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193)]
 
 #### Art. 7
 
@@ -74,19 +76,19 @@ Die Verordnung vom 22. August 1984[^6-1] über die Gebühren der Zollverwaltung 
 
 Diese Verordnung tritt am 1. Mai 2007 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-2]
 
 (Art. 1 Abs. 2)
 
 ## Gebührentarif
 
-[^t-1]: Bereinigt gemäss Ziff. III 1 der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), Ziff. I der V vom 21. Mai 2008 ([AS 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), Ziff. III der V vom 8. April 2009 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr ([AS 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), Anhang Ziff. 2 der V vom 23. Mai 2012 über das Ausstellen von Ursprungsnachweisen ([AS 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), Anhang Ziff. 2 der V vom 27. Jan. 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) und Ziff. II der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^t-2]: Bereinigt gemäss Ziff. III 1 der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), Ziff. I der V vom 21. Mai 2008 ([AS 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), Ziff. III der V vom 8. April 2009 über die Ein- und Durchfuhr von Tierprodukten aus Drittstaaten im Luftverkehr ([AS 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), Anhang Ziff. 2 der V vom 23. Mai 2012 über das Ausstellen von Ursprungsnachweisen ([AS 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), Anhang Ziff. 2 der V vom 27. Jan. 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) und Ziff. II der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
 <table>
 <tr><th>Ziffer</th><th>Gebühr</th></tr>
 <tr><td>1 Gebühren, die nach Stundenansätzen festgelegt werden</td><td></td></tr>
 <tr><td>1.1 Eine Gebühr wird erhoben für:</td><td></td></tr>
-<tr><td>– Amtshandlungen ausserhalb des Amtsplatzes – Begleitungen, Überwachungen und Kontrollen – das Erstellen oder Nachführen von Kontrollen, die der anmeldepflichtigen Person obliegen, von dieser aber nicht oder nicht ordnungsgemäss ausgeführt worden sind – Korrekturen und Annullationen (inkl. mit e-dec-Import-System und Neuem Computerisiertem Transit-System NCTS) – chemisch-technische Untersuchungen – die Hilfeleistung der EZV im Bereich des Immaterialgüterrechts (Ziff. 12)</td><td></td></tr>
+<tr><td>– Amtshandlungen ausserhalb des Amtsplatzes – Begleitungen, Überwachungen und Kontrollen – das Erstellen oder Nachführen von Kontrollen, die der anmeldepflichtigen Person obliegen, von dieser aber nicht oder nicht ordnungsgemäss ausgeführt worden sind – Korrekturen und Annullationen (inkl. mit e-dec-Import-System und Neuem Computerisiertem Transit-System NCTS) – chemisch-technische Untersuchungen – die Hilfeleistung des BAZG im Bereich des Immaterialgüterrechts (Ziff. 12)</td><td></td></tr>
 <tr><td>je Viertelstunde und für jeden Angestellten:</td><td></td></tr>
 <tr><td>a. während der Öffnungszeiten der Zollstelle</td><td>Fr. 22.–</td></tr>
 <tr><td>b. ausserhalb der Öffnungszeiten der Zollstelle</td><td>Fr. 27.–</td></tr>
@@ -100,12 +102,13 @@ Anhang*[^t-1]*
 <tr><td>je Viertelstunde und für jeden Angestellten:</td><td></td></tr>
 <tr><td>a. während der Öffnungszeiten der Zollstelle</td><td>Fr. 11.–</td></tr>
 <tr><td>b. ausserhalb der Öffnungszeiten der Zollstelle</td><td>Fr. 13.50</td></tr>
-<tr><td>1.23 für das Anbringen – durch die EZV, zur Gewährleistung der Zollsicherheit oder der Identität der Waren – von Zollverschlüssen und Zollzeichen, wenn die gesamte Anzahl 20 Stück je Sendung übersteigt</td><td></td></tr>
+<tr><td>1.23 für das Anbringen – durch das BAZG, zur Gewährleistung der Zollsicherheit oder der Identität der Waren – von Zollverschlüssen und Zollzeichen, wenn die gesamte Anzahl 20 Stück je Sendung übersteigt</td><td></td></tr>
 <tr><td>je Viertelstunde und für jeden Angestellten:</td><td></td></tr>
 <tr><td>a. während der Öffnungszeiten der Zollstelle</td><td>Fr. 11.–</td></tr>
 <tr><td>b. ausserhalb der Öffnungszeiten der Zollstelle</td><td>Fr. 13.50</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>1.3 Keine Gebühr wird erhoben:</td><td></td></tr>
-<tr><td>1.31 für Amtshandlungen, die wegen eines Fehlers der EZV notwendig sind</td><td></td></tr>
+<tr><td>1.31 für Amtshandlungen, die wegen eines Fehlers des BAZG notwendig sind</td><td></td></tr>
 <tr><td>1.32 für die Veranlagung mit e-dec-Import-System</td><td></td></tr>
 <tr><td>1.321 für die Berichtigung von Zollanmeldungen, die als «gesperrt» oder «frei/mit» selektioniert wurden, vor deren formeller Überprüfung</td><td></td></tr>
 <tr><td>1.322 für die Umwandlung provisorischer Veranlagungen in definitive Veranlagungen nach Fristablauf, die durch das e-dec-Import-System automatisch erledigt werden</td><td></td></tr>
@@ -116,14 +119,14 @@ Anhang*[^t-1]*
 <tr><td>1.334 für die Bearbeitung sämtlicher internationalen Pendenzenlisten sowie der nationalen Pendenzenlisten «Nicht erledigte Transiteingänge»</td><td></td></tr>
 <tr><td>1.34 für die Beschau ausserhalb des Amtsplatzes und für Betriebskontrollen und Kontrollen bei zugelassenenVersendern/Empfängern oder in offenen Zolllagern auf Anordnung der Zollstelle</td><td></td></tr>
 <tr><td>1.35 für Veranlagungen während der Öffnungszeiten bei Messezollstellen</td><td></td></tr>
-<tr><td>1.36 für das Anbringen einzelner Zollverschlüsse oder Zollzeichen durch die EZV gemäss Ziffer 1.23 (d.h. unter 20 Stück je Sendung)</td><td></td></tr>
-<tr><td>1.37 im Bahnverkehr, sofern nicht zusätzliche Mitarbeiterinnen und Mitarbeiter der EZV zur Verfügung gestellt werden müssen, für:</td><td></td></tr>
+<tr><td>1.36 für das Anbringen einzelner Zollverschlüsse oder Zollzeichen durch das BAZG gemäss Ziffer 1.23 (d.h. unter 20 Stück je Sendung)</td><td></td></tr>
+<tr><td>1.37 im Bahnverkehr, sofern nicht zusätzliche Mitarbeiterinnen und Mitarbeiter des BAZG zur Verfügung gestellt werden müssen, für:</td><td></td></tr>
 <tr><td>– die Zugsabnahme</td><td></td></tr>
 <tr><td>– die Zugskontrolle</td><td></td></tr>
 <tr><td>– die Verladekontrolle</td><td></td></tr>
 <tr><td>1.38 im Luftverkehr:</td><td></td></tr>
 <tr><td>– für Amtshandlungen in unmittelbarem Zusammenhang mit der Reparatur von im Einsatz stehenden Luftfahrzeugen</td><td></td></tr>
-<tr><td>1.39 für chemisch-technische Untersuchungen, die von der EZV angeordnet werden</td><td></td></tr>
+<tr><td>1.39 für chemisch-technische Untersuchungen, die vom BAZG angeordnet werden</td><td></td></tr>
 <tr><td>2 Veranlagungen ausserhalb der Öffnungszeiten der Zollstelle</td><td></td></tr>
 <tr><td>2.1 Eine Gebühr wird erhoben: für Veranlagungen ausserhalb der Öffnungszeiten der Zollstelle</td><td>Fr. 30.– je Veranlagung</td></tr>
 <tr><td>2.2 Keine Gebühr wird erhoben:</td><td></td></tr>
@@ -143,7 +146,7 @@ Anhang*[^t-1]*
 <tr><td>2.284 für Transit wegen Flugsperre</td><td></td></tr>
 <tr><td>2.285 für rasch verderbliche Waren</td><td></td></tr>
 <tr><td>2.29 im Grenzzonenverkehr und im Freizonenverkehr mit Hochsavoyen und der Landschaft Gex</td><td></td></tr>
-<tr><td>3 Benützung von Waagen, Kranen und anderen Einrichtungen der EZV</td><td></td></tr>
+<tr><td>3 Benützung von Waagen, Kranen und anderen Einrichtungen des BAZG</td><td></td></tr>
 <tr><td>3.1 Eine Gebühr wird erhoben für:</td><td></td></tr>
 <tr><td>3.11 Abwiegungen auf Brückenwaagen und Radlastwaagen</td><td>Fr. 30.– je Abwiegung</td></tr>
 <tr><td>3.12 Abwiegungen auf anderen Waagen</td><td>Fr. 2.– je 100 kg oder Bruchteile davon, höchstens Fr. 25.- je Sendung</td></tr>
@@ -154,9 +157,10 @@ Anhang*[^t-1]*
 <tr><td>3.22 Voll- und Leerabwiegungen auf Brücken- und Radlastwaagen für von der Zollstelle oder polizeilich angeordnete Gewichtsnachprüfungen, sofern das festgestellte Gewicht nicht beanstandet wird</td><td></td></tr>
 <tr><td>3.23 Abwiegungen auf Hallen- und Rampenwaagen:</td><td></td></tr>
 <tr><td>– durch die anmeldepflichtige Person auf eigene Verantwortung (ohne Zollüberwachung) – im Verkehr mit öffentlichen Transportanstalten – für Kontrollabwiegungen, wenn die Differenz 3 % des angemeldeten Gewichts nicht übersteigt – im nationalen Transitverfahren – im Verfahren der vorübergehenden Verwendung – für Waren im Reise- und Grenzzonenverkehr</td><td></td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>3.24 die Benützung von Kranen u. dgl.:</td><td></td></tr>
 <tr><td>– bei der Gestellung – auf Anordnung der Zollstelle</td><td></td></tr>
-<tr><td>4 Benützung von Amtsräumen und ‑plätzen der EZV für das Abstellen von Waren oder Fahrzeugen</td><td></td></tr>
+<tr><td>4 Benützung von Amtsräumen und ‑plätzen des BAZG für das Abstellen von Waren oder Fahrzeugen</td><td></td></tr>
 <tr><td>4.1 Eine Gebühr wird erhoben für:</td><td></td></tr>
 <tr><td>4.11 das Abstellen von Waren, je Tag und je 100 kg oder Bruchteile davon</td><td>Fr. 2.–, mindestens Fr. 7.–</td></tr>
 <tr><td>4.12 das Abstellen von Fahrzeugen oder Fahrzeugkombinationen, beladen oder leer, je Tag:</td><td></td></tr>
@@ -170,7 +174,7 @@ Anhang*[^t-1]*
 <tr><td>4.24 Waren, die zur Nettoveranlagung, Besichtigung, Bemusterung oder Abwiegung auf die Zollrampe oder in die Zollhalle genommen und wieder auf das Ankunftsfahrzeug verladen werden</td><td></td></tr>
 <tr><td>4.25 Waren, auf die die anmeldepflichtige Person verzichtet</td><td></td></tr>
 <tr><td>4.26 zurückgelassene Waren des Reiseverkehrs</td><td></td></tr>
-<tr><td>4.27 beschlagnahmte Waren; die normale Gebühr ist jedoch geschuldet für beschlagnahmte Waren im Rahmen der Hilfeleistung der EZV im Bereich des Immaterialgüterrechts</td><td></td></tr>
+<tr><td>4.27 beschlagnahmte Waren; die normale Gebühr ist jedoch geschuldet für beschlagnahmte Waren im Rahmen der Hilfeleistung des BAZG im Bereich des Immaterialgüterrechts</td><td></td></tr>
 <tr><td>5 Erteilung von Bewilligungen sowie Fristverlängerungen</td><td></td></tr>
 <tr><td>5.1 Eine Gebühr wird erhoben für:</td><td></td></tr>
 <tr><td>5.11 Bewilligungen: je nach Sachlage, Bedeutung und Zeitaufwand</td><td>Fr. 20.– bis Fr. 1000**.–**</td></tr>
@@ -203,8 +207,11 @@ Anhang*[^t-1]*
 <tr><td>7.12 die Entgegennahme einer Verwendungsverpflichtung oder einer besonderen Verpflichtung aufgrund der Mineralölsteuergesetzgebung</td><td>Fr. 100.–</td></tr>
 <tr><td>7.13 die Bearbeitung von Gesuchen betreffend Steuererleichterungen von biogenen Treibstoffen nach der Mineralölsteuergesetzgebung</td><td></td></tr>
 <tr><td>a. Gesuche für Treibstoffe nach Artikel 12*b* Absatz 2 des Mineralölsteuergesetzes:</td><td></td></tr>
-<tr><td>– Gesuche für Treibstoffe, die ausschliesslich aus Rohstoffen, die der Positivliste der Oberzolldirektion[^annexu1-lvlu1-3] entsprechen, hergestellt werden – andere Gesuche</td><td>Fr. 100.–</td></tr>
-<tr><td>[tab]</td><td>Fr. 300.–</td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>– Gesuche für Treibstoffe, die ausschliesslich aus Rohstoffen, die der Positivliste der Oberzolldirektion[^annexu1-lvlu1-3] entsprechen, hergestellt werden</td><td>Fr. 100.–</td></tr>
+<tr><td>– andere Gesuche</td><td>Fr. 300.–</td></tr>
 <tr><td>b. Gesuche für andere Treibstoffe</td><td>Fr. 1000.–</td></tr>
 <tr><td>7.2 Keine Gebühr wird erhoben für:</td><td></td></tr>
 <tr><td>7.21 zollerleichtert veranlagte Waren, die gegen Verwendungsbezeichnung in der Einfuhrzollanmeldung veranlagt werden</td><td></td></tr>
@@ -228,11 +235,11 @@ Anhang*[^t-1]*
 <tr><td>8.331 von Abgaben, die im nationalen Transitverfahren oder im Verfahren der vorübergehenden Verwendung sichergestellt wurden</td><td></td></tr>
 <tr><td>8.332 bei denen im nationalen Transitverfahren nicht die sichergestellten Abgaben verbucht oder verrechnet werden, sondern die definitive Veranlagung nach der Tarifnummer/Tarifgruppe erfolgt, die dafür in Betracht kommt</td><td></td></tr>
 <tr><td>8.333 von sichergestellten Abgaben für provisorisch veranlagte Waren in Fällen, in denen die provisorische Veranlagung ausdrücklich vorgeschrieben ist oder wegen der Mehrwertsteuer erfolgte</td><td></td></tr>
-<tr><td>8.34 bei Rückerstattungen, die auf Fehler der EZV zurückzuführen sind</td><td></td></tr>
+<tr><td>8.34 bei Rückerstattungen, die auf Fehler des BAZG zurückzuführen sind</td><td></td></tr>
 <tr><td>8.35 beim Erlass der Zollabgaben nach Artikel 86 ZG</td><td></td></tr>
 <tr><td>8.36 bei Rückerstattungen der Automobilsteuer nach Artikel 19 Absatz 2 des Automobilsteuergesetzes vom 21. Juni 1996[^annexu1-lvlu1-4] (inkl. Rückerstattungen bei nachträglicher Herabsetzung des Entgelts) und Rückerstattungen der bei der Einfuhr erhobenen Automobilsteuer (inländische Rückwaren)</td><td></td></tr>
 <tr><td>8.37 bei Rückerstattung bzw. Erlass der Mehrwertsteuer:</td><td></td></tr>
-<tr><td>– nach Artikel 54 Absatz 2 des Mehrwertsteuergesetzes vom 12. Juni 2009[^annexu1-lvlu1-5] (MWSTG) wegen Änderung des Entgelts – wegen Berichtigung der auf Ersatzlieferungen erhobenen Steuer – wegen zu hoher Schätzung der Steuerbemessungsgrundlage durch die EZV – nach Artikel 53 Absatz 1 Buchstabe f MWSTG[^annexu1-lvlu1-6] bei inländischen Rückgegenständen – nach Artikel 64 MWSTG[^annexu1-lvlu1-7] (Steuererlass)</td><td></td></tr>
+<tr><td>– nach Artikel 54 Absatz 2 des Mehrwertsteuergesetzes vom 12. Juni 2009[^annexu1-lvlu1-5] (MWSTG) wegen Änderung des Entgelts – wegen Berichtigung der auf Ersatzlieferungen erhobenen Steuer – wegen zu hoher Schätzung der Steuerbemessungsgrundlage durch das BAZG – nach Artikel 53 Absatz 1 Buchstabe f MWSTG[^annexu1-lvlu1-6] bei inländischen Rückgegenständen – nach Artikel 64 MWSTG[^annexu1-lvlu1-7] (Steuererlass)</td><td></td></tr>
 <tr><td>8.38 für Mineralölsteuer-Rückerstattungen im Zusammenhang mit:</td><td></td></tr>
 <tr><td>– der Rückgewinnung gasförmiger Kohlenwasserstoffe in zugelassenen Lagern oder der Rücküberführung von Waren in zugelassene Lager nach Artikel 18 Absatz 1 Buchstaben a und b des Mineralölsteuergesetzes vom 21. Juni 1996[^annexu1-lvlu1-8] (MinöStG), sofern der Antrag in der periodischen Steueranmeldung gestellt wird – einem Erlass der Steuer nach Artikel 26 MinöStG – einer nachträglichen Korrektur der periodischen Steueranmeldung – einer Umwandlung eines Pflichtlagers ausserhalb zugelassener Lager in ein zugelassenes Lager – einem Spülvorgang mit versteuertem Treibstoff</td><td></td></tr>
 <tr><td>9 Bescheinigungen, Beglaubigungen, Duplikate, Fotokopien oder Fotografien</td><td></td></tr>
@@ -256,7 +263,7 @@ Anhang*[^t-1]*
 <tr><td>9.33 Bescheinigungen, Beglaubigungen sowie Duplikate oder die Wiedergabe von Schriftstücken, die zuhanden einer schweizerischen oder ausländischen Behörde ausgestellt werden</td><td></td></tr>
 <tr><td>9.34 mit e-dec-Import-System im Rahmen der Erstübermittlung beantragte EU-Veranlagungsbescheinigungen</td><td></td></tr>
 <tr><td>10 Anwendung internationaler Abkommen</td><td></td></tr>
-<tr><td>10.1 Übereinkommen vom 20. Mai 1987**[^annexu1-lvlu1-9]** über ein gemeinsames Versandverfahren</td><td></td></tr>
+<tr><td>10.1 Übereinkommen vom 20. Mai 1987[^annexu1-lvlu1-9] über ein gemeinsames Versandverfahren</td><td></td></tr>
 <tr><td>10.11 Eine Gebühr wird erhoben für:</td><td></td></tr>
 <tr><td>10.111 die nachträgliche Beglaubigung von T2L‑Dokumenten</td><td>Fr. 30.–</td></tr>
 <tr><td>10.112 die Beglaubigung von Duplikaten von: – Versandbegleitdokumenten (VBD) im NCTS</td><td>Fr. 25.– je Dokument</td></tr>
@@ -266,9 +273,9 @@ Anhang*[^t-1]*
 <tr><td>– Versandbegleitdokumenten (Ausdruck + Stempel der Zollstelle)</td><td></td></tr>
 <tr><td>10.113 die Aufteilung von VBD im NCTS und in T2L‑Dokumenten</td><td>Fr. 10.– je neues Dokument</td></tr>
 <tr><td>10.114 den nachträglichen Abschluss von VBD im NCTS bei Verfahrens- oder Fristversäumnissen</td><td>nach Ziffer 1</td></tr>
-<tr><td>10.2 ATA-Abkommen vom 6. Dezember 1961**[^annexu1-lvlu1-10]**; Übereinkommen vom 26. Juni 1990**[^annexu1-lvlu1-11]** über die vorübergehende Verwendung</td><td></td></tr>
+<tr><td>10.2 ATA-Abkommen vom 6. Dezember 1961[^annexu1-lvlu1-10]; Übereinkommen vom 26. Juni 1990[^annexu1-lvlu1-11] über die vorübergehende Verwendung</td><td></td></tr>
 <tr><td>10.21 Eine Gebühr wird erhoben für: die Bereinigung von Carnets ATA</td><td>5 % der Eingangsabgaben, mindestens Fr. 20.–, höchstens Fr. 100.–</td></tr>
-<tr><td>10.3 Freihandelsabkommen: Verordnung vom 23. Mai 2012**[^annexu1-lvlu1-12]** über das Ausstellen von Ursprungsnachweisen</td><td></td></tr>
+<tr><td>10.3 Freihandelsabkommen: Verordnung vom 23. Mai 2012[^annexu1-lvlu1-12] über das Ausstellen von Ursprungsnachweisen</td><td></td></tr>
 <tr><td>10.31 Eine Gebühr wird erhoben für:</td><td></td></tr>
 <tr><td>10.311 die Vorprüfung der Warenverkehrsbescheinigung (WVB)</td><td>Fr. 40.–</td></tr>
 <tr><td>10.312 die Nachprüfung bei Unrichtigkeit</td><td>nach Ziffer 1, mindestens Fr. 40.–</td></tr>
@@ -276,7 +283,7 @@ Anhang*[^t-1]*
 <tr><td>10.313 die nachträgliche Ausstellung von WVB</td><td>Fr. 40.– je WVB</td></tr>
 <tr><td>10.314 die Aufteilung von WVB</td><td>Fr. 25.– je neue WVB</td></tr>
 <tr><td>10.315 die Ausstellung von Duplikaten von WVB</td><td>Fr. 25.– je Duplikat</td></tr>
-<tr><td>10.4 Allgemeines Präferenzsystem (APS): Ursprungsregelnverordnung vom 30. März 2011**[^annexu1-lvlu1-13]**</td><td></td></tr>
+<tr><td>10.4 Allgemeines Präferenzsystem (APS): Ursprungsregelnverordnung vom 30. März 2011[^annexu1-lvlu1-13]</td><td></td></tr>
 <tr><td>10.41 Eine Gebühr wird erhoben für:</td><td></td></tr>
 <tr><td>10.411 die nachträgliche Ausstellung von Ursprungszeugnissen (UZ)</td><td>Fr. 40.– je UZ</td></tr>
 <tr><td>10.412 die Aufteilung von UZ</td><td>Fr. 25.– je neues Formular</td></tr>
@@ -288,7 +295,7 @@ Anhang*[^t-1]*
 <tr><td>11.112 – von Duplikaten von Dokumenten im Zusammenhang mit der Erhebung der LSVA und der PSVA</td><td>Fr. 20.– je Dokument</td></tr>
 <tr><td>11.12 andere Tätigkeiten im Zusammenhang mit der Erhebung der LSVA und der PSVA für:</td><td></td></tr>
 <tr><td>11.121 – die Korrektur von Deklarationen und Veranlagungen wegen Versäumnissen der abgabepflichtigen Person</td><td>nach Ziff. 1</td></tr>
-<tr><td>11.122 – die Annahme von Generalbürgschaften als Sicherheit eines LSVA-Kontos bzw. eines Zollkontos im zentralisierten Abrechnungsverfahren der Zollverwaltung</td><td>nach Ziff. 6</td></tr>
+<tr><td>11.122 – die Annahme von Generalbürgschaften als Sicherheit eines LSVA-Kontos bzw. eines Zollkontos im zentralisierten Abrechnungsverfahren des BAZG</td><td>nach Ziff. 6</td></tr>
 <tr><td>11.123 – das Ausstellen der Konformitätsausweise durch die Montagestellen</td><td>Fr. 20.– je Ausweis</td></tr>
 <tr><td>11.13 Rückerstattungen</td><td>nach Ziff. 8.13, unter Berücksichtigung von Ziff. 8.34</td></tr>
 <tr><td>11.14 Nacherhebung der PSVA im Linienverkehr: Mehraufwand infolge verspätet eingereichter Deklaration</td><td>nach Ziff. 1</td></tr>
@@ -300,10 +307,10 @@ Anhang*[^t-1]*
 <tr><td>11.25 das Ausstellen von Mahnungen bei Nichteinhaltung der Deklarationsfrist oder der Zahlungsfrist</td><td></td></tr>
 <tr><td>11.26 Rückerstattungen für Fahrten im UKV und für Rohholztransporte</td><td></td></tr>
 <tr><td>11.27 Rückerstattungen der PSVA für Auslandfahrten sowie für Fahrzeuge, die für die Armee oder den Zivilschutz gemietet werden</td><td></td></tr>
-<tr><td>12 Hilfeleistung der EZV im Bereich des Immaterialgüterrechts (Urheberrechts-, Topographien-, Markenschutz-, Design- und Patentgesetz)</td><td></td></tr>
+<tr><td>12 Hilfeleistung des BAZG im Bereich des Immaterialgüterrechts (Urheberrechts-, Topographien-, Markenschutz-, Design- und Patentgesetz)</td><td></td></tr>
 <tr><td>12.1 Eine Gebühr wird bei der Antragstellerin oder beim Antragsteller auf Hilfeleistung erhoben für:</td><td></td></tr>
-<tr><td>12.11 die Behandlung von Anträgen auf Hilfeleistung der EZV</td><td>nach Ziffer 1.1, mindestens Fr. 1500.–, höchstens Fr. 3000.–</td></tr>
-<tr><td>12.12 jede Erneuerung von Anträgen auf Hilfeleistung der EZV</td><td>nach Ziffer 1.1, mindestens Fr. 500.–, höchstens Fr. 1500.–</td></tr>
+<tr><td>12.11 die Behandlung von Anträgen auf Hilfeleistung des BAZG</td><td>nach Ziffer 1.1, mindestens Fr. 1500.–, höchstens Fr. 3000.–</td></tr>
+<tr><td>12.12 jede Erneuerung von Anträgen auf Hilfeleistung des BAZG</td><td>nach Ziffer 1.1, mindestens Fr. 500.–, höchstens Fr. 1500.–</td></tr>
 <tr><td>12.13 die Ausweitung von Anträgen auf Hilfeleistung auf zusätzliche Werke, Topographien, Marken, Designs oder Erfindungen</td><td>nach Ziffer 1.1, mindestens Fr. 750.–, höchstens Fr. 3000.–</td></tr>
 <tr><td>12.14 jede Meldung an die Antragstellerin oder den Antragsteller, inkl. das Zurückbehalten verdächtiger Sendungen</td><td>nach Ziffer 1.1, mindestens Fr. 50.–</td></tr>
 <tr><td>12.15 die Verlängerung der Frist für das Zurückbehalten verdächtiger Sendungen</td><td>Fr. 30.– je Verlängerung</td></tr>
@@ -325,7 +332,7 @@ Anhang*[^t-1]*
 
 [^annexu1-lvlu1-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^annexu1-lvlu1-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^annexu1-lvlu1-3]: Die Positivliste der Oberzolldirektion kann im Internet bei der Eidgenössischen Zollverwaltung unter www.ezv.admin.ch &gt; Information Firmen &gt; Steuern und Abgaben &gt; Einfuhr in die Schweiz oder Inland &gt; Mineralölsteuer &gt; Biogene Treibstoffe &gt; Ökologische und soziale Nachweise kostenlos abgerufen werden.
+[^annexu1-lvlu1-3]: Die Positivliste der Oberzolldirektion kann im Internet beim BAZG unter www.bazg.admin.ch &gt; Information Firmen &gt; Steuern und Abgaben &gt; Einfuhr in die Schweiz oder Inland &gt; Mineralölsteuer &gt; Biogene Treibstoffe &gt; Ökologische und soziale Nachweise kostenlos abgerufen werden.
 [^annexu1-lvlu1-4]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 [^annexu1-lvlu1-5]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
 [^annexu1-lvlu1-6]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.

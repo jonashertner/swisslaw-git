@@ -3,18 +3,18 @@ sr: "631.035"
 title: Ordinanza del 4 aprile 2007 sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/255"
 language: it
-version: 2018-05-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20180501/it/xml/fedlex-data-admin-ch-eli-cc-2007-255-20180501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20180501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/255/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-255-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/255/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sugli emolumenti dell’Amministrazione federale delle dogane
+# Ordinanza sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini
 
-del 4 aprile 2007 (Stato 1° maggio 2018)
+del 4 aprile 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -28,9 +28,11 @@ ordina:
 
 **Principio**
 
-<sup>1</sup> L’Amministrazione federale delle dogane (Amministrazione delle dogane) non riscuote alcun emolumento per le decisioni e le prestazioni che fornisce nell’ambito della sua attività ordinaria.
+<sup>1</sup> L’ Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-1] non riscuote alcun emolumento per le decisioni e le prestazioni che fornisce nell’ambito della sua attività ordinaria.
 
-<sup>2</sup> L’Amministrazione delle dogane riscuote gli emolumenti menzionati nell’appendice per le sue decisioni e prestazioni particolari.
+<sup>2</sup> L’UDSC riscuote gli emolumenti menzionati nell’appendice per le sue decisioni e prestazioni particolari.
+
+[^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -44,7 +46,7 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 **Mancato versamento dell’anticipo**
 
-Se non si versa l’anticipo o la garanzia richiesta in virtù dell’articolo 10 OgeEm[^3-1], l’Amministrazione delle dogane non fornisce alcuna prestazione.
+Se non si versa l’anticipo o la garanzia richiesta in virtù dell’articolo 10 OgeEm[^3-1], l’UDSC non fornisce alcuna prestazione.
 
 [^3-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
@@ -74,19 +76,19 @@ L’ordinanza del 22 agosto 1984[^6-1] sulle tasse dell’Amministrazione delle 
 
 La presente ordinanza entra in vigore il 1° maggio 2007.
 
-Appendice*[^t-1]*
+Appendice[^t-1]
 
 (art. 1 cpv. 2)
 
 ## Tariffa degli emolumenti
 
-[^t-1]: Aggiornato dal n. III 1 dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), dal n. I dell’O del 21 mag. 2008 ([RU 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), dal n. III dell’O dell’8 apr. 2009 ([RU 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), dal n. 2 dell’all. all’O del 23 mag. 2012 sul rilascio di prove dell’origine ([RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), dal n. 2 dell’all. all’O del 27 gen. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) e dal n. II dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^t-1]: Aggiornato dal n. III 1 dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)), dal n. I dell’O del 21 mag. 2008 ([RU 2008 2627](https://fedlex.data.admin.ch/eli/oc/2008/370)), dal n. III dell’O dell’8 apr. 2009 ([RU 2009 1569](https://fedlex.data.admin.ch/eli/oc/2009/228)), dall’all. n. 2 dell’O del 23 mag. 2012 sul rilascio di prove dell’origine ([RU 2012 3477](https://fedlex.data.admin.ch/eli/oc/2012/393)), dall’all. n. 2 dell’O del 27 gen. 2016 ([RU 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)) e dal n. II dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
 <table>
 <tr><th colspan="2">Cifra</th><th>Tassa</th></tr>
 <tr><td colspan="2">1 Emolumenti calcolati secondo la tariffa oraria</td><td></td></tr>
 <tr><td colspan="2">1.1 Un emolumento è riscosso per:</td><td></td></tr>
-<tr><td colspan="2">– operazioni ufficiali fuori dell’area ufficiale, – scorte doganali, sorveglianze e controlli, – la predisposizione o la tenuta di controlli che spettano al contribuente ma che questi non ha eseguito o ha eseguito in modo non conforme alle prescrizioni – rettificazioni e annullamenti, anche nelle procedure con il sistema e-dec Importazione (e-dec) o con il nuovo sistema di transito informatizzato (NCTS), – analisi chimico-tecniche, – domande d’intervento dell’Amministrazione delle dogane in materia di proprietà intellettuale (cifra 12)</td><td>[tab]</td></tr>
+<tr><td colspan="2">– operazioni ufficiali fuori dell’area ufficiale, – scorte doganali, sorveglianze e controlli, – la predisposizione o la tenuta di controlli che spettano al contribuente ma che questi non ha eseguito o ha eseguito in modo non conforme alle prescrizioni – rettificazioni e annullamenti, anche nelle procedure con il sistema e-dec Importazione (e-dec) o con il nuovo sistema di transito informatizzato (NCTS), – analisi chimico-tecniche, – domande d’intervento dell’UDSC in materia di proprietà intellettuale (cifra 12)</td><td>[tab]</td></tr>
 <tr><td></td><td>per ogni impiegato e per quarto d’ora:</td><td></td></tr>
 <tr><td></td><td>a. durante l’orario d’apertura degli uffici</td><td>fr. 22.–</td></tr>
 <tr><td></td><td>b. fuori dell’orario d’apertura degli uffici</td><td>fr. 27.–</td></tr>
@@ -102,7 +104,7 @@ Appendice*[^t-1]*
 <tr><td></td><td>a. durante l’orario d’apertura degli uffici</td><td>fr. 11.–</td></tr>
 <tr><td></td><td>b. fuori dell’orario d’apertura degli uffici</td><td>fr. 13.50</td></tr>
 <tr><td>1.3</td><td>Non è riscosso alcun emolumento:</td><td></td></tr>
-<tr><td>1.31</td><td>per operazioni ufficiali necessarie a cagione di un errore dell’Amministrazione delle dogane;</td><td></td></tr>
+<tr><td>1.31</td><td>per operazioni ufficiali necessarie a cagione di un errore dell’UDSC;</td><td></td></tr>
 <tr><td>1.32</td><td>nella procedura doganale con e-dec per:</td><td></td></tr>
 <tr><td>1.321</td><td>per correzioni di dichiarazioni doganali effettuate prima dell’esame formale delle dichiarazioni doganali selezionate (bloccate o libere/con);</td><td></td></tr>
 <tr><td>1.322</td><td>per la trasformazione, dopo la scadenza, di imposizioni provvisorie in imposizioni definitive appurate automaticamente dal sistema e-dec;</td><td></td></tr>
@@ -114,10 +116,10 @@ Appendice*[^t-1]*
 <tr><td>1.34</td><td>per visite fuori dell’area ufficiale, controlli aziendali e controlli presso speditori/destinatari autorizzati o in depositi doganali aperti su ordine dell’ufficio doganale;</td><td></td></tr>
 <tr><td>1.35</td><td>per l’imposizione durante gli orari d’apertura degli uffici doganali d’esposizione;</td><td></td></tr>
 <tr><td>1.36</td><td>per l’apposizione da parte della dogana di piombi e di contrassegni doganali, secondo la cifra 1.23 (al massimo 20 pezzi per invio);</td><td></td></tr>
-<tr><td>1.37</td><td>nel traffico ferroviario, sempre che non si debba impiegare del personale dell’AFD: – per l’accettazione di treni, – per il controllo di treni, – per il controllo di caricamenti;</td><td></td></tr>
+<tr><td>1.37</td><td>nel traffico ferroviario, sempre che non si debba impiegare del personale dell’UDSC: – per l’accettazione di treni, – per il controllo di treni, – per il controllo di caricamenti;</td><td></td></tr>
 <tr><td>1.38</td><td>nel traffico aereo: per operazioni ufficiali in correlazione diretta:</td><td></td></tr>
 <tr><td></td><td>– con la riparazione di aeromobili in servizio;</td><td></td></tr>
-<tr><td>1.39</td><td>per analisi chimico-tecniche ordinate dall’Amministrazione delle dogane.</td><td></td></tr>
+<tr><td>1.39</td><td>per analisi chimico-tecniche ordinate dall’UDSC.</td><td></td></tr>
 <tr><td>2</td><td>Imposizione fuori dell’orario d’apertura degli uffici doganali: per imposizione</td><td></td></tr>
 <tr><td>2.1</td><td>**Un emolumento è riscosso per: l’imposizione fuori dell’orario d’apertura degli uffici doganali**</td><td>fr. 30.– per imposizione</td></tr>
 <tr><td>2.2</td><td>Nessun emolumento è riscosso:</td><td></td></tr>
@@ -137,7 +139,7 @@ Appendice*[^t-1]*
 <tr><td>2.284</td><td>per il transito in caso di chiusura momentanea di un aeroporto,</td><td></td></tr>
 <tr><td>2.285</td><td>per merci soggette a rapido deterioramento;</td><td></td></tr>
 <tr><td>2.29</td><td>nel traffico della zona di frontiera e nel traffico delle zone franche dell’Alta Savoia e del Paese di Gex.</td><td></td></tr>
-<tr><td>3</td><td>Uso di bilance, gru e altri congegni appartenenti all’Amministrazione delle dogane</td><td></td></tr>
+<tr><td>3</td><td>Uso di bilance, gru e altri congegni appartenenti all’UDSC</td><td></td></tr>
 <tr><td>3.1</td><td>Un emolumento è riscosso per:</td><td></td></tr>
 <tr><td>3.11</td><td>pesature su bilance a ponte e bilance pesaruote</td><td>fr. 30.– per pesatura</td></tr>
 <tr><td>3.12</td><td>pesature su altre bilance</td><td>fr. 2.–: per 100 kg o frazione di essi al massimo fr. 25.– per invio</td></tr>
@@ -148,7 +150,7 @@ Appendice*[^t-1]*
 <tr><td>3.22</td><td>pesature/tarature su bilance a ponte e bilance pesaruote, per verificazioni del peso ordinate dalla dogana o dalla polizia, sempre che il peso accertato non sia contestato;</td><td></td></tr>
 <tr><td>3.23</td><td>pesature su bilance site in magazzini o su rampe: – effettuate dal contribuente, a suo rischio e pericolo (senza accertamento da parte della dogana), – nel traffico con imprese pubbliche di trasporto, – per pesature di controllo, allorquando la differenza di peso non supera il 3 per cento del peso annunciato, – nel regime di transito nazionale o d’ammissione temporanea, – per merci nel traffico turistico e nel traffico di confine;</td><td></td></tr>
 <tr><td>3.24</td><td>l’uso di gru e simili: – all’atto della presentazione in dogana, – per ordine dell’ufficio doganale.</td><td></td></tr>
-<tr><td>4</td><td>Uso di locali e aree ufficiali dell’Amministrazione delle dogane in vista del deposito di merci o per la sosta di veicoli</td><td></td></tr>
+<tr><td>4</td><td>Uso di locali e aree ufficiali dell’UDSC in vista del deposito di merci o per la sosta di veicoli</td><td></td></tr>
 <tr><td>4.1</td><td>Un emolumento è riscosso per:</td><td></td></tr>
 <tr><td>4.11</td><td>il deposito di merci, per 100 kg o frazione di essi, per giorno</td><td>fr. 2.–, al minimo, fr. 7.–</td></tr>
 <tr><td>4.12</td><td>la sosta di veicoli carichi o vuoti per giorno e per veicolo o convoglio d’un peso totale:</td><td></td></tr>
@@ -162,7 +164,7 @@ Appendice*[^t-1]*
 <tr><td>4.24</td><td>merci scaricate sulla rampa o nel magazzino doganale ai fini dell’imposizione secondo il peso netto, di un esame, di un prelevamento di campioni o di una pesatura e successivamente ricaricate sullo stesso veicolo;</td><td></td></tr>
 <tr><td>4.25</td><td>merci alle quali la persona soggetta all’obbligo di dichiarazione rinuncia;</td><td></td></tr>
 <tr><td>4.26</td><td>merci del traffico turistico lasciate in custodia della dogana;</td><td></td></tr>
-<tr><td>4.27</td><td>merci sequestrate, sempre che non siano trattenute nell’ambito della collaborazione dell’AFD, in virtù della legislazione applicabile in materia di proprietà intellettuale.</td><td></td></tr>
+<tr><td>4.27</td><td>merci sequestrate, sempre che non siano trattenute nell’ambito della collaborazione dell’UDSC, in virtù della legislazione applicabile in materia di proprietà intellettuale.</td><td></td></tr>
 <tr><td>5</td><td>Rilascio di autorizzazioni e proroghe di termini</td><td></td></tr>
 <tr><td>5.1</td><td>Un emolumento è riscosso per:</td><td></td></tr>
 <tr><td>5.11</td><td>il rilascio di autorizzazioni: secondo le circostanze, l’importanza e il tempo investito</td><td>da fr. 20.– a fr. 1000.–</td></tr>
@@ -209,7 +211,7 @@ Appendice*[^t-1]*
 <tr><td>8.13</td><td>altre restituzioni</td><td>5 % dell’importo da restituire o dell’importo da cui è sgravata la fideiussione al minimo fr. 30.– al massimo fr. 500.–</td></tr>
 <tr><td>8.2</td><td>Un emolumento ridotto è riscosso:</td><td></td></tr>
 <tr><td>8.21</td><td>per le restituzioni sui carburanti impiegati nell’agricoltura, nella silvicoltura, nell’estrazione della pietra naturale o nella pesca professionale</td><td>3 % dell’importo da restituire al minimo fr. 25.– al massimo fr. 500.–</td></tr>
-<tr><td>8.22</td><td>nel traffico postale, in caso di riesportazione di prodotti lasciati in custodia della Posta o dell’impresa concessionaria, per la restituzione di tributi d’entrata addebitati sul conto PCD (procedura accentrata di conteggio dell’AFD), della Posta o dell’impresa concessionaria</td><td>fr. 1.– per invio, al minimo ½ ora per domanda (mod. 25.74)</td></tr>
+<tr><td>8.22</td><td>nel traffico postale, in caso di riesportazione di prodotti lasciati in custodia della Posta o dell’impresa concessionaria, per la restituzione di tributi d’entrata addebitati sul conto PCD (procedura accentrata di conteggio dell’UDSC), della Posta o dell’impresa concessionaria</td><td>fr. 1.– per invio, al minimo ½ ora per domanda (mod. 25.74)</td></tr>
 <tr><td>8.23</td><td>per l’ammissione posticipata in franchigia di masserizie di trasloco, di corredi nuziali e di oggetti ereditati</td><td>5 % dell’importo da restituire, al minimo fr. 25.– al massimo fr. 150.–</td></tr>
 <tr><td>8.3</td><td>Nessun emolumento è riscosso:</td><td></td></tr>
 <tr><td>8.31</td><td>in caso di restituzioni di imposizioni nel traffico turistico e in quello di confine;</td><td></td></tr>
@@ -218,10 +220,10 @@ Appendice*[^t-1]*
 <tr><td>8.331</td><td>di tributi garantiti nel regime di transito nazionale o nel regime di ammissione temporanea,</td><td></td></tr>
 <tr><td>8.332</td><td>nel regime di transito nazionale, allorquando i tributi garantiti non sono allibrati/conteggiati ma si procede all’imposizione definitiva secondo la voce o il gruppo di tariffa entrante in considerazione nel caso specifico,</td><td></td></tr>
 <tr><td>8.333</td><td>di tributi garantiti per merci imposte provvisoriamente allorquando l’imposizione provvisoria è espressamente prescritta o è stata effettuata a causa dell’IVA;</td><td></td></tr>
-<tr><td>8.34</td><td>trattandosi di restituzioni risultanti da errori commessi dall’Amministrazione delle dogane;</td><td></td></tr>
+<tr><td>8.34</td><td>trattandosi di restituzioni risultanti da errori commessi dall’UDSC;</td><td></td></tr>
 <tr><td>8.35</td><td>trattandosi di condono di tributi secondo l’articolo 86 della legge sulle dogane (LD);</td><td></td></tr>
 <tr><td>8.36</td><td>trattandosi di restituzioni dell’imposta sugli autoveicoli in virtù dell’articolo 19 capoverso 2 della legge federale del 21 giugno 1996[^annexu1-lvlu1-4] sull’imposizione degli autoveicoli (incluse le restituzioni in caso di riduzione posticipata della controprestazione) e di restituzioni di tale imposta riscossa all’atto della reimportazione (merci indigene di ritorno);</td><td></td></tr>
-<tr><td>8.37</td><td>in caso di restituzioni e condoni dell’IVA: – vincolati a una modifica della controprestazione secondo l’articolo 54 capoverso 2 della legge federale del 12 giugno 2009[^annexu1-lvlu1-5] concernente l’imposta sul valore aggiunto (LIVA), – vincolati all’adeguamento dell’imposta riscossa sulle forniture di restituzione, – in seguito alla stima troppo alta della base di calcolo dell’imposta effettuata dall’Amministrazione delle dogane, – vincolati a beni di ritorno di origine svizzera secondo l’articolo 53 capoverso 1 lettera f LIVA[^annexu1-lvlu1-6], – vincolati a condono dell’imposta secondo l’articolo 64 LIVA[^annexu1-lvlu1-7];</td><td></td></tr>
+<tr><td>8.37</td><td>in caso di restituzioni e condoni dell’IVA: – vincolati a una modifica della controprestazione secondo l’articolo 54 capoverso 2 della legge federale del 12 giugno 2009[^annexu1-lvlu1-5] concernente l’imposta sul valore aggiunto (LIVA), – vincolati all’adeguamento dell’imposta riscossa sulle forniture di restituzione, – in seguito alla stima troppo alta della base di calcolo dell’imposta effettuata dall’UDSC, – vincolati a beni di ritorno di origine svizzera secondo l’articolo 53 capoverso 1 lettera f LIVA[^annexu1-lvlu1-6], – vincolati a condono dell’imposta secondo l’articolo 64 LIVA[^annexu1-lvlu1-7];</td><td></td></tr>
 <tr><td>8.38</td><td>in caso di restituzioni dell’imposta sugli oli minerali: – vincolate al recupero di vapori di idrocarburi in depositi autorizzati o alla reimmissione di merci in un deposito autorizzato secondo l’articolo 18 capoverso 1 lettere a e b della legge del 21 giugno 1996[^annexu1-lvlu1-8] sull’imposizione degli oli minerali (LIOm), sempre che il computo avvenga con la dichiarazione fiscale periodica, – vincolate a condoni dell’imposta secondo l’articolo 26 LIOm, – vincolate alla rettificazione posticipata di una dichiarazione fiscale periodica, – vincolate alla trasformazione di un deposito di scorte obbligatorie in un deposito autorizzato, – vincolate ad un risciacquo con carburante imposto.</td><td></td></tr>
 <tr><td>9</td><td>Attestazioni, autenticazioni, duplicati, fotocopie e fotografie</td><td></td></tr>
 <tr><td>9.1</td><td>Un emolumento è riscosso per:</td><td></td></tr>
@@ -244,22 +246,22 @@ Appendice*[^t-1]*
 <tr><td>9.33</td><td>le attestazioni, autenticazioni nonché per i duplicati o la riproduzione di documenti allestiti per autorità svizzere o estere;</td><td></td></tr>
 <tr><td>9.34</td><td>attestazioni d’imposizione UE nell’ambito della prima trasmissione via e-dec Importazione.</td><td></td></tr>
 <tr><td>10</td><td>Applicazione di accordi internazionali</td><td></td></tr>
-<tr><td>10.1</td><td>Convenzione del 20 maggio 1987**[^annexu1-lvlu1-9]** relativa ad un regime comune di transito</td><td></td></tr>
+<tr><td>10.1</td><td>Convenzione del 20 maggio 1987[^annexu1-lvlu1-9] relativa ad un regime comune di transito</td><td></td></tr>
 <tr><td>10.11</td><td>Un emolumento è riscosso per:</td><td></td></tr>
 <tr><td>10.111</td><td>l’autenticazione posticipata di documenti T2L;</td><td>fr. 30.–</td></tr>
 <tr><td>10.112</td><td>l’autenticazione di duplicati di: – documenti di accompagnamento nel NCTS, – documenti T2L, – liste di carico, – ricevute, – documenti di accompagnamento a titolo di duplicato (stampa + timbro dell’ufficio doganale);</td><td>fr. 25.– per documento</td></tr>
 <tr><td>10.113</td><td>la ripartizione di documenti d’accompagnamento nel NCTS e di documenti T2L</td><td>fr. 10.– per ogni nuovo documento</td></tr>
 <tr><td>10.114</td><td>lo scarico posticipato di documenti T in caso d’inosservanza della procedura o del termine</td><td>emolumento secondo la cifra 1</td></tr>
-<tr><td>10.2</td><td>Convenzione A.T.A. del 6 dicembre 1961**[^annexu1-lvlu1-10]**; Convenzione del 26 giugno 1990**[^annexu1-lvlu1-11]** relativa all’ammissione temporanea</td><td></td></tr>
+<tr><td>10.2</td><td>Convenzione A.T.A. del 6 dicembre 1961[^annexu1-lvlu1-10]; Convenzione del 26 giugno 1990[^annexu1-lvlu1-11] relativa all’ammissione temporanea</td><td></td></tr>
 <tr><td>10.21</td><td>Un emolumento è riscosso per la regolarizzazione di libretti A.T.A dei tributi d’entrata</td><td>5 % dei tributi d’entrata al minimo fr. 20.–al massimo fr. 100.–</td></tr>
-<tr><td>10.3</td><td>Accordi di libero scambio: ordinanza del 23 maggio 2012**[^annexu1-lvlu1-12]** sul rilascio di prove dell’origine</td><td></td></tr>
+<tr><td>10.3</td><td>Accordi di libero scambio: ordinanza del 23 maggio 2012[^annexu1-lvlu1-12] sul rilascio di prove dell’origine</td><td></td></tr>
 <tr><td>10.31</td><td>Un emolumento è riscosso per:</td><td></td></tr>
 <tr><td>10.311</td><td>l’esame preliminare dei certificati di circolazione delle merci (CCM),</td><td>fr. 40.–</td></tr>
 <tr><td>10.312</td><td>l’esame posticipato, se la prova d’origine non è in ordine</td><td>emolumento secondo la cifra 1 al minimo fr. 40.–</td></tr>
 <tr><td>10.313</td><td>il rilascio posticipato di CCM</td><td>fr. 40.– per CCM</td></tr>
 <tr><td>10.314</td><td>la ripartizione di CCM</td><td>fr. 25.– per ogni nuovo CCM</td></tr>
 <tr><td>10.315</td><td>il rilascio di duplicati di CCM</td><td>fr. 25.– per duplicato</td></tr>
-<tr><td>10.4</td><td>Sistema generale di preferenze (SGP): ordinanza del 30 marzo 2011**[^annexu1-lvlu1-13]** sulle regole d’origine</td><td></td></tr>
+<tr><td>10.4</td><td>Sistema generale di preferenze (SGP): ordinanza del 30 marzo 2011[^annexu1-lvlu1-13] sulle regole d’origine</td><td></td></tr>
 <tr><td>10.41</td><td>Un emolumento è riscosso per:</td><td></td></tr>
 <tr><td>10.411</td><td>il rilascio posticipato di CO</td><td>fr. 40.– per CO</td></tr>
 <tr><td>10.412</td><td>la ripartizione di CO</td><td>fr. 25.– per ogni nuovo mod.</td></tr>
@@ -271,7 +273,7 @@ Appendice*[^t-1]*
 <tr><td colspan="2">11.112 – di duplicati di documenti in correlazione con la riscossione della TTPCP e della TFTP</td><td>fr. 20.– per documento</td></tr>
 <tr><td colspan="2">11.12 altre attività in correlazione con la riscossione della TTPCP o della TFTP per:</td><td></td></tr>
 <tr><td colspan="2">11.121 – la correzione di dichiarazioni e tassazioni a causa di dimenticanze della persona assoggettata al pagamento della tassa</td><td>emolumento secondo la cifra 1</td></tr>
-<tr><td colspan="2">11.122 – l’accettazione di fideiussioni generali a titolo di garanzia di un conto TTPCP o di un conto doganale nella procedura accentrata di conteggio dell’Amministrazione delle dogane</td><td>emolumento secondo la cifra 6</td></tr>
+<tr><td colspan="2">11.122 – l’accettazione di fideiussioni generali a titolo di garanzia di un conto TTPCP o di un conto doganale nella procedura accentrata di conteggio dell’UDSC</td><td>emolumento secondo la cifra 6</td></tr>
 <tr><td colspan="2">11.123 – il rilascio delle attestazioni di conformità da parte delle officine di montaggio</td><td>fr. 20. – per attestazione</td></tr>
 <tr><td colspan="2">11.13 le restituzioni</td><td>emolumento secondo la cifra 8.13, tenuto conto della cifra 8.34</td></tr>
 <tr><td colspan="2">11.14 la riscossione posticipata della TFTP nel traffico di linea: onere supplementare a causa della presentazione in ritardo della dichiarazione</td><td>emolumento secondo la cifra 1</td></tr>
@@ -283,10 +285,10 @@ Appendice*[^t-1]*
 <tr><td colspan="2">11.25 il rilascio di diffide in caso di mancata osservanza del termine di dichiarazione o di pagamento</td><td></td></tr>
 <tr><td colspan="2">11.26 le restituzioni in correlazione con corse nel TCNA o per trasporti di legname greggio</td><td></td></tr>
 <tr><td colspan="2">11.27 le restituzioni della TFTP per le corse all’estero e per i veicoli noleggiati per l’Esercito o la protezione civile</td><td></td></tr>
-<tr><td colspan="2">12 Intervento dell’Amministrazione delle dogane in materia di proprietà intellettuale (legge sul diritto d’autore, sulle topografie, sulla protezione dei marchi, sul design e sui brevetti)</td><td></td></tr>
+<tr><td colspan="2">12 Intervento dell’UDSC in materia di proprietà intellettuale (legge sul diritto d’autore, sulle topografie, sulla protezione dei marchi, sul design e sui brevetti)</td><td></td></tr>
 <tr><td colspan="2">12.1 Un emolumento è riscosso presso il richiedente di un intervento per:</td><td></td></tr>
-<tr><td colspan="2">12.11 trattazione di domande d’intervento dell’Amministrazione delle dogane</td><td>secondo la cifra 1.1 almeno fr. 1500.–, al massimo fr. 3000.–</td></tr>
-<tr><td colspan="2">12.12 ogni rinnovo di domande d’intervento dell’Amministrazione delle dogane</td><td>secondo la cifra 1.1 almeno fr. 500.–, al massimo fr. 1500.–</td></tr>
+<tr><td colspan="2">12.11 trattazione di domande d’intervento dell’UDSC</td><td>secondo la cifra 1.1 almeno fr. 1500.–, al massimo fr. 3000.–</td></tr>
+<tr><td colspan="2">12.12 ogni rinnovo di domande d’intervento dell’UDSC</td><td>secondo la cifra 1.1 almeno fr. 500.–, al massimo fr. 1500.–</td></tr>
 <tr><td colspan="2">12.13 estensione delle domande d’intervento a merci, topografie, marchi, design o invenzioni supplementari</td><td>secondo la cifra 1.1 almeno fr. 750.–, al massimo fr. 3000.–</td></tr>
 <tr><td colspan="2">12.14 ogni comunicazione al richiedente, incl. la ritenzione di invii sospetti</td><td>secondo la cifra 1.1 almeno fr. 50.–</td></tr>
 <tr><td colspan="2">12.15 proroga del termine per la ritenzione degli invii sospetti</td><td>fr. 30.– per proroga</td></tr>
@@ -307,7 +309,7 @@ Appendice*[^t-1]*
 
 [^annexu1-lvlu1-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^annexu1-lvlu1-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^annexu1-lvlu1-3]: La lista positiva della Direzione generale delle dogane può essere scaricata gratuitamente dal sito dell’AFD: www.ezv.admin.ch &gt; Informazioni per ditte / Imposte e tributi / Importazione in Svizzera oppure Territorio svizzero &gt; Imposta sugli oli minerali &gt; Carburanti provenienti da materie prime rinnovabili &gt; Prova delle esigenze ecologiche e sociali minime.
+[^annexu1-lvlu1-3]: La lista positiva della Direzione generale delle dogane può essere scaricata gratuitamente dal sito dall’UDSC: www.ezv.admin.ch &gt; Informazioni per ditte / Imposte e tributi / Importazione in Svizzera oppure Territorio svizzero &gt; Imposta sugli oli minerali &gt; Carburanti provenienti da materie prime rinnovabili &gt; Prova delle esigenze ecologiche e sociali minime.
 [^annexu1-lvlu1-4]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
 [^annexu1-lvlu1-5]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615).Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^annexu1-lvlu1-6]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
