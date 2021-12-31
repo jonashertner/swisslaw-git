@@ -4,13 +4,13 @@ number: "162"
 title: Gesetz über die Information und den Datenschutz
 short: "Informations- und Datenschutzgesetz, IDG"
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-06-01
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-01-14
 adopted: 2011-02-10
 in_force: 2013-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/162"
-pdf: "https://bl.clex.ch/api/de/versions/1968/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +19,15 @@ pdf: "https://bl.clex.ch/api/de/versions/1968/pdf_file"
 
 (Informations- und Datenschutzgesetz, IDG)
 
-Vom 10.02.2011 (Stand 01.01.2018)
+Vom 10.02.2011 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft,
 
-gestützt auf § 63 Absatz 1 sowie § 6 Absatz 2 Buchstabe g und § 56 Absätze 2 und 3 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 63 Abs. 1 sowie § 6 Abs. 2 Bst. g und § 56 Abs. 2 und 3 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
 
 beschliesst:[^ingress-2]
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art63)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
 [^ingress-2]: Vom Landrat mit 4/5-Mehr beschlossen. Referendumsfrist unbenützt abgelaufen am 14. April 2011.
 
 ## 1 Allgemeine Bestimmungen
@@ -41,7 +41,7 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Es bezweckt:
 
 - a. das Handeln der öffentlichen Organe transparent zu gestalten und damit die freie Meinungsbildung und die Wahrnehmung der demokratischen Rechte zu fördern, soweit nicht überwiegende öffentliche oder private Interessen entgegen stehen, und
-- b. die Grundrechte von Personen zu schützen, über welche die öffentlichen Organe Personendaten bearbeiten.
+- b. die Grundrechte von natürlichen Personen zu schützen, über welche die öffentlichen Organe Personendaten bearbeiten.
 
 <sup>3</sup> Regierungsrat und Landrat sorgen dafür, dass interkantonale Institutionen mit basellandschaftlicher Beteiligung einen gleichwertigen Datenschutz gewährleisten.
 
@@ -49,13 +49,15 @@ beschliesst:[^ingress-2]
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz gilt für alle öffentlichen Organe gemäss § 3 Absatz 1.
+<sup>1</sup> Dieses Gesetz gilt für alle öffentlichen Organe gemäss § 3 Abs. 1.
 
 <sup>2</sup> Es findet keine Anwendung:
 
-- a. soweit ein öffentliches Organ am wirtschaftlichen Wettbewerb teilnimmt und dabei privatrechtlich handelt;
-- b. in hängigen Verfahren der Zivilrechts- und Strafrechtspflege;
-- c. in hängigen Verfahren der Verfassungs- und Verwaltungsgerichtsbarkeit.
+- a. soweit ein öffentliches Organ am wirtschaftlichen Wettbewerb teilnimmt und dabei privatrechtlich handelt.
+- b. …
+- c. …
+
+<sup>2<sup>bis</sup></sup> Die Rechte und Ansprüche der betroffenen Person während hängigen Verfahren der Zivilrechts- und Strafrechtspflege, der Verfassungs- und Verwaltungsgerichtsbarkeit sowie während hängigen Rechtshilfeverfahren richten sich ausschliesslich nach dem anwendbaren Verfahrensrecht.
 
 <sup>3</sup> Abweichende und ergänzende Bestimmungen in anderen Gesetzen bleiben vorbehalten, sofern sie den Schutz der Grundrechte von Personen, über welche die öffentlichen Organe Personendaten bearbeiten, im Sinne dieses Gesetzes sicherstellen.
 
@@ -71,20 +73,26 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Informationen im Sinne dieses Gesetzes sind alle Aufzeichnungen, welche die Erfüllung einer öffentlichen Aufgabe betreffen, unabhängig von ihrer Darstellungsform und ihrem Informationsträger.
 
-<sup>3</sup> Personendaten sind Informationen, die sich auf eine bestimmte oder bestimmbare natürliche oder juristische Person beziehen.
+<sup>3</sup> Personendaten sind Informationen, die sich auf eine bestimmte oder bestimmbare natürliche Person beziehen.
 
 <sup>4</sup> Besondere Personendaten sind:
 
 - a. Personendaten, bei deren Bearbeitung eine besondere Gefahr der Grundrechtsverletzung besteht, insbesondere Angaben über:
   - 1\. die religiösen, weltanschaulichen, politischen oder gewerkschaftlichen Ansichten oder Tätigkeiten,
-  - 2\. die Gesundheit, das Erbgut, die Intimsphäre oder die Rassenzugehörigkeit,
+  - 2\. die Gesundheit, das Erbgut (genetische Daten), die Intimsphäre oder die ethnische Herkunft,
+  - 2<sup>bis</sup>. Behinderungen,
   - 3\. Massnahmen der sozialen Hilfe,
-  - 4\. administrative oder strafrechtliche Verfolgungen und Sanktionen.
+  - 4\. administrative oder strafrechtliche Verfolgungen und Sanktionen,
+  - 5\. mit speziellen technischen Verfahren gewonnene personenbezogene Daten zu den physischen, physiologischen oder verhaltenstypischen Merkmalen einer natürlichen Person, welche die eindeutige Identifizierung dieser Person ermöglichen oder bestätigen (biometrische Daten).
 - b. Zusammenstellungen von Informationen, die eine Beurteilung wesentlicher Aspekte der Persönlichkeit einer natürlichen Person erlauben (Persönlichkeitsprofil).
 
-<sup>5</sup> Bearbeiten ist jeder Umgang mit Informationen wie das Beschaffen, Aufbewahren, Verwenden, Verändern, Bekanntgeben oder Vernichten, unabhängig von den angewandten Mitteln und Verfahren.
+<sup>5</sup> Bearbeiten ist jeder Umgang mit Informationen, unabhängig von den angewandten Mitteln und Verfahren, insbesondere das Beschaffen, Aufbewahren, Lesen, Verändern, Bekanntgeben, Archivieren, Löschen oder Vernichten sowie das Durchführen logischer und/oder rechnerischer Operationen mit diesen Informationen.
 
 <sup>6</sup> Bekanntgeben ist jedes Zugänglichmachen von Informationen wie das Einsichtgewähren, Weitergeben oder Veröffentlichen.
+
+<sup>7</sup> Profiling ist jede Auswertung von Informationen, um wesentliche persönliche Merkmale zu analysieren oder Entwicklungen vorherzusagen, insbesondere bezüglich Arbeitsleistung, wirtschaftliche Lage, Gesundheit, Intimsphäre oder Mobilität.
+
+<sup>8</sup> Auftragsdatenbearbeiterin oder Auftragsdatenbearbeiter ist die private Person oder das öffentliche Organ, die oder das Informationen im Auftrag des öffentlichen Organs bearbeitet, welches für die Bearbeitung verantwortlich ist.
 
 ## 2 Allgemeine Grundsätze für den Umgang mit Informationen
 
@@ -106,18 +114,24 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Verantwortung für den Umgang mit Informationen trägt dasjenige öffentliche Organ, das die Informationen zur Erfüllung seiner gesetzlichen Aufgaben bearbeitet.
 
-<sup>2</sup> Bearbeiten mehrere öffentliche Organe einen gemeinsamen Informationsbestand, regeln sie die Verantwortung untereinander.
+<sup>2</sup> Bearbeiten mehrere öffentliche Organe einen gemeinsamen Informationsbestand, regeln sie die Verantwortung untereinander und legen fest, welches öffentliche Organ die Gesamtverantwortung trägt.
+
+<sup>3</sup> Das verantwortliche öffentliche Organ muss gegenüber der Aufsichtsstelle Datenschutz nachweisen können, dass es die Datenschutzbestimmungen einhält.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere für die kantonale Verwaltung, der Gemeinderat regelt das Nähere für die kommunale Verwaltung. Soweit Gemeinden keine Regelungen erlassen, gelten diejenigen für die kantonale Verwaltung.
 
 #### § 7
 
 **Bearbeiten im Auftrag**
 
-<sup>1</sup> Das öffentliche Organ kann das Bearbeiten von Informationen Dritten übertragen, wenn:
+<sup>1</sup> Das öffentliche Organ kann das Bearbeiten von Informationen einer Auftragsdatenbearbeiterin oder einem Auftragsdatenbearbeiter übertragen, wenn:
 
 - a. keine rechtliche Bestimmung oder vertragliche Vereinbarung entgegensteht und
 - b. sichergestellt wird, dass die Informationen nur so bearbeitet werden, wie es das öffentliche Organ tun dürfte.
 
 <sup>2</sup> Das öffentliche Organ bleibt für den Umgang mit Informationen nach diesem Gesetz verantwortlich.
+
+<sup>3</sup> Die Auftragsdatenbearbeiterin oder der Auftragsdatenbearbeiter darf ohne vorgängige schriftliche Zustimmung des auftraggebenden öffentlichen Organs die Informationsbearbeitung keiner weiteren Auftragsdatenbearbeiterin oder keinem weiteren Auftragsdatenbearbeiter übertragen.
 
 #### § 8
 
@@ -140,18 +154,46 @@ beschliesst:[^ingress-2]
 - a. dafür eine gesetzliche Grundlage besteht oder
 - b. dies zur Erfüllung einer gesetzlichen Aufgabe erforderlich ist.
 
-<sup>2</sup> Besondere Personendaten dürfen bearbeitet werden, wenn
+<sup>2</sup> Besondere Personendaten dürfen bearbeitet und ein Profiling darf nur vorgenommen werden, wenn:
 
 - a. sich die Zulässigkeit ausdrücklich aus einem Gesetz ergibt oder
 - b. dies zur Erfüllung einer im Gesetz ausdrücklich umschriebenen Aufgabe erforderlich ist.
 
 <sup>3</sup> Das Bearbeiten von Personendaten hat nach Treu und Glauben zu erfolgen und muss verhältnismässig sein.
 
+<sup>4</sup> Personendaten dürfen nur so lange bearbeitet werden, als es zur Erfüllung der gesetzlichen Aufgabe erforderlich ist.
+
+#### § 9a
+
+**Voraussetzungen für das Bearbeiten im Rahmen von Pilotversuchen**
+
+<sup>1</sup> Der Regierungsrat kann, nachdem er im Rahmen einer Vorabkonsultation (§ 12) die Beurteilung der Aufsichtsstelle Datenschutz (§ 35) eingeholt hat, vor dem Inkrafttreten eines Gesetzes die Bearbeitung von besonderen Personendaten bewilligen, wenn:
+
+- a. die Aufgaben, die diese Bearbeitung erforderlich machen, in einem Gesetz geregelt sind, und
+- b. ausreichende Massnahmen zur Verhinderung von Persönlichkeitsverletzungen getroffen werden, und
+- c. die praktische Umsetzung einer Datenbearbeitung eine Testphase vor dem Inkrafttreten des Gesetzes zwingend erfordert.
+
+<sup>2</sup> Die praktische Umsetzung einer Datenbearbeitung kann eine Testphase zwingend erfordern, wenn die Erfüllung einer Aufgabe:
+
+- a. technische Neuerungen erfordert, deren Auswirkungen zunächst evaluiert werden müssen, oder
+- b. bedeutende organisatorische oder technische Massnahmen erfordert, deren Wirksamkeit zunächst geprüft werden muss, insbesondere bei der Zusammenarbeit mit öffentlichen Organen des Bundes und anderer Kantone und Privaten, oder
+- c. die Bekanntgabe von besonderen Personendaten an Dritte mittels eines Abrufverfahrens erfordert.
+
+<sup>3</sup> Pilotprojekte sind auf maximal 5 Jahre zu befristen.
+
+<sup>4</sup> Jedes Pilotprojekt ist zu evaluieren.
+
+<sup>5</sup> Der Regierungsrat regelt die Modalitäten der Datenbearbeitung in einer Verordnung.
+
 #### § 10
 
 **Richtigkeit**
 
 <sup>1</sup> Personendaten müssen richtig und, soweit es der Verwendungszweck erfordert, vollständig sein.
+
+<sup>2</sup> Wer Personendaten bearbeitet, hat sich über deren Richtigkeit zu vergewissern.
+
+<sup>3</sup> Es sind alle angemessenen Massnahmen zu treffen, damit Daten berichtigt oder vernichtet werden, die im Hinblick auf den Zweck ihrer Beschaffung oder Bearbeitung unrichtig oder unvollständig sind.
 
 #### § 11
 
@@ -161,13 +203,30 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Zu einem nicht personenbezogenen Zweck darf das öffentliche Organ Personendaten bearbeiten, wenn sie anonymisiert werden, sobald es der Bearbeitungszweck zulässt; aus den Auswertungen dürfen keine Rückschlüsse auf betroffene Personen möglich sein.
 
+#### § 11a
+
+**Datenschutz-Folgenabschätzung**
+
+<sup>1</sup> Das verantwortliche öffentliche Organ prüft bei jedem Vorhaben für eine Personendatenbearbeitung, ob voraussichtlich ein hohes Risiko für die Grundrechte der betroffenen Personen besteht.
+
+<sup>2</sup> Besteht voraussichtlich ein hohes Risiko, ist eine Datenschutz-Folgenabschätzung durchführen.
+
+<sup>3</sup> Die Datenschutz-Folgenabschätzung enthält mindestens:
+
+- a. eine allgemeine Beschreibung der geplanten Bearbeitungsvorgänge;
+- b. eine Bewertung der Risiken für die Grundrechte der betroffenen Personen; sowie
+- c. eine Darstellung und Bewertung der geplanten Abhilfemassnahmen, Garantien, Sicherheitsvorkehren und Verfahren, durch die der Schutz der Grundrechte der betroffenen Personen sichergestellt und der Nachweis erbracht werden soll, dass die Datenschutzbestimmungen eingehalten werden.
+
 #### § 12
 
-**Vorabkontrolle**
+**Vorabkonsultation der Aufsichtsstelle Datenschutz**
 
-<sup>1</sup> Wenn eine Bearbeitung von Personendaten aufgrund der Art der Bearbeitung oder der zu bearbeitenden Daten geeignet ist, besondere Risiken für die Rechte und die Freiheit der betroffenen Personen mit sich zu bringen, muss diese Bearbeitung vorab der oder dem Datenschutzbeauftragten zur Kontrolle vorgelegt werden.
+<sup>1</sup> Das verantwortliche öffentliche Organ legt der Aufsichtsstelle Datenschutz (§ 35) frühzeitig zur Vorabkonsultation vor:
 
-<sup>2</sup> Die oder der Datenschutzbeauftragte gibt die Beurteilung in Form einer Empfehlung gemäss § 43 ab.
+- a. Rechtsetzungsprojekte, die die Bearbeitung von Personendaten betreffen, und
+- b. Vorhaben zur Bearbeitung von Personendaten, die aufgrund der Art der Bearbeitung oder der zu bearbeitenden Daten voraussichtlich zu einem hohen Risiko für die Grundrechte der betroffenen Personen führen.
+
+<sup>2</sup> Die Aufsichtsstelle Datenschutz kann Kriterien für Bearbeitungsvorgänge festlegen, die ihr zur Vorabkonsultation zu unterbreiten sind.
 
 #### § 13
 
@@ -179,19 +238,53 @@ beschliesst:[^ingress-2]
 
 #### § 14
 
-**Erkennbarkeit der Datenbeschaffung**
+**Informationspflicht bei der Datenbeschaffung**
 
-<sup>1</sup> Die betroffene Person muss erkennen können, welche Personendaten über sie beschafft und zu welchem Zweck sie bearbeitet werden, soweit und solange dadurch nicht die Erfüllung der gesetzlichen Aufgabe ernsthaft gefährdet wird.
+<sup>1</sup> Das verantwortliche öffentliche Organ informiert die betroffene Person angemessen über jede Beschaffung von Daten; diese Informationspflicht gilt auch, wenn die Daten bei Dritten beschafft werden.
 
-<sup>2</sup> Werden Personendaten systematisch, namentlich mit Fragebogen oder Onlineerfassungen, erhoben, müssen Rechtsgrundlage und Zweck der Bearbeitung angegeben sein.
+<sup>2</sup> Zur Gewährleistung einer transparenten Datenbearbeitung und damit die betroffene Person ihre Rechte geltend machen kann, umfasst die Information mindestens Angaben über:
 
-<sup>3</sup> Bei der Beschaffung von besonderen Personendaten ist das öffentliche Organ verpflichtet, die betroffene Person über den Zweck der Bearbeitung zu informieren, soweit und solange dadurch nicht die Erfüllung der gesetzlichen Aufgabe ernsthaft gefährdet wird.
+- a. das verantwortliche öffentliche Organ samt Kontaktdaten;
+- b. die bearbeiteten Daten oder die Kategorien der bearbeiteten Daten;
+- c. alle verfügbaren Informationen über die Herkunft der Personendaten, wenn sie nicht bei der betroffenen Person erhoben worden sind;
+- d. die Rechtsgrundlage und den Zweck des Bearbeitens;
+- e. die Datenempfänger oder die Kategorien der Datenempfänger, falls die Daten Dritten bekanntgegeben werden; und
+- f. die Rechte der betroffenen Person.
+
+<sup>3</sup> Die Informationspflicht entfällt, wenn:
+
+- a. die betroffene Person bereits über die Informationen nach Abs. 2 verfügt;
+- b. das Bearbeiten der Personendaten gesetzlich ausdrücklich vorgesehen ist; oder
+- c. die Information nicht oder nur mit unverhältnismässigem Aufwand möglich ist.
+
+<sup>4</sup> Die Bekanntgabe der Informationen kann unter denselben Voraussetzungen eingeschränkt werden wie der Zugang zu den eigenen Personendaten.
 
 #### § 15
 
 **Vernichtung**
 
 <sup>1</sup> Nicht mehr benötigte Personendaten, die von der gemäss Archivierungsgesetz zuständigen Stelle als nicht archivwürdig beurteilt werden, sind vom öffentlichen Organ zu vernichten.
+
+<sup>2</sup> Für alle Informationsbestände, die Personendaten enthalten, sind Fristen für die Beurteilung festzulegen, ob die Personendaten zur Aufgabenerfüllung noch benötigt werden oder ob sie archiviert oder vernichtet werden sollen.
+
+#### § 15a
+
+**Meldung von Datenschutzverletzungen**
+
+<sup>1</sup> Eine Datenschutzverletzung liegt vor, wenn die Sicherheit so verletzt wird, dass:
+
+- a. bearbeitete Personendaten unwiederbringlich vernichtet werden oder verloren gehen, unbeabsichtigt oder unrechtmässig verändert oder offenbart werden; oder
+- b. Unbefugte Zugang zu solchen Personendaten erhalten.
+
+<sup>2</sup> Das verantwortliche öffentliche Organ meldet der Aufsichtsstelle Datenschutz (§ 35) ohne unangemessene Verzögerung eine Datenschutzverletzung.
+
+<sup>3</sup> Die Auftragsdatenbearbeiterin oder der Auftragsdatenbearbeiter informiert das auftraggebende öffentliche Organ unverzüglich über eine Datenschutzverletzung.
+
+<sup>4</sup> Eine Meldepflicht des öffentlichen Organs besteht nicht, wenn die Datenschutzverletzung voraussichtlich nicht zu einem Risiko für die Grundrechte der betroffenen Person führt. Die Aufsichtsstelle Datenschutz kann Kriterien für Datenschutzverletzungen festlegen, die ihr zu melden sind.
+
+<sup>5</sup> Das öffentliche Organ informiert die betroffenen Personen, wenn die Umstände dies erfordern oder die Aufsichtsstelle Datenschutz es verlangt.
+
+<sup>6</sup> Die Benachrichtigung der betroffenen Personen kann ausserdem ganz oder teilweise unterbleiben oder aufgeschoben werden, wenn eine Einschränkung gemäss § 27 zulässig ist.
 
 #### § 16
 
@@ -219,7 +312,7 @@ beschliesst:[^ingress-2]
 
 **Bekanntgabe von Personendaten**
 
-<sup>1</sup> Das öffentliche Organ gibt Personendaten bekannt, wenn
+<sup>1</sup> Das öffentliche Organ gibt Personendaten bekannt, wenn:
 
 - a. eine gesetzliche Grundlage dazu verpflichtet oder ermächtigt oder
 - b. dies zur Erfüllung einer gesetzlichen Aufgabe erforderlich ist oder
@@ -231,7 +324,7 @@ beschliesst:[^ingress-2]
 
 **Bekanntgabe von besonderen Personendaten**
 
-<sup>1</sup> Das öffentliche Organ gibt besondere Personendaten bekannt, wenn
+<sup>1</sup> Das öffentliche Organ gibt besondere Personendaten oder Resultate eines Profilings bekannt, wenn:
 
 - a. ein Gesetz dazu ausdrücklich verpflichtet oder ermächtigt oder
 - b. dies zur Erfüllung einer im Gesetz ausdrücklich umschriebenen Aufgabe erforderlich ist oder
@@ -267,9 +360,9 @@ beschliesst:[^ingress-2]
 
 #### § 22
 
-**Verzeichnis der Informationsbestände mit Personendaten**
+**Verzeichnis der Verfahren, bei denen Personendaten bearbeitet werden**
 
-<sup>1</sup> Das öffentliche Organ führt ein vollständiges Verzeichnis seiner Informationsbestände, die Personendaten enthalten.
+<sup>1</sup> Die Strafverfolgungs-, Strafgerichtsbarkeits- und Strafvollzugsorgane führen ein vollständiges Verzeichnis ihrer Verfahren, bei denen Personendaten bearbeitet werden.
 
 <sup>2</sup> Das Verzeichnis ist der Öffentlichkeit leicht zugänglich zu machen, insbesondere durch öffentliche Datennetze.
 
@@ -281,7 +374,7 @@ beschliesst:[^ingress-2]
 
 **Zugang zu Informationen**
 
-<sup>1</sup> Jede Person hat Anspruch auf Zugang zu den bei einem öffentlichen Organ im Sinne von § 3 Absatz 1 Buchstaben a und b vorhandenen Informationen, ausgenommen zu Aufzeichnungen, die nicht fertig gestellt sind.
+<sup>1</sup> Jede Person hat Anspruch auf Zugang zu den bei einem öffentlichen Organ im Sinne von § 3 Abs. 1 Bst. a und b vorhandenen Informationen, ausgenommen zu Aufzeichnungen, die nicht fertig gestellt sind.
 
 <sup>2</sup> In hängigen Verwaltungs- und Verwaltungsbeschwerdeverfahren richtet sich der Anspruch auf Zugang zu Informationen nach dem massgeblichen Verfahrensrecht.
 
@@ -291,11 +384,16 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Jede Person hat Anspruch darauf zu wissen, ob bei einem öffentlichen Organ Personendaten über sie vorhanden sind, und gegebenenfalls auf Zugang zu diesen eigenen Personendaten.
 
+<sup>2</sup> Der Zugang umfasst:
+
+- a. die Angaben nach § 14 Abs. 2 und
+- b. alle Personendaten zur gesuchstellenden Person.
+
 #### § 25
 
 **Schutz der eigenen Personendaten**
 
-<sup>1</sup> Jede betroffene Person kann vom öffentlichen Organ verlangen, dass es kostenlos
+<sup>1</sup> Jede betroffene Person kann vom öffentlichen Organ verlangen, dass es kostenlos:
 
 - a. unrichtige Personendaten berichtigt oder, falls die Berichtigung nicht möglich ist, vernichtet;
 - b. das widerrechtliche Bearbeiten von Personendaten unterlässt;
@@ -318,6 +416,14 @@ beschliesst:[^ingress-2]
 - b. die Bekanntgabe zur Erfüllung einer gesetzlichen Aufgabe erforderlich ist oder
 - c. die um Bekanntgabe ersuchende Person glaubhaft macht, dass die Personendaten zur Durchsetzung ihrer Rechtsansprüche erforderlich sind.
 
+#### § 26a
+
+**Aufsichtsrechtliche Anzeige**
+
+<sup>1</sup> Jede Person kann der Aufsichtsstelle Datenschutz (§ 35) Tatsachen anzeigen, wonach ein öffentliches Organ oder eine Auftragsdatenbearbeiterin oder ein Auftragsdatenbearbeiter bei der Bearbeitung von sie betreffenden Personendaten gegen die datenschutzrechtlichen Vorschriften verstösst.
+
+<sup>2</sup> Die anzeigende Person hat nicht die Rechte einer Partei, doch ist ihr innerhalb von höchstens 3 Monaten Auskunft über das Ergebnis oder den Stand der Abklärungen zu erteilen.
+
 ## 6 Einschränkungen bei der Bekanntgabe von und beim Zugang zu Informationen
 
 #### § 27
@@ -326,7 +432,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Das öffentliche Organ hat die Bekanntgabe von oder den Zugang zu Informationen im Einzelfall ganz oder teilweise zu verweigern oder aufzuschieben, wenn eine besondere gesetzliche Geheimhaltungspflicht oder ein überwiegendes öffentliches oder privates Interesse entgegen stehen.
 
-<sup>2</sup> Ein überwiegendes öffentliches Interesse liegt insbesondere vor, wenn die Bekanntgabe der Information oder der Zugang zur Information
+<sup>2</sup> Ein überwiegendes öffentliches Interesse liegt insbesondere vor, wenn die Bekanntgabe der Information oder der Zugang zur Information:
 
 - a. die Sicherheit des Staates oder die öffentliche Sicherheit gefährdet oder
 - b. die Beziehungen zu einem anderen Kanton, zum Bund oder zum Ausland beeinträchtigt oder
@@ -334,7 +440,7 @@ beschliesst:[^ingress-2]
 - d. die Position in Verhandlungen beeinträchtigt oder
 - e. die zielkonforme Durchführung konkreter behördlicher, insbesondere polizeilicher Massnahmen beeinträchtigt.
 
-<sup>3</sup> Ein überwiegendes privates Interesse liegt insbesondere vor, wenn
+<sup>3</sup> Ein überwiegendes privates Interesse liegt insbesondere vor, wenn:
 
 - a. die Bekanntgabe der Information oder der Zugang zur Information den Schutz der Privatsphäre beeinträchtigt oder
 - b. die Bekanntgabe der Information oder der Zugang zur Information Berufs-, Fabrikations- oder Geschäftsgeheimnisse offenbart oder Urheberrechte verletzt oder
@@ -346,9 +452,12 @@ beschliesst:[^ingress-2]
 
 **Anonymisierung von Personendaten**
 
-<sup>1</sup> Ist der Zugang zu den bei einem öffentlichen Organ vorhandenen Personendaten über Drittpersonen nicht schon nach § 27 ganz oder teilweise zu verweigern, so sind diese Personendaten vor der Zugangsgewährung zu anonymisieren.
+<sup>1</sup> Ist der Zugang zu den bei einem öffentlichen Organ vorhandenen Personendaten nicht schon nach § 27 ganz oder teilweise zu verweigern, sind diese Personendaten vor der Zugangsgewährung zu anonymisieren.
 
-<sup>2</sup> Der Zugang zu nicht anonymisierten Personendaten über Drittpersonen richtet sich nach den Bestimmungen für die Bekanntgabe von Personendaten.
+<sup>2</sup> Ist eine Anonymisierung nicht oder nicht vollständig möglich, darf das öffentliche Organ den Zugang zu nichtanonymisierten Personendaten gewähren, wenn:
+
+- a. ein überwiegendes öffentliches Interesse am Zugang zu den nichtanonymisierten Personendaten besteht oder
+- b. die Voraussetzungen für die Bekanntgabe von Personendaten erfüllt sind (§ 18 ff.).
 
 ## 7 Verfahren auf Zugang zu Informationen
 
@@ -378,13 +487,13 @@ beschliesst:[^ingress-2]
 
 <sup>3</sup> Zieht es in Betracht, dem Zugangsgesuch entgegen den eingeholten Stellungnahmen zu entsprechen, teilt es dies den betroffenen Drittpersonen oder anderen öffentlichen Organen mit.
 
-<sup>4</sup> Innert 30 Tagen nach Eingang der Mitteilung gemäss den Absätzen 2 und 3 können die gesuchstellende Person und die Drittperson beim öffentlichen Organ den Erlass einer anfechtbaren Verfügung verlangen.
+<sup>4</sup> Innert 30 Tagen nach Eingang der Mitteilung gemäss den Abs. 2 und 3 können die gesuchstellende Person und die Drittperson beim öffentlichen Organ den Erlass einer anfechtbaren Verfügung verlangen.
 
 #### § 32
 
 **Gewährung des Zugangs**
 
-<sup>1</sup> Das öffentliche Organ gewährt Zugang zu den Informationen, indem es
+<sup>1</sup> Das öffentliche Organ gewährt Zugang zu den Informationen, indem es:
 
 - a. die Informationen schriftlich, in Form von Kopien oder auf Datenträgern aushändigt oder
 - b. mit dem Einverständnis der gesuchstellenden Person die Informationen mündlich mitteilt oder ihr vor Ort Einsicht in die Informationen gewährt.
@@ -395,10 +504,10 @@ beschliesst:[^ingress-2]
 
 **Fristen**
 
-<sup>1</sup> Das öffentliche Organ hat der gesuchstellenden Person innert 30 Tagen nach Eingang des Gesuchs
+<sup>1</sup> Das öffentliche Organ hat der gesuchstellenden Person innert 30 Tagen nach Eingang des Gesuchs:
 
 - a. den Zugang zu den Informationen zu gewähren,
-- b. eine Mitteilung gemäss § 31 Absatz 2 zukommen zu lassen oder,
+- b. eine Mitteilung gemäss § 31 Abs. 2 zukommen zu lassen oder,
 - c. wenn die Frist nicht eingehalten werden kann, unter Angabe der Gründe mitzuteilen, bis wann der Entscheid vorliegen wird.
 
 #### § 34
@@ -434,7 +543,10 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Aufsichtsstelle erfüllt ihre Aufgaben weisungsunabhängig.
 
-<sup>2</sup> Die Mitglieder des Landrats sowie der Landrat und der Regierungsrat als Behörden unterstehen der Aufsichtsstelle nicht.
+<sup>2</sup> Der Aufsichtsstelle unterstehen nicht:
+
+- a. die Mitglieder des Landrats sowie der Landrat und der Regierungsrat als Behörden;
+- b. Datenbearbeitungen in hängigen Verfahren der Zivilrechts- und Strafrechtspflege, der Verfassungs- und Verwaltungsgerichtsbarkeit sowie in hängigen Rechtshilfeverfahren.
 
 <sup>3</sup> Der Landrat übt die Oberaufsicht über die Aufsichtsstelle aus.
 
@@ -444,7 +556,7 @@ beschliesst:[^ingress-2]
 
 **Leitung, Wahl**
 
-<sup>1</sup> Die oder der Datenschutzbeauftragte leitet die kantonale Aufsichtsstelle.
+<sup>1</sup> Die kantonale Aufsichtsstelle wird von einer in Datenschutzfragen ausgewiesenen Fachperson geleitet («Die Datenschutzbeauftragte» / «Der Datenschutzbeauftragte»).
 
 <sup>2</sup> Sie oder er wird vom Landrat auf Vorschlag des Regierungsrats auf Amtsperiode gewählt. Der Landrat ist an den Wahlvorschlag gebunden.
 
@@ -485,24 +597,27 @@ beschliesst:[^ingress-2]
 
 **Aufgaben**
 
-<sup>1</sup> Die Aufsichtsstelle
+<sup>1</sup> Die Aufsichtsstelle:
 
 - a. kontrolliert nach einem durch sie autonom aufzustellenden Prüfprogramm die Anwendung der Bestimmungen über den Umgang mit Informationen;
-- b. kontrolliert gemäss § 12 vorab Bearbeitungen von Personendaten;
+- b. nimmt Stellung zu Rechtsetzungsprojekten und anderen Vorhaben, die ihr zur Vorabkonsultation (§ 12) unterbreitet werden;
 - c. berät die öffentlichen Organe in Fragen des Umgangs mit Informationen;
 - d. berät die betroffenen Personen über ihre Rechte;
 - e. vermittelt zwischen betroffenen Personen und öffentlichen Organen;
-- f. nimmt Stellung zu Erlassen, die für den Umgang mit Informationen oder den Datenschutz erheblich sind.
+- f. nimmt Stellung zu Erlassen, die für den Umgang mit Informationen oder den Datenschutz erheblich sind;
+- g. behandelt aufsichtsrechtliche Anzeigen (§ 26a) und informiert die Anzeigenden über das Ergebnis oder den Stand der Abklärungen;
+- h. sensibilisiert die öffentlichen Organe für ihre datenschutzrechtlichen Pflichten sowie die Öffentlichkeit für die Anliegen des Datenschutzes und der Transparenz;
+- i. verfolgt die für den Schutz von Personendaten und das Öffentlichkeitsprinzip massgeblichen Entwicklungen.
 
 #### § 41
 
 **Kontrollbefugnisse**
 
-<sup>1</sup> Die Aufsichtsstelle kann bei öffentlichen Organen und bei Drittpersonen, die von einem öffentlichen Organ mit dem Bearbeiten von Personendaten beauftragt sind oder von ihm Personendaten erhalten haben, ungeachtet allfälliger Geheimhaltungspflichten, schriftlich oder mündlich Auskunft über Datenbearbeitungen einholen, Einsicht in alle Unterlagen nehmen, Besichtigungen durchführen und sich Bearbeitungen vorführen lassen.
+<sup>1</sup> Die Aufsichtsstelle kann bei öffentlichen Organen, bei Auftragsdatenbearbeiterinnen und Auftragsdatenbearbeitern sowie bei Drittpersonen, die von einem öffentlichen Organ Personendaten erhalten haben, ungeachtet allfälliger Geheimhaltungspflichten, schriftlich oder mündlich Auskunft über Datenbearbeitungen einholen, Einsicht in alle Unterlagen nehmen, Besichtigungen durchführen und sich Bearbeitungen vorführen lassen.
 
-<sup>2</sup> Die öffentlichen Organe und die beauftragten Dritten sind verpflichtet, die Aufsichtsstelle bei der Erfüllung ihrer Aufgaben zu unterstützen. Sie wirken insbesondere an der Feststellung des Sachverhalts mit.
+<sup>2</sup> Die öffentlichen Organe, die Auftragsdatenbearbeiterinnen und Auftragsdatenbearbeiter sowie die Drittpersonen sind verpflichtet, die Aufsichtsstelle bei der Erfüllung ihrer Aufgaben zu unterstützen. Sie wirken insbesondere an der Feststellung des Sachverhalts mit.
 
-<sup>3</sup> Die Berichte, welche die Aufsichtsstelle im Rahmen der Kontrolltätigkeit erstellt oder erstellen lässt, sind samt den ihnen zugrunde liegenden Materialien nicht öffentlich im Sinne von § 23 Absatz 1.
+<sup>3</sup> Die Berichte, welche die Aufsichtsstelle im Rahmen der Kontrolltätigkeit erstellt oder erstellen lässt, sind samt den ihnen zugrunde liegenden Materialien nicht öffentlich im Sinne von § 23 Abs. 1.
 
 #### § 42
 
@@ -528,7 +643,7 @@ beschliesst:[^ingress-2]
 
 <sup>3</sup> Die Aufsichtsstelle kann direkt eine Weisung erlassen, wenn absehbar ist, dass das öffentliche Organ eine Empfehlung ablehnen oder ihr keine Folge leisten wird.
 
-<sup>4</sup> Das öffentliche Organ, an welches die Weisung gerichtet ist, kann sie mit einer Beschwerde gemäss den §§ 27ff. Verwaltungsverfahrensgesetz beim Regierungsrat anfechten.
+<sup>4</sup> Das öffentliche Organ, an welches die Weisung gerichtet ist, kann sie mit einer Beschwerde gemäss den §§ 27 ff. Verwaltungsverfahrensgesetz beim Regierungsrat anfechten.
 
 <sup>5</sup> Anstalten des kantonalen öffentlichen Rechts richten ihre Beschwerde direkt an das Kantonsgericht.
 
@@ -566,7 +681,7 @@ beschliesst:[^ingress-2]
 
 <sup>3</sup> Die oder der kommunale Beauftragte und allfällige weitere Mitarbeitende dürfen zusätzlich keine anderen behördlichen Funktionen in der Gemeinde wahrnehmen.
 
-<sup>4</sup> Die §§ 40 bis 47 gelten analog für die kommunale Aufsichtsstelle in ihrem Zuständigkeitsbereich.
+<sup>4</sup> Die §§ 40–47 gelten analog für die kommunale Aufsichtsstelle in ihrem Zuständigkeitsbereich.
 
 ## 9 Strafbestimmungen
 
@@ -576,7 +691,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Wer als beauftragte Drittperson gemäss § 7 ohne ausdrückliche Ermächtigung des auftraggebenden öffentlichen Organs Personendaten vorsätzlich oder fahrlässig für sich oder andere verwendet oder anderen bekannt gibt, wird mit Busse bestraft.
 
-<sup>2</sup> Wer Personendaten, die sie oder er von einem öffentlichen Organ zum Bearbeiten für einen nicht personenbezogenen Zweck erhalten hat, entgegen der Verpflichtung gemäss § 20 Absatz 3 vorsätzlich oder fahrlässig an Dritte weiter gibt, wird mit Busse bestraft.
+<sup>2</sup> Wer Personendaten, die sie oder er von einem öffentlichen Organ zum Bearbeiten für einen nicht personenbezogenen Zweck erhalten hat, entgegen der Verpflichtung gemäss § 20 Abs. 3 vorsätzlich oder fahrlässig an Dritte weiter gibt, wird mit Busse bestraft.
 
 ## 10 Änderung und Aufhebung bisherigen Rechts
 
@@ -618,7 +733,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Das Gesetz vom 7. März 1991[^51-1] über den Schutz von Personendaten (Datenschutzgesetz) wird aufgehoben.
 
-[^51-1]: GS 30.625, SGS 162
+[^51-1]: GS 30.625
 
 ## 11 Schlussbestimmungen
 
@@ -634,7 +749,7 @@ beschliesst:[^ingress-2]
 
 **Inkrafttreten**
 
-<sup>1</sup> Der Regierungsrat beschliesst das Inkrafttreten dieses Gesetzes[^53-1].
+<sup>1</sup> Der Regierungsrat beschliesst das Inkrafttreten dieses Gesetzes.[^53-1]
 
 [^53-1]: Vom Regierungsrat am 4. Dezember 2012 auf den 1. Januar 2013 in Kraft gesetzt.
 
