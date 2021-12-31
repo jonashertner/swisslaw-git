@@ -3,13 +3,13 @@ canton: FR
 number: "631.411"
 title: Ordonnance DFIN sur la déduction des frais professionnels des personnes exerçant une activité lucrative dépendante
 language: fr
-version: 2009-01-01
-valid_until: 2021-12-31
-version_adopted: 2008-12-17
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-22
 adopted: 2006-12-14
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.411"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5299/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7014/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5299/pdf_file"
 
 Déduction des frais professionnels des salariés – O
 
-du 14.12.2006 (version entrée en vigueur le 01.01.2009)
+du 14.12.2006 (version entrée en vigueur le 01.01.2022)
 
 La Direction des finances
 
@@ -50,7 +50,7 @@ Ordonne:
 
 **Justification des frais excédant les déductions forfaitaires**
 
-<sup>1</sup> Si, au lieu de la déduction forfaitaire mentionnée aux articles 3 al. 3, 6 al. et 9 al. 1, le contribuable fait valoir des frais plus élevés, il doit justifier la totalité des dépenses effectives ainsi que leur nécessité sur le plan professionnel.
+<sup>1</sup> Si, au lieu de la déduction forfaitaire mentionnée aux articles 3 al. 3, 6 al. 1 et 9 al. 1, le contribuable fait valoir des frais plus élevés, il doit justifier la totalité des dépenses effectives ainsi que leur nécessité sur le plan professionnel.
 
 #### Art. 3
 
@@ -60,7 +60,7 @@ Ordonne:
 
 <sup>2</sup> La déduction est fixée comme il suit:
 
-- a) lorsque le contribuable utilise les transports publics: les frais effectifs (2<sup>e</sup> classe);
+- a) lorsque le contribuable utilise les transports publics: les frais effectifs;
 - b) s'il utilise un vélo, un cyclomoteur ou un motocycle avec plaque d'immatriculation sur fond jaune: jusqu'à 700 francs par an;
 - c) s'il utilise un motocycle avec plaque d'immatriculation sur fond blanc ou une automobile privée: le montant qu'il aurait dû dépenser en utilisant les transports publics disponibles.
 
@@ -71,6 +71,14 @@ Ordonne:
   - 1\. 70 centimes par kilomètre jusqu'à 10'000 kilomètres,
   - 2\. 60 centimes par kilomètre pour les 10'000 kilomètres suivants (de 10'001 à 20'000 km),
   - 3\. 50 centimes par kilomètre pour le surplus (dès 20'001 km).
+
+#### Art. 3a
+
+**Utilisation gratuite d'un véhicule de fonction à des fins privées**
+
+<sup>1</sup> S'il utilise gratuitement un véhicule de fonction pour des déplacements à des fins privées, le revenu qui en découle, soit la part privée, peut être calculée de façon forfaitaire au lieu d'établir un décompte des frais effectifs de l'utilisation privée. Cette part ne comprend pas les frais de déplacement entre le domicile et le lieu de travail.
+
+<sup>2</sup> Aux fins du calcul forfaitaire de la part privée, 0,9 % du prix d'achat du véhicule est considéré comme un revenu mensuel provenant de cette utilisation.
 
 #### Art. 4
 
@@ -98,17 +106,21 @@ Ordonne:
 
 **Autres frais professionnels**
 
-<sup>1</sup> Pour les autres dépenses professionnelles telles que frais pour l'outillage professionnel (y compris le matériel informatique et les logiciels), les ouvrages professionnels, l'utilisation d'une chambre de travail privée, les vêtements professionnels, l'usure exceptionnelle des chaussures et des vêtements, l'exécution de travaux pénibles, le contribuable peut déduire 3 % de son salaire net selon le certificat de salaire, mais au minimum 2000 francs et au maximum 4000 francs par an. La justification de frais plus élevés demeure réservée (art. 2).
+<sup>1</sup> Pour les autres dépenses professionnelles telles que frais pour l'outillage professionnel (y compris le matériel informatique et les logiciels), les ouvrages professionnels, l'utilisation d'une chambre de travail privée, les vêtements professionnels, l'usure exceptionnelle des chaussures et des vêtements, l'exécution de travaux pénibles, le contribuable peut déduire 3 % de son salaire net selon le certificat de salaire, mais au minimum 2000 francs et au maximum 4000 francs par an. La justification de frais plus élevés demeure réservée (art. 2 et 7 al. 4).
 
-<sup>2</sup> Lorsque le contribuable fait valoir les frais effectifs pour les autres dépenses professionnelles en remplacement du forfait, il peut déduire les frais effectifs d'une chambre de travail (loyer, chauffage, etc.) s'il justifie qu'il lui est indispensable d'utiliser régulièrement et à titre principal une chambre de son appartement pour s'acquitter de tâches exclusivement professionnelles. Si la chambre prévue n'est pas adaptée à ce but, si elle est employée également à d'autres fins ou si l'utilisation en est seulement occasionnelle, il n'a pas droit à une déduction.
+<sup>2</sup> …
 
 #### Art. 7
 
-**Frais de perfectionnement et de reconversion professionnels**
+**Frais professionnels en cas de télétravail**
 
-<sup>1</sup> Peuvent être déduits les frais de perfectionnement professionnel qui sont en rapport direct avec l'activité actuelle du contribuable. Font partie de ces frais les dépenses qui servent à consolider une situation acquise dans le cadre de la profession (p. ex. examen de maîtrise, examen professionnel supérieur) et également celles qui servent à conserver et à élargir des connaissances professionnelles non spécifiques (p. ex. cours de langues), à condition qu'elles aient un rapport avec la profession et qu'elles ne servent pas uniquement des intérêts personnels. Entrent également en considération les frais de cours, livres, matériel, les frais de transport et les frais de nourriture et de logement. Les frais de pure formation professionnelle ne sont pas déductibles.
+<sup>1</sup> Le contribuable qui effectue tout ou partie de son activité professionnelle en télétravail doit l'indiquer dans sa déclaration d'impôt.
 
-<sup>2</sup> Sont également déductibles les frais de reconversion professionnelle engagés par un contribuable en raison du changement de l'activité exercée jusqu'alors et dans le but d'exercer ultérieurement une activité professionnelle principale. En outre, sont déductibles les frais de réinsertion professionnelle incombant au contribuable qui, après une longue période, reprend l'exercice d'une profession qu'il avait apprise à l'origine. Les frais de reconversion professionnelle aussi bien que ceux de réinsertion professionnelle ne sont déductibles que lorsque le contribuable obtient en même temps un revenu pour l'exercice d'une activité lucrative; il s'ensuit que les frais pour des cours suivis avant le début d'une activité lucrative ne sont pas déductibles.
+<sup>2</sup> La déduction des frais prévus aux articles 3, 4, 5 al. 2 et 3 est réduite en proportion des jours télétravaillés. Le calcul est effectué en tenant compte de 220 jours travaillés par année pour un taux d'activité à 100 %.
+
+<sup>3</sup> Le contribuable peut revendiquer la déduction des frais engagés pour l'achat du matériel nécessaire au télétravail s'il n'est pas mis à disposition ou financé par l'employeur et si ce dernier impose le télétravail.
+
+<sup>4</sup> Le contribuable peut déduire les frais effectifs d'une chambre de travail (loyer, chauffage, etc.) s'il justifie qu'il lui est indispensable d'utiliser régulièrement et à titre principal une chambre de son logement pour s'acquitter de tâches exclusivement professionnelles; c'est en particulier le cas lorsque son employeur impose le télétravail. Si la chambre prévue n'est pas adaptée à ce but, si elle est employée également à d'autres fins ou si l'utilisation en est seulement occasionnelle, il n'a pas droit à une déduction.
 
 #### Art. 8
 

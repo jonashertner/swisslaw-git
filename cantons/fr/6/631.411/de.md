@@ -3,13 +3,13 @@ canton: FR
 number: "631.411"
 title: Verordnung FIND über den Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
 language: de
-version: 2009-01-01
-valid_until: 2021-12-31
-version_adopted: 2008-12-17
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-22
 adopted: 2006-12-14
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.411"
-pdf: "https://bdlf.fr.ch/api/de/versions/5299/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7014/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5299/pdf_file"
 
 Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit – V
 
-vom 14.12.2006 (Fassung in Kraft getreten am 01.01.2009)
+vom 14.12.2006 (Fassung in Kraft getreten am 01.01.2022)
 
 Die Finanzdirektion
 
@@ -60,7 +60,7 @@ verordnet:
 
 <sup>2</sup> Der Abzug beträgt:
 
-- a) wenn die steuerpflichtige Person die öffentlichen Verkehrsmittel benützt: die tatsächlichen Kosten der 2. Klasse;
+- a) wenn die steuerpflichtige Person die öffentlichen Verkehrsmittel benützt: die tatsächlichen Kosten;
 - b) wenn sie ein Fahrrad, ein Motorfahrrad oder ein Motorrad mit gelbem Kontrollschild benützt: bis zu 700 Franken pro Jahr;
 - c) wenn sie ein Motorrad mit weissem Kontrollschild oder ein Privatauto benützt: den Betrag, den die steuerpflichtige Person bei Benützung der entsprechenden öffentlichen Verkehrsmittel hätte auslegen müssen.
 
@@ -71,6 +71,14 @@ verordnet:
   - 1\. 70 Rappen je km bis zu 10'000 km,
   - 2\. 60 Rappen je km für die nächsten 10'000 km (von 10'001 bis 20'000 km),
   - 3\. 50 Rappen je km für die übrigen km (über 20'001 km).
+
+#### Art. 3a
+
+**Unentgeltliche private Nutzung von Geschäftsfahrzeugen**
+
+<sup>1</sup> Nutzt die steuerpflichtige Person ein Geschäftsfahrzeug unentgeltlich für private Zwecke, so kann für das daraus resultierende Einkommen, also den Privatanteil, anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung eine pauschale Fahrkostenberechnung vorgenommen werden. In diesem Anteil sind die Kosten für die Fahrt zwischen Wohn- und Arbeitsstätte nicht enthalten.
+
+<sup>2</sup> Bei der pauschalen Fahrkostenberechnung des Privatanteils gelten 0,9 Prozent des Kaufpreises des Fahrzeugs als monatliches Einkommen aus dieser Nutzung.
 
 #### Art. 4
 
@@ -98,17 +106,21 @@ verordnet:
 
 **Übrige Berufskosten**
 
-<sup>1</sup> Für die übrigen Berufskosten, wie Berufswerkzeuge (inkl. EDV-Hard- und -Software), Fachliteratur, die Benützung eines privaten Arbeitszimmers, Berufskleider, besonderen Schuh- und Kleiderverschleiss, Schwerarbeit, kann die steuerpflichtige Person 3 % des Nettolohnes gemäss Lohnausweis, mindestens aber 2000 Franken und höchstens 4000 Franken im Jahr abziehen. Der Nachweis höherer Auslagen bleibt vorbehalten (Art. 2).
+<sup>1</sup> Für die übrigen Berufskosten, wie Berufswerkzeuge (inkl. EDV-Hard- und -Software), Fachliteratur, die Benützung eines privaten Arbeitszimmers, Berufskleider, besonderen Schuh- und Kleiderverschleiss, Schwerarbeit, kann die steuerpflichtige Person 3 % des Nettolohns gemäss Lohnausweis, mindestens aber 2000 Franken und höchstens 4000 Franken im Jahr abziehen. Der Nachweis höherer Auslagen bleibt vorbehalten (Art. 2 und 7 Abs. 4).
 
-<sup>2</sup> Macht die steuerpflichtige Person statt des Pauschalabzuges den tatsächlichen Kostenabzug für die sonstigen Berufskosten geltend, kann sie die tatsächlichen Kosten eines Arbeitszimmers (Miete, Heizung usw.) abziehen, wenn sie den Beweis erbringt, dass es für sie unerlässlich ist, regelmässig und für einen wesentlichen Teil der Berufsarbeit ein Zimmer ihrer Wohnung zu benutzen, um ihren ausschliesslich beruflichen Verpflichtungen nachzukommen. Ist der besonders ausgeschiedene Raum ungeeignet, wird er ebenfalls anderweitig benutzt oder erfolgt die Benutzung nur gelegentlich, so kann kein Abzug gemacht werden.
+<sup>2</sup> …
 
 #### Art. 7
 
-**Weiterbildungs- und Umschulungskosten**
+**Berufskosten bei Homeoffice**
 
-<sup>1</sup> Abziehbar sind Weiterbildungskosten, die objektiv mit dem gegenwärtigen Beruf der steuerpflichtigen Person in einem unmittelbaren Zusammenhang stehen. Darunter fallen Auslagen, die der Festigung der Stellung innerhalb des angestammten Berufes dienen (z.B. Meisterprüfung, höhere Fachprüfung), aber auch Kosten zur Wahrung und Erweiterung nicht spezifischer Fachkenntnisse (z. B. Sprachkurs), sofern sie berufsbezogen sind und nicht allein persönlichen Interessen dienen. Berücksichtigt werden somit Kosten für Kurse, Bücher, Material, Fahrkosten, Verpflegungskosten und Unterkunft. Nicht abzugsfähig sind reine Ausbildungskosten.
+<sup>1</sup> Die steuerpflichtige Person, die ganz oder teilweise im Homeoffice arbeitet, muss dies in der Steuererklärung angeben.
 
-<sup>2</sup> Abziehbar sind auch Umschulungskosten, die einer steuerpflichtigen Person wegen eines Wechsels der bisher ausgeübten Tätigkeit anfallen und im Hinblick auf eine spätere hauptberufliche Erwerbstätigkeit aufgewendet werden. Ferner können die Kosten des Wiedereinstiegs in Abzug gebracht werden, die eine steuerpflichtige Person aufwenden muss, um nach längerer Zeit wiederum im seinerzeit erlernten und ausgeübten Beruf tätig zu werden. Sowohl Umschulungs- als auch Wiedereinstiegskosten sind nur abziehbar, wenn die steuerpflichtige Person gleichzeitig ein Erwerbseinkommen erzielt; daraus folgt, dass Kosten für Kurse, welche vor Beginn der Erwerbstätigkeit besucht werden, nicht abzugsfähig sind.
+<sup>2</sup> Der Kostenabzug nach den Artikeln 3, 4 und 5 Abs. 2 und 3 wird im Verhältnis zu den Homeoffice-Tagen gekürzt. Die Berechnung basiert auf 220 Arbeitstagen pro Jahr bei einem Beschäftigungsgrad von 100 %.
+
+<sup>3</sup> Die steuerpflichtige Person kann den Abzug der Kosten für die Anschaffung der für das Homeoffice erforderlichen Hardware geltend machen, sofern diese nicht vom Arbeitgeber zur Verfügung gestellt oder finanziert wird und der Arbeitgeber Homeoffice vorschreibt.
+
+<sup>4</sup> Die steuerpflichtige Person kann die tatsächlichen Kosten eines Arbeitszimmers (Miete, Heizung usw.) in Abzug bringen, wenn sie den Beweis erbringt, dass es für sie unerlässlich ist, regelmässig und für einen wesentlichen Teil der Berufsarbeit ein Zimmer ihrer Unterkunft zu benutzen, um ihren ausschliesslich beruflichen Verpflichtungen nachzukommen. Dies ist insbesondere der Fall, wenn ihr Arbeitgeber Homeoffice vorschreibt. Ist der besonders ausgeschiedene Raum ungeeignet, wird er ebenfalls anderweitig benutzt oder erfolgt die Benutzung nur gelegentlich, so kann kein Abzug gemacht werden.
 
 #### Art. 8
 
