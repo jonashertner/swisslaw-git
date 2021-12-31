@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 concernente le esigenze per l'efficienza
 short: OEEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: it
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210901/it"
 
 (Ordinanza sull’efficienza energetica, OEEne)
 
-del 1° novembre 2017 (Stato 1° settembre 2021)
+del 1° novembre 2017 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -233,10 +233,11 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 **Commercializzazione e cessione di pneumatici**[^13-1]
 
-Chi importa, commercializza o cede in Svizzera pneumatici di classe C1, C2 o C3 secondo il regolamento (UE) 2020/740[^13-2] deve soddisfare le esigenze definite nell’allegato 4.2.
+Chi importa, commercializza o cede in Svizzera pneumatici di classe C1, C2 o C3 secondo il regolamento (UE) 2020/740[^13-2] deve soddisfare le esigenze definite nell’allegato 4.2.[^13-3]
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° mag. 2021 ([RU 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
-[^13-2]: Regolamento (UE) 2020/740 del Parlamento europeo e del Consiglio del 25 maggio 2020 sull'etichettatura dei pneumatici in relazione al consumo di carburante e ad altri parametri, che modifica il regolamento (UE) 2017/1369 e che abroga il regolamento (CE) n. 1222/2009, versione secondo GU L 177 del 5.6.2020, pag. 1.
+[^13-2]: Regolamento (UE) 2020/740 del Parlamento europeo e del Consiglio, del 25 maggio 2020, sull’etichettatura dei pneumatici in relazione al consumo di carburante e ad altri parametri, che modifica il regolamento (UE) 2017/1369 e che abroga il regolamento (CE) n. 1222/2009, versione secondo GU L 177 del 5.6.2020, pag. 1, modificata con rettifica GU L 382 del 28.10.2021, pag. 52.
+[^13-3]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ## Capitolo 3: Esecuzione
 
@@ -318,15 +319,15 @@ Allegato 1.1*[^t-1]*
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di frigoriferi con raccordo alla rete
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
-- 1\.1 Il presente allegato si applica ai frigoriferi con raccordo alla rete con un volume totale superiore a 10 litri e inferiore o uguale a 1500 litri di cui all’articolo 1 numero 1 del regolamento (UE) 2019/2019[^annex11-lvlu1-lvl1-1].
+- 1\.1 Il presente allegato si applica ai frigoriferi con raccordo alla rete con un volume totale superiore a 10 litri e inferiore o uguale a 1500 litri di cui all’articolo 1 paragrafo 1 del regolamento (UE) 2019/2019[^annex11-lvlu1-lvl1-1].
 - 1\.2 Sono esclusi gli apparecchi di cui all’articolo 1 numero 2 del regolamento (UE) 2019/2019.
 - 1\.3 Si applicano le definizioni di cui all’articolo 2 del regolamento (UE) 2019/2019.
 
-[^annex11-lvlu1-lvl1-1]: Regolamento (UE) 2019/2019 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile degli apparecchi di refrigerazione a norma della direttiva 2009/125/CE del Parlamento europeo e del Consiglio e che abroga il regolamento (CE) n. 643/2009 della Commissione, GU L 315 del 5.12.2019, pag. 187.
+[^annex11-lvlu1-lvl1-1]: Regolamento (UE) 2019/2019 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile degli apparecchi di refrigerazione a norma della direttiva 2009/125/CE del Parlamento europeo e del Consiglio e che abroga il regolamento (CE) n. 643/2009 della Commissione, GU L 315 del 5.12.2019, pag. 187; modificato da ultimo dal regolamento (UE) 2021/341, GU L 68 del 26.2.2021, pag. 108.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -341,7 +342,7 @@ Allegato 1.1*[^t-1]*
 - 3\.1 Nel quadro della valutazione della conformità, le caratteristiche dei frigoriferi rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati II e III del regolamento (UE) 2019/2019 nonché gli allegati II e IV del regolamento delegato (UE) 2019/2016[^annex11-lvlu1-lvl3-1]; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
 - 3\.2 Nel quadro della verifica della conformità, l’organo di controllo testa un frigorifero conformemente alle prescrizioni e ai metodi di cui al numero 3.1; i valori misurati devono soddisfare le esigenze secondo l’allegato IV numero 2 del regolamento (UE) 2019/2019 nonché l’allegato IX numero 2 del regolamento delegato (UE) 2019/2016.
 
-[^annex11-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2016 della Commissione dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica degli apparecchi di refrigerazione e abroga il regolamento delegato (UE) n. 1060/2010 della Commissione, GU L 315 del 5.12.2019, pag. 102.
+[^annex11-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2016 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica degli apparecchi di refrigerazione e abroga il regolamento delegato (UE) n. 1060/2010 della Commissione, GU L 315 del 5.12.2019, pag. 102; modificato da ultimo dal regolamento (UE) 2021/340, GU L 68 del 26.2.2021, pag. 62.
 
 ### 4 Indicazione del consumo di energia ed etichettatura
 
@@ -361,7 +362,7 @@ Allegato 1.2*[^t-2]*
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di lavatrici per uso domestico e asciugabiancheria per uso domestico con raccordo alla rete
 
-[^t-2]: Nuovo testo gisuta il n. II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-2]: Nuovo testo gisuta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
@@ -370,7 +371,7 @@ Allegato 1.2*[^t-2]*
 - 1\.3 Dalle esigenze secondo l’allegato II articoli 1–6 e 9 numero 1 lettere a e c nonché numero 2 lettere i e vii del regolamento (UE) 2019/2023 sono esclusi gli apparecchi di cui all’articolo 1 paragrafo 3 del regolamento (UE) 2019/2023.
 - 1\.4 Si applicano le definizioni di cui all’articolo 2 del regolamento (UE) 2019/2023.
 
-[^annex12-lvlu1-lvl1-1]: Regolamento (UE) 2019/2023 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile delle lavatrici per uso domestico e delle lavasciuga biancheria per uso domestico in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio, modifica il regolamento (CE) n. 1275/2008 della Commissione e abroga il regolamento (UE) n. 1015/2010 della Commissione, GU L 315 del 5.12.2019, pag. 285.
+[^annex12-lvlu1-lvl1-1]: Regolamento (UE) 2019/2023 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile delle lavatrici per uso domestico e delle lavasciuga biancheria per uso domestico in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio, modifica il regolamento (CE) n. 1275/2008 della Commissione e abroga il regolamento (UE) 1015/2010 della Commissione, GU L 315 del 5.12.2019, pag. 285; modificato da ultimo dal regolamento (UE) 2021/341, GU L 68 del 26.2.2021, pag. 108.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -381,7 +382,7 @@ Allegato 1.2*[^t-2]*
 - 3\.1 Nel quadro della valutazione della conformità, le caratteristiche delle lavatrici per uso domestico e delle asciugabiancheria per uso domestico rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati II, III e VI del regolamento (UE) 2019/2023 nonché gli allegati II, IV e VI del regolamento delegato (UE) 2019/2014[^annex12-lvlu1-lvl3-1]; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
 - 3\.2 Nel quadro della verifica della conformità, l’organo di controllo testa una lavatrice per uso domestico o un’asciugabiancheria per uso domestico conformemente alle prescrizioni e ai metodi di cui al numero 3.1; i valori misurati devono soddisfare le esigenze secondo l’allegato IV numero 2 del regolamento (UE) 2019/2023 nonché l’allegato IX numero 2 del regolamento delegato (UE) 2019/2014.
 
-[^annex12-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2014 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica delle lavatrici per uso domestico e delle lavasciuga biancheria per uso domestico e abroga il regolamento delegato (UE) n. 1061/2010 della Commissione e la direttiva 96/60/CE della Commissione, GU L 315 del 5.12.2019, pag. 29.
+[^annex12-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2014 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica delle lavatrici per uso domestico e delle lavasciuga biancheria per uso domestico e abroga il regolamento delegato (UE) n. 1061/2010 della Commissione e la direttiva 96/60/CE della Commissione, GU L 315 del 5.12.2019, pag. 29; modificato da ultimo dal regolamento (UE) 2021/340, GU L 68 del 26.2.2021, pag. 62.
 
 ### 4 Indicazione del consumo di energia ed etichettatura
 
@@ -439,7 +440,7 @@ Allegato 1.5*[^t-4]*
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione delle lavastoviglie per uso domestico con raccordo alla rete
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2020, in vigore dal 1° mar. 2021 ([RU 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
@@ -447,7 +448,7 @@ Allegato 1.5*[^t-4]*
 - 1\.2 Sono esclusi gli apparecchi di cui all’articolo 1 paragrafo 2 del regolamento (UE) 2019/2022.
 - 1\.3 Si applicano le definizioni di cui all’articolo 2 del regolamento (UE) 2019/2022.
 
-[^annex15-lvlu1-lvl1-1]: Regolamento (UE) 2019/2022 della Commissione, dell’1 ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile delle lavastoviglie per uso domestico in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio modifica il regolamento (CE) n. 1275/2008 della Commissione e abroga il regolamento (UE) n. 1016/2010 della Commissione, GU L 315 del 5.12.2019, pag. 267.
+[^annex15-lvlu1-lvl1-1]: Regolamento (UE) 2019/2022 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile delle lavastoviglie per uso domestico in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio modifica il regolamento (CE) n. 1275/2008 della Commissione e abroga il regolamento (UE) n. 1016/2010 della Commissione, GU L 315 del 5.12.2019, pag. 267; modificato da ultimo dal regolamento (UE) 2021/341, GU L 68 del 26.2.2021, pag. 108.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -455,11 +456,10 @@ Allegato 1.5*[^t-4]*
 
 ### 3 Procedura di valutazione della conformità
 
-- 3\.1 Nel quadro della valutazione della conformità, le caratteristiche delle lavastoviglie per uso domestico rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati II e III del regolamento (UE) 2019/2022[^annex15-lvlu1-lvl3-1] nonché degli allegati II e IV del regolamento delegato (UE) 2019/2017[^annex15-lvlu1-lvl3-2]; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
+- 3\.1 Nel quadro della valutazione della conformità, le caratteristiche delle lavastoviglie per uso domestico rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati II e III del regolamento (UE) 2019/2022 nonché degli allegati II e IV del regolamento delegato (UE) 2019/2017[^annex15-lvlu1-lvl3-1]; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
 - 3\.2 Nel quadro della verifica della conformità, l’organo di controllo testa una lavastoviglie per uso domestico conformemente alle prescrizioni e ai metodi di cui al numero 3.1; i valori misurati devono soddisfare le esigenze secondo l’allegato IV numero 2 del regolamento (UE) 2019/2022 nonché l’allegato IX numero 2 del regolamento delegato (UE) 2019/2017.
 
-[^annex15-lvlu1-lvl3-1]: Cfr. nota a piè pagina relativa al n. 1.1.
-[^annex15-lvlu1-lvl3-2]: Regolamento delegato (UE) 2019/2017 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica delle lavastoviglie per uso domestico e abroga il regolamento delegato (UE) n. 1059/2010 della Commissione, GU L 315 del 5.12.2019, pag. 134.
+[^annex15-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2017 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica delle lavastoviglie per uso domestico e abroga il regolamento delegato (UE) n. 1059/2010 della Commissione, GU L 315 del 5.12.2019, pag. 134; modificato da ultimo dal regolamento (UE) 2021/340, GU L 68 del 26.2.2021, pag. 62.
 
 ### 4 Indicazione del consumo di energia ed etichettatura
 
@@ -592,7 +592,7 @@ Allegato 1.12*[^t-9]*
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di display elettronici
 
-[^t-9]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-9]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
@@ -601,7 +601,7 @@ Allegato 1.12*[^t-9]*
 - 1\.3 Dalle esigenze secondo l’allegato II lettere A e B sono esclusi gli apparecchi di cui all’articolo 1 paragrafo 3 del regolamento (UE) 2019/2021.
 - 1\.4 Si applicano le definizioni di cui all’articolo 2 del regolamento (UE) 2019/2021.
 
-[^annex112-lvlu1-lvl1-1]: Regolamento (UE) 2019/2021 della Commissione, dell’1 ottobre 2019, che stabilisce le specifiche per la progettazione ecocompatibile dei display elettronici in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio, modifica il regolamento (CE) n. 1275/2008 della Commissione e abroga il regolamento (CE) n. 642/2009 della Commissione, GU L 315 del 5.12.2019, pag. 241.
+[^annex112-lvlu1-lvl1-1]: Regolamento (UE) 2019/2021 della Commissione, del 1° ottobre 2019, che stabilisce le specifiche per la progettazione ecocompatibile dei display elettronici in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio, modifica il regolamento (CE) n. 1275/2008 della Commissione e abroga il regolamento (CE) n. 642/2009 della Commissione, GU L 315 del 5.12.2019, pag. 241; modificato da ultimo dal regolamento (UE) 2021/341, GU L 68 del 26.2.2021, pag. 108.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -612,7 +612,7 @@ Allegato 1.12*[^t-9]*
 - 3\.1 Nel quadro della valutazione della conformità, le caratteristiche dei display elettronici rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati II e III del regolamento (UE) 2019/2021 nonché l’allegato IX numero 2 del regolamento delegato (UE) 2019/2013[^annex112-lvlu1-lvl3-1]; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
 - 3\.2 Nel quadro della verifica della conformità, l’organo di controllo testa un display elettronico conformemente alle prescrizioni e ai metodi di cui al numero 3.1; i valori misurati devono soddisfare le esigenze secondo l’allegato IV numero 1 del regolamento (UE) 2019/2021 nonché l’allegato IX numero 2 del regolamento delegato (UE) 2019/2013.
 
-[^annex112-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2013 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica dei display elettronici e abroga il regolamento delegato (UE) n. 1062/2010 della Commissione, GU L 315 del 5.12.2019, pag. 1.
+[^annex112-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2013 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica dei display elettronici e abroga il regolamento delegato (UE) n. 1062/2010 della Commissione, GU L 315 del 5.12.2019, pag. 1; modificato da ultimo dal regolamento (UE) 2021/340, GU L 68 del 26.2.2021, pag. 62.
 
 ### 4 Indicazione del consumo di energia ed etichettatura
 
@@ -991,7 +991,7 @@ Allegato 1.21*[^t-17]*
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di apparecchi di refrigerazione con funzione di vendita diretta con raccordo alla rete
 
-[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
@@ -1000,7 +1000,7 @@ Allegato 1.21*[^t-17]*
 - 1\.3 Dalle esigenze secondo l’allegato II articoli 1 e 3 lettera k sono esclusi gli apparecchi di cui all’articolo 1 paragrafo 3 del regolamento (UE) 2019/2024.
 - 1\.4 Si applicano le definizioni di cui all’articolo 2 e all’allegato I del regolamento (UE) 2019/2024.
 
-[^annex121-lvlu1-lvl1-1]: Regolamento (UE) 2019/2024 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile degli apparecchi di refrigerazione con funzione di vendita diretta in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio, GU. L 315 del 5.12.2019, pag. 313.
+[^annex121-lvlu1-lvl1-1]: Regolamento (UE) 2019/2024 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile degli apparecchi di refrigerazione con funzione di vendita diretta in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio, GU L 315 del 5.12.2019, pag. 313; modificato da ultimo dal regolamento (UE) 2021/341, GU L 68 del 26.2.2021, pag. 108.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -1015,7 +1015,7 @@ Allegato 1.21*[^t-17]*
 - 3\.1 Nel quadro della valutazione della conformità, le caratteristiche degli apparecchi di refrigerazione con funzione di vendita diretta rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati II e III del regolamento (UE) 2019/2024 nonché gli allegati II e IV del regolamento delegato (UE) 2019/2018[^annex121-lvlu1-lvl3-1]; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
 - 3\.2 Nel quadro della verifica della conformità, l’organo di controllo testa un apparecchio di refrigerazione con funzione di vendita diretta conformemente alle prescrizioni e ai metodi di cui al numero 3.1; i valori misurati devono soddisfare le esigenze secondo l’allegato IV numero 2 del regolamento (UE) 2019/2024 nonché l’allegato IX numero 2 del regolamento delegato (UE) 2019/2018.
 
-[^annex121-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2018 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica degli apparecchi di refrigerazione con funzione di vendita diretta, GU L 315 del 5.12.2019, pag. 155.
+[^annex121-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2018 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica degli apparecchi di refrigerazione con funzione di vendita diretta, GU L 315 del 5.12.2019, pag. 155; modificato da ultimo dal regolamento (UE) 2021/340, GU L 68 del 26.2.2021, pag. 62.
 
 ### 4 Indicazione del consumo di energia ed etichettatura
 
@@ -1034,7 +1034,7 @@ Allegato 1.22*[^t-18]*
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di sorgenti luminose e di unità di alimentazione separate
 
-[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1°set. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
@@ -1043,7 +1043,7 @@ Allegato 1.22*[^t-18]*
 - 1\.3 Agli apparecchi di cui all’articolo 1 paragrafo 3 del regolamento (UE) 2019/2020 si applicano le esigenze definite nell’allegato II articolo 3 lettera e del regolamento (UE) 2019/2020.
 - 1\.4 Si applicano le definizioni di cui all’articolo 2 e all’allegato I del regolamento (UE) 2019/2020.
 
-[^annex122-lvlu1-lvl1-1]: Regolamento (UE) 2019/2020 della Commissione, dell’1 ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile delle sorgenti luminose e delle unità di alimentazione separate a norma della direttiva 2009/125/CE del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 244/2009, (CE) n. 245/2009 e (UE) n. 1194/2012 della Commissione, GU L 315 del 5.12.2019, pag. 209.
+[^annex122-lvlu1-lvl1-1]: Regolamento (UE) 2019/2020 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile delle sorgenti luminose e delle unità di alimentazione separate a norma della direttiva 2009/125/CE del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 244/2009, (CE) n. 245/2009 e (UE) n. 1194/2012 della Commissione, GU L 315 del 5.12.2019, pag. 209; modificato da ultimo dal regolamento (UE) 2021/341, GU L 68 del 26.2.2021, pag. 108.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -1054,7 +1054,7 @@ Allegato 1.22*[^t-18]*
 - 3\.1 Nel quadro della valutazione della conformità, le caratteristiche delle sorgenti luminose e delle unità di alimentazione separate rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati II, III e V del regolamento (UE) 2019/2020 nonché l’allegato II del regolamento delegato (UE) 2019/2015[^annex122-lvlu1-lvl3-1]; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
 - 3\.2 Nel quadro della verifica della conformità, l’organo di controllo testa una sorgente luminosa o un’unità di alimentazione separata conformemente alle prescrizioni e ai metodi di cui al numero 3.1; i valori misurati devono soddisfare le esigenze secondo l’allegato IV numeri 1 e 2 del regolamento (UE) 2019/2020 nonché l’allegato IX numero 2 del regolamento delegato (UE) 2019/2015.
 
-[^annex122-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2015 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica delle sorgenti luminose e abroga il regolamento delegato (UE) n. 874/2012 della Commissione, GU L 315 del 5.12.2019, pag. 68.
+[^annex122-lvlu1-lvl3-1]: Regolamento delegato (UE) 2019/2015 della Commissione, dell’11 marzo 2019, che integra il regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio per quanto riguarda l’etichettatura energetica delle sorgenti luminose e abroga il regolamento delegato (UE) n. 874/2012 della Commissione, GU L 315 del 5.12.2019, pag. 68; modificato da ultimo dal regolamento (UE) 2021/340, GU L 68 del 26.2.2021, pag. 62.
 
 ### 4 Indicazione del consumo di energia ed etichettatura
 
@@ -1295,7 +1295,7 @@ Allegato 2.7*[^t-23]*
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di motori e convertitori di frequenza
 
-[^t-23]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 1° lug. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-23]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
@@ -1303,7 +1303,7 @@ Allegato 2.7*[^t-23]*
 - 1\.2 Dalle esigenze secondo l’allegato I articoli 1 e 2 numeri 1, 2, 5–11 e 13 sono esclusi gli apparecchi di cui all’articolo 2 paragrafi 2 e 3 del regolamento (UE) 2019/1781.
 - 1\.3 Si applicano le definizioni di cui all’articolo 3 del regolamento (UE) 2019/1781.
 
-[^annex27-lvlu1-lvl1-1]: Regolamento (UE) 2019/1781 della Commissione dell’1 ottobre 2019 che stabilisce specifiche per la progettazione ecocompatibile dei motori elettrici e dei variatori di velocità in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio recante modifica del regolamento (CE) n. 641/2009 della Commissione per quanto riguarda le specifiche per la progettazione ecocompatibile dei circolatori senza premistoppa indipendenti e dei circolatori senza premistoppa integrati in prodotti e abroga il regolamento (CE) n. 640/2009 della Commissione, GU L 272 del 25.10.2019, pag. 74.
+[^annex27-lvlu1-lvl1-1]: Regolamento (UE) 2019/1781 della Commissione, del 1° ottobre 2019, che stabilisce specifiche per la progettazione ecocompatibile dei motori elettrici e dei variatori di velocità in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio recante modifica del regolamento (CE) n. 641/2009 della Commissione per quanto riguarda le specifiche per la progettazione ecocompatibile dei circolatori senza premistoppa indipendenti e dei circolatori senza premistoppa integrati in prodotti e abroga il regolamento (CE) n. 640/2009 della Commissione, GU L 272 del 25.10.2019, pag. 74; modificato da ultimo dal regolamento (UE) 2021/341, GU L 68 del 26.2.2021, pag. 108.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -1476,7 +1476,7 @@ Allegato 2.12*[^t-27]*
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di server e prodotti di archiviazione dati
 
-[^t-27]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-27]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Campo d’applicazione
 
@@ -1484,7 +1484,7 @@ Allegato 2.12*[^t-27]*
 - 1\.2 Sono esclusi gli apparecchi di cui all’articolo 1 paragrafo 2 del regolamento (UE) 2019/424.
 - 1\.3 Si applicano le definizioni di cui all’articolo 2 e all’allegato I del regolamento (UE) 2019/424.
 
-[^annex212-lvlu1-lvl1-1]: Regolamento (UE) 2019/424 della Commissione, del 15 marzo 2019, che stabilisce specifiche per la progettazione ecocompatibile di server e prodotti di archiviazione dati a norma della direttiva 2009/125/CE del Parlamento europeo e del Consiglio e che modifica il regolamento (UE) n. 617/2013, versione della GU L 74 del 26.6.2019, pag. 46.
+[^annex212-lvlu1-lvl1-1]: Regolamento (UE) 2019/424 della Commissione, del 15 marzo 2019, che stabilisce specifiche per la progettazione ecocompatibile di server e prodotti di archiviazione dati a norma della direttiva 2009/125/CE del Parlamento europeo e del Consiglio e che modifica il regolamento (UE) n. 617/2013, GU L 74 del 18.3.2019, pag. 46; modificato da ultimo dal regolamento (UE) 2021/341, GU L 68 del 26.2.2021, pag. 108.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
@@ -1570,7 +1570,7 @@ Allegato 3.2*[^t-30]*
 
 - 3\.1 L’etichettaEnergia deve essere larga 60 mm e alta 120 mm almeno. Se l’etichettaEnergia è stampata in formato più grande, devono rimanere invariate le proporzioni delle suddette specifiche. Le proporzioni degli elementi grafici devono rimanere invariate. Lo sfondo è bianco.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210901/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20220101/it/xml/image/image1.png)
 
 - A) Tratto del bordo: 3 pt – angoli arrotondati 2 mm – X-00-00-00
 - B) Logo CH: larghezza 8 mm, altezza 8 mm – angoli arrotondati: 2 mm – 00-X-X-00
@@ -1705,11 +1705,11 @@ Per l’anno 2020 si considerano tipi di veicolo attuali ai sensi del numero 3.3
 
 ### 10 Esempio della rappresentazione grafica dell’etichettaEnergia
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210901/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20220101/it/xml/image/image2.png)
 
 ### 11 Esempio della rappresentazione grafica della scala relativa alle categorie di efficienza energetica
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210901/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20220101/it/xml/image/image3.png)
 
 Allegato 4.2*[^t-32]*
 

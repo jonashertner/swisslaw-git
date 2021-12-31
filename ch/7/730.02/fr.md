@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives �
 short: OEEE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: fr
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210901/fr"
 
 (Ordonnance sur les exigences relatives à l’efficacité énergétique, OEEE)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> septembre 2021)
+du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -232,10 +232,11 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 **Mise en circulation et fourniture de pneumatiques**[^13-1]
 
-Quiconque importe, met en circulation ou fournit en Suisse des pneumatiques des classes C1, C2 ou C3 selon le règlement (UE) 2020/740[^13-2] doit satisfaire aux exigences visées à l’annexe 4.2.
+Quiconque importe, met en circulation ou fournit en Suisse des pneumatiques des classes C1, C2 ou C3 selon le règlement (UE) 2020/740[^13-2] doit satisfaire aux exigences visées à l’annexe 4.2.[^13-3]
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
-[^13-2]: Règlement (UE) 2020/740 du Parlement européen et du Conseil du 25 mai 2020 sur l’étiquetage des pneumatiques en relation avec l’efficacité en carburant et d’autres paramètres, modifiant le règlement (UE) 2017/1369 et abrogeant le règlement (CE) n<sup>o</sup> 1222/2009, version du JO L 177 du 5.6.2020, p. 1.
+[^13-2]: Règlement (UE) 2020/740 du Parlement européen et du Conseil du 25 mai 2020 sur l’étiquetage des pneumatiques en relation avec l’efficacité en carburant et d’autres paramètres, modifiant le règlement (UE) 2017/1369 et abrogeant le règlement (CE) n<sup>o</sup> 1222/2009, version du JO L 177 du 5.6.2020, p. 1; modifié par le rectificatif du JO L 382 du 28.10.2021, p. 52.
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ## Chapitre 3 Exécution
 
@@ -317,15 +318,15 @@ Annexe 1.1*[^t-1]*
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des appareils de réfrigération alimentés par le secteur
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
-- 1\.1 La présente annexe s’applique aux appareils de réfrigération alimentés par le secteur ayant un volume total supérieur à 10 litres et inférieur ou égal à 1500 litres conformément à l’art. 1, al. 1, du règlement (UE) 2019/2019[^annex11-lvlu1-lvl1-1].
+- 1\.1 La présente annexe s’applique aux appareils de réfrigération alimentés par le secteur ayant un volume total supérieur à 10 litres et inférieur ou égal à 1500 litres, conformément à l’art. 1, al. 1, du règlement (UE) 2019/2019[^annex11-lvlu1-lvl1-1].
 - 1\.2 Elle ne s’applique pas aux appareils visés à l’art. 1, al. 2, du règlement (UE) 2019/2019.
 - 1\.3 Les définitions figurant à l’art. 2 du règlement (UE) 2019/2019 sont applicables.
 
-[^annex11-lvlu1-lvl1-1]: Règlement (UE) 2019/2019 de la Commission du 1<sup>er</sup> octobre 2019 établissant des exigences d’écoconception pour les appareils de réfrigération en vertu de la directive 2009/125/CE du Parlement européen et du Conseil et abrogeant le règlement (CE) nº 643/2009 de la Commission, JO L 315 du 5.12.2019, p. 187.
+[^annex11-lvlu1-lvl1-1]: Règlement (UE) 2019/2019 de la Commission du 1<sup>er</sup> octobre 2019 établissant des exigences d’écoconception pour les appareils de réfrigération en vertu de la directive 2009/125/CE du Parlement européen et du Conseil et abrogeant le règlement (CE) n° 643/2009 de la Commission, JO L 315 du 5.12.2019, p. 187; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -342,7 +343,7 @@ Annexe 1.1*[^t-1]*
 - 3\.1 Les caractéristiques énergétiques des appareils de réfrigération visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II et III du règlement (UE) 2019/2019 et aux annexes II et IV du règlement délégué (UE) 2019/2016[^annex11-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et des mesures.
 - 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un appareil de réfrigération sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe IV, ch. 2, du règlement (UE) 2019/2019 ainsi qu’à l’annexe IX, ch. 2, du règlement délégué (UE) 2019/2016.
 
-[^annex11-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2016 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des appareils de réfrigération et abrogeant le règlement délégué (UE) nº 1060/2010 de la Commission, JO L 315 du 5.12.2019, p.102.
+[^annex11-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2016 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des appareils de réfrigération et abrogeant le règlement délégué (UE) n° 1060/2010 de la Commission, JO L 315 du 5.12.2019, p. 102; modifié en dernier lieu par le règlement (UE) 2021/340, JO L 68 du 26.2.2021, p. 62.
 
 ### 4 Indication de la consommation d’énergie et marquage
 
@@ -362,7 +363,7 @@ Annexe 1.2*[^t-2]*
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des lave-linge et lave-linge séchants domestiques alimentés par le secteur
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
@@ -371,7 +372,7 @@ Annexe 1.2*[^t-2]*
 - 1\.3 Les appareils visés à l’art. 1, al. 3, du règlement (UE) 2019/2023 ne sont pas soumis aux exigences de l’annexe II, art. 1 à 6, et 9, ch. 1, let. a et c, ch. 2, let. i et vii, du règlement (UE) 2019/2023.
 - 1\.4 Les définitions figurant à l’art. 2 du règlement (UE) 2019/2023 sont applicables.
 
-[^annex12-lvlu1-lvl1-1]: Règlement (UE) 2019/2023 de la Commission du 1<sup>er</sup> octobre 2019 établissant des exigences en matière d’écoconception applicables aux lave-linge ménagers et aux lave-linge séchants ménagers conformément à la directive 2009/125/CE du Parlement européen et du Conseil, modifiant le règlement (CE) nº 1275/2008 de la Commission et abrogeant le règlement (UE) nº 1015/2010 de la Commission, JO L 315 du 5.12.2019, p. 285.
+[^annex12-lvlu1-lvl1-1]: Règlement (UE) 2019/2023 de la Commission du 1<sup>er</sup> octobre 2019 établissant des exigences en matière d’écoconception applicables aux lave-linge ménagers et aux lave-linge séchants ménagers conformément à la directive 2009/125/CE du Parlement européen et du Conseil, modifiant le règlement (CE) n° 1275/2008 de la Commission et abrogeant le règlement (UE) n° 1015/2010 de la Commission, JO L 315 du 5.12.2019, p. 285; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -382,7 +383,7 @@ Annexe 1.2*[^t-2]*
 - 3\.1 Les caractéristiques énergétiques des lave-linge et lave-linge séchants domestiques visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II, III et VI du règlement (UE) 2019/2023 ainsi qu’aux annexes II, IV et VI du règlement délégué (UE) 2019/2014[^annex12-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et des mesures.
 - 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un lave-linge domestique ou un lave-linge séchant domestique sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe IV, ch. 2, du règlement (UE) 2019/2023 ainsi qu’à l’annexe IX, ch. 2, du règlement délégué (UE) 2019/2014.
 
-[^annex12-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2014 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil relatif à l’étiquetage énergétique des lave-linge ménagers et des lave-linge séchants ménagers et abrogeant le règlement délégué (UE) nº 1061/2010 de la Commission et la directive 96/60/CE de la Commission, JO L 315 du 5.12.2019, p. 29.
+[^annex12-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2014 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil relatif à l’étiquetage énergétique des lave-linge ménagers et des lave-linge séchants ménagers et abrogeant le règlement délégué (UE) n° 1061/2010 de la Commission et la directive 96/60/CE de la Commission, JO L 315 du 5.12.2019, p. 29; modifié en dernier lieu par le règlement (UE) 2021/340, JO L 68 du 26.2.2021, p. 62.
 
 ### 4 Indication de la consommation d’énergie et marquage
 
@@ -440,7 +441,7 @@ Annexe 1.5*[^t-4]*
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des lave-vaisselle domestiques alimentés par le secteur
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
@@ -448,7 +449,7 @@ Annexe 1.5*[^t-4]*
 - 1\.2 Elle ne s’applique pas aux appareils visés à l’art. 1, al. 2, du règlement (UE) 2019/2022.
 - 1\.3 Les définitions figurant à l’art. 2 du règlement (UE) 2019/2022 sont applicables.
 
-[^annex15-lvlu1-lvl1-1]: Règlement (UE) 2019/2022 de la Commission du 1<sup>er</sup> octobre 2019 définissant des exigences d’écoconception applicables aux lave-vaisselle ménagers conformément à la directive 2009/125/CE du Parlement européen et du Conseil, modifiant le règlement (CE) nº 1275/2008 de la Commission et abrogeant le règlement (UE) nº 1016/2010 de la Commission, JO L 315 du 5.12.2019, p. 267.
+[^annex15-lvlu1-lvl1-1]: Règlement (UE) 2019/2022 de la Commission du 1<sup>er</sup> octobre 2019 définissant des exigences d’écoconception applicables aux lave-vaisselle ménagers conformément à la directive 2009/125/CE du Parlement européen et du Conseil, modifiant le règlement (CE) n° 1275/2008 de la Commission et abrogeant le règlement (UE) n° 1016/2010 de la Commission, JO L 315 du 5.12.2019, p. 267; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -456,11 +457,10 @@ Annexe 1.5*[^t-4]*
 
 ### 3 Procédure d’évaluation de la conformité
 
-- 3\.1 Les caractéristiques énergétiques des lave-vaisselle visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II et III du règlement (UE) 2019/2022[^annex15-lvlu1-lvl3-1] et aux annexes II et IV du règlement délégué (UE) 2019/2017[^annex15-lvlu1-lvl3-2]; la documentation technique doit inclure les résultats des calculs et mesures.
+- 3\.1 Les caractéristiques énergétiques des lave-vaisselle visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II et III du règlement (UE) 2019/2022 et aux annexes II et IV du règlement délégué (UE) 2019/2017[^annex15-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et des mesures.
 - 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un lave-vaisselle domestique sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe IV, ch. 2, du règlement (UE) 2019/2022 ainsi qu’à l’annexe IX, ch. 2, du règlement délégué (UE) 2019/2017.
 
-[^annex15-lvlu1-lvl3-1]: Cf. note de bas de page du ch. 1.1.
-[^annex15-lvlu1-lvl3-2]: Règlement délégué (UE) 2019/2017 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des lave-vaisselle ménagers et abrogeant le règlement délégué (UE) n<sup>o</sup> 1059/2010 de la Commission, JO L 315 du 5.12.2019, p. 134.
+[^annex15-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2017 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des lave-vaisselle ménagers et abrogeant le règlement (UE) n° 1059/2010 de la Commission, JO L 315 du 5.12.2019, p. 134; modifié en dernier lieu par le règlement (UE) 2021/340, JO L 68 du 26.2.2021, p. 62.
 
 ### 4 Indication de la consommation d’énergie et marquage
 
@@ -560,7 +560,7 @@ Annexe 1.8*[^t-7]*
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des aspirateurs alimentés par le secteur
 
-[^t-7]: Mise à jour selon le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-7]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -593,7 +593,7 @@ Annexe 1.12*[^t-9]*
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des dispositifs d’affichage électroniques
 
-[^t-9]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-9]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
@@ -602,7 +602,7 @@ Annexe 1.12*[^t-9]*
 - 1\.3 Les appareils visés à l’art. 1, al. 3, du règlement (UE) 2019/2021 ne sont pas soumis aux exigences de l’annexe II, parties A et B.
 - 1\.4 Les définitions figurant à l’art. 2 du règlement (UE) 2019/2021 sont applicables.
 
-[^annex112-lvlu1-lvl1-1]: Règlement (UE) 2019/2021 de la Commission du 1<sup>er</sup> octobre 2019 fixant des exigences d’écoconception pour les dispositifs d’affichage électroniques conformément à la directive 2009/125/CE du Parlement européen et du Conseil, modifiant le règlement (CE) nº 1275/2008 de la Commission et abrogeant le règlement (CE) nº 642/2009 de la Commission, JO L 315 du 5.12.2019, p. 241.
+[^annex112-lvlu1-lvl1-1]: Règlement (UE) 2019/2021 de la Commission du 1<sup>er</sup> octobre 2019 fixant des exigences d’écoconception pour les dispositifs d’affichage électroniques conformément à la directive 2009/125/CE du Parlement européen et du Conseil, modifiant le règlement (CE) n° 1275/2008 de la Commission et abrogeant le règlement (CE) n° 642/2009 de la Commission, JO L 315 du 5.12.2019, p. 241; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -613,7 +613,7 @@ Annexe 1.12*[^t-9]*
 - 3\.1 Les caractéristiques énergétiques des dispositifs d’affichage électroniques visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II et III du règlement (UE) 2019/2021 et à l’annexe IX, ch. 2, du règlement délégué (UE) 2019/2013[^annex112-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et des mesures.
 - 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un dispositif d’affichage électronique sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe IV, ch. 1, du règlement (UE) 2019/2021 ainsi qu’à l’annexe IX, ch. 2, du règlement délégué (UE) 2019/2013.
 
-[^annex112-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2013 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’indication, par voie d’étiquetage, de la consommation d’énergie des dispositifs d’affichage électroniques et abrogeant le règlement délégué (UE) nº 1062/2010 de la Commission, JO L 315 du 5.12.2019, p. 1.
+[^annex112-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2013 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’indication, par voie d’étiquetage, de la consommation d’énergie des dispositifs d’affichage électroniques et abrogeant le règlement délégué (UE) n° 1062/2010 de la Commission, JO L 315 du 5.12.2019, p. 1; modifié en dernier lieu par le règlement (UE) 2021/340, JO L 68 du 26.2.2021, p. 62.
 
 ### 4 Indication de la consommation d’énergie et marquage
 
@@ -992,7 +992,7 @@ Annexe 1.21*[^t-17]*
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des appareils de réfrigération alimentés par le secteur et disposant d’une fonction de vente directe
 
-[^t-17]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-17]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
@@ -1001,7 +1001,7 @@ Annexe 1.21*[^t-17]*
 - 1\.3 Les appareils visés à l’art. 1, al. 3, du règlement (UE) 2019/2024 ne sont pas soumis aux exigences de l’annexe II, art. 1 et 3, let. k.
 - 1\.4 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) 2019/2024 sont applicables.
 
-[^annex121-lvlu1-lvl1-1]: Règlement (UE) 2019/2024 de la Commission du 1<sup>er</sup> octobre 2019 établissant des exigences d’écoconception pour les appareils de réfrigération disposant d’une fonction de vente directe en vertu de la directive 2009/125/CE du Parlement européen et du Conseil, JO L 315 du 5.12.2019, p. 313.
+[^annex121-lvlu1-lvl1-1]: Règlement (UE) 2019/2024 de la Commission du 1<sup>er</sup> octobre 2019 établissant les exigences d’écoconception pour les appareils de réfrigération disposant d’une fonction de vente directe en vertu de la directive 2009/125/CE du Parlement européen et du Conseil, JO L 315 du 5.12.2019, p. 313; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -1016,7 +1016,7 @@ Annexe 1.21*[^t-17]*
 - 3\.1 Les caractéristiques énergétiques des appareils de réfrigération disposant d’une fonction de vente directe visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II et III du règlement (UE) 2019/2024 et aux annexes II et IV du règlement délégué (UE) 2019/2018[^annex121-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et des mesures.
 - 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un appareil de réfrigération disposant d’une fonction de vente directe sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe IV, ch. 2, du règlement (UE) 2019/2024 ainsi qu’à l’annexe IX, ch. 2, du règlement délégué (UE) 2019/2018.
 
-[^annex121-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2018 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des appareils de réfrigération disposant d’une fonction de vente directe, JO L 315 du 5.12.2019, p. 155.
+[^annex121-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2018 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des appareils de réfrigération disposant d’une fonction de vente directe, JO L 315 du 5.12.2019, p. 155; modifié en dernier lieu par le règlement (UE) 2021/340, JO L 68 du 26.2.2021, p. 62.
 
 ### 4 Indication de la consommation d’énergie et marquage
 
@@ -1035,7 +1035,7 @@ Annexe 1.22*[^t-18]*
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des sources lumineuses et des appareillages de commande séparés
 
-[^t-18]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-18]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
@@ -1044,7 +1044,7 @@ Annexe 1.22*[^t-18]*
 - 1\.3 Les appareils visés à l’art. 1, al. 3, du règlement (UE) 2019/2020 sont soumis aux exigences visées à l’annexe II, art. 3, let. e, du règlement (UE) 2019/2020.
 - 1\.4 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) 2019/2020 sont applicables.
 
-[^annex122-lvlu1-lvl1-1]: Règlement (UE) 2019/2020 de la Commission du 1<sup>er</sup> octobre 2019 établissant des exigences d’écoconception pour les sources lumineuses et les appareillages de commande séparés en application de la directive 2009/125/CE du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 244/2009, (CE) n<sup>o</sup> 245/2009 et (UE) n<sup>o</sup> 1194/2012 de la Commission, JO L 315 du 5.12.2019, p. 209.
+[^annex122-lvlu1-lvl1-1]: Règlement (UE) 2019/2020 de la Commission du 1<sup>er</sup> octobre 2019 établissant des exigences d’écoconception pour les sources lumineuses et les appareillages de commande séparés en application de la directive 2009/125/CE du Parlement européen et du Conseil et abrogeant les règlements (CE) n° 244/2009, (CE) n° 245/2009 et (UE) n° 1194/2012 de la Commission, JO L 315 du 5.12.2019, p. 209; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -1052,10 +1052,10 @@ Annexe 1.22*[^t-18]*
 
 ### 3 Procédure d’évaluation de la conformité
 
-- 3\.1 Les caractéristiques énergétiques des sources lumineuses et des appareillages de commande séparés visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II, III et V du règlement (UE) 2019/2020 et à l’annexe II du règlement délégué (UE) 2019/2015[^annex122-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et des mesures.
+- 3\.1 Les caractéristiques énergétiques des sources lumineuses et des appareillages de commande séparés visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes II, III et V du règlement (UE) 2019/2020 et à l’annexe II du règlement délégué (EU) 2019/2015[^annex122-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et des mesures.
 - 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste une source lumineuse ou un appareillage de commande séparé sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe IV, ch. 1 et 2, du règlement (UE) 2019/2020 ainsi qu’à l’annexe IX, ch. 2, du règlement délégué (UE) 2019/2015.
 
-[^annex122-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2015 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des sources lumineuses et abrogeant le règlement délégué (UE) n<sup>o</sup> 874/2012 de la Commission, JO L 315 du 5.12.2019, p. 68.
+[^annex122-lvlu1-lvl3-1]: Règlement délégué (UE) 2019/2015 de la Commission du 11 mars 2019 complétant le règlement (UE) 2017/1369 du Parlement européen et du Conseil en ce qui concerne l’étiquetage énergétique des sources lumineuses et abrogeant le règlement délégué (UE) n° 874/2012 de la Commission, JO L 315 du 5.12.2019, p. 68; modifié en dernier lieu par le règlement (UE) 2021/340, JO L 68 du 26.2.2021, p. 62.
 
 ### 4 Indication de la consommation d’énergie et marquage
 
@@ -1295,7 +1295,7 @@ Annexe 2.7*[^t-23]*
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des moteurs et des convertisseurs de fréquence
 
-[^t-23]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-23]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
@@ -1303,7 +1303,7 @@ Annexe 2.7*[^t-23]*
 - 1\.2 Les exigences fixées à l’annexe I, art. 1 et 2, ch. 1, 2, 5 à 11 et 13, ne s’appliquent pas aux appareils visés à l’art. 2, al. 2 et 3, du règlement (UE) 2019/1781.
 - 1\.3 Les définitions figurant à l’art. 3 du règlement (UE) 2019/1781 sont applicables.
 
-[^annex27-lvlu1-lvl1-1]: Règlement (UE) 2019/1781 de la Commission du 1<sup>er</sup> octobre 2019 fixant des exigences en matière d’écoconception applicables aux moteurs électriques et aux variateurs de vitesse conformément à la directive 2009/125/CE du Parlement européen et du Conseil, et modifiant le règlement (CE) n<sup>o</sup> 641/2009 concernant les exigences d’écoconception applicables aux circulateurs sans presse-étoupe indépendants et aux circulateurs sans presse-étoupe intégrés dans des produits et abrogeant le règlement (CE) n<sup>o</sup> 640/2009 de la Commission, JO L 272 du 25.10.2019, p. 74.
+[^annex27-lvlu1-lvl1-1]: Règlement (UE) 2019/1781 de la Commission du 1<sup>er</sup> octobre 2019 fixant des exigences d’écoconception applicables aux moteurs électriques et aux variateurs de vitesse conformément à la directive 2009/125/CE du Parlement européen et du Conseil, et modifiant le règlement (CE) n° 641/2009 concernant les exigences d’écoconception applicables aux circulateurs sans presse-étoupe indépendants et aux circulateurs sans presse-étoupe intégrés dans des produits et abrogeant le règlement (CE) n° 640/2009 de la Commission, JO L 272 du 25.10.2019, p. 74; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -1476,7 +1476,7 @@ Annexe 2.12*[^t-27]*
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture des serveurs et des produits de stockage de données
 
-[^t-27]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-27]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Mise à jour par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 819](https://fedlex.data.admin.ch/eli/oc/2021/819)).
 
 ### 1 Champ d’application
 
@@ -1484,7 +1484,7 @@ Annexe 2.12*[^t-27]*
 - 1\.2 Elle ne s’applique pas aux appareils visés à l’art. 1, al. 2, du règlement (UE) 2019/424.
 - 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) 2019/424 sont applicables.
 
-[^annex212-lvlu1-lvl1-1]: Règlement (UE) 2019/424 de la Commission du 15 mars 2019 établissant des exigences d’écoconception applicables aux serveurs et aux produits de stockage de données conformément à la directive 2009/125/CE du Parlement européen et du Conseil et modifiant le règlement (UE) no 617/2013 de la Commission, version du JO L 74 du 26.6.2013, p. 46.
+[^annex212-lvlu1-lvl1-1]: Règlement (UE) 2019/424 de la Commission du 15 mars 2019 établissant des exigences d’écoconception applicables aux serveurs et aux produits de stockage de données conformément à la directive 2009/125/CE du Parlement européen et du Conseil et modifiant le règlement (UE) n° 617/2013 de la Commission, JO L 74 du 18.3.2019, p. 46; modifié en dernier lieu par le règlement (UE) 2021/341, JO L 68 du 26.2.2021, p. 108.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
@@ -1570,7 +1570,7 @@ Annexe 3.2*[^t-30]*
 
 - 3\.1 L’étiquette-énergie doit avoir au minimum 60 mm de largeur et 120 mm de hauteur. Si elle est imprimée dans un format plus grand, les proportions doivent être conservées. L’étiquette-énergie a un fond blanc.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20220101/fr/xml/image/image1.png)
 
 - A) Trait de l’encadré: 3 pt – angles arrondis 2 mm – X-00-00-00
 - B) Logo de la Suisse: 8 mm de large, 8 mm de haut – coins arrondis 2 mm – 00-X-X-00
@@ -1705,11 +1705,11 @@ On entend par types de véhicules actuels au sens du ch. 3.3 pour 2020 les voitu
 
 ### 10 Exemple de présentation d’une étiquette-énergie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210901/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20220101/fr/xml/image/image2.png)
 
 ### 11 Exemple de présentation de l’échelle des catégories d’efficacité énergétique
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210901/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20220101/fr/xml/image/image3.png)
 
 Annexe 4.2*[^t-32]*
 
