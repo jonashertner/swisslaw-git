@@ -4,13 +4,12 @@ number: "641.11"
 title: Vollzugsverordnung zum Gesetz über die sparsame Energienutzung und die Förderung erneuerbarer Energien
 short: "Kantonale Energieverordnung, kEnV"
 language: de
-version: 2021-11-01
-valid_until: 2021-12-31
+version: 2022-01-01
 version_adopted: 2021-06-22
 adopted: 2021-06-22
 in_force: 2021-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/641.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/650/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/767/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/650/pdf_file"
 
 (Kantonale Energieverordnung, kEnV)
 
-vom 22.06.2021 (Stand 01.11.2021)
+vom 22.06.2021 (Stand 01.01.2022)
 
 Der Regierungsrat von Nidwalden,
 
@@ -483,13 +482,31 @@ beschliesst:
 
 [^40-1]: NG 641.1
 
+#### § 41
+
+**Fonds zur Finanzierung des Förderprogramms**
+
+<sup>1</sup> Dem Fonds zur Finanzierung des Förderprogramms gemäss Art. 27 kEnG[^41-1] werden zugewiesen:
+
+- 1\. die Globalbeiträge und Finanzhilfen des Bundes zur Förderung von Massnahmen gemäss Art. 47 ff. des eidgenössischen Energiegesetzes (EnG)[^41-2];
+- 2\. die Ersatzabgaben gemäss Art. 19b kEnG;
+- 3\. die vom Landrat bereitgestellten Mittel;
+- 4\. die freiwilligen Zuwendungen an das Förderprogramm durch Personen des öffentlichen oder privaten Rechts.
+
+[^41-1]: NG 641.1
+[^41-2]: SR 730.0
+
 #### § 42
 
 **1. Grundsatz**
 
+<sup>1</sup> Die Förderbeiträge gemäss Art. 28 kEnG[^42-1] werden mit den Mitteln des Fonds zur Finanzierung des Förderprogramms finanziert.
+
 <sup>2</sup> Die Förderbedingungen, die Bemessung der Förderbeiträge sowie die Anforderungen an die entsprechenden Gesuche stützen sich auf das harmonisierte Fördermodell der Kantone.
 
 <sup>3</sup> Für Gebäude des Kantons werden keine Förderbeiträge ausgerichtet.
+
+[^42-1]: NG 641.1
 
 ## 3 Fördermassnahmen
 
