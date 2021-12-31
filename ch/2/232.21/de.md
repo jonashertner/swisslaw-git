@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Juni 2013 über den Schutz des Schweizerwappens und
 short: WSchG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/613"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2013-06-21
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2015-613-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-613-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20170101/de"
 
 (Wappenschutzgesetz, WSchG)
 
-vom 21. Juni 2013 (Stand am 1. Januar 2017)
+vom 21. Juni 2013 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -350,15 +350,20 @@ Das Gericht kann, selbst im Falle eines Freispruchs die Einziehung oder Vernicht
 
 <sup>2</sup> Das IGE kann bei der zuständigen Strafverfolgungsbehörde Anzeige erstatten und im Verfahren die Rechte einer Privatklägerschaft wahrnehmen.
 
-## 5. Kapitel: Hilfeleistung der Zollverwaltung
+## 5. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit****
+
+[^chap5-1]
+
+[^chap5-1]: Fassung gemäss Ziff. I 5 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 32
 
-<sup>1</sup> Für die Hilfeleistung der Zollverwaltung gelten die Artikel 70–72*h* MSchG[^32-1] sinngemäss.
+<sup>1</sup> Für die Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit (BAZG) gelten die Artikel 70–72*h* MSchG[^32-1] sinngemäss.[^32-2]
 
 <sup>2</sup> Wer nach Artikel 20, 21 oder 22 zur Zivilklage berechtigt ist, kann Antrag auf Hilfeleistung stellen.
 
 [^32-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^32-2]: Fassung gemäss Ziff. I 5 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -428,7 +433,7 @@ Anhang 1
 
 ## Schweizerwappen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/de/xml/image/image1.png)
 
 Farbdefinition Rot:
 
@@ -452,7 +457,7 @@ Anhang 2
 
 ## Schweizerfahne
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/de/xml/image/image2.png)
 
 Farbdefinition Rot:
 
@@ -487,7 +492,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annex3-lvlu1-3]
+...[^annex3-lvlu1-3]
 
 [^annex3-lvlu1-1]: [BS **2** 935; [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 13]
 [^annex3-lvlu1-2]: [AS **1** 147]

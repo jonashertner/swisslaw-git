@@ -4,11 +4,11 @@ title: "Federal Act of 21 June 2013 on the Protection of the Swiss Coat of Arms 
 short: CAPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/613"
 language: en
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2013-06-21
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/en/xml/fedlex-data-admin-ch-eli-cc-2015-613-20170101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20170101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2015-613-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Coat of Arms Protection Act, CAPA)
 
-of 21 June 2013 (Status as of 1 January 2017)
+of 21 June 2013 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation
 
@@ -167,7 +167,7 @@ Where signs under Article 8 paragraphs 1 and 2, 10 and 11 are understood by the 
 
 #### Art. 14
 
-<sup>1</sup> A sign whose use is prohibited under Articles 8-13 may not be registered as a trade mark, design, business name or name of an association or foundation or as an element of such.
+<sup>1</sup> A sign whose use is prohibited under Articles 8–13 may not be registered as a trade mark, design, business name or name of an association or foundation or as an element of such.
 
 <sup>2</sup> The prohibition on registration also applies to those cases in which use is permissible under Article 8 paragraphs 4 and 5.
 
@@ -352,15 +352,20 @@ Even in the event of an acquittal, the court may order the forfeiture or destruc
 
 <sup>2</sup> The IPI may file a complaint with the competent prosecution authority and exercise the rights of a private claimant in proceedings.
 
-## Chapter 5 Assistance provided by the Customs Administration
+## Chapter 5 Assistance provided by the Federal Office for Customs and Border Security****
+
+[^chap5-1]
+
+[^chap5-1]: Amended by No I 5 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 32
 
-<sup>1</sup> With regard to assistance provided by the Customs Administration, Articles 70–72*h* TmPA[^32-1] apply by analogy.
+<sup>1</sup> With regard to assistance provided by the Federal Office for Customs and Border Security, Articles 70–72*h* TmPA[^32-1] apply by analogy.[^32-2]
 
 <sup>2</sup> A request for assistance may be filed by any person who is entitled to bring a civil action under Articles 20, 21 or 22.
 
 [^32-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^32-2]: Amended by No I 5 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change in the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapter 6 Final Provisions
 
@@ -422,7 +427,7 @@ Commencement date: 1 January 2017[^37-3]
 
 [^37-1]: [AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609)
 [^37-2]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
-[^37-3]: Federal Council Decree of 2 Sept. 2015
+[^37-3]: FCD of 2 Sept. 2015.
 
 Annex 1
 
@@ -430,7 +435,7 @@ Annex 1
 
 ## The Swiss coat of arms
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/en/xml/image/image1.png)
 
 Definition of the colour red:
 
@@ -454,7 +459,7 @@ Annex 2
 
 ## The Swiss flag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/en/xml/image/image2.png)
 
 Definition of the colour red:
 

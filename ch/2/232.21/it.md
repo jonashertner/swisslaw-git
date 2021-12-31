@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 2013 sulla protezione dello stemma della Sv
 short: LPSt
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/613"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2013-06-21
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2015-613-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-613-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20170101/it"
 
 (Legge sulla protezione degli stemmi, LPSt**[^t-1]**)
 
-del 21 giugno 2013 (Stato 1° gennaio 2017)
+del 21 giugno 2013 (Stato 1° gennaio 2022)
 
 [^t-1]: Abbreviazione rettificata dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -352,15 +352,20 @@ Anche in caso di assoluzione, il giudice può ordinare la confisca o la distruzi
 
 <sup>2</sup> L’IPI può sporgere denuncia all’autorità di perseguimento penale competente e avvalersi nel procedimento dei diritti dell’accusatore privato.
 
-## Capitolo 5: Intervento dell’Amministrazione delle dogane
+## Capitolo 5: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini****
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta il n. I 5 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 32
 
-<sup>1</sup> All’intervento dell’Amministrazione delle dogane si applicano per analogia gli articoli 70–72*h* LPM[^32-1].
+<sup>1</sup> All’intervento dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC) si applicano per analogia gli articoli 70–72*h* LPM[^32-1].[^32-2]
 
 <sup>2</sup> Può domandare l’intervento chi è legittimato all’azione civile secondo gli articoli 20, 21 o 22.
 
 [^32-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^32-2]: Nuovo testo giusta il n. I 5 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Capitolo 6: Disposizioni finali
 
@@ -430,7 +435,7 @@ Allegato 1
 
 ## Stemma della Confederazione Svizzera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/it/xml/image/image1.png)
 
 Definizione del colore rosso:
 
@@ -454,7 +459,7 @@ Allegato 2
 
 ## Bandiera svizzera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/it/xml/image/image2.png)
 
 Definizione del colore rosso:
 
@@ -489,7 +494,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-…[^annex3-lvlu1-3]
+...[^annex3-lvlu1-3]
 
 [^annex3-lvlu1-1]: [CS **2** 919; [RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 13]
 [^annex3-lvlu1-2]: [CS **1** 143]

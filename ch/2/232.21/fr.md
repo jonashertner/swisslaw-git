@@ -4,11 +4,11 @@ title: "Loi du 21 juin 2013 sur la protection des armoiries de la Suisse et des 
 short: LPAP
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/613"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2013-06-21
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-613-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-613-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/613/20170101/fr"
 
 (Loi sur la protection des armoiries, LPAP)[^t-1]
 
-du 21 juin 2013 (Etat le 1<sup>er</sup> janvier 2017)
+du 21 juin 2013 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -181,9 +181,9 @@ Les signes visés aux art. 8, al. 1 et 2, 10 et 11 qui sont considérés par les
 
 **Emploi**
 
-<sup>1</sup> Les armoiries, les drapeaux et les autres emblèmes des Etats étrangers, les signes susceptibles d’être confondus avec eux et les signes nationaux figuratifs ou verbaux des Etats étrangers ne peuvent être utilisés que par l’Etat concerné, sous réserve de l’art. 16.
+<sup>1</sup> Les armoiries, les drapeaux et les autres emblèmes des États étrangers, les signes susceptibles d’être confondus avec eux et les signes nationaux figuratifs ou verbaux des États étrangers ne peuvent être utilisés que par l’État concerné, sous réserve de l’art. 16.
 
-<sup>2</sup> L’Etat concerné peut utiliser les signes visés à l’al. 1pour autant qu’un tel emploi ne soit ni trompeur, ni contraire à l’ordre public, aux bonnes mœurs ou au droit.
+<sup>2</sup> L’État concerné peut utiliser les signes visés à l’al. 1pour autant qu’un tel emploi ne soit ni trompeur, ni contraire à l’ordre public, aux bonnes mœurs ou au droit.
 
 <sup>3</sup> Les armoiries, les drapeaux et les autres emblèmes d’autres collectivités étrangères, notamment de communes, peuvent être utilisés pour autant qu’un tel emploi ne soit ni trompeur, ni contraire à l’ordre public, aux bonnes mœurs ou au droit.
 
@@ -219,7 +219,7 @@ Les signes dont l’emploi est illicite en vertu de l’art. 15 ne peuvent être
 L’Institut fédéral de la propriété intellectuelle (IPI) tient une liste électronique:
 
 - a. des signes publics suisses;
-- b. des signes publics qui lui sont communiqués par des Etats étrangers.
+- b. des signes publics qui lui sont communiqués par des États étrangers.
 
 <sup>2</sup> Il rend cette liste accessible en ligne.
 
@@ -352,15 +352,20 @@ Même en cas d’acquittement, le juge peut ordonner la confiscation ou la destr
 
 <sup>2</sup> L’IPI peut dénoncer une infraction auprès des autorités de poursuite pénale compétentes et faire valoir les droits d’une partie plaignante dans la procédure.
 
-## Chapitre 5 Intervention de l’Administration des douanes
+## Chapitre 5 Intervention de l’Office fédéral de la douane et de la sécurité des frontières****
+
+[^chap5-1]
+
+[^chap5-1]: Nouvelle teneur selon le ch. I 5 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 32
 
-<sup>1</sup> Les art. 70 à 72*h* LPM[^32-1] s’appliquent par analogie à l’intervention de l’Administration des douanes.
+<sup>1</sup> Les art. 70 à 72*h* LPM[^32-1] s’appliquent par analogie à l’intervention de l’Office fédéral de la douane et de la sécurité des frontières (OFDF).[^32-2]
 
 <sup>2</sup> Quiconque a qualité pour intenter une action civile selon les art. 20, 21 ou 22, peut présenter une demande d’intervention.
 
 [^32-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^32-2]: Nouvelle teneur selon le ch. I 5 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -430,7 +435,7 @@ Annexe 1
 
 ## Les armoiries de la Confédération suisse
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/fr/xml/image/image1.png)
 
 Définition de la couleur rouge:
 
@@ -454,7 +459,7 @@ Annexe 2
 
 ## Le drapeau suisse
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20170101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/613/20220101/fr/xml/image/image2.png)
 
 Définition de la couleur rouge:
 
@@ -489,7 +494,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-…[^annex3-lvlu1-3]
+...[^annex3-lvlu1-3]
 
 [^annex3-lvlu1-1]: [RS **2** 928;[RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 25, [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 13]
 [^annex3-lvlu1-2]: [RS **1** 137]
