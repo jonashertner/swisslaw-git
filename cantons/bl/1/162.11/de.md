@@ -4,13 +4,12 @@ number: "162.11"
 title: Verordnung zum Gesetz über die Information und den Datenschutz
 short: "Informations- und Datenschutzverordnung, IDV"
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2012-12-04
+version: 2022-01-01
+version_adopted: 2021-12-07
 adopted: 2012-12-04
 in_force: 2013-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/162.11"
-pdf: "https://bl.clex.ch/api/de/versions/2853/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3657/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2853/pdf_file"
 
 (Informations- und Datenschutzverordnung, IDV)
 
-Vom 04.12.2012 (Stand 01.01.2013)
+Vom 04.12.2012 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -52,6 +51,20 @@ beschliesst:
 
 <sup>4</sup> Die verantwortlichen Organe prüfen periodisch die Angemessenheit der in ihrer Organisation ergriffenen Sicherheitsmassnahmen und passen diese dem aktuellen Stand der Technik an.
 
+<sup>5</sup> Die Zuteilung der Gesamtverantwortung (§ 6 Abs. 2 IDG) richtet sich insbesondere nach folgenden Aspekten:
+
+- a. Möglichkeit eines beteiligten öffentlichen Organs, über den Inhalt und den Zweck des gemeinsamen Datenbestands zu entscheiden;
+- b. alleinige Verfügung über die zugeteilten personellen und finanziellen Ressourcen bei einem beteiligten öffentlichen Organ, um die rechtmässige Datenbearbeitung und die Informationssicherheit zu gewährleisten.
+
+<sup>6</sup> Der Nachweis für die Einhaltung der Datenschutzbestimmungen (§ 6 Abs. 3 IDG) wird erbracht durch die Dokumentation insbesondere:
+
+- a. der rechtlichen Grundlagen für die Bearbeitung der Personendaten,
+- b. der Risiken und Abhilfemassnahmen,
+- c. der Prozesse sowie
+- d. der Verantwortlichkeiten.
+
+<sup>7</sup> Die Dokumentation gemäss Abs. 6 hat in einem strukturierten Datenschutz-Managementsystem zu erfolgen, wenn das öffentliche Organ besondere Personendaten oder Personendaten bearbeitet, die einer spezialgesetzlichen Geheimhaltungspflicht unterliegen.
+
 #### § 3
 
 **Zugangsberechtigung zu Räumlichkeiten**
@@ -82,7 +95,13 @@ beschliesst:
 
 **Sensibilisierung für die Informationssicherheit**
 
-<sup>1</sup> Das verantwortliche öffentliche Organ (§ 6 IDG) sensibilisiert seine Mitarbeitenden, die Auftragnehmerinnen und Auftragnehmer sowie die zugriffsberechtigten Dritten für die Belange der Informationssicherheit und stellt sicher, dass diese ihre Verantwortlichkeit kennen.
+<sup>1</sup> Das verantwortliche öffentliche Organ (§ 6 IDG) sensibilisiert seine Mitarbeitenden, die Auftragsdatenbearbeiterinnen und Auftragsdatenbearbeiter sowie die zugriffsberechtigten Dritten für die Belange der Informationssicherheit und stellt sicher, dass diese ihre Verantwortlichkeit kennen.
+
+#### § 7a
+
+**Informationspflicht bei der Datenbeschaffung (§ 14 [IDG](https://bl.clex.ch/data/162/de/art14))**
+
+<sup>1</sup> Liefert das öffentliche Organ regelmässig Personendaten zu statistischen Zwecken an das Amt für Daten und Statistik, informiert es die betroffene Person darüber bei der Erhebung der Daten.
 
 ## 2 Datenbearbeitung im Auftrag (§ 7 [IDG](https://bl.clex.ch/data/162/de/art7))
 
@@ -92,15 +111,15 @@ beschliesst:
 
 <sup>1</sup> Aufträge zum Bearbeiten von Personendaten durch Organisationseinheiten oder Private, die nicht dem Informations- und Datenschutzgesetz (IDG) unterstehen, müssen schriftlich erteilt werden.
 
-<sup>2</sup> Das verantwortliche öffentliche Organ stellt mit organisatorischen oder technischen Massnahmen sowie vertraglich sicher, dass die staatliche Aufgabenerfüllung auch dann ohne wesentliche Beeinträchtigung gewährleistet ist, wenn der Auftragsnehmer oder die Auftragsnehmerin die schriftliche Vereinbarung nicht einhält oder die Geschäftstätigkeit einstellt.
+<sup>2</sup> Das verantwortliche öffentliche Organ stellt mit organisatorischen oder technischen Massnahmen sowie vertraglich sicher, dass die staatliche Aufgabenerfüllung auch dann ohne wesentliche Beeinträchtigung gewährleistet ist, wenn die Auftragsdatenbearbeiterin oder der Auftragsdatenbearbeiter die schriftliche Vereinbarung nicht einhält oder die Geschäftstätigkeit einstellt.
 
-## 3 Vorabkontrolle (§ 12 [IDG](https://bl.clex.ch/data/162/de/art12))
+## 3 Vorabkonsultation der Aufsichtsstelle Datenschutz (§ 12 [IDG](https://bl.clex.ch/data/162/de/art12))
 
 #### § 9
 
-**Besondere Risiken**
+**Hohes Risiko**
 
-<sup>1</sup> Besondere Risiken im Sinne von § 12 Abs. 1 IDG liegen insbesondere vor, wenn die Datenbearbeitung:
+<sup>1</sup> Ein hohes Risiko für die Grundrechte der betroffenen Personen im Sinn von § 12 Abs. 1 Bst. b IDG liegt insbesondere vor, wenn die Datenbearbeitung:
 
 - a. ein Abrufverfahren vorsieht oder
 - b. besondere Personendaten (§ 3 Abs. 4 IDG) betrifft oder
@@ -110,25 +129,25 @@ beschliesst:
 
 #### § 10
 
-**Zeitpunkt und Durchführung der Vorabkontrolle**
+**Zeitpunkt und Durchführung der Vorabkonsultation**
 
-<sup>1</sup> Die erste Kontaktaufnahme mit der oder dem Datenschutzbeauftragten muss zu einem Zeitpunkt erfolgen, der es dem verantwortlichen öffentlichen Organ ermöglicht, das Ergebnis der Vorabkontrolle noch zu berücksichtigen.
+<sup>1</sup> Die 1. Kontaktaufnahme mit der Aufsichtsstelle Datenschutz muss zu einem Zeitpunkt erfolgen, der es dem verantwortlichen öffentlichen Organ ermöglicht, das Ergebnis der Vorabkonsultation noch zu berücksichtigen.
 
-<sup>2</sup> Die Vorabkontrolle findet je nach Umfang des Vorhabens in 1 Prüfungsschritt oder in mehreren Prüfungsschritten statt.
+<sup>2</sup> Die Vorabkonsultation findet je nach Umfang des Vorhabens in einem Prüfungsschritt oder in mehreren Prüfungsschritten statt.
 
-<sup>3</sup> Die oder der Datenschutzbeauftragte nimmt den jeweiligen Prüfungsschritt innert angemessener Frist vor und teilt dem öffentlichen Organ das Prüfungsergebnis mit.
+<sup>3</sup> Die Aufsichtsstelle Datenschutz nimmt den jeweiligen Prüfungsschritt innert angemessener Frist vor und teilt dem öffentlichen Organ das Prüfungsergebnis mit.
 
 #### § 11
 
 **Inhalt der vorzulegenden Dokumentation**
 
-<sup>1</sup> Die vom öffentlichen Organ der oder dem Datenschutzbeauftragten vorzulegende Dokumentation enthält alle für die Beurteilung relevanten Unterlagen, insbesondere:
+<sup>1</sup> Die vom öffentlichen Organ der Aufsichtsstelle Datenschutz vorzulegende Dokumentation enthält alle für die Beurteilung relevanten Unterlagen, insbesondere:
 
 - a. die Beschreibung des Vorhabens (einschliesslich der Prozesse und Abläufe),
 - b. die Rechtsgrundlage für die Datenbearbeitung und
 - c. eine Übersicht über die Massnahmen zur Verhinderung von Persönlichkeitsverletzungen.
 
-## 4 Verzeichnis der Informationsbestände mit Personendaten (§ 22 [IDG](https://bl.clex.ch/data/162/de/art22))
+## 4 Verzeichnis der Verfahren, bei denen Personendaten bearbeitet werden (§ 22 [IDG](https://bl.clex.ch/data/162/de/art22))
 
 #### § 12
 
@@ -161,7 +180,7 @@ beschliesst:
 - b. die Anzahl der gutgeheissenen und der ganz oder teilweise abgewiesenen schriftlichen Gesuche, und
 - c. besondere Vorkommnisse im Zusammenhang mit der Gewährung des Informationszugangs.
 
-<sup>6</sup> Die Landeskanzlei stellt die Informationen der oder dem Datenschutzbeauftragten für die Berichterstattung gemäss § 47 IDG zur Verfügung.
+<sup>6</sup> Die Landeskanzlei stellt die Informationen der Aufsichtsstelle Datenschutz für die Berichterstattung gemäss § 47 IDG zur Verfügung.
 
 #### § 14
 
@@ -220,7 +239,7 @@ beschliesst:
 
 **Einschränkung des Informationszugangs zum Schutz des Kollegialitätsprinzips (§ 27 Abs. 2 Bst. c [IDG](https://bl.clex.ch/data/162/de/art27))**
 
-<sup>1</sup> Es besteht kein Anspruch auf Zugang zu den Beschlussentwürfen und Berichten sowie zu den verwaltungsinternen Mitberichten oder Vernehmlassungen und anderen vergleichbaren Meinungsäusserungen, die die Direktionen und die Landeskanzlei sowie der Rechtsdienst des Regierungsrats im Hinblick auf die Beschlussfassung durch den Regierungsrat erstellen.
+<sup>1</sup> Es besteht kein Anspruch auf Zugang zu den Beschlussentwürfen und Berichten sowie zu den verwaltungsinternen Mitberichten oder Vernehmlassungen und anderen vergleichbaren Meinungsäusserungen, die die Direktionen und die Landeskanzlei sowie der Rechtsdienst von Regierungsrat und Landrat im Hinblick auf die Beschlussfassung durch den Regierungsrat erstellen.
 
 <sup>2</sup> Dies gilt sinngemäss auch für die Beschlussentwürfe und Berichte sowie die verwaltungsinternen Mitberichte oder Vernehmlassungen und anderen vergleichbaren Meinungsäusserungen, die im Hinblick auf die Beschlussfassung durch den Gemeinderat erstellt werden, sofern die Gemeinde keine abweichende Regelungen erlassen hat.
 
@@ -298,7 +317,7 @@ beschliesst:
 <sup>1</sup> Die Verordnung vom 11. März 2008[^26-1] über die Informationssicherheit (VIS) wird wie folgt geändert: ...[^26-2]
 
 [^26-1]: [SGS 162.51](https://bl.clex.ch/data/162.51/de)
-[^26-2]: Vgl. GS 37.1185
+[^26-2]: GS 37.1185
 
 #### § 27
 
