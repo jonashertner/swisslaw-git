@@ -4,13 +4,13 @@ number: "903.1"
 title: Gesetz über die wirtschaftliche Landesversorgung
 short: WLG
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2025-06-30
+version_adopted: 2021-11-05
 adopted: 2012-02-09
 in_force: 2012-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/903.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6014/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7704/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Wirtschaftliche Landesversorgung – G
 
 (WLG)
 
-vom 09.02.2012 (Fassung in Kraft getreten am 01.04.2019)
+vom 09.02.2012 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -61,7 +61,7 @@ beschliesst:
 
 <sup>1</sup> Es wird ein kantonales Organ für die wirtschaftliche Landesversorgung geschaffen (das kantonale Organ), das der für die Wirtschaft zuständigen Direktion[^3-1] (die Direktion) angegliedert ist.
 
-[^3-1]: Heute: Volkswirtschaftsdirektion.
+[^3-1]: Heute: Volkswirtschafts- und Berufsbildungsdirektion.
 
 #### Art. 4
 
@@ -93,8 +93,8 @@ beschliesst:
 - b) Feuerwehr;
 - c) Amt für Gesundheit;
 - d) Kantonsarztamt;
-- e) Amt für Bevölkerungsschutz und Militär;
-- f) Amt für Landwirtschaft;
+- e) Amt für zivile Sicherheit und Militär;
+- f) Grangeneuve;
 - g) Amt für Wald und Natur;
 - h) Amt für Lebensmittelsicherheit und Veterinärwesen / Kantonstierärztin oder Kantonstierarzt;
 - i) Amt für Umwelt;

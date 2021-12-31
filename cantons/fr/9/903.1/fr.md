@@ -4,13 +4,13 @@ number: "903.1"
 title: "Loi sur l'approvisionnement économique du pays"
 short: LAE
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2025-06-30
+version_adopted: 2021-11-05
 adopted: 2012-02-09
 in_force: 2012-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/903.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6014/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7704/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Approvisionnement économique du pays – L
 
 (LAE)
 
-du 09.02.2012 (version entrée en vigueur le 01.04.2019)
+du 09.02.2012 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -61,7 +61,7 @@ Décrète:
 
 <sup>1</sup> Il est créé un organe cantonal de l'approvisionnement économique (ci-après: l'organe cantonal), qui est rattaché à la Direction compétente en matière d'économie[^3-1] (ci-après: la Direction).
 
-[^3-1]: Actuellement: Direction de l'économie et de l'emploi.
+[^3-1]: Actuellement: Direction de l'économie, de l'emploi et de la formation professionnelle.
 
 #### Art. 4
 
@@ -93,8 +93,8 @@ Décrète:
 - b) le corps des sapeurs-pompiers;
 - c) le Service de la santé publique;
 - d) le Service du médecin cantonal;
-- e) le Service de la protection de la population et des affaires militaires;
-- f) le Service de l'agriculture;
+- e) le Service de la sécurité civile et militaire;
+- f) Grangeneuve;
 - g) le Service des forêts et de la nature;
 - h) le Service de la sécurité alimentaire et des affaires vétérinaires, par le ou la vétérinaire cantonal-e;
 - i) le Service de l'environnement;
