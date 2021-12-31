@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2021-05-01
+version: 2022-01-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20210501-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20220101-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20210501/fr"
 
 (OFE)
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> mai 2021)
+du 27 juin 1995 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -332,7 +332,7 @@ Les détenteurs d’animaux doivent enregistrer les données suivantes relatives
 
 <sup>1</sup> L’identification des animaux à onglons doit être uniforme, nette et permanente, et permettre la reconnaissance individuelle de chaque animal. L’OSAV édicte des dispositions d’exécution de caractère technique sur le mode d’identification et son exécution.
 
-<sup>1bis</sup> Les marques auriculaires avec puce électronique pour l’identification des animaux à onglons sont distribuées par l’exploitant de la banque de données sur le trafic des animaux.[^10-1]
+<sup>1bis</sup> …[^10-1]
 
 <sup>2</sup> L’identification des animaux de l’espèce porcine et du gibier doit seulement permettre la reconnaissance de l’unité d’élevage dans laquelle l’animal est né.[^10-2]
 
@@ -351,7 +351,7 @@ L’identification doit être effectuée au plus tard:
 
 <sup>6</sup> Les marques d’identification des animaux à onglons péris ou tués ne peuvent être enlevées que dans les usines ou installations d’élimination.[^10-5]
 
-[^10-1]: Introduit par le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^10-1]: Introduit par le ch. I de l’O du 25 avr. 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Abrogé par l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 [^10-3]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 [^10-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
@@ -373,7 +373,7 @@ L’identification doit être effectuée au plus tard:
 
 Le document d’accompagnement doit contenir les indications suivantes:
 
-- a.[^12-2] l’adresse de l’unité d’élevage en provenance de laquelle l’animal est emmené et le numéro BDTA attribué par l’exploitant de la banque de données sur le trafic des animaux (ordonnance du 26 octobre 2011 sur la BDTA[^12-3]);
+- a.[^12-2] l’adresse de l’unité d’élevage en provenance de laquelle l’animal est emmené et le numéro BDTA attribué par Identitas SA conformément à l’art. 15, al. 1, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA)[^12-3];
 - b. l’espèce animale;
 - c.[^12-4] pour les animaux de l’espèce bovine: le numéro d’identification, l’âge et le sexe de l’animal;
 - d.[^12-5] pour les animaux des espèces ovine et caprine: le numéro d’identification;
@@ -396,7 +396,7 @@ En cas de danger accru d’épizootie, le vétérinaire cantonal peut prescrire:
 <sup>6</sup> …[^12-9]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
+[^12-2]: Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^12-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 [^12-4]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^12-5]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
@@ -510,7 +510,7 @@ Il communique à l’exploitant de la banque de données sur le trafic des anima
 
 <sup>3</sup> …[^15c-2]
 
-<sup>4</sup> D’ici à l’établissement du passeport, la confirmation d’enregistrement visée à l’art. 22, al. 2, de l’ordonnance du 26 octobre 2011 sur la BDTA[^15c-3] sert de document d’identification.[^15c-4]
+<sup>4</sup> D’ici à l’établissement du passeport, la confirmation d’enregistrement visée à l’art. 27, al. 2, OId-BDTA[^15c-3].[^15c-4]
 
 <sup>5</sup> La conservation du passeport équin incombe au propriétaire de l’équidé. Le passeport, une copie du signalement ou une copie de la couverture du passeport affichant le numéro de la puce électronique doit être conservé là où l’équidé est détenu.[^15c-5]
 
@@ -523,7 +523,7 @@ Il communique à l’exploitant de la banque de données sur le trafic des anima
 [^15c-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-2]: Abrogé par le ch. I de l’O du 25 mai 2011, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
 [^15c-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^15c-4]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^15c-4]: Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^15c-5]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-6]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-7]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
@@ -580,7 +580,7 @@ Le passeport équin doit de plus comprendre les annexes suivantes:
 
 **Élaboration et établissement du passeport de base et du passeport équin**[^15dbis-1]
 
-<sup>1</sup> Le passeport équin est élaboré à partir d’un passeport de base. Par «passeport de base» on entend une ébauche du passeport qui contient déjà les données énumérées à l’art. 15*d*, al. 1, let. a, b, d, ch. 1, 3, 4 et 6, et let. e. Le passeport de base est établi par l’exploitant de la banque de données sur le trafic des animaux.
+<sup>1</sup> Le passeport équin est élaboré à partir d’un passeport de base. Par «passeport de base» on entend une ébauche du passeport qui contient déjà les données énumérées à l’art. 15*d*, al. 1, let. a, b, d, ch. 1, 3, 4 et 6, et let. e.[^15dbis-2]
 
 <sup>2</sup> Le passeport équin est établi par les services reconnus par l’OFAG, sauf dans les cas prévus à l’art. 15*f*, al. 1.
 
@@ -588,7 +588,7 @@ Le passeport équin doit de plus comprendre les annexes suivantes:
 
 La reconnaissance peut être accordée:
 
-- a. aux organisations d’élevage d’équidés reconnues conformément à l’art. 5 de l’ordonnance du 31 octobre 2012 sur l’élevage[^15dbis-2];
+- a. aux organisations d’élevage d’équidés reconnues conformément à l’art. 5 de l’ordonnance du 31 octobre 2012 sur l’élevage[^15dbis-3];
 - b. à l’exploitant de la banque de données sur le trafic des animaux;
 - c. à la Fédération suisse des sports équestres.
 
@@ -606,13 +606,15 @@ L’OFAG reconnaît un tel service sur demande si celui-ci:
 
 <sup>5</sup> La reconnaissance est limitée à dix ans au maximum.
 
-<sup>6</sup> Avant de commander un passeport de base auprès de l’exploitant de la banque de données sur le trafic des animaux, le service émetteur de passeports équins vérifie les données enregistrées dans celle-ci pour l’équidé concerné. S’il estime que les données ne sont pas correctes et s’il a une procuration du propriétaire au sens de l’art. 8*a* de l’ordonnance du 26 octobre 2011 sur la BDTA[^15dbis-3], le service émetteur peut modifier les données visées à l’art. 15*d*, al. 1, let. d, ch. 1, 3, 4, 6 et 7, et l’indication de la race. Le propriétaire doit être immédiatement informé de la modification par l’exploitant de la banque de données.
+<sup>6</sup> Avant de commander un passeport de base auprès d’identitas SA, le service émetteur de passeports équins vérifie les données enregistrées dans la banque de données sur le trafic des animaux (BDTA) pour l’équidé concerné. S’il estime que les données ne sont pas correctes et s’il a une procuration du propriétaire au sens de l’art. 20 OId-BDTA[^15dbis-4], le service émetteur peut modifier les données visées à l’art. 15*d*, al. 1, let. d, ch. 1, 3, 4, 6 et 7, et l’indication de la race. Le propriétaire est immédiatement informé de la modification par Identitas SA.[^15dbis-5]
 
 <sup>7</sup> Dès le moment où l’exploitant de la banque de données a émis le passeport de base, le service émetteur de passeports équins ne peut plus modifier les données.
 
 [^15dbis-1]: Introduit par le ch. I de l’O du 25 mai 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)). Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^15dbis-2]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
-[^15dbis-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^15dbis-2]: Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^15dbis-3]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^15dbis-4]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^15dbis-5]: Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 15e
 
@@ -620,7 +622,7 @@ L’OFAG reconnaît un tel service sur demande si celui-ci:
 
 <sup>1</sup>
 
-Le propriétaire doit notifier à l’exploitant de la banque de données sur le trafic des animaux (art. 19 de l’O du 26 oct. 2011 sur la BDTA[^15e-1]) les événements ci-dessous dans les délais suivants:[^15e-2]
+Le propriétaire doit notifier à Identitas SA les événements ci-dessous dans les délais suivants, conformément à l’art. 23 OId-BDTA[^15e-1]:[^15e-2]
 
 - a. la naissance d’un équidé, dans un délai de 30 jours;
 - b. la mort ou l’euthanasie d’un équidé, dans un délai de 30 jours;
@@ -639,35 +641,36 @@ Aucune notification n’est nécessaire si:
 - b. l’animal exporté reste à l’étranger moins de 30 jours;
 - c. l’animal déplacé d’une unité d’élevage à une autre y reste moins de 30 jours.
 
-<sup>3</sup> L’abattoir doit notifier dans les trois jours l’abattage d’un équidé à l’exploitant de la banque de données sur le trafic des animaux.[^15e-3]
+<sup>3</sup> L’abattoir doit notifier dans les trois jours l’abattage d’un équidé à Identitas SA.[^15e-3]
 
-<sup>4</sup> La personne visée à l’art. 15*a*, al. 2, qui identifie un équidé doit notifier à l’exploitant de la banque de données sur le trafic des animaux, dans un délai de 30 jours, les données collectées lors de l’identification conformément à l’annexe 1, ch. 3, let. k, de l’ordonnance du 26 octobre 2011 sur la BDTA.[^15e-4]
+<sup>4</sup> La personne visée à l’art. 15*a*, al. 2, qui identifie un équidé doit notifier à Identitas SA, dans un délai de 30 jours, les données collectées lors de l’identification conformément à l’annexe 1, ch. 4, let. k, OId-BDTA.[^15e-4]
 
 <sup>5</sup> …[^15e-5]
 
-<sup>6</sup> Les services chargés de l’établissement du passeport équin doivent notifier à l’exploitant de la banque de données sur le trafic des animaux, dans un délai de 30 jours à compter de l’établissement du passeport équin, les données collectées conformément à l’annexe 1, ch. 3, let. m, de l’ordonnance du 26 octobre 2011 sur la BDTA.[^15e-6]
+<sup>6</sup> Les services chargés de l’établissement du passeport équin doivent notifier à Identitas SA, dans un délai de 30 jours à compter de l’établissement du passeport équin, les données collectées conformément à l’annexe 1, ch. 4, let. l, OId-BDTA.[^15e-6]
 
-<sup>7</sup> Les notifications selon l’art. 8 de l’ordonnance du 26 octobre 2011 sur la BDTA doivent être faites électroniquement via le portail internet Agate.[^15e-7]
+<sup>7</sup> …[^15e-7]
 
 [^15e-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^15e-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
-[^15e-3]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
-[^15e-4]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
+[^15e-2]: Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^15e-3]: Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^15e-4]: Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^15e-5]: Abrogé par le ch. I de l’O du 20 juin 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^15e-6]: Introduit par le ch. I de l’O du 26 oct. 2011 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)). Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^15e-7]: Introduit par le ch. I de l’O du 26 oct. 2011 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)). Nouvelle teneur selon le ch. III de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4573](https://fedlex.data.admin.ch/eli/oc/2015/770)).
+[^15e-6]: Introduit par le ch. I de l’O du 26 oct. 2011 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)). Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^15e-7]: Introduit par le ch. I de l’O du 26 oct. 2011 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)). Abrogé par l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 15f
 
 **Conventions avec des organisations étrangères reconnues**[^15f-1]
 
-<sup>1</sup> Si une organisation étrangère responsable du herd-book d’une race déterminée d’équidés est reconnue par l’autorité nationale compétente, l’OFAG peut conclure avec elle une convention l’autorisant à attribuer le numéro UELN, à établir le passeport équin, ou les deux, pour les équidés de la race concernée.[^15f-2]
+<sup>1</sup> Si une organisation d’élevage ayant son siège dans l’Union européenne gère le *herd-book* d’une race déterminée d’équidés et si son activité est étendue à la Suisse en vertu de l’art. 13, al. 2, de l’ordonnance du 31 octobre 2012 sur l’élevage[^15f-2], l’OFAG peut conclure avec cette organisation une convention l’autorisant à attribuer le numéro UELN, à établir le passeport équin, ou les deux, pour les équidés de la race concernée.[^15f-3]
 
-<sup>2</sup> Les conventions règlent les obligations de notification visées à l’art. 15*e*, al. 6.[^15f-3]
+<sup>2</sup> Les conventions règlent les obligations de notification visées à l’art. 15*e*, al. 6.[^15f-4]
 
 [^15f-1]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^15f-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^15f-3]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^15f-2]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^15f-3]: Nouvelle teneur selon le ch. II de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^15f-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 ### Section 2**** Identification et enregistrement des chiens****
 
