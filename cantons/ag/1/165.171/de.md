@@ -4,20 +4,20 @@ number: "165.171"
 title: "Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen"
 short: "Spesenverordnung, SpesenV"
 language: de
-version: 2017-07-01
-valid_until: 2021-12-31
-version_adopted: 2016-08-10
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-04-07
 adopted: 2001-01-31
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.171"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2399/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3063/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen
 
-Vom 31.01.2001 (Stand 01.07.2017)
+Vom 31.01.2001 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
