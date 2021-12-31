@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über elektrische Niederspannungserzeugn
 short: NEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/17"
 language: de
-version: 2016-04-20
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/de/xml/fedlex-data-admin-ch-eli-cc-2016-17-20160420-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20160420/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-17-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20160420/de"
 
 (NEV)
 
-vom 25. November 2015 (Stand am 20. April 2016)
+vom 25. November 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -59,20 +59,37 @@ In dieser Verordnung gelten als:
 
 - a. *Bereitstellung auf dem Markt:* jede entgeltliche oder unentgeltliche Abgabe eines Niederspannungserzeugnisses zum Vertrieb, zum Verbrauch oder zur Verwendung auf dem Schweizer Markt im Rahmen einer Geschäftstätigkeit;
 - b. *Inverkehrbringen:* die erstmalige Bereitstellung eines Niederspannungserzeugnisses auf dem Schweizer Markt.
-- c. *Wirtschaftsakteurin:* die Herstellerin, die Bevollmächtigte, die Importeurin und die Händlerin.
+- b<sup>bis</sup>.[^2-1] *Herstellerin:* jede natürliche oder juristische Person, die ein Niederspannungserzeugnis herstellt oder entwickeln oder herstellen lässt und dieses Erzeugnis unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke in Verkehr bringt;
+- b<sup>ter</sup>.[^2-2] *bevollmächtigte Person:* jede in der Schweiz niedergelassene natürliche oder juristische Person, die von einer Herstellerin schriftlich beauftragt wurde, in ihrem Namen bestimmte Aufgaben wahrzunehmen;
+- b<sup>quater</sup>.[^2-3] Importeurin*:* jede in der Schweiz niedergelassene natürliche oder juristische Person, die ein Niederspannungserzeugnis aus dem Ausland in Verkehr bringt;
+- b<sup>quinquies</sup>.[^2-4] *Händlerin:* jede natürliche oder juristische Person in der Lieferkette, die ein Niederspannungserzeugnis auf dem Markt bereitstellt, mit Ausnahme der Herstellerin oder der Importeurin;
+- b<sup>sexies</sup>.[^2-5] *Fulfilment-Dienstleisterin:* jede natürliche oder juristische Person, die im Rahmen einer Geschäftstätigkeit mindestens zwei der folgenden Dienstleistungen anbietet: Lagerhaltung, Verpackung, Adressierung und Versand von Niederspannungserzeugnissen, ohne deren Eigentümerin zu sein; ausgenommen sind Postdienste nach Artikel 2 Buchstabe a des Postgesetzes vom 17. Dezember 2010[^2-6] und alle sonstigen Warenverkehrsdienstleistungen;
+- b<sup>septies</sup>.[^2-7] *Anbieterin von Dienstleistungen der Informationsgesellschaft:* jede natürliche oder juristische Person, die, in der Regel gegen Entgelt, über das Internet und auf individuelle Anforderung einer Empfängerin eine Dienstleistung erbringt;
+- c.[^2-8] *Wirtschaftsakteurin:* die Herstellerin, die bevollmächtigte Person, die Importeurin, die Händlerin und die Fulfilment-Dienstleisterin;
 - d. *Harmonisierte Normen:* die harmonisierten Normen nach der Gesetzgebung über die Produktesicherheit.
 
-<sup>2</sup> Der Bereitstellung auf dem Schweizer Markt gleichgestellt ist die Inbetriebnahme von Produkten zu gewerblichen Zwecken im eigenen Betrieb, falls zuvor keine Bereitstellung auf dem Markt stattgefunden hat.
+<sup>2</sup> Der Bereitstellung auf dem Schweizer Markt gleichgestellt ist die Inbetriebnahme von Niederspannungserzeugnissen zu gewerblichen Zwecken im eigenen Betrieb, falls zuvor keine Bereitstellung auf dem Markt stattgefunden hat.[^2-9]
 
-<sup>3</sup> Im Übrigen gelten die Begriffsbestimmungen nach Artikel 2 der EU-Niederspannungsrichtlinie[^2-1] mit Ausnahme von Artikel 2 Ziffer 9. Zudem gelten die Ausdrucksentsprechungen nach dem Anhang dieser Verordnung.
+<sup>3</sup> Im Übrigen gelten die Begriffsbestimmungen nach Artikel 2 der EU-Niederspannungsrichtlinie[^2-10] mit Ausnahme von Artikel 2 Ziffer 9. Zudem gelten die Ausdrucksentsprechungen nach dem Anhang dieser Verordnung.
 
-[^2-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^2-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-5]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-6]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-7]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-8]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-9]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-10]: Siehe Fussnote zu Art. 1 Abs. 1.
 
 #### Art. 3
 
-**Sicherheit**
+**Sicherheit**[^3-1]
 
-Niederspannungserzeugnisse dürfen nur auf dem Markt bereitgestellt werden, wenn sie den anerkannten Regeln der Technik entsprechen und bei bestimmungsgemässem Aufbau, Unterhalt und Gebrauch Gesundheit und Sicherheit von Personen Haustieren und Sachen nicht gefährden.
+Niederspannungserzeugnisse dürfen nur auf dem Markt bereitgestellt werden, wenn sie den anerkannten Regeln der Technik entsprechen und bei bestimmungsgemässem Aufbau, Unterhalt und Gebrauch die Sicherheit von Personen, Haustieren und Sachen nicht gefährden.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 ## 2. Kapitel: Bereitstellung von neuen Niederspannungserzeugnissen auf dem Markt
 
@@ -88,12 +105,13 @@ Niederspannungserzeugnisse dürfen nur auf dem Markt bereitgestellt werden, wenn
 
 <sup>3</sup>
 
-Eine Importeurin oder eine Händlerin gilt als Herstellerin im Sinne dieser Verordnung und unterliegt deren Pflichten, wenn sie:
+Eine Importeurin oder eine Händlerin gilt als Herstellerin im Sinne dieser Verordnung und unterliegt den entsprechenden Pflichten, wenn sie:[^4-2]
 
 - a. ein Niederspannungserzeugnis unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke in Verkehr bringt; oder
 - b. ein bereits auf dem Markt befindliches Niederspannungserzeugnis so verändert, dass dessen Konformität mit dieser Verordnung beeinträchtigt werden kann.
 
 [^4-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^4-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 #### Art. 5
 
@@ -109,11 +127,17 @@ Eine Importeurin oder eine Händlerin gilt als Herstellerin im Sinne dieser Vero
 
 **Identifizierung der Erzeugnisse**
 
+<sup>1</sup>
+
 Auf dem Niederspannungserzeugnis oder, wenn dies nicht möglich ist, auf seiner Verpackung oder in den beigefügten Unterlagen müssen folgende Angaben angebracht werden:
 
 - a. Typen-, Chargen- oder Seriennummer oder ein anderes Kennzeichen, das die Identifizierung des Erzeugnisses erlaubt;
 - b. Name, Handelsname oder die eingetragene Handelsmarke der Herstellerin und gegebenenfalls der Importeurin;
 - c. die Kontaktadresse der Person nach Buchstabe b.
+
+<sup>2</sup> Hat die Herstellerin weder eine Niederlassung in der Schweiz noch eine bevollmächtigte Person bezeichnet und gibt es keine Importeurin, so müssen auf dem Niederspannungserzeugnis oder, wenn dies nicht möglich ist, auf seiner Verpackung oder in den beigefügten Unterlagen zusätzlich der Name, der Handelsname oder die eingetragene Handelsmarke sowie die Kontaktadresse der Fulfilment-Dienstleisterin angebracht werden.[^6-1]
+
+[^6-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 #### Art. 7
 
@@ -131,7 +155,14 @@ Auf dem Niederspannungserzeugnis oder, wenn dies nicht möglich ist, auf seiner 
 
 <sup>1</sup> Wer als Wirtschaftsakteurin ein Niederspannungserzeugnis auf dem Markt bereitstellt, muss eine Konformitätserklärung vorlegen können, aus der hervorgeht, dass das Niederspannungserzeugnis den grundlegenden Anforderungen entspricht.
 
-<sup>2</sup> Für Erzeugnisse gemäss Artikel 1 Absatz 1 muss das Konformitätsbewertungsverfahren nach Anhang III der EU-Niederspannungsrichtlinie[^8-1] durchgeführt werden.
+<sup>1bis</sup>
+
+Die Fulfilment-Dienstleisterin unterliegt der Pflicht nach Absatz 1, wenn:
+
+- a. die Herstellerin weder eine Niederlassung in der Schweiz noch eine bevollmächtigte Person bezeichnet hat; und
+- b. es keine Importeurin gibt.[^8-1]
+
+<sup>2</sup> Für Erzeugnisse gemäss Artikel 1 Absatz 1 muss das Konformitätsbewertungsverfahren nach Anhang III der EU-Niederspannungsrichtlinie[^8-2] durchgeführt werden.
 
 <sup>3</sup> Fällt das Niederspannungserzeugnis unter mehrere Regelungen, die eine Konformitätserklärung verlangen, so ist eine einzige Erklärung auszustellen. Diese muss alle massgebenden Informationen zu den betroffenen Regelungen enthalten.
 
@@ -153,7 +184,8 @@ Die Konformitätserklärung muss:
 
 <sup>5</sup> Sie muss laufend aktuell gehalten werden.
 
-[^8-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^8-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^8-2]: Siehe Fussnote zu Art. 1 Abs. 1.
 
 #### Art. 9
 
@@ -183,6 +215,13 @@ Die Konformitätserklärung muss während zehn Jahren ab dem Inverkehrbringen de
 
 <sup>1</sup> Die Wirtschaftsakteurin muss technische Unterlagen zur Verfügung halten, die es der Kontrollstelle (Art. 21 EleG) erlauben, die Einhaltung der grundlegenden Anforderungen zu überprüfen.
 
+<sup>1bis</sup>
+
+Die Fulfilment-Dienstleisterin unterliegt der Pflicht nach Absatz 1, wenn:
+
+- a. die Herstellerin weder eine Niederlassung in der Schweiz noch eine bevollmächtigte Person bezeichnet hat; und
+- b. es keine Importeurin gibt.[^12-1]
+
 <sup>2</sup>
 
 Die technischen Unterlagen müssen in einer schweizerischen Amtssprache oder in Englisch abgefasst sein und folgende Angaben enthalten:
@@ -197,6 +236,8 @@ Die technischen Unterlagen müssen in einer schweizerischen Amtssprache oder in 
 <sup>3</sup> Die technischen Unterlagen können in einer anderen Sprache abgefasst sein, sofern die zu ihrer Beurteilung erforderlichen Auskünfte in einer schweizerischen Amtssprache oder in Englisch erteilt werden.
 
 <sup>4</sup> Die technischen Unterlagen müssen während zehn Jahren ab dem Inverkehrbringen des Niederspannungserzeugnisses auf dem Schweizer Markt vorgelegt werden können. Bei Serienfertigungen beginnt die Frist mit der Herstellung des letzten Exemplars zu laufen.
+
+[^12-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 ### 2. Abschnitt: Besondere Niederspannungserzeugnisse
 
@@ -286,7 +327,7 @@ Die Bewilligung wird entzogen, wenn die Voraussetzungen für ihre Erteilung nich
 
 <sup>1</sup> Das freiwillige Sicherheitszeichen hat folgende Form:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/de/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/de/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/de/xml/image/image2.png)
 
 <sup>2</sup> Ist es technisch nicht möglich, das Zeichen nach Absatz 1 anzubringen, so kann die Kontrollstelle eine andere Kennzeichnung bewilligen.
 
@@ -319,9 +360,17 @@ Niederspannungserzeugnisse, welche die Voraussetzungen für die Bereitstellung a
 
 <sup>2</sup> Sie führt zu diesem Zweck Stichproben durch und verfolgt begründete Hinweise, wonach ein Niederspannungserzeugnis den Vorschriften nicht entspricht.
 
-<sup>3</sup> Sie kann von der Zollverwaltung für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Niederspannungserzeugnisse verlangen.
+<sup>3</sup> Sie kann vom Bundesamt für Zoll und Grenzsicherheit[^23-1] für eine festgesetzte Dauer Meldungen über die Einfuhr genau bezeichneter Niederspannungserzeugnisse verlangen.
 
-<sup>4</sup> Die Wirtschaftsakteurinnen sind verpflichtet, der Kontrollstelle alle für den Vollzug der Marktüberwachung notwendigen Informationen zur Verfügung zu stellen und insbesondere auf Verlangen die Wirtschaftsakteurinnen zu nennen, von denen sie ein Niederspannungserzeugnis bezogen oder an die sie ein Niederspannungserzeugnis abgegeben haben. Die Kontrollstelle setzt dazu eine angemessene Frist
+<sup>4</sup> Die Wirtschaftsakteurinnen sind verpflichtet, der Kontrollstelle alle für den Vollzug der Marktüberwachung notwendigen Informationen zur Verfügung zu stellen und insbesondere auf Verlangen die Wirtschaftsakteurinnen zu nennen, von denen sie ein Niederspannungserzeugnis bezogen oder an die sie ein Niederspannungserzeugnis abgegeben haben. Die Kontrollstelle setzt dazu eine angemessene Frist.
+
+<sup>5</sup> Die Wirtschaftsakteurinnen sind verpflichtet, bei der Umsetzung von Massnahmen zur Vermeidung oder Minderung von Risiken im Zusammenhang mit Niederspannungserzeugnissen, die von ihnen auf dem Markt bereitgestellt wurden, mit der Kontrollstelle zusammenzuarbeiten. Diese Pflicht gilt auch für die bevollmächtigte Person für die Niederspannungserzeugnisse, die von ihrem Auftrag erfasst werden.[^23-2]
+
+<sup>6</sup> Die Anbieterinnen von Dienstleistungen der Informationsgesellschaft sind auf Verlangen der Kontrollstelle verpflichtet, bei der Umsetzung von Massnahmen zur Vermeidung oder Minderung von Risiken im Zusammenhang mit Niederspannungserzeugnissen, die über ihre Dienste online zum Verkauf angeboten wurden oder werden, mit der Kontrollstelle zusammenzuarbeiten.[^23-3]
+
+[^23-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^23-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^23-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 #### Art. 24
 
@@ -332,6 +381,10 @@ Niederspannungserzeugnisse, welche die Voraussetzungen für die Bereitstellung a
 <sup>2</sup> Sie erheben gegebenenfalls zu diesem Zweck Stichproben, verfolgen begründete Hinweise, wonach ein Niederspannungserzeugnis den Vorschriften nicht entspricht, und dokumentieren diese zuhanden der Kontrollstelle und der übrigen Wirtschaftsakteurinnen.
 
 <sup>3</sup> Stellen sie fest, dass ein Erzeugnis den Vorschriften nicht entspricht, so treffen sie die notwendigen Massnahmen und informieren, soweit aufgrund der Risiken notwendig, unverzüglich die Kontrollstelle über die festgestellten Mängel und die getroffenen Massnahmen.
+
+<sup>4</sup> Hat die Herstellerin weder eine Niederlassung in der Schweiz noch eine bevollmächtigte Person bezeichnet und gibt es keine Importeurin, so informiert die Fulfilment-Dienstleisterin, sofern dies aufgrund der Risiken notwendig ist, unverzüglich die Kontrollstelle über die festgestellten Mängel und die getroffenen Massnahmen.[^24-1]
+
+[^24-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 #### Art. 25
 
@@ -363,13 +416,32 @@ Im Rahmen der Marktüberwachung ist die Kontrollstelle befugt:
 
 <sup>4</sup> Die Wirtschaftsakteurin trägt zudem die Kosten der Prüfung nach Absatz 1 Buchstabe c, wenn die Unterlagen nicht fristgerecht oder unvollständig eingereicht wurden oder die Prüfung ergibt, dass das Niederspannungserzeugnis den Anforderungen nicht entspricht.
 
+<sup>5</sup> Sofern es keine anderen Möglichkeiten zur Beseitigung eines ernsten Risikos gibt, ist die Kontrollstelle zudem befugt, gegenüber der Wirtschaftsakteurin oder der Anbieterin von Dienstleistungen der Informationsgesellschaft die Entfernung von Inhalten zu einem Niederspannungserzeugnis von einer Online-Schnittstelle anzuordnen.[^25-1]
+
+[^25-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+
 #### Art. 26
 
 **Massnahmen**
 
 <sup>1</sup> Ergibt die Kontrolle oder die Prüfung, dass Vorschriften dieser Verordnung verletzt sind, so verfügt die Kontrollstelle Massnahmen nach Artikel 10 Absätze 2–5 PrSG.
 
+<sup>1bis</sup>
+
+Die Kontrollstelle kann die Bevölkerung über die technische Nichtkonformität eines Niederspannungserzeugnisses informieren, insbesondere wenn es nicht möglich ist, alle Wirtschaftsakteurinnen zu identifizieren oder wenn diese zu zahlreich sind. Sie kann insbesondere folgende Informationen veröffentlichen:
+
+- a. die Informationen, die dessen Identifizierung erlauben, insbesondere Herstellerin, Marke und Typ;
+- b. den bestimmungsgemässen Gebrauch des Niederspannungserzeugnisses;
+- c. Fotografien des Niederspannungserzeugnisses und von dessen Verpackung;
+- d. das Datum der Verfügung betreffend Nichtkonformität;
+- e. die getroffenen Massnahmen.[^26-1]
+
 <sup>2</sup> Die Kontrollstelle ist zuständig für die Gewährung der internationalen Amtshilfe im Rahmen von Artikel 22 THG.
+
+<sup>3</sup> Sie kann sich an internationalen Datenbanken für den Austausch von Informationen zwischen Marktüberwachungsbehörden beteiligen und darin Informationen gemäss Absatz 1<sup>bis</sup> erfassen.[^26-2]
+
+[^26-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^26-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 ## 7. Kapitel: Gebühren und Strafbestimmungen
 

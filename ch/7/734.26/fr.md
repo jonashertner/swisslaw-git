@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur les matériels électriques à basse t
 short: OMBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/17"
 language: fr
-version: 2016-04-20
+version: 2022-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/fr/xml/fedlex-data-admin-ch-eli-cc-2016-17-20160420-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20160420/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-17-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/17/20160420/fr"
 
 (OMBT)
 
-du 25 novembre 2015 (Etat le 20 avril 2016)
+du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -46,7 +46,7 @@ Elle s’applique également aux matériels électriques:
 
 <sup>3</sup> Les dispositions de l’ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique[^1-2] sont réservées.
 
-[^1-1]: Directive 2014/35/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des Etats membres concernant la mise à disposition sur le marché du matériel électrique destiné à être employé dans certaines limites de tension (nouvelle version), version du JO L 96 du 29.3.2014, p. 357.
+[^1-1]: Directive 2014/35/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la mise à disposition sur le marché du matériel électrique destiné à être employé dans certaines limites de tension (nouvelle version), version du JO L 96 du 29.3.2014, p. 357.
 [^1-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
 
 #### Art. 2
@@ -59,20 +59,37 @@ Dans la présente ordonnance, on entend par:
 
 - a. *mise à disposition sur le marché:* toute fourniture, à titre onéreux ou gratuit, de matériel à basse tension destiné à être distribué, consommé ou utilisé sur le marché suisse dans le cadre d’une activité commerciale;
 - b. *mise sur le marché:* la première mise à disposition de matériel à basse tension sur le marché suisse;
-- c. *opérateur économique:* le fabricant, le mandataire, l’importateur et le distributeur;
+- b<sup>bis</sup>.[^2-1] *fabricant:* toute personne physique ou morale qui fabrique ou fait concevoir ou fabriquer du matériel électrique à basse tension et met sur le marché ce matériel sous son propre nom ou sa propre marque;
+- b<sup>ter</sup>.[^2-2] *mandataire:* toute personne physique ou morale établie en Suisse ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
+- b<sup>quater</sup>.[^2-3] *importateur:* toute personne physique ou morale établie en Suisse qui effectue la mise sur le marché suisse de matériel électrique à basse tension provenant de l’étranger;
+- b<sup>quinquies</sup>.[^2-4] *distributeur:* toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met du matériel électrique à basse tension à disposition sur le marché;
+- b<sup>sexies</sup>.[^2-5] *prestataire de services d’exécution des commandes:* toute personne physique ou morale qui propose, dans le cadre d’une activité commerciale, au moins deux des services suivants: entreposage, conditionnement, étiquetage et expédition, sans être propriétaire des matériels électriques à basse tension concernés, à l’exclusion des services postaux au sens de l’art. 2, let. a, de la loi du 17 décembre 2010 sur la poste[^2-6] et de tout autre service de transport de marchandises;
+- b<sup>septies</sup>.[^2-7] *prestataire de services de la société de l’information:* toute personne physique ou morale qui fournit, en général contre rémunération, un service sur Internet et à la demande individuelle d’un destinataire de services;
+- c.[^2-8] *opérateur économique:* le fabricant, le mandataire, l’importateur, le distributeur ou le prestataire de services d’exécution des commandes;
 - d. *normes harmonisées:* normes harmonisées selon la législation sur la sécurité des produits.
 
-<sup>2</sup> La mise en service de produits à des fins professionnelles dans l’entreprise est assimilée à une mise à disposition sur le marché suisse, si cette dernière n’a pas déjà eu lieu.
+<sup>2</sup> La mise en service de matériels électriques à basse tension à des fins professionnelles dans sa propre entreprise est assimilée à une mise à disposition sur le marché suisse, si cette dernière n’a pas déjà eu lieu.[^2-9]
 
-<sup>3</sup> Au surplus, les définitions de l’art. 2 de la directive UE basse tension[^2-1] sont applicables, sauf celle de son art. 2, ch. 9. Les équivalences terminologiques répertoriées en annexe de la présente ordonnance sont également applicables.
+<sup>3</sup> Au surplus, les définitions de l’art. 2 de la directive UE basse tension[^2-10] sont applicables, sauf celle de son art. 2, ch. 9. Les équivalences terminologiques répertoriées en annexe de la présente ordonnance sont également applicables.
 
-[^2-1]: Voir la note relative à l’art. 1, al. 1.
+[^2-1]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-2]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-3]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-4]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-5]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-6]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-7]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-8]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-9]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^2-10]: Voir la note relative à l’art. 1, al. 1.
 
 #### Art. 3
 
-**Sécurité**
+**Sécurité**[^3-1]
 
-Les matériels à basse tension ne peuvent être mis à disposition sur le marché que s’ils sont conformes aux règles techniques reconnues et qu’ils ne mettent en danger, par un usage conforme à leur affectation, leur entretien et leur utilisation, ni la santé ni la sécurité des personnes, des animaux domestiques ou la sécurité des choses.
+Les matériels à basse tension ne peuvent être mis à disposition sur le marché que s’ils sont conformes aux règles techniques reconnues et qu’ils ne mettent pas en danger, par un usage conforme à leur affectation, leur entretien et leur utilisation, la sécurité des personnes, des animaux domestiques ou des choses.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 ## Chapitre 2 Mise à disposition sur le marché de matériels neufs à basse tension
 
@@ -109,11 +126,17 @@ Un importateur ou un distributeur est considéré comme un fabricant au sens de 
 
 **Identification des matériels**
 
+<sup>1</sup>
+
 Les indications suivantes doivent figurer sur le matériel à basse tension, voire sur son emballage ou dans les documents joints lorsqu’elles ne peuvent figurer sur le matériel lui-même:
 
 - a. le numéro de type, de lot ou de série ou tout autre élément permettant l’identification du matériel;
 - b. le nom, le nom commercial ou la marque déposée du fabricant et le cas échéant de l’importateur;
 - c. l’adresse de contact de la personne visée à la lettre b.
+
+<sup>2</sup> Si le fabricant n’est pas établi en Suisse, qu’il n’a pas désigné de mandataire et qu’il n’y a pas d’importateur, le nom, la raison sociale ou la marque déposée ainsi que les coordonnées du prestataire de services d’exécution des commandes doivent également figurer sur le matériel électrique à basse tension, ou si cela n’est pas possible, sur son emballage ou dans la documentation d’accompagnement.[^6-1]
+
+[^6-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 #### Art. 7
 
@@ -121,7 +144,7 @@ Les indications suivantes doivent figurer sur le matériel à basse tension, voi
 
 <sup>1</sup> Les normes techniques[^7-1] appropriées pour concrétiser les exigences essentielles sont désignées conformément à l’art. 6 LSPro.
 
-<sup>2</sup> L’Office fédéral de l’énergie (OFEN) et, lorsque des matériels à basse tension à usage militaire sont visés, les services compétents du Département fédéral de la défense, de la protection de la population et des sports, sont compétents pour désigner ces normes, d’entente avec le Secrétariat d’Etat à l’économie.
+<sup>2</sup> L’Office fédéral de l’énergie (OFEN) et, lorsque des matériels à basse tension à usage militaire sont visés, les services compétents du Département fédéral de la défense, de la protection de la population et des sports, sont compétents pour désigner ces normes, d’entente avec le Secrétariat d’État à l’économie.
 
 [^7-1]: Les listes des titres des normes désignées et leur texte peuvent être obtenus contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
 
@@ -131,7 +154,14 @@ Les indications suivantes doivent figurer sur le matériel à basse tension, voi
 
 <sup>1</sup> Tout opérateur économique qui met à disposition sur le marché un matériel électrique à basse tension doit pouvoir présenter une déclaration de conformité attestant que le matériel répond aux exigences.
 
-<sup>2</sup> Il doit être procédé à une évaluation de la conformité au sens de l’annexe III de la directive UE basse tension[^8-1] pour les matériels visés à l’art. 1, al. 1.
+<sup>1bis</sup>
+
+Le prestataire de services d’exécution des commandes est soumis à l’obligation visée à l’al. 1 si les conditions suivantes sont remplies:
+
+- a. le fabricant n’est pas établi en Suisse et n’a pas désigné de mandataire;
+- b. il n’y a pas d’importateur.[^8-1]
+
+<sup>2</sup> Il doit être procédé à une évaluation de la conformité au sens de l’annexe III de la directive UE basse tension[^8-2] pour les matériels visés à l’art. 1, al. 1.
 
 <sup>3</sup> Il y a lieu d’établir une seule déclaration lorsque le matériel électrique à basse tension relève de plusieurs réglementations exigeant une déclaration de conformité. Cette déclaration doit contenir toutes les informations déterminantes pour les réglementations concernées.
 
@@ -153,7 +183,8 @@ La déclaration de conformité doit:
 
 <sup>5</sup> Elle doit être mise à jour en continu.
 
-[^8-1]: Voir la note relative à l’art. 1, al. 1.
+[^8-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^8-2]: Voir la note relative à l’art. 1, al. 1.
 
 #### Art. 9
 
@@ -183,6 +214,13 @@ La déclaration de conformité doit pouvoir être présentée durant dix ans à 
 
 <sup>1</sup> L’opérateur économique doit tenir à disposition le dossier technique afin de permettre à l’organe de contrôle (art. 21 LIE) de vérifier que les exigences essentielles ont bien été respectées.
 
+<sup>1bis</sup>
+
+Le prestataire de services d’exécution des commandes est soumis à l’obligation visée à l’al. 1 si les conditions suivantes sont remplies:
+
+- a. le fabricant n’est pas établi en Suisse et n’a pas désigné de mandataire;
+- b. il n’y a pas d’importateur.[^12-1]
+
 <sup>2</sup>
 
 Le dossier technique doit être rédigé dans une des langues officielles de la Suisse ou en anglais, et contenir les indications suivantes:
@@ -198,6 +236,8 @@ Le dossier technique doit être rédigé dans une des langues officielles de la 
 
 <sup>4</sup> Le dossier technique doit pouvoir être présenté durant dix ans à compter de la mise sur le marché suisse du matériel électrique à basse tension. Lorsque celui-ci est fabriqué en série, le délai court à partir de la date de fabrication du dernier exemplaire.
 
+[^12-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+
 ### Section 2 Matériels à basse tension particuliers
 
 #### Art. 13
@@ -206,9 +246,9 @@ Le dossier technique doit être rédigé dans une des langues officielles de la 
 
 <sup>1</sup> Les matériels à basse tension qui ne sont pas visés par la directive UE basse tension[^13-1] ou qui figurent dans son annexe II ne peuvent être mis sur le marché que s’ils répondent aux règles techniques reconnues.
 
-<sup>2</sup> Les règles techniques reconnues comprennent en particulier les normes internationales harmonisées de la Commission électrotechnique internationale (IEC) et du Comité Européen de Normalisation Electrotechnique (CENELEC) ou, à défaut, les normes suisses[^13-2].
+<sup>2</sup> Les règles techniques reconnues comprennent en particulier les normes internationales harmonisées de la Commission électrotechnique internationale (IEC) et du Comité Européen de Normalisation Électrotechnique (CENELEC) ou, à défaut, les normes suisses[^13-2].
 
-<sup>3</sup> A défaut de normes techniques appropriées, on s’inspirera de normes applicables par analogie ou de directives techniques.
+<sup>3</sup> À défaut de normes techniques appropriées, on s’inspirera de normes applicables par analogie ou de directives techniques.
 
 [^13-1]: Voir la note relative à l’art. 1, al, 1.
 [^13-2]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
@@ -257,7 +297,7 @@ La demande d’autorisation doit comporter:
 
 Les laboratoires d’essai et les organismes d’évaluation de la conformité qui émettent des rapports ou des attestations doivent:
 
-- a. être accrédités conformément à l’ordonnance du 17 juin 1996[^17-1] sur l’accréditation et sur la désignation; ou
+- a. être accrédités conformément à l’ordonnance du 17 juin 1996[^17-1] sur l’accréditation et sur la désignation, ou
 - b. être reconnus en Suisse en vertu d’accords internationaux, ou
 - c. être habilités à un autre titre par le droit suisse.
 
@@ -285,7 +325,7 @@ L’autorisation est retirée si les conditions d’octroi ne sont plus remplies
 
 <sup>1</sup> Le signe de sécurité facultatif a la forme suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20160420/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/fr/xml/image/image1.png) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/17/20220101/fr/xml/image/image2.png)
 
 <sup>2</sup> S’il est techniquement impossible d’apposer le signe dans la forme définie à l’al. 1, l’organe de contrôle peut autoriser une autre forme d’apposition.
 
@@ -305,7 +345,7 @@ L’autorisation est retirée si les conditions d’octroi ne sont plus remplies
 
 Les matériels à basse tension qui ne répondent pas aux exigences requises pour la mise à disposition sur le marché peuvent être exposés ou présentés:
 
-- a. s’il est clairement indiqué qu’il n’a pas été délivré pour ledit matériel une attestation certifiant sa conformité aux exigences légales, et qu’il ne peut donc être mis sur le marché; et
+- a. s’il est clairement indiqué qu’il n’a pas été délivré pour ledit matériel une attestation certifiant sa conformité aux exigences légales, et qu’il ne peut donc être mis sur le marché, et
 - b. si les mesures nécessaires à la protection des personnes et des choses ont été prises.
 
 ## Chapitre 6 Surveillance du marché et suivi du marché
@@ -316,11 +356,19 @@ Les matériels à basse tension qui ne répondent pas aux exigences requises pou
 
 <sup>1</sup> L’organe de contrôle s’assure que des matériels à basse tension mis à disposition sur le marché répondent aux prescriptions de la présente ordonnance.
 
-<sup>2</sup> A cet effet, il procède par sondages et examine les indices qui permettent raisonnablement de penser qu’un matériel ne correspond pas aux prescriptions.
+<sup>2</sup> À cet effet, il procède par sondages et examine les indices qui permettent raisonnablement de penser qu’un matériel ne correspond pas aux prescriptions.
 
-<sup>3</sup> Il peut demander à l’Administration des douanes de lui fournir, pendant un temps déterminé, des renseignements sur les importations de matériels à basse tension clairement désignés.
+<sup>3</sup> Il peut demander à l’Office fédéral de la douane et de la sécurité des frontières[^23-1] de lui fournir, pendant un temps déterminé, des renseignements sur les importations de matériels à basse tension clairement désignés.
 
 <sup>4</sup> Les opérateurs économiques sont tenus de mettre à disposition de l’organe de contrôle toutes les informations nécessaires à l’exécution de la surveillance du marché et notamment de désigner sur demande les opérateurs économiques auxquels ils ont acheté ou remis du matériel électrique à basse tension. L’organe de contrôle leur impartit un délai approprié.
+
+<sup>5</sup> Les opérateurs économiques ont l’obligation de coopérer avec l’organe de contrôle dans la mise en œuvre de mesures destinées à éliminer ou à réduire les risques présentés par le matériel électrique à basse tension qu’ils ont mis à disposition sur le marché. Cette obligation incombe également au mandataire pour le matériel électrique à basse tension relevant de son mandat.[^23-2]
+
+<sup>6</sup> Sur demande de l’organe de contrôle, les prestataires de services de la société de l’information ont l’obligation de coopérer avec lui dans la mise en œuvre de mesures destinées à éliminer ou à réduire les risques présentés par le matériel électrique à basse tension qui est ou a été proposé à la vente en ligne par l’intermédiaire de leurs services.[^23-3]
+
+[^23-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^23-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^23-3]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 #### Art. 24
 
@@ -331,6 +379,10 @@ Les matériels à basse tension qui ne répondent pas aux exigences requises pou
 <sup>2</sup> Ils procèdent le cas échéant par sondages, examinent les indices qui permettent raisonnablement de penser qu’un matériel ne correspond pas aux prescriptions et documentent leurs démarches à l’intention de l’organe de contrôle et des autres opérateurs économiques.
 
 <sup>3</sup> Lorsqu’ils constatent que du matériel ne répond pas aux prescriptions, ils prennent les mesures qui s’imposent et informent sans tarder l’organe de contrôle des défauts constatées et des mesures prises, pour autant que les risques l’exigent.
+
+<sup>4</sup> Si le fabricant n’est pas établi en Suisse, qu’il n’a pas désigné de mandataire et qu’il n’y a pas d’importateur, le prestataire de services d’exécution des commandes informe sans tarder l’organe de contrôle des défauts constatés et des mesures prises, pour autant que les risques l’exigent.[^24-1]
+
+[^24-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
 
 #### Art. 25
 
@@ -362,19 +414,38 @@ Dans le cadre de la surveillance du marché, l’organe de contrôle est habilit
 
 <sup>4</sup> Les frais occasionnés par les essais prévus à l’al. 1, let. c, sont mis à la charge de l’opérateur économique si les documents demandés ne sont pas remis dans le délai imparti, s’ils sont incomplets ou si le contrôle révèle que le matériel n’est pas conforme aux exigences requises.
 
+<sup>5</sup> Lorsqu’il n’existe pas d’autre moyen d’éliminer un risque grave, l’organe de contrôle est en outre habilité à ordonner à l’opérateur économique ou au prestataire de services de la société de l’information de retirer le contenu d’une interface en ligne qui mentionne le matériel électrique à basse tension concerné.[^25-1]
+
+[^25-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+
 #### Art. 26
 
 **Mesures**
 
 <sup>1</sup> Si le contrôle ou l’essai révèle une violation des dispositions de la présente ordonnance, l’organe de contrôle prend des mesures conformément à l’art. 10, al. 2 à 5, LSPro.
 
+<sup>1bis</sup>
+
+L’organe de contrôle peut informer la population de la non-conformité technique d’un matériel électrique à basse tension, notamment lorsqu’il n’est pas possible d’identifier tous les opérateurs économiques ou que ceux-ci sont trop nombreux. Il peut publier en particulier les informations suivantes:
+
+- a. les informations permettant son identification, notamment le fabricant, la marque et le type;
+- b. l’usage auquel le matériel électrique à basse tension est destiné;
+- c. des photographies du matériel électrique à basse tension et de son emballage;
+- d. la date de la décision de non-conformité;
+- e. les mesures prises.[^26-1]
+
 <sup>2</sup> L’organe de contrôle est compétent pour accorder l’entraide administrative internationale dans les limites de l’art. 22 LETC.
 
-## Chapitre 7 Emoluments et dispositions pénales
+<sup>3</sup> Il peut participer à des bases de données internationales d’échanges d’informations entre autorités de surveillance du marché et y saisir les informations mentionnées à l’al. 1<sup>bis</sup>.[^26-2]
+
+[^26-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+[^26-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 822](https://fedlex.data.admin.ch/eli/oc/2021/822)).
+
+## Chapitre 7 Émoluments et dispositions pénales
 
 #### Art. 27
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup>
 
@@ -417,7 +488,7 @@ Annexe
 
 (art. 2, al. 3)
 
-## Equivalences terminologiques
+## Équivalences terminologiques
 
 Pour interpréter correctement la directive UE basse tension[^annexu1-lvlu1-1], à laquelle renvoie la présente ordonnance, on appliquera les équivalences terminologiques suivantes:
 
@@ -450,7 +521,7 @@ Pour interpréter correctement la directive UE basse tension[^annexu1-lvlu1-1], 
 - c. Termes italiens
 
 <table>
-<tr><td>UE</td><td>Svizzera</td></tr>
+<tr><th>UE</th><th>Svizzera</th></tr>
 <tr><td>Dichiarazione di conformità UE</td><td>Dichiarazione di conformità</td></tr>
 <tr><td>Gazzetta ufficiale dell’Unione europea</td><td>Foglio Federale</td></tr>
 <tr><td>Mercato dell’Unione</td><td>Mercato svizzero</td></tr>
