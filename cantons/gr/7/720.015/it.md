@@ -4,13 +4,13 @@ number: "720.015"
 title: Disposizioni esecutive della legislazione sulle imposte
 short: DELIG
 language: it
-version: 2021-07-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-12-31
 version_adopted: 2021-12-21
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3226/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3227/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3226/pdf_file"
 
 (DELIG)
 
-del 27.11.2007 (stato 01.07.2021)
+del 27.11.2007 (stato 01.01.2022)
 
 emanate dal Governo il 27 novembre 2007
 
@@ -177,7 +177,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 11
 
-**6. Gettoni di presenza (art. 31 cpv. 2 LIG)**
+**7. Gettoni di presenza (art. 31 cpv. 2 LIG)**
 
 <sup>1</sup> Per attività accessorie nell'interesse della collettività, a decorrere dal periodo fiscale 2008 fa stato la seguente normativa:
 
@@ -186,13 +186,13 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 11a
 
-**7. Ammortamenti e accantonamenti**
+**8. Ammortamenti e accantonamenti**
 
 <sup>1</sup> Gli ammortamenti di cui all'articolo 32 capoverso 1 lettera a e all'articolo 81 capoverso 1 lettera b LIG, nonché gli accantonamenti di cui all'articolo 32 capoverso 1 lettera b e all'articolo 81 capoverso 1 lettera c LIG vengono disciplinati negli allegati al presente atto normativo.
 
 #### Art. 12
 
-**8. Riserve per spese di ricerca e di sviluppo a) Principio**
+**9. Riserve per spese di ricerca e di sviluppo a) Principio**
 
 <sup>1</sup> Possono essere costituite riserve per la ricerca e lo sviluppo ai sensi dell'articolo 32 capoverso 1 lettera c, rispettivamente dell'articolo 81 capoverso 1 lettera d LIG[^12-1] soltanto se si riferiscono a progetti o prodotti concreti. L'impresa deve comprovare che i relativi esborsi avvengono in un arco di tempo di circa cinque anni.
 
@@ -212,9 +212,27 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 <sup>2</sup> Le spese di ricerca e sviluppo per prodotti o progetti per i quali è stata costituita una riserva devono essere contabilizzate a carico della riserva e non devono essere aggiunte al dispendio.
 
+#### Art. 14a
+
+**10. Sanzioni pecuniarie (art. 32 cpv. 1 lett. h, cpv. 2 e cpv. 3 LIG)**
+
+<sup>1</sup> Chi svolge un'attività lucrativa indipendente può dedurre le spese giustificate dall'uso commerciale o professionale, specialmente le sanzioni finalizzate al prelievo dell'utile illecito, nella misura in cui non abbiano carattere penale.
+
+<sup>2</sup> Non sono deducibili segnatamente:
+
+- a) i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero;
+- b) le spese finalizzate a rendere possibili reati o che costituiscono la controprestazione per la commissione di reati;
+- c) le multe e le pene pecuniarie;
+- d) le sanzioni pecuniarie amministrative, nella misura in cui abbiano carattere penale.
+
+<sup>3</sup> Se pronunciate da autorità penali o amministrative estere, le sanzioni di cui al capoverso 2 lettera c e lettera d sono deducibili se:
+
+- a) sono contrarie all'ordine pubblico svizzero; o
+- b) il contribuente dimostra in modo plausibile di aver intrapreso tutto quanto si poteva ragionevolmente pretendere per conformarsi alla legge.
+
 #### Art. 15
 
-**9. Sostituzioni di beni**
+**11. Sostituzioni di beni**
 
 <sup>1</sup> Su domanda motivata, il periodo di due anni per l'ammortamento del bene sostituito ai sensi dell'articolo 33 capoverso 3, rispettivamente dell'articolo 84 capoverso 3 LIG[^15-1] può essere esteso per un ulteriore anno. L'autorità di tassazione deve decidere in merito entro 60 giorni. Il risultato deve essere comunicato con una decisione, contro la quale si può presentare reclamo e ricorso.
 
@@ -224,7 +242,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 16
 
-**10. Manutenzione di immobili (art. 35 cpv. 2 LIG) a) Deduzione forfetaria**
+**12. Manutenzione di immobili (art. 35 cpv. 2 LIG) a) Deduzione forfetaria**
 
 <sup>1</sup> Per la deduzione di spese di amministrazione e di manutenzione di immobili privati sovraedificati la deduzione forfettaria ammonta:
 
@@ -239,13 +257,13 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 18
 
-**11. Deduzione per i figli: concubinato (art. 38 cpv. 1 lett. d LIG)**
+**13. Deduzione per i figli: concubinato (art. 38 cpv. 1 lett. d LIG)**
 
 <sup>1</sup> Nei rapporti di concubinato con figli comuni si presume che il concubino con il reddito netto maggiore provveda in misura principale al mantenimento dei figli.
 
 #### Art. 19
 
-**12. Tariffa per coniugati**
+**14. Tariffa per coniugati**
 
 <sup>1</sup> Se il figlio vive alternamente nell'economia domestica della madre, rispettivamente del padre e nessun genitore può dedurre gli alimenti per figli, lo sgravio ai sensi dell'articolo 39 capoverso 3 LIG[^19-1] viene di regola concesso al genitore con il reddito netto superiore.
 
@@ -291,9 +309,27 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **…**
 
+#### Art. 23b
+
+**1. Sanzioni pecuniarie (art. 81 cpv. 1 lett. a e lett. j, cpv. 3 e cpv. 3<sup>bis</sup> LIG)**
+
+<sup>1</sup> Gli oneri giustificati dall'uso commerciale comprendono in particolare le imposte della Confederazione, del Cantone e dei comuni nonché le sanzioni finalizzate al prelievo dell'utile illecito, nella misura in cui non abbiano carattere penale.
+
+<sup>2</sup> Gli oneri giustificati dall'uso commerciale non comprendono segnatamente:
+
+- a) i versamenti di retribuzioni corruttive ai sensi del diritto penale svizzero;
+- b) le spese finalizzate a rendere possibili reati o che costituiscono la controprestazione per la commissione di reati;
+- c) le multe;
+- d) le sanzioni pecuniarie amministrative, nella misura in cui abbiano carattere penale.
+
+<sup>3</sup> Se pronunciate da autorità penali o amministrative estere, le sanzioni di cui al capoverso 2 lettera c e lettera d sono deducibili se:
+
+- a) sono contrarie all'ordine pubblico svizzero; o
+- b) il contribuente dimostra in modo plausibile di aver intrapreso tutto quanto si poteva ragionevolmente pretendere per conformarsi alla legge.
+
 #### Art. 24
 
-**Società con entrate passive**
+**2. Società con entrate passive**
 
 <sup>1</sup> Per entrate passive ai sensi dell'articolo 87 capoverso 3 LIG[^24-1] si intendono in particolare i redditi di capitale, le tasse di licenze e di patenti, i canoni d'affitto, nonché i premi di riassicurazione.
 
@@ -670,13 +706,19 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 46a
 
-**Registrazione e conservazione di dati in forma elettronica**
+**1. Registrazione e conservazione di dati in forma elettronica**
 
 <sup>1</sup> L'Amministrazione cantonale delle imposte emana le regolamentazioni relative alla trasmissione, alla forza probatoria, alla durata della conservazione e alla cancellazione dei dati.
 
 #### Art. 47
 
-**Posizione dei coniugi (art. 123a cpv. 2 LIG)**
+**2. Trasmissione elettronica senza firma (art. 123a cpv. 2 LIG)**
+
+<sup>1</sup> L'Amministrazione cantonale delle imposte emana le prescrizioni necessarie per la trasmissione elettronica senza firma.
+
+#### Art. 47a
+
+**3. Posizione dei coniugi (art. 123b cpv. 2 LIG)**
 
 <sup>1</sup> Il termine per la sottoscrizione della dichiarazione d'imposta da parte del secondo coniuge viene di principio accordato al coniuge interessato con la pubblicazione nel Foglio ufficiale cantonale e solo in casi particolari con invito scritto.
 

@@ -4,13 +4,13 @@ number: "720.015"
 title: Disposiziuns executivas tar la legislaziun da taglia
 short: DERtLT
 language: rm
-version: 2021-07-01
-valid_until: 2021-12-31
+version: 2022-01-01
+valid_until: 2022-12-31
 version_adopted: 2021-12-21
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3226/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3227/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3226/pdf_file"
 
 (DERtLT)
 
-dals 27-11-2007 (versiun dals 01-07-2021)
+dals 27-11-2007 (versiun dals 01-01-2022)
 
 sa basond sin l'art. 182 al. 4 da la Lescha federala dals 14 da december 1990 davart la taglia federala directa (LTFD)[^ingress-1], sin l'art. 72 al. 3 da la Lescha federala dals 14 da december 1990 davart l'armonisaziun da la taglia directa dals chantuns e da las vischnancas (LATD)[^ingress-2], sin l'art. 73 al. 1 da la Lescha federala dals 13 d'october 1965 davart la taglia anticipada (LTAnt)[^ingress-3], sin l'art. 15 da l'Ordinaziun dal Cussegl federal dals 22 d'avust 1967 davart l'imputaziun da taglias a la funtauna estras[^ingress-4], sin l'Ordinaziun dal Cussegl federal dals 2 d'october 1996 tar la Cunvegna svizra-americana davart l'imposiziun dubla da taglia[^ingress-5] sco er sin l'art. 45 al. 1 da la Constituziun dal chantun Grischun dals 18 da matg 2003 / 14 da settember 2003[^ingress-6]
 
@@ -177,7 +177,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 11
 
-**6. Daners da sesida (art. 31 al. 2 LT)**
+**7. Daners da sesida (art. 31 al. 2 LT)**
 
 <sup>1</sup> Per activitads en uffizi accessoric a favur da la publicitad vala a partir da la perioda fiscala 2008 la suandanta regulaziun:
 
@@ -186,13 +186,13 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 11a
 
-**7. Amortisaziuns e retenziuns**
+**8. Amortisaziuns e retenziuns**
 
 <sup>1</sup> Las amortisaziuns tenor l'artitgel 32 alinea 1 litera a respectivamain tenor l'artitgel 81 alinea 1 litera b LT e las retenziuns tenor l'artitgel 32 alinea 1 litera b respectivamain tenor l'artitgel 81 alinea 1 litera c LT vegnan regladas en las agiuntas da quest relasch.
 
 #### Art. 12
 
-**8. Reservas per ils custs da perscrutaziun e da svilup a) princip**
+**9. Reservas per ils custs da perscrutaziun e da svilup a) princip**
 
 <sup>1</sup> Reservas per la perscrutaziun e per il svilup en il senn da l'artitgel 32 alinea 1 litera c respectivamain da l'artitgel 81 alinea 1 litera d LT[^12-1] pon vegnir furmadas mo per projects u per products concrets. L'interpresa sto cumprovar che las expensas correspundentas vegnian a resultar en ina perioda da circa tschintg onns.
 
@@ -212,9 +212,27 @@ relaschada da la regenza ils 27 da november 2007
 
 <sup>2</sup> Ils custs da perscrutaziun e da svilup per products u per projects, per ils quals igl è vegnida furmada ina reserva, ston vegnir cudeschads a quint da la reserva e na dastgan betg vegnir mess a quint als custs.
 
+#### Art. 14a
+
+**10. Sancziuns finanzialas (art. 32 al. 1 lit. h, al. 2 ed al. 3 LT)**
+
+<sup>1</sup> Las persunas cun activitad da gudogn independenta pon deducir ils custs motivads da la fatschenta u da la professiun, en spezial las sancziuns che prelevan il gudogn, uschenavant ch'ellas n'han betg in intent penal.
+
+<sup>2</sup> Betg deducibels n'èn en spezial:
+
+- a) pajaments da daners da corrupziun en il senn dal dretg penal svizzer;
+- b) expensas fatgas per pussibilitar malfatgs u sco cuntraprestaziun per commetter malfatgs;
+- c) multas e chastis pecuniars;
+- d) sancziuns administrativas finanzialas, uschenavant ch'ellas n'han betg in intent penal.
+
+<sup>3</sup> Sche sancziuns tenor l'alinea 2 litera c e litera d èn vegnidas pronunziadas d'ina autoritad penala u administrativa da l'exteriur, èn ellas deduciblas, sche:
+
+- a) la sancziun violescha l'urden public svizzer; u
+- b) la pajataglia u il pajataglia cumprova vardaivlamain ch'ella u el ha fatg tut il pussaivel per sa cumportar confurm a la lescha.
+
 #### Art. 15
 
-**9. Acquisiziuns cumpensatoricas**
+**11. Acquisiziuns cumpensatoricas**
 
 <sup>1</sup> 1 Sin ina dumonda motivada po il termin da dus onns per l'amortisaziun da l'object da cumpensaziun en il senn da l'artitgel 33 alinea 3 respectivamain da l'artitgel 84 alinea 3 LT[^15-1] vegnir prolungà per in ulteriur onn. L'autoritad da taxaziun sto decider en chaussa entaifer 60 dis. La decisiun sto vegnir communitgada cun ina disposiziun, cunter la quala i po vegnir fatg protesta e recurs.
 
@@ -224,7 +242,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 16
 
-**10. Mantegniment d'immobiglias (art. 35 al. 2 LT) a) deducziun pauschala**
+**12. Mantegniment d'immobiglias (art. 35 al. 2 LT) a) deducziun pauschala**
 
 <sup>1</sup> Per la deducziun dals custs d'administraziun e da mantegniment da bains immobigliars privats surbajegiads importa la deducziun pauschala
 
@@ -239,13 +257,13 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 18
 
-**11. Deducziun per uffants: concubinat (art. 38 al. 1 lit. d LT)**
+**13. Deducziun per uffants: concubinat (art. 38 al. 1 lit. d LT)**
 
 <sup>1</sup> En relaziuns da concubinat cun uffants communabels vegni supponì ch'il partenari da concubinat cun l'entrada netta pli auta procuria principalmain per il mantegniment dals uffants.
 
 #### Art. 19
 
-**12. Tariffa da pèrs maridads**
+**14. Tariffa da pèrs maridads**
 
 <sup>1</sup> Sche l'uffant viva alternantamain en la chasada da la mamma respectivamain dal bab e sche nagin genitur na po deducir aliments per uffants, vegn concedida la distgargia en il senn da l'artitgel 39 alinea 3 LT [^19-1] per regla a quel genitur cun l'entrada netta pli auta.
 
@@ -291,9 +309,27 @@ relaschada da la regenza ils 27 da november 2007
 
 **…**
 
+#### Art. 23b
+
+**1. Sancziuns finanzialas (art. 81 al. 1 lit. a e lit. j, al. 3 ed al. 3<sup>bis</sup> LT)**
+
+<sup>1</sup> Tar las expensas motivadas da la fatschenta appartegnan en spezial las taglias federalas, chantunalas e communalas sco er las sancziuns che prelevan il gudogn, uschenavant ch'ellas n'han betg in intent penal.
+
+<sup>2</sup> Betg tar las expensas motivadas da la fatschenta n'appartegnan en spezial:
+
+- a) pajaments da daners da corrupziun en il senn dal dretg penal svizzer;
+- b) expensas fatgas per pussibilitar malfatgs u sco cuntraprestaziun per commetter malfatgs;
+- c) multas;
+- d) sancziuns administrativas finanzialas, uschenavant ch'ellas n'han betg in intent penal.
+
+<sup>3</sup> Sche sancziuns tenor l'alinea 2 litera c e litera d èn vegnidas pronunziadas d'ina autoritad penala u administrativa da l'exteriur, èn ellas deduciblas, sche:
+
+- a) la sancziun violescha l'urden public svizzer; u
+- b) la pajataglia u il pajataglia cumprova vardaivlamain ch'ella u el ha fatg tut il pussaivel per sa cumportar confurm a la lescha.
+
 #### Art. 24
 
-**Societads cun entradas passivas**
+**2. Societads cun entradas passivas**
 
 <sup>1</sup> Sco entradas passivas en il senn da l'artitgel 87 alinea 3 LT[^24-1] valan en spezial retgavs da chapital, taxas da licenzas e da patentas, tschains da fittanza sco er premias da reassicuranzas.
 
@@ -670,15 +706,21 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 46a
 
-**Registraziun ed archivaziun electronica da datas**
+**1. Registraziun ed archivaziun electronica da datas**
 
 <sup>1</sup> L'administraziun chantunala da taglia relascha las regulaziuns per la transmissiun, per la forza da cumprova, per la durada d'archivar e per l'extincziun da las datas.
 
 #### Art. 47
 
-**Posiziun dals conjugals (art. 123a al. 2 LT)**
+**2. Transmissiun electronica senza suttascripziun (art. 123a al. 2 LT)**
 
-<sup>1</sup> Il termin per suttascriver la decleraziun da taglia tras l'autra conjugala u tras l'auter conjugal vegn da princip fixà tras la publicaziun en il fegl uffizial dal chantun e mo en cas spezials tras ina invitaziun en scrit a la conjugala pertutgada u al conjugal pertutgà.
+<sup>1</sup> L'Administraziun chantunala da taglia relascha las directivas necessarias per la transmissiun electronica senza suttascripziun.
+
+#### Art. 47a
+
+**3. Posiziun dals conjugals (art. 123b al. 2 LT)**
+
+<sup>1</sup> Il termin per suttascriver la decleraziun da taglia tras l'autra conjugala u l'auter conjugal vegn da princip fixà tras ina publicaziun en il Fegl uffizial chantunal e mo en cas spezials tras ina invitaziun en scrit a la conjugala pertutgada u al conjugal pertutgà.
 
 ### 4.2. Procedura da taxaziun
 
