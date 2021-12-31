@@ -4,13 +4,13 @@ number: "811.01"
 title: "Loi sur la santé publique *"
 short: LSP
 language: fr
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-16
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-09
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2121/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2473/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2121/pdf_file"
 
 (LSP)
 
-du 02.12.1984 (état au 01.03.2021)
+du 02.12.1984 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -245,7 +245,7 @@ arrête:
 
 **2 Exceptions**
 
-<sup>1</sup> Les entreprises titulaires d'une autorisation d'exploiter en vertu de la législation sur les hôpitaux ou les œuvres sociales ou d'autres dispositions spéciales cantonales ou fédérales sont dispensées d'une autorisation au sens de la présente loi.
+<sup>1</sup> Les entreprises titulaires d’une autorisation d’exploiter en vertu de la législation sur les soins hospitaliers ou sur les programmes d’action sociale ou d’autres dispositions spéciales cantonales ou fédérales sont dispensées d’une autorisation au sens de la présente loi.
 
 #### Art. 16b
 

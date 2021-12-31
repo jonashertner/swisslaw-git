@@ -4,13 +4,13 @@ number: "811.01"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2021-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-16
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-09
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2121/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2121/pdf_file"
 
 (GesG)
 
-vom 02.12.1984 (Stand 01.03.2021)
+vom 02.12.1984 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -245,7 +245,7 @@ beschliesst:
 
 **2 Ausnahmen**
 
-<sup>1</sup> Keine Betriebsbewilligung nach diesem Gesetz benötigen diejenigen Betriebe, die im Besitz einer Betriebsbewilligung nach Spital- oder Fürsorgegesetzgebung oder nach anderen kantonalen oder eidgenössischen Spezialbestimmungen sind.
+<sup>1</sup> Keine Betriebsbewilligung nach diesem Gesetz benötigen diejenigen Betriebe, die im Besitz einer Betriebsbewilligung nach der Spitalgesetzgebung, der Gesetzgebung über die sozialen Leistungsangebote oder nach anderen kantonalen oder eidgenössischen Spezialbestimmungen sind.
 
 #### Art. 16b
 
