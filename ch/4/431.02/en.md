@@ -4,11 +4,11 @@ title: "Federal Act of 23 June 2006 on the Harmonisation of the Register of Resi
 short: RHA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/619"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-06-23
 in_force: 2006-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/619/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2006-619-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/619/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2006-619-20220101-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Register Harmonisation Act, RHA)
 
-of 23 June 2006 (Status as of 1 January 2021)
+of 23 June 2006 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on the Articles 38 paragraph 1, 39 paragraph 1, 40 paragraph 2, 65 paragra
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)
 
 ## Section 1 General Provisions
@@ -74,11 +74,11 @@ It also applies to the cantonal and communal:
 - a. registers of residents;
 - b. electoral registers that serve as the basis for federal popular votes and elections to the National Council.
 
-[^2-1]: The name of this administrative unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 (AS **204** 4937) as of 1 Jan. 2015.
+[^2-1]: The name of this administrative unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) as of 1 Jan. 2015.
 [^2-2]: Amended by Annex No III 3 of the Swiss Abroad Act of 26 Sept. 2014, in force since 1 Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^2-3]: This name was modified on 1 Sept 2016 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^2-3]: This name was modified on 1 Sept 2016 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^2-4]: Amended by No II 1 of the FA of 22 March 2019 (EL-Reform), in force since 1 Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^2-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^2-6]: Inserted by Annex No 1 of the Federal Act of 17 June 2011 (Improvement in Implementation) ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Amended by No II 1 of the FA of 22 March 2019 (EL-Reform), in force since 1 Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 3
@@ -109,7 +109,7 @@ In this Act the terms below are defined as follows:
 
 <sup>4</sup> It regularly publishes an official catalogue of attributes that contains the attribute characteristics as well as the nomenclatures and coding keys.
 
-[^4-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 5
 
@@ -125,10 +125,10 @@ The registers must be up-to-date, accurate and complete in relation to the group
 
 As a minimum, the registers of residents contain the data on the following identifiers and attributes of each permanently settled or resident person:
 
-- a. social insurance number under Article 50*c* of the Federal Act of 20 December 1946[^6-1] on the Old Age and Survivors’ Insurance (OASIA);
-- b. commune number allocated by the Federal Office and the official commune name;
-- c. building identifier according to the Federal Register of Buildings and Dwellings (RBD) of the Federal Office;
-- d. administrative dwelling identifier according to the RBD, household affiliation and form of household;
+- a. the OASI number[^6-1] under Article 50*c* OASIA[^6-2];
+- b. the commune number allocated by the Federal Office and the official commune name;
+- c. the building identifier according to the Federal Register of Buildings and Dwellings (RBD) of the Federal Office;
+- d. the administrative dwelling identifier according to the RBD, household affiliation and form of household;
 - e. the official name and the other names of a person documented in the civil status registers;
 - f. all forenames in the correct order;
 - g. home address and postal address including postcode and locality;
@@ -147,7 +147,8 @@ As a minimum, the registers of residents contain the data on the following ident
 - t. right to vote and right to be elected at federal, cantonal and communal level;
 - u. date of death.
 
-[^6-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6-1]: Term in accordance with Annex No 11 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). This change has been made in the provisions specified in the AS.
+[^6-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 7
 
@@ -183,7 +184,7 @@ The cantons shall designate an official agency that is responsible for the coord
 
 <sup>3</sup> The Confederation provides the responsible public offices and authorities with an information technology and communication platform for the exchange.
 
-[^10-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Annex No I]. See today: the FA of 18 March 2016 ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^10-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Annex No I]. See today: the FA of 18 March 2016 ([SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 11
 
@@ -218,7 +219,7 @@ The cantons shall issue the regulations required in order that the following per
 
 <sup>3</sup> The Federal Office is consulted in the event of amendments to the content of a register.
 
-[^13-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Annex No I]. See today: the FA of 18 March 2016 ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^13-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Section 4 Provision, Use and Passing on of Data
 
@@ -236,7 +237,7 @@ The cantons shall issue the regulations required in order that the following per
 
 <sup>5</sup> In cooperation with the cantons, it defines the required inspections and quality standards.
 
-[^14-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^14-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Annex No I]. See today: the FA of 18 March 2016 ([SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 15
 
@@ -256,7 +257,7 @@ The cantons shall issue the regulations required in order that the following per
 
 <sup>3</sup> It may use data listed in Article 6 letters a–h, j, k and m as a directory of addresses for the conduct of statistical surveys.
 
-<sup>4</sup> In order to fulfil its statistical tasks, it may permanently match and preserve the data with those of the RBD and of the Business and Enterprise Register (BER), subject to the removal of the names of persons
+<sup>4</sup> In order to fulfil its statistical tasks, it may permanently match and preserve the data with those of the RBD and of the Business and Enterprise Register (BER), subject to the removal of the names of persons.
 
 #### Art. 17
 

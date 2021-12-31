@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2006 sull'armonizzazione dei registri degli
 short: LArRa
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/619"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-06-23
 in_force: 2006-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/619/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2006-619-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/619/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-619-20220101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20210101/it"
 
 (Legge sull’armonizzazione dei registri, LArRa)
 
-del 23 giugno 2006 (Stato 1° gennaio 2021)
+del 23 giugno 2006 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 38 capoverso 1, 39 capoverso 1, 40 capoverso 2, 65 capoverso 
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)
 
 ## Sezione 1: Disposizioni generali
@@ -74,9 +74,9 @@ La presente legge si applica inoltre:
 
 [^2-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015.
 [^2-2]: Nuovo testo giusta l’all. n. III 3 della L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^2-3]: La designazione è stata adattata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2016.
+[^2-3]: La designazione è stata adattata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° set. 2016.
 [^2-4]: Nuovo testo giusta il n. II 1 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^2-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^2-6]: Introdotta dall’all. n. 1 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione) ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)). Nuovo testo giusta il n. II 1 della LF del 22 mar. 2019 (Riforma delle PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 3
@@ -86,7 +86,7 @@ La presente legge si applica inoltre:
 Nella presente legge, le seguenti espressioni significano:
 
 - a. *registro degli abitanti:* registro gestito manualmente o elettronicamente dal Cantone o dal Comune, in cui sono iscritte tutte le persone che risiedono o dimorano nel Cantone o nel Comune;
-- b. *Comune di reside**n**za:* Comune in cui una persona risiede con l’intenzione di stabilirvisi durevolmente per costituirvi il centro della propria vita in modo riconoscibile agli occhi di terzi; una persona è considerata residente nel Comune in cui ha depositato il documento richiesto e può avere soltanto un Comune di residenza;
+- b. *Comune di residenza:* Comune in cui una persona risiede con l’intenzione di stabilirvisi durevolmente per costituirvi il centro della propria vita in modo riconoscibile agli occhi di terzi; una persona è considerata residente nel Comune in cui ha depositato il documento richiesto e può avere soltanto un Comune di residenza;
 - c. *Comune di soggiorno:* Comune in cui una persona dimora per un determinato scopo almeno per tre mesi consecutivi o per tre mesi sull’arco di un anno, senza l’intenzione di stabilirvisi durevolmente; il Comune in cui una persona dimora allo scopo di frequentarvi una scuola o in cui si trova l’istituto di educazione, l’ospizio, la casa di cura o lo stabilimento penitenziario in cui essa è collocata costituisce un Comune di soggiorno;
 - d. *economia domestica:* insieme di tutte le persone che vivono nella stessa abitazione;
 - e. *identificatore:* numero inespressivo e invariabile che funge da elemento funzionale per consentire l’identificazione univoca di una persona o di una cosa all’interno di un insieme di dati;
@@ -107,7 +107,7 @@ Nella presente legge, le seguenti espressioni significano:
 
 <sup>4</sup> L’Ufficio federale pubblica periodicamente un catalogo ufficiale delle caratteristiche, contenente le specificità, nonché le nomenclature e le liste di codici.
 
-[^4-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 5
 
@@ -123,7 +123,7 @@ In relazione al gruppo di persone registrato, i registri devono essere attuali, 
 
 Per ogni persona residente o dimorante, i registri degli abitanti contengono almeno i dati sui seguenti identificatori e caratteristiche:
 
-- a. numero di assicurazione secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^6-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS);
+- a. numero AVS[^6-1] secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^6-2] sull’assicurazione per la vecchiaia e per i superstiti (LAVS);
 - b. numero del Comune secondo la classificazione dell’Ufficio federale e nome ufficiale del Comune;
 - c. identificatore dell’edificio in base al Registro federale degli edifici e delle abitazioni (REA) dell’Ufficio federale;
 - d. identificatore dell’abitazione in base al REA, economia domestica d’appartenenza e tipo di economia domestica;
@@ -145,7 +145,8 @@ Per ogni persona residente o dimorante, i registri degli abitanti contengono alm
 - t. diritto di voto e di eleggibilità a livello federale, cantonale e comunale;
 - u. data del decesso.
 
-[^6-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6-1]: Nuova espr. giusta l’all. n. 11 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^6-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 7
 
@@ -181,7 +182,7 @@ I Cantoni designano un servizio ufficiale competente per il coordinamento, la re
 
 <sup>3</sup> La Confederazione mette a disposizione dei servizi ufficiali e delle autorità competenti una piattaforma informatica e di comunicazione per lo scambio dei dati.
 
-[^10-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. n.I]. Vedi ora la L del 18 mar. 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^10-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. n.I]. Vedi ora la L del 18 mar. 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 11
 
@@ -210,13 +211,13 @@ I Cantoni emanano le norme necessarie affinché, su richiesta, nei casi in cui l
 
 #### Art. 13
 
-<sup>1</sup> Gli organi che tengono i registri di cui all’articolo 2 capoverso 1 lettere a–d gestiscono il numero di assicurato conformemente all’articolo 50*c* LAVS[^13-1].
+<sup>1</sup> Gli organi che tengono i registri di cui all’articolo 2 capoverso 1 lettere a–d gestiscono il numero AVS conformemente all’articolo 50*c* LAVS[^13-1].
 
 <sup>2</sup> La gestione di altre caratteristiche è retta dalle disposizioni federali determinanti, nonché dai requisiti del catalogo di cui all’articolo 4 capoverso 4, a condizione che la caratteristica figuri nel catalogo.
 
 <sup>3</sup> L’Ufficio federale è consultato in caso di modifiche del contenuto di un registro.
 
-[^13-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Sezione 4: Approntamento, utilizzazione e comunicazione dei dati
 
@@ -234,7 +235,7 @@ I Cantoni emanano le norme necessarie affinché, su richiesta, nei casi in cui l
 
 <sup>5</sup> In collaborazione con i Cantoni, l’Ufficio federale definisce altresì i controlli e gli standard di qualità necessari.
 
-[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^14-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 15
 
@@ -260,11 +261,11 @@ I Cantoni emanano le norme necessarie affinché, su richiesta, nei casi in cui l
 
 **Comunicazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione**
 
-<sup>1</sup> Per permettere ai servizi di statistica e di ricerca della Confederazione come pure agli uffici statistici dei Cantoni e dei Comuni di effettuare elaborazioni statistiche, l’Ufficio federale comunica loro gratuitamente i dati, senza denominazioni personali e senza numeri d’assicurato, o consente loro di accedervi tramite procedura di richiamo.
+<sup>1</sup> Per permettere ai servizi di statistica e di ricerca della Confederazione come pure agli uffici statistici dei Cantoni e dei Comuni di effettuare elaborazioni statistiche, l’Ufficio federale comunica loro gratuitamente i dati, senza denominazioni personali e senza numero AVS, o consente loro di accedervi tramite procedura di richiamo.
 
 <sup>2</sup> L’Ufficio federale mette gratuitamente a disposizione degli uffici statistici dei Cantoni e dei Comuni, per l’esecuzione di rilevazioni statistiche, i dati di cui all’articolo 6 lettere a–h, j, k e m concernenti il loro territorio.
 
-<sup>3</sup> L’Ufficio federale può comunicare i dati, senza denominazioni personali e senza numeri d’assicurato, ad altri servizi ufficiali della Confederazione, dei Cantoni e dei Comuni, nonché a privati per scopi di statistica, ricerca e pianificazione.
+<sup>3</sup> L’Ufficio federale può comunicare i dati, senza denominazioni personali e senza numero AVS, ad altri servizi ufficiali della Confederazione, dei Cantoni e dei Comuni, nonché a privati per scopi di statistica, ricerca e pianificazione.
 
 <sup>4</sup> Al termine dei lavori, i destinatari di cui al capoverso 3 sono tenuti a restituire all’Ufficio federale i dati ricevuti o a confermargliene per scritto la distruzione. I dati possono essere trasmessi a terzi soltanto con l’approvazione scritta dell’Ufficio federale.
 

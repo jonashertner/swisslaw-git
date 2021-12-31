@@ -4,22 +4,22 @@ title: "Loi fédérale du 23 juin 2006 sur l'harmonisation des registres des hab
 short: LHR
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/619"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-06-23
 in_force: 2006-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/619/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-619-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/619/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-619-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur l’harmonisation des registres des habitants et d’autres registres officiels de personnes**<sup>∗</sup>**
+# Loi fédérale sur l’harmonisation des registres des habitants et d’autres registres officiels de personnes\*
 
 (Loi sur l’harmonisation de registres, LHR)[^t-1]
 
-du 23 juin 2006 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 juin 2006 (État le 1<sup>er</sup> janvier 2022)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 38, al. 1, 39, al. 1, 40, al. 2, 65, al. 2, 121, al. 1 et 122, al. 1
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 439](https://fedlex.data.admin.ch/eli/fga/2006/49)
 
 ## Section 1 Dispositions générales
@@ -74,12 +74,12 @@ Elle s’applique également aux registres suivants:
 - a. les registres cantonaux et communaux des habitants;
 - b. les registres cantonaux et communaux des électeurs, lorsque ces registres servent aux votations populaires et aux élections du Conseil national.
 
-[^2-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^2-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl – [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 [^2-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^2-3]: Nouvelle teneur selon l’annexe ch. III 3 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^2-4]: La désignation a été adaptée au 1<sup>er</sup> sept. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^2-4]: La désignation a été adaptée au 1<sup>er</sup> sept. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^2-5]: Nouvelle teneur selon le ch. II 1 de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^2-6]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^2-7]: Introduite par l’annexe ch. 1 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre) ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)). Nouvelle teneur selon le ch. II 1 de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 3
@@ -110,7 +110,7 @@ Au sens de la présente loi, on entend par:
 
 <sup>4</sup> Il publie régulièrement un catalogue officiel des caractères, qui contient les modalités ainsi que les nomenclatures et les listes de codes.
 
-[^4-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 5
 
@@ -126,7 +126,7 @@ Les registres doivent contenir des données actuelles, exactes et complètes par
 
 Les registres des habitants contiennent au minimum, pour chaque personne établie ou en séjour, les données relatives aux identificateurs et aux caractères suivants:
 
-- a. numéro d’assuré au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^6-1];
+- a. numéro AVS[^6-1] au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^6-2];
 - b. numéro attribué par l’office à la commune et nom officiel de la commune;
 - c. identificateur de bâtiment selon le Registre fédéral des bâtiments et des logements (RegBL) de l’office;
 - d. identificateur de logement selon le RegBL, ménage dont la personne est membre et catégorie de ménage;
@@ -148,7 +148,8 @@ Les registres des habitants contiennent au minimum, pour chaque personne établi
 - t. droit de vote et éligibilité aux niveaux fédéral, cantonal et communal;
 - u. date de décès.
 
-[^6-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6-1]: Nouvelle expression selon l’annexe ch. 11 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^6-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 7
 
@@ -184,7 +185,7 @@ Les cantons désignent un service chargé de coordonner et d’appliquer les mes
 
 <sup>3</sup> Pour l’échange des données, la Confédération met une plateforme informatique et de communication à la disposition des services et des autorités concernés.
 
-[^10-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^10-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 11
 
@@ -213,13 +214,13 @@ Les cantons édictent les dispositions nécessaires afin que les personnes suiva
 
 #### Art. 13
 
-<sup>1</sup> Les services qui tiennent les registres visés à l’art. 2, al 1, let. a à d, gèrent le numéro d’assuré au sens de l’art. 50*c* de la LAVS[^13-1].
+<sup>1</sup> Les services qui tiennent les registres visés à l’art. 2, al 1, let. a à d, gèrent le numéro AVS au sens de l’art. 50*c* de la LAVS[^13-1].
 
 <sup>2</sup> Les autres caractères sont gérés selon les dispositions fédérales déterminantes et les exigences du catalogue visé à l’art. 4, al. 4, pour autant que ces caractères figurent dans ce catalogue.
 
 <sup>3</sup> L’office est consulté lors de la modification du contenu d’un registre.
 
-[^13-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Section 4 Mise à disposition, utilisation et communication des données
 
@@ -237,7 +238,7 @@ Les cantons édictent les dispositions nécessaires afin que les personnes suiva
 
 <sup>5</sup> Il définit, en collaboration avec les cantons, les normes de qualité et les contrôles requis.
 
-[^14-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^14-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 15
 
@@ -263,11 +264,11 @@ Les cantons édictent les dispositions nécessaires afin que les personnes suiva
 
 **Communication des données par l’office à des fins statistiques, de recherche et de planification**
 
-<sup>1</sup> Afin de permettre aux services statistiques et aux centres de recherche de la Confédération ainsi qu’aux services cantonaux et communaux de statistique de réaliser des exploitations statistiques, l’office communique gratuitement les données dépourvues de désignation de personne et de numéro d’assuré ou les rend accessibles en ligue.
+<sup>1</sup> Afin de permettre aux services statistiques et aux centres de recherche de la Confédération ainsi qu’aux services cantonaux et communaux de statistique de réaliser des exploitations statistiques, l’office communique gratuitement les données dépourvues de désignation de personne et de numéro AVS ou les rend accessibles en ligne.
 
 <sup>2</sup> L’office met gratuitement à la disposition des services cantonaux et communaux de statistique les données mentionnées à l’art. 6, let. a à h, j, k, et m, relatives à leur propre territoire, pour leur permettre de réaliser des relevés statistiques.
 
-<sup>3</sup> Il peut communiquer les données dépourvues de désignation de personne et de numéro d’assuré à d’autres services fédéraux, cantonaux et communaux ainsi qu’à des particuliers à des fins statistiques, de recherche et de planification.
+<sup>3</sup> Il peut communiquer les données dépourvues de désignation de personne et de numéro AVS à d’autres services fédéraux, cantonaux et communaux ainsi qu’à des particuliers à des fins statistiques, de recherche et de planification.
 
 <sup>4</sup> Au terme de leurs travaux, les utilisateurs des données visés à l’al. 3 sont tenus de restituer à l’office les données mises à leur disposition ou de lui en confirmer la destruction par écrit. Ils ne sont autorisés à communiquer ces données à des tiers que sur autorisation écrite de l’office.
 

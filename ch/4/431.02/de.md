@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2006 über die Harmonisierung der Einwohnerreg
 short: RHG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/619"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-06-23
 in_force: 2006-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/619/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-619-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/619/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-619-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/619/20210101/de"
 
 (Registerharmonisierungsgesetz, RHG)
 
-vom 23. Juni 2006 (Stand am 1. Januar 2021)
+vom 23. Juni 2006 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 38 Absatz 1, 39 Absatz 1, 40 Absatz 2, 65 Absatz 2, 12
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -74,9 +74,9 @@ Es gilt auch für die kantonalen und kommunalen:
 
 [^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst.
 [^2-2]: Fassung gemäss Anhang Ziff. III 3 des Auslandschweizergesetzes vom 26. Sept. 2014, in Kraft seit 1. Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^2-3]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2016 angepasst.
+[^2-3]: Die Bezeichnung wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Sept. 2016 angepasst.
 [^2-4]: Fassung gemäss Ziff. II 1 des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^2-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^2-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. Juni 2011 (Verbesserung der Durchführung) ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)). Fassung gemäss Ziff. II 1 des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 3
@@ -107,7 +107,7 @@ In diesem Gesetz bedeuten:
 
 <sup>4</sup> Es veröffentlicht regelmässig einen amtlichen Katalog der Merkmale, der die Merkmalsausprägungen sowie die Nomenklaturen und Kodierschlüssel enthält.
 
-[^4-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 5
 
@@ -123,7 +123,7 @@ Die Register müssen in Bezug auf den erfassten Personenkreis aktuell, richtig u
 
 Die Einwohnerregister enthalten von jeder Person, die sich niedergelassen hat oder aufhält, mindestens die Daten zu den folgenden Identifikatoren und Merkmalen:
 
-- a. Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^6-1] über die Alters- und Hinterlassenenversicherung (AHVG);
+- a. AHV-Nummer[^6-1] nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^6-2] über die Alters- und Hinterlassenenversicherung (AHVG);
 - b. Gemeindenummer des Bundesamtes und amtlicher Gemeindename;
 - c. Gebäudeidentifikator nach dem eidgenössischen Gebäude- und Wohnungsregister (GWR) des Bundesamtes;
 - d. Wohnungsidentifikator nach dem GWR, Haushaltszugehörigkeit und Haushaltsart;
@@ -145,7 +145,8 @@ Die Einwohnerregister enthalten von jeder Person, die sich niedergelassen hat od
 - t. Stimm- und Wahlrecht auf Bundes-, Kantons- und Gemeindeebene;
 - u. Todesdatum.
 
-[^6-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6-1]: Ausdruck gemäss Anhang Ziff. 11 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^6-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 7
 
@@ -181,7 +182,7 @@ Die Kantone bestimmen eine Amtsstelle, die für die Koordination, Durchführung 
 
 <sup>3</sup> Der Bund stellt den zuständigen Amtsstellen und Behörden für den Austausch eine Informatik- und Kommunikations-Plattform zur Verfügung.
 
-[^10-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Anhang Ziff. I]. Siehe heute: das BG vom 18. März 2016 ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^10-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Anhang Ziff. I]. Siehe heute: das BG vom 18. März 2016 ([SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 11
 
@@ -210,13 +211,13 @@ Die Kantone erlassen die notwendigen Vorschriften, damit die nachfolgenden Perso
 
 #### Art. 13
 
-<sup>1</sup> Die registerführenden Stellen nach Artikel 2 Absatz 1 Buchstaben a–d führen die Versichertennummer nach Artikel 50*c* AHVG[^13-1].
+<sup>1</sup> Die registerführenden Stellen nach Artikel 2 Absatz 1 Buchstaben a–d führen die AHV-Nummer nach Artikel 50*c* AHVG[^13-1].
 
 <sup>2</sup> Die Führung anderer Merkmale richtet sich nach den massgebenden Bestimmungen des Bundes und nach den Anforderungen des Katalogs nach Artikel 4 Absatz 4, sofern das Merkmal im Katalog aufgeführt ist.
 
 <sup>3</sup> Das Bundesamt wird bei Änderungen am Inhalt eines Registers konsultiert.
 
-[^13-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^13-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 4. Abschnitt: Bereitstellung, Verwendung und Weitergabe der Daten
 
@@ -234,7 +235,7 @@ Die Kantone erlassen die notwendigen Vorschriften, damit die nachfolgenden Perso
 
 <sup>5</sup> Es definiert in Zusammenarbeit mit den Kantonen die notwendigen Überprüfungen und Qualitätsstandards.
 
-[^14-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Anhang Ziff. I]. Siehe heute: das BG vom 18. März 2016 ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^14-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Anhang Ziff. I]. Siehe heute: das BG vom 18. März 2016 ([SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 15
 
@@ -260,11 +261,11 @@ Die Kantone erlassen die notwendigen Vorschriften, damit die nachfolgenden Perso
 
 **Weitergabe der Daten durch das Bundesamt für Zwecke der Statistik, Forschung und Planung**
 
-<sup>1</sup> Um den Statistik- und Forschungsstellen des Bundes sowie den statistischen Ämtern der Kantone und Gemeinden die Durchführung statistischer Auswertungen zu ermöglichen, gibt das Bundesamt die Daten ohne Personenbezeichnungen und ohne Versichertennummer kostenlos weiter oder erlaubt durch Abrufverfahren einen Zugriff auf diese Daten.
+<sup>1</sup> Um den Statistik- und Forschungsstellen des Bundes sowie den statistischen Ämtern der Kantone und Gemeinden die Durchführung statistischer Auswertungen zu ermöglichen, gibt das Bundesamt die Daten ohne Personenbezeichnungen und ohne AHV-Nummer kostenlos weiter oder erlaubt durch Abrufverfahren einen Zugriff auf diese Daten.
 
 <sup>2</sup> Das Bundesamt stellt den statistischen Ämtern der Kantone und Gemeinden die Daten nach Artikel 6 Buchstaben a–h, j, k und m über ihr eigenes Hoheitsgebiet für die Durchführung statistischer Erhebungen kostenlos zur Verfügung.
 
-<sup>3</sup> Es kann die Daten ohne Personenbezeichnungen und ohne Versichertennummer anderen Amtsstellen des Bundes, der Kantone und der Gemeinden sowie Privaten für Zwecke der Statistik, Forschung und Planung weitergeben.
+<sup>3</sup> Es kann die Daten ohne Personenbezeichnungen und ohne AHV-Nummer anderen Amtsstellen des Bundes, der Kantone und der Gemeinden sowie Privaten für Zwecke der Statistik, Forschung und Planung weitergeben.
 
 <sup>4</sup> Die Empfängerinnen und Empfänger nach Absatz 3 müssen die erhaltenen Daten nach Abschluss der Arbeiten dem Bundesamt zurückgeben oder diesem die Vernichtung der Daten schriftlich bestätigen. Die Weitergabe der Daten an Dritte ist nur mit schriftlicher Zustimmung des Bundesamtes zulässig.
 
@@ -327,6 +328,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619)konsultiert werden.
