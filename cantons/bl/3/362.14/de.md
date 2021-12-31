@@ -3,20 +3,20 @@ canton: BL
 number: "362.14"
 title: Verordnung über die Finanzierung von Pflegeleistungen
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-11-17
+version: 2022-01-01
+valid_until: 2022-09-30
+version_adopted: 2021-09-28
 adopted: 2011-02-22
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/362.14"
-pdf: "https://bl.clex.ch/api/de/versions/2782/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3099/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Finanzierung von Pflegeleistungen
 
-Vom 22.02.2011 (Stand 01.01.2021)
+Vom 22.02.2011 (Stand 01.01.2022)
 
 Der Regierungsrat des Kanton Basel-Landschaft,
 
@@ -33,24 +33,24 @@ beschliesst:
 
 <sup>1</sup> Die anrechenbaren Normkosten gemäss § 15c EG KVG betragen für Pflegeleistungen in Alters- und Pflegeheimen pro Tag:
 
-- a. in der Pflegebedarfsstufe 1 CHF 25.95,
-- b. in der Pflegebedarfsstufe 2 CHF 38.95,
-- c. in der Pflegebedarfsstufe 3 CHF 64.90,
-- d. in der Pflegebedarfsstufe 4 CHF 90.85,
-- e. in der Pflegebedarfsstufe 5 CHF 116.80,
-- f. in der Pflegebedarfsstufe 6 CHF 142.75,
-- g. in der Pflegebedarfsstufe 7 CHF 168.70,
-- h. in der Pflegebedarfsstufe 8 CHF 194.65,
-- i. in der Pflegebedarfsstufe 9 CHF 220.60,
-- j. in der Pflegebedarfsstufe 10 CHF 246.55,
-- k. in der Pflegebedarfsstufe 11 CHF 272.50,
-- l. in der Pflegebedarfsstufe 12 CHF 298.45.
+- a. in der Pflegebedarfsstufe 1 CHF 25.45,
+- b. in der Pflegebedarfsstufe 2 CHF 38.20,
+- c. in der Pflegebedarfsstufe 3 CHF 63.65,
+- d. in der Pflegebedarfsstufe 4 CHF 89.10,
+- e. in der Pflegebedarfsstufe 5 CHF 114.55,
+- f. in der Pflegebedarfsstufe 6 CHF 140.00,
+- g. in der Pflegebedarfsstufe 7 CHF 165.45,
+- h. in der Pflegebedarfsstufe 8 CHF 190.90,
+- i. in der Pflegebedarfsstufe 9 CHF 216.35,
+- j. in der Pflegebedarfsstufe 10 CHF 241.80,
+- k. in der Pflegebedarfsstufe 11 CHF 267.25,
+- l. in der Pflegebedarfsstufe 12 CHF 292.70.
 
 #### § 1bis
 
 **Erhöhter Pflegebedarf**
 
-<sup>1</sup> Der Pflegebedarf einer Bewohnerin oder eines Bewohners eines Alters- und Pflegeheims, welcher 240 Minuten pro Tag übersteigt, wird nach Aufwand mit CHF 77.85 pro Stunde abgegolten. Zusätzlich werden die Kosten für Produkte der Mittel- und Gegenständeliste[^1bis-1] übernommen, welche sich aus dem erhöhten Pflegebedarf ergeben.
+<sup>1</sup> Der Pflegebedarf einer Bewohnerin oder eines Bewohners eines Alters- und Pflegeheims, welcher 240 Minuten pro Tag übersteigt, wird nach Aufwand mit CHF 76.35 pro Stunde abgegolten. Zusätzlich werden die Kosten für Produkte der Mittel- und Gegenständeliste[^1bis-1] übernommen, welche sich aus dem erhöhten Pflegebedarf ergeben.
 
 <sup>2</sup> Der Kanton trägt die dadurch entstehenden Kosten, abzüglich des Beitrags des Krankenversicherers und der versicherten Person.
 
