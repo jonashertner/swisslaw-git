@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Accord du 30 octobre 2014 entre le Conseil fédéral suisse et le gouvernement de la Principauté du Liechtenstein sur la reconnaissance mutuelle des certificats de capacité et des attestations de la formation professionnelle initiale (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-16-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-16-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Conclu le 30 octobre 2014
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2015
 
-(Etat le 1<sup>er</sup> janvier 2021)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse et le gouvernement de la Principauté du Liechtenstein,
 
@@ -119,7 +119,7 @@ Annexe*[^t-1]*
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par les mod. entrées en vigueur le 1<sup>er</sup> janv. 2016 ([RO 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), le 1<sup>er</sup> janv. 2017 ([RO 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), le 1<sup>er</sup> janv. 2018 ([RO 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), le 1<sup>er</sup> janv. 2019 ([RO 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), le 1<sup>er</sup> janv. 2020 ([RO 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)) et le 1<sup>er</sup> janv. 2021 ([RO 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)).
+[^t-1]: Mise à jour par les mod. entrées en vigueur le 1<sup>er</sup> janv. 2016 ([RO 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), le 1<sup>er</sup> janv. 2017 ([RO 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), le 1<sup>er</sup> janv. 2018 ([RO 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), le 1<sup>er</sup> janv. 2019 ([RO 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), le 1<sup>er</sup> janv. 2020 ([RO 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), le 1<sup>er</sup> janv. 2021 ([RO 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)) et le 1<sup>er</sup> janv. 2022 ([RO 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)).
 [^annexu1-lvlu1-1]: Pour chaque titre professionnel, une publication sous la forme d’un renvoi à l’ordonnance relative est publiée dans le Recueil officiel du droit fédéral suisse (RO). Les ordonnances suisses qui s’appliquent à la reconnaissance mutuelle des certificats ne sont publiées ni au Recueil officiel du droit fédéral suisse (RO) ni au Recueil systématique Suisse (RS). Elles peuvent être commandées auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, www.publicationsfederales.ch. Le texte est publié sur Internet sous: www.bvz.admin.ch. Pour chaque titre professionnel, une ordonnance est publiée dans le Liechtensteinischen Landesgesetzblatt. Les ordonnances liechtensteinoises qui s’appliquent à la reconnaissance mutuelle des certificats peuvent être consultées à l’adresse suivante: www.gesetze.li.
 
 <table>
@@ -193,12 +193,17 @@ Annexe*[^t-1]*
 <tr><td>70610</td><td>Assistant en pharmacie CFC/ Assistant en pharmacie CC</td><td>Assistante en pharmacie CFC/ Assistante en pharmacie CC</td><td></td></tr>
 <tr><td>82116</td><td>Assistant en podologie CFC/ Assistant en podologie CC</td><td>Assistante en podologie CFC/ Assistante en podologie CC</td><td></td></tr>
 <tr><td>82117</td><td>Assistant en podologie CFC/ Assistant en podologie CC</td><td>Assistante en podologie CFC/ Assistante en podologie CC</td><td></td></tr>
+<tr><td>82118</td><td>Assistant en podologie CFC / Assistant en podologie CC</td><td>Assistante en podologie CFC / Assistante en podologie CC</td><td></td></tr>
 <tr><td>85701</td><td>Assistant en promotion de l’activité physique et de la santé CFC/Assistant en promotion de l’activité physique et de la santé CC</td><td>Assistante en promotion de l’activité physique et de la santé CFC/Assistante en promotion de l’activité physique et de la santé CC</td><td></td></tr>
 <tr><td>94303</td><td>Assistant socio-éducatif CFC/ Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC/ Assistante socio-éducatif CC</td><td></td></tr>
 <tr><td>94304</td><td>Assistant socio-éducatif CFC/ Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC/ Assistante socio-éducatif CC</td><td>Accompagnement des personnes handicapées</td></tr>
 <tr><td>94305</td><td>Assistant socio-éducatif CFC/ Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC/ Assistante socio-éducatif CC</td><td>Accompagnement des personnes âgées</td></tr>
 <tr><td>94306</td><td>Assistant socio-éducatif CFC/ Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC/ Assistante socio-éducatif CC</td><td>Accompagnement des enfants</td></tr>
 <tr><td>94307</td><td>Assistant socio-éducatif CFC/ Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC/ Assistante socio-éducatif CC</td><td>Variante généraliste</td></tr>
+<tr><td>94308</td><td>Assistant socio-éducatif CFC / Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC / Assistante socio-éducative CC</td><td></td></tr>
+<tr><td>94309</td><td>Assistant socio-éducatif CFC / Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC / Assistante socio-éducative CC</td><td>Enfants</td></tr>
+<tr><td>94310</td><td>Assistant socio-éducatif CFC / Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC / Assistante socio-éducative CC</td><td>Personnes en situation de handicap</td></tr>
+<tr><td>94311</td><td>Assistant socio-éducatif CFC / Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC / Assistante socio-éducative CC</td><td>Personnes âgées</td></tr>
 <tr><td>86911</td><td>Assistant en soins et santé communautaire CFC/Assistant en soins et santé communautaire CC</td><td>Assistante en soins et santé communautaire CFC/Assistante en soins et santé communautaire CC</td><td></td></tr>
 <tr><td>86914</td><td>Assistant en soins et santé communautaire CFC/ Assistant en soins et santé communautaire CC</td><td>Assistante en soins et santé communautaire CFC/ Assistante en soins et santé communautaire CC</td><td></td></tr>
 <tr><td>45305</td><td>Assistant vernisseur AFP/ Assistant vernisseur AP</td><td>Assistante vernisseuse AFP/ Assistante vernisseur AP</td><td></td></tr>
@@ -412,6 +417,10 @@ Annexe*[^t-1]*
 <tr><td>17014</td><td>Horticulteur CFC/ Horticulteur CC</td><td>Horticultrice CFC/ Horticultrice CC</td><td>Plantes vivaces</td></tr>
 <tr><td>17015</td><td>Horticulteur CFC/ Horticulteur CC</td><td>Horticultrice CFC/ Horticultrice CC</td><td>Floriculture</td></tr>
 <tr><td>17000</td><td>Horticulteur CFC/ Horticulteur CC</td><td>Horticultrice CFC/ Horticultrice CC</td><td></td></tr>
+<tr><td>88607</td><td>Informaticien du bâtiment CFC / Informaticien du bâtiment CC</td><td>Informaticienne du bâtiment CFC / Informaticienne du bâtiment CC</td><td></td></tr>
+<tr><td>88608</td><td>Informaticien du bâtiment CFC / Informaticien du bâtiment CC</td><td>Informaticienne du bâtiment CFC / Informaticienne du bâtiment CC</td><td>Planification</td></tr>
+<tr><td>88609</td><td>Informaticien du bâtiment CFC / Informaticien du bâtiment CC</td><td>Informaticienne du bâtiment CFC / Informaticienne du bâtiment CC</td><td>Automatisation du bâtiment</td></tr>
+<tr><td>88610</td><td>Informaticien du bâtiment CFC / Informaticien du bâtiment CC</td><td>Informaticienne du bâtiment CFC / Informaticienne du bâtiment CC</td><td>Communication et multimédia</td></tr>
 <tr><td>47110</td><td>Informaticien CFC/ Informaticien CC</td><td>Informaticienne CFC/ Informaticienne CC</td><td></td></tr>
 <tr><td>88600</td><td>Informaticien CFC/ Informaticien CC</td><td>Informaticienne CFC/ Informaticienne CC</td><td></td></tr>
 <tr><td>47112</td><td>Informaticien CFC/ Informaticien CC</td><td>Informaticienne CFC/ Informaticienne CC</td><td>Option généraliste</td></tr>
@@ -421,6 +430,9 @@ Annexe*[^t-1]*
 <tr><td>88602</td><td>Informaticien CFC/ Informaticien CC</td><td>Informaticienne CFC/ Informaticienne CC</td><td>Informatique d’entreprise</td></tr>
 <tr><td>47115</td><td>Informaticien CFC/ Informaticien CC</td><td>Informaticienne CFC/ Informaticienne CC</td><td>Orientation «technique systèmes»</td></tr>
 <tr><td>88603</td><td>Informaticien CFC/ Informaticien CC</td><td>Informaticienne CFC/ Informaticienne CC</td><td>Technique des systèmes</td></tr>
+<tr><td>88611</td><td>Informaticien CFC / Informaticien CC</td><td>Informaticienne CFC / Informaticienne CC</td><td></td></tr>
+<tr><td>88612</td><td>Informaticien CFC / Informaticien CC</td><td>Informaticienne CFC / Informaticienne CC</td><td>Exploitation et infrastructure</td></tr>
+<tr><td>88613</td><td>Informaticien CFC / Informaticien CC</td><td>Informaticienne CFC / Informaticienne CC</td><td>Développement d’applications</td></tr>
 <tr><td>47604</td><td>Installateur en chauffage CFC/ Installateur en chauffage CC</td><td>Installatrice en chauffage CFC/ Installatrice en chauffage CC</td><td></td></tr>
 <tr><td>47605</td><td>Installateur en chauffage CFC / Installateur en chauffage CC</td><td>Installatrice en chauffage CFC / Installatrice en chauffage CC</td><td></td></tr>
 <tr><td>47413</td><td>Installateur-électricien CFC/ Installateur-électricien CC</td><td>Installatrice-électricienne CFC/ Installatrice-électricienne CC</td><td></td></tr>

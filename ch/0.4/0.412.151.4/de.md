@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Abkommen vom 30. Oktober 2014 zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein über die gegenseitige Anerkennung von Fähigkeitszeugnissen und Berufsattesten der beruflichen Grundbildung (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-16-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-16-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 30. Oktober 2014
 
 In Kraft getreten durch Notenaustausch am 1. Januar 2015
 
-(Stand am 1. Januar 2021)
+(Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat und die Regierung des Fürstentums Liechtenstein
 
@@ -119,7 +119,7 @@ Anhang*[^t-1]*
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss der am 1. Jan. 2016 ([AS 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), der am 1. Jan. 2017 ([AS 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), der am 1. Jan. 2018 ([AS 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), der am 1. Jan. 2019 ([AS 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), der am 1. Jan. 2020 ([AS 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)) und der am 1. Jan. 2021 in Kraft getretenen Änd. ([AS 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)).
+[^t-1]: Bereinigt gemäss der am 1. Jan. 2016 ([AS 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), der am 1. Jan. 2017 ([AS 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), der am 1. Jan. 2018 ([AS 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), der am 1. Jan. 2019 ([AS 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), der am 1. Jan. 2020 ([AS 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), der am 1. Jan. 2021 in Kraft getretenen Änd. ([AS 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)) und der am 1. Jan. 2022 in Kraft getretenen Änd. ([AS 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)).
 [^annexu1-lvlu1-1]: Für jeden Berufstitel erfolgt in der schweizerischen Amtlichen Sammlung des Bundesrechts (AS) jeweils eine Publikation durch Verweis auf die Fundstelle der jeweiligen Verordnungen. Diese für die gegenseitig anerkannten Ausweise massgebenden schweizerischen Verordnungen werden weder in der AS noch in der schweizerischen Systematischen Rechtssammlung (SR) veröffentlicht. Sie können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, www.bundespublikationen.ch, bezogen werden und sind im Internet abrufbar unter www.bvz.admin.ch. Für jeden Berufstitel wird im Liechtensteinischen Landesgesetzblatt eine entsprechende Verordnung publiziert. Diese für die gegenseitig anerkannten Ausweise massgebenden liechtensteinischen Verordnungen können im Internet unter www.gesetze.li abgerufen werden.
 
 <table>
@@ -282,8 +282,12 @@ Anhang*[^t-1]*
 <tr><td>94303</td><td>Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td></td></tr>
 <tr><td>94304</td><td>Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td>Behindertenbetreuung</td></tr>
 <tr><td>94305</td><td>Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td>Betagtenbetreuung</td></tr>
-<tr><td>94307</td><td>Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td>Generalistische Ausbildung</td></tr>
 <tr><td>94306</td><td>Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td>Kinderbetreuung</td></tr>
+<tr><td>94307</td><td>Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td colspan="2">Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td>Generalistische Ausbildung</td></tr>
+<tr><td>94308</td><td colspan="2">Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td>Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td></td></tr>
+<tr><td>94309</td><td colspan="2">Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td>Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td>Kinder</td></tr>
+<tr><td>94310</td><td colspan="2">Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td>Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td>Menschen mit Behinderung</td></tr>
+<tr><td>94311</td><td colspan="2">Fachmann Betreuung EFZ / Fachmann Betreuung FZ</td><td>Fachfrau Betreuung EFZ / Fachfrau Betreuung FZ</td><td>Menschen im Alter</td></tr>
 <tr><td>95004</td><td>Fachmann Betriebsunterhalt EFZ / Fachmann Betriebsunterhalt FZ</td><td colspan="2">Fachfrau Betriebsunterhalt EFZ / Fachfrau Betriebsunterhalt FZ</td><td></td></tr>
 <tr><td>80200</td><td>Fachmann Betriebsunterhalt EFZ / Fachmann Betriebsunterhalt FZ</td><td colspan="2">Fachfrau Betriebsunterhalt EFZ / Fachfrau Betriebsunterhalt FZ</td><td></td></tr>
 <tr><td>85701</td><td>Fachmann Bewegungs- und Gesundheitsförderung EFZ / Fachmann Bewegungs- und Gesundheitsförderung FZ</td><td colspan="2">Fachfrau Bewegungs- und Gesundheitsförderung EFZ / Fachfrau Bewegungs- und Gesundheitsförderung FZ</td><td></td></tr>
@@ -320,6 +324,10 @@ Anhang*[^t-1]*
 <tr><td>17014</td><td>Gärtner EFZ / Gärtner FZ</td><td colspan="2">Gärtnerin EFZ / Gärtnerin FZ</td><td>Stauden</td></tr>
 <tr><td>17015</td><td>Gärtner EFZ / Gärtner FZ</td><td colspan="2">Gärtnerin EFZ / Gärtnerin FZ</td><td>Zierpflanzen</td></tr>
 <tr><td>17000</td><td>Gärtner EFZ / Gärtner FZ</td><td colspan="2">Gärtnerin EFZ / Gärtnerin FZ</td><td></td></tr>
+<tr><td>88607</td><td colspan="2">Gebäudeinformatiker EFZ / Gebäudeinformatiker FZ</td><td>Gebäudeinformatikerin EFZ / Gebäudeinformatikerin FZ</td><td></td></tr>
+<tr><td>88608</td><td colspan="2">Gebäudeinformatiker EFZ / Gebäudeinformatiker FZ</td><td>Gebäudeinformatikerin EFZ / Gebäudeinformatikerin FZ</td><td>Planung</td></tr>
+<tr><td>88609</td><td colspan="2">Gebäudeinformatiker EFZ / Gebäudeinformatiker FZ</td><td>Gebäudeinformatikerin EFZ / Gebäudeinformatikerin FZ</td><td>Gebäudeautomation</td></tr>
+<tr><td>88610</td><td colspan="2">Gebäudeinformatiker EFZ / Gebäudeinformatiker FZ</td><td>Gebäudeinformatikerin EFZ / Gebäudeinformatikerin FZ</td><td>Kommunikation und Multimedia</td></tr>
 <tr><td>80103</td><td>Gebäudereiniger EBA / Gebäudereiniger BA</td><td colspan="2">Gebäudereinigerin EBA / Gebäudereinigerin BA</td><td></td></tr>
 <tr><td>80102</td><td>Gebäudereiniger EFZ / Gebäudereiniger FZ</td><td colspan="2">Gebäudereinigerin EFZ / Gebäudereinigerin FZ</td><td></td></tr>
 <tr><td>64616</td><td>Gebäudetechnikplaner Heizung EFZ / Gebäudetechnikplaner Heizung FZ</td><td colspan="2">Gebäudetechnikplanerin Heizung EFZ / Gebäudetechnikplanerin Heizung FZ</td><td></td></tr>
@@ -368,6 +376,9 @@ Anhang*[^t-1]*
 <tr><td>88602</td><td>Informatiker EFZ / Informatiker FZ</td><td colspan="2">Informatikerin EFZ / Informatikerin FZ</td><td>Betriebsinformatik</td></tr>
 <tr><td>47115</td><td>Informatiker EFZ / Informatiker FZ</td><td colspan="2">Informatikerin EFZ / Informatikerin FZ</td><td>Systemtechnik</td></tr>
 <tr><td>88603</td><td>Informatiker EFZ / Informatiker FZ</td><td colspan="2">Informatikerin EFZ / Informatikerin FZ</td><td>Systemtechnik</td></tr>
+<tr><td>88611</td><td colspan="2">Informatiker EFZ / Informatiker FZ</td><td>Informatikerin EFZ / Informatikerin FZ</td><td></td></tr>
+<tr><td>88612</td><td colspan="2">Informatiker EFZ / Informatiker FZ</td><td>Informatikerin EFZ / Informatikerin FZ</td><td>Plattformentwicklung</td></tr>
+<tr><td>88613</td><td colspan="2">Informatiker EFZ / Informatiker FZ</td><td>Informatikerin EFZ / Informatikerin FZ</td><td>Applikationsentwicklung</td></tr>
 <tr><td>47116</td><td>Informatikpraktiker EBA / Informatikpraktiker BA</td><td colspan="2">Informatikpraktikerin EBA / Informatikpraktikerin BA</td><td></td></tr>
 <tr><td>47117</td><td>Interactive Media Designer EFZ / Interactive Media Designer FZ</td><td colspan="2">Interactive Media Designer EFZ / Interactive Media Designer FZ</td><td></td></tr>
 <tr><td>80003</td><td>Kaminfeger EFZ / Kaminfeger FZ</td><td colspan="2">Kaminfegerin EFZ / Kaminfegerin FZ</td><td></td></tr>
@@ -491,6 +502,7 @@ Anhang*[^t-1]*
 <tr><td>51104</td><td>Plattenlegerpraktiker EBA / Plattenlegerpraktiker BA</td><td colspan="2">Plattenlegerpraktikerin EBA / Plattenlegerpraktikerin BA</td><td></td></tr>
 <tr><td>82116</td><td>Podologe EFZ / Podologe FZ</td><td colspan="2">Podologin EFZ / Podologin FZ</td><td></td></tr>
 <tr><td>82117</td><td>Podologe EFZ / Podologe FZ</td><td colspan="2">Podologin EFZ / Podologin FZ</td><td></td></tr>
+<tr><td>82118</td><td colspan="2">Podologe EFZ / Podologe FZ</td><td>Podologin EFZ / Podologin FZ</td><td></td></tr>
 <tr><td>51908</td><td>Polybauer EFZ / Polybauer FZ</td><td colspan="2">Polybauerin EFZ / Polybauerin FZ</td><td>Abdichten</td></tr>
 <tr><td>51909</td><td>Polybauer EFZ / Polybauer FZ</td><td colspan="2">Polybauerin EFZ / Polybauerin FZ</td><td>Dachdecken</td></tr>
 <tr><td>51910</td><td>Polybauer EFZ / Polybauer FZ</td><td colspan="2">Polybauerin EFZ / Polybauerin FZ</td><td>Fassadenbau</td></tr>
