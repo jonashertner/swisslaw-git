@@ -3,20 +3,20 @@ canton: VS
 number: "805.130"
 title: Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les organisations de soins à domicile et les infirmières et infirmiers indépendants
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-02
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-12-01
 adopted: 2026-06-10
 in_force: 2026-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.130"
-pdf: "https://lex.vs.ch/api/fr/versions/2780/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2993/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les organisations de soins à domicile et les infirmières et infirmiers indépendants
 
-du 02.12.2020 (état 01.01.2021)
+du 01.12.2021 (état 01.01.2022)
 
 Le Conseil d’Etat du canton du Valais
 
@@ -45,7 +45,7 @@ arrête:
 
 #### Art. 2
 
-**Coûts facturables 2021**
+**Coûts facturables 2022**
 
 <sup>1</sup> Les coûts facturables pour les prestations de soins s’élèvent, par heure, à:
 
@@ -55,7 +55,7 @@ arrête:
 
 #### Art. 3
 
-**Contributions résiduelles 2021**
+**Contributions résiduelles 2022**
 
 <sup>1</sup> Les contributions résiduelles des pouvoirs publics aux coûts de soins s’élèvent, par heure, à:
 
@@ -78,4 +78,4 @@ arrête:
 
 <sup>1</sup> Le département en charge de la santé est chargé de l’exécution du présent arrêté.
 
-RCV RO/AGS 2020-123
+RCV RO/AGS 2021-165
