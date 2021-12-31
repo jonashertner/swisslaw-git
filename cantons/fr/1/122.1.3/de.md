@@ -4,13 +4,12 @@ number: "122.1.3"
 title: "Gesetz über die Gehälter und die berufliche Vorsorge der Staatsräte, der Oberamtmänner und der Kantonsrichter"
 short: GSRG
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-10-04
+version: 2022-01-01
+version_adopted: 2021-03-23
 adopted: 2004-06-15
 in_force: 2004-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.1.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/6395/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6965/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Staatsräte, Gehälter und berufliche Vorsorge – G
 
 (GSRG)
 
-vom 15.06.2004 (Fassung in Kraft getreten am 01.01.2017)
+vom 15.06.2004 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -53,7 +52,7 @@ beschliesst:
 
 **Staatsräte**
 
-<sup>1</sup> Das Funktionsgehalt (das Gehalt) der Staatsräte entspricht 118 % des Höchstgehalts der allgemeinen Gehaltsskala, erhöht um das 13. Monatsgehalt.
+<sup>1</sup> Das Funktionsgehalt (das Gehalt) der Staatsräte entspricht 130 % des Höchstgehalts der allgemeinen Gehaltsskala, erhöht um das 13. Monatsgehalt.
 
 <sup>2</sup> Der Staatsratspräsident erhält eine Jahreszulage von 5000 Franken.
 
@@ -63,7 +62,7 @@ beschliesst:
 
 **Oberamtmänner**
 
-<sup>1</sup> Das Gehalt der Oberamtmänner entspricht dem in Klasse 4 Stufe 6 der Sondergehaltsskala des Staatspersonals festgesetzten Betrag, erhöht um das 13. Monatsgehalt.
+<sup>1</sup> Das Gehalt der Oberamtmänner entspricht dem in Klasse 4 Stufe 12 der Sondergehaltsskala des Staatspersonals festgesetzten Betrag, erhöht um das 13. Monatsgehalt.
 
 <sup>2</sup> Der Staatsrat legt die pauschalen Repräsentations- und Reiseentschädigungen für die Oberamtmänner periodisch fest.
 
@@ -103,163 +102,154 @@ beschliesst:
 
 ## 4 Berufliche Vorsorge
 
-### 4.1 Staatsräte
+### 4.1
 
 #### Art. 8
 
-**Rücktritt oder Nichtwiederwahl vor dem 50. Altersjahr und nach weniger als 10 Amtsjahren**
-
-<sup>1</sup> Zurücktretende oder nicht wieder gewählte Staatsräte, die ihre Amtstätigkeit vor dem 50. Altersjahr aufgeben und weniger als 10 volle Amtsjahre geleistet haben, haben Anspruch auf die folgenden Leistungen:
-
-- a) bei weniger als 5 geleisteten Amtsjahren: ein Jahresgehalt als Austrittsleistung und ein Jahresgehalt als Entschädigung;
-- b) ab dem 6. bis zum 10. Amtsjahr: eine Austrittsleistung von 120 % des Jahresgehalts, die für jedes Amtsjahr um 20 % erhöht wird bis zu einem Maximum von 2 Jahresgehältern, sowie ein Jahresgehalt als Entschädigung.
-
-<sup>2</sup> Für die Berechnung der Beträge nach Absatz 1 Bst. a und b gilt jedes angefangene Amtsjahr als volles Jahr.
-
-<sup>3</sup> Die Austrittsleistung muss einer Vorsorgeeinrichtung überwiesen oder in eine andere anerkannte Vorsorgeform eingezahlt werden gemäss den Voraussetzungen der Bundesgesetzgebung über die berufliche Vorsorge.
-
-<sup>4</sup> Die Entschädigung wird in Form einer auf zwölf Monate aufgeteilten Rente ausbezahlt. Sie wird mit dem Erwerbseinkommen koordiniert. Die Koordination besteht in einer Leistungskürzung, wenn die Entschädigung zusammen mit dem neuen Erwerbseinkommen einen Betrag ergibt, der über dem entsprechenden Jahresgehalt der Staatsräte liegt. Der Staatsrat legt die Berechnungsmodalitäten fest.
+**…**
 
 #### Art. 9
 
-**Rücktritt oder Nichtwiederwahl nach dem 50. Altersjahr oder nach 10 vollen Amtsjahren – Grundsatz**
-
-<sup>1</sup> Staatsräte, die nach dem 50. Altersjahr zurücktreten oder nicht wieder gewählt werden oder die 10 Amtsjahre geleistet haben, haben Anspruch auf eine lebenslängliche Pension von 6 % des letzten Gehalts pro Jahr für die ersten 5 Amtsjahre. Die Pension wird bis zum 10. Amtsjahr um je 4 % pro Jahr und ab dem 11. Amtsjahr um weitere 2 % pro geleistetes Amtsjahr erhöht, bis zum Maximum von 60 % des letzten Gehalts.
-
-<sup>2</sup> Für die Berechnung der Beträge nach Absatz 1 gilt jedes angefangene Amtsjahr als volles Jahr.
-
-<sup>3</sup> Die von dieser Bestimmung betroffenen Staatsräte können sich statt einer lebenslänglichen Pension für die in Artikel 8 vorgesehenen Leistungen entscheiden.
+**…**
 
 #### Art. 10
 
-**Rücktritt oder Nichtwiederwahl nach dem 50. Altersjahr oder nach 10 vollen Amtsjahren – Koordination**
-
-<sup>1</sup> Die Pension wird mit dem Einkommen aus Erwerbstätigkeit, aus einer Alters-, Invaliden- oder Hinterbliebenenrente einer Vorsorgeeinrichtung oder einer öffentlichen Körperschaft, aus einer AHV-Rente, einer IV-Rente oder einer anderen Sozialversicherung koordiniert; die Renteneinkünfte aus der 3. Säule werden nicht berücksichtigt.
-
-<sup>2</sup> Die Koordination besteht in einer entsprechenden Kürzung der Pension, wenn diese zusammen mit einer Einkommensquelle nach Absatz 1 mehr als 100 % des zuletzt als Staatsrat bezogenen indexierten Gehalts beträgt. Ab dem AHV-Alter wird die Pension bis zu höchstens 50 % gekürzt.
-
-<sup>3</sup> Wurden anstelle der lebenslänglichen Pension die Leistungen nach Artikel 8 gewählt, so werden diese entsprechend den Absätzen 1 und 2 koordiniert.
+**…**
 
 #### Art. 11
 
-**Invalidität**
-
-<sup>1</sup> Bei Invalidität, die die Aufgabe der Amtstätigkeit zur Folge hat, haben die Staatsräte Anspruch auf eine Pension von 60 % des letzten Gehalts.
-
-<sup>2</sup> Die Invalidität wird von einer vom Staatsrat bezeichneten Behörde aufgrund eines ärztlichen Berichts, des der eidgenössischen IV unterbreiteten Dossiers und gegebenenfalls des Entscheids der IV festgestellt. Die Invaliditätsfälle, die nicht endgültig als solche eingestuft worden sind, werden periodisch der vom Staatsrat bezeichneten Behörde zur Überprüfung vorgelegt.
-
-<sup>3</sup> Die Invalidenpension wird mit der IV- oder AHV-Rente, einer Alters-, Invaliden- oder Hinterbliebenenrente einer Vorsorgeeinrichtung und mit dem Einkommen aus einer Erwerbstätigkeit koordiniert.
-
-<sup>4</sup> Die Koordination besteht in einer entsprechenden Kürzung der Pension, wenn diese zusammen mit einer Einkommensquelle nach Absatz 3 mehr als 100 % des zuletzt als Staatsrat bezogenen indexierten Gehalts beträgt. Ab dem AHV-Alter wird die Pension bis zu höchstens 50 % gekürzt.
+**…**
 
 #### Art. 12
 
-**Todesfall**
-
-<sup>1</sup> Im Todesfall eines Staatsrats hat der überlebende Ehegatte Anspruch auf 60 % der Pension des Verstorbenen, wenn dieser bereits pensioniert war, und auf 60 % der nach Artikel 11 berechneten Pension, wenn der Verstorbene noch im Amt war. Bei Wiederverheiratung hat der überlebende Ehegatte alles in allem Anspruch auf eine einmalige Entschädigung in Höhe des dreifachen Betrags der Jahrespension, auf die er bei der Wiederverheiratung Anspruch hatte.
-
-<sup>2</sup> Der geschiedene oder in Trennung lebende überlebende Ehegatte wird dem überlebenden Ehegatten gleichgestellt, unter der Voraussetzung, dass die Ehe mindestens 10 Jahre gedauert hat und er gemäss Scheidungs- oder Trennungsurteil Anspruch auf eine Rente oder eine Kapitalabfindung an Stelle einer Rente hatte. Die Pension wird jedoch entsprechend gekürzt, wenn sie zusammen mit den Todesfall-Leistungen der IV und AHV zugunsten des geschiedenen oder in Trennung lebenden Ehegatten den im Scheidungs- oder Trennungsurteil festgesetzten Betrag übersteigt.
-
-<sup>3</sup> Kinder oder Pflegekinder haben bis zum vollendeten 18. Altersjahr oder bis zum vollendeten 25. Altersjahr, wenn sie in der Lehre oder im Studium sind oder wegen Invalidität zu mindestens zwei Dritteln arbeitsunfähig sind, Anspruch auf 20 % der Pension des Verstorbenen, wenn dieser bereits pensioniert war, und auf 20 % der nach Artikel 11 berechneten Pension, wenn der Verstorbene noch im Amt war.
-
-<sup>4</sup> Die Pension des überlebenden Ehegatten und die Waisenpension dürfen zusammen nicht mehr als 100 % des letzten Gehalts des verstorbenen Staatsrates betragen.
-
-<sup>5</sup> Der Staatsrat entscheidet über den Betrag der Pension, der anderen Anspruchsberechtigten auszuzahlen ist, für deren Unterhalt der verstorbene Staatsrat aufgekommen ist.
+**…**
 
 #### Art. 13
 
-**Beteiligung**
+**…**
 
-<sup>1</sup> Vom Gehalt der Staatsräte werden 4 % als Beteiligung an der Finanzierung ihrer beruflichen Vorsorge abgezogen. Dieser Betrag fällt dem Staat zu.
-
-### 4.2 Oberamtmänner
+### 4.2
 
 #### Art. 14
 
-**Rücktritt oder Nichtwiederwahl vor dem 50. Altersjahr und nach weniger als 10 Amtsjahren**
-
-<sup>1</sup> Zurücktretende oder nicht wieder gewählte Oberamtmänner, die ihre Amtstätigkeit vor dem 50. Altersjahr aufgeben und weniger als 10 volle Amtsjahre geleistet haben, haben Anspruch auf die folgenden Leistungen:
-
-- a) bei weniger als 5 geleisteten Amtsjahren: ein Jahresgehalt als Austrittsleistung und ein Jahresgehalt als Entschädigung;
-- b) ab dem 6. bis zum 10. Amtsjahr: eine Austrittsleistung von 120 % des Jahresgehalts, die für jedes Amtsjahr um 20 % erhöht wird bis zu einem Maximum von 2 Jahresgehältern, sowie ein Jahresgehalt als Entschädigung.
-
-<sup>2</sup> Für die Berechnung der Beträge nach Absatz 1 Bst. a und b gilt jedes angefangene Amtsjahr als volles Jahr.
-
-<sup>3</sup> Die Austrittsleistung muss einer Vorsorgeeinrichtung überwiesen oder in eine andere anerkannte Vorsorgeform eingezahlt werden gemäss den Voraussetzungen der Bundesgesetzgebung über die berufliche Vorsorge.
-
-<sup>4</sup> Die Entschädigung wird in Form einer auf zwölf Monate aufgeteilten Rente ausbezahlt. Sie wird mit dem Erwerbseinkommen koordiniert. Die Koordination besteht in einer Leistungskürzung, wenn die Entschädigung zusammen mit dem neuen Erwerbseinkommen einen Betrag ergibt, der über dem entsprechenden Jahresgehalt der Oberamtmänner liegt. Der Staatsrat legt die Berechnungsmodalitäten fest.
+**…**
 
 #### Art. 15
 
-**Rücktritt oder Nichtwiederwahl nach dem 50. Altersjahr oder nach 10 vollen Amtsjahren – Grundsatz**
-
-<sup>1</sup> Oberamtmänner, die nach dem 50. Altersjahr zurücktreten oder nicht wieder gewählt werden oder die 10 Amtsjahre geleistet haben, haben Anspruch auf eine lebenslängliche Pension von 6 % des letzten Gehalts pro Jahr für die ersten 5 Amtsjahre. Die Pension wird bis zum 10. Amtsjahr um je 4 % pro Jahr und ab dem 11. Amtsjahr um weitere 2 % pro geleistetes Amtsjahr erhöht, bis zum Maximum von 60 % des letzten Gehalts.
-
-<sup>2</sup> Für die Berechnung der Beträge nach Absatz 1 gilt jedes angefangene Amtsjahr als volles Jahr.
-
-<sup>3</sup> Die von dieser Bestimmung betroffenen Oberamtmänner können sich statt einer lebenslänglichen Pension für die in Artikel 14 vorgesehenen Leistungen entscheiden.
+**…**
 
 #### Art. 16
 
-**Rücktritt oder Nichtwiederwahl nach dem 50. Altersjahr oder nach 10 vollen Amtsjahren – Koordination**
-
-<sup>1</sup> Die Pension wird mit dem Einkommen aus Erwerbstätigkeit, aus einer Alters-, Invaliden- oder Hinterbliebenenrente einer Vorsorgeeinrichtung oder einer öffentlichen Körperschaft, aus einer AHV-Rente, einer IV-Rente oder einer anderen Sozialversicherung koordiniert; die Renteneinkünfte aus der 3. Säule werden nicht berücksichtigt.
-
-<sup>2</sup> Die Koordination besteht in einer entsprechenden Kürzung der Pension, wenn diese zusammen mit einer Einkommensquelle nach Absatz 1 mehr als 100 % des zuletzt als Oberamtmann bezogenen indexierten Gehalts beträgt. Ab dem AHV-Alter wird die Pension bis zu höchstens 50 % gekürzt.
-
-<sup>3</sup> Wurden anstelle der lebenslänglichen Pension die Leistungen nach Artikel 14 gewählt, so werden diese entsprechend den Absätzen 1 und 2 koordiniert.
+**…**
 
 #### Art. 17
 
-**Invalidität**
-
-<sup>1</sup> Bei Invalidität, die die Aufgabe der Amtstätigkeit zur Folge hat, haben die Oberamtmänner Anspruch auf eine Pension von 60 % des letzten Gehalts.
-
-<sup>2</sup> Die Invalidität wird von einer vom Staatsrat bezeichneten Behörde aufgrund eines ärztlichen Berichts, des der eidgenössischen IV unterbreiteten Dossiers und gegebenenfalls des Entscheids der IV festgestellt. Die Invaliditätsfälle, die nicht endgültig als solche eingestuft worden sind, werden periodisch der vom Staatsrat bezeichneten Behörde zur Überprüfung vorgelegt.
-
-<sup>3</sup> Die Invalidenpension wird mit der IV- oder AHV-Rente, einer Alters-, Invaliden- oder Hinterbliebenenrente einer Vorsorgeeinrichtung und mit dem Einkommen aus einer Erwerbstätigkeit koordiniert.
-
-<sup>4</sup> Die Koordination besteht in einer entsprechenden Kürzung der Pension, wenn diese zusammen mit einer Einkommensquelle nach Absatz 3 mehr als 100 % des zuletzt als Oberamtmann bezogenen indexierten Gehalts beträgt. Ab dem AHV-Alter wird die Pension bis zu höchstens 50 % gekürzt.
+**…**
 
 #### Art. 18
 
-**Todesfall**
-
-<sup>1</sup> Im Todesfall eines Oberamtmanns hat der überlebende Ehegatte Anspruch auf 60 % der Pension des Verstorbenen, wenn dieser bereits pensioniert war, und auf 60 % der nach Artikel 17 berechneten Pension, wenn der Verstorbene noch im Amt war. Bei Wiederverheiratung hat der überlebende Ehegatte alles in allem Anspruch auf eine einmalige Entschädigung in Höhe des dreifachen Betrags der Jahrespension, auf die er bei der Wiederverheiratung Anspruch hatte.
-
-<sup>2</sup> Der geschiedene oder in Trennung lebende überlebende Ehegatte wird dem überlebenden Ehegatten gleichgestellt, unter der Voraussetzung, dass die Ehe mindestens 10 Jahre gedauert hat und er gemäss Scheidungs- oder Trennungsurteil Anspruch auf eine Rente oder Kapitalabfindung an Stelle einer Rente hatte. Die Pension wird jedoch entsprechend gekürzt, wenn sie zusammen mit den Todesfall-Leistungen der IV und AHV zugunsten des geschiedenen oder in Trennung lebenden Ehegatten den im Scheidungs- oder Trennungsurteil festgesetzten Betrag übersteigt.
-
-<sup>3</sup> Kinder oder Pflegekinder haben bis zum vollendeten 18. Altersjahr oder bis zum vollendeten 25. Altersjahr, wenn sie in der Lehre oder im Studium sind oder wegen Invalidität zu mindestens zwei Dritteln arbeitsunfähig sind, Anspruch auf 20 % der Pension des Verstorbenen, wenn dieser bereits pensioniert war, und auf 20 % der nach Artikel 17 berechneten Pension, wenn der Verstorbene noch im Amt war.
-
-<sup>4</sup> Die Pension des überlebenden Ehegatten und die Waisenpension dürfen zusammen nicht mehr als 100 % des letzten Gehalts des verstorbenen Oberamtmanns betragen.
-
-<sup>5</sup> Der Staatsrat entscheidet über den Betrag der Pension, der anderen Anspruchsberechtigten auszuzahlen ist, für deren Unterhalt der verstorbene Oberamtmann aufgekommen ist.
+**…**
 
 #### Art. 19
 
-**Beteiligung**
+**…**
 
-<sup>1</sup> Vom Gehalt der Oberamtmänner werden 4 % als Beteiligung an der Finanzierung ihrer beruflichen Vorsorge abgezogen. Dieser Betrag fällt dem Staat zu.
-
-### 4.3 Gemeinsame Bestimmungen für Staatsräte und Oberamtmänner
+### 4.3
 
 #### Art. 20
 
-**Kumulierte Pensionsansprüche**
-
-<sup>1</sup> Kumulierte Pensionsansprüche als ehemaliger Staatsrat und ehemaliger Oberamtmann dürfen 60 % des letzten Gehalts nicht übersteigen.
+**…**
 
 #### Art. 21
 
-**Teuerungsanpassung**
-
-<sup>1</sup> Die Pensionen werden nach den sinngemäss geltenden Bestimmungen des Gesetzes über die Pensionskasse des Staatspersonals dem Landesindex der Konsumentenpreise angepasst.
+**…**
 
 #### Art. 22
 
-**Verwaltung**
+**…**
 
-<sup>1</sup> Die Pensionen werden vom Amt für Personal und Organisation verwaltet und ausbezahlt.
+### 4.3a Staatsräte und Oberamtmänner
+
+#### Art. 22a
+
+**Versicherung**
+
+<sup>1</sup> Die Staatsräte und Oberamtmänner sind bei der Pensionskasse des Staatspersonals versichert.
+
+#### Art. 22b
+
+**Abgangsentschädigung**
+
+<sup>1</sup> Zurücktretende oder nicht wiedergewählte Staatsräte und Oberamtmänner, die nicht in den Genuss einer Übergangsleistung gemäss Artikel 22c kommen, haben Anspruch auf ein Jahresgehalt als Abgangsentschädigung.
+
+<sup>2</sup> Die Entschädigung wird in Form einer auf zwölf Monate aufgeteilten Rente ausbezahlt, auf der Sozialversicherungsbeiträge erhoben werden.
+
+<sup>3</sup> Für die Koordination gilt Artikel 22d.
+
+<sup>4</sup> Personen, die eine Abgangsentschädigung erhalten, bleiben bei der Pensionskasse des Staatspersonals versichert. Die Pensionskasse zahlt ihnen am Ende ihres Anschlusses die Leistungen aus, die in Anwendung der Gesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge geschuldet werden.
+
+#### Art. 22c
+
+**Übergangsleistung – Grundsatz**
+
+<sup>1</sup> Staatsräte und Oberamtmänner, die nach dem 55. Altersjahr zurücktreten oder nicht wiedergewählt werden und die 5 Amtsjahre oder mehr geleistet haben, haben bis zum Erreichen des AHV-Alters Anspruch auf eine Übergangsleistung. Diese Leistung beträgt 6 % des letzten Gehalts pro Jahr für das erste Amtsjahr und erhöht sich bis und mit dem 5. Amtsjahr um denselben Prozentsatz; vom 6. bis zum 10. Amtsjahr wird sie um je 4 % pro Jahr und ab dem 11. Amtsjahr um weitere 2 % pro geleistetes Amtsjahr erhöht, bis zum Maximum von 60 % des letzten Gehalts.
+
+<sup>2</sup> Jedes angefangene Amtsjahr gilt als volles Jahr.
+
+<sup>3</sup> Die Übergangsleistung gilt als Gehalt. Dementsprechend werden Sozialversicherungsbeiträge darauf erhoben.
+
+<sup>4</sup> Bei Invalidität werden die Leistungen der Invalidenversicherung (Rente und Taggelder), anderer Sozialversicherungen oder einer Einrichtung der beruflichen Vorsorge vom Betrag der Übergangsleistung abgezogen.
+
+<sup>5</sup> Die von dieser Bestimmung betroffenen Staatsräte und Oberamtmänner können sich statt einer Übergangsleistung für die Entschädigung nach Artikel 22b entscheiden.
+
+#### Art. 22d
+
+**Übergangsleistung – Koordination**
+
+<sup>1</sup> Die Übergangsleistung wird koordiniert mit dem Einkommen aus Erwerbstätigkeit, einschliesslich der Entschädigungen als Behördenmitglied, aus einer Alters-, Invaliden- oder Hinterlassenenrente einer Vorsorgeeinrichtung oder einer öffentlichen Körperschaft, aus einer AHV-Rente, aus einer IV-Rente oder aus einer Rente aus einer anderen Sozialversicherung; von der Koordination ausgenommen sind Renteneinkünfte aus der 3. Säule.
+
+<sup>2</sup> Die Koordination besteht in einer entsprechenden Kürzung der Übergangsleistung, wenn diese zusammen mit einer der Einkommensquellen nach Absatz 1 mehr als 100 % des zuletzt als Staatsrat oder Oberamtmann bezogenen indexierten Gehalts beträgt.
+
+#### Art. 22e
+
+**Übergangsleistung – Weiterführung des Versicherungsschutzes**
+
+<sup>1</sup> Staatsräte und Oberamtmänner, die sich für die Übergangsleistung nach Artikel 22c entscheiden, bleiben bei der Pensionskasse des Staatspersonals versichert.
+
+<sup>2</sup> Die Beiträge für diesen Anschluss berechnen sich auf der Grundlage des Übergangsleistungsbetrags, nach Abzug des in Anwendung des Pensionskassenreglements festgelegten Koordinationsbetrags. Sie werden vom jeweiligen Staatsrat oder Oberamtmann und vom Staat übernommen, entsprechend den Bestimmungen über die Festsetzung des Arbeitgeber- und des Arbeitnehmeranteils an der Beitragszahlung im Gesetz über die Pensionskasse des Staatspersonals, die sinngemäss gelten.
+
+<sup>3</sup> Bei Eintreten eines Vorsorgefalls werden die Versicherungsleistungen in Anwendung der von dieser Einrichtung erlassenen Bestimmungen ausgezahlt.
+
+#### Art. 22f
+
+**Übergangsleistung – Erlöschen des Anspruchs**
+
+<sup>1</sup> Reduziert sich die Übergangsleistung aufgrund der Koordination während zwei aufeinanderfolgenden Jahren vollständig, so erlischt der Anspruch auf diese Leistung, und der Anschluss bei der Pensionskasse des Staatspersonals endet.
+
+#### Art. 22g
+
+**Kumulierung der Leistungen**
+
+<sup>1</sup> Die kumulierte Übergangsleistung als ehemaliger Staatsrat und ehemaliger Oberamtmann darf 60 % des letzten Gehalts nicht übersteigen.
+
+#### Art. 22h
+
+**Teuerungsanpassung**
+
+<sup>1</sup> Die Übergangsleistungen werden nach den sinngemäss geltenden Bestimmungen des Gesetzes über die Pensionskasse des Staatspersonals dem Landesindex der Konsumentenpreise angepasst.
+
+#### Art. 22i
+
+**Verwaltung und Auskunftspflicht**
+
+<sup>1</sup> Die Verwaltung und Auszahlung der Übergangsleistungen sowie die Zahlung des Beitragsanteils des Staates für die Staatsräte und Oberamtmänner an die Pensionskasse des Staatspersonals sind Aufgabe des für das Personalmanagement zuständigen Amts[^22i-1].
+
+<sup>2</sup> Die Anspruchsberechtigten der Leistung, die in Anwendung dieses Gesetzes gewährt werden, müssen dem für das Personalmanagement zuständigen Amt die erforderlichen Auskünfte erteilen und alle verlangten Belege einreichen, andernfalls erlischt der Leistungsanspruch.
+
+<sup>3</sup> Das für die direkten Steuern zuständige Amt[^22i-2] gibt dem für das Personalmanagement zuständigen Amt auf Anfrage die Daten zum Einkommen der Anspruchsberechtigten bekannt; dabei müssen die Datenschutzvorschriften eingehalten werden.
+
+[^22i-1]: Heute: Amt für Personal und Organisation.
+[^22i-2]: Heute: Kantonale Steuerverwaltung.
 
 ### 4.4 Kantonsrichter
 
@@ -321,6 +311,18 @@ beschliesst:
 #### Art. 28a
 
 **… (gegenstandslos gewordenes Übergangsrecht)**
+
+#### Art. 28b
+
+**Übergangsrecht zur Änderung vom 23. März 2021 – Grundsatz**
+
+<sup>1</sup> Die Staatsräte und Oberamtmänner, die vor der Rekonstituierung des Staatsrats nach den Gesamterneuerungswahlen 2021 bereits pensioniert oder im Amt waren, unterstehen den Bestimmungen, die vor dem Inkrafttreten der Änderung vom 23. März 2021 dieses Gesetzes gelten. Die Artikel 26 und 27 bleiben vorbehalten.
+
+#### Art. 28c
+
+**Übergangsrecht zur Änderung vom 23. März 2021 – Verwaltung und Meldepflicht**
+
+<sup>1</sup> Artikel 22i Abs. 2 und 3, so wie er mit Gesetz vom 23. März 2021 geändert wurde, gilt für alle Personen, die in Anwendung dieses Gesetzes einen Leistungsanspruch haben.
 
 #### Art. 29
 

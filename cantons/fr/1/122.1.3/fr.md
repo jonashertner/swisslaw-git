@@ -4,13 +4,12 @@ number: "122.1.3"
 title: "Loi relative au traitement et à la prévoyance professionnelle des conseillers d'Etat, des préfets et des juges cantonaux"
 short: LTCE
 language: fr
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2016-10-04
+version: 2022-01-01
+version_adopted: 2021-03-23
 adopted: 2004-06-15
 in_force: 2004-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.1.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6395/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6965/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Conseillers d'Etat, traitement et prévoyance professionnelle – L
 
 (LTCE)
 
-du 15.06.2004 (version entrée en vigueur le 01.01.2017)
+du 15.06.2004 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -53,7 +52,7 @@ Décrète:
 
 **Conseillers**
 
-<sup>1</sup> Le traitement de fonction (ci-après: traitement) des conseillers correspond à 118 % du traitement maximal de l'échelle générale des traitements, majoré du treizième salaire.
+<sup>1</sup> Le traitement de fonction (ci-après: traitement) des conseillers correspond à 130 % du traitement maximal de l'échelle générale des traitements, majoré du treizième salaire.
 
 <sup>2</sup> Le président du Conseil d'Etat reçoit un supplément annuel de 5000 francs.
 
@@ -63,7 +62,7 @@ Décrète:
 
 **Préfets**
 
-<sup>1</sup> Le traitement des préfets correspond au montant fixé dans la classe 4, palier 6, de l'échelle spéciale des traitements du personnel de l'Etat, majoré du treizième salaire.
+<sup>1</sup> Le traitement des préfets correspond au montant fixé dans la classe 4, palier 12, de l'échelle spéciale des traitements du personnel de l'Etat, majoré du treizième salaire.
 
 <sup>2</sup> Le Conseil d'Etat fixe périodiquement les indemnités de représentation et de déplacement dues forfaitairement aux préfets.
 
@@ -103,163 +102,154 @@ Décrète:
 
 ## 4 Prévoyance professionnelle
 
-### 4.1 Conseillers
+### 4.1
 
 #### Art. 8
 
-**Démission ou non-réélection avant l'âge de 50 ans et avant l'accomplissement de dix années de fonction**
-
-<sup>1</sup> Les conseillers démissionnaires ou non réélus ont droit, lorsque la cessation d'activité survient avant l'âge de 50 ans et qu'ils comptent moins de dix années complètes de fonction, aux prestations suivantes:
-
-- a) un montant égal à une année de traitement au titre de prestation analogue à une prestation de sortie et une année de traitement au titre d'indemnité lorsqu'ils ont accompli moins de cinq années de fonction;
-- b) dès la sixième et jusqu'à la dixième année de fonction, un montant égal à 120 % du traitement annuel, augmentant pour chaque année de fonction de 20 % jusqu'au maximum de deux traitements annuels au titre de prestation analogue à une prestation de sortie et une année de traitement au titre d'indemnité.
-
-<sup>2</sup> Pour le calcul des montants prévus à l'alinéa 1 let. a et b, toute année de fonction commencée compte comme année entière.
-
-<sup>3</sup> La prestation due au titre de prestation de sortie doit être transférée dans une institution de prévoyance ou affectée à une autre forme reconnue de prévoyance, aux conditions prévues par la législation fédérale relative à la prévoyance professionnelle.
-
-<sup>4</sup> La prestation due au titre d'indemnité est versée sous forme de rente mensuelle répartie sur douze mois. Elle est coordonnée avec le revenu d'une activité lucrative. La coordination consiste en une réduction de la prestation lorsque, ajoutée au revenu de la nouvelle activité lucrative, elle dépasse le montant d'un traitement annuel de conseiller. Le Conseil d'Etat fixe les règles de calcul.
+**…**
 
 #### Art. 9
 
-**Démission ou non-réélection après l'âge de 50 ans ou après l'accomplissement de dix années complètes de fonction – Principe**
-
-<sup>1</sup> Les conseillers démissionnaires ou non réélus après l'âge de 50 ans ou qui ont accompli dix années de fonction ont droit à une pension viagère de 6 % du dernier traitement par année durant les cinq premières années de fonction. Cette pension augmente de 4 % par année jusqu'à la dixième année de fonction, puis de 2 % par année de fonction révolue dès la onzième année de fonction, jusqu'au maximum de 60 % du dernier traitement.
-
-<sup>2</sup> Pour le calcul des montants prévus à l'alinéa 1, toute année de fonction commencée compte comme année entière.
-
-<sup>3</sup> En lieu et place de la pension viagère, les conseillers visés par cette disposition peuvent opter pour les prestations prévues à l'article 8.
+**…**
 
 #### Art. 10
 
-**Démission ou non-réélection après l'âge de 50 ans ou après l'accomplissement de dix années complètes de fonction – Coordination**
-
-<sup>1</sup> La pension est coordonnée avec le revenu d'une activité lucrative, d'une rente de retraite, d'invalidité ou de conjoint survivant d'une institution de prévoyance ou d'une collectivité publique, d'une rente AVS, d'une rente AI ou d'une autre assurance sociale, à l'exclusion de toute rente provenant de la constitution d'un troisième pilier.
-
-<sup>2</sup> La coordination consiste en une réduction correspondante de la pension lorsque, ajoutée au revenu provenant d'une des sources énumérées à l'alinéa 1, elle dépasse 100 % du dernier traitement indexé du conseiller. Dès l'âge donnant droit à l'AVS, la pension est réduite jusqu'à 50 % au maximum.
-
-<sup>3</sup> Lorsque la pension viagère a été remplacée par les prestations visées à l'article 8, celles-ci sont coordonnées conformément aux alinéas 1 et 2 ci-dessus.
+**…**
 
 #### Art. 11
 
-**Invalidité**
-
-<sup>1</sup> En cas d'invalidité entraînant une cessation d'activité, les conseillers ont droit à une pension égale à 60 % du dernier traitement.
-
-<sup>2</sup> L'invalidité est déterminée par une autorité désignée par le Conseil d'Etat, sur la base d'un rapport médical, du dossier soumis à l'AI fédérale et, le cas échéant, de la décision de celle-ci. L'invalidité qui n'est pas déclarée comme définitive est soumise périodiquement à révision auprès de l'autorité désignée par le Conseil d'Etat.
-
-<sup>3</sup> La pension d'invalidité est coordonnée avec la rente AI ou AVS, une rente de retraite, d'invalidité ou de conjoint survivant d'une institution de prévoyance ou encore avec le revenu d'une activité lucrative.
-
-<sup>4</sup> La coordination consiste en une réduction correspondante de la pension lorsque, ajoutée au revenu provenant d'une des sources énumérées à l'alinéa 3, elle dépasse 100 % du dernier traitement indexé du conseiller. Dès l'âge donnant droit à l'AVS, la pension est réduite jusqu'à 50 % au maximum.
+**…**
 
 #### Art. 12
 
-**Décès**
-
-<sup>1</sup> En cas de décès d'un conseiller, le conjoint survivant a droit à 60 % de la pension du défunt si celui-ci était déjà pensionné et de la pension calculée selon l'article 11 s'il était encore en charge. En cas de remariage, le conjoint survivant a droit, pour solde de tout compte, à une indemnité unique égale au triple de la pension annuelle dont il bénéficiait lors du remariage.
-
-<sup>2</sup> Le conjoint survivant divorcé ou séparé est assimilé au conjoint survivant à la condition que le mariage ait duré dix ans au moins et qu'il ait bénéficié, en vertu du jugement de divorce ou de séparation, d'une rente ou d'une indemnité en capital en lieu et place d'une rente. Toutefois, le montant de la pension est réduit en conséquence si, ajouté aux prestations de l'AI et de l'AVS en faveur du conjoint divorcé ou séparé et découlant de la mort du conseiller, il dépasse le montant fixé par le jugement de divorce ou de séparation.
-
-<sup>3</sup> L'orphelin ou l'enfant recueilli âgé de moins de 18 ans révolus ou de moins de 25 ans révolus s'il fait un apprentissage ou des études ou si, en raison d'une invalidité de deux tiers au moins, il est incapable de travailler, a droit à 20 % de la pension du défunt si celui-ci était déjà pensionné et de la pension calculée selon l'article 11 s'il était encore en charge.
-
-<sup>4</sup> La pension de conjoint survivant et celle d'orphelin ne peuvent ensemble dépasser le montant de 100 % du dernier traitement du conseiller.
-
-<sup>5</sup> Le Conseil d'Etat décide du montant de la pension à verser à d'autres ayants droit à charge du conseiller.
+**…**
 
 #### Art. 13
 
-**Participation**
+**…**
 
-<sup>1</sup> Il est prélevé 4 % du traitement des conseillers au titre de participation au financement de leur prévoyance professionnelle. Ce prélèvement reste acquis à l'Etat.
-
-### 4.2 Préfets
+### 4.2
 
 #### Art. 14
 
-**Démission ou non-réélection avant l'âge de 50 ans et avant l'accomplissement de dix années de fonction**
-
-<sup>1</sup> Les préfets démissionnaires ou non réélus ont droit, lorsque la cessation d'activité survient avant l'âge de 50 ans et qu'ils comptent moins de dix années complètes de fonction, aux prestations suivantes:
-
-- a) un montant égal à une année de traitement au titre de prestation analogue à une prestation de sortie et une année de traitement au titre d'indemnité lorsqu'ils ont accompli moins de cinq années de fonction;
-- b) dès la sixième et jusqu'à la dixième année de fonction, un montant égal à 120 % du traitement annuel, augmentant pour chaque année de fonction de 20 % jusqu'au maximum de deux traitements annuels au titre de prestation analogue à une prestation de sortie et une année de traitement au titre d'indemnité.
-
-<sup>2</sup> Pour le calcul des montants prévus à l'alinéa 1 let. a et b, toute année de fonction commencée compte comme année entière.
-
-<sup>3</sup> La prestation due au titre de prestation de sortie doit être transférée dans une institution de prévoyance ou affectée à une autre forme reconnue de prévoyance, aux conditions prévues par la législation fédérale relative à la prévoyance professionnelle.
-
-<sup>4</sup> La prestation due au titre d'indemnité est versée sous forme de rente mensuelle répartie sur douze mois. Elle est coordonnée avec le revenu d'une activité lucrative. La coordination consiste en une réduction de la prestation lorsque, ajoutée au revenu de la nouvelle activité lucrative, elle dépasse le montant d'un traitement annuel de préfet. Le Conseil d'Etat fixe les règles de calcul.
+**…**
 
 #### Art. 15
 
-**Démission ou non-réélection après l'âge de 50 ans ou après l'accomplissement de dix années complètes de fonction – Principe**
-
-<sup>1</sup> Les préfets démissionnaires ou non réélus après l'âge de 50 ans ou qui ont accompli dix années de fonction ont droit à une pension viagère de 6 % du dernier traitement par année durant les cinq premières années de fonction. Cette pension augmente de 4 % par année jusqu'à la dixième année de fonction, puis de 2 % par année de fonction révolue dès la onzième année de fonction, jusqu'au maximum de 60 % du dernier traitement.
-
-<sup>2</sup> Pour le calcul des montants prévus à l'alinéa 1, toute année de fonction commencée compte comme année entière.
-
-<sup>3</sup> En lieu et place de la pension viagère, les préfets visés par cette disposition peuvent opter pour les prestations prévues à l'article 14.
+**…**
 
 #### Art. 16
 
-**Démission ou non-réélection après l'âge de 50 ans ou après l'accomplissement de dix années complètes de fonction – Coordination**
-
-<sup>1</sup> La pension est coordonnée avec le revenu d'une activité lucrative, d'une rente de retraite, d'invalidité ou de conjoint survivant d'une institution de prévoyance ou d'une collectivité publique, d'une rente AVS, d'une rente AI ou d'une autre assurance sociale, à l'exclusion de toute rente provenant de la constitution d'un troisième pilier.
-
-<sup>2</sup> La coordination consiste en une réduction correspondante de la pension lorsque, ajoutée au revenu provenant d'une des sources énumérées à l'alinéa 1, elle dépasse 100 % du dernier traitement indexé du préfet. Dès l'âge donnant droit à l'AVS, la pension est réduite jusqu'à 50 % au maximum.
-
-<sup>3</sup> Lorsque la pension viagère a été remplacée par les prestations visées à l'article 14, celles-ci sont coordonnées conformément aux alinéas 1 et 2 ci-dessus.
+**…**
 
 #### Art. 17
 
-**Invalidité**
-
-<sup>1</sup> En cas d'invalidité entraînant une cessation d'activité, les préfets ont droit à une pension égale à 60 % du dernier traitement.
-
-<sup>2</sup> L'invalidité est déterminée par une autorité désignée par le Conseil d'Etat, sur la base d'un rapport médical, du dossier soumis à l'AI fédérale et, le cas échéant, de la décision de celle-ci. L'invalidité qui n'est pas déclarée comme définitive est soumise périodiquement à révision auprès de l'autorité désignée par le Conseil d'Etat.
-
-<sup>3</sup> La pension d'invalidité est coordonnée avec la rente AI ou AVS, une rente de retraite, d'invalidité ou de conjoint survivant d'une institution de prévoyance ou encore avec le revenu d'une activité lucrative.
-
-<sup>4</sup> La coordination consiste en une réduction correspondante de la pension lorsque, ajoutée au revenu provenant d'une des sources énumérées à l'alinéa 3, elle dépasse 100 % du dernier traitement indexé du préfet. Dès l'âge donnant droit à l'AVS, la pension est réduite jusqu'à 50 % au maximum.
+**…**
 
 #### Art. 18
 
-**Décès**
-
-<sup>1</sup> En cas de décès d'un préfet, le conjoint survivant a droit à 60 % de la pension du défunt si celui-ci était déjà pensionné et de la pension calculée selon l'article 17 s'il était encore en charge. En cas de remariage, le conjoint survivant a droit, pour solde de tout compte, à une indemnité unique égale au triple de la pension annuelle dont il bénéficiait lors du remariage.
-
-<sup>2</sup> Le conjoint survivant divorcé ou séparé est assimilé au conjoint survivant à la condition que le mariage ait duré dix ans au moins et qu'il ait bénéficié, en vertu du jugement de divorce ou de séparation, d'une rente ou d'une indemnité en capital en lieu et place d'une rente. Toutefois, le montant de la pension est réduit en conséquence si, ajouté aux prestations de l'AI et de l'AVS en faveur du conjoint divorcé ou séparé et découlant de la mort du préfet, il dépasse le montant fixé par le jugement de divorce ou de séparation.
-
-<sup>3</sup> L'orphelin ou l'enfant recueilli âgé de moins de 18 ans révolus ou de moins de 25 ans révolus s'il fait un apprentissage ou des études ou si, en raison d'une invalidité de deux tiers au moins, il est incapable de travailler, a droit à 20 % de la pension du défunt si celui-ci était déjà pensionné et de la pension calculée selon l'article 17 s'il était encore en charge.
-
-<sup>4</sup> La pension de conjoint survivant et celle d'orphelin ne peuvent ensemble dépasser le montant de 100 % du dernier traitement du préfet.
-
-<sup>5</sup> Le Conseil d'Etat décide du montant de la pension à verser à d'autres ayants droit à charge du préfet.
+**…**
 
 #### Art. 19
 
-**Participation**
+**…**
 
-<sup>1</sup> Il est prélevé 4 % du traitement des préfets au titre de participation au financement de leur prévoyance professionnelle. Ce prélèvement reste acquis à l'Etat.
-
-### 4.3 Dispositions communes aux conseillers et aux préfets
+### 4.3
 
 #### Art. 20
 
-**Cumul des pensions**
-
-<sup>1</sup> La pension cumulée d'ancien conseiller et d'ancien préfet ne peut dépasser 60 % du dernier traitement.
+**…**
 
 #### Art. 21
 
-**Indexation**
-
-<sup>1</sup> Les pensions sont indexées au coût de la vie conformément aux dispositions de la loi sur la Caisse de prévoyance du personnel de l'Etat, applicables par analogie.
+**…**
 
 #### Art. 22
 
-**Gestion**
+**…**
 
-<sup>1</sup> La gestion et le versement des pensions sont confiés au Service du personnel et d'organisation.
+### 4.3a Conseillers et préfets
+
+#### Art. 22a
+
+**Assurance**
+
+<sup>1</sup> Les conseillers et les préfets sont assurés auprès de la Caisse de prévoyance du personnel de l'Etat.
+
+#### Art. 22b
+
+**Indemnité de départ**
+
+<sup>1</sup> Les conseillers et les préfets démissionnaires ou non réélus ont droit à une année de traitement au titre d'indemnité de départ lorsqu'ils ne bénéficient pas de la prestation transitoire de l'article 22c.
+
+<sup>2</sup> L'indemnité est versée sous forme de rente mensuelle répartie sur douze mois et est soumise au prélèvement des cotisations aux assurances sociales.
+
+<sup>3</sup> L'article 22d est applicable à la coordination.
+
+<sup>4</sup> Les personnes bénéficiaires d'une indemnité de départ demeurent assurées auprès de la Caisse de prévoyance du personnel de l'Etat. Celle-ci leur verse la prestation qui leur est due en application de la législation sur la prévoyance professionnelle vieillesse, survivants et invalidité au terme de leur affiliation.
+
+#### Art. 22c
+
+**Prestation transitoire – Principe**
+
+<sup>1</sup> Les conseillers et les préfets démissionnaires ou non réélus après l'âge de 55 ans et qui ont accompli cinq années de fonction ou plus ont droit, jusqu'à ce qu'ils aient atteint l'âge donnant droit à une rente AVS, à une prestation transitoire annuelle. Cette prestation se monte à 6 % du dernier traitement pour la première année de fonction accomplie et augmente d'autant, chaque année, jusqu'à la cinquième année; elle augmente de 4 % par année de la sixième à la dixième année de fonction accomplie, puis de 2 % par année pour chaque année de fonction révolue dès la onzième année de fonction, jusqu'au maximum de 60 % du dernier traitement.
+
+<sup>2</sup> Toute année de fonction commencée compte comme année entière.
+
+<sup>3</sup> La prestation transitoire est considérée comme un salaire. Elle est à ce titre soumise au prélèvement des cotisations aux assurances sociales.
+
+<sup>4</sup> En cas d'invalidité, les prestations accordées par l'assurance-invalidité (rente et indemnités journalières) ou d'autres assurances sociales ou par une institution de prévoyance professionnelle sont déduites du montant de la prestation transitoire.
+
+<sup>5</sup> En lieu et place de la prestation transitoire, les conseillers et les préfets visés par cette disposition peuvent opter pour l'indemnité prévue à l'article 22b.
+
+#### Art. 22d
+
+**Prestation transitoire – Coordination**
+
+<sup>1</sup> La prestation transitoire est coordonnée avec le revenu d'une activité lucrative, y compris les indemnités touchées au titre de membre d'une autorité, ou d'une rente de retraite, d'invalidité ou de conjoint survivant provenant d'une institution de prévoyance ou d'une collectivité publique, d'une rente AVS, d'une rente AI ou d'une rente provenant d'une autre assurance sociale, à l'exclusion de toute rente provenant de la constitution d'un troisième pilier.
+
+<sup>2</sup> La coordination consiste en une réduction correspondante de la prestation transitoire lorsque, ajoutée au revenu provenant d'une des sources énumérées à l'alinéa 1, elle dépasse 100 % du dernier traitement indexé du conseiller ou du préfet.
+
+#### Art. 22e
+
+**Prestation transitoire – Maintien de la couverture d'assurance**
+
+<sup>1</sup> Les conseillers et les préfets qui optent pour la prestation transitoire prévue à l'article 22c demeurent assurés auprès de la Caisse de prévoyance du personnel de l'Etat.
+
+<sup>2</sup> Les cotisations afférentes à cette affiliation sont calculées sur la base du montant de la prestation transitoire, après déduction du montant de coordination fixé en application de la réglementation de la Caisse de prévoyance du personnel de l'Etat. Elles sont prises en charge par chaque conseiller ou chaque préfet concerné et par l'Etat, conformément aux dispositions de la loi sur la Caisse de prévoyance du personnel de l'Etat fixant la participation de l'employeur et des employés à la prise en charge des cotisations, applicables par analogie.
+
+<sup>3</sup> En cas de survenance d'un cas de prévoyance, les prestations d'assurance sont versées en application des dispositions adoptées par cette institution.
+
+#### Art. 22f
+
+**Prestation transitoire – Extinction du droit**
+
+<sup>1</sup> Lorsque, en raison de la coordination, la prestation transitoire est complètement réduite pendant deux années consécutives, le droit à ladite prestation s'éteint, et l'affiliation auprès de la Caisse de prévoyance du personnel de l'Etat prend fin.
+
+#### Art. 22g
+
+**Cumul des prestations**
+
+<sup>1</sup> La prestation transitoire cumulée d'ancien conseiller et d'ancien préfet ne peut dépasser 60 % du dernier traitement.
+
+#### Art. 22h
+
+**Indexation**
+
+<sup>1</sup> Les prestations transitoires sont indexées au coût de la vie conformément aux dispositions de la loi sur la Caisse de prévoyance du personnel de l'Etat, applicables par analogie.
+
+#### Art. 22i
+
+**Gestion et obligation de renseigner**
+
+<sup>1</sup> La gestion et le versement des prestations transitoires, ainsi que le versement de la part des cotisations à la Caisse de prévoyance du personnel de l'Etat en faveur des conseillers et des préfets, sont confiés au service chargé des ressources humaines[^22i-1].
+
+<sup>2</sup> Les bénéficiaires des prestations accordées en application de la présente loi doivent fournir au service chargé des ressources humaines les renseignements et pièces justificatives requis. A défaut, le droit aux prestations s'éteint.
+
+<sup>3</sup> Le service chargé des impôts directs[^22i-2] communique au service chargé des ressources humaines, sur demande, les données relatives aux revenus des bénéficiaires, dans le respect des règles découlant de la protection des données.
+
+[^22i-1]: Actuellement: Service du personnel et d'organisation.
+[^22i-2]: Actuellement: Service cantonal des contributions.
 
 ### 4.4 Juges
 
@@ -321,6 +311,18 @@ Décrète:
 #### Art. 28a
 
 **… (droit transitoire devenu sans objet)**
+
+#### Art. 28b
+
+**Droit transitoire relatif à la modification du 23 mars 2021 – Principe**
+
+<sup>1</sup> Les conseillers et les préfets déjà pensionnés ou qui étaient en fonction avant la reconstitution du Conseil d'Etat faisant suite aux élections générales de 2021 demeurent soumis aux dispositions applicables avant l'entrée en vigueur de la modification du 23 mars 2021 de la présente loi. Les articles 26 et 27 sont réservés.
+
+#### Art. 28c
+
+**Droit transitoire relatif à la modification du 23 mars 2021 – Gestion et obligation de renseigner**
+
+<sup>1</sup> L'article 22i al. 2 et 3, tel qu'il a été modifié par la loi du 23 mars 2021, est applicable à l'ensemble des personnes bénéficiaires de prestations accordées en application de la présente loi.
 
 #### Art. 29
 
