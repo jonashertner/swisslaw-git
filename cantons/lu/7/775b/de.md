@@ -3,20 +3,20 @@ canton: LU
 number: 775b
 title: Reglement für den Verkehrsverbund Luzern
 language: de
-version: 2010-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-01-08
+version: 2022-01-01
+valid_until: 2022-05-31
+version_adopted: 2022-02-04
 adopted: 2010-01-08
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/775b"
-pdf: "https://srl.lu.ch/api/de/versions/2500/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3897/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für den Verkehrsverbund Luzern
 
-vom 08.01.2010 (Stand 01.01.2010)
+vom 08.01.2010 (Stand 01.01.2022)
 
 Der Verbundrat des Verkehrsverbundes Luzern,
 
@@ -77,6 +77,7 @@ beschliesst:
 - 6\. schliesst mit dem Kanton die Leistungsvereinbarung ab,
 - 7\. verabschiedet zuhanden des Regierungsrates die Entwürfe des Budget- und des öV-Berichtes,
 - 8\. verabschiedet den Jahresbericht und die Jahresrechnung,
+- 8<sup>bis</sup>. legt die Prinzipien für ein dem Unternehmen angepasstes Risikomanagement und internes Kontrollsystem fest,
 - 9\. stellt der Revisionsstelle alle erforderlichen Unterlagen zur Verfügung und erteilt die notwendigen Auskünfte,
 - 10\. ordnet die Linien des öffentlichen Personenverkehrs den Angebotsstufen zu und setzt das Angebot für den öffentlichen Personenverkehr fest,
 - 11\. entscheidet über die von den Gemeinden beantragten ergänzenden betrieblichen und baulichen Massnahmen sowie über die Zusatzkosten dafür,
@@ -106,9 +107,11 @@ beschliesst:
 
 **Entschädigung**
 
-<sup>1</sup> Die jährliche Grundentschädigung der Mitglieder des Verbundrates beträgt 5000 Franken, jene des Präsidenten oder der Präsidentin 12 000 Franken.
+<sup>1</sup> Die jährliche Grundentschädigung der Mitglieder des Verbundrates beträgt 10 000 Franken, jene des Präsidenten oder der Präsidentin 25 000 Franken.
 
-<sup>2</sup> Für jede halbtägige Verbundratssitzung wird zudem ein Sitzungsgeld von 500 Franken, einschliesslich der Entschädigung von Spesen, ausgerichtet.
+<sup>2</sup> Für jede halbtägige Verbundratssitzung wird zudem ein Sitzungsgeld von 700 Franken, einschliesslich der Entschädigung von Spesen, ausgerichtet.
+
+<sup>2<sup>bis</sup></sup> Für weitere Verpflichtungen wie die Vertretung des Verkehrsverbundes in Gremien wird eine Pauschale von 150 Franken pro Stunde, einschliesslich der Entschädigung von Spesen, ausgerichtet.
 
 <sup>3</sup> Es ist Sache des Gemeinwesens, dem ein Mitglied des Verbundrates angehört, die Abgeltung der Tätigkeit im Verbundrat zu regeln.
 
@@ -135,7 +138,7 @@ beschliesst:
 - 5\. ist für die Bewilligung von Ausgaben, die Übernahme von Verpflichtungen, die Vergabe von Arbeiten und Aufträgen im Zusammenhang mit der Betriebsführung des Verkehrsverbundes zuständig, sofern damit der Betrag von 200 000 Franken im Einzelfall und von jährlich 20 000 Franken bei wiederkehrenden Kosten nicht überschritten wird,
 - 6\. bereitet die Entwürfe des Budget- und des öV-Berichtes vor,
 - 7\. erarbeitet den Jahresbericht und die Jahresrechnung,
-- 8\. stellt ein umfassendes Qualitätsmanagement sicher,
+- 8\. stellt ein umfassendes Qualitätsmanagement, ein Risikomanagement und die Anwendung des internen Kontrollsystems sicher,
 - 9\. stellt der Revisionsstelle im Auftrag des Verbundrates alle erforderlichen Unterlagen zur Verfügung und erteilt die notwendigen Auskünfte,
 - 10\. stellt die Zusammenarbeit mit den zuständigen Stellen des Bundes und der Kantone, mit den Gemeinden und mit den Transportunternehmen sicher und sorgt für die erforderliche Koordination unter den Beteiligten,
 - 11\. plant das Angebot für den öffentlichen Personenverkehr und erarbeitet die Grundlagen zur Angebotsfestsetzung und zur Zuordnung der Linien des öffentlichen Personenverkehrs zu den Angebotsstufen durch den Verbundrat,
@@ -146,7 +149,7 @@ beschliesst:
 - 16\. bereitet die für die Durchführung von Tarifverbunden notwendigen Vereinbarungen mit den weiteren Bestellern und den Transportunternehmen vor,
 - 17\. bereitet die weiteren Beschlüsse des Verbundrates im Zusammenhang mit dem Tarifverbund Luzern / Obwalden / Nidwalden vor,
 - 18\. vertritt den Verkehrsverbund im Tarifverbund Luzern / Obwalden / Nidwalden und sorgt für die Umsetzung der Vorgaben des Verbundrates,
-- 19\. sorgt für die Führung der Verbundkasse des Tarifverbundes Luzern / Obwalden / Nidwalden,
+- 19\. …
 - 20\. stellt die Grundlagen für die Infrastrukturplanung bereit,
 - 21\. instruiert die Verfahren im Zusammenhang mit Personenbeförderungsbewilligungen,
 - 22\. errechnet den jährlichen Kostenverteiler für die Gemeindebeiträge, die Höhe dieser Beiträge sowie den jährlichen Investitionskostenbeitrag der Gemeinden,
@@ -239,7 +242,9 @@ beschliesst:
 
 <sup>1</sup> Soweit sich der Verkehrsverbund an Tarifverbunden beteiligt, kann er für diese Tarifverbunde alle damit zusammenhängenden Aufgaben übernehmen.
 
-<sup>2</sup> Über diese Tätigkeiten ist im Jahresbericht zu informieren. Sie sind in der Jahresrechnung gesondert auszuweisen.
+<sup>1<sup>bis</sup></sup> Die Geschäftsstelle des Tarifverbundes Luzern / Obwalden / Nidwalden ist administrativ beim Verkehrsverbund Luzern angesiedelt.
+
+<sup>2</sup> Über die Tätigkeiten gemäss den Absätzen 1 und 1<sup>bis</sup> ist im Jahresbericht zu informieren. Sie sind in der Jahresrechnung gesondert auszuweisen.
 
 <sup>3</sup> Die Einzelheiten sind in Verträgen zu regeln.
 
