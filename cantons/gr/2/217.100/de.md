@@ -4,27 +4,30 @@ number: "217.100"
 title: Verordnung über das Grundbuch im Kanton Graubünden
 short: KGBV
 language: de
-version: 2015-01-01
-corrected: 2014-11-29
-version_adopted: 2014-10-20
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-11-30
 adopted: 2014-10-20
 in_force: 2015-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/217.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2220/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3203/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über das Grundbuch im Kanton Graubünden (KGBV)
+# Verordnung über das Grundbuch im Kanton Graubünden
 
-Gestützt auf Art. 45 der Kantonsverfassung[^t-1]
+(KGBV)
+
+Vom 20.10.2014 (Stand 01.01.2022)
+
+Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
 von der Regierung erlassen am 20. Oktober 2014
 
-I. Allgemeine Bestimmungen
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
-[^t-1]: BR 110.100
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -42,13 +45,13 @@ I. Allgemeine Bestimmungen
 
 <sup>2</sup> Die Fachstelle koordiniert den entsprechenden Beschluss mit der Genehmigung der Statuten nach Gemeindegesetz[^2-1].
 
-[^2-1]: BR 175.050 01.01.2015 1
+[^2-1]: BR [175.050](https://www.gr-lex.gr.ch/data/175.050/de)
 
 #### Art. 3
 
 **Mitteilung der Wahl**
 
-Der Grundbuchkreis teilt der Aufsichtsstelle die Wahl der Grundbuchverwalterinnen und -verwalter sowie der Stellvertretung mit.
+<sup>1</sup> Der Grundbuchkreis teilt der Aufsichtsstelle die Wahl der Grundbuchverwalterinnen und -verwalter sowie der Stellvertretung mit.
 
 #### Art. 4
 
@@ -70,9 +73,9 @@ Der Grundbuchkreis teilt der Aufsichtsstelle die Wahl der Grundbuchverwalterinne
 
 **Kurse**
 
-Die Grundbuchkreise haben auf ihre Kosten die Grundbuchverwalterinnen und -verwalter sowie die Stellvertretung zu Instruktionskursen der Fachstelle abzuordnen.
+<sup>1</sup> Die Grundbuchkreise haben auf ihre Kosten die Grundbuchverwalterinnen und -verwalter sowie die Stellvertretung zu Instruktionskursen der Fachstelle abzuordnen.
 
-### II. Grundbuchführung
+## 2. Grundbuchführung
 
 #### Art. 7
 
@@ -92,19 +95,29 @@ Die Grundbuchkreise haben auf ihre Kosten die Grundbuchverwalterinnen und -verwa
 
 #### Art. 9
 
-**Öffentlichrechtliche Eigentumsbeschränkungen**
+**Öffentlich-rechtliche Eigentumsbeschränkungen**
 
-Die Fachstelle erstellt eine Liste der Anmerkungstatbestände des kantonalen und des kommunalen Rechts nach Artikel 962 des Schweizerischen Zivilgesetzbuchs (ZGB)[^9-1] und teilt diese dem Bund mit.
+<sup>1</sup> Die Fachstelle erstellt eine Liste der Anmerkungstatbestände des kantonalen und des kommunalen Rechts nach Artikel 962 des Schweizerischen Zivilgesetzbuchs (ZGB)[^9-1] und teilt diese dem Bund mit.
 
-[^9-1]: SR 210 2 01.01.2015
+[^9-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 10
 
 **Versicherung**
 
-Der Kanton versichert sich und die Angestellten der Grundbuchkreise gegen Schadenersatzansprüche aus fehlerhafter Grundbuchführung. Die Versicherungskosten werden anteilsmässig auf die Grundbuchkreise überwälzt.
+<sup>1</sup> Der Kanton versichert sich und die Angestellten der Grundbuchkreise gegen Schadenersatzansprüche aus fehlerhafter Grundbuchführung. Die Versicherungskosten werden anteilsmässig auf die Grundbuchkreise überwälzt.
 
-### III. Informatisiertes Grundbuch
+## 3. Informatisiertes Grundbuch
+
+#### Art. 10a
+
+**Elektronischer öffentlicher Zugang**
+
+<sup>1</sup> Der elektronische öffentliche Zugang der ohne Interessensnachweis einsehbaren Daten des Hauptbuchs erfolgt ausschliesslich über die kantonale Geodatendrehscheibe.
+
+<sup>2</sup> Der Schutz vor Serienabfragen erfolgt im Allgemeinen über eine Sicherheitsabfrage sowie eine Beschränkung auf zehn grundstücksbezogene Abfragen pro Tag.
+
+<sup>3</sup> Erfolgen die Abfragen nach einer Authentisierung, so gilt eine Beschränkung von maximal 50 grundstücksbezogenen Abfragen pro Tag.
 
 #### Art. 11
 
@@ -114,7 +127,7 @@ Der Kanton versichert sich und die Angestellten der Grundbuchkreise gegen Schade
 
 <sup>2</sup> Bei elektronischen Eingaben sind die für den Vollzug des Geschäfts nötigen Belege zuhanden des Grundbuchamts, mit Ausnahme der Papier-Schuldbriefe, vollständig elektronisch zu übermitteln.
 
-### IV. Einführung des eidgenössischen Grundbuchs
+## 4. Einführung des eidgenössischen Grundbuchs
 
 #### Art. 12
 
@@ -122,7 +135,10 @@ Der Kanton versichert sich und die Angestellten der Grundbuchkreise gegen Schade
 
 <sup>1</sup> Das Grundbuchamt erlässt zweimal nacheinander einen öffentlichen Aufruf im Publikationsorgan der Gemeinde und des Kantons.
 
-<sup>2</sup> In der Publikation sind alle Personen, die a) Rechte beanspruchen, welche in den kantonalen Grundbucheinrichtungen noch nicht eingetragen sind, oder b) Änderungen oder Löschungen von unrichtigen oder bedeutungslos gewordenen Eintragungen beantragen, aufzufordern, diese beim Grundbuchamt schriftlich anzumelden.
+<sup>2</sup> In der Publikation sind alle Personen, die
+
+- a) Rechte beanspruchen, welche in den kantonalen Grundbucheinrichtungen noch nicht eingetragen sind, oder
+- b) Änderungen oder Löschungen von unrichtigen oder bedeutungslos gewordenen Eintragungen beantragen,
 
 <sup>3</sup> Die Anmeldefrist beträgt mindestens zwei Monate ab der ersten Publikation.
 
@@ -130,7 +146,7 @@ Der Kanton versichert sich und die Angestellten der Grundbuchkreise gegen Schade
 
 **Anmeldungen**
 
-Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und in chronologischer Reihenfolge zu sammeln.
+<sup>1</sup> Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und in chronologischer Reihenfolge zu sammeln.
 
 #### Art. 14
 
@@ -154,10 +170,6 @@ Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und 
 
 <sup>1</sup> Kommt zwischen den am Rechtsverhältnis Beteiligten keine Einigung zustande, veranlasst das Grundbuchamt die Einberufung der Einigungskommission.
 
-**3**
-
-01.01.2015
-
 <sup>2</sup> Die Einigungskommission besteht aus drei Mitgliedern und zwei Stellvertretenden. Die Grundbuchverwalterin oder der Grundbuchverwalter nimmt von Amts wegen Einsitz. Die übrigen Mitglieder wählt die Gemeinde.
 
 <sup>3</sup> Die Einigungskommission hat alles vorzukehren und abzuklären, was zur Feststellung der tatsächlichen und rechtlichen Verhältnisse notwendig und zweckmässig ist.
@@ -175,7 +187,6 @@ Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und 
 <sup>2</sup> In der Regel wird die Klägerrolle zugewiesen:
 
 - a) der ansprechenden Person, die ein nicht im Grundbuch vollzogenes Recht geltend macht oder die Änderung eines Eintrags beantragt;
-
 - b) derjenigen Person, die ein im Grundbuch eingetragenes Recht ganz oder teilweise bestreitet.
 
 <sup>3</sup> Die Aufsichtsstelle setzt mit der Zuweisung der Klägerrolle eine angemessene Frist an, um die Sache beim zuständigen Gericht anhängig zu machen.
@@ -193,7 +204,6 @@ Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und 
 <sup>2</sup> In der Publikation ist darauf hinzuweisen, dass:
 
 - a) das bereinigte Grundbuch während zweier Monate zur öffentlichen Einsicht aufliegt, und
-
 - b) innert der Auflagefrist beim Grundbuchamt Einsprache erhoben werden kann.
 
 <sup>3</sup> Die Publikation kann unabhängig von der ausstehenden gerichtlichen Beurteilung einzelner Fälle erfolgen.
@@ -204,13 +214,9 @@ Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und 
 
 <sup>1</sup> Für Einsprachen gilt das Verfahren der Artikel 14 bis 17 sinngemäss.
 
-**4**
-
-01.01.2015
-
 <sup>2</sup> Auf im Bereinigungsverfahren bereits behandelte Begehren tritt das Grundbuchamt nicht ein und erlässt eine anfechtbare Verfügung.
 
-### V. Teilrechtsverzeichnisse
+## 5. Teilrechtsverzeichnisse
 
 #### Art. 20
 
@@ -222,7 +228,7 @@ Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und 
 
 <sup>3</sup> Für die Anlage und Führung der Teilrechtsverzeichnisse sind die Vorschriften über die Anlage und Führung des eidgenössischen Grundbuchs analog anwendbar.
 
-### VI. Fähigkeitsausweis
+## 6. Fähigkeitsausweis
 
 #### Art. 21
 
@@ -230,7 +236,7 @@ Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und 
 
 <sup>1</sup> Der Fähigkeitsausweis für Grundbuchverwalterinnen und -verwalter und deren Stellvertretung wird durch Ablegen und Bestehen einer Prüfung erlangt.
 
-<sup>2</sup> Die Prüfung soll den Nachweis erbringen, dass die Kandidatin oder der Kandidat die zur Ausübung des Berufs als Grundbuchverwalterin oder -verwalter erforderlichen Kenntnisse und Fähigkeiten besitzt.
+<sup>2</sup> Die Prüfung soll den Nachweis erbringen, dass die Kandidatin oder der Kandidat die zur Ausübung des Berufs als Grundbuchverwalterin oder verwalter erforderlichen Kenntnisse und Fähigkeiten besitzt.
 
 <sup>3</sup> Die Durchführung der Prüfung wird einer Prüfungskommission übertragen.
 
@@ -251,10 +257,6 @@ Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und 
 <sup>1</sup> Zur Prüfung werden nur Personen zugelassen, die handlungsfähig sind, einen guten Leumund besitzen und eine abgeschlossene Grundbuchlehre mit mindestens dreijähriger Tätigkeit oder eine mindestens fünfjährige Tätigkeit als Grundbuchsachbearbeiterin oder -sachbearbeiter aufweisen.
 
 <sup>2</sup> Die Prüfungskommission entscheidet über die Zulassung.
-
-**5**
-
-01.01.2015
 
 #### Art. 24
 
@@ -278,14 +280,11 @@ Die Anmeldungen sind vom Grundbuchamt mit einem Eingangsvermerk zu versehen und 
 
 **Prüfungsstoff**
 
-Die Prüfung erstreckt sich auf folgende Bereiche:
+<sup>1</sup> Die Prüfung erstreckt sich auf folgende Bereiche:
 
 - a) allgemeine Rechtsbegriffe;
-
 - b) Personen-, Familien-, Erb- und Sachenrecht mit Einschluss des Grundbuch- und Notariatsrechts;
-
 - c) allgemeine Bestimmungen des Obligationenrechts, einzelne Vertragsverhältnisse, Gesellschafts-, Handelsregister-, Steuer- sowie Schuldbetreibungs- und Konkursrecht, soweit dies für die Grundbuchführung und das Grundbuchnotariat von Bedeutung ist;
-
 - d) eidgenössische, kantonale und kommunale Erlasse betreffend die Grundbuchführung und das Grundbuchnotariat.
 
 #### Art. 27
@@ -300,10 +299,6 @@ Die Prüfung erstreckt sich auf folgende Bereiche:
 
 <sup>4</sup> Die mündliche Prüfung dauert höchstens zwei Stunden. Die Mitglieder der Prüfungskommission nehmen die Prüfung nach einer von ihnen festgesetzten Verteilung der Fächer ab.
 
-**6**
-
-01.01.2015
-
 #### Art. 28
 
 **Bewertung**
@@ -315,13 +310,9 @@ Die Prüfung erstreckt sich auf folgende Bereiche:
 <sup>3</sup> Die Gesamtnote bestimmt das Prädikat wie folgt:
 
 - a) 5,5 bis 6: mit sehr gutem Erfolg bestanden;
-
 - b) 5,0 bis unter 5,5: mit gutem Erfolg bestanden;
-
 - c) 4,5 bis unter 5,0: mit Erfolg bestanden;
-
 - d) 4,0 bis unter 4,5: bestanden;
-
 - e) unter 4,0: nicht bestanden.
 
 <sup>4</sup> Die Prüfungskommission teilt die Prüfungsresultate der Fachstelle mit. Diese beantragt die Fähigkeitsausweise.
@@ -332,9 +323,9 @@ Die Prüfung erstreckt sich auf folgende Bereiche:
 
 **Rechtspflege**
 
-Gegen Entscheide der Prüfungskommission kann innert 30 Tagen Beschwerde beim Verwaltungsgericht erhoben werden.
+<sup>1</sup> Gegen Entscheide der Prüfungskommission kann innert 30 Tagen Beschwerde beim Verwaltungsgericht erhoben werden.
 
-### VII. Schlussbestimmungen
+## 7. Schlussbestimmungen
 
 #### Art. 30
 
@@ -345,10 +336,12 @@ Gegen Entscheide der Prüfungskommission kann innert 30 Tagen Beschwerde beim Ve
 <sup>2</sup> Die Verordnung betreffend Anlage und Führung von Verzeichnissen über Korporationsteilrechte vom 20. Mai 1997 wird aufgehoben[^30-2].
 
 [^30-1]: AGS 1990, 2367
-[^30-2]: AGS 1997, 3876 01.01.2015 7
+[^30-2]: AGS 1997, 3876
 
 #### Art. 31
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Januar 2015 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2015 in Kraft.
+
+-
