@@ -4,13 +4,13 @@ number: "551.1"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2012-07-01
-valid_until: 2021-12-31
-version_adopted: 2011-11-09
+version: 2022-01-01
+valid_until: 2024-05-31
+version_adopted: 2021-03-24
 adopted: 2011-11-09
 in_force: 2012-07-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/551.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1781/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2159/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ PolG
 
 (PolG)
 
-vom 09.11.2011 (Stand 01.07.2012)
+vom 09.11.2011 (Stand 01.01.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -276,13 +276,13 @@ vom 09.11.2011 (Stand 01.07.2012)
 
 <sup>2</sup> Die angehaltene Person ist verpflichtet, Angaben zur Person zu machen, mitgeführte Ausweis- und Bewilligungspapiere vorzuzeigen und zu diesem Zweck Behältnisse und Fahrzeuge zu öffnen.
 
-<sup>3</sup> Die Kantonspolizei darf die Person zu einem Polizeiposten bringen, wenn die Abklärungen gemäss Absatz 1 vor Ort nicht eindeutig oder nur mit erheblichen Schwierigkeiten vorgenommen werden können oder wenn zweifelhaft ist, ob die Angaben richtig oder die Ausweis- und Bewilligungspapiere echt sind.
+<sup>3</sup> Die Kantonspolizei darf die Person zu einem Polizeiposten bringen, wenn die Abklärungen gemäss Abs. 1 vor Ort nicht eindeutig oder nur mit erheblichen Schwierigkeiten vorgenommen werden können oder wenn zweifelhaft ist, ob die Angaben richtig oder die Ausweis- und Bewilligungspapiere echt sind.
 
 #### § 27
 
 **Vorläufige Festnahme**
 
-<sup>1</sup> Wird eine Person wegen einer Übertretung im Sinne von Artikel 217 Absatz 3 StPO[^27-1] vorläufig festgenommen und soll diese Person gemäss Artikel 219 Absatz 5 StPO länger als drei Stunden festgehalten werden, ist dies durch die Pikettdienst leistende Führungsperson der Polizeiregion anzuordnen.
+<sup>1</sup> Wird eine Person wegen einer Übertretung im Sinne von Art. 217 Abs. 3 StPO[^27-1] vorläufig festgenommen und soll diese Person gemäss Art. 219 Abs. 5 StPO länger als drei Stunden festgehalten werden, ist dies durch die Pikettdienst leistende Führungsperson der Polizeiregion anzuordnen.
 
 [^27-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
@@ -305,7 +305,7 @@ vom 09.11.2011 (Stand 01.07.2012)
 - 1\. konkrete Anhaltspunkte dafür vorliegen, dass die betroffene Person in erheblichem Umfang aussergewöhnlich schwere Straftaten plant oder begeht, oder
 - 2\. die Gesamtbeurteilung der betroffenen Person, insbesondere aufgrund der bisher von ihr begangenen Straftaten, erwarten lässt, dass sie auch künftig aussergewöhnlich schwere Straftaten begehen wird.
 
-<sup>3</sup> Bei der gezielten Kontrolle können zur Erreichung der in Absatz 2 genannten Zwecke die Person, das von ihr benützte Fahrzeug oder die mitgeführten Sachen untersucht werden.
+<sup>3</sup> Bei der gezielten Kontrolle können zur Erreichung der in Abs. 2 genannten Zwecke die Person, das von ihr benützte Fahrzeug oder die mitgeführten Sachen untersucht werden.
 
 ### 5.3. Polizeiliche Vorladung und Befragung
 
@@ -340,7 +340,7 @@ vom 09.11.2011 (Stand 01.07.2012)
 - 3\. sie voraussichtlich der fürsorgerischen Hilfe bedarf,
 - 4\. sie sich einer Freiheitsstrafe oder einer freiheitsentziehenden Massnahme durch Flucht entzogen hat,
 - 5\. dies zur Sicherstellung einer Vor-, Zu- oder Rückführung notwendig ist oder
-- 6\. dies zur Sicherung des Vollzugs einer polizeilichen Anordnung gemäss § 56 Absatz 1 notwendig ist.
+- 6\. dies zur Sicherung des Vollzugs einer polizeilichen Anordnung gemäss § 56 Abs. 1 notwendig ist.
 
 #### § 34
 
@@ -383,7 +383,7 @@ vom 09.11.2011 (Stand 01.07.2012)
 
 <sup>2</sup> Die Kantonspolizei führt die Person der Inhaberin oder dem Inhaber der elterlichen Sorge oder Obhut, der Vormundin oder dem Vormund, der zuständigen Kindes- und Erwachsenenschutzbehörde oder einer von ihnen bezeichneten Stelle zu.
 
-<sup>3</sup> Zuführungen im Sinne von Absatz 2 dürfen auch bei minderjährigen Personen und Personen unter umfassender Beistandschaft erfolgen, die in Gewahrsam genommen worden sind.
+<sup>3</sup> Zuführungen im Sinne von Abs. 2 dürfen auch bei minderjährigen Personen und Personen unter umfassender Beistandschaft erfolgen, die in Gewahrsam genommen worden sind.
 
 #### § 38
 
@@ -432,7 +432,9 @@ vom 09.11.2011 (Stand 01.07.2012)
 
 **Notsuche**
 
-<sup>1</sup> Die Anordnung einer Überwachung des Post- und Fernmeldeverkehrs im Rahmen der Suche und Rettung vermisster Personen (Notsuche) erfolgt durch das Polizeikommando.
+<sup>1</sup> Die Anordnung einer Überwachung des Post- und Fernmeldeverkehrs im Rahmen der Suche und Rettung vermisster Personen (Notsuche) oder der Fahndung nach verurteilten Personen erfolgt durch das Polizeikommando.
+
+<sup>2</sup> Das Zwangsmassnahmengericht ist zuständig, auf Gesuch des Polizeikommandos Überwachungen gemäss Abs. 1 zu genehmigen. Das Obergericht ist Beschwerdeinstanz.
 
 #### § 43
 
@@ -466,13 +468,13 @@ vom 09.11.2011 (Stand 01.07.2012)
 - 4\. die Person selbst ernsthaft und unmittelbar gefährdet ist oder
 - 5\. Rechte von Personen zu wahren sind.
 
-<sup>2</sup> Absatz 1 gilt sinngemäss für die Fernhaltung von Tieren und Sachen.
+<sup>2</sup> Abs. 1 gilt sinngemäss für die Fernhaltung von Tieren und Sachen.
 
 #### § 45
 
 **Fernhaltung mit formellem Entscheid**
 
-<sup>1</sup> Die Kantonspolizei darf einer Person mittels Entscheid verbieten, einen bestimmten Ort zu betreten. Sie kann das schriftliche Verbot unter Androhung der Straffolgen von Artikel 292 StGB[^45-1] für höchstens 14 Tage verfügen.
+<sup>1</sup> Die Kantonspolizei darf einer Person mittels Entscheid verbieten, einen bestimmten Ort zu betreten. Sie kann das schriftliche Verbot unter Androhung der Straffolgen von Art. 292 StGB[^45-1] für höchstens 14 Tage verfügen.
 
 <sup>2</sup> Der Entscheid legt die Dauer und den räumlichen Geltungsbereich der Massnahme fest.
 
@@ -539,7 +541,7 @@ vom 09.11.2011 (Stand 01.07.2012)
 
 <sup>2</sup> Erheben mehrere Personen Anspruch darauf oder ist die Berechtigung einer Person aus anderen Gründen zweifelhaft, setzt ihnen die Kantonspolizei Frist zur gerichtlichen Klage an. Nach unbenutztem Ablauf dieser Frist gibt sie das Tier oder die Sache der Person zurück, bei welcher die Sicherstellung erfolgte.
 
-<sup>3</sup> Die Rückgabe kann von der Zahlung der Kosten abhängig gemacht werden. Dabei gilt § 69 Absatz 1 Ziffer 2 sinngemäss.
+<sup>3</sup> Die Rückgabe kann von der Zahlung der Kosten abhängig gemacht werden. Dabei gilt § 69 Abs. 1 Ziff. 2 sinngemäss.
 
 <sup>4</sup> Kann ein Tier weder zurückgegeben noch anderweitig platziert werden, ist über das weitere Vorgehen unter Beizug des Veterinäramtes zu entscheiden.
 
@@ -571,7 +573,7 @@ vom 09.11.2011 (Stand 01.07.2012)
 
 <sup>1</sup> Die Massnahme wird der betroffenen Person angedroht. In dringenden Fällen oder wenn die betroffene Person nicht erreichbar ist, kann von der Androhung abgesehen werden. In solchen Fällen ist die betroffene Person nachträglich über die Massnahme zu informieren.
 
-<sup>2</sup> Die Rückgabe kann von der Zahlung der Kosten abhängig gemacht werden. Dabei gilt § 69 Absatz 1 Ziffer 2 sinngemäss.
+<sup>2</sup> Die Rückgabe kann von der Zahlung der Kosten abhängig gemacht werden. Dabei gilt § 69 Abs. 1 Ziff. 2 sinngemäss.
 
 <sup>3</sup> § 51 findet sinngemässe Anwendung.
 
@@ -631,7 +633,7 @@ vom 09.11.2011 (Stand 01.07.2012)
 
 <sup>1</sup> Die Kantonspolizei ermittelt den Sachverhalt und trifft umgehend die zum Schutz der gefährdeten Person notwendigen Anordnungen, namentlich:
 
-- 1\. Aushändigung des Entscheides betreffend Wegweisung, Rückkehrverbot oder Kontaktsperre, unter Strafandrohung nach Artikel 292 StGB[^57-1] samt Hinweis auf § 59 und § 60;
+- 1\. Aushändigung des Entscheides betreffend Wegweisung, Rückkehrverbot oder Kontaktsperre, unter Strafandrohung nach Art. 292 StGB[^57-1] samt Hinweis auf § 59 und § 60;
 - 2\. Abnahme der Wohnungsschlüssel der weggewiesenen Person;
 - 3\. Orientierung der gefährdeten Person über die Zuständigkeit zur Anordnung von zivilrechtlichen Massnahmen;
 - 4\. Orientierung der Beteiligten über Beratungsstellen und bei Einverständnis Weiterleitung von Name und Adresse an diese.
