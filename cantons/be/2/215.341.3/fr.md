@@ -4,13 +4,12 @@ number: "215.341.3"
 title: Ordonnance sur la commission de nomenclature
 short: OCN
 language: fr
-version: 2020-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-02
+version: 2022-01-01
+version_adopted: 2021-11-03
 adopted: 2010-09-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.3"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1973/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2399/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1973/pdf_file"
 
 (OCN)
 
-du 15.09.2010 (état au 01.11.2020)
+du 15.09.2010 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -63,7 +62,7 @@ arrête:
 
 **Nomination**
 
-<sup>1</sup> Sur proposition de la Direction de l'intérieur et de la justice, le Conseil-exécutif nomme les membres de la commission pour une période de quatre ans.
+<sup>1</sup> Sur proposition de l’Office de l’information géographique, la Direction de l'intérieur et de la justice nomme les membres de la commission pour une période de quatre ans.
 
 <sup>2</sup> Les membres de la commission sont rééligibles.
 
@@ -89,7 +88,7 @@ arrête:
 
 **Séances**
 
-<sup>1</sup> Le géomètre cantonal ou la géomètre cantonale réunit en séance la commission autant de fois que les affaires l’exigent, mais au minimum une fois par an.
+<sup>1</sup> Le géomètre cantonal ou la géomètre cantonale réunit en séance la commission autant de fois que les affaires l’exigent.
 
 <sup>2</sup> Les affaires urgentes ou mineures peuvent être réglées par voie de circulation.
 

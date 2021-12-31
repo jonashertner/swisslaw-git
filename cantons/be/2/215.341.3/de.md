@@ -4,13 +4,12 @@ number: "215.341.3"
 title: Verordnung über die Nomenklaturkommission
 short: NKV
 language: de
-version: 2020-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-02
+version: 2022-01-01
+version_adopted: 2021-11-03
 adopted: 2010-09-15
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.3"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1973/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2399/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1973/pdf_file"
 
 (NKV)
 
-vom 15.09.2010 (Stand 01.11.2020)
+vom 15.09.2010 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -63,7 +62,7 @@ beschliesst:
 
 **Wahl**
 
-<sup>1</sup> Der Regierungsrat ernennt die Kommissionsmitglieder auf Antrag der Direktion für Inneres und Justiz für eine Amtsdauer von vier Jahren.
+<sup>1</sup> Die Direktion für Inneres und Justiz ernennt die Kommissionsmitglieder auf Antrag des Amtes für Geoinformation für eine Amtsdauer von vier Jahren.
 
 <sup>2</sup> Die Wiederwahl ist zulässig.
 
@@ -89,7 +88,7 @@ beschliesst:
 
 **Sitzungen**
 
-<sup>1</sup> Die Kantonsgeometerin oder der Kantonsgeometer beruft die Kommission zu Sitzungen ein, so oft es die Geschäfte erfordern, jedoch mindestens einmal pro Jahr.
+<sup>1</sup> Die Kantonsgeometerin oder der Kantonsgeometer beruft die Kommission zu Sitzungen ein, so oft es die Geschäfte erfordern.
 
 <sup>2</sup> Dringliche Geschäfte und Geschäfte von geringer Bedeutung können auf dem Zirkulationsweg erledigt werden.
 
