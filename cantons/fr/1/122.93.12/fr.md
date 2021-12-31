@@ -3,13 +3,13 @@ canton: FR
 number: "122.93.12"
 title: "Règlement concernant la Commission d'acquisition des immeubles"
 language: fr
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-04
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 1984-12-28
 in_force: 1985-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.93.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6059/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7030/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6059/pdf_file"
 
 Commission d'acquisition des immeubles – R
 
-du 28.12.1984 (version entrée en vigueur le 01.07.2019)
+du 28.12.1984 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -49,7 +49,7 @@ Arrête:
 - a) des représentants des différents régimes d'exploitation de l'agriculture;
 - b) des représentants des milieux de l'aménagement du territoire et de la construction;
 - c) un juriste au moins;
-- d) des représentants du Service de l'agriculture et du Service des ponts et chaussées.
+- d) des représentants de Grangeneuve et du Service des ponts et chaussées.
 
 <sup>2</sup> Les représentants de l'administration sont tenus de participer aux séances qui traitent de problèmes intéressant leur service.
 

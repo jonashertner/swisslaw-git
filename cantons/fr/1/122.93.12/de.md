@@ -3,13 +3,13 @@ canton: FR
 number: "122.93.12"
 title: Reglement betreffend die Kommission für Grundstückerwerb
 language: de
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-04
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 1984-12-28
 in_force: 1985-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.93.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6059/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7030/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6059/pdf_file"
 
 Kommission für Grundstückerwerb – R
 
-vom 28.12.1984 (Fassung in Kraft getreten am 01.07.2019)
+vom 28.12.1984 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,7 +49,7 @@ beschliesst:
 - a) Vertreter der verschiedenen landwirtschaftlichen Betriebsformen;
 - b) Vertreter des Bau- und Raumplanungswesens;
 - c) mindestens ein Jurist;
-- d) Vertreter des Amts für Landwirtschaft und des Tiefbauamts.
+- d) Vertreter von Grangeneuve und des Tiefbauamts.
 
 <sup>2</sup> Die Vertreter der Verwaltung sind verpflichtet, an den Sitzungen teilzunehmen, an denen Probleme ihrer Dienststelle behandelt werden.
 
