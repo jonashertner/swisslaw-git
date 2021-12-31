@@ -3,18 +3,18 @@ sr: "831.301.114"
 title: "Verordnung des EDI vom 14. Juni 2021 über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/375"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2021-06-14
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2021-375-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/375/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-375-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/375/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung und dem Bundesgesetz über Überbrückungsleistungen für ältere Arbeitslose
 
-vom 14. Juni 2021 (Stand am 1. Juli 2021)
+vom 14. Juni 2021 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -49,6 +49,10 @@ Der Monat Mai des Vorjahres ist massgebend für die Prüfung, ob in der betreffe
 
 <sup>3</sup> Der Prozentsatz gilt für alle Haushaltgrössen gemäss Artikel 10 Absatz 1 Buchstabe b Ziffern 1 und 2 ELG und nach Artikel 9 Absatz 1 Buchstabe b Ziffern 1 und 2 ÜLG.
 
+<sup>4</sup> In Abweichung der Absätze 1 und 3 kann der Höchstbetrag auf den Höchstbetrag einer Region mit einem höheren Höchstbetrag nach Artikel 10 Absatz 1 Buchstabe b Ziffern 1 und 2 ELG und Artikel 9 Absatz 1 Buchstabe b Ziffern 1 und 2 ÜLG erhöht werden, sofern die maximale Erhöhung von 10 Prozent nach Artikel 10 Absatz 1<sup>sexies</sup> ELG und Artikel 9 Absatz 6 ÜLG nicht überschritten wird.[^4-1]
+
+[^4-1]: Eingefügt durch Ziff. I der V des EDI vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
+
 #### Art. 5
 
 Die Verordnung des EDI vom 12. März 2020[^5-1] über die Zuteilung der Gemeinden zu den drei Mietzinsregionen nach dem Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung wird aufgehoben.
@@ -59,11 +63,13 @@ Die Verordnung des EDI vom 12. März 2020[^5-1] über die Zuteilung der Gemeinde
 
 Diese Verordnung tritt am 1. Juli 2021 in Kraft.
 
-Anhang I
+Anhang I*[^t-1]*
 
 (Art. 1)
 
 ## Regionen
+
+[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
 
 ### Zürich
 
@@ -284,7 +290,6 @@ Anhang I
 <tr><td>Bühl</td><td>3</td></tr>
 <tr><td>Büren an der Aare</td><td>2</td></tr>
 <tr><td>Champoz</td><td>3</td></tr>
-<tr><td>Clavaleyres</td><td>3</td></tr>
 <tr><td>Corcelles (BE)</td><td>3</td></tr>
 <tr><td>Corgémont</td><td>3</td></tr>
 <tr><td>Cormoret</td><td>3</td></tr>
@@ -375,7 +380,6 @@ Anhang I
 <tr><td>Kiesen</td><td>2</td></tr>
 <tr><td>Kirchberg (BE)</td><td>2</td></tr>
 <tr><td>Kirchdorf (BE)</td><td>3</td></tr>
-<tr><td>Kirchenthurnen</td><td>2</td></tr>
 <tr><td>Kirchlindach</td><td>2</td></tr>
 <tr><td>Konolfingen</td><td>2</td></tr>
 <tr><td>Koppigen</td><td>3</td></tr>
@@ -398,7 +402,6 @@ Anhang I
 <tr><td>Leuzigen</td><td>3</td></tr>
 <tr><td>Ligerz</td><td>3</td></tr>
 <tr><td>Linden</td><td>3</td></tr>
-<tr><td>Lohnstorf</td><td>2</td></tr>
 <tr><td>Lotzwil</td><td>2</td></tr>
 <tr><td>Loveresse</td><td>3</td></tr>
 <tr><td>Lyss</td><td>2</td></tr>
@@ -421,9 +424,7 @@ Anhang I
 <tr><td>Moutier</td><td>2</td></tr>
 <tr><td>Muri bei Bern</td><td>2</td></tr>
 <tr><td>Mörigen</td><td>2</td></tr>
-<tr><td>Mötschwil</td><td>3</td></tr>
 <tr><td>Mühleberg</td><td>3</td></tr>
-<tr><td>Mühlethurnen</td><td>2</td></tr>
 <tr><td>Münchenbuchsee</td><td>2</td></tr>
 <tr><td>Münchenwiler</td><td>2</td></tr>
 <tr><td>Münsingen</td><td>2</td></tr>
@@ -444,7 +445,6 @@ Anhang I
 <tr><td>Oberhünigen</td><td>3</td></tr>
 <tr><td>Oberlangenegg</td><td>3</td></tr>
 <tr><td>Oberried am Brienzersee</td><td>3</td></tr>
-<tr><td>Obersteckholz</td><td>3</td></tr>
 <tr><td>Oberthal</td><td>3</td></tr>
 <tr><td>Oberwil bei Büren</td><td>3</td></tr>
 <tr><td>Oberwil im Simmental</td><td>3</td></tr>
@@ -484,7 +484,6 @@ Anhang I
 <tr><td>Rüdtligen-Alchenflüh</td><td>2</td></tr>
 <tr><td>Rüeggisberg</td><td>3</td></tr>
 <tr><td>Rüegsau</td><td>3</td></tr>
-<tr><td>Rümligen</td><td>2</td></tr>
 <tr><td>Rüschegg</td><td>3</td></tr>
 <tr><td>Rüti bei Büren</td><td>3</td></tr>
 <tr><td>Rüti bei Lyssach</td><td>3</td></tr>
@@ -504,7 +503,6 @@ Anhang I
 <tr><td>Schwanden bei Brienz</td><td>2</td></tr>
 <tr><td>Schwarzenburg</td><td>2</td></tr>
 <tr><td>Schwarzhäusern</td><td>3</td></tr>
-<tr><td>Schwendibach</td><td>3</td></tr>
 <tr><td>Schüpfen</td><td>2</td></tr>
 <tr><td>Seeberg</td><td>3</td></tr>
 <tr><td>Seedorf (BE)</td><td>2</td></tr>
@@ -529,6 +527,7 @@ Anhang I
 <tr><td>Thierachern</td><td>2</td></tr>
 <tr><td>Thun</td><td>2</td></tr>
 <tr><td>Thunstetten</td><td>3</td></tr>
+<tr><td>Thurnen</td><td>2</td></tr>
 <tr><td>Thörigen</td><td>3</td></tr>
 <tr><td>Toffen</td><td>2</td></tr>
 <tr><td>Trachselwald</td><td>3</td></tr>
@@ -571,7 +570,6 @@ Anhang I
 <tr><td>Willadingen</td><td>3</td></tr>
 <tr><td>Wimmis</td><td>2</td></tr>
 <tr><td>Wohlen bei Bern</td><td>2</td></tr>
-<tr><td>Wolfisberg</td><td>3</td></tr>
 <tr><td>Worb</td><td>2</td></tr>
 <tr><td>Worben</td><td>2</td></tr>
 <tr><td>Wynau</td><td>3</td></tr>
@@ -594,7 +592,6 @@ Anhang I
 <tr><td>Alberswil</td><td>3</td></tr>
 <tr><td>Altbüron</td><td>3</td></tr>
 <tr><td>Altishofen</td><td>2</td></tr>
-<tr><td>Altwis</td><td>3</td></tr>
 <tr><td>Ballwil</td><td>2</td></tr>
 <tr><td>Beromünster</td><td>2</td></tr>
 <tr><td>Buchrain</td><td>2</td></tr>
@@ -603,7 +600,6 @@ Anhang I
 <tr><td>Dagmersellen</td><td>3</td></tr>
 <tr><td>Dierikon</td><td>2</td></tr>
 <tr><td>Doppleschwand</td><td>3</td></tr>
-<tr><td>Ebersecken</td><td>3</td></tr>
 <tr><td>Ebikon</td><td>2</td></tr>
 <tr><td>Egolzwil</td><td>3</td></tr>
 <tr><td>Eich</td><td>3</td></tr>
@@ -615,7 +611,6 @@ Anhang I
 <tr><td>Ettiswil</td><td>3</td></tr>
 <tr><td>Fischbach</td><td>3</td></tr>
 <tr><td>Flühli</td><td>3</td></tr>
-<tr><td>Gettnau</td><td>3</td></tr>
 <tr><td>Geuensee</td><td>3</td></tr>
 <tr><td>Gisikon</td><td>2</td></tr>
 <tr><td>Greppen</td><td>3</td></tr>
@@ -681,7 +676,6 @@ Anhang I
 <tr><td>Altdorf (UR)</td><td>2</td></tr>
 <tr><td>Andermatt</td><td>3</td></tr>
 <tr><td>Attinghausen</td><td>2</td></tr>
-<tr><td>Bauen</td><td>3</td></tr>
 <tr><td>Bürglen (UR)</td><td>2</td></tr>
 <tr><td>Erstfeld</td><td>2</td></tr>
 <tr><td>Flüelen</td><td>2</td></tr>
@@ -796,8 +790,6 @@ Anhang I
 
 <table>
 <tr><th>Gemeinde</th><th>Region</th></tr>
-<tr><td>Alterswil</td><td>3</td></tr>
-<tr><td>Arconciel</td><td>2</td></tr>
 <tr><td>Attalens</td><td>2</td></tr>
 <tr><td>Auboranges</td><td>3</td></tr>
 <tr><td>Autigny</td><td>3</td></tr>
@@ -806,6 +798,7 @@ Anhang I
 <tr><td>Belfaux</td><td>2</td></tr>
 <tr><td>Belmont-Broye</td><td>3</td></tr>
 <tr><td>Billens-Hennens</td><td>3</td></tr>
+<tr><td>Bois-d'Amont</td><td>3</td></tr>
 <tr><td>Bossonnens</td><td>2</td></tr>
 <tr><td>Botterens</td><td>3</td></tr>
 <tr><td>Broc</td><td>2</td></tr>
@@ -813,7 +806,6 @@ Anhang I
 <tr><td>Bulle</td><td>2</td></tr>
 <tr><td>Bösingen</td><td>2</td></tr>
 <tr><td>Chapelle (Glâne)</td><td>3</td></tr>
-<tr><td>Cheiry</td><td>3</td></tr>
 <tr><td>Cheyres-Châbles</td><td>3</td></tr>
 <tr><td>Châtel-Saint-Denis</td><td>2</td></tr>
 <tr><td>Châtel-sur-Montsalvens</td><td>3</td></tr>
@@ -822,7 +814,6 @@ Anhang I
 <tr><td>Chénens</td><td>3</td></tr>
 <tr><td>Corbières</td><td>3</td></tr>
 <tr><td>Corminboeuf</td><td>2</td></tr>
-<tr><td>Corserey</td><td>3</td></tr>
 <tr><td>Cottens (FR)</td><td>3</td></tr>
 <tr><td>Courgevaux</td><td>2</td></tr>
 <tr><td>Courtepin</td><td>2</td></tr>
@@ -833,14 +824,11 @@ Anhang I
 <tr><td>Düdingen</td><td>2</td></tr>
 <tr><td>Echarlens</td><td>2</td></tr>
 <tr><td>Ecublens (FR)</td><td>3</td></tr>
-<tr><td>Ependes (FR)</td><td>3</td></tr>
 <tr><td>Estavayer</td><td>2</td></tr>
 <tr><td>Ferpicloz</td><td>2</td></tr>
 <tr><td>Fribourg</td><td>2</td></tr>
 <tr><td>Fräschels</td><td>3</td></tr>
 <tr><td>Fétigny</td><td>3</td></tr>
-<tr><td>Galmiz</td><td>3</td></tr>
-<tr><td>Gempenach</td><td>3</td></tr>
 <tr><td>Gibloux</td><td>3</td></tr>
 <tr><td>Giffers</td><td>2</td></tr>
 <tr><td>Givisiez</td><td>2</td></tr>
@@ -861,7 +849,6 @@ Anhang I
 <tr><td>Kerzers</td><td>3</td></tr>
 <tr><td>Kleinbösingen</td><td>2</td></tr>
 <tr><td>La Brillaz</td><td>3</td></tr>
-<tr><td>La Folliaz</td><td>3</td></tr>
 <tr><td>La Roche</td><td>3</td></tr>
 <tr><td>La Sonnaz</td><td>2</td></tr>
 <tr><td>La Verrerie</td><td>3</td></tr>
@@ -886,7 +873,6 @@ Anhang I
 <tr><td>Ménières</td><td>3</td></tr>
 <tr><td>Mézières (FR)</td><td>3</td></tr>
 <tr><td>Neyruz (FR)</td><td>2</td></tr>
-<tr><td>Noréaz</td><td>3</td></tr>
 <tr><td>Nuvilly</td><td>3</td></tr>
 <tr><td>Pierrafortscha</td><td>3</td></tr>
 <tr><td>Plaffeien</td><td>3</td></tr>
@@ -894,8 +880,8 @@ Anhang I
 <tr><td>Pont-en-Ogoz</td><td>3</td></tr>
 <tr><td>Pont-la-Ville</td><td>3</td></tr>
 <tr><td>Ponthaux</td><td>3</td></tr>
-<tr><td>Prez-vers-Noréaz</td><td>3</td></tr>
 <tr><td>Prévondavaux</td><td>3</td></tr>
+<tr><td>Prez</td><td>3</td></tr>
 <tr><td>Rechthalten</td><td>3</td></tr>
 <tr><td>Remaufens</td><td>2</td></tr>
 <tr><td>Riaz</td><td>2</td></tr>
@@ -906,16 +892,14 @@ Anhang I
 <tr><td>Saint-Martin (FR)</td><td>3</td></tr>
 <tr><td>Schmitten (FR)</td><td>2</td></tr>
 <tr><td>Semsales</td><td>3</td></tr>
-<tr><td>Senèdes</td><td>3</td></tr>
 <tr><td>Siviriez</td><td>3</td></tr>
 <tr><td>Sorens</td><td>3</td></tr>
-<tr><td>St. Antoni</td><td>3</td></tr>
 <tr><td>St. Silvester</td><td>3</td></tr>
 <tr><td>St. Ursen</td><td>3</td></tr>
 <tr><td>Surpierre</td><td>3</td></tr>
 <tr><td>Sâles</td><td>3</td></tr>
 <tr><td>Sévaz</td><td>3</td></tr>
-<tr><td>Tafers</td><td>2</td></tr>
+<tr><td>Tafers</td><td>3</td></tr>
 <tr><td>Tentlingen</td><td>2</td></tr>
 <tr><td>Torny</td><td>3</td></tr>
 <tr><td>Treyvaux</td><td>2</td></tr>
@@ -925,9 +909,9 @@ Anhang I
 <tr><td>Val-de-Charmey</td><td>2</td></tr>
 <tr><td>Vallon</td><td>3</td></tr>
 <tr><td>Vaulruz</td><td>3</td></tr>
+<tr><td>Villaz</td><td>3</td></tr>
 <tr><td>Villars-sur-Glâne</td><td>2</td></tr>
 <tr><td>Villarsel-sur-Marly</td><td>3</td></tr>
-<tr><td>Villaz-Saint-Pierre</td><td>3</td></tr>
 <tr><td>Villorsonnens</td><td>3</td></tr>
 <tr><td>Vuadens</td><td>2</td></tr>
 <tr><td>Vuisternens-devant-Romont</td><td>3</td></tr>
@@ -976,7 +960,6 @@ Anhang I
 <tr><td>Gretzenbach</td><td>2</td></tr>
 <tr><td>Grindel</td><td>3</td></tr>
 <tr><td>Gunzgen</td><td>3</td></tr>
-<tr><td>Gänsbrunnen</td><td>3</td></tr>
 <tr><td>Günsberg</td><td>3</td></tr>
 <tr><td>Halten</td><td>2</td></tr>
 <tr><td>Hauenstein-Ifenthal</td><td>3</td></tr>
@@ -1026,7 +1009,6 @@ Anhang I
 <tr><td>Rickenbach (SO)</td><td>2</td></tr>
 <tr><td>Riedholz</td><td>2</td></tr>
 <tr><td>Rodersdorf</td><td>3</td></tr>
-<tr><td>Rohr (SO)</td><td>3</td></tr>
 <tr><td>Rüttenen</td><td>2</td></tr>
 <tr><td>Schnottwil</td><td>3</td></tr>
 <tr><td>Schönenwerd</td><td>2</td></tr>
@@ -1040,7 +1022,7 @@ Anhang I
 <tr><td>Unterramsern</td><td>3</td></tr>
 <tr><td>Walterswil (SO)</td><td>2</td></tr>
 <tr><td>Wangen bei Olten</td><td>2</td></tr>
-<tr><td>Welschenrohr</td><td>3</td></tr>
+<tr><td>Welschenrohr-Gänsbrunnen</td><td>3</td></tr>
 <tr><td>Winznau</td><td>2</td></tr>
 <tr><td>Wisen (SO)</td><td>3</td></tr>
 <tr><td>Witterswil</td><td>2</td></tr>
@@ -1321,7 +1303,6 @@ Anhang I
 <tr><td>Calanca</td><td>3</td></tr>
 <tr><td>Cama</td><td>3</td></tr>
 <tr><td>Castaneda</td><td>3</td></tr>
-<tr><td>Casti-Wergenstein</td><td>3</td></tr>
 <tr><td>Cazis</td><td>2</td></tr>
 <tr><td>Celerina/Schlarigna</td><td>3</td></tr>
 <tr><td>Chur</td><td>2</td></tr>
@@ -1331,7 +1312,6 @@ Anhang I
 <tr><td>Disentis/Mustér</td><td>3</td></tr>
 <tr><td>Domat/Ems</td><td>2</td></tr>
 <tr><td>Domleschg</td><td>3</td></tr>
-<tr><td>Donat</td><td>3</td></tr>
 <tr><td>Falera</td><td>3</td></tr>
 <tr><td>Felsberg</td><td>2</td></tr>
 <tr><td>Ferrera</td><td>3</td></tr>
@@ -1343,28 +1323,25 @@ Anhang I
 <tr><td>Fürstenau</td><td>3</td></tr>
 <tr><td>Grono</td><td>3</td></tr>
 <tr><td>Grüsch</td><td>3</td></tr>
-<tr><td>Haldenstein</td><td>2</td></tr>
 <tr><td>Ilanz/Glion</td><td>2</td></tr>
 <tr><td>Jenaz</td><td>3</td></tr>
 <tr><td>Jenins</td><td>3</td></tr>
-<tr><td>Klosters-Serneus</td><td>2</td></tr>
+<tr><td>Klosters</td><td>2</td></tr>
 <tr><td>Küblis</td><td>3</td></tr>
-<tr><td>La Punt-Chamues-ch</td><td>3</td></tr>
+<tr><td>La Punt Chamues-ch</td><td>3</td></tr>
 <tr><td>Laax</td><td>3</td></tr>
 <tr><td>Landquart</td><td>2</td></tr>
 <tr><td>Lantsch/Lenz</td><td>3</td></tr>
-<tr><td>Lohn (GR)</td><td>3</td></tr>
 <tr><td>Lostallo</td><td>3</td></tr>
 <tr><td>Lumnezia</td><td>3</td></tr>
 <tr><td>Luzein</td><td>3</td></tr>
 <tr><td>Madulain</td><td>3</td></tr>
 <tr><td>Maienfeld</td><td>3</td></tr>
-<tr><td>Maladers</td><td>3</td></tr>
 <tr><td>Malans</td><td>3</td></tr>
 <tr><td>Masein</td><td>3</td></tr>
-<tr><td>Mathon</td><td>3</td></tr>
 <tr><td>Medel (Lucmagn)</td><td>3</td></tr>
 <tr><td>Mesocco</td><td>3</td></tr>
+<tr><td>Muntogna da Schons</td><td>3</td></tr>
 <tr><td>Obersaxen Mundaun</td><td>3</td></tr>
 <tr><td>Pontresina</td><td>2</td></tr>
 <tr><td>Poschiavo</td><td>2</td></tr>
@@ -1427,9 +1404,7 @@ Anhang I
 <tr><td>Arni (AG)</td><td>2</td></tr>
 <tr><td>Auenstein</td><td>2</td></tr>
 <tr><td>Auw</td><td>3</td></tr>
-<tr><td>Bad Zurzach</td><td>2</td></tr>
 <tr><td>Baden</td><td>2</td></tr>
-<tr><td>Baldingen</td><td>3</td></tr>
 <tr><td>Beinwil (Freiamt)</td><td>3</td></tr>
 <tr><td>Beinwil am See</td><td>2</td></tr>
 <tr><td>Bellikon</td><td>2</td></tr>
@@ -1445,6 +1420,7 @@ Anhang I
 <tr><td>Boniswil</td><td>3</td></tr>
 <tr><td>Boswil</td><td>3</td></tr>
 <tr><td>Bottenwil</td><td>3</td></tr>
+<tr><td>Böztal</td><td>3</td></tr>
 <tr><td>Bremgarten (AG)</td><td>2</td></tr>
 <tr><td>Brittnau</td><td>2</td></tr>
 <tr><td>Brugg</td><td>2</td></tr>
@@ -1452,10 +1428,8 @@ Anhang I
 <tr><td>Buchs (AG)</td><td>2</td></tr>
 <tr><td>Burg (AG)</td><td>2</td></tr>
 <tr><td>Buttwil</td><td>3</td></tr>
-<tr><td>Böbikon</td><td>3</td></tr>
 <tr><td>Böttstein</td><td>2</td></tr>
 <tr><td>Bözberg</td><td>3</td></tr>
-<tr><td>Bözen</td><td>3</td></tr>
 <tr><td>Bünzen</td><td>2</td></tr>
 <tr><td>Büttikon</td><td>2</td></tr>
 <tr><td>Densbüren</td><td>3</td></tr>
@@ -1464,12 +1438,10 @@ Anhang I
 <tr><td>Dottikon</td><td>2</td></tr>
 <tr><td>Döttingen</td><td>2</td></tr>
 <tr><td>Dürrenäsch</td><td>3</td></tr>
-<tr><td>Effingen</td><td>3</td></tr>
 <tr><td>Eggenwil</td><td>2</td></tr>
 <tr><td>Egliswil</td><td>3</td></tr>
 <tr><td>Ehrendingen</td><td>2</td></tr>
 <tr><td>Eiken</td><td>2</td></tr>
-<tr><td>Elfingen</td><td>3</td></tr>
 <tr><td>Endingen</td><td>2</td></tr>
 <tr><td>Ennetbaden</td><td>2</td></tr>
 <tr><td>Erlinsbach (AG)</td><td>2</td></tr>
@@ -1495,13 +1467,11 @@ Anhang I
 <tr><td>Hirschthal</td><td>2</td></tr>
 <tr><td>Holderbank (AG)</td><td>2</td></tr>
 <tr><td>Holziken</td><td>2</td></tr>
-<tr><td>Hornussen</td><td>3</td></tr>
 <tr><td>Hunzenschwil</td><td>2</td></tr>
 <tr><td>Hägglingen</td><td>2</td></tr>
 <tr><td>Islisberg</td><td>3</td></tr>
 <tr><td>Jonen</td><td>2</td></tr>
 <tr><td>Kaiseraugst</td><td>2</td></tr>
-<tr><td>Kaiserstuhl</td><td>2</td></tr>
 <tr><td>Kaisten</td><td>3</td></tr>
 <tr><td>Kallern</td><td>3</td></tr>
 <tr><td>Killwangen</td><td>2</td></tr>
@@ -1558,23 +1528,19 @@ Anhang I
 <tr><td>Othmarsingen</td><td>2</td></tr>
 <tr><td>Reinach (AG)</td><td>2</td></tr>
 <tr><td>Reitnau</td><td>3</td></tr>
-<tr><td>Rekingen (AG)</td><td>3</td></tr>
 <tr><td>Remetschwil</td><td>2</td></tr>
 <tr><td>Remigen</td><td>3</td></tr>
 <tr><td>Rheinfelden</td><td>2</td></tr>
-<tr><td>Rietheim</td><td>2</td></tr>
 <tr><td>Riniken</td><td>2</td></tr>
 <tr><td>Rothrist</td><td>3</td></tr>
 <tr><td>Rottenschwil</td><td>3</td></tr>
 <tr><td>Rudolfstetten-Friedlisberg</td><td>2</td></tr>
 <tr><td>Rupperswil</td><td>2</td></tr>
 <tr><td>Rüfenach</td><td>2</td></tr>
-<tr><td>Rümikon</td><td>3</td></tr>
 <tr><td>Safenwil</td><td>2</td></tr>
 <tr><td>Sarmenstorf</td><td>3</td></tr>
 <tr><td>Schafisheim</td><td>2</td></tr>
 <tr><td>Schinznach</td><td>2</td></tr>
-<tr><td>Schinznach-Bad</td><td>2</td></tr>
 <tr><td>Schlossrued</td><td>3</td></tr>
 <tr><td>Schmiedrued</td><td>3</td></tr>
 <tr><td>Schneisingen</td><td>2</td></tr>
@@ -1617,7 +1583,6 @@ Anhang I
 <tr><td>Widen</td><td>2</td></tr>
 <tr><td>Wiliberg</td><td>3</td></tr>
 <tr><td>Windisch</td><td>2</td></tr>
-<tr><td>Wislikofen</td><td>3</td></tr>
 <tr><td>Wittnau</td><td>3</td></tr>
 <tr><td>Wohlen (AG)</td><td>2</td></tr>
 <tr><td>Wohlenschwil</td><td>2</td></tr>
@@ -1629,6 +1594,7 @@ Anhang I
 <tr><td>Zetzwil</td><td>3</td></tr>
 <tr><td>Zofingen</td><td>2</td></tr>
 <tr><td>Zufikon</td><td>2</td></tr>
+<tr><td>Zurzach</td><td>2</td></tr>
 <tr><td>Zuzgen</td><td>3</td></tr>
 </table>
 
@@ -1744,7 +1710,6 @@ Anhang I
 <tr><td>Bodio</td><td>3</td></tr>
 <tr><td>Bosco/Gurin</td><td>3</td></tr>
 <tr><td>Breggia</td><td>3</td></tr>
-<tr><td>Brione (Verzasca)</td><td>3</td></tr>
 <tr><td>Brione sopra Minusio</td><td>2</td></tr>
 <tr><td>Brissago</td><td>2</td></tr>
 <tr><td>Brusino Arsizio</td><td>3</td></tr>
@@ -1763,14 +1728,11 @@ Anhang I
 <tr><td>Coldrerio</td><td>2</td></tr>
 <tr><td>Collina d'Oro</td><td>2</td></tr>
 <tr><td>Comano</td><td>2</td></tr>
-<tr><td>Corippo</td><td>3</td></tr>
-<tr><td>Croglio</td><td>2</td></tr>
 <tr><td>Cugnasco-Gerra</td><td>2</td></tr>
 <tr><td>Cureglia</td><td>2</td></tr>
 <tr><td>Curio</td><td>2</td></tr>
 <tr><td>Dalpe</td><td>3</td></tr>
 <tr><td>Faido</td><td>3</td></tr>
-<tr><td>Frasco</td><td>3</td></tr>
 <tr><td>Gambarogno</td><td>3</td></tr>
 <tr><td>Giornico</td><td>3</td></tr>
 <tr><td>Gordola</td><td>2</td></tr>
@@ -1798,7 +1760,6 @@ Anhang I
 <tr><td>Miglieglia</td><td>3</td></tr>
 <tr><td>Minusio</td><td>2</td></tr>
 <tr><td>Monteceneri</td><td>2</td></tr>
-<tr><td>Monteggio</td><td>2</td></tr>
 <tr><td>Morbio Inferiore</td><td>2</td></tr>
 <tr><td>Morcote</td><td>3</td></tr>
 <tr><td>Muralto</td><td>2</td></tr>
@@ -1813,7 +1774,6 @@ Anhang I
 <tr><td>Personico</td><td>3</td></tr>
 <tr><td>Pollegio</td><td>3</td></tr>
 <tr><td>Ponte Capriasca</td><td>2</td></tr>
-<tr><td>Ponte Tresa</td><td>2</td></tr>
 <tr><td>Porza</td><td>2</td></tr>
 <tr><td>Prato (Leventina)</td><td>3</td></tr>
 <tr><td>Pura</td><td>2</td></tr>
@@ -1825,18 +1785,17 @@ Anhang I
 <tr><td>Sant'Antonino</td><td>2</td></tr>
 <tr><td>Savosa</td><td>2</td></tr>
 <tr><td>Serravalle</td><td>3</td></tr>
-<tr><td>Sessa</td><td>2</td></tr>
-<tr><td>Sonogno</td><td>3</td></tr>
 <tr><td>Sorengo</td><td>2</td></tr>
 <tr><td>Stabio</td><td>2</td></tr>
 <tr><td>Tenero-Contra</td><td>2</td></tr>
 <tr><td>Terre di Pedemonte</td><td>2</td></tr>
 <tr><td>Torricella-Taverne</td><td>2</td></tr>
+<tr><td>Tresa</td><td>2</td></tr>
 <tr><td>Vacallo</td><td>2</td></tr>
 <tr><td>Vernate</td><td>2</td></tr>
+<tr><td>Verzasca</td><td>3</td></tr>
 <tr><td>Vezia</td><td>2</td></tr>
 <tr><td>Vico Morcote</td><td>3</td></tr>
-<tr><td>Vogorno</td><td>3</td></tr>
 </table>
 
 ### Waadt
@@ -1847,7 +1806,6 @@ Anhang I
 <tr><td>Agiez</td><td>3</td></tr>
 <tr><td>Aigle</td><td>2</td></tr>
 <tr><td>Allaman</td><td>2</td></tr>
-<tr><td>Apples</td><td>3</td></tr>
 <tr><td>Arnex-sur-Nyon</td><td>3</td></tr>
 <tr><td>Arnex-sur-Orbe</td><td>3</td></tr>
 <tr><td>Arzier-Le Muids</td><td>2</td></tr>
@@ -1867,7 +1825,6 @@ Anhang I
 <tr><td>Bettens</td><td>3</td></tr>
 <tr><td>Bex</td><td>2</td></tr>
 <tr><td>Bioley-Magnoux</td><td>3</td></tr>
-<tr><td>Bioley-Orjulaz</td><td>3</td></tr>
 <tr><td>Bière</td><td>3</td></tr>
 <tr><td>Blonay</td><td>2</td></tr>
 <tr><td>Bofflens</td><td>3</td></tr>
@@ -1889,7 +1846,6 @@ Anhang I
 <tr><td>Bursins</td><td>2</td></tr>
 <tr><td>Burtigny</td><td>3</td></tr>
 <tr><td>Bussigny</td><td>2</td></tr>
-<tr><td>Bussy-Chardonney</td><td>3</td></tr>
 <tr><td>Bussy-sur-Moudon</td><td>3</td></tr>
 <tr><td>Chamblon</td><td>2</td></tr>
 <tr><td>Champagne</td><td>3</td></tr>
@@ -1925,8 +1881,7 @@ Anhang I
 <tr><td>Corseaux</td><td>2</td></tr>
 <tr><td>Corsier-sur-Vevey</td><td>2</td></tr>
 <tr><td>Cossonay</td><td>2</td></tr>
-<tr><td>Cottens (VD)</td><td>3</td></tr>
-<tr><td>Crans-près-Céligny</td><td>2</td></tr>
+<tr><td>Crans (VD)</td><td>2</td></tr>
 <tr><td>Crassier</td><td>2</td></tr>
 <tr><td>Crissier</td><td>2</td></tr>
 <tr><td>Cronay</td><td>3</td></tr>
@@ -1982,6 +1937,7 @@ Anhang I
 <tr><td>Grandson</td><td>2</td></tr>
 <tr><td>Grens</td><td>2</td></tr>
 <tr><td>Gryon</td><td>3</td></tr>
+<tr><td>Hautemorges</td><td>3</td></tr>
 <tr><td>Henniez</td><td>3</td></tr>
 <tr><td>Hermenches</td><td>3</td></tr>
 <tr><td>Jongny</td><td>2</td></tr>
@@ -2032,7 +1988,6 @@ Anhang I
 <tr><td>Montagny-près-Yverdon</td><td>2</td></tr>
 <tr><td>Montanaire</td><td>3</td></tr>
 <tr><td>Montcherand</td><td>3</td></tr>
-<tr><td>Montherod</td><td>3</td></tr>
 <tr><td>Montilliez</td><td>3</td></tr>
 <tr><td>Montpreveyres</td><td>3</td></tr>
 <tr><td>Montreux</td><td>2</td></tr>
@@ -2057,7 +2012,6 @@ Anhang I
 <tr><td>Orzens</td><td>3</td></tr>
 <tr><td>Oulens-sous-Echallens</td><td>3</td></tr>
 <tr><td>Pailly</td><td>3</td></tr>
-<tr><td>Pampigny</td><td>3</td></tr>
 <tr><td>Paudex</td><td>2</td></tr>
 <tr><td>Payerne</td><td>2</td></tr>
 <tr><td>Penthalaz</td><td>2</td></tr>
@@ -2078,7 +2032,6 @@ Anhang I
 <tr><td>Rances</td><td>3</td></tr>
 <tr><td>Renens (VD)</td><td>2</td></tr>
 <tr><td>Rennaz</td><td>2</td></tr>
-<tr><td>Reverolle</td><td>3</td></tr>
 <tr><td>Rivaz</td><td>2</td></tr>
 <tr><td>Roche (VD)</td><td>2</td></tr>
 <tr><td>Rolle</td><td>2</td></tr>
@@ -2111,7 +2064,6 @@ Anhang I
 <tr><td>Sullens</td><td>3</td></tr>
 <tr><td>Suscévaz</td><td>3</td></tr>
 <tr><td>Syens</td><td>3</td></tr>
-<tr><td>Sévery</td><td>3</td></tr>
 <tr><td>Tannay</td><td>2</td></tr>
 <tr><td>Tartegnin</td><td>2</td></tr>
 <tr><td>Tolochenaz</td><td>2</td></tr>
@@ -2165,7 +2117,6 @@ Anhang I
 <tr><td>Ardon</td><td>2</td></tr>
 <tr><td>Ausserberg</td><td>3</td></tr>
 <tr><td>Ayent</td><td>2</td></tr>
-<tr><td>Bagnes</td><td>2</td></tr>
 <tr><td>Baltschieder</td><td>2</td></tr>
 <tr><td>Bellwald</td><td>3</td></tr>
 <tr><td>Bettmeralp</td><td>3</td></tr>
@@ -2180,7 +2131,6 @@ Anhang I
 <tr><td>Chalais</td><td>2</td></tr>
 <tr><td>Chamoson</td><td>3</td></tr>
 <tr><td>Champéry</td><td>3</td></tr>
-<tr><td>Charrat</td><td>2</td></tr>
 <tr><td>Chippis</td><td>2</td></tr>
 <tr><td>Collombey-Muraz</td><td>2</td></tr>
 <tr><td>Collonges</td><td>3</td></tr>
@@ -2222,13 +2172,13 @@ Anhang I
 <tr><td>Martigny</td><td>2</td></tr>
 <tr><td>Martigny-Combe</td><td>2</td></tr>
 <tr><td>Massongex</td><td>2</td></tr>
-<tr><td>Miège</td><td>2</td></tr>
 <tr><td>Mont-Noble</td><td>3</td></tr>
 <tr><td>Monthey</td><td>2</td></tr>
 <tr><td>Mörel-Filet</td><td>3</td></tr>
 <tr><td>Naters</td><td>2</td></tr>
 <tr><td>Nendaz</td><td>2</td></tr>
 <tr><td>Niedergesteln</td><td>2</td></tr>
+<tr><td>Noble-Contrée</td><td>2</td></tr>
 <tr><td>Oberems</td><td>3</td></tr>
 <tr><td>Obergoms</td><td>3</td></tr>
 <tr><td>Orsières</td><td>3</td></tr>
@@ -2267,16 +2217,14 @@ Anhang I
 <tr><td>Törbel</td><td>3</td></tr>
 <tr><td>Unterbäch</td><td>3</td></tr>
 <tr><td>Val-d'Illiez</td><td>3</td></tr>
+<tr><td>Val de Bagnes</td><td>2</td></tr>
 <tr><td>Varen</td><td>3</td></tr>
-<tr><td>Venthône</td><td>2</td></tr>
 <tr><td>Vernayaz</td><td>2</td></tr>
 <tr><td>Vex</td><td>3</td></tr>
-<tr><td>Veyras</td><td>2</td></tr>
 <tr><td>Veysonnaz</td><td>3</td></tr>
 <tr><td>Vionnaz</td><td>2</td></tr>
 <tr><td>Visp</td><td>2</td></tr>
 <tr><td>Visperterminen</td><td>3</td></tr>
-<tr><td>Vollèges</td><td>3</td></tr>
 <tr><td>Vouvry</td><td>2</td></tr>
 <tr><td>Vérossaz</td><td>3</td></tr>
 <tr><td>Vétroz</td><td>2</td></tr>
@@ -2292,7 +2240,6 @@ Anhang I
 <tr><th>Gemeinde</th><th>Region</th></tr>
 <tr><td>Boudry</td><td>2</td></tr>
 <tr><td>Brot-Plamboz</td><td>3</td></tr>
-<tr><td>Corcelles-Cormondrèche</td><td>2</td></tr>
 <tr><td>Cornaux</td><td>2</td></tr>
 <tr><td>Cortaillod</td><td>2</td></tr>
 <tr><td>Cressier (NE)</td><td>2</td></tr>
@@ -2308,19 +2255,16 @@ Anhang I
 <tr><td>Le Cerneux-Péquignot</td><td>3</td></tr>
 <tr><td>Le Landeron</td><td>2</td></tr>
 <tr><td>Le Locle</td><td>2</td></tr>
-<tr><td>Les Brenets</td><td>2</td></tr>
 <tr><td>Les Planchettes</td><td>3</td></tr>
 <tr><td>Les Ponts-de-Martel</td><td>3</td></tr>
 <tr><td>Les Verrières</td><td>3</td></tr>
 <tr><td>Lignières</td><td>3</td></tr>
 <tr><td>Milvignes</td><td>2</td></tr>
 <tr><td>Neuchâtel</td><td>2</td></tr>
-<tr><td>Peseux</td><td>2</td></tr>
 <tr><td>Rochefort</td><td>3</td></tr>
 <tr><td>Saint-Blaise</td><td>2</td></tr>
 <tr><td>Val-de-Ruz</td><td>2</td></tr>
 <tr><td>Val-de-Travers</td><td>2</td></tr>
-<tr><td>Valangin</td><td>3</td></tr>
 </table>
 
 ### Genf
@@ -2377,7 +2321,7 @@ Anhang I
 ### Jura
 
 <table>
-<tr><th>Gemeinde</th><th>Région</th></tr>
+<tr><th>Gemeinde</th><th>Region</th></tr>
 <tr><td>Alle</td><td>3</td></tr>
 <tr><td>Basse-Allaine</td><td>3</td></tr>
 <tr><td>Beurnevésin</td><td>3</td></tr>
@@ -2433,8 +2377,28 @@ Anhang I
 <tr><td>Vendlincourt</td><td>3</td></tr>
 </table>
 
-Anhang 2
+Anhang 2*[^t-2]*
+
+[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 740](https://fedlex.data.admin.ch/eli/oc/2021/740)).
 
 (Art. 2)
 
 ## Höchstbeträge von Gemeinden
+
+### Basel-Stadt
+
+<table>
+<tr><td>Gemeinde</td><td>Höchstbeträge (in Franken)</td></tr>
+<tr><td>Bettingen</td><td>1 Person: 16 440 2 Personen: 19 440 3 Personen: 21 600 4 Personen und mehr: 23 520</td></tr>
+<tr><td>Riehen</td><td>1 Person: 16 440 2 Personen: 19 440 3 Personen: 21 600 4 Personen und mehr: 23 520</td></tr>
+</table>
+
+### Neuenburg
+
+<table>
+<tr><td>Gemeinde</td><td>Höchstbeträge (in Franken)</td></tr>
+<tr><td>La Chaux-de-Fonds</td><td>1 Person: 14 316 2 Personen: 17 016 3 Personen: 18 636 4 Personen und mehr: 20 256</td></tr>
+<tr><td>Le Locle</td><td>1 Person: 14 316 2 Personen: 17 016 3 Personen: 18 636 4 Personen und mehr: 20 256</td></tr>
+<tr><td>Val-de-Ruz</td><td>1 Person: 15 108 2 Personen: 17 964 3 Personen: 19 668 4 Personen: 21 384</td></tr>
+<tr><td>Val-de-Travers</td><td>1 Person: 14 316 2 Personen: 17 016 3 Personen: 18 636 4 Personen und mehr: 20 256</td></tr>
+</table>
