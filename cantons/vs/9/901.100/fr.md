@@ -3,21 +3,20 @@ canton: VS
 number: "901.100"
 title: Ordonnance sur la loi sur la politique régionale
 language: fr
-version: 2014-01-01
-corrected: 2017-10-13
-version_adopted: 2013-12-18
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-01-26
 adopted: 2009-12-09
 in_force: 2010-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/901.100"
-pdf: "https://lex.vs.ch/api/fr/versions/139/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3012/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la loi sur la politique régionale
 
-du 9 décembre 2009
+du 09.12.2009 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -33,7 +32,7 @@ sur la proposition du Département de l'économie, de l'énergie et du territoir
 
 ordonne:
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -43,13 +42,13 @@ ordonne:
 
 <sup>2</sup> Le service peut déléguer aux régions certaines tâches fixées par contrats de prestations.
 
-### Section 2: Mise en oeuvre de la politique régionale
+## 2 Mise en oeuvre de la politique régionale
 
 #### Art. 2
 
 **Surveillance**
 
-<sup>1</sup> Un contrôle périodique des engagements financiers est réalisé conformément à la loi sur la gestion et le contrôle administratifs et financiers du canton du 24 juin 1980, et à l'aide des outils de controlling disponibles au niveau du service compétent.
+<sup>1</sup> Un contrôle périodique des engagements financiers est réalisé conformément à la loi sur la gestion et le contrôle administratifs et financiers du canton du 24 juin 1980 et à l'aide des outils de controlling disponibles au niveau du service compétent.
 
 <sup>2</sup> En complément des contrôles périodiques, les régions et autres acteurs régionaux établissent pour la fin de chaque année, à l'attention du service compétent, un rapport d'activité faisant référence au contrat de prestations établi avec l'Etat.
 
@@ -66,38 +65,33 @@ ordonne:
 <sup>1</sup> Le Conseil d'Etat définit dans le cadre de la politique régionale cantonale les zones présentant des problématiques spécifiques aux zones de montagne et du milieu rural en fonction des facteurs suivants:
 
 - a) l'évolution démographique;
-
 - b) l'extensification/l'intensification de l'utilisation du sol;
-
 - c) le développement soutenu de la fiscalité et de l'infrastructure bâtie;
-
-- d) le dynamisme du secteur tertiaire
+- d) le dynamisme du secteur tertiaire.
 
 <sup>2</sup> Pour ces zones il s'agit de territoires communaux, lesquels sont mentionnés en annexe de la présente ordonnance.
 
 <sup>3</sup> Le Conseil d'Etat adapte les facteurs précédents en fonction des changements socio-économiques basés sur une période quadriennale.
 
-<sup>4</sup> Toute commune mentionnée en annexe de cette ordonnance conserve au cours de l'ensemble de la période quadriennale en cours son statut de commune à problématique spécifique des régions de montagne et du milieu rural, même si au cours de cette période elle fusionnait avec une autre commune.<sup>2</sup>
+<sup>4</sup> Toute commune mentionnée en annexe de cette ordonnance conserve au cours de l'ensemble de la période quadriennale en cours son statut de commune à problématique spécifique des régions de montagne et du milieu rural, même si au cours de cette période elle fusionnait avec une autre commune.
 
-<sup>5</sup> Toute commune qui a perdu son statut de commune à problématique spécifique des régions de montagne et du milieu rural depuis la période quadriennale précédente peut encore, sur la base d'une stratégie de développement déjà accordée, percevoir des aides financières cantonales sur la période quadriennale en cours.<sup>2</sup>
+<sup>5</sup> Toute commune qui a perdu son statut de commune à problématique spécifique des régions de montagne et du milieu rural depuis la période quadriennale précédente peut encore, sur la base d'une stratégie de développement déjà accordée, percevoir des aides financières cantonales sur la période quadriennale en cours.
 
-<sup>6</sup> En matière d'aide au logement, toute demande portant sur un projet situé dans une commune qui a perdu son statut de commune à problématique spécifique des régions de montagne et du milieu rural depuis la période quadriennale précédente est éligible pour percevoir des aides financières cantonales au cours des deux premières années de la période quadriennale en cours.<sup>2</sup>
+<sup>6</sup> En matière d'aide au logement, toute demande portant sur un projet situé dans une commune qui a perdu son statut de commune à problématique spécifique des régions de montagne et du milieu rural depuis la période quadriennale précédente est éligible pour percevoir des aides financières cantonales au cours des deux premières années de la période quadriennale en cours.
 
-### Section 3: Mesures de politique régionale cantonale et de
-
-coopération transfrontalière
+## 3 Mesures de politique régionale cantonale et de coopération transfrontalière
 
 #### Art. 4
 
 **Programme de mise en oeuvre**
 
-Les programmes régionaux sont établis par les Régions et par les autres acteurs régionaux sur la base des axes de développement et des directives du Canton.
+<sup>1</sup> Les programmes régionaux sont établis par les régions et par les autres acteurs régionaux sur la base des axes de développement et des directives du Canton.
 
 #### Art. 5
 
 **Traitement des demandes**
 
-<sup>1</sup> Les demandes de soutien financier doivent être adressées avant le début des travaux aux Régions ou aux autres acteurs régionaux. Ceux-ci sont responsables de la réception des dossiers complets conformément aux directives des services compétents.
+<sup>1</sup> Les demandes de soutien financier doivent être adressées avant le début des travaux aux régions ou aux autres acteurs régionaux. Ceux-ci sont responsables de la réception des dossiers complets conformément aux directives des services compétents.
 
 <sup>2</sup> Les régions ou les autres acteurs régionaux font une demande au service compétent.
 
@@ -111,19 +105,17 @@ Les programmes régionaux sont établis par les Régions et par les autres acteu
 
 **Subventions aux organismes de développement régional**
 
-<sup>1</sup> Au sens de l'article 12 de la Loi sur la politique régionale, les régions, ou les autres acteurs régionaux peuvent recevoir des subventions de l'Etat uniquement sur la base d'une convention de prestations établie entre les deux parties.
-
-Celles-ci peuvent se monter à un maximum de 80 pour cent du budget annuel de l'entité concernée. Ces dispositions s'appliquent par analogie aux conventions intercantonales et transfrontalières.
+<sup>1</sup> Au sens de l'article 12 de la loi sur la politique régionale du 12 décembre 2008, les régions, ou les autres acteurs régionaux peuvent recevoir des subventions de l'Etat uniquement sur la base d'une convention de prestations établie entre les deux parties. Celles-ci peuvent se monter à un maximum de 80 pour cent du budget annuel de l'entité concernée. Ces dispositions s'appliquent par analogie aux conventions intercantonales et transfrontalières.
 
 <sup>2</sup> La convention de prestations spécifie les prestations des cocontractants, y compris les conditions de paiement. Il règle également la teneur du rapport que le mandataire établit à l'attention du mandant, la durée de validité de ladite convention, ainsi que les conditions d'une possible dénonciation de la convention de prestations.
 
-<sup>3</sup> De plus les Régions ou les autres acteurs régionaux peuvent recevoir du canton des subventions pour des travaux d'étude d'intérêts régionaux ou suprarégionaux. En général, la contribution ne doit pas dépasser les 30 pour cent des coûts effectifs. Une contribution supérieure est de la compétence du Conseil d'Etat. Les demandes d'aide sont à adresser au service compétent avant le début des travaux, avec un programme détaillé des travaux, un calendrier, ainsi qu'une prévision des coûts.
+<sup>3</sup> De plus les régions ou les autres acteurs régionaux peuvent recevoir du canton des subventions pour des travaux d'étude d'intérêts régionaux ou suprarégionaux. En général, la contribution ne doit pas dépasser les 30 pour cent des coûts effectifs. Une contribution supérieure est de la compétence du Conseil d'Etat. Les demandes d'aide sont à adresser au service compétent avant le début des travaux, avec un programme détaillé des travaux, un calendrier, ainsi qu'une prévision des coûts.
 
 <sup>4</sup> Lors de l'élaboration des programmes d'agglomérations, celles-ci seront conseillées par les services du canton.
 
 <sup>5</sup> L'élaboration des programmes d'agglomérations, ainsi que les éventuels travaux de préparation et d'ajustement résultants peuvent être soutenus financièrement jusqu'à leur soumission à la Confédération.
 
-### Section 4: Prêts pour les projets d'infrastructures
+## 4 Prêts pour les projets d'infrastructures
 
 #### Art. 7
 
@@ -141,13 +133,15 @@ Celles-ci peuvent se monter à un maximum de 80 pour cent du budget annuel de l'
 
 **Mise en chantier anticipée**
 
-Lorsque le début des travaux ne peut pas être repoussé par le maître d'oeuvre, une autorisation de mise en chantier anticipée doit être obtenue auprès de la Région compétente ou des autres acteurs régionaux, avant le début des travaux. Une copie de cette autorisation est ensuite transmise au service compétent.
+<sup>1</sup> Lorsque le début des travaux ne peut pas être repoussé par le maître d'oeuvre, une autorisation de mise en chantier anticipée doit être obtenue auprès de la région compétente ou des autres acteurs régionaux, avant le début des travaux. Une copie de cette autorisation est ensuite transmise au service compétent.
 
 #### Art. 9
 
 **Délai de remboursement**
 
-Exceptionnellement, l'autorité compétente au sens de l'article 5 de la présente ordonnance peut renoncer au remboursement de prêts pendant une période maximale de cinq ans, lorsque la situation financière du demandeur l'exige. Pour cela une demande indiquant de quelle manière la situation financière se présente et quelles mesures d'amélioration de la situation doivent être entreprises est à adresser à la même autorité compétente.
+<sup>1</sup> Exceptionnellement, l'autorité compétente au sens de l'article 5 de la présente ordonnance peut renoncer au remboursement de prêts pendant une période maximale de cinq ans, lorsque la situation financière du demandeur l'exige.
+
+<sup>2</sup> Pour cela une demande indiquant de quelle manière la situation financière se présente et quelles mesures d'amélioration de la situation doivent être entreprises est à adresser à la même autorité compétente.
 
 #### Art. 10
 
@@ -161,7 +155,7 @@ Exceptionnellement, l'autorité compétente au sens de l'article 5 de la présen
 
 <sup>4</sup> Pour toute économie supérieure à 20 pour cent du devis présenté, le maître d'oeuvre est tenu de justifier cette différence. Si toutes les parties du projet ont été réalisées, et que les offres n'ont pas été exagérées, le montant accordé peut être payé. Si les parties du projet n'ont pas toutes été réalisées, si le financement du projet est excessif, ou si les offres établies ont été manifestement exagérées, le montant accordé est à réduire proportionnellement à la diminution réalisée.
 
-#### Art 11
+#### Art. 11
 
 **Participation au bénéfice**
 
@@ -179,33 +173,31 @@ Exceptionnellement, l'autorité compétente au sens de l'article 5 de la présen
 
 **Aide aux infrastructures pour l'hôtellerie**
 
-Les dispositions prévues concernant les prêts sont également valables, au niveau cantonal, pour la construction ou la rénovation d'établissements d'hébergement publics, ainsi que pour de simples cantonnements.
+<sup>1</sup> Les dispositions prévues concernant les prêts sont également valables, au niveau cantonal, pour la construction ou la rénovation d'établissements d'hébergement publics, ainsi que pour de simples cantonnements.
 
 #### Art. 13
 
 **Exonération fiscale**
 
-Les dispositions et conditions à respecter pour l'obtention d'une exonération fiscale sont réglées à l'article 238 de la loi fiscale du 10 mars 1976, et par les ordonnances y relatives.
+<sup>1</sup> Les dispositions et conditions à respecter pour l'obtention d'une exonération fiscale sont réglées à l'article 238 de la loi fiscale du 10 mars 1976 et par les ordonnances y relatives.
 
 #### Art. 14
 
 **Abaissement du prix des terrains et des immeubles**
 
-<sup>1</sup> Le montant de la subvention ne dépasse pas 50 pour cent de la prestation consentie par la collectivité de droit public. Si l'immeuble est bâti, la valeur du bâtiment entre en ligne de compte pour le calcul de la prestation consentie.[^14-1]
+<sup>1</sup> Le montant de la subvention ne dépasse pas 50 pour cent de la prestation consentie par la collectivité de droit public. Si l'immeuble est bâti, la valeur du bâtiment entre en ligne de compte pour le calcul de la prestation consentie.
 
-<sup>2</sup> S'il s'agit de terrains, la subvention n'excède pas le montant de 15 francs par mètre carré, ou 1,5 francs par mètre carré pendant dix ans pour un droit de superficie.
+<sup>2</sup> S'il s'agit de terrains, la subvention n'excède pas le montant de 15 francs par mètre carré, ou 1.5 francs par mètre carré pendant dix ans pour un droit de superficie.
 
-<sup>3</sup> Abrogé[^14-1]
+<sup>3</sup> …
 
-[^14-1]: Modification du 21.12.2011 BO No 52/2011 1.01.2012
-
-#### Art 15
+#### Art. 15
 
 **Aide au logement**
 
-<sup>1</sup> L'aide au logement peut être octroyée dans les zones qui présentent des problèmes spécifiques des zones de montagne et du milieu rural selon l'article 3 de la présente ordonnance (annexe).
+<sup>1</sup> L'aide au logement peut être octroyée dans les zones qui présentent des problèmes spécifiques des zones de montagne et du milieu rural selon l'article 3 de la présente ordonnance (annexe 1).
 
-<sup>2</sup> Des aides à fonds perdu peuvent être attribuées uniquement aux personnes physiques pour les aides au logement. Celles-ci sont versées de manière unique, et pour un montant correspondant au maximum aux dix pour cent du montant des investissements, mais au maximum 50'000 francs par dossier. En cas de soutien du projet par d'autres instances publiques, les aides à fonds perdu décrites ici sont réduites d'une valeur correspondante.
+<sup>2</sup> Des aides à fonds perdu peuvent être attribuées uniquement aux personnes physiques pour les aides au logement. Celles-ci sont versées de manière unique, et pour un montant correspondant au maximum aux dix pour cent du montant des investissements, mais au maximum 50'000 francs par dossier.
 
 <sup>3</sup> Des prêts à taux d'intérêt favorable ou sans intérêt peuvent être attribués uniquement aux personnes morales pour les aides au logement. Ceux-ci portent sur une durée maximale de 20 ans. Les dispositions et conditions d'octroi de tels prêts sont réglées à l'article 7 et suivants de la présente ordonnance.
 
@@ -225,7 +217,7 @@ Les dispositions et conditions à respecter pour l'obtention d'une exonération 
 
 <sup>3</sup> Les collectivités publiques qui mettent des terrains à disposition s'assurent que l'affectation de ceux-ci ne soit pas changée.
 
-### Section 5: Dispositions finales
+## 5 Dispositions finales
 
 #### Art. 17
 
@@ -241,106 +233,23 @@ Les dispositions et conditions à respecter pour l'obtention d'une exonération 
 
 **Entrée en vigueur**
 
-La présente ordonnance abroge le règlement du 2 septembre 1998 sur l'aide en matière d'investissements en faveur de l'équipement et le soutien financier de l'industrie et des métiers, et entre en vigueur au 1<sup>er</sup> janvier 2010.
+<sup>1</sup> La présente ordonnance abroge le règlement sur l'aide en matière d'investissements en faveur de l'équipement et le soutien financier de l'industrie et des métiers du 2 septembre 1998 et entre en vigueur au 1<sup>er</sup> janvier 2010.
 
-Ainsi adopté en Conseil d'Etat à Sion le 9 décembre 2009.
+## A1 Annexe 1 aux articles 3 alinéa 2 et 15
 
-Le président du Conseil d'Etat: Claude Roch Le chancelier d'Etat: Henri v. Roten
+#### Art. A1-1
 
-**Entrée en**
+<sup>1</sup> En qualité de zones au sens de l'article 3 alinéa 2 et de l'article 15 de l'ordonnance sont valables:
 
-### Intitulé et modifications Publication
+- a) Conches: Bellwald, Lax, Binn, Obergoms, Ernen, Goms;
+- b) Rarogne oriental: Bister, Bettmeralp;
+- c) Brigue: Simplon, Zwischbergen;
+- d) Viège: Eisten, Saas Grund, Embd, Staldenried, Randa, Törbel, Saas Almagell, Saas Balen;
+- e) Rarogne occidental: Blatten, Ferden, Eischoll, Kippel;
+- f) Loèche: Albinen, Oberems, Ergisch, Guttet-Feschel, Inden;
+- g) Herens: Evolène, Saint-Martin, Hérémence, Mont-Noble;
+- h) Martigny: Isérables, Trient;
+- i) Entremont: Bourg-Saint-Pierre, Liddes;
+- j) St-Maurice: Finhaut.
 
-vigueur BO No 51/2009
-
-## Annexe
-
-En qualité de zones au sens de l’art. 3 al. 2 et de l’art. 15 de l’ordonnance sont valables:[^hAnnexe-1]
-
-[^hAnnexe-1]: Modification du 18 décembre 2013 BO No 3/2014 01.01.14
-
-### Conches
-
-**- Münster-Geschinen - Niederwald - Obergoms - Reckingen-Gluringen**
-
-- Bellwald
-
-- Binn
-
-- Blitzingen
-
-- Ernen
-
-- Grafschaft
-
-### Rarogne oriental
-
-**- Bettmeralp**
-
-- Bister
-
-- Grengiols
-
-### Brigue
-
-**- Zwischbergen**
-
-- Simplon
-
-### Viège
-
-**- Saas Grund - Staldenried - Törbel - Visperterminen**
-
-- Eisten
-
-- Embd
-
-- Randa
-
-- Saas Almagell
-
-- Saas Balen
-
-### Rarogne occidental
-
-**- Ferden - Kippel - Unterbäch**
-
-- Blatten
-
-- Bürchen
-
-- Eischoll
-
-**1.01.2010**
-
-### Loèche
-
-**- Oberems - Guttet-Feschel**
-
-- Albinen
-
-- Ergisch
-
-### Hérens
-
-**- Saint-Martin - Mont-Noble**
-
-- Evolène
-
-- Hérémence
-
-### Martigny
-
-**- Trient**
-
-- Isérables
-
-### Entremont
-
-**- Liddes**
-
-- Bourg-St-Pierre
-
-### Saint-Maurice
-
-- Finhaut
+RCV BO/Abl. 51/2009

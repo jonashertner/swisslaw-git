@@ -3,27 +3,28 @@ canton: VS
 number: "901.100"
 title: Verordnung zum Gesetz über die Regionalpolitik
 language: de
-version: 2014-01-01
-corrected: 2017-10-13
-version_adopted: 2013-12-18
+version: 2022-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-01-26
 adopted: 2009-12-09
 in_force: 2010-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/901.100"
-pdf: "https://lex.vs.ch/api/de/versions/139/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3012/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Regionalpolitik
 
-vom 9. Dezember 2009
+vom 09.12.2009 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen die Artikel 15, 31 und 38 der Kantonsverfassung;
 
-eingesehen das Bundesgesetz über die Regionalpolitik vom 6. Oktober 2006; eingesehen Artikel 32 des Gesetztes über den Tourismus vom 9. Februar 1996;
+eingesehen das Bundesgesetz über die Regionalpolitik vom 6. Oktober 2006;
+
+eingesehen Artikel 32 des Gesetztes über den Tourismus vom 9. Februar 1996;
 
 eingesehen das kantonale Gesetz über die Regionalpolitik vom 12. Dezember 2008;
 
@@ -31,7 +32,7 @@ auf Antrag des Departements für Volkswirtschaft, Energie und Raumentwicklung,
 
 verordnet:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -41,7 +42,7 @@ verordnet:
 
 <sup>2</sup> Die Dienststelle kann gewisse Aufgaben mittels Leistungsvereinbarungen an die Regionen delegieren.
 
-### 2. Abschnitt: Umsetzung der Regionalpolitik
+## 2 Umsetzung der Regionalpolitik
 
 #### Art. 2
 
@@ -64,34 +65,27 @@ verordnet:
 <sup>1</sup> Der Staatsrat bestimmt im Rahmen der kantonalen Regionalpolitik aufgrund folgender Faktoren die Zonen, welche spezifische Problemstellungen des Berggebiets und des ländlichen Raums aufweisen:
 
 - a) demographische Entwicklung;
-
 - b) Extensivierung/Intensivierung der Bodennutzung;
-
 - c) Übermässige Entwicklung von Steuerlast und Überbauung;
-
-- d) Dynamisierung des tertiären Sektors
+- d) Dynamisierung des tertiären Sektors.
 
 <sup>2</sup> Bei diesen Zonen handelt es sich um Gemeindegebiete, welche im Anhang zu dieser Verordnung aufgeführt sind.
 
 <sup>3</sup> Der Staatsrat überprüft diese Faktoren alle vier Jahre anhand der sozioökonomischen Veränderungen.
 
-<sup>4</sup> Eine im Anhang dieser Verordnung aufgeführte Gemeinde behält während der gesamten laufenden Vierjahresperiode ihren Statuts als Gemeinde mit spezifischen Problemstellungen des Berggebietes und des ländlichen Raums, auch wenn sie während dieser Zeit mit einer anderen Gemeinde fusioniert.<sup>2</sup>
+<sup>4</sup> Eine im Anhang dieser Verordnung aufgeführte Gemeinde behält während der gesamten laufenden Vierjahresperiode ihren Statuts als Gemeinde mit spezifischen Problemstellungen des Berggebietes und des ländlichen Raums, auch wenn sie während dieser Zeit mit einer anderen Gemeinde fusioniert.
 
-<sup>5</sup> Verliert eine Gemeinde ihren Status als Gemeinde mit spezifischen Problemstellungen des Berggebietes und des ländlichen Raums, den sie in der vorangegangenen Vierjahresperiode inne hatte, kann sie auf der Grundlage einer bereits genehmigten Entwicklungsstrategie noch während der darauffolgenden Vierjahresperiode Finanzhilfen vom Kanton erhalten.<sup>2</sup>
+<sup>5</sup> Verliert eine Gemeinde ihren Status als Gemeinde mit spezifischen Problemstellungen des Berggebietes und des ländlichen Raums, den sie in der vorangegangenen Vierjahresperiode inne hatte, kann sie auf der Grundlage einer bereits genehmigten Entwicklungsstrategie noch während der darauffolgenden Vierjahresperiode Finanzhilfen vom Kanton erhalten.
 
-<sup>6</sup> Wohnbauhilfe für Projekte in einer Gemeinde, die ihren Status als Gemeinde mit spezifischen Problemstellungen des Berggebietes und des ländlichen Raums, den sie in der vorangegangenen Vierjahresperiode inne hatte, verloren hat, kann noch während den ersten beiden Jahren der laufenden Vierjahresperiode weiter gewährt werden.<sup>2</sup>
+<sup>6</sup> Wohnbauhilfe für Projekte in einer Gemeinde, die ihren Status als Gemeinde mit spezifischen Problemstellungen des Berggebietes und des ländlichen Raums, den sie in der vorangegangenen Vierjahresperiode inne hatte, verloren hat, kann noch während den ersten beiden Jahren der laufenden Vierjahresperiode weiter gewährt werden.
 
-### 3. Abschnitt: Massnahmen der kantonalen Regionalpolitik
-
-und der grenzüberschreitenden
-
-### Zusammenarbeit
+## 3 Massnahmen der kantonalen Regionalpolitik und der grenzüberschreitenden Zusammenarbeit
 
 #### Art. 4
 
 **Umsetzungsprogramme**
 
-Die Regionen und die anderen regionalen Akteuren erarbeiten auf der Basis der Handlungsschwerpunkte und nach Vorgabe des Kantons die regionalen Programme.
+<sup>1</sup> Die Regionen und die anderen regionalen Akteuren erarbeiten auf der Basis der Handlungsschwerpunkte und nach Vorgabe des Kantons die regionalen Programme.
 
 #### Art. 5
 
@@ -111,7 +105,7 @@ Die Regionen und die anderen regionalen Akteuren erarbeiten auf der Basis der Ha
 
 **Subventionen an die Organisationen der Regionalentwicklung**
 
-<sup>1</sup> Im Sinne von Artikel 12 des Gesetzes über die Regionalpolitik können die Regionen oder andere regionale Akteure nur Subventionen vom Kanton empfangen, wenn eine Leistungsvereinbarung zwischen den beiden Parteien abgeschlossen wird. Diese betragen maximal 80 Prozent des jährlichen Budgets der entsprechenden Organisation. Diese Bestimmungen finden gleichermassen Anwendung auf interkantonale und grenzüberschreitende Konventionen.
+<sup>1</sup> Im Sinne von Artikel 12 des Gesetzes über die Regionalpolitik vom 12. Dezember 2008 können die Regionen oder andere regionale Akteure nur Subventionen vom Kanton empfangen, wenn eine Leistungsvereinbarung zwischen den beiden Parteien abgeschlossen wird. Diese betragen maximal 80 Prozent des jährlichen Budgets der entsprechenden Organisation. Diese Bestimmungen finden gleichermassen Anwendung auf interkantonale und grenzüberschreitende Konventionen.
 
 <sup>2</sup> Die Leistungsvereinbarung präzisiert die von beiden Seiten zu erbringenden Leistungen und die Zahlungsmodalitäten. Zudem definiert sie die Form des Berichts zu Handen des Auftraggebers, die Gültigkeitsdauer der Leistungsvereinbarung, sowie die Modalitäten einer möglichen Auflösung der Leistungsvereinbarung.
 
@@ -121,7 +115,7 @@ Die Regionen und die anderen regionalen Akteuren erarbeiten auf der Basis der Ha
 
 <sup>5</sup> Die Erarbeitung von Agglomerationsprogrammen kann bis zu deren Einreichung beim Bund und den eventuell daraus resultierenden Anpassungs- und Vorbereitungsarbeiten finanziell unterstützt werden.
 
-### 4. Abschnitt: Darlehen für Infrastrukturvorhaben
+## 4 Darlehen für Infrastrukturvorhaben
 
 #### Art. 7
 
@@ -139,13 +133,15 @@ Die Regionen und die anderen regionalen Akteuren erarbeiten auf der Basis der Ha
 
 **Vorzeitiger Baubeginn**
 
-Kann der Arbeitsbeginn von der Bauherrschaft nicht aufgeschoben werden, muss bei der zuständigen Region oder bei den anderen regionalen Akteuren vor dem Baubeginn eine Bewilligung zum vorzeitigen Baubeginn eingeholt werden. Eine Kopie dieser Bewilligung wird anschliessend der zuständigen Dienststelle übermittelt.
+<sup>1</sup> Kann der Arbeitsbeginn von der Bauherrschaft nicht aufgeschoben werden, muss bei der zuständigen Region oder bei den anderen regionalen Akteuren vor dem Baubeginn eine Bewilligung zum vorzeitigen Baubeginn eingeholt werden. Eine Kopie dieser Bewilligung wird anschliessend der zuständigen Dienststelle übermittelt.
 
 #### Art. 9
 
 **Aufschub von Rückzahlungen**
 
-Ausnahmsweise kann die zuständige Stelle gemäss Artikel 5 dieser Verordnung während maximal fünf Jahren auf die Rückzahlung der Darlehen verzichten, wenn es die finanzielle Situation des Gesuchstellers erfordert. Hierfür ist der zuständigen Stelle ein Gesuch einzureichen, in welchem dargelegt wird, wie sich die finanzielle Situation präsentiert und welche Massnahmen zur Verbesserung dieser Situation ergriffen werden.
+<sup>1</sup> Ausnahmsweise kann die zuständige Stelle gemäss Artikel 5 dieser Verordnung während maximal fünf Jahren auf die Rückzahlung der Darlehen verzichten, wenn es die finanzielle Situation des Gesuchstellers erfordert.
+
+<sup>2</sup> Hierfür ist der zuständigen Stelle ein Gesuch einzureichen, in welchem dargelegt wird, wie sich die finanzielle Situation präsentiert und welche Massnahmen zur Verbesserung dieser Situation ergriffen werden.
 
 #### Art. 10
 
@@ -177,35 +173,33 @@ Ausnahmsweise kann die zuständige Stelle gemäss Artikel 5 dieser Verordnung w�
 
 **Hilfe bei Infrastrukturprojekte der Hotellerie**
 
-Die für Darlehen geltenden Bestimmungen finden auf kantonaler Ebene auch für den Bau oder die Erneuerung von Betriebsstätten der öffentlichen Beherbergung sowie einfachen Unterkünften ihre Anwendung.
+<sup>1</sup> Die für Darlehen geltenden Bestimmungen finden auf kantonaler Ebene auch für den Bau oder die Erneuerung von Betriebsstätten der öffentlichen Beherbergung sowie einfachen Unterkünften ihre Anwendung.
 
 #### Art. 13
 
 **Steuererleichterungen**
 
-Die Voraussetzungen und Bedingungen, um in den Genuss von Steuererleichterungen zu kommen, sind in Artikel 238 des Steuergesetzes vom 10. März 1976 und in den entsprechenden Verordnungen geregelt.
+<sup>1</sup> Die Voraussetzungen und Bedingungen, um in den Genuss von Steuererleichterungen zu kommen, sind in Artikel 238 des Steuergesetzes vom 10. März 1976 und in den entsprechenden Verordnungen geregelt.
 
 #### Art. 14
 
 **Senkung der Grundstück- und Immobilienpreise**
 
-<sup>1</sup> Der Betrag der Subvention darf 50 Prozent der erbrachten Leistung der öffentlich-rechtlichen Körperschaft nicht übersteigen. Handelt es sich um erstellte Gebäulichkeiten, wird der Wert des Gebäudes zur Berechnung der erbrachten Leistung berücksichtigt.[^14-1]
+<sup>1</sup> Der Betrag der Subvention darf 50 Prozent der erbrachten Leistung der öffentlich-rechtlichen Körperschaft nicht übersteigen. Handelt es sich um erstellte Gebäulichkeiten, wird der Wert des Gebäudes zur Berechnung der erbrachten Leistung berücksichtigt.
 
 <sup>2</sup> Handelt es sich um Boden, darf die Subvention den Betrag von 15 Franken pro Quadratmeter nicht übersteigen oder 1.50 Franken pro Quadratmeter während zehn Jahren für ein Baurecht.
 
-<sup>3</sup> Aufgehoben[^14-1]
+<sup>3</sup> …
 
-[^14-1]: Änderung vom 21.12.2011 Abl. Nr. 52/2011 1.01.2012
-
-#### Art 15
+#### Art. 15
 
 **Wohnbauhilfe**
 
-<sup>1</sup> Wohnbauhilfe kann in den Gebieten gewährt werden, welche spezifische Problemstellungen des Berggebiets und des ländlichen Raums gemäss Artikel 3 der Verordnung aufweisen (Anhang).
+<sup>1</sup> Wohnbauhilfe kann in den Gebieten gewährt werden, welche spezifische Problemstellungen des Berggebiets und des ländlichen Raums gemäss Artikel 3 der Verordnung aufweisen (Anhang 1).
 
-<sup>2</sup> A fonds perdu-Hilfen für die Wohnbauhilfe können ausschliesslich natürlichen Personen gewährt werden. Diese werden mittels einer einmaligen Zahlung vorgenommen und betragen maximal zehn Prozent der Investitionssumme, höchstens aber 50'000 Franken pro Dossier. Wird dasselbe Projekt von anderen öffentlichen Stellen unterstützt, so werden diese Hilfen angemessen berücksichtigt.
+<sup>2</sup> A fonds perdu-Hilfen für die Wohnbauhilfe können ausschliesslich natürlichen Personen gewährt werden. Diese werden mittels einer einmaligen Zahlung vorgenommen und betragen maximal zehn Prozent der Investitionssumme, höchstens aber 50'000 Franken pro Dossier.
 
-<sup>3</sup> Darlehen zu günstigen Zinssätzen oder ohne Verzinsung mit einer maximalen Laufzeit von 20 Jahren können ausschliesslich an juristische Personen ausgerichtet werden. Die Voraussetzungen und Bedingungen um in den Genuss solcher Darlehen zu kommen sind in Artikel 7 ff. dieser Verordnung geregelt.
+<sup>3</sup> Darlehen zu günstigen Zinssätzen oder ohne Verzinsung mit einer maximalen Laufzeit von 20 Jahren können ausschliesslich an juristische Personen ausgerichtet werden. Die Voraussetzungen und Bedingungen um in den Genuss solcher Darlehen zu kommen sind in Artikel 7 und folgende dieser Verordnung geregelt.
 
 <sup>4</sup> Pritoritär werden Renovations- und Sanierungsvorhaben innerhalb von alten Dorfteilen sowie Neuzuzüger unterstützt.
 
@@ -223,7 +217,7 @@ Die Voraussetzungen und Bedingungen, um in den Genuss von Steuererleichterungen 
 
 <sup>3</sup> Die öffentlichen Gemeinwesen, welche die Grundstücke zur Verfügung stellen, achten darauf, dass diese nicht zweckentfremdet werden.
 
-### 5. Abschnitt: Schlussbestimmungen
+## 5 Schlussbestimmungen
 
 #### Art. 17
 
@@ -239,104 +233,23 @@ Die Voraussetzungen und Bedingungen, um in den Genuss von Steuererleichterungen 
 
 **Inkraftsetzung**
 
-Diese Verordnung ersetzt das Reglement über Investitionshilfe zu Gunsten von Infrastrukturvorhaben und Finanzhilfen zur Industrie- und Gewerbeförderung vom 2. September 1998 und tritt am 1. Januar 2010 in Kraft.
+<sup>1</sup> Diese Verordnung ersetzt das Reglement über Investitionshilfe zu Gunsten von Infrastrukturvorhaben und Finanzhilfen zur Industrie- und Gewerbeförderung vom 2. September 1998 und tritt am 1. Januar 2010 in Kraft.
 
-So angenommen im Staatsrat zu Sitten, den 9. Dezember 2009.
+## A1 Anhang 1 zu Artikeln 3 Absatz 2 und 15
 
-Der Präsident des Staatsrates: Claude Roch Der Staatskanzler: Henri v. Roten
+#### Art. A1-1
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>1</sup> Als Gebiete im Sinne von Artikel 3 Absatz 2 und von Artikel 15 der Verordnung gelten:
 
-**1.01.2010**
+- a) Goms: Bellwald, Lax, Binn, Obergoms, Ernen, Goms;
+- b) Östlich Raron: Bister, Bettmeralp;
+- c) Brig: Simplon, Zwischbergen;
+- d) Visp: Eisten, Saas Grund, Embd, Staldenried, Randa, Törbel, Saas Almagell, Saas Balen;
+- e) Westlich Raron: Blatten, Ferden, Eischoll, Kippel;
+- f) Leuk: Albinen, Oberems, Ergisch, Guttet-Feschel, Inden;
+- g) Herens: Evolène, Saint-Martin, Hérémence, Mont-Noble;
+- h) Martigny: Isérables, Trient;
+- i) Entremont: Bourg-Saint-Pierre, Liddes;
+- j) St. Maurice: Finhaut;
 
-Abl. Nr. 51/2009
-
-## Anhang
-
-Als Gebiete im Sinne von Art. 3 Abs. 2 und Art. 15 der Verordnung gelten:[^hAnhang-1]
-
-[^hAnhang-1]: Änderung vom 18. Dezember 2013 Abl. Nr. 3/2014 01.01.14
-
-### Goms
-
-**- Münster-Geschinen - Niederwald - Obergoms - Reckingen-Gluringen**
-
-- Bellwald
-
-- Binn
-
-- Blitzingen
-
-- Ernen
-
-- Grafschaft
-
-### Östlich-Raron
-
-**- Bettmeralp**
-
-- Bister
-
-- Grengiols
-
-### Brig
-
-**- Zwischbergen**
-
-- Simplon
-
-### Visp
-
-**- Saas Grund - Staldenried - Törbel - Visperterminen**
-
-- Eisten
-
-- Embd
-
-- Randa
-
-- Saas Almagell
-
-- Saas Balen
-
-### Westlich-Raron
-
-**- Ferden - Kippel - Unterbäch**
-
-- Blatten
-
-- Bürchen
-
-- Eischoll
-
-### Leuk
-
-**- Oberems - Guttet-Feschel**
-
-- Albinen
-
-- Ergisch
-
-### Hérens
-
-**- Saint-Martin - Mont-Noble**
-
-- Evolène
-
-- Hérémence
-
-### Martigny
-
-**- Trient**
-
-- Isérables
-
-### Entremont
-
-**- Liddes**
-
-- Bourg-St-Pierre
-
-### Saint-Maurice
-
-- Finhaut
+CSW BO/Abl. 51/2009
