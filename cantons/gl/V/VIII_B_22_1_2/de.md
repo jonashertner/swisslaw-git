@@ -1,26 +1,25 @@
 ---
 canton: GL
 number: VIII B/22/1/2
-title: Statuten für den Abwasserverband Glarnerland
+title: Statuten Abwasserverband Glarnerland
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-18
+version: 2022-01-01
+version_adopted: 2021-06-22
 adopted: 2021-06-22
 in_force: 2022-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-B.22.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2158/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2298/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Statuten für den Abwasserverband Glarnerland
+# Statuten Abwasserverband Glarnerland
 
-Vom 12.06.2012 (Stand 01.01.2020)
+Vom 22.06.2021 (Stand 01.01.2022)
 
 Der Abwasserverband Glarnerland,
 
-gestützt auf Artikel 3 des Einführungsgesetzes zum Bundesgesetz über den Schutz der Gewässer[^ingress-1] sowie der Vereinbarung über Bau und Betrieb der gemeinsamen zentralen Abwasserreinigungsanlage in Bilten vom 19. Juli 1977 zwischen den Kantonen St. Gallen und Glarus[^ingress-2],
+gestützt auf Artikel 3 des Einführungsgesetzes zum Gewässerschutzgesetz[^ingress-1] sowie der Vereinbarung über Bau und Betrieb der gemeinsamen zentralen Abwasserreinigungsanlage in Bilten zwischen den Kantonen St. Gallen und Glarus[^ingress-2],
 
 erlässt:
 
@@ -39,23 +38,23 @@ erlässt:
 
 **Sitz**
 
-<sup>1</sup> Der Sitz des Verbandes befindet sich am Ort der Kläranlage in Bilten/Gemeinde Glarus Nord.
+<sup>1</sup> Der Sitz des Verbandes befindet sich am Ort der Kläranlage in Bilten, Gemeinde Glarus Nord.
 
 #### Art. 3
 
 **Zweck des Verbandes**
 
-<sup>1</sup> Der Verband bezweckt die Sammlung und Reinigung des im Einzugsgebiet des Verbandes anfallenden Abwassers sowie die Verarbeitung und Entsorgung der dabei entstehenden Abfälle. Dies wird durch den Bau, Betrieb, Unterhalt und Erneuerung der Verbandsanlagen, namentlich der Kläranlage in Bilten, der Sammelkanäle, welche für den Anschluss der Mitgliedgemeinden und wichtigen Ortsteile an die Kläranlage erforderlich sind, der Sonderbauwerke und der Verarbeitungsanlagen für Klärschlamm erreicht.
+<sup>1</sup> Der Verband bezweckt die Sammlung und Reinigung des im Einzugsgebiet des Verbandes anfallenden Abwassers sowie die Verarbeitung und Entsorgung der dabei entstehenden Abfälle. Dies wird durch den Bau, Betrieb, Unterhalt und die Erneuerung der Verbandsanlagen, namentlich der Kläranlage in Bilten, der Sammelkanäle, welche für den Anschluss der Mitgliedgemeinden und wichtigen Ortsteile an die Kläranlage erforderlich sind, der Sonderbauwerke und der Verarbeitungsanlagen für Klärschlamm, erreicht.
 
-<sup>2</sup> Der Verband kann weitere organisatorische und technische Massnahmen treffen oder unterstützen, welche geeignet sind, die Auslastung der Verbandsanlagen und die Wirtschaftlichkeit des Betriebs derselben zu fördern, zu verbessern oder zu ergänzen. Dies umfasst insbesondere die Behandlung und Verarbeitung weiterer Stoffe und Materialien in den eigenen Anlagen und die Produktion von Energie aus erneuerbaren Quellen, die Energierückgewinnung oder die Beteiligungen an öffentlich-rechtlichen Körperschaften oder privatrechtlichen Gesellschaften.
+<sup>2</sup> Der Verband kann ausserdem organisatorische und technische Massnahmen treffen oder unterstützen, welche geeignet sind, die Auslastung der Verbandsanlagen und die Wirtschaftlichkeit des Betriebs derselben zu fördern, zu verbessern oder zu ergänzen. Dies umfasst insbesondere die Behandlung und Verarbeitung weiterer Stoffe und Materialien in den eigenen Anlagen und die Produktion von Energie aus erneuerbaren Quellen, die Energierückgewinnung oder die Beteiligungen an öffentlich-rechtlichen Körperschaften oder privatrechtlichen Gesellschaften.
 
-<sup>3</sup> Nicht unter den Verbandszweck fallen Vorbehandlungsanlagen für Industrieabwasser.
+<sup>3</sup> Nicht unter den Verbandszweck fallen Vorbehandlungsanlagen für lndustrieabwasser.
 
 #### Art. 4
 
 **Sprachform**
 
-<sup>1</sup> Die in diesen Statuten verwendeten personenbezogenen Begriffe beziehen sich stets auf beide Geschlechter.
+<sup>1</sup> Die in diesen Statuten verwendeten Personen-, Funktions- und Berufsbezeichnungen sind geschlechtsneutral, soweit sich aus dem Sinn der Statuten nicht etwas anderes ergibt.
 
 ## 2. Organisation
 
@@ -65,14 +64,29 @@ erlässt:
 
 <sup>1</sup> Die Organe des Verbandes sind:
 
-- a. die Mitgliedgemeinden,
-- b. die Delegiertenversammlung,
-- c. die Vorsteherschaft,
-- d. die Revisionsstelle.
+- a. die Mitgliedergemeinden;
+- b. die Delegiertenversammlung;
+- c. die Vorsteherschaft;
+- d. die Verwaltung (Geschäftsleitung);
+- e. die Revisionsstelle.
 
-### 2.1. Delegiertenversammlung
+### 2.1. Die Mitgliedgemeinden
 
 #### Art. 6
+
+**Befugnisse**
+
+<sup>1</sup> Den Mitgliedgemeinden stehen, ausser den ihnen durch diese Statuten im Einzelnen übertragenen Befugnissen, die Beschlussfassung über neue Ausgaben und über Zusatzkredite zu, soweit sie die Ausgabenkompetenz der Delegiertenversammlung übersteigen (vgl. Art. 10 Abs. 1 Bst. e und f).
+
+#### Art. 7
+
+**Beschlussfassung**
+
+<sup>1</sup> Ein in die Befugnisse der Mitgliedgemeinden fallender Beschluss gilt als gültig zustande gekommen, wenn er die Zustimmung der zuständigen Organe von mindestens zwei Dritteln der Mitgliedgemeinden gefunden hat. Derartige Beschlüsse sind auch für die nicht zustimmenden Mitgliedgemeinden verbindlich.
+
+### 2.2. Die Delegiertenversammlung
+
+#### Art. 8
 
 **Zusammensetzung**
 
@@ -80,40 +94,37 @@ erlässt:
 
 <sup>2</sup> Jede Mitgliedgemeinde hat Anrecht auf mindestens einen Delegierten.
 
-<sup>3</sup> Die verbleibenden Delegierten werden jeweils für eine Amtsdauer (Art. 18) aufgrund der Anzahl angeschlossener Einwohner der Mitgliedsgemeinden proportional aufgeteilt.
+<sup>3</sup> Die verbleibenden Delegierten werden jeweils aufgrund der Anzahl angeschlossener Einwohner der Mitgliedgemeinden proportional aufgeteilt. Die Aufteilung erfolgt auf den Beginn jeder neuen Amtsdauer.
 
 <sup>4</sup> Neuverteilungen der Delegierten, die sich aus Zusammenschlüssen von Mitgliedgemeinden ergeben, werden jeweils auf die neue Amtsdauer vorgenommen.
 
-#### Art. 7
+#### Art. 9
 
 **Wahl der Delegierten**
 
-<sup>1</sup> Die Wahl der Mitglieder der Delegiertenversammlung erfolgt durch die zuständigen Organe der Mitgliedgemeinden.
+<sup>1</sup> Die Wahl des oder der Delegierten für die Delegiertenversammlung erfolgt durch das zuständige Organ der jeweiligen Mitgliedgemeinde.
 
-#### Art. 8
+#### Art. 10
 
 **Befugnisse**
 
 <sup>1</sup> Die Delegiertenversammlung ist zuständig für:
 
-- a. die Wahl des Präsidenten des Verbandes sowie der übrigen Mitglieder der Vorsteherschaft des Verbandes. Die Mitglieder der Vorsteherschaft müssen einer Mitgliedgemeinde angehören. Mitglieder der Delegiertenversammlung, die in die Vorsteherschaft gewählt werden, verlieren ihre Eigenschaft als Delegierte;
-- b. die Wahl des Aktuars und des Rechnungsführers des Verbandes und der Stimmenzähler; Aktuar und Rechnungsführer müssen nicht einer Mitgliedgemeinde angehören;
+- a. die Wahl des Präsidenten sowie der übrigen Mitglieder der Vorsteherschaft;
+- b. die Wahl der Stimmenzähler;
 - c. die Wahl der Revisionsstelle;
-- d. die Aufsicht über die Verwaltung des Verbandes sowie über den Bau, Unterhalt und Betrieb der Anlagen;
-- e. die Festsetzung des Voranschlages (Budget);
-- f. die Beschlussfassung über neue einmalige Ausgaben für den gleichen Zweck und für Zusatzkredite bis zum Bruttobetrag von 3 Millionen Franken;
-- g. die Beschlussfassung über neue wiederkehrende Ausgaben für den gleichen Zweck bis zum Betrag von 100’000 Franken im Jahr;
-- h. die Genehmigung der Jahresrechnung und den Bericht der Revisionsstelle;
-- i. die Genehmigung des Protokolls der Delegiertenversammlung;
-- k. die Begutachtung sämtlicher Vorlagen und Anträge an die Mitgliedgemeinden;
-- l. die Anpassung der Statuten gemäss Artikel 42 Absatz 2 und die Antragstellung über Abänderung der Statuten zuhanden der Mitgliedgemeinden;
-- m. den Erlass des Mitarbeiterreglements des Verbandes;
-- n. Beschlüsse betreffend die Genehmigung, Änderung oder Kündigung von Verträgen mit andern Körperschaften oder mit privaten Personen über die Aufgaben des Verbandes;
-- o. die Festsetzung der Berechnungsgrundlagen für den Betriebskostenverteiler;
-- p. die Festsetzung von Taggeldern, festen Vergütungen und Entschädigungen an die Mitglieder der Verbandsorgane;
-- q. jedes weitere Geschäft, das aufgrund der Gesetzgebung oder der vorliegenden Statuten der Delegiertenversammlung vorbehalten ist.
+- d. die Genehmigung des Budgets;
+- e. die Beschlussfassung über neue einmalige Ausgaben für den gleichen Zweck und für Zusatzkredite, welche 500 000 Franken überschreiten, bis zum Bruttobetrag von 3 Millionen Franken;
+- f. die Beschlussfassung über nicht budgetierte, jährlich wiederkehrende Ausgaben, welche 200 000 Franken überschreiten, bis zum Bruttobetrag von 500 000 Franken;
+- g. die Genehmigung der Jahresrechnung und des Berichts der Revisionsstelle sowie die Kenntnisnahme des Geschäftsberichts;
+- h. die Genehmigung des Protokolls der Delegiertenversammlung;
+- i. die Anträge an die Mitgliedgemeinden;
+- k. die Anpassung der Statuten gemäss Artikel 47 Absatz 2 und die Antragstellung über Abänderung der Statuten zuhanden der Mitgliedgemeinden;
+- l. Beschlüsse betreffend die Genehmigung, Änderung oder Kündigung von Verträgen mit anderen Körperschaften oder mit privaten Personen über die Aufgaben des Verbandes;
+- m. die Genehmigung des Entschädigungsreglements der Verbandsorgane;
+- n. jedes weitere Geschäft, das aufgrund der Gesetzgebung oder der vorliegenden Statuten der Delegiertenversammlung vorbehalten ist.
 
-#### Art. 9
+#### Art. 11
 
 **Einberufung**
 
@@ -125,7 +136,7 @@ erlässt:
 
 <sup>2</sup> Die Delegierten haben mindestens 14 Tage vor der Delegiertenversammlung im Besitze der Einladung und der Traktandenliste zu sein.
 
-#### Art. 10
+#### Art. 12
 
 **Beschlussfassung**
 
@@ -137,157 +148,184 @@ erlässt:
 
 <sup>4</sup> Wahlen und Abstimmungen erfolgen geheim, wenn es die Delegiertenversammlung im Einzelfall beschliesst.
 
-<sup>5</sup> Bei Wahlen und Abstimmungen entscheidet das relative Mehr. Im Falle von Stimmengleichheit entscheidet bei Wahlen das Los, und bei Abstimmungen gibt der Vorsitzende den Stichentscheid.
-
-### 2.2. Vorsteherschaft
-
-#### Art. 11
-
-**Zusammensetzung**
-
-<sup>1</sup> Die Vorsteherschaft besteht aus dem Präsidenten und sieben weiteren Mitgliedern. Die Gemeinden Weesen, Amden, Schänis und Quarten des Kantons St. Gallen haben zusammen Anspruch auf mindestens zwei Sitze.
-
-<sup>2</sup> Die Vorsteherschaft ist Ausführungs- und Vollzugsorgan.
-
-<sup>3</sup> Die Vorsteherschaft wählt aus ihrer Mitte einen Vizepräsidenten.
-
-<sup>4</sup> Aktuar, Betriebsleiter und Rechnungsführer sind zu den Sitzungen mit beratender Stimme beizuziehen.
-
-<sup>5</sup> Es steht im freien Ermessen des Vorsitzenden, zu den Sitzungen, an denen Geschäfte besonderer Art beraten werden, aussenstehende Sachverständige oder Antragsteller einzuladen. Sie haben kein Stimmrecht.
-
-#### Art. 12
-
-**Befugnisse**
-
-<sup>1</sup> Der Vorsteherschaft obliegen namentlich:
-
-- a. das Erteilen von Projektierungs- und Bauleitungsaufträgen;
-- b. die Aufsicht über die Projektierungen, deren Genehmigung sowie der Verkehr mit den Projektverfassern und den Behörden;
-- c. der freihändige oder zwangsrechtliche Erwerb von Grund und Rechten unter Vorbehalt der Genehmigung der Delegiertenversammlung;
-- d. die Vergebung von Arbeiten und Lieferungen;
-- e. die Überwachung der Bauausführung im Rahmen des Projektes und der Kredite;
-- f. die Verabschiedung der Baurechnung zuhanden der Delegiertenversammlung;
-- g. der Erlass der weiteren Reglemente und Vorschriften;
-- h. das Leiten und Überwachen des Betriebes;
-- i. das Erteilen von Bewilligungen und Festsetzen der Bedingungen für Anschlüsse gemeindeeigener Zuleitungskanäle, direkter Schmutzwasseranschlüsse Privater (Art. 28 Abs. 2) und dergleichen an die Verbandsanlagen;
-- k. die Erhebung von gerichtlichen Klagen und Erledigung derartiger Prozesse durch Abstand oder Vergleich;
-- l. die Beschlussfassung über Ausgaben ausserhalb des Voranschlages, welche die zwingende Folge von Bestimmungen dieser Statuten, besonderer Beschlüsse der Delegiertenversammlung, gesetzlicher Vorschriften oder richterlicher Urteile sind;
-- m. die Beschlussfassung über neue, einmalige Ausgaben, die im Voranschlag nicht enthalten sind und im Einzelfalle 500’000 Franken nicht übersteigen, ausgenommen Buchstabe l hievor;
-- n. die Beschlussfassung über neue, jährlich wiederkehrende Ausgaben bis 50’000 Franken im Einzelfalle, ausgenommen Besoldungen;
-- o. die Anstellung, Entschädigung und Aufsicht des Personals im Rahmen des Mitarbeiterreglements;
-- p. die Verwaltung des Verbandsvermögens;
-- q. die Ausführung der Beschlüsse der Delegiertenversammlung;
-- r. die Vorbereitung der Delegiertenversammlung und deren Geschäfte wie Voranschlag, Finanzplan, Jahresrechnung, Geschäftsbericht;
-- s. die Genehmigung der Protokolle der Vorsteherschaft.
+<sup>5</sup> Bei Wahlen und Abstimmungen entscheidet das relative Mehr. lm Falle von Stimmengleichheit entscheidet bei Wahlen das Los und bei Abstimmungen gibt der Vorsitzende den Stichentscheid.
 
 #### Art. 13
 
-**Beschlussfassung**
+**Weitere Bestimmungen**
 
-<sup>1</sup> Die Vorsteherschaft ist beschlussfähig, wenn nebst dem Vorsitzenden mindestens die Hälfte der Mitglieder anwesend sind. Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Bei Stimmengleichheit ist der Antrag angenommen, für den der Präsident gestimmt hat.
+<sup>1</sup> Der Präsident der Vorsteherschaft amtiert gleichzeitig als Vorsitzender der Delegiertenversammlung. Für die übrigen Mitglieder der Vorsteherschaft endet hingegen das Delegiertenmandat mit der Wahl in die Vorsteherschaft.
+
+### 2.3. Die Vorsteherschaft
 
 #### Art. 14
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Vorsteherschaft besteht aus dem Präsidenten und vier bis acht weiteren Mitgliedern. Die Gemeinden Glarus Süd, Glarus und Glarus Nord haben Anspruch auf mindestens je einen Sitz. Die Gemeinden Weesen, Amden, Schänis und Quarten des Kantons St. Gallen haben zusammen Anspruch auf zwei Sitze. Diese fünf Gemeindevertreter in der Vorsteherschaft müssen von den Mitgliedgemeinden nominiert werden.
+
+<sup>2</sup> Die weiteren Mitglieder der Vorsteherschaft sind frei wählbar: Die Vorsteherschaft kann diese nach den eigenen Bedürfnissen der Delegiertenversammlung zur Wahl beantragen.
+
+<sup>3</sup> Die Vorsteherschaft wählt aus ihrer Mitte einen Vizepräsidenten.
+
+<sup>4</sup> Die Vorsteherschaft wählt den Aktuar. Er nimmt an den Sitzungen der Vorsteherschaft beratend teil und hat das Recht, Anträge zu stellen. Der Aktuar hat kein Stimmrecht.
+
+<sup>5</sup> Es steht im freien Ermessen des Vorsitzenden, zu den Sitzungen Vertreter der Verwaltung und aussenstehende Sachverständige einzuladen. Sie haben kein Stimmrecht.
+
+#### Art. 15
+
+**Befugnisse und Aufgaben**
+
+<sup>1</sup> Der Vorsteherschaft obliegen folgende unübertragbare Befugnisse:
+
+- a. die strategische Leitung des Verbandes und die Aufsicht über die Verwaltung sowie über den Bau, Unterhalt und Betrieb der Anlagen;
+- b. der Erlass des Personalreglements des Verbandes;
+- c. der freihändige oder zwangsrechtliche Erwerb von Grund und Rechten;
+- d. die Beschlussfassung über Bauabrechnungen innerhalb der bewilligten Kredite. Bei Kreditüberschreitungen gilt die jeweilige Kompetenzregelung für nicht budgetierte, jährlich wiederkehrende Ausgaben;
+- e. die Festlegung der Organisation und die Gestaltung der entsprechenden Organigramme;
+- f. der Erlass des Organisationsreglements, welches die Kompetenzen und Verantwortlichkeiten der Vorsteherschaft und der Verwaltung definiert;
+- g. die Ausgestaltung des Rechnungswesens, der Finanzkontrolle und der Finanzplanung;
+- h. das Festsetzen der Bedingungen für private Direktanschlüsse an die Verbandsanlagen;
+- i. der Erlass weiterer Reglemente und Vorschriften;
+- k. die Erhebung von gerichtlichen Klagen und Erledigung derartiger Prozesse durch Abstand oder Vergleich;
+- l. die Beschlussfassung über neue einmalige Ausgaben, die im Voranschlag nicht enthalten sind, bis zum Bruttobetrag von 500 000 Franken;
+- m. die Beschlussfassung über nicht budgetierte, jährlich wiederkehrende Ausgaben bis zum Bruttobetrag von 200 000 Franken; Lohnzahlungen sind hiervon ausgenommen;
+- n. die Anstellung, Entlassung und Entlöhnung der Mitglieder der Geschäftsleitung;
+- o. die Verwaltung des Verbandsvermögens;
+- p. die Ausführung der Beschlüsse der Delegiertenversammlung;
+- q. die Vorbereitung der Delegiertenversammlung und deren Geschäfte wie Budget, Finanzplan, Jahresrechnung, Geschäftsbericht;
+- r. die Genehmigung der Protokolle der Vorsteherschaft.
+
+#### Art. 16
+
+**Beschlussfassung**
+
+<sup>1</sup> Die Vorsteherschaft ist beschlussfähig, wenn nebst dem Vorsitzenden mindestens die Hälfte der Mitglieder anwesend ist. Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Bei Stimmengleichheit ist der Antrag angenommen, für den der Präsident gestimmt hat.
+
+#### Art. 17
 
 **Zeichnungsberechtigung**
 
 <sup>1</sup> Die Vorsteherschaft vertritt den Verband nach aussen. Sie bestimmt, wer für ihn kollektiv unterzeichnet.
 
-#### Art. 15
-
-**Betriebsleitung**
-
-<sup>1</sup> Die technische Leitung der Anlage obliegt dem Betriebsleiter, dessen Aufgaben und Kompetenzen in einer Dienst- und Betriebsanweisung umschrieben sind.
-
-### 2.3. Revisionsstelle
-
-#### Art. 16
-
-**Zusammensetzung**
-
-<sup>1</sup> Die Revisionsstelle ist eine zur Revision zugelassene Treuhandgesellschaft.
-
-#### Art. 17
-
-**Aufgabe**
-
-<sup>1</sup> Die Revisionsstelle hat die Jahresrechnung zuhanden der Delegiertenversammlung auf ihre Richtigkeit und Gesetzmässigkeit zu prüfen und Antrag zu stellen.
-
-### 2.4. Gemeinsame Bestimmungen
-
 #### Art. 18
 
-**Amtsdauer**
+**Verwaltung**
 
-<sup>1</sup> Die Delegierten, die Mitglieder der Vorsteherschaft, der Aktuar, der Rechnungsführer sowie die Revisionsstelle werden für eine Amtsdauer gewählt, wie sie durch die Glarner Kantonsverfassung festgelegt ist.
+<sup>1</sup> Die operative Leitung des Verbandes obliegt der Geschäftsleitung, deren Aufgaben und Kompetenzen in einem Organisationsreglement umschrieben sind.
+
+### 2.4. Die Verwaltung (Geschäftsleitung)
 
 #### Art. 19
 
-**Ausstand**
+**Zusammensetzung**
 
-<sup>1</sup> Für die Mitglieder der Verbandsorgane gelten die Ausstandsregeln nach Artikel 77 der Glarner Kantonsverfassung und den Artikeln 13 und 14 des glarnerischen Verwaltungsrechtspflegegesetzes.
-
-## 3. Befugnisse der Mitgliedgemeinden
+<sup>1</sup> Die Geschäftsleitung besteht mindestens aus dem Geschäftsführer (GF), dem Finanzchef und einer weiteren Person. Die Vorsteherschaft kann weitere Geschäftsleitungsmitglieder ernennen.
 
 #### Art. 20
 
-**Befugnisse**
+**Aufgaben und Kompetenzen**
 
-<sup>1</sup> Den Mitgliedgemeinden stehen ausser den ihnen durch diese Statuten im Einzelnen übertragenen Befugnisse die Beschlussfassung über neue Ausgaben und über Zusatzkredite zu, soweit sie die Ausgabenkompetenz der Delegiertenversammlung übersteigen (vgl. Art. 8 Bst. f und g).
+<sup>1</sup> Die Vorsteherschaft kann folgende Befugnisse vollumfänglich oder teilweise an die Geschäftsleitung delegieren:
+
+- a. das Leiten und Überwachen des Betriebes;
+- b. das Erteilen von Projektierungs- und Bauleitungsaufträgen;
+- c. die Aufsicht über die Projektierungen, deren Genehmigung sowie der Verkehr mit den Projektverfassern und den Behörden;
+- d. die Vergabe von Arbeiten und Lieferungen;
+- e. die Überwachung der Bauausführung im Rahmen der Projekte und Kredite;
+- f. die Anstellung, Entlöhnung, Entlassung und Aufsicht des Personals im Rahmen des Personalreglements.
 
 #### Art. 21
 
 **Beschlussfassung**
 
-<sup>1</sup> Ein in die Befugnisse der Mitgliedgemeinden fallender Beschluss gilt als gültig zustande gekommen, wenn er die Zustimmung der zuständigen Organe von zwei Dritteln der Mitgliedgemeinden gefunden hat. Derartige Beschlüsse sind auch für die nicht zustimmenden Mitgliedgemeinden verbindlich.
+<sup>1</sup> Die Geschäftsleitung ist beschlussfähig, wenn nebst dem GF mindestens die Hälfte der Mitglieder anwesend sind. Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Bei Stimmengleichheit ist der Antrag angenommen, für den der GF gestimmt hat.
 
-## 4. Bau und Erneuerung der Anlagen
+### 2.5. Die Revisionsstelle
 
 #### Art. 22
 
-**Baugrundlagen**
+**Anforderungen**
 
-<sup>1</sup> Der Bau und die Erneuerung der Verbandsanlagen gemäss Artikel 3 erfolgt aufgrund eines von den Mitgliedgemeinden bzw. der Delegiertenversammlung genehmigten Projektes mit Kostenvoranschlag unter Berücksichtigung der von den Aufsichtsbehörden vorgeschriebenen Ergänzungen und Änderungen.
+<sup>1</sup> Die Revisionsstelle ist eine zur Revision zugelassene Treuhandgesellschaft.
 
 #### Art. 23
 
-**Dimensionierung des Verbandskanals**
+**Aufgabe**
 
-<sup>1</sup> Die Dimensionierung des Verbandskanals (VK), der Regenüberlaufbecken (RÜB) und der übrigen Sonderbauwerke erfolgt vor allem nach Massgabe der generellen Entwässerungspläne (GEP) der einzelnen Mitgliedgemeinden des Verbandes. Zukünftige Anschlüsse bzw. Änderungen sind mit dem GEP des Verbandes abzustimmen und die Aufnahmekapazität des Verbandskanals ist zu prüfen.
+<sup>1</sup> Die Revisionsstelle hat die Jahresrechnung auf ihre Richtigkeit zu prüfen und zuhanden der Delegiertenversammlung Antrag zu stellen.
 
-<sup>2</sup> Die Kapazität der ARA wurde anlässlich der Sanierung 1996 auf eine Trockenwetteranfallmenge (QTW) auf der ARA von 400 l/s ausgelegt. Bei Regenwetter wird der doppelte QTW behandelt.
+### 2.6. Gemeinsame Bestimmungen
 
 #### Art. 24
 
-**Kostenverteiler für die Verbandsanlagen**
+**Amtsdauer**
 
-<sup>1</sup> Die Kosten für Ausbauten, Umbauten und die Erneuerung der Verbandsanlagen werden grundsätzlich nach dem Verursacherprinzip, d.h. nach der angelieferten Abwassermenge belastet. Für stark belastetes Abwasser kann ein Zuschlag erhoben werden.
+<sup>1</sup> Die Delegierten, die Mitglieder der Vorsteherschaft, der Aktuar sowie die Revisionsstelle werden für eine Amtsdauer gewählt, wie sie durch die Glarner Kantonsverfassung[^24-1] festgelegt ist. Eine Wiederwahl ist zulässig.
 
-<sup>2</sup> Sollte die Zunahme der Beschickungsmenge einer oder mehrerer Mitgliedgemeinden den Aus- oder Umbau von Verbandsanlagen notwendig machen, ist in erster Linie das Verursacherprinzip anzuwenden. Mit dem Baubeschluss wird auch die Kostenverteilung festgelegt. Massgebend für die Beurteilung der Mehrbelastung der Abwasseranlagen ist der Durchschnitt der Abwassermenge während den vorangegangenen zehn Jahren. Die ursprünglich eingekaufte Beschickungsmenge ist als Minimum zu berücksichtigen.
+[^24-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
 
 #### Art. 25
 
-**Ausführung**
+**Ausstand**
 
-<sup>1</sup> Mit der Vergebung von Lieferungen und Arbeiten sowie dem Bau von Verbandsanlagen darf erst begonnen werden, wenn folgende Voraussetzungen erfüllt sind:
+<sup>1</sup> Für die Mitglieder der Verbandsorgane gelten die Ausstandsregeln nach Artikel 77 der Glarner Kantonsverfassung und den Artikeln 13 und 14 des glarnerischen Verwaltungsrechtspflegegesetzes[^25-1].
 
-- a. die Bewilligung des Baukredites, je nach Kreditkompetenz durch die Vorsteherschaft, die Delegierten oder die Mitgliedgemeinden;
-- b. die Genehmigung des allgemeinen Bauprojektes durch die Aufsichtsbehörde;
-- c. die Erteilung der Baubewilligung durch die zuständigen Stellen;
-- d. die Sicherstellung der Finanzierung.
-
-## 5. Betrieb der Anlage
+[^25-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
 
 #### Art. 26
 
+**Unvereinbarkeit**
+
+<sup>1</sup> Kein Mitglied eines Organs darf gleichzeitig in einem anderen Organ des Zweckverbandes tätig sein. Ausgenommen davon ist der Präsident der Vorsteherschaft, der gleichzeitig als Vorsitzender der Delegiertenversammlung amtet (Art. 13).
+
+## 3. Bau und Erneuerung der Anlagen
+
+#### Art. 27
+
+**Baugrundlagen**
+
+<sup>1</sup> Der Bau und die Erneuerungen der Verbandsanlagen gemäss Artikel 3 erfolgen aufgrund eines Projektes mit Kostenvoranschlag unter Berücksichtigung der von den Aufsichtsbehörden vorgeschriebenen Ergänzungen und Änderungen. Die Zuständigkeiten bestimmen sich nach den statutarischen Finanzkompetenzen.
+
+#### Art. 28
+
+**Dimensionierung des Verbandskanals und der Abwasserreinigungsanlage (ARA)**
+
+<sup>1</sup> Die Dimensionierung des Verbandskanals (VK), der Regenüberlaufbecken (RÜB) und der übrigen Sonderbauwerke erfolgt nach Massgabe der generellen Entwässerungspläne (GEP) der einzelnen Mitgliedgemeinden des Verbandes. Zukünftige Anschlüsse bzw. Änderungen sind mit dem GEP des Verbandes abzustimmen und die Aufnahmekapazität des Verbandskanals ist zu prüfen.
+
+<sup>2</sup> Die Kapazität der ARA ist auf eine hydraulische Belastung bei Trockenwetter (QTW) von 375 l/s respektive bei Regenwetter (Qmax) von 667 l/s ausgelegt. Dies entspricht dem Ausbauziel von 105 000 Einwohnern bis im Jahr 2040.
+
+#### Art. 29
+
+**Kostenverteiler für die Verbandsanlagen**
+
+<sup>1</sup> Die Kosten für Ausbauten, Umbauten und die Erneuerung der Verbandsanlagen werden grundsätzlich nach dem Verursacherprinzip, d. h. nach der angelieferten Abwassermenge, belastet. Für stark belastetes Abwasser kann ein Zuschlag erhoben werden.
+
+<sup>2</sup> Sollte die Zunahme der Beschickungsmenge einer oder mehrerer Mitgliedgemeinden den Aus- oder Umbau von Verbandsanlagen notwendig machen, ist das Verursacherprinzip anzuwenden. Mit dem Baubeschluss wird auch die Kostenverteilung festgelegt. Massgebend für die Beurteilung der Mehrbelastung der Abwasseranlagen ist der Durchschnitt der Abwassermenge während den vorangegangenen zehn Jahren. Die ursprünglich eingekaufte Beschickungsmenge ist als Minimum zu berücksichtigen.
+
+#### Art. 30
+
+**Ausführung**
+
+<sup>1</sup> Mit der Vergabe von Lieferungen und Arbeiten sowie dem Bau von Verbandsanlagen darf erst begonnen werden, wenn folgende Voraussetzungen erfüllt sind:
+
+- a. die Bewilligung des Baukredits durch das zuständige Verbandsorgan;
+- b. die Genehmigung des allgemeinen Bauprojektes durch die zuständigen Behörden;
+- c. die Sicherstellung der Finanzierung.
+
+## 4. Betrieb der Anlage
+
+#### Art. 31
+
 **Allgemeine Betriebsgrundsätze**
 
-<sup>1</sup> Die von den Gemeinden und den Direktanschlüssen in die Verbandsanlagen eingeleiteten Abwässer müssen den gesetzlichen Vorschriften entsprechen.
+<sup>1</sup> Das von den Gemeinden und den Direktanschlüssen in die Verbandsanlagen eingeleitete Abwasser muss den gesetzlichen Vorschriften entsprechen.
 
 <sup>2</sup> Die Anlagen sind entsprechend den eidgenössischen und kantonalen Vorschriften über den Gewässer- und Umweltschutz zu betreiben und zu unterhalten.
 
-<sup>3</sup> Alle vermeidbaren lästigen Einwirkungen auf die Umgebung müssen mittels angemessenen Massnahmen verhindert werden; insbesondere ist der Verbandskanal so zu verlegen, zu bauen, zu unterhalten und zu erneuern, dass die nutzbaren Grundwasservorkommen nicht beeinträchtigt werden.
+<sup>3</sup> Alle vermeidbaren lästigen Einwirkungen auf die Umgebung müssen mittels angemessener Massnahmen verhindert werden; insbesondere ist der Verbandskanal so zu verlegen, zu bauen, zu unterhalten und zu erneuern, dass die nutzbaren Grundwasservorkommen nicht beeinträchtigt werden.
 
-#### Art. 27
+#### Art. 32
 
 **Unterhalt der Kanalisationsnetze, Überprüfungsrecht**
 
@@ -295,63 +333,57 @@ erlässt:
 
 <sup>2</sup> Die Mitgliedgemeinden verpflichten sich, ihre Kanalisationsnetze jederzeit in fachgerechtem Zustand zu erhalten, die Fremdwassermenge zu reduzieren und Störungen, welche den Betrieb der verbandseigenen Anlagen gefährden oder beeinträchtigen können, auf eigene Kosten unverzüglich zu beheben. Der Vorsteherschaft oder den von ihr betrauten Fachleuten steht jederzeit das Recht zu, zu prüfen, ob die Gemeindekanalisation und die Abwasseranlagen der angeschlossenen Betriebe dem vorschriftsgemässen Zustand entsprechen.
 
-#### Art. 28
+#### Art. 33
 
 **Direktanschlüsse**
 
 <sup>1</sup> Neue Direktanschlüsse an die Verbandsanlagen sind nur in Ausnahmefällen möglich.
 
-<sup>2</sup> Die Vorsteherschaft erlässt dafür ein Reglement und erteilt in Ausnahmefällen eine Bewilligung an die Mitgliedgemeinde.
+<sup>2</sup> Die Direkteinleiter sind den jeweiligen Gemeindereglementen unterstellt und bezahlen die Anschlussbeiträge und Betriebsgebühren der Gemeinde.
 
-<sup>3</sup> Die Direkteinleiter sind den jeweiligen Gemeindereglementen unterstellt und bezahlen die Anschlussbeiträge und Betriebsgebühren der Gemeinde.
-
-#### Art. 29
+#### Art. 34
 
 **Haftung**
 
 <sup>1</sup> Die Mitgliedgemeinden haften für jeden Schaden an den Verbandsanlagen, welcher unmittelbar oder mittelbar infolge Missachtung von Bestimmungen dieser Statuten und der Betriebsvorschriften sowie wegen Verletzung der Sorgfaltspflicht entsteht. Der Rückgriff der Mitgliedgemeinde auf den Verursacher bleibt vorbehalten.
 
-#### Art. 30
+#### Art. 35
 
 **Verteilung der Jahreskosten, Messung der Abwassermengen**
 
-<sup>1</sup> Die Jahreskosten für die ARA und den Verbandskanal werden auf die Mitgliedgemeinden nach Massgabe der von ihnen jährlich zugeleiteten Abwassermengen inkl. Verschmutzungszuschlag verteilt.
+<sup>1</sup> Die Jahreskosten für die ARA, die Sonderbauwerke und den Verbandskanal werden auf die Mitgliedgemeinden nach Massgabe der von ihnen jährlich zugeleiteten Abwassermengen inkl. Verschmutzungszuschlag verteilt.
 
-<sup>2</sup> Als Jahreskosten gelten alle Netto-Aufwendungen des Abwasserverbandes im Rechnungsjahr für Betrieb und Unterhalt der Anlagen, für die Verwaltung sowie für den Kapitaldienst, d.h. für die Abschreibungen des Finanz- und Verwaltungsvermögens und Verzinsung der Schulden sowie Rückstellungen für die Erneuerung und Verbesserung der Verbandsanlagen.
+<sup>2</sup> Als Jahreskosten gelten alle Netto-Aufwendungen des Abwasserverbandes im Rechnungsjahr für Betrieb und Unterhalt der Anlagen, für die Verwaltung sowie für den Kapitaldienst, d. h. für die Abschreibungen des Finanz- und Verwaltungsvermögens und Verzinsung der Schulden sowie Rückstellungen für die Erneuerung und Verbesserung der Verbandsanlagen.
 
-<sup>3</sup> Die Strom- und Wasserkosten für die Sonderbauwerke (Pumpstationen / Hebeanlagen, Regenüberlaufbecken oder Messstellen) sind durch die Mitgliedgemeinden direkt zu bezahlen. Dienen derartige Hilfsanlagen mehreren Gemeinden, sind diese Kosten entsprechend den Abwassermengen aufzuteilen.
+<sup>3</sup> Die Abwassermengen werden in der Regel durch direkte Messungen ermittelt.
 
-<sup>4</sup> Die übrigen Betriebskosten für die Sonderbauwerke werden auf die Mitgliedgemeinden nach Massgabe der von ihnen jährlich zugeleiteten Abwassermengen verrechnet.
+<sup>4</sup> Die Betriebskosten für die Direktanschliesser werden der zuständigen Mitgliedgemeinde verrechnet.
 
-<sup>5</sup> Die Abwassermengen werden in der Regel durch direkte Messungen ermittelt.
+<sup>5</sup> Für die Zuleitung von besonders stark verschmutzten Abwässern kann die Vorsteherschaft die tatsächlichen Mehraufwendungen der betreffenden Mitgliedgemeinde zusätzlich belasten.
 
-<sup>6</sup> Die Betriebskosten für die Direktanschliesser werden der zuständigen Mitgliedgemeinde verrechnet.
+## 5. Rechtsverhältnisse an den Anlagen
 
-<sup>7</sup> Für die Zuleitung von besonders stark verschmutzten Abwässern kann die Vorsteherschaft die tatsächlichen Mehraufwendungen der betreffenden Mitgliedgemeinde zusätzlich belasten.
-
-## 6. Rechtsverhältnisse an den Anlagen
-
-#### Art. 31
+#### Art. 36
 
 **Verbandsanlagen**
 
 <sup>1</sup> Alle gemeinschaftlichen Anlagen stehen im Eigentum des Abwasserverbandes. Diesem stehen auch die Durchleitungsrechte zu.
 
-#### Art. 32
+#### Art. 37
 
 **Zuleitungskanäle**
 
-<sup>1</sup> Die Zuleitungskanäle der Verbandsmitglieder und von Privaten zu den Anlagen des Abwasserverbandes Glarnerland verbleiben in deren Eigentum. Sie sorgen für den Bau und Unterhalt dieser Kanäle.
+<sup>1</sup> Die Zuleitungskanäle der Gemeinden und von Privaten zu den Anlagen des Abwasserverbandes Glarnerland verbleiben in deren Eigentum. Sie sorgen für den Bau und Unterhalt dieser Kanäle.
 
-## 7. Verbandshaushalt und Rechnungswesen
+## 6. Verbandshaushalt und Rechnungswesen
 
-#### Art. 33
+#### Art. 38
 
 **Ordentliche Rechnung**
 
-<sup>1</sup> Die Betriebsrechnung ist so zu gestalten, dass sie eine klare Grundlage ist für die Zuteilung der Betriebskosten auf die Verbandsmitglieder. Zu diesem Zwecke hat die Vorsteherschaft in Zusammenarbeit mit dem Rechnungsführer einen verbindlichen Kontenplan aufzustellen, der je nach Bedürfnis durch Beschluss der Vorsteherschaft für das nächste Betriebsjahr geändert werden kann.
+<sup>1</sup> Die Betriebsrechnung ist so zu gestalten, dass sie eine klare Grundlage ist für die Zuteilung der Betriebskosten auf die Verbandsmitglieder.
 
-#### Art. 34
+#### Art. 39
 
 **Rechnungsjahr, Fälligkeit der Beiträge**
 
@@ -359,78 +391,68 @@ erlässt:
 
 <sup>2</sup> Die Mitgliedgemeinden haben die Kostenanteile quartalsweise innert 30 Tagen nach Rechnungsstellung zu bezahlen. Ab dem Verfalltag wird ein Verzugszins berechnet, der dem Zinsfuss entspricht, den die Glarner Kantonalbank für Kontokorrent-Vorschüsse an öffentlich-rechtliche Körperschaften erhebt.
 
-#### Art. 35
+#### Art. 40
 
 **Beschaffung der Geldmittel**
 
 <sup>1</sup> Die Geldmittel für die Erfüllung der Verbandsaufgaben werden vom Verband beschafft, der seinerseits die erforderlichen Bau- und Betriebskredite aufnimmt.
 
-## 8. Aufsicht und Rechtsschutz
+## 7. Aufsicht und Rechtsschutz
 
-#### Art. 36
+#### Art. 41
 
-**Interkantonale Vereinbarung**
+**lnterkantonale Vereinbarung**
 
-<sup>1</sup> Aufsicht und Rechtsschutz richten sich nach der Vereinbarung der Kantone Glarus und St. Gallen vom 19. Juli 1977 über Bau und Betrieb der gemeinsamen zentralen Abwasserreinigungsanlage Bilten.
+<sup>1</sup> Aufsicht und Rechtsschutz richten sich nach der Vereinbarung der Kantone Glarus und St. Gallen vom 19. Juli 1977 über den Bau und Betrieb der gemeinsamen zentralen Abwasserreinigungsanlage Bilten.
 
-## 9. Kündigung und Liquidation
+## 8. Kündigung und Liquidation
 
-#### Art. 37
+#### Art. 42
 
 **Austritt aus dem Verband**
 
 <sup>1</sup> Der Austritt einer Gemeinde aus dem Verband kann unter Beachtung einer Kündigungsfrist von fünf Jahren erfolgen. Die Genehmigung der jeweils zuständigen Stellen bleibt vorbehalten.
 
-#### Art. 38
+#### Art. 43
 
 **Abgeltung**
 
-<sup>1</sup> Mit dem Austritt einer Mitgliedgemeinde fällt jeder Anspruch am Verbandsvermögen dahin. Erwächst dem Verband bzw. den verbleibenden Mitgliedgemeinden aus dem Austritt einer Mitgliedgemeinde ein finanzieller Nachteil, so hat die ausscheidende Mitgliedgemeinde eine entsprechende Austrittsentschädigung zu leisten, deren Höhe im Streitfall gemäss dem Verfahren von Artikel 40 Absatz 2 dieser Statuten festgelegt wird.
+<sup>1</sup> Mit dem Austritt einer Mitgliedgemeinde fällt jeder Anspruch am Verbandsvermögen dahin. Erwächst dem Verband bzw. den verbleibenden Mitgliedgemeinden aus dem Austritt einer Mitgliedgemeinde ein finanzieller Nachteil, so hat die ausscheidende Mitgliedgemeinde eine entsprechende Austrittsentschädigung zu leisten, deren Höhe im Streitfall gemäss dem Verfahren nach Artikel 45 Absatz 2 festgelegt wird.
 
-#### Art. 39
+#### Art. 44
 
 **Auflösung des Verbandes**
 
 <sup>1</sup> Die Auflösung des Verbandes ist nur mit Zustimmung sämtlicher Mitgliedgemeinden möglich. In diesem Falle werden die Liquidationsanteile der Mitgliedgemeinden entsprechend ihrer Beteiligung an den Bau- und Anschaffungskosten festgesetzt.
 
-<sup>2</sup> Streitigkeiten über die Auflösung und die Durchführung der Liquidation werden nach Artikel 40 dieser Statuten entschieden.
+## 9. Schlussbestimmungen
 
-## 10. Schlussbestimmungen
-
-#### Art. 40
+#### Art. 45
 
 **Beitritt weiterer Gemeinden, Abschluss von Anschlussverträgen**
 
-<sup>1</sup> Der Beitritt weiterer Gemeinden oder weiterer Abwasserverbände zum Abwasserverband Glarnerland bedarf der Zustimmung der Delegiertenversammlung und der Genehmigung der entsprechend abgeänderten Statuten durch die Mitgliedgemeinden gemäss Artikel 42 sowie der zuständigen Behörden der Vertragskantone.
+<sup>1</sup> Der Beitritt weiterer Gemeinden oder weiterer Abwasserverbände zum Abwasserverband Glarnerland bedarf der Zustimmung der Delegiertenversammlung und der Genehmigung der entsprechend abgeänderten Statuten durch die Mitgliedgemeinden gemäss Artikel 47 sowie der zuständigen Behörden der Vertragskantone.
 
-<sup>2</sup> Der Verband kann jederzeit von sich aus mit anderen Gemeinden oder Körperschaften, ohne dass sie Mitglied des Verbandes werden, sogenannte Anschlussverträge abschliessen, wodurch den Anschliessenden bestimmte Nutzungsrechte an den Verbandsanlagen zugebilligt werden. Diese Verträge haben vorzusehen, dass daraus resultierende Streitigkeiten durch die ordentlichen Gerichte zu entscheiden sind, wobei der Richter erst dann gerufen werden darf, wenn eine unter Leitung des Departements Bau und Umwelt des Kantons Glarus durchgeführte Einigungsverhandlung ergebnislos verlaufen ist.
+<sup>2</sup> Der Verband kann jederzeit von sich aus mit anderen Gemeinden oder Körperschaften, ohne dass sie Mitglied des Verbandes werden, sogenannte Anschlussverträge abschliessen, wodurch den Anschliessenden bestimmte Nutzungsrechte an den Verbandsanlagen zugebilligt werden. Diese Verträge haben vorzusehen, dass daraus resultierende Streitigkeiten durch die ordentlichen Gerichte zu entscheiden sind, wobei der Richter erst dann gerufen werden darf, wenn eine unter der Leitung des Departements Bau und Umwelt des Kantons Glarus durchgeführte Einigungsverhandlung ergebnislos verlaufen ist.
 
-#### Art. 41
+#### Art. 46
 
 **Reglemente zur Siedlungsentwässerung der Gemeinden**
 
 <sup>1</sup> Die Reglemente zur Siedlungsentwässerung der Mitgliedgemeinden dürfen nichts enthalten, was den Vorschriften des Abwasserverbandes Glarnerland widerspricht.
 
-#### Art. 42
+#### Art. 47
 
 **Statutenänderungen**
 
-<sup>1</sup> Änderungen dieser Statuten bedürfen der Zustimmung von zwei Dritteln der Mitgliedgemeinden sowie der Genehmigung durch die zuständigen Behörden der Vertragskantone.
+<sup>1</sup> Änderungen dieser Statuten bedürfen der Zustimmung von mindestens zwei Dritteln der Mitgliedgemeinden sowie der Genehmigung durch die zuständigen Behörden der Vertragskantone.
 
 <sup>2</sup> Anpassungen der Statuten, die ausschliesslich durch den Zusammenschluss von Mitgliedgemeinden bedingt sind, bedürfen der Zustimmung der Delegiertenversammlung.
 
-#### Art. 43
+#### Art. 48
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Statuten treten mit der Annahme durch die zuständigen Organe der Mitgliedgemeinden sowie der Genehmigung durch die zuständigen Behörden der Vertragskantone am 1. Januar 2020 in Kraft. Sie ersetzen diejenigen vom 12. Juni 2012.
+<sup>1</sup> Diese Statuten treten mit der Annahme durch die Mitgliedgemeinden sowie der Genehmigung durch die zuständigen Behörden der Vertragskantone am 1. Januar 2022 in Kraft. Sie ersetzen die von der Delegiertenversammlung am 18. Juni 2019 beschlossenen, von sämtlichen Mitgliedgemeinden und den kantonalen Behörden genehmigten und per 1. Januar 2020 in Kraft gesetzten Statuten.
 
-#### Art. 44
-
-**Interkantonale Vereinbarung der Kantone Glarus und St. Gallen**
-
-<sup>1</sup> Diese Statuten unterstehen der Vereinbarung zwischen den Kantonen Glarus und St. Gallen vom 19. Juli 1977 über den Bau und Betrieb der gemeinsamen zentralen Abwasserreinigungsanlage in Bilten[^44-1].
-
-[^44-1]: GS[VIII B/22/1/1](https://gesetze.gl.ch/data/VIII-B.22.1.1/de)
-
-SBE 2013 02
+SBE 2022 19
