@@ -4,11 +4,11 @@ title: "Verordnung vom 21. August 2013 über die Kontrolle von Chemikalien mit z
 short: ChKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/580"
 language: de
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2013-08-21
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2013-580-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-580-20220101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/de"
 
 (Chemikalienkontrollverordnung, ChKV)
 
-vom 21. August 2013 (Stand am 1. November 2021)
+vom 21. August 2013 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -138,9 +138,9 @@ Lieferungen von und an diplomatische oder konsularische Vertretungen sowie von u
 
 <sup>1</sup> Für die Umsetzung des CWÜ[^6-1] in der Schweiz ist eine verwaltungsinterne Arbeitsgruppe mit der Bezeichnung «Nationale Behörde CWÜ» zuständig.
 
-<sup>2</sup> Die Nationale Behörde CWÜ ist nationale Kontaktstelle für die *Org**a**nisation for the Prohibit**i**on of Chemical Weapons*[^6-2] (OPCW) nach Artikel VII Absatz 4 CWÜ, für Vertragsstaaten, für Verbände sowie für Firmen, die von den Bewilligungs-, Melde- oder Inspektionspflichten des CWÜ betroffen sind.
+<sup>2</sup> Die Nationale Behörde CWÜ ist nationale Kontaktstelle für die *Organisation for the Prohibition of Chemical Weapons*[^6-2] (OPCW) nach Artikel VII Absatz 4 CWÜ, für Vertragsstaaten, für Verbände sowie für Firmen, die von den Bewilligungs-, Melde- oder Inspektionspflichten des CWÜ betroffen sind.
 
-<sup>3</sup> Sie setzt sich zudem aus Vertreterinnen und Vertretern des SECO, des Armeestabs und des Labors Spiez zusammen.
+<sup>3</sup> Sie setzt sich zudem aus Vertreterinnen und Vertretern des SECO, des Staatssekretariats für Sicherheitspolitik[^6-3], des Armeestabs und des Labors Spiez zusammen.
 
 <sup>4</sup> Die Leitung der Nationalen Behörde CWÜ obliegt der Politischen Direktion des EDA.
 
@@ -148,6 +148,7 @@ Lieferungen von und an diplomatische oder konsularische Vertretungen sowie von u
 
 [^6-1]: [SR 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
 [^6-2]: www.opcw.org
+[^6-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2024 eingefügt.
 
 ## 3. Kapitel: Verbote
 
@@ -246,7 +247,7 @@ Das Gesuch muss folgende Angaben enthalten:[^11-2]
 
 Das Gesuch nach Absatz 1 ist dem SECO spätestens 40 Tage vor der Ein- oder Ausfuhr einzureichen und muss folgende Angaben enthalten:
 
-- a. die chemische Bezeichnung mit der Nummer des *Chemical Abstract Se**r**vice* (CAS-Nummer)[^13-1] und die genaue Menge der Chemikalie;
+- a. die chemische Bezeichnung mit der Nummer des *Chemical Abstract Service* (CAS-Nummer)[^13-1] und die genaue Menge der Chemikalie;
 - b.[^13-2] Name und Adresse der Endempfängerin oder des Endempfängers;
 - c. eine detaillierte Beschreibung der vorgesehenen Verwendung der Chemikalie;
 - d. eine Bestätigung, dass die Chemikalie ausschliesslich für Forschungs- oder Schutzzwecke oder in der Medizin oder Pharmazeutik verwendet wird;
@@ -316,7 +317,7 @@ Erfolgt die Ausfuhr in einen Nichtvertragsstaat, so ist das Gesuch dem SECO zusa
 
 **Pflichten bei der Ein- und Ausfuhr[^17-1]**
 
-<sup>1</sup> Wer Chemikalien ausführt, die unter die Zolltarifkapitel[^17-2] 28–30 (Tarifnummern 3002.1100–9000), 34, 36–40 und 81 fallen und deren Ausfuhr nicht bewilligungspflichtig ist, muss auf der Ausfuhrzollanmeldung den Vermerk «bewilligungsfrei» anbringen.[^17-3]
+<sup>1</sup> Wer Chemikalien ausführt, die unter die Zolltarifkapitel[^17-2] 28–30 (Tarifnummern 3002.1200–9000), 34, 36–40 und 81 fallen und deren Ausfuhr nicht bewilligungspflichtig ist, muss auf der Ausfuhrzollanmeldung den Vermerk «bewilligungsfrei» anbringen.[^17-3]
 
 <sup>2</sup> Auf Verlangen des SECO muss jederzeit nachgewiesen werden können, dass die Ausfuhr zu Recht bewilligungsfrei erfolgt ist. Die Nachweispflicht erlischt zehn Jahre nach der Zollveranlagung.
 
@@ -324,7 +325,7 @@ Erfolgt die Ausfuhr in einen Nichtvertragsstaat, so ist das Gesuch dem SECO zusa
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^17-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
-[^17-3]: Fassung gemäss Anhang 3 Ziff. 15 der V vom 10. Juni 2016 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2017 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^17-3]: Fassung gemäss Anhang 3 Ziff. 17 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^17-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 18
@@ -780,7 +781,7 @@ Nach Artikel 15 GKG wird mit Busse bis zu 100 000 Franken bestraft, wer:[^41-1]
 
 Die Chemikalienkontrollverordnung vom 17. Oktober 2007[^42-1] wird aufgehoben.
 
-[^42-1]: [[AS 2007 5057](https://fedlex.data.admin.ch/eli/oc/2007/710), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 II 23]
+[^42-1]: [[AS 2007 5057](https://fedlex.data.admin.ch/eli/oc/2007/710); [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 II 23]
 
 #### Art. 43
 
@@ -788,11 +789,11 @@ Die Chemikalienkontrollverordnung vom 17. Oktober 2007[^42-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Oktober 2013 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 1 Abs. 2 und 3, 2 Bst. g)
 
-## Chemikalienlisten****
+## Chemikalienlisten
 
 [^annexu1-lvlu1-1]
 

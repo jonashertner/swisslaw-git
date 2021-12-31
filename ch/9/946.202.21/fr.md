@@ -4,11 +4,11 @@ title: "Ordonnance du 21 août 2013 sur le contrôle des produits chimiques util
 short: OCPCh
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/580"
 language: fr
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2013-08-21
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-580-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-580-20220101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/fr"
 
 (Ordonnance sur le contrôle des produits chimiques, OCPCh)
 
-du 21 août 2013 (Etat le 1<sup>er</sup> novembre 2021)
+du 21 août 2013 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -140,14 +140,15 @@ Les livraisons en provenance de représentations diplomatiques ou consulaires, o
 
 <sup>2</sup> L’Autorité nationale CAC est le point de contact national de l’Organisation pour l’interdiction des armes chimiques (OIAC)[^6-2] conformément à l’art. VII, par. 4, CAC, des États parties, des associations et des entreprises concernées par les obligations de la CAC en matière de permis, de déclaration ou d’inspection.
 
-<sup>3</sup> Elle compte également des représentants du SECO, de l’État-major de l’armée et du Laboratoire Spiez.
+<sup>3</sup> Elle compte également des représentants du SECO, du Secrétariat d’État à la politique de sécurité[^6-3], de l’État-major de l’armée et du Laboratoire Spiez.
 
 <sup>4</sup> La direction de l’Autorité nationale CAC est assurée par la Direction politique du DFAE.
 
 <sup>5</sup> Les membres du groupe de travail se réunissent au moins une fois par an.
 
 [^6-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^6-2]: www.opcw.org
+[^6-2]: [www.opcw.org](http://www.opcw.org)
+[^6-3]: La dénomination de l’unité administrative a été introduite au 1<sup>er</sup> janv. 2024 en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
 ## Chapitre 3 Interdictions
 
@@ -254,7 +255,7 @@ La demande visée à l’al. 1 doit être présentée au SECO au plus tard 40 jo
 
 <sup>4</sup> En cas d’exportation, l’exportateur doit faire certifier les indications visées à l’al. 3 par l’État destinataire.
 
-[^13-1]: Numéro attribué par le *Chemical Abstract Service* (www.cas.org) pour identifier les substances.
+[^13-1]: Numéro attribué par le *Chemical Abstract Service* ([www.cas.org](http://www.cas.org)) pour identifier les substances.
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 14
@@ -316,7 +317,7 @@ En cas d’exportation vers un État non partie, la demande doit être présent�
 
 **Obligations à l’importation et à l’exportation[^17-1]**
 
-<sup>1</sup> Quiconque exporte des produits chimiques relevant des chap. 28 à 30 (n<sup>os</sup> 3002.1100–9000 du tarif), 34, 36 à 40 et 81 du tarif des douanes[^17-2] et dont l’exportation ne requiert pas de permis est tenu de faire figurer la mention «exempt de permis» dans la déclaration d’exportation.[^17-3]
+<sup>1</sup> Quiconque exporte des produits chimiques relevant des chap. 28 à 30 (n<sup>os</sup> 3002.1200–9000 du tarif), 34, 36 à 40 et 81 du tarif des douanes[^17-2] et dont l’exportation ne requiert pas de permis est tenu de faire figurer la mention «exempt de permis» dans la déclaration d’exportation.[^17-3]
 
 <sup>2</sup> Sur demande du SECO, il doit pouvoir être prouvé à tout moment que l’exportation sans permis a eu lieu conformément au droit. L’obligation de fournir cette preuve expire dix ans après le placement sous régime douanier.
 
@@ -324,7 +325,7 @@ En cas d’exportation vers un État non partie, la demande doit être présent�
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^17-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
-[^17-3]: Nouvelle teneur selon le ch. 15 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^17-3]: Nouvelle teneur selon l’annexe 3 ch. 17 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^17-4]: Introduit par le ch. I de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 18
@@ -788,11 +789,11 @@ L’ordonnance du 17 octobre 2007 sur le contrôle des produits chimiques[^42-1]
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2013.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1, al. 2 et 3, et 2, let. g)
 
-## Tableaux de produits chimiques****
+## Tableaux de produits chimiques
 
 [^annexu1-lvlu1-1]
 

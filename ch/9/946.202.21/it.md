@@ -4,11 +4,11 @@ title: "Ordinanza del 21 agosto 2013 sul controllo dei composti chimici utilizza
 short: OCCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/580"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2013-08-21
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2013-580-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/580/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-580-20220101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/580/20211101/it"
 
 (Ordinanza sul controllo dei composti chimici, OCCC)
 
-del 21 agosto 2013 (Stato 1° novembre 2021)
+del 21 agosto 2013 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ visti gli articoli 4, 11 e 22 capoverso 1 della legge del 13 dicembre 1996[^ingr
 ordina:
 
 [^ingress-1]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -49,7 +49,7 @@ ordina:
 Nella presente ordinanza si intende per:
 
 - a.[^2-1] *produzione**:* formazione di un composto chimico mediante una reazione chimica oppure un processo biochimico o biologico;
-- b. *lavorazione*: processo fisico, come la formulazione, l’estrazione o la purificazione, in cui un composto chimico non è trasformato in un altro composto chimico;
+- b. *lavorazione**:* processo fisico, come la formulazione, l’estrazione o la purificazione, in cui un composto chimico non è trasformato in un altro composto chimico;
 - c.[^2-2] *consumo:* trasformazione di un composto chimico in un altro composto chimico mediante una reazione chimica oppure un processo biochimico o biologico;
 - d. *sito d’impianti:* più impianti situati nel medesimo luogo;
 - e. *impianto:* settore autonomo comprendente una o più unità;
@@ -66,17 +66,17 @@ Nella presente ordinanza si intende per:
 - i.[^2-4] *sottoprodotto inevitabile:* composto chimico che si è formato per effetto di una reazione chimica oppure di un processo biochimico o biologico, in mancanza di un adeguato procedimento alternativo;
 - j. *Stato contraente:* Stato che ha ratificato la CAC[^2-5];
 - k.[^2-6] *Paese di origine*: Paese in cui un composto chimico è stato interamente ottenuto o prodotto oppure ha subito l’ultima lavorazione o trasformazione sufficiente;
-- l.[^2-7] *Paese di provenienza*: Paese in cui è avvenuto l’ultimo sdoganamento di un composto chimico Paese in cui un composto chimico è stato sdoganato l’ultima volta prima di essere inviato nel territorio doganale svizzero o in una enclave doganale svizzera;
+- l.[^2-7] *Paese di provenienza*: Paese in cui un composto chimico è stato sdoganato l’ultima volta prima di essere inviato nel territorio doganale svizzero o in una enclave doganale svizzera;
 - m.[^2-8] *Paese di destinazione*: Paese in cui è previsto che un composto chimico venga impiegato secondo la sua finalità d’uso, lavorato, perfezionato o trasformato in altro modo.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^2-5]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^2-6]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^2-7]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^2-8]: Introdotta dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-6]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-7]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^2-8]: Introdotta dalla cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 3
 
@@ -94,7 +94,7 @@ Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzaz
 
 <sup>2</sup> A fini di consulenza tecnica, la SECO può consultare altre unità della Confederazione, segnatamente il Laboratorio Spiez, nonché associazioni di categoria, organizzazioni specializzate e periti. Il personale delle associazioni di categoria e delle organizzazioni specializzate nonché i periti sono tenuti al segreto d’ufficio ai sensi dell’articolo 320 del Codice penale[^4-2].
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^4-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 4a
@@ -107,7 +107,7 @@ Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzaz
 
 <sup>3</sup> In presenza di un indizio di motivo di rifiuto, la SECO decide sul rilascio di un’autorizzazione d’intesa con le unità competenti del Dipartimento federale degli affari esteri (DFAE), del Dipartimento federale della difesa, della protezione della popolazione e dello sport e del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni, dopo aver sentito il Servizio delle attività informative della Confederazione (SIC). In mancanza di accordo, decide il Consiglio federale su proposta del DEFR.
 
-[^4a-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 4b
 
@@ -119,7 +119,7 @@ Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzaz
 
 <sup>3</sup> La SECO informa il SIC sulle autorizzazioni rilasciate.
 
-[^4b-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^4b-1]: Introdotto dalla cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 5
 
@@ -130,7 +130,7 @@ Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzaz
 <sup>2</sup> Il Laboratorio Spiez fornisce i moduli necessari.[^5-2]
 
 [^5-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^5-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 6
 
@@ -140,7 +140,7 @@ Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzaz
 
 <sup>2</sup> L’Autorità nazionale CAC è il corrispondente nazionale per l’Organizzazione per la proibizione delle armi chimiche[^6-2] (OPAC) secondo l’articolo VII paragrafo 4 CAC, per gli Stati contraenti, per le associazioni nonché per le ditte soggette ad obblighi di autorizzazione, dichiarazione o ispezione ai sensi della CAC.
 
-<sup>3</sup> L’Autorità nazionale CAC è formata da rappresentanti della SECO, dello Stato maggiore dell’esercito e del Laboratorio Spiez.
+<sup>3</sup> L’Autorità nazionale CAC è formata da rappresentanti della SECO, della Segreteria di Stato della politica di sicurezza[^6-3], dello Stato maggiore dell’esercito e del Laboratorio Spiez.
 
 <sup>4</sup> La direzione dell’Autorità nazionale CAC spetta alla Direzione politica del DFAE.
 
@@ -148,6 +148,7 @@ Le forniture da e per rappresentanze diplomatiche o consolari nonché organizzaz
 
 [^6-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
 [^6-2]: www.opcw.org
+[^6-3]: La designazione dell’unità amministrativa è stata introdotta in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2024.
 
 ## Capitolo 3: Divieti
 
@@ -218,11 +219,11 @@ La domanda deve contenere le indicazioni seguenti:[^11-2]
 
 <sup>4</sup> ...[^11-5]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^11-3]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^11-4]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^11-5]: Introdotto dal n. I dell’O del 28 gen. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)). Abrogato dal n. I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-3]: Introdotto dalla cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-4]: Introdotto dalla cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^11-5]: Introdotto dalla cifra I dell’O del 28 gen. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)). Abrogato dalla cifra I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 12
 
@@ -254,8 +255,8 @@ La domanda ai sensi del capoverso 1 va inoltrata alla SECO almeno 40 giorni prim
 
 <sup>4</sup> In caso di esportazione l’esportatore è tenuto a far certificare dal Paese di destinazione le indicazioni di cui al capoverso 3.
 
-[^13-1]: Si tratta del numero di identificazione delle sostanze stabilito dal *Chemical Abstract Service* (www.cas.org).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^13-1]: Si tratta del numero di identificazione delle sostanze stabilito dal *Chemical Abstract* *Service* (www.cas.org).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 14
 
@@ -273,7 +274,7 @@ L’esportazione di composti chimici della tabella 2 è soggetta ad autorizzazio
 
 <sup>3</sup> La SECO può chiedere la conferma al richiedente che il composto chimico non sarà riesportato.
 
-[^14-1]: Abrogato dal n. I dell’O del 28 gen. 2015, con effetto dal 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^14-1]: Abrogato dalla cifra I dell’O del 28 gen. 2015, con effetto dal 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
 
 #### Art. 15
 
@@ -298,11 +299,11 @@ Se l’esportazione è destinata a uno Stato non contraente, la domanda va inolt
 
 <sup>3</sup> ... [^15-5]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
-[^15-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^15-3]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^15-4]: Introdotta dal n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
-[^15-5]: Abrogato dal n. I dell’O del 28 gen. 2015, con effetto dal 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-4]: Introdotta dalla cifra I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^15-5]: Abrogato dalla cifra I dell’O del 28 gen. 2015, con effetto dal 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
 
 #### Art. 16
 
@@ -316,16 +317,16 @@ Se l’esportazione è destinata a uno Stato non contraente, la domanda va inolt
 
 **Obblighi al momento dell’importazione e dell’esportazione[^17-1]**
 
-<sup>1</sup> Chi esporta composti chimici figuranti nei capitoli 28–30 (voci di tariffa 3002.1100–9000), 34, 36–40 e 81 della tariffa doganale[^17-2] non soggetti ad autorizzazione di esportazione è tenuto ad apporre la menzione «esente da autorizzazione» sulla dichiarazione di esportazione.[^17-3]
+<sup>1</sup> Chi esporta composti chimici figuranti nei capitoli 28–30 (voci di tariffa 3002.1200–9000), 34, 36–40 e 81 della tariffa doganale[^17-2] non soggetti ad autorizzazione di esportazione è tenuto ad apporre la menzione «esente da autorizzazione» sulla dichiarazione di esportazione.[^17-3]
 
 <sup>2</sup> Su richiesta della SECO, l’esportatore deve poter provare in qualsiasi momento la regolarità dell’esportazione in esenzione da autorizzazione. L’obbligo della prova cessa dieci anni dopo l’imposizione doganale.
 
 <sup>3</sup> Chiunque importa o esporta merci con un’autorizzazione deve indicare nella dichiarazione doganale il tipo di autorizzazione, l’autorità preposta all’autorizzazione e il numero dell’autorizzazione.[^17-4]
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^17-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
-[^17-3]: Nuovo testo giusta l’all. 3 n. 15 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
-[^17-4]: Introdotto dal I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-3]: Nuovo testo giusta l’all. 3 n. 17 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^17-4]: Introdotto dalla cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 18
 
@@ -342,8 +343,8 @@ Se l’esportazione è destinata a uno Stato non contraente, la domanda va inolt
 <sup>5</sup> L’uscita da un deposito doganale aperto, da un deposito di merci di gran consumo o da un deposito franco doganale è equiparata al transito.
 
 [^18-1]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^18-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^18-3]: Abrogato dal n. I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^18-3]: Abrogato dalla cifra I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### Sezione 3: Procedura
 
@@ -351,13 +352,13 @@ Se l’esportazione è destinata a uno Stato non contraente, la domanda va inolt
 
 **Certificati del Paese di destinazione[^19-1]**
 
-<sup>1</sup> ... [^19-2]
+<sup>1</sup> ...[^19-2]
 
 <sup>2</sup> I certificati del Paese di destinazione di cui agli articoli 13 capoverso 4 e 15 capoverso 2 possono essere redatti in tedesco, francese, italiano o in inglese. Le traduzioni da altre lingue devono essere autenticate.[^19-3]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^19-2]: Abrogato dal n. I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^19-3]: Nuovo testo giusta il n. I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19-2]: Abrogato dalla cifra I dell’O del 17 set. 2021, con effetto dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19-3]: Nuovo testo giusta la cifra I dell’O del 28 gen. 2015, in vigore il 1° mar. 2015 ([RU 2015 517](https://fedlex.data.admin.ch/eli/oc/2015/72)).
 
 #### Art. 19a
 
@@ -369,7 +370,7 @@ Se l’esportazione è destinata a uno Stato non contraente, la domanda va inolt
 
 <sup>3</sup> I permessi generali d’esportazione (PG) sono rilasciati soltanto a persone giuridiche iscritte al registro di commercio svizzero o del Liechtenstein. Questa condizione non si applica alle scuole universitarie e alle istituzioni pubbliche.
 
-[^19a-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^19a-1]: Introdotto dalla cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 20
 
@@ -388,7 +389,7 @@ Un PG non viene rilasciato se la persona giuridica richiedente o i membri degli 
 - e. alla legge federale del 21 marzo 2003[^20-5] sull’energia nucleare;
 - f. alla legge federale del 25 giugno 1982[^20-6] sulle misure economiche esterne.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^20-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
 [^20-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^20-4]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
@@ -414,7 +415,7 @@ La SECO revoca l’autorizzazione se:
 - a non sussistono più i presupposti per il rilascio;
 - b. le condizioni e gli oneri vincolati all’autorizzazione non sono adempiuti.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^21-2]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 
 #### Art. 22
@@ -436,7 +437,7 @@ La SECO revoca il permesso se:
 - a non sussistono più i presupposti per il rilascio;
 - b. le condizioni e gli oneri ad esso vincolati non sono adempiuti.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 23
 
@@ -447,7 +448,7 @@ Un PG può essere rilasciato se i composti chimici sono destinati a un destinata
 - a. l’attività del destinatario finale è compatibile con la CAC; e
 - b. svolge in modo regolamentare le sue attività transfrontaliere.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^23-2]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
 
 #### Art. 24
@@ -478,7 +479,7 @@ Il Laboratorio Spiez e il titolare di un’autorizzazione ai sensi dell’artico
 
 <sup>2</sup> Le modifiche dell’unità previste vanno dichiarate al Laboratorio Spiez almeno 200 giorni prima della loro realizzazione.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 26
 
@@ -510,7 +511,7 @@ Le dichiarazioni devono contenere le indicazioni seguenti:
 
 <sup>4</sup> Se dopo l’inoltro della dichiarazione ai sensi del capoverso 2 lettera b si pianifica un’attività supplementare, quest’ultima va dichiarata almeno dieci giorni prima del suo inizio.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 27
 
@@ -556,7 +557,7 @@ Le dichiarazioni devono contenere le indicazioni seguenti:
 
 <sup>4</sup> Se dopo l’inoltro della dichiarazione ai sensi del capoverso 2 lettera b si pianifica un’attività supplementare, quest’ultima va dichiarata almeno dieci giorni prima del suo inizio.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 29
 
@@ -593,8 +594,8 @@ Le dichiarazioni devono contenere le indicazioni seguenti:
 - c. la sua esatta ubicazione con l’indirizzo;
 - d. la denominazione della ditta che lo gestisce.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### Sezione 2: Importazione ed esportazione
 
@@ -606,7 +607,7 @@ Le dichiarazioni devono contenere le indicazioni seguenti:
 
 <sup>2</sup> Per le miscele va indicata la quantità presente di composto chimico soggetto ad autorizzazione.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 #### Art. 32
 
@@ -632,8 +633,8 @@ All’inizio dell’anno è tenuto a dichiarare al Laboratorio Spiez i quantitat
 
 <sup>3</sup> L’obbligo di dichiarazione delle miscele di composti chimici delle tabelle 2 e 3 si applica alle soglie di concentrazione di cui all’articolo 27 o 29. Per queste miscele va indicato il peso effettivo del composto chimico soggetto ad autorizzazione.[^32-2]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
-[^32-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^32-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ### Sezione 3: Misure di protezione
 
@@ -650,7 +651,7 @@ Non sono da dichiarare gli agenti che come componenti attivi contengono unicamen
 - a. CS, o-clorobenzilidenemalodinitrile, n. CAS 2698-41-1;
 - b. CN, ω-cloroacetofenone, n. CAS 532-27-4;
 - c. capsaicina, n. CAS 404-86-4;
-- d. capsaicina sintetica, vanillilammide dell’acido pelargonico, n. CAS 2444-46-4.
+- d. capsaicina sintetica, vanillilammide dell’acido pelargonico, n. CAS 2444-46‑4.
 
 #### Art. 34
 
@@ -770,7 +771,7 @@ Secondo l’articolo 15 LBDI è punito con la multa fino a 100 000 franchi chiun
 - a intenzionalmente o per negligenza trasgredisce gli obblighi di dichiarazione di cui agli articoli 3, 25, 26, 28 e 30–34;
 - b. impedisce le ispezioni di cui all’articolo 35 o si rifiuta di adempiere agli obblighi di cooperazione di cui all’articolo 39 in occasione di dette ispezioni.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -780,7 +781,7 @@ Secondo l’articolo 15 LBDI è punito con la multa fino a 100 000 franchi chiun
 
 L’ordinanza del 17 ottobre 2007[^42-1] sul controllo dei prodotti chimici è abrogata.
 
-[^42-1]: [[RU 2007 5057](https://fedlex.data.admin.ch/eli/oc/2007/710), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 23]
+[^42-1]: [[RU 2007 5057](https://fedlex.data.admin.ch/eli/oc/2007/710), [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 cifra II n. 23]
 
 #### Art. 43
 
@@ -788,15 +789,15 @@ L’ordinanza del 17 ottobre 2007[^42-1] sul controllo dei prodotti chimici è a
 
 La presente ordinanza entra in vigore il 1° ottobre 2013.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1 cpv. 2 e 3, 2 lett. g)
 
-## Tabelle dei composti chimici****
+## Tabelle dei composti chimici
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 24 feb. 2020 ([RU 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)). Aggiornato dal n. II dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 24 feb. 2020 ([RU 2020 821](https://fedlex.data.admin.ch/eli/oc/2020/151)). Aggiornato dalla cifra II dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^annexu1-lvlu1-1]: Determinanti per i controlli sono le denominazioni dei composti chimici. Un composto non può essere identificato unicamente alla luce del numero CAS. Diverse iscrizioni nelle tabelle si riferiscono a «categorie» comprendenti centinaia di sostanze simili sotto il profilo della struttura.
 
 (cfr. anche il numero di controllo 1C350 dell’allegato 2 parte 2 dell’ordinanza del 3 giugno 2016[^annexu1-lvlu1-2] sul controllo dei beni a duplice impiego)
