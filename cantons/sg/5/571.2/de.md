@@ -3,20 +3,20 @@ canton: SG
 number: "571.2"
 title: Gesetz über die Umsetzung der eidgenössischen Covid-19-Gesetzgebung im Kulturbereich
 language: de
-version: 2021-04-21
-valid_until: 2021-12-31
-version_adopted: 2021-04-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2022-02-15
 adopted: 2021-04-20
 in_force: 2021-04-21
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/571.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3154/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Umsetzung der eidgenössischen Covid-19-Gesetzgebung im Kulturbereich
 
-vom 20.04.2021 (Stand 21.04.2021)
+vom 20.04.2021 (Stand 01.01.2022)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -60,7 +60,9 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Die Ausfallentschädigung nach Art. 4 bis 6 der Covid-19-Kulturverordnung:
 
 - a) deckt höchstens 80 Prozent des finanziellen Schadens des Kulturunternehmens;
-- b) beträgt bei gewinnorientierten Kulturunternehmen höchstens Fr. 750'000.– je Unternehmen;
+- b) beträgt bei gewinnorientierten Kulturunternehmen höchstens:
+  - 1\. Fr. 750'000.– je Unternehmen für Schäden zwischen dem 1. November 2020 und dem 31. Dezember 2021;
+  - 2\. Fr. 750'000.– je Unternehmen für Schäden zwischen dem 1. Januar 2022 und dem 31. Dezember 2022;
 - c) deckt bei Kulturschaffenden 100 Prozent des finanziellen Schadens bis zu Fr. 3'470.– im Monat und höchstens 80 Prozent des darüber hinausgehenden Schadens.
 
 <sup>2</sup> Entgangener Gewinn wird nicht entschädigt.
@@ -79,13 +81,15 @@ als Gesetz:[^ingress-3]
 
 **Umfang der zur Verfügung stehenden Mittel**
 
-<sup>1</sup> Das Gesamtvolumen der zur Verfügung stehenden Mittel bestimmt sich wie folgt:
+<sup>1</sup> Das Gesamtvolumen der zur Verfügung stehenden Mittel umfasst die Mittel:
 
-- a) Ein erster Teil der Mittel umfasst Fr. 12'994'400.–. Bund und Kanton stellen je die Hälfte der Mittel bereit.
-- b) Ein zweiter Teil der Mittel umfasst höchstens Fr. 6'705'600.–. Der Kanton stellt dabei Mittel im selben Umfang wie der Bund zur Verfügung, höchstens Fr. 3'352'800.–.
-- c) Ein dritter Teil der Mittel umfasst höchstens Fr. 500'000.–, die der Kanton bereitstellt. Sie dienen zur Finanzierung desjenigen Teils von Ausfallentschädigungen für Kulturschaffende, die über 80 Prozent des finanziellen Schadens hinausgehen. Sollte sich der Bund auch an diesem Teil der Ausfallentschädigungen beteiligen, reduziert sich der Beitrag des Kantons entsprechend.
+- a) des Bundes, die er für Unterstützungsmassnahmen im Kanton St.Gallen nach Art. 4 bis 6 und Art. 7 bis 10 der Covid-19-Kulturverordnung bereitstellt;
+- b) des Kantons, die nach Bundesrecht für die Inanspruchnahme der Bundesmittel nach Bst. a dieser Bestimmung erforderlich sind, höchstens jedoch Fr. 13'890'000.–;
+- c) des Kantons von höchstens Fr. 500'000.– zur Finanzierung desjenigen Teils von Ausfallentschädigungen für Kulturschaffende, die über 80 Prozent des finanziellen Schadens hinausgehen. Sollte sich der Bund auch an diesem Teil der Ausfallentschädigungen beteiligen, reduziert sich der Beitrag des Kantons entsprechend.
 
-<sup>2</sup> Höchstens 10 Prozent oder höchstens Fr. 2'000'000.– der nach Abs. 1 Bst. a und b dieser Bestimmung zur Verfügung gestellten Mittel werden für Transformationsprojekte verwendet.
+<sup>2</sup> Höchstens 10 Prozent oder höchstens Fr. 2'000'000.– der nach Abs. 1 Bst. a und b dieser Bestimmung für den Zeitraum vom 1. November 2020 bis zum 31. Dezember 2021 zur Verfügung stehenden Mittel werden für Transformationsprojekte mit Gesuchseinreichung zwischen dem 1. November 2020 und dem 30. November 2021 verwendet.
+
+<sup>3</sup> Höchstens 10 Prozent oder höchstens Fr. 1'500'000.– der nach Abs. 1 Bst. a und b dieser Bestimmung für den Zeitraum vom 1. Januar 2022 bis zum 31. Dezember 2022 zur Verfügung stehenden Mittel werden für Transformationsprojekte mit Gesuchseinreichung zwischen dem 1. Januar 2022 und dem 30. November 2022 verwendet.
 
 #### Art. 7
 
