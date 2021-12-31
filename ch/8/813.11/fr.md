@@ -4,11 +4,11 @@ title: "Ordonnance du 5 juin 2015 sur la protection contre les substances et les
 short: OChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: fr
-version: 2021-09-01
+version: 2022-01-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-366-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-366-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20210901/fr"
 
 (Ordonnance sur les produits chimiques, OChim)
 
-du 5 juin 2015 (Etat le 1<sup>er</sup> septembre 2021)
+du 5 juin 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -397,16 +397,23 @@ La demande doit comprendre:
 
 **Identifiant unique de formulation**[^15a-1]
 
-<sup>1</sup> Si un fabricant met sur le marché une préparation destinée à des utilisateurs privés qui est considérée comme dangereuse en raison de ses effets physiques ou de ses effets sur la santé, il doit la munir d’un identifiant unique de formulation (UFI).
+<sup>1</sup> Si un fabricant met sur le marché une préparation considérée comme dangereuse en raison de ses effets physiques ou de ses effets sur la santé, il doit munir la préparation d’un identifiant unique de formulation (UFI).
 
-<sup>2</sup> Il doit générer l’UFI avec le système électronique mis à disposition par l’organe de réception des notifications. Il peut y renoncer lorsque la préparation est importée d’un État membre de l’EEE et qu’elle est déjà munie d’un UFI.[^15a-2]
+<sup>2</sup> Il doit générer l’UFI avec le système électronique mis à disposition par l’organe de réception des notifications. Il est possible de renoncer à générer l’UFI avec le système électronique, si la préparation dispose déjà d’un UFI généré sur la base du règlement UE-CLP[^15a-2].
 
-<sup>3</sup> Sur l’étiquette, l’UFI doit être mentionné de manière bien lisible; il doit être précédé de l’acronyme «UFI» en capitales.
+<sup>3</sup>
 
-<sup>4</sup> Lorsque la préparation n’est pas soumise à l’obligation de communiquer de l’art. 54, les al. 1 à 3 ne sont pas applicables.
+L’UFI doit être imprimé ou apposé de manière clairement visible, lisible et indélébile et précédé du sigle «UFI:» en lettres capitales aux endroits suivants:
 
-[^15a-1]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^15a-2]: Nouvelle teneur selon le ch. II 1 de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+- a. sur l’étiquette dans la section pour les informations supplémentaires selon l’art. 25 du règlement UE-CLP, ou
+- b. sur l’emballage intérieur avec les autres éléments de l’étiquetage ; lorsque l’emballage intérieur est dans une forme telle, ou si petit, qu’il est impossible d’imprimer ou d’apposer l’UFI sur celui-ci, l’UFI peut être imprimé ou apposé avec les autres éléments de l’étiquetage figurant sur un emballage extérieur.
+
+<sup>4</sup> Dans le cas de préparations qui ne sont pas emballées, l’UFI doit être indiqué sur la fiche de données de sécurité ou dans le cas d’une remise à des utilisateurs privés, inclus sur la copie des éléments de l’étiquetage selon l’art. 29, par. 3, du règlement UE-CLP, avec les autres éléments de l’étiquetage.
+
+<sup>5</sup> Lorsque la préparation n’est pas soumise à l’obligation de communiquer en vertu de l’art. 54, les al. 1 à 4 ne sont pas applicables.
+
+[^15a-1]: Introduit par le ch. I de l’O du 31 janv. 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^15a-2]: Cf. note relative à l’art. 2, al. 4.
 
 ### Section 4 Scénarios d’exposition et fiche de données de sécurité pour les substances et les préparations
 
@@ -996,7 +1003,7 @@ La communication doit contenir les données suivantes:
   pour les préparations:
 
   - 1\. le nom commercial,
-  - 1*a*.[^49-3] pour les préparations destinées à des utilisateurs privés et considérées comme dangereuses en raison de leurs effets physiques ou de leurs effets sur la santé: l’UFI,
+  - 1*a*.[^49-3] l’UFI,
   - 2\. les données relatives aux composants, conformément aux dispositions s’appliquant à la fiche de données de sécurité,
   - 3\. la classification et l’étiquetage,
   - 4\. l’usage prévu,
@@ -1006,7 +1013,7 @@ La communication doit contenir les données suivantes:
 
 [^49-1]: Voir note relative à l’art. 2, al. 4.
 [^49-2]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^49-3]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^49-3]: Introduit par le ch. I de l’O du 31 janv. 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^49-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
 
 #### Art. 50
@@ -1403,10 +1410,10 @@ Ne sont en aucun cas réputés confidentiels:
   - 3\. l’ordonnance du 12 mai 2010 sur les produits phytosanitaires[^74-4];
 
 - b.[^74-5] les données sur les substances étrangères et les composants présents dans les denrées alimentaires ainsi que sur les substances présentes dans les objets usuels, recueillies par l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) en application de l’ordonnance du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires[^74-6];
-- c. les données recueillies par l’Administration fédérale des douanes par le biais des déclarations en douane;
+- c. les données recueillies par l’Office fédéral de la douane et de la sécurité des frontières[^74-7] par le biais des déclarations en douane;
 - d. les données recueillies par le SECO, par la Caisse nationale suisse d’assurance en cas d’accidents (CNA) ou par les inspectorats cantonaux du travail en application de la législation sur la protection des travailleurs;
 - e. les données recueillies par le centre d’information toxicologique (art. 79);
-- f. les données recueillies par les organes responsables des examens et des permis au sens de l’art. 12, al. 3, ORRChim[^74-7];
+- f. les données recueillies par les organes responsables des examens et des permis au sens de l’art. 12, al. 3, ORRChim[^74-8];
 - g. les données recueillies par les cantons en application de la présente ordonnance ou de tout autre acte législatif régissant la protection de l’être humain ou de l’environnement contre les risques liés aux substances, aux préparations et aux objets.
 
 [^74-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
@@ -1415,7 +1422,8 @@ Ne sont en aucun cas réputés confidentiels:
 [^74-4]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 [^74-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^74-6]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
-[^74-7]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^74-7]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
+[^74-8]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 #### Art. 75
 
@@ -1630,7 +1638,7 @@ En accord avec l’OFEV et le SECO, l’OFSP adapte les annexes suivantes:
 
 <sup>2</sup>
 
-Pour ce qui est des dispositions sur la de protection de la santé, ils ne peuvent déléguer que:
+Pour ce qui est des dispositions sur la protection de la santé, ils ne peuvent déléguer que:
 
 - a. la vérification du contrôle autonome;
 - b. l’évaluation dans le cadre de l’examen des notifications et des informations complémentaires;
@@ -1738,9 +1746,21 @@ Pour les préparations étiquetées et emballées avant l’entrée en vigueur d
 
 <sup>1</sup> Les fabricants de substances, préparations et nanomatériaux visés à l’art. 48 qui ont été mis sur le marché avant l’entrée en vigueur de la modification du 31 janvier 2018 et qui sont à nouveau mis sur le marché après la modification du 31 janvier 2018 doivent satisfaire à l’obligation de communiquer au sens des art. 48 à 54 au plus tard dans les trois mois suivant une nouvelle mise sur le marché.
 
-<sup>2</sup> Les fabricants peuvent mettre sur le marché sans UFI des préparations visées à l’art. 15*a*, jusqu’au 31 décembre 2021 au plus tard.
+<sup>2</sup> …[^93a-2]
 
 [^93a-1]: Introduit par le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^93a-2]: Abrogé par l’annexe ch. 1 de l’O du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+
+#### Art. 93b
+
+**Disposition transitoire de la modification du 18 novembre 2020**[^93b-1]
+
+Les fabricants peuvent mettre sur le marché les préparations suivantes sans indication de l’UFI au sens de l’art. 15*a* jusqu’au 31 décembre 2025 au plus tard, si celles-ci ne disposent pas d’un UFI le 1<sup>er</sup> janvier 2022:
+
+- a. les préparations destinées aux utilisateurs professionnels;
+- b. les préparations destinées à des utilisateurs privés et mises sur le marché avant le 1<sup>er</sup> janvier 2022.
+
+[^93b-1]: Introduit par l’annexe ch. 1 de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 
 ### Chapitre 3 Entrée en vigueur
 
@@ -1849,7 +1869,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des exigences techniques déterminantes
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFSP du 1<sup>er</sup> nov. 2016 ([RO 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Mise à jour par le ch. I des O de l’OFSP du 5 fév. 2018 ([RO 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), du 31 oct. 2018 ([RO 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), du 23 mai 2019 ([RO 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), du 21 fév. 2020 ([RO 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), l’annexe ch. 1 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), le ch. I des O de l’OFSP du 19 nov. 2020 ([RO 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)) et du 4 août 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFSP du 1<sup>er</sup> nov. 2016 ([RO 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Mise à jour par le ch. I de l’O de l’OFSP du 5 fév. 2018 ([RO 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), le ch. II al. 1 de l’O du 31 janv. 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)), le ch. I des O de l’OFSP du 31 oct. 2018 ([RO 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), du 23 mai 2019 ([RO 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), du 21 fév. 2020 ([RO 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), l’annexe ch. 1 de l’O du 18 nov. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) et le ch. I des O de l’OFSP du 19 nov. 2020 ([RO 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)) et du 4 août 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)).
 
 ### 1 Exigences techniques pour la classification, l’étiquetage et l’emballage des substances et des préparations
 
@@ -2114,10 +2134,10 @@ Annexe 5*[^t-5]*
 ### 1.1 Groupe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image1.png) en relation avec</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Mortel en cas d’ingestion, ou H310: Mortel par contact cutané, ou H330: Mortel par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image1.png) en relation avec</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Mortel en cas d’ingestion, ou H310: Mortel par contact cutané, ou H330: Mortel par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances et préparations selon l’annexe 1.10 ORRChim[^annex5-lvlu1-lvl1-lvl11-2] étiquetées avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image3.png) en relation avec</td><td>H340: Peut induire des anomalies génétiques, ou H350: Peut provoquer le cancer (*par inhalation*), ou H360: Peut nuire à la fertilité ou au fœtus</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image3.png) en relation avec</td><td>H340: Peut induire des anomalies génétiques, ou H350: Peut provoquer le cancer (*par inhalation*), ou H360: Peut nuire à la fertilité ou au fœtus</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Le numéro de la phrase H n’a pas besoin de figurer sur l’étiquette.
@@ -2126,12 +2146,12 @@ Annexe 5*[^t-5]*
 ### 1.2 Groupe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image1.png) en relation avec</td><td>H301: Toxique en cas d’ingestion, ou H311: Toxique par contact cutané, ou H331: Toxique par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image3.png) en relation avec</td><td>H370: Risque avéré d’effets graves pour les organes, ou H372: Risque avéré d’effets graves pour les organes à la suite d’expositions répétées ou d’une exposition prolongée.</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image4.png) en relation avec</td><td>H314: Provoque de graves brûlures de la peau et de graves lésions des yeux.</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image1.png) en relation avec</td><td>H301: Toxique en cas d’ingestion, ou H311: Toxique par contact cutané, ou H331: Toxique par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image3.png) en relation avec</td><td>H370: Risque avéré d’effets graves pour les organes, ou H372: Risque avéré d’effets graves pour les organes à la suite d’expositions répétées ou d’une exposition prolongée.</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image4.png) en relation avec</td><td>H314: Provoque de graves brûlures de la peau et de graves lésions des yeux.</td></tr>
 <tr><td>d.</td><td colspan="2">Récipient de plus d’un kilo étiqueté avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image5.png) en relation avec</td><td>H410: Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme (n’appartiennent au groupe 2 que les substances et préparations qui, en conséquence de leur classification «Aquatic Chronic 1», doivent être étiquetées avec H410.)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image6.png) en relation avec</td><td>H250: S’enflamme spontanément au contact de l’air, ou H260: Dégage au contact de l’eau des gaz inflammables qui peuvent s’enflammer spontanément, ou H261: Dégage au contact de l’eau des gaz inflammables.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image5.png) en relation avec</td><td>H410: Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme (n’appartiennent au groupe 2 que les substances et préparations qui, en conséquence de leur classification «Aquatic Chronic 1», doivent être étiquetées avec H410.)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image6.png) en relation avec</td><td>H250: S’enflamme spontanément au contact de l’air, ou H260: Dégage au contact de l’eau des gaz inflammables qui peuvent s’enflammer spontanément, ou H261: Dégage au contact de l’eau des gaz inflammables.</td></tr>
 <tr><td>f.</td><td></td><td>H230: Peut exploser même en l’absence d’air, ou H231: Peut exploser même en l’absence d’air à une pression et/ou température élevée(s) ou EUH019: Peut former des peroxydes explosifs, ou EUH029: Au contact de l’eau, dégage des gaz toxiques, ou EUH031: Au contact d’un acide, dégage un gaz toxique, ou EUH032: Au contact d’un acide, dégage un gaz très toxique.</td></tr>
 </table>
 
@@ -2140,10 +2160,10 @@ Annexe 5*[^t-5]*
 ### 2.1 Groupe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image7.png) en relation avec</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Très toxique en cas d’ingestion, ou R27: Très toxique par contact avec la peau, ou R26: Très toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image7.png) en relation avec</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Très toxique en cas d’ingestion, ou R27: Très toxique par contact avec la peau, ou R26: Très toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances et préparations selon l’annexe 1.10 ORRChim étiquetées avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image7.png) en relation avec</td><td>R46: Peut provoquer des altérations génétiques héréditaires, ou R45: Peut provoquer le cancer, ou R49: Peut provoquer le cancer par inhalation, ou R60: Peut altérer la fertilité, ou R61: Risque pendant la grossesse d’effets néfastes pour l’enfant.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image7.png) en relation avec</td><td>R46: Peut provoquer des altérations génétiques héréditaires, ou R45: Peut provoquer le cancer, ou R49: Peut provoquer le cancer par inhalation, ou R60: Peut altérer la fertilité, ou R61: Risque pendant la grossesse d’effets néfastes pour l’enfant.</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Le numéro de la phrase R n’a pas besoin de figurer sur l’étiquette.
@@ -2151,12 +2171,12 @@ Annexe 5*[^t-5]*
 ### 2.2 Groupe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image7.png) en relation avec</td><td>R25: Toxique en cas d’ingestion, ou R24: Toxique par contact avec la peau, ou R23: Toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image7.png) en relation avec</td><td>R39: Dangers d’effets irréversibles très graves, ou R48: Risques d’effets graves pour la santé en cas d’exposition prolongée.</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image9.png) en relation avec</td><td>R35: Provoque de graves brûlures, ou R34: Provoque des brûlures.</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image7.png) en relation avec</td><td>R25: Toxique en cas d’ingestion, ou R24: Toxique par contact avec la peau, ou R23: Toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image7.png) en relation avec</td><td>R39: Dangers d’effets irréversibles très graves, ou R48: Risques d’effets graves pour la santé en cas d’exposition prolongée.</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image9.png) en relation avec</td><td>R35: Provoque de graves brûlures, ou R34: Provoque des brûlures.</td></tr>
 <tr><td>d.</td><td colspan="2">Récipient de plus d’un kilo étiqueté avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image10.png) en relation avec</td><td>R50/53: Très toxiques pour les organismes aquatiques, peut entraîner des effets néfastes à long terme pour l’environnement aquatique.</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/fr/xml/image/image11.png) en relation avec</td><td>R17: Spontanément inflammable à l’air, ou R15: Au contact de l’eau, dégage des gaz extrêmement inflammables.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image10.png) en relation avec</td><td>R50/53: Très toxiques pour les organismes aquatiques, peut entraîner des effets néfastes à long terme pour l’environnement aquatique.</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20220101/fr/xml/image/image11.png) en relation avec</td><td>R17: Spontanément inflammable à l’air, ou R15: Au contact de l’eau, dégage des gaz extrêmement inflammables.</td></tr>
 <tr><td>f.</td><td></td><td>R6: Danger d’explosion en contact ou sans contact avec l’air, ou R19: Peut former des peroxydes explosifs, ou R29: Au contact de l’eau, dégage des gaz toxiques, ou R31: Au contact d’un acide, dégage un gaz toxique, ou R32: Au contact d’un acide, dégage un gaz très toxique.</td></tr>
 </table>
 
