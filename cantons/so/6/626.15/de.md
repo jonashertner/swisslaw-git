@@ -4,13 +4,12 @@ number: "626.15"
 title: Jagdprüfungsverordnung
 short: JaPV
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-05-02
+version: 2022-01-01
+version_adopted: 2021-09-21
 adopted: 2017-05-02
 in_force: 2018-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/626.15"
-pdf: "https://bgs.so.ch/api/de/versions/4610/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4610/pdf_file"
 
 (JaPV)
 
-Vom 02.05.2017 (Stand 01.01.2018)
+Vom 02.05.2017 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -59,7 +58,7 @@ beschliesst:
 
 **Zulassung zum praktischen Jagdlehrgang**
 
-<sup>1</sup> Zum praktischen Jagdlehrgang zugelassen wird, wer das 16. Altersjahr vollendet und die Prüfungsgebühr bezahlt hat.
+<sup>1</sup> Zum praktischen Jagdlehrgang zugelassen wird, wer das 16. Altersjahr vollendet und die Gebühr für den Jagdlehrgang und die Jagdprüfung bezahlt hat.
 
 #### § 5
 
@@ -71,7 +70,7 @@ beschliesst:
 
 **Pflichtmodule**
 
-<sup>1</sup> Pflichtmodule sind praxisbezogene Ausbildungstage, die besucht werden müssen.
+<sup>1</sup> Pflichtmodule sind praxisbezogene Ausbildungen, die besucht werden müssen.
 
 <sup>2</sup> Jedes Pflichtmodul darf nur einmal besucht werden. Ausgenommen sind Personen, welche die theoretische Jagdprüfung nicht bestanden haben.
 
@@ -109,7 +108,10 @@ beschliesst:
 
 **Inhalt der praktischen Jagdprüfung**
 
-<sup>1</sup> Bei der praktischen Prüfung werden die Waffenhandhabung, das Verhalten auf einem Jagdparcours sowie das Schiessen mit Schrot und Kugel geprüft.
+<sup>1</sup> Die praktische Prüfung besteht aus folgenden beiden Teilprüfungen:
+
+- a) Waffenhandhabung und Verhalten auf dem Jagdparcours;
+- b) Schiessen mit Schrot und Kugel.
 
 <sup>2</sup> Das Departement legt in einer Weisung den Ablauf der praktischen Jagdprüfung fest.
 
@@ -117,7 +119,7 @@ beschliesst:
 
 **Bestehen der praktischen Jagdprüfung**
 
-<sup>1</sup> Die praktische Jagdprüfung hat bestanden, wer jeweils die Mindestanforderungen in der Waffenhandhabung, auf dem Jagdparcours sowie beim Schiessen mit Schrot und Kugel erfüllt.
+<sup>1</sup> Die praktische Jagdprüfung hat bestanden, wer jeweils die Mindestanforderungen der beiden Teilprüfungen gemäss § 10 Absatz 1 erfüllt.
 
 <sup>2</sup> Die Bewertung besteht aus "bestanden" und "nicht bestanden".
 
@@ -157,15 +159,15 @@ beschliesst:
 
 <sup>1</sup> Die Noten der schriftlichen und der mündlichen Prüfung werden in ganzen und halben Noten ausgedrückt. Die Notenskala reicht von 1 bis 6, wobei als höchste Note die 6 gilt.
 
-<sup>2</sup> Die Noten der schriftlichen und der mündlichen Prüfung werden gleich gewichtet, pro Fach zusammengezählt und die Noten auf zwei Kommastellen gerundet.
+<sup>2</sup> Die Noten der schriftlichen und der mündlichen Prüfung werden gleich gewichtet und es wird pro Fach der Mittelwert gebildet.
 
-<sup>3</sup> Die gemäss Absatz 2 berechneten Noten werden zusammengezählt und durch die Anzahl Fächer geteilt. Das Endresultat wird auf eine Kommastelle gerundet.
+<sup>3</sup> …
 
 #### § 16
 
 **Bestehen der theoretischen Jagdprüfung**
 
-<sup>1</sup> Die theoretische Jagdprüfung hat bestanden, wer im Notendurchschnitt aller Fächer nicht unter 4.0 liegt und in keinem Fach mit einer Note unter 3.0 bewertet ist.
+<sup>1</sup> Die theoretische Jagdprüfung hat bestanden, wer in keinem Fach mit einer Note unter 4.0 bewertet ist.
 
 <sup>2</sup> Das Ergebnis der theoretischen Jagdprüfung wird durch die Prüfungskommission festgestellt.
 
@@ -181,11 +183,13 @@ beschliesst:
 
 **Wiederholung der Jagdprüfung**
 
-<sup>1</sup> Wer nur den theoretischen oder nur den praktischen Teil der Jagdprüfung besteht, kann den anderen Teil im nächsten Jahr wiederholen. Absatz 3 bleibt vorbehalten.
+<sup>1</sup> Wer Teilprüfungen der praktischen oder Fächer der theoretischen Jagdprüfung nicht besteht, kann diese innerhalb einer Frist von maximal drei Jahren einmal wiederholen. Die Absätze 3 und 4 bleiben vorbehalten.
 
-<sup>2</sup> Wer weder den theoretischen noch den praktischen Teil der Jagdprüfung besteht, muss die ganze Prüfung wiederholen.
+<sup>2</sup> Wer innerhalb einer Frist von maximal drei Jahren nicht alle Prüfungen bestanden hat, muss die ganze praktische oder theoretische Jagdprüfung wiederholen.
 
-<sup>3</sup> Werden die Mindestanforderungen beim Schiessen mit Schrot und Kugel nicht erreicht, kann das Schiessprogramm am gleichen Tag einmal wiederholt werden.
+<sup>3</sup> Werden die Mindestanforderungen bei der Teilprüfung Schiessen mit Schrot und Kugel nicht erreicht, kann das Schiessprogramm am gleichen Tag einmal wiederholt werden.
+
+<sup>4</sup> Zur Wiederholung von Teilprüfungen, der ganzen praktischen oder Teilen der theoretischen Prüfung wird zugelassen, wer die Gebühr für die Wiederholung bezahlt hat
 
 #### § 19
 
@@ -198,6 +202,12 @@ beschliesst:
 **Beschwerde**
 
 <sup>1</sup> Gegen den Entscheid der Prüfungskommission aufgrund dieser Verordnung kann beim Departement innert zehn Tagen Beschwerde eingereicht werden.
+
+#### § 21
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Für Personen, die sich bis zum 31. Dezember 2021 zum Jagdlehrgang angemeldet und bis zum Inkrafttreten der Teilrevision am 1. Januar 2022 die Jagdprüfung (praktische und theoretische Prüfung) noch nicht bestanden haben, richten sich das Prüfungsverfahren sowie allfällige Prüfungswiederholungen ab dem 1. Januar 2022 nach der neuen Fassung der Verordnung und der Weisung des Departements. Per 31. Dezember 2021 bereits bestandene Teilprüfungen werden angerechnet.
 
 RRB Nr. 2017/780 vom 2. Mai 2017.
 
