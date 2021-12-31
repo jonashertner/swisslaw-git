@@ -3,26 +3,26 @@ sr: "0.631.256.934.99"
 title: Convenzione del 31 gennaio 1938 tra la Svizzera e la Francia sui rapporti di vicinato e la vigilanza delle foreste limitrofe (con Protocollo di firma e Scambio di note)
 eli: "https://fedlex.data.admin.ch/eli/cc/54/207_207_204"
 language: it
-version: 1963-10-17
+version: 2022-01-01
 adopted: 1938-01-31
 in_force: 1938-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/207_207_204/19631017/it/xml/fedlex-data-admin-ch-eli-cc-54-207_207_204-19631017-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/207_207_204/19631017/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/207_207_204/20220101/it/xml/fedlex-data-admin-ch-eli-cc-54-207_207_204-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/207_207_204/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione tra la Svizzera e la Francia sui rapporti di vicinato e la vigilanza delle foreste limitrofe
 
-(Stato 5 novembre 1999) (Stato 5 novembre 1999)0.631.256.934.99Nicht löschen bitte "[^t-1] " !!
+CS **12** 655; FF **1938** 1 164 ediz. ted. 162 ediz. franc.
 
-Traduzione*[^t-2]*
+*Traduzione*
 
-Conchiusa il 31 gennaio 1938 Approvata dall’Assemblea federale il 1° aprile 1938[^t-3] Istrumenti di ratificazione scambiati il 1° maggio 1938 Entrata in vigore il 1° giugno 1938
+Conchiusa il 31 gennaio 1938 Approvata dall’Assemblea federale il 1° aprile 1938[^t-1] Istrumenti di ratificazione scambiati il 1° maggio 1938 Entrata in vigore il 1° giugno 1938
 
-[^t-1]: CS **12** 655; FF **1938** 1 164 ediz. ted. 162 ediz. franc.
-[^t-2]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-3]: Art. 1 del DF del 1° apr. 1938 (RU **54** 203)
+(Stato 1° gennaio 2022)
+
+[^t-1]: Art. 1 del DF del 1° apr. 1938 (RU **54** 203).
 
 Il Consiglio federale svizzero e il Presidente della Repubblica Francese,
 
@@ -32,7 +32,7 @@ desiderando apportare alle disposizioni della Convenzione del 23 febbraio 1882[^
 
 i quali, dopo essersi scambiati i loro pieni poteri, riconosciuti in buona e debita forma, hanno convenuto le disposizioni seguenti:
 
-[^ingress-1]: [RU **6** 468, **15** 224. [RS 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)art. 12 cpv. 3]
+[^ingress-1]: [RU **6** 468, **15** 224. CS **12** 655art. 12 cpv. 3]
 
 #### Art. 1
 
@@ -64,11 +64,11 @@ Per facilitare l’esercizio delle proprietà fondiarie situate in una delle zon
 - 6\. i latticini provenienti dal bestiame originario dall’una delle due zone di frontiera che passano l’inverno o l’estate nell’altra zona e importati dal pastore o dal proprietario del bestiame. L’esenzione da dazio è limitata ai seguenti quantitativi giornalieri:
 
 <table>
-<tr><td></td><td>Formaggio:</td><td>per ogni vacca</td><td>kg 0,3</td></tr>
-<tr><td></td><td></td><td>per ogni capra</td><td>kg 0,06</td></tr>
-<tr><td></td><td></td><td>per ogni pecora</td><td>kg 0,03</td></tr>
-<tr><td></td><td>Burro:</td><td>per ogni vacca</td><td>kg 0,2</td></tr>
-<tr><td></td><td></td><td>per ogni capra</td><td>kg 0,04</td></tr>
+<tr><td>Formaggio:</td><td>per ogni vacca</td><td>kg 0,3</td></tr>
+<tr><td></td><td>per ogni capra</td><td>kg 0,06</td></tr>
+<tr><td></td><td>per ogni pecora</td><td>kg 0,03</td></tr>
+<tr><td>Burro:</td><td>per ogni vacca</td><td>kg 0,2</td></tr>
+<tr><td></td><td>per ogni capra</td><td>kg 0,04</td></tr>
 </table>
 
 - Questi quantitativi possono essere importati anche dopo il ritorno del bestiame, ma al più tardi entro 4 settimane dalla discesa dall’alpe.
@@ -76,7 +76,7 @@ Per facilitare l’esercizio delle proprietà fondiarie situate in una delle zon
 [^2-1]: Vedi anche il Prot. di firma, qui di seguito.
 [^2-2]: Per l’accezione vedi il Prot. di firma, qui di seguito (Definizioni generali n. 1).
 [^2-3]: Per l’accezione vedi il Prot. di firma, qui di seguito (Definizioni generali n. 2).
-[^2-4]: [RS 0.916.443.934.91](https://fedlex.data.admin.ch/eli/cc/28/781_783_775)
+[^2-4]: [CS **14** 181. [RU 1997 802](https://fedlex.data.admin.ch/eli/oc/1997/802_802_802)]
 
 #### Art. 3
 
@@ -194,17 +194,16 @@ A presentazione di questo documento, ed esclusivamente per il consumo della loro
 Tuttavia l’ammontare totale delle esenzioni doganali concesse dalla Francia in virtù del presente articolo non può superare la somma di 4 milioni di franchi francesi all’anno.
 
 <table>
-<tr><td></td><td>a.</td><td>per giorno:</td><td>Frutta fresca indigena</td><td>1 kg</td></tr>
-<tr><td></td><td></td><td></td><td>Sidro</td><td>½ litre</td></tr>
-<tr><td></td><td></td><td></td><td>Carne e salumi</td><td>200 grammes</td></tr>
-<tr><td></td><td>b.</td><td>per settimana:</td><td>Farina</td><td>500 grammes</td></tr>
-<tr><td></td><td></td><td></td><td>Prodotti della panetteria (ad eccezione del pane)</td><td>500 grammes</td></tr>
-<tr><td></td><td></td><td></td><td>produits de boulangerie</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>(à l’exception du pain)</td><td>1 kg</td></tr>
-<tr><td></td><td></td><td></td><td>Zucchero</td><td>200 grammes</td></tr>
-<tr><td></td><td></td><td></td><td>Cioccolata</td><td>150 grammes</td></tr>
-<tr><td></td><td></td><td></td><td>Caffè</td><td>50 grammes</td></tr>
-<tr><td></td><td></td><td></td><td>Formaggio</td><td>250 grammes.</td></tr>
+<tr><td>a. per giorno:</td><td>Frutta fresca indigena</td><td>1 kg</td></tr>
+<tr><td></td><td>Sidro</td><td>½ litro</td></tr>
+<tr><td></td><td>Carne e salumi</td><td>200 grammi</td></tr>
+<tr><td>b. per settimana:</td><td>Farina</td><td>500 grammi</td></tr>
+<tr><td></td><td>Pasta alimentare e semolino</td><td>500 grammi</td></tr>
+<tr><td></td><td>Prodotti della panetteria (ad eccezione el pane)</td><td>1 kg</td></tr>
+<tr><td></td><td>Zucchero</td><td>200 grammi</td></tr>
+<tr><td></td><td>Cioccolata</td><td>150 grammi</td></tr>
+<tr><td></td><td>Caffè</td><td>50 grammi</td></tr>
+<tr><td></td><td>Formaggio</td><td>250 grammi.</td></tr>
 </table>
 
 <sup>3.</sup> I produttori della zona di frontiera francese che esportano verdura nella zona svizzera di frontiera, possono importare, tornando dal mercato, in franchigia di dazio, tasse od altri oneri[^5-3], le sementi di fiori e di verdure, come pure le sementi di legumi destinati ai loro propri bisogni fino a 3 kg per volta.
@@ -351,11 +350,11 @@ Dal momento della sua entrata in vigore, la Convenzione sostituirà quella del 2
 
 La Convenzione del 31 ottobre 1884[^12-3] su la repressione dei delitti di caccia resterà in vigore per tutta la durata della presente Convenzione e non potrà essere denunciata che insieme ed allo stesso modo di questa.
 
-[^12-1]: [RU **6** 468, **15** 224]
-[^12-2]: [RU **15** 224]
+[^12-1]: [CS **6** 468, **15** 224]
+[^12-2]: [CS **15** 224]
 [^12-3]: [RS 0.922.934.9](https://fedlex.data.admin.ch/eli/cc/8/183_179_183)
 
-*In fede di che,* i rispettivi plenipotenziari hanno firmato la presente Convenzione e vi hanno apposto i loro sigilli. Fatto in doppio esemplare a Berna, il 31 gennaio 1938. Motta Alphand Gassmann René Thierry
+*In fede di che,* i rispettivi plenipotenziari hanno firmato la presente Convenzione e vi hanno apposto i loro sigilli. Fatto in doppio esemplare a Berna, il 31 gennaio 1938. Motta Gassmann Alphand René Thierry
 
 Protocollo di firma
 
@@ -506,13 +505,12 @@ I delegati della commissione permanente potranno farsi assistere da esperti e se
 Fatto in doppio esemplare, a Berna, il 31 gennaio 1938.
 
 <table>
-<tr><td>Motta</td><td>Alphand</td></tr>
-<tr><td>Gassmann</td><td>René Thierry</td></tr>
+<tr><td>Motta Gassmann</td><td>Alphand René Thierry</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [CS **9** 443; [RU 1953 1315](https://fedlex.data.admin.ch/eli/oc/1953/1245_1272_1315)art. 45, [1958 409](https://fedlex.data.admin.ch/eli/oc/1958/395_409_409). [RS 916.111.0](https://fedlex.data.admin.ch/eli/cc/1959/995_1033_1021)art. 68 cpv. 3]. Ora le disp. della L sui cereali del 20 mar. 1959 ([RS 916.111.0](https://fedlex.data.admin.ch/eli/cc/1959/995_1033_1021)).
-[^annexu1-lvlu1-2]: [CS **9** 457; [RU 1953 1327](https://fedlex.data.admin.ch/eli/oc/1953/1257_1284_1327)art. 19, [1954 550](https://fedlex.data.admin.ch/eli/oc/1954/648_662_550), [1956 1282](https://fedlex.data.admin.ch/eli/oc/1956/1188_1268_1282), [1957 720](https://fedlex.data.admin.ch/eli/oc/1957/694_701_720),[1958 411](https://fedlex.data.admin.ch/eli/oc/1958/397_411_411)[487](https://fedlex.data.admin.ch/eli/oc/1958/467_487_487)[699](https://fedlex.data.admin.ch/eli/oc/1958/669_699_699); [RS 172.011.1](https://fedlex.data.admin.ch/eli/cc/1951/968_970_996)art. 6. [RU 1959 1046](https://fedlex.data.admin.ch/eli/oc/1959/1019_1057_1046)art. 74 cpv. 2 lett. a]. Ora: l’O generale del 16 giu. 1986 concernente la legge sui cereali ([RS 916.111.01](https://fedlex.data.admin.ch/eli/cc/1986/1002_1002_1002)) e l’O del 10 nov. 1959 conc. la scorta supplementare di cereali panificabili ([RS 916.111.121](https://fedlex.data.admin.ch/eli/cc/1959/1057_1095_1086)).
-[^annexu1-lvlu1-3]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)allegato
+[^annexu1-lvlu1-1]: [CS **9** 443; [RU 1953 1315](https://fedlex.data.admin.ch/eli/oc/1953/1245_1272_1315)art. 45, [1958 409](https://fedlex.data.admin.ch/eli/oc/1958/395_409_409). [RU 1959 1021](https://fedlex.data.admin.ch/eli/oc/1959/995_1033_1021)art. 68 cpv. 3]
+[^annexu1-lvlu1-2]: [CS **9** 457; [RU 1951 996](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 6; [1953 1327](https://fedlex.data.admin.ch/eli/oc/1953/1257_1284_1327)art. 19; [1954 550](https://fedlex.data.admin.ch/eli/oc/1954/648_662_550); [1956 1282](https://fedlex.data.admin.ch/eli/oc/1956/1188_1268_1282); [1957 720](https://fedlex.data.admin.ch/eli/oc/1957/694_701_720);[1958 411](https://fedlex.data.admin.ch/eli/oc/1958/397_411_411), [487](https://fedlex.data.admin.ch/eli/oc/1958/467_487_487), [699](https://fedlex.data.admin.ch/eli/oc/1958/669_699_699). [RU 1959 1046](https://fedlex.data.admin.ch/eli/oc/1959/1019_1057_1046)art. 74 cpv. 2 lett. a]
+[^annexu1-lvlu1-3]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
 [^annexu1-lvlu1-4]: Nuovo testo giusta il n. 2 dello Scambio di note del 28 mag./28 ago. 1963 tra la Svizzera e la Francia ([RU 1963 1115](https://fedlex.data.admin.ch/eli/oc/1963/1070_1075_1115)).
 
 ## Scambio di note
@@ -531,7 +529,7 @@ Le autorità doganali di ciascuna delle alte Parti contraenti potranno esigere, 
 
 Traffico di mercato
 
-Ai fini del controllo delle importazioni nella Svizzera di verdura e di frutti dell’orto freschi e di patate provenienti dalla zona di frontiera francese dell’Alto Reno, ciascun produttore francese riceverà un libretto speciale che gli sarà rilasciato dall’Amministrazione doganale svizzera secondo le indicazioni ad essa fornite dalle autorità francesi competenti.
+Ai fini del controllo delle importazioni nella Svizzera di verdura e di frutti dell’orto freschi e di patate provenienti dalla zona di frontiera francese dell’Alto Reno, ciascun produttore francese riceverà un libretto speciale che gli sarà rilasciato dall’Amministrazione doganale svizzera[^annexu1-lvlu3-lvl1-1] secondo le indicazioni ad essa fornite dalle autorità francesi competenti.
 
 Questo libretto conterrà, per ciascuno dei prodotti suddetti, la menzione dei contingenti globali trimestrali ai quali il titolare avrà diritto (contingenti in franchigia e contingenti verso pagamento del dazio).
 
@@ -554,16 +552,18 @@ Prodotti importati in franchigia in virtù dell’art. 5
 Le importazioni in franchigia, previste dall’art. 5 della Convenzione avverranno conformemente alle modalità generali qui sotto specificate:
 
 - a. i beneficiari riceveranno, a mezzo dell’autorità prefettizia, una carta d’esenzione doganale;
-- b. questa carta, che sarà nominativa, porterà particolarmente l’indicazione:
+- b.
 
-<table>
-<tr><td></td><td>–</td><td>della natura e della quantità delle merci che potranno essere importate in franchigia;</td></tr>
-<tr><td></td><td>–</td><td>dell’ufficio di importazione;</td></tr>
-<tr><td></td><td>–</td><td>del giorno dell’importazione;</td></tr>
-</table>
+  questa carta, che sarà nominativa, porterà particolarmente l’indicazione:
+
+  - – della natura e della quantità delle merci che potranno essere importate in franchigia,
+  - – dell’ufficio di importazione,
+  - – del giorno dell’importazione;
 
 - c. l’avente diritto, nel presentarsi all’ufficio di importazione, esibirà questa carta al servizio doganale e gli rimetterà una dichiarazione firmata, d’un modello speciale, in cui sia menzionata la natura, la specie e il peso delle merci che desidera introdurre;
 - d. per facilitare queste operazioni, l’amministrazione prefettizia francese, deporrà nelle municipalità come pure negli uffici doganali francesi interessati, dei moduli di dichiarazione che i portatori di carte di esenzione doganale, potranno in tal modo procurarsi in ogni tempo.
+
+[^annexu1-lvlu3-lvl1-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 2. Prodotti od oggetti esportati temporaneamente o importati temporaneamente
 
@@ -620,13 +620,13 @@ Gli impegni presi in virtù della presente lettera saranno valevoli per tutta la
 
 Gli elenchi dei Comuni svizzeri e francesi che fruiranno delle condizioni definite sopra saranno stabiliti dai servizi competenti di ciascun Paese, i quali se li comunicheranno vicendevolmente.
 
-[^annexu1-lvlu1-5]: [RU **6** 468, **15** 224. [RS 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)art. 12, cpv. 3]
+[^annexu1-lvlu1-5]: [RU **6** 468, **15** 224. CS **12** 655art. 12 cpv. 3]
 
 Allegato N. 4
 
 ## Nota svizzera
 
-Ho l’onore di comunicarle che il Governo federale manterrà per tutta la durata della Convenzione firmata in data d’oggi, ai produttori ed ai commercianti della zona di frontiera francese, le facilitazioni che ad essi sono state consentite fino ad oggi per l’importazione in Svizzera, mediante pagamento dei dazi e a condizione della vendita nei mercati coperti, sui mercati all’ingrosso ed ai rivenditori, di legumi e frutta fresche, non pigiate, di cui alle voci 0701.10, 0701.22/30, 0701.50/90, 0806.10/22, 0807.10/40, 0808.10/30 e 0809.10/20 della tariffa d’uso svizzera[^annexu1-lvlu1-6].[^annexu1-lvlu1-7]
+Ho l’onore di comunicarle che il Governo federale manterrà per tutta la durata della Convenzione firmata in data d’oggi, ai produttori ed ai commercianti della zona di frontiera francese, le facilitazioni che ad essi sono state consentite fino ad oggi per l’importazione in Svizzera, mediante pagamento dei dazi e a condizione della vendita nei mercati coperti, sui mercati all’ingrosso ed ai rivenditori, di legumi e frutta fresche, non pigiate, di cui alle voci 0701.10, 0701.22/30, 0701.50/90, 0806.10/22, 0807.10/40, 0808.10/30 e 0809.10/20 della tariffa d’uso svizzera[^annexu1-lvlu1-6] [^annexu1-lvlu1-7]
 
 Le disposizioni dell’ultimo capoverso dell’art. 4 della Convenzione saranno applicabili ai beneficiari delle facilitazioni previste al capoverso che precede.
 
@@ -634,6 +634,6 @@ I permessi di importazione saranno rilasciati dagli uffici doganali svizzeri, ai
 
 Le quantità così importate saranno dedotte dai contingenti globali assegnati alla Francia dall’Accordo commerciale del 31 marzo 1937[^annexu1-lvlu1-8].
 
-[^annexu1-lvlu1-6]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)allegato
+[^annexu1-lvlu1-6]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
 [^annexu1-lvlu1-7]: Nuovo testo giusta il n. 3 dello Scambio di note del 28 mag./28 ago. 1963 tra la Svizzera e la Francia ([RU 1963 1115](https://fedlex.data.admin.ch/eli/oc/1963/1070_1075_1115)).
 [^annexu1-lvlu1-8]: [RS 0.946.293.491](https://fedlex.data.admin.ch/eli/cc/14/421_464_451)

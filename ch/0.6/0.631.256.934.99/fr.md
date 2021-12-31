@@ -3,39 +3,40 @@ sr: "0.631.256.934.99"
 title: Convention du 31 janvier 1938 entre la Suisse et la France sur les rapports de voisinage et la surveillance des forêts limitrophes (avec protocole de signature et échange de notes)
 eli: "https://fedlex.data.admin.ch/eli/cc/54/207_207_204"
 language: fr
-version: 1963-10-17
+version: 2022-01-01
 adopted: 1938-01-31
 in_force: 1938-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/207_207_204/19631017/fr/xml/fedlex-data-admin-ch-eli-cc-54-207_207_204-19631017-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/207_207_204/19631017/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/207_207_204/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-54-207_207_204-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/207_207_204/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention entre la Suisse et la France sur les rapports de voisinage et la surveillance des forêts limitrophes
 
-0.631.256.934.99 (Etat le 5 novembre 1999)Nicht löschen bitte "[^t-1] " !!
+RS **12** 633; FF **1938** I 162
 
 Texte original
 
-Conclue le 31 janvier 1938 Approuvée par l’Assemblée fédérale le 1<sup>er</sup> avril 1938[^t-2]
+Conclue le 31 janvier 1938 Approuvée par l’Assemblée fédérale le 1<sup>er</sup> avril 1938[^t-1]
 
 Instruments de ratification échangés le 1<sup>er</sup> mai 1938
 
 Entrée en vigueur le 1<sup>er</sup> Juin 1938
 
-[^t-1]: RS **12** 633, [FF 1938 I 162](https://fedlex.data.admin.ch/eli/fga/1938/1__162_)
-[^t-2]: Art. 1<sup>er</sup> de l’AF du 1<sup>er</sup> avril 1938 (RO **54** 206)
+(Etat le 1<sup>er</sup> janvier 2022)
+
+[^t-1]: Art. 1<sup>er</sup> de l’AF du 1<sup>er</sup> avril 1938 (RO **54** 206)
 
 Le Conseil fédéral suisse et le Président de la République française,
 
-Désirant apporter aux dispositions de la Convention du 23 février 1882[^ingress-1] les modifications reconnus utiles pour mieux assurer et régler entre la Suisse et la France les rapports de voisinage et la surveillance des forêts limitrophes, sans toucher toutefois au régime spécial des zones franches de la Haute‑Savoie et du Pays de Gex, ont résolu de conclure une nouvelle Convention et ont désigné pour leurs Plénipotentiaires, savoir:
+désirant apporter aux dispositions de la Convention du 23 février 1882[^ingress-1] les modifications reconnus utiles pour mieux assurer et régler entre la Suisse et la France les rapports de voisinage et la surveillance des forêts limitrophes, sans toucher toutefois au régime spécial des zones franches de la Haute‑Savoie et du Pays de Gex, ont résolu de conclure une nouvelle Convention et ont désigné pour leurs Plénipotentiaires, savoir:
 
 (Suivent les noms des plénipotentiaires)
 
 lesquels, après avoir échangé leurs pleins pouvoirs, reconnus en bonne et due forme, sont convenus des dispositions ci‑après:
 
-[^ingress-1]: [RO **6** 413, **15** 214. [RS 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)art. 12 al. 3]
+[^ingress-1]: [RO **6** 413; **15** 214. RS **12** 633 art. 12 al. 3]
 
 #### Art. 1
 
@@ -79,7 +80,7 @@ Pour faciliter l’exploitation des biens‑fonds situés dans l’une des zones
 [^2-1]: Voir en outre le prot. de signature publié ci‑après.
 [^2-2]: Pour l’interprétation, voir le prot. de signature publié ci‑après (définitions générales, ch. 1).
 [^2-3]: Pour l’interprétation, voir le prot. de signature publié ci‑après (définitions générales, ch. 2).
-[^2-4]: [RS 0.916.443.934.91](https://fedlex.data.admin.ch/eli/cc/28/781_783_775)
+[^2-4]: [RS **14** 176. [RO 1997 802](https://fedlex.data.admin.ch/eli/oc/1997/802_802_802)]
 
 #### Art. 3
 
@@ -103,7 +104,7 @@ Lorsque le lieu d’origine est séparé du point de pénétration dans l’autr
 
 5.[^3-3] Les animaux, le matériel, les outils, les machines, les tracteurs et les véhicules importés pour l’exploitation des forêts des deux zones frontalières sont affranchis de tous droits, taxes et autres charges[^3-4], sous réserve de réexportation. La franchise est acquise aux carburants et lubrifiants pour la quantité journalière strictement nécessaire à l’utilisation des machines, tracteurs et véhicules.
 
-<sup>6.</sup> Lorsqu’une forêt appartenant soit à l’Etat, soit à une Commune, soit à un établissement public, soit à un particulier français, est située dans la zone frontalière suisse, ou réciproquement, des gardes pourront être désignés par les propriétaires pour en assurer la surveillance.
+<sup>6.</sup> Lorsqu’une forêt appartenant soit à l’État, soit à une Commune, soit à un établissement public, soit à un particulier français, est située dans la zone frontalière suisse, ou réciproquement, des gardes pourront être désignés par les propriétaires pour en assurer la surveillance.
 
 Ces gardes devront remplir les conditions de nationalité et de capacité exigées par les lois et règlements du pays où la forêt est située; ils seront commissionnés ou agréés par l’autorité compétente de ce pays et assermentés.
 
@@ -115,21 +116,21 @@ Les frais nécessités par leur nomination et l’exercice de leurs fonctions se
 
 La poursuite aura lieu sous la condition qu’il n’y ait pas eu jugement rendu dans le pays où l’infraction aura été commise, et sur transmission officielle et directe du procès‑verbal par l’autorité compétente de ce pays à celle de l’autre pays.[^3-5]
 
-Le montant des amendes et des frais demeurera acquis à l’Etat où la condamnation aura été prononcée, les indemnités seront versées dans les caisses de l’Etat où les infractions auront été commises.
+Le montant des amendes et des frais demeurera acquis à l’État où la condamnation aura été prononcée, les indemnités seront versées dans les caisses de l’État où les infractions auront été commises.
 
 Les procès‑verbaux dressés régulièrement par les gardes assermentés dans chaque pays feront foi, jusqu’à preuve contraire, devant les tribunaux de l’autre pays.
 
-<sup>8.</sup> Le personnel forestier qui constatera un délit ou une contravention dans la circonscription de la zone frontalière confiée à sa surveillance pourra, lorsque les objets enlevés auront été transportés de l’autre côté de la frontière, demander l’assistance des autorités compétentes de l’Etat voisin, en vue de suivre ces objets et d’en faire opérer la saisie.
+<sup>8.</sup> Le personnel forestier qui constatera un délit ou une contravention dans la circonscription de la zone frontalière confiée à sa surveillance pourra, lorsque les objets enlevés auront été transportés de l’autre côté de la frontière, demander l’assistance des autorités compétentes de l’État voisin, en vue de suivre ces objets et d’en faire opérer la saisie.
 
 Les autorités compétentes chargées de la police locale sont tenues d’assister ce personnel dans ses recherches, sans qu’il soit nécessaire de réclamer la permission d’un fonctionnaire supérieur.[^3-6]
 
 Les perquisitions dans les maisons, bâtiments, cours adjacentes et enclos ne pourront avoir lieu que conformément aux lois du pays dans lequel ces perquisitions seront effectuées.
 
-Les administrations compétentes de chacun des deux Etats se communiqueront les listes nominatives du personnel forestier chargé de la surveillance des forêts des zones frontalières.
+Les administrations compétentes de chacun des deux États se communiqueront les listes nominatives du personnel forestier chargé de la surveillance des forêts des zones frontalières.
 
 <sup>9.</sup> Les bois bruts provenant des forêts de l’une des zones frontalières et introduits dans l’autre zone frontalière pour y être sciés sont admis en franchise de tous droits, taxes et autres charges[^3-7]; ces bois une fois sciés seront de même exempts de tous droits, taxes et autres charges[^3-8], à leur rentrée dans la zone de provenance, s’ils sont réimportés par ou pour le compte de la personne qui les a introduits dans la zone où a lieu le sciage.
 
-10[^3-9]. Les bois originaires de l’un des Etats contractants et sciés dans les scieries situées dans sa zone frontalière pourront être importés dans l’autre Etat moyennant le paiement d’un droit de douane égal à la moitié du droit le plus réduit, selon l’espèce, jusqu’à concurrence de 12 500 tonnes par an.
+10[^3-9]. Les bois originaires de l’un des États contractants et sciés dans les scieries situées dans sa zone frontalière pourront être importés dans l’autre État moyennant le paiement d’un droit de douane égal à la moitié du droit le plus réduit, selon l’espèce, jusqu’à concurrence de 12 500 tonnes par an.
 
 Les bois sciés dans la forêt par des scieurs de long bénéficient des mêmes facilités, dans la limite du contingent ci‑dessus.
 
@@ -313,7 +314,7 @@ Pour les territoires contigus du Département du Haut‑Rhin et des cantons suis
 
 <sup>5.</sup> Les prohibitions ou restrictions édictées en vue de protéger la santé publique ou d’assurer la protection des animaux et des plantes contre les maladies, les insectes et les parasites nuisibles restent applicables.
 
-Il en est de même des dispositions relatives aux produits faisant l’objet d’un monopole d’Etat sur le territoire de l’une ou l’autre des H.P.C.
+Il en est de même des dispositions relatives aux produits faisant l’objet d’un monopole d’État sur le territoire de l’une ou l’autre des H.P.C.
 
 <sup>6.</sup> Les dispositions de la présente Convention ne limitent pas le droit de chacune des H.P.C. de prendre des mesures restrictives temporaires pour des raisons de sécurité publique au sujet du franchissement de la frontière.
 
@@ -352,7 +353,7 @@ Dès sa mise en vigueur, la présente Convention remplacera la Convention du 23 
 
 La Convention du 31 octobre 1884[^12-3] pour la répression des délits de chasse demeurera en vigueur aussi longtemps que la présente Convention et ne pourra être dénoncée qu’en même temps et de la même manière que celle‑ci.
 
-[^12-1]: [RO **6** 413, **15** 214]
+[^12-1]: [RO **6** 413; **15** 214]
 [^12-2]: [RO **15** 214]
 [^12-3]: [RS 0.922.934.9](https://fedlex.data.admin.ch/eli/cc/8/183_179_183)
 
@@ -378,7 +379,7 @@ La franchise de tous droits, taxes et autres charges pourra également, dans des
 
 Ad Art. 2, ch. 2, et Art. 3, ch. 5
 
-A l’entrée dans le territoire de l’autre pays des machines, des tracteurs et des véhicules importés dans les conditions prévues aux art. 2 et 3, les carburants et les lubrifiants bénéficieront de la franchise de tous droits, taxes et autres charges pour la quantité nécessaire à l’utilisation de ce matériel pendant une journée.
+À l’entrée dans le territoire de l’autre pays des machines, des tracteurs et des véhicules importés dans les conditions prévues aux art. 2 et 3, les carburants et les lubrifiants bénéficieront de la franchise de tous droits, taxes et autres charges pour la quantité nécessaire à l’utilisation de ce matériel pendant une journée.
 
 Toutefois, la Commission Permanente visée à l’art. 11 de la Convention examinera si, lorsque les conditions locales l’exigent, des facilités complémentaires pour l’importation des carburants et lubrifiants au‑delà de la quantité journalière prévue peuvent être consenties.
 
@@ -513,12 +514,12 @@ Fait en double exemplaire, à Berne, le 31 janvier 1938.
 <tr><td>Gassmann</td><td>René Thierry</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [RS **9** 431; [RO 1953 1272](https://fedlex.data.admin.ch/eli/oc/1953/1245_1272_1315)art. 45, [1958 409](https://fedlex.data.admin.ch/eli/oc/1958/395_409_409). [RS 916.111.0](https://fedlex.data.admin.ch/eli/cc/1959/995_1033_1021)art. 68 al. 3]. Actuellement «loi fédérale du 20 mars 1959 sur l’approvisionnement du pays en blé» ([RS 916.111.0](https://fedlex.data.admin.ch/eli/cc/1959/995_1033_1021)).
-[^annexu1-lvlu1-2]: [RS **9** 444; [RO 1953 1284](https://fedlex.data.admin.ch/eli/oc/1953/1257_1284_1327)art. 19, [1954 662](https://fedlex.data.admin.ch/eli/oc/1954/648_662_550), [1956 1268](https://fedlex.data.admin.ch/eli/oc/1956/1188_1268_1282), [1957 701](https://fedlex.data.admin.ch/eli/oc/1957/694_701_720), [1958 411](https://fedlex.data.admin.ch/eli/oc/1958/397_411_411)[487](https://fedlex.data.admin.ch/eli/oc/1958/467_487_487)[699](https://fedlex.data.admin.ch/eli/oc/1958/669_699_699); RS **171.011.1** art. 6. [RO 1959 1057](https://fedlex.data.admin.ch/eli/oc/1959/1019_1057_1046)art. 74 al. 2 let. a]. Actuellement l’O générale du 16 juin 1986 ([RS 916.111.01](https://fedlex.data.admin.ch/eli/cc/1986/1002_1002_1002)) et l’O du 10 nov. 1959 concernant la réserve supplémentaire de blé ([RS 916.111.121](https://fedlex.data.admin.ch/eli/cc/1959/1057_1095_1086)).
+[^annexu1-lvlu1-1]: [RS **9** 431; [RO 1953 1272](https://fedlex.data.admin.ch/eli/oc/1953/1245_1272_1315)art. 45; [1958 409](https://fedlex.data.admin.ch/eli/oc/1958/395_409_409). [RO 1959 1033](https://fedlex.data.admin.ch/eli/oc/1959/995_1033_1021)art. 68 al. 3]
+[^annexu1-lvlu1-2]: [RS **9** 444; [RO 1953 1284](https://fedlex.data.admin.ch/eli/oc/1953/1257_1284_1327)art. 19; [1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 6; [1954 662](https://fedlex.data.admin.ch/eli/oc/1954/648_662_550); [1956 1268](https://fedlex.data.admin.ch/eli/oc/1956/1188_1268_1282); [1957 701](https://fedlex.data.admin.ch/eli/oc/1957/694_701_720); [1958 411](https://fedlex.data.admin.ch/eli/oc/1958/397_411_411), [487](https://fedlex.data.admin.ch/eli/oc/1958/467_487_487), [699](https://fedlex.data.admin.ch/eli/oc/1958/669_699_699). [RO 1959 1057](https://fedlex.data.admin.ch/eli/oc/1959/1019_1057_1046)art. 74 al. 2 let. a]
 [^annexu1-lvlu1-3]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
 [^annexu1-lvlu1-4]: Nouvelle teneur selon le ch. 2 de l’échange de notes des 28 mai/28 août 1963 ([RO 1963 1075](https://fedlex.data.admin.ch/eli/oc/1963/1070_1075_1115)).
 
-## Echange de notes
+## Échange de notes
 
 Annexe n<sup>o</sup> 1
 
@@ -534,7 +535,7 @@ Les autorités douanières de chacune des H.P.C. pourront exiger, indépendammen
 
 Trafic de marché
 
-En vue du contrôle des importations en Suisse des légumes et fruits‑légumes frais et des pommes de terre en provenance de la zone frontalière française du Haut‑Rhin, chaque producteur français recevra un carnet spécial qui lui sera délivré par l’Administration des douanes suisses d’après les indications fournies par les autorités françaises compétentes.
+En vue du contrôle des importations en Suisse des légumes et fruits‑légumes frais et des pommes de terre en provenance de la zone frontalière française du Haut‑Rhin, chaque producteur français recevra un carnet spécial qui lui sera délivré par l’Administration des douanes suisses[^annexu1-lvlu3-lvl1-1] d’après les indications fournies par les autorités françaises compétentes.
 
 Ce carnet contiendra, pour chacun des produits susvisés, la mention des contingents globaux trimestriels auxquels le titulaire aura droit (contingent en franchise et contingent sous paiement des droits).
 
@@ -568,6 +569,8 @@ Les importations en franchise, prévues à l’art. 5 de la Convention, auront l
 - c. l’ayant droit, en se présentant au bureau d’importation, produira cette carte au service des douanes et lui remettra une déclaration signée, d’un modèle spécial, mentionnant la nature, l’espèce et le poids des marchandises qu’il désire introduire;
 - d. pour faciliter ces opérations, l’Administration préfectorale française déposera dans les mairies ainsi que dans les bureaux de douane français intéressés, des formules de déclaration dont les titulaires de cartes de franchise pourront ainsi se munir à tout moment.
 
+[^annexu1-lvlu3-lvl1-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 ### 2. Produits ou objets exportés temporairement ou importés temporairement
 
 Les autorités douanières de chacune des H.P.C. pourront faire placer ces produits ou objets sous le couvert de titres de mouvements descriptifs (passavants, acquits, etc.) comportant garantie ou consignation des droits et taxes éventuellement exigibles et, le cas échéant, faire apposer sur ces produits ou objets telles marques d’identité (plombs, estampilles, vignettes, etc.) jugées par elles indispensables.
@@ -580,7 +583,7 @@ Au cours de la négociation de la Convention sur les rapports de voisinage et la
 
 Dès la mise en vigueur de la Convention, les personnes ayant dans la zone frontalière du Haut‑Rhin ou dans la zone frontalière des cantons suisses correspondants, leur domicile ou, depuis quatre mois au moins, leur résidence habituelle pourront obtenir une carte frontalière. Pourront y prétendre également les personnes qui, ne résidant pas dans l’une de ces zones frontalières mêmes, exploitent des biens‑fonds dans l’une ou l’autre de ces zones et bénéficient des avantages prévus à la Convention.
 
-Les titulaires de cartes frontalières délivrées dans l’un des deux Etats sont admis à franchir la frontière; ils peuvent séjourner pendant une durée maximum de trois jours consécutifs dans la zone frontalière de l’autre Etat. Les prescriptions régissant dans les deux Etats l’exercice d’une activité lucrative demeurent réservées.
+Les titulaires de cartes frontalières délivrées dans l’un des deux États sont admis à franchir la frontière; ils peuvent séjourner pendant une durée maximum de trois jours consécutifs dans la zone frontalière de l’autre État. Les prescriptions régissant dans les deux États l’exercice d’une activité lucrative demeurent réservées.
 
 Les cartes frontalières délivrées aux Français et aux Suisses sont valables pour une année au moins; pour les autres personnes, la durée de validité ne pourra dépasser celle de l’autorisation de résidence.
 
@@ -588,7 +591,7 @@ Ces cartes peuvent être renouvelées.
 
 Elles seront délivrées, du côté français, par le Préfet du Haut‑Rhin ou ses délégués et, du côté suisse, par les Directions de police des cantons ou par les servives que celles‑ci désigneront.
 
-Les autorités compétentes de chacun des deux Etats enverront directement aux autorités compétentes de l’autre Etat, pour être visées, les cartes frontalières qu’elles auront établies. Les autorités de l’autre Etat les retourneront dans le plus bref délai munies de leur visa qui sera apposé à titre gratuit.
+Les autorités compétentes de chacun des deux États enverront directement aux autorités compétentes de l’autre État, pour être visées, les cartes frontalières qu’elles auront établies. Les autorités de l’autre État les retourneront dans le plus bref délai munies de leur visa qui sera apposé à titre gratuit.
 
 Lorsque les conditions prévues par la présente lettre seront remplies, les visas ne pourront être refusés que pour des raisons d’ordre ou de sécurité publics.
 
@@ -598,7 +601,7 @@ Elle avisera d’urgence de la mesure prise l’autorité qui a délivré la car
 
 Les modèles des cartes frontalières seront arrêtés d’un commun accord par les services compétents de chaque pays.
 
-Les dispositions ci‑dessus ne portent pas atteinte aux tolérances d’usage pour le franchissement occasionnel de la frontière, étant toutefois entendu que les enfants de moins de 15 ans habitant une agglomération urbaine d’un des deux Etats ne pourront pénétrer dans le territoire de l’autre que s’ils sont munis d’une pièce d’identité personnelle ou si leurs nom, prénom, âge et domicile figurent sur la pièce d’identité de la personne adulte qui les accompagne.
+Les dispositions ci‑dessus ne portent pas atteinte aux tolérances d’usage pour le franchissement occasionnel de la frontière, étant toutefois entendu que les enfants de moins de 15 ans habitant une agglomération urbaine d’un des deux États ne pourront pénétrer dans le territoire de l’autre que s’ils sont munis d’une pièce d’identité personnelle ou si leurs nom, prénom, âge et domicile figurent sur la pièce d’identité de la personne adulte qui les accompagne.
 
 Les deux Gouvernements envisageront ultérieurement l’opportunité d’étendre le régime ci‑dessus défini à l’ensemble de la frontière franco‑suisse.
 
@@ -623,7 +626,7 @@ Les engagements pris en vertu de la présente lettre seront valables pour toute 
 
 Les listes des communes suisses et françaises appelées à bénéficier des conditions ci‑dessus définies seront établies par les Services compétents de chaque pays qui se les communiqueront.
 
-[^annexu1-lvlu1-5]: [RO **6** 413, **15** 214. [RS 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)art. 12 al. 3]
+[^annexu1-lvlu1-5]: [RO **6** 413; **15** 214. RS **12** 633 art. 12 al. 3]
 
 Annexe n <sup>o</sup> 4
 

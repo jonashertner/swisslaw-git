@@ -3,26 +3,26 @@ sr: "0.631.256.934.99"
 title: Übereinkunft vom 31. Januar 1938 zwischen der Schweiz und Frankreich betreffend die grenznachbarlichen Verhältnisse und die Beaufsichtigung der Grenzwaldungen (mit Schlussprotokoll und Notenaustausch)
 eli: "https://fedlex.data.admin.ch/eli/cc/54/207_207_204"
 language: de
-version: 1963-10-17
+version: 2022-01-01
 adopted: 1938-01-31
 in_force: 1938-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/207_207_204/19631017/de/xml/fedlex-data-admin-ch-eli-cc-54-207_207_204-19631017-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/207_207_204/19631017/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/207_207_204/20220101/de/xml/fedlex-data-admin-ch-eli-cc-54-207_207_204-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/207_207_204/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkunft zwischen der Schweiz und Frankreich betreffend die grenznachbarlichen Verhältnisse und die Beaufsichtigung der Grenzwaldungen
 
-0.631.256.934.99Nicht löschen bitte "[^t-1] " !! (Stand am 5. November 1999)
+BS **12** 679; BBl **1938** 1164
 
-Übersetzung*[^t-2]*
+*Übersetzung*
 
-Abgeschlossen am 31. Januar 1938 Von der Bundesversammlung genehmigt am 1. April 1938[^t-3] Ratifikationsurkunden ausgetauscht am 1. Mai 1938 In Kraft getreten am 1. Juni 1938
+Abgeschlossen am 31. Januar 1938 Von der Bundesversammlung genehmigt am 1. April 1938[^t-1] Ratifikationsurkunden ausgetauscht am 1. Mai 1938 In Kraft getreten am 1. Juni 1938
 
-[^t-1]: BS **12** 679; BBl **1938** 1164
-[^t-2]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: Art. 1 des BB vom 1. April 1938 (AS **54** 206)
+(Stand am 1. Januar 2022)
+
+[^t-1]: Art. 1 des BB vom 1. April 1938 (AS **54** 206)
 
 Der Schweizerische Bundesrat und der Präsident der Französischen Republik,
 
@@ -32,7 +32,7 @@ von dem Wunsche geleitet, an den Bestimmungen der Übereinkunft vom 23. Februar 
 
 die nach gegenseitiger Mitteilung ihrer in guter und gehöriger Form befundenen Vollmachten sich über folgende Bestimmungen geeinigt haben:
 
-[^ingress-1]: [AS **6** 468, **15** 218. [SR 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)Art. 12 Abs. 3]
+[^ingress-1]: [AS **6** 468; **15** 218. BS **12** 679Art. 12 Abs. 3]
 
 #### Art. 1
 
@@ -64,11 +64,11 @@ Im die Bewirtschaftung der in einer der Grenzzonen liegenden Grundstücke, die v
 - 6\. Milchprodukte des aus einer Grenzzone stammenden, aber in der andern Zone sömmernden oder winternden Viehs, die vom Pächter oder Eigentümer des Viehs eingeführt werden. Die Abgabenbefreiung wird auf folgende Tagesmengen beschränkt:
 
 <table>
-<tr><td></td><td>Käse:</td><td>je Kuh</td><td>0,3 kg</td></tr>
-<tr><td></td><td></td><td>je Ziege</td><td>0,06 kg</td></tr>
-<tr><td></td><td></td><td>je Schaf</td><td>0,03 kg</td></tr>
-<tr><td></td><td>Butter:</td><td>je Kuh</td><td>0,2 kg</td></tr>
-<tr><td></td><td></td><td>je Ziege</td><td>0,04 kg</td></tr>
+<tr><td>Käse:</td><td>je Kuh</td><td>0,3 kg</td></tr>
+<tr><td></td><td>je Ziege</td><td>0,06 kg</td></tr>
+<tr><td></td><td>je Schaf</td><td>0,03 kg</td></tr>
+<tr><td>Butter:</td><td>je Kuh</td><td>0,2 kg</td></tr>
+<tr><td></td><td>je Ziege</td><td>0,04 kg</td></tr>
 </table>
 
 - Diese Mengen können auch noch eingeführt werden, nachdem das Vieh schon zurückgebracht worden ist, immerhin spätestens innerhalb 4 Wochen nach der Alpentladung.
@@ -76,7 +76,7 @@ Im die Bewirtschaftung der in einer der Grenzzonen liegenden Grundstücke, die v
 [^2-1]: Siehe auch das Schlussprotokoll hiernach.
 [^2-2]: Für die Auslegung siehe das Schlussprotokoll hiernach (Allgemeine Begriffsbestimmungen, Ziff. 1).
 [^2-3]: Für die Auslegung siehe das Schlussprotokoll hiernach (Allgemeine Begriffsbestimmungen, Ziff. 2).
-[^2-4]: [SR 0.916.443.934.91](https://fedlex.data.admin.ch/eli/cc/28/781_783_775)
+[^2-4]: [BS **14** 181. [AS 1997 802](https://fedlex.data.admin.ch/eli/oc/1997/802_802_802)]
 
 #### Art. 3
 
@@ -359,7 +359,7 @@ Die Übereinkunft vom 31. Oktober 1884[^12-3] zur Bekämpfung des Jagdfrevels bl
 [^12-2]: [AS **15** 218]
 [^12-3]: [SR 0.922.934.9](https://fedlex.data.admin.ch/eli/cc/8/183_179_183)
 
-*Zu Urkund dessen* haben die beiderseitigen Bevollmächtigten die vorliegende Übereinkunft unterzeichnet und mit ihren Siegeln versehen. Ausgefertigt in doppelter Urschrift in Bern, am 31. Januar 1938. Motta Alphand Gassmann René Thierry
+*Zu Urkund dessen* haben die beiderseitigen Bevollmächtigten die vorliegende Übereinkunft unterzeichnet und mit ihren Siegeln versehen. Ausgefertigt in doppelter Urschrift in Bern, am 31. Januar 1938. Motta Gassmann Alphand René Thierry
 
 Schlussprotokoll
 
@@ -506,12 +506,11 @@ Die Mitglieder der ständigen Kommission können sich von Sachverständigen und 
 Ausgefertigt in doppelter Urschrift in Bern, am 31. Januar 1938.
 
 <table>
-<tr><td>Motta</td><td>Alphand</td></tr>
-<tr><td>Gassmann</td><td>René Thierry</td></tr>
+<tr><td>Motta Gassmann</td><td>Alphand René Thierry</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: [BS **9** 439; [AS 1953 1245](https://fedlex.data.admin.ch/eli/oc/1953/1245_1272_1315)Art. 45, [1958 395](https://fedlex.data.admin.ch/eli/oc/1958/395_409_409). [SR 916.111.0](https://fedlex.data.admin.ch/eli/cc/1959/995_1033_1021)Art. 68 Abs. 3]. Heute gelten die Bestimmungen des Getreidegesetzes vom 20. März 1959 ([SR 916.111.0](https://fedlex.data.admin.ch/eli/cc/1959/995_1033_1021)).
-[^annexu1-lvlu1-2]: [BS **9** 452; [AS 1953 1257](https://fedlex.data.admin.ch/eli/oc/1953/1257_1284_1327)Art. 19, [1954 648](https://fedlex.data.admin.ch/eli/oc/1954/648_662_550), [1956 1188](https://fedlex.data.admin.ch/eli/oc/1956/1188_1268_1282), [1957 694](https://fedlex.data.admin.ch/eli/oc/1957/694_701_720), [1958 397](https://fedlex.data.admin.ch/eli/oc/1958/397_411_411)[467](https://fedlex.data.admin.ch/eli/oc/1958/467_487_487)[669](https://fedlex.data.admin.ch/eli/oc/1958/669_699_699); [SR 172.011.1](https://fedlex.data.admin.ch/eli/cc/1951/968_970_996)Art. 6. [AS 1959 1019](https://fedlex.data.admin.ch/eli/oc/1959/1019_1057_1046)Art. 74 Abs. 2 Bst. a]. Heute gelten die Allgemeine Verordnung vom 16. Juni 1986 zum Getreidegesetz ([SR 916.111.01](https://fedlex.data.admin.ch/eli/cc/1986/1002_1002_1002)) und V (Zusatzvorrat an Brotgetreide) vom 10. Nov. 1959 ([SR 916.111.121](https://fedlex.data.admin.ch/eli/cc/1959/1057_1095_1086)).
+[^annexu1-lvlu1-1]: [BS **9** 439; [AS 1953 1245](https://fedlex.data.admin.ch/eli/oc/1953/1245_1272_1315)Art. 45; [1958 395](https://fedlex.data.admin.ch/eli/oc/1958/395_409_409). [AS 1959 995](https://fedlex.data.admin.ch/eli/oc/1959/995_1033_1021)Art. 68 Abs. 3]
+[^annexu1-lvlu1-2]: [BS **9** 452; [AS 1951 968](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)Art. 6; [1953 1257](https://fedlex.data.admin.ch/eli/oc/1953/1257_1284_1327)Art. 19; [1954 648](https://fedlex.data.admin.ch/eli/oc/1954/648_662_550); [1956 1188](https://fedlex.data.admin.ch/eli/oc/1956/1188_1268_1282); [1957 694](https://fedlex.data.admin.ch/eli/oc/1957/694_701_720); [1958 397](https://fedlex.data.admin.ch/eli/oc/1958/397_411_411), [467](https://fedlex.data.admin.ch/eli/oc/1958/467_487_487), [669](https://fedlex.data.admin.ch/eli/oc/1958/669_699_699). [AS 1959 1019](https://fedlex.data.admin.ch/eli/oc/1959/1019_1057_1046)Art. 74 Abs. 2 Bst. a]
 [^annexu1-lvlu1-3]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 [^annexu1-lvlu1-4]: Fassung gemäss Ziff. 2 des Notenaustausches vom 28. Mai/28. Aug. 1963 ([AS 1963 1070](https://fedlex.data.admin.ch/eli/oc/1963/1070_1075_1115)).
 
@@ -531,7 +530,7 @@ Die Zollbehörden jedes der hohen vertragschliessenden Teile können, gegebenenf
 
 Marktverkehr
 
-Zum Zwecke der Einfuhrkontrolle der von der französischen Grenzzone des Departementes Haut‑Rhin herkommenden frischen Gemüse und der Kartoffeln erhält jeder französische Erzeuger ein Kontrollbüchlein, das ihm von der schweizerischen Zollverwaltung nach Angaben der zuständigen französischen Behörden ausgehändigt wird.
+Zum Zwecke der Einfuhrkontrolle der von der französischen Grenzzone des Departementes Haut‑Rhin herkommenden frischen Gemüse und der Kartoffeln erhält jeder französische Erzeuger ein Kontrollbüchlein, das ihm von der schweizerischen Zollverwaltung[^annexu1-lvlu3-lvl1-1] nach Angaben der zuständigen französischen Behörden ausgehändigt wird.
 
 Dieses Büchlein enthält für jedes der vorgenannten Erzeugnisse die Angabe der vierteljährlichen Gesamtkontingente, auf welche der Inhaber Anrecht hat (abgabefreies Kontingent und abgabepflichtiges Kontingent).
 
@@ -541,11 +540,11 @@ Die Waren werden im Rahmen der täglichen, in der Übereinkunft festgesetzten Me
 
 Sie werden im Rahmen der wöchentlichen, in der Übereinkunft festgesetzten Mengen und solange der Inhaber des Büchleins sein vierteljährliches Kontingent nicht erreicht hat, gegen Entrichtung der Abgaben zugelassen.
 
-Wiederausgeführte Waren werden ebenfalls im Büchlein vermerkt (Artikel 4 Ziffer 3 letzter Absatz der Übereinkunft).
+Wiederausgeführte Waren werden ebenfalls im Büchlein vermerkt (Art. 4 Ziff. 3 letzter Absatz der Übereinkunft).
 
 Holz
 
-Der Ursprungsnachweis für rohe Erzeugnisse wird geleistet: in Frankreich, durch ein von der Präfekturbehörde (Präfekt oder Unterpräfekt) unter allfälliger Mitwirkung der Zollverwaltung oder des Forstamtes ausgestelltes Attest; in der Schweiz, durch ein von den kantonalen Forstämtern ausgestelltes Attest.
+Der Ursprungsnachweis für rohe Erzeugnisse wird geleistet: in Frankreich, durch ein von der Präfekturbehörde (Präfekt oder Unterpräfekt) unter allfälliger Mitwirkung der Zollverwaltung[^annexu1-lvlu3-lvl1-2] oder des Forstamtes ausgestelltes Attest; in der Schweiz, durch ein von den kantonalen Forstämtern ausgestelltes Attest.
 
 Für gesägtes Holz, das den halben Zollansatz geniesst, ist der Nachweis über den Ort, wo das Sägen stattgefunden hat, in gleicher Weise zu leisten; die Zulassung zum halben Zollansatz wird gegen Vorweisung der sogenannten «Bons de crédit» durch das nämliche Zollamt gewährt.
 
@@ -554,20 +553,23 @@ Gemäss Artikel 5 abgabenfrei eingeführte Erzeugnisse
 Die in Artikel 5 der Übereinkunft vorgesehene abgabenfreie Einfuhr hat unter den hiernach umschriebenen allgemeinen Bedingungen zu erfolgen:
 
 - a. die begünstigten Importeure erhalten von der Präfekturbehörde eine Zollbefreiungskarte;
-- b. die auf den Namen ausgestellte Karte enthält besonders die Angabe:
+- b.
 
-<table>
-<tr><td></td><td>–</td><td>der Art und Menge der Waren, die abgabenfrei eingeführt werden können;</td></tr>
-<tr><td></td><td>–</td><td>des Einfuhrzollamtes;</td></tr>
-<tr><td></td><td>–</td><td>des Einfuhrtages;</td></tr>
-</table>
+  die auf den Namen ausgestellte Karte enthält besonders die Angabe:
+
+  - – der Art und Menge der Waren, die abgabenfrei eingeführt werden können;
+  - – des Einfuhrzollamtes;
+  - – des Einfuhrtages;
 
 - c. der Importberechtigte meldet sich beim Einfuhrzollamt, weist diese Karte der Zolldienststelle vor und übergibt ihr eine unterzeichnete besondere Deklaration, auf welcher Art, Beschaffenheit und Gewicht der einzuführenden Waren vermerkt sind;
 - d. um diese Verfahren zu erleichtern, legt die französische Präfekturverwaltung bei den Bürgermeisterämtern und den in Betracht fallenden Zollämtern Deklarationsformulare auf, damit die Inhaber der Zollbefreiungskarten sich diese jederzeit beschaffen können.
 
+[^annexu1-lvlu3-lvl1-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^annexu1-lvlu3-lvl1-2]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 ### 2. Vorübergehend ein‑ oder ausgeführte Erzeugnisse und Gegenstände
 
-ie Zollbehörden jedes der hohen vertragschliessenden Teile können diese Erzeugnisse oder Gegenstände der Zwischenabfertigung unterstellen (Freipässe, Geleitscheine usw.), unter Sicherstellung oder Hinterlage allfällig geschuldeter Abgaben und Gebühren, sowie gegebenenfalls an diesen Erzeugnissen und Gegenständen diejenigen Erkennungszeichen (Plomben, Stempel, Vignetten usw.) anbringen lassen, die sie als unbedingt notwendig erachten.
+Die Zollbehörden jedes der hohen vertragschliessenden Teile können diese Erzeugnisse oder Gegenstände der Zwischenabfertigung unterstellen (Freipässe, Geleitscheine usw.), unter Sicherstellung oder Hinterlage allfällig geschuldeter Abgaben und Gebühren, sowie gegebenenfalls an diesen Erzeugnissen und Gegenständen diejenigen Erkennungszeichen (Plomben, Stempel, Vignetten usw.) anbringen lassen, die sie als unbedingt notwendig erachten.
 
 Beilage 2
 
@@ -622,7 +624,7 @@ Die gemäss dem vorliegenden Brief übernommenen Verpflichtungen sind für die g
 
 Die Verzeichnisse der schweizerischen und französischen Gemeinden, die in den Genuss der vorstehend umschriebenen Bestimmungen gelangen können, werden von den zuständigen Stellen der beiden Länder aufgestellt und gegenseitig ausgetauscht.
 
-[^annexu1-lvlu1-5]: [AS **6** 468, **15** 218. [SR 0.631.256.934.99](https://fedlex.data.admin.ch/eli/cc/54/207_207_204)Art. 12. Abs. 3]
+[^annexu1-lvlu1-5]: [AS **6** 468; **15** 218. BS **12** 679 Art. 12 Abs. 3]
 
 Beilage 4
 
