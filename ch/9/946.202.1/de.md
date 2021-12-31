@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2016 über die Kontrolle zivil und militärisch v
 short: GKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: de
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/de"
 
 (Güterkontrollverordnung, GKV)
 
-vom 3. Juni 2016 (Stand am 1. November 2021)
+vom 3. Juni 2016 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -233,10 +233,11 @@ Für die Lieferung von Gütern nach den Anhängen 2–5 an offene Zolllager oder
 
 <sup>2</sup> Handelt es sich um eine Generalausfuhrbewilligung, so müssen die Geschäftspapiere, die sich auf die Ausfuhr beziehen, mit dem Hinweis «Diese Güter unterliegen internationalen Exportkontrollen» versehen werden.
 
-<sup>3</sup> Wer Güter ausführt, die unter die Zolltarifkapitel[^17-2] 28–29, 30 (nur die Tarifnummern 3002.1000–9000), 34, 36–40, 54–56, 59, 62, 65 (nur die Tarifnummer 6506.1000), 68–76, 79, 81–90 und 93 fallen, jedoch nicht der Bewilligungspflicht nach Artikel 3 unterliegen oder nach Artikel 4 von der Ausfuhrbewilligungspflicht ausgenommen sind, muss in der Zollanmeldung den Hinweis «bewilligungsfrei» anbringen.
+<sup>3</sup> Wer Güter ausführt, die unter die Zolltarifkapitel[^17-2] 28–29, 30 (nur die Tarifnummern 3002.1200–9000), 34, 36–40, 54–56, 59, 62, 65 (nur die Tarifnummer 6506.1000), 68–76, 79, 81–90 und 93 fallen, jedoch nicht der Bewilligungspflicht nach Artikel 3 unterliegen oder nach Artikel 4 von der Ausfuhrbewilligungspflicht ausgenommen sind, muss in der Zollanmeldung den Hinweis «bewilligungsfrei» anbringen.[^17-3]
 
 [^17-1]: Fassung gemäss Ziff. III 2 der V vom 17. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^17-2]: Zolltarifgesetz vom 9. Oktober 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), Anhänge 1 und 2. Der Zolltarif kann kostenlos eingesehen werden unter www.ezv.admin.ch &gt; Zolltarif – Tares.
+[^17-3]: Fassung gemäss Anhang 3 Ziff. 16 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 18
 

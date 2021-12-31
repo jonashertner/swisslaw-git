@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016 (Stato 1° novembre 2021)
+del 3 giugno 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -233,10 +233,11 @@ La fornitura di beni di cui agli allegati 2–5 a depositi doganali aperti o a d
 
 <sup>2</sup> Se si tratta di un’autorizzazione generale d’esportazione, sui documenti commerciali relativi all’esportazione dev’essere apposta l’indicazione «Questi beni sottostanno ai controlli internazionali delle esportazioni».
 
-<sup>3</sup> Chiunque esporta beni che sono enumerati nei capitoli della tariffa doganale[^17-2] 28–29, 30 (solo le voci 3002.1000–9000), 34, 36–40, 54–56, 59, 62, 65 (solo la voce 6506.1000), 68–76, 79, 81–90 e 93, ma che non soggiacciono all’obbligo dell’autorizzazione secondo l’articolo 3 o che sono esentati dall’obbligo dell’autorizzazione d’esportazione secondo l’articolo 4, deve menzionare nella dichiarazione doganale l’indicazione «esente da autorizzazione».
+<sup>3</sup> Chiunque esporta beni che sono enumerati nei capitoli della tariffa doganale[^17-2] 28–29, 30 (solo le voci 3002.1200–9000), 34, 36–40, 54–56, 59, 62, 65 (solo la voce 6506.1000), 68–76, 79, 81–90 e 93, ma che non soggiacciono all’obbligo dell’autorizzazione secondo l’articolo 3 o che sono esentati dall’obbligo dell’autorizzazione d’esportazione secondo l’articolo 4, deve menzionare nella dichiarazione doganale l’indicazione «esente da autorizzazione».[^17-3]
 
-[^17-1]: Nuovo testo gisuta il n. III 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
+[^17-1]: Nuovo testo giusta il n. III 2 dell’O del 17 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^17-2]: L del 9 ott. 1986 sulla tariffa delle dogane ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), all. 1 e 2. È possibile consultare gratuitamente la tariffa doganale su www.ezv.admin.ch &gt; Tariffa doganale – Tares.
+[^17-3]: Nuovo testo giusta l’all. 3 n. 16 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 18
 

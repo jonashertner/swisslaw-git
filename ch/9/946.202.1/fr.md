@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2016 sur le contrôle des biens utilisables à des 
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: fr
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/fr"
 
 (Ordonnance sur le contrôle des biens, OCB)
 
-du 3 juin 2016 (Etat le 1<sup>er</sup> novembre 2021)
+du 3 juin 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -233,10 +233,11 @@ La livraison de biens mentionnés aux annexes 2 à 5 à des entrepôts douaniers
 
 <sup>2</sup> S’il s’agit d’une licence générale d’exportation, les documents commerciaux relatifs à l’exportation doivent comporter la mention «Ces biens sont soumis aux contrôles internationaux à l’exportation».
 
-<sup>3</sup> Quiconque exporte des biens relevant des chap. 28, 29, 30 (uniquement les n<sup>os</sup> 3002.1000-9000), 34, 36 à 40, 54 à 56, 59, 62, 65 (uniquement le n<sup>o</sup> 6506.1000), 68 à 76, 79, 81 à 90 et 93 du tarif des douanes[^17-2], mais qui ne sont pas soumis au régime du permis d’exportation selon l’art. 3, ou en sont exemptés aux termes de l’art. 4, est tenu de faire figurer la mention «exempt de permis» dans la déclaration en douane.
+<sup>3</sup> Quiconque exporte des biens relevant des chap. 28, 29, 30 (uniquement les n<sup>os</sup> 3002.1200-9000), 34, 36 à 40, 54 à 56, 59, 62, 65 (uniquement le n<sup>o</sup> 6506.1000), 68 à 76, 79, 81 à 90 et 93 du tarif des douanes[^17-2], mais qui ne sont pas soumis au régime du permis d’exportation selon l’art. 3, ou en sont exemptés aux termes de l’art. 4, est tenu de faire figurer la mention «exempt de permis» dans la déclaration en douane.[^17-3]
 
 [^17-1]: Nouvelle teneur selon le ch. III 2 de l’O du 17 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^17-2]: Loi fédérale du 9 oct. 1986 sur le tarif des douanes ([RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)), annexes 1 et 2. Le tarif des douanes peut être consulté gratuitement à l’adresse suivante: www.afd.admin.ch &gt; Tarif des douanes – Tares.
+[^17-3]: Nouvelle teneur selon l’annexe 3 ch. 16 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 18
 

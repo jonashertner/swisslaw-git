@@ -4,11 +4,11 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20211101/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20211101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20211101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 1 November 2021)
+of 3 June 2016 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -235,10 +235,11 @@ Supplies of goods listed in Annexes 2–5 to public warehouses or bonded warehou
 
 <sup>2</sup> In the case of a general export licence, the commercial documents that relate to the export must be marked: «These goods are subject to international export controls».
 
-<sup>3</sup> Any person who exports goods covered by Customs Tariff chapters[^17-2] 28–29, 30 (only tariff numbers 3002.1000/9000), 34, 36–40, 54–56, 59, 62, 65 (only tariff numbers 6506.1000), 68–76, 79, 81–90 and 93 but which are not subject to a licence requirement under Article 3 or which are exempted from an export licence in terms of Article 4 must mark the customs declaration: «Licence not required».
+<sup>3</sup> Any person who exports goods covered by Customs Tariff chapters[^17-2] 28–29, 30 (only tariff numbers 3002.1000/9000), 34, 36–40, 54–56, 59, 62, 65 (only tariff numbers 6506.1000), 68–76, 79, 81–90 and 93 but which are not subject to a licence requirement under Article 3 or which are exempted from an export licence in terms of Article 4 must mark the customs declaration: «Licence not required».[^17-3]
 
 [^17-1]: Amended by No III 2 of the O of 17 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 595](https://fedlex.data.admin.ch/eli/oc/2021/595)).
 [^17-2]: Customs Tariff Act of 9 Oct. 1986 ([SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)). Annex 1 and 2 of the Customs Tariff Act can be viewed free of charges at www.ezv.admin.ch &gt; Zolltarif - Tares.
+[^17-3]: Amended by Annex 3 No 16 of the O of 30 June 2021 on the Amendment of the Customs Tariff, in force since 1 Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 #### Art. 18
 
