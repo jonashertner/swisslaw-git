@@ -4,13 +4,13 @@ number: "170.410"
 title: Ordinanza sul personale
 short: OCPers
 language: it
-version: 2017-01-01
-corrected: 2017-02-20
-version_adopted: 2016-12-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-26
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2758/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3229/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,11 +19,11 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2758/pdf_file"
 
 (OCPers)
 
-del 12.12.2006 (stato 01.01.2017)
+del 12.12.2006 (stato 01.01.2022)
 
 emanata dal Governo il 12 dicembre 2006
 
-visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni (Legge sul personale, LCPers)[^ingress-2]
+visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul personale[^ingress-2]
 
 [^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 [^ingress-2]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
@@ -44,6 +44,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>5</sup> Alla promozione mirata viene attribuita grande importanza. Il principio delle pari opportunità è la linea guida per l'agire quotidiano.
 
+<sup>6</sup> Il Cantone promuove la parità dei sessi. Esso offre condizioni favorevoli alla parità salariale e alla conciliabilità tra lavoro e vita privata, come orari di lavoro flessibili o la possibilità di lavoro a tempo parziale, di lavoro da casa e di lavoro mobile.
+
 ## 2. Costituzione e cessazione dei rapporti di lavoro
 
 #### Art. 2
@@ -52,7 +54,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>1</sup> I posti vacanti vengono messi a pubblico concorso in base alle direttive del Governo.
 
-<sup>2</sup> Dopo aver sentito l'Ufficio del personale e dell'organizzazione (UPO), l'autorità di assunzione può rinunciare ad una messa a pubblico concorso dei posti nei seguenti casi eccezionali:
+<sup>2</sup> Dopo aver sentito l'Ufficio del personale (UP), l'autorità di assunzione può rinunciare ad una messa a pubblico concorso dei posti nei seguenti casi eccezionali:
 
 - a) per promozioni interne o candidature interne idonee;
 - b) se sono pervenute candidature idonee in soprannumero in risposta a un altro posto messo a concorso, che possono essere tenute in considerazione;
@@ -68,7 +70,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>1</sup> Il periodo di prova dura di regola:
 
-- a) dodici mesi per i capi servizio, i loro supplenti e i segretari di concetto;
+- a) dodici mesi per i capi servizio, i loro supplenti e i segretari generali;
 - b) sei mesi per gli altri collaboratori a partire dalla classe di stipendio 16;
 - c) tre mesi per i collaboratori nelle classi di stipendio da 1 a 15.
 
@@ -208,9 +210,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 **Attribuzioni a classi di stipendio superiori e inferiori, garanzia dello stipendio**
 
-<sup>1</sup> Le domande di verifica dell'attribuzione di posti ad altre classi di stipendio devono di regola essere presentate per via gerarchica all'UPO entro la fine di aprile, indicandone i motivi e allegando il nuovo mansionario.
+<sup>1</sup> Le domande di verifica dell'attribuzione di posti ad altre classi di stipendio devono di regola essere presentate per via gerarchica all'UP entro la fine di aprile, indicandone i motivi e allegando il nuovo mansionario.
 
-<sup>2</sup> Dopo aver sentito l'UPO, l'autorità di assunzione ai sensi dell'articolo 63 LCPers[^13-1] decide in merito ad attribuzioni a classi di stipendio superiori e inferiori.
+<sup>2</sup> Dopo aver sentito l'UP, l'autorità di assunzione ai sensi dell'articolo 63 LCPers[^13-1] decide in merito ad attribuzioni a classi di stipendio superiori e inferiori.
 
 <sup>3</sup> La nuova attribuzione vale di regola a partire dall'inizio dell'anno civile successivo.
 
@@ -226,11 +228,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 **Modello di valutazione soggettiva**
 
-<sup>1</sup> Se l'attribuzione dei compiti deroga ai requisiti giusta la valutazione del posto di lavoro, dopo aver sentito l'UPO il servizio può classificare un collaboratore secondo il modello di valutazione soggettiva al di sopra o al di sotto della classe di funzione. L'attribuzione ad un classe superiore non può superare una classe di stipendio.
+<sup>1</sup> Se l'attribuzione dei compiti deroga ai requisiti giusta la valutazione del posto di lavoro, dopo aver sentito l'UP il servizio può classificare un collaboratore secondo il modello di valutazione soggettiva al di sopra o al di sotto della classe di funzione. L'attribuzione ad un classe superiore non può superare una classe di stipendio.
 
 <sup>2</sup> Le modifiche della classificazione secondo il modello di valutazione soggettivo devono essere neutrali dal profilo dei costi. Per comprovare la perequazione dei costi possono essere presi in considerazione attribuzioni a classi inferiori, posti vacanti e volumi d'impiego non sfruttati. Le attribuzioni a classi di stipendio inferiori secondo l'articolo 16 non possono essere prese in considerazione per la compensazione.
 
-<sup>3</sup> Il Dipartimento decide una perequazione dei costi tra i servizi dopo aver sentito l'UPO.
+<sup>3</sup> Il Dipartimento decide una perequazione dei costi tra i servizi dopo aver sentito l'UP.
 
 #### Art. 15
 
@@ -254,9 +256,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 **Retribuzione degli apprendisti e dei praticanti**
 
-<sup>1</sup> L'UPO fissa gli stipendi degli apprendisti e dei praticanti.
+<sup>1</sup> L'UP fissa gli stipendi degli apprendisti e dei praticanti.
 
-<sup>2</sup> Dopo aver sentito l'UPO il Dipartimento stabilisce la retribuzione degli aspiranti di polizia durante la formazione.
+<sup>2</sup> Dopo aver sentito l'UP il Dipartimento stabilisce la retribuzione degli aspiranti di polizia durante la formazione.
 
 #### Art. 18
 
@@ -264,7 +266,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>1</sup> Se il rapporto di lavoro non dura tutto l'anno, la tredicesima mensilità viene versata pro rata. In caso di decesso la tredicesima mensilità viene calcolata fino al mese incluso in cui è avvenuto il decesso.
 
-<sup>2</sup> Dopo aver sentito l'UPO i servizi possono decurtare, revocare o sospendere il pagamento della 13a mensilità. Le domande per la preparazione delle decisioni devono essere presentate all'UPO entro fine settembre.
+<sup>2</sup> Dopo aver sentito l'UP i servizi possono decurtare, revocare o sospendere il pagamento della 13a mensilità. Le domande per la preparazione delle decisioni devono essere presentate all'UP entro fine settembre.
 
 <sup>3</sup> Agli apprendisti e ai praticanti la tredicesima viene versata alle stesse condizioni valide per gli altri collaboratori.
 
@@ -298,7 +300,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 **Assegni per i figli**
 
-<sup>1</sup> Il diritto agli assegni per i figli deve essere fatto valere per iscritto presso l'UPO. La cessazione del diritto deve essere comunicata tempestivamente.
+<sup>1</sup> Il diritto agli assegni per i figli deve essere fatto valere per iscritto presso l'UP. La cessazione del diritto deve essere comunicata tempestivamente.
 
 #### Art. 22
 
@@ -309,15 +311,15 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 - a) ai collaboratori che hanno figli a carico per i quali viene versato un assegno per i figli;
 - b) agli altri collaboratori che sulla base di disposizioni legislative o di decisioni giudiziarie hanno comprovatamente a carico più di una persona avente diritto al sostegno.
 
-<sup>2</sup> In casi particolari, dopo aver sentito l'UPO il Dipartimento può concedere l'indennità sociale speciale anche ad altri collaboratori.
+<sup>2</sup> In casi particolari, dopo aver sentito l'UP il Dipartimento può concedere l'indennità sociale speciale anche ad altri collaboratori.
 
-<sup>3</sup> L'indennità sociale speciale deve essere richiesta all'UPO. Fanno eccezione i casi in cui viene percepito un assegno per i figli.
+<sup>3</sup> L'indennità sociale speciale deve essere richiesta all'UP. Fanno eccezione i casi in cui viene percepito un assegno per i figli.
 
 <sup>4</sup> Se il volume d'impiego è inferiore all'89 per cento oppure in caso di congedo non pagato di oltre due settimane all'anno, l'indennità viene ridotta in proporzione.
 
 <sup>5</sup> Se due collaboratori impiegati a tempo parziale ricevono la stessa indennità sociale speciale, la somma complessiva non può superare l'indennità intera.
 
-<sup>6</sup> L'indennità sociale speciale viene versata per intero nel mese in cui inizia o si estingue il diritto. I cambiamenti nel diritto all'indennità devono essere comunicati immediatamente all'UPO. Cambiamenti comunicati in ritardo hanno effetto retroattivo per un massimo di cinque anni.
+<sup>6</sup> L'indennità sociale speciale viene versata per intero nel mese in cui inizia o si estingue il diritto. I cambiamenti nel diritto all'indennità devono essere comunicati immediatamente all'UP. Cambiamenti comunicati in ritardo hanno effetto retroattivo per un massimo di cinque anni.
 
 #### Art. 23
 
@@ -329,13 +331,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 **Fondo di previdenza per il personale**
 
-<sup>1</sup> La decisione su mutui con e senza interessi dal fondo di previdenza per il personale fino a 5 000 franchi spetta all'UPO, la decisione su quelli superiori a 5000 franchi spetta al Dipartimento delle finanze e dei comuni.
+<sup>1</sup> La decisione su mutui con e senza interessi dal fondo di previdenza per il personale fino a 5 000 franchi spetta all'UP, la decisione su quelli superiori a 5000 franchi spetta al Dipartimento delle finanze e dei comuni.
 
 <sup>2</sup> Il Dipartimento delle finanze e dei comuni stabilisce le condizioni relative agli interessi.
 
 <sup>3</sup> I mutui senza interessi vengono concessi soltanto in casi di rigore comprovati.
 
-<sup>4</sup> In casi eccezionali possono essere concessi contributi a fondo perso. Fino a 2000 franchi decide l'UPO, oltre 2000 franchi il Dipartimento delle finanze e dei comuni.
+<sup>4</sup> In casi eccezionali possono essere concessi contributi a fondo perso. Fino a 2000 franchi decide l'UP, oltre 2000 franchi il Dipartimento delle finanze e dei comuni.
 
 ### 3.3. Spese
 
@@ -343,7 +345,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 **Spese 1. Principi**
 
-<sup>1</sup> In linea di massima vengono rimborsate soltanto le spese effettivamente sostenute nell'adempimento di compiti di servizio come:
+<sup>1</sup> In linea di massima vengono rimborsate soltanto le spese effettivamente sostenute e necessarie nell'adempimento di compiti di servizio come
 
 - a) vitto e alloggio durante il servizio esterno;
 - b) vitto durante ore supplementari ordinate o riconosciute;
@@ -389,7 +391,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> Gli abbonamenti ferroviari devono essere acquistati a carico del Cantone, se ciò risulta economico.
 
-<sup>3</sup> L'utilizzo degli abbonamenti generali trasferibili si conforma alle direttive dell'UPO.
+<sup>3</sup> L'utilizzo degli abbonamenti generali trasferibili si conforma alle direttive dell'UP.
 
 #### Art. 29
 
@@ -405,7 +407,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>1</sup> L'indennità per chilometro per trasferte di servizio con l'automobile ammonta a 70 centesimi, per quelle con la motocicletta o il ciclomotore a 30 centesimi.
 
-<sup>2</sup> In casi eccezionali e su proposta del servizio, nonché dopo aver sentito l'UPO il Dipartimento può autorizzare indennità più elevate, se le trasferte di servizio cagionano un'usura eccezionale del veicolo a causa di circostanze particolari.
+<sup>2</sup> In casi eccezionali e su proposta del servizio, nonché dopo aver sentito l'UP il Dipartimento può autorizzare indennità più elevate, se le trasferte di servizio cagionano un'usura eccezionale del veicolo a causa di circostanze particolari.
 
 <sup>3</sup> Per l'utilizzo regolare di ciclomotori per motivi di servizio viene versata una forfettaria annuale di 150 franchi.
 
@@ -432,7 +434,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> I capi servizio o i loro supplenti possono mettere in conto al Cantone le spese straordinarie per l'invito di interlocutori esterni per affari importanti. Tali conti spese devono essere documentati e presentati a parte, nonché vistati dal Dipartimento.
 
-<sup>3</sup> In casi particolari, dopo aver sentito l'UPO il Dipartimento può disporre regolamentazioni speciali. Ciò vale ad esempio per periodi di assenza prolungata dal luogo di lavoro per motivi di servizio, se dei giorni liberi cadono in un periodo di assenza oppure per spese elevate a causa di attività di controllo.
+<sup>3</sup> In casi particolari, dopo aver sentito l'UP il Dipartimento può disporre regolamentazioni speciali. Ciò vale ad esempio per periodi di assenza prolungata dal luogo di lavoro per motivi di servizio, se dei giorni liberi cadono in un periodo di assenza oppure per spese elevate a causa di attività di controllo.
 
 #### Art. 33
 
@@ -442,9 +444,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> Il Cantone si assume le spese per impianti telefonici disposti o autorizzati, l'abbonamento e le tasse per telefonate di servizio.
 
-<sup>3</sup> Le telefonate di servizio fatte da un telefono privato o da impianti telefonici pubblici danno diritto soltanto al rimborso delle tasse.
+<sup>3</sup> …
 
-<sup>4</sup> Il conteggio delle spese telefoniche deve recare almeno il nome e il luogo dell'interlocutore, la data, l'ora e la tassa della telefonata. Se con un apparecchio vengono effettuate solo telefonate di servizio, quale giustificativo sono sufficienti le fatture telefoniche.
+<sup>4</sup> …
 
 <sup>5</sup> Il Governo fissa le indennità forfettarie per l'utilizzo di servizio di mezzi di telecomunicazione privati e designa l'autorità di rilascio dell'autorizzazione.
 
@@ -456,7 +458,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> Per le altre spese vengono rimborsati ai collaboratori coniugati fino a 1300 franchi e agli altri fino a 650 franchi.
 
-<sup>3</sup> In casi di rigore, dopo aver sentito l'UPO il Dipartimento può accordare indennità più elevate.
+<sup>3</sup> In casi di rigore, dopo aver sentito l'UP il Dipartimento può accordare indennità più elevate.
 
 <sup>4</sup> Le spese messe in conto al Cantone devono essere documentate.
 
@@ -468,9 +470,17 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> L'indennità per locali di proprietà del collaboratore usati a scopo di servizio si conforma alla situazione del mercato locale.
 
-<sup>3</sup> L'UPO fissa l'indennità su proposta del servizio.
+<sup>3</sup> L'UP fissa l'indennità su proposta del servizio.
 
 <sup>4</sup> Queste disposizioni non valgono per insegnanti di scuole cantonali.
+
+#### Art. 35a
+
+**Lavoro da casa e lavoro mobile**
+
+<sup>1</sup> In linea di principio le spese per l'infrastruttura o per il materiale di lavoro privati per il lavoro da casa e per il lavoro mobile non vengono rimborsate.
+
+<sup>2</sup> In casi eccezionali motivati, d'intesa con il Dipartimento e l'UP possono essere concordati rimborsi spese forfettari per l'infrastruttura o il materiale di lavoro privati.
 
 ### 3.4. Retribuzione in caso di inabilità al lavoro, previdenza professionale
 
@@ -483,7 +493,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 - a) se coniugati o aventi obblighi di mantenimento in base a norme legali o decisioni giudiziarie l'80 per cento;
 - b) gli altri collaboratori il 60 per cento
 
-<sup>2</sup> Dopo aver sentito l'UPO il servizio può autorizzare servizi militari volontari se non vi si oppongono motivi aziendali.
+<sup>2</sup> Dopo aver sentito l'UP il servizio può autorizzare servizi militari volontari se non vi si oppongono motivi aziendali.
 
 <sup>3</sup> Al momento di lasciare il servizio del Cantone deve essere rimborsato lo stipendio percepito durante gli ultimi due anni per servizi d'avanzamento durati complessivamente più di quattro mesi come segue:
 
@@ -511,9 +521,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> Le assenze per malattia che superano i cinque giorni lavorativi devono essere comprovate con un certificato medico. Quest'ultimo deve contenere il grado e la presumibile durata dell'inabilità al lavoro. In casi motivati il servizio può pretendere l'esibizione di un certificato medico prima che siano trascorsi cinque giorni lavorativi.
 
-<sup>3</sup> II certificato medico deve essere consegnato al servizio a destinazione dell'UPO.
+<sup>3</sup> II certificato medico deve essere consegnato al servizio a destinazione dell'UP.
 
-<sup>4</sup> Dopo aver sentito l'UPO il Dipartimento può ordinare in ogni momento una visita da parte del medico di fiducia.
+<sup>4</sup> Dopo aver sentito l'UP il Dipartimento può ordinare in ogni momento una visita da parte del medico di fiducia.
 
 #### Art. 39
 
@@ -531,7 +541,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 **Congedo per convalescenza**
 
-<sup>1</sup> Su raccomandazione del medico, dopo aver sentito l'UPO il Dipartimento può concedere congedi pagati per convalescenza di regola fino a due settimane.
+<sup>1</sup> Su raccomandazione del medico, dopo aver sentito l'UP il Dipartimento può concedere congedi pagati per convalescenza di regola fino a due settimane.
 
 <sup>2</sup> Per congedi per convalescenza prescritti dal medico fanno stato le stesse disposizioni valide per il versamento dello stipendio in caso di malattia.
 
@@ -549,7 +559,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> Se ai collaboratori risulta un vantaggio finanziario dal versamento dello stipendio in seguito a malattia o infortunio e da eventuali prestazioni assicurative, lo stipendio deve essere ridotto in proporzione.
 
-<sup>3</sup> Se l'infortunio è da attribuire a una colpa grave del collaboratore, il Dipartimento decide una riduzione dello stipendio su proposta dell'UPO.
+<sup>3</sup> Se l'infortunio è da attribuire a una colpa grave del collaboratore, il Dipartimento decide una riduzione dello stipendio su proposta dell'UP.
 
 #### Art. 43
 
@@ -575,22 +585,22 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <table>
 <tr><th>Età LPP (uomo/donna)</th><th>Contributo totale per cento</th><th>Collaboratore per cento</th><th>Cantone per cento</th></tr>
-<tr><td>18–19</td><td>2,50</td><td>1,25</td><td>1,25</td></tr>
-<tr><td>20–24</td><td>9,50</td><td>4,75</td><td>4,75</td></tr>
-<tr><td>25–29</td><td>13,00</td><td>6,50</td><td>6,50</td></tr>
-<tr><td>30–34</td><td>15,00</td><td>7,50</td><td>7,50</td></tr>
-<tr><td>35–39</td><td>17,00</td><td>8,50</td><td>8,50</td></tr>
-<tr><td>40–44</td><td>19,00</td><td>9,00</td><td>10,00</td></tr>
-<tr><td>45–49</td><td>22,00</td><td>10,00</td><td>12,00</td></tr>
-<tr><td>50–54</td><td>24,00</td><td>10,25</td><td>13,75</td></tr>
-<tr><td>da 55</td><td>26,00</td><td>10,50</td><td>15,50</td></tr>
+<tr><td>18–19</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+<tr><td>20–24</td><td>14,00</td><td>7,00</td><td>7,00</td></tr>
+<tr><td>25–29</td><td>15,00</td><td>7,50</td><td>7,50</td></tr>
+<tr><td>30–34</td><td>17,00</td><td>8,50</td><td>8,50</td></tr>
+<tr><td>35–39</td><td>19,00</td><td>9,50</td><td>9,50</td></tr>
+<tr><td>40–44</td><td>22,00</td><td>10,75</td><td>11,25</td></tr>
+<tr><td>45–49</td><td>25,00</td><td>11,50</td><td>13,50</td></tr>
+<tr><td>da 50</td><td>27,50</td><td>11,50</td><td>16,00</td></tr>
+<tr><td>da 55</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 #### Art. 44a
 
-**Ampliamento del piano di risparmio**
+**Diritti acquisiti in seguito all'ampliamento del piano di risparmio**
 
-<sup>1</sup> Per i capi servizio, i loro supplenti, i segretari di concetto e le persone il cui stipendio assicurato secondo le disposizioni dell'articolo 5 della legge sulla Cassa pensioni supera i 124 609 franchi, il Cantone versa un contributo di risparmio supplementare pari al quattro per cento dello stipendio assicurato. Il 1° gennaio di ogni anno lo stipendio assicurato viene aumentato della compensazione del rincaro decisa dal Governo e di eventuali miglioramenti dello stipendio reale.
+<sup>1</sup> Il Cantone versa un contributo di risparmio supplementare del quattro per cento dello stipendio assicurato nel 2021 secondo le disposizioni della legge sulla Cassa pensioni dei Grigioni (stato 1° gennaio 2015) ai collaboratori che secondo l'articolo 44a (stato 1° gennaio 2021) ne beneficiavano fino al 31 dicembre 2021. In caso di riduzione del volume di impiego di almeno il 20 per cento lo stipendio determinante si riduce di conseguenza e il 1° gennaio di ogni anno esso viene aumentato della compensazione del rincaro decisa dal Governo e di eventuali miglioramenti dello stipendio reale.
 
 #### Art. 44b
 
@@ -671,9 +681,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>1</sup> Se un collaboratore è assente in seguito a malattia, infortunio, servizio militare di avanzamento, scuola reclute o servizio civile complessivamente per più di otto settimane in un anno civile, le vacanze vengono ridotte di mezza giornata per ogni settimana di assenza che supera questo limite.
 
-<sup>2</sup> In caso di congedo non pagato, le vacanze devono essere ridotte secondo le stesse modalità di cui al capoverso 1 a partire dalla terza settimana di assenza dal lavoro. Se il Cantone ha interesse a concedere un congedo non pagato, la riduzione potrà essere effettuata a partire dalla nona settimana. Il servizio decide dopo avere sentito l'UPO.
+<sup>2</sup> In caso di congedo non pagato, le vacanze devono essere ridotte secondo le stesse modalità di cui al capoverso 1 a partire dalla terza settimana di assenza dal lavoro. Se il Cantone ha interesse a concedere un congedo non pagato, la riduzione potrà essere effettuata a partire dalla nona settimana. Il servizio decide dopo avere sentito l'UP.
 
-<sup>3</sup> In caso di altre assenze dal lavoro, di regola le vacanze non vengono ridotte. Il servizio decide le eccezioni dopo aver sentito l'UPO.
+<sup>3</sup> In caso di altre assenze dal lavoro, di regola le vacanze non vengono ridotte. Il servizio decide le eccezioni dopo aver sentito l'UP.
 
 <sup>4</sup> Queste disposizioni non valgono per insegnanti di scuole cantonali.
 
@@ -685,13 +695,13 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> Se le vacanze non possono essere prese per motivi aziendali o altri motivi plausibili, il servizio può autorizzare o disporre il riporto di al massimo quindici giorni di vacanza.
 
-<sup>3</sup> Il Dipartimento decide il riporto di un numero superiore di giorni di vacanza dopo aver sentito l'UPO.
+<sup>3</sup> Il Dipartimento decide il riporto di un numero superiore di giorni di vacanza dopo aver sentito l'UP.
 
 #### Art. 50
 
 **Compenso finanziario, domanda di rimborso delle vacanze pagate in eccesso**
 
-<sup>1</sup> Se in via eccezionale le vacanze non possono essere prese per motivi aziendali o altri motivi plausibili, il compenso finanziario viene deciso dopo aver sentito l'UPO:
+<sup>1</sup> Se in via eccezionale le vacanze non possono essere prese per motivi aziendali o altri motivi plausibili, il compenso finanziario viene deciso dopo aver sentito l'UP:
 
 - a) al momento di lasciare il servizio del Cantone, dal servizio;
 - b) durante il rapporto di lavoro, dal Dipartimento.
@@ -759,7 +769,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 **Congedi non pagati**
 
-<sup>1</sup> I servizi possono concedere ai collaboratori fino a dieci giorni di congedo non pagato per anno civile. Il numero dei giorni concessi deve essere notificato una volta all'anno all'UPO per la riduzione dello stipendio. Congedi non pagati più lunghi devono essere comunicati tempestivamente all'UPO prima di essere presi.
+<sup>1</sup> I servizi possono concedere ai collaboratori fino a dieci giorni di congedo non pagato per anno civile. Il numero dei giorni concessi deve essere notificato una volta all'anno all'UP per la riduzione dello stipendio. Congedi non pagati più lunghi devono essere comunicati tempestivamente all'UP prima di essere presi.
 
 <sup>2</sup> In caso di congedi non pagati fino a dieci giorni lavorativi i contributi alla Cassa pensione vengono assunti dai collaboratori e dal Cantone. In caso di congedo che supera i dieci giorni lavorativi il beneficiario del congedo si assume sia i contributi del collaboratore che quelli del datore di lavoro.
 
@@ -775,7 +785,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 - a) tre giorni per il proprio matrimonio;
 - b) un giorno per il matrimonio di propri figli, fratelli, sorelle e genitori;
-- c) cinque giorni per la nascita di propri figli o per l'adozione;
+- c) dieci giorni entro sei mesi per la nascita di figli propri;
+- c)<sup>bis</sup> cinque giorni per l'adozione;
 - d) tre giorni in caso di decesso del coniuge, di propri figli, genitori, fratelli e sorelle;
 - e) un giorno per il trasloco in caso di volume d'impiego del 50 per cento e più, mezza giornata in caso di volume d'impiego inferiore.
 
@@ -799,7 +810,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>5</sup> Se il collaboratore in caso di decesso deve preparare i funerali oppure affrontare un lungo viaggio, viene concesso un congedo massimo di tre giorni.
 
-<sup>6</sup> In casi particolari, dopo aver sentito l'UPO il Dipartimento può concedere congedi pagati più lunghi, se sussiste un motivo di congedo ai sensi dei capoversi 1 e 2.
+<sup>6</sup> In casi particolari, dopo aver sentito l'UP il Dipartimento può concedere congedi pagati più lunghi, se sussiste un motivo di congedo ai sensi dei capoversi 1 e 2.
 
 [^56-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 [^56-2]: RS [822.111](https://db.clex.ch/link/Bund/822.111/it)
@@ -814,7 +825,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>2</sup> Con la gestione della riabilitazione si mira al mantenimento della capacità lavorativa, nonché alla rapida e definitiva reintegrazione delle persone malate o infortunate.
 
-<sup>3</sup> Su incarico dell'autorità competente l'UPO può disporre misure volte alla salvaguardia della salute e visite da parte del medico di fiducia.
+<sup>3</sup> Su incarico dell'autorità competente l'UP può disporre misure volte alla salvaguardia della salute e visite da parte del medico di fiducia.
 
 [^57-1]: RS [831.101](https://db.clex.ch/link/Bund/831.101/it)
 
@@ -980,7 +991,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>3</sup> Per ogni giorno di congedo pagato secondo l'articolo 42 capoverso 1 LCPers[^62-1], che viene impiegato per la formazione e il perfezionamento professionale che sono nell'interesse del Cantone, viene accordato un giorno di formazione o perfezionamento supplementare pagato, nella misura in cui ciò è possibile dal punto di vista aziendale. Questi giorni di formazione o perfezionamento messi a disposizione dal Cantone in via aggiuntiva non possono superare i 30 giorni durante l'intero periodo di impiego presso il Cantone. Queste disposizioni non valgono per insegnanti di scuole cantonali.
 
-<sup>4</sup> L'UPO allestisce ogni anno un programma di corsi interni di formazione e perfezionamento professionale ed emana le necessarie direttive.
+<sup>4</sup> L'UP allestisce ogni anno un programma di corsi interni di formazione e perfezionamento professionale ed emana le necessarie direttive.
 
 [^62-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
@@ -990,7 +1001,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>1</sup> Il servizio decide sulla frequenza di corsi di formazione e di perfezionamento professionale dei propri collaboratori.
 
-<sup>2</sup> Se un'unità di formazione o di perfezionamento professionale svolta durante l'orario di lavoro ordinario dura più di dieci giorni oppure se le spese del Cantone ai sensi dell'articolo 65 capoverso 1 superano gli 8 000 franchi, il servizio decide dopo aver sentito l'UPO. In questi casi, la regolamentazione relativa alla formazione e al perfezionamento professionale deve essere concordata per iscritto con il collaboratore.
+<sup>2</sup> Se un'unità di formazione o di perfezionamento professionale svolta durante l'orario di lavoro ordinario dura più di dieci giorni oppure se le spese del Cantone ai sensi dell'articolo 65 capoverso 1 superano gli 8 000 franchi, il servizio decide dopo aver sentito l'UP. In questi casi, la regolamentazione relativa alla formazione e al perfezionamento professionale deve essere concordata per iscritto con il collaboratore.
 
 #### Art. 64
 
@@ -1015,7 +1026,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 <tr><td>3</td><td>-</td><td>-</td></tr>
 </table>
 
-<sup>5</sup> D'intesa con l'UPO il servizio decide sull'ammontare della partecipazione alle spese.
+<sup>5</sup> D'intesa con l'UP il servizio decide sull'ammontare della partecipazione alle spese.
 
 #### Art. 65
 
@@ -1029,7 +1040,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>4</sup> Il Cantone può richiedere il rimborso di spese già pagate e non ancora risultate, se il collaboratore senza motivi plausibili non inizia la formazione o il perfezionamento professionale o lo interrompe o non si presenta all'esame. Lo stesso vale nel caso in cui il collaboratore non riesce a concludere una formazione o un perfezionamento professionale con un diploma formale, perché non sono stati intrapresi gli sforzi pretendibili.
 
-<sup>5</sup> Se sussistono motivi plausibili e dopo aver sentito l'UPO il Dipartimento può rinunciare al rimborso.
+<sup>5</sup> Se sussistono motivi plausibili e dopo aver sentito l'UP il Dipartimento può rinunciare al rimborso.
 
 #### Art. 66
 
@@ -1037,7 +1048,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e la legge sul r
 
 <sup>1</sup> In linea di principio è considerato orario di lavoro soltanto la formazione o il perfezionamento professionale che coincide con l'orario di lavoro ordinario.
 
-<sup>2</sup> Se la formazione o il perfezionamento professionale viene svolta risp. svolto nel tempo libero o essa è volontaria risp. esso è volontario e se sussistono motivi plausibili, dopo aver sentito l'UPO il servizio può eccezionalmente computarla risp. computarlo in parte o per intero quale orario di lavoro.
+<sup>2</sup> Se la formazione o il perfezionamento professionale viene svolta risp. svolto nel tempo libero o essa è volontaria risp. esso è volontario e se sussistono motivi plausibili, dopo aver sentito l'UP il servizio può eccezionalmente computarla risp. computarlo in parte o per intero quale orario di lavoro.
 
 #### Art. 67
 

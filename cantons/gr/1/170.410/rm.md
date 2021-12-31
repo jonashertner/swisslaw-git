@@ -4,13 +4,13 @@ number: "170.410"
 title: Ordinaziun dal persunal
 short: OP
 language: rm
-version: 2017-01-01
-corrected: 2017-02-20
-version_adopted: 2016-12-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-26
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2758/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +19,9 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2758/pdf_file"
 
 (OP)
 
-dals 12-12-2006 (versiun dals 01-01-2017)
+dals 12-12-2006 (versiun dals 01-01-2022)
 
-sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin la lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun (lescha dal persunal, LP)[^ingress-2]
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1] e sin la Lescha dal persunal[^ingress-2]
 
 relaschada da la regenza ils 12 da december 2006
 
@@ -43,6 +43,8 @@ relaschada da la regenza ils 12 da december 2006
 <sup>4</sup> Il chantun tegna quint da las pretensiuns che sa midan permanentamain. El è conscient da las grondas pretensiuns che vegnan fatgas a las collavuraturas ed als collavuraturs sin basa da questas midadas. La relaziun tar las collavuraturas e tar ils collavuraturs è caracterisada da respect e da responsabladad sociala.
 
 <sup>5</sup> In grond pais vegn mess sin la promoziun sistematica. Il princip da l'egualitad da las schanzas è la directiva per l'agir da mintga di.
+
+<sup>6</sup> Il chantun promova l'egualitad da las schlattainas. El porscha cundiziuns generalas che promovan l'egualitad dals salaris e la cumpatibilitad da la lavur cun la vita privata, sco uras da lavur flexiblas u pussaivladads da lavur a temp parzial, da homeoffice e da lavur mobila.
 
 ## 2. Cumenzament e finiziun da las relaziuns da lavur
 
@@ -68,7 +70,7 @@ relaschada da la regenza ils 12 da december 2006
 
 <sup>1</sup> Il temp d'emprova importa per regla:
 
-- a) dudesch mais per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias e per ils secretaris dals departaments;
+- a) dudesch mais per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias generalas e per ils secretaris generals;
 - b) sis mais per las ulteriuras collavuraturas e per ils ulteriurs collavuraturs a partir da la classa da salari 16;
 - c) trais mais per las collavuraturas e per ils collavuraturs en las classas da salari 1 fin 15.
 
@@ -343,7 +345,7 @@ relaschada da la regenza ils 12 da december 2006
 
 **Spesas 1. princips**
 
-<sup>1</sup> Tar l'adempliment d'incumbensas uffizialas vegnan da princip indemnisadas mo spesas che resultan vairamain sco custs supplementars, sco:
+<sup>1</sup> Tar l'adempliment d'incumbensas uffizialas vegnan da princip indemnisadas mo spesas che resultan vairamain e necessariamain sco custs supplementars, sco:
 
 - a) l'alimentaziun e l'alloschi durant il servetsch extern;
 - b) l'alimentaziun durant uras supplementaras ordinadas u renconuschidas;
@@ -442,9 +444,9 @@ relaschada da la regenza ils 12 da december 2006
 
 <sup>2</sup> Il chantun surpiglia ils custs per indrizs da telefon prescrits u permess, la taxa d'abunament e las taxas per discurs uffizials.
 
-<sup>3</sup> Sch'ils discurs uffizials han lieu cun il telefon privat u cun indrizs da telefon publics, vala il dretg d'indemnisaziun mo per las taxas.
+<sup>3</sup> …
 
-<sup>4</sup> Il quint final da las spesas da telefon sto cuntegnair almain il num ed il lieu da l'interlocutura u da l'interlocutur, la data, il temp e la taxa dal discurs. Sch'igl han lieu mo discurs uffizials cun in apparat, bastan ils quints da telefon correspundents sco mussament dals custs.
+<sup>4</sup> …
 
 <sup>5</sup> La regenza fixescha indemnisaziuns pauschalas per l'utilisaziun uffiziala da meds da telecommunicaziun privats e designescha l'instanza da permissiun.
 
@@ -471,6 +473,14 @@ relaschada da la regenza ils 12 da december 2006
 <sup>3</sup> Il UP fixescha l'indemnisaziun sin dumonda dal post da servetsch.
 
 <sup>4</sup> Questas disposiziuns na valan betg per persunas d'instrucziun da scolas chantunalas.
+
+#### Art. 35a
+
+**Homeoffice e lavur mobila**
+
+<sup>1</sup> L'infrastructura privata u ils meds da lavur per il homeoffice e per la lavur mobila na vegnan da princip betg indemnisads.
+
+<sup>2</sup> En cas excepziunals motivads pon vegnir fixadas – en cunvegnientscha cun il departament e cun il UP – indemnisaziuns pauschalas per l'infrastructura privata u per ils meds da lavur.
 
 ### 3.4. Salarisaziun durant l'impediment da lavurar, prevenziun professiunala
 
@@ -576,25 +586,23 @@ relaschada da la regenza ils 12 da december 2006
 <sup>1</sup> Las contribuziuns a la cassa da pensiun vegnan repartidas tut tenor la vegliadetgna sco suonda tranter las collavuraturas ed ils collavuraturs e tranter l'administraziun chantunala:
 
 <table>
-<tr><th>vegliadetgna tenor la LPP[^44-1] (um/dunna)</th><th>contribuziun totala pertschient</th><th>collavuraturas e collavuraturs pertschient</th><th>chantun pertschient</th></tr>
-<tr><td>18–19</td><td>2,50</td><td>1,25</td><td>1,25</td></tr>
-<tr><td>20–24</td><td>9,50</td><td>4,75</td><td>4,75</td></tr>
-<tr><td>25–29</td><td>13,00</td><td>6,50</td><td>6,50</td></tr>
-<tr><td>30–34</td><td>15,00</td><td>7,50</td><td>7,50</td></tr>
-<tr><td>35–39</td><td>17,00</td><td>8,50</td><td>8,50</td></tr>
-<tr><td>40–44</td><td>19,00</td><td>9,00</td><td>10,00</td></tr>
-<tr><td>45–49</td><td>22,00</td><td>10,00</td><td>12,00</td></tr>
-<tr><td>50–54</td><td>24,00</td><td>10,25</td><td>13,75</td></tr>
-<tr><td>55 e dapli</td><td>26,00</td><td>10,50</td><td>15,50</td></tr>
+<tr><th>vegliadetgna tenor la LPP (um/dunna)</th><th>contribuziun totala pertschient</th><th>collavuraturas e collavuraturs pertschient</th><th>chantun pertschient</th></tr>
+<tr><td>18–19</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+<tr><td>20–24</td><td>14,00</td><td>7,00</td><td>7,00</td></tr>
+<tr><td>25–29</td><td>15,00</td><td>7,50</td><td>7,50</td></tr>
+<tr><td>30–34</td><td>17,00</td><td>8,50</td><td>8,50</td></tr>
+<tr><td>35–39</td><td>19,00</td><td>9,50</td><td>9,50</td></tr>
+<tr><td>40–44</td><td>22,00</td><td>10,75</td><td>11,25</td></tr>
+<tr><td>45–49</td><td>25,00</td><td>11,50</td><td>13,50</td></tr>
+<tr><td>50 e dapli</td><td>27,50</td><td>11,50</td><td>16,00</td></tr>
+<tr><td>55 e dapli</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
-
-[^44-1]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
 
 #### Art. 44a
 
-**Extensiun dal plan da prevenziun**
+**Possess actual da l'extensiun dal plan da prevenziun**
 
-<sup>1</sup> Per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts, per las secretarias e per ils secretaris dals departaments sco er per persunas cun in salari assicurà che importa passa 124 609 francs tenor las disposiziuns da l'artitgel 5 da la lescha davart la cassa da pensiun, paja il chantun ina contribuziun da spargn supplementara da 4 pertschient dal salari assicurà. Il salari assicurà vegn augmentà mintgamai per il 1. da schaner per la cumpensaziun da la chareschia ch'è vegnida concludida da la regenza sco er per eventualas meglieraziuns dal salari real.
+<sup>1</sup> Per las collavuraturas ed ils collavuraturs ch'eran favurisads fin ils 31 da december 2021 tenor l'artitgel 44a (versiun dal 1. da schaner 2021) paja il chantun ina contribuziun da spargn supplementara da 4 pertschient dal salari ch'è assicurà l'onn 2021 tenor las disposiziuns da la Lescha davart la Cassa da pensiun (versiun dal 1. da schaner 2015). En cas d'ina reducziun dal grad d'occupaziun per almain 20 pertschient sa reducescha il salari decisiv correspundentamain, ed el vegn augmentà mintgamai per il 1. da schaner per la cumpensaziun da la chareschia ch'è vegnida concludida da la Regenza sco er per eventualas meglieraziuns dal salari real.
 
 #### Art. 44b
 
@@ -779,7 +787,8 @@ relaschada da la regenza ils 12 da december 2006
 
 - a) trais dis per lur nozzas;
 - b) in di per las nozzas d'agens uffants, d'agens fragliuns e dals agens geniturs;
-- c) tschintg dis per la naschientscha d'agens uffants u per l'adopziun;
+- c) diesch dis entaifer sis mais per la naschientscha d'agens uffants;
+- c)<sup>bis</sup> tschintg dis per l'adopziun;
 - d) trais dis tar la mort da la conjugala u dal conjugal, d'agens uffants, dals agens geniturs u d'agens fragliuns;
 - e) in di per midar abitaziun tar in grad d'occupaziun da 50 pertschient e dapli, in mez di tar in grad d'occupaziun pli pitschen.
 

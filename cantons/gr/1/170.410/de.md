@@ -4,13 +4,13 @@ number: "170.410"
 title: Personalverordnung
 short: PV
 language: de
-version: 2017-01-01
-corrected: 2017-02-20
-version_adopted: 2016-12-20
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-26
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2758/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +19,9 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2758/pdf_file"
 
 (PV)
 
-Vom 12.12.2006 (Stand 01.01.2017)
+Vom 12.12.2006 (Stand 01.01.2022)
 
-Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und auf das Gesetz über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden (Personalgesetz, PG)[^ingress-2]
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und auf das Personalgesetz[^ingress-2]
 
 von der Regierung erlassen am 12. Dezember 2006
 
@@ -43,6 +43,8 @@ von der Regierung erlassen am 12. Dezember 2006
 <sup>4</sup> Der Kanton stellt sich den sich ständig wandelnden Anforderungen. Er ist sich der damit zusammenhängenden hohen Ansprüche an die Mitarbeitenden bewusst. Der Umgang mit den Mitarbeitenden ist geprägt von Respekt und sozialer Verantwortung.
 
 <sup>5</sup> Auf die gezielte Förderung wird grosser Wert gelegt. Das Prinzip der Chancengleichheit ist Leitlinie für das tägliche Handeln.
+
+<sup>6</sup> Der Kanton fördert die Gleichstellung der Geschlechter. Er bietet Rahmenbedingungen, die der Lohngleichheit und der Vereinbarkeit von Arbeit und Privatleben förderlich sind, wie flexible Arbeitszeiten oder Möglichkeiten für Teilzeitarbeit, Homeoffice und mobiles Arbeiten.
 
 ## 2. Begründung und Beendigung der Arbeitsverhältnisse
 
@@ -68,7 +70,7 @@ von der Regierung erlassen am 12. Dezember 2006
 
 <sup>1</sup> Die Probezeit beträgt in der Regel:
 
-- a) für die Dienststellenleitenden, deren Stellvertretende und die Departementssekretärinnen und -sekretäre zwölf Monate;
+- a) für die Dienststellenleitenden, deren Stellvertretende und die Generalsekretärinnen und -sekretäre zwölf Monate;
 - b) für die übrigen Mitarbeitenden ab der Gehaltsklasse 16 sechs Monate;
 - c) für die Mitarbeitenden in den Gehaltsklassen 1 bis 15 drei Monate.
 
@@ -343,7 +345,7 @@ von der Regierung erlassen am 12. Dezember 2006
 
 **Spesen, 1. Grundsätze**
 
-<sup>1</sup> Grundsätzlich werden nur Spesen vergütet, die bei der Erfüllung dienstlicher Aufgaben tatsächlich als Mehrkosten anfallen, wie
+<sup>1</sup> Grundsätzlich werden nur Spesen vergütet, die bei der Erfüllung dienstlicher Aufgaben tatsächlich und notwendig als Mehrkosten anfallen, wie
 
 - a) Verpflegung und Unterkunft während des Aussendienstes;
 - b) Verpflegung während angeordneter oder anerkannter Überstunden;
@@ -442,9 +444,9 @@ von der Regierung erlassen am 12. Dezember 2006
 
 <sup>2</sup> Der Kanton übernimmt die Kosten für angeordnete oder bewilligte Telefoneinrichtungen, die Abonnementsgebühr und die Taxen für dienstliche Gespräche.
 
-<sup>3</sup> Werden dienstliche Gespräche mit dem privaten Telefon oder in öffentlichen Telefonanlagen geführt, besteht nur Anspruch auf die Taxentschädigung.
+<sup>3</sup> …
 
-<sup>4</sup> Die Abrechnung der Telefonspesen muss mindestens den Namen und Ort der Gesprächspartnerin oder des -partners, das Datum, die Zeit und die Taxe des Gesprächs enthalten. Werden mit einem Apparat nur dienstliche Gespräche geführt, genügen als Kostenbeleg die entsprechenden Telefonrechnungen.
+<sup>4</sup> …
 
 <sup>5</sup> Die Regierung legt für die dienstliche Benützung privater Telekommunikationsmittel Pauschalentschädigungen fest und bezeichnet die Bewilligungsinstanz.
 
@@ -471,6 +473,14 @@ von der Regierung erlassen am 12. Dezember 2006
 <sup>3</sup> Das PA legt auf Antrag der Dienststelle die Vergütung fest.
 
 <sup>4</sup> Diese Bestimmungen gelten nicht für Lehrpersonen an kantonalen Schulen.
+
+#### Art. 35a
+
+**Homeoffice und mobiles Arbeiten**
+
+<sup>1</sup> Private Infrastruktur oder Arbeitsmittel für Homeoffice und mobiles Arbeiten werden grundsätzlich nicht vergütet.
+
+<sup>2</sup> In begründeten Ausnahmefällen können für private Infrastruktur oder Arbeitsmittel nach Absprache mit dem Departement und dem PA pauschale Vergütungen vereinbart werden.
 
 ### 3.4. Entlöhnung während der Verhinderung an der Arbeitsleistung, berufliche Vorsorge
 
@@ -571,26 +581,26 @@ von der Regierung erlassen am 12. Dezember 2006
 
 **Pensionskasse, Aufteilung der Beiträge**
 
-<sup>1</sup> Die Pensionskassenbeiträge werden in Abhängigkeit zum Alter zwischen Mitarbeitenden und der kantonalen Verwaltung wie folgt aufgeteilt:
+<sup>1</sup> Die Pensionskassenbeiträge werden in Abhängigkeit zum Alter zwischen den Mitarbeitenden und der kantonalen Verwaltung wie folgt aufgeteilt:
 
 <table>
 <tr><th>BVG-Alter (Mann/Frau)</th><th>Gesamtbeitrag Prozent</th><th>Mitarbeitende Prozent</th><th>Kanton Prozent</th></tr>
-<tr><td>18–19</td><td>2,50</td><td>1,25</td><td>1,25</td></tr>
-<tr><td>20–24</td><td>9,50</td><td>4,75</td><td>4,75</td></tr>
-<tr><td>25–29</td><td>13,00</td><td>6,50</td><td>6,50</td></tr>
-<tr><td>30–34</td><td>15,00</td><td>7,50</td><td>7,50</td></tr>
-<tr><td>35–39</td><td>17,00</td><td>8,50</td><td>8,50</td></tr>
-<tr><td>40–44</td><td>19,00</td><td>9,00</td><td>10,00</td></tr>
-<tr><td>45–49</td><td>22,00</td><td>10,00</td><td>12,00</td></tr>
-<tr><td>50–54</td><td>24,00</td><td>10,25</td><td>13,75</td></tr>
-<tr><td>ab 55</td><td>26,00</td><td>10,50</td><td>15,50</td></tr>
+<tr><td>18–19</td><td>0,00</td><td>0,00</td><td>0,00</td></tr>
+<tr><td>20–24</td><td>14,00</td><td>7,00</td><td>7,00</td></tr>
+<tr><td>25–29</td><td>15,00</td><td>7,50</td><td>7,50</td></tr>
+<tr><td>30–34</td><td>17,00</td><td>8,50</td><td>8,50</td></tr>
+<tr><td>35–39</td><td>19,00</td><td>9,50</td><td>9,50</td></tr>
+<tr><td>40–44</td><td>22,00</td><td>10,75</td><td>11,25</td></tr>
+<tr><td>45–49</td><td>25,00</td><td>11,50</td><td>13,50</td></tr>
+<tr><td>ab 50</td><td>27,50</td><td>11,50</td><td>16,00</td></tr>
+<tr><td>ab 55</td><td>…</td><td>…</td><td>…</td></tr>
 </table>
 
 #### Art. 44a
 
-**Sparplanausbau**
+**Besitzstand Sparplanausbau**
 
-<sup>1</sup> Der Kanton leistet für Dienststellenleitende, deren Stellvertretende, die Departementssekretärinnen und -sekretäre sowie für Personen, deren versicherter Lohn nach den Bestimmungen von Artikel 5 des Pensionskassengesetzes mehr als 124 609 Franken beträgt, einen zusätzlichen Sparbeitrag von vier Prozent des versicherten Lohnes. Der versicherte Lohn wird jeweils auf den 1. Januar um den von der Regierung beschlossenen Teuerungsausgleich und um allfällige Reallohnverbesserungen erhöht.
+<sup>1</sup> Der Kanton leistet für die Mitarbeitenden, die nach Artikel 44a (Stand 1. Januar 2021) bis 31. Dezember 2021 begünstigt waren, einen zusätzlichen Sparbeitrag von vier Prozent des im Jahr 2021 nach den Bestimmungen des Pensionskassengesetzes (Stand 1. Januar 2015) versicherten Lohnes. Der massgebende Lohn reduziert sich bei einer Reduktion des Arbeitsumfangs um mindestens 20 Prozent entsprechend und wird jeweils auf den 1. Januar um den von der Regierung beschlossenen Teuerungsausgleich und um allfällige Reallohnverbesserungen erhöht.
 
 #### Art. 44b
 
@@ -775,7 +785,8 @@ von der Regierung erlassen am 12. Dezember 2006
 
 - a) drei Tage für ihre Heirat;
 - b) einen Tag für die Heirat eigener Kinder, Geschwister und Eltern;
-- c) fünf Tage für die Geburt eigener Kinder oder für die Adoption;
+- c) zehn Tage innerhalb von sechs Monaten für die Geburt eigener Kinder;
+- c)<sup>bis</sup> fünf Tage für die Adoption;
 - d) drei Tage beim Hinschied von Ehegatten, von eigenen Kindern, Eltern und Geschwistern;
 - e) für Wohnungswechsel bei einem Anstellungsumfang von 50 Prozent und mehr einen Tag, bei einem darunter liegenden Anstellungsumfang einen halben Tag.
 
