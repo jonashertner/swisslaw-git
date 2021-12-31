@@ -3,11 +3,10 @@ canton: ZH
 number: "935.32"
 title: Gesetz über das Unterhaltungsgewerbe
 language: de
-version: "2007-01-01"
-nachtrag: "55"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 1981-09-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-935_32-1981_09_27-1982_01_01-055.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-935_32-1981_09_27-1982_01_01-115.html"
 text: pdf
 ---
 
@@ -39,9 +38,7 @@ I. Allgemeine Bestimmungen
 
 Unterhaltungsgewerbe, die eine verrohende Wirkung ausüben, zur Begehung von strafbaren Handlungen aufreizen oder in gemeiner Weise Menschen oder Menschengruppen verächtlich machen, sind verboten.
 
-**Geldspielapparate**
-
-§ 4.[^3-1] Das Aufstellen und der Betrieb von Geldspielautomaten und anderen Apparaten, bei welchen gegen Leistung eines Einsatzes Geld- oder Warengewinne abgegeben werden, ist verboten.
+§ 4.[^3-1]
 
 § 5.[^3-2]
 
@@ -49,42 +46,30 @@ Unterhaltungsgewerbe, die eine verrohende Wirkung ausüben, zur Begehung von str
 
 § 6. Für ein Unterhaltungsgewerbe ist eine dem Betrieb entsprechende, ausreichende Haftpflichtversicherung abzuschliessen oder nachzuweisen.
 
-**Kantonale Spielbankenabgabe**
+§ 7.[^3-1]
 
-§ 7.[^3-3] <sup>1</sup> Der Kanton erhebt auf dem Bruttospielertrag der Spielbanken mit einer Konzession B (Kursäle) im Sinn des Bundesgesetzes über Glücksspiele und Spielbanken (Spielbankengesetz)[^3-4] eine kantonale Spielbankenabgabe.
+§ 7 a.[^3-3]
 
-<sup>2</sup> Die Höhe der kantonalen Abgabe beträgt 40 Prozent der dem Bund vor einer Reduktion gemäss Art. 43 des Spielbankengesetzes[^3-4] zustehenden Spielbankenabgabe.
-
-<sup>3</sup> Abgabepflichtig ist die Betreiberin oder der Betreiber der Spielbank mit einer Konzession B (Kursaal).
-
-**1**
-
-- 1\. 1. 07 - 55
-
-<sup>4</sup> Die Veranlagung und der Bezug der kantonalen Abgabe sowie die Erhebung von Nach- und Strafsteuern erfolgen durch die Eidgenössische Spielbankenkommission.
-
-<sup>5</sup> Der Regierungsrat kann weitere Modalitäten durch Verordnung regeln.
-
-§ 7 a.[^3-5]
-
-§ 7 b.[^3-5]
+§ 7 b.[^3-3]
 
 **Gebührenpflicht**
 
-§ 7 c.[^3-6] Kontrollen aus begründetem Anlass und Bewilligungen nach diesem Gesetz sind gebührenpflichtig. Die Gebühr ist so anzusetzen, dass sie den Verwaltungs- und Kontrollaufwand deckt.
+§ 7 c.[^3-4] Kontrollen aus begründetem Anlass und Bewilligungen nach diesem Gesetz sind gebührenpflichtig. Die Gebühr ist so anzusetzen, dass sie den Verwaltungs- und Kontrollaufwand deckt.
 
-[^3-1]: Fassung gemäss G vom 2. Juni 1991 (OS 52, 547). In Kraft seit 1. Oktober 1994 (OS 52, 682).
+[^3-1]: Aufgehoben durch Einführungsgesetz zum Bundesgesetz über Geldspiele vom 16. November 2020 (OS 76, 493; ABl 2020-04-17). In Kraft seit 1. Januar 2022.
 [^3-2]: Aufgehoben durch G vom 2. Juni 1991 (OS 52, 547). In Kraft seit 1. Oktober 1994 (OS 52, 682).
-[^3-3]: Fassung gemäss G vom 21. Mai 2001 (OS 56, 709). In Kraft seit 1. Mai 2002 (OS 57, 158).
-[^3-4]: SR 935.52.
-[^3-5]: Aufgehoben durch G vom 21. Mai 2001 (OS 56, 709). In Kraft seit 1. Mai 2002 (OS 57, 158).
-[^3-6]: Eingefügt durch G vom 2. Dezember 1990 (OS 51, 361).
+[^3-3]: Aufgehoben durch G vom 21. Mai 2001 (OS 56, 709). In Kraft seit 1. Mai 2002 (OS 57, 158).
+[^3-4]: Eingefügt durch G vom 2. Dezember 1990 (OS 51, 361).
 
 #### § 8
 
 **Bedingungen, Auflagen und Massnahmen**
 
 <sup>1</sup> Die zuständigen Behörden können die Ausübung eines Unterhaltungsgewerbes zur Gewährleistung der öffentlichen Sicherheit und Ordnung entweder an Bedingungen und Auflagen knüpfen oder verbieten.
+
+**1**
+
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Sie können insbesondere das Mindestzutrittsalter, die Betriebszeiten und den Einsatz von Aufsichtspersonal festlegen.
 
@@ -149,10 +134,6 @@ Die Bewilligung wird dem Gewerbetreibenden für einen bestimmten Unterhaltungsge
 
 § 15.[^13-3] Die Bewilligung wird entzogen, wenn ihre Voraussetzungen nicht mehr erfüllt sind, die Bedingungen oder Auflagen nicht beachtet oder fällige Steuern oder Gebühren trotz Mahnung wiederholt nicht bezahlt worden sind.
 
-**3**
-
-- 1\. 1. 07 - 55
-
 [^13-1]: Eingefügt durch G vom 2. Dezember 1990 (OS 51, 361).
 [^13-2]: Aufgehoben durch G vom 21. Mai 2001 (OS 56, 709). In Kraft seit 1. Mai 2002 (OS 57, 158).
 [^13-3]: Fassung gemäss G vom 2. Dezember 1990 (OS 51, 361).
@@ -179,29 +160,27 @@ Die Bewilligung wird dem Gewerbetreibenden für einen bestimmten Unterhaltungsge
 
 § 18.[^16-2] Wer den Bestimmungen dieses Gesetzes sowie ausführenden Erlassen und Verfügungen zuwiderhandelt, wird mit Busse bestraft. In leichten Fällen kann ein Verweis ausgesprochen werden.
 
-[^16-1]: Aufgehoben durch G vom 21. Mai 2001 (OS 56, 709). In Kraft seit 1. Mai 2002 (OS 57, 158).
-[^16-2]: Fassung gemäss G über die Anpassung an den geänderten allgemeinen Teil des Strafgesetzbuches und an das neue Jugendstrafgesetz vom 19. Juni 2006 (OS 61, 391; ABl 2005, 1483). In Kraft seit 1. Januar 2007. 1. 1. 07 - 55 5
-[^16-3]: Text siehe OS 48, 290.
+**3**
 
-#### § 19
+- 1\. 1. 22 - 115 § 19. Die nachstehenden Gesetze werden wie folgt geändert: . . .[^16-3]
 
 **Änderung bisherigen Rechts**
 
-**Die nachstehenden Gesetze werden wie folgt geändert: . . .[^16-3]**
-
 **Übergangsbestimmungen a. Allgemein**
 
-§ 20.[^19-1] Bestehende Unterhaltungsgewerbe, die diesem Gesetz nicht entsprechen, sind innert sechs Monaten nach dessen Inkrafttreten anzupassen oder aufzugeben.
+§ 20.[^16-4] Bestehende Unterhaltungsgewerbe, die diesem Gesetz nicht entsprechen, sind innert sechs Monaten nach dessen Inkrafttreten anzupassen oder aufzugeben.
 
-§ 20 a.[^19-2]
+§ 20 a.[^16-1]
 
 **c. Laufende Verfahren**
 
-§ 20 b.[^19-3] Dieses Gesetz wird vollumfänglich angewendet auf Bewilligungs- und Rechtsmittelverfahren, die unter dem bisherigen Recht eingeleitet wurden und beim Inkrafttreten dieses Gesetzes noch nicht rechtsgültig abgeschlossen sind.
+§ 20 b.[^16-5] Dieses Gesetz wird vollumfänglich angewendet auf Bewilligungs- und Rechtsmittelverfahren, die unter dem bisherigen Recht eingeleitet wurden und beim Inkrafttreten dieses Gesetzes noch nicht rechtsgültig abgeschlossen sind.
 
-[^19-1]: Fassung gemäss G vom 2. Dezember 1990 (OS 51, 361).
-[^19-2]: Aufgehoben durch G vom 21. Mai 2001 (OS 56, 709). In Kraft seit 1. Mai 2002 (OS 57, 158).
-[^19-3]: Eingefügt durch G vom 2. Dezember 1990 (OS 51, 361).
+[^16-1]: Aufgehoben durch G vom 21. Mai 2001 (OS 56, 709). In Kraft seit 1. Mai 2002 (OS 57, 158).
+[^16-2]: Fassung gemäss G über die Anpassung an den geänderten allgemeinen Teil des Strafgesetzbuches und an das neue Jugendstrafgesetz vom 19. Juni 2006 (OS 61, 391; ABl 2005, 1483). In Kraft seit 1. Januar 2007.
+[^16-3]: Text siehe OS 48, 290.
+[^16-4]: Fassung gemäss G vom 2. Dezember 1990 (OS 51, 361).
+[^16-5]: Eingefügt durch G vom 2. Dezember 1990 (OS 51, 361).
 
 #### § 21
 
@@ -212,3 +191,8 @@ Die Bewilligung wird dem Gewerbetreibenden für einen bestimmten Unterhaltungsge
 <sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^21-1].
 
 [^21-1]: In Kraft seit 1. Januar 1982 (OS 48, 268).
+
+## Weitere Fussnoten
+
+- [4] SR 935.52.
+- [10] Fassung gemäss G vom 2. Juni 1991 (OS 52, 547). In Kraft seit 1. Oktober 1994 (OS 52, 682).
