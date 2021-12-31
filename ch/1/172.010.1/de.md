@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2021-07-08
+version: 2022-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210708/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210708-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210708/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210708/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 8. Juli 2021)
+vom 25. November 1998 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -330,9 +330,9 @@ Eine Überschreitung ist insbesondere dann gerechtfertigt, wenn:
 Die Einsetzungsverfügung hat insbesondere folgenden Inhalt:
 
 - a. Sie begründet die Notwendigkeit der Kommission und umschreibt detailliert ihre Aufgaben.
-- b.[^8e-1] ...
+- b.[^8e-1] …
 - c.[^8e-2] Sie nennt die Mitgliederzahl und gegebenenfalls die Gründe für eine Überschreitung der gesetzlichen Höchstzahl an Mitgliedern.
-- d.[^8e-3] ...
+- d.[^8e-3] …
 - e. Sie regelt die Organisation.
 - f. Sie regelt die Berichterstattung und die Information der Öffentlichkeit.
 - g. Sie regelt die Schweigepflicht.
@@ -530,7 +530,7 @@ Das Verzeichnis enthält über die Personen nach Absatz 1 folgende Angaben:
 - f.[^8k-2] Interessenbindungen;
 - g.[^8k-3] Kanton gemäss Korrespondenzadresse.
 
-<sup>3</sup> ...[^8k-4]
+<sup>3</sup> …[^8k-4]
 
 <sup>4</sup> Die Daten sind nach erfolgter Wahl bis zum Ausscheiden der Person abrufbar.
 
@@ -670,7 +670,7 @@ Die marktorientierten Kommissionen werden in Bezug auf die Entschädigung ihrer 
 
 Mitglieder ausserparlamentarischer Kommissionen können nur aufgrund der für ihre Kommission geltenden Ansätze entschädigt werden. Eine zusätzliche Entschädigung für Tätigkeiten, die im Zusammenhang mit dem Auftrag der Kommission stehen, ist ausgeschlossen.
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 9–10c
 
@@ -943,7 +943,7 @@ Vom Erfordernis der Doppelunterschrift ausgenommen sind:
 
 [^22c-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 [^22c-2]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
-[^22c-3]: [SR 641.10](https://fedlex.data.admin.ch/eli/cc/1974/11_11_11)
+[^22c-3]: SR **641****.****10**
 
 ### 4. Abschnitt: Information und Kommunikation
 
@@ -1309,7 +1309,7 @@ Die Departemente und die Bundeskanzlei erlassen für sich Geschäftsordnungen. D
 Die Weisungen und Arbeitshilfen regeln insbesondere:
 
 - a. die Vorbereitung von Bundesratsgeschäften;
-- b.[^30-1] ...
+- b.[^30-1] …
 - c. die Gestaltung von Botschaften und Berichten des Bundesrates an die eidgenössischen Räte;
 - d. die Ausarbeitung und Gestaltung von Erlassen des Bundes;
 - e. die Grundsätze für eine stufengerechte Zuordnung von Zuständigkeiten;
@@ -1346,7 +1346,7 @@ Die Weisungen und Arbeitshilfen regeln insbesondere:
 [^31-3]: Eingefügt durch Anhang Ziff. 2 der V vom 19. Dez. 2003, in Kraft seit 1. Febr. 2004 ([AS 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 [^31-4]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Dez. 2003, in Kraft seit 1. Febr. 2004 ([AS 2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)).
 
-### 3. Abschnitt: ...
+### 3. Abschnitt: …
 
 #### Art. 32
 
@@ -1354,7 +1354,7 @@ Die Weisungen und Arbeitshilfen regeln insbesondere:
 
 [^32-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2002, mit Wirkung seit 1. Okt. 2002 ([AS 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
 
-### 4. Abschnitt: ...
+### 4. Abschnitt: …
 
 #### Art. 33
 
@@ -1414,7 +1414,7 @@ Anhang 1*[^t-1]*
 
 ## Liste der Verwaltungseinheiten der Bundesverwaltung
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Bereinigt gemäss Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), Art. 15 der V vom 20. April 2011 ([AS 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), Ziff. II der V vom 17. Aug. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), Anhang Ziff. 1 der Organisationsverordnung SUST vom 23. März 2011 ([AS 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), Ziff. I der V vom 30. Nov. 2011 ([AS 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), Anhang Ziff. 1 der Bundesinformatikverordnung vom 9. Dez. 2011 ([AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), Anhang Ziff. 2 der V vom 21. Nov. 2012 über das Eidgenössische Institut für Metrologie ([AS 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)) und Ziff. I 2 Abs. 1 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), Berichtigung vom 28. Dez. 2012 ([AS 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), Berichtigung vom 15. Jan. 2013 ([AS 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), Ziff. II der V vom 8. Mai 2013 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), vom 28. Nov. 2014 ([AS 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)) vom 28. Jan. 2015 ([AS 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), Ziff. I der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), Anhang Ziff. 2 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), Anhang 2 Ziff. II 1 der V vom 29. März 2017 über die Strukturen der Armee ([AS 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), Anhang 2 Ziff. II 2 der Alkoholverordnung vom 15. Sept. 2017 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), Anhang Ziff. 1 der V vom 15. Nov. 2017 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), Anhang 6 Ziff. II 1 der Arzneimittelverordnung vom 21. Sept. 2018 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), Ziff. II der V vom 7. Nov. 2018 ([AS 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), Anhang Ziff. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)) und Berichtigung vom 8. Juli 2021 ([AS 2021 429](https://fedlex.data.admin.ch/eli/oc/2021/429)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Bereinigt gemäss Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), Art. 15 der V vom 20. April 2011 ([AS 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), Ziff. II der V vom 17. Aug. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), Anhang Ziff. 1 der Organisationsverordnung SUST vom 23. März 2011 ([AS 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), Ziff. I der V vom 30. Nov. 2011 ([AS 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), Anhang Ziff. 1 der Bundesinformatikverordnung vom 9. Dez. 2011 ([AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), Anhang Ziff. 2 der V vom 21. Nov. 2012 über das Eidgenössische Institut für Metrologie ([AS 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)) und Ziff. I 2 Abs. 1 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), Berichtigung vom 28. Dez. 2012 ([AS 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), Berichtigung vom 15. Jan. 2013 ([AS 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), Ziff. II der V vom 8. Mai 2013 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), vom 28. Nov. 2014 ([AS 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)) vom 28. Jan. 2015 ([AS 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), Ziff. I der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), Anhang Ziff. 2 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), Anhang 2 Ziff. II 1 der V vom 29. März 2017 über die Strukturen der Armee ([AS 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), Anhang 2 Ziff. II 2 der Alkoholverordnung vom 15. Sept. 2017 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), Anhang Ziff. 1 der V vom 15. Nov. 2017 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), Anhang 6 Ziff. II 1 der Arzneimittelverordnung vom 21. Sept. 2018 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), Ziff. II der V vom 7. Nov. 2018 ([AS 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), Anhang Ziff. 2 der V vom 25. Nov. 2020 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)), Berichtigung vom 8. Juli 2021 ([AS 2021 429](https://fedlex.data.admin.ch/eli/oc/2021/429)) und Ziff. II 1 der V vom 12. Juni 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 
@@ -1440,7 +1440,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 
 <table>
 <tr><td></td><td>I.</td><td colspan="3">Eidgenössisches Departement für auswärtige Angelegenheiten (EDA) Département fédéral des affaires étrangères (DFAE) Dipartimento federale degli affari esteri (DFAE) Departament federal d’affars exteriurs (DFAE)</td></tr>
-<tr><td></td><td></td><td>**1.**</td><td colspan="2">**Verwaltungseinheiten der** zentralen **Bundesverwa****l****tung:**</td></tr>
+<tr><td></td><td></td><td>**1.**</td><td colspan="2">**Verwaltungseinheiten der** zentralen **Bunde****sverwa****l****tung:**</td></tr>
 <tr><td></td><td></td><td></td><td>1.1</td><td>Generalsekretariat (GS-EDA) Secrétariat général (SG-DFAE) Segreteria generale (SG-DFAE) Secretariat general (SG-DFAE)</td></tr>
 <tr><td></td><td></td><td></td><td>1.2</td><td>Staatssekretariat EDA Secrétariat d’Etat du DFAE Segreteria di Stato del DFAE Secretariat da stadi dal DFAE</td></tr>
 <tr><td></td><td></td><td></td><td>1.3</td><td>*Aufgehoben*</td></tr>
@@ -1466,26 +1466,26 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.8</td><td colspan="2">Bundesamt für Sozialversicherungen (BSV) Office fédéral des assurances sociales (OFAS) Ufficio federale delle assicurazioni sociali (UFAS) Uffizi federal d’assicuranzas socialas (UFAS)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.9</td><td colspan="3">Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) Ufficio federale della sicurezza alimentare e di veterinaria (USAV) Uffizi federal da segirezza alimentara e fatgs veterinars (USAV)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2">**2.**</td><td colspan="5">**Verwaltungseinheiten der** dezentralen **Bundesverwa****l****tung:**</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.1**</td><td colspan="3">**Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rechtspersönlichkeit:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.1**</td><td colspan="3">**Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rechtspers****önlichkeit:**</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Keine</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.2**</td><td colspan="3">**Rechtlich verselbstständigte Körperschaften, Anstalten und Sti****f****tungen:**</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.1</td><td colspan="2">Schweizerisches Nationalmuseum (SNM) Musée national suisse (MNS) Museo nazionale svizzero (MNS) Museum naziunal svizzer (MNS)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.2</td><td colspan="2">Pro Helvetia Pro Helvetia Pro Helvetia Pro Helvetia</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.3</td><td colspan="2">Schweizerisches Heilmittelinstitut (Swissmedic) Institut suisse des produits thérapeutiques (Swissmedic) Istituto svizzero per gli agenti terapeutici (Swissmedic) Institut svizzer per products terapeutics (Swissmedic)</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td>2.2.4</td><td colspan="2">Compenswiss (Ausgleichsfonds AHV/IV/EO) compenswiss (Fonds de compensation AVS/AI/APG) compenswiss (Fondi die compensazione AVS/AI/IPG) Compenswiss (Fonds da cumpensaziun AVS/AI/UCG)</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Aktiengesellschaften mit Mehrheitsbeteiligung des Bu****n****des:**</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Aktiengesellschaften mit Mehrheits****beteiligung des Bu****n****des:**</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Keine</td></tr>
 </table>
 
 <table>
 <tr><td colspan="2"></td><td colspan="3">III.</td><td colspan="7">Eidgenössisches Justiz- und Polizeidepartement (EJPD) Département fédéral de justice et police (DFJP) Dipartimento federale di giustizia e polizia (DFGP) Departament federal da giustia e polizia (DFGP)</td></tr>
-<tr><td></td><td colspan="3"></td><td colspan="3">**1.**</td><td colspan="5">**Verwaltungseinheiten der** zentralen **Bundesverwaltung:**</td></tr>
+<tr><td></td><td colspan="3"></td><td colspan="3">**1.**</td><td colspan="5">**V****erwaltungseinheiten der** zentralen **Bundesverwaltung:**</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">1.1</td><td colspan="3">Generalsekretariat (GS-EJPD) Secrétariat général (SG-DFJP) Segreteria generale (SG-DFGP) Secretariat general (SG-DFGP)</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">1.2</td><td colspan="3">Bundesamt für Justiz (BJ) Office fédéral de la justice (OFJ) Ufficio federale di giustizia (UFG) Uffizi federal da giustia (UFG)</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">1.3</td><td colspan="3">Bundesamt für Polizei (fedpol) Office fédéral de la police (fedpol) Ufficio federale di polizia (fedpol) Uffizi federal da polizia (fedpol)</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">1.4</td><td colspan="3">Staatssekretariat für Migration (SEM) Secrétariat d’Etat aux migrations (SEM) Segreteria di Stato della migrazione (SEM) Secretariat da stadi per migraziun (SEM)</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="3">**2.**</td><td colspan="5">**Verwaltungseinheiten der** dezentralen **Bundesverwa****l****tung:**</td></tr>
-<tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td>**2.1**</td><td colspan="4">**Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rechtspersö****n****lichkeit:**</td></tr>
+<tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td>**2.1**</td><td colspan="4">**Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rech****tspersö****n****lichkeit:**</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.1</td><td colspan="2">*Aufgehoben*</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.2</td><td colspan="2">Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch da surveglianza dal traffic da posta e da telecommunicaziun (STPT)</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.3</td><td colspan="2">Kommission zur Verhütung von Folter Commission de prévention de la torture Commissione per la prevenzione della tortura Cumissiun per la prevenziun cunter la tortura</td></tr>
@@ -1527,9 +1527,10 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td></td><td></td><td>1.3</td><td colspan="2">Eidgenössische Finanzverwaltung (EFV) Administration fédérale des finances (AFF) Amministrazione federale delle finanze (AFF) Administraziun federala da finanzas (AFF)</td></tr>
 <tr><td></td><td></td><td></td><td>1.4</td><td colspan="2">Eidgenössisches Personalamt (EPA) Office fédéral du personnel (OFPER) Ufficio federale del personale (UFPER) Uffizi federal da persunal (UFPER)</td></tr>
 <tr><td></td><td></td><td></td><td>1.5</td><td colspan="2">Eidgenössische Steuerverwaltung (ESTV) Administration fédérale des contributions (AFC) Amministrazione federale delle contribuzioni (AFC) Administraziun federala da taglia (AFT)</td></tr>
-<tr><td></td><td></td><td></td><td>1.6</td><td colspan="2">Eidgenössische Zollverwaltung (EZV) Administration fédérale des douanes (AFD) Amministrazione federale delle dogane (AFD) Administraziun federala da duana (AFD)</td></tr>
+<tr><td></td><td></td><td></td><td>1.6</td><td colspan="2">Bundesamt für Zoll und Grenzsicherheit (BAZG) Office fédéral de la douane et de la sécurité des frontières (OFDF) Ufficio federale della dogana e della sicurezza dei confini (UDSC) Uffizi federal da la duana e da la segirezza dals cunfins (UDSC)</td></tr>
 <tr><td></td><td></td><td></td><td>1.7</td><td colspan="2">Bundesamt für Informatik und Telekommunikation (BIT) Office fédéral de l’informatique et de la télécommunication (OFIT) Ufficio federale dell’informatica e della telecomunicazione (UFIT) Uffizi federal d’informatica e da telecommunicaziun (UFIT)</td></tr>
 <tr><td></td><td></td><td></td><td>1.8</td><td colspan="2">Bundesamt für Bauten und Logistik (BBL) Office fédéral des constructions et de la logistique (OFCL) Ufficio federale delle costruzioni e della logistica (UFCL) Uffizi federal per edifizis e logistica (UFEL)</td></tr>
+<tr><td></td><td></td><td></td><td>1.9</td><td colspan="2">*Aufgehoben*</td></tr>
 <tr><td></td><td></td><td>**2.**</td><td colspan="3">**Verwaltungseinheiten der** dezentralen **Bundesverwa****l****tung:**</td></tr>
 <tr><td></td><td></td><td></td><td>**2.1**</td><td colspan="2">**Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rechtspersö****n****lichkeit:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.1.1</td><td>Eidgenössische Finanzkontrolle (EFK) Contrôle fédéral des finances (CDF) Controllo federale delle finanze (CDF) Controlla federala da finanzas (CDF)</td></tr>
@@ -1543,7 +1544,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 
 <table>
 <tr><td></td><td>VI.</td><td colspan="4">Eidgenössisches Departement für Wirtschaft, Bildung und Forschung (WBF) Département fédéral de l’économie, de la formation et de la recherche (DEFR) Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) Departament federal d’economia, furmaziun e retschertga (DEFR)</td></tr>
-<tr><td></td><td></td><td>**1.**</td><td colspan="3">**Verwaltungseinheiten der** zentralen **Bundesverwaltung:**</td></tr>
+<tr><td></td><td></td><td>**1.**</td><td colspan="3">**Verwaltungseinheiten der** zentralen **Bundes****verwaltung:**</td></tr>
 <tr><td></td><td></td><td></td><td>1.1</td><td colspan="2">Generalsekretariat (GS-WBF) Secrétariat général (SG-DEFR) Segreteria generale (SG-DEFR) Secretariat general (SG-DEFR)</td></tr>
 <tr><td></td><td></td><td></td><td>1.2</td><td colspan="2">Preisüberwachung (PUE) Surveillance des prix (SPR) Sorveglianza dei prezzi (SPR) Surveglianza dals pretschs (SPR)</td></tr>
 <tr><td></td><td></td><td></td><td>1.3</td><td colspan="2">Staatssekretariat für Wirtschaft (SECO) Secrétariat d’Etat à l’économie (SECO) Segreteria di Stato dell’economia (SECO) Secretariat da stadi per l’economia (SECO)</td></tr>
@@ -1560,7 +1561,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.3</td><td>Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>[tab] 2.2.4 [^annex1-lvlu1-1]</td><td>Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>2.2.4 [^annex1-lvlu1-1]</td><td>Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.5</td><td colspan="2">Eidgenössische Technische Hochschule Zürich (ETHZ) Ecole polytechnique fédérale de Zürich (EPFZ) Politecnico federale di Zurigo (PFZ) Scola politecnica federala Turitg (SPFT)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.6</td><td colspan="2">Eidgenössische Technische Hochschule Lausanne (ETHL) Ecole polytechnique fédérale de Lausanne (EPFL) Politecnico federale di Losanna (PFL) Scola politecnica federala Losanna (SPFL)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.7</td><td colspan="2">Paul-Scherrer-Institut (PSI) Institut Paul Scherrer (PSI) Istituto Paul Scherrer (PSI) Institut Paul Scherrer (PSI)</td></tr>
@@ -1574,7 +1575,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 
 <table>
 <tr><td colspan="2"></td><td colspan="2">VII.</td><td colspan="7">Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) Departament federal per ambient, traffic, energia e communicaziun (DATEC)</td></tr>
-<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">**1.**</td><td colspan="5">**Verwaltungseinheiten der** zentralen **Bundesverwaltung:**</td></tr>
+<tr><td colspan="2"></td><td colspan="2"></td><td colspan="2">**1.**</td><td colspan="5">**Ve****rwaltungseinheiten der** zentralen **Bundesverwaltung:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.1</td><td colspan="3">Generalsekretariat (GS-UVEK) Secrétariat général (SG-DETEC) Segreteria generale (SG-DATEC) Secretariat general (SG-DATEC)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.2</td><td colspan="3">Bundesamt für Verkehr (BAV) Office fédéral des transports (OFT) Ufficio federale dei trasporti (UFT) Uffizi federal da traffic (UFT)</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">1.3</td><td colspan="3">Bundesamt für Zivilluftfahrt (BAZL) Office fédéral de l’aviation civile (OFAC) Ufficio federale dell’aviazione civile (UFAC) Uffizi federal d’aviatica civila (UFAC)</td></tr>
@@ -1602,7 +1603,7 @@ Anhang 2*[^t-2]*
 
 ## Ausserparlamentarische Kommissionen
 
-[^t-2]: Eingefügt durch die V vom 27. Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Fassung gemäss Ziff. I 2 Abs. 2 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Bereinigt gemäss Ziff. I der V vom 21. Nov. 2012 ([AS 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), vom 30. Nov. 2012 ([AS 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)), Berichtigung vom 5. Febr. 2013 (**2013** 425), Art. 12 der V vom 1. Mai 2013 über die Organisation des Nationalen Kontaktpunktes für die OECD-Leitsätze für multinationale Unternehmen und über seinen Beirat ([AS 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), Art. 16 Ziff. 1 der V vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandlung lebenslänglich verwahrter Straftäter ([AS 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)) und Art. 62 Abs. 2 Ziff. 1 der Forschungs- und Innovationsförderungsverordnung vom 29. Nov. 2013 ([AS 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)) und Anhang Ziff. 1 der V vom 12. Nov. 2014 zum Hochschulförderungs- und -koordinationsgesetz ([AS 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), Ziff. II der V vom 5. Dez. 2014 ([AS 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739))Art. 24 Abs. 2 der Schweizerschulenverordnung vom 28. Nov. 2014 ([AS 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), Ziff. I der V vom 1. Juli 2015 ([AS 2015 2239](https://fedlex.data.admin.ch/eli/oc/2015/415)), Ziff. II der V vom 9. Dez. 2016 ([AS 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), Anhang Ziff. 1 der V vom 15. Nov. 2017 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)), vom 14. Dez. 2018 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), und Ziff. II der V vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebung ([AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)), Ziff. II der V vom 18. Nov. 2020 ([AS 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)) und vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+[^t-2]: Eingefügt durch die V vom 27. Nov. 2009 ([AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)). Fassung gemäss Ziff. I 2 Abs. 2 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Bereinigt gemäss Ziff. I der V vom 21. Nov. 2012 ([AS 2012 6959](https://fedlex.data.admin.ch/eli/oc/2012/843)), vom 30. Nov. 2012 ([AS 2012 6961](https://fedlex.data.admin.ch/eli/oc/2012/844)), Berichtigung vom 5. Febr. 2013 (**2013** 425), Art. 12 der V vom 1. Mai 2013 über die Organisation des Nationalen Kontaktpunktes für die OECD-Leitsätze für multinationale Unternehmen und über seinen Beirat ([AS 2013 1313](https://fedlex.data.admin.ch/eli/oc/2013/301)), Art. 16 Ziff. 1 der V vom 26. Juni 2013 über die Eidgenössische Fachkommission zur Beurteilung der Behandlung lebenslänglich verwahrter Straftäter ([AS 2013 2109](https://fedlex.data.admin.ch/eli/oc/2013/447)), Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3697](https://fedlex.data.admin.ch/eli/oc/2013/692)) und Art. 62 Abs. 2 Ziff. 1 der Forschungs- und Innovationsförderungsverordnung vom 29. Nov. 2013 ([AS 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814)) und Anhang Ziff. 1 der V vom 12. Nov. 2014 zum Hochschulförderungs- und -koordinationsgesetz ([AS 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)), Ziff. II der V vom 5. Dez. 2014 ([AS 2014 4445](https://fedlex.data.admin.ch/eli/oc/2014/739))Art. 24 Abs. 2 der Schweizerschulenverordnung vom 28. Nov. 2014 ([AS 2014 4605](https://fedlex.data.admin.ch/eli/oc/2014/772)), Ziff. I der V vom 1. Juli 2015 ([AS 2015 2239](https://fedlex.data.admin.ch/eli/oc/2015/415)), Ziff. II der V vom 9. Dez. 2016 ([AS 2016 4813](https://fedlex.data.admin.ch/eli/oc/2016/767)), Anhang Ziff. 1 der V vom 15. Nov. 2017 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3475](https://fedlex.data.admin.ch/eli/oc/2018/565)), Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3843](https://fedlex.data.admin.ch/eli/oc/2018/609)), vom 14. Dez. 2018 ([AS 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)), Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), und Ziff. II der V vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebung ([AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)), Ziff. II der V vom 18. Nov. 2020 ([AS 2020 5405](https://fedlex.data.admin.ch/eli/oc/2020/939)), vom 24. Febr. 2021 (AS **2****021** 152) und Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 776](https://fedlex.data.admin.ch/eli/oc/2021/776)).
 
 ### 1. Gesellschaftsorientierte Kommissionen: Entschädigungskategorien, Taggeldansätze und Zuordnung zu den Departementen
 
@@ -1623,7 +1624,7 @@ Anhang 2*[^t-2]*
 <table>
 <tr><th>Zuständiges Departement</th><th>Ausserparlamentarische Kommission</th></tr>
 <tr><td>EDA</td><td>Kommission für ausländische Entschädigungen</td></tr>
-<tr><td>EDI</td><td>Eidgenössische Koordinationskommission für Arbeitssicherheit Prüfungskommission für Chiropraktik Prüfungskommission für die amtliche Lebensmittelkontrolle Prüfungskommission für Humanmedizin Prüfungskommission für Pharmazie Prüfungskommission für Veterinärmedizin Prüfungskommission für Zahnmedizin</td></tr>
+<tr><td>EDI</td><td>Eidgenössische Kommission für Qualitätssicherung in der medizinischen Begutachtung Eidgenössische Koordinationskommission für Arbeitssicherheit Prüfungskommission für Chiropraktik Prüfungskommission für die amtliche Lebensmittelkontrolle Prüfungskommission für Humanmedizin Prüfungskommission für Pharmazie Prüfungskommission für Veterinärmedizin Prüfungskommission für Zahnmedizin</td></tr>
 <tr><td>UVEK</td><td>Eidgenössische Nationalparkkommission</td></tr>
 <tr><td>VBS</td><td>Eidgenössische Kommission für Ingenieur-Geometerinnen und -Geometer</td></tr>
 </table>
