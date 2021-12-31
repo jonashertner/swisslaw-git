@@ -3,20 +3,20 @@ canton: BL
 number: "647.12"
 title: Verordnung für die Schulleitung und die Schulsekretariate
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-23
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2021-12-14
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/647.12"
-pdf: "https://bl.clex.ch/api/de/versions/3361/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3363/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Schulleitung und die Schulsekretariate
 
-Vom 13.05.2003 (Stand 01.08.2021)
+Vom 13.05.2003 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -52,17 +52,41 @@ beschliesst:
 
 #### § 3
 
-**Organisation, Zusammensetzung, Konstituierung**
+**Organisation, Zusammensetzung, Konstituierung bei kommunalen Schulen**
 
-<sup>1</sup> Die Organisation der Schulleitung wird auf Antrag der Schulleitung durch den Schulrat festgelegt. Sie ist vorgängig dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen.
+<sup>1</sup> Die kommunalen Schulen werden entweder in einem Schulleitungsmodell mit oder ohne Rektorat geführt.
+
+<sup>1a</sup> Entscheidet sich der Schulrat für ein Schulleitungsmodell mit Rektorat, legt die Rektorin oder der Rektor die Organisation der Schulleitung fest und unterbreitet sie dem Schulrat zur Genehmigung. Sie ist vorgängig den weiteren Schulleitungsmitgliedern und dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen. Co-Rektorate sind möglich.
+
+<sup>1b</sup> Bei Schulleitungsmodellen ohne Rektorat legt die Schulleitung ihre Organisation gemeinsam fest. Im Übrigen gelten die Vorgaben gemäss Abs. 1a.
 
 <sup>1<sup>bis</sup></sup> Die Organisationsform soll so gewählt werden, dass die Aufgaben einer Schulleitung optimal erledigt, die Stellvertretung ohne Ressourcenerweiterung sichergestellt und die fachlichen Anforderungen erfüllt werden können.
 
-<sup>2</sup> Bei einer mehrköpfigen Schulleitung bestimmt der Schulrat deren Vorsitz (Rektor/Rektorin). Co-Vorsitzende sind möglich.
+<sup>2</sup> Bei mehrköpfigen Schulleitungen ohne Rektorat bestimmt der Schulrat deren Vorsitz.
 
 <sup>3</sup> …
 
 <sup>4</sup> Im Übrigen konstituiert sich die Schulleitung selbst.
+
+#### § 3a
+
+**Organisation, Zusammensetzung, Konstituierung bei kantonalen Schulen**
+
+<sup>1</sup> Die kantonalen Schulen werden entweder in einem Schulleitungsmodell mit oder ohne Rektorat geführt.
+
+<sup>2</sup> Auf der Sekundarstufe II gilt das Schulleitungsmodell mit Rektorat.
+
+<sup>3</sup> Auf der Sekundarstufe I entscheidet sich der Schulrat in Rücksprache mit dem Amt für Volksschulen für ein Schulleitungsmodell mit oder ohne Rektorat.
+
+<sup>4</sup> Bei Schulleitungsmodellen mit Rektorat legt die Rektorin oder der Rektor die Organisation der Schulleitung fest und unterbreitet sie dem Schulrat zur Genehmigung. Sie ist vorgängig den weiteren Schulleitungsmitgliedern und dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen. Co-Rektorate auf der Sekundarstufe I sind möglich.
+
+<sup>5</sup> Bei Schulleitungsmodellen ohne Rektorat auf der Sekundarstufe I legt die Schulleitung ihre Organisation gemeinsam fest. Im Übrigen gelten die Vorgaben gemäss Abs. 4.
+
+<sup>6</sup> Die Organisation soll in jedem Fall so gewählt werden, dass die Aufgaben einer Schulleitung optimal erledigt, die Stellvertretung ohne Ressourcenerweiterung sichergestellt und die fachlichen Anforderungen erfüllt werden können.
+
+<sup>7</sup> Bei mehrköpfigen Schulleitungen ohne Rektorat bestimmt der Schulrat deren Vorsitz.
+
+<sup>8</sup> Im Übrigen konstituiert sich die Schulleitung selbst.
 
 ## 2 Anstellung
 
@@ -82,20 +106,28 @@ beschliesst:
 
 **Ausbildungsvoraussetzungen**
 
-<sup>1</sup> Für die Tätigkeit als Schulleitungsmitglied sind folgende Ausbildungen erforderlich:
+<sup>1</sup> Für die Tätigkeit als Schulleitungsmitglied ist eine pädagogische Ausbildung oder eine gleichwertige Ausbildung in einem ausserschulischen Bereich sowie eine anerkannte Schulleitungsausbildung oder eine gleichwertige Führungsausbildung in einem ausserschulischen Bereich erforderlich.
 
-- a. ein Lehrdiplom für die zu leitende Schule oder eine gleichwertige Ausbildung in einem ausserschulischen Bereich;
-- b. eine anerkannte Schulleitungsausbildung oder eine gleichwertige Führungsausbildung in einem ausserschulischen Bereich.
+- a. …
+- b. …
 
-<sup>2</sup> Die Ausbildung gemäss Abs. 1 Bst. b kann auch unmittelbar nach der Anstellung erworben werden.
+<sup>2</sup> Die Schulleitungsausbildung kann auch unmittelbar nach der Anstellung erworben werden.
 
 #### § 6
 
-**Anstellung von Schulleitungsmitgliedern mit pädagogischer Ausbildung**
+**Unterrichtstätigkeit von Schulleitungsmitgliedern**
 
-<sup>1</sup> Die Schulleitungsmitglieder der Volksschule mit pädagogischer Ausbildung erhalten für ihre Unterrichts- und ihre Schulleitungstätigkeit je einen unbefristeten Anstellungsvertrag.
+<sup>1</sup> Die Schulleitungsmitglieder erhalten für eine allfällige Unterrichtstätigkeit und ihre Schulleitungstätigkeit je einen Anstellungsvertrag.
 
-<sup>2</sup> Die Schulleitungsmitglieder mit pädagogischer Ausbildung der Berufsfachschulen, Musikschulen und Gymnasien erhalten einen unbefristeten Arbeitsvertrag für ihr ganzes Pensum. Darin ist die Unterrichtsverpflichtung zu regeln.
+<sup>2</sup> …
+
+<sup>3</sup> Schulleitungsmitglieder, die neben der Unterrichtstätigkeit zu mindestens 50 % als Schulleitungsmitglied tätig sind, werden für das gesamte Arbeitspensum in das für die entsprechende Funktion der Schulleitung vorgesehene Lohnband eingereiht, sofern sie ihre Unterrichtstätigkeit an einer Schule wahrnehmen, an der sie auch in der Schulleitung sind.
+
+<sup>4</sup> Bei Co-Rektoraten erfolgt die Lohneinreihung für die Unterrichtstätigkeit nach Abs. 3 gemäss dem Lohnband von Konrektorinnen und Konrektoren.
+
+<sup>5</sup> Liegen mehrere Verträge als Schulleitungsmitglied an unterschiedlichen Schulen des Kantons Basel-Landschaft vor, werden die Leitungspensen zusammengezählt. Die Summe gilt für die Lohneinreihung als 1 Pensum.
+
+<sup>6</sup> Schulleitungsmitglieder, die neben der Unterrichtstätigkeit zu weniger als 50 % als Schulleitungsmitglied tätig sind, werden für das Schulleitungspensum in das für die entsprechende Funktion der Schulleitung vorgesehene Lohnband und für das Unterrichtspensum in das ihrer Lehrerinnen- und Lehrerfunktion entsprechende Lohnband eingereiht.
 
 #### § 7
 
@@ -107,13 +139,7 @@ beschliesst:
 
 #### § 8
 
-**Anstellung von Schulleitungsmitgliedern ohne pädagogische Ausbildung**
-
-<sup>1</sup> Die Schulleitungsmitglieder ohne pädagogische Ausbildung erhalten einen Anstellungsvertrag gemäss den Bestimmungen der Personalgesetzgebung. Die Lohneinreihung erfolgt aufgrund der kantonalen Modellumschreibungen.
-
-<sup>2</sup> Ihre Anstellung durch den Schulrat erfolgt in Absprache mit dem Personaldienst der Bildungs-, Kultur- und Sportdirektion.
-
-<sup>3</sup> Die Anstellungsbedingungen dürfen zu keiner Erhöhung der Gesamtkosten für die Schulleitung führen.
+**…**
 
 ## 3 Arbeitszeit, Lohn
 
@@ -136,7 +162,9 @@ beschliesst:
 
 <sup>2 <sup>bis</sup></sup> …
 
-<sup>2 <sup>ter</sup></sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive der Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig geleistete Mehrlektionen verfallen oder müssen innerhalb des Schuljahres kompensiert werden.
+<sup>2 <sup>ter</sup></sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive allfälliger Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson darüber hinaus Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig unterjährige Minder- oder Mehrlektionen müssen kompensiert werden. Mehrlektionen können nicht ausbezahlt werden.
+
+<sup>2<sup>quater</sup></sup> Bei einem Leitungsmodell mit Rektorat ist diese Funktion mit mindestens 60 % und maximal 100 % zu besetzen. Vorbehalten bleiben Stellenkombinationen der Rektoratsfunktion mit der kommunalen Zuständigkeit für Bildung. Bei Co-Rektoraten können maximal 100 Stellenprozente auf die Funktion des Co-Rektorats aufgeteilt werden. Zusätzliche Anstellungsprozente als Konrektorin oder Konrektor im Rahmen der verfügbaren Stellenprozente für die Schulleitung sind möglich.
 
 <sup>3</sup> Die Leitungszeit wird spätestens alle 4 Jahre oder auf Antrag der Schulleitung beziehungsweise von Amtes wegen durch die Gemeinde überprüft und bei Bedarf angepasst.
 
@@ -170,25 +198,7 @@ beschliesst:
 
 #### § 13
 
-**Lohneinreihung von Schulleitungsmitgliedern mit pädagogischer Ausbildung**
-
-<sup>1</sup> Die Schulleitungsmitglieder mit pädagogischer Ausbildung werden für ihre Schulleitungstätigkeit in folgende Lohnbänder eingereiht:
-
-- a. …
-- b. Kindergarten mit Schulischer Heilpädagogik (SHP) — Lohnklasse 11;
-- c. Primarschule ohne Integrative Schulungsform (ISF) und Kleinklassen (KK) — Lohnklasse 11;
-- d. Primarschule mit Integrativer Schulungsform (ISF) und Kleinklassen (KK) — Lohnklasse 10;
-- e. …
-
-<sup>2</sup> Die Einreihung in das höhere Lohnband gemäss Bst. b und d setzt voraus, dass an der Schule mindestens 10 Kinder im Umfang von mindestens 14 Lektionen SHP, ISF oder KK-Unterricht in Anspruch nehmen.
-
-<sup>3</sup> Wird die SHP, ISF oder der KK-Unterricht in einem Kreisschulverband geführt, wird die Kreisschulleitung für Spezielle Förderung in das entsprechend höhere Lohnband eingereiht.
-
-<sup>4</sup> Schulleitungsmitglieder, die neben der Lehrtätigkeit zu mindestens 50 % als Schulleitungsmitglied tätig sind, werden für das gesamte Arbeitspensum in die Lohnbänder gemäss Abs. 1 eingereiht, sofern sie ihre Lehrtätigkeit an einer Schule wahrnehmen, an der sie auch als Schulleitung tätig sind.
-
-<sup>4 <sup>bis</sup></sup> Liegen mehrere Verträge als Schulleitungsmitglied an unterschiedlichen Schulen des Kantons Basel-Landschaft vor, werden die Leitungspensen zusammengezählt. Die Summe gilt für die Lohneinreihung als ein Pensum.
-
-<sup>5</sup> Schulleitungsmitglieder, die neben der Lehrtätigkeit zu weniger als 50 % als Schulleitungsmitglied tätig sind, werden für das Schulleitungspensum in das Lohnband gemäss Abs. 1 und für das Unterrichtspensum in das ihrer Lehrerinnen- und Lehrerfunktion entsprechende Lohnband eingereiht.
+**…**
 
 ### 3.1<sup>bis</sup> Sekundarschule
 
@@ -205,21 +215,15 @@ beschliesst:
 - e. Liestal — 270 %;
 - f. Sissach — 240 %.
 
-<sup>2</sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive der Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig geleistete Mehrlektionen verfallen oder müssen innerhalb des Schuljahres kompensiert werden.
+<sup>1<sup>bis</sup></sup> Bei einem Leitungsmodell mit Rektorat ist diese Funktion mit mindestens 60 % und maximal 100 % zu besetzen. Bei Co-Rektoraten können maximal 100 Stellenprozente auf die Funktion des Co-Rektorats aufgeteilt werden. Zusätzliche Anstellungsprozente als Konrektorin oder Konrektor im Rahmen der verfügbaren Stellenprozente für die Schulleitung sind möglich.
+
+<sup>2</sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive allfälliger Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson darüber hinaus Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig unterjährige Minder- oder Mehrlektionen müssen kompensiert werden. Mehrlektionen können nicht ausbezahlt werden.
 
 <sup>3</sup> Für die Mitglieder des Vorstands der Schulleitungskonferenz Sekundarstufe I stehen insgesamt 50 Stellenprozente zur Verfügung.
 
 #### § 13b
 
-**Lohneinreihung**
-
-<sup>1</sup> Schulleitungsmitglieder der Sekundarstufe I mit pädagogischer Ausbildung sind in das Lohnband 9 eingereiht.
-
-<sup>2</sup> Schulleitungsmitglieder, die neben der Lehrtätigkeit zu mindestens 50 % als Schulleitungsmitglied tätig sind, werden für das gesamte Arbeitspensum in das Lohnband gemäss Abs. 1 eingereiht, sofern sie ihre Lehrtätigkeit an einer Schule wahrnehmen, an der sie auch als Schulleitung tätig sind.
-
-<sup>3</sup> Liegen mehrere Verträge als Schulleitungsmitglied an unterschiedlichen Schulen des Kantons Basel-Landschaft vor, werden die Leitungspensen zusammengezählt. Die Summe gilt für die Lohneinreihung als ein Pensum.
-
-<sup>4</sup> Schulleitungsmitglieder, die neben der Lehrtätigkeit zu weniger als 50 % als Schulleitungsmitglied tätig sind, werden für das Schulleitungspensum in die Lohnbänder gemäss Abs. 1 und für das Unterrichtspensum in das ihrer Lehrerinnen- und Lehrerfunktion entsprechende Lohnband eingereiht.
+**…**
 
 ### 3.2 Berufsfachschulen, Gymnasien
 
@@ -227,15 +231,11 @@ beschliesst:
 
 **Amtsauftrag**
 
-<sup>1</sup> Die Rektorinnen und Rektoren der Berufsfachschulen und der Gymnasien (inkl. Abteilungen der Fachmittelschulen) nehmen ihre Schulleitungsaufgaben hauptamtlich wahr.
+<sup>1</sup> …
 
 #### § 15
 
-**Unterrichtsverpflichtung**
-
-<sup>1</sup> Die Rektorinnen und Rektoren der Berufsfachschulen und Gymnasien haben bei einem Vollpensum eine Unterrichtsverpflichtung von durchschnittlich 4 Lektionen pro Woche. Sie können diese an ein anderes Schulleitungsmitglied delegieren.
-
-<sup>2</sup> Die übrigen Schulleitungsmitglieder mit pädagogischer Ausbildung der Berufsfachschulen und Gymnasien haben bei einem Vollpensum durchschnittlich eine Unterrichtsverpflichtung von 6 Lektionen pro Woche.
+**…**
 
 #### § 16
 
@@ -249,17 +249,24 @@ beschliesst:
 - c. Gymnasien Muttenz, Münchenstein, Oberwil — je 295 %;
 - d. Gymnasium Liestal — 365 %;
 - e. Gymnasium Laufental-Thierstein — 225 %;
-- f. Amt für Berufsbildung und Berufsberatung für die besonderen Schulleitungsaufgaben — 100 %.
+- f. Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) für die besonderen Schulleitungsaufgaben — 100 %.
 
-<sup>2</sup> Dem Gymnasium, dessen Rektorin oder Rektor die Dienstelle Gymnasien leitet, stehen zusätzliche Personalressourcen im Umfang von maximal 70 % zur Verfügung. Diese können in der Schulleitung oder im administrativen Bereich eingesetzt werden.
+<sup>1<sup>bis</sup></sup> Die Funktion der Rektorin oder des Rektors ist mit mindestens 60 % und maximal 100 % zu besetzen.
+
+<sup>1<sup>ter</sup></sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive allfälliger Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson darüber hinaus Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig unterjährige Minder- oder Mehrlektionen müssen kompensiert werden. Mehrlektionen können nicht ausbezahlt werden.
+
+<sup>2</sup> Dem Gymnasium, dessen Rektorin oder Rektor die Hauptabteilung Mittelschulen der Dienststelle BMH leitet, stehen zusätzliche Personalressourcen im Umfang von maximal 70 % zur Verfügung. Diese können in der Schulleitung oder im administrativen Bereich eingesetzt werden.
 
 #### § 17
 
 **Lohneinreihung**
 
-<sup>1</sup> Die Rektorinnen und Rektoren der Berufsfachschulen und Gymnasien mit pädagogischer Ausbildung sind in das Lohnband 6 eingereiht.
+<sup>1</sup> Die Rektorinnen und Rektoren der Berufsfachschulen und Gymnasien sind der nicht umschriebenen MU 712.06 gemäss Anhang I der Personalverordnung[^17-1] zugewiesen.
 
-<sup>2</sup> Die übrigen Schulleitungsmitglieder mit pädagogischer Ausbildung sind in das Lohnband 8 eingereiht.
+<sup>2</sup> Die Konrektorinnen und Konrektoren sind der MU 711.08 gemäss Anhang I der Personalverordnung[^17-2] zugewiesen.
+
+[^17-1]: [SGS 150.11](https://bl.clex.ch/data/150.11/de)
+[^17-2]: [SGS 150.11](https://bl.clex.ch/data/150.11/de)
 
 ### 3.3 Musikschulen
 
@@ -391,9 +398,9 @@ beschliesst:
 
 <sup>1</sup> Das Mitarbeiterinnen- und Mitarbeitergespräch mit den Mitgliedern der Schulleitung wird von der Präsidentin oder dem Präsidenten oder einer Delegation des Schulrates durchgeführt.
 
-<sup>2</sup> Das Mitarbeiterinnen- und Mitarbeitergespräch mit den Konrektorinnen resp. den Konrektoren wird auf der Sekundarstufe II durch die Rektorin resp. den Rektor geführt.
+<sup>2</sup> Beim Leitungsmodell mit Rektorat wird das Mitarbeiterinnen- und Mitarbeitergespräch mit den Konrektorinnen resp. den Konrektoren durch die Rektorin resp. den Rektor geführt.
 
-<sup>3</sup> Dabei wird auf die Führungskompetenz der Schulleitungsmitglieder und bei Schulleitungsmitgliedern mit einer pädagogischen Ausbildung auf die Beurteilung ihres Unterrichts durch die zugezogene Fachperson eingegangen.
+<sup>3</sup> Dabei wird auf die Führungskompetenz der Schulleitungsmitglieder und bei gleichzeitiger Unterrichtstätigkeit auf die Beurteilung ihres Unterrichts eingegangen. Der Schulrat, die Rektorin oder der Rektor ohne pädagogische Ausbildung können für die Beurteilung der Unterrichtstätigkeit eine Fachperson beiziehen.
 
 ### 6.3 Konfliktfälle
 
@@ -462,7 +469,7 @@ beschliesst:
 
 **Befristete Umwandlung**
 
-<sup>1</sup> Bei speziellem Bedarf kann an den Volksschulen auf Antrag der Schulleitung beim Schulrat die Schulleitungszeit in Sekretariatszeit und umgekehrt umgewandelt werden. Der Umrechnungsfaktor erschliesst sich aus der Lohnbanddifferenz zwischen Schulleitung und Sekretariat. Die Umwandlung ist immer befristet und bedarf einer schriftlichen Anzeige mit Begründung an den Personaldienst der BKSD.
+<sup>1</sup> Bei speziellem Bedarf kann an den Volksschulen auf Antrag der Schulleitung beim Schulrat die Schulleitungszeit in Sekretariatszeit und umgekehrt umgewandelt werden. Der Umrechnungsfaktor erschliesst sich aus der Lohnbanddifferenz zwischen Schulleitung und Sekretariat. Die Umwandlung ist immer befristet und bedarf einer schriftlichen Anzeige mit Begründung an die Personalabteilung der BKSD.
 
 ## 8 Schlussbestimmungen
 
