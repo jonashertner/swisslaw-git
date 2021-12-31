@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur l'encouragement du sport et de l'activité
 short: OESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: fr
-version: 2021-10-01
+version: 2022-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/fr"
 
 (Ordonnance sur l’encouragement du sport, OESp)
 
-du 23 mai 2012 (Etat le 1<sup>er</sup> octobre 2021)
+du 23 mai 2012 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -338,9 +338,9 @@ Les experts J+S forment les moniteurs J+S, les coachs J+S, les entraîneurs de l
 
 <sup>3</sup> Si la reconnaissance d’un cadre J+S échoit pendant la durée d’une offre J+S, celui-ci peut continuer d’exercer son activité jusqu’à la fin des cours ou des camps commencés; si le cadre concerné est un coach J+S, il peut exercer son activité jusqu’à la fin de l’offre.
 
-<sup>4</sup> Les cadres J+S dont la reconnaissance serait supprimée en vertu de l’al. 1 conservent provisoirement le droit de réaliser des offres J+S ainsi que des offres de la formation des cadres J+S.[^20-1]
+<sup>4</sup> Les moniteurs J+S qui ont suivi avec succès une formation ou une formation continue pour la dernière fois en 2019 conservent provisoirement le droit de réaliser des offres J+S.[^20-1]
 
-[^20-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^20-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> janv. 2022 au 31 déc. 2022 ([RO 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 21
 
@@ -394,7 +394,7 @@ Les autorisations sont accordées:
 
 <sup>6</sup> ...[^22-4]
 
-[^22-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^22-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> janv. 2022 au 31 déc. 2022 ([RO 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 [^22-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^22-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 [^22-4]: Abrogé par le ch. I de l’O du 3 avr. 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
@@ -650,7 +650,8 @@ L’OFSPO retire la reconnaissance d’un cadre ESA dans les cas suivants:
 
 - a. condamnation pénale inspirant des doutes fondés sur la capacité de ce cadre à assumer sa tâche correctement;
 - b. manquements répétés aux obligations visées à l’art. 35.
-- [tab] <sup>4</sup> Les cadres ESA qui, en vue de remplir leur obligation de formation continue, se sont inscrits dans les délais prescrits à un module de formation continue dont la réalisation n’est pas possible en raison des mesures prises par la Confédération pour lutter contre le coronavirus voient leur reconnaissance prolongée.[^39-2]
+
+<sup>4</sup> ...[^39-2]
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 [^39-2]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
@@ -681,7 +682,7 @@ L’OFSPO retire la reconnaissance d’un cadre ESA dans les cas suivants:
 
 #### Art. 41
 
-**Subventions versées à la fédération faîtière du sport suisse[^41-1]**
+**...[^41-1]**
 
 <sup>1</sup> La fédération faîtière du sport suisse reçoit une subvention annuelle pour encourager, développer et soutenir le sport suisse.
 
@@ -1127,17 +1128,15 @@ La HEFSM peut proposer des filières de formation continue menant aux titres sui
 
 #### Art. 63a
 
-**Adaptation des filières d’études pendant la pandémie de coronavirus**[^63a-1]
+**Adaptation des filières d’études pendant l’épidémie de coronavirus**[^63a-1]
 
 <sup>1</sup> La HEFSM peut adapter de manière appropriée le contenu, la date, la forme et le volume des filières d’études, des formations continues et des évaluations de compétences qui ne peuvent pas être réalisées conformément aux exigences des livrets des modules en vigueur en raison des mesures prises par la Confédération pour lutter contre le coronavirus, tant que cela correspond aux objectifs des études. Elle peut adapter les tests d’aptitude préalables à l’admission aux études.
 
-<sup>2</sup> La direction des études peut autoriser la répétition d’une évaluation de compétences déjà répétée et jugée insuffisante si cette dernière ou le cours correspondant ont été adaptés conformément à l’al. 1.
+<sup>2</sup> Il n’est pas facturé d’émoluments aux étudiants lorsque, en raison des mesures prises par la Confédération pour lutter contre le coronavirus, ils se désistent ou s’abstiennent de participer aux cours ou aux évaluations de compétences, ou lorsque les cours ou les évaluations de compétences sont, pour cette raison, reportés ou annulés.
 
-<sup>3</sup> Il n’est pas facturé d’émoluments aux étudiants lorsque, en raison des mesures prises par la Confédération pour lutter contre le coronavirus, ils se désistent ou s’abstiennent de participer aux cours ou aux évaluations de compétences, ou lorsque les cours ou les évaluations de compétences sont, pour cette raison, reportés ou annulés.
+<sup>3</sup> Les étudiants qui n’ont pas pu suivre les cours pendant plus de trois semaines en raison d’une convocation à l’armée, à la protection civile ou au service civil en vue de lutter contre le coronavirus ont le droit de demander *a posteriori* un congé pour le semestre d’études. Les taxes d’études déjà acquittées seront remboursées.
 
-<sup>4</sup> Les étudiants qui n’ont pas pu pas suivre les cours pendant plus de trois semaines en raison d’une convocation à l’armée, à la protection civile ou au service civil en vue de lutter contre le coronavirus ont le droit de demander *a posteriori* un congé pour le semestre d’études. Les taxes d’études déjà acquittées seront remboursées.
-
-[^63a-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^63a-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> janv. 2022 au 31 déc. 2022 ([RO 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 64
 
@@ -1544,9 +1543,7 @@ Les offres J+S proposées par des organisateurs qui ont réalisé une offre J+S 
 
 #### Art. 83d
 
-**Disposition transitoire de la modification du 20 mai 2020**[^83d-1]
-
-L’art. 20, al. 4, s’applique par analogie aux cadres J+S dont la reconnaissance a été supprimée en vertu de l’art. 20, al. 1, entre le 1<sup>er</sup> janvier 2019 et le 31 mai 2020.
+[^83d-1]
 
 [^83d-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
 

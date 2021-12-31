@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2021-10-01
+version: 2022-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
+del 23 maggio 2012 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -340,9 +340,9 @@ Gli esperti G+S formano i monitori G+S, i coach G+S e altri esperti G+S.
 
 <sup>3</sup> Se il riconoscimento di un quadro G+S decade mentre è in corso un’attività G+S egli può continuare a essere impiegato fino al termine dei corsi o dei campi già iniziati; se il quadro in questione è un coach G+S può essere impiegato fino al termine dell’attività.
 
-<sup>4</sup> I quadri G+S il cui riconoscimento verrebbe a scadere ai sensi del capoverso 1 continuano a poter svolgere offerte G+S e offerte della formazione dei quadri G+S.[^20-1]
+<sup>4</sup> I monitori G+S che hanno completato con successo una formazione e un perfezionamento G+S l’ultima volta nel 2019, continuano a poter svolgere offerte G+S.[^20-1]
 
-[^20-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^20-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 21
 
@@ -360,10 +360,6 @@ L’UFSPO può sospendere o revocare il riconoscimento quale quadro se:
 
 <sup>3</sup> Nei casi di scarsa importanza può pronunciare un avvertimento.
 
-<sup>4</sup> I quadri G+S il cui riconoscimento verrebbe a scadere ai sensi del capoverso 1 continuano a poter svolgere offerte G+S e offerte della formazione dei quadri G+S.[^21-1]
-
-[^21-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
-
 ### Sezione 6: Concessione dei contributi
 
 #### Art. 22
@@ -380,7 +376,7 @@ I contributi sono concessi se:
 - b. sono rispettate le disposizioni specifiche per lo svolgimento dell’offerta G+S;
 - c. la documentazione contabile è stata inoltrata per tempo dall’organizzatore dopo la conclusione dell’offerta G+S.
 
-<sup>2bis</sup> Se a seguito dei provvedimenti della Confederazione per la lotta al coronavirus in corsi G+S non si può rispettare il numero minimo richiesto di attività, l’UFSPO concede contributi; i contributi sono concessi per le attività effettivamente svolte.[^22-1]
+<sup>2bis</sup> Se a seguito dei provvedimenti della Confederazione per la lotta al coronavirus nell’ambito di corsi G+S non si può rispettare il numero minimo richiesto di attività, l’UFSPO concede contributi; i contributi sono concessi per le attività effettivamente svolte.[^22-1]
 
 <sup>3</sup> Nel quadro dei crediti stanziati e degli importi massimi stabiliti dal DDPS l’UFSPO stabilisce i contributi nel singolo caso.
 
@@ -400,7 +396,7 @@ Gli organi che accordano l’autorizzazione sono:
 
 <sup>6</sup> ...[^22-4]
 
-[^22-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^22-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 [^22-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^22-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 [^22-4]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
@@ -657,7 +653,7 @@ L’UFSPO revoca il riconoscimento a un membro dei quadri in caso di:
 - a. condanna penale che suscita dubbi giustificati sulla capacità del quadro ESA di continuare a svolgere in modo corretto i propri compiti;
 - b. reiterate violazioni degli obblighi di cui all’articolo 35.
 
-<sup>4</sup> I quadri ESA che per adempiere all’obbligo di formazione continua si sono iscritti per tempo a un modulo di perfezionamento che non può essere svolto a causa dei provvedimenti della Confederazione per la lotta al coronavirus continuano a essere riconosciuti.[^39-2]
+<sup>4</sup> ...[^39-2]
 
 [^39-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 [^39-2]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
@@ -688,7 +684,7 @@ L’UFSPO revoca il riconoscimento a un membro dei quadri in caso di:
 
 #### Art. 41
 
-**Contributi all’associazione mantello dello sport svizzero[^41-1]**
+**...[^41-1]**
 
 <sup>1</sup> L’associazione mantello dello sport svizzero riceve un contributo annuo per la promozione, lo sviluppo e il sostegno dello sport elvetico.
 
@@ -1090,7 +1086,7 @@ Essa può proporre i seguenti perfezionamenti nel campo delle scienze dello spor
 
 <sup>1</sup> I cicli di studio di bachelor preparano gli studenti all’esercizio di un’attività professionale nel campo dello sport. Essi comprendono prestazioni di studio corrispondenti a 180 crediti ECTS; questi crediti vengono calcolati conformemente alle disposizioni d’esecuzione relative alla LPSU[^62-1].[^62-2]
 
-<sup>2</sup> I cicli di studio di master si basano sui cicli di studio di bachelor e trasmettono conoscenze approfondite e specialistiche in materia di pratica sportiva e di scienze dello sport. Essi comprendono prestazioni di studio corrispondenti a 90 o 120 crediti ECTS; questi crediti vengono calcolati conformemente alle disposizioni d’esecuzione relative alla LPSU.[^62-3]
+<sup>2</sup> I cicli di studio di master si basano sui cicli di studio di bachelor e trasmettono conoscenze approfondite e specialistiche in materia di pratica sportiva e di scienze dello sport. Essi comprendono prestazioni di studio corrispondenti a 90 o 120 crediti ECTS; questi crediti vengono calcolati conformemente alle disposizioni d’esecuzione relative alla LPSU.[^62-3].
 
 <sup>3</sup>
 
@@ -1134,17 +1130,15 @@ La SUFSM può proporre cicli di studio di perfezionamento che portano al consegu
 
 #### Art. 63a
 
-**Adattamenti dei cicli di studio durante la pandemia di COVID-19**[^63a-1]
+**Adattamenti dei cicli di studio durante l’epidemia di COVID-19**[^63a-1]
 
-<sup>1</sup> La SUFSM può svolgere con altre modalità, rispondenti agli obiettivi del ciclo di studio, cicli di studio, perfezionamenti e verifiche delle competenze, che a seguito dei provvedimenti della Confederazione per la lotta al coronavirus non è stato possibile svolgere rispettando le indicazioni previste nei rispettivi manuali in merito a contenuti, scadenze, forma e entità. Può adattare l’accertamento dell’idoneità per l’ammissione agli studi.
+<sup>1</sup> La SUFSM può svolgere con altre modalità, rispondenti agli obiettivi del ciclo di studio, cicli di studio, perfezionamenti e verifiche delle competenze, che a seguito dei provvedimenti della Confederazione per la lotta al coronavirus non è stato possibile svolgere rispettando le indicazioni previste nei rispettivi manuali in merito a contenuti, scadenze, forma ed entità. Può adattare l’accertamento dell’idoneità per l’ammissione agli studi.
 
-<sup>2</sup> La direzione degli studi può consentire di ripetere una verifica delle competenze già ripetuta e giudicata insufficiente se la verifica delle competenze o l’insegnamento ad essa relativo si sono tenuti secondo gli adattamenti di cui al capoverso 1.
+<sup>2</sup> Se a seguito dei provvedimenti della Confederazione per la lotta al coronavirus gli studenti devono spostare o annullare la partecipazione all’insegnamento o le verifiche delle competenze, ritirarsi o non comparire, non ci sono per loro conseguenze finanziarie in merito agli emolumenti.
 
-<sup>3</sup> Se a seguito dei provvedimenti della Confederazione per la lotta al coronavirus gli studenti devono spostare o annullare la partecipazione all’insegnamento o le verifiche delle competenze, ritirarsi o non comparire, non ci sono per loro conseguenze finanziarie in merito agli emolumenti.
+<sup>3</sup> Gli studenti che a seguito di un impiego nel quadro dell’esercito, della protezione civile o del servizio civile sostitutivo comandato per la lotta al coronavirus si sono dovuti assentare dalle lezioni per più di tre settimane hanno il diritto di chiedere il congedo per il semestre in corso. Le tasse universitarie pagate sono rimborsate.
 
-<sup>4</sup> Gli studenti che a seguito di un impiego nel quadro dell’esercito, della protezione civile o del servizio civile sostitutivo comandato per la lotta al coronavirus si sono dovuti assentare dalle lezioni per più di tre settimane hanno il diritto di chiedere il congedo per il semestre in corso. Le tasse universitarie pagate sono rimborsate.
-
-[^63a-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^63a-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 64
 
@@ -1551,9 +1545,7 @@ Le offerte G+S di organizzatori che hanno chiuso un’offerta fra il 1° ottobre
 
 #### Art. 83d
 
-**Disposizione transitoria della modifica del 20 maggio 2020**[^83d-1]
-
-L’articolo 20 capoverso 4 si applica per analogia per i quadri G+S il cui riconoscimento ai sensi dell’articolo 20 capoverso 1 è scaduto fra il 1° gennaio 2019 e il 31 maggio 2020.
+[^83d-1]
 
 [^83d-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
 

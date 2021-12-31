@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Mai 2012 über die Förderung von Sport und Bewegung 
 short: SpoFöV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: de
-version: 2021-10-01
+version: 2022-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20211001/de"
 
 (Sportförderungsverordnung, SpoFöV)
 
-vom 23. Mai 2012 (Stand am 1. Oktober 2021)
+vom 23. Mai 2012 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -340,9 +340,9 @@ J+S-Expertinnen und -Experten bilden J+S-Leiterinnen und -Leiter, J+S-Coaches so
 
 <sup>3</sup> Fällt die Anerkennung eines J+S-Kadermitglieds während eines laufenden J+S-Angebots dahin, so kann dieses bis zum Ende bereits begonnener Kurse oder Lager eingesetzt bleiben; handelt es sich beim betroffenen Kadermitglied um einen J+S-Coach, so kann dieser bis zum Ende des Angebots eingesetzt bleiben.
 
-<sup>4</sup> J+S-Kadermitglieder, deren Anerkennung gemäss Absatz 1 dahinfallen würde, bleiben vorläufig berechtigt, J+S-Angebote und Angebote der Kaderbildung durchzuführen.[^20-1]
+<sup>4</sup> J+S-Leiterinnen und -Leiter, die zuletzt im Jahr 2019 eine J+S-Aus- oder -Weiterbildung erfolgreich absolviert haben, bleiben vorläufig berechtigt, J+S-Angebote durchzuführen.[^20-1]
 
-[^20-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^20-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 21
 
@@ -396,7 +396,7 @@ Bewilligungsinstanzen sind:
 
 <sup>6</sup> ...[^22-4]
 
-[^22-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^22-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 [^22-2]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^22-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 [^22-4]: Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
@@ -454,7 +454,7 @@ Zusätzliche Beiträge können ausgerichtet werden an:
 
 <sup>1</sup> Die Beiträge für J+S-Coaches richten sich nach dem Umfang der Beiträge für die Durchführung der J+S-Angebote. Sie beträgt höchstens 10 Prozent der Gesamtsumme.
 
-<sup>2</sup> Zuschläge nach Artikel 23 Absätze 2 und 3 werden für die Berechnung der Gesamtsumme nicht berücksichtigt. …[^24-1]
+<sup>2</sup> Zuschläge nach Artikel 23 Absätze 2 und 3 werden für die Berechnung der Gesamtsumme nicht berücksichtigt. ...[^24-1]
 
 <sup>3</sup> Das VBS legt den Umfang der Beiträge fest.
 
@@ -653,7 +653,7 @@ Das BASPO entzieht die Anerkennung von Kadermitgliedern bei:
 - a. einer strafrechtlichen Verurteilung, welche begründete Zweifel an der Fähigkeit des ESA-Kadermitglieds hinterlässt, weiter seine Aufgaben korrekt wahrnehmen zu können;
 - b. wiederholten Verstössen gegen die Pflichten nach Artikel 35.
 
-<sup>4</sup> ESA-Kadermitglieder, die sich zur Erfüllung ihrer Weiterbildungspflicht fristgerecht zu einem Weiterbildungsmodul angemeldet haben, das wegen der Massnahmen des Bundes zur Bekämpfung des Coronavirus nicht durchgeführt werden kann, bleiben anerkannt.[^39-2]
+<sup>4</sup> ...[^39-2]
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 [^39-2]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
@@ -684,7 +684,7 @@ Das BASPO entzieht die Anerkennung von Kadermitgliedern bei:
 
 #### Art. 41
 
-**Beiträge an den Dachverband des Schweizer Sports[^41-1]**
+**...[^41-1]**
 
 <sup>1</sup> Der Dachverband des Schweizer Sports erhält einen jährlichen Beitrag zur Förderung, Entwicklung und Unterstützung des Schweizer Sports.
 
@@ -1130,17 +1130,15 @@ Die EHSM kann Weiterbildungsstudiengänge anbieten, die zu einem der folgenden A
 
 #### Art. 63a
 
-**Anpassungen der Studiengänge während der Covid-19-Pandemie**[^63a-1]
+**Anpassungen der Studiengänge während der Covid-19-Epidemie**[^63a-1]
 
 <sup>1</sup> Die EHSM kann Studiengänge, Weiterbildungen und Kompetenznachweise, die als Folge der Massnahmen des Bundes zur Bekämpfung des Coronavirus nicht nach den Vorgaben des jeweils gültigen Modulhandbuchs durchgeführt werden können, bezüglich Inhalt, Zeitpunkt, Form und Umfang in anderer geeigneter Weise, die der Zielsetzung des Studiengangs entspricht, durchführen. Sie kann die Eignungsabklärungen zur Aufnahme ins Studium anpassen.
 
-<sup>2</sup> Die Studienleitung kann die Wiederholung eines bereits wiederholten und ungenügend bewerteten Kompetenznachweises zulassen, wenn der Kompetenznachweis oder die dazugehörige Lehrveranstaltung nach Absatz 1 angepasst wurde.
+<sup>2</sup> Müssen Studierende als Folge der Massnahmen des Bundes zur Bekämpfung des Coronavirus Lehrveranstaltungen oder Kompetenznachweise verschieben oder absagen, sich von ihnen abmelden oder ihnen fernbleiben, so ergeben sich für sie keine Gebührenfolgen.
 
-<sup>3</sup> Müssen Studierende als Folge der Massnahmen des Bundes zur Bekämpfung des Coronavirus Lehrveranstaltungen oder Kompetenznachweise verschieben oder absagen, sich von ihnen abmelden oder ihnen fernbleiben, so ergeben sich für sie keine Gebührenfolgen.
+<sup>3</sup> Studierende, die als Folge eines angeordneten Militär-, Zivilschutz- oder Zivildiensteinsatzes zur Bekämpfung des Coronavirus während mehr als drei Wochen dem Unterricht fernbleiben mussten, haben das Recht, sich nachträglich für das Studiensemester beurlauben zu lassen. Geleistete Studiengebühren werden rückerstattet.
 
-<sup>4</sup> Studierende, die als Folge eines angeordneten Militär-, Zivilschutz- oder Zivildiensteinsatzes zur Bekämpfung des Coronavirus während mehr als drei Wochen dem Unterricht fernbleiben mussten, haben das Recht, sich nachträglich für das Studiensemester beurlauben zu lassen. Geleistete Studiengebühren werden rückerstattet.
-
-[^63a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^63a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 64
 
@@ -1547,9 +1545,7 @@ J+S-Angebote von Organisatoren, die zwischen dem 1. Oktober 2018 und dem 30. Sep
 
 #### Art. 83d
 
-**Übergangsbestimmung zur Änderung vom 20. Mai 2020**[^83d-1]
-
-Artikel 20 Absatz 4 gilt sinngemäss für J+S-Kadermitglieder, deren Anerkennung gemäss Artikel 20 Absatz 1 zwischen dem 1. Januar 2019 und dem 31. Mai 2020 dahingefallen ist.
+[^83d-1]
 
 [^83d-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
 
