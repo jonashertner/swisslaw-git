@@ -4,11 +4,11 @@ title: Verordnung vom 30. Juni 1993 über das Betriebs- und Unternehmensregister
 short: BURV
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/de"
 
 (BURV)**[^t-1]**
 
-vom 30. Juni 1993 (Stand am 1. April 2021)
+vom 30. Juni 1993 (Stand am 1. Januar 2022)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -79,7 +79,7 @@ Im BUR sind die folgenden Daten enthalten:
 - j. Grundkapital der Aktiengesellschaften;
 - k.[^3-2] für Betriebe, die dem Landwirtschaftsgesetz vom 29. April 1998[^3-3], dem Tierseuchengesetz vom 1. Juli 1966[^3-4], dem Tierschutzgesetz vom 16. Dezember 2005[^3-5] oder dem Lebensmittelgesetz vom 9. Oktober 1992[^3-6] unterstehen: Name und Adresse des Betriebs und des Bewirtschafters oder der Bewirtschafterin beziehungsweise des Tierhalters oder der Tierhalterin sowie Name, Beruf und Geburtsjahr der verantwortlichen Person;
 - k<sup>bis</sup>.[^3-7] für Landwirtschaftsbetriebe zusätzlich zu den Daten nach Buchstabe k: Betriebsstruktur;
-- l.[^3-8] ...
+- l.[^3-8] …
 - m. nichtsprechende Identifikationsnummer (ENTID-Nummer) des Unternehmens;
 - n. nichtsprechende Referenz-Identifikationsnummer (REF-ENT Nummer);
 - o. Statusangaben zur Aktivität;
@@ -131,16 +131,17 @@ Soweit es für die Registerführung erforderlich ist, kann das BUR insbesondere 
 
 - a. Identifikatoren von Quellen nach Artikel 4;
 - b. Angaben über Mutationen in Quellen nach Artikel 4;
-- c. Angaben über den Betriebsleiter oder die Betriebsleiterin, insbesondere Name, Geburtsjahr, Geschlecht und AHV-Versichertennummer;
+- c. Angaben über den Betriebsleiter oder die Betriebsleiterin, insbesondere Name, Geburtsjahr, Geschlecht und AHV-Nummer[^3a-2];
 - d. Angaben über rechtliche und wirtschaftliche Verbindungen zwischen Unternehmen und Betrieben;
-- e. Angaben über die Beschäftigten eines Unternehmens oder Betriebs, insbesondere Geburtsjahr, Geschlecht, Nationalität, AHV-Versichertennummer, Nebenerwerbstätigkeit, Lohn oder Einkommen und Tätigkeitsdauer.
+- e. Angaben über die Beschäftigten eines Unternehmens oder Betriebs, insbesondere Geburtsjahr, Geschlecht, Nationalität, AHV-Nummer, Nebenerwerbstätigkeit, Lohn oder Einkommen und Tätigkeitsdauer.
 
 <sup>2</sup> Diese Zusatzdaten dürfen nur mit der jeweiligen Quelle nach Artikel 4 ausgetauscht werden.
 
-<sup>3</sup> Der Zugriff auf die Daten des Mehrwertsteuer-Registers erfolgt mittels Abrufverfahren.[^3a-2]
+<sup>3</sup> Der Zugriff auf die Daten des Mehrwertsteuer-Registers erfolgt mittels Abrufverfahren.[^3a-3]
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3a-2]: Eingefügt durch Ziff. II 2 der V vom 8. März 2019, in Kraft seit 1. April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
+[^3a-2]: Ausdruck gemäss Anhang Ziff. II 16 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^3a-3]: Eingefügt durch Ziff. II 2 der V vom 8. März 2019, in Kraft seit 1. April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 
 #### Art. 4
 
@@ -187,7 +188,7 @@ Umfang und Modalitäten des Zugriffs auf die Daten sind im Anhang festgelegt.
 
 <sup>1</sup> Die Daten werden vom BFS[^6-1] übernommen, eingegeben und mutiert, nachdem die nötigen Überprüfungen vorgenommen worden sind.[^6-2]
 
-<sup>2</sup> ...[^6-3]
+<sup>2</sup> …[^6-3]
 
 [^6-1]: Ausdruck gemäss Ziff. I der V vom 18. Aug. 2010, in Kraft seit 1. Okt. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^6-2]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Sept. 2009 ([AS 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
@@ -293,47 +294,47 @@ Folgende Amtsstellen sind für statistische Zwecke an das System angeschlossen:
 - g.[^11-6] kantonale Wirtschafts- und Arbeitsämter (KWAA);
 - h.[^11-7] regionale und kommunale Wirtschafts- und Arbeitsämter (WAA);
 - i.[^11-8] ESTV;
-- j.[^11-9] Eidgenössische Zollverwaltung (EZV);
-- k.[^11-10] kantonale Landwirtschaftsämter (KLA);
-- 1\.[^11-11] ...
-- [tab] m.[^11-12] Schweizerische Nationalbank (SNB).
-- n.[^11-13] Bundesamt für Raumentwicklung (ARE);
-- o.[^11-14] Bundesamt für Umwelt (BAFU).
+- j.[^11-9] Bundesamt für Zoll und Grenzsicherheit (BAZG)[^11-10];
+- k.[^11-11] kantonale Landwirtschaftsämter (KLA);
+- 1\.[^11-12] …
+- [tab] m.[^11-13] Schweizerische Nationalbank (SNB).
+- n.[^11-14] Bundesamt für Raumentwicklung (ARE);
+- o.[^11-15] Bundesamt für Umwelt (BAFU).
 
 <sup>2</sup>
 
 Folgende Amtsstellen sind für andere Zwecke an das System angeschlossen:
 
-- a.[^11-15] SECO;
-- a<sup>bis</sup>.[^11-16] BFS für die Führung des UID-Registers;
+- a.[^11-16] SECO;
+- a<sup>bis</sup>.[^11-17] BFS für die Führung des UID-Registers;
 - b. SEM;
 - c. BSV;
-- d.[^11-17] Bundesamt für Umwelt (BAFU);
+- d.[^11-18] Bundesamt für Umwelt (BAFU);
 - e. BLW;
-- f.[^11-18] Bundesamt für wirtschaftliche Landesversorgung (BWL);
-- g.[^11-19] KWAA;
-- h.[^11-20] WAA;
-- i.[^11-21] Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^11-22];
-- j.[^11-23] Institut für Virologie und Immunologie[^11-24] (IVI);
-- k.[^11-25] Bundeseinheit für die Lebensmittelkette (BLK);
-- 1\.[^11-26] KLA;
-- m.[^11-27] Kantonale Veterinärämter (KVA);
-- n.[^11-28] EAV;
-- o.[^11-29] EZV;
-- p.[^11-30] KAK;
-- q.[^11-31] VAK;
-- r.[^11-32] Eidgenössisches Büro für die Gleichstellung von Frau und Mann (EBG);
-- s.[^11-33] Kantonschemiker;
-- t.[^11-34] Eidgenössische Koordinationskommission für Arbeitssicherheit;
-- u.[^11-35] kantonale IV-Stellen;
-- v.[^11-36] Bundesamt für Gesundheit (BAG);
-- w.[^11-37] anerkannte Arbeitslosenkassen (ALK);
-- x.[^11-38] Staatssekretariat für Bildung, Forschung und Innovation (SBFI)[^11-39];
-- y.[^11-40] RBKG;
-- z.[^11-41] Bundesamt für Zivilluftfahrt (BAZL);
-- z<sup>bis</sup>.[^11-42] Bundesamt für Kommunikation (BAKOM);
-- z<sup>ter</sup>.[^11-43] ARE;
-- [tab] z<sup>quater</sup>.[^11-44] die Eidgenössische Postkommission (PostCom).
+- f.[^11-19] Bundesamt für wirtschaftliche Landesversorgung (BWL);
+- g.[^11-20] KWAA;
+- h.[^11-21] WAA;
+- i.[^11-22] Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV)[^11-23];
+- j.[^11-24] Institut für Virologie und Immunologie[^11-25] (IVI);
+- k.[^11-26] Bundeseinheit für die Lebensmittelkette (BLK);
+- 1\.[^11-27] KLA;
+- m.[^11-28] Kantonale Veterinärämter (KVA);
+- n.[^11-29] EAV;
+- o.[^11-30] BAZG;
+- p.[^11-31] KAK;
+- q.[^11-32] VAK;
+- r.[^11-33] Eidgenössisches Büro für die Gleichstellung von Frau und Mann (EBG);
+- s.[^11-34] Kantonschemiker;
+- t.[^11-35] Eidgenössische Koordinationskommission für Arbeitssicherheit;
+- u.[^11-36] kantonale IV-Stellen;
+- v.[^11-37] Bundesamt für Gesundheit (BAG);
+- w.[^11-38] anerkannte Arbeitslosenkassen (ALK);
+- x.[^11-39] Staatssekretariat für Bildung, Forschung und Innovation (SBFI)[^11-40];
+- y.[^11-41] RBKG;
+- z.[^11-42] Bundesamt für Zivilluftfahrt (BAZL);
+- z<sup>bis</sup>.[^11-43] Bundesamt für Kommunikation (BAKOM);
+- z<sup>ter</sup>.[^11-44] ARE;
+- [tab] z<sup>quater</sup>.[^11-45] die Eidgenössische Postkommission (PostCom).
 
 <sup>3</sup> Der Umfang des Zugriffs und der Berechtigung zur Datenbearbeitung im einzelnen wird im Anhang festgelegt.
 
@@ -346,41 +347,42 @@ Folgende Amtsstellen sind für andere Zwecke an das System angeschlossen:
 [^11-7]: Fassung gemäss Ziff. I der V vom 25. Juni 2003, in Kraft seit 1. Aug. 2003 ([AS 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)).
 [^11-8]: Eingefügt durch Ziff. I der V vom 29. Juni 1994, in Kraft seit 1. Aug. 1994 ([AS 1994 1585](https://fedlex.data.admin.ch/eli/oc/1994/1585_1585_1585)).
 [^11-9]: Eingefügt durch Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-10]: Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-11]: Eingefügt durch Ziff. I der V vom 26. Juni 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Aufgehoben durch Anhang 2 Ziff. II 5 der Alkoholverordnung vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
-[^11-12]: Eingefügt durch Ziff. I der V vom 26. Juni 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-13]: Eingefügt durch Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^11-11]: Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-12]: Eingefügt durch Ziff. I der V vom 26. Juni 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Aufgehoben durch Anhang 2 Ziff. II 5 der Alkoholverordnung vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^11-13]: Eingefügt durch Ziff. I der V vom 26. Juni 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-14]: Eingefügt durch Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-15]: Fassung gemäss Ziff. I der V vom 13. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^11-16]: Eingefügt durch Anhang Ziff. 5 der V vom 26. Jan. 2011 über die Unternehmens-Identi-fikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^11-17]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
-[^11-18]: Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-15]: Eingefügt durch Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-16]: Fassung gemäss Ziff. I der V vom 13. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-17]: Eingefügt durch Anhang Ziff. 5 der V vom 26. Jan. 2011 über die Unternehmens-Identi-fikationsnummer, in Kraft seit 1. April 2011 ([AS 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^11-18]: Fassung gemäss Ziff. I der V vom 28. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
 [^11-19]: Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-20]: Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-21]: Eingefügt durch Ziff. I der V vom 27. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)).
-[^11-22]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^11-23]: Eingefügt durch Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-24]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Mai 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^11-25]: Eingefügt durch Ziff. I der V vom 27. Juni 1995 ([AS 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-26]: Eingefügt durch Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
+[^11-21]: Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-22]: Eingefügt durch Ziff. I der V vom 27. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)).
+[^11-23]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^11-24]: Eingefügt durch Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-25]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Mai 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^11-26]: Eingefügt durch Ziff. I der V vom 27. Juni 1995 ([AS 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-27]: Eingefügt durch Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-28]: Eingefügt durch Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-29]: Eingefügt durch Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
-[^11-30]: Eingefügt durch Ziff. I der V vom 13. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-30]: Eingefügt durch Ziff. I der V vom 26. Juni 1996, in Kraft seit 1. Aug. 1996 ([AS 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-31]: Eingefügt durch Ziff. I der V vom 13. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^11-32]: Eingefügt durch Ziff. I der V vom 15. Juni 2001 ([AS 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-33]: Eingefügt durch Ziff. I der V vom 25. Juni 2003 ([AS 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-34]: Eingefügt durch Ziff. I der V vom 28. Juni 2006 ([AS 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-32]: Eingefügt durch Ziff. I der V vom 13. Juni 2000, in Kraft seit 1. Aug. 2000 ([AS 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-33]: Eingefügt durch Ziff. I der V vom 15. Juni 2001 ([AS 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-34]: Eingefügt durch Ziff. I der V vom 25. Juni 2003 ([AS 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-35]: Eingefügt durch Ziff. I der V vom 28. Juni 2006 ([AS 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-36]: Eingefügt durch Ziff. I der V vom 2. Juli 2008 ([AS 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-36]: Eingefügt durch Ziff. I der V vom 28. Juni 2006 ([AS 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-37]: Eingefügt durch Ziff. I der V vom 2. Juli 2008 ([AS 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-38]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-39]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^11-40]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-38]: Eingefügt durch Ziff. I der V vom 2. Juli 2008 ([AS 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-39]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-40]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^11-41]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-42]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-43]: Eingefügt durch Ziff. I der V vom 18. Aug. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-44]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 15. Dez. 2014 ([AS 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
+[^11-43]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009 ([AS 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-44]: Eingefügt durch Ziff. I der V vom 18. Aug. 2010 ([AS 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Fassung gemäss Ziff. I der V vom 4. April 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-45]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 15. Dez. 2014 ([AS 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
 
 #### Art. 12
 
@@ -441,7 +443,7 @@ Die Verletzung der Auskunftspflicht, des Datenschutzes und die Strafverfolgung s
 
 Die Verordnung vom 12. Dezember 1988[^17-1] über die Führung eines Betriebs- und Unternehmensregisters wird aufgehoben.
 
-[^17-1]: [[AS 1988 2187](https://fedlex.data.admin.ch/eli/oc/1988/2187_2187_2187), [1990 521](https://fedlex.data.admin.ch/eli/oc/1990/521_521_521)]
+[^17-1]: [[AS 1988 2187](https://fedlex.data.admin.ch/eli/oc/1988/2187_2187_2187); [1990 521](https://fedlex.data.admin.ch/eli/oc/1990/521_521_521)]
 
 #### Art. 18
 
@@ -466,6 +468,7 @@ In der jeweiligen Sprache alphabetisch aufgenommen:
 - BAFU Bundesamt für Umwelt
 - BAG Bundesamt für Gesundheit
 - BAKOM Bundesamt für Kommunikation
+- BAZG Bundesamt für Zoll und Grenzsicherheit
 - BAZL Bundesamt für Zivilluftfahrt
 - BFE Bundesamt für Energie
 - BFS Bundesamt für Statistik
@@ -478,7 +481,6 @@ In der jeweiligen Sprache alphabetisch aufgenommen:
 - EBG Eidgenössisches Büro für die Gleichstellung von Frau und Mann
 - EKAS Eidgenössische Koordinationskommission für Arbeitssicherheit
 - ESTV Eidgenössische Steuerverwaltung
-- EZV Eidgenössische Zollverwaltung
 - IV kantonale IV-Stellen
 - IVI Institut für Virologie und Immunologie
 - KAK kantonale Ausgleichskassen
@@ -521,7 +523,7 @@ In der jeweiligen Sprache alphabetisch aufgenommen:
 
 <table>
 <tr><th>Zugriffsart und Inhalt</th><th>Inhalt BUR</th><th>Austausch mit anderen Systemen</th><th colspan="2">Benutzer</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th>BFS</th><th>ARE, BAFU, SECO</th><th>ALK, BAKOM, BAZL, BFE, EAV, EKAS, ESTV, EZV, IV, IVI, KWAA, PostCom, RBKG, SBFI, SEM, WAA</th><th>BSV, KAK, VAK</th><th>SUVA</th><th>KAS</th><th>SNB</th><th>EBG</th><th>BAG, BLK, BLV, BLW, BWL, KC, KLA, KVA, KUW</th></tr>
+<tr><th></th><th></th><th></th><th>BFS</th><th>ARE, BAFU, SECO</th><th>ALK, BAKOM, BAZG, BAZL, BFE, EAV, EKAS, ESTV, IV, IVI, KWAA, PostCom, RBKG, SBFI, SEM, WAA</th><th>BSV, KAK, VAK</th><th>SUVA</th><th>KAS</th><th>SNB</th><th>EBG</th><th>BAG, BLK, BLV, BLW, BWL, KC, KLA, KVA, KUW</th></tr>
 <tr><td>BUR-Nummer des Betriebs</td><td>X</td><td>1,2,3,4,5,6, 7,8,9,10,12</td><td>A,D</td><td>A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>
 <tr><td>ENTID-Nummer des Unternehmens</td><td>X</td><td>1,2,3,4,5,6, 7,8,9,10,12</td><td>A,D</td><td>A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>
 <tr><td>REF-ENT Nummer; nichtsprechende Referenz-Identifikationsnummer</td><td>X</td><td>1,2,3,4,5,6,7, 8,9,10,11,12</td><td>A,D</td><td>A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>

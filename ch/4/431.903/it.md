@@ -4,11 +4,11 @@ title: Ordinanza del 30 giugno 1993 sul Registro delle imprese e degli stabilime
 short: ORIS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/it"
 
 (ORIS)**[^t-1]**
 
-del 30 giugno 1993 (Stato 1° aprile 2021)
+del 30 giugno 1993 (Stato 1° gennaio 2022)
 
 [^t-1]: Introdotta dal n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -139,16 +139,17 @@ Sempre che ciò sia necessario per la tenuta del registro, il RIS può utilizzar
 
 - a. gli identificatori delle fonti di cui all’articolo 4;
 - b. le indicazioni su mutazioni nelle fonti di cui all’articolo 4;
-- c. le indicazioni sul capo azienda, in particolare il nome, l’anno di nascita, il sesso e il numero di assicurato AVS;
+- c. le indicazioni sul capo azienda, in particolare il nome, l’anno di nascita, il sesso e il numero AVS[^3a-2];
 - d. le indicazioni su collegamenti giuridici ed economici tra imprese e stabilimenti;
-- e. le indicazioni sulle persone occupate nell’impresa o nello stabilimento, in particolare l’anno di nascita, il sesso, la nazionalità, il numero di assicurato AVS, l’attività accessoria, il salario o reddito e la durata dell’attività.
+- e. le indicazioni sulle persone occupate nell’impresa o nello stabilimento, in particolare l’anno di nascita, il sesso, la nazionalità, il numero AVS, l’attività accessoria, il salario o reddito e la durata dell’attività.
 
 <sup>2</sup> Tali dati supplementari possono essere scambiati solo con la rispettiva fonte di cui all’articolo 4.
 
-<sup>3</sup> I dati del registro IVA sono accessibili mediante una procedura di richiamo.[^3a-2]
+<sup>3</sup> I dati del registro IVA sono accessibili mediante una procedura di richiamo.[^3a-3]
 
 [^3a-1]: Introdotto dal n. I dell’O del 18 ago. 2010, in vigore dal 1° ott. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3a-2]: Introdotto dal n. II 2 dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
+[^3a-2]: Nuova espr. giusta l’all. n. II 16 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^3a-3]: Introdotto dal n. II 2 dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 
 #### Art. 4
 
@@ -304,47 +305,47 @@ I seguenti servizi ufficiali sono collegati al sistema a scopi statistici:[^11-1
 - g.[^11-5] gli uffici cantonali dell’economia e del lavoro (UECL);
 - h.[^11-6] gli uffici regionali e comunali dell’economia e del lavoro (URCEL);
 - i.[^11-7] l’AFC;
-- j.[^11-8] l’Amministrazione federale delle dogane (AFD);
-- k.[^11-9] gli Uffici cantonali dell’agricoltura (UCA);
-- l.[^11-10] ...
-- m.[^11-11] la Banca nazionale svizzera (BNS);
-- n.[^11-12] l’Ufficio federale dello sviluppo territoriale (ARE);
-- o.[^11-13] l’Ufficio federale dell’ambiente (UFAM).
+- j.[^11-8] l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^11-9];
+- k.[^11-10] gli Uffici cantonali dell’agricoltura (UCA);
+- l.[^11-11] ...
+- m.[^11-12] la Banca nazionale svizzera (BNS);
+- n.[^11-13] l’Ufficio federale dello sviluppo territoriale (ARE);
+- o.[^11-14] l’Ufficio federale dell’ambiente (UFAM).
 
 <sup>2</sup>
 
-I seguenti servizi ufficiali sono collegati al sistema ad altri scopi:[^11-14]
+I seguenti servizi ufficiali sono collegati al sistema ad altri scopi:[^11-15]
 
-- a.[^11-15] la SECO;
-- a<sup>bis</sup>.[^11-16] l’UST per la gestione del registro IDI;
+- a.[^11-16] la SECO;
+- a<sup>bis</sup>.[^11-17] l’UST per la gestione del registro IDI;
 - b. la SEM;
 - c. l’UFAS;
-- d.[^11-17] l’UFAM;
+- d.[^11-18] l’UFAM;
 - e. l’UFAG;
-- f.[^11-18] l’Ufficio federale per l’approvvigionamento economico del Paese (UFAE);
-- g.[^11-19] gli UCEL;
-- h.[^11-20] gli URCEL;
-- i.[^11-21] Ufficio federale della sicurezza alimentare e di veterinaria (USAV)[^11-22];
-- j.[^11-23] l’Istituto di virologia e di immunologia[^11-24] (IVI);
-- k.[^11-25] l’Unità federale per la filiera alimentare (UFAL);
-- l.[^11-26] gli UCA;
-- m.[^11-27] gli Uffici cantonali di veterinaria (UCV);
-- n.[^11-28] la RFA;
-- o.[^11-29] l’AFD;
-- p.[^11-30] le CCC;
-- q.[^11-31] le CCP;
-- r.[^11-32] l’Ufficio federale per l’uguaglianza fra donna e uomo (UFU);
-- s.[^11-33] i chimici cantonali;
-- t.[^11-34] la Commissione federale di coordinamento per la sicurezza sul lavoro;
-- u.[^11-35] gli Uffici AI cantonali;
-- v.[^11-36] l’Ufficio federale della sanità pubblica (UFSP);
-- w.[^11-37] le Casse di disoccupazione riconosciute (CD);
-- x.[^11-38] la Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^11-39]
-- y.[^11-40] i RCCC;
-- z.[^11-41] l’Ufficio federale dell’aviazione civile (UFAC);
-- [tab] z<sup>bis</sup>.[^11-42] l’Ufficio federale delle comunicazioni (UFCOM);
-- [tab] z<sup>ter</sup>.[^11-43] l’ARE;
-- [tab] z<sup>quater</sup>.[^11-44] la Commissione federale delle poste (PostCom).
+- f.[^11-19] l’Ufficio federale per l’approvvigionamento economico del Paese (UFAE);
+- g.[^11-20] gli UCEL;
+- h.[^11-21] gli URCEL;
+- i.[^11-22] Ufficio federale della sicurezza alimentare e di veterinaria (USAV)[^11-23];
+- j.[^11-24] l’Istituto di virologia e di immunologia[^11-25] (IVI);
+- k.[^11-26] l’Unità federale per la filiera alimentare (UFAL);
+- l.[^11-27] gli UCA;
+- m.[^11-28] gli Uffici cantonali di veterinaria (UCV);
+- n.[^11-29] la RFA;
+- o.[^11-30] l’UDSC;
+- p.[^11-31] le CCC;
+- q.[^11-32] le CCP;
+- r.[^11-33] l’Ufficio federale per l’uguaglianza fra donna e uomo (UFU);
+- s.[^11-34] i chimici cantonali;
+- t.[^11-35] la Commissione federale di coordinamento per la sicurezza sul lavoro;
+- u.[^11-36] gli Uffici AI cantonali;
+- v.[^11-37] l’Ufficio federale della sanità pubblica (UFSP);
+- w.[^11-38] le Casse di disoccupazione riconosciute (CD);
+- x.[^11-39] la Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI)[^11-40];
+- y.[^11-41] i RCCC;
+- z.[^11-42] l’Ufficio federale dell’aviazione civile (UFAC);
+- [tab] z<sup>bis</sup>.[^11-43] l’Ufficio federale delle comunicazioni (UFCOM);
+- [tab] z<sup>ter</sup>.[^11-44] l’ARE;
+- [tab] z<sup>quater</sup>.[^11-45] la Commissione federale delle poste (PostCom).
 
 <sup>3</sup> Le modalità d’accesso e il diritto di elaborare i dati sono disciplinati dettagliatamente nell’allegato.
 
@@ -356,42 +357,43 @@ I seguenti servizi ufficiali sono collegati al sistema ad altri scopi:[^11-14]
 [^11-6]: Nuovo testo giusta il n. I dell’O del 25 giu. 2003, in vigore dal 1° ago. 2003 ([RU 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)).
 [^11-7]: Introdotta dal n. I dell’O del 29 giu. 1994, in vigore dal 1° ago. 1994 ([RU 1994 1585](https://fedlex.data.admin.ch/eli/oc/1994/1585_1585_1585)).
 [^11-8]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-9]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-10]: Introdotta dal n. I dell’O del 26 giu. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Abrogata dell’all. 2 n. II 5 dell’O del 15 set. 2017 sull’alcol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
-[^11-11]: Introdotta dal n. I dell’O del 26 giu. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-12]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-9]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^11-10]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-11]: Introdotta dal n. I dell’O del 26 giu. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Abrogata dell’all. 2 n. II 5 dell’O del 15 set. 2017 sull’alcol, in vigore dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^11-12]: Introdotta dal n. I dell’O del 26 giu. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-13]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-14]: Nuovo testo giusta il n. I dell’O del 26 giu. 1996, in vigore dal 1° ago. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
-[^11-15]: Nuovo testo giusta il n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^11-16]: Introdotta dall’all. n. 5 all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^11-17]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
-[^11-18]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-14]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-15]: Nuovo testo giusta il n. I dell’O del 26 giu. 1996, in vigore dal 1° ago. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
+[^11-16]: Nuovo testo giusta il n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-17]: Introdotta dall’all. n. 5 all’O del 26 gen. 2011 sul numero d’identificazione delle imprese, in vigore dal 1° apr. 2011 ([RU 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^11-18]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
 [^11-19]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-20]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-21]: Introdotta dal n. I dell’O del 27 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)).
-[^11-22]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
-[^11-23]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-24]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° mag. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^11-25]: Introdotta dal n. I dell’O del 27 giu. 1995 ([RU 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-26]: Introdotta dal n. I dell’O del 26 giu. 1996, in vigore dal 1° ago. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
+[^11-21]: Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-22]: Introdotta dal n. I dell’O del 27 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)).
+[^11-23]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
+[^11-24]: Introdotta dal n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-25]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° mag. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^11-26]: Introdotta dal n. I dell’O del 27 giu. 1995 ([RU 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-27]: Introdotta dal n. I dell’O del 26 giu. 1996, in vigore dal 1° ago. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-28]: Introdotta dal n. I dell’O del 26 giu. 1996, in vigore dal 1° ago. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-29]: Introdotta dal n. I dell’O del 26 giu. 1996, in vigore dal 1° ago. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
-[^11-30]: Introdotta dal n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-30]: Introdotta dal n. I dell’O del 26 giu. 1996, in vigore dal 1° ago. 1996 ([RU 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-31]: Introdotta dal n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^11-32]: Introdotta dal n. I dell’O del 15 giu. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-33]: Introdotta dal n. I dell’O del 25 giu. 2003 ([RU 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-34]: Introdotta dal n. I dell’O del 28 giu. 2006 ([RU 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-32]: Introdotta dal n. I dell’O del 13 giu. 2000, in vigore dal 1° ago. 2000 ([RU 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-33]: Introdotta dal n. I dell’O del 15 giu. 2001 ([RU 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-34]: Introdotta dal n. I dell’O del 25 giu. 2003 ([RU 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-35]: Introdotta dal n. I dell’O del 28 giu. 2006 ([RU 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-36]: Introdotta dal n. I dell’O del 2 lug. 2008 ([RU 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-36]: Introdotta dal n. I dell’O del 28 giu. 2006 ([RU 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-37]: Introdotta dal n. I dell’O del 2 lug. 2008 ([RU 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-38]: Introdotta dal n. I dell’O del 19 ago. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-39]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo
-[^11-40]: Introdotta dal n. I dell’O del 19 ago. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-38]: Introdotta dal n. I dell’O del 2 lug. 2008 ([RU 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-39]: Introdotta dal n. I dell’O del 19 ago. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-40]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo
 [^11-41]: Introdotta dal n. I dell’O del 19 ago. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-42]: Introdotta dal n. I dell’O del 19 ago. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-43]: Introdotta dal n. I dell’O del 18 ago. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-44]: Introdotta dal n. I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
+[^11-43]: Introdotta dal n. I dell’O del 19 ago. 2009 ([RU 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-44]: Introdotta dal n. I dell’O del 18 ago. 2010 ([RU 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Nuovo testo giusta il n. I dell’O del 4 apr. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-45]: Introdotta dal n. I dell’O del 29 ott. 2014, in vigore dal 15 dic. 2014 ([RU 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
 
 #### Art. 12
 
@@ -474,8 +476,6 @@ In ordine alfabetico:
 
 AFC Amministrazione federale delle contribuzioni
 
-AFD Amministrazione federale delle dogane
-
 AI Uffici AI cantonali
 
 ARE Ufficio federale dello sviluppo territoriale
@@ -517,6 +517,8 @@ UCEL Uffici regionali e comunali dell’economia e del lavoro
 UCS Uffici cantonali e comunali di statistica
 
 UCV Uffici cantonali di veterinaria
+
+UDSC Ufficio federale della dogana e della sicurezza dei confini
 
 UFAC Ufficio federale dell’aviazione civile
 
@@ -586,7 +588,7 @@ D Accesso sotto altre forme (elenchi, copie e supporti di dati)
 
 <table>
 <tr><th>Tipo di accesso e contenuto</th><th>Contenuto RIS</th><th>Scambio con altri sistemi</th><th colspan="2">Utente</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th>UST</th><th>ARE, SECO, UFAM</th><th>AFC, AFD, AI, CD, CFSL, IVI, PostCom, RCCC, RFA, SEFRI, SEM, UCEL, UFAC, UFCOM, UFE, URCEL</th><th>UFAS, CCC, CCP</th><th>INSAI</th><th>UCS</th><th>BNS</th><th>UFU</th><th>CC, SCPA, UCA, UCV, UFAE, UFAG, UFAL, UFSP, USAV</th></tr>
+<tr><th></th><th></th><th></th><th>UST</th><th>ARE, SECO, UFAM</th><th>AFC, AI, CD, CFSL, IVI, PostCom, RCCC, RFA, SEFRI, SEM, UCEL, UDSC, UFAC, UFCOM, UFE, URCEL</th><th>UFAS, CCC, CCP</th><th>INSAI</th><th>UCS</th><th>BNS</th><th>UFU</th><th>CC, SCPA, UCA, UCV, UFAE, UFAG, UFAL, UFSP, USAV</th></tr>
 <tr><td>Numero RIS dello stabilimento</td><td>X</td><td>1,2,3,4,5,6,7, 8,9,10,12</td><td>A,D</td><td>A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>
 <tr><td>Numero ENTID dell’impresa</td><td>X</td><td>1,2,3,4,5,6,7, 8,9,10,12</td><td>A,D</td><td>A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>
 <tr><td>Numero di riferimento neutrale REF‑ENT</td><td>X</td><td>1,2,3,4,5,6,7, 8,9,10,11,12</td><td>A,D</td><td>A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>

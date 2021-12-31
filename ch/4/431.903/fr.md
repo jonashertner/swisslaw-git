@@ -4,11 +4,11 @@ title: Ordonnance du 30 juin 1993 sur le Registre des entreprises et des établi
 short: OREE
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 1993-06-30
 in_force: 1993-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2253_2253_2253-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2253_2253_2253/20210401/fr"
 
 (OREE[^t-1])
 
-du 30 juin 1993 (Etat le 1<sup>er</sup> avril 2021)
+du 30 juin 1993 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Introduite par le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 
@@ -112,7 +112,7 @@ Le REE peut contenir les données suivantes:[^3-11]
 [^3-6]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement: LF du 20 juin 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^3-7]: Introduite par le ch. I de l’O du 18 août 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Nouvelle teneur selon le ch. I de l’O du 7 nov. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 [^3-8]: Abrogée par le ch. I de l’O du 7 nov. 2018, avec effet au 1<sup>er</sup> déc. 2018 ([RO 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
-[^3-9]: Introduite par le ch. 5 de l’annexe à l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^3-9]: Introduite par l’annexe ch. 5 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 [^3-10]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)).
 [^3-11]: Nouvelle teneur selon le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
 [^3-12]: Nouvelle teneur selon le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
@@ -131,16 +131,17 @@ Si la tenue du registre le requiert, le REE peut utiliser en particulier les don
 
 - a. les identificateurs des sources visées à l’art. 4;
 - b. des données sur les mutations effectuées dans les sources visées à l’art. 4;
-- c. des données sur le chef d’entreprise, en particulier le nom, l’année de naissance, le sexe et le numéro d’assuré AVS;
+- c. des données sur le chef d’entreprise, en particulier le nom, l’année de naissance, le sexe et le numéro AVS[^3a-2];
 - d. des données sur les liens juridiques et économiques entre les entreprises et les établissements;
-- e. des données sur les employés de l’entreprise ou de l’établissement, en particulier l’année de naissance, le sexe, la nationalité, le numéro d’assuré AVS, les activités accessoires, le salaire ou le revenu, et la durée de l’emploi.
+- e. des données sur les employés de l’entreprise ou de l’établissement, en particulier l’année de naissance, le sexe, la nationalité, le numéro AVS, les activités accessoires, le salaire ou le revenu, et la durée de l’emploi.
 
 <sup>2</sup> Aucune donnée supplémentaire ne peut être échangée sans sa source, visée à l’art. 4.
 
-<sup>3</sup> Les données du registre des entreprises soumises à la taxe sur la valeur ajoutée sont accessibles en ligne.[^3a-2]
+<sup>3</sup> Les données du registre des entreprises soumises à la taxe sur la valeur ajoutée sont accessibles en ligne.[^3a-3]
 
 [^3a-1]: Introduit par le ch. I de l’O du 18 août 2010, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)).
-[^3a-2]: Introduit par le ch. II 2 de l’O du 8 mars 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
+[^3a-2]: Nouvelle expression selon l’annexe ch. II 16 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3a-3]: Introduit par le ch. II 2 de l’O du 8 mars 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 
 #### Art. 4
 
@@ -173,7 +174,7 @@ Les informations enregistrées dans le REE proviennent des sources suivantes:
 [^4-7]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
 [^4-8]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
 [^4-9]: Introduite par le ch. I de l’O du 23 juin 2004 ([RO 2004 3373](https://fedlex.data.admin.ch/eli/oc/2004/433)). Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 15 déc. 2014 ([RO 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
-[^4-10]: Introduite par le ch. 5 de l’annexe à l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^4-10]: Introduite par l’annexe ch. 5 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
 
 #### Art. 5
 
@@ -293,46 +294,46 @@ Les services publics suivants ont accès au système d’information du REE à d
 - g.[^11-4] les offices cantonaux de l’économie et du travail (OCET);
 - h.[^11-5] les offices communaux et régionaux de l’économie et du travail (OET);
 - i.[^11-6] l’AFC;
-- j.[^11-7] l’Administration fédérale des douanes (AFD);
-- k.[^11-8] les offices cantonaux de l’agriculture (OCA);
-- l.[^11-9] ...
-- m.[^11-10] la Banque nationale Suisse (BNS);
-- n.[^11-11] l’Office fédéral du développement territorial (ARE);
-- o.[^11-12] l’Office fédéral de l’environnement (OFEV).
+- j.[^11-7] l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^11-8];
+- k.[^11-9] les offices cantonaux de l’agriculture (OCA);
+- l.[^11-10] ...
+- m.[^11-11] la Banque nationale Suisse (BNS);
+- n.[^11-12] l’Office fédéral du développement territorial (ARE);
+- o.[^11-13] l’Office fédéral de l’environnement (OFEV).
 
-<sup>2</sup> z<sup>quater</sup>.[^11-13] la Commission fédérale de la poste (PostCom).
+<sup>2</sup> z<sup>quater</sup>.[^11-14] la Commission fédérale de la poste (PostCom).
 
 Les services publics suivants ont accès au système d’information du REE à d’autres fins:
 
-- a.[^11-14] le SECO;
-- a<sup>bis</sup>.[^11-15] l’OFS pour la gestion du registre IDE.
+- a.[^11-15] le SECO;
+- a<sup>bis</sup>.[^11-16] l’OFS pour la gestion du registre IDE.
 - b. le SEM;
 - c. l’OFAS;
-- d.[^11-16] l’Office fédéral de l’environnement (OFEV);
+- d.[^11-17] l’Office fédéral de l’environnement (OFEV);
 - e. l’OFAG;
-- f.[^11-17] l’Office fédéral pour l’approvisionnement économique du pays (OFAE);
-- g.[^11-18] les OCET;
-- h.[^11-19] les OET;
-- i.[^11-20] l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^11-21];
-- j.[^11-22] l’Institut de virologie et d’immunologie[^11-23] (IVI);
-- k.[^11-24] l’Unité fédérale pour la filière alimentaire (UFAL);
-- l.[^11-25] les OCA;
-- m.[^11-26] les offices vétérinaires cantonaux (OVC);
-- n.[^11-27] la RFA;
-- o.[^11-28] l’AFD;
-- p.[^11-29] les CCC;
-- q.[^11-30] les CCP;
-- r.[^11-31] le Bureau fédéral de l’égalité entre femmes et hommes (BFEG);
-- s.[^11-32] les chimistes cantonaux;
-- t.[^11-33] la Commission fédérale de coordination pour la sécurité au travail;
-- u.[^11-34] les Offices d’assurance-invalidité cantonaux;
-- v.[^11-35] l’office fédéral de la santé publique (OFSP);
-- w.[^11-36] les caisses de chômage reconnues (CCh);
-- x.[^11-37] le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)[^11-38];
-- y.[^11-39] les RCCC;
-- z.[^11-40] l’Office fédéral de l’aviation civile (OFAC);
-- z<sup>bis</sup>.[^11-41] l’Office fédéral de la communication (OFCOM);
-- z<sup>ter</sup>.[^11-42] l’ARE;
+- f.[^11-18] l’Office fédéral pour l’approvisionnement économique du pays (OFAE);
+- g.[^11-19] les OCET;
+- h.[^11-20] les OET;
+- i.[^11-21] l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV)[^11-22];
+- j.[^11-23] l’Institut de virologie et d’immunologie[^11-24] (IVI);
+- k.[^11-25] l’Unité fédérale pour la filière alimentaire (UFAL);
+- l.[^11-26] les OCA;
+- m.[^11-27] les offices vétérinaires cantonaux (OVC);
+- n.[^11-28] la RFA;
+- o.[^11-29] l’OFDF;
+- p.[^11-30] les CCC;
+- q.[^11-31] les CCP;
+- r.[^11-32] le Bureau fédéral de l’égalité entre femmes et hommes (BFEG);
+- s.[^11-33] les chimistes cantonaux;
+- t.[^11-34] la Commission fédérale de coordination pour la sécurité au travail;
+- u.[^11-35] les Offices d’assurance-invalidité cantonaux;
+- v.[^11-36] l’office fédéral de la santé publique (OFSP);
+- w.[^11-37] les caisses de chômage reconnues (CCh);
+- x.[^11-38] le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)[^11-39];
+- y.[^11-40] les RCCC;
+- z.[^11-41] l’Office fédéral de l’aviation civile (OFAC);
+- z<sup>bis</sup>.[^11-42] l’Office fédéral de la communication (OFCOM);
+- z<sup>ter</sup>.[^11-43] l’ARE;
 
 <sup>3</sup> Les modalités d’accès et le droit de traiter les données sont réglés en détail dans l’annexe.
 
@@ -343,41 +344,42 @@ Les services publics suivants ont accès au système d’information du REE à d
 [^11-5]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2003, en vigueur depuis le 1<sup>er</sup> août 2003 ([RO 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)).
 [^11-6]: Introduite par le ch. I de l’O du 29 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1994 ([RO 1994 1585](https://fedlex.data.admin.ch/eli/oc/1994/1585_1585_1585)).
 [^11-7]: Introduite par le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-8]: Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-9]: Introduite par le ch. I de l’O du 26 juin 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Abrogée par le ch. II 5 de l’annexe 2 à l’O du 15 sept. 2017 sur l’alcool, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
-[^11-10]: Introduite par le ch. I de l’O du 26 juin 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-11]: Introduite par le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-8]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^11-9]: Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-10]: Introduite par le ch. I de l’O du 26 juin 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Abrogée par l’annexe 2 ch. II 5 de l’O du 15 sept. 2017 sur l’alcool, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^11-11]: Introduite par le ch. I de l’O du 26 juin 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-12]: Introduite par le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-13]: Introduite par le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 15 déc. 2014 ([RO 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
-[^11-14]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^11-15]: Introduite par le ch. 5 de l’annexe à l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
-[^11-16]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
-[^11-17]: Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-13]: Introduite par le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-14]: Introduite par le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 15 déc. 2014 ([RO 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)).
+[^11-15]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-16]: Introduite par l’annexe ch. 5 de l’O du 26 janv. 2011 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 533](https://fedlex.data.admin.ch/eli/oc/2011/81)).
+[^11-17]: Nouvelle teneur selon le ch. I de l’O du 28 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)).
 [^11-18]: Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-19]: Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-20]: Introduite par le ch. I de l’O du 27 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)).
-[^11-21]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^11-22]: Introduite par le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-23]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> mai 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^11-24]: Introduite par le ch. I de l’O du 27 juin 1995 ([RO 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-25]: Introduite par le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
+[^11-20]: Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-21]: Introduite par le ch. I de l’O du 27 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)).
+[^11-22]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^11-23]: Introduite par le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-24]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> mai 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^11-25]: Introduite par le ch. I de l’O du 27 juin 1995 ([RO 1995 3502](https://fedlex.data.admin.ch/eli/oc/1995/3502_3502_3502)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-26]: Introduite par le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-27]: Introduite par le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-28]: Introduite par le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
-[^11-29]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-29]: Introduite par le ch. I de l’O du 26 juin 1996, en vigueur depuis le 1<sup>er</sup> août 1996 ([RO 1996 2274](https://fedlex.data.admin.ch/eli/oc/1996/2274_2274_2274)).
 [^11-30]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
-[^11-31]: Introduite par le ch. I de l’O du 15 juin 2001 ([RO 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-32]: Introduite par le ch. I de l’O du 25 juin 2003 ([RO 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-33]: Introduite par le ch. I de l’O du 28 juin 2006 ([RO 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-31]: Introduite par le ch. I de l’O du 13 juin 2000, en vigueur depuis le 1<sup>er</sup> août 2000 ([RO 2000 1735](https://fedlex.data.admin.ch/eli/oc/2000/260)).
+[^11-32]: Introduite par le ch. I de l’O du 15 juin 2001 ([RO 2001 1703](https://fedlex.data.admin.ch/eli/oc/2001/267)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-33]: Introduite par le ch. I de l’O du 25 juin 2003 ([RO 2003 1989](https://fedlex.data.admin.ch/eli/oc/2003/299)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-34]: Introduite par le ch. I de l’O du 28 juin 2006 ([RO 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-35]: Introduite par le ch. I de l’O du 2 juillet 2008 ([RO 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-35]: Introduite par le ch. I de l’O du 28 juin 2006 ([RO 2006 2851](https://fedlex.data.admin.ch/eli/oc/2006/436)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-36]: Introduite par le ch. I de l’O du 2 juillet 2008 ([RO 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-37]: Introduite par le ch. I de l’O du 19 août 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-38]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^11-39]: Introduite par le ch. I de l’O du 19 août 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-37]: Introduite par le ch. I de l’O du 2 juillet 2008 ([RO 2008 3511](https://fedlex.data.admin.ch/eli/oc/2008/453)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-38]: Introduite par le ch. I de l’O du 19 août 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-39]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^11-40]: Introduite par le ch. I de l’O du 19 août 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 [^11-41]: Introduite par le ch. I de l’O du 19 août 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
-[^11-42]: Introduite par le ch. I de l’O du 18 août 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-42]: Introduite par le ch. I de l’O du 19 août 2009 ([RO 2009 4145](https://fedlex.data.admin.ch/eli/oc/2009/510)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
+[^11-43]: Introduite par le ch. I de l’O du 18 août 2010 ([RO 2010 3945](https://fedlex.data.admin.ch/eli/oc/2010/562)). Nouvelle teneur selon le ch. I de l’O du 4 avr. 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)).
 
 #### Art. 12
 
@@ -446,20 +448,19 @@ L’ordonnance du 12 décembre 1988 sur la tenue d’un registre des entreprises
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 1993.
 
-Annexe[^t-2]
+Annexe*[^t-2]*
 
 (art. 5, 9 et 10)
 
 ## Contenu du REE et accès au registre
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 4 avr. 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)). Mise à jour selon le ch. II 1 de l’annexe 3 à l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)), le ch. II des O du 29 oct. 2014 ([RO 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)) et du 7 nov. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 4 avr. 2012 ([RO 2012 1779](https://fedlex.data.admin.ch/eli/oc/2012/252)). Mise à jour par l’annexe 3 ch. II 1 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)), le ch. II des O du 29 oct. 2014 ([RO 2014 3677](https://fedlex.data.admin.ch/eli/oc/2014/635)) et du 7 nov. 2018, en vigueur depuis le 1<sup>er</sup> déc. 2018 ([RO 2018 4137](https://fedlex.data.admin.ch/eli/oc/2018/667)).
 
 Abréviations et explication des codes
 
 Par ordre alphabétique:
 
 - AFC Administration fédérale des contributions
-- AFD Administration fédérale des douanes
 - AI Offices cantonaux de l’assurance-invalidité
 - ARE Office fédéral du développement territorial
 - BFEG Bureau fédéral de l’égalité entre femmes et hommes
@@ -480,6 +481,7 @@ Par ordre alphabétique:
 - OFAG Office fédéral de l’agriculture
 - OFAS Office fédéral des assurances sociales
 - OFCOM Office fédéral de la communication
+- OFDF Office fédéral de la douane et de la sécurité des frontières
 - OFEV Office fédéral de l’environnement
 - OFEN Office fédéral de l’énergie
 - OFS Office fédéral de la statistique
@@ -518,7 +520,7 @@ Par ordre alphabétique:
 
 <table>
 <tr><th>Type d’accès et contenu</th><th>Contenu REE</th><th>Échanges avec d’autres systèmes</th><th colspan="2">Utilisateurs</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th>OFS</th><th colspan="2">ARE, OFEV, SECO</th><th>AFC, AFD, AI, CCh, CFST, IVI, OCET, OET, OFAC, OFCOM, OFEN, PostCom, RFA, RCCC, SEFRI, SEM</th><th>OFAS, CCC, CCP</th><th>CNA</th><th>OCS</th><th>BNS</th><th>BFEG</th><th>CC, OFAG, OFAE, OCA, OVC, OFSP OSAV, SPE, UFAL</th></tr>
+<tr><th></th><th></th><th></th><th>OFS</th><th colspan="2">ARE, OFEV, SECO</th><th>AFC, AI, CCh, CFST, IVI, OCET, OET, OFAC, OFCOM, OFDF, OFEN, PostCom, RFA, RCCC, SEFRI, SEM</th><th>OFAS, CCC, CCP</th><th>CNA</th><th>OCS</th><th>BNS</th><th>BFEG</th><th>CC, OFAG, OFAE, OCA, OVC, OFSP OSAV, SPE, UFAL</th></tr>
 <tr><td>Numéro REE de l’établissement</td><td>X</td><td>1,2,3,4,5,6, 7,8,9,10,12</td><td>A,D</td><td colspan="2">A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>
 <tr><td>Numéro ENTID de l’unité entreprise</td><td>X</td><td>1,2,3,4,5,6, 7,8,9,10,12</td><td>A,D</td><td colspan="2">A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>
 <tr><td>Numéro de référence non significatif REF-ENT</td><td>X</td><td>1,2,3,4,5,6,7, 8,9,10,11,12</td><td>A,D</td><td colspan="2">A,C,D</td><td>A,C,D</td><td>A,C,D</td><td>D</td><td>A,C,D</td><td>A,C,D</td><td>A</td><td>A,C,D</td></tr>
