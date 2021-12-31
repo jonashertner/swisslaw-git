@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2002 sui documenti d'identità dei cittadini 
 short: ODI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: it
-version: 2020-08-01
+version: 2022-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20200801/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20200801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20200801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20200801/it"
 
 (Ordinanza sui documenti d’identità, ODI)
 
-del 20 settembre 2002 (Stato 1° agosto 2020) (Stato 1° agosto 2020)
+del 20 settembre 2002 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -221,9 +221,10 @@ I dati personali seguenti possono essere richiamati da Infostar:
 - e. cittadinanza;
 - f. luogo o luoghi d’origine;
 - g. stato di vita;
-- h. numero d’assicurato AVS.
+- h. numero AVS[^10-2].
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2010 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^10-2]: Nuova espr. giusta l’all. n. II 4 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 11
 
@@ -1087,7 +1088,7 @@ A = consultazione; E = entrata e consultazione
 <tr><td>Indirizzo dell’invio</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
 <tr><td>Luogo di nascita, art. 11 cpv. 1 lett. b LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Cognomi e nomi dei genitori, lett. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Numero d’assicurato dell’AVS</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Numero AVS</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data del primo e del nuovo rilascio, lett. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Modifica dei dati contenuti nel documento</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Iscrizioni inerenti al blocco, lett. f</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>

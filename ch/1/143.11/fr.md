@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2002 sur les documents d'identité des ressor
 short: OLDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: fr
-version: 2020-08-01
+version: 2022-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20200801/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20200801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20200801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20200801/fr"
 
 (Ordonnance sur les documents d’identité, OLDI)
 
-du 20 septembre 2002 (Etat le 1<sup>er</sup> août 2020)
+du 20 septembre 2002 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -215,9 +215,10 @@ Les données suivantes peuvent être reprises d’Infostar:
 - e. droit de cité ou nationalité;
 - f. lieu(x) d’origine;
 - g. statut de vie;
-- h. numéro d’assuré AVS.
+- h. numéro AVS[^10-2].
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2009, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^10-2]: Nouvelle expression selon l’annexe ch. II 4 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 11
 
@@ -1083,7 +1084,7 @@ A = Consultation; E = Entrée et consultation
 <tr><td>Adresse d’envoi</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">E</td><td></td><td></td><td></td></tr>
 <tr><td>Lieu de naissance, art. 11, al. 1, let. b, LDI</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Noms et prénoms des parents, let. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Numéro d’assuré AVS</td><td>A</td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
+<tr><td>Numéro AVS</td><td>A</td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
 <tr><td>Date du premier et du nouvel établissement, let. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Modifications des mentions figurant dans le document d’identité</td><td>E</td><td>A</td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Inscriptions concernant la saisie de documents d’identité, let. f</td><td>E</td><td></td><td>E</td><td>E</td><td colspan="3">A</td><td colspan="4"></td><td>E</td><td colspan="2">A</td><td></td><td></td><td></td></tr>
@@ -1099,7 +1100,7 @@ A = Consultation; E = Entrée et consultation
 <tr><td colspan="18"><sup>1</sup> Seulement à titre de comparaison, pas d’affichage à l’écran et pas de possibilité d’exporter des données.</td></tr>
 </table>
 
-**Abréviations:**
+Abréviations:
 
 - Fedpol Doc. Id.: Section Documents d’identité de l’Office fédéral de la police (service compétent de la Confédération, art. 12, al. 1, let. a, LDI)
 - Fedpol Pol: Office fédéral de la police en tant que service de police compétent de la Confédération (art. 12, al. 2, let. d et f, et art. 12, al. 3, LDI)

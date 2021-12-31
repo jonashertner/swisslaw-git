@@ -4,11 +4,11 @@ title: "Verordnung vom 20. September 2002 über die Ausweise für Schweizer Staa
 short: VAwG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: de
-version: 2020-08-01
+version: 2022-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20200801/de/xml/fedlex-data-admin-ch-eli-cc-2002-468-20200801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20200801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-468-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20200801/de"
 
 (Ausweisverordnung, VAwG)
 
-vom 20. September 2002 (Stand am 1. August 2020)
+vom 20. September 2002 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -215,9 +215,10 @@ Folgende Daten können aus Infostar übernommen werden:
 - e. Bürgerrecht resp. Staatsangehörigkeit;
 - f. Heimatort(e);
 - g. Lebensstatus;
-- h. AHV-Versichertennummer.
+- h. AHV-Nummer[^10-2].
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2009, in Kraft seit 1. März 2010 ([AS 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
+[^10-2]: Ausdruck gemäss Anhang Ziff. II 4 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 11
 
@@ -1086,7 +1087,7 @@ A = Abfrage; E = Eingabe und Abfrage
 <tr><td>Versandadresse</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>E</td><td></td><td></td><td></td></tr>
 <tr><td>Geburtsort, Art. 11 Abs. 1 Bst. b AwG</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Namen und Vornamen der Eltern, Bst. d</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>AHV-Versichertennummer</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>AHV-Nummer</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Datum der Erst- und der Neuausstellung, Bst. e</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Änderungen der im Ausweis aufgeführten Daten</td><td>E</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td>E</td><td>E</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Einträge über Schriftensperre, Bst. f</td><td>E</td><td></td><td>E</td><td>E</td><td>A</td><td></td><td>E</td><td>A</td><td></td><td></td><td></td></tr>
