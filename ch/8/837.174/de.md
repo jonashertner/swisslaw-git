@@ -3,18 +3,18 @@ sr: "837.174"
 title: Verordnung vom 3. März 1997 über die obligatorische berufliche Vorsorge von arbeitslosen Personen
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-03-03
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die obligatorische berufliche Vorsorge von arbeitslosen Personen
 
-vom 3. März 1997 (Stand am 1. Januar 2021)
+vom 3. März 1997 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -54,19 +54,12 @@ Für die Risiken Tod und Invalidität sind obligatorisch versichert arbeitslose 
 
 **Grundlage zur Bestimmung des koordinierten Lohnes**
 
-<sup>1</sup> Die Grenzbeträge nach den Artikeln 2, 7 und 8 BVG werden durch 260,4 geteilt (Tagesgrenzbeträge). Für Personen, die im Sinne des Bundesgesetzes vom 19. Juni 1959[^3-1] über die Invalidenversicherung teilweise invalid sind, werden die Grenzbeträge nach den Artikeln 2, 7 und 8 Absatz 1 BVG folgendermassen gekürzt:
-
-<table>
-<tr><td>Rentenanspruch in Bruchteilen einer ganzen Rente</td><td>Kürzung der Grenzbeträge</td></tr>
-<tr><td>¼</td><td>¼</td></tr>
-<tr><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾.[^3-2]</td></tr>
-</table>
+<sup>1</sup> Die Grenzbeträge nach den Artikeln 2, 7 und 8 BVG werden durch 260,4 geteilt (Tagesgrenzbeträge). Für Personen, die im Sinne des Bundesgesetzes vom 19. Juni 1959[^3-1] über die Invalidenversicherung teilweise invalid sind, werden die Grenzbeträge nach den Artikeln 2, 7 und 8 Absatz 1 BVG entsprechend dem prozentualen Anteil ihres Teilrentenanspruchs gekürzt.[^3-2]
 
 <sup>2</sup> Die Löhne aus Zwischenverdiensttätigkeit (Art. 24 AVIG) und Teilzeitbeschäftigung (Art. 10 Abs. 2 Bst. b AVIG) innerhalb einer Kontrollperiode werden durch die Zahl der in die Kontrollperiode fallenden kontrollierten Tage geteilt (Tageslohn).[^3-3]
 
 [^3-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^3-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 der V vom 10. Juni 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^3-2]: Fassung gemäss Anhang Ziff. 7 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^3-3]: Fassung gemäss Ziff. I der V vom 15. September 1999, in Kraft seit 1. Jan. 2000 ([AS 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
 
 #### Art. 4

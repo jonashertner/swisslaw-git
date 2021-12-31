@@ -3,18 +3,18 @@ sr: "837.174"
 title: Ordinanza del 3 marzo 1997 sulla previdenza professionale obbligatoria dei disoccupati
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-03-03
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla previdenza professionale obbligatoria dei disoccupati
 
-del 3 marzo 1997 (Stato 1° gennaio 2021)
+del 3 marzo 1997 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -54,19 +54,12 @@ Sono assicurati obbligatoriamente per i rischi morte e invalidità i disoccupati
 
 **Principi per determinare il salario coordinato**
 
-<sup>1</sup> Gli importi limite secondo gli articoli 2, 7 e 8 LPP sono divisi per 260,4 (importi limite giornalieri). Per le persone parzialmente invalide ai sensi della legge federale del 19 giugno 1959[^3-1] sull’assicurazione per l’invalidità, gli importi limite fissati negli articoli 2, 7 e 8 capoverso 1 LPP sono ridotti come segue:
-
-<table>
-<tr><td>Diritto alla rendita in frazioni di una rendita intera</td><td>Riduzione degli importi limite</td></tr>
-<tr><td>¼</td><td>¼</td></tr>
-<tr><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾.[^3-2]</td></tr>
-</table>
+<sup>1</sup> Gli importi limite secondo gli articoli 2, 7 e 8 LPP sono divisi per 260,4 (importi limite giornalieri). Per le persone parzialmente invalide ai sensi della legge federale del 19 giugno 1959[^3-1] sull’assicurazione per l’invalidità, gli importi limite fissati negli articoli 2, 7 e 8 capoverso 1 LPP sono ridotti in misura corrispondente alla percentuale di rendita cui hanno diritto.[^3-2]
 
 <sup>2</sup> I salari provenienti da guadagni intermedi (art. 24 LADI) e da un’occupazione a tempo parziale (art. 10 cpv. 2 lett. b LADI) percepiti durante un periodo di controllo sono divisi per il numero di giorni controllati corrispondenti a un periodo di controllo (salario giornaliero).[^3-3]
 
 [^3-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^3-2]: Nuovo testo del per. giusta l’all. n. 3 dell’O del 10 giu. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^3-2]: Nuovo testo giusta l’all. n. 7 dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^3-3]: Nuovo testo giusta il n. I dell’O del 15 set. 1999, in vigore dal 1° gen. 2000 ([RU 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
 
 #### Art. 4

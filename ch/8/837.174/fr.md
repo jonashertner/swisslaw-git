@@ -3,22 +3,22 @@ sr: "837.174"
 title: Ordonnance du 3 mars 1997 sur la prévoyance professionnelle obligatoire des chômeurs
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1997-03-03
 in_force: 1997-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/1101_1101_1101/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-1101_1101_1101-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/1101_1101_1101/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la prévoyance professionnelle obligatoire des chômeurs
 
-du 3 mars 1997 (Etat le 1<sup>er</sup> janvier 2021)
+du 3 mars 1997 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 22*a*, al. 3, de la loi du 25 juin 1982 sur l’assurance-chômage (LACI) [^ingress-1], vu l’art. 97, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^ingress-2],
+vu l’art. 22*a*, al. 3, de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^ingress-1], vu l’art. 97, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^ingress-2],
 
 arrête:
 
@@ -54,19 +54,12 @@ Sont soumis à l’assurance obligatoire pour les risques de décès et d’inva
 
 **Principes applicables au calcul du salaire coordonné**
 
-<sup>1</sup> Les montants-limites fixés aux art. 2, 7 et 8 LPP sont divisés par 260,4 (montants-limites journaliers). Pour les personnes partiellement invalides au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^3-1], les montants-limites fixés aux art. 2, 7 et 8, al. 1, LPP sont réduits comme suit:
-
-<table>
-<tr><td>Droit à la rente en fraction d’une rente entière</td><td>Réduction des montants-limites</td></tr>
-<tr><td>¼</td><td>¼</td></tr>
-<tr><td>½</td><td>½</td></tr>
-<tr><td>¾</td><td>¾.[^3-2]</td></tr>
-</table>
+<sup>1</sup> Les montants-limites fixés aux art. 2, 7 et 8 LPP sont divisés par 260,4 (montants-limites journaliers). Pour les personnes partiellement invalides au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^3-1], les montants-limites fixés aux art. 2, 7 et 8, al. 1, LPP sont réduits proportionnellement au pourcentage de rente partielle auquel elles ont droit.[^3-2]
 
 <sup>2</sup> Les gains intermédiaires (art. 24 LACI) et les salaires provenant d’emplois à temps partiel (art. 10, al. 2, let. b, LACI) réalisés durant une période de contrôle sont divisés par le nombre de jours contrôlés au cours de la période de contrôle (salaire journalier).[^3-3]
 
 [^3-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^3-2]: Nouvelle teneur de la phrase selon le ch. 3 de l’annexe à l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4279](https://fedlex.data.admin.ch/eli/oc/2005/559)).
+[^3-2]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 2551](https://fedlex.data.admin.ch/eli/oc/1999/401)).
 
 #### Art. 4
@@ -127,7 +120,7 @@ En cas de cessation de l’affiliation à l’assurance obligatoire des chômeur
 
 **Fixation du taux de cotisation**
 
-<sup>1</sup> 1Pour les risques de décès et d’invalidité, le taux de cotisation se monte à 0,25 % du salaire journalier coordonné.[^8-1]
+<sup>1</sup> Pour les risques de décès et d’invalidité, le taux de cotisation se monte à 0,25 % du salaire journalier coordonné.[^8-1]
 
 <sup>2</sup> L’institution supplétive contrôle régulièrement si le taux de cotisation couvre les frais et fait rapport à l’organe de compensation de l’assurance-chômage, au moins une fois par an. Si le taux de cotisation doit être adapté en raison de l’évolution du risque, l’institution supplétive présente à l’organe de compensation de l’assurance-chômage une proposition d’adaptation à transmettre au Conseil fédéral.[^8-2]
 
