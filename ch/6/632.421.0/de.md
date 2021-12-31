@@ -3,11 +3,11 @@ sr: "632.421.0"
 title: Verordnung vom 18. Juni 2008 über die Zollansätze für Waren im Verkehr mit EU- und EFTA-Mitgliedstaaten (Freihandelsverordnung 1)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: de
-version: 2018-07-01
+version: 2022-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20180701/de/xml/fedlex-data-admin-ch-eli-cc-2008-455-20180701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20180701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-455-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20180701/de"
 
 (Freihandelsverordnung 1)
 
-vom 18. Juni 2008 (Stand am 1. Juli 2018)
+vom 18. Juni 2008 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -46,18 +46,19 @@ verordnet:
 
 <sup>1</sup> Waren, für die beschränkte präferenzielle Einfuhrmengen (Zollkontingente) gelten, sind mit den betreffenden Mengen in Anhang 3 festgelegt.
 
-<sup>2</sup> Die Zollanmeldung von Waren im Rahmen der Zollkontingente hat mittels elektronischer Datenverarbeitung zu erfolgen. Die Eidgenössische Zollverwaltung kann im Einvernehmen mit dem Bundesamt für Landwirtschaft Ausnahmen, wie bei Kleinsendungen und gelegentlichen Einfuhren, von der elektronischen Zollanmeldung gestatten.
+<sup>2</sup> Die Zollanmeldung von Waren im Rahmen der Zollkontingente hat mittels elektronischer Datenverarbeitung zu erfolgen. Das Bundesamt für Zoll und Grenzsicherheit[^2-1] kann im Einvernehmen mit dem Bundesamt für Landwirtschaft Ausnahmen, wie bei Kleinsendungen und gelegentlichen Einfuhren, von der elektronischen Zollanmeldung gestatten.
 
-<sup>3</sup> Für Einfuhren im Rahmen der Zollkontingente wird der Präferenz-Zollansatz nach Anhang 2 in der Reihenfolge der Annahme der Einfuhrzollanmeldungen gewährt, bis das entsprechende Kontingent ausgeschöpft ist. Vorbehalten bleiben besondere Bestimmungen nach der Agrareinfuhrverordnung vom 26. Oktober 2011[^2-1] (AEV) und den entsprechenden Marktordnungen der Landwirtschaftsgesetzgebung.[^2-2]
+<sup>3</sup> Für Einfuhren im Rahmen der Zollkontingente wird der Präferenz-Zollansatz nach Anhang 2 in der Reihenfolge der Annahme der Einfuhrzollanmeldungen gewährt, bis das entsprechende Kontingent ausgeschöpft ist. Vorbehalten bleiben besondere Bestimmungen nach der Agrareinfuhrverordnung vom 26. Oktober 2011[^2-2] (AEV) und den entsprechenden Marktordnungen der Landwirtschaftsgesetzgebung.[^2-3]
 
 <sup>4</sup> Sind besondere Bestimmungen nach Absatz 3 anwendbar, so werden Zollkontingentsanteile im Rahmen der Zollkontingente nur zugeteilt, wenn ein Zollkontingentsanteil nach der AEV und den entsprechenden Marktordnungen der Landwirtschaftsgesetzgebung zugeteilt worden ist.
 
 <sup>5</sup> Bei Ausschöpfung eines Zollkontingents nach der AEV kann das Bundesamt für Landwirtschaft die Einfuhr zum Präferenz-Zollansatz nach Anhang 2 gestatten, bis das entsprechende Zollkontingent ebenfalls ausgeschöpft ist.
 
-<sup>6</sup> Die Eidgenössische Zollverwaltung veröffentlicht den Stand der Ausschöpfung der Zollkontingente periodisch auf elektronischem Weg.
+<sup>6</sup> Das Bundesamt für Zoll und Grenzsicherheit veröffentlicht den Stand der Ausschöpfung der Zollkontingente periodisch auf elektronischem Weg.
 
-[^2-1]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^2-2]: Fassung gemäss Anhang 7 Ziff. 5 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^2-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)) auf den 1. Jan. 2022 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^2-2]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^2-3]: Fassung gemäss Anhang 7 Ziff. 5 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 
 #### Art. 3 und 4
 
@@ -98,7 +99,7 @@ Die Verordnung vom 8. März 2002[^7-1] über die Zollansätze für Waren im Verk
 
 **Änderung bisherigen Rechts**
 
-…[^8-1]
+...[^8-1]
 
 [^8-1]: Die Änderungen können unter [AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)konsultiert werden.
 
@@ -139,7 +140,7 @@ Anhang 2*[^t-2]*
 
 ## Einfuhrzölle: Waren und Zollansätze
 
-[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V vom 14. Juni 2013 ([AS 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 7. März 2014 ([AS 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), Anhang 3 Ziff. 7 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Ziff. I der V vom 9. Mai 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V vom 14. Juni 2013 ([AS 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 7. März 2014 ([AS 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), Anhang 3 Ziff. 7 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V vom 9. Mai 2018 ([AS 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)) und Anhang 3 Ziff. 10 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>Tarif-Nr.</th><th colspan="5">Präferenz-Zollansatz</th><th></th><th></th><th></th><th>Zollkontingente; besondere Bestimmungen</th></tr>
@@ -264,9 +265,9 @@ Anhang 2*[^t-2]*
 <tr><td></td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9911</td><td></td><td colspan="2"></td><td>50.—</td><td colspan="4"></td><td></td></tr>
 <tr><td>0301. 1100/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td>0308.9000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>0403. 1010</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
-<tr><td>1020</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
+<tr><td>0309.9000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>0403. 2091</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
+<tr><td>2099</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
 <tr><td>9031</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
 <tr><td>9041</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
 <tr><td>9049</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
@@ -293,7 +294,7 @@ Anhang 2*[^t-2]*
 <tr><td>0409. 0000</td><td>8.—</td><td colspan="2"></td><td></td><td colspan="4"></td><td>Akazienhonig; Zollkontingent Nr. 130</td></tr>
 <tr><td></td><td>26.—</td><td colspan="2"></td><td></td><td colspan="4"></td><td>anderer als Akazienhonig; Zollkontingent Nr. 131</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>0410. 0000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>0410. 1000/9000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>0501. 0000/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>0502.9000</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>0504. 0010</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
@@ -361,13 +362,13 @@ Anhang 2*[^t-2]*
 <tr><td>9090</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>0704. 1010/1011</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>1020/1021</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>1030/1031</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>1090/1091</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>2010/2011</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9011/9018</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9020/9021</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9030/9031</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9040/9041</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>9050/9051</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9060/9061</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9063/9064</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9070/9071</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
@@ -431,11 +432,12 @@ Anhang 2*[^t-2]*
 <tr><td>6090/7011</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>7090</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9110/9120</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>9200/9300</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>9940/9941</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>9950</td><td>frei</td><td colspan="2"></td><td></td><td colspan="4"></td><td>Zollkontingent Nr. 110</td></tr>
+<tr><td>9200</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>9310</td><td>frei</td><td colspan="2"></td><td></td><td colspan="4"></td><td>Zollkontingent Nr. 110</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>9951</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>9320</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>9390</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>9940/9941</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9980</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>9999</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>0710. 4000</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
@@ -489,9 +491,10 @@ Anhang 2*[^t-2]*
 <tr><td>3190</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>3290</td><td>frei</td><td colspan="2"></td><td></td><td colspan="4"></td><td>Zollkontingent Nr. 153</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>4100/9030</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
-<tr><td>9090</td><td>frei</td><td colspan="2"></td><td></td><td colspan="4"></td><td>Pinienkerne</td></tr>
+<tr><td>4100/8000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>9100/9200</td><td>frei</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>9900</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>0804. 1000/5000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>0805. 1000/2900</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>4000/9000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
@@ -662,8 +665,12 @@ Anhang 2*[^t-2]*
 <tr><td>0099</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>1506. 0091/0099</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td>zu technischen Zwecken</td></tr>
 <tr><td>1507. 1090</td><td></td><td colspan="2"></td><td></td><td colspan="4">67.—</td><td></td></tr>
-<tr><td>1509. 1091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td>1099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>1509. 2091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>2099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>3091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>3099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>4091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>4099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>9091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>9099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>1515. 9021</td><td></td><td colspan="2"></td><td></td><td colspan="4">12. —</td><td></td></tr>
@@ -675,6 +682,7 @@ Anhang 2*[^t-2]*
 <tr><td>2093</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td>zu technischen Zwecken</td></tr>
 <tr><td>2097</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>2098</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td>zu technischen Zwecken</td></tr>
+<tr><td>3093/3099</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td>zu technischen Zwecken</td></tr>
 <tr><td>1517. 1062</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
 <tr><td>1067</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
 <tr><td>1072</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
@@ -699,7 +707,7 @@ Anhang 2*[^t-2]*
 <tr><td>0021</td><td>frei</td><td colspan="2"></td><td></td><td colspan="4"></td><td>Zollkontingent Nr. 301</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>0031</td><td></td><td colspan="2"></td><td>60.—</td><td colspan="4"></td><td></td></tr>
-<tr><td>0049</td><td></td><td colspan="2"></td><td>110.—</td><td colspan="4"></td><td></td></tr>
+<tr><td>0048</td><td></td><td colspan="2"></td><td>110.—</td><td colspan="4"></td><td></td></tr>
 <tr><td>1602. 1010</td><td></td><td colspan="2"></td><td></td><td colspan="4">42.50</td><td></td></tr>
 <tr><td>2010</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>3110</td><td></td><td colspan="2"></td><td></td><td colspan="4">25.—</td><td></td></tr>
@@ -925,6 +933,9 @@ Anhang 2*[^t-2]*
 <tr><td>3010</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>2402. 1000/9000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>2403. 9100/9940</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>2404. 1290</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>1990</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>9190/9900</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>2501. 0010/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>2905.4200</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>2905.4300</td><td>bT</td><td colspan="2"></td><td>bT</td><td colspan="4"></td><td></td></tr>
@@ -944,7 +955,7 @@ Anhang 2*[^t-2]*
 <tr><td>3808.9900</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>3809. 1010</td><td></td><td colspan="2">4.50</td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>3809. 1090/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td>3822.0000</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>3822.9000</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>3823. 1190</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>1290</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>1300</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
@@ -954,7 +965,7 @@ Anhang 2*[^t-2]*
 <tr><td>5301. 1000/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>5302.9000</td><td></td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 <tr><td>5303. 1000/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td>9706.0000</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
+<tr><td>9706.9000</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 </table>
 
 Anhang 3*[^t-3]*
@@ -963,7 +974,7 @@ Anhang 3*[^t-3]*
 
 ## Zollkontingent
 
-[^t-3]: Bereinigt gemäss Anhang 3 Ziff. 10 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 2 der V vom 14. Juni 2013 ([AS 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)) und Anhang 3 Ziff. 7 der V vom 10. Juni 2016 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2017 ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^t-3]: Bereinigt gemäss Anhang 3 Ziff. 10 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 2 der V vom 14. Juni 2013 ([AS 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), Anhang 3 Ziff. 7 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Anhang 3 Ziff. 10 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>Nr. des Zollkontingents</th><th colspan="2">Tarif-Nr.</th><th>Bezeichnung der Ware</th><th colspan="3">Umfang des Zollkontingents</th></tr>
@@ -1003,8 +1014,8 @@ Anhang 3*[^t-3]*
 <tr><td>107</td><td colspan="2">0705.1111</td><td>Eisbergsalat ohne Umblatt: vom 1. Januar bis Ende Februar</td><td colspan="3">2 000 t netto</td></tr>
 <tr><td>108</td><td colspan="2">0705.2110</td><td>Witloof-Zichorie, frisch oder gekühlt: vom 21. Mai bis 30. September</td><td colspan="3">2 000 t netto</td></tr>
 <tr><td>109</td><td colspan="2">0709.3010</td><td>Auberginen, frisch oder gekühlt: vom 16. Oktober bis 31. Mai</td><td colspan="3">1 000 t netto</td></tr>
-<tr><td>110</td><td colspan="2">0709.9950</td><td>Zucchetti (einschliesslich Zucchettiblüten), frisch oder gekühlt: vom 31. Oktober bis 19. April</td><td colspan="3">2 000 t netto</td></tr>
-<tr><td>111</td><td colspan="2"></td><td>Aprikosen, frisch:</td><td colspan="3">2100 t netto</td></tr>
+<tr><td>110</td><td colspan="2">0709. 9310</td><td>Zucchetti (einschliesslich Zucchettiblüten), frisch oder gekühlt: vom 31. Oktober bis 19. April</td><td colspan="3">2 000 t netto</td></tr>
+<tr><td>111</td><td colspan="2"></td><td>Aprikosen, frisch:</td><td colspan="3">2 100 t netto</td></tr>
 <tr><td></td><td colspan="2">0809.1011</td><td>– in offener Packung: vom 1. September bis 30. Juni</td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="2">0809.1091</td><td>– in anderer Verpackung: vom 1. September bis 30. Juni</td><td colspan="3"></td></tr>
 <tr><td>112</td><td colspan="2">0810.1010</td><td>Erdbeeren, frisch, vom 1. September bis 14. Mai</td><td colspan="3">10 000 t netto</td></tr>
@@ -1018,7 +1029,7 @@ Anhang 3*[^t-3]*
 <tr><td colspan="2"></td><td>ex 2204.2923</td><td colspan="2">– – von mehr als 13 % vol</td><td></td></tr>
 <tr><td colspan="2"></td><td>ex 2204.2924</td><td colspan="2">– – von nicht mehr als 13 % vol</td><td></td></tr>
 <tr><td>119</td><td colspan="2">0101.2991</td><td>Pferde, lebend (ausser reinrassigen Zuchttieren und zum Schlachten)</td><td colspan="3">100 Tiere</td></tr>
-<tr><td>120</td><td colspan="2">0207.1481</td><td>Brüste von Hühnern, gefroren</td><td colspan="3">2100 t netto</td></tr>
+<tr><td>120</td><td colspan="2">0207.1481</td><td>Brüste von Hühnern, gefroren</td><td colspan="3">2 100 t netto</td></tr>
 <tr><td>121</td><td colspan="2">0207.1491</td><td>Stücke und Schlachtnebenprodukte von Hühnern, auch Leber, ohne Brüste, gefroren</td><td colspan="3">1 200 t netto</td></tr>
 <tr><td>122</td><td colspan="2">0207.2781</td><td>Brüste von Truthühnern, gefroren</td><td colspan="3">800 t netto</td></tr>
 <tr><td>123</td><td colspan="2">0207.2791</td><td>Stücke und Schlachtnebenprodukte von Truthühnern, auch Leber, ohne Brüste, gefroren</td><td colspan="3">600 t netto</td></tr>
@@ -1040,7 +1051,7 @@ Anhang 3*[^t-3]*
 <tr><td>130</td><td colspan="2">ex 0409.0000</td><td>Akazienhonig</td><td colspan="3">200 t netto</td></tr>
 <tr><td>131</td><td colspan="2">ex 0409.0000</td><td>Natürlicher Honig, ausser Akazienhonig</td><td colspan="3">50 t netto</td></tr>
 <tr><td>132</td><td colspan="2">0707.0030</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 21. Oktober bis 14. April</td><td colspan="3">100 t netto</td></tr>
-<tr><td>133</td><td colspan="2">0707.0031</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 15. April bis 20. Oktober</td><td colspan="3">2100 t netto</td></tr>
+<tr><td>133</td><td colspan="2">0707.0031</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 15. April bis 20. Oktober</td><td colspan="3">2 100 t netto</td></tr>
 <tr><td>134</td><td colspan="2">0707.0050</td><td>Cornichons, frisch oder gekühlt</td><td colspan="3">800 t netto</td></tr>
 <tr><td>135</td><td colspan="2">0709.6012</td><td>Peperoni, frisch oder gekühlt, vom 1. April bis 31. Oktober</td><td colspan="3">1 300 t netto</td></tr>
 <tr><td>136</td><td colspan="2">0711.9090</td><td>Gemüse und Gemüsemischungen, vorläufig haltbar gemacht (z.B. durch Schwefeldioxid oder in Wasser mit Zusatz von Salz, Schwefeldioxid oder anderen vorläufig konservierenden Stoffen), jedoch in diesem Zustand zum unmittelbaren Genuss nicht geeignet</td><td colspan="3">150 t netto</td></tr>
@@ -1051,7 +1062,7 @@ Anhang 3*[^t-3]*
 <tr><td>141</td><td colspan="2">0810.1011</td><td>Erdbeeren, frisch, vom 15. Mai bis 31. August</td><td colspan="3">200 t netto</td></tr>
 <tr><td>142</td><td colspan="2">0810.2011</td><td>Himbeeren, frisch, vom 1. Juni bis 14. September</td><td colspan="3">250 t netto</td></tr>
 <tr><td>143</td><td colspan="2">ex 0811.1000</td><td>Erdbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssstoffen, en gros, zur Weiterverarbeitung</td><td colspan="3">1 000 t netto</td></tr>
-<tr><td>144</td><td colspan="2">ex 0811.2090</td><td>Himbeeren, Brombeeren, Maulbeeren, Loganbeeren, Johannisbeeren und Stachelbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssstoffen, en gros, zur Weiterverarbeitung</td><td colspan="3">1200 t netto</td></tr>
+<tr><td>144</td><td colspan="2">ex 0811.2090</td><td>Himbeeren, Brombeeren, Maulbeeren, Loganbeeren, Johannisbeeren und Stachelbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, ohne Zusatz von Zucker oder anderen Süssstoffen, en gros, zur Weiterverarbeitung</td><td colspan="3">1 200 t netto</td></tr>
 <tr><td>145</td><td colspan="2">0811.9010</td><td>Heidelbeeren, nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, auch mit Zusatz von Zucker oder anderen Süssstoffen</td><td colspan="3">200 t netto</td></tr>
 <tr><td>146</td><td colspan="2">0811.9090</td><td>Früchte (ausser Erdbeeren, Himbeeren, Brombeeren, Maulbeeren, Loganbeeren, Johannisbeeren und Stachelbeeren, Heidelbeeren und tropische Früchte), nicht gekocht oder in Wasser oder Dampf gekocht, gefroren, auch mit Zusatz von Zucker oder anderen Süssstoffen</td><td colspan="3">1 000 t netto</td></tr>
 <tr><td>147</td><td colspan="2">0904.2200</td><td>Früchte der Gattung *Capsicum* oder *Pimenta*, zerrieben oder in Pulverform</td><td colspan="3">150 t netto</td></tr>
@@ -1061,7 +1072,7 @@ Anhang 3*[^t-3]*
 <tr><td>151</td><td colspan="2">0204.5010</td><td>Fleisch von Tieren der Ziegengattung; frisch, gekühlt oder gefroren</td><td colspan="3">100 t netto</td></tr>
 <tr><td>152</td><td colspan="2">0707.0010</td><td>Salatgurken; frisch oder gekühlt, vom 21. Oktober bis 14. April</td><td colspan="3">200 t netto</td></tr>
 <tr><td>153</td><td colspan="2">0802.3290</td><td>Walnüsse, frisch oder getrocknet, ohne Schalen, auch enthäutet, nicht zu Futterzwecken oder zur Ölgewinnung</td><td colspan="3">100 t netto</td></tr>
-<tr><td>301</td><td colspan="2">ex 0210.1991</td><td>Coppa, Blasenschinken und Lachsschinken</td><td colspan="3">3715 t netto</td></tr>
+<tr><td>301</td><td colspan="2">ex 0210.1991</td><td>Coppa, Blasenschinken und Lachsschinken</td><td colspan="3">3 715 t netto</td></tr>
 <tr><td></td><td colspan="2">1601.0011</td><td>Cotechini, Mortadelle, Salami, Salamini, Zamponi</td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="2">1601.0021</td><td>Andere Würste von Tieren der Pferde-, Rindvieh-, Schweine-, Schaf- und Ziegengattung, ausgenommen von Wildschweinen</td><td colspan="3"></td></tr>
 <tr><td></td><td colspan="2">ex 1602.4910</td><td>Coppa</td><td colspan="3"></td></tr>

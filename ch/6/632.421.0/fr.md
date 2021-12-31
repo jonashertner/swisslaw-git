@@ -3,20 +3,20 @@ sr: "632.421.0"
 title: "Ordonnance du 18 juin 2008 sur les droits de douane applicables aux marchandises dans le trafic avec les États membres de l'UE et de l'AELE (Ordonnance sur le libre-échange 1)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: fr
-version: 2018-07-01
+version: 2022-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20180701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-455-20180701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20180701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-455-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur les droits de douane applicables aux marchandises dans le trafic avec les Etats membres de l’UE et de l’AELE
+# Ordonnance sur les droits de douane applicables aux marchandises dans le trafic avec les États membres de l’UE et de l’AELE
 
 (Ordonnance sur le libre-échange 1)
 
-du 18 juin 2008 (Etat le 1<sup>er</sup> juillet 2018)
+du 18 juin 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -46,18 +46,19 @@ arrête:
 
 <sup>1</sup> Les marchandises dont le volume d’importation à des conditions préférentielles est limité (contingents tarifaires) sont répertoriées avec les quantités correspondantes à l’annexe 3.
 
-<sup>2</sup> La déclaration en douane des marchandises relevant d’un contingent tarifaire doit se faire de manière électronique. En accord avec l’Office fédéral de l’agriculture, l’Administration fédérale des douanes peut admettre des exceptions à la déclaration en douane électronique, par exemple pour les petits envois et les importations occasionnelles.
+<sup>2</sup> La déclaration en douane des marchandises relevant d’un contingent tarifaire doit se faire de manière électronique. En accord avec l’Office fédéral de l’agriculture, l’Office fédéral de la douane et de la sécurité des frontières[^2-1] peut admettre des exceptions à la déclaration en douane électronique, par exemple pour les petits envois et les importations occasionnelles.
 
-<sup>3</sup> Pour les marchandises relevant des contingents tarifaires, les taux préférentiels mentionnés à l’annexe 2 sont accordés dans l’ordre d’acceptation des déclarations en douane à l’importation, jusqu’à épuisement du contingent correspondant. Sont réservées les dispositions particulières prévues par l’ordonnance du 26 octobre 2011 sur les importations agricoles (OIAgr)[^2-1] et celles des organisations de marché au sens de la législation agricole.[^2-2]
+<sup>3</sup> Pour les marchandises relevant des contingents tarifaires, les taux préférentiels mentionnés à l’annexe 2 sont accordés dans l’ordre d’acceptation des déclarations en douane à l’importation, jusqu’à épuisement du contingent correspondant. Sont réservées les dispositions particulières prévues par l’ordonnance du 26 octobre 2011 sur les importations agricoles (OIAgr)[^2-2] et celles des organisations de marché au sens de la législation agricole.[^2-3]
 
 <sup>4</sup> En cas d’application de dispositions particulières selon l’al. 3, les parts de contingent tarifaire ne sont attribuées que si une part de contingent a été attribuée au préalable en vertu de l’OIAgr et des organisations de marché au sens de la législation agricole.
 
 <sup>5</sup> Lorsqu’un contingent tarifaire prévu par l’OIAgr est épuisé, l’Office fédéral de l’agriculture peut autoriser l’importation au taux préférentiel d’une marchandise relevant de l’annexe 2 jusqu’à épuisement du contingent correspondant.
 
-<sup>6</sup> L’Administration fédérale des douanes publie périodiquement par voie électronique le solde des contingents tarifaires.
+<sup>6</sup> L’Office fédéral de la douane et de la sécurité des frontières publie périodiquement par voie électronique le solde des contingents tarifaires.
 
-[^2-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^2-2]: Nouvelle teneur selon le ch. 5 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^2-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022. Il a été tenu compte de cette mod. dans tout le texte.
+[^2-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^2-3]: Nouvelle teneur selon l’annexe 7 ch. 5 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 
 #### Art. 3 et 4
 
@@ -69,7 +70,7 @@ arrête:
 
 **Dispositions relatives à l’origine**
 
-<sup>1</sup> A l’exception des dispositions selon l’al. 2, les taux des droits de douane figurant à l’annexe 2 de la présente ordonnance ne s’appliquent qu’aux marchandises qui satisfont aux conditions d’origine fixées dans les conventions, les accords et les arrangements mentionnés à l’annexe 1.
+<sup>1</sup> À l’exception des dispositions selon l’al. 2, les taux des droits de douane figurant à l’annexe 2 de la présente ordonnance ne s’appliquent qu’aux marchandises qui satisfont aux conditions d’origine fixées dans les conventions, les accords et les arrangements mentionnés à l’annexe 1.
 
 <sup>2</sup>
 
@@ -121,8 +122,8 @@ Annexe 1*[^t-1]*
   Accords et arrangements sous forme d’un échange de lettres avec l’Union européenne (UE):
 
   - a. Accord du 22 juillet 1972 entre la Confédération suisse et la Communauté économique européenne (avec annexes et échanges de lettres)[^annex1-lvlu1-1],
-  - b. Echange de lettres du 14 juillet 1986 entre la Suisse et la Commission des CE concernant les adaptations des accords agricoles existants et les concessions réciproques sur certains produits agricoles (avec annexe)[^annex1-lvlu1-2],
-  - c. Echange de lettres du 30 juin 1996 entre la Suisse et la Commission européenne au sujet de consultations menées entre la Suisse et la Communauté européenne dans le cadre de l’OMC[^annex1-lvlu1-3],
+  - b. Échange de lettres du 14 juillet 1986 entre la Suisse et la Commission des CE concernant les adaptations des accords agricoles existants et les concessions réciproques sur certains produits agricoles (avec annexe)[^annex1-lvlu1-2],
+  - c. Échange de lettres du 30 juin 1996 entre la Suisse et la Commission européenne au sujet de consultations menées entre la Suisse et la Communauté européenne dans le cadre de l’OMC[^annex1-lvlu1-3],
   - d. Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles (avec annexes et acte final)[^annex1-lvlu1-4].
 
 - 2\. Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (avec annexes, acte final et déclaration)[^annex1-lvlu1-5] y compris les amendements du 21 juin 2001.
@@ -139,7 +140,7 @@ Annexe 2*[^t-2]*
 
 ## Droits de douane à l’importation: marchandises et taux
 
-[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du 14 juin 2013 ([RO 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Mise à jour selon ch. II al. 2 de l’O du 7 mars 2014 ([RO 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), le ch. 7 de l’annexe 3 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et le ch. I de l’O du 9 mai 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O du 14 juin 2013 ([RO 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Mise à jour par ch. II al. 2 de l’O du 7 mars 2014 ([RO 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), l’annexe 3 ch. 7 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. I de l’O du 9 mai 2018 ([RO 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)) et l’annexe 3 ch. 10 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>N<sup>o</sup> de tarif</th><th colspan="5">Taux préférentiel</th><th></th><th></th><th>Contingents tarifaires; dispositions particulières</th></tr>
@@ -264,9 +265,9 @@ Annexe 2*[^t-2]*
 <tr><td>2010</td><td>exempt</td><td colspan="2"></td><td></td><td colspan="3"></td><td>viande séchée; contingent tarifaire n<sup>o</sup> 102</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9911</td><td></td><td colspan="2"></td><td>50.—</td><td colspan="3"></td><td></td></tr>
-<tr><td>0301. 1100/ 0308. 9000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>0403. 1010</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
-<tr><td>1020</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
+<tr><td>0301. 1100/ 0309. 9000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>0403. 2091</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
+<tr><td>2099</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
 <tr><td>9031</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
 <tr><td>9041</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
 <tr><td>9049</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
@@ -293,7 +294,7 @@ Annexe 2*[^t-2]*
 <tr><td>0409. 0000</td><td>8.—</td><td colspan="2"></td><td></td><td colspan="3"></td><td>miel naturel d’acacia; contingent tarifaire n<sup>o</sup> 130</td></tr>
 <tr><td></td><td>26.—</td><td colspan="2"></td><td></td><td colspan="3"></td><td>autres que miel naturel d’acacia; contingent tarifaire n<sup>o</sup> 131</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>0410. 0000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>0410. 1000/ 9000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>0501. 0000/ 0502. 9000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>0504. 0010</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>0039/0090</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
@@ -358,13 +359,13 @@ Annexe 2*[^t-2]*
 <tr><td>9090</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>0704. 1010/1011</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>1020/1021</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>1030/1031</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>1090/1091</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>2010/2011</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9011/9018</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9020/9021</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9030/9031</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9040/9041</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>9050/9051</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9060/9061</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9063/9064</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9070/9071</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
@@ -428,11 +429,12 @@ Annexe 2*[^t-2]*
 <tr><td>6090/7011</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>7090</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9110/9120</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>9200/9300</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>9940/9941</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>9950</td><td>exempt</td><td colspan="2"></td><td></td><td colspan="3"></td><td>contingent tarifaire n<sup>o</sup> 110</td></tr>
+<tr><td>9200</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>9310</td><td>exempt</td><td colspan="2"></td><td></td><td colspan="3"></td><td>contingent tarifaire n<sup>o</sup> 110</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>9951</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>9320</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>9390</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>9940/9941</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9980</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>9999</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>0710. 4000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
@@ -486,9 +488,10 @@ Annexe 2*[^t-2]*
 <tr><td>3190</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>3290</td><td>exempt</td><td colspan="2"></td><td></td><td colspan="3"></td><td>contingent tarifaire n<sup>o</sup> 153</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>4100/9030</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>9090</td><td>exempt</td><td colspan="2"></td><td></td><td colspan="3"></td><td>pignons</td></tr>
+<tr><td>4100/8000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>9100/9200</td><td>exempt</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>9900</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>0804. 1000/5000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>0805. 1000/2900</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>4000/9000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
@@ -657,8 +660,12 @@ Annexe 2*[^t-2]*
 <tr><td>0099</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>1506. 0091/0099</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td>pour usages techniques</td></tr>
 <tr><td>1507. 1090</td><td></td><td colspan="2"></td><td></td><td colspan="3">67.—</td><td></td></tr>
-<tr><td>1509. 1091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
-<tr><td>1099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td>1509. 2091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td>2099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td>3091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td>3099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td>4091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
+<tr><td>4099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>9091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>9099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="3"></td><td></td></tr>
 <tr><td>1515. 9021</td><td></td><td colspan="2"></td><td></td><td colspan="3">12. —</td><td></td></tr>
@@ -670,6 +677,7 @@ Annexe 2*[^t-2]*
 <tr><td>2093</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td>pour usages techniques</td></tr>
 <tr><td>2097</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>2098</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td>pour usages techniques</td></tr>
+<tr><td>3093/3099</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td>pour usages techniques</td></tr>
 <tr><td>1517. 1062</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
 <tr><td>1067</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
 <tr><td>1072</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
@@ -693,7 +701,7 @@ Annexe 2*[^t-2]*
 <tr><td>0021</td><td>exempt</td><td colspan="2"></td><td></td><td colspan="3"></td><td>contingent tarifaire n<sup>o</sup> 301</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>0031</td><td></td><td colspan="2"></td><td>60.—</td><td colspan="3"></td><td></td></tr>
-<tr><td>0049</td><td></td><td colspan="2"></td><td>110.—</td><td colspan="3"></td><td></td></tr>
+<tr><td>0048</td><td></td><td colspan="2"></td><td>110.—</td><td colspan="3"></td><td></td></tr>
 <tr><td>1602. 1010</td><td></td><td colspan="2"></td><td></td><td colspan="3">42.50</td><td></td></tr>
 <tr><td>2010</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>3110</td><td></td><td colspan="2"></td><td></td><td colspan="3">25.—</td><td></td></tr>
@@ -917,6 +925,9 @@ Annexe 2*[^t-2]*
 <tr><td>3010</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>2402. 1000/9000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>2403. 9100/9940</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>2404. 1290</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>1990</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>9190/9900</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>2501. 0010/ 2905.4200</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>2905. 4300</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="3"></td><td></td></tr>
 <tr><td>4400/ 3407.0000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
@@ -931,14 +942,14 @@ Annexe 2*[^t-2]*
 <tr><td>3505. 2090</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>3506. 1000/ 3808. 9900</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>3809. 1010</td><td></td><td colspan="2">4.50</td><td></td><td colspan="3"></td><td></td></tr>
-<tr><td>3809. 1090/ 3822. 0000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>3809. 1090/ 3822. 9000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>3823. 1190</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>1290</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>1300</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>1990/7000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>3824. 1010/ 5212. 2500</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 <tr><td>5301. 1000/ 5302. 9000</td><td></td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
-<tr><td>5303. 1000/ 9706. 0000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
+<tr><td>5303. 1000/ 9706. 9000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 </table>
 
 Annexe 3*[^t-3]*
@@ -947,7 +958,7 @@ Annexe 3*[^t-3]*
 
 ## Contingents tarifaires
 
-[^t-3]: Mise à jour selon le ch. 10 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. I al. 2 de l’O du 14 juin 2013 ([RO 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)) et le ch. 7 de l’annexe 3 de l’O du 10 juin 2016 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^t-3]: Mise à jour par l’annexe 3 ch. 10 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. I al. 2 de l’O du 14 juin 2013 ([RO 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), l’annexe 3 ch. 7 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et l’annexe 3 ch. 10 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>N<sup>o</sup> du contingent tarifaire</th><th>N<sup>o</sup> de tarif</th><th>Désignation de la marchandise</th><th>Volume du contingent tarifaire</th></tr>
@@ -987,7 +998,7 @@ Annexe 3*[^t-3]*
 <tr><td>107</td><td>0705.1111</td><td>Salade iceberg sans feuille externe: du 1<sup>er</sup> janvier à la fin février</td><td>2 000 t net</td></tr>
 <tr><td>108</td><td>0705.2110</td><td>Chicorées Witloof, à l’état frais ou réfrigéré: du 21 mai au 30 septembre</td><td>2 000 t net</td></tr>
 <tr><td>109</td><td>0709.3010</td><td>Aubergines, à l’état frais ou réfrigéré: du 16 octobre au 31 mai</td><td>1 000 t net</td></tr>
-<tr><td>110</td><td>0709.9950</td><td>Courgettes (y compris les fleurs de courgettes), à l’état frais ou réfrigéré: du 31 octobre au 19 avril</td><td>2 000 t net</td></tr>
+<tr><td>110</td><td>0709.9310</td><td>Courgettes (y compris les fleurs de courgettes), à l’état frais ou réfrigéré: du 31 octobre au 19 avril</td><td>2 000 t net</td></tr>
 <tr><td>111</td><td></td><td>Abricots, frais:</td><td>2100 t net</td></tr>
 <tr><td></td><td>0809.1011</td><td>– à découvert: du 1<sup>er</sup> septembre au 30 juin</td><td></td></tr>
 <tr><td></td><td>0809.1091</td><td>– autrement emballés: du 1<sup>er</sup> septembre au 30 juin</td><td></td></tr>

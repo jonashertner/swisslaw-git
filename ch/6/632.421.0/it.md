@@ -3,11 +3,11 @@ sr: "632.421.0"
 title: "Ordinanza del 18 giugno 2008 sulle aliquote di dazio per le merci nel traffico con gli Stati membri dell'UE e dell'AELS (Ordinanza sul libero scambio 1)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: it
-version: 2018-07-01
+version: 2022-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20180701/it/xml/fedlex-data-admin-ch-eli-cc-2008-455-20180701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20180701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-455-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20180701/it"
 
 (Ordinanza sul libero scambio 1)
 
-del 18 giugno 2008 (Stato 1° luglio 2018)
+del 18 giugno 2008 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -46,18 +46,19 @@ decreta:
 
 <sup>1</sup> Le merci il cui quantitativo importato con trattamento preferenziale è limitato (contingenti doganali) sono specificate con le quantità corrispondenti nell’allegato 3.
 
-<sup>2</sup> La dichiarazione doganale di merci che fanno parte di contingenti doganali deve essere effettuata per via elettronica. D’intesa con l’Ufficio federale dell’agricoltura, l’Amministrazione federale delle dogane può concedere deroghe alla dichiarazione doganale elettronica, ad esempio in caso di piccoli invii e importazioni occasionali.
+<sup>2</sup> La dichiarazione doganale di merci che fanno parte di contingenti doganali deve essere effettuata per via elettronica. D’intesa con l’Ufficio federale dell’agricoltura, l’Ufficio federale della dogana e della sicurezza dei confini[^2-1] può concedere deroghe alla dichiarazione doganale elettronica, ad esempio in caso di piccoli invii e importazioni occasionali.
 
-<sup>3</sup> Per le importazioni di merci appartenenti ai contingenti doganali, le aliquote di dazio preferenziali riportate nell’allegato 2 sono attribuite in funzione dell’ordine di accettazione delle dichiarazioni doganali d’importazione fino ad esaurimento del rispettivo contingente. Sono fatte salve le disposizioni speciali previste dall’ordinanza del 26 ottobre 2011[^2-1] sulle importazioni agricole (OIAgr) e dalle rispettive regolamentazioni di mercato della legislazione in materia di agricoltura.[^2-2]
+<sup>3</sup> Per le importazioni di merci appartenenti ai contingenti doganali, le aliquote di dazio preferenziali riportate nell’allegato 2 sono attribuite in funzione dell’ordine di accettazione delle dichiarazioni doganali d’importazione fino ad esaurimento del rispettivo contingente. Sono fatte salve le disposizioni speciali previste dall’ordinanza del 26 ottobre 2011[^2-2] sulle importazioni agricole (OIAgr) e dalle rispettive regolamentazioni di mercato della legislazione in materia di agricoltura.[^2-3]
 
 <sup>4</sup> Se sono applicabili disposizioni speciali ai sensi del capoverso 3, le quote di contingenti doganali sono attribuite solo se una quota di contingente doganale è stata previamente attribuita in virtù dell’OIAgr e delle rispettive regolamentazioni di mercato della legislazione in materia di agricoltura.
 
 <sup>5</sup> All’esaurimento di un contingente doganale ai sensi dell’OIAgr, l’Ufficio federale dell’agricoltura può autorizzare l’importazione di una merce all’aliquota preferenziale di cui all’allegato 2 fino ad esaurimento del contingente corrispondente.
 
-<sup>6</sup> L’Amministrazione federale delle dogane pubblica periodicamente, per via elettronica, il saldo dei contingenti doganali.
+<sup>6</sup> L’Ufficio federale della dogana e della sicurezza dei confini pubblica periodicamente, per via elettronica, il saldo dei contingenti doganali.
 
-[^2-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^2-2]: Nuovo testo giusta il n. 5 dell’all. 7 all’O del 26 ott. 2011 sulle importazioni agricole, in vigore dal 1° gen. 2012 ([RU 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^2-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), con effetto dal 1° gen. 2022. Di detta modifica è tenuto conto in tutto il presente testo.
+[^2-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^2-3]: Nuovo testo giusta l’all. 7 n. 5 dell’O del 26 ott. 2011 sulle importazioni agricole, in vigore dal 1° gen. 2012 ([RU 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 
 #### Art. 3 e 4
 
@@ -106,7 +107,7 @@ L’ordinanza del 8 marzo 2002[^7-1] sulle aliquote di dazio per le merci nel tr
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 1° agosto 2008.
+## La presente ordinanza entra in vigore il 1° agosto 2008.
 
 Allegato 1*[^t-1]*
 
@@ -139,7 +140,7 @@ Allegato 2*[^t-2]*
 
 ## Aliquote di dazio all’importazione: merci e aliquote
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Aggiornato dal n. II cpv. 2 dell’O del 7 mar. 2014 ([RU 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), dal n. 7 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dal n. I dell’O del 9 mag. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)).
+[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Aggiornato dal n. II cpv. 2 dell’O del 7 mar. 2014 ([RU 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), dall’all. 3 n. 7 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dal n. I dell’O del 9 mag. 2018 ([RU 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)) e dall’all. 3 n. 10 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>Voce di tariffa</th><th colspan="5">Aliquota preferenziale</th><th></th><th></th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -264,9 +265,9 @@ Allegato 2*[^t-2]*
 <tr><td></td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9911</td><td></td><td colspan="2"></td><td>50.—</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 0301. 1100/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td>0308.9000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>[tab] 0403. 1010</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
-<tr><td>1020</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
+<tr><td>0309. 9000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>[tab] 0403. 2091</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
+<tr><td>2099</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
 <tr><td>9031</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
 <tr><td>9041</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
 <tr><td>9049</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
@@ -293,7 +294,7 @@ Allegato 2*[^t-2]*
 <tr><td>[tab] 0409. 0000</td><td>8.—</td><td colspan="2"></td><td></td><td colspan="4">[tab]</td><td>[tab] miele d’acacia; contingente doganale n. 130</td></tr>
 <tr><td></td><td>26.—</td><td colspan="2"></td><td></td><td colspan="4"></td><td>diverso dal miele d’acacia; contingente doganale n. 131</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>[tab] 0410. 0000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>[tab] 0410. 1000/9000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 0501. 0000/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>0502.9000</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 0504. 0010</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
@@ -361,13 +362,13 @@ Allegato 2*[^t-2]*
 <tr><td>9090</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 0704. 1010/1011</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>1020/1021</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>1030/1031</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>1090/1091</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>2010/2011</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9011/9018</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9020/9021</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9030/9031</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9040/9041</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>050/9051</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9060/9061</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9063/9064</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9070/9071</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
@@ -431,11 +432,12 @@ Allegato 2*[^t-2]*
 <tr><td>6090/7011</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>7090</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9110/9120</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>9200/9300</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>9940/9941</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>9950</td><td>esente</td><td colspan="2"></td><td></td><td colspan="4"></td><td>contingente doganale n. 110</td></tr>
+<tr><td>9200</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>9310</td><td>esente</td><td colspan="2"></td><td></td><td colspan="4"></td><td>contingente doganale n. 110</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>9951</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>9320</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>9390</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>9940/9941</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9980</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>9999</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 0710. 4000</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
@@ -489,9 +491,10 @@ Allegato 2*[^t-2]*
 <tr><td>3190</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>3290</td><td>esente</td><td colspan="2"></td><td></td><td colspan="4"></td><td>contingente doganale n. 153</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>4100/9030</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
-<tr><td>9090</td><td>esente</td><td colspan="2"></td><td></td><td colspan="4"></td><td>pinoli</td></tr>
+<tr><td>4100/8000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>9100/9200</td><td>esente</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>9900</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 0804. 1000/5000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 0805. 1000/2900</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>4000/9000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
@@ -662,8 +665,12 @@ Allegato 2*[^t-2]*
 <tr><td>0099</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 1506. 0091/0099</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td>[tab] per usi tecnici</td></tr>
 <tr><td>[tab] 1507. 1090</td><td></td><td colspan="2"></td><td></td><td colspan="4">67.—</td><td></td></tr>
-<tr><td>1509. 1091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td>1099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>1509. 2091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>2099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>3091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>3099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>4091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
+<tr><td>4099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>9091</td><td>49.70</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>9099</td><td>70.35</td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 1515. 9021</td><td></td><td colspan="2"></td><td></td><td colspan="4">12. —</td><td></td></tr>
@@ -675,6 +682,7 @@ Allegato 2*[^t-2]*
 <tr><td>2093</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td>per usi tecnici</td></tr>
 <tr><td>2097</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>2098</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td>per usi tecnici</td></tr>
+<tr><td>3093/3099</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td>per usi tecnici</td></tr>
 <tr><td>[tab] 1517. 1062</td><td>[tab] em</td><td colspan="2">[tab]</td><td>[tab] em</td><td colspan="4"></td><td></td></tr>
 <tr><td>1067</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
 <tr><td>1072</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
@@ -699,7 +707,7 @@ Allegato 2*[^t-2]*
 <tr><td>0021</td><td>esente</td><td colspan="2"></td><td></td><td colspan="4"></td><td>contingente doganale n. 301</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>0031</td><td></td><td colspan="2"></td><td>60.—</td><td colspan="4"></td><td></td></tr>
-<tr><td>0049</td><td></td><td colspan="2"></td><td>110.—</td><td colspan="4"></td><td></td></tr>
+<tr><td>0048</td><td></td><td colspan="2"></td><td>110.—</td><td colspan="4"></td><td></td></tr>
 <tr><td>[tab] 1602. 1010</td><td></td><td colspan="2"></td><td></td><td colspan="4">42.50</td><td></td></tr>
 <tr><td>2010</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>3110</td><td></td><td colspan="2"></td><td></td><td colspan="4">25.—</td><td></td></tr>
@@ -925,6 +933,9 @@ Allegato 2*[^t-2]*
 <tr><td>3010</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>2402. 1000/9000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>2403. 9100/9940</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>2404. 1290</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>1990</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>9190/9900</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>2501. 0010/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>2905.4200</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>2905.4300</td><td>em</td><td colspan="2"></td><td>em</td><td colspan="4"></td><td></td></tr>
@@ -944,7 +955,7 @@ Allegato 2*[^t-2]*
 <tr><td>3808.9900</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>3809. 1010</td><td></td><td colspan="2">4.50</td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>3809. 1090/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td>3822.0000</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>3822. 9000</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>3823. 1190</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>1290</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>1300</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
@@ -954,7 +965,7 @@ Allegato 2*[^t-2]*
 <tr><td>5301. 1000/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
 <tr><td>5302.9000</td><td></td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 <tr><td>5303. 1000/</td><td></td><td colspan="2"></td><td></td><td colspan="4"></td><td></td></tr>
-<tr><td>9706.0000</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
+<tr><td>9706.9000</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 </table>
 
 Allegato 3*[^t-3]*
@@ -963,112 +974,109 @@ Allegato 3*[^t-3]*
 
 ## Contingenti doganali
 
-[^t-3]: Aggiornata dal n. 10 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) e dal n. I cpv. 2 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)) e dal n. 7 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)).
+[^t-3]: Aggiornata dall’all. 3 n. 10 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) e dal n. I cpv. 2 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), dall’all. 3 n. 7 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dall’all. 3 n. 10 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
-<tr><th>N. del contingente doganale</th><th>Voce di tariffa[^annex3-lvlu1-1]</th><th>Designazione della merce</th><th>Volume del contingente doganale</th></tr>
-<tr><td>32</td><td>2309.1021/1029</td><td>Alimenti per cani o gatti condizionati per la vendita al minuto, in recipienti ermeticamente chiusi</td><td>6 000 t lorde</td></tr>
-<tr><td>101</td><td>ex 0210.1191</td><td>Prosciutti e loro pezzi, non disossati, di animali della specie suina, escluso il cinghiale, salati o in salamoia, secchi o affumicati</td><td>1 000 t nette</td></tr>
-<tr><td></td><td>ex 0210.1991</td><td>Prosciutti e loro pezzi, disossati, di animali della specie suina, escluso il cinghiale, salati o in salamoia, secchi o affumicati</td><td></td></tr>
-<tr><td>102</td><td>ex 0210.2010</td><td>Carni di animali della specie bovina, secche</td><td>200 t nette</td></tr>
-<tr><td>104</td><td></td><td>Portinnesto di frutta a granella (ottenuti con semi o da moltiplicazione vegetativa):</td><td>60 000 pezzi</td></tr>
-<tr><td></td><td>0602.2011</td><td>– innestati, con radici nude</td><td></td></tr>
-<tr><td></td><td>0602.2019</td><td>– innestati, con piote</td><td></td></tr>
-<tr><td></td><td>0602.2021</td><td>– non innestati, con radici nude</td><td></td></tr>
-<tr><td></td><td>0602.2029</td><td>– non innestati, con piote</td><td></td></tr>
-<tr><td></td><td></td><td>Portinnesto di frutta a nocciolo (ottenuti con semi o da moltiplicazione vegetativa):</td><td></td></tr>
-<tr><td></td><td>0602.2031</td><td>– innestati, con radici nude</td><td></td></tr>
-<tr><td></td><td>0602.2039</td><td>– innestati, con piote</td><td></td></tr>
-<tr><td></td><td>0602.2041</td><td>– non innestati, con radici nude</td><td></td></tr>
-<tr><td></td><td>0602.2049</td><td>– non innestati, con piote</td><td></td></tr>
-<tr><td></td><td></td><td>Alberi, arbusti, arboscelli e cespugli da frutta commestibile con radici nude:</td><td></td></tr>
-<tr><td></td><td>0602.2071</td><td>– di frutta a granella</td><td></td></tr>
-<tr><td></td><td>0602.2072</td><td>– di frutta a nocciolo</td><td></td></tr>
-<tr><td></td><td></td><td>Alberi, arbusti, arboscelli e cespugli da frutta commestibile con piote:</td><td></td></tr>
-<tr><td></td><td>0602.2081</td><td>– di frutta a granella</td><td></td></tr>
-<tr><td></td><td>0602.2082</td><td>– di frutta a nocciolo</td><td></td></tr>
-<tr><td>105</td><td>0603.1210</td><td>Garofani, recisi, per mazzi o per ornamento, freschi, dal 1° maggio al 25 ottobre</td><td>1 000 t nette</td></tr>
-<tr><td></td><td>0603.1110</td><td>Rose, recise, per mazzi o per ornamento, fresche, dal 1° maggio al 25 ottobre</td><td></td></tr>
-<tr><td></td><td></td><td>Fiori e boccioli di fiori (esclusi garofani e rose), recisi, per mazzi o per ornamento dal 1° maggio al 25 ottobre:</td><td></td></tr>
-<tr><td></td><td>0603.1911</td><td>– legnosi</td><td></td></tr>
-<tr><td></td><td>0603.1310</td><td>– diversi dai legnosi</td><td></td></tr>
-</table>
-
-<table>
-<tr><th>N. del contingente doganale</th><th>Voce di tariffa</th><th>Designazione della merce</th><th>Volume del contingente doganale</th></tr>
-<tr><td></td><td>0603.1410</td><td></td><td></td></tr>
-<tr><td></td><td>0603.1510</td><td></td><td></td></tr>
-<tr><td></td><td>0603.1918</td><td></td><td></td></tr>
-<tr><td>106</td><td></td><td>Pomodori, freschi o refrigerati:</td><td>10 000 t nette</td></tr>
-<tr><td></td><td>0702.0010</td><td>– pomodori ciliegia (cherry): dal 21 ottobre al 30 aprile</td><td></td></tr>
-<tr><td></td><td>0702.0020</td><td>– pomodori peretti (di forma allungata): dal 21 ottobre al 30 aprile</td><td></td></tr>
-<tr><td></td><td>0702.0030</td><td>– altri pomodori con diametro di 80 mm o più (pomodori carnosi): dal 21 ottobre al 30 aprile</td><td></td></tr>
-<tr><td></td><td>0702.0090</td><td>– altri: dal 21 ottobre al 30 aprile</td><td></td></tr>
-<tr><td>107</td><td>0705.1111</td><td>Lattuga iceberg, senza corona: dal 1° gennaio a fine febbraio</td><td>2 000 t nette</td></tr>
-<tr><td>108</td><td>0705.2110</td><td>Witloof, fresca o refrigerata: dal 21 maggio al 30 settembre</td><td>2 000 t nette</td></tr>
-<tr><td>109</td><td>0709.3010</td><td>Melanzane, fresche o refrigerate: dal 16 ottobre al 31 maggio</td><td>1 000 t nette</td></tr>
-<tr><td>110</td><td>0709.9950</td><td>Zucchine (incluse le zucchine con fiore), fresche o refrigerate: dal 31 ottobre al 19 aprile</td><td>2 000 t nette</td></tr>
-<tr><td>111</td><td></td><td>Albicocche, fresche:</td><td>2100 t nette</td></tr>
-<tr><td></td><td>0809.1011</td><td>– in imballaggio aperto: dal 1° settembre al 30 giugno</td><td></td></tr>
-<tr><td></td><td>0809.1091</td><td>– in altro imballaggio: dal 1° settembre al 30 giugno</td><td></td></tr>
-<tr><td>112</td><td>0810.1010</td><td>Fragole, fresche: dal 1° settembre al 14 maggio</td><td>10 000 t nette</td></tr>
-<tr><td>115</td><td>2204.2150</td><td>Porto (vino di qualità proveniente dalla zona geografica di produzione di Porto in Portogallo secondo l’ordinanza [CEE] n. 823/87), in recipienti di capacità non eccedente 2 l</td><td>100 000 l</td></tr>
-<tr><td>116</td><td></td><td>Retsina (vino da tavola ai sensi delle disposizioni comunitarie (art. 17 e allegato I del regolamento [CEE] n. 822/87), in recipienti di capacità:</td><td>50 000 l</td></tr>
-<tr><td></td><td>ex 2204.2121</td><td>– non eccedente 2 l</td><td></td></tr>
-<tr><td></td><td></td><td>– eccedente 2 l ma non eccedente 10 l:</td><td></td></tr>
-<tr><td></td><td>ex 2204.2221</td><td>– – eccedente 13 % vol</td><td></td></tr>
-<tr><td></td><td>ex 2204.2222</td><td>– – non eccedente 13 % vol</td><td></td></tr>
-<tr><td></td><td></td><td>– altri:</td><td></td></tr>
-<tr><td></td><td>ex 2204.2923</td><td>– – eccedente 13 % vol</td><td></td></tr>
-<tr><td></td><td>ex 2204.2924</td><td>– – non eccedente 13 % vol</td><td></td></tr>
-<tr><td>119</td><td>0101.2991</td><td>Cavalli, vivi (esclusi i riproduttori di razza pura e quelli da macello)</td><td colspan="2">100 capi</td></tr>
-<tr><td>120</td><td>0207.1481</td><td>Petti di galli e galline, congelati</td><td colspan="2">2100 t nette</td></tr>
-<tr><td>121</td><td>0207.1491</td><td>Pezzi e frattaglie di galli e galline, fegati compresi, all’esclusione dei petti, congelati</td><td colspan="2">1 200 t netto</td></tr>
-<tr><td>122</td><td>0207.2781</td><td>Petti di tacchini e tacchine, congelati</td><td colspan="2">800 t nette</td></tr>
-<tr><td>123</td><td>0207.2791</td><td>Pezzi e frattaglie di tacchini e tacchine, fegati compresi, all’esclusione dei petti, congelati</td><td colspan="2">600 t nette</td></tr>
-<tr><td>124</td><td>0207.4210</td><td>Anatre, non tagliate in pezzi, congelate</td><td colspan="2">700 t nette</td></tr>
-<tr><td>125</td><td></td><td>fegati grassi, freschi o refrigerati</td><td colspan="2">20 t nette</td></tr>
-<tr><td></td><td>0207.4300</td><td>– di anatre</td><td colspan="2"></td></tr>
-<tr><td></td><td>0207.5300</td><td>– di oche</td><td colspan="2"></td></tr>
-<tr><td>126</td><td></td><td>pezzi e frattaglie, senza fegati grassi, congelati</td><td colspan="2">100 t nette</td></tr>
-<tr><td></td><td>0207.4591</td><td>– di anatre</td><td colspan="2"></td></tr>
-<tr><td></td><td>0207.5591</td><td>– di oche</td><td colspan="2"></td></tr>
-<tr><td></td><td>ex 0207.6091</td><td>– di faraone</td><td colspan="2"></td></tr>
-<tr><td>127</td><td>0208.1000</td><td>Carni e frattaglie commestibili di conigli o di lepri, fresche, refrigerate o congelate</td><td colspan="2">1 700 t nette</td></tr>
-<tr><td>128</td><td>0208.9010</td><td>Carni e frattaglie commestibili di selvaggina, escluse le lepri e i cinghiali, fresche, refrigerate o congelate</td><td colspan="2">100 t nette</td></tr>
-<tr><td>129</td><td></td><td>uova di volatili, in guscio, per il consumo</td><td colspan="2">150 t nette</td></tr>
-<tr><td></td><td></td><td>– fresche:</td><td colspan="2"></td></tr>
-<tr><td></td><td>0407.2110</td><td>– – di volatili della specie Gallus domesticus</td><td colspan="2"></td></tr>
-<tr><td></td><td>0407.2910</td><td>– – altri</td><td colspan="2"></td></tr>
-<tr><td></td><td>0407.9010</td><td>– conservate o cotte</td><td colspan="2"></td></tr>
-<tr><td>130</td><td>ex 0409.0000</td><td>Miele d’acacia</td><td colspan="2">200 t nette</td></tr>
-<tr><td>131</td><td>ex 0409.0000</td><td>Altro miele naturale, diverso da quello d’acacia</td><td colspan="2">50 t nette</td></tr>
-<tr><td>132</td><td>0707.0030</td><td>Cetrioli per conserva, di una lunghezza superiore a 6 ma non eccedente 12 cm, dal 21 ottobre al 14 aprile</td><td colspan="2">100 t nette</td></tr>
-<tr><td>133</td><td>0707.0031</td><td>Cetrioli per conserva, di una lunghezza superiore a 6 ma non eccedente 12 cm, freschi o refrigerati, dal 15 aprile al 20 ottobre</td><td colspan="2">2100 t nette</td></tr>
-<tr><td>134</td><td>0707.0050</td><td>Cetriolini, freschi o refrigerati</td><td colspan="2">800 t nette</td></tr>
-<tr><td>135</td><td>0709.6012</td><td>Peperoni, freschi o refrigerati, dal 1° aprile al 31 ottobre</td><td colspan="2">1 300 t nette</td></tr>
-<tr><td>136</td><td>0711.9090</td><td>Ortaggi o legumi e loro miscele, temporaneamente conservati (per esempio, con anidride solforosa o in acqua salata, solforata o con aggiunta di altre sostanze atte ad assicurarne temporaneamente la conservazione), ma non atti per l’alimentazione nello stato in cui sono presentati</td><td colspan="2">150 t nette</td></tr>
-<tr><td>137</td><td>0712.2000</td><td>Cipolle, secche, anche tagliate in pezzi o a fette oppure tritate o polverizzate, ma non altrimenti preparate</td><td colspan="2">100 t nette</td></tr>
-<tr><td>138</td><td>0713.1011</td><td>Piselli [*Pisum sativum*], in grani intieri, non lavorati, per l’alimentazione di animali</td><td colspan="2">1 000 t nette</td></tr>
-<tr><td>139</td><td>0713.1019</td><td>Piselli [*Pisum sativum*], in grani intieri, non lavorati, diversi da quelli per l’alimentazione di animali o per fabbricare la birra</td><td colspan="2">1 000 t nette</td></tr>
-<tr><td>140</td><td>0809.4013</td><td>Prugne e prugnole, fresche, alla rinfusa, dal 1° luglio al 30 settembre</td><td colspan="2">600 t nette</td></tr>
-<tr><td>141</td><td>0810.1011</td><td>Fragole, fresche, dal 15 maggio al 31 agosto</td><td colspan="2">200 t nette</td></tr>
-<tr><td>142</td><td>0810.2011</td><td>Lamponi, freschi, dal 1° giugno al 14 settembre</td><td colspan="2">250 t nette</td></tr>
-<tr><td>143</td><td>ex 0811.1000</td><td>Fragole, anche cotte in acqua o al vapore, congelate, senza aggiunta di zuccheri o di altri dolcificanti, sfuse, per l’ulteriore lavorazione</td><td colspan="2">1 000 t nette</td></tr>
-<tr><td>144</td><td>ex 0811.2090</td><td>Lamponi, more di rovo o di gelso, more-lamponi, ribes a grappoli e uva spina, anche cotti in acqua o al vapore, congelati, senza aggiunta di zuccheri o di altri dolcificanti, sfusi, per l’ulteriore lavorazione</td><td colspan="2">1200 t nette</td></tr>
-<tr><td>145</td><td>0811.9010</td><td>Mirtilli, anche cotti in acqua o al vapore, congelati, anche con aggiunta di zuccheri o di altri dolcificanti</td><td colspan="2">200 t nette</td></tr>
-<tr><td>146</td><td>0811.9090</td><td>Frutta, escluse fragole, lamponi, more di rovo o di gelso, more-lamponi, ribes a grappoli e uva spina, mirtilli e frutta tropicali, anche cotte in acqua o al vapore, congelate, anche con aggiunta di zuccheri o di altri dolcificanti</td><td colspan="2">1 000 t nette</td></tr>
-<tr><td>147</td><td>0904.2200</td><td>pimenti del genere *Capsicum* o *Pimenta*, tritati o polverizzati</td><td colspan="2">150 t nette</td></tr>
-<tr><td>148</td><td>1001.9931/9939</td><td>frumento (grano) e frumento segalato (escluso il grano duro), per l’alimentazione di animali</td><td colspan="2">50 000 t nette</td></tr>
-<tr><td>149</td><td>1005.9031/9039</td><td>Granoturco, per l’alimentazione di animali</td><td colspan="2">13 000 t nette</td></tr>
-<tr><td>150</td><td>2003.1000</td><td>Funghi del genere *Agaricus*, preparati o conservati, ma non nell’aceto o nell’acido acetico</td><td colspan="2">1 700 t nette</td></tr>
-<tr><td>151</td><td>0204.5010</td><td>Carne di animali della specie caprina; fresca, refrigerata o congelata</td><td colspan="2">100 t nette</td></tr>
-<tr><td>152</td><td>0707.0010</td><td>Cetrioli per insalata; freschi o refrigerati: dal 21 ottobre al 14 aprile</td><td colspan="2">200 t nette</td></tr>
-<tr><td>153</td><td>0802.3290</td><td>Noci comuni, fresche o secche, sgusciate, anche decorticate, non atte per l’alimentazione di animali né per la fabbricazione di oli</td><td colspan="2">100 t nette</td></tr>
-<tr><td>301</td><td>ex0210.1991</td><td>Coppa, prosciutto in vesciche e noce di prosciutto</td><td colspan="2">3715 t nette</td></tr>
-<tr><td></td><td>1601.0011</td><td>Cotechini, mortadelle, salami, salamini, zamponi</td><td colspan="2"></td></tr>
-<tr><td></td><td>1601.0021</td><td>Altre salsicce di animali della specie equina, bovina, suina, ovina, caprina, esclusi i cinghiali</td><td colspan="2"></td></tr>
-<tr><td></td><td>ex 1602.4910</td><td>Coppa</td><td colspan="2"></td></tr>
+<tr><th>N. del contingente doganale</th><th>Voce di tariffa[^annex3-lvlu1-1]</th><th colspan="2">Designazione della merce</th><th colspan="2">Volume del contingente doganale</th></tr>
+<tr><td>32</td><td>2309.1021/1029</td><td colspan="2">Alimenti per cani o gatti condizionati per la vendita al minuto, in recipienti ermeticamente chiusi</td><td colspan="2">6 000 t lorde</td></tr>
+<tr><td>101</td><td>ex 0210.1191</td><td colspan="2">Prosciutti e loro pezzi, non disossati, di animali della specie suina, escluso il cinghiale, salati o in salamoia, secchi o affumicati</td><td colspan="2">1 000 t nette</td></tr>
+<tr><td></td><td>ex 0210.1991</td><td colspan="2">Prosciutti e loro pezzi, disossati, di animali della specie suina, escluso il cinghiale, salati o in salamoia, secchi o affumicati</td><td colspan="2"></td></tr>
+<tr><td>102</td><td>ex 0210.2010</td><td colspan="2">Carni di animali della specie bovina, secche</td><td colspan="2">200 t nette</td></tr>
+<tr><td>104</td><td></td><td colspan="2">Portinnesto di frutta a granella (ottenuti con semi o da moltiplicazione vegetativa):</td><td colspan="2">60 000 pezzi</td></tr>
+<tr><td></td><td>0602.2011</td><td colspan="2">– innestati, con radici nude</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2019</td><td colspan="2">– innestati, con piote</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2021</td><td colspan="2">– non innestati, con radici nude</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2029</td><td colspan="2">– non innestati, con piote</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="2">Portinnesto di frutta a nocciolo (ottenuti con semi o da moltiplicazione vegetativa):</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2031</td><td colspan="2">– innestati, con radici nude</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2039</td><td colspan="2">– innestati, con piote</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2041</td><td colspan="2">– non innestati, con radici nude</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2049</td><td colspan="2">– non innestati, con piote</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="2">Alberi, arbusti, arboscelli e cespugli da frutta commestibile con radici nude:</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2071</td><td colspan="2">– di frutta a granella</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2072</td><td colspan="2">– di frutta a nocciolo</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="2">Alberi, arbusti, arboscelli e cespugli da frutta commestibile con piote:</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2081</td><td colspan="2">– di frutta a granella</td><td colspan="2"></td></tr>
+<tr><td></td><td>0602.2082</td><td colspan="2">– di frutta a nocciolo</td><td colspan="2"></td></tr>
+<tr><td>105</td><td>0603.1210</td><td colspan="2">Garofani, recisi, per mazzi o per ornamento, freschi, dal 1° maggio al 25 ottobre</td><td colspan="2">1 000 t nette</td></tr>
+<tr><td></td><td>0603.1110</td><td colspan="2">Rose, recise, per mazzi o per ornamento, fresche, dal 1° maggio al 25 ottobre</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td colspan="2">Fiori e boccioli di fiori (esclusi garofani e rose), recisi, per mazzi o per ornamento dal 1° maggio al 25 ottobre:</td><td colspan="2"></td></tr>
+<tr><td></td><td>0603.1911</td><td colspan="2">– legnosi</td><td colspan="2"></td></tr>
+<tr><td></td><td>0603.1310</td><td colspan="2">– diversi dai legnosi</td><td colspan="2"></td></tr>
+<tr><th>N. del contingente doganale</th><th>Voce di tariffa</th><th>Designazione della merce</th><th colspan="2">Volume del contingente doganale</th></tr>
+<tr><td></td><td>0603.1410</td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td>0603.1510</td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td>0603.1918</td><td></td><td colspan="2"></td></tr>
+<tr><td>106</td><td></td><td>Pomodori, freschi o refrigerati:</td><td colspan="2">10 000 t nette</td></tr>
+<tr><td></td><td>0702.0010</td><td>– pomodori ciliegia (cherry): dal 21 ottobre al 30 aprile</td><td colspan="2"></td></tr>
+<tr><td></td><td>0702.0020</td><td>– pomodori peretti (di forma allungata): dal 21 ottobre al 30 aprile</td><td colspan="2"></td></tr>
+<tr><td></td><td>0702.0030</td><td>– altri pomodori con diametro di 80 mm o più (pomodori carnosi): dal 21 ottobre al 30 aprile</td><td colspan="2"></td></tr>
+<tr><td></td><td>0702.0090</td><td>– altri: dal 21 ottobre al 30 aprile</td><td colspan="2"></td></tr>
+<tr><td>107</td><td>0705.1111</td><td>Lattuga iceberg, senza corona: dal 1° gennaio a fine febbraio</td><td colspan="2">2 000 t nette</td></tr>
+<tr><td>108</td><td>0705.2110</td><td>Witloof, fresca o refrigerata: dal 21 maggio al 30 settembre</td><td colspan="2">2 000 t nette</td></tr>
+<tr><td>109</td><td>0709.3010</td><td>Melanzane, fresche o refrigerate: dal 16 ottobre al 31 maggio</td><td colspan="2">1 000 t nette</td></tr>
+<tr><td>110</td><td>0709.9310</td><td>Zucchine (incluse le zucchine con fiore), fresche o refrigerate: dal 31 ottobre al 19 aprile</td><td colspan="2">2 000 t nette</td></tr>
+<tr><td>111</td><td></td><td>Albicocche, fresche:</td><td colspan="2">2100 t nette</td></tr>
+<tr><td></td><td>0809.1011</td><td>– in imballaggio aperto: dal 1° settembre al 30 giugno</td><td colspan="2"></td></tr>
+<tr><td></td><td>0809.1091</td><td>– in altro imballaggio: dal 1° settembre al 30 giugno</td><td colspan="2"></td></tr>
+<tr><td>112</td><td>0810.1010</td><td>Fragole, fresche: dal 1° settembre al 14 maggio</td><td colspan="2">10 000 t nette</td></tr>
+<tr><td>115</td><td>2204.2150</td><td>Porto (vino di qualità proveniente dalla zona geografica di produzione di Porto in Portogallo secondo l’ordinanza [CEE] n. 823/87), in recipienti di capacità non eccedente 2 l</td><td colspan="2">100 000 l</td></tr>
+<tr><td>116</td><td></td><td>Retsina (vino da tavola ai sensi delle disposizioni comunitarie (art. 17 e allegato I del regolamento [CEE] n. 822/87), in recipienti di capacità:</td><td colspan="2">50 000 l</td></tr>
+<tr><td></td><td>ex 2204.2121</td><td>– non eccedente 2 l</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>– eccedente 2 l ma non eccedente 10 l:</td><td colspan="2"></td></tr>
+<tr><td></td><td>ex 2204.2221</td><td>– – eccedente 13 % vol</td><td colspan="2"></td></tr>
+<tr><td></td><td>ex 2204.2222</td><td>– – non eccedente 13 % vol</td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td>– altri:</td><td colspan="2"></td></tr>
+<tr><td></td><td>ex 2204.2923</td><td>– – eccedente 13 % vol</td><td colspan="2"></td></tr>
+<tr><td></td><td>ex 2204.2924</td><td>– – non eccedente 13 % vol</td><td colspan="2"></td></tr>
+<tr><td>119</td><td>0101.2991</td><td>Cavalli, vivi (esclusi i riproduttori di razza pura e quelli da macello)</td><td colspan="3">100 capi</td></tr>
+<tr><td>120</td><td>0207.1481</td><td>Petti di galli e galline, congelati</td><td colspan="3">2100 t nette</td></tr>
+<tr><td>121</td><td>0207.1491</td><td>Pezzi e frattaglie di galli e galline, fegati compresi, all’esclusione dei petti, congelati</td><td colspan="3">1 200 t netto</td></tr>
+<tr><td>122</td><td>0207.2781</td><td>Petti di tacchini e tacchine, congelati</td><td colspan="3">800 t nette</td></tr>
+<tr><td>123</td><td>0207.2791</td><td>Pezzi e frattaglie di tacchini e tacchine, fegati compresi, all’esclusione dei petti, congelati</td><td colspan="3">600 t nette</td></tr>
+<tr><td>124</td><td>0207.4210</td><td>Anatre, non tagliate in pezzi, congelate</td><td colspan="3">700 t nette</td></tr>
+<tr><td>125</td><td></td><td>fegati grassi, freschi o refrigerati</td><td colspan="3">20 t nette</td></tr>
+<tr><td></td><td>0207.4300</td><td>– di anatre</td><td colspan="3"></td></tr>
+<tr><td></td><td>0207.5300</td><td>– di oche</td><td colspan="3"></td></tr>
+<tr><td>126</td><td></td><td>pezzi e frattaglie, senza fegati grassi, congelati</td><td colspan="3">100 t nette</td></tr>
+<tr><td></td><td>0207.4591</td><td>– di anatre</td><td colspan="3"></td></tr>
+<tr><td></td><td>0207.5591</td><td>– di oche</td><td colspan="3"></td></tr>
+<tr><td></td><td>ex 0207.6091</td><td>– di faraone</td><td colspan="3"></td></tr>
+<tr><td>127</td><td>0208.1000</td><td>Carni e frattaglie commestibili di conigli o di lepri, fresche, refrigerate o congelate</td><td colspan="3">1 700 t nette</td></tr>
+<tr><td>128</td><td>0208.9010</td><td>Carni e frattaglie commestibili di selvaggina, escluse le lepri e i cinghiali, fresche, refrigerate o congelate</td><td colspan="3">100 t nette</td></tr>
+<tr><td>129</td><td></td><td>uova di volatili, in guscio, per il consumo</td><td colspan="3">150 t nette</td></tr>
+<tr><td></td><td></td><td>– fresche:</td><td colspan="3"></td></tr>
+<tr><td></td><td>0407.2110</td><td>– – di volatili della specie Gallus domesticus</td><td colspan="3"></td></tr>
+<tr><td></td><td>0407.2910</td><td>– – altri</td><td colspan="3"></td></tr>
+<tr><td></td><td>0407.9010</td><td>– conservate o cotte</td><td colspan="3"></td></tr>
+<tr><td>130</td><td>ex 0409.0000</td><td>Miele d’acacia</td><td colspan="3">200 t nette</td></tr>
+<tr><td>131</td><td>ex 0409.0000</td><td>Altro miele naturale, diverso da quello d’acacia</td><td colspan="3">50 t nette</td></tr>
+<tr><td>132</td><td>0707.0030</td><td>Cetrioli per conserva, di una lunghezza superiore a 6 ma non eccedente 12 cm, dal 21 ottobre al 14 aprile</td><td colspan="3">100 t nette</td></tr>
+<tr><td>133</td><td>0707.0031</td><td>Cetrioli per conserva, di una lunghezza superiore a 6 ma non eccedente 12 cm, freschi o refrigerati, dal 15 aprile al 20 ottobre</td><td colspan="3">2100 t nette</td></tr>
+<tr><td>134</td><td>0707.0050</td><td>Cetriolini, freschi o refrigerati</td><td colspan="3">800 t nette</td></tr>
+<tr><td>135</td><td>0709.6012</td><td>Peperoni, freschi o refrigerati, dal 1° aprile al 31 ottobre</td><td colspan="3">1 300 t nette</td></tr>
+<tr><td>136</td><td>0711.9090</td><td>Ortaggi o legumi e loro miscele, temporaneamente conservati (per esempio, con anidride solforosa o in acqua salata, solforata o con aggiunta di altre sostanze atte ad assicurarne temporaneamente la conservazione), ma non atti per l’alimentazione nello stato in cui sono presentati</td><td colspan="3">150 t nette</td></tr>
+<tr><td>137</td><td>0712.2000</td><td>Cipolle, secche, anche tagliate in pezzi o a fette oppure tritate o polverizzate, ma non altrimenti preparate</td><td colspan="3">100 t nette</td></tr>
+<tr><td>138</td><td>0713.1011</td><td>Piselli [*Pisum sativum*], in grani intieri, non lavorati, per l’alimentazione di animali</td><td colspan="3">1 000 t nette</td></tr>
+<tr><td>139</td><td>0713.1019</td><td>Piselli [*Pisum sativum*], in grani intieri, non lavorati, diversi da quelli per l’alimentazione di animali o per fabbricare la birra</td><td colspan="3">1 000 t nette</td></tr>
+<tr><td>140</td><td>0809.4013</td><td>Prugne e prugnole, fresche, alla rinfusa, dal 1° luglio al 30 settembre</td><td colspan="3">600 t nette</td></tr>
+<tr><td>141</td><td>0810.1011</td><td>Fragole, fresche, dal 15 maggio al 31 agosto</td><td colspan="3">200 t nette</td></tr>
+<tr><td>142</td><td>0810.2011</td><td>Lamponi, freschi, dal 1° giugno al 14 settembre</td><td colspan="3">250 t nette</td></tr>
+<tr><td>143</td><td>ex 0811.1000</td><td>Fragole, anche cotte in acqua o al vapore, congelate, senza aggiunta di zuccheri o di altri dolcificanti, sfuse, per l’ulteriore lavorazione</td><td colspan="3">1 000 t nette</td></tr>
+<tr><td>144</td><td>ex 0811.2090</td><td>Lamponi, more di rovo o di gelso, more-lamponi, ribes a grappoli e uva spina, anche cotti in acqua o al vapore, congelati, senza aggiunta di zuccheri o di altri dolcificanti, sfusi, per l’ulteriore lavorazione</td><td colspan="3">1200 t nette</td></tr>
+<tr><td>145</td><td>0811.9010</td><td>Mirtilli, anche cotti in acqua o al vapore, congelati, anche con aggiunta di zuccheri o di altri dolcificanti</td><td colspan="3">200 t nette</td></tr>
+<tr><td>146</td><td>0811.9090</td><td>Frutta, escluse fragole, lamponi, more di rovo o di gelso, more-lamponi, ribes a grappoli e uva spina, mirtilli e frutta tropicali, anche cotte in acqua o al vapore, congelate, anche con aggiunta di zuccheri o di altri dolcificanti</td><td colspan="3">1 000 t nette</td></tr>
+<tr><td>147</td><td>0904.2200</td><td>pimenti del genere *Capsicum* o *Pimenta*, tritati o polverizzati</td><td colspan="3">150 t nette</td></tr>
+<tr><td>148</td><td>1001.9931/9939</td><td>frumento (grano) e frumento segalato (escluso il grano duro), per l’alimentazione di animali</td><td colspan="3">50 000 t nette</td></tr>
+<tr><td>149</td><td>1005.9031/9039</td><td>Granoturco, per l’alimentazione di animali</td><td colspan="3">13 000 t nette</td></tr>
+<tr><td>150</td><td>2003.1000</td><td>Funghi del genere *Agaricus*, preparati o conservati, ma non nell’aceto o nell’acido acetico</td><td colspan="3">1 700 t nette</td></tr>
+<tr><td>151</td><td>0204.5010</td><td>Carne di animali della specie caprina; fresca, refrigerata o congelata</td><td colspan="3">100 t nette</td></tr>
+<tr><td>152</td><td>0707.0010</td><td>Cetrioli per insalata; freschi o refrigerati: dal 21 ottobre al 14 aprile</td><td colspan="3">200 t nette</td></tr>
+<tr><td>153</td><td>0802.3290</td><td>Noci comuni, fresche o secche, sgusciate, anche decorticate, non atte per l’alimentazione di animali né per la fabbricazione di oli</td><td colspan="3">100 t nette</td></tr>
+<tr><td>301</td><td>ex0210.1991</td><td>Coppa, prosciutto in vesciche e noce di prosciutto</td><td colspan="3">3715 t nette</td></tr>
+<tr><td></td><td>1601.0011</td><td>Cotechini, mortadelle, salami, salamini, zamponi</td><td colspan="3"></td></tr>
+<tr><td></td><td>1601.0021</td><td>Altre salsicce di animali della specie equina, bovina, suina, ovina, caprina, esclusi i cinghiali</td><td colspan="3"></td></tr>
+<tr><td></td><td>ex 1602.4910</td><td>Coppa</td><td colspan="3"></td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)all.
