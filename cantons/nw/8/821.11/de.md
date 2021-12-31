@@ -4,13 +4,13 @@ number: "821.11"
 title: Vollzugsverordnung zum Landwirtschaftsgesetz
 short: "Kantonale Landwirtschaftsverordnung, kLwV"
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-05-19
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-01-25
 adopted: 2023-09-19
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/821.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/975/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1026/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/975/pdf_file"
 
 (Kantonale Landwirtschaftsverordnung, kLwV)
 
-vom 22.09.2015 (Stand 01.01.2020)
+vom 22.09.2015 (Stand 01.01.2022)
 
 Der Regierungsrat von Nidwalden,
 
@@ -92,31 +92,9 @@ beschliesst:
 
 ### 1.1.2 Verminderung von Ammoniakverlusten
 
-#### § 5
+#### § 5–7
 
-**Grundsatz**
-
-<sup>1</sup> Der Kanton fördert das Ausbringen von flüssigem Hof- und Recyclingdünger mittels emissionsmindernder Ausbringverfahren wie dem Schleppschlauchverfahren mit einzelbetrieblichen Beiträgen.
-
-<sup>2</sup> Die Gewährung der Beiträge richtet sich nach der Verordnung über die Direktzahlungen an die Landwirtschaft (Direktzahlungsverordnung, DZV)[^5-1].
-
-[^5-1]: SR 910.13
-
-#### § 6
-
-**Beitrag**
-
-<sup>1</sup> Der Beitrag beträgt Fr. 10.– je Hektare und Güllegabe.
-
-#### § 7
-
-**Nachweispflicht**
-
-<sup>1</sup> Die gesuchstellende Person hat die gemäss Art. 78 Abs. 4 DZV[^7-1] erforderlichen Aufzeichnungen beim Amt einzureichen.
-
-<sup>2</sup> Das Amt bestimmt, in welcher Form die Eingabe zu erfolgen hat.
-
-[^7-1]: SR 910.13
+**…**
 
 ### 1.1.3 Produktionssysteme
 
