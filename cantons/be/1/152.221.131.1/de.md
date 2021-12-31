@@ -4,13 +4,13 @@ number: "152.221.131.1"
 title: Direktionsverordnung über die Delegation von Befugnissen der Direktion für Inneres und Justiz
 short: DelDV DIJ
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-11-20
+version: 2022-01-01
+valid_until: 2022-08-31
+version_adopted: 2021-12-09
 adopted: 2006-03-31
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.131.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1751/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1751/pdf_file"
 
 (DelDV DIJ)
 
-vom 31.03.2006 (Stand 01.01.2020)
+vom 31.03.2006 (Stand 01.01.2022)
 
 Die Justiz-, Gemeinde- und Kirchendirektion des Kantons Bern,
 
@@ -43,7 +43,7 @@ beschliesst:
 
 **Begründung, Beendigung der Arbeitsverhältnisse in der Zentralverwaltung**
 
-<sup>1</sup> Für die Begründung und die Beendigung der Arbeitsverhältnisse von Mitarbeiterinnen und Mitarbeitern des Generalsekretariats und der Ämter der Zentralverwaltung sind unter Vorbehalt von Absatz 2 die Generalsekretärin oder der Generalsekretär bzw. die jeweilige Amtsvorsteherin oder der jeweilige Amtsvorsteher zuständig.
+<sup>1</sup> Für die Begründung und die Beendigung der Arbeitsverhältnisse von Mitarbeiterinnen und Mitarbeitern des Generalsekretariats (GS DIJ) und der Ämter der Zentralverwaltung sind unter Vorbehalt von Absatz 2 die Generalsekretärin oder der Generalsekretär bzw. die jeweilige Amtsvorsteherin oder der jeweilige Amtsvorsteher zuständig.
 
 <sup>2</sup> Für die Begründung und die Beendigung der Arbeitsverhältnisse von folgenden Mitarbeiterinnen und Mitarbeitern muss vorgängig die Zustimmung der Direktorin oder des Direktors eingeholt werden:
 
@@ -52,7 +52,7 @@ beschliesst:
 - c Abteilungsvorsteherinnen und Abteilungsvorsteher,
 - d–f …
 
-<sup>3</sup> Die Festlegung des Anfangsgehalts gemäss Artikel 38 Absatz 1 PV erfolgt im Einvernehmen mit dem Amt für Dienstleistungen und Ressourcen. Bei Meinungsverschiedenheiten entscheidet die Direktorin oder der Direktor endgültig.
+<sup>3</sup> Die Festlegung des Anfangsgehalts gemäss Artikel 38 Absatz 1 PV erfolgt im Einvernehmen mit dem GS DIJ. Bei Meinungsverschiedenheiten entscheidet die Direktorin oder der Direktor endgültig.
 
 #### Art. 3
 
@@ -75,9 +75,9 @@ beschliesst:
 
 #### Art. 5
 
-**Mitwirkung der Finanzdirektion und des Personalamtes**
+**Mitwirkung der Finanzdirektion und des Personalamts**
 
-<sup>1</sup> Wo die Mitwirkung der Finanzdirektion oder des Personalamts erforderlich ist, stellt das Amt für Dienstleistungen und Ressourcen den Verkehr mit diesen Stellen sicher.
+<sup>1</sup> Wo die Mitwirkung der Finanzdirektion oder des Personalamts erforderlich ist, stellt das GS DIJ den Verkehr mit diesen Stellen sicher.
 
 ## 3 Ausgabenbefugnisse
 
@@ -102,9 +102,9 @@ beschliesst:
 
 #### Art. 8
 
-**Ausgabenbefugnisse in der kantonalen Beobachtungsstation Bolligen**
+**Ausgabenbefugnisse in der Kantonalen Beobachtungsstation Bolligen**
 
-<sup>1</sup> Die Direktorin bzw. der Direktor der kantonalen Beobachtungsstation Bolligen hat folgende Ausgabenbefugnisse:
+<sup>1</sup> Die Direktorin bzw. der Direktor der Kantonalen Beobachtungsstation Bolligen hat folgende Ausgabenbefugnisse:
 
 - a neue einmalige Ausgaben bis 25 000 Franken,
 - b gebundene einmalige Ausgaben bis 25 000 Franken.

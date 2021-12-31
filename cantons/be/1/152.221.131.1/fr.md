@@ -4,13 +4,13 @@ number: "152.221.131.1"
 title: "Ordonnance de Direction sur la délégation de compétences de la Direction de l'intérieur et de la justice *"
 short: ODél DIJ
 language: fr
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-11-20
+version: 2022-01-01
+valid_until: 2022-08-31
+version_adopted: 2021-12-09
 adopted: 2006-03-31
 in_force: 2006-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.131.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1751/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2467/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1751/pdf_file"
 
 (ODél DIJ)
 
-du 31.03.2006 (état au 01.01.2020)
+du 31.03.2006 (état au 01.01.2022)
 
 La Direction de la justice, des affaires communales et des affaires ecclésiastiques du canton de Berne,
 
@@ -43,7 +43,7 @@ arrête:
 
 **Création et résiliation des rapports de travail au sein de l’administration centrale**
 
-<sup>1</sup> La création et la résiliation des rapports de travail des collaborateurs et collaboratrices du Secrétariat général et des offices de l’administration centrale relèvent, sous réserve de l’alinéa 2, de la compétence du secrétaire général ou de la secrétaire générale, ou du chef ou de la cheffe de l’office concerné.
+<sup>1</sup> La création et la résiliation des rapports de travail des collaborateurs et collaboratrices du Secrétariat général (SG DIJ) et des offices de l’administration centrale relèvent, sous réserve de l’alinéa 2, de la compétence du secrétaire général ou de la secrétaire générale, ou du chef ou de la cheffe de l’office concerné.
 
 <sup>2</sup> La création et la résiliation des rapports de travail des collaborateurs et collaboratrices ci-après requièrent l’approbation préalable du directeur ou de la directrice:
 
@@ -52,7 +52,7 @@ arrête:
 - c chefs et cheffes de service,
 - d–f …
 
-<sup>3</sup> La fixation du traitement de départ conformément à l’article 38, alinéa 1 OPers est déterminée en accord avec l’Office des services et des ressources. En cas de divergence, le directeur ou la directrice tranche.
+<sup>3</sup> La fixation du traitement de départ conformément à l’article 38, alinéa 1 OPers est déterminée en accord avec le SG DIJ. En cas de divergence, le directeur ou la directrice tranche.
 
 #### Art. 3
 
@@ -77,7 +77,7 @@ arrête:
 
 **Participation de la Direction des finances et de l’Office du personnel**
 
-<sup>1</sup> Lorsque la participation de la Direction des finances ou de l’Office du personnel est requise, l’Office des services et des ressources assure les contacts avec ces derniers.
+<sup>1</sup> Lorsque la participation de la Direction des finances ou de l’Office du personnel est requise, le SG DIJ assure les contacts avec ces derniers.
 
 ## 3 Compétences en matière d’autorisation de dépenses
 
