@@ -3,11 +3,11 @@ sr: "0.360.163.1"
 title: "Accordo del 4 giugno 2012 tra la Confederazione Svizzera, la Repubblica d'Austria e il Principato del Liechtenstein sulla cooperazione transfrontaliera in materia di polizia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/442"
 language: it
-version: 2017-07-01
+version: 2022-01-01
 adopted: 2012-06-04
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20170701/it/xml/fedlex-data-admin-ch-eli-cc-2017-442-20170701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20170701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-442-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20170701/it"
 
 RU **2017** 3753; FF **2013** 663
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso il 4 giugno 2012
-
-Approvato dall’Assemblea federale il 21 marzo 2014[^t-2]
-
-Strumento di ratifica depositato dalla Svizzera il 9 settembre 2014
+Concluso il 4 giugno 2012 Approvato dall’Assemblea federale il 21 marzo 2014[^t-1] Strumento di ratifica depositato dalla Svizzera il 9 settembre 2014
 
 Entrato in vigore il 1° luglio 2017
 
-(Stato 1° luglio 2017)
+(Stato 1° gennaio 2022)
 
-[^t-1]: Dal testo originale tedesco.
-[^t-2]: Art. 1 DF del 21 mar. 2014 ([RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386)).
+[^t-1]: [RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386)
 
 La Confederazione Svizzera, la Repubblica d’Austria e il Principato del Liechtenstein,
 
@@ -95,7 +90,7 @@ per la Repubblica d’Austria:
 
 per la Confederazione Svizzera:
 
-- – l’Ufficio federale di polizia, l’Amministrazione federale delle dogane, incluso il Corpo delle guardie di confine, le autorità cantonali di polizia, le autorità di polizia degli stranieri nonché l’Ufficio federale della migrazione, conformemente alla ripartizione nazionale delle competenze (di seguito «le autorità preposte alla sicurezza»);
+- – l’Ufficio federale di polizia, l’Amministrazione federale delle dogane[^4-1], incluso il Corpo delle guardie di confine, le autorità cantonali di polizia, le autorità di polizia degli stranieri nonché l’Ufficio federale della migrazione, conformemente alla ripartizione nazionale delle competenze (di seguito «le autorità preposte alla sicurezza»);
 
 per il Principato del Liechtenstein:
 
@@ -118,6 +113,8 @@ Per zone di frontiera ai sensi del presente Accordo s’intendono:
 - – nel Principato del Liechtenstein, l’intero territorio.
 
 <sup>4</sup> Le autorità degli Stati contraenti si informano reciprocamente sulla rispettiva ripartizione a livello nazionale delle competenze in materia di cooperazione transfrontaliera come pure sulle modifiche delle designazioni delle autorità.
+
+[^4-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Capitolo II: Forme generali di cooperazione
 

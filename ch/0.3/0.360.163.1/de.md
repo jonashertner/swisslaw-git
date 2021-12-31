@@ -3,11 +3,11 @@ sr: "0.360.163.1"
 title: "Vertrag vom 4. Juni 2012 zwischen der Schweizerischen Eidgenossenschaft, der Republik Österreich und dem Fürstentum Liechtenstein über die grenzüberschreitende polizeiliche Zusammenarbeit"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/442"
 language: de
-version: 2017-07-01
+version: 2022-01-01
 adopted: 2012-06-04
 in_force: 2017-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20170701/de/xml/fedlex-data-admin-ch-eli-cc-2017-442-20170701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20170701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/442/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-442-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/442/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 9. September 2014
 
 In Kraft getreten am 1. Juli 2017
 
-(Stand am 1. Juli 2017)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386)
 
@@ -94,7 +94,7 @@ auf Seiten der Republik Österreich:
 
 auf Seiten der Schweizerischen Eidgenossenschaft:
 
-- – Das Bundesamt für Polizei, die Eidgenössische Zollverwaltung, inkl. das Grenzwachtkorps und die Polizei- und Fremdenpolizeibehörden der Kantone sowie das Bundesamt für Migration nach Massgabe der innerstaatlichen Kompetenzordnung (nachstehend: Sicherheitsbehörden);
+- – Das Bundesamt für Polizei, die Eidgenössische Zollverwaltung[^4-1], inkl. das Grenzwachtkorps und die Polizei- und Fremdenpolizeibehörden der Kantone sowie das Bundesamt für Migration nach Massgabe der innerstaatlichen Kompetenzordnung (nachstehend: Sicherheitsbehörden);
 
 auf Seiten des Fürstentums Liechtenstein:
 
@@ -117,6 +117,8 @@ Als Grenzgebiete im Sinne dieses Abkommens gelten:
 - – im Fürstentum Liechtenstein: das gesamte Hoheitsgebiet.
 
 <sup>4</sup> Die Behörden der Vertragsstaaten unterrichten einander über die jeweilige innerstaatliche Zuständigkeitsverteilung hinsichtlich der grenzüberschreitenden Zusammenarbeit und über Änderungen in der Bezeichnung der Behörden.
+
+[^4-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Kapitel II: Allgemeine Formen der Zusammenarbeit
 
