@@ -4,13 +4,13 @@ number: "123.22"
 title: Einführungsverordnung zum eidgenössischen Ausweisgesetz
 short: EV AwG
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2024-01-31
+version_adopted: 2021-12-01
 adopted: 2009-12-23
 in_force: 2010-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/123.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2219/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2507/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2219/pdf_file"
 
 (EV AwG)
 
-vom 23.12.2009 (Stand 01.04.2021)
+vom 23.12.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -156,17 +156,17 @@ beschliesst:
 
 **2. Bei Verlustmeldungen**
 
-<sup>1</sup> Für die Aufnahme von Ausweisverlustmeldungen gilt der Gebührentarif der Kantonspolizei Bern gemäss Anhang VC Ziffer 5.1.2 der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung; GebV)[^14-1].
+<sup>1</sup> Für die Aufnahme von Ausweisverlustmeldungen gilt der Gebührentarif der Kantonspolizei Bern gemäss Anhang 5C Ziffer 5.1.2 der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung; GebV)[^14-1].
 
 <sup>2</sup> Die Gebühr wird zwischen dem Amt für Bevölkerungsdienste und der Kantonspolizei Bern zu je 50 Prozent geteilt.
 
-[^14-1]: BSG 154.21
+[^14-1]: BSG [154.21](https://www.belex.sites.be.ch/data/154.21/de)
 
 #### Art. 15
 
 **3. In weiteren Fällen**
 
-<sup>1</sup> Für das Anbringen einer Richtigkeitsbescheinigung auf der Kopie eines Ausweises und das Erstellen einer Kopie werden die Gebühren gemäss Anhang VA der Gebührenverordnung erhoben.
+<sup>1</sup> Für das Anbringen einer Richtigkeitsbescheinigung auf einer Ausweiskopie und das Erstellen von Kopien werden die Gebühren gemäss Artikel 23 und Anhang 5A Ziffer 3.2.1 GebV erhoben.
 
 #### Art. 16
 

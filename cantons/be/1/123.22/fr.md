@@ -4,13 +4,13 @@ number: "123.22"
 title: "Ordonnance portant introduction de la loi fédérale sur les documents d'identité"
 short: OiLDI
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-24
+version: 2022-01-01
+valid_until: 2024-01-31
+version_adopted: 2021-12-01
 adopted: 2009-12-23
 in_force: 2010-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/123.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2219/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2507/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2219/pdf_file"
 
 (OiLDI)
 
-du 23.12.2009 (état au 01.04.2021)
+du 23.12.2009 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -156,17 +156,17 @@ arrête:
 
 **2. En cas d’annonce de perte**
 
-<sup>1</sup> S’agissant de l’établissement d’avis de perte de documents d’identité, les émoluments de la POCA sont régis par l’annexe V C, chiffre 5.1.2 de l’ordonnance du 22 février 1995 fixant les émoluments de l’administration cantonale (ordonnance sur les émoluments; OEmo)[^14-1].
+<sup>1</sup> S’agissant de l’établissement d’avis de perte de documents d’identité, les émoluments de la POCA sont régis par l’annexe 5C, chiffre 5.1.2 de l’ordonnance du 22 février 1995 fixant les émoluments de l’administration cantonale (ordonnance sur les émoluments; OEmo)[^14-1].
 
 <sup>2</sup> L’émolument est partagé entre l’OPOP et la POCA à raison de 50 pour cent à chacune des deux entités.
 
-[^14-1]: RSB 154.21
+[^14-1]: RSB [154.21](https://www.belex.sites.be.ch/data/154.21/fr)
 
 #### Art. 15
 
 **3. Autres cas**
 
-<sup>1</sup> S’agissant de l’établissement d’une copie d’un document d’identité et de l’apposition d’un certificat de conformité sur une copie, les émoluments sont perçus conformément à l'annexe V A OEmo.
+<sup>1</sup> S’agissant de l’établissement d’une copie d’un document d’identité et de l’apposition d’un certificat de conformité sur une copie, les émoluments sont perçus conformément à l’article 23 et à l’annexe 5A, chiffre 3.2.1 OEmo.
 
 #### Art. 16
 
