@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2018-01-01
-corrected: 2018-01-24
-version_adopted: 2017-12-05
+version: 2022-01-01
+valid_until: 2022-01-19
+version_adopted: 2021-01-26
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2322/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3283/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.01.2018)
+vom 12.12.1995 (Stand 01.01.2022)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -187,6 +187,8 @@ als Verordnung:[^ingress-2]
 - 5<sup>ter</sup> zuzüglich die freiwilligen Zuwendungen und Parteispenden nach Art. 46 Abs. 1 Bst. c des Steuergesetzes vom 9. April 1998[^12-4];
 - 5<sup>quater</sup>. …
 - 5<sup>quinquies</sup>. zuzüglich den Abzug von 30 Prozent auf den Mietwert des selbstbewohnten Eigenheims nach Art. 34 Abs. 3 des Steuergesetzes vom 9. April 1998[^12-5];
+- 5<sup>sexies</sup>. zuzüglich den Abzug von 30 Prozent auf den Erträgen von qualifizierten Beteiligungen des Geschäftsvermögens nach [Art. 31<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/811.1/de/art31bis) Abs. 1 des Steuergesetzes vom 9. April 1998[^12-6];
+- 5<sup>septies</sup>. zuzüglich den Abzug von 30 Prozent auf den Erträgen von qualifizierten Beteiligungen des Privatvermögens nach [Art. 33](https://www.gesetzessammlung.sg.ch/data/811.1/de/art33) Abs. 1<sup>bis</sup> des Steuergesetzes vom 9. April 1998[^12-7];
 - 6\. abzüglich den Kinderabzug nach Art. 14 dieses Erlasses.
 
 <sup>3</sup> Alleinstehende mit einem steuerbaren Vermögen von über Fr. 100 000.– und Verheiratete mit einem steuerbaren Vermögen von über Fr. 150 000.– haben keinen Anspruch auf Prämienverbilligung.
@@ -200,6 +202,8 @@ als Verordnung:[^ingress-2]
 [^12-3]: SR [822.41](https://db.clex.ch/link/Bund/822.41/de).
 [^12-4]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
 [^12-5]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
+[^12-6]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
+[^12-7]: sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
 
 #### Art. 12a
 
@@ -271,7 +275,7 @@ als Verordnung:[^ingress-2]
 
 **c) Kinderabzug**
 
-<sup>1</sup> Für jedes in der Schweiz wohnhafte Kind, für das eine Familienzulage nach dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^14-1] oder nach dem Bundesgesetz über Familienzulagen in der Landwirtschaft vom 20. Juni 1952[^14-2] bezogen wird, vermindert sich das massgebende Einkommen um Fr. 7000.–.
+<sup>1</sup> Für jedes in der Schweiz wohnhafte Kind, für das eine Familienzulage nach dem Bundesgesetz über die Familienzulagen vom 24. März 2006[^14-1] oder nach dem Bundesgesetz über Familienzulagen in der Landwirtschaft vom 20. Juni 1952[^14-2] bezogen wird, vermindert sich das massgebende Einkommen um Fr. 4000.–.
 
 <sup>2</sup> …
 
@@ -279,7 +283,7 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> …
 
-<sup>4</sup> Für jedes in der Schweiz obligatorisch krankenversicherte nicht schulpflichtige oder in schulischer oder beruflicher Ausbildung stehende Kind bis zum vollendeten 25. Altersjahr einer Grenzgängerin oder eines Grenzgängers mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, für das in der Schweiz oder in einem Mitgliedstaat der Europäischen Union Familienzulagen bezogen werden, vermindert sich das massgebende Einkommen um Fr. 7000.–.
+<sup>4</sup> Für jedes in der Schweiz obligatorisch krankenversicherte nicht schulpflichtige oder in schulischer oder beruflicher Ausbildung stehende Kind bis zum vollendeten 25. Altersjahr einer Grenzgängerin oder eines Grenzgängers mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, für das in der Schweiz oder in einem Mitgliedstaat der Europäischen Union Familienzulagen bezogen werden, vermindert sich das massgebende Einkommen um Fr. 4000.–.
 
 [^14-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
 [^14-2]: SR [836.1](https://db.clex.ch/link/Bund/836.1/de).
@@ -328,7 +332,10 @@ als Verordnung:[^ingress-2]
 - c) die Obergrenze des Einkommens zur Verbilligung der Referenzprämien nach Art. 65 Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994;[^19-1]
 - d) den Selbstbehalt für die Krankenpflege-Grundversicherung.
 
+<sup>2</sup> Die Verbilligung der Referenzprämien nach [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^19-2] beträgt 80 Prozent für Kinder und 50 Prozent für junge Erwachsene in Ausbildung. Vorbehalten bleibt eine weiter gehende Verbilligung nach [Art. 65](https://db.clex.ch/link/Bund/832.10/de) Abs. 1 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994.
+
 [^19-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^19-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 #### Art. 20
 
@@ -456,7 +463,8 @@ als Verordnung:[^ingress-2]
 
 - a) ob sie die Meldungen nach Art. 32bis dieses Erlasses den versicherten Personen zuordnen können innert 10 Tagen;
 - b) wesentliche Änderungen im Verhältnis zu den versicherten Personen nach Art. 106 c Abs. 2 der Verordnung über die Krankenversicherung vom 27. Juni 1995[^32ter-1] innert 10 Tagen;
-- c) den gesamten Versichertenbestand im Kanton bis 15. Dezember jeden Jahres.
+- c) den gesamten Versichertenbestand im Kanton bis 15. Dezember jeden Jahres;
+- d) auf deren Anfrage hin innert 10 Tagen, ob für eine bestimmte Person für einen bestimmten Zeitraum ein Versicherungsverhältnis besteht.
 
 [^32ter-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
 
