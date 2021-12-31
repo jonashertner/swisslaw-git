@@ -3,10 +3,10 @@ canton: ZH
 number: "551.112"
 title: Verordnung über die erkennungsdienstliche Behandlung von Personen
 language: de
-nachtrag: "51"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2005-11-09
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_112-2005_11_09-2006_01_01-051.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_112-2005_11_09-2006_01_01-115.html"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 Der Regierungsrat beschliesst:
 
-[^t-1]: OS 60, 353; ABl 2005, 1582.
+[^t-1]: OS 60, 353; Begründung ABl 2005, 1582.
 
 #### § 1
 
@@ -28,11 +28,11 @@ Der Regierungsrat beschliesst:
 
 <sup>2</sup> Sie bestimmt die anzuwendenden Massnahmen nach pflichtgemässem Ermessen und unter Berücksichtigung des Verhältnismässigkeitsprinzips, soweit ihr nicht ein Gericht, eine Verwaltungs- oder eine Untersuchungsbehörde Weisungen erteilt.
 
-#### § 2
+<sup>3</sup> Es können andere Polizeibehörden zur Anordnung und Durchführung erkennungsdienstlicher Behandlungen ermächtigt werden.[^1-1]
 
 **Massnahmen**
 
-<sup>1</sup> Es sind insbesondere folgende Massnahmen zulässig:
+§ 2. <sup>1</sup> Es sind insbesondere folgende Massnahmen zulässig:
 
 - a. Bildaufnahmen (Ganzkörperaufnahmen oder Aufnahmen von Körperteilen),
 
@@ -50,18 +50,19 @@ Der Regierungsrat beschliesst:
 
 <sup>2</sup> Die Feststellung und Sicherung von Spuren im Intimbereich sowie die Abnahme von Urin haben durch medizinisches Fachpersonal zu erfolgen.
 
-[^2-1]: SR 363.
-[^2-2]: LS 321.5.
+[^1-1]: Eingefügt durch RRB vom 7. Juli 2021 (OS 76, 396; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+[^1-2]: SR 363.
+[^1-3]: LS 321.5.
 
 #### § 3
 
 **DNA-Analyse**
 
-Die Erstellung von DNA-Analysen und deren Verwendung im Rahmen von erkennungsdienstlichen Massnahmen richten sich nach dem DNA-Profil-Gesetz vom 20. Juni 2003[^2-1] und seinen Ausführungsbestimmungen des Bundes und des Kantons[^2-2].
+Die Erstellung von DNA-Analysen und deren Verwendung im Rahmen von erkennungsdienstlichen Massnahmen richten sich nach dem DNA-Profil-Gesetz vom 20. Juni 2003[^1-2] und seinen Ausführungsbestimmungen des Bundes und des Kantons[^1-3].
 
 **1**
 
-- 1\. 1. 06 - 51 § 4. Die Kantonspolizei kann erkennungsdienstlich behandeln:
+- 1\. 1. 22 - 115 § 4. Die Kantonspolizei kann erkennungsdienstlich behandeln:
 
 **Erfasster Personenkreis**
 
@@ -165,7 +166,7 @@ Ist eine Person bereits erkennungsdienstlich behandelt und steht ihre Identität
 
 **3**
 
-- 1\. 1. 06 - 51 § 12. Die Strafverfolgungs- und Strafvollzugsbehörden teilen der Kantonspolizei die für die Vernichtung bedeutsamen Vorgänge mit.
+- 1\. 1. 22 - 115 § 12. Die Strafverfolgungs- und Strafvollzugsbehörden teilen der Kantonspolizei die für die Vernichtung bedeutsamen Vorgänge mit.
 
 #### § 13
 
