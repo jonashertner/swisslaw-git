@@ -4,13 +4,13 @@ number: "141.111"
 title: Verordnung über die Stimmkreise
 short: SKV
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-14
+version: 2022-01-01
+valid_until: 2023-06-30
+version_adopted: 2021-10-20
 adopted: 2013-09-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2042/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2042/pdf_file"
 
 (SKV)
 
-vom 04.09.2013 (Stand 01.01.2021)
+vom 04.09.2013 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -50,7 +50,7 @@ beschliesst:
 - e die Gemeinden Höchstetten und Hellsau (Verwaltungskreis Emmental) mit Sitz in Höchstetten,
 - f …
 - g die Gemeinden Büren an der Aare und Meienried (Verwaltungskreis Seeland) mit Sitz in Büren,
-- h die Gemeinden Münchenwiler und Clavaleyres (Verwaltungskreis Bern-Mittelland) mit Sitz in Münchenwiler.
+- h …
 
 #### Art. 3
 

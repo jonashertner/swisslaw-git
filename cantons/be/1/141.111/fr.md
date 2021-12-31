@@ -4,13 +4,13 @@ number: "141.111"
 title: Ordonnance sur les circonscriptions politiques
 short: OCP
 language: fr
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-14
+version: 2022-01-01
+valid_until: 2023-06-30
+version_adopted: 2021-10-20
 adopted: 2013-09-04
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2042/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2415/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2042/pdf_file"
 
 (OCP)
 
-du 04.09.2013 (état au 01.01.2021)
+du 04.09.2013 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -50,7 +50,7 @@ arrête:
 - e Höchstetten et Hellsau (arrondissement administratif de l’Emmental), chef-lieu: Höchstetten,
 - f …
 - g Büren an der Aare et Meienried (arrondissement administratif du Seeland), chef-lieu: Büren,
-- h Münchenwiler et Clavaleyres (arrondissement administratif de Berne-Mittelland), chef-lieu: Münchenwiler.
+- h …
 
 #### Art. 3
 
