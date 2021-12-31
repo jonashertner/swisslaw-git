@@ -3,13 +3,13 @@ canton: FR
 number: "114.21.22"
 title: "Ordonnance concernant la mise en place d'un essai pilote d'annonce électronique des déménagements"
 language: fr
-version: 2021-02-23
-valid_until: 2021-12-31
-version_adopted: 2021-02-23
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2021-02-23
 in_force: 2021-02-23
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.21.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6776/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7102/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6776/pdf_file"
 
 Annonce électronique des déménagements – O
 
-du 23.02.2021 (version entrée en vigueur le 23.02.2021)
+du 23.02.2021 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -156,7 +156,7 @@ Arrête:
 
 <sup>1</sup> La sécurité des données est assurée au moyen d'un contrat entre l'Etat de Fribourg et la société eOperations Suisse SA, conformément à l'article 18 de la loi du 25 novembre 1994 sur la protection des données (LPrD).
 
-<sup>2</sup> La société eOperations Suisse SA informe immédiatement le Service de l'informatique et des télécommunications (SITel) en cas de fuite de données ou de dysfonctionnement. Le SITel en informe à son tour et sans délai la DSJ ainsi que l'Autorité cantonale de la transparence et de la protection des données.
+<sup>2</sup> La société eOperations Suisse SA informe immédiatement le Service de l'informatique et des télécommunications (SITel) en cas de fuite de données ou de dysfonctionnement. Le SITel en informe à son tour et sans délai la DSJ ainsi que l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 #### Art. 13
 
@@ -172,7 +172,7 @@ Arrête:
 
 <sup>1</sup> Durant toute la durée de l'essai pilote, la Chancellerie d'Etat et les préposé‑e‑s aux registres des habitants qui y participent s'informent mutuellement de leurs constatations et de leurs expériences concernant la plate-forme eDéménagement.
 
-<sup>2</sup> Après une période suffisante mais au plus tard deux ans après le début de la phase pilote, la DSJ, en collaboration avec la Chancellerie d'Etat, remet au Conseil d'Etat un rapport d'évaluation dans lequel elle propose l'extension du projet à l'ensemble du canton ou sa cessation. Ce rapport est transmis à l'Autorité cantonale de la transparence et de la protection des données.
+<sup>2</sup> Après une période suffisante mais au plus tard deux ans après le début de la phase pilote, la DSJ, en collaboration avec la Chancellerie d'Etat, remet au Conseil d'Etat un rapport d'évaluation dans lequel elle propose l'extension du projet à l'ensemble du canton ou sa cessation. Ce rapport est transmis à l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 #### Art. 15
 

@@ -3,13 +3,13 @@ canton: FR
 number: "114.21.22"
 title: Verordnung über die Durchführung eines Pilotversuchs für die elektronische Umzugsmeldung
 language: de
-version: 2021-02-23
-valid_until: 2021-12-31
-version_adopted: 2021-02-23
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2021-02-23
 in_force: 2021-02-23
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.21.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/6776/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7102/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6776/pdf_file"
 
 Elektronische Umzugsmeldung – V
 
-vom 23.02.2021 (Fassung in Kraft getreten am 23.02.2021)
+vom 23.02.2021 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -156,7 +156,7 @@ beschliesst:
 
 <sup>1</sup> Die Datensicherheit wird gemäss Artikel 18 des Gesetzes vom 25. November 1994 über den Datenschutz (DSchG) mit einem Vertrag zwischen dem Staat Freiburg und eOperations Schweiz AG sichergestellt.
 
-<sup>2</sup> Im Falle eines Datenlecks oder einer Funktionsstörung informiert eOperations Schweiz AG sofort das Amt für Informatik und Telekommunikation (ITA). Das ITA informiert seinerseits unverzüglich die SJD und die kantonale Behörde für Öffentlichkeit und Datenschutz.
+<sup>2</sup> Im Falle eines Datenlecks oder einer Funktionsstörung informiert eOperations Schweiz AG sofort das Amt für Informatik und Telekommunikation (ITA). Das ITA informiert seinerseits unverzüglich die SJD und die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation.
 
 #### Art. 13
 
@@ -172,7 +172,7 @@ beschliesst:
 
 <sup>1</sup> Die Staatskanzlei und die Vorsteherinnen und Vorsteher der Einwohnerregister informieren einander während der gesamten Dauer des Pilotversuchs über ihre Feststellungen und Erfahrungen bei der Nutzung der Plattform eUmzugCH.
 
-<sup>2</sup> Nach einem ausreichend langen Zeitraum, spätestens aber zwei Jahre nach Beginn der Pilotphase, legt die SJD dem Staatsrat in Zusammenarbeit mit der Staatskanzlei einen Evaluationsbericht vor, in dem sie die Ausweitung des Projekts auf den gesamten Kanton oder dessem Einstellung vorschlägt. Der Bericht wird der kantonalen Behörde für Öffentlichkeit und Datenschutz übermittelt.
+<sup>2</sup> Nach einem ausreichend langen Zeitraum, spätestens aber zwei Jahre nach Beginn der Pilotphase, legt die SJD dem Staatsrat in Zusammenarbeit mit der Staatskanzlei einen Evaluationsbericht vor, in dem sie die Ausweitung des Projekts auf den gesamten Kanton oder dessen Einstellung vorschlägt. Der Bericht wird der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation übermittelt.
 
 #### Art. 15
 
