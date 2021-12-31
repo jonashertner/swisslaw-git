@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. März 2010 über die Abgabe für die Benützung von
 short: NSAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/577"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2010-03-19
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/577/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2011-577-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/577/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-577-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20200101/de"
 
 (Nationalstrassenabgabegesetz, NSAG)
 
-vom 19. März 2010 (Stand am 1. Januar 2020)
+vom 19. März 2010 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -125,9 +125,11 @@ Sie gilt als entwertet, wenn sie:
 
 **Zuständigkeit für die Abgabeerhebung**
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung (Zollverwaltung) gibt die Vignette heraus. Sie erhebt die Abgabe an der Grenze und im Ausland.
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) gibt die Vignette heraus. Es erhebt die Abgabe an der Grenze und im Ausland.[^9-1]
 
 <sup>2</sup> Die Kantone erheben die Abgabe im Landesinnern.
+
+[^9-1]: Fassung gemäss Ziff. I 27 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## 4. Abschnitt: Verwendung des Abgabeertrags
 
@@ -147,8 +149,10 @@ Sie gilt als entwertet, wenn sie:
 
 Zur Durchsetzung der Abgabe führen Kontrollen durch:
 
-- a. die Zollverwaltung an der Grenze;
+- a. das BAZG[^11-1] an der Grenze;
 - b. die Kantone im Landesinnern.
+
+[^11-1]: Ausdruck gemäss Ziff. I 27 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 12
 
@@ -174,7 +178,7 @@ Bestreitet eine Person, die nicht in der Schweiz Wohnsitz hat, bei einer Kontrol
 
 <sup>1</sup> Wer entgegen den Artikeln 3–5, 7 und 8 vorsätzlich oder fahrlässig mit einem Fahrzeug eine abgabepflichtige Nationalstrasse benützt oder die Vignette vorschriftswidrig verwendet, wird mit einer Busse von 200 Franken bestraft.
 
-<sup>2</sup> …[^14-2]
+<sup>2</sup> ...[^14-2]
 
 <sup>3</sup> Artikel 245 des Strafgesetzbuchs[^14-3] ist anwendbar.
 
@@ -184,13 +188,13 @@ Bestreitet eine Person, die nicht in der Schweiz Wohnsitz hat, bei einer Kontrol
 
 #### Art. 15
 
-**Strafverfolgung durch die Zollverwaltung**[^15-1]
+**Strafverfolgung durch das BAZG**[^15-1]
 
-<sup>1</sup> Die Zollverwaltung verfolgt und beurteilt Übertretungen, die sie in ihrem Zuständigkeitsbereich feststellt (Art. 11 Bst. a). Verstösse gegen Artikel 245 des Strafgesetzbuchs[^15-2] werden von den Kantonen verfolgt und beurteilt.
+<sup>1</sup> Das BAZG verfolgt und beurteilt Übertretungen, die es in seinem Zuständigkeitsbereich feststellt (Art. 11 Bst. a). Verstösse gegen Artikel 245 des Strafgesetzbuchs[^15-2] werden von den Kantonen verfolgt und beurteilt.
 
-<sup>2</sup> Für das Verfahren der Zollverwaltung gilt das Ordnungsbussengesetz vom 18. März 2016[^15-3].
+<sup>2</sup> Für das Verfahren des BAZG gilt das Ordnungsbussengesetz vom 18. März 2016[^15-3].
 
-<sup>3</sup> Lehnt die Täterin oder der Täter das Ordnungsbussenverfahren ab oder wird die Busse nicht innerhalb von 30 Tagen bezahlt, so verfolgt und beurteilt die Zollverwaltung die Übertretung nach dem Bundesgesetz vom 22. März 1974[^15-4] über das Verwaltungsstrafrecht.
+<sup>3</sup> Lehnt die Täterin oder der Täter das Ordnungsbussenverfahren ab oder wird die Busse nicht innerhalb von 30 Tagen bezahlt, so verfolgt und beurteilt das BAZG die Übertretung nach dem Bundesgesetz vom 22. März 1974[^15-4] über das Verwaltungsstrafrecht.
 
 [^15-1]: Fassung gemäss Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, in Kraft seit 1. Jan. 2020, Abs. 1 seit 1. Jan. 2018 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 [^15-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -203,7 +207,7 @@ Bestreitet eine Person, die nicht in der Schweiz Wohnsitz hat, bei einer Kontrol
 
 <sup>1</sup> Die Kantone verfolgen Übertretungen, die sie in ihrem Zuständigkeitsbereich feststellen (Art. 11 Bst. b).
 
-<sup>2</sup> und <sup>3</sup> …[^16-1]
+<sup>2</sup> und <sup>3</sup> ...[^16-1]
 
 <sup>4</sup> Der Bussenertrag fällt den Kantonen zu.
 
@@ -227,7 +231,7 @@ Die Strafverfolgung und die Strafe für Übertretungen verjähren in drei Jahren
 
 <sup>3</sup> Das Eidgenössische Finanzdepartement kann die Kontrolle und die Strafverfolgung im Ordnungsbussenverfahren durch Vertrag ganz oder teilweise Dritten übertragen.[^18-1]
 
-<sup>4</sup> Die Zollverwaltung und die Kantone können die Abgabeerhebung durch Vertrag ganz oder teilweise Dritten übertragen.
+<sup>4</sup> Das BAZG und die Kantone können die Abgabeerhebung durch Vertrag ganz oder teilweise Dritten übertragen.
 
 [^18-1]: Fassung gemäss Anhang Ziff. II 2 des Ordnungsbussengesetzes vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [BBl 2015 959](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
@@ -235,7 +239,7 @@ Die Strafverfolgung und die Strafe für Übertretungen verjähren in drei Jahren
 
 **Aufwandsentschädigung**
 
-Die Zollverwaltung, die Kantone und beauftragte Dritte erhalten eine Aufwandsentschädigung. Diese wird vom Eidgenössischen Finanzdepartement festgelegt.
+Das BAZG, die Kantone und beauftragte Dritte erhalten eine Aufwandsentschädigung. Diese wird vom Eidgenössischen Finanzdepartement festgelegt.
 
 #### Art. 20
 

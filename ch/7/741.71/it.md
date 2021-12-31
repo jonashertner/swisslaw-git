@@ -4,11 +4,11 @@ title: "Legge federale del 19 marzo 2010 concernente la tassa per l'utilizzazion
 short: LUSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/577"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2010-03-19
 in_force: 2011-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/577/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2011-577-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/577/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-577-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/577/20200101/it"
 
 (Legge sul contrassegno stradale, LUSN)
 
-del 19 marzo 2010 (Stato 1° gennaio 2020)
+del 19 marzo 2010 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -125,9 +125,11 @@ Il contrassegno è considerato annullato se:
 
 **Competenza per la riscossione della tassa**
 
-<sup>1</sup> Il contrassegno è rilasciato dall’Amministrazione federale delle dogane (Amministrazione delle dogane). Essa riscuote la tassa al confine e all’estero.
+<sup>1</sup> Il contrassegno è rilasciato dall’Ufficio federale delle dogane (UDSC). Esso riscuote la tassa al confine e all’estero.[^9-1]
 
 <sup>2</sup> I Cantoni riscuotono la tassa all’interno del Paese.
+
+[^9-1]: Nuovo testo giusta il n. I 27 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ## Sezione 4: Utilizzazione del prodotto della tassa
 
@@ -147,8 +149,10 @@ Il contrassegno è considerato annullato se:
 
 Ai fini dell’applicazione della tassa eseguono controlli:
 
-- a. l’Amministrazione delle dogane al confine;
+- a. l’UDSC[^11-1] al confine;
 - b. i Cantoni all’interno del Paese.
+
+[^11-1]: Nuova espr. giusta il n. I 27 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 12
 
@@ -184,13 +188,13 @@ Le persone non domiciliate in Svizzera che, durante un controllo, contestano l�
 
 #### Art. 15
 
-**Perseguimento penale da parte dell’Amministrazione delle dogane**[^15-1]
+**Perseguimento penale da parte dell’UDSC**[^15-1]
 
-<sup>1</sup> L’Amministrazione delle dogane persegue e giudica le contravvenzioni che rientrano nella sua sfera di competenza (art. 11 lett. a). Le violazioni dell’articolo 245 del Codice penale[^15-2] sono perseguite e giudicate dai Cantoni.
+<sup>1</sup> L’UDSC persegue e giudica le contravvenzioni che rientrano nella sua sfera di competenza (art. 11 lett. a). Le violazioni dell’articolo 245 del Codice penale[^15-2] sono perseguite e giudicate dai Cantoni.
 
-<sup>2</sup> La procedura dinnanzi all’Amministrazione delle dogane è retta dalla legge del 18 marzo 2016[^15-3] sulle multe disciplinari.
+<sup>2</sup> La procedura dinnanzi all’UDSC è retta dalla legge del 18 marzo 2016[^15-3] sulle multe disciplinari.
 
-<sup>3</sup> Se il contravventore rifiuta la procedura della multa disciplinare o non paga la multa entro 30 giorni, l’Amministrazione delle dogane persegue e giudica la contravvenzione conformemente alla legge federale del 22 marzo 1974[^15-4] sul diritto penale amministrativo.
+<sup>3</sup> Se il contravventore rifiuta la procedura della multa disciplinare o non paga la multa entro 30 giorni, l’UDSC persegue e giudica la contravvenzione conformemente alla legge federale del 22 marzo 1974[^15-4] sul diritto penale amministrativo.
 
 [^15-1]: Nuovo testo giusta l’all. n. II 2 della LF del 18 mar. 2016 sulle multe disciplinari, in vigore dal 1° gen. 2020, il cpv. 1 dal 1° gen. 2018 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 [^15-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -227,7 +231,7 @@ Il perseguimento penale delle contravvenzioni e la pena si prescrivono in tre an
 
 <sup>3</sup> Il Dipartimento federale delle finanze può delegare interamente o parzialmente a terzi, mediante contratto, il controllo e il perseguimento penale nella procedura della multa disciplinare.[^18-1]
 
-<sup>4</sup> L’Amministrazione delle dogane e i Cantoni possono delegare interamente o parzialmente a terzi, mediante contratto, la riscossione della tassa.
+<sup>4</sup> L’UDSC e i Cantoni possono delegare interamente o parzialmente a terzi, mediante contratto, la riscossione della tassa.
 
 [^18-1]: Nuovo testo giusta l’all. n. II 2 della LF del 18 mar. 2016 sulle multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725), [2019 527](https://fedlex.data.admin.ch/eli/oc/2019/92); [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)).
 
@@ -235,7 +239,7 @@ Il perseguimento penale delle contravvenzioni e la pena si prescrivono in tre an
 
 **Compenso**
 
-L’Amministrazione delle dogane, i Cantoni e i terzi incaricati ricevono un compenso per le loro prestazioni. Il compenso è fissato dal Dipartimento federale delle finanze.
+L’UDSC, i Cantoni e i terzi incaricati ricevono un compenso per le loro prestazioni. Il compenso è fissato dal Dipartimento federale delle finanze.
 
 #### Art. 20
 
