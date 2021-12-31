@@ -4,13 +4,13 @@ number: "640.1"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz; StG
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-12-11
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-27
 adopted: 1992-09-14
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1866/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2184/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ StG
 
 (Steuergesetz; StG)
 
-vom 14.09.1992 (Stand 01.01.2021)
+vom 14.09.1992 (Stand 01.01.2022)
 
 ## 1. Teil: Staatssteuern
 
@@ -68,13 +68,13 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Aufhebung von Steuererleichterungen**
 
-<sup>1</sup> Verlegt eine Gesellschaft während der Dauer der Steuererleichterung oder innert zwei Jahren nach deren Ablauf ihren Sitz, die tatsächliche Verwaltung oder einen wesentlichen Teil ihres Betriebes aus dem Kanton, werden wesentliche Teile des Betriebes liquidiert oder ändert sich der im Zeitpunkt der Gewährung bestehende Geschäftszweck, kann der Regierungsrat Steuererleichterungen ganz oder teilweise aufheben. Diese werden im Nachsteuerverfahren nach den §§ 204 bis 206 nachbezogen.
+<sup>1</sup> Verlegt eine Gesellschaft während der Dauer der Steuererleichterung oder innert zwei Jahren nach deren Ablauf ihren Sitz, die tatsächliche Verwaltung oder einen wesentlichen Teil ihres Betriebes aus dem Kanton, werden wesentliche Teile des Betriebes liquidiert oder ändert sich der im Zeitpunkt der Gewährung bestehende Geschäftszweck, kann der Regierungsrat Steuererleichterungen ganz oder teilweise aufheben. Diese werden im Nachsteuerverfahren nach § 204 bis § 206 nachbezogen.
 
 #### § 4c
 
-**Hinzurechnungsbesteuerung**
+**Höherbesteuerung**
 
-<sup>1</sup> Die Steuerverwaltung kann Kapitalgesellschaften und Genossenschaften, die in ein internationales Konzernverhältnis eingebunden sind, zu einem höheren Gewinnsteuersatz besteuern, sofern andere Staaten aufgrund der gemäss § 85 resultierenden Steuerbelastung eine Hinzurechnungsbesteuerung vornehmen. Der Regierungsrat regelt die Ausführungsbestimmungen.
+<sup>1</sup> Der Steuersatz wird bei Kapitalgesellschaften und Genossenschaften, die in ein internationales Konzernverhältnis eingebunden sind, unter Berücksichtigung der direkten Bundessteuer auf die vom ausländischen Staat geforderte Steuerbelastung angehoben.
 
 #### § 5
 
@@ -138,7 +138,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Kommen die Entgelte nicht den genannten Personen, sondern Dritten zu, sind diese steuerpflichtig.
 
-<sup>3</sup> Die Steuerpflicht richtet sich nach § 8 Absatz 2.
+<sup>3</sup> Die Steuerpflicht richtet sich nach § 8 Abs. 2.
 
 #### § 10
 
@@ -170,7 +170,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Einkommen und Vermögen von Kindern unter elterlicher Sorge werden bis zum Beginn der Steuerperiode, in der sie volljährig werden, dem Inhaber der elterlichen Sorge zugerechnet. Für ihr Erwerbs- oder Ersatzeinkommen werden die Kinder jedoch selbständig besteuert.
 
-<sup>3</sup> Üben Eltern, die nicht zusammen veranlagt werden, die elterliche Sorge gemeinsam aus, versteuert derjenige Elternteil das Einkommen und Vermögen des Kindes, dem der Kinderabzug gemäss § 36 Absatz 2 Ziffer 1 zusteht.
+<sup>3</sup> Üben Eltern, die nicht zusammen veranlagt werden, die elterliche Sorge gemeinsam aus, versteuert derjenige Elternteil das Einkommen und Vermögen des Kindes, dem der Kinderabzug gemäss § 36 Abs. 2 Ziff. 1 zusteht.
 
 #### § 13
 
@@ -200,7 +200,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>3</sup> Der überlebende Ehegatte haftet mit seinem Erbteil und dem Betrag, den er aufgrund ehelichen Güterrechtes nach schweizerischem Recht vom Vorschlag oder Gesamtgut über den gesetzlichen Anteil hinaus erhält.
 
-<sup>4</sup> Die überlebenden eingetragenen Partnerinnen oder Partner haften mit ihrem Erbteil und dem Betrag, den sie aufgrund einer vermögensrechtlichen Regelung im Sinne von Artikel 25 Absatz 1 des Bundesgesetzes über die eingetragene Partnerschaft gleichgeschlechtlicher Paare[^15-1] erhalten haben.
+<sup>4</sup> Die überlebenden eingetragenen Partnerinnen oder Partner haften mit ihrem Erbteil und dem Betrag, den sie aufgrund einer vermögensrechtlichen Regelung im Sinne von Art. 25 Abs. 1 des Bundesgesetzes über die eingetragene Partnerschaft gleichgeschlechtlicher Paare[^15-1] erhalten haben.
 
 [^15-1]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de)
 
@@ -226,7 +226,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 2\. die Personen, die Geschäftsbetriebe oder Betriebsstätten im Kanton auflösen oder im Kanton gelegene Grundstücke oder durch solche gesicherte Forderungen veräussern oder verwerten, bis zum Betrag des Reinerlöses, wenn der Steuerpflichtige keinen steuerrechtlichen Wohnsitz in der Schweiz hat.
 - 3\. Käufer und Verkäufer einer im Kanton gelegenen Liegenschaft bis zu 3 Prozent der Kaufsumme für die vom Händler oder Vermittler aus dieser Tätigkeit geschuldeten Steuern.
 
-<sup>2</sup> Werden Einkommen und Vermögen einer Personengemeinschaft ohne juristische Persönlichkeit nach § 13 Absatz 2 als Ganzes besteuert, haften die Beteiligten unbeschränkt und solidarisch.
+<sup>2</sup> Werden Einkommen und Vermögen einer Personengemeinschaft ohne juristische Persönlichkeit nach § 13 Abs. 2 als Ganzes besteuert, haften die Beteiligten unbeschränkt und solidarisch.
 
 <sup>3</sup> Mit dem Steuernachfolger haften für die Steuer des Erblassers solidarisch der Erbschaftsverwalter und der Willensvollstrecker bis zum Betrag, der nach dem Stand des Nachlassvermögens im Zeitpunkt des Todes auf die Steuer entfällt. Die Haftung entfällt, wenn der Haftende nachweist, dass er alle nach den Umständen gebotene Sorgfalt angewendet hat.
 
@@ -238,9 +238,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Sind diese Personen nicht Schweizer Bürger, kann ihnen das Recht auf Entrichtung der Steuer nach dem Aufwand auch weiterhin zugestanden werden.
 
-<sup>3</sup> Die Steuer, die anstelle der Einkommenssteuer tritt, wird nach dem weltweiten Aufwand des Steuerpflichtigen und seiner Familie bemessen und nach dem ordentlichen Einkommenssteuertarif berechnet. Zudem sind die Absätze 4 und 5 zu beachten.
+<sup>3</sup> Die Steuer, die anstelle der Einkommenssteuer tritt, wird nach dem weltweiten Aufwand des Steuerpflichtigen und seiner Familie bemessen und nach dem ordentlichen Einkommenssteuertarif berechnet. Zudem sind die Abs. 4 und Abs. 5 zu beachten.
 
-<sup>4</sup> Der massgebliche Aufwand für die Festsetzung der Steuer, die anstelle der Einkommenssteuer tritt (Absatz 3), muss mindestens das Zehnfache des Mietzinses oder des Eigenmietwertes bzw. das Vierfache des Pensionspreises für Unterkunft und Verpflegung betragen.
+<sup>4</sup> Der massgebliche Aufwand für die Festsetzung der Steuer, die anstelle der Einkommenssteuer tritt (Abs. 3), muss mindestens das Zehnfache des Mietzinses oder des Eigenmietwertes bzw. das Vierfache des Pensionspreises für Unterkunft und Verpflegung betragen.
 
 <sup>5</sup> Die Einkommens- und Vermögenssteuern, die diese Steuerpflichtigen jährlich an den Kanton und die Gemeinden zu bezahlen haben, müssen jedoch mindestens Fr. 150'000 betragen.
 
@@ -271,7 +271,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Steuerbar sind alle Einkünfte aus privatrechtlichem oder öffentlichrechtlichem Arbeitsverhältnis einschliesslich der Nebeneinkünfte wie Entschädigungen für Sonderleistungen, Provisionen, Zulagen, Dienstalters- und Jubiläumsgeschenke, Gratifikationen, Trinkgelder, Tantiemen, geldwerte Vorteile aus Mitarbeiterbeteiligungen und andere geldwerte Vorteile.
 
-<sup>2</sup> Die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, stellen unabhängig von deren Höhe keinen anderen geldwerten Vorteil im Sinne von Absatz 1 dar.
+<sup>2</sup> Die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, stellen unabhängig von deren Höhe keinen anderen geldwerten Vorteil im Sinne von Abs. 1 dar.
 
 #### § 19a
 
@@ -280,7 +280,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 <sup>1</sup> Als echte Mitarbeiterbeteiligungen gelten:
 
 - 1\. Aktien, Genussscheine, Partizipationsscheine, Genossenschaftsanteile oder Beteiligungen anderer Art, welche die Arbeitgeberin, deren Muttergesellschaft oder eine andere Konzerngesellschaft den Mitarbeitenden abgibt;
-- 2\. Optionen auf den Erwerb von Beteiligungen nach Ziffer 1.
+- 2\. Optionen auf den Erwerb von Beteiligungen nach Ziff. 1.
 
 <sup>2</sup> Als unechte Mitarbeiterbeteiligungen gelten Anwartschaften auf blosse Bargeldabfindungen.
 
@@ -304,7 +304,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Anteilsmässige Besteuerung**
 
-<sup>1</sup> Hatte der Steuerpflichtige nicht während der gesamten Zeitspanne zwischen Erwerb und Entstehen des Ausübungsrechts der gesperrten Mitarbeiteroptionen (§ 19b Absatz 3) steuerlichen Wohnsitz oder Aufenthalt im Kanton, so werden die geldwerten Vorteile daraus anteilsmässig im Verhältnis zwischen der gesamten zu der im Kanton verbrachten Zeitspanne besteuert.
+<sup>1</sup> Hatte der Steuerpflichtige nicht während der gesamten Zeitspanne zwischen Erwerb und Entstehen des Ausübungsrechts der gesperrten Mitarbeiteroptionen (§ 19b Abs. 3) steuerlichen Wohnsitz oder Aufenthalt im Kanton, so werden die geldwerten Vorteile daraus anteilsmässig im Verhältnis zwischen der gesamten zu der im Kanton verbrachten Zeitspanne besteuert.
 
 #### § 20
 
@@ -319,7 +319,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>3</sup> Als Geschäftsvermögen gelten alle Vermögenswerte, die ganz oder vorwiegend der selbständigen Erwerbstätigkeit dienen. Gleiches gilt für Beteiligungen von mindestens 20 Prozent am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft, sofern der Eigentümer sie im Zeitpunkt des Erwerbs zum Geschäftsvermögen erklärt.
 
-<sup>4</sup> Kapitalgewinne aus der Veräusserung von land- und forstwirtschaftlichen Grundstücken (nach Massgabe des Bundesrechts) werden den Einkünften aus selbständiger Erwerbstätigkeit nur zugerechnet, soweit die Anlagekosten nach Abzug aufgeschobener Grundstückgewinne im Sinne von § 129 Absatz 1 Ziffer 8 den Einkommenssteuerwert übersteigen.
+<sup>4</sup> Kapitalgewinne aus der Veräusserung von land- und forstwirtschaftlichen Grundstücken (nach Massgabe des Bundesrechts) werden den Einkünften aus selbständiger Erwerbstätigkeit nur zugerechnet, soweit die Anlagekosten nach Abzug aufgeschobener Grundstückgewinne im Sinne von § 129 Abs. 1 Ziff. 8 den Einkommenssteuerwert übersteigen.
 
 #### § 20a
 
@@ -339,13 +339,13 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Die Teilbesteuerung auf Veräusserungsgewinne wird nur gewährt, wenn die veräusserten Beteiligungsrechte mindestens ein Jahr im Eigentum der steuerpflichtigen Person oder des Personenunternehmens waren.
 
-<sup>3</sup> Veräusserungsgewinne aus Beteiligungen von mehr als 50 Prozent am Grund- oder Stammkapital einer Immobiliengesellschaft sind von der Teilbesteuerung gemäss Absatz 2 ausgenommen und vollumfänglich steuerbar.
+<sup>3</sup> Veräusserungsgewinne aus Beteiligungen von mehr als 50 Prozent am Grund- oder Stammkapital einer Immobiliengesellschaft sind von der Teilbesteuerung gemäss Abs. 2 ausgenommen und vollumfänglich steuerbar.
 
 #### § 20c
 
 **Erfolg aus Patenten und vergleichbaren Rechten**
 
-<sup>1</sup> Für den Erfolg aus Patenten und vergleichbaren Rechten bei selbständiger Erwerbstätigkeit sind die § 76a und § 76b sinngemäss anwendbar.
+<sup>1</sup> Für den Erfolg aus Patenten und vergleichbaren Rechten bei selbständiger Erwerbstätigkeit sind § 76a und § 76b sinngemäss anwendbar.
 
 #### § 20d
 
@@ -361,9 +361,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 - 1\. bei der Übertragung von Vermögenswerten auf eine andere Personenunternehmung;
 - 2\. bei der Übertragung eines Betriebs oder eines Teilbetriebs auf eine juristische Person;
-- 3\. beim Austausch von Beteiligungs- oder Mitgliedschaftsrechten anlässlich von Umstrukturierungen im Sinne von § 79 Absatz 1 oder von fusionsähnlichen Zusammenschlüssen.
+- 3\. beim Austausch von Beteiligungs- oder Mitgliedschaftsrechten anlässlich von Umstrukturierungen im Sinne von § 79 Abs. 1 oder von fusionsähnlichen Zusammenschlüssen.
 
-<sup>2</sup> Bei einer Umstrukturierung nach Absatz 1 Ziffer 2 werden die übertragenen stillen Reserven im Verfahren nach den §§ 204 bis 206 nachträglich besteuert, soweit während den der Umstrukturierung nachfolgenden fünf Jahren Beteiligungs- oder Mitgliedschaftsrechte zu einem über dem übertragenen steuerlichen Eigenkapital liegenden Preis veräussert werden; die juristische Person kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen.
+<sup>2</sup> Bei einer Umstrukturierung nach Abs. 1 Ziff. 2 werden die übertragenen stillen Reserven im Verfahren nach § 204 bis § 206 nachträglich besteuert, soweit während den der Umstrukturierung nachfolgenden fünf Jahren Beteiligungs- oder Mitgliedschaftsrechte zu einem über dem übertragenen steuerlichen Eigenkapital liegenden Preis veräussert werden; die juristische Person kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen.
 
 #### § 22
 
@@ -374,24 +374,24 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 1\. Zinsen aus Guthaben;
 - 2\. Ausbezahlte Erträge aus rückkaufsfähigen Kapitalversicherungen mit Einmalprämie im Erlebensfall oder bei Rückkauf, ausser wenn diese Kapitalversicherungen der Vorsorge dienen. Als der Vorsorge dienend gilt die Auszahlung der Versicherungsleistung ab dem vollendeten 60. Altersjahr des Versicherten aufgrund eines mindestens fünfjährigen Vertragsverhältnisses, das vor Vollendung des 66. Altersjahres begründet wurde. In diesem Fall ist die Leistung steuerfrei;
 - 3\. Einkünfte des Inhabers aus der Veräusserung oder Rückzahlung von Obligationen mit Einmalverzinsung;
-- 4\. Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Beteiligungen aller Art einschliesslich Gratisaktien, Gratisnennwerterhöhungen und dergleichen. Ein bei der Rückgabe von Beteiligungsrechten im Sinne von Artikel 4a des Bundesgesetzes über die Verrechnungssteuer an die Kapitalgesellschaft oder Genossenschaft erzielter Liquidationsüberschuss gilt in dem Jahre als realisiert, in welchem die Verrechnungssteuerforderung entsteht;
+- 4\. Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Beteiligungen aller Art einschliesslich Gratisaktien, Gratisnennwerterhöhungen und dergleichen. Ein bei der Rückgabe von Beteiligungsrechten im Sinne von Art. 4a des Bundesgesetzes über die Verrechnungssteuer an die Kapitalgesellschaft oder Genossenschaft erzielter Liquidationsüberschuss gilt in dem Jahre als realisiert, in welchem die Verrechnungssteuerforderung entsteht;
 - 5\. Einkünfte aus Vermietung, Verpachtung, Nutzniessung oder sonstiger Nutzung beweglicher Sachen oder nutzbarer Rechte;
 - 6\. Einkünfte aus Anteilen an kollektiven Kapitalanlagen, soweit die Gesamterträge die Erträge aus direktem Grundbesitz übersteigen;
 - 7\. Einkünfte aus immateriellen Gütern.
 
 <sup>2</sup> Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen, einschliesslich Gratisaktien, Gratisnennwerterhöhungen und dergleichen, sind im Umfang von 60 Prozent steuerbar, wenn diese Beteiligungsrechte mindestens 10 Prozent des Grund- oder Stammkapitals einer Kapitalgesellschaft oder Genossenschaft darstellen.
 
-<sup>3</sup> Die Rückzahlung von Einlagen, Aufgeldern und Zuschüssen (Reserven aus Kapitaleinlagen), die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital. Absatz 4 bleibt vorbehalten.
+<sup>3</sup> Die Rückzahlung von Einlagen, Aufgeldern und Zuschüssen (Reserven aus Kapitaleinlagen), die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital. Abs. 4 bleibt vorbehalten.
 
-<sup>4</sup> Schüttet eine Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 3 nicht mindestens im gleichen Umfang übrige Reserven aus, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der in der Gesellschaft vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven.
+<sup>4</sup> Schüttet eine Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Abs. 3 nicht mindestens im gleichen Umfang übrige Reserven aus, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der in der Gesellschaft vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven.
 
-<sup>5</sup> Absatz 4 ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
+<sup>5</sup> Abs. 4 ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
 
-- 1\. die bei fusionsähnlichen Zusammenschlüssen durch Einbringen von Beteiligungs- und Mitgliedschaftsrechten an einer ausländischen Kapitalgesellschaft oder Genossenschaft nach § 79 Absatz 1 Ziffer 3 oder durch eine grenzüberschreitende Übertragung auf eine inländische Tochtergesellschaft nach § 79 Absatz 1 Ziffer 4 nach dem 24. Februar 2008 entstanden sind;
-- 2\. die im Zeitpunkt einer grenzüberschreitenden Fusion oder Umstrukturierung nach § 79 Absatz 1 Ziffer 2 oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung nach dem 24. Februar 2008 bereits in einer ausländischen Kapitalgesellschaft oder Genossenschaft vorhanden waren;
+- 1\. die bei fusionsähnlichen Zusammenschlüssen durch Einbringen von Beteiligungs- und Mitgliedschaftsrechten an einer ausländischen Kapitalgesellschaft oder Genossenschaft nach § 79 Abs. 1 Ziff. 3 oder durch eine grenzüberschreitende Übertragung auf eine inländische Tochtergesellschaft nach § 79 Abs. 1 Ziff. 4 nach dem 24. Februar 2008 entstanden sind;
+- 2\. die im Zeitpunkt einer grenzüberschreitenden Fusion oder Umstrukturierung nach § 79 Abs. 1 Ziff. 2 oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung nach dem 24. Februar 2008 bereits in einer ausländischen Kapitalgesellschaft oder Genossenschaft vorhanden waren;
 - 3\. im Falle der Liquidation der Kapitalgesellschaft oder Genossenschaft.
 
-<sup>6</sup> Die Absätze 4 und 5 gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.
+<sup>6</sup> Abs. 4 und Abs. 5 gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.
 
 <sup>7</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
@@ -399,12 +399,12 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Besondere Fälle**
 
-<sup>1</sup> Als Ertrag aus beweglichem Vermögen im Sinne von § 22 Ziffer 4 gilt auch:
+<sup>1</sup> Als Ertrag aus beweglichem Vermögen im Sinne von § 22 Ziff. 4 gilt auch:
 
-- 1\. der Erlös aus dem Verkauf einer Beteiligung von mindestens 20 Prozent am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer anderen natürlichen oder einer juristischen Person, soweit innert fünf Jahren nach dem Verkauf, unter Mitwirkung des Verkäufers, nicht betriebsnotwendige Substanz ausgeschüttet wird, die im Zeitpunkt des Verkaufs bereits vorhanden und handelsrechtlich ausschüttungsfähig war. Dies gilt sinngemäss auch, wenn innert fünf Jahren mehrere Beteiligte eine solche Beteiligung gemeinsam verkaufen oder Beteiligungen von insgesamt mindestens 20 Prozent verkauft werden. Die ausgeschüttete Substanz wird beim Verkäufer gegebenenfalls im Verfahren nach den §§ 204 Absatz 1, 205 und 206 nachträglich besteuert;
-- 2\. der Erlös aus der Übertragung einer Beteiligung am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer Personenunternehmung oder einer juristischen Person, an welcher der Veräusserer oder Einbringer nach der Übertragung zu mindestens 50 Prozent am Kapital beteiligt ist, soweit die gesamthaft erhaltene Gegenleistung die Summe aus dem Nennwert der übertragenen Beteiligung und den Reserven aus Kapitaleinlagen nach § 22 Absätze 3-7 übersteigt; dies gilt sinngemäss auch, wenn mehrere Beteiligte die Übertragung gemeinsam vornehmen.
+- 1\. der Erlös aus dem Verkauf einer Beteiligung von mindestens 20 Prozent am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer anderen natürlichen oder einer juristischen Person, soweit innert fünf Jahren nach dem Verkauf, unter Mitwirkung des Verkäufers, nicht betriebsnotwendige Substanz ausgeschüttet wird, die im Zeitpunkt des Verkaufs bereits vorhanden und handelsrechtlich ausschüttungsfähig war. Dies gilt sinngemäss auch, wenn innert fünf Jahren mehrere Beteiligte eine solche Beteiligung gemeinsam verkaufen oder Beteiligungen von insgesamt mindestens 20 Prozent verkauft werden. Die ausgeschüttete Substanz wird beim Verkäufer gegebenenfalls im Verfahren nach § 204 Abs. 1, § 205 und § 206 nachträglich besteuert;
+- 2\. der Erlös aus der Übertragung einer Beteiligung am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer Personenunternehmung oder einer juristischen Person, an welcher der Veräusserer oder Einbringer nach der Übertragung zu mindestens 50 Prozent am Kapital beteiligt ist, soweit die gesamthaft erhaltene Gegenleistung die Summe aus dem Nennwert der übertragenen Beteiligung und den Reserven aus Kapitaleinlagen nach § 22 Abs. 3 bis Abs. 7 übersteigt; dies gilt sinngemäss auch, wenn mehrere Beteiligte die Übertragung gemeinsam vornehmen.
 
-<sup>2</sup> Mitwirkung im Sinne von Absatz 1 Ziffer 1 liegt vor, wenn der Verkäufer weiss oder wissen muss, dass der Gesellschaft zwecks Finanzierung des Kaufpreises Mittel entnommen und nicht wieder zugeführt werden.
+<sup>2</sup> Mitwirkung im Sinne von Abs. 1 Ziff. 1 liegt vor, wenn der Verkäufer weiss oder wissen muss, dass der Gesellschaft zwecks Finanzierung des Kaufpreises Mittel entnommen und nicht wieder zugeführt werden.
 
 #### § 23
 
@@ -419,7 +419,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Der Mietwert von am Wohnsitz selbstgenutztem Wohneigentum ist aufgrund der ortsüblichen Verhältnisse und tatsächlichen Nutzung festzulegen.
 
-<sup>3</sup> Zur Bildung und Förderung von am Wohnsitz selbstgenutztem Wohneigentum und zur Begünstigung der Selbstvorsorge wird von dem gemäss Absatz 2 festgelegten Mietwert ein Abzug von 40 Prozent vorgenommen.
+<sup>3</sup> Zur Bildung und Förderung von am Wohnsitz selbstgenutztem Wohneigentum und zur Begünstigung der Selbstvorsorge wird von dem gemäss Abs. 2 festgelegten Mietwert ein Abzug von 40 Prozent vorgenommen.
 
 #### § 24
 
@@ -429,9 +429,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Als Einkünfte aus beruflicher Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- oder Gruppenversicherungen sowie aus Freizügigkeitspolicen.
 
-<sup>3</sup> Leibrenten sowie Einkünfte aus Verpfründung sind zu 40 Prozent steuerbar. Bei Rückkauf einer Leibrentenversicherung während der Aufschubzeit wird lediglich die Differenz zwischen den Prämien und dem Rückzahlungsbetrag nach § 22 Ziffer 1 besteuert, sofern der Pflichtige dafür den Nachweis erbringt.
+<sup>3</sup> Leibrenten sowie Einkünfte aus Verpfründung sind zu 40 Prozent steuerbar. Bei Rückkauf einer Leibrentenversicherung während der Aufschubzeit wird lediglich die Differenz zwischen den Prämien und dem Rückzahlungsbetrag nach § 22 Ziff. 1 besteuert, sofern der Pflichtige dafür den Nachweis erbringt.
 
-<sup>4</sup> Absatz 3 findet keine Anwendung, wenn die Beiträge abzugsfähig waren.
+<sup>4</sup> Abs. 3 findet keine Anwendung, wenn die Beiträge abzugsfähig waren.
 
 #### § 25
 
@@ -456,19 +456,20 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 - 1\. Vermögensanfälle infolge Erbschaft, Vermächtnis, Schenkung oder güterrechtlicher Auseinandersetzung;
 - 2\. Kapitalzahlungen, die bei Stellenwechsel vom Arbeitgeber oder von Einrichtungen der beruflichen Vorsorge ausgerichtet werden, wenn sie der Empfänger innert Jahresfrist zum Einkauf in eine Einrichtung der beruflichen Vorsorge oder zum Erwerb einer Freizügigkeitspolice verwendet;
-- 3\. Vermögensanfälle aus rückkaufsfähiger privater Kapitalversicherung, ausgenommen aus Freizügigkeitspolicen; vorbehalten bleibt § 22 Ziffer 2;
+- 3\. Vermögensanfälle aus rückkaufsfähiger privater Kapitalversicherung, ausgenommen aus Freizügigkeitspolicen; vorbehalten bleibt § 22 Ziff. 2;
 - 4\. Erlöse aus Bezugsrechten, die zum Privatvermögen des Steuerpflichtigen gehören;
 - 5\. Kapitalgewinne aus Veräusserung von beweglichem Privatvermögen;
 - 6\. Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
+- 6<sup>bis</sup>. Einkünfte aufgrund der Bundesgesetzgebung über Überbrückungsleistungen für ältere Arbeitslose;
 - 7\. Leistungen der Sozialhilfe aus öffentlichen oder privaten Mitteln;
-- 8\. Leistungen aus familienrechtlicher Verpflichtung mit Ausnahme von Unterhaltsbeiträgen nach § 25 Ziffer 5;
+- 8\. Leistungen aus familienrechtlicher Verpflichtung mit Ausnahme von Unterhaltsbeiträgen nach § 25 Ziff. 5;
 - 9\. Soldzahlungen für Militär- oder Zivilschutzdienst sowie das Taschengeld für Zivildienst;
 - 10\. Genugtuungszahlungen;
 - 11\. die Gewinne, die in Spielbanken mit nach dem Bundesgesetz über Geldspiele (Geldspielgesetz; BGS)[^26-1] zugelassenen Spielbankenspielen erzielt werden, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen;
 - 11<sup>bis</sup>. die einzelnen Gewinne bis zu einem Betrag von Fr. 1'000'000 aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - 11<sup>ter</sup>. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
 - 12\. der Sold der Milizfeuerwehrleute bis zu einem Betrag von jährlich Fr. 5'000 für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr; ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt. Der Regierungsrat regelt die Einzelheiten;
-- 13\. einzelne Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung bis zu einem Betrag von Fr. 1'000, die nach Artikel 1 Absatz 2 lit. d und e BGS diesem nicht unterstehen.
+- 13\. einzelne Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung bis zu einem Betrag von Fr. 1'000, die nach Art. 1 Abs. 2 lit. d und lit. e BGS diesem nicht unterstehen.
 
 [^26-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
 
@@ -482,7 +483,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Grundsatz**
 
-<sup>1</sup> Zur Ermittlung des Reineinkommens werden von den gesamten steuerbaren Einkünften die Aufwendungen und allgemeinen Abzüge nach den §§ 29 bis 34 abgezogen.
+<sup>1</sup> Zur Ermittlung des Reineinkommens werden von den gesamten steuerbaren Einkünften die Aufwendungen und allgemeinen Abzüge nach § 29 bis § 34 abgezogen.
 
 #### § 29
 
@@ -492,9 +493,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 - 1\. die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zu einem Maximalbetrag von Fr. 6'000 sowie die notwendigen Mehrkosten für Verpflegung und Unterkunft ausserhalb der Wohnstätte oder bei Schichtarbeit;
 - 2\. …
-- 3\. die übrigen für die Ausübung des Berufes erforderlichen Kosten; § 34 Absatz 1 Ziffer 16 bleibt vorbehalten.
+- 3\. die übrigen für die Ausübung des Berufes erforderlichen Kosten; § 34 Abs. 1 Ziff. 16 bleibt vorbehalten.
 
-<sup>2</sup> Für die Berufskosten nach Absatz 1 legt der Regierungsrat Pauschalansätze fest; dem Steuerpflichtigen steht der Nachweis höherer Kosten nach Absatz 1 Ziffer 3 offen. Die Abzüge können für einzelne Berufsgruppen und für behördliche Tätigkeit einheitlich festgesetzt werden.
+<sup>2</sup> Für die Berufskosten nach Abs. 1 legt der Regierungsrat Pauschalansätze fest; dem Steuerpflichtigen steht der Nachweis höherer Kosten nach Abs. 1 Ziff. 3 offen. Die Abzüge können für einzelne Berufsgruppen und für behördliche Tätigkeit einheitlich festgesetzt werden.
 
 #### § 30
 
@@ -509,18 +510,29 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 3\. die eingetretenen und verbuchten Verluste auf Geschäftsvermögen;
 - 4\. die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern zweckwidrige Verwendung ausgeschlossen ist;
 - 5\. die Rücklagen für künftige Forschungs- und Entwicklungsaufträge an Dritte bis zu 10 Prozent des steuerbaren Geschäftsertrages, insgesamt jedoch höchstens bis zu Fr. 1'000'000;
-- 6\. die Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach § 20 Absatz 3 entfallen;
+- 6\. die Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach § 20 Abs. 3 entfallen;
 - 7\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- 8\. gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechtes an schweizerische oder fremde Amtsträger.
+<sup>3</sup> Nicht abziehbar sind insbesondere:
+
+- 1\. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- 2\. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- 3\. Bussen und Geldstrafen;
+- 4\. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck aufweisen.
+
+<sup>4</sup> Sind Sanktionen nach Abs. 3 Ziff. 3 und Ziff. 4 von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- 1\. die Sanktion gegen den schweizerischen Ordre public verstösst oder
+- 2\. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 31
 
 **Ersatzbeschaffung**
 
-<sup>1</sup> Werden Gegenstände des betriebsnotwendigen Anlagevermögens ersetzt, können die stillen Reserven auf die als Ersatz erworbenen Anlagegüter übertragen werden, wenn diese ebenfalls betriebsnotwendig sind und sich in der Schweiz befinden. Als übertragene stille Reserve gilt auch der aufgeschobene Grundstückgewinn im Sinne von § 129 Absatz 1 Ziffer 8. Vorbehalten bleibt die Besteuerung beim Ersatz von Liegenschaften durch Gegenstände des beweglichen Vermögens.
+<sup>1</sup> Werden Gegenstände des betriebsnotwendigen Anlagevermögens ersetzt, können die stillen Reserven auf die als Ersatz erworbenen Anlagegüter übertragen werden, wenn diese ebenfalls betriebsnotwendig sind und sich in der Schweiz befinden. Als übertragene stille Reserve gilt auch der aufgeschobene Grundstückgewinn im Sinne von § 129 Abs. 1 Ziff. 8. Vorbehalten bleibt die Besteuerung beim Ersatz von Liegenschaften durch Gegenstände des beweglichen Vermögens.
 
-<sup>2</sup> Die infolge Ersatzbeschaffung aufgeschobene Besteuerung bei Grundstücken des betrieblichen Anlagevermögens wird im Nachsteuerverfahren nach den §§ 204 bis 206 nachgeholt, wenn das Ersatzgrundstück innert fünf Jahren seit der Veräusserung des ersetzten Grundstückes veräussert oder dauernd einer anderen Nutzung zugeführt wird.
+<sup>2</sup> Die infolge Ersatzbeschaffung aufgeschobene Besteuerung bei Grundstücken des betrieblichen Anlagevermögens wird im Nachsteuerverfahren nach § 204 bis § 206 nachgeholt, wenn das Ersatzgrundstück innert fünf Jahren seit der Veräusserung des ersetzten Grundstückes veräussert oder dauernd einer anderen Nutzung zugeführt wird.
 
 #### § 32
 
@@ -542,13 +554,13 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 - 1\. bei Liegenschaften im Privatvermögen die Kosten für den Unterhalt, einschliesslich jener für Energiesparen und Umweltschutz, die Versicherungsprämien sowie die Liegenschaftensteuer, ferner die nicht durch Subventionen gedeckten Kosten denkmalpflegerischer Arbeiten, sofern der Steuerpflichtige solche Massnahmen aufgrund gesetzlicher Vorschriften, im Einvernehmen mit den Behörden oder auf deren Anordnung hin vorgenommen hat. Den Unterhaltskosten gleichgestellt sind auch die Rückbaukosten im Hinblick auf den Ersatzneubau. Investitionskosten für Energiesparen und Umweltschutz sowie Rückbaukosten im Hinblick auf einen Ersatzneubau sind in den zwei nachfolgenden Steuerperioden abziehbar, soweit sie in der laufenden Steuerperiode, in welcher die Aufwendungen angefallen sind, steuerlich nicht vollständig berücksichtigt werden konnten;
 - 2\. die für die Verwaltung des Vermögens notwendigen Ausgaben;
-- 3\. die privaten Schuldzinsen im Umfang des nach den §§ 22, 22a und 23 steuerbaren Vermögensertrages und weiterer Fr. 50'000, soweit sie nicht zu den Anlagekosten gehören;
+- 3\. die privaten Schuldzinsen im Umfang des nach § 22, § 22a und § 23 steuerbaren Vermögensertrages und weiterer Fr. 50'000, soweit sie nicht zu den Anlagekosten gehören;
 - 4\. die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten;
 - 5\. die periodischen Unterhaltsbeiträge an den geschiedenen oder an den gerichtlich oder tatsächlich getrennten Ehegatten sowie die periodischen Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlichen Sorge stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - 6\. die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus Alters-, Hinterlassenen- und Invalidenversicherung und aus Einrichtungen der beruflichen Vorsorge;
 - 7\. die Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge bis zum bundesrechtlich festgelegten Betrag;
 - 8\. die Prämien und Beiträge für die Arbeitslosenversicherung und für die obligatorische Unfallversicherung sowie gemäss der Erwerbsersatzordnung;
-- 9\. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Ziffer 8 fallende Unfallversicherung unter Verrechnung der erhaltenen Prämienverbilligungen sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm vertretenen Personen bis zum Gesamtbetrag von:
+- 9\. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Ziff. 8 fallende Unfallversicherung unter Verrechnung der erhaltenen Prämienverbilligungen sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm vertretenen Personen bis zum Gesamtbetrag von:
   - a. Fr. 7'000 für verheiratete Personen, die in ungetrennter Ehe leben;
   - b. Fr. 3'500 für die übrigen Steuerpflichtigen;
   - c. zusätzlich Fr. 1'000 für jedes minderjährige oder in Ausbildung stehende Kind, für dessen Unterhalt der Steuerpflichtige aufkommt;
@@ -558,10 +570,10 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 13\. die nachgewiesenen Kosten, jedoch höchstens Fr. 10'100, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
 - . …
 - 14\. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von Fr. 10'000 an politische Parteien, die:
-  - a. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^34-2] eingetragen sind,
+  - a. im Parteienregister nach Art. 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^34-2] eingetragen sind,
   - b. in einem kantonalen Parlament vertreten sind, oder
   - c. in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent der Stimmen erreicht haben;
-- 15\. als Einsatzkosten im Zusammenhang mit Gewinnen, die nicht nach § 26 Absatz 1 Ziffern 11 bis 11<sup>ter</sup> und 13 steuerfrei sind, fünf Prozent des Gewinnes, höchstens aber Fr. 5'000; in Bezug auf die einzelnen Gewinne aus der Online-Teilnahme an Spielbankenspielen nach § 26 Absatz 1 Ziffer 11<sup>bis</sup> die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'000;
+- 15\. als Einsatzkosten im Zusammenhang mit Gewinnen, die nicht nach § 26 Abs. 1 Ziff. 11 bis Ziff. 11<sup>ter</sup> und Ziff. 13 steuerfrei sind, fünf Prozent des Gewinnes, höchstens aber Fr. 5'000; in Bezug auf die einzelnen Gewinne aus der Online-Teilnahme an Spielbankenspielen nach § 26 Abs. 1 Ziff. 11<sup>bis</sup> die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'000;
 - 16\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, bis zu dem für die direkte Bundessteuer massgebenden Betrag, sofern:
   - a. ein erster Abschluss auf der Sekundarstufe II vorliegt oder
   - b. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
@@ -595,7 +607,7 @@ vom 14.09.1992 (Stand 01.01.2021)
   - a. je Kind — Fr. 7'000;
   - b. der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Altersjahres auf — Fr. 8'000;
   - c. und nach Vollendung des 20. Altersjahres bis höchstens zum vollendeten 26. Altersjahr auf — Fr. 10'000;
-- 2\. für erwerbsunfähige und unterstützungsbedürftige Personen, für deren Unterhalt der Steuerpflichtige zur Hauptsache aufkommt; der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Absatz 2 Ziffer 1 gewährt wird, — Fr. 2'600;
+- 2\. für erwerbsunfähige und unterstützungsbedürftige Personen, für deren Unterhalt der Steuerpflichtige zur Hauptsache aufkommt; der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Abs. 2 Ziff. 1 gewährt wird, — Fr. 2'600;
 - 3\. von im AHV-Alter stehenden, erwerbsunfähigen oder verwitweten Steuerpflichtigen Fr. 4'000; beträgt das Reineinkommen mehr als Fr. 16'000, bei Steuerpflichtigen in ungetrennter Ehe mehr als Fr. 23'000, ermässigt sich der Abzug je Fr. 1'000 Mehreinkommen um Fr. 200
 - 4\.–5. …
 
@@ -607,7 +619,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>6</sup> Im internationalen Verhältnis werden die Sozialabzüge nur dem unbeschränkt Steuerpflichtigen gewährt. Vorbehalten bleibt das Bundesrecht einschliesslich der staatsvertraglichen Bestimmungen.
 
-<sup>7</sup> Erhält ein Elternteil für die unter seiner elterlichen Sorge stehenden Kinder Unterhaltsbeiträge, die er gemäss § 25 Ziffer 5 zu versteuern hat, stehen die Abzüge gemäss Absatz 2 Ziffer 1 ihm zu. Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge regelt der Regierungsrat die Zuteilung der Abzüge.
+<sup>7</sup> Erhält ein Elternteil für die unter seiner elterlichen Sorge stehenden Kinder Unterhaltsbeiträge, die er gemäss § 25 Ziff. 5 zu versteuern hat, stehen die Abzüge gemäss Abs. 2 Ziff. 1 ihm zu. Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge regelt der Regierungsrat die Zuteilung der Abzüge.
 
 ### 1.2.2.5. Steuerberechnung
 
@@ -638,23 +650,23 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Vereinfachtes Abrechnungsverfahren**
 
-<sup>1</sup> Für kleine Arbeitsentgelte aus unselbständiger Erwerbstätigkeit ist die Steuer ohne Berücksichtigung der übrigen Einkünfte, allfälliger Berufskosten und Sozialabzüge zu einem Satz von 4,5 Prozent zu erheben. Voraussetzung ist, dass der Arbeitgeber die Steuer im Rahmen des vereinfachten Abrechnungsverfahrens nach den Artikeln 2 und 3 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit entrichtet. Damit sind die Einkommenssteuern von Kanton und Gemeinden abgegolten.
+<sup>1</sup> Für kleine Arbeitsentgelte aus unselbständiger Erwerbstätigkeit ist die Steuer ohne Berücksichtigung der übrigen Einkünfte, allfälliger Berufskosten und Sozialabzüge zu einem Satz von 4,5 Prozent zu erheben. Voraussetzung ist, dass der Arbeitgeber die Steuer im Rahmen des vereinfachten Abrechnungsverfahrens nach Art. 2 und Art. 3 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit entrichtet. Damit sind die Einkommenssteuern von Kanton und Gemeinden abgegolten.
 
-<sup>2</sup> § 122 Absatz 1 Ziffer 1 gilt sinngemäss.
+<sup>2</sup> § 122 Abs. 1 Ziff. 1 gilt sinngemäss.
 
 <sup>3</sup> Der Schuldner der steuerbaren Leistung ist verpflichtet, die Steuern periodisch der zuständigen AHV-Ausgleichskasse abzuliefern.
 
 <sup>4</sup> Die AHV-Ausgleichskasse stellt dem Steuerpflichtigen eine Aufstellung oder eine Bestätigung über den Steuerabzug aus. Sie überweist der zuständigen Steuerbehörde die einkassierten Steuerzahlungen.
 
-<sup>5</sup> Das Recht auf eine Bezugsprovision nach § 122 Absatz 3 wird auf die zuständige AHV-Ausgleichskasse übertragen.
+<sup>5</sup> Das Recht auf eine Bezugsprovision nach § 122 Abs. 3 wird auf die zuständige AHV-Ausgleichskasse übertragen.
 
 #### § 38b
 
 **Liquidationsgewinne**
 
-<sup>1</sup> Wird die selbständige Erwerbstätigkeit nach dem vollendeten 55. Altersjahr oder wegen Unfähigkeit zur Weiterführung infolge Invalidität definitiv aufgegeben, ist die Summe der in den letzten zwei Geschäftsjahren realisierten stillen Reserven getrennt vom übrigen Einkommen zu besteuern. Einkaufsbeiträge gemäss § 34 Absatz 1 Ziffer 6 sind abziehbar. Werden keine solchen Einkäufe vorgenommen, wird die Steuer auf dem Betrag der realisierten stillen Reserven, für den der Steuerpflichtige die Zulässigkeit eines Einkaufs gemäss § 34 Absatz 1 Ziffer 6 nachweist, in gleicher Weise wie Kapitalleistungen aus Vorsorge gemäss § 39 erhoben. Der Restbetrag der realisierten stillen Reserven wird zum Satz der einfachen Steuer von 5 Prozent besteuert.
+<sup>1</sup> Wird die selbständige Erwerbstätigkeit nach dem vollendeten 55. Altersjahr oder wegen Unfähigkeit zur Weiterführung infolge Invalidität definitiv aufgegeben, ist die Summe der in den letzten zwei Geschäftsjahren realisierten stillen Reserven getrennt vom übrigen Einkommen zu besteuern. Einkaufsbeiträge gemäss § 34 Abs. 1 Ziff. 6 sind abziehbar. Werden keine solchen Einkäufe vorgenommen, wird die Steuer auf dem Betrag der realisierten stillen Reserven, für den der Steuerpflichtige die Zulässigkeit eines Einkaufs gemäss § 34 Abs. 1 Ziff. 6 nachweist, in gleicher Weise wie Kapitalleistungen aus Vorsorge gemäss § 39 erhoben. Der Restbetrag der realisierten stillen Reserven wird zum Satz der einfachen Steuer von 5 Prozent besteuert.
 
-<sup>2</sup> Absatz 1 gilt auch für den überlebenden Ehegatten, die anderen Erben und die Vermächtnisnehmer, sofern sie die übernommene Unternehmung nicht fortführen. Die steuerliche Abrechnung erfolgt spätestens fünf Kalenderjahre nach Ablauf des Todesjahres des Erblassers.
+<sup>2</sup> Abs. 1 gilt auch für den überlebenden Ehegatten, die anderen Erben und die Vermächtnisnehmer, sofern sie die übernommene Unternehmung nicht fortführen. Die steuerliche Abrechnung erfolgt spätestens fünf Kalenderjahre nach Ablauf des Todesjahres des Erblassers.
 
 #### § 39
 
@@ -777,7 +789,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>3</sup> Bei beschränkter Steuerpflicht werden die steuerfreien Beträge anteilsmässig gewährt.
 
-<sup>4</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge regelt der Regierungsrat die Zuteilung des Abzuges gemäss Absatz 1 Ziffer 3.
+<sup>4</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge regelt der Regierungsrat die Zuteilung des Abzuges gemäss Abs. 1 Ziff. 3.
 
 #### § 54
 
@@ -803,7 +815,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>4</sup> Besteht die Steuerpflicht für das Vermögen nur während eines Teils der Steuerperiode, wird die diesem Zeitraum entsprechende Steuer erhoben.
 
-<sup>5</sup> Erbt der Steuerpflichtige während der Steuerperiode Vermögen, gilt Absatz 4 sinngemäss.
+<sup>5</sup> Erbt der Steuerpflichtige während der Steuerperiode Vermögen, gilt Abs. 4 sinngemäss.
 
 #### § 56
 
@@ -871,11 +883,11 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 - 1\. die Kapitalgesellschaften und die Genossenschaften;
 - 2\. die Vereine, die Stiftungen und die übrigen juristischen Personen;
-- 3\. die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG[^67-1], die wie Kapitalgesellschaften besteuert werden.
+- 3\. die Investmentgesellschaften mit festem Kapital nach Art. 110 KAG[^67-1], die wie Kapitalgesellschaften besteuert werden.
 
 <sup>2</sup> Die Kantonalbank ist den Kapitalgesellschaften gleichgestellt; vorbehalten bleibt § 97.
 
-<sup>3</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Artikel 58 KAG.
+<sup>3</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz nach Art. 58 KAG.
 
 <sup>4</sup> Ausländische juristische Personen sowie die gemäss § 14 steuerpflichtigen ausländischen Handelsgesellschaften und Personengesamtheiten werden jenen inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
@@ -891,7 +903,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Wirtschaftliche Zugehörigkeit**
 
-<sup>1</sup> Die Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit richtet sich sinngemäss nach den §§ 8 und 9.
+<sup>1</sup> Die Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit richtet sich sinngemäss nach § 8 und § 9.
 
 #### § 70
 
@@ -921,7 +933,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>4</sup> Eine Steuerpflicht aufgrund wirtschaftlicher Zugehörigkeit in einem anderen Kanton als demjenigen des Sitzes oder der tatsächlichen Verwaltung besteht für die gesamte Steuerperiode, auch wenn sie während der Steuerperiode begründet, verändert oder aufgehoben wird.
 
-<sup>5</sup> In den Fällen gemäss Absatz 3 oder 4 werden der Gewinn und das Kapital zwischen den beteiligten Kantonen in sinngemässer Anwendung der Grundsätze des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung ausgeschieden.
+<sup>5</sup> In den Fällen gemäss Abs. 3 oder Abs. 4 werden der Gewinn und das Kapital zwischen den beteiligten Kantonen in sinngemässer Anwendung der Grundsätze des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung ausgeschieden.
 
 #### § 73
 
@@ -957,11 +969,11 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 5\. inländische Sozialversicherungs- und Ausgleichskassen, insbesondere Arbeitslosen-, Krankenversicherungs-, Alters-, Invaliden- und Hinterlassenenversicherungskassen, mit Ausnahme der konzessionierten Versicherungsgesellschaften;
 - 6\. Einrichtungen der beruflichen Vorsorge von Unternehmungen mit Sitz oder Betriebsstätte in der Schweiz und von ihnen nahestehenden Unternehmungen, sofern die Mittel der Einrichtung dauernd und ausschliesslich der Personalvorsorge dienen;
 - 7\. juristische Personen mit Sitz in der Schweiz, die sich im Interesse des Kantons oder im allgemeinen schweizerischen Interesse öffentlichen, ausschliesslich gemeinnützigen, religiösen, wohltätigen, kulturellen, geselligen oder sportlichen Zwecken widmen und keine Erwerbs- oder Selbsthilfezwecke verfolgen;
-- 8\. die kollektiven Kapitalanlagen mit direktem Grundbesitz, sofern deren Anleger ausschliesslich steuerbefreite Einrichtungen der beruflichen Vorsorge nach Ziffer 6 oder steuerbefreite inländische Sozialversicherungs- und Ausgleichskassen nach Ziffer 5 sind.
+- 8\. die kollektiven Kapitalanlagen mit direktem Grundbesitz, sofern deren Anleger ausschliesslich steuerbefreite Einrichtungen der beruflichen Vorsorge nach Ziff. 6 oder steuerbefreite inländische Sozialversicherungs- und Ausgleichskassen nach Ziff. 5 sind.
 
-<sup>2</sup> Die in Absatz 1 Ziffern 4 bis 8 genannten juristischen Personen unterliegen für ihre Grundstücke den Steuern vom Grundeigentum.
+<sup>2</sup> Die in Abs. 1 Ziff. 4 bis Ziff. 8 genannten juristischen Personen unterliegen für ihre Grundstücke den Steuern vom Grundeigentum.
 
-<sup>3</sup> Die Steuerbefreiung gemäss Absatz 1 Ziffer 7 erfolgt durch das zuständige Departement des Regierungsrates.
+<sup>3</sup> Die Steuerbefreiung gemäss Abs. 1 Ziff. 7 erfolgt durch das zuständige Departement des Regierungsrates.
 
 ### 1.3.2. Gewinnsteuer
 
@@ -992,7 +1004,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 - 1\. Patente nach dem Europäischen Patentübereinkommen vom 5. Oktober 1973 in seiner revidierten Fassung vom 29. November 2000[^76a-1] mit Benennung Schweiz;
 - 2\. Patente nach dem Bundesgesetz über die Erfindungspatente (Patentgesetz, PatG)[^76a-2];
-- 3\. ausländische Patente, die den Patenten nach den Buchstaben a und b entsprechen.
+- 3\. ausländische Patente, die den Patenten nach Ziff. 1 und Ziff. 2 entsprechen.
 
 <sup>2</sup> Als vergleichbare Rechte gelten:
 
@@ -1001,7 +1013,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 3\. Pflanzensorten, die nach dem Bundesgesetz über den Schutz von Pflanzenzüchtungen (Sortenschutzgesetz)[^76a-4] geschützt sind;
 - 4\. Unterlagen, die nach dem Bundesgesetz über Arzneimittel und Medizinprodukte (HMG)[^76a-5] geschützt sind;
 - 5\. Berichte, für die gestützt auf Ausführungsbestimmungen zum Bundesgesetz über die Landwirtschaft (LwG)[^76a-6] ein Berichtschutz besteht;
-- 6\. ausländische Rechte, die den Rechten nach den Ziffern 1 - 5 entsprechen.
+- 6\. ausländische Rechte, die den Rechten nach Ziff. 1 bis Ziff. 5 entsprechen.
 
 [^76a-1]: SR [0.232.142.2](https://db.clex.ch/link/Bund/0.232.142.2/de)
 [^76a-2]: SR [232.14](https://db.clex.ch/link/Bund/232.14/de)
@@ -1034,7 +1046,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Deckt die steuerpflichtige Person bei Beginn der Steuerpflicht stille Reserven einschliesslich des selbst geschaffenen Mehrwerts auf, unterliegen diese nicht der Gewinnsteuer. Nicht aufgedeckt werden dürfen stille Reserven einer Kapitalgesellschaft oder Genossenschaft aus Beteiligungen von mindestens zehn Prozent am Grund- oder Stammkapital oder am Gewinn und an den Reserven einer anderen Gesellschaft.
 
-<sup>2</sup> Als Beginn der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben, Teilbetrieben oder Funktionen aus dem Ausland in einen inländischen Geschäftsbetrieb oder in eine inländische Betriebsstätte, das Ende einer Steuerbefreiung nach § 75 Absatz 1 sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung in die Schweiz.
+<sup>2</sup> Als Beginn der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben, Teilbetrieben oder Funktionen aus dem Ausland in einen inländischen Geschäftsbetrieb oder in eine inländische Betriebsstätte, das Ende einer Steuerbefreiung nach § 75 Abs. 1 sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung in die Schweiz.
 
 <sup>3</sup> Die aufgedeckten stillen Reserven sind jährlich zum Satz abzuschreiben, der für Abschreibungen auf den betreffenden Vermögenswerten steuerlich angewendet wird.
 
@@ -1046,7 +1058,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Endet die Steuerpflicht, werden die in diesem Zeitpunkt vorhandenen, nicht versteuerten stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts besteuert.
 
-<sup>2</sup> Als Ende der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben, Teilbetrieben oder Funktionen aus dem Inland in einen ausländischen Geschäftsbetrieb oder in eine ausländische Betriebsstätte, der Übergang zu einer Steuerbefreiung nach § 75 Absatz 1 sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung ins Ausland.
+<sup>2</sup> Als Ende der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben, Teilbetrieben oder Funktionen aus dem Inland in einen ausländischen Geschäftsbetrieb oder in eine ausländische Betriebsstätte, der Übergang zu einer Steuerbefreiung nach § 75 Abs. 1 sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung ins Ausland.
 
 #### § 77
 
@@ -1054,17 +1066,28 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören insbesondere:
 
-- 1\. Abschreibungen und Rückstellungen. Wertberichtigungen und Abschreibungen auf den Gestehungskosten von Beteiligungen, welche die Voraussetzungen nach § 86 Absatz 5 erfüllen, werden dem steuerbaren Gewinn zugerechnet, soweit sie nicht mehr begründet sind;
-- 2\. eidgenössische, kantonale und kommunale Steuern, ausgenommen Steuerbussen;
+- 1\. Abschreibungen und Rückstellungen. Wertberichtigungen und Abschreibungen auf den Gestehungskosten von Beteiligungen, welche die Voraussetzungen nach § 86 Abs. 5 erfüllen, werden dem steuerbaren Gewinn zugerechnet, soweit sie nicht mehr begründet sind;
+- 2\. eidgenössische, kantonale und kommunale Steuern;
 - 3\. Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern eine zweckwidrige Verwendung ausgeschlossen ist;
 - 4\. freiwillige Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des steuerbaren Reingewinnes an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind, sowie an Bund, Kantone, Gemeinden und deren Anstalten;
 - 5\. Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen oder Leistungen sowie die zur Verteilung an die Versicherten bestimmten Überschüsse von Versicherungsgesellschaften;
 - 6\. Rücklagen für künftige Forschungs- und Entwicklungsaufträge an Dritte bis zu 10 Prozent des steuerbaren Gewinnes, insgesamt jedoch höchstens bis zu Fr. 1'000'000;
 - 7\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- 8\. gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechtes an schweizerische oder fremde Amtsträger.
+<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
 
-<sup>3</sup> Abschreibungen auf Aktiven, die zum Ausgleich von Verlusten höher bewertet wurden, können nur vorgenommen werden, wenn die Aufwertungen handelsrechtlich zulässig waren und die Verluste im Zeitpunkt der Abschreibung nach § 82 Absatz 1 verrechenbar gewesen wären.
+- 1\. Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- 2\. Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- 3\. Bussen;
+- 4\. finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck aufweisen.
+
+<sup>2<sup>bis</sup></sup> Sind Sanktionen nach Abs. 2 Ziff. 3 und Ziff. 4 von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- 1\. die Sanktion gegen den schweizerischen Ordre public verstösst oder
+- 2\. die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
+
+<sup>3</sup> Abschreibungen auf Aktiven, die zum Ausgleich von Verlusten höher bewertet wurden, können nur vorgenommen werden, wenn die Aufwertungen handelsrechtlich zulässig waren und die Verluste im Zeitpunkt der Abschreibung nach § 82 Abs. 1 verrechenbar gewesen wären.
 
 #### § 77a
 
@@ -1072,7 +1095,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Forschungs- und Entwicklungsaufwand, welcher der steuerpflichtigen Person direkt oder durch Dritte im Inland indirekt entstanden ist, kann auf Antrag um 30 Prozent über den geschäftsmässig begründeten Forschungs- und Entwicklungsaufwand hinaus abgezogen werden.
 
-<sup>2</sup> Als Forschung und Entwicklung gelten die wissenschaftliche Forschung und die wissenschaftsbasierte Innovation nach Artikel 2 des Bundesgesetzes über die Förderung der Forschung und der Innovation (FIFG)[^77a-1].
+<sup>2</sup> Als Forschung und Entwicklung gelten die wissenschaftliche Forschung und die wissenschaftsbasierte Innovation nach Art. 2 des Bundesgesetzes über die Förderung der Forschung und der Innovation (FIFG)[^77a-1].
 
 <sup>3</sup> Ein erhöhter Abzug ist zulässig auf:
 
@@ -1104,11 +1127,11 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 3\. beim Austausch von Beteiligungs- oder Mitgliedschaftsrechten anlässlich von Umstrukturierungen oder von fusionsähnlichen Zusammenschlüssen;
 - 4\. bei der Übertragung von Betrieben oder Teilbetrieben sowie von Gegenständen des betrieblichen Anlagevermögens auf eine inländische Tochtergesellschaft. Als Tochtergesellschaft gilt eine Kapitalgesellschaft oder Genossenschaft, an der die übertragende Kapitalgesellschaft oder Genossenschaft zu mindestens 20 Prozent am Grund- oder Stammkapital beteiligt ist.
 
-<sup>2</sup> Bei einer Übertragung auf eine Tochtergesellschaft nach Absatz 1 Ziffer 4 werden die übertragenen stillen Reserven im Verfahren nach den §§ 204 bis 206 nachträglich besteuert, soweit während den der Umstrukturierung nachfolgenden fünf Jahren die übertragenen Vermögenswerte oder Beteiligungs- oder Mitgliedschaftsrechte an der Tochtergesellschaft veräussert werden; die Tochtergesellschaft kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen.
+<sup>2</sup> Bei einer Übertragung auf eine Tochtergesellschaft nach Abs. 1 Ziff. 4 werden die übertragenen stillen Reserven im Verfahren nach § 204 bis § 206 nachträglich besteuert, soweit während den der Umstrukturierung nachfolgenden fünf Jahren die übertragenen Vermögenswerte oder Beteiligungs- oder Mitgliedschaftsrechte an der Tochtergesellschaft veräussert werden; die Tochtergesellschaft kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen.
 
-<sup>3</sup> Zwischen inländischen Kapitalgesellschaften und Genossenschaften, die nach dem Gesamtbild der tatsächlichen Verhältnisse durch Stimmenmehrheit oder auf andere Weise unter einheitlicher Leitung einer Kapitalgesellschaft oder Genossenschaft zusammengefasst sind, können direkt oder indirekt gehaltene Beteiligungen von mindestens 20 Prozent am Grund- oder Stammkapital einer anderen Kapitalgesellschaft oder Genossenschaft, Betriebe oder Teilbetriebe sowie Gegenstände des betrieblichen Anlagevermögens zu den bisher für die Gewinnsteuer massgeblichen Werten übertragen werden. Vorbehalten bleibt die Übertragung auf eine inländische Tochtergesellschaft nach Absatz 1 Ziffer 4.
+<sup>3</sup> Zwischen inländischen Kapitalgesellschaften und Genossenschaften, die nach dem Gesamtbild der tatsächlichen Verhältnisse durch Stimmenmehrheit oder auf andere Weise unter einheitlicher Leitung einer Kapitalgesellschaft oder Genossenschaft zusammengefasst sind, können direkt oder indirekt gehaltene Beteiligungen von mindestens 20 Prozent am Grund- oder Stammkapital einer anderen Kapitalgesellschaft oder Genossenschaft, Betriebe oder Teilbetriebe sowie Gegenstände des betrieblichen Anlagevermögens zu den bisher für die Gewinnsteuer massgeblichen Werten übertragen werden. Vorbehalten bleibt die Übertragung auf eine inländische Tochtergesellschaft nach Abs. 1 Ziff. 4.
 
-<sup>4</sup> Werden im Fall einer Übertragung nach Absatz 3 während der nachfolgenden fünf Jahre die übertragenen Vermögenswerte veräussert oder wird während dieser Zeit die einheitliche Leitung aufgegeben, so werden die übertragenen stillen Reserven im Verfahren nach den §§ 204 bis 206 nachträglich besteuert. Die begünstigte juristische Person kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen. Die im Zeitpunkt der Sperrfristverletzung unter einheitlicher Leitung zusammengefassten inländischen Kapitalgesellschaften und Genossenschaften haften für die Nachsteuer solidarisch.
+<sup>4</sup> Werden im Fall einer Übertragung nach Abs. 3 während der nachfolgenden fünf Jahre die übertragenen Vermögenswerte veräussert oder wird während dieser Zeit die einheitliche Leitung aufgegeben, so werden die übertragenen stillen Reserven im Verfahren nach § 204 bis § 206 nachträglich besteuert. Die begünstigte juristische Person kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen. Die im Zeitpunkt der Sperrfristverletzung unter einheitlicher Leitung zusammengefassten inländischen Kapitalgesellschaften und Genossenschaften haften für die Nachsteuer solidarisch.
 
 <sup>5</sup> Entsteht durch die Übernahme der Aktiven und Passiven einer Kapitalgesellschaft oder einer Genossenschaft, deren Beteiligungsrechte der übernehmenden Kapitalgesellschaft oder Genossenschaft gehören, ein Buchverlust auf der Beteiligung, so kann dieser steuerlich nicht abgezogen werden; ein allfälliger Buchgewinn auf der Beteiligung wird besteuert.
 
@@ -1136,7 +1159,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Vom Reingewinn der Steuerperiode können Verluste aus den sieben der Steuerperiode vorangegangenen Geschäftsjahren abgezogen werden, soweit sie bei der Berechnung des steuerbaren Reingewinnes dieser Jahre nicht berücksichtigt werden konnten.
 
-<sup>2</sup> Mit Leistungen zum Ausgleich einer Unterbilanz im Rahmen einer Sanierung, die nicht Kapitaleinlagen gemäss § 78 Ziffer 1 sind, können auch Verluste verrechnet werden, die in früheren Geschäftsjahren entstanden sind und noch nicht mit Gewinnen verrechnet werden konnten.
+<sup>2</sup> Mit Leistungen zum Ausgleich einer Unterbilanz im Rahmen einer Sanierung, die nicht Kapitaleinlagen gemäss § 78 Ziff. 1 sind, können auch Verluste verrechnet werden, die in früheren Geschäftsjahren entstanden sind und noch nicht mit Gewinnen verrechnet werden konnten.
 
 #### § 83
 
@@ -1178,7 +1201,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 1\. soweit der Veräusserungserlös die Gestehungskosten übersteigt und
 - 2\. soweit die veräusserte Beteiligung mindestens 10 Prozent des Grund- oder Stammkapitals einer anderen Gesellschaft betrug oder einen Anspruch auf mindestens 10 Prozent des Gewinns und der Reserven einer anderen Gesellschaft begründete und während mindestens eines Jahres im Besitz der veräussernden Kapitalgesellschaft oder Genossenschaft war. Fällt die Beteiligungsquote infolge Teilveräusserung unter 10 Prozent, kann die Ermässigung für jeden folgenden Veräusserungsgewinn nur beansprucht werden, wenn die Beteiligungsrechte am Ende des Steuerjahres vor dem Verkauf einen Verkehrswert von mindestens Fr. 1'000'000 hatten.
 
-<sup>6</sup> Transaktionen, die im Konzern eine ungerechtfertigte Steuerersparnis bewirken, führen zu einer Berichtigung des steuerbaren Reingewinnes oder zu einer Kürzung der Ermässigung. Eine ungerechtfertigte Steuerersparnis liegt vor, wenn Kapitalgewinne und Kapitalverluste oder Abschreibungen auf Beteiligungen im Sinne der §§ 77 und 86 in kausalem Zusammenhang stehen.
+<sup>6</sup> Transaktionen, die im Konzern eine ungerechtfertigte Steuerersparnis bewirken, führen zu einer Berichtigung des steuerbaren Reingewinnes oder zu einer Kürzung der Ermässigung. Eine ungerechtfertigte Steuerersparnis liegt vor, wenn Kapitalgewinne und Kapitalverluste oder Abschreibungen auf Beteiligungen im Sinne von § 77 und § 86 in kausalem Zusammenhang stehen.
 
 #### § 86a
 
@@ -1190,7 +1213,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Ermässigungsbegrenzung**
 
-<sup>1</sup> Die gesamte steuerliche Ermässigung nach § 76b und § 77a darf nicht höher sein als 50 Prozent des steuerbaren Gewinns vor Verlustverrechnung, wobei der Nettobeteiligungsertrag nach § 86 Absätze 1 und 5 ausgeklammert wird, und vor Abzug der vorgenommenen Ermässigungen.
+<sup>1</sup> Die gesamte steuerliche Ermässigung nach § 76b und § 77a darf nicht höher sein als 50 Prozent des steuerbaren Gewinns vor Verlustverrechnung, wobei der Nettobeteiligungsertrag nach § 86 Abs. 1 und Abs. 5 ausgeklammert wird, und vor Abzug der vorgenommenen Ermässigungen.
 
 <sup>2</sup> Weder aus den einzelnen Ermässigungen noch aus der gesamten steuerlichen Ermässigung dürfen Verlustvorträge resultieren.
 
@@ -1363,9 +1386,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Steuerbar sind:
 
-- 1\. die Einkommen aus unselbständiger Erwerbstätigkeit nach § 109 Absatz 1, die Nebeneinkünfte wie geldwerte Vorteile aus Mitarbeiterbeteiligungen sowie Naturalleistungen, nicht jedoch die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung nach § 34 Absatz 1 Ziffer 16;
+- 1\. die Einkommen aus unselbständiger Erwerbstätigkeit nach § 109 Abs. 1, die Nebeneinkünfte wie geldwerte Vorteile aus Mitarbeiterbeteiligungen sowie Naturalleistungen, nicht jedoch die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung nach § 34 Abs. 1 Ziff. 16;
 - 2\. die Ersatzeinkünfte; und
-- 3\. die Leistungen nach Artikel 18 Absatz 3 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG)[^110-1].
+- 3\. die Leistungen nach Art. 18 Abs. 3 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG)[^110-1].
 
 [^110-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 
@@ -1381,22 +1404,22 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Bei der Festsetzung der Steuertarife werden Pauschalen für Berufsauslagen und Versicherungsprämien sowie Abzüge für Familienlasten berücksichtigt.
 
-<sup>2</sup> Der Steuerabzug für in ungetrennter Ehe lebende Ehegatten, die beide erwerbstätig sind, richtet sich nach Tarifen, die ihrem Gesamteinkommen Rechnung tragen und die Pauschalen und Abzüge gemäss Absatz 1 berücksichtigen.
+<sup>2</sup> Der Steuerabzug für in ungetrennter Ehe lebende Ehegatten, die beide erwerbstätig sind, richtet sich nach Tarifen, die ihrem Gesamteinkommen Rechnung tragen und die Pauschalen und Abzüge gemäss Abs. 1 berücksichtigen.
 
-<sup>3</sup> Die Eidgenössische Steuerverwaltung legt zusammen mit den Kantonen einheitlich fest, wie insbesondere der 13. Monatslohn, Gratifikationen, unregelmässige Beschäftigung, Stundenlöhner, Teilzeit- oder Nebenerwerb sowie Leistungen nach Artikel 18 Absatz 3 AHVG und welche satzbestimmenden Elemente zu berücksichtigen sind. Weiter regeln sie, wie bei Tarifwechsel, rückwirkenden Gehaltsanpassungen und -korrekturen sowie Leistungen vor Beginn und nach Beendigung der Anstellung zu verfahren ist.
+<sup>3</sup> Die Eidgenössische Steuerverwaltung legt zusammen mit den Kantonen einheitlich fest, wie insbesondere der 13. Monatslohn, Gratifikationen, unregelmässige Beschäftigung, Stundenlöhner, Teilzeit- oder Nebenerwerb sowie Leistungen nach Art. 18 Abs. 3 AHVG und welche satzbestimmenden Elemente zu berücksichtigen sind. Weiter regeln sie, wie bei Tarifwechsel, rückwirkenden Gehaltsanpassungen und -korrekturen sowie Leistungen vor Beginn und nach Beendigung der Anstellung zu verfahren ist.
 
 #### § 113
 
 **Obligatorische nachträgliche ordentliche Veranlagung**
 
-<sup>1</sup> Personen, die nach § 109 Absatz 1 der Quellensteuer unterliegen, werden nachträglich im ordentlichen Verfahren veranlagt, wenn:
+<sup>1</sup> Personen, die nach § 109 Abs. 1 der Quellensteuer unterliegen, werden nachträglich im ordentlichen Verfahren veranlagt, wenn:
 
 - 1\. ihr Bruttoeinkommen in einem Steuerjahr einen durch das Eidgenössische Finanzdepartement bestimmten Betrag erreicht oder übersteigt; oder
 - 2\. sie über Vermögen und Einkünfte verfügen, die nicht der Quellensteuer unterliegen.
 
-<sup>2</sup> Der nachträglichen ordentlichen Veranlagung unterliegt auch, wer mit einer Person nach Absatz 1 in rechtlich und tatsächlich ungetrennter Ehe lebt.
+<sup>2</sup> Der nachträglichen ordentlichen Veranlagung unterliegt auch, wer mit einer Person nach Abs. 1 in rechtlich und tatsächlich ungetrennter Ehe lebt.
 
-<sup>3</sup> Personen mit Vermögen und Einkünften nach Absatz 1 Ziffer 2 müssen das Formular für die Steuererklärung bis am 31. März des auf das Steuerjahr folgenden Jahres bei der zuständigen Behörde verlangen.
+<sup>3</sup> Personen mit Vermögen und Einkünften nach Abs. 1 Ziff. 2 müssen das Formular für die Steuererklärung bis am 31. März des auf das Steuerjahr folgenden Jahres bei der zuständigen Behörde verlangen.
 
 <sup>4</sup> Die nachträgliche ordentliche Veranlagung gilt bis zum Ende der Quellensteuerpflicht.
 
@@ -1406,7 +1429,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Nachträgliche ordentliche Veranlagung auf Antrag**
 
-<sup>1</sup> Personen, die nach § 109 Absatz 1 der Quellensteuer unterliegen und keine der Voraussetzungen nach § 113 Absatz 1 erfüllen, werden auf Antrag hin nachträglich im ordentlichen Verfahren veranlagt.
+<sup>1</sup> Personen, die nach § 109 Abs. 1 der Quellensteuer unterliegen und keine der Voraussetzungen nach § 113 Abs. 1 erfüllen, werden auf Antrag hin nachträglich im ordentlichen Verfahren veranlagt.
 
 <sup>2</sup> Der Antrag erstreckt sich auch auf den Ehegatten, der mit dem Antragsteller in rechtlich und tatsächlich ungetrennter Ehe lebt.
 
@@ -1414,7 +1437,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>4</sup> Erfolgt keine nachträgliche ordentliche Veranlagung auf Antrag, tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern des Bundes, des Kantons und der Gemeinden auf dem Erwerbseinkommen. Nachträglich werden keine zusätzlichen Abzüge gewährt.
 
-<sup>5</sup> § 113 Absätze 4 und 5 sind anwendbar.
+<sup>5</sup> § 113 Abs. 4 und Abs. 5 sind anwendbar.
 
 ### 1.4.2. Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
 
@@ -1422,9 +1445,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Arbeitnehmer**
 
-<sup>1</sup> Im Ausland wohnhafte Grenzgänger, Wochenaufenthalter und Kurzaufenthalter unterliegen für ihr in der Schweiz erzieltes Einkommen aus unselbständiger Erwerbstätigkeit der Quellensteuer nach den §§ 109 bis 112. Davon ausgenommen sind Einkommen, die der Besteuerung im vereinfachten Abrechnungsverfahren nach § 38a unterstehen.
+<sup>1</sup> Im Ausland wohnhafte Grenzgänger, Wochenaufenthalter und Kurzaufenthalter unterliegen für ihr in der Schweiz erzieltes Einkommen aus unselbständiger Erwerbstätigkeit der Quellensteuer nach § 109 bis § 112. Davon ausgenommen sind Einkommen, die der Besteuerung im vereinfachten Abrechnungsverfahren nach § 38a unterstehen.
 
-<sup>2</sup> Ebenfalls der Quellensteuer nach den §§ 109 bis 112 unterliegen im Ausland wohnhafte Arbeitnehmer, die für Arbeit im internationalen Verkehr an Bord eines Schiffes oder eines Luftfahrzeuges oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber mit Sitz oder Betriebsstätte in der Schweiz erhalten; davon ausgenommen bleibt die Besteuerung der Seeleute für Arbeit an Bord eines Hochseeschiffes.
+<sup>2</sup> Ebenfalls der Quellensteuer nach § 109 bis § 112 unterliegen im Ausland wohnhafte Arbeitnehmer, die für Arbeit im internationalen Verkehr an Bord eines Schiffes oder eines Luftfahrzeuges oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber mit Sitz oder Betriebsstätte in der Schweiz erhalten; davon ausgenommen bleibt die Besteuerung der Seeleute für Arbeit an Bord eines Hochseeschiffes.
 
 #### § 115
 
@@ -1483,7 +1506,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Empfänger von Mitarbeiterbeteiligungen**
 
-<sup>1</sup> Personen, die im Zeitpunkt des Zuflusses von geldwerten Vorteilen aus gesperrten Mitarbeiteroptionen (§ 19b Absatz 3) im Ausland wohnhaft sind, werden für den geldwerten Vorteil anteilsmässig nach § 19d steuerpflichtig.
+<sup>1</sup> Personen, die im Zeitpunkt des Zuflusses von geldwerten Vorteilen aus gesperrten Mitarbeiteroptionen (§ 19b Abs. 3) im Ausland wohnhaft sind, werden für den geldwerten Vorteil anteilsmässig nach § 19d steuerpflichtig.
 
 <sup>2</sup> Die Steuer beträgt 13 Prozent des geldwerten Vorteils.
 
@@ -1499,7 +1522,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
 
-<sup>3</sup> Das Eidgenössische Finanzdepartement präzisiert die Voraussetzungen nach Absatz 1 und regelt das Verfahren.
+<sup>3</sup> Das Eidgenössische Finanzdepartement präzisiert die Voraussetzungen nach Abs. 1 und regelt das Verfahren.
 
 #### § 120c
 
@@ -1547,24 +1570,24 @@ vom 14.09.1992 (Stand 01.01.2021)
 <sup>1</sup> Der Schuldner der steuerbaren Leistung berechnet und erhebt die Quellensteuer wie folgt:
 
 - 1\. für Arbeitnehmer nach § 109: nach dem Recht jenes Kantons, in dem der Arbeitnehmer bei Fälligkeit der steuerbaren Leistung seinen steuerrechtlichen Wohnsitz oder Aufenthalt hat;
-- 2\. für Personen nach §§ 114 und 116 bis 120a: nach dem Recht jenes Kantons, in dem der Schuldner der steuerbaren Leistung bei Fälligkeit der steuerbaren Leistung seinen steuerrechtlichen Wohnsitz oder Aufenthalt oder seinen Sitz oder die Verwaltung hat; wird die steuerbare Leistung von einer Betriebsstätte in einem anderen Kanton oder von der Betriebsstätte eines Unternehmens ohne Sitz oder tatsächliche Verwaltung in der Schweiz ausgerichtet, so richten sich die Berechnung und die Erhebung der Quellensteuer nach dem Recht des Kantons, in dem die Betriebsstätte liegt;
+- 2\. für Personen nach § 114 und § 116 bis § 120a: nach dem Recht jenes Kantons, in dem der Schuldner der steuerbaren Leistung bei Fälligkeit der steuerbaren Leistung seinen steuerrechtlichen Wohnsitz oder Aufenthalt oder seinen Sitz oder die Verwaltung hat; wird die steuerbare Leistung von einer Betriebsstätte in einem anderen Kanton oder von der Betriebsstätte eines Unternehmens ohne Sitz oder tatsächliche Verwaltung in der Schweiz ausgerichtet, so richten sich die Berechnung und die Erhebung der Quellensteuer nach dem Recht des Kantons, in dem die Betriebsstätte liegt;
 - 3\. für Personen nach § 115: nach dem Recht jenes Kantons, in dem der Künstler, Sportler oder Referent seine Tätigkeit ausübt.
 
-<sup>2</sup> Ist der Arbeitnehmer nach § 114 Wochenaufenthalter, so gilt Absatz 1 Ziffer 1 sinngemäss.
+<sup>2</sup> Ist der Arbeitnehmer nach § 114 Wochenaufenthalter, so gilt Abs. 1 Ziff. 1 sinngemäss.
 
-<sup>3</sup> Der Schuldner der steuerbaren Leistung überweist die Quellensteuer an den nach Absatz 1 zuständigen Kanton.
+<sup>3</sup> Der Schuldner der steuerbaren Leistung überweist die Quellensteuer an den nach Abs. 1 zuständigen Kanton.
 
 <sup>4</sup> Für die nachträgliche ordentliche Veranlagung ist zuständig:
 
-- 1\. für Arbeitnehmer nach Absatz 1 Ziffer 1: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht ihren steuerrechtlichen Wohnsitz oder Aufenthalt hatte;
-- 2\. für Steuerpflichtige nach Absatz 1 Ziffer 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht erwerbstätig war;
-- 3\. für Arbeitnehmer nach Absatz 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht Wochenaufenthalt hatte.
+- 1\. für Arbeitnehmer nach Abs. 1 Ziff. 1: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht ihren steuerrechtlichen Wohnsitz oder Aufenthalt hatte;
+- 2\. für Steuerpflichtige nach Abs. 1 Ziff. 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht erwerbstätig war;
+- 3\. für Arbeitnehmer nach Abs. 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht Wochenaufenthalt hatte.
 
 #### § 122b
 
 **Interkantonales Verhältnis**
 
-<sup>1</sup> Der nach § 122a Absatz 4 zuständige Kanton hat Anspruch auf allfällige im Kalenderjahr an andere Kantone überwiesene Quellensteuerbeträge. Zu viel bezogene Steuern werden dem Arbeitnehmer zurückerstattet, zu wenig bezogene Steuern nachgefordert.
+<sup>1</sup> Der nach § 122a Abs. 4 zuständige Kanton hat Anspruch auf allfällige im Kalenderjahr an andere Kantone überwiesene Quellensteuerbeträge. Zu viel bezogene Steuern werden dem Arbeitnehmer zurückerstattet, zu wenig bezogene Steuern nachgefordert.
 
 <sup>2</sup> Die Steuerbehörden leisten einander bei der Erhebung der Quellensteuer unentgeltliche Amts- und Rechtshilfe.
 
@@ -1576,9 +1599,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Steuerobjekt**
 
-<sup>1</sup> Die Liegenschaftensteuer wird jährlich auf den im Kanton gelegenen Grundstücken im Sinn von Artikel 655 ZGB[^123-1] erhoben.
+<sup>1</sup> Die Liegenschaftensteuer wird jährlich auf den im Kanton gelegenen Grundstücken im Sinn von Art. 655 ZGB[^123-1] erhoben.
 
-<sup>2</sup> Grundstücke der gemäss § 75 Absatz 1 Ziffer 7 steuerbefreiten juristischen Personen sind von der Liegenschaftensteuer ausgenommen, sofern die Grundstücke zur unmittelbaren Erfüllung der steuerbefreiten Zwecke dienen.
+<sup>2</sup> Grundstücke der gemäss § 75 Abs. 1 Ziff. 7 steuerbefreiten juristischen Personen sind von der Liegenschaftensteuer ausgenommen, sofern die Grundstücke zur unmittelbaren Erfüllung der steuerbefreiten Zwecke dienen.
 
 [^123-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
@@ -1596,7 +1619,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Steuersatz**
 
-<sup>1</sup> Die Liegenschaftensteuer beträgt 0,5 Promille des Wertes gemäss den §§ 43 und 44 ohne Schuldenabzug.
+<sup>1</sup> Die Liegenschaftensteuer beträgt 0,5 Promille des Wertes gemäss § 43 und § 44 ohne Schuldenabzug.
 
 ### 1.5.2. Grundstückgewinnsteuer
 
@@ -1610,7 +1633,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 2\. …
 - 2a. Gewinne aus der Veräusserung von land- und forstwirtschaftlichen Grundstücken des Geschäftsvermögens natürlicher Personen, soweit sie nicht mit der Einkommenssteuer erfasst werden;
 - 3\. …
-- 4\. Gewinne aus der Veräusserung von Grundstücken juristischer Personen, die gemäss § 75 Absatz 1 Ziffern 4 bis 8 von der Steuerpflicht befreit sind.
+- 4\. Gewinne aus der Veräusserung von Grundstücken juristischer Personen, die gemäss § 75 Abs. 1 Ziff. 4 bis Ziff. 8 von der Steuerpflicht befreit sind.
 
 <sup>2</sup> Der Veräusserung von Grundstücken ist die Veräusserung von Anteilen an solchen gleichgestellt.
 
@@ -1622,7 +1645,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Als Veräusserung gelten auch:
 
-- 1\. Rechtsgeschäfte, die hinsichtlich der Verfügungsgewalt über Grundstücke wirtschaftlich wie eine Veräusserung im Sinne von Absatz 1 wirken;
+- 1\. Rechtsgeschäfte, die hinsichtlich der Verfügungsgewalt über Grundstücke wirtschaftlich wie eine Veräusserung im Sinne von Abs. 1 wirken;
 - 2\. die Belastung von Grundstücken mit Dienstbarkeiten oder Eigentumsbeschränkungen gegen Entgelt, wenn diese die Bewirtschaftung oder den Veräusserungswert der Grundstücke dauernd und wesentlich beeinträchtigen. Wird das Entgelt nur während beschränkter Zeit ausgerichtet, unterliegt es der Einkommens- oder Gewinnsteuer;
 - 3\. die Überführung von Grundstücken des Privatvermögens in das Geschäftsvermögen.
 
@@ -1645,11 +1668,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 9\. Veräusserung einer dauernd und ausschliesslich selbstgenutzten Wohnliegenschaft, soweit der Erlös innert angemessener Frist vor und nach der Veräusserung zum Erwerb oder zum Bau einer gleichgenutzten Ersatzliegenschaft in der Schweiz verwendet wird;
 - 10\. …
 
-<sup>2</sup> Der Steueraufschub gemäss Absatz 1 Ziffern 8 und 9 gilt nur soweit, als der in das Ersatzgrundstück reinvestierte Betrag die Anlagekosten des veräusserten Grundstücks übersteigt.
+<sup>2</sup> Der Steueraufschub gemäss Abs. 1 Ziff. 8 und Ziff. 9 gilt nur soweit, als der in das Ersatzgrundstück reinvestierte Betrag die Anlagekosten des veräusserten Grundstücks übersteigt.
 
-<sup>3</sup> …
-
-<sup>4</sup> Die aufgeschobene Besteuerung nach Absatz 1 Ziffern 8 und 9 wird im Nachsteuerverfahren nach den §§ 204 bis 206 nachgeholt, wenn das Ersatzgrundstück innert fünf Jahren seit der Veräusserung des ersetzten Grundstückes veräussert oder dauernd einer anderen Nutzung zugeführt wird.
+<sup>3–4</sup> …
 
 #### § 130
 
@@ -1667,7 +1688,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Massgebend für die Berechnung des Gewinnes und der Besitzesdauer ist die letzte steuerbegründende Handänderung.
 
-<sup>3</sup> Wird das Ersatzgrundstück nach einer aufgeschobenen Besteuerung veräussert, ist der Grundstückgewinn in dem Kanton steuerbar, in dem das Ersatzgrundstück liegt. Vorbehalten bleibt § 129 Absatz 4.
+<sup>3</sup> Wird das Ersatzgrundstück nach einer aufgeschobenen Besteuerung veräussert, ist der Grundstückgewinn in dem Kanton steuerbar, in dem das Ersatzgrundstück liegt. Vorbehalten bleibt § 129 Abs. 4.
 
 #### § 132
 
@@ -1687,7 +1708,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>3</sup> Bei Erwerb mit Steueraufschub ist der Erwerbspreis bei der letzten Veräusserung massgebend, die keinen Steueraufschub bewirkt hat oder bewirkt hätte.
 
-<sup>4</sup> Wird nach einer aufgeschobenen Besteuerung gemäss § 129 Absatz 1 Ziffern 8 und 9 oder einer entsprechenden Bestimmung eines anderen Kantons das Ersatzgrundstück veräussert, ist bei der Ermittlung des Grundstückgewinnes der aufgeschobene Gewinn von den Anlagekosten des Ersatzgrundstückes abzuziehen.
+<sup>4</sup> Wird nach einer aufgeschobenen Besteuerung gemäss § 129 Abs. 1 Ziff. 8 und Ziff. 9 oder einer entsprechenden Bestimmung eines anderen Kantons das Ersatzgrundstück veräussert, ist bei der Ermittlung des Grundstückgewinnes der aufgeschobene Gewinn von den Anlagekosten des Ersatzgrundstückes abzuziehen.
 
 <sup>5</sup> Liegt die massgebliche Handänderung bei natürlichen Personen mehr als 20 Jahre zurück, kann der Steuerpflichtige den durch die Steuerschätzung festgelegten Wert des Grundstückes vor 20 Jahren in Anrechnung bringen.
 
@@ -1723,19 +1744,19 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Der Handänderungssteuer unterliegen Eigentumsübertragungen von Grundstücken.
 
-<sup>2</sup> Als Eigentumsübertragung gelten auch Rechtsgeschäfte, die hinsichtlich der Verfügungsgewalt über Grundstücke wirtschaftlich wie eine Veräusserung wirken.
+<sup>2</sup> Ebenso steuerpflichtig sind Rechtsgeschäfte gemäss § 86a und § 127 Abs. 2 Ziff. 1 und Ziff. 2.
 
 #### § 138
 
 **Steuerbefreiung und Nachbesteuerung**
 
-<sup>1</sup> Die in § 129 Absatz 1 Ziffern 1 bis 9 genannten Veräusserungen sowie Handänderungen zwischen Eltern und Nachkommen, Stief- oder Schwiegerkindern und zwischen Geschwistern sind von der Handänderungssteuer befreit; ausgenommen sind Aufzahlungen und freihändiger Verkauf gemäss Ziffer 6 sowie die Nachbesteuerung gemäss Absatz 4.
+<sup>1</sup> Die in § 129 Abs. 1 Ziff. 1 bis Ziff. 9 genannten Veräusserungen sowie Handänderungen zwischen Eltern und Nachkommen, Stief- oder Schwiegerkindern und zwischen Geschwistern sind von der Handänderungssteuer befreit. Ausgenommen sind Aufzahlungen und freihändiger Verkauf gemäss Ziff. 6.
 
-<sup>2</sup> Bei der Ersatzbeschaffung nach § 129 Absatz 1 Ziffern 8 und 9 gilt die Steuerbefreiung im Umfang der Reinvestition des Veräusserungserlöses in das Ersatzgrundstück.
+<sup>2</sup> Bei der Ersatzbeschaffung nach § 129 Abs. 1 Ziff. 8 und Ziff. 9 gilt die Steuerbefreiung im Umfang der Reinvestition des Veräusserungserlöses in das Ersatzgrundstück.
 
-<sup>3</sup> Handänderungen im Zusammenhang mit Umstrukturierungen im Sinne von § 21 Absatz 1 beziehungsweise § 79 Absätze 1 und 3 bleiben steuerfrei. Vorbehalten bleibt die Nachbesteuerung in Fällen gemäss § 21 Absatz 2 beziehungsweise § 79 Absätze 2 und 4.
+<sup>3</sup> Handänderungen im Zusammenhang mit Umstrukturierungen im Sinne von § 21 Abs. 1 beziehungsweise § 79 Abs. 1 und Abs. 3 bleiben steuerfrei. Vorbehalten bleibt die Nachbesteuerung in Fällen gemäss § 21 Abs. 2 beziehungsweise § 79 Abs. 2 und Abs. 4.
 
-<sup>4</sup> Ersatzbeschaffungen von Grundstücken des betrieblichen Anlagevermögens nach § 31 Absatz 1 und § 80 Absatz 1 bleiben von der Handänderungssteuer befreit. Vorbehalten bleibt die Nachbesteuerung in Fällen gemäss § 31 Absatz 2.
+<sup>4</sup> Ersatzbeschaffungen von Grundstücken des betrieblichen Anlagevermögens nach § 31 Abs. 1 und § 80 Abs. 1 bleiben von der Handänderungssteuer befreit. Vorbehalten bleibt die Nachbesteuerung in Fällen gemäss § 31 Abs. 2.
 
 #### § 139
 
@@ -1821,6 +1842,12 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen des Datenschutzgesetzes.
 
+#### § 147b
+
+**Melderecht**
+
+<sup>1</sup> Die Steuerverwaltung kann Verdachtsfälle von ungerechtfertigten Bezügen von Sozialversicherungs- oder Sozialhilfeleistungen direkt den davon betroffenen Sozialversicherungs- und Sozialhilfebehörden melden.
+
 #### § 148
 
 **Amtshilfe**
@@ -1853,13 +1880,13 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Die Steuerbehörden können von einem Steuerpflichtigen mit Wohnsitz oder Sitz im Ausland verlangen, dass er einen Vertreter in der Schweiz bezeichnet.
 
-<sup>3</sup> Personen, die nach § 120b eine nachträgliche, ordentliche Veranlagung beantragen, müssen die erforderlichen Unterlagen einreichen und eine Zustelladresse in der Schweiz bezeichnen. Wird keine Zustelladresse bezeichnet oder verliert die Zustelladresse während des Veranlagungsverfahrens ihre Gültigkeit, gewährt die zuständige Behörde der steuerpflichtigen Person eine angemessene Frist für die Bezeichnung einer gültigen Zustelladresse. Läuft diese Frist ungenutzt ab, tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Staats- und Gemeindesteuer auf dem Erwerbseinkommen. § 164 Absatz 3 gilt sinngemäss.
+<sup>3</sup> Personen, die nach § 120b eine nachträgliche, ordentliche Veranlagung beantragen, müssen die erforderlichen Unterlagen einreichen und eine Zustelladresse in der Schweiz bezeichnen. Wird keine Zustelladresse bezeichnet oder verliert die Zustelladresse während des Veranlagungsverfahrens ihre Gültigkeit, gewährt die zuständige Behörde der steuerpflichtigen Person eine angemessene Frist für die Bezeichnung einer gültigen Zustelladresse. Läuft diese Frist ungenutzt ab, tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Staats- und Gemeindesteuer auf dem Erwerbseinkommen. § 164 Abs. 3 gilt sinngemäss.
 
 #### § 152
 
 **Veranlagungsverjährung**
 
-<sup>1</sup> Das Recht zur Veranlagung einer Steuer verjährt fünf Jahre nach Ablauf der Steuerperiode. Vorbehalten bleiben die §§ 205, 219 und 220.
+<sup>1</sup> Das Recht zur Veranlagung einer Steuer verjährt fünf Jahre nach Ablauf der Steuerperiode. Vorbehalten bleiben § 205, § 219 und § 220.
 
 <sup>2</sup> Die Verjährung beginnt nicht oder steht still:
 
@@ -1881,13 +1908,13 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Steuerforderungen verjähren fünf Jahre nach Rechtskraft der Veranlagung.
 
-<sup>2</sup> Stillstand und Unterbrechung der Verjährung richten sich nach § 152 Absätze 2 und 3. Die Verjährung wird zudem durch Einreichung eines Stundungs- oder Erlassgesuches unterbrochen.
+<sup>2</sup> Stillstand und Unterbrechung der Verjährung richten sich nach § 152 Abs. 2 und Abs. 3. Die Verjährung wird zudem durch Einreichung eines Stundungs- oder Erlassgesuches unterbrochen.
 
 <sup>3</sup> Das Recht zum Steuerbezug verjährt in jedem Fall zehn Jahre nach Ablauf des Jahres, in dem die Steuern rechtskräftig veranlagt worden sind.
 
 #### § 153a
 
-**Elektronischer Datenaustausch**
+**Elektronisches Verfahren**
 
 <sup>1</sup> Die Steuerverwaltung regelt die Voraussetzungen für den elektronischen Austausch von Daten zwischen den Steuerpflichtigen und den Steuerbehörden, insbesondere für die elektronische Einreichung der Steuererklärung.
 
@@ -1907,7 +1934,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Elektronisch erfasste und aufbewahrte Daten und Informationen haben die gleiche Beweiskraft wie Daten und Informationen, die ohne Hilfsmittel lesbar sind, sofern der Nachweis des Ursprungs und der Integrität erbracht werden kann.
 
-<sup>2</sup> Der Regierungsrat regelt die in Absatz 1 genannten Voraussetzungen.
+<sup>2</sup> Der Regierungsrat regelt die in Abs. 1 genannten Voraussetzungen.
 
 #### § 153d
 
@@ -1945,7 +1972,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>3</sup> Der Steuerpflichtige, der die Steuererklärung nicht oder mangelhaft ausgefüllt einreicht, wird aufgefordert, das Versäumte innert angemessener Frist nachzuholen.
 
-<sup>4</sup> Die Steuerdeklaration sowie das Anbringen von zusätzlichen Hinweisen haben infolge der elektronischen Erfassung gemäss § 153b Absatz 1 ausschliesslich in den dafür vorgesehenen Formularfeldern zu erfolgen. Ausserhalb dieser Formularfelder angebrachte Hinweise und Angaben gelten als nicht erfolgt und nicht aktenkundig.
+<sup>4</sup> Die Steuerdeklaration sowie das Anbringen von zusätzlichen Hinweisen haben infolge der elektronischen Erfassung gemäss § 153b Abs. 1 ausschliesslich in den dafür vorgesehenen Formularfeldern zu erfolgen. Ausserhalb dieser Formularfelder angebrachte Hinweise und Angaben gelten als nicht erfolgt und nicht aktenkundig.
 
 #### § 156
 
@@ -2065,7 +2092,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Allgemeines**
 
-<sup>1</sup> Die Bestimmungen über das Veranlagungsverfahren nach den §§ 154 folgende finden sinngemäss auf die Grundsteuern Anwendung.
+<sup>1</sup> Die Bestimmungen über das Veranlagungsverfahren nach § 154 folgende finden sinngemäss auf die Grundsteuern Anwendung.
 
 #### § 168
 
@@ -2093,7 +2120,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Verfahrenspflichten**
 
-<sup>1</sup> Der Steuerpflichtige und der Schuldner der steuerbaren Leistung haben auf Verlangen über die für die Erhebung der Quellensteuern massgebenden Verhältnisse mündlich oder schriftlich Auskunft zu erteilen. Die Vorschriften der §§ 154 folgende sind sinngemäss anwendbar.
+<sup>1</sup> Der Steuerpflichtige und der Schuldner der steuerbaren Leistung haben auf Verlangen über die für die Erhebung der Quellensteuern massgebenden Verhältnisse mündlich oder schriftlich Auskunft zu erteilen. Die Vorschriften von § 154 folgende sind sinngemäss anwendbar.
 
 #### § 172
 
@@ -2132,7 +2159,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Gegen Einspracheentscheide der Steuerverwaltung kann der Steuerpflichtige innert 30 Tagen nach Zustellung Rekurs bei der Steuerrekurskommission erheben.
 
-<sup>2</sup> § 164 Absatz 3 gilt sinngemäss.
+<sup>2</sup> § 164 Abs. 3 gilt sinngemäss.
 
 #### § 176
 
@@ -2142,7 +2169,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Die Gerichtsferien gemäss § 63 des Gesetzes über die Verwaltungsrechtspflege[^176-1] haben im Steuerverfahren keine Geltung.
 
-<sup>3</sup> § 164 Absatz 3 gilt sinngemäss.
+<sup>3</sup> § 164 Abs. 3 gilt sinngemäss.
 
 [^176-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
@@ -2176,7 +2203,8 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 - a. wenn erhebliche Tatsachen oder Beweismittel entdeckt werden;
 - b. wenn die erkennende Behörde erhebliche Tatsachen oder entscheidende Beweismittel, die ihr bekannt waren oder bekannt sein mussten, ausser acht gelassen oder in anderer Weise wesentliche Verfahrensgrundsätze verletzt hat;
-- c. wenn ein Verbrechen oder ein Vergehen die Verfügung oder den Entscheid beeinflusst hat.
+- c. wenn ein Verbrechen oder ein Vergehen die Verfügung oder den Entscheid beeinflusst hat;
+- d. wenn bei interkantonalen oder internationalen Doppelbesteuerungskonflikten die für die Beurteilung des Revisionsgesuchs zuständige Behörde zum Schluss kommt, dass nach dem anwendbaren Recht zur Vermeidung der Doppelbesteuerung der Kanton Thurgau sein Besteuerungsrecht einschränken müsste.
 
 <sup>2</sup> Die Revision ist ausgeschlossen, wenn der Antragssteller als Revisionsgrund vorbringt, was er bei der ihm zumutbaren Sorgfalt schon im ordentlichen Verfahren hätte geltend machen können.
 
@@ -2240,7 +2268,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Stehen der Erfüllung dieser Auskunftspflicht wichtige Gründe entgegen, können Dritte die verlangten Angaben direkt der Inventarbehörde machen.
 
-<sup>3</sup> Im übrigen gelten die §§ 158 und 159 sinngemäss.
+<sup>3</sup> Im übrigen gelten § 158 und § 159 sinngemäss.
 
 #### § 186
 
@@ -2280,9 +2308,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Schlussrechnung**
 
-<sup>1</sup> Die Schlussrechnung wird dem Steuerpflichtigen nach Vornahme der Veranlagung zugestellt. Bisher erfolgte Zahlungen werden an die veranlagte Steuer angerechnet.
+<sup>1</sup> Die Schlussrechnung wird der steuerpflichtigen Person nach Vornahme der Veranlagung zugestellt. Sie kann zusammen mit der Veranlagung eröffnet werden. Bisher erfolgte Zahlungen werden an die veranlagte Steuer angerechnet.
 
-<sup>2</sup> Steuerpflichtige Personen mit Wohnsitz im Kanton erhalten für jedes minderjährige Kind, für das sie einen Abzug nach § 36 Absatz 2 Ziffer 1 geltend machen können, mit der Schlussrechnung eine Steuergutschrift von Fr. 100.
+<sup>2</sup> Steuerpflichtige Personen mit Wohnsitz im Kanton erhalten für jedes minderjährige Kind, für das sie einen Abzug nach § 36 Abs. 2 Ziff. 1 geltend machen können, mit der Schlussrechnung eine Steuergutschrift von Fr. 100.
 
 <sup>3</sup> Verbleibt nach Verrechnung der Steuergutschrift kein Steuerbetrag, erfolgt keine Auszahlung des Differenzbetrags. Nicht ausgeschöpfte Steuergutschriften können nicht auf die Folgeperioden vorgetragen werden.
 
@@ -2415,7 +2443,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>3</sup> Der Sicherstellungsentscheid kann mit Rekurs bei der Steuerrekurskommission angefochten werden; deren Entscheid ist endgültig. Der Rekurs hemmt die Vollstreckung des Sicherstellungsentscheides nicht.
 
-<sup>4</sup> Die Sicherstellungsverfügung gilt als Arrestbefehl nach Artikel 274 des Bundesgesetzes über Schuldbetreibung und Konkurs[^196-1].
+<sup>4</sup> Die Sicherstellungsverfügung gilt als Arrestbefehl nach Art. 274 des Bundesgesetzes über Schuldbetreibung und Konkurs[^196-1].
 
 [^196-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
@@ -2445,7 +2473,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Im Entscheid werden Bestand und Umfang des Pfandrechtes festgestellt und der Pfandeigentümer zur Tilgung der Steuerschuld angehalten.
 
-<sup>3</sup> Das Pfandrecht kann nach Rechtskraft des Entscheides gemäss Absatz 1 beim Grundbuchamt zur Anmerkung angemeldet werden.
+<sup>3</sup> Das Pfandrecht kann nach Rechtskraft des Entscheides gemäss Abs. 1 beim Grundbuchamt zur Anmerkung angemeldet werden.
 
 #### § 200
 
@@ -2485,7 +2513,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Aufteilung der Steuergutschriften**
 
-<sup>1</sup> Die Steuergutschriften gemäss § 188a Absatz 2 werden im Verhältnis der Steuerfüsse auf den Kanton, die beteiligten Politischen Gemeinden sowie die Schul- und Kirchgemeinden aufgeteilt.
+<sup>1</sup> Die Steuergutschriften gemäss § 188a Abs. 2 werden im Verhältnis der Steuerfüsse auf den Kanton, die beteiligten Politischen Gemeinden sowie die Schul- und Kirchgemeinden aufgeteilt.
 
 ### 1.11. Nachsteuer- und Steuerstrafverfahren
 
@@ -2573,7 +2601,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 - 2\. sie die Verwaltung bei der Festsetzung der Nachsteuer vorbehaltlos unterstützt und
 - 3\. sie sich ernstlich um die Bezahlung der geschuldeten Nachsteuer bemüht.
 
-<sup>4</sup> Bei jeder weiteren Selbstanzeige wird die Busse unter den Voraussetzungen nach Absatz 3 auf einen Fünftel der hinterzogenen Steuer ermässigt.
+<sup>4</sup> Bei jeder weiteren Selbstanzeige wird die Busse unter den Voraussetzungen nach Abs. 3 auf einen Fünftel der hinterzogenen Steuer ermässigt.
 
 #### § 209
 
@@ -2591,7 +2619,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>2</sup> Die Busse beträgt bis zu Fr. 10'000, in schweren Fällen oder bei Rückfall bis zu Fr. 50'000.
 
-<sup>3</sup> Zeigt sich eine Person nach Absatz 1 erstmals selbst an und sind die Voraussetzungen nach § 208 Absatz 3 Ziffern 1 und 2 erfüllt, so wird von einer Strafverfolgung abgesehen und die Solidarhaftung entfällt.
+<sup>3</sup> Zeigt sich eine Person nach Abs. 1 erstmals selbst an und sind die Voraussetzungen nach § 208 Abs. 3 Ziff. 1 und Ziff. 2 erfüllt, so wird von einer Strafverfolgung abgesehen und die Solidarhaftung entfällt.
 
 #### § 211
 
@@ -2603,7 +2631,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>3</sup> Die Busse beträgt bis zu Fr. 10'000, in schweren Fällen oder bei Rückfall bis zu Fr. 50'000.
 
-<sup>4</sup> Zeigt sich eine Person nach Absatz 1 erstmals selbst an, so wird von einer Strafverfolgung wegen Verheimlichung oder Beiseiteschaffung von Nachlasswerten im Inventarverfahren und wegen allfälliger anderer in diesem Zusammenhang begangener Straftaten abgesehen (straflose Selbstanzeige), wenn:
+<sup>4</sup> Zeigt sich eine Person nach Abs. 1 erstmals selbst an, so wird von einer Strafverfolgung wegen Verheimlichung oder Beiseiteschaffung von Nachlasswerten im Inventarverfahren und wegen allfälliger anderer in diesem Zusammenhang begangener Straftaten abgesehen (straflose Selbstanzeige), wenn:
 
 - 1\. die Widerhandlung keiner Steuerbehörde bekannt ist und
 - 2\. die Person die Verwaltung bei der Berichtigung des Inventars vorbehaltlos unterstützt.
@@ -2628,7 +2656,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>3</sup> Die Bestrafung der handelnden Organe oder Vertreter nach § 210 bleibt vorbehalten.
 
-<sup>4</sup> Bei Körperschaften oder Anstalten des ausländischen Rechtes und bei ausländischen Personengesamtheiten ohne juristische Persönlichkeit sind die Absätze 1 bis 3 sinngemäss anwendbar.
+<sup>4</sup> Bei Körperschaften oder Anstalten des ausländischen Rechtes und bei ausländischen Personengesamtheiten ohne juristische Persönlichkeit sind Abs. 1 bis Abs. 3 sinngemäss anwendbar.
 
 #### § 214a
 
@@ -2643,14 +2671,14 @@ vom 14.09.1992 (Stand 01.01.2021)
 <sup>2</sup> Die straflose Selbstanzeige kann auch eingereicht werden:
 
 - 1\. nach einer Änderung der Firma oder einer Verlegung des Sitzes innerhalb der Schweiz;
-- 2\. nach einer Umwandlung nach den Artikeln 53 bis 68 des Fusionsgesetzes (FusG)[^214a-1] durch die neue juristische Person für die vor der Umwandlung begangenen Steuerhinterziehungen;
-- 3\. nach einer Absorption (Artikel 3 Absatz 1lit. a FusG) oder Abspaltung (Artikel 29 lit. b FusG) durch die weiterbestehende juristische Person für die vor der Absorption oder Abspaltung begangenen Steuerhinterziehungen.
+- 2\. nach einer Umwandlung nach Art. 53 bis Art. 68 des Fusionsgesetzes (FusG)[^214a-1] durch die neue juristische Person für die vor der Umwandlung begangenen Steuerhinterziehungen;
+- 3\. nach einer Absorption (Art. 3 Abs. 1lit. a FusG) oder Abspaltung (Art. 29 lit. b FusG) durch die weiterbestehende juristische Person für die vor der Absorption oder Abspaltung begangenen Steuerhinterziehungen.
 
 <sup>3</sup> Die straflose Selbstanzeige muss von den Organen oder Vertretern der juristischen Person eingereicht werden. Von einer Strafverfolgung gegen diese Organe oder Vertreter wird abgesehen und ihre Solidarhaftung entfällt.
 
 <sup>4</sup> Zeigt ein ausgeschiedenes Organmitglied oder ein ausgeschiedener Vertreter der juristischen Person diese wegen Steuerhinterziehung erstmals an und ist die Steuerhinterziehung keiner Steuerbehörde bekannt, so wird von einer Strafverfolgung der juristischen Person, sämtlicher aktueller und ausgeschiedener Mitglieder der Organe und sämtlicher aktueller und ausgeschiedener Vertreter abgesehen. Ihre Solidarhaftung entfällt.
 
-<sup>5</sup> Bei jeder weiteren Selbstanzeige wird die Busse unter den Voraussetzungen nach Absatz 1 auf einen Fünftel der hinterzogenen Steuer ermässigt.
+<sup>5</sup> Bei jeder weiteren Selbstanzeige wird die Busse unter den Voraussetzungen nach Abs. 1 auf einen Fünftel der hinterzogenen Steuer ermässigt.
 
 <sup>6</sup> Nach Beendigung der Steuerpflicht einer juristischen Person in der Schweiz kann keine Selbstanzeige mehr eingereicht werden.
 
@@ -2668,11 +2696,11 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Steuerbetrug**
 
-<sup>1</sup> Wer zum Zweck einer Steuerhinterziehung im Sinne der §§ 208 bis 210 gefälschte, verfälschte oder inhaltlich unwahre Urkunden wie Geschäftsbücher, Bilanzen, Erfolgsrechnungen, Lohnausweise oder andere Bescheinigungen Dritter zur Täuschung gebraucht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Eine bedingte Strafe kann mit Busse bis zu Fr. 10'000 verbunden werden.
+<sup>1</sup> Wer zum Zweck einer Steuerhinterziehung im Sinne von § 208 bis § 210 gefälschte, verfälschte oder inhaltlich unwahre Urkunden wie Geschäftsbücher, Bilanzen, Erfolgsrechnungen, Lohnausweise oder andere Bescheinigungen Dritter zur Täuschung gebraucht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Eine bedingte Strafe kann mit Busse bis zu Fr. 10'000 verbunden werden.
 
 <sup>2</sup> Die Bestrafung wegen Steuerhinterziehung bleibt vorbehalten.
 
-<sup>3</sup> Liegt eine Selbstanzeige nach den §§ 208 Absatz 3 oder 214a Absatz 1 vor, so wird von einer Strafverfolgung wegen aller anderer Straftaten abgesehen, die zum Zweck dieser Steuerhinterziehung begangen wurden. Diese Bestimmung ist auch in den Fällen nach den §§ 210 Absatz 3 und 214a Absätze 3 und 4 anwendbar.
+<sup>3</sup> Liegt eine Selbstanzeige nach § 208 Abs. 3 oder § 214a Abs. 1 vor, so wird von einer Strafverfolgung wegen aller anderer Straftaten abgesehen, die zum Zweck dieser Steuerhinterziehung begangen wurden. Diese Bestimmung ist auch in den Fällen nach § 210 Abs. 3 und § 214a Abs. 3 und Abs. 4 anwendbar.
 
 #### § 216
 
@@ -2680,7 +2708,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Wer zum Steuerabzug an der Quelle verpflichtet ist und abgezogene Steuern zu seinem oder eines andern Nutzen verwendet, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Eine bedingte Strafe kann mit Busse bis zu Fr. 10'000 verbunden werden.
 
-<sup>2</sup> Liegt eine Selbstanzeige nach den §§ 208 Absatz 3 oder 214a Absatz 1 vor, so wird von einer Strafverfolgung wegen Veruntreuung von Quellensteuern und anderer Straftaten, die zum Zweck der Veruntreuung von Quellensteuern begangen wurden, abgesehen. Diese Bestimmung ist auch in den Fällen nach den §§ 210 Absatz 3 und 214a Absätze 3 und 4 anwendbar.
+<sup>2</sup> Liegt eine Selbstanzeige nach § 208 Abs. 3 oder § 214a Abs. 1 vor, so wird von einer Strafverfolgung wegen Veruntreuung von Quellensteuern und anderer Straftaten, die zum Zweck der Veruntreuung von Quellensteuern begangen wurden, abgesehen. Diese Bestimmung ist auch in den Fällen nach § 210 Abs. 3 und § 214a Abs. 3 und Abs. 4 anwendbar.
 
 ### 1.11.2.4. Verfahren
 
@@ -2688,11 +2716,11 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Zuständigkeit, Eröffnung des Strafverfahrens wegen Steuerhinterziehung**
 
-<sup>1</sup> Für die Durchführung von Steuerstrafverfahren wegen Verletzung von Verfahrenspflichten (§ 207) und Steuerhinterziehungen (§§ 208 bis 214b) ist die Steuerverwaltung zuständig; für die Durchführung von Strafverfahren wegen Steuervergehen (§§ 215 und 216) die Staatsanwaltschaft.
+<sup>1</sup> Für die Durchführung von Steuerstrafverfahren wegen Verletzung von Verfahrenspflichten (§ 207) und Steuerhinterziehungen (§ 208 bis § 214b) ist die Steuerverwaltung zuständig; für die Durchführung von Strafverfahren wegen Steuervergehen (§ 215 und § 216) die Staatsanwaltschaft.
 
 <sup>2</sup> Die Einleitung eines Strafverfahrens wegen Steuerhinterziehung wird der betroffenen Person schriftlich mitgeteilt. Es wird ihr Gelegenheit gegeben, sich zu der gegen sie erhobenen Anschuldigung zu äussern. Sie wird auf ihr Recht hingewiesen, die Aussage und ihre Mitwirkung zu verweigern.
 
-<sup>3</sup> Beweismittel aus einem Nachsteuerverfahren dürfen in einem Strafverfahren wegen Steuerhinterziehung nur dann verwendet werden, wenn sie weder unter Androhung einer Veranlagung nach pflichtgemässem Ermessen gemäss § 162 mit Umkehr der Beweislast im Sinne von § 164 Absatz 2 noch unter Androhung einer Busse wegen Verletzung von Verfahrenspflichten beschafft wurden.
+<sup>3</sup> Beweismittel aus einem Nachsteuerverfahren dürfen in einem Strafverfahren wegen Steuerhinterziehung nur dann verwendet werden, wenn sie weder unter Androhung einer Veranlagung nach pflichtgemässem Ermessen gemäss § 162 mit Umkehr der Beweislast im Sinne von § 164 Abs. 2 noch unter Androhung einer Busse wegen Verletzung von Verfahrenspflichten beschafft wurden.
 
 #### § 217a
 
@@ -2720,9 +2748,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 - 1\. bei Verletzung von Verfahrenspflichten drei Jahre und bei versuchter Steuerhinterziehung sechs Jahre nach dem rechtskräftigen Abschluss des Verfahrens, in dem die Verfahrenspflichten verletzt oder die Steuern zu hinterziehen versucht wurden;
 - 2\. bei vollendeter Steuerhinterziehung zehn Jahre nach Ablauf:
-  - a. der Steuerperiode, für welche die steuerpflichtige Person nicht oder unvollständig veranlagt wurde oder der Steuerabzug an der Quelle nicht gesetzmässig erfolgte (§ 208 Absatz 1 Ziffern 1 und 2);
-  - b. des Kalenderjahres, in dem eine unrechtmässige Rückerstattung oder ein ungerechtfertigter Erlass erwirkt wurde (§ 208 Absatz 1 Ziffer 3) oder Nachlasswerte im Inventarverfahren verheimlicht oder beiseitegeschafft wurden (§ 211).
-- 3\. bei vollendeter Steuerhinterziehung zehn Jahre nach Ablauf der Steuerperiode, für die der Steuerpflichtige nicht oder unvollständig veranlagt wurde oder der Steuerabzug an der Quelle unvollständig erfolgte, oder zehn Jahre nach Ablauf des Kalenderjahres, in dem eine unrechtmässige Rückerstattung oder ein ungerechtfertigter Erlass erwirkt oder Vermögenswerte im Inventarverfahren verheimlicht oder beiseitegeschafft wurden.
+  - a. der Steuerperiode, für welche die steuerpflichtige Person nicht oder unvollständig veranlagt wurde oder der Steuerabzug an der Quelle nicht gesetzmässig erfolgte (§ 208 Abs. 1 Ziff. 1 und Ziff. 2);
+  - b. des Kalenderjahres, in dem eine unrechtmässige Rückerstattung oder ein ungerechtfertigter Erlass erwirkt wurde (§ 208 Abs. 1 Ziff. 3) oder Nachlasswerte im Inventarverfahren verheimlicht oder beiseitegeschafft wurden (§ 211).
+- 3\. …
 
 <sup>2</sup> Die Verjährung tritt nicht mehr ein, wenn die Steuerverwaltung vor Ablauf der Verjährungsfrist eine Verfügung erlassen hat.
 
@@ -2730,7 +2758,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Verjährung der Steuervergehen**
 
-<sup>1</sup> Die Strafverfolgung der Steuervergehen (§§ 215 und 216) verjährt 15 Jahre, nachdem der Täter die letzte strafbare Handlung ausgeführt hat.
+<sup>1</sup> Die Strafverfolgung der Steuervergehen (§ 215 und § 216) verjährt 15 Jahre, nachdem der Täter die letzte strafbare Handlung ausgeführt hat.
 
 <sup>2</sup> Die Verjährung tritt nicht mehr ein, wenn vor Ablauf der Verjährungsfrist ein erstinstanzliches Urteil ergangen ist.
 
@@ -2740,9 +2768,9 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Bezug, Bezugsverjährung**
 
-<sup>1</sup> Für den Bezug von Bussen und Kosten gelten die §§ 187 folgende.
+<sup>1</sup> Für den Bezug von Bussen und Kosten gelten § 187 folgende.
 
-<sup>2</sup> Die entsprechenden Forderungen verjähren fünf Jahre nach Rechtskraft der Bussen- oder Kostenverfügung, spätestens aber zehn Jahre danach. Stillstand- und Unterbrechungsgründe richten sich nach § 152 Absätze 2 und 3.
+<sup>2</sup> Die entsprechenden Forderungen verjähren fünf Jahre nach Rechtskraft der Bussen- oder Kostenverfügung, spätestens aber zehn Jahre danach. Stillstand- und Unterbrechungsgründe richten sich nach § 152 Abs. 2 und Abs. 3.
 
 ## 2. Teil: Gemeindesteuern
 
@@ -2809,10 +2837,10 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Dieses Gesetz tritt auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^229-1].
 
-<sup>2</sup> Die §§ 25 Ziffer 5 und 34 Ziffer 5 dürfen, soweit sie die Kinderunterhaltsbeiträge betreffen, nicht vor dem 1. Januar 1997 in Kraft treten[^229-2].
+<sup>2</sup> § 25 Ziff. 5 und § 34 Ziff. 5 dürfen, soweit sie die Kinderunterhaltsbeiträge betreffen, nicht vor dem 1. Januar 1997 in Kraft treten[^229-2].
 
 [^229-1]: In Kraft gesetzt auf den 1. Januar 1993.
-[^229-2]: In Kraft gesetzt auf den 1. Januar 1997, 640.11, § 64 Absatz 3.
+[^229-2]: In Kraft gesetzt auf den 1. Januar 1997, RB 640.11, § 64 Abs. 3.
 
 #### § 230
 
@@ -2828,15 +2856,15 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Kapitalversicherungen mit Einmalprämie**
 
-<sup>1</sup> Bei Kapitalversicherungen gemäss § 22 Ziffer 2, die vor dem 1. Januar 1999 abgeschlossen wurden, bleiben die Erträge steuerfrei, sofern bei Auszahlung das Vertragsverhältnis mindestens zehn Jahre gedauert oder der Versicherte das 60. Altersjahr vollendet hat.
+<sup>1</sup> Bei Kapitalversicherungen gemäss § 22 Ziff. 2, die vor dem 1. Januar 1999 abgeschlossen wurden, bleiben die Erträge steuerfrei, sofern bei Auszahlung das Vertragsverhältnis mindestens zehn Jahre gedauert oder der Versicherte das 60. Altersjahr vollendet hat.
 
 #### § 232
 
 **Wechsel der zeitlichen Bemessung für natürliche Personen**
 
-<sup>1</sup> Die Einkommens- und Vermögenssteuer natürlicher Personen für die erste Steuerperiode nach Inkrafttreten dieser Bestimmung (Übergangsperiode) wird nur nach neuem Recht erhoben. Vorbehalten bleibt Absatz 3.
+<sup>1</sup> Die Einkommens- und Vermögenssteuer natürlicher Personen für die erste Steuerperiode nach Inkrafttreten dieser Bestimmung (Übergangsperiode) wird nur nach neuem Recht erhoben. Vorbehalten bleibt Abs. 3.
 
-<sup>2</sup> In der Übergangsperiode sowie im folgenden Steuerjahr können zusätzlich je hälftig die ausserordentlichen Kosten für den Unterhalt von privaten Liegenschaften in den beiden Kalenderjahren vor Inkrafttreten dieser Bestimmung von den Einkünften abgezogen werden, soweit sie pro Jahr die Unterhaltskostenpauschale übersteigen und nicht mit ausserordentlichen Einkünften gemäss Absatz 3 verrechenbar sind. Beim Steuersatz werden die ausserordentlichen Unterhaltskosten der beiden Vorjahre nicht mitberücksichtigt.
+<sup>2</sup> In der Übergangsperiode sowie im folgenden Steuerjahr können zusätzlich je hälftig die ausserordentlichen Kosten für den Unterhalt von privaten Liegenschaften in den beiden Kalenderjahren vor Inkrafttreten dieser Bestimmung von den Einkünften abgezogen werden, soweit sie pro Jahr die Unterhaltskostenpauschale übersteigen und nicht mit ausserordentlichen Einkünften gemäss Abs. 3 verrechenbar sind. Beim Steuersatz werden die ausserordentlichen Unterhaltskosten der beiden Vorjahre nicht mitberücksichtigt.
 
 <sup>3</sup> Ausserordentliche Einkünfte, die in den beiden Kalenderjahren vor Inkrafttreten dieser Bestimmung oder in den in diesen Jahren abgeschlossenen Geschäftsjahren erzielt wurden, unterliegen für die Übergangsperiode einer separaten Jahressteuer zu dem Satz, der sich für diese Einkünfte allein ergibt, mindestens aber zu einem Satz von 2 Prozent, soweit sie die ausserordentlichen Aufwendungen sowie die verrechenbaren Verluste übersteigen. Die Sozialabzüge gemäss § 36 werden nicht gewährt.
 
@@ -2846,7 +2874,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Wechsel der zeitlichen Bemessung für juristische Personen**
 
-<sup>1</sup> Die Gewinn- und Kapitalsteuer juristischer Personen für die im Kalenderjahr des Inkrafttretens dieser Bestimmung zu Ende gehende Steuerperiode (Übergangsperiode) wird nur nach neuem Recht erhoben. Vorbehalten bleibt Absatz 2.
+<sup>1</sup> Die Gewinn- und Kapitalsteuer juristischer Personen für die im Kalenderjahr des Inkrafttretens dieser Bestimmung zu Ende gehende Steuerperiode (Übergangsperiode) wird nur nach neuem Recht erhoben. Vorbehalten bleibt Abs. 2.
 
 <sup>2</sup> Ausserordentliche Erträge, die in jenem Geschäftsjahr erzielt wurden, das unmittelbar vor Inkrafttreten dieser Bestimmung abgeschlossen wurde, unterliegen für die Übergangsperiode einer separaten Jahressteuer zu einem Steuersatz von 6 Prozent, soweit sie die ausserordentlichen Aufwendungen sowie die verrechenbaren Verluste übersteigen.
 
@@ -2858,15 +2886,15 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Gewinnsteuersatz 2006**
 
-<sup>1</sup> In Abweichung zu den §§ 85, 87 Absatz 2 und 89 Absatz 2 beträgt der Gewinnsteuersatz für die Steuerperiode 2006 4,5 Prozent.
+<sup>1</sup> In Abweichung zu § 85, § 87 Abs. 2 und § 89 Abs. 2 beträgt der Gewinnsteuersatz für die Steuerperiode 2006 4,5 Prozent.
 
 #### § 235
 
 **Kapitalgewinne auf Beteiligungen**
 
-<sup>1</sup> Kapitalgewinne auf Beteiligungen sowie der Erlös aus dem Verkauf von zugehörigen Bezugsrechten werden bei der Berechnung des Nettoertrages gemäss § 86 Absatz 2 nicht berücksichtigt, wenn die betreffenden Beteiligungen schon vor dem 1. Januar 1999 im Besitz der Kapitalgesellschaft oder Genossenschaft waren und die erwähnten Gewinne vor dem 1. Januar 2009 erzielt werden.
+<sup>1</sup> Kapitalgewinne auf Beteiligungen sowie der Erlös aus dem Verkauf von zugehörigen Bezugsrechten werden bei der Berechnung des Nettoertrages gemäss § 86 Abs. 2 nicht berücksichtigt, wenn die betreffenden Beteiligungen schon vor dem 1. Januar 1999 im Besitz der Kapitalgesellschaft oder Genossenschaft waren und die erwähnten Gewinne vor dem 1. Januar 2009 erzielt werden.
 
-<sup>2</sup> Für Beteiligungen, die vor dem 1. Januar 1999 im Besitz der Kapitalgesellschaft oder Genossenschaft waren, gelten die Gewinnsteuerwerte zu Beginn des Geschäftsjahres, das im Kalenderjahr 1999 endet, als Gestehungskosten (§ 77 Ziffer 1 und § 86 Absatz 5 Ziffer 1).
+<sup>2</sup> Für Beteiligungen, die vor dem 1. Januar 1999 im Besitz der Kapitalgesellschaft oder Genossenschaft waren, gelten die Gewinnsteuerwerte zu Beginn des Geschäftsjahres, das im Kalenderjahr 1999 endet, als Gestehungskosten (§ 77 Ziff. 1 und § 86 Abs. 5 Ziff. 1).
 
 <sup>3</sup> Überträgt eine Kapitalgesellschaft oder Genossenschaft eine Beteiligung von mindestens 20 Prozent am Grund- oder Stammkapital anderer Gesellschaften, die vor dem 1. Januar 1999 in ihrem Besitz war, auf eine ausländische Konzerngesellschaft, wird die Differenz zwischen dem Gewinnsteuerwert und dem Verkehrswert der Beteiligung zum steuerbaren Reingewinn gerechnet. In diesem Fall gehören die betreffenden Beteiligungen weiterhin zum Bestand der vor dem 1. Januar 1999 gehaltenen Beteiligungen. Gleichzeitig ist die Kapitalgesellschaft oder Genossenschaft berechtigt, in der Höhe dieser Differenz eine unbesteuerte Reserve zu bilden. Diese Reserve ist steuerlich wirksam aufzulösen, wenn die übertragene Beteiligung an einen konzernfremden Dritten veräussert wird, wenn die Gesellschaft, deren Beteiligungsrechte übertragen wurden, ihre Aktiven und Passiven in wesentlichem Umfang veräussert oder wenn sie liquidiert wird. Die Kapitalgesellschaft oder Genossenschaft hat jeder Steuererklärung ein Verzeichnis der Beteiligungen beizulegen, für die eine unbesteuerte Reserve im Sinne dieses Paragraphen besteht. Am 31. Dezember 2008 wird die unbesteuerte Reserve steuerneutral aufgelöst.
 
@@ -2874,21 +2902,21 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Aufschub des Ausgleichs der kalten Progression**
 
-<sup>1</sup> In Abweichung von § 36 Absatz 1 werden für die Steuerjahre 1999 und 2000 vom Reineinkommen abgezogen für:
+<sup>1</sup> In Abweichung von § 36 Abs. 1 werden für die Steuerjahre 1999 und 2000 vom Reineinkommen abgezogen für:
 
 - 1\. Steuerpflichtige in ungetrennter Ehe — Fr. 8'600;
-- 2\. Steuerpflichtige, die nicht unter Ziffer 1 fallen
-  - a. und einen eigenen Haushalt mit Personen führen, für die gemäss Absatz 2 Ziffern 1 oder 2 das Recht auf einen Abzug besteht, — Fr. 8'600;
+- 2\. Steuerpflichtige, die nicht unter Ziff. 1 fallen
+  - a. und einen eigenen Haushalt mit Personen führen, für die gemäss Abs. 2 Ziff. 1 oder Ziff. 2 das Recht auf einen Abzug besteht, — Fr. 8'600;
   - b. müssen sie die Kinder berufsbedingt gegen angemessene Entschädigung dauernd in fremde Obhut geben, erhöht sich dieser Abzug für jedes Kind unter 16 Jahren um höchstens — Fr. 1'000;
 - 3\. übrige Steuerpflichtige — Fr. 4'800.
 
-<sup>2</sup> In Abweichung von § 36 Absatz 2 können für die Steuerjahre 1999 und 2000 zusätzlich abgezogen werden:
+<sup>2</sup> In Abweichung von § 36 Abs. 2 können für die Steuerjahre 1999 und 2000 zusätzlich abgezogen werden:
 
 - 1\. für nicht selbständig besteuerte, für in Ausbildung stehende oder erwerbsunfähige Kinder, für deren Unterhalt der Steuerpflichtige aufkommt,
   - a. je Kind — Fr. 3'700;
   - b. der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Altersjahres auf — Fr. 4'700;
   - c. und nach Vollendung des 20. Altersjahres bis höchstens zum vollendeten 26. Altersjahr auf — Fr. 6'700;
-- 2\. für erwerbsunfähige und unterstützungsbedürftige Personen, für deren Unterhalt der Steuerpflichtige zur Hauptsache aufkommt und für die kein Abzug gemäss Absatz 1 oder Absatz 2 Ziffer 1 gewährt wird, — Fr. 2'000;
+- 2\. für erwerbsunfähige und unterstützungsbedürftige Personen, für deren Unterhalt der Steuerpflichtige zur Hauptsache aufkommt und für die kein Abzug gemäss Abs. 1 oder Abs. 2 Ziff. 1 gewährt wird, — Fr. 2'000;
 - 3\. von im AHV-Alter stehenden, erwerbsunfähigen oder verwitweten Steuerpflichtigen — Fr. 3'800;
   - a. beträgt das Reineinkommen mehr als Fr. 16'000, bei Steuerpflichtigen in ungetrennter Ehe mehr als Fr. 23'000, ermässigt sich der Abzug je Fr. 1'000 Mehreinkommen um Fr. 200.
 
@@ -2934,15 +2962,15 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 **Ergänzende Vermögenssteuer**
 
-<sup>1</sup> Bei ergänzenden Vermögenssteuern, die nach dem bis zum Inkrafttreten des Planungs- und Baugesetzes vom 21. Dezember 2011 gültigen § 50 Absatz 3 veranlagt wurden, tritt die Fälligkeit erst bei der Veräusserung des Grundstücks ein. Mit der Veräusserung beginnt die Bezugsverjährung.
+<sup>1</sup> Bei ergänzenden Vermögenssteuern, die nach dem bis zum Inkrafttreten des Planungs- und Baugesetzes vom 21. Dezember 2011 gültigen § 50 Abs. 3 veranlagt wurden, tritt die Fälligkeit erst bei der Veräusserung des Grundstücks ein. Mit der Veräusserung beginnt die Bezugsverjährung.
 
 #### § 243
 
 **Nachbesteuerung bei Sperrfristverletzungen**
 
-<sup>1</sup> Bei Übertragung eines Betriebs oder eines Teilbetriebs auf eine juristische Person nach § 21 des Gesetzes, die vor Inkrafttreten der Änderung vom 14. August 2013 erfolgt ist, werden die übertragenen stillen Reserven auf Grundstücken im Verfahren nach den §§ 204 bis 206 nachträglich mit der Grundstückgewinn- und Handänderungssteuer besteuert, soweit während den der Umstrukturierung nachfolgenden fünf Jahren Beteiligungs- oder Mitgliedschaftsrechte zu einem über dem übertragenen steuerlichen Eigenkapital liegenden Preis veräussert werden.
+<sup>1</sup> Bei Übertragung eines Betriebs oder eines Teilbetriebs auf eine juristische Person nach § 21 des Gesetzes, die vor Inkrafttreten der Änderung vom 14. August 2013 erfolgt ist, werden die übertragenen stillen Reserven auf Grundstücken im Verfahren nach § 204 bis § 206 nachträglich mit der Grundstückgewinn- und Handänderungssteuer besteuert, soweit während den der Umstrukturierung nachfolgenden fünf Jahren Beteiligungs- oder Mitgliedschaftsrechte zu einem über dem übertragenen steuerlichen Eigenkapital liegenden Preis veräussert werden.
 
-<sup>2</sup> Wird ein Grundstück, für welches vor Inkrafttreten der Änderung vom 14. August 2013 ein Steueraufschub infolge Ersatzbeschaffung von betriebsnotwendigem Anlagevermögen beansprucht worden ist, innert fünf Jahren seit der Veräusserung des ersetzten Grundstückes veräussert oder dauernd einer anderen Nutzung zugeführt, wird die aufgeschobene Besteuerung nach den §§ 204 bis 206 mit der Grundstückgewinn- und Handänderungssteuer nachgeholt.
+<sup>2</sup> Wird ein Grundstück, für welches vor Inkrafttreten der Änderung vom 14. August 2013 ein Steueraufschub infolge Ersatzbeschaffung von betriebsnotwendigem Anlagevermögen beansprucht worden ist, innert fünf Jahren seit der Veräusserung des ersetzten Grundstückes veräussert oder dauernd einer anderen Nutzung zugeführt, wird die aufgeschobene Besteuerung nach § 204 bis § 206 mit der Grundstückgewinn- und Handänderungssteuer nachgeholt.
 
 #### § 244
 
@@ -2950,7 +2978,7 @@ vom 14.09.1992 (Stand 01.01.2021)
 
 <sup>1</sup> Der massgebende Einkommenssteuerwert von Grundstücken, die sich bei Inkrafttreten der Änderung vom 14. August 2013 im Geschäftsvermögen befinden, umfasst die Anlagekosten zuzüglich der wertvermehrenden Aufwendungen abzüglich der vorgenommenen Abschreibungen.
 
-<sup>2</sup> Sind land- oder forstwirtschaftliche Grundstücke nach Verpachtung des entsprechenden Landwirtschaftsbetriebs im Geschäftsvermögen des Grundeigentümers verblieben, so können diese innert zwei Jahren nach Inkrafttreten der Änderung vom 14. August 2013 zu den Anlagekosten ins Privatvermögen überführt werden. In diesem Fall sind Gewinne gemäss § 20 Absatz 4 nur im Umfang der wiedereingebrachten Abschreibungen steuerbar.
+<sup>2</sup> Sind land- oder forstwirtschaftliche Grundstücke nach Verpachtung des entsprechenden Landwirtschaftsbetriebs im Geschäftsvermögen des Grundeigentümers verblieben, so können diese innert zwei Jahren nach Inkrafttreten der Änderung vom 14. August 2013 zu den Anlagekosten ins Privatvermögen überführt werden. In diesem Fall sind Gewinne gemäss § 20 Abs. 4 nur im Umfang der wiedereingebrachten Abschreibungen steuerbar.
 
 #### § 245
 
