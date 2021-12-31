@@ -4,11 +4,11 @@ title: "Ordonnance du 26 novembre 2003 sur le marché des ufs (Ordonnance sur 
 short: OO
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/735"
 language: fr
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/735/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-2003-735-20170501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/735/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-735-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20170501/fr"
 
 (Ordonnance sur les œufs, OO)
 
-du 26 novembre 2003 (Etat le 1<sup>er</sup> mai 2017)
+du 26 novembre 2003 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -26,7 +26,7 @@ vu l’art. 177, al. 1, de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^i
 arrête:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 sur les denrées alimentaires ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^ingress-2]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3. [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)annexe ch. I]. Voir actuellement la L du 20 juin 2014 sur les denrées alimentaires ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^ingress-3]: Nouvelle teneur selon le ch. 5 de l’annexe à l’O du 16 déc. 2016 sur les denrées alimentaires et les objets usuels, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)).
 
 ## Section 1 Champ d’application
@@ -64,10 +64,11 @@ L’attribution des contingents n<sup>os</sup> 10 (produits à base d’œufs s�
 
 <sup>2</sup> Les œufs de consommation provenant des zones franches de Haute-Savoie et du Pays de Gex qui, dans le cadre du règlement relatif à l’arbitrage de Territet, sont importés en franchise, ne nécessitent pas de PGI et ne sont pas imputés au contingent tarifaire partiel.
 
-<sup>3</sup> L’Administration fédérale des douanes est chargée de l’exécution de ces dispositions.
+<sup>3</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^4-3] est chargé de l’exécution de ces dispositions.
 
 [^4-1]: Nouvelle teneur selon le ch. 58 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^4-2]: Nouvelle teneur selon le ch. 58 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^4-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
 
@@ -87,7 +88,7 @@ Les œufs de fabrication importés au TC doivent être transformés en produits 
 
 <sup>2</sup> L’estampillage comprend le nom complet ou abrégé correctement du pays de production, en lettres latines d’au moins 2 mm de hauteur. Seul est admis le code ISO 2 de la nomenclature des pays pour les statistiques du commerce extérieur figurant dans le tarif d’usage[^6-2], dans sa version du 1<sup>er</sup> janvier 2015.[^6-3]
 
-<sup>3</sup> La mise en œuvre de ces dispositions est régie par la législation sur les denrées alimentaires. Elle incombe à l’Administration fédérale des douanes dans le cadre du placement sous régime douanier et aux autorités cantonales chargées du contrôle des denrées alimentaires dans les autres cas.[^6-4]
+<sup>3</sup> La mise en œuvre de ces dispositions est régie par la législation sur les denrées alimentaires. Elle incombe à l’OFDF dans le cadre du placement sous régime douanier et aux autorités cantonales chargées du contrôle des denrées alimentaires dans les autres cas.[^6-4]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3061](https://fedlex.data.admin.ch/eli/oc/2004/396)).
 [^6-2]: Le tarif d’usage peut être consulté ou commandé à la Direction générale des douanes, Monbijoustrasse 40, 3003 Berne.
@@ -134,7 +135,7 @@ L’office est chargé de l’exécution de la présente ordonnance, dans la mes
 
 L’ordonnance du 7 décembre 1998 sur le marché des œufs[^11-1] est abrogée.
 
-[^11-1]: [[RO 1999 126](https://fedlex.data.admin.ch/eli/oc/1999/20), [2001 2513](https://fedlex.data.admin.ch/eli/oc/2001/372), [2002 2841](https://fedlex.data.admin.ch/eli/oc/2002/419)]
+[^11-1]: [[RO 1999 126](https://fedlex.data.admin.ch/eli/oc/1999/20); [2001 2513](https://fedlex.data.admin.ch/eli/oc/2001/372); [2002 2841](https://fedlex.data.admin.ch/eli/oc/2002/419)]
 
 #### Art. 12
 

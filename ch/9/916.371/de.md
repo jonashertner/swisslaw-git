@@ -4,11 +4,11 @@ title: "Verordnung vom 26. November 2003 über den Eiermarkt (Eierverordnung, Ei
 short: EiV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/735"
 language: de
-version: 2017-05-01
+version: 2022-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/735/20170501/de/xml/fedlex-data-admin-ch-eli-cc-2003-735-20170501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/735/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-735-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/735/20170501/de"
 
 (Eierverordnung, EiV)
 
-vom 26. November 2003 (Stand am 1. Mai 2017)
+vom 26. November 2003 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -66,10 +66,11 @@ Bei den Zollkontingenten Nr. 10 (Eiprodukte getrocknet) und 11 (Eiprodukte ander
 
 <sup>2</sup> Konsumeier aus den Freizonen von Hochsavoyen und der Landschaft Gex, die im Rahmen des Reglementes zum Schiedsspruch von Territet zollfrei sind, dürfen ohne GEB und ohne Anrechnung an die zu verteilende Teilzollkontingentsmenge eingeführt werden.
 
-<sup>3</sup> Die Eidgenössische Zollverwaltung vollzieht diese Bestimmungen.
+<sup>3</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-3] vollzieht diese Bestimmungen.
 
 [^4-1]: Fassung gemäss Anhang 4 Ziff. 58 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^4-2]: Fassung gemäss Anhang 4 Ziff. 58 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^4-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 5
 
@@ -89,7 +90,7 @@ Die zum KZA eingeführten Verarbeitungseier müssen nachweisbar zu Eiprodukten v
 
 <sup>2</sup> Die Stempelung muss den Namen des Produktionslandes aufweisen, ausgeschrieben oder in verständlicher Form abgekürzt in mindestens 2 mm hohen lateinischen Buchstaben. Als Abkürzung ist ausschliesslich der ISO-2-Code gemäss dem Länderverzeichnis für die Aussenhandelsstatistik im Gebrauchstarif[^6-2] in der Fassung vom 1. Januar 2015 zugelassen.[^6-3]
 
-<sup>3</sup> Der Vollzug dieser Bestimmungen richtet sich nach der Lebensmittelgesetzgebung. Die Eidgenössische Zollverwaltung vollzieht sie im Rahmen der Zollveranlagung, die kantonalen Lebensmittelkontrollbehörden in den übrigen Fällen.[^6-4]
+<sup>3</sup> Der Vollzug dieser Bestimmungen richtet sich nach der Lebensmittelgesetzgebung. Das BAZG vollzieht sie im Rahmen der Zollveranlagung, die kantonalen Lebensmittelkontrollbehörden in den übrigen Fällen.[^6-4]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3061](https://fedlex.data.admin.ch/eli/oc/2004/396)).
 [^6-2]: Der Gebrauchstarif kann bei der Oberzolldirektion, 3003 Bern eingesehen oder bezogen werden.
@@ -136,7 +137,7 @@ Das Bundesamt vollzieht diese Verordnung, soweit damit nicht andere Behörden be
 
 Die Verordnung vom 7. Dezember 1998[^11-1] über den Eiermarkt wird aufgehoben.
 
-[^11-1]: [[AS 1999 126](https://fedlex.data.admin.ch/eli/oc/1999/20), [2001 2513](https://fedlex.data.admin.ch/eli/oc/2001/372), [2002 2841](https://fedlex.data.admin.ch/eli/oc/2002/419)]
+[^11-1]: [[AS 1999 126](https://fedlex.data.admin.ch/eli/oc/1999/20); [2001 2513](https://fedlex.data.admin.ch/eli/oc/2001/372); [2002 2841](https://fedlex.data.admin.ch/eli/oc/2002/419)]
 
 #### Art. 12
 
@@ -144,6 +145,6 @@ Die Verordnung vom 7. Dezember 1998[^11-1] über den Eiermarkt wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-Anhang[^t-1]
+Anhang*[^t-1]*
 
 [^t-1]: Aufgehoben durch Anhang 7 Ziff. 9 der Agrareinfuhrverordnung vom 26. Okt. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
