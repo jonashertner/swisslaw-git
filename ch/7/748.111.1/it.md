@@ -4,11 +4,11 @@ title: Ordinanza del 23 marzo 2005 concernente la salvaguardia della sovranità 
 short: OSS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/284"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2005-03-23
 in_force: 2005-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2005-284-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-284-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20180101/it"
 
 (OSS)
 
-del 23 marzo 2005 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 23 marzo 2005 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -170,9 +170,11 @@ In caso di violazione delle norme sulla navigazione aerea o della sovranità sul
 
 <sup>1</sup> Se, in virtù dell’articolo 7 LNA, il Consiglio federale ha limitato o vietato l’uso dello spazio aereo, per l’utilizzazione di tale spazio aereo è necessaria un’autorizzazione del Comando delle Forze aeree.
 
-<sup>2</sup> Il Comando delle Forze aeree stabilisce nell’autorizzazione i dettagli dell’utilizzazione dello spazio aereo e degli aerodromi. Consulta dapprima la Direzione del diritto internazionale pubblico, l’UFAC, l’Ufficio dei trasporti dell’approvvigionamento economico del Paese e l’Amministrazione federale delle dogane.
+<sup>2</sup> Il Comando delle Forze aeree stabilisce nell’autorizzazione i dettagli dell’utilizzazione dello spazio aereo e degli aerodromi. Consulta dapprima la Direzione del diritto internazionale pubblico, l’UFAC, l’Ufficio dei trasporti dell’approvvigionamento economico del Paese e l’Ufficio federale della dogana e della sicurezza dei confini[^12-1].
 
 <sup>3</sup> I divieti e le limitazioni non si applicano agli aeromobili militari svizzeri.
+
+[^12-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 13
 

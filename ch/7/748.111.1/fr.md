@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mars 2005 sur la sauvegarde de la souveraineté sur l'e
 short: OSS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/284"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2005-03-23
 in_force: 2005-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-284-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-284-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20180101/fr"
 
 (OSS)
 
-du 23 mars 2005 (Etat le 1<sup>er</sup> janvier 2018)
+du 23 mars 2005 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -44,7 +44,7 @@ La présente ordonnance fixe les mesures de sauvegarde de la souveraineté sur l
 
 Dans la présente ordonnance, on entend par:
 
-- a. *Souveraineté sur l’espace* *aérien:* droit d’un Etat de réglementer de manière contraignante l’utilisation de l’espace aérien au-dessus de son territoire et de faire appliquer cette réglementation.
+- a. *Souveraineté sur l’espace* *aérien:* droit d’un État de réglementer de manière contraignante l’utilisation de l’espace aérien au-dessus de son territoire et de faire appliquer cette réglementation.
 - b. *Navigation aérienne non restreinte:* libre utilisation de l’espace aérien conformément aux prescriptions internationales et au droit fédéral.
 - c. *Navigation aérienne restreinte:* restriction de la libre utilisation de l’espace aérien décidée par le Conseil fédéral.
 - d. *Période de tension accrue:* période pendant laquelle règne une situation de crise, sans que la navigation aérienne soit restreinte.
@@ -68,11 +68,11 @@ Dans la présente ordonnance, on entend par:
 
 #### Art. 4
 
-**Aéronefs militaires et autres aéronefs d’Etat étrangers**[^4-1]
+**Aéronefs militaires et autres aéronefs d’État étrangers**[^4-1]
 
-<sup>1</sup> Le survol du territoire suisse par des aéronefs militaires et d’autres aéronefs d’Etat étrangers ainsi que leur atterrissage sur territoire suisse requièrent une autorisation (diplomatic clearance).
+<sup>1</sup> Le survol du territoire suisse par des aéronefs militaires et d’autres aéronefs d’État étrangers ainsi que leur atterrissage sur territoire suisse requièrent une autorisation (diplomatic clearance).
 
-<sup>2</sup> Sous réserve de l’al. 4, l’OFAC délivre les autorisations pour les survols et les atterrissages conformément à l’annexe. Il les délivre en accord avec la Direction du droit international public, les Forces aériennes et le Secrétariat d’Etat à l’économie si ces services sont concernés.
+<sup>2</sup> Sous réserve de l’al. 4, l’OFAC délivre les autorisations pour les survols et les atterrissages conformément à l’annexe. Il les délivre en accord avec la Direction du droit international public, les Forces aériennes et le Secrétariat d’État à l’économie si ces services sont concernés.
 
 <sup>3</sup> Les Forces aériennes délivrent, en lieu et place de l’OFAC, les autorisations en dehors des heures de bureau. Les autorisations sont octroyées conformément aux conditions définies à l’al. 2. Les Forces aériennes décident dans les cas qui ne peuvent être reportés et informent immédiatement les services concernés selon l’al. 2.
 
@@ -107,7 +107,7 @@ Dans la présente ordonnance, on entend par:
 Lorsque les vols bénéficient des prestations du Service du contrôle de la circulation aérienne, les services de la navigation aérienne veillent notamment:
 
 - a. au respect des autorisations délivrées, afin de prévenir le survol de régions où se déroulent des opérations militaires;
-- b. au respect des conditions liées aux droits de survol accordés aux aéronefs d’Etat immatriculés à l’étranger.
+- b. au respect des conditions liées aux droits de survol accordés aux aéronefs d’État immatriculés à l’étranger.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7561](https://fedlex.data.admin.ch/eli/oc/2017/819)).
 
@@ -170,9 +170,11 @@ Les Forces aériennes prennent les mesures qui s’imposent en cas de violations
 
 <sup>1</sup> Lorsque, en vertu de l’art. 7 LA, le Conseil fédéral a restreint ou interdit l’usage de l’espace aérien suisse, l’utilisation de ce dernier requiert une autorisation du commandement des Forces aériennes.
 
-<sup>2</sup> Le commandement des Forces aériennes fixe, dans l’autorisation, les modalités de l’utilisation de l’espace aérien et des aérodromes. Il consulte au préalable la DDIP, l’OFAC, l’Office des transports de l’approvisionnement économique du pays et l’Administration fédérale des douanes.
+<sup>2</sup> Le commandement des Forces aériennes fixe, dans l’autorisation, les modalités de l’utilisation de l’espace aérien et des aérodromes. Il consulte au préalable la DDIP, l’OFAC, l’Office des transports de l’approvisionnement économique du pays et l’Office fédéral de la douane et de la sécurité des frontières[^12-1].
 
 <sup>3</sup> Les interdictions et les restrictions ne sont pas applicables aux aéronefs militaires suisses.
+
+[^12-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 13
 
@@ -221,8 +223,8 @@ Sont abrogées:
 - a. l’ordonnance du 17 octobre 1984 sur la sauvegarde de la souveraineté sur l’espace aérien (OSS)[^17-1];
 - b. l’ordonnance du 8 novembre 1989 concernant la sauvegarde de la souveraineté sur l’espace aérien en cas de navigation aérienne non restreinte[^17-2].
 
-[^17-1]: [[RO 1984 1195](https://fedlex.data.admin.ch/eli/oc/1984/1195_1195_1195), [1997 814](https://fedlex.data.admin.ch/eli/oc/1997/814_814_814), [2001 509](https://fedlex.data.admin.ch/eli/oc/2001/102), [2003 253](https://fedlex.data.admin.ch/eli/oc/2003/42)]
-[^17-2]: [[RO 1989 2360](https://fedlex.data.admin.ch/eli/oc/1989/2360_2360_2360), [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103)]
+[^17-1]: [[RO 1984 1195](https://fedlex.data.admin.ch/eli/oc/1984/1195_1195_1195); [1997 814](https://fedlex.data.admin.ch/eli/oc/1997/814_814_814); [2001 509](https://fedlex.data.admin.ch/eli/oc/2001/102); [2003 253](https://fedlex.data.admin.ch/eli/oc/2003/42)]
+[^17-2]: [[RO 1989 2360](https://fedlex.data.admin.ch/eli/oc/1989/2360_2360_2360); [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103)]
 
 #### Art. 18
 
@@ -234,7 +236,7 @@ Annexe*[^t-1]*
 
 (art. 4, al. 2)
 
-## Autorisations des survols et des atterrissages par des aéronefs militaires et d’autres aéronefs d’Etat étrangers
+## Autorisations des survols et des atterrissages par des aéronefs militaires et d’autres aéronefs d’État étrangers
 
 [^t-1]: Introduite par le ch. II de l’O du 14 mars 2014, en vigueur depuis le 1<sup>er</sup> avr. 2014 ([RO 2014 701](https://fedlex.data.admin.ch/eli/oc/2014/148)).
 
@@ -246,7 +248,7 @@ Annexe*[^t-1]*
 <tr><td>4. Transports d’armes, de munitions ou d’autre matériel de guerre.</td><td>1. Seules des autorisations uniques sont octroyées. 2. L’autorisation est uniquement octroyée si le permis d’importation, d’exportation ou de transit correspondant a été délivré et si les exigences en matière de sécurité, conformément aux instructions techniques de l’Organisation de l’aviation civile internationale (OACI)[^annexu1-lvlu1-1] relatives au transport aérien de marchandises dangereuses, sont remplies.</td><td>DEFR/SECO DDPS/FA DFAE/DDIP</td><td>–</td></tr>
 <tr><td>5. Survols et atterrissages d’aéronefs militaires étrangers appartenant à une catégorie particulière tels que les aéronefs de reconnaissance et les aéronefs de combat non armés, notamment ceux qui participent à des meetings aériens, à des échanges de pilotes et à des compétitions.</td><td>1. Seules des autorisations uniques sont octroyées. 2. Les demandes doivent contenir les informations exigées dans la Publication aéronautique suisse (AIP)[^annexu1-lvlu1-2] chap. GEN 1.2 1, ch. 5.</td><td>–</td><td>DDPS/FA</td></tr>
 <tr><td>6. Aéronefs militaires étrangers appartenant à une catégorie particulière tels que les aéronefs de reconnaissance et les aéronefs de combat non armés qui volent notamment à des fins d’entraînement.</td><td>1. Seules des autorisations uniques sont octroyées. 2. Les demandes doivent contenir les informations exigées dans le manuel sur la navigation aérienne (AIP)<sup>6</sup> chap. GEN 1.2 1, ch. 5.</td><td>DDPS/FA DFAE/DDIP</td><td>–</td></tr>
-<tr><td>7. Autorisations à l’année pour les survols et les atterrissages d’aéronefs non armés, indépendamment du type d’aéronef, en mission pour l’ONU, l’OSCE et des Etats membres de l’OSCE dans le cadre d’activités de l’OSCE à titre de mesures diplomatiques et de maintien de la paix, telles que la mise en œuvre de mesures de confiance et de sécurité (MDCS), et en vertu d’accords à ciel ouvert (*Open Skies*[^annexu1-lvlu1-3]).</td><td>Les autorisations à l’année peuvent être octroyées pour autant que le nombre de vols le justifie.</td><td>DDPS/FA DFAE/DDIP</td><td>SG-DDPS (Sipol)</td></tr>
+<tr><td>7. Autorisations à l’année pour les survols et les atterrissages d’aéronefs non armés, indépendamment du type d’aéronef, en mission pour l’ONU, l’OSCE et des États membres de l’OSCE dans le cadre d’activités de l’OSCE à titre de mesures diplomatiques et de maintien de la paix, telles que la mise en œuvre de mesures de confiance et de sécurité (MDCS), et en vertu d’accords à ciel ouvert (*Open Skies*[^annexu1-lvlu1-3]).</td><td>Les autorisations à l’année peuvent être octroyées pour autant que le nombre de vols le justifie.</td><td>DDPS/FA DFAE/DDIP</td><td>SG-DDPS (Sipol)</td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: Les prescriptions techniques sont publiées sous www.bazl.admin.ch &gt; Documentation &gt; Bases légales. Elles peuvent être consultées gratuitement en langue française ou anglaise auprès de l’OFAC et des services d’information des aéroports nationaux.

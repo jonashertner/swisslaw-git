@@ -4,11 +4,11 @@ title: Verordnung vom 23. März 2005 über die Wahrung der Lufthoheit (VWL)
 short: VWL
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/284"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2005-03-23
 in_force: 2005-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2005-284-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/284/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-284-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/284/20180101/de"
 
 (VWL)
 
-vom 23. März 2005 (Stand am 1. Januar 2018)
+vom 23. März 2005 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -170,9 +170,11 @@ Kommt es zu einer Verletzung von Luftverkehrsregeln oder der Lufthoheit, so trif
 
 <sup>1</sup> Hat der Bundesrat gestützt auf Artikel 7 LFG die Benützung des schweizerischen Luftraums eingeschränkt oder verboten, so ist für die Benützung dieses Luftraums eine Bewilligung des Kommandos der Luftwaffe erforderlich.
 
-<sup>2</sup> Das Kommando der Luftwaffe bestimmt in der Bewilligung die Einzelheiten der Benützung des Luftraumes und der Flugplätze. Es hört vorher die Direktion für Völkerrecht, das BAZL, das Transportamt der wirtschaftlichen Landesversorgung und die Eidgenössische Zollverwaltung an.
+<sup>2</sup> Das Kommando der Luftwaffe bestimmt in der Bewilligung die Einzelheiten der Benützung des Luftraumes und der Flugplätze. Es hört vorher die Direktion für Völkerrecht, das BAZL, das Transportamt der wirtschaftlichen Landesversorgung und das Bundesamt für Zoll und Grenzsicherheit[^12-1] an.
 
 <sup>3</sup> Die Verbote und Einschränkungen gelten nicht für schweizerische Militärluftfahrzeuge.
+
+[^12-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 13
 
