@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2021-11-25
+version: 2022-01-01
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20211125/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20211125-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20211125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (Etat le 25 novembre 2021)
+du 8 juin 2012 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -437,11 +437,12 @@ Le Secrétariat d’État aux migrations (SEM)[^17-1] peut accorder des dérogat
 
 <sup>4</sup> L’Office fédéral de la culture surveille l’exécution des mesures de coercition prévues à l’art. 9*a*.
 
-<sup>5</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>5</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^18-2].
 
 <sup>6</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires pour le gel des ressources économiques, par exemple la mention d’un blocage au registre foncier, ou la saisie ou la mise sous scellé d’articles de luxe.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 17 déc. 2014 ([RO 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^18-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 19
 
@@ -569,9 +570,9 @@ Annexe 1
 
 [^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
 [^annex1-lvlu1-2]: Le renvoi a été adapté au 1<sup>er</sup> juil. 2016 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annex1-lvlu1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site Internet suivant: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^annex1-lvlu1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). L’annexe 3 peut être consultée sur le site Internet suivant: [www.seco.admin.ch](http://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
-Annexe 1a*[^t-1]*
+Annexe 1a[^t-1]
 
 (art. 2*a*, al. 1)
 
@@ -849,7 +850,7 @@ Annexe 4
 <tr><td>ex 8501</td><td>Tous moteurs et machines génératrices électriques d’une puissance excédant 3 MW ou 5000 kVA</td></tr>
 </table>
 
-Annexe 5*[^t-2]*
+Annexe 5[^t-2]
 
 (art. 6, al. 1)
 
@@ -922,18 +923,18 @@ Annexe 6
 <tr><td>7012</td><td>Déchets et débris de métaux précieux ou de plaqué ou doublé de métaux précieux; autres déchets et débris contenant des métaux précieux ou des composés de métaux précieux du type de ceux utilisés principalement pour la récupération des métaux précieux</td></tr>
 </table>
 
-Annexe 7*[^t-3]*
+Annexe 7[^t-3]
 
 (art. 10, al. 1 et 17, al. 1)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex7-lvlu1-1]
 
 [^t-3]: Mise à jour par le ch. I 18 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), le ch. I des O du DEFR du 11 fév. 2013 ([RO 2013 583](https://fedlex.data.admin.ch/eli/oc/2013/115)), du 6 mai 2013 ([RO 2013 1369](https://fedlex.data.admin.ch/eli/oc/2013/324)), du 4 nov. 2013 ([RO 2013 3675](https://fedlex.data.admin.ch/eli/oc/2013/685)), du 20 juin 2014 ([RO 2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)), du 4 août 2014 ([RO 2014 2477](https://fedlex.data.admin.ch/eli/oc/2014/437)), du 9 sept. 2014 ([RO 2014 2941](https://fedlex.data.admin.ch/eli/oc/2014/498)), du 16 déc. 2014 ([RO 2014 4699](https://fedlex.data.admin.ch/eli/oc/2014/790)), du 10 mars 2015 ([RO 2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)), du 17 mars 2015 ([RO 2015 987](https://fedlex.data.admin.ch/eli/oc/2015/183)), du 2 juin 2015 ([RO 2015 1681](https://fedlex.data.admin.ch/eli/oc/2015/332)), du 16 juin 2015 ([RO 2015 2081](https://fedlex.data.admin.ch/eli/oc/2015/389)), du 30 juin 2015 ([RO 2015 2227](https://fedlex.data.admin.ch/eli/oc/2015/412)), du 18 janv. 2016 ([RO 2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)), le ch. I al. 1 de l’O du DEFR du 9 juin 2016 ([RO 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)), le ch. I des O du DEFR du 10 oct. 2016 ([RO 2016 3433](https://fedlex.data.admin.ch/eli/oc/2016/577)), du 7 nov. 2016 ([RO 2016 3811](https://fedlex.data.admin.ch/eli/oc/2016/638)), du 22 nov. 2016 ([RO 2016 4147](https://fedlex.data.admin.ch/eli/oc/2016/686)), du 8 déc. 2016 ([RO 2016 4493](https://fedlex.data.admin.ch/eli/oc/2016/730)), du 27 mars 2017 ([RO 2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)), du 15 juin 2017 ([RO 2017 3399](https://fedlex.data.admin.ch/eli/oc/2017/372)), du 19 juil. 2017 ([RO 2017 3743](https://fedlex.data.admin.ch/eli/oc/2017/439)), du 2 août 2017 ([RO 2017 3885](https://fedlex.data.admin.ch/eli/oc/2017/462)), du 2 oct. 2017 ([RO 2017 5139](https://fedlex.data.admin.ch/eli/oc/2017/562)), du 6 mars 2018 ([RO 2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)), du 26 mars 2018 ([RO 2018 1207](https://fedlex.data.admin.ch/eli/oc/2018/188)), du 11 juin 2018 ([RO 2018 2325](https://fedlex.data.admin.ch/eli/oc/2018/331)), du 17 juil. 2018 ([RO 2018 2747](https://fedlex.data.admin.ch/eli/oc/2018/404)), du 15 juil. 2019 ([RO 2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)), le ch. I al. 1 de l’O du DEFR du 12 août 2019 ([RO 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)), le ch. I des O du DEFR du 27 sept. 2019 ([RO 2019 3087](https://fedlex.data.admin.ch/eli/oc/2019/565)), du 26 fév. 2020 ([RO 2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)), du 25 juin 2020 ([RO 2020 2573](https://fedlex.data.admin.ch/eli/oc/2020/472)), du 29 oct. 2020 ([RO 2020 4523](https://fedlex.data.admin.ch/eli/oc/2020/798)), du 18 nov. 2020 ([RO 2020 4739](https://fedlex.data.admin.ch/eli/oc/2020/854)), du 2 fév. 2021 ([RO 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)), du 20 mai 2021 ([RO 2021 290](https://fedlex.data.admin.ch/eli/oc/2021/290)), du 10 juin 2021 ([RO 2021 341](https://fedlex.data.admin.ch/eli/oc/2021/341)) et du 24 nov. 2021, en vigueur depuis le 25 nov. 2021 ([RO 2021 763](https://fedlex.data.admin.ch/eli/oc/2021/763)).
-[^annex7-lvlu1-1]: Cette annexe n’est pas publiée au RO. L’annexe peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex7-lvlu1-1]: Cette annexe n’est pas publiée au RO. L’annexe peut être commandée au SECO, secteur Sanctions, Holzi­kofenweg 36, 3003 Berne ou consulté sur [www.seco.admin.ch](http://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
-Annexe 8*[^t-4]*
+Annexe 8[^t-4]
 
 (art. 9)
 
@@ -963,7 +964,7 @@ Annexe 8*[^t-4]*
 <tr><td>ex 9504 20, [tab] ex 9504 30, [tab] ex 9504 40 00, [tab] ex 9504 90 00</td><td>Articles et équipements pour les billards, les jeux de quilles automatiques (bowlings, par ex.), les jeux de casino et les jeux fonctionnant par l’introduction d’une pièce de monnaie ou d’un billet de banque, dont le prix de vente unitaire est supérieur à 600 CHF</td></tr>
 </table>
 
-Annexe 9*[^t-5]*
+Annexe 9[^t-5]
 
 (art. 9*a*, al. 1)
 
@@ -1020,7 +1021,7 @@ Sont réputés biens culturels au sens de l’art. 9*a*:
 
   - b. ayant plus de 100 ans.
 
-Annexe 10*[^t-6]*
+Annexe 10[^t-6]
 
 (art. 4*a*)
 

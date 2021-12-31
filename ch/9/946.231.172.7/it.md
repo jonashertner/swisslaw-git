@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2021-11-25
+version: 2022-01-01
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20211125/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20211125-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20211125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 25 novembre 2021)
+dell’8 giugno 2012 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -439,11 +439,12 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 
 <sup>4</sup> L’Ufficio federale della cultura sorveglia l’esecuzione delle misure coercitive di cui all’articolo 9*a*.
 
-<sup>5</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>5</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^18-2].
 
 <sup>6</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^18-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 19
 
@@ -463,7 +464,7 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 
 <sup>3</sup> Le infrazioni di cui ai capoversi 1 e 2 sono perseguite e giudicate dalla SECO; essa può ordinare sequestri o confische.
 
-## Sezione 6: Pubblicazione e disposizioni finali****
+## Sezione 6: Pubblicazione e disposizioni finali
 
 [^sec6-1]
 
@@ -483,7 +484,7 @@ Il contenuto dell’allegato 7 non è pubblicato né nella Raccolta ufficiale de
 
 L’ordinanza del 18 maggio 2011[^21-1] che istituisce provvedimenti nei confronti della Siria è abrogata.
 
-[^21-1]: [[RU 2011 2193](https://fedlex.data.admin.ch/eli/oc/2011/298)[4483](https://fedlex.data.admin.ch/eli/oc/2011/618)[4515](https://fedlex.data.admin.ch/eli/oc/2011/629)[6269](https://fedlex.data.admin.ch/eli/oc/2011/884), [2012 1209](https://fedlex.data.admin.ch/eli/oc/2012/181)[2339](https://fedlex.data.admin.ch/eli/oc/2012/281)[3257](https://fedlex.data.admin.ch/eli/oc/2012/375)]
+[^21-1]: [[RU 2011 2193](https://fedlex.data.admin.ch/eli/oc/2011/298), [4483](https://fedlex.data.admin.ch/eli/oc/2011/618), [4515](https://fedlex.data.admin.ch/eli/oc/2011/629), [6269](https://fedlex.data.admin.ch/eli/oc/2011/884); [2012 1209](https://fedlex.data.admin.ch/eli/oc/2012/181), [2339](https://fedlex.data.admin.ch/eli/oc/2012/281), [3257](https://fedlex.data.admin.ch/eli/oc/2012/375)]
 
 #### Art. 22
 
@@ -573,7 +574,7 @@ Allegato 1
 [^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352).L’all. 3 può essere consultato sul sito Internet seguente (SECO): www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 [^annex1-lvlu1-3]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
 
-Allegato 1a*[^t-1]*
+Allegato 1a[^t-1]
 
 (art. 2*a* cpv. 1)
 
@@ -851,7 +852,7 @@ Allegato 4
 <tr><td>ex 8501</td><td>Tutti i motori e i generatori elettrici di potenza superiore a 3 MW o 5 000 kVA</td></tr>
 </table>
 
-Allegato 5*[^t-2]*
+Allegato 5[^t-2]
 
 (art. 6 cpv. 1)
 
@@ -924,18 +925,18 @@ Allegato 6
 <tr><td>7012</td><td>Cascami ed avanzi di metalli preziosi o di metalli placcati o ricoperti di metalli preziosi; altri cascami ed avanzi contenenti metalli preziosi o composti di metalli preziosi dei tipi utilizzati principalmente per il recupero dei metalli preziosi.</td></tr>
 </table>
 
-Allegato 7*[^t-3]*
+Allegato 7[^t-3]
 
 (art. 10 cpv. 1, 17 cpv. 1)
 
-## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie****
+## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie
 
 [^annex7-lvlu1-1]
 
 [^t-3]: Aggiornato dal n. I 18 dell’O del 19 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dai n. I delle O del DEFR dell’11 feb. 2013 ([RU 2013 583](https://fedlex.data.admin.ch/eli/oc/2013/115)), del 6 mag. 2013 ([RU 2013 1369](https://fedlex.data.admin.ch/eli/oc/2013/324)), del 4 nov. 2013 ([RU 2013 3675](https://fedlex.data.admin.ch/eli/oc/2013/685)), del 20 giu. 2014 ([RU 2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)), del 4 ago. 2014 ([RU 2014 2477](https://fedlex.data.admin.ch/eli/oc/2014/437)), del 9 set. 2014 ([RU 2014 2941](https://fedlex.data.admin.ch/eli/oc/2014/498)), del 16 dic. 2014 ([RU 2014 4699](https://fedlex.data.admin.ch/eli/oc/2014/790)), del 10 mar. 2015 ([RU 2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)), del 17 mar. 2015 ([RU 2015 987](https://fedlex.data.admin.ch/eli/oc/2015/183)), del 2 giu. 2015 ([RU 2015 1681](https://fedlex.data.admin.ch/eli/oc/2015/332)), del 16 giu. 2015 ([RU 2015 2081](https://fedlex.data.admin.ch/eli/oc/2015/389)), del 30 giu. 2015 ([RU 2015 2227](https://fedlex.data.admin.ch/eli/oc/2015/412)), del 18 gen. 2016 ([RU 2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)), dal n. I cpv. 1 dell’O del DEFR del 9 giu. 2021 ([RU 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)), dai n. I delle O del DEFR del 10 ott. 2016 ([RU 2016 3433](https://fedlex.data.admin.ch/eli/oc/2016/577)), del 7 nov. 2016 ([RU 2016 3811](https://fedlex.data.admin.ch/eli/oc/2016/638)), del 22 nov. 2016 ([RU 2016 4147](https://fedlex.data.admin.ch/eli/oc/2016/686)), dell’8 dic. 2016 ([RU 2016 4493](https://fedlex.data.admin.ch/eli/oc/2016/730)), del 27 mar. 2017 ([RU 2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)), del 15 giu. 2017 ([RU 2017 3399](https://fedlex.data.admin.ch/eli/oc/2017/372)), del 19 lug. 2017 ([RU 2017 3743](https://fedlex.data.admin.ch/eli/oc/2017/439)), del 2 ago. 2017 ([RU 2017 3885](https://fedlex.data.admin.ch/eli/oc/2017/462)), del 2 ott. 2017 ([RU 2017 5139](https://fedlex.data.admin.ch/eli/oc/2017/562)), del 6 mar. 2018 ([RU 2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)), del 26 mar. 2018 ([RU 2018 1207](https://fedlex.data.admin.ch/eli/oc/2018/188)), dell’11 giu. 2018 ([RU 2018 2325](https://fedlex.data.admin.ch/eli/oc/2018/331)), del 17 lug. 2018 ([RU 2018 2747](https://fedlex.data.admin.ch/eli/oc/2018/404)), del 15 lug. 2019 ([RU 2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)), dal n. I cpv. 1 dell’O del DEFR del 12 ago. 2019 ([RU 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)), dai n. I delle O del DEFR dei 27 set. 2019 ([RU 2019 3087](https://fedlex.data.admin.ch/eli/oc/2019/565)), del 26 feb. 2020 ([RU 2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)), del 25 giu. 2020 ([RU 2020 2573](https://fedlex.data.admin.ch/eli/oc/2020/472)), del 29 ott. 2020 ([RU 2020 4523](https://fedlex.data.admin.ch/eli/oc/2020/798)), del 18 nov. 2020 ([RU 2020 4739](https://fedlex.data.admin.ch/eli/oc/2020/854)), del 2 feb. 2021 ([RU 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)), del 20 mag. 2021 ([RU 2021 290](https://fedlex.data.admin.ch/eli/oc/2021/290)), del 10 giu. 2021 ([RU 2021 341](https://fedlex.data.admin.ch/eli/oc/2021/341)) e del 24 nov. 2021, in vigore dal 25 nov. 2021 ([RU 2021 763](https://fedlex.data.admin.ch/eli/oc/2021/763)).
 [^annex7-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
 
-Allegato 8*[^t-4]*
+Allegato 8[^t-4]
 
 (art. 9)
 
@@ -965,7 +966,7 @@ Allegato 8*[^t-4]*
 <tr><td>ex 9504 20, [tab] ex 9504 30, [tab] ex 9504 40 00, [tab] ex 9504 90 00</td><td>Articoli ed attrezzature per il biliardo, il bowling automatico, i giochi per casinò ed i giochi azionati da monete o banconote, se il prezzo unitario di vendita è superiore a 600 CHF</td></tr>
 </table>
 
-Allegato 9*[^t-5]*
+Allegato 9[^t-5]
 
 (art. 9*a* cpv. 1)
 
@@ -1019,7 +1020,7 @@ Sono considerati beni culturali ai sensi dell’articolo 9*a*:
 
   - b. aventi più di 100 anni.
 
-Allegato 10*[^t-6]*
+Allegato 10[^t-6]
 
 (art. 4*a*)
 

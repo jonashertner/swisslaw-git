@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2021-11-25
+version: 2022-01-01
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20211125/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20211125-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20211125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 25. November 2021)
+vom 8. Juni 2012 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -437,11 +437,12 @@ Das Staatssekretariat für Migration (SEM)[^17-1] kann Ausnahmen gewähren:
 
 <sup>4</sup> Das Bundesamt für Kultur überwacht den Vollzug der Zwangsmassnahmen nach Artikel 9*a*.
 
-<sup>5</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>5</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^18-2].
 
 <sup>6</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen, zum Beispiel die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 17. Dez. 2014, in Kraft seit 17. Dez. 2014 ([AS 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^18-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 19
 
@@ -571,7 +572,7 @@ Anhang 1
 [^annex1-lvlu1-2]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Anhang 3 GKV ist abrufbar unter folgender Internetadresse: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Industrieprodukte und besondere militärische Güter &gt; Rechtliche Grundlagen und Güterlisten.
 [^annex1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2016 angepasst.
 
-Anhang 1a*[^t-1]*
+Anhang 1a[^t-1]
 
 (Art. 2*a* Abs. 1)
 
@@ -672,7 +673,7 @@ Technische Anmerkungen:
 
 - *a)* *Ein «Blowout-Preventer» ist ein Gerät, das in der Regel während der Bohrungen in Bodennähe eingesetzt wird (bzw. bei Unterwasserbohrungen auf dem Meeresboden), um das unkontrollierte Ausströmen von Erdöl und/oder Erdgas aus dem Bohrloch zu verhindern.*
 - *b)* *Ein «Eruptionskreuz» ist ein Gerät, das in der Regel eingesetzt wird, um den Ausfluss der Flüssigkeiten aus dem Bohrloch nach dessen Fertigstellung und nach dem Beginn der Erdöl- und/oder Erdgasförderung zu kontrollieren.*
-- *c)* Für die Zwecke dieser Nummer bezieht sich «API- und ISO-Spezifikationen» auf die Spezifikationen 6A, 16A, 17D und 11IW des American Petroleum Institute und/oder die ISO-Normen 10423 und 13533 für Blowout-Preventer, Bohrlochkopf- und Eruptions *kreuz-Ausrüstung zur Verwendung in Erdöl- und/oder Erdgasbohrlöchern.*
+- *c)* *Für die Zwecke dieser Nummer bezieht sich «API- und ISO-Spezifikationen» auf die Spezifikationen 6A, 16A, 17D und 11IW des American Petroleum Institute und/oder die ISO-Normen 10423 und 13533 für Blowout-Preventer, Bohrlochkopf- und Eruptions* *kreuz-Ausrüstung zur Verwendung in Erdöl- und/oder Erdgasbohrlöchern.*
 
 \6. Bohr- und Förderinseln für Erdöl und Erdgas.
 
@@ -922,18 +923,18 @@ Anhang 6
 <tr><td>7012</td><td>Abfälle und Schrott, von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, wie sie hauptsächlich zur Wiedergewinnung von Edelmetallen verwendet werden.</td></tr>
 </table>
 
-Anhang 7*[^t-3]*
+Anhang 7[^t-3]
 
 (Art. 10 Abs. 1 und 17 Abs. 1)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex7-lvlu1-1]
 
 [^t-3]: Bereinigt gemäss Ziff. I 18 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 11. Febr. 2013 ([AS 2013 583](https://fedlex.data.admin.ch/eli/oc/2013/115)), vom 6. Mai 2013 ([AS 2013 1369](https://fedlex.data.admin.ch/eli/oc/2013/324)), vom 4. Nov. 2013 ([AS 2013 3675](https://fedlex.data.admin.ch/eli/oc/2013/685)), vom 20. Juni 2014 ([AS 2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)), vom 4. Aug. 2014 ([AS 2014 2477](https://fedlex.data.admin.ch/eli/oc/2014/437)), vom 9. Sept. 2014 ([AS 2014 2941](https://fedlex.data.admin.ch/eli/oc/2014/498)), vom 16. Dez. 2014 ([AS 2014 4699](https://fedlex.data.admin.ch/eli/oc/2014/790)), vom 10. März 2015 ([AS 2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)), vom 17. März 2015 ([AS 2015 987](https://fedlex.data.admin.ch/eli/oc/2015/183)), vom 2. Juni 2015 ([AS 2015 1681](https://fedlex.data.admin.ch/eli/oc/2015/332)), vom 16. Juni 2015 ([AS 2015 2081](https://fedlex.data.admin.ch/eli/oc/2015/389)), vom 30. Juni 2015 ([AS 2015 2227](https://fedlex.data.admin.ch/eli/oc/2015/412)), vom 18. Jan. 2016 ([AS 2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)), Ziff. I Abs. 1 der V des WBF vom 9. Juni 2016 ([AS 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)), Ziff. I der V des WBF vom 10. Okt. 2016 ([AS 2016 3433](https://fedlex.data.admin.ch/eli/oc/2016/577)), vom 7. Nov. 2016 ([AS 2016 3811](https://fedlex.data.admin.ch/eli/oc/2016/638)), vom 22. Nov. 2016 ([AS 2016 4147](https://fedlex.data.admin.ch/eli/oc/2016/686)), vom 8. Dez. 2016 ([AS 2016 4493](https://fedlex.data.admin.ch/eli/oc/2016/730)), vom 27. März 2017 ([AS 2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)), vom 15. Juni 2017 ([AS 2017 3399](https://fedlex.data.admin.ch/eli/oc/2017/372)), vom 19. Juli 2017 ([AS 2017 3743](https://fedlex.data.admin.ch/eli/oc/2017/439)), vom 2. Aug. 2017 ([AS 2017 3885](https://fedlex.data.admin.ch/eli/oc/2017/462)), vom 2. Okt. 2017 ([AS 2017 5139](https://fedlex.data.admin.ch/eli/oc/2017/562)), vom 6. März 2018 ([AS 2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)), vom 26. März 2018 ([AS 2018 1207](https://fedlex.data.admin.ch/eli/oc/2018/188)), vom 11. Juni 2018 ([AS 2018 2325](https://fedlex.data.admin.ch/eli/oc/2018/331)), vom 17. Juli 2018 ([AS 2018 2747](https://fedlex.data.admin.ch/eli/oc/2018/404)), vom 15. Juli 2019 ([AS 2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)), Ziff. I Abs. 1 der V des WBF vom 12. Aug. 2019 ([AS 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)), Ziff. I der V des WBF vom 27. Sept. 2019 ([AS 2019 3087](https://fedlex.data.admin.ch/eli/oc/2019/565)), vom 26. Febr. 2020 ([AS 2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)), vom 25. Juni 2020 ([AS 2020 2573](https://fedlex.data.admin.ch/eli/oc/2020/472)), vom 29. Okt. 2020 ([AS 2020 4523](https://fedlex.data.admin.ch/eli/oc/2020/798)), vom 18. Nov. 2020 ([AS 2020 4739](https://fedlex.data.admin.ch/eli/oc/2020/854)), vom 2. Febr. 2021 ([AS 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)), vom 20. Mai 2021 ([AS 2021 290](https://fedlex.data.admin.ch/eli/oc/2021/290)), vom 10. Juni 2021 ([AS 2021 341](https://fedlex.data.admin.ch/eli/oc/2021/341)) und vom 24. Nov. 2021, in Kraft seit 25. Nov. 2021 ([AS 2021 763](https://fedlex.data.admin.ch/eli/oc/2021/763)).
 [^annex7-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 8*[^t-4]*
+Anhang 8[^t-4]
 
 (Art. 9)
 
