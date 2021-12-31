@@ -3,18 +3,18 @@ sr: "412.101.222.17"
 title: Ordinanza della SEFRI del 19 dicembre 2014 sulla formazione professionale di base Orologiaia di produzione/Orologiaio di produzione con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/83"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2014-12-19
 in_force: 2015-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2015-83-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-83-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Orologiaia di produzione/Orologiaio di produzione con attestato federale di capacità (AFC)
 
-del 19 dicembre 2014 (Stato 1° gennaio 2018)
+del 19 dicembre 2014 (Stato 1° gennaio 2022)
 
 <table>
 <tr><td>49207</td><td>Orologiaia di produzione AFC/Orologiaio di produzione AFC Uhrmacherin Produktion EFZ/ Uhrmacher Produktion EFZ Horlogère de production CFC/horloger de production CFC</td></tr>
@@ -24,7 +24,7 @@ La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI),
 
 visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazione professionale; visto l’articolo 12 dell’ordinanza del 19 novembre 2003[^ingress-2] sulla formazione professionale (OFPr); visto l’articolo 4 capoverso 4 dell’ordinanza del 28 settembre 2007[^ingress-3] sulla protezione dei giovani lavoratori (OLL 5),
 
-ordina:*[^ingress-4]*
+ordina:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -63,11 +63,13 @@ Gli orologiai di produzione di livello AFC svolgono, in particolare, le seguenti
 
 **Formazione modulare**
 
-<sup>1</sup> La formazione professionale di base di orologiaio di produzione può essere offerta anche sotto forma di moduli per adulti paralleli all’attività lavorativa.
+<sup>1</sup> La formazione professionale di base di orologiaio di produzione AFC può anche essere offerta sotto forma di moduli per adulti.[^3-1]
 
 <sup>2</sup> Sono ammesse alla formazione modulare le persone che all’inizio della formazione hanno almeno 20 anni compiuti.
 
 <sup>3</sup> I moduli per il conseguimento dell’AFC devono essere conclusi entro 5 anni dall’iscrizione al relativo percorso, fatta salva la ripetizione del modulo finale.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## Sezione 2: Obiettivi ed esigenze
 
@@ -110,11 +112,11 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
   esecuzione di operazioni di rifinitura e regolazione:
 
   - 1\. eseguire operazioni di rifinitura,
-  - 2\. eseguire regolazioni,
+  - 2\.[^5-1] eseguire operazioni di regolazione;
 
 - d.
 
-  Messa a norma dei movimenti e della parte estetica:
+  messa a norma dei movimenti e della parte estetica:
 
   - 1\. eseguire operazioni di revisione o sostituzione di componenti per rimettere a norma un reso di merce,
   - 2\. mettere a norma i componenti della parte estetica di articoli attuali;
@@ -124,7 +126,8 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
   partecipazione al processo di produzione:
 
   - 1\. organizzare il lavoro nell’ambito del processo di produzione,
-  - 2\. redigere e organizzare i documenti informatici;
+  - 2\. redigere e organizzare i documenti informatici,
+  - 3\.[^5-2] applicare le direttive in materia di qualità;
 
 - f.
 
@@ -132,7 +135,11 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
   - 1\. garantire la protezione della salute,
   - 2\. garantire la sicurezza sul lavoro,
-  - 3\. garantire il rispetto dell’ambiente.
+  - 3\.[^5-3] garantire la protezione dell’ambiente.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^5-2]: Introdotto dal n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^5-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
 
@@ -167,21 +174,21 @@ La formazione professionale pratica in azienda comprende in media da 3 a 4 giorn
 <sup>1</sup> L’insegnamento obbligatorio presso la scuola professionale comprende 1360 lezioni. Dette lezioni sono suddivise secondo la tabella seguente:
 
 <table>
-<tr><th>Insegnamento</th><th>1° anno</th><th>2° anno</th><th>3° anno</th><th>Totale</th></tr>
+<tr><td>Insegnamento</td><td>1° anno</td><td>2° anno</td><td>3° anno</td><td>Totale</td></tr>
 <tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– realizzazione di strumenti e attrezzi per lavori di orologeria, applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente</td><td>100</td><td>100</td><td>80</td><td>280 (20)</td></tr>
-<tr><td>– assemblaggio di componenti</td><td>220</td><td>150</td><td>–</td><td>370</td></tr>
-<tr><td>– esecuzione di operazioni di rifinitura e regolazione</td><td>–</td><td>60</td><td>30</td><td>90</td></tr>
-<tr><td>– partecipazione al processo di produzione</td><td>40</td><td>50</td><td>50</td><td>140</td></tr>
-<tr><td>Totale</td><td>360</td><td>360</td><td>160</td><td>880</td></tr>
+<tr><td>– Realizzazione di strumenti e attrezzi per lavori di orologeria (*compresa l’applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente)*</td><td>100</td><td>100</td><td>40</td><td>240 *(20)*</td></tr>
+<tr><td>– Assemblaggio di componenti</td><td>200</td><td>160</td><td>40</td><td>400</td></tr>
+<tr><td>– Esecuzione di operazioni di rifinitura e regolazione</td><td>–</td><td>40</td><td>40</td><td>80</td></tr>
+<tr><td>– Partecipazione al processo di produzione</td><td>60</td><td>60</td><td>40</td><td>160</td></tr>
+<tr><td>Totale conoscenze professionali</td><td>360</td><td>360</td><td>160</td><td>**880**</td></tr>
 <tr><td>b. Cultura generale</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
-<tr><td>c. Sport</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 120</td></tr>
-<tr><td>Totale delle lezioni</td><td>520</td><td>520</td><td>320</td><td>1360</td></tr>
+<tr><td>c. Educazione fisica</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
+<tr><td>Totale delle lezioni</td><td>520</td><td>520</td><td>320</td><td>**1360**.[^8-1]</td></tr>
 </table>
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammesse deroghe minime al numero di lezioni prescritte per anno di formazione in un campo di competenze operative.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^8-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^8-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>4</sup> La lingua d’insegnamento è di norma la lingua nazionale del luogo in cui si trova la scuola professionale.
 
@@ -189,7 +196,8 @@ La formazione professionale pratica in azienda comprende in media da 3 a 4 giorn
 
 <sup>6</sup> I Cantoni possono autorizzare altre lingue d’insegnamento.
 
-[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^8-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^8-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 9
 
@@ -219,19 +227,24 @@ Le giornate e i contenuti sono ripartiti in 3 corsi come segue:
 
 <table>
 <tr><td>Moduli</td><td>Formazione professionale pratica</td><td>Conoscenze professionali</td><td>Totale periodi</td></tr>
-<tr><td>[tab] 1. Modulo di base</td><td>260</td><td>190</td><td>450</td></tr>
-<tr><td>[tab] 2. Modulo assemblaggio</td><td>220</td><td>105</td><td>325</td></tr>
-<tr><td>[tab] 3. Modulo posa-incassatura</td><td>205</td><td>75</td><td>280</td></tr>
-<tr><td>[tab] 4. Modulo rifinitura-regolazione</td><td>380</td><td>80</td><td>460</td></tr>
-<tr><td>[tab] 5. Modulo finale</td><td>[tab] 500</td><td>[tab] 425</td><td>[tab] 925</td></tr>
-<tr><td>Totale periodi di formazione</td><td>1565</td><td>875</td><td>2440</td></tr>
+<tr><td>1. Modulo di base</td><td>260</td><td>190</td><td>450</td></tr>
+<tr><td>2. Modulo assemblaggio o modulo habillage</td><td>220</td><td>105</td><td>325</td></tr>
+<tr><td>3. Modulo posa-incassatura</td><td>205</td><td>75</td><td>280</td></tr>
+<tr><td>4. Modulo rifinitura-regolazione</td><td>380</td><td>80</td><td>460</td></tr>
+<tr><td>5. Modulo finale</td><td>500</td><td>425</td><td>925</td></tr>
+<tr><td>Totale periodi di formazione</td><td>**1565**</td><td>**875**</td><td>**2440**.[^10-1]</td></tr>
 </table>
+
+<sup>1bis</sup> Le persone in formazione devono scegliere tra il modulo assemblaggio e il modulo habillage.[^10-2]
 
 <sup>2</sup> La ripartizione delle competenze operative all’interno dei moduli è stabilita nel regolamento della formazione modulare del 19 dicembre 2014 emanato dalla *Co**n**vention patronale de l’industrie ho**r**logère suisse*.
 
 <sup>3</sup> Gli obiettivi di valutazione dei corsi interaziendali definiti nel piano di formazione sono ripartiti all’interno dei vari moduli.
 
 <sup>4</sup> I Cantoni sono responsabili dell’organizzazione del modulo sull’insegnamento della cultura generale.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^10-2]: Introdotto dal n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## Sezione 5: Piano di formazione
 
@@ -263,11 +276,15 @@ Il piano di formazione:
 
 **Requisiti professionali minimi richiesti ai formatori**
 
-I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere a e b OFPr sono soddisfatti se il formatore possiede una delle seguenti qualifiche:
+Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:[^12-1]
 
-- a. attestato federale di capacità di orologiaio di produzione AFC e almeno 3 anni di esperienza professionale nel campo d’insegnamento;
+- a.[^12-2] attestato federale di capacità di orologiaio di produzione AFC o di orologiaio AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - b. attestato federale di capacità di orologiaio pratico qualificato con almeno 3 anni di esperienza professionale nel campo d’insegnamento;
-- c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’orologiaio di produzione AFC e almeno 3 anni di esperienza professionale nel campo d’insegnamento.
+- c.[^12-3] titolo equivalente a quello di orologiaio di produzione AFC con le necessarie conoscenze professionali nel campo di attività dell’orologiaio di produzione AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento.
+
+[^12-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^12-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^12-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 13
 
@@ -351,7 +368,14 @@ Nelle procedure di qualificazione occorre dimostrare di aver acquisito le compet
 
 Nella procedura di qualificazione con esame finale vengono esaminate, nel modo indicato, le competenze operative dei seguenti campi di qualificazione:
 
-- a. «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di 16 ore. L’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali. Il campo di qualificazione comprende i campi di competenze operative sottoelencati con le seguenti ponderazioni:
+- a.[^20-1]
+
+  «lavoro pratico», sotto forma di lavoro pratico prestabilito della durata di 16 ore; vale quanto segue:
+
+  - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base;
+  - 2\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione;
+  - 3\. è ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+  - 4\. il campo di qualificazione comprende i campi di competenze operative sottoelencati con le ponderazioni seguenti:
 
 <table>
 <tr><td>Voce</td><td>Campo di competenze operative</td><td>Ponderazione</td></tr>
@@ -361,21 +385,14 @@ Nella procedura di qualificazione con esame finale vengono esaminate, nel modo i
 <tr><td>4.</td><td>Partecipazione al processo di produzione</td><td>20 %</td></tr>
 </table>
 
-- b. «conoscenze professionali», della durata di sei ore. L’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base. Il campo di qualificazione «conoscenze professionali» comprende i campi di competenze operative e i tipi di esame sottoelencati con le seguenti ponderazioni:
-
-<table>
-<tr><td>Voce</td><td>Campo di competenze operative</td><td colspan="2">Tipo di esame/Durata</td><td>Ponderazione</td></tr>
-<tr><td></td><td></td><td>scritto</td><td>orale</td><td></td></tr>
-<tr><td>1.</td><td>Realizzazione di strumenti e attrezzi per lavori di orologeria</td><td>240 min.</td><td></td><td>40 %</td></tr>
-<tr><td>2.</td><td>Assemblaggio di componenti, esecuzione di operazioni di rifinitura e regolazione</td><td>90 min.</td><td></td><td>40 %</td></tr>
-<tr><td>3.</td><td>Partecipazione al processo di produzione, applicazione delle norme relative alla sicurezza sul lavoro e alla protezione della salute e dell’ambiente</td><td>30 min.</td><td></td><td>20 %</td></tr>
-</table>
-
-- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^20-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- b.[^20-2] «conoscenze professionali», della durata di tre ore; il campo di qualificazione è valutato con un esame scritto verso la fine della formazione professionale di base e comprende tutti i campi di competenze operative;
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^20-3] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^20-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^20-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35), [555](https://fedlex.data.admin.ch/eli/oc/2021/555)).
+[^20-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^20-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 21
 
@@ -394,16 +411,18 @@ Gli esami di fine modulo sono costituiti da:
 - a. un lavoro pratico sotto forma di lavoro pratico prestabilito;
 - b. un esame scritto delle conoscenze professionali.
 
-<sup>5</sup> Gli esami di fine modulo sono organizzati come segue:
+<sup>5</sup> Sono organizzati come segue:
 
 <table>
-<tr><td>Moduli</td><td>Durata esame lavoro pratico</td><td>Durata esame conoscenze professionali</td></tr>
-<tr><td>1. Modulo di base</td><td>[tab] 5 ore</td><td>[tab] 3 ore</td></tr>
-<tr><td>2. Modulo assemblaggio</td><td>[tab] 6 ore</td><td>[tab] 2 ore</td></tr>
-<tr><td>3. Modulo posa-incassatura</td><td>[tab] 4 ore</td><td>[tab] 1 ora</td></tr>
-<tr><td>4. Modulo rifinitura-regolazione</td><td>[tab] 8 ore</td><td>[tab] 1,5 ore</td></tr>
-<tr><td>5. Modulo finale</td><td>[tab] 8 ore</td><td>[tab] 5 ore</td></tr>
+<tr><th></th><th>Moduli</th><th>Durata esame lavoro pratico</th><th>Durata esame conoscenze professionali</th></tr>
+<tr><td>1.</td><td>Modulo di base</td><td>5 ore</td><td>1 ora</td></tr>
+<tr><td>2.</td><td>Modulo assemblaggio o modulo habillage</td><td>6 ore</td><td>1 ora</td></tr>
+<tr><td>3.</td><td>Modulo posa-incassatura</td><td>4 ore</td><td>1 ora</td></tr>
+<tr><td>4.</td><td>Modulo rifinitura-regolazione</td><td>8 ore</td><td>1 ora</td></tr>
+<tr><td>5.</td><td>Modulo finale</td><td>8 ore</td><td>1 ora .[^21-1]</td></tr>
 </table>
+
+[^21-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 22
 
@@ -599,6 +618,18 @@ Sono abrogati:
 <sup>1</sup> Le persone che hanno iniziato la formazione di orologiaio pratico prima del 1° marzo 2015 la portano a termine in base al diritto anteriore.
 
 <sup>2</sup> Chi ripete la procedura di qualificazione con esame finale per orologiaio pratico entro il 31 dicembre 2019 viene valutato, su richiesta, in base al diritto anteriore.
+
+#### Art. 31a
+
+**Disposizioni transitorie della modifica del 22 dicembre 2020**[^31a-1]
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di orologiaio di produzione AFC prima della modifica del 22 dicembre 2020 la portano a termine in base al diritto anteriore.
+
+<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per orologiaio di produzione AFC entro il 31 dicembre 2026 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+
+<sup>3</sup> I candidati che ripetono l’esame di fine modulo dell’ultimo modulo della formazione modulare per orologiaio di produzione AFC entro il 31 dicembre 2029 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+
+[^31a-1]: Introdotto dal n. I dell’O della SEFRI del 22 dic. 2020, in vigore dal 1° gen. 2022 ([RU 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 32
 

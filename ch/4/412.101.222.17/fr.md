@@ -3,18 +3,18 @@ sr: "412.101.222.17"
 title: "Ordonnance du SEFRI du 19 décembre 2014 sur la formation professionnelle initiale d'horlogère de production/horloger de production avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/83"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2014-12-19
 in_force: 2015-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-83-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-83-20220101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du SEFRI sur la formation professionnelle initiale d’horlogère de production/horloger de production avec certificat fédéral de capacité (CFC)**\***
+# Ordonnance du SEFRI sur la formation professionnelle initiale d’horlogère de production/horloger de production avec certificat fédéral de capacité (CFC)\*
 
-du 19 décembre 2014 (Etat le 1<sup>er</sup> janvier 2018)[^t-1]
+du 19 décembre 2014 (État le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -26,7 +26,7 @@ Le Secrétariat d’État à la formation, à la recherche et à l’innovation 
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^ingress-1], vu l’art. 12 de l’ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)[^ingress-2], vu l’art. 4, al. 4, de l’ordonnance du 28 septembre 2007 sur la protection des jeunes travailleurs (OLT 5)[^ingress-3],
 
-arrête:*[^ingress-4]*
+arrête:[^ingress-4]
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -65,11 +65,13 @@ Les horlogers de production de niveau CFC maîtrisent notamment les activités s
 
 **Formation modulaire**
 
-<sup>1</sup> La formation professionnelle initiale d’horloger de production peut également être proposée sous la forme de modules pour adultes en cours d’emploi.
+<sup>1</sup> La formation professionnelle initiale d’horloger de production peut également être proposée sous la forme de modules pour adultes.[^3-1]
 
 <sup>2</sup> Peut être admise dans la formation modulaire toute personne âgée de 20 ans révolus au début de la formation.
 
 <sup>3</sup> Les modules menant au CFC doivent être terminés dans les 5 ans qui suivent l’inscription à la voie menant au CFC, sous réserve de la répétition du module terminal.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## Section 2 Objectifs et exigences
 
@@ -112,7 +114,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   Réalisation d’opérations d’achevage et de réglage:
 
   - 1\. effectuer des opérations d’achevage,
-  - 2\. effectuer des réglages;
+  - 2\.[^5-1] effectuer des opérations de réglage;
 
 - d.
 
@@ -126,15 +128,21 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   Participation au processus de production:
 
   - 1\. organiser le travail dans le cadre de la production,
-  - 2\. réaliser et organiser les documents informatiques;
+  - 2\. réaliser et organiser les documents informatiques,
+  - 3\.[^5-2] appliquer les directives de qualité;
 
 - f.
 
-  Application des directives de sécurité au travail, de protection de la santé et de l’environnement:
+  Application des directives de sécurité au travail, de protection de la santé et de protection de l’environnement:[^5-3]
 
   - 1\. veiller à la protection de la santé,
   - 2\. veiller à la sécurité au travail,
-  - 3\. veiller au respect de l’environnement.
+  - 3\.[^5-4] veiller à la protection de l’environnement.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^5-2]: Introduit par le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
 
@@ -152,7 +160,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 [^6-1]: Nouvelle teneur selon le ch. II 161 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
-## Section 4 Etendue de la formation dans les différents lieux de formation et langue d’enseignement
+## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
 #### Art. 7
 
@@ -162,26 +170,26 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 #### Art. 8
 
-**Ecole professionnelle**
+**École professionnelle**
 
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 1360 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
 <table>
-<tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>3<sup>e</sup> année</th><th>Total</th></tr>
-<tr><th>a. Connaissances professionnelles</th><th></th><th></th><th></th><th></th></tr>
-<tr><td>– Réalisation d’outils et d’outillage horloger, Application des directives de sécurité au travail, de protection de la santé et de l’environnement</td><td>100</td><td>100</td><td>80</td><td>280 (20)</td></tr>
-<tr><td>– Assemblage de composants</td><td>220</td><td>150</td><td>–</td><td>370</td></tr>
-<tr><td>– Réalisation d’opérations d’achevage et de réglage</td><td>–</td><td>60</td><td>30</td><td>90</td></tr>
-<tr><td>– Participation au processus de production</td><td>40</td><td>50</td><td>50</td><td>140</td></tr>
-<tr><td>Total</td><td>360</td><td>360</td><td>160</td><td>880</td></tr>
+<tr><td>Enseignement</td><td>1<sup>re</sup> année</td><td>2<sup>e</sup> année</td><td>3<sup>e</sup> année</td><td>Total</td></tr>
+<tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Réalisation d’outils et d’outillage horloger *(dont: Application des directives de sécurité au travail, de protection de la santé et de protection de l’environnement)*</td><td>100</td><td>100</td><td>40</td><td>240 *(20)*</td></tr>
+<tr><td>– Assemblage de composants</td><td>200</td><td>160</td><td>40</td><td>400</td></tr>
+<tr><td>– Réalisation d’opérations d’achevage et de réglage</td><td>–</td><td>40</td><td>40</td><td>80</td></tr>
+<tr><td>– Participation au processus de production</td><td>60</td><td>60</td><td>40</td><td>160</td></tr>
+<tr><td>Total</td><td>360</td><td>360</td><td>160</td><td>**880**</td></tr>
 <tr><td>b. Culture générale</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
-<tr><td>c. Sport</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 120</td></tr>
-<tr><td>Total des périodes d’enseignement</td><td>520</td><td>520</td><td>320</td><td>1360</td></tr>
+<tr><td>c. Sport</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
+<tr><td>Total des périodes d’enseignement</td><td>520</td><td>520</td><td>320</td><td>**1360**.[^8-1]</td></tr>
 </table>
 
 <sup>2</sup> De légères divergences par rapport au nombre prescrit de périodes d’enseignement par année d’apprentissage au sein d’un domaine de compétences opérationnelles sont possibles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^8-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^8-2].
 
 <sup>4</sup> La langue d’enseignement est en règle générale la langue nationale du lieu d’implantation de l’école.
 
@@ -189,7 +197,8 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>6</sup> Les cantons peuvent admettre d’autres langues d’enseignement.
 
-[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^8-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 9
 
@@ -215,23 +224,28 @@ Les jours et les contenus sont répartis sur 3 cours comme suit:
 
 **Formation modulaire**
 
-<sup>1</sup> Dans le cadre de la formation modulaire, les compétences opérationnelles décrites à l’article 5 sont organisées selon les modules ci-après et selon le nombre de périodes suivant:
+<sup>1</sup> Dans le cadre de la formation modulaire, les compétences opérationnelles décrites à l’art. 5 sont organisées selon les modules ci-après et selon le nombre de périodes suivant:
 
 <table>
 <tr><td>Modules</td><td>Formation à la pratique professionnelle</td><td>Connaissances professionnelles</td><td>Total périodes</td></tr>
-<tr><td>[tab] 1. module de base</td><td>260</td><td>190</td><td>450</td></tr>
-<tr><td>[tab] 2. module d’assemblage</td><td>220</td><td>105</td><td>325</td></tr>
-<tr><td>[tab] 3. module de posage-emboîtage</td><td>205</td><td>75</td><td>280</td></tr>
-<tr><td>[tab] 4. module d’achevage-réglage</td><td>380</td><td>80</td><td>460</td></tr>
-<tr><td>[tab] 5. module terminal</td><td>500</td><td>425</td><td>925</td></tr>
-<tr><td>Total des périodes de formation</td><td>1565</td><td>875</td><td>2440</td></tr>
+<tr><td>1. Module de base</td><td>260</td><td>190</td><td>450</td></tr>
+<tr><td>2. Module d’assemblage ou module d’habillage horloger</td><td>220</td><td>105</td><td>325</td></tr>
+<tr><td>3. Module de posage-emboîtage</td><td>205</td><td>75</td><td>280</td></tr>
+<tr><td>4. Module d’achevage-réglage</td><td>380</td><td>80</td><td>460</td></tr>
+<tr><td>5. Module terminal</td><td>500</td><td>425</td><td>925</td></tr>
+<tr><td>Total des périodes de formation</td><td>1565</td><td>875</td><td>**2440**.[^10-1]</td></tr>
 </table>
+
+<sup>1</sup> <sup>bis</sup> La personne en formation choisit entre le module d’assemblage et le module d’habillage horloger.[^10-2]
 
 <sup>2</sup> La répartition des compétences opérationnelles dans les modules est définie dans le règlement de la formation modulaire du 19 décembre 2014 édicté par la Convention patronale de l’industrie horlogère suisse.
 
 <sup>3</sup> Les objectifs évaluateurs des cours interentreprises fixés dans le plan de formation sont répartis dans les différents modules.
 
 <sup>4</sup> Les cantons sont responsables de l’organisation des modules de l’enseignement de la culture générale.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^10-2]: Introduit par le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## Section 5 Plan de formation
 
@@ -261,13 +275,18 @@ Le plan de formation:
 
 #### Art. 12
 
-**Exigences minimales posées aux formateurs**
+**Exigences posées aux formateurs[^12-1]**
 
-Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, let. a et b, OFPr sont remplies par:
+Les personnes ci-après remplissent les exigences posées aux formateurs:[^12-2]
 
-- a. les horlogers de production CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- a.[^12-3] les horlogers de production CFC et les horlogers CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
 - b. les horlogers praticiens qualifiés justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
-- c. les personnes titulaires d’un CFC dans une profession apparentée et justifiant des connaissances professionnelles requises propres aux horlogers de production CFC et d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’elles dispensent.
+- c.[^12-4] les titulaires d’un titre jugé équivalent au CFC d’horloger de production et qui justifient des connaissances professionnelles requises propres aux horlogers de production CFC et d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^12-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 13
 
@@ -297,11 +316,11 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 **Rapport de formation**
 
-<sup>1</sup> A la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. A cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
+<sup>1</sup> À la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
 
 <sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais en conséquence. Ils consignent les décisions et les mesures prises par écrit.
 
-<sup>3</sup> A l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
+<sup>3</sup> À l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
 
 <sup>4</sup> Si les objectifs liés aux mesures fixées ne sont pas atteints ou si les chances de réussite de la personne en formation sont compromises, le formateur le signale par écrit aux parties contractantes et à l’autorité cantonale.
 
@@ -345,41 +364,41 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 #### Art. 20
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
 La procédure de qualification avec examen final porte sur les compétences opérationnelles dans les domaines de qualification ci-après selon les modalités suivantes:
 
-- a. travail pratique sous la forme d’un travail pratique prescrit (TPP) d’une durée de 16 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides. Ce domaine de qualification porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
+- a.[^20-1]
+
+  travail pratique sous la forme d’un travail pratique prescrit (TPP) d’une durée de 16 heures; les règles suivantes s’appliquent:
+
+  - 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale;
+  - 2\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation;
+  - 3\. le dossier de formation et les documents relatifs au cours interentreprises peuvent être utilisés comme aides;
+  - 4\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes:
 
 <table>
-<tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td>Pondération</td></tr>
+<tr><td>Point d’appréciation</td><td>Domaine de compétences opérationnelles</td><td>Pondération</td></tr>
 <tr><td>1.</td><td>Assemblage de composants</td><td>30 %</td></tr>
 <tr><td>2.</td><td>Réalisation d’opérations d’achevage et de réglage</td><td>20 %</td></tr>
 <tr><td>3.</td><td>Mise en conformité des mouvements et de l’habillage</td><td>30 %</td></tr>
 <tr><td>4.</td><td>Participation au processus de production</td><td>20 %</td></tr>
 </table>
 
-- b. connaissances professionnelles d’une durée de 6 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. Il porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations suivantes selon les formes d’examen ci-dessous:
-
-<table>
-<tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td colspan="2">Durée et forme d’examen</td><td>Pondération</td></tr>
-<tr><td></td><td></td><td>durée</td><td>forme</td><td></td></tr>
-<tr><td>1.</td><td>Réalisation d’outils et d’outillage horlogers</td><td>240 min</td><td>écrit</td><td>40 %</td></tr>
-<tr><td>2.</td><td>Assemblage de composants, Réalisation d’opérations d’achevage et de réglage</td><td>90 min</td><td>écrit</td><td>40 %</td></tr>
-<tr><td>3.</td><td>Participation au processus de production, Application des directives de sécurité au travail, de protection de la santé et de l’environnement</td><td>30 min</td><td>écrit</td><td>20 %</td></tr>
-</table>
-
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^20-1].
+- b.[^20-2] connaissances professionnelles d’une durée de 3 heures; ce domaine de qualification est évalué par écrit vers la fin de la formation professionnelle initiale; il porte sur l’ensemble des domaines de compétences opérationnelles;
+- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^20-3].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^20-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35), [555](https://fedlex.data.admin.ch/eli/oc/2021/555)).
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^20-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 21
 
-**Etendue et organisation de la procédure de qualification de la formation modulaire**
+**Étendue et organisation de la procédure de qualification de la formation modulaire**
 
 <sup>1</sup> Chaque module fait l’objet d’un examen de fin de module.
 
@@ -397,13 +416,15 @@ Les examens de fin de modules se composent:
 <sup>5</sup> Les examens de fin de modules sont organisés comme suit:
 
 <table>
-<tr><td>Modules</td><td>Durée d’examen de travail pratique</td><td>Durée d’examen des connaissances professionnelles</td></tr>
-<tr><td>1. Module de base</td><td>[tab] 5 heures</td><td>[tab] 3 heures</td></tr>
-<tr><td>2. Module d’assemblage</td><td>[tab] 6 heures</td><td>[tab] 2 heures</td></tr>
-<tr><td>3. Module de posage-emboîtage</td><td>[tab] 4 heures</td><td>[tab] 1 heure</td></tr>
-<tr><td>4. Module d’achevage-réglage</td><td>[tab] 8 heures</td><td>[tab] 1.5 heure</td></tr>
-<tr><td>5. Module terminal</td><td>[tab] 8 heures</td><td>[tab] 5 heures</td></tr>
+<tr><th></th><th>Modules</th><th>Durée d’examen de travail pratique</th><th>Durée d’examen des connaissances professionnelles</th></tr>
+<tr><td>1.</td><td>Module de base</td><td>5 heures</td><td>1 heure</td></tr>
+<tr><td>2.</td><td>Module d’assemblage ou module d’habillage horloger</td><td>6 heures</td><td>1 heure</td></tr>
+<tr><td>3.</td><td>Module de posage-emboîtage</td><td>4 heures</td><td>1 heure</td></tr>
+<tr><td>4.</td><td>Module d’achevage-réglage</td><td>8 heures</td><td>1 heure</td></tr>
+<tr><td>5.</td><td>Module terminal</td><td>8 heures</td><td>1 heure .[^21-1]</td></tr>
 </table>
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 22
 
@@ -599,6 +620,18 @@ Sont abrogés:
 <sup>1</sup> Les personnes qui ont commencé leur formation d’horloger praticien avant le 1<sup>er</sup> mars 2015 l’achèvent selon l’ancien droit.
 
 <sup>2</sup> Si elles en font la demande, les personnes qui répètent jusqu’au 31 décembre 2019 la procédure de qualification avec examen final d’horloger praticien verront leurs prestations appréciées selon l’ancien droit.
+
+#### Art. 31a
+
+**Dispositions transitoires relative à la modification du 22 décembre 2020**[^31a-1]
+
+<sup>1</sup> Les personnes qui ont commencé leur formation d’horloger de production CFC avant l’entrée en vigueur de la modification du 22 décembre 2020 l’achèvent selon l’ancien droit.
+
+<sup>2</sup> Les candidats qui répètent la procédure de qualification avec examen final d’horloger de production CFC jusqu’au 31 décembre 2026 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont évalués selon le nouveau droit.
+
+<sup>3</sup> Les candidats qui répètent l’examen de fin du module terminal de la formation modulaire d’horloger de production CFC jusqu’au 31 décembre 2029 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont évalués selon le nouveau droit.
+
+[^31a-1]: Introduit par le ch. I de l’O du SEFRI du 22 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 32
 

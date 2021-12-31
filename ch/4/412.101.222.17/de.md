@@ -3,18 +3,18 @@ sr: "412.101.222.17"
 title: Verordnung des SBFI vom 19. Dezember 2014 über die berufliche Grundbildung Uhrmacherin Produktion/Uhrmacher Produktion mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/83"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2014-12-19
 in_force: 2015-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2015-83-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-83-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Uhrmacherin Produktion/Uhrmacher Produktion mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 19. Dezember 2014 (Stand am 1. Januar 2018)
+vom 19. Dezember 2014 (Stand am 1. Januar 2022)
 
 <table>
 <tr><td>49207</td><td>Uhrmacherin Produktion EFZ/Uhrmacher Produktion EFZ Horlogère de production CFC/horloger de production CFC Orologiaia di produzione AFC/Orologiaio di produzione AFC</td></tr>
@@ -24,7 +24,7 @@ Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI),
 
 gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingress-1], auf Artikel 12 der Berufsbildungsverordnung vom 19. November 2003[^ingress-2] (BBV) und auf Artikel 4 Absatz 4 der Jugendarbeitsschutzverordnung vom 28. September 2007[^ingress-3] (ArGV 5),
 
-verordnet:*[^ingress-4]*
+verordnet:[^ingress-4]
 
 [^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
@@ -63,11 +63,13 @@ Uhrmacherinnen Produktion und Uhrmacher Produktion auf Stufe EFZ beherrschen nam
 
 **Modulare Ausbildung**
 
-<sup>1</sup> Die berufliche Grundbildung zur Uhrmacherin Produktion oder zum Uhrmacher Produktion kann für Erwachsene auch in modularer Form berufsbegleitend angeboten werden.
+<sup>1</sup> Die berufliche Grundbildung zur Uhrmacherin Produktion oder zum Uhrmacher Produktion kann für Erwachsene auch in modularer Form angeboten werden.[^3-1]
 
 <sup>2</sup> Zur modularen Ausbildung zugelassen sind Personen, die bei Beginn der Ausbildung mindestens 20 Jahre alt sind.
 
 <sup>3</sup> Die Module, die zum Erwerb des EFZ führen, müssen innerhalb von 5 Jahren ab dem Zeitpunkt der Anmeldung für die EFZ-Ausbildung abgeschlossen werden, unter Vorbehalt der Wiederholung des Abschlussmoduls.
+
+[^3-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## 2. Abschnitt: Ziele und Anforderungen
 
@@ -124,7 +126,8 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   Mitwirken am Produktionsprozess:
 
   - 1\. Die Arbeit im Rahmen des Produktionsprozesses organisieren,
-  - 2\. elektronische Unterlagen produzieren und organisieren;
+  - 2\. elektronische Unterlagen produzieren und organisieren,
+  - 3\.[^5-1] Qualitätsrichtlinien anwenden;
 
 - f.
 
@@ -133,6 +136,8 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   - 1\. Auf den Gesundheitsschutz achten,
   - 2\. auf die Arbeitssicherheit achten,
   - 3\. auf den Umweltschutz achten.
+
+[^5-1]: Eingefügt durch Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
 
@@ -169,19 +174,19 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <table>
 <tr><td>Unterricht</td><td>1. Lehrjahr</td><td>2. Lehrjahr</td><td>3. Lehrjahr</td><td>Total</td></tr>
 <tr><td>a. Berufskenntnisse</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Fertigen von branchenspezifischen Werkzeugen und Ausrüstung, Anwenden der Richtlinien bezüglich Arbeitssicherheit, Gesundheits- und Umweltschutz</td><td>100</td><td>100</td><td>80</td><td>280 (20)</td></tr>
-<tr><td>– Zusammensetzen von Einzelteilen</td><td>220</td><td>150</td><td>–</td><td>370</td></tr>
-<tr><td>– Feineinstellen und Regulieren</td><td>–</td><td>60</td><td>30</td><td>90</td></tr>
-<tr><td>– Mitwirken am Produktionsprozess</td><td>40</td><td>50</td><td>50</td><td>140</td></tr>
-<tr><td>Total</td><td>360</td><td>360</td><td>160</td><td>880</td></tr>
+<tr><td>– Fertigen von branchenspezifischen Werkzeugen und Ausrüstung *(einschliesslich: Anwenden der Richtlinien bezüglich Arbeitssicherheit, Gesundheits- und Umweltschutz)*</td><td>100</td><td>100</td><td>40</td><td>240 *(20)*</td></tr>
+<tr><td>– Zusammensetzen von Einzelteilen</td><td>200</td><td>160</td><td>40</td><td>400</td></tr>
+<tr><td>– Feineinstellen und Regulieren</td><td>–</td><td>40</td><td>40</td><td>80</td></tr>
+<tr><td>– Mitwirken am Produktionsprozess</td><td>60</td><td>60</td><td>40</td><td>160</td></tr>
+<tr><td>Total</td><td>360</td><td>360</td><td>160</td><td>**880**</td></tr>
 <tr><td>b. Allgemeinbildung</td><td>120</td><td>120</td><td>120</td><td>360</td></tr>
-<tr><td>c. Sport</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 40</td><td>[tab] 120</td></tr>
-<tr><td>Total Lektionen</td><td>520</td><td>520</td><td>320</td><td>1360</td></tr>
+<tr><td>c. Sport</td><td>40</td><td>40</td><td>40</td><td>120</td></tr>
+<tr><td>Total Lektionen</td><td>**520**</td><td>**520**</td><td>**320**</td><td>**1360**.[^8-1]</td></tr>
 </table>
 
 <sup>2</sup> Geringfügige Abweichungen von der vorgegebenen Anzahl der Lektionen pro Lehrjahr innerhalb eines Handlungskompetenzbereichs sind in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^8-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^8-2] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>4</sup> Unterrichtssprache ist in der Regel die Landessprache des Schulortes.
 
@@ -189,7 +194,8 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>6</sup> Die Kantone können andere Unterrichtssprachen zulassen.
 
-[^8-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^8-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^8-2]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 9
 
@@ -219,19 +225,24 @@ Die Tage und die Inhalte sind wie folgt auf 3 Kurse aufgeteilt:
 
 <table>
 <tr><td>Module</td><td>Bildung in beruflicher Praxis</td><td>Berufskenntnisse</td><td>Total Lektionen</td></tr>
-<tr><td>[tab] 1. Grundmodul</td><td>260</td><td>190</td><td>450</td></tr>
-<tr><td>[tab] 2. Modul Zusammensetzen</td><td>220</td><td>105</td><td>325</td></tr>
-<tr><td>[tab] 3. Modul Aufsetzen und Einschalen</td><td>205</td><td>75</td><td>280</td></tr>
-<tr><td>[tab] 4. Modul Regulieren und Feineinstellen</td><td>380</td><td>80</td><td>460</td></tr>
+<tr><td>1. Grundmodul</td><td>260</td><td>190</td><td>450</td></tr>
+<tr><td>2. Modul Zusammensetzen oder Modul Ausstattung (Habillage)</td><td>220</td><td>105</td><td>325</td></tr>
+<tr><td>3. Modul Aufsetzen und Einschalen</td><td>205</td><td>75</td><td>280</td></tr>
+<tr><td>4. Modul Regulieren und Feineinstellen</td><td>380</td><td>80</td><td>460</td></tr>
 <tr><td>5. Abschlussmodul</td><td>500</td><td>425</td><td>925</td></tr>
-<tr><td>Total Lektionen</td><td>1565</td><td>875</td><td>2440</td></tr>
+<tr><td>Total Lektionen</td><td>**1565**</td><td>**875**</td><td>**2440** [^10-1]</td></tr>
 </table>
+
+<sup>1bis</sup> Die Lernenden wählen zwischen dem Modul Zusammensetzen und dem Modul Ausstattung (Habillage).[^10-2]
 
 <sup>2</sup> Die Aufteilung der Handlungskompetenzen auf die einzelnen Module ist im Reglement vom 19. Dezember 2014 über die Ausbildung von Erwachsenen nach modularem Baukastensystem der *Convention patronale de l’industrie horlogère suisse* festgelegt.
 
 <sup>3</sup> Die im Bildungsplan festgelegten Leistungsziele der überbetrieblichen Kurse sind auf die verschiedenen Module aufgeteilt.
 
 <sup>4</sup> Für die Organisation der Module Allgemeinbildung sind die Kantone zuständig.
+
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^10-2]: Eingefügt durch Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 ## 5. Abschnitt: Bildungsplan
 
@@ -261,13 +272,18 @@ Der Bildungsplan hat folgenden Inhalt:
 
 #### Art. 12
 
-**Fachliche Mindestanforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner[^12-1]**
 
-Die fachlichen Mindestanforderungen im Sinne von Artikel 44 Absatz 1 Buchstaben a und b BBV an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
+Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:[^12-2]
 
-- a. Uhrmacherin Produktion EFZ oder Uhrmacher Produktion EFZ mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
+- a.[^12-3] Uhrmacherin oder Uhrmacher Produktion EFZ mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
 - b. gelernte Uhrmacher Praktikerin oder gelernter Uhrmacher Praktiker mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet;
-- c. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich Uhrmacherin Produktion EFZ und Uhrmacher Produktion EFZ und mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet.
+- c.[^12-4] Abschluss, der als gleichwertig zur Uhrmacherin und zum Uhrmacher Produktion EFZ gilt, mit den notwendigen Berufskenntnissen im Bereich der Uhrmacherin und des Uhrmachers Produktion EFZ und mit mindestens 3 Jahren beruflicher Praxis im Lehrgebiet.
+
+[^12-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^12-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^12-3]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^12-4]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 13
 
@@ -351,7 +367,14 @@ In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen n
 
 Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen in den nachstehenden Qualifikationsbereichen wie folgt geprüft:
 
-- a. Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 16 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden. Der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche mit den nachstehenden Gewichtungen:
+- a.[^20-1]
+
+  Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 16 Stunden; dafür gilt Folgendes:
+
+  - 1\. dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft;
+  - 2\. die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen;
+  - 3\. die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden;
+  - 4\. der Qualifikationsbereich umfasst die folgenden Handlungskompetenzbereiche mit den nachstehenden Gewichtungen:
 
 <table>
 <tr><td>Position</td><td>Handlungskompetenzbereiche</td><td>Gewichtung</td></tr>
@@ -361,21 +384,14 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>4.</td><td>Mitwirken am Produktionsprozess</td><td>20 %</td></tr>
 </table>
 
-- b. Berufskenntnisse, im Umfang von 6 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Der Qualifikationsbereich Berufskenntnisse umfasst die folgenden Handlungskompetenzbereiche und Prüfungsformen mit den nachstehenden Gewichtungen:
-
-<table>
-<tr><td>Position</td><td>Handlungskompetenzbereiche</td><td colspan="2">Prüfungsform/Dauer</td><td>Gewichtung</td></tr>
-<tr><td></td><td></td><td>Dauer</td><td>Form</td><td></td></tr>
-<tr><td>1.</td><td>Fertigen von branchenspezifischen Werkzeugen und Ausrüstung</td><td>240 Min.</td><td>schriftlich</td><td>40 %</td></tr>
-<tr><td>2.</td><td>Zusammensetzen von Einzelteilen, Feineinstellen und Regulieren</td><td>90 Min.</td><td>schriftlich</td><td>40 %</td></tr>
-<tr><td>3.</td><td>Mitwirken am Produktionsprozess, Anwenden der Richtlinien bezüglich Arbeitssicherheit, Gesundheits- und Umweltschutz</td><td>30 Min.</td><td>schriftlich</td><td>20 %</td></tr>
-</table>
-
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^20-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- b.[^20-2] Berufskenntnisse, im Umfang von 3 Stunden; dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung schriftlich geprüft; er umfasst alle Handlungskompetenzbereiche.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^20-3] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^20-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^20-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35), [555](https://fedlex.data.admin.ch/eli/oc/2021/555)).
+[^20-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
+[^20-3]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 21
 
@@ -397,13 +413,15 @@ Die Modulabschlussprüfungen bestehen in jedem Modul aus:
 <sup>5</sup> Die Prüfungen haben folgenden zeitlichen Umfang:
 
 <table>
-<tr><td>Module</td><td>praktische Arbeit</td><td>Berufskenntnisse</td></tr>
-<tr><td>1. Grundmodul</td><td>5 Stunden</td><td>3 Stunden</td></tr>
-<tr><td>2. Modul Zusammensetzen</td><td>6 Stunden</td><td>2 Stunden</td></tr>
-<tr><td>3. Modul Aufsetzen und Einschalen</td><td>4 Stunden</td><td>1 Stunde</td></tr>
-<tr><td>4. Modul Regulieren und Feineinstellen</td><td>8 Stunden</td><td>1,5 Stunden</td></tr>
-<tr><td>5. Abschlussmodul</td><td>8 Stunden</td><td>5 Stunden</td></tr>
+<tr><th></th><th>Module</th><th>praktische Arbeit</th><th>Berufskenntnisse</th></tr>
+<tr><td>1.</td><td>Grundmodul</td><td>5 Stunden</td><td>1 Stunde</td></tr>
+<tr><td>2.</td><td>Modul Zusammensetzen oder Modul Ausstattung (Habillage)</td><td>6 Stunden</td><td>1 Stunde</td></tr>
+<tr><td>3.</td><td>Modul Aufsetzen und Einschalen</td><td>4 Stunden</td><td>1 Stunde</td></tr>
+<tr><td>4.</td><td>Modul Regulieren und Feineinstellen</td><td>8 Stunden</td><td>1 Stunde</td></tr>
+<tr><td>5.</td><td>Abschlussmodul</td><td>8 Stunden</td><td>1 Stunde. [^21-1]</td></tr>
 </table>
+
+[^21-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 22
 
@@ -599,6 +617,18 @@ Es werden aufgehoben:
 <sup>1</sup> Lernende, die ihre Bildung als Uhrmacher Praktikerin oder Uhrmacher Praktiker vor dem 1. März 2015 begonnen haben, schliessen sie nach bisherigem Recht ab.
 
 <sup>2</sup> Wer das Qualifikationsverfahren mit Abschlussprüfung für Uhrmacher Praktikerin oder Uhrmacher Praktiker bis zum 31. Dezember 2019 wiederholt, kann verlangen, nach altem Recht beurteilt zu werden.
+
+#### Art. 31a
+
+**Übergangsbestimmungen zur Änderung vom 22. Dezember 2020**[^31a-1]
+
+<sup>1</sup> Lernende, die ihre Bildung als Uhrmacherin oder Uhrmacher Produktion EFZ vor dem Inkrafttreten der Änderung vom 22. Dezember 2020 begonnen haben, schliessen sie nach bisherigem Recht ab.
+
+<sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Uhrmacherin und Uhrmacher Produktion EFZ bis zum 31. Dezember 2026 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+
+<sup>3</sup> Kandidierende, die die Abschlussprüfung des letzten Moduls der modularen Ausbildung für Uhrmacherin und Uhrmacher Produktion EFZ bis zum 31. Dezember 2029 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+
+[^31a-1]: Eingefügt durch Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
 
 #### Art. 32
 
