@@ -4,13 +4,12 @@ number: "17.15"
 title: Reglement über die Sicherheit der Personendaten
 short: DSR
 language: de
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-04
+version: 2022-01-01
+version_adopted: 2022-01-31
 adopted: 1999-06-29
 in_force: 2000-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/6061/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7109/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Sicherheit der Personendaten – R
 
 (DSR)
 
-vom 29.06.1999 (Fassung in Kraft getreten am 01.07.2019)
+vom 29.06.1999 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -175,7 +174,7 @@ beschliesst:
 
 <sup>2</sup> Bei allen Fragen im Zusammenhang mit der Umsetzung der Sicherheitspolitik für die Informationssysteme können auch die Gemeinden das Amt zur Beratung und Mithilfe beiziehen. Diese kann die daraus entstehenden Kosten in Rechnung stellen.
 
-<sup>3</sup> Das Amt, die Universität und die zur Fachhochschule Westschweiz gehörenden Hochschulen arbeiten in diesem Bereich mit der Kantonalen Behörde für Öffentlichkeit und Datenschutz zusammen.
+<sup>3</sup> Das Amt, die Universität und die zur Fachhochschule Westschweiz gehörenden Hochschulen arbeiten in diesem Bereich mit der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation zusammen.
 
 #### Art. 16
 
@@ -237,7 +236,7 @@ beschliesst:
 
 <sup>1</sup> Die Bestimmungen dieses Abschnitts gelten auch für die Bearbeitung von Daten über ein Netz wie Internet oder Intranet.
 
-<sup>2</sup> Im Einvernehmen mit der Kantonalen Behörde für Öffentlichkeit und Datenschutz sorgen das Amt und der Informatikdienst der Universität dafür, dass den Benutzerinnen und Benutzern eines solchen Netzes eine allgemeine Information über die damit verbundenen Risiken abgegeben wird, insbesondere was die E-Mail betrifft; diese Information wird auch den Gemeinden zugestellt.
+<sup>2</sup> Im Einvernehmen mit der kantonalen Behörde für Öffentlichkeit, Datenschutz und Mediation sorgen das Amt und der Informatikdienst der Universität dafür, dass den Benutzerinnen und Benutzern eines solchen Netzes eine allgemeine Information über die damit verbundenen Risiken abgegeben wird, insbesondere was die E-Mail betrifft; diese Information wird auch den Gemeinden zugestellt.
 
 #### Art. 23
 

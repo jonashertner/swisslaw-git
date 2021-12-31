@@ -4,13 +4,12 @@ number: "17.15"
 title: Règlement sur la sécurité des données personnelles
 short: RSD
 language: fr
-version: 2019-07-01
-valid_until: 2021-12-31
-version_adopted: 2019-06-04
+version: 2022-01-01
+version_adopted: 2022-01-31
 adopted: 1999-06-29
 in_force: 2000-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6061/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7109/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Sécurité des données personnelles – R
 
 (RSD)
 
-du 29.06.1999 (version entrée en vigueur le 01.07.2019)
+du 29.06.1999 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -175,7 +174,7 @@ Arrête:
 
 <sup>2</sup> Pour tout ce qui concerne la mise en œuvre de la politique de sécurité des systèmes d'information, les communes peuvent également bénéficier des conseils et de l'assistance du SITel. Celui-ci peut facturer les frais y relatifs.
 
-<sup>3</sup> Le SITel, l'Université et les hautes écoles appartenant à la Haute Ecole spécialisée de Suisse occidentale collaborent dans ce domaine avec l'Autorité cantonale de la transparence et de la protection des données.
+<sup>3</sup> Le SITel, l'Université et les hautes écoles appartenant à la Haute Ecole spécialisée de Suisse occidentale collaborent dans ce domaine avec l'Autorité cantonale de la transparence, de la protection des données et de la médiation.
 
 #### Art. 16
 
@@ -237,7 +236,7 @@ Arrête:
 
 <sup>1</sup> Les dispositions de la présente section s'appliquent aussi au traitement de données effectué sur un réseau de type Internet ou Intranet.
 
-<sup>2</sup> En accord avec l'Autorité cantonale de la transparence et de la protection des données, le SITel et l'Université veillent à fournir aux utilisateurs et utilisatrices qui sont raccordés à ce type de réseau une information générale sur les risques qui y sont liés, notamment en ce qui concerne la messagerie électronique; cette information est également adressée aux communes.
+<sup>2</sup> En accord avec l'Autorité cantonale de la transparence, de la protection des données et de la médiation, le SITel et l'Université veillent à fournir aux utilisateurs et utilisatrices qui sont raccordés à ce type de réseau une information générale sur les risques qui y sont liés, notamment en ce qui concerne la messagerie électronique; cette information est également adressée aux communes.
 
 #### Art. 23
 
