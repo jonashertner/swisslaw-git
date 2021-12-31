@@ -3,18 +3,18 @@ sr: "721.100"
 title: "Bundesgesetz vom 21. Juni 1991 über den Wasserbau (Wasserbaugesetz, WBG)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/234_234_234"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-06-21
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über den Wasserbau
 
-vom 21. Juni 1991 (Stand am 1. Januar 2021)
+vom 21. Juni 1991 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -126,13 +126,14 @@ Er leistet Abgeltungen namentlich für:
 
 **Bereitstellung der Mittel**[^10-1]
 
-<sup>1</sup> Die Bundesversammlung bewilligt mit einem einfachen Bundesbeschluss einen Rahmenkredit für jeweils vier Jahre für die ordentlichen Fördermassnahmen.
+<sup>1</sup> Die Bundesversammlung bewilligt mit einem einfachen Bundesbeschluss einen Verpflichtungskredit[^10-2] für jeweils vier Jahre für die ordentlichen Fördermassnahmen.
 
 <sup>2</sup> Die Mittel für Beiträge an ausserordentliche Hochwasserschutzmassnahmen, die nach Naturereignissen nötig werden, werden durch besondere Kreditbeschlüsse bereitgestellt.
 
 <sup>3</sup> Verpflichtungskredite für Grossprojekte, die über einen längeren Zeitraum erhebliche Mittel beanspruchen, sind der Bundesversammlung mit separater Botschaft vorzulegen.
 
 [^10-1]: Fassung gemäss Ziff. II 14 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^10-2]: Ausdruck gemäss Anhang Ziff. 4 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## 4. Abschnitt: Vollzug und Aufsicht
 

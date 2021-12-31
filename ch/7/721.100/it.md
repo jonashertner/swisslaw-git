@@ -3,18 +3,18 @@ sr: "721.100"
 title: "Legge federale del 21 giugno 1991 sulla sistemazione dei corsi d'acqua (LSCA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/234_234_234"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-06-21
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla sistemazione dei corsi d’acqua
 
-del 21 giugno 1991 (Stato 1° gennaio 2011)
+del 21 giugno 1991 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -71,7 +71,7 @@ Gli interventi sui corsi d’acqua devono per quanto possibile rispettare o even
 
 <sup>4</sup> Il capoverso 2 si applica per analogia alla creazione di corsi d’acqua artificiali e alla ricostruzione di argini danneggiati.
 
-[^4-1]: Nuovo testo giusta il n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
+[^4-1]: Nuovo testo giusta il n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366), [7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)).
 
 #### Art. 5
 
@@ -102,7 +102,7 @@ Essa accorda indennità segnatamente per:
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), con effetto dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)
+[^7-1]: Abrogato dal n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), con effetto dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366), [7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)
 
 #### Art. 8
 
@@ -112,7 +112,7 @@ Essa accorda indennità segnatamente per:
 
 <sup>2</sup> Per progetti particolarmente onerosi, le indennità possono essere accordate singolarmente.
 
-[^8-1]: Nuovo testo giusta il n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366)[7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)
+[^8-1]: Nuovo testo giusta il n. II 1 della LF dell’11 dic. 2009 (Rinaturazione), in vigore dal 1° gen. 2011 ([RU 2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620); [FF 2008 7033](https://fedlex.data.admin.ch/eli/fga/2008/1366), [7069](https://fedlex.data.admin.ch/eli/fga/2008/1368)
 
 #### Art. 9
 
@@ -128,13 +128,14 @@ Essa accorda indennità segnatamente per:
 
 **Stanziamento dei mezzi**[^10-1]
 
-<sup>1</sup> L’Assemblea federale stanzia di volta in volta mediante decreto federale semplice un credito quadro quadriennale per i provvedimenti di promozione ordinari.
+<sup>1</sup> L’Assemblea federale stanzia di volta in volta mediante decreto federale semplice un credito d’impegno[^10-2] quadriennale per i provvedimenti di promozione ordinari.
 
 <sup>2</sup> I mezzi per contributi a provvedimenti straordinari di protezione contro le piene, necessari a causa di fenomeni naturali, sono stanziati mediante decreti specifici.
 
 <sup>3</sup> I crediti d’impegno per grandi progetti che necessitano di ingenti mezzi per un lungo periodo sono sottoposti all’Assemblea federale mediante messaggio separato.
 
 [^10-1]: Nuovo testo giusta il n. II 14 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^10-2]: Nuova espr. giusta l’all. n. 4 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## Sezione 4: Esecuzione e vigilanza
 
@@ -199,7 +200,7 @@ I costi derivanti dai rilevamenti e dalle ricerche effettuate sia nell’interes
 
 La protezione giuridica è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
 
-[^16-1]: Nuovo testo giusta l’all. n. 66 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^16-1]: Nuovo testo giusta l’all. n. 66 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 17
 
@@ -220,17 +221,15 @@ La protezione giuridica è retta dalle disposizioni generali sull’amministrazi
 
 **Abrogazione e modificazione del diritto vigente**
 
-### ...**
+...[^18-1]
 
-[^18-subdiv-1]
-
-[^18-subdiv-1]: Le mod. possono essere consultate alla [RU 1993 234](https://fedlex.data.admin.ch/eli/oc/1993/234_234_234).
+[^18-1]: Le mod. possono essere consultate alla [RU 1993 234](https://fedlex.data.admin.ch/eli/oc/1993/234_234_234).
 
 #### Art. 19
 
 [^19-1]
 
-[^19-1]: Abgrogato dal n. II 29 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^19-1]: Abrogato dal n. II 29 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 20
 

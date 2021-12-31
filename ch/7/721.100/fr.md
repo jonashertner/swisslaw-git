@@ -3,18 +3,18 @@ sr: "721.100"
 title: "Loi fédérale du 21 juin 1991 sur l'aménagement des cours d'eau (Loi sur l’aménagement des cours d’eau, LACE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/234_234_234"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-06-21
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur l’aménagement des cours d’eau
 
-du 21 juin 1991 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 juin 1991 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -127,13 +127,14 @@ Elle accorde des indemnités notamment pour:
 
 **Mise à disposition des fonds**[^10-1]
 
-<sup>1</sup> L’Assemblée fédérale vote tous les quatre ans, par voie d’arrêté fédéral simple, un crédit-cadre destiné aux mesures d’encouragement ordinaires.
+<sup>1</sup> L’Assemblée fédérale vote tous les quatre ans, par voie d’arrêté fédéral simple, un crédit d’engagement[^10-2] destiné aux mesures d’encouragement ordinaires.
 
 <sup>2</sup> Les fonds correspondant aux contributions pour les mesures extraordinaires de protection contre les crues qui s’imposent après un phénomène naturel sont mis à disposition par le biais d’arrêtés de crédit spéciaux.
 
 <sup>3</sup> Les crédits d’engagement destinés aux grands projets qui nécessitent des fonds importants sur une période prolongée sont soumis à l’Assemblée fédérale dans un message spécial.
 
 [^10-1]: Nouvelle teneur selon le ch. II 14 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^10-2]: Nouvelle expression selon l’annexe ch. 4 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## Section 4 Exécution et surveillance
 

@@ -3,11 +3,11 @@ sr: "721.100"
 title: "Lescha federala dals 21 da zercladur 1991 davart la correcziun dals curs d'aua"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/234_234_234"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1991-06-21
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/234_234_234/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1993-234_234_234-20220101-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/20210101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 21 da zercladur 1991 (versiun dal 1. da schaner 2021)
+dals 21 da zercladur 1991 (versiun dal 1. da schaner 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -128,13 +128,14 @@ Ella paja indemnisaziuns particularmain per:
 
 **Metter a disposiziun ils meds finanzials**[^10-1]
 
-<sup>1</sup> L’Assamblea federala permetta cun in conclus federal simpel in credit general per mintgamai 4 onns destinà a las mesiras da promoziun ordinarias.
+<sup>1</sup> L’Assamblea federala permetta cun in conclus federal simpel in credit d’impegn[^10-2] per mintgamai 4 onns destinà a las mesiras da promoziun ordinarias.
 
 <sup>2</sup> Ils meds finanzials per las contribuziuns a las mesiras extraordinarias da la protecziun cunter aua gronda, che daventan necessarias suenter eveniments da la natira, vegnan mess a disposiziun tras conclus da credit spezials.
 
 <sup>3</sup> Ils credits d’impegn per projects gronds, che dovran meds finanzials considerabels durant in temp pli lung, ston vegnir suttamess a l’Assamblea federala cun ina missiva separada.
 
 [^10-1]: Versiun tenor la cifra II 14 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^10-2]: Expressiun tenor la cifra 4 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 ## 4. secziun Execuziun e surveglianza
 
