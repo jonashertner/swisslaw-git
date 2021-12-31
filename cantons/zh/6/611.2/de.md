@@ -4,11 +4,11 @@ number: "611.2"
 title: Finanzcontrollingverordnung (FCV)
 short: FCV
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2022-06-01
 adopted: 2008-03-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611_2-2008_03_05-2008_04_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611_2-2008_03_05-2008_04_01-115.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ Das Finanzcontrolling erfolgt insbesondere unter den Aspekten a. der Einhaltung 
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 - d. der finanziellen Risiken gemäss § 14 der Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung vom 18. Juli 2007 (VOG RR)[^4-1].
 
@@ -179,7 +179,7 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>5</sup> Reicht ein Budgetkredit der Erfolgsrechnung nicht aus, weil Erträge tiefer als budgetiert ausfallen, ist kein Nachtragskredit erforderlich.
 
@@ -293,7 +293,7 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Der Budgetkredit des Folgejahres einer Leistungsgruppe erhöht sich im Umfang der Kreditübertragung.
 
@@ -332,7 +332,7 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 <sup>3</sup> Abweichungen der Werte gemäss Abs. 2 werden ausgewiesen und begründet.
 
 [^hFBerichterstattung-1]: Fassung gemäss RRB vom 22. April 2020 (OS 75, 307; ABl 2020-04-24). In Kraft seit 1. Januar 2021.
-[^hFBerichterstattung-2]: Aufgehoben durch RRB vom 22. April 2020 (OS 75, 307; ABl 2020-04-24). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 15
+[^hFBerichterstattung-2]: Aufgehoben durch RRB vom 22. April 2020 (OS 75, 307; ABl 2020-04-24). In Kraft seit 1. Januar 2021.
 
 ### G. Kosten-Leistungs-Rechnung
 
@@ -382,7 +382,7 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 
 **7**
 
-- 1\. 1. 21 - 111 § 28.[^27-1] Die Verzinsung von Kontokorrenten für Dritte, Fonds im Fremdkapital sowie der liquiden Mittel der Bestandeskonten der Legate und Stiftungen ohne Rechtspersönlichkeit richtet sich nach der Weisung der Finanzdirektion. Diese bezeichnet die zu verzinsenden Konten.
+- 1\. 1. 22 - 115 § 28.[^27-1] Die Verzinsung von Kontokorrenten für Dritte, Fonds im Fremdkapital sowie der liquiden Mittel der Bestandeskonten der Legate und Stiftungen ohne Rechtspersönlichkeit richtet sich nach der Weisung der Finanzdirektion. Diese bezeichnet die zu verzinsenden Konten.
 
 **Andere Zinsen**
 
@@ -481,15 +481,15 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 
 § 34.[^33-1] <sup>1</sup> Die Zuständigkeit für den Abschluss von Verträgen zur Umsetzung von Ausgabenbewilligungen, insbesondere für die Vergabe von Aufträgen an Dritte, richtet sich nach den Ausgabenkompetenzen für gebundene Ausgaben.
 
-<sup>2</sup> Bei Bauten des Kantons bis 3 Mio. Franken ist die Baudirektion zuständig.
+<sup>2</sup> Bei Bauten des Kantons bis 4 Mio. Franken ist die Baudirektion zuständig.
 
-<sup>3</sup> Bei fondsfinanzierten Bauten bis 3 Mio. Franken ist die fondsverantwortliche Direktion zuständig.
+<sup>3</sup> Bei fondsfinanzierten Bauten bis 4 Mio. Franken ist die fondsverantwortliche Direktion zuständig.
 
 **9**
 
-- 1\. 1. 21 - 111 § 35. Die zuständige Verwaltungseinheit führt für jede Ausgabenbewilligung eine Objektbuchhaltung mit den das Vorhaben betreffenden Ausgaben und Einnahmen.
+- 1\. 1. 22 - 115 § 35. Die zuständige Verwaltungseinheit führt für jede Ausgabenbewilligung eine Objektbuchhaltung mit den das Vorhaben betreffenden Ausgaben und Einnahmen.
 
-[^33-1]: Fassung gemäss RRB vom 20. Juni 2018 (OS 74, 140; ABl 2018-06-29). In Kraft seit 1. Januar 2019 (ABl 2019-02-01).
+[^33-1]: Fassung gemäss RRB vom 30. Juni 2021 (OS 76, 375; ABl 2021-07-09). In Kraft seit 1. Januar 2022.
 
 #### § 36
 
@@ -584,17 +584,19 @@ Die Finanzdirektion ist zuständig für a. den Erlass von Weisungen zu technisch
 
 Die Direktionen und die Staatskanzlei können ihre Kompetenzen gemäss §§ 34, 39 und 47 im Sinne von § 66 Abs. 2 VOG RR[^41-1] delegieren.
 
+[^42-1]: Fassung gemäss RRB vom 30. Juni 2021 (OS 76, 375; ABl 2021-07-09). In Kraft seit 1. Januar 2022.
+
 #### § 43
 
 **Besondere Stellungnahme**
 
-<sup>1</sup> Die Direktionen und die Staatskanzlei holen zu ihren Anträgen an den Regierungsrat mit einmaligen Ausgaben von mehr als 6 Mio. Franken oder mit wiederkehrenden Ausgaben von jährlich mehr als Fr. 600 000 vorgängig eine besondere Stellungnahme der Finanzdirektion ein, sofern die Ausgaben nicht im Budget oder im KEF eingestellt sind.
+<sup>1</sup> Die Direktionen und die Staatskanzlei holen zu ihren Anträgen an den Regierungsrat mit einmaligen Ausgaben von mehr als 4 Mio. Franken oder mit wiederkehrenden Ausgaben von jährlich mehr als Fr. 400 000 vorgängig eine besondere Stellungnahme der Finanzdirektion ein, sofern die Ausgaben nicht im Budget oder im KEF eingestellt sind.[^42-1]
 
 <sup>2</sup> Die Finanzdirektion nimmt innerhalb von höchstens drei Wochen schriftlich Stellung. Sie kann die Stellungnahme im Einzelfall an die Finanzverwaltung delegieren.
 
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Die Stellungnahme der Finanzdirektion wird den Antragsakten zum Geschäft beigelegt.
 
@@ -677,7 +679,7 @@ Die Direktionen und die Staatskanzlei können ihre Kompetenzen gemäss §§ 34, 
 
 **13**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 ### 6. Abschnitt: Übergangs- und Schlussbestimmungen
 
@@ -754,7 +756,7 @@ anderen Kantonen
 
 **Art. 3**
 
-- 1\. 1. 21 - 111 Nr. Erlass
+- 1\. 1. 22 - 115 Nr. Erlass
 
 **Bestimmungen**
 
@@ -836,7 +838,7 @@ beteiligungen
 
 **19**
 
-- 1\. 1. 21 - 111 Nr. Erlass
+- 1\. 1. 22 - 115 Nr. Erlass
 
 **Bestimmungen**
 
@@ -858,9 +860,7 @@ LS 851.1 Sozialhilfegesetz
 
 hilfeverordnung)
 
-LS 852.2 Gesetz über die Jugendheime und die Pflegekinderfürsorge – Beiträge für zürcherische Kinder und Jugendliche in ausserkantonalen Heimen (i.V. m. Art. 19 Interkantonale Vereinbarung für soziale Einrichtungen)
-
-**§ 9 b**
+LS 852.2[^hAnhang2hAnhang12-3] Gesetz über die Jugendheime und die Pflegekinderfürsorge – Beiträge für zürcherische Kinder und Jugendliche in ausserkantonalen Heimen (i.V. m. Art. 19 Interkantonale Vereinbarung für soziale Einrichtungen)
 
 LS 855.2 Gesetz über Invalideneinrichtungen für erwachsene Personen und den Transport von mobilitätsbehinderten Personen – Beiträge an die Kosten der bewilligten Leistungen von ausserkantonalen Ein-
 
@@ -872,6 +872,7 @@ Vereinbarung für soziale Einrichtungen)
 
 [^hAnhang2hAnhang12-1]: Eingefügt durch RRB vom 9. Januar 2018 (OS 73, 144; ABl 2018-01-19). In Kraft seit 1. April 2018.
 [^hAnhang2hAnhang12-2]: Fassung gemäss RRB vom 25. März 2020 (OS 75, 224; ABl 2020-04-03). In Kraft seit 1. April 2020.
+[^hAnhang2hAnhang12-3]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 654; ABl 2021-10-29). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 15
 
 ## Weitere Fussnoten
 
