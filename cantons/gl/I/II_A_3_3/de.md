@@ -4,13 +4,13 @@ number: II A/3/3
 title: Verordnung über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsverordnung; RVOV
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-05-11
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-12-07
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2238/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2259/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2238/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung; RVOV)
 
-Vom 21.03.2006 (Stand 01.07.2021)
+Vom 21.03.2006 (Stand 01.01.2022)
 
 Der Regierungsrat,
 
@@ -662,13 +662,16 @@ verordnet:
 - a. Departementssekretariat
   - 0\.1. Beschwerdewesen
   - 0\.2. Submissionswesen
-- b. Hauptabteilung Tiefbau
-  - 0\.1. Tiefbauten
-  - 0\.2. Wasserbau
-  - 0\.3. …
-  - 0\.4. Öffentlicher Verkehr
-  - 0\.5. Wanderwege
-  - 1\. Abteilung Strassenunterhaltsdienst
+- b. Hauptabteilung Mobilität und Tiefbau
+  - 0\.1.–0.5. …
+  - 1\. Abteilung Mobilität
+  - 1\.1. Öffentlicher Verkehr
+  - 1\.2. Wanderwege
+  - 1\.3. Radroute
+  - 2\. Abteilung Tiefbau
+  - 2\.1. Tiefbauten
+  - 2\.2. Wasserbau
+  - 3\. Abteilung Strassenunterhaltsdienst
 - c. Hauptabteilung Hochbau
   - 1\. Abteilung Hochbau
   - 1\.1. Hochbauten
