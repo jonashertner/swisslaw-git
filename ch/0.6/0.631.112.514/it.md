@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Trattato di unione doganale conchiuso il 29 marzo 1923 tra la Confederazione Svizzera e il Principato del Liechtenstein (con Protocollo finale e allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: it
-version: 2021-10-05
+version: 2022-01-01
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20211005/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20211005-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20211005/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20220101/it/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ CS **11** 149; FF **1923** II 374 ediz. ted. **1923** II 397 ediz. franc.
 
 Traduzione
 
-Conchiuso il 29 marzo 1923
+Conchiuso il 29 marzo 1923 Approvato dall’Assemblea federale il 21 dicembre 1923[^t-1] Istrumenti di ratificazione scambiati il 28 dicembre 1923 Entrato in vigore il 1° gennaio 1924
 
-Approvato dall’Assemblea federale il 21 dicembre 1923[^t-1]
-
-Istrumenti di ratificazione scambiati il 28 dicembre 1923
-
-Entrato in vigore il 1° gennaio 1924
-
-(Stato 5 ottobre 2021)
+(Stato 1° gennaio 2022)
 
 [^t-1]: RU **39** 575
 
@@ -123,9 +117,10 @@ La stessa procedura sarà seguita per le leggi, i decreti e le ordinanze federal
 
 #### Art. 11
 
-Il servizio doganale alla frontiera del Liechtenstein coll’Austria sarà assunto dall’Amministrazione delle dogane …[^11-1]
+Il servizio doganale alla frontiera del Liechtenstein coll’Austria sarà assunto dall’Amministrazione delle dogane[^11-1] …[^11-2]
 
-[^11-1]: Fine stralciata dall’art. 1 dell’Acc. del 2 nov. 1994, approvato dall’AF il 12 dic. 1994 ([RU 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [FF 1994 V 601](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
+[^11-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^11-2]: Fine stralciata dall’art. 1 dell’Acc. del 2 nov. 1994, approvato dall’AF il 12 dic. 1994 ([RU 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [FF 1994 V 601](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
 
 #### Art. 12
 
@@ -143,21 +138,27 @@ La Direzione generale delle dogane svizzere stabilirà, dandone comunicazione al
 
 Saranno istituiti uffici doganali alle stazioni di Schaan-Vaduz e Nendeln pel disbrigo delle operazioni doganali nel traffico ferroviario da e per il Liechtenstein.
 
-L’Amministrazione delle dogane svizzere stabilirà le competenze di questi uffici in materia di operazioni doganali secondo le esigenze del traffico.
+L’Amministrazione delle dogane[^15-1] svizzere stabilirà le competenze di questi uffici in materia di operazioni doganali secondo le esigenze del traffico.
 
 Per i treni diretti che non si fermano nel territorio del Principato le operazioni doganali saranno sbrigate a Buchs.
 
 La fermata di Schaanwald è soppressa.
 
+[^15-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 #### Art. 16
 
-Il Governo del Principato fornirà gli edifici necessari per gli uffici di dogana e provvederà a mantenerli in buono stato. Le spese di arredamento, di riscaldamento e di illuminazione dei locali di servizio sono a carico dell’Amministrazione delle dogane svizzere.
+Il Governo del Principato fornirà gli edifici necessari per gli uffici di dogana e provvederà a mantenerli in buono stato. Le spese di arredamento, di riscaldamento e di illuminazione dei locali di servizio sono a carico dell’Amministrazione delle dogane[^16-1] svizzere.
+
+[^16-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 17
 
-L’alloggiamento delle guardie doganali di confine è a carico dell’Amministrazione delle dogane svizzere.
+L’alloggiamento delle guardie doganali di confine è a carico dell’Amministrazione delle dogane[^17-1] svizzere.
 
 Qualora l’Amministrazione delle dogane svizzere non potesse procurarsi i locali necessari per l’alloggiamento delle guardie, vi provvederà il Governo del Principato. In questo caso l’Amministrazione delle dogane svizzere pagherà un’indennità corrispondente all’importo delle pigioni, secondo l’uso locale.
+
+[^17-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 18
 
@@ -177,9 +178,11 @@ Le guardie federali di confine nel territorio del Principato di Liechtenstein po
 
 #### Art. 21
 
-Tutte le mutazioni nei ruoli del personale svizzero occupato nel Principato di Liechtenstein saranno comunicate al Governo del Principato. I reclami fondati, formulati da quest’ultimo contro la permanenza di un funzionario o di un impiegato nel territorio del Principato saranno dalla Amministrazione delle dogane svizzere presi in considerazione.
+Tutte le mutazioni nei ruoli del personale svizzero occupato nel Principato di Liechtenstein saranno comunicate al Governo del Principato. I reclami fondati, formulati da quest’ultimo contro la permanenza di un funzionario o di un impiegato nel territorio del Principato saranno dalla Amministrazione delle dogane[^21-1] svizzere presi in considerazione.
 
 Parimente le autorità svizzere terranno conto, per quanto possibile, delle domande presentate per ragioni di ordine pubblico dal Governo del Principato concernenti il trasloco di funzionari ed impiegati che esercitano le loro funzioni nel territorio del Principato.
+
+[^21-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 22
 
@@ -218,9 +221,11 @@ Per quanto concerne i reati non previsti dal diritto penale militare federale, l
 
 #### Art. 26
 
-In servizio delle dogane svizzere, fatta eccezione del corpo delle guardie di confine, potranno essere assunti attinenti del Liechtenstein, in numero da fissarsi dall’Amministrazione delle dogane.
+In servizio delle dogane svizzere, fatta eccezione del corpo delle guardie di confine, potranno essere assunti attinenti del Liechtenstein, in numero da fissarsi dall’Amministrazione delle dogane[^26-1].
 
 L’Amministrazione delle dogane svizzere si riserva pure di impiegare fuori del territorio del Principato gli attinenti del Liechtenstein assunti in servizio delle dogane svizzere.
+
+[^26-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Capo V: Perseguimento e punizione delle contravvenzioni alla legislazione federale applicabile nel Principato di Liechtenstein
 
@@ -289,23 +294,25 @@ Il Principato di Liechtenstein si impegna, in questo caso, a rimborsare alla Con
 
 #### Art. 35
 
-<sup>1.</sup> Come quota spettantegli dal ricavo dei dazi ed emolumenti riscossi in esecuzione delle leggi federali applicabili nel Principato a norma del presente trattato il Liechtenstein riceve, per testa di popolazione, l’uguale dell’importo ottenuto dividendo i proventi dell’amministrazione delle dogane svizzere, previa deduzione delle spese, per il numero totale degli abitanti della Svizzera e del Liechtenstein.
+<sup>1.</sup> Come quota spettantegli dal ricavo dei dazi ed emolumenti riscossi in esecuzione delle leggi federali applicabili nel Principato a norma del presente trattato il Liechtenstein riceve, per testa di popolazione, l’uguale dell’importo ottenuto dividendo i proventi dell’amministrazione delle dogane[^35-1] svizzere, previa deduzione delle spese, per il numero totale degli abitanti della Svizzera e del Liechtenstein.
 
 <sup>2.</sup> Contano come proventi dell’amministrazione delle dogane svizzere le entrate iscritte, sotto la voce «Amministrazione delle dogane», nel conto di Stato della Confederazione dell’anno per cui deve essere pagata la quota, comprese le quote del Principato ma senza le entrate concernenti i subaffitti e le multe per infrazione doganale o di monopolio. Contano come spese dell’amministrazione delle dogane gli importi iscritti nelle uscite, sotto la voce «Amministrazione delle dogane», del conto di Stato della Confederazione.
 
-Il numero degli abitanti è rappresentato dall’effettivo della popolazione come risulta dall’ultimo censimento eseguito nella Svizzera o nel Liechtenstein.[^35-1]
+Il numero degli abitanti è rappresentato dall’effettivo della popolazione come risulta dall’ultimo censimento eseguito nella Svizzera o nel Liechtenstein.[^35-2]
 
 Questa somma comprende gli eventuali sussidi che la Confederazione dovrebbe pagare in virtù della legislazione federale applicabile nel territorio del Liechtenstein ma che, fermo restando l’articolo 37 del Trattato, non sono concessi al Principato, in conformità dell’articolo 4, capoverso 2.
 
-[^35-1]: Nuovo testo giusta l’art. 1 dell’Acc. del 24 set. 1964, in vigore dal 1° gen. 1962 ([RU 1964 871](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
+[^35-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^35-2]: Nuovo testo giusta l’art. 1 dell’Acc. del 24 set. 1964, in vigore dal 1° gen. 1962 ([RU 1964 871](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
 
 #### Art. 36
 
 [^36-1]
 
-La norma prevista nell’articolo 35, primo capoverso, per il calcolo della quota spettante al Liechtenstein dal ricavo dei dazi e altri emolumenti, come pure del contributo del Principato alle spese dell’amministrazione delle dogane può essere modificata mediante accordo tra i due Governi, nel caso in cui un considerevole mutamento delle circostanze lo esigesse.
+La norma prevista nell’articolo 35, primo capoverso, per il calcolo della quota spettante al Liechtenstein dal ricavo dei dazi e altri emolumenti, come pure del contributo del Principato alle spese dell’amministrazione delle dogane[^36-2] può essere modificata mediante accordo tra i due Governi, nel caso in cui un considerevole mutamento delle circostanze lo esigesse.
 
 [^36-1]: Nuovo testo giusta l’art. 1 del Trattato del 22 nov. 1950, approvato dall’AF il 5 apr. 1951, in vigore dal 21 giu. 1951 ([RU 1952 119](https://fedlex.data.admin.ch/eli/oc/1952/118_119_119)[117](https://fedlex.data.admin.ch/eli/oc/1952/117_117_117)).
+[^36-2]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 37
 
@@ -324,7 +331,9 @@ Il Principato di Liechtenstein emanerà, prima che entri in vigore il presente T
 
 #### Art. 39
 
-L’Amministrazione delle dogane svizzere stabilirà le disposizioni per l’esecuzione del presente Trattato.
+L’Amministrazione delle dogane[^39-1] svizzere stabilirà le disposizioni per l’esecuzione del presente Trattato.
+
+[^39-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 40
 
@@ -384,4 +393,4 @@ Allegati*[^t-4]*
 <tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 5 ott. 2021 (stato: 30 giu. 2021). Questi all. non sono più pubblicati nella RU (RU **2021** 303, 711). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.631..
+[^t-4]: Gli all. I e II sono stati aggiornati dal 27 ott. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 5 ott. 2021 (stato: 30 giu. 2021). Questi all. non sono più pubblicati nella RU (RU **2021** 303, 711). Estratti aggiornati semestralmente si possono richiedere al Dipartimento federale degli affari esteri, Direzione del diritto internazionale pubblico, 3003 Berna o possono essere consultati sul sito Internet: www.gesetze.li &gt; LR-Nr. 170.551.631.

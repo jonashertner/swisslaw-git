@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Traité du 29 mars 1923 entre la Suisse et la Principauté de Liechtenstein concernant la réunion de la Principauté de Liechtenstein au territoire douanier suisse (avec protocole final et annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: fr
-version: 2021-10-05
+version: 2022-01-01
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20211005/fr/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20211005-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20211005/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification échangés le 28 décembre 1923
 
 Entré en vigueur le 1<sup>er</sup> janvier 1924
 
-(Etat le 5 octobre 2021)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: RO **39** 564
 
@@ -34,7 +34,7 @@ Le Conseil fédéral suisse et Son Altesse Sérénissime le Prince régnant de L
 
 animés du désir de rendre plus étroites et plus intimes les relations d’amitié existant entre la Suisse et la Principauté de Liechtenstein,
 
-et ayant l’intention de conclure un traité en vue de la réunion de la Principauté de Liechtenstein au territoire douanier suisse, sous réserve des droits de souveraineté de Son Altesse Sérénissime le Prince de Liechtenstein.
+et ayant l’intention de conclure un traité en vue de la réunion de la Principauté de Liechtenstein au territoire douanier suisse, sous réserve des droits de souveraineté de Son Altesse Sérénissime le Prince de Liechtenstein,
 
 ont désigné dans ce but leurs plénipotentiaires, savoir:
 
@@ -125,9 +125,10 @@ La même procédure sera appliquée pour les lois fédérales, arrêtés fédér
 
 #### Art. 11
 
-La protection douanière à la frontière austro-liechtensteinoise sera assumée par l’administration des douanes suisses ...[^11-1]
+La protection douanière à la frontière austro-liechtensteinoise sera assumée par l’administration des douanes suisses[^11-1]. …[^11-2]
 
-[^11-1]: Abrogé par l’art. 1<sup>er</sup> de l’ac. du 2 nov. 1994, approuvé par l’Ass. féd. le 12 déc. 1994 ([RO 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825), [3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [FF 1994 V 641](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
+[^11-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^11-2]: Abrogé par l’art. 1<sup>er</sup> de l’ac. du 2 nov. 1994, approuvé par l’Ass. féd. le 12 déc. 1994 ([RO 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825), [3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [FF 1994 V 641](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
 
 #### Art. 12
 
@@ -145,23 +146,29 @@ La direction générale des douanes suisses déterminera, en en avisant le gouve
 
 Des bureaux de douane seront institués aux stations de Schaan-Vaduz et Nendeln pour l’expédition douanière dans le trafic par chemin de fer de la Principauté vers l’extérieur ou vice versa.
 
-L’administration des douanes suisses établira, d’après les exigences du trafic, les compétences de ces bureaux de douane en matière d’opérations douanières.
+L’administration des douanes suisses[^15-1] établira, d’après les exigences du trafic, les compétences de ces bureaux de douane en matière d’opérations douanières.
 
 L’expédition douanière s’effectue à Buchs pour les trains express qui ne s’arrêtent pas sur le territoire de la Principauté.
 
 La station de Schaanwald est supprimée.
 
+[^15-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 #### Art. 16
 
 Le gouvernement princier fournira les bâtiments nécessaires aux bureaux de douane et les maintiendra en bon état.
 
-Les frais d’installation, de chauffage et d’éclairage des locaux de service sont à la charge de l’administration des douanes suisses.
+Les frais d’installation, de chauffage et d’éclairage des locaux de service sont à la charge de l’administration des douanes suisses[^16-1].
+
+[^16-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 17
 
-L’administration des douanes suisses prend à sa charge les frais de logement des gardes-frontière.
+L’administration des douanes suisses[^17-1] prend à sa charge les frais de logement des gardes-frontière.
 
 Si l’administration des douanes suisses ne peut se procurer les locaux dont elle a besoin pour loger le personnel des gardes-frontière, le logement de ces derniers incombera au gouvernement princier. Dans ce cas, l’administration des douanes suisses versera, pour les locaux utilisés à cet effet, une indemnité correspondant au loyer payé suivant l’usage local.
+
+[^17-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 18
 
@@ -181,9 +188,11 @@ Les gardes-frontière suisses portent dans la Principauté de Liechtenstein l’
 
 #### Art. 21
 
-Toute mutation dans l’état du personnel suisse occupé dans la Principauté de Liechtenstein sera communiquée au gouvernement princier. Les réclamations fondées formulées par ce dernier contre le maintien, sur le territoire de la Principauté, d’un fonctionnaire ou employé seront prises en considération par l’administration des douanes suisses.
+Toute mutation dans l’état du personnel suisse occupé dans la Principauté de Liechtenstein sera communiquée au gouvernement princier. Les réclamations fondées formulées par ce dernier contre le maintien, sur le territoire de la Principauté, d’un fonctionnaire ou employé seront prises en considération par l’administration des douanes suisses[^21-1].
 
 De même, les autorités suisses donneront suite, pour autant que faire se pourra, aux demandes que, pour des motifs d’ordre public, le gouvernement princier serait amené à présenter aux fins de transfert de fonctionnaires et employés exerçant leurs fonctions sur le territoire de la Principauté.
+
+[^21-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 22
 
@@ -222,9 +231,11 @@ En ce qui concerne les actes punissables qui ne sont pas prévus par le droit p�
 
 #### Art. 26
 
-Des ressortissants liechtensteinois pourront être engagés dans le service des douanes suisses, exception faite pour le service dans le corps des gardes-frontière, suivant une proportion qui sera établie par l’administration des douanes.
+Des ressortissants liechtensteinois pourront être engagés dans le service des douanes suisses, exception faite pour le service dans le corps des gardes-frontière, suivant une proportion qui sera établie par l’administration des douanes[^26-1].
 
 L’administration des douanes suisses se réserve d’employer également, en dehors du territoire de la Principauté, les ressortissants liechtensteinois engagés dans le service des douanes suisses.
+
+[^26-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Chapitre V: Poursuite et punition des contraventions à la législation fédérale applicable dans la Principauté de Liechtenstein
 
@@ -293,23 +304,25 @@ La Principauté de Liechtenstein s’engage à rembourser à la Confédération 
 
 #### Art. 35
 
-<sup>1.</sup> À titre de participation au produit des taxes douanières et émoluments perçus en exécution des lois fédérales applicables dans la Principauté aux termes de ce traité, le Liechtenstein recevra par tête d’habitant le même montant que l’on obtient pour la Suisse en divisant les recettes de l’administration des douanes suisses, déduction faite des dépenses de cette administration, par le nombre total d’habitants de la Suisse et du Liechtenstein.
+<sup>1.</sup> À titre de participation au produit des taxes douanières et émoluments perçus en exécution des lois fédérales applicables dans la Principauté aux termes de ce traité, le Liechtenstein recevra par tête d’habitant le même montant que l’on obtient pour la Suisse en divisant les recettes de l’administration des douanes suisses[^35-1], déduction faite des dépenses de cette administration, par le nombre total d’habitants de la Suisse et du Liechtenstein.
 
 <sup>2.</sup> Sont considérées comme recettes de l’administration des douanes les recettes, la part du Liechtenstein y comprise, figurant sous ce titre au compte d’État de la Confédération suisse de l’année pour laquelle la part est assignée, mais sans les recettes provenant des sous-locations et des amendes douanières et de monopole. Sont considérées comme dépenses de l’administration des douanes les dépenses figurant sous ce titre au compte d’État de la Confédération.
 
-Le nombre d’habitants est l’effectif de la population tel qu’il ressort du dernier recensement effectué en Suisse et au Liechtenstein.[^35-1]
+Le nombre d’habitants est l’effectif de la population tel qu’il ressort du dernier recensement effectué en Suisse et au Liechtenstein.[^35-2]
 
 Cette somme comprend les subsides que la Confédération aurait à verser, le cas échéant, en vertu de la législation fédérale applicable sur le territoire de Liechtenstein, mais qui, sous réserve de l’art. 37 du traité, ne sont pas alloués à la Principauté conformément à l’art. 4, al. 2.
 
-[^35-1]: Nouvelle teneur selon l’art. 1<sup>er</sup> de l’ac. du 24 sept. 1964, en vigueur depuis le 1<sup>er</sup> janv. 1962 ([RO 1964 851](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
+[^35-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^35-2]: Nouvelle teneur selon l’art. 1<sup>er</sup> de l’ac. du 24 sept. 1964, en vigueur depuis le 1<sup>er</sup> janv. 1962 ([RO 1964 851](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
 
 #### Art. 36
 
 [^36-1]
 
-La règle prévue à l’art. 35, al. 1, pour calculer la quote-part du Liechtenstein aux produits des taxes douanières et aux émoluments, ainsi que la contribution de la principauté aux frais de l’administration des douanes, peut être modifiée, par l’accord des deux gouvernements, au cas où un changement considérable des circonstances l’exigerait.
+La règle prévue à l’art. 35, al. 1, pour calculer la quote-part du Liechtenstein aux produits des taxes douanières et aux émoluments, ainsi que la contribution de la principauté aux frais de l’administration des douanes[^36-2], peut être modifiée, par l’accord des deux gouvernements, au cas où un changement considérable des circonstances l’exigerait.
 
 [^36-1]: Nouvelle teneur selon l’art. 1<sup>er</sup> du tr. du 22 nov. 1950, approuvé par l’Ass. féd. le 5 avril 1951 et en vigueur depuis le 21 juin 1951 ([RO 1952 119](https://fedlex.data.admin.ch/eli/oc/1952/118_119_119), 118).
+[^36-2]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 37
 
@@ -328,7 +341,9 @@ La Principauté de Liechtenstein édictera, avant l’entrée en vigueur du pré
 
 #### Art. 39
 
-L’administration fédérale des douanes édictera les dispositions d’exécution du présent traité.
+L’administration fédérale des douanes[^39-1] édictera les dispositions d’exécution du présent traité.
+
+[^39-1]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 40
 
@@ -360,7 +375,7 @@ Le présent traité entre en vigueur le 1<sup>er</sup> janvier 1924.
 
 Protocole final
 
-I. ...[^t-2]
+I. …[^t-2]
 
 II. Les parties contractantes conviennent, en outre, que, sous réserve de l’exécution des prescriptions de la législation fédérale applicable dans la Principauté de Liechtenstein conformément au traité qui précède, l’estivage de bétail liechtensteinois dans les alpages du Vorarlberg sera, en principe, autorisé en application de l’art. 75, 3<sup>e</sup> alinéa, de l’ordonnance d’exécution du 30 août 1920[^t-3] de la loi fédérale sur les mesures à prendre pour combattre les épizooties.
 

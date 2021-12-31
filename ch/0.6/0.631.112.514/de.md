@@ -3,11 +3,11 @@ sr: "0.631.112.514"
 title: Vertrag vom 29. März 1923 zwischen der Schweiz und Liechtenstein über den Anschluss des Fürstentums Liechtenstein an das schweizerische Zollgebiet (mit Schlussprotokoll und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/39/551_565_576"
 language: de
-version: 2021-10-05
+version: 2022-01-01
 adopted: 1923-03-29
 in_force: 1924-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20211005/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20211005-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20211005/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/39/551_565_576/20220101/de/xml/fedlex-data-admin-ch-eli-cc-39-551_565_576-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/39/551_565_576/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 29. März 1923 Von der Bundesversammlung genehmigt am 21. Dezember 1923[^t-1] Ratifikationsurkunden ausgetauscht am 28. Dezember 1923 In Kraft getreten am 1. Januar 1924
 
-(Stand am 5. Oktober 2021) (Stand am 5. Oktober 2021)
+(Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
 
 [^t-1]: AS **39** 550
 
@@ -117,9 +117,10 @@ Das nämliche Verfahren findet statt mit Bezug auf die während der Dauer dieses
 
 #### Art. 11
 
-Der Zollschutz der liechtensteinisch-österreichischen Grenze wird durch die schweizerische Zollverwaltung übernommen ...[^11-1]
+Der Zollschutz der liechtensteinisch-österreichischen Grenze wird durch die schweizerische Zollverwaltung[^11-1] übernommen …[^11-2]
 
-[^11-1]: Satzteil aufgehoben durch Art. 1 des Vertrages vom 2. Nov. 1994, von der BVers genehmigt am 12. Dez. 1994 ([AS 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [BBl 1994 V 661](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
+[^11-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^11-2]: Satzteil aufgehoben durch Art. 1 des Vertrages vom 2. Nov. 1994, von der BVers genehmigt am 12. Dez. 1994 ([AS 1995 3825](https://fedlex.data.admin.ch/eli/oc/1995/3825_3825_3825)[3813](https://fedlex.data.admin.ch/eli/oc/1995/3813_3813_3813); [BBl 1994 V 661](https://fedlex.data.admin.ch/eli/fga/1994/5_661_641_601)).
 
 #### Art. 12
 
@@ -137,23 +138,29 @@ Die im Fürstentum Liechtenstein zu errichtenden Zollämter und Wachtposten sowi
 
 Für die Zollabfertigung im Bahnverkehr von und nach dem Fürstentum werden auf den Stationen Schaan-Vaduz und Nendeln Zollämter errichtet.
 
-Die schweizerische Zollverwaltung wird die Abfertigungsbefugnisse dieser Zollämter nach den Bedürfnissen des Verkehrs festsetzen.
+Die schweizerische Zollverwaltung[^15-1] wird die Abfertigungsbefugnisse dieser Zollämter nach den Bedürfnissen des Verkehrs festsetzen.
 
 Bei den auf dem Gebiete des Fürstentums nicht haltenden Schnellzügen findet die Zollabfertigung in Buchs statt.
 
 Die Haltestelle Schaanwald wird aufgehoben.
 
+[^15-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+
 #### Art. 16
 
 Die Fürstliche Regierung wird die erforderlichen Zollamtsgebäude beschaffen und diese in benützungsfähigem Zustande erhalten.
 
-Die Kosten der Einrichtung, Beheizung und Beleuchtung der Diensträume fallen zu Lasten der schweizerischen Zollverwaltung.
+Die Kosten der Einrichtung, Beheizung und Beleuchtung der Diensträume fallen zu Lasten der schweizerischen Zollverwaltung[^16-1].
+
+[^16-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 17
 
-Die schweizerische Zollverwaltung trägt die Kosten für die Unterbringung der Grenzwache.
+Die schweizerische Zollverwaltung[^17-1] trägt die Kosten für die Unterbringung der Grenzwache.
 
 Sollte die schweizerische Zollverwaltung sich die notwendigen Unterkunftsräume für das Grenzwachtpersonal nicht beschaffen können, so wird die Fürstliche Regierung für die Unterkunft besorgt sein. In diesem Falle wird die schweizerische Zollverwaltung für die in Anspruch genommenen Räumlichkeiten eine dem ortsüblichen Mietzins entsprechende Entschädigung entrichten.
+
+[^17-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 18
 
@@ -173,9 +180,11 @@ Die schweizerischen Grenzwächter tragen auch im Fürstentum Liechtenstein Unifo
 
 #### Art. 21
 
-Jede Änderung im Bestande des im Fürstentum Liechtenstein tätigen schweizerischen Personals wird der Fürstlichen Regierung mitgeteilt. Von dieser geäusserte begründete Bedenken gegen die Stationierung eines Beamten oder Angestellten im Gebiete des Fürstentums werden von der schweizerischen Zollverwaltung berücksichtigt.
+Jede Änderung im Bestande des im Fürstentum Liechtenstein tätigen schweizerischen Personals wird der Fürstlichen Regierung mitgeteilt. Von dieser geäusserte begründete Bedenken gegen die Stationierung eines Beamten oder Angestellten im Gebiete des Fürstentums werden von der schweizerischen Zollverwaltung[^21-1] berücksichtigt.
 
 Ebenso werden die schweizerischen Behörden allfälligen von der Fürstlichen Regierung aus öffentlichen Rücksichten gestellten Begehren um Versetzung von im Gebiete des Fürstentums stationierten Beamten und Angestellten tunlichst Rücksicht tragen.
+
+[^21-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 22
 
@@ -212,9 +221,11 @@ Hinsichtlich der im eidgenössischen Militärstrafrecht nicht vorgesehenen straf
 
 #### Art. 26
 
-Liechtensteinische Staatsangehörige können in einer von der Zollverwaltung zu bestimmenden Zahl im schweizerischen Zolldienste angestellt werden, mit Ausnahme des Dienstes im Grenzwachtkorps.
+Liechtensteinische Staatsangehörige können in einer von der Zollverwaltung[^26-1] zu bestimmenden Zahl im schweizerischen Zolldienste angestellt werden, mit Ausnahme des Dienstes im Grenzwachtkorps.
 
 Die schweizerische Zollverwaltung behält sich vor, die im schweizerischen Zolldienste angestellten liechtensteinischen Staatsangehörigen auch ausserhalb des Gebietes des Fürstentums zu verwenden.
+
+[^26-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Fünfter Abschnitt Verfolgung und Bestrafung von Widerhandlungen gegen die in Liechtenstein anwendbare Bundesgesetzgebung
 
@@ -224,7 +235,7 @@ Widerhandlungen gegen die kraft dieses Vertrages im Gebiete des Fürstentums Lie
 
 Als Appellationsinstanz nach Artikel 17 Absatz 5[^27-2] des Bundesgesetzes vom 30. Juni 1849 wird das Kantonsgericht des Kantons St. Gallen als Kassationsgericht nach Artikel 18[^27-3] der Kassationshof des schweizerischen Bundesgerichtes bestimmt.
 
-[^27-1]: [AS **I** 87, **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
+[^27-1]: [AS **I** 87; **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
 [^27-2]: Heute gilt Art. 80 VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
 [^27-3]: Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 
@@ -236,9 +247,9 @@ Gegen die vom fürstlichen Landgericht ausgefällten Urteile findet die Appellat
 
 Das Rechtsmittel der Kassationsbeschwerde nach Artikel 160ff. des Bundesgesetzes vom 22. März 1893/6. Oktober 1911 betreffend die Organisation der Bundesrechtspflege[^28-3] bleibt vorbehalten.
 
-[^28-1]: [AS **I** 87, **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
+[^28-1]: [AS **I** 87; **28** 129 Art. 227 Abs. 2. BS **3** 303 Art. 342 Abs. 2 Ziff. 1]. Heute: nach Massgabe des VStrR ([SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)).
 [^28-2]: Ab 1. Jan. 2011 gilt die Schweizerische Strafprozessordnung vom 5. Okt. 2007 ([SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)).
-[^28-3]: [AS **28** 129 408, **37** 717, [43 439](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)Art. 80 Abs. 2, [44 711](https://fedlex.data.admin.ch/eli/oc/44/711_765_749); [50 509](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)Art. 16 Bst. c und am Schluss, SchlB Änd. vom 20. Juni 1947 685 Art. 342 Abs. 2 Ziff. 4. BS **3** 531 Art.169]. Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^28-3]: [AS **28** 129 408; **37** 717; [43 439](https://fedlex.data.admin.ch/eli/oc/43/439_459_453)Art. 80 Abs. 2; [44 711](https://fedlex.data.admin.ch/eli/oc/44/711_765_749); [50 509](https://fedlex.data.admin.ch/eli/oc/50/509_529_583)Art. 16 Bst. c und am Schluss, SchlB Änd. vom 20. Juni 1947, 685 Art. 342 Abs. 2 Ziff. 4. BS **3** 531 Art.169]. Heute gelten Art. 78 ff. BGG ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 
 #### Art. 29
 
@@ -284,24 +295,26 @@ Das Fürstentum Liechtenstein verpflichtet sich, der Schweizerischen Eidgenossen
 
 #### Art. 35
 
-<sup>1.</sup> Als Anteil an den Einnahmen aus den Zöllen und Gebühren, die in Anwendung der nach diesem Vertrag im Fürstentum Liechtenstein geltenden Bundesgesetzgebung erhoben werden, wird dem Fürstentum Liechtenstein auf den Kopf seiner Wohnbevölkerung der gleiche Betrag vergütet, wie er sich für die Schweiz ergibt, wenn die Einnahmen der schweizerischen Zollverwaltung abzüglich ihrer Ausgaben durch die Gesamtzahl der Wohnbevölkerung der Schweiz und Liechtensteins geteilt werden.[^35-1]
+<sup>1.</sup> Als Anteil an den Einnahmen aus den Zöllen und Gebühren, die in Anwendung der nach diesem Vertrag im Fürstentum Liechtenstein geltenden Bundesgesetzgebung erhoben werden, wird dem Fürstentum Liechtenstein auf den Kopf seiner Wohnbevölkerung der gleiche Betrag vergütet, wie er sich für die Schweiz ergibt, wenn die Einnahmen der schweizerischen Zollverwaltung[^35-1] abzüglich ihrer Ausgaben durch die Gesamtzahl der Wohnbevölkerung der Schweiz und Liechtensteins geteilt werden.[^35-2]
 
 <sup>2.</sup> Als Einnahmen der Zollverwaltung gelten die in der Staatsrechnung der Schweizerischen Eidgenossenschaft des Jahres, für das der Anteil entrichtet wird, unter dem Titel «Zollverwaltung» ausgewiesenen Einnahmenbeträge, einschliesslich der Anteile des Fürstentums Liechtenstein, jedoch ohne die Einnahmenbeträge für Untermieten und Zoll- und Monopolbussen. Als Ausgaben der Zollverwaltung gelten die in der Staatsrechnung der Schweizerischen Eidgenossenschaft unter dem Titel «Zollverwaltung» ausgewiesenen Ausgabenbeträge.
 
-Als Wohnbevölkerung gilt die Bevölkerung, wie sie nach dem Ergebnis der jeweiligen letzten Volkszählung als in der Schweiz bzw. in Liechtenstein wohnhaft ermittelt wurde.[^35-2]
+Als Wohnbevölkerung gilt die Bevölkerung, wie sie nach dem Ergebnis der jeweiligen letzten Volkszählung als in der Schweiz bzw. in Liechtenstein wohnhaft ermittelt wurde.[^35-3]
 
 In der Anteilsumme sind inbegriffen allfällige Beiträge des Bundes, die durch die übernommene Bundesgesetzgebung begründet würden, aber gemäss Artikel 4 Absatz 2 hiervor im Fürstentum nicht ausgerichtet werden, unter Vorbehalt von Artikel 37 des Vertrages.
 
-[^35-1]: Fassung gemäss Art. 1 der Vereinb. vom 24. Sept. 1964, in Kraft seit 1. Jan. 1962 ([AS 1964 855](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
+[^35-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^35-2]: Fassung gemäss Art. 1 der Vereinb. vom 24. Sept. 1964, in Kraft seit 1. Jan. 1962 ([AS 1964 855](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
+[^35-3]: Fassung gemäss Art. 1 der Vereinb. vom 24. Sept. 1964, in Kraft seit 1. Jan. 1962 ([AS 1964 855](https://fedlex.data.admin.ch/eli/oc/1964/855_851_871)).
 
 #### Art. 36
 
 [^36-1]
 
-Die in Artikel 35 Absatz 1 vorgesehene Berechnungsweise des liechtensteinischen Anteils an den Einnahmen aus den Zöllen und Gebühren und des Beitrages an die Kosten der Zollverwaltung kann, sofern eine wesentliche Änderung der massgebenden Tatsachenverhältnisse es erfordert, durch Vereinbarung zwischen den beiden Regierungen abgeändert werden.
+Die in Artikel 35 Absatz 1 vorgesehene Berechnungsweise des liechtensteinischen Anteils an den Einnahmen aus den Zöllen und Gebühren und des Beitrages an die Kosten der Zollverwaltung[^36-2] kann, sofern eine wesentliche Änderung der massgebenden Tatsachenverhältnisse es erfordert, durch Vereinbarung zwischen den beiden Regierungen abgeändert werden.
 
 [^36-1]: Fassung gemäss Art. 1 des Vertrages vom 22. Nov. 1950, von der BVers genehmigt am 5. April 1951, in Kraft seit 21. Juni 1951 ([AS 1952 118](https://fedlex.data.admin.ch/eli/oc/1952/118_119_119)[117](https://fedlex.data.admin.ch/eli/oc/1952/117_117_117)).
+[^36-2]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 37
 
@@ -320,7 +333,9 @@ Das Fürstentum Liechtenstein wird vor dem Inkrafttreten dieses Vertrages die Au
 
 #### Art. 39
 
-Die schweizerische Zollverwaltung wird die erforderlichen Ausführungsbestimmungen zu diesem Vertrage erlassen.
+Die schweizerische Zollverwaltung[^39-1] wird die erforderlichen Ausführungsbestimmungen zu diesem Vertrage erlassen.
+
+[^39-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 40
 
@@ -352,7 +367,7 @@ Der gegenwärtige Vertrag tritt auf den 1. Januar 1924 in Kraft.
 
 Schlussprotokoll
 
-I. ...[^t-2]
+I. …[^t-2]
 
 II. Die vertragschliessenden Teile sind sich ferner darüber einig, dass die Sömmerung liechtensteinischen Viehs in Vorarlbergeralpen in Anwendung des Artikels 75 Absatz 3 der Vollziehungsverordnung vom 30. August 1920[^t-3] zum Bundesgesetz betreffend die Bekämpfung von Tierseuchen grundsätzlich gestattet sein soll, unter Vorbehalt der Durchführung der vom Fürstentum Liechtenstein gemäss vorliegendem Vertrage übernommenen Vorschriften der Bundesgesetzgebung.
 
