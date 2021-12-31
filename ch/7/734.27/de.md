@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2001 über elektrische Niederspannungsinstall
 short: NIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/de"
 
 (Niederspannungs-Installationsverordnung, NIV)
 
-vom 7. November 2001 (Stand am 1. Juli 2021)
+vom 7. November 2001 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -730,16 +730,20 @@ Sie führen ein Verzeichnis der von ihnen versorgten elektrischen Installationen
 
 <sup>1</sup> Die Netzbetreiberinnen fordern die Eigentümer, deren elektrische Installationen aus ihrem Niederspannungsverteilnetz versorgt werden, mindestens sechs Monate vor Ablauf der Kontrollperiode schriftlich auf, den Sicherheitsnachweis nach Artikel 37 bis zum Ende der Kontrollperiode einzureichen.
 
-<sup>2</sup> Das Inspektorat fordert die Eigentümer von Spezialinstallationen nach Anhang Ziffer 1 und die Eigentümer von Energieerzeugungsanlagen nach Artikel 35 Absatz 2 mindestens sechs Monate vor Ablauf der Kontrollperiode schriftlich auf, den Sicherheitsnachweis einzureichen.[^36-1]
+<sup>1bis</sup> Die Vertreter von Zusammenschlüssen zum Eigenverbrauch (Art. 18 Abs. 1 Bst. a der Energieverordnung vom 1. November 2017[^36-1]) melden der Netzbetreiberin die Eigentümer von elektrischen Installationen innerhalb des Zusammenschlusses. Die Eigentümer unterstützen die Vertreter entsprechend und melden ihnen insbesondere Eigentümerwechsel.[^36-2]
+
+<sup>2</sup> Das Inspektorat fordert die Eigentümer von Spezialinstallationen nach Anhang Ziffer 1 und die Eigentümer von Energieerzeugungsanlagen nach Artikel 35 Absatz 2 mindestens sechs Monate vor Ablauf der Kontrollperiode schriftlich auf, den Sicherheitsnachweis einzureichen.[^36-3]
 
 <sup>3</sup> Diese Frist kann bis längstens ein Jahr nach Ablauf der festgelegten Kontrollperiode verlängert werden. Wird der Sicherheitsnachweis trotz zweimaliger Mahnung nicht innerhalb der festgesetzten Frist eingereicht, so übergibt die Netzbetreiberin dem Inspektorat die Durchsetzung der periodischen Kontrolle.
 
-<sup>3bis</sup> Die Inhaber von Bewilligungen für Arbeiten an betriebseigenen Installationen gemäss Artikel 13 sind vom Inspektorat mindestens sechs Monate vor Ablauf jeder dritten Kontrollperiode, die Inhaber einer eingeschränkten Installationsbewilligung nach den Artikeln 14 und 15 vor Ablauf jeder Kontrollperiode schriftlich aufzufordern, die Bescheinigung der von ihnen beigezogenen akkreditierten Inspektionsstelle einzureichen.[^36-2]
+<sup>3bis</sup> Die Inhaber von Bewilligungen für Arbeiten an betriebseigenen Installationen gemäss Artikel 13 sind vom Inspektorat mindestens sechs Monate vor Ablauf jeder dritten Kontrollperiode, die Inhaber einer eingeschränkten Installationsbewilligung nach den Artikeln 14 und 15 vor Ablauf jeder Kontrollperiode schriftlich aufzufordern, die Bescheinigung der von ihnen beigezogenen akkreditierten Inspektionsstelle einzureichen.[^36-4]
 
 <sup>4</sup> Die Kontrollperioden für die einzelnen elektrischen Installationen sind im Anhang festgelegt. Das Inspektorat kann in Ausnahmefällen Abweichungen von diesen Kontrollperioden bewilligen.
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^36-2]: Eingefügt durch Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^36-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^36-2]: Eingefügt durch Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^36-3]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^36-4]: Eingefügt durch Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 37
 
@@ -847,13 +851,13 @@ Nach Artikel 55 Absatz 3 EleG wird bestraft, wer:
 
 Die Verordnung vom 6. September 1989[^43-1] über elektrische Niederspannungsinstallationen wird aufgehoben.
 
-[^43-1]: [[AS 1989 1834](https://fedlex.data.admin.ch/eli/oc/1989/1834_1834_1834), [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)Art. 15 Ziff. 1, [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 3, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 4, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 20, [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 4]
+[^43-1]: [[AS 1989 1834](https://fedlex.data.admin.ch/eli/oc/1989/1834_1834_1834); [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)Art. 15 Ziff. 1; [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 3; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 4; [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 20; [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 4]
 
 #### Art. 44
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> und <sup>2</sup> ...[^44-1]
+<sup>1</sup> und <sup>2</sup> …[^44-1]
 
 <sup>3</sup> Nach bisherigem Recht ausgestellte Anerkennungen der Fachkundigkeit behalten ihre Gültigkeit.
 
@@ -952,7 +956,7 @@ Anhang*[^t-1]*
 - 2\.4.8 die elektrischen Installationen in landwirtschaftlichen Betrieben;
 - 2\.4.9 die elektrischen Installationen in Zivilschutzbauten, welche nicht der Kontrolle nach Ziffer 1.4.1. unterliegen;
 - 2\.4.10 die elektrischen Installationen auf Vergnügungsschiffen;
-- 2\.4.11 ...
+- 2\.4.11 …
 - 2\.4.12 die elektrischen Installationen an Nationalstrassen 1. und 2. Klasse, die nicht gemäss Ziffer 1.3.1. kontrolliert werden;
 - 2\.4.13 die elektrischen Installationen von Mobilfunkanlagen auf Gebäuden, die aus der allgemeinen Stromversorgung gespeist werden.
 - 2\.5 Der Kontrolle alle 20 Jahre unterliegen alle übrigen elektrischen Installationen.

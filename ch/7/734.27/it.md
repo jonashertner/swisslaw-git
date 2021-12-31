@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2001 concernente gli impianti elettrici a bassa
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/it"
 
 (Ordinanza sugli impianti a bassa tensione, OIBT)
 
-del 7 novembre 2001 (Stato 1° luglio 2021)
+del 7 novembre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -729,16 +729,20 @@ Il proprietario che riprende dal realizzatore un impianto elettrico con un perio
 
 <sup>1</sup> I gestori di rete invitano per scritto, almeno sei mesi prima della scadenza di un periodo di controllo, i proprietari degli impianti alimentati dalle loro reti a presentare un rapporto di sicurezza conformemente all’articolo 37 prima della fine del periodo di controllo.
 
-<sup>2</sup> L’Ispettorato invita per scritto, almeno sei mesi prima della scadenza del periodo di controllo, i proprietari di impianti speciali secondo il numero 1 dell’allegato e i proprietari di impianti di produzione di energia secondo l’articolo 35 capoverso 2 a presentare il rapporto di sicurezza.[^36-1]
+<sup>1bis</sup> I rappresentanti di raggruppamenti ai fini del consumo proprio (art. 18 cpv. 1 lett. a dell’ordinanza del 1° novembre 2017[^36-1] sull’energia) notificano al gestore di rete i nominativi dei proprietari degli impianti elettrici partecipanti al raggruppamento. I proprietari sostengono opportunamente i rappresentanti e in particolare li informano di qualsiasi cambiamento di proprietà.[^36-2]
+
+<sup>2</sup> L’Ispettorato invita per scritto, almeno sei mesi prima della scadenza del periodo di controllo, i proprietari di impianti speciali secondo il numero 1 dell’allegato e i proprietari di impianti di produzione di energia secondo l’articolo 35 capoverso 2 a presentare il rapporto di sicurezza.[^36-3]
 
 <sup>3</sup> Questo termine può essere prorogato di un anno al massimo dopo la scadenza del periodo di controllo stabilito. Se, dopo due diffide, il rapporto di sicurezza non è stato presentato entro il termine stabilito, il gestore della rete affida all’Ispettorato l’esecuzione dei controlli periodici.
 
-<sup>3bis</sup> L’Ispettorato invita per scritto i titolari di un’autorizzazione per lavori a impianti propri all’impresa secondo l’articolo 13 a fornire l’attestazione del servizio di ispezione accreditato al quale si sono rivolti almeno sei mesi prima della scadenza di ogni terzo periodo di controllo; i titolari di un’autorizzazione limitata secondo gli articoli 14 e 15 sono invitati a fornire questa attestazione prima della scadenza di ogni periodo di controllo.[^36-2]
+<sup>3bis</sup> L’Ispettorato invita per scritto i titolari di un’autorizzazione per lavori a impianti propri all’impresa secondo l’articolo 13 a fornire l’attestazione del servizio di ispezione accreditato al quale si sono rivolti almeno sei mesi prima della scadenza di ogni terzo periodo di controllo; i titolari di un’autorizzazione limitata secondo gli articoli 14 e 15 sono invitati a fornire questa attestazione prima della scadenza di ogni periodo di controllo.[^36-4]
 
 <sup>4</sup> La periodicità dei controlli per i diversi impianti è stabilita nell’allegato. In casi eccezionali, l’Ispettorato può autorizzare deroghe a questi controlli periodici.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^36-2]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^36-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^36-2]: Introdotto dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^36-3]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^36-4]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 37
 

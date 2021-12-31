@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2001 sur les installations électriques à bass
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20210701/fr"
 
 (Ordonnance sur les installations à basse tension, OIBT)
 
-du 7 novembre 2001 (Etat le 1<sup>er</sup> juillet 2021)
+du 7 novembre 2001 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -98,7 +98,7 @@ Par installations électriques, on entend:
 
 <sup>1</sup> Les installations électriques doivent être établies, modifiées, entretenues et contrôlées selon les règles techniques reconnues. Elles ne doivent mettre en danger ni les personnes, ni les choses, ni les animaux lorsque leur exploitation et leur utilisation sont correctes mais aussi, autant que possible, dans les cas prévisibles d’exploitation ou d’utilisation incorrectes ou de dérangement.[^3-1]
 
-<sup>2</sup> Sont notamment réputées règles techniques reconnues les normes internationales harmonisées de la CEI[^3-2] et du CENELEC[^3-3]. A défaut, les normes suisses[^3-4] s’appliquent.
+<sup>2</sup> Sont notamment réputées règles techniques reconnues les normes internationales harmonisées de la CEI[^3-2] et du CENELEC[^3-3]. À défaut, les normes suisses[^3-4] s’appliquent.
 
 <sup>3</sup> S’il n’existe pas de normes techniques spécifiques, on utilisera les normes applicables par analogie ou les directives techniques éventuelles.
 
@@ -212,7 +212,7 @@ Lorsqu’une entreprise emploie le responsable technique à temps partiel, l’a
 
 <sup>2</sup> Si une entreprise occupe plus de 20 personnes à des travaux d’installation, un responsable technique à plein temps peut superviser au maximum trois personnes habilitées au sens de l’art. 27, al. 1, à effectuer les contrôles d’installations et travaillant à plein temps; ces personnes peuvent à leur tour surveiller 10 personnes au maximum chacune.
 
-<sup>3</sup> A l’instar de l’entreprise, les succursales sont tenues de respecter les exigences visées à l’al. 1. Elles peuvent s’organiser conformément à l’al. 2.
+<sup>3</sup> À l’instar de l’entreprise, les succursales sont tenues de respecter les exigences visées à l’al. 1. Elles peuvent s’organiser conformément à l’al. 2.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
@@ -461,7 +461,7 @@ L’autorisation d’installer est révoquée si:
 
 <sup>1</sup>
 
-En règle générale, les travaux sur des installations électriques ne doivent être effectués que lorsqu’elles sont hors tension. A cet effet, les opérations suivantes doivent être exécutées sur la partie de l’installation concernée:
+En règle générale, les travaux sur des installations électriques ne doivent être effectués que lorsqu’elles sont hors tension. À cet effet, les opérations suivantes doivent être exécutées sur la partie de l’installation concernée:
 
 - a. déclencher;
 - b. assurer contre le réenclenchement;
@@ -504,7 +504,7 @@ Un contrôle final propre à l’entreprise doit être effectué avant la remise
 
 <sup>5</sup> Le rapport de sécurité doit être remis au propriétaire par le titulaire de l’autorisation d’installer générale ou temporaire. Le procès-verbal de la première vérification suffit pour les travaux auxquels l’Inspection a accordé une exception au sens de l’art. 23.[^24-2]
 
-<sup>6</sup> A l’issue du contrôle final, le propriétaire de l’installation annonce au gestionnaire de réseau la fin des travaux d’installation et lui transmet le rapport de sécurité.
+<sup>6</sup> À l’issue du contrôle final, le propriétaire de l’installation annonce au gestionnaire de réseau la fin des travaux d’installation et lui transmet le rapport de sécurité.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 372](https://fedlex.data.admin.ch/eli/oc/2021/372)).
@@ -551,7 +551,7 @@ Les organes de contrôle sont:
 
 Les exploitants de réseaux peuvent assumer les tâches des organes de contrôle indépendant ou des organismes d’inspection accrédités:
 
-- a. s’ils constituent une unité organisationnelle indépendante sur les plans juridique et financier; ou
+- a. s’ils constituent une unité organisationnelle indépendante sur les plans juridique et financier, ou
 - b. s’ils accomplissent des contrôles techniques d’installations électriques comme organe de contrôle indépendant ou organisme d’inspection accrédité uniquement sur des installations électriques, qui ne sont pas alimentées par leurs réseaux à basse tension. Dans ce cas, une comptabilité séparée doit être tenue pour le contrôle technique.
 
 <sup>4</sup> L’accréditation des organismes d’inspection est régie par l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^26-1]. Le DETEC peut fixer les exigences techniques relatives à l’accréditation; il consulte à cet effet l’Inspection et les organisations professionnelles.
@@ -725,16 +725,20 @@ Lorsque le propriétaire reprend du constructeur une installation dont la pério
 
 <sup>1</sup> Six mois au moins avant l’expiration d’une période de contrôle, les exploitants de réseaux invitent par écrit les propriétaires des installations qu’ils alimentent à présenter un rapport de sécurité selon l’art. 37 avant la fin de la période de contrôle.
 
-<sup>2</sup> Six mois au moins avant l’expiration de la période de contrôle, l’Inspection invite par écrit les propriétaires d’installations spéciales visées à l’annexe, ch. 1, ainsi que les propriétaires d’installations de production d’énergie visées à l’art. 35, al. 2, à présenter le rapport de sécurité.[^36-1]
+<sup>1bis</sup> Les représentants de regroupements dans le cadre de la consommation propre (art. 18, al. 1, let. a, de l’ordonnance du 1er novembre 2017 sur l’énergie[^36-1]) communiquent à l’exploitant du réseau l’identité des propriétaires des installations électriques utilisées au sein du regroupement. Les propriétaires soutiennent les représentants en conséquence et leur signalent notamment tout changement de propriétaire.[^36-2]
+
+<sup>2</sup> Six mois au moins avant l’expiration de la période de contrôle, l’Inspection invite par écrit les propriétaires d’installations spéciales visées à l’annexe, ch. 1, ainsi que les propriétaires d’installations de production d’énergie visées à l’art. 35, al. 2, à présenter le rapport de sécurité.[^36-3]
 
 <sup>3</sup> Le délai peut être prorogé d’une année, au plus, après l’expiration de la période de contrôle fixée. Si le rapport de sécurité n’est pas présenté dans le délai malgré deux rappels, l’exploitant de réseau confie l’exécution du contrôle périodique à l’Inspection.
 
-<sup>3bis</sup> L’Inspection invite par écrit les titulaires d’une autorisation pour des travaux effectués sur des installations propres à l’entreprise visés à l’art. 13 à fournir une attestation de l’organisme d’inspection accrédité choisi par leurs soins au moins six mois avant l’expiration de chaque troisième période de contrôle; les titulaires d’une autorisation d’installer limitée visée aux art. 14 et 15 doivent fournir cette attestation avant l’expiration de chaque période de contrôle.[^36-2]
+<sup>3bis</sup> L’Inspection invite par écrit les titulaires d’une autorisation pour des travaux effectués sur des installations propres à l’entreprise visés à l’art. 13 à fournir une attestation de l’organisme d’inspection accrédité choisi par leurs soins au moins six mois avant l’expiration de chaque troisième période de contrôle; les titulaires d’une autorisation d’installer limitée visée aux art. 14 et 15 doivent fournir cette attestation avant l’expiration de chaque période de contrôle.[^36-4]
 
 <sup>4</sup> La périodicité des contrôles pour les différentes installations est réglée dans l’annexe. L’Inspection peut autoriser des exceptions.
 
-[^36-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
-[^36-2]: Introduit par le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^36-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^36-2]: Introduit par le ch. II de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^36-3]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^36-4]: Introduit par le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
 #### Art. 37
 
@@ -783,7 +787,7 @@ Le rapport de sécurité doit être signé:
 
 #### Art. 40
 
-**Elimination des défauts**
+**Élimination des défauts**
 
 <sup>1</sup> Les défauts pouvant mettre en danger des personnes ou des choses doivent être éliminés sans retard. S’il existe un danger imminent et non négligeable, l’organe de contrôle interrompt immédiatement l’alimentation électrique de la partie d’installation dangereuse pour les personnes ou les choses.
 
@@ -798,7 +802,7 @@ Le rapport de sécurité doit être signé:
 [^40-1]: Introduit par le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
-## Chapitre 5**** Emoluments et dispositions pénales
+## Chapitre 5**** Émoluments et dispositions pénales
 
 [^chap5-1]
 
@@ -806,7 +810,7 @@ Le rapport de sécurité doit être signé:
 
 #### Art. 41
 
-**Emoluments**
+**Émoluments**
 
 L’Inspection perçoit des émoluments pour les contrôles et les décisions prises en vertu de la présente ordonnance selon les art. 9 et 10 de l’ordonnance du 7 décembre 1992 sur l’Inspection fédérale des installations à courant fort[^41-1].
 
