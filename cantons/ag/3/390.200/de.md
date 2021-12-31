@@ -4,13 +4,12 @@ number: "390.200"
 title: Einführungsgesetz zum Tierseuchengesetz
 short: EG TSG
 language: de
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-06-24
+version: 2022-01-01
+version_adopted: 2021-06-22
 adopted: 2008-05-06
 in_force: 2009-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/390.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2222/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3648/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2222/pdf_file"
 
 (EG TSG)
 
-Vom 06.05.2008 (Stand 01.01.2016)
+Vom 06.05.2008 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -64,7 +63,7 @@ beschliesst:
 - b) bei Tierseuchen gemäss den Bestimmungen des Bundesrechts, für die der Regierungsrat eine Entschädigungspflicht vorsieht,
 - c) in Härtefällen.
 
-<sup>2</sup> Anspruch auf Entschädigung gemäss Absatz 1 lit. b und c besteht nur, wenn Tierhalterbeiträge entrichtet werden.
+<sup>2</sup> Anspruch auf Entschädigung gemäss Absatz 1 lit. b und c hat, wer Tierhalterbeiträge entrichtet. Ebenso Anspruch haben Imkerinnen und Imker, an deren Stelle der Kanton die Tierhalterbeiträge entrichtet.
 
 <sup>3</sup> Der Regierungsrat regelt die Bemessung der Entschädigungen und das Verfahren.
 
@@ -78,7 +77,7 @@ beschliesst:
 
 **Tierhalterbeiträge**
 
-<sup>1</sup> Halterinnen und Halter von Nutztieren leisten jährlich einen Tierhalterbeitrag.
+<sup>1</sup> Halterinnen und Halter von Nutztieren leisten jährlich einen Tierhalterbeitrag. Für Bienenvölker leistet der Kanton den Beitrag.
 
 <sup>2</sup> Als Nutztiere gelten
 
@@ -96,7 +95,7 @@ beschliesst:
 
 - a) legt im Rahmen der grundsätzlichen Lastenverteilung gemäss § 4 die Höhe des Tierhalterbeitrags pro GVE fest,
 - b) legt in Anlehnung an Absatz 3 die Bemessungsgrundlagen für Nutztiere, die sich nicht als GVE abbilden lassen, fest,
-- c) legt fest, unter welchen Voraussetzungen auf einen Mindestbeitrag für Bienenvölker verzichtet werden kann,
+- c) …
 - d) kann für die Beitragspflicht einen Mindestbestand an Nutztieren festlegen,
 - e) legt die Modalitäten für den zur Beitragsberechnung massgebenden Tierbestand fest,
 - f) kann weitere Nutztiere der Beitragspflicht unterstellen.
@@ -126,8 +125,10 @@ beschliesst:
 <sup>1</sup> Die zweckgebundenen Erträge werden verwendet für
 
 - a) Entschädigung bei Nutztierverlusten gemäss § 3,
-- b) Kosten der Entsorgung infolge einer Tierseuche umgestandener Tiere,
-- c) Entschädigungen an Personen, die zur Bekämpfung von Tierseuchen eingesetzt werden,
+- b) Kosten der Entsorgung infolge einer Tierseuche umgestandener oder zur Seuchenbekämpfung getöteter Tiere,
+- b<sup>bis</sup>) Kosten der Direktabholung toter Nutztiere gemäss § 11 Abs. 4,
+- c) Kosten des Einsatzes aller zur Bekämpfung von Tierseuchen tätigen Personen; der Regierungsrat kann durch Verordnung pauschale Ansätze pro Arbeitsstunde festlegen,
+- c<sup>bis</sup>) Kosten der tierseuchenspezifischen Fort- und Weiterbildung der in diesem Bereich tätigen Personen,
 - d) Probeerhebungen und Laboruntersuchungen,
 - e) Fahrzeuge, Geräte und weiteres Material, die für die Bekämpfung von Tierseuchen benötigt werden,
 - f) aus dem Vertrag mit einer Entsorgungsfirma vom Kanton zu übernehmende Kosten, soweit sie nicht von Gemeinden oder Dritten getragen werden müssen,
@@ -174,6 +175,10 @@ beschliesst:
 <sup>2</sup> Sie können verursachergerechte Gebühren erheben.
 
 <sup>3</sup> Sie vergüten dem Kanton die ihm aus der Vereinbarung mit einer Entsorgungsfirma entstandenen Entsorgungskosten nach Massgabe des verursachten Aufwands. Der Regierungsrat regelt hierzu die Einzelheiten. Er kann die Transportkosten ganz oder teilweise auf die Gemeinden nach Einwohnerzahl verteilen.
+
+<sup>4</sup> Der Kanton trägt die Kosten der zwingenden Direktabholung toter Nutztiere. Ausgenommen von der Kostentragung ist die Direktabholung von Heimtieren gemäss Art. 3 Abs. 1 lit. b der Verordnung über die Tierarzneimittel (Tierarzneimittelverordnung, TAMV) vom 18. August 2004[^11-1] sowie von Tieren, die aus rein wirtschaftlichen Gründen getötet werden.
+
+[^11-1]: SR [812.212.27](https://db.clex.ch/link/Bund/812.212.27/de)
 
 #### § 12
 
