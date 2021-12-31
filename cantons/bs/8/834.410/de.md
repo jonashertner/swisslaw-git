@@ -4,13 +4,13 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2021-10-01
-valid_until: 2021-12-31
-version_adopted: 2021-08-24
+version: 2022-01-01
+valid_until: 2022-03-31
+version_adopted: 2021-12-07
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5332/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Krankenversicherung: Verordnung | Kranken- und Unfallversicherung
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. Oktober 2021)
+Vom 25. November 2008 (Stand 1. Januar 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -216,7 +216,7 @@ Bei Aufenthalt der versicherten Person, welche weder eine Rente der AHV oder IV 
 
 <sup>1</sup> a) Pflegeheime
 
-\1. Die kantonalen Pflegenormkosten ergeben sich aus der Multiplikation der Indexwerte pro Pflegestufe (§ 2 Anhang 1) mit dem Punktwert in Franken (§ 3 Anhang 1).
+\1. Die kantonalen Pflegenormkosten ergeben sich aus der Multiplikation der Indexwerte pro Pflegestufe (§ 2 Anhang 1) mit dem vom Regierungsrat festgelegten Punktwert in Franken.
 
 Für Nichtvertragsheime reduzieren sich die Normkosten um 10 Prozent.
 
@@ -466,13 +466,15 @@ Für Nichtvertragsheime reduzieren sich die Normkosten um 10 Prozent.
 
 #### § 26a
 
-**Meldungen der Krankenversicherer**
+**Meldungen der Krankenversicherer[^26a-1]**
 
 <sup>1</sup> Die im Kanton Basel-Stadt tätigen Krankenversicherer erteilen dem Amt für Sozialbeiträge auf Anfrage Auskunft über das Versicherungsverhältnis nach KVG einzelner Personen zwecks Kontrolle der Krankenversicherungsbeiträge und Nachweis des Versicherungsverhältnisses.
 
-<sup>2</sup> Einmal jährlich, jeweils per 31. März melden die Krankenversicherer dem Amt für Sozialbeiträge auf Anfrage die Personendaten nach Art. 105g KVV aller ihrer im Kanton Basel-Stadt versicherten Personen. Die Meldungen dienen dem Abgleich der Datenbestände und der Überprüfung der Einhaltung der Versicherungspflicht.
+<sup>2</sup> Die Krankenversicherer melden dem Amt für Sozialbeiträge auf Anfrage die Personendaten nach Art. 105g KVV aller im Kanton Basel-Stadt versicherten Personen. Die Meldungen dienen dem Abgleich der Prämienverbilligungsdatenbestände und der Überprüfung der Einhaltung der Versicherungspflicht. Die Krankenversicherer melden dem ASB auf Anfrage auch weitere Daten (Art. 106c Abs. 6 und 106d Abs. 1 KVV), damit der Prämienverbilligungszuschlag gemäss § 21 Abs. 1<sup>bis</sup> dieser Verordnung ermittelt werden kann.
 
 <sup>3</sup> Die Meldungen gemäss Abs. 1 und Abs. 2 erfolgen mittels einheitlichem Datenaustausch gemäss Verordnung des EDI über den Datenaustausch für die Prämienverbilligung (VDPV-EDI).
+
+[^26a-1]: § 26a Titel in der Fassung des RRB vom 29. 4. 2014 (wirksam seit 1. 7. 2014).
 
 #### § 27
 
