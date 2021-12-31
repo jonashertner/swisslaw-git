@@ -4,11 +4,11 @@ title: Legge federale del 21 giugno 1991 sulla pesca (LFSP)
 short: LFSP
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
 language: it
-version: 2017-05-01
+version: 2022-01-01
 adopted: 1991-06-21
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20170501/it/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20170501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20170501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20170501/it"
 
 (LFSP)**[^t-1]**
 
-del 21 giugno 1991 (Stato 1° maggio 2017)
+del 21 giugno 1991 (Stato 1° gennaio 2022)
 
 [^t-1]: RU **1991** 2259 Introdotta dal n. I 18 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 (RU **1999** 3071; FF **1998** 2029).
 
@@ -325,19 +325,18 @@ Ai reati secondo la presente legge si applicano per analogia gli articoli 6 e 7 
 
 <sup>1</sup> Il perseguimento penale e il giudizio delle infrazioni incombono ai Cantoni.
 
-<sup>2</sup> L’Ufficio federale della sicurezza alimentare e di veterinaria[^20-1] persegue e giudica le infrazioni commesse all’atto dell’importazione. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^20-2] sulle dogane o alla legge del 12 giugno 2009[^20-3] sull’IVA, le infrazioni sono perseguite e giudicate dall’Amministrazione federale delle dogane.[^20-4]
+<sup>2</sup> L’Ufficio federale della sicurezza alimentare e di veterinaria persegue e giudica le infrazioni commesse all’atto dell’importazione. Se vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^20-1] sulle dogane o alla legge del 12 giugno 2009[^20-2] sull’IVA, le infrazioni sono perseguite e giudicate dall’Ufficio federale della dogana e della sicurezza dei confini.[^20-3]
 
-<sup>3</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 2 e un’infrazione alla legge federale del 16 marzo 2012[^20-5] sulla circolazione delle specie di fauna e di flora protette, alla legge federale del 16 dicembre 2005[^20-6] sulla protezione degli animali, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^20-7] sulle derrate alimentari o alla legge del 1° luglio 1966[^20-8] sulle epizoozie, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^20-9]
+<sup>3</sup> Se un’infrazione costituisce simultaneamente un’infrazione secondo il capoverso 2 e un’infrazione alla legge federale del 16 marzo 2012[^20-4] sulla circolazione delle specie di fauna e di flora protette, alla legge federale del 16 dicembre 2005[^20-5] sulla protezione degli animali, alla legge del 18 marzo 2005 sulle dogane, alla legge del 12 giugno 2009 sull’IVA, alla legge del 20 giugno 2014[^20-6] sulle derrate alimentari o alla legge del 1° luglio 1966[^20-7] sulle epizoozie, perseguibile dalla stessa autorità federale, è applicata la pena comminata per l’infrazione più grave; tale pena può essere adeguatamente aumentata.[^20-8]
 
-[^20-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014.
-[^20-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^20-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^20-4]: Nuovo testo giusta il n. 6 dell’all. 1 alla LF del 16 mar. 2012 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6219](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^20-5]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^20-6]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^20-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^20-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^20-9]: Nuovo testo giusta il n. II 9 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^20-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^20-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^20-3]: Nuovo testo giusta il n. I 36 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-4]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^20-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^20-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^20-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^20-8]: Nuovo testo giusta il n. II 9 dell’all. alla L del 20 giu. 2014 sulle derrate alimentari, in vigore dal 1° mag. 2017 ([RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Sezione 8: Esecuzione
 
@@ -465,4 +464,4 @@ Fatto salvo il capoverso 3, essa entra in vigore il 1° gennaio:
 
 Data dell’entrata in vigore:[^29-1] 1° gennaio 1994 Art. 6: 1° ottobre 1991
 
-[^29-1]: DCF del 1° ott. 1991
+[^29-1]: DCF del 1° ott. 1991.

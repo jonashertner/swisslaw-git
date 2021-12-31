@@ -4,11 +4,11 @@ title: Lescha federala dals 21 da zercladur 1991 davart la pestga (LFP)
 short: LFP
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
 language: rm
-version: 2017-05-01
+version: 2022-01-01
 adopted: 1991-06-21
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20170501/rm/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20170501-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20170501/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20220101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LFP)**[^t-1]**
 
-dals 21 da zercladur 1991 (versiun dal 1. da matg 2017)
+dals 21 da zercladur 1991 (versiun dal 1. da schaner 2022)
 
 [^t-1]: Integrà tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
@@ -169,7 +169,7 @@ Ina permissiun dovri en spezial per:
 
 <sup>5</sup> Stabiliments che vegnan engrondids u renovads valan sco stabiliments novs.
 
-[^8-1]: Abolì tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, en vigur dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
+[^8-1]: Abolì tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun, cun effect dapi il 1. da schan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^8-2]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
 
 #### Art. 9
@@ -234,7 +234,7 @@ La Confederaziun po conceder agids finanzials a:
 <sup>3</sup> …[^12-2]
 
 [^12-1]: Versiun tenor la cifra II 32 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^12-2]: Abolì tras la cifra II 32 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^12-2]: Abolì tras la cifra II 32 da la LF dals 6 d’oct. 2006 davart la refurma da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), cun effect dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 13
 
@@ -325,14 +325,14 @@ Ils artitgels 6 e 7 da la Lescha federala dals 22 da mars 1974[^18-1] davart il 
 
 <sup>1</sup> La persecuziun ed il giudicament da cuntravenziuns èn chaussa dals chantuns.
 
-<sup>2</sup> L’Uffizi federal da segirezza alimentara e fatgs veterinars[^20-2] persequitescha e giuditgescha las cuntravenziuns fatgas a chaschun da l’import. Sch’igl exista a medem temp ina cuntravenziun cunter la Lescha da duana dals 18 da mars 2005[^20-3] u cunter la Lescha davart la taglia sin la plivalur dals 12 da zercladur 2009[^20-4], persequitescha e giuditgescha l’Administraziun federala da duana las cuntravenziuns.
+<sup>2</sup> L’Uffizi federal da segirezza alimentara e fatgs veterinars persequitescha e giuditgescha las cuntravenziuns fatgas a chaschun da l’import. Sch’igl exista a medem temp ina cuntravenziun cunter la Lescha da duana dals 18 da mars 2005[^20-2] u cunter la Lescha dals 12 da zercladur 2009[^20-3] davart la taglia sin la plivalur, persequitescha e giuditgescha l’Uffizi federal da la duana e da la segirezza dals cunfins las cuntravenziuns.[^20-4]
 
 <sup>3</sup> Sch’ina cuntravenziun represchenta a medem temp ina cuntravenziun tenor l’alinea 2, ch’è drizzada cunter la Lescha federala dals 16 da mars 2012[^20-5] davart il traffic cun spezias d’animals e da plantas protegidas, cunter la Lescha federala dals 16 da december 2005[^20-6] davart la protecziun dals animals, cunter la Lescha federala dals 18 da mars 2005 davart la duana ed ils dazis, cunter la Lescha federala dals 12 da zercladur 2009 davart la taglia sin la plivalur, cunter la Lescha federala dals 20 zercladur 2014[^20-7] davart victualias ed objects da diever u cunter la Lescha federala dal 1. da fanadur 1966[^20-8] davart epidemias d’animals, e che sto vegnir persequitada da la medema autoritad federala, vegn applitgà il chasti smanatschà per la cuntravenziun la pli greva; quest chasti po vegnir augmentà adequatamain.[^20-9]
 
 [^20-1]: Versiun tenor la cifra 6 da l’agiunta 1 da la LF dals 16 da mars 2012 davart il traffic cun spezias d’animals e da plantas protegidas, en vigur dapi il 1. d’oct. 2013 ([AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [BBl 2011 6985](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^20-2]: La designaziun da l’unitad administrativa è vegnida adattada per il 1. da schan. 2014 applitgond l’art. 16 al. 3 da l’O dals 17 da nov. 2004 davart las publicaziuns uffizialas ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^20-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^20-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^20-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^20-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^20-4]: Versiun tenor la cifra I 36 da l’O dals 12 da zer. 2020 davart l’adattaziun da leschas en consequenza da la midada da la designaziun da l’Administraziun federala da duana en il rom da ses ulteriur svilup, en vigur dapi il 1. da schan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^20-5]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
 [^20-6]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^20-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
@@ -419,13 +419,13 @@ L’approvaziun da la Confederaziun dovran las prescripziuns chantunalas davart:
 
 [^26a-1]
 
-[^26a-1]: Integrà tras la cifra 11 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abolì tras la cifra 129 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26a-1]: Integrà tras la cifra 11 da l’agiunta da la LF dals 21 da mars 2003 davart la tecnica genetica ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abolì tras la cifra 129 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26b
 
 [^26b-1]
 
-[^26b-1]: Art. 26*a* d’enfin ussa. Integrà tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Abolì tras la cifra 129 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26b-1]: Art. 26*a* d’enfin ussa. Integrà tras la cifra I 18 da la LF dals 18 da zer. 1999 davart la coordinaziun e la simplificaziun da las proceduras da decisiun ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Abolì tras la cifra 129 da l’agiunta da la LF dals 17 da zer. 2005 davart il TAF, cun effect dapi il 1. da schan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## 9. secziun Disposiziuns finalas
 
@@ -435,7 +435,7 @@ L’approvaziun da la Confederaziun dovran las prescripziuns chantunalas davart:
 
 <sup>1.</sup> La Lescha federala dals 14 da december 1973[^27-1] davart la pestga vegn abolida.
 
-<sup>2.</sup> ed 3. …[^27-2]
+<sup>2.</sup> e 3. ...[^27-2]
 
 [^27-1]: [[AS 1975 2345](https://fedlex.data.admin.ch/eli/oc/1975/2345_2345_2345), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 81, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra III, [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 cifra 1]
 [^27-2]: Las midadas pon vegnir consultadas en la [AS 1991 2259](https://fedlex.data.admin.ch/eli/oc/1991/2259_2259_2259).
@@ -444,7 +444,7 @@ L’approvaziun da la Confederaziun dovran las prescripziuns chantunalas davart:
 
 [^28-1]
 
-[^28-1]: Abolì tras la cifra II 51 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, en vigur dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^28-1]: Abolì tras la cifra II 51 da la LF dals 20 da mars 2008 davart la rectificaziun formala dal dretg federal, cun effect dapi il 1. d’avust 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 29
 

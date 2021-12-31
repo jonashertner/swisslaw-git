@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. Juni 1991 über die Fischerei (BGF)
 short: BGF
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
 language: de
-version: 2017-05-01
+version: 2022-01-01
 adopted: 1991-06-21
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20170501/de/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20170501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20170501/de"
 
 (BGF)**[^t-1]**
 
-vom 21. Juni 1991 (Stand am 1. Mai 2017)
+vom 21. Juni 1991 (Stand am 1. Januar 2022)
 
 [^t-1]: Eingefügt durch Ziff. I 18 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
@@ -144,7 +144,7 @@ Die Bewilligung wird erteilt, wenn der Gesuchsteller nachweist, dass:
 
 <sup>1</sup> Eingriffe in die Gewässer, ihren Wasserhaushalt oder ihren Verlauf sowie Eingriffe in die Ufer und den Grund von Gewässern brauchen eine Bewilligung der für die Fischerei zuständigen kantonalen Behörde (fischereirechtliche Bewilligung), soweit sie die Interessen der Fischerei berühren können.
 
-<sup>2</sup> …[^8-1]
+<sup>2</sup> ...[^8-1]
 
 <sup>3</sup>
 
@@ -229,7 +229,7 @@ Der Bund kann Finanzhilfen gewähren für:
 
 <sup>2</sup> Die Finanzhilfen des Bundes bemessen sich nach der Bedeutung der Massnahmen nach Absatz 1 Buchstaben a–c für den Schutz und die Nutzung der Fische und Krebse; sie betragen höchstens 40 Prozent der Kosten.[^12-1]
 
-<sup>3</sup> …[^12-2]
+<sup>3</sup> ...[^12-2]
 
 [^12-1]: Fassung gemäss Ziff. II 32 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^12-2]: Aufgehoben durch Ziff. II 32 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
@@ -323,14 +323,14 @@ Die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^18-1]
 
 <sup>1</sup> Die Verfolgung und Beurteilung von Widerhandlungen ist Sache der Kantone.
 
-<sup>2</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen[^20-2] verfolgt und beurteilt Widerhandlungen bei der Einfuhr. Liegt gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^20-3] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^20-4] vor, so verfolgt und beurteilt die Eidgenössische Zollverwaltung die Widerhandlungen.
+<sup>2</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen verfolgt und beurteilt Widerhandlungen bei der Einfuhr. Liegt gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^20-2] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^20-3] vor, so verfolgt und beurteilt das Bundesamt für Zoll und Grenzsicherheit die Widerhandlungen.[^20-4]
 
 <sup>3</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 2 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Bundesgesetz vom 16. März 2012[^20-5] über den Verkehr mit Tieren und Pflanzen geschützter Arten, das Tierschutzgesetz vom 16. Dezember 2005[^20-6], das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^20-7] oder das Tierseuchengesetz vom 1. Juli 1966[^20-8] dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^20-9]
 
 [^20-1]: Fassung gemäss Anhang 1 Ziff. 6 des BG vom 16. März 2012 über den Verkehr mit Tieren und Pflanzen geschützter Arten, in Kraft seit 1. Okt. 2013 ([AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [BBl 2011 6985](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^20-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst.
-[^20-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^20-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^20-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^20-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^20-4]: Fassung gemäss Ziff. I 36 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^20-5]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
 [^20-6]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^20-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
@@ -433,7 +433,7 @@ Eine Genehmigung des Bundes brauchen die kantonalen Vorschriften über:
 
 <sup>1.</sup> Das Bundesgesetz vom 14. Dezember 1973[^27-1] über die Fischerei wird aufgehoben.
 
-<sup>2.</sup> und 3. …[^27-2]
+<sup>2.</sup> und 3. ...[^27-2]
 
 [^27-1]: [[AS 1975 2345](https://fedlex.data.admin.ch/eli/oc/1975/2345_2345_2345), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 81, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. III, [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 Ziff. 1]
 [^27-2]: Die Änderungen können unter [AS 1991 2259](https://fedlex.data.admin.ch/eli/oc/1991/2259_2259_2259)konsultiert werden.
@@ -457,6 +457,6 @@ Eine Genehmigung des Bundes brauchen die kantonalen Vorschriften über:
 
 <sup>3</sup> Artikel 6 tritt nach dem unbenützten Ablauf der Referendumsfrist oder mit der Gutheissung des Gesetzes durch das Volk in Kraft.
 
-Datum des Inkrafttretens:[^29-1] 1. Januar 1994 Art. 6: 1. Oktober 1991
+Datum des Inkrafttretens: [^29-1] 1. Januar 1994 Art. 6: 1. Oktober 1991
 
 [^29-1]: BRB vom 1. Okt. 1991

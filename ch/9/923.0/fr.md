@@ -4,11 +4,11 @@ title: Loi fédérale du 21 juin 1991 sur la pêche (LFSP)
 short: LFSP
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259"
 language: fr
-version: 2017-05-01
+version: 2022-01-01
 adopted: 1991-06-21
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20170501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-2259_2259_2259-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/2259_2259_2259/20170501/fr"
 
 (LFSP**[^t-1]**)
 
-du 21 juin 1991 (Etat le 1<sup>er</sup> mai 2017)
+du 21 juin 1991 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Introduite par le ch. I 18 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 
@@ -213,7 +213,7 @@ En ce qui concerne les installations existantes, les cantons imposent des mesure
 
 Les cantons effectuent des relevés selon les principes de la Confédération.
 
-[^11-1]: Nouvelle teneur selon le ch. 12 de l’annexe à la LF du 9 oct. 1992 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> août 1993 ([RO 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [FF 1992 I 353](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
+[^11-1]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 9 oct. 1992 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> août 1993 ([RO 1993 2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080); [FF 1992 I 353](https://fedlex.data.admin.ch/eli/fga/1992/1_373_353_321)).
 
 ## Section 5 Encouragement de la pêche
 
@@ -244,7 +244,7 @@ La Confédération peut allouer des aides financières pour:
 
 <sup>2</sup> Il peut organiser des cours de formation continue pour le personnel chargé de la surveillance de la pêche.
 
-[^13-1]: Nouvelle teneur selon le ch. 44 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^13-1]: Nouvelle teneur selon l’annexe ch. 44 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 14
 
@@ -325,19 +325,18 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 <sup>1</sup> La poursuite pénale et le jugement des infractions sont du ressort des cantons.
 
-<sup>2</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires[^20-1] poursuit et juge les infractions commises lors de l’importation. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^20-2] ou à la loi du 12 juin 2009 sur la TVA[^20-3], l’Administration fédérale des douanes poursuit et juge ces infractions.[^20-4]
+<sup>2</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires poursuit et juge les infractions commises lors de l’importation. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^20-1] ou à la loi du 12 juin 2009 sur la TVA[^20-2], l’Office fédéral de la douane et de la sécurité des frontières poursuit et juge ces infractions.[^20-3]
 
-<sup>3</sup> Si un acte constitue à la fois une infraction visée à l’al. 2 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^20-5], à la loi fédérale du 16 décembre 2005 sur la protection des animaux[^20-6], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^20-7] ou à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^20-8] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^20-9]
+<sup>3</sup> Si un acte constitue à la fois une infraction visée à l’al. 2 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^20-4], à la loi fédérale du 16 décembre 2005 sur la protection des animaux[^20-5], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^20-6] ou à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^20-7] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^20-8]
 
-[^20-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^20-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^20-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^20-4]: Nouvelle teneur selon le ch. 6 de l’annexe 1 à la LF du 16 mars 2012 sur les espèces protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6439](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^20-5]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^20-6]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^20-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^20-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^20-9]: Nouvelle teneur selon le ch. II 9 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^20-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^20-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^20-3]: Nouvelle teneur selon le ch. I 36 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^20-4]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^20-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^20-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^20-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^20-8]: Nouvelle teneur selon l’annexe ch. II 9 de la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 ## Section 8 Exécution
 
@@ -355,7 +354,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 <sup>5</sup> Si la procédure définie à l’al. 4 n’est pas adaptée à certaines tâches, le Conseil fédéral réglemente l’exécution de celles-ci par les services fédéraux concernés.[^21-3]
 
-[^21-1]: Introduit par le ch. I 18 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Nouvelle teneur de la phrase selon le ch. 44 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^21-1]: Introduit par le ch. I 18 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Nouvelle teneur de la phrase selon l’annexe ch. 44 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^21-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^21-3]: Introduit par le ch. I 18 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 
@@ -375,7 +374,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 <sup>2</sup> Ils recommandent des mesures de protection et d’entretien appropriées.
 
-[^22a-1]: Introduit par le ch. 3 de l’annexe à la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^22a-1]: Introduit par l’annexe ch. 3 de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 
 #### Art. 23
 
@@ -387,7 +386,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 <sup>3</sup> Chacun est tenu de fournir les renseignements nécessaires à l’exécution de la présente loi.
 
-[^23-1]: Nouvelle teneur selon le ch. 44 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 44 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 24
 
@@ -401,7 +400,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 **Eaux internationales**
 
-Pour la pêche dans les eaux frontière suisses, le Conseil fédéral est autorisé, après avoir consulté les cantons intéressés, à conclure des conventions avec d’autres Etats. Ces conventions peuvent contenir des dispositions qui dérogent à la présente loi.
+Pour la pêche dans les eaux frontière suisses, le Conseil fédéral est autorisé, après avoir consulté les cantons intéressés, à conclure des conventions avec d’autres États. Ces conventions peuvent contenir des dispositions qui dérogent à la présente loi.
 
 #### Art. 26
 
@@ -421,13 +420,13 @@ Les cantons soumettent à l’approbation de la Confédération leurs dispositio
 
 [^26a-1]
 
-[^26a-1]: Introduit par le ch. 11 de l’annexe à la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogé par le ch. 129 de l’annexe à la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26a-1]: Introduit par l’annexe ch. 11 de la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogé par l’annexe ch. 129 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26b
 
 [^26b-1]
 
-[^26b-1]: Anciennement art. 26*a*. Introduit par le ch. I 18 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Abrogé par le ch. 129 de l’annexe à la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26b-1]: Anciennement art. 26*a*. Introduit par le ch. I 18 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221). Abrogé par l’annexe ch. 129 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Section 9 Dispositions finales
 
