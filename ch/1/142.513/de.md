@@ -3,11 +3,11 @@ sr: "142.513"
 title: Verordnung vom 12. April 2006 über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/de"
 
 (ZEMIS-Verordnung)
 
-vom 12. April 2006 (Stand am 1. April 2021)
+vom 12. April 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -97,7 +97,7 @@ In dieser Verordnung bedeuten:
 
 ZEMIS umfasst folgende Subsysteme:
 
-- a.[^3-1] ...
+- a.[^3-1] …
 - b. ein automatisiertes Personendossier- und Dokumentationssystem (eDossier).
 
 <sup>2</sup> Eine Suche in ZEMIS führt zu einer Online-Abfrage innerhalb des automatisierten Polizeifahndungssystems (RIPOL).[^3-2]
@@ -127,16 +127,15 @@ Der allgemeine Teil mit den Stammdaten setzt sich aus Personendaten der folgende
 
 - a. Personalien der betroffenen Person (Namen, Vornamen, Aliasnamen, Geburtsdatum, Geschlecht, Staatsangehörigkeit, Zivilstand);
 - b. Personennummer;
-- c.[^4-1] Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^4-2] über die Alters- und Hinterlassenenversicherung (AHV-Versichertennummer).
+- c.[^4-1] AHV-Nummer.
 
-<sup>3</sup> In Anhang 1 werden die in ZEMIS enthaltenen Daten abschliessend aufgeführt und die Berechtigungen zur Abfrage und Bearbeitung der Daten festgelegt.[^4-3]
+<sup>3</sup> In Anhang 1 werden die in ZEMIS enthaltenen Daten abschliessend aufgeführt und die Berechtigungen zur Abfrage und Bearbeitung der Daten festgelegt.[^4-2]
 
-<sup>4</sup> ...[^4-4]
+<sup>4</sup> …[^4-3]
 
-[^4-1]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^4-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^4-3]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^4-4]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007 ([AS 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Aufgehoben durch Ziff. I der V vom 1. Mai 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
+[^4-1]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Fassung gemäss Anhang Ziff. II 3 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^4-3]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007 ([AS 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Aufgehoben durch Ziff. I der V vom 1. Mai 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
 
 ## 3. Abschnitt: Meldepflichten
 
@@ -278,33 +277,33 @@ Daten des Ausländerbereichs kann das SEM folgenden Behörden durch ein Abrufver
 - e. den Grenzposten der kantonalen Polizeibehörden und dem Grenzwachtkorps: zur Durchführung der Personenkontrolle und zur Erteilung von Ausnahmevisa;
 - f. den schweizerischen Auslandvertretungen und Missionen: zur Prüfung der Visumgesuche und zur Erfüllung ihrer Aufgaben im Bereich des Schweizer Bürgerrechts;
 - g.[^9-14] dem Staatssekretariat, der Politischen Direktion und der Konsularischen Direktion des EDA: zur Prüfung und zum Entscheid über Visumgesuche im Zuständigkeitsbereich des Departements;
-- h. der Zentralen Ausgleichsstelle: zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Versichertennummer;
+- h. der Zentralen Ausgleichsstelle: zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Nummer[^9-15];
 - i. den kantonalen Steuerbehörden: für ihre Aufgaben bei der Erhebung der Quellensteuer;
-- j. den in Artikel 7 Absatz 1 Buchstabe b des Bundesgesetzes vom 8. Oktober 1999[^9-15] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer als Kontrollorgane vorgesehenen tripartiten Kommissionen: für deren Aufgaben nach Artikel 11 der Verordnung vom 21. Mai 2003[^9-16] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer;
-- k.[^9-17] den Zivilstandsämtern, den kantonalen Aufsichtsbehörden im Zivilstandsdienst und dem Eidgenössischen Amt für das Zivilstandswesen zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft und zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches[^9-18] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^9-19];
-- l. den kantonalen Asyl- und Flüchtlingskoordinationsstellen: ausschliesslich zur Gewährleistung der Sozialhilfe nach dem AsylG[^9-20];
-- m.[^9-21] den für die Register nach Artikel 2 Absatz 2 des Registerharmonisierungsgesetzes vom 23. Juni 2006[^9-22] zuständigen Stellen: zur Harmonisierung der Register und zur Nachführung der AHV-Versichertennummer;
-- n.[^9-23] dem Nachrichtendienst des Bundes (NDB): ausschliesslich zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^9-24] (NDG) sowie zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach dem BüG[^9-25], dem AIG und dem AsylG;
-- o.[^9-26]
+- j. den in Artikel 7 Absatz 1 Buchstabe b des Bundesgesetzes vom 8. Oktober 1999[^9-16] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer als Kontrollorgane vorgesehenen tripartiten Kommissionen: für deren Aufgaben nach Artikel 11 der Verordnung vom 21. Mai 2003[^9-17] über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer;
+- k.[^9-18] den Zivilstandsämtern, den kantonalen Aufsichtsbehörden im Zivilstandsdienst und dem Eidgenössischen Amt für das Zivilstandswesen zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft und zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches[^9-19] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^9-20];
+- l. den kantonalen Asyl- und Flüchtlingskoordinationsstellen: ausschliesslich zur Gewährleistung der Sozialhilfe nach dem AsylG[^9-21];
+- m.[^9-22] den für die Register nach Artikel 2 Absatz 2 des Registerharmonisierungsgesetzes vom 23. Juni 2006[^9-23] zuständigen Stellen: zur Harmonisierung der Register und zur Nachführung der AHV-Nummer;
+- n.[^9-24] dem Nachrichtendienst des Bundes (NDB): ausschliesslich zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des Nachrichtendienstgesetzes vom 25. September 2015[^9-25] (NDG) sowie zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach dem BüG[^9-26], dem AIG und dem AsylG;
+- o.[^9-27]
 
   der Eidgenössischen Steuerverwaltung für ihre Aufgaben:
 
   - 1\. bei der Erhebung der Mehrwertsteuer auf den im Inland von steuerpflichtigen Personen gegen Entgelt erbrachten Leistungen (Inlandsteuer) und auf dem Bezug von Leistungen von Unternehmen mit Sitz im Ausland durch Empfängerinnen und Empfänger im Inland (Bezugsteuer) und bei der Durchführung der Verrechnungssteuer,
   - 2\. bei der Durchführung von Strafverfahren sowie von Amts- und Rechtshilfeverfahren;
 
-- p.[^9-27]
+- p.[^9-28]
 
-  der Eidgenössischen Zollverwaltung (EZV) zur Erfüllung ihrer Aufgaben:
+  dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^9-29] zur Erfüllung seiner Aufgaben:
 
   - 1\. bei der Erhebung der Mehrwertsteuer auf der Einfuhr von Gegenständen (Einfuhrsteuer),
   - 2\. im Bereich der Zollfahndung: zur Personenidentifikation;
 
-- q.[^9-28] ...
-- r.[^9-29]
+- q.[^9-30] …
+- r.[^9-31]
 
   dem Bundesamt für Sozialversicherungen für seine Aufgaben:
 
-  - 1\. als zuständige Behörde für Amtshilfe nach Artikel 76 Absatz 2 der Verordnung (EG) Nr. 883/2004[^9-30],
+  - 1\. als zuständige Behörde für Amtshilfe nach Artikel 76 Absatz 2 der Verordnung (EG) Nr. 883/2004[^9-32],
   - 2\. als Verbindungsstelle bei der Durchführung der Amtshilfe im Bereich der Familienleistungen nach den Artikeln 67–69 der Verordnung (EG) Nr. 883/2004.
 
 [^9-1]: Fassung gemäss Anhang Ziff. 9 der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
@@ -321,22 +320,24 @@ Daten des Ausländerbereichs kann das SEM folgenden Behörden durch ein Abrufver
 [^9-12]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
 [^9-13]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 [^9-14]: Fassung gemäss Anhang 4 der Visa-Informationssystem-Verordnung vom 18. Dez. 2013, in Kraft seit 20. Jan. 2014 ([AS 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
-[^9-15]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^9-16]: [SR 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
-[^9-17]: Fassung gemäss Anhang Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^9-18]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-19]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^9-20]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^9-21]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^9-22]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^9-23]: Eingefügt durch Anhang Ziff. 9 der V vom 12. Dez. 2008 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^9-24]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-25]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-26]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-27]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-28]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-29]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^9-30]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ABl. L 166 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 1372/2013, ABl. L 346 vom 20.12.2013, S. 27.
+[^9-15]: Ausdruck gemäss Anhang Ziff. II 3 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^9-16]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^9-17]: [SR 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
+[^9-18]: Fassung gemäss Anhang Ziff. I der V vom 4. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^9-19]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^9-20]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-21]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-22]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^9-23]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^9-24]: Eingefügt durch Anhang Ziff. 9 der V vom 12. Dez. 2008 ([AS 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^9-25]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^9-26]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^9-27]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-28]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-29]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^9-30]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-31]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
+[^9-32]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ABl. L 166 vom 30.4.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 1372/2013, ABl. L 346 vom 20.12.2013, S. 27.
 
 #### Art. 10
 
@@ -375,10 +376,10 @@ Daten des Asylbereichs kann das SEM folgenden Behörden durch ein Abrufverfahren
 - d.[^10-10] dem Bundesverwaltungsgericht: für die Instruktion der Beschwerden nach dem AsylG;
 - e. den Grenzposten der kantonalen Polizeibehörden und dem Grenzwachtkorps: zur Durchführung der Personenkontrolle und zur Erteilung von Ausnahmevisa;
 - f. der Eidgenössischen Finanzkontrolle: zur Wahrung der Finanzaufsicht;
-- g. der Zentralen Ausgleichsstelle: zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Versichertennummer;
+- g. der Zentralen Ausgleichsstelle: zur Abklärung von Leistungsgesuchen sowie zur Zuteilung und Überprüfung der AHV-Nummer;
 - h. den kantonalen Steuerbehörden: für ihre Aufgaben bei der Erhebung der Quellensteuer;
 - i.[^10-11] den Zivilstandsämtern, den kantonalen Aufsichtsbehörden im Zivilstandsdienst und dem Eidgenössischen Amt für das Zivilstandswesen zur Personenidentifikation im Zusammenhang mit Zivilstandsereignissen, für die Vorbereitung einer Eheschliessung oder Eintragung der Partnerschaft und zur Verhinderung der Umgehung des Ausländerrechts nach Artikel 97*a* Absatz 1 des Zivilgesetzbuches[^10-12] und Artikel 6 Absatz 2 des Partnerschaftsgesetzes vom 18. Juni 2004[^10-13];
-- j.[^10-14] den für die Register nach Artikel 2 Absatz 2 des Registerharmonisierungsgesetzes vom 23. Juni 2006[^10-15] zuständigen Stellen: zur Harmonisierung der Register und zur Nachführung der AHV-Versichertennummer;
+- j.[^10-14] den für die Register nach Artikel 2 Absatz 2 des Registerharmonisierungsgesetzes vom 23. Juni 2006[^10-15] zuständigen Stellen: zur Harmonisierung der Register und zur Nachführung der AHV-Nummer;
 - k.[^10-16] dem NDB: ausschliesslich zur Personenidentifikation für das frühzeitige Erkennen und Verhindern von Bedrohungen für die innere oder äussere Sicherheit nach Artikel 6 Absatz 1 Buchstabe a des NDG[^10-17] sowie zur Erfüllung seiner Aufgaben bei Überprüfungen im Zusammenhang mit der Gefährdung der inneren oder äusseren Sicherheit nach dem BüG[^10-18], dem AIG[^10-19] und dem AsylG;
 - l.[^10-20]
 
@@ -389,12 +390,12 @@ Daten des Asylbereichs kann das SEM folgenden Behörden durch ein Abrufverfahren
 
 - m.[^10-21]
 
-  der EZV zur Erfüllung ihrer Aufgaben:
+  dem BAZG zur Erfüllung ihrer Aufgaben:
 
   - 1\. bei der Erhebung der Mehrwertsteuer auf der Einfuhr von Gegenständen (Einfuhrsteuer),
   - 2\. im Bereich der Zollfahndung: zur Personenidentifikation;
 
-- n.[^10-22] ...
+- n.[^10-22] …
 - o.[^10-23] den schweizerischen Auslandvertretungen und Missionen: zur Überprüfung, ob eine Gesuchstellerin oder ein Gesuchsteller ein Asylverfahren durchläuft oder durchlaufen hat;
 - p.[^10-24] dem Staatssekretariat, der Politischen Direktion und der Konsularischen Direktion des EDA: zur Überprüfung, ob eine Gesuchstellerin oder ein Gesuchsteller ein Asylverfahren durchläuft oder durchlaufen hat.
 
@@ -670,7 +671,7 @@ Eine kostendeckende Gebühr schuldet dem SEM:
 
 Die Verordnung vom 23. November 1994[^23-1] über das Zentrale Ausländerregister wird aufgehoben.
 
-[^23-1]: [[AS 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859), [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194), [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169), [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481), [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 3, [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 1, [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 3 [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 4, [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203)]
+[^23-1]: [[AS 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194); [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169); [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481); [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 3; [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 1; [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 4; [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203)]
 
 #### Art. 24
 
@@ -692,9 +693,9 @@ Falls nach Inkrafttreten dieser Verordnung zur Überbrückung schwerwiegender te
 
 <sup>2</sup> Die Informationssysteme ZAR und AUPER sind spätestens sechs Monate nach der Inbetriebnahme von ZEMIS ausser Betrieb zu setzen. Sämtliche Daten dieser Systeme sind zu vernichten oder dem Bundesarchiv abzuliefern (Art. 21 DSG[^25-4]).[^25-5]
 
-[^25-1]: [[AS 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859), [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194), [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169), [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481), [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 3, [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 1, [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 3 [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 4, [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203)]
-[^25-2]: [AS 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361), [2001 1752](https://fedlex.data.admin.ch/eli/oc/2001/274), [2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 5
-[^25-3]: [[AS 1992 2425](https://fedlex.data.admin.ch/eli/oc/1992/2425_2425_2425), [1994 2880](https://fedlex.data.admin.ch/eli/oc/1994/2880_2880_2880), [1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361)Anhang 3, [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)Anhang Ziff. II 2 [2937](https://fedlex.data.admin.ch/eli/oc/2000/521), [2003 4333](https://fedlex.data.admin.ch/eli/oc/2003/648), [2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 6]
+[^25-1]: [[AS 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194); [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169); [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481); [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 3; [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 1; [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 4; [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203)]
+[^25-2]: [AS 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361); [2001 1752](https://fedlex.data.admin.ch/eli/oc/2001/274); [2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 5
+[^25-3]: [[AS 1992 2425](https://fedlex.data.admin.ch/eli/oc/1992/2425_2425_2425); [1994 2880](https://fedlex.data.admin.ch/eli/oc/1994/2880_2880_2880); [1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361)Anhang 3; [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)Anhang Ziff. II 2, [2937](https://fedlex.data.admin.ch/eli/oc/2000/521); [2003 4333](https://fedlex.data.admin.ch/eli/oc/2003/648); [2004 4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 6]
 [^25-4]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^25-5]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 
@@ -706,12 +707,12 @@ Falls nach Inkrafttreten dieser Verordnung zur Überbrückung schwerwiegender te
 
 <sup>2</sup>
 
-Für die im Zeitpunkt der erstmaligen und umfassenden Zuweisung und Bekanntgabe der AHV-Versichertennummer bereits in ZEMIS verzeichneten Personen wird die AHV-Versichertennummer erfasst, wenn:
+Für die im Zeitpunkt der erstmaligen und umfassenden Zuweisung und Bekanntgabe der AHV-Nummer bereits in ZEMIS verzeichneten Personen wird die AHV-Nummer erfasst, wenn:
 
 - a. es sich um eine Person des Ausländerbereichs handelt, welche über eine gültige Aufenthaltsbewilligung von mehr als vier Monaten verfügt;
 - b. es sich um eine Person des Asylbereichs handelt, deren Einreisegeschäft in der Schweiz noch nicht abgeschlossen ist.
 
-<sup>3</sup> Das Verfahren zur erstmaligen und umfassenden Bekanntgabe der AHV-Versichertennummer an ZEMIS richtet sich nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^25a-3] über die Alters- und Hinterlassenenversicherung.
+<sup>3</sup> Das Verfahren zur erstmaligen und umfassenden Bekanntgabe der AHV-Nummer an ZEMIS richtet sich nach den Artikeln 133<sup>bis</sup> und 134<sup>quater</sup> der Verordnung vom 31. Oktober 1947[^25a-3] über die Alters- und Hinterlassenenversicherung.
 
 [^25a-1]: Eingefügt durch Anhang Ziff. 1 der Registerharmonisierungsverordnung vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
 [^25a-2]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
@@ -753,6 +754,7 @@ Zugriffsstufen:
 Organisationseinheiten:
 
 - AV Auslandvertretungen und Missionen
+- BAZG Bundesamt für Zoll und Grenzsicherheit (einschliesslich Zentralstelle Zollfahndung, Internationale Amts- und Rechtshilfe)
 - BJ Bundesamt für Justiz: Direktionsbereich Internationale Rechtshilfe, Direktionsbereich Privatrecht
 - BSV Bundesamt für Sozialversicherungen
 - BÜG kantonale Bürgerrechtsbehörden
@@ -763,7 +765,6 @@ Organisationseinheiten:
 - EFK Eidgenössische Finanzkontrolle
 - ESTV Eidgenössische Steuerverwaltung
 - EWK kantonale und kommunale Einwohnerkontrollbehörden
-- EZV Eidgenössische Zollverwaltung (einschliesslich Zentralstelle Zollfahndung, Internationale Amts- und Rechtshilfe)
 - Fedpol Bundesamt für Polizei
 - – I Rechtsdienst
 - – II Bundeskriminalpolizei (BKP)
@@ -792,7 +793,7 @@ Organisationseinheiten:
 
 <table>
 <tr><th>Bezeichnung der Datenfelder</th><th colspan="2">SEM</th><th></th><th></th><th></th><th></th><th colspan="3">SEM-Partner</th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th>MIGRA</th><th>KAA</th><th>GREPO</th><th colspan="2">KAPO</th><th colspan="2">ZstB</th><th colspan="3">Fedpol</th><th></th><th></th><th></th><th>NDB</th><th>BVGer I</th><th>ZAS</th><th>AV</th><th>EDA</th><th>BVGer II</th><th>BJ</th><th>KOM</th><th>BÜG</th><th>EFK</th><th>SOZ</th><th>KSt</th><th>EWK</th><th>ESTV</th><th>EZV</th><th>BSV</th></tr>
+<tr><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th>MIGRA</th><th>KAA</th><th>GREPO</th><th colspan="2">KAPO</th><th colspan="2">ZstB</th><th colspan="3">Fedpol</th><th></th><th></th><th></th><th>NDB</th><th>BVGer I</th><th>ZAS</th><th>AV</th><th>EDA</th><th>BVGer II</th><th>BJ</th><th>KOM</th><th>BÜG</th><th>EFK</th><th>SOZ</th><th>KSt</th><th>EWK</th><th>ESTV</th><th>BAZG</th><th>BSV</th></tr>
 <tr><th></th><th>I</th><th>II</th><th colspan="2">III</th><th>IV</th><th>V</th><th></th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th>I</th><th>II</th><th colspan="2">III</th><th colspan="2">IV</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td colspan="36">I. Stammdaten</td></tr>
 <tr><td colspan="36">1. Personalien</td></tr>
@@ -810,7 +811,7 @@ Organisationseinheiten:
 <tr><td>Personen-ID ZEMIS (e-Dossier-Nr.)</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Pers.-Nr. Ausländerbereich</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Pers.-Nr. Asylbereich</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>AHV-Versichertennummer</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>AHV-Nummer</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td colspan="36">II. eDossier</td></tr>
 <tr><td colspan="36">1. Dossierverwaltung</td></tr>
 <tr><td>Dossierinhaber/in</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="2">A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1187,7 +1188,7 @@ Zeichenerklärung
 <tr><td>Staatsangehörigkeit</td><td>Bk</td><td>Bk</td></tr>
 <tr><td>Personennummer Asylbereich</td><td>Bk</td><td>Bk</td></tr>
 <tr><td>Personen-ID ZEMIS</td><td>Bk</td><td>Bk</td></tr>
-<tr><td>AHV-Versichertennummer</td><td></td><td>Bk</td></tr>
+<tr><td>AHV-Nummer</td><td></td><td>Bk</td></tr>
 <tr><td>Adressen</td><td>Bk</td><td>Bk</td></tr>
 <tr><td>Verfahren</td><td></td><td></td></tr>
 <tr><td>Geschäftsart</td><td></td><td>Bk</td></tr>
@@ -1203,7 +1204,7 @@ Anhang 3
 
 ## Änderung bisherigen Rechts
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Die Änderungen können unter [AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)konsultiert werden.
 

@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordonnance du 12 avril 2006 sur le système d'information central sur la migration (Ordonnance SYMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/fr"
 
 (Ordonnance SYMIC)
 
-du 12 avril 2006 (Etat le 1<sup>er</sup> avril 2021)
+du 12 avril 2006 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -126,16 +126,15 @@ Les données de base de la partie générale contiennent les catégories de donn
 
 - a. l’identité de la personne concernée (noms, prénoms, noms d’emprunt, date de naissance, sexe, nationalité, état civil);
 - b. le numéro personnel;
-- c.[^4-1] le numéro d’assuré au sens de l’art. 50c de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^4-2] (numéro d’assuré AVS).
+- c.[^4-1] le numéro AVS.
 
-<sup>3</sup> L’annexe 1 définit de manière exhaustive les données traitées dans le SYMIC et fixe les autorisations de consulter ou de traiter des données.[^4-3]
+<sup>3</sup> L’annexe 1 définit de manière exhaustive les données traitées dans le SYMIC et fixe les autorisations de consulter ou de traiter des données.[^4-2]
 
-<sup>4</sup> ...[^4-4]
+<sup>4</sup> ...[^4-3]
 
-[^4-1]: Introduite par l’annexe ch. 1 de l’O du 21 nov. 2007 sur l’harmonisation des registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^4-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^4-4]: Introduit par le ch. I de l’O du 24 oct. 2007 ([RO 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
+[^4-1]: Introduite par l’annexe ch. 1 de l’O du 21 nov. 2007 sur l’harmonisation des registres ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nouvelle teneur selon l’annexe ch. II 3 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^4-3]: Introduit par le ch. I de l’O du 24 oct. 2007 ([RO 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
 
 ## Section 3 Obligations d’annonce
 
@@ -275,33 +274,33 @@ Le SEM peut accorder aux autorités ci-après un accès direct par procédure d�
 - e. les postes frontière des polices cantonales et le Corps des gardes-frontière pour qu’ils puissent procéder aux contrôles d’identité et à l’établissement de visas exceptionnels;
 - f. les représentations suisses à l’étranger et les missions, pour qu’elles puissent procéder à l’examen des demandes de visa et accomplir les tâches qui leur incombent en vertu du droit de la nationalité;
 - g.[^9-14] le Secrétariat d’État, la Direction politique et la Direction consulaire du DFAE, pour qu’ils puissent procéder à l’examen des demandes de visa relevant de la compétence du département;
-- h. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros d’assurés AVS;
+- h. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros AVS;
 - i. les autorités fiscales cantonales, pour qu’elles puissent accomplir les tâches liées au prélèvement de l’impôt à la source;
 - j. les commissions tripartites prévues comme organes de contrôle et visées à l’art. 7, al. 1, let. b, de la loi fédérale du 8 octobre 1999 sur les travailleurs détachés[^9-15], pour les tâches définies à l’art. 11 de l’ordonnance du 21 mai 2003 sur les travailleurs détachés en Suisse[^9-16];
 - k.[^9-17] les offices de l’état civil, les autorités cantonales de surveillance de l’état civil et l’Office fédéral de l’état civil, à des fins d’identification des personnes en relation avec des événements de l’état civil, en vue de la célébration d’un mariage ou de l’enregistrement d’un partenariat et pour empêcher le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil[^9-18] et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat[^9-19];
 - l. les services cantonaux de coordination asile et réfugiés, exclusivement pour l’octroi de l’aide sociale en vertu de la LAsi[^9-20];
-- m.[^9-21] les services chargés des registres au sens de l’art. 2 de la loi du 23 juin 2006 sur l’harmonisation de registres[^9-22] dans le cadre de l’harmonisation des registres et de la mise à jour du numéro d’assuré AVS;
-- n.[^9-23] le Service de renseignement de la Confédération (SRC), exclusivement pour qu’il puisse identifier des personnes en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^9-24] et accomplir ses tâches d’appréciation de la menace pour la sûreté intérieure ou extérieure au sens de la LN[^9-25], de la LEI et de la LAsi;
-- o.[^9-26]
+- m.[^9-21] les services chargés des registres au sens de l’art. 2 de la loi du 23 juin 2006 sur l’harmonisation de registres[^9-22] dans le cadre de l’harmonisation des registres et de la mise à jour du numéro AVS[^9-23];
+- n.[^9-24] le Service de renseignement de la Confédération (SRC), exclusivement pour qu’il puisse identifier des personnes en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^9-25] et accomplir ses tâches d’appréciation de la menace pour la sûreté intérieure ou extérieure au sens de la LN[^9-26], de la LEI et de la LAsi;
+- o.[^9-27]
 
   l’Administration fédérale des contributions pour qu’elle puisse accomplir les tâches liées:
 
   - 1\. au prélèvement de la taxe sur la valeur ajoutée portant sur les prestations que les assujettis fournissent à titre onéreux sur le territoire suisse (impôt grevant les opérations réalisées sur le territoire suisse) et sur l’acquisition, par un destinataire se trouvant sur le territoire suisse, de prestations fournies par une entreprise ayant son siège à l’étranger (impôt sur les acquisitions), ainsi qu’à l’application de l’impôt anticipé,
   - 2\. à l’exécution de procédures pénales, ainsi que de procédures d’entraide administrative et judiciaire;
 
-- p.[^9-27]
+- p.[^9-28]
 
-  l’Administration fédérale des douanes (AFD) pour accomplir les tâches liées:
+  l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^9-29] pour accomplir les tâches liées:
 
   - 1\. au prélèvement de la taxe sur la valeur ajoutée portant sur l’importation de biens (impôt sur les importations),
   - 2\. à l’identification des personnes dans le domaine de la division principale Antifraude douanière;
 
-- q.[^9-28] ...
-- r.[^9-29]
+- q.[^9-30] ...
+- r.[^9-31]
 
   l’Office fédéral des assurances sociales, pour qu’il puisse accomplir les tâches qui lui incombent:
 
-  - 1\. en tant qu’autorité compétente en matière d’entraide administrative conformément à l’art. 76, par. 2, du règlement (CE) n<sup>o</sup> 883/2004[^9-30],
+  - 1\. en tant qu’autorité compétente en matière d’entraide administrative conformément à l’art. 76, par. 2, du règlement (CE) n<sup>o</sup> 883/2004[^9-32],
   - 2\. en tant qu’organisme de liaison dans la mise en œuvre de l’entraide administrative en matière de prestations familiales conformément aux art. 67 à 69 du règlement (CE) n<sup>o</sup> 883/2004.
 
 [^9-1]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
@@ -326,14 +325,16 @@ Le SEM peut accorder aux autorités ci-après un accès direct par procédure d�
 [^9-20]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^9-21]: Introduite par l’annexe ch. 1 de l’O du 21 nov. 2007 sur l’harmonisation des registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
 [^9-22]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^9-23]: Introduite par l’annexe ch. 9 de l’O du 12 déc. 2008 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^9-24]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-25]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-26]: Introduite par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-27]: Introduite par le ch. I de l’O du 16 nov. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-28]: Introduite par le ch. I de l’O du 16 nov. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-29]: Introduite par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^9-30]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, JO L 166 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 1372/2013, JO L 346 du 20.12.2013, p. 27.
+[^9-23]: Nouvelle expression selon l’annexe ch. II 3 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
+[^9-24]: Introduite par l’annexe ch. 9 de l’O du 12 déc. 2008 ([RO 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^9-25]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^9-26]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^9-27]: Introduite par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-28]: Introduite par le ch. I de l’O du 16 nov. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-29]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^9-30]: Introduite par le ch. I de l’O du 16 nov. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogée par le ch. I de l’O du 21 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-31]: Introduite par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
+[^9-32]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale, JO L 166 du 30.4.2004, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 1372/2013, JO L 346 du 20.12.2013, p. 27.
 
 #### Art. 10
 
@@ -372,10 +373,10 @@ Le SEM peut accorder aux autorités ci-après un accès direct par procédure d�
 - d.[^10-10] le Tribunal administratif fédéral, pour l’instruction des recours conformément à la LAsi;
 - e. les postes frontière des polices cantonales et le Corps des gardes-frontière, pour qu’ils puissent procéder aux contrôles d’identité et à l’établissement de visas exceptionnels;
 - f. le Contrôle fédéral des finances, pour qu’il puisse garantir la surveillance financière;
-- g. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros d’assurés AVS;
+- g. la Centrale de compensation, pour qu’elle puisse procéder à l’examen des demandes de prestations ainsi qu’à l’attribution et à la vérification des numéros AVS;
 - h. les autorités fiscales cantonales, pour qu’elles puissent accomplir les tâches liées au prélèvement de l’impôt à la source;
 - i.[^10-11] les offices de l’état civil, les autorités cantonales de surveillance de l’état civil et l’Office fédéral de l’état civil, à des fins d’identification des personnes en relation avec des événements de l’état civil, en vue de la célébration d’un mariage ou de l’enregistrement d’un partenariat et pour empêcher le contournement du droit des étrangers visé aux art. 97*a*, al. 1, du code civil[^10-12] et 6, al. 2, de la loi du 18 juin 2004 sur le partenariat[^10-13];
-- j.[^10-14] les services chargés des registres au sens de l’art. 2 de la loi du 23 juin 2006 sur l’harmonisation de registres[^10-15] dans le cadre de l’harmonisation des registres et de la mise à jour du numéro d’assuré AVS;
+- j.[^10-14] les services chargés des registres au sens de l’art. 2 de la loi du 23 juin 2006 sur l’harmonisation de registres[^10-15] dans le cadre de l’harmonisation des registres et de la mise à jour du numéro AVS;
 - k.[^10-16] le SRC, exclusivement pour qu’il puisse identifier des personnes en vue de déceler à temps et de prévenir des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, let. a, LRens[^10-17] et accomplir ses tâches d’appréciation de la menace pour la sûreté intérieure ou extérieure au sens de la LN[^10-18], de la LEI[^10-19] et de la LAsi;
 - l.[^10-20]
 
@@ -386,7 +387,7 @@ Le SEM peut accorder aux autorités ci-après un accès direct par procédure d�
 
 - m.[^10-21]
 
-  l’AFD pour l’accomplissement des tâches liées:
+  l’OFDF pour l’accomplissement des tâches liées:
 
   - 1\. au prélèvement de la taxe sur la valeur ajoutée portant sur l’importation de biens (impôt sur les importations),
   - 2\. pour l’identification des personnes dans le domaine de la division principale Antifraude douanière;
@@ -696,12 +697,14 @@ Si des pannes majeures d’ordre technique ou organisationnel surviennent après
 
 <sup>1</sup> La modification du 21 novembre 2007 entre en vigueur en même temps que les art. 6, let. a, et 13, al. 1, et que les ch. 1 à 3 de l’annexe de la loi du 23 juin 2006 sur l’harmonisation de registres[^25a-2].
 
-<sup>2</sup> Le numéro d’assuré AVS des personnes déjà enregistrées dans SYMIC au moment de la première attribution globale et de la communication du numéro d’assuré AVS est saisi
+<sup>2</sup>
+
+Le numéro AVS des personnes déjà enregistrées dans SYMIC au moment de la première attribution globale et de la communication du numéro AVS est saisi:
 
 - a. s’il s’agit de personnes de nationalité étrangère titulaires d’une autorisation de séjour valable de plus de quatre mois,
 - b. s’il s’agit de personnes relevant du domaine de l’asile dont le dossier n’est pas encore fini d’être traité.
 
-<sup>3</sup> La procédure de première mise à jour complète et de communication du numéro d’assuré AVS à SYMIC est réglée par les art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^25a-3].
+<sup>3</sup> La procédure de première mise à jour complète et de communication du numéro AVS à SYMIC est réglée par les art. 133<sup>bis</sup> et 134<sup>quater</sup> du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^25a-3].
 
 [^25a-1]: Introduit par l’annexe ch. 1 de l’O du 21 nov. 2007 sur l’harmonisation des registres, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
 [^25a-2]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
@@ -723,7 +726,7 @@ Les champs de données suivants de l’annexe 1 entrent en vigueur le 1<sup>er</
 - – «Date de naissance du partenaire enregistré (ch. IV., 2., i.);
 - – «Partenaire enregistré est suisse (ch. IV., 2., i.).
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 4, al. 3)
 
@@ -744,7 +747,6 @@ Unités organisationnelles
 
 - AS Services de coordination asile et réfugiés
 - AFC Administration fédérale des contributions
-- AFD Administration fédérale des douanes (y compris Section antifraude douanière, entraide administrative et judiciaire internationale)
 - CdC Centrale de compensation
 - CDF Contrôle fédéral des finances
 - CdH Autorités cantonales et communales de contrôle des habitants
@@ -763,6 +765,7 @@ Unités organisationnelles
 - OCF Organes fédéraux et cantonaux de contrôle à la frontière
 - OCT Offices cantonaux et communaux du travail
 - OFAS Office fédéral des assurances sociales
+- OFDF Office fédéral de la douane et de la sécurité des frontières (y compris Section antifraude douanière, entraide administrative et judiciaire internationale)
 - OFJ Office fédéral de la justice, Domaine de direction Entraide judiciaire internationale, Domaine de direction Droit privé
 - RSE Représentations suisses à l’étranger et missions
 - SEM Secrétariat d’État aux migrations
@@ -782,7 +785,7 @@ Unités organisationnelles
 
 <table>
 <tr><th>Dénomination des champs de données</th><th colspan="2">SEM</th><th></th><th></th><th></th><th></th><th colspan="6">Partenaires du SEM</th><th></th><th colspan="2"></th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th>MIGRA</th><th>OCT</th><th>OCF</th><th>CP</th><th>EC</th><th colspan="8">Fedpol</th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th>SRC</th><th>TAF I</th><th>CdC</th><th>RSE</th><th>DFAE</th><th colspan="2">TAF II</th><th>OFJ</th><th>COM</th><th>NAT</th><th>CDF</th><th>AS</th><th>IC</th><th>CdH</th><th>AFC</th><th>AFD</th><th>OFAS</th></tr>
+<tr><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th>MIGRA</th><th>OCT</th><th>OCF</th><th>CP</th><th>EC</th><th colspan="8">Fedpol</th><th colspan="2"></th><th colspan="2"></th><th colspan="2"></th><th>SRC</th><th>TAF I</th><th>CdC</th><th>RSE</th><th>DFAE</th><th colspan="2">TAF II</th><th>OFJ</th><th>COM</th><th>NAT</th><th>CDF</th><th>AS</th><th>IC</th><th>CdH</th><th>AFC</th><th>OFDF</th><th>OFAS</th></tr>
 <tr><th></th><th>I</th><th>II</th><th colspan="2">III</th><th>IV</th><th>V</th><th></th><th></th><th></th><th></th><th></th><th colspan="3">I</th><th colspan="3">II</th><th colspan="4">III</th><th colspan="4">IV</th><th></th><th></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td colspan="43">I. Données de base</td></tr>
 <tr><td colspan="43">1. Identité</td></tr>
@@ -800,7 +803,7 @@ Unités organisationnelles
 <tr><td>N<sup>o</sup> personnel SYMIC (e‑Dossier)</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="4">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>N<sup>o</sup> personnel domaine des étrangers</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="4">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>N<sup>o</sup> personnel domaine de l’asile</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="4">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>N<sup>o</sup> d’assuré AVS</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="4">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td colspan="2">A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>N<sup>o</sup> AVS</td><td>B</td><td>A</td><td colspan="2">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="4">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td colspan="2">A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td colspan="43">II. eDossier</td></tr>
 <tr><td colspan="43">1. Gestion des dossiers</td></tr>
 <tr><td>Détenteur du dossier</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td colspan="4">A</td><td></td><td>B</td><td></td><td></td><td></td><td colspan="2">B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1141,7 +1144,7 @@ Unités organisationnelles
 [^annex1-lvlu1-lvlu2-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^annex1-lvlu1-lvlu2-4]: Ordonnance du 22 mai 2002 sur l’introduction de la libre circulation des personnes ([RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261))
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 13, al. 2)
 
@@ -1173,7 +1176,7 @@ Unités d’organisation
 <tr><td>Nationalité</td><td>AU</td><td>AU</td></tr>
 <tr><td>Numéro personnel domaine de l’asile</td><td>AU</td><td>AU</td></tr>
 <tr><td>Numéro d’identification personnel SYMIC</td><td>AU</td><td>AU</td></tr>
-<tr><td>Numéro d’assuré AVS</td><td></td><td>AU</td></tr>
+<tr><td>Numéro AVS</td><td></td><td>AU</td></tr>
 <tr><td>Adresses</td><td>AU</td><td>AU</td></tr>
 <tr><td>Procédure</td><td></td><td></td></tr>
 <tr><td>Type de l’affaire</td><td></td><td>AU</td></tr>
@@ -1193,7 +1196,7 @@ Annexe 3
 
 [^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303).
 
-Annexe 4[^t-3]
+Annexe 4*[^t-3]*
 
 (art. 2, let. a, ch. 5)
 

@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordinanza del 12 aprile 2006 concernente il sistema d'informazione centrale sulla migrazione (Ordinanza SIMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/it"
 
 (Ordinanza SIMIC)
 
-del 12 aprile 2006 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 12 aprile 2006 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -127,16 +127,15 @@ La parte generale con i dati di base comprende i dati personali delle categorie 
 
 - a. generalità dell’interessato (cognomi, nomi, appellativi, data di nascita, sesso, cittadinanza, stato civile);
 - b. numero personale;
-- c.[^4-1] numero d’assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^4-2] sull’assicurazione per la vecchiaia e per i superstiti (numero d’assicurato AVS).
+- c.[^4-1] numero AVS.
 
-<sup>3</sup> L’allegato 1 elenca in modo esaustivo i dati contenuti nel SIMIC e determina le autorizzazioni per la consultazione e il trattamento dei dati.[^4-3]
+<sup>3</sup> L’allegato 1 elenca in modo esaustivo i dati contenuti nel SIMIC e determina le autorizzazioni per la consultazione e il trattamento dei dati.[^4-2]
 
-<sup>4</sup> ...[^4-4]
+<sup>4</sup> ...[^4-3]
 
-[^4-1]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^4-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^4-3]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^4-4]: Introdotto dal n. I dell’O del 24 ott. 2007 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Abrogato dal n. I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
+[^4-1]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta l’all. n. II 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^4-3]: Introdotto dal n. I dell’O del 24 ott. 2007 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Abrogato dal n. I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
 
 ## Sezione 3: Obblighi di notificazione
 
@@ -272,29 +271,29 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
 - e. i posti di frontiera delle autorità cantonali di polizia e il Corpo delle guardie di confine: per l’esecuzione dei controlli delle persone e il rilascio di visti in via eccezionale;
 - f. le rappresentanze e le missioni svizzere all’estero: per l’esame delle richieste di visto e per l’adempimento dei compiti nell’ambito della legislazione svizzera in materia di cittadinanza;
 - g.[^9-14] il Segretariato di Stato, la Direzione politica e la Direzione consolare del DFAE: per l’esame e la decisione relativi alle richieste di visto nella sfera di competenze del Dipartimento;
-- h. la Centrale di compensazione: per il chiarimento delle domande di prestazioni nonché per l’assegnazione e la verifica del numero d’assicurato AVS;
+- h. la Centrale di compensazione: per il chiarimento delle domande di prestazioni nonché per l’assegnazione e la verifica del numero AVS[^9-15];
 - i. le autorità fiscali cantonali: per l’adempimento dei loro compiti in materia di riscossione dell’imposta alla fonte;
-- j. le Commissioni tripartite previste quali organi di controllo nell’articolo 7 capoverso 1 lettera b della legge dell’8 ottobre 1999[^9-15] sui lavoratori distaccati in Svizzera: per lo svolgimento dei loro compiti giusta l’articolo 11 dell’ordinanza del 21 maggio 2003[^9-16] sui lavoratori distaccati in Svizzera;
-- k.[^9-17] gli uffici dello stato civile, le autorità cantonali di vigilanza sullo stato civile e l’Ufficio federale dello stato civile: per l’identificazione delle persone in relazione con fatti di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica, nonché per evitare l’elusione del diritto in materia di stranieri secondo gli articoli 97*a* capoverso 1 del Codice civile[^9-18] e 6 capoverso 2 della legge del 18 giugno 2004[^9-19] sull’unione domestica registrata;
-- l. gli uffici cantonali di coordinamento nel settore dell’asilo e dei rifugiati: esclusivamente per garantire l’aiuto sociale giusta la LAsi[^9-20];
-- m.[^9-21] i servizi competenti per i registri di cui all’articolo 2 capoverso 2 della legge del 23 giugno 2006[^9-22] sull’armonizzazione dei registri nell’ambito dell’armonizzazione dei registri e dell’aggiornamento del numero d’assicurato AVS;
-- n.[^9-23] il Servizio delle attività informative della Confederazione (SIC): esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a della legge federale del 25 settembre 2015[^9-24] sulle attività informative (LAIn), nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi della LCit[^9-25], della LStrI e della LAsi;
-- o.[^9-26] l’Amministrazione federale delle contribuzioni, per l’adempimento dei suoi compiti:
+- j. le Commissioni tripartite previste quali organi di controllo nell’articolo 7 capoverso 1 lettera b della legge dell’8 ottobre 1999[^9-16] sui lavoratori distaccati in Svizzera: per lo svolgimento dei loro compiti giusta l’articolo 11 dell’ordinanza del 21 maggio 2003[^9-17] sui lavoratori distaccati in Svizzera;
+- k.[^9-18] gli uffici dello stato civile, le autorità cantonali di vigilanza sullo stato civile e l’Ufficio federale dello stato civile: per l’identificazione delle persone in relazione con fatti di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica, nonché per evitare l’elusione del diritto in materia di stranieri secondo gli articoli 97*a* capoverso 1 del Codice civile[^9-19] e 6 capoverso 2 della legge del 18 giugno 2004[^9-20] sull’unione domestica registrata;
+- l. gli uffici cantonali di coordinamento nel settore dell’asilo e dei rifugiati: esclusivamente per garantire l’aiuto sociale giusta la LAsi[^9-21];
+- m.[^9-22] i servizi competenti per i registri di cui all’articolo 2 capoverso 2 della legge del 23 giugno 2006[^9-23] sull’armonizzazione dei registri nell’ambito dell’armonizzazione dei registri e dell’aggiornamento del numero AVS;
+- n.[^9-24] il Servizio delle attività informative della Confederazione (SIC): esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a della legge federale del 25 settembre 2015[^9-25] sulle attività informative (LAIn), nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi della LCit[^9-26], della LStrI e della LAsi;
+- o.[^9-27] l’Amministrazione federale delle contribuzioni, per l’adempimento dei suoi compiti:
 - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sulle prestazioni che i contribuenti effettuano a titolo oneroso sul territorio svizzero (imposta sulle prestazioni eseguite sul territorio svizzero) e sull’acquisto di prestazioni di imprese con sede all’estero da parte di beneficiari che si trovano sul territorio svizzero (imposta sull’acquisto) e nell’ambito dell’applicazione dell’imposta preventiva,
 - 2\. nell’ambito dell’esecuzione di procedimenti penali e di procedimenti di assistenza amministrativa e giudiziaria;
-- p.[^9-27]
+- p.[^9-28]
 
-  l’Amministrazione federale delle dogane (AFD), per l’adempimento dei suoi compiti:
+  l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^9-29], per l’adempimento dei suoi compiti:
 
   - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sull’importazione di beni (imposta sull’importazione),
   - 2\. nell’ambito dell’antifrode doganale per l’identificazione delle persone;
 
-- q.[^9-28] ...
-- r.[^9-29]
+- q.[^9-30] ...
+- r.[^9-31]
 
   l’Ufficio federale delle assicurazioni sociali: per l’adempimento dei suoi compiti:
 
-  - 1\. in veste di autorità competente in materia di assistenza amministrativa conformemente all’articolo 76 paragrafo 2 del regolamento (CE) n. 883/2004[^9-30];
+  - 1\. in veste di autorità competente in materia di assistenza amministrativa conformemente all’articolo 76 paragrafo 2 del regolamento (CE) n. 883/2004[^9-32];
   - 2\. in veste di organismo di collegamento per l’attuazione dell’assistenza amministrativa in materia di prestazioni familiari conformemente agli articoli 67–69 del regolamento (CE) n. 883/2004.
 
 [^9-1]: Nuovo testo giusta l’all. n. 9 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
@@ -311,22 +310,24 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
 [^9-12]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
 [^9-13]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 [^9-14]: Nuovo testo giusta l’all. 4 dell’O del 18 dic. 2013 sul sistema centrale d’informazione visti e sul sistema nazionale d’informazione visti, con effetto dal 20 gen. 2014 ([RU 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
-[^9-15]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^9-16]: [RS 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
-[^9-17]: Nuovo testo giusta l’all. n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^9-18]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-19]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^9-20]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^9-21]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^9-22]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^9-23]: Introdotta dall’all. n. 9 dell’O del 12 dic. 2008 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
-[^9-24]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-25]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-26]: Introdotta dal n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
-[^9-27]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-28]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogata dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
-[^9-29]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
-[^9-30]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 1372/2013, GU L 346 del 20.12.2013, pag. 27.
+[^9-15]: Nuova espr. giusta l’all. n. II 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-16]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^9-17]: [RS 823.201](https://fedlex.data.admin.ch/eli/cc/2003/232)
+[^9-18]: Nuovo testo giusta l’all. n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^9-19]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^9-20]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-21]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-22]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
+[^9-23]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^9-24]: Introdotta dall’all. n. 9 dell’O del 12 dic. 2008 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)). Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
+[^9-25]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^9-26]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^9-27]: Introdotta dal n. I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^9-28]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-29]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-30]: Introdotta dal n. I dell’O del 16 nov. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)). Abrogata dal n. I dell’O del 21 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4569](https://fedlex.data.admin.ch/eli/oc/2018/716)).
+[^9-31]: Introdotta dal n. I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3047](https://fedlex.data.admin.ch/eli/oc/2015/573)).
+[^9-32]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio del 29 aprile 2004 relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 1372/2013, GU L 346 del 20.12.2013, pag. 27.
 
 #### Art. 10
 
@@ -361,10 +362,10 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
 - d.[^10-10] il Tribunale amministrativo federale: per l’istruzione dei ricorsi conformemente alla LAsi;
 - e. i posti di frontiera delle autorità cantonali di polizia e il Corpo delle guardie di confine: per l’esecuzione dei controlli delle persone e il rilascio di visti in via eccezionale;
 - f. il Controllo federale delle finanze: per la vigilanza finanziaria;
-- g. la Centrale di compensazione: per il chiarimento delle domande di prestazioni nonché per l’assegnazione e la verifica del numero d’assicurato AVS;
+- g. la Centrale di compensazione: per il chiarimento delle domande di prestazioni nonché per l’assegnazione e la verifica del numero AVS;
 - h. le autorità fiscali cantonali: per i loro compiti in materia di riscossione dell’imposta alla fonte;
 - i.[^10-11] gli uffici dello stato civile, le autorità cantonali di vigilanza sullo stato civile e l’Ufficio federale dello stato civile per l’identificazione delle persone in relazione con fatti di stato civile, per la preparazione della celebrazione del matrimonio o della registrazione dell’unione domestica, nonché per evitare l’elusione del diritto in materia di stranieri secondo gli articoli 97*a* capoverso 1 del Codice civile[^10-12] e 6 capoverso 2 della legge federale del 18 giugno 2004[^10-13] sull’unione domestica registrata;
-- j.[^10-14] i servizi competenti per i registri di cui all’articolo 2 capoverso 2 della legge del 23 giugno 2006[^10-15] sull’armonizzazione dei registri nell’ambito dell’armonizzazione dei registri e dell’aggiornamento del numero d’assicurato AVS;
+- j.[^10-14] i servizi competenti per i registri di cui all’articolo 2 capoverso 2 della legge del 23 giugno 2006[^10-15] sull’armonizzazione dei registri nell’ambito dell’armonizzazione dei registri e dell’aggiornamento del numero AVS;
 - k.[^10-16] il SIC: esclusivamente per l’identificazione delle persone allo scopo di individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’articolo 6 capoverso 1 lettera a LAIn[^10-17], nonché per adempiere i suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi della LCit[^10-18], della LStrI[^10-19] e della LAsi;
 - l.[^10-20]
 
@@ -375,7 +376,7 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
 
 - m.[^10-21]
 
-  l’AFD, per l’adempimento dei suoi compiti:
+  l’UDSC, per l’adempimento dei suoi compiti:
 
   - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sull’importazione di beni (imposta sull’importazione),
   - 2\. nell’ambito dell’antifrode doganale per l’identificazione delle persone;
@@ -692,12 +693,12 @@ Se dopo l’entrata in vigore della presente ordinanza sopravvengono guasti seri
 
 <sup>2</sup>
 
-Il numero d’assicurato AVS delle persone già iscritte in SIMIC al momento della prima attribuzione e comunicazione completa del numero d’assicurato AVS viene registrato se si tratta di:
+Il numero AVS delle persone già iscritte in SIMIC al momento della prima attribuzione e comunicazione completa del numero AVS viene registrato se si tratta di:
 
 - a. persone del settore degli stranieri titolari di un permesso di soggiorno valido di almeno quattro mesi;
 - b. persone del settore dell’asilo la cui procedura di entrata in Svizzera non è ancora completata.
 
-<sup>3</sup> La procedura della prima comunicazione completa del numero d’assicurato AVS a SIMIC è disciplinata dagli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^25a-3] sull’assicurazione per la vecchiaia e per i superstiti.
+<sup>3</sup> La procedura della prima comunicazione completa del numero AVS a SIMIC è disciplinata dagli articoli 133<sup>bis</sup> e 134<sup>quater</sup> dell’ordinanza del 31 ottobre 1947[^25a-3] sull’assicurazione per la vecchiaia e per i superstiti.
 
 [^25a-1]: Introdotto dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
 [^25a-2]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
@@ -740,7 +741,7 @@ Unità organizzative
 
 - AFC Amministrazione federale delle contribuzioni
 - AFCt Autorità fiscali cantonali
-- AFD Amministrazione federale delle dogane, compresi l’Ufficio centrale antifrode doganale e l’Assistenza amministrativa e giudiziaria internazionale
+- UDSC Ufficio federale della dogana e della sicurezza dei confini, compresi l’Ufficio centrale antifrode doganale e l’Assistenza amministrativa e giudiziaria internazionale
 - ASC Autorità cantonali e comunali dello stato civile
 - CdA Autorità cantonali e comunali del controllo degli abitanti
 - CDF Controllo federale delle finanze
@@ -778,7 +779,7 @@ Unità organizzative
 
 <table>
 <tr><th>Denominazione dei campi di dati</th><th colspan="2">SEM</th><th></th><th colspan="2"></th><th></th><th></th><th colspan="4">Partner SEM</th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="2"></th><th colspan="3"></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th>MIGRA</th><th>UCL</th><th>OCF</th><th colspan="3">CP</th><th colspan="2">ASC</th><th colspan="3">fedpol</th><th colspan="2"></th><th></th><th></th><th>SIC</th><th>TAF I</th><th>UCC</th><th>RSE</th><th>DFAE</th><th>TAF II</th><th>UFG</th><th>COM</th><th>Cit.</th><th>CDF</th><th>SCAR</th><th>AFCt</th><th>CdA</th><th>AFC</th><th>AFD</th><th>UFAS</th></tr>
+<tr><th></th><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th>MIGRA</th><th>UCL</th><th>OCF</th><th colspan="3">CP</th><th colspan="2">ASC</th><th colspan="3">fedpol</th><th colspan="2"></th><th></th><th></th><th>SIC</th><th>TAF I</th><th>UCC</th><th>RSE</th><th>DFAE</th><th>TAF II</th><th>UFG</th><th>COM</th><th>Cit.</th><th>CDF</th><th>SCAR</th><th>AFCt</th><th>CdA</th><th>AFC</th><th>UDSC</th><th>UFAS</th></tr>
 <tr><th></th><th>I</th><th>II</th><th colspan="2">III</th><th colspan="2">IV</th><th>V</th><th></th><th></th><th></th><th colspan="3"></th><th colspan="2"></th><th>I</th><th>II</th><th colspan="2">III</th><th colspan="3">IV</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td colspan="39">I. Dati di base</td></tr>
 <tr><td colspan="39">1. Identità</td></tr>
@@ -796,7 +797,7 @@ Unità organizzative
 <tr><td>ID personale SIMIC (n. eDossier)</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>N. pers. settore degli stranieri</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>N. pers. settore dell’asilo</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Numero d’assicurato AVS</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Numero AVS</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td></tr>
 <tr><td colspan="39">II. eDossier</td></tr>
 <tr><td colspan="39">1. Gestione dei fascicoli</td></tr>
 <tr><td>Detentore del fascicolo</td><td>B</td><td>B</td><td colspan="2">B</td><td colspan="2">B</td><td>B</td><td>B</td><td>B</td><td></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td colspan="3">A</td><td></td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1172,7 +1173,7 @@ Unità organizzative:
 <tr><td>Cittadinanza</td><td>CD</td><td>CD</td></tr>
 <tr><td>Numero personale settore dell’asilo</td><td>CD</td><td>CD</td></tr>
 <tr><td>ID personale SIMIC</td><td>CD</td><td>CD</td></tr>
-<tr><td>Numero d’assicurato AVS</td><td></td><td>CD</td></tr>
+<tr><td>Numero AVS</td><td></td><td>CD</td></tr>
 <tr><td>Indirizzi</td><td>CD</td><td>CD</td></tr>
 <tr><td>Procedura</td><td></td><td></td></tr>
 <tr><td>Tipo di pratica</td><td></td><td>CD</td></tr>
@@ -1190,43 +1191,44 @@ Allegato 3
 
 ...[^annex3-lvlu1-1]
 
-Allegato 4*[^annex3-lvlu1-2]*
+[^annex3-lvlu1-1]: Le mod. possono essere consultate alla [RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303).
+
+Allegato 4*[^t-3]*
 
 (art. 2 lett. a n. 5)
 
-[^annex3-lvlu1-1]: Le mod. possono essere consultate alla [RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303).
-[^annex3-lvlu1-2]: Introdotto dal n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvo testo giusta il n. n. I de l’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
-
 ## Accordi d’associazione a Schengen e Dublino
+
+[^t-3]: Introdotto dal n. I 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvo testo giusta il n. n. I de l’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
 
 ### 1. Accordi d’associazione a Schengen
 
 Gli accordi d’associazione a Schengen comprendono gli accordi seguenti:
 
-- a. Accordo del 26 ottobre 2004[^annex3-lvlu2-lvl1-1] tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen;
-- b. Accordo del 26 ottobre 2004[^annex3-lvlu2-lvl1-2] sotto forma di scambio di lettere tra il Consiglio dell’Unione europea e la Confederazione Svizzera concernente i comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi;
-- c. Convenzione del 22 settembre 2011[^annex3-lvlu2-lvl1-3] tra l’Unione europea e la Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia e la Confederazione Svizzera sulla partecipazione di tali Stati ai lavori dei comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi per quanto riguarda l’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen;
-- d. Accordo del 17 dicembre 2004[^annex3-lvlu2-lvl1-4] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
-- e. Accordo del 28 aprile 2005[^annex3-lvlu2-lvl1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
-- f. Protocollo del 28 febbraio 2008[^annex3-lvlu2-lvl1-6] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
+- a. Accordo del 26 ottobre 2004[^annex4-lvlu1-lvl1-1] tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen;
+- b. Accordo del 26 ottobre 2004[^annex4-lvlu1-lvl1-2] sotto forma di scambio di lettere tra il Consiglio dell’Unione europea e la Confederazione Svizzera concernente i comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi;
+- c. Convenzione del 22 settembre 2011[^annex4-lvlu1-lvl1-3] tra l’Unione europea e la Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia e la Confederazione Svizzera sulla partecipazione di tali Stati ai lavori dei comitati che assistono la Commissione europea nell’esercizio dei suoi poteri esecutivi per quanto riguarda l’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen;
+- d. Accordo del 17 dicembre 2004[^annex4-lvlu1-lvl1-4] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
+- e. Accordo del 28 aprile 2005[^annex4-lvlu1-lvl1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
+- f. Protocollo del 28 febbraio 2008[^annex4-lvlu1-lvl1-6] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
 
-[^annex3-lvlu2-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu2-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu2-lvl1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex3-lvlu2-lvl1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu2-lvl1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu2-lvl1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex4-lvlu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^annex4-lvlu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
+[^annex4-lvlu1-lvl1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
+[^annex4-lvlu1-lvl1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
+[^annex4-lvlu1-lvl1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
+[^annex4-lvlu1-lvl1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
 ### 2. Accordi d’associazione a Dublino
 
 Gli accordi d’associazione a Dublino comprendono gli accordi seguenti:
 
-- a. Accordo del 26 ottobre 2004[^annex3-lvlu2-lvl2-1] tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera;
-- b. Accordo del 17 dicembre 2004[^annex3-lvlu2-lvl2-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
-- c. Protocollo del 28 febbraio 2008[^annex3-lvlu2-lvl2-3] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
-- d. Protocollo del 28 febbraio 2008[^annex3-lvlu2-lvl2-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
+- a. Accordo del 26 ottobre 2004[^annex4-lvlu1-lvl2-1] tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera;
+- b. Accordo del 17 dicembre 2004[^annex4-lvlu1-lvl2-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
+- c. Protocollo del 28 febbraio 2008[^annex4-lvlu1-lvl2-3] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
+- d. Protocollo del 28 febbraio 2008[^annex4-lvlu1-lvl2-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
 
-[^annex3-lvlu2-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annex3-lvlu2-lvl2-2]: RS **0.363.32**
-[^annex3-lvlu2-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annex3-lvlu2-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annex4-lvlu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
+[^annex4-lvlu1-lvl2-2]: RS **0.363.32**
+[^annex4-lvlu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
+[^annex4-lvlu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
