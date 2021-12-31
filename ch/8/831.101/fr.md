@@ -4,11 +4,11 @@ title: "Règlement du 31 octobre 1947 sur l'assurance-vieillesse et survivants (
 short: RAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20210701/fr"
 
 (RAVS)**[^t-1]**
 
-du 31 octobre 1947 (Etat le 1<sup>er</sup> juillet 2021)
+du 31 octobre 1947 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -748,7 +748,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 
 **Annonce des étudiants par les établissements d’enseignement**[^29bis-1]
 
-<sup>1</sup> L’établissement d’enseignement annonce à la caisse de compensation compétente selon l’art. 118, al. 3, le nom, la date de naissance, l’adresse, l’état civil, le numéro d’assuré et la nationalité des étudiants qui ont accompli leur 20<sup>e</sup> année au cours de l’année civile précédente.
+<sup>1</sup> L’établissement d’enseignement annonce à la caisse de compensation compétente selon l’art. 118, al. 3, le nom, la date de naissance, l’adresse, l’état civil, le numéro AVS[^29bis-2] et la nationalité des étudiants qui ont accompli leur 20<sup>e</sup> année au cours de l’année civile précédente.
 
 <sup>2</sup> L’établissement d’enseignement recherche les données mentionnées à l’al. 1 auprès des étudiants et les transmet à la caisse de compensation, en joignant le cas échéant les documents attestant que l’étudiant a exercé une activité lucrative. L’établissement informe les étudiants de la transmission des informations obtenues.
 
@@ -757,6 +757,7 @@ Lorsque le revenu provenant d’une activité indépendante exercée à titre ac
 <sup>4</sup> Lorsque l’étudiant doit exercer une activité lucrative pour fréquenter l’établissement, il n’y a pas d’obligation d’annoncer.
 
 [^29bis-1]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^29bis-2]: Nouvelle expression selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 29<sup>ter</sup>
 
@@ -1294,7 +1295,7 @@ Le revenu provenant d’une activité lucrative inscrit au compte individuel en 
 
 <sup>4</sup> Lors du calcul de la rente de vieillesse d’une personne dont le conjoint est ou a été au bénéfice d’une rente d’invalidité, seul le revenu annuel moyen déterminant pour la rente d’invalidité sera pris en compte en tant que revenu du conjoint provenant d’une activité lucrative, au sens de l’art. 29<sup>quinquies</sup> LAVS, pour les années pendant lesquelles la rente a été versée.[^51-5]
 
-<sup>5</sup> Si le conjoint n’a droit qu’à une demie ou un quart de rente, la moitié du revenu annuel moyen déterminant est ajoutée au revenu du conjoint invalide.[^51-6]
+<sup>5</sup> Si le conjoint a droit à une rente d’invalidité pour un taux d’invalidité de 50 % ou moins, la moitié du revenu annuel moyen déterminant est ajoutée au revenu du conjoint invalide.[^51-6]
 
 <sup>6</sup> Les al. 4 et 5 sont applicables par analogie pour le partage des revenus en cas de dissolution du mariage.[^51-7]
 
@@ -1303,7 +1304,7 @@ Le revenu provenant d’une activité lucrative inscrit au compte individuel en 
 [^51-3]: Nouvelle teneur selon le ch. I de l’O du 24 sept. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4361](https://fedlex.data.admin.ch/eli/oc/2004/660), [2012 5797](https://fedlex.data.admin.ch/eli/oc/2012/674)).
 [^51-4]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 [^51-5]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^51-6]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^51-6]: Introduit par le ch. I de l’O du 29 nov. 1995 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^51-7]: Introduit par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
 #### Art. 51<sup>bis</sup>
@@ -2693,7 +2694,7 @@ Les cantons et les associations fondatrices peuvent confier aux caisses de compe
 [^132ter-1]: Introduit par le ch. I de l’O du 7 juil. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1279](https://fedlex.data.admin.ch/eli/oc/1982/1279_1279_1279)).
 [^132ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 
-### H. Numéro d’assuré****
+### H. Numéro AVS****
 
 [^chap4-lvlH-1]
 
@@ -2707,9 +2708,9 @@ Les cantons et les associations fondatrices peuvent confier aux caisses de compe
 
 #### Art. 133
 
-**Numéro d’assuré**[^133-1]
+**Numéro AVS**[^133-1]
 
-Le numéro d’assuré compte treize chiffres. Il se décompose de la façon suivante:
+Le numéro AVS compte treize chiffres. Il se décompose de la façon suivante:
 
 - a. le code pays de la Suisse, de trois chiffres (756);
 - b. un numéro de neuf chiffres réservé exclusivement à une personne donnée, inscrite dans le registre de l’AVS, mais qui ne permet aucune déduction sur cette personne;
@@ -2721,7 +2722,7 @@ Le numéro d’assuré compte treize chiffres. Il se décompose de la façon sui
 
 **Attribution**[^133bis-1]
 
-<sup>1</sup> L’attribution du numéro d’assuré est du ressort de la CdC.
+<sup>1</sup> L’attribution du numéro AVS est du ressort de la CdC.
 
 <sup>2</sup>
 
@@ -2730,12 +2731,12 @@ L’attribution est automatique dès que:
 - a. l’inscription d’une naissance dans la base de données informatisée centrale Infostar est annoncée, ou que
 - b.
 
-  le Secrétariat d’État aux migrations[^133bis-2] a transmis les données requises par l’art. 13, al. 1, let. a, de l’ordonnance SYMIC du 12 avril 2006[^133bis-3], dont la CdC a besoin pour attribuer le numéro d’assuré sans risque d’erreur:
+  le Secrétariat d’État aux migrations[^133bis-2] a transmis les données requises par l’art. 13, al. 1, let. a, de l’ordonnance SYMIC du 12 avril 2006[^133bis-3], dont la CdC a besoin pour attribuer le numéro AVS sans risque d’erreur:
 
   - 1\. aux personnes auxquelles un permis de séjour de plus de quatre mois a été octroyé pour la première fois (domaine des étrangers),
   - 2\. aux personnes autorisées à séjourner en Suisse (domaine de l’asile).[^133bis-4]
 
-<sup>3</sup> Dans tous les autres cas, l’attribution a lieu dès que la CdC peut exclure, sur la base des données qui lui ont été transmises, qu’une personne est déjà en possession d’un numéro d’assuré et que les données nécessaires concernant cette personne sont réunies.
+<sup>3</sup> Dans tous les autres cas, l’attribution a lieu dès que la CdC peut exclure, sur la base des données qui lui ont été transmises, qu’une personne est déjà en possession d’un numéro AVS et que les données nécessaires concernant cette personne sont réunies.
 
 <sup>4</sup>
 
@@ -2748,11 +2749,11 @@ La CdC peut demander les indications suivantes:
 - e. date de naissance;
 - f. lieu de naissance;
 - g. nationalité;
-- h. ancien numéro d’assuré;
+- h. ancien numéro AVS;
 - i. noms de famille et prénoms des parents;
 - j.[^133bis-6] date de décès.
 
-<sup>5</sup> Avant d’attribuer le numéro, la CdC peut comparer les données de divers services et institutions habilités à utiliser systématiquement le numéro d’assuré ou tenus de le faire.
+<sup>5</sup> Avant d’attribuer le numéro, la CdC peut comparer les données de divers services et institutions habilités à utiliser systématiquement le numéro AVS ou tenus de le faire.
 
 <sup>6</sup> Si les données transmises ne suffisent pas pour l’attribution du numéro, la CdC s’entend avec le service ou l’institution concernés sur les données supplémentaires à lui transmettre. Si aucun accord n’est trouvé, la CdC fixe quelles données complémentaires doivent lui être communiquées. Elle tient compte du travail que cela implique.
 
@@ -2769,7 +2770,7 @@ La CdC peut demander les indications suivantes:
 
 [^134-1]: Abrogé par le ch. I de l’O du 7 nov. 2007, avec effet au 1<sup>er</sup> juil. 2008 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
-### II. Utilisation systématique du numéro d’assuré en dehors de l’AVS****
+### II. Utilisation systématique du numéro AVS en dehors de l’AVS****
 
 [^chap4-lvlH-lvlII-1]
 
@@ -2777,137 +2778,69 @@ La CdC peut demander les indications suivantes:
 
 #### Art 134<sup>bis</sup>
 
-**Utilisation systématique du numéro d’assuré**[^134bis-1]
+[^134bis-1]
 
-L’utilisation du numéro d’assuré est réputée systématique lorsque des données personnelles sont collectées de manière structurée et qu’elles contiennent le numéro à neuf chiffres prévu à l’art. 133, let. b.
-
-[^134bis-1]: Introduit par le ch. I de l’O du 18 oct. 1974 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Nouvelle teneur selon le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+[^134bis-1]: Introduit par le ch. I de l’O du 18 oct. 1974 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)). Abrogé par le ch. I de l’O du 17 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 134<sup>ter</sup>
 
-**Annonce de l’utilisation systématique du numéro d’assuré**[^134ter-1]
+**Annonce de l’utilisation systématique du numéro AVS**[^134ter-1]
 
-<sup>1</sup> L’utilisation systématique du numéro d’assuré est annoncée à la CdC au moyen du formulaire prévu à cet effet. Les annonces collectives faites pour les services qui tiennent les registres visés à l’art. 2, al. 2, de la loi du 23 juin 2006 sur l’harmonisation de registres (LHR)[^134ter-2] et pour les fournisseurs de prestations au sens de la LAMal[^134ter-3] respectent les prescriptions de forme faites par la CdC.
+<sup>1</sup> Les autorités, organisations et personnes habilitées par l’art. 153*c*, al. 1, LAVS, à utiliser le numéro AVS de manière systématique annoncent cette utilisation systématique à la CdC. Elles peuvent faire une annonce collective.
 
 <sup>2</sup>
 
-L’annonce comprend:
+L’annonce comprend notamment:
 
-- a. la base légale sur laquelle se fonde l’utilisation systématique du numéro;
-- b. une personne de contact.
+- a. la dénomination de l’autorité, de l’organisation ou de la personne habilitée à utiliser le numéro AVS de manière systématique;
+- b. la désignation de la personne responsable de l’utilisation systématique du numéro AVS au sens de l’art. 153*d*, let. b, LAVS;
+- c. la base légale sur laquelle se fonde l’utilisation systématique du numéro AVS et la mention des tâches légales dont l’exécution requiert cette utilisation systématique.
 
-<sup>3</sup> La CdC publie sur Internet la liste des services et institutions qui utilisent systématiquement le numéro d’assuré (services et institutions annoncés).
+<sup>3</sup> Toute modification des données indiquées dans l’annonce doit être communiquée à la CdC sans délai.
 
-[^134ter-1]: Introduit par le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
-[^134ter-2]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^134ter-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^134ter-1]: Introduit par le ch. I de l’O du 7 nov. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)). Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 134<sup>quater</sup>
 
-**Communication et vérification du numéro d’assuré**[^134quater-1]
+**Communication et vérification du numéro AVS**[^134quater-1]
 
-<sup>1</sup> La CdC communique le numéro d’assuré à Infostar, à SYMIC, à E-VERA et à Ordipro automatiquement par voie électronique immédiatement après l’avoir attribué.[^134quater-2]
+<sup>1</sup> La CdC communique le numéro AVS à Infostar, à SYMIC, à E-VERA et à Ordipro automatiquement par voie électronique immédiatement après l’avoir attribué.[^134quater-2]
 
-<sup>2</sup> Elle établit une procédure standard qui permet la communication et la vérification des numéros d’assuré pour des collections de données entières.
+<sup>2</sup> Elle établit une procédure standard qui permet la communication et la vérification des numéros AVS pour des collections de données entières.
 
 <sup>3</sup> Elle peut mettre à disposition des services et des institutions annoncés un système d’interrogation des données.
 
 <sup>4</sup> Elle peut créer d’autres solutions techniques pour assurer la communication et la vérification des données. Elle peut à cet effet collaborer avec les services et institutions annoncés.
 
-<sup>5</sup> Les données de services ou d’institutions habilités à utiliser systématiquement le numéro d’assuré ou tenus de le faire peuvent être comparées aux fins de communication ou de vérification des numéros.
+<sup>5</sup> Les données de services ou d’institutions habilités à utiliser systématiquement le numéro AVS ou tenus de le faire peuvent être comparées aux fins de com­munication ou de vérification des numéros.
 
-<sup>6</sup> Le numéro d’assuré est communiqué et vérifié sur demande dans des cas particuliers.
+<sup>6</sup> Le numéro AVS est communiqué et vérifié sur demande dans des cas particuliers.
 
 [^134quater-1]: Introduit par le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 [^134quater-2]: Nouvelle teneur selon l’art. 17 ch. 2 de l’O Ordipro du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
 
 #### Art. 134<sup>quinquies</sup>
 
-**Mesures de précaution**[^134quinquies-1]
-
-<sup>1</sup> Les services qui tiennent des registres visés à l’art. 2 LHR[^134quinquies-2] et les assureurs au sens de l’art. 11 LAMal[^134quinquies-3] ne sont autorisés à saisir le numéro d’assuré pour la première mise à jour complète de leurs fichiers électroniques que si le numéro leur a été communiqué au moyen d’une des procédures visées à l’art. 134<sup>quater</sup>, al. 2 ou 4.
-
-<sup>2</sup> Ils sont tenus de faire vérifier périodiquement par la CdC l’exactitude des numéros d’assuré saisis dans leurs fichiers et de données personnelles correspondantes.
-
-<sup>3</sup> Si la CdC a des raisons de supposer qu’un service ou une institution n’utilise pas le numéro d’assuré correct, elle ordonne une vérification.
-
-[^134quinquies-1]: Introduit par le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
-[^134quinquies-2]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^134quinquies-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-
-#### Art. 134<sup>sexies</sup>
-
-**Régime des émoluments**[^134sexies-1]
-
-<sup>1</sup> Les services et institutions annoncés versent un émolument à la CdC pour la communication et la vérification des numéros d’assuré en vertu de l’art. 134<sup>quater</sup>, al. 2 à 4.
-
-<sup>2</sup>
-
-La CdC ne perçoit pas d’émolument lorsque l’utilisation systématique du numéro d’assuré est le fait:
-
-- a. d’un service de la Confédération;
-- b. d’organes intercantonaux ou de services cantonaux ou communaux dans leurs tâches d’exécution du droit fédéral, lorsque celui-ci prescrit ou autorise l’utilisation systématique du numéro;
-- c. d’un organe d’exécution, de contrôle ou de surveillance des assurances sociales cantonales;
-- d. de services ou d’institutions annoncés, si l’utilisation systématique du numéro est dans l’intérêt de l’AVS ou de la CdC dans l’accomplissement de ses tâches pour l’assurance-invalidité.
-
-<sup>3</sup>
-
-Un intérêt au sens de l’al. 2, let. d, existe en particulier pour:
-
-- a.
-
-  les organes d’exécution, de contrôle ou de surveillance:
-
-  - 1\. de l’assurance-invalidité en vertu de la LAI[^134sexies-2],
-  - 2\. du régime des prestations complémentaires au sens de la loi fédérale du 19 mars 1965 sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité[^134sexies-3],
-  - 3\. du régime des allocations pour perte de gain au sens de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain[^134sexies-4],
-  - 4\. du régime des allocations familiales dans l’agriculture instauré par la LFA[^134sexies-5],
-  - 5\. de l’assurance-chômage en vertu de la loi fédérale du 25 juin 1982 sur l’assurance-chômage[^134sexies-6],
-  - 6\. de l’assurance-accidents en vertu de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^134sexies-7],
-  - 7\. de l’assurance-maladie en vertu de la LAMal[^134sexies-8],
-  - 8\. de l’assurance militaire en vertu de la loi fédérale du 19 juin 1992 sur l’assurance militaire[^134sexies-9],
-  - 9\. de la prévoyance professionnelle si les organes d’exécution sont soumis à l’obligation d’annoncer prévue aux art. 24*a* à 24*c* de la loi du 17 décembre 1993 sur le libre passage[^134sexies-10];
-
-- b. le fonds de garantie LPP prévu à l’art. 56 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^134sexies-11];
-- c. les autorités fiscales des cantons;
-- d. les institutions de formation fréquentées majoritairement par des personnes tenues de cotiser à l’AVS.
-
-[^134sexies-1]: Introduit par le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
-[^134sexies-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^134sexies-3]: [[RO 1965 541](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)ch. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)ch. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)annexe ch. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 5 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)annexe ch. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)annexe ch. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)ch. IV. [RO 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Voir actuellement la LF du 6 oct. 2006 sur les prestations complémentaires à l’AVS et à l’AI ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
-[^134sexies-4]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^134sexies-5]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^134sexies-6]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^134sexies-7]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^134sexies-8]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^134sexies-9]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^134sexies-10]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^134sexies-11]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-
-#### Art. 134<sup>septies</sup>
-
-**Émoluments**[^134septies-1]
+**Mesures visant à garantir l’utilisation du numéro AVS exact**[^134quinquies-1]
 
 <sup>1</sup>
 
-Les émoluments perçus pour la communication et la vérification du numéro d’assuré prévues à l’art. 134<sup>quater</sup>, al. 2 ou 4 sont les suivants:
+Le numéro AVS peut être saisi automatiquement dans une banque de données lorsqu’il a été communiqué:
 
-- a. un forfait de 800 francs pour chaque collection de données à traiter séparément;
-- b. 1 centime par numéro d’assuré pour l’exécution d’une comparaison de données entièrement automatisée;
-- c. 5 francs par numéro d’assuré qui requiert des éclaircissements.
+- a. selon l’une des procédures visées à l’art. 134<sup>quater</sup>, al. 2 à 4;
+- b. par un organe d’exécution de l’AVS, Infostar, SYMIC, E-VERA ou Ordipro.
 
-<sup>2</sup> Un forfait annuel de 1200 francs est perçu pour l’utilisation du système d’interrogation de données prévu à l’art. 134<sup>quater</sup>, al. 3.
+<sup>2</sup> Il ne peut y être saisi manuellement qu’après vérification d’une clé de contrôle.
 
-[^134septies-1]: Introduit par le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
+<sup>3</sup> Les autorités, organisations et personnes habilitées à utiliser le numéro AVS de manière systématique sont tenues de faire vérifier périodiquement par la CdC l’exactitude des numéros AVS saisis dans leurs banques de données et des données personnelles correspondantes au moyen d’une des procédures visées à l’art. 134<sup>quater</sup>, al. 2 ou 4.
 
-#### Art. 134<sup>octies</sup>
+[^134quinquies-1]: Introduit par le ch. I de l’O du 7 nov. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)). Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
-**Ordonnance générale sur les émoluments**[^134octies-1]
+#### Art. 134<sup>sexies</sup> à 134<sup>octies</sup>
 
-Sauf disposition particulière du présent règlement, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^134octies-2] s’appliquent.
+[^134sexies134octies-1]
 
-[^134octies-1]: Introduit par le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
-[^134octies-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^134sexies134octies-1]: Introduits par le ch. I de l’O du 7 nov. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)). Abrogés par le ch. I de l’O du 17 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### H<sup>bis</sup>. Certificat d’assurance et compte individuel****
 
@@ -2925,9 +2858,9 @@ Sauf disposition particulière du présent règlement, les dispositions de l’o
 
 **Certificat d’assurance**[^135bis-1]
 
-<sup>1</sup> Tout assuré peut exiger de la caisse de compensation compétente qu’elle lui remette un certificat d’assurance. Y figurent le numéro d’assuré et les nom, prénom et date de naissance de l’assuré.
+<sup>1</sup> Tout assuré peut exiger de la caisse de compensation compétente qu’elle lui remette un certificat d’assurance. Y figurent le numéro AVS et les nom, prénom et date de naissance de l’assuré.
 
-<sup>2</sup> Lorsque la caisse de compensation demande l’attribution d’un numéro d’assuré, le certificat est remis d’office à l’assuré.
+<sup>2</sup> Lorsque la caisse de compensation demande l’attribution d’un numéro AVS, le certificat est remis d’office à l’assuré.
 
 [^135bis-1]: Introduit par le ch. I de l’O du 7 nov. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)). Nouvelle teneur selon le ch. I de l’O du 26 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
@@ -2941,7 +2874,7 @@ Sauf disposition particulière du présent règlement, les dispositions de l’o
 
 **Compte individuel**[^137-1]
 
-Chaque caisse de compensation tient, sous le numéro d’assuré, un compte individuel des revenus d’activités lucratives pour lesquels les cotisations lui ont été versées jusqu’à l’ouverture du droit à une rente de vieillesse.
+Chaque caisse de compensation tient, sous le numéro AVS, un compte individuel des revenus d’activités lucratives pour lesquels les cotisations lui ont été versées jusqu’à l’ouverture du droit à une rente de vieillesse.
 
 [^137-1]: Abrogé par le ch. I de l’ACF du 19 nov. 1965 ([RO 1965 1033](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)). Nouvelle teneur selon le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
@@ -2975,8 +2908,8 @@ L’inscription au compte individuel d’un assuré a lieu, en règle générale
 
 L’inscription contient:[^140-2]
 
-- a. le numéro de l’assuré;
-- b.[^140-3] le numéro d’identification des entreprises, le numéro administratif ou le numéro du relevé de compte de la personne qui a réglé le compte de ses cotisations avec la caisse de compensation ou le numéro d’assuré du conjoint dont le revenu a été partagé;
+- a. le numéro AVS;
+- b.[^140-3] le numéro d’identification des entreprises, le numéro administratif ou le numéro du relevé de compte de la personne qui a réglé le compte de ses cotisations avec la caisse de compensation ou le numéro AVS du conjoint dont le revenu a été partagé;
 - c.[^140-4] un chiffre-clé indiquant le genre d’inscriptions sur le compte individuel;
 - d.[^140-5] l’année de cotisations et la durée de cotisations en mois;
 - e. le revenu annuel en francs;
@@ -3052,7 +2985,7 @@ L’inscription contient:[^140-2]
 Le système d’information concernant la liquidation de prestations sur la base de conventions internationales contient toutes les données qui, sur la base des actes juridiques de l’UE et d’autres conventions internationales, sont prescrites pour la liquidation de prestations, notamment:
 
 - a. des informations concernant l’assuré;
-- b. les numéros d’assuré;
+- b. les numéros AVS;
 - c. les risques assurés;
 - d. des indications concernant les revenus et les prestations d’assurance;
 - e. des indications concernant la carrière professionnelle et la carrière d’assurance.
@@ -3474,37 +3407,36 @@ Lorsque l’indépendance n’est pas garantie, les bureaux de révision ou les 
 
 <sup>1</sup>
 
-La CdC doit, en sus des tâches mentionnées à l’art. 71 LAVS et aux art. 133<sup>bis</sup>, 134<sup>ter</sup> à 134<sup>octies</sup>, 149, 154 et 171 du présent règlement:[^174-1]
+La CdC doit, en sus des tâches mentionnées à l’art. 71 LAVS et aux art. 133<sup>bis</sup>, 134<sup>ter</sup> à 134<sup>quinquies</sup>, 149, 154 et 171 du présent règlement:[^174-1]
 
-- a.[^174-2] accomplir les tâches requises par l’art. 5, al. 4, de l’ordonnance du DFI du 7 novembre 2007 sur les exigences minimales auxquelles doivent satisfaire les mesures techniques et organisationnelles à prendre par les services et institutions utilisant systématiquement le numéro d’assuré AVS en dehors de l’AVS[^174-3];
-- b.[^174-4] ...
-- c.[^174-5] rassembler les comptes individuels d’un assuré lorsque survient l’événement assuré;
-- d.[^174-6] extraire des annonces faites[^174-7] conformément à l’art. 140, al. 2, ainsi que du registre des prestations en cours les renseignements que lui demande l’OFAS;
-- e.[^174-8] recevoir les avis de décès envoyés par les offices de l’état civil et les remettre aux caisses de compensation s’ils concernent des bénéficiaires de prestations dont les noms figurent au registre central;
-- f.[^174-9] gérer un registre central de tous les bénéficiaires de prestations complémentaires qui ne touchent pas de rente de l’AVS ou de l’AI;
-- g.[^174-10] effectuer la comparaison des données conformément à l’art. 93 LAVS;
-- h.[^174-11] gérer le service de pseudonymisation visé à l’art. 31, al. 1, let. c, de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^174-12].
+- a.[^174-2] …
+- b.[^174-3] ...
+- c.[^174-4] rassembler les comptes individuels d’un assuré lorsque survient l’événement assuré;
+- d.[^174-5] extraire des annonces faites[^174-6] conformément à l’art. 140, al. 2, ainsi que du registre des prestations en cours les renseignements que lui demande l’OFAS;
+- e.[^174-7] recevoir les avis de décès envoyés par les offices de l’état civil et les remettre aux caisses de compensation s’ils concernent des bénéficiaires de prestations dont les noms figurent au registre central;
+- f.[^174-8] gérer un registre central de tous les bénéficiaires de prestations complémentaires qui ne touchent pas de rente de l’AVS ou de l’AI;
+- g.[^174-9] effectuer la comparaison des données conformément à l’art. 93 LAVS;
+- h.[^174-10] gérer le service de pseudonymisation visé à l’art. 31, al. 1, let. c, de la loi fédérale du 18 mars 2016 sur l’enregistrement des maladies oncologiques[^174-11].
 
-<sup>1bis</sup> La CdC compare les données de l’assurance-chômage fournies par le SECO d’ici au 31 mars de l’année qui suit la période de décompte avec celles fournies par les caisses de compensation. Elle communique mensuellement le résultat de la comparaison au SECO au cours de l’année qui suit la période de décompte, la première fois d’ici au 15 avril et la dernière fois d’ici au 15 novembre.[^174-13]
+<sup>1bis</sup> La CdC compare les données de l’assurance-chômage fournies par le SECO d’ici au 31 mars de l’année qui suit la période de décompte avec celles fournies par les caisses de compensation. Elle communique mensuellement le résultat de la comparaison au SECO au cours de l’année qui suit la période de décompte, la première fois d’ici au 15 avril et la dernière fois d’ici au 15 novembre.[^174-12]
 
-<sup>2</sup> ...[^174-14]
+<sup>2</sup> ...[^174-13]
 
 <sup>3</sup> La CdC établit chaque année, à l’intention de l’OFAS, un rapport détaillé sur l’exécution des tâches qui lui incombent en vertu de l’al. 1.
 
-[^174-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
-[^174-2]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2007, en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
-[^174-3]: [RS 831.101.4](https://fedlex.data.admin.ch/eli/cc/2007/749)
-[^174-4]: Abrogée par le ch. I de l’O du 22 nov. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
+[^174-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^174-2]: Abrogée par le ch. I de l’O du 17 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^174-3]: Abrogée par le ch. I de l’O du 22 nov. 2000, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2905](https://fedlex.data.admin.ch/eli/oc/2000/506)).
+[^174-4]: Nouvelle teneur selon le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
 [^174-5]: Nouvelle teneur selon le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^174-6]: Nouvelle teneur selon le ch. I de l’ACF du 10 janv. 1969, en vigueur depuis le 1<sup>er</sup> janv. 1969 ([RO 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)).
-[^174-7]: Nouvelle teneur selon le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
-[^174-8]: Introduite par le ch. I de l’O du 18 oct. 1974, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
-[^174-9]: Introduite par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er janv.</sup> 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
-[^174-10]: Introduite par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
-[^174-11]: Introduite par l’annexe 2 ch. 2 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)).
-[^174-12]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
-[^174-13]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
-[^174-14]: Abrogé par le ch. I de l’O du 26 oct. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
+[^174-6]: Nouvelle teneur selon le ch. I de l’O du 17 juin 1985, en vigueur depuis le 1<sup>er</sup> janv. 1986 ([RO 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
+[^174-7]: Introduite par le ch. I de l’O du 18 oct. 1974, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
+[^174-8]: Introduite par le ch. I de l’O du 29 nov. 1995, en vigueur depuis le 1<sup>er janv.</sup> 1997 ([RO 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
+[^174-9]: Introduite par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
+[^174-10]: Introduite par l’annexe 2 ch. 2 de l’O du 11 avr. 2018 sur l’enregistrement des maladies oncologiques, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290)).
+[^174-11]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
+[^174-12]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4519](https://fedlex.data.admin.ch/eli/oc/2013/798)).
+[^174-13]: Abrogé par le ch. I de l’O du 26 oct. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
 #### Art. 175
 
@@ -3831,11 +3763,12 @@ L’OFAS présentera un rapport sur chaque exercice annuel de l’assurance-viei
 
 [^221-1]: Introduit par le ch. I de l’O du 18 oct. 1974, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
 
-## Chapitre IX**** Les subventions pour l’encouragement de l’aide à la vieillesse
+## Chapitre IX**** Les aides financières pour l’encouragement de l’aide à la vieillesse****
 
-[^chap9-1]
+[^chap9-1][^chap9-2]
 
 [^chap9-1]: Introduit par le ch. I de l’O du 5 avr. 1978, en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
+[^chap9-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 222
 
@@ -3843,7 +3776,7 @@ L’OFAS présentera un rapport sur chaque exercice annuel de l’assurance-viei
 
 <sup>1</sup>
 
-Ont droit aux subventions les organisations qui sont actives au plan national et:
+Ont droit aux aides financières au sens de l’art. 3, al. 1, de la loi du 5 octobre 1990 sur les subventions[^222-2] les organisations privées reconnues d’utilité publique qui sont actives au plan national et:[^222-3]
 
 - a. qui se consacrent dans une large mesure à l’aide à la vieillesse;
 - b. qui assurent la formation continue du personnel auxiliaire actif dans le domaine de l’aide à la vieillesse;
@@ -3851,55 +3784,84 @@ Ont droit aux subventions les organisations qui sont actives au plan national et
 
 <sup>2</sup> L’OFAS conclut avec les organisations visées à l’al. 1 des contrats de prestations portant sur les objectifs à atteindre et les prestations à prendre en compte, pour une durée de quatre ans au maximum.
 
-<sup>3</sup> L’assurance participe proportionnellement aux subventions de l’assurance-invalidité aux organisations de l’aide privée aux invalides au sens de l’art. 74 LAI[^222-2] qui fournissent dans une mesure considérable des prestations dans l’intérêt de personnes qui n’ont été atteintes dans leur santé qu’après l’âge de la retraite. Le montant de la participation de l’assurance est déterminé selon les dispositions de l’art. 108<sup>quater</sup> RAI[^222-3].
+<sup>3</sup> L’assurance participe aux aides financières de l’assurance-invalidité allouées aux organisations de l’aide privée aux invalides au sens des art. 108 à 110 RAI[^222-4], pour autant que ces organisations fournissent dans une large mesure des prestations dans l’intérêt de personnes qui n’ont été atteintes dans leur santé qu’après l’âge de la retraite. Le montant de la participation de l’assurance est établi en fonction des prestations effectivement fournies à ce groupe de personnes.[^222-5]
 
 [^222-1]: Nouvelle teneur selon le ch. I 16 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Voir aussi la disp. fin. mod. 7 nov. 2007 à la fin du texte.
-[^222-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^222-3]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^222-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^222-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+[^222-4]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
+[^222-5]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 223
 
-**Critères de subventionnement**[^223-1]
+**Mode d’allocation des aides financières**[^223-1]
 
-<sup>1</sup> Le montant de la subvention est fonction du degré de réalisation des objectifs fixés dans le contrat de prestations.
+<sup>1</sup> Les aides financières pour les tâches visées à l’art. 101<sup>bis</sup>, al. 1, let. a et b, LAVS sont allouées en fonction du nombre de prestations fournies. Les prestations fournies à domicile ou en lien avec le domicile ne donnent droit à des aides financières que si elles sont dispensées à titre bénévole.
 
-<sup>2</sup> Des subventions sont fixées et allouées pour chaque prestation mesurable prévue dans le contrat de prestations et effectivement fournie. Les prestations d’aide fournies dans le cadre de l’aide à domicile et de services ambulatoires ne donnent droit à des subventions que si elles sont dispensées à titre bénévole.
+<sup>2</sup> Les aides financières pour les tâches permanentes visées à l’art. 101<sup>bis</sup>, al. 1, let. c, LAVS sont allouées sous forme de forfaits. Pour les projets de développement de durée limitée, des aides financières peuvent être allouées en supplément.
 
-<sup>3</sup> Le contrat de prestations définit les tâches, permanentes et non mesurables, relevant de la coordination et du développement ainsi que les besoins correspondants en personnel.
+<sup>3</sup> Les aides financières pour les tâches visées à l’art. 101<sup>bis</sup>, al. 1, let. d, LAVS sont allouées en fonction du nombre de prestations fournies. Les exigences auxquelles doit satisfaire la formation continue du personnel auxiliaire sont fixées dans le contrat de prestations.
 
-<sup>4</sup> Les projets visant à promouvoir l’aide à la vieillesse peuvent être subventionnés.
+<sup>4</sup> L’OFAS fixe les bases de calcul dans les contrats de prestations et peut soumettre le versement des aides financières à certaines conditions et à certaines charges.
 
-<sup>5</sup> Les cours de formation continue en faveur du personnel auxiliaire et visant à l’acquisition de connaissances de base font l’objet d’une indemnisation forfaitaire. Les exigences auxquelles doit satisfaire la formation continue du personnel auxiliaire sont fixées dans le contrat de prestations.
-
-<sup>6</sup> L’OFAS peut soumettre le versement des subventions à certaines conditions particulières et à certaines charges.
-
-[^223-1]: Nouvelle teneur selon le ch. I 16 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Voir aussi la disp. fin. mod. 7 nov. 2007 à la fin du texte.
+[^223-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 224
 
-**Montant des subventions**[^224-1]
+**Montant des aides financières**[^224-1]
 
-<sup>1</sup> Seules des prestations adéquates et économiques peuvent être subventionnées. Le montant des subventions est fixé en fonction du volume de travail et du champ d’activité de l’organisation; il est tenu compte, de manière approprié, de la capacité économique et de la prestation personnelle exigible du cocontractant. Les contributions financières provenant d’autres collectivités locales de droit public sont prises en compte lors du calcul du montant des subventions.
+<sup>1</sup> Seules des prestations adéquates, conformes aux besoins, efficaces et économiques peuvent faire l’objet d’aides financières. Le montant des aides financières tient compte du volume et de la portée des activités de l’organisation. Il est tenu compte de la capacité économique et de la prestation personnelle exigible du cocontractant, ainsi que des contributions financières de tiers.
 
-<sup>2</sup> L’OFAS fixe un montant forfaitaire par participant en matière de formation continue et de cours dispensés au sens de l’art. 222, al. 1, let. b et c.
+<sup>2</sup> Seuls sont pris en compte les coûts effectifs. Les aides financières couvrent en règle générale au maximum 50 % de ceux-ci. Dans des cas exceptionnels, cette limite peut être relevée jusqu’à 80 % si une organisation n’a, de par sa structure et ses buts, que des possibilités de financement restreintes et que la Confédération a un intérêt particulier à ce qu’une tâche soit accomplie.
 
-[^224-1]: Nouvelle teneur selon le ch. I 16 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Voir aussi la disp. fin. mod. 7 nov. 2007 à la fin du texte.
+[^224-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 224<sup>bis</sup>
+
+**Montant maximal pour l’allocation des aides financières**[^224bis-1]
+
+<sup>1</sup> Tous les quatre ans, le Conseil fédéral fixe le montant maximal annuel pour l’allocation des aides financières versées à des organisations d’aide aux personnes âgées ainsi que la participation financière de l’assurance aux prestations des organisations de l’aide privée aux invalides prévue à l’art. 222, al. 3, en tenant compte du renchérissement.
+
+<sup>2</sup> L’OFAS élabore les bases permettant de fixer le montant maximal. Il évalue l’adéquation, l’économicité et l’efficacité des aides financières accordées et détermine les besoins existants.
+
+<sup>3</sup> Les mandats attribués à des tiers pour évaluer l’adéquation, l’économicité et l’efficacité des aides financières allouées et déterminer les besoins existants sont à la charge de l’assurance. Les coûts sur quatre ans ne doivent pas dépasser 0,3 % du montant annuel total des aides financières versées.
+
+[^224bis-1]: Introduit par l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
+
+#### Art. 224<sup>ter</sup>
+
+**Ordre de priorité**[^224ter-1]
+
+<sup>1</sup>
+
+Si le montant des demandes d’aides financières dépasse le montant des ressources disponibles, les ressources sont attribuées selon les priorités suivantes:
+
+- a. travaux nécessaires à la coordination, sur le plan national, des différents domaines d’activité et des acteurs de l’aide à la vieillesse;
+- b. travaux apportant une contribution importante au développement de l’aide à la vieillesse à l’échelle nationale;
+- c. formation continue du personnel auxiliaire;
+- d. prestations de conseil pour les personnes âgées et leurs proches;
+- e. autres prestations, en particulier pour les personnes vulnérables;
+- f. autres prestations.
+
+<sup>2</sup> L’OFAS règle les détails.
+
+[^224ter-1]: Introduit par l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 225
 
 **Procédure**[^225-1]
 
-<sup>1</sup> Les organisations qui veulent obtenir des subventions donneront, lors de la pre-mière demande, des indications sur leur structure, leur programme d’activité et leur situation financière.
+<sup>1</sup> Les organisations qui demandent des aides financières donneront des indications sur leur structure, leur programme d’activité et leur situation financière.
 
 <sup>2</sup> L’OFAS détermine les documents qui doivent lui être remis en vue de la conclusion d’un contrat de prestations.
 
-<sup>3</sup> L’OFAS détermine les documents que l’organisation doit lui remettre, pendant la durée du contrat de prestations, dans les six mois suivant la fin de l’exercice annuel. Les documents déterminés par l’OFAS pour les cours ou la formation continue doivent être présentés dans les trois mois suivant la fin du cours ou de la formation continue. Ces délais peuvent être prolongés sur demande écrite avant leur échéance, pour des raisons suffisantes. L’inobservation sans raison plausible des délais ordinaires ou prolongés entraîne une réduction de la subvention d’un cinquième en cas de retard allant jusqu’à un mois, et d’un autre cinquième pour chaque mois de retard supplémentaire.
+<sup>3</sup> Il détermine les documents que l’organisation doit lui remettre pendant la durée du contrat de prestations et fixe les délais. Ces délais peuvent être prolongés sur demande écrite avant leur échéance, pour des raisons suffisantes. L’inobservation sans raison valable des délais ordinaires ou prolongés entraîne une réduction des aides financières d’un cinquième en cas de retard allant jusqu’à un mois, et d’un autre cinquième pour chaque mois de retard supplémentaire.
 
-<sup>4</sup> L’OFAS examine les documents qui lui sont remis et fixe le montant des subventions à verser. Il peut convenir, avec le cocontractant, de versements par acomptes.
+<sup>4</sup> L’OFAS examine les documents qui lui sont remis et fixe le montant des aides financières à verser. Il peut convenir, avec le cocontractant, de versements par acomptes.
 
-<sup>5</sup> L’organisation est tenue de renseigner en tout temps l’OFAS sur l’emploi des subventions et d’autoriser les organes de contrôle à consulter la comptabilité.
+<sup>5</sup> L’organisation est tenue de renseigner en tout temps l’OFAS sur l’emploi des aides financières et d’autoriser les organes de contrôle à consulter la comptabilité.
 
-[^225-1]: Nouvelle teneur selon le ch. I 16 de l’O du 7 nov. 2007 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Voir aussi la disp. fin. mod. 7 nov. 2007 à la fin du texte.
+[^225-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ## Chapitre X Dispositions finales****
 
@@ -4017,11 +3979,11 @@ d. Versement de la rente par l’employeur
 
 [^u9-1]: [RO 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)
 
-<sup>2</sup> Les organes chargés de l’exécution, du contrôle et de la surveillance de l’assurance-chômage régie par la loi du 25 juin 1982 sur l’assurance-chômage[^u9-2] peuvent utiliser le numéro d’assuré prévu par l’ancien droit jusqu’au 31 décembre 2008.
+<sup>2</sup> Les organes chargés de l’exécution, du contrôle et de la surveillance de l’assurance-chômage régie par la loi du 25 juin 1982 sur l’assurance-chômage[^u9-2] peuvent utiliser le numéro AVS prévu par l’ancien droit jusqu’au 31 décembre 2008.
 
-<sup>3</sup> Jusqu’au 31 décembre 2008, la CdC attribue le numéro d’assuré prévu par l’ancien droit en plus du nouveau numéro d’assuré.
+<sup>3</sup> Jusqu’au 31 décembre 2008, la CdC attribue le numéro AVS prévu par l’ancien droit en plus du nouveau numéro AVS.
 
-<sup>1</sup> Les organes chargés de l’exécution, du contrôle ou de la surveillance des assurances sociales ci-dessous utilisent le numéro d’assuré conforme à l’ancien droit jusqu’au 30 juin 2008:
+<sup>1</sup> Les organes chargés de l’exécution, du contrôle ou de la surveillance des assurances sociales ci-dessous utilisent le numéro AVS conforme à l’ancien droit jusqu’au 30 juin 2008:
 
 - a. l’AVS en vertu de la LAVS;
 - b. l’assurance-invalidité en vertu de la LAI[^u9-3];
