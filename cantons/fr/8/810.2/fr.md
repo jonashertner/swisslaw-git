@@ -4,13 +4,12 @@ number: "810.2"
 title: Loi sur la gestion des déchets
 short: LGD
 language: fr
-version: 2019-05-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-08
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 1996-11-13
 in_force: 1997-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.2"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6229/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7211/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Gestion des déchets – L
 
 (LGD)
 
-du 13.11.1996 (version entrée en vigueur le 01.05.2019)
+du 13.11.1996 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -119,7 +118,7 @@ Décrète:
 
 <sup>4</sup> Elle dispose à cet effet du Service de l'environnement.
 
-[^8-1]: Actuellement: Direction de l'aménagement, de l'environnement et des constructions.
+[^8-1]: Actuellement: Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 
 #### Art. 9
 
@@ -157,6 +156,8 @@ Décrète:
 <sup>1</sup> L'élimination des déchets doit être respectueuse de l'environnement.
 
 <sup>2</sup> Les déchets doivent être éliminés dans les installations prévues à cet effet.
+
+<sup>3</sup> Les petites quantités de déchets tels que des emballages – y compris les bouteilles, les canettes et les sachets en plastique –, des restes de repas, des chewing-gums, des papiers ou des mégots de cigarettes ne doivent pas être jetés ou abandonnés dans des espaces publics ou à leurs abords, hors des installations mises à disposition et destinées à leur élimination.
 
 #### Art. 13
 
@@ -354,7 +355,7 @@ Décrète:
 
 **Dispositions pénales**
 
-<sup>1</sup> Sera puni de l'amende celui qui, intentionnellement ou par négligence:
+<sup>1</sup> Sera puni de l'amende celui qui:
 
 - a) élimine des déchets hors des installations prévues à cet effet (art. 12 al. 2 et 20 al. 2);
 - b) n'achemine pas les déchets provenant d'une zone d'apport dans la ou les installations correspondantes.
@@ -363,71 +364,41 @@ Décrète:
 
 <sup>3</sup> …
 
-<sup>4</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. Les articles 36a à 36g relatifs aux amendes d'ordre sont toutefois réservés.
+<sup>3a</sup> Les communes peuvent prévoir des dérogations à l'alinéa 1 let. a en soumettant les manifestations sujettes à autorisation à l'obligation de fournir un concept de gestion de déchets.
 
-<sup>5</sup> Les dispositions pénales fédérales sont réservées.
+<sup>3b</sup> Les infractions aux dispositions de la présente loi et à celles de sa réglementation d'exécution que la législation cantonale sur les amendes d'ordre sanctionne par l'amende d'ordre demeurent réservées.
+
+<sup>4</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice. La législation cantonale et fédérale sur les amendes d'ordre demeure réservée.
+
+<sup>5</sup> Les dispositions pénales fédérales ainsi que les dispositions en matière d'abandon de déchets contenues dans la législation spéciale demeurent réservées.
 
 #### Art. 36a
 
-**Amendes d'ordre – Principes**
-
-<sup>1</sup> Quiconque abandonne, intentionnellement ou par négligence, ou jette dans des espaces publics ou à leurs abords des petites quantités de déchets tels que des emballages – y compris les bouteilles, les canettes et les sachets en plastique –, des restes de repas, des chewing-gums, des papiers ou des mégots de cigarettes, sans utiliser les installations prévues à cet effet (art. 12 al. 2), est passible d'une amende d'ordre. Demeurent réservées les dispositions en matière d'abandon de déchets contenues dans la législation spéciale.
-
-<sup>2</sup> Les communes peuvent prévoir des dérogations en soumettant les manifestations sujettes à autorisation à l'obligation de fournir un concept de gestion des déchets.
-
-<sup>3</sup> La limite supérieure du montant des amendes d'ordre correspond à celle qui est prévue par la législation fédérale sur les amendes d'ordre.
-
-<sup>4</sup> Le Conseil d'Etat détermine la liste et le montant forfaitaire des amendes d'ordre.
+**…**
 
 #### Art. 36b
 
-**Amendes d'ordre – Organes compétents**
-
-<sup>1</sup> La compétence pour constater les infractions et infliger les amendes d'ordre est accordée aux agents de la Police cantonale ainsi qu'au personnel de surveillance du Service des forêts et de la faune.
-
-<sup>2</sup> En outre, la compétence d'infliger les amendes d'ordre peut être déléguée par le Conseil d'Etat aux communes qui en font la demande, selon les conditions et exigences fixées dans le règlement d'exécution. Les communes peuvent déléguer cette compétence à des tiers, conformément à la législation sur les communes.
+**…**
 
 #### Art. 36c
 
-**Amendes d'ordre – Pouvoirs**
-
-<sup>1</sup> Seuls les agents de la Police cantonale disposent du pouvoir de contrainte et du recours à la force publique. Sont réservés les pouvoirs spéciaux expressément attribués à d'autres agents par la législation spéciale.
+**…**
 
 #### Art. 36d
 
-**Procédure – Constatation**
-
-<sup>1</sup> La procédure de l'amende d'ordre s'applique aux infractions constatées directement par la personne représentant l'organe compétent dans l'exercice de ses fonctions.
-
-<sup>2</sup> Cette personne inflige les amendes d'ordre au moyen de formules officielles. Elle doit pouvoir justifier de sa qualité envers le contrevenant.
+**…**
 
 #### Art. 36e
 
-**Procédure – Information et opposition**
-
-<sup>1</sup> La personne représentant l'organe compétent est tenue d'informer l'auteur de l'infraction qu'il peut s'opposer à la procédure de l'amende d'ordre.
-
-<sup>2</sup> En cas d'opposition, le contrevenant est invité à justifier de son identité auprès de la personne représentant l'organe compétent. L'infraction est ensuite dénoncée au préfet, qui statue conformément à la loi sur la justice.
+**…**
 
 #### Art. 36f
 
-**Procédure – Paiement ou dénonciation**
-
-<sup>1</sup> Si le contrevenant est identifié lors de l'infraction, il peut payer l'amende immédiatement ou dans un délai de réflexion de trente jours.
-
-<sup>2</sup> En cas de paiement immédiat, une quittance ne mentionnant pas le nom du contrevenant est établie.
-
-<sup>3</sup> A défaut de paiement immédiat, le contrevenant reçoit un formulaire prévoyant un délai de réflexion de trente jours et un bulletin de versement. La personne représentant l'organe compétent conserve une copie du formulaire. Si le contrevenant paie l'amende dans le délai prescrit, la copie est détruite.
-
-<sup>4</sup> En revanche, si le contrevenant ne paie pas l'amende dans le délai de réflexion ou s'il n'a pas été intercepté ou appréhendé au moment de l'infraction, la procédure ordinaire s'applique. L'infraction est dénoncée au préfet, qui statue conformément à la loi sur la justice.
+**…**
 
 #### Art. 36g
 
-**Procédure – Frais et encaissement**
-
-<sup>1</sup> Il n'est pas perçu de frais dans la procédure de l'amende d'ordre.
-
-<sup>2</sup> Le produit des amendes revient à l'organe ayant constaté les infractions et infligé les amendes d'ordre.
+**…**
 
 ## 6 Dispositions transitoires et finales
 

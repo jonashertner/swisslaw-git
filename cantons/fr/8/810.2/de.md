@@ -4,13 +4,12 @@ number: "810.2"
 title: Gesetz über die Abfallbewirtschaftung
 short: ABG
 language: de
-version: 2019-05-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-08
+version: 2022-01-01
+version_adopted: 2021-10-06
 adopted: 1996-11-13
 in_force: 1997-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.2"
-pdf: "https://bdlf.fr.ch/api/de/versions/6229/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7211/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Abfallbewirtschaftung – G
 
 (ABG)
 
-vom 13.11.1996 (Fassung in Kraft getreten am 01.05.2019)
+vom 13.11.1996 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -119,7 +118,7 @@ beschliesst:
 
 <sup>4</sup> Sie verfügt zu diesem Zwecke über das Amt für Umwelt.
 
-[^8-1]: Heute: Raumplanungs-, Umwelt- und Baudirektion.
+[^8-1]: Heute: Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
 
 #### Art. 9
 
@@ -157,6 +156,8 @@ beschliesst:
 <sup>1</sup> Die Abfallentsorgung muss umweltverträglich erfolgen.
 
 <sup>2</sup> Die Abfälle müssen in den dafür vorgesehenen Anlagen entsorgt werden.
+
+<sup>3</sup> Kleine Mengen von Abfällen wie Verpackungen – einschliesslich Flaschen, Getränkedosen und Plastiksäcke –, Speisereste, Kaugummis, Papier oder Zigarettenstummel dürfen im öffentlichen Raum oder in dessen Nähe nicht weggeworfen oder liegengelassen werden, statt dass diese in den hierfür bereitgestellten und dafür bestimmten Installationen und Anlagen entsorgt werden.
 
 #### Art. 13
 
@@ -354,7 +355,7 @@ beschliesst:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Mit Busse wird bestraft, wer absichtlich oder fahrlässig:
+<sup>1</sup> Mit Busse wird bestraft, wer:
 
 - a) Abfälle ausserhalb der dafür vorgesehenen Anlagen entsorgt (Art. 12 Abs. 2 und 20 Abs. 2);
 - b) die aus einem Einzugsgebiet stammenden Abfälle nicht zur entsprechenden Anlage oder zu den entsprechenden Anlagen führt.
@@ -363,71 +364,41 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Artikel 36a–36g über die Ordnungsbussen bleiben vorbehalten.
+<sup>3a</sup> Die Gemeinden können Abweichungen von Absatz 1 Bst. a für bewilligungspflichtige Veranstaltungen vorsehen, sofern sie die Veranstalter verpflichten, ein Abfallbewirtschaftungskonzept einzureichen.
 
-<sup>5</sup> Die Strafbestimmungen des Bundes bleiben vorbehalten.
+<sup>3b</sup> Verstösse gegen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen, die gemäss kantonaler Ordnungsbussengesetzgebung mit Ordnungsbusse bestraft werden, bleiben vorbehalten.
+
+<sup>4</sup> Widerhandlungen werden nach dem Justizgesetz verfolgt und beurteilt. Die Ordnungsbussengesetzgebung von Kanton und Bund bleibt vorbehalten.
+
+<sup>5</sup> Die Strafbestimmungen des Bundes sowie die Bestimmungen der Spezialgesetzgebung über das Littering bleiben vorbehalten.
 
 #### Art. 36a
 
-**Ordnungsbussen – Grundsätze**
-
-<sup>1</sup> Wer absichtlich oder fahrlässig im öffentlichen Raum oder in dessen Nähe kleine Mengen von Abfällen wie Verpackungen – einschliesslich Flaschen, Getränkedosen und Plastiksäcke –, Speisereste, Kaugummis, Papier oder Zigarettenstummel wegwirft oder liegenlässt, statt sie in den dafür vorgesehenen Anlagen zu entsorgen (Art. 12 Abs. 2), wird mit Ordnungsbusse bestraft. Die Bestimmungen über das Littering in der Spezialgesetzgebung bleiben vorbehalten.
-
-<sup>2</sup> Die Gemeinden können Abweichungen für bewilligungspflichtige Veranstaltungen vorsehen, sofern sie die Veranstalter verpflichten, ein Abfallbewirtschaftungskonzept einzureichen.
-
-<sup>3</sup> Der Höchstbetrag dieser Ordnungsbussen entspricht demjenigen der Ordnungsbussengesetzgebung des Bundes.
-
-<sup>4</sup> Der Staatsrat legt die Liste und die Pauschalbeträge der Ordnungsbussen fest.
+**…**
 
 #### Art. 36b
 
-**Ordnungsbussen – Zuständige Organe**
-
-<sup>1</sup> Kantonspolizisten und das Aufsichtspersonal des Amts für Wald, Wild und Fischerei können Widerhandlungen feststellen und Bussen verhängen.
-
-<sup>2</sup> Der Staatsrat kann Gemeinden auf deren Gesuch hin und gemäss den Voraussetzungen und den Anforderungen im Ausführungsreglement die Kompetenz zur Verhängung von Ordnungsbussen übertragen. Die Gemeinden können diese Kompetenz an Dritte übertragen, soweit dies in der kommunalen Gesetzgebung vorgesehen ist.
+**…**
 
 #### Art. 36c
 
-**Ordnungsbussen – Befugnisse**
-
-<sup>1</sup> Allein Kantonspolizisten sind befugt, Zwangsmassnahmen durchzuführen und Polizeigewalt anzuwenden. Vorbehalten bleiben die Sonderbefugnisse, die von der Spezialgesetzgebung ausdrücklich anderen Beamten zugewiesen werden.
+**…**
 
 #### Art. 36d
 
-**Verfahren – Feststellung**
-
-<sup>1</sup> Das Ordnungsbussenverfahren ist anwendbar, wenn der Vertreter des zuständigen Organs die Widerhandlung in Ausübung seiner amtlichen Tätigkeit selbst festgestellt hat.
-
-<sup>2</sup> Diese Person verhängt Ordnungsbussen mit offiziellem Formular. Sie muss sich gegenüber der beschuldigten Person entsprechend ausweisen können.
+**…**
 
 #### Art. 36e
 
-**Verfahren – Mitteilung und Ablehnung des Verfahrens**
-
-<sup>1</sup> Der Vertreter des zuständigen Organs muss der beschuldigten Person mitteilen, dass sie eine Widerhandlung begangen hat und dass sie das Ordnungsbussenverfahren ablehnen kann.
-
-<sup>2</sup> Lehnt die beschuldigte Person das Verfahren ab, so muss sie dem Vertreter des zuständigen Organs ihre Personalien angeben. Die Widerhandlung wird darauf der Oberamtsperson angezeigt; diese entscheidet gemäss dem Justizgesetz.
+**…**
 
 #### Art. 36f
 
-**Verfahren – Bezahlung oder Anzeige**
-
-<sup>1</sup> Wird die beschuldigte Person anlässlich der Widerhandlung identifiziert, so kann sie die Busse sofort oder innerhalb einer Bedenkfrist von 30 Tagen bezahlen.
-
-<sup>2</sup> Bezahlt sie sofort, so wird eine Quittung ohne ihren Namen ausgestellt.
-
-<sup>3</sup> Bezahlt sie nicht sofort, so muss sie ihre Personalien angeben und erhält ein Bedenkfristformular und einen Einzahlungsschein. Der Vertreter des zuständigen Organs behält eine Kopie des Formulars zurück. Bezahlt die beschuldigte Person die Busse innerhalb der Frist, so wird die Kopie vernichtet.
-
-<sup>4</sup> Bezahlt die beschuldigte Person die Busse nicht innerhalb der Frist oder ist nicht bekannt, wer die Widerhandlung begangen hat, so wird ein ordentliches Strafverfahren durchgeführt. Die Widerhandlung wird der Oberamtsperson angezeigt; diese entscheidet gemäss dem Justizgesetz.
+**…**
 
 #### Art. 36g
 
-**Verfahren – Kosten und Inkasso**
-
-<sup>1</sup> Im Ordnungsbussenverfahren werden keine Kosten erhoben.
-
-<sup>2</sup> Der Bussenertrag fällt dem Organ zu, das die Widerhandlung festgestellt und die Ordnungsbusse erhoben hat.
+**…**
 
 ## 6 Übergangs- und Schlussbestimmungen
 
