@@ -3,13 +3,13 @@ canton: FR
 number: "917.16"
 title: "Arrêté concernant les subventions cantonales en faveur d'améliorations foncières"
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-02
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-12-14
 adopted: 1995-12-19
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/917.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8567/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8568/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8567/pdf_file"
 
 Améliorations foncières, subventions cantonales – A
 
-du 19.12.1995 (version entrée en vigueur le 01.04.2021)
+du 19.12.1995 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -53,7 +53,7 @@ Arrête:
 
 <sup>2<sup>bis</sup></sup> Les décisions d'octroi de subventions ne peuvent en principe être prises que dans les limites des crédits budgétaires approuvés par le Grand Conseil.
 
-<sup>3</sup> Lorsque les crédits disponibles ne suffisent pas à couvrir toutes les demandes de subventions, le Service de l'agriculture établit un ordre de priorités, qui s'applique aux demandes pendantes et à celles qui seront déposées ultérieurement.
+<sup>3</sup> Lorsque les crédits disponibles ne suffisent pas à couvrir toutes les demandes de subventions, Grangeneuve établit un ordre de priorités, qui s'applique aux demandes pendantes et à celles qui seront déposées ultérieurement.
 
 #### Art. 3
 
@@ -72,7 +72,7 @@ Arrête:
 
 #### Art. 4a
 
-<sup>1</sup> La Direction des institutions, de l'agriculture et des forêts peut déléguer au Service de l'agriculture la compétence de statuer sur les subventions lorsque leur montant n'excède pas 50'000 francs.
+<sup>1</sup> La Direction des institutions, de l'agriculture et des forêts peut déléguer à Grangeneuve la compétence de statuer sur les subventions lorsque leur montant n'excède pas 50'000 francs.
 
 <sup>2</sup> Les demandes de subventions sont soumises pour préavis à la Commission pour l'amélioration des structures en agriculture si le montant de la subvention est supérieur à 150'000 francs ou, lorsque plusieurs aides peuvent être octroyées pour le même objet (aide combinée), si le montant global excède 250'000 francs.
 

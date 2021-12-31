@@ -3,13 +3,13 @@ canton: FR
 number: "917.16"
 title: Beschluss über die Kantonsbeiträge an die Bodenverbesserungen
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-02
+version: 2022-01-01
+valid_until: 2023-02-28
+version_adopted: 2021-12-14
 adopted: 1995-12-19
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/8567/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8568/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8567/pdf_file"
 
 Bodenverbesserungen, Kantonsbeiträge – B
 
-vom 19.12.1995 (Fassung in Kraft getreten am 01.04.2021)
+vom 19.12.1995 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -53,7 +53,7 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Die Entscheide über die Gewährung von Beiträgen können grundsätzlich nur im Rahmen der vom Grossen Rat genehmigten Voranschlagskredite getroffen werden.
 
-<sup>3</sup> Reichen die verfügbaren Kredite nicht zur Finanzierung aller Beitragsgesuche aus, so legt das Amt für Landwirtschaft die Prioritäten für die hängigen und die später eingereichten Gesuche fest.
+<sup>3</sup> Reichen die verfügbaren Kredite nicht zur Finanzierung aller Beitragsgesuche aus, so legt Grangeneuve die Prioritäten für die hängigen und die später eingereichten Gesuche fest.
 
 #### Art. 3
 
@@ -72,7 +72,7 @@ beschliesst:
 
 #### Art. 4a
 
-<sup>1</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft kann dem Amt für Landwirtschaft die Zuständigkeit übertragen, über Gesuche bis 50'000 Franken zu entscheiden.
+<sup>1</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft kann Grangeneuve die Zuständigkeit übertragen, über Gesuche bis 50'000 Franken zu entscheiden.
 
 <sup>2</sup> Die Beitragsgesuche werden der Kommission für die Strukturverbesserungen in der Landwirtschaft zur Stellungnahme unterbreitet, wenn es sich um Beträge von über 150'000 Franken handelt, oder, wenn für das gleiche Objekt mehrere Hilfen gewährt werden können (kombinierte Finanzhilfe), der Gesamtbetrag mehr als 250'000 Franken beträgt.
 
