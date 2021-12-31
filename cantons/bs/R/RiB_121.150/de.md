@@ -3,13 +3,13 @@ canton: BS
 number: RiB 121.150
 title: Reglement über die Erhebung von Gebühren im Einbürgerungsverfahren
 language: de
-version: 2019-02-21
-valid_until: 2021-12-31
-version_adopted: 2018-11-23
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-05-12
 adopted: 2018-11-23
 in_force: 2019-02-21
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiB%20121.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4624/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5330/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4624/pdf_file"
 
 Einbürgerungsverfahren: Gebührenreglement | Riehen: Bürgergemeinde
 
-Vom 23. November 2018 (Stand 21. Februar 2019)
+Vom 23. November 2018 (Stand 1. Januar 2022)
 
 Der Bürgerrat Riehen,
 
