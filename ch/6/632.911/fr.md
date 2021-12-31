@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordonnance du 16 mars 2007 fixant les droits de douane préférentiels en faveur des pays en développement (Ordonnance sur les préférences tarifaires)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: fr
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-159-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/fr"
 
 (Ordonnance sur les préférences tarifaires)
 
-du 16 mars 2007 (Etat le 1<sup>er</sup> novembre 2021)
+du 16 mars 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -70,12 +70,13 @@ Sont réputés pays en développement au sens de la présente ordonnance les pay
 
 <sup>6</sup> Le jour où le contingent tarifaire respectif arrive à épuisement, le solde est réparti proportionnellement entre les requérants dont les demandes sont arrivées le jour en question.
 
-<sup>7</sup> L’Administration fédérale des douanes publie périodiquement, par voie électronique, l’état d’épuisement des contingents tarifaires.
+<sup>7</sup> L’Office fédéral de la douane et de la sécurité des frontières[^4-5] publie périodiquement, par voie électronique, l’état d’épuisement des contingents tarifaires.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 25 mars 2009, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 [^4-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-4]: Nouveaux numéros selon le ch. 11 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^4-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
 
 #### Art. 5
 
@@ -149,7 +150,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et des territoires en développement
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2012 ([RO 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Mise à jour par le ch. I des O du 17 sept. 2010 ([RO 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), du 20 août 2014 ([RO 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), le ch. I al. 1 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), le ch. I des O du 28 mars 2018 ([RO 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), du 9 mai 2018 ([RO 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), du 18 sept. 2020 ([RO 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)) et du 24 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2012 ([RO 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Mise à jour selon les ch. I de l’O du 17 sept. 2010 ([RO 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), du 20 août 2014 ([RO 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), le ch. I al. 1 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), les ch. I de l’O du 28 mars 2018 ([RO 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), du 9 mai 2018 ([RO 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), du 18 sept. 2020, ([RO 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), du 24 sept. 2021 ([RO 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)) et de l’annexe 3 ch. 11 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 - Colonne A: Code ISO du pays
 - Colonne B: Nom du pays
@@ -212,7 +213,7 @@ Annexe 1*[^t-1]*
 <tr><td>KI</td><td>Kiribati</td><td>X</td><td></td><td></td></tr>
 <tr><td>KM</td><td>Comores</td><td>X</td><td>X</td><td></td></tr>
 <tr><td>KN</td><td>Saint-Kitts-et-Nevis</td><td></td><td></td><td></td></tr>
-<tr><td>KP</td><td>République populaire démocratique de Corée</td><td></td><td></td><td>Les droits de douane préférentiels des chap. 50 à 64 du tarif des douanes suisses (matières textiles et ouvrages en ces matières, chaussures) ainsi que des numéros 9405.9912 (abat-jour) et ex 9619.0000 (serviettes et tampons hygiéniques, couches et langes pour bébés et articles similaires, en matières textiles) ne sont pas applicables aux marchandises originaires de ce pays ou territoire, à l’exclusion des marchandises des numéros ex 5007.2010 (tissus de pongée, habutaï, honan, shantung, corah et tissus similaires d’Extrême-Orient, de soie pure, non mélangés de bourre de soie, de déchets de bourre de soie ou d’autres textiles), 5101.1100/1900, 5307.2000, 5310.1000/9000, 5607.9020, ex 5608.9000 (produits en jute et en coco), 5701.1000/5703.9000, 5705.0000, 5805.0000, 6305.1000, ex 6305.9000 (produits en coco).</td></tr>
+<tr><td>KP</td><td>République populaire démocratique de Corée</td><td></td><td></td><td>Les droits de douane préférentiels des chap. 50 à 64 du tarif des douanes suisses (matières textiles et ouvrages en ces matières, chaussures) ainsi que des numéros 9405.9912 (abat-jour) et ex 9619.0000 (serviettes et tampons hygiéniques, couches, langes et articles similaires, en matières textiles) ne sont pas applicables aux marchandises originaires de ce pays ou territoire, à l’exclusion des marchandises des numéros ex 5007.2010 (tissus de pongée, habutaï, honan, shantung, corah et tissus similaires d’Extrême-Orient, de soie pure, non mélangés de bourre de soie, de déchets de bourre de soie ou d’autres textiles), 5101.1100/1900, 5307.2000, 5310.1000/9000, 5607.9020, ex 5608.9000 (produits en jute et en coco), 5701.1000/5703.9000, 5705.0000, 5805.0000, 6305.1000, ex 6305.9000 (produits en coco).</td></tr>
 <tr><td>KZ</td><td>Kazakhstan</td><td></td><td></td><td></td></tr>
 <tr><td>LA</td><td>Laos</td><td>X</td><td></td><td></td></tr>
 <tr><td>LC</td><td>Sainte-Lucie</td><td></td><td></td><td></td></tr>
@@ -286,7 +287,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des préférences tarifaires
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 25 mars 2009 ([RO 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Mise à jour selon le ch. I al. 2 de l’O du 10 juin 2011 ([RO 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), le ch. 11 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. I al. 2 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), le ch. 8 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et le ch. 5 de l’annexe 2 de l’O du 29 juin 2016 modifiant le tarif des douanes concernant les droits de douane pour certains produits des technologies de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 25 mars 2009 ([RO 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Mise à jour selon le ch. I al. 2 de l’O du 10 juin 2011 ([RO 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), le ch. 11 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. I al. 2 de l’O du 6 juin 2014 ([RO 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), le ch. 8 de l’annexe 3 à l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. 5 de l’annexe 2 de l’O du 29 juin 2016 modifiant le tarif des douanes concernant les droits de douane pour certains produits des technologies de l’information([RO 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) et l’annexe 3 ch. 11 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>N° du tarif[^annex2-lvlu1-1]</th><th></th><th colspan="2">Taux préférentiel</th><th></th><th>Contingents tarifaires; dispositions particulières</th></tr>
@@ -395,7 +396,7 @@ Annexe 2*[^t-2]*
 <tr><td>69 20</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>0402.21 11</td><td colspan="2"></td><td>25.—</td><td></td><td></td></tr>
 <tr><td>91 10</td><td colspan="2"></td><td>5.—</td><td></td><td></td></tr>
-<tr><td>0403.10 10/10 20</td><td colspan="2">em[^annex2-lvlu1-2]</td><td></td><td></td><td></td></tr>
+<tr><td>0403.20 91/20 99</td><td colspan="2">em[^annex2-lvlu1-2]</td><td></td><td></td><td></td></tr>
 <tr><td>90 31, 90 41</td><td colspan="2">em</td><td></td><td></td><td></td></tr>
 <tr><td>90 49, 90 61</td><td colspan="2">em</td><td></td><td></td><td></td></tr>
 <tr><td>90 72/90 79</td><td colspan="2">em</td><td></td><td></td><td></td></tr>
@@ -455,7 +456,7 @@ Annexe 2*[^t-2]*
 <tr><td>90 20/90 21</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>90 30/90 31</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>90 40/90 41</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
-<tr><td>90 50/90 51</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>10 30/10 31</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>90 60/90 61</td><td colspan="2">5.—</td><td></td><td></td><td></td></tr>
 <tr><td>90 63/90 64</td><td colspan="2">5.—</td><td></td><td></td><td></td></tr>
 <tr><td>90 70/90 71</td><td colspan="2">5.—</td><td></td><td></td><td></td></tr>
@@ -505,9 +506,10 @@ Annexe 2*[^t-2]*
 <tr><td>70 90</td><td colspan="2"></td><td>5.—</td><td></td><td></td></tr>
 <tr><td>91 10</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>91 20</td><td colspan="2">5.—</td><td></td><td></td><td></td></tr>
-<tr><td>92 00/93 00</td><td colspan="2"></td><td>5.—</td><td></td><td></td></tr>
+<tr><td>92 00</td><td colspan="2"></td><td>5.—</td><td></td><td></td></tr>
+<tr><td>93 10/93 20</td><td colspan="2">5.—</td><td></td><td></td><td></td></tr>
+<tr><td>93 90</td><td colspan="2"></td><td>5.—</td><td></td><td></td></tr>
 <tr><td>99 40/99 41</td><td colspan="2">5.—</td><td></td><td></td><td></td></tr>
-<tr><td>99 50/99 51</td><td colspan="2">5.—</td><td></td><td></td><td></td></tr>
 <tr><td>99 80</td><td colspan="2"></td><td>5.—</td><td></td><td></td></tr>
 <tr><td>99 99</td><td colspan="2"></td><td>5.—</td><td></td><td></td></tr>
 <tr><td>0710.40 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
@@ -531,7 +533,7 @@ Annexe 2*[^t-2]*
 <tr><td>0801.11 00/19 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>0802.21 90, 22 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>31 90, 32 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
-<tr><td>61 00/90 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>61 00/99 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>0804.10 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>20 20/50 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>0805.10 00/29 00</td><td colspan="2"></td><td>5.—</td><td></td><td></td></tr>
@@ -631,10 +633,12 @@ Annexe 2*[^t-2]*
 <tr><td>1508.10 90</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 18/90 19</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 98/90 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
-<tr><td>1509.10 91/10 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
+<tr><td>1509.20 91/20 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
+<tr><td>30 91/30 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
+<tr><td>40 91/40 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 91/90 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
-<tr><td>1510.00 91/00 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
-<tr><td>1511.10 90</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
+<tr><td>1510.10 90</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
+<tr><td>90 91/90 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 18/90 19</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 98/90 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>1512.11 90</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
@@ -656,12 +660,14 @@ Annexe 2*[^t-2]*
 <tr><td>30 91/30 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>50 19</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>50 91/50 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
+<tr><td>60 91/60 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 13/90 19</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 28/90 29</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 38/90 39</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>90 98/90 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>1516.10 91/10 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>20 92/20 98</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
+<tr><td>30 93/30 99</td><td colspan="2">exempt</td><td></td><td></td><td>pour usages techniques</td></tr>
 <tr><td>1517.10 62, 10 67</td><td colspan="2">em</td><td></td><td></td><td></td></tr>
 <tr><td>10 72, 10 77</td><td colspan="2">em</td><td></td><td></td><td></td></tr>
 <tr><td>10 82, 10 87</td><td colspan="2">em</td><td></td><td></td><td></td></tr>
@@ -674,7 +680,7 @@ Annexe 2*[^t-2]*
 <tr><td>1520.00 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>1521.90 20</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>1601.00 21, 00 31</td><td colspan="2"></td><td>15.—</td><td></td><td></td></tr>
-<tr><td>00 49</td><td colspan="2"></td><td>15.—</td><td></td><td></td></tr>
+<tr><td>00 48</td><td colspan="2"></td><td>15.—</td><td></td><td></td></tr>
 <tr><td>1602.10 10</td><td colspan="2"></td><td>42.50</td><td></td><td></td></tr>
 <tr><td>20 10</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>31 10, 32 10</td><td colspan="2"></td><td>25.—</td><td></td><td></td></tr>
@@ -796,9 +802,13 @@ Annexe 2*[^t-2]*
 <tr><td>10 29</td><td colspan="2"></td><td>5.50</td><td></td><td></td></tr>
 <tr><td>2402.20 10/20 20</td><td colspan="2">exempt</td><td></td><td></td><td>Beedies</td></tr>
 <tr><td>2403.91 00/99 20</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>2404.12 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>19 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>91 90</td><td colspan="2">7.30</td><td></td><td></td><td></td></tr>
+<tr><td>92 00/99 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>2501.00 10/ 2706.0000</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>2708.1000</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
-<tr><td>2712.1000/ 2853.0000</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>2712.1000/ 2853.9000</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>2903.1100/ 2904.9090</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>2905.11 90, 12 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>13 00, 14 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
@@ -821,7 +831,7 @@ Annexe 2*[^t-2]*
 <tr><td>99 10</td><td colspan="2"></td><td>6.—</td><td></td><td></td></tr>
 <tr><td>99 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>3507.1010/</td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td>3603.00 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>3603.10 00/60 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>3604.10 00/90 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>3605.00 00/</td><td colspan="2"></td><td></td><td></td><td></td></tr>
 <tr><td>3808.99 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
@@ -832,7 +842,7 @@ Annexe 2*[^t-2]*
 <tr><td>3814.00 90/</td><td colspan="2"></td><td></td><td></td><td></td></tr>
 <tr><td>3816.00 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>3817.00 90/</td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td>3822.00 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>3822.90 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>3823.11 90</td><td colspan="2"></td><td>1.—</td><td></td><td></td></tr>
 <tr><td>12 90/13 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>19 90/70 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
@@ -842,7 +852,7 @@ Annexe 2*[^t-2]*
 <tr><td>99 99</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>3825.10 00/69 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>90 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
-<tr><td>3826.00 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>3826.00 90/ 3827.90 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>3901.10 00/ 4911.99 90</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>5004.00 10/ 5007.90 30</td><td colspan="2"></td><td>50 %</td><td></td><td></td></tr>
 <tr><td>5104.00 00/ 5109.90 00</td><td colspan="2"></td><td>50 %</td><td></td><td></td></tr>
@@ -866,7 +876,7 @@ Annexe 2*[^t-2]*
 <tr><td>6305.20 00/ 6309.00 00</td><td colspan="2"></td><td>50 %</td><td></td><td></td></tr>
 <tr><td>6401.10 00/ 6507.00 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 <tr><td>6601.10 00/99 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
-<tr><td>6602.00 00/ 9706.00 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
+<tr><td>6602.00 00/ 9706.90 00</td><td colspan="2">exempt</td><td></td><td></td><td></td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe

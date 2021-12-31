@@ -3,11 +3,11 @@ sr: "632.911"
 title: Verordnung vom 16. März 2007 über die Präferenz-Zollansätze zugunsten der Entwicklungsländer (Zollpräferenzenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: de
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-159-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/de"
 
 (Zollpräferenzenverordnung)
 
-vom 16. März 2007 (Stand am 1. November 2021)
+vom 16. März 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -52,7 +52,7 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 
 [^3-1]: [SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
 [^3-2]: [SR 632.102.1](https://fedlex.data.admin.ch/eli/cc/2019/311)
-[^3-3]: Eingefügt durch Anhang 2 Ziff. 1 der V vom 18. Nov. 2015 über die vorübergehende Reduktion von Zollansätzen für Textilien ([AS 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Fassung gemäss Anhang 2 Ziff. II 2 der V vom 1. Mai 2019 über die vorübergehende Aussetzung von Zollansätzen für textile Vor- und Zwischenmaterialien, in Kraft von 1. Juli 2019 bis 31. Dez. 2023 ([AS 2019 1611](https://fedlex.data.admin.ch/eli/oc/2019/311)).
+[^3-3]: Eingefügt durch Anhang 2 Ziff. 1 der V vom 18. Nov. 2015 über die vorübergehende Reduktion von Zollansätzen für Textilien ([AS 2015 4935](https://fedlex.data.admin.ch/eli/oc/2015/807)). Fassung gemäss Anhang 2 Ziff. II 2 der V vom 1. Mai 2019 über die vorübergehende Aussetzung von Zollansätzen für textile Vor- und Zwischenmaterialien, in Kraft vom 1. Juli 2019 bis zum 31. Dez. 2023 ([AS 2019 1611](https://fedlex.data.admin.ch/eli/oc/2019/311)).
 
 #### Art. 4
 
@@ -70,12 +70,13 @@ Als Entwicklungsländer im Sinne dieser Verordnung gelten die in Anhang 1 aufgef
 
 <sup>6</sup> Am Tag der Ausschöpfung des jeweiligen Zollkontingents wird die Restmenge proportional auf die an diesem Tag eingegangenen Gesuche verteilt.
 
-<sup>7</sup> Die Eidgenössische Zollverwaltung veröffentlicht den Stand der Ausschöpfung der Zollkontingente periodisch auf elektronischem Weg.
+<sup>7</sup> Das Bundesamt für Zoll und Grenzsicherheit[^4-5] veröffentlicht den Stand der Ausschöpfung der Zollkontingente periodisch auf elektronischem Weg.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 25. März 2009, in Kraft seit 1. April 2009 ([AS 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 [^4-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^4-4]: Nummern gemäss Anhang 3 Ziff. 11 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^4-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -149,7 +150,7 @@ Anhang 1*[^t-1]*
 
 ## Liste der Entwicklungsländer und ‑gebiete
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Bereinigt gemäss Ziff. I der V vom 17. Sept. 2010 ([AS 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), Ziff. I Abs. 1 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Ziff. I der V vom 28. März 2018 ([AS 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), vom 9. Mai. 2018 ([AS 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), vom 18. Sept. 2020 ([AS 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)) und vom 24. Sept. 2021, in Kraft seit 1. Nov. 2021 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2012 ([AS 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Bereinigt gemäss Ziff. I der V vom 17. Sept. 2010 ([AS 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), Ziff. I der V vom 20. Aug. 2014 ([AS 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), Ziff. I Abs. 1 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Ziff. I der V vom 28. März 2018 ([AS 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), vom 9. Mai. 2018 ([AS 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), vom 18. Sept. 2020 ([AS 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), vom 24. Sept. 2021 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)), Anhang 3 Ziff. 11 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) und Ziff. I der V vom 24. Sept. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
 
 Spalte A: ISO-Ländercode
 
@@ -226,7 +227,7 @@ Spalte E: Aussetzungen von Zollpräferenzen
 <tr><td>KI</td><td>Kiribati</td><td>X</td><td></td><td></td></tr>
 <tr><td>KM</td><td>Komoren</td><td>X</td><td>X</td><td></td></tr>
 <tr><td>KN</td><td>St. Kitts und Nevis</td><td></td><td></td><td></td></tr>
-<tr><td>KP</td><td>Demokratische Volksrepublik Korea</td><td></td><td></td><td>Die Präferenzansätze der Kapitel 50–64 des schweizerischen Zolltarifs (Spinnstoffe, Waren daraus und Schuhe) sowie der Nrn. 9405.9912 (Lampenschirme) und ex 9619.0000 (hygienische Binden und Tampons, Windeln für Kleinkinder und ähnliche Waren aus Spinnstoffen) sind auf Waren mit Ursprung in diesem Land nicht anwendbar, ausgenommen: Waren der Nrn. ex 5007.2010 (Pongée-, Habutai-, Honan-, Shantung oder Corahgewebe und ähnliche ostasiatische Gewebe, ganz aus Seide, nicht mit Schappeseide Bourretteseide oder anderen Spinnstoffen gemischt), 5101.1100/1900, 5307.2000, 5310.1000/9000, 5607.9020, ex 5608.9000 (Jute und Kokosprodukte), 5701.1000/5703.9000, 5705.0000, 5805.0000, 6305.1000, ex 6305.9000 (Kokosprodukte).</td></tr>
+<tr><td>KP</td><td>Demokratische Volksrepublik Korea</td><td></td><td></td><td>Die Präferenzansätze der Kapitel 50–64 des schweizerischen Zolltarifs (Spinnstoffe, Waren daraus und Schuhe) sowie der Nrn. 9405.9912 (Lampenschirme) und ex 9619.0000 (hygienische Binden und Tampons, Windeln und ähnliche Waren aus Spinnstoffen) sind auf Waren mit Ursprung in diesem Land nicht anwendbar, ausgenommen: Waren der Nrn. ex 5007.2010 (Pongée-, Habutai-, Honan-, Shantung oder Corahgewebe und ähnliche ostasiatische Gewebe, ganz aus Seide, nicht mit Schappeseide Bourretteseide oder anderen Spinnstoffen gemischt), 5101.1100/1900, 5307.2000, 5310.1000/9000, 5607.9020, ex 5608.9000 (Jute und Kokosprodukte), 5701.1000/5703.9000, 5705.0000, 5805.0000, 6305.1000, ex 6305.9000 (Kokosprodukte).</td></tr>
 <tr><td>KZ</td><td>Kasachstan</td><td></td><td></td><td></td></tr>
 <tr><td>LA</td><td>Laos</td><td>X</td><td></td><td></td></tr>
 <tr><td>LC</td><td>St. Lucia</td><td></td><td></td><td></td></tr>
@@ -300,7 +301,7 @@ Anhang 2*[^t-2]*
 
 ## Liste der Zollpräferenzen
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 25. März 2009 ([AS 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Juni 2011 ([AS 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), Anhang 3 Ziff. 11 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 2 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Anhang 3 Ziff. 8 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Anhang 2 Ziff. 5 der V vom 29. Juni 2016 über die Änderung des Zolltarifs im Zusammenhang mit Zollansätzen für gewisse Informationstechnologieprodukte, in Kraft seit 1. Jan. 2017 ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 25. März 2009 ([AS 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Bereinigt gemäss Ziff. I Abs. 2 der V vom 10. Juni 2011 ([AS 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), Anhang 3 Ziff. 11 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 2 der V vom 6. Juni 2014 ([AS 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), Anhang 3 Ziff. 8 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Anhang 2 Ziff. 5 der V vom 29. Juni 2016 über die Änderung des Zolltarifs im Zusammenhang mit Zollansätzen für gewisse Informationstechnologieprodukte ([AS 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) und Anhang 3 Ziff. 11 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>Tarif-Nr.[^annex2-lvlu1-1]</th><th colspan="2">Präferenz-Zollansatz</th><th>Zollkontingente; besondere Bestimmungen</th></tr>
@@ -337,13 +338,13 @@ Anhang 2*[^t-2]*
 <tr><td>21 91</td><td></td><td>13.—</td><td></td></tr>
 <tr><td>22 10</td><td>frei</td><td></td><td></td></tr>
 <tr><td>22 91</td><td></td><td>10.—</td><td></td></tr>
-<tr><td>29 10</td><td>frei</td><td></td><td></td></tr>
-<tr><td>29 81</td><td></td><td>10.—</td><td></td></tr>
 </table>
 
 <table>
 <tr><th colspan="2">Tarif-Nr.</th><th colspan="2">Präferenz-Zollansatz</th><th colspan="2">Zollkontingente; besondere Bestimmungen</th></tr>
 <tr><th colspan="2"></th><th>anwendbar</th><th>Normalansatz minus</th><th colspan="2"></th></tr>
+<tr><td colspan="2">29 10</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">29 81</td><td></td><td>10.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0204. 10 10, 21 10</td><td></td><td>10.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">22 10, 23 10</td><td></td><td>10.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">30 10, 41 10</td><td></td><td>10.—</td><td colspan="2"></td></tr>
@@ -409,7 +410,7 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">69 20</td><td>frei</td><td></td><td></td></tr>
 <tr><td colspan="2">0402. 21 11</td><td></td><td>25.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">91 10</td><td></td><td>5.—</td><td colspan="2"></td></tr>
-<tr><td colspan="2">0403. 10 10/10 20</td><td>bT[^annex2-lvlu1-2]</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">0403. 20 91/20 99</td><td>bT[^annex2-lvlu1-2]</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 31, 90 41</td><td>bT</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 49, 90 61</td><td>bT</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 72/90 79</td><td>bT</td><td></td><td colspan="2"></td></tr>
@@ -463,13 +464,13 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">90 90</td><td></td><td>5.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0704. 10 10/10 11</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">10 20/10 21</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">10 30/10 31</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">10 90/10 91</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">20 10/20 11</td><td>5.—</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 11/90 18</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 20/90 21</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 30/90 31</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 40/90 41</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">90 50/90 51</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 60/90 61</td><td>5.—</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 63/90 64</td><td>5.—</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 70/90 71</td><td>5.—</td><td></td><td colspan="2"></td></tr>
@@ -519,9 +520,10 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">70 90</td><td></td><td>5.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">91 10</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">91 20</td><td>5.—</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">92 00/93 00</td><td></td><td>5.—</td><td colspan="2"></td></tr>
+<tr><td colspan="2">92 00</td><td></td><td>5.—</td><td colspan="2"></td></tr>
+<tr><td colspan="2">93 10/93 20</td><td>5.—</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">93 90</td><td></td><td>5.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">99 40/99 41</td><td>5.—</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">99 50/99 51</td><td>5.—</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">99 80</td><td></td><td>5.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">99 99</td><td></td><td>5.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">0710. 40 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
@@ -545,7 +547,7 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">0801. 11 00/19 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">0802. 21 90, 22 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">31 90, 32 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">61 00/90 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">61 00/99 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">0804. 10 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">20 20/50 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">0805. 10 00/29 00</td><td></td><td>5.—</td><td colspan="2"></td></tr>
@@ -645,9 +647,12 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">1508. 10 90</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 18/90 19</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 98/90 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
-<tr><td colspan="2">1509. 10 91/10 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
+<tr><td colspan="2">1509. 20 91/20 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
+<tr><td colspan="2">30 91/30 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
+<tr><td colspan="2">40 91/40 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 91/90 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
-<tr><td colspan="2">1510. 00 91/00 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
+<tr><td colspan="2">1510. 10 90</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
+<tr><td colspan="2">90 91/90 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">1511. 10 90</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 18/90 19</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 98/90 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
@@ -670,12 +675,14 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">30 91/30 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">50 19</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">50 91/50 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
+<tr><td colspan="2">60 91/60 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 13/90 19</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 28/90 29</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 38/90 39</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">90 98/90 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">1516. 10 91/10 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">20 92/20 98</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
+<tr><td colspan="2">30 93/30 99</td><td>frei</td><td></td><td colspan="2">zu technischen Zwecken</td></tr>
 <tr><td colspan="2">1517. 10 62, 10 67</td><td>bT</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">10 72, 10 77</td><td>bT</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">10 82, 10 87</td><td>bT</td><td></td><td colspan="2"></td></tr>
@@ -688,7 +695,7 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">1520. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">1521. 90 20</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">1601. 00 21, 00 31</td><td></td><td>15.—</td><td colspan="2"></td></tr>
-<tr><td colspan="2">00 49</td><td></td><td>15.—</td><td colspan="2"></td></tr>
+<tr><td colspan="2">00 48</td><td></td><td>15.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">1602. 10 10</td><td></td><td>42.50</td><td colspan="2"></td></tr>
 <tr><td colspan="2">20 10</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">31 10, 32 10</td><td></td><td>25.—</td><td colspan="2"></td></tr>
@@ -810,11 +817,15 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">10 29</td><td></td><td>5.50</td><td colspan="2"></td></tr>
 <tr><td colspan="2">2402. 20 10/20 20</td><td>frei</td><td></td><td colspan="2">Beedies</td></tr>
 <tr><td colspan="2">2403. 91 00/99 20</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">2404. 12 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">19 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">91 90</td><td>7.30</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">92 00/99 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">2501. 00 10/</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">2706. 0000</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">2708. 1000</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">2712. 1000/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">2853. 0000</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">2853. 9000</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">2903. 1100/</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">2904. 9090</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">2905. 11 90, 12 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
@@ -842,7 +853,7 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">99 10</td><td></td><td>6.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">99 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3507. 1010/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3603. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">3603. 10 00/60 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3604. 10 00/90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3605. 00 00/</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3808. 99 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
@@ -853,7 +864,7 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">3814. 00 90/</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3816. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3817. 00 90/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3822. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">3822. 90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3823. 11 90</td><td></td><td>1.—</td><td colspan="2"></td></tr>
 <tr><td colspan="2">12 90/13 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">19 90/70 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
@@ -863,7 +874,8 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">99 99</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3825. 10 00/69 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">90 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">3826. 00 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">3826. 00 90/</td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">3827. 90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">3901. 10 00/</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">4911. 99 90</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">5004. 00 10/</td><td></td><td></td><td colspan="2"></td></tr>
@@ -901,7 +913,7 @@ Anhang 2*[^t-2]*
 <tr><td colspan="2">6507. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">6601. 10 00/99 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">6602. 00 00/</td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">9706. 00 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">9706. 90 00</td><td>frei</td><td></td><td colspan="2"></td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang

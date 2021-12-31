@@ -3,11 +3,11 @@ sr: "632.911"
 title: Ordinanza del 16 marzo 2007 concernente le aliquote di dazio preferenziali a favore dei Paesi in sviluppo (Ordinanza sulle preferenze tariffali)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/159"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2007-03-16
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/159/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-159-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/159/20211101/it"
 
 (Ordinanza sulle preferenze tariffali)
 
-del 16 marzo 2007 (Stato 1° novembre 2021)
+del 16 marzo 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -70,12 +70,13 @@ Ai sensi della presente ordinanza sono considerati Paesi in sviluppo i Paesi e t
 
 <sup>6</sup> Il giorno in cui il rispettivo contingente doganale è esaurito, il quantitativo rimanente viene attribuito proporzionalmente ai richiedenti le cui domande sono pervenute quello stesso giorno.
 
-<sup>7</sup> L’Amministrazione federale delle dogane pubblica periodicamente, per via elettronica, lo stato d’utilizzazione dei contingenti doganali.
+<sup>7</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^4-5] pubblica periodicamente, per via elettronica, lo stato d’utilizzazione dei contingenti doganali.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7053](https://fedlex.data.admin.ch/eli/oc/2007/921)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)).
 [^4-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-4]: Nuove voci di tariffa giusta l’all. 3 n. 11 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^4-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -149,7 +150,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi e territori in sviluppo
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dal n. I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dal n. I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dal n. I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)) e del 24 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2012 ([RU 2012 4331](https://fedlex.data.admin.ch/eli/oc/2012/508)). Aggiornato dal n. I dell’O del 17 set. 2010 ([RU 2010 4097](https://fedlex.data.admin.ch/eli/oc/2010/598), [2014 1463](https://fedlex.data.admin.ch/eli/oc/2014/311)), dal n. I dell’O del 20 ago. 2014 ([RU 2014 2749](https://fedlex.data.admin.ch/eli/oc/2014/470)), dal n. I cpv. 1 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. I delle O del 28 mar. 2018 ([RU 2018 1517](https://fedlex.data.admin.ch/eli/oc/2018/228)), del 9 mag. 2018 ([RU 2018 1995](https://fedlex.data.admin.ch/eli/oc/2018/287)), del 18 set. 2020 ([RU 2020 4313](https://fedlex.data.admin.ch/eli/oc/2020/769)), dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dal n. I dell’O del 24 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 597](https://fedlex.data.admin.ch/eli/oc/2021/597)).
 
 - Colonna A: Codice ISO del Paese
 - Colonna B: Nome del Paese
@@ -212,7 +213,7 @@ Allegato 1*[^t-1]*
 <tr><td>KI</td><td>Kiribati</td><td>X</td><td></td><td></td></tr>
 <tr><td>KM</td><td>Comore</td><td>X</td><td>X</td><td></td></tr>
 <tr><td>KN</td><td>Saint Kitts e Nevis</td><td></td><td></td><td></td></tr>
-<tr><td>KP</td><td>Repubblica popolare democratica di Corea</td><td></td><td></td><td>Le aliquote di dazio preferenziali dei capitoli 50–64 della tariffa doganale svizzera (materie tessili, articoli di dette materie e calzature), della voce di tariffa 9405.9912 (paralumi) e della voce ex 9619.0000 (assorbenti e tamponi igienici, pannolini per bambini piccoli e articoli simili di materie tessili) non sono applicabili alle merci originarie di questo Paese, eccettuate le merci delle voci di tariffa ex 5007.2010 (pongée, habutai, honan, shantung, corah e tessuti simili dell’Estremo Oriente, di seta pura non mista con borra di seta, con cascami di borra di seta o con altre materie tessili), 5101.1100/1900, 5307.2000, 5310.1000/9000, 5607.9020, ex 5608.9000 (manufatti di iuta e di cocco), 5701.1000/5703.9000, 5705.0000, 5805.0000, 6305.1000, ex 6305.9000 (manufatti di cocco).</td></tr>
+<tr><td>KP</td><td>Repubblica popolare democratica di Corea</td><td></td><td></td><td>Le aliquote di dazio preferenziali dei capitoli 50–64 della tariffa doganale svizzera (materie tessili, articoli di dette materie e calzature), della voce di tariffa 9405.9912 (paralumi) e della voce ex 9619.0000 (assorbenti e tamponi igienici, pannolini, pannoloni e articoli simili di materie tessili) non sono applicabili alle merci originarie di questo Paese, eccettuate le merci delle voci di tariffa ex 5007.2010 (pongée, habutai, honan, shantung, corah e tessuti simili dell’Estremo Oriente, di seta pura non mista con borra di seta, con cascami di borra di seta o con altre materie tessili), 5101.1100/1900, 5307.2000, 5310.1000/9000, 5607.9020, ex 5608.9000 (manufatti di iuta e di cocco), 5701.1000/5703.9000, 5705.0000, 5805.0000, 6305.1000, ex 6305.9000 (manufatti di cocco).</td></tr>
 <tr><td>KZ</td><td>Kazakistan</td><td></td><td></td><td></td></tr>
 <tr><td>LA</td><td>Laos</td><td>X</td><td></td><td></td></tr>
 <tr><td>LC</td><td>Saint Lucia</td><td></td><td></td><td></td></tr>
@@ -286,7 +287,7 @@ Allegato 2*[^t-2]*
 
 ## Elenco delle preferenze
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 25 mar. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Aggiornato dal n. I cpv. 2 dell’O del 10 giu. 2011 ([RU 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. I cpv. 2 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. 8 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dal n. 5 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione, in vigore dal 1° gen. 2017 ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 25 mar. 2009 ([RU 2009 1149](https://fedlex.data.admin.ch/eli/oc/2009/188)). Aggiornato dal n. I cpv. 2 dell’O del 10 giu. 2011 ([RU 2011 2541](https://fedlex.data.admin.ch/eli/oc/2011/359)), dal n. 11 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. I cpv. 2 dell’O del 6 giu. 2014 ([RU 2014 1573](https://fedlex.data.admin.ch/eli/oc/2014/313)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), dal n. 8 dell’all. 3 all’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. 5 dell’all. 2 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)) e dall’all. 3 n. 11 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th colspan="2">Voce di tariffa[^annex2-lvlu1-1]</th><th colspan="2">Aliquota di dazio preferenziale</th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -322,14 +323,15 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>21 10</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>21 91</td><td></td><td>13.—</td><td></td><td></td></tr>
 <tr><td></td><td>22 10</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>22 91</td><td></td><td>10.—</td><td></td><td></td></tr>
-<tr><td></td><td>29 10</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>29 81</td><td></td><td>10.—</td><td></td><td></td></tr>
 </table>
 
 <table>
 <tr><th colspan="2">Voce di tariffa</th><th colspan="2">Aliquota di dazio preferenziale</th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
 <tr><th colspan="2"></th><th>applicabile</th><th>Aliquota normale meno</th><th></th><th></th></tr>
+<tr><td></td><td>22 10</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>22 91</td><td></td><td>10.—</td><td></td><td></td></tr>
+<tr><td></td><td>29 10</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>29 81</td><td></td><td>10.—</td><td></td><td></td></tr>
 <tr><td>0204.</td><td>10 10, 21 10</td><td></td><td>10.—</td><td></td><td></td></tr>
 <tr><td></td><td>22 10, 23 10</td><td></td><td>10.—</td><td></td><td></td></tr>
 <tr><td></td><td>30 10, 41 10</td><td></td><td>10.—</td><td></td><td></td></tr>
@@ -395,7 +397,7 @@ Allegato 2*[^t-2]*
 <tr><td colspan="2">69 20</td><td>esente</td><td></td><td colspan="2"></td></tr>
 <tr><td>0402.</td><td>21 11</td><td></td><td>25.—</td><td></td><td></td></tr>
 <tr><td></td><td>91 10</td><td></td><td>5.—</td><td></td><td></td></tr>
-<tr><td>0403.</td><td>10 10/10 20</td><td>em[^annex2-lvlu1-2]</td><td></td><td></td><td></td></tr>
+<tr><td>0403.</td><td>20 91/20 99</td><td>em[^annex2-lvlu1-2]</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 31, 90 41</td><td>em</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 49, 90 61</td><td>em</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 72/90 79</td><td>em</td><td></td><td></td><td></td></tr>
@@ -449,13 +451,13 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>90 90</td><td></td><td>5.—</td><td></td><td></td></tr>
 <tr><td>0704.</td><td>10 10/10 11</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>10 20/10 21</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>10 30/10 31</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>10 90/10 91</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>20 10/20 11</td><td>5.—</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 11/90 18</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 20/90 21</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 30/90 31</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 40/90 41</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>90 50/90 51</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 60/90 61</td><td>5.—</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 63/90 64</td><td>5.—</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 70/90 71</td><td>5.—</td><td></td><td></td><td></td></tr>
@@ -505,9 +507,10 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>70 90</td><td></td><td>5.—</td><td></td><td></td></tr>
 <tr><td></td><td>91 10</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>91 20</td><td>5.—</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>92 00/93 00</td><td></td><td>5.—</td><td></td><td></td></tr>
+<tr><td></td><td>92 00</td><td></td><td>5.—</td><td></td><td></td></tr>
+<tr><td></td><td>93 10/93 20</td><td>5.—</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>93 90</td><td></td><td>5.—</td><td></td><td></td></tr>
 <tr><td></td><td>99 40/99 41</td><td>5.—</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>99 50/99 51</td><td>5.—</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>99 80</td><td></td><td>5.—</td><td></td><td></td></tr>
 <tr><td></td><td>99 99</td><td></td><td>5.—</td><td></td><td></td></tr>
 <tr><td>0710.</td><td>40 00</td><td>esente</td><td></td><td></td><td></td></tr>
@@ -531,7 +534,7 @@ Allegato 2*[^t-2]*
 <tr><td>0801.</td><td>11 00/19 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>0802.</td><td>21 90, 22 90</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>31 90, 32 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>61 00/90 90</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>61 00/99 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>0804.</td><td>10 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>20 20/50 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>0805.</td><td>10 00/29 00</td><td></td><td>5.—</td><td></td><td></td></tr>
@@ -631,9 +634,12 @@ Allegato 2*[^t-2]*
 <tr><td>1508.</td><td>10 90</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 18/90 19</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 98/90 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
-<tr><td>1509.</td><td>10 91/10 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
+<tr><td>1509.</td><td>20 91/20 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
+<tr><td></td><td>30 91/30 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
+<tr><td></td><td>40 91/40 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 91/90 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
-<tr><td>1510.</td><td>00 91/00 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
+<tr><td>1510.</td><td>10 90</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
+<tr><td></td><td>90 91/90 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td>1511.</td><td>10 90</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 18/90 19</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 98/90 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
@@ -656,12 +662,14 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>30 91/30 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>50 19</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>50 91/50 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
+<tr><td></td><td>60 91/60 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 13/90 19</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 28/90 29</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 38/90 39</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>90 98/90 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td>1516.</td><td>10 91/10 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td></td><td>20 92/20 98</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
+<tr><td></td><td>30 93/30 99</td><td>esente</td><td></td><td></td><td>per usi tecnici</td></tr>
 <tr><td>1517.</td><td>10 62, 10 67</td><td>em</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>10 72, 10 77</td><td>em</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>10 82, 10 87</td><td>em</td><td></td><td></td><td></td></tr>
@@ -674,7 +682,7 @@ Allegato 2*[^t-2]*
 <tr><td>1520.</td><td>00 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>1521.</td><td>90 20</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>1601.</td><td>00 21, 00 31</td><td></td><td>15.—</td><td></td><td></td></tr>
-<tr><td></td><td>00 49</td><td></td><td>15.—</td><td></td><td></td></tr>
+<tr><td></td><td>00 48</td><td></td><td>15.—</td><td></td><td></td></tr>
 <tr><td>1602.</td><td>10 10</td><td></td><td>42.50</td><td></td><td></td></tr>
 <tr><td></td><td>20 10</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>31 10, 32 10</td><td></td><td>25.—</td><td></td><td></td></tr>
@@ -796,11 +804,15 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>10 29</td><td></td><td>5.50</td><td></td><td></td></tr>
 <tr><td>2402.</td><td>20 10/20 20</td><td>esente</td><td></td><td></td><td>Beedies</td></tr>
 <tr><td>2403.</td><td>91 00/99 20</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td>2404.</td><td>12 90</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>19 90</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>91 90</td><td>7.30</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>92 00/99 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>2501.</td><td>00 10/</td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>2706. 0000</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>2708.</td><td>1000</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>2712.</td><td>1000/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>2853. 0000</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td>2853.</td><td>9000</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>2903.</td><td>1100/</td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>2904.9090</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>2905.</td><td>11 90, 12 90</td><td>esente</td><td></td><td></td><td></td></tr>
@@ -828,7 +840,7 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>99 10</td><td></td><td>6.—</td><td></td><td></td></tr>
 <tr><td></td><td>99 90</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>3507</td><td>1010/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3603. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td>3603.</td><td>10 00/60 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>3604.</td><td>10 00/90 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>3605.</td><td>00 00/</td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>3808. 99 00</td><td>esente</td><td></td><td></td><td></td></tr>
@@ -839,7 +851,7 @@ Allegato 2*[^t-2]*
 <tr><td>3814.</td><td>00 90/</td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>3816. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>3817.</td><td>00 90/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>3822. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>3822.90 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>3823.</td><td>11 90</td><td></td><td>1.—</td><td></td><td></td></tr>
 <tr><td></td><td>12 90/13 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>19 90/70 00</td><td>esente</td><td></td><td></td><td></td></tr>
@@ -849,7 +861,8 @@ Allegato 2*[^t-2]*
 <tr><td></td><td>99 99</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>3825.</td><td>10 00/69 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>90 90</td><td>esente</td><td></td><td></td><td></td></tr>
-<tr><td>3826.</td><td>00 90</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td>3826.</td><td>00 90/</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>3827.90 00</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3901.</td><td>10 00/</td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>4911.99 90</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>5004.</td><td>00 10/</td><td></td><td></td><td></td><td></td></tr>
@@ -886,7 +899,7 @@ Allegato 2*[^t-2]*
 <tr><td>6401.</td><td>10 00/</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>6601.</td><td>10 00/99 00</td><td>esente</td><td></td><td></td><td></td></tr>
 <tr><td>6602.</td><td>00 00/</td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td>9706. 00 00</td><td>esente</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>9706. 90 00</td><td>esente</td><td></td><td></td><td></td></tr>
 </table>
 
 [^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
