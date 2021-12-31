@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. November 2021)
+vom 18. Mai 2005 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -360,7 +360,7 @@ Die Gebührenpflicht und die Gebührenbemessung für Verwaltungshandlungen der B
 
 <sup>3</sup> Gesuche um Ausnahmebewilligungen, die bei Inkrafttreten dieser Verordnung hängig sind, werden nach dieser Verordnung beurteilt.
 
-[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254), [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911), [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270)[2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420), [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749), [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678), [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 Ziff. 2 [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 14 [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505), [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697), [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009)[2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Anhang 5 Ziff. 3, [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10)[1362](https://fedlex.data.admin.ch/eli/oc/1999/192)[2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Anhang 2 Ziff. 3, [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 9 [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 Abs. 2, [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Anhang Ziff. 2 [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 6, [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)[1345](https://fedlex.data.admin.ch/eli/oc/2003/230)[5421](https://fedlex.data.admin.ch/eli/oc/2003/788)Ziff. II 2, [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411)[4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. I 1]
+[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270), [2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 Ziff. 2 [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425), Anhang 1 Ziff. II 14, [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009), [2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Anhang 5 Ziff. 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10), [1362](https://fedlex.data.admin.ch/eli/oc/1999/192), [2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Anhang 2 Ziff. 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)Ziff. II 9, [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 Abs. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Anhang Ziff. 2, [1758](https://fedlex.data.admin.ch/eli/oc/2001/275), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171), [1345](https://fedlex.data.admin.ch/eli/oc/2003/230), [5421](https://fedlex.data.admin.ch/eli/oc/2003/788)Ziff. II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411), [4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. I 1]
 
 #### Art. 24
 
@@ -744,7 +744,9 @@ Einer Einfuhrbewilligung des BAFU bedarf, wer ozonschichtabbauende Stoffe nach Z
 
 <sup>2</sup> Eine Generaleinfuhrbewilligung berechtigt deren Inhaberin, von bestimmten ausländischen Exporteurinnen bestimmte Mengen ozonschichtabbauender Stoffe einzuführen. Sie ist persönlich und nicht übertragbar.
 
-<sup>3</sup> Das BAFU informiert die Kantone und die Eidgenössische Zollverwaltung über die Erteilung und den Entzug von Generaleinfuhrbewilligungen.
+<sup>3</sup> Das BAFU informiert die Kantone und das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^annex14-lvlu1-lvl3-lvl33-lvl333-1] über die Erteilung und den Entzug von Generaleinfuhrbewilligungen.
+
+[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ### 3.3.4 Gesuch
 
@@ -806,7 +808,7 @@ Eine Ausfuhrbewilligung wird auf Gesuch erteilt, wenn die Ausfuhr in Staaten erf
 
 <sup>2</sup> Eine Einzelausfuhrbewilligung berechtigt deren Inhaberin zur einmaligen Ausfuhr bestimmter Mengen ozonschichtabbauender Stoffe an eine bestimmte ausländische Importeurin in einem Staat, der sich an die von der Schweiz genehmigten Bestimmungen des Montrealer Protokolls hält. Sie ist persönlich und nicht übertragbar.
 
-<sup>3</sup> Das BAFU informiert die Kantone und die Eidgenössische Zollverwaltung über die Erteilung und den Entzug von Ausfuhrbewilligungen.
+<sup>3</sup> Das BAFU informiert die Kantone und das BAZG über die Erteilung und den Entzug von Ausfuhrbewilligungen.
 
 ### 4.2.4 Gesuch
 
@@ -913,7 +915,7 @@ Anhang 1.5*[^t-6]*
 
 ## In der Luft stabile Stoffe
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Bereinigt gemäss Anhang der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Begriffe
 
@@ -923,6 +925,15 @@ Anhang 1.5*[^t-6]*
 - b andere fluorhaltige organische Verbindungen[^annex15-lvlu1-lvl1-2] mit einem Dampfdruck von mindestens 0,1 mbar bei 20 ºC oder mit einem Siedepunkt von höchstens 240 °C bei 1013,25 mbar, deren mittlere Lebensdauer in der Luft mindestens 2 Jahre beträgt;
 - c. Schwefelhexafluorid (CAS-Nr. 2551-62-4);
 - d. Stickstofftrifluorid (CAS-Nr. 7783-54-2).
+
+<sup>1bis</sup> Für die Pflicht nach Ziffer 9 Absatz 2 gilt zudem Distickstoffoxid (CAS-Nr. 10024-97-2) als in der Luft stabiler Stoff, soweit das Distickstoffoxid als Nebenprodukt bei der Herstellung folgender Stoffe entsteht:
+
+- a. Salpetersäure (CAS-Nr. 7697-37-2);
+- b. Caprolactam (CAS-Nr. 105-60-2);
+- c. Adipinsäure (CAS-Nr. 124-04-9);
+- d. Glyoxal (CAS-Nr. 107-22-2) sowie Glyoxylsäure;
+- e. Nicotinsäure (CAS-Nr. 59-67-6);
+- f. anderer als in den Buchstaben a–e genannter Stoffe, die aus der Reaktion mit Stickstoffoxiden oder Salpetersäure entstanden sind, wenn Distickstoffoxid in vergleichbarem Umfang wie bei der Herstellung der Stoffe nach den Buchstaben a–e entsteht.
 
 <sup>2</sup> In der Luft stabilen Stoffen gleichgestellt sind Zubereitungen mit Stoffen nach Absatz 1, sofern sie sich in Behältern befinden, die ausschliesslich dem Transport oder der Lagerung dieser Zubereitungen dienen.
 
@@ -975,7 +986,7 @@ Eine Einfuhrbewilligung wird, unter Vorbehalt von Ziffer 8 Absatz 1, auf Gesuch 
 
 <sup>2</sup> Eine Generaleinfuhrbewilligung berechtigt deren Inhaberin, von bestimmten ausländischen Exporteurinnen bestimmte Mengen teilhalogenierter Fluorkohlenwasserstoffe einzuführen. Sie ist persönlich und nicht übertragbar.
 
-<sup>3</sup> Das BAFU informiert die Kantone und die Eidgenössische Zollverwaltung über die Erteilung und den Entzug von Generaleinfuhrbewilligungen.
+<sup>3</sup> Das BAFU informiert die Kantone und das BAZG über die Erteilung und den Entzug von Generaleinfuhrbewilligungen.
 
 ### 4.3.4 Gesuch
 
@@ -1032,7 +1043,7 @@ Eine Ausfuhrbewilligung wird erteilt, wenn die Gesuchstellerin ein vollständige
 
 <sup>2</sup> Eine Einzelausfuhrbewilligung berechtigt deren Inhaberin zur einmaligen Ausfuhr bestimmter Mengen teilhalogenierter Fluorkohlenwasserstoffe. Sie ist persönlich und nicht übertragbar.
 
-<sup>3</sup> Das BAFU informiert die Kantone und die Eidgenössische Zollverwaltung über die Erteilung und den Entzug von Ausfuhrbewilligungen.
+<sup>3</sup> Das BAFU informiert die Kantone und das BAZG über die Erteilung und den Entzug von Ausfuhrbewilligungen.
 
 ### 5.4 Gesuch
 
@@ -1182,9 +1193,17 @@ Das BAFU ist für die Datenberichterstattung gemäss Artikel 7 Absatz 3 des Mont
 
 [^annex15-lvlu1-lvl8-1]: Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 195.
 
-### 9 Sorgfaltspflicht bei chemischen Umwandlungsprozessen
+### 9 Pflichten bei chemischen Umwandlungsprozessen
 
-Wer chemische Umwandlungsprozesse veranlasst, bei denen als Nebenprodukt in der Luft stabile Stoffe entstehen können, darf höchstens 0,5 % in der Luft stabile Stoffe, bezogen auf die eingesetzte Menge des Ausgangsstoffes, emittieren.
+<sup>1</sup> Wer chemische Umwandlungsprozesse veranlasst, bei denen als Nebenprodukt in der Luft stabile Stoffe nach Ziffer 1 Absatz 1 entstehen können, darf höchstens 0,5 Prozent dieser Stoffe, bezogen auf die eingesetzte Menge des Ausgangsstoffes, emittieren.
+
+<sup>2</sup> Wer Stoffe nach Ziffer 1 Absatz 1<sup>bis</sup> herstellt, muss als Nebenprodukt entstehendes Distickstoffoxid nach dem Stand der Technik umwandeln, wenn dies technisch und betrieblich möglich und wirtschaftlich tragbar ist.
+
+### 9<sup>bis</sup> Überwachung der Umwandlung von Distickstoffoxid aus Herstellungsprozessen
+
+<sup>1</sup> Das BAFU überwacht die Einhaltung der Pflicht nach Ziffer 9 Absatz 2.
+
+<sup>2</sup> Ergibt die Überwachung, dass die Pflicht nicht eingehalten wird, so trifft es die erforderlichen Massnahmen. Wenn nötig verfügt es die Stilllegung des betreffenden Herstellungsprozesses.
 
 ### 10 Übergangsbestimmung
 
@@ -1192,6 +1211,10 @@ Für Behälter, die in der Luft stabile Stoffe, die in Anhang A des Protokolls v
 
 [^annex15-lvlu1-lvl10-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex15-lvlu1-lvl10-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+
+### 11 Übergangsbestimmung zur Änderung vom 24. November 2021
+
+Stoffe nach Ziffer 1 Absatz 1<sup>bis</sup> Buchstabe f dürfen noch bis zum 30. Juni 2023 ohne Umwandlung des entstehenden Distickstoffoxids hergestellt werden.
 
 Anhang 1.6*[^t-7]*
 
@@ -1250,7 +1273,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen in mindestens zwei Amtssprachen und nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -2350,7 +2373,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 
 <sup>2</sup> Die Anmeldestelle führt ein Verzeichnis über die Meldungen nach den Absätzen 1 und 1<sup>bis</sup>.
 
-### 4 ...
+### 4 …
 
 ### 5 Liste der Stoffe nach Ziffer 1 und Übergangsbestimmungen
 
@@ -2360,7 +2383,7 @@ Das Inverkehrbringen zur Verwendung der in Ziffer 5 aufgelisteten Stoffe und von
 <tr><th>Eintrag Nr.</th><th>Stoff</th><th>Verbotsbegründende inhärente Eigenschaften</th><th>Übergangsfrist</th><th>Ausgenommene Verwendungen oder Verwendungskategorien</th><th>Überprüfungszeiträume</th></tr>
 <tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylol (Moschus-Xylol) EG-Nr.: 201-329-4 CAS-Nr.: 81-15-2</td><td>vPvB</td><td>21. August 2014</td><td>–</td><td>–</td></tr>
 <tr><td>2.</td><td>4,4’-Diaminodiphenylmethan (MDA) EG-Nr.: 202-974-4 CAS-Nr.: 101-77-9</td><td>Krebserzeugend (Kategorie 1B)</td><td>21. August 2014</td><td>–</td><td>–</td></tr>
-<tr><td>3.</td><td>...</td><td>...</td><td>...</td><td>–</td><td>–</td></tr>
+<tr><td>3.</td><td>…</td><td>…</td><td>…</td><td>–</td><td>–</td></tr>
 <tr><td>4.</td><td>Bis(2-ethylhexyl)-phthalat (DEHP) EG-Nr.: 204-211-0 CAS-Nr.: 117-81-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004[^annex117-lvlu1-lvl5-1], die Richtlinie 2001/82/EG[^annex117-lvlu1-lvl5-2] und/ oder die Richtlinie 2001/83/EG[^annex117-lvlu1-lvl5-3] fallen</td><td></td></tr>
 <tr><td>5.</td><td>Benzylbutylphthalat (BBP) EG-Nr.: 201-622-7 CAS Nr.: 85-68-7</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004, die Richtlinie 2001/82/EG und/oder die Richtlinie 2001/83/EG fallen</td><td></td></tr>
 <tr><td>6.</td><td>Dibutylphthalat (DBP) EG-Nr.: 201-557-4 CAS Nr.: 84-74-2</td><td>Fortpflanzungsgefährdend (Kategorie 1B)</td><td>21. Februar 2015</td><td>Verwendungen in der Primärverpackung von Arzneimitteln, die unter die Verordnung (EG) Nr. 726/2004, die Richtlinie 2001/82/ EG und/oder die Richtlinie 2001/83/EG fallen</td><td></td></tr>
@@ -3855,7 +3878,7 @@ Anhang 2.9*[^t-28]*
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 
@@ -4516,7 +4539,7 @@ Anhang 2.15*[^t-33]*
 
 ## Batterien
 
-[^t-33]: Fassung gemäss Ziff. I 5 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015, ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) und Ziff. I der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-33]: Fassung gemäss Ziff. I 5 der V vom 10. Dez. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. II 2 der V vom 20. Okt. 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte, in Kraft seit. 1. Jan. 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 ### 1 Begriffe
 
@@ -4547,7 +4570,7 @@ Anhang 2.15*[^t-33]*
 
 ### 3 Ausnahmen
 
-<sup>1</sup> ...
+<sup>1</sup> …
 
 <sup>2</sup> Das Verbot nach Ziffer 2 Absatz 2 gilt nicht für Gerätebatterien, die zur Verwendung bestimmt sind in:
 
@@ -4657,13 +4680,13 @@ Die Organisation darf die Gebühr ausschliesslich für die Finanzierung folgende
 
 <sup>2</sup> Das BAFU schliesst mit der Organisation jeweils für längstens fünf Jahre einen Vertrag ab. Dieser regelt insbesondere den Anteil der Gebühr, den die Organisation für ihre eigenen Tätigkeiten beanspruchen darf, sowie die Voraussetzungen und Folgen einer vorzeitigen Vertragsauflösung.
 
-<sup>3</sup> Die Organisation muss unabhängige Dritte mit der Revision betrauen. Sie muss ihnen alle erforderlichen Auskünfte erteilen und Akteneinsicht gewähren.
+<sup>3</sup> Die Organisation muss interne Kontrollen der Geschäftsführung durchführen und vom BAFU genehmigte, unabhängige Dritte mit der Prüfung der internen Kontrollergebnisse und mit der Revision betrauen. Sie muss ihnen alle erforderlichen Auskünfte erteilen und Akteneinsicht gewähren.
 
 <sup>4</sup> Die Organisation hat das Geschäftsgeheimnis der Gebührenpflichtigen und der Entsorger zu wahren.
 
-<sup>5</sup> Die Eidgenössische Zollverwaltung darf der Organisation die Angaben in den Zollanmeldungen sowie weitere Feststellungen im Zusammenhang mit der Ein‑ oder Ausfuhr von Batterien mitteilen.
+<sup>5</sup> Das BAZG darf der Organisation die Angaben in den Zollanmeldungen sowie weitere Feststellungen im Zusammenhang mit der Ein‑ oder Ausfuhr von Batterien mitteilen.
 
-<sup>6</sup> Die Organisation kann mit der Eidgenössischen Zollverwaltung die Erhebung der Gebühr bei der Einfuhr vereinbaren. In diesem Fall gilt für die Erhebung, die Fälligkeit und die Zinsen die Zollgesetzgebung.
+<sup>6</sup> Die Organisation kann mit dem BAZG die Erhebung der Gebühr bei der Einfuhr vereinbaren. In diesem Fall gilt für die Erhebung, die Fälligkeit und die Zinsen die Zollgesetzgebung.
 
 ### 6.8 Aufsicht über die Organisation
 
@@ -4944,7 +4967,7 @@ Fahrzeugwerkstoffe und -bauteile sind nach Anhang II der Richtlinie 2000/53/EG[^
 
 [^annex216-lvlu1-lvl5-lvl55-1]: Siehe Fussnote zu Ziffer 5.3 Absatz 1.
 
-### 6 ...
+### 6 …
 
 ### 7 Übergangsbestimmungen
 

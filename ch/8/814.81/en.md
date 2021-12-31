@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20211101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 November 2021)
+of 18 May 2005 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -362,7 +362,7 @@ The obligation to pay fees and the calculation of fees for administrative acts p
 
 <sup>3</sup> Applications for exemptions which are pending when this Ordinance comes into force shall be assessed according to this Ordinance.
 
-[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254), [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911), [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270)[2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420), [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981), [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749), [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678), [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 No 2 [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 14 [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505), [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697), [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009)[2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Annex 5 No 3, [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10)[1362](https://fedlex.data.admin.ch/eli/oc/1999/192)[2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Annex 2 No 3, [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 9 [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 para. 2, [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Annex No 2 [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 6, [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)[1345](https://fedlex.data.admin.ch/eli/oc/2003/230)[5421](https://fedlex.data.admin.ch/eli/oc/2003/788)No II 2, [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411)[4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No I 1]
+[^23-1]: [[AS 1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254); [1988 911](https://fedlex.data.admin.ch/eli/oc/1988/911_911_911); [1989 270](https://fedlex.data.admin.ch/eli/oc/1989/270_270_270)[2420](https://fedlex.data.admin.ch/eli/oc/1989/2420_2420_2420); [1991 1981](https://fedlex.data.admin.ch/eli/oc/1991/1981_1981_1981); [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749); [1994 678](https://fedlex.data.admin.ch/eli/oc/1994/678_678_678); [1995 1491](https://fedlex.data.admin.ch/eli/oc/1995/1491_1491_1491)Art. 440 No 2 [4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Annex 1 No II 14 [5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1997 697](https://fedlex.data.admin.ch/eli/oc/1997/697_697_697); [1998 2009](https://fedlex.data.admin.ch/eli/oc/1998/2009_2009_2009)[2863](https://fedlex.data.admin.ch/eli/oc/1998/2863_2863_2863)Annex 5 No 3; [1999 39](https://fedlex.data.admin.ch/eli/oc/1999/10)[1362](https://fedlex.data.admin.ch/eli/oc/1999/192)[2045](https://fedlex.data.admin.ch/eli/oc/1999/321)Annex 2 No 3; [2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)No II 9 [1949](https://fedlex.data.admin.ch/eli/oc/2000/299)Art. 22 para. 2; [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)Annex No 2 [1758](https://fedlex.data.admin.ch/eli/oc/2001/275)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 6; [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)[1345](https://fedlex.data.admin.ch/eli/oc/2003/230)[5421](https://fedlex.data.admin.ch/eli/oc/2003/788)No II 2; [2004 3209](https://fedlex.data.admin.ch/eli/oc/2004/411)[4037](https://fedlex.data.admin.ch/eli/oc/2004/591)No I 7. [AS 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No I 1].
 
 #### Art. 24
 
@@ -746,7 +746,9 @@ Any person wishing to import substances that deplete the ozone layer as specifie
 
 <sup>2</sup> A general import licence entitles the holder to import specific quantities of substances that deplete the ozone layer from specific foreign exporters. It is personal and non-transferable.
 
-<sup>3</sup> The FOEN shall inform the cantons and the Federal Customs Administration of the granting and revocation of general import licences.
+<sup>3</sup> The FOEN shall inform the cantons and the Federal Office for Customs and Border Security (FOCBS)[^annex14-lvlu1-lvl3-lvl33-lvl333-1] of the granting and revocation of general import licences.
+
+[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 ### 3.3.4 Application
 
@@ -808,7 +810,7 @@ An export licence is granted on application, provided the export is to countries
 
 <sup>2</sup> An export licence entitles the holder to export, on one occasion, specific quantities of substances that deplete the ozone layer to a specific foreign importer in a country that complies with the Montreal Protocol provisions approved by Switzerland. It is personal and non-transferable.
 
-<sup>3</sup> The FOEN shall inform the cantons of the granting and revocation of export licences.
+<sup>3</sup> The FOEN shall inform the cantons and the FOCBS of the granting and revocation of export licences.
 
 ### 4.2.4 Application
 
@@ -916,7 +918,7 @@ Annex 1.5*[^t-6]*
 
 ## Substances stable in the atmosphere
 
-[^t-6]: Amended by No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-6]: Amended by No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Revised by the Annex to the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Definition
 
@@ -926,6 +928,15 @@ Annex 1.5*[^t-6]*
 - b. other fluorinated organic compounds[^annex15-lvlu1-lvl1-2] with a vapour pressure of at least 0.1 mbar at 20ºC or whose boiling point does not exceed 240ºC at 1013.25 mbar, and which have a mean atmospheric lifetime of at least 2 years;
 - c. sulphur hexafluoride (CAS no 2551-62-4);
 - d. nitrogen trifluoride (CAS no 7783-54-2).
+
+<sup>1bis</sup> For the purposes of the obligation in accordance with Number 9 paragraph 2, nitrous oxide (CAS no 10024-97-2) also applies as a substance stable in the atmosphere, provided the nitrous oxide is generated as a by-product in the manufacture of the following substances:
+
+- a. nitric acid (CAS no 7697-37-2);
+- b. caprolactam (CAS no 105-60-2);
+- c. adipic acid (CAS no 124-04-9);
+- d. glyoxal (CAS no 107-22-2) and glyoxylic acid;
+- e. nicotinic acid (CAS no 59-67-6);
+- f. substances other than those named in letters a–e that are generated from a reaction with nitrous oxides or nitric acid, provided nitrous oxide is generated in a comparable volume to that in the manufacture of the substances named in letters a–e.
 
 <sup>2</sup> Preparations containing substances specified in paragraph 1 are deemed equivalent to substances stable in the atmosphere if they are found in containers used solely for the transport or storage of these preparations.
 
@@ -978,7 +989,7 @@ Without prejudice to Number 8 paragraph 1, an import licence is granted on appli
 
 <sup>2</sup> A general import licence entitles the holder to import specific quantities of hydrofluorocarbons from specific foreign exporters. It is personal and non-transferable.
 
-<sup>3</sup> The FOEN shall inform the cantons and the Federal Customs Administration of the granting and revocation of general import licences.
+<sup>3</sup> The FOEN shall inform the cantons and the FOCBS of the granting and revocation of general import licences.
 
 ### 4.3.4 Application
 
@@ -1035,7 +1046,7 @@ An export licence is issued if the applicant submits a complete application as s
 
 <sup>2</sup> A specific export licence entitles the holder to export, on one occasion, specific quantities of hydrofluorocarbons. It is personal and non-transferable.
 
-<sup>3</sup> The FOEN shall inform the cantons and the Federal Customs Administration of the granting and revocation of export licences.
+<sup>3</sup> The FOEN shall inform the cantons and the FOCBS of the granting and revocation of export licences.
 
 ### 5.4 Application
 
@@ -1162,10 +1173,10 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 
 <sup>2</sup> Reporting is not required for:
 
-- a. appliances or systems containing more than 1kg sulphur hexafluoride in hermetically sealed pressure systems in accordance with SN EN 62271-1:2008[^annex15-lvlu1-lvl7-lvl72-lvl722-1] if one party to a sectoral agreement assumes responsibility for reporting.
+- a. appliances or systems containing more than 1kg sulphur hexafluoride in hermetically sealed pressure systems in accordance with SN EN 62271-1:2008[^annex15-lvlu1-lvl8-lvl72-lvl722-1] if one party to a sectoral agreement assumes responsibility for reporting.
 - b. appliances or systems serving the interests of national defence.
 
-[^annex15-lvlu1-lvl7-lvl72-lvl722-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex15-lvlu1-lvl8-lvl72-lvl722-1]: This standard may be viewed free of charge at or obtained for a fee from the Schweizerische Normenvereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 7.3 Reporting by the FOEN
 
@@ -1173,7 +1184,7 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 
 ### 8 Special labelling
 
-<sup>1</sup> The manufacturer may only place on the market containers containing or designed to contain substances listed in Annex I to Regulation (EU) No 517/2014[^annex15-lvlu1-lvl8-1] or switchgear containing sulphur hexafluoride or preparations with sulphur hexafluoride, if they are labelled with the following information:
+<sup>1</sup> The manufacturer may only place on the market containers containing or designed to contain substances listed in Annex I to Regulation (EU) No 517/2014[^annex15-lvlu1-lvl9-1] or switchgear containing sulphur hexafluoride or preparations with sulphur hexafluoride, if they are labelled with the following information:
 
 - a. the text: «Contains fluorinated greenhouse gases»;
 - b. the abbreviated chemical names for the substances stable in the atmosphere contained or designed to be contained in the containers or systems, using the industry nomenclature accepted for the area concerned;
@@ -1183,18 +1194,30 @@ The reporting requirements specified in Number 7.1.1 paragraph 1 do not apply to
 
 <sup>3</sup> The labelling specified in paragraphs 1 and 2 must appear in at least two official languages and be visible, clearly legible and indelible.
 
-[^annex15-lvlu1-lvl8-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
+[^annex15-lvlu1-lvl9-1]: Regulation (EU) No 517/2014 of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation (EC) No 842/2006, version in accordance with OJ L 150 of 20.5.2014, p. 195.
 
-### 9 Duty of care in relation to chemical conversion processes
+### 9 Obligations in relation to chemical conversion processes
 
-Any person who initiates chemical conversion processes in which substances stable in the atmosphere may be generated as a by-product shall ensure that no more than 0.5% of the quantity of starting material used is emitted as substances stable in the atmosphere.
+<sup>1</sup> Any person who initiates chemical conversion processes in which substances stable in the atmosphere in accordance with Number 1 paragraph 1 may be generated as a by-product shall ensure that no more than 0.5% of the quantity of starting material used is emitted as these substances.
+
+<sup>2</sup> Any person who manufactures substances in accordance with Number 1 paragraph 1<sup>bis</sup> must convert the nitrous oxide generated as a by-product in accordance with the state of the art provided this is technically and operationally feasible and economically viable.
+
+### 9<sup>bis</sup> Monitoring the conversion of nitrous oxide from manufacturing processes
+
+<sup>1</sup> The FOEN shall monitor compliance with the obligation in accordance with Number 9 paragraph 2.
+
+<sup>2</sup> If the monitoring indicates that the obligation is not being complied with, the FOEN shall take the measures required. If necessary, it shall order the discontinuation of the manufacturing process concerned.
 
 ### 10 Transitional provision
 
-For containers containing substances stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex15-lvlu1-lvl10-1] (Kyoto Protocol) and switchgear containing sulphur hexafluoride or preparations with sulphur hexafluoride, labelling as specified in Number 5 of the ORRChem in the version of 11 December 2010[^annex15-lvlu1-lvl10-2] remains permitted until 31 May 2020.
+For containers containing substances stable in the atmosphere which are listed in Annex A to the Kyoto Protocol to the United Nations Framework Convention on Climate Change of 11 December 1997[^annex15-lvlu1-lvl11-1] (Kyoto Protocol) and switchgear containing sulphur hexafluoride or preparations with sulphur hexafluoride, labelling as specified in Number 5 of the ORRChem in the version of 11 December 2010[^annex15-lvlu1-lvl11-2] remains permitted until 31 May 2020.
 
-[^annex15-lvlu1-lvl10-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^annex15-lvlu1-lvl10-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex15-lvlu1-lvl11-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex15-lvlu1-lvl11-2]: [AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+
+### 11 Transitional provision to the Amendment of 24 November 2021
+
+Substances in accordance with Number 1 paragraph 1<sup>bis</sup> letter f may continue to be manufactured until 30 June 2023 without converting the nitrous oxide generated.
 
 Annex 1.6*[^t-7]*
 
@@ -1253,7 +1276,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must appear in at least two official languages and comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1320,7 +1343,7 @@ Annex 1.7*[^t-8]*
   - 8\. pycnometers,
   - 9\. instruments for the determination of the softening point;
 
-- c.[^annex17-lvlu1-lvl1-lvl11-1] Switches and relays containing mercury (CAS-Nr. 7439-97-6);
+- c.[^annex17-lvlu1-lvl1-lvl11-1] Switches and relays containing mercury (CAS no 7439-97-6);
 - d.
 
   the following product types that contain mercury compounds:
@@ -2159,7 +2182,7 @@ Annex 1.16*[^t-17]*
 <sup>2</sup> Paragraph 1 does not apply to:
 
 - a. substances with the molecular formula C<sub>8</sub>F<sub>17</sub>X, where X = F, Cl or Br;
-- b. perfluoronanoic acid (CAS-Nr. 375-95-1), its salts and derivatives with the structural element C<sub>8</sub>F<sub>17</sub>(CO)OX, where X = any group;
+- b. perfluoronanoic acid (CAS no 375-95-1), its salts and derivatives with the structural element C<sub>8</sub>F<sub>17</sub>(CO)OX, where X = any group;
 - c. other fluorinated compounds with the structural element C<sub>8</sub>F<sub>17</sub>(CF<sub>2</sub>)X, where X = any group.
 
 ### 2.2 Relationship with PFOS
@@ -2358,61 +2381,61 @@ It is prohibited to place on the market for use the substances listed in Number 
 <sup>1</sup> Number 1 applies to the substances listed below, with the conditions stipulated in the columns «Transitional period», «Exempted (categories of) uses» and «Review periods».
 
 <table>
-<tr><th colspan="2">Entry no</th><th colspan="2">Substance</th><th>Intrinsic properties underlying the prohibition</th><th colspan="2">Transitional period</th><th colspan="2">Exempted (categories of) uses</th><th colspan="2">Review periods</th></tr>
-<tr><td colspan="2">1.</td><td colspan="2">5-tert-Butyl-2,4,6-trinitro-m-xylene (musk xylene) EC no: 201-329-4 CAS no: 81-15-2</td><td>vPvB</td><td colspan="2">21 August 2014</td><td colspan="2">-</td><td colspan="2">-</td></tr>
-<tr><td colspan="2">2.</td><td colspan="2">4,4'-methylenedianiline (MDA) EC no: 202-974-4 CAS no: 101-77-9</td><td>Carcinogenic (category 1B)</td><td colspan="2">21 August 2014</td><td colspan="2">-</td><td colspan="2">-</td></tr>
-<tr><td colspan="2">3.</td><td colspan="2">…</td><td>…</td><td colspan="2">…</td><td colspan="2">-</td><td colspan="2">-</td></tr>
-<tr><td colspan="2">4.</td><td colspan="2">di-(2-ethylhexyl) phthalate (DEHP) EC no: 204-211-0 CAS no: 117-81-7</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">21 February 2015</td><td colspan="2">Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004[^annex117-lvlu1-lvl5-1], Directive 2001/82/EC[^annex117-lvlu1-lvl5-2] and/or Directive 2001/83/EC[^annex117-lvlu1-lvl5-3]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">5.</td><td colspan="2">Benzyl butyl phthalate (BBP) EC no: 201-622-7 CAS no: 85-68-7</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">21 February 2015</td><td colspan="2">Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC and/or Directive 2001/83/EC</td><td colspan="2"></td></tr>
-<tr><td colspan="2">6.</td><td colspan="2">Dibutyl phthalate (DBP) EC no: 201-557-4 CAS no: 84-74-2</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">21 February 2015</td><td colspan="2">Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC and/or Directive 2001/83/EC</td><td colspan="2"></td></tr>
-<tr><td colspan="2">7.</td><td colspan="2">Diisobutyl phthalate (DIBP) EC no: 201-553-2 CAS no: 84-69-5</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">21 February 2015</td><td colspan="2">-</td><td colspan="2">-</td></tr>
-<tr><td colspan="2">8.</td><td colspan="2">Diarsenic trioxide EC no: 215-481-4 CAS no: 1327-53-3</td><td>Carcinogenic (category 1A)</td><td colspan="2">21 May 2015</td><td colspan="2">-</td><td colspan="2">-</td></tr>
-<tr><td colspan="2">9.</td><td colspan="2">Diarsenic pentaoxide EC no: 215-116-9 CAS no: 1303-28-2</td><td>Carcinogenic (category 1A)</td><td colspan="2">21 May 2015</td><td colspan="2">-</td><td colspan="2">-</td></tr>
-<tr><td colspan="2">10.</td><td colspan="2">Lead chromate EC no: 231-846-0 CAS no: 7758-97-6</td><td>Carcinogenic (category 1B) Toxic for reproduction (category 1A)</td><td colspan="2">21 May 2015</td><td colspan="2">-</td><td colspan="2">-</td></tr>
-<tr><td colspan="2">11.</td><td colspan="2">Lead sulfochromate yellow (C.I. Pigment Yellow 34) EC no: 215-693-7 CAS no: 1344-37-2</td><td>Carcinogenic (category 1B) Toxic for reproduction (category 1A)</td><td colspan="2">21 May 2015</td><td colspan="2">-</td><td colspan="2">-</td></tr>
-<tr><td colspan="2">12.</td><td colspan="2">Lead chromate molybdate sulfate red (C.I. Pigment Red 104) EC no: 235-759-9 CAS no: 12656-85-8</td><td>Carcinogenic (category 1B) Toxic for reproduction (category 1A)</td><td colspan="2">21 May 2015</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">13.</td><td colspan="2">Tris(2-chloroethyl) phosphate (TCEP) EC no: 204-118-5 CAS no: 115-96-8</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">21 August 2015</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">14.</td><td colspan="2">2,4-Dinitrotoluene (2,4-DNT) EC no: 204-450-0 CAS no: 121-14-2</td><td>Carcinogenic (category 1B)</td><td colspan="2">21 August 2015</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">15.</td><td colspan="2">Trichlorethylene EC no: 201-167-4 CAS no: 79-01-6</td><td>Carcinogenic (category 1B)</td><td colspan="2">1 December 2019</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">16.</td><td colspan="2">Chromium trioxide EC no: 215-607-8 CAS no: 1333-82-0</td><td>Carcinogenic (category 1A) Mutagenic category 1B)</td><td colspan="2">1 June 2021</td><td colspan="2">Uses in processes in which the end products do not contain chromium in hexavalent form</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">17.</td><td colspan="2">Acids formed from chromium trioxide, and their oligomers Group with: Chromic acid EC no: 231-801-5 CAS no: 7738-94-5 Dichromic acid EC no: 236-881-5 CAS no: 13530-68-2 Oligomers of chromic acid and dichromic acid EC no: not yet assigned CAS no: not yet assigned</td><td>Carcinogenic (category 1B)</td><td colspan="2">1 June 2021</td><td colspan="2">Uses in processes in which the end products do not contain chromium in hexavalent form</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">18.</td><td colspan="2">Sodium dichromate EC no: 234-190-3 CAS no: 7789-12-0 10588-01-9</td><td>Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td colspan="2">1 June 2021</td><td colspan="2">Uses in processes in which the end products do not contain chromium in hexavalent form</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">19.</td><td colspan="2">Potassium dichromate EC no: 231-906-6 CAS no: 7778-50-9</td><td>Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td colspan="2">1 June 2021</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">20.</td><td colspan="2">Ammonium dichromate EC no: 232-143-1 CAS no: 7789-09-5</td><td>Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td colspan="2">1 June 2021</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">21.</td><td colspan="2">Potassium chromate EC no: 232-140-5 CAS no: 7789-00-6</td><td>Carcinogenic (category 1B) Mutagenic (category 1B)</td><td colspan="2">1 June 2021</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">22.</td><td colspan="2">Sodium chromate EC no: 231-889-5 CAS no: 7775-11-3</td><td>Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td colspan="2">1 June 2021</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">23.</td><td colspan="2">Formaldehyde, oligomer reaction products with aniline (Technical MDA) EC no: 500-036-1 CAS no: 25214-70-4</td><td>Carcinogenic (category 1B)</td><td colspan="2">1 November 2021</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">24.</td><td colspan="2">Arsenic acid EC no: 231-901-9 CAS no: 7778-39-4</td><td>Carcinogenic (category 1A)</td><td colspan="2">1 November 2021</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">25.</td><td colspan="2">Di(2-methoxyethyl) ether (Diglyme) EC no: 203-924-4 CAS no: 111-96-6</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">1 November 2021</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">26.</td><td colspan="2">1,2-Dichlorethane (EDC) EC no: 203‑458-1 CAS no: 107-06-2</td><td>Carcinogenic (category 1B)</td><td colspan="2">1 Feb-ruary 2022</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">27.</td><td colspan="2">2,2′-Dichloro-4,4′-methylenedianiline (MOCA) EC no: 202-918-9 CAS no: 101-14-4</td><td>Carcinogenic (category 1B)</td><td colspan="2">1 Feb-ruary 2022</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">28.</td><td colspan="2">Dichromium tris(chromate) EC no: 246‑356-2 CAS no: 24613-89-6</td><td>Carcinogenic (category 1B)</td><td colspan="2">1 April 2023</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">29.</td><td colspan="2">Strontium chromate EC no: 232-142-6 CAS no: 7789-06-2</td><td>Carcinogenic (category 1B)</td><td colspan="2">1 April 2023</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">30.</td><td colspan="2">Zinc potassium chromate EC no: 234-329-8 CAS no: 11103-86-9</td><td>Carcinogenic (category 1A)</td><td colspan="2">1 April 2023</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">31.</td><td colspan="2">Pentazinc chromate octahydroxide EC no: 256-418-0 CAS no: 49663-84-5</td><td>Carcinogenic (category 1A)</td><td colspan="2">1 April 2023</td><td colspan="2">–</td><td colspan="2"></td></tr>
-<tr><td colspan="2">32.</td><td>1-Bromopropane (n-propyl bromide) EC no: 203-445-0 CAS no: 106-94-5</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">33.</td><td>Diisopentyl phthalate EC no: 210-088-4 CAS no: 605-50-5</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">34.</td><td>1,2-Benzenedicarboxylic acid, Di-C6-8-branched alkyl esters, C7 rich EC no: 276-158-1 CAS no: 71888-89-6</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">35.</td><td>1,2-Benzenedicarboxylic acid, Di-C7-11-branched and linear alkyl esters EC no: 271-084-6 CAS no: 68515-42-4</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">36.</td><td>1,2-Benzenedicarboxylic acid, Dipentylester, branched and linear EC no: 284-032-2 CAS no: 84777-06-0</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">37.</td><td>Bis(2-methoxyethyl) phthalate EC no: 204-212-6 CAS no: 117-82-8</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">38.</td><td>Dipentylphthalate EC no: 205-017-9 CAS no: 131-18-0</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">39.</td><td>n-Pentyl-isopentylphthalate EC no: – CAS no: 776297-69-9</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">40.</td><td>Anthracene oil EC no: 292-602-7 CAS no: 90640-80-5</td><td colspan="2">Carcinogenic (category 1B), if the Benzo[a]pyrene content exceeds 0.005 %, PBT, vPvB</td><td colspan="2">2 February 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">41.</td><td>Pitch, coal tar, high temp. EC no: 266-028-2 CAS no: 65996-93-2</td><td colspan="2">Carcinogenic (category 1B), PBT, vPvB</td><td colspan="2">2 February 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">42.</td><td>4-(1,1,3,3-tetramethylbutyl) phenol, ethoxylated [includes clearly defined substances and UVCB substances, Polymere and homologe substances] EC no: – CAS no: –</td><td colspan="2">Endocrine disrupting properties</td><td colspan="2">2 May 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">43.</td><td>4-Nonylphenol, branched and linear, ethoxylated [substances with a linear and/or branched alkyl chain with a carbon number of 9, in which position 4 is covalently bonded to phenol, ethoxylated, including UVCB substances and clearly defined substances, polymers and homologous substances comprising the individual isomers and/or combinations thereof] EC no: – CAS no: –</td><td colspan="2">Endocrine disrupting properties</td><td colspan="2">2 May 2024</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">44.</td><td>1,2-Benzenedicarboxylic acid, Dihexylester, branched and linear EC no: 271-093-5 CAS no: 68515-50-4</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">45.</td><td>Dihexylphthalate EC no: 201-559-5 CAS no: 84-75-3</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">46.</td><td>1,2-Benzenedicarboxylic acid, Di-C6-10- alkyl esters; 1,2-Benzenedicarboxylic acid, mixed decyl-, hexyl- and octyldiesters with ≥ 0.3 % dihexylphthalate (EC no: 201-559-5) EC no: 271-094-0; 272-013-1 CAS no: 68515-51-5; 68648-93-1</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">47.</td><td>Trixylylphosphate EC no: 246-677-8 CAS no: 25155-23-1</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 February 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">48.</td><td>Sodium perborate; perboric acid, sodium salt EC no: 239-172-9; 234-390-0 CAS no: –</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 Februar 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">49.</td><td>Sodium peroxometaborate EC no: 231-556-4 CAS no: 7632-04-4</td><td colspan="2">Toxic for reproduction (category 1B)</td><td colspan="2">2 February 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">50.</td><td>5-sec-Butyl-2-(2,4-dimethylcyclohex-3-en-1-yl)–5-methyl-1,3-dioxane [1], 5-sec-Butyl-2- (4,6-dimethylcyclohex-3-en-1-yl)-5-methyl- 1,3-dioxane [2] [includes each individual stereoisomer of [1] and [2] or any combination thereof] EC no: – CAS no: –</td><td colspan="2">vPvB</td><td colspan="2">2 May 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">51.</td><td>2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol (UV-328) EC no: 247-384-8 CAS no: 25973-55-1</td><td colspan="2">PBT, vPvB</td><td colspan="2">2 August 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">52.</td><td>2,4-Di-tert-butyl-6-(5-chlorbenzotriazol-2- yl)phenol (UV-327) EC no: 223-383-8 CAS no: 3864-99-1</td><td colspan="2">vPvB</td><td colspan="2">2 August 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">53.</td><td>2-(2H-Benzotriazol-2-yl)-4-(tert-butyl)- 6- (sec-butyl)phenol (UV-350) EC no: 253-037-1 CAS no: 36437-37-3</td><td colspan="2">vPvB</td><td colspan="2">2 August 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">54.</td><td>2-Benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320) EC no: 223-346-6 CAS no: 3846-71-7</td><td colspan="2">PBT, vPvB</td><td colspan="2">2 August 2024</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><th>Entry no</th><th>Substance</th><th colspan="2">Intrinsic properties underlying the prohibition</th><th>Transitional period</th><th>Exempted (categories of) uses</th><th>Review periods</th></tr>
+<tr><td>1.</td><td>5-tert-Butyl-2,4,6-trinitro-m-xylene (musk xylene) EC no: 201-329-4 CAS no: 81-15-2</td><td colspan="2">vPvB</td><td>21 August 2014</td><td>-</td><td>-</td></tr>
+<tr><td>2.</td><td>4,4'-methylenedianiline (MDA) EC no: 202-974-4 CAS no: 101-77-9</td><td colspan="2">Carcinogenic (category 1B)</td><td>21 August 2014</td><td>-</td><td>-</td></tr>
+<tr><td>3.</td><td>…</td><td colspan="2">…</td><td>…</td><td>-</td><td>-</td></tr>
+<tr><td>4.</td><td>di-(2-ethylhexyl) phthalate (DEHP) EC no: 204-211-0 CAS no: 117-81-7</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004[^annex117-lvlu1-lvl5-1], Directive 2001/82/EC[^annex117-lvlu1-lvl5-2] and/or Directive 2001/83/EC[^annex117-lvlu1-lvl5-3]</td><td></td></tr>
+<tr><td>5.</td><td>Benzyl butyl phthalate (BBP) EC no: 201-622-7 CAS no: 85-68-7</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC and/or Directive 2001/83/EC</td><td></td></tr>
+<tr><td>6.</td><td>Dibutyl phthalate (DBP) EC no: 201-557-4 CAS no: 84-74-2</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC and/or Directive 2001/83/EC</td><td></td></tr>
+<tr><td>7.</td><td>Diisobutyl phthalate (DIBP) EC no: 201-553-2 CAS no: 84-69-5</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 February 2015</td><td>-</td><td>-</td></tr>
+<tr><td>8.</td><td>Diarsenic trioxide EC no: 215-481-4 CAS no: 1327-53-3</td><td colspan="2">Carcinogenic (category 1A)</td><td>21 May 2015</td><td>-</td><td>-</td></tr>
+<tr><td>9.</td><td>Diarsenic pentaoxide EC no: 215-116-9 CAS no: 1303-28-2</td><td colspan="2">Carcinogenic (category 1A)</td><td>21 May 2015</td><td>-</td><td>-</td></tr>
+<tr><td>10.</td><td>Lead chromate EC no: 231-846-0 CAS no: 7758-97-6</td><td colspan="2">Carcinogenic (category 1B) Toxic for reproduction (category 1A)</td><td>21 May 2015</td><td>-</td><td>-</td></tr>
+<tr><td>11.</td><td>Lead sulfochromate yellow (C.I. Pigment Yellow 34) EC no: 215-693-7 CAS no: 1344-37-2</td><td colspan="2">Carcinogenic (category 1B) Toxic for reproduction (category 1A)</td><td>21 May 2015</td><td>-</td><td>-</td></tr>
+<tr><td>12.</td><td>Lead chromate molybdate sulfate red (C.I. Pigment Red 104) EC no: 235-759-9 CAS no: 12656-85-8</td><td colspan="2">Carcinogenic (category 1B) Toxic for reproduction (category 1A)</td><td>21 May 2015</td><td></td><td></td></tr>
+<tr><td>13.</td><td>Tris(2-chloroethyl) phosphate (TCEP) EC no: 204-118-5 CAS no: 115-96-8</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>21 August 2015</td><td></td><td></td></tr>
+<tr><td>14.</td><td>2,4-Dinitrotoluene (2,4-DNT) EC no: 204-450-0 CAS no: 121-14-2</td><td colspan="2">Carcinogenic (category 1B)</td><td>21 August 2015</td><td></td><td></td></tr>
+<tr><td>15.</td><td>Trichlorethylene EC no: 201-167-4 CAS no: 79-01-6</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 December 2019</td><td>–</td><td>–</td></tr>
+<tr><td>16.</td><td>Chromium trioxide EC no: 215-607-8 CAS no: 1333-82-0</td><td colspan="2">Carcinogenic (category 1A) Mutagenic category 1B)</td><td>1 June 2021</td><td>Uses in processes in which the end products do not contain chromium in hexavalent form</td><td>–</td></tr>
+<tr><td>17.</td><td>Acids formed from chromium trioxide, and their oligomers Group with: Chromic acid EC no: 231-801-5 CAS no: 7738-94-5 Dichromic acid EC no: 236-881-5 CAS no: 13530-68-2 Oligomers of chromic acid and dichromic acid EC no: not yet assigned CAS no: not yet assigned</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 June 2021</td><td>Uses in processes in which the end products do not contain chromium in hexavalent form</td><td>–</td></tr>
+<tr><td>18.</td><td>Sodium dichromate EC no: 234-190-3 CAS no: 7789-12-0 10588-01-9</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td>1 June 2021</td><td>Uses in processes in which the end products do not contain chromium in hexavalent form</td><td>–</td></tr>
+<tr><td>19.</td><td>Potassium dichromate EC no: 231-906-6 CAS no: 7778-50-9</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td>1 June 2021</td><td>–</td><td>–</td></tr>
+<tr><td>20.</td><td>Ammonium dichromate EC no: 232-143-1 CAS no: 7789-09-5</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td>1 June 2021</td><td>–</td><td>–</td></tr>
+<tr><td>21.</td><td>Potassium chromate EC no: 232-140-5 CAS no: 7789-00-6</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B)</td><td>1 June 2021</td><td>–</td><td>–</td></tr>
+<tr><td>22.</td><td>Sodium chromate EC no: 231-889-5 CAS no: 7775-11-3</td><td colspan="2">Carcinogenic (category 1B) Mutagenic (category 1B) Toxic for reproduction (category 1B)</td><td>1 June 2021</td><td>–</td><td>–</td></tr>
+<tr><td>23.</td><td>Formaldehyde, oligomer reaction products with aniline (Technical MDA) EC no: 500-036-1 CAS no: 25214-70-4</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 November 2021</td><td>–</td><td></td></tr>
+<tr><td>24.</td><td>Arsenic acid EC no: 231-901-9 CAS no: 7778-39-4</td><td colspan="2">Carcinogenic (category 1A)</td><td>1 November 2021</td><td>–</td><td></td></tr>
+<tr><td>25.</td><td>Di(2-methoxyethyl) ether (Diglyme) EC no: 203-924-4 CAS no: 111-96-6</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>1 November 2021</td><td>–</td><td></td></tr>
+<tr><td>26.</td><td>1,2-Dichlorethane (EDC) EC no: 203‑458-1 CAS no: 107-06-2</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 Feb-ruary 2022</td><td>–</td><td></td></tr>
+<tr><td>27.</td><td>2,2′-Dichloro-4,4′-methylenedianiline (MOCA) EC no: 202-918-9 CAS no: 101-14-4</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 Feb-ruary 2022</td><td>–</td><td></td></tr>
+<tr><td>28.</td><td>Dichromium tris(chromate) EC no: 246‑356-2 CAS no: 24613-89-6</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 April 2023</td><td>–</td><td></td></tr>
+<tr><td>29.</td><td>Strontium chromate EC no: 232-142-6 CAS no: 7789-06-2</td><td colspan="2">Carcinogenic (category 1B)</td><td>1 April 2023</td><td>–</td><td></td></tr>
+<tr><td>30.</td><td>Zinc potassium chromate EC no: 234-329-8 CAS no: 11103-86-9</td><td colspan="2">Carcinogenic (category 1A)</td><td>1 April 2023</td><td>–</td><td></td></tr>
+<tr><td>31.</td><td>Pentazinc chromate octahydroxide EC no: 256-418-0 CAS no: 49663-84-5</td><td colspan="2">Carcinogenic (category 1A)</td><td>1 April 2023</td><td>–</td><td></td></tr>
+<tr><td>32.</td><td>1-Bromopropane (n-propyl bromide) EC no: 203-445-0 CAS no: 106-94-5</td><td colspan="2">Toxic for reproduction (category 1B)</td><td>2 November 2023</td><td>–</td><td>–</td></tr>
+<tr><td>33.</td><td>Diisopentyl phthalate EC no: 210-088-4 CAS no: 605-50-5</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td>–</td><td>–</td></tr>
+<tr><td>34.</td><td>1,2-Benzenedicarboxylic acid, Di-C6-8-branched alkyl esters, C7 rich EC no: 276-158-1 CAS no: 71888-89-6</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td>–</td><td>–</td></tr>
+<tr><td>35.</td><td>1,2-Benzenedicarboxylic acid, Di-C7-11-branched and linear alkyl esters EC no: 271-084-6 CAS no: 68515-42-4</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td>–</td><td>–</td></tr>
+<tr><td>36.</td><td>1,2-Benzenedicarboxylic acid, Dipentylester, branched and linear EC no: 284-032-2 CAS no: 84777-06-0</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td>–</td><td>–</td></tr>
+<tr><td>37.</td><td>Bis(2-methoxyethyl) phthalate EC no: 204-212-6 CAS no: 117-82-8</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td>–</td><td>–</td></tr>
+<tr><td>38.</td><td>Dipentylphthalate EC no: 205-017-9 CAS no: 131-18-0</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td>–</td><td>–</td></tr>
+<tr><td>39.</td><td>n-Pentyl-isopentylphthalate EC no: – CAS no: 776297-69-9</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td>–</td><td>–</td></tr>
+<tr><td>40.</td><td>Anthracene oil EC no: 292-602-7 CAS no: 90640-80-5</td><td>Carcinogenic (category 1B), if the Benzo[a]pyrene content exceeds 0.005 %, PBT, vPvB</td><td colspan="2">2 February 2024</td><td>–</td><td>–</td></tr>
+<tr><td>41.</td><td>Pitch, coal tar, high temp. EC no: 266-028-2 CAS no: 65996-93-2</td><td>Carcinogenic (category 1B), PBT, vPvB</td><td colspan="2">2 February 2024</td><td>–</td><td>–</td></tr>
+<tr><td>42.</td><td>4-(1,1,3,3-tetramethylbutyl) phenol, ethoxylated [includes clearly defined substances and UVCB substances, Polymere and homologe substances] EC no: – CAS no: –</td><td>Endocrine disrupting properties</td><td colspan="2">2 May 2024</td><td>–</td><td>–</td></tr>
+<tr><td>43.</td><td>4-Nonylphenol, branched and linear, ethoxylated [substances with a linear and/or branched alkyl chain with a carbon number of 9, in which position 4 is covalently bonded to phenol, ethoxylated, including UVCB substances and clearly defined substances, polymers and homologous substances comprising the individual isomers and/or combinations thereof] EC no: – CAS no: –</td><td>Endocrine disrupting properties</td><td colspan="2">2 May 2024</td><td>–</td><td>–</td></tr>
+<tr><td>44.</td><td>1,2-Benzenedicarboxylic acid, Dihexylester, branched and linear EC no: 271-093-5 CAS no: 68515-50-4</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td></td><td></td></tr>
+<tr><td>45.</td><td>Dihexylphthalate EC no: 201-559-5 CAS no: 84-75-3</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td></td><td></td></tr>
+<tr><td>46.</td><td>1,2-Benzenedicarboxylic acid, Di-C6-10- alkyl esters; 1,2-Benzenedicarboxylic acid, mixed decyl-, hexyl- and octyldiesters with ≥ 0.3 % dihexylphthalate (EC no: 201-559-5) EC no: 271-094-0; 272-013-1 CAS no: 68515-51-5; 68648-93-1</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 November 2023</td><td></td><td></td></tr>
+<tr><td>47.</td><td>Trixylylphosphate EC no: 246-677-8 CAS no: 25155-23-1</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 February 2024</td><td></td><td></td></tr>
+<tr><td>48.</td><td>Sodium perborate; perboric acid, sodium salt EC no: 239-172-9; 234-390-0 CAS no: –</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 Februar 2024</td><td></td><td></td></tr>
+<tr><td>49.</td><td>Sodium peroxometaborate EC no: 231-556-4 CAS no: 7632-04-4</td><td>Toxic for reproduction (category 1B)</td><td colspan="2">2 February 2024</td><td></td><td></td></tr>
+<tr><td>50.</td><td>5-sec-Butyl-2-(2,4-dimethylcyclohex-3-en-1-yl)–5-methyl-1,3-dioxane [1], 5-sec-Butyl-2- (4,6-dimethylcyclohex-3-en-1-yl)-5-methyl- 1,3-dioxane [2] [includes each individual stereoisomer of [1] and [2] or any combination thereof] EC no: – CAS no: –</td><td>vPvB</td><td colspan="2">2 May 2024</td><td></td><td></td></tr>
+<tr><td>51.</td><td>2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol (UV-328) EC no: 247-384-8 CAS no: 25973-55-1</td><td>PBT, vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
+<tr><td>52.</td><td>2,4-Di-tert-butyl-6-(5-chlorbenzotriazol-2- yl)phenol (UV-327) EC no: 223-383-8 CAS no: 3864-99-1</td><td>vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
+<tr><td>53.</td><td>2-(2H-Benzotriazol-2-yl)-4-(tert-butyl)- 6- (sec-butyl)phenol (UV-350) EC no: 253-037-1 CAS no: 36437-37-3</td><td>vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
+<tr><td>54.</td><td>2-Benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320) EC no: 223-346-6 CAS no: 3846-71-7</td><td>PBT, vPvB</td><td colspan="2">2 August 2024</td><td></td><td></td></tr>
 </table>
 
 <sup>1bis</sup> For substances in entry numbers 4–7, 10–12, 14 and 15, a transitional period also applies until 1 May 2021 for the following uses:
@@ -2738,7 +2761,7 @@ Annex 2.2*[^t-21]*
 
 <sup>5</sup> The use of 1,4-Dichlorobenzene for purposes set out in paragraph 4 is prohibited.
 
-<sup>6</sup> Wash-off cosmetic products may not be placed on the market if their content of octamethylcyclotetrasiloxane (D4, CAS-Nr. 556-67-2) or decamethylcyclopentasiloxane (D5, CAS-Nr. 541-02-6) amounts to 0.1 per cent or more.
+<sup>6</sup> Wash-off cosmetic products may not be placed on the market if their content of octamethylcyclotetrasiloxane (D4, CAS no 556-67-2) or decamethylcyclopentasiloxane (D5, CAS no 541-02-6) amounts to 0.1 per cent or more.
 
 [^annex22-lvlu1-lvl2-1]: OJ L 104 of 8.4.2004, p.1, last amended by Regulation (EC) No 551/2009 of the Commission of 25 June 2009 (OJ L 164 of 26.6.2009, p. 3). The texts of the European Union legal documents mentioned in this Annex may be obtained against payment or consulted free of charge at the Chemicals Notification Authority, 3003 Bern; they may also be accessed on the Internet at www.cheminfo.ch.
 [^annex22-lvlu1-lvl2-2]: International Union of Pure and Applied Chemistry.
@@ -3010,7 +3033,7 @@ The canton may require holders of halogenated solvent wastes or companies who ac
 
 - a. to investigate whether recycling options are available or could be created;
 - b. to inform the canton of the results of their investigations;
-- c. to ensure that these wastes are recycled if this is technically feasible and economically acceptable and does not entail disproportionate use of energy.
+- c. to ensure that these wastes are recycled if this is technically feasible and economically viable and does not entail disproportionate use of energy.
 
 ### 6 Transitional provisions
 
@@ -3860,7 +3883,7 @@ Annex 2.9*[^t-28]*
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass and intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
@@ -4521,7 +4544,7 @@ Annex 2.15*[^t-33]*
 
 ## Batteries
 
-[^t-33]: Amended by No I 5 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) and No I of the O of 17 April 2019, in force since 1 June 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-33]: Amended by No I 5 of the O of 10 Dec. 2010 ([AS 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Revised by No II para. 3 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Annex No II 2 of the O of 20 Oct. 2021 on the Return, Taking Back and Disposal of Electrical and Electronic Equipment, in force since 1 Jan. 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 ### 1 Definitions
 
@@ -4607,17 +4630,17 @@ Consumers must hand over batteries to a trader or manufacturer with a take‑bac
 
 ### 6.1 Liability for the fee
 
-<sup>1</sup> A prepaid disposal fee (fee) for batteries placed on the market (batteries subject to the fee) must be paid to an organisation appointed by the FOEN in accordance with Number 6.7 (organisation) by:
+<sup>1</sup> A prepaid disposal fee (fee) for batteries placed on the market (batteries subject to the fee) must be paid to an organisation appointed by the FOEN in accordance with Number 6.7 (the Fee Organisation) by:
 
 - a. manufacturers of batteries;
 - b. manufacturers of vehicles or appliances which incorporate batteries, if these batteries are not already subject to the fee.
 
 <sup>2</sup> Paragraph 1 letter b does not apply if third parties have assumed liability for the fee as specified in paragraph 1 and the reporting obligation as specified in Number 6.3 paragraph 1.
 
-<sup>3</sup> On request, the organisation shall exempt manufacturers of automotive and industrial batteries and of vehicles and appliances incorporating automotive or industrial batteries from liability for the fee if they:
+<sup>3</sup> On request, the Fee Organisation shall exempt manufacturers of automotive and industrial batteries and of vehicles and appliances incorporating automotive or industrial batteries from liability for the fee if they:
 
 - a. on the basis of a sectoral solution or as a result of particular market condition, ensure environmentally sound disposal of the batteries and the covering of all disposal costs; and
-- b. make a suitable contribution to the costs incurred by the organisation for exemption from the liability for the fee and reporting as specified in Number 6.3 paragraph 2.
+- b. make a suitable contribution to the costs incurred by the Fee Organisation for exemption from the liability for the fee and reporting as specified in Number 6.3 paragraph 2.
 
 ### 6.2 Level of the fee
 
@@ -4627,21 +4650,21 @@ Consumers must hand over batteries to a trader or manufacturer with a take‑bac
 
 ### 6.3 Reporting obligation
 
-<sup>1</sup> Those liable for the fee must report to the organisation, in accordance with its requirements, the quantity of batteries subject to the fee placed on the market, indicating in particular the types of batteries and the pollutant content. Reporting shall be carried out monthly, unless a different interval has been agreed with the organisation.
+<sup>1</sup> Those liable for the fee must report to the Fee Organisation, in accordance with its requirements, the quantity of batteries subject to the fee placed on the market, indicating in particular the types of batteries and the pollutant content. Reporting shall be carried out monthly, unless a different interval has been agreed with the Fee Organisation.
 
-<sup>2</sup> Manufacturers who are exempt from liability for the fee in accordance with Number 6.1 paragraph 3 must provide the organisation each year by 31 March with information on the quantity of batteries placed on the market, indicating the types of batteries and the pollutant content. The organisation shall make available reporting forms in paper or electronic form. It shall forward the reports received to the FOEN in accordance with its requirements.
+<sup>2</sup> Manufacturers who are exempt from liability for the fee in accordance with Number 6.1 paragraph 3 must provide the Fee Organisation each year by 31 March with information on the quantity of batteries placed on the market, indicating the types of batteries and the pollutant content. The Fee Organisation shall make available reporting forms in paper or electronic form. It shall forward the reports received to the FOEN in accordance with its requirements.
 
-<sup>3</sup> Disposal companies that, by virtue of a licence issued under Article 10 of the Ordinance of 22 June 2005 on Movements of Waste, are entitled to accept batteries must provide the organisation each year by 30 April, in accordance with its requirements, with information on the quantities of batteries taken back in Switzerland and recycled by them or exported for disposal during the previous year.
+<sup>3</sup> Disposal companies that, by virtue of a licence issued under Article 10 of the Ordinance of 22 June 2005 on Movements of Waste, are entitled to accept batteries must provide the Fee Organisation each year by 30 April, in accordance with its requirements, with information on the quantities of batteries taken back in Switzerland and recycled by them or exported for disposal during the previous year.
 
 ### 6.4 Time of falling due and period for payment
 
-<sup>1</sup> The organisation shall submit an invoice to those liable for the fee. The fee falls due upon receipt of the invoice by those liable for the fee or, if the invoice is disputed, when the fee ruling as specified in Number 6.9 paragraph 2 becomes legally valid.
+<sup>1</sup> The Fee Organisation shall submit an invoice to those liable for the fee. The fee falls due upon receipt of the invoice by those liable for the fee or, if the invoice is disputed, when the fee ruling as specified in Number 6.9 paragraph 2 becomes legally valid.
 
-<sup>2</sup> Payment must be made within 30 days of the fee falling due. If payment is delayed, interest of 5% is payable on arrears; the organisation may pay interest on advance payments.
+<sup>2</sup> Payment must be made within 30 days of the fee falling due. If payment is delayed, interest of 5% is payable on arrears; the Fee Organisation may pay interest on advance payments.
 
 ### 6.5 Use of the fee
 
-The organisation may use the fee solely to finance the following activities:
+The Fee Organisation may use the fee solely to finance the following activities:
 
 - a. collection, transport and recycling of batteries, provided that these activities are carried out according to the state of the art;
 - b. provision of information, in particular to improve the return rate for batteries, although no more than 25% of annual fee revenues may be used for this purpose;
@@ -4650,31 +4673,31 @@ The organisation may use the fee solely to finance the following activities:
 
 ### 6.6 Payments to third parties
 
-<sup>1</sup> Third parties claiming payments from the organisation for activities specified in Number 6.5 must submit a justified request by no later than 31 March of the following year. The organisation shall make application forms available in paper or electronic format.
+<sup>1</sup> Third parties claiming payments from the Fee Organisation for activities specified in Number 6.5 must submit a justified request by no later than 31 March of the following year. The Fee Organisation shall make application forms available in paper or electronic format.
 
-<sup>2</sup> The organisation shall only make payments to third parties if they carry out the activities appropriately and cost-effectively. It may take the measures necessary to assess whether these conditions are met.
+<sup>2</sup> The Fee Organisation shall only make payments to third parties if they carry out the activities appropriately and cost-effectively. It may take the measures necessary to assess whether these conditions are met.
 
-<sup>3</sup> The organisation shall only make payments for activities specified in Number 6.5 letters a and b within the limits of available resources.
+<sup>3</sup> The Fee Organisation shall only make payments for activities specified in Number 6.5 letters a and b within the limits of available resources.
 
 ### 6.7 Organisation
 
-<sup>1</sup> The FOEN shall appoint a suitable private organisation to collect, administer and use the fee. The organisation must not itself carry out any business activities relating to the manufacture, import, sale or recycling of batteries.
+<sup>1</sup> The FOEN shall appoint a suitable private organisation to collect, administer and use the fee. The Fee Organisation must not itself carry out any business activities relating to the manufacture, import, sale or recycling of batteries.
 
-<sup>2</sup> The FOEN shall conclude a contract with the organisation for a term of no more than five years. This contract shall specify in particular the proportion of fee revenues that the organisation may use for its own activities, as well as the conditions and consequences of premature termination of the contract.
+<sup>2</sup> The FOEN shall conclude a contract with the Fee Organisation for a term of no more than five years. This contract shall specify in particular the proportion of fee revenues that the Fee Organisation may use for its own activities, as well as the conditions and consequences of premature termination of the contract.
 
-<sup>3</sup> The organisation must appoint independent third parties as auditors. It must provide them with all the necessary information and allow them to examine its files.
+<sup>3</sup> The Fee Organisation must carry out internal controls of management and appoint independent third parties approved by the FOEN to examine the internal control results and audit its accounts. It must supply them with all the necessary information and permit access to files.
 
-<sup>4</sup> The organisation shall maintain commercial secrecy with regard to those liable to the fee and the disposal companies.
+<sup>4</sup> The Fee Organisation shall maintain commercial secrecy with regard to those liable to the fee and the disposal companies.
 
-<sup>5</sup> The Federal Customs Administration may communicate to the organisation data from customs declarations and other observations relating to the import or export of batteries.
+<sup>5</sup> The FOCBS may communicate to the Fee Organisation data from customs declarations and other observations relating to the import or export of batteries.
 
-<sup>6</sup> The organisation may arrange with the Federal Customs Administration for the fee to be collected on import. In this case, collection, time of falling due and interest are governed by the relevant customs legislation.
+<sup>6</sup> The Fee Organisation may arrange with the FOCBS for the fee to be collected on import. In this case, collection, time of falling due and interest are governed by the relevant customs legislation.
 
-### 6.8 Supervision of the organisation
+### 6.8 Supervision of the Fee Organisation
 
-<sup>1</sup> The FOEN shall supervise the organisation. It may also issue instructions, in particular on the use of fee revenues.
+<sup>1</sup> The FOEN shall supervise the Fee Organisation. It may also issue instructions, in particular on the use of fee revenues.
 
-<sup>2</sup> The organisation must provide the FOEN with the necessary information and allow it to examine its files.
+<sup>2</sup> The Fee Organisation must provide the FOEN with the necessary information and allow it to examine its files.
 
 <sup>3</sup> It must submit to the FOEN each year, by no later than 30 June, a report on its activities during the previous year. This report must include in particular:
 
@@ -4688,7 +4711,7 @@ The organisation may use the fee solely to finance the following activities:
 
 ### 6.9 Procedures
 
-<sup>1</sup> The organisation shall decide on exemptions from liability for the fee and on requests for payments to third parties by means of rulings.
+<sup>1</sup> The Fee Organisation shall decide on exemptions from liability for the fee and on requests for payments to third parties by means of rulings.
 
 <sup>2</sup> In the event of a dispute concerning the invoice specified in Number 6.4 paragraph 1 sentence 1, it shall issue a fee ruling.
 
@@ -4862,7 +4885,7 @@ For the placing on the market of consumer articles, toys, jewellery and candle w
 - h. devotional objects;
 - i. zinc-carbon portable batteries and button cells.
 
-<sup>2</sup> In addition, exempted from the prohibition specified in Number 3<sup>t</sup><sup>er</sup>.2 paragraph 1 are:
+<sup>2</sup> In addition, exempted from the prohibition specified in Number 3<sup>ter</sup>.2 paragraph 1 are:
 
 - a. uncoated lead-containing articles, if the release rate of lead from the article or accessible parts demonstrably does not exceed 005 μg/cm<sup>2</sup> per hour (corresponding to 0.05 μg/g/h);
 - b. coated lead-containing articles, provided that they demonstrably do not exceed the release rate referred to in letter a and the coating is sufficient to ensure that this rate is not exceeded for a period of at least two years of use of the article under normal or reasonably foreseeable conditions.

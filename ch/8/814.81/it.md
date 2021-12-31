@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° novembre 2021)
+del 18 maggio 2005 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -741,7 +741,9 @@ Chi intende importare o stoccare in un deposito doganale aperto, in un deposito 
 
 <sup>2</sup> Un’autorizzazione generale d’importazione autorizza il suo titolare a importare da determinati esportatori esteri determinate quantità di sostanze che impoveriscono lo strato di ozono. Essa è personale e non trasferibile.
 
-<sup>3</sup> L’UFAM informa i Cantoni e l’Amministrazione federale delle dogane in merito alla concessione e alla revoca di autorizzazioni generali d’importazione.
+<sup>3</sup> L’UFAM informa i Cantoni e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^annex14-lvlu1-lvl3-lvl33-lvl333-1] in merito alla concessione e alla revoca di autorizzazioni generali d’importazione.
+
+[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 3.3.4 Domanda
 
@@ -803,7 +805,7 @@ Un’autorizzazione d’esportazione è rilasciata su domanda se l’esportazion
 
 <sup>2</sup> L’autorizzazione singola d’esportazione autorizza il titolare a esportare un’unica volta determinate quantità di sostanze che impoveriscono lo strato di ozono verso un determinato importatore straniero di uno Stato che si attiene alle disposizioni del Protocollo di Montreal approvate dalla Svizzera. Essa è personale e non trasferibile.
 
-<sup>3</sup> L’UFAM informa i Cantoni e l’Amministrazione federale delle dogane in merito alla concessione e alla revoca di autorizzazioni d’esportazione.
+<sup>3</sup> L’UFAM informa i Cantoni e l’UDSC in merito alla concessione e alla revoca di autorizzazioni d’esportazione.
 
 ### 4.2.4 Domanda
 
@@ -973,7 +975,7 @@ Fatto salvo il numero 8 capoverso 1, un’autorizzazione d’importazione è con
 
 <sup>2</sup> Un’autorizzazione generale d’importazione autorizza il suo titolare a importare da determinati esportatori esteri determinate quantità di fluorocarburi parzialmente alogenati. Essa è personale e non trasferibile.
 
-<sup>3</sup> L’UFAM informa i Cantoni e l’Amministrazione federale delle dogane in merito alla concessione e alla revoca di autorizzazioni generali d’importazione.
+<sup>3</sup> L’UFAM informa i Cantoni e l’UDSC in merito alla concessione e alla revoca di autorizzazioni generali d’importazione.
 
 ### 4.3.4 Domanda
 
@@ -1030,7 +1032,7 @@ L’autorizzazione d’esportazione è concessa se il richiedente presenta una d
 
 <sup>2</sup> L’autorizzazione singola d’esportazione autorizza il titolare a esportare un’unica volta determinate quantità di fluorocarburi parzialmente alogenati. Essa è personale e non trasferibile.
 
-<sup>3</sup> L’UFAM informa i Cantoni e l’Amministrazione federale delle dogane in merito alla concessione e alla revoca di autorizzazioni d’esportazione.
+<sup>3</sup> L’UFAM informa i Cantoni e l’UDSC in merito alla concessione e alla revoca di autorizzazioni d’esportazione.
 
 ### 5.4 Domanda
 
@@ -1189,10 +1191,10 @@ Chi dispone processi di trasformazione chimica che possono generare come sottopr
 
 ### 10 Disposizione transitoria
 
-Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex15-lvlu1-lvl10-1] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto) e gli impianti di distribuzione contenenti esafluoruro di zolfo o preparati contenenti esafluoruro di zolfo, fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo il numero 5 ORRPChim nella versione del 10 dicembre 2010[^annex15-lvlu1-lvl10-2].
+Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A del Protocollo di Kyoto dell’11 dicembre 1997[^annex15-lvlu1-lvl9bis-1] della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici (Protocollo di Kyoto) e gli impianti di distribuzione contenenti esafluoruro di zolfo o preparati contenenti esafluoruro di zolfo, fino al 31 maggio 2020 è ammessa anche un’etichettatura secondo il numero 5 ORRPChim nella versione del 10 dicembre 2010[^annex15-lvlu1-lvl9bis-2].
 
-[^annex15-lvlu1-lvl10-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^annex15-lvlu1-lvl10-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
+[^annex15-lvlu1-lvl9bis-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex15-lvlu1-lvl9bis-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
 Allegato 1.6[^t-7]
 
@@ -1251,7 +1253,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, redatta in almeno due lingue ufficiali e conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -3868,7 +3870,7 @@ Allegato 2.9*[^t-28]*
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -4529,7 +4531,7 @@ Allegato 2.15*[^t-33]*
 
 ## Pile
 
-[^t-33]: Nuovo testo giusta il n. I 5 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) e dal n. I dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-33]: Nuovo testo giusta il n. I 5 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Aggiornato dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. II 2 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici, in vigore dal 1° gen. 2022 ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 ### 1 Definizioni
 
@@ -4673,13 +4675,13 @@ L’organizzazione deve impiegare la tassa esclusivamente per il finanziamento d
 
 <sup>2</sup> L’UFAM stipula di volta in volta per un periodo massimo di cinque anni un contratto con l’organizzazione. Il contratto stabilisce in particolare la parte della tassa che l’organizzazione può utilizzare per lo svolgimento delle proprie attività nonché le condizioni e le conseguenze di uno scioglimento anticipato del contratto.
 
-<sup>3</sup> L’organizzazione deve affidare la revisione a terzi indipendenti. Deve fornire loro tutte le informazioni necessarie e garantire loro la consultazione degli atti.
+<sup>3</sup> L’organizzazione deve eseguire controlli interni dell’organo di gestione e affidare la verifica dei risultati dei controlli interni e la revisione a terzi indipendenti e autorizzati dall’UFAM. Deve fornire loro tutte le informazioni necessarie e garantire loro la consultazione degli atti.
 
 <sup>4</sup> L’organizzazione deve salvaguardare il segreto d’affari delle parti assoggettate alla tassa e di chi si occupa dello smaltimento.
 
-<sup>5</sup> L’Amministrazione federale delle dogane può comunicare all’organizzazione i dati figuranti nelle dichiarazioni doganali e altre constatazioni in relazione all’importazione o all’esportazione di pile.
+<sup>5</sup> L’UDSC può comunicare all’organizzazione i dati figuranti nelle dichiarazioni doganali e altre constatazioni in relazione all’importazione o all’esportazione di pile.
 
-<sup>6</sup> L’organizzazione può concordare con l’Amministrazione federale delle dogane la riscossione della tassa al momento dell’importazione. In tale caso, per la riscossione, la scadenza e gli interessi è applicata la legislazione doganale.
+<sup>6</sup> L’organizzazione può concordare con l’UDSC la riscossione della tassa al momento dell’importazione. In tale caso, per la riscossione, la scadenza e gli interessi è applicata la legislazione doganale.
 
 ### 6.8 Vigilanza sull’organizzazione
 

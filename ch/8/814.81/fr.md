@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2021-11-01
+version: 2022-01-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20211101/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (Etat le 1<sup>er</sup> novembre 2021)
+du 18 mai 2005 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -739,7 +739,9 @@ Toute personne qui souhaite importer des substances appauvrissant la couche d’
 
 <sup>2</sup> L’autorisation générale d’importation donne à son titulaire le droit d’importer des quantités déterminées de substances appauvrissant la couche d’ozone provenant d’exportateurs étrangers déterminés. Elle est personnelle et non transmissible.
 
-<sup>3</sup> L’OFEV informe l’Administration fédérale des douanes et les cantons de l’attribution et du retrait des autorisations générales d’importation.
+<sup>3</sup> L’OFEV informe l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^annex14-lvlu1-lvl3-lvl33-lvl333-1] et les cantons de l’attribution et du retrait des autorisations générales d’importation.
+
+[^annex14-lvlu1-lvl3-lvl33-lvl333-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### 3.3.4 Demande
 
@@ -801,7 +803,7 @@ Une autorisation d’exportation est accordée sur demande si l’exportation es
 
 <sup>2</sup> L’autorisation unique d’exportation donne à son titulaire le droit d’exporter une seule fois des quantités déterminées de substances appauvrissant la couche d’ozone vers un importateur étranger déterminé, dans un pays qui respecte les dispositions du protocole de Montréal approuvées par la Suisse. Elle est personnelle et non transmissible.
 
-<sup>3</sup> L’OFEV informe l’Administration fédérale des douanes et les cantons de l’attribution et du retrait des autorisations d’exportation.
+<sup>3</sup> L’OFEV informe l’OFDF et les cantons de l’attribution et du retrait des autorisations d’exportation.
 
 ### 4.2.4 Demande
 
@@ -909,7 +911,7 @@ Annexe 1.5*[^t-6]*
 
 ## Substances stables dans l’air
 
-[^t-6]: Nouvelle teneur selon le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Mise à jour par l’erratum du 25 fév. 2020 ([RO 2020 565](https://fedlex.data.admin.ch/eli/oc/2020/103)).
+[^t-6]: Nouvelle teneur selon le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)). Mise à jour par l’erratum du 25 fév. 2020 ([RO 2020 565](https://fedlex.data.admin.ch/eli/oc/2020/103)) et l’annexe de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 ### 1 Définitions
 
@@ -919,6 +921,15 @@ Annexe 1.5*[^t-6]*
 - b les autres composés organiques contenant du fluor[^annex15-lvlu1-lvl1-2], dont la tension de vapeur est de 0,1 mbar au moins à 20 °C ou dont le point d’ébullition est de 240 °C au plus à 1013,25 mbar, et qui ont une durée de vie moyenne dans l’air d’au moins deux ans;
 - c. l’hexafluorure de soufre (n<sup>o</sup> CAS 2551-62-4);
 - d. le trifluorure d’azote (n<sup>o</sup> CAS 7783-54-2).
+
+<sup>1bis</sup> En ce qui concerne l’obligation visée au ch. 9, al. 2, l’oxyde nitreux (n<sup>o</sup> CAS 10024-97-2) est également considéré comme une substance stable dans l’air dans la mesure où il est généré comme sous-produit lors de la fabrication des substances suivantes:
+
+- a. acide nitrique (n<sup>o</sup> CAS 7697-37-2);
+- b. caprolactame (n<sup>o</sup> CAS 105-60-2);
+- c. acide adipique (n<sup>o</sup> CAS 124-04-9);
+- d. glyoxal (n<sup>o</sup> CAS 107-22-2) et acide glyoxylique;
+- e. acide nicotinique (n<sup>o</sup> CAS 59-67-6);
+- f. substances autres que celles citées aux let. a à e qui résultent de la réaction avec des oxydes d’azote ou de l’acide nitrique, si l’oxyde nitreux est généré dans une mesure comparable à celle de la fabrication des substances citées aux let. a à e.
 
 <sup>2</sup> Les préparations qui contiennent des substances au sens de l’al. 1 sont assimilées aux substances stables dans l’air si elles se trouvent dans des récipients servant uniquement à leur transport ou à leur stockage.
 
@@ -971,7 +982,7 @@ Sous réserve du ch. 8, al. 1, une autorisation d’importation est accordée su
 
 <sup>2</sup> L’autorisation générale d’importation donne à son titulaire le droit d’importer des quantités déterminées d’hydrofluorocarbures partiellement halogénés provenant d’exportateurs étrangers déterminés. Elle est personnelle et non transmissible.
 
-<sup>3</sup> L’OFEV informe l’Administration fédérale des douanes et les cantons de l’attribution et du retrait des autorisations générales d’importation.
+<sup>3</sup> L’OFEV informe l’OFDF et les cantons de l’attribution et du retrait des autorisations générales d’importation.
 
 ### 4.3.4 Demande
 
@@ -1028,7 +1039,7 @@ L’autorisation d’exportation est accordée si le requérant dépose une dema
 
 <sup>2</sup> L’autorisation unique d’exportation donne à son titulaire le droit d’exporter une seule fois des quantités déterminées d’hydrofluorocarbures partiellement halogénés. Elle est personnelle et non transmissible.
 
-<sup>3</sup> L’OFEV informe l’Administration fédérale des douanes et les cantons de l’attribution et du retrait des autorisations d’exportation.
+<sup>3</sup> L’OFEV informe l’OFDF et les cantons de l’attribution et du retrait des autorisations d’exportation.
 
 ### 5.4 Demande
 
@@ -1179,9 +1190,17 @@ Il incombe à l’OFEV de communiquer les données visées à l’art. 7, al. 3,
 
 [^annex15-lvlu1-lvl8-1]: Règlement (UE) n<sup>o</sup> 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n<sup>o</sup> 842/2006, version du JO L 150 du 20.5.2014, p. 195.
 
-### 9 Devoir de diligence concernant les procédés de transformation chimique
+### 9 Obligations concernant les procédés de transformation chimique
 
-Toute personne qui recourt à des procédés de transformation chimique susceptibles de générer des substances stables dans l’air comme sous-produits peut émettre 0,5 % au plus de substances stables dans l’air par rapport à la quantité de substance de départ utilisée.
+<sup>1</sup> Toute personne qui recourt à des procédés de transformation chimique susceptibles de générer des substances stables dans l’air au sens du ch. 1, al. 1, comme sous-produits peut émettre 0,5 % au plus de ces substances par rapport à la quantité de substance de départ utilisée.
+
+<sup>2</sup> Toute personne qui fabrique des substances au sens du ch. 1, al. 1<sup>bis</sup>, doit transformer selon l’état de la technique l’oxyde nitreux généré comme sous-produit si cela est possible du point de vue de la technique et de l’exploitation et économiquement supportable.
+
+### 9<sup>bis</sup> Surveillance de la transformation de l’oxyde nitreux issu des procédés de fabrication
+
+<sup>1</sup> L’OFEV surveille le respect de l’obligation visée au ch. 9, al. 2.
+
+<sup>2</sup> Lorsque la surveillance révèle que l’obligation n’est pas respectée, l’OFEV prend les mesures requises. Si nécessaire, il décide de l’arrêt du procédé de fabrication concerné.
 
 ### 10 Disposition transitoire
 
@@ -1189,6 +1208,10 @@ L’étiquetage au sens du ch. 5 dans la version du 10 décembre 2010 de l’ORR
 
 [^annex15-lvlu1-lvl10-1]: [RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 [^annex15-lvlu1-lvl10-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+
+### 11 Disposition transitoire relative à la modification du 24 novembre 2021
+
+Les substances citées au ch. 1, al. 1<sup>bis</sup>, let. f, ne peuvent être fabriquées sans transformation de l’oxyde nitreux généré que jusqu’au 30 juin 2023.
 
 Annexe 1.6*[^t-7]*
 
@@ -1247,7 +1270,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre; elle doit être rédigée en deux langues officielles au moins et être conforme au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/fr/xml/image/image1.png)</td><td colspan="3">chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/fr/xml/image/image1.png)</td><td colspan="3">chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -3850,7 +3873,7 @@ Annexe 2.9*[^t-28]*
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20211101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20220101/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -4511,7 +4534,7 @@ Annexe 2.15*[^t-33]*
 
 ## Piles
 
-[^t-33]: Nouvelle teneur selon le ch. I 5 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Mise à jour par le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)) et le ch. I de l’O du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^t-33]: Nouvelle teneur selon le ch. I 5 de l’O du 10 déc. 2010 ([RO 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)). Mise à jour par le ch. II al. 3 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), le ch. II al. 2 de l’O du 1<sup>er</sup> juil. 2015 ([RO 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et l’annexe ch. II 2 de l’O du 20 oct. 2021 sur la restitution, la reprise et l’élimination des appareils électriques et électroniques, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 ### 1 Définitions
 
@@ -4652,13 +4675,13 @@ L’organisation n’est autorisée à affecter le produit de la taxe qu’au fi
 
 <sup>2</sup> L’OFEV conclut avec l’organisation un contrat d’une durée maximale de cinq ans. Ce contrat fixe notamment le pourcentage du produit de la taxe que l’organisation peut affecter à ses propres activités, et règle les conditions et les effets d’une résiliation anticipée.
 
-<sup>3</sup> L’organisation doit confier la vérification des comptes à des tiers indépendants. Elle doit leur fournir tous les renseignements nécessaires et leur permettre de consulter les dossiers.
+<sup>3</sup> L’organisation privée doit réaliser des contrôles internes de sa gestion des affaires ainsi que confier l’examen des résultats des contrôles internes et la révision des comptes à des tiers indépendants reconnus par l’OFEV. Elle doit leur fournir tous les renseignements nécessaires à cette fin et leur permettre de consulter les dossiers.
 
 <sup>4</sup> L’organisation doit s’assurer que le respect du secret professionnel des assujettis et des entreprises d’élimination est garanti.
 
-<sup>5</sup> L’Administration fédérale des douanes peut communiquer à l’organisation les indications figurant sur la déclaration en douane et d’autres constatations liées à l’importation ou à l’exportation de piles.
+<sup>5</sup> L’OFDF peut communiquer à l’organisation les indications figurant sur la déclaration en douane et d’autres constatations liées à l’importation ou à l’exportation de piles.
 
-<sup>6</sup> L’organisation peut convenir avec l’Administration fédérale des douanes que la taxe est perçue à l’importation. Dans ce cas, le prélèvement, l’échéance et les intérêts sont régis par la législation douanière.
+<sup>6</sup> L’organisation peut convenir avec l’OFDF que la taxe est perçue à l’importation. Dans ce cas, le prélèvement, l’échéance et les intérêts sont régis par la législation douanière.
 
 ### 6.8 Surveillance de l’organisation
 
