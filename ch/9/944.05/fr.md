@@ -3,18 +3,18 @@ sr: "944.05"
 title: "Ordonnance du 1<sup>er</sup> avril 1992 sur l'aide financière en faveur des associations de consommateurs"
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/914_914_914"
 language: fr
-version: 2015-11-01
+version: 2022-01-01
 adopted: 1992-04-01
 in_force: 1992-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/914_914_914/20151101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-914_914_914-20151101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/914_914_914/20151101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/914_914_914/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-914_914_914-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/914_914_914/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’aide financière en faveur des associations de consommateurs
 
-du 1er avril 1992 (Etat le 1<sup>er</sup> novembre 2015)
+du 1er avril 1992 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -32,14 +32,14 @@ arrête:
 
 Une aide financière peut être accordée aux associations de consommateurs suivantes:
 
-- a. Associazione consumatrici della Svizzera italiana (ACSI);
-- b. Fédération romande des consommatrices (FRC)[^1-1];
-- c. Konsumentinnenforum Schweiz (KF);
-- d. Stiftung für Konsumentenschutz (SKS).
+- a. Associazione consumatrici e consumatori della Svizzera italiana (ACSI);
+- b. Fédération romande des consommateurs (FRC);
+- c. Schweizerisches Konsumentenforum (kf);
+- d. Stiftung für Konsumentenschutz (SKS).[^1-1]
 
 <sup>2</sup> Les autres organisations qui demandent une aide financière au sens de l’art. 5, al. 1, LIC doivent s’adresser au Bureau fédéral de la consommation (BFC) et prouver qu’elles satisfont aux exigences fixées par la LIC.
 
-[^1-1]: Actuellement: Fédération romande des consommateurs (FRC).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 796](https://fedlex.data.admin.ch/eli/oc/2021/796)).
 
 #### Art. 2
 
@@ -69,18 +69,13 @@ Les organisations qui demandent une aide financière pour leurs activités d’i
 
 #### Art. 4a
 
-**Conditions à remplir par les associations de consommateurs visées à l’art. 1, al. 1, pour obtenir une aide financière**[^4a-1]
+**Réduction des aides financières pour les associations de consommateurs visées à l’art. 1, al. 1**[^4a-1]
 
-<sup>1</sup>
+<sup>1</sup> S’il ressort des comptes annuels de l’année précédente que les capitaux propres des associations de consommateurs visées à l’art. 1, al. 1, y compris les réserves libres et les réserves affectées, s’élevaient à plus de 50 % des charges annuelles de l’année précédente, l’aide financière est réduite à hauteur du montant dépassant ce plafond.
 
-L’aide financière est versée intégralement aux associations de consommateurs visées à l’art. 1, al. 1, si les conditions suivantes sont remplies:
+<sup>2</sup> Si le dépassement du plafond visé à l’al. 1 est dû à des circonstances ponctuelles, la réduction de l’aide financière peut ne pas être appliquée dans des cas dûment justifiés.
 
-- a. le bénéfice de l’année précédente ne dépasse pas 10 % des fonds propres de l’association, ou 10 000 francs pour les petites associations;
-- b. les réserves s’élèvent à 50 % au plus des recettes de l’année précédente de l’association.
-
-<sup>2</sup> Si les conditions énoncées à l’al. 1 ne sont pas remplies ou ne le sont que partiellement, l’aide financière est réduite du montant qui dépasse les plafonds visés à l’al. 1.
-
-[^4a-1]: Introduit par le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)).
+[^4a-1]: Introduit par le ch. I de l’O du 7 oct. 2015 ([RO 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)). Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 796](https://fedlex.data.admin.ch/eli/oc/2021/796)).
 
 #### Art. 5
 

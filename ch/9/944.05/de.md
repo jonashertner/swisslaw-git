@@ -3,18 +3,18 @@ sr: "944.05"
 title: Verordnung vom 1. April 1992 über Finanzhilfen an Konsumentenorganisationen
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/914_914_914"
 language: de
-version: 2015-11-01
+version: 2022-01-01
 adopted: 1992-04-01
 in_force: 1992-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/914_914_914/20151101/de/xml/fedlex-data-admin-ch-eli-cc-1992-914_914_914-20151101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/914_914_914/20151101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/914_914_914/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1992-914_914_914-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/914_914_914/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Finanzhilfen an Konsumentenorganisationen
 
-vom 1. April 1992 (Stand am 1. November 2015)
+vom 1. April 1992 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -32,12 +32,14 @@ verordnet:
 
 Folgenden Konsumentenorganisationen können Finanzhilfen ausgerichtet werden:
 
-- a. Associazione consumatrici della Svizzera italiana (ACSI);
-- b. Fédération romande des consommatrices (FRC);
-- c. Konsumentinnenforum Schweiz (KF);
-- d. Stiftung für Konsumentenschutz (SKS).
+- a. Associazione consumatrici e consumatori della Svizzera italiana (ACSI);
+- b. Fédération romande des consommateurs (FRC);
+- c. Schweizerisches Konsumentenforum (kf);
+- d. Stiftung für Konsumentenschutz (SKS).[^1-1]
 
 <sup>2</sup> Weitere Organisationen, die Finanzhilfen nach Artikel 5 Absatz 1 KIG beanspruchen, haben mit dem Gesuch an das Eidgenössische Büro für Konsumentenfragen (BFK) nachzuweisen, dass sie die im KIG festgelegten Anforderungen erfüllen.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 796](https://fedlex.data.admin.ch/eli/oc/2021/796)).
 
 #### Art. 2
 
@@ -67,18 +69,13 @@ Organisationen, die Finanzhilfen für ihre Konsumenteninformation beanspruchen, 
 
 #### Art. 4a
 
-**Voraussetzungen für die Gewährung von Finanzhilfen an Konsumentenorganisationen nach Artikel 1 Absatz 1**[^4a-1]
+**Kürzung der Finanzhilfen an Konsumentenorganisationen nach Artikel 1 Absatz 1**[^4a-1]
 
-<sup>1</sup>
+<sup>1</sup> Beträgt bei Konsumentenorganisationen nach Artikel 1 Absatz 1 das Eigenkapital einschliesslich freier und gebundener Reserven gemäss Jahresrechnung des Vorjahres insgesamt mehr als 50 Prozent des Jahresaufwands des Vorjahres, so wird die Finanzhilfe um den Betrag gekürzt, um den die Höchstgrenze von 50 Prozent des Jahresaufwands überschritten wird.
 
-Die Finanzhilfen an Konsumentenorganisationen nach Artikel 1 Absatz 1 werden in voller Höhe ausgerichtet, wenn folgende Voraussetzungen erfüllt sind:
+<sup>2</sup> Ist die Überschreitung des Höchstbetrags nach Absatz 1 auf einmalige Effekte zurückzuführen, so kann in begründeten Fällen auf eine Kürzung der Finanzhilfe verzichtet werden.
 
-- a. Der letztjährige Gewinn beträgt höchstens 10 Prozent der Eigenmittel der Organisation, bei kleinen Organisationen höchstens 10 000 Franken.
-- b. Die Reserven betragen höchstens 50 Prozent der letztjährigen Einnahmen der Organisation.
-
-<sup>2</sup> Sind die Voraussetzungen nach Absatz 1 nicht oder nur teilweise erfüllt, so wird die Finanzhilfe um den Betrag gekürzt, um den die Ansätze nach Absatz 1 überschritten werden.
-
-[^4a-1]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Nov. 2015 ([AS 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)).
+[^4a-1]: Eingefügt durch Ziff. I der V vom 7. Okt. 2015 ([AS 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)). Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 796](https://fedlex.data.admin.ch/eli/oc/2021/796)).
 
 #### Art. 5
 

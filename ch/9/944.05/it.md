@@ -3,18 +3,18 @@ sr: "944.05"
 title: "Ordinanza del 1<sup>o</sup> aprile 1992 sugli aiuti finanziari alle organizzazioni di consumatori"
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/914_914_914"
 language: it
-version: 2015-11-01
+version: 2022-01-01
 adopted: 1992-04-01
 in_force: 1992-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/914_914_914/20151101/it/xml/fedlex-data-admin-ch-eli-cc-1992-914_914_914-20151101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/914_914_914/20151101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/914_914_914/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1992-914_914_914-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/914_914_914/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli aiuti finanziari alle organizzazioni di consumatori
 
-del 1° aprile 1992 (Stato 1° novembre 2015) (Stato 1° novembre 2015)
+del 1° aprile 1992 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -32,12 +32,14 @@ ordina:
 
 Possono essere concessi aiuti finanziari alle seguenti organizzazioni di consumatori:
 
-- a. Associazione consumatrici della Svizzera italiana (ACSI);
-- b. Fédération romande des consommatrices (FRC);
-- c. Konsumentinnenforum Schweiz (KF);
-- d. Stiftung für Konsumentenschutz (SKS).
+- a. Associazione consumatrici e consumatori della Svizzera italiana (ACSI);
+- b. Fédération romande des consommateurs (FRC);
+- c. Schweizerisches Konsumentenforum (kf);
+- d. Stiftung für Konsumentenschutz (SKS).[^1-1]
 
 <sup>2</sup> Altre organizzazioni che rivendicano aiuti finanziari ai sensi dell’articolo 5 capoverso 1 LIC devono inoltrarne domanda all’Ufficio federale del consumo (UFDC) e provare che adempiono alle esigenze fissate nella LIC.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 796](https://fedlex.data.admin.ch/eli/oc/2021/796)).
 
 #### Art. 2
 
@@ -67,17 +69,13 @@ Le organizzazioni che rivendicano aiuti finanziari per la loro attività di info
 
 #### Art. 4a
 
-**Condizioni per l’ottenimento degli aiuti finanziari applicabili alle organizzazioni di consumatori di cui all’articolo 1 capoverso 1**[^4a-1]
+**Riduzione degli aiuti finanziari concessi alle organizzazioni di consumatori di cui all’articolo 1 capoverso 1**[^4a-1]
 
-<sup>1</sup>
+<sup>1</sup> Se dai conti annuali dell’anno precedente risulta che il capitale proprio delle organizzazioni di consumatori di cui all’articolo 1 capoverso 1, comprese le riserve libere e le riserve vincolate, ammonta a più del 50 per cento delle spese annuali dell’anno precedente, dagli aiuti finanziari viene dedotto l’importo che supera tale percentuale massima.
 
-Gli aiuti finanziari alle organizzazioni di consumatori di cui all’articolo 1 capoverso 1 sono interamente versati se sono soddisfatte le seguenti condizioni:
+<sup>2</sup> Se il superamento dell’importo massimo di cui al capoverso 1 è da ricondurre a circostanze occasionali, in casi motivati la riduzione degli aiuti finanziari può non essere applicata.
 
-- a. l’utile dell’anno precedente non supera il 10 per cento dei fondi propri dell’organizzazione, o 10 000 franchi per le organizzazioni più piccole;
-- b. le riserve non superano il 50 per cento delle entrate dell’organizzazione dell’anno precedente.
-- [tab] <sup>2</sup> Se le condizioni di cui al capoverso 1 non sono soddisfatte o lo sono solo in parte, dagli aiuti finanziari viene dedotto l’importo che supera le aliquote di cui al capoverso 1.
-
-[^4a-1]: Introdotto giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)).
+[^4a-1]: Introdotto giusta il n. I dell’O del 7 ott. 2015 ([RU 2015 3957](https://fedlex.data.admin.ch/eli/oc/2015/663)). Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 796](https://fedlex.data.admin.ch/eli/oc/2021/796)).
 
 #### Art. 5
 
