@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 9. Oktober 1992 über das Urheberrecht und verwandte Sc
 short: URG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: de
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20200401/de/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20200401/de"
 
 (Urheberrechtsgesetz, URG)
 
-vom 9. Oktober 1992 (Stand am 1. April 2020)
+vom 9. Oktober 1992 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -430,7 +430,7 @@ Das Recht, in Radio- und Fernsehsendungen enthaltene nichttheatralische Werke de
 
 <sup>2</sup> Wer das Recht hat, ein Computerprogramm zu gebrauchen, darf davon eine Sicherungskopie herstellen; diese Befugnis kann nicht vertraglich wegbedungen werden.
 
-[^24-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^24-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 2007 ([AS 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [BBl 2006 3389](https://fedlex.data.admin.ch/eli/fga/2006/359)). Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 (AS **2****020** 1003; [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
 #### Art. 24a
 
@@ -1002,11 +1002,11 @@ Das IGE beaufsichtigt die Verwertungsgesellschaften.
 
 **Umfang der Aufsicht**
 
-<sup>1</sup> Das IGE überwacht die Geschäftsführung der Verwertungsgesellschaften und sorgt dafür, dass sie ihren Pflichten nachkommen. Sie prüft und genehmigt den Geschäftsbericht.
+<sup>1</sup> Das IGE überwacht die Geschäftsführung der Verwertungsgesellschaften und sorgt dafür, dass sie ihren Pflichten nachkommen. Es prüft und genehmigt den Geschäftsbericht.
 
-<sup>2</sup> Sie kann über die Auskunftspflicht (Art. 50) Weisungen erlassen.
+<sup>2</sup> Es kann über die Auskunftspflicht (Art. 50) Weisungen erlassen.
 
-<sup>3</sup> Zur Ausübung ihrer Befugnisse kann sie auch nicht zur Bundesverwaltung gehörende Beauftragte beiziehen; diese unterstehen der Schweigepflicht.
+<sup>3</sup> Zur Ausübung seiner Befugnisse kann es auch nicht zur Bundesverwaltung gehörende Beauftragte beiziehen; diese unterstehen der Schweigepflicht.
 
 #### Art. 54
 
@@ -1315,33 +1315,33 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 [^74-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### 4. Kapitel: Hilfeleistung der Eidgenössischen Zollverwaltung****
+### 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit****
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^tit5-chap4-1]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 75
 
 **Anzeige verdächtiger Waren**[^75-1]
 
-<sup>1</sup> Die Eidgenössische Zollverwaltung (EZV) ist ermächtigt, die Inhaber und Inhaberinnen der Urheber- oder der verwandten Schutzrechte sowie die zugelassenen Verwertungsgesellschaften zu benachrichtigen, wenn der Verdacht besteht, dass die Ein-, Aus- oder Durchfuhr von Waren bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst.[^75-2]
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, die Inhaber und Inhaberinnen der Urheber- oder der verwandten Schutzrechte sowie die zugelassenen Verwertungsgesellschaften zu benachrichtigen, wenn der Verdacht besteht, dass die Ein-, Aus- oder Durchfuhr von Waren bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst.[^75-2]
 
-<sup>2</sup> In diesem Fall ist die EZV[^75-3] ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit die antragsberechtigten Personen einen Antrag nach Artikel 76 Absatz 1 stellen können.
+<sup>2</sup> In diesem Fall ist das BAZG[^75-3] ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit die antragsberechtigten Personen einen Antrag nach Artikel 76 Absatz 1 stellen können.
 
 [^75-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^75-3]: Ausdruck gemäss Ziff. I Abs. 2 des BG vom 27. Sept. 2019, in Kraft seit 1. April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^75-2]: Fassung gemäss Ziff. I 1 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^75-3]: Ausdruck gemäss Ziff. I 1 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 76
 
 **Antrag auf Hilfeleistung**
 
-<sup>1</sup> Haben Inhaber oder Inhaberinnen beziehungsweise klageberechtigte Lizenznehmer oder Lizenznehmerinnen von Urheber- oder von verwandten Schutzrechten oder eine zugelassene Verwertungsgesellschaft konkrete Anhaltspunkte dafür, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so können sie bei der EZV schriftlich beantragen, die Freigabe der Waren zu verweigern.[^76-1]
+<sup>1</sup> Haben Inhaber oder Inhaberinnen beziehungsweise klageberechtigte Lizenznehmer oder Lizenznehmerinnen von Urheber- oder von verwandten Schutzrechten oder eine zugelassene Verwertungsgesellschaft konkrete Anhaltspunkte dafür, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so können sie beim BAZG schriftlich beantragen, die Freigabe der Waren zu verweigern.[^76-1]
 
-<sup>2</sup> Die Antragsteller haben alle ihnen greifbaren zweckdienlichen Angaben zu machen, welche die EZV benötigt, um über den Antrag entscheiden zu können. Sie übergeben ihr namentlich eine genaue Beschreibung der Waren.
+<sup>2</sup> Die Antragsteller haben alle ihnen greifbaren zweckdienlichen Angaben zu machen, welche das BAZG benötigt, um über den Antrag entscheiden zu können. Sie übergeben ihm namentlich eine genaue Beschreibung der Waren.
 
-<sup>3</sup> Die EZV entscheidet endgültig über den Antrag. Sie kann eine Gebühr zur Deckung der Verwaltungskosten erheben.[^76-2]
+<sup>3</sup> Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.[^76-2]
 
 [^76-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^76-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
@@ -1350,11 +1350,11 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 
 **Zurückbehalten von Waren**[^77-1]
 
-<sup>1</sup> Hat die EZV aufgrund eines Antrags nach Artikel 76 Absatz 1 den begründeten Verdacht, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so teilt sie dies einerseits dem Antragsteller oder der Antragstellerin und andererseits dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware mit.[^77-2]
+<sup>1</sup> Hat das BAZG aufgrund eines Antrags nach Artikel 76 Absatz 1 den begründeten Verdacht, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so teilt es dies einerseits dem Antragsteller oder der Antragstellerin und andererseits dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware mit.[^77-2]
 
-<sup>2</sup> Die EZV behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller oder die Antragstellerin vorsorgliche Massnahmen erwirken kann.
+<sup>2</sup> Das BAZG behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller oder die Antragstellerin vorsorgliche Massnahmen erwirken kann.
 
-<sup>3</sup> In begründeten Fällen kann sie die Ware während höchstens zehn weiteren Werktagen zurückbehalten.
+<sup>3</sup> In begründeten Fällen kann es die Ware während höchstens zehn weiteren Werktagen zurückbehalten.
 
 [^77-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^77-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
@@ -1363,7 +1363,7 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 
 **Proben oder Muster**[^77a-1]
 
-<sup>1</sup> Während des Zurückbehaltens der Ware ist die EZV ermächtigt, dem Antragsteller oder der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm oder ihr die Besichtigung der zurückbehaltenen Ware zu gestatten.
+<sup>1</sup> Während des Zurückbehaltens der Ware ist das BAZG ermächtigt, dem Antragsteller oder der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm oder ihr die Besichtigung der zurückbehaltenen Ware zu gestatten.
 
 <sup>2</sup> Die Proben oder Muster werden auf Kosten des Antragstellers oder der Antragstellerin entnommen und versandt.
 
@@ -1375,11 +1375,11 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 
 **Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^77b-1]
 
-<sup>1</sup> Gleichzeitig mit der Benachrichtigung nach Artikel 77 Absatz 1 informiert die EZV den Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin der Ware über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 77*a* Absatz 1.
+<sup>1</sup> Gleichzeitig mit der Benachrichtigung nach Artikel 77 Absatz 1 informiert das BAZG den Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin der Ware über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 77*a* Absatz 1.
 
 <sup>2</sup> Der Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin kann verlangen, zur Wahrung seiner beziehungsweise ihrer Fabrikations- oder Geschäftsgeheimnisse bei der Besichtigung anwesend zu sein.
 
-<sup>3</sup> Die EZV kann auf begründeten Antrag des Anmelders, Besitzers oder Eigentümers beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin die Übergabe von Proben oder Mustern verweigern.
+<sup>3</sup> Das BAZG kann auf begründeten Antrag des Anmelders, Besitzers oder Eigentümers beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin die Übergabe von Proben oder Mustern verweigern.
 
 [^77b-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1387,9 +1387,9 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 
 **Antrag auf Vernichtung der Ware**[^77c-1]
 
-<sup>1</sup> Zusammen mit dem Antrag nach Artikel 76 Absatz 1 kann der Antragsteller oder die Antragstellerin der EZV schriftlich beantragen, die Ware zu vernichten.
+<sup>1</sup> Zusammen mit dem Antrag nach Artikel 76 Absatz 1 kann der Antragsteller oder die Antragstellerin beim BAZG schriftlich beantragen, die Ware zu vernichten.
 
-<sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt die EZV dies dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware im Rahmen der Mitteilung nach Artikel 77 Absatz 1 mit.
+<sup>2</sup> Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware im Rahmen der Mitteilung nach Artikel 77 Absatz 1 mit.
 
 <sup>3</sup> Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 77 Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.
 
@@ -1409,7 +1409,7 @@ Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem V
 
 **Beweismittel**[^77e-1]
 
-Vor der Vernichtung der Ware entnimmt die EZV Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.
+Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.
 
 [^77e-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 22. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1437,7 +1437,7 @@ Vor der Vernichtung der Ware entnimmt die EZV Proben oder Muster und bewahrt sie
 
 **Haftungserklärung und Schadenersatz**[^77h-1]
 
-<sup>1</sup> Ist durch das Zurückbehalten der Ware ein Schaden zu befürchten, so kann die EZV das Zurückbehalten davon abhängig machen, dass der Antragsteller oder die Antragstellerin ihr eine Haftungserklärung abgibt. An deren Stelle kann die EZV vom Antragsteller oder von der Antragstellerin in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
+<sup>1</sup> Ist durch das Zurückbehalten der Ware ein Schaden zu befürchten, so kann das BAZG das Zurückbehalten davon abhängig machen, dass der Antragsteller oder die Antragstellerin ihm eine Haftungserklärung abgibt. An deren Stelle kann das BAZG vom Antragsteller oder von der Antragstellerin in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.
 
 <sup>2</sup> Der Antragsteller oder die Antragstellerin muss den Schaden, der durch das Zurückbehalten der Ware und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.
 

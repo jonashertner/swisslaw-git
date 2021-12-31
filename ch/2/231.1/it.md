@@ -4,11 +4,11 @@ title: "Legge federale del 9 ottobre 1992 sul diritto d'autore e sui diritti di 
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: it
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20200401/it/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20200401/it"
 
 (Legge sul diritto d’autore, LDA)
 
-del 9 ottobre 1992 (Stato 1° aprile 2020)
+del 9 ottobre 1992 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1318,33 +1318,33 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 [^74-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Capitolo 4: Intervento dell’Amministrazione federale delle dogane****
+### Capitolo 4: Intervento dell’Ufficio federale della dogana e della sicurezza dei confini****
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^tit5-chap4-1]: Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 75
 
 **Denuncia di merci sospette**[^75-1]
 
-<sup>1</sup> L’Amministrazione federale delle dogane (AFD)[^75-2] è autorizzata ad avvisare i titolari di diritti d’autore o di diritti di protezione affini nonché le società di gestione autorizzate, qualora vi sia il sospetto dell’imminente importazione, esportazione o transito di merci la cui messa in circolazione viola la legislazione in vigore in Svizzera in materia di diritto d’autore o di diritti di protezione affini.[^75-3]
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è autorizzato ad avvisare i titolari di diritti d’autore o di diritti di protezione affini nonché le società di gestione autorizzate, qualora vi sia il sospetto dell’imminente importazione, esportazione o transito di merci la cui messa in circolazione viola la legislazione in vigore in Svizzera in materia di diritto d’autore o di diritti di protezione affini.[^75-2]
 
-<sup>2</sup> In tali casi, l’AFD è autorizzata a trattenere le merci per tre giorni feriali, affinché le persone autorizzate possano presentare una domanda secondo l’articolo 76 capoverso 1.
+<sup>2</sup> In tali casi, l’UDSC[^75-3] è autorizzato a trattenere le merci per tre giorni feriali, affinché le persone autorizzate possano presentare una domanda secondo l’articolo 76 capoverso 1.
 
 [^75-1]: Nuovo testo giusta l’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Nuova espr. giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^75-3]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore il 1° apr. 2020 ([RU 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 505](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^75-2]: Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^75-3]: Nuova espr. giusta il n. I 1 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore il 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 76
 
 **Domanda d’intervento**
 
-<sup>1</sup> Se dispone di indizi concreti per ritenere imminente l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di merci la cui messa in circolazione viola la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini, il titolare di diritti d’autore o di diritti di protezione affini, il titolare di una licenza legittimato ad agire o una società di gestione autorizzata può chiedere per scritto all’AFD di negare lo svincolo di tali merci.[^76-1]
+<sup>1</sup> Se dispone di indizi concreti per ritenere imminente l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di merci la cui messa in circolazione viola la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini, il titolare di diritti d’autore o di diritti di protezione affini, il titolare di una licenza legittimato ad agire o una società di gestione autorizzata può chiedere per scritto all’UDSC di negare lo svincolo di tali merci.[^76-1]
 
-<sup>2</sup> Il richiedente fornisce all’AFD le indicazioni necessarie per decidere in merito alla richiesta. Le rimette in particolare una descrizione precisa delle merci.[^76-2]
+<sup>2</sup> Il richiedente fornisce all’UDSC le indicazioni necessarie per decidere in merito alla richiesta. Gli rimette in particolare una descrizione precisa delle merci.[^76-2]
 
-<sup>3</sup> L’AFD decide definitivamente sulla domanda. Può riscuotere un emolumento per coprire le spese amministrative.[^76-3]
+<sup>3</sup> L’UDSC decide definitivamente sulla domanda. Può riscuotere un emolumento per coprire le spese amministrative.[^76-3]
 
 [^76-1]: Nuovo testo giusta l’all. n. 3 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^76-2]: Nuovo testo giusta l’all. n. 3 della LF del 21 giu. 2013, in vigore dal 1° gen. 2017 ([RU 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
@@ -1354,9 +1354,9 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 
 **Ritenzione della merce**[^77-1]
 
-<sup>1</sup> Se, in seguito a una domanda d’intervento ai sensi dell’articolo 76 capoverso 1, ha motivi fondati di sospettare che l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di una determinata merce violi la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini, l’Amministrazione lo comunica al richiedente nonché al dichiarante, al detentore o al proprietario di tale merce.[^77-2]
+<sup>1</sup> Se, in seguito a una domanda d’intervento ai sensi dell’articolo 76 capoverso 1, ha motivi fondati di sospettare che l’introduzione nel territorio doganale svizzero o l’asportazione dal territorio doganale svizzero di una determinata merce violi la legislazione in vigore in Svizzera in materia di diritto d’autore o diritti di protezione affini, l’UDSC lo comunica al richiedente nonché al dichiarante, al detentore o al proprietario di tale merce.[^77-2]
 
-<sup>2</sup> L’AFD trattiene la merce al massimo per dieci giorni feriali dal momento della comunicazione secondo il capoverso 1, per consentire al richiedente di chiedere provvedimenti cautelari.
+<sup>2</sup> L’UDSC trattiene la merce al massimo per dieci giorni feriali dal momento della comunicazione secondo il capoverso 1, per consentire al richiedente di chiedere provvedimenti cautelari.
 
 <sup>3</sup> In casi motivati, può trattenere la merce per altri dieci giorni feriali al massimo.
 
@@ -1367,7 +1367,7 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 
 **Campioni**[^77a-1]
 
-<sup>1</sup> Durante la ritenzione della merce, l’AFD è abilitata, su domanda, a consegnare o inviare, per esame, campioni della merce al richiedente o a consentirgli di ispezionare la merce ritenuta.
+<sup>1</sup> Durante la ritenzione della merce, l’UDSC è abilitato, su domanda, a consegnare o inviare, per esame, campioni della merce al richiedente o a consentirgli di ispezionare la merce ritenuta.
 
 <sup>2</sup> Le spese per il prelievo e l’invio dei campioni sono a carico del richiedente.
 
@@ -1379,11 +1379,11 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 
 **Tutela dei segreti di fabbricazione e d’affari**[^77b-1]
 
-<sup>1</sup> Contemporaneamente alla comunicazione di cui all’articolo 77 capoverso 1, l’AFD informa il dichiarante, detentore o proprietario della merce della possibile consegna di campioni e della possibilità di ispezionarli secondo l’articolo 77*a* capoverso 1.
+<sup>1</sup> Contemporaneamente alla comunicazione di cui all’articolo 77 capoverso 1, l’UDSC informa il dichiarante, detentore o proprietario della merce della possibile consegna di campioni e della possibilità di ispezionarli secondo l’articolo 77*a* capoverso 1.
 
 <sup>2</sup> Il dichiarante, detentore o proprietario può chiedere di essere presente durante l’ispezione al fine di tutelare i propri segreti di fabbricazione o d’affari.
 
-<sup>3</sup> L’AFD può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni.
+<sup>3</sup> L’UDSC può, su richiesta motivata del dichiarante, detentore o proprietario, rifiutare la consegna di campioni.
 
 [^77b-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1391,9 +1391,9 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 
 **Domanda di distruzione della merce**[^77c-1]
 
-<sup>1</sup> Insieme con la domanda di cui all’articolo 76 capoverso 1, il richiedente può chiedere per scritto all’AFD di distruggere la merce.
+<sup>1</sup> Insieme con la domanda di cui all’articolo 76 capoverso 1, il richiedente può chiedere per scritto all’UDSC di distruggere la merce.
 
-<sup>2</sup> Se è presentata una domanda di distruzione della merce secondo il capoverso 1, l’AFD ne avvisa il dichiarante, detentore o proprietario della merce nella comunicazione di cui all’articolo 77 capoverso 1.
+<sup>2</sup> Se è presentata una domanda di distruzione della merce secondo il capoverso 1, l’UDSC ne avvisa il dichiarante, detentore o proprietario della merce nella comunicazione di cui all’articolo 77 capoverso 1.
 
 <sup>3</sup> La domanda di distruzione della merce non implica un prolungamento dei termini per chiedere provvedimenti cautelari secondo l’articolo 77 capoversi 2 e 3.
 
@@ -1413,7 +1413,7 @@ La procedura di ricorso dinanzi al Tribunale amministrativo federale è retta da
 
 **Mezzi probatori**[^77e-1]
 
-Prima di distruggere la merce, l’AFD preleva campioni e li conserva come prova per un’eventuale azione per risarcimento dei danni.
+Prima di distruggere la merce, l’UDSC preleva campioni e li conserva come prova per un’eventuale azione per risarcimento dei danni.
 
 [^77e-1]: Introdotto dall’all. n. 1 della LF del 22 giu. 2007, in vigore dal 1° lug. 2008 ([RU 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1441,7 +1441,7 @@ Prima di distruggere la merce, l’AFD preleva campioni e li conserva come prova
 
 **Dichiarazione di responsabilità e risarcimento**[^77h-1]
 
-<sup>1</sup> Se vi è da temere un danno dovuto alla ritenzione della merce, l’AFD può subordinare la ritenzione della merce a una dichiarazione di responsabilità da parte del richiedente. Al posto di tale dichiarazione, l’AFD può, in casi motivati, chiedere al richiedente un’adeguata garanzia.
+<sup>1</sup> Se vi è da temere un danno dovuto alla ritenzione della merce, l’UDSC può subordinare la ritenzione della merce a una dichiarazione di responsabilità da parte del richiedente. Al posto di tale dichiarazione, l’UDSC può, in casi motivati, chiedere al richiedente un’adeguata garanzia.
 
 <sup>2</sup> Se non vengono ordinati provvedimenti cautelari o se i provvedimenti presi si rivelano infondati, il richiedente deve risarcire il danno causato dalla ritenzione della merce e dal prelievo dei campioni.
 

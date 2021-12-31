@@ -4,11 +4,11 @@ title: "Loi fédérale du 9 octobre 1992 sur le droit d'auteur et les droits voi
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: fr
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20200401/fr"
 
 (Loi sur le droit d’auteur, LDA)**<sup>[^t-1]∗</sup>****[^t-2]**
 
-du 9 octobre 1992 (Etat le 1<sup>er</sup> avril 2020)
+du 9 octobre 1992 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2421](https://fedlex.data.admin.ch/eli/oc/2008/347); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
@@ -31,7 +31,7 @@ vu le message du Conseil fédéral du 19 juin 1989[^ingress-3],
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^ingress-3]: [FF 1989 III 465](https://fedlex.data.admin.ch/eli/fga/1989/3_477_465_413)
 
 ## Titre 1 Objet
@@ -872,7 +872,7 @@ Sont soumis à la surveillance de la Confédération:
 
 La personne qui gère des droits soumis à la surveillance de la Confédération doit être titulaire d’une autorisation de l’Institut Fédéral de la Propriété Intellectuelle (IPI)[^41-1].
 
-[^41-1]: Nouvelle expression selon le ch. 3 de l’annexe à la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Il a été tenu compte de cette mod. dans tout le texte.
+[^41-1]: Nouvelle expression selon l’annexe ch. 3 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 42
 
@@ -1019,9 +1019,9 @@ La surveillance des sociétés de gestion incombe à l’IPI.
 
 **Étendue de la surveillance**
 
-<sup>1</sup> L’IPI contrôle l’activité des sociétés de gestion et veille à ce qu’elles s’acquittent de leurs obligations. Elle examine leur rapport d’activité et l’approuve.
+<sup>1</sup> L’IPI contrôle l’activité des sociétés de gestion et veille à ce qu’elles s’acquittent de leurs obligations. Il examine leur rapport d’activité et l’approuve.
 
-<sup>2</sup> Elle peut édicter des instructions sur l’obligation de renseigner (art. 50).
+<sup>2</sup> Il peut édicter des instructions sur l’obligation de renseigner (art. 50).
 
 <sup>3</sup> Pour exercer ses attributions, l’IPI peut aussi faire appel à des personnes étrangères à l’administration fédérale; ces personnes sont soumises à l’obligation de garder le secret.
 
@@ -1135,10 +1135,10 @@ La personne qui subit ou risque de subir une violation de son droit d’auteur o
 
 <sup>3</sup> La personne qui dispose d’une licence exclusive peut elle-même intenter l’action pour autant que le contrat de licence ne l’exclue pas explicitement. Tous les preneurs de licence peuvent se joindre à une action en contrefaçon afin de faire valoir leur propre dommage.[^62-4]
 
-[^62-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^62-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^62-2]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)). Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 [^62-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^62-4]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^62-4]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 63
 
@@ -1148,7 +1148,7 @@ La personne qui subit ou risque de subir une violation de son droit d’auteur o
 
 <sup>2</sup> Sont exceptées les œuvres d’architecture déjà réalisées.
 
-[^63-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^63-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 64
 
@@ -1181,7 +1181,7 @@ Toute personne qui demande des mesures provisionnelles peut en particulier requ�
 
 Les tribunaux communiquent gratuitement à l’IPI les jugements exécutoires en version intégrale.
 
-[^66a-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^66a-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ### Chapitre 2 Dispositions pénales
 
@@ -1208,7 +1208,7 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 
 <sup>2</sup> Si l’auteur d’une infraction au sens de l’al. 1 agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^67-4]
 
-[^67-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^67-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^67-2]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-3]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^67-4]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
@@ -1219,7 +1219,7 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 
 Quiconque, intentionnellement, omet de mentionner, dans les cas où la loi le prescrit (art. 25 et 28), la source utilisée et, pour autant qu’il y soit désigné, l’auteur, est, sur plainte du lésé, puni de l’amende.
 
-[^68-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^68-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 69
 
@@ -1244,7 +1244,7 @@ Sur plainte du lésé, est puni d’une peine privative de liberté d’un an au
 
 <sup>2</sup> Si l’auteur d’une infraction au sens de l’al. 1 agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. En cas de peine privative de liberté, une peine pécuniaire est également prononcée.[^69-5]
 
-[^69-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^69-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^69-2]: Nouvelle teneur selon l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-3]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
 [^69-4]: Introduit par l’art. 2 de l’AF du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357); [FF 2006 3263](https://fedlex.data.admin.ch/eli/fga/2006/359)).
@@ -1282,7 +1282,7 @@ Sur plainte du lésé, est puni d’une amende quiconque, intentionnellement et 
 
 Quiconque, sans être titulaire de l’autorisation requise (art. 41), fait valoir des droits d’auteur ou des droits voisins dont la gestion est placée sous surveillance fédérale (art. 40) est puni d’une amende.
 
-[^70-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^70-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 71
 
@@ -1298,7 +1298,7 @@ Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal adminis
 
 Une fois réalisées, les œuvres d’architecture ne peuvent pas être confisquées en vertu de l’art. 69 du code pénal[^72-2].
 
-[^72-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^72-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 [^72-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 73
@@ -1315,7 +1315,7 @@ Une fois réalisées, les œuvres d’architecture ne peuvent pas être confisqu
 
 [^tit5-chap3-1]
 
-[^tit5-chap3-1]: Nouvelle teneur selon le ch. 19 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^tit5-chap3-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 74
 
@@ -1334,85 +1334,85 @@ La procédure de recours devant le Tribunal administratif fédéral est régie p
 [^74-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Chapitre 4 Intervention de l’Administration fédérale des douanes****
+### Chapitre 4 Intervention de l’Office fédéral de la douane et de la sécurité des frontières****
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^tit5-chap4-1]: Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 75
 
 **Dénonciation de produits suspects**[^75-1]
 
-<sup>1</sup> L’Administration fédérale des douanes (AFD) est habilitée à informer les titulaires de droits d’auteur ou de droits voisins et les sociétés de gestion agréées lorsqu’il y a lieu de soupçonner que l’importation, l’exportation ou le transit de produits dont la mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins sont imminents.[^75-2]
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer les titulaires de droits d’auteur ou de droits voisins et les sociétés de gestion agréées lorsqu’il y a lieu de soupçonner que l’importation, l’exportation ou le transit de produits dont la mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins sont imminents.[^75-2]
 
-<sup>2</sup> Dans ce cas, l’AFD[^75-3] est habilitée à retenir les produits pendant trois jours ouvrables afin de permettre aux personnes habilitées de déposer une demande au sens de l’art. 76, al. 1.
+<sup>2</sup> Dans ce cas, l’OFDF[^75-3] est habilité à retenir les produits pendant trois jours ouvrables afin de permettre aux personnes habilitées de déposer une demande au sens de l’art. 76, al. 1.
 
-[^75-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^75-3]: Nouvelle expression selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [FF 2018 559](https://fedlex.data.admin.ch/eli/fga/2018/184)). Il a été tenu compte de cette mod. dans tout le texte.
+[^75-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^75-2]: Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^75-3]: Nouvelle expression selon le ch. I 1 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 76
 
 **Demande d’intervention**
 
-<sup>1</sup> Lorsque le titulaire de droits d’auteur ou de droits voisins, le preneur de licence qui a qualité pour agir ou une société de gestion agréée ont des indices sérieux permettant de soupçonner que l’introduction dans le territoire douanier suisse de produits dont la mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins ou leur sortie sont imminentes, ils peuvent demander par écrit à l’AFD de refuser la mainlevée de ces produits.[^76-1]
+<sup>1</sup> Lorsque le titulaire de droits d’auteur ou de droits voisins, le preneur de licence qui a qualité pour agir ou une société de gestion agréée ont des indices sérieux permettant de soupçonner que l’introduction dans le territoire douanier suisse de produits dont la mise en circulation contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF de refuser la mainlevée de ces produits.[^76-1]
 
-<sup>2</sup> Le requérant fournira à l’AFD toutes les indications dont celle-ci a besoin pour statuer sur sa demande. Il lui remettra notamment une description précise des produits.
+<sup>2</sup> Le requérant fournira à l’OFDF toutes les indications dont celui-ci a besoin pour statuer sur sa demande. Il lui remettra notamment une description précise des produits.
 
-<sup>3</sup> L’AFD statue définitivement sur la demande. Elle peut percevoir un émolument pour couvrir les frais administratifs.[^76-2]
+<sup>3</sup> L’OFDF statue définitivement sur la demande. Il peut percevoir un émolument pour couvrir les frais administratifs.[^76-2]
 
-[^76-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^76-2]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^76-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^76-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 77
 
 **Rétention des produits**[^77-1]
 
-<sup>1</sup> Lorsque, à la suite d’une demande d’intervention au sens de l’art. 76, al. 1, l’AFD a des raisons fondées de soupçonner que l’introduction dans le territoire douanier suisse de produits ou leur sortie contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins, elle en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des produits, d’autre part.[^77-2]
+<sup>1</sup> Lorsque, à la suite d’une demande d’intervention au sens de l’art. 76, al. 1, l’OFDF a des raisons fondées de soupçonner que l’introduction dans le territoire douanier suisse de produits ou leur sortie contrevient à la législation en vigueur en Suisse dans le domaine du droit d’auteur ou des droits voisins, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des produits, d’autre part.[^77-2]
 
-<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, elle retient les produits durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
+<sup>2</sup> Afin de permettre au requérant d’obtenir des mesures provisionnelles, il retient les produits durant dix jours ouvrables au plus à compter du moment de l’information au sens de l’al. 1.
 
-<sup>3</sup> Si les circonstances le justifient, elle peut retenir les produits en cause pendant une durée supplémentaire de dix jours ouvrables au plus.
+<sup>3</sup> Si les circonstances le justifient, il peut retenir les produits en cause pendant une durée supplémentaire de dix jours ouvrables au plus.
 
-[^77-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^77-2]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^77-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 #### Art. 77a
 
 **Échantillons**[^77a-1]
 
-<sup>1</sup> Sur demande, l’AFD est habilitée, pendant la durée de la rétention des produits, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les produits retenus.
+<sup>1</sup> Sur demande, l’OFDF est habilité, pendant la durée de la rétention des produits, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les produits retenus.
 
 <sup>2</sup> Le requérant supporte les frais liés au prélèvement et à l’envoi des échantillons.
 
 <sup>3</sup> Une fois l’examen des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.
 
-[^77a-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77a-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 77b
 
 **Protection des secrets de fabrication ou d’affaires**[^77b-1]
 
-<sup>1</sup> En même temps que la communication visée à l’art. 77, al. 1, l’AFD informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité, prévue à l’art. 77*a*, al. 1 de remettre des échantillons au requérant ou de le laisser examiner sur place les produits retenus.
+<sup>1</sup> En même temps que la communication visée à l’art. 77, al. 1, l’OFDF informe le déclarant, le possesseur ou le propriétaire des produits de la possibilité, prévue à l’art. 77*a*, al. 1 de remettre des échantillons au requérant ou de le laisser examiner sur place les produits retenus.
 
 <sup>2</sup> Le déclarant, le possesseur ou le propriétaire des produits peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.
 
-<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des produits, l’AFD peut refuser la remise d’échantillons.
+<sup>3</sup> Sur demande motivée du déclarant, du possesseur ou du propriétaire des produits, l’OFDF peut refuser la remise d’échantillons.
 
-[^77b-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77b-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 77c
 
 **Demande de destruction des produits**[^77c-1]
 
-<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 76, al. 1, le requérant peut deman-der par écrit à l’AFD la destruction des produits.
+<sup>1</sup> Lorsqu’il dépose une demande au sens de l’art. 76, al. 1, le requérant peut deman-der par écrit à l’OFDF la destruction des produits.
 
-<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’AFD en informe le déclarant, le possesseur ou le propriétaire des produits dans le cadre de l’information visée à l’art. 77, al. 1.
+<sup>2</sup> Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des produits dans le cadre de l’information visée à l’art. 77, al. 1.
 
 <sup>3</sup> La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 77, al. 2 et 3 pour l’obtention de mesures provisionnelles.
 
-[^77c-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77c-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 77d
 
@@ -1422,15 +1422,15 @@ La procédure de recours devant le Tribunal administratif fédéral est régie p
 
 <sup>2</sup> L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des produits ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 77, al. 2 et 3.
 
-[^77d-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77d-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 77e
 
 **Moyens de preuve**[^77e-1]
 
-Avant la destruction des produits, l’AFD prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
+Avant la destruction des produits, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.
 
-[^77e-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77e-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 77f
 
@@ -1440,7 +1440,7 @@ Avant la destruction des produits, l’AFD prélève des échantillons et les co
 
 <sup>2</sup> Si le déclarant, le possesseur ou le propriétaire des produits donne son approbation par écrit à leur destruction et que celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.
 
-[^77f-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77f-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 77g
 
@@ -1450,17 +1450,17 @@ Avant la destruction des produits, l’AFD prélève des échantillons et les co
 
 <sup>2</sup> La question des coûts liés au prélèvement et à la conservation des échantillons au sens de l’art. 77*e* est tranchée par le tribunal dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 77*f*, al. 1.
 
-[^77g-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77g-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 77h
 
 **Déclaration de responsabilité et dommages-intérêts**[^77h-1]
 
-<sup>1</sup> Si la rétention des produits risque d’occasionner un dommage, l’AFD peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, elle peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
+<sup>1</sup> Si la rétention des produits risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.
 
 <sup>2</sup> Le requérant est tenu de réparer le dommage causé par la rétention des produits et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.
 
-[^77h-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^77h-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 ## Titre 5*a***** Traitement des données personnelles en vue de déposer une plainte ou une dénonciation pénale
 
@@ -1526,7 +1526,7 @@ Sont abrogées:
 
 Les art. 62, al. 3 et 65, al. 5, ne sont applicables qu’aux contrats de licence conclus ou confirmés après l’entrée en vigueur de la modification du 22 juin 2007 de la présente loi.
 
-[^81a-1]: Introduit par le ch. 1 de l’annexe à la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
+[^81a-1]: Introduit par l’annexe ch. 1 de la LF du 22 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [FF 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
 #### Art. 82
 

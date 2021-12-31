@@ -4,11 +4,11 @@ title: "Federal Act of 9 October 1992 on Copyright and Related Rights (Copyright
 short: CopA
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798"
 language: en
-version: 2020-04-01
+version: 2022-01-01
 adopted: 1992-10-09
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20200401/en/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20200401-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20200401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1993-1798_1798_1798-20220101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Copyright Act, CopA)
 
-of 9 October 1992 (Status as of 1 April 2020)
+of 9 October 1992 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1322,33 +1322,33 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 [^74-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^74-3]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
 
-### Chapter 4 Assistance provided by the Federal Customs Administration****
+### Chapter 4 Assistance provided by the Federal Office for Customs and Border Security****
 
 [^tit5-chap4-1]
 
-[^tit5-chap4-1]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
+[^tit5-chap4-1]: Amended by No I 1 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 75
 
 **Notification of suspicious goods**[^75-1]
 
-<sup>1</sup> The Federal Customs Administration (FCA) is authorised to notify the owners of copyright or related rights as well as the authorised collective rights management organisations if there is any suspicion that goods the distribution of which would violate legislation applicable in Switzerland on copyright or related rights may be imported, exported or carried in transit.[^75-2]
+<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) is authorised to notify the owners of copyright or related rights as well as the authorised collective rights management organisations if there is any suspicion that goods the distribution of which would violate legislation applicable in Switzerland on copyright or related rights may be imported, exported or carried in transit.[^75-2]
 
-<sup>2</sup> In such cases, the FCA[^75-3] is authorised to withhold the goods for three working days in order that the persons entitled may file an application in accordance with Article 76 paragraph 1.
+<sup>2</sup> In such cases, the FOCBS[^75-3] is authorised to withhold the goods for three working days in order that the persons entitled may file an application in accordance with Article 76 paragraph 1.
 
 [^75-1]: Amended by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
-[^75-2]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)).
-[^75-3]: Name in accordance with No1 para. 2 of the FA of 27 Sept. 2019, in force since 1 April 2020 ([AS 2020 1003](https://fedlex.data.admin.ch/eli/oc/2020/181); [BBl 2018 591](https://fedlex.data.admin.ch/eli/fga/2018/184)). This modification has been made throughout the text.
+[^75-2]: Amended by No I 1 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^75-3]: Name in accordance with No I 1 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
 
 #### Art. 76
 
 **Application for assistance**
 
-<sup>1</sup> If owners or licensees of copyright or related rights entitled to institute proceedings or an authorised collective rights management organisation have clear indications that goods the distribution of which would violate legislation applicable in Switzerland on copyright or related rights may imminently be brought into or taken out of Swiss customs territory, they may request the FCA in writing to refuse the release of the goods.[^76-1]
+<sup>1</sup> If owners or licensees of copyright or related rights entitled to institute proceedings or an authorised collective rights management organisation have clear indications that goods the distribution of which would violate legislation applicable in Switzerland on copyright or related rights may imminently be brought into or taken out of Swiss customs territory, they may request the FOCBS in writing to refuse the release of the goods.[^76-1]
 
-<sup>2</sup> The applicants must provide all the relevant information available to them that is required by the FCA in order to decide on the application. In particular, they shall provide a precise description of the goods.
+<sup>2</sup> The applicants must provide all the relevant information available to them that is required by the FOCBS in order to decide on the application. In particular, they shall provide a precise description of the goods.
 
-<sup>3</sup> The FCA makes the final decision on the application. It may charge a fee to cover the administrative costs.[^76-2]
+<sup>3</sup> The FOCBS makes the final decision on the application. It may charge a fee to cover the administrative costs.[^76-2]
 
 [^76-1]: Amended by Annex No 3 of the FA of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3631](https://fedlex.data.admin.ch/eli/oc/2015/609); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 [^76-2]: Amended by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
@@ -1357,9 +1357,9 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 
 **Withholding of goods**[^77-1]
 
-<sup>1</sup> If the FCA, as a result of an application under Article 76 paragraph 1, has grounds to suspect that certain goods that violate legislation applicable in Switzerland on copyright or related rights may be brought into or taken out of Swiss customs territory, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^77-2]
+<sup>1</sup> If the FOCBS, as a result of an application under Article 76 paragraph 1, has grounds to suspect that certain goods that violate legislation applicable in Switzerland on copyright or related rights may be brought into or taken out of Swiss customs territory, then it shall notify the applicant and the declarant, holder or owner of the goods accordingly.[^77-2]
 
-<sup>2</sup> The FCA shall withhold the goods for a maximum of ten working days from the time of notification pursuant to paragraph 1 so that the applicant may obtain preliminary measures.
+<sup>2</sup> The FOCBS shall withhold the goods for a maximum of ten working days from the time of notification pursuant to paragraph 1 so that the applicant may obtain preliminary measures.
 
 <sup>3</sup> Where justified by the circumstances, it may withhold the goods for a maximum of ten additional working days.
 
@@ -1370,7 +1370,7 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 
 **Samples**[^77a-1]
 
-<sup>1</sup> While the goods are being withheld, the FCA is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
+<sup>1</sup> While the goods are being withheld, the FOCBS is authorised to hand over or deliver to the applicant, on request, samples for examination or to permit the applicant to inspect the goods being withheld.
 
 <sup>2</sup> The samples are collected and delivered at the expense of the applicant.
 
@@ -1382,11 +1382,11 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 
 **Safeguarding manufacturing and trade secrets**[^77b-1]
 
-<sup>1</sup> At the same time as notification is made in accordance with Article 77 paragraph 1, the FCA shall inform the declarant, holder or owner of the goods of the possible handover of samples or the opportunity to inspect them in accordance with Article 77*a* paragraph 1.
+<sup>1</sup> At the same time as notification is made in accordance with Article 77 paragraph 1, the FOCBS shall inform the declarant, holder or owner of the goods of the possible handover of samples or the opportunity to inspect them in accordance with Article 77*a* paragraph 1.
 
 <sup>2</sup> The declarant, holder or owner may request to be present at the inspection in order to safeguard his manufacturing or trade secrets.
 
-<sup>3</sup> The FCA may refuse to hand over samples on a reasoned request from the declarant, holder or owner.
+<sup>3</sup> The FOCBS may refuse to hand over samples on a reasoned request from the declarant, holder or owner.
 
 [^77b-1]: Inserted by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1394,9 +1394,9 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 
 **Application for destruction of the goods**[^77c-1]
 
-<sup>1</sup> When making an application under Article 76 paragraph 1, the applicant may submit a written request for the FCA to destroy the goods.
+<sup>1</sup> When making an application under Article 76 paragraph 1, the applicant may submit a written request for the FOCBS to destroy the goods.
 
-<sup>2</sup> If an application for destruction is made, the FCA shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 77 paragraph 1.
+<sup>2</sup> If an application for destruction is made, the FOCBS shall notify the declarant, holder or owner of the goods accordingly as part of the notification made under Article 77 paragraph 1.
 
 <sup>3</sup> The application for destruction does not result in the time limits for obtaining preliminary measures under Article 77 paragraphs 2 and 3 being extended.
 
@@ -1416,7 +1416,7 @@ The procedure for appeals before the Federal Administrative Court is subject to 
 
 **Evidence**[^77e-1]
 
-Before the destruction of the goods, the FCA shall remove samples and hold them in safekeeping as evidence in any actions for damages.
+Before the destruction of the goods, the FOCBS shall remove samples and hold them in safekeeping as evidence in any actions for damages.
 
 [^77e-1]: Inserted by Annex No I of the FA of 22 June 2007, in force since 1 July 2008 ([AS 2008 2551](https://fedlex.data.admin.ch/eli/oc/2008/366); [BBl 2006 1](https://fedlex.data.admin.ch/eli/fga/2006/1)).
 
@@ -1444,7 +1444,7 @@ Before the destruction of the goods, the FCA shall remove samples and hold them 
 
 **Accountability statement and damages**[^77h-1]
 
-<sup>1</sup> If it is anticipated that withholding the goods may lead to a loss being incurred, the FCA may make the withholding of the goods dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by the circumstances, the FCA may request the applicant to provide appropriate security.
+<sup>1</sup> If it is anticipated that withholding the goods may lead to a loss being incurred, the FOCBS may make the withholding of the goods dependent on the applicant providing them with an accountability statement. As an alternative to this statement and where justified by the circumstances, the FOCBS may request the applicant to provide appropriate security.
 
 <sup>2</sup> The applicant is liable for any losses incurred from withholding the goods and from collecting the samples if preliminary measures are not ordered or prove to be unjustified.
 
