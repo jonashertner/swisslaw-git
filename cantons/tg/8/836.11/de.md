@@ -4,13 +4,13 @@ number: "836.11"
 title: Verordnung des Regierungsrates zum Gesetz über die Familienzulagen
 short: TG FamZV
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-05-19
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-26
 adopted: 2008-11-11
 in_force: 2009-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/836.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1839/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1946/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ TG FamZV
 
 (TG FamZV)
 
-vom 11.11.2008 (Stand 01.01.2021)
+vom 11.11.2008 (Stand 01.01.2022)
 
 #### § 1
 
@@ -43,7 +43,7 @@ vom 11.11.2008 (Stand 01.01.2021)
 
 **Anerkennung von Familienausgleichskassen**
 
-<sup>1</sup> Gesuche um Anerkennung sind mit dem kantonalen Formular und den darin aufgeführten Unterlagen beim Departement für Inneres und Volkswirtschaft einzureichen.
+<sup>1</sup> Gesuche um Anerkennung sind beim Departement für Finanzen und Soziales einzureichen.
 
 <sup>2</sup> Mit der Anerkennung einer Familienausgleichskasse übernimmt der Kanton keine Garantie für die Erfüllung ihrer Verpflichtungen.
 
@@ -83,7 +83,7 @@ vom 11.11.2008 (Stand 01.01.2021)
 
 **Finanzierung der Familienzulagen für Nichterwerbstätige**
 
-<sup>1</sup> Nichterwerbstätige haben einen Anteil von 34 % ihrer AHV-Beiträge zu leisten, sofern diese den Mindestbeitrag nach Artikel 10 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^7a-1] übersteigen.
+<sup>1</sup> Nichterwerbstätige haben einen Anteil von 34 % ihrer AHV-Beiträge zu leisten, sofern diese den Mindestbeitrag nach Art. 10 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^7a-1] übersteigen.
 
 [^7a-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 
