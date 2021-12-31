@@ -3,27 +3,28 @@ sr: "672.934.51"
 title: Verordnung vom 23. August 2006 zum schweizerisch-finnischen Doppelbesteuerungsabkommen
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/590"
 language: de
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2006-08-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/590/20070101/de/xml/fedlex-data-admin-ch-eli-cc-2006-590-20070101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/590/20070101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/590/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-590-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/590/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung zum schweizerisch-finnischen Doppelbesteuerungsabkommen
 
-vom 23. August 2006 (Stand am 1. Januar 2007)
+vom 23. August 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf den Bundesbeschluss vom 22. Juni 1951[^ingress-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung, in Ausführung des Abkommens vom 16. Dezember 1991[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und der Republik Finnland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (Abkommen),
+gestützt auf Artikel 35 Absatz 1 des Bundesgesetzes vom 18. Juni 2021[^ingress-1] über die Durchführung von internationalen Abkommen im Steuerbereich, in Ausführung des Abkommens vom 16. Dezember 1991[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und der Republik Finnland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (Abkommen),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [SR 0.672.934.51](https://fedlex.data.admin.ch/eli/cc/1994/234_234_234); [BBl 2006 4781](https://fedlex.data.admin.ch/eli/fga/2006/593)
+[^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [SR 0.672.934.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2584)
+[^ingress-3]: Fassung gemäss Ziff. II 10 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## 1. Abschnitt: Allgemeiner Informationsaustausch
 
@@ -89,7 +90,7 @@ verordnet:
 
 <sup>2</sup> Die Durchführung richtet sich nach Artikel 49 des Bundesgesetzes vom 22. März 1974[^6-1] über das Verwaltungsstrafrecht.
 
-[^6-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 

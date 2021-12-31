@@ -3,29 +3,30 @@ sr: "672.934.51"
 title: Ordonnance du 23 août 2006 relative à la convention de double imposition conclue entre la Suisse et la Finlande
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/590"
 language: fr
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2006-08-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/590/20070101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-590-20070101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/590/20070101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/590/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-590-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/590/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance relative à la convention de double imposition conclue entre la Suisse et la Finlande
 
-du 23 août 2006 (Etat le 1<sup>er</sup> janvier 2007)
+du 23 août 2006 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’arrêté fédéral du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions[^ingress-1], vu la Convention du 16 décembre 1991 entre la Confédération suisse et la République de Finlande en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (Convention)[^ingress-2],
+vu l’art. 35, al. 1, de la loi fédérale du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal[^ingress-1], vu la Convention du 16 décembre 1991 entre la Confédération suisse et la République de Finlande en vue d’éviter les doubles impositions en matière d’impôts sur le revenu et sur la fortune (Convention)[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.934.51](https://fedlex.data.admin.ch/eli/cc/1994/234_234_234); [FF 2006 4551](https://fedlex.data.admin.ch/eli/fga/2006/593)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.934.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2584)
+[^ingress-3]: Nouvelle teneur selon le ch. II 10 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
-## Section 1 Echange de renseignements en général
+## Section 1 Échange de renseignements en général
 
 #### Art. 1
 
@@ -35,7 +36,7 @@ arrête:
 
 <sup>3</sup> Le recours contre la décision de l’Administration fédérale des contributions est régi par les dispositions générales de la procédure fédérale.
 
-## Section 2 Echange de renseignements en cas de fraude fiscale
+## Section 2 Échange de renseignements en cas de fraude fiscale
 
 #### Art. 2
 
@@ -89,7 +90,7 @@ arrête:
 
 <sup>2</sup> La perquisition est régie par l’art. 49 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^6-1].
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 

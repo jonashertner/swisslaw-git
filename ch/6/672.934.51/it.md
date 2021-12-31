@@ -3,27 +3,28 @@ sr: "672.934.51"
 title: Ordinanza del 23 agosto 2006 concernente la convenzione svizzero-finlandese di doppia imposizione
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/590"
 language: it
-version: 2007-01-01
+version: 2022-01-01
 adopted: 2006-08-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/590/20070101/it/xml/fedlex-data-admin-ch-eli-cc-2006-590-20070101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/590/20070101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/590/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-590-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/590/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la convenzione svizzero-finlandese di doppia imposizione
 
-del 23 agosto 2006 (Stato 1° gennaio 2007)
+del 23 agosto 2006 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visto il decreto federale 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali conchiuse dalla Confederazione per evitare i casi di doppia imposizione; in esecuzione della Convenzione del 16 dicembre 1991[^ingress-2] tra la Confederazione Svizzera e la Repubblica di Finlandia per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (Convenzione),
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale; in esecuzione della Convenzione del 16 dicembre 1991[^ingress-2] tra la Confederazione Svizzera e la Repubblica di Finlandia per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (Convenzione),[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.934.51](https://fedlex.data.admin.ch/eli/cc/1994/234_234_234)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.934.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2584)
+[^ingress-3]: Nuovo testo giusta il n. II 10 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## Sezione 1: Scambio di informazioni generale
 
@@ -89,7 +90,7 @@ ordina:
 
 <sup>2</sup> L’esecuzione della perquisizione è disciplinata nell’articolo 49 della legge federale del 22 marzo 1974[^6-1] sul diritto penale amministrativo.
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 
