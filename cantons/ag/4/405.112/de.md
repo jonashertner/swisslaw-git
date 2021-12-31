@@ -4,13 +4,13 @@ number: "405.112"
 title: Verordnung über die Schuldienste
 short: V Schuldienste
 language: de
-version: 2020-08-01
-valid_until: 2021-12-31
-version_adopted: 2020-04-29
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-15
 adopted: 2017-05-03
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/405.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2862/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3196/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2862/pdf_file"
 
 (V Schuldienste)
 
-Vom 03.05.2017 (Stand 01.08.2020)
+Vom 03.05.2017 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -101,11 +101,13 @@ beschliesst:
 
 **Standorte**
 
-<sup>1</sup> Der Schulpsychologische Dienst führt Regionalstellen in Aarau, Baden, Bad Zurzach, Rheinfelden, Wohlen und Zofingen.
+<sup>1</sup> Der Schulpsychologische Dienst führt Regionalstellen in Aarau, Baden, Bad Zurzach[^8-1], Rheinfelden, Wohlen und Zofingen.
 
 <sup>2</sup> Das BKS legt das Einzugsgebiet der Regionalstellen fest. Dabei berücksichtigt es die Erreichbarkeit mit öffentlichen Verkehrsmitteln.
 
 <sup>3</sup> Die Regionalstellen sorgen mit Aussenstellen für die Sicherstellung eines gleichwertigen und schulnahen Angebots.
+
+[^8-1]: Zusammenschluss der Gemeinden Bad Zurzach, Baldingen, Böbikon, Kaiserstuhl, Rekingen, Rietheim, Rümikon und Wislikofen zur Gemeinde Zurzach per 1. Januar 2022 (GRB 2020-1646)
 
 ## 4. Beratungsangebote für Ausbildung und Beruf
 
@@ -127,6 +129,7 @@ beschliesst:
 
 - a) Bereitstellen von Informationen und Auskunftserteilung zum Bildungs- und Berufsangebot,
 - b) Einzelberatungen für Personen bis zum vollendeten 25. Altersjahr und für Personen ohne abgeschlossene Ausbildung auf Sekundarstufe II,
+- b<sup>bis</sup>) Standortbestimmungen und Potentialabklärungen für Personen ab dem vollendeten 40. Altersjahr im Rahmen des Programms viamia zur Erhaltung oder Verbesserung der Arbeitsmarktfähigkeit,[^10-1]
 - c) Gruppenberatungen,
 - d) Informationsveranstaltungen.
 
@@ -150,6 +153,8 @@ beschliesst:
 <sup>4</sup> Das unentgeltliche Grundangebot gemäss den Absätzen 1 und 2 wird in enger Zusammenarbeit mit den Schulen und Ausbildungsbetrieben erbracht.
 
 <sup>5</sup> Das unentgeltliche Grundangebot der Lehrpersonenberatung gemäss Absatz 3 lit. c–e ist pro Person auf höchstens 270 Minuten innert drei Jahren begrenzt.
+
+[^10-1]: Diese Bestimmung gilt vom 1. Januar 2022 bis 31. Dezember 2022.
 
 #### § 11
 
@@ -282,7 +287,7 @@ beschliesst:
 
 <sup>2</sup> Zuständig für die Einsetzung der Schulärztinnen und -ärzte sind
 
-- a) die Schulpflegen und Kreisschulpflegen bei den Volksschulen einschliesslich der von Gemeinden geführten Sonderschulen,
+- a) die Gemeinderäte bei den Volksschulen einschliesslich der von Gemeinden geführten Sonderschulen,
 - b) das zuständige Organ der Trägerschaft bei den Privat- und Sonderschulen mit privatrechtlicher Trägerschaft,
 - c) das BKS bei den kantonalen Schulen.
 
