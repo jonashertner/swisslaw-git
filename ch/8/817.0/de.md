@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2014 über Lebensmittel und Gebrauchsgegenstä
 short: LMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: de
-version: 2021-05-01
+version: 2022-01-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2017-62-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-62-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20210501/de"
 
 (Lebensmittelgesetz, LMG)
 
-vom 20. Juni 2014 (Stand am 1. Mai 2021)
+vom 20. Juni 2014 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1033,7 +1033,7 @@ Im Rahmen ihrer gesetzlichen Aufgaben können die folgenden Behörden Daten im I
 
 - a. das BLV: zur Gewährleistung der Sicherheit von Lebensmitteln und Gebrauchsgegenständen, der Hygiene von Lebensmitteln und Gebrauchsgegenständen, des Täuschungsschutzes, der Futtermittelsicherheit, der Tiergesundheit, des Tierschutzes und einer einwandfreien Primärproduktion;
 - b. das BLW: zur Gewährleistung der Sicherheit von Lebensmitteln, der Hygiene von Lebensmitteln, des Täuschungsschutzes, der Futtermittelsicherheit, der Tiergesundheit und des Tierschutzes und einer einwandfreien Primärproduktion;
-- c. die Eidgenössische Zollverwaltung (EZV): zum Zweck des Aufgabenvollzugs nach Artikel 38 Absatz 1;
+- c.[^62-1] das Bundesamt für Zoll und Grenzsicherheit (BAZG): zum Zweck des Aufgabenvollzugs nach Artikel 38 Absatz 1;
 - d. die kantonalen Vollzugsbehörden zur Erfüllung ihrer Aufgaben in ihrem jeweiligen Zuständigkeitsbereich.
 
 <sup>5</sup>
@@ -1042,11 +1042,11 @@ Zur Erfüllung ihrer Aufgaben können die folgenden Stellen die nachstehenden Da
 
 - a. das BLV: Daten über die Sicherheit von Lebensmitteln und Gebrauchsgegenständen, die Hygiene von Lebensmitteln und Gebrauchsgegenständen, den Täuschungsschutz, die Futtermittelsicherheit, die Tiergesundheit, den Tierschutz und die Primärproduktion;
 - b. das BLW: Daten über die Sicherheit von Lebensmitteln, die Hygiene von Lebensmitteln, den Täuschungsschutz, die Futtermittelsicherheit, die Tiergesundheit, den Tierschutz und die Primärproduktion;
-- c. die EZV: Daten zum Zweck des Aufgabenvollzugs nach Artikel 38 Absatz 1;
+- c.[^62-2] das BAZG: Daten zum Zweck des Aufgabenvollzugs nach Artikel 38 Absatz 1;
 - d. weitere Bundesstellen, die mit Aufgaben zur Umsetzung dieses Gesetzes beauftragt sind: Daten, welche zur Erfüllung der ihnen übertragenen Aufgaben erforderlich sind, sofern der Bundesrat dies vorsieht;
 - e. die kantonalen Vollzugsbehörden: Daten über die Sicherheit von Lebensmitteln und Gebrauchsgegenständen, die Hygiene von Lebensmitteln und Gebrauchsgegenständen, den Täuschungsschutz, die Futtermittelsicherheit, die Tiergesundheit, den Tierschutz und die Primärproduktion;
 - f. Dritte, denen nach Artikel 55 öffentliche Aufgaben übertragen sind: Daten, welche zur Erfüllung der ihnen übertragenen Aufgaben erforderlich sind;
-- g. Dritte, die mit Aufgaben nach den Artikeln 14–16, 18, 64 und 180 des Landwirtschaftsgesetzes vom 29. April 1998[^62-1] betraut sind: Daten, welche zur Erfüllung der ihnen übertragenen Aufgaben erforderlich sind.
+- g. Dritte, die mit Aufgaben nach den Artikeln 14–16, 18, 64 und 180 des Landwirtschaftsgesetzes vom 29. April 1998[^62-3] betraut sind: Daten, welche zur Erfüllung der ihnen übertragenen Aufgaben erforderlich sind.
 
 <sup>6</sup>
 
@@ -1062,7 +1062,9 @@ Der Bundesrat regelt für das Informationssystem des BLV:
 
 <sup>7</sup> Die Kantone, die das Informationssystem des BLV für ihre eigenen Vollzugsaufgaben nutzen, sind verpflichtet, für ihren Bereich gleichwertige Datenschutzbestimmungen aufzustellen und ein Organ zu bezeichnen, welches deren Einhaltung überwacht.
 
-[^62-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62-1]: Fassung gemäss Ziff. I 32 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62-2]: Fassung gemäss Ziff. I 32 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
 ## 7. Kapitel: Strafbestimmungen und Rechtsschutz
 
@@ -1130,9 +1132,12 @@ Die Strafbestimmungen über Widerhandlungen in Geschäftsbetrieben und über Urk
 
 <sup>2</sup> Das für die Aufsicht des Bundes zuständige Bundesamt kann die kantonalen Untersuchungsbehörden verpflichten, eine Untersuchung einzuleiten.
 
-<sup>3</sup> Die EZV und das BLV verfolgen und beurteilen in ihren Zuständigkeitsbereichen Widerhandlungen gegen die Vorschriften dieses Gesetzes und seiner Ausführungsbestimmungen über die Ein-, Aus- und Durchfuhr.
+<sup>3</sup> Das BAZG und das BLV verfolgen und beurteilen in ihren Zuständigkeitsbereichen Widerhandlungen gegen die Vorschriften dieses Gesetzes und seiner Ausführungsbestimmungen über die Ein-, Aus- und Durchfuhr.[^66-1]
 
-<sup>4</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 3 durch die EZV sowie eine andere durch die EZV zu verfolgende Widerhandlung dar, so wendet die EZV die für die schwerste Widerhandlung angedrohte Strafe an; sie kann diese angemessen erhöhen.
+<sup>4</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 3 durch das BAZG sowie eine andere durch das BAZG zu verfolgende Widerhandlung dar, so wendet das BAZG die für die schwerste Widerhandlung angedrohte Strafe an; es kann diese angemessen erhöhen.[^66-2]
+
+[^66-1]: Fassung gemäss Ziff. I 32 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^66-2]: Fassung gemäss Ziff. I 32 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### 2. Abschnitt: Rechtsschutz
 
@@ -1215,7 +1220,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 2014 on Foodstuffs and Consumer Products (Foodstu
 short: FSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: en
-version: 2021-05-01
+version: 2022-01-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20210501/en/xml/fedlex-data-admin-ch-eli-cc-2017-62-20210501-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20210501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2017-62-20220101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foodstuffs Act, FSA)
 
-of 20 June 2014 (Status as of 1 May 2021)
+of 20 June 2014 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -460,7 +460,7 @@ The following shall not be made available to the general public:
 
 **Self-supervision**
 
-<sup>1</sup> Any person who manufactures, handles, stores, transports, places on the market, imports, exports or carries in transit foodstuffs or utility articles must ensure that the statutory requirements are complied with. He or she is obliged to ensure self-supervision..
+<sup>1</sup> Any person who manufactures, handles, stores, transports, places on the market, imports, exports or carries in transit foodstuffs or utility articles must ensure that the statutory requirements are complied with. He or she is obliged to ensure self-supervision.
 
 <sup>2</sup> Official inspection does not imply an exemption from the obligation to carry out self-supervision.
 
@@ -1035,7 +1035,7 @@ In terms of their statutory duties, the following authorities may process data i
 
 - a. the FSVO: to guarantee the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and faultless primary production;
 - b. the FOAG: to guarantee the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and faultless primary production;
-- c. the Federal Federal Customs Administration (FCA): for the purpose of carrying out its duties under Article 38 paragraph 1;
+- c.[^62-1] the Federal Office for Customs and Border Security (FOCBS): for the purpose of carrying out its duties under Article 38 paragraph 1;
 - d. the cantonal enforcement authorities: to fulfil their duties in their respective areas of responsibility.
 
 <sup>5</sup>
@@ -1044,11 +1044,11 @@ In order to fulfil their duties, the following authorities may access the follow
 
 - a. the FSVO: data on the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and primary production;
 - b. the FOAG: data on the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and primary production;
-- c. the FCA: data for the purpose of carrying out its duties under Article 38 paragraph 1;
+- c.[^62-2] the FOCBS: data for the purpose of carrying out its duties under Article 38 paragraph 1;
 - d. other federal agencies responsible for implementing this Act: data that they require to fulfil the duties assigned to them, provided the Federal Council so provides;
 - e. the cantonal enforcement authorities: data on the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and primary production;
 - f. third parties assigned public duties under Article 55: data that they require to fulfil the duties assigned to them;
-- g. third parties entrusted with public duties under Articles 14–16, 18, 64 and 180 of the Agriculture Act of 29 April 1998[^62-1]: data that they require to fulfil the duties assigned to them.
+- g. third parties entrusted with public duties under Articles 14–16, 18, 64 and 180 of the Agriculture Act of 29 April 1998[^62-3]: data that they require to fulfil the duties assigned to them.
 
 <sup>6</sup>
 
@@ -1064,7 +1064,9 @@ The Federal Council shall regulate the following in relation to the FSVO informa
 
 <sup>7</sup> Cantons that use the FSVO information system for their own enforcement duties use must issue equivalent data protection provisions for their field of activity and designate an authority to oversee compliance.
 
-[^62-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62-1]: Amended by No I 32 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62-2]: Amended by No I 32 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
 ## Chapter 7 Criminal Law Provisions and Rights of Appeal
 
@@ -1092,7 +1094,7 @@ Any person who wilfully:
 
 **Contraventions**
 
-<sup>1</sup> shall be liable to a fine not exceeding 40,000 francs.
+<sup>1</sup> shall be liable to a fine not exceeding 40 000 francs.
 
 Any person who wilfully:
 
@@ -1112,7 +1114,7 @@ Any person who wilfully:
 
 <sup>3</sup> Attempts and complicity are also offences.
 
-<sup>4</sup> If the offender acts through negligence, he shall be liable to a fine not exceeding 20,000 francs.
+<sup>4</sup> If the offender acts through negligence, he shall be liable to a fine not exceeding 20 000 francs.
 
 <sup>5</sup> If the enforcement authorities obtain information on the basis of the obligation to provide support and information in Article 29 paragraph 1, such information is only admissible in criminal proceedings against the person concerned if that person consents or if the information could have been obtained without that person’s cooperation.
 
@@ -1132,9 +1134,12 @@ The criminal provisions on offences in commercial establishments and on the forg
 
 <sup>2</sup> The federal office responsible for supervision on behalf of the federal government may require the cantonal testing authorities to carry out testing.
 
-<sup>3</sup> The FCA and the FSVO shall prosecute and judge offences under this Act and its implementing provisions on import, export and transit that fall within their areas of responsibility.
+<sup>3</sup> The FOCBS and the FSVO shall prosecute and judge offences under this Act and its implementing provisions on import, export and transit that fall within their areas of responsibility.[^66-1]
 
-<sup>4</sup> Where an offence to be prosecuted by the FCA under paragraph 3 also constitutes a different offence to be prosecuted by the FCA, the FCA shall apply the penalty that the more serious offence carries; it may increase this penalty appropriately.
+<sup>4</sup> Where an offence to be prosecuted by the FOCBS under paragraph 3 also constitutes a different offence to be prosecuted by the FOCBS, the FOCBS shall apply the penalty that the more serious offence carries; it may increase this penalty appropriately.[^66-2]
+
+[^66-1]: Amended by No I 32 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^66-2]: Amended by No I 32 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### Section 2 Rights of Appeal
 
@@ -1188,7 +1193,7 @@ The repeal and amendment of other legislation is regulated in the Annex.
 
 <sup>2</sup> The period of validity in accordance with paragraph 1 shall be extended until 30 April 2025.[^73-2]
 
-[^73-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3]
+[^73-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3]
 [^73-2]: Inserted by No I of the FA of 18 Dec. 2020 (Extension of the Transitional Arrangement for Tobacco Products), in force since 1 May 2021 ([AS 2021 240](https://fedlex.data.admin.ch/eli/oc/2021/240); [BBl 2020 8765](https://fedlex.data.admin.ch/eli/fga/2020/2318), [9317](https://fedlex.data.admin.ch/eli/fga/2020/2510)).
 
 #### Art. 74
@@ -1219,5 +1224,5 @@ The enactments below are amended as follows:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3]
+[^annexu1-lvlu1-1]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3]
 [^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62).

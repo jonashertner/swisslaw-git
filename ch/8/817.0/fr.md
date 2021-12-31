@@ -4,20 +4,20 @@ title: "Loi fédérale du 20 juin 2014 sur les denrées alimentaires et les obje
 short: LDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: fr
-version: 2021-05-01
+version: 2022-01-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-62-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-62-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les denrées alimentaires et les objets usuels
 
-(Loi sur les denrées alimentaires, LDAl)**[^t-1]**
+(Loi sur les denrées alimentaires, LDAl)[^t-1]
 
-du 20 juin 2014 (Etat le 1<sup>er</sup> mai 2021)
+du 20 juin 2014 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
@@ -57,7 +57,7 @@ La présente loi s’applique:
 - b. à l’étiquetage et à la présentation des denrées alimentaires et des objets usuels ainsi qu’à la publicité et à l’information relatives à ces produits;
 - c. à l’importation, à l’exportation et au transit des denrées alimentaires et des objets usuels.
 
-<sup>2</sup> La présente loi s’applique à toutes les étapes de la production, de la transformation et de la distribution, y compris à la production primaire, dans la mesure où celle-ci est destinée à la fabrication de denrées alimentaires ou d’objets usuels.
+<sup>2</sup> La présente loi s’applique à toutes les étapes de la production, de la transformation et de la distribution, y compris à la production primaire, dans la mesure où celle‑ci est destinée à la fabrication de denrées alimentaires ou d’objets usuels.
 
 <sup>3</sup> Elle s’applique aux denrées alimentaires et aux objets usuels importés pour autant que la Suisse n’ait pas contracté d’autres engagements en vertu d’un accord international.
 
@@ -440,7 +440,7 @@ Les autorités compétentes informent le public, notamment:
 
 Ne sont pas accessibles au public:
 
-- a. les rapports de contrôle officiels ainsi que les documents contenant des conclusions sur les résultats et les informations obtenus lors des contrôles (art. 32, al. 1;
+- a. les rapports de contrôle officiels ainsi que les documents contenant des conclusions sur les résultats et les informations obtenus lors des contrôles (art. 32, al. 1);
 - b. les résultats des études et de la recherche (art. 40), lorsque ceux-ci permettent d’identifier les fabricants, les distributeurs ou les produits concernés;
 - c. la classification des risques des entreprises par les autorités d’exécution.
 
@@ -565,7 +565,7 @@ Il fixe:
 
 <sup>1</sup> Les autorités d’exécution notifient le résultat du contrôle par écrit à la personne responsable dans l’entreprise. Le Conseil fédéral peut prévoir des exceptions pour l’inspection des animaux avant l’abattage et pour l’inspection de la viande après l’abattage.
 
-<sup>2</sup> Lorsqu’un échantillon n’est pas contesté, le propriétaire peut exiger le remboursement de sa valeur si celle-ci atteint ou dépasse un montant minimal déterminé. Le Conseil fédéral fixe ce montant.
+<sup>2</sup> Lorsqu’un échantillon n’est pas contesté, le propriétaire peut exiger le remboursement de sa valeur si celle‑ci atteint ou dépasse un montant minimal déterminé. Le Conseil fédéral fixe ce montant.
 
 #### Art. 33
 
@@ -1035,7 +1035,7 @@ Dans le cadre des tâches qui leur sont assignées par la loi, les autorités ci
 
 - a. OSAV: en vue de garantir la sécurité et l’hygiène des denrées alimentaires et des objets usuels, la protection contre la tromperie, la sécurité des aliments pour animaux, la santé des animaux, la protection des animaux ainsi qu’une production primaire irréprochable;
 - b. OFAG: en vue de garantir la sécurité et l’hygiène des denrées alimentaires, la protection contre la tromperie, la sécurité des aliments pour animaux, la santé des animaux et la protection des animaux ainsi qu’une production primaire irréprochable;
-- c. Administration fédérale des douanes (AFD): en vue d’exécuter les tâches visées à l’art. 38, al. 1;
+- c.[^62-1] Office fédéral de la douane et de la sécurité des frontières (OFDF): en vue d’exécuter les tâches visées à l’art. 38, al. 1;
 - d. autorités cantonales d’exécution: afin de remplir les tâches qui leur sont attribuées dans leurs domaines de compétence respectifs.
 
 <sup>5</sup> Pour accomplir les tâches qui leur sont confiées, les autorités et organes ci-après peuvent consulter en ligne les données suivantes dans le système d’information de l’OSAV:
@@ -1043,11 +1043,11 @@ Dans le cadre des tâches qui leur sont assignées par la loi, les autorités ci
 a. OSAV: données sur la sécurité et l’hygiène des denrées alimentaires et des objets usuels, la protection contre la tromperie, la sécurité des aliments pour animaux, la santé des animaux, la protection des animaux et la production primaire;
 
 - b. OFAG: données sur la sécurité et l’hygiène des denrées alimentaires, la protection contre la tromperie, la sécurité des aliments pour animaux, la santé des animaux, la protection des animaux et la production primaire;
-- c. AFD: données permettant d’accomplir les tâches d’exécution visées à l’art. 38, al. 1;
+- c.[^62-2] OFDF: données permettant d’accomplir les tâches d’exécution visées à l’art. 38, al. 1;
 - d. autres services fédéraux chargés de tâches relevant de la mise en œuvre de la présente loi: données nécessaires à l’accomplissement des tâches qui leur sont assignées dans la mesure où le Conseil fédéral le prévoit;
 - e. autorités d’exécution cantonales: données sur la sécurité et l’hygiène des denrées alimentaires et des objets usuels, la protection contre la tromperie, la sécurité des aliments pour animaux, la santé des animaux, la protection des animaux et la production primaire;
 - f. tiers auxquels des tâches publiques sont confiées en vertu de l’art. 55: données nécessaires à l’accomplissement de ces tâches;
-- g. tiers auxquels des tâches sont confiées en vertu des art. 14 à 16, 18, 64 et 180 de la loi du 29 avril 1998 sur l’agriculture[^62-1]: données nécessaires à l’accomplissement de ces tâches.
+- g. tiers auxquels des tâches sont confiées en vertu des art. 14 à 16, 18, 64 et 180 de la loi du 29 avril 1998 sur l’agriculture[^62-3]: données nécessaires à l’accomplissement de ces tâches.
 
 <sup>6</sup>
 
@@ -1063,7 +1063,9 @@ Pour le système d’information de l’OSAV, le Conseil fédéral règle:
 
 <sup>7</sup> Les cantons qui utilisent le système d’information de l’OSAV pour leurs propres tâches d’exécution sont tenus de fixer des règles de protection des données équivalentes pour le domaine de leur ressort et de désigner un organe qui surveillera le respect de ces règles.
 
-[^62-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62-1]: Nouvelle teneur selon le ch. I 32 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62-2]: Nouvelle teneur selon le ch. I 32 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^62-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
 ## Chapitre 7 Dispositions pénales et voies de droit
 
@@ -1131,9 +1133,12 @@ Les dispositions pénales relatives aux infractions commises dans une entreprise
 
 <sup>2</sup> L’office fédéral qui assume la surveillance dévolue à la Confédération peut obliger les autorités d’instruction cantonales à engager une poursuite.
 
-<sup>3</sup> L’AFD et l’OSAV poursuivent et jugent, dans leurs domaines de compétences respectifs, les infractions aux prescriptions sur l’importation, l’exportation et le transit fixées dans la présente loi ou dans ses dispositions d’exécution.
+<sup>3</sup> L’OFDF et l’OSAV poursuivent et jugent, dans leurs domaines de compétences respectifs, les infractions aux prescriptions sur l’importation, l’exportation et le transit fixées dans la présente loi ou dans ses dispositions d’exécution.[^66-1]
 
-<sup>4</sup> Si un acte constitue à la fois une infraction relevant de l’al. 3 poursuivie par l’AFD et une autre infraction poursuivie par cette même administration, l’AFD applique la peine encourue pour l’infraction la plus grave; elle peut augmenter cette peine dans une juste mesure.
+<sup>4</sup> Si un acte constitue à la fois une infraction relevant de l’al. 3 poursuivie par l’OFDF et une autre infraction poursuivie par ce même office, l’OFDF applique la peine encourue pour l’infraction la plus grave; il peut augmenter cette peine dans une juste mesure.[^66-2]
+
+[^66-1]: Nouvelle teneur selon le ch. I 32 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^66-2]: Nouvelle teneur selon le ch. I 32 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### Section 2 Voies de droit
 
@@ -1187,7 +1192,7 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 <sup>2</sup> Le délai fixé à l’al. 1 est prolongé jusqu’au 30 avril 2025.[^73-2]
 
-[^73-1]: [RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725), [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033), [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422), [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[2363](https://fedlex.data.admin.ch/eli/oc/2006/364), [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)
+[^73-1]: [RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725); [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033); [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422); [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [2363](https://fedlex.data.admin.ch/eli/oc/2006/364); [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)
 [^73-2]: Introduit par le ch. I de la LF du 18 déc. 2020 (Prolongation de la réglementation provisoire sur les produits du tabac), en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 240](https://fedlex.data.admin.ch/eli/oc/2021/240); [FF 2020 8441](https://fedlex.data.admin.ch/eli/fga/2020/2318), [9011](https://fedlex.data.admin.ch/eli/fga/2020/2510)).
 
 #### Art. 74
@@ -1198,7 +1203,7 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-Entrée en vigueur : 1<sup>er</sup> mai 2017[^74-1]
+Entrée en vigueur: 1<sup>er</sup> mai 2017[^74-1]
 
 [^74-1]: ACF du 16 déc. 2016
 
@@ -1218,5 +1223,5 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6, [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3]
+[^annexu1-lvlu1-1]: [[RO 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)annexe ch. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)annexe ch. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)ch. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)annexe 1 ch. 3]
 [^annexu1-lvlu1-2]: La mod peut être consultée au [RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62).
