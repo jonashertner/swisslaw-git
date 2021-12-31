@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: Verordnung des Hochschulrates vom 28. Mai 2015 für die Akkreditierung im Hochschulbereich (Akkreditierungsverordnung HFKG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-362-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20210101/de"
 
 (Akkreditierungsverordnung HFKG)**[^t-1]**
 
-vom 28. Mai 2015 (Stand am 1. Januar 2021)
+vom 28. Mai 2015 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 23. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -91,7 +91,7 @@ Eine Hochschule oder eine andere Institution des Hochschulbereichs wird zur inst
 - d. Sie verfügt über ein Qualitätssicherungssystem (Art. 30 Abs. 1 Bst. a HFKG).
 - e. Sie ist mit dem europäischen Hochschulraum kompatibel.
 - f. Sie verfügt in der Schweiz abgestimmt auf ihren Typ und auf ihr Profil über Infrastruktur und Personal für Lehre, Forschung und Dienstleistung.
-- g.[^4-2] ...
+- g.[^4-2] …
 - h. Sie verfügt über die Ressourcen, ihre Tätigkeit langfristig aufrechtzuerhalten (Art. 30 Abs. 1 Bst. c HFKG), und hat Vorkehrungen getroffen, damit die Studierenden ein einmal aufgenommenes Studienprogramm bis zu Ende absolvieren können.
 - i. Sie ist eine juristische Person in der Schweiz.
 
@@ -106,8 +106,8 @@ Eine Hochschule oder eine andere Institution des Hochschulbereichs wird ohne Pr�
 
 [^4-1]: Fassung gemäss Ziff. I der V des Hochschulrats vom 26. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 [^4-2]: Aufgehoben durch Ziff. I der V des Hochschulrats vom 26. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
-[^4-3]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
-[^4-4]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
+[^4-3]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
+[^4-4]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
 
 #### Art. 5
 
@@ -282,7 +282,9 @@ Der Akkreditierungsrat hat die Möglichkeit:
 
 <sup>4</sup> Er informiert die Hochschule oder die andere Institution des Hochschulbereichs sowie die Akkreditierungsagentur über seinen Entscheid.
 
-<sup>5</sup> Die Akkreditierungsentscheide sind gemäss Artikel 65 Absatz 2 HFKG nicht anfechtbar. Die Hochschule oder die andere Institution des Hochschulbereichs kann ein Wiedererwägungsgesuch beim Akkreditierungsrat einreichen.
+<sup>5</sup> …[^15-1]
+
+[^15-1]: Aufgehoben durch Ziff. I der V des Hochschulrats vom 25. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
 
 #### Art. 15a
 
@@ -370,8 +372,8 @@ Die Qualitätsstandards für die Programmakkreditierung umfassen die Standards, 
 
 Die Hochschulen und die anderen Institutionen des Hochschulbereichs, die nach UFG[^24-1] oder FHSG[^24-2] als beitragsberechtigt anerkannt waren, können die Studienprogramme, deren Akkreditierung nach HFKG im Medizinalberufegesetz vom 23. Juni 2006[^24-3] vorgesehen ist, oder die Fachhochschulstudiengänge im Fachbereich Gesundheit längstens bis zum 31. Dezember 2022 akkreditieren lassen, auch wenn sie die Voraussetzungen nach Artikel 5 Absatz 1 Buchstabe a nicht erfüllen.
 
-[^24-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
-[^24-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
+[^24-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
+[^24-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
 [^24-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 25

@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: "Ordinanza del Consiglio delle scuole universitarie del 28 maggio 2015 per l'accreditamento nel settore universitario svizzero (Ordinanza per l'accreditamento LPSU)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-362-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20210101/it"
 
 (Ordinanza per l’accreditamento LPSU)**[^t-1]**
 
-del 28 maggio 2015 (Stato 1° gennaio 2021)
+del 28 maggio 2015 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del Consiglio delle scuole universitarie del 23 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -283,7 +283,9 @@ Il Consiglio di accreditamento può:
 
 <sup>4</sup> Informa la scuola universitaria o l’altro istituto accademico e l’agenzia di accreditamento in merito alla sua decisione.
 
-<sup>5</sup> Conformemente all’articolo 65 capoverso 2 LPSU le decisioni di accreditamento non sono impugnabili. La scuola universitaria o l’altro istituto accademico può presentare una domanda di riesame al Consiglio di accreditamento.
+<sup>5</sup> ...[^15-1]
+
+[^15-1]: Abrogato dal n. I dell’O del Consiglio delle scuole universitarie del 25 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
 
 #### Art. 15a
 

@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: "Ordonnance du Conseil des hautes écoles du 28 mai 2015 pour l'accréditation dans le domaine des hautes écoles (Ordonnance d'accréditation LEHE)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-362-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20210101/fr"
 
 (Ordonnance d’accréditation LEHE)**[^t-1]**
 
-du 28 mai 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 28 mai 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil des hautes écoles du 23 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
@@ -282,7 +282,9 @@ Le conseil d’accréditation peut:
 
 <sup>4</sup> Il informe la haute école ou l’autre institution du domaine des hautes écoles et l’agence d’accréditation de sa décision.
 
-<sup>5</sup> Les décisions du conseil d’accréditation concernant l’accréditation ne sont pas sujettes à recours en vertu de l’art. 65, al. 2, LEHE. La haute école ou l’autre institution du domaine des hautes écoles peut déposer une demande de reconsidération auprès du conseil d’accréditation.
+<sup>5</sup> …[^15-1]
+
+[^15-1]: Abrogé par le ch. I de l’O du Conseil des hautes écoles du 25 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
 
 #### Art. 15a
 

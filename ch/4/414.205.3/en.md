@@ -3,11 +3,11 @@ sr: "414.205.3"
 title: Guidelines of the Higher Education Council of 28 May 2015 for accreditation within the higher education sector (HEdA Accreditation Guidelines)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/362"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-05-28
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2015-362-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/362/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2015-362-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/362/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,13 +18,13 @@ English is not an official language of the Swiss Confederation. This translation
 
 (HEdA Accreditation Ordinance)**[^t-1]**
 
-of 28 May 2015 (Status as of 1 January 2021)
+of 28 May 2015 (Status as of 1 January 2022)
 
 [^t-1]: Amended by No I of the Ordinance of 23 Nov. 2017 of the Higher Education Council, in force since 1 Jan. 2018 ([AS 2017 7375](https://fedlex.data.admin.ch/eli/oc/2017/801)).
 
 The Higher Education Council,
 
-on the basis of Article 30 paragraph 2 of the Higher Education Act of 30 September 2011[^ingress-1] (HEdA) and Article 2 paragraph 2 letter b number 1 of the Federal-Cantonal Agreement of 26 February 2015[^ingress-2] on Cooperation in Higher Education
+on the basis of Article 30 paragraph 2 of the Higher Education Act of 30 September 2011[^ingress-1] (HEdA) and Article 2 paragraph 2 letter b number 1 of the Federal-Cantonal Agreement of 26 February 2015[^ingress-2] on Cooperation in Higher Education,
 
 ordains:*[^ingress-3]*
 
@@ -109,8 +109,8 @@ Higher education institutions or other institutions within the higher education 
 
 [^4-1]: Amended by No I of the O of the Higher Education Council of 26 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
 [^4-2]: Repealed by No I of the O of the Higher Education Council of 26 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 5929](https://fedlex.data.admin.ch/eli/oc/2020/995)).
-[^4-3]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Annex No II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)No II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 10, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 1]
-[^4-4]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 2]
+[^4-3]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Annex No II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)No II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 10; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 1]
+[^4-4]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 11; [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 2]
 
 #### Art. 5
 
@@ -278,20 +278,22 @@ The following apply to the composition of the group of experts:
 The Accreditation Council may:
 
 - a. grant accreditation unconditionally;
-- b. grant accreditation subject to conditions;
+- b, grant accreditation subject to conditions;
 - c. refuse accreditation.
 
 <sup>3</sup> It shall, in the context of the accreditation decision, determine the deadline and means of verifying whether the conditions have been met.
 
 <sup>4</sup> It shall notify the higher education institution or other institution within the higher education sector and accreditation agency about it.
 
-<sup>5</sup> The accreditation decisions are not appealable under Article 65 paragraph 2 HEdA. The higher education institution or other institution within the higher education sector may file a re-examination application with the Accreditation Council.
+<sup>5</sup> …[^15-1]
+
+[^15-1]: Repealed by No I of the O of the Higher Education Council of 25 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 788](https://fedlex.data.admin.ch/eli/oc/2021/788)).
 
 #### Art. 15a
 
 **Verification of fulfilment of conditions**[^15a-1]
 
-<sup>1</sup> The higher education institution or other institution within the higher education sector shall submit a report to the Accreditation Council on fulfilment of requirements and shall do so by the deadline specified in the accreditation decision. The Accreditation Council shall then forward this report to the agency
+<sup>1</sup> The higher education institution or other institution within the higher education sector shall submit a report to the Accreditation Council on fulfilment of requirements and shall do so by the deadline specified in the accreditation decision. The Accreditation Council shall then forward this report to the agency.
 
 <sup>2</sup> The agency shall check whether the requirements have been met in accordance with the modalities laid down in the accreditation decision and shall document its conclusions in a report to be submitted to the Accreditation Council.
 
@@ -373,8 +375,8 @@ The quality standards for accreditation of study programmes include standards gr
 
 Higher education institutions or other institutions within the higher education sector that were recognised under the UFundA[^24-1] or UASA[^24-2] as being entitled to contributions before HEdA came into force, may have the study programmes whose accreditation under HEdA is provided for in the Medical Professions Act of 23 June 2006[^24-3] or courses of universities of applied sciences in health accredited at the latest by 31 December 2022, even if they do not fulfil the requirements of Article 5 paragraph 1 letter a.
 
-[^24-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Annex No II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)No II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 10, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 1]
-[^24-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 11. [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 2]
+[^24-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Annex No II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)No II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 10; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812). [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 1]
+[^24-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 11; [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Annex No I 2]
 [^24-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
 #### Art. 25
