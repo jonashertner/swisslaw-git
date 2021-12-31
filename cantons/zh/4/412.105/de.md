@@ -3,11 +3,10 @@ canton: ZH
 number: "412.105"
 title: Finanzverordnung zum Volksschulgesetz
 language: de
-version: "2019-08-01"
-nachtrag: "105"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2007-07-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_105-2007_07_11-2008_01_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_105-2007_07_11-2008_01_01-115.html"
 text: pdf
 ---
 
@@ -64,7 +63,7 @@ Diese Verordnung regelt den Vollzug der Bestimmungen des Volksschulgesetzes vom 
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Anrechenbar sind die tatsächlichen Lohnkosten, jedoch höchstens bis zu demjenigen Lohn, der ausgerichtet würde, wenn die Lehrperson dem Lehrpersonalgesetz[^5-2] unterstehen würde.[^5-3]
 
@@ -109,7 +108,7 @@ Diese Verordnung regelt den Vollzug der Bestimmungen des Volksschulgesetzes vom 
 
 <sup>3</sup> Der Kanton leistet überdies jährlich pauschale Kostenanteile von Fr. 720 pro Schülerin oder Schüler. Treten Schülerinnen oder Schüler während eines Schuljahres ein oder aus, leistet der Kanton die Kostenanteile anteilmässig.
 
-<sup>4</sup> Er übernimmt bei einer Spitalschulung die Versorgertaxe gemäss § 10 der Spitalschulverordnung vom 28. August 2013[^hDWeitereLeistunge-9].
+<sup>4</sup> Er übernimmt bei einer Spitalschulung die Kosten.[^hDWeitereLeistunge-9]
 
 **b. zusätzliche Kostenanteile**
 
@@ -133,11 +132,11 @@ Diese Verordnung regelt den Vollzug der Bestimmungen des Volksschulgesetzes vom 
 
 <sup>3</sup> Der Kanton übernimmt zudem auf Gesuch der Gemeinde die Kosten für die Sonderschulung, wenn a. diese für die Gewährung eines ausreichenden Grundschulunterrichts notwendig sind und b. das Volksschulamt sie vorgängig bewilligt hat.
 
-<sup>4</sup> Er übernimmt bei einer Spitalschulung die Versorgertaxe gemäss § 10 der Spitalschulverordnung[^hDWeitereLeistunge-9].
+<sup>4</sup> Er übernimmt bei einer Spitalschulung die Kosten.[^hDWeitereLeistunge-9]
 
 **3**
 
-- 1\. 7. 19 - 105 § 17. Der Regierungsrat legt im Einzelfall fest:
+- 1\. 1. 22 - 115 § 17. Der Regierungsrat legt im Einzelfall fest:
 
 **Leistungen im Einzelfall**
 
@@ -155,9 +154,9 @@ Diese Verordnung regelt den Vollzug der Bestimmungen des Volksschulgesetzes vom 
 [^hDWeitereLeistunge-6]: Fassung gemäss RRB vom 3. Oktober 2018 (OS 73, 451; ABl 2018-10-12). In Kraft seit 1. August 2019.
 [^hDWeitereLeistunge-7]: LS 412.103.
 [^hDWeitereLeistunge-8]: LS 412.31.
-[^hDWeitereLeistunge-9]: LS 412.107.
+[^hDWeitereLeistunge-9]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 596; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 [^hDWeitereLeistunge-10]: Eingefügt durch RRB vom 3. Oktober 2018 (OS 73, 451; ABl 2018-10-12). In Kraft seit 1. August 2019.
-[^hDWeitereLeistunge-11]: Eingefügt durch RRB vom 3. Oktober 2018 (OS 73, 451; ABl 2018-10-12). In Kraft seit 1. Januar 2019. 1. 7. 19 - 105 5
+[^hDWeitereLeistunge-11]: Eingefügt durch RRB vom 3. Oktober 2018 (OS 73, 451; ABl 2018-10-12). In Kraft seit 1. Januar 2019. 1. 1. 22 - 115 5
 
 ### E. Mitteleinsatz der Gemeinden und Drittmittel
 
@@ -221,5 +220,6 @@ Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
 ## Weitere Fussnoten
 
+- [5] LS 412.107.
 - [7] Eingefügt durch RRB vom 13. August 2008 (OS 63, 478; ABl 2008, 1417). In Kraft seit 16. August 2008.
 - [14] Aufgehoben durch RRB vom 3. Oktober 2018 (OS 73, 451; ABl 2018-10-12). In Kraft seit 1. Januar 2019.
