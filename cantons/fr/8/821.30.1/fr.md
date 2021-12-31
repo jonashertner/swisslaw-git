@@ -4,13 +4,12 @@ number: "821.30.1"
 title: Loi sur la sécurité alimentaire
 short: LSAl
 language: fr
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-05-31
+version: 2022-01-01
+version_adopted: 2021-11-05
 adopted: 2007-06-13
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.30.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5590/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7062/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Sécurité alimentaire – L
 
 (LSAl)
 
-du 13.06.2007 (version entrée en vigueur le 01.01.2011)
+du 13.06.2007 (version entrée en vigueur le 01.01.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -86,7 +85,7 @@ Décrète:
 <sup>1</sup> Il est institué une Commission de la sécurité alimentaire composée:
 
 - a) des membres du Conseil d'Etat responsables des Directions chargées respectivement des denrées alimentaires, de l'agriculture, des affaires vétérinaires et de la santé;
-- b) des personnes exerçant les fonctions suivantes: médecin cantonal, pharmacien cantonal, chimiste cantonal, vétérinaire cantonal, chef du Service de l'agriculture et directeur de l'Institut agricole de l'Etat de Fribourg.
+- b) des personnes exerçant les fonctions suivantes: médecin cantonal, pharmacien-ne cantonal-e, chimiste cantonal-e, vétérinaire cantonal-e, directeur ou directrice de Grangeneuve et chef-fe de la section en charge de l'agriculture de Grangeneuve.
 
 <sup>2</sup> La Commission a principalement pour tâches de coordonner les instances étatiques chargées du contrôle de la sécurité et de la production alimentaires et de veiller à la prise en compte des aspects particuliers touchant aux domaines respectifs.
 

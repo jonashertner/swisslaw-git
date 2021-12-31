@@ -4,13 +4,12 @@ number: "821.30.1"
 title: Gesetz über die Lebensmittelsicherheit
 short: LMSG
 language: de
-version: 2011-01-01
-valid_until: 2021-12-31
-version_adopted: 2010-05-31
+version: 2022-01-01
+version_adopted: 2021-11-05
 adopted: 2007-06-13
 in_force: 2008-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.30.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/5590/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7062/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Lebensmittelsicherheit – G
 
 (LMSG)
 
-vom 13.06.2007 (Fassung in Kraft getreten am 01.01.2011)
+vom 13.06.2007 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -86,7 +85,7 @@ beschliesst:
 <sup>1</sup> Es wird eine Kommission für Lebensmittelsicherheit eingesetzt. Dieser gehören an:
 
 - a) Mitglieder des Staatsrats, die den für die Lebensmittel, die Landwirtschaft, das Veterinärwesen und die Gesundheit zuständigen Direktionen vorstehen;
-- b) Personen, die die folgenden Funktionen ausüben: Kantonsärztin oder Kantonsarzt, Kantonsapothekerin oder Kantonsapotheker, Kantonschemikerin oder Kantonschemiker, Kantonstierärztin oder Kantonstierarzt, Vorsteherin oder Vorsteher des Amts für Landwirtschaft und Direktorin oder Direktor des Landwirtschaftlichen Instituts des Kantons Freiburg.
+- b) Personen, die die folgenden Funktionen ausüben: Kantonsärztin oder Kantonsarzt, Kantonsapothekerin oder Kantonsapotheker, Kantonschemikerin oder Kantonschemiker, Kantonstierärztin oder Kantonstierarzt, Direktorin oder Direktor von Grangeneuve und Leiterin oder Leiter der für die Landwirtschaft zuständigen Sektion von Grangeneuve.
 
 <sup>2</sup> Die Kommission hat hauptsächlich zur Aufgabe, die verschiedenen staatlichen Instanzen, die mit der Kontrolle der Lebensmittelsicherheit und -produktion beauftragt sind, zu koordinieren und dafür zu sorgen, dass besondere, die jeweiligen Gebiete berührende Aspekte berücksichtigt werden.
 
