@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1996 sull'imposizione degli autoveicoli (OIAut
 short: OIAut
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058"
 language: it
-version: 2007-05-01
+version: 2022-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20070501/it/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20070501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20070501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20070501/it"
 
 (OIAut)
 
-del 20 novembre 1996 (Stato 1° maggio 2007)
+del 20 novembre 1996 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -63,7 +63,7 @@ In caso di fabbricazione in Svizzera sono esenti da imposta:
 
 [^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^1-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^1-3]: Nuovo testo giusta il n. 28 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^1-3]: Nuovo testo giusta l’all. 4 n. 28 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -127,16 +127,16 @@ Il credito fiscale sorge nel momento in cui:
 <sup>4</sup> Le disposizioni relative all’esenzione fiscale giusta l’articolo 1 capoversi 1 e 2 sono applicabili per analogia.
 
 [^6-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^6-2]: Nuovo testo giusta il n. 28 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^6-3]: Nuovo testo giusta il n. 28 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^6-2]: Nuovo testo giusta l’all. 4 n. 28 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^6-3]: Nuovo testo giusta l’all. 4 n. 28 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 7
 
 **Tasse**
 
-La riscossione di tasse è disciplinata dall’appendice all’ordinanza del 22 agosto 1984[^7-1] sulle tasse dell’amministrazione delle dogane (tariffa delle tasse).
+La riscossione di tasse è disciplinata dall’appendice all’ordinanza del 22 agosto 1984[^7-1] sulle tasse dell’Amministrazione federale delle dogane (tariffa delle tasse).
 
-[^7-1]: [[RU 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960), [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193). [RU 2007 1691](https://fedlex.data.admin.ch/eli/oc/2007/255)]. Vedi ora l’O del 4 apr. 2007 sugli emolumenti dell’Amministrazione federale delle dogane ([RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)).
+[^7-1]: [[RU 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960), [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193). [RU 2007 1691](https://fedlex.data.admin.ch/eli/oc/2007/255)]. Vedi ora l’O del 4 apr. 2007 sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini ([RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)).
 
 #### Art. 8
 
@@ -165,61 +165,10 @@ Sono abrogati:
 - a. il decreto del Consiglio federale del 18 novembre 1952[^annexu1-lvlu1-lvl1-1] concernente il montaggio delle automobili;
 - b. il decreto del Consiglio federale del 16 luglio 1929[^annexu1-lvlu1-lvl1-2] concernente lo sdoganamento di ambulanze e veicoli affini all’aliquota più bassa.
 
+### 2. a 5.**** ...
+
+[^annexu1-lvlu1-lvl1-lvl2-1]
+
 [^annexu1-lvlu1-lvl1-1]: [[RU 1952 929](https://fedlex.data.admin.ch/eli/oc/1952/913_933_929), **1959** 1690, [1974 894](https://fedlex.data.admin.ch/eli/oc/1974/894_894_894), **1987** 2346]
 [^annexu1-lvlu1-lvl1-2]: Non pubblicato nella RU.
-
-### 2. L’ordinanza del 27 giugno 1995**** sulle aliquote di dazio per le merci nel traffico con gli Stati con cui esistono accordi di libero scambio (escluse l’AELS e la CE) è modificata come segue:
-
-[^annexu1-lvlu1-lvl2-1]
-
-[^annexu1-lvlu1-lvl2-1]: [RS 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695). La modifica qui appresso é inserita nell’O menzionata.
-
-**Appendice 2**
-
-...
-
-### 3. L’ordinanza del 18 ottobre 1989**** sulle aliquote di dazio per le merci nel traffico con l’AELS e la CE è modificata come segue:
-
-[^annexu1-lvlu1-lvl3-1]
-
-[^annexu1-lvlu1-lvl3-1]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455). La modifica qui appresso é inserita nell’O menzionata.
-
-**Appendice 1**
-
-...
-
-### 4. L’ordinanza del 20 novembre 1959**** sull’assicurazione dei veicoli è modificata come segue:
-
-[^annexu1-lvlu1-lvl4-1]
-
-[^annexu1-lvlu1-lvl4-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317). Le modifiche qui appresso sono inserite nell’O menzionata.
-
-**Art. 24 cpv. 5**
-
-...
-
-### 5. L’ordinanza del 27 ottobre 1976**** sull’ammissione alla circolazione di persone e veicoli è modificata come segue:
-
-[^annexu1-lvlu1-lvl5-1]
-
-[^annexu1-lvlu1-lvl5-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423). Le modifiche qui appresso sono inserite nell’O menzionata.
-
-**Art. 2 cpv. 2 terzo, quarto e sesto trattino**
-
-...
-
-**Art. 71 cpv. 1**
-
-...
-
-**Art. 74 cpv. 1**
-
-...
-
-**Art. 76**
-
-...
-
-**Art. 122**
-
-...
+[^annexu1-lvlu1-lvl1-lvl2-1]: Le mod. possono essere consultate alla [RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058).

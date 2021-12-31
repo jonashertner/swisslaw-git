@@ -4,11 +4,11 @@ title: "Ordonnance du 20 novembre 1996 sur l'imposition des véhicules automobil
 short: Oimpauto
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058"
 language: fr
-version: 2007-05-01
+version: 2022-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20070501/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20070501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20070501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20070501/fr"
 
 (Oimpauto)
 
-du 20 novembre 1996 (Etat le 1<sup>er</sup> mai 2007)
+du 20 novembre 1996 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -63,7 +63,7 @@ Sont exonérées de l’impôt en cas de fabrication en Suisse:
 
 [^1-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^1-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^1-3]: Nouvelle teneur selon le ch. 28 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^1-3]: Nouvelle teneur selon l’annexe 4 ch. 28 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -127,8 +127,8 @@ La créance fiscale naît:
 <sup>4</sup> Les dispositions concernant l’exonération d’impôt visées à l’art. 1, al. 1 et 2, sont applicables par analogie.
 
 [^6-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^6-2]: Nouvelle teneur selon le ch. 28 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^6-3]: Nouvelle teneur selon le ch. 28 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^6-2]: Nouvelle teneur selon l’annexe 4 ch. 28 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^6-3]: Nouvelle teneur selon l’annexe 4 ch. 28 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 7
 
@@ -136,7 +136,7 @@ La créance fiscale naît:
 
 La perception des taxes est régie par l’annexe de l’ordonnance du 22 août 1984[^7-1] sur les taxes de l’administration des douanes (tarif des taxes).
 
-[^7-1]: [[RO 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960), [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193). [RO 2007 1691](https://fedlex.data.admin.ch/eli/oc/2007/255)art. 6]. Voir actuellement l’O du 4 avr. 2007 sur les émoluments de l’Administration fédérale des douanes ([RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)).
+[^7-1]: [[RO 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960), [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193). [RO 2007 1691](https://fedlex.data.admin.ch/eli/oc/2007/255)art. 6]. Voir actuellement l’O du 4 avr. 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières ([RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)).
 
 #### Art. 8
 
@@ -165,11 +165,11 @@ Sont abrogés:
 - a. l’arrêté du Conseil fédéral du 18 novembre 1952[^annexu1-lvlu1-lvl1-1] concernant le montage des automobiles.
 - b. l’arrêté du Conseil fédéral du 16 juillet 1929[^annexu1-lvlu1-lvl1-2] concernant le dédouanement d’ambulances et de véhicules similaires au taux le plus bas.
 
-[^annexu1-lvlu1-lvl1-1]: [[RO 1952 933](https://fedlex.data.admin.ch/eli/oc/1952/913_933_929), **1959** 1690, [1974 894](https://fedlex.data.admin.ch/eli/oc/1974/894_894_894), **1987** 2345]
+[^annexu1-lvlu1-lvl1-1]: [[RO 1952 933](https://fedlex.data.admin.ch/eli/oc/1952/913_933_929); **1959** 1690; [1974 894](https://fedlex.data.admin.ch/eli/oc/1974/894_894_894); **1987** 2345]
 [^annexu1-lvlu1-lvl1-2]: Non publié au RO
 
 ### 2. à 5. …****
 
-[^annexu1-lvlu1-lvl2-1]
+[^annexu1-lvlu1-lvlu2-1]
 
-[^annexu1-lvlu1-lvl2-1]: Les mod. peuvent être consultées au [RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058).
+[^annexu1-lvlu1-lvlu2-1]: Les mod. peuvent être consultées au [RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058).

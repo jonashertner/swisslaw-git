@@ -4,11 +4,11 @@ title: Automobilsteuerverordnung vom 20. November 1996 (AStV)
 short: AStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058"
 language: de
-version: 2007-05-01
+version: 2022-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20070501/de/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20070501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20070501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3058_3058_3058/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3058_3058_3058-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3058_3058_3058/20070501/de"
 
 (AStV)
 
-vom 20. November 1996 (Stand am 1. Mai 2007)
+vom 20. November 1996 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -63,7 +63,7 @@ Bei der Herstellung im Inland ist von der Steuer befreit:
 
 [^1-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^1-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^1-3]: Fassung gemäss Anhang 4 Ziff. 28 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^1-3]: Fassung gemäss Anhang 4 Ziff. 28 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 2
 
@@ -127,8 +127,8 @@ Die Steuerforderung entsteht im Zeitpunkt, in dem:
 <sup>4</sup> Die Bestimmungen über die Steuerbefreiung nach Artikel 1 Absätze 1 und 2 gelten sinngemäss.
 
 [^6-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^6-2]: Fassung gemäss Anhang 4 Ziff. 28 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
-[^6-3]: Fassung gemäss Anhang 4 Ziff. 28 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)).
+[^6-2]: Fassung gemäss Anhang 4 Ziff. 28 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^6-3]: Fassung gemäss Anhang 4 Ziff. 28 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 7
 
@@ -136,7 +136,7 @@ Die Steuerforderung entsteht im Zeitpunkt, in dem:
 
 Die Gebührenerhebung richtet sich nach dem Anhang zur Verordnung vom 22. August 1984[^7-1] über die Gebühren der Zollverwaltung (Gebührentarif).
 
-[^7-1]: [[AS 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960), [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193). [AS 2007 1691](https://fedlex.data.admin.ch/eli/oc/2007/255)Art. 6]. Siehe heute: die V vom 4. April 2007 ([SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)).
+[^7-1]: [[AS 1984 960](https://fedlex.data.admin.ch/eli/oc/1984/960_960_960); [2003 1126](https://fedlex.data.admin.ch/eli/oc/2003/193). [AS 2007 1691](https://fedlex.data.admin.ch/eli/oc/2007/255)Art. 6]. Siehe heute: die V vom 4. April 2007 über die Gebühren des Bundesamts für Zoll und Grenzsicherheit ([SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)).
 
 #### Art. 8
 
@@ -168,70 +168,8 @@ Die folgenden Bundesratsbeschlüsse werden aufgehoben:
 [^annexu1-lvlu1-lvl1-1]: [[AS 1952 913](https://fedlex.data.admin.ch/eli/oc/1952/913_933_929), **1959** 1637, [1974 894](https://fedlex.data.admin.ch/eli/oc/1974/894_894_894), **1987** 2346]
 [^annexu1-lvlu1-lvl1-2]: In der AS nicht veröffentlicht.
 
-### 2. Die Verordnung vom 27. Juni 1995**** über die Zollansätze für Waren im Verkehr mit Staaten, mit denen Freihandelsabkommen bestehen (ausgenommen EG und EFTA) wird wie folgt geändert:
+### 2.–5. …****
 
-[^annexu1-lvlu1-lvl2-1]
+[^annexu1-lvlu1-lvlu2-1]
 
-[^annexu1-lvlu1-lvl2-1]: [SR 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
-
-**Anhang 2**
-
-...[^annexu1-lvlu1-lvl2-2]
-
-[^annexu1-lvlu1-lvl2-2]: Text eingefügt in der genannten V.
-
-### 3. Die Freihandelsverordnung vom 18. Oktober 1989**** wird wie folgt geändert:
-
-[^annexu1-lvlu1-lvl3-1]
-
-[^annexu1-lvlu1-lvl3-1]: [SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-
-**Anhang 1**
-
-...[^annexu1-lvlu1-lvl3-2]
-
-[^annexu1-lvlu1-lvl3-2]: Text eingefügt in der genannten V.
-
-### 4. Die Verkehrsversicherungsverordnung vom 20. November 1959**** wird wie folgt geändert:
-
-[^annexu1-lvlu1-lvl4-1]
-
-[^annexu1-lvlu1-lvl4-1]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-
-**Art. 24 Abs. 5**
-
-...[^annexu1-lvlu1-lvl4-2]
-
-[^annexu1-lvlu1-lvl4-2]: Text eingefügt in der genannten V.
-
-### 5. Die Verordnung vom 27. Oktober 1976**** über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr wird wie folgt geändert:
-
-[^annexu1-lvlu1-lvl5-1]
-
-[^annexu1-lvlu1-lvl5-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-
-**Art. 2 Abs. 2 dritter, vierter und sechster Strich**
-
-...[^annexu1-lvlu1-lvl5-2]
-
-**Art. 71 Abs. 1**
-
-...[^annexu1-lvlu1-lvl5-3]
-
-**Art. 74 Abs. 1**
-
-...[^annexu1-lvlu1-lvl5-4]
-
-**Art. 76**
-
-...[^annexu1-lvlu1-lvl5-5]
-
-**Art. 122**
-
-...[^annexu1-lvlu1-lvl5-6]
-
-[^annexu1-lvlu1-lvl5-2]: Text eingefügt in der genannten V.
-[^annexu1-lvlu1-lvl5-3]: Text eingefügt in der genannten V.
-[^annexu1-lvlu1-lvl5-4]: Text eingefügt in der genannten V.
-[^annexu1-lvlu1-lvl5-5]: Text eingefügt in der genannten V.
-[^annexu1-lvlu1-lvl5-6]: Text eingefügt in der genannten V.
+[^annexu1-lvlu1-lvlu2-1]: Die Änderungen können unter [AS 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)konsultiert werden.
