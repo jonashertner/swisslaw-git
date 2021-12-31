@@ -4,13 +4,13 @@ number: "141.1"
 title: Loi sur les droits politiques
 short: LDP
 language: fr
-version: 2021-12-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-08
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-10-20
 adopted: 2012-06-05
 in_force: 2013-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2408/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2409/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2408/pdf_file"
 
 (LDP)
 
-du 05.06.2012 (état au 01.12.2021)
+du 05.06.2012 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1753,7 +1753,7 @@ arrête:
 - 2 Bäriswil,
 - 3 Bolligen,
 - 4 Bremgarten bei Bern,
-- 5 Clavaleyres,
+- 5 …
 - 6 Deisswil bei Münchenbuchsee,
 - 7 Diemerswil,
 - 8 Ferenbalm,
