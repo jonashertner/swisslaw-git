@@ -3,13 +3,13 @@ canton: TG
 number: "414.27"
 title: Personalreglement der Pädagogischen Hochschule Thurgau
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-09-03
+version: 2022-01-01
+valid_until: 2023-05-31
+version_adopted: 2021-11-25
 adopted: 2018-09-03
 in_force: 2019-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.27"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1710/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2134/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1710/pdf_file"
 
 Personalreglement PHTG
 
-vom 03.09.2018 (Stand 01.01.2020)
+vom 03.09.2018 (Stand 01.01.2022)
 
 Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 3 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
 
@@ -34,33 +34,33 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Mitarbeiter und Mitarbeiterinnen sind namentlich:
 
-- 1\. Rektor oder Rektorin;
-- 2\. Verwaltungsdirektor oder Verwaltungsdirektorin;
-- 3\. Prorektoren und Prorektorinnen;
-- 4\. Dozenten und Dozentinnen;
-- 5\. Lehrbeauftragte;
-- 6\. Wissenschaftliche Mitarbeiter und Mitarbeiterinnen;
-- 7\. Wissenschaftliche Assistenten und Assistentinnen;
-- 8\. Fachpersonal;
-- 9\. Lernende;
-- 10\. Praktikanten und Praktikantinnen.
+- 1\. Rektor oder Rektorin
+- 2\. Verwaltungsdirektor oder Verwaltungsdirektorin
+- 3\. Prorektoren und Prorektorinnen
+- 4\. Dozenten und Dozentinnen
+- 5\. Lehrbeauftragte
+- 6\. Wissenschaftliche Mitarbeiter und Mitarbeiterinnen
+- 7\. Wissenschaftliche Assistenten und Assistentinnen
+- 8\. Fachpersonal
+- 9\. Lernende
+- 10\. Praktikanten und Praktikantinnen
 
 #### § 2
 
 **Ergänzendes Recht**
 
-<sup>1</sup> Enthält das Reglement keine Regelung, gelten sinngemäss:
+<sup>1</sup> Enthält das Reglement keine Regelung, gelten sinngemäss
 
-- 1\. die Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals (RSV)[^2-1], ausser die §§ 9 und 10 sowie 52 – 54 und 65a,
-- 2\. die §§ 6 – 29 der Verordnung des Grossen Rates über die Besoldung des Staatspersonals (BesVO)[^2-2] sowie
-- 3\. die §§ 4 – 65 der Verordnung des Regierungsrates zur Besoldungsverordnung (RRV BesVO)[^2-3] ausser die §§ 8 – 12.
+- 1\. die Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals (RSV)[^2-1], ausser § 9 und § 10 sowie § 52 bis § 54 und § 65a,
+- 2\. § 6 bis § 29 der Verordnung des Grossen Rates über die Besoldung des Staatspersonals (BesVO)[^2-2] sowie
+- 3\. § 4 bis § 65 der Verordnung des Regierungsrates zur Besoldungsverordnung (RRV BesVO)[^2-3] ausser § 8 und § 9.
 
-<sup>2</sup> Unter Vorbehalt der Bestimmungen dieses Reglements und des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^2-4] werden Kompetenzen sowie Rechte und Pflichten gemäss den in Absatz 1 genannten Erlassen wie folgt wahrgenommen:
+<sup>2</sup> Unter Vorbehalt der Bestimmungen dieses Reglements und des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^2-4] werden Kompetenzen sowie Rechte und Pflichten gemäss den in Abs. 1 genannten Erlassen wie folgt wahrgenommen:
 
-- 1\. jene des Kantons durch die Pädagogische Hochschule;
-- 2\. jene des Regierungsrates oder des Departementes durch den Hochschulrat;
-- 3\. jene der Amts-, Betriebs- oder Anstaltsleiter und -leiterinnen durch die Hochschulleitung;
-- 4\. jene der Lohnzahlungsstelle, des Lohnbüros und des Personalamts durch die Verwaltungsdirektion.
+- 1\. jene des Kantons durch die Pädagogische Hochschule
+- 2\. jene des Regierungsrates oder des Departementes durch den Hochschulrat
+- 3\. jene der Amts-, Betriebs- oder Anstaltsleiter und -leiterinnen durch die Hochschulleitung
+- 4\. jene der Lohnzahlungsstelle, des Lohnbüros und des Personalamts durch die Verwaltungsdirektion
 
 [^2-1]: RB [177.112](https://www.rechtsbuch.tg.ch/data/177.112/de)
 [^2-2]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
@@ -73,9 +73,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Unter Vorbehalt abweichender Bestimmungen ist für die allgemeine Personalführung zuständig:
 
-- 1\. der Hochschulrat gegenüber dem Rektor oder der Rektorin;
-- 2\. der Rektor oder die Rektorin gegenüber den übrigen Mitgliedern der Hochschulleitung;
-- 3\. der Rektor oder die Rektorin und die übrigen Mitglieder der Hochschulleitung gegenüber allen in ihrem Führungsbereich tätigen Mitarbeitern und Mitarbeiterinnen; in begründeten Fällen kann die Hochschulleitung die Zuständigkeit einem Mitglied der Hochschulleitung oder einer Führungsperson mit höchster Funktionszulage zuweisen.
+- 1\. der Hochschulrat gegenüber dem Rektor oder der Rektorin
+- 2\. der Rektor oder die Rektorin gegenüber den übrigen Mitgliedern der Hochschulleitung
+- 3\. der Rektor oder die Rektorin und die übrigen Mitglieder der Hochschulleitung gegenüber allen in ihrem Führungsbereich tätigen Mitarbeitern und Mitarbeiterinnen; in begründeten Fällen kann die Hochschulleitung die Zuständigkeit einem Mitglied der Hochschulleitung oder einer Führungsperson mit höchster Funktionszulage zuweisen
 
 #### § 4
 
@@ -125,10 +125,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Anstellung und Kündigung sowie weitere Anordnungen im Sinne von § 4 des Gesetzes über die Verwaltungsrechtspflege (VRG)[^9-1] erfolgen in Form eines Entscheides.
 
-<sup>3</sup> Die Anstellungsbedingungen von Praxislehrpersonen sowie Mentoren und Mentorinnen richten sich nach den §§ 48 ff. RRV BesVO[^9-2].
+<sup>3</sup> Die Anstellungsbedingungen von Praxislehrpersonen sowie Mentoren und Mentorinnen richten sich nach § 48 ff. RRV BesVO.
 
 [^9-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
-[^9-2]: RB [177.223](https://www.rechtsbuch.tg.ch/data/177.223/de)
 
 #### § 10
 
@@ -136,7 +135,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Die Mitglieder der Hochschulleitung werden vom Hochschulrat angestellt.
 
-<sup>2</sup> Dozenten und Dozentinnen, Lehrbeauftragte, wissenschaftliche Mitarbeiter und Mitarbeiterinnen und wissenschaftliche Assistenten und Assistentinnen werden auf Antrag des verantwortlichen Mitgliedes der Hochschulleitung vom Rektor oder der Rektorin angestellt.
+<sup>2</sup> Dozenten und Dozentinnen, Lehrbeauftragte, Wissenschaftliche Mitarbeiter und Mitarbeiterinnen und Wissenschaftliche Assistenten und Assistentinnen werden auf Antrag des verantwortlichen Mitgliedes der Hochschulleitung vom Rektor oder der Rektorin angestellt.
 
 <sup>3</sup> Das übrige Personal wird auf Antrag des oder der Personalverantwortlichen vom zuständigen Mitglied der Hochschulleitung angestellt.
 
@@ -206,9 +205,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>3</sup> Die Probezeit für die Mitglieder der Hochschulleitung beträgt sechs Monate. Sie kann durch Vereinbarung verkürzt oder wegbedungen werden.
 
-<sup>4</sup> Für das übrige Personal richtet sich die Probezeit nach den Bestimmungen der RSV[^17-1].
-
-[^17-1]: RB [177.112](https://www.rechtsbuch.tg.ch/data/177.112/de)
+<sup>4</sup> Für das übrige Personal richtet sich die Probezeit nach den Bestimmungen der RSV.
 
 #### § 18
 
@@ -236,9 +233,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Kündigungen sind an folgende Stellen zu richten:
 
-- 1\. Kündigungen von Mitgliedern der Hochschulleitung: an den Präsidenten oder die Präsidentin des Hochschulrates;
-- 2\. Kündigungen von Dozenten und Dozentinnen, Lehrbeauftragten, wissenschaftlichen Mitarbeitern und Mitarbeiterinnen sowie wissenschaftlichen Assistenten und Assistentinnen: an den Rektor oder die Rektorin;
-- 3\. Kündigungen des übrigen Personals: an das jeweilige Mitglied der Hochschulleitung.
+- 1\. Kündigungen von Mitgliedern der Hochschulleitung: an den Präsidenten oder die Präsidentin des Hochschulrates
+- 2\. Kündigungen von Dozenten und Dozentinnen, Lehrbeauftragten, Wissenschaftlichen Mitarbeitern und Mitarbeiterinnen sowie Wissenschaftlichen Assistenten und Assistentinnen: an den Rektor oder die Rektorin
+- 3\. Kündigungen des übrigen Personals: an das jeweilige Mitglied der Hochschulleitung
 
 ## 3. Rechte der Mitarbeiter und Mitarbeiterinnen
 
@@ -248,18 +245,27 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Der Bezug der Ferien hat während der Zeit zu erfolgen, während der für die betreffende Person keine Lehrverpflichtung besteht.
 
+<sup>2</sup> Ferien sind von Personen mit Lehrverpflichtung in dem Kalenderjahr zu beziehen, in dem sie fällig werden. Sie können nicht nachbezogen werden.
+
 #### § 23
 
 **Urlaub aus persönlichen und familiären Gründen**
 
 <sup>1</sup> Für Personen mit Lehrverpflichtung gilt für die Verrichtung von persönlichen oder familiären Angelegenheiten § 33 der Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen (RSV BM)[^23-1] sinngemäss.
 
-<sup>2</sup> Für das übrige Personal gilt § 50 RSV[^23-2] sinngemäss.
+<sup>2</sup> Für das übrige Personal gilt § 50 RSV sinngemäss.
 
 <sup>3</sup> Aus wichtigen persönlichen Gründen kann bei der Hochschulleitung ein Gesuch für unbezahlten Urlaub eingereicht werden.
 
 [^23-1]: RB [413.141](https://www.rechtsbuch.tg.ch/data/413.141/de)
-[^23-2]: RB [177.112](https://www.rechtsbuch.tg.ch/data/177.112/de)
+
+#### § 23a
+
+**Vaterschaftsurlaub und Betreuungsurlaub**
+
+<sup>1</sup> Für Personen mit Lehrverpflichtung gelten für den Bezug eines Vaterschaftsurlaubes gemäss § 22a BesVO oder eines Betreuungsurlaubes gemäss § 22b BesVO die Bestimmungen von § 33b und § 33c RSV BM sinngemäss.
+
+<sup>2</sup> Für das übrige Personal gelten § 50a und § 50b RSV sinngemäss.
 
 #### § 24
 
@@ -277,10 +283,10 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Ein Weiterbildungssemester kann nur bewilligt werden, wenn
 
-- 1\. ein genehmigungsfähiges Semesterprogramm vorliegt;
-- 2\. aufgrund dieses Programms zu erwarten ist, dass die Person in ihren beruflichen Fähigkeiten gefördert wird;
-- 3\. sich die Person schon bisher ausreichend fortgebildet hat;
-- 4\. sich die Person schriftlich verpflichtet, nach Abschluss des Semesters noch mindestens drei weitere Jahre an der Pädagogischen Hochschule tätig zu bleiben;
+- 1\. ein genehmigungsfähiges Semesterprogramm vorliegt,
+- 2\. aufgrund dieses Programms zu erwarten ist, dass die Person in ihren beruflichen Fähigkeiten gefördert wird,
+- 3\. sich die Person schon bisher ausreichend fortgebildet hat,
+- 4\. sich die Person schriftlich verpflichtet, nach Abschluss des Semesters noch mindestens drei weitere Jahre an der Pädagogischen Hochschule tätig zu bleiben,
 - 5\. der geordnete Fortbestand des Betriebes sichergestellt ist.
 
 <sup>3</sup> Das Weiterbildungssemester kann in der Regel spätestens bis zum vollendeten 58. Altersjahr angetreten werden. Es ist in der Regel zusammenhängend zu beziehen. In begründeten Fällen kann eine Aufteilung bewilligt werden.
@@ -289,11 +295,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>5</sup> Die übrigen Kosten für das Weiterbildungssemester tragen die Mitarbeiter und Mitarbeiterinnen selbst.
 
-<sup>6</sup> Für die Pflichtzeit und die Rückzahlung gilt die Regelung über den Bildungsurlaub gemäss RSV BM[^25-1] sinngemäss. Der Hochschulrat befindet über Kürzung oder Erlass der Rückzahlung.
+<sup>6</sup> Für die Pflichtzeit und die Rückzahlung gilt die Regelung über den Bildungsurlaub gemäss RSV BM sinngemäss. Der Hochschulrat befindet über Kürzung oder Erlass der Rückzahlung.
 
 <sup>7</sup> Der Hochschulrat kann ergänzende Richtlinien erlassen, insbesondere zur Regelung der Berechtigung bei Übertritten von Lehrpersonen aus anderen kantonalen Schulen oder aus Thurgauer Schulgemeinden, der hierbei zu beachtenden Pensengrenze, der Anrechnung von Dienstjahren oder der Bemessung der Besoldung.
-
-[^25-1]: RB [413.141](https://www.rechtsbuch.tg.ch/data/413.141/de)
 
 #### § 26
 
@@ -325,11 +329,9 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Gegen personalrechtliche Entscheide einzelner Mitglieder der Hochschulleitung kann innert zehn Tagen schriftlich und begründet Einsprache bei der Hochschulleitung erhoben werden.
 
-<sup>2</sup> Gegen Einspracheentscheide steht der Rekurs bei der Personalrekurskommission gemäss VRG[^29-1] offen.
+<sup>2</sup> Gegen Einspracheentscheide kann Rekurs bei der Personalrekurskommission erhoben werden.
 
 <sup>3</sup> Im Übrigen richtet sich der Rechtsschutz betreffend personalrechtliche Entscheide nach dem VRG.
-
-[^29-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
 ## 4. Besoldung
 
@@ -339,12 +341,15 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>1</sup> Die Besoldung des Personals der Pädagogischen Hochschule besteht aus:
 
-- 1\. Grundbesoldung;
-- 2\. Sozialzulagen;
-- 3\. Entschädigungen für Auslagen zu dienstlichen Zwecken;
-- 4\. Funktionszulagen für Dozenten und Dozentinnen mit Leitungsaufgaben.
+- 1\. Grundbesoldung
+- 2\. Sozialzulagen
+- 3\. Entschädigungen für Auslagen zu dienstlichen Zwecken
+- 4\. Funktionszulagen für Dozenten und Dozentinnen mit Leitungsaufgaben
+- 5\. Entschädigungen für die Aufgabenerfüllung im Rahmen der Mitwirkungsorganisation gemäss § 8 des Geschäftsreglementes der Pädagogischen Hochschule Thurgau[^30-1]
 
 <sup>2</sup> Als Grundbesoldung gilt der Ansatz nach der Besoldungsklasse.
+
+[^30-1]: RB [414.28](https://www.rechtsbuch.tg.ch/data/414.28/de)
 
 #### § 31
 
@@ -358,7 +363,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 **Einreihung**
 
-<sup>1</sup> Es bestehen 27 Besoldungsklassen gemäss Anhang 2 BesVO[^32-1].
+<sup>1</sup> Es bestehen 27 Besoldungsklassen gemäss Anhang 2 BesVO.
 
 <sup>2</sup> Es gelten folgende Zuordnungen:
 
@@ -368,8 +373,6 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 - 4\. Wissenschaftliche Assistenten und Assistentinnen: — Lohnklasse 17 bis 18
 
 <sup>3</sup> Für Dozenten und Dozentinnen sowie Lehrbeauftragte gilt die Lohntabelle gemäss Anhang 1.
-
-[^32-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
 
 #### § 33
 
@@ -389,7 +392,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>3</sup> In Ausnahmefällen kann die Erfahrung über diese Grenzwerte hinaus bis zu 100 % angerechnet werden.
 
-<sup>4</sup> Der Hochschulrat kann ergänzende Richtlinien erlassen.
+<sup>4</sup> Der Hochschulrat erlässt ergänzende Richtlinien.
 
 #### § 34
 
@@ -399,7 +402,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> Die individuelle Anpassung für Mitglieder der Hochschulleitung wird durch den Hochschulrat vorgenommen, für das übrige Personal durch die Hochschulleitung.
 
-<sup>3</sup> Der Hochschulrat erlässt ergänzende Richtlinien zur lohnwirksamen Qualifikation.
+<sup>3</sup> Der Hochschulrat erlässt ergänzende Richtlinien zur lohnwirksamen Qualifikation und regelt den Lohnklassenwechsel für Dozenten, Dozentinnen, Lehrbeauftragte, Wissenschaftliche Mitarbeitende sowie Wissenschaftliche Assistenten und Assistentinnen.
 
 #### § 35
 
@@ -422,6 +425,12 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 <sup>1</sup> Funktionszulagen sind ausschliesslich an eine Funktion mit Leitungsaufgaben und an die Dauer ihrer Ausübung gebunden.
 
 <sup>2</sup> Der Hochschulrat erlässt ergänzende Richtlinien.
+
+#### § 37a
+
+**Entschädigungen Mitwirkungsorganisation**
+
+<sup>1</sup> Für die Aufgabenerfüllung in der Mitwirkungsorganisation werden im Rahmen der vom Hochschulrat erlassenen Richtlinien Entschädigungen ausgerichtet.
 
 #### § 38
 
@@ -463,7 +472,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>3</sup> Vollzeitlich angestellte Dozenten und Dozentinnen sowie Lehrbeauftragte sind verpflichtet, sich während 15 Tagen pro Jahr weiterzubilden. Für Teilzeitbeschäftigte gilt diese Pflicht anteilmässig. Die Weiterbildung ist in der Regel in die Zeit zu legen, während der für die betreffende Person keine Lehrverpflichtung besteht, und kann auch in Form geeigneter selbständiger Weiterbildung erfolgen.
 
-<sup>4</sup> Die Hochschulleitung kann für Mitarbeiter und Mitarbeiterinnen unabhängig von der Verpflichtung gemäss den Absätzen 1 bis 3 und ungeachtet des Beschäftigungsgrades Weiterbildungen bis maximal fünf Tage pro Jahr für obligatorisch erklären.
+<sup>4</sup> Die Hochschulleitung kann für Mitarbeiter und Mitarbeiterinnen unabhängig von der Verpflichtung gemäss Abs. 1 bis Abs. 3 und ungeachtet des Beschäftigungsgrades Weiterbildungen bis maximal fünf Tage pro Jahr für obligatorisch erklären.
 
 #### § 42
 
@@ -481,9 +490,7 @@ Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf §
 
 <sup>2</sup> In diesen Fällen sorgt die Pädagogische Hochschule für geeignete Arbeitsplätze.
 
-<sup>3</sup> Für das übrige Personal gilt § 73 RSV[^43-1]. Die Hochschulleitung kann Regelungen zur Telearbeit erlassen.
-
-[^43-1]: RB [177.112](https://www.rechtsbuch.tg.ch/data/177.112/de)
+<sup>3</sup> Für das übrige Personal gilt § 73 RSV. Die Hochschulleitung kann Regelungen zum mobilen Arbeiten erlassen.
 
 #### § 44
 
