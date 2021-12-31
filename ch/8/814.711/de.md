@@ -4,11 +4,11 @@ title: Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gef
 short: V-NISSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/183"
 language: de
-version: 2019-06-01
+version: 2022-01-01
 adopted: 2019-02-27
 in_force: 2019-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20190601/de/xml/fedlex-data-admin-ch-eli-cc-2019-183-20190601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20190601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20190601/de"
 
 (V-NISSG)
 
-vom 27. Februar 2019 (Stand am 1. Juni 2019)
+vom 27. Februar 2019 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -331,9 +331,11 @@ Das BAG vollzieht den 3. Abschnitt über Veranstaltungen mit Laserstrahlung wie 
 
 #### Art. 25
 
-**Aufgaben der Eidgenössischen Zollverwaltung**
+**Aufgaben des BAZG**
 
-Die Eidgenössische Zollverwaltung vollzieht das Ein- und Durchfuhrverbot nach Artikel 23 Absatz 1.
+Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^25-1] vollzieht das Ein- und Durchfuhrverbot nach Artikel 23 Absatz 1.
+
+[^25-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 26
 
@@ -367,7 +369,7 @@ Die Eidgenössische Zollverwaltung vollzieht das Ein- und Durchfuhrverbot nach A
 
 <sup>2</sup> …[^28-2]
 
-[^28-1]: [AS 2007 1307](https://fedlex.data.admin.ch/eli/oc/2007/210), [2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635), [2012 793](https://fedlex.data.admin.ch/eli/oc/2012/120)
+[^28-1]: [AS 2007 1307](https://fedlex.data.admin.ch/eli/oc/2007/210); [2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635); [2012 793](https://fedlex.data.admin.ch/eli/oc/2012/120)
 [^28-2]: Die Änderung kann unter [AS 2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183)konsultiert werden.
 
 #### Art. 29
@@ -390,8 +392,8 @@ Die Betreiberinnen und Betreiber müssen ihre Solarien:
 <sup>5</sup> Laserpointer der Klasse 2 müssen bis spätestens zwei Jahre nach Inkrafttreten dieser Verordnung fachgerecht entsorgt werden. Bis dahin ist sind ihr Besitz und die Verwendung ausschliesslich in Innenräumen und nur zu Zeigezwecken zulässig.
 
 [^29-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^29-2]: [AS 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591), [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)
-[^29-3]: [AS 2007 1307](https://fedlex.data.admin.ch/eli/oc/2007/210), [2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635), [2012 793](https://fedlex.data.admin.ch/eli/oc/2012/120)
+[^29-2]: [AS 2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170)
+[^29-3]: [AS 2007 1307](https://fedlex.data.admin.ch/eli/oc/2007/210); [2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635); [2012 793](https://fedlex.data.admin.ch/eli/oc/2012/120)
 
 #### Art. 30
 

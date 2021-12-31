@@ -4,11 +4,11 @@ title: Ordinanza del 27 febbraio 2019 concernente la legge federale sulla protez
 short: O-LRNIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/183"
 language: it
-version: 2019-06-01
+version: 2022-01-01
 adopted: 2019-02-27
 in_force: 2019-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20190601/it/xml/fedlex-data-admin-ch-eli-cc-2019-183-20190601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20190601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20190601/it"
 
 (O-LRNIS)
 
-del 27 febbraio 2019 (Stato 1° giugno 2019)
+del 27 febbraio 2019 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -331,9 +331,11 @@ L’UFSP esegue le disposizioni della sezione 3 concernente le manifestazioni ch
 
 #### Art. 25
 
-**Compiti dell’Amministrazione federale delle dogane**
+**Compiti dell’UDSC**
 
-L’Amministrazione federale delle dogane esegue le disposizioni concernenti i divieti di importazione e transito di cui all’articolo 23 capoverso 1.
+L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^25-1] esegue le disposizioni concernenti i divieti di importazione e transito di cui all’articolo 23 capoverso 1.
+
+[^25-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo
 
 #### Art. 26
 
@@ -408,12 +410,12 @@ Allegato 1
 ### 1 UV tipi dei solarium
 
 <table>
-<tr><td>UV tipo del solarium</td><td colspan="2">Irradianza efficace W/m<sup>2</sup></td></tr>
-<tr><td></td><td>Banda UVB 250 nm &lt; λ ≤ 320 nm</td><td>Banda UVA 320 nm &lt; λ ≤ 400 nm</td></tr>
-<tr><td>1</td><td>&lt; 0,0005</td><td>≥ 0,15</td></tr>
-<tr><td>2</td><td>0,0005 fino 0,15</td><td>≥ 0,15</td></tr>
-<tr><td>3</td><td>&lt; 0,15</td><td>&lt; 0,15</td></tr>
-<tr><td>4</td><td>≥ 0,15</td><td>&lt; 0,15</td></tr>
+<tr><td>UV tipo del solarium</td><td colspan="3">Irradianza efficace W/m<sup>2</sup></td></tr>
+<tr><td></td><td>Banda UVB 250 nm &lt; λ ≤ 320 nm</td><td colspan="2">Banda UVA 320 nm &lt; λ ≤ 400 nm</td></tr>
+<tr><td>1</td><td>&lt; 0,0005</td><td colspan="2">≥ 0,15</td></tr>
+<tr><td>2</td><td>0,0005 fino 0,15</td><td colspan="2">≥ 0,15</td></tr>
+<tr><td>3</td><td>&lt; 0,15</td><td colspan="2">&lt; 0,15</td></tr>
+<tr><td>4</td><td>≥ 0,15</td><td colspan="2">&lt; 0,15</td></tr>
 </table>
 
 ### 2 Programma di esposizione

@@ -4,11 +4,11 @@ title: Ordinance of 27 February 2019 to the Federal Act on Protection against th
 short: O-NIRSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/183"
 language: en
-version: 2019-06-01
+version: 2022-01-01
 adopted: 2019-02-27
 in_force: 2019-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20190601/en/xml/fedlex-data-admin-ch-eli-cc-2019-183-20190601-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20190601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/183/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2019-183-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/183/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (O-NIRSA)
 
-of 27 February 2019 (Status as of 1 June 2019)
+of 27 February 2019 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -333,9 +333,11 @@ The FOPH shall enforce Section 3 concerning events involving laser radiation as 
 
 #### Art. 25
 
-**Responsibilities of the Federal Customs Administration**
+**Responsibilities of the FOCBS**
 
-The Federal Customs Administration shall enforce the prohibition on import and transit specified in Article 23 paragraph 1.
+The Federal Office for Customs and Border Security (FOCBS)[^25-1] shall enforce the prohibition on import and transit specified in Article 23 paragraph 1.
+
+[^25-1]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 #### Art. 26
 
@@ -369,7 +371,7 @@ The Federal Customs Administration shall enforce the prohibition on import and t
 
 <sup>2</sup> ...*[^28-2]*
 
-[^28-1]: [[AS 2007 1307](https://fedlex.data.admin.ch/eli/oc/2007/210), [2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635)No I II, [2012 793](https://fedlex.data.admin.ch/eli/oc/2012/120)]
+[^28-1]: [[AS 2007 1307](https://fedlex.data.admin.ch/eli/oc/2007/210), [2010 4489](https://fedlex.data.admin.ch/eli/oc/2010/635), [2012 793](https://fedlex.data.admin.ch/eli/oc/2012/120)]
 [^28-2]: The amendment may be consulted under [AS 2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183).
 
 #### Art. 29
