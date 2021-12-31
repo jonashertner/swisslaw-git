@@ -4,11 +4,11 @@ number: "321.5"
 title: DNA-Verordnung (DNAV)
 short: DNAV
 language: de
-version: "2011-01-01"
-nachtrag: "71"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2024-10-01
 adopted: 2005-06-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_5-2005_06_08-2005_07_01-071.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_5-2005_06_08-2005_07_01-115.html"
 text: pdf
 ---
 
@@ -54,16 +54,17 @@ beschliesst:
 
 - b. die von den jeweiligen Kommandos bezeichneten Angehörigen der Kantonspolizei sowie der Stadtpolizeien Zürich und Winterthur,
 
-- c. die von der Oberstaatsanwaltschaft und der Oberjugendanwaltschaft[^2-4] bezeichneten Angehörigen der Strafuntersuchungsbehörden.
+- c. die von der Oberstaatsanwaltschaft und der Oberjugendanwaltschaft[^2-4] bezeichneten Angehörigen der Strafuntersuchungsbehörden, d.[^2-5] die von der Leitung des Forensischen Instituts Zürich bezeichneten Mitarbeitenden.
 
 **1**
 
-- 1\. 1. 11 - 71 § 6. Personendaten und DNA-Profile von Personen, die nicht in das DNA-Profil-Informationssystem aufgenommen werden, sind umgehend nach einem Vergleich zu löschen.
+- 1\. 1. 22 - 115 § 6. Personendaten und DNA-Profile von Personen, die nicht in das DNA-Profil-Informationssystem aufgenommen werden, sind umgehend nach einem Vergleich zu löschen.
 
 [^2-1]: SR 363.
 [^2-2]: Aufgehoben durch RRB vom 3. November 2010 (OS 65, 779; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
 [^2-3]: SR 363.1.
 [^2-4]: Fassung gemäss RRB vom 3. November 2010 (OS 65, 779; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
+[^2-5]: Eingefügt durch RRB vom 7. Juli 2021 (OS 76, 391; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
 
 #### § 7
 
@@ -95,7 +96,7 @@ Ist eine der Voraussetzungen gemäss Art. 9 Abs. 1 DNA-Profil-Gesetz[^8-1] erfü
 
 Diese Verordnung tritt mit Ausnahme von § 3 am 1. Juli 2005 in Kraft. Die Verordnung über die Erhebung und Bearbeitung von DNA-Analysen im Strafverfahren vom 18. April 2001 (DNA-Analysen-Verordnung) wird auf den gleichen Zeitpunkt aufgehoben.
 
-## Anhang zu § 8
+### Anhang zu § 8
 
 ### Löschungsvorschrift DNA-Profil-Gesetz Meldende Behörde
 
@@ -125,7 +126,7 @@ Diese Verordnung tritt mit Ausnahme von § 3 am 1. Juli 2005 in Kraft. Die Veror
 
 **3**
 
-- 1\. 1. 11 - 71
+- 1\. 1. 22 - 115
 
 ## Weitere Fussnoten
 
