@@ -3,13 +3,12 @@ canton: FR
 number: "341.1.13"
 title: Verordnung über die Arbeitsdauer und die Arbeitszeiten bestimmter Kategorien von Mitarbeitenden der Freiburger Strafanstalt
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-05
+version: 2022-01-01
+version_adopted: 2021-12-07
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/341.1.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/5155/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8483/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5155/pdf_file"
 
 Freiburger Strafanstalt, Arbeitsdauer und Arbeitszeiten – V
 
-vom 05.12.2017 (Fassung in Kraft getreten am 01.01.2018)
+vom 05.12.2017 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -41,7 +40,7 @@ beschliesst:
 <sup>1</sup> Diese Verordnung setzt für die Mitarbeitenden der Freiburger Strafanstalt besondere Bestimmungen fest über:
 
 - a) die Arbeitsdauer der dem Landwirtschaftsbetrieb unterstellten Fachleute für Justizvollzug;
-- b) die Arbeitszeit der Fachleute für Justizvollzug und der Nachtwächterinnen und Nachtwächter;
+- b) die Arbeitsdauer und die Arbeitszeit der Fachleute für Justizvollzug und der Nachtwächterinnen und Nachtwächter;
 - c) die Entschädigung für Nachtdienst, Sonntagsdienst oder Dienst an dienstfreien Tagen;
 - d) den Pikettdienst.
 
@@ -53,7 +52,9 @@ beschliesst:
 
 <sup>2</sup> Die Mitarbeitenden können verpflichtet werden, ihre ordentliche Arbeitszeit ganz oder teilweise während der Nacht und an Samstagen, Sonntagen und dienstfreien Tagen zu leisten.
 
-<sup>3</sup> Der nachts zwischen 23 Uhr und 6 Uhr geleistete Dienst wird gemäss Artikel 47a StPR kompensiert.
+<sup>3</sup> Der nachts zwischen 23 Uhr und 6 Uhr geleistete Dienst wird gemäss Artikel 47a StPR[^2-1] kompensiert.
+
+[^2-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 3
 
@@ -65,27 +66,60 @@ beschliesst:
 
 **Ordentliche Arbeitszeit**
 
-<sup>1</sup> Die Fachleute für Justizvollzug sind verpflichtet, einen Teil ihrer ordentlichen Arbeitszeit während der Nacht, an Samstagen, Sonntagen und dienstfreien Tagen zu leisten.
+<sup>1</sup> Die Fachleute für Justizvollzug sind verpflichtet, einen Teil ihrer ordentlichen Arbeitszeit an Samstagen, Sonntagen und dienstfreien Tagen zu leisten.
 
-<sup>2</sup> Die Fachleute für Justizvollzug am Standort des Zentralgefängnisses arbeiten durchgehende Schichten von 11 Stunden und 10 Minuten im Tagdienst und 13 Stunden und 10 Minuten im Nachtdienst, wovon 2 Stunden Pausenzeit sind.
+<sup>2</sup> …
 
-<sup>3</sup> Die wöchentliche Arbeitsdauer der Fachleute für Justizvollzug am Standort der Anstalten von Bellechasse verteilt sich auf ganze und halbe Tage.
+<sup>3</sup> …
 
-<sup>4</sup> Die Nachtwächterinnen und Nachtwächter am Standort der Anstalten von Bellechasse können verpflichtet werden, während höchstens acht aufeinanderfolgenden Nächten 10 Stunden und 35 Minuten während der Woche und 11 Stunden und 5 Minuten am Wochenende zu arbeiten, wenn der Dienst es erfordert. Sie haben durchschnittlich zweimal pro Monat die Samstag- und die Sonntagnacht frei.
+<sup>4</sup> …
 
-<sup>5</sup> Die Nachtwächterinnen und Nachtwächter leisten die Arbeitszeit für die Ausbildung und Führung der Hunde tagsüber, zusätzlich zur ordentlichen Arbeitszeit. Diese Zeit wird grundsätzlich gemäss den Artikeln 59 und 91 StPG kompensiert.
+<sup>5</sup> …
+
+#### Art. 4a
+
+**Arbeitsdauer und Arbeitszeit der Fachleute für Justizvollzug am Standort Zentralgefängnis**
+
+<sup>1</sup> Die Fachleute für Justizvollzug am Standort Zentralgefängnis arbeiten durchgehende Schichten.
+
+<sup>2</sup> Die Tagesarbeitsdauer beträgt 11 Stunden und 10 Minuten. Sie beinhaltet eine bezahlte Pause von 45 Minuten.
+
+<sup>3</sup> Die Nachtarbeitsdauer beträgt 13 Stunden und 10 Minuten. Sie beinhaltet eine bezahlte Pause von 2 Stunden.
+
+<sup>4</sup> Die Fachleute für Justizvollzug am Standort Zentralgefängnis müssen in ihren Pausen verfügbar sein, um auf dienstliche Bedürfnisse reagieren zu können. Kommt es während der Pause zu einem Einsatz, so wird der ausgefallene Rest der bezahlten Pause zu einem anderen Zeitpunkt nachgeholt, wenn möglich am selben Tag.
+
+#### Art. 4b
+
+**Arbeitsdauer und Arbeitszeit der Fachleute für Justizvollzug der Abteilung Sicherheit und der Nachtwächterinnen und Nachtwächter am Standort der Anstalten von Bellechasse**
+
+<sup>1</sup> Die Fachleute für Justizvollzug der Abteilung Sicherheit werden ausschliesslich im Tagdienst eingeteilt und können verpflichtet werden, durchgehende Schichten von 12 Stunden und 30 Minuten zu arbeiten. Diese beinhalten eine bezahlte Pause von 1 Stunde und 30 Minuten.
+
+<sup>2</sup> Die Nachtwächterinnen und Nachtwächter werden ausschliesslich für den Nachtdienst angestellt und arbeiten durchgehende Schichten von 11 Stunden und 30 Minuten. Diese beinhalten eine bezahlte Pause von 1 Stunde.
+
+<sup>3</sup> Die Fachleute für Justizvollzug der Abteilung Sicherheit und die Nachtwächterinnen und Nachtwächter müssen in ihren Pausen verfügbar sein, um auf dienstliche Bedürfnisse reagieren zu können. Kommt es während der Pause zu einem Einsatz, so wird der ausgefallene Rest der bezahlten Pause zu einem anderen Zeitpunkt nachgeholt, wenn möglich am selben Tag.
+
+<sup>4</sup> Bei ausserordentlichen Umständen können die Fachleute für Justizvollzug der Abteilung Sicherheit verpflichtet werden, nachts zu arbeiten, und die Nachtwächterinnen und Nachtwächter tagsüber.
+
+<sup>5</sup> Wenn der Dienst es erfordert, können die Nachtwächterinnen und Nachtwächter verpflichtet werden, während höchstens acht aufeinanderfolgenden Nächten zu arbeiten. Sie haben durchschnittlich zweimal pro Monat die Samstag- und die Sonntagnacht frei.
+
+<sup>6</sup> Die Nachtwächterinnen und Nachtwächter leisten die Arbeitszeit für die Ausbildung und Führung der Hunde tagsüber, zusätzlich zur ordentlichen Arbeitszeit. Diese Zeit wird grundsätzlich gemäss den Artikeln 59 und 91 StPG[^4b-1] kompensiert.
+
+[^4b-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 5
 
 **Entschädigung für Nachtdienst, Dienst an Sonntagen oder dienstfreien Tagen**
 
-<sup>1</sup> Wird die ordentliche Arbeitszeit oder der Bereitschaftsdienst während der Nacht, an einem Sonntag oder an einem dienstfreien Tag geleistet, so besteht Anspruch auf die Entschädigungen gemäss Artikel 48 StPR.
+<sup>1</sup> Wird die ordentliche Arbeitszeit oder der Bereitschaftsdienst während der Nacht, an einem Sonntag oder an einem dienstfreien Tag geleistet, so besteht Anspruch auf die Entschädigungen gemäss Artikel 48 StPR[^5-1] .
 
 <sup>2</sup> Nachtwächterinnen und Nachtwächter haben keinen Anspruch auf die Entschädigung für Nachtdienst.
 
 <sup>3</sup> Nachtwächterinnen und Nachtwächter, die verpflichtet werden, tagsüber ausserhalb ihrer gewohnten Arbeitszeit zu arbeiten, erhalten eine Unannehmlichkeitsentschädigung für Tagdienst von Fr. 3.30 pro Stunde.
 
-<sup>4</sup> Die Entschädigung wird gemäss Artikel 132 StPR der Teuerung angepasst.
+<sup>4</sup> Die Entschädigung wird gemäss Artikel 132 StPR[^5-2] der Teuerung angepasst.
+
+[^5-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
+[^5-2]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 6
 
@@ -106,7 +140,9 @@ beschliesst:
 
 <sup>4</sup> Für die Ausbildung eines Diensthundes ausserhalb der Dienstzeiten erhalten die Fachleute für Justizvollzug pro Tag 8 Franken.
 
-<sup>5</sup> Die Entschädigungen nach Absatz 2 dieses Artikels werden gemäss Artikel 132 StPR angepasst.
+<sup>5</sup> Die Entschädigungen nach Absatz 2 dieses Artikels werden gemäss Artikel 132 StPR[^6-1] angepasst.
+
+[^6-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 7
 
@@ -116,13 +152,15 @@ beschliesst:
 
 <sup>2</sup> Zu den Diensten nach Absatz 1 können auch andere Mitarbeitende der Freiburger Strafanstalt verpflichtet werden.
 
-<sup>3</sup> Die Kompensation und die Vergütung dieser Dienste richten sich nach den Artikeln 57 und 132 StPR.
+<sup>3</sup> Die Kompensation und die Vergütung dieser Dienste richten sich nach den Artikeln 57 und 132 StPR[^7-1] .
+
+[^7-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 8
 
 **Vertretungsentschädigung**
 
-<sup>1</sup> Personen, die eine Sektorchefin oder einen Sektorchef oder eine Brigadenchefin oder einen Brigadenchef vertreten, erhalten bei einer Vollzeitstelle eine monatliche Entschädigung von 250 Franken.
+<sup>1</sup> Personen, die eine Sektorchefin oder einen Sektorchef oder eine Sektionschefin oder einen Sektionschef vertreten, erhalten bei einer Vollzeitstelle eine monatliche Entschädigung von 250 Franken.
 
 #### Art. 9
 
