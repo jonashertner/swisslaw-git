@@ -4,13 +4,13 @@ number: "661.312.56"
 title: "Ordonnance sur les frais professionnels *"
 short: OFrP
 language: fr
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-09-16
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-08
 adopted: 2000-10-18
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.312.56"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/909/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2376/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/909/pdf_file"
 
 (OFrP)
 
-du 18.10.2000 (état au 01.01.2016)
+du 18.10.2000 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -96,11 +96,22 @@ arrête:
 
 <sup>2</sup> En cas d'utilisation de véhicules privés, elle ne peut déduire à ce titre que les frais qui auraient résulté de l'utilisation des transports publics.
 
-<sup>3</sup> Si le trajet n'est pas desservi par les transports publics ou que la personne contribuable ne peut objectivement pas les emprunter, elle peut déduire les frais d'utilisation du véhicule privé à hauteur des forfaits partiels visés à l'article 6, alinéa 2 à moins d'établir la preuve de frais plus élevés.
+<sup>3</sup> Si le trajet n'est pas desservi par les transports publics ou que la personne contribuable ne peut objectivement pas les emprunter, elle peut déduire les frais d'utilisation du véhicule privé à hauteur des forfaits partiels visés à l'article 6, alinéa 2.
 
 <sup>4</sup> La déduction des frais de trajet occasionnés par le retour au domicile durant la pause-repas est limitée au montant de la déduction totale accordée pour repas pris hors du domicile.
 
 <sup>5</sup> Au titre de frais de déplacement entre le domicile et le lieu de travail, la personne contribuable peut déduire au maximum 6700 francs.
+
+#### Art. 7a
+
+**Utilisation privée d’un véhicule d’entreprise**
+
+<sup>1</sup> Si la personne contribuable utilise gratuitement un véhicule d’entreprise pour les déplacements entre son domicile et son lieu de travail ainsi qu'à d'autres fins privées,
+
+- a un forfait de 0,9 pour cent du prix d'achat du véhicule est déclaré comme revenu mensuel;
+- b la déduction des frais de déplacement selon l'article 7 est exclue.
+
+<sup>2</sup> La déduction des frais de déplacement est autorisée si, au lieu du forfait prévu à l’alinéa 1, la valeur effective de l'utilisation privée du véhicule d’entreprise est déclarée comme revenu et prouvée au moyen d'un carnet de bord.
 
 #### Art. 8
 

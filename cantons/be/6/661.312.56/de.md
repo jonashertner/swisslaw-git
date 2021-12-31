@@ -4,13 +4,13 @@ number: "661.312.56"
 title: Verordnung über die Berufskosten
 short: "Berufskostenverordnung, BKV"
 language: de
-version: 2016-01-01
-valid_until: 2021-12-31
-version_adopted: 2015-09-16
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-09-08
 adopted: 2000-10-18
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.312.56"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/909/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/909/pdf_file"
 
 (Berufskostenverordnung, BKV)
 
-vom 18.10.2000 (Stand 01.01.2016)
+vom 18.10.2000 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -86,7 +86,7 @@ beschliesst:
 
 <sup>2</sup> Die Teilpauschalen bestimmen sich nach den vom Eidgenössischen Finanzdepartement für die Veranlagung der direkten Bundessteuer festgesetzten Ansätzen.
 
-<sup>3</sup> Die Teilpauschalen sind entsprechend zu kürzen, wenn die unselbstständige Erwerbstätigkeit bloss während eines Teils des Jahres oder als Teilzeitarbeit ausgeübt wird.
+<sup>3</sup> Die Teilpauschalen sind angemessen zu kürzen, wenn die unselbstständige Erwerbstätigkeit bloss während eines Teils des Jahres oder als Teilzeitarbeit ausgeübt wird.
 
 #### Art. 7
 
@@ -96,11 +96,22 @@ beschliesst:
 
 <sup>2</sup> Bei Benützung privater Fahrzeuge sind als notwendige Kosten nur die Auslagen abziehbar, die bei Benützung der öffentlichen Verkehrsmittel anfallen würden.
 
-<sup>3</sup> Steht kein öffentliches Verkehrsmittel zur Verfügung oder ist dessen Benützung objektiv nicht zumutbar, so können die Kosten des privaten Fahrzeugs gemäss den Teilpauschalen nach Artikel 6 Absatz 2 abgezogen werden. Der Nachweis höherer berufsnotwendiger Kosten bleibt vorbehalten.
+<sup>3</sup> Steht kein öffentliches Verkehrsmittel zur Verfügung oder ist dessen Benützung objektiv nicht zumutbar, so können die Kosten des privaten Fahrzeugs gemäss den Teilpauschalen nach Artikel 6 Absatz 2 abgezogen werden.
 
 <sup>4</sup> Für die Hin- und Rückfahrt über Mittag ist der Fahrkostenabzug auf die Höhe des vollen Abzugs für auswärtige Verpflegung beschränkt.
 
 <sup>5</sup> Als Kosten für Fahrten zwischen Wohn- und Arbeitsstätte können maximal 6700 Franken geltend gemacht werden.
+
+#### Art. 7a
+
+**Private Nutzung von Geschäftsfahrzeugen**
+
+<sup>1</sup> Nutzt die steuerpflichtige Person ein Geschäftsfahrzeug unentgeltlich für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke,
+
+- a gilt pauschal 0,9 Prozent des Fahrzeugpreises als monatliches Einkommen,
+- b ist ein Abzug von Fahrkosten nach Artikel 7 ausgeschlossen.
+
+<sup>2</sup> Ein Abzug der Fahrkosten ist hingegen zulässig, wenn anstelle der Pauschale nach Absatz 1 der effektive Wert der privaten Nutzung des Geschäftsfahrzeugs als Einkommen deklariert und im Bordbuch nachgewiesen wird.
 
 #### Art. 8
 
