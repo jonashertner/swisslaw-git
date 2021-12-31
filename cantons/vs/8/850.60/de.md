@@ -1,364 +1,372 @@
 ---
 canton: VS
 number: "850.60"
-title: Verordnung betreffend die Anwendung des Gesetzes über die Eingliederung behinderter Menschen
+title: Verordnung über die Rechte und die Inklusion von Menschen mit Behinderungen
 short: VRIMB
 language: de
-version: 2008-01-01
-corrected: 2017-10-12
-version_adopted: 2008-03-05
+version: 2022-01-01
+version_adopted: 2021-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.60"
-pdf: "https://lex.vs.ch/api/de/versions/150/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3594/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung betreffend die Anwendung des Gesetzes über die Eingliederung behinderter Menschen
+# Verordnung über die Rechte und die Inklusion von Menschen mit Behinderungen
 
-vom 24. Juni 1992
+(VRIMB)
 
-Der Grosse Rat des Kantons Wallis
+vom 01.12.2021 (Stand 01.01.2022)
 
-eingesehen das Gesetz vom 31. Januar 1991 über die Eingliederung behinderter Menschen, nachfolgend Gesetz genannt;
+Der Staatsrat des Kantons Wallis
 
-auf Antrag des Staatsrates,
+eingesehen Artikel 57 der Kantonsverfassung;
 
-beschliesst:
+eingesehen das Gesetz über die Rechte und die Inklusion von Menschen mit Behinderungen vom 31. Januar 1991 (GRIMB) und dessen Änderung vom 6. Mai 2021, insbesondere Artikel 40;
 
-### 1. Kapitel: Allgemeine Bestimmungen
+auf Antrag des für das Sozialwesen zuständigen Departements,
+
+verordnet:
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Behinderte Menschen**
+**Ziel**
 
-Das Gesetz ist anwendbar auf behinderte Menschen, die sich in der von der IV/AHV vorgesehenen Altersspanne befinden und die nicht in einer vom Gesundheitsdepartement anerkannten Einrichtung hospitalisiert sind.
+<sup>1</sup> Der Staatsrat regelt den Vollzug des Gesetzes mit der vorliegenden Verordnung.
+
+<sup>2</sup> Die nachfolgenden Bestimmungen erfolgen mit dem Zweck, die Rechte der Menschen mit Behinderungen zu gewährleisten, Benachteiligungen zu vermeiden und die Inklusion zu fördern.
+
+<sup>3</sup> Ausserdem wird die Tätigkeit des Staates in Bezug auf Aufsicht, Koordination und Finanzierung näher bestimmt.
+
+## 2 Prävention
 
 #### Art. 2
 
-**Zuständiges Departement**
+**Zusammenarbeit**
 
-<sup>1</sup> Das Departement der Sozialdienste, nachfolgend Departement genannt, ist das für die Anwendung des Gesetzes zuständige Organ mit Ausnahme des 3. Kapitels Erziehung und schulische Ausbildung, das vom Erziehungsdepartement in Zusammenarbeit mit dem Departement der Sozialdienste behandelt wird.
-
-<sup>2</sup> Es wacht darüber, dass die vorgesehenen Massnahmen verwirklicht werden.
-
-#### Art. 2bis
-
-<sup>1</sup> Vorbehalt des Subventionsgesetzes
-
-Die Bestimmungen des Subventionsgesetzes vom 13. November 1995 sind auf alle in diesem Erlass vorgesehenen Subventionen unmittelbar und vollumfänglich anwendbar. Die Bestimmungen des vorliegenden Erlasses bleiben nur insoweit anwendbar, als sie den Bestimmungen des Subventionsgesetzes nicht entgegenstehen.
-
-### 2. Kapitel: Prävention
+<sup>1</sup> Das Departement unternimmt in Ergänzung zur Prävention, die vom medizinischen Sektor durchgeführt wird, in Zusammenarbeit mit den betroffenen Institutionen oder, falls notwendig, selbständig Präventionsmassnahmen in den Bereichen des Sozialwesens.
 
 #### Art. 3
 
-**Zusammenarbeit**
+**Präventionsmassnahmen**
 
-Das Departement unternimmt in Ergänzung zur Prävention, die vom medizinischen Sektor durchgeführt wird, in Zusammenarbeit mit den betroffenen Institutionen oder, falls notwendig, selbständig Präventionsmassnahmen in den Bereichen des Sozialwesens.
+<sup>1</sup> Die Präventionsmassnahmen werden namentlich in den Bereichen Information, Beratung, Dokumentation, Animation durchgeführt.
+
+## 3 Erziehung und schulische Ausbildung
 
 #### Art. 4
 
-**Präventionsmassnahmen**
+**Zuständigkeit**
 
-Die Präventionsmassnahmen werden namentlich in den Bereichen Forschung, Information, Beratung, Dokumentation, Animation durchgeführt.
+<sup>1</sup> Zuständig für diesen Bereich ist das mit der Erziehung beauftragte Departement in Zusammenarbeit mit dem für das Sozialwesen zuständige Departement.
+
+## 4 Berufliche, gesellschaftliche und kulturelle Inklusion
+
+### 4.1 Berufliche Inklusion
+
+### 4.1.1 Inklusion in Gemeinwesen und suventionierten Institutionen
 
 #### Art. 5
 
-**Budgetkredit**
+**Gemeinwesen und subventionierte Institutionen**
 
-Es wird ein Budgetkredit zur Deckung der Kosten im Zusammenhang mit den Präventionsmassnahmen vorgesehen.
-
-### 3. Kapitel: Eingliederung der behinderten Menschen
+<sup>1</sup> Gemeinwesen und subventionierte Institutionen engagieren sich aktiv für die Inklusion von Menschen mit Behinderungen. Unter Gemeinwesen sind die Kantonsverwaltung, die kantonalen Einrichtungen und die Gemeindeverwaltungen zu verstehen. Als subventionierte Institutionen sind die im Rahmen ihrer Aktivitäten vom Staat subventionierten Institutionen zu verstehen.
 
 #### Art. 6
 
-**Gemeinwesen**
+**Beseitigung der architektonischen Barrieren**
 
-Unter Gemeinwesen sind die Kantonsverwaltung, die kantonalen Einrichtungen, die Gemeindeverwaltungen und die im Rahmen ihrer Aktivitäten vom Staat subventionierten Institutionen zu verstehen.
+<sup>1</sup> Die Verantwortlichen der Gemeinwesen und der subventionierten Institutionen ordnen die Beseitigung der architektonischen Barrieren an ihren bestehenden Gebäuden und Anlagen an. Sie berücksichtigen die Erhaltung von wertvollen Gesamtheiten in den alten Städten und alten Dörfern oder übermässige Kosten, die verursacht werden könnten.
 
 #### Art. 7
 
-**Beseitigung der architektonischen Barrieren**
+**Sensibilisierung**
 
-Die Verantwortlichen der Gemeinwesen ordnen die Beseitigung der architektonischen Barrieren an ihren bestehenden Gebäuden und Anlagen an. Sie berücksichtigen die Erhaltung von wertvollen Gesamtheiten in den alten Städten und alten Dörfern oder übermässige Kosten, die verursacht werden könnten.
+<sup>1</sup> Die Gemeinwesen und suventionierten Instituionen werden für die besonderen Bedürfnisse der Menschen mit Behinderungen, insbesondere bezüglich deren beruflichen Inklusion, sensibilisiert.
 
 #### Art. 8
 
-**Sensibilisierung**
+**Umschulung**
 
-Das Personal der Gemeinwesen wird für die Probleme der behinderten Menschen, insbesondere bezüglich deren beruflichen Eingliederung, sensibilisiert.
+<sup>1</sup> Die Umschulung des Personals der Gemeinwesen und subventionierten Institutionen, für welches infolge Krankheit oder Unfall die Wiederaufnahme der Arbeit nicht möglich ist, muss sobald als möglich und, wenn notwendig, mit der Hilfe der IV durchgeführt werden. Die Wiedereingliederung soll vorrangig im gleichen Gemeinwesen bzw. der gleichen subventionierten Institution vorgenommen werden.
 
 #### Art. 9
 
-**Umschulung**
+**Anstellung**
 
-Die Umschulung des Personals der Gemeinwesen, für welches infolge Krankheit oder Unfall die Wiederaufnahme der Arbeit nicht möglich ist, muss sobald als möglich und, wenn notwendig, mit der Hilfe der IV durchgeführt werden. Die Wiedereingliederung soll vorrangig im gleichen Gemeinwesen vorgenommen werden.
+<sup>1</sup> Bei der Anstellung des Personals geben die Gemeinwesen und subventionierten Institutionen den Menschen mit Behinderungen die gleichen Chancen wie den anderen Kandidaten.
 
 #### Art. 10
 
-**Anstellung**
+**Arbeitsplatz**
 
-Bei der Anstellung des Personals geben die Gemeinwesen den behinderten Menschen, wenn deren Behinderung der vorgesehenen Tätigkeit nicht in besonderem Masse abträglich ist, die gleichen Chancen wie den anderen Kandidaten.
+<sup>1</sup> Falls notwendig wird der Arbeitsplatz von Menschen mit Behinderungen an deren Bedürfnisse angepasst.
 
 #### Art. 11
 
-**Arbeitsplatz**
+**Dienstverhältnis**
 
-Falls notwendig wird der Arbeitsplatz der behinderten Person mit der eventuellen Hilfe der IV angepasst.
+<sup>1</sup> Die reglementarischen Bestimmungen über die Anstellung des Personals müssen es den Menschen mit Behinderungen erlauben, vom gleichen Dienstverhältnis zu profitieren wie die übrigen Angestellten.
 
 #### Art. 12
 
-**Dienstverhältnis**
+**Anstellung von Menschen mit Behinderungen**
 
-Die reglementarischen Bestimmungen über die Anstellung des Personals müssen es den behinderten Menschen erlauben, vom gleichen Dienstverhältnis zu profitieren wie die übrigen Angestellten.
+<sup>1</sup> Die Anstellung von Menschen mit Behinderungen soll deren berufliche Inklusion fördern.
+
+<sup>2</sup> Zu diesem Zweck stellen die Gemeinwesen und subventionierten Institutionen Menschen mit Behinderungen im Hinblick auf deren Inklusion vorübergehend an. Es handelt sich namentlich um Lehrlinge, Praktikanten und Personen in der Wiedereingliederungsphase.
+
+<sup>3</sup> Sie stellen Menschen mit Behinderungen für ein Jahr in halbgeschützter Beschäftigung an. Jedes Gemeinwesen und jede subventionierte Institution bestimmt von Fall zu Fall die Dauer der Probezeit, die, falls die Beteiligten zufrieden sind, in eine Anstellung für ein Jahr übergeht. Diese Anstellung kann von Jahr zu Jahr erneuert werden, sofern die in Artikel 13 der vorliegenden Verordnung vorgesehenen Bedingungen erfüllt sind und wenn keine Anstellungsmöglichkeiten gefunden werden konnten.
 
 #### Art. 13
 
-**Vorübergehende Anstellung von behinderten Personen**
-
-<sup>1</sup> Die Anstellung der behinderten Personen soll deren berufliche Eingliederung fördern.
-
-<sup>2</sup> Zu diesem Zweck stellen die Gemeinwesen behinderte Personen im Hinblick auf ihre Eingliederung vorübergehend an. Es handelt sich namentlich um Lehrlinge, Praktikanten und Personen in der Wiedereingliederungsphase.
-
-<sup>3</sup> Sie stellen behinderte Personen für ein Jahr in halbgeschützter Beschäftigung an. Jedes Gemeinwesen bestimmt von Fall zu Fall die Dauer der Probezeit, die, falls die Beteiligten zufrieden sind, in eine Anstellung für ein Jahr übergeht. Diese Anstellung kann von Jahr zu Jahr erneuert werden, sofern die in Artikel 14 der vorliegenden Verordnung vorgesehenen Bedingungen erfüllt sind und wenn keine Anstellungsmöglichkeiten gefunden werden konnte.
-
-#### Art. 14
-
 **Bedingungen**
 
-<sup>1</sup> Die Anstellung von behinderten Personen unterliegt folgenden Bedingungen:
+<sup>1</sup> Die Anstellung von Menschen mit Behinderungen unterliegt folgenden Bedingungen:
 
-- Nachweis der Notwendigkeit der Anstellung;
-
-- nützliche und den Fähigkeiten des Kandidaten angepassten Arbeiten;
-
-- positive Stellungnahme einer anerkannten spezialisierten Stelle.
+- a) Nachweis der Notwendigkeit der Anstellung;
+- b) nützliche und den Fähigkeiten der Person angepasste Arbeiten;
+- c) positive Stellungnahme einer anerkannten spezialisierten Stelle.
 
 <sup>2</sup> Das Departement prüft für die Kantonsverwaltung und die kantonalen Einrichtungen, ob die Bedingungen erfüllt sind.
 
+#### Art. 14
+
+**Vergebung von Arbeiten**
+
+<sup>1</sup> Die Gemeinwesen und subventionierten Institutionen fördern die Werkstätten für Menschen mit Behinderungen, indem sie ihnen Arbeiten anvertrauen.
+
+<sup>2</sup> Bei gleichen Bedingungen werden die Arbeiten der Gemeinwesen und subventionierten Institutionen vorrangig an diese Werkstätten vergeben.
+
+### 4.1.2 Inklusion im Privatsektor
+
 #### Art. 15
-
-**Pflichtenheft**
-
-Das Pflichtenheft hält insbesondere die übertragenen Aufgaben, die Arbeitszeiten und die wöchentliche Arbeitsdauer der behinderten Personen unter Berücksichtigung ihrer Behinderung fest.
-
-#### Art. 16
-
-**Entlöhnung**
-
-Die Entlöhnung der behinderten Personen entspricht den Anforderungen der Funktion unter Berücksichtigung der erbrachten Leistungen.
-
-#### Art. 17
-
-**Budgetposten**
-
-Die Gemeinwesen schaffen einen Budgetposten für die Entlöhnung der angestellten behinderten Personen.
-
-#### Art. 18
-
-Vergebung von Arbeiten:
-
-- 1\. Die Gemeinwesen fördern die Werkstätten für behinderte Personen, indem sie ihnen Arbeiten anvertrauen.
-
-- 2\. Bei gleichen Bedingungen werden die Arbeiten der Gemeinwesen vorrangig an diese Werkstätten vergeben.
-
-#### Art. 19
-
-**Stellensuche**
-
-Es wird vom Departement oder von einem von ihm bestimmten Organ in Zusammenarbeit mit den spezialisierten Stellen eine Liste der behinderten Personen geführt, die eine Arbeit suchen.
-
-#### Art. 20
-
-**Auftrags- und Arbeitssuche**
-
-Das Departement bezeichnet ein Organ, das beauftragt ist, Aufträge und Ar-beit für behinderte Menschen zu suchen und diese Aktivitäten auf die verschiedenen Werkstätten und als Heimarbeit aufzuteilen. Dieses Organ führt das Verzeichnis der verschiedenen Produkte der geschützten Werkstätten und Beschäftigungsstätten und hält es den Interessierten zur Verfügung.
-
-#### Art. 21
 
 **Privatsektor**
 
-Der Privatsektor wirkt mit bei der Eingliederung der behinderten Menschen. Das Departement gewährt Beratung und finanzielle Hilfe.
+<sup>1</sup> Der Privatsektor wirkt mit bei der Inklusion der Menschen mit Behinderungen. Das Departement gewährt Beratung und finanzielle Hilfe.
 
-#### Art. 22
+### 4.2 Gesellschaftliche und kulturelle Inklusion
+
+#### Art. 16
 
 **Behindertengerechtes Bauen**
 
-<sup>1</sup> Die von der Schweizerischen Zentralstelle für Baurationalisierung herausgegebene Norm (SN 521 500) ist anwendbar:
+<sup>1</sup> Die vom Schweizerischen Ingenieur- und Architektenverein herausgegebene Norm (SIA 500) ist anwendbar:
 
-- Gebäudekategorie A: Artikel 22, Absätze I und 2 des Gesetzes;
+- a) Gebäudekategorie A: Artikel 22 Absätze 1 und 2 des Gesetzes;
+- b) Gebäudekategorie B: Artikel 22 Absatz 3 des Gesetzes.
 
-- Gebäudekategorie B: Artikel 22, Absatz 3 des Gesetzes.
+<sup>2</sup> Bei Sonderbauten, die höheren Ansprüchen zu genügen haben, zum Beispiel Bauten zur Pflege und Betreuung von Personen, wie Spitäler, Rehabilitationsstätten, Wohn- und Pflegeheime sowie Wohnungen für Menschen mit Behinderungen und betagte Personen, müssen Vorschriften beachtet werden, die zum Teil über die Forderungen der Norm SIA 500 hinausgehen. Für solche Bauten sind die spezifischen, dem jeweiligen Zweck entsprechenden Anforderungen vorrangig.
 
-<sup>2</sup> Bei Sonderbauten, die höheren Ansprüchen zu genügen haben, z.B. Wohnungen für schwerbehinderte Personen, Heime für behinderte oder betagte Personen, Spitäler, müssen Vorschriften beachtet werden, die zum Teil über die Forderungen der Norm SN 521 500 hinausgehen.
+<sup>3</sup> Das Beratungs- und Konsultationsorgan informiert die Gemeinwesen, die subventionierten Institutionen und die Privaten über die Massnahmen, die bezüglich des behindertengerechten Bauens zu treffen sind. Es bietet seine Hilfe an bei der Planung von Bauten und Umbauten.
 
-<sup>3</sup> Das Beratungs- und Konsultationsorgan informiert die Gemeinwesen und die Privaten über die Massnahmen, die bezüglich des behindertengerechten Bauens zu treffen sind. Es bietet seine Hilfe an bei der Planung von Bauten und Umbauten.
+<sup>4</sup> Das Departement bezeichnet ein Organ, das auf Ebene der Kantonsverwaltung für das behindertengerechte Bauen verantwortlich ist. Die Gemeinden bezeichnen ebenfalls ihr Organ und teilen dieses der Koordinationsstelle für Fragen im Bereich Behinderung der für das Sozialwesen zuständigen Dienststelle mit, welche beauftragt ist, die notwendige Koordination wahrzunehmen.
 
-<sup>4</sup> Das Departement bezeichnet ein Organ, das auf Ebene der Kantonsverwaltung für das behindertengerechte Bauen verantwortlich ist. Die Gemeinden bezeichnen ebenfalls ihr Organ und teilen dieses der Dienststelle für Sozialwesen, Amt für behinderte Personen des Staates Wallis mit, welche beauftragt ist, die notwendige Koordination wahrzunehmen.
-
-#### Art. 23
+#### Art. 17
 
 **Mehrfamilienhaus**
 
-Ein Wohngebäude mit vier und mehr Wohnungen ist als Mehrfamilienhaus im Sinne des Artikels 22, Absatz 3 des Gesetzes zu betrachten.
+<sup>1</sup> Ein Wohngebäude mit 4 und mehr Wohnungen ist als Mehrfamilienhaus im Sinne des Artikels 22 Absatz 3 des Gesetzes zu betrachten.
 
-#### Art. 24
+#### Art. 18
 
 **Spezialisierte Institutionen**
 
-<sup>1</sup> Die spezialisierten Institutionen bieten Wohnmöglichkeiten oder Arbeitsräume an, die den Bedürfnissen der behinderten Menschen entsprechen.
+<sup>1</sup> Die spezialisierten Institutionen bieten Wohnmöglichkeiten oder Arbeitsräume an, die den Bedürfnissen der Menschen mit Behinderungen entsprechen.
 
-<sup>2</sup> Der Standort und die Einrichtung müssen so gewählt werden, dass sie die Durchführung von Massnahmen zur Eingliederung behinderter Menschen, die Ausübung ihres Berufes oder ihrer Beschäftigung erleichtern und eine sinnvolle Gestaltung ihrer Freizeit erlauben.
+<sup>2</sup> Der Standort der Institution und deren Ausgestaltung müssen so gewählt werden, dass sie die Durchführung von Massnahmen zur Inklusion von Menschen mit Behinderungen ermöglichen.
 
-<sup>3</sup> Die Arbeit und die Beschäftigung behinderter Personen tragen nebst einer eventuellen wirtschaftlichen Leistung der Entfaltung der Personen und der Art ihrer Behinderung Rechnung.
+<sup>3</sup> Die Arbeit und die Beschäftigung von Menschen mit Behinderungen tragen nebst einer eventuellen wirtschaftlichen Leistung der Entfaltung der Personen und der Art ihrer Behinderung Rechnung.
 
-<sup>4</sup> Der Grad der Autonomie der behinderten Menschen bestimmt die Wohnform und das benötigte Personal.
+<sup>4</sup> Der Grad der Autonomie der Menschen mit Behinderungen bestimmt die Wohnform und das benötigte Personal.
 
-<sup>5</sup> Die spezialisierten Institutionen sind, was die Ausschreibung und die Vergebung von Arbeiten und Lieferungen anbelangt, den für die Schulhausbauten vorgesehenen Bestimmungen unterstellt.
+<sup>5</sup> Die spezialisierten Institutionen sind, was die Ausschreibung und die Vergebung von Arbeiten und Lieferungen anbelangt, den Bestimmungen über das öffentliche Beschaffungswesen unterstellt.
 
-#### Art. 25
+#### Art. 19
 
-<sup>2</sup>
+**Platzierung in einer Institution**
 
-Aufgehoben
+<sup>1</sup> Platzierungen in einer Institution erfolgen über das Zentrum für Indikation und Begleitung (ZIB), welches sich aus je einem Vertreter der mit dem Sozialwesen beauftragten Dienststelle, der Institutionen und der psychiatrischen Dienste Wallis zusammensetzt. Das ZIB fällt in den Zuständigkeitsbereich der Koordinationsstelle für Fragen im Bereich Behinderung, welche auch die Leitung des ZIB inne hat.
 
-### 4. Kapitel: Beiträge und finanzielle Hilfen
+<sup>2</sup> Gesuche für eine Platzierung werden über die anerkannten Beratungsstellen dem ZIB zur Beurteilung vorgelegt. Die anerkannten Beratungsstellen analysieren die Situation, machen dem ZIB einen Vorschlag und begleiten die Person mit einer Behinderung in Zusammenarbeit mit den betroffenen Einrichtungen.
 
-### 1. Beiträge
+<sup>3</sup> Die Koordinationsstelle für Fragen im Bereich Behinderung fällt einen beschwerdefähigen Entscheid und erteilt einer Institution den Auftrag für die Umsetzung.
 
-#### Art. 26
+<sup>4</sup> Die Platzierungen müssen durch die Beratungsstellen in Zusammenarbeit mit der betroffenen Person und der Institution regelmässig evaluiert werden.
+
+## 5 Beiträge an die spezialisierten Institutionen und finanzielle Hilfen
+
+### 5.1 Beiträge an die spezialisierten Institutionen
+
+#### Art. 20
 
 **Vertrag**
 
-Die in Artikel 25, Buchstabe b des Gesetzes vorgesehenen Verträge zwischen dem Staat und den als gemeinnützig anerkannten spezialisierten Institutionen umschreiben insbesondere deren Tätigkeitsbereich, deren Leistungen, die Leistungen der behinderten Personen und des Staates sowie das Statut des beschäftigten Personals.
+<sup>1</sup> Die in Artikel 25 Buchstabe b des Gesetzes vorgesehenen Verträge (Rahmenvertrag und Leistungsauftrag) zwischen dem Staat und den als gemeinnützig anerkannten spezialisierten Institutionen umschreiben insbesondere deren Tätigkeitsbereich und deren Leistungen sowie die Leistungen des Staates. Die Einzelheiten werden in einer Richtlinie des Departements geregelt.
 
-#### Art. 27
+#### Art. 21
 
-<sup>2</sup> Investitionsbeiträge
+**Investitionsbeiträge**
 
-<sup>1</sup> Die Beitragsgesuche für den Kauf, den Bau, die Vergrösserung, die Renovation, die Anpassung, den Umbau und die Ausstattung von Einrichtungen sind an das Departement zu richten.
+<sup>1</sup> Die Beitragsgesuche für den Kauf, den Bau, die Vergrösserung, die Renovation, die Anpassung, den Umbau und die Ausstattung von Einrichtungen sind an die Koordinationsstelle für Fragen im Bereich Behinderung der für das Sozialwesen zuständigen Dienststelle zu richten.
 
-<sup>2</sup> Der Staatsrat erlässt Richtlinien betreffend die Gewährung von Investitionsbeiträgen.
+<sup>2</sup> Der Staatsrat erlässt ein Reglement betreffend die Gewährung von Investitionsbeiträgen.
 
-#### Art. 28
+#### Art. 22
 
-<sup>2</sup> Betriebsbeiträge
+**Betriebsbeiträge**
 
-<sup>1</sup> Im Prinzip werden die Betriebsbeiträge gemäss den in den Leistungsaufträgen festgelegten Modalitäten ausbezahlt.
+<sup>1</sup> Die Betriebsbeiträge werden gemäss den in den Leistungsaufträgen festgelegten Modalitäten ausbezahlt.
 
 <sup>2</sup> Bei Institutionen ohne Leistungsaufträge werden die Betriebsbeiträge auf Grund des vom Staat anerkannten Defizits berechnet. Das Departement genehmigt alljährlich die Budgets dieser Institutionen.
 
-#### Art. 29
+<sup>3</sup> Die Gewährung von Betriebsbeiträgen an spezialisierte Institutionen wird in Richtlinien des Departements geregelt.
 
-<sup>2</sup> Richtlinien
+#### Art. 23
 
-Der Staatsrat regelt die Gewährung von Betriebsbeiträgen an spezialisierte Institutionen in Richtlinien.
+**Vorschüsse**
 
-#### Art. 30
+<sup>1</sup> Den Institutionen ohne Leistungsaufträge können je nach Bedarf an Barmitteln auf der Basis der vom Departement genehmigten Budgets Vorschüsse bis höchstens 80 Prozent des voraussichtlichen Betriebsbeitrages gewährt werden.
 
-<sup>2</sup> Vorschüsse
+#### Art. 24
 
-Den Institutionen ohne Leistungsaufträge können je nach Bedarf an Barmitteln auf der Basis der vom Departement genehmigten Budgets Vorschüsse bis höchstens 80 Prozent des voraussichtlichen Betriebsbeitrages gewährt werden.
+**Betriebskapital und Reservefonds**
 
-#### Art. 31
+<sup>1</sup> Die Institution verfügt über ein Betriebskapital und über einen Reservefonds, deren Bildung und Höhe im Einvernehmen mit dem Departement, gestützt auf Artikel 32 Absatz 1 des Gesetzes, festgesetzt werden.
 
-<sup>2</sup> Betriebskapital und Reservefonds
-
-Die Institution verfügt über ein Betriebskapital und über einen Reservefonds, deren Bildung und Höhe im Einvernehmen mit dem Departement, gestützt auf Artikel 32 Absatz 1 des Gesetzes, festgesetzt werden.
-
-#### Art. 32
+#### Art. 25
 
 **Prüfung der Rechnung**
 
-Die Geschäftsführung und der Finanzhaushalt der subventionierten spezialisierten Institutionen sind der Kontrolle unterstellt, gemäss dem Gesetz vom 24. Juni 1980 über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle.
+<sup>1</sup> Die Geschäftsführung und der Finanzhaushalt der subventionierten spezialisierten Institutionen sind der Kontrolle unterstellt, gemäss dem Gesetz über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle (FHG).
 
-#### Art. 33
+#### Art. 26
 
-<sup>2</sup> Beteiligung
+**Beteiligung**
 
 <sup>1</sup> Das Departement meldet den Gemeinden jährlich ihren nach den in Artikel 35 des Gesetzes vorgesehenen Bestimmungen errechneten Beitragsanteil.
 
-<sup>2</sup> Aufgehoben
+### 5.2 Finanzielle Hilfen
 
-- 2\. Finanzielle Hilfen
+#### Art. 27
+
+**Finanzielle Hilfen im Bereich der beruflichen Inklusion**
+
+<sup>1</sup> Die finanzielle Hilfe, die im Rahmen der beruflichen Inklusion, insbesondere der Ausbildung, der Wiedereingliederung, der Beschäftigung im Privatsektor und der Fort- und Weiterbildung der Menschen mit Behinderungen vorgesehen ist, wird aufgrund eines Gesuchs von Fall zu Fall von der Koordinationsstelle für Fragen im Bereich Behinderung geprüft. Das Departement erlässt eine Weisung diesbezüglich.
+
+#### Art. 28
+
+**Finanzielle Hilfen an Organisationen im Bereich Prävention und Inklusionsmassnahmen**
+
+<sup>1</sup> Die finanzielle Hilfe an Organisationen, die sich mit Prävention und mit Inklusionsmassnahmen und mit gegenseitiger Hilfe beschäftigen, wird aufgrund eines Gesuches von der Koordinationsstelle für Fragen im Bereich Behinderung gewährt.
+
+<sup>2</sup> Der Betrag der finanziellen Hilfen übersteigt 80 Prozent der in Betracht gezogenen Kosten nicht.
+
+#### Art. 29
+
+**Finanzielle Hilfen für die Anpassung von Wohnungen**
+
+<sup>1</sup> Die finanziellen Hilfen für die Anpassung von Wohnungen für Menschen mit Behinderungen gemäss Artikel 19 des Gesetzes werden nur in den Fällen gewährt, bei denen das Gesetz über das Wohnungswesen nicht anwendbar ist.
+
+<sup>2</sup> Sie werden von Fall zu Fall aufgrund eines Gesuches, der dafür vom Departement anerkannten Beratungsstellen geprüft und von der Koordinationsstelle für Fragen im Bereich Behinderung gewährt.
+
+#### Art. 30
+
+**Finanzielle Hilfen für die Beherbergung und Betreuung zu Hause**
+
+<sup>1</sup> Das Gesuch um eine Hilfe für die Beherbergung in einer Familie und für die Betreuung eines Menschen mit Behinderungen gemäss Artikel 20 des Gesetzes wird von der Koordinationsstelle für Fragen im Bereich Behinderung in Zusammenarbeit mit der vom Departement beauftragten Sozialberatung geprüft. Die Hilfe muss den finanziellen Möglichkeiten der betreffenden Person Rechnung tragen. Der Betrag übersteigt 80 Prozent der in Betracht gezogenen Kosten nicht. Die Einzelheiten werden in einer Weisung des Departements geregelt.
+
+#### Art. 31
+
+**Finanzielle Hilfen für die Anpassung bestehender Bauten**
+
+<sup>1</sup> Für die Beseitigung von bautechnischen Hindernissen an bestehenden Bauten, welche vor dem 1. Januar 1993 entstanden sind, können finanzielle Hilfen gewährt werden.
+
+<sup>2</sup> Gesuche für finanzielle Hilfen sind an die Koordinationsstelle für Fragen im Bereich der Behinderung zu richten.
+
+<sup>3</sup> In Betracht gezogen werden nur die speziellen durch die Beseitigung der bautechnischen Hindernisse verursachten Auslagen für die gemäss der vom Schweizerischen Ingenieur- und Architektenverein herausgegebenen Norm (SIA 500) vorgesehen unumgänglichen Massnahmen. Die anrechenbaren Kosten werden von der für die Immobilien zuständigen Dienststelle festgelegt.
+
+<sup>4</sup> Bei privaten Gebäuden beträgt der Beitrag 50 Prozent der anrechenbaren Kosten. Die den Gemeinden gewährte Hilfe für die Beseitigung bautechnischer Hindernisse ist auf 30 Prozent der anrechenbaren Kosten festgesetzt.
+
+## 6 Rechtsansprüche von Menschen mit Behinderungen
+
+#### Art. 32
+
+**Angemessene Vorkehrungen**
+
+<sup>1</sup> Kanton, Gemeinden und Träger kantonaler oder kommunaler Aufgaben haben angemessene Vorkehrungen zu treffen um Benachteiligungen zu verhindern. Erscheinen angemessene Vorkehrungen nach Prüfung gemäss Artikel 35d des Gesetzes unverhältnismässig, haben sie auf jeden Fall angemessene Ersatzmassnahmen zu ergreifen.
+
+<sup>2</sup> Private Anbieter öffentlich zugänglicher Leistungen haben angemessene Vorkehrungen nach Möglichkeit zu treffen. Dabei sind sowohl der finanzielle Aufwand im Verhältnis zur Betriebsgrösse des jeweiligen Anbieters zu berücksichtigen als auch die Grösse des Zielpublikums. Erscheinen angemessene Vorkehrungen nach Prüfung gemäss Artikel 35d unverhältnismässig, haben sie im Einzelfall angemessene Ersatzmassnahmen zu ergreifen.
+
+#### Art. 33
+
+**E-accessibility und Kommunikation**
+
+<sup>1</sup> Kanton, Gemeinden und Träger kantonaler und kommunaler Aufgaben, gestalten ihre Websites gemäss den nationalen und internationalen Informatikstandards, die die Zugänglichkeit von Internetseiten regeln und vom Bund für seine eigenen Websites anerkannt werden. Sie müssen die von diesen Standards geforderte Konformitätsstufe "AA" erreichen.
 
 #### Art. 34
 
-**Berufliche Eingliederung**
+**Verfahren zur Durchsetzung der Rechtsansprüche**
 
-Die finanzielle Hilfe, die namentlich im Rahmen der Ausbildung, der Wiedereingliederung, der Beschäftigung im Privatsektor und der Fort- und Weiterbildung der behinderten Personen vorgesehen ist, wird von Fall zu Fall geprüft.
+<sup>1</sup> Das anwendbare Verfahren und die Zuständigkeit der Verwaltungsbehörde oder des Gerichts ergibt sich aus der jeweiligen Spezialgesetzgebung.
 
 #### Art. 35
 
-**Prävention und Eingliederungsmassnahmen**
+**Klage- und Beschwerderecht von Behindertenorganisationen**
 
-<sup>1</sup> Die finanzielle Hilfe an Organisationen, die sich mit Prävention, mit Eingliederungsmassnahmen und mit gegenseitiger Hilfe beschäftigen, wird aufgrund eines Gesuches, begleitet von einem ausführlichen Bericht, gewährt.
+<sup>1</sup> Die nach BehiG klage-und beschwerdeberechtigten Behindertenorganisationen sind zur Durchsetzung der Rechtsansprüche gestützt auf das Gesetz und die Spezialgesetzgebung berechtigt.
 
-<sup>2</sup> Die gewährte Hilfe trägt der finanziellen Situation der Organisation Rechnung.
+## 7 Verfahren und Organisation des Vollzugs
 
 #### Art. 36
 
-**Wohnung**
+**Büro für die Rechte von Menschen mit Behinderungen**
 
-<sup>1</sup> Die finanziellen Hilfen betreffend die Wohnungen für behinderte Personen werden nur in den Fällen gewährt, bei denen das Gesetz vom 30. Juni 1988 über das Wohnungswesen nicht anwendbar ist.
+<sup>1</sup> Das Büro ist die Fachstelle in Zusammenhang mit den Rechten von Menschen mit Behinderungen. Es fungiert als Beratungs- und Kontaktstelle für die gesamte Verwaltung und alle mit Behindertengleichstellungsrecht betrauten Stellen sowie für Menschen mit Behinderungen und ihre Organisationen.
 
-<sup>2</sup> Sie werden von Fall zu Fall aufgrund eines Gesuches, versehen mit der Vormeinung eines Sozialdienstes, geprüft.
+<sup>2</sup> Das Büro ist Anlaufstelle für alle Fragen und Anliegen betreffend der Umsetzung des Gesetzes für sämtliche Adressaten gemäss Artikel 35a des Gesetzes, d.h. insbesondere für alle Dienststellen der Kantonsverwaltung, die Gemeinden aber auch die privaten Anbieter öffentlich zugänglicher Leistungen wie beispielsweise Restaurants, Kinos, Freizeiteinrichtungen, Coiffeursalons, Geschäfte, etc..
+
+<sup>3</sup> Bei seinen Empfehlungen berücksichtigt das Büro die Umsetzung der Rechtsansprüche der Menschen mit Behinderungen insbesondere unter Einbezug der Verhältnismässigkeit.
+
+<sup>4</sup> Der Bericht über die Tätigkeit des Büros zuhanden des Departements erfolgt jährlich.
 
 #### Art. 37
 
-**Beherbergung und Betreuung**
+**Konsultativkommission für Menschen mit Behinderungen**
 
-Das Gesuch um eine Hilfe für die Beherbergung in einer Familie und für die Betreuung eines behinderten Menschen wird vom Departement in Zusammenarbeit mit einem spezialisierten Organ geprüft. Die Hilfe muss der Beteiligung der betreffenden Person Rechnung tragen.
+<sup>1</sup> Der Staatsrat legt die Zusammensetzung der Kommission für jede Legislaturperiode fest. Die Mitglieder der Kommission werden durch einen Entscheid des Staatsrats bestimmt.
+
+<sup>2</sup> Der Bericht über die Tätigkeit der Kommission zuhanden des Departements respektive des Staatsrats erfolgt mindestens alle 4 Jahre am Ende der Legislaturperiode.
 
 #### Art. 38
 
-**Anpassung der bestehenden Bauten**
+**Aufsicht über Institutionen im Suchtbereich**
 
-<sup>1</sup> Bei den bestehenden Bauten ist die Hilfe für die unumgänglichen Massnahmen gemäss der von der Schweizerischen Zentralstelle für Baurationalisierung herausgegebenen Norm (SN 521 500) vorgesehen.
+<sup>1</sup> Das Departement ist ebenfalls zuständig für Leistungen im Bereich der Beherbergung und Beschäftigung für erwachsene Personen mit einem Suchtproblem sowie der Bekämpfung der Abhängigkeit von Geldspielen und sonstigen nicht substanzgebundenen Abhängigkeiten.
 
-<sup>2</sup> Die Hilfe kann herabgesetzt werden, wenn die Anpassung den Ertragswert des betreffenden Gebäudes erhöht. Sie wird nicht gewährt an Gesellschaften und Organisationen, von denen angenommenen werden kann, dass sie über die notwendigen finanziellen Mittel verfügen.
+<sup>2</sup> Es schliesst dazu mit der Stiftung "Addiction Valais/Sucht Wallis" Verträge (Rahmenvertrag und Leistungsaufträge) ab.
+
+<sup>3</sup> Die Stiftung "Addiction Valais/Sucht Wallis" ist ausserdem mit der Koordinierung der Institutionen beauftragt, die sich im Kanton mit suchtbedingten Abhängigkeiten befassen.
+
+<sup>4</sup> Die Institutionen im Suchtbereich, welche im Bereich Beherbergung und Beschäftigung aktiv sind, sind der Aufsicht des Departements unterstellt. Die Bestimmungen des Gesetzes und der vorliegenden Verordnung sind für diese gleichermassen anwendbar.
 
 #### Art. 39
 
-**Finanzielle Hilfen**
+**Betriebsbewilligung**
 
-<sup>1</sup> Der Betrag der finanziellen Hilfen übersteigt 80 Prozent der in Betracht gezogenen Kosten nicht und wird vom Departement festgelegt.
-
-<sup>2</sup> Die Hilfe an die Organisationen allgemeinen Interesses, z.B. das private Beratungs- und Konsultationsorgan für behindertengerechtes Bauen, kann, falls notwendig, die Gesamtheit des Defizits decken.
-
-<sup>3</sup> Die den Gemeinden gewährte Hilfe für die Beseitigung der architektonischen Barrieren wird wie folgt festgesetzt: Grundbeitrag 30 Prozent, abgestufter Beitrag je nach Finanzkraft der Gemeinden 30 Prozent.
-
-### 5. Kapitel: Schlussbestimmungen
+<sup>1</sup> Das Departement regelt die Einzelheiten betreffend die Erteilung einer Betriebsbewilligung an Institutionen für die Beherbergung und Beschäftigung von erwachsenen Personen mit einer Behinderung oder mit Suchtabhängigkeiten, welche der Aufsicht des Departements unterstellt sind, in einer Richtlinie.
 
 #### Art. 40
 
 **Information und Koordination**
 
-<sup>1</sup> Das Departement durch die Dienststelle für Sozialwesen und durch das Amt für behinderte Personen ist das offizielle kantonale Organ für die Information und Koordination auf dem Gebiet der Eingliederung behinderter Menschen.
+<sup>1</sup> Das Departement durch die mit dem Sozialwesen beauftragte Dienststelle und durch die Koordinationsstelle für Fragen im Bereich Behinderung ist das offizielle kantonale Organ für die Information und Koordination auf dem Gebiet der Inklusion von Menschen mit Behinderungen.
 
 <sup>2</sup> Es arbeitet hiezu mit den betroffenen Dienststellen, Ämtern und Institutionen zusammen.
 
-#### Art. 41
-
-**Inkraftsetzung**
-
-Die vorliegende Verordnung ist, da auf dem Delegationswege erlassen, nicht der Volksabstimmung unterworfen. Der Staatsrat bestimmt den Zeitpunkt des Inkrafttretens und erlässt zu diesem Zweck die notwendigen Verordnungen.
-
-So angenommen in zweiter Lesung im Grossen Rate zu Sitten, den 24. Juni 1992.
-
-Der Präsident des Grossen Rates: Herbert Volken Die Schriftführer: Hermann Fux, Jean-Dominique Cipolla
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.1.1993**
-
-V betreffend die Anwendung des G über die GS/VS 1992, 228
-
-### Eingliederung behinderter Menschen vom 24. Juni 1992
-
-## Weitere Fussnoten
-
-- [1] Subventionsgesetz vom 13. November 1995: GS/VS 1996, 55 1.5.1996 n.: Art. 2bis
-- [2] Änderung vom 5. März 2008: a.: Art. 25; n. Abl. Nr. 23/2008 1.1.2008 W.: Art. 27 bis 31, 33 a.: aufgehoben; n.: neu; n.W.: neuer Wortlaut
+CSW RO/AGS 2021-159

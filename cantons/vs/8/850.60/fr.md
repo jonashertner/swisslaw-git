@@ -1,365 +1,374 @@
 ---
 canton: VS
 number: "850.60"
-title: "Ordonnance concernant l'application de la loi sur l'intégration des personnes handicapées"
+title: "Ordonnance sur les droits et l'inclusion des personnes en situation de handicap"
 short: ODIPH
 language: fr
-version: 2008-01-01
-corrected: 2017-10-12
-version_adopted: 2008-03-05
+version: 2022-01-01
+version_adopted: 2021-12-01
 adopted: 2021-12-01
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.60"
-pdf: "https://lex.vs.ch/api/fr/versions/150/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3594/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant l'application de la loi sur l'intégration des personnes handicapées
+# Ordonnance sur les droits et l'inclusion des personnes en situation de handicap
 
-du 24 juin 1992
+(ODIPH)
 
-Le Grand Conseil du canton du Valais
+du 01.12.2021 (état 01.01.2022)
 
-vu la loi du 31 janvier 1991 sur l'intégration des personnes handicapées, appelée ci-après loi;
+Le Conseil d'Etat du canton du Valais
 
-sur la proposition du Conseil d'Etat,
+vu l'article 57 de la Constitution cantonale;
+
+vu la loi sur les droits et l'inclusion des personnes en situation de handicap du 31 janvier 1991 (LDIPH) et sa modification du 6 mai 2021, notamment l'article 40;
+
+sur la proposition du département en charge des affaires sociales,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
-#### Article premier
+#### Art. 1
 
-**Personnes handicapées**
+**Objectif**
 
-La loi s'applique aux personnes handicapées qui entrent dans la tranche d'âge prévue par l'AI-AVS et qui ne sont pas hospitalisées dans un établissement reconnu par le Département de la santé publique.
+<sup>1</sup> Le Conseil d’Etat règle l’application de la loi par la présente ordonnance.
+
+<sup>2</sup> Les dispositions suivantes visent à garantir les droits des personnes en situation de handicap, à éviter les discriminations et à encourager l’inclusion.
+
+<sup>3</sup> L’action de l’Etat en matière de surveillance, de coordination et de financement est également précisée.
+
+## 2 Prévention
 
 #### Art. 2
 
-**Département compétent**
+**Collaboration**
 
-<sup>1</sup> Le Département des affaires sociales, appelé ci-après département, est l'organe compétent pour l'application de la loi sauf pour le chapitre 3 Education et instruction qui est traité par le Département de l'instruction publique en collaboration avec celui des affaires sociales.
-
-<sup>2</sup> Il veille à ce que les mesures prévues soient réalisées.
-
-#### Art. 2bis
-
-<sup>1</sup> Réserve de la loi sur les subventions
-
-Les dispositions de la loi cantonale sur les subventions du 13 novembre 1995 sont applicables directement et dans leur intégralité aux subventions prévues par le présent texte légal. Les dispositions de ce dernier demeurent applicables dans la mesure où elles ne sont pas contraires à la loi sur les subventions.
-
-### Chapitre 2: Prévention
+<sup>1</sup> En complément à la prévention exercée par le secteur de la médecine, le département entreprend, en collaboration avec les institutions concernées ou en cas de nécessité de façon indépendante, des actions de prévention dans les domaines de l'action sociale.
 
 #### Art. 3
 
-**Collaboration**
+**Actions de prévention**
 
-En complément à la prévention exercée par le secteur de la médecine, le département entreprend, en collaboration avec les institutions concernées ou en cas de nécessité de façon indépendante, des actions de prévention dans les domaines de l'action sociale.
+<sup>1</sup> Les actions de prévention sont menées notamment dans les domaines de l'information, du conseil, de la documentation, de l'animation.
+
+## 3 Education et instruction
 
 #### Art. 4
 
-**Actions de prévention**
+**Compétence**
 
-Les actions de prévention sont menées notamment dans les domaines de la recherche, de l'information, du conseil, de la documentation, de l'animation.
+<sup>1</sup> Est compétent dans ce domaine le département en charge de l’éducation en collaboration avec le département en charge des affaires sociales.
+
+## 4 Inclusion professionnelle, sociale et culturelle
+
+### 4.1 Inclusion professionnelle
+
+### 4.1.1 Inclusion dans les collectivités et les institutions subventionnées
 
 #### Art. 5
 
-**Crédit budgétaire**
+**Collectivités et institutions subventionnées**
 
-Un crédit budgétaire est prévu pour couvrir les frais liés aux actions de prévention.
-
-### Chapitre 3: Intégration des personnes handicapées
+<sup>1</sup> Les collectivités et les institutions subventionnées participent activement à l’inclusion des personnes en situation de handicap. Par collectivités, il faut entendre l'administration cantonale, les établissements cantonaux et les administrations communales. Par institutions subventionnées, il faut entendre les institutions subventionnées par l’Etat dans le cadre de leurs activités.
 
 #### Art. 6
 
-**Collectivités**
+**Suppression des barrières architecturales**
 
-Par collectivités, il faut entendre l'administration cantonale, les établissements cantonaux, les administrations communales et les institutions subventionnées par l'Etat dans le cadre de leurs activités.
+<sup>1</sup> Les responsables des collectivités et des institutions subventionnées ordonnent la suppression des barrières architecturales de leurs bâtiments et installations existants. Ils tiennent compte de la préservation des ensembles de valeur dans les vieilles villes et les vieux villages ou des frais disproportionnés qui peuvent être engendrés.
 
 #### Art. 7
 
-**Suppression des barrières architecturales**
+**Sensibilisation**
 
-Les responsables des collectivités ordonnent la suppression des barrières architecturales de leurs bâtiments et installations existants. Ils tiennent compte de la préservation des ensembles de valeur dans les vieilles villes et les vieux villages ou des frais disproportionnés qui peuvent être engendrés.
+<sup>1</sup> Les collectivités et des institutions subventionnées sont sensibilisées aux besoins spécifiques des personnes en situation de handicap et en particulier à ceux inhérents à leur inclusion professionnelle.
 
 #### Art. 8
 
-**Sensibilisation**
+**Reclassement**
 
-Le personnel des collectivités est sensibilisé aux problèmes des personnes handicapées et en particulier à ceux inhérents à leur intégration professionnelle.
+<sup>1</sup> Le reclassement du personnel des collectivités et des institutions subventionnées qui pour cause de maladie ou d'accident est dans l'impossibilité de reprendre l'emploi doit être entrepris le plus tôt possible, si nécessaire en collaboration avec l'AI. La réintégration est en priorité à effectuer dans la même collectivité, respectivement dans la même institution subventionnée.
 
 #### Art. 9
 
-**Reclassement**
+**Engagement**
 
-Le reclassement du personnel des collectivités qui pour cause de maladie ou d'accident est dans l'impossibilité de reprendre l'emploi doit être entrepris le plus tôt possible, si nécessaire en collaboration avec l'AI. La réintégration est en priorité à effectuer dans la même collectivité.
+<sup>1</sup> Lors de l'engagement du personnel, les collectivités et les institutions subventionnées donnent aux personnes en situation de handicap des chances équivalentes à celles des autres candidats.
 
 #### Art. 10
 
-**Engagement**
+**Poste de travail**
 
-Lors de l'engagement du personnel, les collectivités donnent aux personnes handicapées, à condition que le handicap ne soit pas un inconvénient pour l'activité prévue, des chances équivalentes à celles des autres candidats.
+<sup>1</sup> Au besoin, le poste de travail de la personne en situation de handicap est adapté à ses besoins.
 
 #### Art. 11
 
-**Poste de travail**
+**Statut**
 
-Au besoin, le poste de travail est adapté à la personne handicapée avec l'aide éventuelle de l'AI.
+<sup>1</sup> Les dispositions réglementaires sur l'engagement du personnel doivent permettre aux personnes en situation de handicap de bénéficier des mêmes statuts que les autres employés.
 
 #### Art. 12
 
-**Statut**
+**Engagement des personnes en situation de handicap**
 
-Les dispositions réglementaires sur l'engagement du personnel doivent permettre aux personnes handicapées de bénéficier des mêmes statuts que les autres employés.
+<sup>1</sup> L'engagement des personnes en situation de handicap doit favoriser leur inclusion professionnelle.
+
+<sup>2</sup> A cet effet, les collectivités et les institutions subventionnées engagent temporairement des personnes en situation de handicap en vue de leur inclusion. Il s'agit notamment d'apprentis, de stagiaires et de personnes en réadaptation.
+
+<sup>3</sup> Elles engagent des personnes en situation de handicap en emploi semi-protégé pour une année. Chaque collectivité et chaque institution subventionnée détermine, de cas en cas, la durée de temps d'essai qui, si les intéressés sont satisfaits, débouche sur un engagement d'une année. L'engagement peut se renouveler d'année en année lorsque les conditions prévues à l'article 14 de la présente ordonnance sont remplies et qu'aucune autre possibilité d'emploi n'a pu être trouvée.
 
 #### Art. 13
 
-**Engagement des personnes handicapées**
+**Conditions**
 
-<sup>1</sup> L'engagement des personnes handicapées doit favoriser leur intégration professionnelle.
+<sup>1</sup> L'engagement des personnes en situation de handicap est soumis aux conditions suivantes:
 
-<sup>2</sup> A cet effet, les collectivités engagent temporairement des personnes handicapées en vue de leur intégration. Il s'agit notamment d'apprentis, de stagiaires et de personnes en réadaptation.
+- a) preuve de la nécessité de l'emploi;
+- b) travaux utiles et conformes aux capacités de la personne;
+- c) prise de position positive d'un service spécialisé reconnu.
 
-<sup>3</sup> Elles engagent des personnes handicapées en emploi semi-protégé pour une année. Chaque collectivité détermine, de cas en cas, la durée de temps d'essai qui, si les intéressés sont satisfaits, débouche sur un engagement d'une année. L'engagement peut se renouveler d'année en année lorsque les conditions prévues à l'article 14 de la présente ordonnance sont remplies et qu'aucune autre possibilité d'emploi n'a pu être trouvée.
+<sup>2</sup> Le département examine, pour l'administration cantonale et les établissements cantonaux, si les conditions sont remplies.
 
 #### Art. 14
 
-**Conditions**
+**Attribution des travaux**
 
-<sup>1</sup> L'engagement des personnes handicapées est soumis aux conditions suivantes:
+<sup>1</sup> Les collectivités et les institutions subventionnées encouragent les ateliers pour personnes en situation de handicap en leur attribuant des travaux.
 
-- preuve de la nécessité de l'emploi;
+<sup>2</sup> A des conditions égales, les travaux des collectivités et des institutions subventionnées sont en priorité attribuées à ces ateliers.
 
-- travaux utiles et conformes aux capacités du candidat;
-
-- prise de position positive d'un service spécialisé reconnu.
-
-Le département examine, pour l'administration cantonale et les établissements cantonaux, si les conditions sont remplies.
+### 4.1.2 Inclusion dans le secteur privé
 
 #### Art. 15
 
-**Cahier des charges**
+**Secteur privé**
 
-Le cahier des charges précise notamment les tâches attribuées, l'horaire et la durée hebdomadaire du travail des personnes handicapées en tenant compte de leur handicap.
+<sup>1</sup> Le secteur privé contribue à l'inclusion des personnes en situation de handicap. Le département apporte conseils et aide financière.
+
+### 4.2 Inclusion sociale et culturelle
 
 #### Art. 16
 
-**Rémunération**
+**Construction adaptée aux personnes en situation de handicap**
 
-La rémunération des personnes handicapées correspond aux exigences de la fonction, compte tenu des prestations fournies.
+<sup>1</sup> La norme publiée par la société suisse des ingénieurs et des architectes (SIA 500) est applicable:
+
+- a) catégorie de bâtiments A: article 22 alinéas 1 et 2 de la loi;
+- b) catégorie de bâtiments B: article 22 alinéa 3 de la loi.
+
+<sup>2</sup> Les constructions spéciales devant satisfaire à des exigences plus élevées, par exemple les constructions destinées aux soins et à l'hébergement des personnes, telles que les hôpitaux, établissement médico-sociaux et de réhabilitation ainsi que les logements pour personnes en situation de handicap ou personnes âgées doivent répondre à des prescriptions qui vont en partie au-delà des qualités que requiert la norme SIA 500. Pour ces constructions prévalent les exigences spécifiques à chacune de ces fonctions.
+
+<sup>3</sup> L'organe de conseil et de consultation informe les collectivités, les institutions spécialisées et les privés sur les dispositions à prendre en ce qui concerne la construction adaptée aux personnes en situation de handicap. Il apporte son appui dans les études de construction et de transformation de bâtiments.
+
+<sup>4</sup> Un organe responsable de la construction adaptée aux personnes en situation de handicap au niveau de l'administration cantonale est désigné par le département. Les communes nomment également leur organe et le signalent à l'office de coordination pour les questions dans le domaine du handicap du service en charge de l'action sociale qui est chargé d'assumer la coordination.
 
 #### Art. 17
 
-**Rubrique budgétaire**
+**Immeuble d'habitation collective**
 
-Les collectivités instituent une rubrique budgétaire permettant de rémunérer les personnes handicapées.
+<sup>1</sup> Un bâtiment d'habitation de 4 logements et plus est considéré comme immeuble d'habitation collective au sens de l'article 22 alinéa 3 de la loi.
 
 #### Art. 18
 
-**Attribution des travaux**
+**Institution spécialisée**
 
-<sup>1</sup> Les collectivités encouragent les ateliers pour personnes handicapées en leur attribuant des travaux.
+<sup>1</sup> Les institutions spécialisées offrent des logements ou des locaux de travail conformes aux besoins des personnes en situation de handicap.
 
-<sup>2</sup> A des conditions égales, les travaux des collectivités sont en priorité attribuées à ces ateliers.
+<sup>2</sup> L'implantation de l'institution et la conception doivent être choisis de manière à faciliter la réalisation des mesures d'inclusion des personnes en situation de handicap.
+
+<sup>3</sup> Le travail et l'occupation des personnes en situation de handicap tiennent compte, en plus d'un éventuel rendement économique, de l'épanouissement des personnes et du genre de leur handicap.
+
+<sup>4</sup> Les degrés d'autonomie des personnes en situation de handicap déterminent les formes de logement et le personnel nécessaire.
+
+<sup>5</sup> Les institutions spécialisées sont soumises pour ce qui a trait aux soumissions et adjudications des travaux et de fournitures aux dispositions sur les marchés publics.
 
 #### Art. 19
 
-**Recherche d'emploi**
+**Placement dans une institution**
 
-Une liste des personnes handicapées à la recherche d'un emploi doit être tenue à jour par le département ou un organe désigné par lui avec la collaboration des services spécialisés.
+<sup>1</sup> Les placements dans les institutions se font par l’intermédiaire du Centre d'indication et de suivi (CIS), qui est composé d'un représentant du service en charge des affaires sociales, des institutions et des services psychiatriques du Valais. Le CIS relève de la compétence de l'office de coordination pour les questions dans le domaine du handicap, qui assure également la direction du CIS.
+
+<sup>2</sup> Les demandes de placement sont soumises pour évaluation au CIS par les centres de conseil reconnus. Les centres de conseil reconnus analysent la situation, font une proposition au CIS et accompagnent la personne en situation de handicap en collaboration avec les institutions concernées.
+
+<sup>3</sup> L’office de coordination pour les questions dans le domaine du handicap rend une décision sujette à recours et charge une institution de la mise en œuvre.
+
+<sup>4</sup> Les placements doivent être évalués régulièrement par les centres de conseil en collaboration avec la personne concernée et l'institution.
+
+## 5 Subventionnement des institutions spécialisées et aides financières
+
+### 5.1 Subventionnement des institutions spécialisées
 
 #### Art. 20
 
-**Recherche de mandats et de travail**
+**Convention**
 
-Le département désigne un organe chargé de rechercher des mandats et du travail pour les personnes handicapées, de répartir ces activités dans les différents ateliers et à domicile. Cet organe tient également à jour et à disposition des intéressés le catalogue des différentes productions des ateliers protégés et d'occupation.
+<sup>1</sup> Les conventions prévues à l'article 25 lettre b de la loi (contrat cadre et mandat de prestation), liant à l'Etat les institutions spécialisées reconnues d'utilité publique, prévoient notamment leur champ d'activité et leurs prestations ainsi que les prestations de l'Etat. Les détails sont réglés dans une directive du département.
 
 #### Art. 21
 
-**Secteur privé**
+**Subvention aux investissements**
 
-Le secteur privé contribue à l'intégration des personnes handicapées. Le département apporte conseils et aide financière.
+<sup>1</sup> Les demandes de subvention pour l'achat, la construction, l'agrandissement, la rénovation, l'adaptation, la transformation et l'équipement des établissements sont adressées à l’office de coordination pour les questions dans le domaine du handicap du service en charge de l’action sociale.
+
+<sup>2</sup> Le Conseil d'Etat édicte un règlement concernant l'octroi de subventions aux investissements.
 
 #### Art. 22
 
-**Construction adaptée aux personnes handicapées**
+**Subvention à l'exploitation**
 
-<sup>1</sup> La norme publiée par le Centre suisse d'études pour la rationalisation de la construction (SN 521 500) est applicable:
-
-- catégorie de bâtiments A: article 22, alinéas 1 et 2 de la loi;
-
-- catégorie de bâtiments B: article 22, alinéa 3 de la loi.
-
-<sup>2</sup> Les constructions spéciales devant satisfaire à des exigences plus élevées, par ex. logement pour personnes gravement handicapées, maison d'accueil réservée aux personnes handicapées ou âgées, hôpitaux, doivent répondre à des prescriptions qui vont en partie au-delà des qualités que requiert la norme SN 521 500.
-
-<sup>3</sup> L'organe de conseil et de consultation informe les collectivités et les privés sur les dispositions à prendre en ce qui concerne la construction adaptée aux personnes handicapées. Il apporte son appui dans les études de construction et de transformation de bâtiments.
-
-<sup>4</sup> Un organe responsable de la construction adaptée aux personnes handicapées au niveau de l'administration cantonale est désigné par le département. Les communes nomment également leur organe et le signalent au Service de l'action sociale, office en faveur des personnes handicapées de l'Etat du Valais qui est chargé d'assumer la coordination.
-
-#### Art. 23
-
-**Immeuble d'habitation collective**
-
-Un bâtiment d'habitation de quatre logements et plus est considéré comme immeuble d'habitation collective au sens de l'article 22, alinéa 3, de la loi.
-
-#### Art. 24
-
-**Institution spécialisée**
-
-<sup>1</sup> Les institutions spécialisées offrent des logements ou des locaux de travail conformes aux besoins des personnes handicapées.
-
-<sup>2</sup> L'implantation et l'agencement doivent être choisis de manière à faciliter l'application des mesures de réadaptation des personnes handicapées, l'exercice de leur profession ou leur occupation et permettre une organisation judicieuse de leurs loisirs.
-
-<sup>3</sup> Le travail et l'occupation des personnes handicapées tiennent compte, en plus d'un éventuel rendement économique, de l'épanouissement des personnes et du genre de leur handicap.
-
-<sup>4</sup> Les degrés d'autonomie des personnes handicapées déterminent les formes de logement et le personnel nécessaire.
-
-<sup>5</sup> Les institutions spécialisées sont soumises pour ce qui a trait aux soumissions et adjudications des travaux et de fournitures aux dispositions prévues pour les constructions scolaires.
-
-#### Art. 25
-
-<sup>2</sup>
-
-Abrogé
-
-### Chapitre 4: Subventions et aides financières
-
-- 1\. Subventions
-
-#### Art. 26
-
-**Convention**
-
-Les conventions prévues à l'article 25, lettre b, de la loi, liant à l'Etat les institutions spécialisées reconnues d'utilité publique, prévoient notamment leur champ d'activité, leurs prestations, celles des personnes handicapées, celles de l'Etat et le statut du personnel occupé.
-
-#### Art. 27
-
-<sup>2</sup> Subvention aux investissements
-
-<sup>1</sup> Les demandes de subvention pour l'achat, la construction, l'agrandissement, la rénovation, l'adaptation, la transformation et l'équipement des établissements sont adressées au département.
-
-<sup>2</sup> Le Conseil d'Etat édicte des directives concernant l'octroi de subventions aux investissements.
-
-#### Art. 28
-
-<sup>2</sup> Subvention à l'exploitation
-
-<sup>1</sup> En principe, les subventions aux frais d'exploitation sont versées selon les modalités fixées dans les mandats de prestations.
+<sup>1</sup> Les subventions aux frais d'exploitation sont versées selon les modalités fixées dans les mandats de prestations.
 
 <sup>2</sup> Pour les institutions sans mandat de prestations, les subventions aux frais d'exploitation sont calculées en fonction du déficit reconnu par l'Etat. Le département approuve annuellement les budgets de ces institutions.
 
-#### Art. 29
+<sup>3</sup> L'attribution de subventions aux frais d'exploitation des institutions spécialisées est réglée dans des directives du département.
 
-<sup>2</sup> Directives
+#### Art. 23
 
-Le Conseil d'Etat règle par directives l'attribution de subventions aux frais d'exploitation des institutions spécialisées.
+**Avances**
 
-#### Art. 30
+<sup>1</sup> Des avances n'excédant pas le 80 pour cent du montant de la subvention prévue peuvent être accordées aux institutions sans mandat de prestations sur la base des budgets approuvés par le département, en fonction des besoins de trésorerie.
 
-<sup>2</sup> Avances
+#### Art. 24
 
-Des avances n'excédant pas le 80 pour cent du montant de la subvention prévue peuvent être accordées aux institutions sans mandat de prestations sur la base des budgets approuvés par le département, en fonction des besoins de trésorerie.
+**Fonds de roulement et de réserves**
 
-#### Art. 31
+<sup>1</sup> L'institution dispose de fonds de roulement et de réserves dont la constitution et le montant sont fixés d'entente avec le département sur la base de l'article 32 alinéa 1 de la loi.
 
-<sup>2</sup> Fonds de roulement et de réserves
-
-L'institution dispose de fonds de roulement et de réserves dont la constitution et le montant sont fixés d'entente avec le département sur la base de l'article 32 alinéa 1 de la loi.
-
-#### Art. 32
+#### Art. 25
 
 **Contrôle des comptes**
 
-Les institutions spécialisées subventionnées sont soumises au contrôle de la gestion financière et administrative conformément à la loi du 24 juin 1980 sur la gestion et le contrôle administratifs et financiers du canton.
+<sup>1</sup> Les institutions spécialisées subventionnées sont soumises au contrôle de la gestion financière et administrative conformément à la loi sur la gestion et le contrôle administratifs et financiers du canton (LGCAF).
+
+#### Art. 26
+
+**Contribution**
+
+<sup>1</sup> Le département notifie annuellement aux communes leur contribution calculée selon les dispositions prévues à l'article 35 de la loi.
+
+### 5.2 Aides financières
+
+#### Art. 27
+
+**Aides financières dans le domaine de l’inclusion professionnelle**
+
+<sup>1</sup> L'aide financière prévue dans le cadre de l'inclusion professionnelle, notamment de la formation, de la réadaptation, de l'emploi dans le secteur privé, du perfectionnement, de la formation continue des personnes en situation de handicap est examinée sur demande de cas en cas par l’office de coordination pour les questions dans le domaine du handicap. Le département émet une directive y relative.
+
+#### Art. 28
+
+**Aides financières aux organisations dans le domaine de la prévention et des mesures d'inclusion**
+
+<sup>1</sup> L'aide financière destinée aux organisations s'occupant de prévention, de mesures d'inclusion et d'entraide est accordée sur demande par l’office de coordination pour les questions dans le domaine du handicap.
+
+.
+
+<sup>2</sup> Le montant des aides financières n'excède pas le 80 pour cent des coûts pris en considération.
+
+#### Art. 29
+
+**Aides financières pour l’adaptation des logements**
+
+<sup>1</sup> Les aides financières concernant l’adaptation des logements pour personnes en situation de handicap selon l'article 19 de la loi ne sont accordées que pour les cas auxquels la loi sur le logement n'est pas applicable.
+
+<sup>2</sup> Elles sont examinées de cas en cas sur demande par le centre de conseil reconnu par le département et accordée par l’office de coordination pour les questions dans le domaine du handicap.
+
+#### Art. 30
+
+**Aides financières pour l'hébergement et encadrement à domicile**
+
+<sup>1</sup> La demande d'aide pour l'hébergement dans une famille et pour l'encadrement d'une personne en situation de handicap selon l’article 20 de la loi est examinée par l’office de coordination pour des questions dans le domaine du handicap en collaboration avec le service social mandaté par le département. L'aide doit tenir compte des possibilités financières de la personne intéressée. Le montant n’excède pas le 80 pour cent des frais pris en considération. Les détails sont réglés dans une directive du département.
+
+#### Art. 31
+
+**Aide financière pour l’adaptation des constructions existantes**
+
+<sup>1</sup> Des aides financières peuvent être accordées pour la suppression des barrières architecturales dans les constructions qui existaient avant le 1<sup>er</sup> janvier 1993.
+
+<sup>2</sup> Les demandes d’aides financières doivent être adressées à l’office de coordination pour les questions dans le domaine du handicap.
+
+<sup>3</sup> Seuls sont pris en considération les dépenses spéciales occasionnées par la suppression des barrières architecturales pour les mesures inévitables prévues par la norme publiée par la société suisse des ingénieurs et des architectes (SIA 500). Les frais pris en considération sont déterminés par le service en charge de l’immobilier.
+
+<sup>4</sup> Pour les constructions privées, la contribution s’élève à 50 pour cent des frais pris en considération. L’aide accordée aux communes pour la suppression des barrières architecturales est fixée à 30 pour cent des frais pris en considération.
+
+## 6 Droits subjectifs des personnes en situation de handicap
+
+#### Art. 32
+
+**Aménagements raisonnables**
+
+<sup>1</sup> Le canton, les communes et les organes assumant des tâches publiques cantonales ou communales doivent prendre des aménagements raisonnables pour prévenir les discriminations. Si des aménagements raisonnables apparaissent disproportionnés après examen selon l'article 35d de la loi, ils doivent en tout cas prendre des mesures de substitution appropriées.
+
+<sup>2</sup> Des prestataires privés de services accessibles au public doivent prendre des aménagements raisonnables dans la mesure du possible. Il faut tenir compte à la fois des dépenses financières par rapport à la taille de l'entreprise du prestataire concerné et de la taille du public cible. Si des aménagements raisonnables apparaissent disproportionnés après examen selon l'article 35d de la loi, ils doivent prendre des mesures de substitution appropriées au cas par cas.
 
 #### Art. 33
 
-<sup>2</sup> Contribution
+**E-accessibilité et communication**
 
-<sup>1</sup> Le département notifiera annuellement aux communes leur contribution calculée selon les dispositions prévues à l'article 35 de la loi.
-
-<sup>2</sup> Abrogé
-
-- 2\. Aides financières
+<sup>1</sup> Le canton, les communes et les organes assumant des tâches publiques cantonales et communales aménagent conformément aux standards informatiques nationaux et internationaux régissant l'accessibilité des pages Internet, reconnus par la Confédération pour ses propres sites. Ils doivent atteindre le niveau de conformité "AA" requis par ces standards.
 
 #### Art. 34
 
-**Intégration professionnelle**
+**Procédure de mise en oeuvre des droits subjectifs**
 
-L'aide financière prévue notamment dans le cadre de la formation, de la réadaptation, de l'emploi dans le secteur privé, du perfectionnement, de la formation continue des personnes handicapées est examinée de cas en cas.
+<sup>1</sup> La procédure applicable et la compétence de l'autorité administrative ou du tribunal résulte de la législation spéciale applicable.
 
 #### Art. 35
 
-**Prévention et mesures d'intégration**
+**Droit d’action et de recours des organisations de personnes en situation de handicap**
 
-<sup>1</sup> L'aide financière destinée aux organisations s'occupant de prévention, de mesures d'intégration et d'entraide est accordée sur demande accompagnée d'un rapport circonstancié.
+<sup>1</sup> Les organisations qualifiées pour agir ou pour recourir selon la LHand sont qualifiées pour la mise en œuvre des droits subjectifs basés sur la loi ou la législation spéciale.
 
-<sup>2</sup> L'aide accordée tiendra compte de la situation financière de l'organisation.
+## 7 Procédure et organisation de l'exécution
 
 #### Art. 36
 
-**Logement**
+**Bureau pour les droits des personnes en situation de handicap**
 
-<sup>1</sup> Les aides financières concernant le logement pour personnes handicapées ne sont accordées que pour les cas auxquels la loi du 30 juin 1988 sur le logement n'est pas applicable.
+<sup>1</sup> Le bureau est l’organe spécialisé en matière des droits des personnes en situation de handicap. Il agit comme un service de conseil et de contact pour toute l’administration et tous les organismes s’occupant du droit à l’égalité des personnes en situation de handicap, ainsi que pour les personnes en situation de handicap et leurs organisations.
 
-<sup>2</sup> Elles sont examinées de cas en cas sur demande préavisée par un service social.
+<sup>2</sup> Le bureau est le point de contact pour toutes les questions et préoccupations concernant l'application de la loi pour tous les destinataires au sens de l'article 35a de la loi, c'est-à-dire notamment pour tous les services de l'administration cantonale, les communes mais aussi les prestataires privés de services accessibles au public tels que les restaurants, les cinémas, les installations de loisirs, les salons de coiffure, les magasins, etc.
+
+<sup>3</sup> Dans ses recommandations, le bureau prend en compte la mise en œuvre des droits subjectifs des personnes en situation de handicap, notamment en terme de proportionnalité.
+
+<sup>4</sup> Le rapport d'activité du bureau à l'attention du département est établi annuellement.
 
 #### Art. 37
 
-**Hébergement et encadrement**
+**Commission consultative pour les questions dans le domaine du handicap**
 
-La demande d'aide pour l'hébergement dans une famille et pour l'encadrement d'une personne handicapée est examinée par le département en collaboration avec un organe spécialisé. L'aide doit tenir compte de la participation de la personne intéressée.
+<sup>1</sup> Le Conseil d'État détermine pour chaque législature la composition de la commission. Les membres de la commission sont nommés par décision du Conseil d'État.
+
+<sup>2</sup> Le rapport d'activités de la commission à l’attention du département respectivement du Conseil d'Etat est établi au moins tous les 4 ans à la fin de la législature.
 
 #### Art. 38
 
-**Adaptation des constructions existantes**
+**Surveillance des institutions du domaine des addictions**
 
-<sup>1</sup> Pour les constructions existantes l'aide est prévue pour les mesures indispensables prises selon la norme publiée par le Centre suisse d'études pour la rationalisation de la construction (SN 521 500).
+<sup>1</sup> Le département est également compétent pour les prestations d’hébergement et d’occupation pour les personnes adultes confrontées à un problème d’addictions ainsi que pour la lutte contre la dépendance aux jeux d’argent et aux autres addictions sans substance.
 
-<sup>2</sup> L'aide peut être réduite lorsque l'aménagement augmente la valeur de rendement de l'immeuble concerné. Elle n'est pas accordée aux sociétés organismes dont on peut admettre qu'ils disposent des moyens financiers nécessaires.
+<sup>2</sup> A cet effet, il conclut des contrats (contrat-cadre et mandats de prestations) avec la fondation "Addiction Valais/Sucht Wallis".
+
+<sup>3</sup> La fondation "Addiction Valais/Sucht Wallis" est également chargée de la coordination des différentes institutions engagées dans le canton en matière d’addictions.
+
+<sup>4</sup> Les institutions du domaine des addictions actives dans les domaines de l’hébergement et de l’occupation sont soumises à la surveillance du département. Les dispositions de la loi et de la présente ordonnance sont également applicables aux institutions du domaine des addictions.
 
 #### Art. 39
 
-**Aides financières**
+**Autorisation d'exploiter**
 
-<sup>1</sup> Le montant des aides financières n'excède pas le 80 pour cent des frais pris en considération et sera fixé par le département.
-
-<sup>2</sup> L'aide aux organisations d'intérêt général, par exemple l'organe de conseil et de consultation privé pour la construction adaptée aux personnes handicapées, peut couvrir, si nécessaire, la totalité du déficit.
-
-<sup>3</sup> L'aide apportée aux communes pour la suppression des barrières architecturales est fixée comme suit: taux de base 30 pour cent, taux différentiel selon la force financière des communes 30 pour cent.
-
-### Chapitre 5: Dispositions finales
+<sup>1</sup> Le département règle dans une directive les détails relatifs à l’octroi d’une autorisation d’exploiter aux institutions d’hébergement et d’occupation des personnes adultes en situation de handicap ou d’addiction, qui sont soumises à la surveillance du département.
 
 #### Art. 40
 
 **Information et coordination**
 
-<sup>1</sup> Le département, par le Service de l'action sociale et l'Office en faveur des personnes handicapées, est l'organe officiel cantonal d'information et de coordination en matière d'intégration des personnes handicapées.
+<sup>1</sup> Le département, par le service en charge de l'action sociale et l'office de coordination pour des questions dans le domaine du handicap, est l'organe officiel cantonal d'information et de coordination en matière d'inclusion des personnes en situation de handicap.
 
 <sup>2</sup> Il collabore pour cela avec les services, offices et institutions concernées.
 
-#### Art. 41
-
-**Entrée en vigueur**
-
-La présente ordonnance étant établie par voie de délégation n'est pas soumise à la votation populaire. Le Conseil d'Etat en fixe l'entrée en vigueur et prend à cet effet les arrêtés nécessaires.
-
-Ainsi adopté en seconds débats en séance du Grand Conseil à Sion, le 24 juin 1992.
-
-Le président du Grand Conseil: Herbert Volken Les secrétaires: Jean-Dominique Cipolla, Hermann Fux
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**1.1.1993**
-
-vigueur O concernant l'application de la loi sur RO/VS 1992,221 l'intégration des personnes handicapées du
-
-## Autres notes
-
-- [24] juin 1992
-- [1] L sur les subventions du 13 novembre 1995: RO/VS 1996, 54 1.5.1996 n.: art. 2bis
-- [2] Modification du 5 mars 2008: a.: art. 25; n.t.: BO No 23/2008 1.1.2008 art. 27 à 31, 33 a.: abrogé, n.: nouveau, n.t.: nouvelle teneur
+RCV RO/AGS 2021-159
