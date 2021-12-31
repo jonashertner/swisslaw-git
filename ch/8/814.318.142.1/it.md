@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 1985 contro l'inquinamento atmosferico (OIAt)"
 short: OIAt
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: it
-version: 2021-11-30
+version: 2022-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20211130-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/it"
 
 (OIAt)**[^t-1]**
 
-del 16 dicembre 1985 (Stato 30 novembre 2021)
+del 16 dicembre 1985 (Stato 1° gennaio 2022)
 
 [^t-1]: [RU 1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835)
 
@@ -102,9 +102,9 @@ Per i seguenti impianti valgono esigenze completive o derogatorie:
 
 - a. per gli impianti speciali secondo l’allegato 2: le esigenze fissate in detto allegato;
 - b. per gli impianti a combustione: le esigenze secondo l’allegato 3;
-- c.[^3-1] per le macchine di cantiere e i relativi sistemi di filtri antiparticolato secondo l’articolo 19*a*, per gli impianti a combustione secondo gli articoli 20 e 20*d* nonché per le macchine e gli apparecchi con motore a combustione interna secondo l’articolo 20*b*: le esigenze di cui all’allegato 4.
+- c.[^3-1] per le macchine di cantiere e i relativi sistemi di filtri antiparticolato secondo l’articolo 19*a*, nonché per le macchine e gli apparecchi con motore a combustione interna secondo l’articolo 20*b*: le esigenze di cui all’allegato 4.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 #### Art. 4
 
@@ -332,13 +332,14 @@ Se è accertato o se c’è da aspettarsi che veicoli o infrastrutture per i tra
 
 <sup>1</sup> Le macchine e gli apparecchi per l’impiego in cantieri con motore a combustione con accensione a compressione della potenza superiore a 18 kW (macchine di cantiere) devono soddisfare le esigenze di cui all’allegato 4 numero 3.
 
-<sup>2</sup> Le macchine di cantiere possono essere messe in commercio soltanto se ne è stata provata la conformità con le esigenze di cui all’allegato 4 numero 3.
+<sup>2</sup> ...[^19a-1]
 
 <sup>3</sup> Le macchine di cantiere possono essere fatte funzionare soltanto con un sistema di filtri antiparticolato di cui è stata provata la conformità con le esigenze di cui all’allegato 4 numeri 32 e 33.
 
-<sup>4</sup> Su domanda, nei casi in cui vengono messe in funzione macchine di cantiere nell’ambito di test o dimostrazioni, l’autorità può accordare deroghe alle esigenze di cui all’allegato 4 numero 3. Le deroghe sono accordate fino a un massimo di dieci giorni.[^19a-1]
+<sup>4</sup> Su domanda, nei casi in cui vengono messe in funzione macchine di cantiere nell’ambito di test o dimostrazioni, l’autorità può accordare deroghe alle esigenze di cui all’allegato 4 numero 3. Le deroghe sono accordate fino a un massimo di dieci giorni.[^19a-2]
 
-[^19a-1]: Introdotto dal n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^19a-1]: Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^19a-2]: Introdotto dal n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 19b
 
@@ -373,70 +374,19 @@ La prova di conformità comprende:
 [^19b-3]: Introdotto dal n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^19b-4]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
-### Sezione 5:**** Messa in commercio degli impianti a combustione
-
-[^chap2-sec5-1]
-
-[^chap2-sec5-1]: Nuovo testo giusta il n. I dell’O del 23 giu. 2004, in vigore dal 1° gen. 2005 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+### Sezione 5: ...
 
 #### Art. 20
 
-**Premesseper la messa in commercio**[^20-1]
+[^20-1]
 
-<sup>1</sup>
-
-I seguenti impianti a combustione possono essere messi in commercio soltanto se ne è provata la conformità con le esigenze di cui all’allegato 4 (art. 20*a*):[^20-2]
-
-- a. i bruciatori ad aria soffiata, alimentati con olio da riscaldamento «extra leggero» o con gas, con una potenza termica pari o inferiore a 350 kW;
-- b. le caldaie per i bruciatori ad aria soffiata ai sensi della lettera a, nella misura in cui come vettore termico viene impiegata acqua e la temperatura massima di quest’ultima è limitata a 110 °C;
-- c. le caldaie ai sensi della lettera b con bruciatore ad aria soffiata in combinazione fissa (monoblocco) (Unit);
-- d.[^20-3] le caldaie per combustibili gassosi con una potenza termica pari o inferiore a 350 kW, se come vettore termico viene impiegata acqua e la temperatura massima di quest’ultima è limitata a 110 °C;
-- e.[^20-4] …
-- f. gli scaldacqua a gas ad accumulazione (boiler), con una capienza superiore a 30 litri d’acqua e con una potenza termica pari o inferiore a 350 kW;
-- g. gli scaldacqua ad azione istantanea a gas, con una potenza termica da 35 a 350 kW;
-- h.[^20-5] le caldaie per combustibili solidi di cui all’allegato 5 con una potenza termica pari o inferiore a 350 kW e i bruciatori a pellet per piccole caldaie con una potenza termica pari o inferiore a 70 kW.
-
-<sup>2</sup> …[^20-6]
-
-<sup>3</sup> I Cantoni possono autorizzare, per un periodo massimo di due anni, la prova pratica, in numero limitato, di impianti privi di dichiarazione di conformità. Gli impianti, che allo scadere di detto termine sono ancora privi di una dichiarazione di conformità devono essere messi fuori servizio.
-
-[^20-1]: Vedi anche le disp. fin. della mod. del 23 giu. 2004 qui avanti.
-[^20-2]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-3]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-4]: Abrogata dal n. I dell’O dell’11 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-5]: Introdotta dal n. I dell’O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)). Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-6]: Abrogato dal n. I dell’O del 18 giu. 2010, con effetto dal 15 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^20-1]: Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 #### Art. 20a
 
-**Prova di conformità**
+[^20a-1]
 
-<sup>1</sup>
-
-La prova di conformità di un impianto a combustione comprende:
-
-- a.[^20a-1] un rapporto d’esame di un organismo secondo l’articolo 18 LOTC[^20a-2], dal quale emerga che il prototipo soddisfa le esigenze di cui all’appendice 4;
-- b.
-
-  una dichiarazione del fabbricante o dell’importatore, secondo cui l’impianto a combustione che deve essere messo in commercio corrisponde al tipo esaminato (dichiarazione di conformità), corredata dalle seguenti indicazioni:
-
-  - 1\. il nome e l’indirizzo del fabbricante o dell’importatore;
-  - 2\. la descrizione dell’impianto a combustione;
-  - 3\. le disposizioni ai sensi dell’allegato 4 che sono state applicate;
-  - 4\. il nome e l’indirizzo dell’organismo di valutazione della conformità e il numero del certificato di conformità;
-  - 5\. il nome e la funzione della persona che sottoscrive la dichiarazione di conformità per il fabbricante o l’importatore.
-
-- c.[^20a-3] un contrassegno secondo l’allegato 4 cifra 23.
-
-<sup>1bis</sup> Per gli apparecchi secondo l’allegato 1.15 o 1.16 dell’ordinanza del 1° novembre 2017[^20a-4] sull’efficienza energetica, la prova di conformità può essere svolta anche secondo le prescrizioni di cui all’articolo 5 capoverso 2 e all’articolo 7 capoverso 2 dell’ordinanza summenzionata.[^20a-5]
-
-<sup>2</sup> Il fabbricante o l’importatore deve conservare la dichiarazione di conformità per dieci anni a decorrere dalla messa in commercio dell’impianto.
-
-[^20a-1]: Nuovo testo giusta il n. III 1 dell’O del 22 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)).
-[^20a-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^20a-3]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)).
-[^20a-4]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^20a-5]: Introdotto dal n. III 1 dell’O del 22 giu. 2016 ([RU 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)). Nuovo testo giusta l’all. 5 n. 3 dell’O del 1° nov. 2017 sull’efficienza energetica, in vigore dal 1° gen. 2018 ([RU 2017 6951](https://fedlex.data.admin.ch/eli/oc/2017/765)).
+[^20a-1]: Introdotto dal n. I dell’O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Sezione 5*a*:**** Esigenze per le macchine e gli apparecchi con motore a combustione interna
 
@@ -468,23 +418,13 @@ La prova di conformità comprende:
 [^20c-1]: Cfr. nota a piè di pagina relativa all’art. 19*b* cpv. 1<sup>bis</sup>.
 [^20c-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
 
-### Sezione 5*b*:**** Messa in servizio degli impianti a combustione
+### Sezione 5*b*: ...
 
-[^chap2-sec5b-1]
+#### Art. 20d e 20e
 
-[^chap2-sec5b-1]: Introdotta dal n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20d20e-1]
 
-#### Art. 20d
-
-**Condizioni per la messa in servizio**
-
-I seguenti impianti, prodotti in serie, per il riscaldamento d’ambiente locale per combustibili solidi di cui all’allegato 5 con una potenza termica nominale pari o inferiore a 50 kW, segnatamente stufe, termocucine, stufe ad accumulazione e inserti per camini compresi i camini aperti possono essere messi in servizio soltanto se ne è provata la conformità con le esigenze di cui all’allegato 4 cifra 212 (art. 20*e*).
-
-#### Art. 20e
-
-**Prova di conformità**
-
-La prova di conformità degli impianti a combustione, prodotti in serie, per il riscaldamento d’ambiente locale di cui all’articolo 20*d* comprende una dichiarazione di prestazione o una dichiarazione equivalente del fabbricante o dell’importatore, che attesti che il tipo soddisfa le esigenze di cui all’allegato 4 cifra 212.
+[^20d20e-1]: Introdotti dal n. I dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Abrogati dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Sezione 6: Combustibili
 
@@ -666,7 +606,7 @@ Fatto salvo l’articolo 36, l’esecuzione della presente ordinanza incombe ai 
 
 La Confederazione esegue le prescrizioni in materia di:
 
-- a.[^36-1] sorveglianza del mercato delle macchine di cantiere, dei relativi sistemi di filtro antiparticolato, degli impianti a combustione, nonché delle macchine e apparecchi con motore a combustione interna (art. 37);
+- a.[^36-1] sorveglianza del mercato delle macchine di cantiere, dei relativi sistemi di filtro antiparticolato, nonché delle macchine e apparecchi con motore a combustione interna (art. 37);
 - b.[^36-2] controllo dei combustibili e dei carburanti al momento dell’importazione e della messa in commercio (art. 38).[^36-3]
 
 <sup>2</sup> Nell’applicare altre leggi federali, accordi internazionali o decisioni internazionali concernenti punti disciplinati dalla presente ordinanza, le autorità federali eseguono in tal ambito anche la presente ordinanza. La collaborazione dell’UFAM e dei Cantoni è retta dall’articolo 41 capoversi 2 e 4 della legge; sono salve le disposizioni legali sull’obbligo di tutela del segreto.[^36-4]
@@ -681,7 +621,7 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 <sup>4</sup> La Confederazione esegue i rilevamenti sullo stato e l’evoluzione dell’inquinamento atmosferico sull’insieme del territorio svizzero (art. 39).[^36-6]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^36-1]: Nuovo testo giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 [^36-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 [^36-3]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
 [^36-4]: Nuovo testo giusta il n. II 13 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
@@ -690,11 +630,11 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 #### Art. 37
 
-**Sorveglianza del mercato delle macchine di cantiere, dei relativi sistemi di filtri antiparticolato, degli impianti a combustione, nonché delle macchine e apparecchi con motore a combustione interna[^37-2]**[^37-1]
+**Sorveglianza del mercato delle macchine di cantiere e dei relativi sistemi di filtri antiparticolato, nonché delle macchine e apparecchi con motore a combustione interna[^37-2]**[^37-1]
 
 <sup>1</sup>
 
-L’UFAM controlla il rispetto delle prescrizioni relative alla messa in commercio di macchine di cantiere, dei relativi sistemi di filtri antiparticolato, degli impianti a combustione, nonché delle macchine e apparecchi con motore a combustione interna. Controlla in particolare se:[^37-3]
+L’UFAM controlla il rispetto delle prescrizioni relative alla messa in commercio di macchine di cantiere e dei relativi sistemi di filtri antiparticolato, nonché delle macchine e degli apparecchi con motore a combustione interna. Controlla in particolare:[^37-3]
 
 - a. i dati riportati nella dichiarazione di conformità sono esatti; o
 - b.[^37-4] i motori a combustione interna delle macchine e degli apparecchi muniti di un marchio di omologazione corrispondono al motore o alla famiglia di motori omologati.
@@ -704,8 +644,8 @@ L’UFAM controlla il rispetto delle prescrizioni relative alla messa in commerc
 <sup>3</sup> Se gli impianti controllati non sono conformi alle esigenze, l’UFAM ordina i necessari provvedimenti. In casi gravi, può vietare l’ulteriore offerta e messa in commercio degli impianti o esigere l’adeguamento di quelli già in commercio.
 
 [^37-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 15 lug. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
-[^37-2]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^37-3]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^37-2]: Nuovo testo giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^37-3]: Nuovo testo giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 [^37-4]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 38
@@ -768,22 +708,13 @@ L’ordinanza del 10 dicembre 1984[^41-1] sulla lotta contro l’inquinamento at
 
 <sup>3</sup> I piani dei provvedimenti ai sensi dell’articolo 31 concernenti immissioni eccessive già in atto devono essere allestiti entro 3 anni dall’entrata in vigore della presente ordinanza.
 
-### Sezione 3*a*:**** Limitazione del periodo di validità delle disposizioni sulla messa in commercio e la messa in servizio degli impianti a combustione
-
-[^chap4-sec3a-1]
-
-[^chap4-sec3a-1]: Introdotta dal n. I dell’O dell’11 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+### Sezione 3*a*: ...
 
 #### Art. 42a
 
-<sup>1</sup>
+[^42a-1]
 
-La validità delle disposizioni sulla messa in commercio degli impianti a combustione è limitata come segue:
-
-- a. impianti a combustione di cui all’articolo 20 capoverso 1 lettere a–g: al 25 settembre 2018;
-- b. impianti a combustione di cui all’articolo 20 capoverso 1 lettera h: al 31 dicembre 2019.
-
-<sup>2</sup> La durata delle disposizioni sulla messa in servizio degli impianti a combustione di cui all’articolo 20*d* è limitata al 31 dicembre 2021.
+[^42a-1]: Introdotto dal n. I dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Abrogato dal n. I dell’O del 20 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Sezione 4: Entrata in vigore
 
@@ -888,6 +819,22 @@ Per motori a combustione stazionari e turbine a gas, che secondo la modifica del
 <sup>2</sup> L’olio da riscaldamento «extra leggero Euro» può essere impiegato fino al 31 maggio 2023 negli impianti o nelle unità d’esercizio che, se alimentati con tali combustibili, sviluppano una potenza termica inferiore a 5 MW.
 
 <sup>3</sup> I valori limite d’emissione per particelle solide di cui all’allegato 3 cifre 511 capoverso 1 e 522 capoverso 1 per impianti a combustione con una potenza termica pari o inferiore a 70 kW sono validi a partire dal 1° giugno 2019.
+
+## Disposizioni transitorie della modifica del 12 febbraio 2020****
+
+[^u11-1]
+
+[^u11-1]: [RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)
+
+Per gli impianti secondo l’allegato 2 cifra 551, soggetti a risanamento secondo la modifica del 12 febbraio 2020, in deroga all’articolo 10 l’autorità concede termini di risanamento da sei a otto anni. Sono fatte salve le disposizioni dell’articolo 10 capoverso 2 lettere a e c.
+
+## Disposizioni transitorie alla modifica del 20 ottobre 2021****
+
+[^u12-1]
+
+[^u12-1]: [RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)
+
+Per i forni per cemento e i forni per clinker di calcio che secondo la modifica del 20 ottobre 2021 devono essere risanati, ma che soddisfano i provvedimenti limitativi delle emissioni secondo le disposizioni previgenti, l’autorità concede, in deroga all’articolo 10, un termine di risanamento di dieci anni; sono fatte salve le disposizioni dell’articolo 10 capoverso 2 lettere a e c.
 
 Allegato 1*[^t-2]*
 
@@ -1321,12 +1268,12 @@ Allegato 2*[^t-3]*
 
 ## Limitazioni completive o derogatorie delle emissioni degli impianti speciali
 
-[^t-3]: Aggiornato dal n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dal n. II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dal n. 5 dell’all. dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dal n. II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dal n. II 5 dell’all. 3 all’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dal n. 7 dell’all. 6 all’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) e dal n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
+[^t-3]: Aggiornato dal n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dal n. II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dal n. II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 n. II 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 (RU 2010 2965), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dal n. I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)) e dal n. II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Vedi anche la disp. trans. della mod del 12 feb. 2020 qui avanti.
 
 ### Sommario
 
 - **1** **Pietre e terre**
-- 11 Forni per cemento e forni per klinker di calcio
+- 11 Forni per cemento e forni per clinker[^annex2-lvlu1-lvlu1-1] di calcio
 - 12 Impianti per la cottura di prodotti in ceramica a base di argilla
 - 13 Vetrerie
 - 14 Impianti di miscelazione dell’asfalto
@@ -1358,7 +1305,7 @@ Allegato 2*[^t-3]*
 - 52 Impianti per affumicare
 - 53 Impianti per il trattamento di carcasse di animali e per l’essiccazione di materie fecali
 - 54 Impianti per l’essiccazione di foraggio fresco
-- 55 …
+- 55 Impianti per il deposito e lo spandimento di concimi aziendali liquidi
 - 56 Impianti di torrefazione del caffè e del cacao
 - **6** **Verniciatura e stampa**
 - 61 Impianti per l’applicazione di vernici e per la stampa con sostanze organiche
@@ -1377,9 +1324,11 @@ Allegato 2*[^t-3]*
 - 87 Impianti per il trattamento della superficie
 - 88 Cantieri edili
 
+[^annex2-lvlu1-lvlu1-1]: Nuova espr. giusta il n. I dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Di detta mod. é tenuto conto in tutto il presente testo.
+
 ### 1 Pietre e terre
 
-### 11 Forni per cemento e forni per klinker di calcio
+### 11 Forni per cemento e forni per clinker di calcio
 
 ### 111 Combustibili e rifiuti
 
@@ -1393,23 +1342,32 @@ Allegato 2*[^t-3]*
 
 I valori limite d’emissione si riferiscono a un tenore in ossigeno dei gas di scarico del 10 per cento (% vol.).
 
-### 112 Ossidi d’azoto
+### 112 Ossidi d’azoto e ammoniaca
 
-Le emissioni di ossidi d’azoto (monossido e diossido), indicati come diossido d’azoto, devono essere limitate nella maggior misura possibile dal punto di vista tecnico e dell’esercizio e sopportabile sotto il profilo economico, in ogni caso però almeno a 500 mg/m<sup>3</sup>.
+<sup>1</sup> Le emissioni di ossidi d’azoto (monossido e diossido), indicati come diossido d’azoto, non devono superare 200 mg/m<sup>3</sup>.
+
+<sup>2</sup> Le emissioni di ammoniaca non devono superare 30 mg/m<sup>3</sup>.
 
 ### 113 Ossidi di zolfo
 
-Le emissioni di ossidi di zolfo, indicati come anidride solforosa, non devono superare 500 mg/m<sup>3</sup>.
+Le emissioni di ossidi di zolfo, indicati come anidride solforosa, devono essere limitate nella maggior misura possibile dal punto di vista tecnico e dell’esercizio e sopportabile sotto il profilo economico, in ogni caso però almeno a 400 mg/m<sup>3</sup>.
 
 ### 114 Sostanze organiche gassose
 
 <sup>1</sup> I valori limite d’emissione di sostanze organiche gassose secondo l’allegato 1 cifre 1 e 7 non valgono.
 
-<sup>2</sup> Le emissioni di sostanze organiche gassose vanno indicate come carbonio totale e non devono superare 80 mg/m<sup>3</sup>.
+<sup>2</sup> Le emissioni di sostanze organiche gassose vanno indicate come carbonio totale.
+
+<sup>3</sup> L’autorità fissa un valore limite specifico all’impianto per il carbonio totale, tenendo conto della composizione delle materie prime naturali in base alle seguenti condizioni:
+
+- a. le emissioni di sostanze organiche gassose derivanti dal riciclaggio di rifiuti secondo la cifra 111 capoverso 2 possono essere pari a 10 mg/m<sup>3</sup>;
+- b. il valore limite non deve superare 50 mg/m<sup>3</sup> in totale.
+
+<sup>4</sup> L’UFAM emana raccomandazioni sulle procedure idonee a determinare le emissioni di sostanze organiche gassose derivanti da materie prime naturali.
 
 ### 115 Polvere
 
-Le emissioni sotto forma di polvere non devono superare 20 mg/m<sup>3</sup>.
+Le emissioni sotto forma di polvere non devono superare 10 mg/m<sup>3</sup>.
 
 ### 116 Mercurio e cadmio
 
@@ -1423,13 +1381,13 @@ La somma delle emissioni di piombo e zinco e dei loro composti, indicati come me
 
 Le emissioni di policlorodibenzo-p-diossine (diossine) e dibenzofurani (furani), espresse come somma degli equivalenti di tossicità secondo EN 1948-1[^annex2-lvlu1-lvl1-lvl11-lvl118-1], non devono superare 0,1 ng/m<sup>3</sup>.
 
-[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex2-lvlu1-lvl1-lvl11-lvl118-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 119 Sorveglianza
 
 <sup>1</sup> Si deve misurare e registrare continuamente il tenore nei gas di scarico di:
 
-- a. ossidi d’azoto;
+- a. ossidi d’azoto e ammoniaca;
 - b. ossidi di zolfo;
 - c. sostanze organiche gassose;
 - d. polvere.
@@ -1719,7 +1677,7 @@ Per il deposito si devono prevedere serbatoi con tetto fisso ma membrana gallegg
 
 <sup>4</sup> Le disposizioni del capoverso 3 lettera b non sono applicabili per il rifornimento mediante piccoli apparecchi di distribuzione.
 
-[^annex2-lvlu1-lvl3-lvl33-1]: ISO 13331. Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex2-lvlu1-lvl3-lvl33-1]: ISO 13331. Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 4 Metalli
 
@@ -1819,7 +1777,7 @@ I valori limite d’emissione si riferiscono ad un tenore di ossigeno nei gas di
 
 Le emissioni di ossidi d’azoto, indicati come diossido d’azoto, non devono superare i valori secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image1.png)
 
 ### 474 Misurazioni
 
@@ -1843,7 +1801,7 @@ Le emissioni totali sotto forma di polvere non devono superare 5 mg/m<sup>3</sup
 
 Le emissioni di policloro-dibenzo-p-diossine (diossine) e di policloro dibenzofurano (furani) prodotte dai forni elettrici ad arco, indicate come totale degli equivalenti di tossicità secondo EN 1948-1[^annex2-lvlu1-lvl4-lvl48-lvl483-1], non devono superare 0,1 ng/m<sup>3</sup>.
 
-[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex2-lvlu1-lvl4-lvl48-lvl483-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 5 Agricoltura e generi alimentari
 
@@ -1930,7 +1888,17 @@ Le emissioni sotto forma di polvere devono essere limitate nella maggior misura 
 
 Per gli impianti nei quali si lavorano prodotti mettendoli direttamente in contatto con i gas di combustione valgono inoltre le disposizioni della cifra 81.
 
-### 55 ...
+### 55 Impianti per il deposito e lo spandimento di concimi aziendali liquidi
+
+### 551 Deposito di concimi aziendali liquidi
+
+Gli impianti per il deposito di colaticcio e di prodotti della fermentazione liquidi devono essere equipaggiati con una copertura che limiti efficacemente le emissioni di ammoniaca e gli odori. L’UFAM e l’Ufficio federale dell’agricoltura (UFAG) emanano raccomandazioni congiunte.
+
+### 552 ...****
+
+[^annex2-lvlu1-lvl5-lvl55-lvl552-1]
+
+[^annex2-lvlu1-lvl5-lvl55-lvl552-1]: In vigore il 1° gen. 2024 ([RU 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682), [789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 56 Impianti di torrefazione del caffè e del cacao
 
@@ -2046,7 +2014,7 @@ Per gli impianti nei quali si lavorano prodotti mettendoli direttamente in conta
 
 <sup>2</sup> Per gli impianti con un tenore di ossidi d’azoto (monossido e diossido), indicati come diossido d’azoto, nel gas grezzo, pari o superiore a 1000 mg/m<sup>3</sup>, l’autorità può stabilire, in deroga al capoverso 1 lettera h, un valore limite d’emissione dell’ammoniaca e dei composti dell’ammoniaca meno severo.
 
-[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 715 …
 
@@ -2201,8 +2169,8 @@ I motori a combustione stazionari possono essere alimentati soltanto con combust
 <sup>1</sup> Le emissioni dei motori a combustione stazionari non devono superare i seguenti valori limite:
 
 <table>
-<tr><td></td><td></td><td colspan="2">Potenza termica</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>fino a 100 kW</td><td colspan="2">superiore a 100 kW</td><td>superiore a 1 MW</td></tr>
+<tr><th></th><th></th><th colspan="2">Potenza termica</th><th></th><th></th></tr>
+<tr><th></th><th></th><th>fino a 100 kW</th><th colspan="2">superiore a 100 kW</th><th>superiore a 1 MW</th></tr>
 <tr><td>– Monossido di carbonio (CO)</td><td>mg/m<sup>3</sup></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td>– in caso di alimentazione con combustibili o carburanti gassosi ai sensi dell’allegato 5 cifra 41 capoverso 1</td><td></td><td>650</td><td colspan="2">300</td><td>300</td></tr>
 <tr><td>– in caso di alimentazione con combustibili o carburanti gassosi ai sensi dell’allegato 5 cifra 41 capoverso 1 lettere d ed e, se l'impianto è fatto funzionare per almeno l'80 per cento all'anno con tali sostanze</td><td></td><td>1300</td><td colspan="2">650</td><td>300</td></tr>
@@ -2359,7 +2327,7 @@ Allegato 3*[^t-4]*
 
 ## Limitazioni completive o derogatorie delle emissioni degli impianti a combustione
 
-[^t-4]: Nuovo testo giusta il n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Aggiornato dai n. II delle O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)) e dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla correzione dell’11 dic. 2018 ([RU 2018 4709](https://fedlex.data.admin.ch/eli/oc/2018/748)) e dal n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Vedi anche le disp. trans. della mod. dell’11 apr. 2018 qui avanti.
+[^t-4]: Nuovo testo giusta il n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Aggiornato dai n. II delle O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)) e dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dalla correzione dell’11 dic. 2018 ([RU 2018 4709](https://fedlex.data.admin.ch/eli/oc/2018/748)), dal n. I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) e dal n. II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Vedi anche le disp. trans. della mod. dell’11 apr. 2018 qui avanti.
 
 ### 1 Campo d’applicazione
 
@@ -2570,7 +2538,7 @@ Negli impianti a combustione con una potenza termica inferiore a 1 MW possono es
 
 <sup>5</sup> Sono salve le esigenze particolari secondo la cifra 523.
 
-[^annex3-lvlu1-lvl5-lvl52-lvl522-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex3-lvlu1-lvl5-lvl52-lvl522-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 523 Esigenze particolari relative a caldaie
 
@@ -2578,18 +2546,21 @@ Negli impianti a combustione con una potenza termica inferiore a 1 MW possono es
 
 <sup>2</sup> Le caldaie a carica automatica con una potenza termica nominale pari o inferiore a 500 kW devono essere munite di un accumulatore di calore con un volume di almeno 25 litri per kW di potenza termica nominale. Sono eccettuate le caldaie per pellet con una potenza termica pari o inferiore a 70 kW.
 
-<sup>3</sup> In deroga alle disposizioni di cui ai capoversi 1 e 2, l’autorità ha la facoltà di fissare una capacità di accumulazione inferiore se ciò è indicato per motivi tecnici o d’esercizio.
+<sup>2bis</sup> L’autorità fissa la capacità di accumulazione per le caldaie con potenza termica nominale superiore a 500 kW. Se le caldaie sono utilizzate per produrre calore ambientale o per riscaldare l’acqua, devono essere munite di un accumulatore di calore con un volume di almeno 25 litri per kW di potenza termica nominale.
 
-<sup>4</sup> Se singoli focolari di cui ai capoversi 1 o 2 sono impiegati in varie combinazioni come un’unica unità d’esercizio per coprire un fabbisogno di calore o di vapore variabile, l’autorità può stabilire capacità di accumulazione inferiori.
+<sup>3</sup> In deroga ai capoversi 1, 2 e 2<sup>bis</sup>, l’autorità ha la facoltà di fissare una capacità di accumulazione inferiore se:
+
+- a. più focolari sono impiegati in varie combinazioni come un’unica unità d’esercizio per coprire un fabbisogno di calore o di vapore variabile;
+- b. ciò è indicato per altri motivi d’esercizio o per motivi tecnici.
 
 ### 524 Misurazioni e controlli
 
-<sup>1</sup> Gli apparecchi per il riscaldamento d’ambiente locale prodotti in serie di cui alla cifra 22 lettera f sono esentati dalle misurazioni in occasione del collaudo se è disponibile una dichiarazione di prestazione o una dichiarazione equivalente del fabbricante secondo l’articolo 20*e*.
+<sup>1</sup> Gli apparecchi per il riscaldamento d’ambiente locale prodotti in serie di cui alla cifra 22 lettera f sono esentati da una misurazione di collaudo se è disponibile una dichiarazione di conformità di cui all’articolo 7 dell’ordinanza del 1° novembre 2017[^annex3-lvlu1-lvl5-lvl52-lvl524-1] sull’efficienza energetica (OEEne) che attesta che l’impianto soddisfa i requisiti di cui all’allegato 1.19 OEEne.
 
 <sup>2</sup> Gli apparecchi per il riscaldamento d’ambiente locale realizzati artigianalmente di cui alla cifra 22 lettera f sono esentati dalle misurazioni in occasione del collaudo se:
 
 - a. sono stati costruiti secondo un metodo di calcolo riconosciuto, in particolare secondo il programma per la progettazione di stufe in maiolica dell’Associazione feusuisse; o
-- b. sono stati dotati di un sistema di separazione delle polveri che corrisponda allo stato della tecnica, in particolare ai requisiti della norma tecnica VDI 3670[^annex3-lvlu1-lvl5-lvl52-lvl524-1] (depurazione dei gas di scarico – sistemi di riduzione delle polveri a valle per piccoli impianti a combustione alimentati con combustibili solidi).
+- b. sono stati dotati di un sistema di separazione delle polveri che corrisponda allo stato della tecnica, in particolare ai requisiti della norma tecnica VDI 3670[^annex3-lvlu1-lvl5-lvl52-lvl524-2] (depurazione dei gas di scarico – sistemi di riduzione delle polveri a valle per piccoli impianti a combustione alimentati con combustibili solidi).
 
 <sup>3</sup> Anche le stufe storiche meritevoli di protezione con un volume pari o inferiore a 0,4 m<sup>3</sup> e le termocucine realizzate artigianalmente sono esentate dalle misurazioni in occasione del collaudo se sono state costruite secondo le norme riconosciute della tecnica della combustione o dotate di un sistema di separazione delle polveri di cui al capoverso 2 lettera b.
 
@@ -2599,7 +2570,8 @@ Negli impianti a combustione con una potenza termica inferiore a 1 MW possono es
 
 <sup>6</sup> Per gli apparecchi per il riscaldamento d’ambiente locale non sottoposti a misurazioni periodiche conformemente alla cifra 22 lettera f, l’autorità controlla in particolare i residui di combustione e lo stato dell’impianto. La prima volta informa anche in merito all’uso corretto dell’impianto nonché all’impiego e allo stoccaggio del combustibile.
 
-[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^annex3-lvlu1-lvl5-lvl52-lvl524-2]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 525 Esigenze relative ai sistemi di separazione delle polveri
 
@@ -2680,7 +2652,7 @@ Per gli impianti a combustione che possono essere alimentati alternativamente co
 
 <sup>2</sup> Il valore limite di miscela per combustibili misti è calcolato mediante la formula seguente:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image4.png)</sub>
 
 dove:
 
@@ -2702,71 +2674,15 @@ Allegato 4*[^t-5]*
 
 (art. 3 cpv. 2 lett. c)
 
-## Esigenze per gli impianti a combustione, per le macchine di cantiere e i relativi sistemi di filtri antiparticolato nonché per le macchine e gli apparecchi con motore a combustione interna
+## Esigenze per le macchine di cantiere e i relativi sistemi di filtri antiparticolato nonché per le macchine e gli apparecchi con motore a combustione interna
 
-[^t-5]: Nuovo testo giusta il n. II dell’O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Aggiornato dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 19 set. 2008 ([RU 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)) del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), dai n. I e II dell’O del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dal n. III 1 dell’O del 22 giu. 2016 ([RU 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) e dal n. I dell’O del 12 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Vedi anche le disp. trans. delle mod. del 4 lug. 2007 e 19 set. 2008, qui avanti.
+[^t-5]: Nuovo testo giusta il n. II dell’O del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Aggiornato dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 19 set. 2008 ([RU 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)) del 22 ott. 2008 ([RU 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), del 18 giu. 2010 ([RU 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), dai n. I e II dell’O del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dal n. III 1 dell’O del 22 giu. 2016 ([RU 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dal n. I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) e dal n. II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Vedi anche le disp. trans. delle mod. del 4 lug. 2007 e del 19 set. 2008 qui avanti.
 
 ### 1 Campo d’applicazione
 
-Le disposizioni del presente allegato valgono per gli impianti a combustione di cui agli articoli 20 capoverso 1 e 20*d*, per le macchine di cantiere e i relativi sistemi di filtri antiparticolato di cui all’articolo 19*a* nonché per le macchine e gli apparecchi con motore a combustione interna di cui all’articolo 20*b*.
+Le disposizioni del presente allegato si applicano alle macchine di cantiere e ai relativi sistemi di filtri antiparticolato di cui all’articolo 19*a* nonché alle macchine e agli apparecchi con motore a combustione interna di cui all’articolo 20*b*.
 
-### 2 Esigenze per gli impianti a combustione
-
-### 21 Esigenze d’igiene dell’aria
-
-### 211 Impianti a combustione alimentati con olio o gas
-
-Gli impianti a combustione alimentati con olio o gas devono soddisfare le esigenze d’igiene dell’aria previste dalle norme europee determinanti come pure i valori limite delle emissioni previsti nella tabella seguente:
-
-<table>
-<tr><th>Tipo d’impianto</th><th>Norma europea determinante[^annex4-lvlu1-lvl2-lvl21-lvl211-1]</th><th>Classi d’emissione o valori limite d’emissione determinanti per gli ossidi d’azoto (NO<sub>x</sub>) e per il monossido di carbonio (CO)</th></tr>
-<tr><td>Bruciatori ad aria soffiata alimentati con olio «extra leggero» (art. 20 cpv. 1 lett. a)</td><td>EN 267</td><td>NO<sub>x</sub> classe 3 CO classe 3</td></tr>
-<tr><td>Bruciatori automatici ad aria soffiata per combustibili gassosi (art. 20 cpv. 1 lett. a)</td><td>EN 676</td><td>NO<sub>x</sub> classe 3 CO: 100 mg/kWh</td></tr>
-<tr><td>Caldaie con bruciatore ad aria soffiata per olio «extra leggero» (art. 20 cpv. 1 lett. b e c)</td><td>EN 303, EN 304</td><td>NO<sub>x</sub> classe 3 CO classe 3</td></tr>
-<tr><td>Caldaie con bruciatore ad aria soffiata per combustibili gassosi (art. 20 cpv. 1 lett. b e c)</td><td>EN 303, EN 304</td><td>NO<sub>x</sub> classe 3 CO: 100 mg/kWh</td></tr>
-<tr><td>Caldaie per combustibili gassosi (art. 20 cpv. 1 lett. d)</td><td>EN 656, EN 15502</td><td>NO<sub>x</sub> classe 5 CO: 100 mg/kWh</td></tr>
-<tr><td>Scaldacqua a gas ad accumulazione con riscaldamento diretto (boiler) (art. 20 cpv. 1 lett. f)</td><td>EN 89</td><td>NO<sub>x</sub> classe 5</td></tr>
-<tr><td>Generatori di calore ad azione istantanea a gas (art. 20 cpv. 1 lett. g)</td><td>EN 26</td><td></td></tr>
-</table>
-
-[^annex4-lvlu1-lvl2-lvl21-lvl211-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
-
-### 212 Impianti a combustione alimentati con carbone o legna
-
-Gli impianti a combustione alimentati con carbone o legna devono soddisfare le esigenze d’igiene dell’aria previste dalle norme europee determinanti come pure i valori limite delle emissioni previsti nella tabella seguente:
-
-<table>
-<tr><th>Tipo d’impianto</th><th>Norma europea determinante[^annex4-lvlu1-lvl2-lvl21-lvl212-1]</th><th></th><th colspan="2">Classi d’emissione o valori limite d’emissione determinanti per il monossido di carbonio (CO) e per le particelle solide (polvere)</th></tr>
-<tr><th></th><th></th><th></th><th>CO</th><th>Polvere</th></tr>
-<tr><td>Caldaie per impianti a combustione alimentati con legna in pezzi o carbone, a carica manuale</td><td>EN 303-5 o EN 12809</td><td>mg/m<sup>3</sup></td><td>800</td><td>50</td></tr>
-<tr><td>Caldaie per impianti a combustione alimentati con scaglie di legno o carbone, a carica automatica</td><td>EN 303-5 o EN 12809</td><td>mg/m<sup>3</sup></td><td>400</td><td>60</td></tr>
-<tr><td>Caldaie a pellet a carica automatica</td><td>EN 303-5 o EN 12809</td><td>mg/m<sup>3</sup></td><td>300</td><td>40</td></tr>
-<tr><td>Termocucine individuali a combustibile solido</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td>90</td></tr>
-<tr><td>Termocucine a combustibile solido collegate al riscaldamento centrale</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td>120</td></tr>
-<tr><td>Inserti per camini e camini aperti a combustibile solido</td><td>EN 13229</td><td>mg/m<sup>3</sup></td><td>1500</td><td>75</td></tr>
-<tr><td>Stufe a combustibile solido</td><td>EN 13240</td><td>mg/m<sup>3</sup></td><td>1500</td><td>75</td></tr>
-<tr><td>Stufe per pellet</td><td>EN 14785</td><td>mg/m<sup>3</sup></td><td>500</td><td>40</td></tr>
-<tr><td>Apparecchi a lento rilascio di calore alimentati a combustibili solidi</td><td>EN 15250</td><td>mg/m<sup>3</sup></td><td>1500</td><td>75</td></tr>
-<tr><td>Bruciatori a pellet per piccole caldaie da riscaldamento</td><td>EN 15270</td><td></td><td>Classe 4</td><td>Classe 4</td></tr>
-<tr><td colspan="5"><sup>a</sup> Tenore di ossigeno a cui si riferisce il valore limite: – per gli impianti alimentati con legna: 13 % vol; – per gli impianti alimentati con carbone: 7 % vol.</td></tr>
-</table>
-
-[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
-
-### 22 …
-
-### 23 Contrassegno
-
-<sup>1</sup> Su ogni impianto di combustione il fabbricante deve apporre, in un posto ben visibile, una targhetta di identificazione duratura e ben leggibile su cui figurino le indicazioni conformi alle norme europee determinanti e almeno i dati seguenti:
-
-- a. il nome del fabbricante o il marchio dell’impianto;
-- b. la designazione commerciale, la categoria tipologica o il numero del modello;
-- c. la norma europea determinante in base alla quale l’impianto è stato esaminato secondo la cifra 21;
-- d. la potenza termica, la potenza nominale, la potenza calorifica oppure il relativo campo di potenza in W o kW.
-
-<sup>2</sup> Sulla targhetta d’identificazione degli impianti a combustione alimentati con olio o con gas deve inoltre figurare la classe NO<sub>x</sub> secondo la norma europea determinante.
-
-<sup>3</sup> Sulla targhetta d’identificazione degli impianti a combustione alimentati con legna o con carbone devono inoltre figurare i valori d’emissione di CO e di polvere in mg/m<sup>3</sup>, misurati secondo la cifra 212, riferiti al tenore di ossigeno determinante nei gas di scarico.
+### 2 ...
 
 ### 3 Esigenze d’igiene dell’aria per le macchine di cantieree i relativi sistemi di filtro antiparticolato
 
@@ -2799,7 +2715,7 @@ Gli impianti a combustione alimentati con carbone o legna devono soddisfare le e
 
 <sup>2</sup> I metodi di misura e lo svolgimento delle prove sono stabiliti in base allo stato della tecnica riconosciuto, segnatamente secondo la norma SN 277206[^annex4-lvlu1-lvl3-lvl32-1] oppure secondo il regolamento n. 132 UN/ECE[^annex4-lvlu1-lvl3-lvl32-2].
 
-[^annex4-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex4-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 [^annex4-lvlu1-lvl3-lvl32-2]: Regolamento n. 132 della Commissione economica per l’Europa delle Nazioni Unite (UN/ECE) del 17 giugno 2014 - Prescrizioni uniformi relative all’omologazione dei dispositivi retrofit di controllo delle emissioni (REC) per veicoli utilitari pesanti, trattori agricoli e forestali nonché macchine e apparecchi mobili, equipaggiati di motori ad accensione e compressione; modificato dalla serie di modifiche 1 in vigore dal 22 gennaio 2015 (add. 131 rev. 1). Fonte: www. unece.org. Questo regolamento può essere consultato gratuitamente presso l’Ufficio federale dell’ambiente, Worblentalstrasse 68, 3063 Ittigen.
 
 ### 33 Contrassegno
@@ -2859,7 +2775,7 @@ Allegato 5*[^t-6]*
 
 <sup>2</sup> L’olio vegetale allo stato naturale e il metilestere di olio vegetale che soddisfa i requisiti della norma EN 14214 (Prodotti petroliferi liquidi – Esteri metilici di acidi grassi (FAME) per motori diesel e per impianti di riscaldamento – Requisiti e metodi di prova)[^annex5-lvlu1-lvl1-lvl11-1] sono equiparati all’olio da riscaldamento «extra leggero Eco».
 
-[^annex5-lvlu1-lvl1-lvl11-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex5-lvlu1-lvl1-lvl11-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 11<sup>bis</sup> Tenore in zolfo degli oli da riscaldamento
 
@@ -2951,8 +2867,8 @@ il pellet adempie i requisiti della norma SN EN ISO 17225-2 (Biocombustibili sol
 
 le mattonelle adempiono i requisiti della norma SN EN ISO 17225-3 (Biocombustibili solidi - Specifiche e classificazione del combustibile - parte 3: Definizione delle classi di bricchette di legno)[^annex5-lvlu1-lvl3-lvl32-2] relativi alle classi di qualità A1 o A2 o sono di qualità equivalente.
 
-[^annex5-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
-[^annex5-lvlu1-lvl3-lvl32-2]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
+[^annex5-lvlu1-lvl3-lvl32-1]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex5-lvlu1-lvl3-lvl32-2]: Questa norma può essere consultata gratuitamente e ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 4 Combustibili e carburanti gassosi
 
@@ -3005,7 +2921,7 @@ Nei gas secondo la cifra 41 lettere a e b, il tenore in zolfo non deve superare 
 <tr><td colspan="8"><sup>b</sup> Norme (comuni) determinanti per la prova:</td></tr>
 <tr><td colspan="8">– EN: norma del Comitato europeo di normalizzazione (CEN)</td></tr>
 <tr><td colspan="8">– ISO: norma dell’Organizzazione internazionale per la standardizzazione (ISO)</td></tr>
-<tr><td colspan="8">Queste norme possono essere consultate gratuitamente e ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).</td></tr>
+<tr><td colspan="8">Queste norme possono essere consultate gratuitamente e ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.</td></tr>
 <tr><td colspan="8"><sup>c</sup> In deroga alla presente tabella, il valore RON per la benzina normale deve raggiungere almeno 91 e il valore MON almeno 81.</td></tr>
 <tr><td colspan="8"><sup>d</sup> Vale per le benzine utilizzate dal 1° mag. al 30 set.</td></tr>
 <tr><td colspan="8"><sup>e</sup> Altri monoalcoli ed eteri con punto di ebollizione non superiore a 210 °C.</td></tr>
@@ -3035,7 +2951,7 @@ L’olio diesel può essere importato a scopi commerciali o messo in commercio s
 <tr><td>– Tenore in zolfo</td><td>mg/kg</td><td>–</td><td>10,0</td><td>EN ISO 20846, EN ISO 20884, EN ISO 13032</td></tr>
 <tr><td colspan="5">Osservazioni:</td></tr>
 <tr><td colspan="5"><sup>a</sup> I risultati delle misurazioni vanno valutati secondo la norma EN ISO 4259 «Prodotti petroliferi – determinazione e applicazione di dati di precisione in relazione ai metodi di prova».</td></tr>
-<tr><td colspan="5"><sup>b</sup> Norme (comuni) determinanti per la prova: – EN: norma del Comitato europeo di normalizzazione (CEN) – ISO: norma dell’Organizzazione internazionale per la standardizzazione (ISO) Queste norme possono essere consultate gratuitamente e ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).</td></tr>
+<tr><td colspan="5"><sup>b</sup> Norme (comuni) determinanti per la prova: – EN: norma del Comitato europeo di normalizzazione (CEN) – ISO: norma dell’Organizzazione internazionale per la standardizzazione (ISO) Queste norme possono essere consultate gratuitamente e ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.</td></tr>
 <tr><td colspan="5"><sup>c</sup> In deroga alla presente tabella, il numero di cetano per le qualità invernali deve corrispondere almeno alle esigenze secondo la norma SN EN 590.</td></tr>
 </table>
 
@@ -3183,13 +3099,13 @@ S (µg/m<sup>3</sup>) = valore S (cfr. cifre 3 e 9)
 
 Diagramma 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image5.png)
 
 ### Determinazione del fattore di correzione g in zone edificate e boschive
 
 Diagramma 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/it/xml/image/image6.png)
 
 I = altezza del più alto fattore d’ostacolo determinante (cifra 5)
 

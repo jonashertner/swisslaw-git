@@ -4,11 +4,11 @@ title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
 short: LRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: de
-version: 2021-11-30
+version: 2022-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20211130-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/de"
 
 (LRV)
 
-vom 16. Dezember 1985 (Stand am 30. November 2021)
+vom 16. Dezember 1985 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -100,9 +100,9 @@ Für folgende Anlagen gelten ergänzende oder abweichende Anforderungen:
 
 - a. für Anlagen nach Anhang 2: die in diesem Anhang festgelegten Anforderungen;
 - b. für Feuerungsanlagen: die Anforderungen nach Anhang 3;
-- c.[^3-1] für Baumaschinen und deren Partikelfiltersysteme nach Artikel 19*a*, für Feuerungsanlagen nach den Artikeln 20 und 20*d* sowie für Maschinen und Geräte mit Verbrennungsmotor nach Artikel 20*b*: die Anforderungen nach Anhang 4.
+- c.[^3-1] für Baumaschinen und deren Partikelfiltersysteme nach Artikel 19*a* sowie für Maschinen und Geräte mit Verbrennungsmotor nach Artikel 20*b*: die Anforderungen nach Anhang 4.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 #### Art. 4
 
@@ -328,13 +328,14 @@ Steht fest oder ist zu erwarten, dass Fahrzeuge oder Verkehrsanlagen übermässi
 
 <sup>1</sup> Maschinen und Geräte für den Einsatz auf Baustellen mit einer Leistung des Verbrennungsmotors mit Kompressionszündung von mehr als 18 kW (Baumaschinen) müssen die Anforderungen nach Anhang 4 Ziffer 3 einhalten.
 
-<sup>2</sup> Neue Baumaschinen dürfen nur in Verkehr gebracht werden, wenn ihre Konformität mit den Anforderungen nach Anhang 4 Ziffer 3 nachgewiesen ist.
+<sup>2</sup> ...[^19a-1]
 
 <sup>3</sup> Baumaschinen dürfen nur mit einem Partikelfiltersystem betrieben werden, dessen Konformität mit den Anforderungen nach Anhang 4 Ziffern 32 und 33 nachgewiesen ist.
 
-<sup>4</sup> Werden Baumaschinen für Test- oder Vorführungszwecke betrieben, so kann die Behörde auf Gesuch hin Ausnahmen von den Anforderungen nach Anhang 4 Ziffer 3 gewähren. Die Ausnahmen werden für höchstens 10 Tage gewährt.[^19a-1]
+<sup>4</sup> Werden Baumaschinen für Test- oder Vorführungszwecke betrieben, so kann die Behörde auf Gesuch hin Ausnahmen von den Anforderungen nach Anhang 4 Ziffer 3 gewähren. Die Ausnahmen werden für höchstens 10 Tage gewährt.[^19a-2]
 
-[^19a-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^19a-1]: Aufgehoben durch Ziff. I der V vom 20. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^19a-2]: Eingefügt durch Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 19b
 
@@ -369,69 +370,19 @@ Der Nachweis der Konformität umfasst:
 [^19b-3]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^19b-4]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
-### 5. Abschnitt:**** Inverkehrbringen von Feuerungsanlagen
-
-[^chap2-sec5-1]
-
-[^chap2-sec5-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+### 5. Abschnitt: ...
 
 #### Art. 20
 
-**Voraussetzungen für das Inverkehrbringen**[^20-1]
+[^20-1]
 
-<sup>1</sup>
-
-Die folgenden Feuerungsanlagen dürfen nur in Verkehr gebracht werden, wenn ihre Konformität mit den Anforderungen nach Anhang 4 nachgewiesen ist (Art. 20*a*):
-
-- a. Gebläsebrenner für Heizöl «Extra leicht» oder Gas mit einer Feuerungswärmeleistung bis 350 kW;
-- b. Heizkessel für Gebläsebrenner nach Buchstabe a, sofern als Wärmeträger Wasser verwendet wird und die Absicherungstemperatur wasserseitig höchstens 110 °C beträgt;
-- c. Heizkessel nach Buchstabe b mit fest zugeordneten Gebläsebrennern (Unit);
-- d.[^20-2] Heizkessel für gasförmige Brennstoffe mit einer Feuerungswärmeleistung bis 350 kW, sofern als Wärmeträger Wasser verwendet wird und die Absicherungstemperatur wasserseitig höchstens 110 °C beträgt;
-- e.[^20-3] …
-- f. direkt befeuerte Gas-Speicherwassererwärmer (Boiler) mit einem Wasserinhalt von mehr als 30 Litern und einer Feuerungswärmeleistung bis 350 kW;
-- g. Gas-Durchflusswassererwärmer mit einer Feuerungswärmeleistung von 35 kW bis 350 kW;
-- h.[^20-4] Heizkessel für feste Brennstoffe nach Anhang 5 mit einer Feuerungswärmeleistung bis 350 kW und Pelletbrenner für kleine Heizkessel mit einer Feuerungswärmeleistung bis 70 kW.
-
-<sup>2</sup> …[^20-5]
-
-<sup>3</sup> Die Kantone können die praktische Erprobung von Anlagen ohne Konformitätserklärung in begrenzter Anzahl während einer Dauer von höchstens zwei Jahren zulassen. Anlagen, die nach Ablauf dieser Frist in der vorliegenden Form noch keine Konformitätserklärung haben, müssen wieder ausser Betrieb genommen werden.
-
-[^20-1]: Siehe auch die SchlB Änd. 23.6.2004 hiernach.
-[^20-2]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-3]: Aufgehoben durch Ziff. I der V vom 11. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-4]: Eingefügt durch Ziff. I der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)). Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-5]: Aufgehoben durch Ziff. I der V vom 18. Juni 2010, mit Wirkung seit 15. Juli 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^20-1]: Aufgehoben durch Ziff. I der V vom 20. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 #### Art. 20a
 
-**Nachweis der Konformität**
+[^20a-1]
 
-<sup>1</sup>
-
-Der Nachweis der Konformität einer Feuerungsanlage umfasst:
-
-- a.[^20a-1] einen Prüfbericht einer Stelle nach Artikel 18 THG[^20a-2], aus dem hervorgeht, dass das Baumuster die Anforderungen von Anhang 4 erfüllt;
-- b.
-
-  eine Erklärung des Herstellers oder Importeurs, dass die in Verkehr zu bringende Feuerungsanlage dem geprüften Baumuster entspricht (Konformitätserklärung), mit folgenden Angaben:
-
-  - 1\. Name und Adresse des Herstellers oder Importeurs,
-  - 2\. Beschreibung der Feuerungsanlage,
-  - 3\. die Bestimmungen nach Anhang 4, die zur Anwendung kamen,
-  - 4\. Name und Adresse der Konformitätsbewertungsstelle und Nummer der Konformitätsbescheinigung,
-  - 5\. Name und Funktion der Person, welche die Konformitätserklärung für den Hersteller oder Importeur unterzeichnet;
-
-- c.[^20a-3] eine Kennzeichnung nach Anhang 4 Ziffer 23.
-
-<sup>1bis</sup> Für Geräte nach Anhang 1.15 oder 1.16 der Energieeffizienzverordnung vom 1. November 2017[^20a-4] kann der Nachweis der Konformität auch gemäss den Vorgaben in Artikel 5 Absatz 2 und Artikel 7 Absatz 2 dieser Verordnung erbracht werden.[^20a-5]
-
-<sup>2</sup> Der Hersteller oder Importeur muss die Konformitätserklärung nach dem Inverkehrbringen der Anlage zehn Jahre lang aufbewahren.
-
-[^20a-1]: Fassung gemäss Ziff. III 1 der V vom 22. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)).
-[^20a-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^20a-3]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)).
-[^20a-4]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^20a-5]: Eingefügt durch Ziff. III 1 der V vom 22. Juni 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)). Fassung gemäss Anhang 5 Ziff. 3 der Energieeffizienzverordnung vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6951](https://fedlex.data.admin.ch/eli/oc/2017/765)).
+[^20a-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Aufgehoben durch Ziff. I der V vom 20. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 5*a*. Abschnitt:**** Anforderungen an Maschinen und Geräte mit Verbrennungsmotor
 
@@ -463,23 +414,13 @@ Der Nachweis der Konformität umfasst:
 [^20c-1]: Siehe Fussnote zu Art. 19*b* Abs. 1<sup>bis</sup>.
 [^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
 
-### 5*b*. Abschnitt:**** Inbetriebnahme von Feuerungsanlagen
+### 5*b*. Abschnitt: ...
 
-[^chap2-sec5b-1]
+#### Art. 20d und 20e
 
-[^chap2-sec5b-1]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20d20e-1]
 
-#### Art. 20d
-
-**Voraussetzungen für die Inbetriebnahme**
-
-Serienmässig hergestellte Einzelraumfeuerungen für feste Brennstoffe nach Anhang 5 mit einer Nennwärmeleistung bis 50 kW, namentlich Raumheizer, Herde, Speicheröfen und Kamineinsätze einschliesslich offene Kamine, dürfen nur in Betrieb genommen werden, wenn ihre Konformität mit den Anforderungen nach Anhang 4 Ziffer 212 nachgewiesen ist (Art. 20*e*).
-
-#### Art. 20e
-
-**Nachweis der Konformität**
-
-Der Nachweis der Konformität einer serienmässig hergestellten Einzelraumfeuerung nach Artikel 20*d* umfasst eine Leistungserklärung oder eine gleichwertige Erklärung des Herstellers oder Importeurs, aus der hervorgeht, dass das Baumuster die Anforderungen von Anhang 4 Ziffer 212 erfüllt.
+[^20d20e-1]: Eingefügt durch Ziff. I der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Aufgehoben durch Ziff. I der V vom 20. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 6. Abschnitt: Brennstoffe
 
@@ -659,7 +600,7 @@ Unter Vorbehalt von Artikel 36 ist der Vollzug dieser Verordnung Sache der Kanto
 
 Der Bund vollzieht die Vorschriften über:
 
-- a.[^36-1] die Marktüberwachung bei Baumaschinen und deren Partikelfiltersystemen, bei Feuerungsanlagen sowie bei Maschinen und Geräten mit Verbrennungsmotor (Art. 37);
+- a.[^36-1] die Marktüberwachung bei Baumaschinen und deren Partikelfiltersystemen sowie bei Maschinen und Geräten mit Verbrennungsmotor (Art. 37);
 - b.[^36-2] die Kontrolle der Brenn- und Treibstoffe bei der Einfuhr und beim Inverkehrbringen (Art. 38).[^36-3]
 
 <sup>2</sup> Wenden Bundesbehörden andere Bundesgesetze oder völkerrechtliche Vereinbarungen oder Beschlüsse an, die Gegenstände dieser Verordnung betreffen, so vollziehen sie dabei auch diese Verordnung. Für die Mitwirkung des BAFU und der Kantone gilt Artikel 41 Absätze 2 und 4 des Gesetzes; gesetzliche Geheimhaltungspflichten bleiben vorbehalten.[^36-4]
@@ -674,7 +615,7 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation[
 
 <sup>4</sup> Der Bund führt Erhebungen über den Stand und die Entwicklung der Luftverunreinigung im gesamtschweizerischen Rahmen durch (Art. 39).[^36-6]
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^36-1]: Fassung gemäss Ziff. I der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 [^36-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 [^36-3]: Fassung gemäss Ziff. I der V vom 18. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
 [^36-4]: Fassung gemäss Ziff. II 13 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
@@ -683,11 +624,11 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation[
 
 #### Art. 37
 
-**Marktüberwachung bei Baumaschinen, deren Partikelfiltersystemen, bei Feuerungsanlagen sowie bei Maschinen und Geräten mit Verbrennungsmotor[^37-2]**[^37-1]
+**Marktüberwachung bei Baumaschinen und deren Partikelfiltersystemen sowie bei Maschinen und Geräten mit Verbrennungsmotor[^37-2]**[^37-1]
 
 <sup>1</sup>
 
-Das BAFU kontrolliert die Einhaltung der Vorschriften über das Inverkehrbringen von Baumaschinen und deren Partikelfiltersystemen, von Feuerungsanlagen sowie von Maschinen und Geräten mit Verbrennungsmotor. Es kontrolliert insbesondere:[^37-3]
+Das BAFU kontrolliert die Einhaltung der Vorschriften über das Inverkehrbringen von Baumaschinen und deren Partikelfiltersystemen sowie von Maschinen und Geräten mit Verbrennungsmotor. Es kontrolliert insbesondere:[^37-3]
 
 - a. ob die Angaben in der Konformitätserklärung zutreffen; oder
 - b.[^37-4] ob die Verbrennungsmotoren der Maschinen und Geräte, die mit einem Genehmigungszeichen versehen sind, mit dem typengenehmigten Motor oder der typengenehmigten Motorenfamilie übereinstimmen.
@@ -697,8 +638,8 @@ Das BAFU kontrolliert die Einhaltung der Vorschriften über das Inverkehrbringen
 <sup>3</sup> Entsprechen die kontrollierten Anlagen nicht den Anforderungen, so ordnet das BAFU die erforderlichen Massnahmen an. Es kann in schwerwiegenden Fällen das weitere Anbieten und Inverkehrbringen verbieten oder die Anpassung von in Verkehr gebrachten Anlagen verlangen.
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2010, in Kraft seit 15. Juli 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
-[^37-2]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^37-3]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^37-2]: Fassung gemäss Ziff. I der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^37-3]: Fassung gemäss Ziff. I der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 [^37-4]: Fassung gemäss Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 38
@@ -761,22 +702,13 @@ Die Verordnung vom 10. Dezember 1984[^41-1] über Luftreinhalte-Massnahmen bei F
 
 <sup>3</sup> Für bereits bestehende übermässige Immissionen sind die Massnahmenpläne nach Artikel 3l innert dreier Jahre nach Inkrafttreten dieser Verordnung zu erstellen.
 
-### 3*a*. Abschnitt:**** Befristung der Bestimmungen über das Inverkehrbringen und die Inbetriebnahme von Feuerungsanlagen
-
-[^chap4-sec3a-1]
-
-[^chap4-sec3a-1]: Eingefügt durch Ziff. I der V vom 11. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+### 3*a*. Abschnitt:...
 
 #### Art. 42a
 
-<sup>1</sup>
+[^42a-1]
 
-Die Bestimmungen über das Inverkehrbringen von Feuerungsanlagen sind wie folgt befristet:
-
-- a. Feuerungen nach Artikel 20 Absatz 1 Buchstaben a–g: bis zum 25. September 2018;
-- b. Feuerungen nach Artikel 20 Absatz 1 Buchstabe h: bis zum 31. Dezember 2019.
-
-<sup>2</sup> Die Bestimmungen über die Inbetriebnahme von Feuerungsanlagen nach Artikel 20*d* sind befristet bis zum 31. Dezember 2021.
+[^42a-1]: Eingefügt durch Ziff. I der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Aufgehoben durch Ziff. I der V vom 20. Okt. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 4. Abschnitt: Inkrafttreten
 
@@ -820,7 +752,7 @@ Diese Verordnung tritt am 1. März 1986 in Kraft.
 
 <sup>1</sup> Für Anlagen, die gemäss der Änderung vom 23. Juni 2004 sanierungspflichtig werden, aber bereits die vorsorglichen Emissionsbegrenzungen auf Grund der bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von sechs bis zehn Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
 
-<sup>2</sup> …[^u5-2]
+<sup>2</sup> ...[^u5-2]
 
 <sup>3</sup> Motorenbenzin und Dieselöl, welche die bisherigen Anforderungen nach Anhang 5 dieser Verordnung[^u5-3] erfüllen, dürfen aus zugelassenen Lagern, Pflichtlagern und aus Lagern der Armee bis zum 31. Dezember 2008 in Verkehr gebracht werden.
 
@@ -881,6 +813,22 @@ Für stationäre Verbrennungsmotoren und Gasturbinen, die gemäss der Änderung 
 <sup>2</sup> Heizöl «Extra leicht Euro» darf in Anlagen oder betrieblichen Einheiten, die für diesen Brennstoff eine Feuerungswärmeleistung von weniger als 5 MW haben, bis zum 31. Mai 2023 eingesetzt werden.
 
 <sup>3</sup> Die Emissionsgrenzwerte für Feststoffe nach Anhang 3 Ziffern 511 Absatz 1 und 522 Absatz 1 für Feuerungen bis 70 kW Feuerungswärmeleistung gelten ab dem 1. Juni 2019.
+
+## Übergangsbestimmungen zur Änderung vom 12. Februar 2020****
+
+[^u11-1]
+
+[^u11-1]: [AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)
+
+Für Anlagen nach Anhang 2 Ziffer 551, die gemäss der Änderung vom 12. Februar 2020 sanierungspflichtig werden, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von sechs bis acht Jahren. Vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
+
+## Übergangsbestimmungen zur Änderung vom 20. Oktober 2021****
+
+[^u12-1]
+
+[^u12-1]: [AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)
+
+Für Zementöfen und Kalkklinkeröfen, die gemäss der Änderung vom 20. Oktober 2021 sanierungspflichtig werden, aber die vorsorglichen Emissionsbegrenzungen nach den bisherigen Bestimmungen erfüllen, gewährt die Behörde abweichend von Artikel 10 Sanierungsfristen von zehn Jahren; vorbehalten bleiben die Bestimmungen von Artikel 10 Absatz 2 Buchstaben a und c.
 
 Anhang 1*[^t-1]*
 
@@ -1313,7 +1261,7 @@ Anhang 2*[^t-2]*
 
 ## Ergänzende und abweichende Emissionsbegrenzungen für besondere Anlagen
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. I der V vom 12. Febr. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)) und Ziff. II der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Siehe auch die UeB Änd. 12.2.2020 hiervor.
 
 ### Inhaltsübersicht
 
@@ -1337,7 +1285,7 @@ Anhang 2*[^t-2]*
 
 24 Anlagen zur Herstellung von 1,2-Dichlorethan und Vinylchlorid
 
-25 …
+25 ...
 
 26 Herstellung und Konfektionierung von Pflanzenschutzmittel
 
@@ -1383,7 +1331,7 @@ Anhang 2*[^t-2]*
 
 54 Anlagen zum Trocknen von Grünfutter
 
-55 …
+55 Anlagen zur Lagerung und Ausbringung von flüssigen Hofdüngern
 
 56 Kaffee- und Kakao-Röstereien
 
@@ -1437,23 +1385,32 @@ schaft
 
 Die Emissionsgrenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 10 Prozent (% vol).
 
-### 112 Stickoxide
+### 112 Stickoxide und Ammoniak
 
-Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber auf 500 mg/m<sup>3</sup>.
+<sup>1</sup> Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, dürfen 200 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>2</sup> Die Emissionen von Ammoniak dürfen 30 mg/m<sup>3</sup> nicht überschreiten.
 
 ### 113 Schwefeloxide
 
-Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, dürfen 500 mg/m<sup>3</sup> nicht überschreiten.
+Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber auf 400 mg/m<sup>3</sup>.
 
 ### 114 Gasförmige organische Stoffe
 
 <sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
 
-<sup>2</sup> Die Emissionen von gasförmigen organischen Stoffen werden als Gesamtkohlenstoff angegeben und dürfen 80 mg/m<sup>3</sup> nicht überschreiten.
+<sup>2</sup> Die Emissionen von gasförmigen organischen Stoffen werden als Gesamtkohlenstoff angegeben.
+
+<sup>3</sup> Die Behörde legt unter Berücksichtigung der Zusammensetzung der natürlichen Rohstoffe einen werkspezifischen Grenzwert für den Gesamtkohlenstoff unter folgenden Vorgaben fest:
+
+- a. die Emissionen von gasförmigen organischen Stoffen aus der Verwertung von Abfällen nach Ziffer 111 Absatz 2 dürfen 10 mg/m<sup>3</sup> betragen;
+- b. der Grenzwert darf insgesamt 50 mg/m<sup>3</sup> nicht überschreiten.
+
+<sup>4</sup> Das BAFU erlässt Empfehlungen über geeignete Verfahren zur Ermittlung der Emissionen von gasförmigen organischen Stoffen aus natürlichen Rohstoffen.
 
 ### 115 Staub
 
-Die staubförmigen Emissionen dürfen 20 mg/m<sup>3</sup> nicht überschreiten.
+Die staubförmigen Emissionen dürfen 10 mg/m<sup>3</sup> nicht überschreiten.
 
 ### 116 Quecksilber und Cadmium
 
@@ -1473,7 +1430,7 @@ Die Emissionen von polychlorierten Dibenzo-p-dioxinen (Dioxine) und Dibenzofuran
 
 <sup>1</sup> Kontinuierlich zu messen und aufzuzeichnen ist der Gehalt im Abgas von:
 
-- a. Stickoxiden;
+- a. Stickoxiden und Ammoniak;
 - b. Schwefeloxiden;
 - c. gasförmigen organischen Stoffen;
 - d. Staub.
@@ -1531,7 +1488,7 @@ Die Emissionsgrenzwerte beziehen sich auf folgende Sauerstoffgehalte im Abgas:
 - a. Hohlglas 2,5 kg pro Tonne produziertes Glas
 - b. übriges Glas 6,5 kg pro Tonne produziertes Glas
 
-### 134 …
+### 134 ...
 
 ### 135 Schwefeloxide
 
@@ -1632,7 +1589,7 @@ Bei der Chloralkali-Elektrolyse nach dem Amalgam-Verfahren dürfen die Emissione
 
 <sup>2</sup> Die Emissionsbegrenzungen für 1,2-Dichlorethan und Vinylchlorid nach Anhang 1 gelten unabhängig von den dort festgelegten Massenströmen.
 
-### 25 …
+### 25 ...
 
 ### 26 Herstellung und Konfektionierung von Pflanzenschutzmitteln
 
@@ -1865,7 +1822,7 @@ Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Wert
 
 Diagramm:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image1.png)
 
 ### 474 Messungen
 
@@ -1973,7 +1930,17 @@ Die staubförmigen Emissionen sind so weit zu begrenzen, als dies technisch und 
 
 Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
 
-### 55 …
+### 55 Anlagen zur Lagerung und Ausbringung von flüssigen Hofdüngern
+
+### 551 Lagerung von flüssigen Hofdüngern
+
+Einrichtungen für die Lagerung von Gülle und flüssigen Vergärungsprodukten sind mit einer dauerhaft wirksamen Abdeckung zur Begrenzung der Ammoniak- und Geruchsemissionen auszustatten. Das BAFU und das Bundesamt für Landwirtschaft erlassen gemeinsam Empfehlungen.
+
+### 552 ...****
+
+[^annex2-lvlu1-lvl5-lvl55-lvl552-1]
+
+[^annex2-lvlu1-lvl5-lvl55-lvl552-1]: Tritt am 1. Jan. 2024 in Kraft ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682), [789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 56 Kaffee- und Kakao-Röstereien
 
@@ -2091,7 +2058,7 @@ Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen
 
 [^annex2-lvlu1-lvl7-lvl71-lvl714-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
-### 715 …
+### 715 ...
 
 ### 716 Überwachung
 
@@ -2402,7 +2369,7 @@ Anhang 3*[^t-3]*
 
 ## Ergänzende und abweichende Emissionsbegrenzungen für Feuerungsanlagen
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Bereinigt gemäss Ziff. II der V vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Siehe auch die UeB Änd. 11.4.2018 hiervor.
+[^t-3]: Fassung gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Bereinigt gemäss Ziff. II der V vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) und Ziff. II der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Siehe auch die UeB Änd. 11.4.2018 hiervor.
 
 ### 1 Geltungsbereich
 
@@ -2427,7 +2394,7 @@ Folgende Feuerungen müssen nicht nach Artikel 13 Absatz 3 periodisch gemessen w
 
 - a. Feuerungen, die im Kalenderjahr weniger als 100 Stunden betrieben werden;
 - b. Feuerungen mit einer Feuerungswärmeleistung bis 12 kW, die ausschliesslich zur Heizung von Einzelräumen dienen;
-- [tab] c. und d. …
+- [tab] c. und d. ...
 - e. Einzelraumfeuerungen für Kohle;
 - f. Einzelraumfeuerungen für feste Brennstoffe, sofern sie ausschliesslich mit Holzbrennstoffen nach Anhang 5 Ziffer 31 Absatz 1 Buchstabe a, b oder d Ziffer 1 betrieben werden.
 
@@ -2474,9 +2441,9 @@ Folgende Feuerungen müssen nicht nach Artikel 13 Absatz 3 periodisch gemessen w
 
 <sup>1</sup> Für Feuerungen mit einer Heizmediumtemperatur über 150 °C, bei denen die Einhaltung des Stickoxid-Grenzwertes von 150 mg/m<sup>3</sup> nach Ziffer 411 technisch oder betrieblich nicht möglich oder wirtschaftlich nicht tragbar ist, kann die Behörde mildere Grenzwerte festlegen. Die Emissionen an Stickoxiden, angegeben als Stickstoffdioxid, dürfen jedoch 250 mg/m<sup>3</sup> nicht überschreiten.
 
-<sup>2</sup> und <sup>3</sup> …
+<sup>2</sup> und <sup>3</sup> ...
 
-### 413 …
+### 413 ...
 
 ### 414 Energetische Anforderungen
 
@@ -2621,18 +2588,21 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 
 <sup>2</sup> Automatische Heizkessel bis 500 kW Nennwärmeleistung müssen mit einem Wärmespeicher eines Volumens von mindestens 25 Litern pro kW Nennwärmeleistung ausgerüstet werden. Davon ausgenommen sind Heizkessel für Holzpellets bis 70 kW Feuerungswärmeleistung.
 
-<sup>3</sup> Die Behörde kann in Abweichung von den Absätzen 1 und 2 kleinere Speichergrössen festlegen, wenn dies aus technischen oder betrieblichen Gründen angezeigt ist.
+<sup>2bis</sup> Bei Heizkesseln über 500 kW Nennwärmeleistung legt die Behörde die Speichergrösse fest. Dienen diese Heizkessel der Raumwärmeerzeugung oder Wassererwärmung, so müssen sie mit einem Wärmespeicher eines Volumens von mindestens 25 Litern pro kW Nennwärmeleistung ausgerüstet werden.
 
-<sup>4</sup> Werden mehrere Einzelfeuerungen nach den Absätzen 1 oder 2 als betriebliche Einheit zum Zweck der Abdeckung eines variablen Wärme- oder Dampfbedarfs in wechselnder Konstellation betrieben, kann die Behörde kleinere Speichergrössen festlegen.
+<sup>3</sup> Die Behörde kann in Abweichung von den Absätzen 1, 2 und 2<sup>bis</sup> kleinere Speichergrössen festlegen, wenn:
+
+- a. mehrere Einzelfeuerungen als betriebliche Einheit zum Zweck der Abdeckung eines variablen Wärme- oder Dampfbedarfs in wechselnder Konstellation betrieben werden;
+- b. dies aus anderen betrieblichen oder aus technischen Gründen angezeigt ist.
 
 ### 524 Messung und Kontrolle
 
-<sup>1</sup> Serienmässig hergestellte Einzelraumfeuerungen nach Ziffer 22 Buchstabe f sind von einer Abnahmemessung ausgenommen, wenn eine Leistungserklärung oder eine gleichwertige Erklärung des Herstellers nach Artikel 20*e* vorliegt.
+<sup>1</sup> Serienmässig hergestellte Einzelraumfeuerungen nach Ziffer 22 Buchstabe f sind von einer Abnahmemessung ausgenommen, wenn mittels einer Konformitätserklärung nach Artikel 7 der Energieeffizienzverordnung vom 1. November 2017[^annex3-lvlu1-lvl4-lvl42-lvl524-1] (EnEV) bestätigt wird, dass die Anlage den in Anhang 1.19 EnEV festgelegten Anforderungen entspricht.
 
 <sup>2</sup> Handwerklich hergestellte Einzelraumfeuerungen nach Ziffer 22 Buchstabe f sind von einer Abnahmemessung ausgenommen, wenn:
 
 - a. sie nach einem anerkannten Berechnungsverfahren, insbesondere dem Kachelofenberechnungsprogramm des Verbandes feusuisse, gebaut wurden; oder
-- b. sie mit einem Staubabscheidesystem ausgerüstet sind, welches dem Stand der Technik, namentlich den Anforderungen der technischen Regel VDI 3670[^annex3-lvlu1-lvl4-lvl42-lvl524-1] (Abgasreinigung – Nachgeschaltete Staubminderungseinrichtungen für Kleinfeuerungsanlagen für feste Brennstoffe) entspricht.
+- b. sie mit einem Staubabscheidesystem ausgerüstet sind, welches dem Stand der Technik, namentlich den Anforderungen der technischen Regel VDI 3670[^annex3-lvlu1-lvl4-lvl42-lvl524-2] (Abgasreinigung – Nachgeschaltete Staubminderungseinrichtungen für Kleinfeuerungsanlagen für feste Brennstoffe) entspricht.
 
 <sup>3</sup> Schützenswerte historische Zimmeröfen bis zu einem Volumen von 0,4 m<sup>3</sup> und handwerklich hergestellte Kochherde sind ebenfalls von der Abnahmemessung ausgenommen, wenn sie nach den anerkannten Regeln der Feuerungstechnik gebaut wurden oder mit einem Staubabscheidesystem nach Absatz 2 Buchstabe b ausgerüstet sind.
 
@@ -2642,7 +2612,8 @@ In Feuerungsanlagen mit einer Feuerungswärmeleistung unter 1 MW dürfen nur Koh
 
 <sup>6</sup> Bei Einzelraumfeuerungen, die nach Ziffer 22 Buchstabe f nicht periodisch gemessen werden, kontrolliert die Behörde insbesondere Verbrennungsrückstände und den Zustand der Anlage. Sie informiert dabei erstmalig auch über die sachgerechte Bedienung der Anlage sowie über die Verwendung und Lagerung von Brennstoffen.
 
-[^annex3-lvlu1-lvl4-lvl42-lvl524-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-lvl4-lvl42-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^annex3-lvlu1-lvl4-lvl42-lvl524-2]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 525 Anforderungen an Staubabscheidesysteme
 
@@ -2723,7 +2694,7 @@ Wird eine Einzelfeuerung abwechselnd mit verschiedenen Brennstoffen betrieben, s
 
 <sup>2</sup> Der Mischgrenzwert wird nach der folgenden Formel berechnet:
 
-G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image3.png)</sub> + .... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image4.png)</sub>
+G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image3.png)</sub> + .... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image4.png)</sub>
 
 Dabei bedeuten:
 
@@ -2745,71 +2716,15 @@ Anhang 4*[^t-4]*
 
 (Art. 3 Abs. 2 Bst. c)
 
-## Anforderungen an Feuerungsanlagen, an Baumaschinen und deren Partikelfiltersysteme sowie an Maschinen und Geräte mit Verbrennungsmotor
+## Anforderungen an Baumaschinen und deren Partikelfiltersysteme sowie an Maschinen und Geräte mit Verbrennungsmotor
 
-[^t-4]: Fassung gemäss Ziff. II der V vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Bereinigt gemäss Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 19. Sep. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), Ziff. I und II der V vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. III 1 der V vom 22. Juni 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). Siehe auch die UeB Änd. 4.7.2007 und 19.9.2008 hiervor.
+[^t-4]: Fassung gemäss Ziff. II der V vom 23. Juni 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Bereinigt gemäss Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), vom 19. Sep. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), vom 22. Okt. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), Ziff. I und II der V vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Ziff. III 1 der V vom 22. Juni 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) und Ziff. I der V vom 12. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) und Ziff. II der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Siehe auch die UeB Änd. 4.7.2007 und 19.9.2008 hiervor.
 
 ### 1 Geltungsbereich
 
-Die Bestimmungen dieses Anhanges gelten für Feuerungsanlagen nach den Artikeln 20 Absatz 1 und 20*d*, für Baumaschinen und deren Partikelfiltersysteme nach Artikel 19*a* sowie für Maschinen und Geräte mit Verbrennungsmotor nach Artikel 20*b*.
+Die Bestimmungen dieses Anhanges gelten für Baumaschinen und deren Partikelfiltersysteme nach Artikel 19*a* sowie für Maschinen und Geräte mit Verbrennungsmotor nach Artikel 20*b*.
 
-### 2 Anforderungen an Feuerungsanlagen
-
-### 21 Lufthygienische Anforderungen
-
-### 211 Öl- und Gasfeuerungen
-
-Öl- und Gasfeuerungen müssen die lufthygienischen Anforderungen der massgebenden europäischen Normen sowie die Emissionsgrenzwerte der folgenden Tabelle einhalten:
-
-<table>
-<tr><th>Anlageart</th><th>Massgebende europäische Norm[^annex4-lvlu1-lvl2-lvl21-lvl211-1]</th><th>Massgebende Emissionsklassen oder Emissionsgrenzwerte für Stickoxide (NO<sub>x</sub>) und für Kohlenmonoxid (CO)</th></tr>
-<tr><td>Gebläsebrenner für Heizöl «Extra leicht» (Art. 20 Abs. 1 Bst. a)</td><td>EN 267</td><td>NO<sub>x</sub>-Klasse 3 CO-Klasse 3</td></tr>
-<tr><td>Automatische Brenner mit Gebläse für gasförmige Brennstoffe (Art. 20 Abs. 1 Bst. a)</td><td>EN 676</td><td>NO<sub>x</sub>-Klasse 3 CO: 100 mg/kWh</td></tr>
-<tr><td>Heizkessel mit Gebläsebrennern für Heizöl «Extra leicht» (Art. 20 Abs. 1 Bst. b und c)</td><td>EN 303, EN 304</td><td>NO<sub>x</sub>-Klasse 3 CO-Klasse 3</td></tr>
-<tr><td>Heizkessel mit Gebläsebrennern für gasförmige Brennstoffe (Art. 20 Abs. 1 Bst. b und c)</td><td>EN 303, EN 304</td><td>NO<sub>x</sub>-Klasse 3 CO: 100 mg/kWh</td></tr>
-<tr><td>Heizkessel für gasförmige Brennstoffe (Art. 20 Abs. 1 Bst. d)</td><td>EN 656, EN 15502</td><td>NO<sub>x</sub>-Klasse 5 CO: 100 mg/kWh</td></tr>
-<tr><td>Direkt befeuerte Gas-Speicherwassererwärmer (Boiler) (Art. 20 Abs. 1 Bst. f)</td><td>EN 89</td><td>NO<sub>x</sub>-Klasse 5</td></tr>
-<tr><td>Gas-Durchlaufwassererwärmer (Art. 20 Abs. 1 Bst. g)</td><td>EN 26</td><td></td></tr>
-</table>
-
-[^annex4-lvlu1-lvl2-lvl21-lvl211-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-
-### 212 Kohle- und Holzfeuerungen
-
-Kohle- und Holzfeuerungen müssen die lufthygienischen Anforderungen der massgebenden europäischen Normen sowie die Emissionsgrenzwerte der folgenden Tabelle einhalten:
-
-<table>
-<tr><td>Anlageart</td><td>Massgebende europäische Norm[^annex4-lvlu1-lvl2-lvl21-lvl212-1]</td><td></td><td colspan="2">Massgebende Emissionsklassen oder Emissionsgrenzwerte<sup>a</sup> für Kohlenmonoxid (CO) und für Feststoffe (Staub)</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>CO</td><td colspan="2">Staub</td></tr>
-<tr><td>Heizkessel für Stückholz- und Kohlefeuerungen, handbeschickt</td><td>EN 303-5 oder EN 12809</td><td>mg/m<sup>3</sup></td><td>800</td><td colspan="2">50</td></tr>
-<tr><td>Heizkessel für Holzschnitzel- und Kohlefeuerungen, automatisch beschickt</td><td>EN 303-5 oder EN 12809</td><td>mg/m<sup>3</sup></td><td>400</td><td colspan="2">60</td></tr>
-<tr><td>Heizkessel für Holzpellets, automatisch beschickt</td><td>EN 303-5 oder EN 12809</td><td>mg/m<sup>3</sup></td><td>300</td><td colspan="2">40</td></tr>
-<tr><td>Einzelherde für feste Brennstoffe</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td colspan="2">90</td></tr>
-<tr><td>Zentralheizungsherde für feste Brennstoffe</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td colspan="2">120</td></tr>
-<tr><td>Kamineinsätze und offene Kamine für feste Brennstoffe</td><td>EN 13229</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
-<tr><td>Raumheizer für feste Brennstoffe</td><td>EN 13240</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
-<tr><td>Raumheizer zur Verfeuerung von Holzpellets</td><td>EN 14785</td><td>mg/m<sup>3</sup></td><td>500</td><td colspan="2">40</td></tr>
-<tr><td>Speicherfeuerstätten für feste Brennstoffe</td><td>EN 15250</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
-<tr><td>Pelletbrenner für kleine Heizkessel</td><td>EN 15270</td><td></td><td>Klasse 4</td><td colspan="2">Klasse 4</td></tr>
-<tr><td colspan="6"><sup>a</sup> Bezugssauerstoffgehalt: – für Holzfeuerungen 13 % vol; – für Kohlefeuerungen 7 % vol.</td></tr>
-</table>
-
-[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-
-### 22 …
-
-### 23 Kennzeichnung
-
-<sup>1</sup> Der Hersteller muss an jeder Feuerungsanlage gut sichtbar, dauerhaft und deutlich lesbar ein Geräteschild anbringen, das die Angaben der massgebenden europäischen Normen, mindestens jedoch folgende Angaben enthält:
-
-- a. Namen des Herstellers oder Warenzeichen der Anlage;
-- b. Handelsbezeichnung, Typenbezeichnung oder Modellnummer;
-- c. Bezeichnung der massgebenden europäischen Norm, nach der das Gerät gemäss Ziffer 21 geprüft wurde;
-- d. Feuerungswärme-, Nennwärme- bzw. Raumwärmeleistung oder entsprechender Leistungsbereich in W oder kW.
-
-<sup>2</sup> Das Geräteschild von Öl- und Gasfeuerungen muss zudem die NO<sub>x</sub>-Klasse der massgebenden europäischen Norm angeben.
-
-<sup>3</sup> Das Geräteschild von Holz- und Kohlefeuerungen muss zudem die nach Ziffer 212 gemessenen Emissionswerte für CO und Staub in mg/m<sup>3</sup>, bezogen auf den massgebenden Sauerstoffgehalt im Abgas, angeben.
+### 2 ...
 
 ### 3 Lufthygienische Anforderungen an Baumaschinen und deren Partikelfiltersysteme
 
@@ -3223,15 +3138,15 @@ S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
 
 Diagramm 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image5.png)
 
 ### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
 
 Diagramm 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image6.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/de/xml/image/image7.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/de/xml/image/image7.png)</sub>
 
 I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
 

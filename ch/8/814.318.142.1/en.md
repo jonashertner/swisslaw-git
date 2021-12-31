@@ -4,11 +4,11 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2021-11-30
+version: 2022-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20211130-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20211130/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAPC)
 
-of 16 December 1985 (Status as of 30 November 2021)
+of 16 December 1985 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -102,9 +102,9 @@ Additional or different requirements apply in the case of the following installa
 
 - a. installations listed in Annex 2: the requirements specified therein;
 - b. combustion installations: the requirements specified in Annex 3;
-- c.[^3-1] construction machines and particle filter systems as specified in Article 19*a*, combustion installations as specified in Articles 20 and 20*d* and machines and equipment with internal combustion engines as specified in Article 20*b*: the requirements specified in Annex 4.
+- c.[^3-1] construction machines and particle filter systems as specified in Article 19*a*, and machines and equipment with internal combustion engines as specified in Article 20*b*: the requirements specified in Annex 4.
 
-[^3-1]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^3-1]: Amended by No I of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 #### Art. 4
 
@@ -242,7 +242,7 @@ The measurement or inspection is generally to be repeated as follows, without pr
 <sup>4</sup> In the case of installations which may produce significant levels of emissions, the authorities shall order continuous measurement and recording of emissions, or of another operating parameter which permits emission control.
 
 [^13-1]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^13-2]: The correction of 16 April 2019 concerns the Itaian text only ([AS 2019 1225](https://fedlex.data.admin.ch/eli/oc/2019/232)).
+[^13-2]: The correction of 16 April 2019 concerns the Italian text only ([AS 2019 1225](https://fedlex.data.admin.ch/eli/oc/2019/232)).
 [^13-3]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 13a
@@ -330,13 +330,14 @@ If vehicles or transport infrastructure have been shown or are expected to cause
 
 <sup>1</sup> Machines and equipment for use on construction sites with internal combustion compression-ignition engines having a power output of more than 18 kW (construction machines) shall comply with the requirements specified in Annex 4 Number 3.
 
-<sup>2</sup> New construction machines are only to be placed on the market if their conformity with the requirements specified in Annex 4 Number 3 has been demonstrated.
+<sup>2</sup> ...[^19a-1]
 
 <sup>3</sup> Construction machines are only to be operated with a particle filter system whose conformity with the requirements specified in Annex 4 Numbers 32 and 33 has been demonstrated.
 
-<sup>4</sup> The authority may on request grant exemptions from the requirements set out in Annex 4 Number 3 for construction equipment used for test or demonstration purposes. The exemptions are granted for a maximum of 10 days.[^19a-1]
+<sup>4</sup> The authority may on request grant exemptions from the requirements set out in Annex 4 Number 3 for construction equipment used for test or demonstration purposes. The exemptions are granted for a maximum of 10 days.[^19a-2]
 
-[^19a-1]: Inserted by No I of the O of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^19a-1]: Repealed by No I of the O of 20 Oct. 2021, with effect from 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^19a-2]: Inserted by No I of the O of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 19b
 
@@ -371,69 +372,19 @@ Proof of conformity comprises:
 [^19b-3]: Inserted by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^19b-4]: Amended by No I of the O of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
-### Section 5**** Placing on the Market of Combustion Installations
-
-[^chap2-sec5-1]
-
-[^chap2-sec5-1]: Amended by No I of the O of 23 June 2004, in force since 1 Jan. 2005 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
+### Section 5 ...
 
 #### Art. 20
 
-**Conditions for placing on the market**[^20-1]
+[^20-1]
 
-<sup>1</sup>
-
-The following combustion installations are only to be placed on the market if their conformity with the requirements specified in Annex 4 has been demonstrated (Art. 20*a*):
-
-- a. forced draught burners for «extra light» heating oil or gas with a rated thermal input of up to 350 kW;
-- b. boilers for forced draught burners as specified in letter a, provided that the heat carrier is water and the shut-off temperature of the safety temperature limiter does not exceed 110 °C;
-- c. boilers as specified in letter b intended to be equipped with forced draught burners (units);
-- d.[^20-2] gas-fired boilers with a rated thermal input of up to 350 kW, provided that the heat carrier is water and the shut-off temperature of the safety temperature limiter does not exceed 110°C;
-- e.[^20-3] ...
-- f. direct gas-fired storage water heaters (boilers) containing more than 30 litres of water and with a rated thermal input of up to 350 kW;
-- g. gas-fired instantaneous water heaters with a rated thermal input of 35 kW to 350 kW;
-- h.[^20-4] boilers fired by solid fuels as specified in Annex 5 with a rated thermal input of up to 350 kW and pellet burners for small boilers with a rated thermal input of up to 70 kW.
-
-<sup>2</sup> ...[^20-5]
-
-<sup>3</sup> The cantons may allow practical testing of a limited number of installations without a declaration of conformity for a period of no more than two years. Installations which at the end of this period still lack a declaration of conformity in their existing form must be taken out of service.
-
-[^20-1]: See also the Final Provisions of the Amendments of 23 June 2004 below.
-[^20-2]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-3]: Repealed by No I of the O of 11 April 2018, with effect from 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-4]: Inserted by No I of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)). Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^20-5]: Repealed by No I of the O of 18 June 2010, with effect from 15 July 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
+[^20-1]: Repealed by No I of the O of 20 Oct. 2021, with effect from 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 #### Art. 20a
 
-**Proof of conformity**
+[^20a-1]
 
-<sup>1</sup>
-
-Proof of conformity for a combustion installation comprises:
-
-- a.[^20a-1] a test report from a body under Article 18 TBA[^20a-2] confirming that the type in question meets the requirements of Annex 4;
-- b.
-
-  a declaration by the manufacturer or importer that the combustion installation to be placed on the market conforms to the tested type (declaration of conformity), including the following details:
-
-  - 1\. name and address of the manufacturer or importer,
-  - 2\. description of the combustion installation,
-  - 3\. provisions applicable in accordance with Annex 4,
-  - 4\. name and address of the conformity assessment body and number of the certificate of conformity,
-  - 5\. name and function of the person signing the declaration of conformity for the manufacturer or importer;
-
-- c.[^20a-3] markings as specified in Annex 4 Number 23.
-
-<sup>1bis</sup> For equipment in terms of Annex 1.15 or 1.16 of the Energy Efficiency Ordinance of 1 November 2017[^20a-4], proof of conformity may also be provided in accordance with the requirements in Article 5 paragraph 2 and Article 7 paragraph 2 of that ordinance.[^20a-5]
-
-<sup>2</sup> The manufacturer or importer shall retain the declaration of conformity for ten years after placing the installation on the market.
-
-[^20a-1]: Amended by No III 1 of the O of 22 June 2016, in force since 1 Aug. 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)).
-[^20a-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^20a-3]: Inserted by No I of the O of 22 Oct. 2008, in force since 1 Jan. 2009 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)).
-[^20a-4]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^20a-5]: Inserted by No III 1 of the O of 22 June 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)). Amended by Annex 5 No 3 of the Energy Efficiency Ordinance of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6951](https://fedlex.data.admin.ch/eli/oc/2017/765))
+[^20a-1]: Inserted by No I of the O of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Repealed by No I of the O of 20 Oct. 2021, with effect from 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Section 5*a***** Requirements for Machines and Equipment with Internal Combustion Engines
 
@@ -465,23 +416,13 @@ Proof of conformity comprises:
 [^20c-1]: See footnote to Art. 19*b* para. 1<sup>bis</sup>.
 [^20c-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
 
-### Section 5*b***** Commissioning Combustion Installations
+### Section 5*b* ...
 
-[^chap2-sec5b-1]
+#### Art. 20d and 20e
 
-[^chap2-sec5b-1]: Inserted by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^20d20e-1]
 
-#### Art. 20d
-
-**Requirements for commissioning**
-
-Series-produced solid-fuel-fired local space heaters as specified in Annex 5 with a rated heat output of up to 50 kW, in particular room heaters, cookers, storage heaters and inset appliances including open fires, may only be commissioned if their conformity with the requirements specified in Annex 4 Number 212 is proven (Art. 20*e*).
-
-#### Art. 20e
-
-**Proof of conformity**
-
-Proof of conformity of a series-produced local space heater in accordance with Article 20*d* includes a declaration of performance or an equivalent declaration from the manufacturer or importer that indicates that the type meets the requirements of Annex 4 Number 212.
+[^20d20e-1]: Inserted by No I of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Repealed by No I of the O of 20 Oct. 2021, with effect from 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Section 6 Thermal Fuels
 
@@ -629,7 +570,7 @@ Measures under paragraph 1 letter c are:
 
 <sup>1</sup> The measures contained in the action plan are generally to be put into effect within five years*.*
 
-<sup>2</sup> As a matter of priority, the authorities shall order measures for installations which account for more than 10 % of the total pollution load.
+<sup>2</sup> As a matter of priority, the authorities shall order measures for installations that account for more than 10 % of the total pollution load.
 
 <sup>3</sup> The cantons shall regularly review the effectiveness of the measures and shall amend the action plans if necessary. They shall inform the public accordingly.
 
@@ -661,7 +602,7 @@ Subject to the provisions of Article 36, the cantons shall be responsible for en
 
 The Confederation shall enforce the provisions concerning:
 
-- a.[^36-1] market surveillance for construction machines and particle filter systems, combustion installations and machines and equipment with internal combustion engines (Article 37);
+- a.[^36-1] market surveillance for construction machines and particle filter systems, and machines and equipment with internal combustion engines (Article 37);
 - b.[^36-2] control of thermal and motor fuels on import and on placing on the market (Article 38).[^36-3]
 
 <sup>2</sup> When applying other federal acts or international agreements or resolutions relating to matters regulated by this Ordinance, federal authorities shall also enforce this Ordinance. Cooperation of the FOEN and the cantons is governed by Article 41 paragraphs 2 and 4 of the Act; these provisions are subject to legal requirements concerning secrecy.[^36-4]
@@ -676,20 +617,20 @@ The Federal Department of the Environment, Transport, Energy and Communications[
 
 <sup>4</sup> The Confederation shall carry out surveys of the air pollution situation and trends in Switzerland as a whole (Article 39).[^36-6]
 
-[^36-1]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^36-1]: Amended by No I of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 [^36-2]: Amended by No I of the O of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 [^36-3]: Amended by No I of the O of 18. June 2010, in force since 15 July 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
 [^36-4]: Amended by No II 13 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
-[^36-5]: The designation of the administration unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^36-5]: The name of this administrative unit was changed by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^36-6]: Inserted by No I of the O of 18 June 2010, in force since 15 July 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
 
 #### Art. 37
 
-**Market surveillance for construction machines and their particle filter systems, combustion installations and machines and equipment with internal combustion engines[^37-2]**[^37-1]
+**Market surveillance for construction machines and their particle filter systems, and machines and equipment with internal combustion engines[^37-2]**[^37-1]
 
 <sup>1</sup>
 
-The FOEN shall monitor compliance with the regulations concerning placing construction machines, particle filter systems, combustion installations and machines and equipment with internal combustion engines on the market. It shall monitor in particular:[^37-3]
+The FOEN shall monitor compliance with the regulations concerning placing construction machines, particle filter systems, and machines and equipment with internal combustion engines on the market. It shall monitor in particular:[^37-3]
 
 - a. whether the information given in the declaration of conformity is correct; or
 - b.[^37-4] whether the internal combustion engines of the machines and equipment which bear an approval mark conform to the type-approved engine or to the type-approved engine family.
@@ -699,8 +640,8 @@ The FOEN shall monitor compliance with the regulations concerning placing constr
 <sup>3</sup> If the installations controlled do not meet the requirements, the FOEN shall order the necessary measures. In serious cases, it may prohibit further offering or marketing, or request the modification of installations already marketed.
 
 [^37-1]: Amended by No I of the O of 18 June 2010, in force since 15 July 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)).
-[^37-2]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^37-3]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^37-2]: Amended by No I of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
+[^37-3]: Amended by No I of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 [^37-4]: Amended by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 
 #### Art. 38
@@ -718,7 +659,7 @@ The FOEN shall monitor compliance with the regulations concerning placing constr
 [^38-1]: Amended by No I of the O of 23 June 2004, in force since 1 Jan. 2005 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
 [^38-2]: Amended by No I of the O of 23 June 2004, in force since 1 Jan. 2005 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)).
 [^38-3]: Amended by No I of the O of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^38-4]: Inserted by No I of the O of 14 Oct. 2015 Nov, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^38-4]: Inserted by No I of the O of 14 Oct. 2015, in force since 16 Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 39
 
@@ -763,22 +704,13 @@ The Ordinance of 10 December 1984[^41-1] on Air Pollution Control Measures for C
 
 <sup>3</sup> In cases of existing excessive ambient air pollution levels, action plans shall be prepared in accordance with Article 31 within three years after the commencement of this Ordinance.
 
-### Section 3*a***** Time Limits for Provisions on the Placing on the Market and Commissioning of Combustion Installations
-
-[^chap4-sec3a-1]
-
-[^chap4-sec3a-1]: Inserted by No I of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+### Section 3*a* *...*
 
 #### Art. 42a
 
-<sup>1</sup>
+[^42a-1]
 
-The provisions on the placing on the market of combustion installations are subject to the following time limits:
-
-- a. installations under Article 20 paragraph 1 letters a–g: until 25 September 2018;
-- b. installations under Article 20 paragraph 1 letter h: until 31 December 2019.
-
-<sup>2</sup> The provisions on the commissioning of combustion installations under Article 20*d* are subject to a time limit of 31 December 2021.
+[^42a-1]: Inserted by No I of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). Repealed by No I of the O of 20 Oct. 2021, with effect from 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### Section 4 Commencement
 
@@ -812,7 +744,7 @@ This Ordinance comes into force on 1 March 1986.
 
 <sup>1</sup> Installations which require a construction permit or planning permission with regard to which no binding decision has been taken at the time this Amendment enters into force must comply with the requirements of the new legislation.
 
-<sup>2</sup> Notwithstanding Article 10, the authorities shall grant time limits of five to ten years for the retrofitting of installations which become subject to mandatory retrofitting after 1 July 2003, but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
+<sup>2</sup> Notwithstanding Article 10, the authority shall grant time limits of five to ten years for the retrofitting of installations that become subject to mandatory retrofitting after 1 July 2003, but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
 ## Transitional Provisions to the Amendment of 23 June 2004****
 
@@ -820,7 +752,7 @@ This Ordinance comes into force on 1 March 1986.
 
 [^u5-1]: [AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)
 
-<sup>1</sup> Notwithstanding Article 10, the authorities shall grant time limits of six to ten years for the retrofitting of installations which become subject to mandatory retrofitting under the Amendment of 23 June 2004, but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
+<sup>1</sup> Notwithstanding Article 10, the authority shall grant time limits of six to ten years for the retrofitting of installations that become subject to mandatory retrofitting under the Amendment of 23 June 2004, but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
 <sup>2</sup> ...[^u5-2]
 
@@ -835,7 +767,7 @@ This Ordinance comes into force on 1 March 1986.
 
 [^u6-1]: [AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)
 
-<sup>1</sup> Notwithstanding Article 10, the authorities shall grant time limits of five to ten years for the retrofitting of installations which become subject to mandatory retrofitting under the Amendment of 4 July 2007, but which already comply with the preventive emission limits based on the existing provisions. For wood-fired installations they shall grant a time limit of ten years for retrofitting; this is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
+<sup>1</sup> Notwithstanding Article 10, the authority shall grant time limits of five to ten years for the retrofitting of installations that become subject to mandatory retrofitting under the Amendment of 4 July 2007, but which already comply with the preventive emission limits based on the existing provisions. For wood-fired installations they shall grant a time limit of ten years for retrofitting; this is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
 <sup>2</sup> Combustion installations as specified in Article 20 paragraph 1 letter h may be placed on the market without a proof of conformity until 31 December 2007.
 
@@ -870,7 +802,7 @@ This Ordinance comes into force on 1 March 1986.
 
 [^u9-1]: [AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)
 
-Notwithstanding Article 10, the authorities shall grant time limits of six to ten years for the retrofitting of stationary internal combustion engines and gas turbines which become subject to mandatory retrofitting in accordance with the Amendment of 14 October 2015 but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
+Notwithstanding Article 10, the authority shall grant time limits of six to ten years for the retrofitting of stationary internal combustion engines and gas turbines which become subject to mandatory retrofitting in accordance with the Amendment of 14 October 2015 but which already comply with the preventive emission limits based on the existing provisions. This is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
 ## Transitional provisions relating to the Amendment of 11 April 2018****
 
@@ -878,11 +810,27 @@ Notwithstanding Article 10, the authorities shall grant time limits of six to te
 
 [^u10-1]: [AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)
 
-<sup>1</sup> Notwithstanding Article 10, the authorities shall grant time limits of ten years for retrofitting installations which become subject to mandatory retrofitting under the Amendment of 11 April 2018 but which already comply with the preventive emission limits based on the existing provisions; this is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
+<sup>1</sup> Notwithstanding Article 10, the authority shall grant time limits of ten years for retrofitting installations that become subject to mandatory retrofitting under the Amendment of 11 April 2018 but which already comply with the preventive emission limits based on the existing provisions; this is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
 <sup>2</sup> «Euro extra-light» heating oil may be used in installations or operating units that have a rated thermal input of less than 5 MW for these thermal fuels until 31 May 2023.
 
 <sup>3</sup> The emission limit values for solids as specified in Annex 3 Numbers 511 paragraph 1 and 522 paragraph 1 for installations with a rated thermal input of up to 70 kW apply from 1 June 2019.
+
+## Transitional Provisions to the Amendment of 12 February 2020****
+
+[^u11-1]
+
+[^u11-1]: [AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)
+
+Notwithstanding Article 10, the authority shall grant time limits of six to eight years for retrofitting installations that become subject to mandatory retrofitting under the Amendment of 12 February 2020; this is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
+
+## Transitional Provisions to the Amendment of 20 October 2021****
+
+[^u12-1]
+
+[^u12-1]: [AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)
+
+Notwithstanding Article 10, the authority shall grant time limits of ten years for retrofitting cement and lime kilns which become subject to mandatory retrofitting under the Amendment of 20 October 2021 but which already comply with the preventive emission limits based on the existing provisions; this is without prejudice to the provisions of Article 10 paragraph 2 letters a and c.
 
 Annex 1*[^t-1]*
 
@@ -970,11 +918,11 @@ If the mass flow of dust is 0.20 kg/h or more, total dust emissions must not exc
 
 The requirements specified in Numbers 5, 7 and 8 apply for the limitation of exposure to individual components of dust.
 
-### 43 Measures relating to treatment, storage, transshipment and transport
+### 43 Measures relating to treatment, storage, trans-shipment and transport
 
 <sup>1</sup> If significant dust emissions may occur in commercial or industrial facilities as a result of processes such as the conveyance, crushing, sorting or filling of dust-forming materials, the dust-containing flue gases must be captured and fed into a dust removal system.
 
-<sup>2</sup> When dust-forming materials are stored or transshipped in the open, measures must be taken to prevent significant dust emissions.
+<sup>2</sup> When dust-forming materials are stored or trans-shipped in the open, measures must be taken to prevent significant dust emissions.
 
 <sup>3</sup> When dust-forming materials are transported, transport equipment must be used which prevents significant dust emissions.
 
@@ -1243,7 +1191,7 @@ The emission concentration of any of the substances listed in Number 62 must not
 
 ### 81 Definition
 
-*Carcinogens* means those substances which are designated as carcinogenic (C) in the list of limit values for exposure at the workplace[^annex1-lvlu1-lvl8-lvl81-1] published by the Swiss Accident Insurance Fund (SUVA).
+*Carcinogens* means those substances that are designated as carcinogenic (C) in the list of limit values for exposure at the workplace[^annex1-lvlu1-lvl8-lvl81-1] published by the Swiss Accident Insurance Fund (SUVA).
 
 [^annex1-lvlu1-lvl8-lvl81-1]: List of limit values for exposure at the workplace, available from: Schweizerische Unfallversicherungsanstalt SUVA, Postfach, 6002 Luzern.
 
@@ -1312,7 +1260,7 @@ Annex 2*[^t-2]*
 
 ## Additional or different emission limitation requirements for particular installations
 
-[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)) and No II of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). The correction of 24 April 2018 concerns the French text only ([AS 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)).
+[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018, ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)) and No II of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). See also the transitional provision to the Amendment of 12.2.2020 above.
 
 ### Contents
 
@@ -1382,7 +1330,7 @@ Annex 2*[^t-2]*
 
 54 Installations for drying green fodder
 
-55 ...
+55 Installations for the storage and spreading of liquid farmyard manure
 
 56 Installations for roasting coffee and cocoa
 
@@ -1432,21 +1380,30 @@ Annex 2*[^t-2]*
 
 ### 111<sup>bis</sup> Reference value
 
-Emission limit values are based on a flue gas oxygen content of 10 % (% vol).
+Emission limit values are based on a flue gas oxygen content of 10% (% vol).
 
-### 112 Nitrogen oxides
+### 112 Nitrogen oxides und ammonia
 
-Emissions of nitrogen oxides (nitrogen monoxide and nitrogen dioxide), expressed as nitrogen dioxide, shall be limited as far as is technically and operationally feasible and economically acceptable, but at least to 500 mg/m<sup>3</sup>.
+<sup>1</sup> Emissions of nitrogen oxides (nitrogen monoxide and nitrogen dioxide), expressed as nitrogen dioxide must not exceed 200 mg/m<sup>3</sup>.
+
+<sup>2</sup> Emissions of ammonia must not exceed 30 mg/m<sup>3</sup>.
 
 ### 113 Sulphur oxides
 
-Emissions of sulphur oxides, expressed as sulphur dioxide, must not exceed 500 mg/m<sup>3</sup>.
+Emissions of sulphur oxides, expressed as sulphur dioxide, shall be limited as far as is technically and operationally feasible and economically acceptable, but at least to 400 mg/m<sup>3</sup>.
 
 ### 114 Gaseous organic substances
 
 <sup>1</sup> The emission limits in Annex 1 Number 7 do not apply.
 
-<sup>2</sup> Emissions of gaseous organic substances are expressed as total carbon and must not exceed 80 mg/m<sup>3</sup>.
+<sup>2</sup> Emissions of gaseous organic substances are expressed as total carbon.
+
+<sup>3</sup> The authority shall specify an installation-specific limit value for the total carbon taking the composition of the natural raw materials into account, subject to the following requirements:
+
+- a. the emissions of gaseous organic substances from the use of waste in accordance with Number 111 paragraph 2 may amount to 10 mg/m<sup>3</sup>;
+- b. the limit value must not exceed a total of 50 mg/m<sup>3</sup>.
+
+<sup>4</sup> The FOEN shall issue recommendations on suitable procedures to determine emissions of gaseous organic substances from natural raw materials.
 
 ### 115 Dust
 
@@ -1470,7 +1427,7 @@ Emissions of polychlorinated dibenzo-p-dioxins (dioxins) and dibenzofurans (fura
 
 <sup>1</sup> The flue gas content of the following must be continuously measured and recorded:
 
-- a. nitrogen oxides;
+- a. nitrogen oxides und ammonia;
 - b. sulphur oxides;
 - c. gaseous organic substances;
 - d. dust.
@@ -1510,7 +1467,7 @@ The provisions of Number 81 apply.
 
 ### 131 Scope
 
-The provisions of this Number apply to installations which produce more than 2 tonnes of glass per year.
+The provisions of this Number apply to installations that produce more than 2 tonnes of glass per year.
 
 ### 132 Reference value
 
@@ -1586,7 +1543,7 @@ The provisions of this Number apply to installations for the production of sulph
 
 <sup>1</sup> The emission limitation requirement specified for sulphur dioxide in Annex 1 Number 6 does not apply.
 
-<sup>2</sup> Emissions of sulphur dioxide must not exceed 2.6 kg per tonne of 100 % sulphuric acid.
+<sup>2</sup> Emissions of sulphur dioxide must not exceed 2.6 kg per tonne of 100% sulphuric acid.
 
 ### 213 Sulphur trioxide
 
@@ -1726,7 +1683,7 @@ Emissions of nitrogen oxides (nitrogen monoxide and nitrogen dioxide), expressed
 
 <sup>1</sup> Gases from desulphurisation installations and other sources shall be further processed if they simultaneously meet the following conditions:
 
-- a. volume content of hydrogen sulphide more than 0.4 %
+- a. volume content of hydrogen sulphide more than 0.4%
 - b. mass flow of hydrogen sulphide more than 2 t/day
 
 <sup>2</sup> Emissions of hydrogen sulphide in gases which are not further processed must not exceed 10 mg/m<sup>3</sup>.
@@ -1747,7 +1704,7 @@ The provisions of this Number apply to large storage tank installations with a c
 
 Fixed-roof tanks with internal floating cover, floating-roof tanks equipped with effective seals or other equivalent measures to reduce emissions shall be provided for storage.
 
-### 33 Installations for transshipment of petrol
+### 33 Installations for trans-shipment of petrol
 
 <sup>1</sup> The filling of road tankers, tank wagons or similar transport containers with automotive or aviation petrol must be carried out using bottom loading or other equivalent measures to reduce emissions.
 
@@ -1862,7 +1819,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -1973,7 +1930,17 @@ Dust emissions shall be limited as far as is technically and operationally feasi
 
 The provisions of Number 81 also apply to installations in which products are treated by direct contact with furnace flue gases.
 
-### 55 ...
+### 55 Installations for storing and spreading liquid farmyard manure
+
+### 551 Storage of liquid farmyard manure
+
+Facilities for the storage of liquid manure and liquid fermentation products must be equipped with a permanently effective cover to limit ammonia and odour emissions. The FOEN and the Federal Office for Agriculture shall issue joint recommendations.
+
+### 552 ...****
+
+[^annex2-lvlu1-lvl5-lvl56-1]
+
+[^annex2-lvlu1-lvl5-lvl56-1]: Comes into force on 1 Jan. 2024 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682), [789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 56 Installations for roasting coffee and cocoa
 
@@ -2402,7 +2369,7 @@ Emissions of carbon monoxide must not exceed 50 mg/m<sup>3</sup>.
 
 ## Additional or different emission limitation requirements for combustion installations
 
-[^t-3]: Amended by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Revised by No II of the O of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 22 Oct. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No. I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)) and No II of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). See also the transitional provision to the Amendment of 11 April 2018 above. The correction of 11 Dec. 2018 concerns the Itaian text only ([AS 2018 4709](https://fedlex.data.admin.ch/eli/oc/2018/748)).
+[^t-3]: Amended by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)). Revised by No II of the O of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 22 Oct. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) and No II of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). See also the transitional provision to the Amendment of 11 April 2018 above.
 
 ### 1 Scope
 
@@ -2602,7 +2569,7 @@ In combustion installations with a rated thermal input of less than 1 MW, only c
 <tr><td>– Ammonia and ammonium compounds, expressed as ammonia<sup>3</sup></td><td colspan="3">mg/m<sup>3</sup></td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">30</td><td colspan="2">30</td></tr>
 <tr><td colspan="14">[tab] *Notes:*</td></tr>
 <tr><td colspan="14">– A dash in the table means that no limitations are specified either in Annex 3 or in Annex 1.</td></tr>
-<tr><td colspan="14"><sup>1</sup> In the case of one off basic stoves as specified inr SN EN 15544 (one off tiled/mortared stoves – dimensioning)[^annex3-lvlu1-lvl5-lvl52-lvl522-1] the emission limits for solids and CO apply up to 70 kW irrespective of their rated thermal input.</td></tr>
+<tr><td colspan="14"><sup>1</sup> In the case of one off basic stoves as specified in SN EN 15544 (one off tiled/mortared stoves – dimensioning)[^annex3-lvlu1-lvl5-lvl52-lvl522-1] the emission limits for solids and CO apply up to 70 kW irrespective of their rated thermal input.</td></tr>
 <tr><td colspan="14"><sup>2</sup> Does not apply to central heating cookers.</td></tr>
 <tr><td colspan="14"><sup>3</sup> See the limit value specified for nitrogen oxides in Annex 1 Number 6.</td></tr>
 <tr><td colspan="14"><sup>4</sup> This emission limitation requirement is only relevant for combustion installations fitted with a denitrification system.</td></tr>
@@ -2630,18 +2597,21 @@ Hand-stoked boilers with a rated heat output of up to 500 kW must be fitted with
 
 <sup>2</sup> Automatic boilers with a rated heat output of up to 500 kW must be fitted with a heat accumulator with a volume of at least 25 litres per kW of rated heat output. The foregoing does not apply to wood pellet boilers with a rated thermal input of up to 70 kW.
 
-<sup>3</sup> In derogation from paragraphs 1 and 2, the authority may specify smaller accumulator volumes if this is appropriate for technical or operational reasons.
+<sup>2bis</sup> In the case of boilers with a rated heat output of over 500 kW, the authority shall specify the accumulator volume. If these boilers are used to heat rooms or water, they must be fitted with a heat accumulator with a volume of at least 25 litres per kW of rated heat output.
 
-<sup>4</sup> Where two or more individual installations as specified in paragraphs 1 or 2 are operated as a single operating unit in order to cover a variable heat or steam requirement in changing constellations, the authority may specify smaller accumulator volumes.
+<sup>3</sup> In derogation from paragraphs 1, 2 and 2<sup>bis</sup>, the authority may specify a smaller accumulator volume if.
+
+- a. two or more individual installations as are operated as a single operating unit in order to cover a variable heat or steam requirement in changing situations;
+- b. this is appropriate for technical or operational reasons
 
 ### 524 Measurement and control
 
-<sup>1</sup> Series-produced local space heaters in accordance with Number 22 letter f are exempted from an acceptance measurement provided a declaration of performance or an equivalent declaration from the manufacturer pursuant to Article 20*e* is submitted.
+<sup>1</sup> Series-produced local space heaters in accordance with Number 22 letter f are exempted from an acceptance measurement provided that it is confirmed by means of a declaration of conformity under Article 7 of the Energy Efficiency Ordinance of 1 November 2017[^annex3-lvlu1-lvl5-lvl52-lvl524-1] (EnEO) that the installation meets the requirements set out in Annex 1.19 EnEO.
 
 <sup>2</sup> Local space heaters in accordance with Number 22 letter f that are produced by craftsmen are exempted from an acceptance measurement if:
 
 - a. they have been constructed according to a recognised calculation procedure, in particular the tiled stove calculation program of the feusuisse association; or
-- b. they are equipped with a dust removal system that corresponds to the best available technology, in particular the requirements of the VDI 3670 technical standard[^annex3-lvlu1-lvl5-lvl52-lvl524-1] (waste gas cleaning – downstream dust control devices for small-sized solid fuel combustion systems).
+- b. they are equipped with a dust removal system that corresponds to the best available technology, in particular the requirements of the VDI 3670 technical standard[^annex3-lvlu1-lvl5-lvl52-lvl524-2] (waste gas cleaning – downstream dust control devices for small-sized solid fuel combustion systems).
 
 <sup>3</sup> Historic stoves that are worthy of protection up to volume of 0.4 m<sup>3</sup> and cookers produced by craftsmen are also exempted from the acceptance measurement if they were built according to the recognised rules of combustion technology or are equipped with a dust removal system in accordance with paragraph 2 letter b.
 
@@ -2651,7 +2621,8 @@ Hand-stoked boilers with a rated heat output of up to 500 kW must be fitted with
 
 <sup>6</sup> In the case of local space heaters that under Number 22 letter f do not require regular measurements, the authority shall in particular check combustion residues and the condition of the installation. It shall on the first occasion provide information on how to use the installation properly and on how to use and store thermal fuels.
 
-[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: This standard may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-lvl5-lvl52-lvl524-1]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^annex3-lvlu1-lvl5-lvl52-lvl524-2]: This standard may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 ### 525 Requirements for dust removal systems
 
@@ -2700,13 +2671,13 @@ Emissions from combustion installations operating on gaseous fuels must not exce
 
 <sup>1</sup> The flue gas losses from furnaces and boilers must not exceed the following limit values:
 
-- a. For forced draught burners with single-stage operation and for gas burners 7 %
+- a. For forced draught burners with single-stage operation and for gas burners 7%
 - b.
 
   For forced draught burners with two-stage operation:
 
-  - 1\. during first-stage operation 6 %
-  - 2\. during second-stage operation 8 %
+  - 1\. during first-stage operation 6%
+  - 2\. during second-stage operation 8%
 
 <sup>1bis</sup> Flue gas losses from boilers used to heat rooms or water that are commissioned from 1 January 2019 must not exceed 4 per cent.
 
@@ -2733,7 +2704,7 @@ If a single installation operates alternately on different kinds of fuel, the em
 
 <sup>2</sup> The composite limit value is calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image2.png)
 
 where:
 
@@ -2751,71 +2722,15 @@ where:
 
 (Art. 3 para. 2 let. c)
 
-## Requirements for combustion installations, construction machines and particle filter systems, and machines and equipment with internal combustion engines
+## Requirements for construction machines and particle filter systems, and machines and equipment with internal combustion engines
 
-[^t-4]: Amended by No II of the O of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Revised by No II of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 19 Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), of 22 Oct. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), No I and II of the O of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No III 1 of the O of 22 June 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)) and No II of the O of 11 April 2018, in force since 1 June 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)). See also the Transitional Provisions of the Amendments of 4 July 2007, and 19 Sept. 2008 above.
+[^t-4]: Amended by No II of the O of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Revised by No II of the O of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 19 Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), of 22 Oct. 2008 ([AS 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), No I and II of the O of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No III 1 of the O of 22 June 2016 ([AS 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) and No II of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). See also the transitional provisions to the Amendments of 4 July 2007 and 19 Sept. 2008 above.
 
 ### 1 Scope
 
-The provisions of this Annex apply to combustion installations as specified in Articles 20 paragraph 1 and 20*d*, construction machines and particle filter systems as specified in Article 19*a* and machines and equipment with internal combustion engines as specified in Article 20*b*.
+The provisions of this Annex apply construction machines and particle filter systems as specified in Article 19*a* and machines and equipment with internal combustion engines as specified in Article 20*b*.
 
-### 2 Requirements for combustion installations
-
-### 21 Air pollution control requirements
-
-### 211 Oil- and gas-fired installations
-
-Oil- and gas-fired installations must comply with the air pollution control requirements of the relevant European standards, and the emission limit values given in the following Table.
-
-<table>
-<tr><th>Type of installation</th><th>Relevant European standard[^annex4-lvlu1-lvl2-lvl21-lvl211-1]</th><th>Relevant emission class or emission limit value for nitrogen oxides (NO<sub>x</sub>) and for carbon monoxide (CO)</th></tr>
-<tr><td>Forced draught burners for «extra light» heating oil (Art. 20 para. 1 let. a)</td><td>EN 267</td><td>NO<sub>x</sub> class 3 CO class 3</td></tr>
-<tr><td>Gas-fired automatic forced draught burners (Art. 20 para. 1 let. a)</td><td>EN 676</td><td>NO<sub>x</sub> class 3 CO: 100 mg/kWh</td></tr>
-<tr><td>Boilers with forced draught burners for «extra light» heating oil (Art. 20 para. 1 let. b and c)</td><td>EN 303 and 304</td><td>NO<sub>x</sub> class 3 CO class 3</td></tr>
-<tr><td>Gas-fired boilers with forced draught burners (Art. 20 para. 1 let. b and c)</td><td>EN 303 and 304</td><td>NO<sub>x</sub> class 3 CO: 100 mg/kWh</td></tr>
-<tr><td>Gas-fired boilers (Art. 20 para. 1 let. d)</td><td>EN 656, EN 15502</td><td>NO<sub>x</sub> class 5 CO: 100 mg/kWh</td></tr>
-<tr><td>Direct gas-fired storage water heaters (boilers) (Art. 20 para. 1 let. f)</td><td>EN 89</td><td>NO<sub>x</sub> class 5</td></tr>
-<tr><td>Gas-fired instantaneous water heaters (Article 20 paragraph 1 letter g)</td><td>EN 26</td><td></td></tr>
-</table>
-
-[^annex4-lvlu1-lvl2-lvl21-lvl211-1]: These standards may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-
-### 212 Coal- and wood-fired installations
-
-Coal- and wood-fired installations must comply with the air pollution control requirements of the relevant European standards, and the emission limit values given in the following Table.
-
-<table>
-<tr><td>Type of installation</td><td>Relevant European standard[^annex4-lvlu1-lvl2-lvl21-lvl212-1]</td><td></td><td colspan="2">Relevant emission class or emission limit values<sup>a</sup> for carbon monoxide (CO) and for solids (dust)</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>CO</td><td colspan="2">Dust</td></tr>
-<tr><td>Boilers fired by firewood and coal, hand stoked</td><td>EN 303-5 or EN 12809</td><td>mg/m<sup>3</sup></td><td>800</td><td colspan="2">50</td></tr>
-<tr><td>Boilers fired by wood chips and coal, automatically stoked</td><td>EN 303-5 or EN 12809</td><td>mg/m<sup>3</sup></td><td>400</td><td colspan="2">60</td></tr>
-<tr><td>Boilers fired by wood pellets, automatically stoked</td><td>EN 303-5 or EN 12809</td><td>mg/m<sup>3</sup></td><td>300</td><td colspan="2">40</td></tr>
-<tr><td>Residential cookers fired by solid fuels</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td colspan="2">90</td></tr>
-<tr><td>Central heating cookers fired by solid fuel</td><td>EN 12815</td><td>mg/m<sup>3</sup></td><td>3000</td><td colspan="2">120</td></tr>
-<tr><td>Inset appliances and open fires fired by solid fuels</td><td>EN 13229</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
-<tr><td>Room heaters fired by solid fuels</td><td>EN 13240</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
-<tr><td>Room heaters fired by wood pellets</td><td>EN 14785</td><td>mg/m<sup>3</sup></td><td>500</td><td colspan="2">40</td></tr>
-<tr><td>Slow heat release appliances fired by solid fuels</td><td>EN 15250</td><td>mg/m<sup>3</sup></td><td>1500</td><td colspan="2">75</td></tr>
-<tr><td>Pellet burners for small boilers</td><td>EN 15270</td><td></td><td>Class 4</td><td colspan="2">Class 4</td></tr>
-<tr><td colspan="6"><sup>a</sup> Reference oxygen content: – for wood-fired installations 13 % vol; – for coal-fired installations 7 % vol.</td></tr>
-</table>
-
-[^annex4-lvlu1-lvl2-lvl21-lvl212-1]: These standards may be viewed free of charge or obtained for a fee from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-
-### 22 ...
-
-### 23 Markings
-
-<sup>1</sup> The manufacturer shall affix to each combustion installation a readily visible, durable and clearly legible data plate/label which includes the information required by the relevant European standards, but at least the following details:
-
-- a. name of the manufacturer or trademark of the installation;
-- b. trade name, type designation or model number;
-- c. number of the relevant European standard according to which the equipment was tested in accordance with Number 21;
-- d. rated thermal input, rated heat output/space heat output or corresponding output range in W or kW.
-
-<sup>2</sup> The data plate/label of oil- and gas-fired installations must also indicate the NO<sub>x</sub> class of the relevant European standard.
-
-<sup>3</sup> The data plate/label of wood- and coal-fired installations must also indicate the emission values for CO and dust in mg/m<sup>3</sup>, based on the relevant flue gas oxygen content, measured in accordance with Number 212.
+### 2 …
 
 ### 3 Air pollution control requirements for construction machines and particle filter systems
 
@@ -2829,7 +2744,7 @@ Coal- and wood-fired installations must comply with the air pollution control re
 
 <sup>3</sup> The requirements specified in paragraph 2 are deemed to be complied with if the construction machine is operated with a particle filter system which meets the requirements specified in Number 32.
 
-[^annex4-lvlu1-lvl3-lvl31-1]: OJ. L 59 of 27.02.1998, p. 1; last amended by Directive 2012/46/EU, OJ. L 353 of 06.12.2012, p. 80.
+[^annex4-lvlu1-lvl3-lvl31-1]: OJ L 59 of 27.02.1998, p. 1; last amended by Directive 2012/46/EU, OJ L 353 of 06.12.2012, p. 80.
 [^annex4-lvlu1-lvl3-lvl31-2]: UNECE Regulation No 49 of 15 Apr. 1982 on uniform provisions concerning the measures to be taken against the emission of gaseous and particulate pollutants from compression ignition engines for use in vehicles and the emission of gaseous pollutants from positive ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles; last amended by the 04 series of amendments, addendum 8, in force since 22 Jan. 2015, Annex 4C, Particle Number Measurement Test Procedure. Available from: www.unece.org. This regulation May be viewed free of charge at the Federal Office for the Environment, Worblentalstr. 68, 3063 Ittigen.
 [^annex4-lvlu1-lvl3-lvl31-3]: See footnote to Art. 19*b* para. 1<sup>bis</sup>.
 
@@ -2898,7 +2813,7 @@ Coal- and wood-fired installations must comply with the air pollution control re
 
 ## Requirements for thermal and motor fuels
 
-[^t-5]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), No I of the O of 25 Aug. 1999 ([AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), No II of the O of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 19 Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), und No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).. See also the Transitional Provisions of the Amendment of 19 Sept. 2008 above.
+[^t-5]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), No I of the O of 25 Aug. 1999 ([AS 1999 2498](https://fedlex.data.admin.ch/eli/oc/1999/386)), No II of the O of 23 June 2004 ([AS 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), of 4 July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of 19 Sept. 2008 ([AS 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) and No I of the O of 12 Feb. 2020, in force since 1 April 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)). See also the Transitional Provisions of the Amendment of 19 Sept. 2008 above.
 
 ### 1 Heating oils and other liquid fuels
 
@@ -3224,15 +3139,15 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image3.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image4.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20211130/en/xml/image/image5.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20220101/en/xml/image/image5.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)
