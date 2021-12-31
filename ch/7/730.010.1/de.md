@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 1. November 2017 über den Herkunftsnachweis und 
 short: HKSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/764"
 language: de
-version: 2019-04-02
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20190402/de/xml/fedlex-data-admin-ch-eli-cc-2017-764-20190402-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20190402/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-764-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20190402/de"
 
 (HKSV)
 
-vom 1. November 2017 (Stand am 2. April 2019)
+vom 1. November 2017 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -68,20 +68,23 @@ Der Herkunftsnachweis umfasst insbesondere:
 
 <sup>1</sup> Grundlage für die Registrierung der Anlage bilden die Angaben nach Artikel 1 Absatz 2 Buchstaben c–g.
 
-<sup>2</sup>
+<sup>2</sup> Die Angaben müssen durch eine für diesen Fachbereich akkreditierte Konformitätsbewertungsstelle (Auditorin) beglaubigt werden.[^2-1]
 
-Die Angaben müssen durch eine für diesen Fachbereich akkreditierte Konformitätsbewertungsstelle (Auditorin) beglaubigt werden. Bei Anlagen mit einer wechselstromseitigen Nennleistung von höchstens 30 kVA und bei Anlagen mit bestehenden Verträgen nach Artikel 73 Absatz 4 EnG[^2-1] reicht eine Beglaubigung durch:
+<sup>2bis</sup>
+
+Bei Photovoltaikanlagen mit einer Anlagenleistung von weniger als 100 kW reicht eine Beglaubigung durch:
 
 - a. die Betreiberin der Messstelle, sofern diese vom Produzenten rechtlich entflochten ist; oder
-- b. ein Kontrollorgan, das über eine Kontrollbewilligung nach Artikel 27 der Niederspannungs-Installationsverordnung vom 7. November 2001[^2-2] verfügt.[^2-3]
+- b. ein Kontrollorgan, das über eine Kontrollbewilligung nach Artikel 27 der Niederspannungs-Installationsverordnung vom 7. November 2001[^2-2] verfügt und an einer von der Vollzugsstelle durchgeführten Schulung teilgenommen hat.[^2-3]
 
-<sup>3</sup> Die Vollzugsstelle überprüft regelmässig die Daten der registrierten Anlage und die erfassten Produktionsdaten. Sie kann zu diesem Zweck Kontrollen vor Ort durchführen und eine periodische Erneuerung der Beglaubigung nach Absatz 2 verlangen.
+<sup>3</sup> Die Vollzugsstelle überprüft regelmässig die Daten der registrierten Anlage und die erfassten Produktionsdaten. Sie kann zu diesem Zweck Kontrollen vor Ort durchführen und eine periodische Erneuerung der Beglaubigung verlangen.[^2-4]
 
 <sup>4</sup> Der Produzent muss der Vollzugsstelle jede Änderung der Anlagedaten der betreffenden Produktionsanlage unverzüglich melden.
 
-[^2-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^2-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 [^2-2]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^2-3]: Fassung gemäss Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^2-3]: Eingefügt durch Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^2-4]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 #### Art. 3
 
@@ -89,8 +92,10 @@ Die Angaben müssen durch eine für diesen Fachbereich akkreditierte Konformitä
 
 Nicht registriert werden können Anlagen mit:
 
-- a. einer Gleichstrom-Spitzenleistung von weniger als 2 kW bei der Photovoltaik;
+- a.[^3-1] einer Anlagenleistung von weniger als 2 kW bei der Photovoltaik;
 - b. einer wechselstromseitigen Nennleistung von weniger als 2 kVA bei den übrigen Technologien.
+
+[^3-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 #### Art. 4
 
@@ -181,11 +186,21 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt.
 
 #### Art. 9a
 
-**Übergangsbestimmung**[^9a-1]
+**Übergangsbestimmung zur Änderung vom 20. Februar 2019[^9a-2]**[^9a-1]
 
 Die Vorgaben in Anhang 1 gelten erstmals für das Lieferjahr 2019.
 
 [^9a-1]: Eingefügt durch Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)). Berichtigung vom 2. April 2019 ([AS 2019 1081](https://fedlex.data.admin.ch/eli/oc/2019/205)).
+[^9a-2]: Fassung gemäss Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+
+#### Art. 9b
+
+**Übergangsbestimmung zur Änderung vom 24. November 2021**[^9b-1]
+
+Muss die Beglaubigung der Angaben nach Artikel 1 Absatz 2 Buchstaben c–g bei einer Anlage erneuert werden, für die ein Vertrag zur Mehrkostenfinanzierung nach Artikel 73 Absatz 4 EnG[^9b-2] besteht, so kann diese Erneuerung sowohl von einer Auditorin als auch von einer Person nach Artikel 2 Absatz 2<sup>bis</sup> vorgenommen werden.
+
+[^9b-1]: Eingefügt durch Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^9b-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 10
 
@@ -193,13 +208,13 @@ Die Vorgaben in Anhang 1 gelten erstmals für das Lieferjahr 2019.
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 1 und 8)
 
 ## Anforderungen an die Stromkennzeichnung
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 ### 1 Energieträger und Zuordnung
 
@@ -213,27 +228,27 @@ Anhang 1[^t-1]
 <tr><td></td><td>Sonnenenergie</td></tr>
 <tr><td></td><td>Windenergie</td></tr>
 <tr><td></td><td>Biomasse <sup>a</sup></td></tr>
-<tr><td></td><td>Geothermie</td></tr>
-<tr><td>– Geförderter Strom <sup>b</sup></td><td></td></tr>
+<tr><td></td><td>Siedlungsabfälle <sup>b</sup> Geothermie</td></tr>
+<tr><td>– Geförderter Strom <sup>c</sup></td><td></td></tr>
 <tr><td>Nicht erneuerbare Energien</td><td></td></tr>
 <tr><td>– Kernenergie</td><td></td></tr>
 <tr><td>– Fossile Energieträger</td><td></td></tr>
 <tr><td></td><td>Erdöl</td></tr>
 <tr><td></td><td>Erdgas</td></tr>
 <tr><td></td><td>Kohle</td></tr>
-<tr><td></td><td>Abfälle <sup>c</sup></td></tr>
-<tr><td colspan="2"><sup>a</sup> Feste und flüssige Biomasse, Abfälle aus Biomasse sowie Biogas</td></tr>
-<tr><td colspan="2"><sup>b</sup> nach Artikel 19 des Gesetzes (Einspeisevergütung)</td></tr>
-<tr><td colspan="2"><sup>c</sup> Fossile Anteile der Abfälle in Kehrichtverbrennungsanlagen und Deponien</td></tr>
+<tr><td></td><td>Siedlungsabfälle <sup>d</sup></td></tr>
+<tr><td colspan="2"><sup>a</sup> Feste und flüssige Biomasse mit Ausnahme der erneuerbaren Anteile der Siedlungsabfälle sowie Biogas <sup>b</sup> Erneuerbare Anteile der Siedlungsabfälle in Kehrrichtverbrennungsanlagen</td></tr>
+<tr><td colspan="2"><sup>c</sup> nach Artikel 19 des Gesetzes (Einspeisevergütung)</td></tr>
+<tr><td colspan="2"><sup>d</sup> Fossile Anteile der Siedlungsabfälle in Kehrichtverbrennungsanlagen</td></tr>
 </table>
 
 - 1\.2 Sind in den Hauptkategorien «übrige erneuerbare Energien» und «fossile Energieträger» Anteile zu verbuchen, so müssen diejenigen dazugehörenden Unterkategorien aufgeführt werden, bei denen der Wert grösser als Null ist.
-- 1\.3 Als Basis für die Zuteilung zu einer Kategorie dient der Herkunftsnachweis nach Artikel 1 oder ein europäischer Herkunftsnachweis nach Artikel 15 der Richtlinie 2009/28/EG[^annex1-lvlu1-lvl1-1]. Werden für die Stromproduktion aus nicht erneuerbare Energien in einem europäischen Land keine europäischen Herkunftsnachweise ausgestellt, so kann die Vollzugsstelle entsprechende Ersatznachweise erfassen. Dazu muss bei der Vollzugsstelle eine Bestätigung des Produzenten eingereicht werden, wonach die Herkunft der entsprechenden Elektrizitätsmenge niemand anderem zugeteilt wird.
+- 1\.3 Als Basis für die Zuteilung zu einer Kategorie dient der Herkunftsnachweis nach Artikel 1 oder ein europäischer Herkunftsnachweis nach Artikel 19 der Richtlinie (EU) 2018/2001[^annex1-lvlu1-lvl1-1]. Werden für die Stromproduktion aus nicht erneuerbaren Energien in einem europäischen Land keine europäischen Herkunftsnachweise ausgestellt, so kann die Vollzugsstelle entsprechende Ersatznachweise erfassen. Dazu muss bei der Vollzugsstelle eine Bestätigung des Produzenten eingereicht werden, wonach die Herkunft der entsprechenden Elektrizitätsmenge niemand anderem zugeteilt wird.
 - 1\.4 Die nach Artikel 19 EnG[^annex1-lvlu1-lvl1-2] ausgewiesene Elektrizitätsmenge wird der Hauptkategorie «geförderter Strom» in der Hauptkategorie «erneuerbare Energien» zugeschlagen. Die Aufteilung der Energieträger muss in einer Fussnote aufgeführt werden.
 - 1\.5 Jede Kategorie enthält die Angabe der Anteile der im Inland bzw. im Ausland produzierten Elektrizität.
 - 1\.6 Nicht direkt an die eigenen Endverbraucherinnen und Endverbraucher gelieferte Elektrizität muss für die Berechnung des Lieferanten- oder des Produktemixes nach Artikel 4 Absatz 2 EnV in Abzug gebracht werden. Dies gilt insbesondere für vertraglich vereinbarte Lieferungen von Elektrizität einer oder mehrerer Energieträger-Kategorien an in- oder ausländische Wiederverkäufer oder an ausländische Endverbraucherinnen und Endverbraucher.
 
-[^annex1-lvlu1-lvl1-1]: Richtlinie 2009/28/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen und zur Änderung und anschliessenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG, ABl. L 140 vom 5.6.2009, S. 16.
+[^annex1-lvlu1-lvl1-1]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen, Fassung gemäss ABl. L 328 vom 21.12.2018, S. 82.
 [^annex1-lvlu1-lvl1-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 ### 2 Kennzeichnung
@@ -251,20 +266,20 @@ Figur 1
 <tr><td colspan="6">Stromkennzeichnung</td></tr>
 <tr><td>Ihr Stromlieferant:</td><td>EVU ABC</td><td colspan="4">(Bsp.)</td></tr>
 <tr><td>Kontakt:</td><td colspan="4">www.evu-abc.ch, (Bsp.), Tel. 099 999 99 99</td><td></td></tr>
-<tr><td>Bezugsjahr:</td><td>2018</td><td colspan="4"></td></tr>
+<tr><td>Bezugsjahr:</td><td>2019</td><td colspan="4"></td></tr>
 <tr><td colspan="3">Der gesamthaft unseren Kundinnen und Kunden gelieferte Strom wurde produziert aus:</td><td></td><td colspan="2"></td></tr>
 <tr><td>in %</td><td>**Total**</td><td colspan="4">**aus der Schweiz**</td></tr>
-<tr><td>erneuerbaren Energien</td><td>**55,0 %**</td><td colspan="4">**45,0 %**</td></tr>
+<tr><td>erneuerbaren Energien</td><td>**58,0 %**</td><td colspan="4">**48,0 %**</td></tr>
 <tr><td>Wasserkraft</td><td>50,0 %</td><td colspan="4">40,0 %</td></tr>
 <tr><td>übrige erneuerbare Energien</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Biomasse</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>geförderter Strom<sup>1</sup></td><td>4,0 %</td><td colspan="4">4,0 %</td></tr>
-<tr><td>**nicht erneuerbaren Energien**</td><td>**45,0 %**</td><td colspan="4">**30,0 %**</td></tr>
-<tr><td>Kernenergie</td><td>44,0 %</td><td colspan="4">29,0 %</td></tr>
+<tr><td>Biomasse Siedlungsabfälle</td><td>0,5 % 0,5 %</td><td colspan="4">0,5 % 0,5 %</td></tr>
+<tr><td>geförderter Strom<sup>1</sup></td><td>7,0 %</td><td colspan="4">7,0 %</td></tr>
+<tr><td>**nicht erneuerbaren Energien**</td><td>**42,0 %**</td><td colspan="4">**27,0 %**</td></tr>
+<tr><td>Kernenergie</td><td>41,0 %</td><td colspan="4">26,0 %</td></tr>
 <tr><td>fossile Energieträger</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Abfälle</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
+<tr><td>Siedlungsabfälle</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
 <tr><td>**Total**</td><td>**100,0 %**</td><td colspan="4">**75,0 %**</td></tr>
-<tr><td colspan="6"><sup>1</sup> **Geförderter Strom: 40 % Wasserkraft, 20 % Sonnenenergie, 7 % Windener****gie, 30 % Biomasse und Abfälle aus Biomasse, 3 % Geothermie**</td></tr>
+<tr><td colspan="6"><sup>1</sup> **Geförderter Strom: 40 % Wasserkraft, 20 % Sonnenenergie, 7 % Windener****gie, 29 % Biomasse, 1 % Siedlungsabfälle (erneuerbarer Anteil), 3 % Geothermie**</td></tr>
 </table>
 
 - Beispiel einer Tabelle zur Kennzeichnung von Elektrizität nach den Mindestanforderungen für die Angabe des Produktemixes:
@@ -272,25 +287,25 @@ Figur 1
 Figur 2
 
 <table>
-<tr><td colspan="6">Stromkennzeichnung</td></tr>
-<tr><td>Ihr Stromlieferant:</td><td>EVU ABC</td><td colspan="4">(Bsp.)</td></tr>
-<tr><td>Kontakt:</td><td colspan="4">www.evu-abc.ch (Bsp.), Tel. 099 999 99 99</td><td></td></tr>
-<tr><td>Bezugsjahr:</td><td>2018</td><td colspan="4"></td></tr>
-<tr><td colspan="3">Der Ihnen gelieferte Strom (Stromprodukt XYZ) wurde produziert aus:</td><td></td><td colspan="2"></td></tr>
-<tr><td>in %</td><td>**Total**</td><td colspan="4">**aus der Schweiz**</td></tr>
-<tr><td>erneuerbaren Energien</td><td>**99,0 %**</td><td colspan="4">**97,0 %**</td></tr>
-<tr><td>Wasserkraft</td><td>91,0 %</td><td colspan="4">91,0 %</td></tr>
-<tr><td>übrige erneuerbare Energien</td><td>4,0 %</td><td colspan="4">2,0 %</td></tr>
-<tr><td>Sonnenenergie</td><td>0,5 %</td><td colspan="4">0,5 %</td></tr>
-<tr><td>Windenergie</td><td>2,0 %</td><td colspan="4">0,0 %</td></tr>
-<tr><td>Biomasse</td><td>1,5 %</td><td colspan="4">1,5 %</td></tr>
-<tr><td>geförderter Strom<sup>1</sup></td><td>4,0 %</td><td colspan="4">4,0 %</td></tr>
-<tr><td>**nicht erneuerbaren Energien**</td><td>**1,0 %**</td><td colspan="4">**1,0** **%**</td></tr>
-<tr><td>Kernenergie</td><td>0,0 %</td><td colspan="4">0,0 %</td></tr>
-<tr><td>fossile Energieträger</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Abfälle</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>**Total**</td><td>**100,0 %**</td><td colspan="4">**98,0 %**</td></tr>
-<tr><td colspan="6"><sup>1</sup> **Geförderter Strom: 40 % Wasserkraft, 20 % Sonnenenergie, 7 % Windenergie, 30 % Biomasse und Abfälle aus Biomasse, 3 % Geothermie**</td></tr>
+<tr><td colspan="4">Stromkennzeichnung</td></tr>
+<tr><td>Ihr Stromlieferant:</td><td>EVU ABC</td><td colspan="2">(Bsp.)</td></tr>
+<tr><td>Kontakt:</td><td colspan="2">www.evu-abc.ch (Bsp.), Tel. 099 999 99 99</td><td></td></tr>
+<tr><td>Bezugsjahr:</td><td>2019</td><td colspan="2"></td></tr>
+<tr><td colspan="4">Der Ihnen gelieferte Strom (Stromprodukt XYZ) wurde produziert aus:</td></tr>
+<tr><td>in %</td><td>**Total**</td><td colspan="2">**aus der Schweiz**</td></tr>
+<tr><td>erneuerbaren Energien</td><td>**99,0 %**</td><td colspan="2">**97,0 %**</td></tr>
+<tr><td>Wasserkraft</td><td>88,0 %</td><td colspan="2">88,0 %</td></tr>
+<tr><td>übrige erneuerbare Energien</td><td>4,0 %</td><td colspan="2">2,0 %</td></tr>
+<tr><td>Sonnenenergie</td><td>0,5 %</td><td colspan="2">0,5 %</td></tr>
+<tr><td>Windenergie</td><td>2,0 %</td><td colspan="2">0,0 %</td></tr>
+<tr><td>Biomasse Siedlungsabfälle</td><td>1,0 % 0,5 %</td><td colspan="2">1,0 % 0,5 %</td></tr>
+<tr><td>geförderter Strom<sup>1</sup></td><td>7,0 %</td><td colspan="2">7,0 %</td></tr>
+<tr><td>**nicht erneuerbaren Energien**</td><td>**1,0 %**</td><td colspan="2">**1,0** **%**</td></tr>
+<tr><td>Kernenergie</td><td>0,0 %</td><td colspan="2">0,0 %</td></tr>
+<tr><td>fossile Energieträger</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>Siedlungsabfälle</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>**Total**</td><td>**100,0 %**</td><td colspan="2">**98,0 %**</td></tr>
+<tr><td colspan="4"><sup>1</sup> **Geförderter Strom: 40 % Wasserkraft, 20 % Sonnenenergie, 7 % Windenergie, 29 % Biomasse, 1 % Siedlungsabfälle (erneuerbarer Anteil), 3 % Geothermie**</td></tr>
 </table>
 
 Anhang 2
@@ -311,6 +326,6 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [[AS 2006 5361](https://fedlex.data.admin.ch/eli/oc/2006/816), [2008 1221](https://fedlex.data.admin.ch/eli/oc/2008/225), [2011 4103](https://fedlex.data.admin.ch/eli/oc/2011/576), [2012 5825](https://fedlex.data.admin.ch/eli/oc/2012/679), [2013 3657](https://fedlex.data.admin.ch/eli/oc/2013/682)]
+[^annex2-lvlu1-1]: [[AS 2006 5361](https://fedlex.data.admin.ch/eli/oc/2006/816); [2008 1221](https://fedlex.data.admin.ch/eli/oc/2008/225); [2011 4103](https://fedlex.data.admin.ch/eli/oc/2011/576); [2012 5825](https://fedlex.data.admin.ch/eli/oc/2012/679); [2013 3657](https://fedlex.data.admin.ch/eli/oc/2013/682)]
 [^annex2-lvlu1-2]: [[AS 2003 769](https://fedlex.data.admin.ch/eli/oc/2003/148)]
 [^annex2-lvlu1-3]: Die Änderungen können unter [AS 2017 6939](https://fedlex.data.admin.ch/eli/oc/2017/764)konsultiert werden.

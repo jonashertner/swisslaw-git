@@ -4,11 +4,11 @@ title: "Ordinanza del DATEC del 1° novembre 2017 sulla garanzia di origine e l'
 short: OGOE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/764"
 language: it
-version: 2019-04-02
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20190402/it/xml/fedlex-data-admin-ch-eli-cc-2017-764-20190402-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20190402/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-764-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20190402/it"
 
 (OGOE)
 
-del 1° novembre 2017 (Stato 2 aprile 2019)
+del 1° novembre 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -68,20 +68,23 @@ La garanzia di origine comprende, in particolare:
 
 <sup>1</sup> La base per la registrazione dell’impianto è costituita dai dati di cui all’articolo 1 capoverso 2 lettere c–g.
 
-<sup>2</sup>
+<sup>2</sup> I dati devono essere certificati da un organismo di valutazione della conformità (auditor) accreditato per questo settore.[^2-1]
 
-I dati devono essere certificati da un organismo di valutazione della conformità (auditor) accreditato per questo settore. Per gli impianti con una potenza nominale in corrente alternata pari al massimo a 30 kVA e per gli impianti che dispongono di un contratto ai sensi dell’articolo 73 capoverso 4 LEne[^2-1] è sufficiente una certificazione da parte:
+<sup>2bis</sup>
+
+Per gli impianti fotovoltaici con una potenza dell’impianto inferiore a 100 kW è sufficiente una certificazione da parte:
 
 - a. del gestore del punto di misurazione, a condizione che sia giuridicamente distinto dal produttore; oppure
-- b. di un organo di controllo titolare di un’autorizzazione di controllo di cui all’articolo 27 dell’ordinanza del 7 novembre 2001[^2-2] sugli impianti a bassa tensione.[^2-3]
+- b. di un organo di controllo titolare di un’autorizzazione di controllo di cui all’articolo 27 dell’ordinanza del 7 novembre 2001[^2-2] sugli impianti a bassa tensione che ha partecipato a una formazione realizzata dall’organo di esecuzione.[^2-3]
 
-<sup>3</sup> L’organo di esecuzione verifica regolarmente i dati dell’impianto registrato e i dati di produzione rilevati. A questo scopo, può effettuare sopralluoghi ed esigere il rinnovo periodico della certificazione di cui al capoverso 2.
+<sup>3</sup> L’organo di esecuzione verifica regolarmente i dati dell’impianto registrato e i dati di produzione rilevati. A questo scopo, può effettuare sopralluoghi ed esigere il rinnovo periodico della certificazione.[^2-4]
 
 <sup>4</sup> Il produttore deve comunicare immediatamente all’organo di esecuzione ogni variazione relativa ai dati dell’impianto di produzione in questione.
 
-[^2-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^2-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 [^2-2]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^2-3]: Nuovo testo giusta il n. I dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^2-3]: Introdotto da n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^2-4]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 #### Art. 3
 
@@ -89,8 +92,10 @@ I dati devono essere certificati da un organismo di valutazione della conformit�
 
 Non possono essere registrati gli impianti con:
 
-- a. una potenza di picco in corrente continua inferiore a 2 kW per gli impianti fotovoltaici;
+- a.[^3-1] una potenza dell’impianto inferiore a 2 kW per gli impianti fotovoltaici;
 - b. una potenza nominale in corrente alternata inferiore a 2 kVA per le altre tecnologie.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 #### Art. 4
 
@@ -181,11 +186,21 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 #### Art. 9a
 
-**Disposizione transitoria**[^9a-1]
+**Disposizione transitoria della modifica del 20 febbraio 2019[^9a-2]**[^9a-1]
 
 Le disposizioni di cui all’allegato 1 si applicano per la prima volta nell’anno di fornitura 2019.
 
 [^9a-1]: Introdotto dal n. I dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)). Correzione del 2 apr. 2019 ([RU 2019 1081](https://fedlex.data.admin.ch/eli/oc/2019/205)).
+[^9a-2]: Nuovo testo giusta il n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+
+#### Art. 9b
+
+**Disposizione transitoria della modifica del 24 novembre 2021**[^9b-1]
+
+Se deve essere rinnovata la certificazione dei dati di cui all’articolo 1 capoverso 2 lettere c–g per un impianto per il quale sussiste un contratto di finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne[^9b-2], tale rinnovo può essere eseguito sia da un auditor sia da una persona di cui all’articolo 2 capoverso 2<sup>bis</sup>.
+
+[^9b-1]: Introdotto da n. I dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^9b-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 10
 
@@ -199,7 +214,7 @@ Allegato 1*[^t-1]*
 
 ## Esigenze in materia di etichettatura dell’elettricità
 
-[^t-1]: Aggiornato dal n. II dell’O del DATEC del 20 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^t-1]: Aggiornato dal n. II dell’O del DATEC del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 ### 1 Vettori energetici e attribuzione
 
@@ -213,27 +228,25 @@ Allegato 1*[^t-1]*
 <tr><td></td><td>Energia solare</td></tr>
 <tr><td></td><td>Energia eolica</td></tr>
 <tr><td></td><td>Biomassa <sup>a</sup></td></tr>
-<tr><td></td><td>Geotermia</td></tr>
-<tr><td>– Elettricità che beneficia di misure di promozione <sup>b</sup></td><td></td></tr>
+<tr><td></td><td>Rifiuti urbani <sup>b</sup> Geotermia</td></tr>
+<tr><td>– Elettricità che beneficia di misure di promozione <sup>c</sup></td><td></td></tr>
 <tr><td>Energie non rinnovabili</td><td></td></tr>
 <tr><td>– Energia nucleare</td><td></td></tr>
 <tr><td>– Vettori energetici fossili</td><td></td></tr>
 <tr><td></td><td>Petrolio</td></tr>
 <tr><td></td><td>Gas naturale</td></tr>
 <tr><td></td><td>Carbone</td></tr>
-<tr><td></td><td>Rifiuti <sup>c</sup></td></tr>
-<tr><td colspan="2"><sup>a</sup> Biomassa solida e liquida, scorie da biomassa e biogas.</td></tr>
-<tr><td colspan="2"><sup>b</sup> Secondo l’art. 19 della L (rimunerazione per l’immissione di elettricità).</td></tr>
-<tr><td colspan="2"><sup>c</sup> Quote fossili dei rifiuti in impianti di incenerimento e in discariche.</td></tr>
+<tr><td></td><td>Rifiuti urbani <sup>d</sup></td></tr>
+<tr><td colspan="2"><sup>a</sup> Biomassa solida e liquida, ad eccezione di quote rinnovabili dei rifiuti urbani e biogas. <sup>b</sup> Quote rinnovabili dei rifiuti urbani in impianti di incenerimento. <sup>c</sup> Secondo l’art. 19 della legge (rimunerazione per l’immissione di elettricità). <sup>d</sup> Quote fossili dei rifiuti urbani in impianti di incenerimento.</td></tr>
 </table>
 
 - 1\.2 Se vi sono quote di vettori energetici da contabilizzare nelle categorie principali «Altre energie rinnovabili» e «Vettori energetici fossili», devono essere indicate tutte le corrispondenti sottocategorie il cui valore è maggiore di zero.
-- 1\.3 La base per l’attribuzione a una categoria è costituita dalla garanzia di origine di cui all’articolo 1 o da una garanzia di origine europea secondo l’articolo 15 della direttiva 2009/28/CE[^annex1-lvlu1-lvl1-1]. Se in un Paese europeo non vengono emesse garanzie di origine europee per la produzione di elettricità da fonti non rinnovabili, l’organo di esecuzione può registrare corrispondenti garanzie sostitutive. A tale scopo è necessario presentare all’organo di esecuzione una dichiarazione del produttore che attesti che l’origine della quantità di elettricità corrispondente non è attribuita a nessun altro.
+- 1\.3 La base per l’attribuzione a una categoria è costituita dalla garanzia di origine di cui all’articolo 1 o da una garanzia di origine europea secondo l’articolo 19 della direttiva (UE) 2018/2001[^annex1-lvlu1-lvl1-1]. Se in un Paese europeo non vengono emesse garanzie di origine europee per la produzione di elettricità da fonti non rinnovabili, l’organo di esecuzione può registrare corrispondenti garanzie sostitutive. A tale scopo è necessario presentare all’organo di esecuzione una dichiarazione del produttore che attesti che l’origine della quantità di elettricità corrispondente non è attribuita a nessun altro.
 - 1\.4 La quantità di elettricità contabilizzata in base all’articolo 19 LEne[^annex1-lvlu1-lvl1-2] viene attribuita alla categoria principale «Elettricità che beneficia di misure di promozione» nella categoria principale «Energie rinnovabili». La suddivisione fra i vettori energetici deve essere indicata in una nota.
 - 1\.5 Ogni categoria contiene l’indicazione delle quote di elettricità prodotta in Svizzera e all’estero.
 - 1\.6 L’elettricità che non viene fornita direttamente ai propri consumatori finali deve essere dedotta nel calcolo del mix del fornitore e del mix del prodotto ai sensi dell’articolo 4 capoverso 2 OEn. Questa fattispecie si applica in particolare a forniture di elettricità, concordate contrattualmente, di una o più categorie di vettori energetici a rivenditori svizzeri o esteri o a consumatori finali esteri.
 
-[^annex1-lvlu1-lvl1-1]: Direttiva 2009/28/CE del Parlamento europeo e del Consiglio, del 23 aprile 2009, sulla promozione dell’uso dell’energia da fonti rinnovabili, recante modifica e successiva abrogazione delle direttive 2001/77/CE e 2003/30/CE, GU L 140 del 5.6.2009, pag. 16.
+[^annex1-lvlu1-lvl1-1]: Direttiva (UE) 2018/2001 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, sulla promozione dell’uso dell’energia da fonti rinnovabili, versione della GU L 328 del 21.12.2018, pag. 82.
 [^annex1-lvlu1-lvl1-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 ### 2 Etichettatura
@@ -248,23 +261,23 @@ Allegato 1*[^t-1]*
 Figura 1
 
 <table>
-<tr><td colspan="6">Etichettatura dell’elettricità</td></tr>
-<tr><td>Il vostro fornitore di elettricità:</td><td>AAE ABC</td><td colspan="4">(es.)</td></tr>
-<tr><td>Contatto:</td><td colspan="4">www.aae-abc.ch (es.), tel. 099 999 99 99</td><td></td></tr>
-<tr><td>Anno di riferimento:</td><td>2018</td><td colspan="4"></td></tr>
-<tr><td colspan="3">L’elettricità fornita ai nostri clienti è stata prodotta con:</td><td></td><td colspan="2"></td></tr>
-<tr><td>in %</td><td>**Totale**</td><td colspan="4">**dalla Svizzera**</td></tr>
-<tr><td>Energie rinnovabili</td><td>**55,0 %**</td><td colspan="4">**45,0 %**</td></tr>
-<tr><td>Forza idrica</td><td>50,0 %</td><td colspan="4">40,0 %</td></tr>
-<tr><td>Altre energie rinnovabili</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Biomassa</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Elettricità che beneficia di misure di promozione<sup>1</sup></td><td>4,0 %</td><td colspan="4">4,0 %</td></tr>
-<tr><td>**Energie non rinnovabili**</td><td>**45,0 %**</td><td colspan="4">**30,0 %**</td></tr>
-<tr><td>Energia nucleare</td><td>44,0 %</td><td colspan="4">29,0 %</td></tr>
-<tr><td>Vettori energetici fossili</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Rifiuti</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>**Totale**</td><td>**100,0 %**</td><td colspan="4">**75,0 %**</td></tr>
-<tr><td colspan="6"><sup>1</sup> **Elettricità che beneficia di misure di promozione: 40 % forza idrica, 20 % energia solare, 7 % energia eolica, 30 % biomassa e scorie da** **bio****massa, 3 % geotermia**</td></tr>
+<tr><td colspan="4">Etichettatura dell’elettricità</td></tr>
+<tr><td>Il vostro fornitore di elettricità:</td><td>AAE ABC</td><td colspan="2">(es.)</td></tr>
+<tr><td>Contatto:</td><td colspan="2">www.aae-abc.ch (es.), tel. 099 999 99 99</td><td></td></tr>
+<tr><td>Anno di riferimento:</td><td>2019</td><td colspan="2"></td></tr>
+<tr><td colspan="4">L’elettricità fornita ai nostri clienti è stata prodotta con:</td></tr>
+<tr><td>in %</td><td>**Totale**</td><td colspan="2">**dalla Svizzera**</td></tr>
+<tr><td>Energie rinnovabili</td><td>**58,0 %**</td><td colspan="2">**48,0 %**</td></tr>
+<tr><td>Forza idrica</td><td>50,0 %</td><td colspan="2">40,0 %</td></tr>
+<tr><td>Altre energie rinnovabili</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>Biomassa Rifiuti urbani</td><td>0,5 % 0,5 %</td><td colspan="2">0,5 % 0,5 %</td></tr>
+<tr><td>Elettricità che beneficia di misure di promozione<sup>1</sup></td><td>7,0 %</td><td colspan="2">7,0 %</td></tr>
+<tr><td>**Energie non rinnovabili**</td><td>**42,0 %**</td><td colspan="2">**27,0 %**</td></tr>
+<tr><td>Energia nucleare</td><td>41,0 %</td><td colspan="2">26,0 %</td></tr>
+<tr><td>Vettori energetici fossili</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>Rifiuti urbani</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>**Totale**</td><td>**100,0 %**</td><td colspan="2">**75,0 %**</td></tr>
+<tr><td colspan="4"><sup>1</sup> **Elettricità che beneficia di misure di promozione: 40 % forza idrica, 20 % energia solare, 7 % energia eolica, 29 % biomassa, 1 % rifiuti urbani (quota rinnovabile), 3 % geotermia**</td></tr>
 </table>
 
 - Esempio di tabella per l’etichettatura dell’elettricità secondo le esigenze minime per l’indicazione del mix del prodotto:
@@ -272,26 +285,28 @@ Figura 1
 Figura 2
 
 <table>
-<tr><td colspan="6">Etichettatura dell’elettricità</td></tr>
-<tr><td>Il vostro fornitore di elettricità:</td><td>AAE ABC</td><td colspan="4">(es.)</td></tr>
-<tr><td>Contatto:</td><td colspan="4">www.aae-abc.ch (es.), tel. 099 999 99 99</td><td></td></tr>
-<tr><td>Anno di riferimento:</td><td>2018</td><td colspan="4"></td></tr>
-<tr><td colspan="3">L’elettricità fornita (prodotto elettrico XYZ) è stata prodotta con:</td><td></td><td colspan="2"></td></tr>
-<tr><td>in %</td><td>**Totale**</td><td colspan="4">**dalla Svizzera**</td></tr>
-<tr><td>Energie rinnovabili</td><td>**99,0 %**</td><td colspan="4">**97,0 %**</td></tr>
-<tr><td>Forza idrica</td><td>91,0 %</td><td colspan="4">91,0 %</td></tr>
-<tr><td>Altre energie rinnovabili</td><td>4,0 %</td><td colspan="4">2,0 %</td></tr>
-<tr><td>Energia solare</td><td>0,5 %</td><td colspan="4">0,5 %</td></tr>
-<tr><td>Energia eolica</td><td>2,0 %</td><td colspan="4">0,0 %</td></tr>
-<tr><td>Biomassa</td><td>1,5 %</td><td colspan="4">1,5 %</td></tr>
-<tr><td>Elettricità che beneficia di misure di promozione<sup>1</sup></td><td>4,0 %</td><td colspan="4">4,0 %</td></tr>
-<tr><td>**Energie non rinnovabili**</td><td>**1,0 %**</td><td colspan="4">**1,0** **%**</td></tr>
-<tr><td>Energia nucleare</td><td>0,0 %</td><td colspan="4">0,0 %</td></tr>
-<tr><td>Vettori energetici fossili</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Rifiuti</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>**Totale**</td><td>**100,0 %**</td><td colspan="4">**98,0 %**</td></tr>
-<tr><td colspan="6"><sup>1</sup> **E****lettricità che beneficia di misure di promozione: 40 % forza idrica, 20 % energia solare, 7 % energia eolica, 30 % biomassa e scorie da** **bio****massa, 3 % geotermia**</td></tr>
+<tr><td colspan="4">Etichettatura dell’elettricità</td></tr>
+<tr><td>Il vostro fornitore di elettricità:</td><td>AAE ABC</td><td colspan="2">(es.)</td></tr>
+<tr><td>Contatto:</td><td colspan="2">www.aae-abc.ch (es.), tel. 099 999 99 99</td><td></td></tr>
+<tr><td>Anno di riferimento:</td><td>2019</td><td colspan="2"></td></tr>
+<tr><td colspan="4">L’elettricità fornita (prodotto elettrico XYZ) è stata prodotta con:</td></tr>
+<tr><td>in %</td><td>**Totale**</td><td colspan="2">**dalla Svizzera**</td></tr>
+<tr><td>Energie rinnovabili</td><td>**99,0 %**</td><td colspan="2">**97,0 %**</td></tr>
+<tr><td>Forza idrica</td><td>88,0 %</td><td colspan="2">88,0 %</td></tr>
+<tr><td>Altre energie rinnovabili</td><td>4,0 %</td><td colspan="2">2,0 %</td></tr>
+<tr><td>Energia solare</td><td>0,5 %</td><td colspan="2">0,5 %</td></tr>
+<tr><td>Energia eolica</td><td>2,0 %</td><td colspan="2">0,0 %</td></tr>
+<tr><td>Biomassa Rifiuti urbani</td><td>1,0 % 0,5 %</td><td colspan="2">1,0 % 0,5 %</td></tr>
+<tr><td>Elettricità che beneficia di misure di promozione<sup>1</sup></td><td>7,0 %</td><td colspan="2">7,0 %</td></tr>
+<tr><td>**Energie non rinnovabili**</td><td>**1,0 %**</td><td colspan="2">**1,0** **%**</td></tr>
+<tr><td>Energia nucleare</td><td>0,0 %</td><td colspan="2">0,0 %</td></tr>
+<tr><td>Vettori energetici fossili</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>Rifiuti urbani</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>**Totale**</td><td>**100,0 %**</td><td colspan="2">**98,0 %**</td></tr>
+<tr><td colspan="4"><sup>1</sup> **Elettricità che beneficia di misure di promozione: 40 % forza idrica, 20 % energia solare, 7 % energia eolica, 29 % biomassa, 1 % rifiuti urbani (quota rinnovabile), 3 % geotermia**</td></tr>
 </table>
+
+- [tab]
 
 Allegato 2
 

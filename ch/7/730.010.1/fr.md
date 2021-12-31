@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 1<sup>er</sup> novembre 2017 sur la garantie d'or
 short: OGOM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/764"
 language: fr
-version: 2019-04-02
+version: 2022-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20190402/fr/xml/fedlex-data-admin-ch-eli-cc-2017-764-20190402-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20190402/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-764-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20190402/fr"
 
 (OGOM)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 2 avril 2019)
+du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -68,20 +68,23 @@ La garantie d’origine comprend notamment:
 
 <sup>1</sup> Les indications visées à l’art. 1, al. 2, let. c à g, constituent la base de l’enregistrement de l’installation.
 
-<sup>2</sup>
+<sup>2</sup> Elles doivent être certifiées par un laboratoire d’évaluation de la conformité accrédité pour ce domaine (auditeur).[^2-1]
 
-Elles doivent être certifiées par un laboratoire d’évaluation de la conformité accrédité pour ce domaine (auditeur). Pour les installations dont la puissance nominale côté courant alternatif est de 30 kVA au plus et pour les installations qui font déjà l’objet de contrats au sens de l’art. 73, al. 4, LEne[^2-1], il suffit d’un certificat de conformité, établi par:
+<sup>2bis</sup>
 
-- a. l’exploitant de la station de mesure, à condition que ce dernier soit juridiquement distinct du producteur, ou
-- b. un organe de contrôle possédant une autorisation de contrôler en vertu de l’art. 27 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^2-2].[^2-3]
+Pour les installations photovoltaïques d’une puissance inférieure à 100 kW, il suffit d’un certificat de conformité établi:
 
-<sup>3</sup> L’organe d’exécution vérifie régulièrement les données des installations enregistrées et les données de production saisies. À cet effet, il peut procéder à des contrôles sur place et demander un renouvellement périodique du certificat de conformité visé à l’al. 2.
+- a. par l’exploitant de la station de mesure, à condition que ce dernier soit juridiquement distinct du producteur, ou
+- b. par un organe de contrôle possédant une autorisation de contrôler en vertu de l’art. 27 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^2-2] et ayant participé à une formation dispensée par l’organe d’exécution.[^2-3]
+
+<sup>3</sup> L’organe d’exécution vérifie régulièrement les données des installations enregistrées et les données de production saisies. À cet effet, il peut procéder à des contrôles sur place et demander un renouvellement périodique du certificat de conformité.[^2-4]
 
 <sup>4</sup> Le producteur doit annoncer immédiatement à l’organe d’exécution toute modification des données de l’installation de production concernée.
 
-[^2-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 [^2-2]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^2-3]: Introduit par le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 #### Art. 3
 
@@ -89,8 +92,10 @@ Elles doivent être certifiées par un laboratoire d’évaluation de la conform
 
 Les installations suivantes ne peuvent pas être enregistrées:
 
-- a. installations d’une puissance maximale en courant continu inférieure à 2 kW pour le photovoltaïque;
+- a.[^3-1] installations d’une puissance inférieure à 2 kW pour le photovoltaïque;
 - b. installations d’une puissance nominale côté courant alternatif inférieure à 2 kVA pour les autres technologies.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 #### Art. 4
 
@@ -181,11 +186,21 @@ L’abrogation et la modification d’autres actessont réglementées à l’ann
 
 #### Art. 9a
 
-**Disposition transitoire**[^9a-1]
+**Disposition transitoire relative à la modification du 20 février 2019[^9a-2]**[^9a-1]
 
 Les directives de l’annexe 1 s’appliquent pour la première fois à l’année de livraison 2019.
 
 [^9a-1]: Introduit par le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)). Erratum du 2 avr. 2019 ([RO 2019 1081](https://fedlex.data.admin.ch/eli/oc/2019/205)).
+[^9a-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+
+#### Art. 9b
+
+**Disposition transitoire relative à la modification du 24 novembre 2021**[^9b-1]
+
+Le renouvellement du certificat de conformité relatif aux indications visées à l’art. 1, al. 2, let. c à g, qui concernent une installation pour laquelle il existe un contrat de financement des frais supplémentaires au sens de l’art. 73, al. 4, LEne[^9b-2] peut être effectué tant par un auditeur que par une personne visée à l’art. 2, al. 2<sup>bis</sup>.
+
+[^9b-1]: Introduit par le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^9b-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 10
 
@@ -199,41 +214,41 @@ Annexe 1*[^t-1]*
 
 ## Exigences concernant le marquage de l’électricité
 
-[^t-1]: Mise à jour selon le ch. II de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^t-1]: Mise à jour par le ch. II de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 
 ### 1 Agents énergétiques et affectation
 
 - 1\.1 Les agents énergétiques doivent être mentionnés comme suit:
 
 <table>
-<tr><td>Catégories principales obligatoires</td><td>Sous-catégories</td></tr>
+<tr><th>Catégories principales obligatoires</th><th>Sous-catégories</th></tr>
 <tr><td>Énergies renouvelables</td><td></td></tr>
 <tr><td>– Énergie hydraulique</td><td></td></tr>
 <tr><td>– Autres énergies renouvelables</td><td></td></tr>
 <tr><td></td><td>Énergie solaire</td></tr>
 <tr><td></td><td>Énergie éolienne</td></tr>
 <tr><td></td><td>Biomasse <sup>a</sup></td></tr>
-<tr><td></td><td>Géothermie</td></tr>
-<tr><td>– Courant au bénéfice de mesures d’encouragement <sup>b</sup></td><td></td></tr>
+<tr><td></td><td>Déchets urbains <sup>b</sup> Géothermie</td></tr>
+<tr><td>– Courant au bénéfice de mesures d’encouragement <sup>c</sup></td><td></td></tr>
 <tr><td>Énergies non renouvelables</td><td></td></tr>
 <tr><td>– Énergie nucléaire</td><td></td></tr>
 <tr><td>– Agents énergétiques fossiles</td><td></td></tr>
 <tr><td></td><td>Pétrole</td></tr>
 <tr><td></td><td>Gaz naturel</td></tr>
 <tr><td></td><td>Charbon</td></tr>
-<tr><td></td><td>Déchets <sup>c</sup></td></tr>
-<tr><td colspan="2"><sup>a</sup> Biomasse solide et liquide, déchets issus de la biomasse ainsi que biogaz</td></tr>
-<tr><td colspan="2"><sup>b</sup> Selon art. 19 de la loi (rétribution de l’injection)</td></tr>
-<tr><td colspan="2"><sup>c</sup> Part des déchets fossiles dans les usines d’incinération des ordures ménagères et les décharges</td></tr>
+<tr><td></td><td>Déchets urbains <sup>d</sup></td></tr>
+<tr><td colspan="2"><sup>a</sup> Biomasse solide et liquide, exception faite de la part des déchets urbains renouvelables ainsi que du biogaz <sup>b</sup> Part des déchets urbains renouvelables dans les usines d’incinération des ordures ménagères</td></tr>
+<tr><td colspan="2"><sup>c</sup> Selon art. 19 de la loi (rétribution de l’injection)</td></tr>
+<tr><td colspan="2"><sup>d</sup> Part des déchets fossiles dans les usines d’incinération des ordures ménagères</td></tr>
 </table>
 
 - 1\.2 Si des agents énergétiques doivent être comptabilisés dans les catégories principales «Autres énergies renouvelables» et «Agents énergétiques fossiles», toutes les sous-catégories afférentes dont la valeur est supérieure à zéro doivent être mentionnées.
-- 1\.3 L’affectation à une catégorie se fonde sur la garantie d’origine selon l’art. 1 ou une garantie d’origine européenne selon l’art. 15 de la directive 2009/28/CE[^annex1-lvlu1-lvl1-1]. En l’absence de garantie d’origine européenne pour la production de courant non renouvelable dans un pays européen, l’organe d’exécution peut enregistrer des garanties de remplacement correspondantes. À cet effet, une confirmation du producteur qui atteste que l’origine de la quantité d’électricité concernée n’est affectée à personne d’autre doit être transmise à l’organe d’exécution.
+- 1\.3 L’affectation à une catégorie se fonde sur la garantie d’origine selon l’art. 1 ou une garantie d’origine européenne selon l’art. 19 de la directive (UE) 2018/2001[^annex1-lvlu1-lvl1-1]. En l’absence de garantie d’origine européenne pour la production de courant non renouvelable dans un pays européen, l’organe d’exécution peut enregistrer des garanties de remplacement correspondantes. À cet effet, une confirmation du producteur qui atteste que l’origine de la quantité d’électricité concernée n’est affectée à personne d’autre doit être transmise à l’organe d’exécution.
 - 1\.4 La quantité d’électricité visée à l’art. 19 LEne[^annex1-lvlu1-lvl1-2] est affectée à la catégorie principale «Courant au bénéfice de mesures d’encouragement» au sein de la catégorie principale «Énergies renouvelables». La part respective des agents énergétiques dont cette électricité est issue doit être indiquée dans une note.
 - 1\.5 La part d’électricité produite en Suisse et à l’étranger est mentionnée pour chaque catégorie.
 - 1\.6 L’électricité que l’entreprise ne fournit pas directement à ses propres consommateurs finaux doit être déduite du calcul du mix du fournisseur ou du mix du produit visés à l’art. 4, al. 2, OEne. Cette disposition s’applique notamment aux livraisons d’électricité convenues par contrat, concernant une ou plusieurs catégories d’agents énergétiques, à des revendeurs suisses ou étrangers ou encore à des consommateurs finaux étrangers.
 
-[^annex1-lvlu1-lvl1-1]: Directive 2009/28/CE du Parlement européen et du Conseil du 23 avr. 2009 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/CE et 2003/30/CE, JO L 140 du 5.6.2009, p. 16.
+[^annex1-lvlu1-lvl1-1]: Directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables, version du JO L 328 du 21.12.2018, p. 82.
 [^annex1-lvlu1-lvl1-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 ### 2 Marquage
@@ -242,7 +257,7 @@ Annexe 1*[^t-1]*
 - 2\.2 Le marquage doit faire référence aux données de l’année civile précédente.
 - 2\.3 Le marquage se base sur les garanties d’origine ou de remplacement visées au ch. 1.3 qui ont été établies pour l’électricité produite durant l’année civile précédente.
 - 2\.4 Le marquage se fait au moyen d’un tableau (exemple: fig. 1 ou 2). Sa taille doit être de 10 × 7 cm minimum.
-- 2\.5 Si le tableau indique le mix du produit visé à l’art. 4, al. 2, OEne, (exemple: fig. 2), il convient aussi de mentionner le lieu de publication commune visé à l’art. 4, al. 3, OEne.
+- 2\.5 Si le tableau indique le mix du produit visé à l’art. 4, al. 2, OEne (exemple: fig. 2), il convient aussi de mentionner le lieu de publication commune visé à l’art. 4, al. 3, OEne.
 - Exemple d’un tableau de marquage de l’électricité répondant aux exigences minimales pour l’indication du mix du fournisseur:
 
 Figure 1
@@ -250,21 +265,21 @@ Figure 1
 <table>
 <tr><td colspan="6">Marquage de l’électricité</td></tr>
 <tr><td>Votre fournisseur de courant:</td><td>EAE ABC</td><td colspan="4">(ex.)</td></tr>
-<tr><td>Contact:</td><td colspan="4">www.eae-abc.ch, (ex.), tél. 099 999 99 99</td><td></td></tr>
-<tr><td>Année de référence:</td><td>2018</td><td colspan="4"></td></tr>
+<tr><td>Contact:</td><td colspan="4">www.evu-abc.ch, (ex.), tél. 099 999 99 99</td><td></td></tr>
+<tr><td>Année de référence:</td><td>2019</td><td colspan="4"></td></tr>
 <tr><td colspan="3">L’ensemble du courant fourni à nos clients a été produit à partir de:</td><td></td><td colspan="2"></td></tr>
 <tr><td>en %</td><td>**Total**</td><td colspan="4">**En Suisse**</td></tr>
-<tr><td>Énergies renouvelables</td><td>**55,0 %**</td><td colspan="4">**45,0 %**</td></tr>
+<tr><td>Énergies renouvelables</td><td>**58,0 %**</td><td colspan="4">**48,0 %**</td></tr>
 <tr><td>Énergie hydraulique</td><td>50,0 %</td><td colspan="4">40,0 %</td></tr>
 <tr><td>Autres énergies renouvelables</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Biomasse</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Courant au bénéfice de mesures d’encouragement<sup>1</sup></td><td>4,0 %</td><td colspan="4">4,0 %</td></tr>
-<tr><td>**Énergies non renouvelables**</td><td>**45,0 %**</td><td colspan="4">**30,0 %**</td></tr>
-<tr><td>Énergie nucléaire</td><td>44,0 %</td><td colspan="4">29,0 %</td></tr>
+<tr><td>Biomasse Déchets urbains</td><td>0,5 % 0,5 %</td><td colspan="4">0,5 % 0,5 %</td></tr>
+<tr><td>Courant au bénéfice de mesures d’encouragement<sup>1</sup></td><td>7,0 %</td><td colspan="4">7,0 %</td></tr>
+<tr><td>**Énergies non renouvelables**</td><td>**42,0 %**</td><td colspan="4">**27,0 %**</td></tr>
+<tr><td>Énergie nucléaire</td><td>41,0 %</td><td colspan="4">26,0 %</td></tr>
 <tr><td>Énergies fossiles</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Déchets</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
+<tr><td>Déchets urbains</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
 <tr><td>**Total**</td><td>**100,0 %**</td><td colspan="4">**75,0 %**</td></tr>
-<tr><td colspan="6"><sup>1</sup> **Courant au bénéfice de mesures d’encouragement: 40 % d’énergie hydraulique, 20 % d’énergie solaire, 7 % d’énergie éolienne, 30 % de biomasse et de déchets issus de la biomasse, 3 % de géothermie**</td></tr>
+<tr><td colspan="6"><sup>1</sup> **Courant au bénéfice de mesures d’encouragement: 40 % d’énergie hydraulique, 20 % d’énergie solaire, 7 % d’énergie éolienne, 29 % de biomasse, 1 % de déchets urbains (part renouvelable), 3 % de géothermie**</td></tr>
 </table>
 
 - Exemple d’un tableau de marquage de l’électricité répondant aux exigences minimales pour l’indication du mix du produit:
@@ -272,25 +287,25 @@ Figure 1
 Figure 2
 
 <table>
-<tr><td colspan="6">Marquage de l’électricité</td></tr>
-<tr><td>Votre fournisseur de courant:</td><td>EAE ABC</td><td colspan="4">(ex.)</td></tr>
-<tr><td>Contact:</td><td colspan="4">www.eae-abc.ch (ex.), tél. 099 999 99 99</td><td></td></tr>
-<tr><td>Année de référence:</td><td>2018</td><td colspan="4"></td></tr>
-<tr><td colspan="3">Le courant que nous vous avons fourni (produit XYZ) a été produit à partir de:</td><td></td><td colspan="2"></td></tr>
-<tr><td>en %</td><td>**Total**</td><td colspan="4">**En Suisse**</td></tr>
-<tr><td>Énergies renouvelables</td><td>**99,0 %**</td><td colspan="4">**97,0 %**</td></tr>
-<tr><td>Énergie hydraulique</td><td>91,0 %</td><td colspan="4">91,0 %</td></tr>
-<tr><td>Autres énergies renouvelables</td><td>4,0 %</td><td colspan="4">2,0 %</td></tr>
-<tr><td>Énergie solaire</td><td>0,5 %</td><td colspan="4">0,5 %</td></tr>
-<tr><td>Énergie éolienne</td><td>2,0 %</td><td colspan="4">0,0 %</td></tr>
-<tr><td>Biomasse</td><td>1,5 %</td><td colspan="4">1,5 %</td></tr>
-<tr><td>Courant au bénéfice de mesures d’encouragement<sup>1</sup></td><td>4,0 %</td><td colspan="4">4,0 %</td></tr>
-<tr><td>**Énergies non renouvelables**</td><td>**1,0 %**</td><td colspan="4">**1,0** **%**</td></tr>
-<tr><td>Énergie nucléaire</td><td>0,0 %</td><td colspan="4">0,0 %</td></tr>
-<tr><td>Énergies fossiles</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Déchets</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>**Total**</td><td>**100,0 %**</td><td colspan="4">**98,0 %**</td></tr>
-<tr><td colspan="6"><sup>1</sup> **Courant au bénéfice de mesures d’encouragement: 40 % d’énergie hydraulique, 20 % d’énergie solaire, 7 % d’énergie éolienne, 30 % de biomasse et de déchets issus de la biomasse, 3 % de géothermie**</td></tr>
+<tr><td colspan="4">Marquage de l’électricité</td></tr>
+<tr><td>Votre fournisseur de courant:</td><td>EAE ABC</td><td colspan="2">(ex.)</td></tr>
+<tr><td>Contact:</td><td colspan="2">www.evu-abc.ch (ex.), tél. 099 999 99 99</td><td></td></tr>
+<tr><td>Année de référence:</td><td>2019</td><td colspan="2"></td></tr>
+<tr><td colspan="4">Le courant que nous vous avons fourni (produit XYZ) a été produit à partir de:</td></tr>
+<tr><td>en %</td><td>**Total**</td><td colspan="2">**En Suisse**</td></tr>
+<tr><td>Énergies renouvelables</td><td>**99,0 %**</td><td colspan="2">**97,0 %**</td></tr>
+<tr><td>Énergie hydraulique</td><td>88,0 %</td><td colspan="2">88,0 %</td></tr>
+<tr><td>Autres énergies renouvelables</td><td>4,0 %</td><td colspan="2">2,0 %</td></tr>
+<tr><td>Énergie solaire</td><td>0,5 %</td><td colspan="2">0,5 %</td></tr>
+<tr><td>Énergie éolienne</td><td>2,0 %</td><td colspan="2">0,0 %</td></tr>
+<tr><td>Biomasse Déchets urbains</td><td>1,0 % 0,5 %</td><td colspan="2">1,0 % 0,5 %</td></tr>
+<tr><td>Courant au bénéfice de mesures d’encouragement<sup>1</sup></td><td>7,0 %</td><td colspan="2">7,0 %</td></tr>
+<tr><td>**Énergies non renouvelables**</td><td>**1,0 %**</td><td colspan="2">**1,0** **%**</td></tr>
+<tr><td>Énergie nucléaire</td><td>0,0 %</td><td colspan="2">0,0 %</td></tr>
+<tr><td>Énergies fossiles</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>Déchets urbains</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
+<tr><td>**Total**</td><td>**100,0 %**</td><td colspan="2">**98,0 %**</td></tr>
+<tr><td colspan="4"><sup>1</sup> **Courant au bénéfice de mesures d’encouragement: 40 % d’énergie hydraulique, 20 % d’énergie solaire, 7 % d’énergie éolienne**, **29 % de biomasse, 1 % de déchets urbains (part renouvelable), 3 % de géothermie**</td></tr>
 </table>
 
 Annexe 2
