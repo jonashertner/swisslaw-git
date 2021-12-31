@@ -3,13 +3,12 @@ canton: BS
 number: "371.100"
 title: Sportgesetz
 language: de
-version: 2016-11-06
-valid_until: 2021-12-31
-version_adopted: 2016-09-21
+version: 2022-01-01
+version_adopted: 2021-06-24
 adopted: 2011-05-18
 in_force: 2011-07-03
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/371.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3951/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3951/pdf_file"
 
 Sportgesetz | Sport
 
-Vom 18. Mai 2011 (Stand 6. November 2016)
+Vom 18. Mai 2011 (Stand 1. Januar 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -53,6 +52,8 @@ beschliesst:
 <sup>2</sup> Der Kanton fördert die von privaten Verbänden und Vereinen organisierten sportlichen Aktivitäten und den Individualsport nach dem Prinzip der Subsidiarität.
 
 <sup>3</sup> Der Kanton koordiniert und unterstützt die von Schulen, Verbänden, Vereinen und weiteren Organisationen durchgeführten sportlichen Tätigkeiten. Er stellt Anlagen und Material zur Verfügung und kann Beiträge gewähren.
+
+<sup>3<sup>bis</sup></sup> Der Kanton gewährt zur Förderung des Vereinssports Sportvereinen mit Sitz im Kanton jährliche Beiträge. Diese richten sich nach der Anzahl der aktiven Mitglieder mit Wohnsitz im Kanton. Die Vereinskosten für die Benützung von Sportanlagen können berücksichtigt werden.
 
 <sup>4</sup> Das Schulgesetz regelt den obligatorischen Schulsport. Der Kanton fördert darüber hinaus den freiwilligen Sport in der Schule.
 
