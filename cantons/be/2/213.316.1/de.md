@@ -4,13 +4,13 @@ number: "213.316.1"
 title: Verordnung über den Kindes- und Erwachsenenschutz
 short: KESV
 language: de
-version: 2020-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-02
+version: 2022-01-01
+valid_until: 2025-01-31
+version_adopted: 2021-06-30
 adopted: 2012-10-24
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.316.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1965/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1965/pdf_file"
 
 (KESV)
 
-vom 24.10.2012 (Stand 01.11.2020)
+vom 24.10.2012 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -159,9 +159,11 @@ beschliesst:
 
 <sup>1</sup> Ordnet die KESB die Behandlung oder Unterbringung in einer Einrichtung oder eine andere kostenpflichtige Massnahme an, so leistet sie auf Gesuch der für den Vollzug der Massnahme vorgesehenen Einrichtung oder Stelle eine Kostengutsprache.
 
+<sup>2</sup> Sie leistet im Rahmen einer fürsorgerischen Unterbringung oder einer anderen Massnahme des Erwachsenenschutzes Kostengutsprache für diejenigen Kosten, die nicht durch eine andere kantonale Stelle oder eine Krankenversicherung übernommen werden.
+
 #### Art. 10
 
-**Kostenpflicht der betroffenen Person**
+**Kostenpflicht für Erwachsenenschutzmassnahmen**
 
 <sup>1</sup> Die KESB entscheidet nach pflichtgemässem Ermessen, ob Massnahmekosten, für die nicht Dritte zahlungspflichtig sind, ganz oder teilweise von der betroffenen Person getragen werden.
 
@@ -169,7 +171,15 @@ beschliesst:
 
 <sup>3</sup> Sie ist verpflichtet, Einsicht in alle Unterlagen zu gewähren, die für die Bestimmung ihrer Einkommens- und Vermögensverhältnisse relevant sind (Lohnabrechnungen, Rentenverfügungen, Bankbelege, Mietverträge, Hypothekarverträge, Versicherungspolicen, Steuerveranlagung usw.).
 
-<sup>4</sup> Handelt es sich bei der Massnahme um die Behandlung oder Unterbringung in einer Einrichtung, die durch Betriebsbeiträge des Kantons finanziert wird, so trifft die KESB den Entscheid über die Kostenbeteiligung aufgrund einer Vollkostenrechnung.
+<sup>4</sup> Die Kosten einer fürsorgerischen Unterbringung oder einer anderen Massnahme des Erwachsenenschutzes werden der betroffenen Person im gleichen Umfang auferlegt, wie sie im Rahmen eines freiwilligen Aufenthalts oder einer freiwilligen Inanspruchnahme zur Kostenübernahme verpflichtet ist.
+
+#### Art. 10a
+
+**Kostenpflicht für Kindesschutzmassnahmen**
+
+<sup>1</sup> Die Kostenpflicht der betroffenen Person richtet sich nach den Artikel 32 ff. der Verordnung vom 30. Juni 2021 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSV)[^10a-1].
+
+[^10a-1]: BSG [213.319.1](https://www.belex.sites.be.ch/data/213.319.1/de)
 
 #### Art. 11
 

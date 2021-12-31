@@ -4,13 +4,13 @@ number: "213.316.1"
 title: Ordonnance sur la protection de l’enfant et de l’adulte
 short: OPEA
 language: fr
-version: 2020-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-02
+version: 2022-01-01
+valid_until: 2025-01-31
+version_adopted: 2021-06-30
 adopted: 2012-10-24
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/213.316.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1965/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2350/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1965/pdf_file"
 
 (OPEA)
 
-du 24.10.2012 (état au 01.11.2020)
+du 24.10.2012 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -159,9 +159,11 @@ arrête:
 
 <sup>1</sup> Lorsqu’elle ordonne un traitement ou un placement dans une institution, ou encore une autre mesure entraînant des coûts, l’APEA fournit, à la demande de l’institution ou du service dont relève l’exécution de la mesure, une garantie de prise en charge des coûts.
 
+<sup>2</sup> Elle fournit une garantie de prise en charge des coûts, dans le cadre d’un placement à des fins d’assistance ou d’une autre mesure relevant de la protection de l’adulte, pour les coûts qui ne sont pas assumés par un autre service cantonal ou par une assurance-maladie.
+
 #### Art. 10
 
-**Prise en charge des coûts par la personne concernée**
+**Prise en charge des coûts pour les mesures de protection de l’adulte**
 
 <sup>1</sup> L’APEA décide dans les limites de son pouvoir d’appréciation si les coûts d’une mesure qu’aucun tiers n’est tenu de prendre à sa charge peuvent être supportés, entièrement ou en partie, par la personne concernée.
 
@@ -169,7 +171,15 @@ arrête:
 
 <sup>3</sup> Elle est tenue de mettre à disposition tous les documents qui peuvent servir à déterminer son revenu et sa fortune (décomptes de salaire, décisions de rente, justificatifs bancaires, contrats de bail, contrats hypothécaires, polices d'assurance, taxation fiscale, etc.).
 
-<sup>4</sup> Si la mesure consiste en un traitement ou placement dans une institution financée par des subventions d’exploitation du canton, l’APEA statue sur la participation aux coûts en se fondant sur un calcul des coûts complets.
+<sup>4</sup> Les coûts d’un placement à des fins d’assistance ou d’une autre mesure de protection de l’adulte sont mis à la charge de la personne concernée à hauteur du même montant que celui qu’elle doit assumer dans le cadre d’un séjour librement consenti ou d’un financement volontaire des coûts.
+
+#### Art. 10a
+
+**Prise en charge des coûts pour les mesures de protection de l’enfant**
+
+<sup>1</sup> L’obligation de prise en charge des coûts de la personne concernée est régie par les articles 32 et suivants de l’ordonnance du 30 juin 2021 sur les prestations particulières d’encouragement et de protection destinées aux enfants (OPEP)[^10a-1].
+
+[^10a-1]: RSB [213.319.1](https://www.belex.sites.be.ch/data/213.319.1/fr)
 
 #### Art. 11
 
