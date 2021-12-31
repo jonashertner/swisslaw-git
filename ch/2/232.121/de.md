@@ -4,11 +4,11 @@ title: "Verordnung vom 8. März 2002 über den Schutz von Design (Designverordnu
 short: DesV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2002-183-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-183-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20170101/de"
 
 (Designverordnung, DesV)
 
-vom 8. März 2002 (Stand am 1. Januar 2017)
+vom 8. März 2002 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -37,10 +37,11 @@ verordnet:
 
 <sup>1</sup> Der Vollzug der Verwaltungsaufgaben, die sich aus dem DesG[^1-1] und dieser Verordnung ergeben, ist Sache des Eidgenössischen Instituts für Geistiges Eigentum (IGE)[^1-2].
 
-<sup>2</sup> Der Vollzug der Artikel 46–49 DesG und der Artikel 37–40 dieser Verordnung ist Sache der Eidgenössischen Zollverwaltung.
+<sup>2</sup> Der Vollzug der Artikel 46–49 DesG und der Artikel 37–40 dieser Verordnung ist Sache des Bundesamts für Zoll und Grenzsicherheit BAZG [^1-3].
 
 [^1-1]: Ausdruck gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^1-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^1-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 2
 
@@ -497,7 +498,7 @@ Das IGE löscht auf Antrag das zu Gunsten einer Drittperson eingetragene Recht, 
 
 <sup>1</sup> …[^32-1]
 
-<sup>2</sup> <sup>−</sup><sup>3</sup> …[^32-2]
+<sup>2<sup>−</sup><sup>3</sup></sup> …[^32-2]
 
 [^32-1]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 [^32-2]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
@@ -543,13 +544,13 @@ Das IGE veröffentlicht unter dem Vorbehalt des Aufschubs der Veröffentlichung:
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
-## 5. Kapitel: Hilfeleistung der Zollverwaltung
+## 5. Kapitel: Hilfeleistung des BAZG
 
 #### Art. 37
 
 **Bereich**[^37-1]
 
-Die Hilfeleistung der Eidgenössischen Zollverwaltung erstreckt sich auf das Verbringen von widerrechtlich hergestellten Gegenständen ins oder aus dem Zollgebiet.
+Die Hilfeleistung des BAZG erstreckt sich auf das Verbringen von widerrechtlich hergestellten Gegenständen ins oder aus dem Zollgebiet.
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -559,7 +560,7 @@ Die Hilfeleistung der Eidgenössischen Zollverwaltung erstreckt sich auf das Ver
 
 <sup>1</sup> Die Rechtsinhaberin oder die klageberechtigte Lizenznehmerin (Antragstellerin) muss den Antrag auf Hilfeleistung bei der Oberzolldirektion stellen.
 
-<sup>1bis</sup> Die Oberzolldirektion entscheidet spätestens 40 Tage nach Erhalt der vollständigen Unterlagen über den Antrag.[^38-2]
+<sup>1bis</sup> Die Oberzolldirektionv entscheidet spätestens 40 Tage nach Erhalt der vollständigen Unterlagen über den Antrag.[^38-2]
 
 <sup>2</sup> Der Antrag gilt während zwei Jahren, wenn er nicht für eine kürzere Geltungsdauer gestellt wird. Er kann erneuert werden.
 
@@ -583,7 +584,7 @@ Die Hilfeleistung der Eidgenössischen Zollverwaltung erstreckt sich auf das Ver
 
 **Proben oder Muster**[^39a-1]
 
-<sup>1</sup> Die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Gegenstände beantragen. Anstelle von Proben oder Mustern kann die Zollverwaltung der Antragstellerin auch Fotografien der zurückbehaltenen Gegenstände übergeben, wenn diese eine Prüfung durch die Antragstellerin ermöglichen.
+<sup>1</sup> Die Antragstellerin kann die Übergabe oder Zusendung von Proben oder Mustern zur Prüfung oder die Besichtigung der Gegenstände beantragen. Anstelle von Proben oder Mustern kann das BAZG der Antragstellerin auch Fotografien der zurückbehaltenen Gegenstände übergeben, wenn diese eine Prüfung durch die Antragstellerin ermöglichen.
 
 <sup>2</sup> Der Antrag kann zusammen mit dem Antrag auf Hilfeleistung bei der Oberzolldirektion oder während des Zurückbehaltens der Gegenstände direkt bei der Zollstelle gestellt werden, welche die Gegenstände zurückbehält.
 
@@ -593,9 +594,9 @@ Die Hilfeleistung der Eidgenössischen Zollverwaltung erstreckt sich auf das Ver
 
 **Wahrung von Fabrikations- und Geschäftsgeheimnissen**[^39b-1]
 
-<sup>1</sup> Die Zollverwaltung weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Gegenstände auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Sie setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
+<sup>1</sup> Das BAZG weist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer der Gegenstände auf die Möglichkeit hin, einen begründeten Antrag auf Verweigerung der Entnahme von Proben oder Mustern zu stellen. Es setzt ihr oder ihm für die Stellung des Antrags eine angemessene Frist.
 
-<sup>2</sup> Gestattet die Zollverwaltung der Antragstellerin die Besichtigung der zurückbehaltenen Gegenstände, so nimmt sie bei der Festlegung des Zeitpunkts auf die Interessen der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
+<sup>2</sup> Gestattet das BAZG der Antragstellerin die Besichtigung der zurückbehaltenen Gegenstände, so nimmt es bei der Festlegung des Zeitpunkts auf die Interessen der Antragstellerin und der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers angemessen Rücksicht.
 
 [^39b-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -603,9 +604,9 @@ Die Hilfeleistung der Eidgenössischen Zollverwaltung erstreckt sich auf das Ver
 
 **Aufbewahrung von Beweismitteln bei Vernichtung der Gegenstände**[^39c-1]
 
-<sup>1</sup> Die Zollverwaltung bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers nach Artikel 48 Absatz 1 DesG auf. Nach Ablauf dieser Frist fordert sie die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in ihren beziehungsweise seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt sie beziehungsweise er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet die Zollverwaltung die Proben oder Muster.
+<sup>1</sup> Das BAZG bewahrt die entnommenen Proben oder Muster während eines Jahres ab der Benachrichtigung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers nach Artikel 48 Absatz 1 DesG auf. Nach Ablauf dieser Frist fordert es die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer auf, die Proben oder Muster in ihren beziehungsweise seinen Besitz zu nehmen oder die Kosten der weiteren Aufbewahrung zu tragen. Ist die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer dazu nicht bereit oder lässt sie beziehungsweise er sich innerhalb von 30 Tagen nicht vernehmen, so vernichtet das BAZG die Proben oder Muster.
 
-<sup>2</sup> Die Zollverwaltung kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Gegenstände erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
+<sup>2</sup> Das BAZG kann anstelle der Entnahme von Proben oder Mustern Fotografien der vernichteten Gegenstände erstellen, soweit damit der Zweck der Sicherung von Beweismitteln gewährleistet ist.
 
 [^39c-1]: Eingefügt durch Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -613,7 +614,7 @@ Die Hilfeleistung der Eidgenössischen Zollverwaltung erstreckt sich auf das Ver
 
 **Gebühren**[^40-1]
 
-Die Gebühren für die Hilfeleistung der Zollverwaltung richten sich nach der Verordnung vom 4. April 2007[^40-2] über die Gebühren der Zollverwaltung.
+Die Gebühren für die Hilfeleistung des BAZG richten sich nach der Verordnung vom 4. April 2007[^40-2] über die Gebühren des Bundesamts für Zoll und Grenzsicherheit.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 [^40-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
@@ -626,7 +627,7 @@ Die Gebühren für die Hilfeleistung der Zollverwaltung richten sich nach der Ve
 
 Die Verordnung vom 27. Juli 1900[^41-1] über die gewerblichen Muster und Modelle wird aufgehoben.
 
-[^41-1]: [BS **2** 881; [AS 1956 806](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874),[1962 460](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481), [1968 603](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619), [1972 2447](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277), [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994), [1978 20](https://fedlex.data.admin.ch/eli/oc/1978/20_20_), [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789)[5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161)]
+[^41-1]: [BS **2** 881; [AS 1956 806](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874);[1962 460](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481); [1968 603](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619); [1972 2447](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277); [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994); [1978 20](https://fedlex.data.admin.ch/eli/oc/1978/20_20_); [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789), [5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161)]
 
 #### Art. 42
 

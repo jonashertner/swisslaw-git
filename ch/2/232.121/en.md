@@ -4,11 +4,11 @@ title: "Ordinance of 8 March 2002 on the Protection of Designs (Designs Ordinanc
 short: DesO
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: en
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20170101/en/xml/fedlex-data-admin-ch-eli-cc-2002-183-20170101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20170101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2002-183-20220101-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Designs Ordinance, DesO)
 
-of 8 March 2002 (Status as of 1 January 2017)
+of 8 March 2002 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -41,10 +41,11 @@ ordains:
 
 <sup>1</sup> The Swiss Federal Institute of Intellectual Property (IPI)[^1-1] is responsible for carrying out the administrative duties stipulated in the DesA[^1-2] and this Ordinance.
 
-<sup>2</sup> The Federal Customs Administration is responsible for enforcing Articles 46–49 DesA and Articles 37–40 of this Ordinance.
+<sup>2</sup> The Federal Office for Customs and Border Security FOCBS[^1-3] is responsible for enforcing Articles 46–49 DesA and Articles 37–40 of this Ordinance.
 
 [^1-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This amendment has been made throughout the text.
 [^1-2]: Expression in accordance with No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). This amendment has been made throughout the text.
+[^1-3]: The name of this administrative unit was amended on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This amendment has been made throughout the text.
 
 #### Art. 2
 
@@ -477,7 +478,7 @@ On the basis of an appropriate declaration by the right holder or another satisf
 
 - a. the usufruct of the design right and pledging of the design right;
 - b.[^29-1] restrictions on powers of disposal ordered by the courts and compulsory enforcement authorities;
-- g. amendments concerning registered information.
+- c. amendments concerning registered information.
 
 [^29-1]: Amended by No I of the O of 2 Dec. 2016, in force since 1 Jan. 2017 ([AS 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
@@ -501,7 +502,7 @@ On request, the IPI shall cancel a right registered in favour of a third party i
 
 <sup>1</sup> ...[^32-1]
 
-<sup>2</sup> <sup>−</sup><sup>3</sup> ...[^32-2]
+<sup>2<sup>−</sup><sup>3</sup></sup> ...[^32-2]
 
 [^32-1]: Repealed by No I of the O of 3 Dec. 2004, with effect from 1 Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 [^32-2]: Repealed by No I of the O of 18 Oct. 2006, with effect from 1 Jan. 2007 ([AS 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
@@ -547,13 +548,13 @@ Unless deferment of publication has been requested, the IPI shall publish:
 
 [^36-1]: Amended by No I of the O of 3 Dec. 2004, in force since 1 Jan. 2005 ([AS 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
-## Chapter 5 Assistance provided by the Customs Administration
+## Chapter 5 Assistance provided by the FOCBS
 
 #### Art. 37
 
 **Scope**[^37-1]
 
-The assistance provided by the Federal Customs Administration shall extend to the movement of unlawfully manufactured items into or out of the customs territory.
+The assistance provided by the FOCBS shall extend to the movement of unlawfully manufactured items into or out of the customs territory.
 
 [^37-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -587,7 +588,7 @@ The assistance provided by the Federal Customs Administration shall extend to th
 
 **Samples**[^39a-1]
 
-<sup>1</sup> The applicant may request that the samples are handed over or delivered to them for examination or that the items are inspected. Instead of samples, the Customs Administration may provide the applicant with photographs of the withheld items if this enables the applicant to assess the items.
+<sup>1</sup> The applicant may request that the samples are handed over or delivered to them for examination or that the items are inspected. Instead of samples, the FOCBS may provide the applicant with photographs of the withheld items if this enables the applicant to assess the items.
 
 <sup>2</sup> The request may be submitted together with the application for assistance to the Directorate General of Customs or, while the items are being withheld, directly to the customs office that is withholding the items.
 
@@ -597,9 +598,9 @@ The assistance provided by the Federal Customs Administration shall extend to th
 
 **Safeguarding of manufacturing and trade secrets**[^39b-1]
 
-<sup>1</sup> The Customs Administration shall inform the declarant, holder or owner of the items of the possibility of refusing to take samples on presentation of a reasoned request. The Administration shall set a suitable time limit for him or her to submit the request.
+<sup>1</sup> The FOCBS shall inform the declarant, holder or owner of the items of the possibility of refusing to take samples on presentation of a reasoned request. The Administration shall set a suitable time limit for him or her to submit the request.
 
-<sup>2</sup> If the Customs Administration permits the applicant to inspect the withheld items, it shall take appropriate consideration of the interests of the applicant and the declarant, holder or owner when determining the date of inspection.
+<sup>2</sup> If the FOCBS permits the applicant to inspect the withheld items, it shall take appropriate consideration of the interests of the applicant and the declarant, holder or owner when determining the date of inspection.
 
 [^39b-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -607,9 +608,9 @@ The assistance provided by the Federal Customs Administration shall extend to th
 
 **Safekeeping of evidence in the event of destruction of items**[^39c-1]
 
-<sup>1</sup> The Customs Administration shall keep the samples collected for a period of one year starting from the date of notification of the declarant, holder or owner in accordance with Article 48 paragraph 1 DesA. After this time limit expires, the Customs Administration shall request the declarant, holder or owner to take possession of the samples or bear the costs of their continued safekeeping. If the declarant, holder or owner is not willing to do so or does not respond to this request within 30 days, the Customs Administration shall destroy the samples.
+<sup>1</sup> The FOCBS shall keep the samples collected for a period of one year starting from the date of notification of the declarant, holder or owner in accordance with Article 48 paragraph 1 DesA. After this time limit expires, the FOCBS shall request the declarant, holder or owner to take possession of the samples or bear the costs of their continued safekeeping. If the declarant, holder or owner is not willing to do so or does not respond to this request within 30 days, the FOCBS shall destroy the samples.
 
-<sup>2</sup> Instead of collecting samples, the Customs Administration may take photographs of the destroyed items, provided this serves the purpose of preserving evidence.
+<sup>2</sup> Instead of collecting samples, the FOCBS may take photographs of the destroyed items, provided this serves the purpose of preserving evidence.
 
 [^39c-1]: Inserted by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -617,7 +618,7 @@ The assistance provided by the Federal Customs Administration shall extend to th
 
 **Fees**[^40-1]
 
-The fees for assistance provided by the Customs Administration are governed by the Ordinance of 4 April 2007[^40-2] on Federal Customs Administration Charges.
+The fees for assistance provided by the FOCBS are governed by the Ordinance of 4 April 2007[^40-2] on FOCBS Charges.
 
 [^40-1]: Amended by No I of the O of 21 May 2008, in force since 1 July 2008 ([AS 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 [^40-2]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
@@ -630,7 +631,7 @@ The fees for assistance provided by the Customs Administration are governed by t
 
 The Ordinance of 27 July 1900[^41-1] on Industrial Designs and Models is repealed.
 
-[^41-1]: [BS **2** 881; [AS 1956 806](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874),[1962 460](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481), [1968 603](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619), [1972 2447](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277), [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994), [1978 20](https://fedlex.data.admin.ch/eli/oc/1978/20_20_), [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789)[5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161)]
+[^41-1]: [BS **2** 881; [AS 1956 806](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874);[1962 460](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481); [1968 603](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619); [1972 2447](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277); [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994); [1978 20](https://fedlex.data.admin.ch/eli/oc/1978/20_20_); [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789), [5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161)]
 
 #### Art. 42
 

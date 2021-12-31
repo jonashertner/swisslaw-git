@@ -4,11 +4,11 @@ title: "Ordonnance du 8 mars 2002 sur la protection des designs (Ordonnance sur 
 short: ODes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-183-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-183-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20170101/fr"
 
 (Ordonnance sur les designs, ODes)
 
-du 8 mars 2002 (Etat le 1<sup>er</sup> janvier 2017)
+du 8 mars 2002 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -37,11 +37,12 @@ arrête:
 
 <sup>1</sup> L’Institut Fédéral de la Propriété Intellectuelle[^1-1] (IPI)[^1-2] exécute les travaux administratifs découlant de la LDes[^1-3] et de la présente ordonnance.
 
-<sup>2</sup> L’exécution des art. 46 à 49 LDes et des art. 36 à 39 de la présente ordonnance n’incombe pas à l’IPI mais à l’Administration fédérale des douanes.
+<sup>2</sup> L’exécution des art. 46 à 49 LDes et des art. 36 à 39 de la présente ordonnance n’incombe pas à l’IPI mais à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^1-4].
 
 [^1-1]: Nouvelle expression selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^1-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-3]: Nouvelle expression selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -161,7 +162,7 @@ Le cas échéant, elle doit être complétée par:
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)).
-[^9-3]: Introduite par le ch. I de l’O du 11 mai 2011 ([RO 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775))..
+[^9-3]: Introduite par le ch. I de l’O du 11 mai 2011 ([RO 2011 2245](https://fedlex.data.admin.ch/eli/oc/2011/308)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^9-4]: Introduite par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 
 #### Art. 10
@@ -275,7 +276,7 @@ Elle comprend les taxes suivantes:
 
 <sup>3</sup> Dans le cas d’un dépôt multiple (art. 20 LDes), la protection peut, après l’expiration de l’ajournement, être maintenue sur requête pour certains designs.
 
-<sup>4</sup> Si l’enregistrement doit être publié à l’expiration de l’ajournement, le déposant doit payer la taxe de publication avant que le design ne soit publié.
+<sup>4</sup> Si la taxe de publication n’est pas payée au plus tard le dernier jour de l’ajournement ou si les représentations requises ne sont pas remises au moins deux mois avant l’expiration de l’ajournement, l’Institut radie l’enregistrement.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
@@ -298,7 +299,7 @@ Avant l’échéance de la période de protection, l’IPI peut rappeler la date
 
 <sup>2</sup> Dans le cas d’un dépôt multiple (art. 20 LDes), il est possible de limiter la prolongation de la protection à certains designs. Il convient alors d’indiquer précisément pour quels designs cette prolongation est requise.
 
-<sup>3</sup> La taxe de prolongation doit être payée dans les délais fixés à l’al. 1. A défaut, une surtaxe est perçue.[^21-1]
+<sup>3</sup> La taxe de prolongation doit être payée dans les délais fixés à l’al. 1. À défaut, une surtaxe est perçue.[^21-1]
 
 <sup>4</sup> La prolongation prend effet dès la fin de la période de protection.
 
@@ -364,7 +365,7 @@ Avant l’enregistrement du design dans le registre et aussi longtemps que la pu
 
 <sup>3</sup> …[^24-1]
 
-<sup>4</sup> A l’expiration du délai de conservation, l’IPI rend au titulaire les exemplaires des designs déposés si ce dernier en fait la demande. La requête doit être présentée avant l’expiration du délai de conservation.[^24-2]
+<sup>4</sup> À l’expiration du délai de conservation, l’IPI rend au titulaire les exemplaires des designs déposés si ce dernier en fait la demande. La requête doit être présentée avant l’expiration du délai de conservation.[^24-2]
 
 [^24-1]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
@@ -491,7 +492,7 @@ Sur requête, l’IPI radie les droits inscrits en faveur de tiers à condition 
 
 **Rectifications**
 
-<sup>1</sup> A la demande du titulaire du design, les inscriptions erronées sont rectifiées sans délai.[^31-1]
+<sup>1</sup> À la demande du titulaire du design, les inscriptions erronées sont rectifiées sans délai.[^31-1]
 
 <sup>2</sup> S’il commet une erreur par inadvertance, l’IPI rectifie l’inscription d’office.
 
@@ -501,7 +502,7 @@ Sur requête, l’IPI radie les droits inscrits en faveur de tiers à condition 
 
 <sup>1</sup> …[^32-1]
 
-<sup>2</sup> et <sup>3</sup> …[^32-2]
+<sup>2 et <sup>3</sup></sup> …[^32-2]
 
 [^32-1]: Abrogé par le ch. I de l’O du 3 déc. 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 [^32-2]: Abrogés par le ch. I de l’O du 18 oct. 2006, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
@@ -532,7 +533,7 @@ Sur requête, l’IPI radie les droits inscrits en faveur de tiers à condition 
 
 **Objet de la publication**
 
-A moins que l’ajournement de la publication n’ait été requis, l’IPI publie:
+À moins que l’ajournement de la publication n’ait été requis, l’IPI publie:
 
 - a. l’enregistrement du design et les indications énumérées à l’art. 25, al. 1, let a à h, et 2;
 - b. les indications énumérées à l’art. 25, al. 3 et 4, si leur publication paraît appropriée.
@@ -547,13 +548,13 @@ A moins que l’ajournement de la publication n’ait été requis, l’IPI publ
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
-## Chapitre 5 Intervention de l’Administration des douanes
+## Chapitre 5 Intervention de l’OFDF
 
 #### Art. 37
 
 **Domaine d’application**[^37-1]
 
-L’Administration des douanes est habilitée à intervenir en cas d’introduction sur le territoire douanier suisse et de sortie dudit territoire d’objets fabriqués illicitement.
+L’OFDF est habilité à intervenir en cas d’introduction sur le territoire douanier suisse et de sortie dudit territoire d’objets fabriqués illicitement.
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -584,9 +585,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 #### Art. 39a
 
-**Echantillons**[^39a-1]
+**Échantillons**[^39a-1]
 
-<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou encore l’inspection des objets retenus. Au lieu d’échantillons, l’Administration des douanes peut aussi lui remettre des photographies desdits objets si elles lui permettent d’effectuer cet examen.
+<sup>1</sup> Le requérant peut présenter une demande pour solliciter la remise ou l’envoi d’échantillons à des fins d’examen ou encore l’inspection des objets retenus. Au lieu d’échantillons, l’OFDF peut aussi lui remettre des photographies desdits objets si elles lui permettent d’effectuer cet examen.
 
 <sup>2</sup> Le requérant peut présenter cette demande à la Direction générale des douanes en même temps que la demande d’intervention ou, pendant la rétention des objets, directement au bureau de douane qui retient les objets.
 
@@ -596,9 +597,9 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Protection des secrets de fabrication et d’affaires**[^39b-1]
 
-<sup>1</sup> L’Administration des douanes informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Elle lui impartit un délai raisonnable pour présenter cette demande.
+<sup>1</sup> L’OFDF informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité de refuser le prélèvement d’échantillons sur présentation d’une demande motivée. Il lui impartit un délai raisonnable pour présenter cette demande.
 
-<sup>2</sup> Si l’Administration des douanes autorise le requérant à inspecter les objets retenus, elle tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
+<sup>2</sup> Si l’OFDF autorise le requérant à inspecter les objets retenus, il tient compte, pour fixer le moment de l’inspection, de manière appropriée des intérêts du requérant, d’une part, et de ceux du déclarant, du possesseur ou du propriétaire, d’autre part.
 
 [^39b-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -606,17 +607,17 @@ L’Administration des douanes est habilitée à intervenir en cas d’introduct
 
 **Conservation des moyens de preuve en cas de destruction des objets**[^39c-1]
 
-<sup>1</sup> L’Administration des douanes conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 48, al. 1 LDes. Après expiration de ce délai, elle invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’Administration des douanes détruit les échantillons.
+<sup>1</sup> L’OFDF conserve les échantillons prélevés durant un an à compter de la communication adressée au déclarant, au possesseur ou au propriétaire conformément à l’art. 48, al. 1 LDes. Après expiration de ce délai, il invite le déclarant, le possesseur ou le propriétaire à reprendre possession des échantillons ou à supporter les frais pour la poursuite de leur conservation. Si le déclarant, le possesseur ou le propriétaire ne donne pas suite à cette invitation ou s’il ne fait pas connaître sa décision dans les 30 jours, l’OFDF détruit les échantillons.
 
-<sup>2</sup> Au lieu de prélever des échantillons, l’Administration des douanes peut faire des photographies des objets détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
+<sup>2</sup> Au lieu de prélever des échantillons, l’OFDF peut faire des photographies des objets détruits pour autant que cette mesure permette de garantir la conservation des moyens de preuve.
 
 [^39c-1]: Introduit par le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
 #### Art. 40
 
-**Emoluments**[^40-1]
+**Émoluments**[^40-1]
 
-Les émoluments perçus pour l’intervention de l’Administration des douanes sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Administration fédérale des douanes[^40-2].
+Les émoluments perçus pour l’intervention de l’OFDF sont fixés dans l’ordonnance du 4 avril 2007 sur les émoluments de l’Office fédéral de la douane et de la sécurité des frontières[^40-2].
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 [^40-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)

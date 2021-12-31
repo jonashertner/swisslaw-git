@@ -4,11 +4,11 @@ title: "Ordinanza dell' 8 marzo 2002 sulla protezione del design (Ordinanza sul 
 short: ODes
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/183"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2002-03-08
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2002-183-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/183/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-183-20220101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/183/20170101/it"
 
 (Ordinanza sul design, ODes)
 
-dell’8 marzo 2002 (Stato 1° gennaio 2017) (Stato 1° gennaio 2017)
+dell’8 marzo 2002 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -37,11 +37,12 @@ ordina:
 
 <sup>1</sup> L’esecuzione dei compiti amministrativi risultanti dalla LDes[^1-1] e dalla presente ordinanza spetta all’Istituto Federale della Proprietà Intellettuale[^1-2] (IPI)[^1-3].
 
-<sup>2</sup> L’esecuzione degli articoli 46–49 della LDes e degli articoli 37–40 della presente ordinanza spetta all’Amministrazione federale delle dogane.
+<sup>2</sup> L’esecuzione degli articoli 46–49 della LDes e degli articoli 37–40 della presente ordinanza spetta all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-4].
 
 [^1-1]: Nuova espr. giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-2]: Nuova espr. giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^1-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -242,9 +243,9 @@ La tassa di registrazione si compone:
 
 - a. della tassa di base;
 - b. eventualmente della tassa per la pubblicazione;
-- [tab] c. e d.[^17-2] …
+- [tab] c. e d.[^17-2] ...
 
-<sup>3</sup> …[^17-3]
+<sup>3</sup> ...[^17-3]
 
 <sup>4</sup> Qualora la registrazione debba essere pubblicata dopo la scadenza del differimento, prima della pubblicazione va pagata la tassa per la pubblicazione.[^17-4]
 
@@ -325,7 +326,7 @@ Se è stata presentata una domanda di rinnovo, ma la protezione non è rinnovata
 
 <sup>2</sup> I documenti di prova che rendono pubblici segreti di fabbricazione o d’affari oppure contengono altre indicazioni sulle quali il depositante ha un legittimo interesse alla tutela del segreto sono conservati separatamente su domanda. Tale fatto è menzionato nel fascicolo.[^22-1]
 
-<sup>3</sup> …[^22-2]
+<sup>3</sup> ...[^22-2]
 
 [^22-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
 [^22-2]: Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
@@ -360,7 +361,7 @@ Prima dell’iscrizione del design nel registro e durante il periodo del differi
 
 <sup>2</sup> Conserva, per cinque anni dopo il ritiro, dopo il rigetto o dopo la non entrata nel merito, l’originale o la copia degli atti delle domande di registrazione che sono state ritirate o respinte o sulle quali l’IPI non è entrato nel merito.
 
-<sup>3</sup> …[^24-1]
+<sup>3</sup> ...[^24-1]
 
 <sup>4</sup> Su domanda, l’IPI restituisce al titolare del diritto, una volta scaduto il termine di conservazione, gli esemplari del design presentati. La domanda va presentata prima della scadenza del termine di conservazione.[^24-2]
 
@@ -410,7 +411,7 @@ Nel registro sono inoltre iscritti:
 
 <sup>4</sup> L IPI vi può iscrivere altre indicazioni d’interesse pubblico.
 
-<sup>5</sup> …[^25-3]
+<sup>5</sup> ...[^25-3]
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^25-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
@@ -424,7 +425,7 @@ Nel registro sono inoltre iscritti:
 
 <sup>2</sup> L’IPI allestisce estratti del registro.[^26-1]
 
-<sup>3</sup> …[^26-2]
+<sup>3</sup> ...[^26-2]
 
 [^26-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4833](https://fedlex.data.admin.ch/eli/oc/2016/775)).
 [^26-2]: Abrogato dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
@@ -497,9 +498,9 @@ Su domanda, l’IPI cancella il diritto registrato in favore di terzi qualora il
 
 #### Art. 32
 
-<sup>1</sup> …[^32-1]
+<sup>1</sup> ...[^32-1]
 
-<sup>2</sup> e <sup>3</sup> …[^32-2]
+<sup>2 e <sup>3</sup></sup> ...[^32-2]
 
 [^32-1]: Abrogato dal n. I dell’O del 3 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 [^32-2]: Abrogati dal n. I dell’O del 18 ott. 2006, con effetto dal 1° gen. 2007 ([RU 2006 4481](https://fedlex.data.admin.ch/eli/oc/2006/690)).
@@ -545,13 +546,13 @@ L’IPI pubblica, fatto salvo il differimento della pubblicazione:
 
 [^36-1]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5023](https://fedlex.data.admin.ch/eli/oc/2004/769)).
 
-## Capitolo 5: Intervento dell’Amministrazione delle dogane
+## Capitolo 5: Intervento dell’UDSC
 
 #### Art. 37
 
 **Campo d’applicazione**[^37-1]
 
-L’Amministrazione federale delle dogane è abilitata a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di oggetti prodotti illecitamente.
+L’UDSC è abilitato a intervenire in caso di introduzione sul territorio doganale o all’asportazione da esso di oggetti prodotti illecitamente.
 
 [^37-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -561,7 +562,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 <sup>1</sup> Il titolare del diritto o il titolare della licenza legittimato ad agire (richiedente) deve presentare la domanda d’intervento alla Direzione generale delle dogane.
 
-<sup>1</sup> <sup>bis</sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^38-2]
+<sup>1<sup>bis</sup></sup> La Direzione generale delle dogane decide in merito alla domanda al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^38-2]
 
 <sup>2</sup> La domanda rimane valida per due anni, qualora non sia stata posta per una durata di validità più breve. Può essere rinnovata.
 
@@ -584,7 +585,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Campioni**[^39a-1]
 
-<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece di campioni l’Amministrazione delle dogane può trasmettere al richiedente fotografie degli oggetti ritenuti, se queste ne consentono l’esame.
+<sup>1</sup> Il richiedente può chiedere la consegna o l’invio di campioni a scopo di esame oppure può chiedere di ispezionare la merce ritenuta. Invece di campioni l’UDSC può trasmettere al richiedente fotografie degli oggetti ritenuti, se queste ne consentono l’esame.
 
 <sup>2</sup> La richiesta può essere presentata insieme alla domanda d’intervento alla Direzione generale delle dogane o, durante la ritenzione degli oggetti, direttamente all’ufficio doganale che trattiene gli oggetti.
 
@@ -594,9 +595,9 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Tutela dei segreti di fabbricazione e di affari**[^39b-1]
 
-<sup>1</sup> L’Amministrazione delle dogane informa il depositante, il detentore o il proprietario degli oggetti della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta essa stabilisce un termine adeguato.
+<sup>1</sup> L’UDSC informa il depositante, il detentore o il proprietario degli oggetti della possibilità di presentare una richiesta motivata per rifiutare il prelievo di campioni. Per l’inoltro della richiesta esso stabilisce un termine adeguato.
 
-<sup>2</sup> Qualora l’Amministrazione delle dogane consenta al richiedente di ispezionare gli oggetti ritenuti, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
+<sup>2</sup> Qualora l’UDSC consenta al richiedente di ispezionare gli oggetti ritenuti, per stabilire il momento dell’esame tiene conto in maniera adeguata degli interessi del richiedente e del depositante, del detentore o del proprietario.
 
 [^39b-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -604,9 +605,9 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Conservazione dei mezzi di prova in caso di distruzione degli oggetti**[^39c-1]
 
-<sup>1</sup> L’Amministrazione delle dogane trattiene i campioni prelevati per un periodo di un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 48 capoverso 1 della LDes. Allo scadere di tale termine l’Amministrazione delle dogane invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’Amministrazione delle dogane distrugge i campioni.
+<sup>1</sup> L’UDSC trattiene i campioni prelevati per un periodo di un anno dalla notifica del depositante, del detentore o del proprietario in virtù dell’articolo 48 capoverso 1 della LDes. Allo scadere di tale termine l’UDSC invita il depositante, il detentore o il proprietario a prendere in custodia i campioni, oppure ad assumere i costi per la conservazione ulteriore. Qualora il depositante, il detentore o il proprietario non sia disposto a prendere in custodia i campioni oppure ad assumere i costi per la conservazione ulteriore, o se non si esprime entro 30 giorni, l’UDSC distrugge i campioni.
 
-<sup>2</sup> Invece di prelevare campioni essa può fotografare gli oggetti distrutti, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
+<sup>2</sup> Invece di prelevare campioni esso può fotografare gli oggetti distrutti, a condizione che ciò consenta di garantire la conservazione dei mezzi di prova.
 
 [^39c-1]: Introdotto dal n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 
@@ -614,7 +615,7 @@ L’Amministrazione federale delle dogane è abilitata a intervenire in caso di 
 
 **Tasse**[^40-1]
 
-Le tasse per l’intervento dell’Amministrazione delle dogane sono retti dall’ordinanza del 4 aprile 2007[^40-2] sugli emolumenti dell’Amministrazione federale delle dogane.
+Le tasse per l’intervento dell’UDSC sono rette dall’ordinanza del 4 aprile 2007[^40-2] sugli emolumenti dell’Ufficio federale della dogana e della sicurezza dei confini.
 
 [^40-1]: Nuovo testo giusta il n. I dell’O del 21 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2549](https://fedlex.data.admin.ch/eli/oc/2008/365)).
 [^40-2]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
@@ -627,7 +628,7 @@ Le tasse per l’intervento dell’Amministrazione delle dogane sono retti dall�
 
 L’ordinanza del 27 luglio 1900[^41-1] sui disegni e modelli industriali è abrogata.
 
-[^41-1]: [CS **2** 885; [RU 1956 874](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874), [1962 481](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481), [1968 619](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619), [1972 2277](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277), [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994), [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789)[5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161), [1996 1340](https://fedlex.data.admin.ch/eli/oc/1996/__1340)]
+[^41-1]: [CS **2** 885; [RU 1956 874](https://fedlex.data.admin.ch/eli/oc/1956/806_863_874); [1962 481](https://fedlex.data.admin.ch/eli/oc/1962/460_467_481); [1968 619](https://fedlex.data.admin.ch/eli/oc/1968/603_627_619); [1972 2277](https://fedlex.data.admin.ch/eli/oc/1972/2447_2501_2277); [1977 1994](https://fedlex.data.admin.ch/eli/oc/1977/1994_1994_1994); [1995 1789](https://fedlex.data.admin.ch/eli/oc/1995/1789_1789_1789),[5161](https://fedlex.data.admin.ch/eli/oc/1995/5161_5161_5161); [1996 1340](https://fedlex.data.admin.ch/eli/oc/1996/__1340)]
 
 #### Art. 42
 
