@@ -4,13 +4,13 @@ number: "651.100"
 title: Steuergesetz
 short: StG
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-06-30
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-07
 adopted: 1998-12-15
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2966/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3139/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2966/pdf_file"
 
 (StG)
 
-Vom 15.12.1998 (Stand 01.01.2021)
+Vom 15.12.1998 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -695,8 +695,8 @@ beschliesst:
 - e) Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge im Sinn und im Umfang des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^40-1];
 - f) die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
 - g) als Pauschalbetrag für Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter litera f fallende Unfallversicherung sowie für die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen:
-  - 1\. Fr. 4'000.– für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben;
-  - 2\. Fr. 2'000.– für die übrigen Steuerpflichtigen;
+  - 1\. Fr. 6'000.– für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben;
+  - 2\. Fr. 3'000.– für die übrigen Steuerpflichtigen;
 - h) Fr. 600.– vom Erwerbseinkommen, das der eine Eheteil unabhängig vom Beruf, Geschäft oder Gewerbe des andern Eheteils erzielt. Der gleiche Abzug von Fr. 600.– kann bei erheblicher Mitarbeit des einen Eheteils im Beruf, Geschäft oder Gewerbe des andern Eheteils vorgenommen werden;
 - i) die Krankheits- und Unfallkosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, soweit die steuerpflichtige Person diese Kosten selber trägt und diese 5 % der um die Aufwendungen nach den §§ 35–40 verminderten steuerbaren Einkünfte übersteigen;
 - i<sup>bis</sup>) die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinne des Bundesgesetzes über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz, BehiG) vom 13. Dezember 2002[^40-2], soweit die steuerpflichtige Person diese Kosten selber trägt;
@@ -708,6 +708,12 @@ beschliesst:
 - p) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von Fr. 12‘000.–, wenn
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt; oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
+
+<sup>2</sup> Die Pauschalbeträge gemäss Absatz 1 lit. g werden jährlich an die Entwicklung der kantonalen mittleren Prämie der Krankenpflege-Grundversicherung angepasst. Massgebend für die Anpassung ist die prozentuale Veränderung der vom Bundesamt für Gesundheit publizierten kantonalen monatlichen mittleren Prämie der obligatorischen Krankenpflegeversicherung für Erwachsene inkl. Wahlfranchisen und Modelle.
+
+<sup>3</sup> Die Anpassung gemäss Absatz 2 wird auf dem Abzug für die übrigen Steuerpflichtigen berechnet, wobei das Ergebnis auf Fr. 100.– auf- oder abzurunden ist. Der Abzug für Verheiratete beträgt stets das Doppelte.
+
+<sup>4</sup> Mit den im Rahmen der Änderung des Steuergesetzes vom 7. Dezember 2021 beschlossenen Pauschalbeträgen ist die Prämienentwicklung für die Steuerperiode 2022 berücksichtigt. Die Pauschalbeträge werden erstmals für die Steuerperiode 2023 angepasst.
 
 [^40-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 [^40-2]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
@@ -957,7 +963,7 @@ beschliesst:
 
 **II. Anpassung an die Teuerung**
 
-<sup>1</sup> Der Regierungsrat passt die Steuertarife gemäss den §§ 43 und 55 sowie die Abzüge gemäss den §§ 40 lit. g und 42 Abs. 1 lit. a–d jährlich an den Landesindex der Konsumentenpreise an. Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode. Bei negativem Teuerungsverlauf ist eine Anpassung ausgeschlossen. Der auf eine negative Teuerung folgende Ausgleich erfolgt auf der Basis des letzten Ausgleichs. Die Beträge sind bei der Einkommenssteuer auf Fr. 100.–, bei der Vermögenssteuer auf Fr. 1'000.– auf- oder abzurunden.
+<sup>1</sup> Der Regierungsrat passt die Steuertarife gemäss den §§ 43 und 55 sowie die Abzüge gemäss § 42 Abs. 1 lit. a–d jährlich an den Landesindex der Konsumentenpreise an. Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode. Bei negativem Teuerungsverlauf ist eine Anpassung ausgeschlossen. Der auf eine negative Teuerung folgende Ausgleich erfolgt auf der Basis des letzten Ausgleichs. Die Beträge sind bei der Einkommenssteuer auf Fr. 100.–, bei der Vermögenssteuer auf Fr. 1'000.– auf- oder abzurunden.
 
 <sup>2</sup> …
 
@@ -1301,12 +1307,14 @@ beschliesst:
 
 **II. Steuerberechnung 1. Kapitalgesellschaften und Genossenschaften**
 
-<sup>1</sup> Kapitalgesellschaften und Genossenschaften entrichten als einfache Steuer vom Reingewinn:
+<sup>1</sup> Kapitalgesellschaften und Genossenschaften entrichten als einfache Steuer 5,5 % auf dem steuerbaren Reingewinn.[^75-1]
 
-- a) 5,5 % auf den ersten Fr. 250'000.– des steuerbaren Reingewinns;
-- b) 8,5 % auf dem übrigen Reingewinn.
+- a) …
+- b) …
 
 <sup>2</sup> …
+
+[^75-1]: Inkrafttreten 1. Januar 2024
 
 #### § 76
 
@@ -3750,6 +3758,47 @@ beschliesst:
 <sup>3</sup> Haben juristische Personen, die gemäss den §§ 78 oder 79 besteuert werden, bereits vor Inkrafttreten der Änderung vom 17. September 2019 das Statusprivileg verloren oder aufgegeben, können sie die beim Wegfall des Privilegs bestehenden stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts, soweit sie während des Privilegs entstanden sind und bisher nicht steuerbar gewesen wären, steuerneutral offen legen.
 
 <sup>4</sup> Abschreibungen auf den offen gelegten stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts werden ab 1. Januar 2020 in die Berechnung der Entlastungsbegrenzung gemäss § 69b einbezogen. Am 31. Dezember 2024 noch vorhandene stille Reserven einschliesslich des selbst geschaffenen Mehrwerts sind steuerfrei aufzulösen.
+
+#### § 271b
+
+**f) Übergangsbestimmungen zur Änderung vom 7. Dezember 2021 aa) Steuerberechnung; Kapitalgesellschaften und Genossenschaften (§ 75)**
+
+<sup>1</sup> Kapitalgesellschaften und Genossenschaften entrichten als einfache Steuer vom Reingewinn:
+
+- a) vom 1. Januar 2022 bis 31. Dezember 2023 5,5 % auf den ersten Fr. 250'000.– des steuerbaren Reingewinns;
+- b) vom 1. Januar 2022 bis 31. Dezember 2022 7,5 % auf dem übrigen Reingewinn;
+- c) vom 1. Januar 2023 bis 31. Dezember 2023 6,5 % auf dem übrigen Reingewinn.
+
+#### § 271c
+
+**bb) Zuschläge zur Kantonssteuer (§ 90)**
+
+<sup>1</sup> Anstelle der in § 90 Abs. 1 lit. a und b festgelegten Zuschläge gelten bis Ende der Steuerperiode 2025 folgende Zu- oder Abschläge auf der einfachen Kantonssteuer vom steuerbaren Reingewinn und Eigenkapital:
+
+- a) vom 1. Januar 2022 bis 31. Dezember 2022
+  - 1\. ein Kantonssteuerabschlag von -1 %;
+  - 2\. ein Zuschlag von 56 % an die Einwohnergemeinden, in denen die juristische Person steuerpflichtig ist.
+- b) vom 1. Januar 2023 bis 31. Dezember 2023
+  - 1\. ein Kantonssteuerabschlag von -4 %;
+  - 2\. ein Zuschlag von 59 % an die Einwohnergemeinden, in denen die juristische Person steuerpflichtig ist.
+- c) vom 1. Januar 2024 bis 31. Dezember 2024
+  - 1\. ein Kantonssteuerabschlag von -7 %;
+  - 2\. ein Zuschlag von 62 % an die Einwohnergemeinden, in denen die juristische Person steuerpflichtig ist.
+- d) vom 1. Januar 2025 bis 31. Dezember 2025
+  - 1\. ein Kantonssteuerabschlag von -3 %;
+  - 2\. ein Zuschlag von 58 % an die Einwohnergemeinden, in denen die juristische Person steuerpflichtig ist.
+
+<sup>2</sup> Ab 1. Januar 2026 gelten die Zuschläge gemäss § 90 Abs. 1 lit. a und b.
+
+#### § 271d
+
+**cc) Kompensation Gemeinden**
+
+<sup>1</sup> Der Kanton leistet den Gemeinden einmalig einen Ausgleichsbetrag von Fr. 10 Mio. für die Steuerperiode 2022. Die Zahlung erfolgt spätestens per 30. Juni 2022.
+
+<sup>2</sup> Für die Jahre 2023 bis 2025 bestimmt der Regierungsrat nach Ablauf des jeweiligen Rechnungsjahrs die Differenz zwischen dem Total der Einkommens-, Vermögens-, Quellen-, Gewinn- und Kapitalsteuereinnahmen aller Gemeinden gesamthaft des abgelaufenen Rechnungsjahrs und den entsprechenden Einnahmen in der Vorperiode, für das Jahr 2022 inklusive Ausgleichszahlung gemäss Absatz 1. Die Steuereinnahmen der Gemeinden der Jahre 2023 bis 2025 werden für diese Berechnung um allfällige Änderungen der Gemeindesteuerfüsse der natürlichen Personen korrigiert. Sind die Einnahmen aller Gemeinden gesamthaft aus den vorstehend genannten Steuern in einem Jahr tiefer als im Vorjahr, leistet der Kanton den Gemeinden bis Ende Jahr einen Ausgleichsbetrag in der Höhe dieser Differenz, jedoch je Jahr 2023 bis 2025 maximal Fr. 10 Mio.
+
+<sup>3</sup> Die Verteilung der Ausgleichszahlungen auf die einzelnen Gemeinden erfolgt im Verhältnis zu ihrer Einwohnerzahl. Für das Jahr 2022 per 31. Dezember 2021, für die Jahre 2023 bis 2025 per 31. Dezember des Jahres, für welches die Ausgleichszahlung erfolgt.
 
 #### § 272
 
