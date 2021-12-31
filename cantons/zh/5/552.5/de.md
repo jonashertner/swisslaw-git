@@ -4,10 +4,11 @@ number: "552.5"
 title: Kantonale Sprengstoffverordnung (KSprstV)
 short: KSprstV
 language: de
-nachtrag: "72"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2024-01-01
 adopted: 2010-12-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-552_5-2010_12_15-2011_03_01-072.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-552_5-2010_12_15-2011_03_01-115.html"
 text: pdf
 ---
 
@@ -44,21 +45,17 @@ Das kantonale Feuerpolizeirecht[^1-1] bleibt vorbehalten.
 
 Der Vollzug der Bestimmungen über pyrotechnische Gegenstände für Vergnügungszwecke obliegt der Feuerpolizei.
 
-#### § 4
-
-**Prüfungen (Art. 14 Abs. 4 SprstG)**
-
-Soweit die Prüfungen zur Erlangung des Ausweises für die Verwendung von Sprengmitteln und pyrotechnischen Gegenständen nicht durch Organisationen der Wirtschaft erfolgen, obliegen sie dem Wissenschaftlichen Dienst der Stadtpolizei Zürich.
-
-#### § 5
+§ 4.[^3-1]
 
 **Fabrikationsbetriebe und Herstellerlager (Art. 18 SprstG)**
 
-Fabrikationsbetriebe für Sprengmittel und pyrotechnische Gegenstände, einschliesslich Herstellerlager, die sich auf dem Betriebsareal befinden, werden wie folgt überwacht:
+§ 5. Fabrikationsbetriebe für Sprengmittel und pyrotechnische Gegenstände, einschliesslich Herstellerlager, die sich auf dem Betriebsareal befinden, werden wie folgt überwacht:
 
 - a. im Bereich des Brandschutzes durch die Kantonale Feuerpolizei,
 
 - b. in den übrigen Bereichen durch das Amt für Wirtschaft und Arbeit.
+
+[^3-1]: Aufgehoben durch RRB vom 7. Juli 2021 (OS 76, 397; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
 
 #### § 6
 
@@ -82,11 +79,11 @@ Die für Ausbildungskurse und Prüfungen erforderlichen Zuverlässigkeitsbeschei
 
 **1**
 
-- 1\. 4. 11 - 72 § 9. Sprengmittel, die in ihrer Wirkungsweise, Brauchbarkeit oder Beständigkeit mangelhaft sind, sind dem Verkäufer zurückzugeben oder dem nächsten Polizeiposten abzuliefern.
+- 1\. 1. 22 - 115 § 9. Sprengmittel, die in ihrer Wirkungsweise, Brauchbarkeit oder Beständigkeit mangelhaft sind, sind dem Verkäufer zurückzugeben oder dem nächsten Polizeiposten abzuliefern.
 
 #### § 10
 
-**Rückgabe und Vernichtungvon Sprengmitteln (Art. 26 SprstG)**
+**Rückgabe und Vernichtung von Sprengmitteln (Art. 26 SprstG)**
 
 **Strafverfolgung**
 
