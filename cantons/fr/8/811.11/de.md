@@ -3,13 +3,13 @@ canton: FR
 number: "811.11"
 title: Verordnung über den Bodenschutz
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2002-08-20
 in_force: 2002-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/811.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6304/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7038/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6304/pdf_file"
 
 Bodenschutz – V
 
-vom 20.08.2002 (Fassung in Kraft getreten am 01.04.2019)
+vom 20.08.2002 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -43,8 +43,8 @@ beschliesst:
 - a) die Raumplanungs-, Umwelt- und Baudirektion;
 - b) die Direktion der Institutionen und der Land- und Forstwirtschaft;
 - c) das Amt für Umwelt;
-- d) das Amt für Landwirtschaft (LwA);
-- e) das Landwirtschaftliche Institut des Kantons Freiburg;
+- d) …
+- e) Grangeneuve;
 - f) das Amt für Wald und Natur;
 - g) …
 - h) das Bau- und Raumplanungsamt.
@@ -73,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft trifft die Entscheide gemäss Artikel 6 Abs. 2, Artikel 8 Abs. 3 und 4, Artikel 9 Abs. 2 und Artikel 10 VBBo für Waldböden sowie für landwirtschaftliche Böden bei physikalischen oder chemischen Belastungen, die auf die landwirtschaftliche Nutzung zurückzuführen sind.
 
-<sup>2</sup> Sie kann bestimmte Entscheide für die in Absatz 1 genannten Fälle dem Amt für Landwirtschaft oder dem Amt für Wald und Natur delegieren.
+<sup>2</sup> Sie kann bestimmte Entscheide für die in Absatz 1 genannten Fälle Grangeneuve oder dem Amt für Wald und Natur delegieren.
 
 #### Art. 5
 
@@ -87,25 +87,23 @@ beschliesst:
 
 #### Art. 6
 
-**Aufgaben des Amts für Landwirtschaft**
-
-<sup>1</sup> Das Amt für Landwirtschaft wirkt beim Vollzug von Artikel 4 Abs. 1 und 3, Artikel 5, Artikel 8 Abs. 1 und 2 und Artikel 9 Abs. 1 VBBo bei landwirtschaftlichen Böden mit, indem es die im Rahmen des ökologischen Leistungsnachweises erforderlichen Kontrollen durchführt.
-
-<sup>2</sup> Es achtet auf die Anwendung der VBBo bei Bodenveränderungen auf Baustellen in Landwirtschaftszonen. Zu diesem Zweck kann es vom Bauherrn eine bodenkundliche Baubegleitung durch eine Fachstelle verlangen.
-
-<sup>2<sup>bis</sup></sup> Es prüft vor der Genehmigung durch die Direktion der Institutionen und der Land- und Forstwirtschaft, ob insbesondere bei Güterzusammenlegungen aktive Bodenschutzmassnahmen gegen die Erosion in die Meliorationsprojekte integriert wurden.
-
-<sup>3</sup> Es begutachtet die Baubewilligungsgesuche für Anlagen zur Nutztierhaltung.
+**…**
 
 #### Art. 7
 
-**Aufgaben des Landwirtschaftlichen Instituts des Kantons Freiburg**
+**Aufgaben von Grangeneuve**
 
-<sup>1</sup> Das Landwirtschaftliche Institut des Kantons Freiburg übernimmt die Aufgaben, die zur Vermeidung von physikalischen Bodenbelastungen auf landwirtschaftlichen Böden (Anbautechnik, aktive Massnahmen usw.) und von chemischen Bodenbelastungen, die durch die landwirtschaftliche Nutzung verursacht werden können, erforderlich sind.
+<sup>1</sup> Grangeneuve übernimmt die Aufgaben, die zur Vermeidung von physikalischen Bodenbelastungen auf landwirtschaftlichen Böden (Anbautechnik, aktive Massnahmen usw.) und von chemischen Bodenbelastungen, die durch die landwirtschaftliche Nutzung verursacht werden können, erforderlich sind.
 
-<sup>2</sup> Es vollzieht die Aufgaben nach Artikel 4 Abs. 1 und 3, Artikel 5, Artikel 8 Abs. 1 und 2 und Artikel 9 Abs. 1 VBBo für landwirtschaftliche Böden, mit Ausnahme der Kontrolle der Bodenschutzmassnahmen im Rahmen des ökologischen Leistungsnachweises.
+<sup>2</sup> Es vollzieht die Aufgaben nach Artikel 4 Abs. 1 und 3, Artikel 5, Artikel 8 Abs. 1 und 2 und Artikel 9 Abs. 1 VBBo für landwirtschaftliche Böden.
 
 <sup>3</sup> Es kontrolliert die Düngerbilanzen für diejenigen Flächen, die für die Ausbringung des aus rezykliertem organischem Material bestehenden Düngers notwendig sind, namentlich im Rahmen der Baubewilligungsgesuche für Anlagen zur Nutztierhaltung.
+
+<sup>4</sup> Es achtet auf die Anwendung der VBBo bei Bodenveränderungen auf Baustellen in Landwirtschaftszonen. Zu diesem Zweck kann es vom Bauherrn eine bodenkundliche Baubegleitung durch eine Fachstelle verlangen.
+
+<sup>5</sup> Es prüft vor der Genehmigung durch die Direktion der Institutionen und der Land- und Forstwirtschaft, ob insbesondere bei Güterzusammenlegungen aktive Bodenschutzmassnahmen gegen die Erosion in die Meliorationsprojekte integriert wurden.
+
+<sup>6</sup> Es begutachtet die Baubewilligungsgesuche für Anlagen zur Nutztierhaltung.
 
 #### Art. 8
 
@@ -129,7 +127,7 @@ beschliesst:
 
 **Koordination**
 
-<sup>1</sup> In der Koordinationsgruppe für den Boden sind das Amt für Umwelt, das Landwirtschaftliche Institut des Kantons Freiburg, das Amt für Landwirtschaft, das Bau- und Raumplanungsamt und das Amt für Wald und Natur vertreten. Sie erarbeitet das kantonale Bodenschutzkonzept nach den Zielen und Grundsätzen des kantonalen Richtplans und nach den Ergebnissen des Bodenbeobachtungsnetzes.
+<sup>1</sup> In der Koordinationsgruppe für den Boden sind das Amt für Umwelt, Grangeneuve, das Bau- und Raumplanungsamt und das Amt für Wald und Natur vertreten. Sie erarbeitet das kantonale Bodenschutzkonzept nach den Zielen und Grundsätzen des kantonalen Richtplans und nach den Ergebnissen des Bodenbeobachtungsnetzes.
 
 <sup>2</sup> Der dem Amt für Umwelt angegliederte Koordinator für den Boden sorgt für die allgemeine Koordination des qualitativen und quantitativen Bodenschutzes, welche die notwendigen Beziehungen zu den anderen Kantonen und den Bundesbehörden umfasst.
 

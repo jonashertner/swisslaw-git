@@ -3,13 +3,13 @@ canton: FR
 number: "811.11"
 title: Ordonnance sur la protection des sols
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-12-14
 adopted: 2002-08-20
 in_force: 2002-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/811.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6304/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7038/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6304/pdf_file"
 
 Protection des sols – O
 
-du 20.08.2002 (version entrée en vigueur le 01.04.2019)
+du 20.08.2002 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -43,8 +43,8 @@ Arrête:
 - a) la Direction de l'aménagement, de l'environnement et des constructions;
 - b) la Direction des institutions, de l'agriculture et des forêts;
 - c) le Service de l'environnement (SEn);
-- d) le Service de l'agriculture (SAgri);
-- e) l'Institut agricole de l'Etat de Fribourg, à Grangeneuve (IAG);
+- d) …
+- e) Grangeneuve;
 - f) le Service des forêts et de la nature (SFN);
 - g) …
 - h) le Service des constructions et de l'aménagement (SeCa).
@@ -73,7 +73,7 @@ Arrête:
 
 <sup>1</sup> La Direction des institutions, de l'agriculture et des forêts prend les décisions prévues à l'article 6 al. 2, à l'article 8 al. 3 et 4, à l'article 9 al. 2 et à l'article 10 OSol pour les sols forestiers; elle fait de même pour les sols agricoles lors d'atteintes physiques ou d'atteintes chimiques d'origine agricole.
 
-<sup>2</sup> Elle peut déléguer certaines décisions au SAgri ou au SFN pour les cas cités à l'alinéa 1.
+<sup>2</sup> Elle peut déléguer certaines décisions à Grangeneuve ou au SFN pour les cas cités à l'alinéa 1.
 
 #### Art. 5
 
@@ -87,25 +87,23 @@ Arrête:
 
 #### Art. 6
 
-**Tâches du SAgri**
-
-<sup>1</sup> Le SAgri participe à l'exécution de l'article 4 al. 1 et 3, de l'article 5, de l'article 8 al. 1 et 2 et de l'article 9 al. 1 OSol pour les sols agricoles, par les contrôles effectués dans le cadre des prestations écologiques requises.
-
-<sup>2</sup> Il veille à l'application de l'OSol pour les sols modifiés lors de chantiers en zone agricole. Il peut imposer à cet effet au maître d'ouvrage un suivi pédologique du chantier par une instance spécialisée.
-
-<sup>2<sup>bis</sup></sup> Il vérifie que les mesures actives de protection des sols contre l'érosion ont été intégrées dans les projets d'améliorations foncières, notamment de remaniements parcellaires, avant leur approbation par la Direction des institutions, de l'agriculture et des forêts.
-
-<sup>3</sup> Il est l'organe de préavis lors des demandes de permis de construire d'installations d'élevage d'animaux de rente.
+**…**
 
 #### Art. 7
 
-**Tâches de l'IAG**
+**Tâches de Grangeneuve**
 
-<sup>1</sup> L'IAG assume les tâches de prévention en matière de lutte contre les atteintes physiques des sols agricoles (techniques culturales, mesures actives, etc.) et contre les pollutions d'origine agricole.
+<sup>1</sup> Grangeneuve assume les tâches de prévention en matière de lutte contre les atteintes physiques des sols agricoles (techniques culturales, mesures actives, etc.) et contre les pollutions d'origine agricole.
 
-<sup>2</sup> Il est l'organe d'exécution de l'article 4 al. 1 et 3, de l'article 5, de l'article 8 al. 1 et 2 et de l'article 9 al. 1 OSol pour les sols agricoles, à l'exception du contrôle des mesures de protection des sols prévues dans les prestations écologiques requises.
+<sup>2</sup> Il est l'organe d'exécution de l'article 4 al. 1 et 3, de l'article 5, de l'article 8 al. 1 et 2 et de l'article 9 al. 1 OSol pour les sols agricoles.
 
 <sup>3</sup> Il contrôle les bilans de fumure pour les surfaces nécessaires à l'épandage des engrais provenant de matières organiques recyclées, notamment dans le cadre des demandes de permis de construire pour les installations d'élevage d'animaux de rente.
+
+<sup>4</sup> Il veille à l'application de l'OSol pour les sols modifiés lors de chantiers en zone agricole. Il peut imposer à cet effet au maître d'ouvrage un suivi pédologique du chantier par une instance spécialisée.
+
+<sup>5</sup> Il vérifie que les mesures actives de protection des sols contre l'érosion ont été intégrées dans les projets d'améliorations foncières, notamment de remaniements parcellaires, avant leur approbation par la Direction des institutions, de l'agriculture et des forêts.
+
+<sup>6</sup> Il est l'organe de préavis lors des demandes de permis de construire d'installations d'élevage d'animaux de rente.
 
 #### Art. 8
 
@@ -129,7 +127,7 @@ Arrête:
 
 **Coordination**
 
-<sup>1</sup> Le groupe de coordination pour le sol est composé de représentants du SEn, de l'IAG, du SAgri, du SeCA et du SFN. Il établit le concept cantonal de protection des sols, selon les buts et principes fixés dans le plan directeur cantonal et selon les résultats du réseau de surveillance.
+<sup>1</sup> Le groupe de coordination pour le sol est composé de représentants du SEn, de Grangeneuve, du SeCA et du SFN. Il établit le concept cantonal de protection des sols, selon les buts et principes fixés dans le plan directeur cantonal et selon les résultats du réseau de surveillance.
 
 <sup>2</sup> Le coordinateur Sol, rattaché au SEn, est chargé de la coordination générale en matière de protection qualitative et quantitative des sols, qui prend en compte les relations nécessaires avec les autres cantons et les instances fédérales.
 
