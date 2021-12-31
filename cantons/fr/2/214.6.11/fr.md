@@ -4,13 +4,13 @@ number: "214.6.11"
 title: Règlement sur la mensuration officielle
 short: RMO
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-12-14
 adopted: 2005-03-22
 in_force: 2005-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/214.6.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5959/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7386/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Mensuration officielle – R
 
 (RMO)
 
-du 22.03.2005 (version entrée en vigueur le 01.04.2019)
+du 22.03.2005 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -294,7 +294,7 @@ Arrête:
 
 <sup>1</sup> Lorsque les réclamations sont liquidées, les géomètres font rapport au conseil communal et au Service.
 
-<sup>2</sup> Conformément à l'article 149 de la loi du 30 mai 1990 sur les améliorations foncières (LAF), les documents relatifs aux groupements parcellaires agricoles sont soumis à l'approbation du Service de l'agriculture et ceux qui sont relatifs aux groupements parcellaires forestiers, à celle du Service des forêts et de la nature.
+<sup>2</sup> Conformément à l'article 149 de la loi du 30 mai 1990 sur les améliorations foncières (LAF), les documents relatifs aux groupements parcellaires agricoles sont soumis à l'approbation de Grangeneuve et ceux qui sont relatifs aux groupements parcellaires forestiers, à celle du Service des forêts et de la nature.
 
 #### Art. 27
 
@@ -415,10 +415,10 @@ Arrête:
 
 <sup>2</sup> Le barème est le suivant (hors TVA):
 
-- a) de 1 à 3 immeubles: Fr. 120
-- b) de 4 à 10 immeubles: Fr. 150
-- c) de 11 à 20 immeubles: Fr. 200
-- d) plus de 20 immeubles: Fr. 300
+- a) de 1 à 3 immeubles: — Fr. 120
+- b) de 4 à 10 immeubles: — Fr. 150
+- c) de 11 à 20 immeubles: — Fr. 200
+- d) plus de 20 immeubles: — Fr. 300
 
 <sup>3</sup> Les modifications ultérieures sont facturées au prix de 50 francs (hors TVA).
 
@@ -583,13 +583,13 @@ Arrête:
 
 <sup>3</sup> Lorsque la diffusion ne porte que sur une partie des couches de la mensuration, l'émolument est calculé par couches selon le système suivant:
 
-- a) prix de base: 20 %
-- b) couche des biens-fonds: 20 %
-- c) couche de la couverture du sol: 20 %
-- d) couche des points fixes: 10 %
-- e) couche des objets divers et éléments linéaires: 10 %
-- f) couche de la nomenclature, y compris les adresses: 10 %
-- g) couches des conduites et des divisions administratives: 10 %
+- a) prix de base: — 20 %
+- b) couche des biens-fonds: — 20 %
+- c) couche de la couverture du sol: — 20 %
+- d) couche des points fixes: — 10 %
+- e) couche des objets divers et éléments linéaires: — 10 %
+- f) couche de la nomenclature, y compris les adresses: — 10 %
+- g) couches des conduites et des divisions administratives: — 10 %
 
 <sup>4</sup> La diffusion de la couche altimétrie fait l'objet d'une tarification dictée par les instructions et tarifs de la Confédération.
 

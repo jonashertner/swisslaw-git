@@ -4,13 +4,13 @@ number: "214.6.11"
 title: Reglement über die amtliche Vermessung
 short: AVR
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-12-14
 adopted: 2005-03-22
 in_force: 2005-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/214.6.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5959/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Amtliche Vermessung – R
 
 (AVR)
 
-vom 22.03.2005 (Fassung in Kraft getreten am 01.04.2019)
+vom 22.03.2005 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -294,7 +294,7 @@ beschliesst:
 
 <sup>1</sup> Nach Erledigung der Einsprachen erstattet die Geometerin oder der Geometer dem Gemeinderat und dem Amt darüber Bericht.
 
-<sup>2</sup> Nach Artikel 149 des Gesetzes vom 30. Mai 1990 über die Bodenverbesserungen (BVG) müssen die Dokumente von landwirtschaftlichen Flurbereinigungen dem Amt für Landwirtschaft und diejenigen der Flurbereinigungen der Forstwirtschaft dem Amt für Wald und Natur zur Genehmigung unterbreitet werden.
+<sup>2</sup> Nach Artikel 149 des Gesetzes vom 30. Mai 1990 über die Bodenverbesserungen (BVG) müssen die Dokumente von landwirtschaftlichen Flurbereinigungen Grangeneuve und diejenigen der Flurbereinigungen der Forstwirtschaft dem Amt für Wald und Natur zur Genehmigung unterbreitet werden.
 
 #### Art. 27
 
@@ -415,10 +415,10 @@ beschliesst:
 
 <sup>2</sup> Es gilt folgender Tarif (ohne MWST):
 
-- a) 1 bis 3 Grundstücke: Fr. 120
-- b) 4 bis 10 Grundstücke: Fr. 150
-- c) 11 bis 20 Grundstücke: Fr. 200
-- d) mehr als 20 Grundstücke: Fr. 300
+- a) 1 bis 3 Grundstücke: — Fr. 120
+- b) 4 bis 10 Grundstücke: — Fr. 150
+- c) 11 bis 20 Grundstücke: — Fr. 200
+- d) mehr als 20 Grundstücke: — Fr. 300
 
 <sup>3</sup> Nachträgliche Änderungen werden zum Preis von 50 Franken (ohne MWST) in Rechnung gestellt.
 
@@ -583,13 +583,13 @@ beschliesst:
 
 <sup>3</sup> Betrifft die Abgabe nur einen Teil der Vermessungsebenen, so wird die Gebühr wie folgt nach Ebenen berechnet:
 
-- a) Grundpreis: 20 %
-- b) Liegenschaftsebene: 20 %
-- c) Bodenbedeckungsebene: 20 %
-- d) Fixpunktebene: 10 %
-- e) Ebene Einzelobjekte und Linienelemente: 10 %
-- f) Ebene Nomenklatur, einschliesslich Adressen: 10 %
-- g) Ebene Rohrleitungen und administrative Einteilung: 10 %
+- a) Grundpreis: — 20 %
+- b) Liegenschaftsebene: — 20 %
+- c) Bodenbedeckungsebene: — 20 %
+- d) Fixpunktebene: — 10 %
+- e) Ebene Einzelobjekte und Linienelemente: — 10 %
+- f) Ebene Nomenklatur, einschliesslich Adressen: — 10 %
+- g) Ebene Rohrleitungen und administrative Einteilung: — 10 %
 
 <sup>4</sup> Für die Abgabe der Ebene Höhen ist die Tarifgestaltung entsprechend den Anweisungen und Tarifen des Bundes zwingend.
 
