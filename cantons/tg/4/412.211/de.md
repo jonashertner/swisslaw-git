@@ -4,24 +4,24 @@ number: "412.211"
 title: Verordnung des Regierungsrates über die Organisation des Berufsbildungswesens
 short: BbO
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-05
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-21
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.211"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1460/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2113/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung des Regierungsrates über die Organisation des Berufsbildungswesens
 
-RRV Berufsbildung (BbO)
+BbO
 
 (BbO)
 
-vom 25.11.2014 (Stand 01.01.2018)
+vom 25.11.2014 (Stand 01.01.2022)
 
 ## 1. Kantonale Organisation
 
@@ -82,6 +82,8 @@ vom 25.11.2014 (Stand 01.01.2018)
   - 3\.5 Zusammenarbeit mit dem Amt für Mittel- und Hochschulen und dem Bildungs- und Beratungszentrum Arenenberg in Bildungsgängen, die dem Berufsbildungsgesetz unterstellt sind;
   - 3\.6 Zusammenarbeit mit ausserkantonalen und privaten Anbietern.
 
+<sup>4</sup> Für kantonale Angebote der Berufsbildung und Berufsberatung kann das Amt mit Angebotsträgern Vereinbarungen abschliessen.
+
 #### § 4
 
 **Amt für Mittel- und Hochschulen**
@@ -94,7 +96,7 @@ vom 25.11.2014 (Stand 01.01.2018)
 
 **Aufgaben**
 
-<sup>1</sup> Die Bildungszentren führen Bildungsangebote gemäss Artikel 15 und 16 Absatz 2 litera b des Bundesgesetzes über die Berufsbildung[^5-1] und stellen Angebote für die berufliche Weiterbildung bereit.
+<sup>1</sup> Die Bildungszentren führen Bildungsangebote gemäss Art. 15 und Art. 16 Abs. 2 lit. b des Bundesgesetzes über die Berufsbildung[^5-1] und stellen Angebote für die berufliche Weiterbildung bereit.
 
 <sup>2</sup> Das Bildungszentrum für Wirtschaft Weinfelden und das Bildungszentrum für Gesundheit und Soziales Weinfelden führen höhere Fachschulen.
 
