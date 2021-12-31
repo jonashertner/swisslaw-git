@@ -1,25 +1,28 @@
 ---
 canton: TG
 number: "281.12"
-title: Verordnung des Regierungsrates über die Organisation der Betreibungsämter (VOB)
+title: Verordnung über die Organisation des Amtes für Betreibungs- und Konkurswesen
 short: VOABK
 language: de
-version: 2016-06-01
-valid_until: 2021-12-31
-version_adopted: 2016-01-12
+version: 2022-01-01
+version_adopted: 2021-11-09
 adopted: 2016-01-12
 in_force: 2016-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/281.12"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1248/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2094/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Organisation der Betreibungsämter (VOB)
+# Verordnung über die Organisation des Amtes für Betreibungs- und Konkurswesen
 
-RRV Organisation der Betreibungsämter (VOB)
+VOABK
 
-vom 12.01.2016 (Stand 01.06.2016)
+(VOABK)
+
+vom 12.01.2016 (Stand 01.01.2022)
+
+## 1. Organisation
 
 #### § 1
 
@@ -37,9 +40,11 @@ vom 12.01.2016 (Stand 01.06.2016)
 
 **Aussenstellen**
 
-<sup>1</sup> Das Betreibungsamt Frauenfeld führt eine Aussenstelle in Steckborn. Diese umfasst die Politischen Gemeinden Basadingen-Schlattingen, Berlingen, Diessenhofen, Eschenz, Homburg, Mammern, Schlatt, Steckborn und Wagenhausen.
+<sup>1</sup> Das Betreibungsamt des Bezirks Frauenfeld kann eine Aussenstelle in Steckborn führen. Diese umfasst die Politischen Gemeinden Basadingen-Schlattingen, Berlingen, Diessenhofen, Eschenz, Homburg, Mammern, Schlatt, Steckborn und Wagenhausen.
 
-<sup>2</sup> Das Betreibungsamt Weinfelden führt eine Aussenstelle in Bischofszell. Diese umfasst die Politischen Gemeinden Bischofszell, Erlen, Hauptwil-Gottshaus, Hohentannen, Kradolf-Schönenberg, Sulgen und Zihlschlacht-Sitterdorf.
+<sup>2</sup> Das Betreibungsamt des Bezirks Weinfelden kann eine Aussenstelle in Bischofszell führen. Diese umfasst die Politischen Gemeinden Bischofszell, Erlen, Hauptwil-Gottshaus, Hohentannen, Kradolf-Schönenberg, Sulgen und Zihlschlacht-Sitterdorf.
+
+## 2. Zuständigkeit
 
 #### § 3
 
@@ -47,32 +52,34 @@ vom 12.01.2016 (Stand 01.06.2016)
 
 <sup>1</sup> Die Aussenstellen sind hierarchisch dem Betreibungsamt des Bezirks unterstellt.
 
-<sup>2</sup> Dem Betreibungsamt und der Aussenstelle stehen im EDV-System umfassende Lese- und Schreibrechte für das ganze Amt inklusive der Aussenstelle zu. Das Betreibungsamt und die Aussenstelle sind für die Buchhaltung ihrer Amtsgeschäfte verantwortlich.
+<sup>2</sup> Dem Bezirksbetreibungsamt und der Aussenstelle stehen in der Fachapplikation umfassende Lese- und Schreibrechte zu. Das Bezirksbetreibungsamt und die Aussenstelle sind für die Buchhaltung ihrer Amtsgeschäfte verantwortlich. Die Buchhaltung des Bezirksbetreibungsamtes und der Aussenstelle können zentral geführt werden.
 
-<sup>3</sup> Für Eigentumsvorbehalte, Viehverschreibungen und Wechselproteste ist ausschliesslich das Betreibungsamt zuständig.
+<sup>3</sup> Für Eigentumsvorbehalte, Viehverschreibungen und Wechselproteste ist ausschliesslich das Bezirksbetreibungsamt zuständig.
 
-<sup>4</sup> Das Konkursamt und Betreibungsinspektorat regelt die weiteren Details. Es achtet dabei auf effiziente Arbeitsabläufe.
+<sup>4</sup> Das Amt für Betreibungs- und Konkurswesen regelt die weiteren Details. Es achtet dabei auf effiziente Arbeitsabläufe sowie die Wirtschaftlichkeit.
+
+#### § 3a
+
+**Registerführung und Buchhaltung**
+
+<sup>1</sup> Das Betreibungsregister und die Buchhaltung können dezentral oder zentral geführt werden.
 
 #### § 4
 
-**Zuständigkeiten**
+**Primäre Zuständigkeit der Aussenstelle**
 
-<sup>1</sup> Schuldnerinnen und Schuldnern ist es erlaubt, nach Absprache mit dem Betreibungsamt und der Aussenstelle für punktuelle Amtshandlungen wie Vollzüge, Abrechnungen und dergleichen, sich an das Hauptamt zu wenden. Anlaufstelle für die Schuldnerinnen und Schuldner aus den in § 2 genannten Gemeinden bleibt immer die Aussenstelle. Registerauszüge dürfen die Parteien sowohl beim Hauptamt als auch bei der Aussenstelle einholen.
+<sup>1</sup> Schuldnerinnen und Schuldnern ist es erlaubt, nach Absprache mit dem Bezirksbetreibungsamt und der Aussenstelle für punktuelle Amtshandlungen wie Vollzüge und Abrechnungen sich an das Bezirksbetreibungsamt zu wenden. Anlaufstelle für die Schuldnerinnen und Schuldner aus den in § 2 genannten Gemeinden bleibt grundsätzlich die Aussenstelle. Registerauszüge dürfen die Parteien sowohl beim Bezirksbetreibungsamt als auch bei der Aussenstelle einholen.
+
+## 3. Qualifikation
 
 #### § 5
 
 **Fähigkeitsausweis**
 
-<sup>1</sup> Die Führung eines Betreibungsamtes als Abteilungsleiterin oder Abteilungsleiter, die Tätigkeit als stellvertretende Abteilungsleiterin oder als stellvertretender Abteilungsleiter und die Führung einer Aussenstelle bedarf eines Fähigkeitsausweises "Fachfrau/Fachmann Betreibung und Konkurs" des Schweizerischen Verbandes Berufsprüfung Betreibung und Konkurs (SVBBK).
+<sup>1</sup> Die Führung eines Betreibungsamtes als Abteilungsleiterin oder Abteilungsleiter, die Tätigkeit als stellvertretende Abteilungsleiterin oder als stellvertretender Abteilungsleiter und die Führung einer Aussenstelle bedarf eines Fähigkeitsausweises «Fachfrau/Fachmann Betreibung und Konkurs» des Schweizerischen Verbandes Berufsprüfung Betreibung und Konkurs (SVBBK) oder eines juristischen Studiums, das mit einem Lizentiat oder Master einer schweizerischen Hochschule oder einem gleichwertigen Hochschuldiplom eines Staates abgeschlossen wurde, der mit der Schweiz die gegenseitige Anerkennung vereinbart hat.
 
 #### § 6
 
-**Übergangsregelung**
-
-<sup>1</sup> Von der Pflicht zum Erwerb eines Fähigkeitsausweises nach § 5 Absatz 1 befreit sind Betreibungsbeamtinnen und Betreibungsbeamte, die bis zum 31. Mai 2016 aufgrund der bis dahin geltenden Wählbarkeitsvoraussetzungen ein Betreibungsamt geführt haben.
-
-<sup>2</sup> Fachausweise der Kantone Aargau, St. Gallen, Thurgau und Zürich zur Führung eines Betreibungsamtes, die vor Inkrafttreten dieser Verordnung erworben wurden, berechtigen weiterhin zur Führung eines Betreibungsamtes als Abteilungsleiterin oder Abteilungsleiter, zur Tätigkeit als stellvertretende Abteilungsleiterin oder als stellvertretender Abteilungsleiter oder zur Führung einer Aussenstelle.
-
-*Diese Verordnung tritt auf den 1. Juni 2016 in Kraft.*
+**…**
 
 2/2016
