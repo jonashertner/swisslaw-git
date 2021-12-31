@@ -1,36 +1,39 @@
 ---
 canton: GR
 number: "350.100"
-title: Einführungsgesetz zur Schweizerischen Strafprozessordnung (EGzStPO)
+title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EGzStPO
 language: de
-version: 2013-01-01
-corrected: 2014-10-09
-version_adopted: 2011-12-07
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1703/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3222/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zur Schweizerischen Strafprozessordnung (EGzStPO)
+# Einführungsgesetz zur Schweizerischen Strafprozessordnung
 
-vom 16. Juni 2010
+(EGzStPO)
 
-Der Grosse Rat des Kantons Graubünden[^t-1],
+Vom 16.06.2010 (Stand 01.01.2022)
 
-gestützt auf Art. 31 der Kantonsverfassung[^t-2], nach Einsichtnahme in die Botschaft der Regierung vom 23. März 2010[^t-3],
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
+
+gestützt auf Art. 31 der Kantonsverfassung[^ingress-2],
+
+nach Einsichtnahme in die Botschaft der Regierung vom 23. März 2010[^ingress-3],
 
 beschliesst:
 
-[^t-1]: GRP 2009/2010, 853
-[^t-2]: BR 110.100
-[^t-3]: Seite 795
+[^ingress-1]: GRP 2009/2010, 853
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 795
 
-### I. Allgemeine Bestimmungen
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -44,9 +47,9 @@ beschliesst:
 
 <sup>4</sup> Der Vollzug von Strafen und Massnahmen sowie der Untersuchungs- und Sicherungshaft richtet sich nach den Bestimmungen über den Justizvollzug im Kanton Graubünden.
 
-[^1-1]: SR 312.0
-[^1-2]: SR 312.1
-[^1-3]: BR 173.000
+[^1-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^1-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
+[^1-3]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 #### Art. 2
 
@@ -56,7 +59,7 @@ beschliesst:
 
 <sup>2</sup> Sofern nicht ausdrücklich oder nach dem Sinn der Vorschrift nur die vorsätzliche Begehung mit Strafe bedroht ist, ist auch die fahrlässige Begehung strafbar.
 
-[^2-1]: SR 311 01.01.2013 1
+[^2-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 3
 
@@ -66,8 +69,8 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben besondere Verfahrensvorschriften.
 
-[^3-1]: SR 312.0
-[^3-2]: SR 312.1
+[^3-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^3-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 #### Art. 4
 
@@ -79,26 +82,24 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinden können ein Ordnungsbussenverfahren vorsehen. Die entsprechenden Bestimmungen dieses Gesetzes gelten sinngemäss.
 
-[^4-1]: BR 175.050
-[^4-2]: BR 370.100
-[^4-3]: SR 311.1
-[^4-4]: SR 312.1
+[^4-1]: BR [175.050](https://www.gr-lex.gr.ch/data/175.050/de)
+[^4-2]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+[^4-3]: SR [311.1](https://db.clex.ch/link/Bund/311.1/de)
+[^4-4]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 #### Art. 5
 
 **Verfahrenssprache**
 
-Die Verfahrenssprachen der Strafbehörden im Kanton Graubünden richten sich nach dem kantonalen Sprachengesetz[^5-1].
+<sup>1</sup> Die Verfahrenssprachen der Strafbehörden im Kanton Graubünden richten sich nach dem kantonalen Sprachengesetz[^5-1].
 
-[^5-1]: BR 492.100 2 01.01.2013
+[^5-1]: BR [492.100](https://www.gr-lex.gr.ch/data/492.100/de)
 
-### II. Organisation und Zuständigkeiten der Strafverfol-
+## 2. Organisation und Zuständigkeiten der Strafverfolgungsbehörden
 
-gungsbehörden
+### 2.1. Staatsanwaltschaft
 
-- 1\. STAATSANWALTSCHAFT
-
-A. Stellung und Organisation
+### 2.1.1. Stellung und Organisation
 
 #### Art. 6
 
@@ -122,7 +123,7 @@ A. Stellung und Organisation
 
 <sup>4</sup> Die Regierung regelt die Einzelheiten der Organisation und die Standorte der Aussenstellen in einer Verordnung[^7-1]. Sie kann die Staatsanwaltschaft in Abteilungen gliedern, die in der Regel von Leitenden Staatsanwältinnen und Leitenden Staatsanwälten geführt werden.
 
-[^7-1]: BR 350.110 01.01.2013 3
+[^7-1]: BR [350.110](https://www.gr-lex.gr.ch/data/350.110/de)
 
 #### Art. 8
 
@@ -131,9 +132,7 @@ A. Stellung und Organisation
 <sup>1</sup> Die Staatsanwaltschaft besteht aus der Ersten Staatsanwältin oder dem Ersten Staatsanwalt und deren oder dessen Stellvertreterin oder Stellvertreter sowie der erforderlichen Anzahl an:
 
 - a) Leitenden Staatsanwältinnen und Leitenden Staatsanwälten sowie der Leitenden Jugendanwältin oder dem Leitenden Jugendanwalt;
-
 - b) Staatsanwältinnen und Staatsanwälten sowie Jugendanwältinnen und Jugendanwälten;
-
 - c) Sachbearbeiterinnen und Sachbearbeitern sowie Kanzleiangestellten.
 
 <sup>2</sup> Bei Bedarf kann die Regierung ausserordentliche Staatsanwältinnen und Staatsanwälte sowie Jugendanwältinnen und Jugendanwälte bestellen.
@@ -156,7 +155,7 @@ A. Stellung und Organisation
 
 <sup>3</sup> Die Staatsanwältinnen und Staatsanwälte legen vor ihrem Amtsantritt vor der Anstellungsinstanz einen Amtseid oder ein Handgelübde auf gewissenhafte Pflichterfüllung ab. Der Wortlaut von Amtseid und Handgelübde entspricht sinngemäss jenem für Richterinnen und Richter.
 
-[^10-1]: BR 170.400
+[^10-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 11
 
@@ -165,18 +164,15 @@ A. Stellung und Organisation
 <sup>1</sup> Die Erste Staatsanwältin oder der Erste Staatsanwalt hat insbesondere folgende Aufgaben:
 
 - a) personelle, betriebliche und fachliche Führung;
-
 - b) Gewährleistung einer fachgerechten Aus- und Weiterbildung;
-
 - c) Erteilung von mündlichen und schriftlichen Weisungen;
-
 - d) Vertretung der Staatsanwaltschaft gegen aussen.
 
 <sup>2</sup> Die Regierung regelt die Stellvertretung und weitere Einzelheiten in einer Verordnung[^11-1].
 
-B. Fallbezogene Zuständigkeiten
+[^11-1]: BR [350.110](https://www.gr-lex.gr.ch/data/350.110/de)
 
-[^11-1]: BR 350.110 4 01.01.2013
+### 2.1.2. Fallbezogene Zuständigkeiten
 
 #### Art. 12
 
@@ -185,17 +181,11 @@ B. Fallbezogene Zuständigkeiten
 <sup>1</sup> Die Erste Staatsanwältin oder der Erste Staatsanwalt ist insbesondere zuständig für:
 
 - a) Erlass von Nichtanhandnahmeverfügungen;
-
 - b) Zuteilung von Fällen an die Abteilungen oder an Staatsanwältinnen und Staatsanwälte;
-
 - c) Genehmigung von Nichtanhandnahme-, Sistierungs- und Einstellungsverfügungen der Leitenden Staatsanwältinnen und Leitenden Staatsanwälte und der Leitenden Jugendanwältin oder des Leitenden Jugendanwaltes;
-
 - d) Einsprache gegen Strafbefehle, die nicht von der Staatsanwaltschaft stammen;
-
 - e) Ergreifen von Rechtsmitteln und Vertretung der Staatsanwaltschaft vor der Rechtsmittelinstanz;
-
 - f) Gerichtsstandsfragen vor eidgenössischen Gerichten;
-
 - g) Erlass von internen Richtlinien.
 
 <sup>2</sup> Sie oder er kann im Einzelfall das Ergreifen von Rechtsmitteln und die Vertretung vor der Rechtsmittelinstanz einer Leitenden Staatsanwältin oder einem Leitenden Staatsanwalt, der Leitenden Jugendanwältin oder dem Leitenden Jugendanwalt, einer Staatsanwältin oder einem Staatsanwalt oder einer Jugendanwältin oder einem Jugendanwalt übertragen.
@@ -204,37 +194,29 @@ B. Fallbezogene Zuständigkeiten
 
 **Leitende Staatsanwältinnen und Staatsanwälte**
 
-Die Leitenden Staatsanwältinnen und Staatsanwälte führen eigene Fälle und sind in ihrer Abteilung insbesondere zuständig für:
+<sup>1</sup> Die Leitenden Staatsanwältinnen und Staatsanwälte führen eigene Fälle und sind in ihrer Abteilung insbesondere zuständig für:
 
 - a) Erlass von Nichtanhandnahmeverfügungen;
-
 - b) Zuteilung von Fällen an die Staatsanwältinnen und Staatsanwälte;
-
 - c) Genehmigung von Sistierungs- und Einstellungsverfügungen.
 
 #### Art. 14
 
 **Staatsanwältinnen und Staatsanwälte**
 
-Die Staatsanwältinnen und Staatsanwälte sind insbesondere zuständig für:
+<sup>1</sup> Die Staatsanwältinnen und Staatsanwälte sind insbesondere zuständig für:
 
 - a) Durchführung von Strafuntersuchungen;
-
 - b) Sistierung und Einstellung des Verfahrens;
-
 - c) Anordnung von Zwangsmassnahmen beziehungsweise Antrag auf Untersuchungs- und Sicherheitshaft sowie auf andere gerichtlich zu genehmigende oder anzuordnende Zwangsmassnahmen;
-
 - d) Erlass von Strafbefehlen;
-
 - e) Führung der Sachbearbeiterinnen und Sachbearbeiter;
-
 - f) Anklageerhebung;
-
 - g) Vertretung der Staatsanwaltschaft vor Gericht;
-
 - h) Erledigung interkantonaler und internationaler Rechtshilfegesuche;
-
 - i) Erlass von nachträglichen und selbstständigen Entscheiden.
+
+<sup>2</sup> Sie können auch Verfahren gegen Jugendliche führen.
 
 #### Art. 15
 
@@ -244,25 +226,44 @@ Die Staatsanwältinnen und Staatsanwälte sind insbesondere zuständig für:
 
 <sup>2</sup> In der Strafuntersuchung wegen Übertretungen können sie unter der Leitung einer Staatsanwältin oder eines Staatsanwalts Strafbefehle erlassen.
 
-**5**
-
-01.01.2013
-
 #### Art. 16
 
 **Jugendanwaltschaft**
 
 <sup>1</sup> Die Jugendanwaltschaft ist für die Strafverfolgung von Jugendlichen im ganzen Kanton zuständig.
 
-<sup>2</sup> Sie ist Untersuchungsbehörde im Sinne der Jugendstrafprozessordnung[^16-1], entscheidet im Strafbefehlsverfahren, erhebt Anklage vor den Jugendgerichten und ist verantwortlich für den Vollzug der Sanktionen.
+<sup>2</sup> Sie ist Untersuchungsbehörde im Sinne der Jugendstrafprozessordnung[^16-1], entscheidet im Strafbefehlsverfahren, erhebt Anklage vor den Jugendgerichten und ist verantwortlich für den Vollzug der Jugendstrafen und Jugendmassnahmen.
 
 <sup>3</sup> Die Bestimmungen über die Leitenden Staatsanwältinnen und Staatsanwälte sowie über die Staatsanwältinnen und Staatsanwälte gelten sinngemäss für die Jugendanwaltschaft.
 
 <sup>4</sup> Die Jugendanwältinnen und Jugendanwälte können auch Verfahren gegen Erwachsene führen.
 
-- 2\. GERICHTLICHE POLIZEI
+[^16-1]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
-[^16-1]: BR 312.1 6 01.01.2013
+#### Art. 16a
+
+**Mediation im Jugendstrafverfahren 1. Grundsatz**
+
+<sup>1</sup> Die Jugendanwaltschaft holt das Einverständnis der Parteien und ihrer gesetzlichen Vertretung zur Einleitung eines Mediationsverfahrens ein, wenn:
+
+- a) begründete Aussicht auf eine Konfliktlösung besteht;
+- b) der Stand der Untersuchung es erlaubt.
+
+<sup>2</sup> Liegt das Einverständnis der Parteien und ihrer gesetzlichen Vertretung vor, beauftragt die Jugendanwaltschaft eine geeignete Organisation oder Person mit der Durchführung des Mediationsverfahrens. Es können Personen beigezogen werden, die hinsichtlich Ausbildung, Rechtskenntnissen und Unparteilichkeit Gewähr für einen fairen Verfahrensablauf bieten.
+
+#### Art. 16b
+
+**2. Verfahren**
+
+<sup>1</sup> Die Mediatorin oder der Mediator orientiert die Parteien über die zu verfolgenden Ziele, die Rahmenbedingungen, den geplanten Ablauf und die Tragweite des Mediationsverfahrens sowie über ihre Rechte, insbesondere die Freiwilligkeit der Mitwirkung. Auf Aussagen und Schriftstücke, die während des Mediationsverfahrens gemacht und angefertigt wurden, können sich die Parteien in einem anderen Verfahren nicht berufen.
+
+<sup>2</sup> Die Mediatorin oder der Mediator führt mit den Parteien gemeinsame Gespräche. Ausnahmsweise können Einzelgespräche geführt werden. Die Gespräche finden unter Ausschluss der Öffentlichkeit statt. Den Parteien kann auf Gesuch gestattet werden, sich von ihrer gesetzlichen Vertretung oder einer Person ihres Vertrauens begleiten zu lassen.
+
+<sup>3</sup> Das Mediationsverfahren soll in der Regel innert drei Monaten abgeschlossen werden. Führt die Mediation zu einer Einigung, wird diese in einer schriftlichen Vereinbarung festgehalten. Die Parteien und die Mediatorin oder der Mediator unterzeichnen die Vereinbarung. Führt die Mediation zu keiner Einigung, stellt die Mediatorin oder der Mediator ihr Scheitern fest.
+
+<sup>4</sup> Die Mediatorin oder der Mediator orientiert die Jugendanwaltschaft über den Abschluss des Verfahrens. Die Jugendanwaltschaft wird auf Anfrage jederzeit über den Stand der Mediation orientiert. Die Jugendanwaltschaft behält die Verfahrensleitung auch während des Mediationsverfahrens. Sie sorgt für den Vollzug der Mediationsvereinbarung.
+
+### 2.2. Gerichtliche Polizei
 
 #### Art. 17
 
@@ -276,7 +277,7 @@ Die Staatsanwältinnen und Staatsanwälte sind insbesondere zuständig für:
 
 <sup>4</sup> Die Organisation der gerichtlichen Polizei sowie die administrative und disziplinarische Unterstellung richten sich nach der Polizeigesetzgebung.
 
-- 3\. VERWALTUNGSBEHÖRDEN
+### 2.3. Verwaltungsbehörden
 
 #### Art. 18
 
@@ -286,37 +287,30 @@ Die Staatsanwältinnen und Staatsanwälte sind insbesondere zuständig für:
 
 <sup>2</sup> Für nachträgliche Entscheide ist die Staatsanwaltschaft zuständig.
 
-### III. Sachliche Zuständigkeit der Strafgerichte
+## 3. Sachliche Zuständigkeit der Strafgerichte
 
 #### Art. 19
 
 **Erstinstanzliches Gericht**
 
-<sup>1</sup> Das Bezirksgericht amtet als erstinstanzliches Strafgericht.
+<sup>1</sup> Das Regionalgericht amtet als erstinstanzliches Strafgericht.
 
 <sup>2</sup> Es entscheidet in Fünferbesetzung:
 
 - a) über Rechtsfragen von grundsätzlicher Bedeutung;
-
 - b) auf Anordnung der oder des Vorsitzenden;
-
 - c) wenn die Staatsanwaltschaft:
+  - 1\. eine Freiheitsstrafe von mehr als fünf Jahren beantragt;
+  - 2\. eine Verwahrung oder eine stationäre therapeutische Massnahme beantragt;
+  - 3\. bei gleichzeitig zu widerrufenden bedingten Sanktionen einen Freiheitsentzug von mehr als fünf Jahren beantragt.
 
-- 1\. eine Freiheitsstrafe von mehr als fünf Jahren beantragt;
-
-- 2\. eine Verwahrung oder eine stationäre therapeutische Massnahme beantragt;
-
-- 3\. bei gleichzeitig zu widerrufenden bedingten Sanktionen einen
-
-Freiheitsentzug von mehr als fünf Jahren beantragt.
-
-<sup>3</sup> In den anderen Fällen entscheidet das Bezirksgericht in Dreierbesetzung.
+<sup>3</sup> In den anderen Fällen entscheidet das Regionalgericht in Dreierbesetzung.
 
 #### Art. 20
 
 **Jugendgericht**
 
-Das Bezirksgericht amtet als Jugendgericht.
+<sup>1</sup> Das Regionalgericht amtet als Jugendgericht.
 
 #### Art. 21
 
@@ -330,17 +324,17 @@ Das Bezirksgericht amtet als Jugendgericht.
 
 **Berufungsgericht und Beschwerdeinstanz**
 
-Das Kantonsgericht amtet als Berufungsgericht und als Beschwerdeinstanz in Straf- und Jugendstrafsachen.
+<sup>1</sup> Das Kantonsgericht amtet als Berufungsgericht und als Beschwerdeinstanz in Straf- und Jugendstrafsachen.
 
-### IV. Ergänzende Bestimmungen
+## 4. Ergänzende Bestimmungen
 
-- 1\. RECHTSHILFE
+### 4.1. Rechtshilfe
 
 #### Art. 23
 
 **Innerkantonale Rechtshilfe**
 
-Die kantonalen Strafbehörden leisten sich gegenseitig Rechtshilfe.
+<sup>1</sup> Die kantonalen Strafbehörden leisten sich gegenseitig Rechtshilfe.
 
 #### Art. 24
 
@@ -358,9 +352,7 @@ Die kantonalen Strafbehörden leisten sich gegenseitig Rechtshilfe.
 
 <sup>2</sup> Sie tritt die Strafverfolgung an einen ausländischen Staat ab oder stellt ein entsprechendes Gesuch.
 
-**7**
-
-01.01.2013 2. MITWIRKUNGSRECHTE UND –PFLICHTEN VON BEHÖRDEN
+### 4.2. Mitwirkungsrechte und -Pflichten von Behörden
 
 #### Art. 26
 
@@ -372,14 +364,13 @@ Die kantonalen Strafbehörden leisten sich gegenseitig Rechtshilfe.
 
 <sup>3</sup> Sie sind zur Anzeige verpflichtet, wenn ein Gesetz dies vorsieht.
 
-[^26-1]: SR 312.0
-[^26-2]: Fassung gemäss Art. 163 Abs. 1 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch, BR 210.100; am 1. Januar 2013 in Kraft getreten. 8 01.01.2013
+[^26-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 27
 
-**Antragsrecht von Behörden**[^26-2]
+**Antragsrecht von Behörden**
 
-Zur Stellung des Strafantrags wegen Vernachlässigung von Unterhaltspflichten sind auch die zur Betreuung der unterhaltsberechtigten Personen zuständigen Beiständinnen und Beistände sowie Kindes- und Erwachsenenschutz- oder Sozialhilfebehörden befugt.
+<sup>1</sup> Zur Stellung des Strafantrags wegen Vernachlässigung von Unterhaltspflichten sind auch die zur Betreuung der unterhaltsberechtigten Personen zuständigen Beiständinnen und Beistände sowie Kindes- und Erwachsenenschutz- oder Sozialhilfebehörden befugt.
 
 #### Art. 28
 
@@ -391,19 +382,32 @@ Zur Stellung des Strafantrags wegen Vernachlässigung von Unterhaltspflichten si
 
 <sup>3</sup> Das für den Vollzug von Strafen und Massnahmen zuständige Amt kann seine Anträge für nachträgliche Entscheide selber vor Gericht vertreten.
 
+#### Art. 28a
+
+**Mitteilung von Strafverfahren und Strafentscheiden an andere Behörden**
+
+<sup>1</sup> Die Strafbehörden informieren andere Behörden über Strafverfahren und verfahrensabschliessende Entscheide, soweit diese zur Erfüllung ihrer gesetzlichen Aufgaben auf die Information angewiesen sind und das öffentliche Interesse an der Information gegenüber den Persönlichkeitsrechten der betroffenen Personen überwiegt.
+
+<sup>1<sup>bis</sup></sup> Privatpersonen dürfen über Strafverfahren und verfahrensabschliessende Entscheide informiert werden, soweit sie zur Erfüllung der ihnen übertragenen öffentlichen Aufgabe auf die Information angewiesen sind und das Interesse an der Information gegenüber den Persönlichkeitsrechten der betroffenen Person überwiegt.
+
+<sup>2</sup> Mitteilungsrechte und -pflichten nach besonderen Bestimmungen bleiben vorbehalten.
+
 #### Art. 29
 
 **Meldung von Strafverfahren und Urteilen an Behörden**
 
 <sup>1</sup> Die Strafbehörden haben die zuständigen Behörden zu benachrichtigen und ihnen zweckdienliche Unterlagen zu übermitteln, wenn sich in einem Strafverfahren begründeter Anlass zur Prüfung ausserstrafrechtlicher Massnahmen ergibt.
 
-<sup>2</sup> Die Meldung über ein hängiges Strafverfahren ist nur zulässig, wenn a) die Behörde diese Angabe für die Erfüllung einer gesetzlichen Aufgabe benötigt oder b) von einer unmittelbaren Gefährdung auszugehen ist.
+<sup>2</sup> Die Meldung über ein hängiges Strafverfahren ist nur zulässig, wenn
+
+- a) die Behörde diese Angabe für die Erfüllung einer gesetzlichen Aufgabe benötigt oder
+- b) von einer unmittelbaren Gefährdung auszugehen ist.
 
 <sup>3</sup> Die Regierung regelt die Einzelheiten in einer Verordnung[^29-1].
 
-- 3\. BESONDERE BESTIMMUNGEN
+[^29-1]: BR [350.110](https://www.gr-lex.gr.ch/data/350.110/de)
 
-[^29-1]: BR 350.110
+### 4.3. Besondere Bestimmungen
 
 #### Art. 30
 
@@ -417,21 +421,19 @@ Zur Stellung des Strafantrags wegen Vernachlässigung von Unterhaltspflichten si
 
 **Ausnahmen vom Anwaltszwang**
 
-Der Rechtsbeistand durch eine handlungsfähige, nicht im Anwaltsregister eingetragene oder Freizügigkeit nach dem BGFA[^31-1] geniessende Person ist auf begründetes Gesuch im Einzelfall mit Genehmigung der verfahrensleitenden Person möglich:
+<sup>1</sup> Der Rechtsbeistand durch eine handlungsfähige, nicht im Anwaltsregister eingetragene oder Freizügigkeit nach dem BGFA[^31-1] geniessende Person ist auf begründetes Gesuch im Einzelfall mit Genehmigung der verfahrensleitenden Person möglich:
 
 - a) zur Verteidigung der beschuldigten Person im Übertretungsstrafverfahren;
-
 - b) zur nichtberufsmässigen Vertretung der Privatklägerschaft;
-
 - c) zur Unterstützung anderer Verfahrensbeteiligter.
 
-[^31-1]: SR 935.61 01.01.2013 9
+[^31-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### Art. 32
 
 **Belohnungen**
 
-Das für die Justiz zuständige Departement kann auf Antrag der Staatsanwaltschaft eine Belohnung für die erfolgreiche Mitwirkung von Privaten bei der Fahndung aussetzen.
+<sup>1</sup> Das für die Justiz zuständige Departement kann auf Antrag der Staatsanwaltschaft eine Belohnung für die erfolgreiche Mitwirkung von Privaten bei der Fahndung aussetzen.
 
 #### Art. 33
 
@@ -449,20 +451,17 @@ Das für die Justiz zuständige Departement kann auf Antrag der Staatsanwaltscha
 
 <sup>1</sup> Als amtliche oder dauernd bestellte Sachverständige im Sinn der Strafprozessordnung[^34-1] gelten insbesondere:
 
-- a) die Bezirksärztinnen und –ärzte;
-
+- a) die Amtsärztinnen und -ärzte;
 - b) der forensische Dienst der Psychiatrischen Dienste Graubünden;
-
 - c) das von der Regierung bezeichnete rechtsmedizinische Institut;
-
 - d) die von der Regierung bezeichnete Institution für Kinder- und Jugendpsychiatrie beziehungsweise für Kindesschutz.
 
 <sup>2</sup> Die Regierung kann weitere amtliche oder dauernd bestellte Sachverständige bezeichnen und regelt in einer Verordnung[^34-2] die jeweiligen Fachgebiete.
 
 <sup>3</sup> Soweit das Bundesrecht die Durchführung einer Durchsuchung oder Untersuchung von Personen durch eine Ärztin oder einen Arzt vorsieht, können die Strafbehörden alle im Kanton tätigen Ärztinnen und Ärzte beiziehen.
 
-[^34-1]: SR 312.0
-[^34-2]: BR 350.110
+[^34-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^34-2]: BR [350.110](https://www.gr-lex.gr.ch/data/350.110/de)
 
 #### Art. 35
 
@@ -472,7 +471,7 @@ Das für die Justiz zuständige Departement kann auf Antrag der Staatsanwaltscha
 
 <sup>2</sup> Die Veröffentlichung richtet sich nach den Bestimmungen über das Kantonsamtsblatt[^35-1].
 
-[^35-1]: BR 180.500 10 01.01.2013
+[^35-1]: BR [180.500](https://www.gr-lex.gr.ch/data/180.500/de)
 
 #### Art. 36
 
@@ -486,7 +485,7 @@ Das für die Justiz zuständige Departement kann auf Antrag der Staatsanwaltscha
 
 <sup>4</sup> Entscheide über die Akteneinsicht können schriftlich innert 30 Tagen mit Beschwerde bei der Aufsichtsbehörde angefochten werden.
 
-- 4\. VERFAHRENSKOSTEN UND RECHNUNGSWESEN
+### 4.4. Verfahrenskosten und Rechnungswesen
 
 #### Art. 37
 
@@ -501,13 +500,12 @@ Das für die Justiz zuständige Departement kann auf Antrag der Staatsanwaltscha
 <sup>4</sup> Die Höhe der Gebühr wird durch Verordnung geregelt durch:
 
 - a) die Regierung für Verfahren vor Verwaltungsbehörden und der Staatsanwaltschaft[^37-3];
-
 - b) das Kantonsgericht für gerichtliche Verfahren[^37-4].
 
-[^37-1]: SR 312.0
-[^37-2]: SR 312.1
-[^37-3]: BR 350.110
-[^37-4]: BR 350.210 01.01.2013 11
+[^37-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^37-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
+[^37-3]: BR [350.110](https://www.gr-lex.gr.ch/data/350.110/de)
+[^37-4]: BR [350.210](https://www.gr-lex.gr.ch/data/350.210/de)
 
 #### Art. 38
 
@@ -531,7 +529,7 @@ Das für die Justiz zuständige Departement kann auf Antrag der Staatsanwaltscha
 
 **Verwendung der Geldstrafen und Bussen**
 
-Die Verwendung der Geldstrafen und Bussen richtet sich nach den Bestimmungen über die Gerichtsorganisation und den Justizvollzug.
+<sup>1</sup> Die Verwendung der Geldstrafen und Bussen richtet sich nach den Bestimmungen über die Gerichtsorganisation und den Justizvollzug.
 
 #### Art. 41
 
@@ -541,13 +539,13 @@ Die Verwendung der Geldstrafen und Bussen richtet sich nach den Bestimmungen üb
 
 <sup>2</sup> Die Entschädigung von Zeuginnen und Zeugen für den Erwerbsausfall beträgt höchstens 500 Franken pro Tag. Die Entschädigung der Spesen erfolgt höchstens zu den für die Angestellten des Kantons geltenden Ansätzen. Die Regierung regelt die Einzelheiten in einer Verordnung[^41-3].
 
-[^41-1]: SR 312.0
-[^41-2]: BR 310.100 und BR 310.250
-[^41-3]: BR 350.110
+[^41-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^41-2]: BR [310.100](https://www.gr-lex.gr.ch/data/310.100/de) und BR [310.250](https://www.gr-lex.gr.ch/data/310.250/de)
+[^41-3]: BR [350.110](https://www.gr-lex.gr.ch/data/350.110/de)
 
-### V. Strafverfahren vor Verwaltungsbehörden
+## 5. Strafverfahren vor Verwaltungsbehörden
 
-- 1\. ALLGEMEINE BESTIMMUNGEN
+### 5.1. Allgemeine Bestimmungen
 
 #### Art. 42
 
@@ -557,7 +555,7 @@ Die Verwendung der Geldstrafen und Bussen richtet sich nach den Bestimmungen üb
 
 <sup>2</sup> Das Verfahren richtet sich nach der Strafprozessordnung[^42-1] und diesem Gesetz. Besondere Verfahrensvorschriften bleiben vorbehalten.
 
-[^42-1]: SR 312.0
+[^42-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 43
 
@@ -566,13 +564,11 @@ Die Verwendung der Geldstrafen und Bussen richtet sich nach den Bestimmungen üb
 <sup>1</sup> Der Kantonspolizei obliegen:
 
 - a) die Mitwirkung als kantonale Amtsperson bei Hausdurchsuchungen nach dem Verwaltungsstrafrecht des Bundes[^43-1];
-
 - b) die ersten Massnahmen bei Flugunfällen.
 
-<sup>2</sup> Die Aufgaben der Kantonspolizei im Bereich des bundesrechtlichen Ordnungsbussenverfahrens richten sich nach der kantonalen Gesetzgebung über das Strassenverkehrsrecht[^43-2].
+<sup>2</sup> …
 
-[^43-1]: SR 313.0
-[^43-2]: BR 870.100 und 870.110 12 01.01.2013
+[^43-1]: SR [313.0](https://db.clex.ch/link/Bund/313.0/de)
 
 #### Art. 44
 
@@ -584,9 +580,29 @@ Die Verwendung der Geldstrafen und Bussen richtet sich nach den Bestimmungen üb
 
 <sup>3</sup> Bei der Verfolgung und Beurteilung von bundesrechtlichen Übertretungen ist die Gemeinde einzig für das Ordnungsbussenverfahren zuständig.
 
-- 2\. ORDNUNGSBUSSENVERFAHREN NACH KANTONA-LEM RECHT
+[^44-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
-[^44-1]: BR 370.100 01.01.2013 13
+### 5.1.a Ordnungsbussenverfahren nach Bundesrecht
+
+#### Art. 44a
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die Regierung bezeichnet die kantonalen Verwaltungsstellen, die zur Erhebung von Ordnungsbussen gemäss bundesrechtlicher Ordnungsbussengesetzgebung[^44a-1] ermächtigt sind.
+
+<sup>2</sup> Die Kantonspolizei ist zuständig, Ordnungsbussen nach bundesrechtlicher Ordnungsbussengesetzgebung zu erheben, sofern keine andere spezialrechtliche Zuständigkeit besteht.
+
+<sup>3</sup> Die Gemeinden sind zuständig, Ordnungsbussen nach bundesrechtlicher Ordnungsbussengesetzgebung zu erheben, wenn ein Gesetz dies ausdrücklich vorsieht.
+
+[^44a-1]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de); [741.031](https://db.clex.ch/link/Bund/741.031/de)
+
+#### Art. 44b
+
+**Ordentliches Verfahren**
+
+<sup>1</sup> Das ordentliche Strafverfahren wird von der kantonal sachlich zuständigen Behörde geführt.
+
+### 5.2. Ordnungsbussenverfahren nach kantonalem Recht
 
 #### Art. 45
 
@@ -605,24 +621,20 @@ Die Verwendung der Geldstrafen und Bussen richtet sich nach den Bestimmungen üb
 <sup>1</sup> Das Ordnungsbussenverfahren ist ausgeschlossen:
 
 - a) bei Widerhandlungen, durch die Personen gefährdet oder verletzt wurden oder ein Sachschaden verursacht wurde;
-
 - b) bei Widerhandlungen, die nicht von einem ermächtigten Polizeiorgan oder der zuständigen Verwaltungsbehörde selber beobachtet oder festgestellt wurden;
-
 - c) bei Widerhandlungen von Jugendlichen, die das 15. Altersjahr noch nicht vollendet haben;
-
 - d) wenn der Täterschaft zusätzlich eine Widerhandlung vorgeworfen wird, die nicht in der Bussenliste aufgeführt ist;
-
 - e) wenn die Täterschaft das Ordnungsbussenverfahren ablehnt.
 
 <sup>2</sup> Erfüllt eine Person durch eine oder mehrere Widerhandlungen mehrere Ordnungsbussentatbestände, so werden die Bussen zusammengezählt und eine Gesamtbusse auferlegt.
 
-<sup>3</sup> Lehnt die Person eine von mehreren ihr vorgeworfenen Übertretungen ab, oder übersteigt die Gesamtbusse den Betrag von 1 000 Franken, so werden alle Übertretungen im ordentlichen Verfahren beurteilt.
+<sup>3</sup> Lehnt die Person eine von mehreren ihr vorgeworfenen Übertretungen ab, oder übersteigt die Gesamtbusse den Betrag von 1000 Franken, so werden alle Übertretungen im ordentlichen Verfahren beurteilt.
 
 #### Art. 47
 
 **Bussenliste und zuständige Organe**
 
-Die Regierung regelt die Einzelheiten in einer Verordnung. Sie erstellt insbesondere die Liste der Übertretungen, die durch Ordnungsbussen geahndet werden können, bestimmt den Bussenbetrag und bezeichnet die zur Erhebung von Ordnungsbussen ermächtigten Polizei- oder Aufsichtsorgane oder Verwaltungsbehörden.
+<sup>1</sup> Die Regierung regelt die Einzelheiten in einer Verordnung. Sie erstellt insbesondere die Liste der Übertretungen, die durch Ordnungsbussen geahndet werden können, bestimmt den Bussenbetrag und bezeichnet die zur Erhebung von Ordnungsbussen ermächtigten Polizei- oder Aufsichtsorgane oder Verwaltungsbehörden.
 
 #### Art. 48
 
@@ -642,7 +654,7 @@ Die Regierung regelt die Einzelheiten in einer Verordnung. Sie erstellt insbeson
 
 <sup>2</sup> Stellt eine Strafbehörde auf Veranlassung einer von der Tat betroffenen Person oder der Täterschaft fest, dass Artikel 46 dieses Gesetzes missachtet wurde, hebt sie die Ordnungsbusse auf und wendet das ordentliche Verfahren an.
 
-### VI. Begnadigung
+## 6. Begnadigung
 
 #### Art. 50
 
@@ -653,7 +665,6 @@ Die Regierung regelt die Einzelheiten in einer Verordnung. Sie erstellt insbeson
 <sup>2</sup> Über Begnadigungsgesuche entscheidet endgültig:
 
 - a) der Grosse Rat bei Freiheitsstrafen von mehr als zwei Jahren;
-
 - b) die Regierung in den übrigen Fällen.
 
 #### Art. 51
@@ -662,11 +673,7 @@ Die Regierung regelt die Einzelheiten in einer Verordnung. Sie erstellt insbeson
 
 <sup>1</sup> Das Begnadigungsgesuch ist schriftlich und begründet beim für die Justiz zuständigen Departement einzureichen. Es hat keine aufschiebende Wirkung, sofern nicht die zuständige Vollzugsbehörde etwas anderes verfügt.
 
-<sup>2</sup> Ist das Gesuch nicht offensichtlich unzulässig oder unbegründet, führt das Departement die notwendigen Erhebungen durch. Es holt die Stel-
-
-**14**
-
-01.01.2013 lungnahme des urteilenden Gerichts und der mit dem Strafvollzug betrauten Organe ein.
+<sup>2</sup> Ist das Gesuch nicht offensichtlich unzulässig oder unbegründet, führt das Departement die notwendigen Erhebungen durch. Es holt die Stellungnahme des urteilenden Gerichts und der mit dem Strafvollzug betrauten Organe ein.
 
 <sup>3</sup> Der Entscheid des Grossen Rates beziehungsweise der Regierung wird der gesuchstellenden Person, dem urteilenden Gericht und der Vollzugsbehörde mit kurzer schriftlicher Begründung mitgeteilt.
 
@@ -674,9 +681,9 @@ Die Regierung regelt die Einzelheiten in einer Verordnung. Sie erstellt insbeson
 
 **Kosten**
 
-Auf die Tragung und Bemessung der Kosten finden die Bestimmungen der Gesetzgebung über die Verwaltungsrechtspflege sinngemäss Anwendung.
+<sup>1</sup> Auf die Tragung und Bemessung der Kosten finden die Bestimmungen der Gesetzgebung über die Verwaltungsrechtspflege sinngemäss Anwendung.
 
-### VII. Schlussbestimmungen
+## 7. Schlussbestimmungen
 
 #### Art. 53
 
@@ -685,15 +692,14 @@ Auf die Tragung und Bemessung der Kosten finden die Bestimmungen der Gesetzgebun
 <sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden folgende Erlasse aufgehoben:
 
 - a) Gesetz über die Strafrechtspflege vom 8. Juni 1958[^53-1];
-
 - b) Beitritt vom 9. Juni 1996 zum Konkordat über die Rechtshilfe und die interkantonale Zusammenarbeit in Strafsachen vom 5. November 1992[^53-2].
 
 <sup>2</sup> Verweisen geltende Erlasse auf Bestimmungen, die durch dieses Gesetz aufgehoben werden, finden die entsprechenden Bestimmungen der Schweizerischen Strafprozessordnung[^53-3] beziehungsweise der Jugendstrafprozessordnung[^53-4] sowie dieses Gesetzes Anwendung.
 
 [^53-1]: AGS 1958, 141; BR 350.000
 [^53-2]: AGS 1996, 3627, BR 350.035
-[^53-3]: SR 312.0
-[^53-4]: SR 312.1
+[^53-3]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^53-4]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 #### Art. 54
 
@@ -704,14 +710,14 @@ Auf die Tragung und Bemessung der Kosten finden die Bestimmungen der Gesetzgebun
 <sup>2</sup> Soweit grossrätliche Verordnungen, die den Vorgaben von Artikel 32 Absatz 1 Kantonsverfassung[^54-2] nicht entsprechen, den Bestimmungen der Schweizerischen Strafprozessordnung[^54-3] oder deren Umsetzung in diesem Gesetz widersprechen, kann der Grosse Rat sie durch Verordnung an diese Erlasse anpassen.
 
 [^54-1]: Der Anhang ist nicht im BR enthalten, siehe KA 2010, S. 2402 ff.
-[^54-2]: BR 110.100
-[^54-3]: SR 312.0 01.01.2013 15
+[^54-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^54-3]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 55
 
 **Übergangsrecht**
 
-Vor dem Inkrafttreten dieses Gesetzes begangene, noch nicht richterlich beurteilte Widerhandlungen gegen Strafbestimmungen des Gesetzes über die Strafrechtspflege vom 8. Juni 1958 werden nach den Bestimmungen des Anhanges zu diesem Gesetz beurteilt.
+<sup>1</sup> Vor dem Inkrafttreten dieses Gesetzes begangene, noch nicht richterlich beurteilte Widerhandlungen gegen Strafbestimmungen des Gesetzes über die Strafrechtspflege vom 8. Juni 1958 werden nach den Bestimmungen des Anhanges zu diesem Gesetz beurteilt.
 
 #### Art. 56
 
@@ -721,5 +727,7 @@ Vor dem Inkrafttreten dieses Gesetzes begangene, noch nicht richterlich beurteil
 
 <sup>2</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^56-2].
 
-[^56-1]: Die Referendumsfrist ist am 29. September 2009 ungenutzt abgelaufen
-[^56-2]: Mit RB vom 21. Dezember 2010 auf den 1. Januar 2011 in Kraft gesetzt 16 01.01.2013
+[^56-1]: Die Referendumsfrist ist am 29. September 2009 ungenutzt abgelaufen.
+[^56-2]: Mit RB vom 21. Dezember 2010 auf den 1. Januar 2011 in Kraft gesetz.
+
+-

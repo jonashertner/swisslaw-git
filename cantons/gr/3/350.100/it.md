@@ -4,35 +4,36 @@ number: "350.100"
 title: "Legge d'applicazione del Codice di diritto processuale penale svizzero"
 short: LACPP
 language: it
-version: 2013-01-01
-corrected: 2014-10-09
-version_adopted: 2011-12-07
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1703/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3222/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge d'applicazione del Codice di diritto processuale penale svizzero (LACPP)
+# Legge d'applicazione del Codice di diritto processuale penale svizzero
 
-del 16 giugno 2010
+(LACPP)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+del 16.06.2010 (stato 01.01.2022)
 
-visto l'art. 31 della Costituzione cantonale[^t-2];
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-visto il messaggio del Governo del 23 marzo 2010[^t-3],
+visto l'art. 31 della Costituzione cantonale[^ingress-2],
+
+visto il messaggio del Governo del 23 marzo 2010[^ingress-3],
 
 decide:
 
-[^t-1]: PGC 2009/2010, 853
-[^t-2]: CSC 110.100
-[^t-3]: pagina 795
+[^ingress-1]: PGC 2009/2010, 853
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: pagina 795
 
-### I. Disposizioni generali
+## 1. Disposizioni generali
 
 #### Art. 1
 
@@ -46,9 +47,9 @@ decide:
 
 <sup>4</sup> L'esecuzione di pene e misure, nonché della carcerazione preventiva e di sicurezza si conforma alle disposizioni sull'esecuzione giudiziaria nel Cantone dei Grigioni.
 
-[^1-1]: RS 312.0
-[^1-2]: RS 312.1
-[^1-3]: CSC 173.000
+[^1-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^1-2]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
+[^1-3]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 2
 
@@ -58,7 +59,7 @@ decide:
 
 <sup>2</sup> Qualora, esplicitamente o secondo il senso della prescrizione, la comminatoria di pena non valga unicamente per l'atto intenzionale, è punibile anche l'atto commesso per negligenza.
 
-[^2-1]: RS 311 1.1.2013 1
+[^2-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
 
 #### Art. 3
 
@@ -68,8 +69,8 @@ decide:
 
 <sup>2</sup> Sono fatte salve le norme procedurali speciali.
 
-[^3-1]: RS 312.0
-[^3-2]: RS 312.1
+[^3-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^3-2]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
 
 #### Art. 4
 
@@ -81,26 +82,24 @@ decide:
 
 <sup>3</sup> I Comuni possono prevedere una procedura di multa disciplinare. Le relative disposizioni della presente legge valgono per analogia.
 
-[^4-1]: CSC 175.050
-[^4-2]: CSC 370.100
-[^4-3]: RS 311.1
-[^4-4]: RS 312.1
+[^4-1]: CSC [175.050](https://www.gr-lex.gr.ch/data/175.050/it)
+[^4-2]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+[^4-3]: RS [311.1](https://db.clex.ch/link/Bund/311.1/it)
+[^4-4]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
 
 #### Art. 5
 
 **Lingua processuale**
 
-Le lingue processuali delle autorità penali nel Cantone dei Grigioni si conformano alla legge sulle lingue del Cantone dei Grigioni[^5-1].
+<sup>1</sup> Le lingue processuali delle autorità penali nel Cantone dei Grigioni si conformano alla legge sulle lingue del Cantone dei Grigioni[^5-1].
 
-[^5-1]: CSC 492.100 2 1.1.2013
+[^5-1]: CSC [492.100](https://www.gr-lex.gr.ch/data/492.100/it)
 
-### II. Organizzazione e competenze delle autorità d'azione
+## 2. Organizzazione e competenze delle autorità d'azione penale
 
-penale
+### 2.1. Procura pubblica
 
-- 1\. PROCURA PUBBLICA
-
-A. Posizione e organizzazione
+### 2.1.1. Procura pubblica
 
 #### Art. 6
 
@@ -114,7 +113,7 @@ A. Posizione e organizzazione
 
 #### Art. 7
 
-**Tratti fondamentali dell'organizzazion e**
+**Tratti fondamentali dell'organizzazione**
 
 <sup>1</sup> La Procura pubblica è diretta dal primo procuratore pubblico.
 
@@ -124,7 +123,7 @@ A. Posizione e organizzazione
 
 <sup>4</sup> Il Governo disciplina i dettagli organizzativi e le ubicazioni degli uffici esterni in un'ordinanza[^7-1]. Esso può strutturare la Procura pubblica in sezioni, gestite di regola da capi procuratori pubblici.
 
-[^7-1]: CSC 350.110 1.1.2013 3
+[^7-1]: CSC [350.110](https://www.gr-lex.gr.ch/data/350.110/it)
 
 #### Art. 8
 
@@ -133,9 +132,7 @@ A. Posizione e organizzazione
 <sup>1</sup> La Procura pubblica si compone del primo procuratore pubblico e dei suoi supplenti, nonché del necessario numero di:
 
 - a) capi procuratori pubblici e capi magistrati dei minorenni;
-
 - b) procuratori pubblici e magistrati dei minorenni;
-
 - c) funzionari incaricati e impiegati della cancelleria.
 
 <sup>2</sup> All'occorrenza il Governo può designare procuratori pubblici e magistrati dei minorenni a titolo straordinario.
@@ -158,7 +155,7 @@ A. Posizione e organizzazione
 
 <sup>3</sup> Prima di assumere il mandato, i procuratori pubblici giurano o promettono solennemente davanti all'autorità di assunzione di adempiere in modo coscienzioso gli obblighi assunti. Il testo del giuramento e della promessa solenne corrisponde in sostanza a quello dei giudici.
 
-[^10-1]: CSC 170.400
+[^10-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 11
 
@@ -167,18 +164,15 @@ A. Posizione e organizzazione
 <sup>1</sup> Il primo procuratore pubblico deve svolgere in particolare i seguenti compiti:
 
 - a) direzione del personale, aziendale e specialistica;
-
 - b) garantire una formazione e un perfezionamento professionale adeguati;
-
 - c) emanare direttive scritte e orali;
-
 - d) rappresentare la Procura pubblica verso l'esterno.
 
 <sup>2</sup> Il Governo disciplina la supplenza e ulteriori dettagli in un'ordinanza[^11-1].
 
-B. Competenze relative ai casi
+[^11-1]: CSC [350.110](https://www.gr-lex.gr.ch/data/350.110/it)
 
-[^11-1]: CSC 350.110 4 1.1.2013
+### 2.1.2. Competenze relative ai casi
 
 #### Art. 12
 
@@ -187,17 +181,11 @@ B. Competenze relative ai casi
 <sup>1</sup> Il primo procuratore pubblico è competente in particolare per:
 
 - a) l'emanazione di decreti di non luogo a procedere;
-
 - b) l'attribuzione di casi alle sezioni o ai procuratori pubblici;
-
 - c) l'approvazione di decreti di non luogo a procedere, di sospensione e di abbandono dei capi procuratori pubblici e del capo magistrato dei minorenni;
-
 - d) l'opposizione contro decreti penali che non provengono dalla Procura pubblica;
-
 - e) l'adozione di rimedi giuridici e la rappresentanza della Procura pubblica dinanzi all'autorità d'impugnazione;
-
 - f) le questioni relative alla competenza davanti ai Tribunali federali;
-
 - g) l'emanazione di direttive interne.
 
 <sup>2</sup> In singoli casi, egli può delegare al capo procuratore pubblico, al capo magistrato dei minorenni, a un procuratore pubblico o a un magistrato dei minorenni l'adozione di rimedi giuridici e il compito di rappresentare la Procura pubblica dinanzi all'autorità d'impugnazione.
@@ -206,37 +194,29 @@ B. Competenze relative ai casi
 
 **Capi procuratori pubblici**
 
-I capi procuratori pubblici curano i propri casi e all'interno della loro sezione sono competenti in particolare per:
+<sup>1</sup> I capi procuratori pubblici curano i propri casi e all'interno della loro sezione sono competenti in particolare per:
 
 - a) l'emanazione di decreti di non luogo a procedere;
-
 - b) l'attribuzione di casi ai procuratori pubblici;
-
 - c) l'approvazione di decreti di sospensione e di abbandono.
 
 #### Art. 14
 
 **Procuratori pubblici**
 
-I procuratori pubblici sono competenti in particolare per:
+<sup>1</sup> I procuratori pubblici sono competenti in particolare per:
 
 - a) lo svolgimento di inchieste penali;
-
 - b) la sospensione e l'abbandono della procedura;
-
 - c) la disposizione di misure coercitive o la richiesta di detenzione preventiva e di sicurezza, nonché la richiesta di altre misure coercitive da approvare o disporre da parte del tribunale;
-
 - d) l'emanazione di decreti penali;
-
 - e) la direzione dei funzionari incaricati;
-
 - f) la promozione dell'accusa;
-
 - g) la rappresentanza della Procura pubblica davanti al tribunale;
-
 - h) l'evasione di domande di assistenza giudiziaria intercantonali e internazionali;
-
 - i) l'emanazione di decisioni successive e indipendenti.
+
+<sup>2</sup> Essi possono anche condurre procedure contro minori.
 
 #### Art. 15
 
@@ -252,15 +232,38 @@ I procuratori pubblici sono competenti in particolare per:
 
 <sup>1</sup> La Procura dei minorenni è competente per il perseguimento penale di minorenni in tutto il Cantone.
 
-<sup>2</sup> Essa è l'autorità istruttoria ai sensi del diritto processuale penale minorile[^16-1], decide in merito alla procedura del decreto d'accusa, promuove l'accusa davanti al tribunale dei minorenni ed è responsabile per l'esecuzione delle sanzioni.
+<sup>2</sup> Essa è l'autorità istruttoria ai sensi del diritto processuale penale minorile[^16-1], decide in merito alla procedura del decreto d'accusa, promuove l'accusa davanti al tribunale dei minorenni ed è responsabile per l'esecuzione delle pene e delle misure pronunciate nei confronti di minori.
 
 <sup>3</sup> Le disposizioni relative ai capi procuratori pubblici e ai procuratori pubblici valgono per analogia anche per la Procura dei minorenni.
 
 <sup>4</sup> I magistrati dei minorenni possono condurre processi anche contro adulti.
 
-- 2\. POLIZIA GIUDIZIARIA
+[^16-1]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
 
-[^16-1]: CSC 312.1 1.1.2013 5
+#### Art. 16a
+
+**Mediazione nella procedura penale minorile 1. Principio**
+
+<sup>1</sup> La Procura dei minorenni chiede il consenso delle parti e del rispettivo rappresentante legale per avviare una procedura di mediazione se:
+
+- a) sussiste una prospettiva fondata di risoluzione del conflitto;
+- b) lo stato dell'istruttoria lo permette.
+
+<sup>2</sup> Se è dato il consenso delle parti e del rispettivo rappresentante legale, la Procura dei minorenni incarica un'organizzazione o una persona adeguata dello svolgimento della procedura di mediazione. Si può ricorrere a persone che, in considerazione della loro formazione, delle loro competenze giuridiche e della loro imparzialità possono garantire una procedura corretta.
+
+#### Art. 16b
+
+**2. Procedura**
+
+<sup>1</sup> Il mediatore informa le parti in merito agli obiettivi da perseguire, alle condizioni quadro, alla procedura prevista e alla portata della procedura di mediazione, nonché in merito ai loro diritti, in particolare al carattere volontario della partecipazione. In altre procedure le parti non possono appellarsi alle dichiarazioni rilasciate e ai documenti prodotti durante la procedura di mediazione.
+
+<sup>2</sup> Il mediatore tiene colloqui congiunti con le parti. In via eccezionale sono possibili colloqui individuali. I colloqui vengono svolti escludendo il pubblico. Su richiesta alle parti può essere consentito di farsi accompagnare dal rispettivo rappresentante legale o da una persona di fiducia.
+
+<sup>3</sup> Di norma la procedura di mediazione deve concludersi entro tre mesi. Se la mediazione porta a un'intesa, questa viene definita in un accordo scritto. Le parti e il mediatore sottoscrivono l'accordo. Se la mediazione non porta a un'intesa, il mediatore dichiara il fallimento del tentativo.
+
+<sup>4</sup> Il mediatore informa la Procura dei minorenni in merito alla conclusione della procedura. Su richiesta la Procura dei minorenni viene informata in ogni momento in merito allo stato della mediazione. La Procura dei minorenni mantiene la direzione del procedimento anche durante la procedura di mediazione. Essa garantisce l'esecuzione dell'accordo di mediazione.
+
+### 2.2. Polizia giudiziaria
 
 #### Art. 17
 
@@ -274,7 +277,7 @@ I procuratori pubblici sono competenti in particolare per:
 
 <sup>4</sup> L'organizzazione della polizia giudiziaria, nonché la sua subordinazione amministrativa e disciplinare si conformano alla legislazione sulla polizia.
 
-- 3\. AUTORITÀ AMMINISTRATIVE
+### 2.3. Autorità amministrative
 
 #### Art. 18
 
@@ -284,41 +287,30 @@ I procuratori pubblici sono competenti in particolare per:
 
 <sup>2</sup> Per decisioni successive è competente la Procura pubblica.
 
-### III. Competenza materiale dei tribunali penali
+## 3. Competenza materiale dei tribunali penali
 
 #### Art. 19
 
 **Tribunale di prima istanza**
 
-<sup>1</sup> Il tribunale distrettuale funge da tribunale penale di prima istanza.
+<sup>1</sup> Il tribunale regionale funge da tribunale penale di prima istanza.
 
 <sup>2</sup> Esso decide nella composizione di cinque giudici:
 
 - a) in merito a questioni giuridiche di importanza fondamentale;
-
 - b) su ordine del presidente;
-
 - c) se la Procura pubblica:
+  - 1\. chiede una pena detentiva superiore ai cinque anni;
+  - 2\. chiede un internamento o una misura terapeutica stazionaria;
+  - 3\. chiede una privazione della libertà superiore ai cinque anni, in caso di contemporanea revoca di sanzioni condizionali.
 
-- 1\. chiede una pena detentiva superiore ai cinque anni;
-
-- 2\. chiede un internamento o una misura terapeutica stazionaria;
-
-- 3\. chiede una privazione della libertà superiore ai cinque anni, in
-
-caso di contemporanea revoca di sanzioni condizionali.
-
-<sup>3</sup> Negli altri casi il tribunale distrettuale decide nella composizione di tre giudici.
-
-**6**
-
-1.1.2013
+<sup>3</sup> Negli altri casi il tribunale regionale decide nella composizione di tre giudici.
 
 #### Art. 20
 
 **Tribunale dei minorenni**
 
-Il tribunale distrettuale funge da tribunale dei minorenni.
+<sup>1</sup> Il tribunale regionale funge da tribunale dei minorenni.
 
 #### Art. 21
 
@@ -332,19 +324,21 @@ Il tribunale distrettuale funge da tribunale dei minorenni.
 
 **Tribunale d'appello e autorità di impugnazione**
 
-Il Tribunale cantonale esercita la funzione di tribunale d'appello e di autorità di impugnazione in cause penali e penali minorili.
+<sup>1</sup> Il Tribunale cantonale esercita la funzione di tribunale d'appello e di autorità di impugnazione in cause penali e penali minorili.
 
-### IV. Disposizioni complementari
+## 4. Disposizioni complementari
 
-- 1\. ASSISTENZA GIUDIZIARIA
+### 4.1. Assistenza giudiziaria
 
 #### Art. 23
 
-**Assistenza giudiziaria all'interno del Cantone Assistenza giudiziaria intercantonale**
+**Assistenza giudiziaria all'interno del Cantone**
 
-Le autorità penali cantonali si prestano reciproca assistenza giudiziaria.
+<sup>1</sup> Le autorità penali cantonali si prestano reciproca assistenza giudiziaria.
 
 #### Art. 24
+
+**Assistenza giudiziaria intercantonale**
 
 <sup>1</sup> Su riserva della reciprocità l'assistenza giudiziaria viene prestata anche per reati previsti dal diritto cantonale.
 
@@ -358,9 +352,7 @@ Le autorità penali cantonali si prestano reciproca assistenza giudiziaria.
 
 <sup>2</sup> Essa cede l'azione penale a uno Stato estero oppure presenta una relativa domanda.
 
-**7**
-
-1.1.2013 2. DIRITTI E DOVERI DI COOPERAZIONE DELLE AUTORITÀ
+### 4.2. Diritti e doveri di Cooperazione delle autorità
 
 #### Art. 26
 
@@ -372,14 +364,13 @@ Le autorità penali cantonali si prestano reciproca assistenza giudiziaria.
 
 <sup>3</sup> Essi sono tenuti a presentare denuncia se la legge lo prevede.
 
-[^26-1]: RS 312.0
-[^26-2]: Testo giusta art. 163 cpv. 1 della legge d'introduzione al Codice civile svizzero, CSC 210.100; entrato in vigore il 1° gennaio 2013. 8 1.1.2013
+[^26-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 27
 
-**Diritto di querela delle autorità**[^26-2]
+**Diritto di querela delle autorità**
 
-Anche i curatori, nonché le autorità di protezione dei minori e degli adulti o di assistenza sociale competenti per l'assistenza alle persone aventi diritto al mantenimento sono autorizzati a presentare una querela contro la trascuranza dell'obbligo di mantenimento.
+<sup>1</sup> Anche i curatori, nonché le autorità di protezione dei minori e degli adulti o di assistenza sociale competenti per l'assistenza alle persone aventi diritto al mantenimento sono autorizzati a presentare una querela contro la trascuranza dell'obbligo di mantenimento.
 
 #### Art. 28
 
@@ -391,6 +382,16 @@ Anche i curatori, nonché le autorità di protezione dei minori e degli adulti o
 
 <sup>3</sup> L'ufficio competente per l'esecuzione di pene e misure può rappresentare autonomamente dinanzi al tribunale le proprie richieste di decisioni successive.
 
+#### Art. 28a
+
+**Comunicazione di procedimenti penali e di decisioni penali ad altre autorità**
+
+<sup>1</sup> Le autorità penali informano altre autorità riguardo a procedimenti penali e a decisioni finali, per quanto queste necessitino dell'informazione per adempiere ai propri compiti previsti dalla legge e l'interesse pubblico all'informazione prevalga rispetto ai diritti della personalità delle persone interessate.
+
+<sup>1<sup>bis</sup></sup> Privati possono essere informati in merito a procedimenti penali e decisioni finali, per quanto questi necessitino dell'informazione per adempiere ai compiti pubblici loro delegati e l'interesse all'informazione prevalga rispetto ai diritti della personalità delle persone interessate.
+
+<sup>2</sup> Sono fatti salvi diritti e obblighi di comunicazione secondo disposizioni particolari.
+
 #### Art. 29
 
 **Notifica di procedure penali e di sentenze alle autorità**
@@ -400,14 +401,13 @@ Anche i curatori, nonché le autorità di protezione dei minori e degli adulti o
 <sup>2</sup> La notifica circa una procedura penale in corso è ammissibile unicamente se:
 
 - a) l'autorità necessita di questa indicazione per l'adempimento di un compito giuridico o se
-
 - b) si deve presumere un pericolo imminente.
 
 <sup>3</sup> Il Governo disciplina i dettagli in un'ordinanza[^29-1].
 
-- 3\. DISPOSIZIONI PARTICOLARI
+[^29-1]: CSC [350.110](https://www.gr-lex.gr.ch/data/350.110/it)
 
-[^29-1]: CSC 350.110
+### 4.3. Disposizioni particolari
 
 #### Art. 30
 
@@ -421,21 +421,19 @@ Anche i curatori, nonché le autorità di protezione dei minori e degli adulti o
 
 **Eccezioni al patrocinio obbligatorio**
 
-In singoli casi, su domanda motivata e con l'approvazione della persona che determina il corso della procedura, il patrocinio da parte di una persona avente l'esercizio dei diritti civili che non è iscritta nel registro degli avvocati o che non gode della libera circolazione secondo la LLCA[^31-1] è possibile:
+<sup>1</sup> In singoli casi, su domanda motivata e con l'approvazione della persona che determina il corso della procedura, il patrocinio da parte di una persona avente l'esercizio dei diritti civili che non è iscritta nel registro degli avvocati o che non gode della libera circolazione secondo la LLCA[^31-1] è possibile:
 
 - a) per difendere l'imputato nella procedura penale in seguito a contravvenzione;
-
 - b) per rappresentare a titolo non professionale l'accusatore privato;
-
 - c) per sostenere altri partecipanti alla procedura.
 
-[^31-1]: RS 935.61 1.1.2013 9
+[^31-1]: RS [935.61](https://db.clex.ch/link/Bund/935.61/it)
 
 #### Art. 32
 
 **Ricompense**
 
-Su richiesta della Procura pubblica il Dipartimento competente per la giustizia può versare una ricompensa per la fruttuosa cooperazione di privati nella ricerca.
+<sup>1</sup> Su richiesta della Procura pubblica il Dipartimento competente per la giustizia può versare una ricompensa per la fruttuosa cooperazione di privati nella ricerca.
 
 #### Art. 33
 
@@ -453,20 +451,17 @@ Su richiesta della Procura pubblica il Dipartimento competente per la giustizia 
 
 <sup>1</sup> Sono considerati in modo particolare esperti ufficiali o incaricati permanentemente ai sensi del Codice di procedura penale[^34-1].
 
-- a) i medici distrettuali;
-
+- a) i medici delegati;
 - b) il Servizio medico-legale dei Servizi psichiatrici dei Grigioni;
-
 - c) l'istituto di medicina legale designato dal Governo;
-
 - d) l'istituzione di psichiatria dei bambini e degli adolescenti e di protezione dell'infanzia designata dal Governo.
 
 <sup>2</sup> Il Governo può designare ulteriori esperti ufficiali o incaricati permanentemente e disciplina i rispettivi settori specifici in un'ordinanza[^34-2].
 
 <sup>3</sup> Laddove il diritto federale prevede lo svolgimento di una perquisizione o di una visita di persone da parte di un medico, le autorità penali possono ricorrere a tutti i medici attivi nel Cantone.
 
-[^34-1]: RS 312.0
-[^34-2]: CSC 350.110
+[^34-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^34-2]: CSC [350.110](https://www.gr-lex.gr.ch/data/350.110/it)
 
 #### Art. 35
 
@@ -476,7 +471,7 @@ Su richiesta della Procura pubblica il Dipartimento competente per la giustizia 
 
 <sup>2</sup> La pubblicazione si conforma alle disposizioni concernenti il Foglio ufficiale cantonale[^35-1].
 
-[^35-1]: CSC 180.500 10 1.1.2013
+[^35-1]: CSC [180.500](https://www.gr-lex.gr.ch/data/180.500/it)
 
 #### Art. 36
 
@@ -490,7 +485,7 @@ Su richiesta della Procura pubblica il Dipartimento competente per la giustizia 
 
 <sup>4</sup> Decisioni concernenti la consultazione degli atti possono essere impugnate entro 30 giorni per iscritto con ricorso all'autorità di vigilanza.
 
-- 4\. SPESE DI PROCEDURA E CONTABILITÀ
+### 4.4. Spese di procedura e contabilità
 
 #### Art. 37
 
@@ -505,13 +500,12 @@ Su richiesta della Procura pubblica il Dipartimento competente per la giustizia 
 <sup>4</sup> L'ammontare della tariffa viene disciplinato con ordinanza dal:
 
 - a) Governo per procedure davanti ad autorità amministrative e alla Procura pubblica[^37-3];
-
 - b) Tribunale cantonale per procedure giudiziarie[^37-4].
 
-[^37-1]: RS 312.0
-[^37-2]: RS 312.1
-[^37-3]: CSC 350.110
-[^37-4]: CSC 350.210 1.1.2013 11
+[^37-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^37-2]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
+[^37-3]: CSC [350.110](https://www.gr-lex.gr.ch/data/350.110/it)
+[^37-4]: CSC [350.210](https://www.gr-lex.gr.ch/data/350.210/it)
 
 #### Art. 38
 
@@ -535,7 +529,7 @@ Su richiesta della Procura pubblica il Dipartimento competente per la giustizia 
 
 **Utilizzazione del denaro proveniente da pene pecuniarie e da multe**
 
-L'utilizzazione del denaro proveniente da pene pecuniarie e da multe si conforma alle disposizioni sull'organizzazione e sull'esecuzione giudiziaria.
+<sup>1</sup> L'utilizzazione del denaro proveniente da pene pecuniarie e da multe si conforma alle disposizioni sull'organizzazione e sull'esecuzione giudiziaria.
 
 #### Art. 41
 
@@ -545,13 +539,13 @@ L'utilizzazione del denaro proveniente da pene pecuniarie e da multe si conforma
 
 <sup>2</sup> L'indennità per perdita di guadagno di testimoni ammonta al massimo a 500 franchi al giorno. Le spese vengono indennizzate al massimo con gli importi validi per gli impiegati cantonali. Il Governo disciplina i dettagli in un'ordinanza[^41-3].
 
-[^41-1]: RS 312.0
-[^41-2]: CSC 310.100 e CSC 310.250
-[^41-3]: CSC 350.110
+[^41-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^41-2]: CSC [310.100](https://www.gr-lex.gr.ch/data/310.100/it) e CSC [310.250](https://www.gr-lex.gr.ch/data/310.250/it)
+[^41-3]: CSC [350.110](https://www.gr-lex.gr.ch/data/350.110/it)
 
-### V. Procedure penali davanti ad autorità amministrative
+## 5. Procedure penali davanti ad autorità amministrative
 
-- 1\. DISPOSIZIONI GENERALI
+### 5.1. Disposizioni generali
 
 #### Art. 42
 
@@ -561,7 +555,7 @@ L'utilizzazione del denaro proveniente da pene pecuniarie e da multe si conforma
 
 <sup>2</sup> La procedura si conforma al Codice di procedura penale[^42-1] e alla presente legge. Sono fatte salve particolari prescrizioni procedurali.
 
-[^42-1]: RS 312.0
+[^42-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 43
 
@@ -570,13 +564,11 @@ L'utilizzazione del denaro proveniente da pene pecuniarie e da multe si conforma
 <sup>1</sup> Alla Polizia cantonale competono:
 
 - a) la cooperazione nelle perquisizioni domiciliari quale funzionario pubblico cantonale secondo il diritto penale amministrativo federale[^43-1];
-
 - b) l'adozione di misure immediate in caso di incidenti aerei.
 
-<sup>2</sup> I compiti della Polizia cantonale nell'ambito della procedura di multa disciplinare di diritto federale si orientano alla legislazione cantonale sul diritto in materia di circolazione stradale[^43-2].
+<sup>2</sup> …
 
-[^43-1]: RS 313.0
-[^43-2]: CSC 870.100 e 870.110 12 1.1.2013
+[^43-1]: RS [313.0](https://db.clex.ch/link/Bund/313.0/it)
 
 #### Art. 44
 
@@ -588,9 +580,29 @@ L'utilizzazione del denaro proveniente da pene pecuniarie e da multe si conforma
 
 <sup>3</sup> Nel perseguimento e nel giudizio di contravvenzioni al diritto federale, il comune è competente unicamente per la procedura di multa disciplinare.
 
-- 2\. PROCEDURA DI MULTA DISCIPLINARE SECONDO IL DIRITTO CANTONALE
+[^44-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
-[^44-1]: CSC 370.100 1.1.2013 13
+### 5.1.a Procedura di multa disciplinare secondo il diritto federale
+
+#### Art. 44a
+
+**Competenze**
+
+<sup>1</sup> Il Governo designa i servizi amministrativi cantonali autorizzati a riscuotere multe disciplinari secondo quanto previsto dalla legislazione federale in materia di multe disciplinari[^44a-1].
+
+<sup>2</sup> Per quanto non sussista un'altra competenza di diritto speciale, la Polizia cantonale è competente per la riscossione di multe disciplinari secondo quanto previsto dalla legislazione federale in materia di multe disciplinari.
+
+<sup>3</sup> Se espressamente previsto da una legge, i comuni sono competenti per la riscossione di multe disciplinari secondo quanto previsto dalla legislazione federale in materia di multe disciplinari.
+
+[^44a-1]: RS [741.03](https://db.clex.ch/link/Bund/741.03/it); [741.031](https://db.clex.ch/link/Bund/741.031/it)
+
+#### Art. 44b
+
+**Procedura ordinaria**
+
+<sup>1</sup> La procedura penale ordinaria viene condotta dall'autorità cantonale competente in materia.
+
+### 5.2. Procedura di multa disciplinare Secondo il diritto cantonale
 
 #### Art. 45
 
@@ -609,24 +621,20 @@ L'utilizzazione del denaro proveniente da pene pecuniarie e da multe si conforma
 <sup>1</sup> La procedura di multa disciplinare è esclusa:
 
 - a) in caso di infrazioni tramite le quali sono state messe in pericolo o ferite persone oppure sono stati provocati danni materiali;
-
 - b) in caso di infrazioni che non sono state osservate o constatate direttamente da un organo di polizia autorizzato o dall'autorità amministrativa competente;
-
 - c) in caso di infrazioni da parte di minori che non hanno ancora compiuto il quindicesimo anno di età;
-
 - d) se all'autore è contestata anche un'altra infrazione che non è contemplata nell'elenco delle multe;
-
 - e) se l'autore si oppone alla procedura di multa disciplinare.
 
 <sup>2</sup> Se una persona, con una o più contravvenzioni, commette più infrazioni per cui sono comminate multe disciplinari, le multe sono cumulate ed è inflitta una multa complessiva.
 
-<sup>3</sup> Se la persona rifiuta una delle numerose contravvenzioni contestatele, oppure se la multa complessiva supera l'importo di 1 000 franchi, allora tutte le contravvenzioni vengono giudicate in una procedura ordinaria.
+<sup>3</sup> Se la persona rifiuta una delle numerose contravvenzioni contestatele, oppure se la multa complessiva supera l'importo di 1000 franchi, allora tutte le contravvenzioni vengono giudicate in una procedura ordinaria.
 
 #### Art. 47
 
 **Elenco delle multe e organi competenti**
 
-Il Governo disciplina i dettagli in un'ordinanza. In particolare allestisce l'elenco delle contravvenzioni che possono essere punite con multe disciplinari, determina l'importo delle multe e definisce gli organi di Polizia o di vigilanza oppure le autorità amministrative autorizzate a riscuotere multe disciplinari.
+<sup>1</sup> Il Governo disciplina i dettagli in un'ordinanza. In particolare allestisce l'elenco delle contravvenzioni che possono essere punite con multe disciplinari, determina l'importo delle multe e definisce gli organi di Polizia o di vigilanza oppure le autorità amministrative autorizzate a riscuotere multe disciplinari.
 
 #### Art. 48
 
@@ -646,7 +654,7 @@ Il Governo disciplina i dettagli in un'ordinanza. In particolare allestisce l'el
 
 <sup>2</sup> Se, su domanda della parte lesa o dell'autore, un'autorità penale accerta che vi è stata violazione dell'articolo 46 della presente legge, essa annulla la multa disciplinare e applica la procedura ordinaria.
 
-### VI. Grazia
+## 6. Grazia
 
 #### Art. 50
 
@@ -657,7 +665,6 @@ Il Governo disciplina i dettagli in un'ordinanza. In particolare allestisce l'el
 <sup>2</sup> In merito alle domande di grazia decide in modo definitivo:
 
 - a) il Gran Consiglio in caso di pene detentive superiori ai due anni;
-
 - b) il Governo negli altri casi.
 
 #### Art. 51
@@ -665,10 +672,6 @@ Il Governo disciplina i dettagli in un'ordinanza. In particolare allestisce l'el
 **Procedura**
 
 <sup>1</sup> La domanda di grazia va inoltrata per iscritto e con motivazione al Dipartimento competente per la giustizia. Essa non ha effetto sospensivo, salvo diversa disposizione dell'autorità esecutiva competente.
-
-**14**
-
-1.1.2013
 
 <sup>2</sup> Se la domanda non è evidentemente inammissibile o ingiustificata, il Dipartimento procede ai necessari rilevamenti. Richiede la presa di posizione del tribunale giudicante e degli organi incaricati dell'esecuzione della pena.
 
@@ -678,9 +681,9 @@ Il Governo disciplina i dettagli in un'ordinanza. In particolare allestisce l'el
 
 **Spese**
 
-Le disposizioni della legislazione sulla giustizia amministrativa trovano applicazione per analogia all'assunzione e alla determinazione delle spese.
+<sup>1</sup> Le disposizioni della legislazione sulla giustizia amministrativa trovano applicazione per analogia all'assunzione e alla determinazione delle spese.
 
-### VII. Disposizioni finali
+## 7. Disposizioni finali
 
 #### Art. 53
 
@@ -689,15 +692,14 @@ Le disposizioni della legislazione sulla giustizia amministrativa trovano applic
 <sup>1</sup> Con l'entrata in vigore della presente legge sono abrogati i seguenti atti normativi:
 
 - a) Legge sulla giustizia penale dell'8 giugno 1958[^53-1];
-
 - b) Adesione del 9 giugno 1996 al Concordato sull'assistenza giudiziaria e la cooperazione intercantonale in materia penale del 5 novembre 1992[^53-2].
 
 <sup>2</sup> Se atti normativi vigenti rinviano a disposizioni che vengono abrogate dalla presente legge, vengono applicate le disposizioni corrispondenti del Codice di diritto processuale penale svizzero[^53-3], rispettivamente della legge federale di diritto processuale penale minorile[^53-4], nonché della presente legge.
 
-[^53-1]: AGS 1958, 141; CSC 350.000
-[^53-2]: AGS 1996, 3627, CSC 350.035
-[^53-3]: RS 312.0
-[^53-4]: RS 312.1
+[^53-1]: AGS 1958, 141; CSC [350.000](https://www.gr-lex.gr.ch/data/350.000/it)
+[^53-2]: AGS 1996, 3627, CSC [350.035](https://www.gr-lex.gr.ch/data/350.035/it)
+[^53-3]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^53-4]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
 
 #### Art. 54
 
@@ -708,14 +710,14 @@ Le disposizioni della legislazione sulla giustizia amministrativa trovano applic
 <sup>2</sup> Se ordinanze emanate dal Gran Consiglio che non corrispondono alle disposizioni dell'articolo 32 capoverso 1 della Costituzione cantonale[^54-2] sono in contraddizione con disposizioni del Codice di diritto processuale penale svizzero[^54-3] o con la sua applicazione nella presente legge, il Gran Consiglio può adeguarle a questi atti normativi tramite ordinanza.
 
 [^54-1]: L'appendice non è pubblicata nella CSC; vedi FUC 2010, 2461 e segg.
-[^54-2]: CSC 110.100
-[^54-3]: RS 312.0 1.1.2013 15
+[^54-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^54-3]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 55
 
 **Diritto transitorio**
 
-Le infrazioni contro disposizioni penali della legge sulla giustizia penale dell'8 giugno 1958 commesse prima dell'entrata in vigore della presente legge e non ancora giudicate da un giudice vengono giudicate secondo le disposizioni dell'appendice alla presente legge.
+<sup>1</sup> Le infrazioni contro disposizioni penali della legge sulla giustizia penale dell'8 giugno 1958 commesse prima dell'entrata in vigore della presente legge e non ancora giudicate da un giudice vengono giudicate secondo le disposizioni dell'appendice alla presente legge.
 
 #### Art. 56
 
@@ -726,4 +728,6 @@ Le infrazioni contro disposizioni penali della legge sulla giustizia penale dell
 <sup>2</sup> Il Governo stabilisce la data dell'entrata in vigore[^56-2].
 
 [^56-1]: Il termine di referendum è scaduto inutilizzato il 29 settembre 2009
-[^56-2]: Posta in vigore il 1° gennaio 2011 con DG del 21 dicembre 2010 16 1.1.2013
+[^56-2]: Posta in vigore il 1° gennaio 2011 con DG del 21 dicembre 2010
+
+-

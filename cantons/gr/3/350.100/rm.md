@@ -4,33 +4,36 @@ number: "350.100"
 title: Lescha introductiva tar il cudesch da procedura penala svizzer
 short: LItCPP
 language: rm
-version: 2013-01-01
-corrected: 2014-10-09
-version_adopted: 2011-12-07
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1703/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3222/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha introductiva tar il cudesch da procedura penala svizzer (LItCPP)
+# Lescha introductiva tar il cudesch da procedura penala svizzer
 
-dals 16 da zercladur 2010
+(LItCPP)
 
-Il cussegl grond dal chantun Grischun[^t-1],
+dals 16-06-2010 (versiun dals 01-01-2022)
 
-sa basond sin l'art. 31 da la constituziun chantunala[^t-2] suenter avair gì invista da la missiva da la regenza dals 23 da mars 2010[^t-3],
+Il cussegl grond dal chantun Grischun[^ingress-1],
+
+sa basond sin l'art. 31 da la constituziun chantunala[^ingress-2],
+
+suenter avair gì invista da la missiva da la regenza dals 23 da mars 2010[^ingress-3],
 
 concluda:
 
-I. Disposiziuns generalas
+[^ingress-1]: PCG 2009/2010, 853
+[^ingress-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: pagina 795
 
-[^t-1]: PCG 2009/2010, 853
-[^t-2]: DG 110.100
-[^t-3]: pagina 795
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
@@ -44,9 +47,9 @@ I. Disposiziuns generalas
 
 <sup>4</sup> L'execuziun da chastis e da mesiras sco er l'arrest d'inquisiziun sa drizzan tenor las disposiziuns davart l'execuziun giudiziala en il chantun Grischun.
 
-[^1-1]: CS 312.0
-[^1-2]: CS 312.1
-[^1-3]: DG 173.000 1-1-2013 1
+[^1-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+[^1-2]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
+[^1-3]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 2
 
@@ -56,7 +59,7 @@ I. Disposiziuns generalas
 
 <sup>2</sup> Sch'i na resorta betg expressivamain u tenor il senn da la prescripziun che mo il surpassament intenziunà vegnia smanatschà cun chasti, vegn chastià er il surpassament commess per negligientscha.
 
-[^2-1]: CS 311
+[^2-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
 
 #### Art. 3
 
@@ -66,8 +69,8 @@ I. Disposiziuns generalas
 
 <sup>2</sup> Resalvadas restan prescripziuns da procedura spezialas.
 
-[^3-1]: CS 312.0
-[^3-2]: CS 312.1
+[^3-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+[^3-2]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
 
 #### Art. 4
 
@@ -79,26 +82,24 @@ I. Disposiziuns generalas
 
 <sup>3</sup> Las vischnancas pon prevair ina procedura da multas disciplinaras. Las disposiziuns correspundentas da questa lescha valan confurm al senn.
 
-[^4-1]: DG 175.050
-[^4-2]: DG 370.100
-[^4-3]: CS 311.1
-[^4-4]: CS 312.1
+[^4-1]: DG [175.050](https://www.gr-lex.gr.ch/data/175.050/rm)
+[^4-2]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+[^4-3]: CS [311.1](https://db.clex.ch/link/Bund/311.1/rm)
+[^4-4]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
 
 #### Art. 5
 
 **Lingua da procedura**
 
-Las linguas da procedura da las autoritads penalas en il chantun Grischun sa drizzan tenor la lescha da linguas dal chantun Grischun[^5-1].
+<sup>1</sup> Las linguas da procedura da las autoritads penalas en il chantun Grischun sa drizzan tenor la lescha da linguas dal chantun Grischun[^5-1].
 
-[^5-1]: DG 492.100 2 1-1-2013
+[^5-1]: DG [492.100](https://www.gr-lex.gr.ch/data/492.100/rm)
 
-### II. Organisaziun e cumpetenzas da las autoritads
+## 2. Organisaziun e cumpetenzas da las autoritads da persecuziun penala
 
-da persecuziun penala
+### 2.1. procura publica
 
-- 1\. PROCURA PUBLICA
-
-A. Posiziun ed organisaziun
+### 2.1.1. Posiziun ed organisaziun
 
 #### Art. 6
 
@@ -122,7 +123,7 @@ A. Posiziun ed organisaziun
 
 <sup>4</sup> La regenza regla ils detagls da l'organisaziun ed ils lieus dals posts externs en in'ordinaziun[^7-1]. Ella po divider la procura publica en partiziuns che vegnan per regla manadas da las procuraturas publicas directivas e dals procuraturs publics directivs.
 
-[^7-1]: DG 350.110 1-1-2013 3
+[^7-1]: DG [350.110](https://www.gr-lex.gr.ch/data/350.110/rm)
 
 #### Art. 8
 
@@ -131,9 +132,7 @@ A. Posiziun ed organisaziun
 <sup>1</sup> La procura publica sa cumpona da l'emprima procuratura publica u da l'emprim procuratur public e da sia substituta u da ses substitut sco er dal dumber necessari:
 
 - a) da procuraturas publicas directivas e da procuraturs publics directivs sco er da la procuratura directiva u dal procuratur directiv per giuvenils;
-
 - b) da procuraturas publicas e da procuraturs publics sco er da procuraturas e da procuraturs per giuvenils;
-
 - c) da referendarias e da referendaris sco er d'emploiadas e d'emploiads da chanzlia.
 
 <sup>2</sup> En cas da basegn po la regenza nominar procuraturas publicas extraordinarias e procuraturs publics extraordinaris sco er procuraturas extraordinarias e procuraturs extraordinaris per giuvenils.
@@ -156,7 +155,7 @@ A. Posiziun ed organisaziun
 
 <sup>3</sup> Avant che entrar en uffizi fan las procuraturas publicas ed ils procuraturs publics davant l'instanza d'engaschament in sarament u in'empermischun solenna ch'ellas ed els adempleschian conscienziusamain lur obligaziuns. Il text dal sarament u da l'empermischun solenna correspunda confurm al senn a la formulaziun per las derschadras e per ils derschaders.
 
-[^10-1]: DG 170.400
+[^10-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 11
 
@@ -165,16 +164,15 @@ A. Posiziun ed organisaziun
 <sup>1</sup> L'emprima procuratura publica u l'emprim procuratur public ha en spezial las suandantas incumbensas:
 
 - a) manar la procura publica en quai che reguarda il persunal, il manaschi e la professiun;
-
 - b) garantir ina scolaziun ed ina furmaziun supplementara professiunala;
-
 - c) dar directivas a bucca ed en scrit;
-
 - d) represchentar la procura publica vers anor.
 
-<sup>2</sup> La regenza regla la substituziun ed ulteriurs detagls en in'ordinaziun[^11-1]. B. Cumpetenzas tenor cas
+<sup>2</sup> La regenza regla la substituziun ed ulteriurs detagls en in'ordinaziun[^11-1].
 
-[^11-1]: DG 350.110 4 1-1-2013
+[^11-1]: DG [350.110](https://www.gr-lex.gr.ch/data/350.110/rm)
+
+### 2.1.2. Cumpetenzas tenor cas
 
 #### Art. 12
 
@@ -183,17 +181,11 @@ A. Posiziun ed organisaziun
 <sup>1</sup> L'emprima procuratura publica u l'emprim procuratur public è en spezial cumpetent per:
 
 - a) relaschar disposiziuns da betg avrir l'inquisiziun penala;
-
 - b) attribuir cas a las partiziuns u a las procuraturas publicas ed als procuraturs publics;
-
 - c) approvar disposiziuns da betg avrir, da sistir u da suspender l'inquisiziun penala ch'èn vegnidas relaschadas da las procuraturas publicas directivas e dals procuraturs publics directivs sco er da la procuratura directiva u dal procuratur directiv per giuvenils;
-
 - d) far protesta cunter mandats penals che na derivan betg da la procura publica;
-
 - e) prender meds legals e represchentar la procura publica davant l'instanza da meds legals;
-
 - f) decider la cumpetenza territoriala davant tribunals da la confederaziun;
-
 - g) relaschar directivas internas.
 
 <sup>2</sup> En il cas singul po ella u el surdar ad ina procuratura publica directiva u ad in procuratur public directiv, a la procuratura directiva u al procuratur directiv per giuvenils, ad ina procuratura publica u ad in procuratur public ubain ad ina procuratura u ad in procuratur per giuvenils da prender meds legals e da represchentar la procura publica davant l'instanza da meds legals.
@@ -202,39 +194,29 @@ A. Posiziun ed organisaziun
 
 **Procuraturas publicas directivas e procuraturs publics directivs**
 
-Las procuraturas publicas directivas ed ils procuraturs publics directivs mainan agens cas ed èn en spezial cumpetents en lur partiziun per:
+<sup>1</sup> Las procuraturas publicas directivas ed ils procuraturs publics directivs mainan agens cas ed èn en spezial cumpetents en lur partiziun per:
 
 - a) relaschar disposiziuns da betg avrir l'inquisiziun penala;
-
 - b) attribuir cas a las procuraturas publicas ed als procuraturs publics;
-
 - c) approvar disposiziuns da sistida e da suspensiun.
 
 #### Art. 14
 
 **Procuraturas publicas e procuraturs publics**
 
-Las procuraturas publicas ed ils procuraturs publics èn en spezial cumpetents per:
+<sup>1</sup> Las procuraturas publicas ed ils procuraturs publics èn en spezial cumpetents per:
 
 - a) far inquisiziuns penalas;
-
 - b) sistir e suspender la procedura;
-
 - c) ordinar mesiras repressivas respectivamain proponer l'arrest d'inquisiziun e da segirezza sco er autras mesiras repressivas che ston vegnir approvadas u ordinadas da la dretgira;
-
 - d) relaschar mandats penals;
-
 - e) manar las referendarias ed ils referendaris;
-
 - f) far l'accusaziun;
-
-**5**
-
-1-1-2013 g) represchentar la procura publica davant dretgira;
-
+- g) represchentar la procura publica davant dretgira;
 - h) liquidar dumondas interchantunalas ed internaziunalas d'assistenza giudiziala;
-
 - i) relaschar decisiuns posteriuras ed autonomas.
+
+<sup>2</sup> Ellas ed els pon er manar proceduras cunter giuvenils.
 
 #### Art. 15
 
@@ -250,15 +232,38 @@ Las procuraturas publicas ed ils procuraturs publics èn en spezial cumpetents p
 
 <sup>1</sup> La procura per giuvenils è cumpetenta per la persecuziun penala da giuvenils en tut il chantun.
 
-<sup>2</sup> Ella è l'autoritad d'inquisiziun en il senn da la procedura penala per giuvenils[^16-1], decida en la procedura da mandat penal, fa l'accusaziun davant las dretgiras per giuvenils ed è cumpetenta per l'execuziun da las sancziuns.
+<sup>2</sup> Ella è l'autoritad d'inquisiziun en il senn da la Procedura penala per giuvenils[^16-1], decida en la procedura da mandat penal, fa l'accusaziun davant las dretgiras per giuvenils ed è cumpetenta per l'execuziun dals chastis e da las mesiras cunter giuvenils.
 
 <sup>3</sup> Las disposiziuns davart las procuraturas publicas directivas e davart ils procuraturs publics directivs sco er davart las procuraturas publicas e davart ils procuraturs publics valan confurm al senn per la procura per giuvenils.
 
 <sup>4</sup> Las procuraturas ed ils procuraturs per giuvenils pon er manar proceduras cunter persunas creschidas.
 
-- 2\. POLIZIA GIUDIZIALA
+[^16-1]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
 
-[^16-1]: DG 312.1 6 1-1-2013
+#### Art. 16a
+
+**Mediaziun extragiudiziala en la procedura penala per giuvenils 1. princip**
+
+<sup>1</sup> La Procura per giuvenils dumonda il consentiment da las partidas e da lur represchentanza legala per instradar ina procedura da mediaziun extragiudiziala, sche:
+
+- a) i èn avant maun perspectivas motivadas per schliar il conflict;
+- b) il stadi da l'inquisiziun permetta quai.
+
+<sup>2</sup> Sch'il consentiment da las partidas e da lur represchentanza legala è avant maun, incumbensescha la Procura per giuvenils in'organisaziun u ina persuna adattada cun la realisaziun da la procedura da mediaziun extragiudiziala. Vegnir engaschadas pon persunas che garanteschan – en quai che reguarda la scolaziun, las enconuschientschas giuridicas e l'imparzialitad – per in andament gist da la procedura.
+
+#### Art. 16b
+
+**2. procedura**
+
+<sup>1</sup> La mediatura extragiudiziala u il mediatur extragiudizial orientescha las partidas davart las finamiras persequitadas, davart las cundiziuns generalas, davart l'andament planisà, davart la muntada da la procedura da mediaziun extragiudiziala sco er davart lur dretgs, en spezial davart la voluntariadad da la cooperaziun. A deposiziuns ed a scrittiras ch'èn vegnidas fatgas e redigidas durant la procedura da mediaziun extragiudiziala, na pon las partidas betg sa referir en in'autra procedura.
+
+<sup>2</sup> La mediatura extragiudiziala u il mediatur extragiudizial maina discurs cuminaivels cun las partidas. Excepziunalmain pon vegnir manads discurs individuals. Ils discurs han lieu cun exclusiun da la publicitad. Sin dumonda poi vegnir permess a las partidas da sa laschar accumpagnar da lur represchentanza legala u d'ina persuna da confidenza.
+
+<sup>3</sup> La procedura da mediaziun extragiudiziala duai per regla vegnir terminada entaifer 3 mais. Sche la mediaziun extragiudiziala porta in'enclegientscha, vegn quella fixada en ina cunvegna en scrit. Las partidas e la mediatura extragiudiziala u il mediatur extragiudizial suttascrivan la cunvegna. Sche la mediaziun extragiudiziala na porta nagina enclegientscha, constatescha la mediatura extragiudiziala u il mediatur extragiudizial ch'ella na saja betg reussida.
+
+<sup>4</sup> La mediatura extragiudiziala u il mediatur extragiudizial orientescha la Procura per giuvenils davart la terminaziun da la procedura. Sin dumonda vegn la Procura per giuvenils orientada da tut temp davart il stadi da la mediaziun extragiudiziala. La Procura per giuvenils mantegna la direcziun da la procedura er durant la procedura da mediaziun extragiudiziala. Ella procura per l'execuziun da la cunvegna da mediaziun extragiudiziala.
+
+### 2.2. Polizia giudiziala
 
 #### Art. 17
 
@@ -272,7 +277,7 @@ Las procuraturas publicas ed ils procuraturs publics èn en spezial cumpetents p
 
 <sup>4</sup> L'organisaziun da la polizia giudiziala sco er la subordinaziun administrativa e disciplinara sa drizzan tenor la legislaziun da polizia.
 
-- 3\. AUTORITADS ADMINISTRATIVAS
+### 2.3. autoritads administrativas
 
 #### Art. 18
 
@@ -282,37 +287,30 @@ Las procuraturas publicas ed ils procuraturs publics èn en spezial cumpetents p
 
 <sup>2</sup> Per decisiuns posteriuras è cumpetenta la procura publica.
 
-### III. Cumpetenza materiala da las dretgiras penalas
+## 3. Cumpetenza materiala da las dretgiras penalas
 
 #### Art. 19
 
 **Dretgira d'emprima instanza**
 
-<sup>1</sup> La dretgira districtuala è la dretgira d'emprima instanza.
+<sup>1</sup> La dretgira regiunala è la dretgira penala d'emprima instanza.
 
 <sup>2</sup> Ella decida en in gremi da tschintg:
 
 - a) davart dumondas giuridicas d'impurtanza fundamentala;
-
 - b) sin ordinaziun da la parsura u dal parsura;
-
 - c) sche la procura publica:
+  - 1\. propona in chasti che privescha da la libertad da passa 5 onns;
+  - 2\. propona in internament u ina mesira terapeutica staziunara;
+  - 3\. propona ina privaziun da la libertad da passa 5 onns en cas da sancziuns cundiziunadas ch'èn da revocar a medem temp.
 
-- 1\. propona in chasti che privescha da la libertad da passa 5 onns;
-
-- 2\. propona in internament u ina mesira terapeutica staziunara;
-
-- 3\. propona ina privaziun da la libertad da passa 5 onns en cas da
-
-sancziuns cundiziunadas ch'èn da revocar a medem temp.
-
-<sup>3</sup> En ils ulteriurs cas decida la dretgira districtuala en ina cumposiziun da trais.
+<sup>3</sup> En ils ulteriurs cas decida la dretgira regiunala en ina cumposiziun da trais.
 
 #### Art. 20
 
 **Dretgira per giuvenils**
 
-La dretgira districtuala è la dretgira per giuvenils.
+<sup>1</sup> La dretgira regiunala è la dretgira per giuvenils.
 
 #### Art. 21
 
@@ -326,21 +324,17 @@ La dretgira districtuala è la dretgira per giuvenils.
 
 **Dretgira d'appellaziun ed instanza da recurs**
 
-La dretgira chantunala è la dretgira d'appellaziun e l'instanza da recurs en chaussas penalas ed en chaussas penalas da giuvenils.
+<sup>1</sup> La dretgira chantunala è la dretgira d'appellaziun e l'instanza da recurs en chaussas penalas ed en chaussas penalas da giuvenils.
 
-**7**
+## 4. Disposiziuns cumplementaras
 
-1-1-2013
-
-### IV. Disposiziuns cumplementaras
-
-- 1\. ASSISTENZA GIUDIZIALA
+### 4.1. Assistenza giudiziala
 
 #### Art. 23
 
 **Assistenza giudiziala intrachantunala**
 
-Las autoritads penalas chantunalas prestan assistenza giudiziala vicendaivla.
+<sup>1</sup> Las autoritads penalas chantunalas prestan assistenza giudiziala vicendaivla.
 
 #### Art. 24
 
@@ -358,7 +352,7 @@ Las autoritads penalas chantunalas prestan assistenza giudiziala vicendaivla.
 
 <sup>2</sup> Ella ceda la persecuziun penala ad in stadi ester u fa ina dumonda correspundenta.
 
-- 2\. DRETGS ED OBLIGAZIUNS DA PARTICIPAZIUN DA LAS AUTORITADS
+### 4.2. Dretgs ed obligaziuns da participaziun da las autoritads
 
 #### Art. 26
 
@@ -370,14 +364,13 @@ Las autoritads penalas chantunalas prestan assistenza giudiziala vicendaivla.
 
 <sup>3</sup> Ellas ed els han l'obligaziun d'annunziar in cas, sche quai vegn prescrit d'ina lescha.
 
-[^26-1]: CS 312.0
-[^26-2]: versiun tenor l'art. 163 al. 1 da la lescha introductiva tar il cudesch civil svizzer, DG 210.100; entrà en vigur il 1. da schaner 2013 8 1-1-2013
+[^26-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
 
 #### Art. 27
 
-**Dretg da las autoritads da purtar plant**[^26-2]
+**Dretg da las autoritads da purtar plant**
 
-Il dretg da purtar plant penal pervia da la negligientscha d'obligaziuns da mantegniment han er las assistentas ed ils assistents sco er las autoritads da protecziun da l'uffant e da creschids u las autoritads d'agid social che han la responsabladad per l'assistenza da la persuna cun dretg da mantegniment.
+<sup>1</sup> Il dretg da purtar plant penal pervia da la negligientscha d'obligaziuns da mantegniment han er las assistentas ed ils assistents sco er las autoritads da protecziun da l'uffant e da creschids u las autoritads d'agid social che han la responsabladad per l'assistenza da la persuna cun dretg da mantegniment.
 
 #### Art. 28
 
@@ -389,6 +382,16 @@ Il dretg da purtar plant penal pervia da la negligientscha d'obligaziuns da mant
 
 <sup>3</sup> L'uffizi ch'è cumpetent per l'execuziun da chastis e da mesiras po represchentar sez davant dretgira sias dumondas per decisiuns posteriuras.
 
+#### Art. 28a
+
+**Communicaziun da proceduras penalas e da decisiuns penalas ad autras autoritads**
+
+<sup>1</sup> Las autoritads penalas infurmeschan autras autoritads davart proceduras penalas e davart decisiuns che mainan a fin questas proceduras, uschenavant che quellas èn dependentas da l'infurmaziun per ademplir lur incumbensas legalas e sche l'interess public vi da l'infurmaziun predominescha envers ils dretgs persunals da las persunas pertutgadas.
+
+<sup>1<sup>bis</sup></sup> Persunas privatas dastgan vegnir infurmadas davart proceduras penalas e davart decisiuns che mainan a fin las proceduras, uschenavant ch'ellas èn dependentas da l'infurmaziun per ademplir l'incumbensa publica attribuida ad ellas ed uschenavant che l'interess vi da l'infurmaziun predominescha envers ils dretgs persunals da la persuna pertutgada.
+
+<sup>2</sup> Dretgs d'infurmaziun ed obligaziuns d'annunzia tenor disposiziuns spezialas restan resalvads.
+
 #### Art. 29
 
 **Annunzia da proceduras penalas e da sentenzias a las autoritads**
@@ -398,14 +401,13 @@ Il dretg da purtar plant penal pervia da la negligientscha d'obligaziuns da mant
 <sup>2</sup> L'annunzia davart ina procedura penala pendenta è admissibla mo, sche:
 
 - a) l'autoritad dovra questa infurmaziun per ademplir ina incumbensa legala; u
-
 - b) ins sto far quint cun ina periclitaziun directa.
 
 <sup>3</sup> La regenza regla ils detagls en in'ordinaziun[^29-1].
 
-- 3\. DISPOSIZIUNS SPEZIALAS
+[^29-1]: DG [350.110](https://www.gr-lex.gr.ch/data/350.110/rm)
 
-[^29-1]: DG 350.110 1-1-2013 9
+### 4.3. Disposiziuns spezialas
 
 #### Art. 30
 
@@ -419,21 +421,19 @@ Il dretg da purtar plant penal pervia da la negligientscha d'obligaziuns da mant
 
 **Excepziuns da l'obligaziun d'advocata u d'advocat**
 
-L'assistenza giuridica tras ina persuna ch'è abla d'agir, che n'è betg inscritta en il register da las advocatas e dals advocats u che giauda la libra circulaziun tenor la LLCA[^31-1] è pussaivla en il cas singul cun l'approvaziun da la persuna che maina la procedura:
+<sup>1</sup> L'assistenza giuridica tras ina persuna ch'è abla d'agir, che n'è betg inscritta en il register da las advocatas e dals advocats u che giauda la libra circulaziun tenor la LLCA[^31-1] è pussaivla en il cas singul cun l'approvaziun da la persuna che maina la procedura:
 
 - a) per defender la persuna inculpada en la procedura penala da surpassaments;
-
 - b) per ina represchentanza betg professiunala da las accusadras privatas e dals accusaders privats;
-
 - c) per sustegnair autras persunas ch'èn participadas a la procedura.
 
-[^31-1]: CS 935.61
+[^31-1]: CS [935.61](https://db.clex.ch/link/Bund/935.61/rm)
 
 #### Art. 32
 
 **Remuneraziuns**
 
-Sin proposta da la procura publica po il departament ch'è cumpetent per la giustia offrir ina remuneraziun a persunas privatas che coopereschan cun success a l'investigaziun.
+<sup>1</sup> Sin proposta da la procura publica po il departament ch'è cumpetent per la giustia offrir ina remuneraziun a persunas privatas che coopereschan cun success a l'investigaziun.
 
 #### Art. 33
 
@@ -451,20 +451,17 @@ Sin proposta da la procura publica po il departament ch'è cumpetent per la gius
 
 <sup>1</sup> Sco expertas ed experts uffizials u nominads permanentamain en il senn dal cudesch da procedura penala[^34-1] valan en spezial:
 
-- a) las medias districtualas ed ils medis districtuals;
-
+- a) las medias uffizialas ed ils medis uffizials;
 - b) il servetsch forensic dals servetschs psichiatrics dal Grischun;
-
 - c) l'institut da la medischina legala che vegn designà da la regenza;
-
 - d) las instituziuns per la psichiatria d'uffants e da giuvenils respectivamain per la protecziun da l'uffant ch'èn renconuschidas da la regenza.
 
 <sup>2</sup> La regenza po designar ulteriuras expertas ed ulteriurs experts uffizials u nominads permanentamain. Ella regla ils secturs spezials respectivs en in'ordinaziun[^34-2].
 
 <sup>3</sup> Uschenavant ch'il dretg federal prevesa ch'ina media u in medi fetschia ina perquisiziun u ina controlla da persunas, pon las autoritads penalas clamar tut las medias e tut ils medis ch'èn activs en il chantun.
 
-[^34-1]: CS 312.0
-[^34-2]: DG 350.110 10 1-1-2013
+[^34-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+[^34-2]: DG [350.110](https://www.gr-lex.gr.ch/data/350.110/rm)
 
 #### Art. 35
 
@@ -472,9 +469,9 @@ Sin proposta da la procura publica po il departament ch'è cumpetent per la gius
 
 <sup>1</sup> L'autoritad ch'è cumpetenta en chaussa ordinescha la publicaziun uffiziala.
 
-<sup>2</sup> La publicaziun sa drizza tenor las disposiziuns davart il fegl uffizial dal chantun[^35-1].
+<sup>2</sup> La publicaziun sa drizza tenor las disposiziuns davart il fegl uffizial dal chantun Grischun[^35-1].
 
-[^35-1]: DG 180.500
+[^35-1]: DG [180.500](https://www.gr-lex.gr.ch/data/180.500/rm)
 
 #### Art. 36
 
@@ -488,7 +485,7 @@ Sin proposta da la procura publica po il departament ch'è cumpetent per la gius
 
 <sup>4</sup> Cunter decisiuns davart l'invista da las actas poi vegnir fatg recurs en scrit entaifer 30 dis tar l'autoritad da surveglianza.
 
-- 4\. CUSTS DA PROCEDURA E CONTABILITAD
+### 4.4. custs da procedura e contabilitad
 
 #### Art. 37
 
@@ -503,13 +500,12 @@ Sin proposta da la procura publica po il departament ch'è cumpetent per la gius
 <sup>4</sup> L'autezza da la taxa vegn reglada en in'ordinaziun:
 
 - a) da la regenza per proceduras davant autoritads administrativas e da la procura publica[^37-3];
-
 - b) da la dretgira chantunala per proceduras giudizialas[^37-4].
 
-[^37-1]: CS 312.0
-[^37-2]: CS 312.1
-[^37-3]: DG 350.110
-[^37-4]: DG 350.210 1-1-2013 11
+[^37-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+[^37-2]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
+[^37-3]: DG [350.110](https://www.gr-lex.gr.ch/data/350.110/rm)
+[^37-4]: DG [350.210](https://www.gr-lex.gr.ch/data/350.210/rm)
 
 #### Art. 38
 
@@ -533,7 +529,7 @@ Sin proposta da la procura publica po il departament ch'è cumpetent per la gius
 
 **Utilisaziun dals chastis pecuniars e da las multas**
 
-L'utilisaziun dals chastis pecuniars e da las multas sa drizza tenor las disposiziuns davart l'organisaziun e davart l'execuziun giudiziala.
+<sup>1</sup> L'utilisaziun dals chastis pecuniars e da las multas sa drizza tenor las disposiziuns davart l'organisaziun e davart l'execuziun giudiziala.
 
 #### Art. 41
 
@@ -543,13 +539,13 @@ L'utilisaziun dals chastis pecuniars e da las multas sa drizza tenor las disposi
 
 <sup>2</sup> L'indemnisaziun da perditgas importa maximalmain 500 francs per di per la perdita da gudogn. Las spesas vegnan indemnisadas maximalmain per las tariffas che valan per las emploiadas e per ils emploiads dal chantun. La regenza regla ils detagls en in'ordinaziun[^41-3].
 
-[^41-1]: CS 312.0
-[^41-2]: DG 310.100 e DG 310.250
-[^41-3]: DG 350.110 12 1-1-2013
+[^41-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+[^41-2]: DG [310.100](https://www.gr-lex.gr.ch/data/310.100/rm) e DG [310.250](https://www.gr-lex.gr.ch/data/310.250/rm)
+[^41-3]: DG [350.110](https://www.gr-lex.gr.ch/data/350.110/rm)
 
-### V. Proceduras penalas davant autoritads administrativas
+## 5. Proceduras penalas davant autoritads administrativas
 
-- 1\. DISPOSIZIUNS GENERALAS
+### 5.1. disposiziuns generalas
 
 #### Art. 42
 
@@ -559,7 +555,7 @@ L'utilisaziun dals chastis pecuniars e da las multas sa drizza tenor las disposi
 
 <sup>2</sup> La procedura sa drizza tenor il cudesch da procedura penala[^42-1] e tenor questa lescha. Resalvadas restan prescripziuns da procedura spezialas.
 
-[^42-1]: CS 312.0
+[^42-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
 
 #### Art. 43
 
@@ -568,13 +564,11 @@ L'utilisaziun dals chastis pecuniars e da las multas sa drizza tenor las disposi
 <sup>1</sup> La polizia chantunala ha l'incumbensa da:
 
 - a) cooperar sco persuna d'uffizi chantunala tar perquisiziuns da chasas tenor il dretg penal administrativ federal[^43-1];
-
 - b) prender las emprimas mesiras tar accidents da sgol.
 
-<sup>2</sup> Las incumbensas da la polizia chantunala en il sectur da la procedura federala da multas disciplinaras sa drizzan tenor la legislaziun chantunala davart il traffic sin via[^43-2].
+<sup>2</sup> …
 
-[^43-1]: CS 313.0
-[^43-2]: DG 870.100 ed 870.110
+[^43-1]: CS [313.0](https://db.clex.ch/link/Bund/313.0/rm)
 
 #### Art. 44
 
@@ -586,9 +580,29 @@ L'utilisaziun dals chastis pecuniars e da las multas sa drizza tenor las disposi
 
 <sup>3</sup> En il rom da la persecuziun e dal giudicament da surpassaments dal dretg federal è la vischnanca cumpetenta mo per la procedura da multas disciplinaras.
 
-- 2\. PROCEDURA DA MULTAS DISCIPLINARAS TENOR IL DRETG CHANTUNAL
+[^44-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
-[^44-1]: DG 370.100 1-1-2013 13
+### 5.1.a Procedura da multas disciplinaras tenor il dretg federal
+
+#### Art. 44a
+
+**Cumpetenzas**
+
+<sup>1</sup> La regenza designescha ils posts chantunals d'administraziun ch'èn cumpetents per incassar multas disciplinaras tenor la legislaziun federala davart las multas disciplinaras[^44a-1].
+
+<sup>2</sup> La polizia chantunala è cumpetenta per incassar multas disciplinaras tenor la legislaziun federala davart las multas disciplinaras, uschenavant ch'i na dat naginas autras cumpetenzas sin basa da leschas spezialas.
+
+<sup>3</sup> Las vischnancas èn cumpetentas per incassar multas disciplinaras tenor la legislaziun federala davart las multas disciplinaras, sch'ina lescha prevesa quai explicitamain.
+
+[^44a-1]: CS [741.03](https://db.clex.ch/link/Bund/741.03/rm); [741.031](https://db.clex.ch/link/Bund/741.031/rm)
+
+#### Art. 44b
+
+**Procedura ordinaria**
+
+<sup>1</sup> La procedura penala ordinaria vegn realisada da l'autoritad chantunala ch'è cumpetenta en chaussa.
+
+### 5.2. Procedura da multas disciplinaras tenor il dretg chantunal
 
 #### Art. 45
 
@@ -607,24 +621,20 @@ L'utilisaziun dals chastis pecuniars e da las multas sa drizza tenor las disposi
 <sup>1</sup> La procedura da multas disciplinaras è exclusa:
 
 - a) en cas da cuntravenziuns, nua che persunas èn vegnidas periclitadas u violadas u nua ch'igl è vegnì chaschunà in donn material;
-
 - b) en cas da cuntravenziuns che n'èn betg vegnidas observadas u constatadas d'in organ da polizia autorisà u da l'autoritad administrativa cumpetenta sezza;
-
 - c) en cas da cuntravenziuns da giuvenils che n'han betg anc cumplenì 15 onns;
-
 - d) sch'i vegn ultra da quai reproschà a la delinquenta u al delinquent ina cuntravenziun che na figurescha betg sin la glista da multas;
-
 - e) sche la delinquenta u il delinquent refusa la procedura da multas disciplinaras.
 
 <sup>2</sup> Sch'ina persuna ademplescha cun ina u cun pliras cuntravenziuns plirs causals da multas disciplinaras, vegnan las multas quintadas ensemen ed i vegn imponida ina multa totala.
 
-<sup>3</sup> Sche la persuna refusa in da plirs surpassaments che la vegnan reproschads u sche la multa totala surpassa 1 000 francs, vegnan tut ils surpassaments giuditgads en la procedura ordinaria.
+<sup>3</sup> Sche la persuna refusa in da plirs surpassaments che la vegnan reproschads u sche la multa totala surpassa 1000 francs, vegnan tut ils surpassaments giuditgads en la procedura ordinaria.
 
 #### Art. 47
 
 **Glista da multas ed organs cumpetents**
 
-La regenza regla ils detagls en in'ordinaziun. Ella fa en emprima lingia la glista dals surpassaments che pon vegnir chastiads cun multas disciplinaras, fixescha l'import da las multas e designescha ils organs da polizia u da surveglianza ubain las autoritads administrativas che han il dretg d'incassar multas disciplinaras.
+<sup>1</sup> La regenza regla ils detagls en in'ordinaziun. Ella fa en emprima lingia la glista dals surpassaments che pon vegnir chastiads cun multas disciplinaras, fixescha l'import da las multas e designescha ils organs da polizia u da surveglianza ubain las autoritads administrativas che han il dretg d'incassar multas disciplinaras.
 
 #### Art. 48
 
@@ -636,10 +646,6 @@ La regenza regla ils detagls en in'ordinaziun. Ella fa en emprima lingia la glis
 
 <sup>3</sup> Sche la multa na vegn betg pajada entaifer il termin, vegn introducida la procedura ordinaria.
 
-**14**
-
-1-1-2013
-
 #### Art. 49
 
 **Multa disciplinara e procedura ordinaria**
@@ -648,7 +654,7 @@ La regenza regla ils detagls en in'ordinaziun. Ella fa en emprima lingia la glis
 
 <sup>2</sup> Sch'ina autoritad penala constatescha – sin incitaziun d'ina persuna pertutgada dal delict ubain da la delinquenta u dal delinquent – che l'artitgel 46 da questa lescha n'è betg vegnì resguardà, annullescha ella la multa disciplinara ed applitgescha la procedura ordinaria.
 
-### VI. Grazia
+## 6. Grazia
 
 #### Art. 50
 
@@ -659,7 +665,6 @@ La regenza regla ils detagls en in'ordinaziun. Ella fa en emprima lingia la glis
 <sup>2</sup> Davart dumondas da grazia decida definitivamain:
 
 - a) il cussegl grond en cas da chastis che priveschan da la libertad da passa 2 onns;
-
 - b) la regenza en ils ulteriurs cas.
 
 #### Art. 51
@@ -676,13 +681,9 @@ La regenza regla ils detagls en in'ordinaziun. Ella fa en emprima lingia la glis
 
 **Custs**
 
-Per adossar e per calcular ils custs vegnan applitgadas confurm al senn las disposiziuns da la legislaziun davart la giurisdicziun administrativa.
+<sup>1</sup> Per adossar e per calcular ils custs vegnan applitgadas confurm al senn las disposiziuns da la legislaziun davart la giurisdicziun administrativa.
 
-**15**
-
-1-1-2013
-
-### VII. Disposiziuns finalas
+## 7. Disposiziuns finalas
 
 #### Art. 53
 
@@ -691,15 +692,14 @@ Per adossar e per calcular ils custs vegnan applitgadas confurm al senn las disp
 <sup>1</sup> Cun l'entrada en vigur da questa lescha vegnan abolids ils suandants relaschs:
 
 - a) lescha davart la procedura penala dals 8 da zercladur 1958[^53-1];
-
 - b) participaziun dals 9 da zercladur 1996 al concordat davart l'assistenza giudiziala e la collavuraziun interchantunala en chaussas penalas dals 5 da november 1992[^53-2].
 
-<sup>2</sup> Sche relaschs vertents renvieschan a disposiziuns che vegnan abolidas tras questa lescha, vegnan applitgadas las disposiziuns correspundentas dal cudesch da procedura penala[^53-3] respectivamain da la procedura penala per giuvenils sco er da questa lescha[^53-4].
+<sup>2</sup> Sche relaschs vertents renvieschan a disposiziuns che vegnan abolidas tras questa lescha, vegnan applitgadas las disposiziuns correspundentas dal cudesch da procedura penala[^53-3] respectivamain da la procedura penala per giuvenils[^53-4] sco er da questa lescha.
 
-[^53-1]: CUL 1958, 141; DG 350.000
-[^53-2]: CUL 1996, 3627; DG 350.035
-[^53-3]: CS 312.0
-[^53-4]: CS 312.1
+[^53-1]: CUL 1958, 141; DG [350.000](https://www.gr-lex.gr.ch/data/350.000/rm)
+[^53-2]: CUL 1996, 3627; DG [350.035](https://www.gr-lex.gr.ch/data/350.035/rm)
+[^53-3]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+[^53-4]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
 
 #### Art. 54
 
@@ -707,17 +707,19 @@ Per adossar e per calcular ils custs vegnan applitgadas confurm al senn las disp
 
 <sup>1</sup> La midada da leschas vegn reglada en l'agiunta[^54-1].
 
-<sup>2</sup> Sche ordinaziuns dal cussegl grond na correspundan betg a las directivas da l'artitgel 32 alinea 1 da la constituziun chantunala[^54-2] e cuntrafan a las disposiziuns dal cudesch da procedura penala[^54-3] u a sia realisaziun en quequesta lescha, las po il cussegl grond adattar a quests relaschs tras in'ordinaziun.
+<sup>2</sup> Sche ordinaziuns dal cussegl grond na correspundan betg a las directivas da l'artitgel 32 alinea 1 da la constituziun chantunala[^54-2] e cuntrafan a las disposiziuns dal cudesch da procedura penala[^54-3] u a sia realisaziun en questa lescha, las po il cussegl grond adattar a quests relaschs tras in'ordinaziun.
 
-[^54-1]: l'agiunta n'è betg cuntegnida en il DG, vesair FUC 2010, 2431 ss.
-[^54-2]: DG 110.100
-[^54-3]: CS 312.0
+[^54-1]: L'agiunta n'è betg cuntegnida en il DG. Vesair FUC 2010, 2431 ss.
+[^54-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^54-3]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
 
 #### Art. 55
 
 **Dretg transitoric**
 
-Cuntravenziuns cunter disposiziuns penalas da la lescha davart la procedura penala dals 8 da zercladur 1958 ch'èn vegnidas commessas avant l'entrada en vigur da la lescha qua avant maun e che n'èn anc betg vegnidas giuditgadas d'ina dretgira vegnan giuditgadas tenor las disposiziuns da l'agiunta tar la lescha qua avant maun.
+<sup>1</sup> Cuntravenziuns cunter disposiziuns penalas da la lescha davart la procedura penala dals 8 da zercladur 1958[^55-1] ch'èn vegnidas commessas avant l'entrada en vigur da la lescha qua avant maun e che n'èn anc betg vegnidas giuditgadas d'ina dretgira vegnan giuditgadas tenor las disposiziuns da l'agiunta tar la lescha qua avant maun.
+
+[^55-1]: CUL 1958, 141; DG [350.000](https://www.gr-lex.gr.ch/data/350.000/rm)
 
 #### Art. 56
 
@@ -727,5 +729,7 @@ Cuntravenziuns cunter disposiziuns penalas da la lescha davart la procedura pena
 
 <sup>2</sup> La regenza fixescha il termin da l'entrada en vigur[^56-2].
 
-[^56-1]: il termin da referendum è scadì ils 29 da settember 2009, entaifer quest termin n'èn vegnids inoltrads nagins referendums
-[^56-2]: mess en vigur cun CR dals 21 da december 2010 per il 1. da schaner 2011 16 1-1-2013
+[^56-1]: Il termin da referendum è scadì ils 29 da settember 2009. Entaifer quest termin n'èn vegnids inoltrads nagins referendums.
+[^56-2]: mess en vigur cun CR dals 21 da december 2010 per il 1. da schaner 2011
+
+-
