@@ -3,20 +3,20 @@ canton: OW
 number: "641.426"
 title: Ausführungsbestimmungen über die elektronische Einreichung der Steuererklärung
 language: de
-version: 2018-01-01
-valid_until: 2021-12-31
-version_adopted: 2017-12-05
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-30
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.426"
-pdf: "http://gdb.ow.ch/api/de/versions/1254/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die elektronische Einreichung der Steuererklärung
 
-vom 05.12.2017 (Stand 01.01.2018)
+vom 05.12.2017 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Obwalden
 
@@ -55,6 +55,8 @@ beschliesst:
 
 <sup>3</sup> Die Bestimmungen über die verspätete Einreichung und die Fristerstreckung für die per Post eingereichte Steuererklärung gelten auch für die elektronisch abgegebene Steuererklärung.
 
+<sup>4</sup> Sofern von der Möglichkeit einer Freigabequittung Gebrauch gemacht wird, so gilt der Empfang der unterzeichneten Freigabequittung durch die Steuerverwaltung als Einreichedatum. Die Steuerverwaltung hat auf die Steuererklärung erst dann Zugriff, wenn die entsprechende Freigabequittung bei ihr eingetroffen ist.
+
 #### Art. 4
 
 **Übermittlung und Übermittlungsquittung**
@@ -76,5 +78,15 @@ beschliesst:
 <sup>1</sup> Die von den Steuerpflichtigen übermittelten Daten werden während 72 Stunden nach der ersten elektronischen Übermittlung (Korrekturfrist) verschlüsselt auf einem kantonalen Server aufbewahrt.
 
 <sup>2</sup> Nach Ablauf dieser Frist werden die Daten entschlüsselt und an die Steuerverwaltung weitergeleitet.
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 2017, 60
+
+Ursprüngliches Inkrafttreten: 1. Januar 2018
+
+Geändert durch:
+
+\- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 49)
 
 OGS 2017, 60
