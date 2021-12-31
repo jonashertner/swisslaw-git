@@ -3,11 +3,11 @@ sr: "0.360.214.1"
 title: Abkommen vom 26. Januar 2018 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Bulgarien über die polizeiliche Zusammenarbeit bei der Bekämpfung der Kriminalität
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/709"
 language: de
-version: 2019-11-08
+version: 2022-01-01
 adopted: 2018-01-26
 in_force: 2019-11-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/709/20191108/de/xml/fedlex-data-admin-ch-eli-cc-2019-709-20191108-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/709/20191108/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/709/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-709-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/709/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 21. Juni 2019[^t-1]
 
 In Kraft getreten durch Notenaustausch am 8. November 2019
 
-(Stand am 8. November 2019)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 2019 3921](https://fedlex.data.admin.ch/eli/oc/2019/708)
 
@@ -70,7 +70,7 @@ Die Umsetzung dieses Abkommens nach innerstaatlichem Recht liegt jeweils in der 
 
   - – das Bundesamt für Polizei,
   - – die kantonalen Polizeikorps,
-  - – die Eidgenössische Zollverwaltung, vertreten durch
+  - – die Eidgenössische Zollverwaltung[^2-1], vertreten durch
   - – das Grenzwachtkorps und die Zollfahndung;
 
 - –
@@ -84,6 +84,8 @@ Die Umsetzung dieses Abkommens nach innerstaatlichem Recht liegt jeweils in der 
   - – die Zollbehörde und deren Kontaktstelle, die dem Zentralsitz der Zollbehörde angegliederte Direktion Zollinformations- und Zollermittlungsdienst.
 
 <sup>3.</sup> Die Vertragsparteien unterrichten einander unverzüglich mit diplomatischer Note über jegliche Änderungen hinsichtlich der in den Absätzen 1 und 2 dieses Artikels aufgeführten zuständigen Behörden und verantwortlichen Dienststellen.
+
+[^2-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 

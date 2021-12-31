@@ -3,11 +3,11 @@ sr: "0.360.214.1"
 title: Accordo del 26 gennaio 2018 tra il Consiglio federale svizzero e il Governo della Repubblica di Bulgaria sulla cooperazione di polizia nella lotta contro la criminalità
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/709"
 language: it
-version: 2019-11-08
+version: 2022-01-01
 adopted: 2018-01-26
 in_force: 2019-11-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/709/20191108/it/xml/fedlex-data-admin-ch-eli-cc-2019-709-20191108-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/709/20191108/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/709/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-709-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/709/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2019** 3923; FF **2018** 3999
 
 Traduzione
 
-Concluso il 26 gennaio 2018
+Concluso il 26 gennaio 2018 Approvato dall’Assemblea federale il 21 giugno 2019[^t-1] Entrato in vigore mediante scambio di note l’8 novembre 2019
 
-Approvato dall’Assemblea federale il 21 giugno 2019[^t-1]
-
-Entrato in vigore mediante scambio di note l’8 novembre 2019
-
-(Stato 8 novembre 2019)
+(Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2019 3921](https://fedlex.data.admin.ch/eli/oc/2019/708)
 
@@ -70,7 +66,7 @@ L’attuazione del presente Accordo conformemente al rispettivo diritto nazional
 
   - – l’Ufficio federale di polizia,
   - – i corpi cantonali di polizia,
-  - – l’Amministrazione federale delle dogane, rappresentata
+  - – l’Amministrazione federale delle dogane[^2-1], rappresentata
   - – dal Corpo delle guardie di confine e dalla Sezione antifrode doganale;
 
 - –
@@ -84,6 +80,8 @@ L’attuazione del presente Accordo conformemente al rispettivo diritto nazional
   - – l’Agenzia nazionale delle dogane e il suo punto di contatto, la Direzione dei servizi di intelligence e investigazione doganale collocata in seno alla sede centrale dell’Agenzia.
 
 <sup>3.</sup> Ciascuna Parte contraente comunica senza indugio all’altra Parte contraente, mediante nota diplomatica, ogni modifica concernente le autorità e i servizi esecutivi competenti menzionati nei paragrafi 1 e 2 del presente articolo.
+
+[^2-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 

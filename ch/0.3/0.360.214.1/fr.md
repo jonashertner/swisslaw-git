@@ -3,11 +3,11 @@ sr: "0.360.214.1"
 title: Accord du 26 janvier 2018 entre le Conseil fédéral suisse et le Gouvernement de la République de Bulgarie sur la coopération policière en matière de lutte contre la criminalité
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/709"
 language: fr
-version: 2019-11-08
+version: 2022-01-01
 adopted: 2018-01-26
 in_force: 2019-11-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/709/20191108/fr/xml/fedlex-data-admin-ch-eli-cc-2019-709-20191108-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/709/20191108/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/709/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-709-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/709/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,13 +18,9 @@ RO **2019** 3923; FF **2018** 4785
 
 Traduction
 
-Conclu le 26 janvier 2018
+Conclu le 26 janvier 2018 Approuvé par l’Assemblée fédérale le 21 juin 2019[^t-1] Entré en vigueur par échange de notes le 8 novembre 2019
 
-Approuvé par l’Assemblée fédérale le 21 juin 2019[^t-1]
-
-Entré en vigueur par échange de notes le 8 novembre 2019
-
-(Etat le 8 novembre 2019)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: [RO 2019 3921](https://fedlex.data.admin.ch/eli/oc/2019/708)
 
@@ -68,7 +64,7 @@ La mise en œuvre du présent Accord conformément au droit interne de chaque Pa
 
   - – l’Office fédéral de la police,
   - – les corps de police cantonaux,
-  - – l’Administration fédérale des douanes, représentée par
+  - – l’Administration fédérale des douanes[^2-1], représentée par
   - – le Corps des gardes-frontière et l’Office central antifraude douanière;
 
 - –
@@ -82,6 +78,8 @@ La mise en œuvre du présent Accord conformément au droit interne de chaque Pa
   - – l’Agence des douanes, avec pour point de contact la Direction du renseignement et des enquêtes douanières, rattachée au Siège central de l’Agence des douanes.
 
 <sup>3.</sup> Les Parties s’informent sans délai mutuellement par note diplomatique de tout changement concernant les autorités et services compétents listés aux par. 1 et 2 du présent article.
+
+[^2-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -363,4 +361,4 @@ Le présent Accord n’affecte pas les droits et obligations des Parties découl
 
 <sup>2.</sup> Le présent Accord est conclu pour une durée indéterminée. Chacune des Parties peut le dénoncer, moyennant notification écrite. Sa validité expire six mois après réception de la dénonciation par l’autre Partie.
 
-Fait à Sofia, le 26 janvier 2018, en double exemplaire en langues allemande, bulgare et anglaise, les trois textes faisant également foi. En cas d’incertitude quant à l’interprétation des dispositions du présent Accord, c’est le texte anglais qui prévaut.
+Fait à Sofia, le 26 janvier 2018, en double exemplaire en langues allemande, bulgare et anglaise, les trois textes faisant également foi. En cas d’incertitude quant à l’interprétation des dispositions du présent Accord, c’est le texte anglais qui prévaut. Pour le Conseil fédéral suisse: Simonetta Sommaruga Pour le Governement de la République de Bulgarie: Valentin Radev
