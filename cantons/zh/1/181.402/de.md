@@ -3,11 +3,11 @@ canton: ZH
 number: "181.402"
 title: Verordnung über das Pfarramt in der Landeskirche
 language: de
-version: "2019-07-01"
-nachtrag: "105"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "116"
+valid_until: 2023-10-01
 adopted: 2014-09-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_402-2014_09_03-2015_01_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_402-2014_09_03-2015_01_01-116.html"
 text: pdf
 ---
 
@@ -70,7 +70,7 @@ Diese Verordnung regelt in Ergänzung zur Kirchenordnung, zur Personalverordnung
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Ist eine Wahl auf Amtsdauer nicht möglich, so werden Pfarrerinnen und Pfarrer als Stellvertreterin oder Stellvertreter gemäss Art. 121 Abs. 1 KO angestellt.
 
@@ -156,7 +156,7 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 **3**
 
-- 1\. 7. 19 - 105 § 15.[^14-1] <sup>1</sup> Der Pfarrwahlkommission obliegen insbesondere:
+- 1\. 1. 22 - 115 § 15.[^14-1] <sup>1</sup> Der Pfarrwahlkommission obliegen insbesondere:
 
 **e. Auftrag**
 
@@ -182,7 +182,7 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 **f. Dauer**
 
-<sup>1</sup> Die Pfarrwahlkommission bleibt im Amt, bis die Installation der neuen Pfarrerin oder des neuen Pfarrer gemäss Art. 110 KO erfolgt ist.
+<sup>1</sup> Die Pfarrwahlkommission bleibt im Amt, bis die Installation der neuen Pfarrerin oder des neuen Pfarrers gemäss Art. 110 KO erfolgt ist.
 
 <sup>2</sup> Werden vorher weitere Stellenprozente frei, so kann die Kirchgemeindeversammlung oder das Kirchgemeindeparlament die bestehende Pfarrwahlkommission mit der Vorbereitung eines Wahlvorschlags auch für diese Stellenprozente beauftragen oder eine neue Pfarrwahlkommission bestellen.[^16-1]
 
@@ -229,7 +229,7 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 **5**
 
-- 1\. 7. 19 - 105 § 21. <sup>1</sup> Die Kirchenpflege teilt der gewählten Person die Wahl unverzüglich schriftlich mit. Sie weist sie auf die Wahlannahme gemäss Abs. 2 und die Rechtsmittel hin.
+- 1\. 1. 22 - 115 § 21. <sup>1</sup> Die Kirchenpflege teilt der gewählten Person die Wahl unverzüglich schriftlich mit. Sie weist sie auf die Wahlannahme gemäss Abs. 2 und die Rechtsmittel hin.
 
 **g. Wahlannahme19**
 
@@ -304,7 +304,7 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 **7**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Pfarrerinnen und Pfarrer, welche die Kirchenpflege gemäss § 24 c Abs. 1 nicht zur Bestätigung vorschlägt, werden im Wahlvorschlag mit den von der Kirchenpflege gemäss § 24 a zugeteilten Stellenprozenten aufgeführt.
 
@@ -378,7 +378,7 @@ a.[^26-1] auf Ersuchen der Kirchenpflege bei Vorliegen eines Wahlvorschlags der 
 
 **9**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Auf die Erteilung der Wählbarkeit wird verzichtet bei:
 
@@ -454,11 +454,13 @@ Die Erteilung der Wählbarkeit gemäss Art. 129 Abs. 3 und 131 Abs. 2 KO setzt d
 
 Die ausserordentliche Zulassung zum Pfarramt können Personen beantragen,
 
-- a. die in einer Mitgliedskirche des Schweizerischen Evangelischen Kirchenbundes ordiniert und zum Pfarramt in dieser Kirche zugelassen wurden und über kein Wahlfähigkeitszeugnis gemäss dem Konkordat betreffend die gemeinsame Ausbildung der evangelischreformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst verfügen,
+- a. die in einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz[^31-1] ordiniert und zum Pfarramt in dieser Kirche zugelassen wurden und über kein Wahlfähigkeitszeugnis gemäss dem Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst verfügen,
 
 - b. die, soweit von dieser Kirche vorgesehen, über die Ordination in einer evangelischen Kirche im Ausland verfügen, die Mitglied der Gemeinschaft Evangelischer Kirchen in Europa GEKE oder der Weltgemeinschaft Reformierter Kirchen WRK ist, und zum Pfarramt in dieser Kirche zugelassen wurden,
 
 - c. die anstelle eines Studienabschlusses in Theologie an einer universitären Hochschule über eine theologisch-kirchliche Grundausbildung verfügen, die Grundlage für ergänzende Studienleistungen in Theologie an einer universitären Hochschule bilden kann.
+
+[^31-1]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
 
 #### § 32
 
@@ -474,7 +476,7 @@ Die ausserordentliche Zulassung zum Pfarramt können Personen beantragen,
 
 **11**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 - c. Abgabe einer Einschätzung zuhanden des Kirchenrates hinsichtlich der fachlichen und persönlichen Befähigung der Bewerberinnen und Bewerber zur Führung eines Pfarramts,
 
@@ -496,13 +498,13 @@ Die ausserordentliche Zulassung zum Pfarramt können Personen beantragen,
 
 - b. eine kirchliche Ausbildung, die den Anforderungen des Konkordats betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst[^33-1] entspricht und von diesem als gleichwertig anerkannt ist,
 
-- c. Ordination durch eine Mitgliedskirche des Schweizerischen Evangelischen Kirchenbundes oder durch eine evangelische Kirche im Ausland, die Mitglied der Gemeinschaft Evangelischer Kirchen in Europa GEKE oder der Weltgemeinschaft Reformierter Kirchen WRK ist, soweit von dieser Kirche eine solche vorgesehen ist,
+- c. Ordination durch eine Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz[^33-2] oder durch eine evangelische Kirche im Ausland, die Mitglied der Gemeinschaft Evangelischer Kirchen in Europa GEKE oder der Weltgemeinschaft Reformierter Kirchen WRK ist, soweit von dieser Kirche eine solche vorgesehen ist,
 
 - d. Zulassung zum Pfarramt in einer Kirche gemäss lit. c,
 
 - e. Nachweis der persönlichen und fachlichen Eignung für die Ausübung des Pfarrberufs aufgrund einer Abklärung durch die Stelle gemäss § 32 Abs. 1.
 
-<sup>2</sup> Für Bewerberinnen und Bewerber gemäss § 31 lit. b gelten unter Vorbehalt von § 42 Abs. 3 als zusätzliche Voraussetzungen für die Zulassung zum Kolloquium[^33-2]:
+<sup>2</sup> Für Bewerberinnen und Bewerber gemäss § 31 lit. b gelten unter Vorbehalt von § 42 Abs. 3 als zusätzliche Voraussetzungen für die Zulassung zum Kolloquium[^33-3]:
 
 - a. mindestens zweijährige begleitete Tätigkeit in einer Kirchgemeinde der Landeskirche als Stellvertreterin oder Stellvertreter gemäss Art. 121 Abs. 1 KO,
 
@@ -511,7 +513,8 @@ Die ausserordentliche Zulassung zum Pfarramt können Personen beantragen,
 - c. Vertrautheit mit den schweizerischen Verhältnissen.
 
 [^33-1]: LS 181.41.
-[^33-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^33-2]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+[^33-3]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
 #### § 34
 
@@ -545,13 +548,13 @@ Für Bewerberinnen und Bewerber gemäss § 31 lit. c gelten als Voraussetzungen 
 
 a.[^35-1] ein Handlungsfähigkeitszeugnis sowie ein Privatauszug und ein Sonderprivatauszug aus dem Strafregister, alle nicht älter als drei Monate,
 
-- b. die Bestätigung der Mitgliedschaft in einer evangelischen Kirche, die dem Schweizerischen Evangelischen Kirchenbund, der Gemeinschaft Evangelischer Kirchen in Europa (GEKE) oder der Weltgemeinschaft Reformierter Kirchen (WRK) angehört,
+- b. die Bestätigung der Mitgliedschaft in einer evangelischen Kirche, die der Evangelisch-reformierten Kirche Schweiz[^35-2], der Gemeinschaft Evangelischer Kirchen in Europa (GEKE) oder der Weltgemeinschaft Reformierter Kirchen (WRK) angehört,
 
 - c. von Bewerberinnen und Bewerbern gemäss § 31 lit. a und b die Bestätigung des Studienabschlusses in Theologie an der Universität Basel, Bern oder Zürich oder an einer universitären Hochschule, die Bestätigung über die Zulassung zum Pfarramt in einer Kirche gemäss lit. b und die Ordinationsurkunde,
 
 **13**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 - d. sämtliche Unterlagen, die geeignet sind, die Erfüllung der Zulassungsvoraussetzungen gemäss §§ 33 und 34 zu belegen,
 
@@ -560,6 +563,7 @@ a.[^35-1] ein Handlungsfähigkeitszeugnis sowie ein Privatauszug und ein Sonderp
 - f. eine Darstellung, aus der sich die Beweggründe für die Bewerbung um die Zulassung zum Pfarramt in der Landeskirche ergeben.
 
 [^35-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^35-2]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
 
 #### § 36
 
@@ -593,11 +597,13 @@ a.[^35-1] ein Handlungsfähigkeitszeugnis sowie ein Privatauszug und ein Sonderp
 
 - g. den letztmöglichen Zeitpunkt einer Anmeldung zum Kolloquium.
 
+[^37-1]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+
 #### § 38
 
 **Erlass des Kolloquiums**
 
-<sup>1</sup> Der Kirchenrat kann Bewerberinnen und Bewerbern gemäss § 31 lit. a das Kolloquium erlassen, wenn sie in einer Mitgliedskirche des Schweizerischen Evangelischen Kirchenbunds wenigstens sechs Jahre lang als Pfarrerin oder Pfarrer in einer Kirchgemeinde tätig waren. Vorbehalten bleiben Art. 129 Abs. 3 und 131 Abs. 2 KO.
+<sup>1</sup> Der Kirchenrat kann Bewerberinnen und Bewerbern gemäss § 31 lit. a das Kolloquium erlassen, wenn sie in einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz[^37-1] wenigstens sechs Jahre lang als Pfarrerin oder Pfarrer in einer Kirchgemeinde tätig waren. Vorbehalten bleiben Art. 129 Abs. 3 und 131 Abs. 2 KO.
 
 <sup>2</sup> Der Kirchenrat kann den Erlass des Kolloquiums von der Erfüllung von Auflagen und Bedingungen durch eine Bewerberin oder einen Bewerber abhängig machen, insbesondere eine Beratung oder Begleitung anordnen. Er legt Art, Gegenstand und Dauer einer solchen Beratung oder Begleitung fest.
 
@@ -639,7 +645,7 @@ a.[^35-1] ein Handlungsfähigkeitszeugnis sowie ein Privatauszug und ein Sonderp
 
 **15**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Der Kirchenrat bestimmt rechtzeitig vor dem Kolloquium für jeden Inhalt des Kolloquiums eine Examinatorin oder einen Examinator. Er teilt den Bewerberinnen und Bewerbern die Namen der Examinatorinnen und Examinatoren mindestens vier Wochen vor dem Kolloquium mit.
 
@@ -725,11 +731,13 @@ Das Kolloquium von Bewerberinnen und Bewerbern gemäss § 31 lit. c hat zum Gege
 
 Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquium das Lernvikariat gemäss dem Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst[^hDWirkungendesbes-1] zu bestehen.
 
+[^46-1]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+
 #### § 47
 
 **Ordination**
 
-<sup>1</sup> Bewerberinnen und Bewerber gemäss § 31 lit. a und b, die das Kolloquium bestanden haben und nicht bereits in einer Mitgliedskirche des Schweizerischen Evangelischen Kirchenbundes oder einer evangelischen Kirche im Ausland, die der Gemeinschaft Evangelischer Kirchen in Europa (GEKE) oder der Weltgemeinschaft Reformierter Kirchen (WRK) angehört, ordiniert worden sind, sowie Bewerberinnen und Bewerber gemäss § 31 lit. c, die das Lernvikariat bestanden haben, werden vom Kirchenrat gemäss Art. 108 KO ordiniert.
+<sup>1</sup> Bewerberinnen und Bewerber gemäss § 31 lit. a und b, die das Kolloquium bestanden haben und nicht bereits in einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz[^46-1] oder einer evangelischen Kirche im Ausland, die der Gemeinschaft Evangelischer Kirchen in Europa (GEKE) oder der Weltgemeinschaft Reformierter Kirchen (WRK) angehört, ordiniert worden sind, sowie Bewerberinnen und Bewerber gemäss § 31 lit. c, die das Lernvikariat bestanden haben, werden vom Kirchenrat gemäss Art. 108 KO ordiniert.
 
 <sup>2</sup> Der Kirchenrat bestimmt den Zeitpunkt der Ordination.
 
@@ -741,7 +749,7 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 
 **17**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Wird die Wahlfähigkeit auf besonders umschriebene Pfarrstellen oder Aufgaben und Pflichten gemäss Art. 113 Abs. 1 KO beschränkt, so ist diese Beschränkung als Vorbehalt im Wahlfähigkeitszeugnis genau zu umschreiben.
 
@@ -823,7 +831,7 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 
 **19**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Ausser zur Vermeidung von Härtefällen bei Pfarrerinnen und Pfarrern werden weitere Stellenprozente gemäss Art. 117 Abs. 4 KO nur zugeteilt, wenn eine Kirchgemeinde in einem angemessenen Umfang Eigenleistungen nachweisbar für den geltend gemachten Zweck erbringt und hierfür einen Schwerpunkt im Gemeindeaufbau bildet.
 
@@ -923,7 +931,7 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 
 **21**
 
-- 1\. 7. 19 - 105 § 61.[^h9AbschnittAuftei-1] <sup>1</sup> Die Kirchenpflege kann die Stellenprozente von gewählten Pfarrerinnen und Pfarrern während der laufenden Amtsdauer im Einvernehmen mit diesen und unter Berücksichtigung der Pfarrdienstordnung ändern. Eine solche Änderung erfolgt ohne Entlassung aus dem Amt und erneute Wahl der Pfarrerinnen und Pfarrer.
+- 1\. 1. 22 - 115 § 61.[^h9AbschnittAuftei-1] <sup>1</sup> Die Kirchenpflege kann die Stellenprozente von gewählten Pfarrerinnen und Pfarrern während der laufenden Amtsdauer im Einvernehmen mit diesen und unter Berücksichtigung der Pfarrdienstordnung ändern. Eine solche Änderung erfolgt ohne Entlassung aus dem Amt und erneute Wahl der Pfarrerinnen und Pfarrer.
 
 **b. Änderung**
 
@@ -1000,7 +1008,7 @@ Pfarrerinnen und Pfarrer können die gemäss § 88 Abs. 1 PVO im Rahmen der Amts
 
 **23**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Die Inanspruchnahme gemäss Abs. 1 kann ausnahmsweise mehr Zeit beanspruchen, insbesondere wenn der Kirchenrat Pfarrerinnen, Pfarrern oder der betreffenden Kirchgemeinde für die gemäss § 88 Abs. 1 PVO wahrzunehmenden Aufgaben eine Entlastung gewährt.
 
@@ -1104,7 +1112,7 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 **25**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 [^80-1]: Fassung gemäss B vom 20. April 2016 (OS 71, 276; ABl 2016-06-10). In Kraft seit 1. September 2016.
 [^80-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
@@ -1115,73 +1123,54 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 ### A. Festsetzung des Anfangslohns
 
-#### § 81
-
 **Grundsatz**
 
-<sup>1</sup> Der Anfangslohn von Pfarrerinnen und Pfarrern entspricht Stufe 1 der massgebenden Lohnklasse gemäss Anhang 3 VVO PVO.
+§ 81.[^hAFestsetzungdesA-1] <sup>1</sup> Der Anfangslohn von Pfarrerinnen und Pfarrern entspricht Stufe 1 der massgebenden Lohnklasse gemäss Anhang 3 VVO PVO.
 
-<sup>2</sup> Die Anrechnung von nutzbarer Erfahrung richtet sich nach §§ 82–85.
+<sup>2</sup> Die Anrechnung von nutzbarer Erfahrung richtet sich nach §§ 82– 85. Sie umfasst höchstens so viele Stufen, wie eine Pfarrerin oder ein Pfarrer im Einzelfall aufgrund der Lohnentwicklung gemäss § 93 erreichen kann.
 
-<sup>3</sup> Zur Stufe 1 der massgebenden Lohnklasse gemäss Anhang 3 VVO PVO werden die Stufen hinzugezählt, die gemäss Abs. 2 anrechenbar sind.
+<sup>3</sup> Soweit in einem Jahr keine individuelle Lohnerhöhung gemäss § 52 VVO PVO[^hAFestsetzungdesA-2] gewährt wurde, wird für das betreffende Jahr keine nutzbare Erfahrung angerechnet.
 
-<sup>4</sup> Anhand der Zahl der anrechenbaren Stufen gemäss Abs. 3 wird die Stufe innerhalb der massgebenden Lohnklasse gemäss Anhang 3 VVO PVO bestimmt.
+<sup>4</sup> Zur Stufe 1 der massgebenden Lohnklasse gemäss Anhang 3 VVO PVO werden die Stufen hinzugezählt, die gemäss Abs. 2 anrechenbar sind.
 
-#### § 82
+<sup>5</sup> Anhand der Zahl der anrechenbaren Stufen gemäss Abs. 3 wird die Stufe innerhalb der massgebenden Lohnklasse gemäss Anhang 3 VVO PVO bestimmt.
 
-**Nutzbare Erfahrung a. Pfarramt und Gesamtkirchliche Dienste**
+**Nutzbare Erfahrung a. Pfarramt und kirchliche Dienste**
 
-<sup>1</sup> Für jedes in einem Pfarramt oder in den Gesamtkirchlichen Diensten bis Ende 2011 geleistete Dienstjahr wird eine Stufe angerechnet, wenn die betreffende Tätigkeit im einzelnen Jahr mindestens sechs Monate dauerte.
+§ 82.[^hAFestsetzungdesA-1] <sup>1</sup> Pfarrerinnen und Pfarrer erhalten für jede in einem Pfarramt, einer Kirchgemeinde oder einem anderen Dienst einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz oder in einer mit der Landeskirche verbundenen Institution geleistete Berufstätigkeit, die im einzelnen Jahr mindestens sechs Monate dauerte, jene Stufen angerechnet, die der Lohnentwicklung gemäss § 93 im jeweiligen Lohnentwicklungsbereich entsprechen.
 
-<sup>2</sup> Für jede ab dem Jahr 2012 in einem Pfarramt oder in den Gesamtkirchlichen Diensten geleistete Tätigkeit, soweit diese im einzelnen Jahr mindestens sechs Monate dauerte, werden jene Stufen angerechnet, die Pfarrerinnen und Pfarrern ab dem Jahr 2012 als individuelle Lohnerhöhung gemäss § 93 im jeweiligen Lohnentwicklungsbereich gewährt wurden.
+<sup>2</sup> . . .[^hAFestsetzungdesA-3]
 
-<sup>3</sup> Dienstjahre gemäss Abs. 1 und Tätigkeiten gemäss Abs. 2 mit einem durchschnittlichen Beschäftigungsgrad von 50% und mehr werden voll und bei einem durchschnittlichen Beschäftigungsgrad von weniger als 50% und mehr als 20% zur Hälfte angerechnet. Dienstjahre und Tätigkeiten mit einem durchschnittlichen Beschäftigungsgrad bis 20% werden nicht berücksichtigt.
+<sup>3</sup> Berufstätigkeiten gemäss Abs. 1 mit einem durchschnittlichen Beschäftigungsgrad von 50% und mehr werden voll und bei einem durchschnittlichen Beschäftigungsgrad von weniger als 50% und mehr als 20% zur Hälfte angerechnet. Berufstätigkeiten mit einem durchschnittlichen Beschäftigungsgrad bis 20% werden nicht berücksichtigt.
 
-#### § 83
+**b. Erziehungs- oder Betreuungsarbeit**
 
-**b. Erfahrung in Haus-, Erziehungs- und Betreuungsarbeit**
+§ 83.[^hAFestsetzungdesA-1] Haben Pfarrerinnen und Pfarrer neben einer beruflichen oder anderweitigen Tätigkeit von höchstens 50% nachweislich während ununterbrochen mindestens eines Jahres Erziehungs- oder Betreuungsarbeit im Umfang von mindestens 50% geleistet, wird ihnen für diese Zeit während längstens acht Jahren pro Jahr eine Stufe angerechnet. § 84.[^hAFestsetzungdesA-1] <sup>1</sup> Pfarrerinnen und Pfarrer, die eine Berufstätigkeit nachweisen, die sie nicht in einem Pfarramt, einer Kirchgemeinde oder einem anderen Dienst einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz oder in einer mit der Landeskirche verbundenen Institution geleistet haben, erhalten für jedes volle Jahr einer solchen Berufstätigkeit eine Stufe angerechnet.
 
-Haben Pfarrerinnen und Pfarrer ihre hauptberufliche Tätigkeit zugunsten von Haus-, Erziehungs- und Betreuungsarbeit während ununterbrochen mindestens eines Jahres aufgegeben, so wird ihnen für diese Zeit während längstens acht Jahren pro Jahr eine Stufe angerechnet.
-
-#### § 84
-
-**c. Allgemeine Berufserfahrung**
-
-<sup>1</sup> Pfarrerinnen und Pfarrer, die eine nicht pfarramtliche Berufstätigkeit nachweisen, erhalten für diese angerechnet:
-
-- a. zwei Stufen bei Berufstätigkeit von mindestens zwei Jahren mit oder mindestens vier Jahren ohne entsprechende Berufsausbildung,
-
-- b. vier Stufen bei Berufstätigkeit von mindestens sechs Jahren mit oder mindestens acht Jahren ohne entsprechende Berufsausbildung,
-
-- c. sechs Stufen bei Berufstätigkeit von mindestens acht Jahren mit oder mindestens zehn Jahren ohne entsprechende Berufsausbildung.
+**c. Berufserfahrung**
 
 <sup>2</sup> Eine Anrechnung gemäss Abs. 1 erfolgt, wenn das Gesamtpensum der einzelnen Anstellungen mindestens 50% erreichte und die einzelne Anstellung mindestens sechs Monate dauerte.
 
-<sup>3</sup> Nicht berücksichtigt werden Berufsausbildungen, das Lernvikariat gemäss dem Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst[^84-1], Praktika und vergleichbare Tätigkeiten.
+<sup>3</sup> Die gemäss Abs. 1 und 2 anrechenbaren Berufstätigkeiten werden zusammengerechnet und auf den vollen Monat gerundet.
 
-<sup>4</sup> Sind die Voraussetzungen für die Anrechnung der nutzbaren Erfahrung sowohl gemäss dieser Bestimmung als auch gemäss § 83 erfüllt, so erfolgt die Einstufung nach jener Bestimmung, die für die Pfarrerin oder den Pfarrer günstiger ist.
+<sup>4</sup> Nicht berücksichtigt werden Berufsausbildungen, das Lernvikariat gemäss dem Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst[^hAFestsetzungdesA-4], Praktika und vergleichbare Tätigkeiten.
 
-[^84-1]: LS 181.41.
+**d. Anrechnungskonkurrenz**
 
-#### § 85
+§ 85.[^hAFestsetzungdesA-1] Sind die Voraussetzungen gemäss §§ 82–84 für die Anrechnung der nutzbaren Erfahrung gleichzeitig erfüllt, erfolgt die Einstufung nach jener Bestimmung, die für die Pfarrerin oder den Pfarrer günstiger ist.
 
-**d. Berufserfahrung in leitender Stellung**
-
-Pfarrerinnen und Pfarrer, die eine Berufstätigkeit von mindestens sechs Jahren in leitender Stellung als mittleres oder oberes Kader nachweisen, erhalten zusätzlich zur Einstufung gemäss § 84 zwei Stufen angerechnet.
-
-#### § 86
-
-**Ausserordentliche Fälle**
-
-In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bis zu vier Stufen angerechnet werden.
-
-#### § 87
+§ 86.[^hAFestsetzungdesA-3]
 
 **Pfarrerinnen und Pfarrer in Institutionen**
 
-<sup>1</sup> Pfarrerinnen und Pfarrer, die in einem Pfarramt in einer Institution tätig sind und noch nicht über die vom Kirchenrat vorausgesetzte Zusatzausbildung verfügen, werden bis zum Erwerb dieser Zusatzausbildung in der Lohnklasse 16 gemäss Anhang 3 VVO PVO eingereiht.
+§ 87. <sup>1</sup> Pfarrerinnen und Pfarrer, die in einem Pfarramt in einer Institution tätig sind und noch nicht über die vom Kirchenrat vorausgesetzte Zusatzausbildung verfügen, werden bis zum Erwerb dieser Zusatzausbildung in der Lohnklasse 16 gemäss Anhang 3 VVO PVO eingereiht.
 
 <sup>2</sup> Die Einreihung in der Lohnklasse 17 gemäss Anhang 3 VVO PVO erfolgt auf Beginn des ersten Monats nach Erwerb der Zusatzausbildung.
+
+[^hAFestsetzungdesA-1]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
+[^hAFestsetzungdesA-2]: LS 181.401.
+[^hAFestsetzungdesA-3]: Aufgehoben durch B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 45
+[^hAFestsetzungdesA-4]: LS 181.41.
 
 ### B. Stellvertreterinnen und Stellvertreter
 
@@ -1193,7 +1182,7 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 **27**
 
-- 1\. 7. 19 - 105 § 90.[^hBStellvertreterinn-2] Pfarrerinnen und Pfarrer, die als Stellvertreterinnen oder Stellvertreter gemäss Art. 121 Abs. 1 KO tätig sind, werden in die Lohnklasse 17 gemäss Anhang 3 VVO PVO eingereiht bei:
+- 1\. 1. 22 - 115 § 90.[^hBStellvertreterinn-2] Pfarrerinnen und Pfarrer, die als Stellvertreterinnen oder Stellvertreter gemäss Art. 121 Abs. 1 KO tätig sind, werden in die Lohnklasse 17 gemäss Anhang 3 VVO PVO eingereiht bei:
 
 **Lohnklasse 17**
 
@@ -1209,12 +1198,14 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 [^hBStellvertreterinn-1]: Aufgehoben durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 [^hBStellvertreterinn-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^hBStellvertreterinn-3]: LS 181.10.
+[^hBStellvertreterinn-4]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
 
 #### § 91
 
 **Einstufung**
 
-<sup>1</sup> Die Einreihung von Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 KO in der massgebenden Lohnklasse richtet sich nach §§ 81–86.
+<sup>1</sup> Die Einreihung von Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 KO[^hBStellvertreterinn-3] in der massgebenden Lohnklasse richtet sich nach §§ 81–85.[^hBStellvertreterinn-4]
 
 <sup>2</sup> Nehmen Pfarrerinnen und Pfarrer in einer Kirchgemeinde oder in einer Institution die Stellvertretung einer anderen Pfarrerin oder eines anderen Pfarrers dieser Kirchgemeinde oder Institution wahr, so wird diese Stellvertretung entsprechend der Einreihung der eigenen Tätigkeit entschädigt.
 
@@ -1232,9 +1223,11 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 <sup>1</sup> Der Lohn von Aushilfen gemäss § 49 beträgt 75% des Betrags von Lohnklasse 16 Stufe 1 gemäss Anhang 3 VVO PVO.[^hCAushilfenfürdie-1]
 
-<sup>2</sup> Eine Anrechnung von nutzbarer Erfahrung gemäss §§ 81–86 erfolgt nicht.
+<sup>2</sup> Eine Anrechnung von nutzbarer Erfahrung gemäss §§ 81–85 erfolgt nicht.[^92-1]
 
 <sup>3</sup> Eine individuelle Lohnerhöhung gemäss § 93 wird nicht gewährt.
+
+[^92-1]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
 
 ### D. Individuelle Lohnerhöhung
 
@@ -1275,7 +1268,7 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 **29**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 [^h13AbschnittWohns-1]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 [^h13AbschnittWohns-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
@@ -1367,7 +1360,7 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 **31**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Im Übrigen schliesst die Kirchenpflege mit Nutzerinnen und Nutzern eines Pfarrhauses oder einer Pfarrwohnung einen Mietvertrag nach den Bestimmungen des Obligationenrechts[^100-1]. Erfolgt die Vermietung unbefristet, so bringt sie den Vorbehalt einer Kündigung wegen Eigenbedarfs an.
 
@@ -1439,7 +1432,7 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 **33**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Die Pfarrerin oder der Pfarrer darf zusätzliche Schlüssel nur mit schriftlicher Einwilligung der Kirchenpflege anfertigen lassen. Sie oder er übergibt solche Schlüssel bei der Rückgabe des Pfarrhauses oder der Pfarrwohnung entschädigungslos der Kirchenpflege.
 
@@ -1527,7 +1520,7 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 **35**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 - g. Kosten für Hauswartung und Reinigung,
 
@@ -1607,7 +1600,7 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 **37**
 
-- 1\. 7. 19 - 105 § 118. <sup>1</sup> Die Kirchenpflege kann im Rahmen der Zumutbarkeit Erneuerungen und Änderungen am Pfarrhaus oder an der Pfarrwohnung, an den Amtsräumen, an den Autoabstellplätzen und am Garten ohne Zustimmung der Pfarrerin oder des Pfarrers vornehmen. Vorbehalten bleibt der Anspruch der Pfarrerinnen und Pfarrer auf Herabsetzung des Mietwertabzugs während der Dauer der Arbeiten.
+- 1\. 1. 22 - 115 § 118. <sup>1</sup> Die Kirchenpflege kann im Rahmen der Zumutbarkeit Erneuerungen und Änderungen am Pfarrhaus oder an der Pfarrwohnung, an den Amtsräumen, an den Autoabstellplätzen und am Garten ohne Zustimmung der Pfarrerin oder des Pfarrers vornehmen. Vorbehalten bleibt der Anspruch der Pfarrerinnen und Pfarrer auf Herabsetzung des Mietwertabzugs während der Dauer der Arbeiten.
 
 **Erneuerungsarbeiten und bauliche Änderungen a. Durch die Kirchenpflege**
 
@@ -1673,7 +1666,7 @@ In besonderen Fällen können zusätzlich zur Einstufung gemäss §§ 81–85 bi
 
 **39**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 ### 15. Abschnitt: Dekaninnen und Dekane, Vizedekaninnen
 
@@ -1772,7 +1765,7 @@ Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
 
 **41**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 22 - 115
 
 - c. Verordnung zur Regelung der Fortbildung von Pfarrern und Pfarrerinnen vom 24. Oktober 1984,
 
@@ -1791,7 +1784,7 @@ Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
 - j. weitere Richtlinien, Weisungen und Beschlüsse des Kirchenrates, der Kirchgemeinden und Kirchgemeindeverbände, soweit sie dieser Verordnung widersprechen.
 
 [^136-1]: LS 181.401.
-[^136-2]: Text siehe OS 69, 451. 1. 7. 19 - 105 43
+[^136-2]: Text siehe OS 69, 451.
 
 #### § 137
 
@@ -1830,6 +1823,22 @@ VI. Nach den Bestimmungen der Verordnung über das Pfarramt in der Landeskirche 
 - d. das Stellenpensum und der Zusatzdienst (§§ 70–72),
 
 - e. der Lohn für die Stellvertretung in einer aufgeteilten Pfarrstelle (§ 90 lit. a).
+
+### Übergangsbestimmung zur Änderung vom 14. Juli 2021 (OS 76, 355)
+
+I. §§ 81–85 sind auf die Festsetzung des Anfangslohns von Pfarrerinnen und Pfarrern gemäss § 4 PVO[^hÜbergangsbestimmung-1] anwendbar, die ab dem Inkrafttreten dieser Änderung der Verordnung über das Pfarramt in der Landeskirche in den Dienst der Landeskirche treten.
+
+II. Pfarrerinnen und Pfarrer gemäss § 4 PVO, die im Dienst der Landeskirche stehen und deren Anfangslohn nicht gemäss §§ 81–84 festgesetzt wurde, können binnen sechs Monaten ab dem Inkrafttreten dieser Änderung der Verordnung über das Pfarramt in der Landeskirche die Überprüfung ihres Anfangslohns gemäss §§ 81–84 verlangen. Sie legen die hierfür nötigen Nachweise vor.
+
+**43**
+
+- 1\. 1. 22 - 115 III. Ergibt die Überprüfung des Anfangslohns gemäss Ziff. II eine höhere als die bestehende Einstufung, erfolgt die Anpassung des Lohns rückwirkend auf den Zeitpunkt des Inkrafttretens dieser Änderung der Verordnung über das Pfarramt in der Landeskirche.
+
+IV. Ergibt die Überprüfung des Anfangslohns gemäss Ziff. II eine tiefere als die bestehende Einstufung, erfolgt keine Anpassung des Lohns. Individuelle Lohnerhöhungen gemäss § 93, die ab dem Inkrafttreten dieser Änderung der Verordnung über das Pfarramt in der Landeskirche gewährt werden, werden auf die bestehende Einstufung so lange angerechnet, bis diese ausgeglichen ist.
+
+V. Ziff. I–IV sind nicht anwendbar auf Pfarrerinnen und Pfarrer, die über die Beendigung des Arbeitsverhältnisses gemäss Art. 132 Abs. 2 KO und § 26 Abs. 2 lit. b PVO hinaus in einem Pfarramt tätig sind oder Einzelvertretungen gemäss § 76 wahrnehmen.
+
+[^hÜbergangsbestimmung-1]: LS 181.40.
 
 ## Weitere Fussnoten
 
