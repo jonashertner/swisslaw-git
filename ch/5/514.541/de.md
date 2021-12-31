@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 1. April 2021)
+vom 2. Juli 2008 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -329,10 +329,10 @@ Das Gesuch ist mit den folgenden Beilagen bei der zuständigen kantonalen Behör
 Der Erwerb, der Besitz, das Anbieten, das Vermitteln und die Übertragung von Waffen, wesentlichen oder besonders konstruierten Waffenbestandteilen, Waffenzubehör, Munition und Munitionsbestandteilen sowie das Tragen von Waffen und das Schiessen mit Feuerwaffen sind Angehörigen folgender Staaten verboten:
 
 - a. Serbien;
-- b.[^12-1] ...
+- b.[^12-1] …
 - c. Bosnien und Herzegowina;
 - d. Kosovo;
-- e.[^12-2] ...
+- e.[^12-2] …
 - f. Nordmazedonien;
 - g. Türkei;
 - h. Sri Lanka;
@@ -510,7 +510,7 @@ Die zuständige kantonale Behörde kann eine einzige Ausnahmebewilligung ausstel
 
 #### Art. 14
 
-**...[^14-1]**
+**…[^14-1]**
 
 Die zuständige kantonale Behörde kann eine Ausnahmebewilligung für das Schiessen mit Feuerwaffen an öffentlich zugänglichen Orten ausserhalb der behördlich zugelassenen Schiessanlässe und ausserhalb von Schiessplätzen erteilen, wenn die Voraussetzungen von Artikel 28*c* Absatz 3 WG erfüllt sind und:[^14-2]
 
@@ -1120,7 +1120,7 @@ Das Gesuch um eine Ausnahmebewilligung für das gewerbsmässige Verbringen von W
 
 - a. Kopie der Waffenhandelsbewilligung;
 - b.[^34-2] kantonale Ausnahmebewilligung nach Artikel 5 Absatz 6 WG;
-- c.[^34-3] ...
+- c.[^34-3] …
 
 <sup>1bis</sup> Bezieht sich das Gesuch auf das gewerbsmässige Verbringen von Waffen nach Artikel 5 Absatz 1 Buchstabe a, e oder f WG oder ihren besonders konstruierten Bestandteilen, so verlangt die Zentralstelle Waffen den Nachweis, dass die ausnahmebewilligungspflichtigen Gegenstände für die Sicherstellung der Bedürfnisse von Behörden im Sinne von Artikel 2 Absatz 1 WG oder von anderen Bestellern notwendig sind. Sie beschränkt die Ausnahmebewilligung entsprechend.[^34-4]
 
@@ -1241,7 +1241,7 @@ Das Gesuch um die Bewilligung für das nichtgewerbsmässige Verbringen von Waffe
 
 <sup>3</sup> Jäger und Schützen benötigen keine Bewilligung, wenn sie den Grund für die Reise, namentlich anhand einer Einladung zu einer Jagd- oder Sportveranstaltung, glaubhaft machen können und die mitgeführten Feuerwaffen im Europäischen Feuerwaffenpass eingetragen sind.
 
-<sup>4</sup> ...[^40-1]
+<sup>4</sup> …[^40-1]
 
 [^40-1]: Aufgehoben durch Ziff. I der V vom 4. Juni 2010, mit Wirkung seit 28. Juli 2010 ([AS 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
@@ -1793,17 +1793,19 @@ Fedpol erlässt ein Reglement für die Bearbeitung der Daten in den Datenbanken 
 
 #### Art. 67
 
-**Vollzug durch die Zollverwaltung**
+**Vollzug durch das Bundesamt für Zoll und Grenzsicherheit[^67-1]**
 
 ### (Art. 40 Abs. 4 WG)
 
 <sup>1</sup> Die Zollveranlagung richtet sich nach den Bestimmungen der Zollgesetzgebung.
 
-<sup>2</sup> Die Zollverwaltung meldet der Bewilligungsbehörde vollständig gelöschte Bewilligungen für das Verbringen von Waffen in das schweizerische Staatsgebiet. Sie erteilt der Bewilligungsbehörde auf Anfrage Auskünfte über das Verbringen von Waffen in das schweizerische Staatsgebiet.
+<sup>2</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) meldet der Bewilligungsbehörde vollständig gelöschte Bewilligungen für das Verbringen von Waffen in das schweizerische Staatsgebiet. Es erteilt der Bewilligungsbehörde auf Anfrage Auskünfte über das Verbringen von Waffen in das schweizerische Staatsgebiet.
 
-<sup>3</sup> Werden bei Kontrollen Widerhandlungen nach Artikel 33 WG festgestellt, so verweigert die Zollverwaltung die Weiterreise und bietet die zuständige kantonale Polizei auf.
+<sup>3</sup> Werden bei Kontrollen Widerhandlungen nach Artikel 33 WG festgestellt, so verweigert das BAZG die Weiterreise und bietet die zuständige kantonale Polizei auf.
 
-<sup>4</sup> Ist der Beizug der kantonalen Polizei nicht zweckmässig oder nicht möglich, so erstellt die Zollverwaltung nach Rücksprache mit der Polizei die Feststellungsprotokolle und übergibt diese zusammen mit den beschlagnahmten Gegenständen der zuständigen Untersuchungsbehörde zur Einleitung eines Strafverfahrens.
+<sup>4</sup> Ist der Beizug der kantonalen Polizei nicht zweckmässig oder nicht möglich, so erstellt das BAZG nach Rücksprache mit der Polizei die Feststellungsprotokolle und übergibt diese zusammen mit den beschlagnahmten Gegenständen der zuständigen Untersuchungsbehörde zur Einleitung eines Strafverfahrens.
+
+[^67-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 68
 
@@ -1819,7 +1821,7 @@ Fedpol erlässt ein Reglement für die Bearbeitung der Daten in den Datenbanken 
 
 Die zuständige Behörde des Wohnsitzkantons meldet der Zentralstelle Waffen im automatisierten Verfahren folgende Daten von Personen, denen die Bewilligung verweigert oder entzogen oder deren Waffe eingezogen wurde:
 
-- a. Name, Vorname, Geburtsname, Geburtsdatum, Adresse, Staatsangehörigkeit und Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^68-3] über die Alters- und Hinterlassenenversicherung (AHV-Versichertennummer) sowie die Umstände, die zur Verweigerung oder zum Entzug der Bewilligung oder zur Einziehung der Waffe Anlass gegeben haben;
+- a.[^68-3] Name, Vorname, Geburtsname, Geburtsdatum, Adresse, Staatsangehörigkeit und AHV-Nummer sowie die Umstände, die zur Verweigerung oder zum Entzug der Bewilligung oder zur Einziehung der Waffe Anlass gegeben haben;
 - b. Waffenart, Hersteller oder Herstellerin, Bezeichnung, Kaliber, Waffennummer sowie Datum des Erwerbs;
 - c. Datum der Erfassung in der Datenbank.[^68-4]
 
@@ -1834,7 +1836,7 @@ Ferner meldet sie der Zentralstelle Waffen im automatisierten Verfahren die Date
 
 [^68-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^68-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^68-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^68-3]: Fassung gemäss Anhang Ziff. II 21 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^68-4]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-5]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-6]: Ursprünglich: Abs. 3
@@ -1847,12 +1849,13 @@ Ferner meldet sie der Zentralstelle Waffen im automatisierten Verfahren die Date
 
 Die Logistikbasis der Armee meldet der Zentralstelle Waffen im automatisierten Verfahren folgende Daten von Personen, die beim Austritt aus der Armee eine Waffe oder einen wesentlichen oder besonders konstruierten Waffenbestandteil zu Eigentum erhalten haben oder denen die persönliche Waffe oder die Leihwaffe abgenommen, entzogen oder nicht abgegeben wurde:[^69-1]
 
-- a.[^69-2] Name, Vorname, Geburtsname, Geburtsdatum, Adresse und AHV-Versichertennummer sowie die Umstände, die zur Abnahme, zum Entzug oder zur Nichtabgabe der Waffe Anlass gegeben haben;
+- a.[^69-2] Name, Vorname, Geburtsname, Geburtsdatum, Adresse und AHV-Nummer[^69-3] sowie die Umstände, die zur Abnahme, zum Entzug oder zur Nichtabgabe der Waffe Anlass gegeben haben;
 - b. Waffenart, Hersteller oder Herstellerin, Bezeichnung, Kaliber, Waffennummer sowie Datum der Übertragung;
 - c. Datum der Erfassung in der Datenbank.
 
 [^69-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^69-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^69-3]: Ausdruck gemäss Anhang Ziff. II 21 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 70
 
@@ -1864,7 +1867,7 @@ Die Logistikbasis der Armee meldet der Zentralstelle Waffen im automatisierten V
 
 Die Zentralstelle Waffen meldet der Logistikbasis der Armee und dem Führungsstab der Armee im automatisierten Verfahren folgende Daten von Personen, denen die Bewilligung verweigert oder entzogen wurde oder deren Waffe beschlagnahmt wurde:
 
-- a. Name, Vorname, Geburtsname, Geburtsdatum, Adresse und AHV-Versichertennummer sowie die Umstände, die zur Verweigerung oder zum Entzug einer Bewilligung oder zur Beschlagnahme einer Waffe Anlass gegeben haben;
+- a. Name, Vorname, Geburtsname, Geburtsdatum, Adresse und AHV-Nummer sowie die Umstände, die zur Verweigerung oder zum Entzug einer Bewilligung oder zur Beschlagnahme einer Waffe Anlass gegeben haben;
 - b. Waffenart, Hersteller oder Herstellerin, Bezeichnung, Kaliber, Waffennummer sowie Datum der Übertragung;
 - c. Datum der Erfassung in der Datenbank.
 
@@ -1872,7 +1875,7 @@ Die Zentralstelle Waffen meldet der Logistikbasis der Armee und dem Führungssta
 
 Sie meldet der zuständigen Behörde des Wohnsitzkantons im automatisierten Verfahren folgende Daten von Personen, denen die persönliche Waffe oder die Leihwaffe abgenommen, entzogen oder nicht abgegeben wurde:
 
-- a. Name, Vorname, Geburtsname, Geburtsdatum, Adresse und AHV-Versichertennummer sowie die Umstände, die zur Abnahme, zum Entzug oder zur Nichtabgabe der Waffe Anlass gegeben haben;
+- a. Name, Vorname, Geburtsname, Geburtsdatum, Adresse und AHV-Nummer sowie die Umstände, die zur Abnahme, zum Entzug oder zur Nichtabgabe der Waffe Anlass gegeben haben;
 - b. Waffenart, Hersteller oder Herstellerin, Bezeichnung, Kaliber, Waffennummer sowie Datum der Übertragung;
 - c. Datum der Erfassung in der Datenbank.
 
@@ -1936,7 +1939,7 @@ Für die Behandlung von Bewilligungsgesuchen und für das Aufbewahren von beschl
 <table>
 <tr><th></th><th>Franken</th></tr>
 <tr><td>a. Waffenerwerbsschein für:</td><td></td></tr>
-<tr><td>1. ...</td><td></td></tr>
+<tr><td>1. …</td><td></td></tr>
 <tr><td>2. Selbstverteidigungssprays</td><td>20.—</td></tr>
 <tr><td>3. Feuerwaffen</td><td>50.—</td></tr>
 <tr><td>4. andere Waffen</td><td>50.—</td></tr>
@@ -2061,7 +2064,7 @@ leer = kein Zugriff
 <tr><td>Einsatzzentrale</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
 </table>
 
-### Eidgenössische Zollverwaltung
+### Bundesamt für Zoll und Grenzsicherheit
 
 <table>
 <tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Informationssystem nach Art. 32*a* Abs. 3 WG</th></tr>
@@ -2105,8 +2108,8 @@ II
 
 Die nachfolgenden Verordnungen werden wie folgt geändert:
 
-...[^annex4-lvlu1-3]
+…[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[AS 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549), [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146), [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)Ziff. II [2671](https://fedlex.data.admin.ch/eli/oc/2002/374), [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 4, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 11]
+[^annex4-lvlu1-1]: [[AS 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549); [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146); [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)Ziff. II [2671](https://fedlex.data.admin.ch/eli/oc/2002/374); [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 4; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 11]
 [^annex4-lvlu1-2]: [[AS 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54)]
 [^annex4-lvlu1-3]: Die Änd. können unter [AS 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)konsultiert werden.

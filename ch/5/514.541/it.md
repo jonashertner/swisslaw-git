@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 2 luglio 2008 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1791,17 +1791,19 @@ Fedpol emana un regolamento sul trattamento dei dati nelle banche dati di cui al
 
 #### Art. 67
 
-**Esecuzione da parte dell’Amministrazione delle dogane**
+**Esecuzione da parte dell’Ufficio federale della dogana e della sicurezza dei confini[^67-1]**
 
 ### (art. 40 cpv. 4 LArm)
 
 <sup>1</sup> L’imposizione doganale è retta dalle disposizioni della legislazione doganale.
 
-<sup>2</sup> L’Amministrazione delle dogane comunica all’autorità che rilascia autorizzazioni lo scarico completo delle autorizzazioni per l’introduzione di armi nel territorio svizzero. Su richiesta, fornisce a tale autorità informazioni sull’introduzione di armi nel territorio svizzero.
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) comunica all’autorità che rilascia autorizzazioni lo scarico completo delle autorizzazioni per l’introduzione di armi nel territorio svizzero. Su richiesta, fornisce a tale autorità informazioni sull’introduzione di armi nel territorio svizzero.
 
-<sup>3</sup> Se nel corso di controlli constata infrazioni secondo l’articolo 33 LArm, l’Amministrazione delle dogane nega il proseguimento del viaggio e si rivolge alla competente polizia cantonale.
+<sup>3</sup> Se nel corso di controlli constata infrazioni secondo l’articolo 33 LArm, l’UDSC nega il proseguimento del viaggio e si rivolge alla competente polizia cantonale.
 
-<sup>4</sup> Se l’intervento della polizia cantonale non è opportuno o possibile, l’Amministrazione delle dogane, d’intesa con la polizia, stende il verbale di accertamento e lo trasmette, insieme agli oggetti sequestrati, al competente giudice istruttore per l’apertura di un procedimento penale.
+<sup>4</sup> Se l’intervento della polizia cantonale non è opportuno o possibile, l’UDSC, d’intesa con la polizia, stende il verbale di accertamento e lo trasmette, insieme agli oggetti sequestrati, al competente giudice istruttore per l’apertura di un procedimento penale.
+
+[^67-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 68
 
@@ -1817,7 +1819,7 @@ Fedpol emana un regolamento sul trattamento dei dati nelle banche dati di cui al
 
 L’autorità competente del Cantone di domicilio comunica all’Ufficio centrale Armi per mezzo di una procedura automatizzata i seguenti dati relativi alle persone cui è stata rifiutata o revocata l’autorizzazione oppure cui è stata confiscata l’arma:
 
-- a. il cognome, il nome, il cognome alla nascita, la data di nascita, l’indirizzo, la cittadinanza e il numero d’assicurato di cui all’articolo 50*c* della legge federale del 20 dicembre 1946[^68-3] su l’assicurazione per la vecchiaia e per i superstiti (numero d’assicurato AVS), nonché le circostanze che hanno portato al rifiuto o alla revoca dell’autorizzazione o alla confisca dell’arma;
+- a.[^68-3] il cognome, il nome, il cognome alla nascita, la data di nascita, l’indirizzo, la cittadinanza e il numero AVS, nonché le circostanze che hanno portato al rifiuto o alla revoca dell’autorizzazione o alla confisca dell’arma;
 - b. il tipo, il fabbricante, la designazione, il calibro, il numero dell’arma, nonché la data dell’acquisto;
 - c. la data della registrazione nella banca dati.[^68-4]
 
@@ -1832,7 +1834,7 @@ Comunica inoltre all’Ufficio centrale Armi per mezzo di una procedura automati
 
 [^68-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^68-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^68-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^68-3]: Nuovo testo giusta l’all. n. II 21 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^68-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-5]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-6]: Originario cpv. 3.
@@ -1845,12 +1847,13 @@ Comunica inoltre all’Ufficio centrale Armi per mezzo di una procedura automati
 
 Al proscioglimento dell’obbligo militare, la Base logistica dell’esercito comunica all’Ufficio centrale Armi per mezzo di una procedura automatizzata i seguenti dati relativi alle persone che hanno ricevuto in proprietà un’arma, una parte essenziale di arma o una parte di arma appositamente costruita, cui l’arma personale o l’arma in prestito è stata ritirata a titolo cautelare o definitivo oppure cui non è stata consegnata alcuna arma personale o in prestito:[^69-1]
 
-- a.[^69-2] il cognome, il nome, il cognome alla nascita, la data di nascita, l’indirizzo e il numero d’assicurato AVS, nonché le circostanze che hanno portato al ritiro cautelare, al ritiro definitivo o alla mancata consegna dell’arma;
+- a.[^69-2] il cognome, il nome, il cognome alla nascita, la data di nascita, l’indirizzo e il numero AVS[^69-3], nonché le circostanze che hanno portato al ritiro cautelare, al ritiro definitivo o alla mancata consegna dell’arma;
 - b. il tipo, il fabbricante, la designazione, il calibro, il numero dell’arma, nonché la data dell’alienazione;
 - c. la data della registrazione nella banca dati.
 
 [^69-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^69-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^69-3]: Nuova espr. giusta l’all. n. II 21 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 70
 
@@ -1862,7 +1865,7 @@ Al proscioglimento dell’obbligo militare, la Base logistica dell’esercito co
 
 L’Ufficio centrale Armi comunica alla Base logistica dell’esercito e allo Stato maggiore di condotta dell’esercito per mezzo di una procedura automatizzata i seguenti dati relativi alle persone cui è stata rifiutata o revocata l’autorizzazione oppure cui è stata sequestrata l’arma:
 
-- a. il cognome, il nome, il cognome alla nascita, la data di nascita, l’indirizzo e il numero d’assicurato AVS, nonché le circostanze che hanno portato al rifiuto o alla revoca dell’autorizzazione o al sequestro dell’arma;
+- a. il cognome, il nome, il cognome alla nascita, la data di nascita, l’indirizzo e il numero AVS, nonché le circostanze che hanno portato al rifiuto o alla revoca dell’autorizzazione o al sequestro dell’arma;
 - b. il tipo, il fabbricante, la designazione, il calibro, il numero dell’arma, nonché la data dell’alienazione;
 - c. la data della registrazione nella banca dati.
 
@@ -1870,7 +1873,7 @@ L’Ufficio centrale Armi comunica alla Base logistica dell’esercito e allo St
 
 Comunica all’autorità competente del Cantone di domicilio per mezzo di una procedura automatizzata i seguenti dati relativi alle persone cui l’arma personale o l’arma in prestito è stata ritirata a titolo cautelare o definitivo oppure cui non è stata consegnata alcuna arma personale o in prestito:
 
-- a. il cognome, il nome, il cognome alla nascita, la data di nascita, l’indirizzo e il numero d’assicurato AVS, nonché le circostanze che hanno portato al ritiro cautelare, al ritiro definitivo o alla mancata consegna dell’arma;
+- a. il cognome, il nome, il cognome alla nascita, la data di nascita, l’indirizzo e il numero AVS, nonché le circostanze che hanno portato al ritiro cautelare, al ritiro definitivo o alla mancata consegna dell’arma;
 - b. il tipo, il fabbricante, la designazione, il calibro, il numero dell’arma, nonché la data dell’alienazione;
 - c. la data della registrazione nella banca dati.
 
@@ -2056,7 +2059,7 @@ vuoto = nessun accesso
 <tr><td>Centrale operativa</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
 </table>
 
-### Amministrazione federale delle dogane
+### Ufficio federale della dogana e della sicurezza dei confini
 
 <table>
 <tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Sistema d’informazione di cui all’art. 32*a* cpv. 3 LArm</th></tr>

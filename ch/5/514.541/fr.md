@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20210401/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (Etat le 1<sup>er</sup> avril 2021)
+du 2 juillet 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
-## Chapitre 1 Définitions
+## Chapitre 1 Définitions****
 
 [^chap1-1]
 
@@ -229,13 +229,13 @@ Par courtage, on entend la création des conditions essentielles pour la conclus
 
 [^9a-1]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-## Chapitre 1*a* Interdictions et restrictions de portée générale, autorisations exceptionnelles
+## Chapitre 1*a* Interdictions et restrictions de portée générale, autorisations exceptionnelles****
 
 [^chap1a-1]
 
 [^chap1a-1]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-### Section 1 Généralités
+### Section 1 Généralités****
 
 [^chap1a-sec1-1]
 
@@ -364,7 +364,7 @@ Afin d’être identifiable, l’offreur doit:
 - a. si son offre paraît sous une forme anonyme, envoyer une copie de son passeport ou de sa carte d’identité en cours de validité au responsable de la publication avant que celle-ci ait lieu; ledit responsable conserve la copie pour toute la durée de publication, mais au moins pendant six mois;
 - b. si son offre ne paraît pas sous une forme anonyme, y indiquer au moins son nom, son prénom et son domicile.
 
-### Section 2 Couteaux, poignards et engins de frappe ou de jet
+### Section 2**** Couteaux, poignards et engins de frappe ou de jet
 
 [^chap1a-sec2-1]
 
@@ -397,7 +397,7 @@ Sont interdits l’aliénation, l’acquisition, le courtage pour des destinatai
 
 Les autorités cantonales compétentes délivrent des autorisations exceptionnelles pour les armes visées à l’art. 5, al. 2, let. b, LArm en particulier s’il s’agit d’armes de sport utilisées par des membres d’écoles de sport ou de sociétés sportives.
 
-### Section 3 Autorisations exceptionnelles pour les tireurs sportifs
+### Section 3**** Autorisations exceptionnelles pour les tireurs sportifs
 
 [^chap1a-sec3-1]
 
@@ -464,7 +464,7 @@ Pour apporter la démonstration, la personne concernée doit remettre le formula
 
 [^13f-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
-### Section 4 Autorisations exceptionnelles pour les collectionneurs et les musées
+### Section 4**** Autorisations exceptionnelles pour les collectionneurs et les musées
 
 [^chap1a-sec4-1]
 
@@ -703,7 +703,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 <sup>3</sup> Si les circonstances font douter l’aliénateur que les conditions permettant l’aliénation soient remplies, il doit exiger de l’acquéreur un extrait du casier judiciaire suisse établi trois mois au plus avant l’aliénation ou demander, avec l’accord écrit de l’acquéreur, les informations nécessaires aux autorités ou aux personnes compétentes.
 
-### Section 4 Acquisition de chargeurs de grande capacité
+### Section 4**** Acquisition de chargeurs de grande capacité
 
 [^chap2-sec4-1]
 
@@ -717,7 +717,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 <sup>2</sup> Les chargeurs d’une capacité allant de 11 à 20 cartouches pouvant être utilisés tant avec des armes à feu à épauler que des armes à feu de poing peuvent être aliénés si l’acquéreur s’est vu délivrer une autorisation exceptionnelle ou une confirmation visée à l’al. 1 ou un permis d’acquisition d’armes ou une carte européenne d’arme à feu pour une arme à feu de poing correspondante.
 
-## Chapitre 3 Homologations
+## Chapitre 3 Homologations****
 
 [^chap3-1]
 
@@ -763,7 +763,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 [^25a-1]: Introduit par le ch. I de l’O du 24 juin 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
-## Chapitre 3*a* Munitions prohibées
+## Chapitre 3*a* Munitions prohibées****
 
 [^chap3a-1]
 
@@ -1802,17 +1802,19 @@ Fedpol édicte un règlement relatif au traitement des données dans les fichier
 
 #### Art. 67
 
-**Exécution par l’administration des douanes**
+**Exécution par l’Office fédéral de la douane et de la sécurité des frontières[^67-1]**
 
 ### (art. 40, al. 4, LArm)
 
 <sup>1</sup> Le placement sous régime douanier est régi par les dispositions de la législation douanière.
 
-<sup>2</sup> L’administration des douanes annonce à l’autorité qui a délivré les autorisations d’introduire des armes sur le territoire suisse celles dont elle a donné entière décharge. Si l’autorité qui a délivré les autorisations lui en fait la demande, elle lui communique des renseignements sur les armes introduites sur le territoire suisse.
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) annonce à l’autorité qui a délivré les autorisations d’introduire des armes sur le territoire suisse celles dont il a donné entière décharge. Si l’autorité qui a délivré les autorisations lui en fait la demande, il lui communique des renseignements sur les armes introduites sur le territoire suisse.
 
-<sup>3</sup> Si l’administration des douanes constate lors de contrôles que des infractions réprimées par l’art. 33 LArm ont été commises, elle empêche la personne de poursuivre sa route et fait appel à la police cantonale compétente.
+<sup>3</sup> Si l’OFDF constate lors de contrôles que des infractions réprimées par l’art. 33 LArm ont été commises, il empêche la personne de poursuivre sa route et fait appel à la police cantonale compétente.
 
-<sup>4</sup> Si l’intervention de la police cantonale n’est pas possible ou n’est pas opportune, l’administration des douanes, après avoir informé la police des faits, établit le procès-verbal de constat et le remet, avec les objets mis sous séquestre, aux autorités d’instruction compétentes en vue de l’ouverture d’une procédure pénale.
+<sup>4</sup> Si l’intervention de la police cantonale n’est pas possible ou n’est pas opportune, l’OFDF, après avoir informé la police des faits, établit le procès-verbal de constat et le remet, avec les objets mis sous séquestre, aux autorités d’instruction compétentes en vue de l’ouverture d’une procédure pénale.
+
+[^67-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 68
 
@@ -1828,7 +1830,7 @@ Fedpol édicte un règlement relatif au traitement des données dans les fichier
 
 L’autorité compétente du canton de domicile communique à l’OCA, dans le cadre de la procédure automatisée, les données suivantes sur les personnes dont l’autorisation a été refusée ou révoquée, ou dont l’arme a été confisquée:
 
-- a. le nom, le prénom, le nom de naissance, la date de naissance, l’adresse, la nationalité et le numéro AVS visé à l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^68-3] ainsi que, en cas de refus ou de révocation de l’autorisation ou en cas de confiscation de l’arme, les circonstances qui ont justifié cette décision;
+- a.[^68-3] le nom, le prénom, le nom de naissance, la date de naissance, l’adresse, la nationalité et le numéro AVS ainsi que, en cas de refus ou de révocation de l’autorisation ou en cas de confiscation de l’arme, les circonstances qui ont justifié cette décision;
 - b. le type, le fabricant, la désignation, le calibre et le numéro de l’arme ainsi que la date de l’acquisition;
 - c. la date de la saisie dans le fichier.[^68-4]
 
@@ -1843,7 +1845,7 @@ Elle transmet en outre à l’OCA, dans le cadre de la procédure automatisée, 
 
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^68-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^68-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^68-3]: Nouvelle teneur selon l’annexe ch. II 21 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^68-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-5]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-6]: Anciennement al. 3.
@@ -1932,7 +1934,7 @@ L’abrogation et la modification du droit en vigueur sont réglées à l’anne
 
 La présente ordonnance entre en vigueur le 12 décembre 2008.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 55)
 
@@ -2014,7 +2016,7 @@ Sont réputées irritantes les substances suivantes:
 - c. CN (ω-chloroacétophénone);
 - d. CR (dibenz(b,f)-1,4-oxazépine).
 
-Annexe 3[^t-2]
+Annexe 3*[^t-2]*
 
 (art. 61, al. 6)
 
@@ -2067,7 +2069,7 @@ vide = pas d’accès
 <tr><td>Centrale d’engagement</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
 </table>
 
-### Administration fédérale des douanes
+### Office fédéral de la douane et de la sécurité des frontières
 
 <table>
 <tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Système d’information visé à l’art.32*a*, al. 3, LArm</th></tr>
@@ -2113,6 +2115,6 @@ Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
 ...[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[RO 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549), [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146), [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)[2671](https://fedlex.data.admin.ch/eli/oc/2002/374), [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 4, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 11]
+[^annex4-lvlu1-1]: [[RO 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549); [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146); [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)[2671](https://fedlex.data.admin.ch/eli/oc/2002/374); [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 4; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 11]
 [^annex4-lvlu1-2]: [[RO 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54)]
 [^annex4-lvlu1-3]: Les mod. peuvent être consultées au [RO 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767).
