@@ -3,18 +3,20 @@ sr: "631.053"
 title: "Verordnung vom 4. April 2007 über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch das Bundesamt für Zoll und Grenzsicherheit"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/257"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2007-257-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-257-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch die Eidgenössische Zollverwaltung
+# Verordnung über den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten durch das Bundesamt für Zoll und Grenzsicherheit****
 
-vom 4. April 2007 (Stand am 1. Januar 2019)
+vom 4. April 2007 (Stand am 1. Januar 2022)[^t-1]
+
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 Der Schweizerische Bundesrat,
 
@@ -28,7 +30,7 @@ verordnet:
 
 **Gegenstand**
 
-Diese Verordnung regelt den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten (Geräte) durch die Eidgenössische Zollverwaltung (Zollverwaltung).
+Diese Verordnung regelt den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und anderen Überwachungsgeräten (Geräte) durch das Bundesamt für Zoll und Grenzsicherheit (BAZG).
 
 #### Art. 2
 
@@ -36,7 +38,7 @@ Diese Verordnung regelt den Einsatz von Bildaufnahme-, Bildaufzeichnungs- und an
 
 <sup>1</sup>
 
-Die Zollverwaltung kann Geräte einsetzen, die:
+Das BAZG kann Geräte einsetzen, die:
 
 - a. visuelle Signale aufnehmen und aufzeichnen (Fotokameras, Videogeräte, Wärmebildgeräte, Infrarotgeräte oder Bewegungsmelder);
 - b. akustische Signale aufnehmen und aufzeichnen (Tonbildgeräte oder Geräuschmelder);
@@ -108,15 +110,15 @@ Die Chefin oder der Chef eines Zollkreises, des Grenzwachtkorps sowie der Haupta
 
 <sup>1</sup>
 
-Die Zollverwaltung darf im Einzelfall Aufzeichnungen herausgeben:
+Das BAZG darf im Einzelfall Aufzeichnungen herausgeben:
 
 - a. bei unerlaubten Grenzübertritten von Personen: den zuständigen Bundesbehörden sowie den für die Strafverfolgung zuständigen kantonalen Behörden;
 - b. bei Gefahren für die Sicherheit im grenzüberschreitenden Verkehr und bei der Überwachung von Zollfreilagern: den für den Vollzug der jeweiligen nichtzollrechtlichen Erlasse des Bundes zuständigen eidgenössischen oder kantonalen Verwaltungsbehörden sowie den für die Strafverfolgung zuständigen eidgenössischen oder kantonalen Behörden;
 - c. bei Fahndungen nach Personen, Fahrzeugen und Gegenständen: den zuständigen eidgenössischen und kantonalen Behörden sowie den für die Strafverfolgung zuständigen eidgenössischen oder kantonalen Behörden;
 - d. bei der Überwachung von Räumen mit Wertsachen: den zuständigen Bundesbehörden sowie den für die Strafverfolgung zuständigen eidgenössischen oder kantonalen Behörden;
-- e. bei der Überwachung von Räumen mit abgeführten oder vorläufig festgenommenen Personen: den zuständigen eidgenössischen oder kantonalen Gerichts- und Verwaltungsbehörden zur Beurteilung von Ansprüchen nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^8-1] sowie zur Abwehr von Verfahren gegen das Personal der Zollverwaltung.
+- e. bei der Überwachung von Räumen mit abgeführten oder vorläufig festgenommenen Personen: den zuständigen eidgenössischen oder kantonalen Gerichts- und Verwaltungsbehörden zur Beurteilung von Ansprüchen nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^8-1] sowie zur Abwehr von Verfahren gegen das Personal des BAZG.
 
-<sup>2</sup> Sie kann Informationen aufgrund des Einsatzes der Geräte sowie Aufzeichnungen zur Aufklärung von Verbrechen und Vergehen den zuständigen eidgenössischen oder kantonalen Strafverfolgungsbehörden bekannt- bzw. herausgeben (Art. 112 und 114 ZG).
+<sup>2</sup> Es kann Informationen aufgrund des Einsatzes der Geräte sowie Aufzeichnungen zur Aufklärung von Verbrechen und Vergehen den zuständigen eidgenössischen oder kantonalen Strafverfolgungsbehörden bekannt- bzw. herausgeben (Art. 112 und 114 ZG).
 
 [^8-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
@@ -132,7 +134,7 @@ Die Zollverwaltung darf im Einzelfall Aufzeichnungen herausgeben:
 - b. die Zollkreisdirektionen;
 - c. die Kommandos der Grenzwachtregionen.
 
-<sup>2</sup> Über die Herausgabe an ausländische Behörden (Art. 113 ZG) entscheidet die Oberzolldirektion.
+<sup>2</sup> Über die Herausgabe an ausländische Behörden (Art. 113 ZG) entscheidet das BAZG.
 
 #### Art. 9a
 
@@ -150,7 +152,7 @@ Die Zollverwaltung darf im Einzelfall Aufzeichnungen herausgeben:
 
 <sup>1</sup> Die Rechte der von Aufzeichnungen betroffenen Personen, insbesondere das Auskunfts- und Vernichtungsrecht, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^10-1] über den Datenschutz und seinen Ausführungsbestimmungen.[^10-2]
 
-<sup>2</sup> Entsprechende Gesuche sind an die Oberzolldirektion zu richten.
+<sup>2</sup> Entsprechende Gesuche sind an das BAZG zu richten.
 
 [^10-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^10-2]: Fassung gemäss Art. 16 der Datenbearbeitungsverordnung für die EZV vom 23. Aug. 2017, in Kraft seit 1. Okt. 2017 ([AS 2017 4891](https://fedlex.data.admin.ch/eli/oc/2017/535)).
@@ -167,7 +169,7 @@ Aufzeichnungen sind sicher aufzubewahren und gegen missbräuchliche Verwendung o
 
 Die Verordnung vom 26. Oktober 1994[^12-1] über die Geländeüberwachung mit Videogeräten wird aufgehoben.
 
-[^12-1]: [[AS 1994 2471](https://fedlex.data.admin.ch/eli/oc/1994/2471_2471_2471), [2005 1101](https://fedlex.data.admin.ch/eli/oc/2005/146)]
+[^12-1]: [[AS 1994 2471](https://fedlex.data.admin.ch/eli/oc/1994/2471_2471_2471); [2005 1101](https://fedlex.data.admin.ch/eli/oc/2005/146)]
 
 #### Art. 13
 

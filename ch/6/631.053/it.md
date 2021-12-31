@@ -3,18 +3,18 @@ sr: "631.053"
 title: "Ordinanza del 4 aprile 2007 sull’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza da parte dell’Ufficio federale della dogana e della sicurezza dei confini"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/257"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2007-257-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/257/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-257-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/257/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sull’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza da parte dell’Amministrazione federale delle dogane
+# Ordinanza sull’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza da parte dell’Ufficio federale della dogana e della sicurezza dei confini
 
-del 4 aprile 2007 (Stato 1° gennaio 2019)
+del 4 aprile 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,9 @@ ordina:
 
 **Oggetto**
 
-La presente ordinanza disciplina l’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza (apparecchi) da parte dell’Amministrazione federale delle dogane.
+La presente ordinanza disciplina l’impiego di telecamere, videoregistratori e altri apparecchi di sorveglianza (apparecchi) da parte dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^1-1].
+
+[^1-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -36,7 +38,7 @@ La presente ordinanza disciplina l’impiego di telecamere, videoregistratori e 
 
 <sup>1</sup>
 
-L’Amministrazione federale delle dogane può impiegare apparecchi che:
+L’UDSC può impiegare apparecchi che:
 
 - a. captano e registrano segnali visivi (macchine fotografiche, videoapparecchi, apparecchi ad immagine termica, apparecchi a raggi infrarossi o sensori di movimento);
 - b. captano e registrano segnali acustici (apparecchi audiovisivi o sensori sonori);
@@ -90,7 +92,7 @@ Il capo di un circondario doganale, il capo del Corpo delle guardie di confine e
 - a. l’impiego degli apparecchi;
 - b. il tipo di apparecchio da impiegare.
 
-[^6-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+[^6-1]: Nuovo testo giusta giusta l’all. n. 2 dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
 
 #### Art. 7
 
@@ -108,15 +110,15 @@ Il capo di un circondario doganale, il capo del Corpo delle guardie di confine e
 
 <sup>1</sup>
 
-L’Amministrazione federale delle dogane può mettere a disposizione le registrazioni in caso di:
+L’UDSC può mettere a disposizione le registrazioni in caso di:
 
 - a. passaggio illegale del confine da parte di persone: alle competenti autorità federali nonché a quelle cantonali competenti in materia di perseguimento penale;
 - b. pericoli per la sicurezza nel traffico transfrontaliero e di sorveglianza di depositi franchi doganali: alle competenti autorità amministrative federali o cantonali incaricate dell’esecuzione dei rispettivi disposti di natura non doganale della Confederazione nonché alle autorità federali o cantonali competenti in materia di perseguimento penale;
 - c. ricerche di persone, veicoli e oggetti: alle competenti autorità federali e cantonali nonché alle autorità federali o cantonali competenti in materia di perseguimento penale;
 - d. sorveglianza di locali in cui si trovano valori: alle competenti autorità federali nonché alle autorità federali o cantonali competenti in materia di perseguimento penale;
-- e. sorveglianza di locali in cui si trovano persone scortate al posto o fermate: alle autorità giudiziarie e amministrative federali o cantonali per la valutazione delle pretese giusta la legge del 14 marzo 1958[^8-1] sulla responsabilità e onde prevenire procedure sanzionatorie contro il personale dell’Amministrazione federale delle dogane.
+- e. sorveglianza di locali in cui si trovano persone scortate al posto o fermate: alle autorità giudiziarie e amministrative federali o cantonali per la valutazione delle pretese giusta la legge del 14 marzo 1958[^8-1] sulla responsabilità e onde prevenire procedure sanzionatorie contro il personale dell’UDSC.
 
-<sup>2</sup> L’Amministrazione federale delle dogane può comunicare o mettere a disposizione delle autorità federali o cantonali competenti in materia di perseguimento penale informazioni raccolte mediante apparecchi e registrazioni per il chiarimento di delitti e crimini (art. 112 e 114 LD).
+<sup>2</sup> L’UDSC può comunicare o mettere a disposizione delle autorità federali o cantonali competenti in materia di perseguimento penale informazioni raccolte mediante apparecchi e registrazioni per il chiarimento di delitti e crimini (art. 112 e 114 LD).
 
 [^8-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
