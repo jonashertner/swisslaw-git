@@ -4,20 +4,20 @@ number: "640.011"
 title: Standeskommissionsbeschluss zum Steuergesetz und zur Steuerverordnung
 short: StKB Steuern
 language: de
-version: 2020-01-01
-corrected: 2020-03-23
-version_adopted: 2020-03-17
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-07
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/640.011"
-pdf: "https://ai.clex.ch/api/de/versions/1718/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1974/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss zum Steuergesetz und zur Steuerverordnung
 
-vom 05.12.2000 (Stand 01.01.2020)
+vom 05.12.2000 (Stand 01.01.2022)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -27,7 +27,7 @@ beschliesst:
 
 #### Art. 1
 
-**Besteuerung nach dem Aufwand (Art. 17 StG)**
+**Eingetragene Partnerschaft**
 
 <sup>1</sup> Die Stellung eingetragener Partner[^1-1] im Sinne des Bundesgesetzes über die eingetragene Partnerschaft gleichgeschlechtlicher Paare vom 18. Juni 2004 entspricht in diesem Beschluss derjenigen von Ehegatten.
 
@@ -37,11 +37,11 @@ beschliesst:
 
 **Besteuerung nach dem Aufwand (Art. 17 StG)**
 
-<sup>1</sup> Bei der Besteuerung nach dem Aufwand werden das steuerbare Einkommen und das steuerbare Vermögen nach Massgabe des Aufwandes festgelegt.
+<sup>1</sup> …
 
 <sup>2</sup> Für die Festlegung des dem Aufwand entsprechenden steuerbaren Einkommens wird die Verordnung über die Besteuerung nach dem Aufwand bei der direkten Bundessteuer sinngemäss angewendet.
 
-<sup>3</sup> Das dem Aufwand entsprechende steuerbare Vermögen wird unter Berücksichtigung des dem Aufwand entsprechenden steuerbaren Einkommens festgelegt. Es entspricht wenigstens dem Gesamtbetrag, der sich aus den in Art. 17 Abs. 3 StG erwähnten Vermögenswerten ergibt.
+<sup>3</sup> …
 
 #### Art. 2
 
@@ -51,7 +51,7 @@ beschliesst:
 
 <sup>2</sup> Der Mietwert für das Eigenheim, das der Steuerpflichtige an seinem Wohnsitz dauernd selbst bewohnt, beträgt 70% des Mietwertes gemäss Abs. 1. Ein Unternutzungsabzug wird nicht gewährt.
 
-<sup>3</sup> Der Bruttomietwert selbstgenutzter Betriebsleiterwohnungen in Landwirtschaftsbetrieben ist nach den Bestimmungen der landwirtschaftlichen Pachtzinsgesetzgebung (LPG), bei Fehlen der entsprechenden Berechnungsgrundlagen nach den Richtlinien der Eidg. Steuerverwaltung festzulegen.
+<sup>3</sup> Der Mietwert von Betriebsleiterwohnungen landwirtschaftlicher Gewerbe bestimmt sich nach der Pachtzinsverordnung, bei Fehlen einer Pachtzinsschätzung nach anerkannter Hilfsmethode.
 
 #### Art. 3
 
@@ -79,6 +79,14 @@ beschliesst:
 <sup>5</sup> Die Ansätze nach Abs. 3 und 4 gelten auch für die Benutzung eines Autos oder Motorrads für den Weg zur nächsten Haltestelle eines öffentlichen Verkehrsmittels.
 
 <sup>6</sup> Für die Hin- und Rückfahrt über Mittag ist der Fahrkostenabzug auf die Höhe des vollen Abzugs für die auswärtige Verpflegung beschränkt.
+
+#### Art. 3bis
+
+**abis) Fahrkosten bei unentgeltlicher privater Nutzung von Geschäftsfahrzeugen**
+
+<sup>1</sup> Nutzt die steuerpflichtige Person ein Geschäftsfahrzeug unentgeltlich für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke, so kann anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung und des Fahrkostenabzugs nach Art. 3 eine pauschale Fahrkostenberechnung vorgenommen werden.
+
+<sup>2</sup> Bei der pauschalen Fahrkostenberechnung gelten 0.9% des Kaufpreises des Fahrzeugs als monatliches Einkommen aus dieser Nutzung.
 
 #### Art. 4
 
@@ -117,7 +125,7 @@ beschliesst:
 
 **e) Berufskosten während der Ausbildung (Art. 29 StG)**
 
-<sup>1</sup> Erwerbseinkünfte, Erträge aus beweglichem und unbeweglichem Vermögen sowie Einkünfte aus der Hinterlassenen- und Invalidenversicherung des Steuerpflichtigen in Ausbildung bis höchstens Fr. 12'000.-- im Jahr führen zu keinem steuerbaren Einkommen.
+<sup>1</sup> Erwerbseinkünfte, Erträge aus beweglichem und unbeweglichem Vermögen sowie Einkünfte aus der Hinterlassenen- und Invalidenversicherung des Steuerpflichtigen in Ausbildung bis höchstens Fr. 17'000.-- im Jahr führen zu keinem steuerbaren Einkommen.
 
 #### Art. 8
 
@@ -180,9 +188,11 @@ beschliesst:
 
 **Bewertung von Wertpapieren ohne Kurswert (Art. 42 Abs. 3 StG)**
 
-<sup>1</sup> Die Berechnung des inneren Werts erfolgt grundsätzlich gemäss dem Kreisschreiben Nr. 28 der Schweizerischen Steuerkonferenz vom 28. August 2008. In Fällen, in denen der Ertragswert mitberücksichtigt worden ist, wird in der Regel ein Einschlag von 20% auf das Berechnungsergebnis in Abzug gebracht. Damit wird dem allgemeinen Unternehmerrisiko in pauschaler Weise Rechnung getragen.
+<sup>1</sup> Die Berechnung des inneren Werts erfolgt grundsätzlich gemäss dem Kreisschreiben Nr. 28 der Schweizerischen Steuerkonferenz vom 28. August 2008.
 
-<sup>2</sup> Der Einschlag von 20% wird insbesondere nicht gewährt bei über mehrere Jahre ertragslosen oder privilegiert besteuerten Gesellschaften im Sinne von Art. 54 und 68 ff. StG.
+<sup>1<sup>bis</sup></sup> In Fällen, in denen der Ertragswert mitberücksichtigt worden ist, wird in der Regel ein Einschlag von 20% auf das Berechnungsergebnis in Abzug gebracht. Damit wird dem allgemeinen Unternehmerrisiko in pauschaler Weise Rechnung getragen.
+
+<sup>2</sup> Der Einschlag von 20% wird insbesondere nicht gewährt bei über mehrere Jahre ertragslosen Gesellschaften.
 
 <sup>3</sup> Der innere Wert beträgt in jedem Fall mindestens 1/3 des Substanzwertes.
 
@@ -201,11 +211,25 @@ beschliesst:
 
 <sup>2</sup> Für Grundstücke, die dem bäuerlichen Bodenrecht unterstellt sind und alle übrigen Grundstücke gilt die amtliche Verkehrswertschätzung unverändert.
 
+<sup>3</sup> Der für die jeweilige Steuerperiode anwendbare Steuerwert wird den Liegenschaftseigentümern mittels Liegenschaftsblatt jährlich im Rahmen des Steuererklärungsversands mitgeteilt.
+
 #### Art. 13
 
-**Wechsel vom Quellensteuerabzug zur ordentlichen Veranlagung (Art. 80 StG)**
+**Wechsel vom Quellensteuerabzug zur ordentlichen Veranlagung (Art. 38 Abs. 2 StV)**
 
-<sup>1</sup> Bei Erhalt der Niederlassungsbewilligung, bei Heirat oder Eintragung einer Partnerschaft mit einer Person, die das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt, unterliegt die bis dahin quellensteuerpflichtige Person der ordentlichen Veranlagung. Der Wechsel zwischen Quellensteuerabzug und ordentlicher Veranlagung erfolgt nach den für die direkte Bundessteuer geltenden Bestimmungen. Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+<sup>1</sup> Bei Erhalt der Niederlassungsbewilligung oder bei Heirat mit einer Person, die das Schweizer Bürgerrecht oder die Niederlassungsbewilligung besitzt, unterliegt die bis dahin quellensteuerpflichtige Person für die ganze Steuerperiode der ordentlichen Veranlagung.
+
+<sup>2</sup> Die Quellensteuer ist ab dem Folgemonat nach der Erteilung der Niederlassungsbewilligung oder der Heirat nicht mehr geschuldet. Die an der Quelle abgezogene Steuer wird zinslos angerechnet.
+
+#### Art. 13bis
+
+**Wechsel von der ordentlichen Veranlagung zum Quellensteuerabzug (Art. 38 Abs. 2 StV )**
+
+<sup>1</sup> Unterliegt ein Einkommen innerhalb einer Steuerperiode zunächst der ordentlichen Besteuerung und dann der Quellensteuer, so wird die steuerpflichtige Person für das gesamte Jahr und bis zum Ende der Quellensteuerpflicht nachträglich ordentlich veranlagt.
+
+<sup>2</sup> Die Scheidung sowie die tatsächliche oder rechtliche Trennung von einem Ehegatten mit Schweizer Bürgerrecht oder Niederlassungsbewilligung lösen für einen ausländischen Arbeitnehmer ohne Niederlassungsbewilligung ab Beginn des Folgemonats wieder die Besteuerung an der Quelle aus.
+
+<sup>3</sup> Allfällige Vorauszahlungen vor dem Übergang zur Quellenbesteuerung sowie an der Quelle abgezogene Steuern sind anzurechnen.
 
 #### Art. 14
 
@@ -213,62 +237,110 @@ beschliesst:
 
 <sup>1</sup> Trinkgelder und Naturalleistungen werden in der Regel nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
 
+#### Art. 14bis
+
+**Ersatzeinkünfte (Art. 81 und 85 StG)**
+
+<sup>1</sup> Der Quellensteuer unterworfen sind alle Ersatzeinkünfte aus Arbeitsverhältnissen sowie aus Kranken-, Unfall-, Invaliden- und Arbeitslosenversicherung. Insbesondere gehören dazu Taggelder, Entschädigungen, Teilrenten und an deren Stelle tretende Kapitalleistungen.
+
 #### Art. 15
 
-**Quellensteuerabzug; Tarifarten und Tarifgestaltung (Art. 82 StG)**
+**Quellensteuertarife; Tarifberechnung (Art. 82 StG)**
 
-<sup>1</sup> Der Steuerabzug an der Quelle wird nach Tarifen bemessen für:
+<sup>1</sup> Folgende Tarifcodes werden bei den nachstehend aufgeführten Personen für den Quellensteuerabzug angewendet:
 
-- a) ledige, geschiedene, gerichtlich oder tatsächlich getrennt lebende und verwitwete Steuerpflichtige, die nicht mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben;
-- b) ledige, geschiedene, gerichtlich oder tatsächlich getrennt lebende und verwitwete Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten;
-- c) in rechtlich und tatsächlich ungetrennter Ehe lebende Steuerpflichtige, bei welchen nur ein Steuerpflichtiger erwerbstätig ist;
-- d) in rechtlich und tatsächlich ungetrennter Ehe lebende Steuerpflichtige, die beide hauptberuflich erwerbstätig sind;
-- e) Steuerpflichtige mit Nebenerwerbseinkommen; bei mehreren Erwerbstätigkeiten eines Steuerpflichtigen wird die am höchsten entschädigte nach dem gemäss lit. a bis d dieser Bestimmung geltenden Tarif bemessen;
-- f) Steuerpflichtige mit Ersatzeinkünften, welche die Versicherungseinrichtung nicht nach Massgabe des versicherten Verdienstes ausrichtet oder die neben allfälligen Erwerbseinkünften ausgerichtet werden können.
+- a) Tarifcode A: bei ledigen, geschiedenen, gerichtlich oder tatsächlich getrennt lebenden und verwitweten Personen, die nicht mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben;
+- b) Tarifcode B: bei in rechtlich und tatsächlich ungetrennter Ehe lebenden Eheleuten, bei welchen nur ein Ehegatte erwerbstätig ist;
+- c) Tarifcode C: bei in rechtlich und tatsächlich ungetrennter Ehe lebenden Eheleuten, bei welchen beide Eheleute erwerbstätig sind;
+- d) Tarifcode D: bei Personen, die Leistungen nach Art. 18 Abs. 3 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946 (AHVG) erhalten;
+- e) Tarifcode E: bei Personen, die im vereinfachten Abrechnungsverfahren besteuert werden;
+- f) Tarifcode F: bei Grenzgängern nach der Vereinbarung vom 3. Oktober 1974 zwischen der Schweiz und Italien über die Besteuerung der Grenzgänger und den finanziellen Ausgleich zugunsten der italienischen Grenzgemeinden, die in einer italienischen Grenzgemeinde leben und deren Ehegatte ausserhalb der Schweiz erwerbstätig ist;
+- g) Tarifcode G: bei Ersatzeinkünften nach Art. 14<sup>bis</sup>, die nicht über die Arbeitgeber an die quellensteuerpflichtigen Personen ausbezahlt werden;
+- h) Tarifcode H: bei ledigen, geschiedenen, gerichtlich oder tatsächlich getrennt lebenden und verwitweten Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten;
+- i) Tarifcode L: bei Grenzgängern nach dem Abkommen vom 11. August 1971 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen (DBA-D), welche die Voraussetzungen für den Tarifcode A erfüllen;
+- j) Tarifcode M: bei Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode B erfüllen;
+- k) Tarifcode N: bei Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode C erfüllen;
+- l) Tarifcode P: bei Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode H erfüllen;
+- m) Tarifcode Q: bei Grenzgängern nach dem DBA-D, welche die Voraussetzungen für den Tarifcode G erfüllen.
 
-<sup>2</sup> Für den Steuerabzug massgebend sind die Verhältnisse im Zeitpunkt der Auszahlung, Überweisung, Gutschrift oder Verrechnung der steuerbaren Leistung.
+<sup>2</sup> Der anwendbare Tarifcode bestimmt sich nach den persönlichen Verhältnissen im Zeitpunkt der Fälligkeit der steuerbaren Leistung.
 
 <sup>3</sup> Die Tarife werden grundsätzlich nach den geltenden Steuersätzen, Abzügen und Sozialabzügen sowie den mutmasslich geltenden Steuerfüssen erstellt.
 
-<sup>4</sup> Die in den Tarifen nicht abgegoltenen Abzüge können nachträglich berücksichtigt werden, sofern das schriftliche Begehren mit Kostennachweis bis Ende März des auf die Fälligkeit der Leistung folgenden Kalenderjahres bei der Steuerverwaltung eingereicht wird. Zuviel bezahlte Steuern werden zinslos zurückbezahlt. Art. 147 StG gilt sinngemäss.
+<sup>4</sup> …
 
 #### Art. 16
 
-**Ergänzende ordentliche Veranlagung (Art. 84 Abs. 1 StG)**
-
-<sup>1</sup> Bei der Ermittlung der ergänzenden ordentlichen Veranlagung werden allgemeine Abzüge und Sozialabzüge nur abgerechnet, soweit sie nicht im Quellensteuertarif berücksichtigt oder auf Begehren nachträglich gewährt werden.
+**…**
 
 #### Art. 17
 
-**Künstler, Sportler, Referenten (Art. 86 Abs. 3 und 4 StG)**
-
-<sup>1</sup> Der Pauschalabzug für die mit der Veranstaltung direkt zusammenhängenden Gewinnungskosten beträgt 20% der Bruttoeinkünfte.
-
-<sup>2</sup> Naturalleistungen werden in der Regel nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
+**…**
 
 #### Art. 17bis
 
-**Empfänger von Mitarbeiterbeteiligungen**
-
-<sup>1</sup> Personen, die im Zeitpunkt des Zuflusses von geldwerten Vorteilen aus gesperrten Mitarbeiteroptionen (Art. 20<sup>bis</sup> Abs. 3 StG) im Ausland wohnhaft sind, werden für den geldwerten Vorteil anteilsmässig nach Art. 20<sup>bis</sup> Abs. 4 StG steuerpflichtig.
-
-<sup>2</sup> Die Steuer für Staat, Bezirk und Gemeinde beträgt 18 Prozent des geldwerten Vorteils.
+**…**
 
 #### Art. 17ter
 
+**…**
+
+#### Art. 17quater
+
+**Im Ausland wohnhafte Empfänger von Renten aus Vorsorge (Art. 89 StG)**
+
+<sup>1</sup> Soweit keine abweichende staatsvertragliche Regelung besteht, unterliegen die Renten von im Ausland wohnhaften Empfängern nach Art. 89 StG der Quellensteuer.
+
+<sup>2</sup> Wird die Quellensteuer nicht erhoben, weil die Besteuerung dem andern Vertragsstaat zusteht, so hat sich der Schuldner der steuerbaren Leistung den ausländischen Wohnsitz des Empfängers schriftlich bestätigen zu lassen und diesen periodisch zu überprüfen.
+
+#### Art. 17quinquies
+
+**Im Ausland wohnhafte Empfänger von Kapitalleistungen aus Vorsorge (Art. 89 StG)**
+
+<sup>1</sup> Kapitalleistungen an im Ausland wohnhafte Empfänger nach Art. 89 StG unterliegen ungeachtet staatsvertraglicher Regelungen immer der Quellensteuer.
+
+<sup>2</sup> Die erhobene Quellensteuer wird zinslos zurückerstattet, wenn der Empfänger der Kapitalleistung:
+
+- a) innerhalb von drei Jahren seit Auszahlung einen entsprechenden Antrag stellt; und
+- b) dem Antrag eine Bestätigung der zuständigen Steuerbehörde des anspruchsberechtigten Wohnsitzstaates beiliegt, wonach diese von der Kapitalleistung Kenntnis genommen hat und der Empfänger der Kapitalleistung eine im Sinne des Doppelbesteuerungsabkommens mit der Schweiz dort ansässige Person ist.
+
+#### Art. 17sexies
+
+**Bezugsminima**
+
+<sup>1</sup> Die Quellensteuer wird bei Personen nach den Art. 86–89 StG nicht erhoben, wenn die Bruttoeinkünfte unter den in Ziff. 4 des Anhangs zur Verordnung des EFD über die Quellensteuer bei der direkten Bundessteuer vom 11. April 2018 festgelegten Beträgen liegen.
+
+#### Art. 17septies
+
 **Meldepflicht der Arbeitgeber (Art. 92 Abs. 1 StG)**
 
-<sup>1</sup> Arbeitgeber haben die Beschäftigung von Personen, die nach Art. 80 und 85 StG quellensteuerpflichtig sind, der zuständigen Bezugsbehörde innert acht Tagen ab Stellenantritt mittels dem hierfür vorgesehenen Formular zu melden
+<sup>1</sup> Arbeitgeber haben die Beschäftigung von Personen, die nach Art. 80 oder 85 StG quellensteuerpflichtig sind, der zuständigen Steuerbehörde innert acht Tagen ab Stellenantritt mittels dem hierfür vorgesehenen Formular zu melden.
+
+<sup>2</sup> Übermittelt der Arbeitgeber die Quellensteuerabrechnung elektronisch, so kann er Neuanstellungen mittels monatlicher Abrechnung melden.
+
+<sup>3</sup> Arbeitnehmer müssen dem Arbeitgeber Änderungen von Sachverhalten melden, die für die Erhebung der Quellensteuer massgebend sind. Der Arbeitgeber meldet die Änderungen innerhalb der Fristen nach Abs. 1 und 2 der zuständigen Steuerbehörde.
+
+#### Art. 17octies
+
+**Ordentliche Veranlagung bei Vergütungen aus dem Ausland**
+
+<sup>1</sup> Erhält eine steuerpflichtige Person die Vergütungen von einem nicht in der Schweiz ansässigen Schuldner der steuerbaren Leistung, so wird sie im ordentlichen Verfahren veranlagt.
+
+<sup>2</sup> Sie wird jedoch in der Schweiz an der Quelle besteuert, wenn:
+
+- a) die Vergütung der Leistung von einer in der Schweiz gelegenen Betriebsstätte oder festen Einrichtung des Arbeitgebers getragen wird;
+- b) eine Arbeitnehmerentsendung unter verbundenen Gesellschaften vorliegt und die Gesellschaft mit Sitz in der Schweiz als faktischer Arbeitgeber zu qualifizieren ist; oder
+- c) ein ausländischer Personalverleiher im Widerspruch zu Art. 12 Abs. 2 des Arbeitsvermittlungsgesetzes vom 6. Oktober 1989 Personal an einen Einsatzbetrieb in der Schweiz verleiht und die Vergütung der Leistung von diesem Einsatzbetrieb getragen wird.
 
 #### Art. 18
 
 **Bezugsprovision (Art. 92 Abs. 3 StG)**
 
-<sup>1</sup> Der Schuldner der steuerbaren Leistung erhält für seine Mitwirkung eine Bezugsprovision von 3% des abgelieferten Steuerbetrags.
+<sup>1</sup> Der Schuldner der steuerbaren Leistung erhält für seine Mitwirkung eine Bezugsprovision von 2% des gesamten Steuerbetrags. Art. 92 Abs. 3<sup>bis</sup> Satz 2 und Abs. 3<sup>ter</sup> StG bleiben vorbehalten.
 
 #### Art. 19
 
-**Anlagekosten (Art. 107 StG)**
+**Anlagekosten (Art. 107 f. StG)**
 
 <sup>1</sup> Bei Liegenschaften, die früher aus dem Geschäfts- in das Privatvermögen überführt worden sind, ist der Überführungswert gemäss Art. 7 StV zuzüglich die späteren wertvermehrenden Aufwendungen als Anlagekosten anrechenbar.
 
@@ -310,7 +382,7 @@ beschliesst:
 
 **Nachsteuerzins (Art. 153 StG)**
 
-<sup>1</sup> Auf der Nachsteuer werden ab Fälligkeitstermin der nicht erhobenen Steuern Ausgleichszinsen geschuldet.
+<sup>1</sup> Auf der Nachsteuer werden ab Fälligkeitstermin (Art. 53 StV) der nicht erhobenen Steuern Verzugszinsen geschuldet.
 
 #### Art. 24
 
