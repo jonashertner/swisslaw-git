@@ -4,13 +4,12 @@ number: "921.12"
 title: Allgemeine Landwirtschaftsverordnung
 short: ALV
 language: de
-version: 2006-01-01
-valid_until: 2021-12-31
-version_adopted: 2005-11-15
+version: 2022-01-01
+version_adopted: 2021-09-21
 adopted: 1996-01-23
 in_force: 1996-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/921.12"
-pdf: "https://bgs.so.ch/api/de/versions/3325/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5144/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/3325/pdf_file"
 
 (ALV)
 
-Vom 23.01.1996 (Stand 01.01.2006)
+Vom 23.01.1996 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -469,11 +468,21 @@ beschliesst:
 
 <sup>1</sup> Gesuche um Beiträge, Bewilligungen und Anerkennungen sind dem Amt einzureichen und haben alle notwendigen Angaben zu enthalten.
 
+#### § 48bis
+
+**Agrarinformationssystem**
+
+<sup>1</sup> Der Kanton betreibt ein Agrarinformationssystem, namentlich für den Vollzug der agrarpolitischen Massnahmen und für die Aufgaben des Veterinärdienstes.
+
+<sup>2</sup> Das Agrarinformationssystem enthält die für die Aufgabenerfüllung notwendigen Betriebs-, Struktur-, Beitrags- und Kontrolldaten.
+
+<sup>3</sup> Der Geschäftsverkehr erfolgt grundsätzlich über das Agrarinformationssystem, sofern das Amt keine handschriftlich unterzeichneten Unterlagen verlangt.
+
 #### § 49
 
 **Beitragsberechtigung, Beitragsermittlung und Auszahlung**
 
-<sup>1</sup> Die Beitragsberechtigung und die ermittelten Beiträge werden den Gesuchstellern und Gesuchstellerinnen durch das Amt mitgeteilt.
+<sup>1</sup> Die Beitragsberechtigung und die ermittelten Beiträge werden den Gesuchstellern und Gesuchstellerinnen durch das Amt im Agrarinformationssystem mitgeteilt.
 
 <sup>2</sup> Bei Differenzen kann vom Departement eine Verfügung verlangt werden. Diese ist kostenpflichtig.
 
@@ -487,9 +496,13 @@ beschliesst:
 
 #### § 51
 
-**Koordination**
+**Datenweitergabe**
 
-<sup>1</sup> Zwecks Koordination dürfen Betriebsdaten innerhalb der kantonalen Verwaltung auch für andere Massnahmen in der Landwirtschaft und verwandten Gebieten weiterverwendet werden.
+<sup>1</sup> Das Amt kann die im Agrarinformationssystem enthaltenen Betriebs-, Struktur-, Beitrags- und Kontrolldaten für folgende Behörden und Personen elektronisch abrufbar machen oder an sie weitergeben:
+
+- a) kantonale Vollzugsbehörden, soweit sie die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen;
+- b) Dritte, die mit Vollzugsaufgaben betraut sind, soweit sie die Daten zur Erfüllung der ihnen übertragenen Aufgaben benötigen;
+- c) Dritte, die über eine Ermächtigung derjenigen Person verfügen, deren Daten betroffen sind, im Umfang, in dem die Ermächtigung erteilt wurde.
 
 #### § 52
 
