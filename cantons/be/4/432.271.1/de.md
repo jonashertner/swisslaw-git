@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "432.271.1"
-title: Verordnung über die besonderen Massnahmen in der Volksschule
-short: BMV
+title: Verordnung über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot
+short: VMR
 language: de
-version: 2020-03-01
-valid_until: 2021-12-31
-version_adopted: 2020-01-29
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-10
 adopted: 2007-09-19
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1817/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die besonderen Massnahmen in der Volksschule
+# Verordnung über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot
 
-(BMV)
+(VMR)
 
-vom 19.09.2007 (Stand 01.03.2020)
+vom 19.09.2007 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -37,32 +37,41 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die besonderen Massnahmen im Kindergarten und in der Volksschule, die Schülerinnen und Schülern den Besuch der ordentlichen Bildungsgänge ermöglichen sollen, die Zuweisungsverfahren und die Finanzierung.
+<sup>1</sup> Diese Verordnung regelt
 
-<sup>2</sup> Die Angebote der Sonderschulung sowie die heilpädagogische Früherziehung sind nicht Gegenstand dieser Verordnung.
+- a die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot,
+- b die Zuweisung und
+- c die Finanzierung.
+
+<sup>2</sup> …
 
 #### Art. 2
 
-**Besondere Massnahmen**
+**Einfache sonderpädagogische und unterstützende Massnahmen**
 
-<sup>1</sup> Besondere Massnahmen sind
+<sup>1</sup> Einfache sonderpädagogische Massnahmen sind
 
 - a Massnahmen zur besonderen Förderung von Schülerinnen und Schülern,
 - b Spezialunterricht,
 - c besondere Klassen und
 - d Co-Teaching.
 
-<sup>2</sup> Sie berücksichtigen die schulischen, persönlichen und familiären Verhältnisse sowie die individuellen Möglichkeiten und Besonderheiten der Schülerinnen und Schüler.
+<sup>1a</sup> Unterstützende Massnahmen sind
+
+- a Angebote für Schülerinnen und Schüler mit Unterstützungsbedarf in der sprachlichen oder kulturellen Integration (Integration Fremdsprachiger),
+- b Angebote zur Förderung von ausserordentlich begabten Schülerinnen und Schülern (Begabtenförderung).
+
+<sup>2</sup> Die einfachen sonderpädagogischen und unterstützenden Massnahmen berücksichtigen die schulischen, persönlichen und familiären Verhältnisse sowie die individuellen Möglichkeiten und Besonderheiten der Schülerinnen und Schüler.
 
 <sup>3</sup> Sie sind individuell angepasst, gendergerecht, zeitlich definiert, koordiniert und in verschiedenen Lehr- und Lernformen einzusetzen.
 
-<sup>4</sup> Sie gehören zum schulischen Grundangebot einer Gemeinde.
+<sup>4</sup> …
 
 #### Art. 3
 
 **Integration**
 
-<sup>1</sup> Schülerinnen und Schüler, die besonderer Massnahmen bedürfen, besuchen in der Regel die Regelklasse.
+<sup>1</sup> Schülerinnen und Schüler, die einfache sonderpädagogische und unterstützende Massnahmen bedürfen, besuchen in der Regel die Regelklasse.
 
 <sup>2</sup> Schülerinnen und Schüler, die nicht in Regelklassen geschult werden, besuchen ganz oder teilweise eine besondere Klasse.
 
@@ -70,11 +79,11 @@ beschliesst:
 
 **Modell, Konzept**
 
-<sup>1</sup> Die besonderen Massnahmen können mit oder ohne Führen besonderer Klassen gemäss den beiden Modellen in Anhang 1 umgesetzt werden.
+<sup>1</sup> Die einfachen sonderpädagogischen und unterstützenden Massnahmen können mit oder ohne Führen besonderer Klassen umgesetzt werden.
 
-<sup>2</sup> Die Gemeinden bestimmen mit Erlass das Modell und das Konzept.
+<sup>2</sup> Die Gemeinden bestimmen durch Erlass das Modell und das Konzept.
 
-## 2 Besondere Massnahmen
+## 2 Einfache sonderpädagogische Massnahmen
 
 ### 2.1 Massnahmen zur besonderen Förderung
 
@@ -82,20 +91,17 @@ beschliesst:
 
 <sup>1</sup> Massnahmen zur besonderen Förderung unterstützen die individualisierende und differenzierende Schulung.
 
-<sup>2</sup> Massnahmen zur besonderen Förderung sind:
+<sup>2</sup> Massnahmen zur besonderen Förderung sind
 
 - a Anordnen oder Vereinbaren erweiterter oder reduzierter individueller Lernziele,
-- b Unterstützung des vollständigen oder teilweisen Besuchs der Volksschule durch Sonderschülerinnen und Sonderschüler mit einer Intelligenzminderung (integrative Sonderschulung im Sinne von Artikel 15 ff. Verordnung vom 8. Mai 2013 über die sonderpädagogischen Massnahmen (Sonderpädagogikverordnung, SPMV[^5-1]),
-- c Angebote für Schülerinnen und Schüler mit Problemen bei der sprachlichen oder kulturellen Integration (Integration Fremdsprachiger),
-- d zweijährige Einschulung in der Regelklasse für Schülerinnen und Schüler mit deutlicher partieller Entwicklungsverzögerung (zweijährige Einschulung),
-- e Angebote zur Förderung von ausserordentlich begabten Schülerinnen und Schülern (Begabtenförderung),
+- b–c …
+- d zweijährige Einschulung in der Regelklasse für Schülerinnen und Schüler mit deutlicher partieller Entwicklungsverzögerung beim Eintritt in die Primarstufe (zweijährige Einschulung),
+- e …
 - f Rhythmik als fakultatives Gruppenangebot.
 
 <sup>3</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
 <sup>4</sup> …
-
-[^5-1]: BSG 432.281
 
 ### 2.2 Spezialunterricht
 
@@ -110,8 +116,8 @@ beschliesst:
 <sup>3</sup> Er umfasst folgende Fachbereiche:
 
 - a Integrative Förderung,
-- b Logopädie,
-- c Psychomotorik.
+- b Psychomotorik,
+- c Logopädie.
 
 <sup>4</sup> Kurzinterventionen sind
 
@@ -125,6 +131,19 @@ beschliesst:
 **Durchführung**
 
 <sup>1</sup> Spezialunterricht nach Artikel 6 Absatz 3 wird in der Regel innerhalb der Klasse oder als Gruppenunterricht in der Regel während der ordentlichen Unterrichtszeit und in begründeten Ausnahmefällen als Einzelunterricht erteilt.
+
+#### Art. 7a
+
+**Durchführung Logopädie an einer ausserschulischen Stelle**
+
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung kann eine ausserschulische Durchführungsstelle für Logopädie bewilligen.
+
+<sup>2</sup> Die Bewilligung wird erteilt, wenn
+
+- a die Schülerin oder der Schüler vor Eintritt in den Kindergarten logopädische Therapie erhalten hat und
+- b wichtige Gründe vorliegen, insbesondere wenn das Kind einen erhöhten Bedarf an Stabilität und Kontinuität hat.
+
+<sup>3</sup> Sie wird längstens bis zum vollendeten ersten Schuljahr auf der Primarstufe der Schülerin oder des Schülers erteilt.
 
 ### 2.3 Besondere Klassen
 
@@ -153,11 +172,11 @@ beschliesst:
 
 **Einschulungsklassen**
 
-<sup>1</sup> Schülerinnen und Schüler mit deutlicher partieller Entwicklungsverzögerung können in Einschulungsklassen unterrichtet werden.
+<sup>1</sup> Schülerinnen und Schüler mit deutlicher partieller Entwicklungsverzögerung können beim Eintritt in die Primarstufe in Einschulungsklassen unterrichtet werden.
 
 <sup>2</sup> Eine Zuweisung darf nur dann erfolgen, wenn dadurch die soziale Eingliederung am Aufenthaltsort nicht beeinträchtigt wird.
 
-<sup>3</sup> In Einschulungsklassen wird das Pensum des ersten Schuljahres auf zwei Jahre verteilt.
+<sup>3</sup> In Einschulungsklassen wird das Pensum des ersten Schuljahres der Primarstufe auf zwei Jahre verteilt.
 
 <sup>4</sup> …
 
@@ -187,6 +206,14 @@ beschliesst:
 
 <sup>2</sup> Es kann in begründeten Fällen von zwei Regellehrkräften durchgeführt werden, wenn die heilpädagogische Fachlichkeit in anderer Weise sichergestellt werden kann.
 
+## 2a Unterstützende Massnahmen
+
+#### Art. 10d
+
+<sup>1</sup> Die unterstützenden Massnahmen dienen der individualisierenden und differenzierenden Schulung.
+
+<sup>2</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
+
 ## 3 Zuweisung
 
 #### Art. 11
@@ -196,57 +223,55 @@ beschliesst:
 <sup>1</sup> Die Schulleitung verfügt im Einverständnis mit der gesetzlichen Vertretung der Schülerin oder des Schülers
 
 - a auf Antrag der Klassenlehrkraft individuelle Lernziele in höchstens zwei Fächern,
-- b gestützt auf einen Bericht mit Antrag der kantonalen Erziehungsberatung oder des Kinder- und Jugendpsychiatrischen Dienstes individuelle Lernziele in mehr als zwei Fächern.
+- b gestützt auf einen Bericht mit Antrag der kantonalen Erziehungsberatung individuelle Lernziele in mehr als zwei Fächern.
 
 <sup>2</sup> Sie verfügt auf Antrag der Lehrkräfte
 
-- a die Massnahmen zur Integration Fremdsprachiger (Art. 5 Abs. 2 Bst. c),
+- a die Massnahmen zur Integration Fremdsprachiger (Art. 2 Abs. 1a Bst. a),
 - b den Besuch der Rhythmik (Art. 5 Abs. 2 Bst. f),
-- c die Zuweisung von Schülerinnen und Schülern mit leichten Lern- oder Entwicklungsauffälligkeiten zum Spezialunterricht für die Dauer von höchstens vier Semestern (Art. 6 Abs. 3).
+- c die Zuweisung von Schülerinnen und Schülern zum Spezialunterricht (Art. 6 Abs. 3) für die Dauer von höchstens vier Semestern.
 
-<sup>3</sup> Sie verfügt auf Antrag der kantonalen Erziehungsberatung oder des Kinder- und Jugendpsychiatrischen Dienstes und auf Bericht einer Abklärungsstelle hin
+<sup>3</sup> Sie verfügt auf Antrag der kantonalen Erziehungsberatung und auf Bericht einer Abklärungsstelle hin
 
 - a die zweijährige Einschulung (Art. 5 Abs. 2 Bst. d),
-- b die Begabtenförderung (Art. 5 Abs. 2 Bst. e),
-- c die Zuweisung von Schülerinnen und Schülern mit schweren oder komplexen Lern- oder Entwicklungsstörungen zum Spezialunterricht (Art. 6 Abs. 3),
+- b die Begabtenförderung (Art. 2 Abs. 1a Bst. b),
+- c die Zuweisung von Schülerinnen und Schülern zum Spezialunterricht (Art. 6 Abs. 3) für die Dauer von mehr als vier Semestern,
 - d die Zuweisung zu besonderen Klassen und die Rückführung in die Regelklassen.
 
 <sup>4</sup> Kurzinterventionen (Art. 6 Abs. 4 und 5) und Co-Teaching (Art. 10a bis 10c) erfolgen ohne formales Zuweisungsverfahren.
 
 <sup>5</sup> Die Bildungs- und Kulturdirektion bezeichnet die Abklärungsstellen.
 
-<sup>6</sup> Das Schulinspektorat verfügt die integrative Sonderschulung im Sinne von Artikel 15 ff. SPMV (Art. 5 Abs. 2 Bst. b), wenn
-
-- a ein Abklärungsbericht und ein Antrag der kantonalen Erziehungsberatung, des Kinder- und Jugendpsychiatrischen Dienstes oder einer anderen geeigneten Fachstelle vorliegen,
-- b die zuständige Schulleitung zustimmt und
-- c die heilpädagogische Unterstützung sichergestellt ist.
+<sup>6</sup> …
 
 #### Art. 12
 
 **Weigerung der gesetzlichen Vertretung**
 
-<sup>1</sup> Liegt kein Einverständnis der gesetzlichen Vertretung für eine Beurteilung der Schülerin oder des Schülers durch die kantonale Erziehungsberatung, den Kinder- und Jugendpsychiatrischen Dienst oder einer Abklärungsstelle vor, kann die Schulleitung besondere Massnahmen anordnen.
+<sup>1</sup> Liegt kein Einverständnis der gesetzlichen Vertretung für eine Beurteilung der Schülerin oder des Schülers durch die kantonale Erziehungsberatung oder einer Abklärungsstelle vor, kann die Schulleitung einfache sonderpädagogische und unterstützende Massnahmen anordnen.
 
 ## 4 Finanzierung
 
 #### Art. 13
 
-**Unentgeltlichkeit**
+**Verteilung der finanziellen Mittel**
 
-<sup>1</sup> Die besonderen Massnahmen sind für die Schülerinnen und Schüler unentgeltlich.
+<sup>1</sup> Die im Voranschlag zur Verfügung gestellten finanziellen Mittel für die einfachen sonderpädagogischen und unterstützenden Massnahmen werden den Gemeinden zugeteilt. Vorbehalten bleiben Mittel, die notwendig sind, um einen besonderen Bedarf situativ zu decken.
+
+<sup>2</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
 #### Art. 14
 
 **Lektionenpool**
 
-<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung teilt den Gemeinden, die Träger der Volksschule sind (Art. 5 Abs. 3 VSG), die finanziellen Mittel für die besonderen Massnahmen in Form eines Lektionenpools zu
+<sup>1</sup> Das Amt für Kindergarten, Volksschule und Beratung teilt den Gemeinden, die Träger der Volksschule sind (Art. 5 Abs. 3 VSG), die finanziellen Mittel in Form eines Lektionenpools zu
 
-- a für die Begabtenförderung (Art. 5 Abs. 2 Bst. e),
-- b für die übrigen besonderen Massnahmen (Art. 5 Abs. 2 Bst. a sowie c bis f, Art. 6, Art. 8 und Art. 10a).
+- a für die Begabtenförderung (Art. 2 Abs. 1a Bst. b),
+- b für die einfachen sonderpädagogischen Massnahmen (Art. 5 Abs. 2, Art. 6 unter Vorbehalt von Art. 7a, Art. 8 und Art. 10a) und die Integration Fremdsprachiger (Art. 2 Abs. 1a Bst. a).
 
 <sup>2</sup> Die Berechnung des Lektionenpools (Sollwert) erfolgt nach den Formeln A und D in Anhang 2.
 
-<sup>3</sup> Mit dem Lektionenpool sind die Aufgaben gemäss Artikel 5 bis 10a, ausgenommen Artikel 5 Absatz 2 Buchstabe b, zu erfüllen.
+<sup>3</sup> Mit dem Lektionenpool sind die Aufgaben gemäss Artikel 5 bis 10a sowie 10d zu erfüllen.
 
 <sup>4</sup> Das Amt für Kindergarten, Volksschule und Beratung überprüft die Höhe der zugeteilten Mittel periodisch und nimmt die erforderlichen Anpassungen vor.
 
@@ -263,9 +288,9 @@ beschliesst:
 
 #### Art. 16
 
-**Lektionenpool für die übrigen besonderen Massnahmen**
+**Lektionenpool für die einfachen sonderpädagogischen Massnahmen und die Integration Fremdsprachiger**
 
-<sup>1</sup> Massgebend für die Berechnung des Lektionenpools für die übrigen besonderen Massnahmen (Art. 14 Abs. 1 Bst. b) sind
+<sup>1</sup> Massgebend für die Berechnung des Lektionenpools für die einfachen sonderpädagogischen Massnahmen und die Integration Fremdsprachiger (Art. 14 Abs. 1 Bst. b) sind
 
 - a die im Voranschlag zur Verfügung gestellten Mittel,
 - b die Anzahl aller Kinder und Schülerinnen und Schüler, die den öffentlichen Kindergarten oder die öffentliche Schule besuchen,
@@ -274,9 +299,9 @@ beschliesst:
 
 <sup>2</sup> Der Schulsozialindex wird gemäss dem in Anhang 3 beschriebenen 4-Indikatoren-Modell berechnet.
 
-<sup>3</sup> Der Faktor Klassengrösse wird mittels der in Anhang 2 wiedergegebenen Formel C1 berechnet.
+<sup>3</sup> Der Faktor Klassengrösse wird durch die in Anhang 2 wiedergegebenen Formel C1 berechnet.
 
-<sup>4</sup> Die Berechnung des Lektionenpools für die übrigen besonderen Massnahmen erfolgt gemäss der in Anhang 2 wiedergegebenen Formel C.
+<sup>4</sup> Die Berechnung des Lektionenpools für die einfachen sonderpädagogischen Massnahmen und die Integration Fremdsprachiger erfolgt gemäss der in Anhang 2 wiedergegebenen Formel C.
 
 <sup>5</sup> Das Amt für Kindergarten, Volksschule und Beratung kann die zugeteilten Mittel anpassen, wenn der Sollwert um mehr als zehn Prozent überschritten oder um mehr als fünf Prozent unterschritten wird.
 
@@ -290,11 +315,7 @@ beschliesst:
 
 #### Art. 18
 
-**Lektionen für die Integration von Schülerinnen und Schülern mit einer Behinderung**
-
-<sup>1</sup> Die Zuteilung der Lektionen für die integrative Sonderschulung gemäss Artikel 15 ff. SPMV (Art. 5 Abs. 2 Bst. b) erfolgt im Rahmen der im Voranschlag zur Verfügung gestellten Mittel.
-
-<sup>2</sup> Das Amt für Kindergarten, Volksschule und Beratung verwaltet die Lektionen zentral.
+**…**
 
 #### Art. 19
 
@@ -364,6 +385,12 @@ beschliesst:
 #### Art. T1-1
 
 <sup>1</sup> Die Zuweisung von Schülerinnen und Schülern zum Spezialunterricht erfolgt gemäss den Bestimmungen dieser Änderung erstmals auf den 1. Oktober 2013.
+
+## T2 Übergangsbestimmung der Änderung vom 10.11.2021
+
+#### Art. T2-1
+
+<sup>1</sup> In den ersten drei Jahren nach Inkrafttreten dieser Änderung kann das Amt für Kindergarten, Volksschule und Beratung Kostengutsprachen für die Infrastruktur an die Durchführungsstelle für Logopädie gewähren.
 
 Bern, 19. September 2007
 
