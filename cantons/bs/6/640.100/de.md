@@ -4,13 +4,13 @@ number: "640.100"
 title: Gesetz über die direkten Steuern
 short: "Steuergesetz, StG"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-22
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-07
 adopted: 2000-04-12
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5254/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5410/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Steuergesetz | Allgemeine Steuern
 
 (Steuergesetz, StG)
 
-Vom 12. April 2000 (Stand 1. Januar 2021)
+Vom 12. April 2000 (Stand 1. Januar 2022)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -470,9 +470,20 @@ beschliesst:
 - d) die eingetretenen und verbuchten Verluste auf Geschäftsvermögen;
 - e) die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - f) Zinsen auf Geschäftsschulden sowie Zinsen, die auf Beteiligungen nach § 19 Abs. 2 entfallen;
-- g) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- g) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- h) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>3</sup> Nicht abziehbar sind Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>3</sup> Nicht abziehbar sind insbesondere:
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen und Geldstrafen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>4</sup> Sind Sanktionen nach Abs. 3 lit. c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 29
 
@@ -667,7 +678,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 <sup>2</sup> Mehrere Kapitalleistungen, die in der gleichen Steuerperiode ausgerichtet werden, werden zusammengerechnet. Die allgemeinen Abzüge und die Sozialabzüge werden nicht gewährt.
 
-<sup>3</sup> Kapitalleistungen nach § 23 Abs. 1 und 2, die nicht an den Vorsorgenehmer oder die Vorsorgenehmerin, den überlebenden Ehegatten, an die direkten Nachkommen oder an Personen, für deren Unterhalt die verstorbene Person zur Hauptsache aufkam, ausgerichtet werden, werden getrennt vom übrigen Einkommen nach § 36 besteuert.
+<sup>3</sup> …
 
 ### (1. Teil/2. Abschn./B.) VI. Zeitliche Grundlagen
 
@@ -924,7 +935,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 62
 
-<sup>1</sup> Juristische Personen, die nur für einen Teil ihres Gewinns und Kapitals im Kanton steuerpflichtig sind, entrichten die Steuern für die im Kanton steuerbaren Werte nach dem Steuersatz, der ihrem gesamten Gewinn und Kapital entspricht.
+<sup>1</sup> …
 
 ### (1. Teil/3. Abschn./A.) III. Beginn und Ende der Steuerpflicht
 
@@ -1070,16 +1081,27 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören auch:
 
-- a) die Steuern, nicht aber Steuerbussen;
+- a) die eidgenössischen, kantonalen und kommunalen Steuern;
 - b) die Zuwendungen an Vorsorgeeinrichtungen zugunsten des eigenen Personals, sofern jede zweckwidrige Verwendung ausgeschlossen ist;
 - c) die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des Reingewinns an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (§ 66 lit. f), sowie an Bund, Kantone, Gemeinden und deren Anstalten (§ 66 lit. a und b); der Regierungsrat kann im Einzelfall Zuwendungen, welche 20 Prozent des Reingewinns übersteigen, als abziehbar erklären;
 - d) die Rabatte, Skonti, Umsatzbonifikationen und Rückvergütungen auf dem Entgelt für Lieferungen und Leistungen sowie zur Verteilung an die Versicherten bestimmte Überschüsse von Versicherungsgesellschaften;
 - e) die geschäftsmässig begründeten buchmässig oder in besonderen Abschreibungstabellen ausgewiesenen Abschreibungen;
 - f) die geschäftsmässig begründeten und verbuchten Rückstellungen und Wertberichtigungen für im Geschäftsjahr bestehende Verpflichtungen, deren Höhe noch unbestimmt ist, für Verlustrisiken, die mit Aktiven des Umlaufvermögens, insbesondere mit Waren und Debitoren, verbunden sind, und für andere unmittelbar drohende Verlustrisiken, die im Geschäftsjahr bestehen;
 - g) die Rücklagen für künftige Forschungs- und Entwicklungsaufträge an Dritte bis zu 10 Prozent des steuerbaren Geschäftsertrages, insgesamt jedoch höchstens bis zu fünf Millionen Franken;
-- h) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals.
+- h) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, des eigenen Personals;
+- i) gewinnabschöpfende Sanktionen, soweit sie keinen Strafzweck haben.
 
-<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts an schweizerische oder fremde Amtsträger.
+<sup>2</sup> Nicht zum geschäftsmässig begründeten Aufwand gehören insbesondere:
+
+- a) Zahlungen von Bestechungsgeldern im Sinne des schweizerischen Strafrechts;
+- b) Aufwendungen zur Ermöglichung von Straftaten oder als Gegenleistung für die Begehung von Straftaten;
+- c) Bussen;
+- d) finanzielle Verwaltungssanktionen, soweit sie einen Strafzweck haben.
+
+<sup>3</sup> Sind Sanktionen nach Abs. 2 lit. c und d von einer ausländischen Straf- oder Verwaltungsbehörde verhängt worden, so sind sie abziehbar, wenn:
+
+- a) die Sanktion gegen den schweizerischen Ordre public verstösst oder
+- b) die steuerpflichtige Person glaubhaft darlegt, dass sie alles Zumutbare unternommen hat, um sich rechtskonform zu verhalten.
 
 #### § 70a
 
@@ -1917,7 +1939,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 <sup>2</sup> Gegenstand der Kapitaltaxe ist das auf diese Betriebsstätten entfallende Eigenkapital. Dieses wird in sinngemässer Anwendung der Grundsätze des Bundessrechts über das Verbot der interkantonalen Doppelbesteuerung ausgeschieden.
 
-<sup>3</sup> Als Eigenkapital steuerbar ist das Eigenkapital im Sinne von § 85 für die Kapitalgesellschaften und Genossenschaften, das Eigenkapital im Sinne von § 86 für die übrigen juristischen Personen und das Reinvermögen gemäss Jahresrechnung für die Personenunternehmen (Einzelunternehmen, Personengesellschaften).
+<sup>3</sup> Als Eigenkapital steuerbar ist das Eigenkapital im Sinne von § 85 Abs. 1, 2 und 4 für die Kapitalgesellschaften und Genossenschaften, das Eigenkapital im Sinne von § 86 Abs. 1 und 2 für die übrigen juristischen Personen und das Reinvermögen gemäss Jahresrechnung für die Personenunternehmen (Einzelunternehmen, Personengesellschaften).
 
 <sup>4</sup> Die Kapitaltaxe beträgt 1 Prozent des steuerbaren Eigenkapitals.
 
@@ -2165,7 +2187,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 <sup>2</sup> Sie muss auf Verlangen der Steuerverwaltung insbesondere mündlich oder schriftlich Auskunft erteilen, Geschäftsbücher, Belege und weitere Bescheinigungen sowie Urkunden über den Geschäftsverkehr vorlegen.
 
-<sup>3</sup> Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juristische Personen müssen Geschäftsbücher und Aufstellungen nach § 152 Abs. 2 und sonstige Belege, die mit ihrer Tätigkeit in Zusammenhang stehen, während zehn Jahren aufbewahren. Die Art und Weise der Führung, der Aufbewahrung und der Edition richtet sich nach den Bestimmungen des Schweizerischen Obligationenrechts (Art. 957 und 963 Abs. 2).
+<sup>3</sup> Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juristische Personen müssen Geschäftsbücher und Aufstellungen nach § 152 Abs. 2 und sonstige Belege, die mit ihrer Tätigkeit in Zusammenhang stehen, während zehn Jahren aufbewahren. Die Art und Weise der Führung, der Aufbewahrung und der Edition richtet sich nach den Bestimmungen des Schweizerischen Obligationenrechts (OR) vom 30. März 1911 (Art. 957 - 958 f).
 
 ### (2. Teil/2. Abschn./B./II.) 3. Deklaration von Zuwendungen
 
@@ -2789,7 +2811,7 @@ Wird die Begründung innert Frist verlangt, beginnt die Rekurszeit mit der Zuste
 
 <sup>3</sup> Rückerstattungsansprüche können mit fälligen Steuerforderungen verrechnet werden.
 
-<sup>4</sup> Die Rückerstattung an in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten erfolgt an beide Ehegatten gemeinsam; jedoch kann jeder Ehegatte getrennte Rückerstattung im Verhältnis zu seinem Anteil an der Gesamtsteuer verlangen. Die Rückerstattung von Steuern an geschiedene und an rechtlich oder tatsächlich getrenntlebende Ehegatten, die von ihnen noch gemeinsam erhoben wurden, erfolgt nach Massgabe der von ihnen einvernehmlich beantragten Aufteilung; kommt keine einvernehmliche Aufteilung zustande, erfolgt die Rückerstattung im Verhältnis der Anteile an der Gesamtsteuer.
+<sup>4</sup> Die Rückerstattung an in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten erfolgt an beide Ehegatten gemeinsam; jedoch kann jeder Ehegatte getrennte Rückerstattung des hälftigen Anteils verlangen. Die Rückerstattung von Steuern an geschiedene und an rechtlich oder tatsächlich getrenntlebende Ehegatten, die von ihnen noch gemeinsam erhoben wurden, erfolgt nach Massgabe der von ihnen einvernehmlich beantragten Aufteilung; kommt keine einvernehmliche Aufteilung zustande, erfolgt die Rückerstattung durch eine hälftige Aufteilung.
 
 ### (2. Teil/3. Abschn.) 10. Steuersicherung
 
