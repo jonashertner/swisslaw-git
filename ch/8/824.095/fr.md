@@ -3,18 +3,18 @@ sr: "824.095"
 title: "Ordonnance du 20 août 2014 sur le système d'information du service civil"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-482-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-482-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le système d’information du service civil
 
-du 20 août 2014 (Etat le 1<sup>er</sup> avril 2021)
+du 20 août 2014 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -276,7 +276,7 @@ Annexe*[^t-1]*
 
 ## Données personnelles figurant dans le système d’information automatisé du service civil: utilisateurs, accès et droits de consultation et de traitement
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 15 nov. 2017 ([RO 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)). Mise à jour par l’annexe ch. II 34 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### A Utilisateurs, codes et accès au système de gestion et au système clients
 
@@ -318,7 +318,7 @@ Annexe*[^t-1]*
 <tr><td>4. Date de naissance</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>5. Lieu d’origine</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>6. Canton d’origine</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>7. Numéro d’assuré AVS</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>7. Numéro AVS</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="37">1.2 Inscription et saisie de la demande</td></tr>
 <tr><td>8. Nom</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>9. Prénom</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -326,7 +326,7 @@ Annexe*[^t-1]*
 <tr><td>11. Date de naissance</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>12. Lieu d’origine</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>13. Canton d’origine</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>14. Numéro d’assuré AVS</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>14. Numéro AVS</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="36">1.3 Données personnelles concernant la personne astreinte au service civil</td></tr>
 <tr><td>15. Numéro de système de la personne demandant à être admise au service civil ou de la personne astreinte au service civil</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>16. Nom</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
@@ -335,8 +335,8 @@ Annexe*[^t-1]*
 <tr><td>19. Date de naissance</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>20. Lieu d’origine</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>21. Canton d’origine</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>22. Ancien numéro d’assuré AVS</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>23. Nouveau numéro d’assuré AVS</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>22. Ancien numéro AVS</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>23. Nouveau numéro AVS</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>24. Activités professionnelles</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>25. Champ destiné aux coordonnées</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3"></td><td colspan="3">B</td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td>26. Langue de correspondance</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>

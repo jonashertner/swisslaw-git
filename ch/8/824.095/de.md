@@ -3,18 +3,18 @@ sr: "824.095"
 title: Verordnung vom 20. August 2014 über das Informationssystem des Zivildienstes
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/482"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2014-08-20
 in_force: 2014-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-482-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/482/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-482-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/482/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Informationssystem des Zivildienstes
 
-vom 20. August 2014 (Stand am 1. April 2021)
+vom 20. August 2014 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -188,7 +188,7 @@ Die Datensicherheit richtet sich nach:
 
 - a. den Artikeln 8–12 der Verordnung vom 14. Juni 1993[^11-1] zum Bundesgesetz über den Datenschutz;
 - b.[^11-2] der Cyberrisikenverordnung vom 27. Mai 2020[^11-3];
-- c.[^11-4] ... [^11-5]
+- c.[^11-4] …[^11-5]
 
 <sup>2</sup> Die nach Artikel 7 berechtigten Behörden und privaten Personen und Institutionen treffen die nach den datenschutzrechtlichen Bestimmungen erforderlichen organisatorischen und technischen Massnahmen, damit ihre Personendaten vor Verlust, vor Entwendung und gegen unbefugte Bearbeitung oder Kenntnisnahme geschützt sind.
 
@@ -246,7 +246,7 @@ Das ZIVI gibt dem Bundesamt für Statistik die Daten bekannt, die es zur Erfüll
 
 Die Verordnung vom 30. Juni 2004[^16-1] über das Informationssystem des Zivildienstes wird aufgehoben.
 
-[^16-1]: [[AS 2004 3633](https://fedlex.data.admin.ch/eli/oc/2004/495), [2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637)Ziff. II 9, [2009 1119](https://fedlex.data.admin.ch/eli/oc/2009/178)]
+[^16-1]: [[AS 2004 3633](https://fedlex.data.admin.ch/eli/oc/2004/495); [2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637)Ziff. II 9; [2009 1119](https://fedlex.data.admin.ch/eli/oc/2009/178)]
 
 #### Art. 17
 
@@ -264,7 +264,7 @@ Die Verordnung vom 30. Juni 2004[^16-1] über das Informationssystem des Zivildi
 
 Falls nach Inkrafttreten dieser Verordnung das bisherige Informationssystem ZIVI+ zur Überbrückung schwerwiegender technischer oder organisatorischer Störungen weiter betrieben oder wieder in Betrieb genommen werden muss, bleibt die Verordnung vom 30. Juni 2004[^18-1] über das Informationssystem des Zivildienstes während längstens neun Monaten nach Inkrafttreten dieser Verordnung in ihrer bisher geltenden Fassung anwendbar.
 
-[^18-1]: [[AS 2004 3633](https://fedlex.data.admin.ch/eli/oc/2004/495), [2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637)Ziff. II 9, [2009 1119](https://fedlex.data.admin.ch/eli/oc/2009/178)]
+[^18-1]: [[AS 2004 3633](https://fedlex.data.admin.ch/eli/oc/2004/495); [2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637)Ziff. II 9; [2009 1119](https://fedlex.data.admin.ch/eli/oc/2009/178)]
 
 #### Art. 19
 
@@ -278,7 +278,7 @@ Anhang*[^t-1]*
 
 ## Personendaten in E-ZIVI: Benützer/innen, Zugriff und Berechtigung zur Abfrage und Bearbeitung
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 15. Nov. 2017 ([AS 2017 6699](https://fedlex.data.admin.ch/eli/oc/2017/746)). Bereinigt gemäss Anhang Ziff. II 34 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### A Benützerinnen und Benützer, ihre Kennwerte und ihr Recht auf Zugriff auf das Verwaltungs- oder das Kundensystem
 
@@ -320,7 +320,7 @@ Anhang*[^t-1]*
 <tr><td>4. Geburtsdatum</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>5. Heimatort</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>6. Heimatkanton</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>7. AHV-Versichertennummer</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
+<tr><td>7. AHV-Nummer</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="37">1.2 Registrierung und Gesuchserfassung</td></tr>
 <tr><td>8. Name</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>9. Vorname</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -328,7 +328,7 @@ Anhang*[^t-1]*
 <tr><td>11. Geburtsdatum</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>12. Heimatort</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>13. Heimatkanton</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>14. AHV-Versichertennummer</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>14. AHV-Nummer</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3"></td><td colspan="3"></td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="36">1.3 Personalien zivildienstpflichtige Person</td></tr>
 <tr><td>15. Systemnummer der gesuchstellenden / zivildienstpflichtigen Person</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>16. Name</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
@@ -337,8 +337,8 @@ Anhang*[^t-1]*
 <tr><td>19. Geburtsdatum</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>20. Heimatort</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>21. Heimatkanton</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>22. AHV-Versichertennummer alt</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>23. AHV-Versichertennummer neu</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>22. AHV-Nummer alt</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>23. AHV-Nummer neu</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>24. Berufliche Tätigkeiten</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>25. Notizfeld für Kontaktinformationen</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3"></td><td colspan="3">B</td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td>26. Korrespondenzsprache</td><td>A</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td colspan="2">B</td><td colspan="3">B</td><td colspan="4">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">A</td><td colspan="3">B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
