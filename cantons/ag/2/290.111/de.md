@@ -4,13 +4,13 @@ number: "290.111"
 title: Anwaltsverordnung
 short: AnwV
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2012-06-27
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2020-12-16
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/290.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1553/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3045/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1553/pdf_file"
 
 (AnwV)
 
-Vom 18.05.2005 (Stand 01.01.2013)
+Vom 18.05.2005 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -60,7 +60,7 @@ beschliesst:
 
 <sup>2</sup> Wer die Gebühr trotz Mahnung nicht bezahlt, wird zur Prüfung nicht zugelassen.
 
-<sup>3</sup> Die Gebühr wird unter Abzug einer Verwaltungskostenentschädigung von Fr. 100.– zurückbezahlt, wenn die Prüfung nicht angetreten wird.
+<sup>3</sup> …
 
 #### § 4
 
@@ -195,14 +195,22 @@ beschliesst:
 
 <sup>1</sup> Die Anwaltskommission erhebt folgende Gebühren:
 
-- a) für die Anwaltsprüfung — Fr. 2'000.–
-- a<sup>bis</sup>) für die Wiederholung der mündlichen Anwaltsprüfung — Fr. 500.–
+- a) für die angetretene Anwaltsprüfung — Fr. 2'000.–
+- a<sup>bis</sup>) für die angetretene Wiederholung der mündlichen Anwaltsprüfung — Fr. 500.–
+- a<sup>ter</sup>) für die nicht angetretene Anwaltsprüfung beziehungsweise Wiederholung der mündlichen Anwaltsprüfung beim Rückzug der Anmeldung vom Zeitpunkt der Anmeldung bis 7 Tage vor Prüfungsbeginn — Fr. 100.–
+- a<sup>quater</sup>) für die nicht angetretene Anwaltsprüfung beziehungsweise Wiederholung der mündlichen Anwaltsprüfung beim Rückzug der Anmeldung 6 Tage bis 1 Tag vor Prüfungsbeginn — Fr. 300.–
+- a<sup>quinquies</sup>) für die am Prüfungstag nicht angetretene Anwaltsprüfung beziehungsweise Wiederholung der mündlichen Anwaltsprüfung — Fr. 400. –
+- a<sup>sexies</sup>) für die vorgängige Überprüfung der Zulassungsvoraussetzungen zur Anwaltsprüfung — Fr. 100.– bis Fr. 1'000.–
 - b) für den Eintrag im kantonalen Anwaltsregister — Fr. 200.–
 - c) für den Eintrag in die öffentliche Liste (Art. 28 BGFA) — Fr. 200.–
 - d) für die Änderungen und Löschungen von Eintragungen im kantonalen Anwaltsregister bzw. in der öffentlichen Liste — Fr. 100.–
+- d<sup>bis</sup>) für die Überprüfung des Eintrages im kantonalen Anwaltsregister — Fr. 600.– bis Fr. 1'600.–
 - e) für die Eignungsprüfung (Art. 31 BGFA) — Fr. 1'500.–
 - f) für das Gespräch zur Prüfung der beruflichen Fähigkeiten (Art. 32 BGFA) — Fr. 1'000.–
-- g) für Verfahren betreffend Erteilung oder Entzug von Substitutionsbewilligungen — Fr. 100.–
+- g) für die Verfahren betreffend Erteilung, Verlängerung oder Entzug von Substitutionsbewilligungen — Fr. 100.–
+- h) für die Disziplinarverfahren — Fr. 300.– bis Fr. 6'000.–
+- i) für die Entbindung vom Berufsgeheimnis — Fr. 100.– bis Fr. 1'000.–
+- j) für die Ausstellung von Disziplinarzeugnissen und weiteren Bestätigungen — Fr. 100.–
 
 #### § 17
 
@@ -210,7 +218,7 @@ beschliesst:
 
 <sup>1</sup> Die nicht im Staatsdienst stehenden Mitglieder der Anwaltskommission erhalten eine Entschädigung von Fr. 150.– pro Stunde.
 
-<sup>2</sup> Das der Verwaltung angehörende Mitglied der Anwaltskommission erhält für die Korrektur der schriftlichen Prüfungsarbeiten ausserhalb der ordentlichen Arbeitszeit eine Entschädigung von Fr. 150. – pro Stunde.
+<sup>2</sup> Das der Verwaltung angehörende Mitglied sowie die im Staatsdienst stehenden Ersatzmitglieder der Anwaltskommission erhalten für die Korrektur der schriftlichen Prüfungsarbeiten ausserhalb der ordentlichen Arbeitszeit eine Entschädigung von Fr. 150. – pro Stunde.
 
 ## 3<sup>bis</sup>. Abwesenheit der Anwältinnen und Anwälte
 
