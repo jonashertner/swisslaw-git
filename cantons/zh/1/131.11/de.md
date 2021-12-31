@@ -4,11 +4,11 @@ number: "131.11"
 title: Gemeindeverordnung (VGG)
 short: VGG
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2023-12-01
 adopted: 2016-06-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-131_11-2016_06_29-2018_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-131_11-2016_06_29-2018_01_01-115.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ Der Gemeindevorstand veröffentlicht die Jahresrechnung und das Budget.
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Die Stimmenzählenden sammeln die ausgefüllten Stimmzettel in einer Urne. Die Versammlungsleitung stellt die Anzahl eingegangener Stimmzettel fest, sorgt für die Auszählung der Stimmen und gibt das Ergebnis bekannt.
 
@@ -168,7 +168,7 @@ Verweigert das Budgetorgan die Aufnahme gebundener Ausgaben ins Budget, kann der
 
 **3**
 
-- 1\. 1. 21 - 111 § 15. <sup>1</sup> Der Verpflichtungskredit umfasst alle für das geplante Vorhaben anfallenden Aufwendungen, insbesondere
+- 1\. 1. 22 - 115 § 15. <sup>1</sup> Der Verpflichtungskredit umfasst alle für das geplante Vorhaben anfallenden Aufwendungen, insbesondere
 
 **Inhalt des Verpflichtungskredits**
 
@@ -278,7 +278,7 @@ Die Geldmittel im Sinne der Geldflussrechnung umfassen die flüssigen Mittel und
 
 **5**
 
-- 1\. 1. 21 - 111 § 23. <sup>1</sup> Die Positionen des Finanzvermögens werden zu den Werten gemäss Anhang 2 Ziff. 1 bilanziert.
+- 1\. 1. 22 - 115 § 23. <sup>1</sup> Die Positionen des Finanzvermögens werden zu den Werten gemäss Anhang 2 Ziff. 1 bilanziert.
 
 **Bewertung des Finanzvermögens a. im Allgemeinen**
 
@@ -376,7 +376,7 @@ Unabhängig vom Informationsträger sind bei der Führung der Bücher und der Er
 
 **7**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Veränderbare Informationsträger sind zulässig, wenn a. technische Verfahren eingesetzt werden, welche die Unverfälschbarkeit und Echtheit der gespeicherten Informationen gewährleisten,
 
@@ -564,7 +564,7 @@ Die finanztechnische Prüfung richtet sich nach den Schweizerischen Prüfungssta
 
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>2</sup> Als rechnerischer Steuerfuss gilt der mit der berichtigten absoluten Steuerkraft nach § 7 der Finanzausgleichsverordnung vom 17. August 2011 (FAV)[^46-1] gewogene Gesamtsteuerfuss der am Zusammenschluss beteiligten Gemeinden. Massgebend für die berichtigte Steuerkraft und die Gesamtsteuerfüsse sind die Werte des zweiten Kalenderjahres, das dem jeweiligen Ausgleichsjahr gemäss § 8 lit. a des Finanzausgleichsgesetzes vom 12. Juli 2010[^46-2] vorangeht.[^46-3]
 
@@ -642,7 +642,7 @@ Funktion Bezeichnung
 
 **15**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 34 Sport und Freizeit 341 Sport 342 Freizeit 35 Kirchen und religiöse Angelegenheiten 350 Kirchen und religiöse Angelegenheiten
 
@@ -652,7 +652,7 @@ Funktion Bezeichnung
 
 ### 5 Soziale Sicherheit
 
-51 Krankheit und Unfall 511 Krankenversicherung 512 Prämienverbilligungen 513 Unfallversicherungen 52 Invalidität 522 Ergänzungsleistungen IV 523 Invalidenheime 524 Leistungen an Invalide 53 Alter und Hinterlassene 531 Alters- und Hinterlassenenversicherung AHV 532 Ergänzungsleistungen AHV 533 Leistungen an Pensionierte 534 Wohnen im Alter (ohne Pflege) 535 Leistungen an das Alter 54 Familie und Jugend 543 Alimentenbevorschussung und -inkasso 544 Jugendschutz 5441 Kinder- und Jugendheime 545 Leistungen an Familien 5451<sup>13</sup> Kindertagesstätten und Kinderhorte 55 Arbeitslosigkeit 552 Leistungen an Arbeitslose 559 Arbeitslosigkeit, Übriges 56 Sozialer Wohnungsbau 560 Sozialer Wohnungsbau 57 Sozialhilfe und Asylwesen 571 Beihilfen/Zuschüsse 572 Wirtschaftliche Hilfe 5720 Gesetzliche wirtschaftliche Hilfe 5721 Freiwillige wirtschaftliche Hilfe 573 Asylwesen 579 Fürsorge, Übriges 59 Soziale Wohlfahrt, Übriges 592 Hilfsaktionen im Inland 593 Hilfsaktionen im Ausland
+51 Krankheit und Unfall 511 Krankenversicherung 512 Prämienverbilligungen 513 Unfallversicherungen 52 Invalidität 522 Ergänzungsleistungen IV 523 Invalidenheime 524 Leistungen an Invalide 53 Alter und Hinterlassene 531 Alters- und Hinterlassenenversicherung AHV 532 Ergänzungsleistungen AHV 533 Leistungen an Pensionierte 534 Wohnen im Alter (ohne Pflege) 535 Leistungen an das Alter 54 Familie und Jugend 543 Alimentenbevorschussung und -inkasso 544 Jugendschutz 545 Leistungen an Familien 5451<sup>13</sup> Kindertagesstätten und Kinderhorte 55 Arbeitslosigkeit 552 Leistungen an Arbeitslose 5525<sup>14</sup> Überbrückungsleistungen für ältere Arbeitslose 559 Arbeitslosigkeit, Übriges 56 Sozialer Wohnungsbau 560 Sozialer Wohnungsbau 57 Sozialhilfe und Asylwesen 571 Beihilfen/Zuschüsse 572 Wirtschaftliche Hilfe 5720 Gesetzliche wirtschaftliche Hilfe 5721 Freiwillige wirtschaftliche Hilfe 573 Asylwesen 579 Fürsorge, Übriges 59 Soziale Wohlfahrt, Übriges 592 Hilfsaktionen im Inland 593 Hilfsaktionen im Ausland
 
 ### 6 Verkehr und Nachrichtenübermittlung
 
@@ -660,7 +660,7 @@ Funktion Bezeichnung
 
 **17**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 63 Verkehr, Übriges 631 Schifffahrt 632 Luft- und Raumfahrt 633 Sonstige Transportsysteme 634 Verkehrsplanung allgemein 64 Nachrichtenübermittlung 640 Nachrichtenübermittlung 6401<sup>13</sup> Netzwerke (Gemeindebetrieb)
 
@@ -676,7 +676,7 @@ betrieb)
 
 **19**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 879 Energie, Übriges 8790 Energie, Übriges (allgemein) 8791 Fernwärmebetrieb Energie, Übriges (Gemeindebetrieb) 89 Sonstige gewerbliche Betriebe 890 Sonstige gewerbliche Betriebe
 
@@ -692,9 +692,9 @@ Sachgruppe Bezeichnung
 
 **21**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
-1046 Aktive RA Investitionsrechnung 106 Vorräte und angefangene Arbeiten 1060 Handelswaren 1061 Roh- und Hilfsmaterial 1062 Halb- und Fertigfabrikate 1063 Angefangene Arbeiten 107<sup>11</sup> Langfristige Finanzanlagen 1070 Aktien und Anteilscheine 1071 Verzinsliche Anlagen 1072 Langfristige Forderungen 1076<sup>9</sup> Langfristige derivative Finanzinstrumente 1079 Übrige langfristige Finanzanlagen 108 Sachanlagen Finanzvermögen 1080 Grundstücke FV 1084 Gebäude FV 1086 Mobilien FV 1087 Anlagen im Bau FV 1089 Übrige Sachanlagen FV 109 Forderungen gegenüber Fonds im Fremdkapital 1091.0<sup>13</sup> Forderungen gegenüber Fonds im Fremdkapital 1091.07<sup>7</sup> Forderung gegenüber Fonds des überkommunalen
+1046 Aktive RA Investitionsrechnung 106 Vorräte und angefangene Arbeiten 1060 Handelswaren 1061 Roh- und Hilfsmaterial 1062 Halb- und Fertigfabrikate 1063 Angefangene Arbeiten 107<sup>11</sup> Langfristige Finanzanlagen 1070 Aktien und Anteilscheine 1071 Verzinsliche Anlagen 1072 Langfristige Forderungen 1076<sup>9</sup> Langfristige derivative Finanzinstrumente 1079 Übrige langfristige Finanzanlagen 108<sup>15</sup> Sach- und immaterielle Anlagen Finanzvermögen 1080 Grundstücke FV 1084 Gebäude FV 1086 Mobilien FV 1087 Anlagen im Bau FV 1089<sup>15</sup> Übrige Sach- und immaterielle Anlagen FV 109 Forderungen gegenüber Fonds im Fremdkapital 1091.0<sup>13</sup> Forderungen gegenüber Fonds im Fremdkapital 1091.07<sup>7</sup> Forderung gegenüber Fonds des überkommunalen
 
 Strassenbaus
 
@@ -704,13 +704,13 @@ Strassenbaus
 
 **25**
 
-- 1\. 1. 21 - 111 1442.1–9 Eigenwirtschaftsbetriebe 1443 Darlehen an öffentliche Sozialversicherungen 1443.0 Allgemeiner Haushalt 1443.1–9 Eigenwirtschaftsbetriebe 1444 Darlehen an öffentliche Unternehmungen 1444.0 Allgemeiner Haushalt 1444.1–9 Eigenwirtschaftsbetriebe 1445 Darlehen an private Unternehmungen 1445.0 Allgemeiner Haushalt 1445.1–9 Eigenwirtschaftsbetriebe 1446 Darlehen an private Organisationen ohne Erwerbszweck 1446.0 Allgemeiner Haushalt 1446.1–9 Eigenwirtschaftsbetriebe 1447 Darlehen an private Haushalte 1447.0 Allgemeiner Haushalt 1447.1–9 Eigenwirtschaftsbetriebe 1448 Darlehen an das Ausland 1448.0 Allgemeiner Haushalt 1448.1–9 Eigenwirtschaftsbetriebe 145 Beteiligungen, Grundkapitalien 1450 Beteiligungen am Bund 1450.0 Allgemeiner Haushalt 1450.1–9 Eigenwirtschaftsbetriebe 1451 Beteiligungen an Kantonen und Konkordaten 1451.0 Allgemeiner Haushalt 1451.1–9 Eigenwirtschaftsbetriebe 1452 Beteiligungen an Gemeinden und Zweckverbänden 1452.0 Allgemeiner Haushalt 1452.1–9 Eigenwirtschaftsbetriebe 1453 Beteiligungen an öffentlichen Sozialversicherungen 1453.0 Allgemeiner Haushalt 1453.1–9 Eigenwirtschaftsbetriebe 1454 Beteiligungen an öffentlichen Unternehmungen 1454.0 Allgemeiner Haushalt 1454.1–9 Eigenwirtschaftsbetriebe 1455 Beteiligungen an privaten Unternehmungen 1455.0 Allgemeiner Haushalt 1455.1–9 Eigenwirtschaftsbetriebe 1456 Beteiligungen an privaten Organisationen ohne Erwerbszweck 1456.0 Allgemeiner Haushalt 1456.1–9 Eigenwirtschaftsbetriebe 1457 Beteiligungen an privaten Haushalten 1457.0 Allgemeiner Haushalt 1457.1–9 Eigenwirtschaftsbetriebe 1458 Beteiligungen im Ausland 1458.0 Allgemeiner Haushalt 1458.1–9 Eigenwirtschaftsbetriebe 146 Investitionsbeiträge 1460 Investitionsbeiträge an den Bund 1460.0 Allgemeiner Haushalt 1460.1–9 Eigenwirtschaftsbetriebe 1461 Investitionsbeiträge an Kantone und Konkordate 1461.0 Allgemeiner Haushalt 1461.1–9 Eigenwirtschaftsbetriebe 1462 Investitionsbeiträge an Gemeinden und Zweckverbände 1462.0 Allgemeiner Haushalt 1462.1–9 Eigenwirtschaftsbetriebe 1463 Investitionsbeiträge an öffentliche Sozialversicherungen 1463.0 Allgemeiner Haushalt 1463.1–9 Eigenwirtschaftsbetriebe 1464 Investitionsbeiträge an öffentliche Unternehmungen 1464.0 Allgemeiner Haushalt 1464.1–9 Eigenwirtschaftsbetriebe 1465 Investitionsbeiträge an private Unternehmungen 1465.0 Allgemeiner Haushalt 1465.1–9 Eigenwirtschaftsbetriebe 1466 Investitionsbeiträge an private Organisationen ohne
+- 1\. 1. 22 - 115 1442.1–9 Eigenwirtschaftsbetriebe 1443 Darlehen an öffentliche Sozialversicherungen 1443.0 Allgemeiner Haushalt 1443.1–9 Eigenwirtschaftsbetriebe 1444 Darlehen an öffentliche Unternehmungen 1444.0 Allgemeiner Haushalt 1444.1–9 Eigenwirtschaftsbetriebe 1445 Darlehen an private Unternehmungen 1445.0 Allgemeiner Haushalt 1445.1–9 Eigenwirtschaftsbetriebe 1446 Darlehen an private Organisationen ohne Erwerbszweck 1446.0 Allgemeiner Haushalt 1446.1–9 Eigenwirtschaftsbetriebe 1447 Darlehen an private Haushalte 1447.0 Allgemeiner Haushalt 1447.1–9 Eigenwirtschaftsbetriebe 1448 Darlehen an das Ausland 1448.0 Allgemeiner Haushalt 1448.1–9 Eigenwirtschaftsbetriebe 145 Beteiligungen, Grundkapitalien 1450 Beteiligungen am Bund 1450.0 Allgemeiner Haushalt 1450.1–9 Eigenwirtschaftsbetriebe 1451 Beteiligungen an Kantonen und Konkordaten 1451.0 Allgemeiner Haushalt 1451.1–9 Eigenwirtschaftsbetriebe 1452 Beteiligungen an Gemeinden und Zweckverbänden 1452.0 Allgemeiner Haushalt 1452.1–9 Eigenwirtschaftsbetriebe 1453 Beteiligungen an öffentlichen Sozialversicherungen 1453.0 Allgemeiner Haushalt 1453.1–9 Eigenwirtschaftsbetriebe 1454 Beteiligungen an öffentlichen Unternehmungen 1454.0 Allgemeiner Haushalt 1454.1–9 Eigenwirtschaftsbetriebe 1455 Beteiligungen an privaten Unternehmungen 1455.0 Allgemeiner Haushalt 1455.1–9 Eigenwirtschaftsbetriebe 1456 Beteiligungen an privaten Organisationen ohne Erwerbszweck 1456.0 Allgemeiner Haushalt 1456.1–9 Eigenwirtschaftsbetriebe 1457 Beteiligungen an privaten Haushalten 1457.0 Allgemeiner Haushalt 1457.1–9 Eigenwirtschaftsbetriebe 1458 Beteiligungen im Ausland 1458.0 Allgemeiner Haushalt 1458.1–9 Eigenwirtschaftsbetriebe 146 Investitionsbeiträge 1460 Investitionsbeiträge an den Bund 1460.0 Allgemeiner Haushalt 1460.1–9 Eigenwirtschaftsbetriebe 1461 Investitionsbeiträge an Kantone und Konkordate 1461.0 Allgemeiner Haushalt 1461.1–9 Eigenwirtschaftsbetriebe 1462 Investitionsbeiträge an Gemeinden und Zweckverbände 1462.0 Allgemeiner Haushalt 1462.1–9 Eigenwirtschaftsbetriebe 1463 Investitionsbeiträge an öffentliche Sozialversicherungen 1463.0 Allgemeiner Haushalt 1463.1–9 Eigenwirtschaftsbetriebe 1464 Investitionsbeiträge an öffentliche Unternehmungen 1464.0 Allgemeiner Haushalt 1464.1–9 Eigenwirtschaftsbetriebe 1465 Investitionsbeiträge an private Unternehmungen 1465.0 Allgemeiner Haushalt 1465.1–9 Eigenwirtschaftsbetriebe 1466 Investitionsbeiträge an private Organisationen ohne
 
 Erwerbszweck
 
 1466.0 Allgemeiner Haushalt 1466.1–9 Eigenwirtschaftsbetriebe 1467 Investitionsbeiträge an private Haushalte 1467.0 Allgemeiner Haushalt 1467.1–9 Eigenwirtschaftsbetriebe
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 1468 Investitionsbeiträge an das Ausland 1468.0 Allgemeiner Haushalt 1468.1–9 Eigenwirtschaftsbetriebe 1469 Investitionsbeiträge an Anlagen im Bau 1469.0 Allgemeiner Haushalt 1469.1–9 Eigenwirtschaftsbetriebe
 
@@ -722,7 +722,7 @@ Dritten
 
 **27**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 2085 Langfristige Rückstellungen aus übriger betrieblicher Tätigkeit 2086 Langfristige Rückstellungen für Vorsorgeverpflichtungen 2087 Langfristige Rückstellungen für Finanzaufwand 2088 Langfristige Rückstellungen der Investitionsrechnung 2088.0 Langfristige Rückstellungen für Sachanlagen der Investitionsrechnung 2088.1 Langfristige Rückstellungen für Investitionen auf Rechnung Dritter 2088.2 Langfristige Rückstellungen für immaterielle Anlagen 2088.6 Langfristige Rückstellungen für Investitionsbeiträge 2089 Übrige langfristige Rückstellungen der Erfolgsrechnung 2089.2 Langfristige Rückstellungen Finanz- und Lastenausgleich 209 Verbindlichkeiten gegenüber Fonds im Fremdkapital 2091.0<sup>13</sup> Verbindlichkeiten gegenüber Fonds im Fremdkapital 2091.00<sup>7</sup> Fonds Ersatzabgaben für Schutzraumbauten 2091.07<sup>7</sup> Fonds des überkommunalen Strassenbaus 2091.08<sup>7</sup> Fonds des überkommunalen Strassenunterhalts 2092<sup>13</sup> Verbindlichkeiten gegenüber Legaten und Stiftungen ohne
 
@@ -732,77 +732,73 @@ eigene Rechtspersönlichkeit im Fremdkapital
 
 ### Erfolgsrechnung
 
-3 Aufwand 30 Personalaufwand 300 Behörden und Kommissionen 3000 Entschädigungen, Tag- und Sitzungsgelder an Behörden und Kommissionen 3001 Vergütungen an Behörden und Kommissionen (nicht zum massgebenden Lohn gehörend) 301 Löhne des Verwaltungs- und Betriebspersonals 3010 Löhne des Verwaltungs- und Betriebspersonals 302 Löhne der Lehrpersonen 3020 Löhne der Lehrpersonen 303 Temporäre Arbeitskräfte 3030 Temporäre Arbeitskräfte 304 Zulagen 3040 Kinder- und Ausbildungszulagen 3042 Verpflegungszulagen 3043 Wohnungszulagen 3049 Übrige Zulagen 305 Arbeitgeberbeiträge (AG) 3050 AG-Beiträge AHV, IV, EO, ALV, Verwaltungskosten 3052 AG-Beiträge an Pensionskassen
+3 Aufwand 30 Personalaufwand 300 Behörden und Kommissionen 3000 Entschädigungen, Tag- und Sitzungsgelder an Behörden und Kommissionen 3001 Vergütungen an Behörden und Kommissionen (nicht zum massgebenden Lohn gehörend) 301 Löhne des Verwaltungs- und Betriebspersonals 3010 Löhne des Verwaltungs- und Betriebspersonals 302 Löhne der Lehrpersonen 3020 Löhne der Lehrpersonen 303 Temporäre Arbeitskräfte 3030 Temporäre Arbeitskräfte 304 Zulagen 3040 Kinder- und Ausbildungszulagen 3042 Verpflegungszulagen 3043 Wohnungszulagen 3049 Übrige Zulagen 305 Arbeitgeberbeiträge (AG) 3050 AG-Beiträge AHV, IV, EO, ALV, Verwaltungskosten 3052 AG-Beiträge an Pensionskassen 3053 AG-Beiträge an Unfall- und Personal-Haftpflicht-
+
+versicherungen
+
+3054 AG-Beiträge an Familienausgleichskasse 3055 AG-Beiträge an Krankentaggeldversicherungen
 
 **29**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
-3053 AG-Beiträge an Unfall- und Personal-Haftpflichtversicherungen 3054 AG-Beiträge an Familienausgleichskasse 3055 AG-Beiträge an Krankentaggeldversicherungen 3056 AG-Beiträge an Krankenkassenprämien 3059 Übrige AG-Beiträge 306 Arbeitgeberleistungen 3060 Ruhegehälter 3061 Renten oder Rentenanteile 3062 Teuerungszulagen auf Renten und Rentenanteilen 3063 Unfallrenten und Rentenablösungen 3064 Überbrückungsrenten 3069 Übrige Arbeitgeberleistungen 309 Übriger Personalaufwand 3090 Aus- und Weiterbildung des Personals 3091 Personalwerbung 3099 Übriger Personalaufwand 31 Sach- und übriger Betriebsaufwand 310 Material- und Warenaufwand 3100 Büromaterial 3101 Betriebs-, Verbrauchsmaterial 3102 Drucksachen, Publikationen 3103 Fachliteratur, Zeitschriften 3104 Lehrmittel 3105 Lebensmittel 3106 Medizinisches Material 3109 Übriger Material- und Warenaufwand 311 Nicht aktivierbare Anlagen 3110 Anschaffung Büromöbel und -geräte 3111 Anschaffung Apparate, Maschinen, Geräte, Fahrzeuge, Werkzeuge 3112 Anschaffung Kleider, Wäsche, Vorhänge 3113 Anschaffung Hardware 3115 Anschaffung Viehhabe 3116 Anschaffung medizinische Geräte und Instrumente 3118 Anschaffung immaterielle Anlagen 3119 Anschaffung übrige nicht aktivierbare Anlagen 312 Ver- und Entsorgung Liegenschaften Verwaltungsvermögen 3120 Ver- und Entsorgung Liegenschaften VV 313 Dienstleistungen und Honorare 3130 Dienstleistungen Dritter 3131 Planungen und Projektierungen Dritter 3132 Honorare externe Berater, Gutachter, Fachexperten usw.
+3056 AG-Beiträge an Krankenkassenprämien 3059 Übrige AG-Beiträge 306 Arbeitgeberleistungen 3060 Ruhegehälter 3061 Renten oder Rentenanteile 3062 Teuerungszulagen auf Renten und Rentenanteilen 3063 Unfallrenten und Rentenablösungen 3064 Überbrückungsrenten 3069 Übrige Arbeitgeberleistungen 309 Übriger Personalaufwand 3090<sup>15</sup> Aus- und Weiterbildung des eigenen Personals 3091 Personalwerbung 3099 Übriger Personalaufwand 31 Sach- und übriger Betriebsaufwand 310 Material- und Warenaufwand 3100 Büromaterial 3101 Betriebs-, Verbrauchsmaterial 3102 Drucksachen, Publikationen 3103 Fachliteratur, Zeitschriften 3104 Lehrmittel 3105 Lebensmittel 3106 Medizinisches Material 3109 Übriger Material- und Warenaufwand 311 Nicht aktivierbare Anlagen 3110 Anschaffung Büromöbel und -geräte 3111 Anschaffung Apparate, Maschinen, Geräte, Fahrzeuge,
 
-3133 Informatik-Nutzungsaufwand 3134 Sachversicherungsprämien 3135 Dienstleistungsaufwand für Personen in Obhut 3136 Honorare privatärztlicher Tätigkeit 3137 Steuern und Abgaben 3138 Kurse, Prüfungen und Beratungen 3139 Lehrlingsprüfungen 314 Baulicher und betrieblicher Unterhalt 3140 Unterhalt an Grundstücken 3141<sup>13</sup> Unterhalt Strassen und Verkehrswege 3142 Unterhalt Wasserbau 3143 Unterhalt übrige Tiefbauten 3144 Unterhalt Hochbauten, Gebäude 3145 Unterhalt Wald 3149 Unterhalt übrige Sachanlagen 315 Unterhalt Mobilien und immaterielle Anlagen 3150 Unterhalt Büromöbel und -geräte 3151 Unterhalt Apparate, Maschinen, Geräte, Fahrzeuge, Werkzeuge 3153 Informatik-Unterhalt (Hardware) 3156 Unterhalt medizinische Geräte und Instrumente 3158 Unterhalt immaterielle Anlagen 3159 Unterhalt übrige mobile Anlagen 316<sup>10</sup> Mieten, Leasing, Pachten, Benützungskosten 3160 Miete und Pacht Liegenschaften 3161 Mieten, Benützungskosten Mobilien 3162 Raten für operatives Leasing 3169 Übrige Mieten und Benützungskosten 317 Spesenentschädigungen 3170 Reisekosten und Spesen 3171 Exkursionen, Schulreisen und Lager
+Werkzeuge
+
+3112 Anschaffung Kleider, Wäsche, Vorhänge 3113 Anschaffung Hardware 3115 Anschaffung Viehhabe 3116 Anschaffung medizinische Geräte und Instrumente 3118 Anschaffung immaterielle Anlagen 3119 Anschaffung übrige nicht aktivierbare Anlagen 312 Ver- und Entsorgung Liegenschaften Verwaltungsvermögen 3120 Ver- und Entsorgung Liegenschaften VV 313 Dienstleistungen und Honorare 3130 Dienstleistungen Dritter 3131 Planungen und Projektierungen Dritter 3132 Honorare externe Berater, Gutachter, Fachexperten usw.
+
+3133 Informatik-Nutzungsaufwand 3134 Sachversicherungsprämien 3135 Dienstleistungsaufwand für Personen in Obhut 3136 Honorare privatärztlicher Tätigkeit 3137 Steuern und Abgaben 3138 Kurse, Prüfungen und Beratungen 3139 Lehrlingsprüfungen 314 Baulicher und betrieblicher Unterhalt 3140 Unterhalt an Grundstücken 3141<sup>13</sup> Unterhalt Strassen und Verkehrswege 3142 Unterhalt Wasserbau 3143 Unterhalt übrige Tiefbauten 3144 Unterhalt Hochbauten, Gebäude 3145 Unterhalt Wald 3149 Unterhalt übrige Sachanlagen 315 Unterhalt Mobilien und immaterielle Anlagen 3150 Unterhalt Büromöbel und -geräte 3151 Unterhalt Apparate, Maschinen, Geräte, Fahrzeuge, Werkzeuge 3153 Informatik-Unterhalt (Hardware) 3156 Unterhalt medizinische Geräte und Instrumente 3158 Unterhalt immaterielle Anlagen 3159 Unterhalt übrige mobile Anlagen 316<sup>10</sup> Mieten, Leasing, Pachten, Benützungskosten 3160 Miete und Pacht Liegenschaften 3161 Mieten, Benützungskosten Mobilien 3162 Raten für operatives Leasing 3169 Übrige Mieten und Benützungskosten 317 Spesenentschädigungen 3170 Reisekosten und Spesen 3171 Exkursionen, Schulreisen und Lager 318 Wertberichtigungen auf Forderungen 3180 Wertberichtigungen auf Forderungen 3181 Tatsächliche Forderungsverluste
 
 **31**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115 3181.1<sup>15</sup> Prämienverbilligungen: Abschreibung und Erlass von Rückerstattungsforderungen 3181.10<sup>15</sup> Abschreibung von Rückerstattungsforderungen KVG-Prämien an EL- und Beihilfeempfänger (zu Unrecht bezogene Leistungen) 3181.11<sup>15</sup> Erlass von Rückerstattungsforderungen KVG-Prämien an EL- und Beihilfeempfänger (zu Unrecht bezogene Leistungen) 3181.13<sup>14</sup> Abschreibung von Rückerstattungsforderungen KVG-Prämien aus Nachlass an EL- und Beihilfeempfänger
 
-318 Wertberichtigungen auf Forderungen 3180 Wertberichtigungen auf Forderungen 3181 Tatsächliche Forderungsverluste 3181.1 Prämienverbilligungen, Zusatzleistungen: Abschreibung und Erlass von Rückerstattungsforderungen 3181.10 Abschreibung von Rückerstattungsforderungen 3181.11 Erlass von Rückerstattungsforderungen 319<sup>13</sup> Übriger Betriebsaufwand 3190 Schadenersatzleistungen 3192 Abgeltung von Rechten 3199 Übriger Betriebsaufwand 33 Abschreibungen Verwaltungsvermögen 330 Abschreibungen Sachanlagen VV 3300 Planmässige Abschreibungen Sachanlagen VV 3300.0 Planmässige Abschreibungen Grundstücke VV 3300.1<sup>13</sup> Planmässige Abschreibungen Strassen
+(rechtmässig bezogene Leistungen)
 
-und Verkehrswege VV
+3181.2<sup>14</sup> Zusatzleistungen: Abschreibung und Erlass von Rückerstattungsforderungen 3181.20<sup>14</sup> Abschreibung von Rückerstattungsforderungen Ergänzungsleistungen (zu Unrecht bezogene Leistungen) 3181.21<sup>14</sup> Abschreibung von Rückerstattungsforderungen Ergänzungsleistungen (rechtmässig bezogene Leistungen aus Nachlass) 3181.22<sup>14</sup> Abschreibung von Rückerstattungsforderungen EL-Krankheits- und Behinderungskosten (zu Unrecht bezogene Leistungen) 3181.23<sup>14</sup> Abschreibung von Rückerstattungsforderungen EL-Krankheits- und Behinderungskosten (rechtmässig
 
-3300.2 Planmässige Abschreibungen Wasserbau VV 3300.3 Planmässige Abschreibungen übrige Tiefbauten VV 3300.4 Planmässige Abschreibungen Hochbauten VV 3300.5 Planmässige Abschreibungen Waldungen VV 3300.6 Planmässige Abschreibungen Mobilien VV 3300.9 Planmässige Abschreibungen übrige Sachanlagen VV 3301 Ausserplanmässige Abschreibungen Sachanlagen VV 3301.0 Ausserplanmässige Abschreibungen Grundstücke VV 3301.1<sup>13</sup> Ausserplanmässige Abschreibungen Strassen
+bezogene Leistungen aus Nachlass)
 
-und Verkehrswege VV
-
-3301.2 Ausserplanmässige Abschreibungen Wasserbau VV 3301.3 Ausserplanmässige Abschreibungen übrige Tiefbauten VV 3301.4 Ausserplanmässige Abschreibungen Hochbauten VV 3301.5 Ausserplanmässige Abschreibungen Waldungen VV 3301.6 Ausserplanmässige Abschreibungen Mobilien VV 3301.7 Ausserplanmässige Abschreibungen Anlagen im Bau VV 3301.9 Ausserplanmässige Abschreibungen übrige Sachanlagen VV 332 Abschreibungen immaterielle Anlagen 3320 Planmässige Abschreibungen immaterielle Anlagen 3320.0 Planmässige Abschreibungen Software 3320.1 Planmässige Abschreibungen Lizenzen, Nutzungsrechte, Markenrechte 3320.9 Planmässige Abschreibungen übrige immaterielle Anlagen 3321 Ausserplanmässige Abschreibungen immaterielle Anlagen 3321.0 Ausserplanmässige Abschreibungen Software 3321.1 Ausserplanmässige Abschreibungen Lizenzen, Nutzungsrechte, Markenrechte 3321.7 Ausserplanmässige Abschreibungen immaterielle Anlagen in Realisierung 3321.9 Ausserplanmässige Abschreibungen übrige immaterielle Anlagen 34 Finanzaufwand 340 Zinsaufwand 3400 Verzinsung laufende Verbindlichkeiten 3401 Verzinsung Finanzverbindlichkeiten 3409 Übrige Passivzinsen 341<sup>13</sup> Realisierte Verluste FV 3410<sup>13</sup> Realisierte Verluste auf Finanzanlagen FV 3410.0 Realisierte Verluste auf Aktien und Anteilscheinen FV 3410.1 Realisierte Verluste auf verzinslichen Anlagen FV 3410.9 Realisierte Verluste auf übrigen Finanzanlagen 3411 Realisierte Verluste auf Sachanlagen FV 3411.0 Realisierte Verluste auf Grundstücken FV 3411.4 Realisierte Verluste auf Gebäuden FV 3411.6 Realisierte Verluste auf Mobilien FV 3411.9 Realisierte Verluste auf übrigen Sachanlagen FV 3419 Kursverluste Fremdwährungen 342 Kapitalbeschaffungs- und -verwaltungskosten 3420 Kapitalbeschaffung und -verwaltung 343 Liegenschaftenaufwand Finanzvermögen 3430 Baulicher Unterhalt Liegenschaften FV 3431 Nicht baulicher Unterhalt Liegenschaften FV 3439 Übriger Liegenschaftsaufwand FV 344 Wertberichtigungen Anlagen FV 3440 Wertberichtigungen Finanzanlagen FV 3440.0<sup>11</sup> Wertberichtigungen übrige Finanzanlagen FV 3440.1 Wertberichtigungen Darlehen FV 3440.2 Wertberichtigungen Beteiligungen FV
+3181.24<sup>14</sup> Abschreibung und Erlass von Rückerstattungsforderungen Beihilfen 3181.25<sup>14</sup> Abschreibung und Erlass von Rückerstattungsforderungen kantonalrechtliche Zuschüsse 3181.26<sup>14</sup> Abschreibung und Erlass von Rückerstattungsforderungen Gemeindezuschüsse 3181.28<sup>14</sup> Erlass von Rückerstattungsforderungen Ergänzungsleistungen (zu Unrecht bezogene Leistungen) 3181.29<sup>14</sup> Erlass von Rückerstattungsforderungen EL-Krankheits- und Behinderungskosten (zu Unrecht bezogene Leistungen) 3181.6<sup>14</sup> Überbrückungsleistungen für ältere Arbeitslose: Abschreibung und Erlass von Rückerstattungsforderungen 3181.60<sup>14</sup> Abschreibung von Rückerstattungsforderungen Überbrückungsleistungen 3181.62<sup>14</sup> Abschreibung von Rückerstattungsforderungen ÜL-Krankheits- und Behinderungskosten 3181.68<sup>14</sup> Erlass von Rückerstattungsforderungen Überbrückungsleistungen 3181.69<sup>14</sup> Erlass von Rückerstattungsforderungen ÜL-Krankheits- und Behinderungskosten 319<sup>13</sup> Übriger Betriebsaufwand 3190 Schadenersatzleistungen 3192 Abgeltung von Rechten 3199 Übriger Betriebsaufwand 33 Abschreibungen Verwaltungsvermögen 330 Abschreibungen Sachanlagen VV 3300 Planmässige Abschreibungen Sachanlagen VV 3300.0 Planmässige Abschreibungen Grundstücke VV 3300.1<sup>13</sup> Planmässige Abschreibungen Strassen und Verkehrswege VV 3300.2 Planmässige Abschreibungen Wasserbau VV 3300.3 Planmässige Abschreibungen übrige Tiefbauten VV 3300.4 Planmässige Abschreibungen Hochbauten VV 3300.5 Planmässige Abschreibungen Waldungen VV 3300.6 Planmässige Abschreibungen Mobilien VV 3300.9 Planmässige Abschreibungen übrige Sachanlagen VV 3301 Ausserplanmässige Abschreibungen Sachanlagen VV 3301.0 Ausserplanmässige Abschreibungen Grundstücke VV 3301.1<sup>13</sup> Ausserplanmässige Abschreibungen Strassen und Verkehrswege VV 3301.2 Ausserplanmässige Abschreibungen Wasserbau VV 3301.3 Ausserplanmässige Abschreibungen übrige Tiefbauten VV 3301.4 Ausserplanmässige Abschreibungen Hochbauten VV 3301.5 Ausserplanmässige Abschreibungen Waldungen VV 3301.6 Ausserplanmässige Abschreibungen Mobilien VV 3301.7 Ausserplanmässige Abschreibungen Anlagen im Bau VV 3301.9 Ausserplanmässige Abschreibungen übrige Sachanlagen VV 332 Abschreibungen immaterielle Anlagen 3320 Planmässige Abschreibungen immaterielle Anlagen 3320.0 Planmässige Abschreibungen Software 3320.1 Planmässige Abschreibungen Lizenzen, Nutzungsrechte, Markenrechte 3320.9 Planmässige Abschreibungen übrige immaterielle Anlagen 3321 Ausserplanmässige Abschreibungen immaterielle Anlagen
 
 **33**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115 3321.0 Ausserplanmässige Abschreibungen Software 3321.1 Ausserplanmässige Abschreibungen Lizenzen, Nutzungs-
 
-3441 Wertberichtigungen Sachanlagen FV 3441.0 Wertberichtigungen Grundstücke FV 3441.4 Wertberichtigungen Gebäude FV 3441.6 Wertberichtigungen Mobilien FV 3441.7 Wertberichtigungen Anlagen im Bau FV 3441.9 Wertberichtigungen übrige Sachanlagen FV 349<sup>13</sup> Übriger Finanzaufwand 3499 Übriger Finanzaufwand 3499.1 Vergütungszinsen auf Steuern 35<sup>13</sup> Einlagen in Spezialfinanzierungen und Fonds 350<sup>13</sup> Einlagen in Fonds des Fremdkapitals 3501<sup>13</sup> Einlagen in Fonds des Fremdkapitals 3502<sup>13</sup> Einlagen in Legate und Stiftungen des Fremdkapitals 351<sup>13</sup> Einlagen in Spezialfinanzierungen und Fonds des Eigenkapitals 3510<sup>13</sup> Einlagen in Spezialfinanzierungen des Eigenkapitals 3511<sup>13</sup> Einlagen in Fonds des Eigenkapitals 36 Transferaufwand 360 Ertragsanteile an Dritte 3600 Ertragsanteile an den Bund 3601 Ertragsanteile an Kantone und Konkordate 3602 Ertragsanteile an Gemeinden und Zweckverbände 3603 Ertragsanteile an öffentliche Sozialversicherungen 3604 Ertragsanteile an öffentliche Unternehmungen 361<sup>8</sup> Entschädigungen an öffentliche Gemeinwesen 3610 Entschädigungen an den Bund 3611 Entschädigungen an Kantone und Konkordate 3612 Entschädigungen an Gemeinden und Zweckverbände 3613 Entschädigungen an öffentliche Sozialversicherungen 3614 Entschädigungen an öffentliche Unternehmungen 362 Finanz- und Lastenausgleich 3621 Finanz- und Lastenausgleich an Kanton 3621.5 Finanzausgleichsbeiträge an Kanton 3621.50 Ressourcenausgleichsbeiträge 3621.6 Lastenausgleichsbeiträge an Kanton 3621.63 Rückerstattung individuelle Sonderlastenausgleichsbeiträge 363<sup>8</sup> Beiträge an öffentliche Gemeinwesen und Dritte 3630 Beiträge an den Bund 3631 Beiträge an Kantone und Konkordate 3632 Beiträge an Gemeinden und Zweckverbände 3633 Beiträge an öffentliche Sozialversicherungen 3634 Beiträge an öffentliche Unternehmungen 3635 Beiträge an private Unternehmungen 3635.1 Prämienverbilligungen: Beiträge an private Unternehmungen 3635.10 Beiträge an Krankenkassen für Sozialhilfeempfänger 3636 Beiträge an private Organisationen ohne Erwerbszweck 3637 Beiträge an private Haushalte 3637.1 Prämienverbilligungen: Beiträge an private Haushalte 3637.10 Beiträge an Sozialhilfeempfänger 3637.11 Beiträge für EL-Empfänger 3637.12 Beiträge für BH-Empfänger 3637.2 Zusatzleistungen: Beiträge an private Haushalte 3637.20 Ergänzungsleistungen zur IV 3637.21 Ergänzungsleistungen zur AHV 3637.22 EL-Krankheits- und Behinderungskosten (zur IV) 3637.23 EL-Krankheits- und Behinderungskosten (zur AHV) 3637.24 Beihilfen 3637.25 Kantonalrechtliche Zuschüsse 3637.26 Gemeindezuschüsse 3637.3 Gesetzliche wirtschaftliche Hilfe: Beiträge an private Haushalte 3637.30 Gesetzliche wirtschaftliche Hilfe an schweizerische
+rechte, Markenrechte
 
-Staatsangehörige ohne Kostenersatz
-
-3637.31 Gesetzliche wirtschaftliche Hilfe an schweizerische Staatsangehörige mit vollem Kostenersatz 3637.34 Gesetzliche wirtschaftliche Hilfe an ausländische
-
-Staatsangehörige ohne Kostenersatz
-
-3637.35 Gesetzliche wirtschaftliche Hilfe an ausländische Staatsangehörige mit vollem Kostenersatz 3638 Beiträge an das Ausland 364 Wertberichtigungen Darlehen VV 3640 Wertberichtigungen Darlehen VV 3640.0 Wertberichtigungen Darlehen VV an den Bund
+3321.7 Ausserplanmässige Abschreibungen immaterielle Anlagen in Realisierung 3321.9 Ausserplanmässige Abschreibungen übrige immaterielle Anlagen 34 Finanzaufwand 340 Zinsaufwand 3400 Verzinsung laufende Verbindlichkeiten 3401 Verzinsung Finanzverbindlichkeiten 3409 Übrige Passivzinsen 341<sup>13</sup> Realisierte Verluste FV 3410<sup>13</sup> Realisierte Verluste auf Finanzanlagen FV 3410.0 Realisierte Verluste auf Aktien und Anteilscheinen FV 3410.1 Realisierte Verluste auf verzinslichen Anlagen FV 3410.9 Realisierte Verluste auf übrigen Finanzanlagen 3411<sup>15</sup> Realisierte Verluste auf Sach- und immateriellen Anlagen FV 3411.0 Realisierte Verluste auf Grundstücken FV 3411.4 Realisierte Verluste auf Gebäuden FV 3411.6 Realisierte Verluste auf Mobilien FV 3411.9<sup>15</sup> Realisierte Verluste auf übrigen Sach- und immateriellen Anlagen FV 3419<sup>15</sup> Übrige realisierte Verluste aus Finanzvermögen 342 Kapitalbeschaffungs- und -verwaltungskosten 3420 Kapitalbeschaffung und -verwaltung 343 Liegenschaftenaufwand Finanzvermögen 3430 Baulicher Unterhalt Liegenschaften FV 3431 Nicht baulicher Unterhalt Liegenschaften FV 3439 Übriger Liegenschaftsaufwand FV 344 Wertberichtigungen Anlagen FV 3440 Wertberichtigungen Finanzanlagen FV 3440.0<sup>11</sup> Wertberichtigungen übrige Finanzanlagen FV 3440.1 Wertberichtigungen Darlehen FV 3440.2 Wertberichtigungen Beteiligungen FV 3441<sup>15</sup> Wertberichtigungen Sach- und immaterielle Anlagen FV 3441.0 Wertberichtigungen Grundstücke FV 3441.4 Wertberichtigungen Gebäude FV 3441.6 Wertberichtigungen Mobilien FV 3441.7 Wertberichtigungen Anlagen im Bau FV 3441.9<sup>15</sup> Wertberichtigungen übrige Sach- und immaterielle Anlagen FV 349<sup>13</sup> Übriger Finanzaufwand 3499 Übriger Finanzaufwand 3499.1 Vergütungszinsen auf Steuern 35<sup>13</sup> Einlagen in Spezialfinanzierungen und Fonds 350<sup>13</sup> Einlagen in Fonds des Fremdkapitals 3501<sup>13</sup> Einlagen in Fonds des Fremdkapitals 3502<sup>13</sup> Einlagen in Legate und Stiftungen des Fremdkapitals 351<sup>13</sup> Einlagen in Spezialfinanzierungen und Fonds des Eigenkapitals 3510<sup>13</sup> Einlagen in Spezialfinanzierungen des Eigenkapitals 3511<sup>13</sup> Einlagen in Fonds des Eigenkapitals 36 Transferaufwand 360 Ertragsanteile an Dritte 3600 Ertragsanteile an den Bund 3601 Ertragsanteile an Kantone und Konkordate 3602 Ertragsanteile an Gemeinden und Zweckverbände 3603 Ertragsanteile an öffentliche Sozialversicherungen 3604 Ertragsanteile an öffentliche Unternehmungen 361<sup>8</sup> Entschädigungen an öffentliche Gemeinwesen 3610 Entschädigungen an den Bund 3611 Entschädigungen an Kantone und Konkordate 3612 Entschädigungen an Gemeinden und Zweckverbände 3613 Entschädigungen an öffentliche Sozialversicherungen 3614 Entschädigungen an öffentliche Unternehmungen 362 Finanz- und Lastenausgleich 3621 Finanz- und Lastenausgleich an Kanton 3621.5 Finanzausgleichsbeiträge an Kanton 3621.50 Ressourcenausgleichsbeiträge 3621.6 Lastenausgleichsbeiträge an Kanton 3621.63 Rückerstattung individuelle Sonderlastenausgleichsbeiträge 363<sup>8</sup> Beiträge an öffentliche Gemeinwesen und Dritte 3630 Beiträge an den Bund
 
 **35**
 
-- 1\. 1. 21 - 111 3640.1 Wertberichtigungen Darlehen VV an Kantone und Konkordate 3640.2 Wertberichtigungen Darlehen VV an Gemeinden und Zweckverbände 3640.3 Wertberichtigungen Darlehen VV an öffentliche Sozialversicherungen 3640.4 Wertberichtigungen Darlehen VV an öffentliche Unternehmungen 3640.5 Wertberichtigungen Darlehen VV an private Unternehmungen 3640.6 Wertberichtigungen Darlehen VV an private Organisationen ohne Erwerbszweck 3640.7 Wertberichtigungen Darlehen VV an private Haushalte 3640.8 Wertberichtigungen Darlehen VV an das Ausland 365 Wertberichtigungen Beteiligungen VV 3650 Wertberichtigungen Beteiligungen VV 3650.0 Wertberichtigungen Beteiligungen VV am Bund 3650.1 Wertberichtigungen Beteiligungen VV an Kantonen und Konkordaten 3650.2 Wertberichtigungen Beteiligungen VV an Gemeinden und Zweckverbänden 3650.3 Wertberichtigungen Beteiligungen VV an öffentlichen Sozialversicherungen 3650.4 Wertberichtigungen Beteiligungen VV an öffentlichen Unternehmungen 3650.5 Wertberichtigungen Beteiligungen VV an privaten Unternehmungen 3650.6 Wertberichtigungen Beteiligungen VV an privaten
+- 1\. 1. 22 - 115
+
+3631 Beiträge an Kantone und Konkordate 3632 Beiträge an Gemeinden und Zweckverbände 3633 Beiträge an öffentliche Sozialversicherungen 3634 Beiträge an öffentliche Unternehmungen 3635 Beiträge an private Unternehmungen 3635.1 Prämienverbilligungen: Beiträge an private Unternehmungen 3635.10 Beiträge an Krankenkassen für Sozialhilfeempfänger 3636 Beiträge an private Organisationen ohne Erwerbszweck 3637 Beiträge an private Haushalte 3637.1 Prämienverbilligungen: Beiträge an private Haushalte 3637.10 Beiträge an Sozialhilfeempfänger 3637.11 Beiträge für EL-Empfänger 3637.12 Beiträge für BH-Empfänger 3637.2 Zusatzleistungen: Beiträge an private Haushalte 3637.20 Ergänzungsleistungen zur IV 3637.21 Ergänzungsleistungen zur AHV 3637.22 EL-Krankheits- und Behinderungskosten (zur IV) 3637.23 EL-Krankheits- und Behinderungskosten (zur AHV) 3637.24 Beihilfen 3637.25 Kantonalrechtliche Zuschüsse 3637.26 Gemeindezuschüsse 3637.3 Gesetzliche wirtschaftliche Hilfe: Beiträge an private Haushalte 3637.30 Gesetzliche wirtschaftliche Hilfe an schweizerische Staatsangehörige ohne Kostenersatz 3637.31 Gesetzliche wirtschaftliche Hilfe an schweizerische Staatsangehörige mit vollem Kostenersatz 3637.34 Gesetzliche wirtschaftliche Hilfe an ausländische Staatsangehörige ohne Kostenersatz 3637.35 Gesetzliche wirtschaftliche Hilfe an ausländische Staatsangehörige mit vollem Kostenersatz 3637.6<sup>14</sup> Überbrückungsleistungen für ältere Arbeitslose: Beiträge an private Haushalte 3637.60<sup>14</sup> Überbrückungsleistungen 3637.62<sup>14</sup> ÜL-Krankheits- und Behinderungskosten 3638 Beiträge an das Ausland 364 Wertberichtigungen Darlehen VV 3640 Wertberichtigungen Darlehen VV 3640.0 Wertberichtigungen Darlehen VV an den Bund 3640.1 Wertberichtigungen Darlehen VV an Kantone und Konkordate 3640.2 Wertberichtigungen Darlehen VV an Gemeinden und Zweckverbände 3640.3 Wertberichtigungen Darlehen VV an öffentliche Sozialversicherungen 3640.4 Wertberichtigungen Darlehen VV an öffentliche Unternehmungen 3640.5 Wertberichtigungen Darlehen VV an private Unternehmungen 3640.6 Wertberichtigungen Darlehen VV an private Organisationen ohne Erwerbszweck 3640.7 Wertberichtigungen Darlehen VV an private Haushalte 3640.8 Wertberichtigungen Darlehen VV an das Ausland 365 Wertberichtigungen Beteiligungen VV 3650 Wertberichtigungen Beteiligungen VV 3650.0 Wertberichtigungen Beteiligungen VV am Bund 3650.1 Wertberichtigungen Beteiligungen VV an Kantonen und Konkordaten 3650.2 Wertberichtigungen Beteiligungen VV an Gemeinden und Zweckverbänden 3650.3 Wertberichtigungen Beteiligungen VV an öffentlichen Sozialversicherungen 3650.4 Wertberichtigungen Beteiligungen VV an öffentlichen Unternehmungen 3650.5 Wertberichtigungen Beteiligungen VV an privaten Unternehmungen 3650.6 Wertberichtigungen Beteiligungen VV an privaten
 
 Organisationen ohne Erwerbszweck
 
-3650.7 Wertberichtigungen Beteiligungen VV an privaten Haushalten 3650.8 Wertberichtigungen Beteiligungen VV im Ausland 366 Abschreibungen Investitionsbeiträge 3660 Planmässige Abschreibung Investitionsbeiträge 3660.0 Planmässige Abschreibungen Investitionsbeiträge an den Bund 3660.1 Planmässige Abschreibungen Investitionsbeiträge an Kantone und Konkordate 3660.2 Planmässige Abschreibungen Investitionsbeiträge
-
-an Gemeinden und Zweckverbände
-
-3660.3 Planmässige Abschreibungen Investitionsbeiträge an öffentliche Sozialversicherungen 3660.4 Planmässige Abschreibungen Investitionsbeiträge an öffentliche Unternehmungen 3660.5 Planmässige Abschreibungen Investitionsbeiträge an private Unternehmungen 3660.6 Planmässige Abschreibungen Investitionsbeiträge
-
-an private Organisationen ohne Erwerbszweck
-
-3660.7 Planmässige Abschreibungen Investitionsbeiträge an private Haushalte 3660.8 Planmässige Abschreibungen Investitionsbeiträge an das Ausland 3661 Ausserplanmässige Abschreibung Investitionsbeiträge 3661.0 Ausserplanmässige Abschreibungen Investitionsbeiträge an den Bund 3661.1 Ausserplanmässige Abschreibungen Investitionsbeiträge an Kantone und Konkordate 3661.2 Ausserplanmässige Abschreibungen Investitionsbeiträge an Gemeinden und Zweckverbände 3661.3 Ausserplanmässige Abschreibungen Investitionsbeiträge an öffentliche Sozialversicherungen 3661.4 Ausserplanmässige Abschreibungen Investitionsbeiträge an öffentliche Unternehmungen 3661.5 Ausserplanmässige Abschreibungen Investitionsbeiträge an private Unternehmungen 3661.6 Ausserplanmässige Abschreibungen Investitionsbeiträge
-
-an private Organisationen ohne Erwerbszweck
-
-3661.7 Ausserplanmässige Abschreibungen Investitionsbeiträge an private Haushalte 3661.8 Ausserplanmässige Abschreibungen Investitionsbeiträge an das Ausland 3661.9 Ausserplanmässige Abschreibungen Investitionsbeiträge an Anlagen im Bau 369<sup>13</sup> Übriger Transferaufwand 3690 Übriger Transferaufwand 37 Durchlaufende Beiträge 370 Durchlaufende Beiträge 3700 Durchlaufende Beiträge an den Bund 3701 Durchlaufende Beiträge an Kantone und Konkordate
+3650.7 Wertberichtigungen Beteiligungen VV an privaten Haushalten 3650.8 Wertberichtigungen Beteiligungen VV im Ausland 366 Abschreibungen Investitionsbeiträge 3660<sup>15</sup> Planmässige Abschreibungen Investitionsbeiträge 3660.0 Planmässige Abschreibungen Investitionsbeiträge an den Bund
 
 **37**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115 3660.1 Planmässige Abschreibungen Investitionsbeiträge an Kantone und Konkordate 3660.2 Planmässige Abschreibungen Investitionsbeiträge an Gemeinden und Zweckverbände 3660.3 Planmässige Abschreibungen Investitionsbeiträge an öffentliche Sozialversicherungen 3660.4 Planmässige Abschreibungen Investitionsbeiträge an öffentliche Unternehmungen 3660.5 Planmässige Abschreibungen Investitionsbeiträge an private Unternehmungen 3660.6 Planmässige Abschreibungen Investitionsbeiträge
 
-3702 Durchlaufende Beiträge an Gemeinden und Zweckverbände 3703 Durchlaufende Beiträge an öffentliche Sozialversicherungen 3704 Durchlaufende Beiträge an öffentliche Unternehmungen 3705 Durchlaufende Beiträge an private Unternehmungen 3706 Durchlaufende Beiträge an private Organisationen ohne Erwerbszweck 3707 Durchlaufende Beiträge an private Haushalte 3708 Durchlaufende Beiträge ins Ausland 38 Ausserordentlicher Aufwand 389 Einlagen in das Eigenkapital 3892 Einlagen in Rücklagen der Globalbudgetbereiche 3893<sup>13</sup> Einlagen in Vorfinanzierungen des Eigenkapitals 3894 Einlagen in finanzpolitische Reserve 3899 Abtragung Bilanzfehlbetrag 39 Interne Verrechnungen 390 Material- und Warenbezüge 3900 Interne Verrechnung von Material- und Warenbezügen 391 Dienstleistungen 3910 Interne Verrechnung von Dienstleistungen 392 Pacht, Mieten, Benützungskosten 3920 Interne Verrechnung von Pacht, Mieten, Benützungs-
+an private Organisationen ohne Erwerbszweck
 
-kosten
+3660.7 Planmässige Abschreibungen Investitionsbeiträge an private Haushalte 3660.8 Planmässige Abschreibungen Investitionsbeiträge an das Ausland 3661<sup>15</sup> Ausserplanmässige Abschreibungen Investitionsbeiträge 3661.0 Ausserplanmässige Abschreibungen Investitionsbeiträge an den Bund 3661.1 Ausserplanmässige Abschreibungen Investitionsbeiträge an Kantone und Konkordate 3661.2 Ausserplanmässige Abschreibungen Investitionsbeiträge an Gemeinden und Zweckverbände 3661.3 Ausserplanmässige Abschreibungen Investitionsbeiträge an öffentliche Sozialversicherungen 3661.4 Ausserplanmässige Abschreibungen Investitionsbeiträge an öffentliche Unternehmungen 3661.5 Ausserplanmässige Abschreibungen Investitionsbeiträge an private Unternehmungen 3661.6 Ausserplanmässige Abschreibungen Investitionsbeiträge
 
-393 Betriebs- und Verwaltungskosten 3930 Interne Verrechnung von Betriebs- und Verwaltungs-
+an private Organisationen ohne Erwerbszweck
 
-kosten
+3661.7 Ausserplanmässige Abschreibungen Investitionsbeiträge an private Haushalte 3661.8 Ausserplanmässige Abschreibungen Investitionsbeiträge an das Ausland 3661.9 Ausserplanmässige Abschreibungen Investitionsbeiträge an Anlagen im Bau 369<sup>13</sup> Übriger Transferaufwand 3690 Übriger Transferaufwand 37 Durchlaufende Beiträge 370 Durchlaufende Beiträge 3700 Durchlaufende Beiträge an den Bund 3701 Durchlaufende Beiträge an Kantone und Konkordate 3702 Durchlaufende Beiträge an Gemeinden und Zweckverbände 3703 Durchlaufende Beiträge an öffentliche Sozialversicherungen 3704 Durchlaufende Beiträge an öffentliche Unternehmungen 3705 Durchlaufende Beiträge an private Unternehmungen 3706 Durchlaufende Beiträge an private Organisationen ohne Erwerbszweck 3707 Durchlaufende Beiträge an private Haushalte 3708 Durchlaufende Beiträge ins Ausland 38 Ausserordentlicher Aufwand 389 Einlagen in das Eigenkapital 3892 Einlagen in Rücklagen der Globalbudgetbereiche 3893<sup>13</sup> Einlagen in Vorfinanzierungen des Eigenkapitals 3894 Einlagen in finanzpolitische Reserve 3899 Abtragung Bilanzfehlbetrag 39 Interne Verrechnungen 390 Material- und Warenbezüge 3900 Interne Verrechnung von Material- und Warenbezügen 391 Dienstleistungen 3910 Interne Verrechnung von Dienstleistungen 392 Pacht, Mieten, Benützungskosten 3920 Interne Verrechnung von Pacht, Mieten, Benützungskosten 393 Betriebs- und Verwaltungskosten 3930 Interne Verrechnung von Betriebs- und Verwaltungskosten 394 Kalkulatorische Zinsen und Finanzaufwand 3940 Interne Verrechnung von kalkulatorische Zinsen und Finanzaufwand 395 Planmässige und ausserplanmässige Abschreibungen 3950 Interne Verrechnung von planmässigen und ausserplanmässigen Abschreibungen 398 Übertragungen 3980 Interne Übertragungen
 
-394 Kalkulatorische Zinsen und Finanzaufwand 3940 Interne Verrechnung von kalkulatorische Zinsen und Finanzaufwand 395 Planmässige und ausserplanmässige Abschreibungen 3950 Interne Verrechnung von planmässigen und ausserplanmässigen Abschreibungen 398 Übertragungen 3980 Interne Übertragungen 399 Übrige interne Verrechnungen 3990 Übrige interne Verrechnungen 4 Ertrag 40 Fiskalertrag 400 Direkte Steuern natürliche Personen 4000 Einkommenssteuern natürliche Personen 4000.0 Einkommenssteuern natürliche Personen Rechnungsjahr 4000.1 Einkommenssteuern natürliche Personen früherer Jahre 4000.2 Nachsteuern Einkommenssteuern natürliche Personen 4000.4 Aktive Steuerausscheidungen Einkommenssteuern natürliche Personen 4000.5 Passive Steuerausscheidungen Einkommenssteuern natürliche Personen 4000.6<sup>13</sup> Anrechnung ausländischer Quellensteuern natürliche
+**39**
+
+- 1\. 1. 22 - 115
+
+399 Übrige interne Verrechnungen 3990 Übrige interne Verrechnungen
+
+4 Ertrag 40 Fiskalertrag 400 Direkte Steuern natürliche Personen 4000 Einkommenssteuern natürliche Personen 4000.0 Einkommenssteuern natürliche Personen Rechnungsjahr 4000.1 Einkommenssteuern natürliche Personen früherer Jahre 4000.2 Nachsteuern Einkommenssteuern natürliche Personen 4000.4 Aktive Steuerausscheidungen Einkommenssteuern natürliche Personen 4000.5 Passive Steuerausscheidungen Einkommenssteuern natürliche Personen 4000.6<sup>13</sup> Anrechnung ausländischer Quellensteuern natürliche
 
 Personen
 
@@ -818,39 +814,55 @@ Personen
 
 Personen
 
-4011 Kapitalsteuern juristische Personen 4011.0 Kapitalsteuern juristische Personen Rechnungsjahr 4011.1 Kapitalsteuern juristische Personen früherer Jahre
-
-**39**
+4011 Kapitalsteuern juristische Personen 4011.0 Kapitalsteuern juristische Personen Rechnungsjahr 4011.1 Kapitalsteuern juristische Personen früherer Jahre 4011.2 Nachsteuern Kapitalsteuern juristische Personen 4011.4 Aktive Steuerausscheidungen Kapitalsteuern juristische Personen 4011.5 Passive Steuerausscheidungen Kapitalsteuern juristische Personen 4012 Quellensteuern juristische Personen 4019 Übrige direkte Steuern juristische Personen 402 Übrige direkte Steuern 4021 Grundsteuern 4022 Vermögensgewinnsteuern 4022.0 Grundstückgewinnsteuern 4022.1 Mehrwertabschöpfung 4023 Vermögensverkehrssteuern 4024 Erbschafts- und Schenkungssteuern 403 Besitz- und Aufwandsteuern 4033 Hundesteuern 4039 Übrige Besitz- und Aufwandsteuern 41 Regalien und Konzessionen 410 Regalien 4100 Regalien 412 Konzessionen 4120 Konzessionen 413 Ertragsanteile an Lotterien, Sport-Toto, Wetten 4130 Ertragsanteile an Lotterien, Sport-Toto, Wetten 42 Entgelte 420 Ersatzabgaben 4200 Ersatzabgaben 421 Gebühren für Amtshandlungen 4210 Gebühren für Amtshandlungen 422 Spital- und Heimtaxen, Kostgelder 4220 Taxen und Kostgelder 4221 Vergütung für besondere Leistungen 423 Schul- und Kursgelder 4230 Schulgelder
 
 **41**
 
-- 1\. 1. 21 - 111 4011.2 Nachsteuern Kapitalsteuern juristische Personen 4011.4 Aktive Steuerausscheidungen Kapitalsteuern juristische Personen 4011.5 Passive Steuerausscheidungen Kapitalsteuern juristische Personen 4012 Quellensteuern juristische Personen 4019 Übrige direkte Steuern juristische Personen 402 Übrige direkte Steuern 4021 Grundsteuern 4022 Vermögensgewinnsteuern 4022.0 Grundstückgewinnsteuern 4022.1 Mehrwertabschöpfung 4023 Vermögensverkehrssteuern 4024 Erbschafts- und Schenkungssteuern 403 Besitz- und Aufwandsteuern 4033 Hundesteuern 4039 Übrige Besitz- und Aufwandsteuern 41 Regalien und Konzessionen 410 Regalien 4100 Regalien 412 Konzessionen 4120 Konzessionen 413 Ertragsanteile an Lotterien, Sport-Toto, Wetten 4130 Ertragsanteile an Lotterien, Sport-Toto, Wetten 42 Entgelte 420 Ersatzabgaben 4200 Ersatzabgaben 421 Gebühren für Amtshandlungen 4210 Gebühren für Amtshandlungen 422 Spital- und Heimtaxen, Kostgelder 4220 Taxen und Kostgelder 4221 Vergütung für besondere Leistungen 423 Schul- und Kursgelder 4230 Schulgelder 4231 Kursgelder 424 Benützungsgebühren und Dienstleistungen 4240 Benützungsgebühren und Dienstleistungen 425 Erlös aus Verkäufen 4250 Verkäufe 426 Rückerstattungen 4260 Rückerstattungen und Kostenbeteiligungen Dritter 427 Bussen 4270 Bussen 429 Übrige Entgelte 4290 Übrige Entgelte 43<sup>13</sup> Übrige Erträge 430<sup>13</sup> Übrige betriebliche Erträge 4300 Honorare privatärztlicher Tätigkeit 4301 Beschlagnahmte Vermögenswerte 4309 Übriger betrieblicher Ertrag 431 Aktivierung Eigenleistungen 4310 Aktivierbare Eigenleistungen auf Sachanlagen 4311 Aktivierbare Eigenleistungen auf immateriellen Anlagen 4312 Aktivierbare Projektierungskosten 432 Bestandesveränderungen 4320 Bestandesveränderungen Halb- und Fertigfabrikate 4321 Bestandesveränderungen angefangene Arbeiten (Dienstleistungen) 4329 Übrige Bestandesveränderungen 439 Übriger Ertrag 4390 Übriger Ertrag 44 Finanzertrag 440 Zinsertrag 4400 Zinsen flüssige Mittel 4401 Zinsen Forderungen und Kontokorrente 4401.1 Zinsen auf Steuerforderungen 4402 Zinsen Finanzanlagen 4409 Übrige Zinsen von Finanzvermögen 441 Realisierte Gewinne FV 4410 Gewinne aus Verkäufen von Finanzanlagen FV 4410.0 Gewinne aus Verkäufen von Aktien und Anteilscheinen FV 4410.1 Gewinne aus Verkäufen von verzinslichen Anlagen FV 4410.9 Gewinne aus Verkäufen von übrigen Finanzanlagen FV
+- 1\. 1. 22 - 115
 
-- 1\. 1. 21 - 111
+4231 Kursgelder 424 Benützungsgebühren und Dienstleistungen 4240 Benützungsgebühren und Dienstleistungen 425 Erlös aus Verkäufen 4250 Verkäufe 426 Rückerstattungen 4260 Rückerstattungen und Kostenbeteiligungen Dritter 427 Bussen 4270 Bussen 429 Übrige Entgelte 4290 Übrige Entgelte 4290.1<sup>14</sup> Prämienverbilligungen: Eingang abgeschriebener Rückerstattungsforderungen 4290.11<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen KVG-Prämien von EL- und Beihilfeempfänger (zu Unrecht bezogene Leistungen) 4290.13<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen KVG-Prämien von EL-Empfänger (rechtmässig bezogene Leistungen aus Nachlass) 4290.2<sup>14</sup> Zusatzleistungen: Eingang abgeschriebener Rückerstattungsforderungen 4290.20<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen Ergänzungsleistungen (zu Unrecht bezogene Leistungen) 4290.21<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen Ergänzungsleistungen (rechtmässig bezogene Leistungen aus Nachlass) 4290.22<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen EL-Krankheits- und Behinderungskosten (zu Unrecht bezogene Leistungen) 4290.23<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen EL-Krankheits- und Behinderungskosten (rechtmässig bezogene Leistungen aus Nachlass) 4290.24<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen Beihilfen (zu Unrecht bezogene Leistungen) 4290.25<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen kantonalrechtliche Zuschüsse (zu Unrecht bezogene Leistungen) 4290.26<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen Gemeindezuschüsse (zu Unrecht bezogene Leistungen) 4290.27<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen Beihilfen (rechtmässig bezogene Leistungen aus Nachlass) 4290.28<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen kantonalrechtliche Zuschüsse (rechtmässig bezogene Leistungen aus Nachlass) 4290.29<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen Gemeindezuschüsse (rechtmässig bezogene Leistungen) 4290.6<sup>14</sup> Überbrückungsleistungen für ältere Arbeitslose: Eingang
 
-4411 Gewinne aus Verkäufen von Sachanlagen FV 4411.0 Gewinne aus Verkäufen von Grundstücken FV 4411.4 Gewinne aus Verkäufen von Gebäuden FV 4411.6 Gewinne aus Verkäufen von Mobilien FV 4411.9 Gewinne aus Verkäufen von übrigen Sachanlagen FV 4419 Übrige realisierte Gewinne aus Finanzvermögen FV 442 Beteiligungsertrag Finanzvermögen 4420 Dividenden 4429 Übriger Beteiligungsertrag 443 Liegenschaftenertrag Finanzvermögen 4430 Pacht- und Mietzinse Liegenschaften FV 4431 Vergütung für Dienstwohnungen FV 4432 Vergütung für Benützungen Liegenschaften FV 4439 Übriger Liegenschaftenertrag FV 444 Wertberichtigungen Anlagen Finanzvermögen 4440<sup>11</sup> Wertberichtigungen übrige Finanzanlagen FV 4441<sup>11</sup> Wertberichtigungen Darlehen FV 4442<sup>11</sup> Wertberichtigungen Beteiligungen FV 4443<sup>11</sup> Wertberichtigungen Liegenschaften FV 4443.0<sup>11</sup> Wertberichtigungen Grundstücke FV 4443.4<sup>11</sup> Wertberichtigungen Gebäude FV 4449<sup>11</sup> Wertberichtigungen übrige Sachanlagen FV 4449.6<sup>11</sup> Wertberichtigungen Mobilien FV 4449.9<sup>11</sup> Wertberichtigungen übrige Sachanlagen FV 445 Finanzertrag aus Darlehen und Beteiligungen des
+abgeschriebener Rückerstattungsforderungen
 
-Verwaltungsvermögens
-
-4450 Erträge aus Darlehen VV 4451 Erträge aus Beteiligungen VV ohne öffentliche Unternehmungen 446 Finanzertrag von öffentlichen Unternehmungen (VV) 4460 Öffentliche Betriebe des Bundes 4461 Öffentliche Unternehmen der Kantone mit öffentlichrechtlicher Rechtsform, Konkordate 4462 Zweckverbände, selbstständige und unselbstständige
-
-Gemeindebetriebe
-
-4463 Öffentliche Unternehmen als Aktiengesellschaft oder andere privatrechtliche Organisationsform 4468 Öffentliche Unternehmungen im Ausland 4469 Übrige öffentliche Unternehmungen 447 Liegenschaftenertrag Verwaltungsvermögen 4470 Pacht- und Mietzinse Liegenschaften VV 4471 Vergütung Dienstwohnungen VV 4472 Vergütung für Benützungen Liegenschaften VV 4479 Übrige Erträge Liegenschaften VV 448 Erträge von gemieteten Liegenschaften 4480 Mietzinse von gemieteten Liegenschaften 4489 Übrige Erträge von gemieteten Liegenschaften 449<sup>13</sup> Übrige Finanzerträge 4490 Aufwertungen VV 4499<sup>13</sup> Übrige Finanzerträge 45<sup>13</sup> Entnahmen aus Spezialfinanzierungen und Fonds 450<sup>13</sup> Entnahmen aus Fonds des Fremdkapitals 4501<sup>13</sup> Entnahmen aus Fonds des Fremdkapitals 4502<sup>13</sup> Entnahmen aus Legaten und Stiftungen des Fremdkapitals 451<sup>13</sup> Entnahmen aus Spezialfinanzierungen und Fonds des
-
-Eigenkapitals
-
-4510<sup>13</sup> Entnahmen aus Spezialfinanzierungen des Eigenkapitals 4511<sup>13</sup> Entnahmen aus Fonds des Eigenkapitals 46 Transferertrag 460<sup>11</sup> Ertragsanteile von Dritten 4600 Anteil an Bundeserträgen 4600.5 Anteil am Ertrag eidg. Mineralölsteuer 4601 Anteil an Kantonserträgen und Konkordaten 4601.0 Anteil am Ertrag kantonaler Steuern 4601.1 Anteil am Ertrag kantonaler Regalien und Konzessionen 4601.2 Anteil an kantonalen Gebühren 4601.9 Anteil an übrigen kantonalen Erträgen 4602 Anteil an Erträgen von Gemeinden und Zweckverbänden 4603 Anteil an Erträgen öffentlicher Sozialversicherungs-
-
-anstalten
-
-4604 Anteil an Erträgen öffentlicher Unternehmungen 461<sup>8</sup> Entschädigungen von öffentlichen Gemeinwesen 4610 Entschädigungen vom Bund 4611 Entschädigungen von Kantonen und Konkordaten 4612 Entschädigungen von Gemeinden und Zweckverbänden
+4290.60<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen Überbrückungsleistungen 4290.62<sup>14</sup> Nachzahlung abgeschriebener Rückerstattungsforderungen ÜL-Krankheits- und Behinderungskosten 43<sup>13</sup> Übrige Erträge 430<sup>13</sup> Übrige betriebliche Erträge 4300 Honorare privatärztlicher Tätigkeit 4301 Beschlagnahmte Vermögenswerte 4309 Übriger betrieblicher Ertrag 431 Aktivierung Eigenleistungen 4310 Aktivierbare Eigenleistungen auf Sachanlagen 4311 Aktivierbare Eigenleistungen auf immateriellen Anlagen 4312 Aktivierbare Projektierungskosten 432 Bestandesveränderungen 4320 Bestandesveränderungen Halb- und Fertigfabrikate 4321 Bestandesveränderungen angefangene Arbeiten (Dienstleistungen) 4329 Übrige Bestandesveränderungen 439 Übriger Ertrag 4390 Übriger Ertrag 44 Finanzertrag 440 Zinsertrag 4400 Zinsen flüssige Mittel 4401 Zinsen Forderungen und Kontokorrente 4401.1 Zinsen auf Steuerforderungen
 
 **43**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
-4613 Entschädigungen von öffentlichen Sozialversicherungen 4614 Entschädigungen von öffentlichen Unternehmungen 462 Finanz- und Lastenausgleich 4621 Finanz- und Lastenausgleich vom Kanton 4621.5 Finanzausgleichsbeiträge vom Kanton 4621.50 Ressourcenausgleichsbeiträge 4621.6 Lastenausgleichsbeiträge vom Kanton 4621.61 Demografische Sonderlastenausgleichsbeiträge 4621.62 Geografisch-topografische Sonderlastenausgleichsbeiträge 4621.63 Individuelle Sonderlastenausgleichsbeiträge 4621.64 Zentrumslastenausgleichsbeiträge 463<sup>8</sup> Beiträge von öffentlichen Gemeinwesen und Dritten 4630 Beiträge vom Bund 4631 Beiträge von Kantonen und Konkordaten 4631.3 Gesetzliche wirtschaftliche Hilfe: Kostenerstattungen des Kantons 4631.31 Kostenerstattungen des Kantons für schweizerische Staatsangehörige mit vollem Kostenersatz 4631.35 Kostenerstattungen des Kantons für ausländische Staatsangehörige mit vollem Kostenersatz 4632 Beiträge von Gemeinden und Zweckverbänden 4632.3 Gesetzliche wirtschaftliche Hilfe: Kostenerstattungen von Gemeinden 4632.31 Kostenerstattungen von Gemeinden für schweizerische Staatsangehörige mit vollem Kostenersatz 4632.35 Kostenerstattungen von Gemeinden für ausländische Staatsangehörige mit vollem Kostenersatz 4633 Beiträge von öffentlichen Sozialversicherungen 4634 Beiträge von öffentlichen Unternehmungen 4635 Beiträge von privaten Unternehmungen 4636 Beiträge von privaten Organisationen ohne Erwerbszweck 4637 Beiträge von privaten Haushalten 4637.1 Prämienverbilligungen: Rückerstattungen Dritter 4637.10 Durch Sozialhilfeempfänger rückerstattete Prämien; IPV, RDP und weitere nachträgliche Erträge 4637.11 Durch EL-Bezüger rückerstattete Prämien 4637.12 Durch BH-Bezüger rückerstattete Prämien 4637.2 Zusatzleistungen: Rückerstattungen Dritter 4637.20 Rückerstattungen Ergänzungsleistungen zur IV 4637.21 Rückerstattungen Ergänzungsleistungen zur AHV 4637.22 Rückerstattungen EL-Krankheits- und Behinderungskosten (zur IV) 4637.23 Rückerstattungen EL-Krankheits- und Behinderungskosten (zur AHV) 4637.24 Rückerstattungen Beihilfen 4637.25 Rückerstattungen kantonalrechtliche Zuschüsse 4637.26 Rückerstattungen Gemeindezuschüsse 4637.3 Gesetzliche wirtschaftliche Hilfe: Rückerstattungen Dritter 4637.30 Rückerstattungen Dritter für schweizerische Staatsangehörige ohne Kostenersatz 4637.31 Rückerstattungen Dritter für schweizerische Staats-
+4402 Zinsen Finanzanlagen 4409 Übrige Zinsen von Finanzvermögen 441 Realisierte Gewinne FV 4410 Gewinne aus Verkäufen von Finanzanlagen FV 4410.0 Gewinne aus Verkäufen von Aktien und Anteilscheinen
+
+FV
+
+4410.1 Gewinne aus Verkäufen von verzinslichen Anlagen FV 4410.9 Gewinne aus Verkäufen von übrigen Finanzanlagen FV 4411<sup>15</sup> Gewinne aus Verkäufen von Sach- und immateriellen Anlagen FV 4411.0 Gewinne aus Verkäufen von Grundstücken FV 4411.4 Gewinne aus Verkäufen von Gebäuden FV 4411.6 Gewinne aus Verkäufen von Mobilien FV 4411.9<sup>15</sup> Gewinne aus Verkäufen von übrigen Sach- und immateriellen Anlagen FV 4419 Übrige realisierte Gewinne aus Finanzvermögen FV 442 Beteiligungsertrag Finanzvermögen 4420 Dividenden 4429 Übriger Beteiligungsertrag 443 Liegenschaftenertrag Finanzvermögen 4430 Pacht- und Mietzinse Liegenschaften FV 4431 Vergütung für Dienstwohnungen FV 4432 Vergütung für Benützungen Liegenschaften FV 4439 Übriger Liegenschaftenertrag FV 444 Wertberichtigungen Anlagen Finanzvermögen 4440<sup>11</sup> Wertberichtigungen übrige Finanzanlagen FV 4441<sup>11</sup> Wertberichtigungen Darlehen FV 4442<sup>11</sup> Wertberichtigungen Beteiligungen FV 4443<sup>11</sup> Wertberichtigungen Liegenschaften FV 4443.0<sup>11</sup> Wertberichtigungen Grundstücke FV 4443.4<sup>11</sup> Wertberichtigungen Gebäude FV 4449<sup>15</sup> Wertberichtigungen übrige Sach- und immaterielle Anlagen FV 4449.6<sup>11</sup> Wertberichtigungen Mobilien FV 4449.9<sup>15</sup> Wertberichtigungen übrige Sach- und immaterielle Anlagen FV 445 Finanzertrag aus Darlehen und Beteiligungen des Verwaltungsvermögens 4450 Erträge aus Darlehen VV 4451 Erträge aus Beteiligungen VV ohne öffentliche Unternehmungen 446 Finanzertrag von öffentlichen Unternehmungen (VV) 4460 Öffentliche Betriebe des Bundes 4461 Öffentliche Unternehmen der Kantone mit öffentlichrechtlicher Rechtsform, Konkordate 4462 Zweckverbände, selbstständige und unselbstständige Gemeindebetriebe 4463 Öffentliche Unternehmen als Aktiengesellschaft oder
+
+andere privatrechtliche Organisationsform
+
+4468 Öffentliche Unternehmungen im Ausland 4469 Übrige öffentliche Unternehmungen 447 Liegenschaftenertrag Verwaltungsvermögen 4470 Pacht- und Mietzinse Liegenschaften VV 4471 Vergütung Dienstwohnungen VV 4472 Vergütung für Benützungen Liegenschaften VV 4479 Übrige Erträge Liegenschaften VV 448 Erträge von gemieteten Liegenschaften 4480 Mietzinse von gemieteten Liegenschaften 4489 Übrige Erträge von gemieteten Liegenschaften 449<sup>13</sup> Übrige Finanzerträge 4490 Aufwertungen VV 4499<sup>13</sup> Übrige Finanzerträge 45<sup>13</sup> Entnahmen aus Spezialfinanzierungen und Fonds 450<sup>13</sup> Entnahmen aus Fonds des Fremdkapitals 4501<sup>13</sup> Entnahmen aus Fonds des Fremdkapitals 4502<sup>13</sup> Entnahmen aus Legaten und Stiftungen des Fremdkapitals 451<sup>13</sup> Entnahmen aus Spezialfinanzierungen und Fonds des Eigenkapitals 4510<sup>13</sup> Entnahmen aus Spezialfinanzierungen des Eigenkapitals 4511<sup>13</sup> Entnahmen aus Fonds des Eigenkapitals 46 Transferertrag 460<sup>11</sup> Ertragsanteile von Dritten 4600 Anteil an Bundeserträgen 4600.5 Anteil am Ertrag eidg. Mineralölsteuer 4601 Anteil an Kantonserträgen und Konkordaten 4601.0 Anteil am Ertrag kantonaler Steuern
+
+**45**
+
+- 1\. 1. 22 - 115 4601.1 Anteil am Ertrag kantonaler Regalien und Konzessionen 4601.2 Anteil an kantonalen Gebühren 4601.9 Anteil an übrigen kantonalen Erträgen 4602 Anteil an Erträgen von Gemeinden und Zweckverbänden 4603 Anteil an Erträgen öffentlicher Sozialversicherungsanstalten 4604 Anteil an Erträgen öffentlicher Unternehmungen 461<sup>8</sup> Entschädigungen von öffentlichen Gemeinwesen 4610 Entschädigungen vom Bund 4611 Entschädigungen von Kantonen und Konkordaten 4612 Entschädigungen von Gemeinden und Zweckverbänden 4613 Entschädigungen von öffentlichen Sozialversicherungen 4614 Entschädigungen von öffentlichen Unternehmungen 462 Finanz- und Lastenausgleich 4621 Finanz- und Lastenausgleich vom Kanton 4621.5 Finanzausgleichsbeiträge vom Kanton 4621.50 Ressourcenausgleichsbeiträge 4621.6 Lastenausgleichsbeiträge vom Kanton 4621.61 Demografische Sonderlastenausgleichsbeiträge 4621.62 Geografisch-topografische Sonderlastenausgleichsbeiträge 4621.63 Individuelle Sonderlastenausgleichsbeiträge 4621.64 Zentrumslastenausgleichsbeiträge 463<sup>8</sup> Beiträge von öffentlichen Gemeinwesen und Dritten 4630 Beiträge vom Bund 4631 Beiträge von Kantonen und Konkordaten 4631.3 Gesetzliche wirtschaftliche Hilfe: Kostenerstattungen des Kantons 4631.31 Kostenerstattungen des Kantons für schweizerische Staatsangehörige mit vollem Kostenersatz 4631.35 Kostenerstattungen des Kantons für ausländische Staatsangehörige mit vollem Kostenersatz 4632 Beiträge von Gemeinden und Zweckverbänden 4632.3 Gesetzliche wirtschaftliche Hilfe: Kostenerstattungen von Gemeinden 4632.31 Kostenerstattungen von Gemeinden für schweizerische
+
+Staatsangehörige mit vollem Kostenersatz
+
+4632.35 Kostenerstattungen von Gemeinden für ausländische
+
+Staatsangehörige mit vollem Kostenersatz
+
+4633 Beiträge von öffentlichen Sozialversicherungen 4634 Beiträge von öffentlichen Unternehmungen 4635 Beiträge von privaten Unternehmungen 4636 Beiträge von privaten Organisationen ohne Erwerbszweck 4637 Beiträge von privaten Haushalten 4637.1 Prämienverbilligungen: Rückerstattungen Dritter 4637.10 Durch Sozialhilfeempfänger rückerstattete Prämien; IPV, RDP und weitere nachträgliche Erträge 4637.11<sup>15</sup> Durch EL-Bezüger rückerstattete Prämien (zu Unrecht bezogene KVG-Prämien) 4637.12<sup>15</sup> Durch BH-Bezüger rückerstattete Prämien (zu Unrecht bezogene KVG-Prämien) 4637.13<sup>14</sup> Durch EL-Bezüger rückerstattete Prämien (rechtmässig bezogene KVG-Prämien aus Nachlass) 4637.2 Zusatzleistungen: Rückerstattungen Dritter 4637.20<sup>15</sup> Rückerstattungen Ergänzungsleistungen (zu Unrecht bezogene Leistungen) 4637.21<sup>15</sup> Rückerstattungen Ergänzungsleistungen (rechtmässig bezogene Leistungen aus Nachlass) 4637.22<sup>15</sup> Rückerstattungen EL-Krankheits- und Behinderungskosten (zu Unrecht bezogene Leistungen) 4637.23<sup>15</sup> Rückerstattungen EL-Krankheits- und Behinderungskosten (rechtmässig bezogene Leistungen aus Nachlass) 4637.24<sup>15</sup> Rückerstattungen Beihilfen (zu Unrecht bezogene
+
+Leistungen)
+
+4637.25<sup>15</sup> Rückerstattungen kantonalrechtliche Zuschüsse (zu Unrecht bezogene Leistungen) 4637.26<sup>15</sup> Rückerstattungen Gemeindezuschüsse (zu Unrecht bezogene Leistungen) 4637.27<sup>14</sup> Rückerstattungen Beihilfen (rechtmässig bezogene Leistungen aus Nachlass) 4637.28<sup>14</sup> Rückerstattungen kantonalrechtliche Zuschüsse (rechtmässig bezogene Leistungen aus Nachlass) 4637.29<sup>14</sup> Rückerstattungen Gemeindezuschüsse (rechtmässig bezogene Leistungen) 4637.3 Gesetzliche wirtschaftliche Hilfe: Rückerstattungen
+
+Dritter
+
+4637.30 Rückerstattungen Dritter für schweizerische Staatsangehörige ohne Kostenersatz
+
+**47**
+
+- 1\. 1. 22 - 115 4637.31 Rückerstattungen Dritter für schweizerische Staats-
 
 angehörige mit vollem Kostenersatz
 
@@ -858,111 +870,91 @@ angehörige mit vollem Kostenersatz
 
 angehörige mit vollem Kostenersatz
 
-4638 Beiträge aus dem Ausland 469<sup>13</sup> Übriger Transferertrag 4690 Übriger Transferertrag 4699 Rückverteilungen 4699.1 Rückverteilung CO2-Abgabe 47 Durchlaufende Beiträge 470 Durchlaufende Beiträge 4700 Durchlaufende Beiträge vom Bund 4701 Durchlaufende Beiträge von Kantonen und Konkordaten 4702 Durchlaufende Beiträge von Gemeinden und Zweckverbänden 4703 Durchlaufende Beiträge von öffentlichen Sozialversicherungen 4704 Durchlaufende Beiträge von öffentlichen Unternehmungen 4705 Durchlaufende Beiträge von privaten Unternehmungen 4706 Durchlaufende Beiträge von privaten Organisationen ohne Erwerbszweck 4707 Durchlaufende Beiträge von privaten Haushalten 4708 Durchlaufende Beiträge aus dem Ausland
-
-**45**
-
-- 1\. 1. 21 - 111
-
-48 Ausserordentlicher Ertrag 489 Entnahmen aus dem Eigenkapital 4892 Entnahmen aus Rücklagen der Globalbudgetbereiche 4893 Entnahmen aus Vorfinanzierungen des EK 4894 Entnahmen aus finanzpolitischer Reserve 49 Interne Verrechnungen 490 Material- und Warenbezüge 4900 Interne Verrechnung von Material- und Warenbezügen 491 Dienstleistungen 4910 Interne Verrechnung von Dienstleistungen 492 Pacht, Mieten, Benützungskosten 4920 Interne Verrechnung von Pacht, Mieten, Benützungskosten 493 Betriebs- und Verwaltungskosten 4930 Interne Verrechnung von Betriebs- und Verwaltungskosten 494 Kalkulatorische Zinsen und Finanzaufwand 4940 Interne Verrechnung von kalkulatorischen Zinsen und Finanzaufwand 495 Planmässige und ausserplanmässige Abschreibungen 4950 Interne Verrechnung von planmässigen und ausserplanmässigen Abschreibungen 498 Übertragungen 4980 Interne Übertragungen 499 Übrige interne Verrechnungen 4990 Übrige interne Verrechnungen
+4637.6<sup>14</sup> Überbrückungsleistungen für ältere Arbeitslose: Rückerstattungen Dritter 4637.60<sup>14</sup> Rückerstattungen Überbrückungsleistungen 4637.62<sup>14</sup> Rückerstattungen ÜL-Krankheits- und Behinderungskosten 4638 Beiträge aus dem Ausland 469<sup>13</sup> Übriger Transferertrag 4690 Übriger Transferertrag 4699 Rückverteilungen 4699.1 Rückverteilung CO2-Abgabe 47 Durchlaufende Beiträge 470 Durchlaufende Beiträge 4700 Durchlaufende Beiträge vom Bund 4701 Durchlaufende Beiträge von Kantonen und Konkordaten 4702 Durchlaufende Beiträge von Gemeinden und Zweckverbänden 4703 Durchlaufende Beiträge von öffentlichen Sozialversicherungen 4704 Durchlaufende Beiträge von öffentlichen Unternehmungen 4705 Durchlaufende Beiträge von privaten Unternehmungen 4706 Durchlaufende Beiträge von privaten Organisationen ohne Erwerbszweck 4707 Durchlaufende Beiträge von privaten Haushalten 4708 Durchlaufende Beiträge aus dem Ausland 48 Ausserordentlicher Ertrag 489 Entnahmen aus dem Eigenkapital 4892 Entnahmen aus Rücklagen der Globalbudgetbereiche 4893 Entnahmen aus Vorfinanzierungen des EK 4894 Entnahmen aus finanzpolitischer Reserve 49 Interne Verrechnungen 490 Material- und Warenbezüge 4900 Interne Verrechnung von Material- und Warenbezügen 491 Dienstleistungen 4910 Interne Verrechnung von Dienstleistungen 492 Pacht, Mieten, Benützungskosten 4920 Interne Verrechnung von Pacht, Mieten, Benützungskosten 493 Betriebs- und Verwaltungskosten 4930 Interne Verrechnung von Betriebs- und Verwaltungskosten 494 Kalkulatorische Zinsen und Finanzaufwand 4940 Interne Verrechnung von kalkulatorischen Zinsen und Finanzaufwand 495 Planmässige und ausserplanmässige Abschreibungen 4950 Interne Verrechnung von planmässigen und ausserplanmässigen Abschreibungen 498 Übertragungen 4980 Interne Übertragungen 499 Übrige interne Verrechnungen 4990 Übrige interne Verrechnungen
 
 ### Investitionsrechnung Verwaltungsvermögen
 
-5 Investitionsausgaben 50 Sachanlagen 500 Grundstücke 5000 Grundstücke 501<sup>13</sup> Strassen und Verkehrswege 5010<sup>13</sup> Strassen und Verkehrswege 502 Wasserbau 5020 Wasserbau 503 Übriger Tiefbau 5030 Übrige Tiefbauten 504 Hochbauten 5040 Hochbauten 505 Waldungen 5050 Waldungen 506 Mobilien 5060 Mobilien 509 Übrige Sachanlagen 5090 Übrige Sachanlagen 51<sup>13</sup> Investitionsausgaben auf Rechnung Dritter 510 Grundstücke 5100<sup>13</sup> Investitionsausgaben für Grundstücke auf Rechnung Dritter 511<sup>13</sup> Strassen und Verkehrswege 5110<sup>13</sup> Investitionsausgaben für Strassen und Verkehrswege auf Rechnung Dritter 512 Wasserbau 5120<sup>13</sup> Investitionsausgaben für Wasserbau auf Rechnung Dritter 513 Übriger Tiefbau 5130<sup>13</sup> Investitionsausgaben für übriger Tiefbau auf Rechnung Dritter 514 Hochbauten 5140<sup>13</sup> Investitionsausgaben für Hochbauten auf Rechnung Dritter 515 Waldungen 5150<sup>13</sup> Investitionsausgaben für Waldungen auf Rechnung Dritter 516 Mobilien 5160<sup>13</sup> Investitionsausgaben für Mobilien auf Rechnung Dritter 519 Übrige Sachanlagen 5190<sup>13</sup> Investitionsausgaben für übrige Sachanlagen auf Rechnung Dritter 52 Immaterielle Anlagen 520 Software 5200 Software 521<sup>13</sup> Lizenzen, Nutzungsrechte, Markenrechte 5210<sup>13</sup> Lizenzen, Nutzungsrechte, Markenrechte 529 Übrige immaterielle Anlagen 5290 Übrige immaterielle Anlagen
-
-**47**
-
-- 1\. 1. 21 - 111
-
-54 Darlehen 540 Bund 5400 Darlehen an den Bund 541 Kantone und Konkordate 5410 Darlehen an Kantone und Konkordate 542 Gemeinden und Zweckverbände 5420 Darlehen an Gemeinden und Zweckverbände 543 Öffentliche Sozialversicherungen 5430 Darlehen an öffentliche Sozialversicherungen 544 Öffentliche Unternehmungen 5440 Darlehen an öffentlichen Unternehmungen 545 Private Unternehmungen 5450 Darlehen an private Unternehmungen 546 Private Organisationen ohne Erwerbszweck 5460 Darlehen an private Organisationen ohne Erwerbszweck 547 Private Haushalte 5470 Darlehen an private Haushalte 548 Ausland 5480 Darlehen an das Ausland 55 Beteiligungen und Grundkapitalien 550 Bund 5500 Beteiligungen am Bund 551 Kantone und Konkordate 5510 Beteiligungen an Kantonen und Konkordaten 552 Gemeinden und Zweckverbände 5520 Beteiligungen an Gemeinden und Zweckverbänden 553 Öffentliche Sozialversicherungen 5530 Beteiligungen an öffentlichen Sozialversicherungen 554 Öffentliche Unternehmungen 5540 Beteiligungen an öffentlichen Unternehmungen 555 Private Unternehmungen 5550 Beteiligungen an privaten Unternehmungen 556 Private Organisationen ohne Erwerbszweck 5560 Beteiligungen an privaten Organisationen ohne Erwerbszweck 557 Private Haushalte 5570 Beteiligungen an privaten Haushalten 558 Ausland 5580 Beteiligungen im Ausland 56 Eigene Investitionsbeiträge 560 Bund 5600 Investitionsbeiträge an den Bund 561 Kantone und Konkordate 5610 Investitionsbeiträge an Kantone und Konkordate 562 Gemeinden und Zweckverbände 5620 Investitionsbeiträge an Gemeinden und Zweckverbände 563 Öffentliche Sozialversicherungen 5630 Investitionsbeiträge an öffentliche Sozialversicherungen 564 Öffentliche Unternehmungen 5640 Investitionsbeiträge an öffentliche Unternehmungen 565 Private Unternehmungen 5650 Investitionsbeiträge an private Unternehmungen 566 Private Organisationen ohne Erwerbszweck 5660 Investitionsbeiträge an private Organisationen ohne Erwerbszweck 567 Private Haushalte 5670 Investitionsbeiträge an private Haushalte 568 Ausland 5680 Investitionsbeiträge an das Ausland 57 Durchlaufende Investitionsbeiträge 570 Bund 5700 Durchlaufende Investitionsbeiträge an den Bund 571 Kantone und Konkordate 5710 Durchlaufende Investitionsbeiträge an Kantone und Konkordate 572 Gemeinden und Zweckverbände 5720 Durchlaufende Investitionsbeiträge an Gemeinden
-
-und Zweckverbände
-
-573 Öffentliche Sozialversicherungen 5730 Durchlaufende Investitionsbeiträge an öffentliche Sozialversicherungen 574 Öffentliche Unternehmungen 5740 Durchlaufende Investitionsbeiträge an öffentliche Unternehmungen
+5 Investitionsausgaben 50 Sachanlagen 500 Grundstücke 5000 Grundstücke 501<sup>13</sup> Strassen und Verkehrswege 5010<sup>13</sup> Strassen und Verkehrswege 502 Wasserbau 5020 Wasserbau 503 Übriger Tiefbau 5030 Übrige Tiefbauten 504 Hochbauten 5040 Hochbauten 505 Waldungen 5050 Waldungen 506 Mobilien 5060 Mobilien
 
 **49**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
-575 Private Unternehmungen 5750 Durchlaufende Investitionsbeiträge an private Unternehmungen 576 Private Organisationen ohne Erwerbszweck 5760 Durchlaufende Investitionsbeiträge an private Organisationen ohne Erwerbszweck 577 Private Haushalte 5770 Durchlaufende Investitionsbeiträge an private Haushalte 578 Ausland 5780 Durchlaufende Investitionsbeiträge an das Ausland 59 Übertrag an Bilanz 590 Passivierungen 5900 Passivierte Einnahmen
+509 Übrige Sachanlagen 5090 Übrige Sachanlagen 51<sup>13</sup> Investitionsausgaben auf Rechnung Dritter 510 Grundstücke 5100<sup>13</sup> Investitionsausgaben für Grundstücke auf Rechnung
 
-6 Investitionseinnahmen 60 Übertragung von Sachanlagen in das Finanzvermögen 600 Übertragung von Grundstücken 6000 Übertragung von Grundstücken ins FV 601<sup>13</sup> Übertragung von Strassen und Verkehrswegen 6010<sup>13</sup> Übertragung von Strassen und Verkehrswegen ins FV 602 Übertragung von Wasserbauten 6020 Übertragung von Wasserbauten ins FV 603 Übertragung übrige Tiefbauten 6030 Übertragung von übrigen Tiefbauten ins FV 604 Übertragung Hochbauten 6040 Übertragung von Hochbauten ins FV 605 Übertragung Waldungen 6050 Übertragung von Waldungen ins FV 606 Übertragung Mobilien 6060 Übertragung von Mobilien ins FV 609 Übertragung übrige Sachanlagen 6090 Übertragung von übrigen Sachanlagen ins FV 61 Rückerstattungen 610 Grundstücke 6100 Rückerstattungen Dritter für Investitionen in Grundstücke 611<sup>13</sup> Strassen und Verkehrswege 6110<sup>13</sup> Rückerstattungen Dritter für Investitionen in Strassen und Verkehrswege 612 Wasserbau 6120 Rückerstattungen Dritter für Investitionen in Wasserbau 613 Übriger Tiefbau 6130 Rückerstattungen Dritter für Investitionen in übrigen Tiefbau 614 Hochbauten 6140 Rückerstattungen Dritter für Investitionen in Hochbauten 615 Waldungen 6150 Rückerstattungen Dritter für Investitionen in Waldungen 616 Mobilien 6160 Rückerstattungen Dritter für Investitionen in Mobilien 619 Übrige Sachanlagen 6190 Rückerstattungen Dritter für Investitionen in übrige Sachanlagen 62 Übertragung von immateriellen Anlagen in das Finanzvermögen 620 Software 6200 Übertragung von Software ins FV 621<sup>13</sup> Lizenzen, Nutzungsrechte, Markenrechte 6210<sup>13</sup> Übertragung von Lizenzen, Nutzungsrechten, Markenrechten ins FV 629 Übrige immaterielle Anlagen 6290 Übertragung von übrigen immateriellen Anlagen ins FV 63 Investitionsbeiträge für eigene Rechnung 630 Bund 6300 Investitionsbeiträge vom Bund 631 Kantone und Konkordate 6310 Investitionsbeiträge von Kantonen und Konkordaten 6319 Entnahmen aus Fonds überkommunaler Strassenbau 632 Gemeinden und Zweckverbände 6320 Investitionsbeiträge von Gemeinden und Zweckverbänden 633 Öffentliche Sozialversicherungen 6330 Investitionsbeiträge von öffentlichen Sozialversicherungen 634 Öffentliche Unternehmungen 6340 Investitionsbeiträge von öffentlichen Unternehmungen
+Dritter
+
+511<sup>13</sup> Strassen und Verkehrswege 5110<sup>13</sup> Investitionsausgaben für Strassen und Verkehrswege auf Rechnung Dritter 512 Wasserbau 5120<sup>13</sup> Investitionsausgaben für Wasserbau auf Rechnung Dritter 513 Übriger Tiefbau 5130<sup>13</sup> Investitionsausgaben für übriger Tiefbau auf Rechnung
+
+Dritter
+
+514 Hochbauten 5140<sup>13</sup> Investitionsausgaben für Hochbauten auf Rechnung
+
+Dritter
+
+515 Waldungen 5150<sup>13</sup> Investitionsausgaben für Waldungen auf Rechnung Dritter 516 Mobilien 5160<sup>13</sup> Investitionsausgaben für Mobilien auf Rechnung Dritter 519 Übrige Sachanlagen 5190<sup>13</sup> Investitionsausgaben für übrige Sachanlagen auf Rechnung Dritter 52 Immaterielle Anlagen 520 Software 5200 Software 521<sup>13</sup> Lizenzen, Nutzungsrechte, Markenrechte 5210<sup>13</sup> Lizenzen, Nutzungsrechte, Markenrechte 529 Übrige immaterielle Anlagen 5290 Übrige immaterielle Anlagen 54 Darlehen 540 Bund 5400 Darlehen an den Bund 541 Kantone und Konkordate 5410 Darlehen an Kantone und Konkordate 542 Gemeinden und Zweckverbände 5420 Darlehen an Gemeinden und Zweckverbände 543 Öffentliche Sozialversicherungen 5430 Darlehen an öffentliche Sozialversicherungen 544 Öffentliche Unternehmungen 5440<sup>15</sup> Darlehen an öffentliche Unternehmungen 545 Private Unternehmungen 5450 Darlehen an private Unternehmungen 546 Private Organisationen ohne Erwerbszweck 5460 Darlehen an private Organisationen ohne Erwerbszweck 547 Private Haushalte 5470 Darlehen an private Haushalte 548 Ausland 5480 Darlehen an das Ausland 55 Beteiligungen und Grundkapitalien 550 Bund 5500 Beteiligungen am Bund 551 Kantone und Konkordate 5510 Beteiligungen an Kantonen und Konkordaten 552 Gemeinden und Zweckverbände 5520 Beteiligungen an Gemeinden und Zweckverbänden 553 Öffentliche Sozialversicherungen 5530 Beteiligungen an öffentlichen Sozialversicherungen 554 Öffentliche Unternehmungen 5540 Beteiligungen an öffentlichen Unternehmungen 555 Private Unternehmungen 5550 Beteiligungen an privaten Unternehmungen 556 Private Organisationen ohne Erwerbszweck 5560 Beteiligungen an privaten Organisationen ohne Erwerbszweck 557 Private Haushalte 5570 Beteiligungen an privaten Haushalten 558 Ausland 5580 Beteiligungen im Ausland 56 Eigene Investitionsbeiträge 560 Bund 5600 Investitionsbeiträge an den Bund 561 Kantone und Konkordate 5610 Investitionsbeiträge an Kantone und Konkordate
 
 **51**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
-635 Private Unternehmungen 6350 Investitionsbeiträge von privaten Unternehmungen 636 Private Organisationen ohne Erwerbszweck 6360 Investitionsbeiträge von privaten Organisationen ohne
+562 Gemeinden und Zweckverbände 5620 Investitionsbeiträge an Gemeinden und Zweckverbände 563 Öffentliche Sozialversicherungen 5630 Investitionsbeiträge an öffentliche Sozialversicherungen 564 Öffentliche Unternehmungen 5640 Investitionsbeiträge an öffentliche Unternehmungen 565 Private Unternehmungen 5650 Investitionsbeiträge an private Unternehmungen 566 Private Organisationen ohne Erwerbszweck 5660 Investitionsbeiträge an private Organisationen ohne Erwerbszweck 567 Private Haushalte 5670 Investitionsbeiträge an private Haushalte 568 Ausland 5680 Investitionsbeiträge an das Ausland 57 Durchlaufende Investitionsbeiträge 570 Bund 5700 Durchlaufende Investitionsbeiträge an den Bund 571 Kantone und Konkordate 5710 Durchlaufende Investitionsbeiträge an Kantone und Konkordate 572 Gemeinden und Zweckverbände 5720 Durchlaufende Investitionsbeiträge an Gemeinden
 
-Erwerbszweck
+und Zweckverbände
 
-637 Private Haushalte 6370 Investitionsbeiträge von privaten Haushalten 6379 Entnahmen aus Fonds 638 Ausland 6380 Investitionsbeiträge aus dem Ausland 64 Rückzahlung von Darlehen 640 Bund 6400 Rückzahlung von Darlehen an den Bund 641 Kantone und Konkordate 6410 Rückzahlung von Darlehen an Kantone und Konkordate 642 Gemeinden und Zweckverbände 6420 Rückzahlung von Darlehen an Gemeinden und Zweckverbände 643 Öffentliche Sozialversicherungen 6430 Rückzahlung von Darlehen an öffentliche Sozial-
+573 Öffentliche Sozialversicherungen 5730 Durchlaufende Investitionsbeiträge an öffentliche Sozialversicherungen 574 Öffentliche Unternehmungen 5740 Durchlaufende Investitionsbeiträge an öffentliche Unternehmungen 575 Private Unternehmungen 5750 Durchlaufende Investitionsbeiträge an private Unternehmungen 576 Private Organisationen ohne Erwerbszweck 5760 Durchlaufende Investitionsbeiträge an private Organisationen ohne Erwerbszweck 577 Private Haushalte 5770 Durchlaufende Investitionsbeiträge an private Haushalte 578 Ausland 5780 Durchlaufende Investitionsbeiträge an das Ausland 59 Übertrag an Bilanz 590 Passivierungen 5900 Passivierte Einnahmen
 
-versicherungen
-
-644 Öffentliche Unternehmungen 6440 Rückzahlung von Darlehen an öffentliche Unter-
-
-nehmungen
-
-645 Private Unternehmungen 6450 Rückzahlung von Darlehen an private Unternehmungen 646 Private Organisationen ohne Erwerbszweck 6460 Rückzahlung von Darlehen an private Organisationen ohne Erwerbszweck 647 Private Haushalte 6470 Rückzahlung von Darlehen an private Haushalte 648 Ausland 6480 Rückzahlung von Darlehen an das Ausland 65 Übertragung von Beteiligungen in das Finanzvermögen 650 Bund 6500 Übertragung von Beteiligungen am Bund ins FV 651 Kantone und Konkordate 6510 Übertragung von Beteiligungen an Kantonen und
-
-Konkordaten ins FV
-
-652 Gemeinden und Zweckverbände 6520 Übertragung von Beteiligungen an Gemeinden und
-
-Zweckverbänden ins FV
-
-653 Öffentliche Sozialversicherungen 6530 Übertragung von Beteiligungen an öffentlichen Sozial-
-
-versicherungen ins FV
-
-654 Öffentliche Unternehmungen 6540 Übertragung von Beteiligungen an öffentlichen Unter-
-
-nehmungen ins FV
-
-655 Private Unternehmungen 6550 Übertragung von Beteiligungen an privaten Unter-
-
-nehmungen ins FV
-
-656 Private Organisationen ohne Erwerbszweck 6560 Übertragung von Beteiligungen an privaten Organisationen ohne Erwerbszweck ins FV 657 Private Haushalte 6570 Übertragung von Beteiligungen an privaten Haushalten ins FV 658 Ausland 6580 Übertragung von Beteiligungen im Ausland ins FV 66 Rückzahlung eigener Investitionsbeiträge 660 Bund 6600 Rückzahlung von Investitionsbeiträgen an den Bund 661 Kantone und Konkordate 6610 Rückzahlung von Investitionsbeiträgen an Kantone und Konkordate 662 Gemeinden und Zweckverbände 6620 Rückzahlung von Investitionsbeiträgen an Gemeinden und Zweckverbände 663 Öffentliche Sozialversicherungen 6630 Rückzahlung von Investitionsbeiträgen an öffentliche
-
-Sozialversicherungen
-
-664 Öffentliche Unternehmungen 6640 Rückzahlung von Investitionsbeiträgen an öffentliche
-
-Unternehmungen
-
-665 Private Unternehmungen
+6 Investitionseinnahmen 60 Übertragung von Sachanlagen in das Finanzvermögen 600 Übertragung von Grundstücken 6000 Übertragung von Grundstücken ins FV 601<sup>13</sup> Übertragung von Strassen und Verkehrswegen 6010<sup>13</sup> Übertragung von Strassen und Verkehrswegen ins FV 602 Übertragung von Wasserbauten 6020 Übertragung von Wasserbauten ins FV 603 Übertragung übrige Tiefbauten 6030 Übertragung von übrigen Tiefbauten ins FV 604 Übertragung Hochbauten 6040 Übertragung von Hochbauten ins FV 605 Übertragung Waldungen 6050 Übertragung von Waldungen ins FV 606 Übertragung Mobilien 6060 Übertragung von Mobilien ins FV 609 Übertragung übrige Sachanlagen 6090 Übertragung von übrigen Sachanlagen ins FV 61<sup>15</sup> Rückerstattungen von Investitionsausgaben auf Rechnung Dritter 610 Grundstücke 6100 Rückerstattungen Dritter für Investitionen in Grundstücke 611<sup>13</sup> Strassen und Verkehrswege 6110<sup>13</sup> Rückerstattungen Dritter für Investitionen in Strassen und Verkehrswege 612 Wasserbau 6120 Rückerstattungen Dritter für Investitionen in Wasserbau 613 Übriger Tiefbau 6130 Rückerstattungen Dritter für Investitionen in übrigen Tiefbau 614 Hochbauten
 
 **53**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
-6650 Rückzahlung von Investitionsbeiträgen an private Unternehmungen 666 Private Organisationen ohne Erwerbszweck 6660 Rückzahlung von Investitionsbeiträgen an private Organisationen ohne Erwerbszweck 667 Private Haushalte 6670 Rückzahlung von Investitionsbeiträgen an private Haushalte 668 Ausland 6680 Rückzahlung von Investitionsbeiträgen an das Ausland 67 Durchlaufende Investitionsbeiträge 670 Bund 6700 Durchlaufende Investitionsbeiträge vom Bund 671 Kantone und Konkordate 6710 Durchlaufende Investitionsbeiträge von Kantonen und Konkordaten 672 Gemeinden und Zweckverbände 6720 Durchlaufende Investitionsbeiträge von Gemeinden und Zweckverbänden 673 Öffentliche Sozialversicherungen 6730 Durchlaufende Investitionsbeiträge von öffentlichen Sozialversicherungen 674 Öffentliche Unternehmungen 6740 Durchlaufende Investitionsbeiträge von öffentlichen Unternehmungen 675 Private Unternehmungen 6750 Durchlaufende Investitionsbeiträge von privaten Unternehmungen 676 Private Organisationen ohne Erwerbszweck 6760 Durchlaufende Investitionsbeiträge von privaten Organisationen ohne Erwerbszweck 677 Private Haushalte 6770 Durchlaufende Investitionsbeiträge von privaten Haushalten 678 Ausland 6780 Durchlaufende Investitionsbeiträge aus dem Ausland 69 Übertrag an Bilanz 690 Aktivierungen 6900 Aktivierte Ausgaben
-
-### Investitionsrechnung Finanzvermögen
-
-7 Ausgaben für Sachanlagen des Finanzvermögens 70 Investitionen in Sachanlagen 700 Grundstücke 7000 Investitionen in Grundstücke 704 Gebäude 7040 Investitionen in Gebäude 706 Mobilien 7060 Investitionen in Mobilien 709 Übrige Sachanlagen 7090 Investitionen in übrige Sachanlagen 72 Erwerbs- und Verkaufsnebenkosten von Sachanlagen 720 Grundstücke 7200 Erwerbs- und Verkaufsnebenkosten von Grundstücken (liquiditätswirksam) 7201 Erwerbs- und Verkaufsnebenkosten von Grundstücken (nicht liquiditätswirksam) 724 Gebäude 7240 Erwerbs- und Verkaufsnebenkosten von Gebäuden (liquiditätswirksam) 7241 Erwerbs- und Verkaufsnebenkosten von Gebäuden (nicht liquiditätswirksam) 726 Mobilien 7260 Erwerbs- und Verkaufsnebenkosten von Mobilien (liquiditätswirksam) 7261 Erwerbs- und Verkaufsnebenkosten von Mobilien (nicht liquiditätswirksam) 729 Übrige Sachanlagen 7290 Erwerbs- und Verkaufsnebenkosten von übrigen Sachanlagen (liquiditätswirksam) 7291 Erwerbs- und Verkaufsnebenkosten von übrigen Sachanlagen (nicht liquiditätswirksam) 75 Übertragung von Sachanlagen aus dem Verwaltungs-
-
-vermögen
-
-750 Grundstücke 7500 Übertragung von Grundstücken aus dem VV 754 Gebäude 7540 Übertragung von Gebäuden aus dem VV
+6140 Rückerstattungen Dritter für Investitionen in Hochbauten 615 Waldungen 6150 Rückerstattungen Dritter für Investitionen in Waldungen 616 Mobilien 6160 Rückerstattungen Dritter für Investitionen in Mobilien 619 Übrige Sachanlagen 6190 Rückerstattungen Dritter für Investitionen in übrige Sachanlagen 62 Übertragung von immateriellen Anlagen in das Finanzvermögen 620 Software 6200 Übertragung von Software ins FV 621<sup>13</sup> Lizenzen, Nutzungsrechte, Markenrechte 6210<sup>13</sup> Übertragung von Lizenzen, Nutzungsrechten, Markenrechten ins FV 629 Übrige immaterielle Anlagen 6290 Übertragung von übrigen immateriellen Anlagen ins FV 63 Investitionsbeiträge für eigene Rechnung 630 Bund 6300 Investitionsbeiträge vom Bund 631 Kantone und Konkordate 6310 Investitionsbeiträge von Kantonen und Konkordaten 6319 Entnahmen aus Fonds überkommunaler Strassenbau 632 Gemeinden und Zweckverbände 6320 Investitionsbeiträge von Gemeinden und Zweckverbänden 633 Öffentliche Sozialversicherungen 6330 Investitionsbeiträge von öffentlichen Sozialversicherungen 634 Öffentliche Unternehmungen 6340 Investitionsbeiträge von öffentlichen Unternehmungen 635 Private Unternehmungen 6350 Investitionsbeiträge von privaten Unternehmungen 636 Private Organisationen ohne Erwerbszweck 6360 Investitionsbeiträge von privaten Organisationen ohne Erwerbszweck 637 Private Haushalte 6370 Investitionsbeiträge von privaten Haushalten 6379 Entnahmen aus Fonds 638 Ausland 6380 Investitionsbeiträge aus dem Ausland 64 Rückzahlung von Darlehen 640 Bund 6400 Rückzahlung von Darlehen an den Bund 641 Kantone und Konkordate 6410 Rückzahlung von Darlehen an Kantone und Konkordate 642 Gemeinden und Zweckverbände 6420 Rückzahlung von Darlehen an Gemeinden und Zweckverbände 643 Öffentliche Sozialversicherungen 6430 Rückzahlung von Darlehen an öffentliche Sozialversicherungen 644 Öffentliche Unternehmungen 6440 Rückzahlung von Darlehen an öffentliche Unternehmungen 645 Private Unternehmungen 6450 Rückzahlung von Darlehen an private Unternehmungen 646 Private Organisationen ohne Erwerbszweck 6460 Rückzahlung von Darlehen an private Organisationen ohne Erwerbszweck 647 Private Haushalte 6470 Rückzahlung von Darlehen an private Haushalte 648 Ausland 6480 Rückzahlung von Darlehen an das Ausland 65 Übertragung von Beteiligungen in das Finanzvermögen 650 Bund 6500 Übertragung von Beteiligungen am Bund ins FV 651 Kantone und Konkordate 6510 Übertragung von Beteiligungen an Kantonen und Konkordaten ins FV 652 Gemeinden und Zweckverbände 6520 Übertragung von Beteiligungen an Gemeinden und Zweckverbänden ins FV 653 Öffentliche Sozialversicherungen 6530 Übertragung von Beteiligungen an öffentlichen Sozialversicherungen ins FV 654 Öffentliche Unternehmungen
 
 **55**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
-756 Mobilien 7560 Übertragung von Mobilien aus dem VV 759 Übrige Sachanlagen 7590 Übertragung von übrigen Sachanlagen aus dem VV 77 Übertragung von realisierten Gewinnen aus Sachanlagen in die Erfolgsrechnung 770 Grundstücke 7700 Übertragung von realisierten Gewinnen aus Grundstücken in die Erfolgsrechnung 774 Gebäude 7740 Übertragung von realisierten Gewinnen aus Gebäuden in die Erfolgsrechnung 776 Mobilien 7760 Übertragung von realisierten Gewinnen aus Mobilien in die Erfolgsrechnung 779 Übrige Sachanlagen 7790 Übertragung von realisierten Gewinnen aus übrigen Sachanlagen in die Erfolgsrechnung 79 Übertrag an Bilanz 799 Abgang Sachanlagen Finanzvermögen 7990 Abgang Sachanlagen FV
+6540 Übertragung von Beteiligungen an öffentlichen Unternehmungen ins FV 655 Private Unternehmungen 6550 Übertragung von Beteiligungen an privaten Unternehmungen ins FV 656 Private Organisationen ohne Erwerbszweck 6560 Übertragung von Beteiligungen an privaten Organisationen ohne Erwerbszweck ins FV 657 Private Haushalte 6570 Übertragung von Beteiligungen an privaten Haushalten
 
-8 Einnahmen für Sachanlagen des Finanzvermögens 80 Verkauf von Sachanlagen 800 Grundstücke 8000 Verkauf von Grundstücken 804 Gebäude 8040 Verkauf von Gebäuden 806 Mobilien 8060 Verkauf von Mobilien 809 Übrige Sachanlagen 8090 Verkauf von übrigen Sachanlagen 82 Beiträge Dritter für Sachanlagen 820 Grundstücke 8200 Beiträge Dritter für Grundstücke 824 Gebäude 8240 Beiträge Dritter für Gebäude 826 Mobilien 8260 Beiträge Dritter für Mobilien 829 Übrige Sachanlagen 8290 Beiträge Dritter für übrige Sachanlagen 85 Übertragung von Sachanlagen ins Verwaltungsvermögen 850 Grundstücke 8500 Übertragung von Grundstücken ins VV 854 Gebäude 8540 Übertragung von Gebäuden ins VV 856 Mobilien 8560 Übertragung von Mobilien ins VV 859 Übrige Sachanlagen 8590 Übertragung von übrigen Sachanlagen ins VV 87 Übertragung von realisierten Verlusten aus Sachanlagen in die Erfolgsrechnung 870 Grundstücke 8700 Übertragung von realisierten Verlusten aus Grundstücken in die Erfolgsrechnung 874 Gebäude 8740 Übertragung von realisierten Verlusten aus Gebäuden in die Erfolgsrechnung 876 Mobilien 8760 Übertragung von realisierten Verlusten aus Mobilien in die Erfolgsrechnung 879 Übrige Sachanlagen 8790 Übertragung von realisierten Verlusten aus übrigen Sachanlagen in die Erfolgsrechnung 89 Übertrag an Bilanz 899 Zugang Sachanlagen Finanzvermögen 8990 Zugang Sachanlagen FV
+ins FV
+
+658 Ausland 6580 Übertragung von Beteiligungen im Ausland ins FV 66 Rückzahlung eigener Investitionsbeiträge 660 Bund 6600 Rückzahlung von Investitionsbeiträgen an den Bund 661 Kantone und Konkordate 6610 Rückzahlung von Investitionsbeiträgen an Kantone und Konkordate 662 Gemeinden und Zweckverbände 6620 Rückzahlung von Investitionsbeiträgen an Gemeinden und Zweckverbände 663 Öffentliche Sozialversicherungen 6630 Rückzahlung von Investitionsbeiträgen an öffentliche Sozialversicherungen 664 Öffentliche Unternehmungen 6640 Rückzahlung von Investitionsbeiträgen an öffentliche Unternehmungen 665 Private Unternehmungen 6650 Rückzahlung von Investitionsbeiträgen an private Unter-
+
+nehmungen
+
+666 Private Organisationen ohne Erwerbszweck 6660 Rückzahlung von Investitionsbeiträgen an private Organisationen ohne Erwerbszweck 667 Private Haushalte 6670 Rückzahlung von Investitionsbeiträgen an private Haus-
+
+halte
+
+668 Ausland 6680 Rückzahlung von Investitionsbeiträgen an das Ausland 67 Durchlaufende Investitionsbeiträge 670 Bund 6700 Durchlaufende Investitionsbeiträge vom Bund 671 Kantone und Konkordate 6710 Durchlaufende Investitionsbeiträge von Kantonen und Konkordaten 672 Gemeinden und Zweckverbände 6720 Durchlaufende Investitionsbeiträge von Gemeinden und Zweckverbänden 673 Öffentliche Sozialversicherungen 6730 Durchlaufende Investitionsbeiträge von öffentlichen Sozialversicherungen 674 Öffentliche Unternehmungen 6740 Durchlaufende Investitionsbeiträge von öffentlichen Unternehmungen 675 Private Unternehmungen 6750 Durchlaufende Investitionsbeiträge von privaten Unternehmungen 676 Private Organisationen ohne Erwerbszweck 6760 Durchlaufende Investitionsbeiträge von privaten Organisationen ohne Erwerbszweck 677 Private Haushalte 6770 Durchlaufende Investitionsbeiträge von privaten Haushalten 678 Ausland 6780 Durchlaufende Investitionsbeiträge aus dem Ausland 69 Übertrag an Bilanz 690 Aktivierungen 6900 Aktivierte Ausgaben
+
+### Investitionsrechnung Finanzvermögen
+
+7 Ausgaben für Sachanlagen des Finanzvermögens 70 Investitionen in Sachanlagen 700 Grundstücke 7000 Investitionen in Grundstücke 704 Gebäude 7040 Investitionen in Gebäude 706 Mobilien
+
+**57**
+
+- 1\. 1. 22 - 115
+
+7060 Investitionen in Mobilien 709 Übrige Sachanlagen 7090 Investitionen in übrige Sachanlagen 72 Erwerbs- und Verkaufsnebenkosten von Sachanlagen 720 Grundstücke 7200 Erwerbs- und Verkaufsnebenkosten von Grundstücken (liquiditätswirksam) 7201 Erwerbs- und Verkaufsnebenkosten von Grundstücken (nicht liquiditätswirksam) 724 Gebäude 7240 Erwerbs- und Verkaufsnebenkosten von Gebäuden (liquiditätswirksam) 7241 Erwerbs- und Verkaufsnebenkosten von Gebäuden (nicht liquiditätswirksam) 726 Mobilien 7260 Erwerbs- und Verkaufsnebenkosten von Mobilien (liquiditätswirksam) 7261 Erwerbs- und Verkaufsnebenkosten von Mobilien (nicht liquiditätswirksam) 729 Übrige Sachanlagen 7290 Erwerbs- und Verkaufsnebenkosten von übrigen Sachanlagen (liquiditätswirksam) 7291 Erwerbs- und Verkaufsnebenkosten von übrigen Sachanlagen (nicht liquiditätswirksam) 75 Übertragung von Sachanlagen aus dem Verwaltungs-
+
+vermögen
+
+750 Grundstücke 7500 Übertragung von Grundstücken aus dem VV 754 Gebäude 7540 Übertragung von Gebäuden aus dem VV 756 Mobilien 7560 Übertragung von Mobilien aus dem VV 759 Übrige Sachanlagen 7590 Übertragung von übrigen Sachanlagen aus dem VV 77 Übertragung von realisierten Gewinnen aus Sachanlagen in die Erfolgsrechnung 770 Grundstücke 7700 Übertragung von realisierten Gewinnen aus Grundstücken in die Erfolgsrechnung 774 Gebäude 7740 Übertragung von realisierten Gewinnen aus Gebäuden in die Erfolgsrechnung 776 Mobilien 7760 Übertragung von realisierten Gewinnen aus Mobilien in die Erfolgsrechnung 779 Übrige Sachanlagen 7790 Übertragung von realisierten Gewinnen aus übrigen Sachanlagen in die Erfolgsrechnung 79 Übertrag an Bilanz 799 Abgang Sachanlagen Finanzvermögen 7990 Abgang Sachanlagen FV
+
+8 Einnahmen für Sachanlagen des Finanzvermögens 80 Verkauf von Sachanlagen 800 Grundstücke 8000 Verkauf von Grundstücken 804 Gebäude 8040 Verkauf von Gebäuden 806 Mobilien 8060 Verkauf von Mobilien 809 Übrige Sachanlagen 8090 Verkauf von übrigen Sachanlagen 82 Beiträge Dritter für Sachanlagen 820 Grundstücke 8200 Beiträge Dritter für Grundstücke 824 Gebäude 8240 Beiträge Dritter für Gebäude 826 Mobilien 8260 Beiträge Dritter für Mobilien 829 Übrige Sachanlagen 8290 Beiträge Dritter für übrige Sachanlagen 85 Übertragung von Sachanlagen ins Verwaltungsvermögen 850 Grundstücke 8500 Übertragung von Grundstücken ins VV 854 Gebäude 8540 Übertragung von Gebäuden ins VV
+
+**59**
+
+- 1\. 1. 22 - 115
+
+856 Mobilien 8560 Übertragung von Mobilien ins VV 859 Übrige Sachanlagen 8590 Übertragung von übrigen Sachanlagen ins VV 87 Übertragung von realisierten Verlusten aus Sachanlagen in die Erfolgsrechnung 870 Grundstücke 8700 Übertragung von realisierten Verlusten aus Grundstücken in die Erfolgsrechnung 874 Gebäude 8740 Übertragung von realisierten Verlusten aus Gebäuden in die Erfolgsrechnung 876 Mobilien 8760 Übertragung von realisierten Verlusten aus Mobilien in die Erfolgsrechnung 879 Übrige Sachanlagen 8790 Übertragung von realisierten Verlusten aus übrigen Sachanlagen in die Erfolgsrechnung 89 Übertrag an Bilanz 899 Zugang Sachanlagen Finanzvermögen 8990 Zugang Sachanlagen FV
 
 ### Abschluss Erfolgsrechnung
 
 9 Abschlusskonten 90 Abschluss Erfolgsrechnung 900 Abschluss allgemeiner Haushalt 9000 Ertragsüberschuss 9001 Aufwandüberschuss
-
-**57**
-
-- 1\. 1. 21 - 111
 
 ### Anhang 2
 
@@ -1000,6 +992,10 @@ Die Positionen des Finanzvermögens werden wie folgt bewertet:
 
 - 15\. grundbuchamtlich nicht ausgeschiedene Grundeigentumsanteile zum kapitalisierten Ertragswert.
 
+**61**
+
+- 1\. 1. 22 - 115
+
 ### 2. Steuerertrag und Kennzahlen zum Haushaltsgleichgewicht
 
 ### 2.1 Massgebender Steuerertrag
@@ -1033,10 +1029,6 @@ Bilanz gemäss Anhang 1 Ziff. 2 berechnet:
 ### Eigenkapitalquote (in %) = (299 + 294 + 2961) × 100
 
 2 – 209 – 290 – 291 – 292 – 293
-
-**59**
-
-- 1\. 1. 21 - 111
 
 ### 2.4 Investitionsanteil
 
@@ -1078,6 +1070,10 @@ Erfolgsrechnung gemäss Anhang 1 Ziff. 2 berechnet:
 
 40 + 41 + 42 + 43 + 44 + 45 + 46
 
+**63**
+
+- 1\. 1. 22 - 115
+
 ### 3.3 Nettoverschuldungsquotient
 
 ### Nettoverschuldungsquotient (in %)
@@ -1103,10 +1099,6 @@ gemäss Anhang 1 Ziff. 2 berechnet:
 ### Nettoschuld I pro Einwohnerin und Einwohner (in Fr.) = (20 – 10) Einwohnerbestand
 
 Der Einwohnerbestand richtet sich nach der Einwohnerzahl gemäss § 8 lit. e des Finanzausgleichsgesetzes vom 12. Juli 2010<sup>4</sup> und § 1 FAV<sup>5</sup>.
-
-**61**
-
-- 1\. 1. 21 - 111
 
 - 4\. Anlagekategorien und Nutzungsdauern
 
@@ -1186,7 +1178,11 @@ Anlagekategorien Mindest- erweiterter standard Standard
 
 - 27\. Betriebseinrichtungen (Installationen, BKP-Nr. 3)
 
-- 28\. Umgebung (BKP-Nr. 4) Anlagekategorien Mindest- erweiterter standard Standard
+- 28\. Umgebung (BKP-Nr. 4)
+
+**65**
+
+- 1\. 1. 22 - 115 Anlagekategorien Mindest- erweiterter standard Standard
 
 **Nutzungsdauern**
 
@@ -1210,7 +1206,7 @@ Anlagekategorien Mindest- erweiterter standard Standard
 
 - 32\. Kommunale Wohn- und Gewerbeliegenschaften bei Führung eines Liegenschaftenfonds gemäss § 8
 
-[^hMietverhältnisgemäs-1]: WBFV = Wohnbauförderungsverordnung vom 1. Juni 2005 1. 1. 21 - 111 63
+[^hMietverhältnisgemäs-1]: WBFV = Wohnbauförderungsverordnung vom 1. Juni 2005
 
 ### WBFV
 
@@ -1326,6 +1322,12 @@ gelegte Nutzungsdauer der mitfinanzierten Anlage abgeschrieben.
 
 ### F. Investitionsbeiträge – Beiträge von Dritten (Einnahmen) Anschlussgebühren
 
+**40**
+
+**67**
+
+- 1\. 1. 22 - 115
+
 ### 4.2 Bereichsspezifische Anlagekategorien und Nutzungsdauern
 
 ### A. Branchenregelungen
@@ -1342,13 +1344,13 @@ Für die nachstehenden Aufgabenbereiche können die Anlagekategorien und Nutzung
 
 - Wasserversorgung Schweizerischer Verein des Gas- und Wasserfaches, SVGW Empfehlung zur Finanzierung der Wasserversorgung
 
-- Alters-, Kranken- und Pflegeheime, Alterswohnungen Koordinationsgruppe Langzeitpflege Schweiz, KGL Handbuch Anlagebuchhaltung für Alters- und Pflegeheime
-
-**40**
+- Alters-, Kranken- und Pflegeheime, Alterswohnungen<sup>15</sup> CURAVIVA Schweiz Handbuch Anlagebuchhaltung für Alters- und Pflegeheime
 
 - Spitäler H+ Die Spitäler der Schweiz Betriebliches Rechnungswesen im Spital
 
 - Ambulante Krankenpflege (Spitex) Spitex Verband Schweiz Finanzmanual, Das Handbuch zum Rechnungswesen
+
+- Sonderschulen<sup>14</sup> Konferenz der kantonalen Sozialdirektorinnen und Sozialdirektoren (SODK) IVSE-Richtlinie zur Leistungsabgeltung und zur Kostenrechnung (IVSE-Richtlinie LAKORE)
 
 ### B. Nach kantonalem Recht
 
@@ -1388,9 +1390,13 @@ Für die nachstehenden Aufgabenbereiche können die aufgeführten Anlagekategori
 
 2000
 
+**69**
+
+- 1\. 1. 22 - 115
+
 ## Weitere Fussnoten
 
-- [*] Bezugsquelle: www.expertsuisse.ch. Einsehbar beim Gemeindeamt des Kantons Zürich. 1. 1. 21 - 111 9
+- [*] Bezugsquelle: www.expertsuisse.ch. Einsehbar beim Gemeindeamt des Kantons Zürich. 1. 1. 22 - 115 9
 - [1] OS 72, 238; Begründung siehe ABl 2016-07-15. Vom Kantonsrat genehmigt am 7. November 2016.
 - [2] Inkrafttreten: 1. Januar 2018.
 - [6] LS 161.1.
@@ -1399,5 +1405,7 @@ Für die nachstehenden Aufgabenbereiche können die aufgeführten Anlagekategori
 - [10] Fassung gemäss RRB vom 29. August 2018 (OS 73, 523; ABl 2018-09-07). In Kraft seit 1. Januar 2019.
 - [11] Fassung gemäss RRB vom 22. Mai 2019 (OS 74, 555; ABl 2019-05-31). In Kraft seit 1. Januar 2020.
 - [12] Eingefügt durch RRB vom 26. August 2020 (OS 75, 549; ABl 2020-09-04). In Kraft seit 1. Januar 2021.
-- [13] Fassung gemäss RRB vom 26. August 2020 (OS 75, 549; ABl 2020-09-04). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 13
-- [*] Einsehbar beim Gemeindeamt des Kantons Zürich. 1. 1. 21 - 111 65
+- [13] Fassung gemäss RRB vom 26. August 2020 (OS 75, 549; ABl 2020-09-04). In Kraft seit 1. Januar 2021.
+- [14] Eingefügt durch RRB vom 14. Juli 2021 (OS 76, 539; ABl 2021-07-23). In Kraft seit 1. Januar 2022.
+- [15] Fassung gemäss RRB vom 14. Juli 2021 (OS 76, 539; ABl 2021-07-23). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 13
+- [*] Einsehbar beim Gemeindeamt des Kantons Zürich.
