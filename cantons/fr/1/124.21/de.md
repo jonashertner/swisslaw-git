@@ -3,20 +3,20 @@ canton: FR
 number: "124.21"
 title: Verordnung über das Amtsblatt
 language: de
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-27
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2022-01-31
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/124.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5843/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7107/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Amtsblatt
 
-vom 21.12.2010 (Fassung in Kraft getreten am 01.01.2019)
+vom 21.12.2010 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -88,7 +88,7 @@ beschliesst:
 <sup>1</sup> Ein Gratisabonnement des Amtsblatts erhalten von Amts wegen:
 
 - a) die Gemeinden des Kantons und der Freiburger Gemeindeverband;
-- b) die Oberämter und die Behörde für Öffentlichkeit und Datenschutz;
+- b) die Oberämter und die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation;
 - c) die Gerichtsbehörden des Kantons.
 
 <sup>2</sup> Ein Gratisabonnement des Amtsblatts erhalten auf Verlangen:

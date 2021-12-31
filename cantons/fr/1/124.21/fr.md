@@ -3,20 +3,20 @@ canton: FR
 number: "124.21"
 title: Ordonnance concernant la Feuille officielle
 language: fr
-version: 2019-01-01
-valid_until: 2021-12-31
-version_adopted: 2018-11-27
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2022-01-31
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/124.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5843/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7107/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la Feuille officielle
 
-du 21.12.2010 (version entrée en vigueur le 01.01.2019)
+du 21.12.2010 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -88,7 +88,7 @@ Arrête:
 <sup>1</sup> Obtiennent d'office un abonnement gratuit à la Feuille officielle:
 
 - a) les communes du canton ainsi que l'Association des communes fribourgeoises;
-- b) les préfectures et l'Autorité cantonale de la transparence et de la protection des données;
+- b) les préfectures et l'Autorité cantonale de la transparence, de la protection des données et de la médiation;
 - c) les autorités judiciaires du canton.
 
 <sup>2</sup> Obtiennent, sur demande, un abonnement gratuit à la Feuille officielle:
