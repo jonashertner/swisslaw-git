@@ -4,13 +4,13 @@ number: VIII D/13/2
 title: "Verordnung über den Vollzug des Einführungsgesetzes zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: "Ergänzungsleistungsverordnung, ELV"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-12-15
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-09
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.13.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2199/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2250/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2199/pdf_file"
 
 (Ergänzungsleistungsverordnung, ELV)
 
-Vom 27.11.2007 (Stand 01.01.2021)
+Vom 27.11.2007 (Stand 01.01.2022)
 
 Der Regierungsrat,
 
@@ -305,7 +305,7 @@ verordnet:
 - b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 29.00 Franken;
 - c. KLV (Pflege)
   - 1\. Stufe 1 — 8.35 Franken;
-  - 2\. Stufe 2 — 15.30 Franken;
+  - 2\. Stufe 2 — 15.15 Franken;
   - 3\. ab Stufe 3 — 23.04 Franken.
   - 4\. …
 
@@ -325,7 +325,7 @@ verordnet:
 - b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 60 Franken;
 - c. KLV (Pflege)
   - 1\. Stufe 1 — 8.35 Franken;
-  - 2\. Stufe 2 — 15.30 Franken;
+  - 2\. Stufe 2 — 15.15 Franken;
   - 3\. ab Stufe 3 — 23.04 Franken.
 
 <sup>2</sup> Beiträge an die berechtigten Pflegekosten gemäss Artikel A1-1 Absatz 2 Ziffer 3 werden nur ausgerichtet, soweit die Sozialversicherungsbeiträge diese nicht decken und höchstens bis zur Höhe der maximalen Pflegekostenbeteiligung der Versicherten (Art. 25a Abs. 5 KVG).
