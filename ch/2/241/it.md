@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1986 contro la concorrenza sleale (LCSl)
 short: LCSl
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20210101/it"
 
 (LCSl)
 
-del 19 dicembre 1986 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 19 dicembre 1986 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -109,6 +109,22 @@ Agisce in modo sleale, segnatamente, chiunque:
 [^3-13]: Introdotta dall’all. n. 2 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-14]: Introdotta dall’all. n. 2 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-15]: Introdotta dal n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
+
+#### Art. 3a
+
+**Discriminazione nella vendita a distanza**[^3a-1]
+
+<sup>1</sup>
+
+Agisce in modo sleale nei confronti di un cliente in Svizzera segnatamente chiunque, nella vendita a distanza, senza giustificazione oggettiva, per motivi legati alla sua nazionalità, al suo domicilio, al luogo della sua stabile organizzazione, alla sede del suo fornitore di servizi di pagamento o al luogo di emissione del suo mezzo di pagamento:
+
+- a. applica tariffe o condizioni di pagamento discriminatorie;
+- b. gli blocca o limita l’accesso a un portale in linea; o
+- c. lo reindirizza, senza il suo consenso, verso una versione diversa del portale alla quale egli voleva accedere inizialmente.
+
+<sup>2</sup> La disposizione di cui al capoverso 1 non si applica ai servizi non economici d’interesse generale, ai servizi nel settore finanziario, ai servizi nel settore delle comunicazioni elettroniche, ai servizi nel settore dei trasporti pubblici, ai servizi delle agenzie di lavoro a prestito, ai servizi nel settore sanitario, ai giochi d’azzardo che implicano una posta in denaro, compresi lotterie, giochi d’azzardo nei casinò e scommesse, ai servizi di sicurezza privati, ai servizi sociali di ogni tipo, ai servizi legati all’esercizio dell’autorità pubblica, ai servizi forniti dai notai nonché dagli ufficiali giudiziari nominati dai poteri pubblici e ai servizi audiovisivi.
+
+[^3a-1]: Introdotta dal. n. II della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4059](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 4
 
@@ -334,7 +350,7 @@ Sottostanno all’obbligo d’informare:
 
 <sup>2</sup> Il Consiglio federale emana le disposizioni esecutive.
 
-## Capitolo 3*a*: Collaborazione con le autorità estere di vigilanza****
+## Capitolo 3*a*: Collaborazione con le autorità estere di vigilanza
 
 [^chap3a-1]
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb (UWG)
 short: UWG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20210101/de"
 
 (UWG)
 
-vom 19. Dezember 1986 (Stand am 1. Januar 2021)
+vom 19. Dezember 1986 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -111,6 +111,22 @@ Unlauter handelt insbesondere, wer:
 [^3-13]: Eingefügt durch Anhang Ziff. 2 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-14]: Eingefügt durch Anhang Ziff. 2 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-15]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
+
+#### Art. 3a
+
+**Diskriminierung im Fernhandel**[^3a-1]
+
+<sup>1</sup>
+
+Unlauter handelt insbesondere, wer im Fernhandel ohne sachliche Rechtfertigung einen Kunden in der Schweiz aufgrund seiner Nationalität, seines Wohnsitzes, des Ortes seiner Niederlassung, des Sitzes seines Zahlungsdienstleisters oder des Ausgabeorts seines Zahlungsmittels:
+
+- a. beim Preis oder bei den Zahlungsbedingungen diskriminiert;
+- b. ihm den Zugang zu einem Online-Portal blockiert beziehungsweise beschränkt; oder
+- c. ihn ohne sein Einverständnis zu einer anderen als der ursprünglich aufgesuchten Version des Online-Portals weiterleitet.
+
+<sup>2</sup> Diese Bestimmung findet keine Anwendung auf nichtwirtschaftliche Dienstleistungen von allgemeinem Interesse; Dienstleistungen im Finanzbereich; Dienstleistungen der elektronischen Kommunikation; Dienstleistungen des öffentlichen Verkehrs; Dienstleistungen von Leiharbeitsagenturen; Gesundheitsdienstleistungen; Glücksspiele, die einen geldwerten Einsatz verlangen, einschliesslich Lotterien, Glücksspiele in Spielbanken und Wetten; private Sicherheitsdienste; soziale Dienstleistungen aller Art; Dienstleistungen, die mit der Ausübung hoheitlicher Gewalt verbunden sind; Tätigkeiten von Notaren sowie von Gerichtsvollziehern, die durch staatliche Stellen bestellt werden; audiovisuelle Dienste.
+
+[^3a-1]: Eingefügt durch Ziff. II des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [BBl 2019 4877](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
 
 #### Art. 4
 

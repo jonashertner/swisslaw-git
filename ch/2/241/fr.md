@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)
 short: LCD
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20210101/fr"
 
 (LCD)
 
-du 19 décembre 1986 (Etat le 1<sup>er</sup> janvier 2021)
+du 19 décembre 1986 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -112,6 +112,22 @@ Agit de façon déloyale celui qui, notamment:
 [^3-14]: Introduite par l’annexe ch. 2 de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-15]: Introduit par le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
+#### Art. 3a
+
+**Discrimination en matière de vente à distance**[^3a-1]
+
+<sup>1</sup>
+
+Agit de façon déloyale envers un client en Suisse celui qui, notamment, en matière de vente à distance, sans motifs objectifs, pour des raisons liées à la nationalité de ce client, à son domicile, à son lieu d’établissement, au siège de son prestataire de service de paiement ou au lieu d’émission de son instrument de paiement:
+
+- a. applique des tarifs ou conditions de paiement discriminatoires;
+- b. lui bloque ou limite l’accès à une interface en ligne, ou
+- c. le redirige sans son consentement vers une version différente de l’interface en ligne à laquelle le client a voulu initialement accéder.
+
+<sup>2</sup> La présente disposition ne s’applique pas aux services d’intérêt général non économiques, aux services du secteur financier, aux services relatifs aux communications électroniques, aux services dans le domaine des transports publics, aux services des agences de travail intérimaires, aux services de soin de santé, aux activités de jeux d’argent impliquant des mises ayant une valeur monétaire dans les jeux de hasard, y compris les loteries, les casinos et les transactions portant sur des paris, aux services relatifs aux services de sécurité privée, aux services relatifs aux services sociaux de toute nature, aux services liés à l’exercice de l’autorité publique, aux services fournis par les notaires et les huissiers de justices, nommés par les pouvoirs publics, aux services audiovisuels.
+
+[^3a-1]: Introduit par le ch. II de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 576](https://fedlex.data.admin.ch/eli/oc/2021/576); [FF 2019 4665](https://fedlex.data.admin.ch/eli/fga/2019/1720)).
+
 #### Art. 4
 
 **Incitation à violer ou à résilier un contrat**
@@ -172,7 +188,7 @@ Agit de façon déloyale celui qui, notamment, utilise des conditions générale
 
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
-### Section 2 Dispositions de procédure****
+### Section 2 Dispositions de procédure
 
 [^chap2-sec2-1]
 
@@ -258,7 +274,7 @@ Lorsque l’acte de concurrence déloyale a été commis par un travailleur ou p
 
 [^1415-1]: Abrogés par l’annexe 1 ch. II 15 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-## Chapitre 3 Dispositions de droit administratif****
+## Chapitre 3 Dispositions de droit administratif
 
 [^chap3-1]
 
@@ -334,7 +350,7 @@ Sont soumises à l’obligation de renseigner:
 
 <sup>2</sup> Le Conseil fédéral édicte les dispositions d’exécution.
 
-## Chapitre 3*a* Collaboration avec les autorités de surveillance étrangères****
+## Chapitre 3*a* Collaboration avec les autorités de surveillance étrangères
 
 [^chap3a-1]
 
