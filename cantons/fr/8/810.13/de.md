@@ -4,13 +4,12 @@ number: "810.13"
 title: Chemikalienverordnung
 short: KChemV
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-12-14
 adopted: 2017-11-21
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/5983/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7036/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Chemikalien – V
 
 (KChemV)
 
-vom 21.11.2017 (Fassung in Kraft getreten am 01.04.2019)
+vom 21.11.2017 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -56,7 +55,7 @@ beschliesst:
 - a) das Amt für Umwelt;
 - b) das Amt für Lebensmittelsicherheit und Veterinärwesen;
 - c) das Amt für Wald und Natur;
-- d) das Landwirtschaftliche Institut des Kantons Freiburg;
+- d) Grangeneuve;
 - e) das Amt für den Arbeitsmarkt oder das zuständige Vollzugsorgan nach dem Gesetz über die Unfallversicherung;
 - f) das Kantonsarztamt;
 - g) das Amt für Gesundheit;
@@ -86,9 +85,9 @@ beschliesst:
 
 #### Art. 6
 
-**Landwirtschaftliches Institut des Kantons Freiburg**
+**Grangeneuve**
 
-<sup>1</sup> Das Landwirtschaftliche Institut des Kantons Freiburg stellt sicher, dass alle Bestimmungen über die Verwendung von Chemikalien und den Umgang mit Düngern und Pflanzenschutzmitteln in Zusammenhang mit der Landwirtschaft angewendet werden.
+<sup>1</sup> Grangeneuve stellt sicher, dass alle Bestimmungen über die Verwendung von Chemikalien und den Umgang mit Düngern und Pflanzenschutzmitteln in Zusammenhang mit der Landwirtschaft angewendet werden.
 
 #### Art. 7
 

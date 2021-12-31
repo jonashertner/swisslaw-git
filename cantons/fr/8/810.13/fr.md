@@ -4,13 +4,12 @@ number: "810.13"
 title: Ordonnance sur les produits chimiques
 short: OCChim
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-12-14
 adopted: 2017-11-21
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5983/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7036/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Produits chimiques – O
 
 (OCChim)
 
-du 21.11.2017 (version entrée en vigueur le 01.04.2019)
+du 21.11.2017 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -56,7 +55,7 @@ Arrête:
 - a) le Service de l'environnement;
 - b) le Service de la sécurité alimentaire et des affaires vétérinaires;
 - c) le Service des forêts et de la nature;
-- d) l'Institut agricole de l'Etat de Fribourg;
+- d) Grangeneuve;
 - e) le Service public de l'emploi ou l'organe d'exécution compétent au sens de la loi sur l'assurance-accidents;
 - f) le Service du médecin cantonal;
 - g) le Service de la santé publique;
@@ -86,9 +85,9 @@ Arrête:
 
 #### Art. 6
 
-**Institut agricole de l'Etat de Fribourg**
+**Grangeneuve**
 
-<sup>1</sup> L'Institut agricole de l'Etat de Fribourg assure l'application de toutes les dispositions concernant l'emploi de produits chimiques et l'utilisation d'engrais et de produits phytosanitaires en lien avec l'agriculture.
+<sup>1</sup> Grangeneuve assure l'application de toutes les dispositions concernant l'emploi de produits chimiques et l'utilisation d'engrais et de produits phytosanitaires en lien avec l'agriculture.
 
 #### Art. 7
 
