@@ -4,11 +4,11 @@ title: "Legge federale del 21 marzo 2003 sull'ingegneria genetica nel settore no
 short: LIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/705"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2003-03-21
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2003-705-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-705-20220101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20180101/it"
 
 (Legge sull’ingegneria genetica, LIG)
 
-del 21 marzo 2003 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 21 marzo 2003 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 74 capoverso 1, 104 capoversi 2 e 3 lettera b, 118 capoverso 2 lettera a e 120 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2] in esecuzione della Convenzione del 5 giugno 1992[^ingress-3] sulla diversità biologica e del Protocollo di Cartagena del 29 gennaio 2000[^ingress-4] sulla biosicurezza relativo alla Convenzione sulla diversità biologica; visto il messaggio del Consiglio federale del 1° marzo 2000[^ingress-5]; visto il rapporto del 30 aprile 2001[^ingress-6] della Commissione della scienza, dell’educazione e della cultura del Consiglio degli Stati,[^ingress-7]
+visti gli articoli 74 capoverso 1, 104 capoversi 2 e 3 lettera b, 118 capoverso 2 lettera a e 120 capoverso 2 della Costituzione federale[^ingress-1],[^ingress-2] in esecuzione della Convenzione del 5 giugno 1992[^ingress-3] sulla diversità biologica e del Protocollo di Cartagena del 29 gennaio 2000[^ingress-4] sulla biosicurezza relativo alla Convenzione sulla diversità biologica, visto il messaggio del Consiglio federale del 1° marzo 2000[^ingress-5], visto il rapporto del 30 aprile 2001[^ingress-6] della Commissione della scienza, dell’educazione e della cultura del Consiglio degli Stati,[^ingress-7]
 
 decreta:
 
@@ -383,7 +383,7 @@ Il Consiglio federale fissa le tasse per l’esecuzione da parte delle autorità
 
 <sup>3</sup> Può promuovere la formazione e la formazione continua delle persone incaricate dell’adempimento dei compiti previsti nella presente legge.[^26-1]
 
-[^26-1]: Nuovo testo giusta il n. 33 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^26-1]: Nuovo testo giusta l’all. n. 33 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Capitolo 4: Rimedi giuridici
 
@@ -393,7 +393,7 @@ Il Consiglio federale fissa le tasse per l’esecuzione da parte delle autorità
 
 La procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.
 
-[^27-1]: Nuovo testo giusta il n. 93 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^27-1]: Nuovo testo giusta l’all. n. 93 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 28
 
@@ -500,7 +500,7 @@ Allo scopo di proteggere il danneggiato, il Consiglio federale può:
 - c. obbligare chi si porta garante della responsabilità civile a notificare all’autorità esecutiva l’esistenza, la sospensione o la cessazione della garanzia;
 - d. prevedere che la garanzia sia sospesa o cessi soltanto 60 giorni dopo il ricevimento della notifica.
 
-## Capitolo 6: Disposizioni penali e misure amministrative****
+## Capitolo 6: Disposizioni penali e misure amministrative
 
 [^chap6-1]
 
@@ -567,23 +567,20 @@ I geni resistenti agli antibiotici impiegati nella medicina umana e veterinaria 
 
 **Periodo transitorio per la messa in commercio di organismi geneticamente modificati**[^37a-1]
 
-Fino al 31 dicembre 2021 non possono essere rilasciate autorizzazioni per la messa in commercio, per fini agricoli, orticoli o forestali, di piante e parti di piante geneticamente modificate, di sementi geneticamente modificate e di altro materiale vegetale di moltiplicazione geneticamente modificato, nonché di animali geneticamente modificati.
+<sup>1</sup> Fino al 31 dicembre 2025 non possono essere rilasciate autorizzazioni per la messa in commercio, per fini agricoli, orticoli o forestali, di piante e parti di piante geneticamente modificate, di sementi geneticamente modificate e di altro materiale vegetale di moltiplicazione geneticamente modificato, nonché di animali geneticamente modificati.
 
-[^37a-1]: Introdotto dal n. I della LF del 19 mar. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 5883](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
-
-#### Art. 38
-
-**Referendum ed entrata in vigore**
+<sup>2</sup> Al più tardi entro la metà del 2024, il Consiglio federale sottopone all’Assemblea federale un disegno di legge volto a introdurre un regime di autorizzazione basato sui rischi applicabile a piante, parti di piante, sementi e altro materiale vegetale di moltiplicazione destinati all’impiego per fini agricoli, orticoli o forestali e ottenuti mediante nuove tecnologie di selezione senza inoculazione di materiale genetico transgenico, sempreché queste apportino per l’agricoltura, l’ambiente e i consumatori un valore aggiunto comprovato rispetto alle tecniche di selezione convenzionali.
 
 <sup>1</sup> La presente legge sottostà al referendum facoltativo.
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-Data dell’entrata in vigore: 1° gennaio 2004[^38-1] All. n. 4, art. 54 cpv. 2 II° per.: 1° agosto 2005[^38-2] All. n. 3, art. 7*a*, 7*c* e 29 n. 1 lett. a<sup>bis</sup> e a<sup>quater</sup>: 2 maggio 2006[^38-3] All. n. 3, rimanenti modifiche: ulteriormente
+Data dell’entrata in vigore: 1° gennaio 2004[^37a-2] All. n. 4, art. 54 cpv. 2 II° per.: 1° agosto 2005[^37a-3] All. n. 3, art. 7*a*, 7*c* e 29 n. 1 lett. a<sup>bis</sup> e a<sup>quater</sup>: 2 maggio 2006[^37a-4] All. n. 3, rimanenti modifiche: ulteriormente
 
-[^38-1]: DCF del 19 nov. 2003.
-[^38-2]: [RU 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448)[2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
-[^38-3]: [RU 2006 1425](https://fedlex.data.admin.ch/eli/oc/2006/241)
+[^37a-1]: Introdotto dal n. I della LF del 19 mar. 2010 ([RU 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4721](https://fedlex.data.admin.ch/eli/fga/2009/947)). Nuovo testo giusta il n. I della LF del 18 mar. 2022, in vigore dal 1° gen. 2022 ([RU 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [FF 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
+[^37a-2]: DCF del 19 nov. 2003.
+[^37a-3]: [RU 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448), [2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
+[^37a-4]: [RU 2006 1425](https://fedlex.data.admin.ch/eli/oc/2006/241)
 
 Allegato
 

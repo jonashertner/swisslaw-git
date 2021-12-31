@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 mars 2003 sur l'application du génie génétique a
 short: LGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/705"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2003-03-21
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-705-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-705-20220101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20180101/fr"
 
 (Loi sur le génie génétique, LGG)
 
-du 21 mars 2003 (Etat le 1<sup>er</sup> janvier 2018)
+du 21 mars 2003 (État le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 74, al. 1, 104, al. 2 et 3, let. b, 118, al. 2, let. a, et 120, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu la Convention du 5 juin 1992 sur la diversité biologique[^ingress-3], vu le Protocole de Cartagena du 29 janvier 2000 sur la prévention des risques biotechnologiques relatif à la convention sur la diversité biologique[^ingress-4], vu le message du 1<sup>er</sup> mars 2000 du Conseil fédéral[^ingress-5], vu le rapport du 30 avril 2001 de la Commission de la science, de l’éducation et de la culture du Conseil des Etats[^ingress-6],[^ingress-7]
+vu les art. 74, al. 1, 104, al. 2 et 3, let. b, 118, al. 2, let. a, et 120, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu la Convention du 5 juin 1992 sur la diversité biologique[^ingress-3], vu le Protocole de Cartagena du 29 janvier 2000 sur la prévention des risques biotechnologiques relatif à la convention sur la diversité biologique[^ingress-4], vu le message du 1<sup>er</sup> mars 2000 du Conseil fédéral[^ingress-5], vu le rapport du 30 avril 2001 de la Commission de la science, de l’éducation et de la culture du Conseil des États[^ingress-6],[^ingress-7]
 
 arrête:
 
@@ -369,7 +369,7 @@ Elle conseille:
 
 #### Art. 25
 
-**Emoluments**
+**Émoluments**
 
 Le Conseil fédéral fixe le montant des émoluments perçus par les autorités fédérales pour l’exécution de la présente loi, et peut déterminer le cadre tarifaire des émoluments cantonaux. Il peut prévoir des dérogations.
 
@@ -383,7 +383,7 @@ Le Conseil fédéral fixe le montant des émoluments perçus par les autorités 
 
 <sup>3</sup> Elle peut encourager la formation et la formation continue des personnes chargées d’assumer des tâches relevant de la présente loi.[^26-1]
 
-[^26-1]: Nouvelle teneur selon le ch. 33 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^26-1]: Nouvelle teneur selon l’annexe ch. 33 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Chapitre 4 Voies de droit
 
@@ -393,7 +393,7 @@ Le Conseil fédéral fixe le montant des émoluments perçus par les autorités 
 
 La procédure de recours est régie par les dispositions générales de la procédure fédérale.
 
-[^27-1]: Nouvelle teneur selon le ch. 93 de l’annexe à la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^27-1]: Nouvelle teneur selon l’annexe ch. 93 de la loi du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 28
 
@@ -500,7 +500,7 @@ Pour protéger les personnes lésées, le Conseil fédéral peut:
 - c. obliger le garant à notifier à l’autorité d’exécution l’existence, la suspension et la cessation de la garantie;
 - d. prévoir que la garantie ne sera suspendue ou ne cessera que 60 jours après la réception de la notification.
 
-## Chapitre 6 Dispositions pénales et mesures administratives****
+## Chapitre 6 Dispositions pénales et mesures administratives
 
 [^chap6-1]
 
@@ -525,9 +525,9 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - i. met en circulation des organismes génétiquement modifiés en les désignant comme non génétiquement modifiés (art. 17, al. 5);
 - j. contrevient à des prescriptions spécifiques concernant l’utilisation d’organismes génétiquement modifiés (art. 19).
 
-<sup>2</sup> … [^35-3]
+<sup>2</sup> …[^35-3]
 
-<sup>3</sup> Si l’auteur de l’infraction agit par négligence, la peine est une peine pécuniaire de 180 jours-amende au plus. [^35-4]
+<sup>3</sup> Si l’auteur de l’infraction agit par négligence, la peine est une peine pécuniaire de 180 jours-amende au plus.[^35-4]
 
 [^35-1]: Introduit par le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 6301](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
 [^35-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
@@ -567,9 +567,11 @@ L’utilisation, dans le cadre de disséminations expérimentales, de gènes qui
 
 **Délai transitoire pour la mise en circulation d’organismes génétiquement modifiés**[^37a-1]
 
-Aucune autorisation ne peut être délivrée pour la période allant jusqu’au 31 décembre 2021 pour la mise en circulation, à des fins agricoles, horticoles ou forestières, de plantes et de parties de plantes génétiquement modifiées, de semences et d’autre matériel végétal de multiplication génétiquement modifiés, ou d’animaux génétiquement modifiés.
+<sup>1</sup> Aucune autorisation ne peut être délivrée pour la période allant jusqu’au 31 décembre 2025 pour la mise en circulation, à des fins agricoles, horticoles ou forestières, de plantes et de parties de plantes génétiquement modifiées, de semences et d’autre matériel végétal de multiplication génétiquement modifiés, ou d’animaux génétiquement modifiés.
 
-[^37a-1]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)). Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [FF 2016 6301](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
+<sup>2</sup> Le Conseil fédéral soumet à l’Assemblée fédérale, d’ici à la fin du premier semestre 2024 au plus tard, un projet d’acte visant à instaurer un régime d’homologation fondé sur les risques applicable aux plantes, parties de plantes, semences et autre matériel végétal de multiplication destinés à être utilisés à des fins agricoles, horticoles ou forestières, obtenus au moyen des nouvelles techniques de sélection, auxquels aucun matériel génétique transgénique n’a été ajouté et qui, par rapport aux méthodes de sélection usuelles, offrent une réelle plus-value pour l’agriculture, l’environnement ou les consommateurs.
+
+[^37a-1]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [FF 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
 
 #### Art. 38
 
@@ -579,16 +581,10 @@ Aucune autorisation ne peut être délivrée pour la période allant jusqu’au 
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2004[^38-1]
-
-Annexe ch. 4, art. 54 al. 2, 2<sup>e</sup> phrase: 1<sup>er</sup> août 2005[^38-2]
-
-Annexe ch. 3, art. 7*a*, 7*c* et 29, ch. 1, let. a<sup>bis</sup> et a<sup>quater</sup>: 2 mai 2006[^38-3]
-
-Les autres art.: ultérieurement
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2004[^38-1] Annexe ch. 4, art. 54 al. 2, 2<sup>e</sup> phrase: 1<sup>er</sup> août 2005[^38-2] Annexe ch. 3, art. 7*a*, 7*c* et 29, ch. 1, let. a<sup>bis</sup> et a<sup>quater</sup>: 2 mai 2006[^38-3] Les autres art.: ultérieurement
 
 [^38-1]: ACF du 19 nov. 2003
-[^38-2]: [RO 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448)[2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
+[^38-2]: [RO 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448), [2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
 [^38-3]: [RO 2006 1425](https://fedlex.data.admin.ch/eli/oc/2006/241)
 
 Annexe

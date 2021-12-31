@@ -4,11 +4,11 @@ title: "Federal Act of 21 March 2003 on Non-Human Gene Technology (Gene Technolo
 short: GTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/705"
 language: en
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2003-03-21
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20180101/en/xml/fedlex-data-admin-ch-eli-cc-2003-705-20180101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20180101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2003-705-20220101-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Gene Technology Act, GTA)
 
-of 21 March 2003 (Status as of 1 January 2018)
+of 21 March 2003 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Articles 74 paragraph 1, 104 paragraphs 2 and 3 letter b, 118 paragraph 2 letter a and 120 paragraph 2 of the Federal Constitution[^ingress-1],[^ingress-2] in implementation of the Convention of 5 June 1992[^ingress-3] on Biological Diversity and the Cartagena Protocol of 29 January 2000[^ingress-4] on Biosafety to the Convention on Biodiversity, and having considered the Dispatch of the Federal Council dated 1 March 2000[^ingress-5] and the Report of the Council of States’ Committee for Science, Education and Culture dated 30 April 2001[^ingress-6] [^ingress-7]
+based on Articles 74 paragraph 1, 104 paragraphs 2 and 3 letter b, 118 paragraph 2 letter a and 120 paragraph 2 of the Federal Constitution[^ingress-1],[^ingress-2] in implementation of the Convention of 5 June 1992[^ingress-3] on Biological Diversity and the Cartagena Protocol of 29 January 2000[^ingress-4] on Biosafety to the Convention on Biodiversity, and having considered the Dispatch of the Federal Council dated 1 March 2000[^ingress-5] and the Report of the Council of States’ Committee for Science, Education and Culture dated 30 April 2001[^ingress-6],[^ingress-7]
 
 decrees:
 
@@ -217,7 +217,7 @@ The Federal Council determines the requirements and the procedure. In particular
 
 #### Art. 14
 
-**Exceptions to the notification or authorisation requirement; self-supervision**
+**Exceptions to the notification or authorisation requirement; self‑supervision**
 
 <sup>1</sup> The Federal Council may simplify the requirement to notify or obtain authorisation or may grant exemptions if, according to the current state of knowledge or experience, a violation of the principles of Articles 6–9 can be excluded.
 
@@ -240,7 +240,7 @@ Any person putting organisms into circulation must:
 
 <sup>3</sup> The supply to agricultural or forestry enterprises[^15-1] of genetically modified organisms that are subject to a labelling requirement requires the written permission of the enterprise owner.
 
-[^15-1]: Expression in accordance with No I of the FA of 19 March 2010, in force since 1 Aug. 2010. ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). This amendment has been made throughout the text.
+[^15-1]: Expression in accordance with No I of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). This amendment has been made throughout the text.
 
 #### Art. 16
 
@@ -254,7 +254,7 @@ Any person putting organisms into circulation must:
 
 **Labelling**
 
-<sup>1</sup> Any person putting genetically modified organisms into circulation must label them as such for the benefit of the recipient, in order to ensure freedom of choice for the consumer under Article 7 and to prevent product fraud. The labelling must contain the words “genetically modified”. The Federal Council determines the details.
+<sup>1</sup> Any person putting genetically modified organisms into circulation must label them as such for the benefit of the recipient, in order to ensure freedom of choice for the consumer under Article 7 and to prevent product fraud. The labelling must contain the words «genetically modified». The Federal Council determines the details.
 
 <sup>2</sup> The Federal Council lays down threshold values below which labelling is unnecessary for mixtures, articles and products that unintentionally contain traces of genetically modified organisms.
 
@@ -395,7 +395,7 @@ The Federal Council sets the fees for enforcement by the federal authorities and
 
 The appeal procedure is governed by the general provisions on the administration of federal justice.
 
-[^27-1]: Amended by Annex No. 93 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^27-1]: Amended by Annex No 93 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 28
 
@@ -413,7 +413,7 @@ The appeal procedure is governed by the general provisions on the administration
 
 <sup>2</sup> The same right of appeal is also accorded to the cantons, insofar as harm to their territory from neighbouring cantons is disputed.
 
-[^29-1]: The title of this administrative unit was modified by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ( 17Nov.2004(AS20044937).
+[^29-1]: The title of this administrative unit was modified by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 ## Chapter 5 Liability
 
@@ -501,7 +501,7 @@ The Federal Council may, to protect the injured party:
 - c. require those providing a guarantee for the liability to notify the enforcement authority of the existence, suspension or cessation of the guarantee;
 - d. require that the guarantee is not suspended or does not cease until 60 days after receipt of the notification.
 
-## Chapter 6 Criminal Provisions and Administrative Measures****
+## Chapter 6 Criminal Provisions and Administrative Measures
 
 [^chap6-1]
 
@@ -524,7 +524,7 @@ Any person who wilfully:
 - g.[^35-3] puts genetically modified organisms into circulation without labelling them as such for the recipient (Art. 17 para. 1);
 - h. violates the provisions on the labelling of products obtained from genetically modified organisms (Art. 17 para. 4);
 - i. puts genetically modified organisms into circulation and labels them as «not genetically modified» (Art. 17 para. 5);
-- j. violates special provisions on the handling of genetically modified organisms (Art. 19).
+- j. violates special provisions on the handling of genetically modified organisms (Art. 19);
 - [tab] is liable to a custodial sentence not exceeding three years or to a monetary penalty.[^35-4]
 
 <sup>2</sup> …[^35-5]
@@ -571,9 +571,11 @@ Resistance genes to antibiotics used in human and veterinary medicine may be use
 
 **Transitional period for putting genetically modified organisms into circulation**[^37a-1]
 
-No authorisations may be granted until 31 December 2021 for putting into circulation genetically modified plants and parts of plants, genetically modified seeds and other plant propagation material and genetically modified animals for agricultural, horticultural or silvicultural purposes.
+<sup>1</sup> No authorisations may be granted until 31 December 2021 for putting into circulation genetically modified plants and parts of plants, genetically modified seeds and other plant propagation material and genetically modified animals for agricultural, horticultural or silvicultural purposes.
 
-[^37a-1]: Inserted by No I of the FA of 19 March 2010 [AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Amended by No I of the FA of 16 June 2017, in force since 1 Jan. 2018 ([AS 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [BBl 2016 6521](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
+<sup>2</sup> The Federal Council shall submit draft legislation to the Federal Assembly by mid-2024 at the latest on a risk-based authorisation regime for plants, parts of plants, seeds and other plant propagation material for agricultural, horticultural or silvicultural purposes which have been cultivated using methods of new cultivation technologies, into which no transgenic genetic material has been inserted and which have a proven added value for agriculture, the environment or consumers compared with conventional cultivation methods.
+
+[^37a-1]: Inserted by No I of the FA of 19 March 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Amended by No I of the FA of 18 March 2022, in force since 1 Jan. 2022 ([AS 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [BBl 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
 
 #### Art. 38
 
@@ -583,10 +585,10 @@ No authorisations may be granted until 31 December 2021 for putting into circula
 
 <sup>2</sup> The Federal Council determines the commencement date.
 
-Commencement date: 1 January 2004[^38-1] Annex No. 4 Art. 54 para. 2 second sentence: 1 August 2005[^38-2] Annex No. 3 Art. 7*a*, 7*c* and 29 No. 1 let. a<sup>bis</sup> and a<sup>quater</sup>: 2 May 2006[^38-3] the other articles in Annex No. 3: at a later date
+Commencement date: 1 January 2004[^38-1] Annex No 4 Art. 54 para. 2 second sentence: 1 August 2005[^38-2] Annex No 3 Art. 7*a*, 7*c* and 29 No 1 let. a<sup>bis</sup> and a<sup>quater</sup>: 2 May 2006[^38-3] the other articles in Annex No 3: at a later date
 
-[^38-1]: Federal Council Decree of 19 Nov. 2003.
-[^38-2]: [AS 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448)[2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
+[^38-1]: FCD of 19 Nov. 2003.
+[^38-2]: [AS 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448), [2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
 [^38-3]: [AS 2006 1425](https://fedlex.data.admin.ch/eli/oc/2006/241)
 
 Annex

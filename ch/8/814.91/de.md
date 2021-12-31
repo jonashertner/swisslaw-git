@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. März 2003 über die Gentechnik im Ausserhumanberei
 short: GTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/705"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2003-03-21
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2003-705-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/705/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2003-705-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/705/20180101/de"
 
 (Gentechnikgesetz, GTG)
 
-vom 21. März 2003 (Stand am 1. Januar 2018)
+vom 21. März 2003 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -499,7 +499,7 @@ Der Bundesrat kann zum Schutz von Geschädigten:
 - c. die Person, die die Haftpflicht sicherstellt, verpflichten, der Vollzugsbehörde das Bestehen, Aussetzen und Aufhören der Sicherstellung zu melden;
 - d. vorsehen, dass die Sicherstellung erst 60 Tage nach Eingang der Meldung aussetzt oder aufhört.
 
-## 6. Kapitel: Strafbestimmungen und Verwaltungsmassnahmen****
+## 6. Kapitel: Strafbestimmungen und Verwaltungsmassnahmen
 
 [^chap6-1]
 
@@ -568,9 +568,11 @@ Resistenzgene gegen in der Human- und Veterinärmedizin eingesetzte Antibiotika 
 
 **Übergangsfrist für das Inverkehrbringen gentechnisch veränderter Organismen**[^37a-1]
 
-Für das Inverkehrbringen von gentechnisch veränderten Pflanzen und Pflanzenteilen, gentechnisch verändertem Saatgut und anderem pflanzlichem Vermehrungsmaterial sowie gentechnisch veränderten Tieren zu landwirtschaftlichen, gartenbaulichen oder waldwirtschaftlichen Zwecken dürfen für den Zeitraum bis zum 31. Dezember 2021 keine Bewilligungen erteilt werden.
+<sup>1</sup> Für das Inverkehrbringen von gentechnisch veränderten Pflanzen und Pflanzenteilen, gentechnisch verändertem Saatgut und anderem pflanzlichem Vermehrungsmaterial sowie gentechnisch veränderten Tieren zu landwirtschaftlichen, gartenbaulichen oder waldwirtschaftlichen Zwecken dürfen für den Zeitraum bis zum 31. Dezember 2025 keine Bewilligungen erteilt werden.
 
-[^37a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6667](https://fedlex.data.admin.ch/eli/oc/2017/742); [BBl 2016 6521](https://fedlex.data.admin.ch/eli/fga/2016/1264)).
+<sup>2</sup> Der Bundesrat unterbreitet der Bundesversammlung spätestens bis Mitte 2024 einen Erlassentwurf für eine risikobasierte Zulassungsregelung für Pflanzen, Pflanzenteile, Saatgut und anderes pflanzliches Vermehrungsmaterial zu landwirtschaftlichen, gartenbaulichen oder waldwirtschaftlichen Zwecken, die mit Methoden der neuen Züchtungstechnologien gezüchtet wurden, denen kein transgenes Erbmaterial eingefügt wurde und die gegenüber den herkömmlichen Züchtungsmethoden einen nachgewiesenen Mehrwert für die Landwirtschaft, die Umwelt oder die Konsumentinnen und Konsumenten haben.
+
+[^37a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)). Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 415](https://fedlex.data.admin.ch/eli/oc/2022/415); [BBl 2021 1655](https://fedlex.data.admin.ch/eli/fga/2021/1655)).
 
 #### Art. 38
 
@@ -583,7 +585,7 @@ Für das Inverkehrbringen von gentechnisch veränderten Pflanzen und Pflanzentei
 Datum des Inkrafttretens: 1. Januar 2004[^38-1] Anhang Ziff. 4 Art. 54 Abs. 2 zweiter Satz: 1. August 2005[^38-2] Anhang Ziff. 3 Art. 7*a*, 7*c* und 29 Ziff. 1 Bst. a<sup>bis</sup> und a<sup>quater</sup>: 2. Mai 2006[^38-3] die anderen Art. des Anhangs Ziff. 3: zu einem späteren Zeitpunkt
 
 [^38-1]: BRB vom 19. Nov. 2003
-[^38-2]: [AS 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448)[2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
+[^38-2]: [AS 2005 2601](https://fedlex.data.admin.ch/eli/oc/2005/448), [2293](https://fedlex.data.admin.ch/eli/oc/2005/388)
 [^38-3]: [AS 2006 1425](https://fedlex.data.admin.ch/eli/oc/2006/241)
 
 Anhang
