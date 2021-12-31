@@ -4,13 +4,13 @@ number: "910.111"
 title: Verordnung über Produktion und Vermarktung in der Landwirtschaft
 short: PVLV
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+valid_until: 2026-02-28
+version_adopted: 2021-11-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2192/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2441/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2192/pdf_file"
 
 (PVLV)
 
-vom 05.11.1997 (Stand 01.04.2021)
+vom 05.11.1997 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -240,14 +240,11 @@ beschliesst:
 
 <sup>1</sup> Das LANAT richtet die Beiträge aus, wenn die Voraussetzungen des Bundesrechts erfüllt sind.
 
-<sup>2</sup> Die Gesuche um Ausrichtung von Direktzahlungen sind spätestens am Erhebungsdatum gemäss der eidgenössischen Verordnung vom 7. Dezember 1998 über die Erhebung und Bearbeitung von landwirtschaftlichen Daten (Landwirtschaftliche Datenverordnung[^20-1]) über die vom LANAT bezeichnete Internetseite auf einem gesicherten elektronischen Erfassungssystem zu hinterlegen.
+<sup>2</sup> Die Gesuche um Ausrichtung von Direktzahlungen sind während der vom LANAT festgelegten Fristen über die vom LANAT bezeichnete Internetseite im Agrarinformationssystem zu hinterlegen.
 
-<sup>3</sup> Sie sind entweder mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe c des Bundesgesetzes vom 19. Dezember 2003 über Zertifizierungsdienste im Bereich der elektronischen Signatur (Bundesgesetz über die elektronische Signatur, ZertES[^20-2]) zu versehen oder mit einem unterzeichneten, der Erhebungsstelle der Gemeinde bis zum Datum nach Absatz 2 einzureichenden Übersichtsblatt zu bestätigen.
+<sup>3</sup> Richtigkeit und Vollständigkeit der Gesuche sind im Agrarinformationssystem elektronisch zu bestätigen.
 
-<sup>4</sup> Das LANAT stellt den Bewirtschafterinnen und Bewirtschaftern die Zugangsdaten und allfällige Nachfristansetzungen zur Datenbearbeitung an die von ihnen angegebene Mailadresse oder per Post zu. Die Beitragsverfügungen werden per Post zugestellt und sind über die Zugangsdaten auch im Internet einsehbar.
-
-[^20-1]: SR 919.117.71
-[^20-2]: SR 943.03
+<sup>4</sup> Das LANAT stellt den Bewirtschafterinnen und Bewirtschaftern die Zugangsdaten, allfällige Nachfristansetzungen zur Datenbearbeitung sowie die Benachrichtigungen über Auszahlungen und Eröffnungen von Beitragsverfügungen elektronisch zu. Die Beitragsverfügungen sind über die Zugangsdaten im Internet abrufbar.
 
 #### Art. 21
 

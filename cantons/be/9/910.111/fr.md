@@ -4,13 +4,13 @@ number: "910.111"
 title: "Ordonnance sur la production et la commercialisation dans l'agriculture"
 short: OPCA
 language: fr
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-02-17
+version: 2022-01-01
+valid_until: 2026-02-28
+version_adopted: 2021-11-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2192/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2441/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2192/pdf_file"
 
 (OPCA)
 
-du 05.11.1997 (état au 01.04.2021)
+du 05.11.1997 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -240,14 +240,11 @@ arrête:
 
 <sup>1</sup> L'OAN verse les subventions lorsque les conditions définies dans la législation fédérale sont remplies.
 
-<sup>2</sup> Les demandes de versement des paiements directs sont saisies par le biais de la page Internet communiquée par l’OAN dans un système électronique sécurisé au plus tard à la date de relevé, conformément à l'ordonnance fédérale du 7 décembre 1998 sur le relevé et le traitement de données agricoles (Ordonnance sur les données agricoles)[^20-1].
+<sup>2</sup> Les demandes de versement des paiements directs doivent être saisies dans le système d'information agricole, durant la période fixée par l'OAN et par le biais de la page Internet communiquée par ce dernier.
 
-<sup>3</sup> Elles doivent être munies d’une signature électronique qualifiée au sens de l’article 2, lettre c, de la loi fédérale du 19 décembre 2003 sur les services de certification dans le domaine de la signature électronique (loi sur la signature électronique, SCSE)[^20-2] ou confirmées par un récapitulatif signé à faire parvenir au service de la commune chargé du recensement jusqu’à la date selon l’alinéa 2.
+<sup>3</sup> L'exactitude et l'exhaustivité des demandes doivent être confirmées par voie électronique dans le système d'information agricole.
 
-<sup>4</sup> L’OAN adresse aux exploitants et aux exploitantes les données d’accès et les éventuelles prolongations de délai pour le traitement des données par voie postale ou électronique selon les indications qu’ils ont fournies. Les décisions concernant les subventions sont envoyées par courrier et peuvent également être consultées sur Internet au moyen des données d’accès.
-
-[^20-1]: RS 919.117.71
-[^20-2]: RS 943.03
+<sup>4</sup> L’OAN adresse par voie électronique aux exploitants et aux exploitantes les données d’accès et les éventuelles prolongations de délai pour le traitement des données, ainsi que les notifications des paiements et des décisions concernant les subventions. Les décisions concernant les subventions peuvent être consultées sur Internet au moyen des données d’accès.
 
 #### Art. 21
 
