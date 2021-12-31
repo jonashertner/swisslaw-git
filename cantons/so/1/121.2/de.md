@@ -3,20 +3,20 @@ canton: SO
 number: "121.2"
 title: Geschäftsreglement des Kantonsrates von Solothurn
 language: de
-version: 2015-12-18
-valid_until: 2021-12-31
-version_adopted: 1991-09-10
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-15
 adopted: 1991-09-10
 in_force: 1992-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/121.2"
-pdf: "https://bgs.so.ch/api/de/versions/5123/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5198/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement des Kantonsrates von Solothurn
 
-Vom 10.09.1991 (Stand 18.12.2015)
+Vom 10.09.1991 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -169,7 +169,7 @@ beschliesst:
 
 **Kanzlei- und Weibeldienst; administrative Aufgaben**
 
-<sup>1</sup> Der Staatsschreiber leitet den Kanzlei- und den Weibeldienst.
+<sup>1</sup> Der Ratssekretär kann zur Erfüllung der Aufgaben, insbesondere für den Kommissions-, Kanzlei- und Weibeldienst, in Absprache mit dem Staatsschreiber Personal der Staatskanzlei beiziehen. Diesfalls ist er ihnen gegenüber weisungsberechtigt.
 
 <sup>2</sup> Staatsschreiber und Ratssekretär koordinieren die Geschäfte des Regierungsrates und des Kantonsrates. Sie nehmen an den Sitzungen der Ratsleitung teil.
 
@@ -457,6 +457,8 @@ beschliesst:
 <sup>1</sup> Der Ratspräsident erhält eine jährliche Zusatzentschädigung von 10'000 Franken.
 
 <sup>2</sup> Erleidet der Ratspräsident wegen der Teilnahme an Anlässen nachweisbar einen Erwerbsausfall, erhält er zusätzlich pro Halbtag eine Entschädigung von 100 Franken.
+
+<sup>3</sup> Die Entschädigung der Sitzungen des Kantonsratspräsidiums richtet sich nach den für die Sitzungsgelder der Kommissionen geltenden Regeln.
 
 ### 4.2. Spesenentschädigung
 
