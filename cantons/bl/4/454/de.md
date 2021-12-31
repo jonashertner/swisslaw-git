@@ -4,13 +4,12 @@ number: "454"
 title: Gesetz über die Nutzung und den Schutz des Grundwassers
 short: Grundwassergesetz
 language: de
-version: 2015-01-01
-valid_until: 2021-12-31
-version_adopted: 2014-02-13
+version: 2022-01-01
+version_adopted: 2021-09-16
 adopted: 1967-04-03
 in_force: 1968-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/454"
-pdf: "https://bl.clex.ch/api/de/versions/2575/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3165/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2575/pdf_file"
 
 (Grundwassergesetz)
 
-Vom 03.04.1967 (Stand 01.01.2015)
+Vom 03.04.1967 (Stand 01.01.2022)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst als Gesetz:
 
@@ -239,11 +238,32 @@ Der Landrat des Kantons Basel-Landschaft beschliesst als Gesetz:
 
 ## 5 Schutz des Grundwassers
 
+#### § 28a
+
+**Wasserversorgungsplanung**
+
+<sup>1</sup> Der Kanton setzt die für die Wasserversorgung im Kanton regional bedeutenden Grundwasserfassungen im Kantonalen Richtplan fest.
+
+<sup>2</sup> Die Bau- und Umweltschutzdirektion kann die Gemeinden dazu auffordern, die Grundwasserschutzzonen der Grundwasserfassungen gemäss Abs. 1 zu überprüfen und, soweit erforderlich, anzupassen.
+
+<sup>3</sup> Kommen die Gemeinden einer Aufforderung gemäss Abs. 2 innerhalb von 2 Jahren nicht nach oder dauert der Prozess bis zur Ausscheidung mehr als 5 Jahre, kann der Kanton die Überprüfung und bei Bedarf die Anpassung der Grundwasserschutzzonen in der Form kantonaler Nutzungspläne vornehmen.
+
+<sup>4</sup> Die Kosten für die Überprüfung und Anpassung der Grundwasserschutzzonen verbleiben bei den Gemeinden, auch wenn der Kanton die Arbeiten gemäss Abs. 3 vornimmt.
+
 #### § 29
 
-**Schutzzonen**
+**Grundwasserschutzzonen**
 
-<sup>1</sup> Die Gemeinden scheiden in ihren Zonenplänen Schutzzonen für die im öffentlichen Interesse liegenden Grundwasserfassungen (inkl. Quellen) und Grundwasseranreicherungsanlagen aus.
+<sup>1</sup> Die Gemeinden:
+
+- a. setzen in ihren Zonenplänen Grundwasserschutzzonen für die im öffentlichen Interesse liegenden Grundwasserfassungen (inkl. Quellen) und Grundwasseranreicherungsanlagen fest;
+- b. überprüfen die Grundwasserschutzzonen gemäss den kantonalen und eidgenössischen Vorgaben und passen sie bei Bedarf den hydrogeologischen Verhältnissen an.
+
+#### § 29a
+
+**Entschädigung**
+
+<sup>1</sup> Entschädigungen für Nutzungseinschränkungen infolge von angepassten oder ausgeschiedenen Grundwasserschutzzonen sind von den Inhaberinnen oder Inhabern der Grundwasserfassungen zu bezahlen, zu deren Schutz die Grundwasserschutzzonen festgesetzt wurden.
 
 #### § 30
 
