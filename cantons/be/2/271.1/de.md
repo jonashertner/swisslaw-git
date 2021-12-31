@@ -4,13 +4,13 @@ number: "271.1"
 title: "Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung"
 short: EG ZSJ
 language: de
-version: 2021-12-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-08
+version: 2022-01-01
+valid_until: 2023-03-31
+version_adopted: 2020-12-03
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2412/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2412/pdf_file"
 
 (EG ZSJ)
 
-vom 11.06.2009 (Stand 01.12.2021)
+vom 11.06.2009 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1104,11 +1104,13 @@ beschliesst:
 
 <sup>1</sup> Die Jugendanwaltschaft hat in jedem Massnahmenvollzugsfall die finanziellen Verhältnisse der Unterhaltspflichtigen abzuklären. Diese sind zur sachdienlichen Mitarbeit verpflichtet.
 
-<sup>2</sup> Die Jugendanwältin oder der Jugendanwalt schliesst mit den Unterhaltspflichtigen einen Unterhaltsvertrag ab. Dieser wird mit den notwendigen Unterlagen der Leitung der Jugendanwaltschaft zur Genehmigung vorgelegt.
+<sup>2</sup> Die Jugendanwältin oder der Jugendanwalt schliesst mit den Unterhaltspflichtigen einen Unterhaltsvertrag ab. Die darin festzusetzenden Vollzugskostenbeiträge werden grundsätzlich in analoger Anwendung der Berechnungsgrundsätze des Gesetzes vom 3. Dezember 2020 über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG)[^93-1] und dessen Ausführungsverordnung bestimmt. Der Unterhaltsvertrag wird der Leitung der Jugendanwaltschaft zur Genehmigung vorgelegt.
 
-<sup>3</sup> Verweigern oder verzögern Unterhaltspflichtige die notwendige Mitarbeit und ist eine Mahnung erfolglos geblieben, nimmt die Jugendanwältin oder der Jugendanwalt mit Zustimmung der Leitung der Jugendanwaltschaft eine Einschätzung nach Ermessen vor. Diese Verfügung gilt bis zur rechtsgültigen Unterhaltsregelung durch Vertrag oder Urteil und ist nicht anfechtbar.
+<sup>3</sup> …
 
 <sup>4</sup> Kommt eine vertragliche Einigung nicht zustande oder wird die Genehmigung verweigert, reicht die Jugendanwaltschaft beim zuständigen Zivilgericht eine Unterhaltsklage ein.
+
+[^93-1]: BSG [213.319](https://www.belex.sites.be.ch/data/213.319/de)
 
 ## 5. Übergangs- und Schlussbestimmungen
 

@@ -4,13 +4,13 @@ number: "271.1"
 title: "Loi portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs"
 short: LiCPM
 language: fr
-version: 2021-12-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-08
+version: 2022-01-01
+valid_until: 2023-03-31
+version_adopted: 2020-12-03
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2412/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2413/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2412/pdf_file"
 
 (LiCPM)
 
-du 11.06.2009 (état au 01.12.2021)
+du 11.06.2009 (état au 01.01.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1103,11 +1103,13 @@ arrête:
 
 <sup>1</sup> Le Ministère public des mineurs examine la situation financière des personnes ayant une obligation d’entretien dans chaque cas d’exécution de mesure. Ces personnes sont tenues de coopérer de manière appropriée.
 
-<sup>2</sup> Le procureur ou la procureure des mineurs passe une convention d’entretien avec les personnes ayant une obligation d’entretien. Cette convention, accompagnée des pièces nécessaires, est soumise à l’approbation du procureur ou de la procureure des mineurs en chef.
+<sup>2</sup> Le procureur ou la procureure des mineurs passe une convention d’entretien avec les personnes ayant une obligation d’entretien. Les montants de la participation aux frais d’exécution qui doivent y être fixés sont en principe déterminés par analogie avec les principes de calcul de la loi du 3 décembre 2020 sur les prestations particulières d’encouragement et de protection destinées aux enfants (LPEP)[^93-1] et de son ordonnance d’application. La convention d’entretien est soumise pour approbation au procureur ou à la procureure des mineurs en chef.
 
-<sup>3</sup> Si les personnes ayant une obligation d’entretien refusent de coopérer ou ne font pas preuve de la diligence nécessaire, et qu’une sommation est restée sans effet, le procureur ou la procureure des mineurs, d’entente avec le procureur ou la procureure des mineurs en chef, détermine la contribution d’entretien selon son appréciation. Sa décision est inattaquable et s’applique jusqu’à ce que la contribution d’entretien ait été valablement fixée par convention ou par jugement.
+<sup>3</sup> …
 
 <sup>4</sup> Le Ministère public des mineurs intente une action alimentaire devant le tribunal civil compétent au cas où aucune convention n’est conclue ou si l’approbation en est refusée.
+
+[^93-1]: RSB [213.319](https://www.belex.sites.be.ch/data/213.319/fr)
 
 ## 5. Dispositions transitoires et dispositions finales
 
