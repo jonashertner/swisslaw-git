@@ -4,20 +4,20 @@ title: "Ordinanza del 14 giugno 1999 sull'organizzazione del Dipartimento federa
 short: Org-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1999-344-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-344-20220101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’organizzazione del Dipartimento federale dell’economia, della formazione e della ricerca
 
-(Org-DEFR)**[^t-1]**
+(Org-DEFR)[^t-1]
 
-del 14 giugno 1999 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 14 giugno 1999 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
@@ -80,18 +80,20 @@ La Segreteria generale esercita le sue funzioni conformemente all’articolo 42 
 - c. ricerca di informazioni, pianificazione dell’informazione e comunicazione;
 - d.[^4-1] direzione di personale, finanze, logistica, servizi informatici e di traduzione a livello dipartimentale e gestione di un centro di prestazioni SAP;
 - e. legislazione, applicazione del diritto e consulenza giuridica a livello dipartimentale;
-- f.[^4-2] tutela, nei settori di competenza del dipartimento, degli interessi del proprietario nei confronti del settore dei politecnici federali (art. 15*a–c*), dell’Agenzia svizzera per la promozione dell’innovazione (Innosuisse, art. 15*d*), dell’Istituto universitario federale per la formazione professionale (art. 15*e*), dell’Assicurazione svizzera contro i rischi delle esportazioni (art. 15*f*), di SIFEM SA (*Swiss Investment Fund for Emerging Markets*, art. 15*i*) e di Identitas SA (società anonima incaricata della gestione della Banca dati sul traffico di animali). Il dipartimento disciplina la collaborazione tra il servizio preposto in seno alla Segreteria generale e gli uffici specializzati coinvolti.
+- f.[^4-2] tutela, nei settori di competenza del dipartimento, degli interessi del proprietario nei confronti del settore dei politecnici federali (art. 15*a*–*c*), dell’Agenzia svizzera per la promozione dell’innovazione (Innosuisse, art. 15*d*), della Scuola universitaria federale per la formazione professionale[^4-3] (art. 15*e*), dell’Assicurazione svizzera contro i rischi delle esportazioni (art. 15*f*), di SIFEM SA (*Swiss Investment Fund for Emerging Markets*, art. 15*i*) nonché – d’intesa con la Segreteria generale del Dipartimento federale dell’interno – di Identitas AG (art. 7*a* della legge del 1° luglio 1966[^4-4] sulle epizoozie). Il dipartimento disciplina la collaborazione tra il servizio preposto in seno alla Segreteria generale e gli uffici specializzati coinvolti.
 
-<sup>2</sup> L’Ufficio del consumo (art. 12) è subordinato alla Segreteria generale.[^4-3]
+<sup>2</sup> L’Ufficio del consumo (art. 12) è subordinato alla Segreteria generale.[^4-5]
 
-<sup>2bis</sup> Il fornitore di prestazioni informatiche ISCeco è subordinato alla Segreteria generale. Esso integra e gestisce le applicazioni tecniche delle unità amministrative del dipartimento.[^4-4]
+<sup>2bis</sup> Il fornitore di prestazioni informatiche ISCeco è subordinato alla Segreteria generale. Esso integra e gestisce le applicazioni tecniche delle unità amministrative del dipartimento.[^4-6]
 
 <sup>3</sup> La Sorveglianza dei prezzi (art. 11) è amministrativamente aggregata alla Segreteria generale.
 
 [^4-1]: Nuovo testo giusta l’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^4-2]: Introdotta dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Nuovo testo giusta l’all. n. 2 dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 7 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
-[^4-4]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^4-2]: Introdotta dal n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Nuovo testo giusta l’all. 3 n. II 2 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° ago. 2021. Di detta modifica è tenuto conto in tutto il presente testo.
+[^4-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^4-5]: Nuovo testo giusta il n. I dell’O del 7 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
+[^4-6]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 ### Sezione 2: Gli uffici
 
@@ -367,15 +369,14 @@ I compiti e l’organizzazione dei quattro istituti di ricerca seguenti del sett
 
 #### Art. 15e
 
-**Scuola universitaria federale per la formazione professionale[^15e-2]**[^15e-1]
+**Scuola universitaria federale per la formazione professionale**[^15e-1]
 
 <sup>1</sup> La SUFFP è il centro di competenze della Confederazione per l’insegnamento e la ricerca nei campi della pedagogia per la formazione professionale, della formazione professionale e dello sviluppo professionale.
 
-<sup>2</sup> L’organizzazione e i compiti della scuola sono disciplinati nell’ordinanza IUFFP del 14 settembre 2005[^15e-3].
+<sup>2</sup> L’organizzazione e i compiti della scuola sono disciplinati nell’ordinanza IUFFP del 14 settembre 2005[^15e-2].
 
 [^15e-1]: Originario art. 15*a* poi 15*b*. Introdotto dall’all. n. 1 dell’O del 14 set. 2005 sull’IUFFP, in vigore dal 1° gen. 2007 ([RU 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600)).
-[^15e-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° ago. 2021. Di detta modifica è tenuto conto in tutto il presente testo.
-[^15e-3]: [[RU 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600); [2009 5933](https://fedlex.data.admin.ch/eli/oc/2009/723); [2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108); [2017 3539](https://fedlex.data.admin.ch/eli/oc/2017/390). RU 2021 405 art. 5 cpv. 1]. Vedi ora l’O del 18 giu. 2021 sulla SUFFP ([RS 412.106.1](https://fedlex.data.admin.ch/eli/cc/2021/405)).
+[^15e-2]: [[RU 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600); [2009 5933](https://fedlex.data.admin.ch/eli/oc/2009/723); [2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108); [2017 3539](https://fedlex.data.admin.ch/eli/oc/2017/390). RU 2021 405 art. 5 cpv. 1]. Vedi ora l’O del 18 giu. 2021 sulla SUFFP ([RS 412.106.1](https://fedlex.data.admin.ch/eli/cc/2021/405)).
 
 #### Art. 15f
 

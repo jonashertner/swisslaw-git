@@ -4,20 +4,20 @@ title: "Ordonnance du 14 juin 1999 sur l'organisation du Département fédéral 
 short: Org DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-344-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-344-20220101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’organisation du Département fédéral de l’économie, de la formation et de la recherche
 
-(Org DEFR)**[^t-1]**
+(Org DEFR)[^t-1]
 
-du 14 juin 1999 (Etat le 1<sup>er</sup> janvier 2021)
+du 14 juin 1999 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I 5 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
@@ -79,19 +79,21 @@ Le Secrétariat général exerce les fonctions définies à l’art. 42 LOGA et 
 - b. stratégie, planification, contrôle et coordination au niveau départemental;
 - c. recherche d’informations, planification de l’information et communication;
 - d.[^4-1] pilotage du personnel, des finances, de la logistique, de l’informatique et de la traduction au niveau départemental et gestion d’un centre de prestations SAP;
-- e. législation, application du droit et conseil juridique au niveau départemental.
-- f.[^4-2] défense, au sein du département, des intérêts du propriétaire à l’égard du domaine des EPF (art. 15*a* à 15*c*), de l’Agence suisse pour l’encouragement de l’innovation (Innosuisse, art. 15*d*), de l’Institut fédéral des hautes études en formation professionnelle (art. 15*e*), de l’Assurance suisse contre les risques à l’exportation (art. 15*f*), de SIFEM SA (*Swiss Investment Fund for Emerging Markets*, art. 15*i*) et d’Identitas SA (société anonyme chargée de la gestion de la Banque de données sur le trafic des animaux). Le département règle la collaboration entre l’organe du secrétariat général désigné à cet effet et les offices spécialisés.
+- e. législation, application du droit et conseil juridique au niveau départemental;
+- f.[^4-2] défense, au sein du département, des intérêts du propriétaire à l’égard du domaine des EPF (art. 15*a* à 15*c*), de l’Agence suisse pour l’encouragement de l’innovation (Innosuisse, art. 15*d*), de la Haute école fédérale en formation professionnelle[^4-3] (art. 15*e*), de l’Assurance suisse contre les risques à l’exportation (art. 15*f*), de SIFEM SA (Swiss Investment Fund for Emerging Markets, art. 15*i*) et, en accord avec le Secrétariat général du Département fédéral de l’intérieur, d’Identitas SA (art. 7*a* de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^4-4]). Le département règle la collaboration entre l’organe du secrétariat général désigné à cet effet et les offices spécialisés.
 
-<sup>2</sup> Le Bureau de la consommation (art. 12) est subordonné au Secrétariat général.[^4-3]
+<sup>2</sup> Le Bureau de la consommation (art. 12) est subordonné au Secrétariat général.[^4-5]
 
-<sup>2bis</sup> L’ISCeco, fournisseur de prestations informatiques, est subordonné lui aussi au Secrétariat général. Il intègre et exploite les applications spécialisées des unités administratives du département.[^4-4]
+<sup>2bis</sup> L’ISCeco, fournisseur de prestations informatiques, est subordonné lui aussi au Secrétariat général. Il intègre et exploite les applications spécialisées des unités administratives du département.[^4-6]
 
 <sup>3</sup> La Surveillance des prix (art. 11) est rattachée administrativement au Secrétariat général.
 
 [^4-1]: Nouvelle teneur selon l’annexe 3 ch. 5 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^4-2]: Introduite par le ch. I 5 de l’O du 15 juin 2012 (Réorganisation des départements; [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-[^4-3]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
-[^4-4]: Introduit par l’annexe 3 ch. 5 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^4-2]: Introduite par le ch. I 5 de l’O du 15 juin 2012 (Réorganisation des départements; [RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Nouvelle teneur selon l’annexe 3 ch. II 2 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-3]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> août 2021 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^4-5]: Nouvelle teneur selon le ch. I de l’O du 7 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
+[^4-6]: Introduit par l’annexe 3 ch. 5 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 ### Section 2 Offices
 
@@ -115,7 +117,7 @@ Il poursuit notamment les objectifs suivants:
 - h. participer à l’élaboration du droit public en matière de protection des travailleurs et des conditions-cadre dans le domaine du droit collectif du travail;
 - i. contribuer à l’insertion ou à la réinsertion des demandeurs d’emploi et assurer aux chômeurs un revenu compensatoire convenable;
 - j. favoriser les relations entre les partenaires sociaux;
-- k. … [^5-1]
+- k.[^5-1] …
 - 1\.[^5-2] faciliter l’adoption et la mise en oeuvre de mesures destinées à réduire la charge administrative et les coûts de la réglementation pesant sur les petites et moyennes entreprises (PME) ainsi qu’à assurer la cohérence de la politique fédérale en leur faveur.
 
 <sup>2bis</sup> Le SECO édite des publications périodiques sur la politique économique générale et les tendances conjoncturelles.[^5-3]
@@ -366,15 +368,14 @@ Les tâches et l’organisation des quatre établissements de recherche du domai
 
 #### Art. 15e
 
-**Haute école fédérale en formation professionnelle[^15e-2]**[^15e-1]
+**Haute école fédérale en formation professionnelle**[^15e-1]
 
 <sup>1</sup> La HEFP est le centre de compétence de la Confédération pour l’enseignement et la recherche dans les domaines de la formation professionnelle, de la pédagogie professionnelle et du développement professionnel.
 
-<sup>2</sup> L’organisation et les tâches de l’école sont réglées dans l’ordonnance du 14 septembre 2005 sur l’Institut fédéral des hautes études en formation professionnelle[^15e-3].
+<sup>2</sup> L’organisation et les tâches de l’école sont réglées dans l’ordonnance du 14 septembre 2005 sur l’Institut fédéral des hautes études en formation professionnelle[^15e-2].
 
 [^15e-1]: Anciennement art. 15*a,* puis 15*b*. Introduit par l’annexe ch. 1 de l’O du 14 sept. 2005 sur l’IFFP, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600)).
-[^15e-2]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> août 2021 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
-[^15e-3]: [[RO 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600); [2006 4867](https://fedlex.data.admin.ch/eli/oc/2006/754); [2009 5933](https://fedlex.data.admin.ch/eli/oc/2009/723); [2011 1369](https://fedlex.data.admin.ch/eli/oc/2011/207); [2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108). [RO 2021 405](https://fedlex.data.admin.ch/eli/oc/2021/405)art. 5 al. 1]. Voir actuellement l’O du 18 juin 2021 sur la HEFP ([RS 412.106.1](https://fedlex.data.admin.ch/eli/cc/2021/405)).
+[^15e-2]: [[RO 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600); [2006 4867](https://fedlex.data.admin.ch/eli/oc/2006/754); [2009 5933](https://fedlex.data.admin.ch/eli/oc/2009/723); [2011 1369](https://fedlex.data.admin.ch/eli/oc/2011/207); [2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108). [RO 2021 405](https://fedlex.data.admin.ch/eli/oc/2021/405)art. 5 al. 1]. Voir actuellement l’O du 18 juin 2021 sur la HEFP ([RS 412.106.1](https://fedlex.data.admin.ch/eli/cc/2021/405)).
 
 #### Art. 15f
 

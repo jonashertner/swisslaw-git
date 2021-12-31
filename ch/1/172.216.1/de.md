@@ -4,20 +4,20 @@ title: "Organisationsverordnung vom 14. Juni 1999 für das Eidgenössische Depar
 short: OV-WBF
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-344-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-344-20220101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Organisationsverordnung für das Eidgenössische Departement für Wirtschaft, Bildung und Forschung
 
-(OV–WBF)**[^t-1]**
+(OV–WBF)[^t-1]
 
-vom 14. Juni 1999 (Stand am 1. Januar 2021)
+vom 14. Juni 1999 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
@@ -80,18 +80,20 @@ Das Generalsekretariat übt die Funktionen nach Artikel 42 RVOG aus und nimmt fo
 - c. Ihm obliegen die Informationsbeschaffung, die Informationsplanung und die Kommunikation.
 - d.[^4-1] Es steuert Personal, Finanzen, Logistik, Informatik und Übersetzungswesen auf Departementsstufe und betreibt ein SAP-Dienstleistungszentrum.
 - e. Es besorgt die Rechtsetzung, Rechtsanwendung und Rechtsberatung auf Departementsstufe.
-- f.[^4-2] Es nimmt innerhalb des Departements die Eignerinteressen gegenüber dem ETH-Bereich (Art. 15*a–c*), der Schweizerischen Agentur für Innovationsförderung (Innosuisse, Art. 15*d*), dem Eidgenössischen Hochschulinstitut für Berufsbildung (Art. 15*e*), der Schweizerischen Exportrisikoversicherung (Art. 15*f*), der SIFEM AG (Swiss Investment Fund for Emerging Markets, Art. 15*i*) und der Identitas AG (Aktiengesellschaft zur Führung der Tierverkehrsdatenbank) wahr. Das Departement regelt die Zusammenarbeit der dafür im Generalsekretariat bestimmten Stelle mit den Fachämtern.
+- f.[^4-2] Es nimmt innerhalb des Departements die Eignerinteressen wahr gegenüber dem ETH-Bereich (Art. 15*a*–*c*), der Schweizerischen Agentur für Innovationsförderung (Innosuisse, Art. 15*d*), dem Eidgenössische Hochschule für Berufsbildung[^4-3] (Art. 15*e*), der Schweizerischen Exportrisikoversicherung (Art. 15*f*), der SIFEM AG (Swiss Investment Fund for Emerging Markets, Art. 15*i*) sowie, im Einvernehmen mit dem Generalsekretariat des Eidgenössischen Departements des Innern, der Identitas AG (Art. 7*a* des Tierseuchengesetzes vom 1. Juli 1966[^4-4]). Das Departement regelt die Zusammenarbeit der dafür im Generalsekretariat bestimmten Stelle mit den Fachämtern.
 
-<sup>2</sup> Dem Generalsekretariat unterstellt ist das Büro für Konsumentenfragen (Art. 12).[^4-3]
+<sup>2</sup> Dem Generalsekretariat unterstellt ist das Büro für Konsumentenfragen (Art. 12).[^4-5]
 
-<sup>2bis</sup> Dem Generalsekretariat unterstellt ist zudem der Informatik-Leistungserbringer ISCeco. Er integriert und betreibt die Fachanwendungen der Verwaltungseinheiten des Departements.[^4-4]
+<sup>2bis</sup> Dem Generalsekretariat unterstellt ist zudem der Informatik-Leistungserbringer ISCeco. Er integriert und betreibt die Fachanwendungen der Verwaltungseinheiten des Departements.[^4-6]
 
 <sup>3</sup> Dem Generalsekretariat administrativ zugewiesen ist die Preisüberwachung (Art. 11).
 
 [^4-1]: Fassung gemäss Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^4-2]: Eingefügt durch Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Fassung gemäss Anhang Ziff. 2 der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-[^4-3]: Fassung gemäss Ziff. I der V vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
-[^4-4]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^4-2]: Eingefügt durch Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)). Fassung gemäss Anhang 3 Ziff. II 2 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^4-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. August 2021 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^4-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^4-5]: Fassung gemäss Ziff. I der V vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)).
+[^4-6]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 ### 2. Abschnitt: Die Ämter
 
@@ -115,7 +117,7 @@ Das SECO verfolgt insbesondere folgende Ziele:
 - h. Es gestaltet das öffentliche Arbeitnehmerschutzrecht sowie die Rahmenbedingungen im Bereich des kollektiven Arbeitsrechts mit.
 - i. Es unterstützt die Eingliederung oder Wiedereingliederung von Stellensuchenden in den Arbeitsprozess und gewährleistet ein angemessenes Ersatzeinkommen für Arbeitslose.
 - j. Es unterstützt die Sozialpartnerschaft.
-- k. ...[^5-1]
+- k. …[^5-1]
 - l.[^5-2] Es erleichtert die Verabschiedung und die Umsetzung von Massnahmen zur Reduktion der administrativen Belastung und der Regulierungskosten der kleinen und mittleren Unternehmen (KMU) und zur Sicherstellung einer kohärenten KMU-Politik des Bundes.
 
 <sup>2bis</sup> Das SECO gibt periodische Publikationen über die allgemeine Wirtschaftspolitik und die Konjunkturtendenzen heraus.[^5-3]
@@ -179,7 +181,7 @@ Das BLW verfolgt insbesondere folgende Ziele:
 
 <sup>3</sup> Dem BLW ist Agroscope unterstellt. Agroscope ist das Kompetenzzentrum des Bundes im Bereich der Forschung für die Land- und Ernährungswirtschaft. Sie unterstützt die Landwirtschaft im Bestreben, qualitativ hochwertige und wettbewerbsfähige Produkte im Einklang mit dem Prinzip der nachhaltigen Entwicklung zu erzeugen. Ihre Organisation und ihre Aufgaben sind in den Artikeln 114 und 115 des Landwirtschaftsgesetzes vom 29. April 1998[^7-3] und in der Verordnung vom 23. Mai 2012[^7-4] über die landwirtschaftliche Forschung geregelt.[^7-5]
 
-<sup>4</sup> ...[^7-6]
+<sup>4</sup> …[^7-6]
 
 <sup>5</sup> Das BLW führt das Sekretariat des nationalen Komitees der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (FAO-Komitee).
 
@@ -232,7 +234,7 @@ Das BWO verfolgt insbesondere folgende Ziele:
 - c. Es sorgt für die Verhinderung missbräuchlicher Forderungen aus dem Mietverhältnis und für den Ausgleich der unterschiedlichen Interessen von Vermietern und Mietern.
 - d. Es fördert paritätische Vertragsbeziehungen zwischen Vermietern und Mietern, namentlich Rahmenmietverträge und deren Allgemeinverbindlicherklärung.
 
-<sup>3</sup> ...[^10-3]
+<sup>3</sup> …[^10-3]
 
 [^10-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^10-2]: Fassung gemäss Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
@@ -308,7 +310,7 @@ Die WEKO verfolgt insbesondere folgende Ziele:
 - a. Sie fördert den Wettbewerb im Interesse einer freiheitlichen marktwirtschaftlichen Ordnung.
 - b. Sie fördert den diskriminierungsfreien Zugang zum Binnenmarkt Schweiz.
 
-<sup>2bis</sup> ...[^15-2]
+<sup>2bis</sup> …[^15-2]
 
 <sup>3</sup> Organisation und Aufgaben der WEKO werden durch besondere Erlasse[^15-3] geregelt.
 
@@ -365,15 +367,14 @@ Aufgaben und Organisation der folgenden vier Forschungsanstalten des ETH-Bereich
 
 #### Art. 15e
 
-**Eidgenössische Hochschule für Berufsbildung[^15e-2]**[^15e-1]
+**Eidgenössische Hochschule für Berufsbildung**[^15e-1]
 
 <sup>1</sup> Die EHB ist das Kompetenzzentrum des Bundes für Lehre und Forschung in der Berufspädagogik, der Berufsbildung und der Berufsentwicklung.
 
-<sup>2</sup> Organisation und Aufgaben der Hochschule werden durch die EHB-Verordnung vom 14. September 2005[^15e-3] geregelt.
+<sup>2</sup> Organisation und Aufgaben der Hochschule werden durch die EHB-Verordnung vom 14. September 2005[^15e-2] geregelt.
 
 [^15e-1]: Ursprünglich 15*a,* dann 15*b*. Eingefügt durch Anhang Ziff. 1 der EHB-Verordnung vom 14. Sept. 2005, in Kraft seit 1. Jan. 2007 ([AS 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600)).
-[^15e-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. August 2021 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^15e-3]: [[AS 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600); [2009 5933](https://fedlex.data.admin.ch/eli/oc/2009/723); [2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108); [AS 2021 405](https://fedlex.data.admin.ch/eli/oc/2021/405)Art. 5 Abs. 1]. Siehe heute die EHB-Verordnung vom 18. Juni 2021 ([SR 412.106.1](https://fedlex.data.admin.ch/eli/cc/2021/405)).
+[^15e-2]: [[AS 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600); [2009 5933](https://fedlex.data.admin.ch/eli/oc/2009/723); [2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108); [AS 2021 405](https://fedlex.data.admin.ch/eli/oc/2021/405)Art. 5 Abs. 1]. Siehe heute die EHB-Verordnung vom 18. Juni 2021 ([SR 412.106.1](https://fedlex.data.admin.ch/eli/cc/2021/405)).
 
 #### Art. 15f
 
@@ -432,7 +433,7 @@ Es werden aufgehoben:
 - a. der Bundesratsbeschluss vom 15. Januar 1946[^17-1] über die Organisation des Bundesamtes für Industrie, Gewerbe und Arbeit;
 - b. die Verordnung vom 1. Juli 1992[^17-2] über das Institut für Viruskrankheiten und Immunprophylaxe.
 
-<sup>2–4</sup> ...[^17-3]
+<sup>2–4</sup> …[^17-3]
 
 [^17-1]: [BS **1** 423; [AS 1948 123](https://fedlex.data.admin.ch/eli/oc/1948/123_115_119)]
 [^17-2]: [[AS 1992 1506](https://fedlex.data.admin.ch/eli/oc/1992/1506_1506_1506)]
