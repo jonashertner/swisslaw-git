@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 juin 1932 sur l'alcool (LAlc)"
 short: LAlc
 eli: "https://fedlex.data.admin.ch/eli/cc/48/425_437_457"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1932-06-21
 in_force: 1933-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20190101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20190101/fr"
 
 (LAlc)**[^t-1]**
 
-du 21 juin 1932 (Etat le 1<sup>er</sup> janvier 2019)
+du 21 juin 1932 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -82,11 +82,11 @@ La fabrication, la rectification, l’importation, l’exportation, le transit, 
 
 #### Art. 4
 
-<sup>1</sup> La Confédération accorde des concessions de fabrication et de rectification des boissons distillées prévoyant un droit de prise en charge de l’Administration fédérale des douanes (AFD)[^4-1] et des concessions de fabrication des eaux-de-vie de spécialités et de distillation à façon ne prévoyant pas de droit de prise en charge.[^4-2]
+<sup>1</sup> La Confédération accorde des concessions de fabrication et de rectification des boissons distillées prévoyant un droit de prise en charge de l’Office fédéral de la douane et de la sécurité des frontières (OFDF) et des concessions de fabrication des eaux-de-vie de spécialités et de distillation à façon ne prévoyant pas de droit de prise en charge.[^4-1]
 
 <sup>2</sup>
 
-Les concessions prévoyant un droit de prise en charge sont accordées:[^4-3]
+Les concessions prévoyant un droit de prise en charge sont accordées:[^4-2]
 
 - a. aux distilleries de pommes de terre, de betteraves et d’autres matières analogues, c’est-à-dire aux distilleries fixes qui mettent en œuvre des pommes de terre du pays ou les résidus de la fabrication du sucre de betteraves indigènes;
 - b. aux distilleries de fruits à pépins, c’est-à-dire aux distilleries fixes ou ambulantes qui mettent en œuvre, pour leur propre compte, des matières premières indigènes telles que pommes et poires, leurs dérivés, cidres et poirés et les déchets de ces matières;
@@ -96,17 +96,16 @@ Les concessions prévoyant un droit de prise en charge sont accordées:[^4-3]
 
 <sup>3</sup>
 
-Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^4-4]
+Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^4-3]
 
 - a. aux distilleries de spécialités, c’est-à-dire aux distilleries fixes ou ambulantes qui mettent en œuvre des fruits à noyau, des fruits à pépins autres que des pommes et des poires, leurs dérivés et déchets, du vin, des déchets et résidus de la production du vin, des racines de gentiane, des baies ou d’autres matières analogues;
 - b. aux distilleries à façon, c’est-à-dire aux distilleries fixes ou ambulantes qui mettent en œuvre, pour le compte de commettants et contre rémunération, les matières désignées à l’art. 3, al. 3.
 
 <sup>4</sup> Le Conseil fédéral fixe les conditions auxquelles une exploitation peut obtenir simultanément différentes concessions.
 
-[^4-1]: Nouvelle expression selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^4-1]: Nouvelle teneur selon le ch. I 25 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^4-2]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^4-3]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^4-4]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
 ### 2. Octroi des concessions
 
@@ -122,21 +121,21 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 <sup>4</sup> La durée d’une concession ne peut dépasser dix ans. La concession ne peut être accordée que si la personne du requérant, ainsi que la construction et les installations techniques, assurent une exploitation rationnelle. Le Conseil fédéral édicte les prescriptions nécessaires. Il peut, entre autres, déclarer incompatibles l’exploitation d’une distillerie et l’exercice simultané d’une autre profession qui entraverait la surveillance de la distillerie ou du commerce des boissons distillées.
 
-<sup>5</sup> Le transfert d’une concession à une autre personne ou à une autre distillerie est subordonné à une autorisation de l’AFD[^5-1]. L’autorisation doit être accordée si la distillerie est transférée par voie de succession et si l’héritier remplit les conditions nécessaires.
+<sup>5</sup> Le transfert d’une concession à une autre personne ou à une autre distillerie est subordonné à une autorisation de l’OFDF[^5-1]. L’autorisation doit être accordée si la distillerie est transférée par voie de succession et si l’héritier remplit les conditions nécessaires.
 
-[^5-1]: Nouvelle expression selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-1]: Nouvelle expression selon le ch. I 25 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ### b. Mode de procéder
 
 #### Art. 6
 
-<sup>1</sup> Les concessions sont accordées ou renouvelées par l’AFD, sur demande et sans frais.
+<sup>1</sup> Les concessions sont accordées ou renouvelées par l’OFDF, sur demande et sans frais.
 
 <sup>2</sup> Acte en est dressé.
 
-<sup>3</sup> Si les conditions de la concession ne sont pas observées ou si l’un des motifs ayant justifié l’octroi ou le renouvellement vient à disparaître, l’AFD peut, après avoir entendu l’intéressé, retirer la concession avant son échéance.
+<sup>3</sup> Si les conditions de la concession ne sont pas observées ou si l’un des motifs ayant justifié l’octroi ou le renouvellement vient à disparaître, l’OFDF peut, après avoir entendu l’intéressé, retirer la concession avant son échéance.
 
-<sup>4</sup> …[^6-1]
+<sup>4</sup> ...[^6-1]
 
 [^6-1]: Abrogé par le ch. II al. 1 ch. 8 de la LF du 20 déc. 1968 modifiant l’OJ, avec effet au 1<sup>er</sup> oct. 1969 ([RO 1969 787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [FF 1965 II 1301](https://fedlex.data.admin.ch/eli/fga/1965/2_1265_1301_1029)).
 
@@ -144,13 +143,13 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 #### Art. 7
 
-<sup>1</sup> Les distilleries concessionnaires sont placées sous le contrôle de l’AFD. Celle-ci peut recourir à la collaboration des autorités cantonales et communales.[^7-1]
+<sup>1</sup> Les distilleries concessionnaires sont placées sous le contrôle de l’OFDF. Celui-ci peut recourir à la collaboration des autorités cantonales et communales.[^7-1]
 
 <sup>2</sup> Le concessionnaire doit tenir un contrôle indiquant la provenance des matières premières, les sortes et quantités de boissons distillées obtenues et l’emploi de celles-ci. Il doit en outre accorder, en tout temps, libre accès dans les locaux d’exploitation aux agents chargés de l’application de la présente loi, les autoriser à consulter sa comptabilité et leur fournir tous renseignements nécessaires.
 
-<sup>3</sup> Une autorisation de l’AFD est nécessaire pour acquérir, installer, déplacer, remplacer ou transformer des appareils à distiller et leurs accessoires.[^7-2]
+<sup>3</sup> Une autorisation de l’OFDF est nécessaire pour acquérir, installer, déplacer, remplacer ou transformer des appareils à distiller et leurs accessoires.[^7-2]
 
-<sup>4</sup> Le Conseil fédéral est autorisé à soumettre aussi au contrôle de l’AFD les installations qui peuvent servir à produire des boissons distillées et qui ne font pas l’objet d’une concession. L’al. 3 peut être déclaré applicable à ces installations.[^7-3]
+<sup>4</sup> Le Conseil fédéral est autorisé à soumettre aussi au contrôle de l’OFDF les installations qui peuvent servir à produire des boissons distillées et qui ne font pas l’objet d’une concession. L’al. 3 peut être déclaré applicable à ces installations.[^7-3]
 
 [^7-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^7-2]: Nouvelle teneur selon l’art. 1 de la LF du 25 oct. 1949, en vigueur depuis le 1<sup>er</sup> mars 1950 (RO **1950** I 72; [FF 1949 I 681](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
@@ -186,13 +185,13 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 [^10-1]
 
-<sup>1</sup> L’AFD fixe chaque année la quantité de boissons distillées qu’elle prend en charge pour couvrir ses besoins.
+<sup>1</sup> L’OFDF fixe chaque année la quantité de boissons distillées qu’il prend en charge pour couvrir ses besoins.
 
-<sup>2</sup> Elle peut en sus prendre en charge de l’eau-de-vie pour absorber les excédents du marché.
+<sup>2</sup> Il peut en sus prendre en charge de l’eau-de-vie pour absorber les excédents du marché.
 
-<sup>3</sup> Avant la récolte, elle annonce la quantité qu’elle prendra en charge, avec mention du prix, aux distilleries ayant une concession prévoyant un droit de prise en charge. Les distilleries sont appelées à faire leurs offres. Lorsque les offres dépassent la quantité annoncée, l’attribution aux distilleries est faite au prorata des offres.
+<sup>3</sup> Avant la récolte, il annonce la quantité qu’il prendra en charge, avec mention du prix, aux distilleries ayant une concession prévoyant un droit de prise en charge. Les distilleries sont appelées à faire leurs offres. Lorsque les offres dépassent la quantité annoncée, l’attribution aux distilleries est faite au prorata des offres.
 
-<sup>4</sup> Le Conseil fédéral fixe les exigences auxquelles doivent satisfaire les boissons distillées prises en charge par l’AFD ainsi que les modalités de prise en charge.
+<sup>4</sup> Le Conseil fédéral fixe les exigences auxquelles doivent satisfaire les boissons distillées prises en charge par l’OFDF ainsi que les modalités de prise en charge.
 
 <sup>5</sup> Les boissons distillées fabriquées à partir de matières premières de fruits à pépins sont soumises à l’imposition conformément aux art. 20 à 23.
 
@@ -206,15 +205,15 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 #### Art. 11
 
-<sup>1</sup> Les prix des boissons distillées prises en charge par l l’AFD sont fixés par le Conseil fédéral.
+<sup>1</sup> Les prix des boissons distillées prises en charge par l’OFDF sont fixés par le Conseil fédéral.
 
-<sup>2</sup> Les prix des boissons distillées que l’AFD prend en charge pour couvrir ses besoins sont fixés compte tenu de l’utilisation des excédents et des déchets des matières premières ainsi que du coût de revient d’une production rationnelle. Les prix peuvent être différents selon que l’eau-de-vie est produite en alambic ou en colonne de distillation.[^11-1]
+<sup>2</sup> Les prix des boissons distillées que l’OFDF prend en charge pour couvrir ses besoins sont fixés compte tenu de l’utilisation des excédents et des déchets des matières premières ainsi que du coût de revient d’une production rationnelle. Les prix peuvent être différents selon que l’eau-de-vie est produite en alambic ou en colonne de distillation.[^11-1]
 
-<sup>3</sup> Pour les boissons distillées que l’AFD prend en charge pour absorber les excédents du marché, des prix échelonnés sont fixés selon les quantités. Ils doivent être inférieurs à ceux fixés selon l’al. 3.[^11-2]
+<sup>3</sup> Pour les boissons distillées que l’OFDF prend en charge pour absorber les excédents du marché, des prix échelonnés sont fixés selon les quantités. Ils doivent être inférieurs à ceux fixés selon l’al. 3.[^11-2]
 
-<sup>4</sup> et <sup>5</sup> …[^11-3]
+<sup>4</sup> et <sup>5</sup> ...[^11-3]
 
-<sup>6</sup> Le prix payé aux distilleries industrielles et aux fabriques d’alcool doit, en règle générale, correspondre au prix de revient moyen de l’alcool de même qualité importé par l’AFD. Pour fixer ce prix, il pourra être tenu équitablement compte des frais de production effectifs, y compris l’intérêt et l’amortissement du capital investi.
+<sup>6</sup> Le prix payé aux distilleries industrielles et aux fabriques d’alcool doit, en règle générale, correspondre au prix de revient moyen de l’alcool de même qualité importé par l’OFDF. Pour fixer ce prix, il pourra être tenu équitablement compte des frais de production effectifs, y compris l’intérêt et l’amortissement du capital investi.
 
 <sup>7</sup> Les usines de rectification recevront une indemnité qui doit couvrir les frais de rectification.
 
@@ -236,13 +235,13 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 <sup>1</sup> Le droit de distiller des spécialités n’est limité ni quant à la quantité de la production, ni quant à la provenance des matières premières.
 
-<sup>2</sup> L’AFD ne prend pas en charge les produits des distilleries de spécialités.[^12-1]
+<sup>2</sup> L’OFDF ne prend pas en charge les produits des distilleries de spécialités.[^12-1]
 
 <sup>3</sup> Les eaux-de-vie de spécialités[^12-2] tirées de matières indigènes sont imposées conformément aux dispositions des art. 20 à 23.
 
-<sup>4</sup> …[^12-3]
+<sup>4</sup> ...[^12-3]
 
-<sup>5</sup> …[^12-4]
+<sup>5</sup> ...[^12-4]
 
 [^12-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^12-2]: Nouvelle expression selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -255,11 +254,11 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 <sup>1</sup> Les concessions pour l’exploitation des distilleries à façon sont accordées aux distilleries ambulantes. Elles peuvent aussi être accordées à des distilleries fixes si les distilleries ambulantes sont insuffisantes, ou si des circonstances locales ou des circonstances antérieures à l’entrée en vigueur de la présente loi le justifient.
 
-<sup>2</sup> A moins qu’elles ne soient au bénéfice d’une des autres concessions prévues à l’art. 4, les distilleries à façon ne doivent pas travailler pour leur propre compte, mais seulement pour le compte de commettants. Elles ne distilleront, pour le compte de ces derniers, que des matières désignées à l’art. 14.
+<sup>2</sup> À moins qu’elles ne soient au bénéfice d’une des autres concessions prévues à l’art. 4, les distilleries à façon ne doivent pas travailler pour leur propre compte, mais seulement pour le compte de commettants. Elles ne distilleront, pour le compte de ces derniers, que des matières désignées à l’art. 14.
 
 <sup>3</sup> L’eau-de-vie ainsi obtenue doit être remise au commettant.[^13-1]
 
-<sup>4</sup> …[^13-2]
+<sup>4</sup> ...[^13-2]
 
 [^13-1]: Nouvelle teneur selon l’art. 1 de la LF du 25 oct. 1949, en vigueur depuis le 1<sup>er</sup> mars 1950 (RO **1950** I 72; [FF 1949 I 681](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
 [^13-2]: Abrogé par l’art. 1 de la LF du 25 oct. 1949, avec effet au 1<sup>er</sup> mars 1950 (RO **1950** I 72; [FF 1949 I 681](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
@@ -272,17 +271,17 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 <sup>1</sup> La production non industrielle des eaux-de-vie de fruits et de déchets de fruits, de cidre, de poiré, de raisins, de vin, de marcs de raisin, de lies de vin, de racines de gentiane, de baies et d’autres matières analogues, provenant exclusivement de la récolte indigène du producteur (bouilleur de cru) ou récoltées par ses soins à l’état sauvage dans le pays, n’est autorisée que dans les distilleries domestiques concessionnaires.[^14-1]
 
-<sup>2</sup> Une concession peut être accordée par l’AFD, pour la durée d’une année, au bouilleur de cru dont la récolte a été fortement diminuée par la grêle ou un autre phénomène naturel, pour lui permettre de distiller ses propres produits et des matières premières fournies par des tiers, sans perdre le droit à l’allocation en franchise prévue à l’art. 16.
+<sup>2</sup> Une concession peut être accordée par l’OFDF, pour la durée d’une année, au bouilleur de cru dont la récolte a été fortement diminuée par la grêle ou un autre phénomène naturel, pour lui permettre de distiller ses propres produits et des matières premières fournies par des tiers, sans perdre le droit à l’allocation en franchise prévue à l’art. 16.
 
-<sup>3</sup> …[^14-2]
+<sup>3</sup> ...[^14-2]
 
-<sup>4</sup> …[^14-3]
+<sup>4</sup> ...[^14-3]
 
 <sup>5</sup> Ils ne peuvent, en règle générale, être transférés à des tiers qu’avec l’exploitation agricole à laquelle ils appartiennent (domaine de la distillerie). Si le domaine vient à être morcelé, la distillerie ne peut plus être exploitée que sur la parcelle où elle se trouvait avant le morcellement.
 
-<sup>6</sup> Le remplacement d’appareils à distiller et d’accessoires, les transformations susceptibles d’augmenter leur capacité de production, ainsi que le transfert à des tiers, si ce transfert n’est pas en rapport avec celui du domaine de la distillerie, ne peuvent être opérés qu’avec l’autorisation de l’AFD. Cette autorisation peut prescrire de quelle façon le remplacement ou la transformation doit être opérée.
+<sup>6</sup> Le remplacement d’appareils à distiller et d’accessoires, les transformations susceptibles d’augmenter leur capacité de production, ainsi que le transfert à des tiers, si ce transfert n’est pas en rapport avec celui du domaine de la distillerie, ne peuvent être opérés qu’avec l’autorisation de l’OFDF. Cette autorisation peut prescrire de quelle façon le remplacement ou la transformation doit être opérée.
 
-<sup>7</sup> …[^14-4]
+<sup>7</sup> ...[^14-4]
 
 [^14-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^14-2]: Abrogé par l’art. 12 al. 3 de la LF du 23 juin 1944 sur la concession des distilleries domestiques, avec effet au 6 avr. 1945 ([RO 60 687](https://fedlex.data.admin.ch/eli/oc/60/689_687_673); FF **1943** 1323).
@@ -295,9 +294,9 @@ Les concessions ne prévoyant pas de droit de prise en charge sont accordées:[^
 
 [^15-1]
 
-<sup>1</sup> La distillerie domestique est placée sous la surveillance de l’AFD. Celle-ci peut recourir à la collaboration des autorités cantonales et communales.
+<sup>1</sup> La distillerie domestique est placée sous la surveillance de l’OFDF. Celui-ci peut recourir à la collaboration des autorités cantonales et communales.
 
-<sup>2</sup> Le distillateur ne peut faire aucune transformation avant d’avoir fourni à l’AFD tous les renseignements prescrits.
+<sup>2</sup> Le distillateur ne peut faire aucune transformation avant d’avoir fourni à l’OFDF tous les renseignements prescrits.
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -315,7 +314,7 @@ Le bouilleur de cru n’est autorisé à garder en franchise d’impôt que l’
 
 [^17-1]
 
-<sup>1</sup> L’AFD peut prendre en charge l’eau-de-vie de fruits à pépins qui n’est pas nécessaire au ménage et à l’exploitation agricole du bouilleur de cru. Les art. 10 et 11 sont applicables par analogie.
+<sup>1</sup> L’OFDF peut prendre en charge l’eau-de-vie de fruits à pépins qui n’est pas nécessaire au ménage et à l’exploitation agricole du bouilleur de cru. Les art. 10 et 11 sont applicables par analogie.
 
 <sup>2</sup> L’eau-de-vie de fruits à pépins remise à des tiers gratuitement ou contre rémunération est soumise à l’imposition conformément aux art. 20 à 23.
 
@@ -327,7 +326,7 @@ Le bouilleur de cru n’est autorisé à garder en franchise d’impôt que l’
 
 [^18-1]
 
-<sup>1</sup> L’AFD ne prend pas en charge les eaux-de-vie de spécialités produites par les bouilleurs de cru.
+<sup>1</sup> L’OFDF ne prend pas en charge les eaux-de-vie de spécialités produites par les bouilleurs de cru.
 
 <sup>2</sup> Les eaux-de-vie de spécialités remises à des tiers gratuitement ou contre rémunération sont soumises à l’imposition conformément aux art. 20 à 23.
 
@@ -343,13 +342,13 @@ Le bouilleur de cru n’est autorisé à garder en franchise d’impôt que l’
 
 <sup>2</sup> Les producteurs qui font distiller exclusivement des produits de leur cru ou récoltés par leurs soins à l’état sauvage dans le pays sont reconnus commettants-bouilleurs de cru s’ils répondent aux conditions fixées par le Conseil fédéral conformément à l’art. 3, al. 5, pour la fabrication non industrielle des boissons distillées. Le Conseil fédéral peut toutefois soumettre l’admission des commettants-bouilleurs de cru aux restrictions nécessaires pour éviter des abus.
 
-<sup>3</sup> Lorsque des circonstances spéciales empêchent l’utilisation d’une distillerie à façon, l’AFD peut autoriser le détenteur d’une distillerie domestique à procéder à la distillation pour le compte d’un commettant-bouilleur de cru ou à lui remettre son appareil en location.
+<sup>3</sup> Lorsque des circonstances spéciales empêchent l’utilisation d’une distillerie à façon, l’OFDF peut autoriser le détenteur d’une distillerie domestique à procéder à la distillation pour le compte d’un commettant-bouilleur de cru ou à lui remettre son appareil en location.
 
 <sup>4</sup> Les prescriptions concernant la surveillance des bouilleurs de cru, l’utilisation et l’imposition de l’eau-de-vie sont applicables aux commettants-bouilleurs de cru.
 
 <sup>5</sup> Les commettants qui ne remplissent pas les conditions de l’al. 2 sont soumis aux prescriptions concernant les distillateurs professionnels pour l’autorisation de distiller, le contrôle, l’utilisation et l’imposition de l’eau-de-vie produite. Le contrôle peut être simplifié pour les commettants produisant de petites quantités d’eau-de-vie.
 
-<sup>6</sup> Si un commettant a été puni pour contravention grave à la loi fédérale sur l’alcool ou pour contravention commise en récidive, ou s’adonne à l’ivrognerie, l’AFD peut lui interdire de donner des ordres de distiller prévus par l’al. 5. De plus, le Conseil fédéral peut déclarer le droit de faire distiller incompatible avec l’exercice d’autres professions si le contrôle des matières premières, de la production et de l’utilisation de l’eau-de-vie en est entravé.
+<sup>6</sup> Si un commettant a été puni pour contravention grave à la loi fédérale sur l’alcool ou pour contravention commise en récidive, ou s’adonne à l’ivrognerie, l’OFDF peut lui interdire de donner des ordres de distiller prévus par l’al. 5. De plus, le Conseil fédéral peut déclarer le droit de faire distiller incompatible avec l’exercice d’autres professions si le contrôle des matières premières, de la production et de l’utilisation de l’eau-de-vie en est entravé.
 
 [^19-1]: Nouvelle teneur selon l’art. 1 de la LF du 25 oct. 1949, en vigueur depuis le 1<sup>er</sup> mars 1950 (RO **1950** I 72; [FF 1949 I 681](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
 
@@ -368,7 +367,7 @@ Cet impôt est dû:
 - a. par le concessionnaire de la distillerie (art. 12);
 - b. par le bouilleur de cru (art. 18, al. 2) ou par le commettant (art. 19).
 
-<sup>3</sup> …[^20-1]
+<sup>3</sup> ...[^20-1]
 
 [^20-1]: Introduit par le ch. I de la LF du 4 oct. 1996 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)). Abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -402,7 +401,7 @@ Cet impôt est dû:
 
 #### Art. 23
 
-<sup>1</sup> L’AFD peut prescrire la forme de la déclaration des quantités d’alcool produites ou de celles qui ont été écoulées à partir des entrepôts fiscaux; elle peut notamment ordonner l’utilisation d’un procédé électronique et subordonner l’utilisation du procédé à un contrôle.[^23-1]
+<sup>1</sup> L’OFDF peut prescrire la forme de la déclaration des quantités d’alcool produites ou de celles qui ont été écoulées à partir des entrepôts fiscaux; il peut notamment ordonner l’utilisation d’un procédé électronique et subordonner l’utilisation du procédé à un contrôle.[^23-1]
 
 <sup>1bis</sup> Le Conseil fédéral règle la procédure de taxation.[^23-2]
 
@@ -410,7 +409,7 @@ Cet impôt est dû:
 
 <sup>3</sup> Les organes compétents peuvent procéder à des contrôles en tout temps et sans préavis. L’exploitant doit leur accorder libre accès aux locaux de vente et d’entreposage, leur fournir tous renseignements utiles, leur montrer les réserves de boissons distillées et leur présenter les livres de commerce et les pièces justificatives.[^23-3]
 
-<sup>4</sup> L’AFD fixe la date à laquelle l’impôt est exigible.
+<sup>4</sup> L’OFDF fixe la date à laquelle l’impôt est exigible.
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^23-2]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -447,7 +446,7 @@ L’impôt est réduit de 50 % pour:
 [^23bis-3]: Nouvelle teneur selon le ch. 1 de l'annexe à la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^23bis-4]: Introduit par le le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> fév. 2004 ([RO 2004 455](https://fedlex.data.admin.ch/eli/oc/2004/34); [FF 2003 1980](https://fedlex.data.admin.ch/eli/fga/2003/271)).
 
-### VI. …
+### VI. ...
 
 #### Art. 24
 
@@ -461,7 +460,7 @@ L’impôt est réduit de 50 % pour:
 
 [^25-1]
 
-L’AFD peut ordonner que les appareils à distiller qui ne donnent plus droit à une concession soient modifiés de manière à exclure tout usage abusif.
+L’OFDF peut ordonner que les appareils à distiller qui ne donnent plus droit à une concession soient modifiés de manière à exclure tout usage abusif.
 
 [^25-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
@@ -505,7 +504,7 @@ Les produits alimentaires solides contenant de l’alcool sont imposés au taux 
 
 [^29-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### c. …
+### c. ...
 
 #### Art. 30
 
@@ -528,7 +527,7 @@ Le Conseil fédéral précise:
 - a. les cas dans lesquels une dénaturation doit être effectuée;
 - b. les personnes habilitées à effectuer la dénaturation.
 
-<sup>3</sup> L’AFD règle la dénaturation.
+<sup>3</sup> L’OFDF règle la dénaturation.
 
 [^31-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -538,9 +537,9 @@ Le Conseil fédéral précise:
 
 [^32-1]
 
-<sup>1</sup> Toute personne qui veut utiliser de l’alcool non dénaturé et non imposé pour la production de produits impropres à la consommation ou dans des processus professionnels qui ne sont pas destinés à la consommation doit requérir une autorisation d’utilisation auprès de l’AFD.
+<sup>1</sup> Toute personne qui veut utiliser de l’alcool non dénaturé et non imposé pour la production de produits impropres à la consommation ou dans des processus professionnels qui ne sont pas destinés à la consommation doit requérir une autorisation d’utilisation auprès de l’OFDF.
 
-<sup>2</sup> Le Conseil fédéral fixe les conditions requises pour l’octroi de l’autorisation d’utilisation. L’AFD détermine dans l’autorisation les conditions applicables aux produits ou aux processus visés à l’al. 1.
+<sup>2</sup> Le Conseil fédéral fixe les conditions requises pour l’octroi de l’autorisation d’utilisation. L’OFDF détermine dans l’autorisation les conditions applicables aux produits ou aux processus visés à l’al. 1.
 
 <sup>3</sup>
 
@@ -571,7 +570,7 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 
 [^34-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### III. …
+### III. ...
 
 ### 4. Contrôle
 
@@ -579,7 +578,7 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 
 [^35-1]
 
-<sup>1</sup> L’AFD surveille l’utilisation des boissons distillées.
+<sup>1</sup> L’OFDF surveille l’utilisation des boissons distillées.
 
 <sup>2</sup> Les organes compétents peuvent procéder à des contrôles en tout temps et sans préavis. Le détenteur de l’autorisation d’utilisation doit leur accorder libre accès aux locaux de vente et d’entreposage, leur fournir tous renseignements utiles, leur montrer les réserves de boissons distillées et leur présenter les livres de commerce et les pièces justificatives.
 
@@ -593,7 +592,7 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 
 <sup>2</sup> Le taux de remboursement est calculé sur la base des taxes fiscales prévues dans la présente loi et grevant les produits exportés. S’il n’est pas possible de déterminer le montant exact de ces taxes, le remboursement se fera au taux le plus bas.
 
-<sup>3</sup> Le remboursement s’effectue à la fin de l’exercice. Au cours de celui-ci, l’AFD peut verser des acomptes.
+<sup>3</sup> Le remboursement s’effectue à la fin de l’exercice. Au cours de celui-ci, l’OFDF peut verser des acomptes.
 
 <sup>4</sup> Aucun remboursement ne sera opéré sur les exportations de quantités inférieures à 5 kg poids brut.
 
@@ -603,7 +602,7 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 [^36-2]: Phrase introduite par le ch. I 4 de la LF du 17 déc. 2010 sur l’achat de marchandises dans les boutiques hors taxes des aéroports, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1971](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^36-3]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379), [1999 1730](https://fedlex.data.admin.ch/eli/oc/1999/275); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
-## Chapitre IV …
+## Chapitre IV ...
 
 #### Art. 37
 
@@ -639,7 +638,7 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 
 [^39-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 57](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
-### II. …
+### II. ...
 
 #### Art. 39a
 
@@ -647,21 +646,21 @@ Le détenteur d’une autorisation d’utilisation pour de l’alcool non dénat
 
 [^39a-1]: Introduit par le ch. I de la LF du 19 déc. 1980 ([RO 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 57](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)). Abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### III. …
+### III. ...
 
 #### Art. 40
 
 [^40-1]
 
-<sup>1</sup> …[^40-2]
+<sup>1</sup> ...[^40-2]
 
-<sup>2</sup> …[^40-3]
+<sup>2</sup> ...[^40-3]
 
-<sup>3</sup> …[^40-4]
+<sup>3</sup> ...[^40-4]
 
-<sup>3bis</sup> …[^40-5]
+<sup>3bis</sup> ...[^40-5]
 
-<sup>4</sup> et <sup>5</sup> …[^40-6]
+<sup>4</sup> et <sup>5</sup> ...[^40-6]
 
 [^40-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 57](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 [^40-2]: Abrogé par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -721,7 +720,7 @@ L’autorité compétente peut accorder des dérogations pour la délivrance de 
 
 <sup>3</sup> Peuvent être admis à pratiquer le commerce de détail des boissons distillées, les producteurs d’eau-de-vie, les établissements de l’hôtellerie et de la restauration y compris les services de restauration dans les aéronefs et les trains ainsi que sur les bateaux, les commerces de vins et de spiritueux, les boutiques hors-taxe, les pharmacies et les drogueries, de même que les commerces offrant un large assortiment de denrées alimentaires qui comprend également des boissons sans alcool.
 
-<sup>4</sup> …[^41a-2]
+<sup>4</sup> ...[^41a-2]
 
 <sup>5</sup> Est réservée la compétence des cantons de soumettre le commerce de détail à des restrictions supplémentaires exigées par le bien-être public.
 
@@ -779,7 +778,7 @@ La publicité pour les boissons distillées est interdite:
 
 [^43-1]
 
-L’AFD encourage la coordination entre les cantons en matière de réglementation du commerce de détail.
+L’OFDF encourage la coordination entre les cantons en matière de réglementation du commerce de détail.
 
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 1980, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 57](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
@@ -795,7 +794,7 @@ L’AFD encourage la coordination entre les cantons en matière de réglementati
 
 <sup>1</sup> Afin de diminuer la consommation des eaux-de-vie, la Confédération soutient par des subsides les efforts des organisations et institutions qui, sur le plan suisse ou intercantonal, luttent contre l’alcoolisme par des mesures préventives. De tels subsides peuvent être affectés notamment à l’information et à la recherche.
 
-<sup>2</sup> Les subsides sont versés par l’AFD; à cet effet, un montant global approprié est porté à son budget. L’AFD peut charger un organe compétent de répartir tout ou partie des subsides.
+<sup>2</sup> Les subsides sont versés par l’OFDF; à cet effet, un montant global approprié est porté à son budget. L’OFDF peut charger un organe compétent de répartir tout ou partie des subsides.
 
 <sup>3</sup> L’octroi de subsides pour combattre l’alcoolisme, accordés par les cantons en vertu de la dîme de l’alcool, est réservé.
 
@@ -862,16 +861,16 @@ La Confédération a un droit de gage légal sur tous les produits soumis à l�
 
 [^47-1]
 
-<sup>1</sup> L’AFD fait valoir son droit de gage en séquestrant la marchandise.
+<sup>1</sup> L’OFDF fait valoir son droit de gage en séquestrant la marchandise.
 
 <sup>2</sup>
 
-Elle procède au séquestre de la marchandise:
+Il procède au séquestre de la marchandise:
 
 - a. par la mainmise sur le gage, ou
 - b. par l’interdiction faite au possesseur de la marchandise d’en disposer.
 
-<sup>3</sup> Elle peut restituer la marchandise séquestrée à l’ayant droit contre le versement de sûretés.
+<sup>3</sup> Il peut restituer la marchandise séquestrée à l’ayant droit contre le versement de sûretés.
 
 [^47-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -892,7 +891,7 @@ Le gage fiscal peut être réalisé:
 
 <sup>3</sup>
 
-L’AFD peut réaliser le gage de gré à gré uniquement avec l’accord du propriétaire du gage, sauf si:
+L’OFDF peut réaliser le gage de gré à gré uniquement avec l’accord du propriétaire du gage, sauf si:
 
 - a. le gage n’a pas pu être réalisé par la vente aux enchères publiques, ou
 - b. la valeur du gage ne dépasse pas 1000 francs et le propriétaire du gage n’est pas connu.
@@ -903,7 +902,7 @@ L’AFD peut réaliser le gage de gré à gré uniquement avec l’accord du pro
 
 Il règle:
 
-- a. les conditions supplémentaires auxquelles l’AFD peut vendre le gage de gré à gré;
+- a. les conditions supplémentaires auxquelles l’OFDF peut vendre le gage de gré à gré;
 - b. les cas dans lesquels il peut être renoncé à la réalisation d’un gage douanier.
 
 [^48-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -951,7 +950,7 @@ Les décisions fondées sur l’art 42*b* peuvent être attaquées dans un déla
 [^chap8-1][^chap8-2]
 
 [^chap8-1]: Nouvelle teneur selon le ch. 11 de l’annexe au DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^chap8-2]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
+[^chap8-2]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
 ### A. Infractions
 
@@ -1018,7 +1017,7 @@ Est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:
 [^54-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^54-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-### III. …
+### III. ...
 
 #### Art. 55
 
@@ -1081,7 +1080,7 @@ Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
 
 [^58a-1]
 
-Est puni d’une amende de 100 000 francs au plus quiconque, laissé en possession de boissons spiritueuses ou d’éthanol séquestrés à titre de gage fiscal par l’AFD, les détruit ou en dispose sans l’accord de l’autorité. Si l’auteur agit par négligence, la peine est une amende de 30 000 francs au plus.
+Est puni d’une amende de 100 000 francs au plus quiconque, laissé en possession de boissons spiritueuses ou d’éthanol séquestrés à titre de gage fiscal par l’OFDF, les détruit ou en dispose sans l’accord de l’autorité. Si l’auteur agit par négligence, la peine est une amende de 30 000 francs au plus.
 
 [^58a-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1095,7 +1094,7 @@ Est puni d’une amende de 100 000 francs au plus quiconque, laissé en possessi
 
 <sup>1</sup> La DPA[^59-2] est applicable, sauf dispositions contraires des art. 59*a* à 63.
 
-<sup>2</sup> Sous réserve de l’art. 57, al. 5, l’AFD est l’autorité administrative compétente pour poursuivre et juger.
+<sup>2</sup> Sous réserve de l’art. 57, al. 5, l’OFDF est l’autorité administrative compétente pour poursuivre et juger.
 
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^59-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1106,7 +1105,7 @@ Est puni d’une amende de 100 000 francs au plus quiconque, laissé en possessi
 
 [^59a-1]
 
-Si l’amende prévisible n’excède pas 50 000 francs et qu’il n’est pas possible de déterminer les personnes punissables en vertu de l’art. 6 DPA[^59a-2], sauf à prendre des mesures d’instruction disproportionnées, l’AFD peut renoncer à poursuivre ces personnes et condamner l’entreprise au paiement de l’amende à leur place.
+Si l’amende prévisible n’excède pas 50 000 francs et qu’il n’est pas possible de déterminer les personnes punissables en vertu de l’art. 6 DPA[^59a-2], sauf à prendre des mesures d’instruction disproportionnées, l’OFDF peut renoncer à poursuivre ces personnes et condamner l’entreprise au paiement de l’amende à leur place.
 
 [^59a-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^59a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1117,7 +1116,7 @@ Si l’amende prévisible n’excède pas 50 000 francs et qu’il n’est pas p
 
 [^59b-1]
 
-Si un acte constitue à la fois un ou plusieurs états de fait punissables selon la présente loi ou une autre loi et que la poursuite et le jugement incombent également à l’AFD, la peine encourue est celle qui est prévue pour l’infraction la plus grave; elle peut être augmentée de façon appropriée.
+Si un acte constitue à la fois un ou plusieurs états de fait punissables selon la présente loi ou une autre loi et que la poursuite et le jugement incombent également à l’OFDF, la peine encourue est celle qui est prévue pour l’infraction la plus grave; elle peut être augmentée de façon appropriée.
 
 [^59b-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1148,9 +1147,9 @@ La prescription de l’action pénale selon l’art. 11, al. 2, DPA[^60-2], est 
 
 [^62-1]
 
-<sup>1</sup> Les prescriptions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^62-2] concernant l’assujettissement à une prestation ou à une restitution (art. 12, 13 et 63) sont applicables par analogie au paiement de prestations en compensation de la perte fiscale causée à l’AFD du fait d’une infraction.
+<sup>1</sup> Les prescriptions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^62-2] concernant l’assujettissement à une prestation ou à une restitution (art. 12, 13 et 63) sont applicables par analogie au paiement de prestations en compensation de la perte fiscale causée à l’OFDF du fait d’une infraction.
 
-<sup>2</sup> La perte fiscale est réclamée par l’AFD par une décision de procédure administrative. Si elle ne peut être déterminée avec précision, elle sera fixée par estimation.[^62-3]
+<sup>2</sup> La perte fiscale est réclamée par l’OFDF par une décision de procédure administrative. Si elle ne peut être déterminée avec précision, elle sera fixée par estimation.[^62-3]
 
 <sup>3</sup> Celui qui aura obtenu ou tenté d’obtenir indûment, pour lui-même ou pour un tiers, une contribution (subside) ou tout autre avantage prévu par la législation sur l’alcool, de même que l’exploitation commerciale qu’il représente, pourra être privé du droit aux contributions pour une durée de trois ans au plus.[^62-4]
 
@@ -1165,7 +1164,7 @@ La prescription de l’action pénale selon l’art. 11, al. 2, DPA[^60-2], est 
 
 [^63-1]
 
-Quiconque, sans se soustraire au paiement de droits ou impôts dus, sans causer de perte fiscale ou sans obtenir indûment une contribution (subside), occasionne de toute autre manière, par une infraction, un dommage pécuniaire à l’AFD est tenu de la dédommager équitablement, sans préjudice de la poursuite pénale. Le montant des dommages-intérêts est fixé par l’AFD.
+Quiconque, sans se soustraire au paiement de droits ou impôts dus, sans causer de perte fiscale ou sans obtenir indûment une contribution (subside), occasionne de toute autre manière, par une infraction, un dommage pécuniaire à l’OFDF est tenu de le dédommager équitablement, sans préjudice de la poursuite pénale. Le montant des dommages-intérêts est fixé par l’OFDF.
 
 [^63-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1183,7 +1182,7 @@ Quiconque, sans se soustraire au paiement de droits ou impôts dus, sans causer 
 
 <sup>1</sup> Les droits prévus dans la présente loi sont recouvrables dès leur fixation. Les héritiers sont solidairement responsables de leur paiement, même si les droits ne sont pas fixés, jusqu’à concurrence du montant de la succession. Pour les recours, ils se substituent au défunt.
 
-<sup>2</sup> …[^65-1]
+<sup>2</sup> ...[^65-1]
 
 [^65-1]: Abrogé par le ch. 11 de l’annexe au DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
@@ -1199,7 +1198,7 @@ Quiconque, sans se soustraire au paiement de droits ou impôts dus, sans causer 
 
 <sup>2</sup> Les décisions et prononcés des autorités administratives établissant l’existence d’une créance sont assimilés, une fois entrés en force, à des jugements exécutoires dans le sens de l’art. 80 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^66-1].
 
-<sup>3</sup> …[^66-2]
+<sup>3</sup> ...[^66-2]
 
 [^66-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^66-2]: Abrogé par le ch. 11 de l’annexe au DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
@@ -1212,7 +1211,7 @@ Quiconque, sans se soustraire au paiement de droits ou impôts dus, sans causer 
 
 <sup>1</sup>
 
-L’AFD peut demander des sûretés pour l’impôt et les autres créances, même s’ils ne sont pas fixés par une décision entrée en force ou s’ils ne sont pas encore échus:
+L’OFDF peut demander des sûretés pour l’impôt et les autres créances, même s’ils ne sont pas fixés par une décision entrée en force ou s’ils ne sont pas encore échus:
 
 - a. lorsqu’ils ne sont pas garantis par un gage suffisant et réalisable, et
 - b.
@@ -1233,7 +1232,7 @@ L’AFD peut demander des sûretés pour l’impôt et les autres créances, mê
 [^67-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^67-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### IV. …
+### IV. ...
 
 #### Art. 68
 
@@ -1247,15 +1246,15 @@ L’AFD peut demander des sûretés pour l’impôt et les autres créances, mê
 
 <sup>1</sup> Celui qui a payé par erreur ou a été contraint de payer par voie de poursuite des droits qui ne sont pas exigibles en vertu d’une décision valable peut en réclamer le montant, en entier ou en partie, dans le délai d’une année à partir du paiement.
 
-<sup>2</sup> Si, par erreur, un droit dû n’a pas été liquidé ou a été liquidé trop bas, l’AFD peut réclamer le tout ou la différence au redevable dans le délai d’un an dès le moment où ce montant est dû ou dès qu’elle l’a fixé. L’AFD peut aussi réclamer dans le délai d’un an une somme remboursée à tort.
+<sup>2</sup> Si, par erreur, un droit dû n’a pas été liquidé ou a été liquidé trop bas, l’OFDF peut réclamer le tout ou la différence au redevable dans le délai d’un an dès le moment où ce montant est dû ou dès qu’il l’a fixé. L’OFDF peut aussi réclamer dans le délai d’un an une somme remboursée à tort.
 
-<sup>3</sup> L’AFD peut prolonger le délai de paiement ou remettre, totalement ou partiellement, le droit ou l’amende au cas où, en raison de circonstances spéciales, le recouvrement constituerait un acte de rigueur à l’égard du redevable.
+<sup>3</sup> L’OFDF peut prolonger le délai de paiement ou remettre, totalement ou partiellement, le droit ou l’amende au cas où, en raison de circonstances spéciales, le recouvrement constituerait un acte de rigueur à l’égard du redevable.
 
 <sup>4</sup> Elle peut notamment accorder un sursis pour le paiement de l’impôt sur les eaux-de-vie de spécialités, afin de tenir compte des conditions de vente de ces produits.
 
 <sup>5</sup> La remise ou le remboursement d’une charge fiscale au redevable qui a l’obligation selon la loi fédérale sur l’alcool de tenir une comptabilité n’a lieu que s’il apporte la preuve que la marchandise grevée de ladite charge fiscale a disparu.[^69-1]
 
-<sup>6</sup> La remise ou le remboursement d’une charge fiscale au redevable n’a lieu que si la marchandise est détruite sous contrôle de l’AFD dans un délai de cinq ans à partir du moment où ladite charge fiscale est devenue exigible.[^69-2]
+<sup>6</sup> La remise ou le remboursement d’une charge fiscale au redevable n’a lieu que si la marchandise est détruite sous contrôle de l’OFDF dans un délai de cinq ans à partir du moment où ladite charge fiscale est devenue exigible.[^69-2]
 
 [^69-1]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^69-2]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
@@ -1274,7 +1273,7 @@ L’AFD peut demander des sûretés pour l’impôt et les autres créances, mê
 
 <sup>1</sup> Le Conseil fédéral veille à l’exécution de la présente loi. Il édicte toutes les dispositions et instructions nécessaires, en tant que cette attribution n’est pas déléguée à d’autres autorités.
 
-<sup>2</sup> Le Département fédéral des finances lui soumet à cet effet des propositions et exécute les décisions prises.[^70-1] Il surveille la gestion de l’AFD et prend les mesures et décisions qui lui sont réservées par la présente loi.
+<sup>2</sup> Le Département fédéral des finances lui soumet à cet effet des propositions et exécute les décisions prises.[^70-1] Il surveille la gestion de l’OFDF et prend les mesures et décisions qui lui sont réservées par la présente loi.
 
 [^70-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
@@ -1292,11 +1291,11 @@ L’AFD peut demander des sûretés pour l’impôt et les autres créances, mê
 
 <sup>4</sup> La RFA est exonérée de tout impôt fédéral, cantonal et communal, à moins qu’il ne s’agisse d’impôt sur des immeubles n’ayant aucun rapport direct avec l’exploitation.
 
-<sup>5</sup> …[^71-5]
+<sup>5</sup> ...[^71-5]
 
 <sup>6</sup> La RFA crée des offices locaux de surveillance qui contrôlent les distilleries soumises à concession et surveillent la distillerie domestique, prennent livraison ou collaborent à la livraison des boissons distillées, déterminent et perçoivent les impôts sur les eaux-de-vie de spécialités. Le Conseil fédéral délimite les compétences et la responsabilité de ces offices et fixe l’indemnité à laquelle ils ont droit pour l’exercice de leurs fonctions. Ces frais sont à la charge de la RFA.
 
-<sup>7</sup> …[^71-6]
+<sup>7</sup> ...[^71-6]
 
 [^71-1]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 341](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^71-2]: [RS **1** 459; [RO 1958 1483](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 let. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)ch. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 39 al. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. I 1]. Voir actuellement la loi du 24 mars 2000 sur le personnel de la Confédération ([RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
@@ -1311,7 +1310,7 @@ L’AFD peut demander des sûretés pour l’impôt et les autres créances, mê
 
 [^72-1]
 
-L’AFD tient un registre public des détenteurs d’une autorisation au sens des art. 32 et 34.
+L’OFDF tient un registre public des détenteurs d’une autorisation au sens des art. 32 et 34.
 
 [^72-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3493](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1319,14 +1318,14 @@ L’AFD tient un registre public des détenteurs d’une autorisation au sens de
 
 #### Art. 73
 
-<sup>1</sup> Le Conseil fédéral peut déléguer l’exécution de certaines tâches à d’autres services de l’administration fédérale, ainsi qu’aux autorités cantonales et communales. Il fixe les contributions aux frais qui doivent être versées par l’AFD. …[^73-1].[^73-2]
+<sup>1</sup> Le Conseil fédéral peut déléguer l’exécution de certaines tâches à d’autres services de l’administration fédérale, ainsi qu’aux autorités cantonales et communales. Il fixe les contributions aux frais qui doivent être versées par l’OFDF. ...[^73-1].[^73-2]
 
-<sup>2</sup> En outre, les offices de la Confédération, des cantons, des districts, des cercles et des communes doivent, dans les limites de leurs attributions, prêter leur concours à l’AFD. Ils doivent entre autres lui dénoncer toute contravention dont ils auraient officiellement connaissance et l’aider à constater les faits et à poursuivre les coupables.
+<sup>2</sup> En outre, les offices de la Confédération, des cantons, des districts, des cercles et des communes doivent, dans les limites de leurs attributions, prêter leur concours à l’OFDF. Ils doivent entre autres lui dénoncer toute contravention dont ils auraient officiellement connaissance et l’aider à constater les faits et à poursuivre les coupables.
 
 [^73-1]: Phrase abrogée par le ch. II 13 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976))
 [^73-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 1969, en vigueur depuis le 1<sup>er</sup> avr. 1970 ([RO 1970 529](https://fedlex.data.admin.ch/eli/oc/1970/529_529_529); [FF 1969 I 1006](https://fedlex.data.admin.ch/eli/fga/1969/1__1006_)).
 
-### II. …
+### II. ...
 
 #### Art. 74
 
@@ -1346,11 +1345,11 @@ Les fonctionnaires et employés fédéraux, de même que toutes les autres perso
 
 #### Art. 76
 
-<sup>1</sup> Tous les droits et obligations dérivant de la législation sur l’alcool sont régis par les dispositions de la présente loi. …[^76-1]
+<sup>1</sup> Tous les droits et obligations dérivant de la législation sur l’alcool sont régis par les dispositions de la présente loi. ...[^76-1]
 
 <sup>2</sup> Les rapports de droit découlant de l’application de l’art. 18 de la loi fédérale du 23 décembre 1886 concernant les spiritueux et de l’allocation d’indemnités forfaitaires à des distilleries concessionnaires[^76-2] demeurent en vigueur.
 
-<sup>3</sup> L’activité des autorités est réglée par les prescriptions de la présente loi, dès son entrée en vigueur. …[^76-3]
+<sup>3</sup> L’activité des autorités est réglée par les prescriptions de la présente loi, dès son entrée en vigueur. ...[^76-3]
 
 <sup>4</sup> Lors de l’entrée en vigueur de la présente loi, les réserves disponibles de la RFA, dont le montant sera fixé par arrêté fédéral, devront être réparties entre les cantons conformément à l’art. 22 de la loi fédérale du 29 juin 1900 sur l’alcool[^76-4]. Le solde sera converti en un fonds d’exploitation de la RFA.
 
@@ -1373,7 +1372,7 @@ Les fonctionnaires et employés fédéraux, de même que toutes les autres perso
 
 ### I*b.* Dispositions transitoires de la modification du 30 septembre 2016
 
-### 1. …
+### 1. ...
 
 #### Art. 76b
 
@@ -1396,7 +1395,7 @@ Le Conseil fédéral règle les détails et prend les décisions nécessaires po
 - a. il fixe le moment du transfert;
 - b. il indique les biens-fonds et désigne les droits réels limités ainsi que les accords contraignants, d’autres droits, devoirs et valeurs qui, dans le cadre d’un transfert selon l’al. 1, sont apportés dans «alcosuisse sa» conformément aux principes d’évaluation reconnus;
 - c. il adopte le bilan de transfert d’«alcosuisse sa»;
-- d. il approuve, au moment de l’entrée en vigueur de l’art. 76*b*, le dernier compte et le dernier rapport de gestion de la RFA, règle le transfert à la Confédération des droits et devoirs restants ainsi que des contrats correspondants et adapte le compte d’Etat de la Confédération;
+- d. il approuve, au moment de l’entrée en vigueur de l’art. 76*b*, le dernier compte et le dernier rapport de gestion de la RFA, règle le transfert à la Confédération des droits et devoirs restants ainsi que des contrats correspondants et adapte le compte d’État de la Confédération;
 - e. il peut transférer directement à des tiers les valeurs patrimoniales qui n’ont pas été transférées dans «alcosuisse sa».
 
 <sup>3</sup> Les dispositions de la loi du 3 octobre 2003 sur la fusion[^76c-2] ne s’appliquent pas au transfert selon l’al. 1. Les rapports de droit privé concernés ne sont ainsi pas modifiés par le transfert.
@@ -1445,7 +1444,7 @@ Le Conseil fédéral est habilité à reprendre, sur la fortune de la RFA, le fi
 
 [^76f-1]
 
-<sup>1</sup> Les détenteurs d’une licence d’utilisation d’éthanol non imposé selon l’ancien droit doivent requérir une nouvelle autorisation d’utilisation auprès de l’AFD au plus tard trois mois après l’entrée en vigueur de la modification du 30 septembre 2016.
+<sup>1</sup> Les détenteurs d’une licence d’utilisation d’éthanol non imposé selon l’ancien droit doivent requérir une nouvelle autorisation d’utilisation auprès de l’OFDF au plus tard trois mois après l’entrée en vigueur de la modification du 30 septembre 2016.
 
 <sup>2</sup> Les détenteurs d’une licence sont inscrits au registre de l’éthanol selon l’art. 72 dès que l’autorisation leur a été octroyée.
 

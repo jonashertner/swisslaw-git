@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 1932 sulle bevande distillate (Legge sull'a
 short: LAlc
 eli: "https://fedlex.data.admin.ch/eli/cc/48/425_437_457"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1932-06-21
 in_force: 1933-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20190101/it/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20220101/it/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20220101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20190101/it"
 
 (Legge sull’alcool, LAlc)**[^t-1]**
 
-del 21 giugno 1932 (Stato 1° gennaio 2019)
+del 21 giugno 1932 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -77,11 +77,11 @@ La fabbricazione, la rettificazione, l’importazione, l’esportazione, il tran
 
 #### Art. 4
 
-<sup>1</sup> Per la fabbricazione e per la rettificazione delle bevande distillate, la Confederazione accorda concessioni che prevedono il diritto di presa in consegna da parte dell’Amministrazione federale delle dogane (AFD)[^4-1] nonché, per la fabbricazione delle specialità e per la distillazione per conto di terzi, concessioni che non prevedono questo diritto.[^4-2]
+<sup>1</sup> Per la fabbricazione e per la rettificazione delle bevande distillate, la Confederazione accorda concessioni che prevedono il diritto di presa in consegna da parte dell’Ufficio federale della dogana e della sicurezza dei confini (UDSC) nonché, per la fabbricazione delle specialità e per la distillazione per conto di terzi, concessioni che non prevedono questo diritto.[^4-1]
 
 <sup>2</sup>
 
-Le concessioni che prevedono un diritto di presa in consegna sono accordate:[^4-3]
+Le concessioni che prevedono un diritto di presa in consegna sono accordate:[^4-2]
 
 - a. alle distillerie di patate, di barbabietole ed altre materie analoghe, cioè alle distillerie stabili che adoperano patate indigene o i residui della fabbricazione dello zucchero di barbabietole indigene;
 - b. alle distillerie di frutta a granelli, cioè alle distillerie stabili od ambulanti che adoperano, per loro proprio conto, materie prime indigene, come mele e pere, loro sidri, cascami ed altri residui di queste materie;
@@ -91,17 +91,16 @@ Le concessioni che prevedono un diritto di presa in consegna sono accordate:[^4-
 
 <sup>3</sup>
 
-Le concessioni che non prevedono un diritto di presa in consegna sono accordate:[^4-4]
+Le concessioni che non prevedono un diritto di presa in consegna sono accordate:[^4-3]
 
 - a. alle distillerie di specialità, cioè alle distillerie stabili o ambulanti che adoperano frutta a nocciolo; frutta a granelli, che non siano mele e pere o loro prodotti, cascami e residui; vino, cascami e residui della produzione del vino; radici di genziana; bacche o altre materie analoghe;
 - b. alle distillerie per conto di terzi, cioè alle distillerie stabili o ambulanti che adoperano, per conto di committenti e verso rimunerazione, le materie prime designate nell’articolo 3 capoverso 3.
 
 <sup>4</sup> Il Consiglio federale fissa le condizioni alle quali un’azienda può ottenere nello stesso tempo diverse concessioni.
 
-[^4-1]: Nuova espr. giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^4-1]: Nuovo testo giusta il n. I 25 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^4-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^4-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^4-4]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
 ### 2. Rilascio delle concessioni
 
@@ -117,21 +116,21 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 <sup>4</sup> La concessione non può durare più di dieci anni. Essa non può essere accordata che se tanto la persona del concessionario quanto la costruzione e gl’impianti tecnici assicurano un esercizio razionale dell’azienda. Il Consiglio federale emana le norme a ciò occorrenti. Può, fra altro, dichiarare incompatibile l’esercizio d’una distilleria e l’esercizio simultaneo di un’altra professione che ostacolasse la vigilanza della distilleria o del commercio delle bevande distillate.
 
-<sup>5</sup> Il trasferimento di una concessione a un’altra persona o a un’altra distilleria è subordinato all’autorizzazione dell’AFD[^5-1]. Quest’autorizzazione dev’essere data se la distilleria è trasferita in via ereditaria e l’erede adempie le condizioni prescritte.
+<sup>5</sup> Il trasferimento di una concessione a un’altra persona o a un’altra distilleria è subordinato all’autorizzazione dell’UDSC[^5-1]. Quest’autorizzazione dev’essere data se la distilleria è trasferita in via ereditaria e l’erede adempie le condizioni prescritte.
 
-[^5-1]: Nuova espr. giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^5-1]: Nuova espr. giusta il n. I 25 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### b. Modo di procedere
 
 #### Art. 6
 
-<sup>1</sup> Le concessioni sono accordate o rinnovate dall’AFD, a domanda e senza spese.
+<sup>1</sup> Le concessioni sono accordate o rinnovate dall’UDSC, a domanda e senza spese.
 
 <sup>2</sup> Tanto del rilascio quanto del rinnovo è steso atto.
 
-<sup>3</sup> In caso d’inosservanza delle condizioni della concessione o di cessazione di uno dei motivi che ne hanno determinato il rilascio o il rinnovo, l’AFD può, dopo aver sentito l’interessato, ritirare la concessione prima della sua scadenza.
+<sup>3</sup> In caso d’inosservanza delle condizioni della concessione o di cessazione di uno dei motivi che ne hanno determinato il rilascio o il rinnovo, l’UDSC può, dopo aver sentito l’interessato, ritirare la concessione prima della sua scadenza.
 
-<sup>4</sup> …[^6-1]
+<sup>4</sup> ...[^6-1]
 
 [^6-1]: Abrogato dal n. II cpv. 1 n. 8 della LF del 20 dic. 1968 che modifica quella sull’OG, con effetto dal 1° ott. 1969 ([RU 1969 755](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755); [FF 1965 II 901](https://fedlex.data.admin.ch/eli/fga/1965/2_1348_1383_901)).
 
@@ -139,13 +138,13 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 #### Art. 7
 
-<sup>1</sup> Le distillerie date in concessione sono poste sotto il controllo dell’AFD. Questa può valersi della collaborazione delle autorità cantonali e comunali.[^7-1]
+<sup>1</sup> Le distillerie date in concessione sono poste sotto il controllo dell’UDSC. Questo può valersi della collaborazione delle autorità cantonali e comunali.[^7-1]
 
 <sup>2</sup> Il concessionario deve tenere un controllo indicante la provenienza delle materie prime, le sorta e quantità di bevande distillate ottenute e l’uso di esse. È inoltre obbligato a consentire in ogni tempo il libero accesso nei locali d’esercizio agli agenti incaricati dell’applicazione della presente legge, e ad autorizzarli ad esaminare la sua contabilità e a fornir loro ogni schiarimento necessario.
 
-<sup>3</sup> Per l’acquisto, l’impianto, il trasporto da un luogo all’altro, la sostituzione o la trasformazione d’apparecchi ed accessori della distillazione occorre l’autorizzazione dell’AFD.[^7-2]
+<sup>3</sup> Per l’acquisto, l’impianto, il trasporto da un luogo all’altro, la sostituzione o la trasformazione d’apparecchi ed accessori della distillazione occorre l’autorizzazione dell’UDSC.[^7-2]
 
-<sup>4</sup> Il Consiglio federale è autorizzato a sottoporre al controllo dell’AFD anche gli impianti che possono servire alla produzione di bevande distillate e non sono oggetto di una concessione. Il capoverso 3 può essere dichiarato applicabile a questi impianti.[^7-3]
+<sup>4</sup> Il Consiglio federale è autorizzato a sottoporre al controllo dell’UDSC anche gli impianti che possono servire alla produzione di bevande distillate e non sono oggetto di una concessione. Il capoverso 3 può essere dichiarato applicabile a questi impianti.[^7-3]
 
 [^7-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^7-2]: Nuovo testo giusta l’art. 1 della LF del 25 ott. 1949, in vigore dal 1° mar. 1950 (RU **1950** I 72; [FF 1949 I 869](https://fedlex.data.admin.ch/eli/fga/1949/1___869)).
@@ -181,13 +180,13 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 [^10-1]
 
-<sup>1</sup> L’AFD fissa annualmente la quantità di bevande distillate che essa prende in consegna per coprire il suo fabbisogno.
+<sup>1</sup> L’UDSC fissa annualmente la quantità di bevande distillate che essa prende in consegna per coprire il suo fabbisogno.
 
 <sup>2</sup> Essa può inoltre prendere in consegna dell’acquavite allo scopo di assorbire le eccedenze del mercato.
 
 <sup>3</sup> Prima del raccolto, essa comunica alle distillerie titolari di una concessione che prevede il diritto di presa in consegna la quantità che prenderà in consegna ed il relativo prezzo. Le distillerie possono fare le loro offerte fondandosi su questi dati. Se le offerte superano la quantità che sarà presa in consegna, la quota attribuita alle singole distillerie è ridotta proporzionalmente.
 
-<sup>4</sup> Il Consiglio federale disciplina i requisiti che devono essere adempiti dalle bevande distillate prese in consegna dall’AFD come pure le modalità della presa in consegna.
+<sup>4</sup> Il Consiglio federale disciplina i requisiti che devono essere adempiti dalle bevande distillate prese in consegna dall’UDSC come pure le modalità della presa in consegna.
 
 <sup>5</sup> Le bevande distillate fabbricate con materie prime a base di frutta a granelli sono assoggettate all’imposta conformemente agli articoli 20 a 23.
 
@@ -201,15 +200,15 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 #### Art. 11
 
-<sup>1</sup> I prezzi delle bevande distillate assunte dall’AFD sono fissati dal Consiglio federale.
+<sup>1</sup> I prezzi delle bevande distillate assunte dall’UDSC sono fissati dal Consiglio federale.
 
-<sup>2</sup> I prezzi delle bevande distillate che l’AFD prende in consegna per coprire il suo fabbisogno sono fissati tenendo conto dell’utilizzazione delle eccedenze e dei cascami delle materie prime come pure del prezzo di costo di una produzione razionale. L’acquavite fabbricata mediante alambicco può avere un prezzo diverso da quella ottenuta nelle distillerie a colonna.[^11-1]
+<sup>2</sup> I prezzi delle bevande distillate che l’UDSC prende in consegna per coprire il suo fabbisogno sono fissati tenendo conto dell’utilizzazione delle eccedenze e dei cascami delle materie prime come pure del prezzo di costo di una produzione razionale. L’acquavite fabbricata mediante alambicco può avere un prezzo diverso da quella ottenuta nelle distillerie a colonna.[^11-1]
 
-<sup>3</sup> I prezzi delle bevande distillate che l’AFD prende in consegna per assorbire le eccedenze del mercato sono fissati secondo le quantità. Essi devono essere inferiori a quelli fissati secondo il capoverso 2.[^11-2]
+<sup>3</sup> I prezzi delle bevande distillate che l’UDSC prende in consegna per assorbire le eccedenze del mercato sono fissati secondo le quantità. Essi devono essere inferiori a quelli fissati secondo il capoverso 2.[^11-2]
 
-<sup>4</sup> e <sup>5</sup> …[^11-3]
+<sup>4</sup> e <sup>5</sup> ...[^11-3]
 
-<sup>6</sup> Il prezzo pagato alle distillerie industriali e alle fabbriche d’alcool deve, di regola, corrispondere al prezzo medio di costo dell’etanolo della stessa qualità importato dall’AFD. Per fissare questo prezzo, si potrà tenere equamente conto delle spese effettive di produzione, comprendendo l’interesse e l’ammortamento del capitale investito.[^11-4]
+<sup>6</sup> Il prezzo pagato alle distillerie industriali e alle fabbriche d’alcool deve, di regola, corrispondere al prezzo medio di costo dell’etanolo della stessa qualità importato dall’UDSC. Per fissare questo prezzo, si potrà tenere equamente conto delle spese effettive di produzione, comprendendo l’interesse e l’ammortamento del capitale investito.[^11-4]
 
 <sup>7</sup> Gli stabilimenti di rettificazione riceveranno un’indennità per le loro spese.
 
@@ -232,13 +231,13 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 <sup>1</sup> Il diritto di distillare specialità non è limitato né quanto alla quantità della produzione, né quanto alla provenienza delle materie prime.
 
-<sup>2</sup> L’AFD non prende in consegna i prodotti delle distillerie di specialità.[^12-1]
+<sup>2</sup> L’UDSC non prende in consegna i prodotti delle distillerie di specialità.[^12-1]
 
 <sup>3</sup> Le specialità ricavate da materie prime indigene sono tassate in conformità degli articoli 20 a 23.
 
-<sup>4</sup> …[^12-2]
+<sup>4</sup> ...[^12-2]
 
-<sup>5</sup> …[^12-3]
+<sup>5</sup> ...[^12-3]
 
 [^12-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^12-2]: Abrogato dal n. I della LF del 4 ott. 1996, con effetto dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
@@ -254,7 +253,7 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 <sup>3</sup> L’acquavite in tal modo ottenuta deve essere consegnata al committente.[^13-1]
 
-<sup>4</sup> …[^13-2]
+<sup>4</sup> ...[^13-2]
 
 [^13-1]: Nuovo testo giusta l’art. 1 della LF del 25 ott. 1949, in vigore dal 1° mar. 1950 (RU **1950** I 72; [FF 1949 I 869](https://fedlex.data.admin.ch/eli/fga/1949/1___869)).
 [^13-2]: Abrogato dall’art. 1 della LF del 25 ott. 1949, con effetto dal 1° mar. 1950 (RU **1950** I 72; [FF 1949 I 869](https://fedlex.data.admin.ch/eli/fga/1949/1___869)).
@@ -267,17 +266,17 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 <sup>1</sup> La produzione non industriale di acquavite di frutta e cascami di frutta, di sidro, succo fermentato, di uva, di vino, di vinacce d’uva, di feccia di vino, di radici di genziana, di bacche o di altre materie analoghe indigene, provenienti esclusivamente dalla raccolta indigena del produttore o raccolte, a sua cura, allo stato selvatico nel Paese, è autorizzata soltanto nelle distillerie domestiche concessionate.[^14-1]
 
-<sup>2</sup> L’esercente d’una distilleria domestica, il cui raccolto sia stato decimato dalla grandine o da altre intemperie, può ottenere dall’AFD, per la durata di un anno, la concessione di distillare prodotti propri e materie prime fornite da terzi, senza perdere con ciò il diritto al fabbisogno esente da imposta, previsto nell’articolo 16.
+<sup>2</sup> L’esercente d’una distilleria domestica, il cui raccolto sia stato decimato dalla grandine o da altre intemperie, può ottenere dall’UDSC, per la durata di un anno, la concessione di distillare prodotti propri e materie prime fornite da terzi, senza perdere con ciò il diritto al fabbisogno esente da imposta, previsto nell’articolo 16.
 
-<sup>3</sup> …[^14-2]
+<sup>3</sup> ...[^14-2]
 
-<sup>4</sup> …[^14-3]
+<sup>4</sup> ...[^14-3]
 
 <sup>5</sup> Gli apparecchi e gli accessori suddetti non possono, di regola, essere trasferiti a terzi se non unitamente all’azienda agricola alla quale appartengono (dominio della distilleria). Se questo dominio viene ad essere frazionato, la distilleria non può più essere esercitata che sulla parcella sulla quale si trovava prima del frazionamento.
 
-<sup>6</sup> Senza l’autorizzazione dell’AFD, gli apparecchi per distillare o i loro accessori non possono essere né sostituiti né trasformati a scopo di aumentarne la capacità di produzione, né trasferiti a terzi, se questo trasferimento non è in relazione con quello del dominio della distilleria. Nell’autorizzazione può essere prescritto il modo in cui la sostituzione o la trasformazione deve essere fatta.
+<sup>6</sup> Senza l’autorizzazione dell’UDSC, gli apparecchi per distillare o i loro accessori non possono essere né sostituiti né trasformati a scopo di aumentarne la capacità di produzione, né trasferiti a terzi, se questo trasferimento non è in relazione con quello del dominio della distilleria. Nell’autorizzazione può essere prescritto il modo in cui la sostituzione o la trasformazione deve essere fatta.
 
-<sup>7</sup> …[^14-4]
+<sup>7</sup> ...[^14-4]
 
 [^14-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^14-2]: Abrogato dall’art. 12 cpv. 3 della LF del 23 giu. 1944 su la concessione delle distillerie domestiche, con effetto dal 6 apr. 1945 (CS **6** 946).
@@ -290,9 +289,9 @@ Le concessioni che non prevedono un diritto di presa in consegna sono accordate:
 
 [^15-1]
 
-<sup>1</sup> La distilleria domestica è posta sotto la vigilanza dell’AFD. Questa può valersi della collaborazione delle autorità cantonali e comunali.
+<sup>1</sup> La distilleria domestica è posta sotto la vigilanza dell’UDSC. Questo può valersi della collaborazione delle autorità cantonali e comunali.
 
-<sup>2</sup> Il distillatore non può fare alcuna trasformazione senza aver fornito all’AFD tutte le indicazioni prescritte.
+<sup>2</sup> Il distillatore non può fare alcuna trasformazione senza aver fornito all’UDSC tutte le indicazioni prescritte.
 
 [^15-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -310,7 +309,7 @@ Per il fabbisogno della propria economia domestica e della propria azienda agric
 
 [^17-1]
 
-<sup>1</sup> L’AFD può prendere in consegna l’acquavite di frutta a granelli non necessaria all’economia domestica ed all’azienda agricola del distillatore domestico. Gli articoli 10 e 11 sono applicabili per analogia.
+<sup>1</sup> L’UDSC può prendere in consegna l’acquavite di frutta a granelli non necessaria all’economia domestica ed all’azienda agricola del distillatore domestico. Gli articoli 10 e 11 sono applicabili per analogia.
 
 <sup>2</sup> L’acquavite di frutta a granelli ceduta a terzi gratuitamente o contro rimunerazione è assoggettata all’imposizione conformemente agli articoli 20 a 23.
 
@@ -322,7 +321,7 @@ Per il fabbisogno della propria economia domestica e della propria azienda agric
 
 [^18-1]
 
-<sup>1</sup> L’AFD non prende in consegna l’acquavite di specialità prodotta dai distillatori domestici.
+<sup>1</sup> L’UDSC non prende in consegna l’acquavite di specialità prodotta dai distillatori domestici.
 
 <sup>2</sup> Le acquaviti di specialità cedute a terzi gratuitamente o contro rimunerazione sono assoggettate all’imposizione conformemente agli articoli 20 a 23.
 
@@ -338,13 +337,13 @@ Per il fabbisogno della propria economia domestica e della propria azienda agric
 
 <sup>2</sup> I produttori che fanno distillare materie indigene provenienti esclusivamente dai loro poderi o raccolte, a loro cura, allo stato selvatico, sono riconosciuti committenti-esercenti di distillerie domestiche, se soddisfano alle condizioni fissate dal Consiglio federale conformemente all’articolo 3 capoverso 5 per la produzione non industriale di bevande distillate. Il Consiglio federale può tuttavia sottoporre il riconoscimento dei committenti-esercenti di distillerie domestiche a limitazioni, in quanto queste siano necessarie per evitare abusi.
 
-<sup>3</sup> Quando circostanze speciali impediscono l’utilizzazione di una distilleria che lavora per conto di terzi, l’AFD può autorizzare il proprietario di una distilleria domestica a eseguire la distillazione per conto di un committente-esercente di distilleria domestica o a dargli in locazione il suo impianto.
+<sup>3</sup> Quando circostanze speciali impediscono l’utilizzazione di una distilleria che lavora per conto di terzi, l’UDSC può autorizzare il proprietario di una distilleria domestica a eseguire la distillazione per conto di un committente-esercente di distilleria domestica o a dargli in locazione il suo impianto.
 
 <sup>4</sup> Le prescrizioni concernenti la sorveglianza degli esercenti di distillerie domestiche, l’utilizzazione e l’imposizione dell’acquavite sono applicabili anche ai committenti-esercenti di distillerie domestiche.
 
 <sup>5</sup> I committenti che non adempiono le condizioni del capoverso 2 sono sottoposti alle prescrizioni concernenti i distillatori professionali per l’autorizzazione di distillare, il controllo, l’utilizzazione e l’imposizione dell’acquavite prodotta. Il controllo può essere semplificato per i committenti che producono acquavite in piccole quantità.
 
-<sup>6</sup> Se un committente è stato punito per contravvenzione grave alla legge sull’alcool o per recidiva nella contravvenzione, oppure è dedito al bere, l’AFD può vietargli di dare ordini di distillare conformemente al capoverso 5. Il Consiglio federale può inoltre dichiarare il diritto di far distillare incompatibile con l’esercizio di determinate professioni, se esso ha per effetto d’intralciare il controllo delle materie prime, della produzione e della utilizzazione dell’acquavite.
+<sup>6</sup> Se un committente è stato punito per contravvenzione grave alla legge sull’alcool o per recidiva nella contravvenzione, oppure è dedito al bere, l’UDSC può vietargli di dare ordini di distillare conformemente al capoverso 5. Il Consiglio federale può inoltre dichiarare il diritto di far distillare incompatibile con l’esercizio di determinate professioni, se esso ha per effetto d’intralciare il controllo delle materie prime, della produzione e della utilizzazione dell’acquavite.
 
 [^19-1]: Nuovo testo giusta l’art. 1 della LF del 25 ott. 1949, in vigore dal 1° mar. 1950 (RU **1950** I 72; [FF 1949 I 869](https://fedlex.data.admin.ch/eli/fga/1949/1___869)).
 
@@ -363,7 +362,7 @@ Quest’imposta è dovuta:
 - a. dall’esercente della distilleria data in concessione, secondo l’articolo 12;
 - b. dall’esercente della distilleria domestica, secondo l’articolo 18 capoverso 2, o dal committente, secondo l’articolo 19.
 
-<sup>3</sup> …[^20-1]
+<sup>3</sup> ...[^20-1]
 
 [^20-1]: Introdotto dal n. I della LF del 4 ott. 1996 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)). Abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -397,7 +396,7 @@ Quest’imposta è dovuta:
 
 #### Art. 23
 
-<sup>1</sup> L’AFD può prescrivere la forma della notifica della quantità di alcool prodotta o uscita dai depositi fiscali e può in particolare ordinare che si ricorra all’elaborazione elettronica dei dati, previo esame del sistema informatico utilizzato.[^23-1]
+<sup>1</sup> L’UDSC può prescrivere la forma della notifica della quantità di alcool prodotta o uscita dai depositi fiscali e può in particolare ordinare che si ricorra all’elaborazione elettronica dei dati, previo esame del sistema informatico utilizzato.[^23-1]
 
 <sup>1bis</sup> Il Consiglio federale disciplina la procedura di tassazione.[^23-2]
 
@@ -405,7 +404,7 @@ Quest’imposta è dovuta:
 
 <sup>3</sup> Gli agenti di controllo competenti possono eseguire controlli in ogni momento e senza preavviso. A tal fine, il titolare di una distilleria deve accordare agli agenti di controllo il libero accesso ai locali di vendita e ai magazzini, fornire loro ogni informazione necessaria, mostrare loro le scorte e permettere loro di ispezionare i libri di commercio e i documenti giustificativi.[^23-3]
 
-<sup>4</sup> L’AFD fissa la data alla quale l’imposta è esigibile.
+<sup>4</sup> L’UDSC fissa la data alla quale l’imposta è esigibile.
 
 [^23-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^23-2]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -442,7 +441,7 @@ L’imposta è ridotta del 50 per cento per:
 [^23bis-3]: Nuovo testo giusta il n. 1 dell’all. alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^23bis-4]: Introdotto dal n. I della LF del 3 ott. 2003, in vigore dal 1° feb. 2004 ([RU 2004 455](https://fedlex.data.admin.ch/eli/oc/2004/34); [FF 2003 1950](https://fedlex.data.admin.ch/eli/fga/2003/271)).
 
-### VI. …
+### VI. ...
 
 #### Art. 24
 
@@ -456,7 +455,7 @@ L’imposta è ridotta del 50 per cento per:
 
 [^25-1]
 
-L’AFD può ordinare che gli apparecchi per distillare non aventi più diritto ad una concessione siano modificati in modo da escluderne un’utilizzazione abusiva.
+L’UDSC può ordinare che gli apparecchi per distillare non aventi più diritto ad una concessione siano modificati in modo da escluderne un’utilizzazione abusiva.
 
 [^25-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
@@ -500,7 +499,7 @@ I generi alimentari contenenti alcool sono imposti all’aliquota del prodotto a
 
 [^29-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### c. …
+### c. ...
 
 #### Art. 30
 
@@ -523,7 +522,7 @@ Il Consiglio federale stabilisce:
 - a. in quali casi occorre effettuare una denaturazione;
 - b. le persone abilitate a effettuare la denaturazione.
 
-<sup>3</sup> L’AFD disciplina la denaturazione.
+<sup>3</sup> L’UDSC disciplina la denaturazione.
 
 [^31-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -533,9 +532,9 @@ Il Consiglio federale stabilisce:
 
 [^32-1]
 
-<sup>1</sup> Chiunque vuole impiegare etanolo non tassato e non denaturato per la fabbricazione di prodotti impropri al consumo come bevande o generi voluttuari oppure in processi commerciali non finalizzati alla produzione di bevande o generi voluttuari deve ottenere un’autorizzazione d’impiego dall’AFD.
+<sup>1</sup> Chiunque vuole impiegare etanolo non tassato e non denaturato per la fabbricazione di prodotti impropri al consumo come bevande o generi voluttuari oppure in processi commerciali non finalizzati alla produzione di bevande o generi voluttuari deve ottenere un’autorizzazione d’impiego dall’UDSC.
 
-<sup>2</sup> Il Consiglio federale definisce le condizioni per il rilascio dell’autorizzazione d’impiego. L’AFD stabilisce nell’autorizzazione i vincoli per i prodotti e i processi di cui al capoverso 1.
+<sup>2</sup> Il Consiglio federale definisce le condizioni per il rilascio dell’autorizzazione d’impiego. L’UDSC stabilisce nell’autorizzazione i vincoli per i prodotti e i processi di cui al capoverso 1.
 
 <sup>3</sup>
 
@@ -566,7 +565,7 @@ Il titolare dell’autorizzazione d’impiego può:
 
 [^34-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### III. …
+### III. ...
 
 ### 4. Controllo
 
@@ -574,7 +573,7 @@ Il titolare dell’autorizzazione d’impiego può:
 
 [^35-1]
 
-<sup>1</sup> L’AFD sorveglia l’impiego delle bevande distillate.
+<sup>1</sup> L’UDSC sorveglia l’impiego delle bevande distillate.
 
 <sup>2</sup> Gli agenti di controllo competenti possono eseguire controlli in ogni momento e senza preavviso. A tal fine, il titolare di una distilleria deve accordare agli agenti di controllo il libero accesso ai locali di vendita e ai magazzini, fornire loro ogni informazione necessaria, mostrare loro le scorte e permettere loro di ispezionare i libri di commercio e i documenti giustificativi.
 
@@ -588,7 +587,7 @@ Il titolare dell’autorizzazione d’impiego può:
 
 <sup>2</sup> L’aliquota del rimborso è calcolata sulla base delle tasse fiscali previste nella presente legge e gravanti i prodotti esportati. Se non è possibile determinare l’importo esatto di queste tasse, il rimborso si farà secondo l’aliquota più bassa.
 
-<sup>3</sup> Il rimborso è eseguito alla fine dell’esercizio annuo. Nel corso di esso, l’AFD può versare acconti.
+<sup>3</sup> Il rimborso è eseguito alla fine dell’esercizio annuo. Nel corso di esso, l’UDSC può versare acconti.
 
 <sup>4</sup> Nessun rimborso sarà eseguito sulle esportazioni di quantità inferiori a cinque chilogrammi lordi.
 
@@ -598,7 +597,7 @@ Il titolare dell’autorizzazione d’impiego può:
 [^36-2]: Per. introdotto dal n. I 4 della LF del 17 dic. 2010 sull’acquisto di merci nei negozi in zona franca di tasse degli aeroporti, in vigore dal 1° giu. 2011 ([RU 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [FF 2010 1921](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^36-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° lug. 1999 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379)[1999 1730](https://fedlex.data.admin.ch/eli/oc/1999/275); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
-## Capo quarto: …
+## Capo quarto: ...
 
 #### Art. 37
 
@@ -634,7 +633,7 @@ Il titolare dell’autorizzazione d’impiego può:
 
 [^39-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1980, in vigore dal 1° gen. 1983 ([RU 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
-### II. …
+### II. ...
 
 #### Art. 39a
 
@@ -642,21 +641,21 @@ Il titolare dell’autorizzazione d’impiego può:
 
 [^39a-1]: Introdotto dal n. I della LF del 19 dic. 1980 ([RU 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)). Abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### III. …
+### III. ...
 
 #### Art. 40
 
 [^40-1]
 
-<sup>1</sup> …[^40-2]
+<sup>1</sup> ...[^40-2]
 
-<sup>2</sup> …[^40-3]
+<sup>2</sup> ...[^40-3]
 
-<sup>3</sup> …[^40-4]
+<sup>3</sup> ...[^40-4]
 
-<sup>3bis</sup> …[^40-5]
+<sup>3bis</sup> ...[^40-5]
 
-<sup>4</sup> e <sup>5</sup> …[^40-6]
+<sup>4</sup> e <sup>5</sup> ...[^40-6]
 
 [^40-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1980, in vigore dal 1° gen. 1983 ([RU 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 [^40-2]: Abrogato dal n. I della LF del 30 set. 2016, con effetto dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -716,7 +715,7 @@ L’autorità competente può tuttavia autorizzare deroghe per:
 
 <sup>3</sup> Possono essere ammessi a esercitare il commercio al minuto delle bevande distillate i produttori d’acquavite, gli esercizi pubblici, compresi i servizi di ristorazione negli aeromobili, sui treni e sui battelli, le aziende del commercio dei vini e dei liquori, gli spacci franchi, le farmacie e le drogherie come pure i negozi che offrono un vasto assortimento di derrate alimentari, bevande analcoliche comprese.
 
-<sup>4</sup> …[^41a-2]
+<sup>4</sup> ...[^41a-2]
 
 <sup>5</sup> È riservata la competenza dei Cantoni di sottoporre il commercio al minuto a restrizioni supplementari richieste dal bene pubblico.
 
@@ -774,7 +773,7 @@ La pubblicità per le bevande distillate è vietata:
 
 [^43-1]
 
-L’AFD promuove il coordinamento fra i Cantoni nel disciplinamento del commercio al minuto.
+L’UDSC promuove il coordinamento fra i Cantoni nel disciplinamento del commercio al minuto.
 
 [^43-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1980, in vigore dal 1° gen. 1983 ([RU 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [FF 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
@@ -790,7 +789,7 @@ L’AFD promuove il coordinamento fra i Cantoni nel disciplinamento del commerci
 
 <sup>1</sup> Per diminuire il consumo di bevande distillate, la Confederazione sostiene, con sussidi, le organizzazioni e istituzioni, nazionali e intercantonali, che lottano mediante provvedimenti preventivi contro l’alcolismo. Detti sussidi possono essere concessi segnatamente per l’informazione e la ricerca.
 
-<sup>2</sup> I sussidi sono pagati dall’AFD; per tale scopo va registrata una somma globale adeguata nel suo bilancio di previsione. L’AFD può incaricare un organo competente di distribuire, parzialmente o totalmente, i sussidi.
+<sup>2</sup> I sussidi sono pagati dall’UDSC; per tale scopo va registrata una somma globale adeguata nel suo bilancio di previsione. L’UDSC può incaricare un organo competente di distribuire, parzialmente o totalmente, i sussidi.
 
 <sup>3</sup> È riservata l’assegnazione di sussidi cantonali, in virtù della decima dell’alcole, per combattere l’alcolismo.
 
@@ -857,7 +856,7 @@ La Confederazione ha un diritto di pegno legale su tutti i prodotti assoggettati
 
 [^47-1]
 
-<sup>1</sup> L’AFD fa valere il pegno fiscale sequestrando la merce.
+<sup>1</sup> L’UDSC fa valere il pegno fiscale sequestrando la merce.
 
 <sup>2</sup>
 
@@ -887,7 +886,7 @@ Un pegno fiscale può essere realizzato quando:
 
 <sup>3</sup>
 
-L’AFD può realizzare il pegno a trattative private soltanto previo consenso del proprietario, a meno che:
+L’UDSC può realizzare il pegno a trattative private soltanto previo consenso del proprietario, a meno che:
 
 - a. il pegno non abbia potuto essere realizzato mediante incanto pubblico; o
 - b. il valore del pegno ammonti al massimo a 1000 franchi e il proprietario del pegno sia sconosciuto.
@@ -898,8 +897,8 @@ L’AFD può realizzare il pegno a trattative private soltanto previo consenso d
 
 Il Consiglio federale stabilisce:
 
-- a. le ulteriori condizioni alle quali l’AFD può realizzare il pegno a trattative private;
-- b. i casi nei quali l’AFD può rinunciare alla realizzazione del pegno.
+- a. le ulteriori condizioni alle quali l’UDSC può realizzare il pegno a trattative private;
+- b. i casi nei quali l’UDSC può rinunciare alla realizzazione del pegno.
 
 [^48-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1013,7 +1012,7 @@ Le decisioni emanate in virtù dell’articolo 42*b* possono essere impugnate en
 [^54-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^54-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-### III. …
+### III. ...
 
 #### Art. 55
 
@@ -1076,7 +1075,7 @@ Chiunque acquista, riceve in dono, in pegno o comunque in consegna, occulta, aiu
 
 [^58a-1]
 
-È punito con la multa fino a 100 000 franchi chiunque, lasciato in possesso di bevande spiritose o di etanolo sequestrati dall’AFD a titolo di pegno fiscale, li distrugge o ne dispone senza il consenso dell’autorità. Se l’autore ha agito per negligenza, la pena è della multa fino a 30 000 franchi.
+È punito con la multa fino a 100 000 franchi chiunque, lasciato in possesso di bevande spiritose o di etanolo sequestrati dall’UDSC a titolo di pegno fiscale, li distrugge o ne dispone senza il consenso dell’autorità. Se l’autore ha agito per negligenza, la pena è della multa fino a 30 000 franchi.
 
 [^58a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1090,7 +1089,7 @@ Chiunque acquista, riceve in dono, in pegno o comunque in consegna, occulta, aiu
 
 <sup>1</sup> La DPA[^59-2] è applicabile in quanto gli articoli 59*a*–63 non vi deroghino.
 
-<sup>2</sup> Riservato l’articolo 57 capoverso 5, l’AFD è l’autorità amministrativa incaricata del perseguimento e del giudizio.
+<sup>2</sup> Riservato l’articolo 57 capoverso 5, l’UDSC è l’autorità amministrativa incaricata del perseguimento e del giudizio.
 
 [^59-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^59-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1101,7 +1100,7 @@ Chiunque acquista, riceve in dono, in pegno o comunque in consegna, occulta, aiu
 
 [^59a-1]
 
-Se la multa applicabile non supera i 50 000 franchi e se le persone punibili secondo l’articolo 6 DPA[^59a-2] non possono essere determinate o possono esserlo soltanto con provvedimenti d’inchiesta sproporzionati, l’AFD può prescindere dal procedere contro dette persone e, in loro vece, condannare l’azienda al pagamento della multa.
+Se la multa applicabile non supera i 50 000 franchi e se le persone punibili secondo l’articolo 6 DPA[^59a-2] non possono essere determinate o possono esserlo soltanto con provvedimenti d’inchiesta sproporzionati, l’UDSC può prescindere dal procedere contro dette persone e, in loro vece, condannare l’azienda al pagamento della multa.
 
 [^59a-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^59a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1112,7 +1111,7 @@ Se la multa applicabile non supera i 50 000 franchi e se le persone punibili sec
 
 [^59b-1]
 
-Se un atto costituisce contemporaneamente un’infrazione secondo la presente legge o secondo un’altra legge e tali infrazioni sono tutte perseguite e giudicate dall’AFD, si applica la pena prevista per l’infrazione più grave; tale pena può essere adeguatamente aumentata.
+Se un atto costituisce contemporaneamente un’infrazione secondo la presente legge o secondo un’altra legge e tali infrazioni sono tutte perseguite e giudicate dall’UDSC, si applica la pena prevista per l’infrazione più grave; tale pena può essere adeguatamente aumentata.
 
 [^59b-1]: Introdotto dal n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1139,9 +1138,9 @@ La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2
 
 [^62-1]
 
-<sup>1</sup> Al pagamento dell’indennità per perdita fiscale subita dall’AFD per effetto di un’infrazione sono applicabili per analogia i disposti della legge federale del 22 marzo 1974[^62-2] sul diritto penale amministrativo concernenti l’obbligo di pagamento o restituzione (art. 12, 13 e 63).
+<sup>1</sup> Al pagamento dell’indennità per perdita fiscale subita dall’UDSC per effetto di un’infrazione sono applicabili per analogia i disposti della legge federale del 22 marzo 1974[^62-2] sul diritto penale amministrativo concernenti l’obbligo di pagamento o restituzione (art. 12, 13 e 63).
 
-<sup>2</sup> La perdita fiscale è fatta valere dall’AFD mediante decisione secondo la procedura amministrativa. La perdita che non può essere determinata con precisione viene fissata mediante stima.[^62-3]
+<sup>2</sup> La perdita fiscale è fatta valere dall’UDSC mediante decisione secondo la procedura amministrativa. La perdita che non può essere determinata con precisione viene fissata mediante stima.[^62-3]
 
 <sup>3</sup> Chiunque ha ottenuto o tentato di ottenere indebitamente, per sé o per altri, un contributo (sussidio) previsto nella legislazione sull’alcool oppure qualsiasi altro vantaggio può, così come l’azienda che rappresenta, essere privato del diritto ai contributi per una durata massima di tre anni.[^62-4]
 
@@ -1156,7 +1155,7 @@ La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2
 
 [^63-1]
 
-È tenuto a un equo risarcimento, indipendentemente dal procedimento penale, chiunque procura all’AFD un danno patrimoniale con un’infrazione, pur senza essersi sottratto al pagamento di una tassa dovuta, né aver causato una perdita fiscale o aver ottenuto un contributo indebito. L’ammontare del risarcimento è stabilito dall’AFD.
+È tenuto a un equo risarcimento, indipendentemente dal procedimento penale, chiunque procura all’UDSC un danno patrimoniale con un’infrazione, pur senza essersi sottratto al pagamento di una tassa dovuta, né aver causato una perdita fiscale o aver ottenuto un contributo indebito. L’ammontare del risarcimento è stabilito dall’UDSC.
 
 [^63-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1174,7 +1173,7 @@ La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2
 
 <sup>1</sup> Le tasse previste dalla presente legge sono esigibili dal momento in cui sono state determinate. Gli eredi sono solidalmente responsabili del loro pagamento, anche se le tasse non sono ancora state fissate, fino a concorrenza dell’ammontare della successione. Essi subentrano al defunto nel diritto di ricorso.
 
-<sup>2</sup> …[^65-1]
+<sup>2</sup> ...[^65-1]
 
 [^65-1]: Abrogato dal n. 11 dell’all. al DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
@@ -1186,7 +1185,7 @@ La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2
 
 <sup>2</sup> Divenuti che siano esecutivi, i provvedimenti e le decisioni delle autorità amministrative accertanti dei crediti sono equiparati alle sentenze esecutive giudiziarie, nel senso dell’articolo 80 della legge federale dell’11 aprile 1889[^66-1] sulla esecuzione e sul fallimento (LEF).
 
-<sup>3</sup> …[^66-2]
+<sup>3</sup> ...[^66-2]
 
 [^66-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^66-2]: Abrogato dal n. 11 dell’all. al DPA, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
@@ -1199,7 +1198,7 @@ La prescrizione dell’azione penale conformemente all’articolo 11 capoverso 2
 
 <sup>1</sup>
 
-LʼAFD può esigere garanzie per le imposte e altri crediti pecuniari, anche se non sono né accertati con decisione passata in giudicato né scaduti, quando:
+LʼUDSC può esigere garanzie per le imposte e altri crediti pecuniari, anche se non sono né accertati con decisione passata in giudicato né scaduti, quando:
 
 - a. i crediti non sono garantiti mediante un pegno fiscale sufficiente e realizzabile; e
 - b.
@@ -1220,7 +1219,7 @@ LʼAFD può esigere garanzie per le imposte e altri crediti pecuniari, anche se 
 [^67-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^67-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### IV. …
+### IV. ...
 
 #### Art. 68
 
@@ -1234,15 +1233,15 @@ LʼAFD può esigere garanzie per le imposte e altri crediti pecuniari, anche se 
 
 <sup>1</sup> Chiunque ha pagato per errore o in via d’esecuzione delle tasse non dovute, può rivendicarne interamente o parzialmente l’importo, entro il termine di un anno a contare dal pagamento.
 
-<sup>2</sup> Se, per errore, una tassa dovuta non è stata determinata o lo è stata insufficientemente, l’AFD può rivendicarne l’intero ammontare o la differenza dal contribuente entro il termine di un anno dal giorno in cui si è verificato l’obbligo del pagamento o in cui è stata determinata la tassa. L’AFD può rivendicare, entro il termine di un anno, anche le somme rimborsate in più.
+<sup>2</sup> Se, per errore, una tassa dovuta non è stata determinata o lo è stata insufficientemente, l’UDSC può rivendicarne l’intero ammontare o la differenza dal contribuente entro il termine di un anno dal giorno in cui si è verificato l’obbligo del pagamento o in cui è stata determinata la tassa. L’UDSC può rivendicare, entro il termine di un anno, anche le somme rimborsate in più.
 
-<sup>3</sup> L’AFD può prorogare il termine di pagamento o condonare in tutto o in parte la tassa o la multa od ammenda, allorchè la riscossione costituirebbe, date le particolari circostanze, un eccessivo aggravio per il contribuente.
+<sup>3</sup> L’UDSC può prorogare il termine di pagamento o condonare in tutto o in parte la tassa o la multa od ammenda, allorchè la riscossione costituirebbe, date le particolari circostanze, un eccessivo aggravio per il contribuente.
 
 <sup>4</sup> Essa può parimente accordare una proroga per il pagamento dell’imposta sulle specialità, affine di tener conto delle condizioni di vendita di questi prodotti.
 
 <sup>5</sup> La tassa è condonata o rimborsata al contribuente assoggettato all’obbligo, secondo la presente legge, di tenere una contabilità se questi prova che la merce gravata è andata perduta.[^69-1]
 
-<sup>6</sup> La tassa è condonata o rimborsata al contribuente se la merce viene distrutta sotto il controllo dell’AFD, entro cinque anni a partire dal momento in cui è sorto l’onere fiscale.[^69-2]
+<sup>6</sup> La tassa è condonata o rimborsata al contribuente se la merce viene distrutta sotto il controllo dell’UDSC, entro cinque anni a partire dal momento in cui è sorto l’onere fiscale.[^69-2]
 
 [^69-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^69-2]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
@@ -1261,7 +1260,7 @@ LʼAFD può esigere garanzie per le imposte e altri crediti pecuniari, anche se 
 
 <sup>1</sup> Il Consiglio federale veglia sull’esecuzione della presente legge. Esso emana tutte le disposizioni ed istruzioni necessarie in quanto questa competenza non sia delegata ad altra autorità.
 
-<sup>2</sup> A questo scopo, il Dipartimento federale delle finanze sottopone al Consiglio federale delle proposte ed esegue le risoluzioni prese.[^70-1] Esso invigila la gestione dell’AFD e prende i provvedimenti e le decisioni che gli sono riservati dalla presente legge.
+<sup>2</sup> A questo scopo, il Dipartimento federale delle finanze sottopone al Consiglio federale delle proposte ed esegue le risoluzioni prese.[^70-1] Esso invigila la gestione dell’UDSC e prende i provvedimenti e le decisioni che gli sono riservati dalla presente legge.
 
 [^70-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
@@ -1279,11 +1278,11 @@ LʼAFD può esigere garanzie per le imposte e altri crediti pecuniari, anche se 
 
 <sup>4</sup> La RFA è esentata da qualsiasi imposta federale, cantonale e comunale, eccetto che si tratti d’imposta su beni immobili non destinati direttamente all’esercizio.
 
-<sup>5</sup> …[^71-5]
+<sup>5</sup> ...[^71-5]
 
 <sup>6</sup> La RFA istituisce degli uffici locali di vigilanza che controllano le distillerie sottoposte a concessione e sorvegliano le distillerie domestiche, prendono consegna o coadiuvano alla consegna delle bevande distillate, determinano e riscuotono le imposte sulle specialità. Il Consiglio federale delimita le competenze e la responsabilità di questi uffici e fissa l’indennità alla quale hanno diritto per l’esercizio delle loro funzioni. Queste spese sono a carico della Regìa.
 
-<sup>7</sup> …[^71-6]
+<sup>7</sup> ...[^71-6]
 
 [^71-1]: Introdotto dal n. I della LF del 4 ott. 1996, in vigore dal 1° feb. 1997 ([RU 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [FF 1996 I 329](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^71-2]: [CS **1** 453; [RU 1958 1489](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)art. 27 lett. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)n. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)art. 2. [RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. I 1]. Vedi ora la L del 24 mar. 2000 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
@@ -1298,7 +1297,7 @@ LʼAFD può esigere garanzie per le imposte e altri crediti pecuniari, anche se 
 
 [^72-1]
 
-L’AFD tiene un registro pubblico dei titolari di un’autorizzazione ai sensi degli articoli 32 e 34.
+L’UDSC tiene un registro pubblico dei titolari di un’autorizzazione ai sensi degli articoli 32 e 34.
 
 [^72-1]: Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [FF 2016 3217](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1306,14 +1305,14 @@ L’AFD tiene un registro pubblico dei titolari di un’autorizzazione ai sensi 
 
 #### Art. 73
 
-<sup>1</sup> Il Consiglio federale può delegare l’esercizio di certe funzioni ad altri servizi dell’Amministrazione federale, nonché alle autorità cantonali e comunali. Esso stabilisce il contributo alle spese che deve essere versato dall’AFD. … [^73-1]. [^73-2]
+<sup>1</sup> Il Consiglio federale può delegare l’esercizio di certe funzioni ad altri servizi dell’Amministrazione federale, nonché alle autorità cantonali e comunali. Esso stabilisce il contributo alle spese che deve essere versato dall’UDSC. ... [^73-1]. [^73-2]
 
-<sup>2</sup> Inoltre, gli uffici della Confederazione, dei Cantoni, dei distretti o circoli e dei Comuni, devono, nel limite delle loro attribuzioni, coadiuvare l’AFD. In particolare, essi devono denunciarle le contravvenzioni di cui avessero ufficialmente conoscenza e aiutarla ad accertare i fatti e a perseguire i colpevoli.
+<sup>2</sup> Inoltre, gli uffici della Confederazione, dei Cantoni, dei distretti o circoli e dei Comuni, devono, nel limite delle loro attribuzioni, coadiuvare l’UDSC. In particolare, essi devono denunciargli le contravvenzioni di cui avessero ufficialmente conoscenza e aiutarla ad accertare i fatti e a perseguire i colpevoli.
 
 [^73-1]: Per. abrogato dal n. II 13 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^73-2]: Nuovo testo giusta il n. I della LF del 19 dic. 1969, in vigore dal 1° apr. 1970 ([RU 1970 529](https://fedlex.data.admin.ch/eli/oc/1970/529_529_529); [FF 1969 I 711](https://fedlex.data.admin.ch/eli/fga/1969/1___711)).
 
-### II. …
+### II. ...
 
 #### Art. 74
 
@@ -1333,11 +1332,11 @@ I funzionari e impiegati federali nonché tutte le altre persone incaricate dell
 
 #### Art. 76
 
-<sup>1</sup> Tutti i diritti e gli obblighi derivanti dalla legislazione sull’alcool sono retti dalle disposizioni della presente legge. …[^76-1]
+<sup>1</sup> Tutti i diritti e gli obblighi derivanti dalla legislazione sull’alcool sono retti dalle disposizioni della presente legge. ...[^76-1]
 
 <sup>2</sup> I rapporti di diritto derivanti dall’applicazione dell’articolo 18 della legge federale del 23 dicembre 1886[^76-2] sulle bevande spiritose e dall’assegnazione d’indennità globali alle distillerie concessionarie continueranno ad avere vigore.
 
-<sup>3</sup> Dal giorno dell’entrata in vigore della presente legge, le autorità eserciteranno le loro mansioni secondo le disposizioni della legge stessa. …[^76-3]
+<sup>3</sup> Dal giorno dell’entrata in vigore della presente legge, le autorità eserciteranno le loro mansioni secondo le disposizioni della legge stessa. ...[^76-3]
 
 <sup>4</sup> Al momento dell’entrata in vigore della presente legge, le riserve disponibili della RFA, il cui ammontare sarà fissato mediante decreto federale, dovranno essere ripartite fra i Cantoni in conformità dell’articolo 22 della legge federale del 29 giugno 1900[^76-4] sulle bevande spiritose. La somma restante servirà come fondo d’esercizio della RFA.
 
@@ -1360,7 +1359,7 @@ I funzionari e impiegati federali nonché tutte le altre persone incaricate dell
 
 ### I*b.* Disposizioni transitorie della modifica del 30 settembre 2016
 
-### 1. …
+### 1. ...
 
 #### Art. 76b
 
@@ -1432,7 +1431,7 @@ Il Consiglio federale ha la facoltà di finanziare mediante il patrimonio della 
 
 [^76f-1]
 
-<sup>1</sup> I titolari di una licenza per utilizzare etanolo esente dall’onere fiscale secondo il diritto anteriore devono richiedere all’AFD una nuova autorizzazione d’impiego al più tardi tre mesi dopo l’entrata in vigore della modifica del 30 settembre 2016.
+<sup>1</sup> I titolari di una licenza per utilizzare etanolo esente dall’onere fiscale secondo il diritto anteriore devono richiedere all’UDSC una nuova autorizzazione d’impiego al più tardi tre mesi dopo l’entrata in vigore della modifica del 30 settembre 2016.
 
 <sup>2</sup> Al momento del rilascio dell’autorizzazione d’impiego i titolari sono iscritti nel registro dell’etanolo di cui all’articolo 72.
 
@@ -1462,4 +1461,4 @@ Il Consiglio federale fissa il giorno dell’entrata in vigore della presente le
 
 Data dell’entrata in vigore: 1° gennaio 1933[^78-1]
 
-[^78-1]: Art. 160 del RE del 19 dic. 1932 [CS **6** 892]
+[^78-1]: Art. 160 del RE del 19 dic. 1932 [CS **6** 892].

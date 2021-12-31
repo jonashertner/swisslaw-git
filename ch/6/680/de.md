@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Juni 1932 über die gebrannten Wasser (Alkoholgeset
 short: AlkG
 eli: "https://fedlex.data.admin.ch/eli/cc/48/425_437_457"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 1932-06-21
 in_force: 1933-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20190101/de/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/48/425_437_457/20220101/de/xml/fedlex-data-admin-ch-eli-cc-48-425_437_457-20220101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/48/425_437_457/20190101/de"
 
 (Alkoholgesetz, AlkG)**[^t-1]**
 
-vom 21. Juni 1932 (Stand am 1. Januar 2019)
+vom 21. Juni 1932 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -79,32 +79,31 @@ Den Vorschriften dieses Gesetzes sind unterstellt die Herstellung gebrannter Was
 
 #### Art. 4
 
-<sup>1</sup> Der Bund erteilt Brennereikonzessionen zur Herstellung und Reinigung gebrannter Wasser, welche die Eidgenössische Zollverwaltung (EZV)[^4-1] übernehmen kann (Konzessionen mit Übernahmerecht), und Brennereikonzessionen zur Herstellung von Spezialitätenbrand und zur Herstellung gebrannter Wasser auf fremde Rechnung, welche sie nicht übernimmt (Konzessionen ohne Übernahmerecht).[^4-2]
+<sup>1</sup> Der Bund erteilt Brennereikonzessionen zur Herstellung und Reinigung gebrannter Wasser, welche das Bundesamt für Zoll und Grenzsicherheit (BAZG) übernehmen kann (Konzessionen mit Übernahmerecht), und Brennereikonzessionen zur Herstellung von Spezialitätenbrand und zur Herstellung gebrannter Wasser auf fremde Rechnung, welche das BAZG nicht übernimmt (Konzessionen ohne Übernahmerecht).[^4-1]
 
 <sup>2</sup>
 
-Die Konzessionen mit Übernahmerecht werden erteilt:[^4-3]
+Die Konzessionen mit Übernahmerecht werden erteilt:[^4-2]
 
 - a. für Hackfruchtbrennereien, d.h. feststehende Brennereien, die inländische Kartoffeln oder Rückstände der Rübenzuckerfabrikation aus inländischen Rohstoffen verarbeiten;
 - b. für Kernobstbrennereien, d.h. feststehende oder fahrbare Brennereien, die für eigene Rechnung brennen und folgende einheimische Rohstoffe verwenden: Äpfel, Birnen, die daraus gewonnenen Obstweine und Obsttrester sowie andere Abfälle dieser Rohstoffe;
 - c. für Industriebrennereien, d.h. Betriebe, die Rückstände der Presshefe- und Zuckerfabrikation oder andere Rohstoffe in- oder ausländischer Herkunft verarbeiten;
-- d. für Rektifikationsanstalten, d.h. Betriebe, die das Hochgrädigbrennen gebrannter Wasser[^4-4], die Reinigung gebrannter Wasser oder die Herstellung von absolutem Alkohol besorgen;
+- d. für Rektifikationsanstalten, d.h. Betriebe, die das Hochgrädigbrennen gebrannter Wasser[^4-3], die Reinigung gebrannter Wasser oder die Herstellung von absolutem Alkohol besorgen;
 - e. für Alkoholfabriken, d.h. Betriebe, die auf chemischem Wege Alkohol gewinnen.
 
 <sup>3</sup>
 
-Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
+Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-4]
 
 - a. für Spezialitätenbrennereien, d. h. feststehende oder fahrbare Brennereien, die Steinobst, Kernobst, ausser Äpfel und Birnen und deren Erzeugnisse und Abfälle, oder Wein und dessen Rückstände und Abfälle, Enzianwurzeln, Beerenfrüchte und ähnliche Rohstoffe brennen;
 - b. für Lohnbrennereien, d. h. feststehende oder fahrbare Brennereien, die für Dritte gegen Lohn die in Artikel 3 Absatz 3 genannten Rohstoffe brennen.
 
 <sup>4</sup> Unter den vom Bundesrat aufzustellenden Bedingungen können für den gleichen Brennereibetrieb verschiedene Konzessionen nebeneinander erteilt werden.
 
-[^4-1]: Ausdruck gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
+[^4-1]: Fassung gemäss Ziff. I 25 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^4-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^4-3]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
-[^4-4]: Ausdruck gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^4-5]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
+[^4-3]: Ausdruck gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^4-4]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
 ### 2. Konzessionserteilung
 
@@ -120,21 +119,21 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
 
 <sup>4</sup> Die Konzessionen werden auf höchstens zehn Jahre erteilt. Sie sollen nur erteilt werden, wenn der Konzessionsbewerber sowie die baulichen und technischen Einrichtungen seiner Brennerei die ordnungsgemässe Führung des Betriebes gewährleisten. Der Bundesrat stellt hierüber die erforderlichen Bestimmungen auf. Er kann auch den gleichzeitigen Betrieb einer Brennerei mit andern Gewerben als unvereinbar erklären, sofern durch die Verbindung die Aufsicht über den Brennereibetrieb oder den Handel mit gebrannten Wassern erschwert wird.
 
-<sup>5</sup> Die Übertragung von Konzessionen auf einen neuen Inhaber oder eine andere Brennerei ist nur mit Bewilligung der EZV[^5-1] zulässig. Diese Bewilligung muss erteilt werden, wenn es sich um erbweisen Übergang des Brennereibetriebes handelt und der Erbe die Voraussetzungen für die Erteilung einer Konzession erfüllt.
+<sup>5</sup> Die Übertragung von Konzessionen auf einen neuen Inhaber oder eine andere Brennerei ist nur mit Bewilligung des BAZG[^5-1] zulässig. Diese Bewilligung muss erteilt werden, wenn es sich um erbweisen Übergang des Brennereibetriebes handelt und der Erbe die Voraussetzungen für die Erteilung einer Konzession erfüllt.
 
-[^5-1]: Ausdruck gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)). Die Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-1]: Ausdruck gemäss Ziff. I 25 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### b. Verfahren
 
 #### Art. 6
 
-<sup>1</sup> Die Konzessionen werden auf Gesuch hin durch die EZV erteilt und erneuert. Sie sind gebührenfrei.
+<sup>1</sup> Die Konzessionen werden auf Gesuch hin durch das BAZG erteilt und erneuert. Sie sind gebührenfrei.
 
 <sup>2</sup> Über die Erteilung und Erneuerung der Konzession wird eine Urkunde ausgestellt.
 
-<sup>3</sup> Werden Konzessionsbedingungen nicht eingehalten oder fällt eine Voraussetzung der Konzessionserteilung weg, so kann die EZV die Konzession nach Anhörung des Inhabers vor Ablauf der Konzessionsdauer entziehen.
+<sup>3</sup> Werden Konzessionsbedingungen nicht eingehalten oder fällt eine Voraussetzung der Konzessionserteilung weg, so kann das BAZG die Konzession nach Anhörung des Inhabers vor Ablauf der Konzessionsdauer entziehen.
 
-<sup>4</sup> …[^6-1]
+<sup>4</sup> ...[^6-1]
 
 [^6-1]: Aufgehoben durch Ziff. II Abs. 1 Ziff. 8 des BG vom 20. Dez. 1968 über die Änderung des OG, mit Wirkung seit 1. Okt. 1969, mit Wirkung seit 1. Okt. 1969 ([AS 1969 767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [BBl 1965 II 1265](https://fedlex.data.admin.ch/eli/fga/1965/2_1265_1301_1029)).
 
@@ -142,13 +141,13 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
 
 #### Art. 7
 
-<sup>1</sup> Die konzessionspflichtigen Brennereien stehen unter der Kontrolle der EZV. Diese kann die Kantons- und die Gemeindebehörden zur Mitwirkung heranziehen.[^7-1]
+<sup>1</sup> Die konzessionspflichtigen Brennereien stehen unter der Kontrolle des BAZG. Dieses kann die Kantons- und die Gemeindebehörden zur Mitwirkung heranziehen.[^7-1]
 
 <sup>2</sup> Der Konzessionsinhaber hat über die Herkunft der Rohstoffe, die Art, Menge und Verwendung der daraus hergestellten gebrannten Wasser Buch zu führen. Er ist ferner verpflichtet, den mit der Durchführung dieses Gesetzes betrauten Organen jederzeit Zutritt zu seinen Geschäftsräumlichkeiten sowie Einsicht in seine Buchführung zu gewähren und ihnen jede erforderliche Auskunft zu erteilen.
 
-<sup>3</sup> Brennapparate und Brennanlagen dürfen nur mit Bewilligung der EZV erworben, aufgestellt, an einen neuen Standort verbracht, ersetzt oder umgeändert werden.[^7-2]
+<sup>3</sup> Brennapparate und Brennanlagen dürfen nur mit Bewilligung des BAZG erworben, aufgestellt, an einen neuen Standort verbracht, ersetzt oder umgeändert werden.[^7-2]
 
-<sup>4</sup> Der Bundesrat ist befugt, der Kontrolle der EZV auch die Einrichtungen zu unterstellen, die zur Herstellung gebrannter Wasser dienen können und für welche eine Konzession nicht besteht. Auf solche Einrichtungen kann Absatz 3 anwendbar erklärt werden.[^7-3]
+<sup>4</sup> Der Bundesrat ist befugt, der Kontrolle des BAZG auch die Einrichtungen zu unterstellen, die zur Herstellung gebrannter Wasser dienen können und für welche eine Konzession nicht besteht. Auf solche Einrichtungen kann Absatz 3 anwendbar erklärt werden.[^7-3]
 
 [^7-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^7-2]: Fassung gemäss Art. 1 des BG vom 25. Okt. 1949, in Kraft seit 1. März 1950 (AS **1950** I 729; [BBl 1949 I 673](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
@@ -184,13 +183,13 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
 
 [^10-1]
 
-<sup>1</sup> Die EZV legt jedes Jahr die Menge der gebrannten Wasser fest, die sie zur Deckung ihres Bedarfs übernimmt.
+<sup>1</sup> Das BAZG legt jedes Jahr die Menge der gebrannten Wasser fest, die es zur Deckung seines Bedarfs übernimmt.
 
-<sup>2</sup> Sie kann zur Entlastung des Marktes zusätzliche Mengen gebrannter Wasser übernehmen.
+<sup>2</sup> Es kann zur Entlastung des Marktes zusätzliche Mengen gebrannter Wasser übernehmen.
 
-<sup>3</sup> Sie gibt die zu übernehmende Menge mit Angabe des Übernahmepreises vor Beginn der Ernte den Brennereien, die eine Konzession mit Übernahmerecht besitzen, bekannt. Aufgrund dieser Bekanntgabe können diese Brennereien Angebote einreichen. Überschreiten die Angebote die Übernahmemenge, so wird die Zuteilung anteilsmässig gekürzt.
+<sup>3</sup> Es gibt die zu übernehmende Menge mit Angabe des Übernahmepreises vor Beginn der Ernte den Brennereien, die eine Konzession mit Übernahmerecht besitzen, bekannt. Aufgrund dieser Bekanntgabe können diese Brennereien Angebote einreichen. Überschreiten die Angebote die Übernahmemenge, so wird die Zuteilung anteilsmässig gekürzt.
 
-<sup>4</sup> Der Bundesrat regelt die Anforderungen an die gebrannten Wasser, die von der EZV übernommen werden, und das Übernahmeverfahren.
+<sup>4</sup> Der Bundesrat regelt die Anforderungen an die gebrannten Wasser, die vom BAZG übernommen werden, und das Übernahmeverfahren.
 
 <sup>5</sup> Die aus Kernobstrohstoffen hergestellten gebrannten Wasser unterliegen der Besteuerung nach den Artikeln 20–23.
 
@@ -206,13 +205,13 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
 
 <sup>1</sup> Die Übernahmepreise werden durch den Bundesrat festgesetzt.
 
-<sup>2</sup> Die Preise für die von der EZV zur Deckung ihres Bedarfs übernommenen gebrannten Wasser werden unter Berücksichtigung der Überschuss- und Abfallverwertung sowie der Gestehungskosten bei rationeller Herstellung festgesetzt. Für das Brennen im Hafen und in der Kolonne können unterschiedliche Preise festgesetzt werden.[^11-1]
+<sup>2</sup> Die Preise für die vom BAZG zur Deckung ihres Bedarfs übernommenen gebrannten Wasser werden unter Berücksichtigung der Überschuss- und Abfallverwertung sowie der Gestehungskosten bei rationeller Herstellung festgesetzt. Für das Brennen im Hafen und in der Kolonne können unterschiedliche Preise festgesetzt werden.[^11-1]
 
-<sup>3</sup> Die Preise für gebrannte Wasser, welche die EZV zur Marktentlastung übernimmt, werden nach der Menge gestaffelt festgesetzt. Sie müssen tiefer sein als die nach Absatz 2 festgesetzten Preise.[^11-2]
+<sup>3</sup> Die Preise für gebrannte Wasser, welche das BAZG zur Marktentlastung übernimmt, werden nach der Menge gestaffelt festgesetzt. Sie müssen tiefer sein als die nach Absatz 2 festgesetzten Preise.[^11-2]
 
-<sup>4–5</sup> …[^11-3]
+<sup>4–5</sup> ...[^11-3]
 
-<sup>6</sup> Der den Industriebrennereien und Alkoholfabriken zu bezahlende Übernahmepreis soll in der Regel den mittleren Einstandskosten des von der EZV eingeführten Auslandethanols gleicher Qualität entsprechen. Dabei können die nachgewiesenen Herstellungskosten einschliesslich Verzinsung und Abschreibung des Anlagekapitals angemessen berücksichtigt werden.[^11-4]
+<sup>6</sup> Der den Industriebrennereien und Alkoholfabriken zu bezahlende Übernahmepreis soll in der Regel den mittleren Einstandskosten des vom BAZG eingeführten Auslandethanols gleicher Qualität entsprechen. Dabei können die nachgewiesenen Herstellungskosten einschliesslich Verzinsung und Abschreibung des Anlagekapitals angemessen berücksichtigt werden.[^11-4]
 
 <sup>7</sup> Den Rektifikationsanstalten soll eine Vergütung entrichtet werden, die die Reinigungskosten deckt.
 
@@ -235,13 +234,13 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
 
 <sup>1</sup> Das Brennrecht der Spezialitätenbrennereien ist weder nach der Menge der Erzeugnisse, noch nach der Herkunft der Rohstoffe beschränkt.
 
-<sup>2</sup> Die EZV übernimmt keine Erzeugnisse der Spezialitätenbrennereien.[^12-1]
+<sup>2</sup> Das BAZG übernimmt keine Erzeugnisse der Spezialitätenbrennereien.[^12-1]
 
 <sup>3</sup> Die aus inländischen Rohstoffen hergestellten Erzeugnisse der Spezialitätenbrennereien unterliegen der Besteuerung gemäss den Artikeln 20–23.
 
-<sup>4</sup> …[^12-2]
+<sup>4</sup> ...[^12-2]
 
-<sup>5</sup> …[^12-3]
+<sup>5</sup> ...[^12-3]
 
 [^12-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^12-2]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1996, mit Wirkung seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
@@ -257,7 +256,7 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
 
 <sup>3</sup> Das Brennerzeugnis ist dem Auftraggeber auszuhändigen.[^13-1]
 
-<sup>4</sup> …[^13-2]
+<sup>4</sup> ...[^13-2]
 
 [^13-1]: Fassung gemäss Art. 1 des BG vom 25. Okt. 1949, in Kraft seit 1. März 1950 (AS **1950** I 72; [BBl 1949 I 673](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
 [^13-2]: Aufgehoben durch Art. 1 des BG vom 25. Okt. 1949, mit Wirkung seit 1. März 1950 (AS **1950** I 72; [BBl 1949 I 673](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
@@ -270,17 +269,17 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
 
 <sup>1</sup> Die nicht gewerbsmässige Herstellung von gebrannten Wassern zu Trinkzwecken aus Obst und Obstabfällen, Obstwein, Most, Trauben, Wein, Traubentrestern, Weinhefe, Enzianwurzeln, Beerenfrüchten und ähnlichen Stoffen, wenn diese Stoffe ausschliesslich inländisches Eigengewächs oder selbst gesammeltes, inländisches Wildgewächs sind, darf nur in konzessionierten Hausbrennereien stattfinden.[^14-1]
 
-<sup>2</sup> Die EZV kann Hausbrennern, die durch Hagel oder andere Naturschäden einen erheblichen Ausfall an Eigengewächs erlitten haben, auf die Dauer eines Brennjahres eine Konzession zum Brennen eigener und zugekaufter Rohstoffe erteilen, ohne dass deshalb das Recht auf den steuerfreien Eigenbedarf gemäss Artikel 16 verloren geht.
+<sup>2</sup> Das BAZG kann Hausbrennern, die durch Hagel oder andere Naturschäden einen erheblichen Ausfall an Eigengewächs erlitten haben, auf die Dauer eines Brennjahres eine Konzession zum Brennen eigener und zugekaufter Rohstoffe erteilen, ohne dass deshalb das Recht auf den steuerfreien Eigenbedarf gemäss Artikel 16 verloren geht.
 
-<sup>3</sup> …[^14-2]
+<sup>3</sup> ...[^14-2]
 
-<sup>4</sup> …[^14-3]
+<sup>4</sup> ...[^14-3]
 
 <sup>5</sup> Die Brennereianlage kann in der Regel nur zusammen mit der Liegenschaft ihres Standortes (Brennereiliegenschaft) auf Dritte übertragen werden. Wird die Brennereiliegenschaft zerstückelt, so darf die Hausbrennerei nur auf dem Teil weiterbetrieben werden, auf welchem sie bisher bestand.
 
-<sup>6</sup> Die Brennapparate oder ‑anlagen dürfen nur mit Bewilligung der EZV ersetzt, anders als in Verbindung mit der Liegenschaft übertragen oder so umgeändert werden, dass sich eine Erhöhung der Leistungsfähigkeit ergibt. In der Bewilligung kann vorgeschrieben werden, auf welche Weise der Ersatz oder die Umänderung vorzunehmen ist.
+<sup>6</sup> Die Brennapparate oder ‑anlagen dürfen nur mit Bewilligung des BAZG ersetzt, anders als in Verbindung mit der Liegenschaft übertragen oder so umgeändert werden, dass sich eine Erhöhung der Leistungsfähigkeit ergibt. In der Bewilligung kann vorgeschrieben werden, auf welche Weise der Ersatz oder die Umänderung vorzunehmen ist.
 
-<sup>7</sup> …[^14-4]
+<sup>7</sup> ...[^14-4]
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^14-2]: Aufgehoben durch Art. 12 Abs. 3 des BG vom 23. Juni 1944 über die Konzessionierung der Hausbrennerei, mit Wirkung seit 6. April 1945 ([AS 60 689](https://fedlex.data.admin.ch/eli/oc/60/689_687_673); BBl **1943** 1289).
@@ -293,9 +292,9 @@ Die Konzessionen ohne Übernahmerecht werden erteilt:[^4-5]
 
 [^15-1]
 
-<sup>1</sup> Die Hausbrennerei steht unter der Aufsicht der EZV. Diese kann die Kantons- und die Gemeindebehörden zur Mitwirkung heranziehen.
+<sup>1</sup> Die Hausbrennerei steht unter der Aufsicht des BAZG. Diese kann die Kantons- und die Gemeindebehörden zur Mitwirkung heranziehen.
 
-<sup>2</sup> Vor jeder Änderung der Brennereianlage hat der Inhaber gegenüber der EZV die vorgeschriebenen Angaben zu machen.
+<sup>2</sup> Vor jeder Änderung der Brennereianlage hat der Inhaber gegenüber dem BAZG die vorgeschriebenen Angaben zu machen.
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -313,7 +312,7 @@ Der Hausbrenner kann lediglich die in seinem Haushalt und Landwirtschaftsbetrieb
 
 [^17-1]
 
-<sup>1</sup> Die EZV kann den im Haushalt und Landwirtschaftsbetrieb des Hausbrenners nicht erforderlichen Kernobstbrand übernehmen. Dabei gelten die Artikel 10 und 11 sinngemäss.
+<sup>1</sup> Das BAZG kann den im Haushalt und Landwirtschaftsbetrieb des Hausbrenners nicht erforderlichen Kernobstbrand übernehmen. Dabei gelten die Artikel 10 und 11 sinngemäss.
 
 <sup>2</sup> Wird solcher Kernobstbrand entgeltlich oder unentgeltlich an Drittpersonen abgegeben, so unterliegt er der Besteuerung nach den Artikeln 20–23.
 
@@ -325,7 +324,7 @@ Der Hausbrenner kann lediglich die in seinem Haushalt und Landwirtschaftsbetrieb
 
 [^18-1]
 
-<sup>1</sup> Die EZV übernimmt keinen in Hausbrennereien hergestellten Spezialitätenbrand.
+<sup>1</sup> Das BAZG übernimmt keinen in Hausbrennereien hergestellten Spezialitätenbrand.
 
 <sup>2</sup> Wird solcher Spezialitätenbrand entgeltlich oder unentgeltlich an Drittpersonen abgegeben, so unterliegt er der Besteuerung nach den Artikeln 20–23.
 
@@ -341,13 +340,13 @@ Der Hausbrenner kann lediglich die in seinem Haushalt und Landwirtschaftsbetrieb
 
 <sup>2</sup> Produzenten, die ausschliesslich inländisches Eigengewächs oder selbst gesammeltes inländisches Wildgewächs brennen lassen, werden als den Hausbrennern gleichgestellte Brennauftraggeber mit Anspruch auf steuerfreien Eigenbedarf (Hausbrennauftraggeber) anerkannt, sofern sie den Anforderungen entsprechen, die der Bundesrat auf Grund von Artikel 3 Absatz 5 an die nicht gewerbsmässige Herstellung gebrannter Wasser stellt. Der Bundesrat ist jedoch befugt, die Zulassung von Hausbrennauftraggebern einzuschränken, soweit sich dies zur Vermeidung von Missbräuchen als notwendig erweist.
 
-<sup>3</sup> Wo besondere Verhältnisse die Benützung einer Lohnbrennerei nicht gestatten, kann die EZV den Inhaber einer bestimmten Hausbrennerei zur Übernahme von Brennaufträgen oder zur mietweisen Überlassung seiner Brennerei an einen Hausbrennauftraggeber ermächtigen.
+<sup>3</sup> Wo besondere Verhältnisse die Benützung einer Lohnbrennerei nicht gestatten, kann das BAZG den Inhaber einer bestimmten Hausbrennerei zur Übernahme von Brennaufträgen oder zur mietweisen Überlassung seiner Brennerei an einen Hausbrennauftraggeber ermächtigen.
 
 <sup>4</sup> Die Bestimmungen für die Hausbrennerei über die Aufsicht sowie über die Verwendung und Besteuerung des Brennerzeugnisses gelten auch für die Hausbrennauftraggeber.
 
 <sup>5</sup> Brennauftraggeber, welche nicht unter Absatz 2 fallen, unterstehen hinsichtlich der Zulassung zum Brennen, der Kontrolle sowie der Verwendung und Besteuerung des Brennerzeugnisses den Bestimmungen für die Gewerbebrenner. Brennauftraggebern mit kleiner Erzeugung können Erleichterungen in der Kontrolle eingeräumt werden.
 
-<sup>6</sup> Die EZV kann die Erteilung von Brennaufträgen gemäss Absatz 5 untersagen, wenn der Auftraggeber wegen schwerer Widerhandlung gegen die Alkoholgesetzgebung oder wegen Widerhandlung im Rückfall bestraft worden ist oder wenn Trunksucht vorliegt. Ferner kann der Bundesrat die Erteilung von Brennaufträgen als mit bestimmten Gewerben unvereinbar erklären, wenn die Kontrolle über die Brennereirohstoffe und über die Erzeugung oder Verwendung der gebrannten Wasser erschwert wird.
+<sup>6</sup> Das BAZG kann die Erteilung von Brennaufträgen gemäss Absatz 5 untersagen, wenn der Auftraggeber wegen schwerer Widerhandlung gegen die Alkoholgesetzgebung oder wegen Widerhandlung im Rückfall bestraft worden ist oder wenn Trunksucht vorliegt. Ferner kann der Bundesrat die Erteilung von Brennaufträgen als mit bestimmten Gewerben unvereinbar erklären, wenn die Kontrolle über die Brennereirohstoffe und über die Erzeugung oder Verwendung der gebrannten Wasser erschwert wird.
 
 [^19-1]: Fassung gemäss Art. 1 des BG vom 25. Okt. 1949, in Kraft seit 1. März 1950 (AS **1950** I 72; [BBl 1949 I 673](https://fedlex.data.admin.ch/eli/fga/1949/1_673_681_)).
 [^19-2]: Ausdruck gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)). Diese Änd. ist im ganzen Erlass berücksichtigt.
@@ -367,7 +366,7 @@ Die Steuer ist zu entrichten:
 - a. vom Inhaber der konzessionierten Spezialitätenbrennerei (Art. 12);
 - b. vom Hausbrenner (Art. 18 Abs. 2) oder vom Brennauftraggeber (Art. 19).
 
-<sup>3</sup> …[^20-1]
+<sup>3</sup> ...[^20-1]
 
 [^20-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1996 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)). Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -401,7 +400,7 @@ Die Steuer ist zu entrichten:
 
 #### Art. 23
 
-<sup>1</sup> Die EZV kann die Form für die Anmeldung der hergestellten oder der aus Steuerlagern ausgelagerten Alkoholmenge vorschreiben sowie namentlich den Einsatz der elektronischen Datenverarbeitung (EDV) anordnen und diesen von einer Prüfung des EDV‑Systems abhängig machen.[^23-1]
+<sup>1</sup> Das BAZG kann die Form für die Anmeldung der hergestellten oder der aus Steuerlagern ausgelagerten Alkoholmenge vorschreiben sowie namentlich den Einsatz der elektronischen Datenverarbeitung (EDV) anordnen und diesen von einer Prüfung des EDV‑Systems abhängig machen.[^23-1]
 
 <sup>1bis</sup> Der Bundesrat regelt das Veranlagungsverfahren.[^23-2]
 
@@ -409,7 +408,7 @@ Die Steuer ist zu entrichten:
 
 <sup>3</sup> Die zuständigen Organe dürfen jederzeit und ohne Voranmeldung Kontrollen durchführen. Der Inhaber einer Brennerei muss den zuständigen Organen den Zutritt zu den Geschäfts- und Lagerräumen gestatten, ihnen jede erforderliche Auskunft erteilen, die Vorräte vorzeigen und Einsicht in die Geschäftsbücher und Belege gewähren.[^23-3]
 
-<sup>4</sup> Der Zeitpunkt der Fälligkeit der Steuer wird durch die EZV festgesetzt.
+<sup>4</sup> Der Zeitpunkt der Fälligkeit der Steuer wird durch das BAZG festgesetzt.
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^23-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -446,7 +445,7 @@ Die Steuer wird um 50 Prozent ermässigt für:
 [^23bis-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 12. Juni 2009 über die technischen Handelshemmnisse, in Kraft seit 1. Juli 2010 ([AS 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [BBl 2008 7275](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^23bis-4]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Febr. 2004 ([AS 2004 455](https://fedlex.data.admin.ch/eli/oc/2004/34); [BBl 2003 2170](https://fedlex.data.admin.ch/eli/fga/2003/271)).
 
-### VI. …
+### VI. ...
 
 #### Art. 24
 
@@ -460,7 +459,7 @@ Die Steuer wird um 50 Prozent ermässigt für:
 
 [^25-1]
 
-Die EZV kann anordnen, dass Brennereieinrichtungen, die nicht mehr konzessionsberechtigt sind, technisch so geändert werden, dass eine missbräuchliche Verwendung ausgeschlossen ist.
+Das BAZG kann anordnen, dass Brennereieinrichtungen, die nicht mehr konzessionsberechtigt sind, technisch so geändert werden, dass eine missbräuchliche Verwendung ausgeschlossen ist.
 
 [^25-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
@@ -472,7 +471,7 @@ Die EZV kann anordnen, dass Brennereieinrichtungen, die nicht mehr konzessionsbe
 
 ## Dritter Abschnitt: Einfuhr, Ausfuhr und Durchfuhr gebrannter Wasser
 
-### I. …
+### I. ...
 
 #### Art. 27
 
@@ -504,7 +503,7 @@ Alkoholhaltige Esswaren werden nach dem Ansatz des darin enthaltenen alkoholisch
 
 [^29-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### c. …
+### c. ...
 
 #### Art. 30
 
@@ -527,7 +526,7 @@ Der Bundesrat legt fest:
 - a. in welchen Fällen eine Denaturierung vorgenommen werden muss;
 - b. wer zur Denaturierung berechtigt ist.
 
-<sup>3</sup> Die EZV regelt die Denaturierung.
+<sup>3</sup> Das BAZG regelt die Denaturierung.
 
 [^31-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -537,9 +536,9 @@ Der Bundesrat legt fest:
 
 [^32-1]
 
-<sup>1</sup> Wer unversteuertes, nicht denaturiertes Ethanol zur Herstellung von nicht zu Trink- und Genusszwecken geeigneten Erzeugnissen verwenden oder in gewerblichen Prozessen, die nicht Trink- und Genusszwecken dienen, einsetzen will, bedarf einer Verwendungsbewilligung der EZV.
+<sup>1</sup> Wer unversteuertes, nicht denaturiertes Ethanol zur Herstellung von nicht zu Trink- und Genusszwecken geeigneten Erzeugnissen verwenden oder in gewerblichen Prozessen, die nicht Trink- und Genusszwecken dienen, einsetzen will, bedarf einer Verwendungsbewilligung des BAZG.
 
-<sup>2</sup> Der Bundesrat legt die Voraussetzungen fest, unter denen die Verwendungsbewilligung erteilt wird. Die EZV macht in der Bewilligung Auflagen betreffend die entsprechenden Erzeugnisse oder Prozesse nach Absatz 1.
+<sup>2</sup> Der Bundesrat legt die Voraussetzungen fest, unter denen die Verwendungsbewilligung erteilt wird. Das BAZG macht in der Bewilligung Auflagen betreffend die entsprechenden Erzeugnisse oder Prozesse nach Absatz 1.
 
 <sup>3</sup>
 
@@ -570,7 +569,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### III. …
+### III. ...
 
 ### 4. Kontrolle
 
@@ -578,7 +577,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 [^35-1]
 
-<sup>1</sup> Die EZV überwacht die Verwendung gebrannter Wasser.
+<sup>1</sup> Das BAZG überwacht die Verwendung gebrannter Wasser.
 
 <sup>2</sup> Die zuständigen Organe dürfen jederzeit und ohne Voranmeldung Kontrollen durchführen. Der Inhaber einer Verwendungsbewilligung muss den zuständigen Organen den Zutritt zu den Geschäfts- und Lagerräumen gestatten, ihnen jede erforderliche Auskunft erteilen, die Vorräte vorzeigen und Einsicht in die Geschäftsbücher und Belege gewähren.
 
@@ -592,7 +591,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 <sup>2</sup> Der Rückvergütungssatz wird nach der in diesem Gesetz vorgesehenen fiskalischen Belastung der zur Ausfuhr gelangenden Erzeugnisse bestimmt. Kann der Betrag der fiskalischen Belastung nicht einwandfrei nachgewiesen werden, so gelangt für die Rückvergütung der niedrigste Satz zur Anwendung.
 
-<sup>3</sup> Die Rückvergütung findet auf Ende des Rechnungsjahres statt. Die EZV kann auf den rückzuvergütenden Beträgen während des Rechnungsjahres Abschlagszahlungen gewähren.
+<sup>3</sup> Die Rückvergütung findet auf Ende des Rechnungsjahres statt. Das BAZG kann auf den rückzuvergütenden Beträgen während des Rechnungsjahres Abschlagszahlungen gewähren.
 
 <sup>4</sup> Für Ausfuhrmengen von weniger als 5 kg Bruttogewicht wird eine Rückvergütung nicht geleistet.
 
@@ -602,7 +601,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 [^36-2]: Zweiter Satz eingefügt durch Ziff. I 4 des BG vom 17. Dez. 2010 über den Einkauf von Waren in Zollfreiläden auf Flughäfen, in Kraft seit 1. Juni 2011 ([AS 2011 1743](https://fedlex.data.admin.ch/eli/oc/2011/263); [BBl 2010 2169](https://fedlex.data.admin.ch/eli/fga/2010/380)).
 [^36-3]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Juli 1999 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379), [1999 1730](https://fedlex.data.admin.ch/eli/oc/1999/275); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
-## Vierter Abschnitt: …
+## Vierter Abschnitt: ...
 
 #### Art. 37
 
@@ -638,7 +637,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 [^39-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1980, in Kraft seit 1. Jan. 1983 ([AS 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [BBl 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
-### II. …
+### II. ...
 
 #### Art. 39a
 
@@ -646,21 +645,21 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 [^39a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 1980 (AS **1982** 6940; [BBl 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)). Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
-### III. …
+### III. ...
 
 #### Art. 40
 
 [^40-1]
 
-<sup>1</sup> …[^40-2]
+<sup>1</sup> ...[^40-2]
 
-<sup>2</sup> …[^40-3]
+<sup>2</sup> ...[^40-3]
 
-<sup>3</sup> …[^40-4]
+<sup>3</sup> ...[^40-4]
 
-<sup>3bis</sup> …[^40-5]
+<sup>3bis</sup> ...[^40-5]
 
-<sup>4</sup> und <sup>5</sup> …[^40-6]
+<sup>4</sup> und <sup>5</sup> ...[^40-6]
 
 [^40-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1980, in Kraft seit 1. Jan. 1983 ([AS 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [BBl 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 [^40-2]: Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
@@ -716,7 +715,7 @@ Der Inhaber der Bewilligung darf unversteuertes, nicht denaturiertes Ethanol:
 
 <sup>3</sup> Zum Kleinhandel mit gebrannten Wassern können zugelassen werden Produzenten gebrannter Wasser[^41a-2], Betriebe des Gastgewerbes, einschliesslich der Verpflegungsdienste in Flugzeugen, Zügen und auf Schiffen, Betriebe des Wein- und Spirituosenhandels, Zollfreiläden, Apotheken und Drogerien sowie Geschäfte mit einem breiten Sortiment an Lebensmitteln, das auch alkoholfreie Getränke umfasst.
 
-<sup>4</sup> …[^41a-3]
+<sup>4</sup> ...[^41a-3]
 
 <sup>5</sup> Die Befugnis der Kantone, den Kleinhandel weiteren durch das öffentliche Wohl geforderten Beschränkungen zu unterwerfen, bleibt vorbehalten.
 
@@ -773,7 +772,7 @@ Wer Handel mit gebrannten Wassern betreibt, muss den zuständigen Kontrollorgane
 
 [^43-1]
 
-Die EZV fördert die Koordination unter den Kantonen in der Regelung des Kleinhandels.
+Das BAZG fördert die Koordination unter den Kantonen in der Regelung des Kleinhandels.
 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1980, in Kraft seit 1. Jan. 1983 ([AS 1982 694](https://fedlex.data.admin.ch/eli/oc/1982/694_694_694); [BBl 1979 I 53](https://fedlex.data.admin.ch/eli/fga/1979/1_53_57_53)).
 
@@ -789,7 +788,7 @@ Die EZV fördert die Koordination unter den Kantonen in der Regelung des Kleinha
 
 <sup>1</sup> Zur Verminderung des Verbrauchs gebrannter Wasser zu Trinkzwecken unterstützt der Bund durch Beiträge gesamtschweizerische und interkantonale Organisationen und Institutionen, die sich der Bekämpfung des Alkoholismus durch vorsorgliche Massnahmen widmen. Solche Beiträge können insbesondere für Aufklärung und Forschung gewährt werden.
 
-<sup>2</sup> Die Beiträge sind von der EZV auszurichten, in deren Voranschlag ein angemessener Gesamtbetrag aufgenommen wird. Die EZV kann die Verteilung der Beiträge ganz oder teilweise einer geeigneten Stelle übertragen.
+<sup>2</sup> Die Beiträge sind vom BAZG auszurichten, in dessen Voranschlag ein angemessener Gesamtbetrag aufgenommen wird. Das BAZG kann die Verteilung der Beiträge ganz oder teilweise einer geeigneten Stelle übertragen.
 
 <sup>3</sup> Die Ausrichtung von Beiträgen an die Bekämpfung des Alkoholismus durch die Kantone aus dem Alkoholzehntel bleibt vorbehalten.
 
@@ -856,16 +855,16 @@ Der Bund hat ein gesetzliches Pfandrecht an allen nach diesem Gesetz steuerpflic
 
 [^47-1]
 
-<sup>1</sup> Die EZV macht das Steuerpfandrecht geltend, indem sie die Ware beschlagnahmt.
+<sup>1</sup> Das BAZG macht das Steuerpfandrecht geltend, indem es die Ware beschlagnahmt.
 
 <sup>2</sup>
 
-Sie beschlagnahmt die Ware, indem sie:
+Es beschlagnahmt die Ware, indem es:
 
 - a. von ihr Besitz ergreift; oder
 - b. dem Besitzer verbietet, darüber zu verfügen.
 
-<sup>3</sup> Sie kann die beschlagnahmte Ware der berechtigten Person gegen Sicherstellung freigeben.
+<sup>3</sup> Es kann die beschlagnahmte Ware der berechtigten Person gegen Sicherstellung freigeben.
 
 [^47-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -886,7 +885,7 @@ Ein Steuerpfand kann verwertet werden, wenn:
 
 <sup>3</sup>
 
-Die EZV darf das Pfand nur mit dem Einverständnis des Pfandeigentümers freihändig verkaufen, es sei denn:
+Das BAZG darf das Pfand nur mit dem Einverständnis des Pfandeigentümers freihändig verkaufen, es sei denn:
 
 - a. das Pfand konnte nicht öffentlich versteigert werden; oder
 - b. der Pfandwert beträgt höchstens 1000 Franken und der Pfandeigentümer ist nicht bekannt.
@@ -897,8 +896,8 @@ Die EZV darf das Pfand nur mit dem Einverständnis des Pfandeigentümers freihä
 
 Er regelt:
 
-- a. unter welchen zusätzlichen Voraussetzungen die EZV das Pfand freihändig verkaufen kann;
-- b. die Fälle, in denen die EZV auf eine Zollpfandverwertung verzichten kann.
+- a. unter welchen zusätzlichen Voraussetzungen das BAZG das Pfand freihändig verkaufen kann;
+- b. die Fälle, in denen das BAZG auf eine Zollpfandverwertung verzichten kann.
 
 [^48-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1010,7 +1009,7 @@ Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:
 [^54-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^54-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
-### III. …
+### III. ...
 
 #### Art. 55
 
@@ -1070,7 +1069,7 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 
 [^58a-1]
 
-Wer von der EZV als Steuerpfand beschlagnahmte Spirituosen oder Ethanol, die in seinem Besitz belassen worden sind, vernichtet oder ohne Zustimmung der Behörde darüber verfügt, wird mit Busse bis zu 100 000 Franken bestraft. Handelt der Täter fahrlässig, so beträgt die Busse bis zu 30 000 Franken.
+Wer vom BAZG als Steuerpfand beschlagnahmte Spirituosen oder Ethanol, die in seinem Besitz belassen worden sind, vernichtet oder ohne Zustimmung der Behörde darüber verfügt, wird mit Busse bis zu 100 000 Franken bestraft. Handelt der Täter fahrlässig, so beträgt die Busse bis zu 30 000 Franken.
 
 [^58a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1084,7 +1083,7 @@ Wer von der EZV als Steuerpfand beschlagnahmte Spirituosen oder Ethanol, die in 
 
 <sup>1</sup> Das VStR[^59-2] findet Anwendung, soweit die Artikel 59*a*–63 nicht abweichende Bestimmungen aufstellen.
 
-<sup>2</sup> Verfolgende und urteilende Verwaltungsbehörde ist, unter Vorbehalt von Artikel 57 Absatz 5, die EZV.
+<sup>2</sup> Verfolgende und urteilende Verwaltungsbehörde ist, unter Vorbehalt von Artikel 57 Absatz 5, das BAZG.
 
 [^59-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^59-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1095,7 +1094,7 @@ Wer von der EZV als Steuerpfand beschlagnahmte Spirituosen oder Ethanol, die in 
 
 [^59a-1]
 
-Fällt eine Busse von höchstens 50 000 Franken in Betracht und können die nach Artikel 6 VStrR[^59a-2] strafbaren Personen nicht oder nur mit unverhältnismässigen Untersuchungsmassnahmen ermittelt werden, so kann die EZV von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb zur Bezahlung der Busse verurteilen.
+Fällt eine Busse von höchstens 50 000 Franken in Betracht und können die nach Artikel 6 VStrR[^59a-2] strafbaren Personen nicht oder nur mit unverhältnismässigen Untersuchungsmassnahmen ermittelt werden, so kann das BAZG von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb zur Bezahlung der Busse verurteilen.
 
 [^59a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^59a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
@@ -1106,7 +1105,7 @@ Fällt eine Busse von höchstens 50 000 Franken in Betracht und können die nach
 
 [^59b-1]
 
-Erfüllt eine Handlung gleichzeitig einen oder mehrere Straftatbestände nach diesem oder einem anderen Gesetz und werden diese Widerhandlungen alle von der EZV verfolgt und beurteilt, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
+Erfüllt eine Handlung gleichzeitig einen oder mehrere Straftatbestände nach diesem oder einem anderen Gesetz und werden diese Widerhandlungen alle vom BAZG verfolgt und beurteilt, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.
 
 [^59b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1131,9 +1130,9 @@ Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR[^60-2] gilt auch für 
 
 #### Art. 62
 
-<sup>1</sup> Auf die Entrichtung der Ersatzleistung für den fiskalischen Ausfall, den die EZV infolge einer Widerhandlung erlitten hat, gelten die Vorschriften des VStrR[^62-1] betreffend die Leistungs- und Rückleistungspflicht (Art. 12, 13 und 63) sinngemäss.
+<sup>1</sup> Auf die Entrichtung der Ersatzleistung für den fiskalischen Ausfall, den das BAZG infolge einer Widerhandlung erlitten hat, gelten die Vorschriften des VStrR[^62-1] betreffend die Leistungs- und Rückleistungspflicht (Art. 12, 13 und 63) sinngemäss.
 
-<sup>2</sup> Der fiskalische Ausfall wird von der EZV durch Verfügung im Verwaltungsverfahren geltend gemacht. Lässt er sich nicht genau ermitteln, so wird er mittels Schätzung festgelegt.[^62-2]
+<sup>2</sup> Der fiskalische Ausfall wird vom BAZG durch Verfügung im Verwaltungsverfahren geltend gemacht. Lässt er sich nicht genau ermitteln, so wird er mittels Schätzung festgelegt.[^62-2]
 
 <sup>3</sup> Hat jemand sich oder einem anderen zu Unrecht einen in der Alkoholgesetzgebung vorgesehenen Beitrag (Beihilfe) oder eine anderweitige Vergünstigung verschafft oder zu verschaffen versucht, so kann er oder der von ihm vertretene Geschäftsbetrieb während höchstens dreier Jahre vom Bezug von Beiträgen ausgeschlossen werden.[^62-3]
 
@@ -1147,7 +1146,7 @@ Die Verfolgungsverjährung nach Artikel 11 Absatz 2 VStrR[^60-2] gilt auch für 
 
 [^63-1]
 
-Wer der EZV durch eine Widerhandlung in anderer Weise einen Vermögensschaden zufügt, als dass er eine geschuldete Abgabe nicht entrichtet, einen Fiskalausfall bewirkt oder einen unrechtmässigen Beitrag (Beihilfe) erlangt, ist ihr, ohne Rücksicht auf die Strafverfolgung, zu angemessenem Schadenersatz verpflichtet. Der Betrag des Schadenersatzes wird durch die EZV festgesetzt.
+Wer dem BAZG durch eine Widerhandlung in anderer Weise einen Vermögensschaden zufügt, als dass er eine geschuldete Abgabe nicht entrichtet, einen Fiskalausfall bewirkt oder einen unrechtmässigen Beitrag (Beihilfe) erlangt, ist ihm, ohne Rücksicht auf die Strafverfolgung, zu angemessenem Schadenersatz verpflichtet. Der Betrag des Schadenersatzes wird durch das BAZG festgesetzt.
 
 [^63-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1165,7 +1164,7 @@ Wer der EZV durch eine Widerhandlung in anderer Weise einen Vermögensschaden zu
 
 <sup>1</sup> Die in diesem Gesetze vorgesehenen Abgaben werden mit ihrer Festsetzung vollstreckbar. Die Zahlungspflicht geht auf die Erben des Pflichtigen über, auch wenn die Abgabe noch nicht festgesetzt ist. Die Erben haften solidarisch für die Abgaben, jedoch nicht über den Betrag des Nachlasses hinaus. Ihnen stehen die nämlichen Beschwerden zu wie dem Erblasser.
 
-<sup>2</sup> …[^65-1]
+<sup>2</sup> ...[^65-1]
 
 [^65-1]: Aufgehoben durch Anhang Ziff. 11 VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
@@ -1181,7 +1180,7 @@ Wer der EZV durch eine Widerhandlung in anderer Weise einen Vermögensschaden zu
 
 <sup>2</sup> Die rechtskräftig gewordenen Verfügungen und Entscheide der Verwaltungsbehörden, die eine Forderung feststellen, stehen einem vollstreckbaren gerichtlichen Urteil im Sinne des Artikels 80 des Schuldbetreibungs- und Konkursgesetzes (SchKG)[^66-1] gleich.
 
-<sup>3</sup> …[^66-2]
+<sup>3</sup> ...[^66-2]
 
 [^66-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^66-2]: Aufgehoben durch Anhang Ziff. 11 VStrR, mit Wirkung seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
@@ -1194,7 +1193,7 @@ Wer der EZV durch eine Widerhandlung in anderer Weise einen Vermögensschaden zu
 
 <sup>1</sup>
 
-Die EZV kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie rechtskräftig festgesetzt oder fällig sind, sicherstellen lassen, wenn:
+Das BAZG kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie rechtskräftig festgesetzt oder fällig sind, sicherstellen lassen, wenn:
 
 - a. die Forderungen nicht durch ein ausreichendes und verwertbares Steuerpfand gesichert sind; und
 - b.
@@ -1215,7 +1214,7 @@ Die EZV kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie rec
 [^67-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 [^67-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### IV. …
+### IV. ...
 
 #### Art. 68
 
@@ -1227,17 +1226,17 @@ Die EZV kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie rec
 
 #### Art. 69
 
-<sup>1</sup> Wer irrtümlicherweise oder infolge Betreibung eine nicht geschuldete Abgabe entrichtet hat, kann diese Abgabe innert Jahresfrist seit der Zahlung von der EZV ganz oder teilweise zurückfordern, sofern die Schuldpflicht nicht durch rechtskräftigen Entscheid festgestellt ist.
+<sup>1</sup> Wer irrtümlicherweise oder infolge Betreibung eine nicht geschuldete Abgabe entrichtet hat, kann diese Abgabe innert Jahresfrist seit der Zahlung vom BAZG ganz oder teilweise zurückfordern, sofern die Schuldpflicht nicht durch rechtskräftigen Entscheid festgestellt ist.
 
-<sup>2</sup> Ist infolge Irrtums eine geschuldete Abgabe gar nicht oder zu niedrig festgesetzt worden, so kann die EZV den entgangenen Betrag innert Jahresfrist seit Eintritt der Abgabepflicht oder seit der Festsetzung nachfordern. Ebenso kann sie den Betrag, der zu viel zurückvergütet worden ist, innert Jahresfrist seit der Vergütung zurückfordern.
+<sup>2</sup> Ist infolge Irrtums eine geschuldete Abgabe gar nicht oder zu niedrig festgesetzt worden, so kann das BAZG den entgangenen Betrag innert Jahresfrist seit Eintritt der Abgabepflicht oder seit der Festsetzung nachfordern. Ebenso kann es den Betrag, der zu viel zurückvergütet worden ist, innert Jahresfrist seit der Vergütung zurückfordern.
 
-<sup>3</sup> Eine Abgabe oder Busse kann durch die EZV ganz oder teilweise gestundet oder erlassen werden, wenn besondere Verhältnisse die Eintreibung für den Zahlungspflichtigen als grosse Härte erscheinen liessen.
+<sup>3</sup> Eine Abgabe oder Busse kann durch das BAZG ganz oder teilweise gestundet oder erlassen werden, wenn besondere Verhältnisse die Eintreibung für den Zahlungspflichtigen als grosse Härte erscheinen liessen.
 
 <sup>4</sup> Eine Stundung kann namentlich für die Steuer auf Spezialitätenbrand unter Berücksichtigung der Absatzverhältnisse für diese gebrannten Wasser gewährt werden.
 
 <sup>5</sup> Eine Abgabe wird dem Abgabepflichtigen, welcher der Aufzeichnungspflicht nach diesem Gesetz untersteht, erlassen oder rückvergütet, wenn er nachweist, dass die mit der Abgabe belastete Ware untergegangen ist.[^69-1]
 
-<sup>6</sup> Eine Abgabe wird dem Abgabepflichtigen erlassen oder rückvergütet, wenn die Ware innert fünf Jahren seit Eintritt der Abgabepflicht unter Kontrolle der EZV vernichtet wird.[^69-2]
+<sup>6</sup> Eine Abgabe wird dem Abgabepflichtigen erlassen oder rückvergütet, wenn die Ware innert fünf Jahren seit Eintritt der Abgabepflicht unter Kontrolle des BAZG vernichtet wird.[^69-2]
 
 [^69-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^69-2]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
@@ -1256,7 +1255,7 @@ Die EZV kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie rec
 
 <sup>1</sup> Der Bundesrat sorgt für die Durchführung dieses Gesetzes. Er erlässt alle erforderlichen Bestimmungen und Weisungen, soweit deren Erlass nicht andern Behörden übertragen ist.
 
-<sup>2</sup> Das Eidgenössische Finanzdepartement stellt dem Bundesrat Antrag und vollzieht dessen Beschlüsse.[^70-1] Es überwacht die Amtsführung der EZV und erlässt die ihm durch dieses Gesetz übertragenen Verfügungen und Entscheidungen.
+<sup>2</sup> Das Eidgenössische Finanzdepartement stellt dem Bundesrat Antrag und vollzieht dessen Beschlüsse.[^70-1] Es überwacht die Amtsführung des BAZG und erlässt die ihm durch dieses Gesetz übertragenen Verfügungen und Entscheidungen.
 
 [^70-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 
@@ -1274,11 +1273,11 @@ Die EZV kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie rec
 
 <sup>4</sup> Die EAV ist von jeder Besteuerung durch Bund, Kantone oder Gemeinden befreit, soweit es sich nicht um Steuern für Grundeigentum handelt, das mit dem Geschäftsbetrieb der EAV keine unmittelbaren Beziehungen hat.
 
-<sup>5</sup> …[^71-5]
+<sup>5</sup> ...[^71-5]
 
 <sup>6</sup> Für die Ausübung der Kontrolle der konzessionspflichtigen Brennereien und der Aufsicht über die Hausbrennerei, für die Übernahme gebrannter Wasser oder die Mitwirkung dabei sowie für die Veranlagung und Erhebung der Steuer auf Spezialitätenbrand werden von der EAV örtliche Brennereiaufsichtstellen geschaffen. Der Bundesrat wird die Aufgabe und die Verantwortlichkeit dieser Organe sowie die Entschädigung für ihren Mühewalt festsetzen. Die Kosten trägt die EAV.
 
-<sup>7</sup> …[^71-6]
+<sup>7</sup> ...[^71-6]
 
 [^71-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 379](https://fedlex.data.admin.ch/eli/oc/1997/379_379_379); [BBl 1996 I 369](https://fedlex.data.admin.ch/eli/fga/1996/1_369_341_329)).
 [^71-2]: [BS **1** 489; [AS 1958 1413](https://fedlex.data.admin.ch/eli/oc/1958/1413_1483_1489)Art. 27 Bst. c, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 4, [2000 411](https://fedlex.data.admin.ch/eli/oc/2000/90)Ziff. II [1853](https://fedlex.data.admin.ch/eli/oc/2000/284), [2001 894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 39 Abs. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2001/318)Art. 2 [3292](https://fedlex.data.admin.ch/eli/oc/2001/489)Art. 2. [AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. I 1]. Siehe heute: das Bundespersonalgesetz vom 24. März 2000 ([SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)).
@@ -1293,7 +1292,7 @@ Die EZV kann Steuern und sonstige Geldforderungen, unabhängig davon, ob sie rec
 
 [^72-1]
 
-Die EZV führt ein öffentliches Register der Inhaber von Bewilligungen nach den Artikeln 32 und 34.
+Das BAZG führt ein öffentliches Register der Inhaber von Bewilligungen nach den Artikeln 32 und 34.
 
 [^72-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 777](https://fedlex.data.admin.ch/eli/oc/2017/149)[5159](https://fedlex.data.admin.ch/eli/oc/2017/567); [BBl 2016 3649](https://fedlex.data.admin.ch/eli/fga/2016/709)).
 
@@ -1301,14 +1300,14 @@ Die EZV führt ein öffentliches Register der Inhaber von Bewilligungen nach den
 
 #### Art. 73
 
-<sup>1</sup> Der Bundesrat kann mit der Durchführung bestimmter Aufgaben auch andere Verwaltungsabteilungen des Bundes sowie die Behörden der Kantone und Gemeinden beauftragen. Er setzt die Kostenbeiträge fest, welche die EZV dafür zu leisten hat. …[^73-1].[^73-2]
+<sup>1</sup> Der Bundesrat kann mit der Durchführung bestimmter Aufgaben auch andere Verwaltungsabteilungen des Bundes sowie die Behörden der Kantone und Gemeinden beauftragen. Er setzt die Kostenbeiträge fest, welche das BAZG dafür zu leisten hat. ...[^73-1].[^73-2]
 
-<sup>2</sup> Überdies haben die Amtsstellen des Bundes, der Kantone, Bezirke, Kreise und Gemeinden im Rahmen ihres Wirkungskreises die EZV bei der Durchführung ihrer Aufgaben zu unterstützen. Insbesondere haben sie Widerhandlungen, die ihnen amtlich zur Kenntnis gelangen, der EZV anzuzeigen und dieser bei der Feststellung des Tatbestandes und der Verfolgung des Täters beizustehen.
+<sup>2</sup> Überdies haben die Amtsstellen des Bundes, der Kantone, Bezirke, Kreise und Gemeinden im Rahmen ihres Wirkungskreises das BAZG bei der Durchführung ihrer Aufgaben zu unterstützen. Insbesondere haben sie Widerhandlungen, die ihnen amtlich zur Kenntnis gelangen, dem BAZG anzuzeigen und diesem bei der Feststellung des Tatbestandes und der Verfolgung des Täters beizustehen.
 
 [^73-1]: Dritter Satz aufgehoben durch Ziff. II 13 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^73-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1969, in Kraft seit 1. April 1970 ([AS 1970 529](https://fedlex.data.admin.ch/eli/oc/1970/529_529_529); [BBl 1969 I 995](https://fedlex.data.admin.ch/eli/fga/1969/1_995__)).
 
-### II. …
+### II. ...
 
 #### Art. 74
 
@@ -1328,11 +1327,11 @@ Die Beamten und Angestellten des Bundes sowie alle andern mit der Durchführung 
 
 #### Art. 76
 
-<sup>1</sup> Alle aus der Alkoholgesetzgebung des Bundes herrührenden Rechte und Verpflichtungen richten sich nach den Vorschriften dieses Gesetzes. …[^76-1]
+<sup>1</sup> Alle aus der Alkoholgesetzgebung des Bundes herrührenden Rechte und Verpflichtungen richten sich nach den Vorschriften dieses Gesetzes. ...[^76-1]
 
 <sup>2</sup> Die aus der Anwendung von Artikel 18 des Bundesgesetzes vom 23. Dezember 1886[^76-2] betreffend gebrannte Wasser und die seither durch Abfindung von Losbrennereien entstandenen Rechtsverhältnisse bleiben bestehen.
 
-<sup>3</sup> Für die Durchführung der behördlichen Obliegenheiten gilt vom Zeitpunkt des Inkrafttretens dieses Gesetzes das darin vorgeschriebene Verfahren. …[^76-3]
+<sup>3</sup> Für die Durchführung der behördlichen Obliegenheiten gilt vom Zeitpunkt des Inkrafttretens dieses Gesetzes das darin vorgeschriebene Verfahren. ...[^76-3]
 
 <sup>4</sup> Beim Inkrafttreten dieses Gesetzes werden die verfügbaren Reserven der EAV gemäss Artikel 22 des Bundesgesetzes vom 29. Juni 1900[^76-4] über gebrannte Wasser unter die Kantone verteilt. Der Betrag wird durch Bundesbeschluss festgesetzt. Das übrige Vermögen gilt als Betriebsfonds der EAV.
 
@@ -1355,7 +1354,7 @@ Die Beamten und Angestellten des Bundes sowie alle andern mit der Durchführung 
 
 ### I*b*. Übergangsbestimmungen zur Änderung vom 30. September 2016
 
-### 1. …
+### 1. ...
 
 #### Art. 76b
 
@@ -1427,7 +1426,7 @@ Der Bundesrat wird ermächtigt, aus dem Vermögen der EAV die Finanzierung der A
 
 [^76f-1]
 
-<sup>1</sup> Inhaber einer Bewilligung zur Verwendung von fiskalisch nicht belastetem Ethanol nach bisherigem Recht müssen bis spätestens drei Monate nach Inkrafttreten der Änderung vom 30. September 2016 bei der EZV um eine neue Verwendungsbewilligung nachsuchen.
+<sup>1</sup> Inhaber einer Bewilligung zur Verwendung von fiskalisch nicht belastetem Ethanol nach bisherigem Recht müssen bis spätestens drei Monate nach Inkrafttreten der Änderung vom 30. September 2016 beim BAZG um eine neue Verwendungsbewilligung nachsuchen.
 
 <sup>2</sup> Zum Zeitpunkt der Ausstellung der Verwendungsbewilligung werden deren Inhaber in das Ethanolregister nach Artikel 72 eingetragen.
 
