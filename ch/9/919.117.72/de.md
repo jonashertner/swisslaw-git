@@ -4,11 +4,11 @@ title: "Verordnung vom 30. Oktober 2002 über die Ausdehnung der Selbsthilfemass
 short: VBPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/703"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2002-10-30
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2002-703-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-703-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20200101/de"
 
 (Verordnung über die Branchen- und Produzentenorganisationen, VBPO**[^t-1]**)
 
-vom 30. Oktober 2002 (Stand am 1. Januar 2020)
+vom 30. Oktober 2002 (Stand am 1. Januar 2022)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5581](https://fedlex.data.admin.ch/eli/oc/2005/759)).
 
@@ -221,7 +221,7 @@ Die Branchen- und Produzentenorganisationen, deren Selbsthilfemassnahmen ausgede
 
 Die Verordnung vom 7. Dezember 1998[^15-1] über die Branchen- und Produzentenorganisationen wird aufgehoben.
 
-[^15-1]: [[AS 1999 459](https://fedlex.data.admin.ch/eli/oc/1999/57), [2000 2239](https://fedlex.data.admin.ch/eli/oc/2000/354), [2001 3574](https://fedlex.data.admin.ch/eli/oc/2001/532)]
+[^15-1]: [[AS 1999 459](https://fedlex.data.admin.ch/eli/oc/1999/57); [2000 2239](https://fedlex.data.admin.ch/eli/oc/2000/354); [2001 3574](https://fedlex.data.admin.ch/eli/oc/2001/532)]
 
 #### Art. 16
 
@@ -247,7 +247,7 @@ Anhang 2*[^t-3]*
 
 ## A. Produzentenorganisation Schweizer Milchproduzenten
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2007 ([AS 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), Ziff. I der V vom 25. Febr. 2009 ([AS 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), vom 18. Nov. 2009 ([AS 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), vom 25. Mai 2011 ([AS 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), Ziff. I der V vom 23. Mai 2012 ([AS 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), vom 23. Okt. 2013 ([AS 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)), vom 11. Dez. 2015 ([AS 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)) und vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2007 ([AS 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), Ziff. I der V vom 25. Febr. 2009 ([AS 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), vom 18. Nov. 2009 ([AS 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), vom 25. Mai 2011 ([AS 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), Ziff. I der V vom 23. Mai 2012 ([AS 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), vom 23. Okt. 2013 ([AS 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)), vom 11. Dez. 2015 ([AS 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)), vom 13. Nov. 2019 ([AS 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)) und vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 853](https://fedlex.data.admin.ch/eli/oc/2021/853)).
 
 ### 1. Höhe des Beitrages
 
@@ -276,7 +276,7 @@ Die Administrationsstelle nach Artikel 12 der Milchpreisstützungsverordnung vom
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2021.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
 
 ## B. Produzentenorganisation Schweizer Bauernverband
 
@@ -293,7 +293,7 @@ Nichtmitglieder müssen folgende Beiträge an den Schweizer Bauernverband (SBV) 
 
 Die gemäss Ziffer 1 geleisteten Beiträge müssen für die Marketing-Kommunikation Schweizer Landwirtschaft gestützt auf Artikel 1 der Landwirtschaftlichen Absatzförderungsverordnung vom 7. Dezember 1998[^annex2-lvlB-lvl2-1] eingesetzt werden.
 
-[^annex2-lvlB-lvl2-1]: [[AS 1998 3205](https://fedlex.data.admin.ch/eli/oc/1998/3205_3205_3205), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 23, [2002 4311](https://fedlex.data.admin.ch/eli/oc/2002/697), [2003 5415](https://fedlex.data.admin.ch/eli/oc/2003/785). [AS 2006 2695](https://fedlex.data.admin.ch/eli/oc/2006/416)Art. 19]. Siehe heute: die V vom 9. Juni 2006 ([SR 916.010](https://fedlex.data.admin.ch/eli/cc/2006/416)).
+[^annex2-lvlB-lvl2-1]: [[AS 1998 3205](https://fedlex.data.admin.ch/eli/oc/1998/3205_3205_3205); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 23; [2002 4311](https://fedlex.data.admin.ch/eli/oc/2002/697); [2003 5415](https://fedlex.data.admin.ch/eli/oc/2003/785). [AS 2006 2695](https://fedlex.data.admin.ch/eli/oc/2006/416)Art. 19]. Siehe heute: die V vom 9. Juni 2006 ([SR 916.010](https://fedlex.data.admin.ch/eli/cc/2006/416)).
 
 ### 3. Weitergabe von Daten
 
@@ -301,7 +301,7 @@ Das Bundesamt übermittelt dem SBV auf Anfrage die Adressen der Tierhalter sowie
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2021.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
 
 ## C. Produzentenorganisation GalloSuisse
 
@@ -327,7 +327,7 @@ Das Bundesamt übermittelt dem GalloSuisse auf Anfrage folgende Daten:
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2021.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
 
 ## D. Branchenorganisation Emmentaler Switzerland
 
@@ -359,7 +359,7 @@ Die Administrationsstelle nach Artikel 12 MSV übermittelt der ES auf Anfrage fo
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2021.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
 
 ## E. Branchenorganisation Interprofession du Vacherin Fribourgeois
 
@@ -389,7 +389,7 @@ Die Administrationsstelle nach Artikel 12 MSV übermittelt der IPVF auf Anfrage 
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2021.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
 
 ## F. Branchenverband Schweizer Reben und Weine
 

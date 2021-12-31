@@ -4,11 +4,11 @@ title: "Ordinanza del 30 ottobre 2002 concernente l'estensione delle misure di s
 short: OOCOP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/703"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2002-10-30
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2002-703-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-703-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20200101/it"
 
 (Ordinanza sulle organizzazioni di categoria e sulle organizzazioni di produttori, OOCOP)
 
-del 30 ottobre 2002 (Stato 1° gennaio 2020)
+del 30 ottobre 2002 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -243,7 +243,7 @@ Allegato 2*[^t-2]*
 
 ## A. Organizzazione di produttori Produttori Svizzeri di Latte
 
-[^t-2]: Aggiornato dal n. II dell’O del 14 nov. 2007 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), dai n. I delle O del 25 feb. 2009 ([RU 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), del 18 nov. 2009 ([RU 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), del 25 mag. 2011 ([RU 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), dal n. II dell’O del 26 ott. 2011 ([RU 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), dal n. I delle O del 23 mag. 2012 ([RU 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), del 23 ott. 2013 ([RU 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)), dell’11 dic. 2015 ([RU 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), dal n. II dell’O del 22 nov. 2017 ([RU 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), dal n. I delle O del 30 nov. 2018 ([RU 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)) e del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)).
+[^t-2]: Aggiornato dal n. II dell’O del 14 nov. 2007 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), dai n. I delle O del 25 feb. 2009 ([RU 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), del 18 nov. 2009 ([RU 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), del 25 mag. 2011 ([RU 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), dal n. II dell’O del 26 ott. 2011 ([RU 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), dal n. I delle O del 23 mag. 2012 ([RU 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), del 23 ott. 2013 ([RU 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)), dell’11 dic. 2015 ([RU 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), dal n. II dell’O del 22 nov. 2017 ([RU 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), dal n. I delle O del 30 nov. 2018 ([RU 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)), del 13 nov. 2019 ([RU 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)) e del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 853](https://fedlex.data.admin.ch/eli/oc/2021/853)).
 
 ### 1. Importo del contributo
 
@@ -272,7 +272,7 @@ Il servizio d’amministrazione ai sensi dell’articolo 12 dell’ordinanza del
 
 ### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2021.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
 
 ## B. Organizzazione di produttori Unione svizzera dei contadini
 
@@ -297,7 +297,7 @@ L’Ufficio federale trasmette su richiesta all’USC gli indirizzi dei detentor
 
 ### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2021.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
 
 ## C. Organizzazione di produttori GalloSuisse
 
@@ -323,7 +323,7 @@ L’Ufficio federale trasmette a GalloSuisse, su richiesta, i seguenti dati:
 
 ### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2021.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
 
 ## D. Organizzazione di categoria Emmentaler Switzerland
 
@@ -355,7 +355,7 @@ Il servizio d’amministrazione ai sensi dell’articolo 12 OSL trasmette all’
 
 \4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2021.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
 
 ## E. Organizzazione di categoria Interprofession du Vacherin Fribourgeois
 
@@ -385,7 +385,7 @@ Il servizio d’amministrazione ai sensi dell’articolo 12 OSL trasmette all’
 
 ### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2021.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
 
 ## F. Organizzazione di categoria Interprofessione della vite e del vino svizzeri
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 30 octobre 2002 sur l'extension des mesures d'entraide des
 short: OIOP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/703"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2002-10-30
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-703-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-703-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20200101/fr"
 
 (Ordonnance sur les interprofessions et les organisations de producteurs, OIOP)
 
-du 30 octobre 2002 (Etat le 1<sup>er</sup> janvier 2020)
+du 30 octobre 2002 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -243,7 +243,7 @@ Annexe 2*[^t-2]*
 
 ## A. Organisation de producteurs Producteurs Suisses de Lait
 
-[^t-2]: Mise à jour selon le ch. II de l’O du 14 nov. 2007 ([RO 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), le ch. I des O du 25 fév. 2009 ([RO 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), du 18 nov. 2009 ([RO 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), du 25 mai 2011 ([RO 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), le ch. II de l’O du 26 oct. 2011 ([RO 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), le ch. I des O du 23 mai 2012 ([RO 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), du 23 oct. 2013 ([RO 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)) ), du 11 déc. 2015 ([RO 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), le ch. II de l’O du 22 nov. 2017 ([RO 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), le ch. I des O du 30 nov. 2018 ([RO 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)) et du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)).
+[^t-2]: Mise à jour selon le ch. II de l’O du 14 nov. 2007 ([RO 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), le ch. I des O du 25 fév. 2009 ([RO 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), du 18 nov. 2009 ([RO 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), du 25 mai 2011 ([RO 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), le ch. II de l’O du 26 oct. 2011 ([RO 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), le ch. I des O du 23 mai 2012 ([RO 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), du 23 oct. 2013 ([RO 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)) ), du 11 déc. 2015 ([RO 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), le ch. II de l’O du 22 nov. 2017 ([RO 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), le ch. I des O du 30 nov. 2018 ([RO 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)), du 13 nov. 2019 ([RO 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)) et du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 853](https://fedlex.data.admin.ch/eli/oc/2021/853)).
 
 ### 1. Montant des contributions
 
@@ -272,7 +272,7 @@ Le Service administratif visé à l’art. 12 de l’ordonnance du 25 juin 2008 
 
 ### 4. Durée de validité
 
-L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2021.
+L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2025.
 
 ## B. Organisation de producteurs Union suisse des paysans
 
@@ -297,7 +297,7 @@ L’office transmet sur demande à l’USP les adresses des détenteurs de béta
 
 ### 4. Durée de validité
 
-L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2021.
+L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2025.
 
 ## C. Organisation de producteurs GalloSuisse
 
@@ -323,7 +323,7 @@ L’office transmet sur demande à GalloSuisse les données suivantes:
 
 ### 4. Durée de validité
 
-L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2021.
+L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2025.
 
 ## D. Interprofession Emmentaler Switzerland
 
@@ -355,7 +355,7 @@ Le Service administratif visé à l’art. 12 OSL transmet sur demande à ES les
 
 ### 4. Durée de validité
 
-L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2021.
+L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2025.
 
 ## E. Interprofession du Vacherin Fribourgeois
 
@@ -385,7 +385,7 @@ Le Service administratif visé à l’art. 12 OSL transmet sur demande à l’IP
 
 ### 4. Durée de validité
 
-L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2021.
+L’obligation des non-membres de payer des contributions s’applique jusqu’au 31 décembre 2025.
 
 ## F. Interprofession de la vigne et des vins suisses
 
