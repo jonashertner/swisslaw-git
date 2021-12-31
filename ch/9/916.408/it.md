@@ -4,11 +4,11 @@ title: "Ordinanza del 6 giugno 2014 concernente i sistemi d&#700;informazione pe
 short: O-SISVet
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/325"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2014-06-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-325-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-325-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/it"
 
 (O-SISVet)
 
-del 6 giugno 2014 (Stato 1° aprile 2021)
+del 6 giugno 2014 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,7 @@ Si intendono per:
 
 #### Art. 3
 
-**Compiti dell’USAV e dell’UFAG**[^3-1]
+**Compiti dell’USAV[^3-2]**[^3-1]
 
 <sup>1</sup>
 
@@ -88,11 +88,14 @@ L’USAV:
 - c. emana le direttive tecniche di cui all’articolo 30;
 - d. conclude accordi di utilizzazione con i Cantoni;
 - e. allestisce il preventivo annuo e il conto annuale per ASAN e ALIS;
-- f. conclude per ASAN e ALIS accordi con i fornitori di prestazioni che mettono a disposizione l’infrastruttura e i servizi informatici;
+- f.[^3-3] conclude per ASAN, ALIS e Fleko accordi con i fornitori di prestazioni che mettono a disposizione l’infrastruttura e i servizi informatici.
 
-<sup>2</sup> L’UFAG conclude per Fleko l’accordo con i fornitori di prestazioni che mettono a disposizione l’infrastruttura e i servizi informatici.
+<sup>2</sup> ...[^3-4]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^3-2]: Nuovo testo giusta l’all. 3 n. II 11 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2021 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-3]: Nuovo testo giusta l’all. 3 n. II 11 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2021 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-4]: Abrogato dall’all. 3 n. II 11 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, con effetto dal 1° gen. 2021 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
 
@@ -205,21 +208,22 @@ I dati di ASAN sono accessibili per il tramite dei sistemi dʼinformazione segue
 
 - a. sistema dʼinformazione per i dati su aziende, strutture e contributi (AGIS/SIPA) secondo gli articoli 2–5 OSIAgr[^12-1];
 - b. Acontrol;
-- c. banca dati sul traffico di animali (BDTA) secondo lʼordinanza del 26 ottobre 2011[^12-2] sulla BDTA;
+- c.[^12-2] banca dati sul traffico di animali (BDTA) secondo lʼordinanza del 3 novembre 2021[^12-3] concernente Identitas AG e la banca dati sul traffico di animali (OIBDTA);
 - d. portale Internet Agate secondo gli articoli 20–22 OSIAgr;
-- e. Registro delle imprese e degli stabilimenti (RIS) secondo lʼordinanza del 30 giugno 1993[^12-3] sul Registro delle imprese e degli stabilimenti;
+- e. Registro delle imprese e degli stabilimenti (RIS) secondo lʼordinanza del 30 giugno 1993[^12-4] sul Registro delle imprese e degli stabilimenti;
 - f. sistema dʼinformazione geografica (SIG) secondo gli articoli 10–13 OSIAgr;
 - g. banca dati centrale secondo lʼarticolo 30 capoverso 2 LFE (banca dati sui cani);
 - h. ALIS;
-- i.[^12-4] sistema d’informazione sugli antibiotici nella medicina veterinaria (SI AMV) secondo l’ordinanza del 31 ottobre 2018[^12-5] concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria;
-- j.[^12-6] Fleko.
+- i.[^12-5] sistema d’informazione sugli antibiotici nella medicina veterinaria (SI AMV) secondo l’ordinanza del 31 ottobre 2018[^12-6] concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria;
+- j.[^12-7] Fleko.
 
 [^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^12-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^12-3]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^12-4]: Introdotta dal n. 3 dell’art. 20 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, in vigore dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
-[^12-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^12-6]: Introdotta dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^12-2]: Nuovo testo giusta l’all. 3 n. II 11 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2021 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^12-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^12-4]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^12-5]: Introdotta dal n. 3 dell’art. 20 dell’O del 31 ott. 2018 concernente il sistema d’informazione sugli antibiotici nella medicina veterinaria, in vigore dal 1° gen. 2019 ([RU 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+[^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-7]: Introdotta dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
 #### Art. 13
 
@@ -312,12 +316,13 @@ Se i compiti di cui allʼarticolo 4 lo esigono, le seguenti persone hanno access
 
 I dati di ALIS sono accessibili per il tramite dei sistemi dʼinformazione seguenti:
 
-- a. banca dati sul traffico di animali (BDTA) secondo lʼordinanza del 26 ottobre 2011[^20-1] BDTA;
-- b. portale Internet Agate secondo gli articoli 20–22 OSIAgr [^20-2];
+- a.[^20-1] BDTA secondo lʼOIBDTA[^20-2];
+- b. portale Internet Agate secondo gli articoli 20–22 OSIAgr [^20-3];
 - c. ASAN.
 
-[^20-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^20-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^20-1]: Nuovo testo giusta l’all. 3 n. II 11 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2021 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^20-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^20-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 ## Sezione 3*a*:**** Sistema d’informazione sui risultati del controllo degli animali da macello e del controllo delle carni
 
@@ -391,9 +396,9 @@ Se i compiti di cui allʼarticolo 4 lo esigono, gli amministratori di Fleko poss
 
 **Accesso da parte di macelli, altri detentori di animali e altri soggetti autorizzati**[^20fbis-1]
 
-I macelli, altri detentori di animali e altri soggetti autorizzati possono consultare i dati sui risultati dei controlli degli animali da macello e del controllo delle carni in riferimento alla loro commestibilità nella banca dati sul traffico di animali (BDTA) di cui all’ordinanza BDTA del 26 ottobre 2011[^20fbis-2]. I diritti di accesso sono retti dall’articolo 16 dell’ordinanza BDTA.
+L’accesso dei macelli, di altri detentori di animali e di altri soggetti autorizzati è retto dall’OIBDTA[^20fbis-2].
 
-[^20fbis-1]: Introdotto dal n. II 2 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^20fbis-1]: Introdotto dal n. II 2 dell’O del 27 mag. 2020 ([RU 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Nuovo testo giusta l’all. 3 n. II 11 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2021 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^20fbis-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 
 #### Art. 20g

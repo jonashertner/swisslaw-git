@@ -4,11 +4,11 @@ title: Verordnung vom 6. Juni 2014 über die Informationssysteme für den öffen
 short: ISVet-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/325"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2014-06-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-325-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-325-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/de"
 
 (ISVet-V)
 
-vom 6. Juni 2014 (Stand am 1. April 2021)
+vom 6. Juni 2014 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -77,7 +77,7 @@ Die folgenden Ausdrücke bedeuten:
 
 #### Art. 3
 
-**Aufgaben des BLV und des BLW**[^3-1]
+**Aufgaben des BLV[^3-2]**[^3-1]
 
 <sup>1</sup>
 
@@ -88,11 +88,14 @@ Das BLV:
 - c. erlässt technische Weisungen nach Artikel 30;
 - d. schliesst Nutzungsvereinbarungen mit den Kantonen ab;
 - e. erstellt das Jahresbudget und die Jahresrechnung für ASAN und ALIS;
-- f. schliesst für ASAN und ALIS Vereinbarungen mit den Leistungserbringern ab, welche die Infrastruktur und die Informatikdienstleistungen bereitstellen.
+- f.[^3-3] schliesst für ASAN, ALIS und Fleko Vereinbarungen mit den Leistungserbringern ab, welche die Infrastruktur und die Informatikdienstleistungen bereitstellen.
 
-<sup>2</sup> Das BLW schliesst für Fleko die Vereinbarung mit dem Leistungserbringer ab, der die Infrastruktur und die Informatikdienstleistungen bereitstellt.
+<sup>2</sup> …[^3-4]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^3-2]: Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-3]: Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-4]: Aufgehoben durch Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, mit Wirkung seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
 
@@ -206,21 +209,22 @@ Die Daten von ASAN können aus folgenden Informationssystemen bezogen werden:
 
 - a. Informationssystem für Betriebs-, Struktur- und Beitragsdaten (AGIS) nach den Artikeln 2–5 ISLV[^12-1];
 - b. Acontrol;
-- c. Tierverkehrsdatenbank (TVD) nach der TVD-Verordnung vom 26. Oktober 2011[^12-2];
+- c.[^12-2] Tierverkehrsdatenbank (TVD) nach der Verordnung vom 3. November 2021[^12-3] über die Identitas AG und die Tierverkehrsdatenbank (IdTVD-V);
 - d. Internetportal Agate nach den Artikeln 20–22 ISLV;
-- e. Betriebs- und Unternehmensregister (BUR) nach der Verordnung vom 30. Juni 1993[^12-3] über das Betriebs- und Unternehmensregister;
+- e. Betriebs- und Unternehmensregister (BUR) nach der Verordnung vom 30. Juni 1993[^12-4] über das Betriebs- und Unternehmensregister;
 - f. Geografisches Informationssystem (GIS) nach den Artikeln 10–13 ISLV;
 - g. Zentrale Datenbank nach Artikel 30 Absatz 2 TSG (Hundedatenbank);
 - h. ALIS;
-- i.[^12-4] Informationssystem Antibiotika in der Veterinärmedizin (IS ABV) nach der Verordnung vom 31. Oktober 2018[^12-5] über das Informationssystem Antibiotika in der Veterinärmedizin;
-- j.[^12-6] Fleko.
+- i.[^12-5] Informationssystem Antibiotika in der Veterinärmedizin (IS ABV) nach der Verordnung vom 31. Oktober 2018[^12-6] über das Informationssystem Antibiotika in der Veterinärmedizin;
+- j.[^12-7] Fleko.
 
 [^12-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^12-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^12-3]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^12-4]: Eingefügt durch Art. 20 Ziff. 3 der V vom 31. Okt. 2018 über das Informationssystem Antibiotika in der Veterinärmedizin, in Kraft seit 1. Jan. 2019 ([AS 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
-[^12-5]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^12-6]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^12-2]: Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^12-3]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^12-4]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^12-5]: Eingefügt durch Art. 20 Ziff. 3 der V vom 31. Okt. 2018 über das Informationssystem Antibiotika in der Veterinärmedizin, in Kraft seit 1. Jan. 2019 ([AS 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+[^12-6]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-7]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
 #### Art. 13
 
@@ -313,12 +317,13 @@ Soweit es die Aufgaben nach Artikel 4 erfordern, haben die folgenden Personen on
 
 Die Daten von ALIS können aus folgenden Informationssystemen bezogen werden:
 
-- a. Tierverkehrsdatenbank (TVD) nach der TVD-Verordnung vom 26. Oktober 2011[^20-1];
-- b. Internetportal Agate nach den Artikeln 20–22 ISLV[^20-2];
+- a.[^20-1] TVD nach der IdTVD-V[^20-2];
+- b. Internetportal Agate nach den Artikeln 20–22 ISLV[^20-3];
 - c. ASAN.
 
-[^20-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^20-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^20-1]: Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^20-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^20-3]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 ## 3*a*. Abschnitt:**** Informationssystem über die Ergebnisse der Schlachttier- und Fleischuntersuchungen
 
@@ -392,9 +397,9 @@ Soweit es die Aufgaben nach Artikel 4 erfordern, haben die Administratorinnen un
 
 **Zugriff durch die Schlachtbetriebe, andere Tierhalterinnen und Tierhalter und weitere Berechtigte**[^20fbis-1]
 
-Die Schlachtbetriebe, andere Tierhalterinnen und Tierhalter und weitere Berechtigte können die Daten zu den Ergebnissen der Schlachttieruntersuchung und der Fleischuntersuchung, die die Genusstauglichkeit betreffen, in der Tierverkehrsdatenbank (TVD) nach der TVD-Verordnung vom 26. Oktober 2011[^20fbis-2] abrufen. Die Zugriffsrechte richten sich nach Artikel 16 der TVD-Verordnung.
+Der Zugriff der Schlachtbetriebe, anderer Tierhalterinnen und Tierhalter und weiterer Berechtigter richtet sich nach der IdTVD-V[^20fbis-2].
 
-[^20fbis-1]: Eingefügt durch Ziff. II 2 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^20fbis-1]: Eingefügt durch Ziff. II 2 der V vom 27. Mai 2020 ([AS 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Fassung gemäss Anhang 3 Ziff. II 11 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^20fbis-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 
 #### Art. 20g
@@ -715,5 +720,5 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 ...[^annex3-lvlu1-2]
 
-[^annex3-lvlu1-1]: [[AS 2008 5589](https://fedlex.data.admin.ch/eli/oc/2008/775), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 14]
+[^annex3-lvlu1-1]: [[AS 2008 5589](https://fedlex.data.admin.ch/eli/oc/2008/775); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 14]
 [^annex3-lvlu1-2]: Die Änderungen können unter [AS 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)konsultiert werden.

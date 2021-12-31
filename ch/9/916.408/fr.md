@@ -4,11 +4,11 @@ title: "Ordonnance du 6 juin 2014 concernant les systèmes d'information du serv
 short: OSIVét
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/325"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 2014-06-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-325-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-325-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/fr"
 
 (OSIVét)
 
-du 6 juin 2014 (Etat le 1<sup>er</sup> avril 2021)
+du 6 juin 2014 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -77,7 +77,7 @@ Au sens de la présente ordonnance, on entend par:
 
 #### Art. 3
 
-**Tâches de l’OSAV et de l’OFAG**[^3-1]
+**Tâches de l’OSAV[^3-2]**[^3-1]
 
 <sup>1</sup>
 
@@ -88,11 +88,14 @@ L’OSAV:
 - c. édicte les directives techniques visées à l’art. 30;
 - d. conclut des conventions d’utilisation avec les cantons;
 - e. établit le budget et les comptes annuels pour ASAN et ALIS;
-- f. conclut pour ASAN et ALIS des conventions avec les fournisseurs de prestations qui mettent à disposition l’infrastructure et les prestations informatiques.
+- f.[^3-3] conclut pour ASAN, ALIS et Fleko des conventions avec les fournisseurs de prestations qui mettent à disposition l’infrastructure et les prestations informatiques.
 
-<sup>2</sup> L’OFAG conclut une convention avec le prestataire de services pour Fleko, qui fournit l’infrastructure et les services informatiques.
+<sup>2</sup> …[^3-4]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^3-2]: Nouvelle teneur selon l’annexe 3 ch. II 11 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-3]: Nouvelle teneur selon l’annexe 3 ch. II 11 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-4]: Abrogé par l’annexe 3 ch. II 11 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
 
@@ -206,21 +209,22 @@ Les données d’ASAN peuvent être tirées des systèmes d’information suivan
 
 - a. le système d’information pour les données sur les exploitations, les structures et les contributions (SIPA) visé aux art. 2 à 5 OSIAgr[^12-1];
 - b. Acontrol;
-- c. la banque de données sur le trafic des animaux (BDTA) visée dans l’ordonnance du 26 octobre 2011 sur la BDTA[^12-2];
+- c.[^12-2] la banque de données sur le trafic des animaux (BDTA) visée dans l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA)[^12-3];
 - d. le portail Internet Agate visé aux art. 20 à 22 OSIAgr;
-- e. le Registre des entreprises et des établissements (REE), conformément à l’ordonnance du 30 juin 1993 sur le Registre des entreprises et des établissements[^12-3];
+- e. le Registre des entreprises et des établissements (REE), conformément à l’ordonnance du 30 juin 1993 sur le Registre des entreprises et des établissements[^12-4];
 - f. le système d’information géographique (SIG) visé aux art. 10 à 13 OSIAgr;
 - g. la Banque de données centrale visée à l’art. 30, al. 2, LFE (banque de données sur les chiens);
 - h. ALIS;
-- i.[^12-4] le système d’information sur les antibiotiques en médecine vétérinaire ( visé dans l’ordonnance du 31 octobre 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire[^12-5];
-- j.[^12-6] Fleko.
+- i.[^12-5] le système d’information sur les antibiotiques en médecine vétérinaire ( visé dans l’ordonnance du 31 octobre 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire[^12-6];
+- j.[^12-7] Fleko.
 
 [^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^12-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^12-3]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^12-4]: Introduite par l’art. 20 ch. 3 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
-[^12-5]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
-[^12-6]: Introduite par le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^12-2]: Nouvelle teneur selon l’annexe 3 ch. II 11 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^12-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^12-4]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^12-5]: Introduite par l’art. 20 ch. 3 de l’O du 31 oct. 2018 concernant le système d’information sur les antibiotiques en médecine vétérinaire, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)).
+[^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-7]: Introduite par le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
 #### Art. 13
 
@@ -313,12 +317,13 @@ Dans la mesure où leurs tâches le requièrent selon l’art. 4, les personnes 
 
 Les données d’ALIS peuvent être tirées des systèmes d’information suivants:
 
-- a. la banque de données sur le trafic des animaux (BDTA) visée dans l’ordonnance du 26 octobre 2011 sur la BDTA[^20-1];
-- b. le portail Internet Agate visé aux art. 20 à 22 OSIAgr[^20-2];
+- a.[^20-1] la BDTA visée dans l’OId-BDTA[^20-2];
+- b. le portail Internet Agate visé aux art. 20 à 22 OSIAgr[^20-3];
 - c. ASAN.
 
-[^20-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^20-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^20-1]: Nouvelle teneur selon l’annexe 3 ch. II 11 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^20-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^20-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 ## Section 3*a***** Système d’information pour les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes
 
@@ -392,9 +397,9 @@ Dans la mesure où leurs tâches le requièrent selon l’art. 4, les administra
 
 **Accès aux données accordé aux abattoirs, aux autres détenteurs d’animaux et aux autres ayants droit**[^20fbis-1]
 
-Les abattoirs, les autres détenteurs d’animaux et les autres ayants droit peuvent consulter les données relatives aux résultats du contrôle des animaux avant l’abattage et du contrôle des viandes qui concernent la salubrité de la viande, dans la banque de données sur le trafic des animaux (BDTA) visée dans l’ordonnance du 26 octobre 2011 sur la BDTA[^20fbis-2]. Les droits d’accès sont définis à l’art. 16 de l’ordonnance sur la BDTA.
+L’accès aux données accordé aux abattoirs, aux autres détenteurs d’animaux et aux autres ayants droit se fonde sur l’OId-BDTA[^20fbis-2].
 
-[^20fbis-1]: Introduit par le ch. II 2 de l’O du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)).
+[^20fbis-1]: Introduit par le ch. II 2 de l’O du 27 mai 2020 ([RO 2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)). Nouvelle teneur selon l’annexe 3 ch. II 11 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^20fbis-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 
 #### Art. 20g
