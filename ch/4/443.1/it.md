@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 2001 sulla produzione e la cultura cinema
 short: LCin
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/283"
 language: it
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2001-12-14
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2002-283-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-283-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20170101/it"
 
 (Legge sul cinema, LCin)
 
-del 14 dicembre 2001 (Stato 1° gennaio 2017) (Stato 1° gennaio 2017)
+del 14 dicembre 2001 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -88,7 +88,7 @@ La Confederazione può accordare aiuti finanziari o fornire un sostegno sotto al
 
 La Confederazione può accordare aiuti finanziari o fornire un sostegno sotto altre forme alla formazione continua delle persone occupate nella cinematografia.
 
-[^6-1]: Nuovo testo giusta il n. 17 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^6-1]: Nuovo testo giusta l’all. n. 17 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ### Sezione 2: Strumenti di promozione
 
@@ -154,11 +154,12 @@ La Confederazione può concludere un contratto di prestazioni con persone giurid
 
 **Forma degli aiuti finanziari**[^13-1]
 
-<sup>1</sup> Gli aiuti finanziari sono versati, nei limiti dei crediti stanziati, in forma di contributi a fondo perso, garanzie di deficit, contributi in conto interessi, fideiussioni, prestazioni in natura o mutui rimborsabili condizionatamente.
+<sup>1</sup> Gli aiuti finanziari sono versati, nei limiti dei crediti stanziati, in forma di contributi a fondo perso, garanzie di deficit, contributi in conto interessi, prestazioni in natura o mutui rimborsabili condizionalmente.[^13-2]
 
 <sup>2</sup> Un sostegno può essere accordato anche in forma di consulenza o di raccomandazioni, nonché mediante l’assunzione di patronati o mediante altre prestazioni non finanziarie.
 
-[^13-1]: Nuovo testo giusta n. II 3 dell’all. alla LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^13-1]: Nuovo testo giusta l’all. n. II 3 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^13-2]: Nuovo testo giusta n. I 2 della LF del 19 marzo 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 14
 
@@ -171,7 +172,7 @@ La Confederazione può concludere un contratto di prestazioni con persone giurid
 <sup>3</sup> ...[^14-2]
 
 [^14-1]: Attualmente l’Ufficio federale della cultura.
-[^14-2]: Abrogato dal n. 43 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^14-2]: Abrogato dall’all. n. 43 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 15
 
@@ -184,7 +185,7 @@ La Confederazione può concludere un contratto di prestazioni con persone giurid
 <sup>3</sup> L’Ufficio ripartisce ogni anno i mezzi a disposizione tra i settori di promozione conformemente agli articoli 3–6. Nel fare ciò tiene conto dei principi della promozione e fissa per ogni settore gli importi massimi che possono essere assegnati per i singoli progetti.
 
 [^15-1]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^15-2]: Nuovo testo giusta n. II 3 dell’all. alla LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^15-2]: Nuovo testo giusta l’all. n. II 3 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Sezione 5: Esclusione dalla promozione cinematografica
 
@@ -399,8 +400,8 @@ La Commissione del cinema dev’essere consultata segnatamente in merito:
 
 <sup>3</sup> Nelle procedure di ricorso contro le decisioni in materia di aiuti finanziari non può essere invocata l’inadeguatezza.
 
-[^32-1]: Nuovo testo giusta il n. 43 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^32-2]: Abrogata dal n. II 3 dell’all. alla LF dell’11 dic. 2009 sulla promozione della cultura, con effetto dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^32-1]: Nuovo testo giusta l’all. n. 43 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^32-2]: Abrogata dall’all. n. II 3 della LF dell’11 dic. 2009 sulla promozione della cultura, con effetto dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 #### Art. 33
 

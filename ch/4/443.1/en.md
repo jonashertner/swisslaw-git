@@ -4,11 +4,11 @@ title: "Federal Act of 14 December 2001 on Film Production and Film Culture (Fil
 short: FiA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/283"
 language: en
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2001-12-14
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20170101/en/xml/fedlex-data-admin-ch-eli-cc-2002-283-20170101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20170101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2002-283-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Film Act, FiA)
 
-of 14 December 2001 (Status as of 1 January 2017)
+of 14 December 2001 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on the Article 71 and 93 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch dated 18 September 2000[^ingress-2],
+based on the Articles 71 and 93 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch dated 18 September 2000[^ingress-2],
 
 decrees:
 
@@ -108,7 +108,7 @@ The Confederation may reward outstanding contributions to film production and fi
 
 <sup>2</sup> The Federal Department of Home Affairs (FDHA) determines the requirements, in particular the reinvestment obligations, and the procedure.
 
-[^8-1]: Amended by No I of the Federal Act of 19 June 2015, in force since 1 July 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^8-1]: Amended by No I of the FA of 19 June 2015, in force since 1 July 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
 #### Art. 9
 
@@ -120,7 +120,7 @@ The Confederation may reward outstanding contributions to film production and fi
 
 <sup>3</sup> The Confederation shall enter into a service agreement with the organisation in order to regulate the mutual obligations. The service agreement provides for a court of arbitration that decides, without right of appeal, on disputes between the organisation and entitled parties.
 
-[^9-1]: Name in accordance with No I of the Federal Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)). This change has been made throughout the text.
+[^9-1]: Name in accordance with No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)). This change has been made throughout the text.
 
 #### Art. 10
 
@@ -156,11 +156,12 @@ The Confederation may enter into service agreements with legal entities that reg
 
 **Forms of financial assistance**[^13-1]
 
-<sup>1</sup> Financial assistance shall be provided within the limits of the authorised credits in the form of non-repayable cash payments, deficit guarantees, interest subsidies, credit guarantees, payments in kind or conditionally repayable loans.
+<sup>1</sup> Financial assistance shall be provided within the limits of the authorised credits in the form of non-repayable cash payments, deficit guarantees, interest subsidies, payments in kind or conditionally repayable loans.[^13-2]
 
 <sup>2</sup> Support may also be provided in the form of advice or recommendations and by issuing letters of comfort or providing other services in kind.
 
 [^13-1]: Amended by Annex No II 3 of the Culture Promotion Act of 11 Dec. 2009, in force since 1 Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^13-2]: Amended by No I 2 of the Federal Act of 19 March 2021 on Administrative Facilitations and a Relief of the Federal Budget, in force since 1 Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 14
 
@@ -244,9 +245,9 @@ The diversity of films on offer in a cinema region is guaranteed if the films on
 
 <sup>3</sup> The foregoing does not apply to exploitation by broadcasting organisations in programme services under Article 2 letter a of the Federal Act of 24 March 2006[^19-2] on Radio and Television.[^19-3]
 
-[^19-1]: Amended by No I of the Federal act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^19-1]: Amended by No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^19-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
-[^19-3]: Inserted by No I of the Federal act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^19-3]: Inserted by No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
 #### Art. 20
 
@@ -308,8 +309,8 @@ The diversity of films on offer in a cinema region is guaranteed if the films on
 
 <sup>5</sup> The data referred to in paragraphs 2, 3 and 3<sup>bis</sup> shall be published regularly.[^24-2]
 
-[^24-1]: Inserted by No I of the Federal act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^24-2]: Amended by No I of the Federal act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^24-1]: Inserted by No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^24-2]: Amended by No I of the FA of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5637](https://fedlex.data.admin.ch/eli/oc/2015/882); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
 ## Chapter 4 Commissions
 
@@ -454,4 +455,4 @@ The following enactments are amended as follows:
 
 Commencement date: 1 August 2002[^37-1]
 
-[^37-1]: Federal Council Decree of 3 July 2002.
+[^37-1]: FCD of 3 July 2002.

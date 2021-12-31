@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 14. Dezember 2001 über Filmproduktion und Filmkultur (
 short: FiG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/283"
 language: de
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2001-12-14
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2002-283-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-283-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20170101/de"
 
 (Filmgesetz, FiG)
 
-vom 14. Dezember 2001 (Stand am 1. Januar 2017)
+vom 14. Dezember 2001 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -154,11 +154,12 @@ Der Bund kann mit juristischen Personen, die regelmässig Finanzhilfen beziehen,
 
 **Formen der Finanzhilfen**[^13-1]
 
-<sup>1</sup> Finanzhilfen werden im Rahmen der bewilligten Kredite als nicht rückzahlbare Geldleistungen, Defizitgarantien, Zinszuschüsse, Bürgschaften, Sachleistungen oder bedingt rückzahlbare Darlehen ausgerichtet.
+<sup>1</sup> Finanzhilfen werden im Rahmen der bewilligten Kredite als nicht rückzahlbare Geldleistungen, Defizitgarantien, Zinszuschüsse, Sachleistungen oder bedingt rückzahlbare Darlehen ausgerichtet.[^13-2]
 
 <sup>2</sup> Eine Unterstützung kann auch durch Beratung oder Abgabe von Empfehlungen sowie durch die Übernahme von Patronaten oder durch andere nicht geldwerte Leistungen erfolgen.
 
 [^13-1]: Fassung gemäss Anhang Ziff. II 3 des Kulturförderungsgesetzes vom 11. Dez. 2009, in Kraft seit 1. Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^13-2]: Fassung gemäss Ziff. I 2 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 14
 

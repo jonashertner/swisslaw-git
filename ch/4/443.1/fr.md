@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 2001 sur la culture et la production cin�
 short: LCin
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/283"
 language: fr
-version: 2017-01-01
+version: 2022-01-01
 adopted: 2001-12-14
 in_force: 2002-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-283-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/283/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-283-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/283/20170101/fr"
 
 (Loi sur le cinéma, LCin)
 
-du 14 décembre 2001 (Etat le 1<sup>er</sup> janvier 2017)
+du 14 décembre 2001 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -58,7 +58,7 @@ Par film suisse on entend tout film:
 
 **Création cinématographique suisse**
 
-La Confédération soutient le rayonnement culturel, la vitalité économique, la continuité et le potentiel de développement de la production cinématographique suisse indépendante. A cet effet, elle peut allouer des aides financières ou fournir d’autres formes de soutien pour promouvoir l’élaboration de projets, la réalisation et l’exploitation:
+La Confédération soutient le rayonnement culturel, la vitalité économique, la continuité et le potentiel de développement de la production cinématographique suisse indépendante. À cet effet, elle peut allouer des aides financières ou fournir d’autres formes de soutien pour promouvoir l’élaboration de projets, la réalisation et l’exploitation:
 
 - a. de films suisses;
 - b. de films coproduits par la Suisse et l’étranger.
@@ -88,7 +88,7 @@ La Confédération peut allouer des aides financières ou fournir d’autres for
 
 La Confédération peut allouer des aides financières ou fournir d’autres formes de soutien pour promouvoir la formation continue des personnes travaillant dans la branche cinématographique.
 
-[^6-1]: Nouvelle teneur selon le ch. 17 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ### Section 2 Instruments
 
@@ -140,7 +140,7 @@ La Confédération peut conclure des conventions de prestations avec les personn
 
 #### Art. 12
 
-**Evaluation**
+**Évaluation**
 
 <sup>1</sup> Le bien-fondé et l’efficacité des régimes d’encouragement et des instruments sont évalués régulièrement.
 
@@ -154,11 +154,12 @@ La Confédération peut conclure des conventions de prestations avec les personn
 
 **Formes des aides financières**[^13-1]
 
-<sup>1</sup> Dans le cadre des crédits alloués, les aides financières sont versées sous la forme de contributions à fonds perdus, de garanties de déficit, de bonifications d’intérêts, de cautionnements, de prestations en nature ou de prêts remboursables sous condition.
+<sup>1</sup> Dans le cadre des crédits alloués, les aides financières sont versées sous la forme de contributions à fonds perdu, de garanties de déficit, de bonifications d’intérêts, de prestations en nature ou de prêts remboursables sous condition.[^13-2]
 
 <sup>2</sup> Un soutien peut aussi être accordé sous la forme de conseils, de recommandations, de patronages ou d’autres prestations non monétaires.
 
-[^13-1]: Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^13-1]: Nouvelle teneur selonl’annexe ch. II 3 de la L du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^13-2]: Nouvelle teneur selon le ch. I 2 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 14
 
@@ -171,7 +172,7 @@ La Confédération peut conclure des conventions de prestations avec les personn
 <sup>3</sup> …[^14-2]
 
 [^14-1]: Office fédéral de la culture
-[^14-2]: Abrogé par le ch. 41 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)1096; [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^14-2]: Abrogé par l’annexe ch. 41 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)1096; [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 15
 
@@ -184,7 +185,7 @@ La Confédération peut conclure des conventions de prestations avec les personn
 <sup>3</sup> L’office compétent répartit tous les ans les moyens à disposition entre les domaines d’encouragement visés aux art. 3 à 6. Pour ce faire, il tient compte des régimes d’encouragement et fixe pour chaque domaine les montants maximums pouvant être alloués à chaque projet.
 
 [^15-1]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
-[^15-2]: Nouvelle teneur selon le ch. II 3 de l’annexe à la L du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^15-2]: Nouvelle teneur selonl’annexe ch. II 3 de la L du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 ### Section 5 Films ne pouvant bénéficier des mesures d’encouragement
 
@@ -248,7 +249,7 @@ La diversité de l’offre est assurée dans une région donnée si, compte tenu
 
 #### Art. 20
 
-**Evaluation et mesures correctives**
+**Évaluation et mesures correctives**
 
 <sup>1</sup> L’office compétent évalue périodiquement, sur la base des données visées à l’art. 24, l’impact des activités et des mesures visées à l’art. 17. Il publie les résultats de l’évaluation et donne à la branche, en particulier aux organisations ayant passé des accords au sens de l’art. 17, al. 3, la possibilité de se prononcer.
 
@@ -399,8 +400,8 @@ La Commission du cinéma doit en particulier être consultée:
 
 <sup>3</sup> Dans les procédures de recours contre des décisions concernant des aides financières, le grief de l’inopportunité ne peut pas être invoqué.
 
-[^32-1]: Nouvelle teneur selon le ch. 41 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)1096; [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^32-2]: Abrogé par le ch. II 3 de l’annexe à la L du 11 déc. 2009 sur l’encouragement de la culture, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^32-1]: Nouvelle teneur selon l’annexe ch. 41 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)1096; [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^32-2]: Abrogé parl’annexe ch. II 3 de la L du 11 déc. 2009 sur l’encouragement de la culture, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 #### Art. 33
 
