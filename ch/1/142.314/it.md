@@ -4,11 +4,11 @@ title: "Ordinanza 3 dell' 11 agosto 1999 sull'asilo relativa al trattamento di d
 short: OAsi 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: it
-version: 2021-04-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/it"
 
 (Ordinanza 3 sull’asilo, OAsi 3)
 
-dell’11 agosto 1999 (Stato 1° aprile 2021)
+dell’11 agosto 1999 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -118,7 +118,7 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 
 <sup>1</sup> Nella banca dati Finasi sono registrati i dati necessari per il versamento delle somme forfettarie giusta gli articoli 20, 22-24*a*, 26-29 e 31 dell’ordinanza 2 dell’11 agosto 1999[^1e-2] sull’asilo (OAsi 2) e l’articolo 15 dell’ordinanza del 15 agosto 2018[^1e-3] sull’integrazione degli stranieri (OIntS) nonché per le analisi statistiche concernenti tali somme.
 
-<sup>2</sup> La banca dati Finasi contiene i seguenti dati personali di richiedenti l’asilo, persone ammesse provvisoriamente, rifugiati e apolidi: cognome, nome, data di nascita, sesso, cittadinanza e attività lucrativa, data dell’ultima entrata in Svizzera, data dell’ultima domanda d’asilo, data del passaggio in giudicato delle decisioni nella procedura d’asilo, data e motivo della partenza, data dell’ultimo indirizzo nel Cantone e attività lucrativa, numero personale e numero d’assicurato AVS, codice Finasi, Cantone, numero di avviamento postale e numero UST del Comune di domicilio.
+<sup>2</sup> La banca dati Finasi contiene i seguenti dati personali di richiedenti l’asilo, persone ammesse provvisoriamente, rifugiati e apolidi: cognome, nome, data di nascita, sesso, cittadinanza e attività lucrativa, data dell’ultima entrata in Svizzera, data dell’ultima domanda d’asilo, data del passaggio in giudicato delle decisioni nella procedura d’asilo, data e motivo della partenza, data dell’ultimo indirizzo nel Cantone e attività lucrativa, numero personale e numero AVS[^1e-4], codice Finasi, Cantone, numero di avviamento postale e numero UST del Comune di domicilio.
 
 <sup>3</sup> Hanno accesso ai dati i collaboratori della SEM che si occupano del versamento delle somme forfettarie e delle relative analisi statistiche.
 
@@ -127,6 +127,7 @@ La SEM può rendere accessibili le informazioni registrate in Kompass alle segue
 [^1e-1]: Introdotto dal n. I 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta il n. I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 [^1e-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 [^1e-3]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^1e-4]: Nuova espr. giusta l’all. n. II 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 1f
 

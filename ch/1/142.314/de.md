@@ -4,11 +4,11 @@ title: "Asylverordnung 3 vom 11. August 1999 über die Bearbeitung von Personend
 short: AsylV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: de
-version: 2021-04-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-361-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/de"
 
 (Asylverordnung 3, AsylV 3)
 
-vom 11. August 1999 (Stand am 1. April 2021)
+vom 11. August 1999 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -50,11 +50,11 @@ Das Staatssekretariat für Migration (SEM)[^1a-3] betreibt zur Erfüllung seiner
 - a. Zentrales Migrationsinformationssystem (ZEMIS) nach der ZEMIS-Verordnung vom 12. April 2006[^1a-4];
 - b.[^1a-5] Datenbank Kompass;
 - c. Geschäftsverwaltung Darlehen;
-- d.[^1a-6] ...
+- d.[^1a-6] …
 - e. Datenbank Finanzierung Asyl (Finasi);
 - f. Datenbank Medizinalfälle;
 - g. Datenbank individuelle Rückkehrhilfe;
-- h.[^1a-7] ...
+- h.[^1a-7] …
 - i. Informationssystem der Zentren des Bundes[^1a-8] und der Unterkünfte an den Flughäfen (MIDES);
 - j.[^1a-9] Informationssystem AURORA nach Artikel 12 der Verordnung vom 11. August 1999[^1a-10] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen;
 - k.[^1a-11] Datenbank Dolmetscher Pool (DOPO);
@@ -118,7 +118,7 @@ Das SEM kann die in Kompass gespeicherten Informationen folgenden Behörden mitt
 
 <sup>1</sup> In der Datenbank Finasi werden die Daten erfasst, die zur Auszahlung und für statistische Auswertungen hinsichtlich der Pauschalen nach den Artikeln 20, 2224*a*, 26 29 und 31 der Asylverordnung 2 vom 11. August 1999[^1e-2] über Finanzierungsfragen (AsylV 2) und Artikel 15 der Verordnung vom 15. August 2018[^1e-3] über die Integration von Ausländerinnen und Ausländern (VIntA) benötigt werden.
 
-<sup>2</sup> Sie enthält folgende Personendaten von Asylsuchenden, vorläufig Aufgenommenen, Flüchtlingen und Staatenlosen: Name, Vorname, Geburtsdatum, Geschlecht, Staatsangehörigkeit, Datum der letzten Einreise in die Schweiz, Datum des letzten Asylgesuchs, Datum der Rechtskraft der Verfügungen oder Entscheide im Asylverfahren, Datum und Grund des Weggangs, Datum der letzten Adresse im Kanton, Erwerbstätigkeit, Personennummer, AHV-Versichertennummer, Finasi-Code, Kanton, Postleitzahl und BFS-Nummer ihrer Wohnsitzgemeinde.
+<sup>2</sup> Sie enthält folgende Personendaten von Asylsuchenden, vorläufig Aufgenommenen, Flüchtlingen und Staatenlosen: Name, Vorname, Geburtsdatum, Geschlecht, Staatsangehörigkeit, Datum der letzten Einreise in die Schweiz, Datum des letzten Asylgesuchs, Datum der Rechtskraft der Verfügungen oder Entscheide im Asylverfahren, Datum und Grund des Weggangs, Datum der letzten Adresse im Kanton, Erwerbstätigkeit, Personennummer, AHV-Nummer[^1e-4], Finasi-Code, Kanton, Postleitzahl und BFS-Nummer ihrer Wohnsitzgemeinde.
 
 <sup>3</sup> Zugriff auf die Daten haben die Mitarbeiterinnen und Mitarbeiter des SEM, die mit der Auszahlung der Pauschalen und mit entsprechenden statistischen Auswertungen beauftragt sind.
 
@@ -127,6 +127,7 @@ Das SEM kann die in Kompass gespeicherten Informationen folgenden Behörden mitt
 [^1e-1]: Eingefügt durch Ziff. I 5 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I der V vom 1. Mai 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 [^1e-2]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 [^1e-3]: [SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^1e-4]: Ausdruck gemäss Anhang Ziff. II 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 1f
 
@@ -452,7 +453,7 @@ Die Datensicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^12-2] zum Bundesgesetz über den Datenschutz;
 - b.[^12-3] der Cyberrisikenverordnung vom 27. Mai 2020[^12-4];
-- c.[^12-5] ...
+- c.[^12-5] …
 
 [^12-1]: Fassung gemäss Ziff. I 4 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 20. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^12-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
@@ -470,7 +471,7 @@ Daten, die nicht mehr benötigt werden, müssen archiviert oder vernichtet werde
 
 **Statistik, Planung und Forschung**
 
-<sup>1</sup> ...[^14-1]
+<sup>1</sup> …[^14-1]
 
 <sup>2</sup> Das SEM kann Personendaten zu Forschungs- oder Planungszwecken Behörden, Universitäten und deren Instituten sowie privaten Organisationen bekannt geben. Die Daten müssen anonymisiert werden, soweit der Zweck des Bearbeitens es erlaubt. Die Ergebnisse sind so zu veröffentlichen, dass die betroffenen Personen nicht bestimmbar sind. Die Weiterleitung dieser Daten ist nur mit Zustimmung des SEM zulässig.
 
@@ -490,7 +491,7 @@ Anhang 3
 
 ## Änderung bisherigen Rechts
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Die Änderung kann unter [AS 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361)konsultiert werden.
 

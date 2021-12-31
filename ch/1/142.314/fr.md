@@ -4,11 +4,11 @@ title: "Ordonnance 3 du 11 août 1999 sur l'asile relative au traitement de donn
 short: OA 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: fr
-version: 2021-04-01
+version: 2022-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-361-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20210401/fr"
 
 (Ordonnance 3 sur l’asile, OA 3)
 
-du 11 août 1999 (Etat le 1<sup>er</sup> avril 2021)
+du 11 août 1999 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -117,7 +117,7 @@ Le SEM peut rendre accessibles, par une procédure d’appel, les informations c
 
 <sup>1</sup> La banque de données Finasi contient les données nécessaires au versement des forfaits conformément aux art. 20, 22 à 24*a*, 26 à 29 et 31 de l’ordonnance 2 du 11 août 1999 sur l’asile relative au financement (OA 2)[^1e-2] et à l’art. 15 de l’ordonnance du 15 août 2018 sur l’intégration des étrangers (OIE)[^1e-3] ainsi qu’aux analyses statistiques portant sur ces forfaits.
 
-<sup>2</sup> Y figurent les données personnelles de requérants d’asile, de personnes admises à titre provisoire, de réfugiés et d’apatrides, à savoir leurs nom, prénom, date de naissance, sexe, nationalité et activité lucrative, la date de leur dernière entrée en Suisse, la date de dépôt de leur dernière demande d’asile, la date d’entrée en force des décisions rendues dans la procédure d’asile, la date et le motif du départ, la date de la dernière adresse dans le canton, ainsi que leur activité lucrative, numéro personnel et numéro d’assuré AVS, le code Finasi, le canton, le numéro postal et le numéro OFS de leur commune de domicile.
+<sup>2</sup> Y figurent les données personnelles de requérants d’asile, de personnes admises à titre provisoire, de réfugiés et d’apatrides, à savoir leurs nom, prénom, date de naissance, sexe, nationalité et activité lucrative, la date de leur dernière entrée en Suisse, la date de dépôt de leur dernière demande d’asile, la date d’entrée en force des décisions rendues dans la procédure d’asile, la date et le motif du départ, la date de la dernière adresse dans le canton, ainsi que leur activité lucrative, numéro personnel et numéro AVS[^1e-4], le code Finasi, le canton, le numéro postal et le numéro OFS de leur commune de domicile.
 
 <sup>3</sup> Les collaborateurs du SEM chargés du versement des forfaits ainsi que des analyses statistiques s’y rapportant ont accès aux données.
 
@@ -126,6 +126,7 @@ Le SEM peut rendre accessibles, par une procédure d’appel, les informations c
 [^1e-1]: Introduit par le ch. I 5 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 [^1e-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 [^1e-3]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^1e-4]: Nouvelle expression selon l’annexe ch. II 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 1f
 
