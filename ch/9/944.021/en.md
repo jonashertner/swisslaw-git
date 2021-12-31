@@ -3,11 +3,11 @@ sr: "944.021"
 title: Ordinance of 4 June 2010 on the Declaration for Timber and Timber Products
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/379"
 language: en
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2010-06-04
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/379/20130101/en/xml/fedlex-data-admin-ch-eli-cc-2010-379-20130101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20130101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/379/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2010-379-20220101-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,18 +16,20 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20130101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 4 June 2010 (Status as of 1 January 2013)
+of 4 June 2010 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
-based on Articles 4 and 11 of the Consumer Information Act of 5 October 1990[^ingress-1] (ConsumIA) and Article 46*a* of the Government and Administration Organisation Act of 21 March 1997[^ingress-2] (GAOA),
+based on Articles 4 and 11 of the Consumer Information Act of 5 October 1990[^ingress-1] (ConsumIA); based on Article 35*g* paragraph 2 of the Environmental Protection Act of 7 October 1983[^ingress-2] (EPA); based on Article 46*a* of the Government and Administration Organisation Act of 21 March 1997[^ingress-3] (GAOA),[^ingress-4]
 
 ordains:
 
 [^ingress-1]: [SR 944.0](https://fedlex.data.admin.ch/eli/cc/1992/910_910_910)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-4]: Amended by Annex 3 No 2 of the Timber Trade Ordinance of 12 May 2021, in force since 1 Jan. 2022 ([AS 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
 
-## Section 1: Subject Matter
+## Section 1 Subject Matter
 
 #### Art. 1
 
@@ -43,9 +45,9 @@ This Ordinance does not apply to the following timber products:
 - b. waste;
 - c. recycling products.
 
-[^1-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) on 1 Jan. 2013. The amendment has been made throughout the text.
+[^1-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) on 1 Jan. 2013. The amendment has been made throughout the text.
 
-## Section 2: Duties to Declare
+## Section 2 Duties to Declare
 
 #### Art. 2
 
@@ -62,7 +64,7 @@ Any person who supplies timber or timber products to consumers must:
 
 <sup>3</sup> If the timber cannot be allocated to a specific species or if the species cannot be determined with certainty, several timber species or the genus may be given.
 
-<sup>4</sup> In the case of derived wood products based on wood chips or wood fibres, the indication "mixed timber" is permitted.
+<sup>4</sup> In the case of derived wood products based on wood chips or wood fibres, the indication «mixed timber» is permitted.
 
 <sup>5</sup> In the case of products that are composed of more than three components made of different timber species, at least the three species that make up the largest proportion by mass of the product must be indicated. The timber species of a veneer must be indicated if it covers the surface of a product subject to declaration.
 
@@ -78,7 +80,7 @@ Any person who supplies timber or timber products to consumers must:
 
 <sup>4</sup> If more than five countries of origin come into consideration, the smallest possible geographical area from which the timber originated may be given.
 
-<sup>5</sup> If it is not possible to allocate the timber to several possible countries of origin or to a geographical area in accordance with paragraph 4, the indication "origin unknown" may be used.
+<sup>5</sup> If it is not possible to allocate the timber to several possible countries of origin or to a geographical area in accordance with paragraph 4, the indication «origin unknown» may be used.
 
 <sup>6</sup> In the case of products that are composed of more than three components made of different timber species, at least the place of origin of the three species that make up the largest proportion by mass of the product must be indicated. The place of origin of a veneer must be indicated if it covers the surface of a product subject to declaration.
 
@@ -94,7 +96,7 @@ Any person who supplies timber or timber products to consumers must:
 
 <sup>4</sup> The species and place of origin of the timber must be indicated in an official Swiss language.
 
-## Section 3: Verification of the Declaration
+## Section 3 Verification of the Declaration
 
 #### Art. 5
 
@@ -112,7 +114,9 @@ Any person who supplies timber or timber products to consumers must:
 
 <sup>2</sup> It may call on the assistance of private and public agencies when carrying out verification procedures.
 
-<sup>3</sup> It may request the Federal Customs Administration to report import declaration data on specific indications of timber and timber products for a fixed period of time.
+<sup>3</sup> It may request the Federal Office for Customs and Border Security[^6-1] to report import declaration data on specific indications of timber and timber products for a fixed period of time.
+
+[^6-1]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
 #### Art. 7
 
@@ -122,7 +126,7 @@ Any person who supplies timber or timber products to consumers must:
 
 The verification procedure by the FCAB shall be carried out:
 
-- a. in the form of random tests at sales points; or
+- a.[^7-1] in the form of random tests at the points of supply; or
 - b. in the form of specific tests based on substantiated evidence that a declaration does not comply with the provisions of this Ordinance.
 
 <sup>2</sup> The FCAB may inspect delivery notes, contracts, bills and other required documents and if necessary take samples for identification purposes and arrange for these to be tested. It may for this purpose during normal working hours enter the business premises of the person supplying the timber or the timber product to consumers.
@@ -130,6 +134,8 @@ The verification procedure by the FCAB shall be carried out:
 <sup>3</sup> If the verification procedure reveals that the declaration does not comply with the provisions of this Ordinance, the FCAB shall notify the person supplying the timber or the timber product to consumers of the result of the verification procedure and give him or her the opportunity to respond.
 
 <sup>4</sup> The FCAB may order the correction of the declaration.
+
+[^7-1]: Amended by Annex 3 No 2 of the Timber Trade Ordinance of 12 May 2021, in force since 1 Jan. 2022 ([AS 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
 
 #### Art. 8
 
@@ -145,13 +151,13 @@ The verification procedure by the FCAB shall be carried out:
 
 [^8-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-## Section 4: Penalties
+## Section 4 Penalties
 
 #### Art. 9
 
 Any person who infringes the provisions on declaration in accordance with Articles 2–4 shall be liable to the penalties contained in Article 11 ConsumIA.
 
-## Section 5: Final Provisions
+## Section 5 Final Provisions
 
 #### Art. 10
 

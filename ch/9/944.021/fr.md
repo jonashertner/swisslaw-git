@@ -3,27 +3,29 @@ sr: "944.021"
 title: Ordonnance du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/379"
 language: fr
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2010-06-04
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/379/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-379-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/379/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-379-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la déclaration concernant le bois et les produits en bois
 
-du 4 juin 2010 (Etat le 1<sup>er</sup> janvier 2013)
+du 4 juin 2010 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 4 et 11 de la loi fédérale du 5 octobre 1990 sur l’information des consommatrices et des consommateurs (LIC)[^ingress-1], vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^ingress-2],
+vu les art. 4 et 11 de la loi fédérale du 5 octobre 1990 sur l’information des consommatrices et des consommateurs (LIC)[^ingress-1], l’art. 35*g*, al. 2, de la loi du 7 octobre 1983 sur la protection de l’environnement[^ingress-2] et l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 944.0](https://fedlex.data.admin.ch/eli/cc/1992/910_910_910)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-4]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 12 mai 2021 sur le commerce de bois, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
 
 ## Section 1 Objet
 
@@ -41,7 +43,7 @@ La présente ordonnance n’est pas applicable aux produits en bois suivants:
 - b. déchets;
 - c. produits recyclés.
 
-[^1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Section 2 Obligation de déclarer
 
@@ -53,7 +55,7 @@ La présente ordonnance n’est pas applicable aux produits en bois suivants:
 
 Toute personne qui remet du bois ou des produits en bois aux consommateurs doit:
 
-- a. indiquer le nom commercial du bois; et
+- a. indiquer le nom commercial du bois, et
 - b. fournir les indications permettant aux consommateurs de retrouver le nom scientifique du bois.
 
 <sup>2</sup> Après avoir consulté le DETEC, le DEFR fixe la nomenclature de référence des noms commerciaux et des noms scientifiques à utiliser.
@@ -62,7 +64,7 @@ Toute personne qui remet du bois ou des produits en bois aux consommateurs doit:
 
 <sup>4</sup> Pour les dérivés du bois à base de particules ou de fibres de bois, l’indication «bois mélangé» est admise.
 
-<sup>5</sup> Pour les produits constitués de plus de trois composants d’espèces de bois différentes, il faut au moins indiquer les trois espèces de bois ayant la plus grande part en masse dans le produit. L’espèce du bois d’un placage doit être indiquée lorsque celui-ci recouvre la surface d'un produit soumis à déclaration.
+<sup>5</sup> Pour les produits constitués de plus de trois composants d’espèces de bois différentes, il faut au moins indiquer les trois espèces de bois ayant la plus grande part en masse dans le produit. L’espèce du bois d’un placage doit être indiquée lorsque celui-ci recouvre la surface d’un produit soumis à déclaration.
 
 #### Art. 3
 
@@ -78,7 +80,7 @@ Toute personne qui remet du bois ou des produits en bois aux consommateurs doit:
 
 <sup>5</sup> Si le bois ne peut pas non plus être rattaché à plusieurs pays de provenance possibles ni à une zone géographique au sens de l’al. 4, l’indication «provenance inconnue» peut être utilisée.
 
-<sup>6</sup> Pour les produits constitués de composants de plus de trois espèces de bois différentes, il faut au moins indiquer la provenance des trois espèces de bois ayant la plus grande part en masse dans le produit. La provenance du bois d’un placage doit être indiquée lorsque celui-ci recouvre la surface d'un produit soumis à déclaration.
+<sup>6</sup> Pour les produits constitués de composants de plus de trois espèces de bois différentes, il faut au moins indiquer la provenance des trois espèces de bois ayant la plus grande part en masse dans le produit. La provenance du bois d’un placage doit être indiquée lorsque celui-ci recouvre la surface d’un produit soumis à déclaration.
 
 #### Art. 4
 
@@ -110,7 +112,9 @@ Toute personne qui remet du bois ou des produits en bois aux consommateurs doit:
 
 <sup>2</sup> Il peut s’assurer le concours d’organismes privés ou publics pour l’exécution des contrôles.
 
-<sup>3</sup> Il peut exiger de l’Administration fédérale des douanes, pendant une période déterminée, des informations sur le contenu des déclarations d’importation de bois et de produits en bois désignés avec précision.
+<sup>3</sup> Il peut exiger de l’Office fédéral de la douane et de la sécurité des frontières[^6-1], pendant une période déterminée, des informations sur le contenu des déclarations d’importation de bois et de produits en bois désignés avec précision.
+
+[^6-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
 
 #### Art. 7
 
@@ -120,7 +124,7 @@ Toute personne qui remet du bois ou des produits en bois aux consommateurs doit:
 
 Le BFC effectue les contrôles:
 
-- a. par des sondages aux points de vente; ou
+- a.[^7-1] par des sondages aux points de remise, ou
 - b. par des vérifications ciblées sur la base d’indications fondées selon lesquelles une déclaration ne répond pas aux prescriptions.
 
 <sup>2</sup> Il peut consulter les bulletins de livraison, les contrats, les factures et les autres documents nécessaires; au besoin, il peut prélever des échantillons pour procéder à des identifications et à des vérifications. A cette fin, il peut pénétrer, pendant les heures de travail habituelles, dans les locaux commerciaux de la personne qui remet le bois ou les produits en bois aux consommateurs.
@@ -129,9 +133,11 @@ Le BFC effectue les contrôles:
 
 <sup>4</sup> Le BFC peut ordonner la rectification de la déclaration.
 
+[^7-1]: Nouvelle teneur selon l’annexe 3 ch. 2 de l’O du 12 mai 2021 sur le commerce de bois, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
+
 #### Art. 8
 
-**Emolument**
+**Émolument**
 
 <sup>1</sup> Si le contrôle révèle une violation de l’obligation de déclarer, la personne qui a violé cette obligation doit s’acquitter d’un émolument destiné à couvrir les coûts du contrôle.
 

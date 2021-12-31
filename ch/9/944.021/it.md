@@ -3,27 +3,29 @@ sr: "944.021"
 title: Ordinanza del 4 giugno 2010 sulla dichiarazione concernente il legno e i prodotti del legno
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/379"
 language: it
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2010-06-04
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/379/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2010-379-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/379/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-379-20220101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla dichiarazione concernente il legno e i prodotti del legno
 
-del 4 giugno 2010 (Stato 1° gennaio 2013)
+del 4 giugno 2010 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 4 e 11 della legge federale del 5 ottobre 1990[^ingress-1] sull’informazione dei consumatori (LIC); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione (LOGA),
+visti gli articoli 4 e 11 della legge federale del 5 ottobre 1990[^ingress-1] sull’informazione dei consumatori (LIC); visto l’articolo 35*g* capoverso 2 della legge del 7 ottobre 1983[^ingress-2] sulla protezione dell’ambiente (LPAmb); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-3] sull’organizzazione del Governo e dell’Amministrazione (LOGA),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 944.0](https://fedlex.data.admin.ch/eli/cc/1992/910_910_910)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-4]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 12 mag. 2021 sul commercio di legno, in vigore dal 1° gen. 2022 ([RU 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
 
 ## Sezione 1: Oggetto
 
@@ -41,7 +43,7 @@ La presente ordinanza non si applica ai seguenti prodotti del legno:
 - b. rifiuti;
 - c. prodotti riciclati.
 
-[^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 2: Obblighi di dichiarazione
 
@@ -110,9 +112,10 @@ Chi fornisce legno o prodotti del legno ai consumatori ha l’obbligo di:
 
 <sup>2</sup> A tale fine può avvalersi di servizi pubblici e privati.
 
-<sup>3</sup> Può esigere che l’Amministrazione federale delle dogane gli trasmetta per un periodo determinato i dati relativi alle importazioni doganali di legno e prodotti del legno precisamente designati.[^6-1]
+<sup>3</sup> Può esigere che l’Ufficio federale della dogana e della sicurezza dei confini[^6-1] gli trasmetta per un periodo determinato i dati relativi alle importazioni doganali di legno e prodotti del legno precisamente designati.[^6-2]
 
-[^6-1]: [RU 2012 5617](https://fedlex.data.admin.ch/eli/oc/2012/655)
+[^6-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022.
+[^6-2]: [RU 2012 5617](https://fedlex.data.admin.ch/eli/oc/2012/655)
 
 #### Art. 7
 
@@ -122,7 +125,7 @@ Chi fornisce legno o prodotti del legno ai consumatori ha l’obbligo di:
 
 I controlli dell’UFDC avvengono sotto forma di:
 
-- a. controlli a campione presso i luoghi di vendita; oppure
+- a.[^7-1] controlli a campione presso i luoghi di fornitura; oppure
 - b. verifica precisa in base a indicazioni fondate relative alla mancata conformità di una dichiarazione alle disposizioni.
 
 <sup>2</sup> L’UFDC può consultare bollettini di consegna, contratti, fatture nonché altri documenti utili e, se necessario, può prelevare campioni per l’identificazione e disporre esami. A tale fine l’UFDC può, durante il normale orario di lavoro, accedere ai locali commerciali delle persone che forniscono legno o prodotti del legno ai consumatori.
@@ -130,6 +133,8 @@ I controlli dell’UFDC avvengono sotto forma di:
 <sup>3</sup> Se dai controlli risulta che la dichiarazione non corrisponde alle disposizioni della presente ordinanza, l’UFDC informa su tali risultati la persona che fornisce il legno o i prodotti del legno ai consumatori e le dà la possibilità di esprimersi.
 
 <sup>4</sup> L’UFDC può disporre la rettifica della dichiarazione.
+
+[^7-1]: Nuovo testo giusta l’all. 3 n. 2 dell’O del 12 mag. 2021 sul commercio di legno, in vigore dal 1° gen. 2022 ([RU 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
 
 #### Art. 8
 
@@ -157,7 +162,7 @@ Chi viola le disposizioni sulla dichiarazione di cui agli articoli 2–4 è puni
 
 **Modifica del diritto vigente**
 
-... [^10-1]
+…[^10-1]
 
 [^10-1]: La modifica può essere consultata alla [RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379).
 

@@ -3,27 +3,29 @@ sr: "944.021"
 title: Verordnung vom 4. Juni 2010 über die Deklaration von Holz und Holzprodukten
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/379"
 language: de
-version: 2013-01-01
+version: 2022-01-01
 adopted: 2010-06-04
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/379/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2010-379-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/379/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-379-20220101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/379/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Deklaration von Holz und Holzprodukten
 
-vom 4. Juni 2010 (Stand am 1. Januar 2013)
+vom 4. Juni 2010 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 4 und 11 des Konsumenteninformationsgesetzes vom 5. Oktober 1990[^ingress-1] (KIG) und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2] (RVOG),
+gestützt auf die Artikel 4 und 11 des Konsumenteninformationsgesetzes vom 5. Oktober 1990[^ingress-1] (KIG), Artikel 35*g* Absatz 2 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-2] (USG) und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-3] (RVOG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 944.0](https://fedlex.data.admin.ch/eli/cc/1992/910_910_910)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-4]: Fassung gemäss Anhang 3 Ziff. 2 der Holzhandelsverordnung vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
 
 ## 1. Abschnitt: Gegenstand
 
@@ -41,7 +43,7 @@ Diese Verordnung gilt nicht für folgende Holzprodukte:
 - b. Abfälle;
 - c. Recycling-Produkte.
 
-[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 ## 2. Abschnitt: Deklarationspflichten
 
@@ -110,7 +112,9 @@ Jede Person, die Holz oder Holzprodukte an Konsumentinnen und Konsumenten abgibt
 
 <sup>2</sup> Es kann private und öffentliche Stellen für den Vollzug der Kontrolle beiziehen.
 
-<sup>3</sup> Es kann von der Eidgenössischen Zollverwaltung für eine festgesetzte Zeitdauer Meldungen von Einfuhrzollanmeldungsdaten genau bezeichneter Hölzer und Holzprodukte verlangen.
+<sup>3</sup> Es kann von dem Bundesamt für Zoll und Grenzsicherheit[^6-1] für eine festgesetzte Zeitdauer Meldungen von Einfuhrzollanmeldungsdaten genau bezeichneter Hölzer und Holzprodukte verlangen.
+
+[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst.
 
 #### Art. 7
 
@@ -120,7 +124,7 @@ Jede Person, die Holz oder Holzprodukte an Konsumentinnen und Konsumenten abgibt
 
 Die Kontrollen des BFK erfolgen:
 
-- a. in Form von Stichproben an den Verkaufsstellen; oder
+- a.[^7-1] in Form von Stichproben an den Abgabestellen; oder
 - b. in Form gezielter Prüfungen aufgrund begründeter Hinweise, dass eine Deklaration den Vorschriften nicht entspricht.
 
 <sup>2</sup> Das BFK kann Lieferscheine, Verträge, Rechnungen und andere erforderliche Dokumente einsehen und wenn nötig Proben zur Identifikation entnehmen und deren Prüfung veranlassen. Es darf zu diesem Zweck während der üblichen Arbeitszeit die Geschäftsräumlichkeiten der Person betreten, die das Holz oder das Holzprodukt an Konsumentinnen und Konsumenten abgibt.
@@ -128,6 +132,8 @@ Die Kontrollen des BFK erfolgen:
 <sup>3</sup> Ergibt die Kontrolle, dass die Deklaration den Vorschriften dieser Verordnung nicht entspricht, so informiert das BFK die Person, die das Holz oder das Holzprodukt an Konsumentinnen und Konsumenten abgibt, über das Ergebnis der Kontrolle und gibt ihr Gelegenheit zur Stellungnahme.
 
 <sup>4</sup> Das BFK kann die Berichtigung der Deklaration verfügen.
+
+[^7-1]: Fassung gemäss Anhang 3 Ziff. 2 der Holzhandelsverordnung vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 306](https://fedlex.data.admin.ch/eli/oc/2021/306)).
 
 #### Art. 8
 
