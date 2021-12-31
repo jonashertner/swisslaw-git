@@ -1,225 +1,250 @@
 ---
 canton: VS
 number: "741.100"
-title: Règlement concernant la signalisation routière et la publicité sur les routes
+title: Règlement de la commission cantonale de signalisation routière
 short: RCCSR
 language: fr
-version: 1999-02-08
-corrected: 2017-10-06
-version_adopted: 1999-01-20
+version: 2022-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-02-16
 adopted: 2022-02-16
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/741.100"
-pdf: "https://lex.vs.ch/api/fr/versions/280/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3072/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement concernant la signalisation routière et la publicité sur les routes
+# Règlement de la commission cantonale de signalisation routière
 
-du 8 novembre 1989
+du 16.02.2022 (état 01.01.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 3 alinéa 2 de la loi d'application du 30 septembre 1987 de la législation fédérale sur la circulation routière (LALCR);
+vu les articles 1 alinéa 1 lettre g, 3 alinéa 2 et 30 de la loi d'application de la législation fédérale sur la circulation routière du 30 septembre 1987 (LALCR);
 
-sur la proposition du Département de la justice, de la police et des affaires militaires;
+sur la proposition du département en charge de la mobilité,
 
-arrête:
+ordonne: [^ingress-1]
 
-### Chapitre 1: Signalisation routière
+[^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-#### Article premier
+## 1 Dispositions générales
 
-**Autorités compétentes**
+#### Art. 1
 
-Les signaux routiers ne peuvent être placés sur les routes publiques et à leurs abords qu'avec l'autorisation de l'autorité compétente qui est:
+**Objet**
 
-- a) le Conseil d'Etat (art. 1er et 2 LALCR);
+<sup>1</sup> Le présent règlement règle l'organisation de la commission cantonale de signalisation routière (ci-après: la commission) et la procédure d’approbation de toute signalisation et des réclames routières sur les routes ouvertes au trafic ainsi qu’à leurs abords, conformément à l’ordonnance fédérale sur la signalisation routière (OSR).
 
-- b) la Commission cantonale de signalisation routière (art. 3 LALCR);
-
-- c) l'assemblée primaire sous réserve d'approbation par le Conseil d'Etat (art. 8 LALCR);
-
-- d) le Conseil municipal sous réserve d'approbation par la Commission de signalisation routière (art. 9 LALCR).
+## 2 Commission cantonale de signalisation routière
 
 #### Art. 2
 
-**Police de la circulation**
+**Nomination, composition et rénumération**
 
-<sup>1</sup> Les agents des polices cantonale et communales sont compétents dans des cas exceptionnels pour prendre les mesures qui s'imposent, en particulier pour restreindre ou détourner temporairement conformément aux articles 3, alinéa 6 de la loi fédérale sur la circulation routière (LCR) et 107, alinéa 4 de l'ordonnance sur la signalisation routière (OSR).
+<sup>1</sup> La commission est nommée par le Conseil d'Etat.
 
-<sup>2</sup> Les agents de la police cantonale sont chargés de la délivrance des autorisations exceptionnelles (art. 17, al. 1 OSR) sous réserve de l'article 6 LALCR pour les routes et chemins cantonaux.
+<sup>2</sup> Elle est composée de 5 membres:
+
+- a) un président et un vice-président externes à l'administration cantonale et représentant les 2 régions linguistiques;
+- b) 3 membres internes à l'administration cantonale, issus respectivement de la police cantonale, du service de la mobilité et du service administratif et juridique du département en charge de la mobilité.
+
+<sup>3</sup> Chaque membre interne à l'administration cantonale dispose d'un suppléant qui le remplace en cas d'absence.
+
+<sup>4</sup> Les membres de la commission sont nommés pour une période administrative de 4 ans et leur mandat est renouvelable.
+
+<sup>5</sup> Les représentants étatiques nommés par le Conseil d'Etat ne perçoivent pas d'indemnités de présence.
+
+<sup>6</sup> Les indemnités versées aux membres de la commission, externes à l'administration cantonale, à titre de défraiement pour les séances et pour le temps investi à cet effet (étude, travail préparatoire, etc.) sont fixées comme suit:
+
+- a) par jour — Fr. 600.-
+- b) par demi-journée — Fr. 300.-
+- c) par heure isolée — Fr. 70.-
+
+<sup>7</sup> En sus des indemnités précitées, le président et le vice-président de la commission perçoivent un montant forfaitaire annuel de respectivement 4'000 francs et 2'000 francs.
 
 #### Art. 3
 
-**Commission de signalisation. a) Composition**
+**Statut**
 
-<sup>1</sup> La commission de signalisation routière est composée d'un président, d'un vice-président, d'un secrétaire et de huit membres.
+<sup>1</sup> La commission est un organe décisionnel indépendant et rattaché administrativement au service juridique et administratif du département en charge de la mobilité.
 
-<sup>2</sup> Elle peut désigner une sous-commission composée du président ou du vice-président, du secrétaire et de deux inspecteurs techniques, chargée d'approuver les diverses signalisations de chantiers et de donner les préavis à l'intention de l'autorité compétente en matière de constructions s'agissant de la publicité sur les routes.
+#### Art. 4
 
-#### Art. 4 b
+**Principes**
 
-**) Compétences**
+<sup>1</sup> Les principes poursuivis par la commission sont de:
 
-En plus des tâches mentionnées à l'article 3 LALCR, la commission de signalisation est chargée:
-
-- a) de donner des directives aux entrepreneurs pour la signalisation des chantiers (art. 81 OSR);
-
-- b) d'exercer les tâches de surveillance en matière de signalisation (art. 105 OSR);
-
-- c) de procéder à une inspection périodique des routes de grand transit (art. 105, al. 3 OSR);
-
-- d) de conduire la procédure relative à la mise en place de la signalisation sur les routes et chemins cantonaux (art. 107 OSR).
+- a) contribuer à la mise en place d'une signalisation routière locale claire et conforme aux normes techniques et à la législation;
+- b) veiller à proposer des mesures d'accompagnement dans l'élaboration de dossiers conformes aux normes techniques et aux bases légales;
+- c) promouvoir une communication active auprès des services cantonaux et des communes;
+- d) s'assurer que la sécurité soit garantie sur les routes ouvertes au trafic en termes de signalisation verticale et horizontale;
+- e) cultiver une vision cantonale et cohérente de la signalisation routière comme un élément participant à l'amélioration de l'espace public.
 
 #### Art. 5
 
-**Département des travaux publics**
+**Compétences**
 
-Outre les attributions fixées aux articles 6 et 21 LALCR, le Département des travaux publics est chargé:
+<sup>1</sup> La commission dispose des compétences suivantes:
 
-- a) de déterminer les poids et dimensions admissibles pour les véhicules spéciaux et les transports exceptionnels sur les routes de grand transit (art. 110, al. 4 OSR);
+- a) répondre aux consultations sur les projets d'exécution routier;
+- b) mener la procédure tendant à l’approbation de la signalisation routière sur les routes ouvertes au trafic (art. 3 et 4 LCR; art. 107 OSR);
+- c) approuver la signalisation routière et le marquage sur les routes ouvertes au trafic (art. 3 et 4 LCR; art. 107 OSR);
+- d) approuver la suppression d’une signalisation routière ou d’un marquage ayant fait l’objet d’une approbation;
+- e) surveiller la signalisation approuvée et requérir son adaptation en fonction des changements de circonstances (art. 105 OSR);
+- f) donner des directives aux entrepreneurs pour la signalisation de chantier (art. 81 OSR);
+- g) approuver et contrôler la signalisation de chantier (art. 81 OSR);
+- h) délivrer les autorisations spéciales pour les réclames routières aux abords des routes ouvertes au trafic;
+- i) établir des actes internes, des directives et des notices déterminant le cadre souhaité s'agissant des procédures se déroulant par-devant elle.
 
-- b) de communiquer aux responsables des moyens d'information les renseignements concernant les conditions du trafic (art. 110, al. 5 OSR);
+<sup>2</sup> Pour le surplus, la commission peut:
 
-- c) d'assurer la fourniture, la pose et l'entretien des signaux, marques et dispositifs de balisage sur les routes nationales, les routes et chemins cantonaux ainsi qu'aux croisements de routes et chemins communaux avec des routes nationales ou des routes et chemins cantonaux.
+- a) déléguer certaines de ses compétences en déterminant le cadre souhaité quant à leur réalisation;
+- b) désigner une sous-commission composée du président ou du vice-président, du secrétaire et de 2 inspecteurs techniques, chargée d'approuver les diverses signalisations;
+- c) s'adjoindre les compétences de partenaires œuvrant dans le domaine de la circulation routière au travers d'une commission élargie.
 
 #### Art. 6
 
-**Conseil municipal**
+**Tenue des séances et vote**
 
-<sup>1</sup> Le conseil municipal est compétent, sous réserve d'approbation par la commission de signalisation, pour autoriser les particuliers à poser la signalisation adéquate sur leurs terrains privés (art. 104, al. 5 OSR).
+<sup>1</sup> Les séances ordinaires de la commission se tiennent de manière bimensuelle. Elles peuvent se dérouler plus fréquemment si l'ampleur ou le nombre de dossiers le justifie.
 
-<sup>2</sup> Il peut accorder des autorisations exceptionnelles sur les routes et chemins communaux (art. 17, al. 1 OSR) sous réserve de l'article 6 LALCR. Il peut déléguer cette compétence à la police municipale.
+<sup>2</sup> La commission siège valablement lorsqu'un membre de la présidence et au minimum 2 membres de l'administration cantonale sont présents.
 
-<sup>3</sup> Sur ces routes et chemins, il assure la fourniture, la pose et l'entretien des signaux, marques et dispositifs de balisage.
+<sup>3</sup> Les séances élargies avec ses partenaires officiels se tiennent 2 fois par année.
 
-<sup>4</sup> Il conduit la procédure relative à la mise en place de la signalisation sur les routes et chemins communaux (art. 107 OSR) ainsi que sur les terrains privés.
+<sup>4</sup> Chaque membre de la commission dispose d'une voix de vote.
+
+<sup>5</sup> La commission peut rendre ses décisions par voie de circulation.
+
+<sup>6</sup> En cas d'égalité des votes, le vote du président, respectivement du vice-président en son absence, est prépondérant et départage ainsi les voix.
 
 #### Art. 7
 
-**Charge des frais**
+**Mode d'engagement**
 
-<sup>1</sup> Lors de la construction, correction ou réfection de voies publiques cantonales, les frais résultant de la signalisation sont englobés dans le compte de l'oeuvre et répartis de la même manière que les autres frais.
-
-<sup>2</sup> Hormis ces cas, les frais de fourniture, de pose et d'entretien des signaux routiers, marques et dispositifs de balisage sont supportés:
-
-- a) pour les routes nationales et les voies publiques cantonales, par l'Etat et les communes dans la même proportion que les frais d'entretien de ces routes;
-
-- b) pour les routes et chemins communaux, par les communes;
-
-- c) pour les routes et places privées, par les propriétaires intéressés.
-
-### Chapitre 2: Publicité sur les routes
+<sup>1</sup> La commission est valablement engagée par la signature collective du président, respectivement du vice-président en son absence, et du secrétaire.
 
 #### Art. 8
 
-**Autorités compétentes**
+**Secrétariat**
 
-<sup>1</sup> A l'extérieur des localités, la pose de tout panneau-réclame ou annonce sur les voies publiques et à leurs abords jusqu'à une distance de 30 mètres du bord de la chaussée est soumise à une autorisation écrite délivrée par l'autorité cantonale compétente en matière de constructions sur préavis de la commission de signalisation et de la commune s'il s'agit de voies publiques communales.
+<sup>1</sup> Le secrétariat de la commission est rattaché au service administratif et juridique du département en charge de la mobilité.
 
-<sup>2</sup> En dehors de la zone des 30 mètres, les dispositions des règlements communaux et du droit cantonal des constructions sont applicables.
+<sup>2</sup> Il se compose d'un secrétaire, de collaborateurs administratifs et d'inspecteurs. Il réceptionne toutes les demandes qui doivent être soumises à la commission.
 
-<sup>3</sup> A l'intérieur des localités, l'autorisation est donnée par l'autorité cantonale compétente en matière de constructions sur préavis de la commune et de la commission de signalisation.
+<sup>3</sup> Le secrétaire est nommé en tant que chef de section par le Conseil d'Etat. Il assure la gestion du secrétariat, assiste la présidence de la commission et participe aux séances sans droit de vote. En cas d'absence, il est remplacé pour la période concernée, avec l'accord de la commission.
 
-<sup>4</sup> La Police cantonale est compétente pour délivrer des autorisations temporaires (affiches, banderoles, etc.). Demeurent réservées les dispositions de la loi sur les affiches-réclames.
+<sup>4</sup> Le secrétariat de la commission a notamment les tâches suivantes:
 
-### Chapitre 3: Dispositions communes
+- a) assumer les tâches opérationnelles de la commission;
+- b) collecter les prises de position des organes cantonaux compétents pour les décisions à rendre par la commission;
+- c) préparer les dossiers nécessitant une approbation par la commission;
+- d) prodiguer des conseils, soutenir les requérants dans les démarches à entreprendre auprès de la commission et les renseigner.
+
+## 3 Procédure de signalisation routière et marquage
 
 #### Art. 9
 
-**Voies de droit**
+**Procédure**
 
-<sup>1</sup> Les décisions de la commission de signalisation routière peuvent faire l'objet d'un recours au Conseil d'Etat dans les 30 jours dès leur notification.
+<sup>1</sup> La mise en place et la suppression de la signalisation routière et du marquage sur les routes ouvertes au trafic doivent être préalablement approuvées par la commission sur requête du propriétaire de la route.
 
-<sup>2</sup> Pour le surplus, les voies de droit ouvertes contre les décisions prises en application du présent règlement sont fixées par la loi sur la procédure et la juridiction administratives, la loi sur le régime communal et la législation en matière de construction.
+<sup>2</sup> Lorsque la signalisation routière poursuit des intérêts privés, notamment sécuritaire par la pose d’un miroir ainsi que d’un marquage ou d’un panneau de prescription, la requête doit être déposée auprès du conseil municipal, lequel est chargé d'émettre un préavis et de transmettre le dossier pour décision à la commission.
+
+<sup>3</sup> Les dossiers contiennent en fonction du projet concerné les documents et indications suivants:
+
+- a) demande du requérant;
+- b) justification;
+- c) plan de situation établi à l’échelle 1:25'000;
+- d) plan de détails à l’échelle 1:500;
+- e) plan de détails à l’échelle 1:200 en cas d’intersection particulière;
+- f) plan de cadastre à l’échelle 1:1000 en cas de périmètre de projet très vaste;
+- g) plan de construction, voire photomontage nécessaire à la bonne compréhension du projet;
+- h) expertise établie par un bureau compétent dans le domaine de la mobilité routière pour les projets de dérogations aux limitations générales de vitesse;
+- i) dossier photographique;
+- j) autorisation des propriétaires fonciers.
+
+<sup>4</sup> Le projet déposé doit être conforme au catalogue des lois régissant la matière, des normes techniques en vigueur et des règles de l’art.
+
+<sup>5</sup> La commune peut informer la population de ses projets ainsi que de ceux du canton par une publication au Bulletin officiel. Dite publication ne confère néanmoins pas de droit d'opposition.
+
+## 4 Procédure de réclames routières (art. 95 OSR)
 
 #### Art. 10
 
-<sup>1</sup> Frais
+**Assujettissement à une décision spéciale**
 
-<sup>1</sup> La commission cantonale de signalisation routière (CCSR) perçoit, lors de la notification d'une autorisation de signalisation ou d'une décision, des frais et émoluments fixés selon le tarif ci-après:
+<sup>1</sup> La mise en place, la modification ou la suppression de réclames routières sur les voies publiques et à leurs abords jusqu'à une distance de 30 mètres depuis la chaussée est soumise à une décision spéciale au sens du présent règlement.
 
-- a) Chantiers Genre de route:
-
-**Fr. 200.-- Fr. 80.-- Fr. 50.-- Fr. 40.--**
-
-- 1\. Autoroute
-
-- 2\. Route cantonale I
-
-- 3\. Route cantonale II (à faible trafic)
-
-- 4\. Route communale
-
-Durée du chantier:
-
-**Fr. 30.-- Fr. 50.-- Fr. 80.-- Fr. 100.-- Fr. 200.--**
-
-- 1\. Jusqu'à sept jours
-
-- 2\. Jusqu'à un mois
-
-- 3\. Jusqu'à six mois
-
-- 4\. Plus de six mois
-
-- 5\. Plus d'une année Genre de signalisation:
-
-Autoroute:
-
-**Fr. 30.-- Fr. 100.-- Fr. 200.--**
-
-- 1\. Bande d'arrêt d'urgence
-
-- 2\. Trafic sur une voie
-
-- 3\. Trafic bidirectionnel Route cantonale:
-
-**Fr. 20.--**
-
-- 1\. Sans intervention sur la chaussée (trottoirs - abords de la chaussée)
-
-**Fr. 40.-- Fr. 90.--**
-
-- 2\. Chantier sans feux ou palettes
-
-- 3\. Chantier avec feux ou palettes
-
-Intervention de la CCSR ou de la police prévue:
-
-**Fr. 100.--**
-
-Par intervention b) Signalisation privée 1. Par signal ou indicateur de direction 2. Pour signalisation hôtelière: par mât
-
-**Fr. 40.-- Fr. 40.--**
-
-<sup>2</sup> Les chantiers ne peuvent débuter qu'après avoir obtenu l'autorisation de mettre en place la signalisation autorisée.
-
-<sup>3</sup> Les communes sont exonérées.
+<sup>2</sup> En dehors de ce périmètre, la législation sur l'aménagement du territoire et sur les constructions s'applique.
 
 #### Art. 11
 
-**Abrogation des dispositions antérieures et entrée en vigueur**
+**Procédure**
 
-<sup>1</sup> Le présent règlement abroge toutes les dispositions contraires, en particulier l'arrêté du 31 mai 1966 sur la matière ainsi que l'arrêté du 25 mai 1983 fixant les émoluments relatifs aux décisions de la Commission cantonale de signalisation routière.
+<sup>1</sup> Le requérant engage la procédure par le dépôt auprès de l'autorité compétente d'une demande d'autorisation de construire.
 
-<sup>2</sup> Il sera publié au Bulletin officiel.
+<sup>2</sup> Le conseil municipal est l'autorité compétente pour autoriser les projets de réclames routières émanant d'une personne privée.
 
-<sup>3</sup> Il entre en vigueur simultanément à la LALCR.
+<sup>3</sup> La commission cantonale des constructions (ci-après: CCC) est l'autorité compétente pour autoriser les projets de réclames routières émanant d'une commune ainsi que ceux auxquels celle-ci est partie prenante.
 
-Ainsi arrêté en Conseil d'Etat, à Sion, le 8 novembre 1989.
+<sup>4</sup> L'autorité compétente sollicite une décision spéciale relative à la sécurité routière auprès de la commission et, en sus, auprès de la CCC lorsque le projet émane d'une personne privée et qu'il est situé à l'extérieur de la zone à bâtir. Ces décisions spéciales lient l'autorité compétente et font partie intégrante de l'autorisation de construire.
 
-Le président du Conseil d'Etat: Richard Gertschen Le chancelier d'Etat: Henri v. Roten
+## 5 Décision de la commission
 
-**Entrée en**
+#### Art. 12
 
-### Intitulé et modifications Publication
+**Décision**
 
-vigueur Règlement concernant la circulation RO/VS 1989, 285 01.01.1990 routière et la publicité sur les routes du 8 novembre 1989
+<sup>1</sup> La commission publie au Bulletin officiel ses décisions de réglementations locales du trafic qui sont indiquées par des signaux de prescription ou de priorité ou par d’autres signaux ayant un caractère de prescription, conformément à l’article 107 OSR.
 
-## Autres notes
+<sup>2</sup> La décision contient les informations suivantes:
 
-- [1] Modification du 20 janvier 1999 BO No 6/1999 08.02.1999
+- a) la dénomination du requérant;
+- b) la situation de la réglementation;
+- c) la description de la réglementation.
+
+<sup>3</sup> La décision peut être soumise au respect de charges et de conditions.
+
+#### Art. 13
+
+**Frais - Commission cantonale de signalisation routière**
+
+<sup>1</sup> Les frais comprennent les débours et l'émolument de l'autorité.
+
+<sup>2</sup> Les débours comprennent les coûts engendrés par des prestations confiées à des tiers par l'autorité, tels que les honoraires des experts, interprètes et traducteurs et autres dépenses nécessaires.
+
+<sup>3</sup> L'émolument est la taxe perçue en contrepartie de l'intervention de l'autorité, couvrant les coûts de personnel, d'appareillage, d'analyse, de secrétariat et autres coûts analogues. Il est déterminé conformément aux principes de la couverture des coûts et de l'équivalence.
+
+<sup>4</sup> La commission perçoit dans le cadre des procédures relevant de sa compétence les émoluments fixés selon le tarif ci-après:
+
+- a) signalisation de chantier:
+- 1\. frais généraux d'administration pour la demande — Fr. 100.-
+- 2\. frais administratifs pour la publication au Bulletin officiel — Fr. 80.-
+- 3\. demande complémentaire d'adaptation pour le suivi du dossier — Fr. 100.-
+- 4\. mesures d'adaptation pour les piétons et de respect de la LHand — Fr. 80.-
+- 5\. déviation du trafic routier — Fr. 100.-
+- 6\. prolongation de la validité de l'autorisation de chantier et/ou report — Fr. 50.-
+- 7\. contrôle de la signalisation sur demande d'une autorité — Fr. 100.-/h
+- b) homologation de la signalisation verticale et horizontale selon l'OSR:
+- 8\. frais généraux d'administration pour la demande — Fr. 100.-
+- 9\. frais administratifs pour la publication au Bulletin officiel — Fr. 80.-
+- 10\. frais de traitement du dossier selon la complexité — Fr. 100.- à Fr. 600.-
+- c) décision spéciale pour les réclames routières:
+- 11\. frais généraux de traitement de la demande — Fr. 100.-
+
+## 6 Voies de recours
+
+#### Art. 14
+
+**Recours**
+
+<sup>1</sup> Les décisions de la commission peuvent faire l'objet d'un recours motivé au Conseil d'Etat dans les 30 jours dès leur publication.
+
+<sup>2</sup> Durant le délai de recours, les dossiers sont consultables auprès de la commission et du bureau communal du projet concerné.
+
+<sup>3</sup> Pour le surplus, les dispositions de la loi sur la procédure et la juridiction administrative (LPJA) sont applicables.
+
+RCV RO/AGS 2022-001

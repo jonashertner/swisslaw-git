@@ -1,221 +1,250 @@
 ---
 canton: VS
 number: "741.100"
-title: Reglement betreffend die Strassensignalisation und -reklamen
+title: Reglement der Kantonalen Kommission für Strassensignalisation
 short: RKKSS
 language: de
-version: 1999-02-08
-corrected: 2017-10-06
-version_adopted: 1999-01-20
+version: 2022-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-02-16
 adopted: 2022-02-16
 in_force: 2022-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/741.100"
-pdf: "https://lex.vs.ch/api/de/versions/280/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3072/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend die Strassensignalisation und -reklamen
+# Reglement der Kantonalen Kommission für Strassensignalisation
 
-vom 8. November 1989
+vom 16.02.2022 (Stand 01.01.2022)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen Artikel 3, Absatz 2, des Ausführungsgesetzes vom 30. September 1987 über die Bundesgesetzgebung betreffend den Strassenverkehr (AGSVG) auf Vorschlag des Justiz-, Polizei- und Militärdepartementes
+eingesehen die Artikel 1 Absatz 1 Buchstabe g, Artikel 3 Absatz 2 und Artikel 30 des Ausführungsgesetzes über die Bundesgesetzgebung betreffend den Strassenverkehr vom 30. September 1987 (AGSVG);
 
-beschliesst:
+auf Antrag des für die Mobilität zuständigen Departements,
 
-### 1. Kapitel: Strassensignalisation
+verordnet: [^ingress-1]
+
+[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Statuts, oder der Funktion in gleicher Weise für Frau und Mann.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Zuständige Behörden**
+**Gegenstand**
 
-Auf öffentlichen Strassen und in der Nähe derselben können Verkehrsignale nur mit Bewilligung der zuständigen kantonalen Behörden aufgestellt werden, welche sind:
+<sup>1</sup> Dieses Reglement regelt die Organisation der Kantonalen Kommission für Strassensignalisation (nachstehend: die Kommission) und das Genehmigungsverfahren für Strassensignalisationen- und Reklamen im Bereich öffentlicher Strassen in Übereinstimmung mit der Signalisationsverordnung des Bundes (SSV).
 
-- a) der Staatsrat (Art. 1 und 2 AGSVG);
-
-- b) die kantonale Kommission für Strassensignalisation (Art. 3 AGSVG);
-
-- c) die Urversammlung, unter Vorbehalt der Genehmigung durch den Staatsrat (Art. 8 AGSVG);
-
-- d) der Gemeinderat, unter Vorbehalt der Genehmigung durch die kantonale Kommission für die Strassensignalisation (Art. 9 AGSVG).
+## 2 Kantonale Kommission für Stassensignalisation
 
 #### Art. 2
 
-**Verkehrspolizei**
+**Ernennung, Zusammensetzung und Entschädigung**
 
-<sup>1</sup> Die Agenten der Kantons- oder Gemeindepolizei sind in Ausnahmefällen für die notwendigen Massnahmen zuständig, insbesondere zur Verkehrsverminderung oder zur zeitlich begrenzten Verkehrsumleitung, dies entsprechend den Artikeln 3, Absatz 6, des Bundesgesetzes über den Strassenverkehr (SVG) und 107, Absatz 4, der Verordnung über die Strassensignalisation (SSV).
+<sup>1</sup> Die Kommission wird vom Staatsrat ernannt.
 
-<sup>2</sup> Die Agenten der Kantonspolizei sind beauftragt, ausserordentliche Bewilligungen zu erteilen (Art. 17, Abs. 1 SSV), unter Vorbehalt von Artikel 6 AGSVG in Bezug auf die Nationalstrassen und die Kantonsstrassen und -wege.
+<sup>2</sup> Sie setzt sich aus 5 Mitgliedern zusammen:
+
+- a) einem Präsidenten und einem Vizepräsidenten, die nicht der Kantonsverwaltung angehören und aus den beiden Sprachregionen des Kantons stammen;
+- b) 3 verwaltungsinternen Mitgliedern, von denen je eines der Kantonspolizei, der Dienststelle für Mobilität sowie dem Verwaltungs- und Rechtsdienst des für die Mobilität zuständigen Departements, angehört.
+
+<sup>3</sup> Für jedes verwaltungsinterne Mitglied gibt es eine Ersatzperson als Vertretung bei Abwesenheit.
+
+<sup>4</sup> Die Mitglieder der Kommission werden vom Staatsrat für die Dauer einer Verwaltungsperiode von 4 Jahren ernannt, und ihr Mandat kann erneuert werden.
+
+<sup>5</sup> Die vom Staatsrat ernannten staatlichen Vertreter beziehen keine Sitzungsgelder.
+
+<sup>6</sup> Die Entschädigungen der verwaltungsexternen Kommissionsmitglieder für Sitzungen und die dafür aufgewendete Zeit (Dossierstudium, Vorbereitungsarbeiten usw.) werden folgendermassen festgesetzt:
+
+- a) pro Tag — Fr. 600.-
+- b) pro Halbtag — Fr. 300.-
+- c) pro Einzelstunde — Fr. 70.-
+
+<sup>7</sup> Über die oben aufgeführten Entschädigungen hinaus beziehen der Präsident und der Vizepräsident der Kommission eine Jahrespauschale von 4000 bzw. 2000 Franken.
 
 #### Art. 3
 
-**Kommission für Strassensignalisation. a) Zusammensetzung**
+**Status**
 
-<sup>1</sup> Die Kommission für Strassensignalisation setzt sich zusammen aus einem Präsidenten, einem Vizepräsidenten, einem Sekretär und acht Mitgliedern.
+<sup>1</sup> Die Kommission ist ein unabhängiges Entscheindungsorgan und administrativ dem Verwaltungs- und Rechtsdienst des für die Mobilität zuständigen Departements angegliedert.
 
-<sup>2</sup> Sie kann eine Unterkommission bestimmen, die sich zusammensetzt aus dem Präsidenten oder dem Vizepräsidenten, dem Sekretär und zwei technischen Inspektoren, die mit der Annahme der verschiedenen Baustellensignalisationen beauftragt sind und die der für das Bauwesen zuständigen Behörde eine Vormeinung abzugeben haben, wenn es sich um Werbebauten auf der Strasse handelt.
+#### Art. 4
 
-#### Art. 4 b
+**Grundsätze**
 
-**) Zuständigkeiten**
+<sup>1</sup> Die Kommission handelt nach den folgenden Grundsätzen:
 
-Zusätzlich zu den in Artikel 3 AGSVG umschriebenen Aufgaben, ist die Kommission für Strassensignalisation beauftragt a) den Bauunternehmern Weisungen für die Signalisation der Baustellen zu erteilen (Art. 81 SSV);
-
-- b) die Aufsicht über die Strassensignalisation zu führen (Art. 105 SSV);
-
-- c) periodische Besichtigungen der Signalisation auf den Durchgangsstrassen vorzunehmen (Art. 105, Abs. 3, SSV);
-
-- d) das Verfahren zur Anbringung der Signalisation auf Kantonsstrassen und -wegen durchzuführen (Art. 107 SSV).
+- a) zur Anbringung einer ortsgerechten und klaren Strassensignalisation beizutragen, die gesetzeskonform ist und den technischen Normen entspricht;
+- b) sicherzustellen, dass Begleitmassnahmen für die Vorbereitung von Dossiers, den technischen Standards und gesetzlichen Anforderungen entsprechen;
+- c) die Kommunikation mit den kantonalen Stellen und den Gemeinden aktiv zu pflegen und zu fördern;
+- d) die Sicherheit auf den öffentlichen Strassen durch die vertikale und horizontale Signalisation zu gewährleisten;
+- e) eine kohärente kantonale Vision der Strassensignalisation als Element zur Verbesserung des öffentlichen Raums zu pflegen.
 
 #### Art. 5
 
-**Baudepartement**
+**Befugnisse**
 
-Ausser der Obliegenheiten gemäss den Artikeln 6 und 21 AGSVG, ist das Baudepartement beauftragt:
+<sup>1</sup> Die Kommission ist befugt:
 
-- a) das zulässige Gewicht und die zulässigen Masse für Ausnahmefahrzeuge und Ausnahmetransporte auf Durchgangsstrassen zu bestimmen (Art. 110, Abs. 4, SSV);
+- a) bei Anhörungen zu Ausführungsprojekten im Strassenbau Antworten abzugeben;
+- b) das Verfahren zur Genehmigung einer Strassensignalisation auf öffentlichen Strassen durchzuführen (Art. 3 und 4 SVG; Art. 107 SSV);
+- c) Signale und Markierungen auf öffentlichen Strassen zu genehmigen (Art. 3 und 4 SVG; Art. 107 SSV);
+- d) das Entfernen bewilligter Signale oder Markierungen zu genehmigen;
+- e) die genehmigte Strassensignalisation zu beaufsichtigen und bei sich ändernder Sachlage deren Anpassung zu verlangen (Art. 105 SSV);
+- f) den Unternehmungen Anweisungen für die Baustellensignalisation zu erteilen (Art. 81 SSV);
+- g) die Baustellensignalisation zu genehmigen und zu kontrollieren (Art. 81 SSV);
+- h) Spezialbewilligungen für Strassenreklamen im Bereich öffentlicher Strassen zu erteilen;
+- i) interne Arbeitshilfen, Richtlinien und Weisungen zur Festlegung des Ablaufs von Verfahren in ihrer Zuständigkeit zu erlassen.
 
-- b) den Informationsmedien Auskünfte über die Verkehrsbedingungen zu erteilen (Art. 110, Abs. 5, SSV);
+<sup>2</sup> Die Kommission kann ausserdem:
 
-- c) die Lieferung, das Anbringen und den Unterhalt der Signale, Markierungen und Abschrankungen auf den Nationalstrassen, auf den Kantons-strassen und -wegen sowie auf Kreuzungen zwischen Gemeindestrassen und -wegen mit Nationalstrassen und Kantonsstrassen und -wegen zu gewährleisten.
+- a) unter Vorgabe eines gewünschten Ausführungsrahmens einzelne ihrer Befugnisse delegieren;
+- b) eine Unterkommission ernennen, die sich aus dem Präsidenten oder dem Vizepräsidenten, dem Sekretär und 2 technischen Inspektoren zusammensetzt und für die Genehmigung zuständig ist;
+- c) im Rahmen einer erweiterten Kommission die Fachkompetenzen der im Bereich der Strassensignalisation tätigen Partner in Anspruch nehmen.
 
 #### Art. 6
 
-**Gemeinderat**
+**Sitzungen und Abstimmungen**
 
-<sup>1</sup> Unter Vorbehalt der Genehmigung der Kommission für Strassensignalisation ist der Gemeinderat ermächtigt, Privaten das Anbringen von zweckmässigen Signalisationen auf ihren Privatgrundstücken zu bewilligen (Art. 104, Abs. 5, SSV).
+<sup>1</sup> Die Kommission hält ihre ordentlichen Sitzungen zweimal monatlich ab. Wenn die Tragweite oder die Zahl der Dossiers dies erfordert, können die Sitzungen auch häufiger abgehalten werden.
 
-<sup>2</sup> Unter Vorbehalt von Artikel 6 AGSVG, kann er Ausnahmebewilligungen auf Gemeindestrassen und -wegen (Art. 17, Abs. 1, SSV) gewähren. Er kann diese Befugnis an die Gemeindepolizei übertragen.
+<sup>2</sup> Die Kommission ist beschlussfähig, wenn ein Mitglied des Präsidiums und mindestens 2 Mitglieder der Kantonsverwaltung anwesend sind.
 
-<sup>3</sup> Auf diesen Strassen und Wegen besorgt er die Lieferung, das Anbringen und den Unterhalt der Signale, Markierungen und Abschrankungsvorrichtungen.
+<sup>3</sup> Die Sitzungen in erweiterter Zusammensetzung mit ihren offiziellen Partnern werden zweimal jährlich abgehalten.
 
-<sup>4</sup> Er leitet das Anbringen der Signalisation auf den Gemeindestrassen und -wegen (Art. 107 SSV) und auf den Privatgrundstücken.
+<sup>4</sup> Jedes Mitglied der Kommission hat eine Stimme.
+
+<sup>5</sup> Die Kommission kann ihre Entscheide auf dem Zirkulationsweg erlassen.
+
+<sup>6</sup> Bei Stimmengleichheit fällt der Präsident, und in dessen Abwesenheit der Vizepräsident, mit seiner Stimme den Stichentscheid.
 
 #### Art. 7
 
-**Kostenbelastung**
+**Verpflichtungsform**
 
-<sup>1</sup> Die Signalisationskosten, die während des Baues oder der Korrektion von öffentlichen kantonalen Verkehrsadern entstehen, sind in denen des Werkes einzubeziehen und auf gleiche Weise zu verteilen.
-
-<sup>2</sup> Ausser diesen Fällen, sind die Kosten für Lieferung, Aufstellen und Unterhalt der Verkehrssignale, Markierungen und Abschrankungen zu übernehmen:
-
-- a) vom Staat und von den Gemeinden, für Nationalstrassen und kantonale Verkehrsadern im gleichen Verhältnis wie die Kosten für den Unterhalt der Strassen;
-
-- b) durch die Gemeinden, für Gemeindestrassen und -wege;
-
-- c) durch die Eigentümer für Privatstrassen und -plätze.
-
-### 2. Kapitel: Strassenreklamen
+<sup>1</sup> Die Kommission verpflichtet sich rechtsgültig durch die Kollektivunterschrift des Präsidenten, bzw. in dessen Abwesenheit des Vizepräsidenten, und des Sekretärs.
 
 #### Art. 8
 
-**Zuständige Behörden**
+**Sekretariat**
 
-<sup>1</sup> Ausserorts ist für sämtliches Aufstellen von Reklametafeln oder Ankündigungen auf öffentlichen Verkehrsadern und innerhalb 30 Metern von deren Rand eine schriftliche Bewilligung erforderlich. Diese wird durch die zuständige kantonale Behörde für das Bauwesen nach Anhörung der Kommission für Strassensignalisation oder durch die Gemeinde, wenn es sich um öffentliche Gemeindeverkehrsadern handelt, erteilt.
+<sup>1</sup> Das Sekretariat der Kommission ist an den Verwaltungs- und Rechtsdienst des für die Mobilität zuständigen Departements angegliedert.
 
-<sup>2</sup> Ausserhalb der Zone von 30 Metern sind die Bestimmungen der Gemeindereglemente und das kantonale Baurecht anwendbar.
+<sup>2</sup> Es setzt sich aus dem Sekretär, administrativen Mitarbeitern und Inspektoren zusammen. Es nimmt alle Gesuche entgegen, die der Kommission zu unterbreiten sind.
 
-<sup>3</sup> Innerorts erteilt die zuständige kantonale Behörde für das Bauwesen die Bewilligung auf Vormeinung der Gemeinde und der Kommission für Strassensignalisation.
+<sup>3</sup> Als Sekretär ernennt der Staatsrat den Sektionchef. Er sorgt für die Führung des Sekretariats, unterstützt das Präsidium und nimmt ohne Stimmrecht an den Sitzungen teil. Bei Abwesenheit wird er mit der Einwilligung der Kommission für den betreffenden Zeitraum ersetzt.
 
-<sup>4</sup> Die Kantonspolizei ist zuständig zur Erteilung von zeitlich begrenzten Bewilligungen (Plakate, Spruchbänder usw.). Vorbehalten bleiben die Bestimmungen des Gesetzes über die Plakatreklamen.
+<sup>4</sup> Das Sekretariat hat insbesondere die folgenden Aufgaben:
 
-### 3. Kapitel: Allgemeine Bestimmungen
+- a) Erledigung der operativen Angelegenheiten der Kommission;
+- b) Zusammentragung der Stellungnahmen der kantonalen Fachstellen zu den von der Kommission zu treffenden Entscheide;
+- c) Bereitstellung der Dossiers, die eine Genehmigung der Kommission benötigen;
+- d) Beratung, Hilfestellung und Auskunftserteilung für Gesuchsteller betreffend die Verfahrensabwicklung.
+
+## 3 Genehmigungsverfahren für Strassensignalisationen und Markierungen
 
 #### Art. 9
 
-**Rechtsmittel**
+**Verfahren**
 
-<sup>1</sup> Gegen die Entscheide der kantonalen Kommission für Strassensignalisation kann innert 30 Tagen nach Zustellung an den Staatsrat Rekurs eingereicht werden.
+<sup>1</sup> Das Anbringen oder Entfernen von Strassensignalisationen und Markierungen muss von der Kommission, auf Gesuch des Strasseneigentümers, genehmigt werden
 
-<sup>2</sup> Im übrigen sind die Rechtsmittel gegen Entscheide aufgrund des vorliegenden Reglementes durch das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege, das Gesetz über die Gemeindeordnung und die Baugesetzgebung geregelt.
+<sup>2</sup> Wenn die Strassensignalisation privaten Interessen dient, namentlich Sicherheitsinteressen, wie das Anbringen eines Verkehrsspiegels, einer Markierung oder einer Vorschriftstafel, muss das Gesuch beim Gemeinderat eingereicht werden, welcher dann eine Vormeinung dazu abgibt und das Dossier für den Entscheid an die Kommission weiterleitet.
+
+<sup>3</sup> Das Dossier hat je nach dem betreffenden Projekt die folgenden Unterlagen und Angaben zu enthalten:
+
+- a) das Gesuch des Antragstellers;
+- b) das Begründungsschreiben;
+- c) einen Situationsplan im Massstab 1:25’000;
+- d) einen Detailplan im Massstab 1:500;
+- e) einen Detailplan im Massstab 1:200 im Falle einer besonderen Verzweigung;
+- f) den Katasterplan im Massstab 1:1000 im Falle eines grosse Projektperimeters;
+- g) den Bauplan und allenfalls, sofern dem besseren Projektverständnis dienlich, eine Fotosimulation;
+- h) bei Vorhaben für ein Abweichen von den allgemeinen Höchstgeschwindigkeiten das Gutachten eines im Bereich Verkehrsplanung kompetenten Fachbüros;
+- i) Fotodossier;
+- j) Einwilligung der Grundeigentümer.
+
+<sup>4</sup> Das eingereichte Projekt muss dem Katalog der einschlägigen Gesetze, den geltenden technischen Normen und den Regeln der Kunst entsprechen.
+
+<sup>5</sup> Die Gemeinde kann die Bevölkerung über ihre Projekte und über Projekte des Kantons durch eine Publikation im Amtsblatt informieren. Eine solche Publikation begründet jedoch kein Einspracherecht.
+
+## 4 Verfahren für Strassenreklamen (Art. 95 SSV)
 
 #### Art. 10
 
-<sup>1</sup> Kosten
+**Spezialbewilligungspflicht**
 
-<sup>1</sup> Die kantonale Strassensignalisationskommission (KSSK) erhebt bei der Eröffnung einer Signalisationsbewilligung oder eines Entscheides Kosten und Gebühren, die gemäss nachstehendem Ansatz festgesetzt werden:
+<sup>1</sup> Das Anbringen, Abändern oder Entfernen von Strassenreklamen im Bereich von Strassen bis zu einem Abstand von 30 Meter zur Fahrbahn unterliegt einer Spezialbewilligung nach dem vorliegenden Reglement.
 
-- a) Baustellen Strassenart:
-
-**Fr. 200.-- Fr. 80.-- Fr. 50.-- Fr. 40.--**
-
-- 1\. Autobahn
-
-- 2\. Kantonsstrasse I
-
-- 3\. Kantonsstrasse II (mit geringem Verkehr)
-
-- 4\. Gemeindestrassen
-
-Dauer der Baustelle:
-
-**Fr. 30.-- Fr. 50.--**
-
-- 1\. bis zu 7 Tagen
-
-- 2\. bis zu 1 Monat
-
-**Fr. 80.-- Fr. 100.-- Fr. 200.--**
-
-- 3\. bis zu 6 Monat
-
-- 4\. mehr als 6 Monate
-
-- 5\. mehr als ein Jahr
-
-Signalisationsart:
-
-**Fr. 30.-- Fr. 100.-- Fr. 200.-- Fr. 20.--**
-
-Autobahn: 1. Pannenstreifen 2. einspuriger Verkehr 3. Gegenverkehr Kantonsstrasse: 1. Ohne Eingriff auf die Fahrbahn
-
-(Gehsteige - Fahrbahnrand)
-
-**Fr. 40.--**
-
-- 2\. Baustellen ohne Leuchten oder
-
-Drehkellen
-
-**Fr. 90.--**
-
-- 3\. Baustellen mit Leuchten oder
-
-Drehkellen
-
-Vorgesehener Eingriff der KSSK oder der Polizei Pro Intervention b) Private Signalisation 1. Pro Signal oder Wegweiser 2. Für Hotelsignalisation: pro Pfosten
-
-**Fr. 100.--**
-
-**Fr. 40.-- Fr. 40.--**
-
-<sup>2</sup> Die Baustellen dürfen erst beginnen, nachdem die Bewilligung zur Aufstellung der Baustellensignalisation erteilt worden ist.
-
-<sup>3</sup> Die Gemeinden sind von den Gebühren befreit.
+<sup>2</sup> Ausserhalb dieses Bereichs gelten die Bestimmungen des Raumplanungs- und des Baurechts.
 
 #### Art. 11
 
-**Aufhebung der bisherigen Bestimmungen und Inkrafttreten**
+**Verfahren**
 
-<sup>1</sup> Das vorliegende Reglement hebt alle gegenteiligen Bestimmungen auf, insbesondere den Beschluss vom 31. Mai 1966 betreffend die Strassensignalisation und -reklamen und den Beschluss vom 28. Mai 1983 betreffend die Entscheidsgebühren der kantonalen Kommission für Strassensignalisation.
+<sup>1</sup> Der Gesuchsteller leitet das Verfahren durch die Einreichung eines Baugesuchs bei der zuständigen Behörde ein.
 
-<sup>2</sup> Das vorliegende Reglement wird im Amtsblatt veröffentlicht.
+<sup>2</sup> Der Gemeinderat ist die zuständige Behörde für die Bewilligung von Strassenreklameprojekten, die von Privatpersonen ausgehen.
 
-<sup>3</sup> Es tritt gleichzeitig mit dem AGSVG in Kraft.
+<sup>3</sup> Die kantonale Baukommission (nachstehend: KBK) ist die zuständige Behörde für Strassenreklameprojekte, die von der Gemeinde ausgehen oder an denen diese beteiligt ist.
 
-So beschlossen im Staatsrat zu Sitten, den 8. November 1989.
+<sup>4</sup> Die zuständige Behörde holt bei der Kommission eine Spezialbewilligung bezüglich der Verkehrssicherheit ein, und auch eine Bewilligung der KBK, wenn das Projekt von einer Privatperson ausgeht und ausserhalb der Bauzone liegt. Diese Entscheide sind für die zuständige Behörde bindend und integraler Bestandteil der Baubewilligung.
 
-Der Präsident des Staatsrates: Richard Gertschen Der Staatskanzler: Henri v. Roten
+## 5 Entscheid der Kommission
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+#### Art. 12
 
-Reglement betreffend die GS/VS 1989, 289 01.01.1990
+**Entscheid**
 
-### Strassensignalisation und -reklamen vom 8. November 1989
+<sup>1</sup> Gemäss Artikel 107 SSV veröffentlicht die Kommission ihre Entscheide über örtliche Verkehrsanordnungen, die durch Vorschrifts- oder Vortrittssignale oder durch andere Signale mit Vorschriftscharakter angezeigt werden, im Amtsblatt.
 
-## Weitere Fussnoten
+<sup>2</sup> Der Entscheid enthält die folgenden Angaben:
 
-- [1] Änderung vom 20. Januar 1999 GS/VS 1999, 209 08.02.1999
+- a) den Namen des Antragstellers;
+- b) den Ort und die Lage der Verkehrsanordnung;
+- c) eine Beschreibung der Verkehrsanordnung.
+
+<sup>3</sup> Der Entscheid kann an Auflagen und Bedingungen geknüpft werden.
+
+#### Art. 13
+
+**Kosten – Kantonale Kommission für Strassensignalisation**
+
+<sup>1</sup> Die Kosten setzen sich aus Gebühren und Auslagen der Behörde zusammen.
+
+<sup>2</sup> Als Auslagen verrechnet die Behörde die Kosten, die ihr aus Leistungen Dritter entstehen, so etwa Honorare für Experten, Dolmetscher und übersetzer sowie weitere notwendige Ausgaben.
+
+<sup>3</sup> Als Gebühr verrechnet die Behörde den Aufwand an Personal, Gerätschaften, Laboranalysen, Sekretariatsarbeiten und ähnlichem, der ihr bei Erbringung einer behördlichen Leistung entsteht.
+
+<sup>4</sup> Die Kommission erhebt die Gebühren, die ihr im Rahmen der Verfahren in ihrer Zuständigkeit entstehen, gemäss dem folgenden Tarif:
+
+- a) Baustellensignalisation:
+- 1\. Allgemeine Verwaltungskosten für das Gesuch — Fr.100.-
+- 2\. Verwaltungskosten für die Veröffentlichung im Amtsblatt — Fr. 80.-
+- 3\. Anfordern von zur Gesuchsbehandlung erforderlichen Unterlagen — Fr. 100.-
+- 4\. Anpassungsmassnahmen für Fussgänger und zur Einhaltung des BehiG — Fr. 80.-
+- 5\. Verkehrsumleitung — Fr. 100.-
+- 6\. Verlängerung oder Aufschub der Signalisationsbewilligung — Fr. 50.-
+- 7\. Kontrolle der Signalisation auf Verlangen der Behörde — Fr. 100.-/St
+- b) Genehmigung für Signale und Markierungen gemäss der SSV:
+- 8\. Allgemeine Verwaltungskosten für das Gesuch — Fr. 100.-
+- 9\. Verwaltungskosten für die Veröffentlichung im Amtsblatt — Fr. 80.-
+- 10\. Bearbeitungskosten bei aufwändigen Dossiers — Fr. 100.- à Fr. 600.-
+- c) Spezialbewilligung für Strassenreklamen:
+- 11\. Allgemeine Verwaltungskosten für das Gesuch — Fr. 100.-
+
+## 6 Rechtsmittel
+
+#### Art. 14
+
+**Beschwerde**
+
+<sup>1</sup> Entscheide der Kommission können innert 30 Tagen nach ihrer Publikation mit schriftlicher und begründeter Beschwerde beim Staatsrat angefochten werden.
+
+<sup>2</sup> Während der Beschwerdefrist kann bei der Kommission und auf dem Gemeindebüro der Standortgemeinde Einsicht in das Dossier genommen werden.
+
+<sup>3</sup> Ausserdem sind die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) anwendbar.
+
+CSW RO/AGS 2022-001
