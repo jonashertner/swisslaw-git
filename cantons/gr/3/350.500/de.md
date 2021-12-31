@@ -2,24 +2,24 @@
 canton: GR
 number: "350.500"
 title: Gesetz über den Justizvollzug im Kanton Graubünden
-short: Justizvollzugsgesetz; JVG
+short: "Justizvollzugsgesetz, JVG"
 language: de
-version: 2017-01-01
-corrected: 2018-01-10
-version_adopted: 2016-02-02
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2839/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3250/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Justizvollzug im Kanton Graubünden
 
-(Justizvollzugsgesetz; JVG)
+(Justizvollzugsgesetz, JVG)
 
-Vom 27.08.2009 (Stand 01.01.2017)
+Vom 27.08.2009 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -39,7 +39,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt den Vollzug strafrechtlicher Sanktionen sowie die Bewährungshilfe und die soziale Betreuung. Sofern keine besonderen Bestimmungen bestehen, ist das Gesetz ferner auf die in Artikel 13 erwähnten Formen des Freiheitsentzugs anwendbar.
+<sup>1</sup> Dieses Gesetz regelt den Vollzug strafrechtlicher Sanktionen, die Bewährungshilfe und die soziale Betreuung sowie weitere Aufgaben, die den für den Justizvollzug zuständigen Amtsstellen übertragen werden. Sofern keine besonderen Bestimmungen bestehen, ist das Gesetz ferner auf die in Artikel 13 erwähnten Formen des Freiheitsentzugs anwendbar, die nicht den Vollzug von strafrechtlichen Sanktionen betreffen.
 
 <sup>2</sup> Die von der Ostschweizerischen Strafvollzugskommission beschlossenen und als verbindlich erklärten Richtlinien gelten in Ergänzung zum vorliegenden Gesetz als unmittelbar anwendbar.
 
@@ -59,9 +59,9 @@ beschliesst:
 
 <sup>1</sup> Die Regierung regelt das Nähere insbesondere über:
 
-- a) die Verfahren zur Vorbereitung, Durchführung und Beendigung der gemeinnützigen Arbeit, der Freiheitsstrafen und Massnahmen sowie des vorzeitigen Straf- und Massnahmenantritts;
+- a) die Verfahren zur Vorbereitung, Durchführung und Beendigung der Freiheitsstrafen und Massnahmen sowie des vorzeitigen Straf- und Massnahmenantritts;
 - b) den Vollzug freiheitsentziehender Sanktionen in staatlichen Einrichtungen, insbesondere die Rechte und Pflichten der Verurteilten im Anstaltsalltag sowie die Sicherungs- und Disziplinarmassnahmen;
-- c) die Durchführung der Bewährungshilfe, der Weisungskontrolle und der freiwilligen sozialen Betreuung;
+- c) die Durchführung der Bewährungshilfe, der Ersatzmassnahmen, der Weisungskontrolle und der freiwilligen sozialen Betreuung;
 - d) die Untersuchungs- und Sicherheitshaft und den Polizeigewahrsam;
 - e) die weisungsgebundene Mitarbeit des zuständigen Amtes im Jugendstrafverfahren;
 - f) die Einzelheiten der Verpflichtung der verurteilten Person zur teilweisen Kostenübernahme gemäss Artikel 380 StGB[^3-1].
@@ -74,14 +74,30 @@ beschliesst:
 
 #### Art. 4
 
-**Gemeinnützige Arbeit, Freiheitsstrafen und Massnahmen**
+**Freiheitsstrafen und Massnahmen 1. Zuständigkeit und Verfahren**
 
-<sup>1</sup> Wo das Strafgesetzbuch[^4-1] die Zuständigkeit zur Anordnung von Vollzugshandlungen einem Gericht überträgt, ist dafür das Gericht zuständig, welches das erstinstanzliche Urteil gefällt hat.
+<sup>1</sup> Wo das StGB[^4-1] die Zuständigkeit zur Anordnung von Vollzugshandlungen einem Gericht überträgt, ist dafür das Gericht zuständig, welches das erstinstanzliche Urteil gefällt hat. Dieses Gericht entscheidet auf Antrag des Amts auch über die Aufhebung von Massnahmen gemäss Artikel 59, Artikel 60, Artikel 61 und Artikel 63 StGB, wenn gleichzeitig in einem gerichtlichen Verfahren über Rechtsfolgen zu entscheiden ist.
 
-<sup>2</sup> Die Regierung bezeichnet die für den Vollzug von gemeinnütziger Arbeit, Freiheitsstrafen und Massnahmen zuständigen Amtsstellen, soweit das Strafgesetzbuch, das Jugendstrafgesetz[^4-2] oder andere Erlasse nicht etwas anderes bestimmen.
+<sup>2</sup> Im Übrigen bezeichnet die Regierung die für den Vollzug von Freiheitsstrafen und Massnahmen zuständigen Amtsstellen, soweit das StGB, das Jugendstrafgesetz[^4-2] oder andere Erlasse nicht etwas anderes bestimmen.
+
+<sup>3</sup> Amtet ein Gericht als Vollzugsbehörde, gilt für das Verfahren die Schweizerische Strafprozessordnung[^4-3]. Das Verfahren vor anderen Strafvollzugsbehörden richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^4-4], soweit dieses Gesetz nichts anderes vorsieht.
 
 [^4-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 [^4-2]: SR [311.1](https://db.clex.ch/link/Bund/311.1/de)
+[^4-3]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^4-4]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+
+#### Art. 4a
+
+**2. Beizug Dritter**
+
+<sup>1</sup> Die für den Vollzug von Strafen und Massnahmen zuständigen Stellen können für die Erfüllung einzelner Aufgaben anerkannte staatliche und private Anstalten und Einrichtungen sowie amtliche und private Fachpersonen beiziehen, insbesondere für die Gesundheitsversorgung, die Betreuung und für die Gewährleistung der Sicherheit.
+
+<sup>2</sup> Die Beigezogenen müssen über die erforderlichen Fachkenntnisse verfügen und Gewähr für eine einwandfreie Aufgabenerfüllung bieten. Sie können einer Personensicherheitsüberprüfung durch die Kantonspolizei unterzogen werden.
+
+<sup>3</sup> Beigezogene, denen Sicherheitsaufgaben übertragen werden, sind berechtigt, unmittelbaren Zwang auszuüben und Hilfsmittel einzusetzen, soweit dies zur Erfüllung der ihnen übertragenen Vollzugsaufgaben erforderlich ist.
+
+<sup>4</sup> Die zuständigen Stellen legen die zur Aufgabenerfüllung notwendigen Anforderungen fest. Sie können mit den Beigezogenen eine Leistungsvereinbarung schliessen.
 
 #### Art. 5
 
@@ -89,9 +105,9 @@ beschliesst:
 
 <sup>1</sup> Geldstrafen und Bussen fallen, unter Vorbehalt besonderer Zweckbestimmungen, in die Kasse der in erster Instanz zuständigen Gerichtsbehörden oder Verwaltungsinstanzen. Den Verwaltungsinstanzen obliegt der Einzug der von ihnen ausgefällten Geldstrafen und Bussen.
 
-<sup>2</sup> Ist an die Stelle einer Geldstrafe oder Busse die Ersatzfreiheitsstrafe oder die gemeinnützige Arbeit getreten, fällt die Geldstrafe oder Busse bei nachträglicher Bezahlung dem Amt für Justizvollzug zu.
+<sup>2</sup> Ist an die Stelle einer Geldstrafe oder Busse eine Ersatzfreiheitsstrafe getreten, fällt die Geldstrafe oder Busse bei nachträglicher Bezahlung dem Amt zu.
 
-<sup>3</sup> Die Umwandlung von Bussen, welche von einer Verwaltungsinstanz ausgesprochen wurden, in gemeinnützige Arbeit oder eine Ersatzfreiheitsstrafe verfügt auf Antrag des Amtes die Staatsanwaltschaft.
+<sup>3</sup> Die Umwandlung von Bussen, welche von einer Verwaltungsinstanz ausgesprochen wurden, in eine Ersatzfreiheitsstrafe verfügt auf Antrag des Amts die Staatsanwaltschaft.
 
 <sup>4</sup> Für Bussen, die von Gemeindebehörden gestützt auf Strafbestimmungen des Kantons oder der Gemeinde ausgesprochen worden sind, ist die Umwandlung ausgeschlossen.
 
@@ -111,29 +127,30 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Verurteilte in günstigen finanziellen Verhältnissen können durch das urteilende Gericht oder durch das Amt zu Beiträgen an die Vollzugskosten verpflichtet werden.
+<sup>3</sup> …
 
 #### Art. 8
 
 **Kostenbeteiligung**
 
-<sup>1</sup> Der verurteilten Person zustehende Versicherungsleistungen für Behandlungen sowie Sozialversicherungsleistungen werden zur Kostendeckung verwendet.
+<sup>1</sup> Der verurteilten oder eingewiesenen Person zustehende Versicherungsleistungen für Behandlungen sowie anderweitige Sozialversicherungsleistungen werden zur Kostendeckung verwendet.
 
-<sup>2</sup> Die verurteilte Person:
+<sup>2</sup> Die verurteilte oder eingewiesene Person:
 
-- a) bezahlt persönliche Anschaffungen, insbesondere Raucherwaren, Genussmittel, Toilettenartikel und Zeitungsabonnemente, Urlaubskosten sowie Gebühren für die Benützung von Radio-, Fernseh- und Telefonanlagen;
-- b) hat sich an den Kosten der Halbgefangenschaft, des Arbeitsexternats sowie des Wohn- und Arbeitsexternats angemessen zu beteiligen;
-- c) trägt die Kosten für Sozial- und Krankenversicherungsbeiträge sowie Franchisen und Selbstbehalte;
+- a) bezahlt persönliche Auslagen, insbesondere Raucherwaren, Genussmittel, Toilettenartikel und Zeitungsabonnemente, Urlaubskosten sowie Gebühren für die Benützung von Radio-, Fernseh- und Telefonanlagen;
+- b) hat sich an den Kosten der Halbgefangenschaft, des Arbeitsexternats, des Wohn- und Arbeitsexternats sowie der elektronischen Überwachung angemessen zu beteiligen;
+- c) hat sich an den Gesundheitskosten angemessen zu beteiligen, wenn sie nicht versichert ist;
 - d) trägt die Kosten für besondere Weiterbildungsmassnahmen und Heimschaffung, soweit es ihr möglich und zumutbar ist;
-- e) trägt die Kosten von gerichtlich oder behördlich angeordneten ambulanten Behandlungen, sofern nicht Dritte oder die Gemeinde, in der die betroffene Person ihren letzten Wohnsitz oder Aufenthalt hatte, dafür aufkommen.
+- e) hat sich an den Kosten von angeordneten, nicht vollzugsbegleitenden ambulanten Behandlungen angemessen zu beteiligen, sofern nicht Dritte dafür aufkommen;
+- f) hat sich in den übrigen Fällen im Rahmen ihrer finanziellen Möglichkeit angemessen an den Vollzugskosten zu beteiligen.
 
-### 2.3. Besondere Vollzugsformen
+<sup>3</sup> Für besondere Vollzugsformen und weitere besondere Auslagen, die im Interesse der verurteilten oder eingewiesenen Personen getätigt werden, können ein angemessener Vorschuss verlangt oder Ratenzahlungen vereinbart werden.
+
+### 2.3.
 
 #### Art. 9
 
-**Besondere Vollzugsformen**
-
-<sup>1</sup> Besondere Vollzugsformen können im Rahmen der vom Bund erteilten Bewilligungen durchgeführt werden.
+**…**
 
 ### 2.4. Vollzug jugendstrafrechtlicher Sanktionen
 
@@ -141,13 +158,15 @@ beschliesst:
 
 **Jugendliche**
 
-<sup>1</sup> Für den Vollzug von Strafen und Schutzmassnahmen gegenüber Jugendlichen im Sinne von Artikel 41 Absatz 1 JStPO[^10-1] ist die Jugendanwaltschaft zuständig.
+<sup>1</sup> Für den Vollzug von Strafen und Schutzmassnahmen gegenüber Jugendlichen im Sinne von Artikel 42 Absatz 1 JStPO[^10-1] ist die Jugendanwaltschaft zuständig.
 
-<sup>2</sup> Das Amt für Justizvollzug vollzieht im Auftrag der Jugendanwaltschaft alle Schutzmassnahmen und Strafen gegenüber Jugendlichen.
+<sup>2</sup> Das Amt vollzieht im Auftrag der Jugendanwaltschaft alle Schutzmassnahmen und Strafen gegenüber Jugendlichen. Dazu gehören auch während laufendem Strafverfahren angeordnete vorsorgliche Schutzmassnahmen, die elektronische Überwachung eines Tätigkeits-, Kontakts- und Rayonverbots, der Einsatz der elektronischen Überwachung als Ersatzmassnahme und zur Sicherung der bedingten Entlassung.
 
 <sup>3</sup> Für die Mitwirkung beim Vollzug von Strafen und Schutzmassnahmen kann die Jugendanwaltschaft auch die Sozialdienste des Kantons oder der Gemeinden beiziehen.
 
 <sup>4</sup> Die Bussen fallen in die Staatskasse. Der Vollzug der Bussen und der Einzug der auferlegten Kosten obliegen dem Kanton.
+
+<sup>5</sup> Die Kosten des Vollzugs von Strafen und Schutzmassnahmen gegenüber Jugendlichen gehen zu Lasten des Kantons, soweit nicht die Eltern, die Jugendlichen, ein anderer Kanton oder Dritte hierfür aufkommen.
 
 [^10-1]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
@@ -155,9 +174,9 @@ beschliesst:
 
 **Allgemeine Bestimmungen**
 
-<sup>1</sup> Im Übrigen finden Artikel 43 JStG[^11-1] und die Bestimmungen dieses Gesetzes über den Straf- und Massnahmenvollzug sinngemäss Anwendung.
+<sup>1</sup> Im Übrigen finden Artikel 42 und Artikel 45 JStPO[^11-1] und die Bestimmungen dieses Gesetzes über den Straf- und Massnahmenvollzug sinngemäss Anwendung.
 
-[^11-1]: SR [311.1](https://db.clex.ch/link/Bund/311.1/de)
+[^11-1]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 ## 3. Vollzugseinrichtungen
 
@@ -171,19 +190,101 @@ beschliesst:
 
 #### Art. 13
 
-**Justizvollzugsanstalten und andere Institutionen**
+**Aufgaben**
 
-<sup>1</sup> Die kantonalen Justizvollzugsanstalten sowie die anderen Institutionen dienen dem Vollzug:
+<sup>1</sup> Die im Kanton betriebenen Vollzugseinrichtungen dienen dem Vollzug:
 
 - a) von Freiheitsstrafen und freiheitsentziehenden Massnahmen;
 - b) der Untersuchungs-, der Sicherheits- und der Auslieferungshaft;
-- c) von Freiheitsstrafen in Form der Halbgefangenschaft, des tageweisen Vollzugs und des Arbeitsexternats;
-- d) von Zwangsmassnahmen im Ausländerrecht;
+- c) von Freiheitsstrafen in Form der Halbgefangenschaft und des Arbeitsexternats;
+- d) von freiheitsentziehenden Zwangsmassnahmen des Ausländerrechts;
 - e) von Schutzmassnahmen und Strafen gegenüber Jugendlichen;
 - f) von Strafen und Massnahmen, die aus Sicherheits-, Disziplinar- oder Platzgründen vorübergehend nicht anderswo vollzogen werden können;
 - g) der Haft von Personen auf Transport;
 - h) von polizeilichem Gewahrsam;
-- i) von fürsorgerischer Unterbringung.
+- i) der fürsorgerischen Unterbringung;
+- j) des ausserdienstlichen Arrests gemäss dem Militärstrafgesetz[^13-1].
+
+[^13-1]: SR [321.0](https://db.clex.ch/link/Bund/321.0/de)
+
+#### Art. 13a
+
+**Justizvollzugsanstalten**
+
+<sup>1</sup> Der Kanton betreibt kantonale Justizvollzugsanstalten.
+
+<sup>2</sup> Diese dienen primär dem Vollzug von Freiheitsstrafen und freiheitsentziehenden Massnahmen.
+
+#### Art. 13b
+
+**Psychiatrische Dienste Graubünden 1. Leistungsauftrag**
+
+<sup>1</sup> Die Psychiatrischen Dienste Graubünden betreiben eine Vollzugseinrichtung für therapeutische Massnahmen.
+
+<sup>2</sup> Für den Betrieb der Vollzugseinrichtung für therapeutische Massnahmen stehen den Psychiatrischen Diensten Graubünden die Sicherungs-, Zwangs- und Disziplinarmassnahmen nach diesem Gesetz zu.
+
+#### Art. 13c
+
+**2. Aufsicht**
+
+<sup>1</sup> Die Psychiatrischen Dienste Graubünden unterstehen im Bereich des Massnahmenvollzugs der Aufsicht des Departements.
+
+<sup>2</sup> Soweit es zur Wahrnehmung dieser Aufgabe erforderlich ist, haben sie dem Departement unter Wahrung der datenschutzrechtlichen Bestimmungen Auskünfte zu erteilen und ihm Zugang zu ihren Räumlichkeiten, Einrichtungen sowie Aufzeichnungen zu gewähren.
+
+<sup>3</sup> Das Departement kann für die Wahrnehmung der Aufsicht Fachpersonen beziehen. Es ist befugt, die Anordnungen zu treffen, die für die Wiederherstellung des rechtmässigen Betriebs der Vollzugseinrichtung für therapeutische Massnahmen erforderlich sind.
+
+<sup>4</sup> Das Departement genehmigt die Hausordnung der Vollzugseinrichtung für therapeutische Massnahmen.
+
+#### Art. 13d
+
+**Private Institutionen 1. Zulassung**
+
+<sup>1</sup> Private Institutionen sind berechtigt, Strafen in der Form der Halbgefangenschaft und des Arbeitsexternats sowie Massnahmen nach Artikel 59 bis Artikel 61 und Artikel 63 StGB[^13d-1] durchzuführen, wenn sie:
+
+- a) die strafrechtlichen Vollzugsgrundsätze einhalten;
+- b) sich verpflichten, sich an die Richtlinien und Merkblätter der Ostschweizer Strafvollzugskommission zu halten;
+- c) über eine Bewilligung für den Betrieb einer Institution nach der Gesundheits-, der Behinderten- oder der Schulgesetzgebung verfügen.
+
+<sup>2</sup> Den privaten Institutionen werden die Befugnisse übertragen, die sie zur Erfüllung der übernommenen Vollzugsaufgabe benötigen. Das Recht, Zwangsernährungen und Zwangsbehandlungen anzuordnen, kann nur an Spitäler und Kliniken mit stationärem Angebot übertragen werden. Über die Versetzung können private Institutionen nicht entscheiden.
+
+[^13d-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+#### Art. 13e
+
+**2. Bewilligungsverfahren**
+
+<sup>1</sup> Das Departement erteilt die Bewilligung und überträgt die für die Wahrnehmung der Vollzugsaufgabe erforderlichen Befugnisse für vier Jahre.
+
+<sup>2</sup> Die Bewilligung wird entzogen, wenn die Bewilligungsvoraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, aufgrund derer sie hätte verweigert werden müssen.
+
+#### Art. 13f
+
+**3. Aufsicht**
+
+<sup>1</sup> Die privaten Institutionen unterstehen im Bereich des Straf- und Massnahmenvollzugs der Aufsicht des Departements.
+
+<sup>2</sup> Soweit es zur Wahrnehmung dieser Aufgabe erforderlich ist, haben sie dem Departement unter Wahrung der datenschutzrechtlichen Bestimmungen Auskünfte zu erteilen und ihm Zugang zu ihren Räumlichkeiten, Einrichtungen sowie Aufzeichnungen zu gewähren.
+
+<sup>3</sup> Das Departement kann für die Wahrnehmung der Aufsicht Fachpersonen beziehen. Es ist befugt, die Anordnungen zu treffen, die für die Wiederherstellung des rechtmässigen Betriebs der privaten Institutionen erforderlich sind.
+
+<sup>4</sup> Das Departement genehmigt die Hausordnung der privaten Institutionen.
+
+#### Art. 13g
+
+**Trennungsvorschriften**
+
+<sup>1</sup> In den im Kanton betriebenen Vollzugseinrichtungen sind getrennt voneinander unterzubringen:
+
+- a) eingewiesene Personen in Untersuchungs- und Sicherheitshaft und eingewiesene Personen im Straf- und Massnahmenvollzug;
+- b) eingewiesene Personen in einer freiheitsentziehenden Zwangsmassnahme des Ausländerrechts und andere eingewiesene Personen;
+- c) eingewiesene Personen im ausserdienstlichen Arrest nach dem Militärstrafgesetz[^13g-1] und andere eingewiesene Personen;
+- d) zivilrechtlich und strafrechtlich eingewiesene Personen, ausgenommen in Jugendheimen;
+- e) jugendliche und erwachsene eingewiesene Personen;
+- f) weibliche und männliche eingewiesene Personen im Strafvollzug. Die Geschlechtsidentität der eingewiesenen Personen wird soweit möglich beachtet.
+
+<sup>2</sup> Die Justizvollzugsanstalten, die Vollzugseinrichtung für therapeutische Massnahmen und die privaten Institutionen des Straf- und Massnahmenvollzugs können mit Zustimmung der einweisenden Behörde ausnahmsweise von den Trennungsvorschriften abweichen, wenn überwiegende Interessen der Betroffenen vorliegen und keine besonderen Bestimmungen dem entgegenstehen.
+
+[^13g-1]: SR [321.0](https://db.clex.ch/link/Bund/321.0/de)
 
 ## 4. Vollzug von strafrechtlichen Sanktionen
 
@@ -207,9 +308,9 @@ beschliesst:
 
 <sup>2</sup> Eingewiesene sind verpflichtet, sich einer psychiatrischen Begutachtung zu unterziehen, wenn die Einweisungs- und Vollzugsbehörde dies für die Vollzugsplanung als notwendig erachtet.
 
-<sup>3</sup> Eingewiesene haben die Vollzugsvorschriften einzuhalten und den Anordnungen der Direktion und des Personals der Vollzugseinrichtung sowie der zuständigen Einweisungs- und Vollzugsbehörde Folge zu leisten. Sie unterlassen alles, was die geordnete Durchführung des Vollzugs, die Verwirklichung der Vollzugsziele und die Aufrechterhaltung von Sicherheit und Ordnung gefährdet.
+<sup>3</sup> Eingewiesene haben die Vollzugsvorschriften einzuhalten und den Anordnungen der Vollzugseinrichtung sowie der einweisenden Behörde Folge zu leisten. Sie unterlassen alles, was die geordnete Durchführung des Vollzugs, die Verwirklichung der Vollzugsziele und die Aufrechterhaltung von Sicherheit und Ordnung gefährdet.
 
-### 4.2. Aufnahme, Versetzung und Unterbrechung
+### 4.2. Einweisung, Versetzung und Unterbrechung
 
 #### Art. 16
 
@@ -219,46 +320,42 @@ beschliesst:
 
 #### Art. 17
 
-**Hafterstehungsfähigkeit**
+**Aufschub**
 
 <sup>1</sup> Bei Hafterstehungsunfähigkeit wird der Vollzug aufgeschoben.
 
-<sup>2</sup> Über die Hafterstehungsfähigkeit entscheidet das Amt. Die Hafterstehungsunfähigkeit kann nur durch ein Arztzeugnis attestiert werden. Fehlt ein solches beziehungsweise bestehen Zweifel über die Hafterstehungsfähigkeit, wird diese von der Anstaltsärztin oder vom Anstaltsarzt oder von der Anstaltspsychiaterin oder vom Anstaltspsychiater überprüft.
+<sup>2</sup> Über die Hafterstehungsfähigkeit entscheidet die einweisende Behörde.
 
-<sup>3</sup> Das Amt kann in jedem Fall eine besondere Untersuchung anordnen. Die gleiche Befugnis hat die Staatsanwaltschaft in Bezug auf die Untersuchungshäftlinge.
+<sup>3</sup> Sie hat eine Beurteilung durch eine medizinische Fachperson einzuholen, soweit keine genügenden medizinischen Unterlagen vorhanden sind.
 
-<sup>4</sup> Die Anordnung vorsorglicher Massnahmen, welche die öffentliche Sicherheit erfordert, obliegt dem Amt. Im Bedarfsfall orientiert dieses die zuständige Kindes- und Erwachsenenschutzbehörde. Beide treffen in gegenseitiger Absprache die notwendigen Massnahmen.
+<sup>4</sup> Die Anordnung vorsorglicher Massnahmen, welche die öffentliche Sicherheit erfordert, obliegt der einweisenden Behörde. Im Bedarfsfall orientiert diese die Kindes- und Erwachsenenschutzbehörde. Beide treffen in gegenseitiger Absprache die notwendigen Massnahmen.
 
 #### Art. 18
 
 **Versetzung**
 
-<sup>1</sup> Das Amt kann Eingewiesene zur Fortsetzung des Vollzugs in eine andere Vollzugseinrichtung versetzen, wenn
+<sup>1</sup> Die einweisende Behörde kann Eingewiesene zur Fortsetzung des Vollzugs in eine andere Vollzugseinrichtung versetzen, wenn:
 
 - a) ihr Zustand, ihr Verhalten oder die Sicherheit dies notwendig machen;
 - b) ihre Behandlung dies erfordert;
 - c) ihre Eingliederung dadurch eher erreicht wird;
 - d) Belegungsprobleme bestehen.
 
-<sup>2</sup> Die Versetzung in eine psychiatrische Klinik oder in ein Spital kann auch auf ärztliche Verfügung hin erfolgen. Für dringende Fälle wird die Direktion der Vollzugseinrichtung dazu ermächtigt. Das Amt wird von der Versetzung unverzüglich in Kenntnis gesetzt.
+<sup>2</sup> In dringenden Fällen können die Vollzugseinrichtungen Eingewiesene aus Gründen gemäss Absatz 1 Litera a oder Litera b zur Fortsetzung des Vollzugs in eine andere Vollzugseinrichtung versetzen. Die Vollzugseinrichtung informiert die einweisende Behörde umgehend über die Versetzung.
+
+<sup>3</sup> Die einweisende Behörde entscheidet innert 30 Tagen über die Aufrechterhaltung, die Änderung oder die Aufhebung der von einer Vollzugseinrichtung angeordneten Versetzung.
 
 #### Art. 19
 
-**Strafunterbruch**
+**Straf- und Massnahmenunterbruch**
 
-<sup>1</sup> Die Bewilligung des Strafunterbruchs gemäss Artikel 92 StGB[^19-1] kann mit Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht sowie mit der Anordnung einer Beaufsichtigung oder Betreuung verbunden werden.
+<sup>1</sup> Die einweisende Behörde kann die Bewilligung des Straf- und Massnahmenunterbruchs gemäss Artikel 92 StGB[^19-1] mit Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht sowie mit der Anordnung einer Beaufsichtigung oder Betreuung verbinden.
 
 [^19-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 20
 
-**Sichernde Massnahmen**
-
-<sup>1</sup> Muss eine stationäre Massnahme aufgehoben oder geändert werden, wird die eingewiesene Person in einer geeigneten Vollzugseinrichtung untergebracht, bis das Gericht entschieden hat, ob und wieweit die aufgeschobene Strafe noch vollstreckt oder eine andere Massnahme angeordnet werden soll.
-
-<sup>2</sup> In den Fällen von Artikel 95 Absatz 5 StGB[^20-1] ordnet das Amt Sicherheitshaft an, wenn ernsthaft zu erwarten ist, dass die entlassene Person neue Straftaten gegen Leib und Leben begeht. Über die Fortdauer der Sicherheitshaft entscheidet das kantonale Zwangsmassnahmengericht innert 48 Stunden nach der Anordnung.
-
-[^20-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+**…**
 
 ### 4.3. Sicherheit und Ordnung
 
@@ -276,7 +373,7 @@ beschliesst:
 
 <sup>1</sup> Zur Sicherung des Vollzugs sind insbesondere als erkennungsdienstliche Massnahmen zulässig:
 
-- a) die Erstellung von Fotografien;
+- a) Bildaufnahmen;
 - b) die Durchführung von Messungen und die Feststellung körperlicher Merkmale;
 - c) die Abnahme von Fingerabdrücken;
 - d) die Abnahme einer Speichelprobe oder eines Wangenschleimhautabstrichs.
@@ -289,7 +386,7 @@ beschliesst:
 
 **Kontrollen, Durchsuchungen**
 
-<sup>1</sup> Die Direktion der Vollzugseinrichtung kann Eingewiesene, ihre persönlichen Effekten und ihre Unterkunft durchsuchen lassen, Urinproben, Atemluftkontrollen, Blutproben, Haarproben oder die äusserliche Kontrolle von Körperöffnungen anordnen (oberflächliche Leibesvisitation).
+<sup>1</sup> Die Vollzugseinrichtung kann Eingewiesene, ihre persönlichen Effekten und ihre Unterkunft durchsuchen lassen, Urinproben, Atemluftkontrollen, Blutproben, Haarproben oder die äusserliche Kontrolle von Körperöffnungen anordnen (oberflächliche Leibesvisitation).
 
 <sup>2</sup> Eingewiesene, die verdächtigt werden, in oder an ihrem Körper oder in Körperöffnungen unerlaubte Gegenstände zu verbergen, können körperlich untersucht werden (intime Leibesvisitation).
 
@@ -297,11 +394,36 @@ beschliesst:
 
 <sup>4</sup> Intime Leibesvisitationen sind einer Ärztin oder einem Arzt zu übertragen.
 
+#### Art. 23a
+
+**Erkennbare Bildüberwachung**
+
+<sup>1</sup> Mit erkennbaren Bildübermittlungs- und Bildaufzeichnungsgeräten zur Personenidentifikation können zum Schutz der Sicherheit und Ordnung folgende Bereiche überwacht werden:
+
+- a) der Passagierbereich von Fahrzeugen, die dem Transport von eingewiesenen Personen von und zu Vollzugseinrichtungen dienen; und
+- b) der Innenbereich von Vollzugseinrichtungen.
+
+<sup>2</sup> Der Aussenbereich von Vollzugseinrichtungen kann mit erkennbaren Bildübermittlungs- und Bildaufzeichnungsgeräten zur Personenidentifikation überwacht werden, soweit die Sicherheit und Ordnung konkret gefährdet ist. Die zu diesem Zweck vom Amt auf Gesuch der Vollzugseinrichtung hin zu erlassende Allgemeinverfügung gilt dauerhaft.
+
+<sup>3</sup> Das aufgezeichnete Bildmaterial ist nach der Auswertung, spätestens 90 Tage nach der Aufzeichnung, zu löschen, sofern es nicht in einem Strafvollzugsverfahren, einem Strafverfahren oder zur Gefahrenabwehr benötigt wird.
+
+#### Art. 23b
+
+**Zutritts- und Austrittskontrolle**
+
+<sup>1</sup> Vollzugseinrichtungen können für die Zutritts- und Austrittskontrolle biometrische Verfahren einsetzen, um die Identität von Personen zu verifizieren.
+
+<sup>2</sup> Für Personen, deren Identität mithilfe der eingesetzten biometrischen Verfahren nicht verifiziert werden kann, existieren alternative Zutritts- und Austrittskontrollen. Anderen Personen wird der Zutritt zur Vollzugseinrichtung verweigert, wenn sie sich nicht den biometrischen Verfahren für die Zutritts- und Austrittskontrolle unterziehen.
+
+<sup>3</sup> Die erhobenen biometrischen Daten dürfen nur für die Zutritts- und Austrittskontrolle verwendet werden.
+
+<sup>4</sup> Sie sind auf Verlangen der betroffenen Person, spätestens 90 Tage nachdem der Grund für die Datenbearbeitung weggefallen ist, zu löschen, es sei denn, die betroffene Person stimme einer längeren Datenbearbeitung ausdrücklich zu.
+
 #### Art. 24
 
 **Besondere Sicherungsmassnahmen**
 
-<sup>1</sup> Die Direktion der Vollzugseinrichtung kann gegen eine eingewiesene Person besondere Sicherungsmassnahmen anordnen, wenn nach ihrem Verhalten oder aufgrund ihres psychischen Zustandes in erhöhtem Masse Fluchtgefahr, Eigen- oder Fremdgefährdung oder die Gefahr von Sachbeschädigung besteht.
+<sup>1</sup> Die Vollzugseinrichtung kann gegen eine eingewiesene Person besondere Sicherungsmassnahmen anordnen, wenn nach ihrem Verhalten oder aufgrund ihres psychischen Zustands in erhöhtem Masse Fluchtgefahr, Eigen- oder Fremdgefährdung oder die Gefahr von Sachbeschädigung besteht.
 
 <sup>2</sup> Als besondere Sicherungsmassnahmen sind zulässig:
 
@@ -312,84 +434,83 @@ beschliesst:
 - e) Unterbringen in einem besonders gesicherten Raum ohne gefährdende Gegenstände;
 - f) Fesseln.
 
-<sup>3</sup> Massnahmen nach Absatz 1 Litera a, c und e sind auch zulässig, wenn die Gefahr der Befreiung oder eine erhebliche Störung der Ordnung in der Vollzugseinrichtung nicht anders vermieden werden kann.
+<sup>3</sup> Massnahmen nach Absatz 2 Litera a, c und e sind auch zulässig, wenn die Gefahr der Befreiung oder eine erhebliche Störung der Ordnung in der Vollzugseinrichtung nicht anders vermieden werden kann.
 
-<sup>4</sup> Beim Ausführen, Vorführen oder beim Transportieren ist eine Fesselung auf Anordnung der Direktion der Vollzugseinrichtung auch dann zulässig, wenn aus anderen Gründen als denen des Absatzes 1 in erhöhtem Masse Fluchtgefahr besteht.
+<sup>4</sup> Beim Ausführen, Vorführen oder Transportieren ist eine Fesselung auf Anordnung der Vollzugseinrichtung auch dann zulässig, wenn aus anderen Gründen als denen des Absatzes 1 in erhöhtem Masse Fluchtgefahr besteht.
 
 <sup>5</sup> Besondere Sicherungsmassnahmen dürfen nur soweit und solange aufrechterhalten werden, als ihr Zweck es erfordert.
 
 #### Art. 25
 
-**Festnahmen**
+**Ausschreibung, Zuführung und Festnahme**
 
-<sup>1</sup> Ist eine eingewiesene Person entwichen oder hält sie sich sonst ohne Erlaubnis ausserhalb der Vollzugseinrichtung auf, wird ihre Festnahme und Zuführung unverzüglich angeordnet. Die Einweisungsbehörde ist darüber zu informieren. Das Personal der Vollzugseinrichtung kann sie selber festnehmen und in die Anstalt zurückbringen.
+<sup>1</sup> Ist eine eingewiesene Person entwichen oder hält sie sich sonst ohne Erlaubnis ausserhalb der Vollzugseinrichtung auf, kann die Vollzugseinrichtung die eingewiesene Person zur Aufenthaltsforschung oder zur Verhaftung durch die Kantonspolizei ausschreiben oder zuführen lassen.
 
-### 4.4. Unmittelbarer Zwang
+<sup>2</sup> Das Personal der Vollzugseinrichtung kann eingewiesene Personen in den in Absatz 1 genannten Fällen selber festnehmen und in die Anstalt zurückbringen.
+
+<sup>3</sup> Die einweisende Behörde ist unverzüglich zu informieren.
+
+### 4.4. Zwangsmassnahmen
 
 #### Art. 26
 
-**Grundsatz**
+**Unmittelbarer Zwang**
 
-<sup>1</sup> Die Anwendung unmittelbaren Zwangs ist möglich gegen Eingewiesene, die sich renitent oder gewalttätig verhalten, zur Verhinderung ihrer Flucht oder zu ihrer Wiederergreifung.
+<sup>1</sup> Die Anwendung unmittelbaren Zwangs und die Verwendung geeigneter Hilfsmittel ist möglich gegen Eingewiesene, die sich renitent oder gewalttätig verhalten, zur Verhinderung ihrer Flucht oder zu ihrer Wiederergreifung.
 
-<sup>2</sup> Gegen andere Personen, die sich widerrechtlich auf dem Areal der Vollzugseinrichtung aufhalten, einzudringen oder eingewiesene Personen zu befreien versuchen, ist die Anwendung unmittelbaren Zwangs zulässig, sofern der damit verfolgte Zweck auf keine andere Weise erreicht werden kann.
+<sup>2</sup> Gegen andere Personen, die sich widerrechtlich auf dem Areal der Vollzugseinrichtung aufhalten, einzudringen oder eingewiesene Personen zu befreien versuchen, ist die Anwendung unmittelbaren Zwangs und die Verwendung geeigneter Hilfsmittel zulässig, sofern der damit verfolgte Zweck auf keine andere Weise erreicht werden kann.
 
 #### Art. 27
 
 **Zwangsernährung**
 
-<sup>1</sup> Im Fall eines Hungerstreiks kann die Direktorin oder der Direktor der Vollzugseinrichtung eine unter ärztlicher Leitung und Beteiligung durchzuführende Zwangsernährung anordnen, sofern Lebensgefahr oder eine schwerwiegende Gefahr für die betroffene Person bestehen.
+<sup>1</sup> Im Fall eines Hungerstreiks kann die Vollzugseinrichtung eine unter ärztlicher Leitung und Beteiligung durchzuführende Zwangsernährung anordnen, sofern Lebensgefahr oder eine schwerwiegende Gefahr für die betroffene Person besteht. Dieser Entscheid kann mit Verwaltungsbeschwerde beim Amt angefochten werden.
 
 <sup>2</sup> Solange von einer freien Willensbestimmung der betroffenen Person ausgegangen werden kann, erfolgt von Seiten der Vollzugseinrichtung keine Intervention.
 
+<sup>3</sup> Die Vollzugseinrichtung klärt die betroffene Person über die vorgesehene Zwangsmassnahme auf und hört diese an, soweit keine Gefahr in Verzug ist. Sie ordnet die Vertretung durch eine Person an, die im kantonalen Anwaltsregister eingetragen ist oder Freizügigkeit nach dem Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte[^27-1] geniesst.
+
+[^27-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
+
 #### Art. 28
 
-**Zwangsmedikation 1. Geltungsbereich, Grundsatz**
-
-<sup>1</sup> Die nachfolgenden Bestimmungen über die Zwangsmedikation gelten für Personen, die in eine bündnerische Vollzugseinrichtung eingewiesen worden sind, wenn
-
-- a) eine strafrechtliche Sanktion, insbesondere eine richterlich angeordnete Massnahme zu vollziehen ist und
-- b) sie mit dem konkreten Zweck der Sanktion vereinbar sind.
-
-<sup>2</sup> Eine Zwangsmedikation im Sinne dieses Gesetzes ist eine Massnahme, die ohne Zustimmung der betroffenen Person durchgeführt wird mit dem Ziel, deren Gesundheitszustand zu erhalten, zu verbessern oder Dritte zu schützen.
-
-<sup>3</sup> Die allgemeinen Rechte und Pflichten eingewiesener Personen gelten auch bei Anordnungen von Zwangsmedikationen, soweit nachfolgend nichts Abweichendes bestimmt ist.
+**…**
 
 #### Art. 29
 
-**2. Voraussetzungen**
+**Zwangsbehandlung 1. Medizinisch indizierte Zwangsbehandlung**
 
-<sup>1</sup> Zwangsmedikationen sind nur zulässig, wenn freiwillige Massnahmen versagt haben oder nicht zur Verfügung stehen und
+<sup>1</sup> Die Anordnung und das erstinstanzliche Verfahren bei medizinisch indizierter Zwangsbehandlung richten sich nach den Bestimmungen des Schweizerischen Zivilgesetzbuchs[^29-1], welche die medizinische Zwangsbehandlung und bewegungseinschränkenden Zwangsmassnahmen im Rahmen der fürsorgerischen Unterbringung regeln.
 
-- a) das Verhalten der betroffenen Person ihre eigene Sicherheit oder Gesundheit schwerwiegend gefährdet oder;
-- b) eine unmittelbare Gefahr für Leib und Leben Dritter abgewendet werden soll oder;
-- c) eine schwerwiegende Störung des Zusammenlebens im Falle massiver sozialer Auffälligkeit oder bei erheblich destruktivem Potenzial der betroffenen Person zu beseitigen ist.
+- a) …
+- b) …
+- c) …
+
+<sup>2</sup> Entscheide betreffend die medizinisch indizierte Zwangsbehandlung können von der betroffenen Person innert zehn Tagen seit der Mitteilung mit Verwaltungsbeschwerde beim Amt angefochten werden.
+
+[^29-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 30
 
-**3. Allgemeine Bestimmungen**
+**2. Massnahmenindizierte Zwangsmedikation**
 
-<sup>1</sup> Über die Anordnung, Durchführung und Beendigung einer Zwangsmedikation entscheidet ausschliesslich die Direktorin oder der Direktor nach Anhörung der zuständigen Ärztin oder des zuständigen Arztes der Vollzugseinrichtung.
+<sup>1</sup> Die einweisende Behörde kann während des Vollzugs einer therapeutischen Massnahme eine Zwangsmedikation anordnen, soweit dies für die erfolgsversprechende Durchführung der Massnahme unter forensisch-psychiatrischen Gesichtspunkten unumgänglich ist.
 
-<sup>2</sup> Es sind alle Vorkehrungen zu treffen, damit Zwangsmedikationen vermieden werden können. Den betroffenen Personen ist so weit Entscheidfreiheit zu belassen, als es mit ihrer eigenen und der öffentlichen Sicherheit vereinbar ist.
+<sup>2</sup> Die massnahmenindizierte Zwangsmedikation ist nur zulässig, wenn sie von einer Fachärztin oder einem Facharzt für Psychiatrie empfohlen und überwacht wird.
 
-<sup>3</sup> Es ist die jeweils mildeste Zwangsmassnahme zu wählen. Sie darf nur so lange andauern, als die sie rechtfertigenden Voraussetzungen gegeben sind.
+<sup>3</sup> Die einweisende Behörde klärt die betroffene Person über die vorgesehene massnahmenindizierte Zwangsmedikation auf und hört diese an. Sie ordnet die Vertretung durch eine Person an, die im kantonalen Anwaltsregister eingetragen ist oder Freizügigkeit nach dem Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte[^30-1] geniesst.
+
+<sup>4</sup> Ob die Voraussetzungen für eine massnahmenindizierte Zwangsmedikation weiterhin bestehen, hat die einweisende Behörde regelmässig zu überprüfen.
+
+[^30-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### Art. 31
 
-**4. Aufklärung**
-
-<sup>1</sup> Vor einem Entscheid für eine Zwangsmedikation ist die betroffene Person über die angeordnete Massnahme und das Beschwerderecht aufzuklären, soweit keine Gefahr im Verzug liegt. Auf Wunsch der betroffenen Person sind die Angehörigen oder eine bezeichnete nahe stehende Person unverzüglich und in geeigneter Form zu informieren.
-
-<sup>2</sup> Der Entscheid ist auch bei vorgängig erfolgter mündlicher Eröffnung nachträglich umgehend schriftlich mit Begründung und Rechtsmittelbelehrung zu eröffnen.
-
-<sup>3</sup> Die Vollzugseinrichtung hat die Einweisungsbehörde sowie die Kantonsärztin oder den Kantonsarzt umgehend über die Anordnung einer Zwangsmedikation zu informieren.
+**…**
 
 #### Art. 32
 
-**5. Beschwerde**
-
-<sup>1</sup> Die von der Zwangsmedikation betroffene Person, die Angehörigen oder die nahe stehende Person können gegen die Anordnung der Zwangsmedikation innert zehn Tagen seit der schriftlichen Eröffnung beim zuständigen Amt schriftlich Beschwerde einreichen.
+**…**
 
 ### 4.5. Gesundheit und Betreuung
 
@@ -405,11 +526,11 @@ beschliesst:
 
 **Behandlungskosten**
 
-<sup>1</sup> Soweit die Kosten für ärztliche Behandlung nicht durch das Kostgeld, die Krankenkassen oder Versicherungen gedeckt werden, gehen diese zu Lasten des einweisenden Kantons.
+<sup>1</sup> Soweit die Kosten für Behandlungen nicht durch das Kostgeld, die Krankenversicherungen, andere Versicherungen oder die Kostenbeteiligung der eingewiesenen Person gedeckt werden, gehen diese zu Lasten des einweisenden Kantons.
 
 <sup>2</sup> Spitalaufenthalts- oder Behandlungskosten für Krankheiten oder Unfälle, die bereits vor dem Eintritt in die Vollzugseinrichtung bestanden respektive erlitten wurden, hat die eingewiesene Person oder der einweisende Kanton zu tragen. Das Gleiche gilt, ausser in Notfällen, für vorsätzlich verursachte Verletzungen oder Krankheiten in der Vollzugseinrichtung.
 
-<sup>3</sup> Vor jeder aufschiebbaren Behandlung ist mit der einweisenden Stelle der Kostenträger zu ermitteln. Ist die Kostendeckung nicht gesichert, hat die eingewiesene Person ein Depot zu leisten.
+<sup>3</sup> Vor jeder aufschiebbaren Behandlung ist mit der einweisenden Stelle der Kostenträger zu ermitteln. Ist die Kostendeckung nicht gesichert, hat die eingewiesene Person einen Vorschuss oder Ratenzahlungen zu leisten.
 
 <sup>4</sup> Die Kosten für die Behandlung von Verletzungen oder Krankheiten, welche sich die eingewiesene Person bei unerlaubtem Aufenthalt ausserhalb der Vollzugseinrichtung zuzieht, hat sie selber zu tragen.
 
@@ -425,7 +546,15 @@ beschliesst:
 
 **Verkehr mit der Aussenwelt**
 
-<sup>1</sup> Bei Anzeichen von Missbrauch oder tatsächlichem Missbrauch können auch der Postverkehr, Telefongespräche oder Besuche von Rechtsanwältinnen oder Rechtsanwälten, Seelsorgerinnen oder Seelsorgern und Ärztinnen oder Ärzten eingeschränkt oder überwacht werden.
+<sup>1</sup> Soweit es mit dem Betrieb der Vollzugseinrichtung vereinbar ist, sind eingewiesene Personen berechtigt, Besuch zu empfangen, auf eigene Kosten zu telefonieren und Briefe sowie Pakete zu versenden und zu erhalten.
+
+<sup>2</sup> Der Verkehr mit den Aufsichtsbehörden unterliegt keinen Restriktionen. Der Verkehr mit der Verteidigerin oder dem Verteidiger darf unter den in Artikel 84 Absatz 4 StGB[^36-1] genannten Voraussetzungen beschränkt oder untersagt werden.
+
+<sup>3</sup> Der Verkehr mit anderen Personen darf zum Schutz der Sicherheit und Ordnung beschränkt oder untersagt werden. Solche Anordnungen sind gegenüber Rechtsanwältinnen und Rechtsanwälten, Seelsorgerinnen und Seelsorgern sowie Ärztinnen und Ärzten nur bei Verdacht auf Missbrauch oder bei Vorliegen einer konkreten Gefahr für die Sicherheit und Ordnung zulässig.
+
+<sup>4</sup> Die betroffenen Personen sind über die Sicherungsmassnahmen zu informieren. Durch Sicherungsmassnahmen gewonnene Unterlagen sind nach der Auswertung, spätestens 90 Tage nach der Erhebung, zu vernichten oder zu löschen, soweit sie nicht in einem Strafvollzugsverfahren, einem Strafverfahren oder zur Gefahrenabwehr benötigt werden.
+
+[^36-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 ### 4.7. Disziplinarwesen
 
@@ -433,7 +562,7 @@ beschliesst:
 
 **Disziplinarvergehen**
 
-<sup>1</sup> Verstösse gegen dieses Gesetz, die Justizvollzugsverordnung, die Hausordnung und andere Regelungen der Vollzugseinrichtungen sowie Verstösse gegen den Vollzugsplan werden als Disziplinarvergehen geahndet.
+<sup>1</sup> Verstösse gegen dieses Gesetz, die zugehörigen Verordnungen, die Hausordnung und andere Regelungen der Vollzugseinrichtungen sowie Verstösse gegen den Vollzugsplan werden als Disziplinarvergehen geahndet.
 
 <sup>2</sup> In leichten Fällen kann von Disziplinarmassnahmen abgesehen werden, wenn das Disziplinarvergehen auf andere Weise erledigt werden kann.
 
@@ -461,15 +590,15 @@ beschliesst:
 - b) Einschränkung oder Entzug der Verfügung über Geldmittel bis zu drei Monaten;
 - c) Ausschluss von der Teilnahme an Gemeinschafts- und Freizeitaktivitäten, Veranstaltungen und Kursen bis zu drei Monaten, im Wiederholungsfall bis zu sechs Monaten;
 - d) Einschränkung oder Entzug schriftlicher oder elektronischer Medien sowie des Besitzes von Ton- und Bildwiedergabegeräten bis zu zwei Monaten, im Wiederholungsfall bis zu sechs Monaten;
-- e) Einschränkung oder Entzug des Besuchs- und Korrespondenzrechts bis zu drei Monaten;
+- e) Einschränkung oder Entzug des Besuchs- und Korrespondenzrechts bis zu drei Monaten. Vorbehalten bleibt der Verkehr mit den Aufsichtsbehörden, den Verteidigerinnen und Verteidigern, den Rechtsanwältinnen und Rechtsanwälten, den Seelsorgerinnen und Seelsorgern sowie den Ärztinnen und Ärzten;
 - f) Ausgangs- und Urlaubssperre bis zu sechs Monaten;
 - g) Busse bis zu 200 Franken;
 - h) Zellen- oder Zimmereinschluss bis zu 14 Tagen;
-- i) Arrest bis zu 20 Tagen.
+- i) Arrest bis zu 14 Tagen.
 
 <sup>2</sup> Mehrere Disziplinarmassnahmen können miteinander verbunden werden. Die gleichzeitige Anordnung von Arrest und Busse sowie Zellen- oder Zimmereinschluss und Arrest ist unzulässig.
 
-<sup>3</sup> Einschränkungen oder Entzug der Aussenkontakte und des Besuchsrechts sowie Ausgangs- und Urlaubssperre dürfen nur angeordnet werden, wenn das Disziplinarvergehen mit der Ausübung dieser Rechte zusammenhängt. Vorbehalten bleibt in jedem Fall der Verkehr mit Behörden, Rechtsvertreterinnen und Rechtsvertretern sowie Seelsorgerinnen und Seelsorgern.
+<sup>3</sup> …
 
 <sup>4</sup> Arrest ist nur bei schweren oder wiederholten Disziplinarvergehen zulässig.
 
@@ -493,29 +622,31 @@ beschliesst:
 
 #### Art. 41
 
-**Vorsorgliche Versetzung**
-
-<sup>1</sup> Bei schweren oder wiederholten Disziplinarvergehen kann mit dem Disziplinarentscheid eine vorsorgliche Versetzung bis zum Entscheid der einweisenden Behörde angeordnet werden, und zwar:
-
-- a) vom offenen Vollzug in den geschlossenen Vollzug;
-- b) von der Halbgefangenschaft oder dem Arbeitsexternat in den offenen oder geschlossenen Vollzug;
-- c) vom Wohnexternat ins Arbeitsexternat oder in den offenen oder geschlossenen Vollzug.
+**…**
 
 #### Art. 42
 
 **Zuständigkeit für Disziplinarentscheide**
 
-<sup>1</sup> Disziplinarmassnahmen ordnet die Direktion oder die Leitung der Vollzugseinrichtung an.
+<sup>1</sup> Disziplinarmassnahmen ordnet die Vollzugseinrichtung an.
 
-<sup>2</sup> Das zuständige Amt entscheidet, wenn sich die Verfehlung gegen die Direktorin oder den Direktor richtet.
+<sup>2</sup> Das Amt entscheidet, wenn sich die Verfehlung gegen die Direktorin oder den Direktor einer Justizvollzugsanstalt richtet. Das Verfahren richtet sich nach Artikel 46.
 
-<sup>3</sup> Disziplinarmassnahmen sind in der Regel in derjenigen Vollzugseinrichtung zu vollziehen, von deren Direktion sie verfügt wurden.
+<sup>3</sup> Disziplinarmassnahmen sind in der Regel in derjenigen Vollzugseinrichtung zu vollziehen, von der sie verfügt wurden.
 
 <sup>4</sup> Disziplinarmassnahmen, die gegen eine eingewiesene Person in einer anderen Vollzugseinrichtung oder während der Untersuchungshaft angeordnet worden sind, werden nach Möglichkeit und auf Ersuchen vollstreckt.
 
+#### Art. 42a
+
+**Verjährung**
+
+<sup>1</sup> Disziplinarvergehen verjähren sechs Monate nach der Begehung. Entweicht eine Person aus der Vollzugseinrichtung, beträgt die Verjährungsfrist ein Jahr seit der Begehung.
+
+<sup>2</sup> Der Vollzug einer Disziplinarmassnahme verjährt sechs Monate nach der rechtskräftigen Anordnung.
+
 #### Art. 43
 
-**Anwendbares Recht**
+**Ergänzende Regelung**
 
 <sup>1</sup> Bei der Beurteilung von Disziplinarvergehen werden die Bestimmungen des Allgemeinen Teils des Strafgesetzbuches[^43-1] analog angewendet.
 
@@ -523,56 +654,113 @@ beschliesst:
 
 [^43-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
-## 5. Bekanntgabe von Personendaten
+## 5. Bearbeitung von Personendaten
+
+#### Art. 43a
+
+**Datenbearbeitung durch die Vollzugsbehörden**
+
+<sup>1</sup> Die Vollzugsbehörden können Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten und Profiling betreiben, soweit dies zur Erfüllung ihrer amtlichen Aufgaben erforderlich ist.
 
 #### Art. 44
 
-**Amtsstellen und Betroffene**
+**Datenbekanntgabe unter Behörden**
 
-<sup>1</sup> Nach rechtskräftiger Verurteilung einer Person stellen Strafverfolgungsbehörden und Gerichte der für den Strafvollzug zuständigen Stelle auf deren Verlangen sämtliche für den Vollzug erforderlichen Akten in Papierform oder elektronisch zu.
+<sup>1</sup> Die Vollzugsbehörden können Personendaten, einschliesslich besonders schützenswerter Personendaten, untereinander und mit anderen Behörden austauschen, soweit dies zur Erfüllung ihrer amtlichen Aufgaben erforderlich ist.
 
-<sup>2</sup> Im Vollzug tätige Mitarbeitende sind im Rahmen ihrer dienstlichen Tätigkeit berechtigt, alle über eine Person angelegten Untersuchungs-, Gerichts-, Vollzugs- und Therapieakten einzusehen, sofern dies für ihre konkrete Aufgabenerfüllung geeignet und erforderlich ist.
+<sup>2</sup> Die Vollzugsbehörden teilen der Kantonspolizei mit, wenn eine eingewiesene Person mit besonderen Sicherheitsrisiken:
 
-<sup>3</sup> Jede Person hat Anspruch auf Einsicht der über sie geführten Vollzugsakten. Die Vollzugsakten umfassen die grundlegenden Akten des Untersuchungs- und Gerichtsverfahrens sowie die für das Vollzugsverfahren wesentlichen Gutachten, Berichte, Protokolle und Verfügungen. Die Akteneinsicht oder Auskunft darf bei überwiegenden öffentlichen Interessen oder überwiegenden Interessen Dritter aufgeschoben, eingeschränkt oder verweigert werden.
+- a) eine Strafe oder Massnahme antritt, versetzt oder entlassen wird;
+- b) von Vollzugsöffnungen profitiert;
+- c) den Straf- oder Massnahmenvollzug nicht angetreten hat;
+- d) aus dem Straf- oder Massnahmenvollzug entwichen ist.
+
+<sup>3</sup> Die Vollzugsbehörden sind berechtigt, den Strafverfolgungsbehörden von Amtes wegen zu verfolgende Straftaten zu melden, ohne dass die Anzeigeerstattenden vorgängig vom Amtsgeheimnis entbunden werden müssen.
+
+#### Art. 44a
+
+**Datenaustausch mit Fachpersonen**
+
+<sup>1</sup> Den mit Vollzugsaufgaben betrauten amtlichen und privaten Fachpersonen stellt die einweisende Behörde die Unterlagen zur Verfügung, die sie zur Erfüllung ihrer amtlichen oder vertraglichen Aufgaben benötigen.
+
+<sup>2</sup> Amtliche und private Fachpersonen, die mit dem Vollzug einer strafrechtlichen Massnahme oder Therapie betraut sind, erstatten der auftraggebenden Behörde periodisch oder auf Antrag hin Bericht über den Verlauf des Vollzugs.
+
+<sup>3</sup> Ungeachtet besonderer Geheimhaltungspflichten sind amtliche und private Fachpersonen verpflichtet, die einweisende Behörde und die Vollzugsbehörden über ernsthafte Gefahren für die eingewiesene Person, Dritte oder die Vollzugseinrichtung und über Anstalten zur Flucht zu informieren.
+
+<sup>4</sup> In den übrigen Fällen informieren sie die einweisende Behörde und die Vollzugsbehörden über vollzugsrelevante Tatsachen, wenn sie dazu ermächtigt oder vom Amts- oder Berufsgeheimnis entbunden wurden.
 
 #### Art. 45
 
-**Dritte**
+**…**
 
-<sup>1</sup> Folgende Personen werden auf schriftliches Gesuch hin von der zuständigen Stelle über den Straf- und Massnahmenantritt einer verurteilten Person, ihre Beurlaubung, Versetzung und Entlassung orientiert:
+#### Art. 45a
 
-- a) Opfer von Straftaten der verurteilten Person, wenn diese Taten sie in ihrer körperlichen, sexuellen oder psychischen Integrität erheblich beeinträchtigten;
-- b) andere Personen, die gegenüber der verurteilten Person ein höheres schutzwürdiges Interesse an der Information nachweisen können.
+**Aufbewahren, Anbieten, Vernichten oder Löschen von Personendaten**
 
-<sup>2</sup> Die Kantonspolizei wird bei Eingewiesenen mit besonderen Sicherheitsrisiken in jedem Fall orientiert.
+<sup>1</sup> Personendaten, die sich auf Personen beziehen, die wegen einer Straftat nach Artikel 64 Absatz 1 StGB[^45a-1] verurteilt oder eingewiesen wurden, sind dem Staatsarchiv 30 Jahre nach der Entlassung oder Versetzung anzubieten.
+
+<sup>2</sup> Die übrigen Personendaten sind dem Staatsarchiv zehn Jahre nach der Entlassung oder der Versetzung der verurteilten oder eingewiesenen Person anzubieten.
+
+<sup>3</sup> Die Aufbewahrungsfristen gemäss Absatz 1 und Absatz 2 dürfen überschritten werden, sofern die Personendaten zu folgenden Zwecken benötigt werden:
+
+- a) in einem Strafvollzugsverfahren, einem Strafverfahren oder zur Gefahrenabwehr;
+- b) für die Forschung, Planung und Statistik;
+- c) zu Beweis- und Sicherheitszwecken oder zur Wahrung schutzwürdiger Interessen der betroffenen Person;
+- d) zur Feststellung, Durchsetzung oder Abwehr von Ansprüchen im Zusammenhang mit dem Strafvollzug.
+
+<sup>4</sup> Stuft das Staatsarchiv die Personendaten nicht als archivwürdig ein, sind sie zu vernichten oder zu löschen.
+
+[^45a-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 ## 6. Rechtsmittel
 
 #### Art. 46
 
-**Beschwerde 1. Anstaltsintern**
+**Anstaltsinternes Einspracheverfahren**
 
-<sup>1</sup> Im besonderen Rechtsverhältnis kann mündlich verfügt werden. Die Betroffenen können eine schriftliche Verfügung verlangen.
+<sup>1</sup> …
 
-<sup>2</sup> Gegen Verfügungen und Massnahmen der Vollzugsleiterin oder des Vollzugsleiters sowie gegen alle Anordnungen und das Verhalten des Anstaltspersonals kann die eingewiesene Person innert zehn Tagen schriftlich Beschwerde bei der Direktorin oder dem Direktor oder der Leiterin oder dem Leiter der betreffenden Vollzugseinrichtung führen.
+<sup>2</sup> Gegen Entscheide kantonaler und anderer im Kanton betriebener Vollzugseinrichtungen kann die eingewiesene Person innert zehn Tagen seit der Mitteilung schriftlich Einsprache bei der Vollzugseinrichtung erheben. Die betroffene Person kann erstmals im Einspracheverfahren angehört werden.
 
-<sup>3</sup> Der Beschwerde kommt keine aufschiebende Wirkung zu.
+<sup>3</sup> Der Einsprache kommt keine aufschiebende Wirkung zu.
+
+<sup>4</sup> Das Einspracheverfahren ist kostenlos.
 
 #### Art. 47
 
-**2. An das Amt und das Departement**
+**Verwaltungsinternes Beschwerdeverfahren**
 
-<sup>1</sup> Entscheide und Verfügungen der Direktorin oder des Direktors können innert zehn Tagen seit Mitteilung mit Verwaltungsbeschwerde beim zuständigen Amt angefochten werden.
+<sup>1</sup> Entscheide kantonaler und anderer im Kanton betriebener Vollzugseinrichtungen und beigezogener Sicherheitsunternehmungen können innert 30 Tagen seit der Mitteilung mit Verwaltungsbeschwerde beim Amt angefochten werden.
 
-<sup>2</sup> Verfügungen und Beschwerdeentscheide des zuständigen Amtes können die Betroffenen oder die Staatsanwaltschaft schriftlich innert 30 Tagen an das vorgesetzte Departement weiterziehen.
+<sup>2</sup> Entscheide des Amts können die Betroffenen und die Staatsanwaltschaft innert 30 Tagen seit der Mitteilung an das vorgesetzte Departement weiterziehen.
 
-<sup>3</sup> Die Beschwerdeinstanz kann der Beschwerde aufschiebende Wirkung erteilen.
+<sup>3</sup> Das Amt und das Departement teilen der Staatsanwaltschaft ihre Entscheide mit.
 
 #### Art. 48
 
-**Berufung**
+**Beschwerde ans Kantonsgericht von Graubünden**
 
-<sup>1</sup> Gegen Vollzugsverfügungen oder Beschwerdeentscheide des Departements können die Betroffenen und die Staatsanwaltschaft beim Kantonsgericht strafrechtliche Berufung einlegen.
+<sup>1</sup> Gegen Entscheide des Departements können die Betroffenen und die Staatsanwaltschaft innert 30 Tagen seit der Mitteilung strafrechtliche Beschwerde beim Kantonsgericht einlegen.
+
+<sup>2</sup> Für das Beschwerdeverfahren gelten die Bestimmungen der Strafprozessordnung[^48-1] sinngemäss.
+
+[^48-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+
+## 6a. Besondere Aufgabe
+
+#### Art. 48a
+
+**Beratungsstelle für Gewalt ausübende Personen**
+
+<sup>1</sup> Das Amt führt eine Beratungsstelle für Gewalt ausübende Personen. Zur Erfüllung dieser Aufgabe ist die Beratungsstelle für Gewalt ausübende Personen berechtigt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten.
+
+<sup>2</sup> Nach Eingang einer Meldung gemäss Artikel 16 Absatz 1 Litera c oder Artikel 16a des Polizeigesetzes des Kantons Graubünden[^48a-1] nimmt die Beratungsstelle für Gewalt ausübende Personen umgehend Kontakt mit der Gewalt ausübenden Person auf und bietet ihr eine kostenlose Beratung an.
+
+<sup>3</sup> Wünscht die Gewalt ausübende Person keine Beratung, vernichtet oder löscht die Beratungsstelle für Gewalt ausübende Personen die von der Kantonspolizei erhaltenen Unterlagen oder Informationen sofort.
+
+<sup>4</sup> Die Beratungsstelle für Gewalt ausübende Personen darf Tatsachen, von denen sie durch eine freiwillige Beratung Kenntnis erhalten hat, und Unterlagen aus einer freiwilligen Beratung Dritten nur bekanntgeben, wenn die beratene Person damit einverstanden ist.
+
+[^48a-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
 
 ## 7. Schlussbestimmungen
 
@@ -602,6 +790,14 @@ beschliesst:
 - b) Artikel 7 Absatz 2: Die Kosten des Vollzugs von Massnahmen gehen zu Lasten der Gemeinde, in der die Betroffenen ihren letzten Wohnsitz oder Aufenthalt hatten, soweit nicht die Betroffenen oder Dritte für die Bezahlung aufkommen. Verurteilte in günstigen finanziellen Verhältnissen können im Urteil zu Beiträgen an die Vollzugskosten verpflichtet werden.
 
 [^51-1]: BR [350.000](https://www.gr-lex.gr.ch/data/350.000/de)
+
+#### Art. 51a
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Die Zulassung privater Institutionen zum Betrieb einer Straf- oder Massnahmenvollzugsanstalt bleibt zwei Jahre über das Inkrafttreten des Bewilligungsverfahrens gültig.
+
+<sup>2</sup> Erkennbare Bildübermittlungs- und Bildaufzeichnungsgeräte, die unter Artikel 23a fallen und zum Zeitpunkt des Inkrafttretens in Betrieb waren, dürfen unter dem neuen Recht weiter betrieben werden, sofern innert zwei Jahren die für die erkennbare Bildüberwachung erforderlichen Voraussetzungen erfüllt werden.
 
 #### Art. 52
 

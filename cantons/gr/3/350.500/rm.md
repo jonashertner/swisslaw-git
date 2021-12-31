@@ -2,24 +2,24 @@
 canton: GR
 number: "350.500"
 title: "Lescha davart l'execuziun giudiziala en il chantun Grischun"
-short: "lescha davart l'execuziun giudiziala; LExeG"
+short: "lescha davart l'execuziun giudiziala, LExeG"
 language: rm
-version: 2017-01-01
-corrected: 2018-01-10
-version_adopted: 2016-02-02
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2839/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3250/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha davart l'execuziun giudiziala en il chantun Grischun
 
-(lescha davart l'execuziun giudiziala; LExeG)
+(lescha davart l'execuziun giudiziala, LExeG)
 
-dals 27-08-2009 (versiun dals 01-01-2017)
+dals 27-08-2009 (versiun dals 01-01-2022)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -39,7 +39,7 @@ concluda:
 
 **Champ d'applicaziun**
 
-<sup>1</sup> Questa lescha regla l'execuziun da sancziuns penalas sco er l'assistenza da reabilitaziun e l'assistenza sociala. Sch'i n'existan naginas disposiziuns spezialas, è questa lescha ultra da quai applitgabla per las furmas da la privaziun da la libertad che vegnan menziunadas en l'artitgel 13.
+<sup>1</sup> Questa lescha regla l'execuziun da sancziuns penalas, l'assistenza da reabilitaziun e l'assistenza sociala sco er ulteriuras incumbensas che vegnan delegadas als uffizis ch'èn cumpetents per l'execuziun giudiziala. Sch'i n'existan naginas disposiziuns spezialas, è questa lescha ultra da quai applitgabla per las furmas da detenziun che vegnan menziunadas en l'artitgel 13 e che na pertutgan betg l'execuziun da sancziuns penalas.
 
 <sup>2</sup> Las directivas ch'èn vegnidas concludidas e ch'èn vegnidas decleradas sco liantas da la cumissiun d'execuziun da chastis da la Svizra orientala pon vegnir applitgadas directamain en cumplettaziun da questa lescha.
 
@@ -59,9 +59,9 @@ concluda:
 
 <sup>1</sup> La regenza regla en spezial ils detagls davart:
 
-- a) las proceduras per preparar, per realisar e per terminar la lavur d'utilitad publica, ils chastis che priveschan da la libertad, las mesiras sco er il cumenzament anticipà da chastis e da mesiras;
+- a) las proceduras per preparar, per realisar e per terminar ils chastis da detenziun e las mesiras sco er il cumenzament anticipà da chastis e da mesiras;
 - b) l'execuziun da sancziuns che priveschan da la libertad en instituziuns chantunalas, cunzunt ils dretgs e las obligaziuns da las persunas sentenziadas en il mintgadi da las instituziuns sco er las mesiras da segirezza e las mesiras disciplinaras;
-- c) la realisaziun da l'assistenza da reabilitaziun, da la controlla da las directivas e da l'assistenza sociala facultativa;
+- c) la realisaziun da l'assistenza da reabilitaziun, da las mesiras da cumpensaziun, da la controlla da las directivas e da l'assistenza sociala facultativa;
 - d) l'arrest d'inquisiziun e l'arrest da segirezza sco er la fermanza da polizia;
 - e) la collavuraziun da l'uffizi cumpetent en la procedura penala per giuvenils, e quai resguardond las directivas;
 - f) l'obligaziun da la persuna sentenziada da surpigliar parzialmain ils custs tenor l'artitgel 380 dal cudesch penal[^3-1].
@@ -74,14 +74,30 @@ concluda:
 
 #### Art. 4
 
-**Lavur d'utilitad publica, chastis che priveschan da la libertad e mesiras**
+**Chastis da detenziun e mesiras 1. cumpetenza e procedura**
 
-<sup>1</sup> En ils cas ch'il cudesch penal[^4-1] deleghescha la cumpetenza per ordinar acts d'execuziun ad ina dretgira, è cumpetenta la dretgira che ha pronunzià la sentenzia en l'emprima instanza.
+<sup>1</sup> En ils cas ch'il CP[^4-1] deleghescha la cumpetenza per ordinar acts d'execuziun ad ina dretgira, è cumpetenta la dretgira che ha pronunzià la sentenzia en l'emprima instanza. Sin proposta da l'uffizi decida questa dretgira er davart l'aboliziun da mesiras tenor l'artitgel 59, l'artitgel 60, l'artitgel 61 e l'artitgel 63 CP, sch'i sto vegnir decidì a medem temp davart las consequenzas giuridicas en ina procedura giudiziala.
 
-<sup>2</sup> La regenza designescha ils uffizis ch'èn cumpetents per exequir la lavur d'utilitad publica, ils chastis che priveschan da la libertad e las mesiras, uschenavant ch'il cudesch penal, ch'il dretg penal per giuvenils[^4-2] u che auters relaschs na disponan nagut auter.
+<sup>2</sup> Dal rest designescha la Regenza ils uffizis ch'èn cumpetents per exequir ils chastis da detenziun e las mesiras, uschenavant ch'il CP, il Dretg penal per giuvenils[^4-2] u auters relaschs na disponan nagut auter.
+
+<sup>3</sup> Sch'ina dretgira entra en funcziun sco autoritad d'execuziun, vegn applitgà il Cudesch da procedura penala svizzer [^4-3] per la procedura. La procedura davant autras autoritads d'execuziun penala sa drizza tenor la Lescha davart la giurisdicziun administrativa[^4-4], uschenavant che questa lescha na prevesa betg insatge auter.
 
 [^4-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
 [^4-2]: CS [311.1](https://db.clex.ch/link/Bund/311.1/rm)
+[^4-3]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+[^4-4]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+
+#### Art. 4a
+
+**2. consultaziun da terzas persunas**
+
+<sup>1</sup> Per ademplir singulas incumbensas pon ils posts ch'èn cumpetents per l'execuziun da chastis e da mesiras engaschar instituziuns statalas e privatas renconuschidas sco er persunas spezialisadas uffizialas e privatas, en spezial per il provediment da la sanadad, per l'assistenza e per la garanzia da la segirezza.
+
+<sup>2</sup> Las varts engaschadas ston avair las enconuschientschas spezialisadas necessarias e garantir ch'ellas adempleschian las incumbensas en moda irreproschabla. Ellas pon vegnir suttamessas ad examinaziuns da la segirezza da persunas che vegnan realisadas da la Polizia chantunala.
+
+<sup>3</sup> Las varts engaschadas, a las qualas vegnan delegadas incumbensas da segirezza, èn autorisadas d'applitgar sforz direct e da duvrar meds auxiliars, sche quai è necessari per ademplir las incumbensas executivas delegadas.
+
+<sup>4</sup> Ils posts cumpetents fixeschan las pretensiuns ch'èn necessarias per ademplir las incumbensas. Els pon far in cunvegna da prestaziun cun las varts engaschadas.
 
 #### Art. 5
 
@@ -89,9 +105,9 @@ concluda:
 
 <sup>1</sup> Chastis pecuniars e multas crodan – cun resalva d'intents spezials – a la cassa da las autoritads giudizialas u da las instanzas administrativas ch'èn stadas cumpetentas en l'emprima instanza. Las instanzas administrativas han da procurar per l'incassament dals chastis pecuniars e da las multas ch'ellas han pronunzià.
 
-<sup>2</sup> Sch'il chasti pecuniar u sche la multa è vegnida remplazzada dal chasti subsidiar che privescha da la libertad u da la lavur d'utilitad publica, tutga il chasti pecuniar u la multa – en cas ch'el u ch'ella vegn pajà posteriuramain – a l'uffizi per l'execuziun giudiziala.
+<sup>2</sup> Sch'in chasti pecuniar u ina multa è vegnida remplazzada tras in chasti da detenziun subsidiar, tutga il chasti pecuniar u la multa – en cas ch'el u ella vegn pajà posteriuramain – a l'uffizi.
 
-<sup>3</sup> En cas da multas ch'èn vegnidas pronunziadas d'ina instanza administrativa, dispona la procura publica – sin dumonda da l'uffizi – ch'ellas vegnian transfurmadas en lavur d'utilitad publica u en in chasti subsidiar che privescha da la libertad.
+<sup>3</sup> En cas da multas ch'èn vegnidas pronunziadas d'ina instanza administrativa, dispona la Procura publica – sin dumonda da l'uffizi – ch'ellas vegnian transfurmadas en in chasti da detenziun subsidiar.
 
 <sup>4</sup> Per multas ch'èn vegnidas pronunziadas d'autoritads communalas sin basa da disposiziuns penalas dal chantun u da la vischnanca è la transfurmaziun exclusa.
 
@@ -111,29 +127,30 @@ concluda:
 
 <sup>2</sup> …
 
-<sup>3</sup> Persunas sentenziadas en bunas relaziuns finanzialas pon vegnir obligadas da la dretgira sentenzianta u da l'uffizi da sa participar als custs d'execuziun.
+<sup>3</sup> …
 
 #### Art. 8
 
 **Participaziun als custs**
 
-<sup>1</sup> Prestaziuns d'assicuranza che tutgan a la persuna sentenziada e ch'èn destinadas a tractaments sco er prestaziuns da l'assicuranza sociala vegnan duvradas per cuvrir ils custs.
+<sup>1</sup> Prestaziuns d'assicuranza che tutgan a la persuna sentenziada u collocada e ch'èn destinadas a tractaments sco er ad autras prestaziuns da l'assicuranza sociala vegnan duvradas per cuvrir ils custs.
 
-<sup>2</sup> La persuna sentenziada:
+<sup>2</sup> La persuna sentenziada u collocada:
 
-- a) paja las acquisiziuns persunalas – cunzunt products da tubac, products da giudiment, artitgels da tualetta ed abunaments da gasettas –, ils custs dals congedis sco er las taxas per duvrar apparats da radio, da televisiun e da telefon;
-- b) sto sa participar adequatamain als custs da la mesa-praschunia, da la lavur en l'externat sco er da l'alloschi e da la lavur en l'externat;
-- c) surpiglia ils custs da las contribuziuns per assicuranzas socialas e per assicuranzas da malsauns sco er las franschisas e las resalvas persunalas;
+- a) paja las expensas persunalas, cunzunt products da fimar, products da giudiment, artitgels da tualetta ed abunaments da gasettas, ils custs da congedis sco er las taxas per duvrar apparats da radio, da televisiun e da telefon;
+- b) sto sa participar adequatamain als custs da la mesa-praschunia, da la lavur en l'externat, da l'alloschi e da la lavur en l'externat sco er da la surveglianza electronica;
+- c) sto sa participar adequatamain als custs da sanadad, sch'ella n'è betg assicurada;
 - d) surpiglia ils custs per mesiras spezialas da la furmaziun supplementara e per il repatriament, uschenavant che quai è pussaivel e raschunaivel per ella;
-- e) surpiglia ils custs da tractaments ambulants ch'èn vegnids ordinads giudizialmain u uffizialmain, nun che quests custs vegnian surpigliads da terzas persunas u da la vischnanca, en la quala la persuna pertutgada aveva ses ultim domicil u sia ultima dimora.
+- e) sto sa participar adequatamain als custs da tractaments ambulants ordinads, betg cumplementars a l'execuziun, nun che quests custs vegnian surpigliads da terzas persunas;
+- f) sto sa participar en ils ulteriurs cas adequatamain als custs d'execuziun en il rom da sias pussaivladads finanzialas.
 
-### 2.3. Furmas spezialas da l'execuziun
+<sup>3</sup> Per furmas spezialas da l'execuziun e per ulteriuras expensas spezialas che vegnan fatgas en l'interess da las persunas sentenziadas u collocadas, po vegnir pretendì in pajament anticipà adequat u pon vegnir fixads pajaments en ratas.
+
+### 2.3.
 
 #### Art. 9
 
-**Furmas spezialas da l'execuziun**
-
-<sup>1</sup> Furmas spezialas da l'execuziun pon vegnir realisadas en il rom da las permissiuns che vegnan concedidas da la confederaziun.
+**…**
 
 ### 2.4. Execuziun da sancziuns dal dretg penal per giuvenils
 
@@ -141,13 +158,15 @@ concluda:
 
 **Giuvenils**
 
-<sup>1</sup> Per l'execuziun da mesiras da protecziun e da chastis cunter giuvenils en il senn da l'artitgel 41 alinea 1 da la procedura penala per giuvenils[^10-1] è cumpetenta la procura per giuvenils.
+<sup>1</sup> Per l'execuziun da chastis e da mesiras da protecziun cunter giuvenils en il senn da l'artitgel 42 alinea 1 PPG[^10-1] è cumpetenta la Procura per giuvenils.
 
-<sup>2</sup> Per incumbensa da la procura per giuvenils exequescha l'uffizi per l'execuziun giudiziala tut las mesiras da protecziun e tut ils chastis cunter giuvenils.
+<sup>2</sup> Per incumbensa da la Procura per giuvenils exequescha l'uffizi tut las mesiras da protecziun e tut ils chastis cunter giuvenils. Latiers tutgan er mesiras da protecziun preventivas ordinadas durant ina procedura penala currenta, la surveglianza electronica d'in scumond d'activitad, da contact e d'areal, l'applicaziun da la surveglianza electronica sco mesira da cumpensaziun e sco med per segirar la relaschada cundiziunada.
 
 <sup>3</sup> Per la cooperaziun a l'execuziun da mesiras da protecziun e da chastis po la procura per giuvenils er consultar ils servetschs socials dal chantun u da las vischnancas.
 
 <sup>4</sup> Las multas crodan a la cassa chantunala. Igl è chaussa dal chantun d'exequir las multas e d'incassar ils custs adossads.
+
+<sup>5</sup> Ils custs da l'execuziun da chastis e da mesiras da protecziun cunter giuvenils van a quint dal chantun, nun ch'els vegnian surpigliads dals geniturs, dals giuvenils, d'in auter chantun u da terzas persunas.
 
 [^10-1]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
 
@@ -155,9 +174,9 @@ concluda:
 
 **Disposiziuns generalas**
 
-<sup>1</sup> Dal rest vegnan applitgads confurm al senn l'artitgel 43 dal dretg penal per giuvenils[^11-1] e las disposiziuns da questa lescha davart l'execuziun da chastis e da mesiras.
+<sup>1</sup> Dal rest vegnan applitgads confurm al senn l'artitgel 42 e l'artitgel 45 PPG[^11-1] sco er las disposiziuns da questa lescha davart l'execuziun da chastis e da mesiras.
 
-[^11-1]: CS [311.1](https://db.clex.ch/link/Bund/311.1/rm)
+[^11-1]: CS [312.1](https://db.clex.ch/link/Bund/312.1/rm)
 
 ## 3. Instituziuns d'execuziun
 
@@ -173,19 +192,101 @@ concluda:
 
 #### Art. 13
 
-**Instituziuns per l'execuziun giudiziala ed autras instituziuns**
+**Incumbensas**
 
-<sup>1</sup> Las instituziuns chantunalas per l'execuziun giudiziala sco er las autras instituziuns èn destinadas a l'execuziun:
+<sup>1</sup> Las instituziuns d'execuziun manadas en il chantun servan a l'execuziun:
 
 - a) da chastis e da mesiras che priveschan da la libertad;
 - b) da l'arrest d'inquisiziun, da l'arrest da segirezza e da l'arrest d'extradiziun;
-- c) da chastis che priveschan da la libertad en furma da la mesa-praschunia, da l'execuziun a dis sco er da l'alloschi e da la lavur en l'externat;
-- d) da mesiras repressivas en il dretg da persunas estras;
+- c) da chastis da detenziun en furma da la mesa-praschunia e da la lavur en l'externat;
+- d) da mesiras repressivas da detenziun tenor il dretg da persunas estras;
 - e) da mesiras da protecziun e da chastis cunter giuvenils;
 - f) da chastis e da mesiras che na pon temporarmain betg vegnir exequids en auters lieus, e quai per motivs da segirezza, per motivs disciplinars u per mancanza da plazza;
 - g) da l'arrest da persunas che vegnan transportadas;
 - h) da la fermanza da polizia;
-- i) da la collocaziun per motivs d'assistenza.
+- i) dal plazzament per motivs da provediment;
+- j) da l'arrest ordaifer il servetsch tenor la Lescha penala militara[^13-1].
+
+[^13-1]: CS [321.0](https://db.clex.ch/link/Bund/321.0/rm)
+
+#### Art. 13a
+
+**Stabiliments giudizials**
+
+<sup>1</sup> Il chantun maina stabiliments chantunals per l'execuziun giudiziala.
+
+<sup>2</sup> Quels servan primarmain a l'execuziun da chastis da detenziun e da mesiras da detenziun.
+
+#### Art. 13b
+
+**Servetschs psichiatrics dal Grischun 1. incarica da prestaziun**
+
+<sup>1</sup> Ils Servetschs psichiatrics dal Grischun mainan ina instituziun d'execuziun per mesiras terapeuticas.
+
+<sup>2</sup> Per manar l'instituziun d'execuziun per mesiras terapeuticas pon ils Servetschs psichiatrics dal Grischun prender las mesiras da segirada, las mesiras repressivas e las mesiras disciplinaras tenor questa lescha.
+
+#### Art. 13c
+
+**2. surveglianza**
+
+<sup>1</sup> En il sectur da l'execuziun da mesiras èn ils Servetschs psichiatrics dal Grischun suttamess a la surveglianza dal departament.
+
+<sup>2</sup> Sche quai è necessari per ademplir questa incumbensa, ston ellas dar infurmaziuns al departament observond las disposiziuns da la protecziun da datas ed al conceder l'access a lur localitads, a lur installaziuns sco er a lur registraziuns.
+
+<sup>3</sup> Per ademplir la surveglianza po il departament engaschar persunas spezialisadas. El è autorisà d'ordinar las disposiziuns ch'èn necessarias per restabilir il manaschi regular da l'instituziun d'execuziun per mesiras terapeuticas.
+
+<sup>4</sup> Il departament approvescha l'urden da chasa da l'instituziun d'execuziun per mesiras terapeuticas.
+
+#### Art. 13d
+
+**Instituziuns privatas 1. admissiun**
+
+<sup>1</sup> Las instituziuns privatas èn autorisadas d'exequir chastis en furma da la mesa-praschunia e da la lavur en l'externat sco er mesiras tenor l'artitgel 59 fin l'artitgel 61 e l'artitgel 63 CP[^13d-1], sch'ellas:
+
+- a) observan ils princips da l'execuziun penala;
+- b) s'obligheschan d'observar las directivas ed ils fegls d'infurmaziun da la Cumissiun d'execuziun da chastis da la Svizra orientala;
+- c) han ina permissiun per manar ina instituziun tenor la legislaziun da sanadad, da persunas cun impediments u da scola.
+
+<sup>2</sup> A las instituziuns privatas vegnan concedidas las autorisaziuns ch'ellas dovran per ademplir l'incumbensa executiva surpigliada. Il dretg d'ordinar nutriments sfurzads e tractaments sfurzads po vegnir concedì mo ad ospitals ed a clinicas cun ina purschida staziunara. Davart il transferiment na pon instituziuns privatas betg decider.
+
+[^13d-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
+
+#### Art. 13e
+
+**2. procedura da permissiun**
+
+<sup>1</sup> Il departament dat la permissiun e conceda las autorisaziuns necessarias per ademplir l'incumbensa executiva per ina durada da 4 onns.
+
+<sup>2</sup> La permissiun vegn retratga, sche las premissas per la permissiun n'èn betg pli ademplidas u sch'i vegnan constatads posteriuramain fatgs, tenor ils quals ina permissiun avess stuì vegnir refusada.
+
+#### Art. 13f
+
+**3. surveglianza**
+
+<sup>1</sup> En il sectur da l'execuziun da chastis e da mesiras èn las instituziuns privatas suttamessas a la surveglianza dal departament.
+
+<sup>2</sup> Sche quai è necessari per ademplir questa incumbensa, ston ellas dar infurmaziuns al departament observond las disposiziuns da la protecziun da datas ed al conceder l'access a lur localitads, a lur installaziuns sco er a lur registraziuns.
+
+<sup>3</sup> Per ademplir la surveglianza po il departament engaschar persunas spezialisadas. El è autorisà d'ordinar las disposiziuns ch'èn necessarias per restabilir il manaschi regular da las instituziuns privatas.
+
+<sup>4</sup> Il departament approvescha l'urden da chasa da las instituziuns privatas.
+
+#### Art. 13g
+
+**Prescripziuns da separaziun**
+
+<sup>1</sup> En las instituziuns d'execuziun manadas en il chantun ston las suandantas persunas vegnir collocadas separadamain ina da l'autra:
+
+- a) persunas collocadas en l'arrest d'inquisiziun e da segirezza e persunas collocadas en l'execuziun da chastis e da mesiras;
+- b) persunas collocadas en ina mesira repressiva da detenziun tenor il dretg da persunas estras ed autras persunas collocadas;
+- c) persunas collocadas en l'arrest ordaifer il servetsch tenor la Lescha penala militara[^13g-1] ed autras persunas collocadas;
+- d) persunas collocadas tenor il dretg civil e tenor il dretg penal, danor en chasas da giuvenils;
+- e) persunas collocadas giuvenilas e creschidas;
+- f) persunas collocadas femininas e masculinas en l'execuziun da chastis. L'identitad da schlattaina da las persunas collocadas vegn resguardada uschenavant sco pussaivel.
+
+<sup>2</sup> Cun il consentiment da l'autoritad collocanta pon ils stabiliments giudizials, l'instituziun d'execuziun per mesiras terapeuticas e las instituziuns privatas da l'execuziun da chastis e da mesiras divergiar excepziunalmain da las prescripziuns da separaziun, sch'i èn avant maun interess predominants da vart da las persunas pertutgadas e sche naginas disposiziuns spezialas na s'opponan a quai.
+
+[^13g-1]: CS [321.0](https://db.clex.ch/link/Bund/321.0/rm)
 
 ## 4. Execuziun da sancziuns penalas
 
@@ -209,7 +310,7 @@ concluda:
 
 <sup>2</sup> Las persunas collocadas èn obligadas da sa suttametter ad in'expertisa psichiatrica, sche l'autoritad collocanta ed executiva resguarda quai sco necessari per planisar l'execuziun.
 
-<sup>3</sup> Las persunas collocadas ston observar las prescripziuns d'execuziun e suandar tant las ordinaziuns da la direcziun e dal persunal da l'instituziun d'execuziun sco er las ordinaziuns da l'autoritad collocanta ed executiva cumpetenta. Ellas tralaschan tut quai che impedescha che l'execuziun e che las finamiras da l'execuziun possian vegnir realisadas en moda ordinada e tut quai che disturba la segirezza e l'urden.
+<sup>3</sup> Las persunas collocadas ston observar las prescripziuns d'execuziun e suandar las ordinaziuns da l'instituziun d'execuziun sco er da l'autoritad collocanta. Ellas tralaschan tut quai che impedescha che l'execuziun e las finamiras da l'execuziun possian vegnir realisadas en moda ordinada e tut quai che disturba la segirezza e l'urden.
 
 ### 4.2. Collocaziun, transferiment ed interrupziun
 
@@ -221,46 +322,42 @@ concluda:
 
 #### Art. 17
 
-**Abilitad d'expiar il chasti**
+**Suspensiun**
 
 <sup>1</sup> En cas d'inabilitad d'expiar il chasti vegn suspendida l'execuziun.
 
-<sup>2</sup> Davart l'abilitad d'expiar il chasti decida l'uffizi. L'inabilitad d'expiar il chasti po vegnir confermada mo tras in attest da la media u dal medi. Sch'in tal attest manca u sch'i dat dubis davart l'abilitad d'expiar il chasti, vegn quella controllada da la media u dal medi da l'instituziun d'execuziun ubain da la psichiatra u dal psichiater da l'instituziun d'execuziun.
+<sup>2</sup> Davart l'abilitad d'expiar il chasti decida l'autoritad collocanta.
 
-<sup>3</sup> L'uffizi po ordinar en mintga cas ina controlla speziala. Il medem dretg ha la procura publica areguard las praschunieras ed areguard ils praschuniers d'inquisiziun.
+<sup>3</sup> Sche documents medicinals suffizients n'èn betg avant maun, sto ella laschar giuditgar il cas d'ina persuna medicala spezialisada.
 
-<sup>4</sup> Igl è chaussa da l'uffizi d'ordinar mesiras preventivas che daventan necessarias pervia da la segirezza publica. En cas da basegn infurmescha quel l'autoritad da protecziun da l'uffant e da creschids cumpetenta. Questas duas autoritads prendan las mesiras necessarias en enclegientscha vicendaivla.
+<sup>4</sup> Igl è chaussa da l'autoritad collocanta d'ordinar mesiras preventivas che daventan necessarias pervia da la segirezza publica. En cas da basegn infurmescha ella l'Autoritad per la protecziun d'uffants e da creschids. Questas duas autoritads prendan las mesiras necessarias en enclegientscha vicendaivla.
 
 #### Art. 18
 
 **Transferiment**
 
-<sup>1</sup> Per cuntinuar l'execuziun po l'uffizi transferir persunas collocadas en in'autra instituziun d'execuziun:
+<sup>1</sup> Per cuntinuar l'execuziun po l'autoritad collocanta transferir persunas collocadas en in'autra instituziun d'execuziun:
 
 - a) sche quai daventa necessari pervia da lur stadi, pervia da lur cumportament u pervia da lur segirezza;
 - b) sche lur tractament pretenda quai;
 - c) sche lur integraziun vegn cuntanschida meglier uschia;
 - d) sch'i dat problems d'occupaziun.
 
-<sup>2</sup> Il transferiment en ina clinica psichiatrica u en in ospital po avair lieu er sin basa d'ina disposiziun medicinala. Per cas urgents vegn la direcziun da l'instituziun d'execuziun autorisada da far quai. L'uffizi vegn infurmà immediatamain davart il transferiment.
+<sup>2</sup> En cas urgents pon las instituziuns d'execuziun transferir persunas collocadas per motivs tenor l'alinea 1 litera a u litera b per cuntinuar l'execuziun en in'autra instituziun d'execuziun. L'instituziun d'execuziun infurmescha immediatamain l'autoritad collocanta davart il transferiment.
+
+<sup>3</sup> L'autoritad collocanta decida entaifer 30 dis, sch'il transferiment ordinà d'ina instituziun d'execuziun duai vegnir mantegnì, midà u abolì.
 
 #### Art. 19
 
-**Interrupziun dal chasti**
+**Interrupziun da l'execuziun da chastis e da mesiras**
 
-<sup>1</sup> La permissiun per interrumper il chasti tenor l'artitgel 92 dal cudesch penal[^19-1] po vegnir colliada cun cundiziuns davart il cumportament, davart l'occupaziun, davart il lieu da dimora, davart l'obligaziun d'annunzia sco er cun l'ordinaziun d'ina surveglianza u d'ina assistenza.
+<sup>1</sup> L'autoritad collocanta po permetter l'interrupziun da l'execuziun da chastis e da mesiras tenor l'artitgel 92 CP[^19-1], pronunziond a medem temp cundiziuns davart il cumportament, davart l'occupaziun, davart il lieu da dimora, davart l'obligaziun d'annunzia sco er ordinond ina surveglianza u in'assistenza.
 
 [^19-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
 
 #### Art. 20
 
-**Mesiras da segirezza**
-
-<sup>1</sup> Sch'ina mesira staziunara sto vegnir abolida u midada, vegn plazzada la persuna collocada en ina instituziun d'execuziun adattada, fin che la dretgira ha decidì, sche e quant enavant ch'il chastì suspendì vegn anc exequì ubain sch'i duai vegnir ordinà in'autra mesira.
-
-<sup>2</sup> En ils cas da l'artitgel 95 alinea 5 dal cudesch penal[^20-1] ordinescha l'uffizi l'arrest da segirezza, sch'i sto vegnir fatg quint seriusamain che la persuna relaschada commettia novs delicts cunter il corp e cunter la vita. Davart la cuntinuaziun da l'arrest da segirezza decida la dretgira chantunala da mesiras repressivas entaifer 48 uras suenter l'ordinaziun.
-
-[^20-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
+**…**
 
 ### 4.3. Segirezza ed urden
 
@@ -278,7 +375,7 @@ concluda:
 
 <sup>1</sup> Per segirar l'execuziun èn admissiblas cunzunt las suandantas mesiras dal servetsch d'identificaziun:
 
-- a) far fotografias;
+- a) far registraziuns visualas;
 - b) far mesiraziuns e registrar segns corporals caracteristics;
 - c) prender improntas dals dets;
 - d) prender in'emprova da la spida u in'emprova da la mucosa da la bucca.
@@ -291,7 +388,7 @@ concluda:
 
 **Controllas, perquisiziuns**
 
-<sup>1</sup> La direcziun da l'instituziun d'execuziun po laschar perquirir las persunas collocadas, lur effects persunals e lur alloschi ed ordinar emprovas da l'urin, controllas dal flad, emprovas dal sang, emprovas dals chavels u la controlla externa d'averturas dal corp (perquisiziun corporala externa).
+<sup>1</sup> L'instituziun d'execuziun po laschar perquirir las persunas collocadas, lur effects persunals e lur alloschi ed ordinar emprovas da l'urin, controllas dal flad, emprovas dal sang, emprovas dals chavels u la controlla externa d'averturas dal corp (perquisiziun corporala externa).
 
 <sup>2</sup> Persunas collocadas che vegnan suspectadas da zuppar objects scumandads en lur corp, vi da lur corp u en averturas da lur corp, pon vegnir suttamessas ad ina perquisiziun corporala (perquisiziun corporala intima).
 
@@ -299,11 +396,36 @@ concluda:
 
 <sup>4</sup> Perquisiziuns corporalas intimas ston vegnir surdadas ad ina media u ad in medi.
 
+#### Art. 23a
+
+**Surveglianza visuala visibla**
+
+<sup>1</sup> Cun apparats visibels per transmetter e per registrar maletgs per identifitgar persunas dastgan vegnir survegliads ils suandants secturs per proteger l'urden e la segirezza:
+
+- a) il sectur da passagieras e passagiers en vehichels che servan a transportar persunas collocadas davent dad instituziuns d'execuziun sco er fin a talas instituziuns; e
+- b) il sectur intern d'instituziuns d'execuziun.
+
+<sup>2</sup> Il sectur extern d'instituziuns d'execuziun dastga vegnir surveglià cun apparats visibels per transmetter e per registrar maletgs per identifitgar persunas, sche la segirezza e l'urden èn periclitads concretamain. La disposiziun generala che sto vegnir decretada per quest intent da l'uffizi sin dumonda da l'instituziun d'execuziun, vala duraivlamain.
+
+<sup>3</sup> Il material visual registrà sto vegnir stizzà suenter l'evaluaziun ed il pli tard 90 dis suenter la registraziun, nun ch'el vegnia duvrà en ina procedura d'execuziun da chastis, en ina procedura penala u per la defensiun da privels.
+
+#### Art. 23b
+
+**Controlla d'access e da sortida**
+
+<sup>1</sup> Per la controlla d'access e da sortida pon las instituziuns d'execuziun applitgar proceduras biometricas cun l'intent da verifitgar l'identitad da persunas.
+
+<sup>2</sup> Per persunas, da las qualas l'identitad na po betg vegnir verifitgada cun agid da las proceduras biometricas applitgadas, existan controllas d'access e da sortida alternativas. Ad autras persunas vegn refusà l'access a l'instituziun d'execuziun, sch'ellas na sa suttamettan betg a las proceduras biometricas per la controlla d'access e da sortida.
+
+<sup>3</sup> Las datas biometricas registradas dastgan vegnir duvradas mo per la controlla d'access e da sortida.
+
+<sup>4</sup> Sin dumonda da la persuna pertutgada ed il pli tard 90 dis suenter ch'il motiv per l'elavuraziun da datas è crudà davent, ston questas datas vegnir stizzadas, nun che la persuna pertutgada dettia explicitamain ses consentiment ad in'elavuraziun da datas pli lunga.
+
 #### Art. 24
 
 **Mesiras da segirezza spezialas**
 
-<sup>1</sup> La direcziun da l'instituziun d'execuziun po ordinar mesiras da segirezza spezialas cunter ina persuna collocada, sch'igl exista – sin basa da ses cumportament u da ses stadi psichic – in privel augmentà ch'ella fugia, ch'ella commettia acts da violenza cunter sasezza u cunter terzas persunas ubain ch'ella fetschia donns materials.
+<sup>1</sup> L'instituziun d'execuziun po ordinar mesiras da segirezza spezialas cunter ina persuna collocada, sch'igl exista – sin basa da ses cumportament u da ses stadi psichic – in privel augmentà ch'ella fugia, ch'ella commettia acts da violenza cunter sasezza u cunter terzas persunas ubain ch'ella fetschia donns materials.
 
 <sup>2</sup> Sco mesiras da segirezza spezialas èn admissiblas:
 
@@ -314,84 +436,83 @@ concluda:
 - e) collocar en in local ch'è segirà spezialmain e che na cuntegna nagins objects periclitants;
 - f) liar.
 
-<sup>3</sup> Las mesiras tenor l'alinea 1 literas a, c ed e èn er admissiblas, sch'il privel da la liberaziun u sch'in disturbi considerabel da l'urden en l'instituziun d'execuziun na po betg vegnir evità autramain.
+<sup>3</sup> Las mesiras tenor l'alinea 2 literas a, c ed e èn er admissiblas, sch'il privel da la liberaziun u sch'in disturbi considerabel da l'urden en l'instituziun d'execuziun na po betg vegnir evità autramain.
 
-<sup>4</sup> Sin ordinaziun da la direcziun da l'instituziun d'execuziun èsi admess da liar ina persuna collocada per la sortida, per la preschentaziun u per il transport er alura, sch'igl exista in privel da fugia augmentà per auters motivs che quels da l'alinea 1.
+<sup>4</sup> Sin ordinaziun da l'instituziun d'execuziun èsi admess da liar ina persuna collocada per la sortida, per la preschentaziun u per il transport er alura, sch'igl exista in privel da fugia augmentà per auters motivs che quels da l'alinea 1.
 
 <sup>5</sup> Las mesiras da segirezza spezialas dastgan vegnir mantegnidas mo sche e mo uschè ditg che lur intent pretenda quai.
 
 #### Art. 25
 
-**Arrestaziuns**
+**Publicaziun, manar natiers ed arrestaziun**
 
-<sup>1</sup> Sch'ina persuna collocada è mitschada u sch'ella sa trategna uschiglio senza permissiun ordaifer l'instituziun d'execuziun, vegni ordinà immediatamain ch'ella vegnia arrestada e manada enavos. L'autoritad collocanta sto vegnir infurmada da quai. Il persunal da l'instituziun d'execuziun la po arrestar sez e la po manar enavos sez en l'instituziun.
+<sup>1</sup> Sch'ina persuna collocada è fugida u sch'ella sa trategna uschiglio senza permissiun ordaifer l'instituziun d'execuziun, po l'instituziun d'execuziun – cun l'intent d'eruir sia dimora u da l'arrestar – publitgar u laschar manar natiers la persuna collocada tras la Polizia chantunala.
 
-### 4.4. Sforz direct
+<sup>2</sup> En ils cas numnads en l'alinea 1 po il persunal da l'instituziun d'execuziun arrestar sez las persunas collocadas e las manar enavos sez en l'instituziun.
+
+<sup>3</sup> L'autoritad collocanta sto vegnir infurmada immediatamain.
+
+### 4.4. Mesiras repressivas
 
 #### Art. 26
 
-**Princip**
+**Sforz direct**
 
-<sup>1</sup> Il sforz direct po vegnir applitgà cunter persunas collocadas che sa cumportan en moda renitenta u violenta ubain per evitar lur fugia u per las rearrestar.
+<sup>1</sup> L'applicaziun da sforz direct ed il diever da meds auxiliars adattads èn pussaivels cunter persunas collocadas renitentas u violentas, saja quai per evitar lur fugia u per las rearrestar.
 
-<sup>2</sup> Cunter autras persunas che sa trategnan illegalmain sin l'areal da l'instituziun d'execuziun, ch'emprovan d'entrar cun forza u che vulan liberar persunas collocadas èsi admissibel da duvrar il sforz direct, sche l'intent che duai vegnir cuntanschì na po betg vegnir cuntanschì autramain.
+<sup>2</sup> Cunter autras persunas che sa trategnan illegalmain sin l'areal da l'instituziun d'execuziun, ch'emprovan d'entrar cun forza u che vulan liberar persunas collocadas èsi admissibel d'applitgar sforz direct e da duvrar meds auxiliars adattads, sche l'intent che duai vegnir cuntanschì na po betg vegnir cuntanschì autramain.
 
 #### Art. 27
 
 **Nutriment sfurzà**
 
-<sup>1</sup> En cas d'ina chauma da la fom po la direcziun da l'instituziun d'execuziun ordinar in nutriment sfurzà che sto vegnir fatg sut la direcziun e cun la participaziun d'ina media u d'in medi, sch'igl exista in privel da mort u in privel gravant per la persuna pertutgada.
+<sup>1</sup> En cas d'ina chauma da la fom po l'instituziun d'execuziun ordinar in nutriment sfurzà che sto vegnir exequì sut la direcziun e cun la participaziun d'ina media u d'in medi, sch'igl exista in privel da mort u in privel gravant per la persuna pertutgada. Cunter questa decisiun poi vegnir fatg recurs administrativ tar l'uffizi.
 
 <sup>2</sup> Uscheditg ch'ins po partir dal fatg che la persuna pertutgada possia exercitar libramain sia voluntad, na datti naginas intervenziuns da vart da l'instituziun d'execuziun.
 
+<sup>3</sup> L'instituziun d'execuziun infurmescha la persuna pertutgada davart la mesira repressiva previsa e lascha vegnir a pled questa persuna, nun ch'in privel resultia dal retard. Ella ordinescha la represchentanza tras ina persuna ch'è inscritta en il register chantunal da las advocatas e dals advocats u che giauda la libra circulaziun tenor la Lescha federala davart la libra circulaziun da las advocatas e dals advocats[^27-1].
+
+[^27-1]: CS [935.61](https://db.clex.ch/link/Bund/935.61/rm)
+
 #### Art. 28
 
-**Medicaziun sfurzada 1. champ d'applicaziun, princip**
-
-<sup>1</sup> Las suandantas disposiziuns davart la medicaziun sfurzada valan per persunas ch'èn vegnidas collocadas en ina instituziun d'execuziun grischuna, sche:
-
-- a) ina sancziun penala, cunzunt ina mesira ch'è vegnida ordinada tras ina dretgira, sto vegnir exequida; e
-- b) ellas èn cumpatiblas cun l'intent concret da la sancziun.
-
-<sup>2</sup> Ina medicaziun sfurzada en il senn da questa lescha è ina mesira che vegn exequida senza il consentiment da la persuna pertutgada, e quai cun la finamira da mantegnair u da meglierar ses stadi da sanadad ubain da proteger terzas persunas.
-
-<sup>3</sup> Ils dretgs generals e las obligaziuns generalas da las persunas collocadas valan er tar l'ordinaziun da medicaziuns sfurzadas, uschenavant ch'i n'è determinà nagut auter.
+**…**
 
 #### Art. 29
 
-**2. premissas**
+**Tractament sfurzà 1. tractament sfurzà inditgà medicinalmain**
 
-<sup>1</sup> Medicaziuns sfurzadas èn admissiblas mo, sche mesiras voluntaras han disditg u na stattan betg a disposiziun e sche:
+<sup>1</sup> L'ordinaziun e la procedura d'emprima instanza en cas d'in tractament sfurzà inditgà medicinalmain sa drizzan tenor las disposiziuns dal Cudesch civil svizzer[^29-1] che valan – en il rom da la collocaziun per motivs da provediment – per il tractament sfurzà medicinal sco er per las mesiras repressivas che restrenschan la libertad da sa mover.
 
-- a) il cumportament da la persuna pertutgada periclitescha grevamain sia atgna segirezza u sia atgna sanadad; u
-- b) in privel direct per il corp e per la vita da terzas persunas duai vegnir evità; u
-- c) in disturbi gravant da la vita cuminaivla sto vegnir eliminà, en cas che la persuna pertutgada demussa in cumportament social disturbà u ha in potenzial destructiv considerabel.
+- a) …
+- b) …
+- c) …
+
+<sup>2</sup> Cunter decisiuns concernent il tractament sfurzà inditgà medicinalmain po la persuna pertutgada far recurs administrativ tar l'uffizi entaifer 10 dis dapi la communicaziun.
+
+[^29-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
 
 #### Art. 30
 
-**3. disposiziuns generalas**
+**2. medicaziun sfurzada inditgada sin basa da las mesiras**
 
-<sup>1</sup> Davart l'ordinaziun, davart la realisaziun e davart la finiziun d'ina medicaziun sfurzada decida unicamain la direcziun, e quai suenter avair tadlà la media cumpetenta u il medi cumpetent da l'instituziun d'execuziun.
+<sup>1</sup> Durant l'execuziun d'ina mesira terapeutica po l'autoritad collocanta ordinar ina medicaziun sfurzada, uschenavant che quai è indispensabel per exequir la mesira en moda empermettenta tenor puncts da vista psichiatrics-forensics.
 
-<sup>2</sup> I ston vegnir prendidas tut las mesiras per pudair evitar medicaziuns sfurzadas. A las persunas pertutgadas sto vegnir laschada la libertad da decider, uschenavant che quai è cumpatibel cun lur atgna segirezza e cun la segirezza publica.
+<sup>2</sup> La medicaziun sfurzada inditgada sin basa da las mesiras è admissibla mo, sch'ella vegn recumandada e survegliada d'ina media spezialista u d'in medi spezialist.
 
-<sup>3</sup> I sto mintgamai vegnir tschernida la mesira repressiva la pli moderada. Ella dastga durar mo uschè ditg sco quai che las premissas giustifitgantas èn dadas.
+<sup>3</sup> L'autoritad collocanta infurmescha la persuna pertutgada davart la medicaziun sfurzada inditgada sin basa da las mesiras e lascha vegnir a pled questa persuna. Ella ordinescha la represchentanza tras ina persuna ch'è inscritta en il register chantunal da las advocatas e dals advocats u che giauda la libra circulaziun tenor la Lescha federala davart la libra circulaziun da las advocatas e dals advocats[^30-1].
+
+<sup>4</sup> L'autoritad collocanta sto controllar regularmain, sche las premissas per ina medicaziun sfurzada inditgada sin basa da las mesiras èn anc adina ademplidas.
+
+[^30-1]: CS [935.61](https://db.clex.ch/link/Bund/935.61/rm)
 
 #### Art. 31
 
-**4. scleriment**
-
-<sup>1</sup> Avant che decider per ina medicaziun sfurzada sto la persuna pertutgada vegnir sclerida davart la mesira ordinada e davart il dretg da far recurs, uschenavant ch'i na smanatscha betg in privel tras il retardament. Sin giavisch da la persuna pertutgada ston las confamigliaras ed ils confamigliars u ina persuna designada che stat datiers vegnir infurmads immediatamain ed en furma adequata.
-
-<sup>2</sup> Er sche la decisiun è vegnida communitgada ordavant a bucca, sto ella vegnir communitgada posteriuramain subit en scrit ensemen cun la motivaziun e cun l'indicaziun dals meds legals.
-
-<sup>3</sup> L'instituziun d'execuziun sto infurmar immediatamain l'autoritad collocanta sco er la media chantunala u il medi chantunal, sch'ella ordinescha ina medicaziun sfurzada.
+**…**
 
 #### Art. 32
 
-**5. recurs**
-
-<sup>1</sup> La persuna ch'è pertutgada da la medicaziun sfurzada, sias confamigliaras e ses confamigliars u ina persuna che stat datiers pon recurrer en scrit cunter l'ordinaziun da la medicaziun sfurzada tar l'uffizi cumpetent, e quai entaifer 10 dis dapi la communicaziun en scrit.
+**…**
 
 ### 4.5. Sanadad ed assistenza
 
@@ -407,11 +528,11 @@ concluda:
 
 **Custs dal tractament**
 
-<sup>1</sup> Sch'ils custs per il tractament medicinal na vegnan betg cuvrids tras la dunsena, tras las cassas da malsauns u tras las assicuranzas, van quests custs a quint dal chantun collocant.
+<sup>1</sup> Sch'ils custs per tractaments na vegnan betg cuvrids tras la dunsena, tras l'assicuranza da malsauns, tras autras assicuranzas u tras la participaziun da la persuna collocada als custs, van quests custs a quint dal chantun collocant.
 
 <sup>2</sup> Ils custs per ina dimora en l'ospital u ils custs da tractament per malsognas u per accidents che existivan u ch'èn vegnids subids gia avant che entrar en l'instituziun d'execuziun, ston vegnir surpigliads da la persuna collocada u dal chantun collocant. Il medem vala – cun excepziun da cas d'urgenza – per blessuras u per malsognas ch'èn vegnidas chaschunadas intenziunadamain en l'instituziun d'execuziun.
 
-<sup>3</sup> Avant mintga tractament suspensibel sto vegnir sclerì cun il post collocant, tgi che surpiglia ils custs. Sch'i n'è betg garantì ch'ils custs sajan cuvrids, sto la persuna collocada pajar in deposit.
+<sup>3</sup> Avant mintga tractament suspensibel sto vegnir sclerì cun il post collocant, tgi che surpiglia ils custs. Sch'i n'è betg garantì ch'ils custs sajan cuvrids, sto la persuna collocada prestar in pajament anticipà u pajaments en ratas.
 
 <sup>4</sup> Ils custs per il tractament da blessuras u da malsognas che la persuna collocada ha subì a chaschun d'in trategniment scumandà ordaifer l'instituziun d'execuziun sto ella surpigliar sezza.
 
@@ -427,7 +548,15 @@ concluda:
 
 **Traffic cun il mund exteriur**
 
-<sup>1</sup> En cas d'indizis d'abus u en cas d'abus effectivs èsi pussaivel da restrenscher u da survegliar er il traffic postal, ils discurs da telefon u las visitas d'advocatas e d'advocats, da spiritualas e da spirituals sco er da medias e da medis.
+<sup>1</sup> Uschenavant che quai è cumpatibel cun il manaschi da l'instituziun d'execuziun, han las persunas collocadas il dretg da retschaiver visitas, da telefonar sin agens custs sco er da trametter e da retschaiver brevs e pachets sin agens custs.
+
+<sup>2</sup> Il contact cun las autoritads da surveglianza n'è betg suttamess a restricziuns. Il contact cun la defensura u il defensur dastga vegnir restrenschì u scumandà sut las premissas menziunadas en l'artitgel 84 alinea 4 CP[^36-1].
+
+<sup>3</sup> Il contact cun autras persunas dastga vegnir restrenschì u scumandà per proteger la segirezza e l'urden. Envers advocatas ed advocats, envers spiritualas e spirituals ed envers medias e medis èn talas ordinaziuns admissiblas mo en cas d'in suspect d'abus u en cas d'in privel concret per la segirezza e per l'urden.
+
+<sup>4</sup> Las persunas pertutgadas ston vegnir infurmadas davart las mesiras da segirada. Ils documents obtegnids tras mesiras da segirada ston vegnir destruids u stizzads suenter l'evaluaziun ed il pli tard 90 dis suenter la registraziun, nun ch'els vegnian duvrads en ina procedura d'execuziun da chastis, en ina procedura penala u per la defensiun da privels.
+
+[^36-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
 
 ### 4.7. Fatgs disciplinars
 
@@ -435,7 +564,7 @@ concluda:
 
 **Delicts disciplinars**
 
-<sup>1</sup> Cuntravenziuns cunter questa lescha, cunter l'ordinaziun davart l'execuziun giudiziala[^37-1], cunter l'urden da chasa e cunter autras regulaziuns da las instituziuns d'execuziun sco er cuntravenziuns cunter il plan d'execuziun vegnan chastiadas sco delicts disciplinars.
+<sup>1</sup> Cuntravenziuns cunter questa lescha, cunter las ordinaziuns appartegnentas, cunter l'urden da chasa e cunter autras regulaziuns da las instituziuns d'execuziun sco er cuntravenziuns cunter il plan d'execuziun vegnan chastiadas sco delicts disciplinars.
 
 <sup>2</sup> En cas levs poi vegnir renunzià a mesiras disciplinaras, sch'il delict disciplinar po vegnir liquidà en autra moda.
 
@@ -453,8 +582,6 @@ concluda:
 - j) disturbar grevamain l'urden e la segirezza;
 - k) delicts che pon vegnir persequitads mo sin dumonda, uschenavant ch'i vegn renunzià ad in plant penal.
 
-[^37-1]: DG [350.510](https://www.gr-lex.gr.ch/data/350.510/rm)
-
 #### Art. 38
 
 **Mesiras disciplinaras**
@@ -465,15 +592,15 @@ concluda:
 - b) restricziun u privaziun dal dretg da disponer da meds finanzials, e quai fin 3 mais;
 - c) exclusiun da la participaziun ad activitads communablas u ad activitads da temp liber, ad occurrenzas ed a curs, e quai fin 3 mais – en cas da repetiziun fin 6 mais;
 - d) restricziun u privaziun da medias scrittas u electronicas sco er dal possess d'apparats per la reproducziun da tuns e da maletgs, e quai fin 2 mais – en cas da repetiziun fin 6 mais;
-- e) restricziun u privaziun dal dretg da visita e da correspundenza, e quai fin 3 mais;
+- e) restricziun u privaziun dal dretg da visita e da correspundenza, e quai fin 3 mais. Resalvà resta il contact cun las autoritads da surveglianza, cun las defensuras ed ils defensurs, cun las advocatas ed ils advocats, cun las spiritualas ed ils spirituals sco er cun las medias ed ils medis;
 - f) scumond da sortida e da congedi, e quai fin 6 mais;
 - g) multa fin 200 francs;
 - h) serrar en la cella u en la chombra, e quai fin 14 dis;
-- i) arrest fin 20 dis.
+- i) arrest fin 14 dis.
 
 <sup>2</sup> Pliras mesiras disciplinaras pon vegnir colliadas ina cun l'autra. Igl è scumandà d'ordinar il medem mument in arrest ed ina multa sco er d'ordinar ch'ina persuna collocada vegnia serrada en la cella u en la chombra e survegnia il medem mument er anc arrest.
 
-<sup>3</sup> La restricziun u la privaziun dals contacts externs e dal dretg da visita sco er il scumond da sortida e da congedi dastgan vegnir ordinads mo, sch'il delict disciplinar stat en connex cun il diever da quests dretgs. Resalvà resta en mintga cas il traffic cun autoritads, cun represchentantas legalas e cun represchentants legals sco er cun spiritualas e cun spirituals.
+<sup>3</sup> …
 
 <sup>4</sup> L'arrest è admissibel mo en cas da delicts disciplinars grevs u repetids.
 
@@ -497,29 +624,31 @@ concluda:
 
 #### Art. 41
 
-**Transferiment preventiv**
-
-<sup>1</sup> Tar delicts disciplinars grevs u repetids po vegnir ordinà – ensemen cun la decisiun disciplinara – in transferiment preventiv che dura fin a la decisiun da l'autoritad collocanta, e quai:
-
-- a) da l'execuziun averta vi en l'execuziun serrada;
-- b) da la mesa-praschunia u da la lavur en l'externat vi en l'execuziun averta u serrada;
-- c) da l'alloschi en l'externat vi en la lavur en l'externat u vi en l'execuziun averta u serrada.
+**…**
 
 #### Art. 42
 
 **Cumpetenza per decisiuns disciplinaras**
 
-<sup>1</sup> Mesiras disciplinaras vegnan ordinadas da la direcziun da l'instituziun d'execuziun.
+<sup>1</sup> Mesiras disciplinaras vegnan ordinadas da l'instituziun d'execuziun.
 
-<sup>2</sup> Sche la cuntravenziun sa drizza cunter la direcziun, decida l'uffizi cumpetent.
+<sup>2</sup> Sche la cuntravenziun sa drizza cunter la directura u il directur d'in stabiliment giudizial, decida l'uffizi. La procedura sa drizza tenor l'artitgel 46.
 
-<sup>3</sup> Mesiras disciplinaras ston per regla vegnir exequidas en quella instituziun d'execuziun, da la quala la direcziun ha ordinà questas mesiras.
+<sup>3</sup> Mesiras disciplinaras ston per regla vegnir exequidas en quella instituziun d'execuziun che las ha ordinadas.
 
 <sup>4</sup> Mesiras disciplinaras ch'èn vegnidas ordinadas cunter ina persuna collocada en in'autra instituziun d'execuziun u durant l'arrest d'inquisiziun, vegnan exequidas tenor pussaivladad e sin dumonda.
 
+#### Art. 42a
+
+**Surannaziun**
+
+<sup>1</sup> Surpassaments disciplinars suranneschan suenter 6 mais a partir dal mument ch'els èn vegnids commess. Sch'ina persuna fugia da l'instituziun d'execuziun, importa il termin da surannaziun 1 onn a partir dal mument da la fugia.
+
+<sup>2</sup> L'execuziun d'ina mesira disciplinara surannescha suenter 6 mais a partir dal mument che la mesira è vegnida ordinada cun vigur legala.
+
 #### Art. 43
 
-**Dretg applitgabel**
+**Regulaziun cumplementara**
 
 <sup>1</sup> Per giuditgar delicts disciplinars vegnan applitgadas analogamain las disposiziuns da la part generala dal cudesch penal[^43-1].
 
@@ -527,56 +656,113 @@ concluda:
 
 [^43-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
 
-## 5. Communicaziun da datas da persunas
+## 5. Elavuraziun da datas persunalas
+
+#### Art. 43a
+
+**Elavuraziun da datas tras las autoritads executivas**
+
+<sup>1</sup> Las autoritads executivas pon elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas, e far profilings, uschenavant che quai è necessari per ademplir lur incumbensas uffizialas.
 
 #### Art. 44
 
-**Uffizis e persunas pertutgadas**
+**Communicaziun da datas tranter las autoritads**
 
-<sup>1</sup> Suenter ch'ina persuna è vegnida sentenziada cun vigur legala, tramettan las autoritads da persecuziun penala e las dretgiras – sin palpiri u en furma electronica – tut las actas ch'èn necessarias per l'execuziun al post ch'è cumpetent per l'execuziun dal chasti, sche quel pretenda quai.
+<sup>1</sup> Las autoritads executivas pon barattar ina cun l'autra sco er cun autras autoritads datas persunalas, inclusiv datas persunalas spezialmain sensiblas, uschenavant che quai è necessari per ademplir lur incumbensas uffizialas.
 
-<sup>2</sup> En il rom da lur activitad uffiziala han las collavuraturas ed ils collavuraturs che lavuran en l'execuziun il dretg da prender invista da tut las actas d'inquisiziun, da dretgira, d'execuziun e da terapia ch'èn vegnidas fatgas davart ina persuna, sche quai è adattà e necessari per ademplir lur incumbensas concretas.
+<sup>2</sup> Las autoritads executivas infurmeschan la Polizia chantunala, sch'ina persuna collocada cun ristgas da segirezza spezialas:
 
-<sup>3</sup> Mintga persuna ha il dretg da prender invista da las actas d'execuziun che vegnan manadas davart ella sezza. Las actas d'execuziun cumpiglian las actas fundamentalas da la procedura d'inquisiziun e da la procedura giudiziala sco er las expertisas, ils rapports, ils protocols e las disposiziuns ch'èn impurtants per la procedura d'execuziun. L'invista da las actas u l'infurmaziun dastga vegnir suspendida, restrenschida u refusada en cas d'interess publics predominants u en cas d'interess predominants da terzas persunas.
+- a) cumenza in chasti u ina mesira, vegn transferida u vegn relaschada;
+- b) profitescha da schluccadas da l'execuziun;
+- c) n'è betg entrada en l'execuziun da chastis u da mesiras;
+- d) è fugida da l'execuziun da chastis u da mesiras.
+
+<sup>3</sup> Las autoritads executivas han il dretg d'annunziar a las autoritads da persecuziun penala malfatgs ch'èn da persequitar d'uffizi, senza che las denunziantas ed ils denunziants stoppian l'emprim vegnir liberads dal secret d'uffizi.
+
+#### Art. 44a
+
+**Barat da datas cun persunas spezialisadas**
+
+<sup>1</sup> A las persunas spezialisadas uffizialas e privatas ch'èn incaricadas cun incumbensas executivas metta l'autoritad collocanta a disposiziun ils documents ch'ellas dovran per ademplir lur incumbensas uffizialas u contractualas.
+
+<sup>2</sup> Persunas spezialisadas uffizialas e privatas ch'èn incaricadas cun l'execuziun d'ina mesira penala u d'ina terapia suttamettan periodicamain u sin dumonda a l'autoritad incaricanta in rapport davart l'andament da l'execuziun.
+
+<sup>3</sup> Independentamain d'obligaziuns spezialas da mantegnair il secret ston las persunas spezialisadas uffizialas e privatas infurmar l'autoritad collocanta e las autoritads executivas davart privels serius per la persuna collocada, per terzas persunas u per l'instituziun d'execuziun sco er davart preparativas da fugia.
+
+<sup>4</sup> En ils ulteriurs cas infurmeschan ellas l'autoritad collocanta e las autoritads executivas davart fatgs relevants per l'execuziun, sch'ellas èn vegnidas autorisadas da far quai u sch'ellas èn vegnidas deliberadas dal secret d'uffizi u dal secret professiunal.
 
 #### Art. 45
 
-**Terzas persunas**
+**…**
 
-<sup>1</sup> Sche las suandantas persunas dumondan quai en scrit, las infurmescha il post cumpetent davart il cumenzament dal chasti u da la mesira d'ina persuna sentenziada, davart ses congedi, davart ses transferiment e davart sia relaschada:
+#### Art. 45a
 
-- a) victimas d'acts chastiabels da la persuna sentenziada, sche quests acts han disturbà considerablamain lur integritad corporala, sexuala u psichica;
-- b) autras persunas che pon cumprovar – visavi la persuna sentenziada – in interess superiur vi da l'infurmaziun, il qual è degn da vegnir protegì.
+**Conservar, offrir, destruir u stizzar datas persunalas**
 
-<sup>2</sup> La polizia chantunala vegn infurmada en mintga cas tar persunas collocadas cun ristgas da segirezza spezialas.
+<sup>1</sup> Datas persunalas davart persunas ch'èn vegnidas sentenziadas u collocadas pervia d'in malfatg tenor l'artitgel 64 alinea 1 CP[^45a-1], ston vegnir offridas a l'Archiv dal stadi 30 onns suenter la relaschada u suenter il transferiment.
+
+<sup>2</sup> Las ulteriuras datas persunalas ston vegnir offridas a l'Archiv dal stadi 10 onns suenter la relaschada u suenter il transferiment da la persuna sentenziada u collocada.
+
+<sup>3</sup> Ils termins da conservaziun tenor l'alinea 1 e l'alinea 2 dastgan vegnir surpassads, sche las datas persunalas vegnan duvradas per ils suandants intents:
+
+- a) en ina procedura d'execuziun da chastis, en ina procedura penala u per la defensiun da privels;
+- b) per intents da perscrutaziun, da planisaziun e da statistica;
+- c) per intents da cumprova e da segirezza u per defender interess da la persuna pertutgada degns da protecziun;
+- d) per constatar, per far valair u per defender pretensiuns en connex cun l'execuziun da chastis.
+
+<sup>4</sup> Sche l'Archiv dal stadi è da l'avis che las datas persunalas na sajan betg degnas da vegnir archivadas, ston ellas vegnir destruidas u stizzadas.
+
+[^45a-1]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
 
 ## 6. Meds legals
 
 #### Art. 46
 
-**Recurs 1. entaifer l'instituziun**
+**Procedura da protesta entaifer l'instituziun**
 
-<sup>1</sup> En la relaziun giuridica speziala po vegnir relaschada ina disposiziun a bucca. Las persunas pertutgadas pon pretender ina disposiziun en scrit.
+<sup>1</sup> …
 
-<sup>2</sup> Cunter disposiziuns e cunter mesiras da la manadra u dal manader da l'execuziun sco er cunter tut las ordinaziuns e cunter il cumportament dal persunal da l'instituziun po la persuna collocada recurrer en scrit tar la directura u tar il directur ubain tar la manadra u tar il manader da l'instituziun d'execuziun respectiva, e quai entaifer 10 dis.
+<sup>2</sup> Cunter decisiuns d'instituziuns d'execuziun chantunalas e d'autras instituziuns d'execuziun manadas en il chantun po la persuna collocada far protesta en scrit tar l'instituziun d'execuziun entaifer 10 dis dapi la communicaziun. La persuna pertutgada po vegnir tadlada l'emprima giada en la procedura da protesta.
 
-<sup>3</sup> Il recurs n'ha betg in effect suspensiv.
+<sup>3</sup> La protesta n'ha betg in effect suspensiv.
+
+<sup>4</sup> La procedura da protesta è gratuita.
 
 #### Art. 47
 
-**2. a l'uffizi ed al departament**
+**Procedura da recurs entaifer l'administraziun**
 
-<sup>1</sup> Cunter decisiuns e cunter disposiziuns da la direcziun poi vegnir fatg recurs administrativ tar l'uffizi cumpetent, e quai entaifer 10 dis dapi la communicaziun.
+<sup>1</sup> Cunter decisiuns d'instituziuns d'execuziun chantunalas, d'autras instituziuns d'execuziun manadas en il chantun sco er d'interpresas da segirezza engaschadas poi vegnir fatg recurs administrativ tar l'uffizi entaifer 30 dis dapi la communicaziun.
 
-<sup>2</sup> Cunter disposiziuns e cunter decisiuns da recurs da l'uffizi cumpetent pon las persunas pertutgadas u la procura publica recurrer en scrit tar il departament superiur, e quai entaifer 30 dis.
+<sup>2</sup> Cunter decisiuns da l'uffizi pon las persunas pertutgadas e la Procura publica far recurs tar il departament superiur entaifer 30 dis dapi la communicaziun.
 
-<sup>3</sup> L'instanza da recurs po dar in effect suspensiv al recurs.
+<sup>3</sup> L'uffizi ed il departament communitgeschan lur decisiuns a la Procura publica.
 
 #### Art. 48
 
-**Appellaziun**
+**Recurs tar la Dretgira chantunala dal Grischun**
 
-<sup>1</sup> Cunter disposiziuns executivas u cunter decisiuns da recurs dal departament pon las persunas pertutgadas u la procura publica appellar tar la dretgira chantunala.
+<sup>1</sup> Cunter decisiuns dal departament pon las persunas pertutgadas e la Procura publica far recurs penal tar la Dretgira chantunala entaifer 30 dis dapi la communicaziun.
+
+<sup>2</sup> Per la procedura da recurs valan las disposiziuns dal Cudesch da procedura penala[^48-1] confurm al senn.
+
+[^48-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+
+## 6a. Incumbensa speziala
+
+#### Art. 48a
+
+**Post da cussegliaziun per persunas violentas**
+
+<sup>1</sup> L'uffizi maina in Post da cussegliaziun per persunas violentas. Per ademplir questa incumbensa ha il Post da cussegliaziun per persunas violentas il dretg d'elavurar datas persunalas, inclusiv datas persunalas spezialmain sensiblas.
+
+<sup>2</sup> Suenter l'entrada d'ina annunzia tenor l'artitgel 16 alinea 1 litera c u l'artitgel 16a da la Lescha da polizia dal chantun Grischun[^48a-1] contactescha il Post da cussegliaziun per persunas violentas immediatamain la persuna violenta e l'offra ina cussegliaziun gratuita.
+
+<sup>3</sup> Sche la persuna violenta na giavischa betg ina cussegliaziun, destruescha u stizza il Post da cussegliaziun per persunas violentas immediatamain ils documents u las infurmaziuns ch'el ha survegnì da la Polizia chantunala.
+
+<sup>4</sup> Fatgs ch'il Post da cussegliaziun per persunas violentas è vegnì a savair tras ina cussegliaziun voluntara e documents ch'èn resultads a chaschun d'ina cussegliaziun voluntara dastga el suttametter a terzas persunas mo cun il consentiment da la persuna cussegliada.
+
+[^48a-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
 
 ## 7. Disposiziuns finalas
 
@@ -608,6 +794,14 @@ concluda:
 - b) Artitgel 7 alinea 2: Ils custs da l'execuziun da mesiras van a quint da la vischnanca, en la quala las persunas pertutgadas avevan lur ultim domicil u lur ultima dimora, uschenavant che betg las persunas pertutgadas u terzas persunas na stattan bunas per il pajament. Persunas sentenziadas en bunas relaziuns finanzialas pon vegnir obligadas en la sentenzia da sa participar als custs d'execuziun.
 
 [^51-1]: DG [350.000](https://www.gr-lex.gr.ch/data/350.000/rm)
+
+#### Art. 51a
+
+**Disposiziuns transitoricas**
+
+<sup>1</sup> L'admissiun d'instituziuns privatas al manaschi d'in stabiliment per l'execuziun da chastis u da mesiras resta anc valaivla 2 onns suenter l'entrada en vigur da la procedura da permissiun.
+
+<sup>2</sup> Apparats visibels per transmetter e per registrar maletgs per identifitgar persunas, ch'èn suttamess a l'artitgel 23a e ch'eran en funcziun il mument da l'entrada en vigur, dastgan restar vinavant en funcziun sut il dretg nov, sche las premissas necessarias per la surveglianza visuala visibla vegnan ademplidas entaifer 2 onns.
 
 #### Art. 52
 

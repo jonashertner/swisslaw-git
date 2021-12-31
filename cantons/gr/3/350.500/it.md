@@ -4,13 +4,13 @@ number: "350.500"
 title: "Legge sull'esecuzione giudiziaria nel Cantone dei Grigioni"
 short: LEG
 language: it
-version: 2017-01-01
-corrected: 2018-01-10
-version_adopted: 2016-02-02
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2839/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3250/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2839/pdf_file"
 
 (LEG)
 
-del 27.08.2009 (stato 01.01.2017)
+del 27.08.2009 (stato 01.01.2022)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -37,7 +37,7 @@ decide:
 
 **Campo d'applicazione**
 
-<sup>1</sup> La presente legge disciplina l'esecuzione di sanzioni penali, nonché l'assistenza riabilitativa e l'assistenza sociale volontaria. In assenza di disposizioni particolari, la legge è applicabile anche alle forme di privazione della libertà menzionate all'articolo 13.
+<sup>1</sup> La presente legge disciplina l'esecuzione di sanzioni penali, l'assistenza riabilitativa e l'assistenza sociale nonché altri compiti che vengono delegati agli uffici competenti per l'esecuzione giudiziaria. In assenza di disposizioni particolari, la legge è applicabile anche alle forme di privazione della libertà menzionate all'articolo 13 che non interessano l'esecuzione di sanzioni penali.
 
 <sup>2</sup> Le direttive decise e dichiarate vincolanti dalla Commissione della Svizzera orientale per l'esecuzione delle pene sono direttamente applicabili a complemento della presente legge.
 
@@ -57,9 +57,9 @@ decide:
 
 <sup>1</sup> Il Governo disciplina i dettagli in particolare riguardo:
 
-- a) alle procedure per la preparazione, lo svolgimento e la conclusione del lavoro di utilità pubblica, delle pene detentive e delle misure, nonché dell'espiazione anticipata delle pene detentive e delle misure;
+- a) alle procedure per la preparazione, lo svolgimento e la conclusione delle pene detentive e delle misure, nonché dell'espiazione anticipata delle pene detentive e delle misure;
 - b) all'esecuzione di sanzioni privative della libertà in istituzioni statali, segnatamente i diritti e i doveri dei condannati nella vita quotidiana del penitenziario, nonché le misure di sicurezza e disciplinari;
-- c) allo svolgimento dell'assistenza riabilitativa, del controllo delle norme di condotta e dell'assistenza sociale volontaria;
+- c) allo svolgimento dell'assistenza riabilitativa, delle misure sostitutive, del controllo delle norme di condotta e dell'assistenza sociale volontaria;
 - d) al carcere preventivo e di sicurezza e al fermo preventivo di polizia;
 - e) alla collaborazione, relativa alle norme di condotta, dell'Ufficio competente nella procedura penale minorile;
 - f) ai dettagli sull'obbligo dei condannati ad assumersi una parte delle spese conformemente all'articolo 380 CP[^3-1].
@@ -72,14 +72,30 @@ decide:
 
 #### Art. 4
 
-**Lavoro di pubblica utilità, pene detentive e misure**
+**Pene detentive e misure 1. Competenza e procedura**
 
-<sup>1</sup> Nei casi in cui il Codice penale[^4-1] conferisce a un tribunale la competenza per ordinare atti d'esecuzione, la competenza spetta al tribunale che ha emesso la sentenza di prima istanza.
+<sup>1</sup> Nei casi in cui il CP[^4-1] conferisce a un tribunale la competenza per ordinare atti d'esecuzione, la competenza spetta al tribunale che ha emesso la sentenza di prima istanza. Su richiesta dell'Ufficio tale tribunale decide anche in merito alla soppressione di misure conformemente all'articolo 59, all'articolo 60, all'articolo 61 e all'articolo 63 CP, se contestualmente in un procedimento giudiziario occorre decidere in merito alle conseguenze giuridiche.
 
-<sup>2</sup> Il Governo designa gli uffici competenti per l'esecuzione di lavoro di pubblica utilità, pene detentive e misure, nella misura in cui il codice penale, il diritto penale minorile[^4-2] o altri atti normativi non dispongano diversamente.
+<sup>2</sup> Inoltre il Governo designa gli uffici competenti per l'esecuzione di pene detentive e misure, nella misura in cui il CP, il diritto penale minorile[^4-2] o altri atti normativi non dispongano diversamente.
+
+<sup>3</sup> Se un tribunale esercita la funzione di autorità d'esecuzione, alla procedura si applica il Codice di diritto processuale penale svizzero[^4-3]. La procedura dinanzi ad altre autorità d'esecuzione penale si conforma alla legge sulla giustizia amministrativa [^4-4], per quanto la presente legge non preveda nulla di diverso.
 
 [^4-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
 [^4-2]: RS [311.1](https://db.clex.ch/link/Bund/311.1/it)
+[^4-3]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^4-4]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+
+#### Art. 4a
+
+**2. Coinvolgimento di terzi**
+
+<sup>1</sup> Per adempiere a singoli compiti, gli uffici competenti per l'esecuzione di pene e misure possono coinvolgere istituzioni e strutture statali e private riconosciute nonché specialisti ufficiali e privati, in particolare per l'assistenza sanitaria, l'assistenza e la garanzia della sicurezza.
+
+<sup>2</sup> Le parti coinvolte devono disporre delle conoscenze specifiche necessarie e devono garantire l'adempimento impeccabile dei compiti. La Polizia cantonale può sottoporle a un controllo di sicurezza relativo alle persone.
+
+<sup>3</sup> Le parti coinvolte alle quali vengono delegati compiti di sicurezza sono autorizzate ad applicare la coercizione diretta e a utilizzare ausili adatti, nella misura in cui ciò risulti necessario per adempiere ai compiti legati all'esecuzione loro delegati.
+
+<sup>4</sup> Gli uffici competenti definiscono i requisiti necessari per l'adempimento dei compiti. Essi possono stipulare un accordo di prestazioni con le parti coinvolte.
 
 #### Art. 5
 
@@ -87,9 +103,9 @@ decide:
 
 <sup>1</sup> Le pene pecuniarie e le multe spettano alla cassa delle autorità giudiziarie o amministrative di prima istanza, a meno che non vengano destinate a un uso particolare. Alle autorità amministrative compete la riscossione delle pene pecuniarie e delle multe da esse inflitte.
 
-<sup>2</sup> Se al posto di una pena pecuniaria o di una multa è subentrata la pena detentiva sostitutiva o il lavoro di pubblica utilità, in caso di successivo pagamento la pena pecuniaria o la multa spetta all'Ufficio per l'esecuzione giudiziaria.
+<sup>2</sup> Se al posto di una pena pecuniaria o di una multa è subentrata una pena detentiva sostitutiva, in caso di successivo pagamento la pena pecuniaria o la multa spetta all'Ufficio.
 
-<sup>3</sup> La procura pubblica, su proposta dell'Ufficio, decide la commutazione di multe inflitte da un'autorità amministrativa in lavoro di pubblica utilità o in una pena sostitutiva.
+<sup>3</sup> La Procura pubblica, su proposta dell'Ufficio, decide la commutazione di multe inflitte da un'autorità amministrativa in una pena sostitutiva.
 
 <sup>4</sup> La commutazione è esclusa per multe inflitte da autorità comunali in virtù di disposizioni penali del Cantone o del comune.
 
@@ -109,29 +125,30 @@ decide:
 
 <sup>2</sup> …
 
-<sup>3</sup> Il tribunale giudicante o l'Ufficio possono obbligare i condannati in buone condizioni finanziarie a partecipare alle spese d'esecuzione.
+<sup>3</sup> …
 
 #### Art. 8
 
 **Partecipazione alle spese**
 
-<sup>1</sup> Le prestazioni assicurative per trattamenti, nonché le prestazioni sociali spettanti al condannato vengono impiegate per coprire le spese.
+<sup>1</sup> Le prestazioni assicurative per trattamenti, nonché altre prestazioni delle assicurazioni sociali spettanti al condannato o al collocato vengono impiegate per coprire le spese.
 
-<sup>2</sup> Il condannato:
+<sup>2</sup> Il condannato o il collocato:
 
-- a) paga acquisti personali, in particolare tabacchi, generi voluttuari, articoli da toilette e abbonamenti a giornali, spese per congedi, nonché le tasse per l'utilizzazione di apparecchi radio, televisivi e telefonici;
-- b) deve partecipare in misura adeguata alle spese di semiprigionia, di lavoro in esternato, nonché di alloggio e lavoro in esternato;
-- c) si assume le spese per i contributi all'assicurazione sociale e all'assicurazione malattia, nonché le franchigie e le aliquote percentuali;
+- a) copre spese personali, in particolare tabacchi, generi voluttuari, articoli da toilette e abbonamenti a giornali, spese per congedi, nonché le tasse per l'utilizzazione di apparecchi radio, televisivi e telefonici;
+- b) deve partecipare in misura adeguata alle spese di semiprigionia, di lavoro in esternato, di alloggio e lavoro in esternato nonché della sorveglianza elettronica;
+- c) deve partecipare in misura adeguata alle spese sanitarie, in caso non sia assicurato;
 - d) si assume le spese per particolari misure di perfezionamento e di rimpatrio, per quanto possibile ed esigibile;
-- e) si assume le spese di trattamenti ambulatoriali ordinati dal tribunale o dall'autorità, qualora non se ne facciano carico terzi o il comune nel quale la persona interessata aveva l'ultimo domicilio o l'ultima dimora.
+- e) deve partecipare in misura adeguata alle spese di trattamenti ambulatoriali disposti, qualora non se ne facciano carico terzi;
+- f) negli altri casi deve partecipare in misura adeguata alle spese d'esecuzione, nei limiti delle proprie possibilità finanziarie.
 
-### 2.3. Forme di esecuzione particolari
+<sup>3</sup> Per forme d'esecuzione particolari e altre spese particolari sostenute nell'interesse del condannato o del collocato, può essere richiesto un adeguato anticipo o possono essere concordati pagamenti rateali.
+
+### 2.3.
 
 #### Art. 9
 
-**Forme di esecuzione particolari**
-
-<sup>1</sup> Forme di esecuzioni particolari possono essere svolte nei limiti delle autorizzazioni rilasciate dalla Confederazione.
+**…**
 
 ### 2.4. Esecuzione di sanzioni di diritto penale minorile
 
@@ -139,13 +156,15 @@ decide:
 
 **Minori**
 
-<sup>1</sup> Per l'esecuzione delle pene e delle misure protettive nei confronti di minori ai sensi dell'articolo 41 capoverso 1 PPMin[^10-1] è competente la Procura dei minorenni.
+<sup>1</sup> Per l'esecuzione delle pene e delle misure protettive nei confronti di minori ai sensi dell'articolo 42 capoverso 1 PPMin[^10-1] è competente la Procura dei minorenni.
 
-<sup>2</sup> Su incarico della Procura dei minorenni, l'Ufficio per l'esecuzione giudiziaria esegue tutte le misure protettive e le pene nei confronti di minori.
+<sup>2</sup> Su incarico della Procura dei minorenni, l'Ufficio esegue tutte le misure protettive e le pene pronunciate nei confronti di minori. Tra queste rientrano anche le misure protettive provvisionali disposte durante il procedimento penale in corso, la sorveglianza elettronica per far rispettare l'interdizione di esercitare un'attività, di avere contatti e di accedere ad aree determinate, l'impiego della sorveglianza elettronica quale misura sostitutiva e quale garanzia della liberazione condizionale.
 
 <sup>3</sup> Per la collaborazione nell'esecuzione di pene e misure protettive, la Procura dei minorenni può ricorrere anche ai servizi sociali del Cantone o dei comuni.
 
 <sup>4</sup> Le multe spettano alla Cassa di Stato. La riscossione delle multe e delle spese addebitate è compito del Cantone.
+
+<sup>5</sup> Le spese dell'esecuzione delle pene e delle misure protettive nei confronti di minori sono a carico del Cantone, per quanto non siano i genitori, i minori, un altro Cantone o terzi ad assumersi le spese.
 
 [^10-1]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
 
@@ -153,9 +172,9 @@ decide:
 
 **Disposizioni generali**
 
-<sup>1</sup> Per il resto si applica per analogia l'articolo 43 DPMin[^11-1] e le disposizioni di questa legge sull'esecuzione delle pene e delle misure.
+<sup>1</sup> Per il resto si applicano per analogia l'articolo 42 e l'articolo 45 PPMin[^11-1] e le disposizioni della presente legge concernenti l'esecuzione delle pene e delle misure.
 
-[^11-1]: RS [311.1](https://db.clex.ch/link/Bund/311.1/it)
+[^11-1]: RS [312.1](https://db.clex.ch/link/Bund/312.1/it)
 
 ## 3. Istituzioni d'esecuzione
 
@@ -169,19 +188,101 @@ decide:
 
 #### Art. 13
 
-**Penitenziari e altre istituzioni**
+**Compiti**
 
-<sup>1</sup> I penitenziari cantonali, nonché le altre istituzioni servono all'esecuzione:
+<sup>1</sup> Le istituzioni d'esecuzione gestite nel Cantone servono all'esecuzione:
 
 - a) di pene e misure privative della libertà;
 - b) della carcerazione preventiva, di sicurezza e in vista d'estradizione;
-- c) di pene detentive in regime di semiprigionia, sotto forma di esecuzione per giorni e di lavoro in esternato;
-- d) di misure coercitive nel diritto degli stranieri;
+- c) di pene detentive sotto forma di semiprigionia e di lavoro in esternato;
+- d) di provvedimenti coercitivi privativi della libertà in materia di diritto degli stranieri;
 - e) di misure protettive applicate e pene inflitte a minori;
 - f) di pene e misure che per motivi di sicurezza, disciplinari o di spazio non possono temporaneamente essere eseguite altrove;
 - g) della carcerazione di persone che vengono trasferite;
 - h) del fermo di polizia;
-- i) del ricovero a scopo di assistenza.
+- i) del ricovero a scopo di assistenza;
+- j) dell'arresto da scontare fuori del servizio conformemente al Codice penale militare[^13-1].
+
+[^13-1]: RS [321.0](https://db.clex.ch/link/Bund/321.0/it)
+
+#### Art. 13a
+
+**Penitenziari**
+
+<sup>1</sup> Il Cantone gestisce penitenziari cantonali.
+
+<sup>2</sup> Questi servono principalmente all'esecuzione di pene detentive e di provvedimenti privativi della libertà.
+
+#### Art. 13b
+
+**Servizi psichiatrici dei Grigioni 1. Mandato di prestazioni**
+
+<sup>1</sup> I Servizi psichiatrici dei Grigioni gestiscono un'istituzione d'esecuzione di misure terapeutiche.
+
+<sup>2</sup> Per la gestione dell'istituzione d'esecuzione di misure terapeutiche i Servizi psichiatrici dei Grigioni hanno a disposizione misure di sicurezza, coercitive e disciplinari secondo la presente legge.
+
+#### Art. 13c
+
+**2. Vigilanza**
+
+<sup>1</sup> Nell'ambito dell'esecuzione delle misure i Servizi psichiatrici dei Grigioni sono soggetti alla vigilanza del Dipartimento.
+
+<sup>2</sup> Nella misura in cui è necessario per l'assunzione di questo compito, salvaguardando le disposizioni in materia di protezione dei dati, essi devono fornire informazioni al Dipartimento e concedergli l'accesso ai propri locali e strutture nonché a registrazioni.
+
+<sup>3</sup> Per adempiere al compito di vigilanza il Dipartimento può coinvolgere specialisti. È autorizzato a impartire gli ordini necessari per ristabilire la regolare attività dell'istituzione d'esecuzione di misure terapeutiche.
+
+<sup>4</sup> Il Dipartimento approva il regolamento interno dell'istituzione d'esecuzione di misure terapeutiche.
+
+#### Art. 13d
+
+**Istituzioni private 1. Ammissione**
+
+<sup>1</sup> Istituzioni private sono autorizzate a occuparsi dell'esecuzione di pene sotto forma di semiprigionia e di lavoro in esternato nonché di misure secondo l'articolo 59 - articolo 61 e l'articolo 63 CP[^13d-1] se esse:
+
+- a) rispettano i principi in materia d'esecuzione penale;
+- b) si impegnano a rispettare le direttive e i promemoria della Commissione della Svizzera Orientale per l'esecuzione delle pene;
+- c) dispongono di un'autorizzazione per la gestione di un'istituzione secondo la legislazione sanitaria, sui disabili o sulla scuola.
+
+<sup>2</sup> Alle istituzioni private vengono conferite le competenze di cui necessitano per adempiere il compito legato all'esecuzione assunto. Il diritto di disporre alimentazioni forzate e trattamenti coatti può essere conferito solo a ospedali e cliniche con offerta stazionaria. Le istituzioni private non possono decidere in merito al trasferimento.
+
+[^13d-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
+
+#### Art. 13e
+
+**2. Procedura di autorizzazione**
+
+<sup>1</sup> Il Dipartimento rilascia l'autorizzazione e conferisce le competenze necessarie per l'assunzione del compito legato all'esecuzione per una durata di quattro anni.
+
+<sup>2</sup> L'autorizzazione è revocata se le condizioni d'autorizzazione non sono più soddisfatte o se a posteriori vengono accertati fatti a seguito dei quali avrebbe dovuto essere rifiutata.
+
+#### Art. 13f
+
+**3. Vigilanza**
+
+<sup>1</sup> Nell'ambito dell'esecuzione delle pene e delle misure le istituzioni private sono soggette alla vigilanza del Dipartimento.
+
+<sup>2</sup> Nella misura in cui è necessario per l'assunzione di questo compito, salvaguardando le disposizioni in materia di protezione dei dati, essi devono fornire informazioni al Dipartimento e concedergli l'accesso ai propri locali e strutture nonché a registrazioni.
+
+<sup>3</sup> Per adempiere al compito di vigilanza il Dipartimento può coinvolgere specialisti. È autorizzato a impartire gli ordini necessari per ristabilire la regolare attività delle istituzioni private.
+
+<sup>4</sup> Il Dipartimento approva il regolamento interno delle istituzioni private.
+
+#### Art. 13g
+
+**Prescrizioni relative alla separazione**
+
+<sup>1</sup> Nelle istituzioni d'esecuzione gestite nel Cantone devono essere collocati separatamente:
+
+- a) i collocati che si trovano in regime di carcerazione preventiva e di sicurezza e i collocati che si trovano in regime di esecuzione delle pene e delle misure;
+- b) i collocati oggetto di provvedimenti coercitivi privativi della libertà di diritto degli stranieri e altri collocati;
+- c) i collocati posti in arresto da scontare fuori del servizio conformemente al Codice penale militare[^13g-1] e altri collocati;
+- d) i collocati che stanno scontando pene di diritto civile e di diritto penale, eccetto negli istituti per adolescenti;
+- e) i collocati minorenni e adulti;
+- f) le donne e gli uomini che stanno scontando una pena. Per quanto possibile si tiene conto dell'identità di genere delle persone collocate.
+
+<sup>2</sup> In via eccezionale, con il consenso dell'autorità collocante, i penitenziari, le istituzioni d'esecuzione di misure terapeutiche e le istituzioni private dell'esecuzione delle pene e delle misure possono scostarsi dalle prescrizioni relative alla separazione, in presenza di interessi preponderanti degli interessati e se non vi si oppongono disposizioni particolari.
+
+[^13g-1]: RS [321.0](https://db.clex.ch/link/Bund/321.0/it)
 
 ## 4. Esecuzione di sanzioni penali
 
@@ -205,7 +306,7 @@ decide:
 
 <sup>2</sup> I collocati sono tenuti a sottoporsi a una perizia psichiatrica, se l'autorità di collocamento e d'esecuzione lo ritiene necessario per la pianificazione dell'esecuzione.
 
-<sup>3</sup> I collocati devono rispettare le prescrizioni concernenti l'esecuzione e devono dare seguito alle disposizioni della direzione e del personale dell'istituzione d'esecuzione, nonché della competente autorità di collocamento e d'esecuzione. Essi si astengono da qualsiasi azione che comprometta lo svolgimento ordinato dell'esecuzione, il raggiungimento degli obiettivi dell'esecuzione, nonché il mantenimento della sicurezza e dell'ordine.
+<sup>3</sup> I collocati devono rispettare le prescrizioni concernenti l'esecuzione e devono dare seguito alle disposizioni dell'istituzione d'esecuzione, nonché dell'autorità collocante. Essi si astengono da qualsiasi azione che comprometta lo svolgimento ordinato dell'esecuzione, il raggiungimento degli obiettivi dell'esecuzione, nonché il mantenimento della sicurezza e dell'ordine.
 
 ### 4.2. Collocamento, trasferimento e interruzione
 
@@ -217,46 +318,42 @@ decide:
 
 #### Art. 17
 
-**Idoneità alla carcerazione**
+**Differimento**
 
 <sup>1</sup> In caso di inidoneità alla carcerazione l'esecuzione viene sospesa.
 
-<sup>2</sup> In merito all'idoneità decide l'Ufficio. L'inidoneità alla carcerazione può essere attestata soltanto tramite un certificato medico. Se questo manca rispettivamente se sussistono dubbi sull'idoneità alla carcerazione, essa sarà verificata dal medico o dallo psichiatra dell'istituzione d'esecuzione.
+<sup>2</sup> In merito all'idoneità alla carcerazione decide l'autorità collocante.
 
-<sup>3</sup> L'Ufficio può in ogni caso disporre una visita speciale. La stessa competenza spetta alla procura pubblica per quanto riguarda le persone in carcere preventivo.
+<sup>3</sup> Essa deve richiedere una valutazione effettuata da un medico, qualora non vi siano a disposizione documenti medici sufficienti.
 
-<sup>4</sup> All'Ufficio spetta la competenza di disporre misure provvisionali necessarie per motivi di sicurezza pubblica. In caso di necessità, esso informa la competente autorità di protezione dei minori e degli adulti. Entrambi decidono di comune accordo le misure necessarie.
+<sup>4</sup> All'autorità collocante spetta la competenza di disporre misure provvisionali necessarie per motivi di sicurezza pubblica. In caso di necessità, essa informa l'autorità di protezione dei minori e degli adulti. Entrambe decidono di comune accordo le misure necessarie.
 
 #### Art. 18
 
 **Trasferimento**
 
-<sup>1</sup> L'Ufficio può trasferire i collocati in un'altra istituzione d'esecuzione per la continuazione dell'esecuzione se
+<sup>1</sup> L'autorità collocante può trasferire i collocati in un'altra istituzione d'esecuzione per la continuazione dell'esecuzione se:
 
 - a) il loro stato, il loro comportamento o la sicurezza lo rendono necessario;
 - b) lo richiede il loro trattamento;
 - c) in questo modo migliorano le loro possibilità di inserimento;
 - d) vi sono problemi di occupazione.
 
-<sup>2</sup> Il trasferimento in una clinica psichiatrica o in un ospedale può anche avvenire su ordine medico. La direzione dell'istituzione d'esecuzione è autorizzata a disporre il trasferimento in casi urgenti. L'Ufficio viene informato senza indugio del trasferimento.
+<sup>2</sup> In casi urgenti le istituzioni d'esecuzione possono trasferire i collocati in un'altra istituzione d'esecuzione per la continuazione dell'esecuzione per i motivi di cui al capoverso 1 lettera a o lettera b. L'istituzione d'esecuzione informa senza indugio l'autorità collocante in merito al trasferimento.
+
+<sup>3</sup> L'autorità collocante decide entro 30 giorni in merito al mantenimento, alla modifica o alla soppressione del trasferimento ordinato dall'istituzione d'esecuzione.
 
 #### Art. 19
 
-**Interruzione della pena**
+**Interruzione di pene e misure**
 
-<sup>1</sup> L'autorizzazione dell'interruzione della pena secondo l'articolo 92 CP[^19-1] può essere legata a condizioni sul comportamento, sull'occupazione, sul luogo di dimora, sull'obbligo di notifica, nonché alla disposizione di una sorveglianza o assistenza.
+<sup>1</sup> L'autorità collocante può vincolare l'autorizzazione dell'interruzione di pene e misure secondo l'articolo 92 CP[^19-1] a condizioni sul comportamento, sull'occupazione, sul luogo di dimora, sull'obbligo di notifica, nonché alla disposizione di una sorveglianza o di un'assistenza.
 
 [^19-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
 
 #### Art. 20
 
-**Misure di sicurezza**
-
-<sup>1</sup> Se una misura stazionaria deve essere annullata o modificata, il collocato sarà trasferito in un'istituzione d'esecuzione adatta fino a quando il tribunale non avrà deciso se e in che misura la pena sospesa vada ancora eseguita oppure se debba essere disposta un'altra misura.
-
-<sup>2</sup> Nei casi di cui all'articolo 95 capoverso 5 CP[^20-1], l'Ufficio dispone il carcere di sicurezza, se vi è il serio pericolo che la persona scarcerata commetta reati contro la vita e l'integrità della persona. Il giudice cantonale dei provvedimenti coercitivi decide in merito alla durata della carcerazione di sicurezza entro 48 ore dalla disposizione.
-
-[^20-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
+**…**
 
 ### 4.3. Sicurezza e ordine
 
@@ -274,7 +371,7 @@ decide:
 
 <sup>1</sup> Per garantire l'esecuzione, quale misura di identificazione è permesso in particolare:
 
-- a) scattare fotografie;
+- a) riprendere immagini;
 - b) effettuare misurazioni e determinare segni fisici particolari;
 - c) rilevare impronte digitali;
 - d) prelevare un campione di saliva o uno striscio della mucosa orale.
@@ -287,7 +384,7 @@ decide:
 
 **Controlli, perquisizioni**
 
-<sup>1</sup> La direzione dell'istituzione d'esecuzione può ordinare la perquisizione dei collocati, dei loro effetti personali e della loro cella, nonché disporre prove delle urine, prove dell'alito, prelievi di sangue, prelievi di un campione di capelli o il controllo esterno di aperture del corpo (esame corporale superficiale).
+<sup>1</sup> L'istituzione d'esecuzione può ordinare la perquisizione dei collocati, dei loro effetti personali e della loro cella, nonché disporre prove delle urine, prove dell'alito, prelievi di sangue, prelievi di un campione di capelli o il controllo esterno di aperture del corpo (esame corporale superficiale).
 
 <sup>2</sup> I collocati sospettati di nascondere nel oppure sul loro corpo o in un'apertura del loro corpo degli oggetti non autorizzati possono essere perquisiti corporalmente (esame corporale intimo).
 
@@ -295,11 +392,36 @@ decide:
 
 <sup>4</sup> Gli esami corporali intimi devono essere affidati a un medico.
 
+#### Art. 23a
+
+**Sorveglianza riconoscibile con acquisizione di immagini**
+
+<sup>1</sup> Tramite apparecchi riconoscibili di trasmissione e di registrazione di immagini allo scopo di identificare persone, per motivi di protezione della sicurezza e dell'ordine è permesso sorvegliare le seguenti aree:
+
+- a) l'abitacolo di veicoli che servono al trasporto di collocati da e verso le istituzioni d'esecuzione; e
+- b) l'interno di istituzioni d'esecuzione.
+
+<sup>2</sup> L'area esterna delle istituzioni d'esecuzione può essere sorvegliata con dispositivi riconoscibili di acquisizione di immagini allo scopo di identificare persone, se sussiste una minaccia concreta alla sicurezza e all'ordine. La decisione generale emanata a questo scopo dall'Ufficio su richiesta dell'istituzione d'esecuzione ha validità illimitata.
+
+<sup>3</sup> Le immagini registrate devono essere eliminate dopo l'analisi, al più tardi 90 giorni dopo la registrazione, nella misura in cui non siano necessarie nel quadro di un procedimento d'esecuzione penale, di un procedimento penale o per la difesa da pericoli.
+
+#### Art. 23b
+
+**Controlli di accesso e di uscita**
+
+<sup>1</sup> Per i controlli di accesso e di uscita le istituzioni d'esecuzione possono impiegare procedimenti biometrici al fine di verificare l'identità delle persone.
+
+<sup>2</sup> Per le persone la cui identità non può essere verificata mediante i procedimenti biometrici impiegati, esistono controlli di accesso e di uscita alternativi. Alle altre persone l'accesso alle istituzioni d'esecuzione viene negato se esse non si sottopongono al procedimento biometrico per i controlli di accesso e di uscita.
+
+<sup>3</sup> I dati biometrici rilevati possono essere utilizzati esclusivamente per i controlli di accesso e di uscita.
+
+<sup>4</sup> Devono essere eliminati su richiesta dell'interessato e al più tardi entro 90 giorni da quando è venuta meno la ragione per l'elaborazione dei dati, a meno che l'interessato acconsenta espressamente a un'elaborazione dei dati più lunga.
+
 #### Art. 24
 
 **Speciali misure di sicurezza**
 
-<sup>1</sup> La direzione dell'istituzione d'esecuzione può disporre speciali misure di sicurezza contro un collocato, se a causa del suo comportamento oppure per via del suo stato psichico sussiste un elevato pericolo di fuga, di minaccia contro se stesso o contro terzi o il pericolo di danneggiamenti.
+<sup>1</sup> L'istituzione d'esecuzione può disporre speciali misure di sicurezza contro un collocato, se a causa del suo comportamento oppure per via del suo stato psichico sussiste un elevato pericolo di fuga, di minaccia contro se stesso o contro terzi o il pericolo di danneggiamenti.
 
 <sup>2</sup> Le speciali misure di sicurezza consentono di:
 
@@ -310,84 +432,83 @@ decide:
 - e) collocarlo in un locale particolarmente sicuro e privo di oggetti pericolosi;
 - f) ammanettarlo.
 
-<sup>3</sup> Le misure di cui al capoverso 1 lettere a, c ed e sono consentite anche se il pericolo di fuga o un notevole turbamento dell'ordine dell'istituzione d'esecuzione non possono essere evitati in altro modo.
+<sup>3</sup> Le misure di cui al capoverso 2 lettere a, c ed e sono consentite anche se il pericolo di fuga o un notevole turbamento dell'ordine dell'istituzione d'esecuzione non possono essere evitati in altro modo.
 
-<sup>4</sup> È consentito ammanettare un collocato su ordine della direzione dell'istituzione d'esecuzione per farlo uscire, accompagnarlo o trasportarlo, anche se l'elevato pericolo di fuga sussiste per motivi diversi da quelli del capoverso 1.
+<sup>4</sup> È consentito ammanettare un collocato su ordine dell'istituzione d'esecuzione per farlo uscire, accompagnarlo o trasportarlo, anche se l'elevato pericolo di fuga sussiste per motivi diversi da quelli di cui al capoverso 1.
 
 <sup>5</sup> Le speciali misure di sicurezza possono essere mantenute soltanto fino a quando il loro scopo lo richiede e tanto a lungo quanto necessario.
 
 #### Art. 25
 
-**Arresti**
+**Segnalazione, accompagnamento e arresto**
 
-<sup>1</sup> Se un collocato è fuggito oppure si trattiene fuori dell'istituzione d'esecuzione senza essere autorizzato, si ordina immediatamente che venga arrestato e ricondotto. L'autorità di collocamento deve esserne informata. Il personale dell'istituzione d'esecuzione può arrestarlo oppure ricondurlo nello stabilimento.
+<sup>1</sup> Se un collocato è fuggito oppure si trattiene fuori dell'istituzione d'esecuzione senza autorizzazione, l'istituzione d'esecuzione può chiedere alla Polizia cantonale che lo segnali o lo accompagni per scoprire il luogo in cui si trattiene o per arrestarlo.
 
-### 4.4. Coercizione diretta
+<sup>2</sup> Nei casi menzionati nel capoverso 1 il personale stesso dell'istituzione d'esecuzione può arrestare i collocati e ricondurli al penitenziario.
+
+<sup>3</sup> L'autorità collocante deve essere informata senza indugio.
+
+### 4.4. Misure coercitive
 
 #### Art. 26
 
-**Principio**
+**Coercizione diretta**
 
-<sup>1</sup> L'applicazione della coercizione diretta è possibile nei confronti di collocati renitenti o violenti, al fine di evitare la loro fuga o per il loro nuovo arresto.
+<sup>1</sup> L'applicazione della coercizione diretta e l'utilizzo di ausili idonei sono possibili nei confronti di collocati renitenti o violenti, al fine di evitare la loro fuga o per il loro nuovo arresto.
 
-<sup>2</sup> Contro altre persone che si trovano illegalmente nell'area dell'istituzione d'esecuzione, che cercano di penetrarvi o di liberare dei collocati, l'applicazione della coercizione diretta è permessa se lo scopo prefissato non può essere raggiunto in alcun altro modo.
+<sup>2</sup> Contro altre persone che si trovano illegalmente nell'area dell'istituzione d'esecuzione, che cercano di penetrarvi o di liberare dei collocati, l'applicazione della coercizione diretta e l'utilizzo di ausili idonei sono permessi se lo scopo prefissato non può essere raggiunto in alcun altro modo.
 
 #### Art. 27
 
 **Alimentazione forzata**
 
-<sup>1</sup> Nel caso di uno sciopero della fame, la direzione dell'istituzione d'esecuzione può ordinare un'alimentazione forzata, che deve essere effettuata sotto direzione e partecipazione medica, qualora sussista un pericolo di vita o un grave pericolo per la persona interessata.
+<sup>1</sup> Nel caso di uno sciopero della fame, l'istituzione d'esecuzione può ordinare un'alimentazione forzata, che deve essere effettuata sotto direzione e partecipazione medica, qualora sussista un pericolo di vita o un grave pericolo per l'interessato. Tale decisione può essere impugnata mediante ricorso amministrativo presso l'Ufficio.
 
 <sup>2</sup> Fintanto che è data una libera volontà della persona interessata, l'istituzione d'esecuzione non interviene.
 
+<sup>3</sup> L'istituzione d'esecuzione informa l'interessato in merito alla misura coercitiva prevista e gli concede la possibilità di essere sentito, se non vi è pericolo nel ritardo. Essa ordina il patrocinio da parte di una persona iscritta nel registro cantonale degli avvocati o che gode della libera circolazione secondo la legge federale sulla libera circolazione degli avvocati[^27-1].
+
+[^27-1]: RS [935.61](https://db.clex.ch/link/Bund/935.61/it)
+
 #### Art. 28
 
-**Medicazione forzata 1. Campo d'applicazione, principio**
-
-<sup>1</sup> Le seguenti disposizioni relative alla medicazione forzata si applicano a collocati in un'istituzione d'esecuzione grigionese se:
-
-- a) deve essere eseguita una sanzione penale, in particolare una misura ordinata dal giudice e se
-- b) è conciliabile con lo scopo concreto della sanzione.
-
-<sup>2</sup> Una medicazione forzata ai sensi della presente legge è una misura che può essere attuata anche senza l'autorizzazione della persona interessata con l'obiettivo di mantenere o migliorare il suo stato di salute, oppure di proteggere terzi.
-
-<sup>3</sup> I diritti e i doveri generali dei collocati si applicano anche in caso di ordine di medicazione forzata, per quanto di seguito non venga disciplinato nulla di diverso.
+**…**
 
 #### Art. 29
 
-**2. Presupposti**
+**Trattamento coatto 1. Trattamento coatto con indicazione medica**
 
-<sup>1</sup> Le medicazioni forzate sono autorizzate soltanto se hanno fallito o non sono disponibili misure volontarie e se:
+<sup>1</sup> La disposizione e il procedimento di prima istanza in caso di trattamento coatto con indicazione medica si conformano alle disposizioni del Codice civile svizzero[^29-1], le quali disciplinano il trattamento medico coatto e le misure coercitive restrittive della libertà di movimento nel quadro del ricovero a scopo di assistenza.
 
-- a) il comportamento della persona interessata mette in serio pericolo la propria sicurezza o salute;
-- b) deve essere evitato un pericolo imminente per l'integrità o la vita di terzi;
-- c) deve essere rimosso un grave disturbo della convivenza in caso di forti anomalie sociali o di un notevole potenziale distruttivo della persona interessata.
+- a) …
+- b) …
+- c) …
+
+<sup>2</sup> Le decisioni riguardo a trattamenti coatti con indicazione medica possono essere impugnate dall'interessato con ricorso amministrativo presso l'Ufficio entro dieci giorni dalla comunicazione.
+
+[^29-1]: RS [210](https://db.clex.ch/link/Bund/210/it)
 
 #### Art. 30
 
-**3. Disposizioni generali**
+**2. Medicazione coatta indicata a seguito di una misura**
 
-<sup>1</sup> Sull'ordine, lo svolgimento e la conclusione di una medicazione forzata decide esclusivamente la direzione dopo avere sentito il competente medico dell'istituzione d'esecuzione.
+<sup>1</sup> Durante l'esecuzione di una misura terapeutica l'autorità collocante può disporre una medicazione coatta se ciò è indispensabile per attuare la misura in modo promettente dal punto di vista della psichiatria forense.
 
-<sup>2</sup> Si devono adottare tutti i provvedimenti necessari per evitare una medicazione forzata. Alla persona interessata deve essere concessa libertà di decisione fino a quando ciò sia conciliabile con la sua sicurezza e la sicurezza pubblica.
+<sup>2</sup> La medicazione coatta indicata a seguito di una misura è ammissibile solo se è raccomandata e controllata da un medico specialista in psichiatria.
 
-<sup>3</sup> Deve essere scelta in ogni caso la misura coercitiva più lieve. Essa può durare solo fino a quando sono dati i presupposti che la giustificano.
+<sup>3</sup> L'autorità collocante informa l'interessato in merito alla prevista medicazione coatta indicata a seguito di una misura e gli dà la possibilità di esprimersi al riguardo. Essa ordina il patrocinio da parte di una persona iscritta nel registro cantonale degli avvocati o che gode della libera circolazione secondo la legge federale sulla libera circolazione degli avvocati[^30-1].
+
+<sup>4</sup> L'autorità collocante deve verificare a intervalli regolari se continuano a sussistere i presupposti per una medicazione coatta indicata a seguito di una misura.
+
+[^30-1]: RS [935.61](https://db.clex.ch/link/Bund/935.61/it)
 
 #### Art. 31
 
-**4. Informazione**
-
-<sup>1</sup> Qualora non esista un pericolo imminente, prima di una decisione a favore di una medicazione forzata la persona interessata deve essere informata sulla misura ordinata e sul diritto di ricorso. Su richiesta della persona interessata, vanno informati immediatamente nella forma adeguata i familiari o una persona vicina designata.
-
-<sup>2</sup> La decisione deve essere comunicata immediatamente per iscritto con motivazione e indicazione dei rimedi giuridici, anche in caso di previa comunicazione orale.
-
-<sup>3</sup> L'istituzione d'esecuzione deve informare immediatamente l'autorità collocante, nonché il medico cantonale sull'ordine di medicazione forzata.
+**…**
 
 #### Art. 32
 
-**5. Ricorso**
-
-<sup>1</sup> Contro l'ordine di medicazione forzata, la persona interessata dalla stessa, i familiari o la persona vicina possono presentare ricorso scritto all'Ufficio competente entro dieci giorni dalla comunicazione scritta.
+**…**
 
 ### 4.5. Salute e assistenza
 
@@ -403,11 +524,11 @@ decide:
 
 **Spese di trattamento**
 
-<sup>1</sup> Qualora le spese per trattamenti medici non siano coperte dalle spese di esecuzione, dalle casse malati o dalle assicurazioni, esse sono a carico del Cantone collocante.
+<sup>1</sup> Qualora le spese per trattamenti non siano coperte dalle spese d'esecuzione, dalle assicurazioni malattia, da altre assicurazioni o dalla partecipazione alle spese del collocato esse sono a carico del Cantone collocante.
 
 <sup>2</sup> Le spese per la permanenza in ospedale o il trattamento in relazione a malattie o infortuni, che esistevano, rispettivamente sono stati subiti già prima del collocamento nell'istituzione d'esecuzione, devono essere assunte dalla persona collocata o dal Cantone collocante. Lo stesso vale, salvo in casi d'emergenza, per ferite o malattie causate intenzionalmente nell'istituzione d'esecuzione.
 
-<sup>3</sup> Prima di ogni trattamento non urgente, con l'ufficio collocante è necessario stabilire chi si assumerà le spese. Se la copertura delle spese non è garantita, il collocato deve lasciare un deposito.
+<sup>3</sup> Prima di ogni trattamento non urgente, con l'ufficio collocante è necessario stabilire chi si assumerà le spese. Se la copertura delle spese non è garantita, il collocato deve versare un anticipo o dei pagamenti rateali.
 
 <sup>4</sup> Le spese per il trattamento di ferite o malattie che il collocato subisce durante la permanenza non autorizzata al di fuori dell'istituzione d'esecuzione devono essere assunte dal collocato stesso.
 
@@ -423,7 +544,15 @@ decide:
 
 **Contatti con l'esterno**
 
-<sup>1</sup> In caso di indizi di abuso o in caso di abuso effettivo è possibile limitare o sorvegliare anche gli invii postali, le telefonate oppure le visite di avvocati, assistenti spirituali e medici.
+<sup>1</sup> Nella misura in cui ciò sia compatibile con la gestione dell'istituzione d'esecuzione, i collocati hanno diritto di ricevere visite, di telefonare nonché di inviare lettere e pacchi a proprie spese come pure di riceverli.
+
+<sup>2</sup> I contatti con le autorità di vigilanza non sono sottoposti a restrizioni. I contatti con il difensore possono essere limitati o vietati alle condizioni menzionate nell'articolo 84 capoverso 4 CP[^36-1].
+
+<sup>3</sup> I contatti con altre persone possono essere limitati o vietati ai fini della tutela della sicurezza e dell'ordine. Simili disposizioni possono essere pronunciate nei confronti di avvocati e di assistenti spirituali nonché di medici solo in caso di sospetto di abuso o in caso vi sia un pericolo per la sicurezza e l'ordine.
+
+<sup>4</sup> Le persone interessate devono essere informate in merito alle misure di sicurezza. La documentazione ottenuta mediante misure di sicurezza deve essere distrutta o eliminata dopo l'analisi, al più tardi 90 giorni dopo l'acquisizione, nella misura in cui non sia necessaria nel quadro di un procedimento d'esecuzione penale, di un procedimento penale o per la difesa da pericoli.
+
+[^36-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
 
 ### 4.7. Regime disciplinare
 
@@ -431,7 +560,7 @@ decide:
 
 **Infrazioni disciplinari**
 
-<sup>1</sup> Infrazioni contro la presente legge, l'ordinanza sull'esecuzione giudiziaria, il regolamento interno e altre regolamentazioni delle istituzioni d'esecuzione, nonché contravvenzioni contro il piano d'esecuzione sono punite quali infrazioni disciplinari.
+<sup>1</sup> Infrazioni contro la presente legge, le relative ordinanze, il regolamento interno e altre regolamentazioni delle istituzioni d'esecuzione, nonché contravvenzioni contro il piano d'esecuzione sono punite quali infrazioni disciplinari.
 
 <sup>2</sup> In casi di lieve entità è possibile rinunciare a sanzioni disciplinari, se l'infrazione disciplinare può essere liquidata in altro modo.
 
@@ -459,15 +588,15 @@ decide:
 - b) limitazione o revoca del diritto di disporre di mezzi finanziari fino a tre mesi;
 - c) esclusione dalla partecipazione alle attività in comune e del tempo libero, manifestazioni e corsi fino a tre mesi, in caso di recidiva fino a sei mesi;
 - d) limitazione o privazione di media scritti ed elettronici, nonché del possesso di apparecchi per la riproduzione audio e video fino a due mesi, in caso di recidiva fino a sei mesi;
-- e) limitazione o revoca del diritto di visita e di corrispondenza fino a tre mesi;
+- e) limitazione o revoca del diritto di visita e di corrispondenza fino a tre mesi. Sono fatti salvi i contatti con le autorità di vigilanza, i difensori, gli avvocati, gli assistenti spirituali nonché i medici;
 - f) sospensione delle uscite e dei congedi fino a sei mesi;
 - g) multa fino a 200 franchi;
 - h) isolamento in cella o in camera fino a 14 giorni;
-- i) arresto fino a 20 giorni.
+- i) arresto fino a 14 giorni.
 
 <sup>2</sup> Si possono unire fra loro diverse sanzioni disciplinari. Non è permesso disporre contemporaneamente l'arresto e la multa, nonché l'isolamento in cella o in camera e l'arresto.
 
-<sup>3</sup> Le limitazioni o il blocco dei contatti con l'esterno, la revoca del diritto di visita, nonché la sospensione delle uscite e dei congedi possono essere disposti soltanto se l'infrazione disciplinare è legata all'esercizio di questi diritti. Sono in ogni caso fatti salvi i contatti con le autorità, i rappresentanti legali e gli assistenti spirituali.
+<sup>3</sup> …
 
 <sup>4</sup> L'arresto è consentito soltanto in caso di infrazioni disciplinari gravi o ripetute.
 
@@ -491,29 +620,31 @@ decide:
 
 #### Art. 41
 
-**Trasferimento cautelativo**
-
-<sup>1</sup> In caso di infrazioni disciplinari gravi o ripetute, insieme alla decisione disciplinare può essere disposto un trasferimento cautelativo fino alla decisione dell'autorità collocante, segnatamente:
-
-- a) dall'esecuzione in regime aperto all'esecuzione in regime chiuso;
-- b) dalla semiprigionia o dal lavoro in esternato all'esecuzione in regime aperto o chiuso;
-- c) dall'alloggio in esternato al lavoro in esternato o all'esecuzione in regime aperto o chiuso.
+**…**
 
 #### Art. 42
 
 **Competenza per decisioni disciplinari**
 
-<sup>1</sup> Le sanzioni disciplinari vengono disposte dalla direzione o dall'amministstrazione dell'istituzione d'esecuzione.
+<sup>1</sup> Le sanzioni disciplinari vengono disposte dall'istituzione d'esecuzione.
 
-<sup>2</sup> Se l'infrazione è indirizzata contro il direttore decide l'Ufficio competente.
+<sup>2</sup> Se l'oggetto dell'infrazione è il direttore di un penitenziario decide l'Ufficio. La procedura si conforma all'articolo 46.
 
-<sup>3</sup> Le sanzioni disciplinari devono di regola essere eseguite nell'istituzione d'esecuzione la cui direzione le ha disposte.
+<sup>3</sup> Le sanzioni disciplinari devono di regola essere eseguite nell'istituzione d'esecuzione che le ha disposte.
 
 <sup>4</sup> Le sanzioni disciplinari disposte a carico di un collocato di un'altra istituzione d'esecuzione o durante la carcerazione vengono eseguite a seconda delle possibilità e su richiesta.
 
+#### Art. 42a
+
+**Prescrizione**
+
+<sup>1</sup> Le infrazioni disciplinari cadono in prescrizione dopo sei mesi dal momento in cui sono state commesse. Se una persona evade dall'istituzione d'esecuzione, il termine di prescrizione ammonta a un anno dall'evasione.
+
+<sup>2</sup> L'esecuzione di una sanzione disciplinare cade in prescrizione sei mesi dopo il passaggio in giudicato della disposizione.
+
 #### Art. 43
 
-**Diritto applicabile**
+**Regolamentazione complementare**
 
 <sup>1</sup> Per valutare infrazioni disciplinari si applicano per analogia le disposizioni della parte generale del Codice penale[^43-1].
 
@@ -521,56 +652,113 @@ decide:
 
 [^43-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
 
-## 5. Comunicazione di dati personali
+## 5. Trattamento di dati personali
+
+#### Art. 43a
+
+**Trattamento dei dati da parte delle autorità d'esecuzione**
+
+<sup>1</sup> Le autorità d'esecuzione sono autorizzate a trattare i dati personali, inclusi dati personali degni di particolare protezione, e a svolgere attività di profilazione, se ciò è necessario per adempiere ai loro compiti ufficiali.
 
 #### Art. 44
 
-**Servizi e interessati**
+**Comunicazione dei dati tra autorità**
 
-<sup>1</sup> Dopo il passaggio in giudicato della condanna di una persona, le autorità d'azione penale e i tribunali inviano, su richiesta, in forma cartacea o elettronica tutti gli atti necessari per l'esecuzione ai Servizi competenti per l'esecuzione della pena.
+<sup>1</sup> Le autorità d'esecuzione possono scambiare dati personali, compresi dati personali degni di particolare protezione, tra di loro e con altre autorità, se ciò è necessario per adempiere ai loro compiti ufficiali.
 
-<sup>2</sup> I collaboratori attivi nell'esecuzione sono autorizzati, nel quadro delle loro attività di servizio, a prendere visione di tutti gli atti dell'istruttoria, del tribunale, d'esecuzione e di terapia esistenti su di una persona, se ciò è adeguato e necessario per l'adempimento concreto dei loro compiti.
+<sup>2</sup> Le autorità d'esecuzione comunicano alla Polizia cantonale se un collocato in relazione al quale esistono particolari problemi di sicurezza:
 
-<sup>3</sup> Ogni persona ha diritto di prendere visione degli atti d'esecuzione che la riguardano. Gli atti d'esecuzione comprendono gli atti fondamentali della procedura istruttoria e giudiziaria, come pure le principali perizie e i principali rapporti, verbali e decisioni necessari per la procedura d'esecuzione. In caso di interessi pubblici preponderanti o interessi preponderanti di terzi la presa in visione degli atti o le informazioni possono essere differite, limitate o rifiutate.
+- a) inizia l'espiazione di una pena o di una misura, viene trasferito o rilasciato;
+- b) beneficia del regime aperto;
+- c) non si è presentato per l'espiazione di una pena o di una misura;
+- d) è evaso nel corso dell'esecuzione della pena o della misura.
+
+<sup>3</sup> Le autorità d'esecuzione sono autorizzate a segnalare alle autorità d'esecuzione penale reati da perseguire d'ufficio, senza che gli autori della denuncia debbano essere preventivamente liberati dal segreto d'ufficio.
+
+#### Art. 44a
+
+**Scambio di dati con specialisti**
+
+<sup>1</sup> L'autorità collocante mette a disposizione degli specialisti ufficiali e privati ai quali sono stati affidati compiti legati all'esecuzione la documentazione necessaria per l'adempimento dei loro compiti ufficiali o previsti dal contratto.
+
+<sup>2</sup> Gli specialisti ufficiali e privati ai quali è stata affidata l'esecuzione di una misura o di una terapia di diritto penale presentano rapporto all'autorità committente, periodicamente o su richiesta, in merito all'andamento dell'esecuzione.
+
+<sup>3</sup> A prescindere da obblighi di segretezza particolari, gli specialisti ufficiali e privati sono tenuti a informare l'autorità collocante e le autorità d'esecuzione in merito a pericoli seri per il collocato, per terzi o per l'istituzione d'esecuzione e in merito a preparativi di fuga.
+
+<sup>4</sup> Negli altri casi informano l'autorità collocante e le autorità d'esecuzione in merito a fatti rilevanti per l'esecuzione, se sono stati autorizzati a farlo o se sono stati liberati dal segreto d'ufficio o professionale.
 
 #### Art. 45
 
-**Terzi**
+**…**
 
-<sup>1</sup> Su domanda scritta, il Servizio competente informa sull'esecuzione della pena e della misura di un condannato, sul suo congedo, trasferimento o liberazione le seguenti persone:
+#### Art. 45a
 
-- a) le vittime di reati del condannato, se questi atti le condizionano notevolmente nella loro integrità fisica, sessuale o psichica;
-- b) altre persone che, rispetto al condannato, possono dimostrare un interesse sovraordinato e tutelabile all'ottenimento dell'informazione.
+**Conservazione, offerta, distruzione o eliminazione di dati personali**
 
-<sup>2</sup> La Polizia cantonale viene informata in ogni caso riguardo a collocati per i quali esistono particolari problemi di sicurezza.
+<sup>1</sup> I dati personali riferiti a condannati o collocati per uno dei reati previsti dall'elencati nell'articolo 64 capoverso 1 CP[^45a-1] devono essere offerti all'Archivio di Stato 30 anni dopo il rilascio o il trasferimento.
+
+<sup>2</sup> I dati personali rimanenti devono essere offerti all'Archivio di Stato dieci anni dopo il rilascio o il trasferimento del condannato o del collocato.
+
+<sup>3</sup> I termini di conservazione conformemente al capoverso 1 e al capoverso 2 possono essere superati, qualora i dati personali siano necessari per i seguenti scopi:
+
+- a) in un procedimento d'esecuzione penale, in un procedimento penale o per la difesa da pericoli;
+- b) per scopi di ricerca, pianificazione e statistica;
+- c) per scopi probatori o di sicurezza oppure per la tutela di interessi degni di protezione dell'interessato;
+- d) per l'accertamento, l'attuazione o la prevenzione di diritti in relazione all'esecuzione della pena.
+
+<sup>4</sup> Se l'Archivio di Stato non valuta i dati personali quali dati di valore archivistico, essi devono essere distrutti o eliminati.
+
+[^45a-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
 
 ## 6. Rimedi giuridici
 
 #### Art. 46
 
-**Ricorso 1. Interno al penitenziario**
+**Procedura di opposizione interna al penitenziario**
 
-<sup>1</sup> In rapporti giuridici particolari può essere deciso oralmente. Gli interessati possono richiedere una decisione scritta.
+<sup>1</sup> …
 
-<sup>2</sup> Il collocato può presentare ricorso scritto entro dieci giorni al direttore o al responsabile della relativa istituzione d'esecuzione contro disposizioni e misure della direzione dell'esecuzione, nonché contro tutti gli ordini e il comportamento del personale del penitenziario.
+<sup>2</sup> Il collocato può presentare opposizione scritta all'istituzione d'esecuzione contro decisioni di istituzioni d'esecuzione cantonali e di altre istituzioni d'esecuzione gestite nel Cantone, entro dieci giorni dalla comunicazione. L'interessato può essere sentito per la prima volta durante la procedura di opposizione.
 
-<sup>3</sup> Il ricorso non ha effetto sospensivo.
+<sup>3</sup> L'opposizione non ha effetto sospensivo.
+
+<sup>4</sup> La procedura di opposizione è gratuita.
 
 #### Art. 47
 
-**2. All'Ufficio e al Dipartimento**
+**Procedura di ricorso interna all'Amministrazione**
 
-<sup>1</sup> Le decisioni e le disposizioni della direzione possono essere impugnate mediante ricorso amministrativo all'Ufficio, entro dieci giorni dalla comunicazione.
+<sup>1</sup> Le decisioni di istituzioni d'esecuzione cantonali nonché di altre istituzioni d'esecuzione gestite nel Cantone e di società di sicurezza coinvolte possono essere impugnate con ricorso amministrativo all'Ufficio entro 30 giorni dalla comunicazione.
 
-<sup>2</sup> L'interessato o la procura pubblica possono impugnare per iscritto entro 30 giorni dinanzi al Dipartimento preposto le disposizioni e le decisioni su ricorso dell'Ufficio competente .
+<sup>2</sup> L'interessato e la Procura pubblica possono impugnare le decisioni dell'Ufficio dinanzi al Dipartimento preposto entro 30 giorni dalla comunicazione.
 
-<sup>3</sup> L'autorità di ricorso può attribuire effetto sospensivo al ricorso.
+<sup>3</sup> L'Ufficio e il Dipartimento comunicano alla Procura pubblica le loro decisioni.
 
 #### Art. 48
 
-**Appello**
+**Ricorso al Tribunale cantonale dei Grigioni**
 
-<sup>1</sup> Le persone interessate e la procura pubblica possono interporre appello in materia penale al Tribunale cantonale contro le decisioni esecutive o le decisioni su ricorso del Dipartimento.
+<sup>1</sup> Gli interessati e la Procura pubblica possono presentare ricorso di diritto penale contro le decisioni del Dipartimento dinanzi al Tribunale cantonale entro 30 giorni dalla comunicazione.
+
+<sup>2</sup> Per la procedura di ricorso fanno stato le disposizioni del Codice di procedura penale[^48-1].
+
+[^48-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+
+## 6a. Compito speciale
+
+#### Art. 48a
+
+**Ufficio di consulenza per le persone che esercitano violenza**
+
+<sup>1</sup> L'Ufficio gestisce un ufficio di consulenza per le persone che esercitano violenza. Per adempiere a questo compito l'ufficio di consulenza per le persone che esercitano violenza è autorizzato a trattare dati personali, compresi dati personali degni di particolare protezione.
+
+<sup>2</sup> Dopo aver ricevuto una segnalazione conformemente all'articolo 16 capoverso 1 lettera c o all'articolo 16a della legge sulla polizia del Cantone dei Grigioni[^48a-1], l'ufficio di consulenza per le persone che esercitano violenza contatta immediatamente la persona che esercita violenza e le propone una consulenza gratuita.
+
+<sup>3</sup> Se la persona che esercita violenza non desidera ricevere una consulenza, l'ufficio di consulenza per le persone che esercitano violenza distrugge o elimina immediatamente la documentazione o le informazioni ricevute dalla Polizia cantonale.
+
+<sup>4</sup> L'ufficio di consulenza per le persone che esercitano violenza può rivelare a terzi fatti di cui è venuto a conoscenza attraverso la consulenza volontaria e trasmettere la documentazione relativa a una consulenza volontaria solo se la persona che ha ricevuto consulenza è d'accordo.
+
+[^48a-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
 
 ## 7. Disposizioni finali
 
@@ -600,6 +788,14 @@ decide:
 - b) articolo 7 capoverso 2: Le spese d'esecuzione di misure sono a carico del comune nel quale gli interessati avevano l'ultimo domicilio o l'ultima dimora, per quanto non siano terzi ad assumersi le spese. Nella sentenza, i condannati in buone condizioni finanziarie possono venire obbligati a partecipare alle spese d'esecuzione.
 
 [^51-1]: CSC [350.000](https://www.gr-lex.gr.ch/data/350.000/it)
+
+#### Art. 51a
+
+**Disposizioni transitorie**
+
+<sup>1</sup> L'autorizzazione di istituzioni private per la gestione di uno stabilimento per l'esecuzione di pene e misure rimane valida per due anni dopo l'entrata in vigore della procedura di autorizzazione.
+
+<sup>2</sup> Gli apparecchi riconoscibili di trasmissione e di registrazione di immagini di cui all'articolo 23a in esercizio al momento dell'entrata in vigore possono continuare a essere utilizzati sotto il nuovo diritto, se entro due anni sono soddisfatti i presupposti richiesti per la sorveglianza riconoscibile con acquisizione di immagini.
 
 #### Art. 52
 
