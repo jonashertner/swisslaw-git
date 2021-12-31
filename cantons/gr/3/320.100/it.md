@@ -4,33 +4,36 @@ number: "320.100"
 title: "Legge d'applicazione del Codice di diritto processuale civile svizzero"
 short: LACPC
 language: it
-version: 2013-01-01
-corrected: 2014-10-09
-version_adopted: 2012-12-11
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-27
 adopted: 2010-06-16
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/320.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1701/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3221/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge d'applicazione del Codice di diritto processuale civile svizzero (LACPC)
+# Legge d'applicazione del Codice di diritto processuale civile svizzero
 
-del 16 giugno 2010
+(LACPC)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+del 16.06.2010 (stato 01.01.2022)
 
-visto l'art. 31 della Costituzione cantonale[^t-2], visto il messaggio del Governo del 23 marzo 2010[^t-3],
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
+
+visto l'art. 31 della Costituzione cantonale[^ingress-2],
+
+visto il messaggio del Governo del 23 marzo 2010[^ingress-3],
 
 decide:
 
-[^t-1]: PGC 2009/2010, 853
-[^t-2]: CSC 110.100
-[^t-3]: pagina 853
+[^ingress-1]: PGC 2009/2010, 853
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: pagina 853
 
-### I. Disposizioni generali
+## 1. Disposizioni generali
 
 #### Art. 1
 
@@ -44,22 +47,20 @@ decide:
 
 <sup>4</sup> Il diritto civile cantonale e le competenze di diritto civile delle autorità amministrative si orientano alla legislazione d'introduzione al CC[^1-3] e al CO[^1-4].
 
-[^1-1]: RS 272
-[^1-2]: CSC 173.000
-[^1-3]: CSC 210.100
-[^1-4]: CSC 210.200
+[^1-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+[^1-2]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
+[^1-3]: CSC [210.100](https://www.gr-lex.gr.ch/data/210.100/it)
+[^1-4]: CSC [210.200](https://www.gr-lex.gr.ch/data/210.200/it)
 
 #### Art. 2
 
 **Lingua processuale**
 
-Le lingue processuali delle autorità di conciliazione e dei tribunali civili nel Cantone dei Grigioni si conformano alla legge sulle lingue del Cantone dei Grigioni[^2-1].
+<sup>1</sup> Le lingue processuali delle autorità di conciliazione e dei tribunali civili nel Cantone dei Grigioni si conformano alla legge sulle lingue del Cantone dei Grigioni[^2-1].
 
-[^2-1]: CSC 492.100 1.1.2013 1
+[^2-1]: CSC [492.100](https://www.gr-lex.gr.ch/data/492.100/it)
 
-### II. Competenza delle autorità di conciliazione e dei
-
-tribunali civili
+## 2. Competenza delle autorità di conciliazione e dei tribunali civili
 
 #### Art. 3
 
@@ -68,53 +69,44 @@ tribunali civili
 <sup>1</sup> I compiti dell'autorità di conciliazione conformemente al Codice di procedura civile[^3-1] competono:
 
 - a) alla giudicatura di pace, se non è competente un'altra autorità di conciliazione;
-
 - b) all'autorità di conciliazione in materia di locazione in caso di controversie derivanti dalla locazione e dall'affitto di spazi abitativi e commerciali;
-
 - c) all'autorità di conciliazione in materia di parità dei sessi in caso di controversie secondo la legge federale sulla parità dei sessi[^3-2].
 
 <sup>2</sup> La competenza territoriale dell'autorità di conciliazione si conforma alle disposizioni del Codice di procedura civile concernenti il foro.
 
-[^3-1]: RS 272
-[^3-2]: RS 151.1
+[^3-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+[^3-2]: RS [151.1](https://db.clex.ch/link/Bund/151.1/it)
 
 #### Art. 4
 
 **Tribunale di prima istanza 1. Giudice unico**
 
-<sup>1</sup> Per quanto il diritto federale o cantonale non disponga diversamente, il presidente o un altro membro del Tribunale distrettuale decide con competenza di giudice unico:
+<sup>1</sup> Per quanto il diritto federale o cantonale non disponga diversamente, un membro del tribunale regionale decide con competenza di giudice unico:
 
 - a) in questioni per le quali si applica la procedura sommaria;
-
-- b) in caso di controversie di carattere patrimoniale fino a un importo di 5 000 franchi;
-
+- b) in caso di controversie di carattere patrimoniale fino a un importo di 5000 franchi;
 - c) in merito a divorzio, separazione o scioglimento dell'unione domestica registrata su richiesta comune e in caso di accordo completo;
-
 - d) in merito all'esecuzione;
-
-- e) su infrazioni ai divieti giudiziali ai sensi del Codice di procedura civile[^4-1].
+- e) su infrazioni ai divieti giudiziali ai sensi del Codice di procedura civile[^4-1]
 
 <sup>2</sup> Egli evade richieste di assistenza giudiziaria, per quanto non ne sia competente il Tribunale cantonale.
 
-[^4-1]: RS 272 2 1.1.2013
+[^4-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
 #### Art. 5
 
 **2. Tribunale collegiale**
 
-<sup>1</sup> Il tribunale distrettuale funge da tribunale civile di prima istanza, se non è competente il giudice unico.
+<sup>1</sup> Il tribunale regionale funge da tribunale civile di prima istanza, se non è competente il giudice unico.
 
 <sup>2</sup> Esso decide nella composizione di cinque giudici:
 
 - a) in questioni per le quali si applica la procedura ordinaria;
-
 - b) se è raggiunto il valore litigioso per il ricorso in materia civile al Tribunale federale;
-
 - c) in merito a questioni giuridiche di importanza fondamentale;
-
 - d) su ordine del presidente.
 
-<sup>3</sup> Negli altri casi il tribunale distrettuale decide nella composizione di tre giudici.
+<sup>3</sup> Negli altri casi il tribunale regionale decide nella composizione di tre giudici.
 
 #### Art. 6
 
@@ -125,7 +117,6 @@ tribunali civili
 <sup>2</sup> Il Tribunale cantonale decide con competenza di giudice unico in materia di:
 
 - a) tutela giurisdizionale nei casi manifesti in controversie per le quali il diritto federale prevede un' istanza cantonale unica;
-
 - b) cause del tribunale arbitrale ad eccezione del giudizio di ricorsi e richieste di revisione.
 
 #### Art. 7
@@ -137,12 +128,11 @@ tribunali civili
 <sup>2</sup> Esso decide nella composizione di giudice unico, quando:
 
 - a) il valore litigioso non supera i 5 000 franchi;
-
 - b) un rimedio giuridico è palesemente inammissibile o palesemente fondato o infondato.
 
-### III. Disposizioni complementari
+## 3. Disposizioni complementari
 
-- 1\. ASSISTENZA GIUDIZIARIA E COOPERAZIONE DELLE AUTORITÀ
+### 3.1. Assistenza giudiziaria e cooperazione delle autorità
 
 #### Art. 8
 
@@ -158,17 +148,29 @@ tribunali civili
 
 <sup>1</sup> Il tribunale competente per l'esecuzione può ricorrere alla Polizia cantonale o comunale per misure coercitive nell'ambito del diritto federale.
 
-**3**
-
-1.1.2013
-
-<sup>2</sup>[^9-1]Quando si tratta di interessi dei figli, il tribunale può incaricare dell'esecuzione l'autorità di protezione dei minori del luogo di residenza dei figli.
+<sup>2</sup> Quando si tratta di interessi dei figli, il tribunale può incaricare dell'esecuzione l'autorità di protezione dei minori del luogo di residenza dei figli.
 
 <sup>3</sup> Sono fatti salvi gli obblighi a collaborare previsti da altri atti normativi cantonali.
 
-- 2\. DISPOSIZIONI PARTICOLARI
+#### Art. 9a
 
-[^9-1]: Testo giusta art. 163 cpv. 1 della legge d'introduzione al Codice civile svizzero, CSC 210.100; entrato in vigore il 1° gennaio 2013
+**Sorveglianza elettronica**
+
+<sup>1</sup> L'Ufficio per l'esecuzione giudiziaria esegue la sorveglianza elettronica conformemente all'articolo 28c CC[^9a-1].
+
+<sup>2</sup> Esso analizza periodicamente o su richiesta del tribunale che ha ordinato la sorveglianza i dati rilevati. Se l'Ufficio per l'esecuzione giudiziaria viene a conoscenza di una violazione del divieto oggetto della sorveglianza, esso informa il tribunale che ha ordinato la sorveglianza. Esso è legittimato a segnalare una tale violazione alla Polizia cantonale e alle polizie comunali.
+
+<sup>3</sup> Se la persona da sorvegliare non rispetta le istruzioni dell'Ufficio per l'esecuzione giudiziaria e in tal modo vanifica la sorveglianza elettronica, l'Ufficio per l'esecuzione giudiziaria può richiedere al tribunale che ha ordinato la sorveglianza di sospendere la sorveglianza elettronica.
+
+<sup>4</sup> Una volta scadute le misure l'Ufficio per l'esecuzione giudiziaria presenta rapporto al tribunale che ha ordinato la sorveglianza.
+
+<sup>5</sup> Per il resto esso elabora i dati relativi alla sorveglianza secondo le regole vigenti per la sorveglianza elettronica dei divieti di diritto penale di avere contatti e di accedere ad aree determinate.
+
+<sup>6</sup> L'Ufficio per l'esecuzione giudiziaria fattura i costi della sorveglianza elettronica al tribunale che ha ordinato la sorveglianza. Quest'ultimo si assume i costi dell'esecuzione nella misura in cui questi non possano essere addossati alla persona sorvegliata.
+
+[^9a-1]: RS [210](https://db.clex.ch/link/Bund/210/it)
+
+### 3.2. Disposizioni particolari
 
 #### Art. 10
 
@@ -182,16 +184,14 @@ tribunali civili
 
 **Eccezioni al patrocinio obbligatorio**
 
-In singoli casi, su domanda motivata e con l'approvazione del presidente, il patrocinio da parte di una persona avente l'esercizio dei diritti civili che non è iscritta nel registro degli avvocati o che non gode della libera circolazione secondo la LLCA[^11-1] è possibile:
+<sup>1</sup> In singoli casi, su domanda motivata e con l'approvazione del presidente, il patrocinio da parte di una persona avente l'esercizio dei diritti civili che non è iscritta nel registro degli avvocati o che non gode della libera circolazione secondo la LLCA[^11-1] è possibile:
 
 - a) per il patrocinio non professionale;
-
 - b) in questioni di esecuzione e fallimenti, a norma del Codice di procedura civile[^11-2];
-
 - c) in controversie concernenti il diritto di locazione e del lavoro da parte di persone professionalmente qualificate.
 
-[^11-1]: RS 935.61
-[^11-2]: RS 272 4 1.1.2013
+[^11-1]: RS [935.61](https://db.clex.ch/link/Bund/935.61/it)
+[^11-2]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
 #### Art. 12
 
@@ -208,14 +208,12 @@ In singoli casi, su domanda motivata e con l'approvazione del presidente, il pat
 <sup>5</sup> Le disposizioni concernenti il gratuito patrocinio valgono per la mediazione ai sensi del Codice di procedura civile[^12-3] se:
 
 - a) le parti non dispongono dei mezzi necessari;
-
 - b) il loro petito o la mediazione non appaiono prive di possibilità di successo e
-
 - c) la mediazione viene effettuata da parte di un mediatore riconosciuto.
 
-[^12-1]: RS 272
-[^12-2]: CSC 370.100
-[^12-3]: RS 272
+[^12-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+[^12-2]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+[^12-3]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
 #### Art. 13
 
@@ -224,14 +222,12 @@ In singoli casi, su domanda motivata e con l'approvazione del presidente, il pat
 <sup>1</sup> Se la ricusazione è contestata, in assenza della persona interessata decide:
 
 - a) il tribunale competente nel merito;
-
 - b) il tribunale, in casi di ricusazione di autorità con competenze di giudice unico;
-
-- c) il Tribunale distrettuale, in casi di ricusazione di autorità di conciliazione.
+- c) il tribunale regionale, in casi di ricusazione di autorità di conciliazione.
 
 <sup>2</sup> Il numero legale si conforma alla legge sull'organizzazione giudiziaria[^13-1].
 
-[^13-1]: CSC 173.000 1.1.2013 5
+[^13-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 14
 
@@ -245,7 +241,7 @@ In singoli casi, su domanda motivata e con l'approvazione del presidente, il pat
 
 <sup>4</sup> Decisioni concernenti la consultazione degli atti possono essere impugnate entro 30 giorni per iscritto con ricorso all'autorità di vigilanza.
 
-- 3\. SPESE DI PROCEDURA E CONTABILITÀ
+### 3.3. Spese di procedura e contabilità
 
 #### Art. 15
 
@@ -259,8 +255,8 @@ In singoli casi, su domanda motivata e con l'approvazione del presidente, il pat
 
 <sup>4</sup> Il Tribunale cantonale disciplina l'entità delle forfetarie in un'ordinanza[^15-2].
 
-[^15-1]: RS 272
-[^15-2]: CSC 320.210
+[^15-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+[^15-2]: CSC [320.210](https://www.gr-lex.gr.ch/data/320.210/it)
 
 #### Art. 16
 
@@ -270,9 +266,9 @@ In singoli casi, su domanda motivata e con l'approvazione del presidente, il pat
 
 <sup>2</sup> L'indennità per perdita di guadagno di testimoni ammonta al massimo a 500 franchi al giorno. Le spese vengono indennizzate al massimo con gli importi validi per gli impiegati cantonali. Il Tribunale cantonale disciplina i dettagli in un'ordinanza[^16-3].
 
-[^16-1]: RS 272
-[^16-2]: CSC 310.100 e CSC 310.250
-[^16-3]: CSC 310.210
+[^16-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+[^16-2]: CSC [310.250](https://www.gr-lex.gr.ch/data/310.250/it)
+[^16-3]: CSC [310.210](https://www.gr-lex.gr.ch/data/310.210/it)
 
 #### Art. 17
 
@@ -282,20 +278,20 @@ In singoli casi, su domanda motivata e con l'approvazione del presidente, il pat
 
 <sup>2</sup> Per il resto la contabilità e l'incasso si conformano alle disposizioni sull'organizzazione giudiziaria[^17-1].
 
-[^17-1]: CSC 173.000 6 1.1.2013
+[^17-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
-### IV. Procedure civili davanti ad autorità amministrative
+## 4. Procedure civili davanti ad autorità amministrative
 
 #### Art. 18
 
 **Principio**
 
-La competenza delle autorità amministrative nel campo del diritto civile, nonché la procedura, si conformano in particolare alle leggi d'introduzione al Codice civile[^18-1] e al Codice delle obbligazioni[^18-2].
+<sup>1</sup> La competenza delle autorità amministrative nel campo del diritto civile, nonché la procedura, si conformano in particolare alle leggi d'introduzione al Codice civile[^18-1] e al Codice delle obbligazioni[^18-2].
 
-[^18-1]: CSC 210.100
-[^18-2]: CSC 210.200
+[^18-1]: CSC [210.100](https://www.gr-lex.gr.ch/data/210.100/it)
+[^18-2]: CSC [210.200](https://www.gr-lex.gr.ch/data/210.200/it)
 
-### V. Disposizioni finali
+## 5. Disposizioni finali
 
 #### Art. 19
 
@@ -304,26 +300,21 @@ La competenza delle autorità amministrative nel campo del diritto civile, nonch
 <sup>1</sup> Con l'entrata in vigore della presente legge sono abrogati i seguenti atti normativi:
 
 - a) Codice di procedura civile del Cantone dei Grigioni del 1°dicembre 1985[^19-1];
-
 - b) Adesione del 2 marzo 1975 al Concordato sull'assistenza giudiziaria reciproca per l'esecuzione di pretese di diritto pubblico del 28 ottobre 1971[^19-2];
-
 - c) Adesione del 14 giugno 1987 al Concordato sull'esecuzione delle sentenze in materia civile del 10 marzo 1977[^19-3];
-
 - d) Adesione del 2 marzo 1975 al Concordato sull'arbitrato del 27 marzo 1969[^19-4];
-
 - e) Adesione del 28 maggio 1978 al Concordato sull'assistenza giudiziaria in materia civile del 26 aprile 1974 e 8/9 novembre 1974[^19-5];
-
 - f) Adesione del 28 febbraio 1904 al Concordato relativo all'esenzione dall'obbligo di prestar cauzione per le spese processuali del 5/20 novembre 1903[^19-6].
 
 <sup>2</sup> Se atti normativi vigenti rinviano a disposizioni che vengono abrogate dalla presente legge, trovano applicazione le disposizioni corrispondenti del Codice di diritto processuale civile svizzero[^19-7], nonché della presente legge.
 
-[^19-1]: AGS 1985, 1516; CSC 320.000
-[^19-2]: AGS 1975, 871, CSC 220.300
-[^19-3]: AGS 1987, 1974; CSC320.030
-[^19-4]: AGS 1975, 747; CSC 320.050
-[^19-5]: AGS 1978, 333; CSC320.065
-[^19-6]: aRB 574; CSC 320.400
-[^19-7]: RS 272 1.1.2013 7
+[^19-1]: AGS 1985, 1516; CSC [320.000](https://www.gr-lex.gr.ch/data/320.000/it)
+[^19-2]: AGS 1975, 871, CSC [220.300](https://www.gr-lex.gr.ch/data/220.300/it)
+[^19-3]: AGS 1987, 1974; CSC[320.030](https://www.gr-lex.gr.ch/data/320.030/it)
+[^19-4]: AGS 1975, 747; CSC [320.050](https://www.gr-lex.gr.ch/data/320.050/it)
+[^19-5]: AGS 1978, 333; CSC[320.065](https://www.gr-lex.gr.ch/data/320.065/it)
+[^19-6]: aRB 574; CSC [320.400](https://www.gr-lex.gr.ch/data/320.400/it)
+[^19-7]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
 #### Art. 20
 
@@ -333,9 +324,9 @@ La competenza delle autorità amministrative nel campo del diritto civile, nonch
 
 <sup>2</sup> Se ordinanze emanate dal Gran Consiglio che non corrispondono alle disposizioni dell'articolo 32 capoverso 1 della Costituzione cantonale[^20-2] sono in contraddizione con disposizioni del Codice di diritto processuale civile svizzero[^20-3] o con la sua applicazione nella presente legge, il Gran Consiglio può adeguarle a questi atti normativi tramite ordinanza.
 
-[^20-1]: L'appendice non è pubblicata nella CSC; vedi FUC 2010, 2517 e segg.
-[^20-2]: CSC 110.100
-[^20-3]: RS 272
+[^20-1]: L'appendice non è pubblicata nella CSC; vedi FUC 2010, 2517 e segg
+[^20-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^20-3]: RS [272](https://db.clex.ch/link/Bund/272/it)
 
 #### Art. 21
 
@@ -356,4 +347,6 @@ La competenza delle autorità amministrative nel campo del diritto civile, nonch
 <sup>2</sup> Il Governo stabilisce la data dell'entrata in vigore[^22-2].
 
 [^22-1]: Il termine di referendum è scaduto inutilizzato il 29 settembre 2009
-[^22-2]: Posta in vigore il 1° gennaio 2011 con DG del 21 dicembre 2010 8 1.1.2013
+[^22-2]: Posta in vigore il 1° gennaio 2011 con DG del 21 dicembre 2010
+
+-
