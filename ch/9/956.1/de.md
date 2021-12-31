@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2007 über die Eidgenössische Finanzmarktaufs
 short: FINMAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-736-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20200101/de"
 
 (Finanzmarktaufsichtsgesetz, FINMAG)
 
-vom 22. Juni 2007 (Stand am 1. Januar 2020)
+vom 22. Juni 2007 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -85,7 +85,7 @@ Der Finanzmarktaufsicht unterstehen:
 
 - a. die Personen, die nach den Finanzmarktgesetzen eine Bewilligung, eine Anerkennung, eine Zulassung oder eine Registrierung der Finanzmarktaufsichtsbehörde benötigen; und
 - b. die kollektiven Kapitalanlagen;
-- c.[^3-1] ...
+- c.[^3-1] …
 
 [^3-1]: Aufgehoben durch Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
@@ -316,7 +316,7 @@ Sie erlässt Ausführungsbestimmungen über:
 
 Die Aufsichtsabgabe wird nach folgenden Kriterien bemessen:
 
-- a.[^15-1] ...
+- a.[^15-1] …
 - a<sup>bis</sup>.[^15-2] Für die Beaufsichtigten nach Artikel 1a des Bankengesetzes vom 8. November 1934[^15-3], nach Artikel 2 Absatz 1 Buchstabe e des Finanzinstitutsgesetzes vom 15. Juni 2018[^15-4] und nach dem Pfandbriefgesetz vom 25. Juni 1930[^15-5] sind Bilanzsumme und Effektenumsatz massgebend; für die Beaufsichtigten nach Artikel 2 Absatz 1 Buchstaben c und d des Finanzinstitutsgesetzes sind die Höhe des verwalteten Vermögens, der Bruttoertrag und die Betriebsgrösse massgebend; für die Beaufsichtigten nach Artikel 1*b* des Bankengesetzes sind Bilanzsumme und Bruttoertrag massgebend.
 - a<sup>ter</sup>.[^15-6] Für die Beaufsichtigten nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^15-7] sind Bilanzsumme und Effektenumsatz oder, wenn keine Effekten umgesetzt werden, der Bruttoertrag massgebend.
 - b. Für die Beaufsichtigten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^15-8] sind die Höhe des verwalteten Vermögens, der Bruttoertrag und die Betriebsgrösse massgebend.
@@ -832,11 +832,12 @@ Als Niederlassungen gelten:
 [^43-5]: Eingefügt durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^43-6]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
-## 3. Titel:**** Aufsicht über Vermögensverwalter, Trustees und Handelsprüfer
+## 3. Titel:**** Aufsicht über Vermögensverwalter und Trustees****
 
-[^tit3-1]
+[^tit3-1][^tit3-2]
 
 [^tit3-1]: Eingefügt durch Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit3-2]: Fassung gemäss Anhang 1 Ziff. 4 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 1. Kapitel: Allgemeine Bestimmungen
 
@@ -844,7 +845,7 @@ Als Niederlassungen gelten:
 
 **Aufsichtsorganisation**
 
-<sup>1</sup> Die laufende Aufsicht über Vermögensverwalter und Trustees nach Artikel 17 des Finanzinstitutsgesetzes vom 15. Juni 2018[^43a-1] und über Handelsprüfer nach Artikel 42<sup>bis</sup> des Edelmetallkontrollgesetzes vom 20. Juni 1933[^43a-2] wird von einer oder mehreren Aufsichtsorganisationen mit Sitz in der Schweiz ausgeübt.
+<sup>1</sup> Die laufende Aufsicht über Vermögensverwalter und Trustees nach Artikel 17 des Finanzinstitutsgesetzes vom 15. Juni 2018[^43a-1] wird von einer oder mehreren Aufsichtsorganisationen mit Sitz in der Schweiz ausgeübt.[^43a-2]
 
 <sup>2</sup> Die Aufsichtsorganisation bedarf vor der Aufnahme ihrer Aufsichtstätigkeit einer Bewilligung der FINMA und wird von ihr beaufsichtigt.
 
@@ -853,21 +854,21 @@ Als Niederlassungen gelten:
 <sup>4</sup> Ist sie nach Absatz 3 auch als Selbstregulierungsorganisation tätig, sorgt sie dafür, dass dies gegen aussen jederzeit erkennbar ist.
 
 [^43a-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^43a-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^43a-2]: Fassung gemäss Anhang 1 Ziff. 4 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^43a-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 #### Art. 43b
 
 **Laufende Aufsicht**
 
-<sup>1</sup> Die Aufsichtsorganisation überprüft laufend, ob die Vermögensverwalter und Trustees nach Artikel 17 des Finanzinstitutsgesetzes vom 15. Juni 2018[^43b-1] und Handelsprüfer nach Artikel 42<sup>bis</sup> des Edelmetallkontrollgesetzes vom 20. Juni 1933[^43b-2] die für sie massgeblichen Finanzmarktgesetze einhalten.
+<sup>1</sup> Die Aufsichtsorganisation überprüft laufend, ob die Vermögensverwalter und Trustees nach Artikel 17 des Finanzinstitutsgesetzes vom 15. Juni 2018[^43b-1] die für sie massgeblichen Finanzmarktgesetze einhalten.[^43b-2]
 
 <sup>2</sup> Stellt die Aufsichtsorganisation Verletzungen aufsichtsrechtlicher Bestimmungen oder sonstige Missstände fest, so setzt sie der oder dem geprüften Beaufsichtigten eine angemessene Frist zur Herstellung des ordnungsgemässen Zustandes. Wird die Frist nicht eingehalten, so informiert sie unverzüglich die FINMA.
 
 <sup>3</sup> Der Bundesrat bestimmt Grundzüge und Inhalt der laufenden Aufsicht. Er trägt dabei der unterschiedlichen Grösse und dem unterschiedlichen Geschäftsrisiko der Beaufsichtigten Rechnung. Er kann die FINMA ermächtigen, Ausführungsbestimmungen zu technischen Angelegenheiten zu erlassen.
 
 [^43b-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^43b-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^43b-2]: Fassung gemäss Anhang 1 Ziff. 4 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 2. Kapitel: Bewilligung
 
@@ -1012,7 +1013,7 @@ Bei Prüfungen durch eine Prüfgesellschaft nach Absatz 1 müssen leitende Prüf
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
 
-<sup>3</sup> ...[^44-4]
+<sup>3</sup> …[^44-4]
 
 [^44-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^44-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
@@ -1027,7 +1028,7 @@ Bei Prüfungen durch eine Prüfgesellschaft nach Absatz 1 müssen leitende Prüf
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
 
-<sup>3</sup> ...[^45-2]
+<sup>3</sup> …[^45-2]
 
 [^45-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^45-2]: Aufgehoben durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
@@ -1046,7 +1047,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
 
-<sup>3</sup> ...[^46-4]
+<sup>3</sup> …[^46-4]
 
 [^46-1]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^46-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
@@ -1066,7 +1067,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
 
-<sup>3</sup> ...[^47-2]
+<sup>3</sup> …[^47-2]
 
 [^47-1]: Fassung gemäss Anhang Ziff. II 16 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^47-2]: Aufgehoben durch Anhang Ziff. 13 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).

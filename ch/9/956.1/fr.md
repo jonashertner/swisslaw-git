@@ -4,11 +4,11 @@ title: "Loi du 22 juin 2007 sur l'Autorité fédérale de surveillance des march
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-736-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20200101/fr"
 
 (Loi sur la surveillance des marchés financiers, LFINMA)
 
-du 22 juin 2007 (Etat le 1<sup>er</sup> janvier 2020)
+du 22 juin 2007 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -832,11 +832,12 @@ Sont considérées comme des établissements:
 [^43-5]: Introduit par l’annexe ch. 13 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^43-6]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
-## Titre 3**** Surveillance des gestionnaires de fortune, des trustees et des essayeurs du commerce
+## Titre 3**** Surveillance des gestionnaires de fortune et des trustees****
 
-[^tit3-1]
+[^tit3-1][^tit3-2]
 
 [^tit3-1]: Introduit par l’annexe ch. II 16 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit3-2]: Nouvelle teneur selon l’annexe 1 ch. 4 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Chapitre 1 Dispositions générales
 
@@ -844,7 +845,7 @@ Sont considérées comme des établissements:
 
 **Organisme de surveillance**
 
-<sup>1</sup> La surveillance courante des gestionnaires de fortune et des trustees visés par l’art. 17 de la loi fédérale du 15 juin 2018 sur les établissements financiers[^43a-1] et des essayeurs du commerce au sens de l’art. 42<sup>bis</sup> de la loi du 20 juin 1933 sur le contrôle des métaux précieux[^43a-2] est exercée par un ou plusieurs organismes de surveillance ayant leur siège en Suisse.
+<sup>1</sup> La surveillance courante des gestionnaires de fortune et des trustees visés à l’art. 17 de la loi fédérale du 15 juin 2018 sur les établissements financiers[^43a-1] est exercée par un ou plusieurs organismes de surveillance ayant leur siège en Suisse.[^43a-2]
 
 <sup>2</sup> Avant de commencer son activité, l’organisme de surveillance doit obtenir une autorisation de la FINMA, à laquelle il est assujetti.
 
@@ -853,21 +854,21 @@ Sont considérées comme des établissements:
 <sup>4</sup> S’il opère également en tant qu’organisme d’autorégulation conformément à l’al. 3, il veille à ce que ceci soit en tout temps reconnaissable de l’extérieur.
 
 [^43a-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^43a-2]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^43a-2]: Nouvelle teneur selon l’annexe 1 ch. 4 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^43a-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 #### Art. 43b
 
 **Surveillance courante**
 
-<sup>1</sup> L’organisme de surveillance examine en permanence si les gestionnaires de fortune et les trustees visés par l’art. 17 de la loi fédérale du 15 juin 2018 sur les établissements financiers[^43b-1] et les essayeurs du commerce au sens de l’art. 42<sup>bis</sup> de la loi du 20 juin 1933 sur le contrôle des métaux précieux[^43b-2] respectent les lois sur les marchés financiers auxquelles ils sont soumis.
+<sup>1</sup> L’organisme de surveillance examine en permanence si les gestionnaires de fortune et les trustees visés à l’art. 17 de la loi fédérale du 15 juin 2018 sur les établissements financiers[^43b-1] respectent les lois sur les marchés financiers auxquelles ils sont soumis.[^43b-2]
 
 <sup>2</sup> Lorsqu’il découvre des infractions au droit de la surveillance ou d’autres irrégularités, l’organisme de surveillance invite l’assujetti à régulariser sa situation dans un délai approprié. Si ce délai n’est pas respecté, il en informe immédiatement la FINMA.
 
 <sup>3</sup> Le Conseil fédéral détermine les principes et le contenu de la surveillance courante. Ce faisant, il tient compte de la taille des assujettis et du risque commercial qu’ils présentent. Il peut autoriser la FINMA à édicter des dispositions sur des questions techniques.
 
 [^43b-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^43b-2]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^43b-2]: Nouvelle teneur selon l’annexe 1 ch. 4 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Chapitre 2 Autorisation
 

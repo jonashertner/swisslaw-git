@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 2007 on the Swiss Financial Market Supervisory Au
 short: FINMASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: en
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2008-736-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Supervision Act, FINMASA)
 
-of 22 June 2007 (Status as of 1 January 2020)
+of 22 June 2007 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -827,43 +827,49 @@ Establishments are defined as:
 [^43-5]: Inserted by Annex No 13 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^43-6]: Amended by Annex No 8 of the FA of 20 June 2014 (Consolidation of Oversight through Audit Companies), in force since 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
-## Title 3**** Supervision of Portfolio Managers, Trustees and Trade Assayers
+## Title 3**** Supervision of Portfolio Managers and Trustees****
 
-[^tit3-1]
+[^tit3-1][^tit3-2]
 
 [^tit3-1]: Inserted by Annex No II 16 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit3-2]: Amended by Annex 1 No 4 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Chapter 1 General Provisions
 
-**Art. 43**a Supervisory organisation
+#### Art. 43a
 
-<sup>1</sup> The supervision of portfolio managers and trustees under Article 16 of the Financial Institutions Act of 15 June 2018[^tit3-chap1-1] and of trade assayers under Article 42<sup>bis</sup> of the Precious Metals Control Act of 20 June 1933[^tit3-chap1-2] is performed by a supervisory organisation with its registered office in Switzerland.
+**Supervisory organisation**
+
+<sup>1</sup> The ongoing supervision of portfolio managers and trustees under Article 17 of the Financial Institutions Act of 15 June 2018[^43a-1] is performed by one or more supervisory organisations with their registered office in Switzerland.[^43a-2]
 
 <sup>2</sup> The supervisory organisation shall require authorisation from FINMA before commencing its supervisory activity and shall be supervised by FINMA.
 
-<sup>3</sup> The supervisory organisation may also supervise financial intermediaries under Article 2 paragraph 3 of the Anti-Money Laundering Act of 10 October 1997[^tit3-chap1-3] (AMLA) with regard to compliance with their duties under AMLA, provided they are recognised as a self-regulatory organisation in accordance with Article 24 AMLA.
+<sup>3</sup> The supervisory organisation may also supervise financial intermediaries under Article 2 paragraph 3 of the Anti-Money Laundering Act of 10 October 1997[^43a-3] (AMLA) with regard to compliance with their duties under AMLA, provided they are recognised as a self-regulatory organisation in accordance with Article 24 AMLA.
 
 <sup>4</sup> If the supervisory organisation is also active in accordance with paragraph 3 as a self-regulatory organisation, it shall ensure that this is evident to others at all times.
+
+[^43a-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^43a-2]: Amended by Annex 1 No 4 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^43a-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 #### Art. 43b
 
 **Continuous supervision**
 
-<sup>1</sup> The supervisory organisation shall continuously monitor whether portfolio managers and trustees under Article 16 of the Financial Institutions Act of 15 June 2018[^43b-1] and of trade assayers under Article 42<sup>bis</sup> of the Precious Metals Control Act of 20 June 1933[^43b-2] are in compliance with the financial market legislation to which they are subject.
+<sup>1</sup> The supervisory organisation shall continuously monitor whether portfolio managers and trustees in accordance with Article 17 of the Financial Institutions Act of 15 June 2018[^43b-1] are in compliance with the financial market legislation to which they are subject.[^43b-2]
 
 <sup>2</sup> Where the supervisory organisation detects violations of supervisory provisions or other irregularities, it shall give the audited supervised person or entity an appropriate period to restore compliance with the law. If the period is not complied with, it informs FINMA.
 
 <sup>3</sup> The Federal Council shall determine the main aspects and content of the continuous supervision. In doing so, it shall take account of the differing size and business risks of the supervised person or entity. It may authorise FINMA to issue implementing provisions on technical matters.
 
-[^tit3-chap1-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^tit3-chap1-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^tit3-chap1-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^43b-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^43b-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^43b-2]: Amended by Annex 1 No 4 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Chapter 2 Authorisation
 
-**Art. 43**c Principle
+#### Art. 43c
+
+**Principle**
 
 <sup>1</sup> FINMA shall grant the supervisory organisation authorisation if the provisions of this chapter are complied with.
 
@@ -873,7 +879,9 @@ Establishments are defined as:
 
 <sup>4</sup> If two or more supervisory organisations are established, the Federal Council may issue rules for the coordination of their activities and the subjection of the supervised persons and entities to a given supervisory organisation.
 
-**Art. 43**d Organisation
+#### Art. 43d
+
+**Organisation**
 
 <sup>1</sup> The supervisory organisation must effectively be managed from Switzerland.
 
@@ -883,7 +891,9 @@ Establishments are defined as:
 
 <sup>4</sup> It must have a management board as the operational body.
 
-**Art. 43**e Guarantee of irreproachable business conduct and independence
+#### Art. 43e
+
+**Guarantee of irreproachable business conduct and independence**
 
 <sup>1</sup> The supervisory organisation and the persons responsible for its management must provide a guarantee of irreproachable business conduct.
 
@@ -893,9 +903,13 @@ Establishments are defined as:
 
 <sup>4</sup> The members of the management board must be independent of the persons and entities supervised by the supervisory organisation.
 
-<sup>5</sup> The persons entrusted with supervision must be independent of the persons and entities they supervise. The tasks of a supervisory organisation under this Act and those of a self-regulatory organisation under AMLA[^tit3-chap2-1] may be managed by the same persons and carried out by the same staff.
+<sup>5</sup> The persons entrusted with supervision must be independent of the persons and entities they supervise. The tasks of a supervisory organisation under this Act and those of a self-regulatory organisation under AMLA[^43e-1] may be managed by the same persons and carried out by the same staff.
 
-**Art. 43**f Funding and reserves
+[^43e-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 43f
+
+**Funding and reserves**
 
 <sup>1</sup> The supervisory organisation shall finance its supervisory in individual cases and when providing services from contributions paid by the supervised persons and entities.
 
@@ -909,11 +923,11 @@ Establishments are defined as:
 
 Article 19 applies by analogy to the supervisory organisation.
 
-[^tit3-chap2-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-
 ### Chapter 3 Supervision of the Supervisory Organisation
 
-**Art. 43**h Principles
+#### Art. 43h
+
+**Principles**
 
 <sup>1</sup> The supervisory organisation shall periodically inform FINMA about its supervisory activity.
 
@@ -921,7 +935,9 @@ Article 19 applies by analogy to the supervisory organisation.
 
 <sup>3</sup> The supervisory organisation must furnish FINMA with all the information and documents that FINMA requires to supervise the supervisory organisation.
 
-**Art. 43**i Measures
+#### Art. 43i
+
+**Measures**
 
 <sup>1</sup> FINMA shall take the necessary measures if the supervisory organisation does not meet the requirements under Chapter 2 of this title or does not perform its supervisory tasks.
 
@@ -929,7 +945,9 @@ Article 19 applies by analogy to the supervisory organisation.
 
 <sup>3</sup> If no other measure proves effective, FINMA may liquidate the supervisory organisation and transfer the supervisory activity to another supervisory organisation as a measure of last resort.
 
-<sup>4</sup> If there are indications of irregularities and the supervisory organisation does not take the measures required to restore compliance with the law, FINMA may:
+<sup>4</sup>
+
+If there are indications of irregularities and the supervisory organisation does not take the measures required to restore compliance with the law, FINMA may:
 
 - a. conduct an audit of the supervised person or entity;
 - b. appoint an audit agent in accordance with Article 24*a*; or
@@ -937,21 +955,27 @@ Article 19 applies by analogy to the supervisory organisation.
 
 ### Chapter 4 Data Processing
 
-**Art.** **43**j
+#### Art. 43j
 
 Article 23 applies by analogy.
 
 ### Chapter 5 Supervisory Instruments of the Supervisory Organisation
 
-**Art.** **43**k Auditing
+#### Art. 43k
 
-<sup>1</sup> The supervisory organisation may carry out the audit of its supervised persons and entities itself or arrange for it to be carried out by an audit company that:
+**Auditing**
 
-- a. is licensed as an auditor by the Federal Audit Oversight Authority in accordance with Article 6 of the Auditor Oversight Act of 16 December 2005[^tit3-chap5-1];
+<sup>1</sup>
+
+The supervisory organisation may carry out the audit of its supervised persons and entities itself or arrange for it to be carried out by an audit company that:
+
+- a. is licensed as an auditor by the Federal Audit Oversight Authority in accordance with Article 6 of the Auditor Oversight Act of 16 December 2005[^43k-1];
 - b. is adequately organised for this audit; and
 - c. does not perform any other activity requiring authorisation under the financial market acts.
 
-<sup>2</sup> For audits conducted by an audit company in accordance with paragraph 1, a lead auditor must be appointed who:
+<sup>2</sup>
+
+For audits conducted by an audit company in accordance with paragraph 1, a lead auditor must be appointed who:
 
 - a. is licensed by the Federal Audit Oversight Authority as an auditor in accordance with Article 5 of the Audit Oversight Act;
 - b. possesses the required specialist knowledge and practical experience to conduct the audit in accordance with paragraph 1.
@@ -960,6 +984,8 @@ Article 23 applies by analogy.
 
 <sup>4</sup> If so ordered by the supervisory organisation, the supervised persons and entities must make an advance payment to cover costs.
 
+[^43k-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+
 #### Art. 43l
 
 **Duty to provide information and to report**
@@ -967,8 +993,6 @@ Article 23 applies by analogy.
 <sup>1</sup> The supervised persons and entities, their audit companies and auditors as well as persons or companies that are qualified investors or that have a substantial participation in the supervised persons and entities must provide FINMA with all information and documents that it requires to carry out its tasks.
 
 <sup>2</sup> The supervised persons and entities and the audit companies that conduct audits of them must also immediately report to FINMA any incident that is of substantial importance to the supervision.
-
-[^tit3-chap5-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ## Title 4 Criminal Provisions****
 

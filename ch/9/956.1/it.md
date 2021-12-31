@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2007 concernente l'Autorità federale di vi
 short: LFINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/736"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2007-06-22
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/736/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-736-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/736/20200101/it"
 
 (Legge sulla vigilanza dei mercati finanziari, LFINMA**[^t-1]**)
 
-del 22 giugno 2007 (Stato 1° gennaio 2020)
+del 22 giugno 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Testo rettificato dalla CdR dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
@@ -834,11 +834,12 @@ Sono considerate stabili organizzazioni:
 [^43-5]: Introdotto dall’all. n. 13 della LF del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^43-6]: Nuovo testo giusta l’all. n. 8 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
-## Titolo terzo:**** Vigilanza su gestori patrimoniali, trustee e saggiatori del commercio
+## Titolo terzo:**** Vigilanza su gestori patrimoniali e trustee****
 
-[^tit3-1]
+[^tit3-1][^tit3-2]
 
 [^tit3-1]: Introdotto dall’all. n. II 16 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^tit3-2]: Nuovo testo giusta l’all. 1 n. 4 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Capitolo 1: Disposizioni generali
 
@@ -846,7 +847,7 @@ Sono considerate stabili organizzazioni:
 
 **Organismo di vigilanza**
 
-<sup>1</sup> La vigilanza continua su gestori patrimoniali e trustee secondo l’articolo 17 della legge del 15 giugno 2018[^43a-1] sugli istituti finanziari e sui saggiatori del commercio secondo l’articolo 42<sup>bis</sup> della legge del 20 giugno 1933[^43a-2] sul controllo dei metalli preziosi è esercitata da uno o più organismi di vigilanza con sede in Svizzera.
+<sup>1</sup> La vigilanza continua su gestori patrimoniali e trustee secondo l’articolo 17 della legge del 15 giugno 2018[^43a-1] sugli istituti finanziari è esercitata da uno o più organismi di vigilanza con sede in Svizzera.[^43a-2]
 
 <sup>2</sup> Prima di iniziare la sua attività, l’organismo di vigilanza necessita di un’autorizzazione della FINMA; è assoggettato alla vigilanza di quest’ultima.
 
@@ -855,21 +856,21 @@ Sono considerate stabili organizzazioni:
 <sup>4</sup> Se svolge anche l’attività di organismo di autodisciplina secondo il capoverso 3, l’organismo di vigilanza provvede affinché ciò sia riconoscibile in ogni momento ai terzi.
 
 [^43a-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^43a-2]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^43a-2]: Nuovo testo giusta l’all. 1 n. 4 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^43a-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 #### Art. 43b
 
 **Vigilanza continua**
 
-<sup>1</sup> L’organismo di vigilanza verifica in modo continuato se i gestori patrimoniali e i trustee secondo l’articolo 17 della legge del 15 giugno 2018[^43b-1] sugli istituti finanziari nonché i saggiatori del commercio secondo l’articolo 42<sup>bis</sup> della legge del 20 giugno 1933[^43b-2] sul controllo dei metalli preziosi rispettano le leggi sui mercati finanziari loro applicabili.
+<sup>1</sup> L’organismo di vigilanza verifica in modo continuativo se i gestori patrimoniali e i trustee secondo l’articolo 17 della legge del 15 giugno 2018[^43b-1] sugli istituti finanziari rispettano le leggi sui mercati finanziari loro applicabili.[^43b-2]
 
 <sup>2</sup> Se constata violazioni delle disposizioni legali in materia di vigilanza o altre irregolarità, l’organismo di vigilanza impartisce all’assoggettato alla vigilanza un congruo termine per il ripristino della situazione conforme. In caso di inosservanza del termine, ne informa immediatamente la FINMA.
 
 <sup>3</sup> Il Consiglio federale stabilisce i principi e i contenuti della vigilanza continua. A tal fine tiene conto delle dimensioni e dei rischi d’impresa degli assoggettati alla vigilanza. Può autorizzare la FINMA a emanare disposizioni di esecuzione negli ambiti tecnici.
 
 [^43b-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^43b-2]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^43b-2]: Nuovo testo giusta l’all. 1 n. 4 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Capitolo 2: Autorizzazione
 
