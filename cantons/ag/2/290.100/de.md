@@ -4,13 +4,13 @@ number: "290.100"
 title: Einführungsgesetz zum Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte
 short: EG BGFA
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2011-12-06
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2021-03-23
 adopted: 2004-11-02
 in_force: 2005-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/290.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1513/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3052/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1513/pdf_file"
 
 (EG BGFA)
 
-Vom 02.11.2004 (Stand 01.01.2013)
+Vom 02.11.2004 (Stand 01.01.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -92,7 +92,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Die Justizleitung wählt die Mitglieder der Anwaltskommission auf vier Jahre und bestimmt eine vorsitzende sowie eine stellvertretende Person. Die Amtsperiode beginnt 24 Monate nach derjenigen des Grossen Rats und des Regierungsrats.
 
-<sup>2</sup> Die Anwaltskommission setzt sich zusammen aus zwei Oberrichterinnen oder Oberrichtern, zwei in einem kantonalen Anwaltsregister eingetragenen Anwältinnen oder Anwälten und einer weiteren Person mit Fähigkeitsausweis als Anwältin oder Anwalt sowie einer gleichen Zahl von Ersatzmitgliedern mit entsprechender beruflicher Tätigkeit beziehungsweise Fähigkeitsausweis.
+<sup>2</sup> Die Anwaltskommission setzt sich zusammen aus zwei Oberrichterinnen oder Oberrichtern, zwei in einem kantonalen Anwaltsregister eingetragenen Anwältinnen oder Anwälten und einer weiteren Person mit Fähigkeitsausweis als Anwältin oder Anwalt sowie einer von der Justizleitung festzulegenden Zahl von Ersatzmitgliedern mit entsprechender beruflicher Tätigkeit beziehungsweise Fähigkeitsausweis.
 
 <sup>3</sup> Für die Wahl der Mitglieder und Ersatzmitglieder holt die Justizleitung die Vorschläge des aargauischen Anwaltsverbands sowie des Obergerichts für die jeweiligen Vertretungen ein.
 
@@ -213,9 +213,11 @@ beschliesst:
 
 **Gebühren und Entschädigung**
 
-<sup>1</sup> Für die von der Anwaltskommission durchgeführten Prüfungen werden Gebühren von Fr. 1'000.– bis Fr. 3'500.– erhoben. Innerhalb dieses Rahmens bestimmt der Regierungsrat durch Verordnung die Gebühr für die einzelnen Prüfungen näher.
+<sup>1</sup> …
 
-<sup>2</sup> Für die von der Anwaltskommission durchgeführten Disziplinarverfahren werden Gebühren von Fr. 300.– bis Fr. 6'000.– erhoben.
+<sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Für die von der Anwaltskommission durchgeführten Verfahren werden Gebühren von Fr. 100.– bis Fr. 6'000.– erhoben. Der Regierungsrat bestimmt innerhalb dieses Rahmens die Gebühren für die einzelnen Verfahren durch Verordnung.
 
 <sup>3</sup> Der Regierungsrat regelt die Entschädigung der Kommissionsmitglieder.
 
