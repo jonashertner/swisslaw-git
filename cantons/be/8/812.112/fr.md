@@ -4,13 +4,13 @@ number: "812.112"
 title: Ordonnance sur les soins hospitaliers
 short: OSH
 language: fr
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-11-17
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2319/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2439/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,17 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2319/pdf_file"
 
 (OSH)
 
-du 23.10.2013 (état au 01.08.2021)
+du 23.10.2013 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 4 et 5, l’article 39, alinéa 2, l’article 54, alinéa 3, l’article 55, alinéa 2, l’article 56, alinéa 4, l’article 72, alinéa 2, les articles 75 et 89, l’article 100, alinéa 6, l’article 103, alinéa 3, l’article 105, alinéa 2, l’article 108, alinéa 4, l’article 109, alinéa 4, l’article 110, alinéa 3, l’article 111, l’article 127, alinéa 3, l’article 155 et l’article 158, alinéa 2 de la loi du 13 juin 2013 sur les soins hospitaliers (LSH)[^ingress-1],
+vu les articles 4 et 5, l’article 39, alinéa 2, l’article 51a, alinéa 4, l’article 54, alinéa 3, l’article 55, alinéa 2, l’article 55a, alinéa 4, l’article 72, alinéa 2, les articles 75 et 89, l’article 100, alinéa 6, l’article 103, alinéa 3, l’article 105, alinéa 2, l’article 108, alinéa 4, l’article 109, alinéa 4, l’article 110, alinéa 3, l’article 111, l’article 121a, l’article 127, alinéa 3, l’article 155 et l’article 158, alinéa 2 de la loi du 13 juin 2013 sur les soins hospitaliers (LSH)[^ingress-1],
 
 sur proposition de la Direction de la santé publique et de la prévoyance sociale,
 
 arrête:
 
-[^ingress-1]: RSB 812.11
+[^ingress-1]: RSB [812.11](https://www.belex.sites.be.ch/data/812.11/fr)
 
 ## 1 Commissions
 
@@ -73,17 +73,17 @@ arrête:
 
 <sup>1</sup> Les commissions peuvent instituer des sous-commissions auxquelles elles demandent conseil sur des questions particulières relevant de leur domaine respectif.
 
-### 1.2 Commission des soins hospitaliers
+### 1.2 Commission de la santé
 
 #### Art. 5
 
-<sup>1</sup> La Commission des soins hospitaliers se compose de 20 à 25 membres disposant du droit de vote.
+<sup>1</sup> La Commission de la santé se compose de 20 à 25 membres disposant du droit de vote.
 
-<sup>2</sup> Elle réunit notamment des représentants et des représentantes des fournisseurs de prestations, des assureurs, des associations de patients et de patientes ainsi que d’autres organisations du domaine de la santé, une délégation de la Direction de la santé, des affaires sociales et de l'intégration, un membre de la Commission des soins psychiatriques et un membre de la Commission de sauvetage.
+<sup>2</sup> Elle réunit notamment des représentants et représentantes des fournisseurs de prestations, des assureurs, des associations de patients et de patientes ainsi que d’autres organisations du domaine de la santé, une délégation de la Direction de la santé, des affaires sociales et de l’intégration ainsi qu’un membre de la Commission des soins psychiatriques.
 
 <sup>3</sup> Les différentes spécialités y sont représentées équitablement.
 
-<sup>4</sup> La Commission des soins hospitaliers prend position sur les questions fondamentales ayant trait aux soins hospitaliers, en particulier les développements au plan national et international, la planification des soins et les essais pilotes.
+<sup>4</sup> La Commission de la santé prend position sur les questions fondamentales ayant trait aux soins hospitaliers, en particulier les développements au plan national et international, la planification des soins et les essais pilotes.
 
 ### 1.3 Commission des soins psychiatriques
 
@@ -95,15 +95,11 @@ arrête:
 
 <sup>3</sup> Elle prend position sur des questions ayant trait aux soins psychiatriques, en particulier les développements au plan national et international, la planification des soins et les essais pilotes.
 
-### 1.4 Commission de sauvetage
+### 1.4
 
 #### Art. 7
 
-<sup>1</sup> La Commission de sauvetage se compose de 15 à 20 membres disposant du droit de vote.
-
-<sup>2</sup> Elle réunit en particulier des représentants et des représentantes des institutions de sauvetage et d’autres spécialités ainsi que des organisations de patients et de patientes et de la Direction de la santé, des affaires sociales et de l'intégration.
-
-<sup>3</sup> Elle prend position sur des questions ayant trait au sauvetage, en particulier les développements au plan national et international, la planification des soins et les essais pilotes.
+**…**
 
 ## 2 Organe de médiation
 
@@ -275,6 +271,53 @@ arrête:
 
 <sup>2</sup> L’hôpital répertorié met à sa disposition un poste de travail approprié au sein de l’établissement.
 
+#### Art. 15c
+
+**Salaires des médecins-chefs et des médecins-cheffes 1. Médecins concernés**
+
+<sup>1</sup> Sont réputées médecins-chefs ou médecins-cheffes les personnes qui
+
+- a assument ou partagent la responsabilité professionnelle globale d’un domaine ou sous-domaine médical;
+- b dirigent du personnel médical et éventuellement non médical et
+- c sont directement subordonnées à la direction générale ou à la direction médicale.
+
+<sup>2</sup> Sont également réputés médecins-chefs ou médecins-cheffes les médecins qui sont membres de la direction générale, quelles que soient leurs autres fonctions médicales.
+
+<sup>3</sup> Ne sont pas considérés comme médecins-chefs ou médecins-cheffes les médecins assumant leur suppléance.
+
+#### Art. 15d
+
+**2. Salaires**
+
+<sup>1</sup> Font partie du salaire, en particulier,
+
+- a les rémunérations selon l’article 51a, alinéa 2, lettres a et b LSH,
+- b les revenus provenant des recettes perçues par l’hôpital répertorié pour le traitement de la patientèle bénéficiant d’une assurance complémentaire,
+- c les cotisations de prévoyance professionnelle versées par l’hôpital répertorié et les contributions de ce dernier au rachat de cotisations auprès de son institution de prévoyance professionnelle selon l’article 51a, alinéa 2, lettre c LSH.
+
+<sup>2</sup> Les montants visés à l’alinéa 1, lettres a et b comprennent les cotisations aux assurances sociales à la charge du médecin-chef ou de la médecin-cheffe.
+
+#### Art. 15e
+
+**3. Communication, calcul et publication**
+
+<sup>1</sup> Les hôpitaux répertoriés situés dans le canton de Berne communiquent jusqu’au 30 avril de chaque année à l’ODS les informations suivantes par médecin-chef ou médecin-cheffe qu’ils emploient, après avoir rendu les données anonymes:
+
+- a le salaire de l’année précédente selon l’article 15d,
+- b le taux d’occupation de l’année précédente,
+- c la date d’entrée en fonction si celle-ci date de l’année précédente.
+
+<sup>2</sup> L’ODS
+
+- a convertit les salaires des médecins-chefs et des médecins-cheffes à temps partiel en montants à plein temps;
+- b calcule la moyenne de chacun des trois éléments du salaire visés à l’article 15d par fourchette de 100'000 francs.
+
+<sup>3</sup> Il publie chaque année sur internet, sans opérer de distinction entre les différents hôpitaux répertoriés, par fourchette de salaires
+
+- a le nombre de médecins-chefs et médecins-cheffes,
+- b la moyenne de la somme des rémunérations et des revenus visés à l’article 15d, alinéa 1, lettres a et b,
+- c la moyenne des cotisations et contributions visées à l’article 15d, alinéa 1, lettre c.
+
 #### Art. 16
 
 **Présentation des comptes**
@@ -293,37 +336,50 @@ arrête:
 
 #### Art. 18
 
-**Gestion du cycle de vie 1. Objet**
+**Accouchement confidentiel 1. Garantie de la confidentialité**
 
-<sup>1</sup> La gestion du cycle de vie porte sur l’ensemble de l’infrastructure des hôpitaux et des maisons de naissance répertoriés, et en particulier sur les bâtiments.
+<sup>1</sup> L’administration de l'hôpital répertorié\*
 
-<sup>2</sup> Outre les bâtiments, l’infrastructure comprend notamment la technique médicale, l’informatique, le mobilier et les véhicules.
+- a consigne l’identité de la femme enceinte lors de son admission pour un accouchement confidentiel;
+- b attribue des pseudonymes à cette dernière et à l’enfant à naître;
+- c munit de la mention «accouchement confidentiel» les dossiers de la femme enceinte et de l’enfant dans le système d’informations;
+- d veille à ce que la femme enceinte soit informée du déroulement de l’accouchement confidentiel et des offres de consultation de l’hôpital (service social, aumônerie et planning familial, en particulier);
+- e annonce la naissance à l’office de l’état civil;
+- f veille à ce que la mère informe l’autorité de protection de l’enfant et de l’adulte (APEA) de la naissance ou avise l’APEA elle-même une fois en possession de la déclaration de consentement de la mère ou, à défaut d’une telle déclaration, procède selon les articles 314c, 443 et 453 du Code civil suisse du 10 décembre 1907 (CC)[^18-1];
+- g veille à ce que la mère soit informée de la possibilité de fermer le dossier éventuellement établi à son nom selon la loi fédérale du 19 juin 2015 sur le dossier électronique du patient (LDEP)[^18-2] ou d'en supprimer certains documents;
+- h veille à ce que la mère dispose d’une chambre individuelle;
+- i veille à ce que, lors de sa sortie, la mère soit informée de la possibilité d’un suivi médical postnatal;
+- k transmet les factures aux assureurs-maladie et à l’ODS sur papier, avec la mention «accouchement confidentiel», en leur signalant de ne pas envoyer de factures ni de correspondance à l’adresse de la mère;
+- l assure le flux minimal d’informations requis au sein de l’hôpital ainsi qu’avec les autorités prévues par la loi et avec l’assurance obligatoire des soins.
+
+<sup>2</sup> L’hôpital répertorié désigne dans son administration en règle générale un maximum de deux personnes chargées d’assumer les tâches visées à l’alinéa 1.
 
 <sup>3–5</sup> …
 
+[^18-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^18-2]: RS [816.1](https://db.clex.ch/link/Bund/816.1/fr)
+
 #### Art. 18a
 
-**2. Collecte et remise des données**
+**2. Etendue des prestations**
 
-<sup>1</sup> Les hôpitaux et les maisons de naissance répertoriés récoltent les données relatives à l’état et au financement des bâtiments dont ils sont propriétaires ainsi qu’à la planification des mesures les concernant conformément à l’annexe 5.
+<sup>1</sup> En cas d’accouchement confidentiel, l’hôpital répertorié fournit les prestations
 
-<sup>2</sup> Ils collectent également les données relatives aux bâtiments loués conformément à l’annexe 5.
+- a visant à garantir la confidentialité selon l’article 18, alinéa 1;
+- b prévues par l’assurance obligatoire des soins pour une naissance en milieu hospitalier;
+- c requises le cas échéant après la sortie de la mère pour la prise en charge de l’enfant et pour les soins à lui prodiguer jusqu’à son placement.
 
-<sup>3</sup> Ils relèvent le besoin de refinancement des autres éléments de l’infrastructure par des méthodes appropriées.
-
-<sup>4</sup> Ils remettent les données visées aux alinéas 1 à 3 à la Direction de la santé, des affaires sociales et de l'intégration dans les délais indiqués à l’annexe 5.
-
-<sup>5</sup> L’ODS organise et finance la première collecte de données sur l’état des bâtiments.
+<sup>2–5</sup> …
 
 #### Art. 19
 
-**3. Evaluation**
+**3. Forfait**
 
-<sup>1</sup> L’ODS évalue les données que les hôpitaux et les maisons de naissance répertoriés lui ont transmises.
+<sup>1</sup> L’ODS verse aux hôpitaux répertoriés un forfait de 1500 francs par accouchement confidentiel, destiné à couvrir les charges supplémentaires induites par l’obligation de confidentialité.
 
-<sup>2</sup> La Direction de la santé, des affaires sociales et de l'intégration condense ses remarques sur cette évaluation dans un rapport.
+<sup>2</sup> Les hôpitaux répertoriés envoient les factures à l’ODS sur papier, avec la mention «accouchement confidentiel».
 
-<sup>3</sup> Elle porte ce rapport à la connaissance du Conseil-exécutif et entretient par ce biais le dialogue avec chacun des hôpitaux et maisons de naissance répertoriés, afin que ces derniers adaptent le cas échéant leur stratégie d’investissement.
+<sup>3</sup> …
 
 ### 3.6 Financement
 
@@ -331,7 +387,7 @@ arrête:
 
 #### Art. 20
 
-<sup>1</sup> L’ODS fixe la rémunération forfaitaire selon l’article 58 LSH par voie de décision l’année suivant le décompte de l’exercice.
+<sup>1</sup> L’ODS fixe la rémunération forfaitaire selon l’article 58 LSH par voie de décision en cas de litige résultant du contrat de prestations.
 
 ### 3.6.2 Prestations psychiatriques ambulatoires en milieu hospitalier
 
@@ -350,108 +406,41 @@ arrête:
 
 #### Art. 20b
 
-**Forfaits 1. Eléments**
+**Forfaits**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration peut verser aux hôpitaux répertoriés un forfait horaire pour chaque prestation visée à l’article 20a, alinéa 2.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut verser aux hôpitaux répertoriés un forfait pour chaque prestation visée à l’article 20a, alinéa 2.
 
-<sup>2</sup> Le forfait est calculé sur la base
+<sup>2</sup> Le forfait
 
-- a des charges salariales,
-- b d’un supplément standardisé,
-- c d’un supplément pour les frais de gestion et de support,
-- d d’un supplément pour les frais de formation et de perfectionnement occasionnés dans le cadre d'une filière reconnue.
+- a prend en compte les coûts des prestations fournies de manière économique qui ne peuvent pas être couverts par d’autres sources;
+- b est déterminé, dans le secteur ambulatoire, sur la base de la comptabilité analytique selon l’article 17;
+- c est calculé sur la base des coûts et des rentrées financières de tous les hôpitaux répertoriés qui fournissent la prestation en question selon l’alinéa 1.
+- d …
 
-<sup>3</sup> Le calcul du forfait prend en compte les frais de tous les hôpitaux répertoriés qui fournissent la prestation en question (hôpitaux prestataires).
+<sup>3</sup> Le contrat de prestations fixe le forfait applicable à chaque prestation dans l’une des unités suivantes:
 
-#### Art. 20c
+- a par heure,
+- b par journée ou demi-journée de soins,
+- c par cas,
+- d par point tarifaire,
+- e par unité de population,
+- f par fournisseur de prestations.
 
-**2. Charges salariales**
+<sup>4</sup> Il peut définir, pour chaque prestation, un forfait différencié selon
 
-<sup>1</sup> Les charges salariales sont calculées comme suit:
+- a le lieu où la prestation est fournie;
+- b le moment où la prestation est fournie;
+- c le degré de gravité, en fonction de son incidence sur le traitement du patient ou de la patiente.
 
-- a Les hôpitaux prestataires peuvent déclarer les salaires annuels bruts effectivement versés par groupe professionnel.
-- b Les salaires annuels bruts par groupe professionnel sont pondérés en fonction de la part des prestations ambulatoires en milieu hospitalier fournie par chaque hôpital.
-- c Les salaires annuels bruts pondérés selon la lettre b sont divisés par le nombre d’heures productives annuelles effectuées par chaque groupe professionnel pour obtenir le salaire horaire par groupe professionnel.
-- d Les salaires horaires par groupe professionnel sont pondérés en fonction de la part de chaque prestation ambulatoire fournie par groupe professionnel pour obtenir les charges salariales horaires par prestation.
+#### Art. 20c–20g
 
-#### Art. 20d
+**…**
 
-**3. Supplément standardisé**
-
-<sup>1</sup> Le supplément standardisé est calculé et intégré comme suit:
-
-- a Les prestations sociales, les frais matériels et les frais généraux, coûts d’utilisation des immobilisations inclus, sont chiffrés pour chaque hôpital prestataire au moyen de la comptabilité analytique.
-- b Le pourcentage des frais chiffrés à la lettre a par rapport aux charges salariales est déterminé pour chaque hôpital prestataire.
-- c La moyenne des pourcentages déterminés selon la lettre b pour l’ensemble des hôpitaux prestataires est établie en tenant compte d’un écart-type.
-- d Les charges salariales horaires par prestation sont multipliées par le pourcentage moyen établi à la lettre c.
-
-#### Art. 20e
-
-**4. Supplément pour les frais de gestion et de support**
-
-<sup>1</sup> Le supplément pour les frais de gestion et de support est calculé et intégré comme suit:
-
-- a Le pourcentage de temps dévolu aux tâches de gestion et de support par les unités d’organisation ambulatoires est déterminé par rapport au temps requis pour fournir l’ensemble des prestations au sens de l’article 20a, alinéa 2.
-- b Les charges salariales horaires par prestation, supplément standardisé inclus, sont multipliées par le pourcentage déterminé à la lettre a.
-
-#### Art. 20f
-
-**5. Supplément pour les frais de formation et de perfectionnement**
-
-<sup>1</sup> Le supplément pour les frais de formation et de perfectionnement occasionnés dans le cadre d'une filière reconnue est calculé et intégré comme suit:
-
-- a Le pourcentage de temps consacré à la formation et au perfectionnement des groupes professionnels concernés est déterminé par rapport au temps requis par groupe professionnel pour fournir les prestations au sens de l’article 20a, alinéa 2.
-- b Le salaire horaire par groupe professionnel est multiplié par le pourcentage déterminé à la lettre a.
-
-<sup>2</sup> Les frais de formation et de perfectionnement sont relevés pour les groupes professionnels suivants:
-
-- a psychologues,
-- b assistants sociaux et assistantes sociales,
-- c éducateurs sociaux et éducatrices sociales,
-- d musicothérapeutes, art-thérapeutes et thérapeutes par le mouvement.
-
-#### Art. 20g
-
-**6. Adaptation périodique des forfaits**
-
-<sup>1</sup> Les forfaits sont en principe recalculés tous les trois ans.
-
-### 3.6.3 Prestations psychiatriques ambulatoires en milieu hospitalier faisant l’objet d’un forfait particulier
+### 3.6.3
 
 #### Art. 20h
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration peut verser aux hôpitaux répertoriés des forfaits pour les prestations suivantes:
-
-- a interprétariat par des tiers,
-- b transports scolaires,
-- c services d’urgence et de piquet,
-- d rendez-vous manqués par les patients et les patientes,
-- e rapports des cliniques de jour.
-
-<sup>2</sup> Le forfait horaire pour les prestations d’interprétariat se monte à
-
-- a 112 francs pour les hôpitaux répertoriés dont le site principal se trouve dans les villes de Berne, Bienne ou Thoune;
-- b 160 francs pour les hôpitaux répertoriés de la région d’Interlaken et de Meiringen;
-- c 131 francs pour les autres hôpitaux répertoriés.
-
-<sup>3</sup> Le forfait par journée de soins en clinique de jour de la psychiatrie de l’enfant et de l’adolescent qui peut être alloué pour les transports scolaires est calculé en divisant la différence entre les dépenses et les recettes enregistrées par l’hôpital pour les prestations de transport fournies l’année précédente par le nombre de journées de soins dispensées l’année précédente par l’hôpital dans le cadre de la LAMal.
-
-<sup>4</sup> Le forfait annuel pour les services d’urgence et de piquet se monte à
-
-- a 40'000 francs par unité de 50'000 habitants et habitantes de la région ou du secteur desservis, lorsqu’une personne qualifiée est atteignable 24 heures sur 24 par téléphone à l’hôpital;
-- b 80'000 francs par unité de 50'000 habitants et habitantes de la région ou du secteur desservis, lorsque des équipes mobiles d’intervention de crise de l’hôpital sont disponibles tous les jours de 8 heures à 22 heures;
-- c 40'000 francs par unité de 50'000 habitants et habitantes de la région ou du secteur desservis, lorsque des équipes mobiles d’intervention de crise de l’hôpital sont disponibles tous les jours de 8 heures à 18 heures;
-- d 100'000 francs par hôpital participant lorsqu’un service médical de garde et un service de piquet assuré par des psychiatres sont prêts à intervenir 24 heures sur 24 pour les urgences à l’hôpital ou à domicile;
-- e 50'000 francs par hôpital participant lorsqu’un service médical de garde et un service de piquet assuré par des psychiatres sont prêts à intervenir 24 heures sur 24 à l’hôpital uniquement.
-
-<sup>5</sup> Les forfaits pour les rendez-vous manqués se montent à
-
-- a un quart des forfaits calculés selon les articles 20b à 20f pour la prestation ambulatoire mise à disposition,
-- b la moitié des forfaits calculés selon les articles 20b à 20f pour la prestation de clinique de jour mise à disposition.
-
-<sup>6</sup> Le forfait par journée de soins en clinique de jour versé par le canton pour les prestations de rapport est calculé de manière analogue à la procédure définie aux articles 20b à 20f sur la base des frais moyens par journée de soins de tous les hôpitaux prestataires.
-
-<sup>7</sup> Les forfaits sont en règle générale recalculés tous les trois ans.
+**…**
 
 ### 3.6.4 Prêts
 
@@ -533,7 +522,7 @@ arrête:
 
 <sup>1</sup> Le canton verse aux services de sauvetage une indemnité pour la garantie de la disponibilité à intervenir qui correspond au maximum à la différence entre leurs coûts d’exploitation normatifs et leurs revenus.
 
-<sup>2</sup> Les coûts d’exploitation normatifs s’élèvent à 1'754'572 francs par an pour une équipe de sauvetage comptant onze postes à plein temps, médecins d’urgence inclus.
+<sup>2</sup> Les coûts d’exploitation normatifs sont calculés par année pour une équipe de sauvetage comptant onze postes à plein temps, médecins d’urgence inclus.
 
 <sup>3</sup> Si le service de sauvetage n'a pas facturé l’ensemble des frais d’intervention aux assurés, aux assurées ou à leurs assureurs, le montant non facturé est déduit de l’indemnité.
 
@@ -545,7 +534,7 @@ arrête:
 
 **2. Adaptation des coûts d’exploitation normatifs**
 
-<sup>1</sup> Les coûts d’exploitation normatifs sont redéfinis tous les trois ans afin de correspondre à un montant se situant entre les niveaux de coût du deuxième et du troisième service de sauvetage enregistrant les coûts les plus bas avec lesquels la Direction de la santé, des affaires sociales et de l'intégration a conclu un contrat de prestations dans les trois années précédentes.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration redéfinit tous les trois ans les coûts d’exploitation normatifs en les faisant correspondre à un montant se situant entre les niveaux de coût du deuxième et du troisième service de sauvetage enregistrant les coûts les plus bas avec lesquels elle a conclu un contrat de prestations dans les trois années précédentes.
 
 <sup>2</sup> Une augmentation des coûts d’exploitation normatifs peut être convenue dans le contrat de prestations si la couverture des besoins de sauvetage est menacée dans une région.
 
@@ -589,7 +578,7 @@ arrête:
 
 **Professions de la santé non universitaires**
 
-<sup>1</sup> Les fournisseurs de prestations participent à la formation et au perfectionnement des professions de la santé non universitaires désignées à l’annexe 1.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration règle par voie d’ordonnance les professions de la santé non universitaires à la formation et au perfectionnement desquelles les fournisseurs de prestations participent.
 
 #### Art. 33
 
@@ -599,7 +588,7 @@ arrête:
 
 <sup>2</sup> La norme définit le nombre de semaines de formation et de perfectionnement qu’un fournisseur de prestations doit dispenser annuellement par poste à plein temps de la profession de la santé concernée représentée dans son établissement.
 
-<sup>3</sup> L’annexe 2 définit les normes applicables aux différentes professions de la santé.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration règle par voie d’ordonnance les normes applicables aux différentes professions de la santé.
 
 #### Art. 34
 
@@ -607,7 +596,7 @@ arrête:
 
 <sup>1</sup> La pondération de la formation et du perfectionnement tient compte en particulier des besoins en la matière recensés par la planification des soins.
 
-<sup>2</sup> Elle est définie à l’annexe 3.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l'intégration règle par voie d’ordonnance la pondération de la formation et du perfectionnement.
 
 #### Art. 35
 
@@ -617,7 +606,7 @@ arrête:
 
 <sup>2</sup> L’indemnisation correspond aux charges occasionnées par la personne en formation ou en perfectionnement.
 
-<sup>3</sup> L’annexe 4 définit les indemnités applicables à chaque formation et perfectionnement.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration règle par voie d’ordonnance les indemnités applicables à chaque formation et perfectionnement.
 
 #### Art. 36
 
@@ -651,9 +640,9 @@ arrête:
 
 #### Art. 39
 
-**Indemnisation**
+**Versement des indemnités**
 
-<sup>1</sup> L’ODS verse les indemnités prévues à l’annexe 4 pour la prestation de formation et de perfectionnement réalisée par le fournisseur de prestations, après déduction des indemnités que celui-ci perçoit en vertu de la LAMal.
+<sup>1</sup> L’ODS verse les indemnités fixées par la Direction de la santé, des affaires sociales et de l’intégration pour la prestation de formation et de perfectionnement réalisée par le fournisseur de prestations, après déduction de la rémunération que celui-ci perçoit en vertu de la LAMal.
 
 <sup>2</sup> Si l’indemnisation due pour la prestation de formation et de perfectionnement effectivement fournie est inférieure à la somme reçue sur la base de l’article 38, alinéa 1 pendant l’exercice, le fournisseur de prestations verse la différence à l’ODS.
 
@@ -720,11 +709,19 @@ arrête:
 
 ## 6 Surveillance et autorisation d’exploiter
 
-### 6.1 Condition générale d’octroi d’une autorisation
+### 6.1 Dispositions générales
 
 #### Art. 41
 
+**Etablissement multisite**
+
 <sup>1</sup> Lorsque l’hôpital, la maison de naissance ou le service de sauvetage exploite plusieurs sites, tous doivent satisfaire aux conditions d’octroi de l’autorisation.
+
+#### Art. 41a
+
+**Attestation du respect des conditions d’autorisation**
+
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut définir les programmes ou systèmes de mesure informatiques à utiliser par les hôpitaux, les maisons de naissance et les services de sauvetage pour attester le respect des conditions d’autorisation.
 
 ### 6.2 Conditions d’octroi pour les hôpitaux et les maisons de naissance
 
@@ -794,17 +791,17 @@ arrête:
 - c le nombre de collaborateurs et de collaboratrices ainsi que leur formation,
 - d les moyens de transport disponibles et leur équipement.
 
-## 7 Remise de données
+## 7 Remise de données par les fournisseurs de prestations
 
 #### Art. 48
 
-<sup>1</sup> Les fournisseurs de prestations hospitalières et les maisons de naissance remettent les données à la Direction de la santé, des affaires sociales et de l'intégration conformément à l’annexe 5.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration règle par voie d’ordonnance la nature et le volume des données à livrer ainsi que la date de leur remise.
 
-<sup>2</sup> Les fournisseurs de prestations de sauvetage remettent les données à la Direction de la santé, des affaires sociales et de l'intégration conformément à l’annexe 6.
+<sup>2</sup> …
 
 <sup>3</sup> L’ODS est habilité à rassembler d’autres données si celles-ci sont nécessaires à son activité de surveillance. Les données sont rendues anonymes afin d’exclure tout recoupement avec d’autres personnes que les fournisseurs de prestations.
 
-<sup>4</sup> Les fournisseurs de prestations transmettent à l’ODS les données requises selon les chiffres 1, 5, 5a ainsi que 6 à 6b de l’annexe 5 via la plateforme électronique mise à leur disposition par l’Office.
+<sup>4</sup> …
 
 ## 8 Dispositions transitoires
 

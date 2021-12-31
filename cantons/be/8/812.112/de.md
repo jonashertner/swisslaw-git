@@ -4,13 +4,13 @@ number: "812.112"
 title: Spitalversorgungsverordnung
 short: SpVV
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-11-17
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2319/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2439/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2319/pdf_file"
 
 (SpVV)
 
-vom 23.10.2013 (Stand 01.08.2021)
+vom 23.10.2013 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 4, Artikel 5, Artikel 39 Absatz 2, Artikel 54 Absatz 3, Artikel 55 Absatz 2, Artikel 56 Absatz 4, Artikel 72 Absatz 2, Artikel 75, Artikel 89, Artikel 100 Absatz 6, Artikel 103 Absatz 3, Artikel 105 Absatz 2, Artikel 108 Absatz 4, Artikel 109 Absatz 4, Artikel 110 Absatz 3, Artikel 111, Artikel 127 Absatz 3, Artikel 155 und Artikel 158 Absatz 2 des Spitalversorgungsgesetzes vom 13. Juni 2013 (SpVG)[^ingress-1],
+gestützt auf Artikel 4, Artikel 5, Artikel 39 Absatz 2, Artikel 51a Absatz 4, Artikel 54 Absatz 3, Artikel 55 Absatz 2, Artikel 55a Absatz 4, Artikel 72 Absatz 2, Artikel 75, Artikel 89, Artikel 100 Absatz 6, Artikel 103 Absatz 3, Artikel 105 Absatz 2, Artikel 108 Absatz 4, Artikel 109 Absatz 4, Artikel 110 Absatz 3, Artikel 111, Artikel 121a, Artikel 127 Absatz 3, Artikel 155 und Artikel 158 Absatz 2 des Spitalversorgungsgesetzes vom 13. Juni 2013 (SpVG)[^ingress-1],
 
 auf Antrag der Gesundheits- und Fürsorgedirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 812.11
+[^ingress-1]: BSG [812.11](https://www.belex.sites.be.ch/data/812.11/de)
 
 ## 1 Kommissionen
 
@@ -73,17 +73,17 @@ beschliesst:
 
 <sup>1</sup> Die Kommissionen können Fachausschüsse zur Beratung bestimmter Fragestellungen aus ihrem Fachbereich einsetzen.
 
-### 1.2 Spitalversorgungskommission
+### 1.2 Gesundheitskommission
 
 #### Art. 5
 
-<sup>1</sup> Die Spitalversorgungskommission besteht aus 20 bis 25 stimmberechtigten Mitgliedern.
+<sup>1</sup> Die Gesundheitsskommission besteht aus 20 bis 25 stimmberechtigten Mitgliedern.
 
-<sup>2</sup> Ihr gehören insbesondere Vertreterinnen und Vertreter der Leistungserbringer, der Versicherer, der Patientenorganisationen, weiterer Organisationen des Gesundheitswesens, eine Vertretung der Gesundheits-, Sozial- und Integrationsdirektion sowie je ein Mitglied der Kommission Psychiatrie und der Kommission Rettungswesen an.
+<sup>2</sup> Ihr gehören insbesondere Vertretungen der Leistungserbringer, der Versicherer, der Patientenorganisationen, weiterer Organisationen des Gesundheitswesens sowie eine Vertretung der Gesundheits-, Sozial- und Integrationsdirektion und ein Mitglied der Kommission Psychiatrie an.
 
 <sup>3</sup> Die verschiedenen Fachbereiche sind angemessen vertreten.
 
-<sup>4</sup> Die Spitalversorgungskommission nimmt Stellung zu grundlegenden Fragen der Spitalversorgung, insbesondere betreffend gesamtschweizerischen und internationalen Entwicklungen, Versorgungsplanung sowie Modellversuche.
+<sup>4</sup> Die Gesundheitskommission nimmt Stellung zu grundlegenden Fragen der Spitalversorgung, insbesondere betreffend gesamtschweizerischen und internationalen Entwicklungen, Versorgungsplanung sowie Modellversuche.
 
 ### 1.3 Kommission Psychiatrie
 
@@ -95,15 +95,11 @@ beschliesst:
 
 <sup>3</sup> Die Kommission Psychiatrie nimmt Stellung zu Fragen der Psychiatrieversorgung, insbesondere betreffend gesamtschweizerischen und internationalen Entwicklungen, Versorgungsplanung sowie Modellversuche.
 
-### 1.4 Kommission Rettungswesen
+### 1.4
 
 #### Art. 7
 
-<sup>1</sup> Die Kommission Rettungswesen besteht aus 15 bis 20 stimmberechtigten Mitgliedern.
-
-<sup>2</sup> Ihr gehören insbesondere Vertreterinnen und Vertreter der Institutionen der Rettungsversorgung, der Patientenorganisationen, weiterer Fachbereiche sowie der Gesundheits-, Sozial- und Integrationsdirektion an.
-
-<sup>3</sup> Die Kommission Rettungswesen nimmt Stellung zu Fragen der Versorgung mit Rettungsleistungen, insbesondere betreffend gesamtschweizerischen und internationalen Entwicklungen, Versorgungsplanung sowie Modellversuche.
+**…**
 
 ## 2 Ombudsstelle
 
@@ -275,6 +271,53 @@ beschliesst:
 
 <sup>2</sup> Das Listenspital stellt ihr einen geeigneten Arbeitsplatz im Betrieb zur Verfügung.
 
+#### Art. 15c
+
+**Löhne von Chefärztinnen und Chefärzten 1. Chefärztinnen und Chefärzte**
+
+<sup>1</sup> Als Chefärztin oder Chefarzt gilt, wer
+
+- a die abschliessende fachliche Verantwortung für einen medizinischen Bereich oder einen medizinisch abgrenzbaren Teilbereich trägt oder diese mit anderen Personen teilt,
+- b ärztlichem und allenfalls auch nichtärztlichem Personal vorsteht sowie
+- c direkt der Geschäftsleitung oder allenfalls der ärztlichen Direktion unterstellt ist.
+
+<sup>2</sup> Als Chefärztinnen und Chefärzte gelten auch Ärztinnen und Ärzte, die unabhängig von weiteren medizinischen Funktionen Mitglied der Geschäftsleitung sind.
+
+<sup>3</sup> Nicht als Chefärztinnen und Chefärzte gelten Ärztinnen und Ärzte, die als Stellvertretungen derselben tätig sind.
+
+#### Art. 15d
+
+**2. Löhne**
+
+<sup>1</sup> Als Lohn gelten insbesondere
+
+- a die Beträge nach Artikel 51a Absatz 2 Buchstaben a und b SpVG,
+- b die Vergütungen aus Erträgen des Listenspitals für Behandlungen von zusatzversicherten Patientinnen und Patienten,
+- c die Beiträge des Listenspitals nach Artikel 51a Absatz 2 Buchstabe c SpVG an die berufliche Vorsorge und an Einkäufe in die berufliche Vorsorgeeinrichtung des Listenspitals.
+
+<sup>2</sup> Die Beträge nach Absatz 1 Buchstaben a und b enthalten die Sozialversicherungsbeiträge, die der Chefärztin oder dem Chefarzt belastet werden.
+
+#### Art. 15e
+
+**3. Meldung, Berechnung und Veröffentlichung**
+
+<sup>1</sup> Das im Kanton Bern gelegene Listenspital meldet dem Gesundheitsamt in anonymisierter Form jeweils bis am 30. April pro angestellte Chefärztin oder angestellten Chefarzt
+
+- a die Löhne nach Artikel 15d aus dem Vorjahr,
+- b das Anstellungspensum im Vorjahr,
+- c das Datum des Stellenantritts, falls die Chefärztin oder der Chefarzt die chefärztliche Funktion im Laufe des Vorjahres angetreten hat.
+
+<sup>2</sup> Das Gesundheitsamt rechnet
+
+- a die Löhne von Chefärztinnen und Chefärzten mit einem Teilzeitpensum auf ein Vollzeitpensum um,
+- b pro Lohnbandbreite von 100'000 Franken die drei Durchschnittsbeträge nach Artikel 15d aus.
+
+<sup>3</sup> Es veröffentlicht jährlich im Internet ohne Aufschlüsselung auf die einzelnen Listenspitäler pro Lohnbandbreite
+
+- a die Anzahl Chefärztinnen und Chefärzte,
+- b den Durchschnittsbetrag aus der Summe der Beträge nach Artikel 15d Absatz 1 Buchstaben a und b,
+- c den Durchschnittsbeitrag nach Artikel 15d Absatz 1 Buchstabe c.
+
 #### Art. 16
 
 **Rechnungslegungsstandard**
@@ -293,37 +336,50 @@ beschliesst:
 
 #### Art. 18
 
-**Lebenszyklusmanagement 1. Gegenstand**
+**Vertrauliche Geburt 1. Sicherstellung der Vertraulichkeit**
 
-<sup>1</sup> Das Lebenszyklusmanagement der Listenspitäler und Listengeburtshäuser umfasst die Gebäude und die weitere Infrastruktur.
+<sup>1</sup> Die Administration des Listenspitals \*
 
-<sup>2</sup> Die weitere Infrastruktur umfasst insbesondere die Medizinaltechnik, die Informatik, das Mobiliar und die Fahrzeuge.
+- a erfasst die Personalien der schwangeren Frau beim Eintritt ins Spital für eine vertrauliche Geburt,
+- b legt für sie und das ungeborene Kind die Decknamen fest,
+- c kennzeichnet im Informationssystem die Akten der schwangeren Frau und des ungeborenen Kindes mit dem Vermerk «Vertrauliche Geburt»,
+- d sorgt dafür, dass die schwangere Frau über den Ablauf der vertraulichen Geburt und die Beratungsangebote des Spitals, insbesondere den Sozialdienst und die Spitalseelsorge sowie das Angebot der Familienplanungs- und Beratungsstellen, informiert wird,
+- e informiert das Zivilstandsamt über die Geburt des Kindes,
+- f sorgt dafür, dass die Mutter die Kindes- und Erwachsenenschutzbehörde (KESB) über die Geburt informiert, oder informiert die KESB nach Vorliegen der Einverständniserklärung der Mutter oder geht bei fehlendem Einverständnis der Mutter nach den Artikeln 314c, 443 und 453 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^18-1] vor.
+- g sorgt dafür, dass die Mutter über die Möglichkeit informiert wird, ihr nach dem Bundesgesetz vom 19. Juni 2015 über das elektronische Patientendossier (EPDG)[^18-2] allenfalls bestehendes Dossier zu schliessen oder einzelne Dokumente daraus zu löschen,
+- h sorgt dafür, dass der Mutter ein Zimmer für sich allein zur Verfügung steht,
+- i sorgt dafür, dass die Mutter beim Austritt aus dem Spital über die Möglichkeit zur nachgeburtlichen medizinischen Betreuung informiert wird,
+- k verschickt die Rechnungen in Papierform an die Krankenversicherer und an das Gesundheitsamt mit dem Vermerk «Vertrauliche Geburt» und weist darauf hin, keine Rechnungen oder Korrespondenz an die Adresse der Mutter zu versenden,
+- l sichert den minimalen notwendigen Informationsfluss innerhalb des Spitals sowie mit den gesetzlich vorgesehenen Behörden und der obligatorischen Krankenpflegeversicherung.
+
+<sup>2</sup> Das Listenspital bestimmt in der Regel nicht mehr als zwei Personen, die in der Administration für die Aufgaben nach Absatz 1 zuständig sind.
 
 <sup>3–5</sup> …
 
+[^18-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^18-2]: SR [816.1](https://db.clex.ch/link/Bund/816.1/de)
+
 #### Art. 18a
 
-**2. Erhebung und Lieferung der Daten**
+**2. Leistungsumfang**
 
-<sup>1</sup> Die Listenspitäler und Listengeburtshäuser erheben die Daten gemäss Anhang 5 über den Zustand, die Massnahmenplanung und die Finanzierung der in ihrem Eigentum stehenden Gebäude.
+<sup>1</sup> Die vertrauliche Geburt umfasst
 
-<sup>2</sup> Sie erheben die Daten gemäss Anhang 5 über die gemieteten Gebäude.
+- a die Leistungen zur Sicherstellung der vertraulichen Geburt nach Artikel 18 Absatz 1,
+- b die Leistungen einer stationären Geburt im Rahmen der obligatorischen Krankenpflegeversicherung,
+- c die Leistungen für die Betreuung und Übergangspflege des Kindes bis zur Fremdunterbringung, sofern die Mutter bereits aus dem Spital ausgetreten ist.
 
-<sup>3</sup> Sie erheben mit geeigneten Methoden den Finanzbedarf, um ihre weitere Infrastruktur zu refinanzieren.
-
-<sup>4</sup> Sie liefern die nach den Absätzen 1 bis 3 erhobenen Daten innert der in Anhang 5 genannten Fristen an die Gesundheits-, Sozial- und Integrationsdirektion.
-
-<sup>5</sup> Das Gesundheitsamt organisiert und finanziert die Ersterhebung der Daten über den Zustand der Gebäude.
+<sup>2–5</sup> …
 
 #### Art. 19
 
-**3. Auswertung**
+**3. Pauschale zur Sicherstellung der Vertraulichkeit**
 
-<sup>1</sup> Das Gesundheitsamt wertet die von den Listenspitälern und Listengeburtshäusern erhaltenen Daten aus.
+<sup>1</sup> Das Gesundheitsamt entrichtet dem Listenspital pro durchgeführte vertrauliche Geburt eine Pauschale von 1500 Franken, die den Mehraufwand zur Sicherstellung der Vertraulichkeit abdeckt.
 
-<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion fasst ihre Erkenntnisse aus der Auswertung in einem Bericht zusammen.
+<sup>2</sup> Das Listenspital schickt die Rechnung in Papierform an das Gesundheitsamt mit dem Vermerk «Vertrauliche Geburt».
 
-<sup>3</sup> Sie bringt diesen Bericht dem Regierungsrat zur Kenntnis und pflegt auf dessen Grundlage mit den einzelnen Listenspitälern und Listengeburtshäusern den Dialog, damit diese ihre Investitionsstrategie gegebenenfalls anpassen.
+<sup>3</sup> …
 
 ### 3.6 Finanzierung
 
@@ -331,7 +387,7 @@ beschliesst:
 
 #### Art. 20
 
-<sup>1</sup> Das Gesundheitsamt rechnet die pauschale Abgeltung nach Artikel 58 SpVG im Folgejahr des betreffenden Abrechnungsjahrs durch Verfügung ab.
+<sup>1</sup> Das Gesundheitsamt rechnet die pauschale Abgeltung nach Artikel 58 SpVG durch Verfügung ab, sofern sich eine Streitigkeit aus dem Leistungsvertrag ergibt.
 
 ### 3.6.2 Ambulante psychiatrische Spitalversorgungsleistungen
 
@@ -350,108 +406,41 @@ beschliesst:
 
 #### Art. 20b
 
-**Pauschalen 1. Bestandteile**
+**Pauschalen**
 
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann den Listenspitälern für jede einzelne Leistung nach Artikel 20a Absatz 2 eine Pauschale pro Stunde entrichten.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann den Listenspitälern für jede einzelne Leistung nach Artikel 20a Absatz 2 eine Pauschale entrichten.
 
-<sup>2</sup> Die Pauschale wird berechnet aus
+<sup>2</sup> Die Pauschale
 
-- a den Lohnkosten,
-- b dem standardisierten prozentualen Zuschlag,
-- c dem Zuschlag für Support- und Managementkosten,
-- d dem Zuschlag für Aus- und Weiterbildungskosten, die im Zusammenhang mit einem anerkannten Lehrgang entstehen.
+- a berücksichtigt die Kosten, die bei wirtschaftlicher Leistungserbringung nicht anderweitig gedeckt werden können,
+- b berechnet sich auf der Grundlage der Kostenrechnung für den ambulanten Bereich nach Artikel 17,
+- c berechnet sich auf der Grundlage der Kosten und Erlöse sämtlicher Listenspitäler, welche die betreffende einzelne Leistung nach Absatz 1 erbringen.
+- d …
 
-<sup>3</sup> In die Bemessung der Pauschale fliessen die Kosten sämtlicher Listenspitäler ein, die diese Leistung erbringen.
+<sup>3</sup> Der Leistungsvertrag legt die Pauschale für jede einzelne Leistung in einer der folgenden Einheiten fest:
 
-#### Art. 20c
+- a pro Stunde,
+- b pro Pflegetag oder Pflegehalbtag,
+- c pro Fall,
+- d pro Taxpunkt,
+- e pro Bevölkerungseinheit,
+- f pro Leistungserbringer.
 
-**2. Lohnkosten**
+<sup>4</sup> Er kann die Pauschale für jede einzelne Leistung differenzieren nach
 
-<sup>1</sup> Die Lohnkosten werden in folgenden Schritten berechnet:
+- a dem Ort der Leistungserbringung,
+- b der Zeit der Leistungserbringung,
+- c dem behandlungsmässigen Schweregrad der Patientin oder des Patienten.
 
-- a Die Listenspitäler können als Lohnkosten die von ihnen bezahlten Bruttojahreslöhne pro Berufsgruppe in die Berechnung eingeben.
-- b Die Bruttojahreslöhne pro Berufsgruppe werden nach den Anteilen der Listenspitäler an der gesamten ambulanten Leistungserbringung gewichtet.
-- c Der Stundenlohn pro Berufsgruppe ergibt sich aus den gewichteten Bruttojahreslöhnen pro Berufsgruppe nach Buchstabe b dividiert durch die produktiven Stunden pro Jahr.
-- d Die Lohnkosten pro Stunde für eine einzelne Leistung ergeben sich aus den Stundenlöhnen der Berufsgruppen, die nach deren Anteilen an der Erbringung der Leistung gewichtet werden.
+#### Art. 20c–20g
 
-#### Art. 20d
+**…**
 
-**3. Standardisierter prozentualer Zuschlag**
-
-<sup>1</sup> Der standardisierte prozentuale Zuschlag wird in folgenden Schritten berechnet:
-
-- a Die Kosten für Sozialleistungen, die Sachkosten und die Gemeinkosten einschliesslich Anlagenutzungskosten werden für jedes Listenspital anhand der Kostenrechnung ermittelt.
-- b Die Kosten nach Buchstabe a werden für jedes Listenspital als prozentualer Anteil seiner Lohnkosten ermittelt.
-- c Aus den Anteilen aller Listenspitäler nach Buchstabe b wird der Mittelwert innerhalb einer Standardabweichung ermittelt.
-- d Die Lohnkosten pro Stunde für eine einzelne Leistung werden um den Mittelwert nach Buchstabe c erhöht.
-
-#### Art. 20e
-
-**4. Zuschlag für Support- und Managementkosten**
-
-<sup>1</sup> Der Zuschlag für Support- und Managementkosten wird in folgenden Schritten berechnet:
-
-- a Die Zeit, die auf die Support- und Managementaufgaben in den ambulanten Organisationseinheiten entfällt, wird als prozentualer Teil von jener Zeit ermittelt, die auf die Erbringung der gesamten Leistungen nach Artikel 20a Absatz 2 entfällt.
-- b Die Lohnkosten pro Stunde für eine einzelne Leistung einschliesslich des standardisierten prozentualen Zuschlags für diese Leistung werden um den prozentualen Anteil nach Buchstabe a erhöht.
-
-#### Art. 20f
-
-**5. Zuschlag für Aus- und Weiterbildungskosten**
-
-<sup>1</sup> Der Zuschlag für Aus- und Weiterbildungskosten, die im Zusammenhang mit einem anerkannten Lehrgang entstehen, wird in folgenden Schritten berechnet:
-
-- a Die Zeit, die auf die Aus- und Weiterbildung der einzelnen Berufsgruppen entfällt, wird als prozentualer Teil von jener Zeit ermittelt, die auf die Erbringung der Leistungen pro Berufsgruppe nach Artikel 20a Absatz 2 entfällt.
-- b Der Stundenlohn pro Berufsgruppe wird um den prozentualen Anteil nach Buchstabe a erhöht.
-
-<sup>2</sup> Die Aus- und Weiterbildungskosten sind für folgende Berufsgruppen zu erheben:
-
-- a Psychologinnen und Psychologen,
-- b Sozialarbeiterinnen und -arbeiter,
-- c Sozialpädagoginnen und -pädagogen,
-- d Musik-, Kunst- und Körpertherapeutinnen und -therapeuten.
-
-#### Art. 20g
-
-**6. Neuberechnung**
-
-<sup>1</sup> Die Pauschalen werden in der Regel alle drei Jahre neu berechnet.
-
-### 3.6.3 Besondere ambulante psychiatrische Spitalversorgungsleistungen
+### 3.6.3
 
 #### Art. 20h
 
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann den Listenspitälern Pauschalen für folgende Leistungen entrichten:
-
-- a von Dritten erbrachte Übersetzungsleistungen,
-- b Schultransportleistungen,
-- c Notfall- und Bereitschaftsdienste,
-- d von einer Patientin oder einem Patienten nicht bezogene Leistungen,
-- e innerhalb der Tagesklinik erbrachte Rapportleistungen.
-
-<sup>2</sup> Die Pauschale pro Stunde für Übersetzungsleistungen beträgt
-
-- a 112 Franken für die Listenspitäler, deren Hauptstandort in den Städten Bern, Biel oder Thun liegt,
-- b 160 Franken für die Listenspitäler in der Umgebung von Interlaken und Meiringen,
-- c 131 Franken für die übrigen Listenspitäler.
-
-<sup>3</sup> Die Pauschale, die pro Pflegetag in der tagesklinischen Kinder- und Jugendpsychiatrie für Schultransportleistungen entrichtet werden kann, berechnet sich aus den Transportkosten des Listenspitals, die im Vorjahr anfielen, abzüglich der Erträge für die erbrachten Transportleistungen, die das Listenspital für das Vorjahr von Dritten erhalten hat. Dieser Differenzbetrag wird durch die Anzahl Pflegetage dividiert, die das Listenspital während des Vorjahres im Rahmen des KVG leistete.
-
-<sup>4</sup> Die Pauschale pro Jahr für Notfall- und Bereitschaftsdienste beträgt
-
-- a 40‘000 Franken pro versorgter Bevölkerungseinheit von 50‘000 Personen, wenn im Listenspital rund um die Uhr eine qualifizierte Fachperson telefonisch erreichbar ist,
-- b 80‘000 Franken pro versorgter Bevölkerungseinheit von 50‘000 Personen, wenn das Listenspital mit mobilen Kriseninterventionsteams täglich von 8 bis 22 Uhr einsatzbereit ist,
-- c 40‘000 Franken pro versorgter Bevölkerungseinheit von 50‘000 Personen, wenn das Listenspital mit mobilen Kriseninterventionsteams täglich von 8 bis 18 Uhr einsatzbereit ist,
-- d 100‘000 Franken pro beteiligtes Spital, wenn ein Bereitschaftsdienst für Notfälle sowie ein fachärztlicher psychiatrischer Hintergrunddienst im Spital und am Wohnort rund um die Uhr einsatzbereit sind,
-- e 50‘000 Franken pro beteiligtes Spital, wenn ein Bereitschaftsdienst für Notfälle sowie ein fachärztlicher psychiatrischer Hintergrunddienst im Spital rund um die Uhr einsatzbereit sind.
-
-<sup>5</sup> Die Pauschale für nicht bezogene Leistungen beträgt
-
-- a einen Viertel der nach Artikel 20b bis 20f berechneten Pauschale für die bereitgestellte ambulante Leistung,
-- b die Hälfte der nach Artikel 20b bis 20f berechneten Pauschale für die bereitgestellte tagesklinische Leistung.
-
-<sup>6</sup> Die Pauschale, die der Kanton pro Pflegetag in der Tagesklinik für Rapportleistungen entrichtet, berechnet sich analog nach Artikel 20b bis 20f aus den durchschnittlichen Kosten aller Listenspitäler pro Pflegetag.
-
-<sup>7</sup> Die Pauschalen werden in der Regel alle drei Jahre neu berechnet.
+**…**
 
 ### 3.6.4 Darlehen
 
@@ -533,7 +522,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton entrichtet den Rettungsdiensten eine Abgeltung für die Aufrechterhaltung der Einsatzbereitschaft. Sie entspricht höchstens der Differenz zwischen dem genormten Betriebsaufwand und den Erträgen.
 
-<sup>2</sup> Der genormte Betriebsaufwand beträgt 1‘754‘572 Franken pro Rettungsteam und Jahr mit elf Vollzeitstellen, wobei die notärztlichen Stellen darin enthalten sind.
+<sup>2</sup> Der genormte Betriebsaufwand wird pro Rettungsteam und Jahr mit elf Vollzeitstellen berechnet, wobei die notärztlichen Stellen darin enthalten sind.
 
 <sup>3</sup> Sofern der Rettungsdienst den Versicherten oder deren Versicherern die geleisteten Einsätze nicht kostendeckend in Rechnung gestellt hat, wird die Abgeltung um den nicht in Rechnung gestellten Betrag gekürzt.
 
@@ -545,9 +534,9 @@ beschliesst:
 
 **2. Änderung des genormten Betriebsaufwands**
 
-<sup>1</sup> Der genormte Betriebsaufwand wird alle drei Jahre zwischen den Kosten des zweit- und drittgünstigsten Rettungsdienstes, mit denen die Gesundheits-, Sozial- und Integrationsdirektion in den vorangehenden drei Jahren Leistungsverträge abgeschlossen hat, neu festgelegt.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion legt den genormten Betriebsaufwand alle drei Jahre zwischen den Kosten des zweit- und drittgünstigsten Rettungsdienstes, mit denen sie in den vergangenen drei Jahren Leistungsverträge abgeschlossen hat, neu fest.
 
-<sup>2</sup> Er kann im Leistungsvertrag erhöht werden, wenn die regionale Versorgung mit Rettungsleistungen gefährdet ist.
+<sup>2</sup> Der genormte Betriebsaufwand kann im Leistungsvertrag erhöht werden, wenn die regionale Versorgung mit Rettungsleistungen gefährdet ist.
 
 #### Art. 28
 
@@ -583,13 +572,13 @@ beschliesst:
 
 <sup>3</sup> Die Leistungserbringer unterstützen die bei ihnen in Weiterbildung stehenden Ärztinnen und Ärzte beim Absolvieren einer Praxisassistenz in einer Hausarztpraxis.
 
-### 5.2 Aus- und Weiterbildung in nicht universitären Gesundheitsberufen
+### 5.2 Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen
 
 #### Art. 32
 
-**Nicht universitäre Gesundheitsberufe**
+**Nichtuniversitäre Gesundheitsberufe**
 
-<sup>1</sup> Die Leistungserbringer beteiligen sich an der Aus- und Weiterbildung in den nicht universitären Gesundheitsberufen gemäss Anhang 1.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion regelt durch Verordnung, bei welchen nichtuniversitären Gesundheitsberufen sich die Leistungserbringer an der Aus- und Weiterbildung beteiligen.
 
 #### Art. 33
 
@@ -599,7 +588,7 @@ beschliesst:
 
 <sup>2</sup> Der Standard legt fest, wie viele Aus- oder Weiterbildungswochen ein Leistungserbringer pro Vollzeitstelle, die in seinem Betrieb im betreffenden Gesundheitsberuf besteht, pro Jahr erbringen muss.
 
-<sup>3</sup> Anhang 2 enthält die Standards für die einzelnen Gesundheitsberufe.
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion regelt die Standards für die einzelnen Gesundheitsberufe durch Verordnung.
 
 #### Art. 34
 
@@ -607,7 +596,7 @@ beschliesst:
 
 <sup>1</sup> Die Gewichtung der Aus- und Weiterbildungen beachtet insbesondere den in der Versorgungsplanung erhobenen Bedarf an Aus- und Weiterbildungen.
 
-<sup>2</sup> Anhang 3 enthält die Gewichtung der Aus- und Weiterbildungen.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion regelt die Gewichtung der Aus- und Weiterbildungen durch Verordnung.
 
 #### Art. 35
 
@@ -617,7 +606,7 @@ beschliesst:
 
 <sup>2</sup> Sie entspricht dem Aus- und Weiterbildungsaufwand, den die in Aus- oder Weiterbildung stehende Person verursacht.
 
-<sup>3</sup> Anhang 4 enthält die Abgeltungen für die einzelnen Aus- und Weiterbildungen.
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion regelt die Abgeltungen für die einzelnen Aus- und Weiterbildungen durch Verordnung.
 
 #### Art. 36
 
@@ -653,7 +642,7 @@ beschliesst:
 
 **Abgeltung der Aus- und Weiterbildungsleistung**
 
-<sup>1</sup> Das Gesundheitsamt entrichtet für die durch den Leistungserbringer erbrachte Aus- und Weiterbildungsleistung die Abgeltung gemäss Anhang 4, abzüglich der Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer gemäss KVG erhält.
+<sup>1</sup> Das Gesundheitsamt entrichtet für die durch den Leistungserbringer erbrachte Aus- und Weiterbildungsleistung die von der Gesundheits-, Sozial- und Integrationsdirektion festgelegte Abgeltung, abzüglich der Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer gemäss KVG erhält.
 
 <sup>2</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung unter der Summe, die der Leistungserbringer nach Artikel 38 Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt der Leistungserbringer die Differenz an das Gesundheitsamt.
 
@@ -720,11 +709,19 @@ beschliesst:
 
 ## 6 Aufsicht und Betriebsbewilligung
 
-### 6.1 Allgemeine Bewilligungsvoraussetzung
+### 6.1 Allgemeine Bestimmungen
 
 #### Art. 41
 
+**Mehrere Standorte**
+
 <sup>1</sup> Sofern das Spital, das Geburtshaus oder der Rettungsdienst mehrere Standorte hat, müssen die Bewilligungsvoraussetzungen an allen Standorten erfüllt sein.
+
+#### Art. 41a
+
+**Nachweis der Bewilligungsvoraussetzungen**
+
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann elektronische Messsysteme oder –programme bestimmen, welche die Spitäler, Geburtshäuser und Rettungsdienste zum Nachweis der Bewilligungsvoraussetzungen zu verwenden haben.
 
 ### 6.2 Bewilligungsvoraussetzungen für Spitäler und Geburtshäuser
 
@@ -794,17 +791,17 @@ beschliesst:
 - c die Anzahl Mitarbeiterinnen und Mitarbeiter sowie deren Ausbildung,
 - d die Anzahl Transportmittel sowie deren Ausrüstung.
 
-## 7 Datenlieferung
+## 7 Datenlieferung der Leistungserbringer
 
 #### Art. 48
 
-<sup>1</sup> Die Erbringer von Spitalleistungen und die Geburtshäuser liefern der Gesundheits-, Sozial- und Integrationsdirektion die Daten gemäss Anhang 5.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion regelt die Art und den Umfang der Daten sowie den Zeitpunkt ihrer Lieferung durch Verordnung.
 
-<sup>2</sup> Die Erbringer von Rettungsleistungen liefern der Gesundheits-, Sozial- und Integrationsdirektion die Daten gemäss Anhang 6.
+<sup>2</sup> …
 
 <sup>3</sup> Das Gesundheitsamt kann weitere Daten erheben, die für die Aufsichtstätigkeit erforderlich sind. Die Daten sind so weit zu anonymisieren, dass Rückschlüsse auf andere Personen als die Leistungserbringer ausgeschlossen sind.
 
-<sup>4</sup> Die Leistungserbringer übermitteln dem Gesundheitsamt die Daten gemäss den Ziffern 1, 5, 5a sowie 6 bis 6b des Anhangs 5 auf der elektronischen Plattform, die ihnen das Gesundheitsamt zur Verfügung stellt.
+<sup>4</sup> …
 
 ## 8 Übergangsbestimmungen
 
