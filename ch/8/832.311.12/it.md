@@ -3,18 +3,18 @@ sr: "832.311.12"
 title: Ordinanza del 15 aprile 2015 sulla sicurezza dei lavoratori nei lavori in condizioni di sovrappressione
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/239"
 language: it
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2015-04-15
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/239/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2015-239-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/239/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/239/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-239-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/239/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla sicurezza dei lavoratori nei lavori in condizioni di sovrappressione
 
-del 15 aprile 2015 (Stato 1° gennaio 2018)
+del 15 aprile 2015 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -39,10 +39,11 @@ Si considerano lavori in condizioni di sovrappressione:
 - a. i lavori di costruzione in aria compressa che hanno luogo in un ambiente chiuso e non prevedono l’immersione;
 - b. i lavori in immersione in cui il lavoratore subacqueo, munito dell’apposita attrezzatura, opera sotto la superficie dell’acqua.
 
-<sup>3</sup> Oltre alla presente ordinanza sono segnatamente applicabili l’ordinanza del 19 dicembre 1983[^1-1] sulla prevenzione degli infortuni (OPI) e l’ordinanza del 29 giugno 2005[^1-2] sui lavori di costruzione.
+<sup>3</sup> Oltre alla presente ordinanza sono segnatamente applicabili l’ordinanza del 19 dicembre 1983[^1-1] sulla prevenzione degli infortuni (OPI) e l’ordinanza del 18 giugno 2021[^1-2] sui lavori di costruzione (OLCostr).[^1-3]
 
 [^1-1]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
 [^1-2]: [RS 832.311.141](https://fedlex.data.admin.ch/eli/cc/2021/384)
+[^1-3]: Nuovo testo giusta l’art. 122 cpv. 2 dell’O del 18 giu. 2021 sui lavori di costruzione, in vigore dal 1° gen. 2022 ([RU 2021 384](https://fedlex.data.admin.ch/eli/oc/2021/384)).
 
 #### Art. 2
 
@@ -50,7 +51,7 @@ Si considerano lavori in condizioni di sovrappressione:
 
 Ai sensi della presente ordinanza s’intende per:
 
-- a. *aria compressa*: aria respirabile o gas respirabile con una pressione di lavoro superiore a 0,1 bar;
+- a. *aria compressa:* aria respirabile o gas respirabile con una pressione di lavoro superiore a 0,1 bar;
 - b. *aria respirabile:* aria dell’atmosfera o miscela di gas tecnicamente prodotta la cui composizione equivale all’aria atmosferica;
 - c. *gas respirabile:* miscela di gas che per motivi medici è più indicata dell’aria atmosferica;
 - d. *pressione di lavoro:* sovrappressione superiore alla pressione atmosferica sul luogo di lavoro, nella camera di decompressione oppure nella camera di equilibrio per persone, espressa in bar;
@@ -58,7 +59,7 @@ Ai sensi della presente ordinanza s’intende per:
 - f. *camera di equilibrio:* spazio in cui si trovano persone o materiale durante l’aumento della pressione fino alla pressione di lavoro oppure durante l’abbassamento della pressione fino alla pressione atmosferica;
 - g. *camera di decompressione:* spazio in cui le persone possono essere trattate dal punto di vista medico mediante una variazione della pressione di lavoro;
 - h. *decompressione:* procedimento che mira a un’ordinata desaturazione del corpo dall’azoto, a partire dalla saturazione esistente alla pressione di lavoro fino a raggiungere una saturazione residua senza rischi per la salute a pressione atmosferica;
-- i. *sosta di decompressione*: interruzione della decompressione a una pressione motivata da ragioni di medicina del lavoro.
+- i. *sosta di decompressione:* interruzione della decompressione a una pressione motivata da ragioni di medicina del lavoro.
 
 #### Art. 3
 
@@ -750,9 +751,9 @@ Deve essere creata una rete di comunicazione che consenta di stabilire un adegua
 
 <sup>3</sup> A partire da una profondità di immersione di dieci metri, i parametri di immersione quali la profondità di immersione, la durata di immersione e i tempi di decompressione devono poter essere sorvegliati.
 
-<sup>4</sup> È possibile rinunciare al collegamento vocale di cui al capoverso 2 durante gli interventi in immersione forensi, di salvataggio, di ricerca e di recupero, segnatamente dinamici, svolti dai lavoratori subacquei della polizia e di salvataggio, nonché durante la rispettiva formazione di base in immersione subacquea, la formazione continua e le immersioni di allenamento dei lavoratori subacquei della polizia e di salvataggio, se è necessario segnatamente in ragione delle correnti, della topografia subacquea, di ostacoli in acqua e per la penetrazione in oggetti da recuperare. [^50-1]
+<sup>4</sup> È possibile rinunciare al collegamento vocale di cui al capoverso 2 durante gli interventi in immersione forensi, di salvataggio, di ricerca e di recupero, segnatamente dinamici, svolti dai lavoratori subacquei della polizia e di salvataggio, nonché durante la rispettiva formazione di base in immersione subacquea, la formazione continua e le immersioni di allenamento dei lavoratori subacquei della polizia e di salvataggio, se è necessario segnatamente in ragione delle correnti, della topografia subacquea, di ostacoli in acqua e per la penetrazione in oggetti da recuperare.[^50-1]
 
-<sup>5</sup> Nel quadro della loro attività di formazione professionale, gli istruttori subacquei possono immergersi senza il collegamento vocale di cui al capoverso 2. [^50-2]
+<sup>5</sup> Nel quadro della loro attività di formazione professionale, gli istruttori subacquei possono immergersi senza il collegamento vocale di cui al capoverso 2.[^50-2]
 
 [^50-1]: Introdotto dal n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2018 ([RU 2016 3239](https://fedlex.data.admin.ch/eli/oc/2016/545)).
 [^50-2]: Introdotto dal n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2018 ([RU 2016 3239](https://fedlex.data.admin.ch/eli/oc/2016/545)).
@@ -913,7 +914,7 @@ L’ordinanza del 20 gennaio 1961[^60-1] concernente le misure tecniche di preve
 
 **Modifica di un altro atto normativo**
 
-...[^61-1]
+…[^61-1]
 
 [^61-1]: La mod. può essere consultata alla [RU 2015 1187](https://fedlex.data.admin.ch/eli/oc/2015/239).
 

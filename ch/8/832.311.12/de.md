@@ -3,18 +3,18 @@ sr: "832.311.12"
 title: Verordnung vom 15. April 2015 über die Sicherheit der Arbeitnehmerinnen und Arbeitnehmer bei Arbeiten im Überdruck
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/239"
 language: de
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2015-04-15
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/239/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2015-239-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/239/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/239/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-239-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/239/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Sicherheit der Arbeitnehmerinnen und Arbeitnehmer bei Arbeiten im Überdruck
 
-vom 15. April 2015 (Stand am 1. Januar 2018)
+vom 15. April 2015 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -39,10 +39,11 @@ Als Arbeiten im Überdruck gelten:
 - a. Bauarbeiten in Druckluft, die in einer geschlossenen Umgebung stattfinden und bei denen nicht getaucht werden muss;
 - b. Taucherarbeiten, wenn sich die Taucherin oder der Taucher, ausgerüstet mit einer Taucherausrüstung, unter der Wasseroberfläche befindet.
 
-<sup>3</sup> Neben dieser Verordnung gelten insbesondere die Verordnung vom 19. Dezember 1983[^1-1] über die Unfallverhütung (VUV) und die Bauarbeitenverordnung vom 29. Juni 2005[^1-2].
+<sup>3</sup> Neben dieser Verordnung gelten insbesondere die Verordnung vom 19. Dezember 1983[^1-1] über die Unfallverhütung (VUV) und die Bauarbeitenverordnung vom 18. Juni 2021[^1-2].[^1-3]
 
 [^1-1]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
 [^1-2]: [SR 832.311.141](https://fedlex.data.admin.ch/eli/cc/2021/384)
+[^1-3]: Fassung gemäss Art. 122 Abs. 2 der Bauarbeitenverordnung vom 18. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 384](https://fedlex.data.admin.ch/eli/oc/2021/384)).
 
 #### Art. 2
 

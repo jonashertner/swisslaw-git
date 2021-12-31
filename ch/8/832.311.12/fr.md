@@ -3,18 +3,18 @@ sr: "832.311.12"
 title: Ordonnance du 15 avril 2015 sur la sécurité des travailleurs lors de travaux en milieu hyperbare
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/239"
 language: fr
-version: 2018-01-01
+version: 2022-01-01
 adopted: 2015-04-15
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/239/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-239-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/239/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/239/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-239-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/239/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la sécurité des travailleurs lors de travaux en milieu hyperbare
 
-du 15 avril 2015 (Etat le 1<sup>er</sup> janvier 2018)
+du 15 avril 2015 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -39,10 +39,11 @@ Sont considérés comme des travaux en milieu hyperbare:
 - a. les travaux de construction effectués dans l’air comprimé qui sont réalisés dans un espace fermé et ne nécessitent pas de plongée;
 - b. les travaux de scaphandriers, lorsque ces derniers portent un équipement de plongée et se trouvent sous la surface de l’eau.
 
-<sup>3</sup> Outre la présente ordonnance, sont également applicables: l’ordonnance du 19 décembre 1983 sur la prévention des accidents (OPA)[^1-1] et l’ordonnance du 29 juin 2005 sur les travaux de construction[^1-2].
+<sup>3</sup> Outre la présente ordonnance, sont également applicables: l’ordonnance du 19 décembre 1983 sur la prévention des accidents (OPA)[^1-1] et l’ordonnance du 18 juin 2021 sur les travaux de construction[^1-2].[^1-3]
 
 [^1-1]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
 [^1-2]: [RS 832.311.141](https://fedlex.data.admin.ch/eli/cc/2021/384)
+[^1-3]: Nouvelle teneur selon l’art. 122, al. 2, de l’O du 18 juin 2021 sur les travaux de construction, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 384](https://fedlex.data.admin.ch/eli/oc/2021/384)).
 
 #### Art. 2
 
@@ -105,7 +106,7 @@ Outre la déclaration d’accident ordinaire au sens de l’art. 45, al. 1, LAA,
 
 <sup>1</sup> Les travaux en milieu hyperbare sont planifiés et préparés de façon à ce que le risque d’accidents ou d’atteintes à la santé soit le plus faible possible et que les mesures de sécurité nécessaires puissent être respectées, notamment lors de l’utilisation de substances, de produits et d’équipements de travail et lors de l’application de procédés de travail.
 
-<sup>2</sup> A cet effet, l’employeur veille à ce qu’un concept de sécurité et de protection de la santé, précisant les mesures fixées dans la présente ordonnance, soit établi par écrit avant le début des travaux en milieu hyperbare.
+<sup>2</sup> À cet effet, l’employeur veille à ce qu’un concept de sécurité et de protection de la santé, précisant les mesures fixées dans la présente ordonnance, soit établi par écrit avant le début des travaux en milieu hyperbare.
 
 <sup>3</sup>
 
@@ -210,7 +211,7 @@ Le conducteur de travaux fixe:
 
 **Position du conducteur de travaux par rapport à la CNA**
 
-<sup>1</sup> A la demande de la CNA, le conducteur de travaux informe celle-ci de ses activités et lui donne accès aux documents. La CNA informe l’employeur.
+<sup>1</sup> À la demande de la CNA, le conducteur de travaux informe celle-ci de ses activités et lui donne accès aux documents. La CNA informe l’employeur.
 
 <sup>2</sup> La CNA conseille et soutient le conducteur de travaux.
 
@@ -285,7 +286,7 @@ La formation est axée sur les travaux en milieu hyperbare et comprend au moins 
 Il veille en particulier:
 
 - a. à ce qu’un essai de mise en sas ou un essai de plongée soit effectué avant le début des travaux en milieu hyperbare, sous la surveillance du conducteur de travaux ou du médecin du travail compétent;
-- b. à ce que les cinq premières interventions en milieu hyperbare soient accompagnées par une personne expérimentée; et
+- b. à ce que les cinq premières interventions en milieu hyperbare soient accompagnées par une personne expérimentée, et
 - c. à ce que le séjour en milieu hyperbare pendant les trois premières interventions ne dure que 50 % du temps de séjour généralement admissible et que le travailleur n’effectue que des travaux légers.
 
 #### Art. 19
@@ -748,7 +749,7 @@ Un réseau de communication permettant une communication verbale adéquate entre
 
 <sup>2</sup> Entre le scaphandrier et le signaleur, une communication verbale correspondant à l’état de la technique doit être établie.
 
-<sup>3</sup> A partir d’une profondeur de plongée de dix mètres, les paramètres essentiels de plongée, tels que la profondeur de plongée, la durée de la plongée et les temps de décompression doivent pouvoir être surveillés.
+<sup>3</sup> À partir d’une profondeur de plongée de dix mètres, les paramètres essentiels de plongée, tels que la profondeur de plongée, la durée de la plongée et les temps de décompression doivent pouvoir être surveillés.
 
 <sup>4</sup> Il est possible de renoncer à la communication verbale visée à l’al. 2 pour les travaux médico-légaux, les travaux de sauvetage, de recherche, et de renflouage, notamment les plongées dynamiques, effectués par des scaphandriers de police ou de sauvetage, ainsi que pour la formation de plongée de base correspondante, pour la formation continue et pour les entraînements de plongée des scaphandriers de police ou de sauvetage, notamment si cela s’avère nécessaire en raison des courants, de la topographie subaquatique, d’obstacles dans l’eau ou pour pénétrer dans des objets à renflouer.[^50-1]
 
