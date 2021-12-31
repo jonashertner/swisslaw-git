@@ -4,11 +4,11 @@ title: "Verordnung vom 14. Oktober 2009 über die Tabakbesteuerung (Tabaksteuerv
 short: TStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/677"
 language: de
-version: 2015-05-01
+version: 2022-01-01
 adopted: 2009-10-14
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20150501/de/xml/fedlex-data-admin-ch-eli-cc-2009-677-20150501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20150501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-677-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20150501/de"
 
 (Tabaksteuerverordnung, TStV)
 
-vom 14. Oktober 2009 (Stand am 1. Mai 2015)
+vom 14. Oktober 2009 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -48,7 +48,7 @@ Als Rohmaterial gelten:
 
 ### (Art. 1 Abs. 2 TStG)
 
-<sup>1</sup> Als Tabakfabrikate gelten die Erzeugnisse, die unter den Zolltarifnummern[^2-1] 2402.1000/9000, 2403.1100/1900, 2403.9910 und 2403.9990 aufgeführt sind.[^2-2]
+<sup>1</sup> Als Tabakfabrikate gelten die Erzeugnisse, die unter den Zolltarifnummern[^2-1] 2402.1000/9000, 2403.1100/1900, 2403.9910, 2403.9990 und 2404.1100 aufgeführt sind.[^2-2]
 
 <sup>2</sup> Als Zigarren gelten namentlich Kopfzigarren, Stumpen, Zigarillos, Kiele, Toscani und Virginia, die ganz oder teilweise aus Tabakeinlage bestehen, mit oder ohne Umblatt, und die mit einem Deckblatt aus natürlichen Tabakblättern oder homogenisiertem Tabak versehen sind, sofern solche Erzeugnisse nicht nach Absatz 3 als Zigaretten gelten.
 
@@ -81,7 +81,7 @@ Als Feinschnitttabak gilt Rauchtabak, wenn bei diesem:
 <sup>6</sup> Als Feinschnitttabak gilt auch Wasserpfeifentabak der Zolltarifnummer 2403.1100.[^2-3]
 
 [^2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang. Der Generaltarif und seine Änderungen werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Der Text kann im Internet unter www.ezv.admin.ch eingesehen werden. Die Änderungen werden ebenfalls in den Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann.
-[^2-2]: Fassung gemäss Anhang 3 Ziff. 12 der V vom 22. Juni 2011 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2012 ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-2]: Fassung gemäss Anhang 3 Ziff. 12 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-3]: Eingefügt durch Ziff. I der V vom 29. April 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1249](https://fedlex.data.admin.ch/eli/oc/2015/255)).
 
 #### Art. 3
@@ -209,7 +209,7 @@ Die Ausfuhrzollanmeldung für Tabakfabrikate, für welche die Rückerstattung de
 
 Die steuerpflichtige Person muss Gesuche um Rückerstattung der Steuer nach Artikel 24 Absatz 1 TStG auf amtlichem Formular innerhalb folgender Fristen bei der Oberzolldirektion einreichen:
 
-- a.[^11-1] für Tabakfabrikate, die unter Zollüberwachung über die von der Zollverwaltung bestimmten Zollstellen ins Zollausland ausgeführt oder in einen inländischen Zollfreiladen nach Artikel 17 Absatz 1<sup>bis</sup> des Zollgesetzes vom 18. März 2005[^11-2] verbracht werden, innerhalb eines Jahres nach der Ausfuhrveranlagung;
+- a.[^11-1] für Tabakfabrikate, die unter Zollüberwachung über die von dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^11-2] bestimmten Zollstellen ins Zollausland ausgeführt oder in einen inländischen Zollfreiladen nach Artikel 17 Absatz 1<sup>bis</sup> des Zollgesetzes vom 18. März 2005[^11-3] verbracht werden, innerhalb eines Jahres nach der Ausfuhrveranlagung;
 - b. für Tabakfabrikate, die sich noch beim Hersteller oder Importeur befinden oder die der Hersteller, der Importeur oder der Betreiber vom Tabakwarenhandel zurücknimmt, innerhalb von zwei Jahren nach der Entrichtung der Steuer;
 - c. für Tabakfabrikate, die nachweislich im Betrieb des Herstellers oder des Importeurs durch höhere Gewalt oder durch Zufall vernichtet worden oder unbrauchbar geworden sind, innerhalb von 30 Tagen ab der Feststellung des Schadens.
 
@@ -220,7 +220,8 @@ Die steuerpflichtige Person muss Gesuche um Rückerstattung der Steuer nach Arti
 <sup>4</sup> Die Oberzolldirektion kann von der gesuchstellenden Person die Bescheinigung einer ausländischen Zollbehörde über die Ein- oder Durchfuhrveranlagung verlangen.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 20. April 2011, in Kraft seit 1. Juni 2011 ([AS 2011 1751](https://fedlex.data.admin.ch/eli/oc/2011/266)).
-[^11-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^11-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 (AS 2015 3989) auf den 1. Jan. 2022 angepasst. Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^11-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 12
 
@@ -366,10 +367,10 @@ Die Bewilligung für ein zugelassenes Steuerlager erlischt:
 
 ### (Art. 26*a* Abs. 2 TStG)
 
-Der Betreiber muss der Zollverwaltung kostenlos zur Verfügung stellen:
+Der Betreiber muss dem BAZG kostenlos zur Verfügung stellen:
 
 - a. die für die Aufsicht benötigten Räumlichkeiten und Anlagen mit den erforderlichen Einrichtungen (Heizung, Beleuchtung und Wasseranschlüsse);
-- b. das zur Unterstützung der Zollverwaltung erforderliche geeignete Personal.
+- b. das zur Unterstützung des BAZG erforderliche geeignete Personal.
 
 #### Art. 22
 
@@ -477,7 +478,7 @@ Das Verfahren endet:
 
 <sup>1</sup> Wer Tabakfabrikate in einem offenen Zolllager bearbeiten und bewirtschaften will, muss dies der Oberzolldirektion vorgängig schriftlich melden.
 
-<sup>2</sup> Die Lagerhalterin oder der Lagerhalter oder die Einlagererin oder der Einlagerer muss für Tabakfabrikate in einem offenen Zolllager Bestandesaufzeichnungen führen. Diese richten sich nach Artikel 184 der Zollverordnung vom 1. November 2006[^29-2]. Die Zollverwaltung kann im Einzelfall die Aufzeichnung weiterer Angaben verlangen, soweit dies für die Kontrolle der eingelagerten Waren erforderlich ist.
+<sup>2</sup> Die Lagerhalterin oder der Lagerhalter oder die Einlagererin oder der Einlagerer muss für Tabakfabrikate in einem offenen Zolllager Bestandesaufzeichnungen führen. Diese richten sich nach Artikel 184 der Zollverordnung vom 1. November 2006[^29-2]. Das BAZG kann im Einzelfall die Aufzeichnung weiterer Angaben verlangen, soweit dies für die Kontrolle der eingelagerten Waren erforderlich ist.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 20. Aug. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2779](https://fedlex.data.admin.ch/eli/oc/2014/481)).
 [^29-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
@@ -600,7 +601,7 @@ Nach Abschluss des Erntejahrs muss die SOTA der Oberzolldirektion einen Jahresbe
 
 **Statistiken**
 
-<sup>1</sup> Die Zollverwaltung kann die Angaben über die versteuerten Tabakfabrikate zu statistischen Zwecken verwenden. Sie beachtet dabei die Anforderungen des Datenschutzes.
+<sup>1</sup> Das BAZG kann die Angaben über die versteuerten Tabakfabrikate zu statistischen Zwecken verwenden. Sie beachtet dabei die Anforderungen des Datenschutzes.
 
 <sup>2</sup> Sie kann die Statistiken veröffentlichen.
 
@@ -608,7 +609,7 @@ Nach Abschluss des Erntejahrs muss die SOTA der Oberzolldirektion einen Jahresbe
 
 **Gebühren**
 
-Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^40-1] über die Gebühren der Zollverwaltung.
+Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^40-1] über die Gebühren des BAZG.
 
 [^40-1]: [SR 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
 
@@ -620,7 +621,7 @@ Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^40-1] 
 
 <sup>1</sup> Das Eidgenössische Finanzdepartement regelt, bis zu welchem Betrag kein Verzugszins erhoben wird.
 
-<sup>2</sup> Die Zollverwaltung kann auf Gesuch hin auf die Erhebung des Verzugszinses verzichten, wenn die Zahlung für den Hersteller unzumutbar ist.
+<sup>2</sup> Das BAZG kann auf Gesuch hin auf die Erhebung des Verzugszinses verzichten, wenn die Zahlung für den Hersteller unzumutbar ist.
 
 ## 9. Abschnitt: Bezugsprovision
 
@@ -628,7 +629,7 @@ Die Gebührenerhebung richtet sich nach der Verordnung vom 4. April 2007[^40-1] 
 
 ### (Art. 48 TStG)
 
-Die Zollverwaltung wird für ihren Aufwand mit 2,5 Prozent der Gesamteinnahmen (Bruttoertrag) entschädigt.
+Das BAZG wird für ihren Aufwand mit 2,5 Prozent der Gesamteinnahmen (Bruttoertrag) entschädigt.
 
 ## 10. Abschnitt: Schlussbestimmungen
 
@@ -638,7 +639,7 @@ Die Zollverwaltung wird für ihren Aufwand mit 2,5 Prozent der Gesamteinnahmen (
 
 Die Tabaksteuerverordnung vom 15. Dezember 1969[^43-1] wird aufgehoben.
 
-[^43-1]: [[AS 1969 1274](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289), [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)Art. 4 Abs. 1, **1987** 2474, [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)Ziff. I 5, [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590), [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376), [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 25, [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419)Ziff. II]
+[^43-1]: [[AS 1969 1274](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289); [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)Art. 4 Abs. 1, **1987** 2474; [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)Ziff. I 5; [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590); [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376); [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 25; [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419)Ziff. II]
 
 #### Art. 44
 
@@ -646,7 +647,7 @@ Die Tabaksteuerverordnung vom 15. Dezember 1969[^43-1] wird aufgehoben.
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^44-1]
+...[^44-1]
 
 [^44-1]: Die Änderungen können unter [AS 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)konsultiert werden.
 

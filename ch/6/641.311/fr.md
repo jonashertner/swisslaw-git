@@ -4,11 +4,11 @@ title: "Ordonnance du 14 octobre 2009 sur l'imposition du tabac (OITab)"
 short: OITab
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/677"
 language: fr
-version: 2015-05-01
+version: 2022-01-01
 adopted: 2009-10-14
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20150501/fr/xml/fedlex-data-admin-ch-eli-cc-2009-677-20150501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20150501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-677-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20150501/fr"
 
 (OITab)
 
-du 14 octobre 2009 (Etat le 1<sup>er</sup> mai 2015)
+du 14 octobre 2009 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -48,7 +48,7 @@ Sont réputés matières brutes:
 
 ### (art. 1, al. 2, LTab)
 
-<sup>1</sup> Sont réputés tabacs manufacturés les produits mentionnés au tarif des douanes sous les numéros[^2-1] 2402.1000/9000, 2403.1100/1900, 2403.9910 et 2403.9990.[^2-2]
+<sup>1</sup> Sont réputés tabacs manufacturés les produits mentionnés au tarif des douanes sous les numéros[^2-1] 2402.1000/9000, 2403.1100/1900, 2403.9910, 2403.9990 et 2404.1100.[^2-2]
 
 <sup>2</sup> Sont notamment réputés cigares les bouts tournés, bouts, cigarillos, plumes, toscani et virginies, dont l’intérieur se compose en tout ou en partie de tabac avec ou sans sous-cape, et qui sont pourvus d’une couverture en tabac naturel ou homogénéisé, à moins que ces produits ne soient réputés cigarettes au sens de l’al. 3.
 
@@ -81,7 +81,7 @@ Est réputé tabac à coupe fine le tabac à fumer pour lequel:
 <sup>6</sup> Est également réputé tabac à coupe fine le tabac pour pipe à eau mentionné au tarif des douanes sous le numéro 2403.1100.[^2-3]
 
 [^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe. Selon l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général et ses mod. ne sont pas publiés au RO. Le texte peut être consulté sur Internet à l’adresse www.ezv.admin.ch. Les mod. sont également reprises dans le tarif douanier, qui peut être consulté sur Internet à l’adresse www.tares.ch.
-[^2-2]: Nouvelle teneur selon le ch. 12 de l’annexe 3 à l’O du 22 juin 2011 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-2]: Nouvelle teneur selon l’annexe 3 ch. 12 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-3]: Introduit par le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> mai 2015 ([RO 2015 1249](https://fedlex.data.admin.ch/eli/oc/2015/255)).
 
 #### Art. 3
@@ -209,7 +209,7 @@ La déclaration en douane d’exportation des tabacs manufacturés pour lesquels
 
 La personne assujettie doit demander le remboursement de l’impôt fondé sur l’art. 24, al. 1, LTab à la Direction générale des douanes, sur formulaire officiel, dans les délais suivants:
 
-- a.[^11-1] tabacs manufacturés exportés vers le territoire douanier étranger ou acheminés dans une boutique hors taxes indigène au sens de l’art. 17, al. 1<sup>bis</sup>, de la loi du 18 mars 2005 sur les douanes[^11-2] sous surveillance douanière et via les bureaux de douane désignés par l’administration des douanes: une année à compter de la taxation à l’exportation;
+- a.[^11-1] tabacs manufacturés exportés vers le territoire douanier étranger ou acheminés dans une boutique hors taxes indigène au sens de l’art. 17, al. 1<sup>bis</sup>, de la loi du 18 mars 2005 sur les douanes[^11-2] sous surveillance douanière et via les bureaux de douane désignés par l’Office fédéral de la douane et de la sécurité des frontières[^11-3] : une année à compter de la taxation à l’exportation;
 - b. tabacs manufacturés qui se trouvent encore chez le fabricant ou l’importateur ou que le fabricant, l’importateur ou l’exploitant retire du marché: délai de deux ans à compter du paiement de l’impôt;
 - c. tabacs manufacturés qui ont été manifestement détruits ou rendus inutilisables, par force majeure ou fortuitement: 30 jours à compter de la constatation du dégât.
 
@@ -221,6 +221,7 @@ La personne assujettie doit demander le remboursement de l’impôt fondé sur l
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 20 avr. 2011, en vigueur depuis le 1<sup>er</sup> juin 2011 ([RO 2011 1751](https://fedlex.data.admin.ch/eli/oc/2011/266)).
 [^11-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^11-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022. Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 12
 
@@ -366,10 +367,10 @@ L’autorisation d’exploiter un entrepôt fiscal agréé s’éteint:
 
 ### (art. 26*a*, al. 2, LTab)
 
-L’exploitant doit mettre gratuitement à disposition de l’administration des douanes:
+L’exploitant doit mettre gratuitement à disposition de l’Office fédéral de la douane et de la sécurité des frontières:
 
 - a. les locaux et installations nécessaires à la surveillance, avec les équipements nécessaires (chauffage, éclairage et eau courante);
-- b. le personnel apte nécessaire au soutien de l’administration des douanes.
+- b. le personnel apte nécessaire au soutien de l’Office fédéral de la douane et de la sécurité des frontières.
 
 #### Art. 22
 
@@ -477,7 +478,7 @@ La procédure prend fin:
 
 <sup>1</sup> Quiconque souhaite traiter ou gérer des tabacs manufacturés dans un entrepôt douanier ouvert doit l’annoncer préalablement par écrit à la Direction générale des douanes.
 
-<sup>2</sup> L’entreposeur ou l’entrepositaire doit tenir un inventaire des tabacs manufacturés placés dans un entrepôt douanier ouvert. Cet inventaire est régi par l’art. 184 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^29-2]. Dans le cas particulier, l’administration des douanes peut exiger que des indications supplémentaires y soient enregistrées si cela est nécessaire au contrôle des marchandises entreposées.
+<sup>2</sup> L’entreposeur ou l’entrepositaire doit tenir un inventaire des tabacs manufacturés placés dans un entrepôt douanier ouvert. Cet inventaire est régi par l’art. 184 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^29-2]. Dans le cas particulier, l’Office fédéral de la douane et de la sécurité des frontières peut exiger que des indications supplémentaires y soient enregistrées si cela est nécessaire au contrôle des marchandises entreposées.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 20 août 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2779](https://fedlex.data.admin.ch/eli/oc/2014/481)).
 [^29-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
@@ -600,7 +601,7 @@ A l’issue de l’année de récolte, la SOTA envoie à la Direction générale
 
 **Statistiques**
 
-<sup>1</sup> L’administration des douanes peut utiliser les données relatives aux tabacs manufacturés imposés à des fins statistiques. Elle respecte les exigences de la protection des données.
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières peut utiliser les données relatives aux tabacs manufacturés imposés à des fins statistiques. Elle respecte les exigences de la protection des données.
 
 <sup>2</sup> Elle peut publier les statistiques.
 
@@ -620,7 +621,7 @@ La perception d’émoluments est régie par l’ordonnance du 4 avril 2007 sur 
 
 <sup>1</sup> Le Département fédéral des finances fixe le montant jusqu’à concurrence duquel aucun intérêt moratoire n’est perçu.
 
-<sup>2</sup> Sur demande, l’administration des douanes peut renoncer à percevoir l’intérêt moratoire dans les cas où le paiement ne serait pas raisonnablement exigible de la part du fabricant.
+<sup>2</sup> Sur demande, l’Office fédéral de la douane et de la sécurité des frontières peut renoncer à percevoir l’intérêt moratoire dans les cas où le paiement ne serait pas raisonnablement exigible de la part du fabricant.
 
 ## Section 9 Commission de perception
 
@@ -628,7 +629,7 @@ La perception d’émoluments est régie par l’ordonnance du 4 avril 2007 sur 
 
 ### (art. 48 LTab)
 
-Pour son travail, l’administration des douanes est indemnisée à raison de 2,5 % des recettes globales (rendement brut).
+Pour son travail, l’Office fédéral de la douane et de la sécurité des frontières est indemnisée à raison de 2,5 % des recettes globales (rendement brut).
 
 ## Section 10 Dispositions finales
 

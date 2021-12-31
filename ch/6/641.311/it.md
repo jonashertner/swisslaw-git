@@ -4,11 +4,11 @@ title: "Ordinanza del 14 ottobre 2009 sull'imposizione del tabacco (OImT)"
 short: OImT
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/677"
 language: it
-version: 2015-05-01
+version: 2022-01-01
 adopted: 2009-10-14
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20150501/it/xml/fedlex-data-admin-ch-eli-cc-2009-677-20150501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20150501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-677-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20150501/it"
 
 (OImT)
 
-del 14 ottobre 2009 (Stato 1° maggio 2015)
+del 14 ottobre 2009 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -48,7 +48,7 @@ Sono considerati materiale greggio:
 
 ### (art. 1 cpv. 2 LImT)
 
-<sup>1</sup> Per «tabacchi manufatti» s’intendono i prodotti menzionati alle voci[^2-1] 2402.1000/9000, 2403.1100/1900, 2403.9910 e 2403.9990 della tariffa doganale.[^2-2]
+<sup>1</sup> Per «tabacchi manufatti» s’intendono i prodotti menzionati alle voci[^2-1] 2402.1000/9000, 2403.1100/1900, 2403.9910, 2403.9990 e 2404.1100 della tariffa doganale.[^2-2]
 
 <sup>2</sup> Per «sigari» s’intendono i sigari Avana, i sigari spuntati, i cigarillos, i sigari a penna, i Toscani e i Virginia, costituiti interamente o in parte da un ripieno di tabacco, con o senza sottofascia e con fascia esterna composta da foglie di tabacco naturale o omogeneizzato, a condizione che tali prodotti non siano considerati sigarette ai sensi del capoverso 3.
 
@@ -80,8 +80,8 @@ Per «tabacco trinciato fine» s’intende il tabacco da fumo contenente:
 
 <sup>6</sup> Per «tabacco trinciato fine» s’intende anche il tabacco per pipe ad acqua della voce di tariffa 2403.1100.[^2-3]
 
-[^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), all. Giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la tariffa generale e le sue mod. non sono pubblicate nella RU. Il testo può essere consultato su Internet all’indirizzo [www.dogana.admin.ch](http://www.dogana.admin.ch) Le mod. saranno parimenti riprese nella tariffa doganale, consultabile su Internet all’indirizzo [www.tares.ch](http://www.tares.ch)
-[^2-2]: Nuovo testo giusta il n. 12 dell’all. 3 all’O del 22 giu. 2011 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2012 ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)).
+[^2-1]: RS **632.10**, all. Giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali (RS **170.512**), la tariffa generale e le sue mod. non sono pubblicate nella RU. Il testo può essere consultato su Internet all’indirizzo www.dogana.admin.ch Le mod. saranno parimenti riprese nella tariffa doganale, consultabile su Internet all’indirizzo www.tares.ch
+[^2-2]: Nuovo testo giusta l’all. 3 n. 12 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-3]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1249](https://fedlex.data.admin.ch/eli/oc/2015/255)).
 
 #### Art. 3
@@ -209,7 +209,7 @@ La dichiarazione d’esportazione per tabacchi manufatti, per i quali viene rich
 
 Il contribuente deve presentare le domande di rimborso dell’imposta conformemente all’articolo 24 capoverso 1 LImT alla Direzione generale delle dogane utilizzando il modulo ufficiale e rispettando i seguenti termini:
 
-- a.[^11-1] per i tabacchi manufatti esportati in territorio doganale estero, o introdotti in un negozio in zona franca di tasse in Svizzera ai sensi dell’articolo 17 capoverso 1<sup>bis</sup> della legge del 18 marzo 2005[^11-2] sulle dogane, sotto vigilanza doganale, per il tramite degli uffici doganali designati dall’Amministrazione delle dogane, entro un anno dall’imposizione all’esportazione;
+- a.[^11-1] per i tabacchi manufatti esportati in territorio doganale estero, o introdotti in un negozio in zona franca di tasse in Svizzera ai sensi dell’articolo 17 capoverso 1<sup>bis</sup> della legge del 18 marzo 2005[^11-2] sulle dogane, sotto vigilanza doganale, per il tramite degli uffici doganali designati dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^11-3], entro un anno dall’imposizione all’esportazione;
 - b. per i tabacchi manufatti rimasti presso il fabbricante o l’importatore oppure ritirati dal mercato dal fabbricante, dall’importatore o dal gestore di un deposito fiscale autorizzato, entro due anni dal versamento dell’imposta;
 - c. per i tabacchi manufatti per i quali è provato che sono stati distrutti o resi inutilizzabili, accidentalmente o per forza maggiore, nell’azienda del fabbricante o dell’importatore, entro 30 giorni dalla determinazione del danno.
 
@@ -221,6 +221,7 @@ Il contribuente deve presentare le domande di rimborso dell’imposta conformeme
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 20 apr. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1751](https://fedlex.data.admin.ch/eli/oc/2011/266)).
 [^11-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^11-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), con effetto dal 1° gen. 2022. Di detta mod. è tenuto conto in tutto il testo.
 
 #### Art. 12
 
@@ -366,10 +367,10 @@ L’autorizzazione per un deposito fiscale autorizzato si estingue con:
 
 ### (art. 26*a* cpv. 2 LImT)
 
-Il gestore deve mettere gratuitamente a disposizione dell’Amministrazione delle dogane:
+Il gestore deve mettere gratuitamente a disposizione dell’UDSC:
 
 - a. i locali e gli impianti per l’esecuzione della vigilanza e le infrastrutture necessarie (riscaldamento, illuminazione e acqua corrente);
-- b. il personale idoneo necessario per la cooperazione con l’Amministrazione delle dogane.
+- b. il personale idoneo necessario per la cooperazione con l’UDSC.
 
 #### Art. 22
 
@@ -477,7 +478,7 @@ La procedura termina:
 
 <sup>1</sup> La lavorazione e la gestione di tabacchi manufatti in un deposito doganale aperto devono essere previamente notificate per scritto alla Direzione generale delle dogane.
 
-<sup>2</sup> Il depositario o il depositante deve tenere un inventario dei tabacchi manufatti che si trovano in un deposito doganale aperto. Questo inventario si fonda sull’articolo 184 dell’ordinanza del 1° novembre 2006[^29-2] sulle dogane. In singoli casi l’Amministrazione delle dogane può esigere il rilevamento di ulteriori indicazioni, se necessario per il controllo della merce immagazzinata..
+<sup>2</sup> Il depositario o il depositante deve tenere un inventario dei tabacchi manufatti che si trovano in un deposito doganale aperto. Questo inventario si fonda sull’articolo 184 dell’ordinanza del 1° novembre 2006[^29-2] sulle dogane. In singoli casi l’UDSC può esigere il rilevamento di ulteriori indicazioni, se necessario per il controllo della merce immagazzinata..
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del 20 ago. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2779](https://fedlex.data.admin.ch/eli/oc/2014/481)).
 [^29-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
@@ -600,7 +601,7 @@ Al termine dell’annata di raccolta, la SOTA deve trasmettere alla Direzione ge
 
 **Statistiche**
 
-<sup>1</sup> L’Amministrazione delle dogane può utilizzare a scopi statistici le indicazioni relative ai tabacchi manufatti imposti. Essa tiene conto delle esigenze in materia di protezione dei dati.
+<sup>1</sup> L’UDSC può utilizzare a scopi statistici le indicazioni relative ai tabacchi manufatti imposti. Essa tiene conto delle esigenze in materia di protezione dei dati.
 
 <sup>2</sup> Essa può pubblicare le statistiche.
 
@@ -608,7 +609,7 @@ Al termine dell’annata di raccolta, la SOTA deve trasmettere alla Direzione ge
 
 **Emolumenti**
 
-La riscossione degli emolumenti si fonda sull’ordinanza del 4 aprile 2007[^40-1] sugli emolumenti dell’Amministrazione federale delle dogane.
+La riscossione degli emolumenti si fonda sull’ordinanza del 4 aprile 2007[^40-1] sugli emolumenti dell’UDSC.
 
 [^40-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
 
@@ -620,7 +621,7 @@ La riscossione degli emolumenti si fonda sull’ordinanza del 4 aprile 2007[^40-
 
 <sup>1</sup> Il Dipartimento federale delle finanze fissa l’importo fino al quale non è riscosso alcun interesse di mora.
 
-<sup>2</sup> Su richiesta, l’Amministrazione delle dogane può rinunciare alla riscossione dell’interesse di mora se per il fabbricante il pagamento è insostenibile.
+<sup>2</sup> Su richiesta, l’UDSC può rinunciare alla riscossione dell’interesse di mora se per il fabbricante il pagamento è insostenibile.
 
 ## Sezione 9: Provvigione di riscossione
 
@@ -628,7 +629,7 @@ La riscossione degli emolumenti si fonda sull’ordinanza del 4 aprile 2007[^40-
 
 ### (art. 48 LImT)
 
-Per le proprie spese l’Amministrazione delle dogane riceve un’indennità pari al 2,5 per cento delle entrate totali (ricavi lordi).
+Per le proprie spese l’UDSC riceve un’indennità pari al 2,5 per cento delle entrate totali (ricavi lordi).
 
 ## Sezione 10: Disposizioni finali
 
