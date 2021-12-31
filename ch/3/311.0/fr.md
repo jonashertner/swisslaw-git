@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (Etat le 1<sup>er</sup> juillet 2021)
+du 21 décembre 1937 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -3901,11 +3901,13 @@ Le délinquant est aussi punissable lorsqu’il a commis le délit à l’étran
 
 #### Art. 246
 
-Celui qui, dans le dessein de les employer comme authentiques ou intactes, aura contrefait ou falsifié les marques officielles que l’autorité appose sur un objet pour constater le résultat d’un examen ou l’octroi d’une autorisation, par exemple l’empreinte du poinçon du contrôle des ouvrages d’or et d’argent, les marques des inspecteurs de boucherie ou de l’administration des douanes,
+Quiconque, dans le dessein de les employer comme authentiques ou intactes, contrefait ou falsifie les marques officielles que l’autorité appose sur un objet pour constater le résultat d’un examen ou l’octroi d’une autorisation, par exemple l’empreinte du poinçon du contrôle des ouvrages d’or et d’argent, les marques des inspecteurs de boucherie ou de l’Office fédéral de la douane et de la sécurité des frontières,[^246-1]
 
 celui qui aura employé comme authentiques ou intactes de telles marques contrefaites ou falsifiées,
 
 sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^246-1]: Nouvelle teneur selon le ch. I 6 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 ### Appareils de falsification et emploi illicite d’appareils
 
@@ -5491,22 +5493,54 @@ celui qui, intentionnellement ou par négligence, aura contrevenu à l’obligat
 
 sera puni d’une amende.
 
-### Inobservation des prescriptions légales sur la protection des locataires d’habitations et de locaux commerciaux
+### Inobservation des prescriptions légales relatives à l’établissement d’un rapport sur les paiements effectués au profit de gouvernements
 
 #### Art. 325<sup>bis</sup>
 
 [^325bis-1]
 
+Est puni de l’amende quiconque, intentionnellement:
+
+- a. donne de fausses indications dans le rapport sur les paiements effectués au profit de gouvernements visé à l’art. 964*d* CO[^325bis-2], ou omet totalement ou partiellement d’établir ce rapport;
+- b. contrevient à l’obligation de tenue et de conservation des rapports sur les paiements effectués au profit de gouvernements visée à l’art. 964*h* CO.
+
+[^325bis-1]: Introduit par le ch. III 2 de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^325bis-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### Inobservation des prescriptions relatives à l’établissement d’autres rapports
+
+#### Art. 325<sup>ter</sup>
+
+[^325ter-1]
+
+<sup>1</sup>
+
+Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
+
+- a. donne de fausses indications dans les rapports visés aux art. 964*a*, 964*b* et 964*l* CO[^325ter-2] ou omet d’établir ces rapports;
+- b. contrevient à l’obligation de conservation et de documentation des rapports visée aux art. 964*c* et 964*l* CO.
+
+<sup>2</sup> Quiconque agit par négligence est puni d’une amende de 50 000 francs au plus.
+
+[^325ter-1]: Introduit par le ch. III 2 de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^325ter-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### Inobservation des prescriptions légales sur la protection des locataires d’habitations et de locaux commerciaux
+
+#### Art. 325<sup>quater</sup>
+
+[^325quater-1]
+
 Celui qui, en menaçant le locataire de désavantages tels que la résiliation du bail, l’aura empêché ou aura tenté de l’empêcher de contester le montant du loyer ou d’autres prétentions du bailleur,
 
-celui qui aura dénoncé le bail parce que le locataire sauvegarde ou se propose de sauvegarder les droits que lui confère le code des obligations[^325bis-2],
+celui qui aura dénoncé le bail parce que le locataire sauvegarde ou se propose de sauvegarder les droits que lui confère le CO[^325quater-2],
 
 celui qui, de manière illicite, aura appliqué ou tenté d’appliquer un loyer ou aura fait valoir ou tenté de faire valoir d’autres prétentions à la suite de l’échec de la tentative de conciliation ou à la suite d’une décision judiciaire,
 
 sera, sur plainte du locataire, puni d’une amende.
 
-[^325bis-1]: Introduit par le ch. II art. 4 de la LF du 15 déc. 1989 modifiant le CO (Bail à loyer et bail à ferme), en vigueur depuis le 1<sup>er</sup> juil. 1990 ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)*in fine*, disp. fin. tit. VIII et VIII<sup>bis</sup>).
-[^325bis-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^325quater-1]: Anciennement art. 325<sup>bis</sup>. Introduit par le ch. II art. 4 de la LF du 15 déc. 1989 modifiant le CO (Bail à loyer et bail à ferme) ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)*in fine*, disp. fin. tit. VIII et VIII<sup>bis</sup>). Nouvelle teneur selon le ch. III 2 de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^325quater-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### Personnes morales, sociétés commerciales et entreprises individuelles
 
@@ -5518,19 +5552,25 @@ sera, sur plainte du locataire, puni d’une amende.
 
 [^326-1]: Abrogé par le ch. II 3 de la LF du 13 déc. 2002, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
-### 2. En cas de l’art. 325<sup>bis</sup>
+### 2. Dans le cas de l’art. 325<sup>quater</sup>
+
+[^book2-tit20-lvlu7-lvl2-1]
+
+[^book2-tit20-lvlu7-lvl2-1]: Nouvelle teneur selon le ch. III 2 de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 326<sup>bis</sup>
 
 [^326bis-1]
 
-<sup>1</sup> Si l’une des infractions prévues à l’art. 325<sup>bis</sup> est commise dans la gestion d’une personne morale, d’une société en nom collectif, d’une société en commandite ou d’une entreprise individuelle, ou de quelque autre manière dans l’exercice d’une activité pour un tiers, les dispositions pénales sont applicables aux personnes physiques qui ont commis l’infraction.
+<sup>1</sup> Si l’une des infractions prévues à l’art. 325<sup>quater</sup> est commise dans la gestion d’une personne morale, d’une société en nom collectif, d’une société en commandite ou d’une entreprise en raison individuelle[^326bis-2], ou de quelque autre manière dans l’exercice d’une activité pour un tiers, les dispositions pénales sont applicables aux personnes physiques qui ont commis l’infraction.[^326bis-3]
 
 <sup>2</sup> Le chef d’entreprise ou l’employeur, le mandant ou le représenté qui a connaissance de l’infraction ou qui en a eu connaissance après coup et qui, bien qu’il en ait eu la possibilité omet de la prévenir ou d’en supprimer les effets, encourt la même peine que l’auteur.
 
 <sup>3</sup> Lorsque le chef d’entreprise ou l’employeur, le mandant ou le représenté est une personne morale, une société en nom collectif, une société en commandite, une entreprise individuelle ou une collectivité sans personnalité juridique, l’al. 2 s’applique aux organes et à leurs membres, associés gérants, dirigeants effectifs ou liquidateur fautifs.
 
 [^326bis-1]: Introduit par le ch. II art. 4 de la LF du 15 déc. 1989 modifiant le CO (Bail à loyer et bail à ferme), en vigueur depuis le 1<sup>er</sup> juil. 1990 ([RO 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [FF 1985 I 1369](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201)*in fine*, disp. fin. tit. VIII et VIII<sup>bis</sup>).
+[^326bis-2]: Actuellement: entreprise individuelle.
+[^326bis-3]: Nouvelle teneur selon le ch. III 2 de la LF du 19 juin 2020 (Contre-projet indirect à l’initiative populaire «Entreprises responsables – pour protéger l’être humain et l’environnement»), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Contravention aux dispositions concernant les raisons de commerce et les noms
 
@@ -6139,7 +6179,8 @@ Le casier sert les autorités fédérales et cantonales dans l’accomplissement
 - r.[^365-16] détection à temps et prévention des menaces pour la sûreté intérieure ou extérieure au sens de l’art. 6, al. 1, LRens[^365-17];
 - s.[^365-18] transmission d’informations à Europol en vertu de l’art. 355*a*, pour autant que les données d’Europol soient utilisées aux fins visées à la let. r;
 - t.[^365-19] examen des mesures d’éloignement à l’encontre d’étrangers au sens de la loi fédérale du 16 décembre 2005 sur les étrangers[^365-20] et préparation des décisions d’expulsion au sens de l’art. 121, al. 2, de la Constitution;
-- u.[^365-21] recherche et transmission d’informations à des autorités de sûreté étrangères qui en font la demande au sens de l’art. 12, al. 1, let. d, LRens; les données dont la transmission n’est pas dans l’intérêt de la personne concernée ne peuvent être transmises qu’avec le consentement explicite de cette personne.
+- u.[^365-21] recherche et transmission d’informations à des autorités de sûreté étrangères qui en font la demande au sens de l’art. 12, al. 1, let. d, LRens; les données dont la transmission n’est pas dans l’intérêt de la personne concernée ne peuvent être transmises qu’avec le consentement explicite de cette personne;
+- v.[^365-22] déterminer le risque pour la sécurité dans le cadre de la vérification des antécédents visée à l’art. 108*b* de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^365-23].
 
 [^365-1]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^365-2]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
@@ -6162,6 +6203,8 @@ Le casier sert les autorités fédérales et cantonales dans l’accomplissement
 [^365-19]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^365-20]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^365-21]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^365-22]: Introduite par le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^365-23]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 ### Contenu
 
@@ -6226,41 +6269,42 @@ Les données personnelles relatives aux jugements visés à l’art. 366, al. 1,
 - j.[^367-9] l’Office fédéral du service civil[^367-10];
 - k.[^367-11] les services cantonaux chargés de l’exclusion du service de protection civile;
 - l.[^367-12] le Service de protection des témoins, en vertu de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^367-13], pour l’exécution de ses tâches;
-- m.[^367-14] le SRC.
+- m.[^367-14] le SRC;
+- n.[^367-15] les services de police cantonaux chargés de déterminer le risque pour la sécurité selon l’art. 108*c* LA[^367-16].
 
 <sup>2bis</sup>
 
 Les données personnelles relatives aux jugements visés à l’art. 366, al. 3, let. c, peuvent aussi être consultées en ligne par les autorités suivantes:
 
-- a. le Groupement Défense[^367-15], pour les décisions de non-recrutement ou d’admission au recrutement, les décisions d’exclusion de l’armée ou de réintégration dans l’armée et les décision de dégradation au sens de la LAAM[^367-16], pour l’examen des motifs empêchant la remise de l’arme personnelle au sens de la LAAM et pour détermination de l’aptitude à une promotion ou à une nomination dans l’armée au sens de la LAAM;
-- b.[^367-17] les autorités fédérales qui effectuent les contrôles de sécurité relatifs à des personnes visés à l’art. 2, al. 2, let. a, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure;
+- a. le Groupement Défense[^367-17], pour les décisions de non-recrutement ou d’admission au recrutement, les décisions d’exclusion de l’armée ou de réintégration dans l’armée et les décision de dégradation au sens de la LAAM[^367-18], pour l’examen des motifs empêchant la remise de l’arme personnelle au sens de la LAAM et pour détermination de l’aptitude à une promotion ou à une nomination dans l’armée au sens de la LAAM;
+- b.[^367-19] les autorités fédérales qui effectuent les contrôles de sécurité relatifs à des personnes visés à l’art. 2, al. 2, let. a, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure;
 - c. les autorités de poursuite pénale, pour la conduite de procédures pénales (art. 365, al. 2, let. a);
 - d. les services de coordination des cantons et l’Office fédéral de la justice, pour l’accomplissement de leurs tâches légales dans le cadre de la tenue du registre;
-- e. les autorités d’exécution des peines, pour l’exécution des peines et des mesures (art. 365, al. 2, let. c).[^367-18]
+- e. les autorités d’exécution des peines, pour l’exécution des peines et des mesures (art. 365, al. 2, let. c).[^367-20]
 
-<sup>2ter</sup> Les autorités visées aux al. 2, let. c à l, et 2<sup>septies</sup>, peuvent consulter le jugement dans lequel est prononcée une expulsion aussi longtemps que la personne concernée est sous le coup de cette dernière. Si les délais déterminants au sens de l’art. 369 sont plus longs, ce sont eux qui s’appliquent à la consultation.[^367-19]
+<sup>2ter</sup> Les autorités visées aux al. 2, let. c à l, et 2<sup>septies</sup>, peuvent consulter le jugement dans lequel est prononcée une expulsion aussi longtemps que la personne concernée est sous le coup de cette dernière. Si les délais déterminants au sens de l’art. 369 sont plus longs, ce sont eux qui s’appliquent à la consultation.[^367-21]
 
 <sup>2quater</sup>
 
-Afin de permettre au Groupement Défense d’accomplir les tâches visées à l’art. 365, al. 2, let. n à q, le service fédéral responsable du casier judiciaire lui communique régulièrement les données ci-après, nouvellement enregistrées dans VOSTRA, relatives aux conscrits, aux militaires et aux personnes astreintes à servir dans la protection civile:[^367-20]
+Afin de permettre au Groupement Défense d’accomplir les tâches visées à l’art. 365, al. 2, let. n à q, le service fédéral responsable du casier judiciaire lui communique régulièrement les données ci-après, nouvellement enregistrées dans VOSTRA, relatives aux conscrits, aux militaires et aux personnes astreintes à servir dans la protection civile:[^367-22]
 
 - a. les condamnations pour crime ou délit;
 - b. les mesures entraînant une privation de liberté;
-- c. les décisions relatives à un échec de la mise à l’épreuve prononcées contre des conscrits ou des militaires.[^367-21]
+- c. les décisions relatives à un échec de la mise à l’épreuve prononcées contre des conscrits ou des militaires.[^367-23]
 
-<sup>2quinquies</sup> Le service fédéral responsable du casier judiciaire communique l’identité des ressortissants suisses de plus de 17 ans enregistrés au casier judiciaire selon l’al. 2<sup>quater</sup>. Si l’état-major de conduite de l’armée constate que la personne concernée est un conscrit ou un militaire, le service chargé du casier judiciaire transmet les données relatives aux peines prononcées.[^367-22]
+<sup>2quinquies</sup> Le service fédéral responsable du casier judiciaire communique l’identité des ressortissants suisses de plus de 17 ans enregistrés au casier judiciaire selon l’al. 2<sup>quater</sup>. Si l’état-major de conduite de l’armée constate que la personne concernée est un conscrit ou un militaire, le service chargé du casier judiciaire transmet les données relatives aux peines prononcées.[^367-24]
 
-<sup>2sexies</sup> La communication et le constat visés à l’al. 2<sup>quinquies</sup> peuvent être effectués par une interface entre le Système d’information sur le personnel de l’armée (SIPA) et le casier judiciaire.[^367-23]
+<sup>2sexies</sup> La communication et le constat visés à l’al. 2<sup>quinquies</sup> peuvent être effectués par une interface entre le Système d’information sur le personnel de l’armée (SIPA) et le casier judiciaire.[^367-25]
 
-<sup>2septies</sup> L’Office fédéral du sport peut consulter, sur demande écrite, les données personnelles relatives à des condamnations afin d’examiner la réputation d’une personne avant de lui attribuer ou de lui retirer un certificat de cadre «Jeunesse et sport».[^367-24]
+<sup>2septies</sup> L’Office fédéral du sport peut consulter, sur demande écrite, les données personnelles relatives à des condamnations afin d’examiner la réputation d’une personne avant de lui attribuer ou de lui retirer un certificat de cadre «Jeunesse et sport».[^367-26]
 
-<sup>3</sup> Le Conseil fédéral peut, si le nombre des demandes de renseignement le justifie, et après consultation du Préposé fédéral à la protection des données et à la transparence[^367-25], étendre le droit d’accès visé à l’al. 2 à d’autres autorités judiciaires et administratives de la Confédération et des cantons jusqu’à l’entrée en vigueur d’une loi fédérale.
+<sup>3</sup> Le Conseil fédéral peut, si le nombre des demandes de renseignement le justifie, et après consultation du Préposé fédéral à la protection des données et à la transparence[^367-27], étendre le droit d’accès visé à l’al. 2 à d’autres autorités judiciaires et administratives de la Confédération et des cantons jusqu’à l’entrée en vigueur d’une loi fédérale.
 
-<sup>4</sup> Les données personnelles relatives à des procédures pénales en cours ne peuvent être traitées que par les autorités énumérées à l’al. 2, let. a à e, j, l et m.[^367-26]
+<sup>4</sup> Les données personnelles relatives à des procédures pénales en cours ne peuvent être traitées que par les autorités énumérées à l’al. 2, let. a à e, i, j, l à n.[^367-28]
 
-<sup>4bis</sup> ...[^367-27]
+<sup>4bis</sup> ...[^367-29]
 
-<sup>4ter</sup> L’Office fédéral du sport peut consulter, sur demande écrite, les données personnelles concernant des enquêtes pénales en cours afin d’examiner la réputation d’une personne avant de lui attribuer un certificat de cadre «Jeunesse et sport» ou de le suspendre.[^367-28]
+<sup>4ter</sup> L’Office fédéral du sport peut consulter, sur demande écrite, les données personnelles concernant des enquêtes pénales en cours afin d’examiner la réputation d’une personne avant de lui attribuer un certificat de cadre «Jeunesse et sport» ou de le suspendre.[^367-30]
 
 <sup>5</sup> Chaque canton désigne un service de coordination pour le traitement des données enregistrées dans le casier judiciaire.
 
@@ -6291,20 +6335,22 @@ Le Conseil fédéral fixe les modalités, notamment en ce qui concerne:
 [^367-12]: Introduite par l’annexe ch. 3 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
 [^367-13]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
 [^367-14]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-15]: Nouvelle expression selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-16]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^367-17]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-18]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-19]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-20]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-21]: Anciennement al. 2<sup>ter</sup>. Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-22]: Introduit par l’annexe ch. 2 de la LF du 19 mars 2010 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-23]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-24]: Anciennement al. 2<sup>sexies</sup>. Introduit par les art. 34 ch. 1 et 36 de la LF du 17 juin 2011 sur l’encouragement du sport et de l’activité physique, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
-[^367-25]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4237](https://fedlex.data.admin.ch/eli/oc/2004/629)).
-[^367-26]: Nouvelle teneur selon l’art. 87 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-27]: Introduit par le ch. II 1 de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogé par selon le ch. II 1 de la LF du 25 sept. 2015, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^367-28]: Introduit par l’art. 34 ch. 1 de la LF du 17 juin 2011 sur l’encouragement du sport et de l’activité physique, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^367-15]: Introduite par le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^367-16]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^367-17]: Nouvelle expression selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-18]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^367-19]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^367-20]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^367-21]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-22]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-23]: Anciennement al. 2<sup>ter</sup>. Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^367-24]: Introduit par l’annexe ch. 2 de la LF du 19 mars 2010 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-25]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-26]: Anciennement al. 2<sup>sexies</sup>. Introduit par les art. 34 ch. 1 et 36 de la LF du 17 juin 2011 sur l’encouragement du sport et de l’activité physique, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^367-27]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4237](https://fedlex.data.admin.ch/eli/oc/2004/629)).
+[^367-28]: Nouvelle teneur selon le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^367-29]: Introduit par le ch. II 1 de la LF du 3 oct. 2008 ([RO 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [FF 2008 2379](https://fedlex.data.admin.ch/eli/fga/2008/609)). Abrogé par selon le ch. II 1 de la LF du 25 sept. 2015, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^367-30]: Introduit par l’art. 34 ch. 1 de la LF du 17 juin 2011 sur l’encouragement du sport et de l’activité physique, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
 ### Communication de faits donnant lieu à une inscription
 
