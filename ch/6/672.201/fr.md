@@ -3,29 +3,29 @@ sr: "672.201"
 title: "Ordonnance du 22 août 1967 relative à l'imputation d'impôts étrangers prélevés à la source"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1967-08-22
 in_force: 1967-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance relative à l’imputation d’impôts étrangers prélevés à la source ****
 
-du 22 août 1967 (Etat le 1<sup>er</sup> janvier 2020)[^t-1]
+du 22 août 1967 (Etat le 1<sup>er</sup> janvier 2022)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
 Le Conseil fédéral suisse,
 
-vu les art. 1 et 2, al. 1, let. e, f et g, de la loi fédérale du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions[^ingress-1],[^ingress-2]
+vu l’art. 35, al. 1, de la loi fédérale du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
+[^ingress-2]: Nouvelle teneur selon le ch. II 1 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## I. Dispositions générales
 
@@ -377,27 +377,13 @@ La revision et la rectification des décisions sur l’imputation d’impôts é
 
 [^22-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-## V. Dispositions pénales
+## V. …
 
 #### Art. 23
 
 [^23-1]
 
-<sup>1</sup> Celui qui, intentionnellement ou par négligence, à son propre avantage ou à celui d’un tiers, obtient une imputation d’impôts étrangers prélevés à la source injustifiée est puni conformément à l’art. 61 de la loi sur l’impôt anticipé[^23-2].
-
-<sup>2</sup> Celui qui, sans remplir les conditions de l’al. 1,
-
-est puni conformément à l’art. 62 de la loi sur l’impôt anticipé.
-
-- a. a, dans une demande d’imputation d’impôts étrangers prélevés à la source, donné des indications inexactes ou celé des faits importants ou présenté des pièces justificatives inexactes sur des faits importants,
-- b. a, en qualité de requérant, donné des renseignements inexacts,
-- c. a fait valoir des droits qui ne lui appartiennent pas ou qui ont déjà été satisfaits,
-- d. a rendu plus difficile, empêché ou rendu impossible l’exécution régulière d’un examen des livres ou d’autres contrôles officiels,
-
-<sup>3</sup> Au surplus, les dispositions des art. 64 et 67 de la loi sur l’impôt anticipé sont applicables par analogie aux infractions.
-
-[^23-1]: Nouvelle teneur selon le ch. I de l’ACF du 25 nov. 1974, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1958](https://fedlex.data.admin.ch/eli/oc/1974/1958_1958_1958)).
-[^23-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^23-1]: Abrogé par le ch. II 1 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## VI. Dispositions finales
 

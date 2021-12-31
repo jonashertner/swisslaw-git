@@ -3,29 +3,29 @@ sr: "672.201"
 title: Verordnung vom 22. August 1967 über die Anrechnung ausländischer Quellensteuern
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1967-08-22
 in_force: 1967-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Anrechnung ausländischer Quellensteuern****
 
-vom 22. August 1967 (Stand am 1. Januar 2020)[^t-1]
+vom 22. August 1967 (Stand am 1. Januar 2022)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 1 und 2 Absatz 1 Buchstaben e, f und g des Bundesgesetzes vom 22. Juni 1951[^ingress-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung,[^ingress-2]
+gestützt auf Artikel 35 Absatz 1 des Bundesgesetzes vom 18. Juni 2021[^ingress-1] über die Durchführung von internationalen Abkommen im Steuerbereich,[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
+[^ingress-2]: Fassung gemäss Ziff. II 1 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## I. Allgemeine Bestimmungen
 
@@ -378,28 +378,13 @@ Die Revision und Berichtigung von Entscheiden über die Anrechnung ausländische
 
 [^22-1]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-## V. Strafbestimmungen
+## V. …
 
 #### Art. 23
 
 [^23-1]
 
-<sup>1</sup> Wer vorsätzlich oder fahrlässig, zum eigenen oder zum Vorteil eines anderen, eine ungerechtfertigte Anrechnung ausländischer Quellensteuern erwirkt, unterliegt den Strafdrohungen des Artikels 61 des Verrechnungssteuergesetzes[^23-2].
-
-<sup>2</sup> Wer, ohne dass der Tatbestand von Absatz 1 erfüllt ist,
-
-unterliegt den Strafdrohungen des Artikels 62 des Verrechnungssteuergesetzes.
-
-- a. in einem Antrag auf Anrechnung ausländischer Quellensteuern unwahre Angaben macht, erhebliche Tatsachen verschweigt oder unwahre Belege über erhebliche Tatsachen vorlegt,
-- b.[^23-3] als Antragstellerin oder Antragsteller unrichtige Auskünfte erteilt,
-- c. Ansprüche geltend macht, die ihm nicht zustehen oder für die er bereits befriedigt worden ist,
-- d. die ordnungsgemässe Durchführung einer Buchführung oder anderen amtlichen Kontrolle erschwert, behindert oder verunmöglicht,
-
-<sup>3</sup> Im Übrigen finden auf die Widerhandlungen die Vorschriften der Artikel 64 und 67 des Verrechnungssteuergesetzes sinngemäss Anwendung.
-
-[^23-1]: Fassung gemäss Ziff. I des BRB vom 25. Nov. 1974, in Kraft seit 1. Jan. 1975 ([AS 1974 1958](https://fedlex.data.admin.ch/eli/oc/1974/1958_1958_1958)).
-[^23-2]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
-[^23-3]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3873](https://fedlex.data.admin.ch/eli/oc/2019/701)).
+[^23-1]: Aufgehoben durch Ziff. II 1 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, mit Wirkung seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## VI. Schlussbestimmungen
 

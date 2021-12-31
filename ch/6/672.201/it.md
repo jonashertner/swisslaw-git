@@ -3,29 +3,29 @@ sr: "672.201"
 title: "Ordinanza del 22 agosto 1967 sul computo d'imposte alla fonte estere"
 eli: "https://fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1967-08-22
 in_force: 1967-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1967/1129_1169_1163/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1967-1129_1169_1163-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1967/1129_1169_1163/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul computo di imposte alla fonte estere****
 
-del 22 agosto 1967 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)[^t-1]
+del 22 agosto 1967 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 1 e 2 capoverso 1 lettere e, f e g della legge federale del 22 giugno 1951[^ingress-1] concernente l’esecuzione delle convenzioni internazionali concluse dalla Confederazione per evitare i casi di doppia imposizione,[^ingress-2]
+visto l’articolo 35 capoverso 1 della legge federale del 18 giugno 2021[^ingress-1] concernente l’esecuzione delle convenzioni internazionali in ambito fiscale,[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 (RU **20****19** 3873).
+[^ingress-2]: Nuovo testo giusta il n. II 1 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## I. Disposizioni generali
 
@@ -377,27 +377,13 @@ La revisione e la rettificazione di decisioni sul computo di imposte alla fonte 
 
 [^22-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-## V. Disposizioni penali
+## V. ...
 
 #### Art. 23
 
 [^23-1]
 
-<sup>1</sup> Chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto a sé o a un terzo, ottiene a torto un computo di imposte alla fonte estere, è punito conformemente all’articolo 61 della legge su l’imposta preventiva[^23-2].
-
-<sup>2</sup> Chiunque, senza che sia data la fattispecie del capoverso 1,
-
-è punito conformemente all’articolo 62 della legge su l’imposta preventiva.
-
-- a. fornisce dati falsi o tace fatti rilevanti in un’istanza di computo globale o presenta documenti suppositizi per giustificare fatti rilevanti;
-- b. fornisce, come istante, informazioni inesatte;
-- c. fa valere diritti che non gli competono o che gli sono già stati soddisfatti;
-- d. intralcia, impedisce o rende impossibile l’esecuzione normale di una verifica contabile o di altri controlli ufficiali,
-
-<sup>3</sup> Per il rimanente, alle infrazioni si applicano per analogia le disposizioni degli articoli 64 e 67 della legge su l’imposta preventiva.
-
-[^23-1]: Nuovo testo giusta il n. I del DCF del 25 nov. 1974, in vigore dal 1° gen. 1975 ([RU 1974 1958](https://fedlex.data.admin.ch/eli/oc/1974/1958_1958_1958)).
-[^23-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^23-1]: Abrogato dal n. II 1 dell’O del 10 nov. 2021 concernente l’adeguamento del diritto federale nell’ambito dell’esecuzione delle convenzioni internazionali in ambito fiscale, con effetto dal 1° gen. 2022 ([RU 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## VI. Disposizioni finali
 
