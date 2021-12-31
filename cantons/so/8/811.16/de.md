@@ -4,13 +4,13 @@ number: "811.16"
 title: Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung
 short: "kantonale Epidemienverordnung, V EpG"
 language: de
-version: 2021-01-01
-valid_until: 2021-12-31
-version_adopted: 2020-10-27
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-10-25
 adopted: 2019-04-30
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.16"
-pdf: "https://bgs.so.ch/api/de/versions/5040/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5152/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5040/pdf_file"
 
 (kantonale Epidemienverordnung, V EpG)
 
-Vom 30.04.2019 (Stand 01.01.2021)
+Vom 30.04.2019 (Stand 01.01.2022)
 
 Der Regierungsrat
 
@@ -54,11 +54,13 @@ beschliesst:
 <sup>1</sup> Das Gesundheitsamt nimmt insbesondere die folgenden Aufgaben wahr:
 
 - a) Umsetzung der nationalen Programme zur Erkennung, Überwachung, Verhütung und Bekämpfung von übertragbaren Krankheiten gemäss Artikel 5 Absatz 2 EpG[^2-1];
-- b) Vorbereitungsmassnahmen gemäss Artikel 8 EpG[^2-2], namentlich die Erarbeitung eines Notfallplans zum Schutz vor besonderen Gefährdungen der öffentlichen Gesundheit gemäss gemäss Artikel 2 Absatz 1 der Verordnung über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemienverordnung, EpV) vom 29. April 2015[^2-3] sowie dessen Erlass und Publikation in geeigneter Form.
+- b) Vorbereitungsmassnahmen gemäss Artikel 8 EpG[^2-2], namentlich die Erarbeitung eines Notfallplans zum Schutz vor besonderen Gefährdungen der öffentlichen Gesundheit gemäss Artikel 2 Absatz 1 der Verordnung über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemienverordnung, EpV) vom 29. April 2015[^2-3] sowie dessen Erlass und Publikation in geeigneter Form;
+- c) Bezeichnung der kantonalen Anlieferstellen für die Verteilung von Heilmitteln des Bundes gemäss Artikel 63 Absätze 1 und 2 EpV[^2-4], Meldung der betreffenden Anlieferstellen an den Bund und Gewährleistung der rechtzeitigen Weiterverteilung der angelieferten Heilmittel.
 
 [^2-1]: SR [818.101](https://db.clex.ch/link/Bund/818.101/de).
 [^2-2]: SR [818.101](https://db.clex.ch/link/Bund/818.101/de).
 [^2-3]: SR [818.101.1](https://db.clex.ch/link/Bund/818.101.1/de).
+[^2-4]: SR [818.101.1](https://db.clex.ch/link/Bund/818.101.1/de).
 
 #### § 3
 
@@ -94,11 +96,7 @@ beschliesst:
 
 #### § 4
 
-**Kantonsapotheker oder Kantonsapothekerin**
-
-<sup>1</sup> Der Kantonsapotheker oder die Kantonsapothekerin bezeichnet gemäss Artikel 63 Absätze 1 und 2 EpV[^4-1] die kantonalen Anlieferstellen für die Verteilung von Heilmitteln des Bundes, meldet diese dem Bund und sorgt für die rechtzeitige Weiterverteilung der angelieferten Heilmitteln.
-
-[^4-1]: SR [818.101.1](https://db.clex.ch/link/Bund/818.101.1/de).
+**…**
 
 #### § 5
 
