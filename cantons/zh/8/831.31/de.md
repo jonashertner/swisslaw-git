@@ -4,11 +4,11 @@ number: "831.31"
 title: Zusatzleistungsverordnung (ZLV)
 short: ZLV
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
+valid_until: 2024-01-01
 adopted: 2008-03-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_31-2008_03_05-2008_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_31-2008_03_05-2008_01_01-115.html"
 text: pdf
 ---
 
@@ -20,7 +20,7 @@ text: pdf
 
 Der Regierungsrat,
 
-gestützt auf §§ 9 Abs. 3, 19 a Abs. 2 und 42 Abs. 2 des Zusatzleistungsgesetzes vom 7. Februar 1971 (ZLG)<sup>5</sup>,
+gestützt auf §§ 9 Abs. 3, 19 a Abs. 2 und 42 Abs. 2 des Zusatzleistungsgesetzes vom 7. Februar 1971 (ZLG)<sup>4</sup>,
 
 beschliesst:
 
@@ -30,19 +30,13 @@ beschliesst:
 
 **Anerkannte Heime**
 
-Anerkannte Heime im Kanton Zürich im Sinne von Art. 25 a Abs. 1 der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 15. Januar 1971 (ELV)<sup>13</sup> sind:
-
-a.<sup>20</sup> Einrichtungen, die auf der Spitalliste nach § 7 des Spitalplanungs- und -finanzierungsgesetzes vom 2. Mai 2011<sup>4</sup> oder der Pflegeheimliste nach § 4 des Pflegegesetzes vom 27. September 2010<sup>8</sup> aufgeführt sind,
+Anerkannte Heime im Kanton Zürich im Sinne von Art. 25 a Abs. 1 der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 15. Januar 1971 (ELV)<sup>13</sup> sind:<sup>23</sup> a.<sup>20</sup> Einrichtungen, die auf der Spitalliste nach § 7 des Spitalplanungs- und -finanzierungsgesetzes vom 2. Mai 2011<sup>3</sup> oder der Pflegeheimliste nach § 4 des Pflegegesetzes vom 27. September 2010<sup>8</sup> aufgeführt sind,
 
 - b. Einrichtungen mit Betriebsbewilligung nach § 6 des Gesetzes über die Invalideneinrichtungen für erwachsene Personen vom 1. Oktober 2007<sup>9</sup>,
 
-- c. Schulheime mit Bewilligung gemäss § 36 Abs. 4 des Volksschulgesetzes vom 7. Februar 2005<sup>2</sup>,
+- c. Heim- und Familienpflegeangebote gemäss §§ 8 und 9 des Kinder- und Jugendheimgesetzes vom 27. November 2017<sup>5</sup>,
 
-- d. Jugendheime oder heimähnliche Einrichtungen nach § 2 der Verordnung über die Jugendheime vom 4. Oktober 1962<sup>6</sup>,
-
-- e. Pflegefamilien mit Bewilligung gemäss § 5 der Verordnung über die Pflegekinderfürsorge vom 11. September 1969<sup>7</sup>,
-
-- f. weitere vom Kantonalen Sozialamt als anerkannte Heime bezeichnete Einrichtungen.
+- d. weitere vom Kantonalen Sozialamt als anerkannte Heime bezeichnete Einrichtungen.
 
 #### § 2
 
@@ -52,7 +46,7 @@ Der Betrag für persönliche Auslagen wird nach den persönlichen Bedürfnissen 
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 ### B. Krankheits- und Behinderungskosten
 
@@ -126,7 +120,7 @@ Ausgewiesene Mehrkosten für ärztlich verordnete lebensnotwendige Diät von Per
 
 **3**
 
-- 1\. 1. 21 - 111 § 11. <sup>1</sup> Bedarf eine zu Hause lebende Person wegen Alter, Invalidität, Unfall oder Krankheit der Hilfe, Pflege oder Betreuung, werden die Kosten vergütet. Dies gilt auch, wenn die Leistungen in einem Tagesheim, Tagesspital oder Ambulatorium erbracht werden.
+- 1\. 1. 22 - 115 § 11. <sup>1</sup> Bedarf eine zu Hause lebende Person wegen Alter, Invalidität, Unfall oder Krankheit der Hilfe, Pflege oder Betreuung, werden die Kosten vergütet. Dies gilt auch, wenn die Leistungen in einem Tagesheim, Tagesspital oder Ambulatorium erbracht werden.
 
 **Zu Hause lebende Personen a. Im Allgemeinen**
 
@@ -162,7 +156,7 @@ Ausgewiesene Mehrkosten für ärztlich verordnete lebensnotwendige Diät von Per
 
 <sup>2</sup> Von den Kosten wird ein angemessener Betrag für den Lebensunterhalt abgezogen.
 
-<sup>3</sup> Die Kostenbegrenzung gemäss § 11 Abs. 1 ZLG<sup>5</sup> gilt sinngemäss.
+<sup>3</sup> Die Kostenbegrenzung gemäss § 11 Abs. 1 ZLG<sup>4</sup> gilt sinngemäss.
 
 #### § 14
 
@@ -198,7 +192,7 @@ Ausgewiesene Mehrkosten für ärztlich verordnete lebensnotwendige Diät von Per
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 <sup>3</sup> Vergütet werden:
 
@@ -278,7 +272,7 @@ Die Rückerstattung von Zuschüssen richtet sich nach den Bestimmungen für die 
 
 **7**
 
-- 1\. 1. 21 - 111
+- 1\. 1. 22 - 115
 
 ### F. Schlussbestimmung
 
@@ -292,15 +286,15 @@ Diese Verordnung tritt rückwirkend auf den 1. Januar 2008 in Kraft.
 
 <sup>2</sup> LS 412.100.
 
-<sup>3</sup> Obsolet.
+<sup>3</sup> LS 813.20.
 
-<sup>4</sup> LS 813.20.
+<sup>4</sup> LS 831.3.
 
-<sup>5</sup> LS 831.3.
+<sup>5</sup> LS 852.2.
 
 <sup>6</sup> LS 852.21.
 
-<sup>7</sup> LS 852.22.
+<sup>7</sup> Obsolet.
 
 <sup>8</sup> LS 855.1.
 
@@ -331,3 +325,5 @@ Diese Verordnung tritt rückwirkend auf den 1. Januar 2008 in Kraft.
 <sup>21</sup> Eingefügt durch RRB vom 30. September 2020 (OS 75, 540; ABl 2020-10-09). In Kraft seit 1. Januar 2021.
 
 <sup>22</sup> Aufgehoben durch RRB vom 30. September 2020 (OS 75, 540; ABl 2020-10- 09). In Kraft seit 1. Januar 2021.
+
+<sup>23</sup> Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 655; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
