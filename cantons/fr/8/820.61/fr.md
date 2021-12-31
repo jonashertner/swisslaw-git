@@ -4,20 +4,22 @@ number: "820.61"
 title: Ordonnance sur le nouveau régime de financement des soins
 short: ORFS
 language: fr
-version: 2016-09-01
-valid_until: 2021-12-31
-version_adopted: 2016-08-23
+version: 2022-01-01
+valid_until: 2026-09-30
+version_adopted: 2022-06-14
 adopted: 2011-01-25
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/820.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5462/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7504/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur le nouveau régime de financement des soins
 
-du 25.01.2011 (version entrée en vigueur le 01.09.2016)
+(ORFS)
+
+du 25.01.2011 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,13 +37,19 @@ Arrête:
 
 <sup>2</sup> Pour les organisations de soins et d'aide à domicile au bénéfice d'un mandat de prestations selon la loi sur l'aide et les soins à domicile, les coûts des soins correspondent aux montants fixés par l'article 7a al. 1 de l'ordonnance du Département fédéral de l'intérieur du 29 septembre 1995 sur les prestations dans l'assurance obligatoire des soins en cas de maladie.
 
-<sup>3</sup> Pour les autres organisations de soins et d'aide à domicile ainsi que pour les infirmiers et infirmières, les coûts des soins sont fixés comme il suit (par heure):
+<sup>3</sup> Pour les organisations de soins et d'aide à domicile non mandatés, les coûts des soins sont fixés comme il suit (par heure):
 
-- a) évaluation, conseils et coordination: Fr. 89.15
-- b) examens et traitements: Fr. 73.10
-- c) soins de base: Fr. 61.00
+- a) évaluation, conseils et coordination: — Fr. 89.15
+- b) examens et traitements: — Fr. 73.10
+- c) soins de base: — Fr. 61.00
 
-<sup>4</sup> La Direction de la santé et des affaires sociales est compétente pour fixer les modalités et conditions de facturation, par les infirmiers et infirmières, des coûts non pris en charge par l'assurance obligatoire des soins.
+<sup>3a</sup> Pour les infirmiers et infirmières, les coûts des soins sont fixés comme il suit (par heure):
+
+- a) évaluation, conseils et coordination: — Fr. 95.50
+- b) examens et traitements: — Fr. 78.50
+- c) soins de base: — Fr. 65.00
+
+<sup>4</sup> La Direction de la santé et des affaires sociales est compétente pour fixer les modalités et conditions de facturation des coûts non pris en charge par l'assurance obligatoire des soins.
 
 #### Art. 2
 

@@ -4,20 +4,22 @@ number: "820.61"
 title: Verordnung über die Neuordnung der Pflegefinanzierung
 short: NPFV
 language: de
-version: 2016-09-01
-valid_until: 2021-12-31
-version_adopted: 2016-08-23
+version: 2022-01-01
+valid_until: 2026-09-30
+version_adopted: 2022-06-14
 adopted: 2011-01-25
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/820.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/5462/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Neuordnung der Pflegefinanzierung
 
-vom 25.01.2011 (Fassung in Kraft getreten am 01.09.2016)
+(NPFV)
+
+vom 25.01.2011 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,13 +37,19 @@ beschliesst:
 
 <sup>2</sup> Für die Organisationen für Pflege und Hilfe zu Hause mit Leistungsauftrag nach dem Gesetz über die Hilfe und Pflege zu Hause entsprechen die Pflegekosten den Beträgen nach Artikel 7a Abs. 1 der Verordnung des Eidgenössischen Departements des Innern vom 29. September 1995 über Leistungen in der obligatorischen Krankenpflegeversicherung.
 
-<sup>3</sup> Für die übrigen Organisationen für Pflege und Hilfe zu Hause und für die Pflegefachpersonen werden die Pflegekosten wie folgt festgesetzt (pro Stunde):
+<sup>3</sup> Für die Organisationen für Pflege und Hilfe zu Hause ohne Leistungsauftrag werden die Pflegekosten wie folgt festgesetzt (pro Stunde):
 
-- a) Abklärung, Beratung und Koordination: Fr. 89.15
-- b) Untersuchungen und Behandlungen: Fr. 73.10
-- c) Grundpflege: Fr. 61.00
+- a) Abklärung, Beratung und Koordination: — Fr. 89.15
+- b) Untersuchung und Behandlung: — Fr. 73.10
+- c) Grundpflege: — Fr. 61.00
 
-<sup>4</sup> Die Direktion für Gesundheit und Soziales bestimmt für Pflegefachpersonen die Bedingungen und Fakturierungsmodalitäten von Pflegekosten, die von der obligatorischen Krankenversicherung nicht übernommen werden.
+<sup>3a</sup> Für die Pflegefachpersonen werden die Pflegekosten wie folgt festgesetzt (pro Stunde):
+
+- a) Abklärung, Beratung und Koordination: — Fr. 95.50
+- b) Untersuchung und Behandlung: — Fr. 78.50
+- c) Grundpflege: — Fr. 65.00
+
+<sup>4</sup> Die Direktion für Gesundheit und Soziales bestimmt die Bedingungen und Modalitäten der Fakturierung von Pflegekosten, die von der obligatorischen Krankenversicherung nicht übernommen werden.
 
 #### Art. 2
 
