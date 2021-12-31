@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2007 über die Gebühren des Bundesamtes für
 short: GebV-ASTRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/786"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2007-786-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-786-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20190101/de"
 
 (Gebührenverordnung ASTRA, GebV-ASTRA)
 
-vom 7. November 2007 (Stand am 1. Januar 2019)
+vom 7. November 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -151,13 +151,13 @@ Für Verwaltungsverfahren und Dienstleistungen, die bei Inkrafttreten dieser Ver
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 4)
 
 ## Gebühren für besondere Dienstleistungen und Bewilligungen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 30. Nov. 2018 ([AS 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Bereinigt gemäss Ziff. I der V vom 8. Sept. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)).
 
 <table>
 <tr><th></th><th></th><th>Franken</th></tr>
@@ -173,9 +173,13 @@ Anhang*[^t-1]*
 <tr><td>2.2</td><td>Dauerbewilligung</td><td>400</td></tr>
 <tr><td>3</td><td>Bekanntgabe von Daten aus Informationssystemen des ASTRA</td><td></td></tr>
 <tr><td>3.1</td><td>Informationssystem Verkehrszulassung</td><td></td></tr>
-<tr><td>3.1.1</td><td>Halterangaben im Ordnungsbussenverfahren, pro Adressangabe</td><td>2</td></tr>
+<tr><td>3.1.1</td><td>Lieferung von Halterangaben im Ordnungsbussenverfahren:</td><td></td></tr>
+<tr><td>3.1.1.1</td><td>Pauschalgebühr für bis zu 800 Adressangaben pro Jahr und Datenempfänger</td><td>200</td></tr>
+<tr><td>3.1.1.2</td><td>jede weitere Adressangabe</td><td>0.25</td></tr>
 <tr><td>3.1.2</td><td>Datenlieferung für Fahrzeugrückruf</td><td>280</td></tr>
-<tr><td>3.1.3</td><td>Erstellen einer Leistungs- und Datenschutzvereinbarung</td><td>280</td></tr>
+<tr><td>3.1.3</td><td>Erstellen einer Leistungs- und Datenschutzvereinbarung:</td><td></td></tr>
+<tr><td>3.1.3.1</td><td>für die Lieferung von Halterangaben im Ordnungsbussenverfahren</td><td>kostenlos</td></tr>
+<tr><td>3.1.3.2</td><td>in allen anderen Fällen</td><td>280</td></tr>
 <tr><td>3.1.4</td><td>Abgabe eines bestehenden Datensatzes, pro Datenlieferung</td><td>110</td></tr>
 <tr><td>3.1.5</td><td>Erstellen von kundenspezifischen Datensätzen, Auswertungen und Analysen nach Zeitaufwand, pro Arbeitsstunde</td><td>140</td></tr>
 <tr><td>3.1.6</td><td>Erteilen einer Zugriffsberechtigung auf die gesamtschweizerischen, aus dem Subsystem IVZ-Personen übernommenen Daten im Subsystem IVZ-Auswertung, für die Dauer eines Jahres, pro Zugriffsberechtigung</td><td>2000</td></tr>
@@ -185,7 +189,6 @@ Anhang*[^t-1]*
 <tr><td>3.2.2</td><td>Abgabe eines bestehenden Datensatzes, pro Datenlieferung</td><td>110</td></tr>
 <tr><td>3.2.3</td><td>Erstellen von kundenspezifischen Datensätzen, Auswertungen und Analysen nach Zeitaufwand, pro Arbeitsstunde</td><td>140</td></tr>
 <tr><td>3.2.4</td><td>Erteilen einer Zugriffsberechtigung auf die gesamtschweizerischen Daten im Auswertungssystem, für die Dauer eines Jahres, pro Zugriffsberechtigung</td><td>2000</td></tr>
-<tr><td>3.2.5</td><td>Erteilen einer Zugriffsberechtigung auf die mit weiteren Daten verknüpften gesamtschweizerischen Daten im Auswertungssystem, für die Dauer eines Jahres pro Zugriffsberechtigung</td><td>10 000</td></tr>
 <tr><td>3.3</td><td>Verkehrsmonitoring</td><td></td></tr>
 <tr><td></td><td>Erteilen einer Zugriffsberechtigung auf die gesamtschweizerischen Daten über das Verkehrsmonitoring, für die Dauer eines Jahres, pro Zugriffsberechtigung</td><td>2000</td></tr>
 <tr><td>4</td><td>Herausgabe von Fahrtschreiberkarten</td><td></td></tr>

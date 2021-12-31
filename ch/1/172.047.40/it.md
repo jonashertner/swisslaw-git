@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2007 concernente gli emolumenti dell'Ufficio fe
 short: OEmo-USTRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/786"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2007-786-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-786-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20190101/it"
 
 (Ordinanza sugli emolumenti USTRA, OEmo-USTRA)
 
-del 7 novembre 2007 (Stato 1° gennaio 2019) (Stato 1° gennaio 2019)
+del 7 novembre 2007 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -151,13 +151,13 @@ Il diritto previgente rimane applicabile per le procedure amministrative e le pr
 
 La presente ordinanza entra in vigore il 1° gennaio 2008.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 4)
 
 ## Emolumenti per prestazioni e autorizzazioni speciali
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 30 nov. 2018 ([RU 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Aggiornato dal n. I dell’O dell’8 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)).
 
 <table>
 <tr><th></th><th></th><th>Franchi</th></tr>
@@ -173,9 +173,13 @@ Allegato*[^t-1]*
 <tr><td>2.2</td><td>Permesso duraturo</td><td>400</td></tr>
 <tr><td>3</td><td>Comunicazione di dati contenuti nei sistemi d’informazione dell’USTRA</td><td></td></tr>
 <tr><td>3.1</td><td>Sistema d’informazione sull’ammissione alla circolazione</td><td></td></tr>
-<tr><td>3.1.1</td><td>Dati sui detentori nelle procedure per multe disciplinari, per indirizzo</td><td>2</td></tr>
+<tr><td>3.1.1</td><td>Fornitura di dati sui detentori nelle procedure per multe disciplinari:</td><td></td></tr>
+<tr><td>3.1.1.1</td><td>Emolumento forfettario per massimo 800 indirizzi all’anno e per destinatario</td><td>200</td></tr>
+<tr><td>3.1.1.2</td><td>Per ogni indirizzo supplementare</td><td>0.25</td></tr>
 <tr><td>3.1.2</td><td>Fornitura di dati per richiamo di veicoli</td><td>280</td></tr>
-<tr><td>3.1.3</td><td>Stesura di una convenzione sulle prestazioni e la protezione dei dati</td><td>280</td></tr>
+<tr><td>3.1.3</td><td>Stesura di una convenzione sulle prestazioni e la protezione dei dati:</td><td></td></tr>
+<tr><td>3.1.3.1</td><td>Per la fornitura di dati sui detentori nelle procedure per multe disciplinari</td><td>gratuita</td></tr>
+<tr><td>3.1.3.2</td><td>In tutti gli altri casi</td><td>280</td></tr>
 <tr><td>3.1.4</td><td>Consegna di una raccolta dati esistente, per ciascuna fornitura</td><td>110</td></tr>
 <tr><td>3.1.5</td><td>Creazione di raccolte dati personalizzate, valutazioni e analisi in base al tempo impiegato, per ora di lavoro</td><td>140</td></tr>
 <tr><td>3.1.6</td><td>Rilascio di un diritto di accesso ai dati nazionali trasferiti nel sottosistema SIAC Valutazione dal sottosistema SIAC Persone, per la durata di un anno, per ciascun diritto</td><td>2000</td></tr>
@@ -185,7 +189,6 @@ Allegato*[^t-1]*
 <tr><td>3.2.2</td><td>Consegna di una raccolta dati esistente, per ciascuna fornitura</td><td>110</td></tr>
 <tr><td>3.2.3</td><td>Creazione di raccolte dati personalizzate, valutazioni e analisi in base al tempo impiegato, per ora di lavoro</td><td>140</td></tr>
 <tr><td>3.2.4</td><td>Rilascio di un diritto di accesso ai dati nazionali contenuti nel sistema di valutazione, per la durata di un anno, per ciascun diritto</td><td>2000</td></tr>
-<tr><td>3.2.5</td><td>Rilascio di un diritto di accesso ai dati nazionali contenuti nel sistema di valutazione e collegati con altri dati, per la durata di un anno, per ciascun diritto</td><td>10000</td></tr>
 <tr><td>3.3</td><td>Monitoraggio del traffico</td><td></td></tr>
 <tr><td></td><td>Rilascio di un diritto di accesso ai dati nazionali sul monitoraggio del traffico, per la durata di un anno, per ciascun diritto</td><td>2000</td></tr>
 <tr><td>4</td><td>Rilascio di carte per tachigrafo</td><td></td></tr>

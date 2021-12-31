@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2007 régissant les émoluments de l'Office fé
 short: OEmol-OFRO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/786"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-786-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/786/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-786-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/786/20190101/fr"
 
 (Ordonnance sur les émoluments de l’OFROU, OEmol-OFROU)
 
-du 7 novembre 2007 (Etat le 1<sup>er</sup> janvier 2019)
+du 7 novembre 2007 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -35,7 +35,7 @@ La présente ordonnance régit les émoluments perçus pour les prestations et l
 
 #### Art. 2
 
-**Emoluments liés à la réception par type**
+**Émoluments liés à la réception par type**
 
 Les émoluments liés à la procédure de réception par type des véhicules sont régis par l’art. 32 et l’annexe 3 de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers[^2-1].
 
@@ -151,13 +151,13 @@ Les procédures administratives et les prestations qui ne sont pas encore achev�
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 4)
 
-## Emoluments pour prestations et autorisations spéciales
+## Émoluments pour prestations et autorisations spéciales
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 30 nov. 2018 ([RO 2018 4743](https://fedlex.data.admin.ch/eli/oc/2018/753)). Mise à jour par le ch. I de l’O du 8 sept. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 569](https://fedlex.data.admin.ch/eli/oc/2021/569)).
 
 <table>
 <tr><th></th><th></th><th>francs</th></tr>
@@ -173,22 +173,25 @@ Annexe*[^t-1]*
 <tr><td>2.2</td><td>Autorisation durable</td><td>400</td></tr>
 <tr><td>3</td><td>Communication de données extraites des systèmes d’information de l’OFROU</td><td></td></tr>
 <tr><td>3.1</td><td>Système d’information relatif à l’admission à la circulation</td><td></td></tr>
-<tr><td>3.1.1</td><td>Données sur les détenteurs dans le cadre d’une procédure relative aux amendes d’ordre, par adresse</td><td>2</td></tr>
+<tr><td>3.1.1</td><td>Livraison de données sur les détenteurs dans le cadre de la procédure de l’amende d’ordre:</td><td></td></tr>
+<tr><td>3.1.1.1</td><td>Forfait pour 800 adresses au maximum par an et par destinataire</td><td>200</td></tr>
+<tr><td>3.1.1.2</td><td>Toute adresse supplémentaire</td><td>0,25</td></tr>
 <tr><td>3.1.2</td><td>Livraison de données destinées à un rappel de véhicules</td><td>280</td></tr>
-<tr><td>3.1.3</td><td>Elaboration d’un contrat de prestations et de protection des données</td><td>280</td></tr>
+<tr><td>3.1.3</td><td>Élaboration d’un contrat de prestations et de protection des données:</td><td></td></tr>
+<tr><td>3.1.3.1</td><td>pour la livraison de données sur les détenteurs dans le cadre de la procédure relative aux amendes d’ordre</td><td>gratuit</td></tr>
+<tr><td>3.1.3.2</td><td>dans tous les autres cas</td><td>280</td></tr>
 <tr><td>3.1.4</td><td>Remise d’un jeu de données existant, par livraison de données</td><td>110</td></tr>
-<tr><td>3.1.5</td><td>Elaboration de jeux de données spécifiques au client, d’évaluations et d’analyses, en fonction du temps consacré, tarif horaire</td><td>140</td></tr>
+<tr><td>3.1.5</td><td>Élaboration de jeux de données spécifiques au client, d’évaluations et d’analyses, en fonction du temps consacré, tarif horaire</td><td>140</td></tr>
 <tr><td>3.1.6</td><td>Accès aux données suisses du sous-système SIAC-Personnes reprises dans le sous-système SIAC-Analyse, pour une durée d’un an, par accès</td><td>2000</td></tr>
 <tr><td>3.1.7</td><td>Accès aux données suisses du sous-système SIAC-Véhicules reprises dans le sous-système SIAC-Analyse, pour une durée d’un an, par accès</td><td>2000</td></tr>
 <tr><td>3.2</td><td>Système d’information relatif aux accidents de la route</td><td></td></tr>
-<tr><td>3.2.1</td><td>Elaboration d’un contrat de prestations et de protection des données</td><td>280</td></tr>
+<tr><td>3.2.1</td><td>Élaboration d’un contrat de prestations et de protection des données</td><td>280</td></tr>
 <tr><td>3.2.2</td><td>Remise d’un jeu de données existant, par livraison de données</td><td>110</td></tr>
-<tr><td>3.2.3</td><td>Elaboration de jeux de données spécifiques au client, d’évaluations et d’analyses, en fonction du temps consacré, tarif horaire</td><td>140</td></tr>
+<tr><td>3.2.3</td><td>Élaboration de jeux de données spécifiques au client, d’évaluations et d’analyses, en fonction du temps consacré, tarif horaire</td><td>140</td></tr>
 <tr><td>3.2.4</td><td>Accès aux données suisses du système d’analyse, pour une durée d’un an, par accès</td><td>2000</td></tr>
-<tr><td>3.2.5</td><td>Accès aux données suisses du système d’analyse liées à d’autres données, pour une durée d’un an par accès</td><td>10 000</td></tr>
 <tr><td>3.3</td><td>Monitorage du trafic</td><td></td></tr>
 <tr><td></td><td>Accès aux données suisses concernant le monitorage du trafic, pour une durée d’un an, par accès</td><td>2000</td></tr>
-<tr><td>4</td><td>Emission de cartes pour tachygraphe</td><td></td></tr>
+<tr><td>4</td><td>Émission de cartes pour tachygraphe</td><td></td></tr>
 <tr><td>4.1</td><td>Carte de conducteur</td><td></td></tr>
 <tr><td>4.1.1</td><td>Commande en ligne</td><td>70</td></tr>
 <tr><td>4.1.2</td><td>Demande sur papier</td><td>85</td></tr>
