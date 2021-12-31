@@ -3,20 +3,20 @@ sr: "642.118.1"
 title: "Ordonnance du DFF du 10 février 1993 sur la déduction des frais professionnels des personnes exerçant une activité lucrative dépendante en matière d'impôt fédéral direct (Ordonnance sur les frais professionnels)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: fr
-version: 2016-01-01
+version: 2022-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFF sur la déduction des frais professionnels des personnes exerçant une activité lucrative dépendante en matière d’impôt fédéral direct
 
-(Ordonnance sur les frais professionnels)**[^t-1]**
+(Ordonnance sur les frais professionnels)[^t-1]
 
-du 10 février 1993 (Etat le 1<sup>er</sup> janvier 2016)
+du 10 février 1993 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 3 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
 
@@ -39,7 +39,7 @@ arrête:
 
 #### Art. 2
 
-**Epoux**
+**Époux**
 
 Les déductions pour frais professionnels sont accordées à tout époux exerçant une activité lucrative dépendante. Si l’un des époux seconde l’autre dans sa profession, son commerce ou son entreprise, les déductions sont admissibles s’il existe un rapport de travail faisant l’objet d’un décompte avec les assurances sociales.
 
@@ -69,10 +69,20 @@ Si, au lieu de la déduction forfaitaire mentionnée aux art. 7, al. 1, et 10, l
 
 Sont déductibles:
 
-- a. les dépenses nécessaires liées à l’utilisation des transports publics; ou
+- a. les dépenses nécessaires liées à l’utilisation des transports publics, ou
 - b. les frais nécessaires par kilomètre parcouru au moyen d’un véhicule privé, pour autant qu’il n’existe pas de transports publics ou qu’il ne puisse être exigé du contribuable qu’il les utilise.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 6 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+
+#### Art. 5a
+
+**Frais de déplacement en cas d’utilisation gratuite d’un véhicule de fonction à des fins privées**[^5a-1]
+
+<sup>1</sup> S’il utilise gratuitement un véhicule de fonction pour des déplacements entre son lieu de domicile et son lieu de travail et à d’autres fins privées, le contribuable peut procéder à un calcul forfaitaire de ses frais de déplacement au lieu d’établir un décompte des frais effectifs de l’utilisation privée et de faire valoir la déduction des frais de déplacement visée à l’art. 5.
+
+<sup>2</sup> Aux fins du calcul forfaitaire des frais de déplacement, 0,9 % du prix d'achat du véhicule est considéré comme un revenu mensuel provenant de cette utilisation.
+
+[^5a-1]: Introduit par le ch. I de l’O du DFF du 15 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 165](https://fedlex.data.admin.ch/eli/oc/2021/165)).
 
 #### Art. 6
 
@@ -82,7 +92,7 @@ Sont déductibles:
 
 En cas de surplus de dépenses pour repas, seule la déduction forfaitaire visée à l’art. 3 est autorisée:
 
-- a. lorsque le contribuable ne peut prendre un repas principal à la maison parce que son domicile et son lieu de travail sont très éloignés l’un de l’autre ou parce que la pause-repas est trop courte; ou
+- a. lorsque le contribuable ne peut prendre un repas principal à la maison parce que son domicile et son lieu de travail sont très éloignés l’un de l’autre ou parce que la pause-repas est trop courte, ou
 - b. en cas de travail par équipes ou de nuit à horaire continu.[^6-1]
 
 <sup>2</sup> Seule la demi-déduction est autorisée lorsque l’employeur contribue à l’abaissement du prix des repas par un moyen autre qu’en espèces (remise de bons) ou lorsque les repas peuvent être pris dans une cantine, dans un restaurant pour le personnel ou un restaurant de l’employeur.[^6-2]
@@ -147,7 +157,7 @@ Une déduction forfaitaire conformément à l’art. 3 est autorisée pour les f
 
 [^11-1]: [[RO 1992 1166](https://fedlex.data.admin.ch/eli/oc/1992/1166_1166_1166)]
 
-## Disposition transitoire relative à la modification du 3 novembre 2006****
+## Disposition transitoire relative à la modification du 3 novembre 2006
 
 [^u1-1]
 

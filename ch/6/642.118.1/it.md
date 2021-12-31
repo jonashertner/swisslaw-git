@@ -3,11 +3,11 @@ sr: "642.118.1"
 title: "Ordinanza del DFF del 10 febbraio 1993 sulla deduzione delle spese professionali delle persone esercitanti un'attività lucrativa dipendente ai fini dell'imposta federale diretta (Ordinanza sulle spese professionali)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: it
-version: 2016-01-01
+version: 2022-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20160101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20160101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20160101/it"
 
 (Ordinanza sulle spese professionali)**[^t-1]**
 
-del 10 febbraio 1993 (Stato 1° gennaio 2016)
+del 10 febbraio 1993 (Stato 1° gennaio 2022)
 
 [^t-1]: RU **1993** 1363 Nuovo testo giusta il n. I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 (RU **2006** 4887).
 
@@ -73,6 +73,16 @@ Sono considerati costi deducibili:
 - b. i costi necessari sostenuti per ogni chilometro percorso con l’uso di un veicolo privato, se non è disponibile un mezzo di trasporto pubblico o non è ragionevole pretendere che il contribuente ne faccia uso.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+
+#### Art. 5a
+
+**Spese di trasporto per l’uso privato di veicoli aziendali a titolo gratuito**[^5a-1]
+
+<sup>1</sup> Se il contribuente usa un veicolo aziendale a titolo gratuito per il trasporto dal luogo di domicilio a quello di lavoro nonché per altri scopi privati, anziché conteggiare le spese effettive derivanti dall’uso privato e operare una deduzione delle spese di trasporto secondo l’articolo 5, è possibile effettuare un calcolo forfettario delle spese di trasporto.
+
+<sup>2</sup> Ai fini del calcolo forfettario delle spese di trasporto, è considerato reddito mensile derivante da tale uso lo 0,9 per cento del prezzo d’acquisto del veicolo.
+
+[^5a-1]: Introdotto dal n. I dell’O del DFF del 15 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 165](https://fedlex.data.admin.ch/eli/oc/2021/165)).
 
 #### Art. 6
 

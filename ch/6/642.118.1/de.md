@@ -3,11 +3,11 @@ sr: "642.118.1"
 title: Verordnung des EFD vom 10. Februar 1993 über den Abzug der Berufskosten unselbstständig Erwerbstätiger bei der direkten Bundessteuer (Berufskostenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: de
-version: 2016-01-01
+version: 2022-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20160101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20160101/de"
 
 (Berufskostenverordnung)[^t-1]
 
-vom 10. Februar 1993 (Stand am 1. Januar 2016)
+vom 10. Februar 1993 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EFD vom 6. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
 
@@ -73,6 +73,16 @@ Als Kosten sind abziehbar:
 - b. die notwendigen Kosten pro gefahrene Kilometer für die Benützung eines privaten Fahrzeugs, sofern kein öffentliches Verkehrsmittel zur Verfügung steht oder dessen Benützung objektiv nicht zumutbar ist.
 
 [^5-1]: Fassung gemäss Ziff. I der V des EFD vom 6. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+
+#### Art. 5a
+
+**Fahrkosten bei der unentgeltlichen privaten Nutzung von Geschäftsfahrzeugen**[^5a-1]
+
+<sup>1</sup> Nutzt die steuerpflichtige Person ein Geschäftsfahrzeug unentgeltlich für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke, so kann anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung und des Fahrkostenabzugs nach Artikel 5 eine pauschale Fahrkostenberechnung vorgenommen werden.
+
+<sup>2</sup> Bei der pauschalen Fahrkostenberechnung gelten 0,9 Prozent des Kaufpreises des Fahrzeugs als monatliches Einkommen aus dieser Nutzung.
+
+[^5a-1]: Eingefügt durch Ziff. I der V des EFD vom 15. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 165](https://fedlex.data.admin.ch/eli/oc/2021/165)).
 
 #### Art. 6
 
