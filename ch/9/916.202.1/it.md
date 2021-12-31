@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFAG del 29 novembre 2019 concernente le misure fitosanit
 short: OMF-UFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/757"
 language: it
-version: 2020-12-01
+version: 2022-01-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20201201/it/xml/fedlex-data-admin-ch-eli-cc-2019-757-20201201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20201201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2019-757-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20201201/it"
 
 (OMF-UFAG)
 
-del 29 novembre 2019 (Stato 1° dicembre 2020) (Stato 1° dicembre 2020)
+del 29 novembre 2019 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -43,19 +43,20 @@ Le merci temporaneamente escluse dal divieto d’importazione, le condizioni d�
 
 #### Art. 3
 
-**Misure contro nuovi organismi nocivi**
+**Misure contro organismi da quarantena potenziali**[^3-1]
 
-Le misure volte a impedire l’introduzione e la diffusione di nuovi organismi nocivi che potrebbero rivelarsi particolarmente pericolosi e non figurano nell’allegato 1 dell’ordinanza del DEFR e del DATEC del 14 novembre 2019[^3-1] concernente l’ordinanza sulla salute dei vegetali (OSalV-DEFR-DATEC) sono indicate nell’allegato 3.
+Le misure volte a impedire l’introduzione e la diffusione di organismi da quarantena potenziali sono indicate nell’allegato 3.
 
-[^3-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^3-1]: Nuovo testo giusta il n. I dell’O dell’UFAG del 25 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
 
 #### Art. 4
 
-**Misure speciali in caso di rischio fitosanitario elevato**
+**Misure speciali in caso di rischio fitosanitario elevato**[^4-1]
 
-Le misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di organismi nocivi di cui all’allegato 1 OSalV-DEFR-DATEC[^4-1] sono indicate nell’allegato 4.
+Le misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di organismi da quarantena di cui all’allegato 1 dell’ordinanza del DEFR e del DATEC del 14 novembre 2019[^4-2] concernente l’ordinanza sulla salute dei vegetali (OSalV-DEFR-DATEC) sono indicate nell’allegato 4.
 
-[^4-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^4-1]: Nuovo testo giusta il n. I dell’O dell’UFAG del 25 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
+[^4-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 #### Art. 5
 
@@ -193,25 +194,11 @@ Allegato 3*[^t-2]*
 
 (art. 3)
 
-## Misure volte a impedire l’introduzione e la diffusione di nuovi organismi nocivi che potrebbero rivelarsi particolarmente pericolosi e non figurano nell’allegato 1 OSalV-DEFR-DATEC****
+## Misure volte a impedire l’introduzione e la diffusione di organismi da quarantena potenziali
 
-[^annex3-lvlu1-1]
+[^t-2]: Aggiornato dal n. I dell’O dell’UFAG del 26 mag. 2020 ([RU 2020 1831](https://fedlex.data.admin.ch/eli/oc/2020/370)), dal n. II cpv. 1 dell’O dell’UFAG del 10 lug. 2020 ([RU 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)), dal n. I dell’O dell’UFAG del 30 ott. 2020 ([RU 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) e dal n. II cpv. 1 dell’O dell’UFAG del 25 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
 
-[^t-2]: Aggiornato dal n. I dell’O dell’UFAG del 26 mag. 2020 ([RU 2020 1831](https://fedlex.data.admin.ch/eli/oc/2020/370)), dal n. II cpv. 1 dell’O dell’UFAG del 10 lug. 2020 ([RU 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)) e dal n. I dell’O dell’UFAG del 30 ott. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)).
-[^annex3-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-
-### 1 Virus del mosaico del pepino
-
-### 1.1 Misure volte a impedire l’introduzione e la diffusione
-
-Per prevenire l’introduzione e la diffusione del virus del mosaico del pepino si applicano gli articoli 1–4 della decisione 2004/200/CE[^annex3-lvlu1-lvl1-lvl11-1] e l’allegato ivi menzionato.
-
-[^annex3-lvlu1-lvl1-lvl11-1]: Decisione 2004/200/CE della Commissione, del 27 febbraio 2004, relativa a misure di lotta contro l’introduzione e la propagazione nella Comunità del virus del mosaico del pepino, versione GU L 64 del 2.3.2004, pag. 43.
-
-### 1.2 Disposizioni speciali
-
-- 1\.2.1 Le sementi di pomodoro che nell’UE soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dalla decisione 2004/200/CE possono essere importate anche in Svizzera.
-- 1\.2.2 Gli studi ufficiali menzionati nell’articolo 4 della decisione 2004/200/CE per individuare la presenza del virus del mosaico del pepino negli impianti adibiti alla produzione di vegetali di pomodoro compresi i frutti sono eseguiti dal Servizio fitosanitario federale (SFF).
+### 1 ...
 
 ### 2 *Epitrix cucumeris* (Harris), *Epitrix similaris* (Gentner), *Epitrix subcrinita* (Lec.) ed *Epitrix tuberis* (Gentner)
 
@@ -255,34 +242,47 @@ I vegetali specificati che nell’UE soddisfano i requisiti per il trasporto all
 
 ### 5.1 Misure volte a impedire l’introduzione e la diffusione
 
-Per prevenire l’introduzione e la diffusione del Tomato brown rugose fruit virus (ToBRFV) si applicano gli articoli 1–10 e 12 del regolamento di esecuzione (UE) 2020/1191[^annex3-lvlu1-lvl5-lvl51-1].
+Per prevenire l’introduzione e la diffusione del Tomato brown rugose fruit virus (ToBRFV) si applicano gli articoli 1–4, 5 paragrafi 1 e 2, 6 – 10 e 12 del regolamento di esecuzione (UE) 2020/1191[^annex3-lvlu1-lvl5-lvl51-1].
 
-[^annex3-lvlu1-lvl5-lvl51-1]: Regolamento di esecuzione (UE) 2020/1191 della Commissione dell’11 agosto 2020 che istituisce misure per impedire l’introduzione e la diffusione nell’Unione del virus ToBRFV (Tomato brown rugose fruit virus), versione GU L 262 del 12.8.2020, pag. 6.
+[^annex3-lvlu1-lvl5-lvl51-1]: Regolamento di esecuzione (UE) 2020/1191 della Commissione dell’11 agosto 2020 che istituisce misure per impedire l’introduzione e la diffusione nell’Unione del virus ToBRFV (Tomato brown rugose fruit virus), versione GU L 262 del 12.8.2020, pag. 6, modificata da ultimo dalla decisione di esecuzione (UE) 2021/74, GU L 27 del 27.1.2021, pag. 15.
 
 ### 5.2 Disposizioni speciali
 
 - 5\.2.1 I vegetali e le sementi specificati che nell’UE soddisfano i requisiti per il trasporto all’interno dell’UE stabiliti dal regolamento di esecuzione (UE) 2020/1191 possono essere importati anche in Svizzera.
 - 5\.2.2 L’autorità competente menzionata nell’articolo 3 paragrafo 1 del regolamento di esecuzione (UE) 2020/1191 è il servizio cantonale competente. Se la presenza dell’infestazione o il sospetto d’infestazione riguardano un’azienda omologata ai sensi dell’articolo 76 o 89 OSalV, la presenza o il sospetto vanno notificati al SFF.
-- 5\.2.3 Se il servizio cantonale competente è a conoscenza del fatto che piante di *Solanum lycopersicum* L. o *Capsicum annuum* L. sono infestate dal virus ToBRFV, ne dà notifica senza indugio al SFF.
+- 5\.2.3 Se il servizio cantonale competente è a conoscenza del fatto che piante di *Solanum* *lycopersicum* L. e loro ibridi o *Capsicum* spp. sono infestate dal virus ToBRFV, ne dà notifica senza indugio al SFF.
 - 5\.2.4
 
-  Se in base a una notifica di sospetto o per altri motivi si suppone che piante di *Solanum lycopersicum* L. o *Capsicum annuum* L. siano infestate dal virus ToBRFV, devono essere disposte le seguenti misure:
+  Se in base a una notifica di sospetto o per altri motivi si suppone che piante di *Solanum lycopersicum* L. e loro ibridi o *Capsicum* spp. siano infestate dal virus ToBRFV, devono essere disposte le seguenti misure:
 
-  - a. la messa in quarantena delle colture interessate nonché dei frutti e delle sementi raccolti in tali colture;
-  - b. misure d’igiene, in particolare una regolamentazione degli accessi, come unità di decontaminazione e l’utilizzo di attrezzature di protezione personali, nonché la disinfezione degli attrezzi di lavoro e dei locali nel sito di produzione potenzialmente infestato e negli altri siti di produzione.
+  - a. la messa in quarantena delle colture interessate nonché dei frutti e delle sementi raccolti in tali colture; per i frutti di piante asintomatiche destinati al consumo diretto, non è necessario ordinare la messa in quarantena;
+  - b. misure d’igiene, in particolare una regolamentazione degli accessi, come il sistema di ingresso a doppia porta, e l’utilizzo di attrezzature di protezione personali, nonché la disinfezione degli attrezzi di lavoro e dei locali nel sito di produzione potenzialmente infestato e negli altri siti di produzione.
 
 - 5\.2.5 Qualora la diagnosi di un laboratorio designato dal SFF confermi che la supposizione d’infestazione ai sensi del numero 5.2.4 non è comprovabile, la quarantena e le misure d’igiene vengono revocate.
 - 5\.2.6
 
   Le opportune misure per eradicare l’organismo nocivo menzionate nell’articolo 4 del regolamento di esecuzione (UE) 2020/1191 comprendono in particolare:
 
-  - a. la distruzione di tutti i materiali vegetali di *Solanum lycopersicum* L. e *Capsicum annuum* L., infetti o di cui si suppone che lo siano, in un impianto di incenerimento dei rifiuti urbani o con un’altra procedura che fornisca le necessarie garanzie fitosanitarie;
+  - a. la distruzione di tutti i materiali vegetali di *Solanum lycopersicum* L. e loro ibridi o *Capsicum* spp., infetti o di cui si suppone che lo siano, in un impianto di incenerimento dei rifiuti urbani o con un’altra procedura che fornisca le necessarie garanzie fitosanitarie;
   - b. la disinfezione del luogo, nonché degli attrezzi e degli oggetti entrati in contatto con il materiale vegetale;
-  - c. il divieto di coltivazione o di piantagione di *Solanum lycopersicum* L. e *Capsicum annuum* L. nei siti di produzione interessati finché questi non siano da considerarsi risanati.
+  - c. il divieto di coltivazione o di piantagione di *Solanum lycopersicum* L. e loro ibridi o *Capsicum* spp. nei siti di produzione interessati finché questi non siano da considerarsi risanati.
 
 - 5\.2.7 Nelle aziende omologate dal SFF per il rilascio di passaporti fitosanitari, il SFF è responsabile della disposizione delle misure di cui ai numeri 5.2.4 e 5.2.6. In altre aziende e in tutti gli altri luoghi, come i giardini privati, spetta al servizio cantonale competente disporre le misure di cui ai numeri 5.2.4 e 5.2.6.
 - 5\.2.8 Invece del termine menzionato nell’articolo 5 del regolamento di esecuzione (UE) 2020/1191 si applica quello stabilito dal SFF. Quest’ultimo comunica il termine ai Cantoni in forma adeguata.
 - 5\.2.9 Le sementi specificate originarie di Paesi terzi già immagazzinate prima del 15 agosto 2020 possono essere importate in Svizzera soltanto se nella rubrica «Dichiarazione supplementare» del certificato fitosanitario figura la dichiarazione ufficiale di cui all’articolo 9 paragrafo 1 lettera a numero ii del regolamento di esecuzione (UE) 2020/1191.
+- 5\.2.10
+
+  Non è richiesto alcun passaporto fitosanitario ai sensi degli articoli 6 e 7 del regolamento di esecuzione (UE) 2020/1191 per:
+
+  - a. la messa in commercio di piante e sementi direttamente a consumatori finali che non utilizzano la merce per scopi professionali o commerciali; un passaporto fitosanitario è invece richiesto se la merce è stata ordinata tramite comunicazione a distanza;
+  - b. piante e sementi importati nel bagaglio personale dei viaggiatori e non utilizzati per scopi professionali o commerciali.
+
+- 5\.2.11
+
+  A condizione che si possa escludere la diffusione del ToBRFV, l’UFAG può autorizzare su richiesta l’importazione per i seguenti scopi:
+
+  - a. ricerca;
+  - b. diagnosi.
 
 ### 6 Virus Rose Rosette
 
@@ -292,15 +292,22 @@ Per prevenire l’introduzione e la diffusione del virus Rose Rosette si applica
 
 [^annex3-lvlu1-lvl6-lvl61-1]: Decisione di esecuzione (UE) 2019/1739 della Commissione, del 16 ottobre 2019, che stabilisce misure d’emergenza per evitare l’introduzione e la diffusione nell’Unione del virus Rose Rosette, GU L 265 del 18.10.2019, pag. 12.
 
+### 6.2 Disposizioni speciali
+
+A condizione che si possa escludere la diffusione del virus Rose Rosette, su richiesta l’UFAG può autorizzare l’importazione per i seguenti scopi:
+
+- a. ricerca;
+- b. diagnosi.
+
 Allegato 4*[^t-3]*
 
 (art. 4)
 
-## Misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di organismi nocivi di cui all’allegato 1 OSalV-DEFR-DATEC****
+## Misure speciali adottate in caso di rischio fitosanitario elevato per impedire l’introduzione e la diffusione di organismi da quarantena di cui all’allegato 1 OSalV-DEFR-DATEC****
 
 [^annex4-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. I delle O dell’UFAG del 2 set. 2020 ([RU 2020 3643](https://fedlex.data.admin.ch/eli/oc/2020/661)) e del 30 ott. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)).
+[^t-3]: Aggiornato dal n. I delle O dell’UFAG del 30 ott. 2020 ([RU 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) e dal n. II cpv. 1 dell’O dell’UFAG del 25 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
 [^annex4-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 ### 1 *Thrips palmi* Karny originario della Thailandia
@@ -321,7 +328,7 @@ Le ispezioni menzionate al numero 3 dell’allegato della decisione 98/109/CE so
 
 Per prevenire l’introduzione e la diffusione di *Xylella fastidiosa* (Wells et al.) si applicano gli articoli 1, 2 paragrafi 1–7 e 3–34 nonché gli allegati 1–4 del regolamento di esecuzione (UE) 2020/1201[^annex4-lvlu1-lvl2-lvl21-1].
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2020/1201 della Commissione del 14 agosto 2020 relativo alle misure per prevenire l’introduzione e la diffusione nell’Unione della *Xylella fastidiosa* (Wells et al.), versione GU L 269 del 17.8.2020, pag. 2.
+[^annex4-lvlu1-lvl2-lvl21-1]: Regolamento di esecuzione (UE) 2020/1201 della Commissione del 14 agosto 2020 relativo alle misure per prevenire l’introduzione e la diffusione nell’Unione della *Xylella fastidiosa* (Wells et al.), versione GU L 269 del 17.8.2020, pag. 2, modificata da ultimo dalla decisione di esecuzione (UE) 2021/1688, GU L 332 del 20.9.2021, pag. 6.
 
 ### 2.2 Disposizioni speciali
 
@@ -342,7 +349,7 @@ Per prevenire l’introduzione e la diffusione di *Xylella fastidiosa* (Wells et
 
 Per prevenire l’introduzione e la diffusione di Phyllosticta citricarpa (McAlpine) Van der Aa si applicano gli articoli 1–10, 11 paragrafo 1, 12–13 e 15–17 della decisione di esecuzione (UE) 2016/715[^annex4-lvlu1-lvl3-lvl31-1].
 
-[^annex4-lvlu1-lvl3-lvl31-1]: Decisione di esecuzione (UE) 2016/715 della Commissione, dell’11 maggio 2016, che stabilisce misure per quanto concerne taluni frutti originari di taluni Paesi terzi per impedire l’introduzione e la diffusione nell’Unione dell’organismo nocivo *Phyllosticta citricarpa* (McAlpine) Van der Aa, GU L 125, del 13.5.2016, pag. 16, modificata da ultimo dalla decisione di esecuzione (UE) 2019/449, GU L 77 del 20.3.2019, pag. 76.
+[^annex4-lvlu1-lvl3-lvl31-1]: Decisione di esecuzione (UE) 2016/715 della Commissione, dell’11 maggio 2016, che stabilisce misure per quanto concerne taluni frutti originari di taluni Paesi terzi per impedire l’introduzione e la diffusione nell’Unione dell’organismo nocivo *Phyllosticta citricarpa* (McAlpine) Van der Aa, GU L 125, del 13.5.2016, pag. 16, modificata da ultimo dalla decisione di esecuzione (UE) 2021/682, GU L 144 del 27.4.2021, pag. 31.
 
 ### 3.2 Disposizioni speciali
 
@@ -350,9 +357,6 @@ Per prevenire l’introduzione e la diffusione di Phyllosticta citricarpa (McAlp
 - 3\.2.2 Dopo l’esecuzione delle ispezioni menzionate nell’articolo 12 della decisione di esecuzione (UE) 2016/715 dei frutti specificati importati in Svizzera, questi sono direttamente e immediatamente trasportati negli impianti di trasformazione o in un deposito di cui all’articolo 15 di detta decisione di esecuzione, in ogni caso sotto la vigilanza del SFF.
 - 3\.2.3 I frutti specificati possono essere nuovamente esportati nell’UE soltanto se il SFF autorizza tale trasferimento.
 - 3\.2.4 In Svizzera l’organismo ufficiale responsabile menzionato negli articoli 13–15 della decisione di esecuzione (UE) 2016/715 è il SFF.
-- 3\.2.5 L’importazione di frutti freschi di *Citrus limon* (L.) N. Burm.f. (voce della tariffa doganale[^annex4-lvlu1-lvl3-lvl32-1] ex 0805.5000) e *Citrus sinensis* (L.) Osbeck (voce della tariffa doganale ex 0805.1000) originari dell’Argentina è vietata fino al 30 aprile 2021.
-
-[^annex4-lvlu1-lvl3-lvl32-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Allegato
 
 ### 4 *Spodoptera frugiperda* (Smith)
 
@@ -360,14 +364,14 @@ Per prevenire l’introduzione e la diffusione di Phyllosticta citricarpa (McAlp
 
 Per prevenire l’introduzione e la diffusione di *Spodoptera frugiperda* (Smith) si applicano gli articoli 1–5, 6 paragrafi 1 e 2, nonché 8 della decisione di esecuzione (UE) 2018/638[^annex4-lvlu1-lvl4-lvl41-1].
 
-[^annex4-lvlu1-lvl4-lvl41-1]: Decisione di esecuzione (UE) 2018/638 della Commissione, del 23 aprile 2018, che istituisce misure d’emergenza per impedire l’introduzione e la diffusione nell’Unione dell’organismo nocivo *Spodoptera frugiperda* (Smith), GU L 105 del 25.4.2018, pag. 31, modificata da ultimo dalla decisione di esecuzione (UE) 2019/1598, GU L 248 del 26.9.2019, pag. 86.
+[^annex4-lvlu1-lvl4-lvl41-1]: Decisione di esecuzione (UE) 2018/638 della Commissione, del 23 aprile 2018, che istituisce misure d’emergenza per impedire l’introduzione e la diffusione nell’Unione dell’organismo nocivo *Spodoptera frugiperda* (Smith), GU L 105 del 25.4.2018, pag. 31, modificata da ultimo dalla decisione di esecuzione (UE) 2021/869, GU L 191 del 27.5.2021, pag. 4.
 
 ### 4.2 Disposizioni speciali
 
 - 4\.2.1 In Svizzera l’organismo ufficiale responsabile menzionato negli articoli 2 paragrafi 1–3 e 6 paragrafo 2 della decisione di esecuzione (UE) 2018/638 è il servizio fitosanitario cantonale competente. Sono eccettuati i rilevamenti in aziende omologate ai sensi del articolo 76 OSalV che sono garantiti dal SFF.
 - 4\.2.2 Negli articoli 3 e 5 della decisione di esecuzione (UE) 2018/638, per trasporto dei vegetali specificati nell’Unione si intende l’importazione nell’UE o in Svizzera.
 - 4\.2.3 L’organismo ufficiale responsabile menzionato negli articoli 3 lettera c e 5 paragrafo 2 della decisione di esecuzione (UE) 2018/638 è l’organizzazione fitosanitaria nazionale dello Stato membro dell’UE in cui si trova il punto di entrata nell’UE del vegetale specificato. Nei casi di cui all’articolo 46 capoverso 2 OSalV l’organismo ufficiale responsabile è il SFF.
-- 4\.2.4 I Cantoni comunicano al SFF entro il 31 marzo i risultati dei rilevamenti effettuati nell’anno civile precedente.
+- 4\.2.4 Per i rapporti sui rilevamenti effettuati si applicano le prescrizioni e i termini stabiliti dal SFF. Quest’ultimo comunica le prescrizioni e i termini ai Cantoni in forma adeguata.
 
 ### 5 *Aromia bungii* (Faldermann)
 
@@ -391,7 +395,7 @@ Allegato 5*[^t-4]*
 
 ## Merci per le quali si applica un divieto d’importazione preventivo da determinati Stati terzi a causa del rischio fitosanitario elevato
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O dell’UFAG del 10 lug. 2020 ([RU 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Aggiornato dal n. I dell’O dell’UFAG del 30 ott. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)).
+[^t-4]: Introdotto dal n. II cpv. 2 dell’O dell’UFAG del 10 lug. 2020 ([RU 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Nuovo testo giusta il n. II cpv. 2 dell’O dell’UFAG del 25 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
 
 ### 1 Merci per le quali si applica un divieto d’importazione preventivo
 
@@ -400,7 +404,7 @@ Allegato 5*[^t-4]*
 <table>
 <tr><th>Voce di tariffa[^annex5-lvlu1-lvl1-1]</th><th>Designazione genere o specie</th><th>Paese di origine</th></tr>
 <tr><td>ex 0602</td><td>*Acacia* Mill</td><td>Tutti gli Stati terzi</td></tr>
-<tr><td>ex 0602</td><td>*Acer* L.</td><td></td></tr>
+<tr><td>ex 0602</td><td>*Acer* L.; il divieto d’importazione preventivo non si applica ai vegetali di uno-tre anni, innestati, anche a gemma, privi di foglie, a radice nuda, in riposo vegetativo appartenenti alle specie *Acer japonicum* Thunberg, *Acer* *palmatum* Thunberg e *Acer shirasawanum* Koidzumi originari della Nuova Zelanda, a condizione che siano adempiuti i requisiti di cui al numero 2;</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Albizia Durazz*; il divieto d’importazione preventivo non si applica ai vegetali innestati durante il riposo vegetativo con un diametro massimo di 2,5 cm con *Albizia julibrissin* Durazzini provenienti da Israele, a condizione che siano adempiuti i requisiti di cui al numero 2;</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Alnus* Mill.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Annona* L.</td><td></td></tr>
@@ -414,19 +418,16 @@ Allegato 5*[^t-4]*
 <tr><td>ex 0602</td><td>*Corylus* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Crataegus* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Diospyros* L.</td><td></td></tr>
+<tr><th>Voce di tariffa</th><th>Designazione genere o specie</th><th>Paese di origine</th></tr>
 <tr><td>ex 0602</td><td>*Fagus* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Ficus carica* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Fraxinus* L.</td><td></td></tr>
-</table>
-
-<table>
-<tr><th>Voce di tariffa</th><th>Designazione genere o specie</th><th>Paese di origine</th></tr>
 <tr><td>ex 0602</td><td>*Hamamelis* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Jasminum* L.</td><td></td></tr>
+<tr><td>ex 0602</td><td>J*asminum* L.; il divieto d’importazione preventivo non si applica alle talee senza radici di piante da impianto di *Jasminum* *polyanthum* Franchet originarie di Israele, a condizione che siano adempiuti i requisiti di cui al numero 2;</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Juglans* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Ligustrum* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Lonicera* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Malus* Mill.</td><td></td></tr>
+<tr><td>ex 0602</td><td>*Malus* Mill.; il divieto d’importazione preventivo non si applica ai vegetali, di uno-due anni, innestati, a radice nuda, in riposo vegetativo appartenenti alla specie *Malus domestica* originarie della Serbia, a condizione che siano adempiuti i requisiti di cui al numero 2;</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Nerium* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Persea* Mill.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Populus* L.</td><td></td></tr>
@@ -450,16 +451,20 @@ Allegato 5*[^t-4]*
 - **1.3** Frutti di *Momordica* L., appartenenti ai seguenti generi o alle seguenti specie e provenienti da Stati terzi o zone di Stati terzi in cui è notoriamente presente *Thrips palmi* Karnye in cui non sono state prese misure efficaci per il contenimento del parassita:
 
 <table>
-<tr><td>Voce di tariffa</td><td>Designazione genere o specie</td></tr>
+<tr><th>Voce di tariffa</th><th>Designazione genere o specie</th></tr>
 <tr><td>ex 0709.9999</td><td>*Momordica* L.</td></tr>
 </table>
 
-[^annex5-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), Allegato
+[^annex5-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Allegato
 
 ### 2 Merci per cui non si applica un divieto d’importazione preventivo conformemente al numero 1, se adempiono i seguenti requisiti
 
 <table>
 <tr><th>Designazione merce</th><th>Voce di tariffa</th><th>Paese di origine</th><th>Requisiti</th></tr>
-<tr><td>1. Vegetali innestati durante il riposo vegetativo con un diametro massimo di 2,5 cm con *Albizia* *julibrissin* Durazzini</td><td>ex 0602.90</td><td>Israele</td><td>Constatazione ufficiale che: a. i vegetali provengono da un luogo di produzione che è registrato presso l’organizzazione fitosanitaria nazionale ed è sorvegliato da questa organizzazione; b. i vegetali provengono da superfici di coltivazione destinate alla produzione di vegetali per l’esportazione con una distanza idonea dalle altre superfici di coltivazione affinché vi sia una sufficiente protezione da un’infezione di *Aonidiella orientalis*, *Euwallacea fornicatus* e *Fusarium euwallacea*; c. i vegetali provengono da superfici di coltivazione sottoposte a trattamenti efficaci contro *Aonidiella orientalis*, *Euwallacea* *fornicatus* e *Fusarium euwallacea* e i trattamenti sono stati effettuati nel momento opportuno; d. sono state effettuate ispezioni ufficiali a intervalli adeguati sulle superfici di coltivazione e sulla base di tali ispezioni le superfici di coltivazione sono risultate indenni da *Aonidiella orientalis*, *Euwallacea* *fornicatus* e *Fusarium euwallacea*; e. i vegetali sono risultati indenni da *Aonidiella orientalis*, *Euwallacea* *fornicatus* e *Fusarium euwallacea*; qualora siano constatati sintomi di questi organismi nocivi, l’assenza di questi ultimi va confermata mediante l’utilizzo di test; f. per i vegetali provenienti o elaborati in aziende che al fine della tracciabilità sono state ufficialmente registrate; e g. durante il trasporto dalla superficie di coltivazione al luogo di destinazione, i vegetali sono scortati da documenti rilasciati sotto sorveglianza dell’organizzazione fitosanitaria nazionale che ne garantiscono la tracciabilità.</td></tr>
-<tr><td>2. Vegetali innestati durante il riposo vegetativo con un diametro massimo di 2,5 cm con *Robinia pseudoacacia* L.</td><td>ex 0602.90</td><td>Israele</td><td>Costatazione ufficiale che: a. i vegetali provengono da un luogo di produzione che è registrato presso l’organizzazione fitosanitaria nazionale ed è sorvegliato da questa organizzazione; b. i vegetali provengono da superfici di coltivazione destinate alla produzione di vegetali per l’esportazione con una distanza idonea dalle altre superfici di coltivazione affinché vi sia una sufficiente protezione da un’infezione di *Aonidiella orientalis*, *Euwallacea fornicatus* e *Fusarium* *euwallacea*; c. i vegetali provengono da superfici di coltivazione sottoposte a trattamenti efficaci contro *Aonidiella orientalis*, *Euwallacea* *fornicatus* e *Fusarium euwallacea* e i trattamenti sono stati effettuati nel momento opportuno; d. sono state effettuate ispezioni ufficiali a intervalli adeguati sulle superfici di coltivazione e sulla base di tali ispezioni le superfici di coltivazione sono risultate indenni da *Aonidiella orientalis*, *Euwallacea fornicatus* e *Fusarium* *euwallacea*; e. i vegetali sono risultati indenni da *Aonidiella orientalis*, *Euwallacea* *fornicatus* e *Fusarium euwallacea*; qualora siano constatati sintomi di questi organismi nocivi, l’assenza di questi ultimi va confermata mediante l’utilizzo di test; f. per i vegetali provenienti o elaborati in aziende che al fine della tracciabilità sono state ufficialmente registrate; e g. durante il trasporto dalla superficie di coltivazione al luogo di destinazione, i vegetali sono scortati da documenti rilasciati sotto sorveglianza dell’organizzazione fitosanitaria nazionale che ne garantiscono la tracciabilità.</td></tr>
+<tr><td>1. Vegetali, di uno-tre anni, innestati, anche a gemma, privi di foglie, a radice nuda, in riposo vegetativo di *Acer* *japonicum* Thunberg, *Acer palmatum* Thunberg e *Acer shirasawanum* Koidzumi</td><td>ex 0602.90</td><td>Nuova Zelanda</td><td>a. Constatazione ufficiale che: i) le piante sono indenni da *Eotetranychus* *sexmaculatus*; ii) le piante sono state coltivate per tutto il loro ciclo vitale in un luogo di produzione che, unitamente ai siti di produzione che ne fanno parte, è registrato e controllato dall’organizzazione nazionale per la protezione delle piante del paese di origine; iii) il sito di produzione è risultato indenne da *Eotetranychus sexmaculatus* nel corso delle ispezioni ufficiali effettuate in periodi opportuni dall’inizio del ciclo di produzione completo; in caso di sospetto della presenza di *Eotetranychus sexmaculatus* nel sito di produzione, sono stati applicati trattamenti idonei per garantire l’assenza di tale organismo nocivo; è stata stabilita una zona circostante di 100 m, oggetto di indagini specifiche effettuate in momenti opportuni per rilevare la presenza di *Eotetranychus* *sexmaculatus*, e qualora tale organismo nocivo sia stato rilevato sulle piante ospiti, tali piante sono state immediatamente estirpate e distrutte; iv) è stato istituito un sistema atto ad assicurare che gli attrezzi e le macchine siano puliti per liberarli da terra e frammenti di piante e siano disinfettati in modo da garantire l’assenza di *Eotetranychus sexmaculatus* prima della loro introduzione in ciascun sito di produzione; v) al momento del raccolto le piante sono state pulite e potate e sono state sottoposte a un’ispezione fitosanitaria ufficiale consistente almeno in un esame visivo dettagliato, in particolare dei fusti e dei rami, per confermare l’assenza di *Eotetranychus* *sexmaculatus*; vi) immediatamente prima dell’esportazione le partite delle piante sono state sottoposte a un’ispezione ufficiale per rilevare la presenza di *Eotetranychus* *sexmaculatus*, in particolare nei fusti e nei rami, e le dimensioni del campione da sottoporre a ispezione erano tali da consentire almeno il rilevamento di un livello d’infestazione dell’1 % con un grado di affidabilità del 99 %. b. Sui certificati fitosanitari per tali piante figura, alla rubrica «Dichiarazione supplementare», i) la seguente dichiarazione: «L’invio è conforme alle disposizioni di cui all’allegato 5 numero 2 dell’OMF-UFAG (RS *916.202.1*); ii) l’indicazione relativa ai siti di produzione registrati.</td></tr>
+<tr><td>2. Vegetali di uno-tre anni, innestati, anche a gemma, privi di foglie, a radice nuda, in riposo vegetativo di *Acer* *japonicum* Thunberg*, Acer palmatum* Thunberg e *Acer* *shirasawanum* Koidzumi</td><td>ex 0602.90</td><td>Nuova Zelanda</td><td>a. Constatazione ufficiale che: i) le piante sono indenni da *Oemona* *hirta* e *Platypus* *apicalis*; ii) le piante sono state coltivate per tutto il loro ciclo vitale in un luogo di produzione che, unitamente ai siti di produzione che ne fanno parte, è registrato e controllato dall’organizzazione nazionale per la protezione delle piante del paese di origine; iii) il sito di produzione è risultato indenne da *Oemona hirta* e *Platypus* *apicalis* nel corso delle ispezioni ufficiali effettuate in periodi opportuni dall’inizio del ciclo di produzione completo; in caso di sospetto della presenza di *Oemona hirta* o *Platypus* *apicalis* nel sito di produzione, sono stati applicati trattamenti idonei per garantire l’assenza di tali organismi nocivi; iv) al momento del raccolto le piante sono state pulite e sottoposte a un’ispezione ufficiale per confermare l’assenza di *Oemona* *hirta* e *Platypus* *apicalis*; v) immediatamente prima dell’esportazione le partite delle piante sono state sottoposte a un’ispezione ufficiale per rilevare la presenza di *Oemona hirta* e *Platypus apicalis* e le dimensioni del campione da sottoporre a ispezione erano tali da consentire almeno il rilevamento di un livello d’infestazione dell’1 % con un grado di affidabilità del 99 %. b. Sui certificati fitosanitari per tali piante figura, alla rubrica «Dichiarazione supplementare», i) la seguente dichiarazione: «L’invio è conforme alle disposizioni di cui all’allegato 5 numero 2 dell’OMF-UFAG (RS *916.202.1*); ii) l’indicazione relativa ai siti di produzione registrati.</td></tr>
+<tr><td>3. Vegetali innestati a radice nuda in riposo vegetativo, con un diametro massimo di 2,5 cm, di *Albizia julibrissin* Durazzini</td><td>ex 0602.90</td><td>Israele</td><td>a. Constatazione ufficiale che: i) le piante sono indenni da *Euwallacea* *fornicatus* sensu lato e *Fusarium euwallaceae*; ii) le piante sono state coltivate per tutto il loro ciclo vitale in un luogo di produzione registrato e controllato dall’organizzazione nazionale per la protezione delle piante del paese di origine. Tale registrazione comprende i rispettivi siti di produzione all’interno del luogo di produzione; iii) le piante soddisfano una delle seguenti prescrizioni: 1. hanno un diametro inferiore a 2 cm alla base del fusto; o 2. sono state coltivate in un sito soggetto a protezione fisica totale volta a impedire l’introduzione di *Euwallacea fornicatus* sensu lato almeno durante i sei mesi precedenti l’esportazione, che è soggetto a ispezioni ufficiali in periodi opportuni ed è risultato indenne dall’organismo nocivo; tale indennità è confermata quanto meno con l’utilizzo di trappole, controllate almeno ogni quattro settimane, anche immediatamente prima dello spostamento; o 3. sono state coltivate in un sito di produzione che è stato ritenuto indenne da *Euwallacea fornicatus* sensu lato e *Fusarium euwallaceae* dall’inizio dell’ultimo ciclo vegetativo completo; tale indennità è stata confermata, per *Euwallacea* *fornicatus* sensu lato, quanto meno con l’utilizzo di trappole, nel corso delle ispezioni ufficiali effettuate almeno ogni quattro settimane; in caso di sospetto della presenza di uno dei due organismi nocivi nel sito di produzione, sono stati applicati trattamenti idonei contro tali organismi nocivi per garantirne l’assenza; per *Euwallacea* *fornicatus* sensu lato e *Fusarium* *euwallaceae* è stabilita una zona circostante di 1 km, monitorata in momenti opportuni, e qualora si rilevi la presenza di uno dei due organismi nocivi sulle piante ospiti, tali piante devono essere immediatamente estirpate e distrutte; iv) immediatamente prima dell’esportazione le partite delle piante con un diametro uguale o superiore a 2 cm alla base del fusto sono state sottoposte a un’ispezione ufficiale, compreso un campionamento distruttivo, per rilevare la presenza dell’organismo nocivo, in particolare nei fusti e nelle foglie. Le dimensioni del campione da sottoporre a ispezione devono essere tali da consentire almeno il rilevamento di un livello d’infestazione dell’1 % con un grado di affidabilità del 99 %. b. Sui certificati fitosanitari per tali piante figura, alla rubrica «Dichiarazione supplementare», i) la seguente dichiarazione: «L’invio è conforme alle disposizioni di cui all’allegato 5 numero 2 dell’OMF-UFAG (RS *916.202.1*); ii) l’indicazione quale prescrizione di cui alla lettera a) punto iii) della presente voce è stata soddisfatta, iii) l’indicazione relativa ai siti di produzione registrati.</td></tr>
+<tr><td>4. Vegetali innestati a radice nuda in riposo vegetativo, con un diametro massimo di 2,5 cm, di *Albizia* *julibrissin* Durazzini</td><td>ex 0602.90</td><td>Israele</td><td>a. Constatazione ufficiale che: i) le piante sono indenni da *Aonidiella* *orientalis*; ii) le piante sono state coltivate per tutto il loro ciclo vitale in un luogo di produzione registrato e controllato dall’organizzazione nazionale per la protezione delle piante del paese di origine. Tale registrazione comprende i rispettivi siti di produzione all’interno del luogo di produzione. Tale luogo di produzione rispetta inoltre una delle prescrizioni che seguono: 1. le piante sono state coltivate in un sito soggetto a protezione fisica totale volta a impedire l’introduzione di *Aonidiella* *orientalis* almeno durante i sei mesi precedenti l’esportazione, che è soggetto a ispezioni ufficiali ogni tre settimane ed è risultato indenne dall’organismo nocivo, anche immediatamente prima dello spostamento; o 2. nel corso delle ispezioni ufficiali effettuate ogni tre settimane, il sito di produzione è stato ritenuto indenne da *Aonidiella orientalis* dall’inizio dell’ultimo ciclo vegetativo completo; in caso di sospetto della presenza dell’organismo nocivo nel sito di produzione, sono stati applicati trattamenti idonei contro tale organismo nocivo per garantirne l’assenza; per *Aonidiella* *orientalis* è stabilita una zona circostante di 100 m, monitorata in momenti opportuni, e qualora si rilevi la presenza dell’organismo nocivo sulle piante, tali piante devono essere immediatamente estirpate e distrutte; iii) immediatamente prima dell’esportazione le partite delle piante sono state sottoposte a un’ispezione ufficiale per rilevare la presenza di *Aonidiella orientalis*, in particolare nel fusto e nelle foglie. Le dimensioni del campione da sottoporre a ispezione devono essere tali da consentire almeno il rilevamento di un livello d’infestazione dell’1 % con un grado di affidabilità del 99 %. b. Sui certificati fitosanitari per tali piante figura, alla rubrica «Dichiarazione supplementare», i) la seguente dichiarazione: «L’invio è conforme alle disposizioni di cui all’allegato 5 numero 2 dell’OMF-UFAG (RS *916.202.1*); ii) l’indicazione quale prescrizione di cui alla lettera a) punto ii) della presente voce è stata soddisfatta, e iii) l’indicazione relativa ai siti di produzione registrati.</td></tr>
+<tr><td>5. Talee senza radici di piante da impianto di *Jasminum polyanthum* Franchet</td><td>ex 0602.90</td><td>Israele</td><td>a. Constatazione ufficiale che: i) e piante sono indenni da Scirtothrips dorsalis, Aonidiella orientalis, Milviscutulus mangiferae, Paracoccus marginatus, Pulvinaria psidii e Colletotrichum siamense; ii) le piante sono state coltivate per tutto il loro ciclo vitale in un luogo di produzione che, unitamente ai siti di produzione che ne fanno parte, è registrato e controllato dall’organizzazione nazionale per la protezione delle piante del paese di origine; iii) sono state coltivate in un sito soggetto a protezione fisica totale volta a impedire l’introduzione di Scirtothrips dorsalis, Aonidiella orientalis, Milviscutulus mangiferae, Paracoccus marginatus, Pulvinaria psidii; iv) il sito di produzione è stato sottoposto a ispezioni ufficiali per rilevare la presenza di Scirtothrips dorsalis, Aonidiella orientalis, Milviscutulus mangiferae, Paracoccus marginatus, Pulvinaria psidii e Colletotrichum siamense ogni tre settimane ed è stato ritenuto indenne da tali organismi nocivi; v) immediatamente prima dell’esportazione le partite delle piante sono state sottoposte a un’ispezione ufficiale per rilevare la presenza di *Scirtothrips* *dorsalis**, Aonidiella orientalis, Milviscutulus mangiferae, Paracoccus marginatus* e *Pulvinaria psidii*, con un campione di dimensioni tali da consentire almeno il rilevamento di un livello d’infestazione dell’1 % con un grado di affidabilità del 99 %, e a un’ispezione ufficiale per rilevare la presenza di *Colletotrichum siamense*, comprese prove sulle piante sintomatiche. b. Sui certificati fitosanitari per tali piante figura, alla rubrica «Dichiarazione supplementare», i) la seguente dichiarazione: «L’invio è conforme alle disposizioni di cui all’allegato 5 numero 2 dell’OMF-UFAG (RS *916.202.1*); ii) l’indicazione relativa ai siti di produzione registrati.</td></tr>
+<tr><td>6. Vegetali innestati radice nuda in riposo vegetativo, con un diametro massimo di 2,5 cm, di *Robinia pseudoacacia* L.</td><td>ex 0602.90</td><td>Israele</td><td>a. Costatazione ufficiale che: i) le piante sono indenni da *Euwallacea* *fornicatus* sensu lato e *Fusarium euwallaceae*; ii) le piante sono state coltivate per tutto il loro ciclo vitale in un luogo di produzione registrato e controllato dall’organizzazione nazionale per la protezione delle piante del paese di origine. Tale registrazione comprende i rispettivi siti di produzione all’interno del luogo di produzione; iii) le piante soddisfano una delle seguenti prescrizioni: 1. hanno un diametro inferiore a 2 cm alla base del fusto; o 2. sono state coltivate in un sito soggetto a protezione fisica totale volta a impedire l’introduzione di *Euwallacea fornicatus* sensu lato almeno durante i sei mesi precedenti l’esportazione, che è soggetto a ispezioni ufficiali in periodi opportuni ed è risultato indenne dall’organismo nocivo; tale indennità è confermata quanto meno con l’utilizzo di trappole, controllate almeno ogni quattro settimane, anche immediatamente prima dello spostamento; o 3. sono state coltivate in un sito di produzione che è stato ritenuto indenne da *Euwallacea fornicatus* sensu lato e *Fusarium euwallaceae* dall’inizio dell’ultimo ciclo vegetativo completo; tale indennità è stata confermata, per *Euwallacea* *fornicatus* sensu lato, quanto meno con l’utilizzo di trappole, nel corso delle ispezioni ufficiali effettuate almeno ogni quattro settimane; in caso di sospetto della presenza di uno dei due organismi nocivi nel sito di produzione, sono stati applicati trattamenti idonei contro tali organismi nocivi per garantirne l’assenza; per *Euwallacea* *fornicatus* sensu lato e *Fusarium* *euwallaceae* è stabilita una zona circostante di 1 km, monitorata in momenti opportuni, e qualora si rilevi la presenza di uno dei due organismi nocivi sulle piante ospiti, tali piante devono essere immediatamente estirpate e distrutte; iv) immediatamente prima dell’esportazione le partite delle piante con un diametro uguale o superiore a 2 cm alla base del fusto sono state sottoposte a un’ispezione ufficiale, compreso un campionamento distruttivo, per rilevare la presenza dell’organismo nocivo, in particolare nei fusti e nelle foglie. Le dimensioni del campione da sottoporre a ispezione devono essere tali da consentire almeno il rilevamento di un livello d’infestazione dell’1 % con un grado di affidabilità del 99 %. b. Sui certificati fitosanitari per tali piante figura, alla rubrica «Dichiarazione supplementare», i) la seguente dichiarazione: «L’invio è conforme alle disposizioni di cui all’allegato 5 numero 2 dell’OMF-UFAG (RS *916.202.1*); ii) l’indicazione quale prescrizione di cui alla lettera a) punto iii) della presente voce è stata soddisfatta, e iii) l’indicazione relativa ai siti di produzione registrati.</td></tr>
 </table>

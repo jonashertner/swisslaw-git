@@ -4,11 +4,11 @@ title: Verordnung des BLW vom 29. November 2019 über phytosanitäre Massnahmen 
 short: VpM-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/757"
 language: de
-version: 2020-12-01
+version: 2022-01-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20201201/de/xml/fedlex-data-admin-ch-eli-cc-2019-757-20201201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20201201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2019-757-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20201201/de"
 
 (VpM-BLW)
 
-vom 29. November 2019 (Stand am 1. Dezember 2020)
+vom 29. November 2019 (Stand am 1. Januar 2022)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -43,19 +43,20 @@ Die vorübergehend vom Einfuhrverbot ausgenommenen Waren, die Einfuhrbedingungen
 
 #### Art. 3
 
-**Massnahmen gegen neue Schadorganismen**
+**Massnahmen gegen potenzielle Quarantäneorganismen**[^3-1]
 
-Die Massnahmen gegen die Einschleppung und Ausbreitung von neuen, potenziell besonders gefährlichen Schadorganismen, die nicht in Anhang 1 der Verordnung des WBF und des UVEK vom 14. November 2019[^3-1] zur Pflanzengesundheitsverordnung (PGesV-WBF-UVEK) aufgeführt sind, sind in Anhang 3 aufgeführt.
+Die Massnahmen gegen die Einschleppung und Ausbreitung von potenziellen Quarantäneorganismen sind in Anhang 3 aufgeführt.
 
-[^3-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^3-1]: Fassung gemäss Ziff. I der V des BLW vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
 
 #### Art. 4
 
-**Besondere Massnahmen bei erhöhtem phytosanitärem Risiko**
+**Besondere Massnahmen bei erhöhtem phytosanitärem Risiko**[^4-1]
 
-Die besonderen Massnahmen, die bei erhöhtem phytosanitärem Risiko gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anhang 1 PGesV-WBF-UVEK[^4-1] ergriffen werden, sind in Anhang 4 aufgeführt
+Die besonderen Massnahmen, die bei erhöhtem phytosanitärem Risiko gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nach Anhang 1 der Verordnung des WBF und des UVEK vom 14. November 2019[^4-2] zur Pflanzengesundheitsverordnung (PGesV-WBF-UVEK) ergriffen werden, sind in Anhang 4 aufgeführt.
 
-[^4-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^4-1]: Fassung gemäss Ziff. I der V des BLW vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
+[^4-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 #### Art. 5
 
@@ -192,25 +193,11 @@ Anhang 3*[^t-2]*
 
 (Art. 3)
 
-## Massnahmen gegen die Einschleppung und Ausbreitung von neuen, potenziell besonders gefährlichen Schadorganismen, die nicht in Anhang 1 PGesV-WBF-UVEK**** aufgeführt sind
+## Massnahmen gegen die Einschleppung und Ausbreitung von potenziellen Quarantäneorganismen
 
-[^annex3-lvlu1-1]
+[^t-2]: Bereinigt gemäss Ziff. I der V des BLW vom 26. Mai 2020 ([AS 2020 1831](https://fedlex.data.admin.ch/eli/oc/2020/370)), Ziff. II Abs. 1 der V des BLW vom 10. Juli 2020 ([AS 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)), Ziff. I der V des BLW vom 30. Okt. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) und Ziff. II Abs. 1 der V des BLW vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des BLW vom 26. Mai 2020 ([AS 2020 1831](https://fedlex.data.admin.ch/eli/oc/2020/370)), Ziff. II Abs. 1 der V des BLW vom 10. Juli 2020 ([AS 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)) und Ziff. I der V des BLW vom 30. Okt. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)).
-[^annex3-lvlu1-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-
-### 1 Pepino Mosaic Virus
-
-### 1.1 Massnahmen gegen die Einschleppung und Ausbreitung
-
-Zum Schutz gegen die Einschleppung und Ausbreitung von Pepino Mosaic Virus gelten die Artikel 1–4 der Entscheidung 2004/200/EG[^annex3-lvlu1-lvl1-lvl11-1] sowie der darin genannte Anhang.
-
-[^annex3-lvlu1-lvl1-lvl11-1]: Entscheidung der Kommission 2004/200/EG vom 27. Februar 2004 mit Massnahmen zum Schutz der Gemeinschaft gegen die Einschleppung und Ausbreitung des Pepino Mosaic Virus, Fassung gemäss ABl. L 64 vom 2.3.2004, S. 43.
-
-### 1.2 Besondere Bestimmungen
-
-- 1\.2.1 Tomatensamen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss der Entscheidung 2004/200/EG erfüllen, dürfen auch in die Schweiz eingeführt werden.
-- 1\.2.2 Die in Artikel 4 der Entscheidung 2004/200/EG genannten amtlichen Erhebungen in Anlagen zur Erzeugung von Tomatenpflanzen und Tomaten über Vorkommen von Pepino Mosaic Virus werden vom Eidgenössischen Pflanzenschutzdienst (EPSD) durchgeführt.
+### 1 ...
 
 ### 2 *Epitrix cucumeris* (Harris), *Epitrix similaris* (Gentner), *Epitrix subcrinita* (Lec.) und *Epitrix tuberis* (Gentner)
 
@@ -254,34 +241,47 @@ Spezifizierte Pflanzen, die in der EU die Anforderungen an die Verbringung inner
 
 ### 5.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung des Tomato brown rugose fruit virus (ToBRFV) gelten die Artikel 1–10 und 12 der Durchführungsverordnung (EU) 2020/1191[^annex3-lvlu1-lvl5-lvl51-1].
+Zum Schutz gegen die Einschleppung und Ausbreitung des Tomato brown rugose fruit virus (ToBRFV) gelten die Artikel 1–4, 5 Absätze 1 und 2, 6–10 und 12 der Durchführungsverordnung (EU) 2020/1191[^annex3-lvlu1-lvl5-lvl51-1].
 
-[^annex3-lvlu1-lvl5-lvl51-1]: Durchführungsverordnung (EU) 2020/1191 der Kommission vom 11. August 2020 über Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung des Tomato brown rugose fruit virus (ToBRFV), Fassung gemäss ABl. L 262 vom 12.8.2020, S. 6.
+[^annex3-lvlu1-lvl5-lvl51-1]: Durchführungsverordnung (EU) 2020/1191 der Kommission vom 11. August 2020 über Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung des Tomato brown rugose fruit virus (ToBRFV) und zur Aufhebung des Durchführungsbeschlusses (EU) 2019/1615, ABl. L 262 vom 12.8.2020, S. 6; zuletzt geändert durch Durchführungsverordnung (EU) 2021/74, ABl. L 27 vom 27.1.2021, S. 15.
 
 ### 5.2 Besondere Bestimmungen
 
 - 5\.2.1 Spezifizierte Pflanzen und Samen, die in der EU die Anforderungen an die Verbringung innerhalb der EU gemäss der Durchführungsverordnung (EU) 2020/1191 erfüllen, dürfen auch in die Schweiz eingeführt werden.
 - 5\.2.2 Die in Artikel 3 Absatz 1 der Durchführungsverordnung (EU) 2020/1191 genannte zuständige Behörde ist der zuständige kantonale Dienst. Betrifft das Auftreten oder der Verdacht des Auftretens einen zugelassenen Betrieb nach Artikel 76 oder 89 PGesV, so muss dies dem EPSD gemeldet werden.
-- 5\.2.3 Hat der zuständige kantonale Dienst Kenntnis davon, dass Pflanzen von *Solanum lycopersicum* L. oder *Capsicum annuum* L. vom ToBRFV befallen sind, so muss er dies so schnell wie möglich dem EPSD melden.
+- 5\.2.3 Hat der zuständige kantonale Dienst Kenntnis davon, dass Pflanzen von *Solanum lycopersicum* L. und ihren Hybriden oder *Capsicum* spp. vom ToBRFV befallen sind, so muss er dies so schnell wie möglich dem EPSD melden.
 - 5\.2.4
 
-  Wird aufgrund einer Verdachtsmeldung oder aus anderen Gründen vermutet, dass Pflanzen von *Solanum lycopersicum* L. oder *Capsicum annuum* L. vom ToBRFV befallen sind, so müssen die folgenden Massnahmen angeordnet werden:
+  Wird aufgrund einer Verdachtsmeldung oder aus anderen Gründen vermutet, dass Pflanzen von *Solanum lycopersicum* L. und ihren Hybriden oder *Capsicum* spp. vom ToBRFV befallen sind, so müssen die folgenden Massnahmen angeordnet werden:
 
-  - a. das Unterquarantänestellen der betroffenen Kulturen sowie der in solchen Kulturen geernteten Früchte und Samen;
-  - b. Hygienemassnahmen, insbesondere eine Zutrittsregelung, wie Schleusen und die Verwendung von persönlichen Schutzausrüstungen sowie die Desinfektion der Arbeitsgeräte und Räumlichkeiten im potenziell befallenen Betriebsteil und in den anderen Betriebsteilen.
+  - a. das Unterquarantänestellen der betroffenen Kulturen sowie der in solchen Kulturen geernteten Früchte und Samen; für Früchte von asymptomatischen Pflanzen, die für den direkten Verzehr bestimmt sind, muss das Unterquarantänestellen nicht angeordnet werden;
+  - b. Hygienemassnahmen, insbesondere eine Zutrittsregelung, wie Schleusen, und die Verwendung von persönlichen Schutzausrüstungen sowie die Desinfektion der Arbeitsgeräte und Räumlichkeiten im potenziell befallenen Betriebsteil und in den anderen Betriebsteilen.
 
 - 5\.2.5 Bestätigt die Diagnose eines vom EPSD benannten Laboratoriums, dass der nach Ziffer 5.2.4 vermutete Befall nicht nachweisbar ist, so werden die Quarantäne und die Hygienemassnahmen aufgehoben.
 - 5\.2.6
 
   Geeignete Massnahmen zur Tilgung des Schadorganismus nach Artikel 4 der Durchführungsverordnung (EU) 2020/1191 beinhalten insbesondere:
 
-  - a. die Vernichtung aller Pflanzenmaterialien von *Solanum lycopersicum* L. und *Capsicum annuum* L., die befallen sind oder bei denen davon auszugehen ist, dass sie befallen sind, in einer Kehrichtverbrennungsanlage oder mit einem anderen Verfahren, das die erforderliche phytosanitäre Sicherheit gewährleistet;
+  - a. die Vernichtung aller Pflanzenmaterialien von *Solanum lycopersicum* L. und ihren Hybriden oder *Capsicum* spp., die befallen sind oder bei denen davon auszugehen ist, dass sie befallen sind, in einer Kehrichtverbrennungsanlage oder mit einem anderen Verfahren, das die erforderliche phytosanitäre Sicherheit gewährleistet;
   - b. die Desinfektion des Standortes sowie der Geräte und Gegenstände, die mit dem Pflanzenmaterial in Berührung gekommen sind;
-  - c. das Verbot des Anbaus oder des Anpflanzens von *Solanum lycopersicum* L. und *Capsicum annuum* L. auf den betroffenen Betriebsteilen solange diese nicht als saniert gelten.
+  - c. das Verbot des Anbaus oder des Anpflanzens von *Solanum lycopersicum* L. und ihren Hybriden oder *Capsicum* spp. auf den betroffenen Betriebsteilen solange diese nicht als saniert gelten.
 
 - 5\.2.7 Auf Betrieben, die vom EPSD für die Ausstellung von Pflanzenpässen zugelassen sind, ist der EPSD für die Anordnung der Massnahmen nach den Ziffern 5.2.4 und 5.2.6 zuständig. Auf anderen Betrieben sowie an allen anderen Standorten wie privaten Gärten ist der zuständige kantonale Dienst für die Anordnung der Massnahmen nach den Ziffern 5.2.4 und 5.2.6 zuständig.
 - 5\.2.8 Anstelle der Frist nach Artikel 5 der Durchführungsverordnung (EU) 2020/ 1191 gilt die vom EPSD festgelegte Frist. Dieser gibt die Frist den Kantonen in geeigneter Form bekannt.
 - 5\.2.9 Spezifizierte Samen aus Drittländern, welche bereits vor dem 15. August 2020 eingelagert worden sind, können nur in die Schweiz eingeführt werden, wenn die Rubrik «Zusätzliche Erklärung» auf dem Pflanzengesundheitszeugnis die amtliche Feststellung nach Artikel 9 Absatz 1 Buchstabe a Ziffer ii der Durchführungsverordnung (EU) 2020/1191 enthält.
+- 5\.2.10
+
+  Kein Pflanzenpass nach den Artikeln 6 und 7 der Durchführungsverordnung (EU) 2020/1191 ist erforderlich für:
+
+  - a. das Inverkehrbringen von Pflanzen und Samen direkt an Endverbraucherinnen und Endverbraucher, welche die Waren nicht zu beruflichen oder gewerblichen Zwecken verwenden; ein Pflanzenpass ist hingegen erforderlich, wenn die Waren mit Fernkommunikationsmitteln bestellt worden sind;
+  - b. Pflanzen und Samen, die im persönlichen Gepäck von Reisenden eingeführt werden und nicht zu beruflichen oder gewerblichen Zwecken verwendet werden.
+
+- 5\.2.11
+
+  Das BLW kann, sofern die Ausbreitung des ToBRFV ausgeschlossen werden kann, die Einfuhr auf Gesuch hin zu folgenden Zwecken bewilligen:
+
+  - a. Forschung;
+  - b. Diagnose.
 
 ### 6 Rose-rosette-Virus
 
@@ -291,15 +291,22 @@ Zum Schutz gegen die Einschleppung und Ausbreitung des Rose-rosette-Virus gelten
 
 [^annex3-lvlu1-lvl6-lvl61-1]: Durchführungsbeschluss (EU) 2019/1739 der Kommission vom 16. Oktober 2019 zur Festlegung von Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von Rose-rosette-virus, Fassung gemäss ABl. L 265 vom 18.10.2019, S. 12.
 
+### 6.2 Besondere Bestimmungen
+
+Das BLW kann, sofern die Ausbreitung des Rose-rosette-Virus ausgeschlossen werden kann, die Einfuhr auf Gesuch hin zu folgenden Zwecken bewilligen:
+
+- a. Forschung;
+- b. Diagnose.
+
 Anhang 4*[^t-3]*
 
 (Art. 4)
 
-## Besondere Massnahmen gegen die Einschleppung und Ausbreitung von Schadorganismen nach Anhang 1 PGesV-WBF-UVEK**** bei erhöhtem phytosanitären Risiko
+## Besondere Massnahmen gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nach Anhang 1 PGesV-WBF-UVEK**** bei erhöhtem phytosanitären Risiko
 
 [^annex4-lvlu1-1]
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des BLW vom 2. Sept. 2020 ([AS 2020 3643](https://fedlex.data.admin.ch/eli/oc/2020/661)) und vom 30. Okt. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)).
+[^t-3]: Bereinigt gemäss Ziff. I der V des BLW vom 30. Okt. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) und Ziff. II Abs. 1 der V des BLW vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
 [^annex4-lvlu1-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
 
 ### 1 *Thrips palmi* Karny mit Ursprung in Thailand
@@ -320,7 +327,7 @@ Die im Anhang Ziffer 3 der Entscheidung 98/109/EG genannten Untersuchungen werde
 
 Zum Schutz gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wells et al.) gelten die Artikel 1, 2 Absätze 1–7 und 3–34 sowie die Anhänge 1–4 der Durchführungsverordnung (EU) 2020/1201[^annex4-lvlu1-lvl2-lvl21-1].
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Durchführungsverordnung (EU) 2020/1201 der Kommission vom 14. August 2020 über Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wells et al.), Fassung gemäss ABl. L 269 vom 17.8.2020, S. 2.
+[^annex4-lvlu1-lvl2-lvl21-1]: Durchführungsverordnung (EU) 2020/1201 der Kommission vom 14. August 2020 über Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wells et al.), Fassung gemäss ABl. L 269 vom 17.8.2020, S. 2.; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/1688, ABl. L 332 vom 20.9.2021, S. 6.
 
 ### 2.2 Besondere Bestimmungen
 
@@ -339,9 +346,9 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wel
 
 ### 3.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung von *Phyllosticta citricarpa* (McAlpine) Van der Aa gelten die Artikel 1–10, 11 Absatz 1, 12–13 und 15–17 des Durchführungsbeschlusses (EU) 2016/715[^annex4-lvlu1-lvl3-lvl31-1].
+Zum Schutz gegen die Einschleppung und Ausbreitung von *Phyllosticta citricarpa* (McAlpine) Van der Aa gelten die Artikel 1–10, 11 Absatz 1, 12, 13 und 15–17 des Durchführungsbeschlusses (EU) 2016/715[^annex4-lvlu1-lvl3-lvl31-1].
 
-[^annex4-lvlu1-lvl3-lvl31-1]: Durchführungsbeschluss (EU) 2016/715 der Kommission vom 11. Mai 2016 über Massnahmen hinsichtlich bestimmter Früchte mit Ursprung in bestimmten Drittländern zum Schutz der Union gegen die Einschleppung und Ausbreitung des Schadorganismus *Phyllosticta citricarpa* (McAlpine) Van der Aa, ABl. L 125 vom 13.5.2016, S. 16; zuletzt geändert durch Durchführungsbeschluss (EU) 2019/449, ABl. L 77 vom 20.3.2019, S. 76.
+[^annex4-lvlu1-lvl3-lvl31-1]: Durchführungsbeschluss (EU) 2016/715 der Kommission vom 11. Mai 2016 über Massnahmen hinsichtlich bestimmter Früchte mit Ursprung in bestimmten Drittländern zum Schutz der Union gegen die Einschleppung und Ausbreitung des Schadorganismus *Phyllosticta citricarpa* (McAlpine) Van der Aa, ABl. L 125 vom 13.5.2016, S. 16; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/682, ABl. L 144 vom 27.4.2021, S. 31.
 
 ### 3.2 Besondere Bestimmungen
 
@@ -349,9 +356,6 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Phyllosticta citricarpa*
 - 3\.2.2 Nach Abschluss der in Artikel 12 des Durchführungsbeschlusses (EU) 2016/715 genannten Kontrollen der in die Schweiz eingeführten spezifizierten Früchte werden diese direkt und unverzüglich in die Verarbeitungsbetriebe gemäss Artikel 15 des genannten Durchführungsbeschlusses oder in ein Lager gebracht, in jedem Fall unter Aufsicht des EPSD.
 - 3\.2.3 Spezifizierte Früchte dürfen nur dann wieder in die EU ausgeführt werden, wenn eine solche Verbringung vom EPSD bewilligt wird.
 - 3\.2.4 In der Schweiz ist die in den Artikeln 13–15 des Durchführungsbeschlusses (EU) 2016/715 genannte zuständige amtliche Stelle der EPSD.
-- 3\.2.5 Die Einfuhr von frischen Früchten von Citrus limon (L.) N. Burm.f. (Zolltarifnummer[^annex4-lvlu1-lvl3-lvl32-1] ex 0805.5000) und Citrus sinensis (L.) Osbeck (Zolltarifnummer ex 0805.1000) mit Ursprung Argentinien ist bis zum 30. April 2021 verboten.
-
-[^annex4-lvlu1-lvl3-lvl32-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
 ### 4 *Spodoptera frugiperda* (Smith)
 
@@ -359,14 +363,14 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Phyllosticta citricarpa*
 
 Zum Schutz gegen die Einschleppung und Ausbreitung von *Spodoptera frugiperda* (Smith) gelten die Artikel 1–5, 6 Absätze 1 und 2 sowie Artikel 8 des Durchführungsbeschlusses (EU) 2018/638[^annex4-lvlu1-lvl4-lvl41-1].
 
-[^annex4-lvlu1-lvl4-lvl41-1]: Durchführungsbeschluss (EU) 2018/638 der Kommission vom 23. April 2018 über Dringlichkeitsmassnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung des Schadorganismus *Spodoptera frugiperda* (Smith), ABl. L 105 vom 25.4.2018, S. 31; zuletzt geändert durch Durchführungsbeschluss (EU) 2019/1598, ABl. L 248 vom 26.9.2019, S. 86.
+[^annex4-lvlu1-lvl4-lvl41-1]: Durchführungsbeschluss (EU) 2018/638 der Kommission vom 23. April 2018 über Dringlichkeitsmassnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung des Schadorganismus *Spodoptera frugiperda* (Smith), ABl. L 105 vom 25.4.2018, S. 31; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/869, ABl. L 191 vom 27.5.2021, S. 4.
 
 ### 4.2 Besondere Bestimmungen
 
 - 4\.2.1 In der Schweiz ist die in den Artikeln 2 Absätze 1–3 und 6 Absatz 2 des Durchführungsbeschlusses (EU) 2018/638 genannte zuständige amtliche Stelle der jeweils zuständige kantonale Pflanzenschutzdienst. Ausgenommen sind die Erhebungen auf zugelassenen Betrieben im Sinne von Artikel 76 PGesV; diese werden vom EPSD sichergestellt.
 - 4\.2.2 In den Artikeln 3 und 5 des Durchführungsbeschlusses (EU) 2018/638 ist unter Verbringung der spezifizierten Pflanzen in die Union die Einfuhr in die EU oder in die Schweiz gemeint.
 - 4\.2.3 Die in den Artikeln 3 Buchstabe c und 5 Absatz 2 des Durchführungsbeschlusses (EU) 2018/638 genannte zuständige amtliche Stelle ist die nationale Pflanzenschutzorganisation des EU-Mitgliedstaates, in dem sich für die spezifizierten Pflanzen der Ort des Eingangs in die EU befindet. In Fällen, in denen kein Kontrollnachweis nach Artikel 46 Absatz 2 PGesV beiliegt, ist die zuständige amtliche Stelle der EPSD.
-- 4\.2.4 Die Kantone teilen dem EPSD jeweils bis zum 31. März die Ergebnisse der im vorangegangenen Kalenderjahr durchgeführten Erhebungen mit.
+- 4\.2.4 Für die Berichterstattung über die durchgeführten Erhebungen gelten die vom EPSD festgelegten Vorgaben und Fristen. Dieser gibt die Vorgaben und Fristen den Kantonen in geeigneter Form bekannt.
 
 ### 5 *Aromia bungii* (Faldermann)
 
@@ -390,16 +394,16 @@ Anhang 5*[^t-4]*
 
 ## Waren aus bestimmten Drittländern, für die aufgrund eines hohen phytosanitären Risikos ein vorsorgliches Einfuhrverbot gilt
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des BLW vom 10. Juli 2020 ([AS 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Bereinigt gemäss Ziff. I der V des BLW vom 30. Okt. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)).
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des BLW vom 10. Juli 2020 ([AS 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Fassung gemäss Ziff. II Abs. 2 der V des BLW vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
 
 ### 1 Waren, für die ein vorsorgliches Einfuhrverbot gilt
 
 - **1.1** Zum Anpflanzen bestimmte Pflanzen mit Ausnahme von Samen, In-vitro- Material und auf natürliche oder künstliche Weise kleinwüchsig gehaltenen zum Anpflanzen bestimmten Gehölzen, die zu folgenden Gattungen oder Arten gehören:
 
 <table>
-<tr><td>Zolltarifnummer[^annex5-lvlu1-lvl1-1]</td><td>Bezeichnung der Gattung oder Art</td><td>Ursprungsland</td></tr>
+<tr><th>Zolltarifnummer[^annex5-lvlu1-lvl1-1]</th><th>Bezeichnung der Gattung oder Art</th><th>Ursprungsland</th></tr>
 <tr><td>ex 0602</td><td>*Acacia* Mill.</td><td>Alle Drittländer</td></tr>
-<tr><td>ex 0602</td><td>*Acer* L.</td><td></td></tr>
+<tr><td>ex 0602</td><td>*Acer* L.; das vorsorgliche Einfuhrverbot gilt nicht für ein- bis dreijährige ruhende, veredelte, zum Anpflanzen bestimmte Pflanzen mit nackten Wurzeln, ohne Blätter, der Arten *Acer japonicum* Thunberg, *Acer palmatum* Thunberg und *Acer shirasawanum* Koidzumi mit Ursprung in Neuseeland, sofern die Anforderungen nach Ziffer 2 erfüllt sind.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Albizia Durazz.*; das vorsorgliche Einfuhrverbot gilt nicht für nacktwurzelige veredelte zum Anpflanzen bestimmte Pflanzen in Vegetationsruhe mit einem maximalen Durchmesser von 2,5 cm von *Albizia* *julibrissin* Durazzini mit Ursprung in Israel, sofern die Anforderungen nach Ziffer 2 erfüllt sind.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Alnus* Mill.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Annona* L.</td><td></td></tr>
@@ -414,15 +418,18 @@ Anhang 5*[^t-4]*
 <tr><td>ex 0602</td><td>*Crataegus* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Diospyros* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Fagus* L.</td><td></td></tr>
+</table>
+
+<table>
+<tr><th>Zolltarifnummer</th><th>Bezeichnung der Gattung oder Art</th><th>Ursprungsland</th></tr>
 <tr><td>ex 0602</td><td>*Ficus carica* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Fraxinus* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Hamamelis* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>J*asminum* L.</td><td></td></tr>
-<tr><td>Zolltarifnummer</td><td>Bezeichnung der Gattung oder Art</td><td>Ursprungsland</td></tr>
+<tr><td>ex 0602</td><td>*Jasminum* L.; das vorsorgliche Einfuhrverbot gilt nicht für unbewurzelte Stecklinge von zum Anpflanzen bestimmten Pflanzen von *Jasminum polyanthum* Franchet mit Ursprung in Israel, sofern die Anforderungen nach Ziffer 2 erfüllt sind.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Juglans* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Ligustrum* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Lonicera* L.</td><td></td></tr>
-<tr><td>ex 0602</td><td>*Malus* Mill.</td><td></td></tr>
+<tr><td>ex 0602</td><td>*Malus* Mill.; das vorsorgliche Einfuhrverbot gilt nicht für ein- bis zweijährige ruhende, veredelte, zum Anpflanzen bestimmte Pflanzen mit nackten Wurzeln der Art *Malus domestica* mit Ursprung in Serbien, sofern die Anforderungen nach Ziffer 2 erfüllt sind.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Nerium* L.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Persea* Mill.</td><td></td></tr>
 <tr><td>ex 0602</td><td>*Populus* L.</td><td></td></tr>
@@ -456,6 +463,10 @@ Anhang 5*[^t-4]*
 
 <table>
 <tr><th>Warenbezeichnung</th><th>Zolltarifnummer</th><th>Ursprungsland</th><th>Anforderungen</th></tr>
-<tr><td>1. Nacktwurzelige veredelte zum Anpflanzen bestimmte Pflanzen in Vegetationsruhe mit einem maximalen Durchmesser von 2,5 cm von *Albizia* *julibrissin* Durazzini</td><td>ex 0602.90</td><td>Israel</td><td>Amtliche Feststellung, dass: a. die Pflanzen aus einem Erzeugungsort stammen, der bei der nationalen Pflanzenschutzorganisation des Ursprungslandes registriert ist und von dieser überwacht wird; b. die Pflanzen von Anbauflächen stammen, die für die Produktion von Pflanzen für den Export bestimmt sind, mit genügend Distanz zu anderen Anbauflächen, damit genügend Schutz vor einer Infizierung mit *Aonidiella orientalis*, *Euwallacea fornicatus* und *Fusarium euwallacea* besteht; c. die Pflanzen von Anbauflächen stammen, die wirksamen Behandlungen gegen *Aonidiella orientalis*, *Euwallacea fornicatus* und *Fusarium euwallacea* unterzogen wurden und die Behandlungen zu den sachgemässen Zeitpunkten angewendet wurden; d. amtliche Untersuchungen in angemessenen Intervallen auf den Anbauflächen durchgeführt wurden und basierend auf diesen Untersuchungen die Anbauflächen als frei von *Aonidiella orientalis*, *Euwallacea fornicatus* und *Fusarium euwallacea* befunden wurden; e. die Pflanzen als frei von *Aonidiella orientalis*, *Euwallacea fornicatus* und *Fusarium euwallacea* befunden wurden; sofern Symptome dieser Schadorganismen festgestellt werden, ist die Abwesenheit der Schadorganismen durch die Anwendung von Tests zu bestätigen; f. die Pflanzen von Betrieben stammen oder von Betrieben gehandelt wurden, die zum Zweck der Rückverfolgbarkeit amtlich registriert wurden; und g. den Pflanzen während des Transports von der Anbaufläche bis zum Eingangsort Dokumente beiliegen, die unter Aufsicht der Nationalen Pflanzenschutzorganisation ausgestellte wurden und die die Rückverfolgbarkeit der Pflanzen sicherstellen.</td></tr>
-<tr><td>2. Nacktwurzelige veredelte zum Anpflanzen bestimmte Pflanzen in Vegetationsruhe mit einem maximalen Durchmesser von 2,5 cm von *Robinia pseudoacacia* L.</td><td>ex 0602.90</td><td>Israel</td><td>Amtliche Feststellung, dass: a. die Pflanzen aus einem Erzeugungsort stammen, der bei der nationalen Pflanzenschutzorganisation des Ursprungslandes registriert ist und von dieser überwacht wird; b. die Pflanzen von Anbauflächen stammen, die für die Produktion von Pflanzen für den Export bestimmt sind, mit genügend Distanz zu anderen Anbauflächen, damit genügend Schutz vor einer Infizierung mit *Aonidiella orientalis*, *Euwallacea fornicatus* und *Fusarium euwallacea* besteht; c. die Pflanzen von Anbauflächen stammen, die wirksamen Behandlungen gegen *Aonidiella orientalis*, *Euwallacea fornicatus* und *Fusarium euwallacea* unterzogen wurden und die Behandlungen zu den sachgemässen Zeitpunkten angewendet wurden; d. amtliche Untersuchungen in angemessenen Intervallen auf den Anbauflächen durchgeführt wurden und basierend auf diesen Untersuchungen die Anbauflächen als frei von *Aonidiella orientalis*, *Euwallacea fornicatus* und *Fusarium euwallacea* befunden wurden; e. die Pflanzen als frei von *Aonidiella orientalis*, *Euwallacea fornicatus* und *Fusarium euwallacea* befunden wurden; sofern Symptome dieser Schadorganismen festgestellt werden, ist die Abwesenheit der Schadorganismen durch die Anwendung von Tests zu bestätigen; f. die Pflanzen von Betrieben stammen oder von Betrieben gehandelt wurden, die zum Zweck der Rückverfolgbarkeit amtlich registriert wurden; und g. den Pflanzen während des Transports von der Anbaufläche bis zum Eingangsort in der Schweiz Dokumente beiliegen, die unter Aufsicht der Nationalen Pflanzenschutzorganisation ausgestellte wurden und die die Rückverfolgbarkeit der Pflanzen sicherstellen.</td></tr>
+<tr><td>1. Ein- bis dreijährige ruhende, veredelte, zum Anpflanzen bestimmte Pflanzen mit nackten Wurzeln, ohne Blätter, der Arten *Acer japonicum* Thunberg, *Acer palmatum* Thunberg und *Acer shirasawanum* Koidzumi.</td><td>ex 0602.90</td><td>Neuseeland</td><td>a. Amtliche Feststellung, dass: i) die Pflanzen frei von *Eotetranychus sexmaculatus* sind; ii) die Pflanzen während ihrer gesamten Lebensdauer an einem Erzeugungsort gezogen wurden, der, zusammen mit den dazugehörigen Produktionsflächen bei der nationalen Pflanzenschutzorganisation des Ursprungslandes registriert ist und von dieser überwacht wird; iii) die Produktionsfläche seit Beginn des Produktionszyklus der Pflanzen bei zu geeigneten Zeiten durchgeführten amtlichen Kontrollen als frei von *Eotetranychus sexmaculatus* befunden wurde; bei Verdacht auf das Auftreten von *Eotetranychus sexmaculatus* auf der Produktionsfläche geeignete Behandlungen durchgeführt wurden, um das Nichtvorhandensein des Schädlings sicherzustellen; eine Umgebungszone von 100 m eingerichtet wurde, die zu geeigneten Zeiten auf *Eotetranychus sexmaculatus* überwacht wird, und falls der Schädling in Wirtspflanzen festgestellt wurde, diese Pflanzen unverzüglich entfernt und vernichtet wurden; iv) ein System eingerichtet wurde, um sicherzustellen, dass Werkzeuge und Maschinen so gereinigt werden, dass sie frei von Erde und Pflanzenresten sind, und so desinfiziert werden, dass sie vor ihrer Verbringung auf die Produktionsfläche frei von *Eotetranychus sexmaculatus* sind; v) die Pflanzen bei der Ernte gereinigt und geschnitten sowie einer amtlichen pflanzengesundheitlichen Kontrolle unterzogen wurden, die mindestens eine eingehende visuelle Untersuchung, insbesondere von Stämmen und Zweigen der Pflanzen, umfasst, um das Nichtvorhandensein von *Eotetranychus sexmaculatus* zu bestätigen; vi) unmittelbar vor der Ausfuhr Sendungen von Pflanzen einer amtlichen Untersuchung auf *Eotetranychus sexmaculatus* unterzogen wurden, insbesondere die Stämme und Zweige der Pflanzen, und die Probengrösse für diese Untersuchung mindestens eine Nachweisgrenze von 1 % Befall mit einer Zuverlässigkeit von 99 % gewährleistet. b. Die Pflanzengesundheitszeugnisse für diese Pflanzen enthalten unter der Überschrift «Zusätzliche Erklärung»: i) die folgende Erklärung: «Die Sendung entspricht den Bestimmungen gemäss Ziffer 2 Anhang 5 der VpM-BLW (SR *916.202.1*); ii) die Angabe der registrierten Produktionsflächen</td></tr>
+<tr><td>2. Ein- bis dreijährige ruhende, veredelte, zum Anpflanzen bestimmte Pflanzen mit nackten Wurzeln, ohne Blätter, der Arten *Acer japonicum* Thunberg, *Acer palmatum* Thunberg und *Acer shirasawanum* Koidzumi.</td><td>ex 0602.90</td><td>Neuseeland</td><td>a. Amtliche Feststellung, dass: i) die Pflanzen frei von *Oemona hirta* und *Platypus apicalis* sind; ii) die Pflanzen während ihrer gesamten Lebensdauer an einem Erzeugungsort gezogen wurden, der, zusammen mit den dazugehörigen Produktionsflächen bei der nationalen Pflanzenschutzorganisation des Ursprungslandes registriert ist und von dieser überwacht wird; iii) die Produktionsfläche seit Beginn des Produktionszyklus der Pflanzen bei zu geeigneten Zeiten durchgeführten amtlichen Kontrollen als frei von *Oemona hirta* und *Platypus apicalis* befunden wurde; bei Verdacht auf das Auftreten von *Oemona hirta* oder *Platypus apicalis* auf der Produktionsfläche geeignete Behandlungen durchgeführt wurden, um das Nichtvorhandensein des Schädlings sicherzustellen; iv) die Pflanzen bei der Ernte gereinigt und einer amtlichen Kontrolle unterzogen wurden, um das Nichtvorhandensein von *Oemona hirta* und *Platypus apicalis* zu bestätigen; v) unmittelbar vor der Ausfuhr Sendungen von Pflanzen einer amtlichen Untersuchung auf *Oemona hirta* und *Platypus apicalis* unterzogen wurden und die Probengrösse mindestens eine Nachweisgrenze von 1 % Befall mit einer Zuverlässigkeit von 99 % gewährleistet. b. Die Pflanzengesundheitszeugnisse für diese Pflanzen enthalten unter der Überschrift «Zusätzliche Erklärung»: i) die folgende Erklärung: «Die Sendung entspricht den Bestimmungen gemäss Ziffer 2 Anhang 5 der VpM-BLW (SR *916.202.1)*; ii) die Angabe der registrierten Produktionsflächen</td></tr>
+<tr><td>3. Nacktwurzelige veredelte zum Anpflanzen bestimmte Pflanzen in Vegetationsruhe mit einem maximalen Durchmesser von 2,5 cm von *Albizia* *julibrissin* Durazzini</td><td>ex 0602.90</td><td>Israel</td><td>a. Amtliche Feststellung, dass: i) die Pflanzen frei von *Euwallacea fornicatus* sensulato und *Fusarium euwallaceae* sind; ii) die Pflanzen während ihrer gesamten Lebensdauer an einem Erzeugungsort gezogen wurden, der bei der nationalen Pflanzenschutzorganisation des Ursprungslandes registriert ist und von dieser überwacht wird. Diese Registrierung umfasst die jeweiligen Produktionsflächen am Erzeugungsort; iii) die Pflanzen eine der folgenden Anforderungen erfüllen: 1. die Pflanzen haben einen Durchmesser von weniger als 2 cm an der Basis des Stammes; oder 2. die Pflanzen wurden mindestens sechs Monate vor ihrer Ausfuhr auf einer Fläche gezogen, die über einen vollständigen physischen Schutz gegen die Einschleppung von *Euwallacea fornicatus* sensu lato verfügt und die zu geeigneten Zeiten amtlichen Kontrollen unterzogen und zumindest auf der Grundlage von wenigstens alle vier Wochen und unmittelbar vor der Verbringung kontrollierten Fallen als frei von dem Schädling befunden wurde; oder 3. die Pflanzen wurden auf einer Produktionsfläche gezogen, die seit Beginn des letzten abgeschlossenen Vegetationszyklus als frei von *Euwallacea fornicatus* sensu lato und *Fusarium euwallaceae* befunden wurde, was für *Euwallacea fornicatus* sensu lato zumindest auf der Grundlage von Fallen erfolgt, die während amtlicher Kontrollen in Mindestabständen von vier Wochen kontrolliert werden; bei Verdacht auf das Auftreten eines der beiden Schädlinge auf der Produktionsfläche wurden geeignete Behandlungen gegen die Schädlinge durchgeführt, um sicherzustellen, dass keine Schädlinge vorhanden sind; es ist eine Umgebungszone von 1 km eingerichtet, die zu geeigneten Zeiten auf *Euwallacea fornicatus* sensu lato und *Fusarium euwallaceae* überwacht wird, und falls einer der beiden Schädlinge in Wirtspflanzen festgestellt wird, sollten diese Pflanzen unverzüglich entfernt und vernichtet werden; iv) Sendungen von Pflanzen mit einem Durchmesser von 2 cm oder mehr an der Basis des Stammes unmittelbar vor der Ausfuhr einer amtlichen Untersuchung zum Nachweis des Schädlings unterzogen wurden, insbesondere die Stämme und Zweige dieser Pflanzen, einschliesslich einer gezielten destruktiven Probenahme. Die Probengrösse für diese Untersuchung muss mindestens eine Nachweisgrenze von 1 % Befall mit einer Zuverlässigkeit von 99 % gewährleisten; b. Die Pflanzengesundheitszeugnisse für diese Pflanzen enthalten unter der Überschrift «Zusätzliche Erklärung»: i) die folgende Erklärung: «Die Sendung entspricht den Bestimmungen gemäss Ziffer 2 Anhang 5 der VpM-BLW (SR *916.202.1*); ii) die Angabe welche Anforderung gemäss Buchstabe a. Ziffer iii erfüllt ist; iii) die Angabe der registrierten Produktionsflächen.</td></tr>
+<tr><td>4. Nacktwurzelige veredelte zum Anpflanzen bestimmte Pflanzen in Vegetationsruhe mit einem maximalen Durchmesser von 2,5 cm von *Albizia* *julibrissin* Durazzini</td><td>ex 0602.90</td><td>Israel</td><td>a. Amtliche Feststellung, dass: i) die Pflanzen frei von *Aonidiella orientalis* sind; ii) die Pflanzen während ihrer gesamten Lebensdauer an einem Erzeugungsort gezogen wurden, der bei der nationalen Pflanzenschutzorganisation des Ursprungslandes registriert ist und von dieser überwacht wird. Diese Registrierung umfasst die jeweiligen Produktionsflächen am Erzeugungsort. Dieser Erzeugungsort erfüllt ausserdem eine der folgenden Anforderungen: 1. die Pflanzen wurden mindestens sechs Monate vor ihrer Ausfuhr auf einer Fläche gezogen, die über einen vollständigen physischen Schutz gegen die Einschleppung von *Aonidiella orientalis* verfügt, die alle drei Wochen sowie unmittelbar vor der Verbringung amtlichen Kontrollen unterzogen und als frei von dem Schädling befunden wurde; oder 2. die Produktionsfläche wurde seit Beginn des letzten abgeschlossenen Vegetationszyklus im Rahmen amtlicher Kontrollen alle drei Wochen als frei von *Aonidiella orientalis* befunden; bei Verdacht auf das Auftreten des Schädlings auf der Produktionsfläche wurden geeignete Behandlungen gegen den Schädling durchgeführt, um sicherzustellen, dass der Schädling nicht vorhanden ist; es ist eine Umgebungszone von 100 m eingerichtet, die zu geeigneten Zeiten auf *Aonidiella orientalis* überwacht wird, und falls der Schädling in Wirtspflanzen festgestellt wird, sollten diese Pflanzen unverzüglich entfernt und vernichtet werden; iii) unmittelbar vor der Ausfuhr Sendungen von Pflanzen einer amtlichen Untersuchung auf *Aonidiella orientalis* unterzogen wurden, insbesondere die Stämme und Zweige dieser Pflanzen. Die Probengrösse für diese Untersuchung muss mindestens eine Nachweisgrenze von 1 % Befall mit einer Zuverlässigkeit von 99 % gewährleisten; b. Die Pflanzengesundheitszeugnisse für diese Pflanzen enthalten unter der Überschrift «Zusätzliche Erklärung»: i) die folgende Erklärung: «Die Sendung entspricht den Bestimmungen gemäss Ziffer 2 Anhang 5 der VpM-BLW (SR *916.202.1*); ii) die Angabe welche Anforderung gemäss Buchstabe a. Ziffer ii erfüllt ist; iii) die Angabe der registrierten Produktionsflächen.</td></tr>
+<tr><td>5. Unbewurzelte Stecklinge von zum Anpflanzen bestimmten Pflanzen der Art *Jasminum polyanthum* Franche</td><td>Ex 0602.10</td><td>Israel</td><td>a. Amtliche Feststellung, dass: i) die Pflanzen frei von Scirtothrips dorsalis, Aonidiella orientalis, Milviscutulus mangiferae, Paracoccus marginatus, Pulvinaria psidii und Colletotrichum siamense sind; ii) die Pflanzen während ihrer gesamten Lebensdauer an einem Erzeugungsort gezogen wurden, der zusammen mit den dazugehörigen Produktionsflächen bei der bei der nationalen Pflanzenschutzorganisation des Ursprungslandes registriert ist und von dieser überwacht wird. iii) die Pflanzen auf einer Fläche gezogen wurden, die über einen physischen Schutz gegen die Einschleppung von *Scirtothrips dorsalis*, *Aonidiella orientalis*, *Milviscutulus mangiferae*, *Paracoccus marginatus*, *Pulvinaria psidii* verfügt; iv) die Produktionsfläche alle drei Wochen amtlichen Untersuchungen auf das Vorhandensein von Scirtothrips dorsalis, Aonidiella orientalis, Milviscutulus mangiferae, Paracoccus marginatus, Pulvinaria psidii, und Colletotrichum siamense unterzogen und als frei von diesen Schädlingen befunden wurde; v) Sendungen von Pflanzen unmittelbar vor der Ausfuhr einer amtlichen Untersuchung auf *Scirtothrips dorsalis*, *Aonidiella orientalis, Milviscutulus mangiferae, Paracoccus marginatus* und *Pulvinaria psidii* unterzogen wurden und die Probengrösse mindestens eine Nachweisgrenze von 1 % Befall mit einer Zuverlässigkeit von 99 % gewährleistet, und einer amtlichen Untersuchung auf *Colletotrichum siamense* einschliesslich der Erprobung symptomatischer Pflanzen unterzogen wurden; b. Die Pflanzengesundheitszeugnisse für diese Pflanzen enthalten unter der Überschrift «Zusätzliche Erklärung»: i) die folgende Erklärung: «Die Sendung entspricht den Bestimmungen gemäss Ziffer 2 Anhang 5 der VpM-BLW (SR *916.202.1*); ii) die Angaben der registrierten Produktionsflächen.</td></tr>
+<tr><td>6. Nacktwurzelige veredelte zum Anpflanzen bestimmte Pflanzen in Vegetationsruhe mit einem maximalen Durchmesser von 2,5 cm von *Robinia pseudoacacia* L.</td><td>ex 0602.90</td><td>Israel</td><td>a. Amtliche Feststellung, dass: i) die Pflanzen frei von *Euwallacea fornicatus* sensulato und *Fusarium euwallaceae* sind; ii) die Pflanzen während ihrer gesamten Lebensdauer an einem Erzeugungsort gezogen wurden, der bei der nationalen Pflanzenschutzorganisation des Ursprungslandes registriert ist und von dieser überwacht wird. Diese Registrierung umfasst die jeweiligen Produktionsflächen am Erzeugungsort; iii) die Pflanzen eine der folgenden Anforderungen erfüllen: 1. die Pflanzen haben einen Durchmesser von weniger als 2 cm an der Basis des Stammes; oder 2. die Pflanzen wurden mindestens sechs Monate vor ihrer Ausfuhr auf einer Fläche gezogen, die über einen vollständigen physischen Schutz gegen die Einschleppung von *Euwallacea fornicatus* sensu lato verfügt und die zu geeigneten Zeiten amtlichen Kontrollen unterzogen und zumindest auf der Grundlage von wenigstens alle vier Wochen und unmittelbar vor der Verbringung kontrollierten Fallen als frei von dem Schädling befunden wurde; oder 3. die Pflanzen wurden auf einer Produktionsfläche gezogen, die seit Beginn des letzten abgeschlossenen Vegetationszyklus als frei von *Euwallacea fornicatus* sensu lato und *Fusarium euwallaceae* befunden wurde, was für *Euwallacea fornicatus* sensu lato zumindest auf der Grundlage von Fallen erfolgt, die während amtlicher Kontrollen in Mindestabständen von vier Wochen kontrolliert werden; bei Verdacht auf das Auftreten eines der beiden Schädlinge auf der Produktionsfläche wurden geeignete Behandlungen gegen die Schädlinge durchgeführt, um sicherzustellen, dass keine Schädlinge vorhanden sind; es ist eine Umgebungszone von 1 km eingerichtet, die zu geeigneten Zeiten auf *Euwallacea fornicatus* sensu lato und *Fusarium euwallaceae* überwacht wird, und falls einer der beiden Schädlinge in Wirtspflanzen festgestellt wird, sollten diese Pflanzen unverzüglich entfernt und vernichtet werden; iv) Sendungen von Pflanzen mit einem Durchmesser von 2 cm oder mehr an der Basis des Stammes unmittelbar vor der Ausfuhr einer amtlichen Untersuchung zum Nachweis des Schädlings unterzogen wurden, insbesondere die Stämme und Zweige dieser Pflanzen, einschliesslich einer gezielten destruktiven Probenahme. Die Probengrösse für diese Untersuchung muss mindestens eine Nachweisgrenze von 1 % Befall mit einer Zuverlässigkeit von 99 % gewährleisten; b. Die Pflanzengesundheitszeugnisse für diese Pflanzen enthalten unter der Überschrift «Zusätzliche Erklärung»: i) die folgende Erklärung: «Die Sendung entspricht den Bestimmungen gemäss Ziffer 2 Anhang 5 der VpM-BLW (SR *916.202.1*); ii) die Angabe welche Anforderung gemäss Buchstabe a. Ziffer iii erfüllt ist; iii) die Angaben der registrierten Produktionsflächen.</td></tr>
 </table>
