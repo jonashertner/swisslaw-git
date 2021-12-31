@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 2009 sui sistemi d'informazione militari e su 
 short: OSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: it
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-824-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20200701/it"
 
 (OSIM)
 
-del 16 dicembre 2009 (Stato 1° luglio 2020)
+del 16 dicembre 2009 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-3]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645),[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 [^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-5]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
@@ -151,14 +151,14 @@ L’Ufficio federale della protezione della popolazione e i servizi della Confed
 
 Relativamente alle persone soggette all’obbligo di leva secondo gli articoli 11 e 27 LM, gli organi competenti per registri degli abitanti o per analoghi registri cantonali di persone comunicano al comandante di circondario competente, all’attenzione dell’Aggruppamento Difesa:[^5-6]
 
-- a.[^5-7] alla fine di ogni anno civile, i cittadini svizzeri che durante l’anno in questione hanno compiuto i 17 anni, con cognome, nome, indirizzo di residenza e numero d’assicurato AVS;
+- a.[^5-7] alla fine di ogni anno civile, i cittadini svizzeri che durante l’anno in questione hanno compiuto i 17 anni, con cognome, nome, indirizzo di residenza e numero AVS[^5-8];
 - b. il deposito e il ritiro dei documenti di legittimazione;
 - c. il cambiamento dell’indirizzo di residenza all’interno del Comune;
-- d.[^5-8] l’acquisizione della nazionalità svizzera da parte di uomini in età di essere assoggettati all’obbligo di prestare servizio militare;
+- d.[^5-9] l’acquisizione della nazionalità svizzera da parte di uomini in età di essere assoggettati all’obbligo di prestare servizio militare;
 - e. i cambiamenti di cognome;
 - f. i cambiamenti di cittadinanza;
 - g. il decesso;
-- h.[^5-9] ...
+- h.[^5-10] ...
 
 <sup>4</sup>
 
@@ -169,7 +169,7 @@ Le rappresentanze svizzere all’estero notificano all’Aggruppamento Difesa:
 
 <sup>5</sup> Gli uffici di esecuzione e fallimento notificano senza indugio all’Aggruppamento Difesa i sottufficiali, gli ufficiali e gli ufficiali specialisti che, per leggerezza o contegno fraudolento, sono in stato di fallimento o nei confronti dei quali è effettuato un pignoramento infruttuoso. Essi comunicano all’Aggruppamento Difesa, su richiesta, informazioni sulle procedure di esecuzione e fallimento anteriori e in corso contro persone soggette all’obbligo di prestare servizio militare.
 
-<sup>6</sup> Le autorità inquirenti e i tribunali comunicano all’Aggruppamento Difesa, su richiesta, informazioni sui procedimenti penali pendenti o conclusi contro persone soggette all’obbligo di leva e militari, sempre che le informazioni siano necessarie ai fini della valutazione di una sospensione della chiamata in servizio, di un non reclutamento, di un’esclusione dal servizio militare, di una mutazione o di una chiamata a servizi d’istruzione per un grado superiore oppure ai fini dell’esame dei motivi d’impedimento per la consegna[^5-10] dell’arma personale.[^5-11]
+<sup>6</sup> Le autorità inquirenti e i tribunali comunicano all’Aggruppamento Difesa, su richiesta, informazioni sui procedimenti penali pendenti o conclusi contro persone soggette all’obbligo di leva e militari, sempre che le informazioni siano necessarie ai fini della valutazione di una sospensione della chiamata in servizio, di un non reclutamento, di un’esclusione dal servizio militare, di una mutazione o di una chiamata a servizi d’istruzione per un grado superiore oppure ai fini dell’esame dei motivi d’impedimento per la consegna[^5-11] dell’arma personale.[^5-12]
 
 <sup>7</sup>
 
@@ -191,17 +191,18 @@ Relativamente alle persone soggette all’obbligo di leva e alle persone soggett
 
 <sup>9</sup> Le istituzioni incaricate dell’esecuzione di pene detentive e di misure privative della libertà notificano senza indugio all’Aggruppamento Difesa l’entrata e l’uscita di una persona soggetta all’obbligo di leva o all’obbligo di prestare servizio militare.
 
-[^5-1]: Nuova espressione giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
+[^5-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 [^5-2]: Nuovo testo giusta l’all. n. 1 dell’O del 17 dic. 2014, in vigore dal 1° gen. 2017 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
 [^5-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^5-4]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 [^5-5]: Nuovo testo giusta l’all. n. 1 dell’O del 17 dic. 2014, in vigore dal 1° gen. 2017 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2016 4331](https://fedlex.data.admin.ch/eli/oc/2016/716)).
 [^5-6]: Nuovo testo giusta il n. I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 [^5-7]: Nuovo testo giusta il n. I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-8]: Nuovo testo giusta il n. I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-9]: Abrogata dal n. I 5 dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-10]: Nuova espr. giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
-[^5-11]: Nuovo testo giusta il n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^5-8]: Nuova espr. giusta l’all. n. II 18 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^5-9]: Nuovo testo giusta il n. I 5 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-10]: Abrogata dal n. I 5 dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-11]: Nuova espr. giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
+[^5-12]: Nuovo testo giusta il n. I dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 ### Sezione 2: Sistema d’informazione medica dell’esercito
 
@@ -317,7 +318,7 @@ I dati personali contenuti nel Sistema d’informazione per la gestione del pers
 
 [^15-1]: [RS 510.215](https://fedlex.data.admin.ch/eli/cc/2009/425)
 [^15-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-[^15-3]: Nuova espressione giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
+[^15-3]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 
 #### Art. 16
 
@@ -423,7 +424,7 @@ I dati dell’IVE sono conservati per cinque anni al massimo a decorrere dall’
 
 <sup>2</sup> L’Aggruppamento Difesa[^30-1] gestisce l’IPont.
 
-[^30-1]: Nuova espressione giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
+[^30-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 
 #### Art. 31
 
@@ -478,7 +479,7 @@ L’HYDRA serve all’Aggruppamento Difesa[^34b-1] per:
 - c. l’amministrazione dei congedi;
 - d. la registrazione di comunicazioni all’assicurazione militare relative a incidenti.
 
-[^34b-1]: Nuova espressione giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
+[^34b-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 
 #### Art. 34c
 
@@ -645,7 +646,7 @@ I dati personali contenuti nell’AIS sono indicati nell’allegato 23.
 
 L’Aggruppamento Difesa[^50-1] raccoglie i dati per l’AIS presso il sistema PISA nonché presso gli organi e le persone che impiegano militari.
 
-[^50-1]: Nuova espressione giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
+[^50-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 
 #### Art. 51
 
@@ -1445,7 +1446,7 @@ Il Sistema d’informazione Materiale storico dell’esercito (ISHAM) serve ad a
 
 <sup>2</sup> L’Aggruppamento Difesa[^72i-1] gestisce l’ISHAM.
 
-[^72i-1]: Nuova espressione giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
+[^72i-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Di detta mod.è tenuto conto in tutto il testo.
 
 #### Art. 72i<sup>bis</sup>
 
@@ -1664,7 +1665,7 @@ Allegato 1a*[^t-2]*
 
 1.1 Dati personali
 
-- 1\. Numero d’assicurato AVS
+- 1\. Numero AVS
 - 2\. Cognome
 - 3\. Nome
 - 4\. Data di nascita (con l’indicazione dell’età attuale)
@@ -1830,7 +1831,7 @@ Allegato 1a*[^t-2]*
 
 2.1 Dati personali
 
-- 1\. Numero d’assicurato AVS\*
+- 1\. Numero AVS\*
 - 2\. Cognome\*
 - 3\. Nome\*
 - 4\. Data di nascita (con l’indicazione dell’età attuale)\*
@@ -1952,7 +1953,7 @@ Allegato 2*[^t-3]*
   - a. cognome;
   - b. nome;
   - c. indirizzo;
-  - d. numero d’assicurato AVS.
+  - d. numero AVS.
 
 - 2\.
 
@@ -2067,7 +2068,7 @@ Dati personali:
 
 - 1\. Cognome
 - 2\. Nome
-- 3\. Numero d’assicurato AVS
+- 3\. Numero AVS
 - 4\. Data di nascita
 - 5\. Lingua madre
 - 6\. Indirizzo
@@ -2197,7 +2198,7 @@ Allegato 5
 - 2\. Nome
 - 3\. Indirizzo
 - 4\. Data di nascita
-- 5\. Numero d’assicurato AVS
+- 5\. Numero AVS
 - 6\. Incorporazione
 - 7\. Grado
 - 8\. Funzione
@@ -2225,7 +2226,7 @@ Allegato 5a*[^t-5]*
 - 2\. Nome
 - 3\. Indirizzo
 - 4\. Data di nascita
-- 5\. Numero d’assicurato AVS
+- 5\. Numero AVS
 - 6\. Incorporazione e grado
 - 7\. Funzione
 - 8\. Questionario medico
@@ -2249,7 +2250,7 @@ Allegato 6*[^t-6]*
 - 1\. Cognome
 - 2\. Nome
 - 3\. Grado
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Incorporazione militare
 - 6\. Arma, servizio o servizio ausiliario
 - 7\. Funzione
@@ -2302,7 +2303,7 @@ Allegato 7*[^t-7]*
 - 4\. Indirizzo e-mail
 - 5\. Numero di telefono
 - 6\. Data di nascita
-- 7\. Numero d’assicurato AVS
+- 7\. Numero AVS
 - 8\. Incorporazione
 - 9\. Grado
 - 10\. Funzione
@@ -2384,7 +2385,7 @@ Allegato 9*[^t-9]*
 - 19\. Luogo d’origine
 - 20\. Cittadinanza
 - 21\. Stato civile
-- 22\. Numero d’assicurato AVS
+- 22\. Numero AVS
 - 23\. Indirizzo di domicilio
 - 24\. Indirizzi per i casi d’emergenza
 
@@ -2401,7 +2402,7 @@ Allegato 10*[^t-10]*
 - 1\. Indicazioni sul partecipante al viaggio (grado, cognome, nome, indirizzo, data di nascita, luogo di nascita, luogo d’origine, possibilità di contatto private)
 - 2\. Indirizzo per i casi d’emergenza/persona da contattare in caso d’emergenza
 - 3\. Indicazioni professionali (funzione, numero personale, unità organizzativa, luogo di servizio, numero di telefono, indirizzo e-mail ecc.)
-- 4\. Numero d’assicurato AVS/numero d’assicurazione sociale all’estero
+- 4\. Numero AVS/numero d’assicurazione sociale all’estero
 - 5\. Indicazioni sui documenti di viaggio (carta d’identità, passaporto)
 - 6\. Indicazioni sul rimborso delle spese
 - 7\. Evento
@@ -2443,7 +2444,7 @@ Allegato 12
 - 3\. Data di nascita
 - 4\. Grado
 - 5\. Indirizzo
-- 6\. Numero d’assicurato AVS
+- 6\. Numero AVS
 - 7\. Luogo di lavoro
 - 8\. Professione
 - 9\. Conoscenze linguistiche
@@ -2465,7 +2466,7 @@ Allegato 13
 - 6\. Corso per pontonieri
 - 7\. Indennità
 - 8\. Idoneità al servizio militare (sì/no)
-- 9\. Dati personali, indirizzi, numeri telefonici e numeri d’assicurato AVS degli ispettori per gli esami attitudinali
+- 9\. Dati personali, indirizzi, numeri telefonici e numeri AVS degli ispettori per gli esami attitudinali
 
 Allegato 13a*[^t-11]*
 
@@ -2480,7 +2481,7 @@ Allegato 13a*[^t-11]*
 - 3\. Indirizzo
 - 4\. Lingua materna
 - 5\. Data di nascita
-- 6\. Numero d’assicurato AVS
+- 6\. Numero AVS
 - 7\. Numero PERAUS
 - 8\. Date dell’impiego con la designazione e la durata della missione
 - 9\. Incorporazione e grado militare nell’ambito di impieghi nazionali
@@ -2565,7 +2566,7 @@ Allegato 17*[^t-14]*
 
 - 1\. Nome e cognome\*
 - 2\. Numero personale\*
-- 3\. Numero d’assicurato AVS\*
+- 3\. Numero AVS\*
 - 4\. Sesso\*
 - 5\. Stato civile\*
 - 6\. Data di nascita\* e età
@@ -2636,7 +2637,7 @@ Allegato 19*[^t-16]*
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Data di nascita
 - 6\. Sesso
 - 7\. Appartenenza religiosa
@@ -2657,7 +2658,7 @@ Allegato 20
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Sesso
 - 6\. Incorporazione
 - 7\. Grado
@@ -2675,7 +2676,7 @@ Allegato 21
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Sesso
 - 6\. Incorporazione
 - 7\. Grado
@@ -2718,7 +2719,7 @@ Allegato 23
 - 17\. Paese
 - 18\. Stato
 - 19\. Statuto di utente
-- 20\. Numero d’assicurato AVS
+- 20\. Numero AVS
 - 21\. Risorse (autorizzazioni d’accesso ad archivi di dati e ad applicazioni comuni)
 - 22\. Certificati pubblici
 - 23\. Amministratore
@@ -2761,7 +2762,7 @@ Allegato 23a*[^t-19]*
 - 19\. Unità amministrativa(e), secondo e terzo livello
 - 20\. Paese
 - 21\. Stato (Cantoni ecc.)
-- 22\. Numero d’assicurato AVS
+- 22\. Numero AVS
 - 23\. Risorse (autorizzazioni d’accesso ad archivi di dati e ad applicazioni comuni)
 - 24\. Certificati pubblici
 - 25\. Amministratore
@@ -2790,7 +2791,7 @@ Allegato 24
 - 2\. Nome
 - 3\. Indirizzo e-mail
 - 4\. Numero personale
-- 5\. Numero d’assicurato AVS
+- 5\. Numero AVS
 - 6\. Indirizzo
 - 7\. Unità amministrativa
 - 8\. Certificati
@@ -2806,7 +2807,7 @@ Allegato 24a*[^t-20]*
 - 1\. Cognome
 - 2\. Nome
 - 3\. Sesso
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Incorporazione
 - 6\. Numeri dosimetrici
 - 7\. Annunci dosimetrici (valori di dose, status del dosimetro)
@@ -2823,7 +2824,7 @@ Allegato 25*[^t-21]*
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Incorporazione
 - 6\. Grado
 - 7\. Funzione
@@ -2841,7 +2842,7 @@ Allegato 26*[^t-22]*
 
 [^t-22]: Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. Numero d’assicurato AVS
+- 1\. Numero AVS
 - 2\. Numero personale\*
 - 3\. Cognome\*
 - 4\. Nome\*
@@ -2884,7 +2885,7 @@ Allegato 27
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Professione
 - 6\. Funzione
 - 7\. Settore d’impiego
@@ -2899,7 +2900,7 @@ Allegato 28
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Istruzione
 - 6\. Professione
 - 7\. Luogo d’origine
@@ -2917,7 +2918,7 @@ Allegato 28a*[^t-23]*
 - 1\. Generalità, indirizzo e stato civile
 - 2\. Indirizzo e-mail
 - 3\. Curriculum vitae e indicazioni concernenti l’esperienza di lancio e di volo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Nazionalità, data e luogo di nascita
 - 6\. Conoscenze linguistiche
 - 7\. Incorporazione, grado, funzione e istruzione nell’esercito
@@ -2939,7 +2940,7 @@ Allegato 29*[^t-24]*
 - 2\. Inizio del servizio
 - 3\. Fine del servizio
 - 4\. Numero di candidato
-- 5\. Numero d’assicurato AVS
+- 5\. Numero AVS
 - 6\. Sesso
 - 7\. Grado
 - 8\. Cognome
@@ -2973,7 +2974,7 @@ Allegato 30*[^t-27]*
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Nazionalità
 - 6\. Luogo d’origine
 - 7\. Datore di lavoro e indirizzo del datore di lavoro
@@ -3006,7 +3007,7 @@ Allegato 31*[^t-28]*
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Nazionalità
 - 6\. Luogo d’origine
 - 7\. Datore di lavoro e indirizzo del datore di lavoro
@@ -3079,7 +3080,7 @@ Allegato 32
 
 - 1\. Cognome
 - 2\. Nome
-- 3\. Numero d’assicurato AVS
+- 3\. Numero AVS
 - 4\. Nazionalità
 - 5\. Datore di lavoro e indirizzo del datore di lavoro
 - 6\. Luogo di nascita
@@ -3101,7 +3102,7 @@ Allegato 33*[^t-29]*
 - 1\. Cognome
 - 2\. Nome
 - 3\. Nazionalità
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Numero d’assicurazione sociale all’estero
 - 6\. Data di nascita
 - 7\. Data del controllo di sicurezza relativo alle persone
@@ -3168,7 +3169,7 @@ Allegato 33<sup>bis</sup> *[^t-30]*
 Dati di persone soggette al diritto penale militare nonché di terzi
 
 - 1\. Cognome, nome
-- 2\. Numero d’assicurato AVS
+- 2\. Numero AVS
 - 3\. Data e luogo di nascita
 - 4\. Luogo d’origine
 - 5\. Nazionalità e statuto di dimora
@@ -3201,7 +3202,7 @@ Allegato 33a*[^t-31]*
 - 2\. Nome
 - 3\. Funzione in seno all’Organizzazione di crisi e d’allarme D
 - 4\. Funzione nell’esercito e gruppo d’allarme
-- 5\. Numero d’assicurato AVS
+- 5\. Numero AVS
 - 6\. Numeri di telefono
 - 7\. Indirizzi e-mail
 - 8\. Indirizzo di domicilio
@@ -3231,7 +3232,7 @@ Allegato 33c*[^t-33]*
 
 [^t-33]: Introdotto dal n. 1 dell’all. all’O del 17 dic. 2014 ([RU 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. Cognome, nomi, iniziali, numero personale, datore di lavoro, indirizzo aziendale, e-mail aziendale, numero telefonico aziendale e numero d’assicurato AVS della persona autorizzata ad accedere
+- 1\. Cognome, nomi, iniziali, numero personale, datore di lavoro, indirizzo aziendale, e-mail aziendale, numero telefonico aziendale e numero AVS della persona autorizzata ad accedere
 - 2\. Livello di controllo, data di rilascio e data di scadenza della dichiarazione di sicurezza rilasciata conformemente all’articolo 22 capoverso 1 lettera a OCSP[^annex33c-lvlu1-1] alla persona autorizzata ad accedere
 - 3\. Dati biometrici della persona rilevati mediante scansione delle vene della mano (scansione delle vene) al momento dell’accesso al sistema FABIS
 - 4\. Template della scansione delle vene della persona autorizzata ad accedere al sistema FABIS
@@ -3249,14 +3250,13 @@ Allegato 33d*[^t-34]*
 
 [^t-34]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Aggiornato dal n. II cpv. 2 dell’O del 20 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. Cognome, nomi, iniziali, numero personale, datore di lavoro, indirizzo aziendale, e-mail aziendale, numero telefonico aziendale e numero d’assicurato AVS della persona autorizzata ad accedere
+- 1\. Cognome, nomi, iniziali, numero personale, datore di lavoro, indirizzo aziendale, e-mail aziendale, numero telefonico aziendale e numero AVS della persona autorizzata ad accedere
 - 2\. Livello di controllo, data di rilascio e data di scadenza della dichiarazione di sicurezza rilasciata conformemente all’articolo 22 capoverso 1 lettera a OCSP[^annex33d-lvlu1-1] alla persona autorizzata ad accedere
 - 3\. Dati biometrici della persona rilevati mediante scansione delle vene della mano (scansione delle vene) al momento dell’accesso al sistema MIL PLATTFORM
 - 4\. Template della scansione delle vene della persona autorizzata ad accedere al sistema MIL PLATTFORM
 - 5\. Ora e luogo dell’avvenuto o tentato accesso della persona al sistema MIL PLATTFORM e scansione delle vene rilevata (dati di log)
 - 6\. Dati e autorizzazioni d’accesso
 - [tab]
-
 - [tab]
 
 [^annex33d-lvlu1-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
@@ -3274,7 +3274,7 @@ Allegato 34*[^t-35]*
 - 1\. Cognome
 - 2\. Nome
 - 3\. Indirizzo
-- 4\. Numero d’assicurato AVS
+- 4\. Numero AVS
 - 5\. Data di nascita
 - 6\. Sesso
 - 7\. Numero di telefono
@@ -3297,17 +3297,42 @@ Allegato 34*[^t-35]*
 - 21\. Indicazioni concernenti l’ammontare dei danni
 - 22\. Accertamenti di periti
 
-Allegato 35*[^t-36]*
+Allegato 35
 
-[^t-36]: Abrogato dal n. II cpv. 3 dell’O del 20 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+(art. 72)
 
-Allegato 35<sup>bis</sup> *[^t-37]*
+## Dati del SISLOG
+
+- 1\. Numero d’identificazione personale PISA
+- 2\. Cognome
+- 3\. Nome
+- 4\. Indirizzo
+- 5\. Cantone
+- 6\. Numero AVS
+- 7\. Data di nascita
+- 8\. Luogo d’origine
+- 9\. Cantone d’origine
+- 10\. Professione
+- 11\. Conoscenze linguistiche
+- 12\. Sesso
+- 13\. Statuto PISA
+- 14\. Incorporazione, con l’indicazione della data
+- 15\. Grado, con l’indicazione della data
+- 16\. Funzione, con l’indicazione della data
+- 17\. Appartenenza allo stato maggiore generale
+- 18\. Funzione in sostituzione
+- 19\. Categoria di personale
+- 20\. Numero d’assicurazione sociale all’estero
+- 21\. Ultima scuola
+- 22\. Data dell’ultima entrata in servizio 23. Dati ai sensi degli allegati 1–32: unicamente durante lo scambio di dati conformemente all’articolo 175 lettera c LSIM
+
+Allegato 35<sup>bis</sup> *[^t-36]*
 
 (art. 72<sup>bis</sup> cpv. 1)
 
 ## Dati del sistema PSN
 
-[^t-37]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-36]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 ### Dati su persone soggette all’obbligo di leva, militari, ex militari, personale militare e terzi in quanto detentori di un’arma in prestito
 
@@ -3315,7 +3340,7 @@ Allegato 35<sup>bis</sup> *[^t-37]*
 - 1\.1 Cognome, nome
 - 1\.2 Indirizzo con Cantone di domicilio, domicilio e numero postale d’avviamento
 - **2** **Dati di base**
-- 2\.1 Numero d’assicurato AVS
+- 2\.1 Numero AVS
 - 2\.2 Data di nascita
 - 2\.3 Sesso
 - 2\.4 Lingua madre
@@ -3485,17 +3510,17 @@ Allegato 35<sup>bis</sup> *[^t-37]*
 - 27\.4 Oggetti in prestito
 - 27\.5 Altri dati aziendali rilevanti
 
-Allegato 35<sup>ter</sup>*[^t-38]*
+Allegato 35<sup>ter</sup>*[^t-37]*
 
 (art. 72<sup>ter</sup>)
 
 ## Dati dell’AFS
 
-[^t-38]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-37]: Introdotto dal n. II cpv. 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Cognome, nome
 - 2\. Sesso
-- 3\. Numero d’assicurato AVS
+- 3\. Numero AVS
 - 4\. Data di nascita
 - 5\. Indirizzo
 - 6\. Professione
@@ -3508,21 +3533,21 @@ Allegato 35<sup>ter</sup>*[^t-38]*
 - 13\. Annotazione di servizio codificata per l’inidoneità medica o l’inabilità al tiro (contrassegno «R»)
 - 14\. Codice di mutazione (nuova immissione/cancellazione/mutazione)
 
-Allegato 35a*[^t-39]*
+Allegato 35a*[^t-38]*
 
-[^t-39]: Introdotto dal n. II cpv. 3 dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogato dal n. II cpv. 3 dell’O del 20 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
+[^t-38]: Introdotto dal n. II cpv. 3 dell’O del 6 lug. 2011 ([RU 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogato dal n. II cpv. 3 dell’O del 20 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-Allegato 35b e 35c *[^t-40]*
+Allegato 35b e 35c *[^t-39]*
 
-[^t-40]: Introdotti dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-39]: Introdotti dal n. II cpv. 3 dell’O del 26 giu. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogati dal n. II cpv. 5 dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Allegato 35c<sup>bis</sup> *[^t-41]*
+Allegato 35c<sup>bis</sup> *[^t-40]*
 
 (art. 72*g*<sup>octies</sup>)
 
 ## Dati del PSA
 
-[^t-41]: Introdotto dal n. II cpv. 1 dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
+[^t-40]: Introdotto dal n. II cpv. 1 dell’O del 10 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
 
 ### Dati dei collaboratori
 
@@ -3586,19 +3611,19 @@ Allegato 35c<sup>bis</sup> *[^t-41]*
 - 9\.1 Dati forniti volontariamente dalla persona interessata
 - \* dati estratti dal SIGDP
 
-Allegato 35d*[^t-42]*
+Allegato 35d*[^t-41]*
 
 (art. 72*h*<sup>bis</sup>)
 
 ## Dati delle collezioni ausiliarie di dati
 
-[^t-42]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-41]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Cognome
 - 2\. Nome
 - 3\. Sesso
 - 4\. Data di nascita
-- 5\. Numero d’assicurato AVS
+- 5\. Numero AVS
 - 6\. Numero personale
 - 7\. Lingua materna
 - 8\. Nazionalità
@@ -3618,13 +3643,13 @@ Allegato 35d*[^t-42]*
 - 22\. Inventario, ordinazioni, prenotazioni, prestiti
 - 23\. Descrizione delle risorse (veicoli, materiali, locali, apparecchi)
 
-Allegato 35e*[^t-43]*
+Allegato 35e*[^t-42]*
 
 (art. 72*i*<sup>bis</sup>)
 
 ## Dati del Sistema d’informazione Materiale storico dell’esercito
 
-[^t-43]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-42]: Introdotto dal n. II cpv. 3 dell’O del 26 giu. 2013, in vigore dal 1° ago. 2013 ([RU 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 ### Dati di musei, collezionisti e associazioni per la tutela delle tradizioni
 
@@ -3648,13 +3673,13 @@ Allegato 35e*[^t-43]*
 - 15\. Elenco degli oggetti prestati e delle donazioni
 - 16\. Obblighi, condizioni e autorizzazioni
 
-Allegato 35f *[^t-44]*
+Allegato 35f *[^t-43]*
 
 (art. 72*j*<sup>ter</sup>)
 
 ## Dati del PSB
 
-[^t-44]: Introdotto dal n. II cpv. 1 dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-43]: Introdotto dal n. II cpv. 1 dell’O del 10 giu. 2016 ([RU 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Nuovo testo giusta il n. II cpv. 3 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 I seguenti dati del SIGDP conformemente all’allegato 3 dell’ordinanza del 22 novembre 2017[^annex35f-lvlu1-1] sulla protezione dei dati personali del personale federale sono trattati nel PSB e estratti dal SIGDP:
 

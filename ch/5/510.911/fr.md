@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2009 sur les systèmes d'information de l'arm
 short: OSIAr
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: fr
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20200701/fr"
 
 (OSIAr)**[^t-1]**
 
-du 16 décembre 2009 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2009 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Le sigle de l’acte a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RO 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745)).
 
@@ -29,7 +29,7 @@ arrête:
 
 [^ingress-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-3]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 [^ingress-4]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-5]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
@@ -156,14 +156,14 @@ L’Office fédéral de la protection de la population, ainsi que les services f
 
 Les autorités responsables du contrôle des habitants ou des registres officiels cantonaux de personnes communiquent au commandant d’arrondissement concerné, à l’attention du Groupement Défense, en ce qui concerne les conscrits selon les art. 11 et 27 de la loi fédérale du 3 février 1995 sur l’armée et l’administration militaire (LAAM)[^5-6]:[^5-7]
 
-- a.[^5-8] à la fin de l’année, les citoyens suisses qui ont atteint l’âge de 17 ans au cours de l’année, en indiquant leur nom, prénom, domicile et numéro d’assuré AVS.
+- a.[^5-8] à la fin de l’année, les citoyens suisses qui ont atteint l’âge de 17 ans au cours de l’année, en indiquant leur nom, prénom, domicile et numéro AVS[^5-9].
 - b. le dépôt ou le retrait des papiers;
 - c. les changements de domicile à l’intérieur de la commune;
-- d.[^5-9] l’acquisition de la nationalité suisse par les hommes en âge d’être soumis à l’obligation d’accomplir un service militaire;
+- d.[^5-10] l’acquisition de la nationalité suisse par les hommes en âge d’être soumis à l’obligation d’accomplir un service militaire;
 - e. les changements de nom;
 - f. les changements de nationalité;
 - g. les décès;
-- h. [^5-10] ...
+- h. [^5-11] ...
 
 <sup>4</sup>
 
@@ -174,13 +174,13 @@ Les représentations suisses à l’étranger communiquent au Groupement Défens
 
 <sup>5</sup> Les offices des poursuites et des faillites communiquent immédiatement au Groupement Défense le nom des sous-officiers, officiers et officiers spécialistes tombés en faillite par négligence ou fraude et de ceux contre lesquels il existe un acte de défaut de biens. Si le Groupement Défense en fait la demande, ils lui donnent des renseignements sur les procédures de poursuite et de faillite passées et pendantes qui ont été ouvertes contre des personnes astreintes au service militaire.
 
-<sup>6</sup> Si le Groupement Défense en fait la demande, lorsqu’il s’agit d’envisager une interdiction de convocation, un non-recrutement, une exclusion du service militaire, une mutation ou une convocation à un service d’instruction pour monter en grade ou pour examiner les motifs d’empêchement de la remise de l’arme personnelle, les autorités d’instruction et les tribunaux lui donnent les renseignements nécessaires sur les procédures pénales pendantes ou closes qui ont été ouvertes ou qui sont menées contre des conscrits et des militaires.[^5-11]
+<sup>6</sup> Si le Groupement Défense en fait la demande, lorsqu’il s’agit d’envisager une interdiction de convocation, un non-recrutement, une exclusion du service militaire, une mutation ou une convocation à un service d’instruction pour monter en grade ou pour examiner les motifs d’empêchement de la remise de l’arme personnelle, les autorités d’instruction et les tribunaux lui donnent les renseignements nécessaires sur les procédures pénales pendantes ou closes qui ont été ouvertes ou qui sont menées contre des conscrits et des militaires.[^5-12]
 
 <sup>7</sup>
 
 L’Office de l’auditeur en chef annonce au Groupement Défense, à propos des personnes astreintes aux obligations et au service militaires:
 
-- a.[^5-12] les enquêtes ordinaires et les enquêtes en complément de preuves ordonnées par la justice militaire;
+- a.[^5-13] les enquêtes ordinaires et les enquêtes en complément de preuves ordonnées par la justice militaire;
 - b. les ordonnances de non-lieu exécutoires;
 - c. les jugements exécutoires des tribunaux militaires;
 - d. les jugements par contumace annulés;
@@ -204,10 +204,11 @@ L’Office fédéral de la justice annonce immédiatement au Groupement Défense
 [^5-6]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^5-7]: Nouvelle teneur selon le ch. I 5 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 [^5-8]: Nouvelle teneur selon le ch. I 5 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-9]: Nouvelle teneur selon le ch. I 5 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-10]: Abrogée par le ch. I 5 de l’O du 3 déc. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-11]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
-[^5-12]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
+[^5-9]: Nouvelle expression selon l’annexe ch. II 18 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-10]: Nouvelle teneur selon le ch. I 5 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-11]: Abrogée par le ch. I 5 de l’O du 3 déc. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-12]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^5-13]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
 
 ### Section 2 Système d’information médicale de l’armée
 
@@ -1696,7 +1697,7 @@ Annexe 1a*[^t-3]*
 
 ### 1.1 Données d’identité
 
-- 1\. Numéro d’assuré AVS
+- 1\. Numéro AVS
 - 2\. Nom
 - 3\. Prénom
 - 4\. Date de naissance (avec l’indication de l’âge actuel)
@@ -1864,7 +1865,7 @@ Annexe 1a*[^t-3]*
 
 ### 2.1 Données d’identité
 
-- 1\. Numéro d’assuré AVS\*
+- 1\. Numéro AVS\*
 - 2\. Nom\*
 - 3\. Prénom\*
 - 4\. Date de naissance (avec l’indication de l’âge actuel)\*
@@ -1989,7 +1990,7 @@ Annexe 2*[^t-4]*
   - a. nom;
   - b. prénom;
   - c. adresse;
-  - d. numéro d’assuré AVS.
+  - d. numéro AVS.
 
 - 2\.
 
@@ -2104,7 +2105,7 @@ Annexe 3*[^t-5]*
 
 - 1\. Nom
 - 2\. Prénom
-- 3\. Numéro d’assuré AVS
+- 3\. Numéro AVS
 - 4\. Date de naissance
 - 5\. Langue maternelle
 - 6\. Adresse
@@ -2234,7 +2235,7 @@ Annexe 5
 - 2\. Prénom
 - 3\. Adresse
 - 4\. Date de naissance
-- 5\. Numéro d’assuré AVS
+- 5\. Numéro AVS
 - 6\. Incorporation
 - 7\. Grade
 - 8\. Fonction
@@ -2262,7 +2263,7 @@ Annexe 5a*[^t-6]*
 - 2\. Prénom
 - 3\. Adresse
 - 4\. Date de naissance
-- 5\. Numéro d’assuré AVS
+- 5\. Numéro AVS
 - 6\. Incorporation et grade
 - 7\. Fonction
 - 8\. Questionnaire médical
@@ -2286,7 +2287,7 @@ Annexe 6*[^t-7]*
 - 1\. Nom
 - 2\. Prénom
 - 3\. Grade
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Incorporation militaire
 - 6\. Arme, service ou service auxiliaire
 - 7\. Fonction
@@ -2337,7 +2338,7 @@ Annexe 7*[^t-8]*
 - 4\. Adresse électronique
 - 5\. Numéro de téléphone
 - 6\. Date de naissance
-- 7\. Numéro d’assuré AVS
+- 7\. Numéro AVS
 - 8\. Incorporation
 - 9\. Grade
 - 10\. Fonction
@@ -2419,7 +2420,7 @@ Annexe 9*[^t-10]*
 - 19\. Lieu d’origine
 - 20\. Nationalité
 - 21\. État civil
-- 22\. Numéro d’assuré AVS
+- 22\. Numéro AVS
 - 23\. Adresse de domicile
 - 24\. Adresse de personnes à contacter en cas d’urgence
 
@@ -2436,7 +2437,7 @@ Annexe 10*[^t-11]*
 - 1\. Indications concernant le participant au voyage (grade, nom, prénom, adresse, date de naissance, lieu de naissance, lieu d’origine, possibilité de contacts privés)
 - 2\. Adresse de proches à contacter en cas d’urgence/contact en cas d’urgence
 - 3\. Indications professionnelles (fonction, numéro personnel, unité organisationnelle, lieu de service, numéro de téléphone, adresse électronique, etc.)
-- 4\. Numéro d’assuré AVS / de sécurité sociale étrangère
+- 4\. Numéro AVS / de sécurité sociale étrangère
 - 5\. Indications concernant les documents de voyage (carte d’identité, passeport)
 - 6\. Indications concernant le remboursement des frais
 - 7\. Manifestation
@@ -2478,7 +2479,7 @@ Annexe 12
 - 3\. Date de naissance
 - 4\. Grade
 - 5\. Adresse
-- 6\. Numéro d’assuré AVS
+- 6\. Numéro AVS
 - 7\. Lieu de travail
 - 8\. Profession
 - 9\. Connaissances linguistiques
@@ -2500,7 +2501,7 @@ Annexe 13
 - 6\. Cours de pontonniers
 - 7\. Indemnisations
 - 8\. Aptitude au service militaire (oui/non)
-- 9\. Identité, adresses, numéros de téléphone et numéro d’assuré AVS des inspecteurs des examens de performance
+- 9\. Identité, adresses, numéros de téléphone et numéro AVS des inspecteurs des examens de performance
 
 Annexe 13a*[^t-12]*
 
@@ -2515,7 +2516,7 @@ Annexe 13a*[^t-12]*
 - 3\. Adresse
 - 4\. Langue maternelle
 - 5\. Date de naissance
-- 6\. Numéro d’assuré AVS
+- 6\. Numéro AVS
 - 7\. Numéro du PERAUS
 - 8\. Données relatives aux engagements, avec les désignations et la durée des missions
 - 9\. Incorporation et grade militaire dans le cadre d’un engagement national
@@ -2599,7 +2600,7 @@ Annexe 17*[^t-15]*
 
 - 1\. Prénom et nom\*
 - 2\. Numéro personnel\*
-- 3\. Numéro d’assuré AVS\*
+- 3\. Numéro AVS\*
 - 4\. Sexe\*
 - 5\. Situation familiale\*
 - 6\. Date de naissance\* et âge
@@ -2670,7 +2671,7 @@ Annexe 19*[^t-17]*
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Date de naissance
 - 6\. Sexe
 - 7\. Confession
@@ -2691,7 +2692,7 @@ Annexe 20
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Sexe
 - 6\. Incorporation
 - 7\. Grade
@@ -2709,7 +2710,7 @@ Annexe 21
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Sexe
 - 6\. Incorporation
 - 7\. Grade
@@ -2752,7 +2753,7 @@ Annexe 23
 - 17\. Pays
 - 18\. État
 - 19\. Statut d’utilisateur
-- 20\. Numéro d’assuré AVS
+- 20\. Numéro AVS
 - 21\. Ressources (droits d’accès aux données communes et aux applications)
 - 22\. Certificats publics
 - 23\. Administrateur
@@ -2766,7 +2767,7 @@ Annexe 23
 - 31\. Date du dernier changement de mot de passe
 - 32\. Mot de passe
 
-Annexe 23a[^t-20]
+Annexe 23a*[^t-20]*
 
 (art. 52*b*)
 
@@ -2795,7 +2796,7 @@ Annexe 23a[^t-20]
 - 19\. Unité administrative 2<sup>e</sup> et 3<sup>e</sup> étapes
 - 20\. Pays
 - 21\. État (cantons, etc.)
-- 22\. Numéro d’assuré AVS
+- 22\. Numéro AVS
 - 23\. Ressources (droits d’accès aux données communes et aux applications)
 - 24\. Certificats publics
 - 25\. Administrateur
@@ -2824,7 +2825,7 @@ Annexe 24
 - 2\. Prénom
 - 3\. Adresse électronique
 - 4\. Numéro personnel
-- 5\. Numéro d’assuré AVS
+- 5\. Numéro AVS
 - 6\. Adresse
 - 7\. Unité administrative
 - 8\. Certificats
@@ -2840,7 +2841,7 @@ Annexe 24a*[^t-21]*
 - 1\. Nom
 - 2\. Prénom
 - 3\. Sexe
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Incorporation
 - 6\. Numéros dosimétriques
 - 7\. Annonces dosimétriques (valeur des doses, statut du dosimètre)
@@ -2857,7 +2858,7 @@ Annexe 25*[^t-22]*
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Incorporation
 - 6\. Grade
 - 7\. Fonction
@@ -2875,7 +2876,7 @@ Annexe 26*[^t-23]*
 
 [^t-23]: Nouvelle teneur selon le ch. II al. 3 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. II al. 2 de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. Numéro d’assuré AVS
+- 1\. Numéro AVS
 - 2\. Numéro personnel\*
 - 3\. Nom\*
 - 4\. Prénom\*
@@ -2918,7 +2919,7 @@ Annexe 27
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Profession
 - 6\. Fonction
 - 7\. Domaine d’engagement
@@ -2933,7 +2934,7 @@ Annexe 28
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Instruction
 - 6\. Profession
 - 7\. Lieu d’origine
@@ -2951,7 +2952,7 @@ Annexe 28a*[^t-24]*
 - 1\. Données d’identité, adresse et état civil
 - 2\. Adresse électronique
 - 3\. *Curriculum vitae* et indications concernant l’expérience de saut et de vol acquise antérieurement
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Nationalité, date et lieu de naissance
 - 6\. Connaissances linguistiques
 - 7\. Incorporation, grade, fonction et instruction au sein de l’armée
@@ -2973,7 +2974,7 @@ Annexe 29*[^t-25]*
 - 2\. Début du service
 - 3\. Fin du service
 - 4\. Numéro de candidat
-- 5\. Numéro d’assuré AVS
+- 5\. Numéro AVS
 - 6\. Sexe
 - 7\. Grade
 - 8\. Nom
@@ -3007,7 +3008,7 @@ Annexe 30*[^t-28]*
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Nationalité
 - 6\. Lieu d’origine
 - 7\. Employeur et son adresse
@@ -3040,7 +3041,7 @@ Annexe 31*[^t-29]*
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Nationalité
 - 6\. Lieu d’origine
 - 7\. Nom et adresse de l’employeur
@@ -3113,7 +3114,7 @@ Annexe 32
 
 - 1\. Nom
 - 2\. Prénom
-- 3\. Numéro d’assuré AVS
+- 3\. Numéro AVS
 - 4\. Nationalité
 - 5\. Employeur et son adresse
 - 6\. Lieu de naissance
@@ -3135,7 +3136,7 @@ Annexe 33*[^t-30]*
 - 1\. Nom
 - 2\. Prénom
 - 3\. Nationalité
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Numéro de sécurité sociale étrangère
 - 6\. Date de naissance
 - 7\. Date du contrôle de sécurité relatif aux personnes
@@ -3202,7 +3203,7 @@ Annexe 33<sup>bis</sup>*[^t-31]*
 Données des personnes soumises au droit pénal militaire et des tiers
 
 - 1\. Nom, prénom
-- 2\. Numéro d’assuré AVS
+- 2\. Numéro AVS
 - 3\. Date et lieu de naissance
 - 4\. Lieu d’origine
 - 5\. Nationalité et statut de résident
@@ -3235,7 +3236,7 @@ Annexe 33a*[^t-32]*
 - 2\. Prénom
 - 3\. Fonction au sein de l’organisation de crise et d’alarme Défense
 - 4\. Fonction militaire avec groupe d’alerte
-- 5\. Numéro d’assuré AVS
+- 5\. Numéro AVS
 - 6\. Numéros de téléphone
 - 7\. Adresses électroniques
 - 8\. Adresse de domicile
@@ -3265,7 +3266,7 @@ Annexe 33c*[^t-34]*
 
 [^t-34]: Introduite par le ch. 1 de l’annexe à l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Nouvelle teneur selon le ch. II al. 3 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. II al. 2 de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. Nom, prénoms, initiales, numéro personnel, employeur, adresse professionnelle, adresse électronique professionnelle, numéro de téléphone professionnel et numéro d’assuré AVS de la personne ayant l’autorisation d’accès
+- 1\. Nom, prénoms, initiales, numéro personnel, employeur, adresse professionnelle, adresse électronique professionnelle, numéro de téléphone professionnel et numéro AVS de la personne ayant l’autorisation d’accès
 - 2\. Degré de contrôle, date du prononcé et date d’échéance d’une déclaration de sécurité émise en faveur de la personne ayant l’autorisation d’accès selon l’art. 22, al. 1, let. a, OCSP[^annex33c-lvlu1-1]
 - 3\. Données biométriques (image numérisée des veines de la main) enregistrées par un *scanner* lors d’un accès au FABIS
 - 4\. Modèle de l’image numérisée des veines de la main pour la personne ayant l’autorisation d’accès au FABIS
@@ -3282,7 +3283,7 @@ Annexe 33d*[^t-35]*
 
 [^t-35]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. II al. 2 de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. Nom, prénoms, initiales, numéro personnel, employeur, adresse professionnelle, adresse électronique professionnelle, numéro de téléphone professionnel et numéro d’assuré AVS de la personne ayant l’autorisation d’accès
+- 1\. Nom, prénoms, initiales, numéro personnel, employeur, adresse professionnelle, adresse électronique professionnelle, numéro de téléphone professionnel et numéro AVS de la personne ayant l’autorisation d’accès
 - 2\. Degré de contrôle, date du prononcé et date d’échéance d’une déclaration de sécurité émise en faveur de la personne ayant l’autorisation d’accès selon l’art. 22, al. 1, let. a, OCSP[^annex33d-lvlu1-1]
 - 3\. Données biométriques (image numérisée des veines de la main) enregistrées par un *scanner* lors d’un accès au MIL PLATTFORM
 - 4\. Modèle de l’image numérisée des veines de la main pour la personne ayant l’autorisation d’accès au MIL PLATTFORM
@@ -3304,7 +3305,7 @@ Annexe 34*[^t-36]*
 - 1\. Nom
 - 2\. Prénom
 - 3\. Adresse
-- 4\. Numéro d’assuré AVS
+- 4\. Numéro AVS
 - 5\. Date de naissance
 - 6\. Sexe
 - 7\. Numéro de téléphone
@@ -3338,7 +3339,7 @@ Annexe 35
 - 3\. Prénom
 - 4\. Adresse
 - 5\. Canton
-- 6\. Numéro d’assuré AVS
+- 6\. Numéro AVS
 - 7\. Date de naissance
 - 8\. Lieu d’origine
 - 9\. Canton d’origine
@@ -3371,7 +3372,7 @@ Annexe 35<sup>bis</sup>*[^t-37]*
 - 1\.1 Nom, prénom
 - 1\.2 Adresse, avec canton de domicile, lieu de domicile et numéro postal d’acheminement
 - **2** **Données de base**
-- 2\.1 Numéro d’assuré AVS
+- 2\.1 Numéro AVS
 - 2\.2 Date de naissance
 - 2\.3 Sexe
 - 2\.4 Langue maternelle
@@ -3551,7 +3552,7 @@ Annexe 35<sup>ter</sup>*[^t-38]*
 
 - 1\. Nom, prénom
 - 2\. Sexe
-- 3\. Numéro d’assuré AVS
+- 3\. Numéro AVS
 - 4\. Date de naissance
 - 5\. Adresse
 - 6\. Profession
@@ -3656,7 +3657,7 @@ Annexe 35d*[^t-42]*
 - 2\. Prénom
 - 3\. Sexe
 - 4\. Date de naissance
-- 5\. Numéro d’assuré AVS
+- 5\. Numéro AVS
 - 6\. Numéro personnel
 - 7\. Langue maternelle
 - 8\. Nationalité

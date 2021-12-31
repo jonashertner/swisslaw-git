@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2009 über militärische und andere Informati
 short: MIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: de
-version: 2020-07-01
+version: 2022-01-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-824-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20200701/de"
 
 (MIV)
 
-vom 16. Dezember 2009 (Stand am 1. Juli 2020)
+vom 16. Dezember 2009 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -27,7 +27,7 @@ verordnet:
 
 [^ingress-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 [^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-3]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dezember 2019 ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 [^ingress-4]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
@@ -90,7 +90,7 @@ Mehrere Informationssysteme können technisch zusammengeführt und über dieselb
 
 ## 2. Kapitel: Personalinformationssysteme
 
-### 1. Abschnitt: Personalinformationssystem der Armee und des Zivilschutzes
+### 1. Abschnitt: Personalinformationssystem der Armee und des Zivilschutzes****
 
 [^chap2-sec1-1]
 
@@ -154,14 +154,14 @@ Das Bundesamt für Bevölkerungsschutz und die für den Zivilschutz zuständigen
 
 Die für die Einwohnerregister oder vergleichbaren kantonalen Personenregister zuständigen Behörden melden dem zuständigen Kreiskommandanten zuhanden der Gruppe Verteidigung bezüglich der Stellungspflichtigen nach den Artikeln 11 und 27 des Militärgesetzes vom 3. Februar 1995[^5-6] (MG):[^5-7]
 
-- a.[^5-8] am Ende eines Jahres die Schweizer Bürger, die während des Jahres das 17. Altersjahr vollendet haben, mit Namen, Vornamen, Wohnadresse und AHV-Versichertennummer;
+- a.[^5-8] am Ende eines Jahres die Schweizer Bürger, die während des Jahres das 17. Altersjahr vollendet haben, mit Namen, Vornamen, Wohnadresse und AHV-Nummer[^5-9];
 - b. die Hinterlegung oder die Herauslösung der Ausweisschriften;
 - c. die Änderung der Wohnadresse innerhalb der Gemeinde;
-- d.[^5-9] die Aufnahme von Männern im militärdienstpflichtigen Alter in das Schweizer Bürgerrecht;
+- d.[^5-10] die Aufnahme von Männern im militärdienstpflichtigen Alter in das Schweizer Bürgerrecht;
 - e. Änderungen des Namens;
 - f. Änderungen im Bürgerrecht;
 - g. den Eintritt des Todes;
-- h. [^5-10] ...
+- h. [^5-11] …
 
 <sup>4</sup>
 
@@ -172,7 +172,7 @@ Die schweizerischen Vertretungen im Ausland melden der Gruppe Verteidigung:
 
 <sup>5</sup> Die Betreibungs- und die Konkursämter melden der Gruppe Verteidigung unverzüglich Unteroffiziere, Offiziere und Fachoffiziere, die leichtsinnig oder betrügerisch in Konkurs fallen oder fruchtlos gepfändet werden. Sie geben der Gruppe Verteidigung auf Anfrage Auskunft über bisherige und hängige Betreibungs- und Konkursverfahren gegen Militärdienstpflichtige.
 
-<sup>6</sup> Die Untersuchungsbehörden und die Gerichte geben der Gruppe Verteidigung auf Anfrage Auskunft über hängige und abgeschlossene Strafverfahren gegen Stellungspflichtige und Angehörige der Armee, sofern die Auskunft benötigt wird zur Erwägung eines Aufgebotsstopps, einer Nichtrekrutierung, eines Ausschlusses von der Militärdienstleistung, einer Mutation, einer Einberufung zu Ausbildungsdiensten für einen höheren Grad oder zur Prüfung von Hinderungsgründen für die Abgabe[^5-11] der persönlichen Waffe.[^5-12]
+<sup>6</sup> Die Untersuchungsbehörden und die Gerichte geben der Gruppe Verteidigung auf Anfrage Auskunft über hängige und abgeschlossene Strafverfahren gegen Stellungspflichtige und Angehörige der Armee, sofern die Auskunft benötigt wird zur Erwägung eines Aufgebotsstopps, einer Nichtrekrutierung, eines Ausschlusses von der Militärdienstleistung, einer Mutation, einer Einberufung zu Ausbildungsdiensten für einen höheren Grad oder zur Prüfung von Hinderungsgründen für die Abgabe[^5-12] der persönlichen Waffe.[^5-13]
 
 <sup>7</sup>
 
@@ -202,10 +202,11 @@ Das Bundesamt für Justiz meldet der Gruppe Verteidigung über Stellungspflichti
 [^5-6]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^5-7]: Fassung gemäss Ziff. I 5 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 [^5-8]: Fassung gemäss Ziff. I 5 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-9]: Fassung gemäss Ziff. I 5 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-10]: Aufgehoben durch Ziff. I 5 der V vom 3. Dez. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^5-11]: Ausdruck gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^5-12]: Fassung gemäss Ziff. I der V vom 26. Juni 2013, in Kraft seit 1. Aug. 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^5-9]: Ausdruck gemäss Anhang Ziff. II 18 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-10]: Fassung gemäss Ziff. I 5 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-11]: Aufgehoben durch Ziff. I 5 der V vom 3. Dez. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^5-12]: Ausdruck gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-13]: Fassung gemäss Ziff. I der V vom 26. Juni 2013, in Kraft seit 1. Aug. 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 ### 2. Abschnitt: Medizinisches Informationssystem der Armee
 
@@ -459,7 +460,7 @@ Die Daten des IPont werden während zehn Jahren ab Erfassung aufbewahrt.
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### 8. Abschnitt: Informationssystem Auslandeinsatzadministration
+### 8. Abschnitt:**** Informationssystem Auslandeinsatzadministration
 
 [^chap2-sec8-1]
 
@@ -515,7 +516,7 @@ Die Daten im HYDRA werden längstens bis zum Erreichen der Altersgrenze für ein
 
 ## 3. Kapitel: Führungsinformationssysteme
 
-### 1. Abschnitt: Führungsinformationssysteme nach MIG
+### 1. Abschnitt: Führungsinformationssysteme nach MIG****
 
 [^chap3-sec1-1]
 
@@ -569,6 +570,8 @@ Die Daten für das ISKM können über eine Schnittstelle beschafft werden aus:[^
 - b. dem Informationssystem Ausbildungsmanagement (Learning Management System VBS; LMS VBS);
 - c.[^38-5] dem Informationssystem Personaldatenmanagement (IPDM).
 
+<sup>3</sup>
+
 Die Daten des ISKM werden zugänglich gemacht:[^38-6]
 
 - a. der betreffenden Person für die Einsicht in ihre Daten und für deren Bearbeitung;
@@ -613,7 +616,7 @@ Die im Führungsinformationssystem Luftwaffe (FIS LW) enthaltenen Personendaten 
 
 Die im Führungsinformationssystem Soldat (IMESS) enthaltenen Personendaten sind im Anhang 21 aufgeführt.
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 43–47
 
@@ -676,7 +679,7 @@ Die Gruppe Verteidigung[^51-1] macht die nachstehenden Daten des AIS zugänglich
 
 Die Daten des AIS werden längstens während zehn Jahren nach Erlöschen des Benutzungsrechtes aufbewahrt.
 
-## 3*a*. Abschnitt: Prozess- und ereignisgesteuertes Automatisierungs- und Steuerungsunterstützungs-System
+## 3*a*. Abschnitt:**** Prozess- und ereignisgesteuertes Automatisierungs- und Steuerungsunterstützungs-System
 
 [^sec3a-1]
 
@@ -746,7 +749,7 @@ Die Gruppe Verteidigung macht die Daten des PEGASUS zugänglich:
 Das Informationssystem Swiss Defence Public Key Infrastructure (SD-PKI) dient der Verwaltung der Zertifikate und Schlüssel der Benutzerinnen und Benutzer:
 
 - a. der Informatik der Waffensysteme und der Führungs- und Einsatzsysteme der Armee, und
-- b.[^53-1] ...
+- b.[^53-1] …
 
 <sup>2</sup> Die Gruppe Verteidigung betreibt das SD-PKI.
 
@@ -780,7 +783,7 @@ Die Gruppe Verteidigung beschafft die Daten für das SD-PKI aus dem PISA und dem
 
 Die Daten des SD-PKI werden längstens während zehn Jahren nach Ablauf der Gültigkeit des Zertifikats aufbewahrt.
 
-### 5. Abschnitt: Militärisches Dosimetriesystem
+### 5. Abschnitt:**** Militärisches Dosimetriesystem
 
 [^sec3a-sec5-1]
 
@@ -836,7 +839,7 @@ Die Daten im MDS werden nach der Erfassung längstens während fünf Jahren aufb
 
 [^57e-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### 6. Abschnitt: Geolokalisierungssysteme
+### 6. Abschnitt:**** Geolokalisierungssysteme
 
 [^sec3a-sec6-1]
 
@@ -852,7 +855,7 @@ Die Daten im MDS werden nach der Erfassung längstens während fünf Jahren aufb
 
 ## 4. Kapitel: Ausbildungsinformationssysteme
 
-### 1. Abschnitt: Ausbildungsinformationssysteme nach MIG
+### 1. Abschnitt: Ausbildungsinformationssysteme nach MIG****
 
 [^chap4-sec1-1]
 
@@ -976,7 +979,7 @@ Die Daten des ISFA werden bekannt gegeben:
 
 ## 5. Kapitel: Sicherheitsinformationssysteme
 
-### 1. Abschnitt: Sicherheitsinformationssysteme nach MIG
+### 1. Abschnitt: Sicherheitsinformationssysteme nach MIG****
 
 [^chap5-sec1-1]
 
@@ -1041,7 +1044,7 @@ Die im Informationssystem Journal- und Rapportsystem der Militärischen Sicherhe
 
 [^70bis-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### 2. Abschnitt: Elektronisches Alarmierungssystem
+### 2. Abschnitt:**** Elektronisches Alarmierungssystem
 
 [^chap5-sec2-1]
 
@@ -1098,7 +1101,7 @@ Die im e-Alarm erfassten Daten werden längstens aufbewahrt bis:[^70e-1]
 
 [^70e-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### 3. Abschnitt: Flugsicherheitsmeldesystem
+### 3. Abschnitt:**** Flugsicherheitsmeldesystem
 
 [^chap5-sec3-1]
 
@@ -1141,7 +1144,7 @@ Zugang zu den personenbezogenen Daten des HARAM hat ausschliesslich die Abteilun
 
 Personenbezogene Daten werden zehn Jahre nach der Meldung anonymisiert und ohne zeitliche Befristung aufbewahrt.
 
-### 4. Abschnitt: Informationssystem «Führung ab Bern»
+### 4. Abschnitt:**** Informationssystem «Führung ab Bern»
 
 [^chap5-sec4-1]
 
@@ -1204,7 +1207,7 @@ Die Daten des FABIS werden über eine geschlossene Benutzergruppe zugänglich ge
 
 [^70p-1]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### 5. Abschnitt: MIL PLATTFORM
+### 5. Abschnitt:**** MIL PLATTFORM
 
 [^chap5-sec5-1]
 
@@ -1262,7 +1265,7 @@ Die Daten des MIL PLATTFORM werden über eine geschlossene Benutzergruppe zugän
 
 ## 6. Kapitel: Übrige Informationssysteme
 
-### 1. Abschnitt: Übrige Informationssysteme nach MIG
+### 1. Abschnitt: Übrige Informationssysteme nach MIG****
 
 [^chap6-sec1-1]
 
@@ -1319,7 +1322,7 @@ Die im VVAdmin enthaltenen Personendaten sind in Anhang 35<sup>ter</sup> aufgef�
 
 [^72ter-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### 2. Abschnitt: ...
+### 2. Abschnitt: …
 
 #### Art. 72a–72e
 
@@ -1327,7 +1330,7 @@ Die im VVAdmin enthaltenen Personendaten sind in Anhang 35<sup>ter</sup> aufgef�
 
 [^72a72e-1]: Eingefügt durch Ziff. I der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jul 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-### 3. Abschnitt: ...
+### 3. Abschnitt: …
 
 #### Art. 72f–72f
 
@@ -1335,7 +1338,7 @@ Die im VVAdmin enthaltenen Personendaten sind in Anhang 35<sup>ter</sup> aufgef�
 
 [^72f72f-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### 4. Abschnitt: ...
+### 4. Abschnitt: …
 
 #### Art. 72g–72g
 
@@ -1343,7 +1346,7 @@ Die im VVAdmin enthaltenen Personendaten sind in Anhang 35<sup>ter</sup> aufgef�
 
 [^72g72g-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. I der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-### 4*a*. Abschnitt: Informationssystem über das Personal der Armeeapotheke
+### 4*a*. Abschnitt:**** Informationssystem über das Personal der Armeeapotheke
 
 [^chap6-sec4a-1]
 
@@ -1398,7 +1401,7 @@ Die Gruppe Verteidigung gibt zur Erfüllung gesetzlicher oder vertraglicher Aufg
 
 Die Personendaten des PSA werden nach Austritt eines Mitarbeiters oder einer Mitarbeiterin längstens während zehn Jahren aufbewahrt.
 
-### 5. Abschnitt: Hilfsdatensammlungen
+### 5. Abschnitt:**** Hilfsdatensammlungen
 
 [^chap6-sec5-1]
 
@@ -1438,7 +1441,7 @@ Die Daten von Hilfsdatensammlungen können den zuständigen Personen der Gruppe 
 
 Die Daten in Hilfsdatensammlungen dürfen nach Abschluss der Schule, des Kurses oder des Anlasses und nach Auflösung des Lieferanten- und Arbeitsverhältnisses längstens während zwei Jahren aufbewahrt werden.
 
-### 6. Abschnitt: Informationssystem historisches Armeematerial
+### 6. Abschnitt:**** Informationssystem historisches Armeematerial
 
 [^chap6-sec6-1]
 
@@ -1492,7 +1495,7 @@ Die Gruppe Verteidigung beschafft die Personendaten für das ISHAM bei den quali
 
 Personenbezogene Daten werden nach der Rückgabe des historischen Materials an die ZSHAM längstens während zwei Jahren aufbewahrt.
 
-### 7. Abschnitt: Informationssystem über das Personal der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung
+### 7. Abschnitt:**** Informationssystem über das Personal der Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung
 
 [^chap6-sec7-1]
 
@@ -1547,7 +1550,7 @@ Die Verwaltungseinheiten des VBS ausserhalb der Gruppe Verteidigung machen die D
 
 Die Personaldaten der Mitarbeiter und Mitarbeiterinnen werden nach Beendigung des Arbeitsverhältnisses mit einer Verwaltungseinheit ausserhalb der Gruppe Verteidigung längstens während zehn Jahren aufbewahrt.
 
-## 7. Kapitel: ...
+## 7. Kapitel: …
 
 #### Art. 73
 
@@ -1621,7 +1624,7 @@ Die Änderung bisherigen Rechts wird im Anhang 36 geregelt.
 
 <sup>2</sup> Artikel 53 Absatz 1 Buchstabe b gilt längstens bis am 30. Juni 2011.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 2*a*)
 
@@ -1671,19 +1674,19 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. März 2018 angepasst.
 
-Anhang 1a[^t-2]
+Anhang 1a*[^t-2]*
 
 (Art. 4 Abs. 1, 2 und 4)
 
 ## Daten des PISA
 
-[^t-2]: Ursprünglich Anhang 1. Bereinigt gemäss Ziff. II Abs. 1 der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)), vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)), Anhang Ziff. 1 der V vom 17. Dez. 2014 ([AS 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)), Ziff. II Abs. 3 der V vom 10. Juni 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)), Ziff. I der V vom 16. Nov. 2016 ([AS 2016 4333](https://fedlex.data.admin.ch/eli/oc/2016/717)), Ziff. I 1 der V vom 25. Jan. 2017 über die Militärdienstpflicht im Übergang zur Weiterentwicklung der Armee ([AS 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)) und Ziff. II Abs. 1 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) und Ziff. II Abs. 2 der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399))..
+[^t-2]: Ursprünglich Anhang 1. Bereinigt gemäss Ziff. II Abs. 1 der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)), vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)), Anhang Ziff. 1 der V vom 17. Dez. 2014 ([AS 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)), Ziff. II Abs. 3 der V vom 10. Juni 2016 ([AS 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)), Ziff. I der V vom 16. Nov. 2016 ([AS 2016 4333](https://fedlex.data.admin.ch/eli/oc/2016/717)), Ziff. I 1 der V vom 25. Jan. 2017 über die Militärdienstpflicht im Übergang zur Weiterentwicklung der Armee ([AS 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)) und Ziff. II Abs. 1 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) und Ziff. II Abs. 2 der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
 ### 1 Daten der Stellungspflichtigen, der Militärdienstpflichtigen sowie von Zivilpersonen, die von der Truppe betreut oder für einen befristeten Einsatz der Armee beigezogen werden
 
 1.1 Personalien
 
-- 1\. AHV-Versichertennummer
+- 1\. AHV-Nummer
 - 2\. Name
 - 3\. Vorname
 - 4\. Geburtsdatum (mit Anzeige des aktuellen Alters)
@@ -1820,7 +1823,7 @@ Anhang 1a[^t-2]
 1.8 Zusatzdaten (mit Einwilligung der betroffenen Person)
 
 - 98\. Besondere zivile Kenntnisse (wie Sprachen, Spezialausbildung)
-- [tab] 99.–101. ...
+- [tab] 99.–101. …
 - [tab] 101a. Adresse von Angehörigen oder Notfalladresse samt Telefon- und Faxnummern sowie E-Mail-Adresse
 - 102\. Freiwillige Verlängerung der Militärdienstpflicht
 - 103\. Sperrung der Weitergabe von Daten nach Artikel 16 Absatz 4 MIG
@@ -1849,7 +1852,7 @@ Anhang 1a[^t-2]
 
 2.1 Personalien
 
-- 1\. AHV-Versichertennummer\*
+- 1\. AHV-Nummer\*
 - 2\. Name\*
 - 3\. Vorname\*
 - 4\. Geburtsdatum (mit Anzeige des aktuellen Alters)\*
@@ -1917,7 +1920,7 @@ Anhang 1a[^t-2]
 - 54\. Entlassungsdatum und -zeit
 - 55\. Entlassungsort
 - 56\. Dienstverschiebung, Urlaub
-- 57\. Dienstperiode (von ... bis)
+- 57\. Dienstperiode (von … bis)
 - 58\. Mutationen
 - 59\. Diensttage
 - 60\. Diensttage gesamt (aller bisher geleisteten Diensttage, History Dienstleistungen)
@@ -1958,7 +1961,7 @@ Anhang 1a[^t-2]
 
 [^annex1a-lvlu1-lvl2-1]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
 
-Anhang 2[^t-3]
+Anhang 2*[^t-3]*
 
 (Art. 6)
 
@@ -1973,7 +1976,7 @@ Anhang 2[^t-3]
   - a. Name;
   - b. Vorname;
   - c. Adresse;
-  - d. AHV-Versichertennummer.
+  - d. AHV-Nummer.
 
 - 2\.
 
@@ -2076,7 +2079,7 @@ Anhang 2[^t-3]
 - 15\. Pflegedokumente (bei stationärem Aufenthalt).
 - 16\. Sanitätsdienstliche Daten, die vom PPD im Zusammenhang mit der psychologischen Abklärung der Militärdienstfähigkeit erhoben werden.
 
-Anhang 3[^t-4]
+Anhang 3*[^t-4]*
 
 (Art. 8)
 
@@ -2088,7 +2091,7 @@ Personalien:
 
 - 1\. Name.
 - 2\. Vorname.
-- 3\. AHV-Versichertennummer.
+- 3\. AHV-Nummer.
 - 4\. Geburtsdatum.
 - 5\. Muttersprache.
 - 6\. Adresse.
@@ -2218,7 +2221,7 @@ Anhang 5
 - 2\. Vorname
 - 3\. Adresse
 - 4\. Geburtsdatum
-- 5\. AHV-Versichertennummer
+- 5\. AHV-Nummer
 - 6\. Einteilung
 - 7\. Grad
 - 8\. Funktion
@@ -2234,7 +2237,7 @@ Anhang 5
 - 18\. Aktuelle Situation Rekrutenschule
 - 19\. Schulen
 
-Anhang 5a[^t-5]
+Anhang 5a*[^t-5]*
 
 (Art. 10*a*)
 
@@ -2246,7 +2249,7 @@ Anhang 5a[^t-5]
 - 2\. Vorname
 - 3\. Adresse
 - 4\. Geburtsdatum
-- 5\. AHV-Versichertennummer
+- 5\. AHV-Nummer
 - 6\. Einteilung und Grad
 - 7\. Funktion
 - 8\. Ärztlicher Fragebogen
@@ -2259,7 +2262,7 @@ Anhang 5a[^t-5]
 - 15\. Angaben über flugmedizinische und flugpsychologische Massnahmen, die getroffen wurden
 - 16\. Entscheide zur Einteilung sowie zur Flug- und Sprungtauglichkeit
 
-Anhang 6[^t-6]
+Anhang 6*[^t-6]*
 
 (Art. 11)
 
@@ -2270,7 +2273,7 @@ Anhang 6[^t-6]
 - 1\. Name
 - 2\. Vorname
 - 3\. Grad
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. militärische Einteilung
 - 6\. Truppengattung, Dienst oder Dienstzweig
 - 7\. Funktion
@@ -2307,7 +2310,7 @@ Mit Einwilligung der betreffenden Person erhobene Daten:
 
 [^annex6-lvlu1-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
-Anhang 7[^t-7]
+Anhang 7*[^t-7]*
 
 (Art. 12)
 
@@ -2321,7 +2324,7 @@ Anhang 7[^t-7]
 - 4\. E-Mail-Adresse
 - 5\. Telefonnummer
 - 6\. Geburtsdatum
-- 7\. AHV-Versichertennummer
+- 7\. AHV-Nummer
 - 8\. Einteilung
 - 9\. Grad
 - 10\. Funktion
@@ -2352,7 +2355,7 @@ Anhang 7[^t-7]
 - 35\. Ausgestellter Barcheck (Betrag, Ausstelldatum)
 - 36\. Weitere Daten, die von der betreffenden Person freiwillig gemeldet wurden
 
-Anhang 8[^t-8]
+Anhang 8*[^t-8]*
 
 (Art. 13)
 
@@ -2374,7 +2377,7 @@ Anhang 8[^t-8]
 - 12\. Daten über die Organisation der Gruppe Verteidigung und den Stellenplan
 - 13\. Berufliche sowie Aus- und Weiterbildungsinteressen
 
-Anhang 9[^t-9]
+Anhang 9*[^t-9]*
 
 (Art. 14)
 
@@ -2403,13 +2406,13 @@ Anhang 9[^t-9]
 - 19\. Heimatort
 - 20\. Staatsangehörigkeit
 - 21\. Zivilstand
-- 22\. AHV-Versichertennummer
+- 22\. AHV-Nummer
 - 23\. Wohnadresse
 - 24\. Notfalladressen
 
 [^annex9-lvlu1-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
-Anhang 10[^t-10]
+Anhang 10*[^t-10]*
 
 (Art. 16)
 
@@ -2420,7 +2423,7 @@ Anhang 10[^t-10]
 - 1\. Angaben zum Reiseteilnehmer (Grad, Name, Vorname, Adresse, Geburtsdatum, Geburtsort, Heimatort, private Kontaktmöglichkeit)
 - 2\. Notfalladresse/Notfallkontakt
 - 3\. Berufliche Angaben (Funktion, Personalnummer, Organisationseinheit, Dienstort, Telefonnummer, E-Mail-Adresse etc.)
-- 4\. AHV-Versichertennummer/ausländische Sozialversicherungsnummer
+- 4\. AHV-Nummer/ausländische Sozialversicherungsnummer
 - 5\. Angaben von Reisedokumenten (Identitätskarte, Pass)
 - 6\. Angaben für Spesenvergütung
 - 7\. Anlass
@@ -2462,7 +2465,7 @@ Anhang 12
 - 3\. Geburtsdatum
 - 4\. Grad
 - 5\. Adresse
-- 6\. AHV-Versichertennummer
+- 6\. AHV-Nummer
 - 7\. Arbeitsort
 - 8\. Beruf
 - 9\. Sprachkenntnisse
@@ -2484,9 +2487,9 @@ Anhang 13
 - 6\. Pontonierkurs
 - 7\. Entschädigungen
 - 8\. Militärdiensttauglichkeit (ja/nein)
-- 9\. Personalien, Adressen, Telefonnummern und AHV-Versichertennummern der Inspektoren und Inspektorinnen der Leistungsprüfungen
+- 9\. Personalien, Adressen, Telefonnummern und AHV-Nummern der Inspektoren und Inspektorinnen der Leistungsprüfungen
 
-Anhang 13a[^t-11]
+Anhang 13a*[^t-11]*
 
 (Art. 34c)
 
@@ -2499,7 +2502,7 @@ Anhang 13a[^t-11]
 - 3\. Adresse
 - 4\. Muttersprache
 - 5\. Geburtsdatum
-- 6\. AHV-Versichertennummer
+- 6\. AHV-Nummer
 - 7\. PERAUS-Nummer
 - 8\. Einsatzdaten mit Missionsbezeichnungen und -dauer
 - 9\. Einteilung und militärischer Grad im nationalen Einsatz
@@ -2548,11 +2551,11 @@ Anhang 14
 
 [^annex14-lvlu1-1]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 
-Anhang 15[^t-12]
+Anhang 15*[^t-12]*
 
 [^t-12]: Aufgehoben durch Ziff. II Abs. 2 der V vom 26. Juni 2013, mit Wirkung seit 1. Aug. 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
-Anhang 16[^t-13]
+Anhang 16*[^t-13]*
 
 (Art. 37)
 
@@ -2573,7 +2576,7 @@ Anhang 16[^t-13]
 - 11\. Daten zu Absenzen und Kommandierungen
 - 12\. Daten für die Verwaltung und Zuweisung von Armeematerial auf Stufe Einheit
 
-Anhang 17[^t-14]
+Anhang 17*[^t-14]*
 
 (Art. 38 Abs. 1)
 
@@ -2583,7 +2586,7 @@ Anhang 17[^t-14]
 
 - 1\. Vorname und Nachname\*
 - 2\. Personalnummer\*
-- 3\. AHV-Versichertennummer\*
+- 3\. AHV-Nummer\*
 - 4\. Geschlecht\*
 - 5\. Familienstand\*
 - 6\. Geburtsdatum\* und Alter
@@ -2639,11 +2642,11 @@ Mit Einwilligung der betreffenden Person erhobene Daten
 - 53\. digitales Passfoto
 - \* aus IPDM bezogene Daten
 
-Anhang 18[^t-15]
+Anhang 18*[^t-15]*
 
 [^t-15]: Aufgehoben durch Ziff. II Abs. 2 der V vom 26. Juni 2013, mit Wirkung seit 1. Aug. 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
-Anhang 19[^t-16]
+Anhang 19*[^t-16]*
 
 (Art. 40)
 
@@ -2654,7 +2657,7 @@ Anhang 19[^t-16]
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Geburtsdatum
 - 6\. Geschlecht
 - 7\. Religionszugehörigkeit
@@ -2675,7 +2678,7 @@ Anhang 20
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Geschlecht
 - 6\. Einteilung
 - 7\. Grad
@@ -2693,7 +2696,7 @@ Anhang 21
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Geschlecht
 - 6\. Einteilung
 - 7\. Grad
@@ -2703,11 +2706,11 @@ Anhang 21
 - 11\. Leistungsprofile
 - 12\. taktische Einsatzdaten und Bilder
 
-Anhang 21a[^t-17]
+Anhang 21a*[^t-17]*
 
 [^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. II Abs. 5 der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Anhang 22[^t-18]
+Anhang 22*[^t-18]*
 
 [^t-18]: Aufgehoben durch Ziff. II Abs. 2 der V vom 6. Juli 2011, mit Wirkung seit 1. Aug. 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)).
 
@@ -2736,7 +2739,7 @@ Anhang 23
 - 17\. Land
 - 18\. Staat
 - 19\. Benutzerstatus
-- 20\. AHV-Versichertennummer
+- 20\. AHV-Nummer
 - 21\. Ressourcen (Zugriffsberechtigungen auf gemeinsame Datenablagen und Anwendungen)
 - 22\. Öffentliche Zertifikate
 - 23\. Verwalter/in
@@ -2750,7 +2753,9 @@ Anhang 23
 - 31\. Datum letzte Passwortänderung
 - 32\. Passwort
 
-Anhang 23a[^t-19]
+Anhang 23a*[^t-19]*
+
+(Art. 52*b*)
 
 ## Daten des PEGASUS
 
@@ -2777,7 +2782,7 @@ Anhang 23a[^t-19]
 - 19\. Verwaltungseinheit 2. und 3. Stufe
 - 20\. Land
 - 21\. Staat (Kantone etc.)
-- 22\. AHV-Versichertennummer
+- 22\. AHV-Nummer
 - 23\. Ressourcen (Zugriffsberechtigungen auf gemeinsame Datenablagen und Anwendungen)
 - 24\. Öffentliche Zertifikate
 - 25\. Verwalter/in
@@ -2806,12 +2811,12 @@ Anhang 24
 - 2\. Vorname
 - 3\. E-Mail-Adresse
 - 4\. Personalnummer
-- 5\. AHV-Versichertennummer
+- 5\. AHV-Nummer
 - 6\. Adresse
 - 7\. Verwaltungseinheit
 - 8\. Zertifikate
 
-Anhang 24a[^t-20]
+Anhang 24a*[^t-20]*
 
 (Art. 57*b*)
 
@@ -2822,13 +2827,13 @@ Anhang 24a[^t-20]
 - 1\. Name
 - 2\. Vorname
 - 3\. Geschlecht
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Einteilung
 - 6\. Dosimeternummern
 - 7\. Dosimetermeldungen (Dosiswerte, Status des Dosimeters)
 - 8\. Grenz- und Warnschwellen
 
-Anhang 25[^t-21]
+Anhang 25*[^t-21]*
 
 (Art. 58)
 
@@ -2839,7 +2844,7 @@ Anhang 25[^t-21]
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Einteilung
 - 6\. Grad
 - 7\. Funktion
@@ -2849,7 +2854,7 @@ Anhang 25[^t-21]
 - 11\. Daten über die an den Simulatoren absolvierten Ausbildungen und deren Ergebnisse
 - 12\. Bild- und Filmaufnahmen
 
-Anhang 26[^t-22]
+Anhang 26*[^t-22]*
 
 (Art. 59)
 
@@ -2857,7 +2862,7 @@ Anhang 26[^t-22]
 
 [^t-22]: Fassung gemäss Ziff. II Abs. 3 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Bereinigt gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. AHV-Versichertennummer
+- 1\. AHV-Nummer
 - 2\. Personalnummer\*
 - 3\. Name\*
 - 4\. Vorname\*
@@ -2899,7 +2904,7 @@ Anhang 27
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Beruf
 - 6\. Funktion
 - 7\. Einsatzbereich
@@ -2914,14 +2919,14 @@ Anhang 28
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Ausbildung
 - 6\. Beruf
 - 7\. Heimatort
 - 8\. Muttersprache
 - 9\. Fahrberechtigungskategorien
 
-Anhang 28a[^t-23]
+Anhang 28a*[^t-23]*
 
 (Art. 61*a*)
 
@@ -2932,7 +2937,7 @@ Anhang 28a[^t-23]
 - 1\. Personalien, Adresse und Zivilstand
 - 2\. E-Mail-Adresse
 - 3\. Lebenslauf und Angaben über die Sprung- und Flugvorerfahrung
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Staatszugehörigkeit, Geburtsdatum und -ort
 - 6\. Sprachkenntnisse
 - 7\. Einteilung, Grad, Funktion und Ausbildung in der Armee
@@ -2942,7 +2947,7 @@ Anhang 28a[^t-23]
 - 11\. Angaben über die Kleidergrösse
 - 12\. Telefonnummern (privat/Mobiltelefon)
 
-Anhang 29[^t-24]
+Anhang 29*[^t-24]*
 
 (Art. 63)
 
@@ -2954,7 +2959,7 @@ Anhang 29[^t-24]
 - 2\. Beginn der Dienstleistung
 - 3\. Ende der Dienstleistung
 - 4\. Kandidatennummer
-- 5\. AHV-Versichertennummer
+- 5\. AHV-Nummer
 - 6\. Geschlecht
 - 7\. Grad
 - 8\. Name
@@ -2969,15 +2974,15 @@ Anhang 29[^t-24]
 - 17\. Eigenleistung (Einreichdatum, formell erfüllt / formell nicht erfüllt)
 - 18\. Prüfungsergebnisse pro Modul (erbracht / nicht erbracht / nicht teilgenommen)
 
-Anhang 29a[^t-25]
+Anhang 29a*[^t-25]*
 
 [^t-25]: Eingefügt durch Ziff. II Abs. 3 der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Aufgehoben durch Ziff. II Abs. 5 der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Anhang 29b[^t-26]
+Anhang 29b*[^t-26]*
 
 [^t-26]: Eingefügt durch Ziff. II Abs. 3 der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. II Abs. 5 der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Anhang 30[^t-27]
+Anhang 30*[^t-27]*
 
 (Art. 67)
 
@@ -2988,7 +2993,7 @@ Anhang 30[^t-27]
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Nationalität
 - 6\. Heimatort
 - 7\. Arbeitgeber und dessen Adresse
@@ -3008,7 +3013,7 @@ Anhang 30[^t-27]
 
 [^annex30-lvlu1-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
 
-Anhang 31[^t-28]
+Anhang 31*[^t-28]*
 
 (Art. 68)
 
@@ -3021,7 +3026,7 @@ Anhang 31[^t-28]
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Nationalität
 - 6\. Heimatort
 - 7\. Arbeitgeber und dessen Adresse
@@ -3094,7 +3099,7 @@ Anhang 32
 
 - 1\. Name
 - 2\. Vorname
-- 3\. AHV-Versichertennummer
+- 3\. AHV-Nummer
 - 4\. Nationalität
 - 5\. Arbeitgeber und dessen Adresse
 - 6\. Geburtsort
@@ -3103,7 +3108,7 @@ Anhang 32
 - 9\. Passnummer
 - 10\. Entscheid über die Personensicherheitsprüfung
 
-Anhang 33[^t-29]
+Anhang 33*[^t-29]*
 
 (Art. 70)
 
@@ -3116,7 +3121,7 @@ Anhang 33[^t-29]
 - 1\. Name
 - 2\. Vorname
 - 3\. Nationalität
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. ausländische Sozialversicherungsnummer
 - 6\. Geburtsdatum
 - 7\. Datum der Personensicherheitsprüfung
@@ -3172,7 +3177,7 @@ Anhang 33[^t-29]
 
 - 34\. Systemlogdaten (Protokoll aller Begehungen, Mutationen, Zustandsänderungen etc.)
 
-Anhang 33<sup>bis</sup> [^t-30]
+Anhang 33<sup>bis</sup> *[^t-30]*
 
 (Art. 70<sup>bis</sup>)
 
@@ -3183,7 +3188,7 @@ Anhang 33<sup>bis</sup> [^t-30]
 Daten von Personen, die dem Militärstrafrecht unterstehen, sowie von Dritten
 
 - 1\. Name, Vorname
-- 2\. AHV-Versichertennummer
+- 2\. AHV-Nummer
 - 3\. Geburtsdatum und -ort
 - 4\. Heimatort
 - 5\. Nationalität und Aufenthaltsstatus
@@ -3204,7 +3209,7 @@ Zusätzliche Daten von Personen, die dem Militärstrafrecht unterstehen
 - 17\. Einkommens- und Vermögensverhältnisse
 - 18\. Verzeichnis der beschlagnahmten Gegenstände
 
-Anhang 33a[^t-31]
+Anhang 33a*[^t-31]*
 
 (Art. 70*b*)
 
@@ -3216,12 +3221,12 @@ Anhang 33a[^t-31]
 - 2\. Vorname
 - 3\. Funktion in der Krisen- und Alarmorganisation V
 - 4\. Funktion in der Armee samt Alarmierungsgruppe
-- 5\. AHV-Versichertennummer
+- 5\. AHV-Nummer
 - 6\. Telefonnummern
 - 7\. E-Mail-Adressen
 - 8\. Wohnadresse
 
-Anhang 33b[^t-32]
+Anhang 33b*[^t-32]*
 
 (Art. 70*g*)
 
@@ -3238,7 +3243,7 @@ Anhang 33b[^t-32]
 - 7\. Flugzeugtyp und -nummer
 - 8\. Namen, Vornamen und Adressen weiterer involvierter Personen und Organisationen
 
-Anhang 33c[^t-33]
+Anhang 33c*[^t-33]*
 
 (Art. 70*m*)
 
@@ -3246,7 +3251,7 @@ Anhang 33c[^t-33]
 
 [^t-33]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Dez. 2014 ([AS 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Fassung gemäss Ziff. II Abs. 3 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. Name, Vornamen, Initialen, Personalnummer, Arbeitgeber, Geschäftsadresse, Geschäfts-E-Mail, Geschäftstelefonnummer und AHV-Versichertennummer der zugangsberechtigten Person
+- 1\. Name, Vornamen, Initialen, Personalnummer, Arbeitgeber, Geschäftsadresse, Geschäfts-E-Mail, Geschäftstelefonnummer und AHV-Nummer der zugangsberechtigten Person
 - 2\. Prüfstufe, Erteilungs- und Verfalldatum einer der zugangsberechtigten Person erteilten Sicherheitserklärung nach Artikel 22 Absatz 1 Buchstabe a PSPV[^annex33c-lvlu1-1]
 - 3\. über einen Handvenenscanner beim Zugang auf das FABIS erfasste biometrische Daten (Handvenenscan) der Person
 - 4\. Template des Handvenenscans der zum FABIS zugangsberechtigten Person
@@ -3255,7 +3260,7 @@ Anhang 33c[^t-33]
 
 [^annex33c-lvlu1-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
-Anhang 33d[^t-34]
+Anhang 33d*[^t-34]*
 
 (Art. 70*r*)
 
@@ -3263,7 +3268,7 @@ Anhang 33d[^t-34]
 
 [^t-34]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. Jan. 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-- 1\. Name, Vornamen, Initialen, Personalnummer, Arbeitgeber, Geschäftsadresse, Geschäfts-E-Mail, Geschäftstelefonnummer und AHV-Versichertennummer der zugangsberechtigten Person
+- 1\. Name, Vornamen, Initialen, Personalnummer, Arbeitgeber, Geschäftsadresse, Geschäfts-E-Mail, Geschäftstelefonnummer und AHV-Nummer der zugangsberechtigten Person
 - 2\. Prüfstufe, Erteilungs- und Verfalldatum einer der zugangsberechtigten Person erteilten Sicherheitserklärung nach Artikel 22 Absatz 1 Buchstabe a PSPV[^annex33d-lvlu1-1]
 - 3\. über einen Handvenenscanner beim Zugang auf das MIL PLATTFORM erfasste biometrische Daten (Handvenenscan) der Person
 - 4\. Template des Handvenenscans der zum MIL PLATTFORM zugangsberechtigten Person
@@ -3272,7 +3277,7 @@ Anhang 33d[^t-34]
 
 [^annex33d-lvlu1-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
-Anhang 34[^t-35]
+Anhang 34*[^t-35]*
 
 (Art. 71)
 
@@ -3285,7 +3290,7 @@ Anhang 34[^t-35]
 - 1\. Name
 - 2\. Vorname
 - 3\. Adresse
-- 4\. AHV-Versichertennummer
+- 4\. AHV-Nummer
 - 5\. Geburtsdatum
 - 6\. Geschlecht
 - 7\. Telefonnummer
@@ -3319,7 +3324,7 @@ Anhang 35
 - 3\. Vorname
 - 4\. Adresse
 - 5\. Kanton
-- 6\. AHV-Versichertennummer
+- 6\. AHV-Nummer
 - 7\. Geburtsdatum
 - 8\. Heimatort
 - 9\. Heimatkanton
@@ -3338,7 +3343,7 @@ Anhang 35
 - 22\. letztes Einrückungsdatum
 - 23\. Daten nach den Anhängen 1–32, ausschliesslich während des Datenaustauschs nach Artikel 175 Buchstabe c MIG
 
-Anhang 35<sup>bis</sup> [^t-36]
+Anhang 35<sup>bis</sup> *[^t-36]*
 
 (Art. 72<sup>bis</sup> Abs. 1)
 
@@ -3355,7 +3360,7 @@ Anhang 35<sup>bis</sup> [^t-36]
 
 2 Stammdaten
 
-- 2\.1 AHV-Versichertennummer
+- 2\.1 AHV-Nummer
 - 2\.2 Geburtsdatum
 - 2\.3 Geschlecht
 - 2\.4 Muttersprache
@@ -3569,7 +3574,7 @@ Anhang 35<sup>bis</sup> [^t-36]
 - 27\.4 Leihgaben
 - 27\.5 Weitere relevante betriebliche Daten
 
-Anhang 35<sup>ter</sup> [^t-37]
+Anhang 35<sup>ter</sup> *[^t-37]*
 
 (Art. 72<sup>ter</sup>)
 
@@ -3579,7 +3584,7 @@ Anhang 35<sup>ter</sup> [^t-37]
 
 - 1\. Name, Vorname
 - 2\. Geschlecht
-- 3\. AHV-Versichertennummer
+- 3\. AHV-Nummer
 - 4\. Geburtsdatum
 - 5\. Adresse
 - 6\. Beruf
@@ -3592,17 +3597,17 @@ Anhang 35<sup>ter</sup> [^t-37]
 - 13\. Codierte Dienstbemerkung für medizinische Untauglichkeit oder Schiessuntauglichkeit (R-Flag)
 - 14\. Mutationscode (Neuzugang/Löschung/Mutation)
 
-Anhang 35a[^t-38]
+Anhang 35a*[^t-38]*
 
 - [tab]
 
 [^t-38]: Eingefügt durch Ziff. II Abs. 3 der V vom 6. Juli 2011 ([AS 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Aufgehoben durch Ziff. II Abs. 3 der V vom 20. Mai 2020, mit Wirkung seit 1. Jul 2020 ([AS 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)).
 
-Anhang 35b und 35c[^t-39]
+Anhang 35b und 35c*[^t-39]*
 
 [^t-39]: Eingefügt durch Ziff. II Abs. 3 der V vom 26. Juni 2013 ([AS 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Aufgehoben durch Ziff. II Abs. 5 der V vom 10. Jan. 2018, mit Wirkung seit 1. März 2018 ([AS 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Anhang 35c<sup>bis</sup> [^t-40]
+Anhang 35c<sup>bis</sup> *[^t-40]*
 
 (Art. 72*g*<sup>octies</sup>)
 
@@ -3672,7 +3677,7 @@ Daten der Mitarbeiter und Mitarbeiterinnen
 - 9\.1 Von der betreffenden Person freiwillig gemeldete Daten
 - \* aus IPDM bezogene Daten
 
-Anhang 35d[^t-41]
+Anhang 35d*[^t-41]*
 
 (Art. 72*h*<sup>bis</sup>)
 
@@ -3684,7 +3689,7 @@ Anhang 35d[^t-41]
 - 2\. Vorname
 - 3\. Geschlecht
 - 4\. Geburtsdatum
-- 5\. AHV-Versichertennummer
+- 5\. AHV-Nummer
 - 6\. Personalnummer
 - 7\. Muttersprache
 - 8\. Nationalität
@@ -3704,7 +3709,7 @@ Anhang 35d[^t-41]
 - 22\. Inventar, Bestellungen, Reservationen, Ausleihen
 - 23\. Ressourcenbeschreibung (Fahrzeuge, Materialien, Räume, Geräte)
 
-Anhang 35e[^t-42]
+Anhang 35e*[^t-42]*
 
 (Art. 72*i*<sup>bis</sup>)
 
@@ -3734,7 +3739,7 @@ Anhang 35e[^t-42]
 - 15\. Verzeichnis der Leihgaben und Schenkungen
 - 16\. Verpflichtungen, Auflagen und Bewilligungen
 
-Anhang 35f[^t-43]
+Anhang 35f*[^t-43]*
 
 (Art. 72*j*<sup>ter</sup>)
 
@@ -3773,6 +3778,6 @@ Anhang 36
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex36-lvlu1-1]
+…[^annex36-lvlu1-1]
 
 [^annex36-lvlu1-1]: Die Änderungen können unter [AS 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)konsultiert werden.
