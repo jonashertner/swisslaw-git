@@ -1,22 +1,21 @@
 ---
 canton: BL
 number: "681.13"
-title: "Verordnung über die Höhe der Beiträge des Kantons an Institutio­nen, Einrichtun­gen und Veranstaltungen der Berufsbil­dung"
+title: "Verordnung über die Höhe der Beiträge des Kantons an Institutionen, Einrichtungen und Veranstaltungen der Berufsbildung"
 language: de
-version: 1989-01-01
-valid_until: 2021-12-31
-version_adopted: 1989-01-10
+version: 2022-01-01
+version_adopted: 2021-12-14
 adopted: 1989-01-10
 in_force: 1989-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.13"
-pdf: "https://bl.clex.ch/api/de/versions/21/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3193/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Höhe der Beiträge des Kantons an Institutionen, Einrichtungen und Veranstaltungen der Berufsbildung
 
-Vom 10.01.1989 (Stand 01.01.1989)
+Vom 10.01.1989 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 29 Absatz 1 der Verordnung vom 10. Juni 1985[^ingress-1] zum Gesetz über die Berufsbildung, beschliesst:
 
@@ -32,7 +31,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 29 Absatz 1 der
 
 <sup>3</sup> Der Beitrag wird berechnet nach dem Verhältnis der im Kantonsgebiet arbeitenden Kursteilnehmer.
 
-<sup>4</sup> Das Amt für Berufsbildung kann Ausnahmen vorsehen, wenn abweichende Regelungen anderer Kantone Kursteilnehmer mit Wohnsitz im Kanton Basel-Landschaft benachteiligen.
+<sup>4</sup> Die Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen kann Ausnahmen vorsehen, wenn abweichende Regelungen anderer Kantone Kursteilnehmer mit Wohnsitz im Kanton Basel-Landschaft benachteiligen.
 
 #### § 2
 
@@ -46,15 +45,15 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 29 Absatz 1 der
 
 **Beitragsgesuche und Auszahlung**
 
-<sup>1</sup> Gesuche um Beiträge sind in doppelter Ausführung dem Amt für Berufsbildung mit detailliertem Kostenvoranschlag und auführlichem Kursprogramm unter Angabe von Ort, Dauer, Kursleitung und Lehrkräften sowie der Zahl und Herkunft der Teilnehmer (Wohnort und Arbeitsort) einzureichen.
+<sup>1</sup> Gesuche um Beiträge sind in doppelter Ausführung der Hauptabteilung Berufsbildung der Dienststelle BMH mit detailliertem Kostenvoranschlag und ausführlichem Kursprogramm unter Angabe von Ort, Dauer, Kursleitung und Lehrkräften sowie der Zahl und Herkunft der Teilnehmer (Wohnort und Arbeitsort) einzureichen.
 
-<sup>2</sup> Die Auszahlung der Beiträge erfolgt nach Genehmigung der Abrechnungen durch das Amt für Berufsbildung.
+<sup>2</sup> Die Auszahlung der Beiträge erfolgt nach Genehmigung der Abrechnungen durch die Hauptabteilung Berufsbildung der Dienststelle BMH.
 
 #### § 4
 
 **Vorbehalte**
 
-<sup>1</sup> Das Amt für Berufsbildung kann Beiträge kürzen, verweigern oder zurückfordern, wenn der Anspruchsberechtigte Vorschriften über die Berufsbildung oder Weisungen des Amtes missachtet.
+<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH kann Beiträge kürzen, verweigern oder zurückfordern, wenn die anspruchsberechtigte Person Vorschriften über die Berufsbildung oder Weisungen der Hauptabteilung missachtet.
 
 #### § 5
 
