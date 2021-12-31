@@ -4,10 +4,10 @@ number: "855.12"
 title: Verordnung über die Ausbildungspflicht in der Langzeitpflege (ALV)
 short: ALV
 language: de
-nachtrag: "104"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2018-12-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-855_12-2018_12_04-2019_01_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-855_12-2018_12_04-2019_01_01-115.html"
 text: pdf
 ---
 
@@ -59,7 +59,7 @@ In dieser Verordnung bedeuten:
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 22 - 115
 
 - c. Ausbildungsleistung einer Institution: Zahl der Personen, die bei einer Institution in Ausbildung stehen.
 
@@ -95,7 +95,7 @@ Soll-Wert Ausbildungsleistung (Beruf A, Institution Z)
 
 <sup>5</sup> Die Institutionen teilen der Gesundheitsdirektion jährlich ihre im Vorjahr erbrachten Ausbildungsleistungen mit.
 
-[^5-1]: SR 832.112.31. 1. 4. 19 - 104 5
+[^5-1]: SR 832.112.31.
 
 #### § 6
 
@@ -155,7 +155,7 @@ Die Institutionen sind verpflichtet, jährlich mindestens folgende Grenzwerte de
 
 **3**
 
-- 1\. 4. 19 - 104 § 8. <sup>1</sup> Institutionen, die mehr Ausbildungsleistungen erbringen, als es dem Grenzwert entspricht, erhalten für jeden über dem Grenzwert liegenden Ausbildungsplatz eine Gutschrift.
+- 1\. 1. 22 - 115 § 8. <sup>1</sup> Institutionen, die mehr Ausbildungsleistungen erbringen, als es dem Grenzwert entspricht, erhalten für jeden über dem Grenzwert liegenden Ausbildungsplatz eine Gutschrift.
 
 **c. Gutschrift**
 
@@ -193,10 +193,8 @@ Total zusätzliche Ausbildungsplätze (Beruf A, alle Institutionen)
 
 <sup>2</sup> Die Institutionen können bei der Durchführungsstelle Einsprache erheben.
 
-<sup>3</sup> Können sich die Durchführungsstelle und eine Institution nicht einigen, legt die Abteilung Gesundheitsberufe und Bewilligungen der Gesundheitsdirektion die Ausgleichszahlung in einer Verfügung fest.
-
-#### § 12
-
 **Übergangsbestimmung**
 
-Für die Berechnung des Soll-Wertes für die Jahre 2019–2021 wird auf die Daten von 2016 abgestellt.
+<sup>3</sup> Können sich die Durchführungsstelle und eine Institution nicht einigen, legt das Amt für Gesundheit die Ausgleichszahlung in einer Verfügung fest.[^11-1] § 12. Für die Berechnung des Soll-Wertes für die Jahre 2019–2021 wird auf die Daten von 2016 abgestellt.
+
+[^11-1]: Fassung gemäss RRB vom 8. September 2021 (OS 76, 455; ABl 2021-09-24). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 5
