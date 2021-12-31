@@ -4,11 +4,11 @@ title: Verordnung vom 16. Juni 2006 über Gebühren des Bundesamtes für Landwir
 short: GebV-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-415-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-415-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20210101/de"
 
 (GebV-BLW)
 
-vom 16. Juni 2006 (Stand am 1. Januar 2021)
+vom 16. Juni 2006 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -33,13 +33,13 @@ verordnet:
 
 **Geltungsbereich**[^1-1]
 
-<sup>1</sup> Diese Verordnung regelt die Erhebung von Gebühren durch das Bundesamt für Landwirtschaft (BLW) einschliesslich seiner Forschungsanstalt Agroscope für Dienstleistungen und Verfügungen im Bereich des Landwirtschaftsgesetzes vom 29. April 1998 und dessen Ausführungserlassen sowie für statistische Dienstleistungen nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^1-2], die das BLW erbringt.[^1-3]
+<sup>1</sup> Diese Verordnung regelt die Erhebung von Gebühren durch das Bundesamt für Landwirtschaft (BLW), einschliesslich seiner Forschungsanstalt Agroscope und seines Gestüts, für Dienstleistungen und Verfügungen im Bereich des Landwirtschaftsgesetzes vom 29. April 1998 und dessen Ausführungserlassen sowie für statistische Dienstleistungen nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^1-2], die das BLW erbringt.[^1-3]
 
 <sup>2</sup> Sie regelt zudem die Erhebung von Gebühren durch Vollzugsorgane, denen vom BLW Vollzugsaufgaben übertragen wurden.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
 [^1-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^1-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
+[^1-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 2
 
@@ -54,18 +54,9 @@ verordnet:
 
 #### Art. 3
 
-**Ausnahmen vom Geltungsbereich**
+[^3-1]
 
-<sup>1</sup> Für die Erhebung von Gebühren für Einfuhren landwirtschaftlicher Erzeugnisse gilt Artikel 50 der Agrareinfuhrverordnung vom 26. Oktober 2011[^3-1].[^3-2]
-
-<sup>2</sup> ...[^3-3]
-
-<sup>3</sup> ...[^3-4]
-
-[^3-1]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^3-2]: Fassung gemäss Ziff. III der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)).
-[^3-3]: Aufgehoben durch Art. 61 Ziff. 2 der Pflanzenschutzverordnung vom 27. Okt. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882), [2011 1197](https://fedlex.data.admin.ch/eli/oc/2011/174)).
-[^3-4]: Aufgehoben durch Ziff. I der V vom 12. Mai 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
+[^3-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 3a
 
@@ -119,7 +110,7 @@ Die Gebühren nach Anhang 2 sind im Voraus zu entrichten.
 
 Die Verordnung vom 18. Oktober 2000[^6-1] über Gebühren des Bundesamtes für Landwirtschaft wird aufgehoben.
 
-[^6-1]: [[AS 2000 2698](https://fedlex.data.admin.ch/eli/oc/2000/446),[2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)Art. 51 Ziff. 5,[2003 152](https://fedlex.data.admin.ch/eli/oc/2003/17)Ziff. II [5319](https://fedlex.data.admin.ch/eli/oc/2003/776), [2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)Art. 69 Ziff. 1]
+[^6-1]: [[AS 2000 2698](https://fedlex.data.admin.ch/eli/oc/2000/446); [2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)Art. 51 Ziff. 5;[2003 152](https://fedlex.data.admin.ch/eli/oc/2003/17)Ziff. II, [5319](https://fedlex.data.admin.ch/eli/oc/2003/776); [2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)Art. 69 Ziff. 1]
 
 #### Art. 7
 
@@ -133,7 +124,7 @@ Anhang 1*[^t-1]*
 
 ## Gebühren für Dienstleistungen und Verfügungen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Bereinigt gemäss Anhang der V vom 31. Okt. 2018 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), Ziff. I 2 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)) und Anhang der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Bereinigt gemäss Anhang der V vom 31. Okt. 2018 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), Ziff. I 2 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Anhang der V vom 11. Nov. 2020 ([AS 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), Ziff. II der V vom 3. Nov. 2021 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)) und Anhang Ziff. 3 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 <table>
 <tr><th></th><th></th><th>Franken</th></tr>
@@ -152,7 +143,6 @@ Anhang 1*[^t-1]*
 <tr><td>[tab]</td><td>a. Sorbinsäure und Natamycin (HPLC-MS)</td><td>150</td></tr>
 <tr><td>[tab]</td><td>b. Asche gesamt (Gravimetrie)</td><td>80</td></tr>
 <tr><td>[tab]</td><td>c. Eisen und Kupfer (Photometrie)</td><td>50</td></tr>
-<tr><td>[tab]</td><td>[tab]</td><td></td></tr>
 <tr><td>[tab]</td><td>d. Hefen und Milchsäurebakterien (mikrobiologische Bestimmung)</td><td>80</td></tr>
 <tr><td>[tab]</td><td>e. Methanol (GC)</td><td>80</td></tr>
 <tr><td>[tab]</td><td>f. Chlorid und Sulfat (Photometrie)</td><td>50</td></tr>
@@ -174,29 +164,21 @@ Anhang 1*[^t-1]*
 <tr><td>5.2</td><td>Offizielle Feldbesichtigung, pro Stunde (Art. 23 Abs. 4)</td><td>30</td></tr>
 <tr><td>5.3</td><td>Nachkontrollanbau von Vorstufen- und Basissaatgutposten, pro Probe (Art. 24 Abs. 3)</td><td>40</td></tr>
 <tr><td>5.4</td><td>Prüfung und Genehmigung einer Sortenbezeichnung (Art. 16*a*)</td><td>100</td></tr>
-<tr><td>6</td><td>Pflanzenschutzmittelverordnung vom 12. Mai 2010**[^annex1-lvlu1-6]**</td><td></td></tr>
-<tr><td>6.1</td><td>Behandlung eines Gesuchs um Bewilligung eines Pflanzenschutzmittels, für das Unterlagen nach den Anhängen 5 und 6 eingereicht werden müssen (Art. 21 Abs. 1–5)</td><td>2500</td></tr>
-<tr><td>6.2</td><td>Behandlung eines Gesuchs um Bewilligung eines Pflanzenschutzmittels, für das sämtliche Unterlagen nach Anhang 6 eingereicht werden müssen (Art. 21 Abs. 1–4)</td><td>1400</td></tr>
-<tr><td>6.3</td><td>Behandlung eines Gesuchs um Bewilligung eines Pflanzenschutzmittels, für das nur ein Teil der Unterlagen nach Anhang 6 eingereicht werden muss (Art. 21 Abs. 7)</td><td>400–1000</td></tr>
-<tr><td>6.4</td><td>Erteilung einer Bewilligung unter Verwendung von Daten einer früheren Gesuchstellerin für ein identisches Pflanzenschutzmittel mit Zustimmung der früheren Gesuchstellerin (Art. 22)</td><td>400</td></tr>
-<tr><td>6.5</td><td>Versuche im Rahmen der Prüfung eines Gesuchs (Art. 24 Abs. 3) und Kontrollanalysen (Art. 80 Abs. 1):</td><td></td></tr>
-<tr><td>[tab]</td><td>a. chemische und physikalisch-chemische Analysen</td><td>30–500</td></tr>
-<tr><td>[tab]</td><td>b. biologische Analysen</td><td>1900–11 000</td></tr>
-<tr><td>6.6</td><td>Ausstellung eines Exportzertifikats (Art. 20)</td><td>60</td></tr>
-<tr><td>6.7</td><td>Erteilung einer Verkaufserlaubnis (Art. 43)</td><td>200</td></tr>
-<tr><td>7</td><td>Dünger-Verordnung vom 10. Januar 2001**[^annex1-lvlu1-7]**</td><td></td></tr>
+<tr><td>6</td><td>…</td><td></td></tr>
+<tr><td>7</td><td>Dünger-Verordnung vom 10. Januar 2001**[^annex1-lvlu1-6]**</td><td></td></tr>
 <tr><td>7.1</td><td>Behandlung eines Antrags um Aufnahme eines Düngertyps in die Düngerliste (Art. 7)</td><td>200</td></tr>
 <tr><td>7.2</td><td>Behandlung eines Gesuchs für die Bewilligung eines Düngers (Art. 10)</td><td>200</td></tr>
 <tr><td>7.3</td><td>Behandlung der Anmeldung eines Düngers (Art. 19)</td><td>100</td></tr>
 <tr><td>7.4</td><td>Kontrollanalysen (Art. 29):</td><td></td></tr>
 <tr><td></td><td>Kompostanalyse TS, OS, Leitfähigkeit, N, P, K, Ca, Mg, Cd, Cr, Cu, Hg, Ni, Pb, Zn</td><td>570</td></tr>
-<tr><td>8</td><td>Futtermittel-Verordnung vom 26. Oktober 2011**[^annex1-lvlu1-8]**</td><td></td></tr>
+<tr><td>8</td><td>Futtermittel-Verordnung vom 26. Oktober 2011**[^annex1-lvlu1-7]**</td><td></td></tr>
 <tr><td>8.1</td><td>Behandlung eines Gesuchs um Aufnahme in die Liste der zugelassenen Futtermittelzusatzstoffe (Art. 20)</td><td>100</td></tr>
 <tr><td>8.2</td><td>Behandlung eines Gesuchs für die Bewilligung eines Futtermittelzusatzstoffs (Art. 22)</td><td>1400</td></tr>
 <tr><td>8.3</td><td>Behandlung eines Gesuchs um Aufnahme in die GVO-Futtermittelliste (Art. 62)</td><td>1400</td></tr>
 <tr><td>8.4</td><td>Futtermittelkontrolle (Art. 70), sofern das Produkt in Ordnung ist; andernfalls wird die Gebühr nach Artikel 4 Absatz 2 berechnet</td><td>70</td></tr>
-<tr><td>9</td><td>...</td><td></td></tr>
-<tr><td>10</td><td>Verordnung vom 23. Oktober 2013**[^annex1-lvlu1-9]** über Informationssysteme im Bereich der Landwirtschaft</td><td></td></tr>
+<tr><th>8.5</th><th>Behandlung eines Gesuchs um Erneuerung (Art. 31) oder Erweiterung einer Zulassung (Art. 22) für Futtermittelzusatzstoffe</th><th>400</th></tr>
+<tr><td>9</td><td>…</td><td></td></tr>
+<tr><td>10</td><td>Verordnung vom 23. Oktober 2013**[^annex1-lvlu1-8]** über Informationssysteme im Bereich der Landwirtschaft</td><td></td></tr>
 <tr><td>10.1</td><td>Anschluss eines externen Informationssystems an das IAM‑System des Internetportals Agate (Art. 20*a* Abs. 4):</td><td></td></tr>
 <tr><td></td><td>a. einmalige Pauschale für Arbeiten im Zusammenhang mit dem Anschluss</td><td>1300–3300</td></tr>
 <tr><td></td><td>b. jährliche Pauschale zur Deckung von Lizenz- und Supportkosten</td><td>500–2000</td></tr>
@@ -211,13 +193,12 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 [^annex1-lvlu1-2]: [SR 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
-[^annex1-lvlu1-3]: [[AS 1999 609](https://fedlex.data.admin.ch/eli/oc/1999/89), [2002 1381](https://fedlex.data.admin.ch/eli/oc/2002/213). [AS 2019 669](https://fedlex.data.admin.ch/eli/oc/2019/115)Art. 6] Siehe heute: die V des BLW vom 1. Februar 2019 ([SR 916.145.211](https://fedlex.data.admin.ch/eli/cc/2019/115))
+[^annex1-lvlu1-3]: [[AS 1999 609](https://fedlex.data.admin.ch/eli/oc/1999/89); [2002 1381](https://fedlex.data.admin.ch/eli/oc/2002/213). [AS 2019 669](https://fedlex.data.admin.ch/eli/oc/2019/115)Art. 6] Siehe heute: die V des BLW vom 1. Februar 2019 ([SR 916.145.211](https://fedlex.data.admin.ch/eli/cc/2019/115)).
 [^annex1-lvlu1-4]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^annex1-lvlu1-5]: [SR 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
-[^annex1-lvlu1-6]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^annex1-lvlu1-7]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annex1-lvlu1-8]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1-lvlu1-9]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-6]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex1-lvlu1-7]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^annex1-lvlu1-8]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 Anhang 2*[^t-2]*
 

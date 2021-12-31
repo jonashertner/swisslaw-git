@@ -4,11 +4,11 @@ title: "Ordonnance du 16 juin 2006 relative aux émoluments perçus par l'Office
 short: OEmol-OFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-415-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-415-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20210101/fr"
 
 (OEmol-OFAG)
 
-du 16 juin 2006 (Etat le 1<sup>er</sup> janvier 2021)
+du 16 juin 2006 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -33,13 +33,13 @@ arrête:
 
 **Champ d’application**[^1-1]
 
-<sup>1</sup> La présente ordonnance régit les émoluments perçus par l’Office fédéral de l’agriculture (OFAG), y compris sa station fédérale de recherches agronomiques Agroscope pour les prestations fournies et les décisions rendues en vertu de la loi du 29 avril 1998 sur l’agriculture et de ses dispositions d’exécution, et pour les prestations statistiques visées par la loi du 9 octobre 1992 sur la statistique fédérale[^1-2].[^1-3]
+<sup>1</sup> La présente ordonnance régit les émoluments perçus par l’Office fédéral de l’agriculture (OFAG), y compris sa station fédérale de recherches agronomiques Agroscope et son Haras, pour les prestations fournies et les décisions rendues en vertu de la loi du 29 avril 1998 sur l’agriculture et de ses dispositions d’exécution, et pour les prestations statistiques visées par la loi du 9 octobre 1992 sur la statistique fédérale[^1-2].[^1-3]
 
 <sup>2</sup> Au surplus, elle régit les émoluments perçus par les organes d’exécution auxquels l’OFAG a confié des tâches d’exécution.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
 [^1-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 2
 
@@ -54,18 +54,9 @@ arrête:
 
 #### Art. 3
 
-**Dérogations au champ d’application**
+[^3-1]
 
-<sup>1</sup> L’art. 50 de l’ordonnance du 26 octobre 2011 sur les importations agricoles[^3-1] s’applique au prélèvement d’émoluments pour les importations de produits agricoles.[^3-2]
-
-<sup>2</sup> ...[^3-3]
-
-<sup>3</sup> ...[^3-4]
-
-[^3-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^3-2]: Nouvelle teneur selon le ch. III de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)).
-[^3-3]: Abrogé par l’art. 61 ch. 2 de l’O du 27 oct. 2010 sur la protection des végétaux, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882), [2011 1197](https://fedlex.data.admin.ch/eli/oc/2011/174)).
-[^3-4]: Abrogé par le ch. I de l’O du 12 mai 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
+[^3-1]: Abrogé par le ch. I de l’O du 3 nov. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 3a
 
@@ -169,29 +160,21 @@ Annexe 1*[^t-1]*
 <tr><td>5.2 Visite officielle des parcelles, par heure (art. 23, al. 4)</td><td>30</td></tr>
 <tr><td>5.3 Contrôle cultural des lots de semences de pré-base et des lots de semences de base, par échantillon (art. 24, al. 3)</td><td>40</td></tr>
 <tr><td>5.4 Examen et approbation d’une dénomination variétale (art. 16*a*)</td><td>100</td></tr>
-<tr><td>6 Ordonnance du 12 mai 2010 sur les produits phytosanitaires**[^t-7]**</td><td></td></tr>
-<tr><td>6.1 Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle les documents visés aux annexes 5 et 6 doivent être produits (art. 21, al. 1 à 5)</td><td>2500</td></tr>
-<tr><td>6.2 Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle tous les documents visés à l’annexe 6 doivent être produits (art. 21, al. 1 à 4)</td><td>1400</td></tr>
-<tr><td>6.3 Traitement d’une demande d’autorisation d’un produit phytosanitaire pour laquelle seulement une partie des documents visés à l’annexe 6 doit être produite (art. 21, al. 7)</td><td>400–1000</td></tr>
-<tr><td>6.4 Octroi d’une autorisation pour laquelle des informations concernant un produit phytosanitaire identique, provenant d’un précédent requérant, ont été utilisées avec son consentement (art. 22)</td><td>400</td></tr>
-<tr><td>6.5 Essais dans le cadre de l’examen d’une demande (art. 24, al. 3) et analyses de contrôle (art. 80, al. 1):</td><td></td></tr>
-<tr><td>a. analyses chimiques et physico-chimiques</td><td>30–500</td></tr>
-<tr><td>b. analyses biologiques</td><td>1900–11 000</td></tr>
-<tr><td>6.6 Établissement d’un certificat d’exportation (art. 20)</td><td>60</td></tr>
-<tr><td>6.7 Établissement d’une permission de vente (art. 43)</td><td>200</td></tr>
-<tr><td>7 Ordonnance du 10 janvier 2001 sur les engrais**[^t-8]**</td><td></td></tr>
+<tr><td>6 …</td><td></td></tr>
+<tr><td>7 Ordonnance du 10 janvier 2001 sur les engrais**[^t-7]**</td><td></td></tr>
 <tr><td>7.1 Traitement d’une demande d’inscription d’un type d’engrais dans la liste des engrais (art. 7)</td><td>200</td></tr>
 <tr><td>7.2 Traitement d’une demande d’autorisation d’un engrais (art. 10)</td><td>200</td></tr>
 <tr><td>7.3 Traitement d’une annonce d’engrais (art. 19)</td><td>100</td></tr>
 <tr><td>7.4 Analyses de contrôle (art. 29):</td><td></td></tr>
 <tr><td>Analyse de compost MS, MO, conductibilité, N, P, K, Ca, Mg, Cd, Cr, Cu, Hg, Ni, Pb, Zn</td><td>570</td></tr>
-<tr><td>8 Ordonnance du 26 octobre 2011 sur la production et la mise dans le commerce des aliments pour animaux**[^t-9]**</td><td></td></tr>
+<tr><td>8 Ordonnance du 26 octobre 2011 sur les aliments pour animaux**[^t-8]**</td><td></td></tr>
 <tr><td>8.1 Traitement d’une demande d’inscription dans la liste des additifs homologués (art. 20)</td><td>100</td></tr>
 <tr><td>8.2 Traitement d’une demande d’autorisation pour un additif utilisé dans les aliments pour animaux (art. 22)</td><td>1400</td></tr>
 <tr><td>8.3 Traitement d’une demande d’inscription dans la liste des aliments OGM pour animaux (art. 62)</td><td>1400</td></tr>
 <tr><td>8.4 Contrôle d’un aliment pour animaux (art. 70) si le produit est conforme; sinon, l’émolument est calculé selon l’art. 4, al. 2</td><td>70</td></tr>
+<tr><td>8.5 Traitement d’une demande de renouvellement (art. 31) ou d’extension d’une autorisation (art. 22) pour un additif utilisé dans les aliments pour animaux</td><td>400</td></tr>
 <tr><td>9 ...</td><td></td></tr>
-<tr><td>10 Ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture**[^t-10]**</td><td></td></tr>
+<tr><td>10 Ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture**[^t-9]**</td><td></td></tr>
 <tr><td>10.1 Raccordement d’un système d’information externe au système IAM du portail Internet Agate (art. 20*a*, al. 4):</td><td></td></tr>
 <tr><td>a. montant forfaitaire unique pour le travail lié au raccordement</td><td>1300–3300</td></tr>
 <tr><td>b. montant forfaitaire annuel pour la couverture des frais de licence et d’assistance technique</td><td>500–2000</td></tr>
@@ -204,24 +187,23 @@ Annexe 1*[^t-1]*
 <tr><td>c. montant forfaitaire annuel pour la couverture des frais liés à la préparation périodique des données, en fonction du nombre de personnes qui ont donné leur accord pour la consultation des données</td><td>600–3200</td></tr>
 </table>
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 oct. 2015 ([RO 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Mise à jour selon l’annexe de l’O du 31 oct. 2018 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), le ch. I 2 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)) et l’annexe de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 oct. 2015 ([RO 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Mise à jour par l’annexe de l’O du 31 oct. 2018 ([RO 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), le ch. I 2 de l’O du 1<sup>er</sup> mai 2019 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), l’annexe de l’O du 11 nov. 2020 ([RO 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), le ch. II de l’O du 3 nov. 2021 ([RO 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)) et l’annexe ch. 3 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^t-2]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 [^t-3]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
 [^t-4]: [[RO 1999 609](https://fedlex.data.admin.ch/eli/oc/1999/89), [2002 1381](https://fedlex.data.admin.ch/eli/oc/2002/213). [RO 2019 669](https://fedlex.data.admin.ch/eli/oc/2019/115)art. 6]. Voir actuellement l’O de l’OFAG du 1<sup>er</sup> fév. 2019 ([RS 916.145.211](https://fedlex.data.admin.ch/eli/cc/2019/115)).
 [^t-5]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^t-6]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
-[^t-7]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^t-8]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^t-9]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^t-10]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^t-7]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^t-8]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^t-9]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
-Annexe 2*[^t-11]*
+Annexe 2*[^t-10]*
 
 (art. 4, al. 1, et art. 5*a*)
 
 ## Émoluments pour l’acquisition de données laitières et d’évaluations
 
-[^t-11]: Introduite par le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Mise à jour selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
+[^t-10]: Introduite par le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Mise à jour par le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
 
 <table>
 <tr><th></th><th>Francs y compris la TVA</th></tr>
@@ -244,7 +226,7 @@ Annexe 2*[^t-11]*
 
 [^annex2-lvlu1-1]: [RS 919.117.72](https://fedlex.data.admin.ch/eli/cc/2002/703)
 
-Annexe 3*[^t-12]*
+Annexe 3*[^t-11]*
 
 (art. 4, al. 1<sup>bis</sup>)
 
@@ -252,7 +234,7 @@ Annexe 3*[^t-12]*
 
 [^annex3-lvlu1-1]
 
-[^t-12]: Introduite par le ch. I 2 de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
+[^t-11]: Introduite par le ch. I 2 de l’O du 1<sup>er</sup> mai 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
 [^annex3-lvlu1-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 <table>

@@ -3,11 +3,11 @@ sr: "910.11"
 title: "Ordinanza del 16 giugno 2006 concernente le tasse dell'Ufficio federale dell'agricoltura (Ordinanza sulle tasse UFAG)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2006-415-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-415-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20210101/it"
 
 (Ordinanza sulle tasse UFAG)
 
-del 16 giugno 2006 (Stato 1° gennaio 2021)
+del 16 giugno 2006 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -32,13 +32,13 @@ ordina:
 
 **Campo d’applicazione**[^1-1]
 
-<sup>1</sup> La presente ordinanza disciplina la riscossione delle tasse da parte dell’Ufficio federale dell’agricoltura (UFAG), compresa la sua stazione federale di ricerca Agroscope, per prestazioni e decisioni nell’ambito della legge del 29 aprile 1998 sull’agricoltura e delle relative disposizioni d’esecuzione, nonché per prestazioni di carattere statistico fornite dall’UFAG conformemente alla legge del 9 ottobre 1992[^1-2] sulla statistica federale.[^1-3]
+<sup>1</sup> La presente ordinanza disciplina la riscossione delle tasse da parte dell’Ufficio federale dell’agricoltura (UFAG), compresi la sua stazione federale di ricerca Agroscope e il suo Istituto di allevamento equino, per prestazioni e decisioni nell’ambito della legge del 29 aprile 1998 sull’agricoltura e delle relative disposizioni d’esecuzione, nonché per prestazioni di carattere statistico fornite dall’UFAG conformemente alla legge del 9 ottobre 1992[^1-2] sulla statistica federale.[^1-3]
 
 <sup>2</sup> Essa disciplina altresì la riscossione di tasse da parte di organi d’esecuzione, a cui l’UFAG ha affidato compiti d’esecuzione.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
 [^1-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^1-3]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
+[^1-3]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 2
 
@@ -53,18 +53,9 @@ ordina:
 
 #### Art. 3
 
-**Deroghe al campo d’applicazione**
+[^3-1]
 
-<sup>1</sup> Per la riscossione di tasse per le importazioni di prodotti agricoli si applica l’articolo 50 dell’ordinanza del 26 ottobre 2011[^3-1] sulle importazioni agricole.[^3-2]
-
-<sup>2</sup> ...[^3-3]
-
-<sup>3</sup> ...[^3-4]
-
-[^3-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^3-2]: Nuovo testo giusta il n. III dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)).
-[^3-3]: Abrogato dall’art. 61 n. 2 dell’O del 27 ott. 2010 sulla protezione dei vegetali, con effetto dal 1° gen. 2011 ([RU 2010 6167](https://fedlex.data.admin.ch/eli/oc/2010/882), [2011 1197](https://fedlex.data.admin.ch/eli/oc/2011/174)).
-[^3-4]: Abrogato dal n. I dell’O del 12 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
+[^3-1]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 3a
 
@@ -132,7 +123,7 @@ Allegato 1*[^t-1]*
 
 ## Tasse per prestazioni e decisioni
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 ott. 2015 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Aggiornato dall’all. dell’O del 31 ott. 2018 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), dal n. I 2 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)) e dall’all. dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 28 ott. 2015 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Aggiornato dall’all. dell’O del 31 ott. 2018 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), dal n. I 2 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dall’all. dell’O dell’11 nov. 2021 ([RU 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), dal n. II dell’O del 3 nov. 2021 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)) e dall’all. n. 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 <table>
 <tr><th></th><th colspan="2"></th><th colspan="2">Franchi</th></tr>
@@ -172,29 +163,21 @@ Allegato 1*[^t-1]*
 <tr><td>5.2</td><td colspan="2">Ispezione ufficiale delle colture, all’ora (art. 23 cpv. 4)</td><td colspan="2">30</td></tr>
 <tr><td>5.3</td><td colspan="2">Controllo colturale su campi di sementi di pre-base e base, per campione (art. 24 cpv. 3)</td><td colspan="2">40</td></tr>
 <tr><td>5.4</td><td colspan="2">Esame e approvazione di una designazione della varietà (art. 16*a*)</td><td colspan="2">100</td></tr>
-<tr><td>6</td><td colspan="2">Ordinanza del 12 maggio 2010**[^annex1-lvlu1-6]** sui prodotti fitosanitari</td><td colspan="2"></td></tr>
-<tr><td>6.1</td><td colspan="2">Trattamento di una domanda di autorizzazione di un prodotto fitosanitario per il quale devono essere presentati i documenti secondo gli allegati 5 e 6 (art. 21 cpv. 1–5)</td><td colspan="2">2500</td></tr>
-<tr><td>6.2</td><td colspan="2">Trattamento di una domanda di autorizzazione di un prodotto fitosanitario per il quale devono essere presentati tutti i documenti secondo l’allegato 6 (art. 21 cpv. 1–4)</td><td colspan="2">1400</td></tr>
-<tr><td>6.3</td><td colspan="2">Trattamento di una domanda di autorizzazione di un prodotto fitosanitario per il quale deve essere presentata solo una parte dei documenti secondo l’allegato 6 (art. 21 cpv. 7)</td><td colspan="2">400–1000</td></tr>
-<tr><td>6.4</td><td colspan="2">Concessione di un’autorizzazione con l’impiego di dati di un precedente richiedente, previo consenso di quest’ultimo, per un prodotto fitosanitario identico (art. 22)</td><td colspan="2">400</td></tr>
-<tr><td>6.5</td><td colspan="2">Esperimenti nell’ambito dell’esame di una domanda (art. 24 cpv. 3) e analisi di controllo (art. 80 cpv. 1):</td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2">a. analisi chimiche e fisico-chimiche</td><td colspan="2">30–500</td></tr>
-<tr><td></td><td colspan="2">b. analisi biologiche</td><td colspan="2">1900–11 000</td></tr>
-<tr><td>6.6</td><td colspan="2">Rilascio di un certificato d’esportazione (art. 20)</td><td colspan="2">60</td></tr>
-<tr><td>6.7</td><td colspan="2">Concessione di un permesso di vendita (art. 43)</td><td colspan="2">200</td></tr>
-<tr><td>7</td><td colspan="2">Ordinanza del 10 gennaio 2001**[^annex1-lvlu1-7]** sui concimi</td><td colspan="2"></td></tr>
+<tr><td>6</td><td colspan="2">...</td><td colspan="2"></td></tr>
+<tr><td>7</td><td colspan="2">Ordinanza del 10 gennaio 2001**[^annex1-lvlu1-6]** sui concimi</td><td colspan="2"></td></tr>
 <tr><td>7.1</td><td colspan="2">Trattamento di una domanda d’iscrizione di un tipo di concime nella relativa lista (art. 7)</td><td colspan="2">200</td></tr>
 <tr><td>7.2</td><td colspan="2">Trattamento di una domanda di autorizzazione di un concime (art. 10)</td><td colspan="2">200</td></tr>
 <tr><td>7.3</td><td colspan="2">Trattamento di una notifica di un concime (art. 19)</td><td colspan="2">100</td></tr>
 <tr><td>7.4</td><td colspan="2">Analisi di controllo (art. 29):</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">analisi del compost SS, SO, conduttività, N, P, K, Ca, Mg, Cd, Cr, Cu, Hg, Ni, Pb, Zn</td><td colspan="2">570</td></tr>
-<tr><td>8</td><td colspan="2">Ordinanza del 26 ottobre 2011**[^annex1-lvlu1-8]** sugli alimenti per animali</td><td colspan="2"></td></tr>
+<tr><td>8</td><td colspan="2">Ordinanza del 26 ottobre 2011**[^annex1-lvlu1-7]** sugli alimenti per animali</td><td colspan="2"></td></tr>
 <tr><td>8.1</td><td colspan="2">Trattamento di una domanda d’iscrizione nell’elenco degli additivi autorizzati per alimenti per animali (art. 20)</td><td colspan="2">100</td></tr>
 <tr><td>8.2</td><td colspan="2">Trattamento di una domanda di autorizzazione di un additivo per alimenti per animali (art. 22)</td><td colspan="2">1400</td></tr>
 <tr><td>8.3</td><td colspan="2">Trattamento di una domanda d’iscrizione nell’elenco degli alimenti OGM per animali (art. 62)</td><td colspan="2">1400</td></tr>
 <tr><td>8.4</td><td colspan="2">Controllo degli alimenti per animali (art. 70) a condizione che il prodotto sia in ordine; in caso contrario, la tassa è calcolata secondo l’articolo 4 capoverso 2</td><td colspan="2">70</td></tr>
+<tr><th>8.5</th><th colspan="2">Trattamento del rinnovo (art. 31) o dell’estensione di un’autorizzazione esistente (art. 22) per un additivo utilizzato negli alimenti per animali</th><th colspan="2">400</th></tr>
 <tr><td>9</td><td colspan="2">...</td><td colspan="2"></td></tr>
-<tr><td>10</td><td colspan="2">Ordinanza del 23 ottobre 2013**[^annex1-lvlu1-9]** sui sistemi d’informazione nel campo dell’agricoltura</td><td colspan="2"></td></tr>
+<tr><td>10</td><td colspan="2">Ordinanza del 23 ottobre 2013**[^annex1-lvlu1-8]** sui sistemi d’informazione nel campo dell’agricoltura</td><td colspan="2"></td></tr>
 <tr><td>10.1</td><td colspan="2">Allacciamento di un sistema d’informazione esterno al sistema IAM del portale Internet Agate (art. 20*a* cpv. 4):</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">a. importo forfetario unico per i lavori di allacciamento</td><td colspan="2">1300–3300</td></tr>
 <tr><td></td><td colspan="2">b. importo forfetario annuo a copertura dei costi per la licenza e l’assistenza</td><td colspan="2">500–2000</td></tr>
@@ -212,10 +195,9 @@ Allegato 1*[^t-1]*
 [^annex1-lvlu1-3]: [[RU 1999 609](https://fedlex.data.admin.ch/eli/oc/1999/89), [2002 1381](https://fedlex.data.admin.ch/eli/oc/2002/213). RU **2019** 699 art. 6]. Vedi ora l’O del 1° feb. 2019 ([RS 916.145.211](https://fedlex.data.admin.ch/eli/cc/2019/115)).
 [^annex1-lvlu1-4]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^annex1-lvlu1-5]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
-[^annex1-lvlu1-6]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^annex1-lvlu1-7]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annex1-lvlu1-8]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1-lvlu1-9]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-6]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^annex1-lvlu1-7]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^annex1-lvlu1-8]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 Allegato 2*[^t-2]*
 
