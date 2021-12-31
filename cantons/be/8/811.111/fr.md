@@ -4,13 +4,13 @@ number: "811.111"
 title: Ordonnance sur les activités professionnelles dans le secteur sanitaire
 short: "Ordonnance sur la santé publique, OSP"
 language: fr
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-24
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2317/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2485/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2317/pdf_file"
 
 (Ordonnance sur la santé publique, OSP)
 
-du 24.10.2001 (état au 01.08.2021)
+du 24.10.2001 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -112,8 +112,7 @@ arrête:
 
 - a pharmacies,
 - b drogueries,
-- c …
-- d organisations d’aide et de soins à domicile,
+- c–d …
 - e entreprises qui ne font que stocker du sang ou des produits sanguins labiles (art. 34, al. 4 LPTh).
 
 #### Art. 6
@@ -132,15 +131,7 @@ arrête:
 
 #### Art. 6a
 
-**Conditions d’octroi de l’autorisation pour les organisations d’aide et de soins à domicile**
-
-<sup>1</sup> La personne qui souhaite obtenir l’autorisation d’exploiter une organisation d’aide et de soins à domicile est tenue de prouver que l’entreprise
-
-- a a placé le secteur des soins sous la responsabilité d’un professionnel ou d’une professionnelle titulaire d’une autorisation d’exercer,
-- b dispose d’un programme d’exploitation pertinent décrivant ses prestations,
-- c applique un système approprié d’assurance de la qualité,
-- d assure une dotation suffisante en personnel qualifié,
-- e a conclu un contrat d’assurance responsabilité civile couvrant ses risques d’exploitation.
+**…**
 
 #### Art. 6b
 
@@ -215,7 +206,7 @@ arrête:
 
 - a pharmacies,
 - b drogueries,
-- c services d'aide et de soins à domicile.
+- c …
 
 <sup>3</sup> Il est le service compétent conformément à la LSP pour
 

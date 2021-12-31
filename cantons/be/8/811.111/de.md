@@ -4,13 +4,13 @@ number: "811.111"
 title: Verordnung über die beruflichen Tätigkeiten im Gesundheitswesen
 short: "Gesundheitsverordnung, GesV"
 language: de
-version: 2021-08-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-30
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-24
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2317/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2317/pdf_file"
 
 (Gesundheitsverordnung, GesV)
 
-vom 24.10.2001 (Stand 01.08.2021)
+vom 24.10.2001 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -112,8 +112,7 @@ beschliesst:
 
 - a Apotheken,
 - b Drogerien,
-- c …
-- d Organisationen der Hilfe und Pflege zu Hause (Spitex-Organisationen),
+- c–d …
 - e Betriebe, die Blut oder labile Blutprodukte nur lagern (Art. 34 Abs. 4 HMG).
 
 #### Art. 6
@@ -132,15 +131,7 @@ beschliesst:
 
 #### Art. 6a
 
-**Bewilligungsvoraussetzungen für Spitex-Organisationen**
-
-<sup>1</sup> Für die Erteilung der Betriebsbewilligung zur Führung einer Spitex-Organisation hat die Gesuchstellerin oder der Gesuchsteller nachzuweisen, dass
-
-- a die für den Bereich Pflege verantwortliche Fachperson über eine Berufsausübungsbewilligung verfügt,
-- b ein schlüssiges Betriebskonzept vorliegt, welches das Leistungsangebot umschreibt,
-- c ein geeignetes Qualitätssicherungssystem betrieben wird,
-- d genügend Personal mit hinreichender fachlicher Ausbildung eingesetzt wird,
-- e das spezifische Betriebsrisiko durch eine Betriebshaftpflichtversicherung hinreichend abgedeckt ist.
+**…**
 
 #### Art. 6b
 
@@ -215,7 +206,7 @@ beschliesst:
 
 - a Apotheken,
 - b Drogerien,
-- c Spitex-Organisationen.
+- c …
 
 <sup>3</sup> Es ist die zuständige Stelle gemäss GesG für
 
