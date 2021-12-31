@@ -3,11 +3,11 @@ sr: "812.214.6"
 title: "Ordinanza del 21 settembre 2018 sulla tassa di sorveglianza all'Istituto svizzero per gli agenti terapeutici (Ordinanza sulla tassa di sorveglianza per gli agenti terapeutici)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/594"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/594/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-594-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/594/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-594-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20190101/it"
 
 (Ordinanza sulla tassa di sorveglianza per gli agenti terapeutici)
 
-del 21 settembre 2018 (Stato 1° gennaio 2019)
+del 21 settembre 2018 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -34,7 +34,9 @@ ordina:
 
 <sup>2</sup> La tassa è calcolata sulla base del prezzo di fabbrica dei medicamenti e degli espianti standardizzati omologati in Svizzera.
 
-<sup>3</sup> L’aliquota della tassa è pari all’8 per mille del prezzo di fabbrica per la consegna.
+<sup>3</sup> L’aliquota della tassa è pari al 6,5 per mille del prezzo di fabbrica per la consegna.[^1-1]
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 598](https://fedlex.data.admin.ch/eli/oc/2021/598)).
 
 #### Art. 2
 

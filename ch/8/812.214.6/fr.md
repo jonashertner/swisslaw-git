@@ -3,11 +3,11 @@ sr: "812.214.6"
 title: "Ordonnance du 21 septembre 2018 sur la taxe de surveillance versée à l'Institut suisse des produits thérapeutiques (Ordonnance sur la taxe de surveillance des produits thérapeutiques)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/594"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/594/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-594-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/594/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-594-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20190101/fr"
 
 (Ordonnance sur la taxe de surveillance des produits thérapeutiques)
 
-du 21 septembre 2018 (Etat le 1<sup>er</sup> janvier 2019)
+du 21 septembre 2018 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -34,7 +34,9 @@ arrête:
 
 <sup>2</sup> La taxe se calcule selon le prix de fabrique des médicaments et transplants standardisés autorisés en Suisse.
 
-<sup>3</sup> Le taux de la taxe est de 8 ‰ du prix de fabrique.
+<sup>3</sup> Le taux de la taxe est de 6,5 ‰ du prix de fabrique.[^1-1]
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 598](https://fedlex.data.admin.ch/eli/oc/2021/598)).
 
 #### Art. 2
 
@@ -81,7 +83,7 @@ Est assujetti à la taxe tout titulaire d’une autorisation de mise sur le marc
 
 #### Art. 6
 
-**Echéance**
+**Échéance**
 
 <sup>1</sup>
 

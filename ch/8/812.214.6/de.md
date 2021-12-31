@@ -3,11 +3,11 @@ sr: "812.214.6"
 title: Verordnung vom 21. September 2018 über die Aufsichtsabgabe an das Schweizerische Heilmittelinstitut (Heilmittel-Aufsichtsabgabeverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/594"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/594/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-594-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/594/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-594-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/594/20190101/de"
 
 (Heilmittel-Aufsichtsabgabeverordnung)
 
-vom 21. September 2018 (Stand am 1. Januar 2019)
+vom 21. September 2018 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -34,7 +34,9 @@ verordnet:
 
 <sup>2</sup> Sie bemisst sich nach dem Fabrikabgabepreis der in der Schweiz zugelassenen Arzneimittel und Transplantatprodukte.
 
-<sup>3</sup> Der Abgabesatz beträgt 8 Promille des Fabrikabgabepreises.
+<sup>3</sup> Der Abgabesatz beträgt 6,5 Promille des Fabrikabgabepreises.[^1-1]
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 1. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 598](https://fedlex.data.admin.ch/eli/oc/2021/598)).
 
 #### Art. 2
 
