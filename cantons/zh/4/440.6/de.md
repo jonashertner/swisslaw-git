@@ -3,10 +3,10 @@ canton: ZH
 number: "440.6"
 title: Gesetz über den Beitritt zur interkantonalen Kulturlastenvereinbarung
 language: de
-nachtrag: "103"
-valid_until: 2022-01-01
+nachtrag: "115"
+valid_until: 2025-01-01
 adopted: 2005-02-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-440_6-2005_02_14-2010_01_01-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-440_6-2005_02_14-2010_01_01-115.html"
 text: pdf
 ---
 
@@ -28,7 +28,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton Zürich tritt der Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen vom 1. Juli 2003 bei.
 
-<sup>2</sup> Die von den Regierungen der Kantone Zürich, Luzern, Schwyz und Zug angenommene Vereinbarung hat folgenden Wortlaut:
+<sup>2</sup> Die von den Regierungen der Kantone Zürich, Luzern, Schwyz<sup>8</sup> und Zug angenommene Vereinbarung hat folgenden Wortlaut:
 
 ### Vereinbarung über die interkantonale Zusammenarbeit im Bereich überregionaler Kultureinrichtungen
 
@@ -56,7 +56,7 @@ barung beigetreten ist. Zahlungspflichtiger Kanton ist ein Vereinbarungskanton, 
 
 **1**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 - Die künstlerische Qualität der Institution strahlt über den Standortkanton hinaus in die umliegenden Nachfragekantone und ist für deren Bevölkerung nachweisbar von Interesse.
 
@@ -158,7 +158,7 @@ für jede überregionale Kultureinrichtung.
 
 **3**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 <sup>7</sup> Für Kultureinrichtungen ohne eigenes Ensemble werden die anrechenbaren Kosten im Verhältnis des Anteils der überregionalen Kulturveranstaltungen an der Gesamtzahl der Veranstaltungen im Stammhaus herabgesetzt.
 
@@ -256,7 +256,7 @@ Kultur- und Kongresszentrum Luzern (KKL) Luzerner Theater Luzerner Sinfonieorche
 
 **5**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 22 - 115
 
 ### Anhang 2
 
@@ -264,7 +264,11 @@ Kultur- und Kongresszentrum Luzern (KKL) Luzerner Theater Luzerner Sinfonieorche
 
 Die Kantone Luzern und Zug erklären zu Art. 2 Abs. 3 Folgendes: In Berücksichtigung des eigenen Angebotes im Theater Casino Zug hat der Kanton Zug nur für 60% der vorgesehenen 80% (= 100%) des kulturellen Angebotes des KKL mit überregionaler Ausstrahlung Abgeltungen zu leisten.
 
-### Anhang 3<sup>7</sup>
+[^hZusatzprotokollder-1]: Fassung gemäss RRB vom 26. September 2018 (OS 73, 582).
+
+### Anhang 3
+
+[^hZusatzprotokollder-1]
 
 ### Zusatzprotokoll der Kantone Zürich und Aargau
 
@@ -274,7 +278,7 @@ Die Kantone Zürich und Aargau erklären zu Art. 11 Folgendes:
 
 <sup>2</sup> Nach Abschluss der 5. Abgeltungsperiode gemäss Art. 8 der Vereinbarung wird über die Berechtigung und den Umfang der gewährten Reduktion neu verhandelt.
 
-[^hZusatzprotokollder_2-1]: Fassung gemäss RRB vom 11. März 2015 (OS 70, 103).
+[^hZusatzprotokollder_2-1]: Fassung gemäss RRB vom 25. August 2021 (OS 76, 492). 1. 1. 22 - 115 7
 
 ### Anhang 4
 
@@ -286,25 +290,17 @@ Die Kantone Zürich und Uri erklären zu Art. 11 Folgendes:
 
 <sup>1</sup> Aufgrund des überregional bedeutenden Angebots im Theater(uri) reduziert sich die für das Schauspielhaus Zürich errechnete Urner Abgeltung um 15% auf 85%.
 
-<sup>2</sup> Nach Abschluss der 4. Abgeltungsperiode gemäss Art. 8 der Vereinbarung wird über die Berechtigung und den Umfang der gewährten Reduktion neu verhandelt.
+<sup>2</sup> Nach Abschluss der 6. Abgeltungsperiode gemäss Art. 8 der Vereinbarung wird über die Berechtigung und den Umfang der gewährten Reduktion neu verhandelt.
 
-[^hZusatzprotokollder_3-1]: Fassung gemäss RRB vom 11. März 2015 (OS 70, 104).
+[^hZusatzprotokollder_3-1]: Der Regierungsrat des Kantons Schwyz hat die Vereinbarung auf den 31. Dezember 2021 gekündigt.
 
 ### Anhang 5
 
 [^hZusatzprotokollder_3-1]
 
-### Zusatzprotokoll der Kantone Zürich und Schwyz
+#### § 2
 
-Die Kantone Zürich und Schwyz erklären zu Art. 11 Folgendes:
-
-<sup>1</sup> Aufgrund des Kulturangebots des Kantons Schwyz, das auch von Zürcher Besuchenden in Ergänzung zu ihrem überregionalen Kulturangebot genutzt wird, reduziert sich die errechnete Abgeltung um 7,3%.
-
-<sup>2</sup> Nach Abschluss der 4. Abgeltungsperiode gemäss Art. 8 der Vereinbarung wird über die Berechtigung und den Umfang der gewährten Reduktion neu verhandelt.
-
-**7**
-
-- 1\. 1. 19 - 103 § 2. Der Regierungsrat regelt die Einzelheiten über den Vollzug der Vereinbarung.
+Der Regierungsrat regelt die Einzelheiten über den Vollzug der Vereinbarung.
 
 #### § 3
 
@@ -320,4 +316,5 @@ Die Kantone Zürich und Schwyz erklären zu Art. 11 Folgendes:
 - [2] ABl 2004, 595.
 - [3] LS 615.
 - [4] Fassung gemäss RRB vom 11. März 2015 (OS 70, 102).
-- [7] Fassung gemäss RRB vom 26. September 2018 (OS 73, 582).
+- [5] Fassung gemäss RRB vom 11. März 2015 (OS 70, 103).
+- [6] Obsolet.
