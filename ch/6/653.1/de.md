@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Dezember 2015 über den internationalen automatische
 short: AIAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-259-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-259-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20210101/de"
 
 (AIAG)
 
-vom 18. Dezember 2015 (Stand am 1. Januar 2021)
+vom 18. Dezember 2015 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -64,18 +64,19 @@ In diesem Gesetz bedeuten:
   - 2\. eine Zweigniederlassung eines nicht in der Schweiz ansässigen Finanzinstituts, die sich in der Schweiz befindet;
 
 - e. *nicht dokumentiertes Konto:* ein bestehendes Konto natürlicher Personen, bei welchem ein meldendes schweizerisches Finanzinstitut in Anwendung der Bestimmungen des anwendbaren Abkommens die steuerliche Ansässigkeit des Kontoinhabers oder der Kontoinhaberin nicht feststellen kann;
-- f. *schweizerische Steueridentifikationsnummer für natürliche Personen:* die AHV-Versichertennummer nach dem Bundesgesetz vom 20. Dezember 1946[^2-1] über die Alters- und Hinterlassenenversicherung;
-- g. *schweizerische Steueridentifikationsnummer für Rechtsträger (UID):* die Unternehmens-Identifikationsnummer nach dem Bundesgesetz vom 18. Juni 2010[^2-2] über die Unternehmens-Identifikationsnummer;
+- f. *schweizerische Steueridentifikationsnummer für natürliche Personen:* die AHV-Nummer[^2-1] nach dem Bundesgesetz vom 20. Dezember 1946[^2-2] über die Alters- und Hinterlassenenversicherung;
+- g. *schweizerische Steueridentifikationsnummer für Rechtsträger (UID):* die Unternehmens-Identifikationsnummer nach dem Bundesgesetz vom 18. Juni 2010[^2-3] über die Unternehmens-Identifikationsnummer;
 - h. *ausländische Steueridentifikationsnummer:* die Identifikationsnummer einer steuerpflichtigen Person nach dem Recht des Staates oder Hoheitsgebiets, in dem sie steuerlich ansässig ist;
 - i. *bestehendes Konto:* ein Finanzkonto, das am Tag vor Beginn der Anwendbarkeit des automatischen Informationsaustauschs mit einem Partnerstaat von einem meldenden schweizerischen Finanzinstitut geführt wird;
 - j. *Neukonto:* ein von einem meldenden schweizerischen Finanzinstitut geführtes Finanzkonto, das am Tag der Anwendbarkeit des automatischen Informationsaustauschs mit einem Partnerstaat oder später eröffnet wird;
-- k. *Konto von geringerem Wert:* ein bestehendes Konto einer natürlichen Person, das am 31. Dezember vor Beginn der Anwendbarkeit des automatischen Informationsaustauschs mit einem Partnerstaat einen Gesamtsaldo oder Gesamtwert von höchstens einer Million US-Dollar[^2-3] aufweist;
+- k. *Konto von geringerem Wert:* ein bestehendes Konto einer natürlichen Person, das am 31. Dezember vor Beginn der Anwendbarkeit des automatischen Informationsaustauschs mit einem Partnerstaat einen Gesamtsaldo oder Gesamtwert von höchstens einer Million US-Dollar[^2-4] aufweist;
 - l. *Konto von hohem Wert:* ein bestehendes Konto einer natürlichen Person, das am 31. Dezember vor Beginn der Anwendbarkeit des automatischen Informationsaustauschs mit einem Partnerstaat oder am 31. Dezember eines Folgejahres einen Gesamtsaldo oder Gesamtwert von mehr als einer Million US-Dollar aufweist.
 - [tab] <sup>2</sup> Der Bundesrat kann den in den anwendbaren Abkommen verwendeten Begriff «teilnehmender Staat» für eine befristete Dauer breiter definieren als die Abkommen.
 
-[^2-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^2-3]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^2-1]: Ausdruck gemäss Anhang Ziff. 21 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-3]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-4]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 3
 
@@ -419,12 +420,13 @@ Wer eine Selbstauskunft nach dem anwendbaren Abkommen und diesem Gesetz erteilt 
 
 <sup>1</sup> In Bezug auf Informationen, die von meldenden schweizerischen Finanzinstituten gesammelt werden, und auf deren Übermittlung an die zuständigen Behörden der Partnerstaaten stehen den meldepflichtigen Personen die Rechte nach dem DSG[^19-1] zu.
 
-<sup>2</sup> Gegenüber der ESTV können meldepflichtige Personen ausschliesslich das Auskunftsrecht geltend machen und verlangen, dass unrichtige Daten, die auf Übermittlungsfehlern beruhen, berichtigt werden. Sofern die Übermittlung der Daten für die meldepflichtige Person Nachteile zur Folge hätte, die ihr aufgrund fehlender rechtsstaatlicher Garantien nicht zugemutet werden können, stehen ihr die die Ansprüche nach Artikel 25*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^19-2] zu.
+<sup>2</sup> Gegenüber der ESTV können meldepflichtige Personen ausschliesslich das Auskunftsrecht geltend machen und verlangen, dass unrichtige Daten, die auf Übermittlungsfehlern beruhen, berichtigt werden. Sofern die Übermittlung der Daten für die meldepflichtige Person Nachteile zur Folge hätte, die ihr mangels rechtsstaatlicher Garantien nicht zugemutet werden können, stehen ihr die Ansprüche nach Artikel 25*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^19-2] (VwVG) zu.[^19-3]
 
 <sup>3</sup> Werden die der zuständigen Behörde eines Partnerstaates übermittelten Informationen infolge eines rechtskräftigen Entscheids berichtigt, so übermittelt das meldende schweizerische Finanzinstitut die berichtigten Informationen der ESTV. Diese leitet die berichtigten Informationen der betroffenen Behörde weiter.
 
 [^19-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^19-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-3]: Fassung des zweiten Satzes gemäss Ziff. I 7 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ## 7. Abschnitt: Vom Ausland automatisch übermittelte Informationen
 
@@ -432,7 +434,7 @@ Wer eine Selbstauskunft nach dem anwendbaren Abkommen und diesem Gesetz erteilt 
 
 **Verwendung der schweizerischen Steueridentifikationsnummer für natürliche Personen**
 
-Meldende Finanzinstitute und die zuständigen Behörden eines Partnerstaates verwenden im Rahmen der Übermittlung der für den automatischen Informationsaustausch erforderlichen Informationen betreffend natürliche Personen die AHV-Versichertennummer.
+Meldende Finanzinstitute und die zuständigen Behörden eines Partnerstaates verwenden im Rahmen der Übermittlung der für den automatischen Informationsaustausch erforderlichen Informationen betreffend natürliche Personen die AHV-Nummer.
 
 #### Art. 21
 
@@ -551,13 +553,26 @@ Auf Antrag erlässt die ESTV eine Feststellungsverfügung über:
 - a. die Eigenschaft als Finanzinstitut nach den anwendbaren Abkommen und diesem Gesetz;
 - b. den Inhalt der Meldungen nach den anwendbaren Abkommen und diesem Gesetz.
 
+#### Art. 28a
+
+**Elektronische Verfahren**[^28a-1]
+
+<sup>1</sup> Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung.
+
+<sup>2</sup> Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher.
+
+<sup>3</sup> Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die eingebende Person anerkennen.
+
+[^28a-1]: Eingefügt durch Ziff. I 7 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 #### Art. 29
 
-**Anwendbares Verfahrensrecht**
+**Anwendbares Verfahrensrecht**[^29-1]
 
-Soweit dieses Gesetz nichts anderes bestimmt, ist das Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^29-1] anwendbar.
+Soweit dieses Gesetz nichts anderes bestimmt, ist das VwVG[^29-2] anwendbar.
 
-[^29-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-1]: Fassung gemäss Ziff. I 7 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^29-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 30
 

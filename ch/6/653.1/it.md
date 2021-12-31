@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 2015 sullo scambio automatico internaziona
 short: LSAI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-259-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-259-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20210101/it"
 
 (LSAI)
 
-del 18 dicembre 2015 (Stato 1° gennaio 2021)
+del 18 dicembre 2015 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -64,21 +64,22 @@ Nella presente legge s’intende per:
   - 2\. una succursale situata in Svizzera di un istituto finanziario non residente in Svizzera;
 
 - e. *conto non documentato*: un conto preesistente di una persona fisica per il quale un istituto finanziario svizzero tenuto alla comunicazione non può determinare la residenza fiscale del titolare conformemente all’accordo applicabile;
-- f. *numero d’identificazione fiscale svizzero per persone fisiche*: il numero d’assicurato secondo la legge federale del 20 dicembre 1946[^2-1] sull’assicurazione per la vecchiaia e per i superstiti (numero d’assicurato AVS);
-- g. *numero d’identificazione fiscale svizzero per* *enti* *(numero IDI)*: il numero d’identificazione delle imprese secondo la legge federale del 18 giugno 2010[^2-2] sul numero d’identificazione delle imprese;
+- f.[^2-1] *numero d’identificazione fiscale svizzero per persone fisiche:* il numero AVS secondo la legge federale del 20 dicembre 1946[^2-2] sull’assicurazione per la vecchiaia e per i superstiti;
+- g. *numero d’identificazione fiscale svizzero per enti (numero IDI)*: il numero d’identificazione delle imprese secondo la legge federale del 18 giugno 2010[^2-3] sul numero d’identificazione delle imprese;
 - h. *numero d’identificazione fiscale estero*: il numero d’identificazione fiscale di un contribuente secondo il diritto dello Stato o del territorio di cui è residente fiscale;
-- i.[^2-3] *conto preesistente*: un conto finanziario presso un istituto finanziario svizzero tenuto alla comunicazione già aperto il giorno antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
-- j.[^2-4] *nuovo conto*: un conto finanziario presso un istituto finanziario svizzero tenuto alla comunicazione aperto il giorno dell’applicazione dello scambio automatico di informazioni con uno Stato partner, o dopo tale data;k. *conto di importo non rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato non supera un milione di franchi il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
-- k. *conto di importo non rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato non supera un milione di dollari americani[^2-5] il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
+- i.[^2-4] *conto preesistente*: un conto finanziario presso un istituto finanziario svizzero tenuto alla comunicazione già aperto il giorno antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
+- j.[^2-5] *nuovo conto*: un conto finanziario presso un istituto finanziario svizzero tenuto alla comunicazione aperto il giorno dell’applicazione dello scambio automatico di informazioni con uno Stato partner, o dopo tale data;
+- k. *conto di importo non rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato non supera un milione di dollari americani[^2-6] il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
 - l. *conto di importo rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato supera un milione di dollari americani il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner, oppure il 31 dicembre di un anno successivo.
 
 <sup>2</sup> Il Consiglio federale può estendere per una durata determinata la definizione di «Giurisdizione partecipante» utilizzata negli accordi applicabili.
 
-[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^2-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^2-1]: Nuovo testo giusta l’all. n. 21 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-3]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 [^2-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^2-5]: Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^2-5]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^2-6]: Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 3
 
@@ -430,12 +431,13 @@ In caso di un cambiamento delle circostanze, chi ha rilasciato un’autocertific
 
 <sup>1</sup> Per quanto concerne le informazioni raccolte dagli istituti finanziari svizzeri tenuti alla comunicazione e la loro trasmissione alle autorità competenti degli Stati partner, le persone oggetto di comunicazione hanno i diritti sanciti nella LPD[^19-1].
 
-<sup>2</sup> Rispetto all’AFC, le persone oggetto di comunicazione possono esclusivamente far valere il proprio diritto d’accesso ed esigere la rettifica dei dati inesatti a causa di errori di trasmissione. Se la trasmissione dei dati comporta per la persona oggetto di comunicazione uno svantaggio non sostenibile dovuto all’assenza di garanzie dello Stato di diritto, sono applicabili i diritti di cui all’articolo 25*a* della legge federale del 20 dicembre 1968[^19-2] sulla procedura amministrativa.
+<sup>2</sup> Rispetto all’AFC, le persone oggetto di comunicazione possono esclusivamente far valere il proprio diritto d’accesso ed esigere la rettifica dei dati inesatti a causa di errori di trasmissione. Se la trasmissione dei dati comporta per la persona oggetto di comunicazione uno svantaggio non sostenibile a causa dell’assenza di garanzie dello Stato di diritto, sono applicabili i diritti di cui all’articolo 25*a* della legge federale del 20 dicembre 1968[^19-2] sulla procedura amministrativa (PA).[^19-3]
 
 <sup>3</sup> Se le informazioni trasmesse all’autorità competente di uno Stato partner sono rettificate in seguito a una decisione passata in giudicato, l’istituto finanziario svizzero tenuto alla comunicazione trasmette le informazioni rettificate all’AFC. Quest’ultima le inoltra all’autorità competente interessata.
 
 [^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^19-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-3]: Nuovo testo del per. giusta il n. I 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ## Sezione 7: Informazioni trasmesse automaticamente dall’estero
 
@@ -443,7 +445,9 @@ In caso di un cambiamento delle circostanze, chi ha rilasciato un’autocertific
 
 **Utilizzazione del numero d’identificazione fiscale svizzero per persone fisiche**
 
-Gli istituti finanziari tenuti alla comunicazione e le autorità competenti degli Stati partner utilizzano il numero d’assicurato AVS per la trasmissione delle informazioni concernenti persone fisiche, necessarie ai fini dello scambio automatico di informazioni.
+Gli istituti finanziari tenuti alla comunicazione e le autorità competenti degli Stati partner utilizzano il numero AVS[^20-1] per la trasmissione delle informazioni concernenti persone fisiche, necessarie ai fini dello scambio automatico di informazioni.
+
+[^20-1]: Nuova espressione giusta l’all. n. 21 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 21
 
@@ -562,13 +566,26 @@ Su richiesta, l’AFC pronuncia una decisione di accertamento:
 - a. della qualità di istituto finanziario secondo gli accordi applicabili e la presente legge;
 - b. del contenuto delle comunicazioni secondo gli accordi applicabili e la presente legge.
 
+#### Art. 28a
+
+**Procedure elettroniche**[^28a-1]
+
+<sup>1</sup> Il Consiglio federale può prescrivere lo svolgimento per via elettronica delle procedure previste dalla presente legge. Ne disciplina le modalità.
+
+<sup>2</sup> In caso di svolgimento di procedure per via elettronica, l’AFC garantisce l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte della persona che li trasmette.
+
+[^28a-1]: Introdotto dal n. I 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 #### Art. 29
 
-**Diritto procedurale applicabile**
+**Diritto procedurale applicabile**[^29-1]
 
-Ove la presente legge non disponga altrimenti, si applica la legge del 20 dicembre 1968[^29-1] sulla procedura amministrativa.
+Ove la presente legge non disponga altrimenti, si applica la PA[^29-2].
 
-[^29-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-1]: Nuovo testo giusta il n. I 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^29-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 30
 

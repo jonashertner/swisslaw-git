@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 décembre 2015 sur l'échange international automat
 short: LEAR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-259-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-259-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20210101/fr"
 
 (LEAR)
 
-du 18 décembre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 décembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -64,21 +64,22 @@ Dans la présente loi, on entend par:
   - 2\. une succursale d’une institution financière non résidente de Suisse si cette succursale est établie en Suisse;
 
 - e. *compte non documenté:* un compte préexistant d’une personne physique pour lequel une institution financière suisse déclarante n’est pas en mesure de déterminer la résidence fiscale du titulaire du compte selon les dispositions de la convention applicable;
-- f. *numéro d’identification fiscale suisse pour les personnes physiques:* le numéro d’assuré AVS au sens de la loi fédérale du 20 décembre 1946 sur l’assurance-viellesse et survivants[^2-1];
-- g. *numéro d’identification fiscale suisse pour les entités (IDE):* le numéro d’identification des entreprises selon la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^2-2];
+- f. *numéro d’identification fiscale suisse pour les personnes physiques:* le numéro AVS[^2-1] au sens de la loi fédérale du 20 décembre 1946 sur l’assurance-viellesse et survivants[^2-2];
+- g. *numéro d’identification fiscale suisse pour les entités (IDE):* le numéro d’identification des entreprises selon la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^2-3];
 - h. *numéro d’identification fiscale étranger:* le numéro d’identification fiscale d’un contribuable selon le droit de l’État ou du territoire dans lequel il a sa résidence fiscale;
-- i.[^2-3] *compte préexistant:* un compte financier auprès d’une institution financière suisse déclarante déjà ouvert le jour précédant l’applicabilité de l’échange automatique de renseignements avec un État partenaire;
-- j.[^2-4] *nouveau compte:* un compte financier ouvert auprès d’une institution financière suisse déclarante le jour de l’applicabilité de l’échange automatique de renseignements avec un État partenaire ou ultérieurement;
-- k. *compte de faible valeur:* un compte de personne physique préexistant dont le solde total ou la valeur totale au 31 décembre de l’année précédant l’applicabilité de l’échange automatique de renseignements avec un État partenaire ne dépasse pas un million de dollars américains[^2-5];
+- i.[^2-4] *compte préexistant:* un compte financier auprès d’une institution financière suisse déclarante déjà ouvert le jour précédant l’applicabilité de l’échange automatique de renseignements avec un État partenaire;
+- j.[^2-5] *nouveau compte:* un compte financier ouvert auprès d’une institution financière suisse déclarante le jour de l’applicabilité de l’échange automatique de renseignements avec un État partenaire ou ultérieurement;
+- k. *compte de faible valeur:* un compte de personne physique préexistant dont le solde total ou la valeur totale au 31 décembre de l’année précédant l’applicabilité de l’échange automatique de renseignements avec un État partenaire ne dépasse pas un million de dollars américains[^2-6];
 - l. *compte de valeur élevée:* un compte de personne physique préexistant dont le solde total ou la valeur totale au 31 décembre de l’année précédant l’applicabilité de l’échange automatique de renseignements avec un État partenaire ou au 31 décembre d’une année suivante dépasse un million de dollars américains.
 
 <sup>2</sup> Le Conseil fédéral peut, pour une durée déterminée, définir la notion de «juridiction partenaire» utilisée dans les conventions applicables de manière plus large que ces dernières.
 
-[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^2-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^2-1]: Nouvelle expression selon l’annexe ch. 21 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-3]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 [^2-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^2-5]: Nouvelle expression selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^2-5]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^2-6]: Nouvelle expression selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 7693](https://fedlex.data.admin.ch/eli/fga/2019/2796)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 3
 
@@ -429,12 +430,13 @@ En cas de changements de circonstances, une personne qui a délivré une autocer
 
 <sup>1</sup> Pour ce qui est des renseignements collectés par l’institution financière suisse déclarante et de leur transmission aux autorités compétentes de l’État partenaire, les personnes devant faire l’objet d’une déclaration disposent des droits définis dans la LPD[^19-1].
 
-<sup>2</sup> Les personnes devant faire l’objet d’une déclaration ne peuvent faire valoir auprès de l’AFC que leur droit d’accès et ne peuvent demander que la rectification de données inexactes en raison d’une erreur de transmission. Si la transmission de données entraîne pour la personne devant faire l’objet d’une déclaration un préjudice déraisonnable par manque de garanties de l’État de droit, les prétentions visées à l’art. 25*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^19-2] sont applicables.
+<sup>2</sup> Les personnes devant faire l’objet d’une déclaration ne peuvent faire valoir auprès de l’AFC que leur droit d’accès et ne peuvent demander que la rectification de données inexactes en raison d’une erreur de transmission. Si la transmission de données entraîne pour la personne devant faire l’objet d’une déclaration un préjudice déraisonnable faute de garanties de l’état de droit, les prétentions prévues à l’art. 25*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^19-2] sont applicables.[^19-3]
 
 <sup>3</sup> Lorsque des renseignements transmis à l’autorité compétente de l’État partenaire sont rectifiés suite à un arrêt entré en force, l’institution financière suisse déclarante transmet ces renseignements rectifiés à l’AFC. Celle-ci transmet les renseignements rectifiés à l’autorité concernée.
 
 [^19-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^19-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-3]: Nouvelle teneur de la phrase selon le ch. I 7 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ## Section 7 Renseignements transmis automatiquement de l’étranger
 
@@ -442,7 +444,7 @@ En cas de changements de circonstances, une personne qui a délivré une autocer
 
 **Utilisation du numéro d’identification fiscale suisse pour les personnes physiques**
 
-Les institutions financières déclarantes et les autorités compétentes d’un État partenaire sont tenues d’utiliser le numéro d’assuré AVS lors de la transmission de renseignements concernant les personnes physiques qui sont requis dans le cadre de l’échange automatique de renseignements.
+Les institutions financières déclarantes et les autorités compétentes d’un État partenaire sont tenues d’utiliser le numéro AVS lors de la transmission de renseignements concernant les personnes physiques qui sont requis dans le cadre de l’échange automatique de renseignements.
 
 #### Art. 21
 
@@ -561,13 +563,26 @@ Sur demande, l’AFC rend une décision en constatation sur:
 - a. la qualité d’institution financière au sens des conventions applicables et de la présente loi;
 - b. le contenu des déclarations selon les conventions applicables et la présente loi.
 
+#### Art. 28a
+
+**Procédures électroniques**[^28a-1]
+
+<sup>1</sup> Le Conseil fédéral peut prescrire l’exécution par voie électronique des procédures prévues par la présente loi. Il arrête les modalités de cette exécution.
+
+<sup>2</sup> Lorsqu’une procédure est exécutée par voie électronique, l’AFC assure l’authenticité et l’intégrité des données transmises.
+
+<sup>3</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, l’AFC peut reconnaître, en lieu et place de la signature électronique qualifiée, une autre forme de confirmation électronique des données par la personne qui les transmet.
+
+[^28a-1]: Introduit par le ch. I 7 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 #### Art. 29
 
-**Droit de procédure applicable**
+**Procédure applicable**[^29-1]
 
-Pour autant que la présente loi n’en dispose pas autrement, la loi fédérale du 20 décembre 1968 sur la procédure administrative[^29-1] est applicable.
+Si la présente loi n’en dispose pas autrement, la PA[^29-2] est applicable.
 
-[^29-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-1]: Nouvelle teneur selon le ch. I 7 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); **FF 2020** 4579).
+[^29-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 30
 

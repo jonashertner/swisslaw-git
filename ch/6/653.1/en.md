@@ -4,11 +4,11 @@ title: Federal Act of 18 December 2015 on the International Automatic Exchange o
 short: AEOIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2016-259-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2016-259-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AEOIA)
 
-of 18 December 2015 (Status as of 1 January 2021)
+of 18 December 2015 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -66,18 +66,19 @@ In this Act:
   - 2\. a branch of a financial institution not resident in Switzerland if that branch is located in Switzerland;
 
 - e. *undocumented account* means a preexisting individual account for which a reporting Swiss financial institution is unable to determine the tax residence of the account holder in accordance with the provisions of the applicable agreement;
-- f. *Swiss tax identification number for individuals* means the OASI insurance number in accordance with the Federal Act of 20 December 1946[^2-1] on Old-Age and Survivors Insurance;
-- g. *Swiss tax identification number for entities (BIN)* means the business identification number within the meaning of the Federal Act of 18 June 2010[^2-2] on the Business Identification Number;
+- f. *Swiss tax identification number for individuals* means the OASI number[^2-1] in accordance with the Federal Act of 20 December 1946[^2-2] on Old-Age and Survivors Insurance;
+- g. *Swiss tax identification number for entities (BIN)* means the business identification number within the meaning of the Federal Act of 18 June 2010[^2-3] on the Business Identification Number;
 - h. *foreign tax identification number* means the identification number of a taxpayer according to the law of the state or sovereign territory where that taxpayer is resident for tax purposes;
 - i. *preexisting account* means a financial account maintained by a reporting Swiss financial institution on the day before the automatic exchange of information with a partner jurisdiction came into force;
 - j. *new account* means a financial account maintained by a reporting Swiss financial institution that was opened on or after the day that the automatic exchange of information with a partner jurisdiction came into force;
-- k. *lower value account* means a preexisting individual account with an aggregate balance or value that does not exceed USD[^2-3] 1,000,000 as of 31 December of the year prior to the implementation of the automatic exchange of information with a partner jurisdiction;
+- k. *lower value account* means a preexisting individual account with an aggregate balance or value that does not exceed USD[^2-4] 1,000,000 as of 31 December of the year prior to the implementation of the automatic exchange of information with a partner jurisdiction;
 - l. *high value account* means a preexisting individual account with an aggregate balance or value that exceeds USD 1,000,000 as of 31 December of the year prior to the implementation of the automatic exchange of information with a partner jurisdiction or 31 December of any subsequent year.
 - [tab] <sup>2</sup> The Federal Council may, for a limited duration, define the term «participating jurisdiction» used in applicable agreements in a broader sense than the agreements do.
 
-[^2-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^2-3]: Denomination in accordance with No I of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)). This amendment has been made in the provisions specified in the AS.
+[^2-1]: Term in accordance with Annex No 21 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). This change has been made in the provisions specified in the AS.
+[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-3]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^2-4]: Denomination in accordance with No I of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [BBl 2019 8135](https://fedlex.data.admin.ch/eli/fga/2019/2796)). This amendment has been made in the provisions specified in the AS.
 
 #### Art. 3
 
@@ -421,12 +422,13 @@ In the event of a change in circumstances, any person who has submitted a self-c
 
 <sup>1</sup> With regard to information collected by reporting Swiss financial institutions and their transmission to the competent authorities of partner jurisdictions, the rights of the reportable persons are defined in the FADP[^19-1].
 
-<sup>2</sup> Before the FTA, reportable persons may only assert their right to information and request that incorrect data caused by transmission errors be corrected. If the transmission of data creates disadvantages for the reportable person that could be unreasonable due to a lack of constitutional guarantees, the rights under Article 25*a* of the Administrative Procedure Act of 20 December 1968[^19-2] apply.
+<sup>2</sup> Before the FTA, reportable persons may only assert their right to information and request that incorrect data caused by transmission errors be corrected. If the transmission of data creates disadvantages for the reportable person that could be unreasonable due to a lack of constitutional guarantees, the rights under Article 25*a* of the Administrative Procedure Act of 20 December 1968[^19-2] (APA) apply.[^19-3]
 
 <sup>3</sup> If information transmitted to a partner jurisdiction’s competent authority is corrected by virtue of a final judgment, the reporting Swiss financial institution shall transmit the corrected information to the FTA, which shall forward the corrected information to the relevant authority.
 
 [^19-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^19-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^19-3]: Second sentence amended by No I 7 of the FA of 18 June 2021 on Electronic Procedures in the Field of Taxation, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ## Section 7 Information Transmitted Automatically from Abroad
 
@@ -434,7 +436,7 @@ In the event of a change in circumstances, any person who has submitted a self-c
 
 **Use of the Swiss tax identification number for individuals**
 
-Reporting financial institutions and a partner jurisdiction’s competent authorities shall use the OASI Insurance number when transmitting the information regarding individuals required within the framework of the automatic exchange of information.
+Reporting financial institutions and a partner jurisdiction’s competent authorities shall use the OASI number when transmitting the information regarding individuals required within the framework of the automatic exchange of information.
 
 #### Art. 21
 
@@ -553,13 +555,26 @@ On request, the FTA shall issue a declaratory ruling on:
 - a. the status of financial institution under the applicable agreements and this Act;
 - b. the content of reports made in accordance with the applicable agreements and this Act.
 
+#### Art. 28a
+
+**Electronic procedures**[^28a-1]
+
+<sup>1</sup> The Federal Council may stipulate the electronic conduct of procedures under this Act. In doing so, it shall regulate the modalities of such conduct.
+
+<sup>2</sup> The FTA shall ensure the authenticity and integrity of the data in electronic procedures.
+
+- [tab] <sup>3</sup> For the electronic filing of submissions whose signature is required by law, it may accept a different electronic confirmation of the information by the person submitting it from a qualified electronic signature.
+
+[^28a-1]: Inserted by No I 7 of the FA of 18 June 2021 on Electronic Procedures in the Field of Taxation, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 #### Art. 29
 
-**Applicable procedural law**
+**Applicable procedural law**[^29-1]
 
-Unless otherwise specified in this Act, the Administrative Procedure Act of 20 December 1968[^29-1] applies.
+Unless otherwise specified in this Act, the APA[^29-2] applies.
 
-[^29-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-1]: Amended by No I 7 of the FA of 18 June 2021 on Electronic Procedures in the Field of Taxation, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^29-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 30
 
