@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Verordnung vom 17. Oktober 2018 über Massnahmen gegenüber Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Myanmar
 
-vom 17. Oktober 2018 (Stand am 1. Juli 2021)
+vom 17. Oktober 2018 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -167,9 +167,11 @@ Es ist verboten, Forderungen der folgenden Personen, Unternehmen und Organisatio
 
 <sup>2</sup> Das SEM überwacht den Vollzug des Ein- und Durchreiseverbots nach Artikel 3.
 
-<sup>3</sup> Die Kontrolle an der Grenze obliegt der Eidgenössischen Zollverwaltung.
+<sup>3</sup> Die Kontrolle an der Grenze obliegt dem Bundesamt für Zoll und Grenzsicherheit[^9-1].
 
 <sup>4</sup> Die zuständigen Behörden ergreifen auf Anweisung des SECO die für die Sperrung wirtschaftlicher Ressourcen notwendigen Massnahmen wie die Anmerkung einer Verfügungssperre im Grundbuch oder die Pfändung oder Versiegelung von Luxusgütern.
+
+[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 10
 
@@ -217,13 +219,16 @@ Artikel 5 Absätze 1–3 und Artikel 6 sind nicht auf Geschäfte anwendbar, die 
 
 Diese Verordnung tritt am 17. Oktober 2018 um 18 Uhr in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 1 Bst. a, 3 Abs. 1, 7 Bst. a und 12)
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36), [1569](https://fedlex.data.admin.ch/eli/oc/2019/295); [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297); [2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185), [253](https://fedlex.data.admin.ch/eli/oc/2021/253), [268](https://fedlex.data.admin.ch/eli/oc/2021/268), [412](https://fedlex.data.admin.ch/eli/oc/2021/412)). Sein Inhalt kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex1-lvlu1-1]
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Jan. 2019 ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), vom 20. Mai 2019 ([AS 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), vom 6. Mai 2020 ([AS 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), vom 31. März 2021 ([AS 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), vom 29. April 2021 ([AS 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), vom 10. Mai 2021 ([AS 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)) und vom 30. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)).
+[^annex1-lvlu1-1]: Der Inhalt kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 2
 

@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Ordinanza del 17 ottobre 2018 che istituisce provvedimenti nei confronti del Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Myanmar
 
-del 17 ottobre 2018 (Stato 1° luglio 2021)
+del 17 ottobre 2018 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -167,9 +167,11 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 
 <sup>2</sup> La SEM sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 3.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’Amministrazione federale delle dogane.
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^9-1].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
+
+[^9-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 10
 
@@ -217,13 +219,16 @@ Gli articoli 5 capoversi 1‒3 e 6 non si applicano ad affari concordati in via 
 
 La presente ordinanza entra in vigore il 17 ottobre 2018 alle ore 18.00.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 cpv. 1 lett. a, 3 cpv. 1, 7 lett. a e 12)
 
 ## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie
 
-[^t-1]: Non è pubblicato né nella RU né nella RS ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36), [1569](https://fedlex.data.admin.ch/eli/oc/2019/295); [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297); [2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185), [253](https://fedlex.data.admin.ch/eli/oc/2021/253), [268](https://fedlex.data.admin.ch/eli/oc/2021/268), [412](https://fedlex.data.admin.ch/eli/oc/2021/412)). È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annex1-lvlu1-1]
+
+[^t-1]: Aggiornato dal n. I delle O del DEFR del 17 gen. 2019 ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), del 20 mag. 2019 ([RU 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), del 6 mag. 2020 ([RU 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), dal n. I dell’O del 31 mar. 2021 ([RU 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), dal n. I delle O del DEFR del 29 apr. 2021 ([RU 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), del 10 mag. 2021 ([RU 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)) e del 30 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)).
+[^annex1-lvlu1-1]: È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 2
 

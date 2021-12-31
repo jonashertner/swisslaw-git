@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: "Ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Myanmar
 
-du 17 octobre 2018 (Etat le 1<sup>er</sup> juillet 2021)
+du 17 octobre 2018 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -134,7 +134,7 @@ La vente, la livraison, l’exportation, le transit et le transport au Myanmar d
 
 <sup>2</sup> La fourniture de services de toutes sortes, y compris les services financiers, les services de courtage et l’assistance technique en rapport avec la vente, la livraison, l’exportation, le transit, la mise à disposition, la fabrication, l’entretien ou l’utilisation des biens visés à l’al. 1, est interdite.
 
-[^6-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 2 OCB peut être consultée sur: [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/industrieprodukte--dual-use--und-besondere-militaerische-gueter/rechtliche-grundlagen-und-gueterlisten--anhaenge-.html) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^6-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 2 OCB peut être consultée sur: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 #### Art. 7
 
@@ -147,7 +147,7 @@ Il est interdit d’honorer les créances des personnes, des entreprises et des 
 - c. les personnes physiques, entreprises et entités au Myanmar;
 - d. les personnes physiques, entreprises et entités agissant selon les instructions ou pour le compte des personnes physiques, entreprises et entités visées aux let. a à c.
 
-[^7-1]: [RO 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429), [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637), [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)
+[^7-1]: [RO 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637); [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)
 
 #### Art. 8
 
@@ -167,9 +167,11 @@ Il est interdit d’honorer les créances des personnes, des entreprises et des 
 
 <sup>2</sup> Le SEM surveille l’exécution de l’interdiction d’entrée et de transit prévue à l’art. 3.
 
-<sup>3</sup> Le contrôle à la frontière incombe à l’Administration fédérale des douanes.
+<sup>3</sup> Le contrôle à la frontière incombe à l’Office fédéral de la douane et de la sécurité des frontières[^9-1].
 
 <sup>4</sup> Sur instruction du SECO, les autorités compétentes prennent les mesures nécessaires au gel des ressources économiques, telles que la mention d’un blocage du registre foncier ou la saisie ou la mise sous scellé de biens de luxe.
+
+[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 10
 
@@ -203,7 +205,7 @@ Le texte de l’annexe 1 n’est publié ni au Recueil officiel du droit fédér
 
 L’ordonnance du 28 juin 2006 instituant des mesures à l’encontre du Myanmar[^13-1] est abrogée.
 
-[^13-1]: [[RO 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429), [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637), [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
+[^13-1]: [[RO 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637); [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
 
 #### Art. 14
 
@@ -223,7 +225,10 @@ Annexe 1[^t-1]
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
-[^t-1]: Non publiée au RO ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36), [1569](https://fedlex.data.admin.ch/eli/oc/2019/295); [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297); [2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185), [253](https://fedlex.data.admin.ch/eli/oc/2021/253), [268](https://fedlex.data.admin.ch/eli/oc/2021/268), [412](https://fedlex.data.admin.ch/eli/oc/2021/412)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex1-lvlu1-1]
+
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)) et du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 à 18 heures ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)).
+[^annex1-lvlu1-1]: Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 2
 
@@ -277,7 +282,7 @@ Annexe 2
 - 11 Technologies spécifiques requises pour le développement, la production ou l’utilisation des biens visés dans la présente liste.
 
 [^annex2-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
-[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 3 de l’OCB peut être consultée sur [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/industrieprodukte--dual-use--und-besondere-militaerische-gueter/rechtliche-grundlagen-und-gueterlisten--anhaenge-.html) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
+[^annex2-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)L’annexe 3 de l’OCB peut être consultée sur [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Économie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Produits industriels et biens militaires spécifiques &gt; Bases légales et listes des biens.
 
 Annexe 3
 
