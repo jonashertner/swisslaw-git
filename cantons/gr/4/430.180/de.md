@@ -4,35 +4,38 @@ number: "430.180"
 title: Gebührenverordnung für das Amt für Berufsbildung
 short: GebVAFB
 language: de
-version: 2008-01-01
-corrected: 2014-10-09
-version_adopted: 2008-02-05
+version: 2022-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-01-25
 adopted: 2008-02-05
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/430.180"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/208/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3234/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gebührenverordnung für das Amt für Berufsbildung
 
-Gestützt auf Art. 45 der Kantonsverfassung[^t-1]
+Vom 05.02.2008 (Stand 01.01.2022)
+
+Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
 von der Regierung erlassen am 5. Februar 2008
 
-[^t-1]: BR 110.100
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
 #### Art. 1
 
 **Berufs-, Studien- und Laufbahnberatung**
 
-<sup>1</sup> Für Beratungssitzungen im Rahmen der Berufs-, Laufbahn- und Studienberatung erhebt das Amt von Personen, welche das 20. Altersjahr vollendet und ihre berufliche Erstausbildung oder eine Mittelschule abgeschlossen haben, eine Pauschale von 150 Franken als Kostenbeteiligung.
+<sup>1</sup> Für Beratungssitzungen im Rahmen der Berufs-, Laufbahn- und Studienberatung erhebt das Amt von Personen, welche ausserhalb des Kantons wohnhaft sind, eine Kostenbeteiligung von 150 Franken pro Beratungsstunde.
 
-<sup>2</sup> Die Kostenbeteiligung umfasst maximal drei Beratungssitzungen während eines Jahres. Die Pauschale wird mit der ersten Beratungssitzung fällig. Bei ausgewiesener finanzieller Notlage kann das Amt auf schriftliches und begründetes Gesuch hin auf eine Kostenbeteiligung verzichten.
+<sup>2</sup> Bei ausgewiesener finanzieller Notlage kann das Amt auf schriftliches und begründetes Gesuch hin auf eine Kostenbeteiligung verzichten.
 
-<sup>3</sup> Für Beratungen von Personen, welche ausserhalb des Kantons wohnhaft sind, beträgt die Kostenbeteiligung 150 Franken pro Beratungsstunde.
+<sup>3</sup> Für Beratungen von Personen, welche innerhalb des Kantons wohnhaft sind, wird keine Gebühr erhoben.
+
+<sup>4</sup> Für Beratungssitzungen im Rahmen der Berufs-, Laufbahn- und Studienberatung im Auftrag Dritter schliesst das Amt mit diesen eine Leistungsvereinbarung ab und erhebt von denselben eine Kostenbeteiligung von 150 Franken pro Beratungsstunde.
 
 #### Art. 2
 
@@ -40,17 +43,10 @@ von der Regierung erlassen am 5. Februar 2008
 
 <sup>1</sup> Das Amt erhebt folgende Gebühren für:
 
-**Fr. 50.– Fr. 50.–**
-
-- a) Erstellen von Duplikaten von Fähigkeitszeugnissen und Berufsattesten
-
-- b) Erstellen von Duplikaten von Notenausweisen
-
-**Fr. 50.– Fr. 50.–**
-
-- c) Erstellen von Duplikaten von Ausweisen und Diplomen für Berufsbildende in beruflicher Praxis
-
-- d) Übersetzen von Fähigkeitszeugnissen
+- a) Erstellen von Duplikaten von Fähigkeitszeugnissen und Berufsattesten: Fr. 50.–
+- b) Erstellen von Duplikaten von Notenausweisen: Fr. 50.–
+- c) Erstellen von Duplikaten von Ausweisen und Diplomen für Berufsbildende in beruflicher Praxis: Fr. 50.–
+- d) Übersetzen von Fähigkeitszeugnissen: Fr. 50.–
 
 <sup>2</sup> Liegen ausserordentliche Umstände vor, kann das Amt die vorstehenden Gebühren erhöhen oder ganz erlassen.
 
@@ -58,22 +54,20 @@ von der Regierung erlassen am 5. Februar 2008
 
 **Mehrwertsteuer und Versandspesen**
 
-Mehrwertsteuer und Versandspesen werden zum Rechnungsbetrag dazugeschlagen.
+<sup>1</sup> Mehrwertsteuer und Versandspesen werden zum Rechnungsbetrag dazugeschlagen.
 
 #### Art. 4
 
 **Aufhebung bisherigen Rechts**
 
-Die Gebührenverordnung für das Amt für Berufsbildung vom 13. Juli 1993[^4-1] wird aufgehoben.
+<sup>1</sup> Die Gebührenverordnung für das Amt für Berufsbildung vom 13. Juli 1993[^4-1] wird aufgehoben.
 
-[^4-1]: AGS 1993, 2821 und AGS 1998, 4202 1.07.2008 1
+[^4-1]: AGS 1993, 2821 und AGS 1998, 4202
 
 #### Art. 5
 
 **Inkrafttreten**
 
-Diese Verordnung tritt rückwirkend auf den 1. Januar 2008 in Kraft.
+<sup>1</sup> Diese Verordnung tritt rückwirkend auf den 1. Januar 2008 in Kraft.
 
-**2**
-
-1.07.2008
+-
