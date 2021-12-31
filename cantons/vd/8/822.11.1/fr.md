@@ -4,7 +4,7 @@ number: "822.11.1"
 title: "RÈGLEMENT du 07.12.2005 d'application de la loi du 5 juillet 2005 sur l'emploi (RLEmp)"
 short: RLEmp
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/822.11.1?id=074bb949-3cac-4798-8e6f-a598204bedf0"
 ---
 
@@ -222,6 +222,66 @@ arrête
 
 [^6d-2]: Modif. 11 du 21.11.2018: Introduction tArt; entrée en vigueur au 01.01.2019; Introduction Al. 1-2; entrée en vigueur au 01.01.2019; Introduction Art. 6e; entrée en vigueur au 01.01.2019
 [^6e-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^6e-2]: Modif. 14 du 24.11.2021: Introduction ; entrée en vigueur au 01.01.2022
+
+### Section Ibis Caisse cantonale de chômage (CCh)
+
+[^6e-2]
+
+#### Art. 6f
+
+**Statut (Art. 16 LEmp) [^sectionSectionIbis-1]**
+
+<sup>1</sup> Le canton de Vaud, en tant que fondateur, gère sous le nom de Caisse cantonale de chômage (ci-après : CCh) une caisse de chômage publique au sens de la loi fédérale sur l'assurance-chômage obligatoire et l'indemnité en cas d'insolvabilité (ci-après : LACI).
+
+<sup>2</sup> La CCh est une entité du SDE.
+
+<sup>3</sup> La CCh n'est pas dotée de la personnalité juridique. Elle traite cependant à l'extérieur en son propre nom et a qualité pour agir en justice conformément à l'article 79, alinéa 2, LACI.
+
+<sup>4</sup> La comptabilité de la CCh est soumise aux instructions du Secrétariat d'Etat à l'économie (ci-après : SECO).
+
+[^sectionSectionIbis-1]: Modif. 14 du 24.11.2021: Introduction tArt; entrée en vigueur au 01.01.2022; Introduction Al. 1-4; entrée en vigueur au 01.01.2022; Introduction Art. 6f; entrée en vigueur au 01.01.2022
+
+#### Art. 6g
+
+**Organisation et compétences (Art. 16 LEmp) [^6f-1]**
+
+<sup>1</sup> Des offices de paiement peuvent être créés dans les districts ou par régions.
+
+<sup>2</sup> La CCh est engagée par la signature collective à deux du chef de caisse et de l'un des collaborateurs qu'il désigne.
+
+<sup>3</sup> Les collaborateurs de la CCh sont soumis à la loi sur le personnel de l'Etat de Vaud (LPers). L'autorité d'engagement est le chef du Service de l'emploi.
+
+[^6f-1]: Modif. 14 du 24.11.2021: Introduction tArt; entrée en vigueur au 01.01.2022; Introduction Al. 1-3; entrée en vigueur au 01.01.2022; Introduction Art. 6g; entrée en vigueur au 01.01.2022
+
+#### Art. 6h
+
+**Champ d'activité et tâches (Art. 16 LEmp) [^6g-1]**
+
+<sup>1</sup> La CCh est accessible à :
+
+- a. tous les assurés en principe domiciliés dans le Canton ;
+- b. tous les frontaliers assurés ;
+- c. toutes les entreprises sises dans le Canton.
+
+<sup>2</sup> La CCh a notamment pour tâches de :
+
+- a. verser les indemnités prévues par la LACI et la LEmp en faveur des assurés ;
+- b. verser les prestations prévues par la LACI en faveur des employeurs ;
+- c. verser l'indemnité en cas d'insolvabilité aux travailleurs dépendant d'employeurs insolvables qui ont leur siège dans le canton ;
+- d. gérer pour le compte du SDE, l'assurance cantonale perte de gain en cas de maladie pour les bénéficiaires d'indemnités de chômage domiciliés sur le territoire cantonal (art. 19a LEmp et suivants).
+
+[^6g-1]: Modif. 14 du 24.11.2021: Introduction tArt; entrée en vigueur au 01.01.2022; Introduction Al. 1-2; entrée en vigueur au 01.01.2022; Introduction Art. 6h; entrée en vigueur au 01.01.2022
+
+#### Art. 6i
+
+**Gestion et responsabilité (Art. 16 LEmp) [^6h-1]**
+
+<sup>1</sup> Le contrôle de la gestion, la révision des paiements et la surveillance sont effectués conformément aux articles 83, alinéa 1, lettres c à h et 110 LACI.
+
+<sup>2</sup> La responsabilité de la CCh envers les assurés et les tiers est régie par l'article 82a LACI. En cas de collaboration avec d'autres fondateurs de caisses de chômage, chaque fondateur répond du dommage selon les articles 82 et 82a LACI.
+
+[^6h-1]: Modif. 14 du 24.11.2021: Introduction tArt; entrée en vigueur au 01.01.2022; Introduction Al. 1-2; entrée en vigueur au 01.01.2022; Introduction Art. 6i; entrée en vigueur au 01.01.2022
 
 ### Section II Commission tripartite ORP
 
@@ -366,7 +426,7 @@ arrête
 
 **Taux de cotisation (Art. 19m, al. 2 LEmp) [^10i-1]**
 
-<sup>1</sup> Le taux de cotisation prélevé sur les indemnités de chômage, ainsi que sur les prestations versées au titre de l'APGM, est fixé à 2%.
+<sup>1</sup> Le taux de cotisation prélevé sur les indemnités de chômage, ainsi que sur les prestations versées au titre de l'APGM, est fixé à 1.8%.
 
 [^10i-1]: Modif. 6 du 22.02.2012: Introduction Art. 10j; entrée en vigueur au 01.04.2012 · Modif. 7 du 19.06.2013: Modification Al. 1; entrée en vigueur au 01.08.2013 · Modif. 8 du 28.10.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 10 du 08.03.2017: Modification Al. 1; entrée en vigueur au 01.04.2017 · Modif. 12 du 25.11.2020: Modification Al. 1; entrée en vigueur au 01.01.2021 · Modif. 13 du 10.11.2021: Modification Al. 1; entrée en vigueur au 01.01.2022 · Modif. 15 du 01.03.2023: Modification Al. 1; entrée en vigueur au 01.03.2023 · Modif. 16 du 27.03.2024: Modification Al. 1; entrée en vigueur au 01.04.2024
 
@@ -442,11 +502,11 @@ arrête
 
 #### Art. 12a
 
-**Emploi convenable (Art. 23a LEmp) [^sectionSectionIbis-1]**
+**Emploi convenable (Art. 23a LEmp) [^sectionSectionIbis-2]**
 
 <sup>1</sup> La notion de travail convenable figurant à l'article 16 LACI [^12a-1] est applicable aux bénéficiaires du RI, à l'exception de l'alinéa 2, lettre i.
 
-[^sectionSectionIbis-1]: Modif. 4 du 01.10.2008: Introduction Art. 12a; entrée en vigueur au 01.11.2008
+[^sectionSectionIbis-2]: Modif. 4 du 01.10.2008: Introduction Art. 12a; entrée en vigueur au 01.11.2008
 [^12a-1]: Loi fédérale du 25.06.1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité (RS 837.0)
 
 #### Art. 12b
