@@ -4,11 +4,11 @@ title: Nuclear Energy Ordinance of 10 December 2004 (NEO)
 short: NEO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: en
-version: 2019-02-01
+version: 2022-01-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20190201/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20190201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20190201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEO)
 
-of 10 December 2004 (Status as of 1 February 2019)
+of 10 December 2004 (Status as of 1 January 2022)
 
 The Federal Council,
 
@@ -268,15 +268,17 @@ The Federal Office is responsible for:
 
 <sup>2</sup>
 
-The documents must provide all the necessary information for assessing the application, including in particular:
+The documents must provide all the necessary information for assessing the application, including in particular information on:[^15-1]
 
-- a. composition and properties of the material;
-- b. specific technical data concerning the equipment;
-- c. place of manufacture;
-- d. destination and recipient;
-- e. designated purpose;
-- f. conditions of purchase or sale;
-- g. transport, in particular evidence of compliance with the requirements on the carriage of dangerous goods.
+- a. the composition and properties of the material;
+- b. the specific technical data concerning the equipment;
+- c. the place of manufacture;
+- d. the destination and recipient;
+- e. the designated purpose;
+- f. the conditions of purchase or sale;
+- g. transport, in particular evidence of compliance with the requirements on the carriage of dangerous goods;
+- h.[^15-2] the owners of a nuclear installation that are liable in accordance with Article 2 letter b of the Nuclear Energy Public Liability Act of 13 June 2008[^15-3];
+- i.[^15-4] proof of cover in accordance with den Articles 1 letter c und 2 paragraph 3 of the Nuclear Energy Public Liability Ordinance of 25 March 2015[^15-5].
 
 <sup>3</sup>
 
@@ -303,6 +305,12 @@ On request, the holder of a licence for the mediation of nuclear materials must 
 - e. contractual partner(s).
 
 <sup>5</sup> The Federal Office reserves the right to request additional documentation.
+
+[^15-1]: Amended by Art. 21 para. 2 of the Nuclear Energy Public Liability Ordinance of 25 March 2015, in force since 1 Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-2]: Inserted by Art. 21 para. 2 of the Nuclear Energy Public Liability Ordinance of 25 March 2015, in force since 1 Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^15-4]: Inserted by Art. 21 para. 2 of the Nuclear Energy Public Liability Ordinance of 25 March 2015, in force since 1 Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-5]: [SR 732.441](https://fedlex.data.admin.ch/eli/cc/2021/860)
 
 #### Art. 16
 
@@ -1356,7 +1364,7 @@ The following Ordinances are repealed:
 
 [^80-1]: [[AS 1979 972](https://fedlex.data.admin.ch/eli/oc/1979/972_972_972)]
 [^80-2]: [[AS 1989 2476](https://fedlex.data.admin.ch/eli/oc/1989/2476_2476_2476)]
-[^80-3]: [[AS 1984 209](https://fedlex.data.admin.ch/eli/oc/1984/209_209_209), [1987 546](https://fedlex.data.admin.ch/eli/oc/1987/546_546_546)[1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484), [1991 1450](https://fedlex.data.admin.ch/eli/oc/1991/1450_1450_1450), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex, No 10, [1994 140](https://fedlex.data.admin.ch/eli/oc/1994/140_140_140), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)No I 65, [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128), [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Art. 29]
+[^80-3]: [[AS 1984 209](https://fedlex.data.admin.ch/eli/oc/1984/209_209_209); [1987 546](https://fedlex.data.admin.ch/eli/oc/1987/546_546_546), [1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484); [1991 1450](https://fedlex.data.admin.ch/eli/oc/1991/1450_1450_1450); [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Annex No 10; [1994 140](https://fedlex.data.admin.ch/eli/oc/1994/140_140_140); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)No I 65; [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128); [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Art. 29]
 [^80-4]: [[AS 1983 283](https://fedlex.data.admin.ch/eli/oc/1983/283_283_283)]
 
 #### Art. 81
@@ -1422,7 +1430,7 @@ Annex 2*[^t-2]*
 
 The arrangement of security zones, areas and barriers must be based on the following model:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20190201/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/en/xml/image/image1.png)
 
 The various security barriers perform the following functions:
 

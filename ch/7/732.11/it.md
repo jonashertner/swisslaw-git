@@ -4,11 +4,11 @@ title: "Ordinanza del 10 dicembre 2004 sull'energia nucleare (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: it
-version: 2019-02-01
+version: 2022-01-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20190201/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20190201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20190201/it"
 
 (OENu)
 
-del 10 dicembre 2004 (Stato 1° febbraio 2019)
+del 10 dicembre 2004 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -64,7 +64,7 @@ Non sono considerati materiali nucleari:
 - b. i materiali grezzi e i prodotti ricavati dai materiali grezzi che non vengono utilizzati per la produzione di energia mediante processi di fissione nucleare, segnatamente schermi di protezione, sonde per strumenti di misura, composti ceramici e leghe;
 - c. i materiali fissili speciali fino a un quantitativo di 15 g nonché i prodotti ricavati dai materiali fissili speciali che non vengono utilizzati per la produzione di energia mediante processi di fissione nucleare, segnatamente sonde per strumenti di misura e altri prodotti finiti dai quali i materiali fissili speciali possono essere recuperati unicamente con un dispendio di mezzi tecnici o economici sproporzionato.
 
-[^1-1]: Nuovo testo giusta il n. II 2 dell’all. 6 all’O del 21 mar. 2012 sull’applicazione delle salvaguardie, in vigore dal 1° mag. 2012 ([RU 2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)).
+[^1-1]: Nuovo testo giusta l’all. 6 n. II 2 dell’O del 21 mar. 2012 sull’applicazione delle salvaguardie, in vigore dal 1° mag. 2012 ([RU 2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)).
 
 #### Art. 2
 
@@ -112,7 +112,7 @@ Le autorità di vigilanza sono:
 - a. per quanto concerne la sicurezza nucleare e la sicurezza esterna, l’Ispettorato federale della sicurezza nucleare (IFSN);
 - b. per i rimanenti settori nell’esecuzione della LENu, l’Ufficio federale.
 
-[^6-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Capitolo 2: Principi relativi alla sicurezza nucleare interna ed esterna
 
@@ -187,7 +187,7 @@ Alle centrali nucleari si applicano in particolare i seguenti principi:
 
 <sup>2</sup> L’IFSN è incaricato di disciplinare mediante direttive i principi specifici per la progettazione di reattori ad acqua leggera.[^10-1]
 
-[^10-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^10-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 11
 
@@ -212,7 +212,7 @@ Un deposito in strati geologici profondi dev’essere predisposto in modo che:
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive i principi specifici per la progettazione dei siti per i depositi in strati geologici profondi.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^11-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 12
 
@@ -229,7 +229,7 @@ In aggiunta, un deposito intermedio per scorie radioattive dev’essere progetta
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare, all’occorrenza, mediante direttive i principi specifici per la progettazione di altri tipi di impianti nucleari.[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^12-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Capitolo 3: Beni nucleari
 
@@ -243,7 +243,7 @@ L’Ufficio federale è competente per il rilascio:
 - a.<sup>bis</sup> [^13-1] di licenze per l’esportazione e l’intermediazione di tecnologia concernente materiali nucleari;
 - b.[^13-2] dell’approvazione di convenzioni sul ritiro di scorie radioattive.
 
-[^13-1]: Introdotta dal n. 1 dell’all. 8 all’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^13-1]: Introdotta dall’all. 8 n. 1 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 [^13-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
 
 #### Art. 14
@@ -256,7 +256,7 @@ L’Ufficio federale è competente per il rilascio:
 
 <sup>3</sup> Negli altri casi decide d’intesa con gli organi competenti del Dipartimento federale degli affari esteri, del Dipartimento federale dell’economia, della formazione e della ricerca e del Dipartimento federale della difesa, della protezione della popolazione e dello sport e dopo aver consultato il Servizio delle attività informative della Confederazione. Se non è raggiunta un’intesa decide il Consiglio federale su proposta del Dipartimento.
 
-[^14-1]: Nuovo testo giusta il n. 1 dell’all. 8 all’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^14-1]: Nuovo testo giusta l’all. 8 n. 1 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 
 #### Art. 15
 
@@ -266,7 +266,7 @@ L’Ufficio federale è competente per il rilascio:
 
 <sup>2</sup>
 
-La documentazione deve contenere tutti i dati necessari alla valutazione della domanda, in particolare:
+La documentazione deve contenere tutti i dati necessari alla valutazione della domanda, in particolare i dati concernenti:[^15-1]
 
 - a. la composizione e le proprietà del materiale;
 - b. le particolarità tecniche dell’equipaggiamento;
@@ -274,7 +274,9 @@ La documentazione deve contenere tutti i dati necessari alla valutazione della d
 - d. il luogo di destinazione e il destinatario;
 - e. lo scopo di utilizzazione;
 - f. le condizioni d’acquisto o di vendita;
-- g. il trasporto, in particolare la prova che i requisiti in materia di trasporto di merci pericolose sono rispettati.
+- g. il trasporto, in particolare la prova che i requisiti in materia di trasporto di merci pericolose sono rispettati;
+- h.[^15-2] l’esercente civilmente responsabile di un impianto nucleare (art. 2 lett. b della legge federale del 13 giugno 2008[^15-3] sulla responsabilità civile in materia nucleare);
+- i.[^15-4] la prova della copertura secondo gli articoli 1 lettera b e 2 capoverso 3 dell’ordinanza del 25 marzo 2015[^15-5] sulla responsabilità civile in materia nucleare.
 
 <sup>3</sup>
 
@@ -302,6 +304,12 @@ Su richiesta, il titolare di una licenza per l’intermediazione di materiali nu
 
 <sup>5</sup> L’Ufficio federale può, all’occorrenza, richiedere della documentazione supplementare.
 
+[^15-1]: Nuovo testo giusta l’art. 21 cpv. 2 dell’O del 25 mar. 2015 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022 ([RU 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-2]: Introdotta dall’art. 21 cpv. 2 dell’O del 25 mar. 2015 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022 ([RU 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^15-4]: Introdotta dall’art. 21 cpv. 2 dell’O del 25 mar. 2015 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022 ([RU 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-5]: [RS 732.441](https://fedlex.data.admin.ch/eli/cc/2021/860)
+
 #### Art. 16
 
 **Accertamenti preliminari**
@@ -322,7 +330,7 @@ Sono equiparate a importazioni ed esportazioni le forniture:
 - b. in provenienza o a destinazione di organizzazioni internazionali;
 - c. in provenienza o a destinazione di depositi doganali aperti, depositi di merci di gran consumo, depositi franchi doganali o enclavi doganali.
 
-[^17-1]: Nuovo testo giusta il n. 31 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^17-1]: Nuovo testo giusta l’all. 4 n. 31 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 18
 
@@ -334,7 +342,7 @@ Le licenze sono rilasciate per un periodo di dodici mesi al massimo e possono es
 
 [^19-1]
 
-[^19-1]: Abrogato dal n. 1 dell’all. 8 all’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, con effetto dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^19-1]: Abrogato dall’all. 8 n. 1 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, con effetto dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 
 #### Art. 20
 
@@ -366,9 +374,9 @@ Egli deve notificare senza indugio all’IFSN i seguenti eventi e riscontri atti
 
 <sup>3</sup> Per ogni evento o riscontro egli deve presentare all’IFSN un rapporto. Il rapporto sugli eventi e riscontri attinenti al settore della sicurezza dev’essere allestito secondo l’allegato 6. Il rapporto relativo al settore della sicurezza dev’essere presentato e classificato entro 30 giorni.[^21-3]
 
-[^21-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^21-2]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^21-3]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^21-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^21-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^21-3]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Capitolo 4: Impianti nucleari
 
@@ -383,8 +391,8 @@ Egli deve notificare senza indugio all’IFSN i seguenti eventi e riscontri atti
 <sup>2</sup> L’IFSN è incaricato di disciplinare mediante direttive la metodica e le condizioni marginali per l’analisi degli incidenti richiesta dal capoverso 1.[^22-3]
 
 [^22-1]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^22-2]: Nuovo testo giusta il n. 4 dell’all. 11 all’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^22-3]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^22-2]: Nuovo testo giusta l’all. 11 n. 4 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^22-3]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 23
 
@@ -436,7 +444,7 @@ Deve a tal fine fornire la seguente documentazione:
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive il genere, il contenuto, la forma e il numero di esemplari della necessaria documentazione.[^24-2]
 
 [^24-1]: Abrogata dal n. I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
-[^24-2]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^24-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 25
 
@@ -450,7 +458,7 @@ Deve a tal fine fornire la seguente documentazione:
 
 <sup>4</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati cui deve adempiere il programma di gestione della qualità.[^25-1]
 
-[^25-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^25-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 26
 
@@ -468,8 +476,8 @@ Per quanto concerne gli edifici e le parti dell’impianto che necessitano del n
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive il genere, il contenuto, la forma e il numero di esemplari della necessaria documentazione.[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^26-2]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^26-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^26-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 27
 
@@ -485,8 +493,8 @@ Per quanto concerne gli edifici e le parti dell’impianto che necessitano del n
 
 <sup>5</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati concernenti la documentazione e la sua conservazione.[^27-2]
 
-[^27-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^27-2]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^27-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^27-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### Sezione 3: Licenza d’esercizio
 
@@ -505,7 +513,7 @@ Il richiedente di una licenza d’esercizio deve presentare la documentazione se
 
 <sup>2</sup> L’IFSN è incaricato di disciplinare mediante direttive il genere, il contenuto, la forma e il numero di esemplari della necessaria documentazione.[^28-1]
 
-[^28-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^28-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 29
 
@@ -527,7 +535,7 @@ La licenza d’esercizio prevede, segnatamente per le seguenti fasi della messa 
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive il genere, il contenuto, la forma e il numero di esemplari della necessaria documentazione.[^29-1]
 
-[^29-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^29-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 30
 
@@ -557,7 +565,7 @@ L’esercizio dell’impianto nucleare dev’essere organizzato in modo che la r
 
 L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati in materia di organizzazione.[^30-1]
 
-[^30-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^30-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 31
 
@@ -613,7 +621,7 @@ Deve allestire valutazioni sistematiche della sicurezza esterna nei seguenti set
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati relativi alle valutazioni sistematiche della sicurezza interna ed esterna.[^33-1]
 
-[^33-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^33-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 34
 
@@ -667,7 +675,7 @@ La prova della sicurezza per l’esercizio a lungo termine contiene segnatamente
 
 <sup>4</sup> L’IFSN è incaricata di disciplinare mediante direttive i metodi e la portata della sorveglianza dell’invecchiamento.[^35-1]
 
-[^35-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^35-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 36
 
@@ -694,8 +702,8 @@ Deve seguire l’evoluzione della tecnica, compresi gli aspetti legati all’org
 
 <sup>2</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti per il genere, il contenuto, la forma e il numero di esemplari dei suddetti rapporti.[^37-2]
 
-[^37-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^37-2]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^37-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^37-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 38
 
@@ -732,7 +740,7 @@ Egli notifica all’IFSN i seguenti eventi e riscontri:
 
 <sup>5</sup> L’IFSN è incaricato di disciplinare mediante direttive la procedura da seguire per le notifiche secondo i capoversi 1 e 2 e per la classificazione di eventi e riscontri secondo il capoverso 3.
 
-[^38-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^38-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 39
 
@@ -760,7 +768,7 @@ Egli notifica senza indugio all’IFSN i seguenti eventi e riscontri:
 
 <sup>3</sup> Per ogni evento o riscontro presenta senza indugio all’IFSN un rapporto entro 30 giorni. Il rapporto deve essere classificato.
 
-[^39-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 40
 
@@ -800,7 +808,7 @@ Sono considerate di regola modifiche non essenziali in deroga alla licenza e sog
 
 <sup>5</sup> L’IFSN è incaricato di disciplinare mediante direttive il genere, il contenuto, la forma e il numero di esemplari della necessaria documentazione.[^40-1]
 
-[^40-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^40-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 41
 
@@ -816,8 +824,8 @@ Sono considerate di regola modifiche non essenziali in deroga alla licenza e sog
 
 <sup>5</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati concernenti la documentazione e la sua conservazione.[^41-2]
 
-[^41-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^41-2]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^41-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^41-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 42
 
@@ -912,7 +920,7 @@ La decisione di disattivazione disciplina l’obbligo del nullaosta segnatamente
 
 Chi è soggetto all’obbligo di disattivazione deve presentare all’IFSN un rapporto annuo sullo stato dei lavori e un rapporto finale.
 
-[^48-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^48-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 49
 
@@ -989,7 +997,7 @@ Chi è soggetto all’obbligo di smaltimento delle scorie indica nel relativo pr
 
 <sup>3</sup> L’IFSN e l’Ufficio federale sono competenti per la verifica e la sorveglianza del rispetto del programma.[^52-1]
 
-[^52-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^52-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### Sezione 2: Declassamento e condizionamento
 
@@ -1004,8 +1012,8 @@ Chi è soggetto all’obbligo di smaltimento delle scorie indica nel relativo pr
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati per il declassamento e per l’obbligo di notifica.[^53-3]
 
 [^53-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^53-2]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^53-3]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^53-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^53-3]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 54
 
@@ -1030,8 +1038,8 @@ La domanda dev’essere corredata della documentazione necessaria alla valutazio
 
 <sup>6</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati per il condizionamento e per la documentazione della domanda.[^54-2]
 
-[^54-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^54-2]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^54-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^54-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### Sezione 3: Manipolazione di scorie radioattive
 
@@ -1272,7 +1280,7 @@ La documentazione deve contenere:
 
 L’IFSN esprime il suo parere in merito alle domande di licenze e d’approvazione di progetti secondo gli articoli 49–63 LENu.
 
-[^73-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^73-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 74
 
@@ -1300,8 +1308,8 @@ Non sono pubblicate né esposte pubblicamente:
 
 <sup>4</sup> …[^75-2]
 
-[^75-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^75-2]: Abrogato dal n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, con effetto dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^75-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^75-2]: Abrogato dall’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, con effetto dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 76
 
@@ -1316,7 +1324,7 @@ L’IFSN informa senza indugio l’opinione pubblica in caso di eventi e riscont
 
 <sup>2</sup> In caso di particolari eventi e riscontri di interesse pubblico che non soggiacciono al capoverso 1, l’IFSN provvede a informare l’opinione pubblica.
 
-[^76-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^76-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 77
 
@@ -1326,7 +1334,7 @@ L’IFSN informa senza indugio l’opinione pubblica in caso di eventi e riscont
 
 <sup>2</sup> Il sostegno avviene in forma di aiuti finanziari o attraverso la partecipazione di collaboratori dell’Ufficio federale o dell’IFSN.[^77-1]
 
-[^77-1]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^77-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Capitolo 7: Disposizioni penali e finali
 
@@ -1390,7 +1398,7 @@ Allegato 1*[^t-1]*
 
 ## Definizioni
 
-[^t-1]: Aggiornato dal n. 1 dell’all. 8 all’O del 3 giu. 2016 sul controllo dei beni a duplice impiego ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)) e dal n. 4 dell’all. 11 all’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^t-1]: Aggiornato dall’all. 8 n. 1 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)) e dell’all. 11 n. 4 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 Nella presente ordinanza, s’intende per:
 
@@ -1415,13 +1423,13 @@ Allegato 2*[^t-2]*
 
 ## Principi per la sicurezza esterna di impianti nucleari, materiali nucleari e scorie radioattive
 
-[^t-2]: Aggiornato dal n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^t-2]: Aggiornato dall’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### 1. Sicurezza esterna di impianti nucleari
 
 La disposizione delle zone o aree e delle barriere rilevanti per la sicurezza esterna deve avvenire in maniera scaglionata secondo il seguente schema:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20190201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/it/xml/image/image1.png)
 
 Le diverse barriere di sicurezza esterna assolvono le seguenti funzioni:
 
@@ -1480,7 +1488,7 @@ Allegato 3*[^t-3]*
 
 ## Documentazione relativa all’esercizio
 
-[^t-3]: Aggiornato dal n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)) e dal n. 4 dell’all. 11 all’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^t-3]: Aggiornato dall’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)) e dell’all. 11 n. 4 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 La documentazione relativa all’esercizio di un impianto nucleare si compone di documenti organizzativi e tecnici, come pure di dati operativi.
 
@@ -1671,7 +1679,7 @@ Allegato 5*[^t-4]*
 
 ## Rendiconto periodici
 
-[^t-4]: Nuovo testo giusta il n. 12 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^t-4]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 <table>
 <tr><th>Rapporto</th><th>Contenuto/termine d’inoltro</th><th>Periodicità</th></tr>
@@ -1696,7 +1704,7 @@ Allegato 6*[^t-5]*
 
 ## Rapporto su eventi e riscontri nell’ambito della sicurezza interna
 
-[^t-5]: Nuovo testo giusta il n. 4 dell’all. 11 all’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). La correzione del 16 ott. 2018 concerne soltanto il testo francese ([RU 2018 3441](https://fedlex.data.admin.ch/eli/oc/2018/559)).
+[^t-5]: Nuovo testo giusta l’all. 11 n. 4 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). La correzione del 16 ott. 2018 concerne soltanto il testo francese ([RU 2018 3441](https://fedlex.data.admin.ch/eli/oc/2018/559)).
 
 ### A. Rapporto su eventi e rapporto sulle misure successive
 

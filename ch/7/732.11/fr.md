@@ -4,11 +4,11 @@ title: "Ordonnance du 10 décembre 2004 sur l'énergie nucléaire (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: fr
-version: 2019-02-01
+version: 2022-01-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20190201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20190201/fr"
 
 (OENu)
 
-du 10 décembre 2004 (Etat le 1<sup>er</sup> février 2019)
+du 10 décembre 2004 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -64,7 +64,7 @@ Ne sont pas réputées matières nucléaires:
 - b. les matières brutes et les produits tirés de matières brutes qui ne servent pas à la production d’énergie par fission nucléaire, en particulier les blindages, les capteurs dans des instruments de mesure, les alliages céramiques et autres alliages;
 - c. les matières fissiles spéciales jusqu’à un poids de 15 g et les produits tirés de matières fissiles spéciales qui ne servent pas à la production d’énergie par fission nucléaire, en particulier les capteurs dans des instruments de mesure et autres produits finis dont seul un effort technique et économique excessif permettrait d’extraire des matières fissiles spéciales.
 
-[^1-1]: Nouvelle teneur selon le ch. II 2 de l’annexe 6 à l’O du 21 mars 2012 sur l’application de garanties, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)).
+[^1-1]: Nouvelle teneur selon l’annexe 6 ch. II 2 de l’O du 21 mars 2012 sur l’application de garanties, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)).
 
 #### Art. 2
 
@@ -112,7 +112,7 @@ Les autorités de surveillance sont:
 - a. l’Inspection fédérale de la sécurité nucléaire (IFSN) pour la sécurité et la sûreté nucléaire,
 - b. l’office pour les autres domaines relevant de l’exécution de la LEnu.
 
-[^6-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Chapitre 2 Principes de la sécurité nucléaire et de la sûreté
 
@@ -137,7 +137,7 @@ Les mesures suivantes doivent être prises pour assurer la sécurité nucléaire
 
 <sup>3</sup> Sont réputées défaillances ayant leur origine à l’extérieur de l’installation en particulier les défaillances causées par un tremblement de terre, par une inondation, par la chute accidentelle d’un aéronef civil ou militaire sur l’installation, par une rafale de vent, par la foudre, par une onde de choc, par l’incendie, par la perte de l’alimentation externe en électricité et par l’entrave ou une coupure de l’alimentation externe en eau de refroidissement.
 
-<sup>4</sup> En concevant une installation nucléaire conformément à l’art. 7, let. c, on devra classer les défaillances visées à l’al. 2 et celles visées à l’al. 3 qui ne sont pas causées par des événements naturels selon la fréquence indiquée à l’art. 123, al. 2, ORaP[^8-1]. A cet égard, les hypothèses devront prévoir une erreur isolée qui viendra s’ajouter à l’événement déclencheur. On devra démontrer que les limites de dose visées à l’art. 123, al. 2, ORaP peuvent être respectées.[^8-2]
+<sup>4</sup> En concevant une installation nucléaire conformément à l’art. 7, let. c, on devra classer les défaillances visées à l’al. 2 et celles visées à l’al. 3 qui ne sont pas causées par des événements naturels selon la fréquence indiquée à l’art. 123, al. 2, ORaP[^8-1]. À cet égard, les hypothèses devront prévoir une erreur isolée qui viendra s’ajouter à l’événement déclencheur. On devra démontrer que les limites de dose visées à l’art. 123, al. 2, ORaP peuvent être respectées.[^8-2]
 
 <sup>4bis</sup>
 
@@ -146,7 +146,7 @@ En concevant une installation nucléaire conformément à l’art. 7, let. c, on
 - a. ne dépasse pas 1 mSv pour un événement d’une fréquence de 10<sup>-3</sup> par année;
 - b. ne dépasse pas 100 mSv pour un événement d’une fréquence de 10<sup>-4</sup> par année.[^8-3]
 
-<sup>5</sup> Une analyse probabiliste doit démontrer qu’il existe aussi une protection suffisante contre les défaillances hors dimensionnement. A cet égard, les mesures préventives ou destinées à atténuer les effets néfastes visés à l’art. 7, let. d, peuvent être prises en compte.[^8-4]
+<sup>5</sup> Une analyse probabiliste doit démontrer qu’il existe aussi une protection suffisante contre les défaillances hors dimensionnement. À cet égard, les mesures préventives ou destinées à atténuer les effets néfastes visés à l’art. 7, let. d, peuvent être prises en compte.[^8-4]
 
 <sup>6</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (département) fixe dans une ordonnance les hypothèses spécifiques de risque et les critères d’évaluation.
 
@@ -187,7 +187,7 @@ Les principes ci-après, en particulier, s’appliquent aux centrales nucléaire
 
 <sup>2</sup> L’IFSN est chargée de régler dans des directives les principes de la conception et qui sont spécifiques aux réacteurs à eau légère.[^10-1]
 
-[^10-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^10-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 11
 
@@ -212,7 +212,7 @@ Un dépôt en couches géologiques profondes doit être conçu de manière:
 
 <sup>3</sup> L’IFSN est chargée de régler dans des directives les principes de la conception du dimensionnement qui sont spécifiques aux dépôts en couches géologiques profondes.[^11-1]
 
-[^11-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^11-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 12
 
@@ -229,7 +229,7 @@ De plus, un entrepôt pour déchets radioactifs doit être conçu de manière:
 
 <sup>3</sup> L’IFSN est chargée de régler au besoin dans des directives les principes de la conception et du dimensionnement qui sont spécifiques à certains types d’installations nucléaires.[^12-1]
 
-[^12-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Chapitre 3 Articles nucléaires
 
@@ -243,7 +243,7 @@ L’office est compétent pour octroyer:
 - a<sup>bis</sup>.[^13-1] les autorisations d’exporter et de faire le courtage de technologies concernant des matières nucléaires;
 - b.[^13-2] l’approbation de la convention réglant la reprise de déchets radioactifs.
 
-[^13-1]: Introduite par le ch. 1 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^13-1]: Introduite par l’annexe 8 ch. 1 de l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768))
 
 #### Art. 14
@@ -256,7 +256,7 @@ L’office est compétent pour octroyer:
 
 <sup>3</sup> Dans les autres cas, il décide en accord avec les services compétents du Département fédéral des affaires étrangères, du Département fédéral de l’économie, de la formation et de la recherche et du Département fédéral de la défense, de la protection de la population et des sports, après avoir consulté le Service de renseignement de la Confédération. Faute d’accord, le Conseil fédéral tranche sur proposition du département.
 
-[^14-1]: Nouvelle teneur selon le ch. 1 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^14-1]: Nouvelle teneur selon l’annexe 8 ch. 1 de l’O du 3 juin 2016 sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 
 #### Art. 15
 
@@ -266,7 +266,7 @@ L’office est compétent pour octroyer:
 
 <sup>2</sup>
 
-Les pièces à joindre doivent fournir toutes les indications nécessaires à l’appréciation de la demande, notamment:
+Les pièces à joindre doivent fournir toutes les indications nécessaires à l’appréciation de la demande, notamment les indications concernant:[^15-1]
 
 - a. la composition et les propriétés des matières nucléaires;
 - b. les détails techniques de l’équipement;
@@ -274,7 +274,9 @@ Les pièces à joindre doivent fournir toutes les indications nécessaires à l�
 - d. le lieu de destination et le nom du destinataire;
 - e. l’utilisation prévue;
 - f. les conditions d’achat ou de vente;
-- g. le transport, avec notamment le justificatif du respect des exigences concernant le transport de marchandises dangereuses.
+- g. le transport, avec notamment le justificatif du respect des exigences concernant le transport de marchandises dangereuses;
+- h.[^15-2] les exploitants de l’installation nucléaire responsables au sens de l’art. 2, let. b, de la loi fédérale du 13 juin 2008 sur la responsabilité civile en matière nucléaire[^15-3] qui répondent des dommages nucléaires;
+- i.[^15-4] la preuve de la couverture visée aux art. 1, let. c, et 2, al. 3, de l’ordonnance fédérale du 25 mars 2015 sur la responsabilité civile en matière nucléaire[^15-5].
 
 <sup>3</sup>
 
@@ -292,7 +294,7 @@ La demande d’autorisation de faire le courtage de matières nucléaires d’ex
 
 <sup>4</sup>
 
-A la demande de l’office, le détenteur d’une autorisation de faire le courtage de matières nucléaires doit lui remettre un rapport périodique sur:
+À la demande de l’office, le détenteur d’une autorisation de faire le courtage de matières nucléaires doit lui remettre un rapport périodique sur:
 
 - a. la composition des matières;
 - b. leur quantité;
@@ -302,11 +304,17 @@ A la demande de l’office, le détenteur d’une autorisation de faire le court
 
 <sup>5</sup> L’office peut exiger au besoin des pièces supplémentaires.
 
+[^15-1]: Nouvelle teneur selon l’art. 21, al. 2, de l’O du 25 mars 2015 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-2]: Introduite par l’art. 21, al. 2, de l’O du 25 mars 2015 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^15-4]: Introduite par l’art. 21, al. 2, de l’O du 25 mars 2015 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-5]: [RS 732.441](https://fedlex.data.admin.ch/eli/cc/2021/860)
+
 #### Art. 16
 
 **Enquête préalable**
 
-<sup>1</sup> A la demande du requérant, l’office étudie au préalable s’il peut lui accorder une autorisation en vertu du présent chapitre et si oui, à quelles conditions.
+<sup>1</sup> À la demande du requérant, l’office étudie au préalable s’il peut lui accorder une autorisation en vertu du présent chapitre et si oui, à quelles conditions.
 
 <sup>2</sup> L’enquête préalable ne donne pas droit à une autorisation.
 
@@ -322,7 +330,7 @@ Sont assimilées aux importations ou aux exportations les livraisons en provenan
 - b. d’organisations internationales;
 - c. d’entrepôts douaniers ouverts, d’entrepôts de marchandises de grande consommation, de dépôts francs sous douane ou d’enclaves douanières.
 
-[^17-1]: Nouvelle teneur selon le ch. 31 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^17-1]: Nouvelle teneur selon l’annexe 4 ch. 31 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 18
 
@@ -334,7 +342,7 @@ L’autorisation est valable douze mois au plus et peut être prolongée de six 
 
 [^19-1]
 
-[^19-1]: Abrogé par le ch. 1 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
+[^19-1]: Abrogé par l’annexe 8 ch. 1 de l’O du 3 juin 2016 sur le contrôle des biens, avec effet au 1<sup>er</sup> juil. 2016 ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
 
 #### Art. 20
 
@@ -366,9 +374,9 @@ Il doit annoncer sans retard à l’IFSN les événements et les constats suivan
 
 <sup>3</sup> Il doit fournir un rapport à l’IFSN sur chaque événement ou constat. Les rapports à l’IFSN doivent répondre aux exigences de l’annexe 6. Les rapports concernant la sûreté doivent être présentés dans les 30 jours et classifiés.[^21-3]
 
-[^21-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^21-2]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^21-3]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^21-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^21-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^21-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Chapitre 4 Installations nucléaires
 
@@ -378,13 +386,13 @@ Il doit annoncer sans retard à l’IFSN les événements et les constats suivan
 
 **Installations nucléaires à faible potentiel de risque**
 
-<sup>1</sup> Une autorisation générale n’est pas nécessaire pour une installation nucléaire si la fréquence des défaillances qui sont visées à l’art. 8, al. 2 et 3, dont il résulte une dose de plus de 1 mSv pour les membres du public, ne dépasse pas 10<sup>–6</sup> par année; de plus, dans un entrepôt ou dans un dépôt en couches géologiques profondes, la somme des activités des nucléides à stocker ne doit pas dépasser 10<sup>16</sup> LL au sens de l’annexe 3, colonne 9, ORaP[^22-1]<sup>.</sup>[^22-2]
+<sup>1</sup> Une autorisation générale n’est pas nécessaire pour une installation nucléaire si la fréquence des défaillances qui sont visées à l’art. 8, al. 2 et 3, dont il résulte une dose de plus de 1 mSv pour les membres du public, ne dépasse pas 10<sup>–6</sup> par année; de plus, dans un entrepôt ou dans un dépôt en couches géologiques profondes, la somme des activités des nucléides à stocker ne doit pas dépasser 10<sup>16</sup> LL au sens de l’annexe 3, colonne 9, ORaP[^22-1].[^22-2]
 
 <sup>2</sup> L’IFSN est chargée de régler dans des directives la méthode et les standards de l’analyse de défaillances requise par l’al. 1.[^22-3]
 
 [^22-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^22-2]: Nouvelle teneur selon le ch. 4 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^22-3]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^22-2]: Nouvelle teneur selon l’annexe 11 ch. 4 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^22-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 23
 
@@ -423,7 +431,7 @@ Quiconque requiert une autorisation de construire doit démontrer:
 
 <sup>2</sup>
 
-A cet effet, il doit fournir les pièces suivantes:
+À cet effet, il doit fournir les pièces suivantes:
 
 - a. les documents pour obtenir l’autorisation de construire mentionnés à l’annexe 4;
 - b. le rapport d’impact sur l’environnement;
@@ -436,7 +444,7 @@ A cet effet, il doit fournir les pièces suivantes:
 <sup>3</sup> L’IFSN est chargée de régler dans des directives le genre, le contenu, la présentation et le nombre des pièces à fournir.[^24-2]
 
 [^24-1]: Abrogée par le ch. I de l’O du 1<sup>er</sup> nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
-[^24-2]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^24-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 25
 
@@ -450,7 +458,7 @@ A cet effet, il doit fournir les pièces suivantes:
 
 <sup>4</sup> L’IFSN est chargée de régler dans des directives le détail des exigences auxquelles doit répondre le programme de gestion de la qualité.[^25-1]
 
-[^25-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^25-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 26
 
@@ -468,8 +476,8 @@ S’agissant des structures et des éléments de l’installation que l’autori
 
 <sup>3</sup> L’IFSN est chargée de régler dans des directives le genre, le contenu, la présentation et le nombre des pièces à fournir.[^26-2]
 
-[^26-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^26-2]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^26-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^26-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 27
 
@@ -485,8 +493,8 @@ S’agissant des structures et des éléments de l’installation que l’autori
 
 <sup>5</sup> L’IFSN est chargée de régler dans des directives les exigences auxquelles doivent satisfaire le dossier de la construction et sa conservation.[^27-2]
 
-[^27-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^27-2]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^27-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^27-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### Section 3 Autorisation d’exploiter
 
@@ -505,7 +513,7 @@ Quiconque requiert une autorisation d’exploiter doit fournir les pièces suiva
 
 <sup>2</sup> L’IFSN est chargée de régler dans des directives le genre, le contenu, la présentation et le nombre des pièces à fournir.[^28-1]
 
-[^28-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^28-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 29
 
@@ -527,7 +535,7 @@ L’autorisation d’exploiter doit demander un permis d’exécution en particu
 
 <sup>3</sup> L’IFSN est chargée de régler dans des directives le genre, le contenu, la présentation et le nombre des pièces à fournir.[^29-1]
 
-[^29-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^29-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 30
 
@@ -557,7 +565,7 @@ L’organisation de l’exploitation de l’installation nucléaire doit être c
 
 <sup>5</sup> L’IFSN est chargée de régler dans des directives le détail des exigences auxquelles doit satisfaire l’organisation.[^30-1]
 
-[^30-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^30-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 31
 
@@ -613,7 +621,7 @@ Il doit établir des appréciations systématiques:
 
 <sup>3</sup> L’IFSN est chargée de régler dans des directives les exigences auxquelles doivent répondre les appréciations systématiques de la sécurité et de la sûreté.[^33-1]
 
-[^33-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^33-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 34
 
@@ -623,7 +631,7 @@ Il doit établir des appréciations systématiques:
 
 <sup>2</sup>
 
-A cet effet, il doit:
+À cet effet, il doit:
 
 - a. exposer et évaluer le plan de sécurité, la conduite de l’exploitation et le comportement de l’installation;
 - b. effectuer une analyse déterministe de la sécurité et une APS;
@@ -632,7 +640,7 @@ A cet effet, il doit:
 
 <sup>3</sup> Les documents relatifs au RPS doivent être présentés à l’IFSN au plus tard deux ans avant la fin d’une décennie d’exploitation.
 
-<sup>4</sup> A partir de la quatrième décennie d’exploitation, le RPS comprend de plus un justificatif de sécurité pour l’exploitation à long terme, défini à l’art. 34*a*, qui doit également être présenté.
+<sup>4</sup> À partir de la quatrième décennie d’exploitation, le RPS comprend de plus un justificatif de sécurité pour l’exploitation à long terme, défini à l’art. 34*a*, qui doit également être présenté.
 
 <sup>5</sup> L’IFSN est chargée de régler dans des directives le détail des exigences auxquelles doit répondre le RPS. Pour la période qui suit la mise hors service définitive, elle peut prévoir des allégements pour les centrales nucléaires ou dispenser celles-ci totalement de l’obligation de lui présenter les documents relatifs au RPS.
 
@@ -667,11 +675,11 @@ Le justificatif de sécurité pour l’exploitation à long terme comprend notam
 
 <sup>4</sup> L’IFSN est chargée de régler dans des directives les méthodes de la surveillance du vieillissement et jusqu’où cette surveillance doit aller.[^35-1]
 
-[^35-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^35-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 36
 
-**Etat de la science et de la technique et retour d’expérience d’installations comparables**
+**État de la science et de la technique et retour d’expérience d’installations comparables**
 
 <sup>1</sup> Le détenteur de l’autorisation doit suivre l’évolution de la science dans son domaine, notamment les résultats de la recherche, et examiner dans quelle mesure il peut en tirer des enseignements pour la sécurité de l’installation.
 
@@ -694,8 +702,8 @@ Il doit suivre le développement de la technique, y compris ce qui concerne l’
 
 <sup>2</sup> L’IFSN est chargée de régler dans des directives le genre, la teneur, la présentation et le nombre des rapports à remettre.[^37-2]
 
-[^37-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^37-2]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^37-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^37-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 38
 
@@ -732,7 +740,7 @@ Il doit annoncer à l’IFSN les événements et les constats suivants:
 
 <sup>5</sup> L’IFSN est chargée de régler dans des directives la démarche à suivre par le détenteur pour procéder aux notifications visées aux al. 1 et 2, et pour classifier les événements et les constats visés à l’al. 3.
 
-[^38-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^38-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 39
 
@@ -760,7 +768,7 @@ Il doit annoncer sans délai à l’IFSN les événements et les constats suivan
 
 <sup>3</sup> Il doit fournir un rapport à l’IFSN dans les 30 jours sur tout événement ou constat. Ce rapport doit être classifié.
 
-[^39-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 40
 
@@ -800,7 +808,7 @@ Sont généralement considérées comme des modifications ne s’écartant pas d
 
 <sup>5</sup> L’IFSN est chargée de régler dans des directives le genre, la teneur, la présentation et le nombre des pièces à fournir.[^40-1]
 
-[^40-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^40-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 41
 
@@ -816,8 +824,8 @@ Sont généralement considérées comme des modifications ne s’écartant pas d
 
 <sup>5</sup> L’IFSN est chargée de régler dans des directives le détail des exigences concernant les documents et leur conservation.[^41-2]
 
-[^41-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^41-2]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^41-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^41-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 42
 
@@ -912,7 +920,7 @@ La décision de désaffectation règle l’obligation d’obtenir un permis d’
 
 Quiconque est chargé de désaffecter une installation nucléaire doit présenter à l’IFSN un rapport annuel sur l’état d’avancement des travaux et un rapport final.
 
-[^48-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^48-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 49
 
@@ -928,7 +936,7 @@ Les art. 38 et 39 sont applicables par analogie à la notification en cas de dé
 
 **Minimisation des quantités de déchets radioactifs**
 
-Une installation nucléaire doit être conçue, construite et exploitée de manière que son exploitation et sa désaffectation produisent le moins possible de déchets radioactifs, en termes de volume et de radioactivité. A cet effet, on devra en particulier:
+Une installation nucléaire doit être conçue, construite et exploitée de manière que son exploitation et sa désaffectation produisent le moins possible de déchets radioactifs, en termes de volume et de radioactivité. À cet effet, on devra en particulier:
 
 - a. choisir pour la construction des matériaux pour lesquels la formation de produits d’activation est faible;
 - b. limiter autant que possible, lors de l’exploitation de l’installation, les biens utilisés dans la zone contrôlée;
@@ -989,7 +997,7 @@ Les responsables de l’évacuation des déchets doivent fournir dans leur progr
 
 <sup>3</sup> L’IFSN et l’office sont compétents pour vérifier le programme de gestion des déchets et surveiller son application.[^52-1]
 
-[^52-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^52-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### Section 2 Libération et conditionnement
 
@@ -1004,8 +1012,8 @@ Les responsables de l’évacuation des déchets doivent fournir dans leur progr
 <sup>3</sup> L’IFSN est chargée de régler dans des directives les exigences détaillées auxquelles doivent répondre le mesurage de libération des matières et la manière dont elle doit être informée.[^53-3]
 
 [^53-1]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^53-2]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^53-3]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^53-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^53-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 54
 
@@ -1021,7 +1029,7 @@ Les responsables de l’évacuation des déchets doivent fournir dans leur progr
 
 <sup>5</sup>
 
-A la demande seront joints tous les documents qui sont requis pour l’appréciation et, qui fourniront notamment des indications sur:
+À la demande seront joints tous les documents qui sont requis pour l’appréciation et, qui fourniront notamment des indications sur:
 
 - a. le procédé de conditionnement;
 - b. le colis de déchets et ses composants;
@@ -1030,8 +1038,8 @@ A la demande seront joints tous les documents qui sont requis pour l’apprécia
 
 <sup>6</sup> L’IFSN est chargée de régler dans des directives le détail des exigences relatives au conditionnement et aux dossiers de demande.[^54-2]
 
-[^54-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^54-2]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^54-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^54-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### Section 3 Manipulation des déchets radioactifs
 
@@ -1072,7 +1080,7 @@ Les pièces à joindre doivent fournir toutes les indications nécessaires à l�
 
 Les art. 16, 18, 20 et 21 sont applicables par analogie à la manipulation des déchets radioactifs.
 
-### Section 4 Etudes géologiques
+### Section 4 Études géologiques
 
 #### Art. 58
 
@@ -1145,7 +1153,7 @@ Les critères visés à l’art. 14, al. 1, let. f, ch. 1, LENu et qui doivent f
 
 #### Art. 64
 
-**Eléments d’un dépôt en couches géologiques profondes**
+**Éléments d’un dépôt en couches géologiques profondes**
 
 Un dépôt en couches géologiques profondes se compose du dépôt principal où seront stockés les déchets radioactifs, d’un dépôt pilote et de zones expérimentales.
 
@@ -1272,7 +1280,7 @@ Le dossier doit faire apparaître:
 
 L’IFSN se prononce sur les demandes d’autorisation et d’approbation d’un projet qui sont visées aux art. 49 à 63 LENu.
 
-[^73-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^73-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 74
 
@@ -1300,8 +1308,8 @@ Ne sont ni publiées ni mises à l’enquête publique:
 
 <sup>4</sup> …[^75-2]
 
-[^75-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
-[^75-2]: Abrogé par le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^75-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^75-2]: Abrogé par l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 76
 
@@ -1316,7 +1324,7 @@ L’IFSN informe le public sans délai sur les événements survenus et les cons
 
 <sup>2</sup> En cas d’événement ou de constat particulier d’intérêt public mais ne tombant pas sous le coup de l’al. 1, l’IFSN fait en sorte que le public soit informé.
 
-[^76-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^76-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 77
 
@@ -1326,7 +1334,7 @@ L’IFSN informe le public sans délai sur les événements survenus et les cons
 
 <sup>2</sup> Elles les soutiennent par des aides financières ou en leur assurant le concours des collaborateurs de l’office ou de L’IFSN.[^77-1]
 
-[^77-1]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^77-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Chapitre 7 Dispositions pénales et dispositions finales
 
@@ -1390,12 +1398,12 @@ Annexe 1*[^t-1]*
 
 ## Définitions
 
-[^t-1]: Mise à jour selon le ch. 1 de l’annexe 8 à l’O du 3 juin 2016 sur le contrôle des biens ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)) et le ch. 4 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^t-1]: Mise à jour par l’annexe 8 ch. 1 de l’O du 3 juin 2016 sur le contrôle des biens ([RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)) et l’annexe 11 ch. 4 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 Dans la présente ordonnance, on entend par:
 
 - a. *Constat:* la constatation d’un état, dans des éléments de l’installation, qui peut compromettre la sécurité, mais qui n’a pas entraîné d’événement;
-- b. *Evénement:* déroulement erroné, dans l’exploitation d’une installation ou lors d’un transport, pouvant compromettre la sécurité;
+- b. *Événement:* déroulement erroné, dans l’exploitation d’une installation ou lors d’un transport, pouvant compromettre la sécurité;
 - c. *Mesurage de libération:* démonstration de la libération de du régime de l’autorisation et de la surveillance conformément à l’art. 106 ORaP[^annex1-lvlu1-1];
 - d. *Maintenance:* toutes les mesures prises pour conserver ou rétablir l’état souhaité ainsi que les mesures de saisie et d’appréciation de l’état actuel d’équipements et de systèmes;
 - e. *Refroidissement du cœur:* évacuation de l’énergie calorifique du cœur du réacteur par les systèmes de refroidissement, afin que pour tous les composants du cœur, la température de conception ne soit pas dépassée;
@@ -1405,7 +1413,7 @@ Dans la présente ordonnance, on entend par:
 - i. *Défaillance:* tout état de l’installation s’écartant de l’exploitation normale et réclamant l’intervention d’un système de sécurité;
 - j. *Système:* combinaison d’équipements mécaniques ou électriques nécessaire pour opérer une certaine fonction;
 - k. *Technologie:* connaissances spécifiques, généralement non accessibles au public ou ne servant pas à la recherche scientifique fondamentale, sous la forme de données techniques ou d’une assistance technique, qui sont nécessaires au développement, à la production ou à l’utilisation;
-- l. *Etat partenaire:* Etat qui participe à des mesures internationales de contrôle non obligatoires en droit international soutenues par la Suisse.
+- l. *État partenaire:* État qui participe à des mesures internationales de contrôle non obligatoires en droit international soutenues par la Suisse.
 
 [^annex1-lvlu1-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
@@ -1415,13 +1423,13 @@ Annexe 2*[^t-2]*
 
 ## Principes régissant la sûreté d’une installation nucléaire, des matières nucléaires et des déchets radioactifs
 
-[^t-2]: Mise à jour selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^t-2]: Mise à jour par l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ### 1. Sûreté d’une installation nucléaire
 
 Il convient d’aménager des zones et des aires de sûreté ainsi que des barrières de sûreté, échelonnées selon le schéma ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20190201/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/fr/xml/image/image1.png)
 
 Les différentes barrières de sûreté ont les fonctions suivantes:
 
@@ -1466,13 +1474,13 @@ Leur *transport* sera opéré selon des règles de prudence particulières du ty
 
 Leur *utilisation et* leur *stockage* seront opérés dans un secteur bien protégé, dont l’accès est surveillé, c’est-à-dire un secteur placé sous l’observation permanente de gardes ou équipé de dispositifs électroniques de surveillance, entouré d’une enceinte matérielle ayant un nombre limité d’entrées suffisamment contrôlées, ou avec une protection physique de même niveau.
 
-Leur *transport* sera opéré en prenant des précautions spéciales comprenant des arrangements préalables entre l’expéditeur, le destinataire et le transporteur, et un accord préalable entre les organismes soumis à la juridiction et à la réglementation des Etats fournisseur et destinataire, dans le cas d’un transport international, accord qui précisera l’heure, le lieu et les règles du transfert de la responsabilité.
+Leur *transport* sera opéré en prenant des précautions spéciales comprenant des arrangements préalables entre l’expéditeur, le destinataire et le transporteur, et un accord préalable entre les organismes soumis à la juridiction et à la réglementation des États fournisseur et destinataire, dans le cas d’un transport international, accord qui précisera l’heure, le lieu et les règles du transfert de la responsabilité.
 
 ### Catégorie III
 
 Leur *utilisation et* leur *stockage* seront opérés dans un secteur dont l’accès est surveillé.
 
-Leur *transport* sera opéré en prenant des précautions spéciales comprenant des arrangements préalables entre l’expéditeur, le destinataire et le transporteur, et un accord préalable entre les organismes soumis à la juridiction et à la réglementation des Etats fournisseur et destinataire dans le cas d’un transport international, accord qui précisera l’heure, le lieu et les règles du transfert de la responsabilité.
+Leur *transport* sera opéré en prenant des précautions spéciales comprenant des arrangements préalables entre l’expéditeur, le destinataire et le transporteur, et un accord préalable entre les organismes soumis à la juridiction et à la réglementation des États fournisseur et destinataire dans le cas d’un transport international, accord qui précisera l’heure, le lieu et les règles du transfert de la responsabilité.
 
 Annexe 3*[^t-3]*
 
@@ -1480,7 +1488,7 @@ Annexe 3*[^t-3]*
 
 ## Dossier d’exploitation
 
-[^t-3]: Mise à jour selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)) et le ch. 4 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^t-3]: Mise à jour par l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)) et l’annexe 11 ch. 4 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 Le dossier d’exploitation d’une installation nucléaire comprend des documents organisationnels et techniques et des relevés d’exploitation.
 
@@ -1534,13 +1542,13 @@ Le ch. 2 indique les principaux documents.
 - B Technique du bâtiment
 - S Technique des systèmes
 - M Technique des machines
-- E Electrotechnique et contrôle-commande
+- E Électrotechnique et contrôle-commande
 - U Radioprotection, déchets et protection en cas d’urgence
 - D Sûreté
 - P Organisation de l’exploitation, personnel
 - SA Systèmes des classes de sécurité 1, 2, 3 et 1E
 - SB Systèmes de la classe de sécurité 4 et système 0E se rapportant à la sécurité
-- MA Equipements mécaniques déterminants pour le premier permis de construire, par ex. cuve de pression du réacteur, enceinte de sécurité en acier, conduites du circuit primaire, générateurs de vapeur, pressuriseur, pompes de circulation principale
+- MA Équipements mécaniques déterminants pour le premier permis de construire, par ex. cuve de pression du réacteur, enceinte de sécurité en acier, conduites du circuit primaire, générateurs de vapeur, pressuriseur, pompes de circulation principale
 - MB Autres équipements mécaniques des classes de sécurité 1 à 4
 
 ### 1. Documents à fournir selon le type de demande et le domaine
@@ -1568,8 +1576,8 @@ Le ch. 2 indique les principaux documents.
 <table>
 <tr><td colspan="4">R Technique des réacteurs</td></tr>
 <tr><td>R1</td><td>R2</td><td>R3</td><td>R4</td></tr>
-<tr><td>Bases de conception</td><td>Analyse de sécurité provisoire</td><td>Analyse de sécurité définitive</td><td>Evaluation de la mise en service nucléaire</td></tr>
-<tr><td>Dimensionnement des éléments combustibles Dimensionnement provisoire du cœur Définition des défaillances et des valeurs-limites de sécurité</td><td>Définition des conditions générales importantes, Analyse des états de fonctionnement et des défaillances déterminant le dimensionnement et de leurs effets sur l’installation et alentour</td><td>Hypothèses, modèles de calcul concernant le comportement des substances radioactives Analyse des défaillances et de leurs conséquences Analyses de défaillances; spécifications techniques Programmes de mise en service Dimensionnement définitif du coeur</td><td>Evaluation des essais de mise en service et des résultats</td></tr>
+<tr><td>Bases de conception</td><td>Analyse de sécurité provisoire</td><td>Analyse de sécurité définitive</td><td>Évaluation de la mise en service nucléaire</td></tr>
+<tr><td>Dimensionnement des éléments combustibles Dimensionnement provisoire du cœur Définition des défaillances et des valeurs-limites de sécurité</td><td>Définition des conditions générales importantes, Analyse des états de fonctionnement et des défaillances déterminant le dimensionnement et de leurs effets sur l’installation et alentour</td><td>Hypothèses, modèles de calcul concernant le comportement des substances radioactives Analyse des défaillances et de leurs conséquences Analyses de défaillances; spécifications techniques Programmes de mise en service Dimensionnement définitif du coeur</td><td>Évaluation des essais de mise en service et des résultats</td></tr>
 </table>
 
 <table>
@@ -1583,7 +1591,7 @@ Le ch. 2 indique les principaux documents.
 <tr><td colspan="4">S Technique des systèmes</td></tr>
 <tr><td>S1</td><td>S2</td><td>S3</td><td>S4</td></tr>
 <tr><td>Concepts des systèmes</td><td>Conception</td><td>Exécution</td><td>Mise en service</td></tr>
-<tr><td>Classification et concepts des systèmes Spécifications provisoires des systèmes Plans de connexion des systèmes Schémas de fonctionnement Liste composants mécaniques et électriques Evaluation sécurité si modification de l’installation</td><td>Spécifications définitives des systèmes y c. données techniques Plans aménagement Plans connexion systèmes Schémas fonctionnement Liste composants mécaniques</td><td>Descriptions systèmes y c. analyse interactions Schémas logiques Liste composants électriques</td><td>Prescriptions essais de réception Résultats tests systèmes Prescriptions/examens périodiques de fonctionnement des systèmes et composants Plans définitifs de connexion des systèmes et schémas de fonctionnement</td></tr>
+<tr><td>Classification et concepts des systèmes Spécifications provisoires des systèmes Plans de connexion des systèmes Schémas de fonctionnement Liste composants mécaniques et électriques Évaluation sécurité si modification de l’installation</td><td>Spécifications définitives des systèmes y c. données techniques Plans aménagement Plans connexion systèmes Schémas fonctionnement Liste composants mécaniques</td><td>Descriptions systèmes y c. analyse interactions Schémas logiques Liste composants électriques</td><td>Prescriptions essais de réception Résultats tests systèmes Prescriptions/examens périodiques de fonctionnement des systèmes et composants Plans définitifs de connexion des systèmes et schémas de fonctionnement</td></tr>
 </table>
 
 <table>
@@ -1594,7 +1602,7 @@ Le ch. 2 indique les principaux documents.
 </table>
 
 <table>
-<tr><td colspan="4">E Electrotechnique et contrôle-commande</td></tr>
+<tr><td colspan="4">E Électrotechnique et contrôle-commande</td></tr>
 <tr><td>E1</td><td>E2</td><td>E3</td><td>E4</td></tr>
 <tr><td>Bases équipements électriques</td><td>Conception</td><td>Justificatifs exécution</td><td>Mise en service et documentation</td></tr>
 <tr><td>Technique applicable pour composants principaux et contrôle-commande Attribution à un circuit Bases de conception des composants 1E Systèmes de réglementation applicables, Procédure qualification pièces isolées et de série</td><td>Spécifications et fiches de données Prescriptions/ qualifications</td><td>Résultats des qualifications Programmes-tests pour mise en service de composants spéciaux</td><td>Résultats des tests, Dossier technique, Rapport sur l’assurance de la qualité Programmes maintenance</td></tr>
@@ -1604,7 +1612,7 @@ Le ch. 2 indique les principaux documents.
 <tr><td colspan="4">U Radioprotection, déchets et protection en cas d’urgence</td></tr>
 <tr><td>U1</td><td>U2</td><td>U3</td><td>U4</td></tr>
 <tr><td>Critères de conception et Concepts</td><td>Dimensionnement des équipements radiologiques</td><td>Justificatif exécution</td><td>Mise en service et documentation</td></tr>
-<tr><td>Concepts pour: zones radiologiques, écran de protection, surveillance alentours, surveillance de l’espace, du système et des émissions, protection d’urgence, eaux usées, Procédé conditionnement déchets Entreposage des déchets</td><td>Spécifications dimensionnement Eval. dose collective exploitation, tests périodiques, révisions</td><td>PV d’examen et de réception Résultats des tests spéciaux Formation et perfectionnement du personnel de surveillance</td><td>Programmes d’exploitation, de contrôle et d’entretien</td></tr>
+<tr><td>Concepts pour: zones radiologiques, écran de protection, surveillance alentours, surveillance de l’espace, du système et des émissions, protection d’urgence, eaux usées, Procédé conditionnement déchets Entreposage des déchets</td><td>Spécifications dimensionnement Éval. dose collective exploitation, tests périodiques, révisions</td><td>PV d’examen et de réception Résultats des tests spéciaux Formation et perfectionnement du personnel de surveillance</td><td>Programmes d’exploitation, de contrôle et d’entretien</td></tr>
 </table>
 
 <table>
@@ -1631,12 +1639,12 @@ Les *équipements mécaniques* sont répartis en quatre classes de sécurité se
 - b. Classe de sécurité 2: équipements des systèmes exerçant une fonction de sécurité ou qui sont importants pour la sécurité, mais qui ne sont pas attribués à la classe de sécurité 1;
 - c. Classe de sécurité 3: équipements des systèmes d’appui (systèmes auxiliaires) aux fonctions de sécurité ou qui sont importants pour la sécurité;
 - d. Classe de sécurité 4: équipements contenant ou pouvant contenir de la radioactivité et qui servent à retenir, traiter ou entreposer des substances radioactives liquides ou solides, mais qui ne sont pas attribués à l’une des classes de sécurité 1 à 3;
-- e. Equipements non classés: équipements qui ne sont attribués à aucune des classes 1 à 4.
+- e. Équipements non classés: équipements qui ne sont attribués à aucune des classes 1 à 4.
 
 Les *équipements électriques* sont répartis en deux classes de sécurité selon leur importance pour la sécurité nucléaire:
 
-- a. Equipements classés 1E: équipements électriques des systèmes mécaniques et composants attribués aux classes de sécurité 1 à 3, et systèmes de sécurité électriques et de contrôle-commande;
-- b. Equipements classés 0E: autres équipements et systèmes électriques pouvant aussi exercer des fonctions ayant de l’importance pour la sécurité.
+- a. Équipements classés 1E: équipements électriques des systèmes mécaniques et composants attribués aux classes de sécurité 1 à 3, et systèmes de sécurité électriques et de contrôle-commande;
+- b. Équipements classés 0E: autres équipements et systèmes électriques pouvant aussi exercer des fonctions ayant de l’importance pour la sécurité.
 
 ### 3.2 Classes sismiques (EK)
 
@@ -1659,23 +1667,23 @@ Annexe 5*[^t-4]*
 
 ## Rapports périodiques
 
-[^t-4]: Nouvelle teneur selon le ch. 12 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^t-4]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 <table>
 <tr><th>Rapport</th><th>Contenu/délai de remise</th><th>Périodicité</th></tr>
-<tr><td>Rapport annuel de sécurité</td><td>Rapport des installations nucléaires avec un résumé et une évaluation portant en particulier sur l’exploitation et la sécurité, l’état de l’installation, les changements intervenus sur le site, l’organisation et le personnel, la radioprotection, les déchets radioactifs, la situation radiologique ainsi que les derniers enseignements de la science et de la technique. Ce rapport contient les résultats de l’évaluation systématique de la sécurité et il renseigne sur les dossiers en suspens auprès de l’IFSN, sur les événements et les constats, sur les modifications apportées à l’installation ainsi que sur les travaux de maintenance. A rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
-<tr><td>Rapport annuel de sûreté</td><td>Rapport des installations nucléaires contenant les données essentielles sur l’organisation de la sûreté et un résumé des événements survenus dans ce domaine au cours de l’année. Il renseigne en particulier sur le personnel et l’organisation de la sûreté, les interventions spéciales des gardiens de l’entreprise, le recours à des entreprises tierces pour des tâches de gardiennage, les observations faites dans le domaine de la sûreté pendant l’arrêt pour révision, la fréquence et les résultats des examens et des tests de fonctionnement des équipement de sûreté, les pannes ayant affecté des composants importants de la sûreté, les modifications apportées aux constructions, les événements et les constats particuliers, et sur la statistique des badges donnant accès aux zones de sûreté. Ce rapport doit être classifié. A rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
-<tr><td>Rapport trimestriel</td><td>Rapport de l’entrepôt central, des dépôts en couches géologiques profondes et de l’Institut Paul Scherrer. Il renseigne en particulier sur les doses individuelles, la dosimétrie des installations et du périmètre, les rejets de substances radioactives avec les effluents gazeux et liquides, la surveillance des alentours, les déchets radioactifs, les campagnes de conditionnement, les événements et constats, les modifications et les travaux de maintenance. A rendre au plus tard la fin du mois qui suit le trimestre.</td><td>Trimestre</td></tr>
-<tr><td>Rapport mensuel</td><td>Rapport des centrales nucléaires sur l’exploitation de l’installation et comparaisons avec les mois précédents (tendances), portant en particulier sur l’exploitation et la sécurité, la chimie, la radioprotection, avec des indications sur la dosimétrie individuelle, les rejets de substances radioactives, les déchets radioactifs, les événements et les constats, l’organisation, le personnel et la formation ainsi que les projets, les analyses, les retours d’expérience, les événements survenus dans des installations comparables, les activités et les résultats des travaux de maintenance. A rendre au plus tard la fin du mois qui suit le trimestre.</td><td>Mois</td></tr>
-<tr><td>Rapport de révision technique</td><td>Rapport des centrales nucléaires, avec la description et l’appréciation des mesures prises, des résultats et enseignements qui ont été recueillis au cours des travaux de révision et qui comptent pour la sécurité. Délais de remise: a. premier rapport: 4 jours ouvrables avant la remise en service prévue de l’installation; b. rapport définitif: au plus tard 3 mois après la remise en service de l’installation.</td><td>A chaque révision de l’installation</td></tr>
-<tr><td>Rapport de révision Radioprotection</td><td>Rapport des centrales nucléaires sur la révision, avec des indications détaillées sur les mesurages de la radioactivité et les enseignements à en tirer, avec une appréciation de l’exploitant et des propositions de mesures propres à réduire encore les doses. A rendre au plus tard 3 mois après la remise en service de l’installation.</td><td>A chaque révision de l’installation</td></tr>
-<tr><td>Rapport de révision Physique</td><td>Rapport des centrales nucléaires, avec les résultats et l’appréciation des mesurages de la physique du réacteur effectués lors de la remise en marche après la révision, et ce pour différents niveaux de puissance. Délais de remise: a. résultats des mesurages à la puissance zéro et au démarrage: avant le lancement au-delà de 5 % de la puissance nominale de l’installation; b. rapport définitif: au plus tard 3 mois après la remise en service de l’installation.</td><td>A chaque révision de l’installation</td></tr>
-<tr><td>Rapport dosimétrie</td><td>Rapport des centrales nucléaires contenant des indications sur les doses collectives, la répartition des doses, les doses personnelles et les doses collectives spécifiques d’une activité. A rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
-<tr><td>Rapport sur la surveillance des alentours</td><td>Rapport des centrales nucléaires, de l’entrepôt central, des dépôts en couches géologiques profondes et de l’Institut Paul Scherrer, contenant des indications relatives aux rejets de substances radioactives et à la surveillance de la radioactivité et du rayonnement direct aux alentours des installations. Ce rapport peut être intégré au rapport mensuel ou au rapport trimestriel. A rendre au plus tard à la fin du mois qui suit le trimestre en question.</td><td>Trimestre</td></tr>
-<tr><td>Rapport sur les sources radioactives</td><td>Rapport des installations nucléaires avec la liste de toutes les sources radioactives se trouvant dans l’installation. A rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
-<tr><td>Rapport sur le réexamen complet de la sécurité approfondie</td><td>Rapport des centrales nucléaires sur le réexamen périodique de la sécurité, ses résultats et son appréciation. A rendre selon les instructions de l’IFSN.</td><td>Tous les 10 ans</td></tr>
-<tr><td>Données sur l’indisponibilité de systèmes et de composants</td><td>Rapport des centrales nucléaires. En cas d’indisponibilité de composants importants pour le risque qui ont été pris en compte dans le modèle d’APS, indiquer la date et la durée de l’indisponibilité, avec une brève description de sa cause et la désignation du composant affecté. A rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
-<tr><td>Liste des modifications de l’installation à prendre en compte dans l’APS</td><td>Rapport des centrales nucléaires donnant la liste des modifications apportées à l’installation qui pourraient jouer un rôle dans l’APS mais n’ont pas encore été prises en compte dans le modèle d’APS. A rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
+<tr><td>Rapport annuel de sécurité</td><td>Rapport des installations nucléaires avec un résumé et une évaluation portant en particulier sur l’exploitation et la sécurité, l’état de l’installation, les changements intervenus sur le site, l’organisation et le personnel, la radioprotection, les déchets radioactifs, la situation radiologique ainsi que les derniers enseignements de la science et de la technique. Ce rapport contient les résultats de l’évaluation systématique de la sécurité et il renseigne sur les dossiers en suspens auprès de l’IFSN, sur les événements et les constats, sur les modifications apportées à l’installation ainsi que sur les travaux de maintenance. À rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
+<tr><td>Rapport annuel de sûreté</td><td>Rapport des installations nucléaires contenant les données essentielles sur l’organisation de la sûreté et un résumé des événements survenus dans ce domaine au cours de l’année. Il renseigne en particulier sur le personnel et l’organisation de la sûreté, les interventions spéciales des gardiens de l’entreprise, le recours à des entreprises tierces pour des tâches de gardiennage, les observations faites dans le domaine de la sûreté pendant l’arrêt pour révision, la fréquence et les résultats des examens et des tests de fonctionnement des équipement de sûreté, les pannes ayant affecté des composants importants de la sûreté, les modifications apportées aux constructions, les événements et les constats particuliers, et sur la statistique des badges donnant accès aux zones de sûreté. Ce rapport doit être classifié. À rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
+<tr><td>Rapport trimestriel</td><td>Rapport de l’entrepôt central, des dépôts en couches géologiques profondes et de l’Institut Paul Scherrer. Il renseigne en particulier sur les doses individuelles, la dosimétrie des installations et du périmètre, les rejets de substances radioactives avec les effluents gazeux et liquides, la surveillance des alentours, les déchets radioactifs, les campagnes de conditionnement, les événements et constats, les modifications et les travaux de maintenance. À rendre au plus tard la fin du mois qui suit le trimestre.</td><td>Trimestre</td></tr>
+<tr><td>Rapport mensuel</td><td>Rapport des centrales nucléaires sur l’exploitation de l’installation et comparaisons avec les mois précédents (tendances), portant en particulier sur l’exploitation et la sécurité, la chimie, la radioprotection, avec des indications sur la dosimétrie individuelle, les rejets de substances radioactives, les déchets radioactifs, les événements et les constats, l’organisation, le personnel et la formation ainsi que les projets, les analyses, les retours d’expérience, les événements survenus dans des installations comparables, les activités et les résultats des travaux de maintenance. À rendre au plus tard la fin du mois qui suit le trimestre.</td><td>Mois</td></tr>
+<tr><td>Rapport de révision technique</td><td>Rapport des centrales nucléaires, avec la description et l’appréciation des mesures prises, des résultats et enseignements qui ont été recueillis au cours des travaux de révision et qui comptent pour la sécurité. Délais de remise: a. premier rapport: 4 jours ouvrables avant la remise en service prévue de l’installation; b. rapport définitif: au plus tard 3 mois après la remise en service de l’installation.</td><td>À chaque révision de l’installation</td></tr>
+<tr><td>Rapport de révision Radioprotection</td><td>Rapport des centrales nucléaires sur la révision, avec des indications détaillées sur les mesurages de la radioactivité et les enseignements à en tirer, avec une appréciation de l’exploitant et des propositions de mesures propres à réduire encore les doses. À rendre au plus tard 3 mois après la remise en service de l’installation.</td><td>À chaque révision de l’installation</td></tr>
+<tr><td>Rapport de révision Physique</td><td>Rapport des centrales nucléaires, avec les résultats et l’appréciation des mesurages de la physique du réacteur effectués lors de la remise en marche après la révision, et ce pour différents niveaux de puissance. Délais de remise: a. résultats des mesurages à la puissance zéro et au démarrage: avant le lancement au-delà de 5 % de la puissance nominale de l’installation; b. rapport définitif: au plus tard 3 mois après la remise en service de l’installation.</td><td>À chaque révision de l’installation</td></tr>
+<tr><td>Rapport dosimétrie</td><td>Rapport des centrales nucléaires contenant des indications sur les doses collectives, la répartition des doses, les doses personnelles et les doses collectives spécifiques d’une activité. À rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
+<tr><td>Rapport sur la surveillance des alentours</td><td>Rapport des centrales nucléaires, de l’entrepôt central, des dépôts en couches géologiques profondes et de l’Institut Paul Scherrer, contenant des indications relatives aux rejets de substances radioactives et à la surveillance de la radioactivité et du rayonnement direct aux alentours des installations. Ce rapport peut être intégré au rapport mensuel ou au rapport trimestriel. À rendre au plus tard à la fin du mois qui suit le trimestre en question.</td><td>Trimestre</td></tr>
+<tr><td>Rapport sur les sources radioactives</td><td>Rapport des installations nucléaires avec la liste de toutes les sources radioactives se trouvant dans l’installation. À rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
+<tr><td>Rapport sur le réexamen complet de la sécurité approfondie</td><td>Rapport des centrales nucléaires sur le réexamen périodique de la sécurité, ses résultats et son appréciation. À rendre selon les instructions de l’IFSN.</td><td>Tous les 10 ans</td></tr>
+<tr><td>Données sur l’indisponibilité de systèmes et de composants</td><td>Rapport des centrales nucléaires. En cas d’indisponibilité de composants importants pour le risque qui ont été pris en compte dans le modèle d’APS, indiquer la date et la durée de l’indisponibilité, avec une brève description de sa cause et la désignation du composant affecté. À rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
+<tr><td>Liste des modifications de l’installation à prendre en compte dans l’APS</td><td>Rapport des centrales nucléaires donnant la liste des modifications apportées à l’installation qui pourraient jouer un rôle dans l’APS mais n’ont pas encore été prises en compte dans le modèle d’APS. À rendre au plus tard le 1<sup>er</sup> mars de l’année suivante.</td><td>Année civile</td></tr>
 </table>
 
 Annexe 6*[^t-5]*
@@ -1684,7 +1692,7 @@ Annexe 6*[^t-5]*
 
 ## Rapports sur les événements et les constats dans le domaine de la sécurité
 
-[^t-5]: Nouvelle teneur selon le ch. 4 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Mise à jour selon l’erratum du 16 oct. 2018 ([RO 2018 3441](https://fedlex.data.admin.ch/eli/oc/2018/559)).
+[^t-5]: Nouvelle teneur selon l’annexe 11 ch. 4 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Mise à jour selon l’erratum du 16 oct. 2018 ([RO 2018 3441](https://fedlex.data.admin.ch/eli/oc/2018/559)).
 
 ### A. Rapport d’événement et rapport sur les mesures consécutives
 
@@ -1704,8 +1712,8 @@ Il convient de classer les événements et les constats visés aux art. 21, al. 
 <tr><th>Classe</th><th>Critères</th></tr>
 <tr><td>**Urgence grave** (General Emergency)</td><td>Un événement qui représente une menace immédiate sérieuse ou un pronostic de risque radiologique pour le voisinage et qui exige obligatoirement la préparation ou la réalisation de mesures de protection dans le voisinage des installations nucléaires.</td></tr>
 <tr><td>**Urgence de site** (Site Area Emergency)</td><td>Un événement qui pourrait conduire à un accident grave ou qui représente une sérieuse menace radiologique sur le site de l’installation. Un danger radiologique prochain (pronostiqué) pour le voisinage, nécessitant la mise sur pied de l’état-major d’urgence de l’installation nucléaire est possible.</td></tr>
-<tr><td>**Etat de préparation** (Alert)</td><td>Un événement qui conduit à une réduction significative du niveau de protection pour le personnel de l’entreprise ou qui pourrait conduire à un accident de site ou un accident grave et qui exige, selon le cas, la mise sur pied de l’état-major d’urgence de l’installation nucléaire ou de fractions de celui-ci.</td></tr>
-<tr><td>**Evénement soumis à l’obligation de déclarer**</td><td>Événement ou constat qui concerne la sécurité nucléaire, mais qui ne constitue pas une situation d’urgence.</td></tr>
+<tr><td>**État de préparation** (Alert)</td><td>Un événement qui conduit à une réduction significative du niveau de protection pour le personnel de l’entreprise ou qui pourrait conduire à un accident de site ou un accident grave et qui exige, selon le cas, la mise sur pied de l’état-major d’urgence de l’installation nucléaire ou de fractions de celui-ci.</td></tr>
+<tr><td>**Événement soumis à l’obligation de déclarer**</td><td>Événement ou constat qui concerne la sécurité nucléaire, mais qui ne constitue pas une situation d’urgence.</td></tr>
 </table>
 
 ### 2. Classification selon l’échelle internationale INES de l’AIEA
@@ -1719,12 +1727,12 @@ Il convient, en outre, de classer les événements et constats visés aux art. 2
 <tr><td>5</td><td>Accident entraînant une mise en danger du voisinage du site</td><td>– Rejet de produits de fission dans le voisinage du site (en quantités équivalant, du point de vue radiologique, à un rejet de l’ordre de 500 à 5000 TBq d’iode-131). – Dommages graves au coeur avec relâchement d’une grande quantité de radioactivité à l’intérieur de l’installation.</td></tr>
 <tr><td>4</td><td>Accident sans mise en danger significative du voisinage du site</td><td>– Rejet supérieur aux valeurs limites autorisées de substances radioactives dans le voisinage du site, entraînant, pour l’individu le plus exposé, une dose de quelques millisieverts. – Avarie partielle du coeur du réacteur due à des effets mécaniques et/ou à une fusion. – Irradiation du personnel ayant pour effet probable un décès à court terme.</td></tr>
 <tr><td>3</td><td>Incident grave</td><td>– Rejet supérieur aux valeurs limites autorisées de substances radioactives dans le voisinage du site, pouvant entraîner, pour l’individu le plus exposé hors du site, une dose de l’ordre de quelques dixièmes de millisievert. – Irradiation du personnel assez forte pour qu’il faille s’attendre à des effets aigus sur la santé des travailleurs. Niveau élevé de contamination dans l’installation. – Défaillance à la suite de laquelle une panne supplémentaire des équipements de sécurité pourrait entraîner un accident, ou situation où des équipements de sécurité ne pourraient pas empêcher un accident si certains événements se produisaient.</td></tr>
-<tr><td>2</td><td>Incident</td><td>– Evénement ou constat accompagné de défaillances majeures de certains équipements de sécurité, mais avec des mesures préventives suffisantes pour corriger encore des erreurs supplémentaires. Evénement ou constat de niveau 1, mais avec des carences non négligeables dans l’organisation ou sur le plan de la culture de la sécurité. – Evénement à l’origine d’une irradiation du personnel dépassant la limite admissible de la dose annuelle. Dispersion significative de radioactivité dans l’installation, dépassant les limites admises lors du dimensionnement.</td></tr>
-<tr><td>1</td><td>Anomalie</td><td>– Anomalie amenant l’installation en dehors des conditions de fonctionnement prescrites. Elle peut être due à une défaillance du matériel, à une erreur humaine ou à une insuffisance dans les procédures. Evénement ou constat sans importance directe pour la sécurité, mais avec des carences non négligeables dans l’organisation ou sur le plan de la culture de la sécurité.</td></tr>
-<tr><td>0</td><td>Evénements et constats sans signification pour la sécurité</td><td>– Evénements et constats ne sortant pas des valeurs limites et conditions fixées à l’exploitation et qui n’exigent que l’application des procédures appropriées. Exemples: Défaillance unique dans un système redondant, constatée lors des contrôles périodiques. Arrêt automatique du réacteur, suivi du comportement normal de l’installation. Fuites ne dépassant pas les limites des conditions d’exploitation. Tous ces exemples sont sans lien direct avec la culture de la sécurité.</td></tr>
+<tr><td>2</td><td>Incident</td><td>– Événement ou constat accompagné de défaillances majeures de certains équipements de sécurité, mais avec des mesures préventives suffisantes pour corriger encore des erreurs supplémentaires. Événement ou constat de niveau 1, mais avec des carences non négligeables dans l’organisation ou sur le plan de la culture de la sécurité. – Événement à l’origine d’une irradiation du personnel dépassant la limite admissible de la dose annuelle. Dispersion significative de radioactivité dans l’installation, dépassant les limites admises lors du dimensionnement.</td></tr>
+<tr><td>1</td><td>Anomalie</td><td>– Anomalie amenant l’installation en dehors des conditions de fonctionnement prescrites. Elle peut être due à une défaillance du matériel, à une erreur humaine ou à une insuffisance dans les procédures. Événement ou constat sans importance directe pour la sécurité, mais avec des carences non négligeables dans l’organisation ou sur le plan de la culture de la sécurité.</td></tr>
+<tr><td>0</td><td>Événements et constats sans signification pour la sécurité</td><td>– Événements et constats ne sortant pas des valeurs limites et conditions fixées à l’exploitation et qui n’exigent que l’application des procédures appropriées. Exemples: Défaillance unique dans un système redondant, constatée lors des contrôles périodiques. Arrêt automatique du réacteur, suivi du comportement normal de l’installation. Fuites ne dépassant pas les limites des conditions d’exploitation. Tous ces exemples sont sans lien direct avec la culture de la sécurité.</td></tr>
 </table>
 
-### 3. Evaluation de l’intérêt public
+### 3. Évaluation de l’intérêt public
 
 Lors d’événements ou de constats visés aux art. 21, al. 1, et 38, al. 3, let. a et c, ainsi que lors d’autres événements, il faut évaluer s’il existe un intérêt public.
 
@@ -1732,7 +1740,7 @@ Délais de notification et de rapport
 
 <table>
 <tr><td></td><td colspan="4">**Sécurité nucléaire**</td><td></td></tr>
-<tr><td></td><td>**S** Urgence grave</td><td>**A** Urgence de site</td><td>**B** Alerte</td><td>**M** Evénement soumis à l’obligation de déclarer</td><td>**Ö** Evénement d’intérêt public</td></tr>
+<tr><td></td><td>**S** Urgence grave</td><td>**A** Urgence de site</td><td>**B** Alerte</td><td>**M** Événement soumis à l’obligation de déclarer</td><td>**Ö** Événement d’intérêt public</td></tr>
 <tr><td>Notification par téléphone (première information)</td><td>de suite</td><td>de suite</td><td>de suite</td><td>24 heures<sup>1</sup></td><td>de suite<sup>2</sup></td></tr>
 <tr><td>Confirmation écrite de la notification</td><td>dans le cadre de l’organisation d’urgence de l’IFSN</td><td>dans le cadre de l’organisation d’urgence de l’IFSN</td><td>dans le cadre de l’organisation d’urgence de l’IFSN</td><td>24 heures<sup>1</sup></td><td>dans les 2 h. après la 1<sup>re</sup> information</td></tr>
 <tr><td>Rapport d’événement</td><td>36 heures</td><td>36 heures</td><td>10 jours</td><td>30 jours</td><td>Rapport mensuel<sup>3</sup></td></tr>

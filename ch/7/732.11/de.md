@@ -4,11 +4,11 @@ title: Kernenergieverordnung vom 10. Dezember 2004 (KEV)
 short: KEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: de
-version: 2019-02-01
+version: 2022-01-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20190201/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20190201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20190201/de"
 
 (KEV)
 
-vom 10. Dezember 2004 (Stand am 1. Februar 2019)
+vom 10. Dezember 2004 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -266,7 +266,7 @@ Das Bundesamt ist zuständig für die Erteilung:
 
 <sup>2</sup>
 
-Die Unterlagen müssen alle zur Beurteilung des Gesuchs erforderlichen Angaben enthalten, insbesondere über:
+Die Unterlagen müssen alle zur Beurteilung des Gesuchs erforderlichen Angaben enthalten, insbesondere die Angaben über:[^15-1]
 
 - a. die Zusammensetzung und die Eigenschaften des Materials;
 - b. die technischen Einzelheiten der Ausrüstung;
@@ -274,7 +274,9 @@ Die Unterlagen müssen alle zur Beurteilung des Gesuchs erforderlichen Angaben e
 - d. den Bestimmungsort und den Abnehmer;
 - e. den Verwendungszweck;
 - f. die Kaufs- oder Verkaufsbedingungen;
-- g. den Transport, insbesondere den Nachweis über die Einhaltung der Anforderungen an die Beförderung gefährlicher Güter.
+- g. den Transport, insbesondere den Nachweis über die Einhaltung der Anforderungen an die Beförderung gefährlicher Güter;
+- h.[^15-2] die haftenden Inhaber einer Kernanlage gemäss Artikel 2 Buchstabe b des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008[^15-3];
+- i.[^15-4] den Nachweis der Deckung gemäss den Artikeln 1 Buchstabe c und 2 Absatz 3 der Kernenergiehaftpflichtverordnung vom 25. März 2015[^15-5].
 
 <sup>3</sup>
 
@@ -301,6 +303,12 @@ Auf Verlangen hat der Inhaber einer Bewilligung für die Vermittlung von Kernmat
 - e. die Vertragspartner.
 
 <sup>5</sup> Das Bundesamt kann bei Bedarf zusätzliche Unterlagen anfordern.
+
+[^15-1]: Fassung gemäss Art. 21 Abs. 2 der Kernenergiehaftpflichtverordnung vom 25. März 2015, in Kraft seit 1. Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-2]: Eingefügt durch Art. 21 Abs. 2 der Kernenergiehaftpflichtverordnung vom 25. März 2015, in Kraft seit 1. Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^15-4]: Eingefügt durch Art. 21 Abs. 2 der Kernenergiehaftpflichtverordnung vom 25. März 2015, in Kraft seit 1. Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
+[^15-5]: [SR 732.441](https://fedlex.data.admin.ch/eli/cc/2021/860)
 
 #### Art. 16
 
@@ -1355,7 +1363,7 @@ Folgende Verordnungen werden aufgehoben:
 
 [^80-1]: [[AS 1979 972](https://fedlex.data.admin.ch/eli/oc/1979/972_972_972)]
 [^80-2]: [[AS 1989 2476](https://fedlex.data.admin.ch/eli/oc/1989/2476_2476_2476)]
-[^80-3]: [[AS 1984 209](https://fedlex.data.admin.ch/eli/oc/1984/209_209_209), [1987 546](https://fedlex.data.admin.ch/eli/oc/1987/546_546_546)[1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484), [1991 1450](https://fedlex.data.admin.ch/eli/oc/1991/1450_1450_1450), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 10, [1994 140](https://fedlex.data.admin.ch/eli/oc/1994/140_140_140), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 65, [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128), [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Art. 29]
+[^80-3]: [[AS 1984 209](https://fedlex.data.admin.ch/eli/oc/1984/209_209_209); [1987 546](https://fedlex.data.admin.ch/eli/oc/1987/546_546_546), [1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484); [1991 1450](https://fedlex.data.admin.ch/eli/oc/1991/1450_1450_1450); [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 10; [1994 140](https://fedlex.data.admin.ch/eli/oc/1994/140_140_140); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 65; [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128); [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Art. 29]
 [^80-4]: [[AS 1983 283](https://fedlex.data.admin.ch/eli/oc/1983/283_283_283)]
 
 #### Art. 81
@@ -1421,7 +1429,7 @@ Anhang 2*[^t-2]*
 
 Die Anordnung der für die Sicherung relevanten Zonen bzw. Areale und Sicherungsschranken hat abgestuft gemäss folgendem Schema zu erfolgen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20190201/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20220101/de/xml/image/image1.png)
 
 Die verschiedenen Sicherungsschranken haben folgende Funktionen:
 
