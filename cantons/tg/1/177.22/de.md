@@ -4,13 +4,13 @@ number: "177.22"
 title: Verordnung des Grossen Rates über die Besoldung des Staatspersonals
 short: Besoldungsverordnung; BesVO
 language: de
-version: 2018-09-01
-valid_until: 2021-12-31
-version_adopted: 2018-03-28
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-09-01
 adopted: 1998-11-18
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.22"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1575/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2464/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ BesVO
 
 (Besoldungsverordnung; BesVO)
 
-vom 18.11.1998 (Stand 01.09.2018)
+vom 18.11.1998 (Stand 01.01.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -97,9 +97,9 @@ vom 18.11.1998 (Stand 01.09.2018)
 
 <sup>2</sup> Als Grundbesoldung gelten der Ansatz nach der Besoldungsklasse sowie die Ansätze nach den Besonderen Bestimmungen dieser Verordnung, soweit diese nicht als Zulagen bezeichnet werden.
 
-<sup>3</sup> Zulagen gemäss Absatz 1 Ziffer 3 werden nur gewährt, wenn ihre Voraussetzungen nicht in der Grundbesoldung berücksichtigt sind, namentlich bei Erschwernissen oder Belastungen vorübergehender Natur.
+<sup>3</sup> Zulagen gemäss Abs. 1 Ziff. 3 werden nur gewährt, wenn ihre Voraussetzungen nicht in der Grundbesoldung berücksichtigt sind, namentlich bei Erschwernissen oder Belastungen vorübergehender Natur.
 
-[^6-1]: Jetzt Familienzulagen; SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
+[^6-1]: Heute: Familienzulagen, vgl. Bundesgesetz über die Familienzulagen und Finanzhilfen an Familienorganisationen (FamZG; SR [836.2](https://db.clex.ch/link/Bund/836.2/de))
 
 #### § 7
 
@@ -227,13 +227,13 @@ vom 18.11.1998 (Stand 01.09.2018)
 
 <sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter haben Anspruch auf Kinder- und Ausbildungszulagen. Diese richten sich nach dem Gesetz über die Kinder- und Ausbildungszulagen[^18-1].
 
-[^18-1]: Jetzt Gesetz über die Familienzulagen; [836.1](https://www.rechtsbuch.tg.ch/data/836.1/de).
+[^18-1]: Heute: Gesetz über die Familienzulagen (Familienzulagengesetz, TG FamZG; RB [836.1](https://www.rechtsbuch.tg.ch/data/836.1/de))
 
 #### § 19
 
 **Familienzulage**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter mit Anspruch auf eine Kinder- oder Ausbildungszulage erhalten eine Familienzulage von Fr. 225.– pro Monat.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter mit Anspruch auf eine Kinder- oder Ausbildungszulage erhalten eine Familienzulage von Fr. 225 pro Monat.
 
 <sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
 
@@ -267,9 +267,9 @@ vom 18.11.1998 (Stand 01.09.2018)
 
 #### § 22
 
-**Schwangerschaft und Mutterschaft**
+**Schwangerschafts- und Mutterschaftsurlaub**
 
-<sup>1</sup> Mitarbeiterinnen, welche die Voraussetzungen für die Mutterschaftsentschädigung gemäss dem Bundesgesetz über die Erwerbsersatzordnung für Dienstleistende in Armee, Zivildienst und Zivilschutz[^22-1] erfüllen, haben Anspruch auf 16 Wochen besoldeten Urlaub. Während des Urlaubs besteht ein Anspruch auf volle Besoldung gemäss dem Beschäftigungsgrad vor der Niederkunft.
+<sup>1</sup> Mitarbeiterinnen, die gemäss Art. 16b des Erwerbsersatzgesetzes (EOG)[^22-1] für eine Mutterschaftsentschädigung anspruchsberechtigt sind, haben Anspruch auf 16 Wochen besoldeten Urlaub. Während des Urlaubs besteht ein Anspruch auf volle Besoldung gemäss dem Beschäftigungsgrad vor der Niederkunft.
 
 <sup>2</sup> Der Urlaub beginnt in der Regel zwei Wochen vor dem ärztlich bestimmten Niederkunftstermin.
 
@@ -283,6 +283,34 @@ vom 18.11.1998 (Stand 01.09.2018)
 - 4\. die Anrechnung von Sozialversicherungsleistungen.
 
 [^22-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
+
+#### § 22a
+
+**Vaterschaftsurlaub**
+
+<sup>1</sup> Mitarbeiter, die gemäss Art. 16i EOG für eine Vaterschaftsentschädigung anspruchsberechtigt sind, haben Anspruch auf zwei Wochen besoldeten Urlaub. Während des Urlaubs besteht ein Anspruch auf volle Besoldung gemäss dem Beschäftigungsgrad zum Zeitpunkt der Geburt des Kindes.
+
+<sup>2</sup> Der Vaterschaftsurlaub muss innert sechs Monaten ab Geburt des Kindes bezogen werden. Er kann wochen- oder tageweise bezogen werden.
+
+<sup>3</sup> Der Regierungsrat regelt insbesondere:
+
+- 1\. den Anspruch auf Nachgewährung des Urlaubs bei Krankheit oder Unfall;
+- 2\. weitere Bezugsmodalitäten sowie die Folgen eines unvollständigen Bezugs des Urlaubs bis zum Austritt.
+
+#### § 22b
+
+**Betreuungsurlaub**
+
+<sup>1</sup> Mitarbeiterinnen oder Mitarbeiter, die als Eltern gemäss Art. 16n EOG für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten minderjährigen Kindes anspruchsberechtigt sind, haben Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen. Während des Urlaubs besteht ein Anspruch auf volle Besoldung gemäss dem Beschäftigungsgrad vor Beginn des Entschädigungsanspruchs.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Bezug des ersten Urlaubstags. Der Urlaub kann am Stück oder tageweise bezogen werden.
+
+<sup>3</sup> Sind beide Elternteile erwerbstätig, so hat jeder Elternteil Anspruch auf höchstens die Hälfte des Urlaubs. Sie können eine abweichende Aufteilung wählen.
+
+<sup>4</sup> Der Regierungsrat regelt insbesondere:
+
+- 1\. den Anspruch auf Nachgewährung bei Krankheit oder Unfall;
+- 2\. weitere Bezugsmodalitäten.
 
 #### § 23
 
@@ -473,10 +501,6 @@ vom 18.11.1998 (Stand 01.09.2018)
 
 #### § 40
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^40-1].
-
-[^40-1]: In Kraft gesetzt auf den 1. Januar 2000.
+**…**
 
 ABl. 49/1998
