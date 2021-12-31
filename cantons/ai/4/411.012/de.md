@@ -4,20 +4,22 @@ number: "411.012"
 title: Landesschulkommissionsbeschluss zum Schulgesetz
 short: LSKB SchG
 language: de
-version: 2018-08-01
-corrected: 2018-12-27
-version_adopted: 2018-10-03
+version: 2022-01-01
+valid_until: 2022-07-31
+version_adopted: 2021-12-16
 adopted: 2005-05-18
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.012"
-pdf: "https://ai.clex.ch/api/de/versions/1610/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/1987/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Landesschulkommissionsbeschluss zum Schulgesetz
 
-vom 18.05.2005 (Stand 01.08.2018)
+(LSKB SchG)
+
+vom 18.05.2005 (Stand 01.01.2022)
 
 Die Landesschulkommission des Kantons Appenzell I.Rh.,
 
@@ -62,17 +64,15 @@ beschliesst:
 
 **Verfahren zur Aufnahme**
 
-<sup>1</sup> Die Inhaber der elterlichen Sorge oder die Kindergärtnerin, nach Orientierung der Inhaber[^3-1] der elterlichen Sorge, melden die für den Besuch der Einführungsklasse vorgesehenen Kinder spätestens bis Ende März beim Schulrat an.
+<sup>1</sup> Die Inhaber der elterlichen Sorge oder die Kindergarten-Lehrperson, nach Orientierung der Inhaber der elterlichen Sorge, melden die für den Besuch der Einführungsklasse vorgesehenen Kinder spätestens bis Ende März beim Schulrat an.
 
-<sup>2</sup> Die Lehrkraft der ersten Primarklasse hat die Möglichkeit, nach Orientierung der Inhaber der elterlichen Sorge, beim Schulrat ein Kind bis Ende November zur Einteilung in die Einführungsklasse anzumelden.
+<sup>2</sup> Die Lehrperson der ersten Primarklasse hat die Möglichkeit, nach Orientierung der Inhaber der elterlichen Sorge, beim Schulrat ein Kind bis Ende November zur Einteilung in die Einführungsklasse anzumelden.
 
-<sup>3</sup> Der Anmeldung ist ein schriftlicher Bericht der Kindergärtnerin über die bisherigen Beobachtungs- und Testergebnisse mit der Begründung für den Antrag auf die Einweisung in die Einführungsklasse beizulegen.
+<sup>3</sup> Der Anmeldung ist ein schriftlicher Bericht der Kindergarten-Lehrperson über die bisherigen Beobachtungs- und Testergebnisse mit der Begründung für den Antrag auf die Einweisung in die Einführungsklasse beizulegen.
 
 <sup>4</sup> Der Schulrat entscheidet aufgrund dieses Berichtes über die Aufnahme in die Einführungsklasse. Er kann zur Entscheidungsfindung einen zusätzlichen Bericht des schulpsychologischen Dienstes anfordern.
 
 <sup>5</sup> Die Aufnahme in die Einführungsklasse erfolgt in der Regel zu Beginn des Schuljahres.
-
-[^3-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
 #### Art. 4
 
@@ -94,9 +94,9 @@ beschliesst:
 
 #### Art. 6
 
-**Lehrkräfte**
+**Lehrpersonen**
 
-<sup>1</sup> Die Lehrbewilligung nach Art. 32 SchG kann in der Regel nur an Lehrkräfte erteilt werden, die
+<sup>1</sup> Die Lehrbewilligung nach Art. 32 SchG kann in der Regel nur an Lehrpersonen erteilt werden, die
 
 - a) im Besitze eines anerkannten Primarlehrerpatentes sind,
 - b) Unterrichtserfahrung auf der Unterstufe haben und
@@ -106,11 +106,11 @@ beschliesst:
 
 **Lehrplan**
 
-<sup>1</sup> Der Unterricht richtet sich nach dem Stoffplan für die erste Primarklasse.
+<sup>1</sup> Der Unterricht richtet sich nach dem Lehrplan für den ersten Zyklus.
 
-<sup>2</sup> Am Anfang der ersten Einführungsklasse werden zusätzliche Programme zur individuellen Förderung der Grundfunktionen durchgeführt.
+<sup>2</sup> …
 
-<sup>3</sup> Gegen Ende der zweiten Einführungsklasse wird ein Übungsprogramm zur Vorbereitung auf den Übertritt in eine zweite Klasse durchgeführt. Es wird auf vermehrte Selbständigkeit und raschere Arbeitsweise geachtet.
+<sup>3</sup> …
 
 #### Art. 8
 
@@ -120,10 +120,10 @@ beschliesst:
 
 <sup>2</sup> Für beide Einführungsklassen gilt in sinngemässer Anwendung von Art. 45 dieses Beschlusses:
 
-- a) Die Lehrkraft orientiert vor dem 31. Januar die Eltern mündlich oder schriftlich über die Lernfortschritte in den einzelnen Fächern.
-- b) Auf das Ende des Schuljahres stellt die Lehrkraft ein Schulzeugnis aus, in dem sie mit Worten die Schülerleistungen in den im Zeugnis aufgeführten Fächern bewertet.
+- a) Die Lehrperson orientiert vor dem 31. Januar die Inhaber der elterlichen Sorge mündlich oder schriftlich über die Lernfortschritte in den einzelnen Fächern.
+- b) Auf das Ende des Schuljahres stellt die Lehrperson ein Schulzeugnis aus, in dem sie mit Worten die Schülerleistungen in den im Zeugnis aufgeführten Fächern bewertet.
 
-<sup>3</sup> Die Zeugnisausgabe kann im Einverständnis mit dem Schulamt flexibel gestaltet werden.
+<sup>3</sup> Die Zeugnisausgabe kann im Einverständnis mit dem Volksschulamt flexibel gestaltet werden.
 
 <sup>4</sup> Im Beurteilungsgespräch des zweiten Jahres sind die Inhaber der elterlichen Sorge auch über die vorgesehenen Anträge zur Weiterschulung im folgenden Schuljahr zu orientieren.
 
@@ -147,7 +147,7 @@ beschliesst:
 
 **Verfahren zur Aufnahme**
 
-<sup>1</sup> Die Inhaber der elterlichen Sorge oder die Kindergärtnerin nach Orientierung der Inhaber der elterlichen Sorge, melden die für den Besuch der Vorschulklasse vorgesehenen Kinder spätestens bis Ende März beim Schulrat an.
+<sup>1</sup> Die Inhaber der elterlichen Sorge oder die Kindergarten-Lehrperson nach Orientierung der Inhaber der elterlichen Sorge, melden die für den Besuch der Vorschulklasse vorgesehenen Kinder spätestens bis Ende März beim Schulrat an.
 
 <sup>2</sup> Der Anmeldung ist ein schriftlicher Bericht über die bisherigen Beobachtungs- und Testergebnisse mit der Begründung für den Antrag auf die Einweisung in die Vorschulklasse beizulegen.
 
@@ -173,7 +173,7 @@ beschliesst:
 
 #### Art. 14
 
-**Lehrkräfte**
+**Lehrpersonen**
 
 <sup>1</sup> Die Lehrbewilligung richtet sich nach Art. 32 SchG.
 
@@ -181,13 +181,13 @@ beschliesst:
 
 **Lehrplan**
 
-<sup>1</sup> Der Unterricht richtet sich nach dem Stoffplan zur Vorschulklasse im Kindergartenlehrplan.
+<sup>1</sup> Der Unterricht richtet sich nach dem Lehrplan des ersten Zyklus.
 
 #### Art. 16
 
 **Zeugnis**
 
-<sup>1</sup> Es wird kein schriftliches Zeugnis erstellt. Die Lehrkraft orientiert jeweils vor dem Ende eines Semesters die Inhaber der elterlichen Sorge mündlich oder schriftlich über die Lernfortschritte.
+<sup>1</sup> Es wird kein schriftliches Zeugnis erstellt. Die Lehrperson orientiert jeweils vor dem Ende eines Semesters die Inhaber der elterlichen Sorge mündlich oder schriftlich über die Lernfortschritte.
 
 <sup>2</sup> Im Beurteilungsgespräch am Ende des Schuljahres sind die Inhaber der elterlichen Sorge auch über die vorgesehenen Anträge zur Weiterbeschulung im folgenden Jahr zu orientieren.
 
@@ -197,11 +197,11 @@ beschliesst:
 
 **Aufnahmeverfahren**
 
-<sup>1</sup> Die Inhaber der elterlichen Sorge oder die Kindergärtnerin, letztere nach Orientierung der Inhaber der elterlichen Sorge, melden Kinder für den Besuch der Kleinklasse bis spätestens Ende März beim Schulrat an.
+<sup>1</sup> Die Inhaber der elterlichen Sorge oder die Kindergarten-Lehrperson, letztere nach Orientierung der Inhaber der elterlichen Sorge, melden Kinder für den Besuch der Kleinklasse bis spätestens Ende März beim Schulrat an.
 
-<sup>2</sup> Die Lehrkraft hat die Möglichkeit, nach Orientierung der Inhaber der elterlichen Sorge, beim Schulrat ein Kind zur Einteilung in die Kleinklasse anzumelden.
+<sup>2</sup> Die Lehrperson hat die Möglichkeit, nach Orientierung der Inhaber der elterlichen Sorge, beim Schulrat ein Kind zur Einteilung in die Kleinklasse anzumelden.
 
-<sup>3</sup> Der Anmeldung ist ein schriftlicher Bericht der Kindergärtnerin und/oder Lehrkraft über die bisherigen Beobachtungs- und Testergebnisse mit der Begründung für den Antrag auf die Einweisung in die Kleinklasse beizulegen.
+<sup>3</sup> Der Anmeldung ist ein schriftlicher Bericht der Kindergarten-Lehrperson und/oder Lehrperson über die bisherigen Beobachtungs- und Testergebnisse mit der Begründung für den Antrag auf die Einweisung in die Kleinklasse beizulegen.
 
 <sup>4</sup> Der Schulrat entscheidet aufgrund dieses Berichtes über die Aufnahme in die Kleinklasse. Er kann zur Entscheidungsfindung einen zusätzlichen Bericht des schulpsychologischen Dienstes anfordern.
 
@@ -211,13 +211,13 @@ beschliesst:
 
 **Übertritt in die Regelklasse**
 
-<sup>1</sup> Auf Empfehlung der Lehrkraft ist ein Übertritt in die Regelklasse durch Entscheid des Schulrates möglich.
+<sup>1</sup> Auf Empfehlung der Lehrperson ist ein Übertritt in die Regelklasse durch Entscheid des Schulrates möglich.
 
 #### Art. 19
 
-**Lehrkräfte**
+**Lehrpersonen**
 
-<sup>1</sup> Die Lehrbewilligung nach Art. 32 SchG kann in der Regel nur an Lehrkräfte erteilt werden, die
+<sup>1</sup> Die Lehrbewilligung nach Art. 32 SchG kann in der Regel nur an Lehrpersonen erteilt werden, die
 
 - a) im Besitze eines anerkannten Primarlehrerpatentes sind,
 - b) langjährige Unterrichtserfahrung haben und
@@ -227,7 +227,7 @@ beschliesst:
 
 **Lehrplan**
 
-<sup>1</sup> Der Unterricht richtet sich nach den Minimallernzielen und nach den Pfeilerstoffen des Volksschullehrplanes der entsprechenden Stufe.
+<sup>1</sup> Der Unterricht richtet sich nach den Lehrplanteilen bis zu den Grundansprüchen des jeweiligen Zyklus.
 
 #### Art. 21
 
@@ -249,7 +249,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Bestimmungen dieses Abschnittes gelten für die Schule Oberegg, solange die Schulgemeinde Oberegg eine Integrative Schulungsform führt.
+<sup>1</sup> Die Bestimmungen dieses Abschnittes gelten für die Schule Oberegg, welche eine integrative Schulungsform führt.
 
 #### Art. 22b
 
@@ -267,13 +267,13 @@ beschliesst:
 
 **Betreuung durch die Schulische Heilpädagogin**
 
-<sup>1</sup> Die Schulische Heilpädagogin fördert und unterrichtet Schulkinder mit Schulschwierigkeiten und ist für eine ganzheitliche förderorientierte Erfassung und Förderung des Kindes besorgt. Nach der Problemerkennung und einer ersten Erfassung wird in Absprache mit der Lehrkraft und den Eltern der Umfang (Anzahl Lektionen und Dauer) und die Form der Förderung (Einzelförderung, Kleingruppe, integrativ in der Klasse) vereinbart. Der Schulrat ist regelmässig zu informieren.
+<sup>1</sup> Die Schulische Heilpädagogin fördert und unterrichtet Schulkinder mit Schulschwierigkeiten und ist für eine ganzheitliche förderorientierte Erfassung und Förderung des Kindes besorgt. Nach der Problemerkennung und einer ersten Erfassung wird in Absprache mit der Lehrperson und den Inhabern der elterlichen Sorge der Umfang (Anzahl Lektionen und Dauer) und die Form der Förderung (Einzelförderung, Kleingruppe, integrativ in der Klasse) vereinbart. Der Schulrat ist regelmässig zu informieren.
 
 #### Art. 22e
 
 **Individuelle Lernziele**
 
-<sup>1</sup> Für Kinder und Jugendliche mit Schulleistungsproblemen können individuelle Rahmenbedingungen geschaffen werden. Kann ein Kind die Ziele des Lehrplanes seiner Stufe nicht erreichen, definiert eine Schulische Heilpädagogin, zusammen mit der Lehrkraft und in Absprache mit den Eltern individuelle Lernziele. Im Zeugnis wird bei den Fächern mit reduzierten Lernzielen ein Vermerk auf den beiliegenden Lernzielkatalog gemacht.
+<sup>1</sup> In Absprache mit den Inhabern der elterlichen Sorge und dem Volksschulamt oder der Schulleitung können für Schüler in einzelnen Fachbereichen individuelle Lernziele festgelegt werden. Dies wird im Notenfeld mit "ILZ" und dem Hinweis "Dokumentation Lernbericht" ausgewiesen.
 
 #### Art. 22f
 
@@ -315,17 +315,17 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Aufsicht wird durch das Schulamt wahrgenommen.
+<sup>1</sup> Die Aufsicht wird durch das Volksschulamt wahrgenommen.
 
-<sup>2</sup> Das Schulamt hat zu den in Art. 22h Abs. 4 dieses Beschlusses genannten Zeiten freien Zutritt zu den Räumen, in denen Unterricht gehalten wird.
+<sup>2</sup> Das Volksschulamt hat zu den in Art. 22h Abs. 4 dieses Beschlusses genannten Zeiten freien Zutritt zu den Räumen, in denen Unterricht gehalten wird.
 
-<sup>3</sup> Das Schulamt kann die Führung eines Unterrichtsjournals anordnen, seinen Inhalt festlegen und sich das Journal periodisch vorlegen lassen.
+<sup>3</sup> Das Volksschulamt kann die Führung eines Unterrichtsjournals anordnen, seinen Inhalt festlegen und sich das Journal periodisch vorlegen lassen.
 
-<sup>4</sup> Das Schulamt kann zur Überprüfung der Einhaltung des Lehrplanes Prüfungen an von ihm bezeichneten Orten durchführen.
+<sup>4</sup> Das Volksschulamt kann zur Überprüfung der Einhaltung des Lehrplanes Prüfungen an von ihm bezeichneten Orten durchführen.
 
-<sup>5</sup> Das Schulamt prüft insbesondere auch die Erfüllung des Schulauftrages im Sinne von Art. 2 SchG.
+<sup>5</sup> Das Volksschulamt prüft insbesondere auch die Erfüllung des Schulauftrages im Sinne von Art. 2 SchG.
 
-<sup>6</sup> Das Schulamt erstattet der Landesschulkommission jährlich Bericht über die Inspektions- und Prüfungsergebnisse.
+<sup>6</sup> Das Volksschulamt erstattet der Landesschulkommission jährlich Bericht über die Inspektions- und Prüfungsergebnisse.
 
 #### Art. 22k
 
@@ -351,15 +351,15 @@ beschliesst:
 
 **Schulpflichtige Kinder**
 
-<sup>1</sup> Schüler ohne ausreichende Vorkenntnisse in der deutschen Sprache haben einen zusätzlichen Unterricht in deutscher Sprache zu besuchen.
+<sup>1</sup> Schüler ohne ausreichende Vorkenntnisse in der deutschen Sprache haben einen zusätzlichen Unterricht in Deutsch als Zweitsprache zu besuchen.
 
 <sup>2</sup> Kann der Unterricht mangels genügender Schülerzahlen nicht in der eigenen Schulgemeinde durchgeführt werden, haben die Schüler den Unterricht in der nächstliegenden Schulgemeinde, in welcher der betreffende Unterricht erteilt wird, zu besuchen.
 
-<sup>3</sup> Die Schulbehörden gewährleisten die Möglichkeit des Besuches dieses Unterrichtes.
+<sup>3</sup> Die Schulbehörden ermöglichen den Besuch dieses Unterrichts.
 
-<sup>4</sup> Die Klassenlehrpersonen erstellen zusammen mit der Deutschlehrkraft die Schülerliste. Die Einteilung der Fördergruppen erfolgt in Zusammenarbeit mit dem Schulamt. Die Zuteilung wird vom Schulrat bewilligt.
+<sup>4</sup> Die Klassenlehrpersonen erstellen zusammen mit der Lehrperson für Deutsch als Zweitsprache die Schülerliste. Die Einteilung der Fördergruppen erfolgt in Zusammenarbeit mit dem Volksschulamt oder der Schulleitung. Die Zuteilung wird vom Schulrat bewilligt.
 
-<sup>5</sup> Der Besuch dieser Deutschkurse wird unter den allgemeinen Bemerkungen im Zeugnis vermerkt.
+<sup>5</sup> Der Besuch des Unterrichts in Deutsch als Zweitsprache wird unter den allgemeinen Bemerkungen im Zeugnis vermerkt.
 
 ### B.II. Kinder nicht schweizerischer Nationalität
 
@@ -388,7 +388,7 @@ beschliesst:
 - a) auf Beginn des 2. Semesters in die nächste Primarklasse überzutreten;
 - b) auf Beginn des nächsten Schuljahres in die übernächste Primarklasse überzutreten.
 
-<sup>2</sup> Gesuche um Bewilligung für die Verkürzung bzw. das Überspringen von Primarklassen sind rechtzeitig unter Beilage der schriftlichen Stellungnahme der Lehrkraft an die Landesschulkommission zu richten.
+<sup>2</sup> Gesuche um Bewilligung für die Verkürzung bzw. das Überspringen von Primarklassen sind rechtzeitig unter Beilage der schriftlichen Stellungnahme der Lehrperson an die Landesschulkommission zu richten.
 
 ### B.IV. Informationen bei Klassenwechsel
 
@@ -396,7 +396,7 @@ beschliesst:
 
 **Schulische Voraussetzungen**
 
-<sup>1</sup> Schriftliche Informationen über einen Schüler, die zur Erfüllung des schulischen Auftrages von Bedeutung sind, müssen bei einem Klassenwechsel der nachfolgenden Lehrkraft übergeben werden. Dies sind insbesondere:
+<sup>1</sup> Schriftliche Informationen über einen Schüler, die zur Erfüllung des schulischen Auftrages von Bedeutung sind, müssen bei einem Klassenwechsel der nachfolgenden Lehrperson übergeben werden. Dies sind insbesondere:
 
 - a) Hinweise auf schulpsychologische Abklärungen sowie entsprechende Massnahmen;
 - b) Aufzeichnungen über Besonderheiten medizinischer oder psychosozialer Natur;
@@ -480,7 +480,7 @@ beschliesst:
 
 **…**
 
-## C. Fortbildung der Lehrkräfte
+## C. Aus- und Weiterbildung der Lehrpersonen
 
 ### C.I. Allgemeine Bestimmungen
 
@@ -488,63 +488,63 @@ beschliesst:
 
 **Ziel**
 
-<sup>1</sup> Die berufliche Fortbildung vermittelt den Lehrkräften neue, für ihre Schulführung notwendige Erkenntnisse, insbesonders über neue Unterrichtsstoffe, Lehrmethoden, Lehrmittel und Unterrichtshilfen.
+<sup>1</sup> Die berufliche Weiterbildung vermittelt den Lehrpersonen für den Schulunterricht notwendige Erkenntnisse, insbesondere über neue Unterrichtsstoffe, Lehrmethoden, Lehrmittel und Unterrichtshilfen.
 
-<sup>2</sup> Die berufliche Weiterbildung führt in einem geschlossenen Lehrgang zur Berechtigung für die Tätigkeit auf einer anderen Schulstufe oder auf einem Spezialgebiet, wie Sonderschulung, Lese- und Rechtschreibeschwäche, Schulreifeberatung.
+<sup>2</sup> Die berufliche Ausbildung führt in einem geschlossenen Lehrgang zur Berechtigung für die Tätigkeit auf einer Schulstufe oder in einem Spezialgebiet, wie Sonderschulung, Schulreifeberatung oder Schulische Heilpädagogik.
 
-<sup>3</sup> Die Fortbildungsveranstaltungen finden während den Ferien, an schulfreien Halbtagen oder als Abendkurse statt. Die Verlegung von Fortbildungsanlässen in die Schulzeit ist nur in ausserordentlichen Fällen und mit Zustimmung der Landesschulkommission gestattet.
+<sup>3</sup> Die Weiterbildungsveranstaltungen finden während den Ferien, an schulfreien Halbtagen oder als Abendkurse statt. Die Verlegung von Weiterbildungsanlässen in die Schulzeit ist nur in ausserordentlichen Fällen und mit Zustimmung der Landesschulkommission gestattet.
 
-<sup>4</sup> Das Schulamt kann Lehrpersonen im Sinne der Qualitätssicherung zu Fortbildungsveranstaltungen in fachlicher oder didaktisch-methodischer Hinsicht verpflichten.
+<sup>4</sup> Das Volksschulamt oder die Schulleitung kann Lehrpersonen im Sinne der Qualitätssicherung zu Weiterbildungsveranstaltungen in fachlicher oder didaktisch-methodischer Hinsicht verpflichten.
 
 #### Art. 28
 
 **Koordination**
 
-<sup>1</sup> Die Massnahmen im Bereiche der Lehrerfort- und -weiterbildung sind nach Möglichkeit mit anderen Kantonen zu koordinieren, insbesondere bei der Kaderschulung und beim Austausch des Kurskaders.
+<sup>1</sup> Die Massnahmen im Bereiche der Lehreraus- und -weiterbildung sind nach Möglichkeit mit anderen Kantonen zu koordinieren, insbesondere bei der Kaderschulung und beim Austausch des Kurskaders.
 
-<sup>2</sup> Die institutionelle Lehrerfortbildung der Innerrhoder Lehrkräfte geschieht in Zusammenarbeit mit dem Kanton St.Gallen.
+<sup>2</sup> Die institutionelle Lehrerweiterbildung der Innerrhoder Lehrpersonen geschieht in Zusammenarbeit mit dem Kanton St.Gallen.
 
 #### Art. 29
 
-**Umfang der Fortbildungspflicht**
+**Umfang der Weiterbildungspflicht**
 
-<sup>1</sup> Die Lehrkräfte sind verpflichtet, innerhalb von drei Jahren an zwölf Tagen Fortbildungsveranstaltungen zu besuchen. Teilzeitlehrkräfte, die ein Pensum von weniger als 40% unterrichten sind verpflichtet, innerhalb von drei Jahren an mindestens fünf Tagen Fortbildungsveranstaltungen zu besuchen.
+<sup>1</sup> Die Lehrpersonen sind verpflichtet, innerhalb von drei Jahren an zwölf Tagen Weiterbildungsveranstaltungen zu besuchen. Teilzeitlehrpersonen, die ein Pensum von weniger als 40 % unterrichten, sind verpflichtet, innerhalb von drei Jahren an mindestens fünf Tagen Weiterbildungsveranstaltungen zu besuchen.
 
 <sup>2</sup> Der Besuch der Kurse muss im Testatheft oder durch Ausweis belegt sein.
 
-<sup>3</sup> Auf Gesuch hin kann die Landesschulkommission Lehrkräfte aus triftigen Gründen von der Fortbildungspflicht befreien.
+<sup>3</sup> Auf Gesuch hin kann die Landesschulkommission Lehrpersonen aus triftigen Gründen von der Weiterbildungspflicht befreien.
 
 #### Art. 30
 
 **Anrechenbarkeit**
 
-<sup>1</sup> Kantonale Kursangebote sowie Kurse und Tagungen, die in den Kursprogrammen der Kantone St. Gallen und Appenzell A.Rh. ausgeschrieben sind, werden an die Fortbildungspflicht angerechnet und sind nicht bewilligungspflichtig, sofern sie unterrichtsspezifisch sind. Für Kurse der Weiterbildung Schweiz (swch) gilt die gleiche Regelung mit Ausnahme der bewilligungspflichtigen Kurse. Diese werden den Lehrpersonen mit einer durch das Schulamt erarbeiteten Liste mitgeteilt.
+<sup>1</sup> Kantonale Kursangebote sowie Kurse und Tagungen, die in den Kursprogrammen der Kantone St. Gallen und Appenzell A.Rh. ausgeschrieben sind, werden an die Weiterbildungspflicht angerechnet und sind nicht bewilligungspflichtig, sofern sie unterrichtsspezifisch sind. Für Kurse der Weiterbildung Schweiz (swch) gilt die gleiche Regelung mit Ausnahme der bewilligungspflichtigen Kurse. Diese werden den Lehrpersonen mit einer durch das Volksschulamt erarbeiteten Liste mitgeteilt.
 
 <sup>2</sup> Alle Fremdsprachenaufenthalte und -kurse sowie Kurse und Tagungen weiterer Anbieter sind für die Anrechenbarkeit bewilligungspflichtig.
 
-<sup>3</sup> Die Tätigkeit in schulischen Arbeitsgruppen kann unter folgenden Bedingungen an die Fortbildungspflicht angerechnet werden:
+<sup>3</sup> Die Tätigkeit in schulischen Arbeitsgruppen kann unter folgenden Bedingungen an die Weiterbildungspflicht angerechnet werden:
 
-- a) Die Arbeitsgruppen bezeichnen einen verantwortlichen Leiter, der die Sitzungsdaten und den vorgesehenen Tätigkeitsbereich vor Beginn der eigentlichen Arbeit dem Schulamt meldet.
-- b) Am Ende des Schuljahres oder nach Abschluss eines Projektes informiert der verantwortliche Leiter das Schulamt über die geleistete Arbeit. Dieses entscheidet über die Anrechenbarkeit und bestätigt die Erfüllung der Kurspflicht.
-- c) Acht Stunden Mitarbeit innerhalb der Arbeitsgruppe entsprechen einem Tag Fortbildungspflicht.
+- a) Die Arbeitsgruppen bezeichnen einen verantwortlichen Leiter, der die Sitzungsdaten und den vorgesehenen Tätigkeitsbereich vor Beginn der eigentlichen Arbeit dem Volksschulamt oder der Schulleitung meldet.
+- b) Am Ende des Schuljahres oder nach Abschluss eines Projektes informiert der verantwortliche Leiter das Volksschulamt oder die Schulleitung über die geleistete Arbeit. Diese entscheiden über die Anrechenbarkeit und bestätigen die Erfüllung der Weiterbildungspflicht.
+- c) Acht Stunden Mitarbeit innerhalb der Arbeitsgruppe entsprechen einem Tag Weiterbildungspflicht.
 
 #### Art. 31
 
-**Organisation der Kurse**
+**Kursorganisation**
 
-<sup>1</sup> Das Departement kann Kurse organisieren oder Lehrerorganisationen mit der Durchführung von Kursen beauftragen.
+<sup>1</sup> Das Volksschulamt, die Schulleitung sowie Lehrpersonen-, Schulhaus- oder Stufenteams können Weiterbildungskurse organisieren. Die Organisation ist beim Volksschulamt zu beantragen.
 
-<sup>2</sup> Die Konferenzen und der Lehrerturnverein können Kurse organisieren. Vorgängig ist unter Beilage des Budgets eine Bewilligung der Landesschulkommission einzuholen.
+<sup>2</sup> …
 
 #### Art. 32
 
 **Finanzierung**
 
-<sup>1</sup> Die Voranschläge für Kurse der Lehrerkonferenzen und des Lehrerturnvereins sind dem Departement einzureichen.
+<sup>1</sup> …
 
-<sup>2</sup> Die Kosten für Lehrerfortbildungsveranstaltungen werden durch das Schulamt kontrolliert und anteilsmässig auf die Schulgemeinden aufgeteilt.
+<sup>2</sup> Die Abrechnungen für Weiterbildungsveranstaltungen werden durch das Volksschulamt oder die Schulleitungen kontrolliert. Die Kosten werden anteilsmässig den Schulgemeinden in Rechnung gestellt.
 
-<sup>3</sup> Die Spesenrechnungen der Lehrerschaft sind beim Schulamt einzureichen. Dieses visiert die Rechnungen und leitet sie den Schulkassieren zur Auszahlung weiter.
+<sup>3</sup> Die Spesenabrechnungen der Lehrpersonen für den Besuch von Weiterbildungsveranstaltungen sind dem Volksschulamt oder der Schulleitung zur Kontrolle einzureichen. Die visierten Rechnungen werden an die Schulgemeinde zur Auszahlung weitergeleitet.
 
 #### Art. 33
 
@@ -560,40 +560,42 @@ beschliesst:
 
 <sup>3</sup> Nicht bewilligte Kurse können auf eigene Kosten besucht werden. Sie werden der Weiterbildungspflicht nicht angerechnet.
 
-### C.II. Intensivfortbildung
+### C.II. Langzeitweiterbildung
 
 #### Art. 34
 
 **Begriff, Zielsetzung und Dauer**
 
-<sup>1</sup> Durch eine befristete, besoldete Freistellung von Lehrpersonen mit längerer Unterrichtserfahrung wird die Möglichkeit für die intensive, auf die Bedürfnisse der Lehrpersonen und der Schule ausgerichtete Fortbildung gegeben.
+<sup>1</sup> Durch eine befristete, besoldete Freistellung von Lehrpersonen mit längerer Unterrichtserfahrung wird die Möglichkeit für die intensive, auf die Bedürfnisse der Lehrpersonen und der Schule ausgerichtete Langzeitweiterbildung gegeben.
 
-<sup>2</sup> Die Lehrperson kann sich in dieser Zeit im Rahmen der Intensivweiterbildung der EDK-Ost, Kursvariante A und B, vertieft mit der eigenen Berufspraxis auseinandersetzen und sich zusätzliche Kenntnisse über neue Unterrichtsinhalte und Unterrichtsmethoden, Wissen über sich wandelnde Auffassungen im Bereiche der Erziehung und Bildung sowie Erfahrungen in der Wirtschafts- und Arbeitswelt erwerben.
+<sup>2</sup> Die Lehrpersonen können sich in dieser Zeit an der Pädagogischen Hochschule St.Gallen im Rahmen der Weiterbildungskurse "Curso" oder "Elementa" vertieft mit der eigenen Berufspraxis auseinandersetzen und sich zusätzliche Kenntnisse über neue Unterrichtsinhalte und Unterrichtsmethoden, Wissen über sich wandelnde Auffassungen im Bereiche der Erziehung und Bildung sowie Erfahrungen in der Wirtschafts- und Arbeitswelt erwerben.
 
-<sup>3</sup> Beim Besuch der von der EDK-Ost getragenen Intensivfortbildung beträgt die Freistellung im Sinne von Abs. 1 dieses Artikels 15 Wochen.
+<sup>3</sup> Es besteht die Möglichkeit, Teilmodule der Langzeitweiterbildung einzeln zu besuchen.
+
+<sup>4</sup> Die Freistellungsdauer richtet sich nach den gewählten Weiterbildungskursen und beträgt maximal 15 Wochen.
 
 #### Art. 35
 
 **Voraussetzungen**
 
-<sup>1</sup> Eine Intensivfortbildung kann bewilligt werden, wenn folgende Voraussetzungen erfüllt sind:
+<sup>1</sup> Der Besuch einer Langzeitweiterbildung kann bewilligt werden, wenn folgende Voraussetzungen erfüllt sind:
 
 - a) Lehrtätigkeit im Umfang von mindestens 50% eines Vollpensums während der Dauer von zehn Jahren, davon mindestens fünf Jahre Lehrtätigkeit im Kanton;
-- b) erfüllte Fortbildungspflicht;
-- c) garantierter Platz im Intensivfortbildungskurs der Erziehungsdirektorenkonferenz (EDK-Ost).
+- b) erfüllte Weiterbildungspflicht;
+- c) garantierter Platz im Langzeitweiterbildungskurs der Pädagogischen Hochschule St.Gallen.
 
-<sup>2</sup> Das Gesuch muss spätestens ein halbes Jahr vor Kursbeginn bei der Landesschulkommission eingereicht sein. Es hat zu enthalten:
+<sup>2</sup> Das Gesuch muss spätestens ein halbes Jahr vor Kursbeginn beim Volksschulamt eingereicht sein. Es hat zu enthalten:
 
-- a) das Programm des betreffenden Intensivfortbildungskurses;
+- a) das Programm des betreffenden Langzeitweiterbildungskurses;
 - b) die Stellungnahme des Schulrates.
 
-<sup>3</sup> Der Besuch der Intensivfortbildung setzt zudem voraus, dass die Stellvertretung bis zum Beginn der Fortbildung sichergestellt ist.
+<sup>3</sup> Der Besuch der Langzeitweiterbildung setzt zudem voraus, dass die Stellvertretung bis zum Beginn der Weiterbildung sichergestellt ist.
 
 #### Art. 36
 
 **Finanzielle Rahmenbedingungen**
 
-<sup>1</sup> Während der Intensivfortbildung wird der Lohn ausbezahlt, der dem durchschnittlichen Pensum der letzten fünf Jahre entspricht.
+<sup>1</sup> Während der Langzeitweiterbildung wird der Lohn ausbezahlt, der dem durchschnittlichen Pensum der letzten fünf Jahre entspricht.
 
 <sup>2</sup> Es können höchstens ausbezahlt werden:
 
@@ -601,7 +603,7 @@ beschliesst:
 - b) der 13. Monatslohn;
 - c) die Kinderzulage;
 
-<sup>3</sup> Das Kursgeld für die Intensivfortbildung und die Kosten der Stellvertretung werden durch die Schulgemeinde bezahlt.
+<sup>3</sup> Das Kursgeld für die Langzeitweiterbildung und die Kosten der Stellvertretung werden durch die Schulgemeinde bezahlt.
 
 <sup>4</sup> Die übrigen Unkosten werden von den Teilnehmern bezahlt. Die Beteiligung der Schulgemeinde an den Spesen richtet sich nach Art. 33 dieses Beschlusses.
 
@@ -617,72 +619,44 @@ beschliesst:
 
 <sup>2</sup> Bei einem Stellenwechsel im Kanton zahlt die neue Schulgemeinde den anteilsmässigen Rückerstattungsbeitrag an die abgebende Schulgemeinde zurück. Diese erstattet dem Kanton den entsprechenden Subventionsanteil zurück. Die Ausgleichszahlung der aufnehmenden Schulgemeinde wird mit dem ordentlichen Ansatz subventioniert.
 
-<sup>3</sup> Bei Nichterfüllung des Programms müssen die Kosten anteilsmässig, gemäss Entscheid der Landesschulkommission, zurückerstattet werden.
+<sup>3</sup> Bei Nichterfüllung des Programms müssen die Kosten anteilsmässig, gemäss Entscheid des Schulrats, zurückerstattet werden.
 
 #### Art. 38
 
 **Besondere Bestimmungen**
 
-<sup>1</sup> Am Ende des Intensivfortbildungskurses ist dem Schulrat ein schriftlicher Schlussbericht zuhanden der Landesschulkommission einzureichen, der wenigstens folgende Angaben enthalten muss:
+<sup>1</sup> Am Ende der Langzeitweiterbildung ist dem Schulrat ein schriftlicher Schlussbericht zuhanden des Volksschulamts einzureichen, der insbesondere folgende Angaben enthalten muss:
 
-- a) Bestätigung für das durchgeführte Detailprogramm;
-- b) Aussage über das Erreichen der Ziele des Kurses;
-- c) zu erwartende Auswirkungen auf die eigene Schulpraxis;
-- d) allfällige Lehren und Konsequenzen für weitere Anwärter.
+- a) Bestätigung für die durchgeführten Kurssequenzen;
+- b) persönliche Aussagen über das Erreichen der Kursziele;
+- c) zu erwartender Einfluss auf den Schulunterricht, die Schule und sich selbst als Lehrperson;
+- d) allfällige Lehren und Konsequenzen für kommende Teilnehmer.
 
 ### C.III. Berufsbegleitende Stufenspezialisierung
 
 #### Art. 39
 
-**Voraussetzungen**
-
-<sup>1</sup> Zur Teilnahme an der berufsbegleitenden Stufenspezialisierung hat der Teilnehmer folgende Voraussetzungen zu erfüllen:
-
-- a) Berufspraxis von mindestens fünf Jahren und
-- b) erfüllte Fortbildungspflicht.
+**…**
 
 #### Art. 40
 
-**Anmeldung**
-
-<sup>1</sup> In der Regel erfolgt eine Voranmeldung für den Besuch der Startveranstaltungen, welche sporadisch und nach Bedarf durchgeführt werden.
-
-<sup>2</sup> Die definitive Anmeldung mit den entsprechenden Abmachungen erfolgt nach Abschluss der Startveranstaltung.
+**…**
 
 #### Art. 41
 
-**Aufnahme**
-
-<sup>1</sup> Nach dem Besuch der Startveranstaltungen können einzelne Lehrkräfte oder Gruppen in die Projektarbeit aufgenommen werden, sofern genügende Beteiligung vorliegt und im Projekt Plätze vorhanden sind.
+**…**
 
 #### Art. 42
 
-**Vertrag**
-
-<sup>1</sup> Nach Abschluss der Startveranstaltung wird, abgestützt auf das Grobkonzept, eine verbindliche Abmachung getroffen betreffend:
-
-- a) Führung des Kursbuches;
-- b) Zusammenarbeit mit dem Projektleiter;
-- c) eventueller Zusammenarbeit in Projektgruppen;
-- d) Aufstellung des ausgewogenen, persönlichen Grobprogramms für die jeweilige Stufe A, B, C mit entsprechender Zielsetzung;
-- e) jährliche Zwischenbilanz mit Zielkontrolle und Planung des nächsten Fortbildungszyklus;
-- f) Vorlage der Abschlussarbeit.
+**…**
 
 #### Art. 43
 
-**Ausweis**
-
-<sup>1</sup> Wer die Bedingungen des Vertrages auf der jeweiligen Programmstufe erfüllt, erhält einen Ausweis, der zum Bezug der Lohnzulage gemäss Besoldungsreglement der Standeskommission berechtigt.
-
-<sup>2</sup> Der Ausweis kann höchstens dreimal erworben werden.
+**…**
 
 #### Art. 44
 
-**Anerkennung**
-
-<sup>1</sup> Der Projektleiter ist zuständig für die Anerkennung des ausgewogenen Fortbildungsprogramms der einzelnen Kurse und der Schlussarbeit.
-
-<sup>2</sup> Auf Wunsch hat der Projektleiter einen ablehnenden Entscheid schriftlich zu begründen.
+**…**
 
 ## D. Zeugnisse
 
@@ -692,21 +666,29 @@ beschliesst:
 
 **Zeugnis**
 
-<sup>1</sup> Die Lehrkräfte der 1. Primarklasse orientieren im Januar die Inhaber der elterlichen Sorge mündlich oder schriftlich über die Lernfortschritte in den einzelnen Fächern. Auf das Ende des Schuljahres stellen sie ein Schulzeugnis aus, in dem sie mit Worten die Schülerleistungen in den im Zeugnis aufgeführten Fächern bewerten.
+<sup>1</sup> Die Kindergarten-Lehrpersonen orientieren die Inhaber der elterlichen Sorge im zweiten Semester des ersten Kindergartenjahres und am Ende des ersten Semesters im zweiten Kindergartenjahr im Rahmen einer mündlichen Standortbestimmung über die erreichten Lernfortschritte des Kindes.
 
-<sup>2</sup> Die Lehrkräfte der 2. bis 6. Primarklasse stellen jährlich auf den letzten Freitag des 1. Schulsemesters und auf Schuljahresschluss Schulzeugnisse aus.
+<sup>1<sup>bis</sup></sup> Am Ende jedes Kindergartenjahres erhalten die Inhaber der elterlichen Sorge eine Schulbestätigung, welche die folgenden Angaben enthält: Schulgemeinde, Personalien, Datum des Elterngesprächs, Bemerkungen, Absenzen, Unterschriften.
 
-<sup>3</sup> Die Zeugnisse sind vom Inhaber der elterlichen Sorge einzusehen und der Lehrkraft nach der von ihr festgesetzten Frist unterschrieben zurückzugeben.
+<sup>2</sup> Die Lehrpersonen der ersten Primarklasse (inkl. der Vorschul-, Einführungs- und Kleinklasse) orientieren die Inhaber der elterlichen Sorge im Rahmen eines Elterngesprächs über die Lernfortschritte in den einzelnen Fachbereichen.
 
-<sup>4</sup> Beschwerden der Inhaber der elterlichen Sorge sind innert zehn Tagen unter Beilage des unterschriebenen Zeugnisses an den Schulrat zu richten.
+<sup>2<sup>bis</sup></sup> Der Beobachtungs- und Beurteilungsbogen der überfachlichen Kompetenzen "Lern- und Arbeitsverhalten" und "Sozialverhalten" dient der Lehrperson als Grundlage für das Elterngespräch und wird nicht abgegeben. Am Ende des Schuljahres erhalten die Inhaber der elterlichen Sorge eine Schulbestätigung, welche die folgenden Angaben enthält: Schulgemeinde, Personalien, Datum des Elterngesprächs, Bemerkungen, Absenzen, Unterschriften.
 
-<sup>5</sup> Die Lehrkräfte tragen alle Zeugnisnoten und Bemerkungen in die entsprechenden Tabellen ein. Diese sind am Ende des Schuljahres zusammen mit den Schülerlisten dem Schulpräsidium zuhanden des Schularchivs zu übergeben. Der Schulrat kontrolliert die Einhaltung dieses Reglements.
+<sup>3</sup> Die Inhaber der elterlichen Sorge erhalten am Ende des zweiten Schuljahres das erste Notenzeugnis und eine Beurteilung der überfachlichen Kompetenzen.
+
+<sup>4</sup> Von der dritten bis zur sechsten Klasse erhalten die Inhaber der elterlichen Sorge auf Semester- und Schuljahresschluss das Notenzeugnis, zum Schuljahresende jeweils zusammen mit einer Beurteilung der überfachlichen Kompetenzen, Diese umfasst "Lern- und Arbeitsverhalten", "Sozialverhalten" und ab der fünften Klasse zusätzlich "Denkfähigkeit".
+
+<sup>5</sup> Die Zeugnisunterlagen sind von den Inhabern der elterlichen Sorge einzusehen und der Lehrperson unterschrieben zurückzugeben.
+
+<sup>6</sup> Begründete Beschwerden sind durch die Inhaber der elterlichen Sorge innert zehn Tagen nach Zeugnisabgabe unter Beilage des Zeugnisses und der Beurteilung der überfachlichen Kompetenzen an den Schulrat zu richten.
+
+<sup>7</sup> Die Druckausgabe der Zeugniseinträge aller Schüler der Klasse ist zu archivieren.
 
 #### Art. 46
 
 **Noten**
 
-<sup>1</sup> Leistungsnoten in der 2. bis 6. Primarklasse (Es dürfen nur ganze und halbe Noten erteilt werden. Diese sind von unten nach oben zu erteilen, z.B. 5–6, 4–5 usw., oder Dezimalschreibweise 5.5 / 4.5 usw.):
+<sup>1</sup> Die Leistungen der Schüler werden mit ganzen und halben Noten im Zeugnis ausgewiesen.
 
 - a) 6 = ausgezeichnet
 - b) 5 = gut
@@ -715,68 +697,59 @@ beschliesst:
 - e) 2 = schwach
 - f) 1 = sehr schwach
 
-<sup>2</sup> In der 1. Primarklasse werden folgende Fächer in das Zeugnisformular aufgenommen (Es erfolgt keine Benotung.):
+<sup>2</sup> Die Zeugnisnoten stellen eine Gesamtbeurteilung dar, die sich auf schriftliche, mündliche und praktische Leistungen der Schüler in einem Fachbereich bezieht. Sie ist im Zusammenhang mit der Schulstufe und dem Schultyp zu verstehen und errechnet sich nicht ausschliesslich aufgrund des arithmetischen Mittels der Teilnoten.
 
-- a) Lesen
-- b) Leseverständnis
-- c) Deutsch schriftlich
-- d) Mathematik
-- e) Schrift
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>3</sup> In der 2. Primarklasse werden folgende Fächer in das Zeugnisformular aufgenommen (Die mit \*\* bezeichneten Fächer werden nicht benotet. Es erfolgt der Vermerk: "Besucht".):
+<sup>3</sup> In der zweiten Klasse werden die Fachbereiche benotet mit Ausnahme von kirchlicher Religionsunterricht, bei dem "besucht" eingetragen wird.
 
-- a) Deutsch
-  - 1\. Lesen / Leseverständnis
-  - 2\. Sprachlicher Ausdruck
-- b) Mathematik
-- c) Mensch und Umwelt
-- d) Schrift
-- e) Religionsunterricht \*\*
-- f) Bibelkunde / Lebenskunde \*\*
-- g) Werken (textil/nicht textil) \*\*
-- h) Bildnerisches Gestalten \*\*
-- i) Musik \*\*
-- j) Sport \*\*
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
+- h) …
+- i) …
+- j) …
 
-<sup>4</sup> In der 3. bis 6. Primarklasse werden folgende Fächer in das Zeugnisformular aufgenommen (Die mit \*\* bezeichneten Fächer werden nicht benotet. Es erfolgt der Vermerk: "Besucht"):
+<sup>4</sup> In der dritten Klasse wird der Unterrichtsbesuch in den Fachbereichen, Englisch, Medien und Informatik und kirchlicher Religionsunterricht mit „besucht“ ausgewiesen. Die übrigen Fachbereiche werden benotet.
 
-- a) Deutsch
-  - 1\. Lesen / Leseverständnis
-  - 2\. Rechtschreiben
-  - 3\. Sprachlicher Ausdruck
-- b) Englisch (3. und 4. Klasse \*\*)
-- c) Mathematik
-  - 1\. Rechenfertigkeit
-  - 2\. Angewandtes Rechnen
-- d) Mensch und Umwelt
-- e) Schrift
-- f) Religionsunterricht \*\*
-- g) Bibelkunde / Lebenskunde \*\*
-- h) Werken (3. Klasse \*\*)
-  - 1\. textil
-  - 2\. nicht textil
-- i) Bildnerisches Gestalten (3. Klasse \*)
-- j) Musik (3. Klasse \*\*)
-- k) Sport (3. Klasse \*\*)
-- l) Tastaturschreiben (3. und 4. Klasse \*\*)
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
+- h) …
+- i) …
+- j) …
+- k) …
+- l) …
 
-<sup>5</sup> Unvollständig ausgefüllte Zeugnisse können von den Inhabern der elterlichen Sorge zurückgewiesen werden.
+<sup>5</sup> …
 
-<sup>6</sup> Das Urteil über das schulische Verhalten (Fleiss, Betragen, Ordnung usw.) ist in Worten auszudrücken. Solche Bemerkungen können bei den einzelnen Fächern angebracht werden, wenn damit die Notengebung näher begründet wird oder bei den allgemeinen Bemerkungen, wenn das Verhalten des Kindes allgemein beurteilt wird. Diese Bemerkungen haben das Interesse des Kindes zu wahren und sollten auf längerfristigen Beobachtungen abgestützt sein. Bemerkungen zu einzelnen Vorkommnissen oder Prognosen für die Zukunft sind unzulässig.
+<sup>6</sup> …
 
-<sup>7</sup> Besondere Bemerkungen über den Charakter des Schülers sind den Inhabern der elterlichen Sorge mündlich oder in einem verschlossenen Brief bekanntzugeben.
+<sup>7</sup> …
 
 #### Art. 47
 
 **Information an die Inhaber der elterlichen Sorge**
 
-<sup>1</sup> Den Inhabern der elterlichen Sorge steht das Recht zu, jederzeit bei der Klassenlehrkraft Einsicht in die schriftlichen Prüfungen zu nehmen bzw. diese einzuverlangen.
+<sup>1</sup> Die schriftlichen Prüfungen werden den Inhabern der elterlichen Sorge grundsätzlich zur Einsicht abgegeben.
 
-<sup>2</sup> Wird dem Schüler ein Notenblatt abgegeben, so hält er dieses stets auf dem aktuellsten Stand. Die Einsichtnahme der Inhaber der elterlichen Sorge kann unterschriftlich bestätigt werden.
+<sup>2</sup> …
 
-<sup>3</sup> Die Klassenlehrkraft lädt die Inhaber der elterlichen Sorge mindestens einmal pro Schuljahr zu einem Elterngespräch ein und informiert sie über den Leistungsstand des Schülers.
+<sup>3</sup> Die Klassenlehrperson lädt die Inhaber der elterlichen Sorge mindestens einmal pro Schuljahr zu einem Elterngespräch ein und informiert sie über den Leistungsstand des Schülers.
 
-<sup>4</sup> Bei wesentlichen Änderungen in der Leistung und im Verhalten orientiert die Lehrkraft die Inhaber der elterlichen Sorge rechtzeitig und bespricht mit ihnen die möglichen Folgerungen.
+<sup>4</sup> Bei wesentlichen Änderungen in der Leistung oder im Verhalten orientiert die Lehrperson die Inhaber der elterlichen Sorge umgehend und bespricht mit ihnen mögliche Massnahmen.
 
 #### Art. 48
 
@@ -789,9 +762,9 @@ beschliesst:
 - a) …
 - b) …
 
-<sup>3</sup> Der Notendurchschnitt berechnet sich aus den Noten der Fachbereiche Deutsch, Mathematik und Natur, Mensch, Gesellschaft (NMG).
+<sup>3</sup> Der Notendurchschnitt berechnet sich aus den Noten der Fachbereiche Deutsch, Mathematik und Natur, Mensch, Gesellschaft (NMG), wobei die Fächer Deutsch und Mathematik doppelt zählen.
 
-<sup>4</sup> ,Bei einem Notenschnitt von 3,5 bis 3,9 wird der Schüler bedingt befördert.
+<sup>4</sup> Bei einem Notenschnitt von 3,5 bis 3,9 wird der Schüler bedingt befördert.
 
 <sup>5</sup> Bei bedingter Beförderung, bei längerem Schulversäumnis oder bei sehr knappen Leistungen kann auf Wunsch der Inhaber der elterlichen Sorge die Klasse auch dann repetiert werden, wenn der geforderte Notenschnitt erreicht ist.
 
@@ -807,19 +780,21 @@ beschliesst:
 
 **Meldung an die Inhaber der elterlichen Sorge**
 
-<sup>1</sup> Die Lehrkräfte haben den Inhabern der elterlichen Sorge bis Ende April, mündlich mit unterschriftlicher Bestätigung oder per eingeschriebenen Brief, über die Gefährdung der Promotion ihrer Tochter / ihres Sohnes in die höhere Klasse, zu informieren. Eine Kopie dieser Information ist im Lehreroffice abzulegen.
+<sup>1</sup> Die Lehrpersonen haben die Inhaber der elterlichen Sorge bis Ende April, mündlich mit schriftlicher Bestätigung oder mit eingeschriebenem Brief, über die Gefährdung der Promotion ihres Kindes in die höhere Klasse zu informieren. Eine Kopie dieser Information ist im Lehreroffice abzulegen.
 
 #### Art. 51
 
 **Individuelle Lernziele**
 
-<sup>1</sup> In Absprache mit dem Schulamt und den Inhabern der elterlichen Sorge kann die Lehrkraft für Schüler in einzelnen Fächern Lernziele festlegen oder vom Unterricht in einem Fach dispensieren. Ein entsprechender Vermerk ist im Zeugnis einzutragen.
+<sup>1</sup> In Absprache mit den Inhabern der elterlichen Sorge und dem Volksschulamt oder der Schulleitung können für Schüler in einzelnen Fachbereichen individuelle Lernziele festgelegt werden. Dies wird im Notenfeld mit "ILZ \*" und dem Hinweis Dokumentation Lernbericht ausgewiesen.
+
+<sup>2</sup> Eine Dispensation von einem Fachbereich erfolgt in Absprache mit der Schulleitung oder dem Volksschulamt.
 
 #### Art. 52
 
 **Rückversetzung nach bedingter Beförderung**
 
-<sup>1</sup> Nach bedingter Beförderung entscheidet die Lehrkraft aufgrund der Leistungen, in der Regel vor den Herbstferien, spätestens aber vor dem 30. November, über eine allfällige Rückversetzung.
+<sup>1</sup> Nach bedingter Beförderung entscheidet die Lehrperson aufgrund der Leistungen, in der Regel vor den Herbstferien, spätestens aber vor dem 30. November, über eine allfällige Rückversetzung.
 
 <sup>2</sup> Der Entscheid ist den Inhabern der elterlichen Sorge und dem Schulrat fünf Tage vor dem Übertrittstermin schriftlich, mit Begründung und entsprechender Rechtsmittelbelehrung mitzuteilen.
 
@@ -829,25 +804,25 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Bestimmungen gelten für die Sekundarstufe I mit Ausnahme der 1. bis 3. Klassen des Gymnasiums.
+<sup>1</sup> Diese Bestimmungen gelten für die Sekundarstufe I mit Ausnahme der ersten bis dritten Klassen des Gymnasiums Appenzell.
 
 #### Art. 54
 
 **Zeugnis**
 
-<sup>1</sup> Die Lehrkräfte der Sekundarstufe I stellen jährlich auf den letzten Freitag des 1. Schulsemesters und auf Schuljahresschluss Schulzeugnisse aus.
+<sup>1</sup> Die Lehrpersonen der Sekundarstufe I stellen auf Semester- und Schuljahresende ein Zeugnis aus.
 
-<sup>2</sup> Die Zeugnisse sind vom Inhaber der elterlichen Sorge einzusehen und der Lehrkraft nach der von ihr festgesetzten Frist unterschrieben zurückzugeben.
+<sup>2</sup> Die Zeugnisunterlagen beinhalten ein Notenzeugnis und zum Schuljahresende jeweils eine Beurteilung der überfachlichen Kompetenzen.
 
-<sup>3</sup> Beschwerden der Inhaber der elterlichen Sorge sind innert zehn Tagen unter Beilage des unterschriebenen Zeugnisses an den Schulrat zu richten.
+<sup>3</sup> Die Zeugnisunterlagen sind von den Inhabern der elterlichen Sorge einzusehen und der Lehrperson fristgerecht unterschrieben zurückzugeben.
 
-<sup>4</sup> Die Lehrkräfte tragen alle Zeugnisnoten und Bemerkungen in die Notentabellen ein. Diese sind am Ende des Schuljahres dem Schulpräsidenten zu Handen des Schularchivs zu übergeben. Der Schulrat kontrolliert die Einhaltung dieses Reglements.
+<sup>4</sup> Begründete Beschwerden sind durch die Inhaber der elterlichen Sorge innert zehn Tagen nach Zeugnisabgabe unter Beilage des Zeugnisses und der Beurteilung der überfachlichen Kompetenzen an den Schulrat der entsprechenden Oberstufe zu richten.
 
 #### Art. 55
 
 **Noten**
 
-<sup>1</sup> Leistungsnoten (Es dürfen nur ganze oder halbe Noten erteilt werden. Diese sind von unten nach oben zu erteilen, z.B. 5-6, 4-5 usw. oder Dezimalschreibweise 5.5 / 4.5 usw.):
+<sup>1</sup> Die erbrachten Leistungen der Schüler werden mit ganzen und halben Noten im Zeugnis ausgewiesen. Dabei gilt:
 
 - a) 6 = ausgezeichnet
 - b) 5 = gut
@@ -856,18 +831,18 @@ beschliesst:
 - e) 2 = schwach
 - f) 1 = sehr schwach
 
-<sup>2</sup> In Lebenskunde, Religionslehre, Musik und in den Wahlfächern sowie in den naturwissenschaftlichen Praktikumsfächern kann mit Einwilligung des Schulamtes auf die Notengebung verzichtet werden. In diesem Fall ist "besucht" einzutragen. Unvollständig ausgefüllte Zeugnisse können von den Inhabern der elterlichen Sorge zurückgewiesen werden.
+<sup>2</sup> Die Zeugnisnoten stellen eine Gesamtbeurteilung dar, die sich auf schriftliche, mündliche und praktische Leistungen der Schüler in einem Fachbereich bezieht. Sie ist im Zusammenhang mit der Schulstufe, dem Schultyp und den Niveaugruppen zu verstehen und errechnet sich nicht ausschliesslich aufgrund des arithmetischen Mittels der Teilnoten.
 
-<sup>3</sup> Fleissnoten werden keine erteilt. Muss der Fleiss beanstandet werden, sind folgende Abkürzungen zu verwenden:
+<sup>3</sup> Die obligatorischen Fachbereiche werden benotet. Bei den Wahlfächern kann eine Note eingetragen oder die Belegung des Fachs mit "besucht" ausgewiesen werden. Der Unterrichtsbesuch in den folgenden Fachbereichen wird mit "besucht“ bestätigt: "Ethik, Religion, Gemeinschaft“, kirchliche Religion, Berufliche Orientierung, Projektunterricht. Die Projektarbeit am Ende der dritten Klasse wird benotet.
 
-- a) u = ungenügend
-- b) s = schlecht
+- a) …
+- b) …
 
-<sup>4</sup> Allfällige Noten oder Bemerkungen zum Religionsunterricht sollen keine Wertung der religiösen Haltung sein. Sie beziehen sich lediglich auf die Arbeit im Religionsunterricht.
+<sup>4</sup> …
 
-<sup>5</sup> Aussagen über das Betragen sind unter der Rubrik Bemerkungen zum entsprechenden Fach oder unter den allgemeinen Bemerkungen einzutragen.
+<sup>5</sup> Aussagen über das Betragen sind unter der Rubrik Bemerkungen zum entsprechenden Fachbereich oder unter den allgemeinen Bemerkungen einzutragen.
 
-<sup>6</sup> Besondere Bemerkungen über den Charakter des Schülers sind den Inhabern der elterlichen Sorge mündlich oder in einem verschlossenen Brief bekanntzugeben.
+<sup>6</sup> Anmerkungen zu Charaktereigenschaften eines Schülers dürfen nicht im Zeugnis eingetragen werden. Ausserordentliche Bemerkungen zum Verhalten können mündlich oder in einem separaten Lernbericht den Inhabern der elterlichen Sorge zur Kenntnis gebracht werden.
 
 #### Art. 56
 
@@ -881,13 +856,13 @@ beschliesst:
 
 **Information an die Inhaber der elterlichen Sorge**
 
-<sup>1</sup> Den Inhabern der elterlichen Sorge steht das Recht zu, jederzeit bei der Fachlehrkraft Einsicht in die schriftlichen Prüfungen zu nehmen bzw. diese einzuverlangen.
+<sup>1</sup> Die schriftlichen Prüfungen werden den Inhabern der elterlichen Sorge grundsätzlich zur Einsicht abgegeben.
 
-<sup>2</sup> Der Schüler führt ein durch die Schule abgegebenes Notenblatt und hält dieses stets auf dem aktuellsten Stand. Die Einsichtnahme der Inhaber der elterlichen Sorge kann unterschriftlich bestätigt werden.
+<sup>2</sup> …
 
-<sup>3</sup> Die Klassenlehrkraft informiert die Inhaber der elterlichen Sorge mindestens einmal pro Schulsemester schriftlich über den Leistungsstand des Schülers. Die Einsichtnahme ist unterschriftlich zu bestätigen. Die Klassenlehrkraft fordert die Bestätigungen innert Wochenfrist zurück.
+<sup>3</sup> Die Klassenlehrperson informiert die Inhaber der elterlichen Sorge mindestens einmal pro Schuljahr im Rahmen eines Elterngesprächs über den Leistungsstand des Schülers.
 
-<sup>4</sup> Bei wesentlichen Änderungen in der Leistung und im Verhalten orientiert die Lehrkraft die Inhaber der elterlichen Sorge rechtzeitig und bespricht mit ihnen die möglichen Forderungen.
+<sup>4</sup> Bei wesentlichen Änderungen in der Leistung oder im Verhalten orientiert die Lehrperson die Inhaber der elterlichen Sorge umgehend und bespricht mit ihnen mögliche Massnahmen.
 
 #### Art. 58
 
@@ -898,15 +873,15 @@ beschliesst:
 Der Durchschnitt wird wie folgt ermittelt:
 
 - a) Deutsch — 2 mal
-- b) Englisch — 1 mal
-- c) Französisch — 1 mal
-- d) Mathematik — 3 mal
-- e) Natur und Technik — 1 mal
+- b) Französisch — 1 mal
+- c) Natur und Technik — 1 mal
+- d) Englisch — 1 mal
+- e) Mathematik — 3 mal
 - f) Räume, Zeiten, Gesellschaft — 1 mal
 
 <sup>2</sup> Die Lehrpersonen haben den Inhabern der elterlichen Sorge bis Ende April, mündlich mit schriftlicher Bestätigung oder in einem eingeschriebenen Brief, über die Gefährdung der Promotion ihres Kindes in die höhere Klasse zu informieren. Eine Kopie dieser Information ist im Lehreroffice abzulegen.
 
-<sup>3</sup> Schüler, die in den genannten Promotionsfächern einen Notenschnitt von 3,8 oder 3,9 erreichen, steigen provisorisch in die nächste Klasse. Nach bedingter Beförderung entscheidet die Lehrperson aufgrund der Leistungen, in der Regel vor den Herbstferien, spätestens aber vor dem 30. November, über eine allfällige Rückversetzung. Die Probezeit gilt als bestanden, wenn der Notendurchschnitt 4 erreicht ist.
+<sup>3</sup> Schüler, die in den genannten Promotionsfächern einen Notenschnitt von 3,8 oder 3.9 erreichen, steigen provisorisch in die nächste Klasse. Nach bedingter Beförderung entscheidet die Lehrperson aufgrund der Leistungen, in der Regel vor den Herbstferien, spätestens aber vor dem 30. November, über eine allfällige Rückversetzung. Die Probezeit gilt als bestanden, wenn der Notendurchschnitt 4 erreicht ist.
 
 <sup>4</sup> Der Entscheid ist den Inhabern der elterlichen Sorge durch den Schulrat fünf Tage vor dem Übertrittstermin schriftlich mit Begründung und entsprechender Rechtsmittelbelehrung mitzuteilen.
 
@@ -914,13 +889,15 @@ Der Durchschnitt wird wie folgt ermittelt:
 
 **Promotionsordnung in der Realschule und in der integrierten Sekundarschule Oberegg**
 
-<sup>1</sup> Schüler der Realschule und der integrierten Sekundarschule Oberegg steigen automatisch in die nächstfolgende Klasse auf. Über Umstufungen in Fachbereichen, welche im Niveauunterricht erteilt werden, entscheidet die Schulleitung.
+<sup>1</sup> Schüler der Realschule und der integrierten Sekundarschule Oberegg steigen automatisch in die nächstfolgende Klasse auf. Über Umstufungen in Fachbereichen entscheidet die Schulleitung.
 
 #### Art. 59
 
 **Individuelle Lernziele**
 
-<sup>1</sup> In Absprache mit dem Schulamt und den Inhabern der elterlichen Sorge kann die Lehrkraft für Schüler in einzelnen Fächern Lernziele festlegen oder vom Unterricht in einem Fach dispensieren. Ein entsprechender Vermerk ist im Zeugnis einzutragen.
+<sup>1</sup> In Absprache mit den Inhabern der elterlichen Sorge und dem Volksschulamt oder der Schulleitung können für Schüler in einzelnen Fachbereichen individuelle Lernziele festgelegt werden. Dies wird im Notenfeld mit "ILZ \*" und dem Hinweis "Dokumentation Lernbericht" ausgewiesen.
+
+<sup>2</sup> Eine Dispensation von einem Fachbereich erfolgt in Absprache mit der Schulleitung oder dem Volksschulamt.
 
 ### D.III. Gemeinsame Bestimmungen
 
@@ -928,23 +905,19 @@ Der Durchschnitt wird wie folgt ermittelt:
 
 **Repetitionsbestimmungen**
 
-<sup>1</sup> In einem Schultyp kann in der Regel nur einmal repetiert werden. Über Ausnahmen entscheidet der schulführende Schulrat.
+<sup>1</sup> Während der obligatorischen Schulzeit ist nur eine Klassenrepetition möglich. Über Ausnahmen entscheidet der schulführende Schulrat in Rücksprache mit dem Volksschulamt.
 
 <sup>2</sup> Eine Repetition auf freiwilliger Basis kann vom Schulrat der schulführenden Schulgemeinde unter Berücksichtigung von Abs. 1 bewilligt werden.
 
 #### Art. 60
 
-**Einträge, Korrektur**
-
-<sup>1</sup> Alle Eintragungen sind ausschliesslich mit dokumentechten Stiften, Schreibmaschine oder Drucker vorzunehmen.
-
-<sup>2</sup> Radierungen dürfen nicht vorgenommen werden. Müssen irrtümliche Eintragungen geändert werden, ist nur das Neuerstellen der betreffenden Seite zulässig.
+**…**
 
 #### Art. 61
 
 **Entlassung**
 
-<sup>1</sup> Bei Entlassung aus der Schule resp. beim Übertritt in die nächste Stufe ist das Zeugnis dem Schüler zuhanden der Inhaber der elterlichen Sorge zu übergeben.
+<sup>1</sup> Am Ende des zweiten Zyklus und beim Schulaustritt sind die Zeugnisse und die Beurteilungen der überfachlichen Kompetenzen dem Schüler zuhanden der Inhaber der elterlichen Sorge zu übergeben.
 
 ## E. Übertrittsregelungen
 
@@ -954,7 +927,7 @@ Der Durchschnitt wird wie folgt ermittelt:
 
 **Grundsätzliches**
 
-<sup>1</sup> Die Zuteilung in die verschiedenen Abteilungen der Sekundarstufe l erfolgt durch den Entscheid der Aufnahmekommission aufgrund der Prüfungsergebnisse und der Empfehlungen durch die abgebende Lehrkraft.
+<sup>1</sup> Die Zuteilung in die verschiedenen Abteilungen der Sekundarstufe l erfolgt durch den Entscheid der Aufnahmekommission aufgrund der Prüfungsergebnisse und der Empfehlungen durch die abgebende Lehrperson.
 
 <sup>2</sup> Eine allfällige Versetzung oder Entlassung erfolgt entweder aufgrund mangelhafter Leistungen während der Probezeit oder bei starker Überforderung vor oder nach Abschluss der Probezeit.
 
@@ -964,32 +937,45 @@ Der Durchschnitt wird wie folgt ermittelt:
 
 **Aufnahmeverfahren**
 
-<sup>1</sup> Das Aufnahmeverfahren enthält drei Elemente:
+<sup>1</sup> Die abgebende Lehrperson stützt ihre schriftliche Empfehlung im Aufnahmeverfahren auf die folgenden Elemente der letzten drei Semester:
 
-- a) ein Prüfungselement;
-- b) ein Erfahrungselement;
-- c) ein Steuerungs- und Qualitätssicherungselement.
+- a) die Zeugnisnoten;
+- b) die Beurteilungsbogen der überfachlichen Kompetenzen.
+- c) …
 
-<sup>2</sup> Die Prüfungs- und Erfahrungselemente sind in ihrer Bedeutung gleichgestellt.
+<sup>2</sup> Die beiden Elemente sind in ihrer Bedeutung gleichgestellt.
 
-<sup>3</sup> ln einer Dokumentation halten die Lehrkräfte die Ergebnisse der Elemente von lit. a und b dieses Artikels fest.
+<sup>3</sup> Die Lehrperson hält die Ergebnisse dieser beiden Elemente in einer Dokumentation zuhanden der Aufnahmekommission fest.
 
 #### Art. 64
 
-**Prüfungselement**
+**Gewichtung der Zeugnisnoten**
 
-<sup>1</sup> Das Prüfungselement besteht aus den Zeugnisnoten der 4., 5. und 6. Klasse sowie den Real- bzw. Sekundarklassen.
+<sup>1</sup> Bei den Zeugnisnoten sind für die Schüler aus der sechsten Klasse die Durchschnittsnoten aus den Fachbereichen Deutsch, Mathematik und Natur, Mensch, Gesellschaft (NMG) der letzten drei Semester für den Übertritt relevant; für die Schüler aus der ersten Klasse der Realschule die Fachbereiche Deutsch, Mathematik, Natur und Technik (NT), Räume, Zeiten, Gesellschaften (RZG) und Englisch.
 
-<sup>2</sup> Für den Übertritt von der 1. Realklasse in die 1. Sekundarklasse sind die Durchschnittsnoten in den Fächern Deutsch, Englisch, Arithmetik und Geometrie massgeblich.
+<sup>2</sup> Die Durchschnittsnoten für die Schüler aus der sechsten Klasse setzen sich wie folgt zusammen:
+
+- a) Deutsch — 2 mal
+- b) Mathematik — 2 mal
+- c) Natur, Mensch, Gesellschaft (NMG) — 1 mal
+
+<sup>3</sup> Die Durchschnittsnoten für die Schüler aus der ersten Klasse der Realschule setzen sich wie folgt zusammen:
+
+- a) Deutsch — 2 mal
+- b) Mathematik — 2 mal
+- c) Natur und Technik (NT) — 1 mal
+- d) Räume, Zeiten, Gesellschaft (RZG) — 1 mal
+- e) Englisch — 1 mal
 
 #### Art. 65
 
-**Erfahrungselement**
+**Beurteilung der überfachlichen Kompetenzen**
 
-<sup>1</sup> Das Erfahrungselement besteht aus zwei Teilen:
+<sup>1</sup> Die Beurteilung der überfachlichen Kompetenzen umfasst die folgenden Bereiche:
 
-- a) Beurteilung durch die abgebenden Lehrkräfte;
-- b) Beurteilung durch die aufnehmenden Lehrkräfte während der Probezeit.
+- a) Lern- und Arbeitsverhalten;
+- b) Sozialverhalten
+- c) Denkfähigkeit
 
 <sup>2</sup> Im Erfahrungselement werden jene Faktoren beurteilt, welche die Langzeitleistung der Kinder stark beeinflussen, insbesondere Arbeitshaltung, Motivation, körperliche und psychische Leistungsfähigkeit, Frustrationstoleranz, Durchhaltevermögen und Sozialverhalten.
 
@@ -1013,42 +999,42 @@ Der Durchschnitt wird wie folgt ermittelt:
 
 **Aufgaben und Zuständigkeiten**
 
-<sup>1</sup> Die Lehrkräfte der abgebenden Schulen:
+<sup>1</sup> Die Klassenlehrperson der abgebenden Schulen:
 
-- a) führen je in der 5. und 6. Primarklasse (resp. 1. Real- und Sekundarklasse) Elterngespräche durch, in denen sie die Inhaber der elterlichen Sorge über die Leistungen des Kindes orientieren und ihre Empfehlung für den Übertritt in die Sekundarstufe l und die Schule mit höheren Anforderungen innerhalb der Sekundarstufe I begründen;
-- b) geben die definitive Empfehlung aufgrund der Prüfungsergebnisse und der Erfahrungswerte per 14. März an die Aufnahmekommission ab. Vorgängig sind die Inhaber der elterlichen Sorge zu orientieren. Diese bestätigen die Kenntnisnahme durch ihre Unterschrift. Die Inhaber der elterlichen Sorge haben die Möglichkeit, auf diesem Bogen oder anschliessend schriftlich eine andere Meinung an die Aufnahmekommission zu melden.
+- a) führt jährliche Elterngespräche durch, in denen sie über den Leistungsstand informiert. In der sechsten Klasse (resp. in der ersten Klasse der Realschule) werden die Inhaber der elterlichen Sorge auch über die Empfehlung für den Übertritt in die Sekundarstufe l und die Schule mit höheren Anforderungen innerhalb der Sekundarstufe I informiert;
+- b) gibt den definitiven Zuteilungsantrag bis 14. März an die Aufnahmekommission ab. Die Inhaber der elterlichen Sorge haben die Möglichkeit, die Kenntnisnahme und das Einverständnis zum Zuteilungsantrag mit ihrer Unterschrift zu bestätigen oder das Nicht-Einverständnis zu dokumentieren. Bis zum gleichen Zeitpunkt haben sie auch die Möglichkeit, in schriftlicher Form das Nicht-Einverständnis über den Zuteilungsentscheid an die Aufnahmekommission zu richten.
 
-<sup>2</sup> Die Lehrkräfte der abnehmenden Stufe:
+<sup>2</sup> Die Klassenlehrperson der abnehmenden Stufe:
 
-- a) führen die Schüler in die Besonderheiten der entsprechenden Abteilung ein;
-- b) führen in der Probezeit einen Elternabend durch;
-- c) leiten die Schüler zu stufengerechten Lerntechniken und zur Selbständigkeit an;
-- d) melden vor dem Ende des 1. Semesters der Aufnahmekommission jene Schüler, die den erforderlichen Notendurchschnitt nicht erreicht haben und geben ihre Empfehlung ab;
-- e) informieren bei einem Übertritt in eine andere Abteilung die entsprechenden Lehrkräfte mit der Dokumentation über die bisherigen Leistungen.
+- a) führt zu Beginn der Probezeit einen Elternabend durch;
+- b) meldet vor dem Ende des ersten Semesters der Aufnahmekommission jene Schüler, die den erforderlichen Notendurchschnitt nicht erreicht haben und gibt ihre Empfehlung ab;
+- c) informiert bei einem Übertritt in eine andere Abteilung die entsprechenden Lehrpersonen mit einer Dokumentation über die bisherigen Leistungen.
+- d) …
+- e) …
 
-<sup>3</sup> Die Aufnahmekommission des inneren Landesteils entscheidet aufgrund der Empfehlungen durch die abgebenden Lehrkräfte durch Verfügung:
+<sup>3</sup> Die Aufnahmekommission des inneren Landesteils entscheidet aufgrund der Empfehlungen der abgebenden Lehrperson durch Verfügung über die Zuteilung in die einzelnen Abteilungen der Sekundarstufe l und am Ende der Probezeit über eine allfällige Umteilung.
 
-- a) über die Zuteilung in die einzelnen Abteilungen der Sekundarstufe l;
-- b) sowie aufgrund der Notendurchschnitte und der Beurteilung durch die Lehrkräfte während der Probezeit über eine allfällige Umteilung in eine andere Abteilung.
+- a) …
+- b) …
 
-<sup>4</sup> Das Schulamt:
+<sup>4</sup> Das Volksschulamt:
 
-- a) überwacht das Übertrittsverfahren, insbesondere die Einhaltung der Grenzwerte sowie den Erfolg der Schüler in den weiterführenden Schulen und in der Berufsausbildung;
-- b) berichtet der Landesschulkommission alljährlich bis Ende Februar über den Verlauf des Übertrittsverfahrens und der Probezeit;
-- c) führt jährlich Informationsveranstaltungen für die Eltern, soweit notwendig für die Lehrkräfte und für eine breitere Öffentlichkeit durch;
-- d) erlässt Weisungen über die Gestaltung der Probezeit und über die Versetzung in andere Abteilungen der Sekundarstufe l.
+- a) überwacht das Übertrittsverfahren, insbesondere die Einhaltung der Richtwerte sowie den Erfolg der Schüler in den weiterführenden Schulen und in der Berufsausbildung;
+- b) berichtet der Landesschulkommission jährlich bis Ende Februar über den Verlauf des Übertrittsverfahrens und der Probezeit;
+- c) führt jährlich eine Informationsveranstaltung zum Aufnahmeverfahren für interessierte Eltern und Lehrpersonen durch.
+- d) …
 
 <sup>5</sup> Die Landesschulkommission:
 
 - a) wählt auf Antrag der entsprechenden Gremien die Mitglieder der Aufnahmekommission;
-- b) führt die Oberaufsicht über das Übertrittsverfahren;
+- b) führt die Oberaufsicht über das Aufnahmeverfahren;
 - c) behandelt abschliessend die Rekurse gegen Entscheide der Aufnahmekommission.
 
 <sup>6</sup> Die Aufnahmekommission des inneren Landesteils besteht aus:
 
-- a) je einer Vertretung der Stufenkonferenz der Primarschulstufe der 5./6. Klassen, der Realschule, der Sekundarschule und des Gymnasiums;
+- a) je einer Vertretung der Stufenkonferenz der Primarschulstufe der fünften/sechsten Klassen, der Realschule, der Sekundarschule und des Gymnasiums;
 - b) je zwei Vertretern der Schulgemeinde Appenzell und der Schulrätekonferenz der Landschulgemeinden des inneren Landesteils;
-- c) sowie einem Vertreter des Erziehungsdepartementes (nachfolgend Departement genannt).
+- c) sowie dem Leiter des Volksschulamts.
 
 <sup>7</sup> …
 
@@ -1056,7 +1042,7 @@ Der Durchschnitt wird wie folgt ermittelt:
 
 **Probezeit**
 
-<sup>1</sup> Wer aufgrund der Prüfungsergebnisse und der Empfehlung durch die abgebende Lehrkraft in eine Abteilung mit erhöhten Anforderungen aufgenommen wurde, hat eine Probezeit von einem Semester zu absolvieren.
+<sup>1</sup> Wer aufgrund der Prüfungsergebnisse und der Empfehlung durch die abgebende Lehrperson in eine Abteilung mit erhöhten Anforderungen aufgenommen wurde, hat eine Probezeit von einem Semester zu absolvieren.
 
 Die Probezeit gilt als bestanden, wenn der Schüler im Durchschnitt der Prüfungsfächer die Note 4 erreicht hat.
 
@@ -1064,9 +1050,9 @@ Die Durchschnittsnote wird ermittelt:
 
 Schnitt von (3 x Deutsch + 2 x Französisch + 2 x Englisch + 3 x Arithmetik + 2 x Geometrie + Geschichte + Geografie + Biologie + Physik/Chemie)
 
-<sup>2</sup> Die Lehrkraft ist verpflichtet, während der Probezeit ein Elterngespräch zu führen. Bei einer Gefährdung der Promotion ist dieses Gespräch in der ersten Hälfte des Monats November durchzuführen.
+<sup>2</sup> Die Lehrperson ist verpflichtet, während der Probezeit ein Elterngespräch zu führen. Bei einer Gefährdung der Promotion ist dieses Gespräch in der ersten Hälfte des Monats November durchzuführen.
 
-<sup>3</sup> Über alle aufgenommenen Schüler, welche den zum Bestehen der Probezeit nötigen Durchschnitt nicht erreichen, erstatten die Lehrkräfte Bericht an die Aufnahmekommission, welche anhand dieses Berichtes den Schüler in der Regel unter Mitteilung an die betreffenden Lehrkräfte und die Inhaber der elterlichen Sorge auf den ersten Montag im neuen Semester an die Abteilung mit leichteren Anforderungen versetzt oder bei erfüllter Schulpflicht entlässt.
+<sup>3</sup> Über alle aufgenommenen Schüler, welche den zum Bestehen der Probezeit nötigen Durchschnitt nicht erreichen, erstatten die Lehrpersonen Bericht an die Aufnahmekommission, welche anhand dieses Berichtes den Schüler in der Regel unter Mitteilung an die betreffenden Lehrpersonen und die Inhaber der elterlichen Sorge auf den ersten Montag im neuen Semester an die Abteilung mit leichteren Anforderungen versetzt oder bei erfüllter Schulpflicht entlässt.
 
 <sup>4</sup> Es steht den Inhabern der elterlichen Sorge frei, das Kind zum Zeitpunkt der Herbstferien an die Abteilungen mit leichteren Anforderungen zu versetzen.
 
@@ -1074,19 +1060,19 @@ Schnitt von (3 x Deutsch + 2 x Französisch + 2 x Englisch + 3 x Arithmetik + 2 
 
 **Übertritt**
 
-<sup>1</sup> Der Übertritt aus einer gleichwertigen Schule ist möglich, sofern die Leistungen den Anforderungen der jeweiligen Abteilungen entsprechen. Die Aufnahme erfolgt auf Empfehlung des Schulamtes, welches die notwendigen Vorabklärungen vornimmt.
+<sup>1</sup> Der Übertritt aus einer gleichwertigen Schule ist möglich, sofern die Leistungen den Anforderungen der jeweiligen Abteilungen entsprechen. Die Aufnahme erfolgt auf Empfehlung des Volksschulamtes, welches die notwendigen Vorabklärungen vornimmt.
 
 <sup>2</sup> ln besonderen Fällen kann die Aufnahmekommission Schüler auch aufnehmen, wenn sie keine gleichartige Schule besuchten. Dabei ist eine Probezeit anzusetzen.
 
 <sup>3</sup> Von diesem Übertrittsverfahren sind in der Regel Primar- und Realschüler aus dem Kanton Appenzell I.Rh. ausgeschlossen.
 
-### E.II. Übertrittsregelung für die Schulgemeinde Oberegg zur Aufnahme in die Abteilungen der Sekundarstufe l
+### E.II. Übertrittsregelung für den Bezirk Oberegg zur Aufnahme in die Abteilungen der Sekundarstufe l
 
 #### Art. 69a
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Bestimmungen dieses Abschnittes gelten für die Sekundarschule Oberegg, solange die Schulgemeinde Oberegg eine integrierte Sekundarschule führt.
+<sup>1</sup> Die Bestimmungen dieses Abschnittes gelten für die integrierte Sekundarschule Oberegg, solange der Bezirk Oberegg dieses Oberstufenmodell führt.
 
 #### Art. 69b
 
@@ -1096,56 +1082,38 @@ Schnitt von (3 x Deutsch + 2 x Französisch + 2 x Englisch + 3 x Arithmetik + 2 
 
 #### Art. 69c
 
-**Zuteilungen in die Stammklassen**
+**Klassen- und Fachbereichszuteilung**
 
-<sup>1</sup> Die Primarlehrkräfte reichen zur Einteilung der Schüler in die Stammklassen den Sekundarlehrkräften Vorschläge nach folgenden Kriterien ein:
+<sup>1</sup> Die Schulleitung ist für die Einteilung der Schüler in die Klassen und Fachbereiche zuständig.
 
-- a) Ausgewogenheit der Klassen betreffend Leistungsvermögen;
-- b) ausgeglichene Verteilung von Mädchen und Knaben.
+- a) …
+- b) …
 
-<sup>2</sup> Die Sekundarlehrkräfte erstellen zuhanden des Schulrates einen Einteilungsvorschlag unter Berücksichtigung der Vorschläge der Primarlehrkräfte, sowie der folgenden zusätzlichen Kriterien:
-
-- a) Belegung von Wahlfächern;
-- b) Machbarkeit des Stundenplanes.
+<sup>2</sup> …
 
 #### Art. 69d
 
 **Zuteilungen in die Leistungsniveaus und in das Gymnasium Appenzell**
 
-<sup>1</sup> Die Primarlehrkräfte reichen dem Schulrat nach Rücksprache mit den Inhabern der elterlichen Sorge und den Schülern einen Antrag über die Zuteilung in die Leistungsniveaus, bzw. in das Gymnasium Appenzell ein. Dabei berücksichtigen sie:
+<sup>1</sup> Die Primarlehrperson reicht nach Rücksprache mit den Inhabern der elterlichen Sorge und dem Schüler der Schulleitung einen Antrag über die Zuteilung in das Gymnasium Appenzell ein. Dabei berücksichtigt sie:
 
-- a) das gesamte Leistungsvermögen während der vergangenen zwei Semester im betreffenden Fach;
-- b) das voraussichtliche Leistungsvermögen auf der Sekundarschulstufe (in Französisch auf Grund bisheriger Leistungen im Fremdsprachenerwerb);
+- a) das gesamte Leistungsvermögen während den vergangenen drei Semestern;
+- b) das voraussichtliche Leistungsvermögen auf der Sekundarschulstufe I (in Französisch auf Grund bisheriger Leistungen im Fremdsprachenerwerb);
 - c) den Lernwillen und das Durchhaltevermögen;
 - d) das Lerntempo und
-- e) die geistige Beweglichkeit.
+- e) die Denkfähigkeit.
 
 #### Art. 69e
 
-**Entscheid**
+**Aufnahmeentscheid**
 
-<sup>1</sup> Der Schulrat nimmt die Einteilung in die Stammklassen und Niveaugruppen vor und teilt den Entscheid den Inhabern der elterlichen Sorge schriftlich mit.
+<sup>1</sup> Die Schulleitung fällt den Aufnahmeentscheid über die Zuweisung an das Gymnasium Appenzell in Absprache mit der Schulleitung des Gymnasiums und dem Volksschulamt.
 
-<sup>2</sup> Beim Entscheid über die Zuweisung an das Gymnasium Appenzell zieht er den Rektor und den Leiter des Schulamtes beratend bei.
+<sup>2</sup> Der Entscheid wird den Inhabern der elterlichen Sorge schriftlich mitgeteilt.
 
 #### Art. 69f
 
-**Umstufungen**
-
-<sup>1</sup> Der Wechsel der Niveaugruppe ist grundsätzlich während der gesamten Schulzeit durch die Sekundarlehrkräfte möglich. Sie entscheiden:
-
-- a) auf begründetes Gesuch der Inhaber der elterlichen Sorge oder
-- b) aufgrund der Fachleistung und des Arbeits- und Lernverhaltens des Schülers.
-
-<sup>2</sup> Ein Wechsel in ein höheres Niveau setzt gute bis sehr gute Leistungen über längere Zeit im aktuellen Niveau voraus.
-
-<sup>3</sup> Ein Wechsel in ein tieferes Niveau kann nur bei ungenügenden Leistungen im aktuellen Niveau über längere Zeit trotz guter Arbeitshaltung vorgenommen werden.
-
-Der Wechsel erfolgt grundsätzlich nur um eine Niveaustufe pro Umstufungstermin. Als Umstufungstermine gelten:
-
-- a) Mitte November
-- b) Ende des ersten Schulsemesters
-- c) Ende des Schuljahres.
+**…**
 
 ### E.III. Gemeinsame Bestimmungen
 
@@ -1153,9 +1121,9 @@ Der Wechsel erfolgt grundsätzlich nur um eine Niveaustufe pro Umstufungstermin.
 
 **Übertritt innerhalb der Sekundarstufe I**
 
-<sup>1</sup> Innerhalb der Sekundarschule I erfolgt der Übertritt von einem tieferen in einen höheren Schultyp, indem die gleiche Klasse, die im tieferen Schultyp besucht worden ist, im höheren Schultyp wiederholt wird.
+<sup>1</sup> Innerhalb der Sekundarstufe I erfolgt der Übertritt von einem tieferen in einen höheren Schultyp, indem die gleiche Klasse, die im tieferen Schultyp besucht worden ist, im höheren Schultyp wiederholt wird.
 
-<sup>2</sup> Von der 2. Sekundarklasse kann nach erfolgreich bestandener Aufnahmeprüfung in die 3. Klasse des Gymnasiums gewechselt werden.
+<sup>2</sup> Von der 2. Sekundarklasse kann nach erfolgreich bestandener Aufnahmeprüfung in die 3. Klasse des Gymnasiums Appenzell gewechselt werden.
 
 ## F. Schulversuche
 
@@ -1184,27 +1152,27 @@ Der Wechsel erfolgt grundsätzlich nur um eine Niveaustufe pro Umstufungstermin.
 
 **Blockzeiten**
 
-<sup>1</sup> Die Schulgemeinden sind verpflichtet an drei Vormittagen oder an zwei Vormittagen und einem Nachmittag pro Woche den Unterricht in Blockzeiten durchzuführen.
+<sup>1</sup> Die Schulgemeinden sind verpflichtet, an drei Vormittagen oder an zwei Vormittagen und einem Nachmittag pro Woche den Unterricht in Blockzeiten durchzuführen.
 
-<sup>2</sup> Der Unterricht in den Kindergärten, der Klein- und Vorschulklassen sowie der Primarschule hat zum gleichen Zeitpunkt zu beginnen und zu enden.
+<sup>2</sup> Der Unterricht in den Kindergärten und den Primarklassen sowie den Klein-, Vorschul- und Einführungsklassen hat zum gleichen Zeitpunkt zu beginnen und zu enden.
 
-<sup>3</sup> Die Blockzeiten gelten nicht für das 1. Kindergartenjahr.
+<sup>3</sup> Die Blockzeiten gelten nicht für das erste Kindergartenjahr.
 
 #### Art. 73
 
 **Stundenplanabgabe**
 
-<sup>1</sup> Die Lehrkräfte reichen die Stundenpläne für das neue Schuljahr spätestens bis zum 10. Juni an das Schulamt zur Prüfung ein.
+<sup>1</sup> Die Lehrpersonen reichen die Stundenpläne für das neue Schuljahr spätestens bis zum 10. Juni an das Volksschulamt zur Prüfung ein.
 
-<sup>2</sup> Die Inhaber der elterlichen Sorge erhalten die Stundenpläne für das neue Schuljahr spätestens zusammen mit dem Zeugnis des abgelaufenen zweiten Schulsemesters durch die Lehrkraft.
+<sup>2</sup> Die Inhaber der elterlichen Sorge erhalten die Stundenpläne für das neue Schuljahr spätestens zusammen mit dem Zeugnis des abgelaufenen zweiten Schulsemesters durch die Lehrperson.
 
 #### Art. 74
 
 **Wohnsitzwechsel**
 
-<sup>1</sup> Wechselt ein Kind den Wohn- resp. den Schulort, hat die Lehrkraft bzw. das Schulsekretariat das Zeugnis den Inhabern der elterlichen Sorge zu übergeben und unverzüglich das Schulamt, die Einwohnerkontrolle des bisherigen sowie das Schulpräsidium des neuen Wohnortes über den Wohnsitzwechsel zu informieren.
+<sup>1</sup> Wechselt ein Kind den Wohn- resp. den Schulort, hat die Lehrperson bzw. das Schulsekretariat das Zeugnis den Inhabern der elterlichen Sorge zu übergeben und unverzüglich das Volksschulamt, die Einwohnerkontrolle des bisherigen sowie das Schulpräsidium des neuen Wohnortes über den Wohnsitzwechsel zu informieren.
 
-<sup>2</sup> Zieht ein Kind von auswärts in eine Schulgemeinde des Kantons Appenzell I.Rh., erhalten der Schulrat und das Schulamt durch die Einwohnerkontrolle entsprechende Mitteilung.
+<sup>2</sup> Zieht ein Kind von auswärts in eine Schulgemeinde des Kantons Appenzell I.Rh., erhalten der Schulrat und das Volksschulamt durch die Einwohnerkontrolle entsprechende Mitteilung.
 
 ### G.II. Lehrpläne und Lehrmittel
 
@@ -1212,7 +1180,7 @@ Der Wechsel erfolgt grundsätzlich nur um eine Niveaustufe pro Umstufungstermin.
 
 **Lehrpläne**
 
-<sup>1</sup> Die Anwendung der durch das Schulamt erstellten und durch die Landesschulkommission genehmigten Lehrpläne sämtlicher Schulstufen sind für die Lehrkräfte verbindlich.
+<sup>1</sup> Die Verwendung des Lehrplans ist für alle Lehrpersonen der Volksschule obligatorisch.
 
 #### Art. 76
 
@@ -1224,23 +1192,23 @@ Der Wechsel erfolgt grundsätzlich nur um eine Niveaustufe pro Umstufungstermin.
 
 **Lehrmittel ausserhalb des Lehrmittelverzeichnisses**
 
-<sup>1</sup> Weitere Lehrmittel, die im Lehrmittelverzeichnis nicht enthalten sind, dürfen erst verwendet werden, wenn ein Visum des Schulinspektors vorliegt. Die Anschaffung solcher Lehrmittel erfolgt im Rahmen der durch die Schulräte bewilligten Kredite.
+<sup>1</sup> Nicht auf der Lehrmittelliste aufgeführte Lehrmittel können von den Lehrpersonen für die Unterrichtsgestaltung eingesetzt werden. Von einem Einsatz als Klassensatz ist abzusehen.
 
-<sup>2</sup> Wo keine Rahmenkredite bestehen, entscheidet der Schulrat.
+<sup>2</sup> …
 
-<sup>3</sup> Für Lesehefte im Deutschunterricht wird kein Visum des Schulinspektors benötigt.
+<sup>3</sup> …
 
-<sup>4</sup> Die auf Kosten der Schulverwaltungen angeschafften Lehrmittel und Handbücher verbleiben in deren Eigentum.
+<sup>4</sup> …
 
 #### Art. 78
 
 **Bestellwesen**
 
-<sup>1</sup> Die Lehrkräfte bestellen ihren jährlichen Bedarf in der Regel auf Schuljahresbeginn bei der Lehrmittelverwaltung. Sie holen die bestellten Lehrmittel dort ab.
+<sup>1</sup> Die Lehrpersonen bestellen ihren jährlichen Bedarf in der Regel auf Schuljahresbeginn bei der Lehrmittelverwaltung. Sie holen die bestellten Lehrmittel dort ab.
 
 <sup>2</sup> Die Bestellung und die Auslieferung der Verwaltungsdrucksachen erfolgt durch die Lehrmittelverwaltung.
 
-<sup>3</sup> Folgende Drucksachen werden an Lehrkräfte und Schulbehörden zu Lasten des Kantons abgegeben:
+<sup>3</sup> Folgende Drucksachen werden an Lehrpersonen und Schulbehörden zu Lasten des Kantons abgegeben:
 
 - a) Zeugnisse,
 - b) Schülerausweise bei Wohnortswechsel,
@@ -1269,7 +1237,7 @@ Sorgfaltspflicht:
 
 **Verrechnung**
 
-<sup>1</sup> Das Schulamt stellt den Schulgemeinden Rechnung über die ausgeführten Lieferungen.
+<sup>1</sup> Das Volksschulamt stellt den Schulgemeinden Rechnung über die ausgeführten Lieferungen.
 
 #### Art. 80a
 
@@ -1350,7 +1318,7 @@ Sorgfaltspflicht:
 
 <sup>1</sup> Der Schulrat erhält das Recht, einen Tag resp. zwei Halbtage pro Schuljahr für schulfrei zu erklären.
 
-<sup>2</sup> Der Schüler hat das Recht auf einen frei wählbaren Urlaubstag pro Schuljahr. Dieser Urlaubstag darf nicht in den letzten zwei Wochen der Schulzeit bezogen werden. Der Bezug ist der Klassenlehrkraft einen Schultag im Voraus schriftlich bekannt zu geben und muss mit dem Einverständnis der Inhaber der elterlichen Sorge versehen sein.
+<sup>2</sup> Der Schüler hat das Recht auf einen frei wählbaren Urlaubstag pro Schuljahr. Dieser Urlaubstag darf nicht in den letzten zwei Wochen der Schulzeit bezogen werden. Der Bezug ist der Klassenlehrperson einen Schultag im Voraus schriftlich bekannt zu geben und muss mit dem Einverständnis der Inhaber der elterlichen Sorge versehen sein.
 
 <sup>3</sup> Als schulfrei gelten auf jeden Fall:
 
@@ -1369,9 +1337,9 @@ Sorgfaltspflicht:
 
 **Kontrolle**
 
-<sup>1</sup> Die Lehrkräfte der öffentlichen Schulen kontrollieren den lückenlosen Besuch des Unterrichts.
+<sup>1</sup> Die Lehrpersonen der öffentlichen Schulen kontrollieren den lückenlosen Besuch des Unterrichts.
 
-<sup>2</sup> Bei unentschuldigtem Fernbleiben vom Unterricht wird der Schüler durch die verantwortliche Lehrkraft mündlich verwarnt. Im Wiederholungsfall werden die Inhaber der elterlichen Sorge schriftlich unter Anführung von Art. 29 SchG benachrichtigt. Bei fünf unentschuldigten Absenzen (Halbtage) ist das Verfahren nach Art. 92 dieses Beschlusses anzuwenden.
+<sup>2</sup> Bei unentschuldigtem Fernbleiben vom Unterricht wird der Schüler durch die verantwortliche Lehrperson mündlich verwarnt. Im Wiederholungsfall werden die Inhaber der elterlichen Sorge schriftlich unter Anführung von Art. 29 SchG benachrichtigt. Bei fünf unentschuldigten Absenzen (Halbtage) ist das Verfahren nach Art. 92 dieses Beschlusses anzuwenden.
 
 #### Art. 91
 
@@ -1386,9 +1354,9 @@ Sorgfaltspflicht:
 - e) Mithilfe im elterlichen Betrieb in Notfällen;
 - f) Verhinderung wegen ungangbar gewordener Schulwege.
 
-<sup>2</sup> Die Lehrkraft ist berechtigt, in Zweifelsfällen eine schriftliche Bestätigung der Absenzursache durch den Inhaber der elterlichen Sorge oder den behandelnden Arzt zu verlangen. Absenzgesuche sind vorgängig an die Lehrkraft zu richten.
+<sup>2</sup> Die Lehrperson ist berechtigt, in Zweifelsfällen eine schriftliche Bestätigung der Absenzursache durch den Inhaber der elterlichen Sorge oder den behandelnden Arzt zu verlangen. Absenzgesuche sind vorgängig an die Lehrperson zu richten.
 
-<sup>3</sup> Für Absenzen aus andern Ursachen als den oben genannten, kann die Lehrkraft für je einen Tag Dispens erteilen, für einen Schüler gesamthaft höchstens drei Tage in einem Jahr. Dispensgesuche sind vorgängig an die Lehrkraft zu richten.
+<sup>3</sup> Für Absenzen aus anderen Ursachen als den oben genannten, kann die Lehrperson für je einen Tag Dispens erteilen, für einen Schüler gesamthaft höchstens drei Tage in einem Jahr. Dispensgesuche sind vorgängig an die Lehrperson zu richten.
 
 #### Art. 91a
 
@@ -1400,7 +1368,7 @@ Sorgfaltspflicht:
 
 **Unentschuldigte Absenzen**
 
-<sup>1</sup> Bei fünf unentschuldigten Absenzen (Halbtage) hat die Lehrkraft innert drei Tagen dem Schulpräsidenten Bericht zu erstatten. Der Schulrat verwarnt den für den Schulbesuch Verantwortlichen sofort schriftlich. Bei weiteren unentschuldigten Absenzen ist das Verfahren gemäss Art. 76 f. SchG anzuwenden.
+<sup>1</sup> Bei fünf unentschuldigten Absenzen (Halbtage) hat die Lehrperson innert drei Tagen dem Schulpräsidenten Bericht zu erstatten. Der Schulrat verwarnt den für den Schulbesuch Verantwortlichen sofort schriftlich. Bei weiteren unentschuldigten Absenzen ist das Verfahren gemäss Art. 76 f. SchG anzuwenden.
 
 #### Art. 93
 
@@ -1422,11 +1390,11 @@ Sorgfaltspflicht:
 
 <sup>1</sup> Für die Beurteilung des Härtefalls sind insbesondere eines oder mehrere der folgenden Kriterien massgebend:
 
-- a) hohe Gesamtsteuerbelastung (Bezirk, Kirche, Schule)
+- a) hohe Gesamtsteuerbelastung (Kanton, Bezirk, Schule) oder tiefe Finanzkraft je Einwohner
 - b) geringes Eigenkapital bzw. die Nettoverschuldung
-- c) Intensivweiterbildung von Lehrkräften während des Rechnungsjahres
-- d) längere Stellvertretungen wegen Krankheit oder Unfall einer Lehrkraft mit zusätzlicher Belastung für die Schulgemeinde
-- e) Altersstruktur der Lehrkräfte
+- c) Intensivweiterbildung von Lehrpersonen während des Rechnungsjahres
+- d) längere Stellvertretungen wegen Krankheit oder Unfall einer Lehrperson mit zusätzlicher Belastung für die Schulgemeinde
+- e) Altersstruktur der Lehrpersonen
 - f) ausserkantonale Schulkosten
 - g) verhältnismässig viele Schüler in den Kleinklassen
 - h) übermässig hohe Transportkosten und Mittagsverpflegungen
@@ -1481,15 +1449,15 @@ Sorgfaltspflicht:
 
 #### Art. 104
 
-<sup>1</sup> An die Kosten der Musikschule Appenzell leistet der Kanton einen jährlichen Grundbeitrag von Fr. 5'000.
+<sup>1</sup> …
 
-<sup>2</sup> Der Schulgemeinde Oberegg wird jährlich ein Betrag von Fr. 500.-- an die Kosten der Musikschule, welcher sie angeschlossen ist, zugesprochen.
+<sup>2</sup> …
 
-## J. Aufgabenübertragung an Lehrpersonen
+## J. Aufgabenübertragung an Schulvorsteher und Schulleiter
 
 #### Art. 105
 
-**Anforderungen an Schulvor-steher und Schulleitungen**
+**Anforderungen an Schulvorsteher und Schulleitungen**
 
 <sup>1</sup> Die in Art. 66 Abs. 4 SchG erwähnte Leitungsfunktion wird von Schulvorstehern bzw. Schulleitern ausgeübt.
 
@@ -1517,35 +1485,33 @@ Sorgfaltspflicht:
 
 **Leitungsbereiche und Kompetenzen für Schulleitungen**
 
-<sup>1</sup> Die Leitungsfunktion für Schulleiter kann zusätzlich zu Art. 106 die folgenden Bereiche umfassen:
+<sup>1</sup> Die Leitungsfunktion für Schulleitungen umfasst zusätzlich zu Art. 106 die folgenden Bereiche:
 
-- a) Personelle Führung der Lehrpersonen:
-- b) Vorbereitung der Personalentscheide;
-- c) Interne Qualitätsentwicklung und Qualitätssicherung;
-- d) Förderung, Koordination und Planung der berufsbezogenen persönlichen und der schulinternen Weiterbildung der Lehrpersonen und des Lehrerteams;
-- e) Durchführung von Teamentwicklungsprojekten.
+- a) Personelle Führung der Lehrpersonen;
+- b) Vorbereitung von Personalentscheiden;
+- c) Pädagogische Führung der Schule;
+- d) Schulinterne Qualitätsentwicklung und Qualitätssicherung;
+- e) Planung und Durchführung von Team- und Schulentwicklungsprojekten.
 
 #### Art. 108
 
-**Leitungsbereiche und Kompetenzen für Schulleitungen in Absprache mit dem Schulamt**
-
-<sup>1</sup> Die Leitungsfunktion für Schulleiter kann in Absprache mit dem Schulamt auch die folgenden Bereiche umfassen:
-
-- a) Pädagogische Führung der Schule;
-- b) Durchführung von Schulentwicklungsprojekten;
-- c) Externe Qualitätsentwicklung und Qualitätssicherung;
-- d) Verfassen pädagogischer Fachberichte;
-- e) Festlegung und Durchführung von besonderen Unterrichts- und Organisationsformen.
+**…**
 
 #### Art. 109
 
 **Nicht delegierbare Leitungsbereiche und Kompetenzen**
 
-<sup>1</sup> Die folgenden Bereiche können nicht an den Schulvorsteher, die Schulleitung oder eine Lehrperson delegiert werden:
+<sup>1</sup> Beim Schulrat verbleiben die folgenden Bereiche:
 
 - a) Personalentscheide wie Anstellung und Entlassung von Lehrpersonen;
 - b) Kommunikation der Personalentscheide;
 - c) Entscheide bezüglich Projekten und Investitionen ausserhalb des der Leitungsperson zur Verfügung stehenden Budgets.
+
+<sup>2</sup> Beim Volksschulamt verbleiben:
+
+- a) Aufsicht über die pädagogische Führung der Schulen;
+- b) Aufsicht über die Qualitäts- und Schulentwicklungsprojekte der Schulen;
+- c) Initiierung von kantonalen Qualitäts- und Schulentwicklungsprozessen.
 
 ## K. Schlussbestimmung
 
@@ -1555,61 +1521,64 @@ Sorgfaltspflicht:
 
 <sup>1</sup> Dieser Beschluss tritt nach Annahme durch die Landesschulkommission auf den 1. August 2005 in Kraft.
 
-## A1. Anhang 1: Schulische Betreuung mit nicht pädagogisch ausgebildeten Personen
+## A1. Anhang 1: Schulische Betreuung mit nicht pädagogisch ausgebildeten Personen (Klassenassistenzen)
 
 #### Art. A1-1
 
 **Grundsatz**
 
-<sup>1</sup> Die Landesschulkommission kann im Sinne eines Schulversuches Schulgemeinden, welche dies wünschen, den zeitlich auf ein Jahr begrenzten Einsatz von Assistenz-personen gestatten; dieser Einsatz kann durch die Landesschulkommission auf Antrag des Schulrates verlängert werden. Dabei gelten die nachstehenden Bestim-mungen.
+<sup>1</sup> Der Schulrat kann im Bedarfsfall und in Absprache mit dem Volksschulamt den befristeten Einsatz einer Klassenassistenz für eine Klasse vorsehen.
+
+<sup>2</sup> Der Einsatz der Klassenassistenz erfolgt auf Antrag der Klassenlehrperson an die Schulleitung oder den Schulrat und ist abhängig von der Gesamtsituation der Klasse, der Anzahl Bezugspersonen und der Zielsetzung.
+
+<sup>3</sup> Das Volksschulamt informiert die Landesschulkommission über deren Einsatz.
 
 #### Art. A1-2
 
-**Unterrichtsassistenz / Lernhilfe**
+**Einsatzbereich**
 
-<sup>1</sup> Der Schulrat kann nicht pädagogisch ausgebildete Personen als Unterrichtsassistenten anstellen, welche die Lehrkräfte in Teilbereichen entlasten, pädagogische Aufgaben während des Unterrichts wahrnehmen und nicht Elternteil innerhalb der Klasse sind.
+<sup>1</sup> Klassenassistenzen nehmen unterstützende Tätigkeiten in einer Klasse wahr.
 
-<sup>2</sup> Der Einsatz von Assistenzpersonen in einer Klasse bedarf des Antrages und eines personellen Vorschlages der betreffenden Lehrerperson. Beim Einsatz ausserhalb des Klassenverbandes ist die Zustimmung der Lehrerschaft nicht erforderlich.
+<sup>2</sup> Der Lehrperson kommt beim Einsatz einer Klassenassistenz die Führungsrolle zu. Sie ist verantwortlich für deren Tätigkeiten und weist ihr Aufgaben zu.
+
+<sup>3</sup> Durch den Einsatz einer Klassenassistenz erhält die Lehrperson einen grösseren Handlungsspielraum, um sich herausfordernden Situationen im Unterricht anzunehmen.
 
 #### Art. A1-3
 
 **Anforderungsprofil**
 
-<sup>1</sup>
+<sup>1</sup> Die Klassenassistenz soll insbesondere die folgenden Kompetenzen mitbringen:
 
-- a) Personenkreis: Erwachsene
-- b) Fähigkeiten: sicherer, korrekter sprachlicher Ausdruck, gute Rechenfertigkeiten im Rahmen des Schulstoffes bis 9. Schuljahr, pädagogisches Geschick, natürliche Autorität, Zugänglichkeit, Kooperationsfähigkeit, Lernbereitschaft, Verpflichtung auf eine pädagogische Grundhaltung gemäss Lehrplan
-- c) Qualifikation: Das Schulamt klärt die Eignung der Assistenzpersonen ab.
+- a) Bereitschaft und Fähigkeit zum Aufbau einer guten und verlässlichen Beziehung zu den Schülern;
+- b) Einfühlungsvermögen und Geduld;
+- c) Verantwortungsbewusstsein und Teamfähigkeit;
+- d) Flexibilität und Loyalität.
+
+<sup>2</sup> Eine pädagogische Ausbildung ist nicht erforderlich.
 
 #### Art. A1-4
 
 **Aufgabenbereich**
 
-<sup>1</sup> Arbeit mit Lerngruppen nach Auftrag der Lehrperson, Lern- und Aufgabenhilfe, Aufrechterhaltung der Arbeitsdisziplin, Aufsicht, Begleitung bei Aktivitäten und Exkursionen.
+<sup>1</sup> Die Anstellung erfolgt durch den Schulrat und ist befristet.
+
+<sup>2</sup> Die Anstellungsmodalitäten werden in einer schriftlichen Vereinbarung geregelt (u.a. Besoldung, Versicherung, Pensum, Pflichten, Anstellungsdauer, Schweigepflicht).
+
+<sup>3</sup> Die Schulgemeinde bzw. der Bezirk Oberegg trägt die Besoldungskosten.
+
+<sup>4</sup> Als Empfehlung für die Besoldung soll die Einstufung die erste Stufe der Besoldungstabelle für die Primarstufe nicht überschreiten.
 
 #### Art. A1-5
 
-**Verantwortlichkeit**
-
-<sup>1</sup> Die Verantwortung für die Planung, den Lernstoff, die Beurteilung der Schülerinnen und Schüler, Elterninformation, erzieherische Grundhaltung und Massnahmen liegt bei der Lehrkraft.
-
-<sup>2</sup> Die Lernhelferin / der Lernhelfer unterstellt sich den Bedingungen und Vorgaben der zuständigen Lehrperson. Sie trägt Verantwortung für die an sie delegierten Aufgaben.
-
-<sup>3</sup> Die Lernhilfe untersteht dem Berufsgeheimnis.
-
-<sup>4</sup> Beim Einsatz ausserhalb des Klassenverbandes (z.B. Lern- und Aufgabenhilfe) liegt die Verantwortlichkeit bei der Assistenzperson.
+**…**
 
 #### Art. A1-6
 
-**Haftung**
-
-<sup>1</sup> Die Schulgemeinde klärt mit der Haftpflichtversicherung die Abdeckung für die Unterrichtsassistenten im Schadensfalle im gleichen Umfang wie für die Lehrkräfte.
+**…**
 
 #### Art. A1-7
 
-**Entschädigung**
-
-<sup>1</sup> Die Entschädigung erfolgt gemäss Vereinbarung zwischen Schulrat und der Assistenzperson zu Lasten der Schulgemeinde.
+**…**
 
 ## A2.
 
