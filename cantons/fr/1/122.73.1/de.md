@@ -4,13 +4,13 @@ number: "122.73.1"
 title: Gesetz über die Pensionskasse des Staatspersonals
 short: PKG
 language: de
-version: 2017-01-01
-valid_until: 2021-12-31
-version_adopted: 2014-11-21
+version: 2022-01-01
+valid_until: 2023-12-31
+version_adopted: 2020-06-26
 adopted: 2011-05-12
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.73.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/5040/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6686/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Pensionskasse des Staatspersonals – G
 
 (PKG)
 
-vom 12.05.2011 (Fassung in Kraft getreten am 01.01.2017)
+vom 12.05.2011 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -51,7 +51,7 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Die Pensionskasse gewährt im Rahmen der beruflichen Vorsorge Leistungen bei Pensionierung, Invalidität und Tod. Zu diesem Zweck erstellt sie mehrere, nach unterschiedlichem Primat funktionierende Vorsorgepläne.
+<sup>1</sup> Die Pensionskasse gewährt im Rahmen der beruflichen Vorsorge Leistungen bei Pensionierung, Invalidität und Tod. Zu diesem Zweck führt sie mehrere Vorsorgepläne im Beitragsprimat.
 
 #### Art. 3
 
@@ -97,9 +97,11 @@ beschliesst:
 
 <sup>1</sup> Die Pensionskasse führt die folgenden Vorsorgepläne:
 
-- a) einen Grundplan mit Leistungsprimat auf der Grundlage der Summe der während der gesamten beruflichen Laufbahn versicherten Löhne («Pensionsplan»);
+- a) einen Grundplan im Beitragsprimat («Pensionsplan»);
 - b) einen Vorsorgeplan mit Beitragsprimat auf der Grundlage der BVG-Altersgutschriften für Personen, die nicht im Grundplan versichert sind («BVG-Plan»);
 - c) einen Ergänzungsplan mit Beitragsprimat für Kaderpersonen, dessen Finanzierungsweise für die versicherten Personen nicht vorteilhafter sein darf als jene des Grundplans gemäss Buchstabe a.
+
+<sup>2</sup> Die Pensionskasse kann im Pensionsplan und im Ergänzungsplan für Kaderpersonen maximal drei Vorsorgepläne vorsehen. Im BVG-Plan wird hingegen nur ein Vorsorgeplan angeboten.
 
 #### Art. 8
 
@@ -107,7 +109,9 @@ beschliesst:
 
 <sup>1</sup> Das Finanzierungssystem des Pensionsplans ist ein gemischtes Finanzierungssystem, das nach dem Grundsatz der Teilkapitalisierung betrieben wird. Es wird gemäss den Artikeln 72a und 72b BVG geregelt. Der Deckungsgrad von 80 % der Gesamtverbindlichkeiten der Kasse muss spätestens am 1. Januar 2052 erreicht werden.
 
-<sup>2</sup> Den Vorsorgeplänen mit Beitragsprimat liegt das integrale Kapitaldeckungsverfahren zugrunde. Es bezweckt, mit dem entsprechenden Nettovorsorgevermögen einen versicherungstechnischen Reservefonds in der Höhe von mindestens 100 % der versicherungstechnischen Verpflichtungen zu garantieren.
+<sup>1a</sup> Die Pensionskasse unterbreitet ihrer Aufsichtsbehörde alle fünf Jahre einen Finanzierungsplan für den Pensionsplan, der die Anforderungen nach Absatz 1 erfüllt, zur Genehmigung.
+
+<sup>2</sup> Dem BVG-Plan und dem Ergänzungsplan für Kaderpersonen liegt das Vollkapitalisierungsverfahren zugrunde. Demnach werden die versicherungstechnischen Verpflichtungen mit dem entsprechenden Nettovorsorgevermögen zu mindestens 100 % gedeckt.
 
 <sup>3</sup> Die versicherungstechnischen Verpflichtungen umfassen die Vorsorgekapitalien der Versicherten, die Vorsorgekapitalien der Leistungsempfänger und die erforderlichen technischen Rückstellungen, die auf denselben Zeitpunkt wie das Vorsorgevermögen berechnet werden.
 
@@ -119,11 +123,13 @@ beschliesst:
 
 <sup>1</sup> Die Finanzierungssysteme der Pensionskasse werden nach dem Grundsatz des finanziellen Gleichgewichts geführt.
 
-<sup>2</sup> Das finanzielle Gleichgewicht wird anhand des Finanzierungsgrads gemessen. Dieser entspricht dem Verhältnis zwischen Nettovorsorgevermögen und dem versicherungstechnischen Reservefonds des betreffenden Vorsorgeplans zum gegebenen Zeitpunkt.
+<sup>2</sup> Das finanzielle Gleichgewicht des Pensionsplans wird am Finanzierungsplan nach Artikel 8 Abs. 1a gemessen. Das finanzielle Gleichgewicht des BVG-Plans und des Ergänzungsplans für Kaderpersonen wird am Deckungsgrad von 100 % gemessen.
 
-<sup>3</sup> Das finanzielle Gleichgewicht der Pensionskasse wird als genügend erachtet, wenn der Finanzierungsgrad zum gegebenen Zeitpunkt mindestens 100 % beträgt. Der zu Beginn einer Projektionsperiode erreichte Finanzierungsgrad des Pensionsplans muss zudem auf der Grundlage von Berechnungen, die anhand jährlicher Voranschlagsprojektionen nach dem Grundsatz der offenen Kasse vorgenommen werden, während der gesamten Finanzierungsperiode nach Absatz 4 aufrecht erhalten werden; er muss jedoch mindestens 100 % betragen.
+<sup>3</sup> Das finanzielle Gleichgewicht des Pensionsplans gilt als erreicht, wenn der Deckungsgrad zum gegebenen Zeitpunkt dem von der Pensionskasse verabschiedeten Finanzierungsplan entspricht. Zudem muss der Finanzierungsplan auf der Grundlage von Projektionsberechnungen für die massgebende Finanzierungsperiode eingehalten werden.
 
-<sup>4</sup> Die massgebende Finanzierungsperiode beträgt zwanzig Jahre ab dem Zeitpunkt des versicherungstechnischen Gutachtens.
+<sup>3a</sup> Das finanzielle Gleichgewicht des BVG-Plans und des Ergänzungsplans für Kaderpersonen gilt als erreicht, wenn der Deckungsgrad zum gegebenen Zeitpunkt mindestens 100 % beträgt. Zudem muss der Deckungsgrad von 100 %, auf der Grundlage von Berechnungen anhand jährlicher Voranschlagsprojektionen, für die massgebende Finanzierungsperiode eingehalten werden.
+
+<sup>4</sup> Die massgebende Finanzierungsperiode beträgt zwanzig Jahre ab dem Zeitpunkt des versicherungstechnischen Gutachtens, für den Pensionsplan läuft sie jedoch bis mindestens 2052.
 
 <sup>5</sup> Zeigen die Projektionsberechnungen der anerkannten Expertin oder des anerkannten Experten bei der Finanzierung der Pensionskasse ein strukturelles Ungleichgewicht auf, so entscheidet der Vorstand der Pensionskasse (der Vorstand) über die Massnahmen, die ergriffen werden müssen, um das Gleichgewicht wiederherzustellen. Ist eine Gesetzesänderung nötig, so unterbreitet der Vorstand nach Anhören der anerkannten Expertin oder des anerkannten Experten dem Staatsrat Anträge. Der Staatsrat entscheidet über das weitere Vorgehen und unterbreitet dem Grossen Rat gegebenenfalls einen Entwurf.
 
@@ -137,7 +143,7 @@ beschliesst:
 
 <sup>2</sup> Der Vorstand legt die Kategorien von Sanierungsmassnahmen und die Umstände fest, unter denen solche Massnahmen ergriffen werden müssen.
 
-<sup>3</sup> Der Vorstand entscheidet zusammen mit der anerkannten Expertin oder dem anerkannten Experten über Sanierungsmassnahmen. Diese müssen zuvor dem Staatsrat zur Stellungnahme unterbreitet werden. Der Staatsrat kann dabei die Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg (FEDE) und die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg konsultieren. Im Übrigen bleibt Artikel 14 vorbehalten.
+<sup>3</sup> Der Vorstand entscheidet zusammen mit der anerkannten Expertin oder dem anerkannten Experten über Sanierungsmassnahmen. Diese müssen zuvor dem Staatsrat zur Stellungnahme unterbreitet werden. Der Staatsrat kann dabei die Föderation der Personalverbände der Staatsangestellten des Kantons Freiburg (FEDE), der Verband des Personals öffentlicher Dienste Freiburg (VPOD Freiburg) und die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg konsultieren. Im Übrigen bleibt Artikel 14 vorbehalten.
 
 <sup>4</sup> Der Vorstand informiert die Aufsichtsbehörde; er berücksichtigt deren Stellungnahme zu den notwendigen Sanierungsmassnahmen.
 
@@ -163,7 +169,17 @@ beschliesst:
 
 **Beiträge der Arbeitgeber und der Versicherten – Allgemeines**
 
-<sup>1</sup> Im Pensionsplan muss der Pensionskasse ein Beitrag in der Höhe von 25,9 % des versicherten Lohnes entrichtet werden; davon gehen 10,66 % zulasten der versicherten Person und 15,24 % zulasten des Arbeitgebers.
+<sup>1</sup> Im Pensionsplan werden die Pensionskassenbeiträge der versicherten Person und des Arbeitgebers gemäss folgender Tabelle in Prozenten des versicherten Lohns entsprechend dem BVG-Alter der versicherten Person festgelegt:
+
+<table>
+<tr><th>BVG-Alter</th><th>Beitragssatz versicherte Person</th><th>Beitragssatz Arbeitgeber</th></tr>
+<tr><td>22 – 34 Jahre</td><td>10,02 %</td><td>12,38 %</td></tr>
+<tr><td>35 – 44 Jahre</td><td>10,02 %</td><td>13,38 %</td></tr>
+<tr><td>45 – 54 Jahre</td><td>12,92 %</td><td>16,88 %</td></tr>
+<tr><td>55 – 70 Jahre</td><td>13,02 %</td><td>21,38 %</td></tr>
+</table>
+
+<sup>1a</sup> Bietet die Pensionskasse in Anwendung von Artikel 7 Abs. 2 mehrere Vorsorgepläne an, so gehen die daraus resultierenden höheren Beiträge vollständig zulasten der versicherten Personen.
 
 <sup>2</sup> Im BVG-Plan wird der Beitrag in Prozenten des versicherten Lohns nach Massgabe der BVG-Altersgutschriften festgelegt. Die Pensionskasse legt in ihren reglementarischen Bestimmungen den Beitragsteil für die Risikodeckung und die Verwaltungskosten fest. Der Beitrag wird zwischen der versicherten Person und dem Arbeitgeber paritätisch aufgeteilt.
 
@@ -224,13 +240,15 @@ beschliesst:
 
 <sup>1</sup> Der Vorstand besteht aus zwölf Mitgliedern, von denen sechs den Staat und sechs die Arbeitnehmenden vertreten. Die Mitglieder des Vorstands unterstehen dem Gesetz betreffend die Dauer der öffentlichen Nebenämter.
 
+<sup>1a</sup> Die Mitglieder des Vorstands müssen einen guten Leumund haben und Gewähr für eine einwandfreie Geschäftstätigkeit bieten. Insgesamt müssen sie über die zur ordnungsgemässen Erfüllung ihrer Aufgaben erforderlichen Fähigkeiten verfügen, insbesondere in den Bereichen berufliche Vorsorge und Personalwesen, Finanzanlagen und Bauwesen sowie im Rechtswesen.
+
 <sup>2</sup> Wird das Dienstverhältnis eines vom Staat entlöhnten Vorstandsmitglieds beendigt oder tritt ein Vorstandsmitglied zurück, so verständigt der Vorstand die zuständige Behörde oder das zuständige Organ, damit ein Ersatz bezeichnet werden kann.
 
-<sup>3</sup> Von den sechs Vorstandsmitgliedern, die die Arbeitnehmenden vertreten, werden fünf Mitglieder über die FEDE und ein Mitglied über die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg gewählt.
+<sup>3</sup> Von den sechs Vorstandsmitgliedern, die die Arbeitnehmenden vertreten, werden vier Mitglieder über die FEDE, ein Mitglied über den VPOD Freiburg und ein Mitglied über die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg gewählt.
 
-<sup>4</sup> Die zuständige Direktionsvorsteherin oder der zuständige Direktionsvorsteher und die Chefin oder der Chef des Amtes für Personal und Organisation vertreten den Arbeitgeber. Der Staatsrat bezeichnet die vier weiteren Arbeitgebervertreter.
+<sup>4</sup> Ein Mitglied des Staatsrats vertritt den Arbeitgeber. Ausserdem bezeichnet der Staatsrat weitere fünf Personen, die den Arbeitgeber vertreten.
 
-<sup>5</sup> Die FEDE und die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg organisieren die Wahl der Vorstandsmitglieder, die die Arbeitnehmenden vertreten. Dabei sind die verschiedenen Kategorien von Arbeitnehmenden und ihre zahlenmässige Bedeutung zu berücksichtigen; der Staatsrat legt die entsprechenden Regeln fest. Mindestens vier Mitglieder der Arbeitnehmendenvertretung müssen bei der Pensionskasse versichert sein.
+<sup>5</sup> Die FEDE, der VPOD Freiburg und die Vereinigung der höheren Kader und Magistratspersonen des Staates Freiburg organisieren die Wahl der Vorstandsmitglieder, die die Arbeitnehmenden vertreten. Dabei sind die verschiedenen Kategorien von Arbeitnehmenden und ihre zahlenmässige Bedeutung zu berücksichtigen; der Staatsrat legt die entsprechenden Regeln fest. Mindestens vier Mitglieder der Arbeitnehmendenvertretung müssen bei der Pensionskasse versichert sein.
 
 <sup>6</sup> Die Personen, die eine Alterspension der Pensionskasse beziehen, wählen unter den ehemaligen Staatsangestellten eine Vertreterin oder einen Vertreter. Diese Person nimmt mit beratender Stimme an den Vorstandssitzungen teil.
 
@@ -369,15 +387,91 @@ beschliesst:
 
 <sup>2</sup> Bevor die Klage eingereicht wird, müssen der Pensionskasse gemäss Artikel 102 VRG die Ansprüche zusammen mit einer Begründung mitgeteilt werden.
 
+## 7a Übergangsbestimmungen für den Wechsel vom Leistungsprimat zum Beitragsprimat im Pensionsplan
+
+#### Art. 29a
+
+**Betroffene Personen**
+
+<sup>1</sup> Der neue Pensionsplan im Beitragsprimat gilt für die Arbeitnehmenden, die zum Zeitpunkt des Inkrafttretens der Änderung vom 26. Juni 2020 dieses Gesetzes bei den Arbeitgebern angestellt und gemäss Artikel 4 Abs. 1 und 2 der Pensionskasse angeschlossen sind.
+
+<sup>2</sup> Angestellte, deren Dienstverhältnis spätestens am letzten Tag des Monats vor dem Inkrafttreten der Änderung vom 26. Juni 2020 dieses Gesetzes endet, sind weiterhin den Bedingungen des Pensionsplans im Leistungsprimat unterstellt, der zu diesem Zeitpunkt gilt. Die wohlerworbenen Rechte der übrigen Rentenbezügerinnen und Rentenbezüger sind ebenfalls garantiert.
+
+#### Art. 29b
+
+**Altersguthaben**
+
+<sup>1</sup> Am Tag des Inkrafttretens der Änderung vom 26. Juni 2020 dieses Gesetzes schreibt die Pensionskasse dem Altersguthaben jeder aktiven versicherten Person ei-nen Betrag gut, der dem aktuellen Wert der erworbenen Leistungen ent-spricht, wie er gemäss Artikel 16 des Bundesgesetzes vom 17. Dezember 1993 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge am Vortag des Inkrafttretens berechnet wurde.
+
+#### Art. 29c
+
+**Kompensationsbetrag – Grundsätze**
+
+<sup>1</sup> Am Datum des Inkrafttretens der Änderung vom 26. Juni 2020 dieses Gesetzes schreibt die Pensionskasse allen aktiven Versicherten auf dem Altersguthaben einen Kompensationsbetrag gut, sofern sie:
+
+- a) über 45-jährig sind und
+- b) ihre Stelle vor dem 31. Dezember 2018 angetreten haben.
+
+<sup>2</sup> Der Kompensationsbetrag entspricht dem einmaligen Betrag, der dem Altersguthaben der versicherten Person zur Abfederung der Auswirkungen des Primatwechsels auf ihre Alterspension per 31. Dezember 2018 gutgeschrieben werden soll. Er errechnet sich aus dem Vergleich der anwartschaftlichen Alterspension per 64. Altersjahr gemäss bisherigem Pensionsplan im Leistungsprimat mit der anwartschaftlichen Alterspension im gleichen Altersjahr im Vorsorgeplan «Standard».
+
+<sup>3</sup> Der Kompensationsbetrag hat eine der folgenden Formen:
+
+- a) ein Betrag, mit dem zum Zeitpunkt des Primatwechsels nach den gewählten Parametern für alle über 45-jährigen Versicherten die Kürzung der Alterspension gegenüber der bei einer Pensionierung mit 64 Jahren gemäss bisherigem Pensionsplan zu erwartenden Alterspension auf 9,5 % begrenzt werden kann; oder
+- b) ein Betrag, mit dem für die über 54- bis 64-jährigen Versicherten die Differenz zwischen der im Alter von 64 Jahren erwarteten Alterspension nach dem alten und dem neuen Pensionsplan unter Berücksichtigung der gewählten Parameter degressiv im Umfang von 10 % pro Jahr kompensiert werden soll.
+
+<sup>4</sup> Der Kompensationsbetrag berechnet sich auf der Grundlage der aktuellen Parameter per 31. Dezember 2018, projiziert auf den 31. Dezember 2021. Für jede begünstigte versicherte Person wird derjenige Kompensationsbetrag nach Absatz 3 gewählt, der für sie vorteilhafter ist.
+
+<sup>5</sup> Der Kompensationsbetrag wird linear über einen Zeitraum von 15 Jahren ab dem Inkrafttreten der Änderung vom 26. Juni 2020 dieses Gesetzes zu 6,66 % pro Jahr erworben. Bei Austritt aus der Pensionskasse vor Eintritt eines Vorsorgefalls wird der erworbene Kompensationsbetrag in die Austrittsleistung integriert. Bei Pensionierung erhalten die Versicherten den vollen Kompensationsbetrag sofort.
+
+<sup>6</sup> Für die mit Polizeigewalt ausgestatteten Beamtinnen und Beamten liegen das Berechnungsalter für den Vergleich der Alterspension bei 60 statt 64 Jahren und das Referenzalter für den Kompensationsbetrag bei über 50 statt über 54 Jahren.
+
+#### Art. 29d
+
+**Kompensationsbetrag – Finanzierung**
+
+<sup>1</sup> Zur Sicherung der Finanzierung der Kompensationsbeträge überweisen die nach Artikel 4 Abs. 1 und 2 angeschlossenen Arbeitgeber der Pensionskasse bis spätestens am Tag des Inkrafttretens der Änderung vom 26. Juni 2020 dieses Gesetzes einen Maximalbetrag von 380 Millionen Franken.
+
+<sup>2</sup> Die Höhe der Beteiligung der einzelnen Arbeitgeber wird vom Staatsrat festgesetzt und richtet sich nach den Kosten der Massnahmen nach Artikel 29c Abs. 2 für ihre betroffenen Versicherten. Die Berechnungen basieren auf dem Stand zwölf Monate vor Inkrafttreten der Änderung vom 26. Juni 2020 dieses Gesetzes, der auf das Datum des Inkrafttretens dieser Änderung projiziert wird, auf der Grundlage der Modalitäten nach Artikel 29c Abs. 4.
+
+<sup>3</sup> Jeder Arbeitgeber trägt die Kosten für die Kompensationsbeträge seines Personals. Die Pensionskasse informiert bis spätestens sechs Monate vor Inkrafttreten der Änderung vom 26. Juni 2020 dieses Gesetzes jeden Arbeitgeber über den fälligen Betrag.
+
+<sup>4</sup> Die Pensionskasse kann dem Staat Freiburg sowie den angeschlossenen Arbeitgebern ein mittelfristiges Darlehen gewähren, das marktgerecht verzinst und über einen Zeitraum von höchstens fünf Jahren zurückgezahlt wird. Die Darlehenshöhe und die sonstigen Modalitäten werden zwischen der Pensionskasse und den betroffenen angeschlossenen Arbeitgebern vertraglich festgelegt.
+
+#### Art. 29e
+
+**Schuldanerkennung**
+
+<sup>1</sup> Die von der Pensionskasse mitgeteilten Beträge nach Artikel 29d gelten als Schuldanerkennung im Sinne von Artikel 82 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889.
+
+#### Art. 29f
+
+**Buchhalterische Erfassung der Beiträge zulasten des Staates**
+
+<sup>1</sup> Der gesamte in Anwendung von Artikel 29d zulasten des Staates gehende Betrag wird dem Eigenkapital des Staates belastet und wirkt sich nicht auf die Erfolgsrechnung aus.
+
+<sup>2</sup> Bei Inkrafttreten der Änderung vom 26. Juni 2020 dieses Gesetzes kann der Staat bei der Pensionskasse ein Darlehen in Höhe des Betrags aufnehmen, der ihm gemäss der vorstehenden Bestimmung in Rechnung gestellt wurde. Die Bedingungen und die Modalitäten richten sich nach Artikel 29d Abs. 4.
+
+<sup>3</sup> Die folgenden staatlichen Anstalten und interkantonalen Einrichtungen haben dem Staat den Anteil am vorgenannten Betrag für ihr Personal zu überweisen:
+
+- a) die Kantonale Sozialversicherungsanstalt und/oder die ihr angegliederten Einheiten für die von Dritten finanzierten Aufgaben;
+- b) die von Dritten finanzierten Sektoren des Amts für den Arbeitsmarkt (RAV);
+- c) die Nutztierversicherungsanstalt (Sanima);
+- d) die Pensionskasse des Staatspersonals des Kantons Freiburg (PKSPF);
+- e) die Öffentliche Arbeitslosenkasse (ÖALK);
+- f) das Interprofessionelle Weiterbildungszentrum (IWZ);
+- g) der interkantonale Unterhaltsdienst für das Nationalstrassennetz (SIERA).
+
+<sup>4</sup> Der Staatsrat legt nach Anhörung der betroffenen Anstalten den Betrag fest, den jede Anstalt oder Einrichtung dem Staat überweisen muss.
+
+<sup>5</sup> Gemäss den Bestimmungen des Gesetzes über die obligatorische Schule tragen die Gemeinden zusammen 50 % der Kosten, die von der Änderung vom 26. Juni 2020 dieses Gesetzes für die Lehrpersonen und das sozialpädagogische Personal verursacht werden. Die Aufteilung auf die Gemeinden und die Zahlungsmodalitäten richten sich nach den Artikeln 68 und 69 des Gesetzes vom 9. September 2014 über die obligatorische Schule.
+
+<sup>6</sup> Der Staat kann den Gemeinden und den vorgenannten Anstalten bei Bedarf ein Darlehen gewähren. Der Staatsrat bestimmt die Darlehensbedingungen und ‑modalitäten.
+
 ## 8 Schlussbestimmungen
 
 #### Art. 30
 
-**Beiträge**
-
-<sup>1</sup> Nach Inkrafttreten dieses Gesetzes muss der Pensionskasse im Pensionsplan ein Beitrag von 21,5 % des versicherten Lohns entrichtet werden. Davon trägt die versicherte Person 9 % und der Arbeitgeber 12,5 %.
-
-<sup>2</sup> Zwei Jahre nach Inkrafttreten dieses Gesetzes muss der Pensionskasse der Beitrag gemäss Artikel 13 Abs. 1 entrichtet werden.
+**…**
 
 #### Art. 31
 
