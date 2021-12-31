@@ -4,13 +4,13 @@ number: "177.112"
 title: Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals
 short: RSV
 language: de
-version: 2020-01-01
-valid_until: 2021-12-31
-version_adopted: 2019-11-19
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-11-30
 adopted: 2003-12-09
 in_force: 2004-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.112"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1665/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RSV
 
 (RSV)
 
-vom 09.12.2003 (Stand 01.01.2020)
+vom 09.12.2003 (Stand 01.01.2022)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -59,10 +59,10 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind:
 
-- 1\. Angestellte, die auf unbestimmte oder bestimmte Zeit in einem Dienstverhältnis beim Kanton stehen;
-- 2\. die auf Amtsdauer gewählten Personen;
-- 3\. Auszubildende, die eine Berufslehre nach den eidgenössischen und kantonalen Bestimmungen über das berufliche Bildungswesen und den Vorschriften der Berufsverbände absolvieren;
-- 4\. Praktikantinnen und Praktikanten, die sich in der Regel während längstens zwei Jahren zur Vorbereitung oder Ergänzung ihrer Ausbildung im praktischen Berufseinsatz befinden.
+- 1\. Angestellte, die auf unbestimmte oder bestimmte Zeit in einem Dienstverhältnis beim Kanton stehen
+- 2\. die auf Amtsdauer gewählten Personen
+- 3\. Auszubildende, die eine Berufslehre nach den eidgenössischen und kantonalen Bestimmungen über das berufliche Bildungswesen und den Vorschriften der Berufsverbände absolvieren
+- 4\. Praktikantinnen und Praktikanten, die sich in der Regel während längstens zwei Jahren zur Vorbereitung oder Ergänzung ihrer Ausbildung im praktischen Berufseinsatz befinden
 
 #### § 4
 
@@ -188,7 +188,9 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>2</sup> Befristete Dienstverhältnisse sind insbesondere bei zeitlich eingrenzbaren Projekten, zur Überbrückung von ausserordentlichem Arbeitsanfall oder längerer Krankheitsabsenzen vorzusehen.
 
-<sup>3</sup> Ein befristetes Dienstverhältnis ist grundsätzlich insgesamt für längstens zwei Jahre zulässig. Eine Fortführung kann nur als unbefristetes Anstellungsverhältnis erfolgen und ergeht mittels Entscheid.
+<sup>3</sup> Vorbehältlich der saisonalen Anstellungen ist ein befristetes Dienstverhältnis grundsätzlich insgesamt für längstens zwei Jahre zulässig. Eine Fortführung kann nur als unbefristetes Anstellungsverhältnis erfolgen und ergeht mittels Entscheid.
+
+<sup>4</sup> Für bestimmte Bereiche und Funktionen, bei denen der Arbeitsanfall während bestimmter Monate im Jahr deutlich höher ist als in anderen Monaten, können mit Zustimmung des Departements saisonale Anstellungen bewilligt werden. Saisonale Anstellungen sind befristete Dienstverhältnisse mit einer Dauer von höchstens neun Monaten. Sie können wiederkehrend mit denselben Mitarbeiterinnen und Mitarbeitern besetzt werden.
 
 #### § 15
 
@@ -218,15 +220,15 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Das Dienstverhältnis endet:
 
-- 1\. durch Kündigung;
-- 2\. mit Fristablauf bei einer befristeten Anstellung;
-- 3\. im gegenseitigen Einvernehmen;
-- 4\. mit Ablauf der maximalen Lohnfortzahlung infolge von Unfall oder Krankheit im Sinne von § 20 der Verordnung des Grossen Rates über die Besoldung des Staatspersonals[^17-1] unter Beachtung der Wiederherstellung;
-- 5\. durch Altersrücktritt;
-- 6\. mit der Vollendung des 65. Altersjahres;
-- 7\. zufolge Nichtwiederwahl von auf Amtsdauer gewählten Personen;
-- 8\. durch Entlassung von auf Amtsdauer gewählten Personen;
-- 9\. mit dem Tod.
+- 1\. durch Kündigung
+- 2\. mit Fristablauf bei einer befristeten Anstellung
+- 3\. im gegenseitigen Einvernehmen
+- 4\. mit Ablauf der maximalen Lohnfortzahlung infolge Unfall oder Krankheit im Sinne von § 20 der Verordnung des Grossen Rates über die Besoldung des Staatspersonals (BesVO)[^17-1]
+- 5\. durch Altersrücktritt
+- 6\. mit der Vollendung des 65. Altersjahres
+- 7\. zufolge Nichtwiederwahl von auf Amtsdauer gewählten Personen
+- 8\. durch Entlassung von auf Amtsdauer gewählten Personen
+- 9\. mit dem Tod
 
 [^17-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
 
@@ -252,8 +254,8 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>2</sup> Unter Vorbehalt abweichender Regelungen kann ein Anstellungs- oder Praktikumsverhältnis nach Ablauf der Probezeit beidseitig auf das Ende eines Monats unter Einhaltung folgender Fristen aufgelöst werden:
 
-- 1\. 1 Monat im 1. Dienstjahr;
-- 2\. 3 Monate ab dem 2. Dienstjahr.
+- 1\. 1 Monat im 1. Dienstjahr
+- 2\. 3 Monate ab dem 2. Dienstjahr
 - 3\. …
 
 #### § 20
@@ -262,7 +264,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Bei einem Stellenwechsel innerhalb der kantonalen Verwaltung richtet sich die Kündigungsfrist nach den insgesamt beim Kanton ununterbrochen geleisteten Dienstjahren.
 
-<sup>2</sup> Der Kündigungstermin gemäss § 19 Absatz 2 gilt nicht für Mitarbeiterinnen, die ihr Dienstverhältnis aufgrund von Schwangerschaft beziehungsweise Mutterschaft vor oder nach der Niederkunft künden.
+<sup>2</sup> Der Kündigungstermin gemäss § 19 Abs. 2 gilt nicht für Mitarbeiterinnen, die ihr Dienstverhältnis aufgrund von Schwangerschaft beziehungsweise Mutterschaft vor oder nach der Niederkunft künden.
 
 #### § 21
 
@@ -272,10 +274,10 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>2</sup> Sachliche Gründe sind insbesondere:
 
-- 1\. Aufhebung einer Stelle aus betrieblichen oder wirtschaftlichen Gründen;
-- 2\. ungenügende Leistungen oder unbefriedigendes Verhalten;
-- 3\. Verletzung gesetzlicher oder vereinbarter Pflichten;
-- 4\. fehlende Eignung oder Wegfall beziehungsweise Nichterfüllen gesetzlicher oder vereinbarter Anstellungsvoraussetzungen.
+- 1\. Aufhebung einer Stelle aus betrieblichen oder wirtschaftlichen Gründen
+- 2\. ungenügende Leistungen oder unbefriedigendes Verhalten
+- 3\. Verletzung gesetzlicher oder vereinbarter Pflichten
+- 4\. fehlende Eignung oder Wegfall beziehungsweise Nichterfüllen gesetzlicher oder vereinbarter Anstellungsvoraussetzungen
 
 <sup>3</sup> Bevor eine Kündigung aufgrund ungenügender Leistungen oder unbefriedigenden Verhaltens ausgesprochen wird, ist in der Regel ein Standortgespräch zu führen und eine Frist zur positiven Veränderung anzusetzen.
 
@@ -303,6 +305,8 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>2</sup> Jedes befristete Dienstverhältnis kann beidseitig unter Einhaltung der Kündigungsfristen und -termine für unbefristete Dienstverhältnisse oder bei Vorliegen eines wichtigen Grundes jederzeit fristlos aufgelöst werden.
 
+<sup>3</sup> Saisonale Anstellungen können vorbehältlich abweichender Regelung beidseitig unter Einhaltung einer Kündigungsfrist von einem Monat jeweils auf das Ende eines Monats aufgelöst werden.
+
 #### § 24
 
 **Auflösung des Lehrverhältnisses**
@@ -319,16 +323,19 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Der Kanton darf das Dienstverhältnis von Mitarbeiterinnen und Mitarbeitern während folgender Sperrfristen nicht kündigen:
 
-- 1\. während schweizerischem obligatorischen Militär- oder Schutzdienst oder schweizerischem Zivildienst, sowie, sofern die Dienstleistung mehr als elf Kalendertage dauert, während vier Wochen vorher und nachher;
-- 2\. während einer ganzen oder teilweisen Verhinderung an der Arbeitsleistung durch Unfall oder Krankheit ohne eigenes, mindestens grobfahrlässiges Verschulden, und zwar während längstens zwei Jahren beziehungsweise bis der Lohnfortzahlungsanspruch bei Krankheit und Unfall erlischt;
-- 3\. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft;
-- 4\. während der Teilnahme an einer von einer Bundes-, Kantons- oder Gemeindebehörde angeordneten Dienstleistung für eine Hilfsaktion.
+- 1\. während schweizerischem obligatorischen Militär- oder Schutzdienst oder schweizerischem Zivildienst, sowie, sofern die Dienstleistung mehr als elf Kalendertage dauert, während vier Wochen vorher und nachher
+- 2\. während einer ganzen oder teilweisen Verhinderung an der Arbeitsleistung durch Unfall oder Krankheit ohne eigenes, mindestens grobfahrlässiges Verschulden, und zwar während längstens zwei Jahren beziehungsweise bis der Lohnfortzahlungsanspruch bei Krankheit und Unfall erlischt
+- 3\. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft
+- 4\. während der Teilnahme an einer von einer Bundes-, Kantons- oder Gemeindebehörde angeordneten Dienstleistung für eine Hilfsaktion
+- 5\. solange der Anspruch auf Betreuungsurlaub nach § 22b BesVO besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist gemäss Art. 16p Abs. 2 des Bundesgesetzes über den Erwerbsersatz (EOG)[^25-1] zu laufen beginnt
 
 <sup>2</sup> Eine während einer solchen Sperrfrist ergangene Kündigung ist nichtig.
 
 <sup>3</sup> Die genannten Sperrfristen finden keine Anwendung während der Probezeit, bei einer fristlosen Auflösung des Dienstverhältnisses oder einer mit sofortiger Wirkung ausgesprochenen disziplinarischen Entlassung.
 
 <sup>4</sup> Tritt während laufender Kündigungsfrist ein Sperrgrund ein, wird der Fristenlauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt. Im Falle der Unterbrechung zufolge Krankheit oder Unfall wird der Fristenlauf längstens während 30 Tagen im ersten Dienstjahr, während 90 Tagen vom zweiten bis und mit fünften Dienstjahr und während 180 Tagen ab dem sechsten Dienstjahr unterbrochen. Das Dienstverhältnis endet formlos auf das Monatsende.
+
+[^25-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 #### § 26
 
@@ -369,7 +376,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Tritt eine Mitarbeiterin oder ein Mitarbeiter im Einvernehmen mit dem Kanton nach Vollendung des 60. Altersjahres in den Ruhestand, kann anstelle einer Abgangsentschädigung ein Zuschuss zum Pensionskassensparguthaben oder – alternativ oder kumulativ – eine Vorzusatzrente in der Höhe der Zusatzrente mit Alter 63 gemäss den Bestimmungen des Reglements der Pensionskasse Thurgau[^27a-1] gewährt werden.
 
-<sup>2</sup> Der Regierungsrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass die Regelung gemäss Absatz 1 in Ausnahmefällen ab vollendetem 58. Altersjahr gewährt wird.
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass die Regelung gemäss Abs. 1 in Ausnahmefällen ab vollendetem 58. Altersjahr gewährt wird.
 
 [^27a-1]: RB [177.42](https://www.rechtsbuch.tg.ch/data/177.42/de)
 
@@ -399,7 +406,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 **Beendigung zufolge Ausschöpfung des Leistungsanspruches bei Krankheit und Unfall**
 
-<sup>1</sup> Sofern eine Weiterbeschäftigung mit reduziertem Beschäftigungsgrad nicht möglich ist, endet das Dienstverhältnis bei voller oder teilweiser Arbeitsunfähigkeit mit dem Erlöschen des maximalen Anspruchs auf Leistungen bei Krankheit und Unfall unter Berücksichtigung einer allfälligen Wiederherstellung. Es besteht kein Anspruch auf eine Weiterbeschäftigung mit reduziertem Beschäftigungsgrad.
+<sup>1</sup> Sofern eine Weiterbeschäftigung mit reduziertem Beschäftigungsgrad nicht möglich ist, endet das Dienstverhältnis bei voller oder teilweiser Arbeitsunfähigkeit mit dem Erlöschen des maximalen Anspruchs auf Leistungen bei Krankheit und Unfall. Es besteht kein Anspruch auf eine Weiterbeschäftigung mit reduziertem Beschäftigungsgrad.
 
 <sup>2</sup> Bei voraussichtlich andauernder Arbeitsunfähigkeit kann die Stelle in der Regel frühestens nach einem Jahr seit Eintritt der Arbeitsunfähigkeit unbefristet besetzt werden. Bei Wiedererlangung der Arbeitsfähigkeit ist diesfalls der Mitarbeiterin oder dem Mitarbeiter nach Möglichkeit eine andere, zumutbare Stelle zuzuweisen.
 
@@ -443,11 +450,11 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 **Entlassung von auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter**
 
-<sup>1</sup> Soweit nicht speziell geregelt, sind die §§ 18 bis 32 auf die Dienstverhältnisse der vom Regierungsrat auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter anwendbar.
+<sup>1</sup> Soweit nicht speziell geregelt, sind § 18 bis § 32 auf die Dienstverhältnisse der vom Regierungsrat auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter anwendbar.
 
-<sup>2</sup> Für die Dienstverhältnisse der vom Grossen Rat gewählten Mitarbeiterinnen und Mitarbeiter sind, sofern nichts abweichend geregelt ist, die §§ 27 bis 30 massgebend. Eine Entlassung vor Ablauf der Amtsdauer ist möglich, wenn ein Amt oder eine Stelle aus betrieblichen Gründen aufgehoben werden muss und eine interne Versetzung nicht möglich ist. Eine solche Entlassung ist mindestens drei Monate im Voraus anzuzeigen.
+<sup>2</sup> Für die Dienstverhältnisse der vom Grossen Rat gewählten Mitarbeiterinnen und Mitarbeiter sind, sofern nichts abweichend geregelt ist, § 27 bis § 30 massgebend. Eine Entlassung vor Ablauf der Amtsdauer ist möglich, wenn ein Amt oder eine Stelle aus betrieblichen Gründen aufgehoben werden muss und eine interne Versetzung nicht möglich ist. Eine solche Entlassung ist mindestens drei Monate im Voraus anzuzeigen.
 
-<sup>3</sup> Die Dienstverhältnisse der vom Volk gewählten Mitarbeiterinnen und Mitarbeiter können, sofern nichts abweichend geregelt ist, seitens des Kantons einzig in Anwendung von § 30 Absatz 1 vor Ablauf der Amtsdauer aufgelöst werden. Auf das Verantwortlichkeitsgesetz[^34-1] abgestützte Massnahmen bleiben vorbehalten.
+<sup>3</sup> Die Dienstverhältnisse der vom Volk gewählten Mitarbeiterinnen und Mitarbeiter können, sofern nichts abweichend geregelt ist, seitens des Kantons einzig in Anwendung von § 30 Abs. 1 vor Ablauf der Amtsdauer aufgelöst werden. Auf das Verantwortlichkeitsgesetz[^34-1] abgestützte Massnahmen bleiben vorbehalten.
 
 <sup>4</sup> Die vom Grossen Rat oder Regierungsrat auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter können auf ihr begründetes Gesuch hin vor Ablauf der Amtsdauer aus dem Staatsdienst entlassen werden, sofern dadurch keine wesentlichen Interessen des Staates beeinträchtigt werden. Das Gesuch ist unter Berücksichtigung der Kündigungsfristen gemäss § 19 einzureichen.
 
@@ -466,6 +473,16 @@ vom 09.12.2003 (Stand 01.01.2020)
 <sup>2</sup> Der Kanton sorgt durch geeignete Massnahmen für ihren Schutz gegen psychische und physische Belästigung am Arbeitsplatz, insbesondere gegen sexuelle Belästigung, Mobbing und Diskriminierung.
 
 <sup>3</sup> Bei Verdacht auf Belästigung, Mobbing oder Diskriminierung haben die Leiterinnen und Leiter der Ämter, Anstalten und Gerichte auf Hinweis der Betroffenen den Vorwürfen nachzugehen und geeignete Massnahmen in die Wege zu leiten. Es besteht ein Anspruch auf Unterstützung sowie Beratung durch vom Kanton bezeichnete Beratungspersonen und durch das Personalamt gemäss den Weisungen des Regierungsrates.
+
+#### § 35a
+
+**Case Management**
+
+<sup>1</sup> Der Kanton unterstützt gesundheitlich beeinträchtigte Mitarbeiterinnen und Mitarbeiter mit geeigneten Massnahmen im Rahmen des Case Managements. Für das Case Management ist das Personalamt zuständig.
+
+<sup>2</sup> Ein Case Management wird in der Regel auf Antrag der vorgesetzten Stelle geprüft bei längeren oder wiederholt auftretenden krankheits- oder unfallbedingten Abwesenheiten, krankheits- oder unfallbedingter verminderter Leistungsfähigkeit oder festgestellten Anzeichen von Suchtverhalten.
+
+<sup>3</sup> Im Rahmen der Treuepflicht sind die betroffenen Mitarbeiterinnen und Mitarbeiter zur Teilnahme und Mitwirkung am Case Management verpflichtet. Die unbegründete Verweigerung der Teilnahme oder Mitwirkung führt zur Kürzung oder Sistierung der Leistungen des Kantons.
 
 #### § 36
 
@@ -520,7 +537,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Die Versicherung gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod richtet sich nach dem Reglement des Regierungsrates für die Pensionskasse des Thurgauischen Staatspersonals[^40-1].
 
-[^40-1]: Jetzt Reglement der Pensionskasse Thurgau; RB [177.42](https://www.rechtsbuch.tg.ch/data/177.42/de).
+[^40-1]: Heute: Pensionskassenreglement (R PKTG; RB [177.42](https://www.rechtsbuch.tg.ch/data/177.42/de))
 
 #### § 41
 
@@ -540,11 +557,11 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Den Mitarbeiterinnen und Mitarbeitern steht pro Kalenderjahr folgender Ferienanspruch zu:
 
-- 1\. 30 Arbeitstage während der Ausbildungszeit, längstens jedoch bis zum vollendeten 25. Altersjahr. Vorbehalten bleibt die Verwendung von fünf Ferientagen innerhalb der Ausbildungszeit für das obligatorische Lehrlingslager oder für gleichwertige Veranstaltungen gemäss den Richtlinien des Personalamtes;
-- 2\. 27 Arbeitstage bis und mit dem Kalenderjahr, in welchem das 20. Altersjahr vollendet wird;
-- 3\. 23 Arbeitstage bis zum Kalenderjahr, in welchem das 49. Altersjahr vollendet wird;
-- 4\. 27 Arbeitstage bis zum Kalenderjahr, in welchem das 59. Altersjahr vollendet wird;
-- 5\. 30 Arbeitstage ab dem Kalenderjahr, in welchem das 60. Altersjahr vollendet wird.
+- 1\. 30 Arbeitstage während der Ausbildungszeit, längstens jedoch bis zum vollendeten 25. Altersjahr. Vorbehalten bleibt die Verwendung von fünf Ferientagen innerhalb der Ausbildungszeit für das obligatorische Lehrlingslager oder für gleichwertige Veranstaltungen gemäss den Richtlinien des Personalamtes
+- 2\. 27 Arbeitstage bis und mit dem Kalenderjahr, in welchem das 20. Altersjahr vollendet wird
+- 3\. 23 Arbeitstage bis zum Kalenderjahr, in welchem das 49. Altersjahr vollendet wird
+- 4\. 27 Arbeitstage bis zum Kalenderjahr, in welchem das 59. Altersjahr vollendet wird
+- 5\. 30 Arbeitstage ab dem Kalenderjahr, in welchem das 60. Altersjahr vollendet wird
 
 #### § 43
 
@@ -584,7 +601,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Übersteigt der Arbeitsausfall wegen obligatorischen Militär- oder Schutzdienstes oder schweizerischen Zivildienstes, Krankheit, Nichtberufsunfalls oder bezahlten Urlaubes im gleichen Kalenderjahr oder bei zusammenhängendem Arbeitsausfall über den Jahreswechsel hinaus 90 Kalendertage beziehungsweise 120 Kalendertage bei Schwangerschaft und Mutterschaft, so wird der Ferienanspruch anteilsmässig gekürzt. Gekürzt wird die 90 beziehungsweise 120 Kalendertage übersteigende Anzahl Tage.
 
-<sup>2</sup> Die Abwesenheiten sind zusammenzuzählen und in ganze Tage umzurechnen. Als Ausnahme gilt, dass Abwesenheiten, die vor der Niederkunft einer Mitarbeiterin eingetreten sind, nicht mit dem Schwangerschafts- und Mutterschaftsurlaub zusammengezählt werden.
+<sup>2</sup> Die Abwesenheiten sind zusammenzuzählen und in ganze Tage umzurechnen. Als Ausnahme gilt, dass Abwesenheiten, die vor der Niederkunft einer Mitarbeiterin eingetreten sind, nicht mit dem Schwangerschafts- und Mutterschaftsurlaub zusammengezählt werden. Abwesenheiten infolge eines Vaterschaftsurlaubs oder eines Betreuungsurlaubs gemäss § 22b BesVO werden bei der Ferienkürzung nicht berücksichtigt.
 
 <sup>3</sup> Übersteigen unbezahlte Urlaube 30 Kalendertage pro Kalenderjahr, wird der Ferienanspruch anteilsmässig gekürzt.
 
@@ -594,7 +611,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 **Urlaub allgemein**
 
-<sup>1</sup> Als Urlaub gilt jede aus anderen Gründen als Ferien, Krankheit, Unfall, Schwangerschaft und Niederkunft oder obligatorischem Militär- oder Schutzdienst sowie schweizerischem Zivildienst bewilligte Dienstabwesenheit.
+<sup>1</sup> Als Urlaub gilt jede aus anderen Gründen als Ferien, Krankheit, Unfall, Schwangerschaft und Niederkunft, Vaterschaft oder obligatorischem Militär- oder Schutzdienst sowie schweizerischem Zivildienst bewilligte Dienstabwesenheit. Abwesenheiten zur Betreuung eines gesundheitlich schwer beeinträchtigten minderjährigen Kindes im Sinne von § 22b BesVO gelten ebenfalls nicht als Urlaub.
 
 <sup>2</sup> Durch den Urlaub wird das Dienstverhältnis nicht unterbrochen.
 
@@ -630,7 +647,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 - 1\. Eigene Hochzeit: — 2
 - 2\. Hochzeit eines eigenen oder eines Stiefkindes: — 1
-- 3\. Geburt eines eigenen Kindes: — 5
+- 3\. …
 - 4\. Adoption eines Kindes: — 2
 - 5\. Wohnungswechsel: — 1
 - 6\. Orientierungstag über Militär-, Schutz- und Zivildienst: — 1
@@ -649,9 +666,27 @@ vom 09.12.2003 (Stand 01.01.2020)
   - 8\.11. Grosseltern: — 1
   - 8\.12. Arbeitskollegin/Arbeitskollege (Begräbnis): — ½
 
-<sup>2</sup> Für die Organisation der Pflege eines eigenen oder eines Stiefkindes und die Pflege während der Organisationsphase besteht pro Ereignis Anspruch auf bis zu zwei Tage bezahlter Urlaub; nach Ablauf dieser zwei Tage besteht für die weitere Pflege Anspruch auf unbezahlten Urlaub. Auf Verlangen ist ein ärztliches Zeugnis über die Pflegebedürftigkeit des Kindes vorzuweisen.
+<sup>2</sup> Für die Betreuung eines eigenen Kindes oder eines Stiefkindes mit gesundheitlicher Beeinträchtigung besteht pro Ereignis Anspruch auf bis zu drei Tage bezahlten Urlaub; nach Ablauf dieser drei Tage besteht für die weitere Betreuung Anspruch auf unbezahlten Urlaub.
 
-<sup>3</sup> Bei ausreichender Begründung kann bezahlter Urlaub über das in Absatz 1 vorgesehene Mass hinaus gewährt werden.
+<sup>2<sup>bis</sup></sup> Für die Betreuung eines weiteren Familienmitglieds oder der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung besteht ein Anspruch auf bis zu drei Tage bezahlten Urlaub pro Ereignis und höchstens zehn Tage pro Jahr.
+
+<sup>3</sup> Bei ausreichender Begründung kann bezahlter Urlaub über das in Abs. 1 vorgesehene Mass hinaus gewährt werden.
+
+#### § 50a
+
+**Vaterschaftsurlaub**
+
+<sup>1</sup> Kann der Vaterschaftsurlaub gemäss § 22a BesVO infolge Krankheit oder Unfall nicht bezogen werden, besteht Anspruch auf Nachgewährung, sofern ein Arztzeugnis vorgelegt wird.
+
+<sup>2</sup> Der Vaterschaftsurlaub ist bis zum Austritt zu beziehen. Es erfolgt keine Verlängerung des Dienstverhältnisses um nicht bezogene Urlaubstage.
+
+#### § 50b
+
+**Betreuungsurlaub**
+
+<sup>1</sup> Wird der Betreuungsurlaub gemäss § 22b BesVO am Stück bezogen, führen Ausfälle zufolge Krankheit oder Unfall, Urlaube sowie Feier- und öffentliche Ruhetage nicht zu einer Unterbrechung des Betreuungsurlaubs und geben keinen Anspruch auf Abgeltung oder Nachgewährung.
+
+<sup>2</sup> Erfolgt der Bezug des Betreuungsurlaubs tageweise, besteht Anspruch auf Nachgewährung der Urlaubstage, die aufgrund von Krankheit oder Unfall nicht angetreten werden konnten. Es ist ein Artzeugnis vorzulegen.
 
 #### § 51
 
@@ -665,7 +700,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 [^51-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
 [^51-2]: RB [177.223](https://www.rechtsbuch.tg.ch/data/177.223/de)
-[^51-3]: Jetzt Pensionskasse Thurgau.
+[^51-3]: Heute: Pensionskasse Thurgau
 
 ### 5.6. Mitarbeiterbeurteilung und Förderung
 
@@ -685,16 +720,17 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 #### § 53
 
-**Beurteilungsprädikate**
+**Qualifikationen**
 
-<sup>1</sup> Es werden folgende vier Beurteilungsprädikate eingesetzt:
+<sup>1</sup> Für die Leistungs- und Gesamtbeurteilung werden folgende fünf Qualifikationen eingesetzt:
 
-- 1\. «A»: Die Anforderungen wurden sehr gut erfüllt;
-- 2\. «B»: Die Anforderungen wurden gut erfüllt;
-- 3\. «C»: Die Anforderungen wurden teilweise erfüllt;
-- 4\. «D»: Die Anforderungen wurden nicht erfüllt.
+- 1\. «sehr gut erfüllt»
+- 2\. «gut erfüllt»
+- 3\. «erfüllt»
+- 4\. «teilweise erfüllt»
+- 5\. «nicht erfüllt»
 
-<sup>2</sup> Wurden die Anforderungen in jeder Beziehung herausragend erfüllt, wird das Prädikat «A» mit dem Zusatzprädikat «A+» ergänzt.
+<sup>2</sup> …
 
 #### § 54
 
@@ -726,8 +762,8 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>2</sup> An den Kosten der freiwilligen Weiterbildung kann sich der Kanton je nach seinem Interesse beteiligen durch:
 
-- 1\. gänzliche oder teilweise Lohnfortzahlung bei Dienstausfall;
-- 2\. gänzliche oder teilweise Übernahme der übrigen Kosten, namentlich der Kurskosten, Prüfungsgebühren und Spesen.
+- 1\. gänzliche oder teilweise Lohnfortzahlung bei Dienstausfall
+- 2\. gänzliche oder teilweise Übernahme der übrigen Kosten, namentlich der Kurskosten, Prüfungsgebühren und Spesen
 
 #### § 57
 
@@ -746,12 +782,12 @@ vom 09.12.2003 (Stand 01.01.2020)
 <sup>2</sup> Die Pflichtzeit beginnt nach Abschluss der Weiterbildung. Sie ist abhängig von der Höhe der Aufwendungen des Kantons:
 
 - 1\. Aufwendungen des Kantons — Pflichtzeit
-  - 1\.1. bis Fr. 5 000.- — keine
-  - 1\.2. Fr. 5 001.- bis Fr. 15 000.- — 12 Monate
-  - 1\.3. Fr. 15 001.- bis Fr. 30 000.- — 24 Monate
-  - 1\.4. über Fr. 30 000.- — 36 Monate
+  - 1\.1. bis Fr. 5'000 — keine
+  - 1\.2. Fr. 5'001 bis Fr. 15'000 — 12 Monate
+  - 1\.3. Fr. 15'001 bis Fr. 30'000 — 24 Monate
+  - 1\.4. über Fr. 30'000 — 36 Monate
 
-<sup>3</sup> Als Aufwendungen des Kantons gelten die Kosten gemäss § 56 Absatz 2. Die Kosten für die Lohnfortzahlung bei Dienstausfall berechnen sich aufgrund der Grundbesoldung und allfälliger Funktionszulagen.
+<sup>3</sup> Als Aufwendungen des Kantons gelten die Kosten gemäss § 56 Abs. 2. Die Kosten für die Lohnfortzahlung bei Dienstausfall berechnen sich aufgrund der Grundbesoldung und allfälliger Funktionszulagen.
 
 <sup>4</sup> Die Pflichtzeit wird durch unbezahlte Urlaube von über 30 Tagen unterbrochen.
 
@@ -761,7 +797,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 **Rückzahlungspflicht**
 
-<sup>1</sup> Bei selbst verschuldetem Nichtantritt und Abbruch der Weiterbildung sowie im Falle der Auflösung des Dienstverhältnisses während der Weiterbildung sind die vom Kanton zugesprochenen Leistungen an die freiwillige Weiterbildung unabhängig von deren Höhe in vollem Umfang zurückzuerstatten.
+<sup>1</sup> Bei selbst verschuldetem Nichtantritt und Abbruch der Weiterbildung sowie im Falle der Auflösung des Dienstverhältnisses während der Weiterbildung sind die vom Kanton zugesprochenen Leistungen an die freiwillige und die obligatorische Weiterbildung unabhängig von deren Höhe in vollem Umfang zurückzuerstatten.
 
 <sup>2</sup> Bei Austritt aus dem Dienstverhältnis mit dem Kanton vor Ablauf der Pflichtzeit besteht eine anteilsmässige Rückzahlungspflicht für die nicht geleisteten Monate. Bei einer Änderung des Beschäftigungsgrades wird die Pflichtzeit anteilsmässig bis maximal 48 Monate angepasst.
 
@@ -869,7 +905,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 **Kaderarbeitszeit**
 
-<sup>1</sup> Für die Leiterinnen und Leiter der Generalsekretariate, Ämter, Anstalten und Betriebe sowie für die Präsidentinnen und Präsidenten der Bezirksgerichte, des Zwangsmassnahmengerichts und der Kindes- und Erwachsenenschutzbehörden gilt das Modell der Kaderarbeitszeit. Sie sind von der Erfassung der Arbeitszeit befreit. Sie können keine Mehrstunden und Überstunden geltend machen.
+<sup>1</sup> Für die Leiterinnen und Leiter der Generalsekretariate, Ämter, Anstalten und Betriebe, die Kantonsärztin und den Kantonsarzt, die Kantonsapothekerin und den Kantonsapotheker, die Kantonsveterinärin und den Kantonsveterinär sowie für die Präsidentinnen und Präsidenten der Bezirksgerichte, des Zwangsmassnahmengerichts und der Kindes- und Erwachsenenschutzbehörden gilt das Modell der Kaderarbeitszeit. Sie sind von der Erfassung der Arbeitszeit befreit. Sie können keine Mehrstunden und Überstunden geltend machen.
 
 <sup>2</sup> Anstelle des Anspruchs auf Kompensation von Mehrstunden und Überstunden werden ihnen jeweils am Ende eines Kalenderjahres 42 Stunden auf ein Langzeitkonto gutgeschrieben.
 
@@ -925,13 +961,13 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>2</sup> Bei der Ausgestaltung der Arbeitszeit sind folgende Grundsätze zu beachten:
 
-- 1\. die Arbeitszeit ist auf fünf Arbeitstage zu verteilen, wobei Samstag und Sonntag arbeitsfrei sind;
-- 2\. die Zeit zwischen 06.30 und 19.00 Uhr gilt als Tagesrahmen, innerhalb welchem die Arbeitsleistung zu erbringen ist;
-- 3\. die Ansprechzeiten sind jeweils von Montag bis Freitag von 8.00 bis 11.30 Uhr und von 13.30 bis 17.00 Uhr zu gewährleisten;
-- 4\. bei einer Arbeitsleistung von mehr als sechs Stunden ist eine nicht zur Arbeitszeit zu rechnende Pause von mindestens 30 Minuten einzuhalten;
-- 5\. für weitere Pausen können pro Halbtag höchstens 15 Minuten an die Arbeitszeit angerechnet werden.
+- 1\. die Arbeitszeit ist auf fünf Arbeitstage zu verteilen, wobei Samstag und Sonntag arbeitsfrei sind
+- 2\. die Zeit zwischen 06.30 und 19.00 Uhr gilt als Tagesrahmen, innerhalb welchem die Arbeitsleistung zu erbringen ist
+- 3\. die Ansprechzeiten sind jeweils von Montag bis Freitag von 8.00 bis 11.30 Uhr und von 13.30 bis 17.00 Uhr zu gewährleisten
+- 4\. bei einer Arbeitsleistung von mehr als sechs Stunden ist eine nicht zur Arbeitszeit zu rechnende Pause von mindestens 30 Minuten einzuhalten
+- 5\. für weitere Pausen können pro Halbtag höchstens 15 Minuten an die Arbeitszeit angerechnet werden
 
-<sup>3</sup> Die Leiterinnen und Leiter der Departemente, der Staatskanzlei, der Ämter, Anstalten und Gerichte können in begründeten Fällen für einzelne Betriebe oder Mitarbeiterinnen und Mitarbeiter Ausnahmen von den Regeln in Absatz 2 vorsehen.
+<sup>3</sup> Die Leiterinnen und Leiter der Departemente, der Staatskanzlei, der Ämter, Anstalten und Gerichte können in begründeten Fällen für einzelne Betriebe oder Mitarbeiterinnen und Mitarbeiter Ausnahmen von den Regeln in Abs. 2 vorsehen.
 
 #### § 71
 
@@ -949,7 +985,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 **Feier- und öffentliche Ruhetage**
 
-<sup>1</sup> Feier- und öffentliche Ruhetage gemäss § 1 Ziffern 2 und 3 des Gesetzes über die öffentlichen Ruhetage[^72-1] werden an die Arbeitszeit angerechnet, sofern sie nicht auf Samstage oder Sonntage fallen.
+<sup>1</sup> Feier- und öffentliche Ruhetage gemäss § 1 Ziff. 2 und Ziff. 3 des Gesetzes über die öffentlichen Ruhetage[^72-1] werden an die Arbeitszeit angerechnet, sofern sie nicht auf Samstage oder Sonntage fallen.
 
 <sup>2</sup> Vor Neujahr erfolgt der Arbeitsschluss um 12.00 Uhr und vor Karfreitag sowie Auffahrt um 16.00 Uhr. Kein vorzeitiger Arbeitsschluss erfolgt vor 1. Mai, 1. August und 24. Dezember.
 
@@ -967,7 +1003,7 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 <sup>1</sup> Als Arbeitsort gilt grundsätzlich der Ort, an welchem sich die Dienststelle der Mitarbeiterinnen und Mitarbeiter befindet.
 
-<sup>2</sup> Wenn es die betrieblichen Bedürfnisse zulassen, kann Telearbeit bewilligt werden. Das Personalamt erlässt Richtlinien.
+<sup>2</sup> Wenn es die betrieblichen Bedürfnisse zulassen, kann ortsunabhängiges Arbeiten bewilligt werden. Das Personalamt erlässt Richtlinien.
 
 ### 6.4. Nebenbeschäftigungen, öffentliche Ämter
 
@@ -1113,8 +1149,6 @@ vom 09.12.2003 (Stand 01.01.2020)
 
 #### § 89
 
-**Inkraftsetzung**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Juni 2004 in Kraft.
+**…**
 
 ABl. 50/2003
