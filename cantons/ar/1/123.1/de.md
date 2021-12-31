@@ -4,13 +4,13 @@ number: "123.1"
 title: Verordnung über die Ausstellung von Ausweisen für Schweizer Staatsangehörige und von Reisedokumenten für Ausländer
 short: Ausweisverordnung
 language: de
-version: 2016-09-30
-valid_until: 2021-12-31
-version_adopted: 2016-09-27
+version: 2022-01-01
+valid_until: 2026-12-31
+version_adopted: 2021-11-09
 adopted: 2010-01-12
 in_force: 2010-03-01
 url: "https://ar.clex.ch/app/de/texts_of_law/123.1"
-pdf: "https://ar.clex.ch/api/de/versions/1118/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1118/pdf_file"
 
 (Ausweisverordnung)
 
-vom 12.01.2010 (Stand 30.09.2016)
+vom 12.01.2010 (Stand 01.01.2022)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -52,7 +52,7 @@ beschliesst:
 
 **Ausweise für Ausländerinnen und Ausländer**
 
-<sup>1</sup> Für Ausländerinnen und Ausländer mit Wohnsitz im Kanton erfasst das kantonale Passbüro, im Auftrag des Amtes für Inneres, die biometrischen Daten für die Ausweisarten L, B, C, für das Visum von ausländischen Staatsangehörigen und für das schweizerische Reisedokument von ausländischen Personen.
+<sup>1</sup> Für Ausländerinnen und Ausländer erfasst das kantonale Passbüro die Daten für die biometrischen und nicht biometrischen Ausländerausweise sowie für die Ausstellung von Reisedokumenten für ausländische Personen.
 
 #### Art. 5
 
