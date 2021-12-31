@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 juin 2010 sur le numéro d'identification des entre
 short: LIDE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
 language: fr
-version: 2020-12-19
+version: 2022-01-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20201219/fr/xml/fedlex-data-admin-ch-eli-cc-2010-705-20201219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20201219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-705-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20201219/fr"
 
 (LIDE)
 
-du 18 juin 2010 (Etat le 19 décembre 2020)
+du 18 juin 2010 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -141,14 +141,11 @@ Il contient les données relatives aux caractères suivants des entités IDE (do
 
 #### Art. 6a
 
-**Identificateur des personnes dans le registre IDE**[^6a-1]
+**Identificateur de personnes dans le registre IDE**[^6a-1]
 
-<sup>1</sup> Conformément à l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^6a-2], l’OFS est habilité à utiliser systématiquement le numéro d’assuré AVS lorsque cela est nécessaire à l’identification des personnes physiques dans le registre IDE.
+L’OFS peut communiquer le numéro AVS aux services IDE qui sont habilités à l’utiliser systématiquement, lorsque cela est nécessaire à l’identification des personnes concernées dans le registre.
 
-<sup>2</sup> L’OFS peut communiquer le numéro d’assuré AVS aux services IDE qui sont également habilités à l’utiliser systématiquement, lorsque cela est nécessaire à l’identification des personnes concernées dans le registre.
-
-[^6a-1]: Introduit par le ch. 3 de l’annexe à la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^6a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6a-1]: Introduit par l’annexe ch. 3 de la LF du 30 sept. 2016 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)). Nouvelle teneur selon l’annexe ch. 12 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 7
 
@@ -249,11 +246,12 @@ L’OFS communique à la GLEIF les données nécessaires à l’inscription au r
 
 <sup>5</sup> Les données relatives aux caractères système sont uniquement accessibles à l’OFS.
 
-<sup>6</sup> Le numéro d’assuré AVS n’est pas public.[^11-3]
+<sup>6</sup> Le numéro AVS[^11-3] n’est pas public.[^11-4]
 
 [^11-1]: [RS 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
 [^11-2]: Phrase introduite par l’art. 28 ch. 1 de la L du 18 déc. 2020 sur les cautionnements solidaires liés au COVID-19, en vigueur du 19 déc. 2020 au 31 déc. 2032 ([RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 8165](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^11-3]: Introduit par le ch. 3 de l’annexe à la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^11-3]: Nouvelle expression selon l’annexe ch. 11 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^11-4]: Introduit par l’annexe ch. 3 de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 #### Art. 12
 

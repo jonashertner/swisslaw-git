@@ -4,11 +4,11 @@ title: Federal Act of 18 June 2010 on the Unique Business Identification Number 
 short: BINA
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
 language: en
-version: 2020-12-19
+version: 2022-01-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20201219/en/xml/fedlex-data-admin-ch-eli-cc-2010-705-20201219-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20201219/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2010-705-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,18 +19,18 @@ English is not an official language of the Swiss Confederation. This translation
 
 (BINA)
 
-of 18 June 2010 (Status as of 19 December 2020)
+of 18 June 2010 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of articles 59 para. 4, 61 para. 4, 65 para. 2, 77 para. 2, 80 paras. 1 and 2, 95 para. 1, 104 para. 1, 112 para. 1, 113 para. 1, 114 para. 1, 116 paras. 2 and 3, 117 para. 1, 118 para. 2 let. a and b, 122 para. 1 and 130 para. 1 of the Federal Constitution[^ingress-1], having considered the Dispatch of the Federal Council of 28 October 2009[^ingress-2],
+on the basis of articles 59 para. 4, 61 para. 4, 65 para. 2, 77 para. 2, 80 paras 1 and 2, 95 para. 1, 104 para. 1, 112 para. 1, 113 para. 1, 114 para. 1, 116 paras 2 and 3, 117 para. 1, 118 para. 2 let. a and b, 122 para. 1 and 130 para. 1 of the Federal Constitution[^ingress-1], having considered the Dispatch of the Federal Council of 28 October 2009[^ingress-2],
 
 decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2009 7855](https://fedlex.data.admin.ch/eli/fga/2009/1395)
 
-## 1. Section General Provisions
+## Section 1 General Provisions
 
 #### Art. 1
 
@@ -145,12 +145,9 @@ The UID register contains data concerning the following key data of the UID enti
 
 **Identifier in the UID register**[^6a-1]
 
-<sup>1</sup> In accordance with Art. 50*c* of the Federal Act of 20 December 1946[^6a-2] on Old-Age and Survivors Insurance, the FSO is authorised to systematically use the OASI number if this is necessary to identify natural persons in the UID register.
+The FSO may disclose the OASI number to the UID services that are also authorised to use it systematically if this is necessary to identify the person concerned in the register.
 
-<sup>2</sup> The FSO may disclose the OASI number to the UID services that are also authorised to use it systematically if this is necessary to identify the person concerned in the register.
-
-[^6a-1]: Inserted by Annex No 3 of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^6a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6a-1]: Inserted by Annex No 3 of the FA of 30 Sept. 2016 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). Amended by Annex No 12 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 7
 
@@ -158,7 +155,7 @@ The UID register contains data concerning the following key data of the UID enti
 
 The UID has no legal effect pursuant to the Federal Act of 19 December 2003[^7-1] on electronic signatures.
 
-[^7-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Annex No I]. See now: FA of 18 March 2016 on Electronic Signatures ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^7-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)No II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Annex No I]. See now: FA of 18 March 2016 ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
 
 #### Art. 8
 
@@ -235,7 +232,7 @@ The FSO discloses to the GLEIF the data required for registration in the GLEIF r
 
 <sup>3</sup> The FSO makes its fees known.
 
-## 3. Section Notification and Cancellation of the UID Data and Data Protection
+## Section 3 Notification and Cancellation of the UID Data and Data Protection
 
 #### Art. 11
 
@@ -251,11 +248,12 @@ The FSO discloses to the GLEIF the data required for registration in the GLEIF r
 
 <sup>5</sup> Data relating to the system data are only accessible to the FSO.
 
-<sup>6</sup> The OASI number is not public.[^11-3]
+<sup>6</sup> The OASI number[^11-3] is not public.[^11-4]
 
 [^11-1]: [SR 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
 [^11-2]: Second sentence inserted by Art. 28 No 1 of the COVID-19 Financial Guarantees Act of 18 Dec. 2020, in force from 19 Dec. 2020 to 31 Dec. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^11-3]: Inserted by Annex No 3 of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^11-3]: Term in accordance with Annex No 12 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^11-4]: Inserted by Annex No 3 of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 12
 
@@ -275,7 +273,7 @@ The FSO discloses to the GLEIF the data required for registration in the GLEIF r
 
 <sup>3</sup> The FSO takes the necessary technical and organisational measures to ensure the protection and security of data in the maintenance and usage of the UID register.
 
-## 4. Section Final Provisions
+## Section 4 Final Provisions
 
 #### Art. 14
 

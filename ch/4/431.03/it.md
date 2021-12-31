@@ -4,11 +4,11 @@ title: "Legge federale del 18 giugno 2010 sul numero d'identificazione delle imp
 short: LIDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
 language: it
-version: 2020-12-19
+version: 2022-01-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20201219/it/xml/fedlex-data-admin-ch-eli-cc-2010-705-20201219-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20201219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-705-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20201219/it"
 
 (LIDI)
 
-del 18 giugno 2010 (Stato 19 dicembre 2020) (Stato 19 dicembre 2020)
+del 18 giugno 2010 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -143,12 +143,9 @@ Il registro IDI contiene i dati relativi alle seguenti caratteristiche delle uni
 
 **Identificatore personale nel registro IDI**[^6a-1]
 
-<sup>1</sup> L’UST può utilizzare sistematicamente il numero d’assicurato dell’AVS secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^6a-2] sull’assicurazione per la vecchiaia e per i superstiti, se questo è necessario per identificare persone fisiche nel registro IDI.
+L’UST può comunicare il numero AVS ai servizi IDI autorizzati a utilizzare sistematicamente il numero AVS, se questo è necessario per identificare la persona in-teressata nel registro IDI.
 
-<sup>2</sup> L’UST può comunicare il numero d’assicurato ai servizi IDI autorizzati a utilizzare sistematicamente il numero d’assicurato, se questo è necessario per identificare la persona interessata nel registro.
-
-[^6a-1]: Introdotto dall’all. n. 3 della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^6a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6a-1]: Introdotto dall’all. n. 3 della LF del 30 set. 2016 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)). Nuovo testo giusta l’all. n. 12 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 7
 
@@ -249,11 +246,12 @@ L’UST comunica alla GLEIF i dati necessari per l’iscrizione nel registro GLE
 
 <sup>5</sup> I dati relativi alle caratteristiche del sistema sono accessibili unicamente all’UST.
 
-<sup>6</sup> Il numero d’assicurato dell’AVS non è pubblico.[^11-3]
+<sup>6</sup> Il numero AVS[^11-3] non è pubblico.[^11-4]
 
 [^11-1]: [RS 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
 [^11-2]: Per. introdotto dall’art. 28 n. 1 della L del 18 dic. 2020 sulle fideiussioni COVID-19, in vigore dal 19 dic. 2020 al 31 dic. 2032 ([RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [FF 2020 7427](https://fedlex.data.admin.ch/eli/fga/2020/2182)[7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^11-3]: Introdotto dall’all. n. 3 della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^11-3]: Nuova espressione giusta l’all. n. 12 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^11-4]: Introdotto dall’all. n. 3 della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 12
 

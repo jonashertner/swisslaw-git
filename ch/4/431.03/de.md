@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Juni 2010 über die Unternehmens-Identifikationsnumm
 short: UIDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/705"
 language: de
-version: 2020-12-19
+version: 2022-01-01
 adopted: 2010-06-18
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20201219/de/xml/fedlex-data-admin-ch-eli-cc-2010-705-20201219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20201219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/705/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-705-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/705/20201219/de"
 
 (UIDG)
 
-vom 18. Juni 2010 (Stand am 19. Dezember 2020)
+vom 18. Juni 2010 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -143,12 +143,9 @@ Das UID-Register enthält die Daten zu folgenden Merkmalen der UID-Einheiten (UI
 
 **Personenidentifikator im UID-Register**[^6a-1]
 
-<sup>1</sup> Das BFS kann die Versichertennummer der AHV nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^6a-2] über die Alters- und Hinterlassenenversicherung systematisch verwenden, wenn dies zur Identifizierung von natürlichen Personen im UID-Register erforderlich ist.
+Das BFS kann die AHV-Nummer UID-Stellen, welche die AHV-Nummer systematisch verwenden dürfen, bekannt geben, wenn die Bekanntgabe zur Identifizierung der betroffenen Person im Register erforderlich ist.
 
-<sup>2</sup> Es kann die Versichertennummer UID-Stellen, welche die Versichertennummer ebenfalls systematisch verwenden dürfen, bekannt geben, wenn die Bekanntgabe zur Identifizierung der betroffenen Person im Register erforderlich ist.
-
-[^6a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^6a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 30. Sept. 2016 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)). Fassung gemäss Anhang Ziff. 12 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 7
 
@@ -249,11 +246,12 @@ Das BFS gibt der GLEIF die zur Registrierung im GLEIF-Register erforderlichen Da
 
 <sup>5</sup> Daten zu den Systemmerkmalen sind nur dem BFS zugänglich.
 
-<sup>6</sup> Die Versichertennummer der AHV ist nicht öffentlich.[^11-3]
+<sup>6</sup> Die AHV-Nummer[^11-3] ist nicht öffentlich.[^11-4]
 
 [^11-1]: [SR 951.26](https://fedlex.data.admin.ch/eli/cc/2020/982)
 [^11-2]: Zweiter Satz eingefügt durch Art. 28 Ziff. 1 des Covid-19-Solidarbürgschaftsgesetzes vom 18. Dez. 2020, in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2032 ([AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982); [BBl 2020 8477](https://fedlex.data.admin.ch/eli/fga/2020/2182)[8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^11-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^11-3]: Ausdruck gemäss Anhang Ziff. 12 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^11-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 12
 
