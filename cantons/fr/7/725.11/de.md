@@ -4,13 +4,12 @@ number: "725.11"
 title: Tierschutzreglement
 short: kTSchR
 language: de
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-12-14
 adopted: 2012-12-03
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/725.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5978/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7035/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Tierschutzreglement
 
 (kTSchR)
 
-vom 03.12.2012 (Fassung in Kraft getreten am 01.04.2019)
+vom 03.12.2012 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -113,7 +112,7 @@ beschliesst:
 
 - a) die Gemeinden;
 - b) die Oberamtspersonen;
-- c) das Amt für Landwirtschaft;
+- c) Grangeneuve;
 - d) das Amt für Wald und Natur, für Einsätze der Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher;
 - e) die Kantonsapothekerin oder den Kantonsapotheker;
 - f) das Naturhistorische Museum.

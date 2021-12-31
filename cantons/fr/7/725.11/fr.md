@@ -4,13 +4,12 @@ number: "725.11"
 title: Règlement sur la protection des animaux
 short: RCPA
 language: fr
-version: 2019-04-01
-valid_until: 2021-12-31
-version_adopted: 2019-04-02
+version: 2022-01-01
+version_adopted: 2021-12-14
 adopted: 2012-12-03
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/725.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5978/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7035/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection des animaux – R
 
 (RCPA)
 
-du 03.12.2012 (version entrée en vigueur le 01.04.2019)
+du 03.12.2012 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -113,7 +112,7 @@ Arrête:
 
 - a) les communes;
 - b) les préfets;
-- c) le Service de l'agriculture;
+- c) Grangeneuve;
 - d) le Service des forêts et de la nature pour l'intervention des gardes-faune;
 - e) le pharmacien ou la pharmacienne cantonal-e;
 - f) le Musée d'histoire naturelle.
