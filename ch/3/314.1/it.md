@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2016 sulle multe disciplinari (LMD)
 short: LMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: it
-version: 2021-12-18
+version: 2022-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20211218/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20211218-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/it"
 
 (LMD)
 
-del 18 marzo 2016 (Stato 18 dicembre 2021)
+del 18 marzo 2016 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -52,18 +52,18 @@ decreta:
   - 10\. legge del 3 ottobre 1951[^1-10] sugli stupefacenti (LStup),
   - 11\. legge del 7 ottobre 1983[^1-11] sulla protezione dell’ambiente,
   - 12\. legge del 20 giugno 2014[^1-12] sulle derrate alimentari,
-  - [tab] 12*a*.[^1-13]legge del 28 settembre 2012[^1-14] sulle epidemie,
-  - 13\. legge federale del 3 ottobre 2008[^1-15] concernente la protezione contro il fumo passivo,
-  - 14\. legge forestale del 4 ottobre 1991[^1-16],
-  - 15\. legge del 20 giugno 1986[^1-17] sulla caccia,
-  - 16\. legge federale del 21 giugno 1991[^1-18] sulla pesca,
-  - 17\. legge federale del 23 marzo 2001[^1-19] sul commercio ambulante; o
+  - 12*a*.[^1-13] legge del 28 settembre 2012[<sup>16</sup>](https://www.fedlex.admin.ch/eli/cc/2017/725/it) sulle epidemie,
+  - 13\. legge federale del 3 ottobre 2008[^1-14] concernente la protezione contro il fumo passivo,
+  - 14\. legge forestale del 4 ottobre 1991[^1-15],
+  - 15\. legge del 20 giugno 1986[^1-16] sulla caccia,
+  - 16\. legge federale del 21 giugno 1991[^1-17] sulla pesca,
+  - 17\. legge federale del 23 marzo 2001[^1-18] sul commercio ambulante; o
 
-- b. in un’ordinanza emanata in virtù di una legge di cui alla lettera a numeri 1–9 e 11–17; è eccettuato l’articolo 3*c* capoverso 2 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^1-20].[^1-21]
+- b. in un’ordinanza emanata in virtù di una legge di cui alla lettera a numeri 1–9 e 11–17; .... .[^1-19]
 
 <sup>2</sup> La procedura della multa disciplinare si applica soltanto alle fattispecie contravvenzionali che figurano in un elenco di cui all’articolo 15.
 
-<sup>3</sup> Non si applica alle contravvenzioni perseguite e giudicate secondo la legge federale del 22 marzo 1974[^1-22] sul diritto penale amministrativo.
+<sup>3</sup> Non si applica alle contravvenzioni perseguite e giudicate secondo la legge federale del 22 marzo 1974[^1-20] sul diritto penale amministrativo.
 
 <sup>4</sup> La multa disciplinare ammonta al massimo a 300 franchi.
 
@@ -81,16 +81,14 @@ decreta:
 [^1-10]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 [^1-11]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^1-12]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^1-13]: Introdotto dal n. II 1 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2022 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 2; [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^1-14]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^1-15]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
-[^1-16]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^1-17]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^1-18]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^1-19]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^1-20]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^1-21]: Seconda parte del per. introdotta dal n. II 1 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^1-22]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^1-13]: Introdotto dal n. II 1 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2022 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)n. III 2; [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^1-14]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^1-15]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^1-16]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^1-17]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^1-18]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^1-19]: Seconda parte del per. introdotta dal n. II 1 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-20]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 2
 
@@ -98,9 +96,11 @@ decreta:
 
 <sup>1</sup> Le multe disciplinari sono riscosse dagli organi di polizia e dalle autorità competenti per l’esecuzione delle leggi di cui all’articolo 1 capoverso 1 lettera a e delle ordinanze emanate in virtù delle stesse. I Cantoni designano gli organi competenti per la riscossione delle multe disciplinari.
 
-<sup>2</sup> Nella misura in cui il diritto federale le conferisce competenze di controllo nei settori di cui all’articolo 1 capoverso 1 lettera a, l’Amministrazione federale delle dogane (AFD) è autorizzata a riscuotere multe disciplinari in caso di infrazioni. Se la multa disciplinare non è pagata immediatamente, l’AFD trasmette il caso alla competente autorità di perseguimento penale.
+<sup>2</sup> Nella misura in cui il diritto federale gli conferisce competenze di controllo nei settori di cui all’articolo 1 capoverso 1 lettera a, l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) è autorizzato a riscuotere multe disciplinari in caso di infrazioni. Se la multa disciplinare non è pagata immediatamente, l’UDSC trasmette il caso alla competente autorità di perseguimento penale.[^2-1]
 
 <sup>3</sup> Il rappresentante dell’organo competente deve legittimarsi come tale dinanzi all’imputato.
+
+[^2-1]: Nuovo testo giusta il n. I 7 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 3
 
@@ -272,7 +272,9 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 All’entrata in vigore della legge del 20 giugno 2014[^17-1] sulle derrate alimentari la disposizione qui appresso della presente legge avrà il seguente tenore:
 
-Art. 1 cpv. 1 lett. a n. 12*[^17-2]*
+Art. 1 cpv. 1 lett. a n. 12
+
+... [^17-2]
 
 [^17-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^17-2]: Testo inserito qui avanti.

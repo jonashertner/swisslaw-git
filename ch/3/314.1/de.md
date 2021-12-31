@@ -4,11 +4,11 @@ title: Ordnungsbussengesetz vom 18. März 2016 (OBG)
 short: OBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: de
-version: 2021-12-18
+version: 2022-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20211218/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20211218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/de"
 
 (OBG)
 
-vom 18. März 2016 (Stand am 18. Dezember 2021)
+vom 18. März 2016 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -59,11 +59,11 @@ Mit Ordnungsbusse wird in einem vereinfachten Verfahren (Ordnungsbussenverfahren
   - 16\. Bundesgesetz vom 21. Juni 1991[^1-19] über die Fischerei,
   - 17\. Bundesgesetz vom 23. März 2001[^1-20] über das Gewerbe der Reisenden; oder
 
-- b. in einer Verordnung aufgeführt ist, die sich auf ein Gesetz nach Buchstabe a Ziffern 1–9 und 11–17 stützt; davon ausgenommen ist Artikel 3*c* Absatz 2 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^1-21].[^1-22]
+- b. in einer Verordnung aufgeführt ist, die sich auf ein Gesetz nach Buchstabe a Ziffern 1–9 und 11–17 stützt; ….[^1-21]
 
 <sup>2</sup> Das Ordnungsbussenverfahren ist nur anwendbar, wenn der betreffende Übertretungstatbestand in den Listen nach Artikel 15 aufgeführt ist.
 
-<sup>3</sup> Es ist nicht anwendbar bei Übertretungen, die nach dem Bundesgesetz vom 22. März 1974[^1-23] über das Verwaltungsstrafrecht verfolgt und beurteilt werden.
+<sup>3</sup> Es ist nicht anwendbar bei Übertretungen, die nach dem Bundesgesetz vom 22. März 1974[^1-22] über das Verwaltungsstrafrecht verfolgt und beurteilt werden.
 
 <sup>4</sup> Die Ordnungsbusse beträgt höchstens 300 Franken.
 
@@ -89,9 +89,8 @@ Mit Ordnungsbusse wird in einem vereinfachten Verfahren (Ordnungsbussenverfahren
 [^1-18]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 [^1-19]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^1-20]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^1-21]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^1-22]: Zweiter Teilsatz eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^1-23]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^1-21]: Zweiter Teilsatz eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-22]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 2
 
@@ -99,9 +98,11 @@ Mit Ordnungsbusse wird in einem vereinfachten Verfahren (Ordnungsbussenverfahren
 
 <sup>1</sup> Ordnungsbussen werden erhoben von Polizeiorganen und Behörden, die für den Vollzug der Gesetze nach Artikel 1 Absatz 1 Buchstabe a und der gestützt darauf erlassenen Verordnungen zuständig sind. Die Kantone bezeichnen die zur Erhebung von Ordnungsbussen zuständigen Organe.
 
-<sup>2</sup> Soweit das Bundesrecht der Eidgenössischen Zollverwaltung (EZV) Kontrollkompetenzen in den Bereichen nach Artikel 1 Absatz 1 Buchstabe a zuweist, ist die EZV ermächtigt, bei Widerhandlungen Ordnungsbussen zu erheben. Sie überweist die Sache an die zuständige Strafverfolgungsbehörde, wenn die Ordnungsbusse nicht sofort bezahlt wird.
+<sup>2</sup> Soweit das Bundesrecht dem Bundesamt für Zoll und Grenzsicherheit (BAZG) Kontrollkompetenzen in den Bereichen nach Artikel 1 Absatz 1 Buchstabe a zuweist, ist das BAZG ermächtigt, bei Widerhandlungen Ordnungsbussen zu erheben. Es überweist die Sache an die zuständige Strafverfolgungsbehörde, wenn die Ordnungsbusse nicht sofort bezahlt wird.[^2-1]
 
 <sup>3</sup> Die Vertreterin oder der Vertreter des zuständigen Organs muss sich gegenüber der beschuldigten Person entsprechend ausweisen.
+
+[^2-1]: Fassung gemäss Ziff. I 7 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 3
 
@@ -308,5 +309,5 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)Ziff. II, [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821)]
+[^annexu1-lvlu1-1]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)Ziff. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821)]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)konsultiert werden.

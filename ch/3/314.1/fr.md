@@ -4,11 +4,11 @@ title: "Loi du 18 mars 2016 sur les amendes d'ordre (LAO)"
 short: LAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: fr
-version: 2021-12-18
+version: 2022-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20211218-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20211218/fr"
 
 (LAO)[^t-1]
 
-du 18 mars 2016 (Etat le 18 décembre 2021)
+du 18 mars 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -61,11 +61,11 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
   - 16\. loi fédérale du 21 juin 1991 sur la pêche[^1-18],
   - 17\. loi fédérale du 23 mars 2001 sur le commerce itinérant[^1-19], ou
 
-- b. prévue dans une ordonnance d’exécution des lois citées à la let. a, ch. 1 à 9 et 11 à 17. L’art. 3*c*, al. 2, de l’ordonnance COVID-19 situation particulière, du 19 juin 2020[^1-20], n’est pas concerné.[^1-21]
+- b. prévue dans une ordonnance d’exécution des lois citées à la let. a, ch. 1 à 9 et 11 à 17. ...[^1-20]
 
 <sup>2</sup> La procédure de l’amende d’ordre n’est applicable qu’aux contraventions figurant dans les listes établies en vertu de l’art. 15.
 
-<sup>3</sup> Elle n’est pas applicable aux contraventions qui sont poursuivies et jugées en vertu de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^1-22].
+<sup>3</sup> Elle n’est pas applicable aux contraventions qui sont poursuivies et jugées en vertu de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^1-21].
 
 <sup>4</sup> Le montant maximal de l’amende d’ordre est de 300 francs.
 
@@ -90,9 +90,8 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
 [^1-17]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 [^1-18]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^1-19]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^1-20]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^1-21]: Phrase introduite par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^1-22]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^1-20]: Phrase introduite par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-21]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 2
 
@@ -100,9 +99,11 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
 
 <sup>1</sup> L’amende d’ordre est perçue par les organes de police et les autorités chargés de l’application des lois visées à l’art. 1, al. 1, let. a, et des ordonnances d’exécution de ces lois. Les cantons désignent les organes compétents pour la percevoir.
 
-<sup>2</sup> Dans les cas où le droit fédéral lui attribue des compétences de contrôle dans les domaines visés à l’art. 1, al. 1, let. a, l’Administration fédérale des douanes est autorisée à percevoir des amendes d’ordre en cas d’infraction. Elle transmet le dossier à l’autorité de poursuite pénale compétente lorsque l’amende d’ordre n’est pas payée immédiatement.
+<sup>2</sup> Dans les cas où le droit fédéral lui attribue des compétences de contrôle dans les domaines visés à l’art. 1, al. 1, let. a, l’Office fédéral de la douane et de la sécurité des frontières est autorisé à percevoir des amendes d’ordre en cas d’infraction. Il transmet le dossier à l’autorité de poursuite pénale compétente lorsque l’amende d’ordre n’est pas payée immédiatement.[^2-1]
 
 <sup>3</sup> Le représentant de l’organe compétent doit justifier de sa qualité envers le prévenu.
+
+[^2-1]: Nouvelle teneur selon le ch. I 7 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 3
 
@@ -274,7 +275,9 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 
 À l’entrée en vigueur de la loi du 20 juin 2014 sur les denrées alimentaires[^17-1], la disposition ci-après aura la teneur suivante:
 
-Art. 1, al. 1, let. a, ch. 12*[^17-2]*
+Art. 1, al. 1, let. a, ch. 12
+
+...*[^17-2]*
 
 [^17-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^17-2]: Texte inséré.
