@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: "Ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 language: fr
-version: 2020-10-01
-valid_until: 2021-12-31
-version_adopted: 2021-08-31
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6912/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7103/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6912/pdf_file"
 
 Unités administratives des Directions et de la Chancellerie – O
 
-du 09.07.2002 (version entrée en vigueur le 01.10.2020)
+du 09.07.2002 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -89,7 +89,7 @@ Arrête:
 - a) le Secrétariat général (SG-DIAF);
 - b) le Service des affaires institutionnelles, des naturalisations et de l'état civil (SAINEC);
 - c) le Service des communes (SCom);
-- d) le Service de l'agriculture (SAgri);
+- d) …
 - e) le Service de la sécurité alimentaire et des affaires vétérinaires (SAAV);
 - f) …
 - g) le Service des forêts et de la nature (SFN).
@@ -98,7 +98,7 @@ Arrête:
 
 - a) les Préfectures;
 - b) …
-- c) l'Institut agricole de l'Etat de Fribourg (IAG);
+- c) Grangeneuve;
 - d) l'Etablissement d'assurance des animaux de rente (Sanima);
 - e) …
 
@@ -193,7 +193,7 @@ Arrête:
 - b) le Service d'achat du matériel et des imprimés (SAMI);
 - c) les Archives de l'Etat (AEF).
 
-<sup>2</sup> Lui sont en outre rattachés administrativement l'Autorité cantonale de la transparence et de la protection des données (ATPrD) ainsi que le médiateur ou la médiatrice cantonal-e.
+<sup>2</sup> Lui est en outre rattachée administrativement l'Autorité cantonale de la transparence, de la protection des données et de la médiation (ATPrDM).
 
 #### Art. 9
 

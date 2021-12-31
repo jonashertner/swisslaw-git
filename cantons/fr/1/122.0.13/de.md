@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
 language: de
-version: 2020-10-01
-valid_until: 2021-12-31
-version_adopted: 2021-08-31
+version: 2022-01-01
+valid_until: 2022-01-31
+version_adopted: 2022-01-31
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6912/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7103/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6912/pdf_file"
 
 Verwaltungseinheiten der Direktionen und der Staatskanzlei – V
 
-vom 09.07.2002 (Fassung in Kraft getreten am 01.10.2020)
+vom 09.07.2002 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -89,7 +89,7 @@ beschliesst:
 - a) das Generalsekretariat (GS-ILFD);
 - b) das Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen (IAEZA);
 - c) das Amt für Gemeinden (GemA);
-- d) das Amt für Landwirtschaft (LwA);
+- d) …
 - e) das Amt für Lebensmittelsicherheit und Veterinärwesen (LSVW);
 - f) …
 - g) das Amt für Wald und Natur (WNA).
@@ -98,7 +98,7 @@ beschliesst:
 
 - a) die Oberämter;
 - b) …
-- c) das Landwirtschaftliche Institut des Kantons Freiburg (LIG);
+- c) Grangeneuve;
 - d) die Nutztierversicherungsanstalt (Sanima);
 - e) …
 
@@ -193,7 +193,7 @@ beschliesst:
 - b) das Amt für Drucksachen und Material (DMA);
 - c) das Staatsarchiv (StAF).
 
-<sup>2</sup> Ihr sind ausserdem die kantonale Behörde für Öffentlichkeit und Datenschutz (ÖDSB) sowie die kantonale Mediatorin oder der kantonale Mediator administrativ zugewiesen.
+<sup>2</sup> Ihr ist ausserdem die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation (ÖDSMB) administrativ zugewiesen.
 
 #### Art. 9
 
