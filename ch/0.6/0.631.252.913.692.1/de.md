@@ -3,11 +3,11 @@ sr: "0.631.252.913.692.1"
 title: Vereinbarung vom 15. Juni 2010 zwischen dem Eidgenössischen Finanzdepartement der Schweizerischen Eidgenossenschaft und dem Bundesministerium der Finanzen der Bundesrepublik Deutschland über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen am Grenzübergang Basel-Hiltalingerstrasse/Weil am Rhein-Friedlingen
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/404"
 language: de
-version: 2011-05-30
+version: 2022-01-01
 adopted: 2010-06-15
 in_force: 2011-05-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/404/20110530/de/xml/fedlex-data-admin-ch-eli-cc-2011-404-20110530-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/404/20110530/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/404/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-404-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/404/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 15. Juni 2010
 
 In Kraft getreten am 30. Mai 2011
 
-(Stand am 30. Mai 2011)
+(Stand am 1. Januar 2022)
 
 Das Eidgenössische Finanzdepartement der Schweizerischen Eidgenossenschaft und das Bundesministerium der Finanzen der Bundesrepublik Deutschland, gestützt auf Artikel 1 Absatz 3 des Abkommens vom 1. Juni 1961[^ingress-1] zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die Errichtung nebeneinanderliegender Grenzabfertigungsstellen und die Grenzabfertigung in Verkehrsmitteln während der Fahrt,
 
@@ -66,11 +66,13 @@ Die Zone umfasst auf dem Hoheitsgebiet der Schweizerischen Eidgenossenschaft:
   - – im Norden durch die gemeinsame Grenze,
   - – im Westen durch eine Linie entlang der Hecke bis zum Haus «Kuster» und von dort durch die Fluchtlinie der strassenseitigen Fassade dieses Hauses, im weiteren Verlauf der Mauer des Tanklagers entlang bis zur Telefonkabine, einschliesslich des Gehweges,
   - – im Süden durch eine senkrechte Linie über die Strasse auf Höhe der Telefonkabine,
-  - – im Osten ab Einfahrt «AVIA»-Tankstelle in einer Linie der Strasse entlang bis zur Garageneinfahrt der schweizerischen Zollverwaltung, von dort der Mauer entlang bis zur Grenze, einschliesslich des Gehweges;
+  - – im Osten ab Einfahrt «AVIA»-Tankstelle in einer Linie der Strasse entlang bis zur Garageneinfahrt der schweizerischen Zollverwaltung[^2-1], von dort der Mauer entlang bis zur Grenze, einschliesslich des Gehweges;
 
 - b) den Pausenraum im Haus «Kuster»;
 - c) die Toiletten, den Durchsuchungsraum und den Festhalteraum im Haus «Kuster», einschliesslich des Zugangs;
 - d) die Abfertigungskabine, einschliesslich des den deutschen Bediensteten zur Benutzung überlassenen Teils.
+
+[^2-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -93,6 +95,5 @@ Mit Inkrafttreten dieser Vereinbarung tritt die Vereinbarung vom 25. April 1968[
 Geschehen zu Bonn am 15. Juni 2010, in zwei Urschriften in deutscher Sprache.
 
 <table>
-<tr><td>Für das Eidgenössische Finanzdepartement der Schweizerischen Eidgenossenschaft:</td><td>Für das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern der Bundesrepublik Deutschland:</td></tr>
-<tr><td>Rudolf Dietrich</td><td>Hans-Joachim Stähr</td></tr>
+<tr><td>Für das Eidgenössische Finanzdepartement der Schweizerischen Eidgenossenschaft: Rudolf Dietrich</td><td>Für das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern der Bundesrepublik Deutschland: Hans-Joachim Stähr</td></tr>
 </table>

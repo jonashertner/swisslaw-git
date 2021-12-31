@@ -3,11 +3,11 @@ sr: "0.631.252.913.692.1"
 title: "Accordo del 15 giugno 2010 tra il Dipartimento federale delle finanze della Confederazione Svizzera e il Ministero federale delle finanze della Repubblica federale di Germania concernente l'istituzione di uffici a controlli nazionali abbinati al valico di confine di Basel-Hiltalingerstrasse/Weil am Rhein-Friedlingen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/404"
 language: it
-version: 2011-05-30
+version: 2022-01-01
 adopted: 2010-06-15
 in_force: 2011-05-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/404/20110530/it/xml/fedlex-data-admin-ch-eli-cc-2011-404-20110530-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/404/20110530/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/404/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-404-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/404/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/404/20110530/it"
 
 RU **2011** 3197
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso il 15 giugno 2010
+Concluso il 15 giugno 2010 Entrato in vigore il 30 maggio 2011
 
-Entrato in vigore il 30 maggio 2011
-
-(Stato 30 maggio 2011)
-
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+(Stato 1° gennaio 2022)
 
 Il Dipartimento federale delle finanze della Confederazione Svizzera e il Ministero federale delle finanze della Repubblica federale di Germania, visto l’articolo 1 numero 3 della Convenzione del 1° giugno 1961[^ingress-1] tra la Confederazione Svizzera e la Repubblica federale di Germania relativa agli uffici a controlli nazionali abbinati e al controllo in corso di viaggio,
 
@@ -68,11 +64,13 @@ Sul territorio della Confederazione Svizzera la zona comprende:
   - – a nord, dal confine comune,
   - – a ovest, da una linea lungo la siepe fino all’edificio «Kuster» e, da lì, dall’allineamento della facciata dalla parte della strada di questo edificio nel prolungamento del muro del deposito cisterna fino alla cabina telefonica, compreso il marciapiede,
   - – a sud, da una linea perpendicolare che attraversa la strada all’altezza della cabina telefonica,
-  - – a est, da una linea lungo la strada a partire dall’ingresso della stazione di rifornimento «AVIA» fino all’entrata dell’autorimessa dell’Amministrazione svizzera delle dogane e, da lì, lungo il muro fino al confine, compreso il marciapiede;
+  - – a est, da una linea lungo la strada a partire dall’ingresso della stazione di rifornimento «AVIA» fino all’entrata dell’autorimessa dell’Amministrazione svizzera delle dogane[^2-1] e, da lì, lungo il muro fino al confine, compreso il marciapiede;
 
 - b) il locale di riposo nell’edificio «Kuster»;
 - c) i servizi igienici, il locale per le perquisizioni e quello di detenzione nell’edificio «Kuster», compreso l’accesso;
 - d) la cabina di sdoganamento, compresa la parte riservata all’uso degli agenti tedeschi.
+
+[^2-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -95,6 +93,5 @@ Con l’entrata in vigore del presente Accordo è abrogato l’Accordo del 25 ap
 Fatto a Bonn, il 15 giugno 2010, in due originali in lingua tedesca.
 
 <table>
-<tr><td>Per il Dipartimento federale delle finanze della Confederazione Svizzera:</td><td>Per il Ministero federale delle finanze d’intesa con il Ministero federale dell’interno della Repubblica federale di Germania:</td></tr>
-<tr><td>Rudolf Dietrich</td><td>Hans-Joachim Stähr</td></tr>
+<tr><td>Per il Dipartimento federale delle finanze della Confederazione Svizzera: Rudolf Dietrich</td><td>Per il Ministero federale delle finanze d’intesa con il Ministero federale dell’interno della Repubblica federale di Germania: Hans-Joachim Stähr</td></tr>
 </table>

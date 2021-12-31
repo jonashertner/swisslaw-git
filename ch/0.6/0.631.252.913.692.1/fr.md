@@ -3,11 +3,11 @@ sr: "0.631.252.913.692.1"
 title: "Arrangement du 15 juin 2010 entre le Département fédéral des finances de la Confédération suisse et le Ministère fédéral des finances de la République fédérale d'Allemagne concernant la création, au passage frontière de Bâle-Hiltalingerstrasse/Weil am Rhein-Friedlingen, de bureaux à contrôles nationaux juxtaposés"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/404"
 language: fr
-version: 2011-05-30
+version: 2022-01-01
 adopted: 2010-06-15
 in_force: 2011-05-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/404/20110530/fr/xml/fedlex-data-admin-ch-eli-cc-2011-404-20110530-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/404/20110530/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/404/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-404-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/404/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,15 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/404/20110530/fr"
 
 RO **2011** 3197
 
-Traduction*[^t-1]*
+Traduction
 
-Conclu le 15 juin 2010
+Conclu le 15 juin 2010 Entré en vigueur le 30 mai 2011
 
-Entré en vigueur le 30 mai 2011
-
-(Etat le 30 mai 2011)
-
-[^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
+(Etat le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral des finances de la Confédération suisse et le Ministère fédéral des finances de la République fédérale d’Allemagne, vu l’art. 1, al. 3, de la Convention du 1<sup>er</sup> juin 1961 entre la Confédération suisse et la République fédérale d’Allemagne relative à la création de bureaux à contrôles nationaux juxtaposés et aux contrôles dans les véhicules en cours de route[^ingress-1],
 
@@ -68,11 +64,13 @@ Sur le territoire de la Confédération suisse, la zone comprend:
   - – au nord, par la frontière commune,
   - – à l’ouest, par une ligne longeant la haie jusqu’au bâtiment «Kuster» et, de là, par l’alignement de la façade de ce bâtiment située côté route, dans le prolongement du mur du réservoir de carburant jusqu’à la cabine téléphonique, y compris le trottoir,
   - – au sud, par une ligne perpendiculaire traversant la route à la hauteur de la cabine téléphonique,
-  - – à l’est, par une ligne commençant à l’entrée de la station-service «Avia», longeant la route jusqu’à l’entrée du garage de l’administration suisse des douanes, et, de là, longeant le mur jusqu’à la frontière, y compris le trottoir;
+  - – à l’est, par une ligne commençant à l’entrée de la station-service «Avia», longeant la route jusqu’à l’entrée du garage de l’administration suisse des douanes[^2-1], et, de là, longeant le mur jusqu’à la frontière, y compris le trottoir;
 
 - b) le local de pause situé dans le bâtiment «Kuster»;
 - c) les toilettes, la salle de fouille et la salle de rétention situées dans le bâtiment «Kuster», y compris l’accès;
 - d) la cabine de contrôle, y compris la partie mise à la disposition des agents allemands.
+
+[^2-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -95,6 +93,5 @@ L’entrée en vigueur du présent arrangement entraîne l’abrogation de l’a
 Fait à Bonn, le 15 juin 2010, en deux originaux en langue allemande.
 
 <table>
-<tr><td>Pour le Département fédéral des finances de la Confédération suisse:</td><td>Pour le Ministère fédéral des finances en accord avec le Ministère fédéral de l’intérieur de la République fédérale d’Allemagne:</td></tr>
-<tr><td>Rudolf Dietrich</td><td>Hans-Joachim Stähr</td></tr>
+<tr><td>Pour le Département fédéral des finances de la Confédération suisse: Rudolf Dietrich</td><td>Pour le Ministère fédéral des finances en accord avec le Ministère fédéral de l’intérieur de la République fédérale d’Allemagne: Hans-Joachim Stähr</td></tr>
 </table>
