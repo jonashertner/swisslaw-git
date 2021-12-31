@@ -4,18 +4,20 @@ title: "Loi fédérale du 13 octobre 1965 sur l'impôt anticipé (LIA)"
 short: LIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur l’impôt anticipé (LIA****)
+# Loi fédérale sur l’impôt anticipé
 
-du 13 octobre 1965 (Etat le 1<sup>er</sup> janvier 2020)[^t-1]
+(LIA**[^t-1]**)
+
+du 13 octobre 1965 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Abréviation introduite par le ch. I 4 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
@@ -25,7 +27,7 @@ vu l’art. 41<sup>bis</sup>, al. 1, let. a et b, et al. 2 et 3 de la constituti
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1958 371](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375), [1985 1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026)]. Aux disp. mentionnées correspondent actuellement les art. 132, al. 2, et 134 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: [RS **1** 3; [RO 1958 371](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375); [1985 1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026)]. Aux disp. mentionnées correspondent actuellement les art. 132, al. 2, et 134 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^ingress-2]: Nouvelle teneur selon le ch. II de la LF du 8 oct. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 324](https://fedlex.data.admin.ch/eli/oc/2000/63); [FF 1999 5286](https://fedlex.data.admin.ch/eli/fga/1999/1_5966_5286_4949)).
 [^ingress-3]: [FF 1963 II 937](https://fedlex.data.admin.ch/eli/fga/1963/2_953_937_1541)
 
@@ -133,10 +135,10 @@ Ne sont pas soumis à l’impôt anticipé:
   les intérêts des emprunts à conversion obligatoire et des emprunts assortis d’un abandon de créances visés aux art. 11 à 13 de la loi du 8 novembre 1934 sur les banques (LB)[^5-10] qui répondent aux conditions suivantes:
 
   - 1\. l’Autorité fédérale de surveillance des marchés financiers (FINMA) a approuvé, en vertu de l’art. 11, al. 4, LB, la prise en compte de l’emprunt en tant que fonds propres,
-  - 2\. la date d’émission de l’emprunt est comprise entre le 1<sup>er</sup> janvier 2013 et le 31 décembre 2021;
+  - 2\.[^5-11] la date d’émission de l’emprunt est comprise entre le 1er janvier 2013 et le 31 décembre 2026;
 
-- h.[^5-11] les intérêts versés par des participants à une contrepartie centrale au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^5-12] et ceux versés par une contrepartie centrale à ses participants;
-- i.[^5-13]
+- h.[^5-12] les intérêts versés par des participants à une contrepartie centrale au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^5-13] et ceux versés par une contrepartie centrale à ses participants;
+- i.[^5-14]
 
   les intérêts d’obligations d’emprunt émises par des banques ou par des sociétés affiliées à des groupes financiers pour lesquelles des mesures prévues aux art. 28 à 32 LB peuvent être ordonnées et qui répondent aux conditions suivantes:
 
@@ -148,11 +150,11 @@ Ne sont pas soumis à l’impôt anticipé:
     - – pour les banques n’ayant pas une importance systémique ou pour les sociétés affiliées à des groupes financiers: au moment de l’émission
     - – pour les banques d’importance systémique au sens des art. 7 à 10*a* LB: au moment de l’émission ou lors du passage d’un émetteur étranger à un émetteur suisse,
 
-  - 3\. l’obligation d’emprunt est émise entre le moment de l’entrée en vigueur de la modification du 18 mars 2016 de la présente loi et le 31 décembre 2021 ou un changement d’émetteur au sens du ch. 2 a lieu pendant cette période.
+  - 3\.[^5-15] l’obligation d’emprunt est émise entre le 1<sup>er</sup> janvier 2017 et le 31 décembre 2026 ou un changement d’émetteur au sens du ch. 2 a lieu pendant cette période.
 
-<sup>1bis</sup> Le remboursement de réserves issues d’apports de capital effectués par les détenteurs des droits de participation après le 31 décembre 1996 est traité de la même manière que le remboursement du capital-actions ou du capital social si la société de capitaux ou la société coopérative comptabilise les réserves issues d’apports de capital sur un compte spécial de son bilan commercial et communique toute modification de ce compte à l’Administration fédérale des contributions (AFC). L’al. 1<sup>ter</sup> est réservé.[^5-14]
+<sup>1bis</sup> Le remboursement de réserves issues d’apports de capital effectués par les détenteurs des droits de participation après le 31 décembre 1996 est traité de la même manière que le remboursement du capital-actions ou du capital social si la société de capitaux ou la société coopérative comptabilise les réserves issues d’apports de capital sur un compte spécial de son bilan commercial et communique toute modification de ce compte à l’Administration fédérale des contributions (AFC). L’al. 1<sup>ter</sup> est réservé.[^5-16]
 
-<sup>1ter</sup> Lors du remboursement de réserves issues d’apports de capital conformément à l’al. 1<sup>bis</sup>, les sociétés de capitaux et sociétés coopératives qui sont cotées dans une bourse suisse doivent distribuer d’autres réserves au moins pour un montant équivalent. Si cette condition n’est pas remplie, le remboursement est imposable à hauteur de la moitié de la différence entre le remboursement et la distribution des autres réserves, mais au plus à hauteur du montant des autres réserves disponibles pouvant être distribuées en vertu du droit commercial. Les autres réserves pouvant être distribuées en vertu du droit commercial doivent être créditées à hauteur d’un montant équivalent sur le compte spécial des réserves issues d’apports de capital.[^5-15]
+<sup>1ter</sup> Lors du remboursement de réserves issues d’apports de capital conformément à l’al. 1<sup>bis</sup>, les sociétés de capitaux et sociétés coopératives qui sont cotées dans une bourse suisse doivent distribuer d’autres réserves au moins pour un montant équivalent. Si cette condition n’est pas remplie, le remboursement est imposable à hauteur de la moitié de la différence entre le remboursement et la distribution des autres réserves, mais au plus à hauteur du montant des autres réserves disponibles pouvant être distribuées en vertu du droit commercial. Les autres réserves pouvant être distribuées en vertu du droit commercial doivent être créditées à hauteur d’un montant équivalent sur le compte spécial des réserves issues d’apports de capital.[^5-17]
 
 <sup>1quater</sup>
 
@@ -161,13 +163,13 @@ L’al. 1<sup>ter</sup> ne s’applique pas aux réserves issues d’apports de 
 - a. qui ont été constituées après le 24 février 2008 dans le cadre de concentrations équivalant économiquement à des fusions, par l’apport de droits de participation ou de droits de sociétariat dans une société de capitaux ou une société coopérative étrangère au sens de l’art. 61, al. 1, let. c, de la loi fédérale sur l’impôt fédéral direct ou lors d’un transfert transfrontalier dans une société de capitaux suisse selon l’art. 61, al. 1, let. d, de cette loi;
 - b. qui existaient déjà au sein d’une société de capitaux ou d’une société coopérative étrangère au moment d’une fusion ou restructuration transfrontalière au sens de l’art. 61, al. 1, let. b, et al. 3, de la loi fédérale sur l’impôt fédéral direct ou du déplacement du siège ou de l’administration effective d’après le 24 février 2008;
 - c. qui sont remboursées à des personnes morales suisses ou étrangères qui détiennent au moins 10 % du capital-actions ou du capital social de la société qui effectue le versement;
-- d. dans le cas de liquidation ou de déplacement du siège ou de l’administration effective de la société de capitaux ou de la société coopérative à l’étranger.[^5-16]
+- d. dans le cas de liquidation ou de déplacement du siège ou de l’administration effective de la société de capitaux ou de la société coopérative à l’étranger.[^5-18]
 
-<sup>1quinquies</sup> La société doit comptabiliser les réserves issues d’apports de capital visées à l’al. 1<sup>quater</sup>, let. a et b, sur un compte spécial et communiquer toute modification de ce compte à l’AFC.[^5-17]
+<sup>1quinquies</sup> La société doit comptabiliser les réserves issues d’apports de capital visées à l’al. 1<sup>quater</sup>, let. a et b, sur un compte spécial et communiquer toute modification de ce compte à l’AFC.[^5-19]
 
-<sup>1sexies</sup> Les al. 1<sup>ter</sup> à 1<sup>quinquies</sup> s’appliquent par analogie en cas d’utilisation de réserves issues d’apports de capital pour l’émission d’actions gratuites ou l’augmentation gratuite de la valeur nominale.[^5-18]
+<sup>1sexies</sup> Les al. 1<sup>ter</sup> à 1<sup>quinquies</sup> s’appliquent par analogie en cas d’utilisation de réserves issues d’apports de capital pour l’émission d’actions gratuites ou l’augmentation gratuite de la valeur nominale.[^5-20]
 
-<sup>2</sup> L’ordonnance peut prescrire que les intérêts de plusieurs avoirs de clients qu’un même créancier ou qu’une même personne ayant le droit d’en disposer détient auprès de la même banque ou de la même caisse d’épargne doivent être additionnés; en cas d’abus manifeste, l’AFC peut ordonner l’addition de ces intérêts.[^5-19]
+<sup>2</sup> L’ordonnance peut prescrire que les intérêts de plusieurs avoirs de clients qu’un même créancier ou qu’une même personne ayant le droit d’en disposer détient auprès de la même banque ou de la même caisse d’épargne doivent être additionnés; en cas d’abus manifeste, l’AFC peut ordonner l’addition de ces intérêts.[^5-21]
 
 [^5-1]: Nouvelle teneur selon l’annexe ch. 9 de la L du 3 oct. 2003 sur la fusion, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^5-2]: Nouvelle expression selon l’annexe ch. II 7 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -179,15 +181,17 @@ L’al. 1<sup>ter</sup> ne s’applique pas aux réserves issues d’apports de 
 [^5-8]: Introduite par l’annexe ch. 5 de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^5-9]: Introduite par le ch. I de la LF du 15 juin 2012 ([RO 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [FF 2011 6097](https://fedlex.data.admin.ch/eli/fga/2011/1054)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 6469](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
 [^5-10]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^5-11]: Introduite par l’annexe ch. 7 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^5-12]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-13]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 6469](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
-[^5-14]: Introduit par le ch. II 4 de la L du 23 mars 2007 sur la réforme de l’imposition des entreprises II ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nouvelle teneur selon le ch. I 7 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^5-15]: Introduit par le ch. I 7 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^5-16]: Introduit par le ch. I 7 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^5-11]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Instruments *too big to fail*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 719](https://fedlex.data.admin.ch/eli/oc/2021/719); [FF 2020 8375](https://fedlex.data.admin.ch/eli/fga/2020/2313)).
+[^5-12]: Introduite par l’annexe ch. 7 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^5-13]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-14]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [FF 2015 6469](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
+[^5-15]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2021 (Instruments *too big to fail*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 719](https://fedlex.data.admin.ch/eli/oc/2021/719); [FF 2020 8375](https://fedlex.data.admin.ch/eli/fga/2020/2313)).
+[^5-16]: Introduit par le ch. II 4 de la L du 23 mars 2007 sur la réforme de l’imposition des entreprises II ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)). Nouvelle teneur selon le ch. I 7 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^5-17]: Introduit par le ch. I 7 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^5-18]: Introduit par le ch. I 7 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^5-19]: Nouvelle teneur selon le ch. II 4 de la L du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^5-19]: Introduit par le ch. I 7 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^5-20]: Introduit par le ch. I 7 de la LF du 28 sept. 2018 relative à la réforme fiscale et au financement de l’AVS, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2565](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^5-21]: Nouvelle teneur selon le ch. II 4 de la L du 23 mars 2007 sur la réforme de l’imposition des entreprises II, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [FF 2005 4469](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 ### II. Gains provenant de jeux d’argent et gains provenant de jeux d’adresse et de loteries destinés à promouvoir les ventes
 
@@ -623,6 +627,20 @@ Les porteurs de parts d’un placement collectif au sens de la LPCC[^27-2] qui s
 
 <sup>2</sup> Dans la mesure où les cantons sont chargés du remboursement de l’impôt anticipé, l’AFC veille à l’application uniforme des prescriptions fédérales.
 
+### 1*a*. Procédures électroniques
+
+#### Art. 34a
+
+[^34a-1]
+
+<sup>1</sup> Le Conseil fédéral peut prescrire l’exécution par voie électronique des procédures prévues par la présente loi. Il arrête les modalités de cette exécution.
+
+<sup>2</sup> Lorsqu’une procédure est exécutée par voie électronique, l’AFC assure l’authenticité et l’intégrité des données transmises.
+
+<sup>3</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, l’AFC peut reconnaître, en lieu et place de la signature électronique qualifiée, une autre forme de confirmation électronique des données par le contribuable ou le requérant.
+
+[^34a-1]: Introduit par le ch. I 5 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ### 2. Autorités cantonales
 
 #### Art. 35
@@ -649,7 +667,7 @@ Les porteurs de parts d’un placement collectif au sens de la LPCC[^27-2] qui s
 
 <sup>4</sup> Les organisations auxquelles ont été confiées des tâches relevant de l’administration publique sont, dans les limites de ces tâches, astreintes en matière de renseignements aux mêmes obligations que les autorités. L’al. 3 est applicable par analogie.
 
-[^36-1]: [RS **3** 521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86, [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 757](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 let. b [787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7, [2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310)ch. III. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]. Voir actuellement la LF du 17 juin 2005 sur le TF ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^36-1]: [RS **3** 521; [RO 1948 473](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)art. 86; [1955 893](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)art. 118; [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 757](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)art. 80 let. b, [787](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)ch. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)art. 52 ch. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)ch. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)ch. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)art. 52 ch. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)art. 12 al. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)art. 36 ch. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)art. 59 ch. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)ch. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)ch. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 let. a; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)ch. III al. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 75 ch. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)annexe ch. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)annexe ch. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)annexe ch. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)annexe ch. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)annexe ch. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)annexe ch. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)annexe ch. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)annexe ch. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)ch. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)ch. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)ch. I, 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)art. 40 ch. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)art. 11 al. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 ch. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)ch. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 4 let. a, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)annexe ch. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 7; [2006 2003](https://fedlex.data.admin.ch/eli/oc/2006/310)ch. III. [RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)art. 131 al. 1]. Voir actuellement la LF du 17 juin 2005 sur le TF ([RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 
 ### II*a.* Traitement des données
 
@@ -659,7 +677,7 @@ Les porteurs de parts d’un placement collectif au sens de la LPCC[^27-2] qui s
 
 <sup>1</sup> L’AFC gère, pour l’accomplissement des tâches qui lui incombent en vertu de la présente loi, un système d’information. Celui-ci peut contenir des données sensibles portant sur des sanctions administratives ou pénales importantes en matière fiscale.
 
-<sup>2</sup> L’AFC et les autorités citées à l’art. 36, al. 1, échangent les données qui peuvent être utiles à l’accomplissement de leurs tâches. Les autorités citées à l’art. 36, al. 2 et 4, communiquent à l’AFC les données qui peuvent être importantes pour l’exécution de la présente loi.
+<sup>2</sup> L’AFC et les autorités citées à l’art. 36, al. 1, échangent les données qui peuvent être utiles à l’accomplissement de leurs tâches. Les autorités citées à l’art. 36, al. 2 et 4, communiquent à l’AFC les données qui peuvent être importantes pour l’exécution de la présente loi. ...[^36a-2]
 
 <sup>3</sup> Les données sont communiquées dans des cas d’espèce ou sous forme de listes ou encore sur des supports de données électroniques. Elles peuvent également être rendues accessibles au moyen d’une procédure d’appel. Cette assistance administrative est gratuite.
 
@@ -668,6 +686,7 @@ Les porteurs de parts d’un placement collectif au sens de la LPCC[^27-2] qui s
 <sup>5</sup> Le Conseil fédéral peut édicter des dispositions d’exécution portant notamment sur l’organisation et la gestion du système d’information, les catégories de données à saisir, l’accès aux données ainsi que les autorisations de traitement, la durée de conservation, l’archivage et la destruction des données.
 
 [^36a-1]: Introduit par le ch. VI 2 de la LF du 24 mars 2000 sur la création et l’adaptation de bases légales concernant le traitement de données personnelles, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [FF 1999 8381](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979))
+[^36a-2]: Phrase sans objet ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673)ch. II; [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### III. Secret
 
@@ -1203,10 +1222,10 @@ Sont abrogés, dès l’entrée en vigueur de la présente loi:
 
 <sup>2</sup> Les art. 35 à 40 et 48 de l’arrêté fédéral du 22 décembre 1938 assurant l’application du régime transitoire des finances fédérales[^72-4] restent applicables à tous les faits qui se sont produits pendant la durée de validité de ces dispositions.
 
-[^72-1]: [RS **6** 329, **1** 3 disp. trans. art. 8 al. 1 let. b, dans la teneur du 11 mai 1958; [RO 1958 371](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375); RO **1949** II 1913 art. 1 let. B. ch 1 let. d, **1950** II 1507 art. 2 ad art. 2, **1954** 1347 art. 2]
-[^72-2]: [RS **6** 347; RO **1949** II 1913 art. 1 let. B ch. 1 let. e, **1950** II 1507 art. 2 ad art. 2, **1954** 1347 art. 2]
-[^72-3]: [RS **6** 39 50; RO **1949** II 1913 art. 1 let. A, **1950** II 1507 art. 2 ad art. 1 , **1954** 1347 art. 2]
-[^72-4]: [RS **6** 39 50; RO **1949** II 1913 art. 1 let. A, **1950** II 1507 art. 2 ad art. 1 , **1954** 1347 art. 2]
+[^72-1]: [RS **6** 329, **1** 3 disp. trans. art. 8 al. 1 let. b, dans la teneur du 11 mai 1958; [RO 1958 371](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375); RO **1949** II 1913 art. 1 let. B. ch 1 let. d; **1950** II 1507 art. 2 ad art. 2; **1954** 1347 art. 2]
+[^72-2]: [RS **6** 347; RO **1949** II 1913 art. 1 let. B ch. 1 let. e; **1950** II 1507 art. 2 ad art. 2; **1954** 1347 art. 2]
+[^72-3]: [RS **6** 39 50; RO **1949** II 1913 art. 1 let. A; **1950** II 1507 art. 2 ad art. 1; **1954** 1347 art. 2]
+[^72-4]: [RS **6** 39 50; RO **1949** II 1913 art. 1 let. A; **1950** II 1507 art. 2 ad art. 1; **1954** 1347 art. 2]
 
 ### E. Exécution
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Oktober 1965 über die Verrechnungssteuer (Verrechn
 short: VStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/371_385_384"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1965-10-13
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/371_385_384/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1966-371_385_384-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/20200101/de"
 
 (Verrechnungssteuergesetz, VStG)**[^t-1]**
 
-vom 13. Oktober 1965 (Stand am 1. Januar 2020)
+vom 13. Oktober 1965 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)).
 
@@ -135,10 +135,10 @@ Von der Steuer sind ausgenommen:
   die Zinsen von Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach den Artikeln 11–13 des Bankengesetzes vom 8. November 1934[^5-10], sofern:
 
   - 1\. die Eidgenössische Finanzmarktaufsicht (FINMA), gestützt auf Artikel 11 Absatz 4 des Bankengesetzes, die Anrechnung der Anleihe an die erforderlichen Eigenmittel genehmigt hat, und
-  - 2\. die Anleihe zwischen dem 1. Januar 2013 und dem 31. Dezember 2021 ausgegeben wird;
+  - 2\.[^5-11] die Anleihe zwischen dem 1. Januar 2013 und dem 31. Dezember 2026 ausgegeben wird;
 
-- h.[^5-11] Zinszahlungen von Teilnehmern an eine zentrale Gegenpartei im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^5-12] sowie von einer zentralen Gegenpartei an ihre Teilnehmer;
-- i.[^5-13]
+- h.[^5-12] Zinszahlungen von Teilnehmern an eine zentrale Gegenpartei im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^5-13] sowie von einer zentralen Gegenpartei an ihre Teilnehmer;
+- i.[^5-14]
 
   die Zinsen von Anleihensobligationen von Banken oder Konzerngesellschaften von Finanzgruppen, für die Massnahmen nach den Artikeln 28–32 des Bankengesetzes angeordnet werden können, sofern:
 
@@ -150,11 +150,11 @@ Von der Steuer sind ausgenommen:
     - – bei nicht systemrelevanten Banken oder bei Konzerngesellschaften von Finanzgruppen: im Zeitpunkt der Emission
     - – bei systemrelevanten Banken nach den Artikeln 7–10*a* des Bankengesetzes: im Zeitpunkt der Emission oder bei einem Wechsel von einem ausländischen zu einem schweizerischen Emittenten, und
 
-  - 3\. die Anleihensobligation zwischen dem Inkrafttreten der Änderung vom 18. März 2016 dieses Gesetzes und dem 31. Dezember 2021 ausgegeben wird oder während dieser Zeit ein Wechsel des Emittenten nach Ziffer 2 stattfindet.
+  - 3\.[^5-15] die Anleihensobligation zwischen dem 1. Januar 2017 und dem 31. Dezember 2026 ausgegeben wird oder während dieser Zeit ein Wechsel des Emittenten nach Ziffer 2 stattfindet.
 
-<sup>1bis</sup> Die Rückzahlung von Reserven aus Kapitaleinlagen, die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital, wenn die Reserven aus Kapitaleinlagen von der Kapitalgesellschaft oder Genossenschaft in der Handelsbilanz auf einem gesonderten Konto ausgewiesen werden und die Gesellschaft oder Genossenschaft jede Veränderung auf diesem Konto der Eidgenössischen Steuerverwaltung (ESTV) meldet. Absatz 1<sup>ter</sup> bleibt vorbehalten.[^5-14]
+<sup>1bis</sup> Die Rückzahlung von Reserven aus Kapitaleinlagen, die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital, wenn die Reserven aus Kapitaleinlagen von der Kapitalgesellschaft oder Genossenschaft in der Handelsbilanz auf einem gesonderten Konto ausgewiesen werden und die Gesellschaft oder Genossenschaft jede Veränderung auf diesem Konto der Eidgenössischen Steuerverwaltung (ESTV) meldet. Absatz 1<sup>ter</sup> bleibt vorbehalten.[^5-16]
 
-<sup>1ter</sup> Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 1<sup>bis</sup> mindestens im gleichen Umfang übrige Reserven auszuschütten. Ist diese Bedingung nicht erfüllt, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven. Im gleichen Umfang sind handelsrechtlich ausschüttungsfähige übrige Reserven dem gesonderten Konto für Reserven aus Kapitaleinlagen zuzuweisen.[^5-15]
+<sup>1ter</sup> Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 1<sup>bis</sup> mindestens im gleichen Umfang übrige Reserven auszuschütten. Ist diese Bedingung nicht erfüllt, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven. Im gleichen Umfang sind handelsrechtlich ausschüttungsfähige übrige Reserven dem gesonderten Konto für Reserven aus Kapitaleinlagen zuzuweisen.[^5-17]
 
 <sup>1quater</sup>
 
@@ -163,13 +163,13 @@ Absatz 1<sup>ter</sup> ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
 - a. die bei fusionsähnlichen Zusammenschlüssen durch Einbringen von Beteiligungs- und Mitgliedschaftsrechten an einer ausländischen Kapitalgesellschaft oder Genossenschaft nach Artikel 61 Absatz 1 Buchstabe c DBG oder durch eine grenzüberschreitende Übertragung auf eine inländische Tochtergesellschaft nach Artikel 61 Absatz 1 Buchstabe d DBG nach dem 24. Februar 2008 entstanden sind;
 - b. die im Zeitpunkt einer grenzüberschreitenden Fusion oder Umstrukturierung nach Artikel 61 Absatz 1 Buchstabe b und Absatz 3 DBG oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung nach dem 24. Februar 2008 bereits in einer ausländischen Kapitalgesellschaft oder Genossenschaft vorhanden waren;
 - c. die an in- und ausländische juristische Personen zurückgezahlt werden, die zu mindestens 10 Prozent am Grund- oder Stammkapital der leistenden Gesellschaft beteiligt sind;
-- d. im Falle der Liquidation oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung der Kapitalgesellschaft oder Genossenschaft ins Ausland.[^5-16]
+- d. im Falle der Liquidation oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung der Kapitalgesellschaft oder Genossenschaft ins Ausland.[^5-18]
 
-<sup>1quinquies</sup> Die Gesellschaft hat die Reserven aus Kapitaleinlagen nach Absatz 1<sup>quater</sup> Buchstaben a und b auf einem gesonderten Konto auszuweisen und der ESTV jede Veränderung auf diesem Konto zu melden.[^5-17]
+<sup>1quinquies</sup> Die Gesellschaft hat die Reserven aus Kapitaleinlagen nach Absatz 1<sup>quater</sup> Buchstaben a und b auf einem gesonderten Konto auszuweisen und der ESTV jede Veränderung auf diesem Konto zu melden.[^5-19]
 
-<sup>1sexies</sup> Die Absätze 1<sup>ter</sup>–1<sup>quinquies</sup> gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.[^5-18]
+<sup>1sexies</sup> Die Absätze 1<sup>ter</sup>–1<sup>quinquies</sup> gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.[^5-20]
 
-<sup>2</sup> Die Verordnung kann vorschreiben, dass Zinsen verschiedener, von einem Gläubiger oder Verfügungsberechtigten bei der gleichen Bank oder Sparkasse unterhaltener Kundenguthaben zusammenzurechnen sind; bei offenbarem Missbrauch kann die ESTV eine solche Zusammenrechnung im Einzelfall anordnen.[^5-19]
+<sup>2</sup> Die Verordnung kann vorschreiben, dass Zinsen verschiedener, von einem Gläubiger oder Verfügungsberechtigten bei der gleichen Bank oder Sparkasse unterhaltener Kundenguthaben zusammenzurechnen sind; bei offenbarem Missbrauch kann die ESTV eine solche Zusammenrechnung im Einzelfall anordnen.[^5-21]
 
 [^5-1]: Fassung gemäss Anhang Ziff. 9 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 [^5-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
@@ -181,15 +181,17 @@ Absatz 1<sup>ter</sup> ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
 [^5-8]: Ausdruck gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2019 433](https://fedlex.data.admin.ch/eli/oc/2019/76); [BBl 2018 2325](https://fedlex.data.admin.ch/eli/fga/2018/890)).
 [^5-9]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012 ([AS 2012 5981](https://fedlex.data.admin.ch/eli/oc/2012/701); [BBl 2011 6615](https://fedlex.data.admin.ch/eli/fga/2011/1054)). Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
 [^5-10]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^5-11]: Eingefügt durch Anhang Ziff. 7 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^5-12]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-13]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
-[^5-14]: Eingefügt durch Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Fassung gemäss Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^5-15]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^5-16]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^5-11]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Too-big-to-fail-Instrumente), in Kraft seit 1. Jan. 2022 ([AS 2021 719](https://fedlex.data.admin.ch/eli/oc/2021/719); [BBl 2020 8701](https://fedlex.data.admin.ch/eli/fga/2020/2313)).
+[^5-12]: Eingefügt durch Anhang Ziff. 7 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^5-13]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-14]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3451](https://fedlex.data.admin.ch/eli/oc/2016/583); [BBl 2015 7083](https://fedlex.data.admin.ch/eli/fga/2015/1692)).
+[^5-15]: Fassung gemäss Ziff. I des BG vom 18. Juni 2021 (Too-big-to-fail-Instrumente), in Kraft seit 1. Jan. 2022 ([AS 2021 719](https://fedlex.data.admin.ch/eli/oc/2021/719); [BBl 2020 8701](https://fedlex.data.admin.ch/eli/fga/2020/2313)).
+[^5-16]: Eingefügt durch Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Fassung gemäss Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
 [^5-17]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
 [^5-18]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^5-19]: Fassung gemäss Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2010 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
+[^5-19]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^5-20]: Eingefügt durch Ziff. I 7 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^5-21]: Fassung gemäss Ziff. II 4 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2010 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
 ### II. Gewinne aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung
 
@@ -625,6 +627,20 @@ Ausländische Inhaber von Anteilen an einer kollektiven Kapitalanlage gemäss KA
 
 <sup>2</sup> Soweit die Rückerstattung der Verrechnungssteuer den Kantonen übertragen ist, sorgt die ESTV für die gleichmässige Handhabung der Bundesvorschriften.
 
+### 1*a*. Elektronische Verfahren
+
+#### Art. 34a
+
+[^34a-1]
+
+<sup>1</sup> Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung.
+
+<sup>2</sup> Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher.
+
+<sup>3</sup> Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die steuerpflichtige oder antragstellende Person anerkennen.
+
+[^34a-1]: Eingefügt durch Ziff. I 5 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+
 ### 2. Kantonale Behörden
 
 #### Art. 35
@@ -651,7 +667,7 @@ Ausländische Inhaber von Anteilen an einer kollektiven Kapitalanlage gemäss KA
 
 <sup>4</sup> Die mit öffentlich-rechtlichen Aufgaben betrauten Organisationen sind im Rahmen dieser Aufgaben gleich den Behörden zur Auskunft verpflichtet; Absatz 3 findet sinngemässe Anwendung.
 
-[^36-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. *b* [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. *a*, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4, [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36 [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17 [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2 [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5, [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3 [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2, [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1 [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2, [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6 [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2 [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1 [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453), [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4 [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3 [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2, [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35 [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1 [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1, [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7 [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a* [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1 [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]. Siehe heute das Bundesgerichtsgesetz vom 17. Juni 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^36-1]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. *b*, [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. *a*; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a*, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]. Siehe heute das Bundesgerichtsgesetz vom 17. Juni 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 
 ### II*a*. Datenbearbeitung
 
@@ -661,7 +677,7 @@ Ausländische Inhaber von Anteilen an einer kollektiven Kapitalanlage gemäss KA
 
 <sup>1</sup> Die ESTV betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.
 
-<sup>2</sup> Die ESTV und die Behörden nach Artikel 36 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 36 Absätze 2 und 4 geben der ESTV die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können.
+<sup>2</sup> Die ESTV und die Behörden nach Artikel 36 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 36 Absätze 2 und 4 geben der ESTV die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können. …[^36a-2]
 
 <sup>3</sup> Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern übermittelt. Sie können auch mittels eines Abrufverfahrens zugänglich gemacht werden. Diese Amtshilfe ist kostenlos.
 
@@ -670,6 +686,7 @@ Ausländische Inhaber von Anteilen an einer kollektiven Kapitalanlage gemäss KA
 <sup>5</sup> Der Bundesrat kann Ausführungsbestimmungen erlassen, insbesondere über die Organisation und den Betrieb des Informationssystems, über die Kategorien der zu erfassenden Daten, über die Zugriffs- und Bearbeitungsberechtigung, über die Aufbewahrungsdauer sowie die Archivierung und Vernichtung der Daten.
 
 [^36a-1]: Eingefügt durch Ziff. VI 2 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
+[^36a-2]: Dritter Satz gegenstandslos ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673)Ziff. II; [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 ### III. Schweigepflicht
 
@@ -1198,7 +1215,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind aufgehoben:
 [^72-1]: [BS **6** 326; AS **1949** II 1801 Art. 1 Bst. B Ziff. 1 Bst. d, **1950** II 1463 Art. 2 ad Art. 2, **1954** 1314 Art. 2, **1958** 362]
 [^72-2]: [BS **6** 345; AS **1949** II 1801 Art. 1 Bst. B Ziff. 1 Bst. e, **1950** II 1463 Art. 2 ad Art. 2, **1954** 1314 Art. 2]
 [^72-3]: [BS **6** 38 40; AS **1949** II 1801 Art. 1 Bst. A, **1950** II 1463 Art. 2 ad Art. 1, **1954** 1314 Art. 2]
-[^72-4]: [BS **6** 38 40; AS **1949** II 1801 Art. 1 Bst. A, **1950** II 1463 Art. 2 ad Art. 1, **1954** 1314 Art. 2]
+[^72-4]: [BS **6** 38 40; AS **1949** II 1801 Art. 1 Bst. A; **1950** II 1463 Art. 2 ad Art. 1; **1954** 1314 Art. 2]
 
 ### E. Vollzug
 
