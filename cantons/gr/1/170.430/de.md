@@ -1,167 +1,128 @@
 ---
 canton: GR
 number: "170.430"
-title: Reglement über die vorzeitige Alterspensionierung
+title: Reglement über die vorzeitige Pensionierung
 short: VP-Reglement
 language: de
-version: 2013-04-01
-corrected: 2014-10-26
-version_adopted: 2013-03-19
+version: 2022-01-01
+version_adopted: 2021-10-26
 adopted: 2021-10-26
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.430"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1745/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3210/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die vorzeitige Alterspensionierung
+# Reglement über die vorzeitige Pensionierung
 
-Gestützt auf Art. 15 Abs. 3 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden (Personalgesetz, PG)[^t-1]
+(VP-Reglement)
 
-von der Regierung erlassen am 19. März 2013
+Vom 26.10.2021 (Stand 01.01.2022)
 
-[^t-1]: BR 170.400 01.04.2013 1
+Gestützt auf Art. 15 Abs. 3 des Personalgesetzes[^ingress-1]
+
+von der Regierung erlassen am 26. Oktober 2021
+
+[^ingress-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 1
 
-**Gegenstand und Geltungsbereich**
+**Gegenstand**
 
-Dieses Reglement regelt die vollständige oder schrittweise vorzeitige Pensionierung nach Artikel 15 Absatz 3 des kantonalen Personalgesetzes für die Mitarbeiterinnen und Mitarbeiter der Kantonalen Verwaltung.
+<sup>1</sup> Dieses Reglement regelt die vorzeitige Pensionierung und die Beiträge des Kantons an die AHV-Überbrückungsrenten von Mitarbeitenden der kantonalen Verwaltung nach Artikel 15 Absatz 3 des Personalgesetzes.
 
 #### Art. 2
 
 **Grundsätze**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Kantonalen Verwaltung können sich frühestens ab vollendetem 60. Altersjahr vorzeitig pensionieren lassen.
+<sup>1</sup> Die Mitarbeitenden können sich nach den Bestimmungen der Pensionskasse Graubünden vorzeitig pensionieren beziehungsweise teilpensionieren lassen.
 
-<sup>2</sup> Auf die Gewährung der vorzeitigen Pensionierung besteht kein Anspruch.
+<sup>2</sup> Eine Teilpensionierung hat:
 
-<sup>3</sup> Eine vorzeitige Pensionierung wird von der Kantonalen Verwaltung mit einer Überbrückungsrente finanziell unterstützt.
+- a) in einem Schritt oder in zwei Schritten zu erfolgen;
+- b) den Arbeitsumfang pro Schritt um mindestens 20 Prozent zu reduzieren.
 
-<sup>4</sup> Die mit der Ausrichtung der Überbrückungsrente verbundenen Kosten sind zu kompensieren.
+<sup>3</sup> AHV-Überbrückungsrenten im Rahmen vorzeitiger Pensionierungen beziehungsweise Teilpensionierungen werden grundsätzlich durch die Mitarbeitenden finanziert. Sie werden nur nach Massgabe von Artikel 3, Artikel 4 und Artikel 7 mit einem finanziellen Beitrag zugunsten des Zusatz-Sparkontos "AHV-Überbrückungsrente" bei der Pensionskasse Graubünden unterstützt.
 
 #### Art. 3
 
-**Voraussetzungen**
+**Voraussetzungen für Beiträge an AHV-Überbrückungsrenten**
 
-<sup>1</sup> Eine vorzeitige Pensionierung setzt die Vollendung des 60. Altersjahres und mindestens fünf erfüllte Dienstjahre voraus.
+<sup>1</sup> Mitarbeitende erhalten einen Beitrag nach Artikel 2 Absatz 3, wenn sie:
 
-<sup>2</sup> Die vorzeitige Pensionierung kann in ein oder zwei Schritten erfolgen. Der erstmalige Pensionierungsgrad muss mindestens 20 Prozent eines vollen Beschäftigungsumfanges betragen.
+- a) sich auf Ende des Monats, in dem sie 62 Jahre alt werden, oder einen späteren Zeitpunkt vorzeitig pensionieren beziehungsweise teilpensionieren lassen;
+- b) unmittelbar vor der vorzeitigen Pensionierung beziehungsweise der Teilpensionierung während mindestens 10 Jahren für die kantonale Verwaltung tätig waren;
+- c) insgesamt während mindestens 10 Jahren eine Funktion mit hoher physischer oder psychischer Belastung ausgeübt haben; und
+- d) bei der Pensionskasse Graubünden eine AHV-Überbrückungsrente verlangen.
 
-<sup>3</sup> Bei einer Pensionierung in zwei Schritten muss der Mindestweiterbeschäftigungsgrad nach dem ersten Schritt mindestens 40 Prozent eines vollen Beschäftigungsumfanges betragen.
+<sup>2</sup> Die Departemente und das Personalamt legen im Einvernehmen die Funktionen nach Absatz 1 Litera c fest, in denen:
+
+- a) die Gesundheit durch physikalische, chemische oder biologische Einflüsse einer erhöhten Gefährdung ausgesetzt ist;
+- b) die Arbeitsumgebung besonders strapazierend ist, insbesondere aufgrund extremer Temperaturen, rauem Klima oder schlechten Lichtverhältnissen;
+- c) der Bewegungsapparat besonders belastet wird, insbesondere aufgrund physischer Anstrengung oder ungünstiger Körperhaltung;
+- d) während besonders belastenden Zeiten gearbeitet wird, insbesondere in der Nacht;
+- e) aufgrund stark repetitiver, einseitiger oder emotional belastender Arbeit eine besondere psychische Belastung besteht;
+- f) eine erhöhte Unfallgefahr besteht.
+
+<sup>3</sup> Die Regierung kann Mitarbeitenden, die mindestens 62 Jahre alt sind, einen Beitrag nach Artikel 2 Absatz 3 gewähren, wenn:
+
+- a) die Fortführung des Arbeitsverhältnisses mit dem bisherigen Arbeitsumfang und
+- b) die vorzeitige Pensionierung beziehungsweise Teilpensionierung ohne finanziell unterstützte AHV-Überbrückungsrente
 
 #### Art. 4
 
-**Höhe der Überbrückungsrente**
+**Höhe der Beiträge an AHV-Überbrückungsrenten**
 
-<sup>1</sup> Die Berechnung der Überbrückungsrente basiert auf der einfachen maximalen AHV-Altersrente von 28 080 Franken pro Jahr (Stand 2013). Ihre Höhe ist abhängig vom Pensionierungszeitpunkt, der Anzahl Dienstjahre, dem Arbeitsumfang und vom Pensionierungsgrad.
+<sup>1</sup> Der jährliche Beitrag nach Artikel 3 Absatz 1 entspricht bezogen auf die maximale AHV-Rente bei einer vorzeitigen Pensionierung beziehungsweise Teilpensionierung:
 
-<sup>2</sup> Die Überbrückungsrente beträgt bei einer Pensionierung im:
+- a) nach dem 62. Geburtstag: 50 Prozent;
+- b) nach dem 63. Geburtstag: 75 Prozent.
 
-- 61\. Altersjahr 80 Prozent
+<sup>2</sup> Der Beitrag nach Absatz 1 reduziert sich:
 
-- 62\. Altersjahr 80 Prozent
+- a) bei einer unterjährigen vorzeitigen Pensionierung beziehungsweise Teilpensionierung pro rata temporis;
+- b) bei einer Teilpensionierung entsprechend dem Pensionierungsgrad beziehungsweise der Pensionierungsgrade;
+- c) bei einem Teilzeitpensum entsprechend der Differenz zwischen dem durchschnittlichen Arbeitsumfang während der letzten fünf Jahre vor der vorzeitigen Pensionierung beziehungsweise Teilpensionierung und einem Vollzeitpensum.
 
-- 63\. Altersjahr 100 Prozent
-
-- 64\. Altersjahr 120 Prozent
-
-- 65\. Altersjahr 120 Prozent der einfachen maximalen AHV-Altersrente
-
-<sup>3</sup> Erfolgt die vorzeitige Pensionierung in zwei Schritten, so wird die Überbrückungsrente getrennt nach den Altersjahren berechnet, in denen die Pensionierungsschritte erfolgen.
-
-<sup>4</sup> Die Ausrichtung einer vollen Überbrückungsrente nach Absatz 2 setzt voraus, dass die Mitarbeiterin oder der Mitarbeiter im erstmaligen Pensionierungszeitpunkt mindestens neun Dienstjahre erfüllt hat. Für jedes fehlende Dienstjahr wird die Überbrückungsrente um 20 Prozent gekürzt.
-
-<sup>5</sup> Die Höhe der Überbrückungsrente nach Absatz 2 richtet sich nach dem durchschnittlichen Beschäftigungsumfang der letzten fünf Jahre vor dem erstmaligen Pensionierungszeitpunkt.
-
-<sup>6</sup> Bei Teilpensionierungen richtet sich die Höhe der Überbrückungsrente nach dem jeweiligen Pensionierungsgrad.
-
-<sup>7</sup> Die Anpassung der Höhe der AHV-Altersrente bewirkt eine Anpassung der laufenden und neu auszurichtenden Überbrückungsrenten.
+<sup>3</sup> Beiträge nach Artikel 3 Absatz 3 werden von der Regierung festgelegt.
 
 #### Art. 5
 
-**Koordination mit AHV-Altersrenten**
+**Mitwirkungspflichten**
 
-<sup>1</sup> Die ordentlichen AHV-Altersrenten der Frauen (ab Alter 64) werden an die Überbrückungsrente voll angerechnet, unabhängig davon, ob sie tatsächlich bezogen werden oder nicht.
+<sup>1</sup> Mitarbeitende haben der Dienststelle und dem Personalamt unter Einhaltung der Kündigungsfrist anzuzeigen, wenn sie sich vorzeitig pensionieren lassen. Für eine vorzeitige Teilpensionierung hat die Anzeige unter Einhaltung der doppelten Kündigungsfrist zu erfolgen.
 
-<sup>2</sup> Vorbezogene AHV-Altersrenten der Frauen und Männer, die mit einer Kürzung behaftet sind, werden nicht an die Überbrückungsrente angerechnet.
+<sup>2</sup> Mitarbeitende und Dienststellen haben sich über die Modalitäten von Teilpensionierungen nach Artikel 2 Absatz 2 abzusprechen und diese bis zwei Monate vor der vorzeitigen Pensionierung dem Personalamt mitzuteilen.
+
+<sup>3</sup> Mitarbeitende haben Beiträge nach Artikel 3 Absatz 1 bis zwei Monate vor der vorzeitigen Pensionierung beim Personalamt geltend zu machen. Das Gesuch muss den Antrag auf eine AHV-Überbrückungsrente zuhanden der Pensionskasse Graubünden enthalten.
+
+<sup>4</sup> Mitarbeitende haben Beiträge nach Artikel 3 Absatz 3 bis fünf Monate vor der vorzeitigen Pensionierung beim Departement zuhanden der Regierung zu beantragen. Der Antrag muss eine Begründung und Belege für die besonderen Umstände enthalten.
 
 #### Art. 6
 
-**Koordination mit Erwerbseinkommen**
+**Überweisung von Beiträgen an AHV-Überbrückungsrenten**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die nach Antritt der vorzeitigen Pensionierung eine unselbstständige oder selbstständige Erwerbstätigkeit neu oder über den bisherigen Umfang hinaus aufnehmen, verlieren den Anspruch auf die Überbrückungsrente, wenn das AHV-pflichtige Erwerbseinkommen 125 Prozent der minimalen AHV-Altersrente von 17 550 Franken pro Jahr (Stand 2013) übersteigt.
-
-<sup>2</sup> Bezügerinnen und Bezüger von Überbrückungsrenten sind verpflichtet, die Aufnahme einer neuen oder einer über den bisherigen Umfang hinausgehenden Erwerbstätigkeit und das dabei erzielte Erwerbseinkommen dem Personalamt zu melden.
-
-**2**
-
-01.04.2013
+<sup>1</sup> Die Beiträge nach Artikel 4 werden der Pensionskasse Graubünden für die voraussichtliche Dauer des Bezugs einer AHV-Überbrückungsrente gesamthaft auf den Zeitpunkt der vorzeitigen Pensionierung beziehungsweise Teilpensionierung überwiesen.
 
 #### Art. 7
 
-**Kompensation der Kosten**
+**Übergangsbestimmung für Anträge vor dem 1. Januar 2022**
 
-<sup>1</sup> Die Kompensation der mit der Ausrichtung einer Überbrückungsrente verbundenen Kosten kann insbesondere durch Lohnmutationsgewinne und dem dauernden oder vorübergehenden Nichtbesetzen der Stelle erfolgen.
-
-<sup>2</sup> Die Dienststelle hat für jeden Einzelfall nachzuweisen und sicherzustellen, dass die Kosten der Überbrückungsrente mit Kosteneinsparungen kompensiert werden.
-
-<sup>3</sup> Die Kompensation der Kosten hat innert drei Jahren seit dem erstmaligen Pensionierungszeitpunkt zu erfolgen.
-
-<sup>4</sup> Können die Dienststellen die Kosten der Überbrückungsrente nicht vollständig kompensieren, entscheidet das Personalamt, ob ein Kostenausgleich über die Kosteneinsparungen möglich ist, die sich aus der Gesamtheit aller vorzeitigen Pensionierungen ergeben.
-
-<sup>5</sup> Das Personalamt erstellt eine jährliche Abrechnung.
+<sup>1</sup> Vorzeitige Pensionierungen, die vor dem 1. Januar 2022 beantragt und noch nicht entschieden wurden, werden nach dem Reglement über die vorzeitige Alterspensionierung vom 19. März 2013 beurteilt und umgesetzt, sofern die Mitarbeitenden am 1. Januar 2022 59 Jahre alt oder älter sind.
 
 #### Art. 8
 
-**Sozialversicherungsbeiträge**
+**Übergangsbestimmungen für Anträge ab dem 1. Januar 2022**
 
-<sup>1</sup> Die Überbrückungsrenten sind gemäss Artikel 7 litera q der eidgenössischen Verordnung über die Alters- und Hinterlassenenversicherung[^8-1] beitragspflichtig. Die Beiträge werden im Zeitpunkt des Antritts einer vorzeitigen Pensionierung fällig.
+<sup>1</sup> Mitarbeitende, die am 1. Januar 2022 60 Jahre alt oder älter sind, können eine vorzeitige Pensionierung ab dem 63. Altersjahr nach dem Reglement über die vorzeitige Alterspensionierung vom 19. März 2013 beantragen.
 
-<sup>2</sup> Das Personalamt berechnet die auf den Gesamtbetrag der Überbrückungsrenten geschuldeten Sozialversicherungsbeiträge. Die Mitarbeiterin oder der Mitarbeiter übernimmt die eigenen Beiträge für die AHV und ALV.
+<sup>2</sup> Die Regierung entscheidet jeweils im September über die vorzeitigen Pensionierungen nach Absatz 1 unter Berücksichtigung von Artikel 9 Absatz 2 des Reglements über die vorzeitige Alterspensionierung vom 19. März 2013 und des Budgetantrags, nötigenfalls unter Priorisierung nach Anzahl der Dienstjahre.
 
-[^8-1]: SR 831.101 01.04.2013 3
+<sup>3</sup> Bei vorzeitigen Pensionierungen nach Absatz 1 werden in Abweichung zu Artikel 10 und Artikel 4 Absatz 2 des Reglements über die vorzeitige Alterspensionierung vom 19. März 2013 anstelle einer Überbrückungsrente der Pensionskasse Graubünden entsprechende Beiträge im Sinne und nach Massgabe von Artikel 6 überwiesen. Diese Beiträge entsprechen bei einer Pensionierung im:
 
-#### Art. 9
+- a) 63. Altersjahr: 80 Prozent;
+- b) 64. Altersjahr: 100 Prozent;
+- c) 65. Altersjahr: 100 Prozent;
 
-**Antrag und Entscheid**
-
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter können bei der Anstellungsinstanz eine vorzeitige Pensionierung beantragen. Der Antrag ist in der Regel ein Jahr vor dem erstmaligen Pensionierungszeitpunkt auf dem Dienstweg schriftlich einzureichen.
-
-<sup>2</sup> Die Anstellungsinstanz entscheidet unter Berücksichtigung der betrieblichen Bedürfnisse. Sie legt den Grad und Zeitpunkt der vorzeitigen Pensionierung im Einvernehmen mit der Mitarbeiterin oder dem Mitarbeiter fest und bestimmt die Höhe der Überbrückungsrente gestützt auf die Berechnungen des Personalamtes.
-
-#### Art. 10
-
-**Rentenzahlungen**
-
-<sup>1</sup> Die Überbrückungsrente wird monatlich durch das Personalamt ausgerichtet.
-
-<sup>2</sup> Die Ausrichtung beginnt im ersten Monat nach der vorzeitigen Pensionierung und endet spätestens mit Erreichen des ordentlichen Pensionierungsalters.
-
-<sup>3</sup> Für den Monat, in dem die Rentenbezügerin oder der Rentenbezüger das ordentliche Pensionierungsalter erreicht, wird die Rente voll ausbezahlt.
-
-<sup>4</sup> Die Rente wird auf ein Konto in der Schweiz überwiesen, auch wenn der Bezüger im Ausland wohnt.
-
-#### Art. 11
-
-**Übergangsbestimmung**
-
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter mit Jahrgang 1954 und älter können eine vorzeitige Pensionierung nach dem vorliegenden Reglement oder dem Reglement über die vorverschobene Alterspensionierung für das Personal des Kantons Graubünden vom 11. September 2001 beantragen.
-
-<sup>2</sup> Das Wahlrecht nach Absatz 1 gilt auch für hängige, im Zeitpunkt des Inkrafttretens noch nicht beschlossene vorzeitige Pensionierungen.
-
-<sup>3</sup> Das Wahlrecht nach Absatz 1 gilt nicht für im Zeitpunkt des Inkrafttretens bereits beschlossene, aber noch nicht angetretene vorzeitige Pensionierungen.
-
-#### Art. 12
-
-**Aufhebung bisherigen Rechts, Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement tritt auf den 1. April 2013 in Kraft.
-
-<sup>2</sup> Es ersetzt das Reglement über die vorverschobene Alterspensionierung für das Personal des Kantons Graubünden vom 11. September 2001.
-
-**4**
-
-01.04.2013
+2021-046

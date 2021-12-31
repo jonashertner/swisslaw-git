@@ -4,162 +4,125 @@ number: "170.430"
 title: Regolamento sul pensionamento anticipato
 short: Regolamento PA
 language: it
-version: 2013-04-01
-corrected: 2014-10-26
-version_adopted: 2013-03-19
+version: 2022-01-01
+version_adopted: 2021-10-26
 adopted: 2021-10-26
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.430"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1745/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3210/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Regolamento sul pensionamento anticipato
 
-emanato dal Governo il 19 marzo 2013
+(Regolamento PA)
 
-visto l'art. 15 cpv. 3 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni (legge sul personale, LCPers)[^t-1]
+del 26.10.2021 (stato 01.01.2022)
 
-[^t-1]: CSC 170.400 1.4.2013 1
+emanato dal Governo il 26 ottobre 2021
+
+visto l'art. 15 cpv. 3 della legge sul personale[^ingress-1]
+
+[^ingress-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 1
 
-**Oggetto e campo d'applicazione**
+**Oggetto**
 
-Il presente regolamento disciplina il pensionamento anticipato completo o graduale secondo l'articolo 15 capoverso 3 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni.
+<sup>1</sup> Il presente regolamento disciplina il pensionamento anticipato e i contributi del Cantone a favore delle rendite transitorie AVS dei collaboratori dell'Amministrazione cantonale secondo l'articolo 15 capoverso 3 della legge sul personale.
 
 #### Art. 2
 
 **Principi**
 
-<sup>1</sup> I collaboratori dell'Amministrazione cantonale possono andare in pensione anticipata al più presto a partire dal compimento del 60° anno d'età.
+<sup>1</sup> I collaboratori possono beneficiare di un pensionamento anticipato integrale o parziale conformemente alle disposizioni della Cassa pensioni dei Grigioni.
 
-<sup>2</sup> Non vi è diritto alla concessione del pensionamento anticipato.
+<sup>2</sup> Un pensionamento parziale deve:
 
-<sup>3</sup> L'Amministrazione cantonale sostiene finanziariamente un pensionamento anticipato con una pensione transitoria.
+- a) avvenire in una o due fasi;
+- b) ridurre il volume di impiego di almeno il 20 per cento in ciascuna fase.
 
-<sup>4</sup> I costi correlati al versamento della pensione transitoria vanno compensati.
+<sup>3</sup> In linea di principio le rendite transitorie AVS nel quadro di pensionamenti anticipati integrali o parziali vengono finanziate dai collaboratori. Esse vengono sostenute con un contributo finanziario a favore del conto di risparmio supplementare "Rendita transitoria AVS" presso la Cassa pensioni dei Grigioni soltanto a norma dell'articolo 3, dell'articolo 4 dell'articolo 7.
 
 #### Art. 3
 
-**Presupposti**
+**Condizioni per contributi a favore di rendite transitorie AVS**
 
-<sup>1</sup> Un pensionamento anticipato presuppone il compimento del 60° anno d'età e almeno cinque anni completi di servizio.
+<sup>1</sup> I collaboratori ricevono un contributo secondo l'articolo 2 capoverso 3 se:
 
-<sup>2</sup> Il pensionamento anticipato può avvenire in una o due fasi. Il primo grado di pensionamento deve corrispondere almeno al 20 per cento di un impiego a tempo pieno.
+- a) vanno in pensione anticipata integrale o parziale con effetto alla fine del mese in cui compiono i 62 anni o più tardi;
+- b) nel periodo che precede immediatamente il pensionamento anticipato integrale o parziale hanno lavorato per almeno 10 anni presso l'Amministrazione cantonale;
+- c) complessivamente per almeno 10 anni hanno esercitato una funzione che comporta un carico fisico o psichico elevato; e se
+- d) chiedono alla Cassa pensioni dei Grigioni il versamento di una rendita transitoria AVS.
 
-<sup>3</sup> In caso di pensionamento in due fasi, il grado di impiego minimo mantenuto dopo la prima fase deve corrispondere almeno al 40 per cento di un impiego a tempo pieno.
+<sup>2</sup> I Dipartimenti e l'Ufficio del personale stabiliscono di comune intesa le funzioni secondo l'articolo 1 lettera c in cui:
+
+- a) la salute è esposta a un rischio maggiore a seguito dell'attività legata a influssi di natura fisica, chimica o biologica;
+- b) l'ambiente di lavoro è particolarmente estenuante, in particolare perché l'attività è esercitata in presenza di temperature estreme, condizioni climatiche rigide o scarsa illuminazione;
+- c) l'attività comporta carichi particolarmente elevati per l'apparato motorio, specialmente a seguito di uno sforzo fisico o di una posizione sfavorevole del corpo;
+- d) l'attività deve essere svolta in orari particolarmente costrittivi, specialmente di notte;
+- e) l'attività molto ripetitiva, monotona o emotivamente gravosa provoca un elevato carico psichico;
+- f) sussiste un elevato rischio d'infortunio.
+
+<sup>3</sup> Il Governo può concedere ai collaboratori che hanno compiuto almeno i 62 anni un contributo secondo l'articolo 2 capoverso 3 se:
+
+- a) la continuazione del rapporto di lavoro con il volume di impiego precedente e
+- b) il pensionamento anticipato integrale o parziale senza rendita transitoria AVS finanziariamente sostenuta
 
 #### Art. 4
 
-**Ammontare della pensione transitoria**
+**Ammontare dei contributi a favore di rendite transitorie AVS**
 
-<sup>1</sup> Il calcolo della pensione transitoria si basa sulla rendita semplice massima di vecchiaia AVS pari a 28 080 franchi all'anno (stato 2013). Il suo ammontare dipende dal momento del pensionamento, dal numero di anni di servizio prestati, dal volume d'impiego e dal grado di pensionamento.
+<sup>1</sup> In caso di pensionamento anticipato integrale o parziale, in riferimento alla rendita AVS massima il contributo annuo secondo l'articolo 3 capoverso 1 corrisponde a:
 
-<sup>2</sup> La pensione transitoria ammonta in caso di pensionamento nel:
+- a) dopo il compimento dei 62 anni: 50 per cento;
+- b) dopo il compimento dei 63 anni: 75 per cento.
 
-- 61° anno d'età all'80 per cento
+<sup>2</sup> Il contributo secondo il capoverso 1 si riduce:
 
-- 62° anno d'età all'80 per cento
+- a) pro rata temporis in caso di pensionamento anticipato integrale o parziale nel corso dell'anno;
+- b) in caso di pensionamento parziale in proporzione al grado di pensionamento o ai gradi di pensionamento;
+- c) in caso di volume d'impiego a tempo parziale in proporzione alla differenza tra il volume di impiego medio degli ultimi cinque anni precedenti il pensionamento anticipato integrale o parziale e un volume di impiego a tempo pieno.
 
-- 63° anno d'età al 100 per cento
-
-- 64° anno d'età al 120 per cento
-
-- 65° anno d'età al 120 per cento della rendita semplice massima di vecchiaia AVS
-
-<sup>3</sup> In caso di pensionamento anticipato in due fasi, la pensione transitoria viene calcolata separatamente secondo gli anni d'età nei quali avvengono le fasi di pensionamento.
-
-<sup>4</sup> Il versamento di una pensione transitoria intera secondo il capoverso 2 presuppone che al momento di iniziare la prima fase di pensionamento il collaboratore abbia prestato almeno nove anni di servizio. Per ogni anno di servizio mancante, la pensione transitoria viene ridotta del 20 per cento.
-
-<sup>5</sup> L'ammontare della pensione transitoria secondo il capoverso 2 si basa sul volume d'impiego medio degli ultimi cinque anni prima di iniziare la prima fase di pensionamento.
-
-<sup>6</sup> In caso di pensionamenti parziali, l'ammontare della pensione transitoria si conforma al corrispondente grado di pensionamento.
-
-<sup>7</sup> L'adeguamento dell'ammontare della rendita di vecchiaia AVS comporta un adeguamento della pensione transitoria attuale e di quella futura.
+<sup>3</sup> I contributi secondo l'articolo 3 capoverso 3 vengono stabiliti dal Governo.
 
 #### Art. 5
 
-**Coordinamento con rendite di vecchiaia AVS**
+**Obblighi di collaborazione**
 
-<sup>1</sup> Le rendite di vecchiaia AVS ordinarie delle donne (a partire da 64 anni) vengono computate per intero alla pensione transitoria, indipendentemente dal fatto se vengono effettivamente percepite o meno.
+<sup>1</sup> Rispettando il termine di disdetta, i collaboratori devono notificare al Servizio e all'Ufficio del personale se intendono beneficiare del pensionamento anticipato. Per un pensionamento anticipato parziale la notifica deve avvenire rispettando la durata doppia del termine di disdetta.
 
-<sup>2</sup> Le rendite di vecchiaia AVS delle donne e degli uomini percepite in anticipo, soggette a riduzione, non vengono computate con la pensione transitoria.
+<sup>2</sup> I collaboratori e i servizi devono accordarsi sulle modalità del pensionamento parziale secondo l'articolo 2 capoverso 2 e comunicarle all'Ufficio del personale al più tardi due mesi prima del pensionamento anticipato.
+
+<sup>3</sup> I collaboratori devono far valere contributi secondo l'articolo 3 capoverso 1 al più tardi due mesi prima del pensionamento anticipato presso l'Ufficio del personale. La domanda deve contenere la richiesta di versamento di una rendita transitoria AVS a destinazione della Cassa pensioni dei Grigioni.
+
+<sup>4</sup> I collaboratori devono far valere i contributi secondo l'articolo 3 capoverso 3 al più tardi cinque mesi prima del pensionamento anticipato presso il Dipartimento a destinazione del Governo. La richiesta deve contenere una motivazione e documenti provanti le circostanze particolari.
 
 #### Art. 6
 
-**Coordinamento con il reddito da attività lucrativa**
+**Versamento di contributi a favore di rendite transitorie AVS**
 
-<sup>1</sup> I collaboratori che dopo il pensionamento anticipato iniziano o proseguono in misura superiore al volume d'impiego precedente un'attività lucrativa dipendente o indipendente, perdono il diritto alla pensione transitoria se il reddito da attività lucrativa soggetto all'AVS supera il 125 per cento della rendita minima di vecchiaia AVS pari a 17 550 franchi all'anno (stato 2013).
-
-<sup>2</sup> I beneficiari di pensioni transitorie sono tenuti a notificare all'Ufficio del personale l'assunzione di una nuova attività lucrativa o l'aumento di un'attività lucrativa precedente, nonché il reddito conseguito con questa attività lucrativa.
+<sup>1</sup> I contributi secondo l'articolo 4 vengono versati alla Cassa pensioni dei Grigioni per il periodo in cui presumibilmente il collaboratore percepisce una rendita transitoria AVS come importo complessivo al momento del pensionamento anticipato integrale o parziale.
 
 #### Art. 7
 
-**Compensazione dei costi**
+**Disposizione transitoria per richieste presentate prima del 1° gennaio 2022**
 
-<sup>1</sup> La compensazione dei costi correlati al versamento di una pensione transitoria può avvenire in particolare tramite utili da variazioni della massa salariale e tramite mancata rioccupazione permanente o temporanea del posto.
-
-**2**
-
-1.4.2013
-
-<sup>2</sup> Il servizio deve dimostrare e garantire per ogni singolo caso che i costi per la pensione transitoria vengono compensati con dei risparmi sui costi.
-
-<sup>3</sup> I costi devono essere compensati entro tre anni dall'inizio della prima fase di pensionamento.
-
-<sup>4</sup> Se i servizi non sono in grado di compensare per intero i costi per la pensione transitoria, l'Ufficio del personale decide in merito alla possibilità di una compensazione dei costi tramite risparmi risultanti dalla totalità di tutti i pensionamenti anticipati.
-
-<sup>5</sup> L'Ufficio del personale allestisce un conteggio annuo.
+<sup>1</sup> I pensionamenti anticipati chiesti prima del 1° gennaio 2022 e in merito ai quali non è ancora stata presa una decisione vengono valutati e attuati secondo il Regolamento sul pensionamento anticipato del 19 marzo 2013, se il 1° gennaio 2022 i collaboratori hanno già compiuto 59 anni.
 
 #### Art. 8
 
-**Contributi alle assicurazioni sociali**
+**Disposizioni transitorie per richieste presentate a partire dal 1° gennaio 2022**
 
-<sup>1</sup> Conformemente all'articolo 7 lett. q dell'ordinanza federale sull'assicurazione per la vecchiaia e per i superstiti[^8-1], le pensioni transitorie sono soggette a contributi. I contributi diventano esigibili al momento in cui il collaboratore va in pensione anticipata.
+<sup>1</sup> I collaboratori che il 1° gennaio 2022 hanno già compiuto 60 anni possono chiedere un pensionamento anticipato a partire dal 63° anno d'età secondo il Regolamento sul pensionamento anticipato del 19 marzo 2013.
 
-<sup>2</sup> L'Ufficio del personale calcola i contributi per le assicurazioni sociali dovuti sul totale delle pensioni transitorie. Il collaboratore si fa carico dei propri contributi all'AVS e all'AD. Art.9
+<sup>2</sup> Ogni anno in settembre il Governo decide in merito ai pensionamenti anticipati secondo il capoverso 1 tenendo conto dell'articolo 9 capoverso 2 del Regolamento sul pensionamento anticipato del 19 marzo 2013 e della richiesta di preventivo, se necessario definendo le priorità in base al numero di anni di servizio.
 
-**Domanda e decisione**
+<sup>3</sup> In caso di pensionamenti anticipati secondo il capoverso 1, in deroga all'articolo 10 e all'articolo 4 capoverso 2 del Regolamento sul pensionamento anticipato del 19 marzo 2013, invece di una rendita transitoria i relativi contributi vengono versati alla Cassa pensioni dei Grigioni ai sensi e a norma dell'articolo 6. In caso di pensionamento questi contributi corrispondono:
 
-<sup>1</sup> I collaboratori possono chiedere un pensionamento anticipato all'autorità di assunzione. La domanda va di regola inoltrata per iscritto e per via gerarchica un anno prima del primo pensionamento previsto.
+- a) nel 63° anno di età: all'80 per cento;
+- b) nel 64° anno di età: al 100 per cento;
+- c) nel 65° anno di età: al 100 per cento;
 
-<sup>2</sup> L'autorità di assunzione decide in considerazione delle esigenze aziendali. Essa stabilisce il grado e il momento del pensionamento anticipato d'intesa con il collaboratore e fissa l'ammontare della pensione transitoria sulla base dei calcoli dell'Ufficio del personale.
-
-[^8-1]: RS 831.101 1.4.2013 3
-
-#### Art. 10
-
-**Versamento della pensione**
-
-<sup>1</sup> La pensione transitoria viene versata mensilmente dall'Ufficio del personale.
-
-<sup>2</sup> Il versamento inizia nel primo mese dopo il pensionamento anticipato e termina al più tardi con il raggiungimento dell'età di pensionamento ordinaria.
-
-<sup>3</sup> Per il mese nel quale il beneficiario della rendita raggiunge l'età di pensionamento ordinaria, la rendita viene versata per intero.
-
-<sup>4</sup> La rendita viene versata su un conto in Svizzera, anche se il beneficiario vive all'estero.
-
-#### Art. 11
-
-**Disposizione transitoria**
-
-<sup>1</sup> I collaboratori classe 1954 e più anziani possono chiedere un pensionamento anticipato secondo il presente regolamento o secondo il regolamento sul pensionamento anticipato per il personale del Cantone dei Grigioni dell'11 settembre 2001.
-
-<sup>2</sup> Il diritto di opzione secondo il capoverso 1 vale anche per pensionamenti anticipati pendenti e non ancora decisi al momento dell'entrata in vigore.
-
-<sup>3</sup> Il diritto di opzione secondo il capoverso 1 non vale per pensionamenti anticipati già decisi al momento dell'entrata in vigore, ma non ancora iniziati.
-
-#### Art. 12
-
-**Abrogazione del diritto previgente, entrata in vigore**
-
-<sup>1</sup> Il presente regolamento entra in vigore il 1° aprile 2013.
-
-<sup>2</sup> Esso sostituisce il regolamento sul pensionamento anticipato per il personale del Cantone dei Grigioni dell'11 settembre 2001.
-
-**4**
-
-1.4.2013
+2021-046
