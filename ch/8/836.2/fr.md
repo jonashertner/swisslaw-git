@@ -4,20 +4,20 @@ title: "Loi fédérale du 24 mars 2006 sur les allocations familiales et les aid
 short: LAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-51-20210101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-51-20220101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les allocations familiales et les aides financières allouées aux organisations familiales**<sup>∗</sup>**
+# Loi fédérale sur les allocations familiales et les aides financières allouées aux organisations familiales<sup></sup>
 
-(Loi sur les allocations familiales, LAFam)**[^t-2]**[^t-1]
+(Loi sur les allocations familiales, LAFam)[^t-2][^t-1]
 
-du 24 mars 2006 (Etat le 1<sup>er</sup> janvier 2021)
+du 24 mars 2006 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
@@ -127,8 +127,8 @@ Lorsque plusieurs personnes peuvent faire valoir un droit aux allocations famili
 
 <sup>2</sup> Dans le cas où les allocations familiales du premier et du second ayants droit sont régies par les dispositions de deux cantons différents, le second a droit au versement de la différence lorsque le taux minimal légal est plus élevé dans son propre canton que dans l’autre.
 
-[^7-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^7-2]: Introduite par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^7-2]: Introduite par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 8
 
@@ -154,11 +154,11 @@ Les allocations familiales sont insaisissables.
 
 ## Chapitre 3 Régimes d’allocations familiales
 
-### Section 1 Personnes exerçant une activité lucrative non agricole****
+### Section 1 Personnes exerçant une activité lucrative non agricole
 
 [^chap3-sec1-1]
 
-[^chap3-sec1-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^chap3-sec1-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 11
 
@@ -175,7 +175,7 @@ Sont assujettis à la présente loi:
 <sup>2</sup> Ont qualité de salariés ceux qui sont considérés comme tels par la législation fédérale sur l’assurance-vieillesse et survivants.
 
 [^11-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^11-2]: Introduite par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^11-2]: Introduite par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 12
 
@@ -187,8 +187,8 @@ Sont assujettis à la présente loi:
 
 <sup>3</sup> Les salariés dont l’employeur n’est pas tenu de payer des cotisations sont assujettis au régime d’allocations familiales du canton dans lequel ils sont affiliés à l’AVS.
 
-[^12-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^12-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^12-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^12-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 13
 
@@ -209,9 +209,9 @@ Le Conseil fédéral règle:
 - a. le droit aux allocations et la coordination avec les prestations versées en cas d’incapacité de travail et d’empêchement de travailler;
 - b.[^13-3] la procédure et la compétence des caisses de compensation pour allocations familiales concernant les personnes qui ont plusieurs employeurs ou qui exercent à la fois une activité salariée et une activité indépendante.
 
-[^13-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^13-2]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^13-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^13-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^13-2]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^13-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 14
 
@@ -251,8 +251,8 @@ Il incombe aux caisses de compensation pour allocations familiales, en particuli
 
 <sup>4</sup> Les cotisations des personnes exerçant une activité lucrative indépendante ne sont prélevées que sur la part de revenu qui équivaut au montant maximal du gain assuré dans l’assurance-accidents obligatoire.[^16-2]
 
-[^16-1]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^16-2]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^16-1]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^16-2]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 17
 
@@ -299,8 +299,8 @@ Les travailleurs agricoles et les agriculteurs indépendants ont droit aux alloc
 
 <sup>2</sup> Le droit aux allocations familiales n’est accordé que si le revenu imposable est égal ou inférieur à une fois et demie le montant d’une rente de vieillesse complète maximale de l’AVS et qu’aucune prestation complémentaire de l’AVS/AI n’est perçue.
 
-[^19-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^19-2]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^19-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^19-2]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 [^19-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 [^19-4]: Introduit par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -320,7 +320,7 @@ Les travailleurs agricoles et les agriculteurs indépendants ont droit aux alloc
 
 Sous réserve et en complément de la présente loi, les cantons édictent les dispositions nécessaires sur l’octroi des allocations, l’organisation du régime et son financement.
 
-## Chapitre 3*a***** Registre des allocations familiales
+## Chapitre 3*a* Registre des allocations familiales
 
 [^chap3a-1]
 
@@ -377,7 +377,7 @@ Le Conseil fédéral édicte les dispositions d’exécution en collaboration av
 - c. les mesures organisationnelles et techniques garantissant la protection et la sécurité des données;
 - d. la durée de conservation des données.
 
-## Chapitre 3*b***** Aides financières allouées aux organisations familiales
+## Chapitre 3*b* Aides financières allouées aux organisations familiales
 
 [^chap3b-1]
 
@@ -515,7 +515,7 @@ Sont applicables par analogie les dispositions de la législation sur l’AVS, y
 - e<sup>bis</sup>.[^25-4] la réduction et la remise des cotisations (art. 11 LAVS);
 - e<sup>ter</sup>.[^25-5] la perception des cotisations (art. 14 à 16 LAVS);
 - f.[^25-6] le numéro AVS (art. 50*c* LAVS);
-- g.[^25-7] l’utilisation systématique du numéro AVS (art. 50*d* LAVS).
+- g.[^25-7] l’utilisation systématique du numéro AVS (art. 153*b* à 153*i* LAVS).
 
 [^25-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-2]: Nouvelle teneur selon le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
@@ -523,7 +523,7 @@ Sont applicables par analogie les dispositions de la législation sur l’AVS, y
 [^25-4]: Introduite par le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-5]: Introduite par le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-6]: Introduite par le ch. I de la LF du 18 juin 2010, en vigueur depuis le 15 oct. 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
-[^25-7]: Introduite par le ch. I de la LF du 18 juin 2010, en vigueur depuis le 15 oct. 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^25-7]: Introduite par le ch. I de la LF du 18 juin 2010 ([RO 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5491](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Nouvelle teneur selon l’annexe ch. 35 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26
 
@@ -568,7 +568,7 @@ Les modifications du droit en vigueur figurent en annexe.
 
 Les cantons adaptent leurs régimes d’allocations familiales avant l’entrée en vigueur de la présente modification.
 
-[^28b-1]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081)[5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^28b-1]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 29
 
@@ -590,6 +590,6 @@ Annexe
 
 ## Modification du droit en vigueur
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51).

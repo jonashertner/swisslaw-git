@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 24. März 2006 über die Familienzulagen und Finanzhilf
 short: FamZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2008-51-20210101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-51-20220101-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über die Familienzulagen und Finanzhilfen an Familienorganisationen****
+# Bundesgesetz über die Familienzulagen und Finanzhilfen an Familienorganisationen
 
 (Familienzulagengesetz, FamZG)[^t-1]
 
-vom 24. März 2006 (Stand am 1. Januar 2021)
+vom 24. März 2006 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -71,7 +71,7 @@ Die Familienzulagen nach diesem Gesetz umfassen:
 [^3-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^3-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 [^3-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^3-4]: Fassung des vierten Satzes gemäss Anhang Ziff. 4 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); BBl **201****5** 877).
+[^3-4]: Fassung des vierten Satzes gemäss Anhang Ziff. 4 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 4
 
@@ -125,8 +125,8 @@ Haben mehrere Personen für das gleiche Kind Anspruch auf Familienzulagen nach e
 
 <sup>2</sup> Richten sich die Familienzulagenansprüche der erst- und der zweitanspruchsberechtigten Person nach den Familienzulagenordnungen von zwei verschiedenen Kantonen, so hat die zweitanspruchsberechtigte Person Anspruch auf den Betrag, um den der gesetzliche Mindestansatz in ihrem Kanton höher ist als im anderen.
 
-[^7-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^7-2]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^7-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^7-2]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 8
 
@@ -152,11 +152,11 @@ Die Familienzulagen sind der Zwangsvollstreckung entzogen.
 
 ## 3. Kapitel: Familienzulagenordnungen
 
-### 1. Abschnitt: Erwerbstätige in nichtlandwirtschaftlichen Berufen****
+### 1. Abschnitt: Erwerbstätige in nichtlandwirtschaftlichen Berufen
 
 [^chap3-sec1-1]
 
-[^chap3-sec1-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^chap3-sec1-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 11
 
@@ -173,7 +173,7 @@ Diesem Gesetz unterstehen:
 <sup>2</sup> Als Arbeitnehmerin oder Arbeitnehmer gilt, wer nach der Bundesgesetzgebung über die AHV als solche oder als solcher betrachtet wird.
 
 [^11-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^11-2]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^11-2]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 12
 
@@ -185,8 +185,8 @@ Diesem Gesetz unterstehen:
 
 <sup>3</sup> Arbeitnehmerinnen und Arbeitnehmer nicht beitragspflichtiger Arbeitgeber unterstehen der Familienzulagenordnung im Kanton, in dem sie für die AHV erfasst sind.
 
-[^12-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^12-2]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^12-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^12-2]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 13
 
@@ -207,8 +207,8 @@ Der Bundesrat regelt:
 - a. den Anspruch auf Familienzulagen und die Koordination mit anderen Leistungen bei Arbeitsunfähigkeit und Arbeitsverhinderung;
 - b.[^13-2] das Verfahren und die Zuständigkeit der Familienausgleichskassen für Personen, die mehrere Arbeitgeber haben, und für Personen, die gleichzeitig selbstständig und unselbstständig erwerbstätig sind.
 
-[^13-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^13-2]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^13-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^13-2]: Fassung gemäss Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 14
 
@@ -248,8 +248,8 @@ Den Familienausgleichskassen obliegen insbesondere:
 
 <sup>4</sup> Die Beiträge der Selbstständigerwerbenden werden nur auf dem Teil des Einkommens erhoben, der dem in der obligatorischen Unfallversicherung höchstens versicherten Verdienst entspricht.[^16-2]
 
-[^16-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^16-2]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^16-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^16-2]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 17
 
@@ -296,7 +296,7 @@ Die landwirtschaftlichen Arbeitnehmerinnen und Arbeitnehmer sowie die selbständ
 
 <sup>2</sup> Der Anspruch auf Familienzulagen ist an die Voraussetzung geknüpft, dass das steuerbare Einkommen den anderthalbfachen Betrag einer maximalen vollen Altersrente der AHV nicht übersteigt und keine Ergänzungsleistungen zur AHV/IV bezogen werden.
 
-[^19-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567)[4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^19-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 [^19-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 [^19-3]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -316,7 +316,7 @@ Die landwirtschaftlichen Arbeitnehmerinnen und Arbeitnehmer sowie die selbständ
 
 Unter Vorbehalt dieses Gesetzes und in Ergänzung dazu erlassen die Kantone die erforderlichen Bestimmungen betreffend die übrigen Voraussetzungen für den Bezug von Familienzulagen, die Organisation und die Finanzierung.
 
-## 3*a*. Kapitel:**** Familienzulagenregister
+## 3*a*. Kapitel: Familienzulagenregister
 
 [^chap3a-1]
 
@@ -339,7 +339,9 @@ Die Zentrale Ausgleichsstelle führt ein Familienzulagenregister, um:
 
 <sup>1</sup> Der Bundesrat bezeichnet die Stellen, denen das Familienzulagenregister durch Abrufverfahren zugänglich ist.
 
-<sup>2</sup> Öffentlich zugänglich sind die Informationen darüber, ob für ein Kind eine Familienzulage bezogen wird und welche Stelle diese ausrichtet. Für die Abfrage sind die Versichertennummer und das Geburtsdatum des Kindes anzugeben. Zur Wahrung des Kindeswohls kann der Bundesrat Ausnahmen von der öffentlichen Zugänglichkeit festlegen.
+<sup>2</sup> Öffentlich zugänglich sind die Informationen darüber, ob für ein Kind eine Familienzulage bezogen wird und welche Stelle diese ausrichtet. Für die Abfrage sind die AHV-Nummer[^21b-1] und das Geburtsdatum des Kindes anzugeben. Zur Wahrung des Kindeswohls kann der Bundesrat Ausnahmen von der öffentlichen Zugänglichkeit festlegen.
+
+[^21b-1]: Ausdruck gemäss Anhang Ziff. 35 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 21c
 
@@ -373,7 +375,7 @@ Der Bundesrat erlässt in Zusammenarbeit mit den Stellen nach Artikel 21*c* die 
 - c. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen;
 - d. die Aufbewahrungsdauer der Daten.
 
-## 3*b*. Kapitel:**** Finanzhilfen an Familienorganisationen
+## 3*b*. Kapitel: Finanzhilfen an Familienorganisationen
 
 [^chap3b-1]
 
@@ -490,7 +492,7 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^24-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^24-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^24-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ABl. L 166 vom 30.4.2004, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323).
-[^24-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (mit Anhängen); eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in SR **0.831.1****09.268.11**.
+[^24-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (mit Anhängen); eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356).
 [^24-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern.
 [^24-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern.
 [^24-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
@@ -510,8 +512,8 @@ Die Bestimmungen der AHV-Gesetzgebung mit ihren allfälligen Abweichungen vom AT
 - e. die Höhe der Verzugs- und Vergütungszinsen;
 - e<sup>bis</sup>.[^25-4] die Herabsetzung und den Erlass von Beiträgen (Art. 11 AHVG);
 - e<sup>ter</sup>.[^25-5] den Bezug der Beiträge (Art. 14–16 AHVG);
-- f.[^25-6] die Versichertennummer (Art. 50*c* AHVG);
-- g.[^25-7] die systematische Verwendung der Versichertennummer (Art. 50*d* AHVG).
+- f.[^25-6] die AHV-Nummer (Art. 50*c* AHVG);
+- g.[^25-7] die systematische Verwendung der AHV-Nummer (Art. 153*b*–153*i* AHVG).
 
 [^25-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
@@ -519,7 +521,7 @@ Die Bestimmungen der AHV-Gesetzgebung mit ihren allfälligen Abweichungen vom AT
 [^25-4]: Eingefügt durch Ziff. II 2 des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-5]: Eingefügt durch Ziff. II 2 des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-6]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010, in Kraft seit 15. Okt. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
-[^25-7]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010, in Kraft seit 15. Okt. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^25-7]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Fassung gemäss Anhang Ziff. 35 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26
 
@@ -564,7 +566,7 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 Die Kantone passen ihre Familienzulagenordnungen bis zum Inkrafttreten dieser Änderung an.
 
-[^28b-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^28b-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 29
 

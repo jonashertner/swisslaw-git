@@ -4,22 +4,22 @@ title: "Lescha federala dals 24 da mars 2006 davart ils supplements da famiglia 
 short: LSFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: rm
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-51-20210101-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-51-20220101-rm-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20220101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Lescha federala davart ils supplements da famiglia ed ils agids finanzials ad organisaziuns da famiglias****
+# Lescha federala davart ils supplements da famiglia ed ils agids finanzials ad organisaziuns da famiglias
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala[^t-1]
 
 (Lescha davart ils supplements da famiglia, LSFam)
 
-dals 24 da mars 2006 (versiun dal 1. da schaner 2021)
+dals 24 da mars 2006 (versiun dal 1. da schaner 2022)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avust 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -154,7 +154,7 @@ Ils supplements da famiglia na suttastattan betg a l’execuziun sfurzada.
 
 ## Chapitel 3 Urdens da supplements da famiglia
 
-### Partiziun 1 Persunas cun activitad da gudogn en professiuns betg agriculas****
+### Partiziun 1 Persunas cun activitad da gudogn en professiuns betg agriculas
 
 [^chap3-sec1-1]
 
@@ -318,7 +318,7 @@ Las persunas emploiadas en l’agricultura sco er ils purs cun activitad da gudo
 
 Cun resalva da questa lescha e sco cumplettaziun latiers decreteschan ils chantuns las disposiziuns necessarias davart las ulteriuras premissas per retrair supplements da famiglia, davart l’organisaziun e davart la finanziaziun.
 
-## Chapitel 3*a***** Register davart ils supplements da famiglia
+## Chapitel 3*a* Register davart ils supplements da famiglia
 
 [^chap3a-1]
 
@@ -341,7 +341,9 @@ L’uffizi central da cumpensaziun maina in register davart ils supplements da f
 
 <sup>1</sup> Il Cussegl federal designescha ils posts che han access al register davart ils supplements da famiglia cun agid d’ina procedura d’invista.
 
-<sup>2</sup> Accessiblas publicamain èn las infurmaziuns davart il fatg, sch’in supplement da famiglia vegn retratg per in uffant e davart il post che al paja. Per far la dumonda ston vegnir inditgads il numer d’assicuranza e la data da naschientscha da l’uffant. Per observar il bainstar da l’uffant po il Cussegl federal fixar excepziuns da l’accessibladad publica.
+<sup>2</sup> Accessiblas publicamain èn las infurmaziuns davart il fatg, sch’in supplement da famiglia vegn retratg per in uffant e davart il post che al paja. Per far la dumonda ston vegnir inditgads il numer da la AVS[^21b-1] e la data da naschientscha da l’uffant. Per observar il bainstar da l’uffant po il Cussegl federal fixar excepziuns da l’accessibladad publica.
+
+[^21b-1]: Expressiun tenor la cifra 35 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
 
 #### Art. 21c
 
@@ -375,7 +377,7 @@ En collavuraziun cun ils posts tenor l’artitgel 21*c* decretescha il Cussegl f
 - c. las mesiras organisatoricas e tecnicas ch’èn necessarias per garantir la protecziun da las datas e la segirezza da las datas;
 - d. la durada da la conservaziun da las datas.
 
-## Chapitel 3*b***** Agids finanzials ad organisaziuns da famiglias
+## Chapitel 3*b* Agids finanzials ad organisaziuns da famiglias
 
 [^chap3b-1]
 
@@ -512,15 +514,15 @@ Las disposiziuns da la legislaziun davart la AVS cun lur eventualas divergenzas 
 - e. l’autezza dals tschains da retard e da bunificaziun;
 - e<sup>bis</sup>.[^25-3] la reducziun ed il relasch da contribuziuns (art. 11 LAVS);
 - e<sup>ter</sup>.[^25-4] la retratga da las contribuziuns (art. 14–16 LAVS);
-- f.[^25-5] il numer d’assicuranza (art. 50*c* LAVS);
-- g.[^25-6] l’applicaziun sistematica dal numer d’assicuranza (art. 50*d* LAVS).
+- f.[^25-5] il numer da la AVS (art. 50*c* LAVS);
+- g.[^25-6] l’applicaziun sistematica dal numer da la AVS (art. 153*b*–153*i* LAVS).
 
 [^25-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^25-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843).Guardar actualmain: art. 49*b*.
+[^25-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843). Guardar actualmain: art. 49*b*.
 [^25-3]: Integrà tras la cifra II 2 da la LF dals 17 da mars 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-4]: Integrà tras la cifra II 2 da la LF dals 17 da mars 2017, en vigur dapi il 1. da schan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-5]: Integrà tras la cifra I da la LF dals 18 da zer. 2010, en vigur dapi ils 15 d’oct. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
-[^25-6]: Integrà tras la cifra I da la LF dals 18 da zer. 2010, en vigur dapi ils 15 d’oct. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^25-5]: Integrà tras la cifra I da la LF dals 18 da zer. 2010, en vigur dapi ils 15. d’oct. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^25-6]: Integrà tras la cifra I da la LF dals 18 da zer. 2010 ([AS 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [BBl 2009 6101](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Versiun tenor la cifra 35 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26
 
@@ -591,4 +593,4 @@ Las leschas federalas qua sutvart vegnan midadas sco suonda:
 
 ...[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Las midadas pon vegnir consultadas en la [AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51)..
+[^annexu1-lvlu1-1]: Las midadas pon vegnir consultadas en la [AS 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51).
