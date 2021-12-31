@@ -4,11 +4,11 @@ title: Verordnung vom 22. März 2017 über das elektronische Patientendossier (E
 short: EPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: de
-version: 2019-04-01
+version: 2022-01-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20190401/de/xml/fedlex-data-admin-ch-eli-cc-2017-204-20190401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20190401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-204-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20190401/de"
 
 (EPDV)
 
-vom 22. März 2017 (Stand am 1. April 2019)
+vom 22. März 2017 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -99,11 +99,11 @@ Die Stammgemeinschaft stellt der ZAS folgende Daten für die Vergabe der Patient
 - b. die Vornamen;
 - c. das Geschlecht;
 - d. das Geburtsdatum;
-- e. die Versichertennummer nach Artikel 50*c* des Bundesgesetzes vom 20. Dezember 1946[^6-1] über die Alters- und Hinterlassenenversicherung.
+- e.[^6-1] die AHV-Nummer.
 
 <sup>3</sup> Reichen die zur Verfügung gestellten Daten für die Vergabe nicht aus, so kann die ZAS bei der Stammgemeinschaft zusätzliche Daten verlangen.
 
-[^6-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6-1]: Fassung gemäss Anhang Ziff. II 32 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 
@@ -559,7 +559,7 @@ Gemeinschaften und Stammgemeinschaften tragen im Dienst zur Abfrage der Gesundhe
 
   - 1\. die Bezeichnung und die Adresse,
   - 2\. den OID,
-  - 3\.[^41-1] ...
+  - 3\.[^41-1] …
 
 - b.
 

@@ -4,11 +4,11 @@ title: Ordinanza del 22 marzo 2017 sulla cartella informatizzata del paziente (O
 short: OCIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: it
-version: 2019-04-01
+version: 2022-01-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20190401/it/xml/fedlex-data-admin-ch-eli-cc-2017-204-20190401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20190401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-204-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20190401/it"
 
 (OCIP)
 
-del 22 marzo 2017 (Stato 1° aprile 2019) (Stato 1° aprile 2019)
+del 22 marzo 2017 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -99,11 +99,11 @@ La comunità di riferimento comunica all’UCC i seguenti dati per l’attribuzi
 - b. nomi;
 - c. sesso;
 - d. data di nascita;
-- e. numero d’assicurato secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^6-1] su l’assicurazione per la vecchiaia e per i superstiti.
+- e.[^6-1] numero AVS.
 
 <sup>3</sup> Se i dati comunicati non sono sufficienti per l’attribuzione, l’UCC può richiedere dati aggiuntivi alla comunità di riferimento.
 
-[^6-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6-1]: Nuovo testo giusta l’all. n. II 32 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 

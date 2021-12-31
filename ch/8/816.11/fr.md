@@ -4,11 +4,11 @@ title: Ordonnance du 22 mars 2017 sur le dossier électronique du patient (ODEP)
 short: ODEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: fr
-version: 2019-04-01
+version: 2022-01-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20190401/fr/xml/fedlex-data-admin-ch-eli-cc-2017-204-20190401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20190401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-204-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20190401/fr"
 
 (ODEP)
 
-du 22 mars 2017 (Etat le 1<sup>er</sup> avril 2019)
+du 22 mars 2017 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -99,11 +99,11 @@ Le patient peut:
 - b. prénoms;
 - c. sexe;
 - d. date de naissance;
-- e. numéro d’assuré au sens de l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^6-1].
+- e.[^6-1] numéro AVS.
 
 <sup>3</sup> Si les données communiquées ne sont pas suffisantes pour attribuer un numéro d’identification, la CdC peut demander des données complémentaires à la communauté de référence.
 
-[^6-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^6-1]: Nouvelle teneur selon l’annexe ch. II 32 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
 
