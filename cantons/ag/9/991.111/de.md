@@ -4,13 +4,13 @@ number: "991.111"
 title: Verordnung über den Vollzug des Strassenverkehrsrechtes
 short: "Strassenverkehrsverordnung, SVV"
 language: de
-version: 2017-05-01
-valid_until: 2021-12-31
-version_adopted: 2017-03-15
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2021-11-10
 adopted: 1984-11-12
 in_force: 1985-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/991.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2392/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2392/pdf_file"
 
 (Strassenverkehrsverordnung, SVV)
 
-Vom 12.11.1984 (Stand 01.05.2017)
+Vom 12.11.1984 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -122,8 +122,13 @@ beschliesst:
 - a) die in die kantonale Zuständigkeit fallenden Verkehrsanordnungen, Signalisationen, inklusive sämtlicher Wegweisungen und Markierungen auf Kantonsstrassen gemäss § 1 des Gesetzes über den Vollzug des Strassenverkehrsrechtes[^6-1];
 - b) die Zustimmung zu Strassenreklamen im Sinne von § 3 Abs. 3 GVS;
 - c) die Aufsicht über Verkehrsanordnungen, Signalisationen, Markierungen und Strassenreklamen auf Gemeindestrassen und privaten Strassen;
-- d) die Anschaffung, das Aufstellen, den Unterhalt und die Erneuerung der Signale und Markierungen auf Kantonsstrassen;
+- d) die Anschaffung, das Aufstellen, den Betrieb und die Erneuerung der Signale und Markierungen auf Kantonsstrassen;
 - e) die Bewilligung zum Aufbruch von Kantonsstrassen und zur Ablage von Materialien.
+
+<sup>2</sup> In Abweichung von Absatz 1 lit. d obliegt den Gemeinden
+
+- a) die Anschaffung, das Aufstellen, der Betrieb und die Erneuerung von Wegweisungen von Gemeinden und Privaten sowie von taktilen Markierungen;
+- b) der Unterhalt und der Betrieb der Signalisationen und Markierungen von Gehwegen innerorts sowie von Personenüber- und -unterführungen.
 
 [^6-1]: SAR [991.100](https://gesetzessammlungen.ag.ch/data/991.100/de)
 
