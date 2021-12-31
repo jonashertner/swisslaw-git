@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2021-03-01
+version: 2022-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (Etat le 1<sup>er</sup> mars 2021)
+du 27 novembre 2009 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -603,14 +603,14 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 - l. les logopédistes-orthophonistes;
 - m. les diététiciens;
 - n. les pédicures-podologues;
-- o.[^35-3] les personnes qui sont habilitées à réaliser des analyses pour le SARS-CoV-2 conformément à l’ordonnance 3 COVID-19 du 19 juin 2020[^35-4], pour la réalisation de ces analyses;
+- o.[^35-3] les personnes qui sont habilitées à réaliser des analyses pour le SARS-CoV-2 conformément à l’ordonnance 3 COVID-19 du 19 juin 20201[^35-4], pour la réalisation de ces analyses;
 - p.[^35-5] les pharmaciens pour la réalisation des vaccinations contre le COVID-19.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introduite par le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. II 1 de l’O du 12 mars 2021, en vigueur du 28 janv. au 31 déc. 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891)).
 [^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Erratum du 1<sup>er</sup> mars. 2021, ne concerne que le texte italien ([RO 2021 122](https://fedlex.data.admin.ch/eli/oc/2021/122)).
+[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
 
 #### Art. 36
 
@@ -1851,7 +1851,9 @@ Doivent ressortir du calcul des coûts:
 
 <sup>3</sup> Les éléments du coût comme les frais généraux, le bénéfice, les frais de transport, qui ne peuvent pas être attribués en totalité à une prestation précise, doivent être répartis proportionnellement à la valeur de chaque prestation.
 
-<sup>4</sup> L’Administration fédérale des douanes (AFD) peut demander des documents supplémentaires pour vérifier le calcul des coûts.
+<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^112-1] peut demander des documents supplémentaires pour vérifier le calcul des coûts.
+
+[^112-1]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> janvier 2022 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 113
 
@@ -1875,11 +1877,11 @@ Sont franches d’impôt les importations de:
 
 #### Art. 114
 
-**Sûreté en cas de paiement par la procédure centralisée de décompte de l’AFD**
+**Sûreté en cas de paiement par la procédure centralisée de décompte de l’OFDF**
 
 ### (art. 56, al. 3, LTVA)
 
-Si l’impôt est payé en procédure centralisée de décompte (PCD), l’AFD peut exiger une sûreté forfaitaire sur la base de son appréciation du risque. Celle-ci se calcule comme suit:
+Si l’impôt est payé en procédure centralisée de décompte (PCD), l’OFDF peut exiger une sûreté forfaitaire sur la base de son appréciation du risque. Celle-ci se calcule comme suit:
 
 - a. 20 % au moins de l’impôt accumulé durant une période de 60 jours, si l’importateur est immatriculé en tant qu’assujetti auprès de l’AFC et si les conditions de la PCD sont observées;
 - b. 100 % de l’impôt accumulé durant une période de 60 jours, si l’importateur n’est pas immatriculé en tant qu’assujetti auprès de l’AFC ou si les conditions de la PCD ne sont pas observées.
@@ -1920,7 +1922,7 @@ L’annonce d’une adaptation ultérieure des contre-prestations doit contenir 
 
 <sup>2</sup> Pour déterminer l’adaptation des contre-prestations, les prix ou les valeurs en monnaie étrangère doivent être convertis en francs suisses en fonction du cours moyen des devises (vente) pour la période.
 
-<sup>3</sup> L’AFD peut demander d’autres documents pour déterminer la dette d’impôt sur les importations.
+<sup>3</sup> L’OFDF peut demander d’autres documents pour déterminer la dette d’impôt sur les importations.
 
 ### Chapitre 3 Report du paiement de l’impôt
 
@@ -1932,11 +1934,11 @@ L’annonce d’une adaptation ultérieure des contre-prestations doit contenir 
 
 <sup>1</sup> Quiconque désire acquitter l’impôt dans le cadre de la procédure de report du paiement de l’impôt doit être en possession d’une autorisation de l’AFC.
 
-<sup>2</sup> L’AFD prélève l’impôt s’il est douteux que les conditions du report du paiement de l’impôt sur les importations sont remplies.
+<sup>2</sup> L’OFDF prélève l’impôt s’il est douteux que les conditions du report du paiement de l’impôt sur les importations sont remplies.
 
 <sup>3</sup> La prescription de la dette d’impôt sur les importations reportée est régie par l’art. 42 LTVA.
 
-<sup>4</sup> L’AFC règle l’exécution après entente avec l’AFD.
+<sup>4</sup> L’AFC règle l’exécution après entente avec l’OFDF.
 
 #### Art. 118
 
@@ -1951,7 +1953,7 @@ L’autorisation est délivrée si l’assujetti:
 - a. établit ses décomptes selon la méthode effective;
 - b. importe et exporte régulièrement des biens dans le cadre de son activité entrepreneuriale;
 - c. tient pour ces biens un contrôle détaillé des importations, du stock et des exportations;
-- d.[^118-1] présente régulièrement, dans les décomptes d’impôt périodiques remis à l’AFC, des excédents d’impôt préalable dépassant 10 000 francs par an provenant d’importations et d’exportations de biens au sens de la let. b et qui résultent du paiement de l’impôt sur les importations à l’AFD, et
+- d.[^118-1] présente régulièrement, dans les décomptes d’impôt périodiques remis à l’AFC, des excédents d’impôt préalable dépassant 10 000 francs par an provenant d’importations et d’exportations de biens au sens de la let. b et qui résultent du paiement de l’impôt sur les importations à l’OFDF, et
 - e. offre toutes les garanties quant au bon déroulement de la procédure.
 
 <sup>2</sup> L’octroi ou le maintien de l’autorisation peut être subordonné à la fourniture de sûretés à concurrence des prétentions présumées.
@@ -2226,19 +2228,20 @@ L’AFC est responsable de la sécurité de l’exploitation et de la maintenanc
 
 Les données pouvant être traitées par l’AFC, en vertu de l’art. 76*a*, al. 3, LTVA, sont les suivantes:
 
-- a. indications concernant l’identité de personnes: en particulier nom, forme juridique, inscription au registre du commerce, date de naissance ou de fondation, adresse, domicile et siège social, numéros de télécommunication, adresse électronique, lieu d’origine, relations bancaires, représentant légal et numéro d’assuré AVS;
+- a. indications concernant l’identité de personnes: en particulier nom, forme juridique, inscription au registre du commerce, date de naissance ou de fondation, adresse, domicile et siège social, numéros de télécommunication, adresse électronique, lieu d’origine, relations bancaires, représentant légal et numéro AVS[^134-2];
 - b. indications concernant les activités économiques: genre d’activité commerciale, chiffres d’affaires réalisés ou prévisibles, date d’inscription et de radiation, lieu d’exécution de la prestation et indications nécessaires à la perception de la TVA sur l’acheminement, l’importation et l’exportation de marchandises;
 - c. indications concernant les revenus et l’état de la fortune: en particulier les indications tirées de livres comptables, liées à la situation économique de l’entreprise, concernant les immeubles, les liquidités, les comptes postaux et bancaires, les titres et autres valeurs mobilières, ainsi que les successions non partagées;
 - d. indications concernant la situation fiscale: décomptes fiscaux;
 - e. indications concernant l’état des dettes et les cessions de créances: durée et étendue des cessions de créances et montant des créances imposables cédées;
 - f. indications concernant les procédures de poursuite, de faillite et de séquestre: procédure de poursuite, procédure de faillite, procédure concordataire et procédure de séquestre, procédures judiciaires et extrajudiciaires visant au recouvrement des créances;
 - g. indications sur le respect des obligations émanant du droit fiscal: respect des obligations de collaborer émanant du droit fiscal, versement dans les délais des montants dus, respect des obligations de tenir les livres comptables, constatations faites dans le cadre d’un contrôle et indications servant à garantir le recouvrement des impôts dus par l’assujetti et par les personnes solidairement responsables;
-- h. indications concernant des soupçons d’infractions, des infractions, des objets et des moyens de preuve saisis et des procédures pénales: soupçons fondés d’infractions, objets et moyens de preuve saisis, infractions et sanctions qui en résultent ainsi que perceptions subséquentes au sens de l’art. 12 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^134-2];
+- h. indications concernant des soupçons d’infractions, des infractions, des objets et des moyens de preuve saisis et des procédures pénales: soupçons fondés d’infractions, objets et moyens de preuve saisis, infractions et sanctions qui en résultent ainsi que perceptions subséquentes au sens de l’art. 12 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^134-3];
 - i. indications relatives à des procédures administratives: données concernant les procédures administratives et judiciaires en matière fiscale qui sont nécessaires pour l’établissement de notifications d’estimation et pour l’examen de prétentions au remboursement et de demandes en remise d’impôt;
 - j. indications relatives à des procédures d’assistance administrative ou d’entraide judiciaire: autorité requérante, date, objet de la requête, personnes concernées, déroulement de la procédure et genre de mesures.
 
 [^134-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^134-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^134-2]: Nouvelle expression selon l’annexe ch. II 24 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^134-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 135
 
@@ -2267,11 +2270,11 @@ L’AFC peut donner à l’Office fédéral de la statistique (OFS) un accès en
 
 #### Art. 136
 
-**Communication de données à l*’*AFD**[^136-1]
+**Communication de données à l*’*OFDF**[^136-1]
 
 ### (art. 76*b*, al. 2, LTVA)
 
-L*’*AFC ouvre aux personnes chargées de la perception et du recouvrement de la taxe sur la valeur ajoutée au sein de l*’*AFD un accès en ligne aux données visées à l*’*art. 134, dans la mesure où celles-ci sont nécessaires à la taxation correcte et complète de l*’*impôt sur les importations ou à l*’*exécution de procédures pénales ou administratives.
+L*’*AFC ouvre aux personnes chargées de la perception et du recouvrement de la taxe sur la valeur ajoutée au sein de l*’*OFDF un accès en ligne aux données visées à l*’*art. 134, dans la mesure où celles-ci sont nécessaires à la taxation correcte et complète de l*’*impôt sur les importations ou à l*’*exécution de procédures pénales ou administratives.
 
 [^136-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
@@ -2401,7 +2404,7 @@ L’exonération de l’impôt n’est applicable qu’aux livraisons et aux pre
 
 <sup>3</sup> L’exonération de l’impôt visée à l’art. 144, al. 1, let. a, peut être accordée uniquement si le prix d’acquisition effectif des prestations mentionnées dans la facture ou dans un document équivalent s’élève au total à 100 francs au moins, impôt inclus. Ce montant minimum ne s’applique ni aux prestations de services en matière d’informatique et de télécommunications au sens de l’art. 10, ni aux livraisons d’eau amenée par des conduites, ni aux livraisons de gaz et d’électricité par des entreprises de distribution.
 
-<sup>4</sup> Les conditions prévues aux al. 1 à 3 pour faire valoir une exonération de l’impôt ne s’appliquent pas aux acquisitions de carburant pour lesquelles un bénéficiaire institutionnel ou une personne bénéficiaire peut faire valoir l’exonération de l’impôt sur les huiles minérales en vertu des art. 26 à 28 de l’ordonnance du 20 novembre 1996 sur l’imposition des huiles minérales[^145-1], des art. 30 et 31 de l’ordonnance du 23 août 1989 concernant les privilèges douaniers des missions diplomatiques à Berne et des postes consulaires en Suisse[^145-2], ainsi que des art. 28 et 29 de l’ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations internationales, des États dans leurs relations avec ces organisations et des Missions spéciales d’États étrangers[^145-3]. Dans ce cas, le fournisseur de la prestation doit pouvoir prouver que l’AFD n’a pas perçu l’impôt sur les huiles minérales ou qu’elle le lui a remboursé.
+<sup>4</sup> Les conditions prévues aux al. 1 à 3 pour faire valoir une exonération de l’impôt ne s’appliquent pas aux acquisitions de carburant pour lesquelles un bénéficiaire institutionnel ou une personne bénéficiaire peut faire valoir l’exonération de l’impôt sur les huiles minérales en vertu des art. 26 à 28 de l’ordonnance du 20 novembre 1996 sur l’imposition des huiles minérales[^145-1], des art. 30 et 31 de l’ordonnance du 23 août 1989 concernant les privilèges douaniers des missions diplomatiques à Berne et des postes consulaires en Suisse[^145-2], ainsi que des art. 28 et 29 de l’ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations internationales, des États dans leurs relations avec ces organisations et des Missions spéciales d’États étrangers[^145-3]. Dans ce cas, le fournisseur de la prestation doit pouvoir prouver que l’OFDF n’a pas perçu l’impôt sur les huiles minérales ou qu’elle le lui a remboursé.
 
 [^145-1]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
 [^145-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
@@ -2535,7 +2538,7 @@ La réciprocité est réputée garantie si:
 
 ### (art. 107, al. 1, let. b, LTVA)
 
-<sup>1</sup> La demande de remboursement de l’impôt doit être adressée à l’AFC avec les factures originales du fournisseur des prestations ou avec les décisions de taxation de l’AFD. Les factures originales doivent remplir les conditions mentionnées à l’art. 26, al. 2, LTVA et être établies au nom du requérant.
+<sup>1</sup> La demande de remboursement de l’impôt doit être adressée à l’AFC avec les factures originales du fournisseur des prestations ou avec les décisions de taxation de l’OFDF. Les factures originales doivent remplir les conditions mentionnées à l’art. 26, al. 2, LTVA et être établies au nom du requérant.
 
 <sup>2</sup> La formule de l’AFC doit être utilisée pour le dépôt de la demande.
 

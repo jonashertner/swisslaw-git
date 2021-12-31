@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2021-03-01
+version: 2022-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 1. März 2021)
+vom 27. November 2009 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -57,7 +57,7 @@ Schweizerische Hochseeschiffe gelten nicht als schweizerisches Staatsgebiet im S
 
 [^3-1]
 
-<sup>1</sup> ...[^3-2]
+<sup>1</sup> …[^3-2]
 
 <sup>2</sup> Wird die Einfuhr aufgrund der Unterstellungserklärung im eigenen Namen vorgenommen, so gelten bei Reihengeschäften die vorangehenden Lieferungen als im Ausland und die nachfolgenden als im Inland ausgeführt.
 
@@ -286,7 +286,7 @@ Als unternehmerisch und damit steuerbar gelten Leistungen eines Gemeinwesens, di
 - 3\. Beförderung von Gegenständen und Personen;
 - 4\. Dienstleistungen in Häfen und auf Flughäfen;
 - 5\. Lieferung von zum Verkauf bestimmten neuen Fertigwaren;
-- 6\.[^14-2] ...
+- 6\.[^14-2] …
 - 7\. Veranstaltung von Messen und Ausstellungen mit gewerblichem Charakter;
 - 8\. Betrieb von Sportanlagen wie Badeanstalten und Kunsteisbahnen;
 - 9\. Lagerhaltung;
@@ -325,7 +325,7 @@ Eine einheitliche Leitung liegt vor, wenn durch Stimmenmehrheit, Vertrag oder au
 
 <sup>2</sup> Versicherungsvertreter und Versicherungsvertreterinnen können Mitglieder einer Gruppe sein.
 
-<sup>3</sup> ...[^16-1]
+<sup>3</sup> …[^16-1]
 
 [^16-1]: Aufgehoben durch Ziff. I der V vom 12. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 3847](https://fedlex.data.admin.ch/eli/oc/2014/659)).
 
@@ -590,9 +590,9 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - p.[^35-4] Apotheker und Apothekerinnen für die Durchführung von Covid-19-Impfungen.
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. II 1 der V vom 12. März 2021, in Kraft vom 28. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Die Berichtigung vom 1. März 2021 betrifft nur den italienischen Text ([AS 2021 122](https://fedlex.data.admin.ch/eli/oc/2021/122)).
+[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
 
 #### Art. 36
 
@@ -600,7 +600,7 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 
 ### (Art. 21 Abs. 2 Ziff. 14 und 16 MWSTG)
 
-<sup>1</sup> ...[^36-1]
+<sup>1</sup> …[^36-1]
 
 <sup>2</sup> Als Urheber und Urheberinnen im Sinn von Artikel 21 Absatz 2 Ziffer 16 MWSTG gelten Urheber und Urheberinnen von Werken nach den Artikeln 2 und 3 URG, soweit sie kulturelle Dienstleistungen und Lieferungen erbringen.
 
@@ -1585,7 +1585,7 @@ Wird ein unbeweglicher Gegenstand nicht mehr im Rahmen der unternehmerischen Tä
 
 Leistungen an eng verbundene Personen sind, unter Vorbehalt von Artikel 93, bei der Abrechnung mit Saldosteuersätzen wie folgt zu behandeln:
 
-- a. und b.[^94-2] ...
+- a. und b.[^94-2] …
 - c.[^94-3] Gegenstände und Dienstleistungen sind zum bezahlten Entgelt, mindestens aber zum Wert, der unter unabhängigen Dritten vereinbart würde, mit dem bewilligten Saldosteuersatz abzurechnen.
 - d. Wird mit zwei Saldosteuersätzen abgerechnet und kann die Leistung nicht einer Tätigkeit zugeordnet werden, so kommt der höhere Satz zur Anwendung.
 
@@ -1836,7 +1836,9 @@ Aus der Kostenkalkulation müssen ersichtlich sein:
 
 <sup>3</sup> Kostenbestandteile, die den einzelnen Leistungen nicht vollständig zugeordnet werden können, wie Gemeinkosten, Gewinn oder Beförderungskosten, sind wertanteilig auf die einzelnen Leistungen aufzuteilen.
 
-<sup>4</sup> Die Eidgenössische Zollverwaltung (EZV) kann im Einzelfall zur Überprüfung der Kalkulation weitere Unterlagen einfordern.
+<sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^112-1] kann im Einzelfall zur Überprüfung der Kalkulation weitere Unterlagen einfordern.
+
+[^112-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)) auf den 1. Jan. 2022 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 113
 
@@ -1860,11 +1862,11 @@ Von der Einfuhrsteuer sind befreit:
 
 #### Art. 114
 
-**Sicherheit bei Bezahlung der Steuer über das zentralisierte Abrechnungsverfahren der EZV**
+**Sicherheit bei Bezahlung der Steuer über das zentralisierte Abrechnungsverfahren des BAZG**
 
 ### (Art. 56 Abs. 3 MWSTG)
 
-Wird die Steuer über das zentralisierte Abrechnungsverfahren (ZAZ) bezahlt, so kann die EZV aufgrund ihrer Risikobeurteilung eine pauschale Sicherheit verlangen. Diese berechnet sich wie folgt:
+Wird die Steuer über das zentralisierte Abrechnungsverfahren (ZAZ) bezahlt, so kann das BAZG aufgrund seiner Risikobeurteilung eine pauschale Sicherheit verlangen. Diese berechnet sich wie folgt:
 
 - a. mindestens 20 Prozent der innerhalb einer Periode von 60 Tagen aufgelaufenen Steuer, sofern der Importeur oder die Importeurin bei der ESTV als steuerpflichtige Person eingetragen ist und die Bedingungen des ZAZ eingehalten werden;
 - b. 100 Prozent der innerhalb einer Periode von 60 Tagen aufgelaufenen Steuer, sofern der Importeur oder die Importeurin bei der ESTV nicht als steuerpflichtige Person eingetragen ist oder die Bedingungen des ZAZ nicht eingehalten werden.
@@ -1905,7 +1907,7 @@ Die Meldung einer nachträglichen Anpassung der Entgelte muss folgende Informati
 
 <sup>2</sup> Für die Ermittlung der Entgeltsanpassung herangezogene Preis- oder Wertangaben in ausländischer Währung sind nach dem durchschnittlichen Devisenkurs (Verkauf) der Periode in Schweizerfranken umzurechnen.
 
-<sup>3</sup> Die EZV kann im Einzelfall zur Bestimmung der Einfuhrsteuerschuld weitere Unterlagen einfordern.
+<sup>3</sup> Das BAZG kann im Einzelfall zur Bestimmung der Einfuhrsteuerschuld weitere Unterlagen einfordern.
 
 ### 3. Kapitel: Verlagerung der Steuerentrichtung
 
@@ -1917,11 +1919,11 @@ Die Meldung einer nachträglichen Anpassung der Entgelte muss folgende Informati
 
 <sup>1</sup> Wer Steuern im Verlagerungsverfahren entrichten will, bedarf einer Bewilligung der ESTV.
 
-<sup>2</sup> Bestehen Zweifel darüber, ob die Voraussetzungen für die Verlagerung der Einfuhrsteuer erfüllt sind, so erhebt die EZV die Steuer.
+<sup>2</sup> Bestehen Zweifel darüber, ob die Voraussetzungen für die Verlagerung der Einfuhrsteuer erfüllt sind, so erhebt das BAZG die Steuer.
 
 <sup>3</sup> Die Verjährung der verlagerten Einfuhrsteuerschuld richtet sich nach Artikel 42 MWSTG.
 
-<sup>4</sup> Die ESTV regelt den Vollzug im Einvernehmen mit der EZV.
+<sup>4</sup> Die ESTV regelt den Vollzug im Einvernehmen mit dem BAZG.
 
 #### Art. 118
 
@@ -1936,7 +1938,7 @@ Die Bewilligung wird erteilt, wenn die steuerpflichtige Person:
 - a. die Mehrwertsteuer nach der effektiven Methode abrechnet;
 - b. im Rahmen ihrer unternehmerischen Tätigkeit regelmässig Gegenstände importiert und exportiert;
 - c. über diese Gegenstände eine detaillierte Einfuhr-, Lager- und Ausfuhrkontrolle führt;
-- d.[^118-1] in ihren periodischen Steuerabrechnungen mit der ESTV regelmässig Vorsteuerüberschüsse aus Ein- und Ausfuhren von Gegenständen nach Buchstabe b von mehr als 10 000 Franken pro Jahr ausweist, die aus der Entrichtung der Einfuhrsteuer an die EZV herrühren; und
+- d.[^118-1] in ihren periodischen Steuerabrechnungen mit der ESTV regelmässig Vorsteuerüberschüsse aus Ein- und Ausfuhren von Gegenständen nach Buchstabe b von mehr als 10 000 Franken pro Jahr ausweist, die aus der Entrichtung der Einfuhrsteuer an das BAZG herrühren; und
 - e. Gewähr bietet für einen ordnungsgemässen Ablauf des Verfahrens.
 
 <sup>2</sup> Die Erteilung oder Aufrechterhaltung der Bewilligung kann von der Leistung von Sicherheiten in Höhe der mutmasslichen Ansprüche abhängig gemacht werden.
@@ -2185,7 +2187,7 @@ Die Auskunftspflicht von Drittpersonen nach Artikel 73 Absatz 2 Buchstabe c MWST
 
 <sup>2</sup> Die ESTV kann Daten, die sie selbst erhebt oder zusammenstellt oder von Verfahrensbeteiligten, Drittpersonen oder Behörden erhält, in elektronischer oder anderer Form bearbeiten.[^132-2]
 
-<sup>3</sup> ...[^132-3]
+<sup>3</sup> …[^132-3]
 
 [^132-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^132-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
@@ -2209,19 +2211,20 @@ Die ESTV ist verantwortlich für den sicheren Betrieb und den Unterhalt des Info
 
 Die Daten, welche die ESTV nach Artikel 76*a* Absatz 3 MWSTG bearbeiten kann, sind die folgenden:
 
-- a. Angaben über die Identität von Personen: insbesondere Namen, Rechtsform, Handelsregistereintrag, Geburtsdatum oder Gründungszeitpunkt, Adresse, Wohn- und Geschäftssitz, Telekommunikationsnummern, E-Mail-Adresse, Heimatort, Bankverbindung, rechtlicher Vertreter oder rechtliche Vertreterin, AHV-Versichertennummer;
+- a. Angaben über die Identität von Personen: insbesondere Namen, Rechtsform, Handelsregistereintrag, Geburtsdatum oder Gründungszeitpunkt, Adresse, Wohn- und Geschäftssitz, Telekommunikationsnummern, E-Mail-Adresse, Heimatort, Bankverbindung, rechtlicher Vertreter oder rechtliche Vertreterin, AHV-Nummer[^134-2];
 - b. Angaben über die wirtschaftlichen Tätigkeiten: Art der Geschäftstätigkeit, erzielte oder voraussichtliche Umsätze, Eintragungs- und Löschungszeitpunkt, Ort der Leistungserbringung sowie für die Erhebung der Mehrwertsteuer erforderliche Angaben über das Verbringen sowie die Ein- und Ausfuhr von Waren;
 - c. Angaben über die Einkommens- und Vermögensverhältnisse: insbesondere Angaben aus Geschäftsbüchern, betriebswirtschaftliche Zahlen, Liegenschaften, Barschaft, Post- und Bankkonten, Wertpapiere und sonstige bewegliche Wertsachen sowie unverteilte Erbschaften;
 - d. Angaben über die Steuerverhältnisse: Steuerabrechnungen;
 - e. Angaben über Schuldverhältnisse und Forderungszessionen: Dauer und Umfang von Forderungszessionen, Höhe steuerbarer zedierter Forderungen;
 - f. Angaben über Betreibungs-, Konkurs- und Arrestverfahren: Betreibungs-, Konkurs-, Nachlass- und Arrestverfahren, gerichtliche und aussergerichtliche auf den Bezug von Forderungen gerichtete Handlungen;
 - g. Angaben über die Befolgung von steuerrechtlichen Pflichten: Befolgung steuerrechtlicher Mitwirkungspflichten, fristgerechte Entrichtung geschuldeter Abgaben, Buchführungspflichten, Feststellungen, die im Rahmen einer Kontrolle gemacht wurden, sowie Angaben, die für das Sicherstellen des Bezugs der geschuldeten Steuern bei den steuerpflichtigen und mithaftenden Personen benötigt werden;
-- h. Angaben über den Verdacht auf Widerhandlungen, über Straftaten, beschlagnahmte Gegenstände und Beweismittel sowie über Strafverfahren: begründeter Verdacht auf Widerhandlungen, beschlagnahmte Gegenstände und Beweismittel, Straftaten sowie die daraus resultierenden Sanktionen und Nachforderungen nach Artikel 12 des Bundesgesetzes vom 22. März 1974[^134-2] über das Verwaltungsstrafrecht;
+- h. Angaben über den Verdacht auf Widerhandlungen, über Straftaten, beschlagnahmte Gegenstände und Beweismittel sowie über Strafverfahren: begründeter Verdacht auf Widerhandlungen, beschlagnahmte Gegenstände und Beweismittel, Straftaten sowie die daraus resultierenden Sanktionen und Nachforderungen nach Artikel 12 des Bundesgesetzes vom 22. März 1974[^134-3] über das Verwaltungsstrafrecht;
 - i. Angaben über Administrativverfahren: Daten über Verwaltungs- und Steuerjustizverfahren, die für das Ausstellen von Einschätzungsmitteilungen sowie für die Beurteilung von Steuerrückerstattungsansprüchen und Gesuchen um Steuererlass erforderlich sind;
 - j. Angaben über Amts- und Rechtshilfeverfahren: ersuchende Behörde, Datum und Gegenstand des Ersuchens, betroffene Personen, Verlauf des Verfahrens sowie Art der Massnahmen.
 
 [^134-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^134-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^134-2]: Ausdruck gemäss Anhang Ziff. II 24 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^134-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 135
 
@@ -2250,11 +2253,11 @@ Die ESTV darf dem Bundesamt für Statistik (BFS) zur Durchführung von statistis
 
 #### Art. 136
 
-**Bekanntgabe von Daten an die EZV**[^136-1]
+**Bekanntgabe von Daten an das BAZG**[^136-1]
 
 ### (Art. 76*b* Abs. 2 MWSTG)
 
-Die ESTV macht den in der EZV mit der Erhebung und dem Einzug der Mehrwertsteuer betrauten Personen die Daten nach Artikel 134 in einem Abrufverfahren zugänglich, soweit diese Daten für die korrekte und vollständige Veranlagung der Einfuhrsteuer oder für die Durchführung von Straf- oder Administrativverfahren erforderlich sind.
+Die ESTV macht den im BAZG mit der Erhebung und dem Einzug der Mehrwertsteuer betrauten Personen die Daten nach Artikel 134 in einem Abrufverfahren zugänglich, soweit diese Daten für die korrekte und vollständige Veranlagung der Einfuhrsteuer oder für die Durchführung von Straf- oder Administrativverfahren erforderlich sind.
 
 [^136-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
@@ -2384,7 +2387,7 @@ Die Steuerbefreiung gilt nur für Lieferungen und Dienstleistungen:
 
 <sup>3</sup> Die Steuerbefreiung nach Artikel 144 Absatz 1 Buchstabe a kann nur in Anspruch genommen werden, wenn der effektive Bezugspreis der in der Rechnung oder einem gleichwertigen Dokument ausgewiesenen Leistungen insgesamt mindestens 100 Franken einschliesslich Steuer beträgt. Dieser Mindestbetrag gilt nicht für Telekommunikations- und elektronische Dienstleistungen nach Artikel 10 sowie für Lieferungen von Wasser in Leitungen, Gas und Elektrizität durch Versorgungsbetriebe.
 
-<sup>4</sup> Die Voraussetzungen nach den Absätzen 1–3 für die Beanspruchung einer Steuerbefreiung gelten nicht für Bezüge von Treibstoff, für die der institutionelle Begünstigte oder die begünstigte Person auf Grund der Artikel 26–28 der Mineralölsteuerverordnung vom 20. November 1996[^145-1], der Artikel 30 und 31 der Verordnung vom 23. August 1989[^145-2] über Zollvorrechte der diplomatischen Missionen in Bern und der konsularischen Posten in der Schweiz sowie der Artikel 28 und 29 der Verordnung vom 13. November 1985[^145-3] über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten die Befreiung von der Mineralölsteuer beanspruchen kann. In diesem Fall muss der Leistungserbringer oder die Leistungserbringerin nachweisen können, dass die EZV die Mineralölsteuer nicht erhoben oder rückvergütet hat.
+<sup>4</sup> Die Voraussetzungen nach den Absätzen 1–3 für die Beanspruchung einer Steuerbefreiung gelten nicht für Bezüge von Treibstoff, für die der institutionelle Begünstigte oder die begünstigte Person auf Grund der Artikel 26–28 der Mineralölsteuerverordnung vom 20. November 1996[^145-1], der Artikel 30 und 31 der Verordnung vom 23. August 1989[^145-2] über Zollvorrechte der diplomatischen Missionen in Bern und der konsularischen Posten in der Schweiz sowie der Artikel 28 und 29 der Verordnung vom 13. November 1985[^145-3] über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten die Befreiung von der Mineralölsteuer beanspruchen kann. In diesem Fall muss der Leistungserbringer oder die Leistungserbringerin nachweisen können, dass das BAZG die Mineralölsteuer nicht erhoben oder rückvergütet hat.
 
 [^145-1]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
 [^145-2]: [SR 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
@@ -2518,7 +2521,7 @@ Gegenrecht gilt als gewährt, wenn:
 
 ### (Art. 107 Abs. 1 Bst. b MWSTG)
 
-<sup>1</sup> Der Antrag auf Steuervergütung ist mit den Originalrechnungen der Leistungserbringer und Leistungserbringerinnen beziehungsweise mit den Veranlagungsverfügungen der EZV an die ESTV zu richten. Die Originalrechnungen müssen die Anforderungen nach Artikel 26 Absatz 2 MWSTG erfüllen und auf den Namen des Antragstellers oder der Antragstellerin lauten.
+<sup>1</sup> Der Antrag auf Steuervergütung ist mit den Originalrechnungen der Leistungserbringer und Leistungserbringerinnen beziehungsweise mit den Veranlagungsverfügungen des BAZG an die ESTV zu richten. Die Originalrechnungen müssen die Anforderungen nach Artikel 26 Absatz 2 MWSTG erfüllen und auf den Namen des Antragstellers oder der Antragstellerin lauten.
 
 <sup>2</sup> Für den Antrag ist das Formular der ESTV zu verwenden.
 
@@ -2536,7 +2539,7 @@ Gegenrecht gilt als gewährt, wenn:
 
 Wird die Steuervergütung später als 180 Tage nach Eintreffen des vollständigen Antrags bei der ESTV ausgezahlt, so wird für die Zeit vom 181. Tag bis zur Auszahlung ein vom EFD festzusetzender Vergütungszins ausgerichtet, sofern der entsprechende Staat Gegenrecht gewährt.
 
-## 8. Titel: Mehrwertsteuer-Konsultativgremium
+## 8. Titel: Mehrwertsteuer-Konsultativgremium****
 
 [^tit8-1]
 

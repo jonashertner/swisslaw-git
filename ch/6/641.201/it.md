@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2021-03-01
+version: 2022-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 1° marzo 2021)
+del 27 novembre 2009 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -596,13 +596,13 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 - m. dietisti;
 - n. podologi;
 - o.[^35-3] persone autorizzate a eseguire analisi per il SARS-CoV-2 secondo l’ordinanza 3 COVID-19 del 19 giugno 2020[^35-4] per l’esecuzione di tali analisi;
-- p.[^35-5] farmacisti per l’esecuzione di vaccinazioni anti-COVID-19.
+- p.[^35-5] farmacisti che effettuano vaccinazioni anti-COVID-19.
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introdotta dal n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. II 1 dell’O del 12 mar. 2021, in vigore dal 28 gen. 2021 al 31 dic. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891)).
 [^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-5]: Introdotta dal n. II dell’O del 27 gen. 2021, in vigore dal 1° feb. 2021 al 31 dic. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Correzione del 1° mar. 2021 ([RU 2021 122](https://fedlex.data.admin.ch/eli/oc/2021/122)).
+[^35-5]: Introdotta dal n. II dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
 
 #### Art. 36
 
@@ -820,7 +820,7 @@ L’AFC tiene conto del fatto che:
 - a. il fondo non riversa tutte le tasse incassate; e
 - b. gli acquirenti contribuenti hanno dedotto interamente a titolo d’imposta precedente l’imposta loro fatturata sulle prestazioni di servizi di smaltimento e sulle forniture di acqua.
 
-### Sezione 1*a*: Imposizione dei margini
+### Sezione 1*a*:**** Imposizione dei margini
 
 [^tit2-chap3-sec1a-1]
 
@@ -1847,7 +1847,9 @@ Dal calcolo dei costi devono risultare:
 - a. il prezzo di costo delle singole prestazioni;
 - b. la controprestazione complessiva.
 
-<sup>4</sup> Per verificare la correttezza del calcolo, l’Amministrazione federale delle dogane (AFD) può esigere documenti supplementari.
+<sup>4</sup> Per verificare la correttezza del calcolo, l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^112-1] può esigere documenti supplementari.
+
+[^112-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022. Di detta modifica è tenuto conto in tutto il presente testo.
 
 #### Art. 113
 
@@ -1871,14 +1873,14 @@ Sono esenti dall’imposta sull’importazione:
 
 #### Art. 114
 
-**Garanzia del pagamento dell’imposta mediante la procedura accentrata di conteggio dell’AFD**
+**Garanzia del pagamento dell’imposta mediante la procedura accentrata di conteggio dell’UDSC**
 
 ### (art. 56 cpv. 3 LIVA)
 
-Se l’imposta è pagata mediante la procedura accentrata di conteggio (PCD), l’AFD può esigere, sulla base della sua valutazione dei rischi, una garanzia forfetaria. Quest’ultima è calcolata come segue:
+Se l’imposta è pagata mediante la procedura accentrata di conteggio (PCD), l’UDSC può esigere, sulla base della sua valutazione dei rischi, una garanzia forfetaria. Quest’ultima è calcolata come segue:
 
-- a. almeno il 20 per cento dell’imposta dovuta in un periodo di 60 giorni, per quanto l’importatore sia iscritto presso l’AFC quale contribuente e le condizioni della PCD siano osservate;
-- b. il 100 per cento dell’imposta dovuta in un periodo di 60 giorni, per quanto l’importatore non sia iscritto presso l’AFC quale contribuente o le condizioni della PCD non siano adempiute.
+- a. almeno il 20 per cento dell’imposta dovuta in un periodo di 60 giorni, per quanto l’importatore sia iscritto presso l’UDSC quale contribuente e le condizioni della PCD siano osservate;
+- b. il 100 per cento dell’imposta dovuta in un periodo di 60 giorni, per quanto l’importatore non sia iscritto presso l’UDSC quale contribuente o le condizioni della PCD non siano adempiute.
 
 #### Art. 115
 
@@ -1917,7 +1919,7 @@ La notifica di un adeguamento successivo delle controprestazioni deve contenere 
 
 <sup>2</sup> I prezzi o le indicazioni di valore in valuta estera impiegati per determinare l’adeguamento delle controprestazioni vanno convertiti in franchi svizzeri al corso medio delle divise (vendita) del periodo.
 
-<sup>3</sup> Per determinare il debito fiscale all’importazione, l’AFD può esigere documenti supplementari.
+<sup>3</sup> Per determinare il debito fiscale all’importazione, l’UDSC può esigere documenti supplementari.
 
 ### Capitolo 3: Riporto del pagamento dell’imposta
 
@@ -1927,13 +1929,13 @@ La notifica di un adeguamento successivo delle controprestazioni deve contenere 
 
 ### (art. 63 LIVA)
 
-<sup>1</sup> Chi intende pagare le imposte nell’ambito della procedura di riporto necessita dell’autorizzazione dell’AFC.
+<sup>1</sup> Chi intende pagare le imposte nell’ambito della procedura di riporto necessita dell’autorizzazione dell’UDSC.
 
-<sup>2</sup> Se sussistono dubbi circa l’adempimento delle condizioni per il riporto dell’imposta sull’importazione, l’AFD riscuote l’imposta.
+<sup>2</sup> Se sussistono dubbi circa l’adempimento delle condizioni per il riporto dell’imposta sull’importazione, l’UDSC riscuote l’imposta.
 
 <sup>3</sup> La prescrizione del debito fiscale all’importazione riportato è retta dall’articolo 42 LIVA.
 
-<sup>4</sup> L’AFC disciplina l’esecuzione d’intesa con l’AFD.
+<sup>4</sup> L’AFC disciplina l’esecuzione d’intesa con l’UDSC.
 
 #### Art. 118
 
@@ -1948,7 +1950,7 @@ L’autorizzazione è rilasciata se il contribuente:
 - a. conteggia l’imposta sul valore aggiunto secondo il metodo effettivo;
 - b. importa ed esporta regolarmente beni nell’ambito della sua attività imprenditoriale;
 - c.[^118-1] tiene per detti beni un controllo dettagliato sull’importazione, sul deposito e sull’esportazione;
-- d.[^118-2] presenta nei suoi periodici rendiconti fiscali con l’AFC, per le importazioni ed esportazioni di beni di cui alla lettera b, eccedenti d’imposta precedente regolarmente superiori a 10 000 franchi per anno, che provengono dal versamento dell’imposta sull’importazione all’AFD; e
+- d.[^118-2] presenta nei suoi periodici rendiconti fiscali con l’AFC, per le importazioni ed esportazioni di beni di cui alla lettera b, eccedenti d’imposta precedente regolarmente superiori a 10 000 franchi per anno, che provengono dal versamento dell’imposta sull’importazione all’UDSC; e
 - e. offre le garanzie per un corretto decorso della procedura di riporto.
 
 <sup>2</sup> Il rilascio o il mantenimento dell’autorizzazione può essere subordinato alla prestazione di garanzie pari alle presunte pretese.
@@ -2226,19 +2228,20 @@ L’AFC è responsabile della sicurezza dell’esercizio e della manutenzione de
 
 I dati che l’AFC può trattare ai sensi dell’articolo 76*a* capoverso 3 LIVA sono i seguenti:
 
-- a. dati sull’identità delle persone: in particolare nominativi, forma giuridica, iscrizione nel registro di commercio, data di nascita o di costituzione, indirizzo, domicilio e sede sociale, numeri di mezzi di telecomunicazione, indirizzo di posta elettronica, attinenza, riferimento bancario, rappresentante legale, numero d’assicurato AVS;
+- a. dati sull’identità delle persone: in particolare nominativi, forma giuridica, iscrizione nel registro di commercio, data di nascita o di costituzione, indirizzo, domicilio e sede sociale, numeri di mezzi di telecomunicazione, indirizzo di posta elettronica, attinenza, riferimento bancario, rappresentante legale, numero AVS[^134-2];
 - b. dati sulle attività economiche: genere di attività commerciale, cifre d’affari realizzate o preventivate, data d’iscrizione e di cancellazione, luogo di esecuzione della prestazione nonché i dati riguardanti il trasferimento e l’importazione ed esportazione di merci necessari per la riscossione dell’imposta sul valore aggiunto;
 - c. dati sulla situazione reddituale e patrimoniale: in particolare dati raccolti da libri contabili, cifre economico-aziendali, immobili, denaro contante, conti postali e bancari, cartevalori e altri beni mobili di valore nonché le eredità indivise;
 - d. dati sulla situazione tributaria: rendiconti fiscali;
 - e. dati su debiti e cessioni di crediti: durata ed entità delle cessioni di crediti, ammontare dei crediti imponibili ceduti;
 - f. dati su procedure di esecuzione, fallimento e sequestro: procedure di esecuzione, fallimento, sequestro e procedura di concordato, atti giudiziali e extragiudiziali finalizzati alla riscossione di crediti;
 - g. dati sull’osservanza degli obblighi fiscali: osservanza degli obblighi di collaborazione fiscale, pagamento puntuale delle imposte dovute, obbligo di tenere la contabilità, accertamenti fatti nell’ambito di un controllo, nonché dati che sono necessari per garantire l’incasso delle imposte dovute dai contribuenti e dalle persone responsabili in solido;
-- h. dati sul sospetto di infrazioni, su reati, oggetti e mezzi di prova sequestrati nonché su procedimenti penali: sospetto fondato di infrazioni, oggetti e mezzi di prova sequestrati, reati e conseguenti sanzioni e ricuperi d’imposta ai sensi dell’articolo 12 della legge del 22 marzo 1974[^134-2] sul diritto penale amministrativo;
+- h. dati sul sospetto di infrazioni, su reati, oggetti e mezzi di prova sequestrati nonché su procedimenti penali: sospetto fondato di infrazioni, oggetti e mezzi di prova sequestrati, reati e conseguenti sanzioni e ricuperi d’imposta ai sensi dell’articolo 12 della legge del 22 marzo 1974[^134-3] sul diritto penale amministrativo;
 - i. dati su procedimenti amministrativi: dati riguardanti procedimenti amministrativi e procedimenti giudiziari in ambito fiscale, necessari per l’emissione di avvisi di tassazione e per la valutazione delle pretese di restituzione e delle domande di condono dell’imposta;
 - j. dati su procedure di assistenza amministrativa e giudiziaria: autorità richiedente, data e oggetto della richiesta, persone interessate, svolgimento della procedura e tipo di misure.
 
 [^134-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^134-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^134-2]: Nuova espr. giusta l’all. n. II 24 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^134-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 135
 
@@ -2267,11 +2270,11 @@ L’AFC può accordare all’Ufficio federale di statistica (UST) l’accesso ai
 
 #### Art. 136
 
-**Comunicazione di dati all’AFD**[^136-1]
+**Comunicazione di dati all’UDSC**[^136-1]
 
 ### (art. 76*b* cpv. 2 LIVA)
 
-L’AFC accorda al personale dell’AFD incaricato di determinare e riscuotere l’imposta sul valore aggiunto l’accesso ai dati di cui all’articolo 134 mediante una procedura di richiamo, nella misura in cui tali dati siano necessari per una corretta e completa imposizione dell’importazione o per l’esecuzione di procedimenti penali o amministrativi.
+L’AFC accorda al personale dell’UDSC incaricato di determinare e riscuotere l’imposta sul valore aggiunto l’accesso ai dati di cui all’articolo 134 mediante una procedura di richiamo, nella misura in cui tali dati siano necessari per una corretta e completa imposizione dell’importazione o per l’esecuzione di procedimenti penali o amministrativi.
 
 [^136-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
@@ -2401,7 +2404,7 @@ L’esenzione fiscale si applica soltanto alle forniture e alle prestazioni di s
 
 <sup>3</sup> L’esenzione fiscale giusta l’articolo 144 capoverso 1 lettera a può essere rivendicata unicamente se il prezzo d’acquisto effettivo delle prestazioni indicate nella fattura o in un documento equivalente ammonta complessivamente ad almeno 100 franchi comprensivi dell’imposta. L’importo minimo non si applica alle prestazioni di servizi in materia d’informatica o di telecomunicazioni giusta l’articolo 10, né alle forniture di acqua in condotte, di gas ed elettricità da parte di aziende di erogazione.
 
-<sup>4</sup> Le condizioni giusta i capoversi 1–3 che danno diritto all’esenzione fiscale non si applicano agli acquisti di carburante per i quali il beneficiario istituzionale o la persona beneficiaria ha diritto all’esenzione dell’imposta sugli oli minerali in virtù degli articoli 26–28 dell’ordinanza del 20 novembre 1996[^145-1] sull’imposizione degli oli minerali, degli articoli 30 e 31 dell’ordinanza del 23 agosto 1989[^145-2] concernente i privilegi doganali delle missioni diplomatiche a Berna e dei posti consolari in Svizzera, così come degli articoli 28 e 29 dell’ordinanza del 13 novembre 1985[^145-3] concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri. In questo caso il fornitore di prestazioni deve poter comprovare che l’AFD non ha riscosso l’imposta sugli oli minerali oppure che l’ha rimborsata.
+<sup>4</sup> Le condizioni giusta i capoversi 1–3 che danno diritto all’esenzione fiscale non si applicano agli acquisti di carburante per i quali il beneficiario istituzionale o la persona beneficiaria ha diritto all’esenzione dell’imposta sugli oli minerali in virtù degli articoli 26–28 dell’ordinanza del 20 novembre 1996[^145-1] sull’imposizione degli oli minerali, degli articoli 30 e 31 dell’ordinanza del 23 agosto 1989[^145-2] concernente i privilegi doganali delle missioni diplomatiche a Berna e dei posti consolari in Svizzera, così come degli articoli 28 e 29 dell’ordinanza del 13 novembre 1985[^145-3] concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri. In questo caso il fornitore di prestazioni deve poter comprovare che l’UDSC non ha riscosso l’imposta sugli oli minerali oppure che l’ha rimborsata.
 
 [^145-1]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
 [^145-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
@@ -2537,7 +2540,7 @@ La reciprocità è considerata garantita se:
 
 ### (art. 107 cpv. 1 lett. b LIVA)
 
-<sup>1</sup> La richiesta di rimborso dell’imposta deve essere indirizzata all’AFC unitamente agli originali delle fatture del fornitore di prestazioni o alle decisioni d’imposizione dell’AFD. Le fatture originali devono soddisfare i requisiti di cui all’articolo 26 capoverso 2 LIVA ed essere intestate al richiedente.
+<sup>1</sup> La richiesta di rimborso dell’imposta deve essere indirizzata all’AFC unitamente agli originali delle fatture del fornitore di prestazioni o alle decisioni d’imposizione dell’UDSC. Le fatture originali devono soddisfare i requisiti di cui all’articolo 26 capoverso 2 LIVA ed essere intestate al richiedente.
 
 <sup>2</sup> Per la richiesta va utilizzato il modulo dell’AFC.
 

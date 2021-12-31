@@ -4,11 +4,11 @@ title: "Ordinance of 27 November 2009 on Value Added Tax (Value Added Tax Ordina
 short: VAT Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: en
-version: 2021-03-01
+version: 2022-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210301-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Ordinance, VAT Ordinance)
 
-of 27 November 2009 (Status as of 1 March 2021)
+of 27 November 2009 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -592,9 +592,9 @@ Members of human medical and nursing professions within the meaning of Article 2
 - p.[^35-4] Pharmacists for administering COVID-19 vaccinations.
 
 [^35-1]: Inserted by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No II 1 of the O of 12 March 2021, in force from 28 Jan. 2021 to 31 Dec. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 till 31 Dec. 2022 ([[AS 2021 891](https://www.fedlex.admin.ch/eli/oc/2021/891/de)](https://fedlex.data.admin.ch/eli/oc/2021/891)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-4]: Inserted by No II of the O of 27 Jan. 2021, in force from 1 Feb. 2021 to 31 Dec. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). The correction of 1 March 2021 relates to the Italian text only ([AS 2021 122](https://fedlex.data.admin.ch/eli/oc/2021/122)).
+[^35-4]: Inserted by No II of the O of 27 Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Amended by No II of the O of 3 Dec. 2021, in force from 1 Jan. 2022 until 31 Dec. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
 
 #### Art. 36
 
@@ -1835,7 +1835,9 @@ The cost calculation must show:
 
 <sup>3</sup> Cost elements that cannot be fully allocated to the individual supplies, such as overheads, profit or transport costs, must be allocated to the individual supplies by value.
 
-<sup>4</sup> The Federal Customs Administration (FCA) may from case to case demand further documentation in order to review the calculation.
+<sup>4</sup> The Federal Office for Customs and Border Security (FOCBS)[^112-1] may from case to case demand further documentation in order to review the calculation.
+
+[^112-1]: The name of this administrative unit was changed on 1 January 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)). This change has been made throughout the text.
 
 #### Art. 113
 
@@ -1859,11 +1861,11 @@ Exempt from the import tax are:
 
 #### Art. 114
 
-**Security for payment of the tax over the FCA’s centralised settlement procedure**
+**Security for payment of the tax over the FOCBS’ centralised settlement procedure**
 
 ### (Art. 56 para. 3 VAT Act)
 
-If the tax is paid via the centralised settlement procedure (CSP), the FCA may require a lump-sum security based on its risk assessment. It is calculated as follows:
+If the tax is paid via the centralised settlement procedure (CSP), the FOCBS may require a lump-sum security based on its risk assessment. It is calculated as follows:
 
 - a. at least 20 per cent of the tax accrued within a period of 60 days, provided the importer is registered with the FTA as a taxable person and the conditions of the CSP are observed;
 - b. 100 per cent of the tax accrued within a period of 60 days if the importer is not registered with the FTA as a taxable person or the conditions of the CSP are not observed.
@@ -1904,7 +1906,7 @@ The notification of a subsequent adjustment of the considerations must contain t
 
 <sup>2</sup> Price and value details in foreign currency adduced for the determination of the adjustment of the considerations must be converted into Swiss francs at the average exchange rate (selling) for the period.
 
-<sup>3</sup> The FCA may from case to case demand further documentation in order to determine the import tax liability.
+<sup>3</sup> The FOCBS may from case to case demand further documentation in order to determine the import tax liability.
 
 ### Chapter 3 Transfer of the Tax Payment
 
@@ -1916,11 +1918,11 @@ The notification of a subsequent adjustment of the considerations must contain t
 
 <sup>1</sup> Persons who wish to pay taxes under the transfer procedure require authorisation from the FTA.
 
-<sup>2</sup> If doubt exists as to whether the requirements for the transfer of the import tax are fulfilled, the FCA shall levy the tax.
+<sup>2</sup> If doubt exists as to whether the requirements for the transfer of the import tax are fulfilled, the FOCBS shall levy the tax.
 
 <sup>3</sup> The prescription of import tax liability that has been transferred is governed by Article 42 VAT Act.
 
-<sup>4</sup> The FTA shall regulate execution in consultation with the FCA.
+<sup>4</sup> The FTA shall regulate execution in consultation with the FOCBS.
 
 #### Art. 118
 
@@ -1935,7 +1937,7 @@ Authorisation is granted if the taxable person:
 - a. reports the VAT under the effective method;
 - b. regularly imports and exports goods as part of its business activities;
 - c. keeps a detailed import, inventory and export control for these goods;
-- d.[^118-1] in its periodic tax returns with the FTA regularly reports input tax surpluses on imports and exports of goods under letter b of more than 10,000 francs per year that arise from the payment of import tax to the FCA; and
+- d.[^118-1] in its periodic tax returns with the FTA regularly reports input tax surpluses on imports and exports of goods under letter b of more than 10,000 francs per year that arise from the payment of import tax to the FOCBS; and
 - e. guarantees the correct functioning of the procedure.
 
 <sup>2</sup> The grant or extension of the authorisation may be made conditional on the provision of security in the amount of the anticipated claims.
@@ -2210,19 +2212,20 @@ The FTA is responsible for the secure operation and the maintenance of the infor
 
 The data that the FTA may process under Article 76*a* paragraph 3 VAT Act are as follows:
 
-- a. information about the identity of persons: in particular names, legal form, entry in the commercial registry, date of birth or date of foundation, address, place of residence and of business, telecommunication numbers, email address, place of origin, bank account, legal representative, OASI insurance number;
+- a. information about the identity of persons: in particular names, legal form, entry in the commercial registry, date of birth or date of foundation, address, place of residence and of business, telecommunication numbers, email address, place of origin, bank account, legal representative, OASI number[^134-2];
 - b. information about economic activities: nature of the business activity, turnovers achieved or anticipated, date of registration or deletion, place of the provision of supplies and information about the dispatch, import and export of goods that is required for the imposition of VAT;
 - c. information about income and financial circumstances: in particular information from business records, operational figures, properties, cash, postal and bank accounts, securities and other moveable valuables, and undistributed inherited assets;
 - d. information about tax affairs: tax returns;
 - e. information about debts and claim assignments: period and amount of claim assignments, amount of taxable assigned claims;
 - f. information about debt enforcement, bankruptcy and attachment proceedings: debt enforcement, bankruptcy, composition and attachment proceedings, judicial and non-judicial acts in relation to the exercise of rights;
 - g. information about compliance with tax obligations: compliance with obligations to cooperate on tax matters, payment on time of taxes due, accounting obligations, findings made in the course of audits, and information required for ensuring the collection of the taxes due by tax payers and jointly and severally liable persons;
-- h. information about any suspicion of violations, about offences, seized goods and evidence and about criminal proceedings: justified suspicion of violations, seized goods and evidence, offences and the resulting sanctions and additional tax claims under Article 12 of the Federal Act of 22 March 1974[^134-2] on Administrative Criminal Law;
+- h. information about any suspicion of violations, about offences, seized goods and evidence and about criminal proceedings: justified suspicion of violations, seized goods and evidence, offences and the resulting sanctions and additional tax claims under Article 12 of the Federal Act of 22 March 1974[^134-3] on Administrative Criminal Law;
 - i. information about administrative proceedings: data on administrative and tax-related judicial proceedings required for the issue of assessment notices and for the assessment of rights to tax refunds and applications for tax waivers;
 - j. information about administrative and mutual assistance proceedings: requesting authority, date and subject matter of the application, persons concerned, outcome of the procedure and the nature of the measures.
 
 [^134-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^134-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^134-2]: Term in accordance with Annex No II 24 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^134-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 135
 
@@ -2251,11 +2254,11 @@ The FTA may make the VAT returns available online to the Federal Statistical Off
 
 #### Art. 136
 
-**Disclosure of data to the FCA**[^136-1]
+**Disclosure of data to the FOCBS**[^136-1]
 
 ### (Art. 76*b* para. 2 VAT Act)
 
-The FTA shall make the data under Article 134 accessible online to the persons in the FCA responsible for the imposition and collection of value added tax to the extent that these data are required for the correct and complete assessment of the import tax or for the conduct of criminal or administrative proceedings.
+The FTA shall make the data under Article 134 accessible online to the persons in the FOCBS responsible for the imposition and collection of value added tax to the extent that these data are required for the correct and complete assessment of the import tax or for the conduct of criminal or administrative proceedings.
 
 [^136-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
@@ -2385,7 +2388,7 @@ The tax exemption applies only to supplies of goods and supplies of services:
 
 <sup>3</sup> A tax exemption under Article 144 paragraph 1 letter a may be claimed only if the effective acquisition price for the supplies indicated on the invoice or an equivalent document is at least 100 francs, including tax. This minimum amount does not apply to telecommunications and electronic services under Article 10 and for supplies of water in pipes, gas and electricity by utility companies.
 
-<sup>4</sup> The conditions under paragraphs 1–3 for claiming tax exemption do not apply to acquisitions of motor fuel for which the institutional or the individual beneficiary may claim exemption from the mineral oil tax based on Articles 26–28 of the Mineral Oil Tax Ordinance of 20 November 1996[^145-1], on Articles 30 and 31 of the Ordinance of 23 August 1989[^145-2] on the Customs Privileges of Diplomatic Missions in Bern and Consular Posts on Swiss territory and of Articles 28 and 29 of the Ordinance of 13 November 1985[^145-3] on the Customs Privileges of International Organisations, of States in their relations with such Organisations and of Special Missions of Foreign States. In this case the supplier must be able to prove that the FCA has not levied the mineral oil tax or has refunded it.
+<sup>4</sup> The conditions under paragraphs 1–3 for claiming tax exemption do not apply to acquisitions of motor fuel for which the institutional or the individual beneficiary may claim exemption from the mineral oil tax based on Articles 26–28 of the Mineral Oil Tax Ordinance of 20 November 1996[^145-1], on Articles 30 and 31 of the Ordinance of 23 August 1989[^145-2] on the Customs Privileges of Diplomatic Missions in Bern and Consular Posts on Swiss territory and of Articles 28 and 29 of the Ordinance of 13 November 1985[^145-3] on the Customs Privileges of International Organisations, of States in their relations with such Organisations and of Special Missions of Foreign States. In this case the supplier must be able to prove that the FOCBS has not levied the mineral oil tax or has refunded it.
 
 [^145-1]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
 [^145-2]: [SR 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
@@ -2519,7 +2522,7 @@ Reciprocal right is deemed to be given if:
 
 ### (Art. 107 para. 1 let. b VAT Act)
 
-<sup>1</sup> The application for a tax refund must be addressed to the FTA with the suppliers’ original invoices or with the FCA’s assessment advice. The original invoices must meet the requirements under Article 26 paragraph 2 VAT Act and be in the name of the applicant.
+<sup>1</sup> The application for a tax refund must be addressed to the FTA with the suppliers’ original invoices or with the FOCBS’ assessment advice. The original invoices must meet the requirements under Article 26 paragraph 2 VAT Act and be in the name of the applicant.
 
 <sup>2</sup> The FTA’s form must be used for the application.
 
@@ -2622,7 +2625,7 @@ The Consultative Commission submits its comments and recommendations to the FDF.
 
 The Ordinance of 29 March 2000[^163-1] to the Federal Act on Value Added Tax is repealed.
 
-[^163-1]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 4, [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820), [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 45, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 24 [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Annex No 9]
+[^163-1]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 24, [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Annex No 9]
 
 ### Chapter 2 Transitional Provisions
 
