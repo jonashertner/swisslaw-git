@@ -4,13 +4,13 @@ number: VIII A/3/1
 title: Verordnung über Berufe und Einrichtungen der Gesundheitsversorgung
 short: "Gesundheitsberufeverordnung, GesBV"
 language: de
-version: 2021-04-01
-valid_until: 2021-12-31
-version_adopted: 2021-03-16
+version: 2022-01-01
+valid_until: 2024-09-30
+version_adopted: 2021-12-21
 adopted: 2008-08-12
 in_force: 2008-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.3.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2230/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2230/pdf_file"
 
 (Gesundheitsberufeverordnung, GesBV)
 
-Vom 12.08.2008 (Stand 01.04.2021)
+Vom 12.08.2008 (Stand 01.01.2022)
 
 Der Regierungsrat,
 
-gestützt auf Artikel 99 Buchstabe b der Kantonsverfassung[^ingress-1], Artikel 23, 24, 26, 30a und 36 des Gesundheitsgesetzes[^ingress-2], Artikel 35 des Kantonalen Tierschutz- und Tierseuchengesetzes[^ingress-3], die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (Interkantonale Vereinbarung)[^ingress-4], das Medizinalberufegesetz[^ingress-5], das Psychologieberufegesetz[^ingress-6] sowie das Gesundheitsberufegesetz[^ingress-7],
+gestützt auf Artikel 99 Buchstabe b der Kantonsverfassung[^ingress-1], Artikel 23, 24, 26, 30a und 36 des Gesundheitsgesetzes[^ingress-2], Artikel 35 des Kantonalen Tierschutz- und Tierseuchengesetzes[^ingress-3], die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (Interkantonale Vereinbarung)[^ingress-4], das Medizinalberufegesetz[^ingress-5], das Psychologieberufegesetz[^ingress-6], das Gesundheitsberufegesetz[^ingress-7] sowie das Bundesgesetz über die Krankenversicherung[^ingress-8],
 
 erlässt:
 
@@ -31,9 +31,10 @@ erlässt:
 [^ingress-2]: GS [VIII A/1/1](https://gesetze.gl.ch/data/VIII-A.1.1/de)
 [^ingress-3]: GS [IV G/3/2](https://gesetze.gl.ch/data/IV-G.3.2/de)
 [^ingress-4]: GS [IV B/1/12/2](https://gesetze.gl.ch/data/IV-B.1.12.2/de)
-[^ingress-5]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
-[^ingress-6]: SR [935.81](https://db.clex.ch/link/Bund/935.81/de)
+[^ingress-5]: SR 811.11
+[^ingress-6]: SR 935.81
 [^ingress-7]: SR 811.21
+[^ingress-8]: SR 832.10
 
 ## 1. Allgemeine Bestimmungen
 
@@ -47,7 +48,8 @@ erlässt:
 - b. die berufsspezifischen Bewilligungsvoraussetzungen;
 - c. …
 - d. die Rechte und Pflichten des Bewilligungsinhabers oder der Bewilligungsinhaberin;
-- e. die bewilligungspflichtigen Einrichtungen.
+- e. die bewilligungspflichtigen Einrichtungen;
+- f. das Verfahren zur Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung (Zulassung).
 
 <sup>2</sup> Das Verzeichnis der bewilligungspflichtigen Gesundheitsberufe samt den zugehörigen Regelungen im Anhang ist integrierender Bestandteil dieser Verordnung.
 
@@ -55,12 +57,12 @@ erlässt:
 
 **Vollzugsbehörden**
 
-<sup>1</sup> Zuständiges Departement ist das Departement Finanzen und Gesundheit (Departement). Es ist die kantonale Aufsichtsbehörde im Sinne von Artikel 41 des Medizinalberufegesetzes, Artikel 28 des Psychologieberufegesetzes, Artikel 17 des Gesundheitsberufegesetzes sowie Artikel 12b der Interkantonalen Vereinbarung.
+<sup>1</sup> Zuständiges Departement ist das Departement Finanzen und Gesundheit (Departement). Es ist die kantonale Aufsichtsbehörde im Sinne von Artikel 41 des Medizinalberufegesetzes, Artikel 28 des Psychologieberufegesetzes, Artikel 17 des Gesundheitsberufegesetzes, Artikel 12b der Interkantonalen Vereinbarung sowie Artikel 38 des Bundesgesetzes über die Krankenversicherung.
 
 <sup>2</sup> Zuständige kantonale Verwaltungsbehörde ist die Hauptabteilung Gesundheit (Hauptabteilung). Sie ist insbesondere zuständig für:
 
-- a. die Überwachung des Bewilligungswesens;
-- b. die Erteilung von Bewilligungen sowie die Führung des diesbezüglichen Schriftenverkehrs;
+- a. die Überwachung des Bewilligungs- und Zulassungswesens;
+- b. die Erteilung von Bewilligungen und Zulassungen sowie die Führung des diesbezüglichen Schriftenverkehrs;
 - c. das Ausstellen von Bescheinigungen;
 - d. die Aktualisierung der bundes- und kantonalen Beruferegister;
 - e. die Entgegennahme von Meldungen.
@@ -69,7 +71,7 @@ erlässt:
 
 **Meldepflicht**
 
-<sup>1</sup> Der Bewilligungsinhaber oder die Bewilligungsinhaberin meldet der Hauptabteilung jede Tatsache, die für die Bewilligung von Belang ist. Dazu gehören namentlich:
+<sup>1</sup> Der Inhaber oder die Inhaberin einer Bewilligung oder einer Zulassung meldet der Hauptabteilung jede Tatsache, die für die Bewilligung und die Zulassung von Belang ist. Dazu gehören namentlich:
 
 - a. die Aufnahme und Verlegung der Tätigkeit unter Angabe des Standortes;
 - b. die Ausübung der Tätigkeit an mehr als einem Standort;
@@ -232,6 +234,8 @@ erlässt:
 - c. …
 - d. für die erstmalige Betriebsbewilligung: — 1000 Fr.;
 - e. für die Erneuerung der Betriebsbewilligung: — 300 Fr.;
+- e1. für die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung: — 400 Fr.;
+- e2. für die Bestätigung, dass die persönlichen Anforderungen für die Tätigkeit in einer Organisation zulasten der obligatorischen Krankenpflegeversicherung erfüllt sind: — 200 Fr.;
 - f. für die Ausstellung von Bescheinigungen: — 100 Fr.;
 - g. für das Vornehmen von Mutationen (je nach Aufwand): — 100–300 Fr.
 
