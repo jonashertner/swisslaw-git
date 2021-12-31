@@ -3,10 +3,10 @@ canton: ZH
 number: "412.412"
 title: Finanzreglement für das Zentrum für Gehör und Sprache
 language: de
-nachtrag: "75"
-valid_until: 2022-01-01
+version: "2022-01-01"
+nachtrag: "115"
 adopted: 2011-12-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_412-2011_12_07-2012_01_01-075.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_412-2011_12_07-2012_01_01-115.html"
 text: pdf
 ---
 
@@ -66,17 +66,21 @@ beschliesst:
 
 <sup>2</sup> Das Zentrum darf Bank- und Postkonti nur mit Zustimmung der Finanzverwaltung eröffnen.
 
-#### § 5
-
 **Einnahmen**
 
-Die Einnahmen des Zentrums setzen sich aus dem Staatsbeitrag, den Versorgertaxen, den Einnahmen aus Beratungs-, Therapie- und Schulungsleistungen sowie aus Spenden zusammen.
+§ 5.[^4-1] Die Einnahmen des Zentrums setzen sich aus dem Staatsbeitrag, den Einnahmen aus Beratungs-, Therapie- und Schulungsleistungen sowie aus Spenden zusammen.
+
+[^4-1]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 597; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
+
+#### § 6
+
+**Fonds**
+
+<sup>1</sup> Das Zentrum verfügt über den «Fonds der Gehörlosenschule Zürich». Der Fonds wird vom Amt für Tresorerie der Finanzdirektion verwaltet.
 
 **1**
 
-- 1\. 1. 12 - 75 § 6. <sup>1</sup> Das Zentrum verfügt über den «Fonds der Gehörlosenschule Zürich». Der Fonds wird vom Amt für Tresorerie der Finanzdirektion verwaltet.
-
-**Fonds**
+- 1\. 1. 12 - 75
 
 <sup>2</sup> Der Fonds dient dazu,
 
@@ -86,17 +90,19 @@ Die Einnahmen des Zentrums setzen sich aus dem Staatsbeitrag, den Versorgertaxen
 
 <sup>3</sup> Der Fonds wird durch Spenden, Vermächtnisse, Erbschaften und weitere Zuwendungen geäufnet.
 
-<sup>4</sup> Der Zentrumsrat setzt das jährliche Vergabebudget fest. Die Geschäftsleitung entscheidet über die Vergabungen im Rahmen des Budgets. Über Vergabungen über Fr. 10 000 im Einzelfall bestimmt der Zentrumsrat
+<sup>4</sup> Der Zentrumsrat setzt das jährliche Vergabebudget fest. Die Geschäftsleitung entscheidet über die Vergabungen im Rahmen des Budgets. Über Vergabungen über Fr. 10 000 im Einzelfall bestimmt der Zentrumsrat.
+
+#### § 7
 
 **Zuwendungen**
 
-§ 7. <sup>1</sup> Über die Annahme von Erbschaften, Vermächtnissen und Schenkungen entscheidet a. der Zentrumsrat, wenn sie Fr. 100 000 übersteigen,
+<sup>1</sup> Über die Annahme von Erbschaften, Vermächtnissen und Schenkungen entscheidet a. der Zentrumsrat, wenn sie Fr. 100 000 übersteigen,
 
 - b. die Geschäftsleitung in den übrigen Fällen.
 
-<sup>2</sup> Die Zuständigkeit des Regierungsrates gemäss § 49 Abs. 2 der Finanzcontrollingverordnung vom 5. März 2008[^5-1] bleibt vorbehalten.
+<sup>2</sup> Die Zuständigkeit des Regierungsrates gemäss § 49 Abs. 2 der Finanzcontrollingverordnung vom 5. März 2008[^7-1] bleibt vorbehalten.
 
-[^5-1]: LS 611.2.
+[^7-1]: LS 611.2.
 
 #### § 8
 
