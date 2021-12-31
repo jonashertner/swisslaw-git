@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 21. Juni 2013 über den Fonds zur Finanzierung der Eise
 short: BIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/107"
 language: de
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2013-06-21
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/107/20200926/de/xml/fedlex-data-admin-ch-eli-cc-2015-107-20200926-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/107/20200926/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/107/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-107-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/107/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesgesetz über den Fonds zur Finanzierung der Eisenbahninfrastruktur****
+# Bundesgesetz über den Fonds zur Finanzierung der Eisenbahninfrastruktur
 
 (Bahninfrastrukturfondsgesetz, BIFG)[^t-1]
 
-vom 21. Juni 2013 (Stand am 26. September 2020)
+vom 21. Juni 2013 (Stand am 1. Januar 2022)
 
 [^t-1]: Anhang zum BG vom 21. Juni 2013 über die Finanzierung und den Ausbau der Eisenbahninfrastruktur ([AS 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106)).
 
@@ -84,7 +84,9 @@ Die Erfolgsrechnung weist mindestens aus:
 
 <sup>1</sup> Der Bundesrat legt fest, in welcher Höhe die verschiedenen vorgesehenen Finanzmittel dem Bahninfrastrukturfonds zugewiesen werden.
 
-<sup>2</sup> Die Beträge nach den Artikeln 87*a* Absatz 2 Buchstabe d und 196 Ziffer 3 Absatz 2 der Bundesverfassung basieren auf dem Preisstand von 2014. Sie werden an die Entwicklung des realen Brutto-Inlandproduktes angepasst und folgen dem Bahnbau-Teuerungsindex. Das Eidgenössische Finanzdepartement regelt im Einvernehmen mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation die Einzelheiten.
+<sup>2</sup> Die Beträge nach den Artikeln 87*a* Absatz 2 Buchstabe d und 196 Ziffer 3 Absatz 2 der Bundesverfassung basieren auf dem Preisstand von 2014. Sie werden jährlich an die Entwicklung des realen Bruttoinlandprodukts angepasst und folgen dem Landesindex der Konsumentenpreise.[^3-1] Das Eidgenössische Finanzdepartement regelt im Einvernehmen mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation die Einzelheiten.
+
+[^3-1]: Fassung des zweiten Satzes gemäss Ziff. I 7 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 4
 
@@ -132,12 +134,12 @@ Die Verpflichtungskredite für Ausbauschritte richten sich nach Artikel 58 EBG[^
 
 <sup>1</sup> Der Bahninfrastrukturfonds darf sich nicht über die Bevorschussung hinaus verschulden.
 
-<sup>2</sup> Er bildet ab dem 1. Januar 2020 eine angemessene Reserve.[^7-1] Diese Bestimmung ist für die Jahre 2020 und 2021 nicht anwendbar.[^7-2]
+<sup>2</sup> Er bildet ab dem 1. Januar 2020 eine angemessene Reserve.[^7-1] …[^7-2]
 
 <sup>3</sup> Guthaben werden nicht verzinst.
 
 [^7-1]: Fassung gemäss Ziff. I 7 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^7-2]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^7-2]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid‑19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
 #### Art. 8
 
@@ -153,27 +155,34 @@ Die Verpflichtungskredite für Ausbauschritte richten sich nach Artikel 58 EBG[^
 
 Die Verordnung der Bundesversammlung vom 9. Oktober 1998[^9-1] über das Reglement des Fonds für die Eisenbahngrossprojekte wird aufgehoben.
 
-[^9-1]: [[AS 1999 775](https://fedlex.data.admin.ch/eli/oc/1999/118), [2005 2517](https://fedlex.data.admin.ch/eli/oc/2005/430), [2009 1169](https://fedlex.data.admin.ch/eli/oc/2009/189), [2010 5017](https://fedlex.data.admin.ch/eli/oc/2010/712)]
+[^9-1]: [[AS 1999 775](https://fedlex.data.admin.ch/eli/oc/1999/118); [2005 2517](https://fedlex.data.admin.ch/eli/oc/2005/430); [2009 1169](https://fedlex.data.admin.ch/eli/oc/2009/189); [2010 5017](https://fedlex.data.admin.ch/eli/oc/2010/712)]
 
 #### Art. 10
 
-**Auflösung des Fonds für die Eisenbahngrossprojekte**
+**Übernahme von Aktiven und Passiven des Fonds für die Eisenbahngrossprojekte sowie von Darlehen[^10-1]**
 
-<sup>1</sup> Der Bahninfrastrukturfonds übernimmt mit dem Inkrafttreten des Bundesbeschlusses vom 20. Juni 2013[^10-1] über die Finanzierung und den Ausbau der Eisenbahninfrastruktur alle Aktiven und Passiven des Fonds für die Eisenbahngrossprojekte.
+<sup>1</sup> Der Bahninfrastrukturfonds übernimmt mit dem Inkrafttreten des Bundesbeschlusses vom 20. Juni 2013[^10-2] über die Finanzierung und den Ausbau der Eisenbahninfrastruktur alle Aktiven und Passiven des Fonds für die Eisenbahngrossprojekte.
 
 <sup>2</sup> Gleichzeitig übernimmt er die Darlehen, die zulasten des ordentlichen Bundeshaushalts für Investitionen in die Eisenbahninfrastruktur gewährt worden sind.
 
-[^10-1]: [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104)
+<sup>3</sup> Er übernimmt die den abgeltungsberechtigten Unternehmen für Investitionen in die Eisenbahninfrastruktur gewährten Darlehen, wenn die entsprechende Projektabrechnung vorliegt.[^10-3]
+
+<sup>4</sup> Die im Bahninfrastrukturfonds geführten bedingt rückzahlbaren Darlehen können durch Beschluss des Bundesrates in die Bundesrechnung übernommen werden.[^10-4]
+
+[^10-1]: Fassung gemäss Ziff. I 7 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^10-2]: [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104)
+[^10-3]: Eingefügt durch Ziff. I 7 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^10-4]: Eingefügt durch Ziff. I 7 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 11
 
 **Tilgung der Bevorschussung**
 
-<sup>1</sup> Spätestens ab dem 1. Januar 2019 werden im Budget und in der Finanzplanung des Bahninfrastrukturfonds bis zur vollständigen Tilgung der Bevorschussung für deren Verzinsung und Rückzahlung mindestens 50 Prozent der Einlagen nach Artikel 87*a* Absatz 2 Buchstabe a sowie die Einlagen nach Artikel 196 Ziffer 3 Absatz 2 der Bundesverfassung verwendet. Diese Bestimmung ist für das Jahr 2020 nicht anwendbar.[^11-1]
+<sup>1</sup> Spätestens ab dem 1. Januar 2019 werden im Budget und in der Finanzplanung des Bahninfrastrukturfonds bis zur vollständigen Tilgung der Bevorschussung für deren Verzinsung und Rückzahlung mindestens 50 Prozent der Einlagen nach Artikel 87*a* Absatz 2 Buchstabe a sowie die Einlagen nach Artikel 196 Ziffer 3 Absatz 2 der Bundesverfassung verwendet. …[^11-1]
 
 <sup>2</sup> Auf der Bevorschussung werden marktkonforme Zinsen erhoben. Die Eidgenössische Finanzverwaltung legt die Einzelheiten fest.
 
-[^11-1]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^11-1]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid‑19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
 #### Art. 12
 
@@ -186,4 +195,4 @@ Die Verordnung der Bundesversammlung vom 9. Oktober 1998[^9-1] über das Regleme
 Datum des Inkrafttretens: 1. Januar 2016[^12-2]
 
 [^12-1]: Eingefügt durch Ziff. I 7 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^12-2]: BRB vom 2. Juni 2014 ([BBl 2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970))
+[^12-2]: BRB vom 2. Juni 2014 ([BBl 2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)).

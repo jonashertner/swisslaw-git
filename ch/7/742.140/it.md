@@ -4,20 +4,20 @@ title: "Legge federale del 21 giugno 2013 concernente il Fondo per il finanziame
 short: LFIF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/107"
 language: it
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2013-06-21
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/107/20200926/it/xml/fedlex-data-admin-ch-eli-cc-2015-107-20200926-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/107/20200926/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/107/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-107-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/107/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Legge federale concernente il Fondo per il finanziamento dell’infrastruttura ferroviaria****
+# Legge federale concernente il Fondo per il finanziamento dell’infrastruttura ferroviaria
 
 (Legge sul Fondo per l’infrastruttura ferroviaria, LFIF)[^t-1]
 
-del 21 giugno 2013 (Stato 26 settembre 2020)
+del 21 giugno 2013 (Stato 1° gennaio 2022)
 
 [^t-1]: All. della LF del 21 giu. 2013 concernente il finanziamento e l’ampliamento dell’infrastruttura ferroviaria ([RU 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106)).
 
@@ -84,7 +84,9 @@ Il conto economico contempla almeno:
 
 <sup>1</sup> Il Consiglio federale stabilisce l’importo dei singoli versamenti attribuiti al Fondo.
 
-<sup>2</sup> Gli importi di cui agli articoli 87*a* capoverso 2 lettera d e 196 numero 3 capoverso 2 Cost. si basano sui prezzi del 2014. Sono adeguati all’evoluzione del prodotto interno lordo reale e seguono l’indice di rincaro delle opere ferroviarie. Il Dipartimento federale delle finanze disciplina i dettagli d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni.
+<sup>2</sup> Gli importi di cui agli articoli 87*a* capoverso 2 lettera d e 196 numero 3 capoverso 2 Cost. si basano sui prezzi del 2014. Sono adeguati annualmente all’evoluzione del prodotto interno lordo reale e seguono l’indice nazionale dei prezzi al consumo.[^3-1] Il Dipartimento federale delle finanze disciplina i dettagli d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni.
+
+[^3-1]: Nuovo testo del per. giusta il n. I 7 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 4
 
@@ -132,12 +134,12 @@ I crediti d’impegno per le fasi di ampliamento sono retti dall’articolo 58 L
 
 <sup>1</sup> Il Fondo non può indebitarsi oltre l’ammontare dell’anticipo.
 
-<sup>2</sup> Dal 1° gennaio 2020 il Fondo costituisce una riserva adeguata.[^7-1] Questa disposizione non si applica agli anni 2020 e 2021.[^7-2]
+<sup>2</sup> Dal 1° gennaio 2020 il Fondo costituisce una riserva adeguata.[^7-1] …[^7-2]
 
 <sup>3</sup> L’avere non è remunerato.
 
 [^7-1]: Nuovo testo giusta il n. I 7 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^7-2]: Per. introdotto dal n. I 2 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^7-2]: Per. introdotto dal n. I 2 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID‑19, in vigore dal 26 set. 2020 al 31 dic. 2021 ( [[RU 2020 3825](http://www.admin.ch/ch/i/as/2020/3825.pdf)](https://fedlex.data.admin.ch/eli/oc/2020/708); [[FF 2020 5907](http://www.admin.ch/ch/i/ff/2020/5907.pdf)](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
 #### Art. 8
 
@@ -157,23 +159,30 @@ L’ordinanza dell’Assemblea federale del 9 ottobre 1998[^9-1] relativa al reg
 
 #### Art. 10
 
-**Scioglimento del fondo per i grandi progetti ferroviari**
+**Assunzione di attivi e passivi del fondoper i grandi progetti ferroviari nonché di mutui[^10-1]**
 
-<sup>1</sup> Con l’entrata in vigore del decreto federale del 20 giugno 2013[^10-1] concernente il finanziamento e l’ampliamento dell’infrastruttura ferroviaria (controprogetto diretto all’iniziativa popolare «Per i trasporti pubblici»), il Fondo si assume tutti gli attivi e i passivi del fondo per i grandi progetti ferroviari.
+<sup>1</sup> Con l’entrata in vigore del decreto federale del 20 giugno 2013[^10-2] concernente il finanziamento e l’ampliamento dell’infrastruttura ferroviaria (controprogetto diretto all’iniziativa popolare «Per i trasporti pubblici»), il Fondo si assume tutti gli attivi e i passivi del fondo per i grandi progetti ferroviari.
 
 <sup>2</sup> Contemporaneamente il Fondo si assume i mutui concessi a carico del bilancio ordinario della Confederazione per investimenti nell’infrastruttura ferroviaria.
 
-[^10-1]: [RU 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104)
+<sup>3</sup> Il Fondo si assume i mutui concessi per investimenti nell’infrastruttura ferroviaria alle imprese aventi diritto a indennità, se è stato presentato il conteggio del relativo progetto.[^10-3]
+
+<sup>4</sup> I mutui rimborsabili condizionalmente contabilizzati nel Fondo possono essere trasferiti nel conto della Confederazione su decisione del Consiglio federale.[^10-4]
+
+[^10-1]: Nuovo testo giusta il n. I 7 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^10-2]: [RU 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104)
+[^10-3]: Introdotto dal n. I 7 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^10-4]: Introdotto dal n. I 7 della LF del 19 mar. 2021 concernente agevolazioni amministrative e misure di sgravio del bilancio della Confederazione, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 11
 
 **Estinzione dell’anticipo**
 
-<sup>1</sup> A partire al più tardi dal 1° gennaio 2019 e sino alla completa estinzione dell’anticipo, nel preventivo e nella pianificazione finanziaria del Fondo sono destinati alla rimunerazione e al rimborso dell’anticipo almeno il 50 per cento dei conferimenti di cui all’articolo 87*a* capoverso 2 lettera a Cost. nonché i conferimenti di cui all’articolo 196 numero 3 capoverso 2 Cost. Questa disposizione non si applica all’anno 2020.[^11-1]
+<sup>1</sup> A partire al più tardi dal 1° gennaio 2019 e sino alla completa estinzione dell’anticipo, nel preventivo e nella pianificazione finanziaria del Fondo sono destinati alla rimunerazione e al rimborso dell’anticipo almeno il 50 per cento dei conferimenti di cui all’articolo 87*a* capoverso 2 lettera a Cost. nonché i conferimenti di cui all’articolo 196 numero 3 capoverso 2 Cost. …[^11-1]
 
 <sup>2</sup> Sull’anticipo sono prelevati tassi di interesse conformi al mercato. L’Amministrazione federale delle finanze stabilisce i dettagli.
 
-[^11-1]: Per. introdotto dal n. I 2 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^11-1]: Per. introdotto dal n. I 2 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID‑19, in vigore dal 26 set. 2020 al 31 dic. 2021 ( [[RU 2020 3825](http://www.admin.ch/ch/i/as/2020/3825.pdf)](https://fedlex.data.admin.ch/eli/oc/2020/708); [[FF 2020 5907](http://www.admin.ch/ch/i/ff/2020/5907.pdf)](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
 #### Art. 12
 

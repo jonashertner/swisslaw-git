@@ -4,20 +4,20 @@ title: "Loi fédérale du 21 juin 2013 sur le fonds de financement de l'infrastr
 short: LFIF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/107"
 language: fr
-version: 2020-09-26
+version: 2022-01-01
 adopted: 2013-06-21
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/107/20200926/fr/xml/fedlex-data-admin-ch-eli-cc-2015-107-20200926-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/107/20200926/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/107/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-107-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/107/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur le fonds de financement de l’infrastructure ferroviaire****
+# Loi fédérale sur le fonds de financement de l’infrastructure ferroviaire
 
 (Loi sur le fonds d’infrastructure ferroviaire, LFIF)[^t-1]
 
-du 21 juin 2013 (Etat le 26 septembre 2020)
+du 21 juin 2013 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Annexe de la LF du 21 juin 2013 sur le financement et l’aménagement de l’infrastructure ferroviaire ([RO 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106)).
 
@@ -55,7 +55,7 @@ Le compte de résultats présente au moins:
   au titre des revenus:
 
   - 1\. les versements sous forme de recettes à affectation obligatoire,
-  - 2\. les versements provenant des finances fédérales conformément à l’art. 87*a*, al.2, let.d, de la Constitution,
+  - 2\. les versements provenant des finances fédérales conformément à l’art. 87*a*, al. 2, let. d, de la Constitution,
   - 3\. les intérêts actifs sur les prêts;
 
 - b.
@@ -84,7 +84,9 @@ Le compte de résultats présente au moins:
 
 <sup>1</sup> Le Conseil fédéral fixe les montants destinés au fonds.
 
-<sup>2</sup> Les montants définis aux art. 87*a*, al. 2, let. d, et 196, ch. 3, al. 2, Cst. sont basés sur les prix de 2014. Ils sont corrigés en fonction de l’évolution du produit intérieur brut réel et suivent l’indice du renchérissement de la construction ferroviaire. Le Département fédéral des finances règle les modalités, en accord avec le Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
+<sup>2</sup> Les montants définis aux art. 87*a*, al. 2, let. d, et 196, ch. 3, al. 2, Cst. sont basés sur les prix de 2014. Ils sont corrigés chaque année en fonction de l’évolution du produit intérieur brut réel et suivent l’indice suisse des prix à la consommation.[^3-1] Le Département fédéral des finances règle les modalités, en accord avec le Département fédéral de l’environnement, des transports, de l’énergie et de la communication.
+
+[^3-1]: Nouvelle teneur de la phrase selon le ch. I 7 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 4
 
@@ -134,12 +136,12 @@ Les crédits d’engagement destinés aux étapes d’aménagement sont régis p
 
 <sup>1</sup> Le fonds ne doit pas s’endetter plus que jusqu’à concurrence des avances versées.
 
-<sup>2</sup> Il constitue, à partir du 1<sup>er</sup> janvier 2020, une réserve appropriée.[^7-1] Cette disposition n’est pas applicable en 2020 ni en 2021.[^7-2]
+<sup>2</sup> Il constitue, à partir du 1<sup>er</sup> janvier 2020, une réserve appropriée.[^7-1] …[^7-2]
 
 <sup>3</sup> Les avoirs ne sont pas rémunérés.
 
-[^7-1]: Nouvelle teneur selon le ch. I 7 de la LF du 17 mars 2017 sur le programme de stabilisation 2017-2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^7-2]: Phrase introduite par le ch. I 2 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID-19, en vigueur du 26 sept. 2020 au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^7-1]: Nouvelle teneur selon le ch. I 7 de la LF du 17 mars 2017 sur le programme de stabilisation 2017–2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^7-2]: Phrase introduite par le ch. I 2 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID‑19, en vigueur du 26 sept. 2020 au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
 #### Art. 8
 
@@ -159,23 +161,30 @@ L’ordonnance de l’Assemblée fédérale du 9 octobre 1998 portant règlement
 
 #### Art. 10
 
-**Dissolution du fonds pour les grands projets ferroviaires**
+**Reprise des actifs et des passifs du fonds pour les grands projets ferroviaires ainsi que des prêts[^10-1]**
 
-<sup>1</sup> Lors de l’entrée en vigueur de l’arrêté fédéral du 20 juin 2013 portant règlement du financement et de l’aménagement de l’infrastructure ferroviaire[^10-1], le fonds reprend l’ensemble des actifs et des passifs du fonds pour les grands projets ferroviaires.
+<sup>1</sup> Lors de l’entrée en vigueur de l’arrêté fédéral du 20 juin 2013 portant règlement du financement et de l’aménagement de l’infrastructure ferroviaire[^10-2], le fonds reprend l’ensemble des actifs et des passifs du fonds pour les grands projets ferroviaires.
 
 <sup>2</sup> Le fonds reprend simultanément les prêts accordés au débit des finances fédérales ordinaires et destinés aux investissements dans l’infrastructure ferroviaire.
 
-[^10-1]: [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104)
+<sup>3</sup> Il reprend les prêts accordés aux entreprises indemnisées et destinés à des investissements dans l’infrastructure ferroviaire, sous réserve de la présentation du décompte de projet.[^10-3]
+
+<sup>4</sup> Les prêts conditionnellement remboursables du fonds peuvent, sur décision du Conseil fédéral, être repris dans le compte de la Confédération.[^10-4]
+
+[^10-1]: Nouvelle teneur selon le ch. I 7 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^10-2]: [RO 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104)
+[^10-3]: Introduit par le ch. I 7 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^10-4]: Introduit par le ch. I 7 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 11
 
 **Remboursement des avances**
 
-<sup>1</sup> À compter du 1<sup>er</sup> janvier 2019 au plus tard, le budget et la planification financière du fonds doivent prévoir qu’au moins 50 % des versements au fonds prévus à l’art. 87*a*, al. 2, let. a, Cst. et l’intégralité des versements au fonds prévus à l’art. 196, ch. 3, al. 2, Cst. servent à rémunérer et à rembourser les avances, jusqu’au remboursement intégral de celles-ci. Cette disposition n’est pas applicable en 2020.[^11-1]
+<sup>1</sup> À compter du 1<sup>er</sup> janvier 2019 au plus tard, le budget et la planification financière du fonds doivent prévoir qu’au moins 50 % des versements au fonds prévus à l’art. 87*a*, al. 2, let. a, Cst. et l’intégralité des versements au fonds prévus à l’art. 196, ch. 3, al. 2, Cst. servent à rémunérer et à rembourser les avances, jusqu’au remboursement intégral de celles-ci. …[^11-1]
 
 <sup>2</sup> Les avances sont rémunérées aux taux du marché. L’Administration fédérale des finances règle les modalités.
 
-[^11-1]: Phrase introduite par le ch. I 2 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID-19, en vigueur du 26 sept. 2020 au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
+[^11-1]: Phrase introduite par le ch. I 2 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID‑19, en vigueur du 26 sept. 2020 au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
 
 #### Art. 12
 
@@ -187,5 +196,5 @@ L’ordonnance de l’Assemblée fédérale du 9 octobre 1998 portant règlement
 
 Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2016[^12-2]
 
-[^12-1]: Introduit par le ch. I 7 de la LF du 17 mars 2017 sur le programme de stabilisation 2017-2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
+[^12-1]: Introduit par le ch. I 7 de la LF du 17 mars 2017 sur le programme de stabilisation 2017–2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 [^12-2]: ACF du 2 juin 2014 ([FF 2014 3953](https://fedlex.data.admin.ch/eli/fga/2014/970)).
