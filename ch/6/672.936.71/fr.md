@@ -3,29 +3,30 @@ sr: "672.936.71"
 title: Ordonnance du 15 octobre 2008 relative à la convention de double imposition conclue entre la Suisse et la Grande-Bretagne
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/137"
 language: fr
-version: 2008-12-22
+version: 2022-01-01
 adopted: 2008-10-15
 in_force: 2008-12-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/137/20081222/fr/xml/fedlex-data-admin-ch-eli-cc-2009-137-20081222-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/137/20081222/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/137/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-137-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/137/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance relative à la convention de double imposition conclue entre la Suisse et la Grande-Bretagne
+# Ordonnance relative à la convention de double imposition conclue entre la Suisse et la Grande‑Bretagne
 
-du 15 octobre 2008 (Etat le 22 décembre 2008)
+du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’arrêté fédéral du 22 juin 1951 concernant l’exécution des conventions internationales conclues par la Confédération en vue d’éviter les doubles impositions[^ingress-1] et en application de la Convention du 8 décembre 1977 conclue entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord en vue d’éviter les doubles impositions en matière d’impôts sur le revenu[^ingress-2] (ci-après désigné par «la Convention»),
+vu l’art. 35, al. 1, de la loi fédérale du 18 juin 2021 relative à l’exécution des conventions internationales dans le domaine fiscal[^ingress-1], et en application de la Convention du 8 décembre 1977 conclue entre la Confédération suisse et le Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord en vue d’éviter les doubles impositions en matière d’impôts sur le revenu (Convention)[^ingress-2]<sup>,</sup> [^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [RS 0.672.936.712](https://fedlex.data.admin.ch/eli/cc/1978/1465_1465_1465)
+[^ingress-1]: [RS 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [RS 0.672.936.712](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2597)
+[^ingress-3]: Nouvelle teneur selon le ch. II 11 de l’O du 10 novembre 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janvier 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
-## Section 1 Echange de renseignements en général
+## Section 1 Échange de renseignements en général
 
 #### Art. 1
 
@@ -35,7 +36,7 @@ arrête:
 
 <sup>3</sup> Le recours contre la décision de l’AFC est régi par les dispositions générales de la procédure fédérale.
 
-## Section 2 Echange de renseignements en cas de fraude fiscale ou d’infraction équivalente
+## Section 2 Échange de renseignements en cas de fraude fiscale ou d’infraction équivalente
 
 #### Art. 2
 
@@ -73,7 +74,7 @@ arrête:
 
 **Mesures de contrainte**
 
-<sup>1</sup> Si les renseignements requis par l’AFC ne sont pas fournis dans le délai fixé, celle-ci peut ordonner des mesures de contrainte. Elle peut faire saisir des objets, des documents ou des pièces présentés sous forme écrite ou sur des supports de données ou d’images ou faire procéder à des perquisitions.
+<sup>1</sup> Si les renseignements requis par l’AFC ne sont pas fournis dans le délai fixé, celle‑ci peut ordonner des mesures de contrainte. Elle peut faire saisir des objets, des documents ou des pièces présentés sous forme écrite ou sur des supports de données ou d’images ou faire procéder à des perquisitions.
 
 <sup>2</sup> Les mesures de contrainte sont ordonnées par le directeur de l’AFC ou par son suppléant. Elles doivent être exécutées par des fonctionnaires formés à cet effet, et seuls peuvent être saisis les objets, les documents et les pièces qui pourraient être en relation avec la demande d’échange de renseignements.
 
@@ -89,7 +90,7 @@ arrête:
 
 <sup>2</sup> La perquisition est régie par l’art. 49 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^6-1].
 
-[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 

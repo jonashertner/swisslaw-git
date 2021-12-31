@@ -3,27 +3,28 @@ sr: "672.936.71"
 title: Verordnung vom 15. Oktober 2008 zum schweizerisch-britischen Doppelbesteuerungsabkommen
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/137"
 language: de
-version: 2008-12-22
+version: 2022-01-01
 adopted: 2008-10-15
 in_force: 2008-12-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/137/20081222/de/xml/fedlex-data-admin-ch-eli-cc-2009-137-20081222-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/137/20081222/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/137/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-137-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/137/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung zum schweizerisch-britischen Doppelbesteuerungsabkommen
 
-vom 15. Oktober 2008 (Stand am 22. Dezember 2008)
+vom 15. Oktober 2008 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf den Bundesbeschluss vom 22. Juni 1951[^ingress-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung, in Ausführung des Abkommens vom 8. Dezember 1977[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen (Abkommen),
+gestützt auf Artikel 35 Absatz 1 des Bundesgesetzes vom 18. Juni 2021[^ingress-1] über die Durchführung von internationalen Abkommen im Steuerbereich, in Ausführung des Abkommens vom 8. Dezember 1977[^ingress-2] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen (Abkommen),[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/eli/cc/2021/703)
-[^ingress-2]: [SR 0.672.936.712](https://fedlex.data.admin.ch/eli/cc/1978/1465_1465_1465)
+[^ingress-1]: [SR 672.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8245)
+[^ingress-2]: [SR 0.672.936.712](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2597)
+[^ingress-3]: Fassung gemäss Ziff. II 11 der V vom 10. November 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Januar 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 ## 1. Abschnitt: Allgemeiner Informationsaustausch
 
@@ -89,7 +90,7 @@ verordnet:
 
 <sup>2</sup> Die Durchführung richtet sich nach Artikel 49 des Bundesgesetzes vom 22. März 1974[^6-1] über das Verwaltungsstrafrecht.
 
-[^6-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^6-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 7
 
@@ -141,7 +142,7 @@ verordnet:
 
 Die Verordnung vom 23. April 1975[^11-1] zum schweizerisch-britischen Doppelbesteuerungsabkommen wird aufgehoben.
 
-[^11-1]: [[AS 1975 851](https://fedlex.data.admin.ch/eli/oc/1975/851_851_851), [1978 1554](https://fedlex.data.admin.ch/eli/oc/1978/1554_1554_1554), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 54]
+[^11-1]: [[AS 1975 851](https://fedlex.data.admin.ch/eli/oc/1975/851_851_851); [1978 1554](https://fedlex.data.admin.ch/eli/oc/1978/1554_1554_1554); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 54]
 
 #### Art. 12
 
