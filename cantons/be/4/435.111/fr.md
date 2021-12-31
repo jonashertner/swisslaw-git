@@ -4,13 +4,13 @@ number: "435.111"
 title: "Ordonnance sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: OFOP
 language: fr
-version: 2020-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-16
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-11-24
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2022/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2460/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2022/pdf_file"
 
 (OFOP)
 
-du 09.11.2005 (état au 01.11.2020)
+du 09.11.2005 (état au 01.01.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -193,7 +193,7 @@ arrête:
 <sup>1</sup> Le lieu scolaire ordinaire des personnes en formation est en principe
 
 - a le lieu attribué à leur domicile où l’année scolaire de préparation professionnelle appropriée est proposée ou
-- b le lieu le plus proche de leur domicile où une classe de préapprentissage appropriée est proposée.
+- b le lieu le plus proche de leur lieu d'apprentissage où une classe de préapprentissage appropriée est proposée.
 
 <sup>2</sup> Pour de justes motifs, il est possible de déroger à cette règle, en particulier
 
@@ -1519,7 +1519,7 @@ arrête:
 
 **Autre procédure de qualification conformément à l’article 32 OFPr**
 
-<sup>1</sup> La procédure de qualification qui conduit au CFC est gratuite pour les personnes qui ne disposent pas d’un CFC, ni d’un diplôme d’école moyenne, pour autant que leur domicile légal en matière de subsides de formation se trouve dans le canton de Berne. Les frais de matériel sont facturés.
+<sup>1</sup> Les autres procédure de qualification sanctionnées par un CFC au sens de l'article 32 OFPr sont gratuites pour les personnes qui ont leur domicile civil dans le canton de Berne. Les frais de matériel sont facturés.
 
 <sup>2</sup> Les autres candidats et candidates prennent à leur charge au plus 60 pour cent des frais.
 
@@ -1531,14 +1531,16 @@ arrête:
 
 <sup>1</sup> La subvention cantonale visée à l’article 91a, alinéa 2 est versée aux personnes qui suivent un cours préparatoire pour autant que celles-ci prouvent
 
-- a qu’une subvention fédérale leur est versée et que
-- b leur domicile légal en matière de subsides de formation se trouve dans le canton de Berne.
+- a qu’une subvention fédérale leur est versée et
+- b que leur domicile légal en matière de subsides de formation se trouve dans le canton de Berne au moment où elles se présentent à l'examen fédéral.
 
 <sup>2</sup> L’Office des écoles moyennes et de la formation professionnelle fixe le montant de la subvention de telle sorte que les émoluments ou les coûts exigés pour les cours préparatoires correspondent à ceux pratiqués pour des offres intracantonales ou extracantonales comparables quant au domaine professionnel visé et au nombre de leçons, à concurrence toutefois de la moitié du montant de la subvention fédérale.
 
 <sup>3</sup> La subvention est versée après le passage de l’examen fédéral, indépendamment de la réussite ou de l’échec à l’examen.
 
 <sup>4</sup> …
+
+<sup>3a</sup> La Section de la formation continue et de la formation professionnelle supérieure de l'Office des écoles moyennes et de la formation professionnelle statue sur demande.
 
 #### Art. 130b
 
@@ -1835,6 +1837,12 @@ arrête:
 <sup>1</sup> Le canton de Berne approuve l’abrogation de l’accord intercantonal du 27 août 1998 sur les écoles supérieures spécialisées (AESS)[^T42-1] au 31 décembre 2016.
 
 [^T42-1]: RSB 439.17-1
+
+## T5 Disposition transitoire de la modification du 24.11.2021
+
+#### Art. T5-1
+
+<sup>1</sup> Le lieu scolaire ordinaire des personnes qui ont commencé un préapprentissage avant le 1<sup>er</sup> février 2022 est défini conformément à l’ancien droit.
 
 ## A1
 

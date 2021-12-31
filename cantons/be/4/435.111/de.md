@@ -4,13 +4,13 @@ number: "435.111"
 title: "Verordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerV
 language: de
-version: 2020-11-01
-valid_until: 2021-12-31
-version_adopted: 2020-09-16
+version: 2022-01-01
+valid_until: 2022-02-28
+version_adopted: 2021-11-24
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2022/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2022/pdf_file"
 
 (BerV)
 
-vom 09.11.2005 (Stand 01.11.2020)
+vom 09.11.2005 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -195,7 +195,7 @@ beschliesst:
 <sup>1</sup> Der ordentliche Schulort für Lernende ist grundsätzlich
 
 - a der ihrem Wohnort zugeteilte Ort, an dem das geeignete berufsvorbereitende Schuljahr angeboten wird, oder
-- b der ihrem Wohnort nächstgelegene Ort, an dem die geeignete Vorlehrklasse angeboten wird.
+- b der ihrem Lehrort nächstgelegene Ort, an dem die geeignete Vorlehrklasse angeboten wird.
 
 <sup>2</sup> Aus wichtigen Gründen kann davon abgewichen werden, insbesondere
 
@@ -1531,7 +1531,7 @@ beschliesst:
 
 **Andere Qualifikationsverfahren gemäss Artikel 32 BBV**
 
-<sup>1</sup> Das Qualifikationsverfahren, das zum EFZ führt, ist für Personen ohne EFZ oder Mittelschulabschluss unentgeltlich, sofern sie stipendienrechtlichen Wohnsitz im Kanton Bern haben. Die Materialkosten werden in Rechnung gestellt.
+<sup>1</sup> Die anderen Qualifikationsverfahren zum EFZ gemäss Artikel 32 BBV sind für Personen mit zivilrechtlichem Wohnsitz im Kanton Bern unentgeltlich. Die Materialkosten werden in Rechnung gestellt.
 
 <sup>2</sup> Die übrigen Kandidatinnen und Kandidaten übernehmen höchstens 60 Prozent der Kosten.
 
@@ -1544,13 +1544,15 @@ beschliesst:
 <sup>1</sup> Der kantonale Beitrag gemäss Artikel 91a Absatz 2 an Absolventinnen und Absolventen von vorbereitenden Kursen wird ausgerichtet, wenn diese nachweisen, dass
 
 - a ein Bundesbeitrag ausgerichtet wird und
-- b ihr stipendienrechtlicher Wohnsitz im Kanton Bern liegt.
+- b ihr stipendienrechtlicher Wohnsitz zum Zeitpunkt der Absolvierung der eidgenössischen Prüfung im Kanton Bern liegt.
 
 <sup>2</sup> Das Mittelschul- und Berufsbildungsamt legt den Beitrag so fest, dass die vorbereitenden Kurse zu Gebühren oder Kosten besucht werden können, die denjenigen von vergleichbaren inner- oder ausserkantonalen Angeboten bezüglich Berufsfeld und Lektionenzahl entsprechen. Der Beitrag beträgt aber höchstens die Hälfte des Bundesbeitrags.
 
 <sup>3</sup> Der Beitrag wird nach Absolvierung der eidgenössischen Prüfung ausgerichtet, unabhängig von deren Bestehen.
 
 <sup>4</sup> …
+
+<sup>3a</sup> Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts verfügt auf entsprechendes Gesuch hin.
 
 #### Art. 130b
 
@@ -1854,6 +1856,12 @@ beschliesst:
 #### Art. T4-2
 
 <sup>1</sup> Der Kanton Bern genehmigt die Aufhebung der Interkantonalen Fachschulvereinbarung auf den 31. Dezember 2016.
+
+## T5 Übergangsbestimmung der Änderung vom 24.11.2021
+
+#### Art. T5-1
+
+<sup>1</sup> Der ordentliche Schulort von Lernenden in Vorlehren, die vor dem 1. Februar 2022 begonnen haben, richtet sich auslaufend nach bisherigem Recht.
 
 ## A1
 
