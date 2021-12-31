@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l
 short: LACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: fr
-version: 2021-12-18
+version: 2022-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20211218/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20211218-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20211218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20220101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20211218/fr"
 
 (Loi sur l’assurance-chômage, LACI)
 
-du 25 juin 1982 (Etat le 18 décembre 2021)
+du 25 juin 1982 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -689,7 +689,7 @@ L’assuré a droit à:
 
 <sup>4</sup> Les personnes libérées des conditions relatives à la période de cotisation ont droit à 90 indemnités journalières au plus.[^27-4]
 
-<sup>5</sup> *...*[^27-5]
+<sup>5</sup> Les personnes qui, en vertu de l’art. 14, al. 2, sont contraintes d’exercer une activité salariée ou d’étendre une activité salariée en raison de la suppression de leur rente d’invalidité ont droit à 180 indemnités journalières au plus.[^27-5]
 
 <sup>5bis</sup> Les personnes âgées de moins de 25 ans qui n’ont pas d’obligation d’entretien envers des enfants ont droit à 200 indemnités journalières au plus.[^27-6]
 
@@ -697,7 +697,7 @@ L’assuré a droit à:
 [^27-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2012 495](https://fedlex.data.admin.ch/eli/oc/2012/73); [FF 2011 6695](https://fedlex.data.admin.ch/eli/fga/2011/1177)[6703](https://fedlex.data.admin.ch/eli/fga/2011/1179)).
 [^27-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^27-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^27-5]: Abrogé par le ch. I de la LF du 19 mars 2010, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^27-5]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^27-6]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 28
@@ -2060,7 +2060,7 @@ Les autorités cantonales, les offices régionaux de placement, les services de 
 
 En dérogation aux art. 32 et 33 LPGA[^85f-3], les organes mentionnés à l’al. 1, let. a à h, peuvent être autorisés, selon les cas, à consulter les dossiers nécessaires ainsi que les données enregistrées dans les systèmes d’information prévu à l’art. 83, al. 1<sup>bis</sup>, let. a, de la présente loi et à l’art. 35*a*, al. 1, LSE[^85f-4] aux conditions suivantes:[^85f-5]
 
-- a. l’intéressé reçoit des prestations de l’organe concerné et donne sont accord;
+- a. l’intéressé reçoit des prestations de l’organe concerné et donne son accord;
 - b. l’organe concerné accorde la réciprocité aux organes d’exécution de l’assurance-chômage.
 
 <sup>3</sup>
@@ -2323,6 +2323,16 @@ Lorsqu’une caisse ou une autorité cantonale doit supporter des frais de justi
 [^94-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^94-5]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
+#### Art. 94a
+
+**Prise en charge des indemnités journalières par l’assurance-invalidité**[^94a-1]
+
+<sup>1</sup> Les coûts des indemnités journalières au sens de l’art. 27, al. 5, cotisations sociales et coûts des mesures du marché du travail compris, sont pris en charge par l’assurance-invalidité dès la 91<sup>e</sup> indemnité journalière.
+
+<sup>2</sup> Le Conseil fédéral règle la procédure de décompte.
+
+[^94a-1]: Introduit par l’annexe ch. 7 de la LF du 19 juin 2020 (Développement continu de l’AI), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2363](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+
 #### Art. 95
 
 **Restitution de prestations**[^95-1]
@@ -2347,12 +2357,13 @@ Lorsqu’une caisse ou une autorité cantonale doit supporter des frais de justi
 
 #### Art. 96
 
-**Utilisation du numéro d’assuré AVS**[^96-1]
+**Utilisation du numéro AVS[^96-2]**[^96-1]
 
-Les organes chargés d’appliquer la présente loi sont habilités à utiliser systématiquement le numéro d’assuré AVS pour l’accomplissement de leurs tâches légales, conformément aux dispositions de la LAVS[^96-2].
+Les organes chargés d’appliquer la présente loi sont habilités à utiliser systématiquement le numéro AVS pour l’accomplissement de leurs tâches légales, conformément aux dispositions de la LAVS[^96-3].
 
 [^96-1]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^96-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^96-2]: Nouvelle expression selon l’annexe ch. 36 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^96-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 96a
 
@@ -2371,11 +2382,11 @@ Les organes chargés d’appliquer la présente loi, d’en contrôler ou survei
 - c. établir le droit aux subventions, les calculer, les verser et en contrôler l’usage;
 - d. prélever les cotisations d’autres assurances sociales;
 - e. prélever l’impôt à la source;
-- f. mettre en oeuvre les mesures relatives au marché du travail;
+- f. mettre en œuvre les mesures relatives au marché du travail;
 - g. faire valoir les prétentions de l’assurance;
 - h. surveiller l’exécution de la présente loi;
 - i. établir des statistiques;
-- j.[^96b-3] attribuer ou vérifier le numéro d’assuré AVS.
+- j.[^96b-3] attribuer ou vérifier le numéro AVS.
 
 [^96b-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^96b-2]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
@@ -2450,7 +2461,7 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
 - a. à d’autres organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution, lorsqu’elles sont nécessaires à l’accomplissement des tâches que leur assigne la présente loi;
 - a<sup>bis</sup>.[^97a-3] aux organes d’exécution des lois cantonales relatives à l’aide aux chômeurs;
 - b. aux organes d’une autre assurance sociale, lorsque, en dérogation à l’art. 32, al. 2, LPGA, l’obligation de les communiquer résulte d’une loi fédérale;
-- [tab] b<sup>bis</sup>.[^97a-4]à des organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro d’assuré AVS;
+- [tab] b<sup>bis</sup>.[^97a-4]à des organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
 - b<sup>ter</sup>.[^97a-5] aux autorités compétentes en matière d’étrangers, conformément à l’art. 97, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^97a-6];
 - c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^97a-7] et aux dispositions cantonales correspondantes;
 - c<sup>bis</sup>.[^97a-8] aux autorités fiscales cantonales, si la loi cantonale prévoit l’envoi de l’attestation des prestations directement à ces dernières;
