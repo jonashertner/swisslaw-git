@@ -4,11 +4,11 @@ title: "Ordinanza del 19 dicembre 1966 sull'imposta preventiva (OIPrev)"
 short: OIPrev
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20200101/it"
 
 (OIPrev)**[^t-1]**
 
-del 19 dicembre 1966 (Stato 1° gennaio 2020)
+del 19 dicembre 1966 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -441,7 +441,7 @@ L’istanza deve essere presentata per iscritto all’Amministrazione federale d
 
 <sup>2</sup> La società contribuente, da parte sua, completa l’istanza e la presenta spontaneamente all’Amministrazione federale delle contribuzioni entro 30 giorni dalla scadenza dei dividendi unitamente al modulo ufficiale da allegare al conto annuale. È applicabile l’articolo 21.
 
-<sup>3</sup> La procedura di notifica è ammessa soltanto se è accertato che la società di capitali, la società cooperativa, l’investimento collettivo di capitale oppure l’ente pubblico, a carico della o del quale l’imposta dovrebbe essere trasferita, avrebbe diritto al suo rimborso secondo la legge o l’ordinanza. [^26a-3]
+<sup>3</sup> La procedura di notifica è ammessa soltanto se è accertato che la società di capitali, la società cooperativa, l’investimento collettivo di capitale oppure l’ente pubblico, a carico della o del quale l’imposta dovrebbe essere trasferita, avrebbe diritto al suo rimborso secondo la legge o l’ordinanza.[^26a-3]
 
 <sup>4</sup> Se dal controllo dell’Amministrazione federale delle contribuzioni risulta che si è a torto usato della procedura di notifica, l’imposta preventiva deve essere riscossa posticipatamente; se il credito fiscale è contestato, l’Amministrazione federale delle contribuzioni emana una corrispondente decisione. È fatta salva l’apertura di un procedimento penale.
 
@@ -663,7 +663,7 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 [^tit1-chap3-1]
 
-[^tit1-chap3-1]: Nuovo testo giusta il l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit1-chap3-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### I. e II. …
 
@@ -671,7 +671,7 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 [^3940-1]
 
-[^3940-1]: Abrogati dal l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, con effetto dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^3940-1]: Abrogati dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, con effetto dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### III. Pagamento dell’imposta; attestazione
 
@@ -681,7 +681,7 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 [^tit1-chap3-lvlIII-lvl1-lvla-1]
 
-[^tit1-chap3-lvlIII-lvl1-lvla-1]: Nuovo testo giusta il l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit1-chap3-lvlIII-lvl1-lvla-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 #### Art. 41
 
@@ -691,8 +691,8 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 <sup>3</sup> …[^41-2]
 
-[^41-1]: Nuovo testo giusta il l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
-[^41-2]: Abrogato dal l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, con effetto dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41-2]: Abrogato dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, con effetto dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### b. Vincite in natura
 
@@ -702,7 +702,7 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 Le vincite in natura superiori a un milione di franchi risultanti dalla partecipazione a giochi in denaro devono essere dichiarate spontaneamente su modulo ufficiale all’Amministrazione federale delle contribuzioni entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore. L’articolo 41 capoverso 2 è applicabile per analogia.
 
-[^41a-1]: Introdotto dal l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41a-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### 2. Vincite alle lotterie e ai giochi di destrezza destinati a promuovere le vendite
 
@@ -714,7 +714,7 @@ Le vincite in natura superiori a un milione di franchi risultanti dalla partecip
 
 L’imposta è calcolata sulle singole vincite in denaro di oltre 1000 franchi a lotterie e giochi di destrezza destinati a promuovere le vendite. Essa deve essere pagata spontaneamente all’Amministrazione federale delle contribuzioni entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.
 
-[^41b-1]: Introdotto dal l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41b-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### b. Vincite in natura
 
@@ -724,7 +724,7 @@ L’imposta è calcolata sulle singole vincite in denaro di oltre 1000 franchi a
 
 Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie destinati a promuovere le vendite devono essere dichiarate spontaneamente su modulo ufficiale all’Amministrazione federale delle contribuzioni entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore.
 
-[^41c-1]: Introdotto dal l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^41c-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### IV. Rimborso dell’imposta riscossa sui premi non ritirati
 
@@ -852,9 +852,9 @@ L’imposta sulle prestazioni d’assicurazione, alla cui notifica è stata fatt
 
 <sup>2</sup> L’istanza di rimborso, redatta su modulo ufficiale, deve essere presentata all’Amministrazione federale delle contribuzioni.
 
-<sup>3</sup> L’imposta preventiva è rimborsata in contanti o computata nell’imposta per la difesa nazionale[^52-1] dovuta dall’istante.
+<sup>3</sup> ...[^52-1]
 
-[^52-1]: Ora: imposta federale diretta
+[^52-1]: Abrogato dal n. I dell’O del 3 feb. 2021, con effetto dal 1° gen 2022 ([RU 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
 
 ### 3. Casse d’assicurazioni e istituzioni di previdenza
 
@@ -930,19 +930,21 @@ Alla stessa stregua delle persone giuridiche hanno diritto al rimborso dell’im
 
 #### Art. 59
 
-<sup>1</sup> Se, alla sua morte, l’autore della successione era assoggettato illimitatamente alle imposte in Svizzera, gli eredi devono chiedere il rimborso dell’imposta preventiva sia in comune, sia per il tramite di un rappresentante comune; nella istanza devono figurare i dati personali e l’indirizzo di tutti gli eredi e la loro quota alla successione.
+[^59-1]
 
-<sup>2</sup> L’istanza deve essere presentata all’autorità fiscale cantonale competente per la tassazione dell’autore della successione, con un duplicato per ciascun Cantone in cui sono assoggettati ad imposta gli eredi facenti parte della comunione ereditaria. L’autorità trasmette i duplicati dell’istanza, apportandovi eventualmente le sue osservazioni, alle autorità cantonali competenti per gli eredi.
+<sup>1</sup> Se una prestazione colpita dall’imposta preventiva matura prima dell’apertura di una successione, l’istanza di rimborso di questa imposta deve essere presentata da tutti gli eredi in comune o dal loro rappresentante comune all’autorità fiscale cui competeva il rimborso dell’imposta preventiva all’autore della successione.
 
-<sup>3</sup> I Cantoni possono prevedere, nelle loro disposizioni di esecuzione, un ordinamento differente da quello dei capoversi 1 e 2, quando, nei casi di successione, il rimborso dell’imposta preventiva è trattato esclusivamente dalle autorità del medesimo Cantone.
+<sup>2</sup> Se una prestazione colpita dall’imposta preventiva è maturata dopo la morte dell’autore della successione, l’istanza di rimborso deve essere presentata da ogni erede in proporzione alla sua quota successoria all’autorità fiscale per lui competente.
 
-<sup>4</sup> Se, alla sua morte, l’autore della successione non era assoggettato illimitatamente alle imposte in Svizzera, ogni erede avente diritto al rimborso giusta l’articolo 58 capoverso 2 deve presentare l’istanza all’autorità per lui personalmente competente.
+<sup>3</sup> Nei casi di cui al capoverso 2 l’autorità fiscale cui competeva il rimborso dell’imposta preventiva all’autore della successione comunica all’autorità fiscale competente per gli eredi il nome e l’indirizzo degli altri eredi come pure le loro quote successorie.
+
+[^59-1]: Nuovo testo giusta il n. I dell’O del 3 feb. 2021, in vigore dal 1° gen 2022 ([RU 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
 
 ### 4. Pluralità di aventi diritto (club d’investimento, giochi in denaro, giochi di destrezza e lotterie destinati a promuovere le vendite, prestazioni d’assicurazione)
 
 [^tit2-chap1-lvlII-lvl4-1]
 
-[^tit2-chap1-lvlII-lvl4-1]: Nuovo testo giusta il l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit2-chap1-lvlII-lvl4-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 #### Art. 60
 
@@ -954,7 +956,7 @@ Alla stessa stregua delle persone giuridiche hanno diritto al rimborso dell’im
 
 <sup>4</sup> Se l’attestazione quanto alla deduzione dell’imposta menziona che il diritto derivante dall’assicurazione era costituito in pegno all’atto del versamento della prestazione, l’imposta preventiva è rimborsata all’avente diritto o al creditore pignoratizio, ma soltanto con il consenso dell’uno o dell’altro.
 
-[^60-1]: Nuovo testo giusta il l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^60-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### 5. Rapporti fiduciari
 
@@ -1072,7 +1074,7 @@ Un’attestazione relativa alla deduzione dell’imposta (art. 3 cpv. 2) deve es
 - a.[^68-1] da vincite a giochi in denaro o da vincite a lotterie e giochi di destrezza destinati a promuovere le vendite;
 - b. dal reddito fruttato da investimenti operati da associazioni di risparmio o da casse di risparmio aziendali, se il rimborso deve essere chiesto dal depositante (art. 54 cpv. 2).
 
-[^68-1]: Nuovo testo giusta il l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^68-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### 2. …
 
@@ -1080,7 +1082,7 @@ Un’attestazione relativa alla deduzione dell’imposta (art. 3 cpv. 2) deve es
 
 [^69-1]
 
-[^69-1]: Abrogato dal l’all. n. II 4 dell’O del 14 ago. 2013 sulle basi temporali dell’imposta federale diretta, con effetto dal 1° gen. 2014 ([RU 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
+[^69-1]: Abrogato dall’all. n. II 4 dell’O del 14 ago. 2013 sulle basi temporali dell’imposta federale diretta, con effetto dal 1° gen. 2014 ([RU 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
 
 ## Titolo III. Disposizione finale
 
@@ -1123,3 +1125,11 @@ La presente modifica è applicabile alle prestazioni imponibili che scadono dopo
 [^u3-1]: [RU 2010 2963](https://fedlex.data.admin.ch/eli/oc/2010/394)
 
 Le disposizioni modificate sono applicabili alle prestazioni imponibili che scadono dopo il 31 luglio 2010.
+
+## Disposizione transitoria della modifica del 3 febbraio 2021****
+
+[^u4-1]
+
+[^u4-1]: [RU 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)
+
+La presente modifica è applicabile alle prestazioni imponibili che scadono a decorrere dal 1° gennaio 2022.

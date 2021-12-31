@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Dezember 1966 über die Verrechnungssteuer (Verrechnu
 short: VStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20200101/de"
 
 (Verrechnungssteuerverordnung, VStV)**[^t-1]**
 
-vom 19. Dezember 1966 (Stand am 1. Januar 2020)
+vom 19. Dezember 1966 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -843,9 +843,9 @@ Die Steuer auf Versicherungsleistungen, gegen deren Meldung Einspruch erhoben wu
 
 <sup>2</sup> Der Antrag auf Rückerstattung ist auf dem amtlichen Formular der Eidgenössischen Steuerverwaltung einzureichen.
 
-<sup>3</sup> Der Anspruch wird in bar oder durch Verrechnung mit der vom Antragsteller zu entrichtenden Wehrsteuer[^52-1] befriedigt.
+<sup>3</sup> ...[^52-1]
 
-[^52-1]: Heute: direkte Bundessteuer
+[^52-1]: Aufgehoben durch Ziff. I der V vom 3. Febr. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
 
 ### 3. Versicherungskassen und Fürsorgeein- richtungen
 
@@ -913,21 +913,25 @@ Gleich den juristischen Personen haben Anspruch auf Rückerstattung der Verrechn
 
 <sup>1</sup> Ist eine mit der Verrechnungssteuer belastete Leistung bei Lebzeiten des Erblassers fällig geworden, so steht der Anspruch auf Rückerstattung dieser Steuer an seiner Stelle den Erben zu, ohne Rücksicht auf ihren Wohnsitz oder Aufenthalt.
 
-<sup>2</sup> Wird ein der Verrechnungssteuer unterliegender Ertrag eines Erbschaftsgegenstandes nach dem Tode des Erblassers und vor der Teilung der Erbschaft fällig, so steht jedem Erben, soweit er persönlich die Voraussetzungen erfüllt, nach Massgabe seiner Quote an der Erbschaft ein Anspruch auf Rückerstattung dieser Steuer zu.
+<sup>2</sup> Wird ein der Verrechnungssteuer unterliegender Ertrag eines Erbschaftsgegenstandes nach dem Tode des Erblassers und vor der Teilung der Erbschaft fällig, so steht jedem Erben, soweit er persönlich die Voraussetzungen erfüllt, nach Massgabe seines Anteils[^58-1]an der Erbschaft ein Anspruch auf Rückerstattung dieser Steuer zu.
 
 <sup>3</sup> Ist nach der kantonalen Steuergesetzgebung eine Erbengemeinschaft als solche verpflichtet, auf den der Verrechnungssteuer unterliegenden Einkünften oder auf dem Vermögen, woraus solche Einkünfte fliessen, Einkommens- oder Vermögenssteuern zu entrichten, so findet Absatz 2 sinngemässe Anwendung.
+
+[^58-1]: Ausdruck gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
 
 ### b. Verfahren
 
 #### Art. 59
 
-<sup>1</sup> War der Erblasser bei seinem Tode im Inland unbeschränkt steuerpflichtig, so haben die Erben die Rückerstattung der Steuer entweder gemeinsam oder durch einen gemeinsamen Vertreter zu beantragen; im Antrag sind die Namen und Adressen aller Erben und ihre Quoten an der Erbschaft anzugeben.
+[^59-1]
 
-<sup>2</sup> Der Antrag ist bei der am Veranlagungsort des Erblassers zuständigen kantonalen Steuerbehörde einzureichen mit je einem Doppel für jeden Kanton, in dem zur Erbengemeinschaft gehörende Erben steuerpflichtig sind. Die Behörde hat die Antragsdoppel mit ihren allfälligen Bemerkungen den für die Erben zuständigen kantonalen Behörden zuzuteilen.
+<sup>1</sup> Ist eine mit der Verrechnungssteuer belastete Leistung zu Lebzeiten des Erblassers fällig geworden, so ist der Antrag auf Rückerstattung dieser Steuer durch alle Erben gemeinsam oder durch deren gemeinsamen Vertreter bei der Steuerbehörde zu stellen, die für die Rückerstattung der Verrechnungssteuer an den Erblasser zuständig war.
 
-<sup>3</sup> Die Kantone können in ihren Vollzugsvorschriften für die Rückerstattung der Verrechnungssteuer in Erbfällen, mit der sich nur Behörden ihres Kantons zu befassen haben, eine von den Absätzen 1 und 2 abweichende Ordnung vorsehen.
+<sup>2</sup> Ist eine mit der Verrechnungssteuer belastete Leistung nach dem Ableben des Erblassers fällig geworden, so ist der Antrag auf Rückerstattung durch jeden Erben nach Massgabe seines Anteils an der Erbschaft bei der für ihn zuständigen Steuerbehörde zu stellen.
 
-<sup>4</sup> War der Erblasser bei seinem Tode im Inland nicht unbeschränkt steuerpflichtig, so hat jeder Erbe, dem nach Artikel 58 Absatz 2 ein Rückerstattungsanspruch zusteht, den Antrag bei der für ihn persönlich zuständigen Behörde einzureichen.
+<sup>3</sup> In den Fällen nach Absatz 2 gibt die für die Rückerstattung der Verrechnungssteuer an den Erblasser zuständige Steuerbehörde der für den Erben zuständigen Steuerbehörde die Namen und Adressen der übrigen Erben und deren Anteile an der Erbschaft bekannt.
+
+[^59-1]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
 
 ### 4. Mehrheit von Anspruchsberechtigten (Investment- Klub, Geldspiele, Lotterien und Geschicklichkeitsspiele zur Verkaufsförderung, Versicherungsleistung)
 
@@ -1114,3 +1118,11 @@ Diese Änderung gilt für die nach dem 31. Dezember 2008 fällig werdenden steue
 [^u3-1]: [AS 2010 2963](https://fedlex.data.admin.ch/eli/oc/2010/394)
 
 Die geänderten Bestimmungen gelten für die nach dem 31. Juli 2010 fällig werdenden steuerbaren Leistungen.
+
+## Übergangsbestimmung zur Änderung vom 3. Februar 2021****
+
+[^u4-1]
+
+[^u4-1]: [AS 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)
+
+Diese Änderung ist auf steuerbare Leistungen anwendbar, die ab dem 1. Januar 2022 fällig werden.

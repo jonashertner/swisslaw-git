@@ -4,11 +4,11 @@ title: "Ordonnance du 19 décembre 1966 sur l'impôt anticipé (OIA)"
 short: OIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20200101/fr"
 
 (OIA)**[^t-1]**
 
-du 19 décembre 1966 (Etat le 1<sup>er</sup> janvier 2020)
+du 19 décembre 1966 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -854,9 +854,9 @@ L’impôt sur les prestations d’assurances dont la déclaration a fait l’ob
 
 <sup>2</sup> La demande en remboursement doit être adressée à l’Administration fédérale des contributions sur formule officielle.
 
-<sup>3</sup> L’impôt anticipé est remboursé en espèces ou imputé sur l’impôt pour la défense nationale[^52-1] dû par le requérant.
+<sup>3</sup> ...[^52-1]
 
-[^52-1]: Actuellement: impôt fédéral direct.
+[^52-1]: Abrogé par le ch. I de l’O du 3 fév. 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
 
 ### 3. Caisses d’assurances et institutions de prévoyance
 
@@ -932,13 +932,15 @@ Ont droit au remboursement de l’impôt anticipé, comme les personnes morales:
 
 #### Art. 59
 
-<sup>1</sup> Si, lors du décès, le défunt était assujetti de façon illimitée aux impôts en Suisse, les héritiers doivent demander le remboursement de l’impôt soit en commun, soit par l’intermédiaire d’un représentant commun; la demande doit indiquer le nom et l’adresse de tous les héritiers et leur part dans la succession.
+[^59-1]
 
-<sup>2</sup> La demande doit être adressée à l’autorité fiscale cantonale compétente du lieu de la taxation du défunt, avec un double pour chaque canton dans lequel des héritiers faisant partie de la communauté héréditaire sont assujettis à l’impôt. L’autorité transmettra les doubles de la demande, avec ses remarques éventuelles, aux autorités cantonales compétentes pour les héritiers.
+<sup>1</sup> Si une prestation grevée de l’impôt anticipé est échue avant le jour de l’ouverture d’une succession, une demande en remboursement commune doit être adressée par l’ensemble des héritiers ou par leur représentant commun à l’autorité fiscale qui était compétente pour le remboursement de l’impôt anticipé au défunt.
 
-<sup>3</sup> Une réglementation différente de celle des al. 1 et 2 peut être prévue dans les dispositions cantonales d’exécution, lorsque le remboursement de l’impôt anticipé en cas de succession est exclusivement traité par les autorités du même canton.
+<sup>2</sup> Si une prestation grevée de l’impôt anticipé est échue après le décès du défunt, chaque héritier doit faire valoir son droit au remboursement en fonction de sa part successorale auprès de l’autorité fiscale compétente pour son imposition.
 
-<sup>4</sup> Si, lors du décès, le défunt n’était pas assujetti de façon illimitée aux impôts en Suisse, chaque héritier ayant droit au remboursement selon l’art. 58, al. 2, doit présenter sa demande à l’autorité qui est compétente pour lui personnellement.
+<sup>3</sup> Dans les cas prévus à l’al. 2, l’autorité fiscale qui était compétente pour le remboursement de l’impôt anticipé au défunt informe l’autorité fiscale compétente pour l’imposition de l’héritier du nom et de l’adresse des autres héritiers et de leur part successorale respective.
+
+[^59-1]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)).
 
 ### 4. Pluralité d’ayants droit (club d’investissement, jeux d’argent, jeux d’adresse et loteries destinés à promouvoir les ventes, prestation d’assurance
 
@@ -1126,3 +1128,11 @@ La présente modification s’applique aux prestations imposables échues après
 [^u3-1]: [RO 2010 2963](https://fedlex.data.admin.ch/eli/oc/2010/394)
 
 Les dispositions modifiées s’appliquent aux prestations imposables échéant après le 31 juillet 2010.
+
+## Disposition transitoire relative à la modification du 3 février 2021****
+
+[^u4-1]
+
+[^u4-1]: [RO 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)
+
+La présente modification s’applique aux prestations imposables échues à partir du 1<sup>er</sup> janvier 2022.
