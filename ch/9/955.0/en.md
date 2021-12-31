@@ -4,11 +4,11 @@ title: "Federal Act of 10 October 1997 on Combating Money Laundering and Terrori
 short: AMLA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: en
-version: 2021-08-01
+version: 2022-01-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20210801/en/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20210801-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Anti-Money Laundering Act, AMLA)**[^t-1]**
 
-of 10 October 1997 (Status as of 1 August 2021)
+of 10 October 1997 (Status as of 1 January 2022)
 
 [^t-1]: Amended by No I 7 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -162,11 +162,12 @@ Politically exposed persons in terms of this Act are:
 
 <sup>4</sup> If in cases under paragraphs 2 or 3 there is any suspicion of money laundering or terrorist financing, the identity of the customer must be verified even if the relevant amounts have not been reached.[^3-2]
 
-<sup>5</sup> FINMA, the Federal Gaming Board (FGB), the Federal Department of Justice and Police (FDJP), the Federal Customs Administration (FCA) and the self-regulatory organisations shall determine what constitutes a considerable financial value within the meaning of paragraphs 2 and 3 in their respective fields and adjust such values as required.[^3-3]
+<sup>5</sup> FINMA, the Federal Gaming Board (FGB), the Federal Department of Justice and Police (FDJP), the Federal Customs Administration (FCA)[^3-3] and the self-regulatory organisations shall determine what constitutes a considerable financial value within the meaning of paragraphs 2 and 3 in their respective fields and adjust such values as required.[^3-4]
 
 [^3-1]: Second sentence inserted by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^3-2]: Amended by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Feb. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^3-3]: Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-3]: Now the Federal Office for Customs and Border Security (FOCBS).
+[^3-4]: Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 4
 
@@ -1053,18 +1054,23 @@ In order to fulfil its duties, the Reporting Office may by means of a computeris
 
 1 The Federal Council shall issue the provisions required for the implementation of this Act.
 
-2 It may authorise FINMA, the FGB, the FDJP and the FCA to issue implementing provisions on matters of limited importance and in particular on matters of a primarily technical nature.[^41-2]
+2 It may authorise FINMA, the FGB, the FDJP and the FCA[^41-2] to issue implementing provisions on matters of limited importance and in particular on matters of a primarily technical nature.[^41-3]
 
 [^41-1]: Amended by No I 4 of the FA of 3 Oct. 2008 on the Implementation of the revised Recommendations of the Financial Action Task Force, in force since 1 Jan. 2010 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64)[6401](https://fedlex.data.admin.ch/eli/oc/2009/781); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^41-2]: Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-2]: Now the FOCBS.
+[^41-3]: Amended by No I 8 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 42
 
 **Transitional provision to the Amendment of 15 June 2018**[^42-1]
 
-Financial intermediaries as defined in Article 2 paragraph 3 which at the time of the entry into force of the amendment to this Act of 15 June 2018 have FINMA authorisation in accordance with Article 14 must join a recognised self-regulatory organisation. They must submit their request within one year. They may continue to perform their activity until a decision has been made concerning their request.
+<sup>1</sup> Financial intermediaries as defined in Article 2 paragraph 3 which at the time of the entry into force of the amendment to this Act of 15 June 2018 have FINMA authorisation in accordance with Article 14 must join a recognised self-regulatory organisation. They must submit their request within one year. They may continue to perform their activity until a decision has been made concerning their request.
+
+<sup>2</sup> The final provisions of the PMCA[^42-2] apply to trade assayers and group companies subject to the PMCA.[^42-3]
 
 [^42-1]: Amended by Annex No II 15 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^42-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^42-3]: Amended by No I of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 43
 

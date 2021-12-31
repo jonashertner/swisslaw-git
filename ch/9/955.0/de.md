@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 10. Oktober 1997 über die Bekämpfung der Geldwäscher
 short: GwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: de
-version: 2021-08-01
+version: 2022-01-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210801/de"
 
 (Geldwäschereigesetz, GwG)[^t-1]
 
-vom 10. Oktober 1997 (Stand am 1. August 2021)
+vom 10. Oktober 1997 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -95,7 +95,7 @@ Vom Geltungsbereich dieses Gesetzes ausgenommen sind:
 [^2-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^2-4]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^2-6]: SR **941****.****31**
+[^2-6]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 [^2-7]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-8]: Eingefügt durch Anhang Ziff. II 9 des Kollektivanlagengesetzes vom 23. Juni 2006 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)). Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
@@ -158,11 +158,12 @@ Als politisch exponierte Person im Sinne dieses Gesetzes gelten:
 
 <sup>4</sup> Liegen in Fällen nach den Absätzen 2 und 3 Verdachtsmomente für mögliche Geldwäscherei oder Terrorismusfinanzierung vor, so ist die Identifizierung auch dann vorzunehmen, wenn die massgeblichen Beträge nicht erreicht werden.[^3-2]
 
-<sup>5</sup> Die FINMA, die Eidgenössische Spielbankenkommission (ESBK), das Eidgenössische Justiz- und Polizeidepartement (EJPD), die Eidgenössische Zollverwaltung (EZV) und die Selbstregulierungsorganisationen legen für ihren Bereich die erheblichen Werte nach den Absätzen 2 und 3 fest und passen sie bei Bedarf an.[^3-3]
+<sup>5</sup> Die FINMA, die Eidgenössische Spielbankenkommission (ESBK), das Eidgenössische Justiz- und Polizeidepartement (EJPD), die Eidgenössische Zollverwaltung (EZV)[^3-3] und die Selbstregulierungsorganisationen legen für ihren Bereich die erheblichen Werte nach den Absätzen 2 und 3 fest und passen sie bei Bedarf an.[^3-4]
 
 [^3-1]: Zweiter Satz eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^3-2]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^3-3]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-3]: Heute: das Bundesamt für Zoll und Grenzsicherheit (BAZG)
+[^3-4]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 4
 
@@ -451,7 +452,7 @@ Ein Finanzintermediär nach Artikel 2 Absatz 3 hat Anspruch auf Anschluss an ein
 
 <sup>3</sup> Die Selbstregulierungsorganisationen können den Anschluss von der Tätigkeit in bestimmten Bereichen abhängig machen.
 
-[^14-1]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); BBl **201****5** 8901).
+[^14-1]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 15
 
@@ -493,7 +494,7 @@ Kommt eine Händlerin oder ein Händler ihrer oder seiner Meldepflicht nicht nac
 
 <sup>1</sup>
 
-Die FINMA, die ESBK, die interkantonale Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS[^16-1] und die Aufsichtsorganisation nach Artikel 43*a* des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^16-2] erstatten der Meldestelle unverzüglich Meldung, wenn sie begründeten Verdacht schöpfen, dass:[^16-3]
+Die FINMA, die ESBK, die interkantonale Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS[^16-1] und die Aufsichtsorganisation nach Artikel 43*a* des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^16-2] (FINMAG) erstatten der Meldestelle unverzüglich Meldung, wenn sie begründeten Verdacht schöpfen, dass:[^16-3]
 
 - a.[^16-4] eine strafbare Handlung nach Artikel 260<sup>ter</sup>, 305<sup>bis</sup> oder 305<sup>ter</sup> Absatz 1 StGB[^16-5] vorliegt;
 - b.[^16-6] Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB herrühren;
@@ -526,7 +527,7 @@ Die FINMA, die ESBK, die interkantonale Aufsichts- und Vollzugsbehörde nach Art
 
 Soweit keine anerkannte Selbstregulierung besteht, werden die Sorgfaltspflichten nach dem 2. Kapitel und ihre Erfüllung geregelt durch:
 
-- a.[^17-2] die FINMA für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a–d<sup>qu</sup><sup>ater</sup>;
+- a.[^17-2] die FINMA für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a–d<sup>quater</sup>;
 - b. die ESBK für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe e;
 - c.[^17-3] das EJPD für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe f.
 
@@ -715,7 +716,7 @@ Die Prüfgesellschaft wird zugelassen, wenn sie:
 
 - a. von der Eidgenössischen Revisionsaufsichtsbehörde als Revisorin nach Artikel 6 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^24a-2] zugelassen ist;
 - b. für diese Prüfung ausreichend organisiert ist; und
-- c. keine andere nach den Finanzmarktgesetzen nach Artikel 1 Absatz 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^24a-3] bewilligungspflichtige Tätigkeit ausübt.
+- c. keine andere nach den Finanzmarktgesetzen nach Artikel 1 Absatz 1 FINMAG[^24a-3] bewilligungspflichtige Tätigkeit ausübt.
 
 <sup>3</sup>
 
@@ -728,7 +729,7 @@ Die leitende Prüferin oder der leitende Prüfer wird zur Leitung von Prüfungen
 
 <sup>5</sup> Die Selbstregulierungsorganisationen können weitere Zulassungskriterien für Prüfgesellschaften und leitende Prüferinnen und Prüfer vorsehen.
 
-[^24a-1]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), **20****19** 4631; [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^24a-1]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^24a-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^24a-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
@@ -808,7 +809,7 @@ Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie begründeten Verda
 
 **Entzug der Anerkennung**[^28-1]
 
-<sup>1</sup> Die FINMA entzieht einer Selbstregulierungsorganisation auf Grund von Artikel 37 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^28-2] die Anerkennung nicht ohne vorgängige Androhung.
+<sup>1</sup> Die FINMA entzieht einer Selbstregulierungsorganisation auf Grund von Artikel 37 FINMAG[^28-2] die Anerkennung nicht ohne vorgängige Androhung.
 
 <sup>2</sup> Wird einer Selbstregulierungsorganisation die Anerkennung entzogen, so müssen die ihr angeschlossenen Finanzintermediäre innerhalb von zwei Monaten ein Gesuch um Anschluss an eine andere Selbstregulierungsorganisation einreichen.[^28-3]
 
@@ -936,7 +937,7 @@ Soweit dieses Gesetz bezüglich Datenbearbeitung und Amtshilfe durch die Meldest
 
 #### Art. 32
 
-**Zusammenarbeit mit ausländischen Strafverfolgungsbehörden [^32-1]**
+**Zusammenarbeit mit ausländischen Strafverfolgungsbehörden[^32-1]**
 
 <sup>1</sup> Für die Meldestelle richtet sich die Zusammenarbeit mit ausländischen Strafverfolgungsbehörden nach Artikel 13 Absatz 2 des Bundesgesetzes vom 7. Oktober 1994[^32-2] über kriminalpolizeiliche Zentralstellen des Bundes.
 
@@ -1054,18 +1055,23 @@ Zur Erfüllung ihrer Aufgaben kann die Meldestelle mittels Abrufverfahren überp
 
 <sup>1</sup> Der Bundesrat erlässt die zur Umsetzung dieses Gesetzes notwendigen Bestimmungen.
 
-<sup>2</sup> Er kann die FINMA, die ESBK, das EJPD sowie die EZV ermächtigen, in Belangen von beschränkter Tragweite, namentlich in vorwiegend technischen Angelegenheiten, Ausführungsbestimmungen zu erlassen.[^41-2]
+<sup>2</sup> Er kann die FINMA, die ESBK, das EJPD sowie die EZV[^41-2] ermächtigen, in Belangen von beschränkter Tragweite, namentlich in vorwiegend technischen Angelegenheiten, Ausführungsbestimmungen zu erlassen.[^41-3]
 
 [^41-1]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2010 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64)[6401](https://fedlex.data.admin.ch/eli/oc/2009/781); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^41-2]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-2]: Heute: das BAZG
+[^41-3]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 42
 
 **Übergangsbestimmung zur Änderung vom 15. Juni 2018**[^42-1]
 
-Finanzintermediäre nach Artikel 2 Absatz 3, die bei Inkrafttreten der Änderung vom 15. Juni 2018 über eine Bewilligung der FINMA gemäss Artikel 14 des bisherigen Rechts verfügen, müssen sich neu einer anerkannten Selbstregulierungsorganisation anschliessen. Sie müssen das Gesuch innert eines Jahres ab Inkrafttreten dieser Änderung stellen. Bis zum Entscheid über das Gesuch können sie ihre Tätigkeit fortführen.
+<sup>1</sup> Finanzintermediäre nach Artikel 2 Absatz 3, die bei Inkrafttreten der Änderung vom 15. Juni 2018 über eine Bewilligung der FINMA gemäss Artikel 14 des bisherigen Rechts verfügen, müssen sich neu einer anerkannten Selbstregulierungsorganisation anschliessen. Sie müssen das Gesuch innert eines Jahres ab Inkrafttreten dieser Änderung stellen. Bis zum Entscheid über das Gesuch können sie ihre Tätigkeit fortführen.
+
+<sup>2</sup> Für Handelsprüfer und Gruppengesellschaften, die unter das EMKG[^42-2] fallen, gelten die Schlussbestimmungen des EMKG.[^42-3]
 
 [^42-1]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^42-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^42-3]: Fassung gemäss Ziff. I des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 43
 

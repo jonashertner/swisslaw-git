@@ -4,11 +4,11 @@ title: "Legge federale del 10 ottobre 1997 relativa alla lotta contro il ricicla
 short: LRD
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: it
-version: 2021-08-01
+version: 2022-01-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210801/it"
 
 (Legge sul riciclaggio di denaro, LRD)[^t-1]
 
-del 10 ottobre 1997 (Stato 1° agosto 2021)
+del 10 ottobre 1997 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -160,11 +160,12 @@ Per persone politicamente esposte a tenore della presente legge s’intendono le
 
 <sup>4</sup> Se nei casi dei capoversi 2 e 3 vi sono elementi di sospetto di un eventuale riciclaggio di denaro o finanziamento del terrorismo, si deve procedere all’identificazione anche se gli importi determinanti non vengono raggiunti.[^3-2]
 
-<sup>5</sup> La FINMA, la Commissione federale delle case da gioco (CFCG), il Dipartimento federale di giustizia e polizia (DFGP), l’Amministrazione federale delle dogane (AFD) e gli organismi di autodisciplina stabiliscono per i rispettivi settori gli importi rilevanti di cui ai capoversi 2 e 3 e, all’occorrenza, li adeguano.[^3-3]
+<sup>5</sup> La FINMA, la Commissione federale delle case da gioco (CFCG), il Dipartimento federale di giustizia e polizia (DFGP), l’Amministrazione federale delle dogane (AFD)[^3-3] e gli organismi di autodisciplina stabiliscono per i rispettivi settori gli importi rilevanti di cui ai capoversi 2 e 3 e, all’occorrenza, li adeguano.[^3-4]
 
 [^3-1]: Per. introdotto dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^3-2]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^3-3]: Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-3]: Attualmente: Ufficio federale della dogana e della sicurezza dei confini (UDSC).
+[^3-4]: Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 4
 
@@ -315,7 +316,7 @@ Il commerciante che sa o ha il sospetto fondato che il denaro contante utilizzat
 [^9-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^9-4]: Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^9-5]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
-[^9-6]: Introdotta dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 (RU **20****18** 5247, **2019** 4631; [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^9-6]: Introdotta dal n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^9-7]: Introdotto dal n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)). Nuovo testo giusta il n. I 7 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^9-8]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^9-9]: Nuovo testo giusta l’all. n. II 6 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
@@ -494,7 +495,7 @@ Se un commerciante viene meno all’obbligo di comunicazione, l’ufficio di rev
 
 <sup>1</sup> ne danno senza indugio comunicazione all’Ufficio di comunicazione.
 
-La FINMA, la CFCG, l’autorità intercantonale di vigilanza e d’esecuzione secon-do l’articolo 105 LGD[^16-2] e l’organismo di vigilanza secondo l’articolo 43*a* della legge del 22 giugno 2007[^16-3] sulla vigilanza dei mercati finanziari, se hanno il sospetto fondato che:[^16-4]
+La FINMA, la CFCG, l’autorità intercantonale di vigilanza e d’esecuzione secon-do l’articolo 105 LGD[^16-2] e l’organismo di vigilanza secondo l’articolo 43*a* della legge del 22 giugno 2007[^16-3] sulla vigilanza dei mercati finanziari (LFINMA), se hanno il sospetto fondato che:[^16-4]
 
 - a.[^16-5] sia stato commesso un reato ai sensi degli articoli 260<sup>ter</sup>, 305<sup>bis</sup> o 305<sup>ter</sup> capoverso 1 CP[^16-6];
 - b.[^16-7] valori patrimoniali provengano da un crimine o da un delitto fiscale qualificato di cui all’articolo 305<sup>bis</sup> numero 1<sup>bis</sup> CP;
@@ -505,7 +506,7 @@ La FINMA, la CFCG, l’autorità intercantonale di vigilanza e d’esecuzione se
 
 <sup>3</sup> L’organismo di vigilanza trasmette nel contempo alla FINMA una copia della comunicazione.[^16-9]
 
-[^16-1]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 (RU **2****009** 361; [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^16-1]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° feb. 2009 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^16-2]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
 [^16-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^16-4]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Correzione della Commissione di redazione dell’AF del 31 gen. 2020, pubblicata il 18 feb. 2020 ([RU 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
@@ -571,7 +572,7 @@ Gli avvocati e i notai incaricati di effettuare i controlli LRD devono:
 [^18-1]: Nuovo testo giusta l’all. n. 17 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^18-2]: Nuovo testo giusta l’all. n. 17 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^18-3]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^18-4]: Abrogate dall’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); FF **2****015** 7293).
+[^18-4]: Abrogate dall’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^18-5]: Abrogato dall’all. n. 7 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), con effetto dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^18-6]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^18-7]: Introdotto dall’all. n. 7 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
@@ -640,7 +641,7 @@ La FINMA trasmette a sua volta i dati ricevuti dal DFF:
 
 [^22a-1]: www.un.org &gt; Français &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Résolutions &gt; 2001 &gt; 1373
 [^22a-2]: Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^22a-3]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), **20****19** 4631; [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^22a-3]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Sezione 4: Ufficio di comunicazione in materia di riciclaggio di denaro
 
@@ -716,7 +717,7 @@ La società di audit è abilitata se:
 
 - a. è abilitata dall’Autorità federale di sorveglianza dei revisori a esercitare la funzione di revisore secondo l’articolo 6 della legge del 16 dicembre 2005[^24a-2] sui revisori;
 - b. è sufficientemente organizzata per effettuare le verifiche; e
-- c. non esercita nessun’altra attività sottoposta all’obbligo di autorizzazione conformemente alle leggi sui mercati finanziari di cui all’articolo 1 capoverso 1 della legge del 22 giugno 2007[^24a-3] sulla vigilanza dei mercati finanziari.
+- c. non esercita nessun’altra attività sottoposta all’obbligo di autorizzazione conformemente alle leggi sui mercati finanziari di cui all’articolo 1 capoverso 1 LFINMA[^24a-3] sulla vigilanza dei mercati finanziari.
 
 <sup>3</sup>
 
@@ -810,7 +811,7 @@ Gli organismi di autodisciplina, se hanno il sospetto fondato che:
 
 **Revoca del riconoscimento**[^28-1]
 
-<sup>1</sup> La FINMA non revoca il riconoscimento a un organismo di autodisciplina, fondandosi sull’articolo 37 della legge del 22 giugno 2007[^28-2] sulla vigilanza dei mercati finanziari, senza previa comminatoria.
+<sup>1</sup> La FINMA non revoca il riconoscimento a un organismo di autodisciplina, fondandosi sull’articolo 37 LFINMA[^28-2] sulla vigilanza dei mercati finanziari, senza previa comminatoria.
 
 <sup>2</sup> In caso di revoca del riconoscimento a un organismo di autodisciplina, gli intermediari finanziari che gli sono affiliati devono presentare entro due mesi una richiesta di affiliazione a un altro organismo di autodisciplina.[^28-3]
 
@@ -969,7 +970,7 @@ Il trattamento di dati personali è disciplinato dalla legge federale del 19 giu
 
 <sup>2</sup> Possono trasmettere dati provenienti da tali collezioni unicamente alla FINMA, alla CFCG, all’autorità intercantonale di vigilanza e d’esecuzione secondo l’articolo 105 LGD[^34-1], all’organismo di vigilanza, agli organismi di autodisciplina, all’Ufficio di comunicazione e alle autorità di perseguimento penale.[^34-2]
 
-<sup>3</sup> Il diritto d’accesso delle persone interessate previsto dall’articolo 8 della legge federale del 19 giugno 1992[^34-3] sulla protezione dei dati è escluso dal momento in cui è stata effettuata una comunicazione secondo l’articolo 9 capoverso 1 della presente legge o l’articolo 305<sup>te</sup><sup>r</sup> capoverso 2 CP[^34-4] fino al momento in cui l’Ufficio di comunicazione informa l’intermediario finanziario secondo l’articolo 23 capoverso 5 o 6, nonché durante un blocco dei beni secondo l’articolo 10.[^34-5]
+<sup>3</sup> Il diritto d’accesso delle persone interessate previsto dall’articolo 8 della legge federale del 19 giugno 1992[^34-3] sulla protezione dei dati è escluso dal momento in cui è stata effettuata una comunicazione secondo l’articolo 9 capoverso 1 della presente legge o l’articolo 305<sup>ter</sup> capoverso 2 CP[^34-4] fino al momento in cui l’Ufficio di comunicazione informa l’intermediario finanziario secondo l’articolo 23 capoverso 5 o 6, nonché durante un blocco dei beni secondo l’articolo 10.[^34-5]
 
 <sup>4</sup> I dati devono essere distrutti cinque anni dopo l’avvenuta comunicazione.
 
@@ -1029,7 +1030,7 @@ Per svolgere i suoi compiti, l’Ufficio di comunicazione può verificare, media
 
 <sup>3</sup> ...[^37-2]
 
-[^37-1]: Nuovo testo giusta l’all. n. 17 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 (RU **20****08** 5207; [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^37-1]: Nuovo testo giusta l’all. n. 17 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^37-2]: Abrogato dall’all. n. 12 della L del 19 giu. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
 #### Art. 38
@@ -1056,15 +1057,20 @@ Per svolgere i suoi compiti, l’Ufficio di comunicazione può verificare, media
 
 <sup>1</sup> Il Consiglio federale emana le disposizioni necessarie all’attuazione della presente legge.
 
-<sup>2</sup> Esso può autorizzare la FINMA, la CFCG, il DFGP e l’AFD a emanare disposizioni di esecuzione negli ambiti di portata ridotta, segnatamente negli ambiti prevalentemente tecnici.[^41-2]
+<sup>2</sup> Esso può autorizzare la FINMA, la CFCG, il DFGP e l’AFD[^41-2] a emanare disposizioni di esecuzione negli ambiti di portata ridotta, segnatamente negli ambiti prevalentemente tecnici.[^41-3]
 
-**Art. 42**[^41-3] Disposizione transitoria della modifica del 15 giugno 2018
+**Art. 42**[^41-4] Disposizione transitoria della modifica del 15 giugno 2018
 
-Gli intermediari finanziari di cui all’articolo 2 capoverso 3 che all’entrata in vigore della modifica del 15 giugno 2018 dispongono di un’autorizzazione della FINMA secondo il previgente articolo 14, devono affiliarsi a un organismo di autodisciplina riconosciuto. Devono presentare una richiesta di affiliazione entro un anno da tale entrata in vigore. Possono proseguire la loro attività fino alla decisione concernente la richiesta.
+<sup>1</sup> Gli intermediari finanziari di cui all’articolo 2 capoverso 3 che all’entrata in vigore della modifica del 15 giugno 2018 dispongono di un’autorizzazione della FINMA secondo il previgente articolo 14, devono affiliarsi a un organismo di autodisciplina riconosciuto. Devono presentare una richiesta di affiliazione entro un anno da tale entrata in vigore. Possono proseguire la loro attività fino alla decisione concernente la richiesta.
+
+<sup>2</sup> Ai saggiatori del commercio e alle società del gruppo secondo la LCMP[^41-5] si applicano le disposizioni finali di tale legge.[^41-6]
 
 [^41-1]: Nuovo testo giusta il n. I 4 della LF del 3 ott. 2008 concernente l’attuazione delle Raccomandazioni rivedute del Gruppo d’azione finanziaria, in vigore dal 1° gen. 2010 ([RU 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64)[6401](https://fedlex.data.admin.ch/eli/oc/2009/781); [FF 2007 5687](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^41-2]: Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^41-3]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^41-2]: Attualmente: Ufficio federale della dogana e della sicurezza dei confini (UDSC).
+[^41-3]: Nuovo testo giusta il n. I 8 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-4]: Nuovo testo giusta l’all. n. II 15 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^41-5]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^41-6]: Introdotto dal n. I della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 43
 
