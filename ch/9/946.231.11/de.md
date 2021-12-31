@@ -3,11 +3,11 @@ sr: "946.231.11"
 title: Verordnung vom 29. November 2002 über den internationalen Handel mit Rohdiamanten (Diamantenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/710"
 language: de
-version: 2021-01-18
+version: 2022-01-01
 adopted: 2002-11-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/710/20210118/de/xml/fedlex-data-admin-ch-eli-cc-2002-710-20210118-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20210118/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/710/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-710-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20210118/de"
 
 (Diamantenverordnung)
 
-vom 29. November 2002 (Stand am 18. Januar 2021)
+vom 29. November 2002 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -132,7 +132,9 @@ Alle für den Handel mit Rohdiamanten wesentlichen Unterlagen sind während fün
 
 <sup>1</sup> Das SECO führt die Kontrollen durch. Es kann Beschlagnahmungen oder Einziehungen anordnen.
 
-<sup>2</sup> Die Kontrollen an der Grenze obliegen der Eidgenössischen Zollverwaltung.
+<sup>2</sup> Die Kontrollen an der Grenze obliegen dem Bundesamt für Zoll und Grenzsicherheit[^10-1].
+
+[^10-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 11
 
@@ -187,24 +189,25 @@ Anhang*[^t-1]*
 <tr><td>China</td><td>Republik Kongo</td></tr>
 <tr><td>Côte d’Ivoire</td><td>Republik Korea</td></tr>
 <tr><td>Demokratische Republik Kongo</td><td>Russland</td></tr>
-<tr><td>Europäische Union</td><td>Schweiz</td></tr>
-<tr><td>Gabun</td><td>Sierra Leone</td></tr>
-<tr><td>Ghana</td><td>Simbabwe</td></tr>
-<tr><td>Guinea</td><td>Singapur</td></tr>
-<tr><td>Guyana</td><td>Sri Lanka</td></tr>
-<tr><td>Indien</td><td>Südafrika</td></tr>
-<tr><td>Indonesien</td><td>Swasiland</td></tr>
-<tr><td>Israel</td><td>Tansania</td></tr>
-<tr><td>Japan</td><td>Thailand</td></tr>
-<tr><td>Kambodscha</td><td>Togo</td></tr>
-<tr><td>Kamerun</td><td>Türkei</td></tr>
-<tr><td>Kanada</td><td>Ukraine</td></tr>
-<tr><td>Kasachstan</td><td>Venezuela</td></tr>
-<tr><td>Laos</td><td>Vereinigte Arabische Emirate</td></tr>
-<tr><td>Lesotho</td><td>Vereinigtes Königreich</td></tr>
-<tr><td>Libanon</td><td>Vereinigte Staaten von Amerika</td></tr>
-<tr><td>Liberia</td><td>Vietnam</td></tr>
-<tr><td>Malaysia</td><td>Zentralafrikanische Republik</td></tr>
+<tr><td>Eswatini</td><td>Schweiz</td></tr>
+<tr><td>Europäische Union</td><td>Sierra Leone</td></tr>
+<tr><td>Gabun</td><td>Simbabwe</td></tr>
+<tr><td>Ghana</td><td>Singapur</td></tr>
+<tr><td>Guinea</td><td>Sri Lanka</td></tr>
+<tr><td>Guyana</td><td>Südafrika</td></tr>
+<tr><td>Indien</td><td>Tansania</td></tr>
+<tr><td>Indonesien</td><td>Thailand</td></tr>
+<tr><td>Israel</td><td>Togo</td></tr>
+<tr><td>Japan</td><td>Türkei</td></tr>
+<tr><td>Kambodscha</td><td>Ukraine</td></tr>
+<tr><td>Kamerun</td><td>Venezuela</td></tr>
+<tr><td>Kanada</td><td>Vereinigte Arabische Emirate</td></tr>
+<tr><td>Kasachstan</td><td>Vereinigtes Königreich</td></tr>
+<tr><td>Laos</td><td>Vereinigte Staaten von Amerika</td></tr>
+<tr><td>Lesotho</td><td>Vietnam</td></tr>
+<tr><td>Libanon</td><td>Zentralafrikanische Republik</td></tr>
+<tr><td>Liberia</td><td></td></tr>
+<tr><td>Malaysia</td><td></td></tr>
 </table>
 
 Der Handel mit Rohdiamanten ist auch mit dem Chinesischen Taipei gestattet.

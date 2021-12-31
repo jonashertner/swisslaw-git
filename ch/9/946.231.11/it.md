@@ -3,11 +3,11 @@ sr: "946.231.11"
 title: Ordinanza del 29 novembre 2002 sul commercio internazionale di diamanti grezzi (Ordinanza sui diamanti)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/710"
 language: it
-version: 2021-01-18
+version: 2022-01-01
 adopted: 2002-11-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/710/20210118/it/xml/fedlex-data-admin-ch-eli-cc-2002-710-20210118-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20210118/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/710/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-710-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20210118/it"
 
 (Ordinanza sui diamanti)
 
-del 29 novembre 2002 (Stato 18 gennaio 2021)
+del 29 novembre 2002 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -134,7 +134,9 @@ Tutti i documenti importanti concernenti il commercio con diamanti grezzi sono c
 
 <sup>1</sup> La SECO esegue i controlli. Può ordinare sequestri o confische.
 
-<sup>2</sup> I controlli al confine sono di competenza dell’Amministrazione federale delle dogane.
+<sup>2</sup> I controlli al confine sono di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^10-1].
+
+[^10-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 11
 
@@ -179,34 +181,34 @@ Allegato*[^t-1]*
 [^t-1]: Nuovo testo giusta il n. 1 dell’O del DEFR del 20 mag. 2003 ([RU 2003 1200](https://fedlex.data.admin.ch/eli/oc/2003/209)). Aggiornato dai n. I delle O del DEFR del 28 ago. 2003 ([RU 2003 3260](https://fedlex.data.admin.ch/eli/oc/2003/448)), del 22 set. 2003 ([RU 2003 3493](https://fedlex.data.admin.ch/eli/oc/2003/495)), del 20 ott. 2003 ([RU 2003 3771](https://fedlex.data.admin.ch/eli/oc/2003/539)), del 13 nov. 2003 ([RU 2003 4075](https://fedlex.data.admin.ch/eli/oc/2003/602)), del 4 mag. 2004 ([RU 2004 2415](https://fedlex.data.admin.ch/eli/oc/2004/279)), del 30 giu. 2004 ([RU 2004 3387](https://fedlex.data.admin.ch/eli/oc/2004/437)), del 13 lug. 2004 ([RU 2004 3449](https://fedlex.data.admin.ch/eli/oc/2004/459)), del 15 ago. 2005 ([RU 2005 4389](https://fedlex.data.admin.ch/eli/oc/2005/563)), del 28 set. 2005 ([RU 2005 4699](https://fedlex.data.admin.ch/eli/oc/2005/621)), del 28 nov. 2006 ([RU 2006 4865](https://fedlex.data.admin.ch/eli/oc/2006/753)), del 19 feb. 2007 ([RU 2007 509](https://fedlex.data.admin.ch/eli/oc/2007/103)), del 24 mag. 2007 ([RU 2007 2423](https://fedlex.data.admin.ch/eli/oc/2007/339)), del 28 ago. 2007 ([RU 2007 4155](https://fedlex.data.admin.ch/eli/oc/2007/555)), dell’11 dic. 2007 ([RU 2007 6877](https://fedlex.data.admin.ch/eli/oc/2007/890)), del 27 gen. 2009 ([RU 2009 489](https://fedlex.data.admin.ch/eli/oc/2009/88)), del 30 gen. 2012 ([RU 2012 613](https://fedlex.data.admin.ch/eli/oc/2012/89)), del 26 ott. 2012 (RU **2012** 5853), del del 25 mar. 2013 ([RU 2013 951](https://fedlex.data.admin.ch/eli/oc/2013/195)), del 1° giu. 2013 ([RU 2013 2153](https://fedlex.data.admin.ch/eli/oc/2013/458)), del 23 set. 2013 ([RU 2013 3271](https://fedlex.data.admin.ch/eli/oc/2013/626)), dell’11 nov. 2014 ([RU 2014 3707](https://fedlex.data.admin.ch/eli/oc/2014/643)), del 15 ott. 2015 ([RU 2015 4063](https://fedlex.data.admin.ch/eli/oc/2015/681)), del 21 dic. 2016 ([RU 2017 29](https://fedlex.data.admin.ch/eli/oc/2017/9)), del 15 feb. 2019 ([RU 2019 719](https://fedlex.data.admin.ch/eli/oc/2019/125)) e del 15 gen. 2021, in vigore dalle ore 18.00 del 18 gen. 2021 ([RU 2021 10](https://fedlex.data.admin.ch/eli/oc/2021/10)).
 
 <table>
-<tr><td>Angola</td><td>Mauritius</td></tr>
-<tr><td>Armenia</td><td>Messico</td></tr>
-<tr><td>Australia</td><td>Namibia</td></tr>
-<tr><td>Bangladesh</td><td>Norvegia</td></tr>
-<tr><td>Belarus</td><td>Nuova Zelanda</td></tr>
-<tr><td>Botswana</td><td>Panama</td></tr>
-<tr><td>Brasile</td><td>Regno Unito</td></tr>
-<tr><td>Cambogia</td><td>Repubblica Centrafricana</td></tr>
-<tr><td>Camerun</td><td>Repubblica del Congo</td></tr>
-<tr><td>Canada</td><td>Repubblica democratica del Congo</td></tr>
-<tr><td>Cina</td><td>Repubblica di Corea</td></tr>
-<tr><td>Costa d’Avorio</td><td>Russia</td></tr>
-<tr><td>Emirati arabi uniti</td><td>Sierra Leone</td></tr>
+<tr><td>Angola</td><td>Mali</td></tr>
+<tr><td>Armenia</td><td>Mauritius</td></tr>
+<tr><td>Australia</td><td>Messico</td></tr>
+<tr><td>Bangladesh</td><td>Namibia</td></tr>
+<tr><td>Belarus</td><td>Norvegia</td></tr>
+<tr><td>Botswana</td><td>Nuova Zelanda</td></tr>
+<tr><td>Brasile</td><td>Panama</td></tr>
+<tr><td>Cambogia</td><td>Regno Unito</td></tr>
+<tr><td>Camerun</td><td>Repubblica Centrafricana</td></tr>
+<tr><td>Canada</td><td>Repubblica del Congo</td></tr>
+<tr><td>Cina</td><td>Repubblica democratica del Congo</td></tr>
+<tr><td>Costa d’Avorio</td><td>Repubblica di Corea</td></tr>
+<tr><td>Emirati arabi uniti</td><td>Russia</td></tr>
+<tr><td>Eswatini</td><td>Sierra Leone</td></tr>
 <tr><td>Gabon</td><td>Singapore</td></tr>
 <tr><td>Ghana</td><td>Sri Lanka</td></tr>
 <tr><td>Giappone</td><td>Stati Uniti d’America</td></tr>
 <tr><td>Guinea</td><td>Sudafrica</td></tr>
 <tr><td>Guyana</td><td>Svizzera</td></tr>
-<tr><td>India</td><td>Swaziland</td></tr>
-<tr><td>Indonesia</td><td>Tailandia</td></tr>
-<tr><td>Israele</td><td>Tanzania</td></tr>
-<tr><td>Kazakistan</td><td>Togo</td></tr>
-<tr><td>Laos</td><td>Turchia</td></tr>
-<tr><td>Lesotho</td><td>Ucraina</td></tr>
-<tr><td>Libano</td><td>Unione europea</td></tr>
-<tr><td>Liberia</td><td>Venezuela</td></tr>
-<tr><td>Malaysia</td><td>Vietnam</td></tr>
-<tr><td>Mali</td><td>Zimbabwe</td></tr>
+<tr><td>India</td><td>Tailandia</td></tr>
+<tr><td>Indonesia</td><td>Tanzania</td></tr>
+<tr><td>Israele</td><td>Togo</td></tr>
+<tr><td>Kazakistan</td><td>Turchia</td></tr>
+<tr><td>Laos</td><td>Ucraina</td></tr>
+<tr><td>Lesotho</td><td>Unione europea</td></tr>
+<tr><td>Libano</td><td>Venezuela</td></tr>
+<tr><td>Liberia</td><td>Vietnam</td></tr>
+<tr><td>Malaysia</td><td>Zimbabwe</td></tr>
 </table>
 
 Il commercio di diamanti grezzi è anche permesso con il Taipei cinese.
