@@ -3,13 +3,13 @@ canton: FR
 number: "122.21.61"
 title: Beschluss über die Stellung und die Aufgaben des Amtes für Drucksachen und Material
 language: de
-version: 2012-01-01
-valid_until: 2021-12-31
-version_adopted: 2011-12-06
+version: 2022-01-01
+valid_until: 2026-05-31
+version_adopted: 2021-12-14
 adopted: 1985-11-18
 in_force: 1986-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.21.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/5006/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7026/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5006/pdf_file"
 
 Amt für Drucksachen und Material – B
 
-vom 18.11.1985 (Fassung in Kraft getreten am 01.01.2012)
+vom 18.11.1985 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -64,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Die staatlichen Anstalten und Dienste sowie die kantonalen Schulen sind gehalten, die Dienste des Amtes in Anspruch zu nehmen.
 
-<sup>2</sup> Die Universität, die Kantonale Gebäudeversicherung, die Anstalten von Bellechasse, das Landwirtschaftliche Institut des Kantons Freiburg, das freiburger spital, das Freiburger Netz für die Pflege im Bereich psychische Gesundheit und die Kantonale Sozialversicherungsanstalt sind frei in der Wahl des Materials, der Maschinen, der Geräte und der Arbeiten nach Artikel 2 Bst. a und b. Die Anforderungen der Verordnung über das Corporate Design des Staates Freiburg bleiben vorbehalten.
+<sup>2</sup> Die Universität, die Kantonale Gebäudeversicherung, die Anstalten von Bellechasse, Grangeneuve, das freiburger spital, das Freiburger Netz für die Pflege im Bereich psychische Gesundheit und die Kantonale Sozialversicherungsanstalt sind frei in der Wahl des Materials, der Maschinen, der Geräte und der Arbeiten nach Artikel 2 Bst. a und b. Die Anforderungen der Verordnung über das Corporate Design des Staates Freiburg bleiben vorbehalten.
 
 <sup>3</sup> Die Bestellungen erfolgen durch das Amt, das diese Kompetenz allenfalls an die Anstalten und Schulen delegieren kann.
 

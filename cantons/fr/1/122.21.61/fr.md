@@ -3,13 +3,13 @@ canton: FR
 number: "122.21.61"
 title: "Arrêté sur le statut et les attributions du Service d'achat du matériel et des imprimés"
 language: fr
-version: 2012-01-01
-valid_until: 2021-12-31
-version_adopted: 2011-12-06
+version: 2022-01-01
+valid_until: 2026-05-31
+version_adopted: 2021-12-14
 adopted: 1985-11-18
 in_force: 1986-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.21.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5006/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7026/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5006/pdf_file"
 
 Service d'achat du matériel et des imprimés – A
 
-du 18.11.1985 (version entrée en vigueur le 01.01.2012)
+du 18.11.1985 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -66,7 +66,7 @@ Arrête:
 
 <sup>1</sup> Les établissements et services de l'Etat ainsi que les écoles cantonales doivent recourir au Service.
 
-<sup>2</sup> L'Université, l'Etablissement cantonal d'assurance des bâtiments, les Etablissements de Bellechasse, l'Institut agricole de l'Etat de Fribourg, l'hôpital fribourgeois, le Réseau fribourgeois de soins en santé mentale et l'Etablissement cantonal des assurances sociales peuvent procéder librement au choix du matériel, des machines, des appareils et des travaux prévus à l'article 2 let. a et b. Les exigences de l'ordonnance relative à l'identité visuelle de l'Etat de Fribourg sont toutefois réservées.
+<sup>2</sup> L'Université, l'Etablissement cantonal d'assurance des bâtiments, les Etablissements de Bellechasse, Grangeneuve, l'hôpital fribourgeois, le Réseau fribourgeois de soins en santé mentale et l'Etablissement cantonal des assurances sociales peuvent procéder librement au choix du matériel, des machines, des appareils et des travaux prévus à l'article 2 let. a et b. Les exigences de l'ordonnance relative à l'identité visuelle de l'Etat de Fribourg sont toutefois réservées.
 
 <sup>3</sup> Les commandes sont passées par le Service qui peut, dans certains cas, déléguer cette compétence aux établissements et aux écoles cantonales.
 
