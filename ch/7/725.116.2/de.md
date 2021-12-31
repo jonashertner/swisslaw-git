@@ -4,11 +4,11 @@ title: Bundesgesetz vom 22. März 1985 über die Verwendung der zweckgebundenen 
 short: MinVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20200101/de"
 
 (MinVG)**[^t-1]**
 
-vom 22. März 1985 (Stand am 1. Januar 2020)
+vom 22. März 1985 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -43,14 +43,15 @@ beschliesst:
 
 <sup>1</sup>
 
-Dieses Gesetz regelt die Verwendung des zweckgebundenen Anteils des Reinertrags folgender Mittel für die Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr:
+Dieses Gesetz regelt die Verwendung des zweckgebundenen Anteils des Reinertrags der Mittel nach den Buchstaben a–f sowie der Mittel nach Buchstabe g für die Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr:[^1-2]
 
 - a. der auf allen Treibstoffen ausser den Flugtreibstoffen erhobenen Verbrauchssteuer;
 - b. der auf den Treibstoffen nach Buchstabe a erhobenen Zuschläge;
 - c. der Nationalstrassenabgabe;
 - d. der Verbrauchssteuer auf Automobilen und ihren Bestandteilen;
 - e. der Abgabe nach Artikel 131 Absatz 2 Buchstabe b BV;
-- f. der Sanktion nach Artikel 13 des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^1-2].
+- f. der Sanktion nach Artikel 13 des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^1-3];
+- g.[^1-4] der Erträge aus der Bewirtschaftung der Nationalstrassen durch das Bundesamt für Strassen (ASTRA).
 
 <sup>2</sup>
 
@@ -62,7 +63,9 @@ Es regelt die Verwendung des zweckgebundenen Anteils des Reinertrags folgender M
 <sup>3</sup> Als Reinertrag gilt, soweit nicht andere Bestimmungen des Bundesrechts etwas Abweichendes regeln, der Ertrag nach Abzug der Aufwandentschädigung für die Erhebung der Abgaben und Steuern.
 
 [^1-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^1-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^1-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^1-3]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^1-4]: Eingefügt durch Anhang Ziff. 6 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 2
 
@@ -171,19 +174,20 @@ Bau und Ausbau umfassen:
 - e. Einrichtungen, die der Sicherheit und der Entlastung der Strasse dienen, wie Chemiewehrstützpunkte, Vorrichtungen für Gewichts- und andere Verkehrskontrollen, Abstellspuren und -flächen;
 - f. Einrichtungen für das Verkehrsmanagement, wie Verkehrsmanagementzentrale und Verkehrsdatenverbund.
 
-<sup>3</sup> Bei Anlagen im Sinne von Artikel 6 NSG[^8-1], die auf Wunsch der Kantone oder Dritter erstellt werden und überwiegend kantonalen, regionalen oder lokalen Interessen dienen, tragen die Kantone beziehungsweise die Dritten die Bau- und Ausbaukosten. Die Kosten des künftigen betrieblichen Unterhalts sind mit einzurechnen.[^8-2]
+<sup>3</sup> Bei Anlagen im Sinne von Artikel 6 NSG[^8-1], die auf Wunsch der Kantone oder Dritter erstellt werden und überwiegend kantonalen, regionalen oder lokalen Interessen dienen, tragen die Kantone beziehungsweise die Dritten die Bau- und Ausbaukosten. Die Kosten des künftigen betrieblichen Unterhalts sind mit einzurechnen. Die Leistungen der Kantone oder Dritter werden dem Fonds zur Finanzierung der Nationalstrassen und des Agglomerationsverkehrs zugewiesen.[^8-2] [^8-3]
 
 <sup>4</sup>
 
 Der Bund kann sich an den anrechenbaren Kosten beteiligen. Der Bundesrat bestimmt die Kostenbeteiligung im Einzelfall. Dabei gilt:
 
-- a. Bei Ausbauschritten nach Artikel 5 Absatz 1 Buchstabe a Ziffer 2 des Bundesgesetzes vom 30. September 2016[^8-3] über den Fonds für die Nationalstrassen und den Agglomerationsverkehr beträgt die Kostenbeteiligung höchstens 60 Prozent der Mehrkosten, die aus der Realisierung von alternativen Massnahmen wie andere Linienführung und Tunnelvarianten entstehen.
-- b. In den übrigen Fällen beträgt die Kostenbeteiligung höchstens 30 Prozent der Kosten.[^8-4]
+- a. Bei Ausbauschritten nach Artikel 5 Absatz 1 Buchstabe a Ziffer 2 des Bundesgesetzes vom 30. September 2016[^8-4] über den Fonds für die Nationalstrassen und den Agglomerationsverkehr beträgt die Kostenbeteiligung höchstens 60 Prozent der Mehrkosten, die aus der Realisierung von alternativen Massnahmen wie andere Linienführung und Tunnelvarianten entstehen.
+- b. In den übrigen Fällen beträgt die Kostenbeteiligung höchstens 30 Prozent der Kosten.[^8-5]
 
 [^8-1]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^8-2]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^8-3]: [SR 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
-[^8-4]: Eingefügt durch Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8-2]: Dritter Satz eingefügt durch Anhang Ziff. 6 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^8-3]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8-4]: [SR 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^8-5]: Eingefügt durch Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 8a
 
@@ -208,12 +212,14 @@ Der Bund kann sich an den anrechenbaren Kosten beteiligen. Der Bundesrat bestimm
 
 <sup>2</sup> Der projektgestützte bauliche Unterhalt und die Erneuerung von Nationalstrassen umfassen Arbeiten, die der Erhaltung der Strassen und ihrer technischen Einrichtungen dienen.[^9-1]
 
-<sup>3</sup> Bei Anlagen im Sinne von Artikel 6 NSG[^9-2], die auf Wunsch der Kantone erstellt wurden und überwiegend kantonalen, regionalen oder lokalen Interessen dienen, tragen die Kantone die Unterhaltskosten. Der Bund kann sich im gleichen Umfang wie an den Baukosten beteiligen. Der Bundesrat bestimmt die Einzelheiten.
+<sup>3</sup> Bei Anlagen im Sinne von Artikel 6 NSG[^9-2], die auf Wunsch der Kantone erstellt wurden und überwiegend kantonalen, regionalen oder lokalen Interessen dienen, tragen die Kantone die Unterhaltskosten. Der Bund kann sich im gleichen Umfang wie an den Baukosten beteiligen. Die Kosten des künftigen betrieblichen Unterhalts sind mit einzurechnen.[^9-3] Die Leistungen der Kantone werden dem Fonds zur Finanzierung der Nationalstrassen und des Agglomerationsverkehrs zugewiesen.[^9-4]
 
 <sup>4</sup> Als Kosten gelten die Aufwendungen der Projektierung, der Arbeiten selbst, der Aufsicht und der Verwaltung.
 
 [^9-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^9-2]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^9-3]: Fassung des dritten Satzes gemäss Anhang Ziff. 6 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^9-4]: Vierter Satz eingefügt durch Anhang Ziff. 6 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 10
 
@@ -269,7 +275,7 @@ Der Bund übernimmt für die Fertigstellung des beschlossenen Nationalstrassenne
 
 <sup>6</sup> Der Bund leistet seine Zahlungen im Verhältnis des Fortschreitens der Vorbereitungs- und Bauarbeiten. Er kann die vom Kanton zu leistenden Zahlungen gegen angemessene Verzinsung bevorschussen oder in Härtefällen Darlehen gewähren. Der Bundesrat regelt die Einzelheiten des Zahlungsverkehrs.
 
-[^11-1]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^11-1]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
 ### 3. Kapitel: Beiträge an die Kosten der Hauptstrassen****
 
@@ -468,7 +474,7 @@ Die im Voranschlag eingestellten Beiträge an Massnahmen zur Verbesserung der Ve
 
 [^1920-1]: Aufgehoben durch Ziff. II 17 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### 2. Abschnitt: …
+### 2. Abschnitt: ...
 
 #### Art. 21 und 22
 
@@ -476,7 +482,7 @@ Die im Voranschlag eingestellten Beiträge an Massnahmen zur Verbesserung der Ve
 
 [^2122-1]: Aufgehoben durch Anhang Ziff. II 1 des Gütertransportgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [BBl 2014 3827](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 
-### 3. Abschnitt: …
+### 3. Abschnitt: ...
 
 #### Art. 23 und 24
 
@@ -509,7 +515,7 @@ Der Bund leistet Beiträge an die Kosten der nach der Bundesgesetzgebung über d
 Beim Bau und Ausbau der Nationalstrassen und bei der Fertigstellung des beschlossenen Nationalstrassennetzes[^27-2] sind die erforderlichen Umweltschutzmassnahmen nach Artikel 25 Bestandteil des Projektes. Bei den Hauptstrassen sind die Kosten dieser Massnahmen mit den Globalbeiträgen abgegolten.
 
 [^27-1]: Fassung gemäss Ziff. II 17 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^27-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404))
+[^27-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404))
 
 ### 5. Abschnitt: Beiträge an strassenverkehrsbedingte Landschaftsschutzmassnahmen
 
@@ -536,7 +542,7 @@ Der Bund leistet Beiträge an die Kosten von durch den motorisierten Strassenver
 Beim Bau und Ausbau der Nationalstrassen und bei der Fertigstellung des beschlossenen Nationalstrassennetzes[^30-2] sind die erforderlichen Landschaftsschutzmassnahmen nach Artikel 28 Bestandteil des Projektes. Bei den Hauptstrassen sind die Kosten dieser Massnahmen mit den Globalbeiträgen abgegolten.
 
 [^30-1]: Fassung gemäss Ziff. II 17 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^30-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404))
+[^30-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404))
 
 ### 6. Abschnitt: Beiträge an Schutzbauten gegen Naturgewalten längs Strassen
 
@@ -568,7 +574,7 @@ Beim Bau und Ausbau der Nationalstrassen und bei der Fertigstellung des beschlos
 Beim Bau und Ausbau der Nationalstrassen und bei der Fertigstellung des beschlossenen Nationalstrassennetzes[^33-2] sind die erforderlichen Schutzbauten gegen Naturgewalten nach Artikel 31 Bestandteil des Projektes. Bei den Hauptstrassen sind die Kosten dieser Schutzbauten mit den Globalbeiträgen abgegolten.
 
 [^33-1]: Fassung gemäss Ziff. II 17 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^33-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404); AS **2007** 5770)
+[^33-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenden Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404); AS **2007** 5770)
 
 ### 6. Kapitel: Nicht werkgebundene Beiträge
 
@@ -582,7 +588,7 @@ Die allgemeinen Beiträge an die Kosten der dem Motorfahrzeugverkehr geöffneten
 
 - a.[^34-3] der Länge der dem Motorfahrzeugverkehr geöffneten Strassen ohne Nationalstrassen;
 - b. den Strassenlasten der Kantone;
-- [tab] c. und d. …[^34-4]
+- [tab] c. und d. ...[^34-4]
 
 <sup>2</sup> In Härtefällen können finanz- oder bevölkerungsschwachen Kantonen, die durch die Erstellung, die Erneuerung, den baulichen und den betrieblichen Unterhalt von Strassen sowie die polizeiliche Verkehrsüberwachung und Verkehrsregelung besonders belastet werden, zusätzliche Beiträge gewährt werden.[^34-5]
 
@@ -602,7 +608,7 @@ Die allgemeinen Beiträge an die Kosten der dem Motorfahrzeugverkehr geöffneten
 
 **Beiträge an Kantone ohne Nationalstrassen[^35-1]**
 
-<sup>1</sup> …[^35-2]
+<sup>1</sup> ...[^35-2]
 
 <sup>2</sup> Die Kantone, durch deren Gebiet keine Nationalstrassen führen, erhalten jährliche Ausgleichsbeiträge. Diese bemessen sich nach der Länge der dem Motorfahrzeugverkehr geöffneten Strassen und den Strassenlasten dieser Kantone.[^35-3]
 
@@ -756,15 +762,15 @@ Es werden aufgehoben:
 - 2\. der Bundesbeschluss vom 17. März 1972[^39-2], über die Finanzierung der Nationalstrassen;
 - 3\. der Bundesbeschluss vom 21. Februar 1964[^39-3] über Beiträge an die Aufhebung oder Sicherung von Niveauübergängen.
 
-[^39-1]: [[AS 1960 368](https://fedlex.data.admin.ch/eli/oc/1960/368_396_382), [1962 5](https://fedlex.data.admin.ch/eli/oc/1962/5_7_7)Art. 4, [1972 596](https://fedlex.data.admin.ch/eli/oc/1972/596_604_528), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 822, [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 Ziff. 2]
-[^39-2]: [[AS 1972 651](https://fedlex.data.admin.ch/eli/oc/1972/651_659_584), [1975 1709](https://fedlex.data.admin.ch/eli/oc/1975/1709_1709_1709), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 821]
-[^39-3]: [[AS 1964 1272](https://fedlex.data.admin.ch/eli/oc/1964/1272_1280_1312), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 823]
+[^39-1]: [[AS 1960 368](https://fedlex.data.admin.ch/eli/oc/1960/368_396_382); [1962 5](https://fedlex.data.admin.ch/eli/oc/1962/5_7_7)Art. 4; [1972 596](https://fedlex.data.admin.ch/eli/oc/1972/596_604_528); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 822; [1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122)Art. 66 Ziff. 2]
+[^39-2]: [[AS 1972 651](https://fedlex.data.admin.ch/eli/oc/1972/651_659_584); [1975 1709](https://fedlex.data.admin.ch/eli/oc/1975/1709_1709_1709); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 821]
+[^39-3]: [[AS 1964 1272](https://fedlex.data.admin.ch/eli/oc/1964/1272_1280_1312); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, [823](https://fedlex.data.admin.ch/eli/oc/1977/823_823_823)]
 
 #### Art. 40
 
 **Änderung bisherigen Rechts**
 
-…[^40-1]
+...[^40-1]
 
 [^40-1]: Die Änderung kann unter [AS 1985 834](https://fedlex.data.admin.ch/eli/oc/1985/834_834_834)konsultiert werden.
 
@@ -782,7 +788,7 @@ Dieses Gesetz ist rückwirkend anzuwenden auf den Zeitpunkt des Inkrafttretens d
 
 <sup>2</sup> Auf die Verzinsung der seit dem Inkrafttreten der Artikel 36<sup>bis</sup> und 36<sup>ter</sup> der Bundesverfassung den Kantonen zur Wahrung des Besitzstandes vorgeschossenen Beträge wird verzichtet; die Vorschüsse werden mit der Rückstellung verrechnet.
 
-[^41-1]: [[AS 1983 444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444),[1994 267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267),[1996 1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)]. Den genannten Bestimmungen entsprechen heute die Art. 83, 86, 131 Abs. 1 Bst. e und Abs. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^41-1]: [[AS 1983 444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444);[1994 267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267);[1996 1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)]. Den genannten Bestimmungen entsprechen heute die Art. 83, 86, 131 Abs. 1 Bst. e und Abs. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
 #### Art. 41a
 

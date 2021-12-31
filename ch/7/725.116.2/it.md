@@ -4,20 +4,20 @@ title: "Legge federale del 22 marzo 1985 concernente l'utilizzazione dell'impost
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo
 
-(LUMin)**[^t-1]**
+(LUMin)[^t-1]
 
-del 22 marzo 1985 (Stato 1° gennaio 2020)
+del 22 marzo 1985 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -31,7 +31,7 @@ decreta:
 [^ingress-2]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^ingress-3]: [FF 1984 I 800](https://fedlex.data.admin.ch/eli/fga/1984/1_986_993_800)
 
-## Titolo 1:**** Disposizioni generali
+## Titolo 1: Disposizioni generali
 
 [^tit1-1]
 
@@ -43,14 +43,15 @@ decreta:
 
 <sup>1</sup>
 
-La presente legge disciplina l’utilizzazione della quota a destinazione vincolata del prodotto netto dei seguenti mezzi per compiti e spese connessi alla circolazione stradale:
+La presente legge disciplina l’utilizzazione della quota a destinazione vincolata del prodotto netto dei mezzi di cui alle lettere a–f, nonché dei mezzi di cui alla lettera g per compiti e spese connessi alla circolazione stradale:[^1-2]
 
 - a. l’imposta di consumo riscossa sui carburanti, eccetto i carburanti per l’aviazione;
 - b. i supplementi riscossi sui carburanti di cui alla lettera a;
 - c. la tassa per l’utilizzazione delle strade nazionali;
 - d. l’imposta di consumo sulle automobili e le loro parti costitutive;
 - e. l’imposta di cui all’articolo 131 capoverso 2 lettera b Cost.;
-- f. la sanzione di cui all’articolo 13 della legge del 23 dicembre 2011[^1-2] sul CO<sub>2</sub>.
+- f. la sanzione di cui all’articolo 13 della legge del 23 dicembre 2011[^1-3] sul CO<sub>2</sub>;
+- g.[^1-4] i ricavi derivanti dalla gestione delle strade nazionali da parte dell’Ufficio federale delle strade (USTRA).
 
 <sup>2</sup>
 
@@ -62,7 +63,9 @@ Essa disciplina l’utilizzazione della quota a destinazione vincolata del prodo
 <sup>3</sup> Salvo laddove diversamente stabilito da altre disposizioni federali, per prodotto netto si intende il prodotto al netto dei compensi per la riscossione di tasse e imposte.
 
 [^1-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^1-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^1-2]: Nuovo testo giusta l’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^1-3]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^1-4]: Introdotta dall’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 2
 
@@ -72,13 +75,13 @@ Il Consiglio federale presenta all’Assemblea federale, insieme al preventivo e
 
 [^2-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-## Titolo 2: Compiti e spese connessi alla circolazione stradale****
+## Titolo 2: Compiti e spese connessi alla circolazione stradale
 
 [^tit2-1]
 
 [^tit2-1]: Introdotto dal n. I della LF del 18 mar. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)). Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-### Capitolo 1: Disposizioni generali****
+### Capitolo 1: Disposizioni generali
 
 [^tit2-chap1-1]
 
@@ -132,7 +135,7 @@ I mezzi di cui al capoverso 1 sono ottenuti come segue:
 
 [^6-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5733](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
 
-### Capitolo 2:**** Finanziamento delle strade nazionali
+### Capitolo 2: Finanziamento delle strade nazionali
 
 [^tit2-chap2-1]
 
@@ -171,19 +174,20 @@ Costruzione e sistemazione comprendono:
 - e. le installazioni per la sicurezza e per il decongestionamento delle strade, come i centri d’intervento per la lotta contro gli incidenti chimici, i dispositivi per il controllo del peso e altri controlli della circolazione, le corsie e aree di posteggio;
 - f. le installazioni per la gestione del traffico, come la centrale di gestione del traffico e la centrale dei dati sul traffico.
 
-<sup>3</sup> Le spese di costruzione e di sistemazione di impianti ai sensi dell’articolo 6 LSN[^8-1] che sono costruiti su domanda dei Cantoni o di terzi e che rispondono prevalentemente a interessi cantonali, regionali o locali sono a carico dei Cantoni o dei terzi in questione. Le spese della futura manutenzione corrente devono essere incluse.[^8-2]
+<sup>3</sup> Le spese di costruzione e di sistemazione di impianti ai sensi dell’articolo 6 LSN[^8-1] che sono costruiti su domanda dei Cantoni o di terzi e che rispondono prevalentemente a interessi cantonali, regionali o locali sono a carico dei Cantoni o dei terzi in questione. Le spese della futura manutenzione corrente devono essere incluse. Le prestazioni dei Cantoni o di terzi sono destinate al Fondo per le strade nazionali e il traffico d’agglomerato.[^8-2] [^8-3]
 
 <sup>4</sup>
 
 La Confederazione può partecipare alle spese computabili. Il Consiglio federale ne determina la partecipazione caso per caso, tenendo conto che:
 
-- a. per le fasi di potenziamento di cui all’articolo 5 capoverso 1 lettera a numero 2 della legge federale del 30 settembre 2016[^8-3] concernente il Fondo per le strade nazionali e il traffico d’agglomerato, essa non può superare il 60 per cento delle spese supplementari derivanti dalla realizzazione di misure alternative quali altri tracciati e varianti in galleria;
-- b. negli altri casi, non può superare il 30 per cento delle spese.[^8-4]
+- a. per le fasi di potenziamento di cui all’articolo 5 capoverso 1 lettera a numero 2 della legge federale del 30 settembre 2016[^8-4] concernente il Fondo per le strade nazionali e il traffico d’agglomerato, essa non può superare il 60 per cento delle spese supplementari derivanti dalla realizzazione di misure alternative quali altri tracciati e varianti in galleria;
+- b. negli altri casi, non può superare il 30 per cento delle spese.[^8-5]
 
 [^8-1]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^8-2]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^8-3]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
-[^8-4]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8-2]: Per. introdotto dall’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^8-3]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8-4]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^8-5]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 8a
 
@@ -208,12 +212,14 @@ La Confederazione può partecipare alle spese computabili. Il Consiglio federale
 
 <sup>2</sup> Gli interventi di manutenzione edile sottoposti a progettazione e i lavori di rinnovamento delle strade nazionali comprendono i lavori necessari alla conservazione della strada e delle sue installazioni tecniche.[^9-1]
 
-<sup>3</sup> I Cantoni assumono le spese di manutenzione di impianti ai sensi dell’articolo 6 della legge federale dell’8 marzo 1960[^9-2] sulle strade nazionali che servono prevalentemente interessi cantonali, regionali o locali e che sono costruiti su loro domanda. La Confederazione può accordare un aiuto finanziario pari alla sua partecipazione alle spese di costruzione. Il Consiglio federale definisce i dettagli.
+<sup>3</sup> I Cantoni assumono le spese di manutenzione di impianti ai sensi dell’articolo 6 della legge federale dell’8 marzo 1960[^9-2] sulle strade nazionali che servono prevalentemente interessi cantonali, regionali o locali e che sono costruiti su loro domanda. La Confederazione può accordare un aiuto finanziario pari alla sua partecipazione alle spese di costruzione. Le prestazioni dei Cantoni sono destinate al Fondo per le strade nazionali e il traffico d’agglomerato.[^9-3] Il Consiglio federale definisce i dettagli.[^9-4]
 
 <sup>4</sup> Sono considerate spese quelle per la progettazione, per i lavori veri e propri, per la vigilanza e per l’amministrazione.
 
 [^9-1]: Nuovo testo giusta l’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^9-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^9-3]: Nuovo testo del per. giusta l’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^9-4]: Per. introdotto dall’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 10
 
@@ -265,7 +271,7 @@ Per il completamento della rete delle strade nazionali[^11-1], la Confederazione
 
 [^11-1]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
-### Capitolo 3: Contributi alle spese delle strade principali****
+### Capitolo 3: Contributi alle spese delle strade principali
 
 [^tit2-chap3-1]
 
@@ -348,7 +354,7 @@ I Cantoni costruiscono e provvedono alla manutenzione e all’esercizio delle st
 
 [^17-1]: Nuovo testo giusta il n. II 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### Capitolo 4:**** Contributi alle infrastrutture dei trasporti nelle città e negli agglomerati
+### Capitolo 4: Contributi alle infrastrutture dei trasporti nelle città e negli agglomerati
 
 [^tit2-chap4-1]
 
@@ -435,7 +441,7 @@ I contributi iscritti nel preventivo concernenti provvedimenti volti a migliorar
 
 ### Capitolo 5: Altri contributi direttamente vincolati alle opere
 
-### Sezione 1: Contributi per binari di raccordo, nonché per il promovimento del traffico combinato e del trasporto di veicoli stradali accompagnati ****
+### Sezione 1: Contributi per binari di raccordo, nonché per il promovimento del traffico combinato e del trasporto di veicoli stradali accompagnati
 
 [^tit2-chap5-sec1-1]
 
@@ -632,7 +638,7 @@ I contributi generali alle spese delle strade aperte agli autoveicoli sono commi
 
 [^37-1]: Introdotto dall’all. n. II 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-## Titolo 3:**** Spese connesse al traffico aereo****
+## Titolo 3: Spese connesse al traffico aereo
 
 [^tit3-1][^tit3-2]
 
@@ -726,7 +732,7 @@ Al fine di promuovere un elevato livello di sicurezza tecnica nel traffico aereo
 
 [^37f-1]: Nuovo testo giusta l’all. n. 25 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
-## Titolo 4: Disposizioni finali****
+## Titolo 4: Disposizioni finali
 
 [^tit4-1]
 

@@ -4,20 +4,20 @@ title: "Loi fédérale du 22 mars 1985 concernant l'utilisation de l'impôt sur 
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien
 
-(LUMin)**[^t-1]**
+(LUMin)[^t-1]
 
-du 22 mars 1985 (Etat le 1<sup>er</sup> janvier 2020)
+du 22 mars 1985 (État le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -29,7 +29,7 @@ arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 
-## Titre 1**** Dispositions générales
+## Titre 1 Dispositions générales
 
 [^tit1-1]
 
@@ -41,14 +41,15 @@ arrête:
 
 <sup>1</sup>
 
-La présente loi règle l’utilisation, pour les tâches et les dépenses liées à la circulation routière, de la part affectée du produit net des moyens suivants:
+La présente loi règle l’utilisation, pour les tâches et les dépenses liées à la circulation routière, de la part affectée du produit net des moyens visés aux let. a à f ainsi que des moyens visés à la let. g:[^1-2]
 
 - a. l’impôt à la consommation prélevé sur les carburants, à l’exception des carburants d’aviation;
 - b. les surtaxes prélevées sur les carburants visés à la let. a;
 - c. la redevance pour l’utilisation des routes nationales;
 - d. l’impôt à la consommation sur les automobiles et leurs composantes;
 - e. la redevance visée à l’art. 131, al. 2, let. b, Cst.;
-- f. la sanction prévue à l’art. 13 de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^1-2].
+- f. la sanction prévue à l’art. 13 de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^1-3];
+- g.[^1-4] les revenus issus de l’exploitation des routes nationales par l’Office fédéral des routes (OFROU).
 
 <sup>2</sup>
 
@@ -60,7 +61,9 @@ Elle règle l’utilisation, pour les dépenses liées au trafic aérien, de la 
 <sup>3</sup> Est réputé produit net le produit obtenu après déduction de l’indemnisation pour le prélèvement des redevances et des impôts, sauf dispositions contraires du droit fédéral.
 
 [^1-1]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^1-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^1-2]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^1-3]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^1-4]: Introduite par l’annexe ch. 6 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 2
 
@@ -70,13 +73,13 @@ Le Conseil fédéral présente à l’Assemblée fédérale, en même temps que 
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-## Titre 2 Tâches et dépenses liées à la circulation routière****
+## Titre 2 Tâches et dépenses liées à la circulation routière
 
 [^tit2-1]
 
 [^tit2-1]: Introduit par le ch. I de la LF du 18 mars 2011 ([RO 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5937](https://fedlex.data.admin.ch/eli/fga/2010/1146)). Nouvelle teneur selon le ch. II 5 de l’annexe à la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-### Chapitre 1 Dispositions générales****
+### Chapitre 1 Dispositions générales
 
 [^tit2-chap1-1]
 
@@ -130,7 +133,7 @@ Les ressources prévues à l’al. 1 sont obtenues de la manière suivante:
 
 [^6-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 sur l’utilisation de l'impôt sur les huiles minérales, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3467](https://fedlex.data.admin.ch/eli/oc/2011/469); [FF 2010 5937](https://fedlex.data.admin.ch/eli/fga/2010/1146)).
 
-### Chapitre 2 Financement des routes nationales****
+### Chapitre 2 Financement des routes nationales
 
 [^tit2-chap2-1]
 
@@ -169,19 +172,20 @@ La construction et l’aménagement comprennent:
 - e. les équipements qui servent à assurer la sécurité et le délestage de la route, notamment les centres d’intervention contre les accidents chimiques, les dispositifs de contrôle du poids et de la circulation et les voies ou aires de stationnement;
 - f. les installations de gestion du trafic, telles que la centrale de gestion du trafic et le centre de données sur les transports.
 
-<sup>3</sup> Les frais de construction et d’aménagement des installations au sens de l’art. 6 LRN[^8-1] qui sont réalisées à la demande des cantons ou de tiers et qui servent de façon prépondérante des intérêts cantonaux, régionaux ou locaux sont pris en charge par les cantons ou par les tiers. Les futurs frais d’entretien courant doivent également être pris en compte.[^8-2]
+<sup>3</sup> Les frais de construction et d’aménagement des installations au sens de l’art. 6 LRN[^8-1] qui sont réalisées à la demande des cantons ou de tiers et qui servent de façon prépondérante des intérêts cantonaux, régionaux ou locaux sont pris en charge par les cantons ou par les tiers. Les futurs frais d’entretien courant doivent également être pris en compte. Les prestations des cantons ou de tiers sont attribuées au fonds pour les routes nationales et pour le trafic d’agglomération.[^8-2] [^8-3]
 
 <sup>4</sup>
 
 La Confédération peut participer aux frais imputables. Le Conseil fédéral fixe la participation en l’espèce. Ce faisant, les dispositions suivantes s’appliquent:
 
-- a. la participation aux frais s’élève à 60 % au plus des frais supplémentaires résultant de la réalisation de mesures de substitution telles qu’un autre tracé et des options avec tunnel pour les étapes d’aménagement visées à l’art. 5, al. 1, let. a, ch. 2, de la loi fédérale du 30 septembre 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération[^8-3];
-- b. la participation aux frais s’élève à 30 % au plus des frais dans les autres cas.[^8-4]
+- a. la participation aux frais s’élève à 60 % au plus des frais supplémentaires résultant de la réalisation de mesures de substitution telles qu’un autre tracé et des options avec tunnel pour les étapes d’aménagement visées à l’art. 5, al. 1, let. a, ch. 2, de la loi fédérale du 30 septembre 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération[^8-4];
+- b. la participation aux frais s’élève à 30 % au plus des frais dans les autres cas.[^8-5]
 
 [^8-1]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^8-2]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^8-3]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
-[^8-4]: Introduit par l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8-2]: Phrase introduite par l’annexe ch. 6 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^8-3]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
+[^8-4]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^8-5]: Introduit par l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 8a
 
@@ -206,12 +210,14 @@ La Confédération peut participer aux frais imputables. Le Conseil fédéral fi
 
 <sup>2</sup> L’entretien lié à un projet et le renouvellement des routes nationales comprennent les travaux qui servent à conserver les routes et leurs installations techniques.[^9-1]
 
-<sup>3</sup> Les frais d’entretien des installations au sens de l’art. 6 de la loi fédérale du 8 mars 1960 sur les routes nationales[^9-2] qui sont réalisées à la demande des cantons et qui servent de façon prépondérante des intérêts cantonaux, régionaux ou locaux sont pris en charge par les cantons. La Confédération peut participer aux frais d’entretien dans les mêmes proportions que pour les frais de construction. Le Conseil fédéral règle les modalités.
+<sup>3</sup> Les frais d’entretien des installations au sens de l’art. 6 de la loi fédérale du 8 mars 1960 sur les routes nationales[^9-2] qui sont réalisées à la demande des cantons et qui servent de façon prépondérante des intérêts cantonaux, régionaux ou locaux sont pris en charge par les cantons. La Confédération peut participer aux frais d’entretien dans les mêmes proportions que pour les frais de construction. Les prestations des cantons sont attribuées au fonds pour les routes nationales et pour le trafic d’agglomération.[^9-3] Le Conseil fédéral règle les modalités.[^9-4]
 
 <sup>4</sup> Sont considérées comme frais les dépenses liées à l’établissement des projets, aux travaux eux-mêmes et aux frais de surveillance et d’administration.
 
 [^9-1]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^9-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^9-3]: Nouvelle teneur de la phrase selon l’annexe ch. 6 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
+[^9-4]: Phrase introduite par l’annexe ch. 6 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 10
 
@@ -271,7 +277,7 @@ S’agissant de l’achèvement du réseau des routes nationales tel qu’il a �
 
 [^11-1]: Conformément à l’AF du 21 juin 1960 sur le réseau des routes nationales, dans ses dernières versions faisant foi ([RO 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/831_872_858), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) et à l’art. 197, ch. 3, Cst. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
-### Chapitre 3 Contributions aux frais des routes principales****
+### Chapitre 3 Contributions aux frais des routes principales
 
 [^tit2-chap3-1]
 
@@ -354,7 +360,7 @@ Les cantons construisent, entretiennent et exploitent les routes principales. Il
 
 [^17-1]: Nouvelle teneur selon le ch. II 17 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### Chapitre 4**** Contributions destinées aux infrastructures de transport dans les villes et dans les agglomérations
+### Chapitre 4 Contributions destinées aux infrastructures de transport dans les villes et dans les agglomérations
 
 [^tit2-chap4-1]
 
@@ -441,7 +447,7 @@ Les contributions inscrites au budget et destinées aux mesures visant à améli
 
 ### Chapitre 5 Autres contributions au financement de mesures techniques
 
-### Section 1 Contributions aux voies de raccordement ferroviaires et à la promotion du transport combiné et du transport de véhicules routiers accompagnés****
+### Section 1 Contributions aux voies de raccordement ferroviaires et à la promotion du transport combiné et du transport de véhicules routiers accompagnés
 
 [^tit2-chap5-sec1-1]
 
@@ -484,7 +490,7 @@ Les contributions inscrites au budget et destinées aux mesures visant à améli
 
 [^2324-1]: Abrogés par le ch. I 7 de la LF du 24 mars 1995 sur les mesures d’assainissement 1994, avec effet au 1<sup>er</sup> janv. 1996 ([RO 1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)[5365](https://fedlex.data.admin.ch/eli/oc/1995/5365_5365_5365), [1998 2308](https://fedlex.data.admin.ch/eli/oc/1998/2308_2308_2308)art. 1<sup>er</sup>; [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
-### Section 4 Contributions aux frais des mesures de protection de l’environnement nécessitées par la circulation routière****
+### Section 4 Contributions aux frais des mesures de protection de l’environnement nécessitées par la circulation routière
 
 [^tit2-chap5-sec4-1]
 
@@ -642,7 +648,7 @@ La participation générale aux frais des routes ouvertes aux véhicules à mote
 
 [^37-1]: Introduit par l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
-## Titre 3**** Dépenses liées au trafic aérien****
+## Titre 3 Dépenses liées au trafic aérien
 
 [^tit3-1][^tit3-2]
 
@@ -736,7 +742,7 @@ Dans le but de promouvoir un niveau élevé de sécurité technique dans le traf
 
 [^37f-1]: Nouvelle teneur selon l’annexe ch. 25 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
-## Titre 4 Dispositions finales****
+## Titre 4 Dispositions finales
 
 [^tit4-1]
 
