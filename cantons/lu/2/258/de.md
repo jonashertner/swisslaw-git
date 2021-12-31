@@ -4,13 +4,12 @@ number: "258"
 title: Verordnung über die Beurkundungsgebühren
 short: BeurkGebV
 language: de
-version: 2012-07-01
-valid_until: 2021-12-31
-version_adopted: 2012-06-18
+version: 2022-01-01
+version_adopted: 2021-11-23
 adopted: 1973-11-24
 in_force: 1974-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/258"
-pdf: "https://srl.lu.ch/api/de/versions/3006/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3870/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3006/pdf_file"
 
 (BeurkGebV)
 
-vom 24.11.1973 (Stand 01.07.2012)
+vom 24.11.1973 (Stand 01.01.2022)
 
-Das Obergericht des Kantons Luzern,
+Das Kantonsgericht des Kantons Luzern,
 
-in Vollziehung der §§ 52 Absatz 2 und 63 Absatz 1 des Gesetzes über die öffentlichen Beurkundungen vom 18. September 1973[^ingress-1],
+in Vollziehung der §§ 52a Absatz 2, 52b Absatz 6, 53 Absatz 3 und 63 Absatz 1 des Gesetzes über die öffentlichen Beurkundungen vom 18. September 1973[^ingress-1],
 
 beschliesst:
 
@@ -41,11 +40,15 @@ beschliesst:
 
 **Bemessung**
 
-<sup>1</sup> Die Gebühr bemisst sich nach festen Ansätzen, nach dem Wert oder nach einem Gebührenrahmen.
+<sup>1</sup> …
 
-<sup>2</sup> Ist der Wert massgebend, so richtet sich die Gebühr nach den in Abschnitt B festgesetzten Bruchteilen.
+<sup>2</sup> …
 
-<sup>3</sup> Wo die Verordnung einen Gebührenrahmen aufstellt, sind für die Berechnung der Gebühr die Bedeutung und die Schwierigkeit der Sache, der Arbeitsaufwand und die Zeitdauer der Inanspruchnahme massgebend.
+<sup>3</sup> Legt diese Verordnung einen Gebührenrahmen fest, bemisst sich die Gebühr nach dem gebotenen Zeitaufwand.
+
+<sup>4</sup> Der Stundenansatz der Urkundsperson beträgt Fr. 180.– bis Fr. 300.–. Für die Bemessung ist insbesondere die Bedeutung und Schwierigkeit der Sache sowie die übernommene Verantwortung massgebend.
+
+<sup>5</sup> Die Sekretariatsarbeiten sind im Grundansatz inbegriffen. Der Stundenansatz für die Tätigkeit von Notariatsangestellten (Sachbearbeiter, juristischer Mitarbeiter) beträgt Fr. 70.– bis Fr. 160.–.
 
 #### § 3
 
@@ -57,6 +60,8 @@ beschliesst:
 
 - a. das Entgelt für weitere Vorbereitungsarbeiten, wie Parzellierungen (einschliesslich Bereinigung von Dienstbarkeiten), Pfandentlassungen, Baulandumlegungen durch privatrechtliche Vereinbarung, Verfassen von Nutzungs- und Verwaltungsordnungen für Stockwerk- oder Miteigentümergemeinschaften, Gesellschaftsstatuten, Sacheinlage- und Fusionsverträgen;
 - b. das Entgelt für Folgearbeiten, wie Ermitteln der vorkaufsberechtigten Personen und Mitteilung des Vorkaufsfalles, Einreichen einer Verfügung von Todes wegen zur amtlichen Aufbewahrung, Abklärungen im Hinblick auf Wertgrenzen und die Zustimmungsbedürftigkeit eines Rechtsgeschäftes, Einholen von Zustimmungserklärungen, Gesuche um Genehmigung eines Rechtsgeschäftes oder um Feststellung einer Behörde im Hinblick auf die Genehmigungsbedürftigkeit eines Rechtsgeschäftes, Gesuch um Schatzungsverteilung, Treuhandfunktionen beim Vollzug beurkundeter Geschäfte.
+
+<sup>2<sup>bis</sup></sup> Die nicht in der Gebühr inbegriffenen Arbeiten nach Absatz 2 werden nach dem gebotenen Zeitaufwand entschädigt.
 
 <sup>3</sup> Die Beurkundung aufgrund einer dem Notar in Reinschrift vorgelegten Urkunde hat keine Ermässigung der Gebühr zur Folge.
 
@@ -78,6 +83,8 @@ beschliesst:
 - a. wenn die öffentliche Beurkundung nicht zum Abschluss gelangt;
 - b. wenn ein Notar im gleichen Sachzusammenhang zahlreiche gleichartige Rechtsgeschäfte zu beurkunden hat.
 
+<sup>2</sup> Bei Gebühren, die sich nach einem Gebührenrahmen richten, kann in Ausnahmefällen, insbesondere in Fällen gemäss Absatz 1b, die Mindestgebühr unterschritten werden.
+
 #### § 6
 
 **Vorvertrag**
@@ -88,7 +95,7 @@ beschliesst:
 
 **Verlängerung eines zeitlich befristeten Vertrags**
 
-<sup>1</sup> Die Gebühr für die Verlängerung eines zeitlich befristeten Vertrags beträgt einen Drittel derjenigen des ursprünglichen Vertrags.
+<sup>1</sup> Bei der Verlängerung eines zeitlich befristeten Vertrags beträgt die Gebühr Fr. 100.– bis Fr. 1000.–.
 
 #### § 8
 
@@ -120,7 +127,7 @@ beschliesst:
 
 **Unterschrift, Handzeichen**
 
-<sup>1</sup> Bei der Beglaubigung einer Unterschrift beträgt die Gebühr Fr. 30.– bis Fr. 50.–.
+<sup>1</sup> Bei der Beglaubigung einer Unterschrift beträgt die Gebühr Fr. 30.–.
 
 <sup>2</sup> Bei gleichzeitiger Beglaubigung mehrerer Unterschriften auf demselben Schriftstück beträgt die Gebühr für die zweite und jede weitere Unterschrift Fr. 10.–.
 
@@ -128,23 +135,25 @@ beschliesst:
 
 #### § 12
 
-**Von Dritten hergestellte Kopien und Auszüge**
+**Von Dritten hergestellte Kopien und dergleichen**
 
-<sup>1</sup> Bei der Beglaubigung von Kopien (Abschriften, Fotokopien, Durchschlagskopien usw.) oder Auszügen (Buch-, Protokollauszügen usw.), welche der Urkundsperson vorgelegt werden, beträgt die Gebühr Fr. 20.– für die erste und Fr. 5.– für jede weitere Seite.
+<sup>1</sup> Bei der Beglaubigung von Kopien, Abschriften, Auszügen und dergleichen, welche der Urkundsperson vorgelegt werden, beträgt die Gebühr Fr. 20.– für die erste und Fr. 5.– für jede weitere Seite.
 
 #### § 13
 
-**Von der Urkundsperson hergestellte Kopien und Auszüge**
+**Von der Urkundsperson hergestellte Kopien und dergleichen**
 
-<sup>1</sup> Bei der Beglaubigung von Kopien und Auszügen, welche die Urkundsperson selbst hergestellt hat, beträgt die Gebühr Fr. 10.– für die erste und Fr. 2.– für jede weitere Seite.
+<sup>1</sup> Bei der Beglaubigung von Kopien, Abschriften, Auszügen und dergleichen, welche die Urkundsperson selbst hergestellt hat, beträgt die Gebühr Fr. 10.– für die erste und Fr. 2.– für jede weitere Seite.
 
-<sup>2</sup> Das Erstellen der Kopien und Auszüge ist in dieser Gebühr nicht enthalten.
+<sup>2</sup> Das Erstellen der Kopien und dergleichen ist in dieser Gebühr nicht enthalten.
 
 #### § 14
 
 **Übersetzung**
 
 <sup>1</sup> Bei der Beglaubigung einer Übersetzung beträgt die Gebühr Fr. 30.– für die erste und Fr. 15.– für jede weitere Seite.
+
+<sup>1<sup>bis</sup></sup> Bei der Beglaubigung einer Übersetzung, für deren Richtigkeit ein Übersetzer mit seiner Unterschrift bürgt, beträgt die Gebühr Fr. 30.–.
 
 <sup>2</sup> Stammt die Übersetzung von der Urkundsperson selber, so kann hiefür ein Zuschlag nach Zeitaufwand und Schwierigkeit berechnet werden.
 
@@ -161,6 +170,8 @@ beschliesst:
 **Stiftungen**
 
 <sup>1</sup> Bei der Errichtung einer Stiftung unter Lebenden (Art. 81 ZGB) beträgt die Gebühr Fr. 500.– bis Fr. 3000.–.
+
+<sup>2</sup> Bei der Abänderung einer Stiftungsurkunde beträgt die Gebühr Fr. 100.– bis Fr. 1000.– .
 
 #### § 16
 
@@ -181,7 +192,7 @@ beschliesst:
 - a. 2 ‰ vom Inventarwert bis Fr. 200 000.–
 - b. plus 1,5 ‰ vom Mehrbetrag über Fr. 200 000.– bis Fr. 500 000.–
 - c. plus 1 ‰ vom Mehrbetrag über Fr. 500 000.– bis Fr. 1 500 000.–
-- d. plus 0,2 ‰ vom Mehrbetrag über Fr. 1 500 000.–
+- d. von dem 1,5 Mio. Fr. überschreitenden Inventarwert wird keine Gebühr erhoben
 
 #### § 18
 
@@ -193,17 +204,23 @@ beschliesst:
 - b. für die Abänderung auf Fr. 150.– bis 450.–;
 - c. für die Aufhebung auf Fr. 100.– bis Fr. 200.–.
 
+#### § 18a
+
+**Vorsorgeauftrag**
+
+<sup>1</sup> Bei der Errichtung und der Abänderung eines Vorsorgeauftrages (Art. 361 ZGB) beträgt die Gebühr Fr. 100.– bis Fr. 3000.–.
+
 #### § 19
 
 **Letztwillige Verfügung, Erbvertrag**
 
-<sup>1</sup> Bei der Errichtung einer öffentlichen letztwilligen Verfügung (Art. 499 ZGB) oder eines Erbvertrages (Art. 512 ZGB) beträgt die Gebühr
+<sup>1</sup> Bei der Errichtung einer öffentlichen letztwilligen Verfügung (Art. 499 ZGB) oder eines Erbvertrages (Art. 512 ZGB) beträgt die Gebühr Fr. 500.– bis Fr. 5000.–.
 
-- a. 2 ‰ vom Verfügungswert bis Fr. 500 000.–
-- b. plus 1,5 ‰ vom Mehrbetrag über Fr. 500 000.– bis Fr. 1 000 000.–
-- c. plus 1 ‰ vom Mehrbetrag über Fr. 1 000 000.– bis Fr. 5 000 000.–
-- d. plus 0,3 ‰ vom Mehrbetrag über Fr. 5 000 000.– bis Fr. 10 000 000.–
-- e. plus 0,2 ‰ vom Mehrbetrag über Fr. 10 000 000.–
+- a. …
+- b. …
+- c. …
+- d. …
+- e. …
 
 <sup>2</sup> Bei der Abänderung beträgt die Gebühr Fr. 150.– bis Fr. 2000.–.
 
@@ -225,7 +242,7 @@ beschliesst:
 - b. plus 2,5 ‰ vom Mehrbetrag über Fr. 500 000.– bis Fr. 1 000 000.–
 - c. plus 2 ‰ vom Mehrbetrag über Fr. 1 000 000.– bis Fr. 5 000 000.–
 - d. plus 1 ‰ vom Mehrbetrag über Fr. 5 000 000.– bis Fr. 10 000 000.–
-- e. plus 0,2 ‰ vom Mehrbetrag über Fr. 10 000 000.–
+- e. von der 10 Mio. Fr. übersteigenden Vertragssumme wird keine Gebühr erhoben
 
 <sup>2</sup> Die Gebühr berechnet sich nach dem Katasterwert, bei landwirtschaftlichen Grundstücken zuzüglich 300 % und bei vor 1994 geschätzten nichtlandwirtschaftlichen Grundstücken zuzüglich 200 %, sofern im Vertrag keine oder eine niedrigere Vertragssumme angegeben ist.
 
@@ -255,7 +272,9 @@ beschliesst:
 - b. plus 2,5 ‰ vom Mehrbetrag über Fr. 500 000.– bis Fr. 1 000 000.–
 - c. plus 2 ‰ vom Mehrbetrag über Fr. 1 000 000.– bis Fr. 5 000 000.–
 - d. plus 1 ‰ vom Mehrbetrag über Fr. 5 000 000.– bis Fr. 10 000 000.–
-- e. plus 0,2 ‰ vom Mehrbetrag über Fr. 10 000 000.–
+- e. vom Bodenwert und von den Baukosten, die 10 Mio. Fr. übersteigen, wird keine Gebühr erhoben
+
+<sup>2</sup> Bei der Änderung und der Aufhebung von Stockwerkeigentum beträgt die Gebühr Fr. 200.– bis Fr. 5000.–.
 
 #### § 25
 
@@ -275,7 +294,7 @@ beschliesst:
 
 <sup>2</sup> Als Vertragssumme gilt die Leistung des Bauberechtigten. Ist der Bauberechtigte zu periodischen Leistungen während bestimmter Zeit verpflichtet, höchstens aber 20 Jahre lang, so ist die Summe der Leistungen massgebend. Ist der Bauberechtigte zu periodischen Leistungen während unbestimmter Zeit oder länger als 20 Jahre verpflichtet, so ist der zwanzigfache Betrag der einzelnen Leistung massgebend.
 
-<sup>3</sup> ...
+<sup>3</sup> Bei der Änderung eines selbständigen und dauernden Baurechts beträgt die Gebühr Fr. 200.– bis Fr. 5000.–.
 
 #### § 28
 
@@ -292,7 +311,8 @@ beschliesst:
 - a. 2 ‰ der Pfandsumme bis Fr. 500 000.–
 - b. plus 1,25 ‰ vom Mehrbetrag über Fr. 500 000.– bis Fr. 1 000 000.–
 - c. plus 0,75 ‰ vom Mehrbetrag über Fr. 1 000 000.– bis Fr. 5 000 000.–
-- d. plus 0,5 ‰ vom Mehrbetrag über Fr. 5 000 000.–
+- d. plus 0,5 ‰ vom Mehrbetrag über Fr. 5 000 000.– bis Fr. 10 000 000.–
+- e. von der 10 Mio. Fr. übersteigenden Pfandsumme wird keine Gebühr erhoben
 
 <sup>2</sup> Werden in der gleichen öffentlichen Urkunde mehrere Pfandrechte errichtet, so berechnet sich die Gebühr vom Gesamtbetrag der Pfandsummen.
 
@@ -367,7 +387,7 @@ beschliesst:
 - c. plus 2 ‰ vom Mehrbetrag über Fr. 1 000 000.– bis Fr. 2 000 000.–
 - d. plus 1,5 ‰ vom Mehrbetrag über Fr. 2 000 000.– bis Fr. 5 000 000.–
 - e. plus 0,5 ‰ vom Mehrbetrag über Fr. 5 000 000.– bis Fr. 10 000 000.–
-- f. plus 0,2 ‰ vom Mehrbetrag über Fr. 10 000 000.–
+- f. von dem 10 Mio. Fr. übersteigenden Grundkapital wird keine Gebühr erhoben
 
 #### § 38
 
@@ -407,7 +427,8 @@ beschliesst:
 - b. plus 1,5 ‰ vom Mehrbetrag über Fr. 200 000.– bis Fr. 500 000.–
 - c. plus 1 ‰ vom Mehrbetrag über Fr. 500 000.– bis Fr. 2 500 000.–
 - d. plus 0,3 ‰ vom Mehrbetrag über Fr. 2 500 000.– bis Fr. 5 000 000.–
-- e. plus 0,2 ‰ vom Mehrbetrag über Fr. 5 000 000.–
+- e. plus 0,2 ‰ vom Mehrbetrag über Fr. 5 000 000.– bis Fr. 10 000 000.–
+- f. von der 10 Mio. Fr. übersteigenden Vertragssumme wird keine Gebühr erhoben
 
 <sup>4</sup> Bei der Umwandlung einer Aktiengesellschaft in eine Gesellschaft mit beschränkter Haftung berechnet sich die Gebühr vom neuen Kapital nach den Ansätzen von § 37.
 
@@ -438,7 +459,7 @@ beschliesst:
 
 [^45-1]: SR [221.522.1](https://db.clex.ch/link/Bund/221.522.1/de)
 
-### 2.2.3 Nach Fusionsgesetz,
+### 2.2.3 Nach Fusionsgesetz
 
 [^45-2]
 
@@ -468,6 +489,16 @@ beschliesst:
 
 <sup>4</sup> Bei der Beurkundung mehrerer beurkundungsbedürftiger Rechtsgeschäfte in der gleichen öffentlichen Urkunde berechnet sich die Gebühr nach den Ansätzen von Absatz 1, 2 oder 3, wobei die höchste Gebühr massgebend ist.
 
+#### § 45c
+
+**Sonstige Beurkundungen nach Fusionsrecht**
+
+<sup>1</sup> Bei der Beurkundung eines Übertragungsvertrages gemäss Artikel 70 Absatz 2 des Fusionsgesetzes berechnet sich die Gebühr nach den Ansätzen von § 21.
+
+<sup>2</sup> Bei der Beurkundung eines Fusionsvertrages bei Familienstiftungen und kirchlichen Stiftungen gemäss Artikel 79 Absatz 3 des Fusionsgesetzes beträgt die Gebühr Fr. 500.– bis Fr. 2000.–.
+
+<sup>3</sup> Die Gebühr für eine öffentliche Urkunde über die Feststellung betreffend eine Grundstücksübertragung gemäss Artikel 104 Absatz 3 des Fusionsgesetzes beträgt Fr. 500.– bis Fr. 2000.–.
+
 ### 2.2.4 Sonstige Beurkundungen
 
 #### § 46
@@ -480,7 +511,7 @@ beschliesst:
 
 **Eidesabnahme, Erklärung an Eidesstatt**
 
-<sup>1</sup> Die Gebühr für die Beurkundung der Eidesabnahme oder der Erklärung an Eidesstatt beträgt Fr. 50.– bis Fr. 300.–.
+<sup>1</sup> Die Gebühr für die Beurkundung der Eidesabnahme oder der Erklärung an Eidesstatt beträgt Fr. 100.– bis Fr. 1000.–.
 
 #### § 48
 
@@ -506,7 +537,7 @@ beschliesst:
 - b. plus 1,5 ‰ vom Mehrbetrag über Fr. 200 000.– bis Fr. 500 000.–
 - c. plus 1 ‰ vom Mehrbetrag über Fr. 500 000.– bis Fr. 2 500 000.–
 - d. plus 0,3 ‰ vom Mehrbetrag über Fr. 2 500 000.– bis Fr. 5 000 000.–
-- e. plus 0,2 ‰ vom Mehrbetrag über Fr. 5 000 000.–
+- e. von der Vertragssumme oder beim Fehlen einer solchen vom mutmasslichen Interessenwert wird für die 5 Mio. Fr. übersteigende Vertragssumme oder für den 5 Mio. Fr. übersteigenden Interessenwert keine Gebühr erhoben
 
 <sup>2</sup> Besteht kein mutmasslicher Interessenwert, sind für die Berechnung der Gebühr die Bedeutung und Schwierigkeit der Sache, der Arbeitsaufwand und die Zeitdauer der Inanspruchnahme massgebend.
 
