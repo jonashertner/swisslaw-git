@@ -3,11 +3,11 @@ sr: "0.641.751.411"
 title: Accord du 29 janvier 2010 relatif au Traité entre la Confédération suisse et la Principauté de Liechtenstein concernant les taxes environnementales dans la Principauté de Liechtenstein (avec appendices)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/83"
 language: fr
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2010-01-29
 in_force: 2011-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-83-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/83/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-83-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/83/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Conclu le 29 janvier 2010
 
 Appliqué à titre provisoire à partir du 1<sup>er</sup> février 2010 Entré en vigueur le 14 avril 2011[^t-1]
 
-(Etat le 1<sup>er</sup> janvier 2020)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: [RO 2011 1597](https://fedlex.data.admin.ch/eli/oc/2011/237)
 
@@ -58,7 +58,7 @@ sont convenus des dispositions suivantes:
 
 \1) Les autorités fédérales chargées d’appliquer la législation fédérale mentionnée dans les Appendices l’appliquent sur le territoire du Liechtenstein au nom et sur mandat de celui-ci. L’al. 2 reste réservé. À cet effet, elles appliquent la législation matérielle liechtensteinoise, mais le droit de procédure suisse. Les moyens de droit sont déterminés par la législation fédérale.
 
-\2) Les autorités compétentes liechtensteinoises appliquent la législation par analogie avec les compétences des autorités des cantons suisses; pour le domaine de la taxe sur le CO<sub>2</sub> et pour le domaine de la sanction liée à la réduction des émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers, elles appliquent les dispositions concernant la répartition et l’utilisation des recettes. [^2-1]
+\2) Les autorités compétentes liechtensteinoises appliquent la législation par analogie avec les compétences des autorités des cantons suisses; pour le domaine de la taxe sur le CO<sub>2</sub> et pour le domaine de la sanction liée à la réduction des émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers, elles appliquent les dispositions concernant la répartition et l’utilisation des recettes.[^2-1]
 
 \3) Les infractions à la législation liechtensteinoise édictée en vertu du présent Accord sont poursuivies et jugées par les autorités compétentes de la Confédération suisse et de la Principauté selon la législation liechtensteinoise en la matière. Celles-ci appliquent alors le droit de procédure suisse ou liechtensteinois déterminant. Les moyens de droit sont chaque fois ceux du droit respectif.
 
@@ -94,9 +94,10 @@ Les autorités de la Principauté sont indemnisées, par analogie avec les canto
 
 \2) Chacun des États contractants reçoit annuellement de la caisse commune la part de recettes nettes découlant de la perception des taxes environnementales incitatives; cette part correspond au rapport entre le nombre d’habitants de chaque État et le nombre total des habitants des deux États après les derniers recensements respectifs.
 
-\3) Est réputé recette nette le solde restant après déduction des remboursements et des frais d’exploitation annuels de l’Administration fédérale des douanes et des autres autorités d’exécution.
+\3) Est réputé recette nette le solde restant après déduction des remboursements et des frais d’exploitation annuels de l’Administration fédérale des douanes[^5-2] et des autres autorités d’exécution.
 
 [^5-1]: Nouvelle teneur selon l’art. 1 de l’Ac. du 11 juil. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 4031](https://fedlex.data.admin.ch/eli/oc/2013/737)).
+[^5-2]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Chapitre III Dispositions particulières concernant les taxes pour la réduction des émissions de CO<sub>2</sub>****
 
@@ -108,7 +109,7 @@ Les autorités de la Principauté sont indemnisées, par analogie avec les canto
 
 **Répartition des recettes encaissées en application de la sanction imposée pour limiter les émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers[^5a-2]**[^5a-1]
 
-\1) Les recettes dues dans les territoires nationaux des deux États contractants en application de la sanction imposée pour limiter les émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers sont versées dans une caisse commune créée par la Confédération suisse. [^5a-3]
+\1) Les recettes dues dans les territoires nationaux des deux États contractants en application de la sanction imposée pour limiter les émissions de CO<sub>2</sub> des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers sont versées dans une caisse commune créée par la Confédération suisse.[^5a-3]
 
 \2) La Principauté de Liechtenstein reçoit annuellement de la caisse commune la part résultant de la formule de calcul mentionnée à l’Appendice IV au présent Accord. Les corrections éventuelles qui devraient être apportées sur la base des décomptes finaux qui ne seraient disponibles qu’après la clôture des comptes de l’année de prélèvement seront comptabilisées avec la part de l’année suivante.
 
@@ -183,9 +184,10 @@ Les entreprises liechtensteinoises qui ont pris un engagement de réduction des 
 
 **Exploitants d’installations au sens de la loi liechtensteinoise sur les échanges de droits d’émission**[^8-1]
 
-Les entreprises liechtensteinoises dont les activités relèvent du champ d’application de la loi liechtensteinoise sur les échanges de droits d’émission *(Emissionshandel**s**gesetz)* ne peuvent pas s’engager vis-à-vis des autorités fédérales suisses compétentes à réduire leurs émissions de gaz à effet de serre. Les taxes déjà perçues leur sont remboursées par l’Administration fédérale des douanes moyennant présentation de preuves et d’une attestation de l’autorité liechtensteinoise compétente confirmant que leurs activités sont soumises à l’obligation d’autorisation conformément à la loi sur les échanges de droits d’émission.
+Les entreprises liechtensteinoises dont les activités relèvent du champ d’application de la loi liechtensteinoise sur les échanges de droits d’émission *(Emissionshandel**s**gesetz)* ne peuvent pas s’engager vis-à-vis des autorités fédérales suisses compétentes à réduire leurs émissions de gaz à effet de serre. Les taxes déjà perçues leur sont remboursées par l’Administration fédérale des douanes[^8-2] moyennant présentation de preuves et d’une attestation de l’autorité liechtensteinoise compétente confirmant que leurs activités sont soumises à l’obligation d’autorisation conformément à la loi sur les échanges de droits d’émission.
 
 [^8-1]: Nouvelle teneur selon l’art. 1 de l’Ac. du 11 juil. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 4031](https://fedlex.data.admin.ch/eli/oc/2013/737)).
+[^8-2]: Actuellement : Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8a
 
@@ -291,11 +293,11 @@ Appendice III*[^t-4]*
 
 La part de la caisse commune à laquelle le Liechtenstein a droit en vertu de l’art. 6, al. 1 de l’Accord résulte de la formule:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/fr/xml/image/image1.png)
 
 VK<sub>CH i</sub> résultant lui-même de la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/fr/xml/image/image2.png)
 
 ## Explication des abréviations
 
@@ -324,11 +326,11 @@ XG<sub>FL</sub> et XD<sub>FL</sub> résultant eux-mêmes des formules suivantes:
 
 Grands importateurs
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/fr/xml/image/image3.png)
 
 Petits importateurs
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/fr/xml/image/image4.png)
 
 ## Explication des abréviations
 

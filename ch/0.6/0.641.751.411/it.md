@@ -3,11 +3,11 @@ sr: "0.641.751.411"
 title: Accordo del 29 gennaio 2010 relativo al Trattato tra la Confederazione Svizzera e il Principato del Liechtenstein concernente le tasse ecologiche nel Principato del Liechtenstein (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/83"
 language: it
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2010-01-29
 in_force: 2011-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2010-83-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/83/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2010-83-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/83/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2010** 573
 
 Traduzione
 
-Concluso il 29 gennaio 2010
+Concluso il 29 gennaio 2010 Applicato a titolo provvisorio dal 1° febbraio 2010 In vigore dal 14 aprile 2011[^t-1]
 
-Applicato a titolo provvisorio dal 1° febbraio 2010
-
-In vigore dal 14 aprile 2011[^t-1]
-
-(Stato 1° gennaio 2020)
+(Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2011 1597](https://fedlex.data.admin.ch/eli/oc/2011/237)
 
@@ -96,9 +92,10 @@ Le autorità del Liechtenstein sono indennizzate come i Cantoni svizzeri per gli
 
 \2) Ciascuno Stato contraente riceve ogni anno dalla cassa comune la quota del provento netto delle tasse ecologiche di incentivazione che corrisponde al rapporto tra il suo numero di abitanti e il numero totale di abitanti dei due Stati secondo gli ultimi censimenti della popolazione.
 
-\3) È considerato provento netto il provento da cui sono stati dedotti i rimborsi e i costi di esecuzione dell’Amministrazione delle dogane e delle altre autorità esecutive.
+\3) È considerato provento netto il provento da cui sono stati dedotti i rimborsi e i costi di esecuzione dell’Amministrazione delle dogane[^5-2] e delle altre autorità esecutive.
 
 [^5-1]: Nuovo testo giusta l’art. 1 dell’Acc. dell’11 lug. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4031](https://fedlex.data.admin.ch/eli/oc/2013/737)).
+[^5-2]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Capitolo III: Disposizioni particolari relative alle tasse destinate a ridurre le emissioni di CO<sub>2</sub>****
 
@@ -185,9 +182,10 @@ Le imprese del Liechtenstein che si sono impegnate a ridurre le emissioni di gas
 
 **Esercenti di impianti secondo la legge del Liechtenstein sullo scambio di quote di emissioni**[^8-1]
 
-Le imprese del Liechtenstein le cui attività rientrano nel campo d’applicazione della legge del Liechtenstein sullo scambio di quote di emissioni *(Emissionshandels**gesetz)* non possono assumere nei confronti delle competenti autorità federali svizzere impegni volti a limitare le loro emissioni di CO<sub>2</sub>. Se queste imprese forniscono le prove necessarie e presentano un attestato delle competenti autorità del Liechtenstein a conferma del fatto che le loro attività sono soggette all’obbligo di autorizzazione secondo la legge del Liechtenstein sullo scambio di quote di emissioni, l’Amministrazione federale delle dogane rimborsa loro le tasse che hanno già versato.
+Le imprese del Liechtenstein le cui attività rientrano nel campo d’applicazione della legge del Liechtenstein sullo scambio di quote di emissioni *(Emissionshandels**gesetz)* non possono assumere nei confronti delle competenti autorità federali svizzere impegni volti a limitare le loro emissioni di CO<sub>2</sub>. Se queste imprese forniscono le prove necessarie e presentano un attestato delle competenti autorità del Liechtenstein a conferma del fatto che le loro attività sono soggette all’obbligo di autorizzazione secondo la legge del Liechtenstein sullo scambio di quote di emissioni, l’Amministrazione federale delle dogane[^8-2] rimborsa loro le tasse che hanno già versato.
 
 [^8-1]: Nuovo testo giusta l’art. 1 dell’Acc. dell’11 lug. 2013, in vigore dal 1° dic. 2013 ([RU 2013 4031](https://fedlex.data.admin.ch/eli/oc/2013/737)).
+[^8-2]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8a
 
@@ -293,11 +291,11 @@ Allegato III*[^t-4]*
 
 La quota spettante al Liechtenstein della cassa comune istituita conformemente all’articolo 6 capoverso 1 del presente Accordo è calcolata applicando la formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/it/xml/image/image1.png)
 
 VK<sub>CH i</sub> è calcolata applicando la formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/it/xml/image/image2.png)
 
 ## Spiegazione delle abbreviazioni
 
@@ -326,11 +324,11 @@ XG<sub>FL</sub> e XD<sub>FL</sub> sono calcolati applicando le formule:
 
 Grandi importatori
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/it/xml/image/image3.png)
 
 Piccoli importatori
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/it/xml/image/image4.png)
 
 [^annexIII-lvlu1-1]: Introdotto dall’art. 2 dell’Acc. del 27 giu. 2012 ([RU 2012 4101](https://fedlex.data.admin.ch/eli/oc/2012/478)). Nuovo testo giusta l’art. 2 dell’Acc. del 27 gen. 2020, in vigore dal 1° gen. 2020([RU 2020 489](https://fedlex.data.admin.ch/eli/oc/2020/87)).
 

@@ -3,11 +3,11 @@ sr: "0.641.751.411"
 title: Vereinbarung vom 29. Januar 2010 zum Vertrag zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein betreffend die Umweltabgaben im Fürstentum Liechtenstein (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/83"
 language: de
-version: 2020-01-01
+version: 2022-01-01
 adopted: 2010-01-29
 in_force: 2011-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2010-83-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/83/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-83-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/83/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Provisorisch angewendet ab 1. Februar 2010
 
 In Kraft getreten am 14. April 2011[^t-1]
 
-(Stand am 1. Januar 2020)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 2011 1597](https://fedlex.data.admin.ch/eli/oc/2011/237)
 
@@ -96,9 +96,10 @@ Die liechtensteinischen Behörden werden für ihren Aufwand beim Vollzug der Ges
 
 \2) Jeder der beiden Vertragsstaaten erhält aus dem Pool jährlich den Anteil am Nettoertrag aus den Umweltlenkungsabgaben, der dem Verhältnis der Einwohnerzahl des jeweiligen Staates zur Gesamtzahl der Einwohner beider Staaten nach der jeweils letzten Volkszählung entspricht.
 
-\3) Als Nettoertrag gilt der Ertrag nach Abzug der Rückerstattungen und der Vollzugskosten der Eidgenössischen Zollverwaltung und der anderen Vollzugsbehörden.
+\3) Als Nettoertrag gilt der Ertrag nach Abzug der Rückerstattungen und der Vollzugskosten der Eidgenössischen Zollverwaltung[^5-2] und der anderen Vollzugsbehörden.
 
 [^5-1]: Fassung gemäss Art. 1 der Vereinb. vom 11. Juli 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 4031](https://fedlex.data.admin.ch/eli/oc/2013/737)).
+[^5-2]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ## Kapitel III: Besondere Bestimmungen zu den Abgaben zur Reduktion der CO<sub>2</sub>-Emissionen****
 
@@ -185,9 +186,10 @@ Liechtensteinische Unternehmen, die eine Verpflichtung zur Verminderung von Trei
 
 **Betreiber von Anlagen nach dem liechtensteinischen Emissionshandelsgesetz**[^8-1]
 
-Liechtensteinische Unternehmen, deren Tätigkeiten in den Anwendungsbereich des liechtensteinischen Emissionshandelsgesetzes fallen, können sich gegenüber den zuständigen schweizerischen Bundesbehörden nicht zur Verminderung der Treibhausgasemissionen verpflichten. Sie erhalten gegen Nachweis und mit einer Bestätigung der zuständigen liechtensteinischen Behörde über die Genehmigungspflicht der Tätigkeiten nach dem Emissionshandelsgesetz die bereits entrichteten Abgaben von der Eidgenössischen Zollverwaltung zurückerstattet.
+Liechtensteinische Unternehmen, deren Tätigkeiten in den Anwendungsbereich des liechtensteinischen Emissionshandelsgesetzes fallen, können sich gegenüber den zuständigen schweizerischen Bundesbehörden nicht zur Verminderung der Treibhausgasemissionen verpflichten. Sie erhalten gegen Nachweis und mit einer Bestätigung der zuständigen liechtensteinischen Behörde über die Genehmigungspflicht der Tätigkeiten nach dem Emissionshandelsgesetz die bereits entrichteten Abgaben von der Eidgenössischen Zollverwaltung[^8-2] zurückerstattet.
 
 [^8-1]: Fassung gemäss Art. 1 der Vereinb. vom 11. Juli 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 4031](https://fedlex.data.admin.ch/eli/oc/2013/737)).
+[^8-2]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8a
 
@@ -293,11 +295,11 @@ Anlage III*[^t-4]*
 
 Der Anteil, welcher Liechtenstein aus dem Pool nach Art. 6 Absatz 1 der Vereinbarung zusteht, ergibt sich aus der Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/de/xml/image/image1.png)
 
 wobei sich VK<sub>CH i</sub> aus folgender Formel ergibt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/de/xml/image/image2.png)
 
 ## Erläuterung der Abkürzungen
 
@@ -329,11 +331,11 @@ wobei sich XG<sub>FL</sub> und XD<sub>FL</sub> aus den folgenden Formeln ergeben
 
 Grossimporteure
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/de/xml/image/image3.png)
 
 Kleinimporteure
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20200101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/83/20220101/de/xml/image/image4.png)
 
 ## Erläuterung der Abkürzungen
 
