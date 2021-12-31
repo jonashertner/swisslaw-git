@@ -4,11 +4,11 @@ title: "Ordinanza del 28 novembre 2014 concernente l'importazione, il transito e
 short: OITEAc
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: it
-version: 2021-02-18
+version: 2022-01-01
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20210218/it/xml/fedlex-data-admin-ch-eli-cc-2014-755-20210218-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20210218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-755-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20210218/it"
 
 (OITEAc)
 
-del 28 novembre 2014 (Stato 18 febbraio 2021)
+del 28 novembre 2014 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -320,7 +320,9 @@ Le disposizioni sull’importazione sono applicabili al transito nei seguenti ca
 
 **Obbligo di esibire documenti**
 
-Al momento dell’importazione e del transito di animali da compagnia per cui è prescritto l’obbligo di portare con sé un passaporto per animali da compagnia, un certificato veterinario o un’autorizzazione, il detentore o la persona autorizzata deve presentare all’Amministrazione delle dogane il passaporto per animali da compagnia, il certificato veterinario o l’autorizzazione.
+Al momento dell’importazione e del transito di animali da compagnia per cui è prescritto l’obbligo di portare con sé un passaporto per animali da compagnia, un certificato veterinario o un’autorizzazione, il detentore o la persona autorizzata deve presentare all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^19-1] passaporto per animali da compagnia, il certificato veterinario o l’autorizzazione.
+
+[^19-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 20
 
@@ -336,19 +338,19 @@ Il passaporto per animali da compagnia o il certificato veterinario devono esser
 
 **Controllo del numero massimo in caso di importazione e di transito**
 
-In caso di importazione e di transito di animali da compagnia, l’Amministrazione delle dogane controlla il numero massimo di animali portati con sé.
+In caso di importazione e di transito di animali da compagnia, l’UDSC controlla il numero massimo di animali portati con sé.
 
 #### Art. 22
 
 **Enclavi doganali svizzere**
 
-In caso di importazione e di transito nelle enclavi doganali svizzere, non è eseguito alcun controllo da parte dell’Amministrazione delle dogane.
+In caso di importazione e di transito nelle enclavi doganali svizzere, non è eseguito alcun controllo da parte dell’UDSC
 
 #### Art. 23
 
 **Ricorso al servizio veterinario di confine**
 
-L’Amministrazione delle dogane può fare ricorso al servizio veterinario di confine per eseguire i controlli sugli animali da compagnia che vengono importati nel traffico aereo diretto proveniente da Paesi terzi.
+L’UDSC può fare ricorso al servizio veterinario di confine per eseguire i controlli sugli animali da compagnia che vengono importati nel traffico aereo diretto proveniente da Paesi terzi.
 
 #### Art. 23a
 
@@ -356,7 +358,7 @@ L’Amministrazione delle dogane può fare ricorso al servizio veterinario di co
 
 In caso di sospetta infrazione alla legislazione sulle epizoozie o sulla protezione degli animali, le società di trasporto che trasportano animali da compagnia sono tenute a comunicare su richiesta alle autorità d’esecuzione i dati relativi al detentore o alla persona autorizzata.
 
-[^23a-1]: Introdotto dal n. II 4 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^23a-1]: Introdotto dall’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 ### Sezione 2: Disposizioni supplementari per i controlli al momento dell’importazione e del transito di cani, gatti e furetti
 
@@ -364,13 +366,13 @@ In caso di sospetta infrazione alla legislazione sulle epizoozie o sulla protezi
 
 **Controllo del rispetto delle disposizioni per l’importazione e il transito**
 
-In caso di importazione di cani, gatti e furetti, l’Amministrazione delle dogane controlla il rispetto delle disposizioni per l’importazione, in caso di transito controlla il rispetto delle disposizioni per il transito.
+In caso di importazione di cani, gatti e furetti, l’UDSC controlla il rispetto delle disposizioni per l’importazione, in caso di transito controlla il rispetto delle disposizioni per il transito.
 
 #### Art. 25
 
 **Annotazione del controllo**
 
-In caso di importazione o di transito di cani, gatti e furetti provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettere b e c, l’Amministrazione delle dogane annota il controllo nel passaporto per animali da compagnia o nel certificato veterinario.
+In caso di importazione o di transito di cani, gatti e furetti provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettere b e c, l’UDSC annota il controllo nel passaporto per animali da compagnia o nel certificato veterinario.
 
 #### Art. 26
 
@@ -378,12 +380,12 @@ In caso di importazione o di transito di cani, gatti e furetti provenienti da St
 
 <sup>1</sup>
 
-Per cani, gatti e furetti importati da Paesi terzi per via aerea diretta, l’Amministrazione delle dogane rileva regolarmente:
+Per cani, gatti e furetti importati da Paesi terzi per via aerea diretta, l’UDSC rileva regolarmente:
 
 - a. il numero dei controlli eseguiti;
 - b. il numero di animali contestati.
 
-<sup>2</sup> L’Amministrazione delle dogane trasmette le cifre rilevate all’USAV.
+<sup>2</sup> L’UDSC trasmette le cifre rilevate all’USAV.
 
 ### Sezione 3: Disposizioni supplementari relative ai controlli in caso di importazione e di transito di uccelli
 
@@ -400,9 +402,9 @@ Per gli uccelli provenienti da Paesi terzi, il servizio veterinario di confine e
 
 #### Art. 28
 
-**Misure da parte dell’Amministrazione delle dogane**
+**Misure da parte dell’UDSC**
 
-Se constata che le condizioni per l’importazione o il transito di animali da compagnia non sono soddisfatte, l’Amministrazione delle dogane lo comunica all’autorità veterinaria del Cantone in cui è avvenuto il controllo. Nel caso di animali da compagnia provenienti da Paesi terzi importati o fatti transitare attraverso un aeroporto nazionale, lo comunica al servizio veterinario di confine.
+Se constata che le condizioni per l’importazione o il transito di animali da compagnia non sono soddisfatte, l’UDSC lo comunica all’autorità veterinaria del Cantone in cui è avvenuto il controllo. Nel caso di animali da compagnia provenienti da Paesi terzi importati o fatti transitare attraverso un aeroporto nazionale, lo comunica al servizio veterinario di confine.
 
 #### Art. 29
 
@@ -410,7 +412,7 @@ Se constata che le condizioni per l’importazione o il transito di animali da c
 
 <sup>1</sup> Se le condizioni per l’importazione o il transito di animali da compagnia non sono soddisfatte, l’autorità veterinaria cantonale competente adotta le misure necessarie a garantire la protezione della salute umana e degli animali. Fanno eccezione gli animali da compagnia provenienti da Paesi terzi che vengono importati o fatti transitare attraverso un aeroporto nazionale; a questi si applica l’articolo 30.
 
-<sup>2</sup> Se gli animali importati o fatti transitare illegalmente vengono scoperti in Svizzera e notificati da parte di privati o di organi diversi dall’Amministrazione delle dogane, l’autorità veterinaria cantonale competente adotta le misure necessarie a garantire la protezione della salute umana e degli animali e avverte l’Amministrazione delle dogane.
+<sup>2</sup> Se gli animali importati o fatti transitare illegalmente vengono scoperti in Svizzera e notificati da parte di privati o di organi diversi dall’UDSC, l’autorità veterinaria cantonale competente adotta le misure necessarie a garantire la protezione della salute umana e degli animali e avverte l’UDSC.
 
 <sup>3</sup> L’autorità può ordinare in particolare il respingimento, il sequestro o l’abbattimento degli animali.
 
@@ -435,9 +437,9 @@ Il veterinario ufficiale del Cantone o del servizio veterinario di confine notif
 - a. l’identità e la provenienza degli animali;
 - b. la tutela della salute umana e degli animali.
 
-<sup>2</sup> In caso di importazione e di transito illegali, la competente autorità cantonale di perseguimento penale o l’USAV promuove un perseguimento penale. Qualora siano simultaneamente commesse infrazioni alle disposizioni doganali, l’Amministrazione delle dogane promuove un perseguimento penale.
+<sup>2</sup> In caso di importazione e di transito illegali, la competente autorità cantonale di perseguimento penale o l’USAV promuove un perseguimento penale. Qualora siano simultaneamente commesse infrazioni alle disposizioni doganali, l’UDSC promuove un perseguimento penale.
 
-<sup>3</sup> L’Amministrazione delle dogane notifica ed esegue, su richiesta dell’USAV o dell’autorità cantonale competente, i decreti penali e le decisioni penali per infrazioni che sono state oggetto di un’inchiesta da parte della stessa.
+<sup>3</sup> L’UDSC notifica ed esegue, su richiesta dell’USAV o dell’autorità cantonale competente, i decreti penali e le decisioni penali per infrazioni che sono state oggetto di un’inchiesta da parte dello stesso.
 
 ## Capitolo 7: Tasse e assunzione dei costi
 
@@ -714,9 +716,9 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-### …
+### …F
 
 [^annex6-lvlu1-lvlu1-1]
 
-[^annex6-lvlu1-1]: [[RU 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362), [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595), [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338), [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454)[3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 3, [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 4 [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]
+[^annex6-lvlu1-1]: [[RU 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362); [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595); [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338); [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454), [3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 3; [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 4, [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]
 [^annex6-lvlu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755).

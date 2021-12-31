@@ -4,11 +4,11 @@ title: "Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-Ht
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: de
-version: 2021-02-18
+version: 2022-01-01
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20210218/de/xml/fedlex-data-admin-ch-eli-cc-2014-755-20210218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20210218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-755-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20210218/de"
 
 (EDAV-Ht)
 
-vom 28. November 2014 (Stand am 18. Februar 2021)
+vom 28. November 2014 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -320,7 +320,9 @@ In den folgenden Fällen gelten für die Durchfuhr die Bestimmungen für die Ein
 
 **Vorweispflicht**
 
-Bei der Ein- und Durchfuhr von Heimtieren, für die das Mitführen eines Heimtierpasses, einer Veterinärbescheinigung oder einer Bewilligung vorgeschrieben ist, hat die Halterin, der Halter oder die ermächtigte Person der Zollverwaltung den Heimtierpass, die Veterinärbescheinigung oder die Bewilligung vorzuweisen.
+Bei der Ein- und Durchfuhr von Heimtieren, für die das Mitführen eines Heimtierpasses, einer Veterinärbescheinigung oder einer Bewilligung vorgeschrieben ist, hat die Halterin, der Halter oder die ermächtigte Person dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^19-1] den Heimtierpass, die Veterinärbescheinigung oder die Bewilligung vorzuweisen.
+
+[^19-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 20
 
@@ -336,19 +338,19 @@ Der Heimtierpass oder die Veterinärbescheinigung müssen in einer Amtssprache o
 
 **Kontrolle der Höchstzahl bei der Ein- und Durchfuhr**
 
-Bei der Ein- und Durchfuhr von Heimtieren kontrolliert die Zollverwaltung die Höchstzahl der mitgeführten Tiere.
+Bei der Ein- und Durchfuhr von Heimtieren kontrolliert das BAZG die Höchstzahl der mitgeführten Tiere.
 
 #### Art. 22
 
 **Zollausschlussgebiete**
 
-Bei der Einfuhr in und bei der Durchfuhr durch die Zollausschlussgebiete finden keine Kontrollen durch die Zollverwaltung statt.
+Bei der Einfuhr in und bei der Durchfuhr durch die Zollausschlussgebiete finden keine Kontrollen durch das BAZG statt.
 
 #### Art. 23
 
 **Beizug des grenztierärztlichen Dienstes**
 
-Die Zollverwaltung kann bei der Durchführung der Kontrollen bei Heimtieren, die im direkten Luftverkehr aus Drittstaaten eingeführt werden, den grenztierärztlichen Dienst beiziehen.
+Das BAZG kann bei der Durchführung der Kontrollen bei Heimtieren, die im direkten Luftverkehr aus Drittstaaten eingeführt werden, den grenztierärztlichen Dienst beiziehen.
 
 #### Art. 23a
 
@@ -364,13 +366,13 @@ Transportgesellschaften, die Heimtiere transportieren, müssen den Vollzugsbehö
 
 **Kontrolle der Einhaltung der Ein- und Durchfuhrbestimmungen**
 
-Bei der Einfuhr von Hunden, Katzen und Frettchen kontrolliert die Zollverwaltung die Einhaltung der Einfuhrbestimmungen, bei der Durchfuhr die Einhaltung der Durchfuhrbestimmungen.
+Bei der Einfuhr von Hunden, Katzen und Frettchen kontrolliert das BAZG die Einhaltung der Einfuhrbestimmungen, bei der Durchfuhr die Einhaltung der Durchfuhrbestimmungen.
 
 #### Art. 25
 
 **Vermerk der Kontrolle**
 
-Bei Hunden, Katzen und Frettchen, die aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstaben b und c ein- oder durchgeführt werden, vermerkt die Zollverwaltung die Kontrolle im Heimtierpass oder in der Veterinärbescheinigung.
+Bei Hunden, Katzen und Frettchen, die aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstaben b und c ein- oder durchgeführt werden, vermerkt das BAZG die Kontrolle im Heimtierpass oder in der Veterinärbescheinigung.
 
 #### Art. 26
 
@@ -378,12 +380,12 @@ Bei Hunden, Katzen und Frettchen, die aus Staaten und Territorien nach Artikel 6
 
 <sup>1</sup>
 
-Bei Hunden, Katzen und Frettchen, die im direkten Luftverkehr aus Drittstaaten eingeführt werden, erhebt die Zollverwaltung regelmässig:
+Bei Hunden, Katzen und Frettchen, die im direkten Luftverkehr aus Drittstaaten eingeführt werden, erhebt das BAZG regelmässig:
 
 - a. die Anzahl der durchgeführten Kontrollen;
 - b. die Anzahl der beanstandeten Tiere.
 
-<sup>2</sup> Die Zollverwaltung übermittelt die erhobenen Zahlen dem BLV.
+<sup>2</sup> Das BAZG übermittelt die erhobenen Zahlen dem BLV.
 
 ### 3. Abschnitt: Zusätzliche Bestimmungen für Kontrollen bei der Ein- und Durchfuhr von Vögeln
 
@@ -400,9 +402,9 @@ Für Vögel aus Drittstaaten ist vom grenztierärztlichen Dienst eine vollständ
 
 #### Art. 28
 
-**Massnahmen der Zollverwaltung**
+**Massnahmen des BAZG**
 
-Stellt die Zollverwaltung Heimtiere fest, bei denen die Voraussetzungen für die Ein‑ oder Durchfuhr nicht erfüllt sind, so meldet sie dies der Veterinärbehörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte. Bei Heimtieren aus Drittstaaten, die über einen Landesflughafen ein- oder durchgeführt werden, meldet sie dies dem grenztierärztlichen Dienst.
+Stellt das BAZG Heimtiere fest, bei denen die Voraussetzungen für die Ein‑ oder Durchfuhr nicht erfüllt sind, so meldet es dies der Veterinärbehörde des Kantons, auf dessen Gebiet die Kontrolle erfolgte. Bei Heimtieren aus Drittstaaten, die über einen Landesflughafen ein- oder durchgeführt werden, meldet es dies dem grenztierärztlichen Dienst.
 
 #### Art. 29
 
@@ -410,7 +412,7 @@ Stellt die Zollverwaltung Heimtiere fest, bei denen die Voraussetzungen für die
 
 <sup>1</sup> Sind bei Heimtieren die Voraussetzungen für die Ein- oder Durchfuhr nicht erfüllt, so trifft die zuständige kantonale Veterinärbehörde die zum Schutz der Gesundheit von Mensch und Tier erforderlichen Massnahmen. Ausgenommen sind Heimtiere aus Drittstaaten, die über einen Landesflughafen ein- oder durchgeführt werden; für sie gilt Artikel 30.
 
-<sup>2</sup> Werden widerrechtlich ein- oder durchgeführte Tiere im Inland durch Private oder andere Organe als die Zollverwaltung entdeckt und gemeldet, so trifft die zuständige kantonale Veterinärbehörde die zum Schutz der Gesundheit von Mensch und Tier erforderlichen Massnahmen und benachrichtigt die Zollverwaltung.
+<sup>2</sup> Werden widerrechtlich ein- oder durchgeführte Tiere im Inland durch Private oder andere Organe als das BAZG entdeckt und gemeldet, so trifft die zuständige kantonale Veterinärbehörde die zum Schutz der Gesundheit von Mensch und Tier erforderlichen Massnahmen und benachrichtigt das BAZG.
 
 <sup>3</sup> Die Behörde kann insbesondere die Rückweisung, Beschlagnahmung oder Tötung der Tiere anordnen.
 
@@ -435,9 +437,9 @@ Die amtliche Tierärztin oder der amtliche Tierarzt des Kantons oder des grenzti
 - a. die Identität und die Herkunft von Tieren;
 - b. den Schutz der Gesundheit von Mensch und Tier.
 
-<sup>2</sup> Bei der widerrechtlichen Ein- oder Durchfuhr leitet die zuständige kantonale Strafverfolgungsbehörde oder das BLV eine Strafverfolgung ein. Liegt gleichzeitig eine Widerhandlung gegen die Zollvorschriften vor, so leitet die Zollverwaltung eine Strafverfolgung ein.
+<sup>2</sup> Bei der widerrechtlichen Ein- oder Durchfuhr leitet die zuständige kantonale Strafverfolgungsbehörde oder das BLV eine Strafverfolgung ein. Liegt gleichzeitig eine Widerhandlung gegen die Zollvorschriften vor, so leitet das BAZG eine Strafverfolgung ein.
 
-<sup>3</sup> Die Zollverwaltung eröffnet und vollstreckt auf Ersuchen des BLV oder der zuständigen kantonalen Behörden die Strafbescheide und -verfügungen wegen Widerhandlungen, die von der Zollverwaltung untersucht wurden.
+<sup>3</sup> Das BAZG eröffnet und vollstreckt auf Ersuchen des BLV oder der zuständigen kantonalen Behörden die Strafbescheide und -verfügungen wegen Widerhandlungen, die vom BAZG untersucht wurden.
 
 ## 7. Kapitel: Gebühren und Übernahme von Kosten
 
@@ -716,7 +718,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex6-lvlu1-2]
+…[^annex6-lvlu1-2]
 
-[^annex6-lvlu1-1]: [[AS 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362), [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595), [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338), [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454)[3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 3, [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 4 [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]
+[^annex6-lvlu1-1]: [[AS 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362); [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595); [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338); [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454), [3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 3; [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 4, [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]
 [^annex6-lvlu1-2]: Die Änderungen können unter [AS 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Ordonnance du 28 novembre 2014 concernant l'importation, le transit et l
 short: OITE-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: fr
-version: 2021-02-18
+version: 2022-01-01
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20210218/fr/xml/fedlex-data-admin-ch-eli-cc-2014-755-20210218-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20210218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-755-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -320,7 +320,9 @@ Les dispositions sur l’importation sont applicables au transit dans les cas su
 
 **Obligation de présenter le passeport pour animal de compagnie, le certificat vétérinaire ou l’autorisation**
 
-Lors de l’importation ou du transit d’animaux de compagnie pour lesquels un passeport pour animal de compagnie, un certificat vétérinaire ou une autorisation est nécessaire, le détenteur ou la personne autorisée doit présenter à l’administration des douanes le passeport pour animal de compagnie, le certificat vétérinaire ou l’autorisation.
+Lors de l’importation ou du transit d’animaux de compagnie pour lesquels un passeport pour animal de compagnie, un certificat vétérinaire ou une autorisation est nécessaire, le détenteur ou la personne autorisée doit présenter à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^19-1] le passeport pour animal de compagnie, le certificat vétérinaire ou l’autorisation.
+
+[^19-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 20
 
@@ -336,19 +338,19 @@ Le passeport pour animal de compagnie ou le certificat vétérinaire doit avoir 
 
 **Contrôle du nombre d’animaux lors de l’importation et lors du transit**
 
-Lorsque les animaux de compagnie sont importés ou transitent, l’administration des douanes contrôle que le nombre d’animaux pris avec soi n’excède pas le nombre maximal autorisé.
+Lorsque les animaux de compagnie sont importés ou transitent, l’OFDF contrôle que le nombre d’animaux pris avec soi n’excède pas le nombre maximal autorisé.
 
 #### Art. 22
 
 **Enclaves douanières suisses**
 
-Lorsque des animaux de compagnie sont importés dans des enclaves douanières suisses ou transitent par celles-ci, l’administration des douanes n’effectue pas de contrôles.
+Lorsque des animaux de compagnie sont importés dans des enclaves douanières suisses ou transitent par celles-ci, l’OFDF n’effectue pas de contrôles.
 
 #### Art. 23
 
 **Recours au Service vétérinaire de frontière**
 
-L’administration des douanes peut associer le Service vétérinaire de frontière aux contrôles des animaux de compagnie importés par voie aérienne directe en provenance de pays tiers.
+L’OFDF peut associer le Service vétérinaire de frontière aux contrôles des animaux de compagnie importés par voie aérienne directe en provenance de pays tiers.
 
 #### Art. 23a
 
@@ -364,13 +366,13 @@ En cas de soupçon d’infractions aux législations sur les épizooties et sur 
 
 **Contrôle du respect des dispositions sur l’importation et le transit**
 
-L’administration des douanes contrôle le respect des dispositions sur l’importation, lorsque les chiens, les chats et les furets sont importés, et le respect des dispositions sur le transit, lorsqu’ils transitent.
+L’OFDF contrôle le respect des dispositions sur l’importation, lorsque les chiens, les chats et les furets sont importés, et le respect des dispositions sur le transit, lorsqu’ils transitent.
 
 #### Art. 25
 
 **Inscription du contrôle**
 
-L’administration des douanes inscrit le contrôle dans le passeport pour animal de compagnie ou le certificat vétérinaire, lorsque les chiens, les chats et les furets sont importés ou transitent en provenance d’États et territoires selon l’art. 6, al. 1, let. b et c.
+L’OFDF inscrit le contrôle dans le passeport pour animal de compagnie ou le certificat vétérinaire, lorsque les chiens, les chats et les furets sont importés ou transitent en provenance d’États et territoires selon l’art. 6, al. 1, let. b et c.
 
 #### Art. 26
 
@@ -378,12 +380,12 @@ L’administration des douanes inscrit le contrôle dans le passeport pour anima
 
 <sup>1</sup>
 
-Lorsque les chiens, les chats et les furets sont importés par voie aérienne directe en provenance de pays tiers, l’administration des douanes établit régulièrement un relevé:
+Lorsque les chiens, les chats et les furets sont importés par voie aérienne directe en provenance de pays tiers, l’OFDF établit régulièrement un relevé:
 
 - a. du nombre de contrôles effectués;
 - b. du nombre d’animaux contestés.
 
-<sup>2</sup> Elle transmet ces chiffres à l’OSAV.
+<sup>2</sup> Il transmet ces chiffres à l’OSAV.
 
 ### Section 3 Dispositions supplémentaires relatives aux contrôles lors de l’importation et contrôles lors du transit d’oiseaux
 
@@ -400,9 +402,9 @@ Pour les oiseaux en provenance de pays tiers, le Service vétérinaire de fronti
 
 #### Art. 28
 
-**Mesures à prendre par l’administration des douanes**
+**Mesures à prendre par l’OFDF**
 
-Si l’administration des douanes constate que les conditions d’importation ou de transit applicables aux animaux de compagnie ne sont pas respectées, elle le notifie à l’autorité vétérinaire du canton sur le territoire duquel le contrôle a été effectué. Si les animaux proviennent de pays tiers et sont importés ou transitent par un aéroport national, elle le notifie au Service vétérinaire de frontière.
+Si l’OFDF constate que les conditions d’importation ou de transit applicables aux animaux de compagnie ne sont pas respectées, il le notifie à l’autorité vétérinaire du canton sur le territoire duquel le contrôle a été effectué. Si les animaux proviennent de pays tiers et sont importés ou transitent par un aéroport national, il le notifie au Service vétérinaire de frontière.
 
 #### Art. 29
 
@@ -410,7 +412,7 @@ Si l’administration des douanes constate que les conditions d’importation ou
 
 <sup>1</sup> Si les conditions d’importation ou de transit applicables aux animaux de compagnie ne sont pas remplies, l’autorité vétérinaire cantonale compétente prend les mesures nécessaires pour protéger la santé de l’être humain et des animaux. Font exception les animaux de compagnie en provenance de pays tiers qui sont importés ou qui transitent par un aéroport national; pour ces animaux, l’art. 30 s’applique.
 
-<sup>2</sup> Si les animaux importés illégalement sont découverts et signalés à l’intérieur du pays par des particuliers ou d’autres services que les douanes, l’autorité vétérinaire cantonale compétente prend les mesures nécessaires pour protéger la santé de l’être humain et des animaux et en informe l’administration des douanes.
+<sup>2</sup> Si les animaux importés illégalement sont découverts et signalés à l’intérieur du pays par des particuliers ou d’autres services que les douanes, l’autorité vétérinaire cantonale compétente prend les mesures nécessaires pour protéger la santé de l’être humain et des animaux et en informe l’OFDF.
 
 <sup>3</sup> L’autorité peut notamment ordonner le refoulement, le séquestre ou la mise à mort des animaux.
 
@@ -435,9 +437,9 @@ Le vétérinaire officiel du canton ou du Service vétérinaire de frontière an
 - a. l’identité et la provenance des animaux;
 - b. la protection de la santé de l’être humain et des animaux.
 
-<sup>2</sup> En cas d’importation illégale ou de transit illégal, l’autorité de poursuite pénale cantonale compétente ou l’OSAV ouvre une poursuite pénale. S’il y a de plus infraction à la législation douanière, l’administration des douanes ouvre une poursuite pénale.
+<sup>2</sup> En cas d’importation illégale ou de transit illégal, l’autorité de poursuite pénale cantonale compétente ou l’OSAV ouvre une poursuite pénale. S’il y a de plus infraction à la législation douanière, l’OFDF ouvre une poursuite pénale.
 
-<sup>3</sup> L’administration des douanes notifie et exécute, à la demande de l’OSAV ou des autorités cantonales compétentes, les mandats de répression et les prononcés pénaux pour les infractions ayant fait l’objet d’une enquête par l’administration des douanes.
+<sup>3</sup> L’OFDF notifie et exécute, à la demande de l’OSAV ou des autorités cantonales compétentes, les mandats de répression et les prononcés pénaux pour les infractions ayant fait l’objet d’une enquête par l’OFDF.
 
 ## Chapitre 7 Émoluments et prise en charge des coûts
 
