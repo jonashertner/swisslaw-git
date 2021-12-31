@@ -4,11 +4,11 @@ title: Loi fédérale du 3 octobre 2008 sur les systèmes d’information de l�
 short: LSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: fr
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20170901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20170901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20170901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20170901/fr"
 
 (LSIA)[^t-1]
 
-du 3 octobre 2008 (Etat le 1<sup>er</sup> septembre 2017)
+du 3 octobre 2008 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -60,7 +60,7 @@ La présente loi règle le traitement des données sensibles et des profils de l
 Les services et personnes visés à l’art. 1, al. 1, peuvent, pour accomplir leurs tâches légales ou contractuelles:
 
 - a. traiter des données, et en particulier les rendre accessibles en ligne, dans la mesure où la présente loi ou une autre loi fédérale le prévoit expressément;
-- b. utiliser le numéro d’assuré de l’assurance vieillesse et survivants (numéro d’assuré AVS) prévu dans la loi fédérale du 20 décembre 1946 sur l’assurance vieillesse et survivants[^2-1];
+- b. utiliser le numéro AVS[^2-1] prévu dans la loi fédérale du 20 décembre 1946 sur l’assurance vieillesse et survivants[^2-2];
 - c. communiquer sous forme électronique les données, pour autant qu’un niveau de protection adéquat contre tout traitement non autorisé soit assuré.
 
 <sup>2</sup> Les services et personnes auprès desquels les données peuvent être collectées sont tenus de les communiquer gratuitement.
@@ -71,7 +71,8 @@ Les services et personnes visés à l’art. 1, al. 1, peuvent, pour accomplir l
 
 <sup>5</sup> Les images qui montrent des personnes en service militaire clairement identifiables ne peuvent être publiées qu’avec leur consentement écrit.
 
-[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-1]: Nouvelle expression selon l’annexe ch. 14 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 2a
 
@@ -334,22 +335,22 @@ Le Groupement Défense ainsi que les services fédéraux et cantonaux chargés d
   - 2\.[^16-12] une infraction soumise à la juridiction civile a été commise durant le service militaire ou le service de protection civile;
 
 - b.[^16-13] …
-- c. l’Administration fédérale des douanes, lorsque ces données sont nécessaires à l’engagement de militaires dans des missions de soutien;
+- c.[^16-14] l’Office fédéral de la douane et de la sécurité des frontières, lorsque ces données sont nécessaires à l’engagement de militaires dans des missions de soutien;
 - d. des tiers, lorsque ces données sont nécessaires à l’accomplissement de leurs tâches légales ou contractuelles.
 
 <sup>3</sup>
 
-Le Groupement Défense communique les données ci-après du SIPA aux services et personnes suivants:[^16-14]
+Le Groupement Défense communique les données ci-après du SIPA aux services et personnes suivants:[^16-15]
 
 - a. les associations militaires et les sociétés de tir: l’adresse, le grade et l’incorporation des personnes astreintes au service militaire, pour le recrutement de membres ou la souscription d’abonnements, ainsi que pour les activités hors du service;
 - b. les médias: le nom, le grade et l’incorporation en cas de promotion ou de nomination;
-- c.[^16-15] le service fédéral chargé du casier judiciaire: l’identité des personnes visées par la communication prévue à l’art. 367, al. 2<sup>quater</sup>, du code pénal[^16-16];
-- d. le service compétent chargé du marquage des uniformes et du matériel personnel: le nom et le prénom, ainsi que, pour le matériel personnel, le numéro d’assuré AVS;
-- e.[^16-17] l’Office central des armes et les autorités cantonales compétentes: la décision attestant l’existence de motifs qui s’opposent à la remise d’une arme personnelle ou justifient sa reprise préventive ou son retrait.
+- c.[^16-16] le service fédéral chargé du casier judiciaire: l’identité des personnes visées par la communication prévue à l’art. 367, al. 2<sup>quater</sup>, du code pénal[^16-17];
+- d. le service compétent chargé du marquage des uniformes et du matériel personnel: le nom et le prénom, ainsi que, pour le matériel personnel, le numéro AVS;
+- e.[^16-18] l’Office central des armes et les autorités cantonales compétentes: la décision attestant l’existence de motifs qui s’opposent à la remise d’une arme personnelle ou justifient sa reprise préventive ou son retrait.
 
-<sup>3bis</sup> La communication des données visées à l’al. 3, let. e, à la banque de données visée à l’art. 32*a*, al. 1, let. d, de la loi du 20 juin 1997 sur les armes (LArm)[^16-18] est effectuée par le Système d’information pour la gestion intégrée des ressources (PSN).[^16-19]
+<sup>3bis</sup> La communication des données visées à l’al. 3, let. e, à la banque de données visée à l’art. 32*a*, al. 1, let. d, de la loi du 20 juin 1997 sur les armes (LArm)[^16-19] est effectuée par le Système d’information pour la gestion intégrée des ressources (PSN).[^16-20]
 
-<sup>4</sup> Les militaires peuvent faire interdire en tout temps la communication des données visées à l’al. 3, let. a et b, en déposant une déclaration écrite auprès du Groupement Défense.[^16-20]
+<sup>4</sup> Les militaires peuvent faire interdire en tout temps la communication des données visées à l’al. 3, let. a et b, en déposant une déclaration écrite auprès du Groupement Défense.[^16-21]
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -364,13 +365,14 @@ Le Groupement Défense communique les données ci-après du SIPA aux services et
 [^16-11]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-12]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-13]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-14]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-14]: Nouvelle teneur selon le ch. I 12 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-15]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-16]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-17]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-18]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^16-19]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-20]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-16]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-17]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-18]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-19]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-20]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-21]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
 
@@ -973,7 +975,7 @@ Le SIP DEF contient:
 - i. les données destinées au calcul des salaires;
 - j. les données fournies volontairement par la personne concernée.
 
-[^62-1]: Nouvelle teneur selon le ch. 22 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^62-1]: Nouvelle teneur selon le ch. 22 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^62-2]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 63
@@ -1705,7 +1707,7 @@ Le Groupement Défense[^132-1] exploite le Système d’information de la Pharma
 
 Le SI PharmA sert à planifier, réaliser et documenter la formation et la formation continue des collaborateurs de la Pharmacie de l’armée.
 
-[^133-1]: Nouvelle teneur selon le ch. 22 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^133-1]: Nouvelle teneur selon le ch. 22 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 134
 
@@ -1713,11 +1715,11 @@ Le SI PharmA sert à planifier, réaliser et documenter la formation et la forma
 
 Le SI PharmA contient les données suivantes:
 
-- a. le numéro d’assuré AVS;
+- a. le numéro AVS;
 - b. la profession, la fonction et le domaine d’engagement;
 - c.[^134-1] la formation et la formation continue.
 
-[^134-1]: Nouvelle teneur selon le ch. 22 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^134-1]: Nouvelle teneur selon le ch. 22 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 135
 
@@ -1773,7 +1775,7 @@ Le SIAC poursuit les buts suivants:
 
 Le SIAC contient les données ci-après sur les élèves conducteurs et les personnes autorisées à conduire ainsi que sur les moniteurs de conduite de l’armée et les experts militaires de la circulation:
 
-- a. le numéro d’assuré AVS;
+- a. le numéro AVS;
 - b. l’instruction suivie et les autorisations de conduire militaires délivrées;
 - c. les mesures administratives et les résultats des examens de contrôle.
 
@@ -1838,7 +1840,7 @@ Le SPHAIR-Expert contient les données suivantes des personnes intéressées, du
 
 - a. l’identité et l’adresse;
 - b. l’état civil;
-- c. le numéro d’assuré AVS;
+- c. le numéro AVS;
 - d. la date et le lieu de naissance;
 - e. la carrière et les données sur l’expérience en matière de vol et de saut en parachute;
 - f. les connaissances linguistiques;
@@ -1932,7 +1934,7 @@ Elles ont accès en ligne aux registres et banques de données ci-après, dans l
 
 - a. l’index national de police;
 - b. le casier judiciaire;
-- c. le système de traitement des données relatives à la protection de l’Etat, sous réserve de l’art. 20, al. 2, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^147-3].
+- c. le système de traitement des données relatives à la protection de l’État, sous réserve de l’art. 20, al. 2, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^147-3].
 
 <sup>3</sup> Elles peuvent demander aux organes de sûreté fédéraux ou aux autorités cantonales concernées de leur communiquer des données auxquelles elles n’ont pas accès. Ceux-ci peuvent les autoriser à accéder en ligne à leurs registres et banques de données.[^147-4]
 
@@ -2423,7 +2425,7 @@ Il contient les données ci-après sur les conscrits et les militaires ainsi que
 
 [^179c-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^179c-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^179c-3]: RS **172.2****20.1**
+[^179c-3]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 179d
 
@@ -2460,12 +2462,12 @@ Les unités administratives du Groupement Défense donnent accès en ligne aux d
 Elles communiquent les données du PSN aux services et personnes ci-après pour l’accomplissement de leurs tâches légales ou contractuelles:
 
 - a. les commandements et autorités militaires;
-- b. les autorités pénales et les autorités d’exécution des peines compétentes qui en font la demande: l’identité et le numéro d’assuré AVS des détenteurs d’armes personnelles ou d’armes en prêt;
+- b. les autorités pénales et les autorités d’exécution des peines compétentes qui en font la demande: l’identité et le numéro AVS des détenteurs d’armes personnelles ou d’armes en prêt;
 - c.
 
   l’Office central des armes, dans la procédure automatisée:
 
-  - 1\. l’identité et le numéro d’assuré AVS des militaires à qui l’arme personnelle a été cédée en propriété ainsi que le type et le numéro de l’arme,
+  - 1\. l’identité et le numéro AVS des militaires à qui l’arme personnelle a été cédée en propriété ainsi que le type et le numéro de l’arme,
   - 2\.[^179e-2] les données du PSN concernant les décisions et les informations sur des motifs empêchant la remise de l’arme personnelle ainsi que sur sa reprise préventive ou son retrait, en vue de leur traitement dans la banque de données visée à l’art. 32*a*, al. 1, let. d, LArm[^179e-3].
 
 - d. le personnel de l’entreprise RUAG habilité à traiter les affaires d’équipement;
@@ -2521,7 +2523,7 @@ L’AFS sert à l’administration et à l’exploitation des affaires relatives
 L’AFS contient les données ci-après sur les militaires astreints au tir, les commissaires du tir hors du service, les sociétés de tir reconnues, leurs membres et les tireurs pour assurer le contrôle des tirs obligatoires et des autres tirs au profit de la défense nationale:
 
 - a. l’identité;
-- b. le numéro d’assuré AVS;
+- b. le numéro AVS;
 - c. les données de contrôle militaire, avec l’incorporation, le grade et la fonction;
 - d. les numéros des armes;
 - e. les restrictions en matière de remise de l’arme personnelle ou de l’arme en prêt;

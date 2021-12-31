@@ -4,11 +4,11 @@ title: Bundesgesetz vom 3. Oktober 2008 über militärische und andere Informati
 short: MIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: de
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20170901/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20170901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20170901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-823-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20170901/de"
 
 (MIG)
 
-vom 3. Oktober 2008 (Stand am 1. September 2017)
+vom 3. Oktober 2008 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -58,7 +58,7 @@ Dieses Gesetz regelt die Bearbeitung von besonders schützenswerten Personendate
 Soweit es zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendig ist, dürfen die Stellen und Personen nach Artikel 1 Absatz 1:
 
 - a. Daten bearbeiten und insbesondere durch ein Abrufverfahren zugänglich machen, soweit es dieses Gesetz oder ein anderes Bundesgesetz ausdrücklich vorsieht;
-- b. die Versichertennummer der Alters- und Hinterlassenenversicherung (AHV-Versichertennummer) nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^2-1] über die Alters- und Hinterlassenenversicherung verwenden;
+- b. die AHV-Nummer[^2-1] nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946[^2-2] über die Alters- und Hinterlassenenversicherung verwenden;
 - c. Daten in elektronischer Form bekannt geben, sofern ein angemessener Schutz gegen unbefugtes Bearbeiten gewährleistet ist.
 
 <sup>2</sup> Die Stellen und Personen, bei denen Daten beschafft werden dürfen, sind zur unentgeltlichen Bekanntgabe verpflichtet.
@@ -69,7 +69,8 @@ Soweit es zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendi
 
 <sup>5</sup> Bilder, die eindeutig identifizierbare Personen im Militärdienst zeigen, dürfen nur mit deren schriftlicher Einwilligung veröffentlicht werden.
 
-[^2-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-1]: Ausdruck gemäss Anhang Ziff. 14 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde im ganzen Erlass vorgenommen.
+[^2-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 2a
 
@@ -327,23 +328,23 @@ Die Gruppe Verteidigung und die für den Zivilschutz zuständigen Stellen von Bu
   - 1\. soweit dies für die Untersuchung notwendig ist und die Schwere oder Eigenart der Straftat die Auskunft rechtfertigt, oder
   - 2\.[^16-12] sofern während des Militärdienstes oder während des Schutzdienstes eine Straftat begangen wurde, die der zivilen Gerichtsbarkeit unterliegt;
 
-- b.[^16-13] …
-- c. der Eidgenössischen Zollverwaltung, soweit dies für den unterstützenden Einsatz von Angehörigen der Armee notwendig ist;
+- b.[^16-13] ...
+- c.[^16-14] dem Bundesamt für Zoll und Grenzsicherheit, soweit dies für den unterstützenden Einsatz von Angehörigen der Armee notwendig ist;
 - d. Dritten, soweit dies zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben notwendig ist.
 
 <sup>3</sup>
 
-Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Personen bekannt:[^16-14]
+Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Personen bekannt:[^16-15]
 
 - a. militärischen Vereinigungen und Schiessvereinen: Adressdaten, Grad und Einteilung von Militärdienstpflichtigen zum Zweck der Mitglieder- und Abonnentenwerbung sowie für die ausserdienstlichen Tätigkeiten;
 - b. den Medien: Name, Grad und Einteilung anlässlich von Beförderungen und Ernennungen;
-- c.[^16-15] der für das eidgenössische Strafregister zuständigen Stelle des Bundes: die für die Erfüllung der Meldepflicht nach Artikel 367 Absatz 2<sup>quater</sup> des Strafgesetzbuches[^16-16] notwendigen Personalien;
-- d. der für die Kennzeichnung der Uniformen und von persönlichem Material zuständigen Stelle: Name und Vorname sowie für das persönliche Material zusätzlich die AHV-Versichertennummer;
-- e.[^16-17] der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: den Entscheid über Hinderungsgründe betreffend die Abgabe der persönlichen Waffe sowie den Entscheid über deren Abnahme oder deren Entzug.
+- c.[^16-16] der für das eidgenössische Strafregister zuständigen Stelle des Bundes: die für die Erfüllung der Meldepflicht nach Artikel 367 Absatz 2<sup>quater</sup> des Strafgesetzbuches[^16-17] notwendigen Personalien;
+- d. der für die Kennzeichnung der Uniformen und von persönlichem Material zuständigen Stelle: Name und Vorname sowie für das persönliche Material zusätzlich die AHV-Nummer;
+- e.[^16-18] der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: den Entscheid über Hinderungsgründe betreffend die Abgabe der persönlichen Waffe sowie den Entscheid über deren Abnahme oder deren Entzug.
 
-<sup>3bis</sup> Die Bekanntgabe der Daten nach Absatz 3 Buchstabe e an die Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997[^16-18] (WG) erfolgt über das Informationssystem integrierte Ressourcenbewirtschaftung (PSN).[^16-19]
+<sup>3bis</sup> Die Bekanntgabe der Daten nach Absatz 3 Buchstabe e an die Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997[^16-19] (WG) erfolgt über das Informationssystem integrierte Ressourcenbewirtschaftung (PSN).[^16-20]
 
-<sup>4</sup> Die Angehörigen der Armee können jederzeit schriftlich bei der Gruppe Verteidigung die Datenbekanntgabe nach Absatz 3 Buchstaben a und b sperren lassen.[^16-20]
+<sup>4</sup> Die Angehörigen der Armee können jederzeit schriftlich bei der Gruppe Verteidigung die Datenbekanntgabe nach Absatz 3 Buchstaben a und b sperren lassen.[^16-21]
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -358,13 +359,14 @@ Die Gruppe Verteidigung gibt folgende Daten des PISA folgenden Stellen und Perso
 [^16-11]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-12]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-13]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-14]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-14]: Fassung gemäss Ziff. I 12 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-15]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-16]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-17]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-18]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^16-19]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-20]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-16]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-17]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-18]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-19]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-20]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-21]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
 
@@ -568,7 +570,7 @@ Sie gibt die sanitätsdienstlichen Daten folgenden Stellen und Personen bekannt:
 - a. den behandelnden und begutachtenden zivilen Ärztinnen und Ärzten, soweit die betreffende Person hierzu schriftlich ihr Einverständnis erklärt hat;
 - b. zivilen und militärischen Gerichten sowie Rechtspflegebehörden im Rahmen von Gerichts- und Verwaltungsverfahren, soweit nach dem Verfahrensrecht eine Auskunftspflicht für Ärztinnen und Ärzte besteht;
 - c. den für die Erhebung der Ersatzabgabe zuständigen Behörden des Bundes und der Kantone, soweit dies für die Befreiung von der Ersatzpflicht nach Artikel 4 Absatz 1 Buchstabe b des Bundesgesetzes vom 12. Juni 1959[^28-3] über die Wehrpflichtersatzabgabe notwendig ist;
-- d.[^28-4] …
+- d.[^28-4] ...
 - e. den vom Bundesamt für Zivildienst beauftragten Ärztinnen und Ärzten, soweit dies für Untersuchungen und Massnahmen nach Artikel 33 des Zivildienstgesetzes vom 6. Oktober 1995[^28-5] notwendig ist;
 - f.[^28-6] der Zentralstelle Waffen sowie den zuständigen kantonalen Behörden: medizinische Hinderungsgründe betreffend die Abgabe, Rücknahme, Abnahme oder den Entzug der persönlichen Waffe.
 
@@ -1182,7 +1184,7 @@ Die Daten des IES-KSD sind folgenden Stellen und Personen im KSD durch Abrufverf
 
 <sup>2</sup> Die übrigen Daten werden aufbewahrt, bis die betreffenden Personen aus dem KSD ausscheiden.
 
-### 2. Abschnitt: …
+### 2. Abschnitt: ...
 
 #### Art. 78–83
 
@@ -1342,7 +1344,7 @@ Das Generalsekretariat des VBS macht die Daten des ISKM den für die Kaderplanun
 
 Die Daten des ISKM werden bis zur Beendigung des Arbeitsverhältnisses der betreffenden Person aufbewahrt.
 
-### 5. Abschnitt: …
+### 5. Abschnitt: ...
 
 #### Art. 96–101
 
@@ -1696,7 +1698,7 @@ Das ISGMP dient der Planung, Durchführung und Dokumentation der Aus- und Weiter
 
 Das ISGMP enthält folgende Daten:
 
-- a. AHV-Versichertennummer;
+- a. AHV-Nummer;
 - b. Daten über Beruf, Funktion und Einsatzbereich;
 - c. Daten über die Absolvierung der Aus- und Weiterbildung.
 
@@ -1754,7 +1756,7 @@ Das MIFA dient:
 
 Das MIFA enthält folgende Daten von angehenden Fahrern, von Fahrberechtigten sowie der Armeefahrlehrerinnen und -lehrer und der militärischen Verkehrsexpertinnen und -experten:
 
-- a. AHV-Versichertennummer;
+- a. AHV-Nummer;
 - b. Daten über die Ausbildung und die militärischen Fahrberechtigungen;
 - c. Daten über Administrativmassnahmen und die Ergebnisse der Kontrolluntersuchungen.
 
@@ -1819,7 +1821,7 @@ Das SPHAIR-Expert enthält folgende Daten:
 
 - a. Personalien und Adresse;
 - b. Zivilstand;
-- c. AHV-Versichertennummer;
+- c. AHV-Nummer;
 - d. Geburtsdatum und -ort;
 - e. Lebenslauf und Angaben über die Flug- und Sprungerfahrung;
 - f. Sprachkenntnisse;
@@ -2435,12 +2437,12 @@ Die Verwaltungseinheiten der Gruppe Verteidigung machen die Daten des PSN folgen
 Sie geben die Daten des PSN zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben bekannt:
 
 - a. den militärischen Kommandos und den Militärbehörden;
-- b. auf Anfrage der zuständigen Strafbehörde und Strafvollzugsbehörde: Personalien und AHV-Versichertennummer der Besitzerinnen und Besitzer von persönlichen Waffen und Leihwaffen;
+- b. auf Anfrage der zuständigen Strafbehörde und Strafvollzugsbehörde: Personalien und AHV-Nummer der Besitzerinnen und Besitzer von persönlichen Waffen und Leihwaffen;
 - c.
 
   der Zentralstelle Waffen im automatisierten Verfahren:
 
-  - 1\. Personalien und AHV-Versichertennummer von Angehörigen der Armee, denen die persönliche Waffe zu Eigentum überlassen wurde, sowie Waffenart und Waffennummer,
+  - 1\. Personalien und AHV-Nummer von Angehörigen der Armee, denen die persönliche Waffe zu Eigentum überlassen wurde, sowie Waffenart und Waffennummer,
   - 2\. die Daten des PSN betreffend Entscheide und Hinweise über Hinderungsgründe zur Abgabe der persönlichen Waffe sowie über deren Abnahme oder Entzug zur Bearbeitung in der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d WG[^179e-1];
 
 - d. berechtigten Personen bei der RUAG für die Ausrüstung;
@@ -2494,7 +2496,7 @@ Das VVAdmin dient der Verwaltung und dem Betrieb des Schiesswesens ausser Dienst
 Das VVAdmin enthält folgende für die Kontrolle von obligatorischen Schiessen und anderen Schiessen im Interesse der Landesverteidigung benötigten Daten von schiesspflichtigen Angehörigen der Armee, von Funktionärinnen und Funktionären im Schiesswesen ausser Dienst, von anerkannten Schiessvereinen und deren Mitgliedern sowie von Schützinnen und Schützen:
 
 - a. Personalien;
-- b. AHV-Versichertennummer;
+- b. AHV-Nummer;
 - c. militärische Kontrolldaten mit Einteilung, Grad und Funktion;
 - d. Waffennummern;
 - e. Bezugseinschränkungen für persönliche Waffen oder Leihwaffen;
@@ -2659,6 +2661,6 @@ Anhang
 
 ## Änderung bisherigen Rechts
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)konsultiert werden.

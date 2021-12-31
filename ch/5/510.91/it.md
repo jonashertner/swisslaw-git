@@ -4,11 +4,11 @@ title: Legge federale del 3 ottobre 2008 sui sistemi d’informazione militari e
 short: LSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: it
-version: 2017-09-01
+version: 2022-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20170901/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20170901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20170901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20170901/it"
 
 (LSIM)
 
-del 3 ottobre 2008 (Stato 1° settembre 2017)
+del 3 ottobre 2008 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -58,7 +58,7 @@ La presente legge disciplina il trattamento di dati personali degni di particola
 Per quanto necessario per adempiere i loro compiti legali o contrattuali, gli organi e le persone di cui all’articolo 1 capoverso 1 possono:
 
 - a. trattare dati e in particolare renderli accessibili mediante procedura di richiamo se la presente legge o un’altra legge federale lo prevede espressamente;
-- b. utilizzare il numero d’assicurato dell’assicurazione vecchiaia e superstiti (numero d’assicurato AVS) conformemente alle disposizioni della legge federale del 20 dicembre 1946[^2-1] sull’assicurazione per la vecchiaia e per i superstiti;
+- b. utilizzare il numero AVS[^2-1] conformemente alle disposizioni della legge federale del 20 dicembre 1946[^2-2] sull’assicurazione per la vecchiaia e per i superstiti;
 - c. comunicare in forma elettronica i dati sempreché sia garantita un’adeguata protezione contro trattamenti non autorizzati.
 
 <sup>2</sup> Gli organi e le persone presso i quali i dati possono essere raccolti sono tenuti a comunicarli gratuitamente.
@@ -69,7 +69,8 @@ Per quanto necessario per adempiere i loro compiti legali o contrattuali, gli or
 
 <sup>5</sup> Le immagini che raffigurano persone in servizio militare univocamente identificabili possono essere pubblicate unicamente previo consenso scritto di quest’ultime.
 
-[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-1]: Nuova espr. giusta l’all. n. 14 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto in tutto il testo.
+[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 2a
 
@@ -328,30 +329,30 @@ L’Aggruppamento Difesa e gli organi responsabili della protezione civile in se
   - 2\.[^16-13] se durante il servizio militare o durante il servizio di protezione civile è stato commesso un reato sottoposto alla giurisdizione civile;
 
 - b.[^16-14] ...
-- c. all’Amministrazione federale delle dogane, se ciò è necessario per impieghi d’appoggio dei militari;
+- c.[^16-15] all’Ufficio federale della dogana e della sicurezza dei confini, se ciò è ne-cessario per impieghi d’appoggio dei militari;
 - d. a terzi, se ciò è necessario per adempiere i loro compiti legali o contrattuali.
 
 <sup>3</sup>
 
-L’Aggruppamento Difesa comunica agli organi e alle persone seguenti i dati del PISA qui appresso:[^16-15]
+L’Aggruppamento Difesa comunica agli organi e alle persone seguenti i dati del PISA qui appresso:[^16-16]
 
 - a. alle associazioni militari e società di tiro: l’indirizzo, il grado e l’incorporazione di persone soggette all’obbligo di prestare servizio militare, per favorire nuove adesioni e la sottoscrizione di abbonamenti, nonché per le attività fuori del servizio;
 - b. ai media: il cognome, il grado e l’incorporazione in occasione di promozioni e nomine;
-- c.[^16-16] all’organo della Confederazione competente per il casellario giudiziale federale: le generalità necessarie per l’adempimento dell’obbligo di notifica giusta l’articolo 367 capoverso 2<sup>quater</sup> del Codice penale[^16-17];
-- d. all’organo competente per la contrassegnazione delle uniformi e del materiale personale: il cognome e il nome nonché, per il materiale personale, il numero d’assicurato AVS;
-- e.[^16-18] all’Ufficio centrale Armi e alle autorità cantonali competenti: la decisione concernente i motivi d’impedimento alla consegna dell’arma personale e la decisione concernente il suo ritiro cautelare o definitivo.
+- c.[^16-17] all’organo della Confederazione competente per il casellario giudiziale federale: le generalità necessarie per l’adempimento dell’obbligo di notifica giusta l’articolo 367 capoverso 2<sup>quater</sup> del Codice penale[^16-18];
+- d. all’organo competente per la contrassegnazione delle uniformi e del materiale personale: il cognome e il nome nonché, per il materiale personale, il numero AVS;
+- e.[^16-19] all’Ufficio centrale Armi e alle autorità cantonali competenti: la decisione concernente i motivi d’impedimento alla consegna dell’arma personale e la decisione concernente il suo ritiro cautelare o definitivo.
 
-<sup>3bis</sup> I dati di cui al capoverso 3 lettera e sono comunicati alla banca dati di cui all’articolo 32*a* capoverso 1 lettera d della legge del 20 giugno 1997[^16-19] sulle armi (LArm) attraverso il sistema d’informazione per la gestione integrata delle risorse (PSN).[^16-20]
+<sup>3bis</sup> I dati di cui al capoverso 3 lettera e sono comunicati alla banca dati di cui all’articolo 32*a* capoverso 1 lettera d della legge del 20 giugno 1997[^16-20] sulle armi (LArm) attraverso il sistema d’informazione per la gestione integrata delle risorse (PSN).[^16-21]
 
-<sup>4</sup> I militari possono in ogni momento far bloccare, mediante comunicazione scritta all’Aggruppamento Difesa, la comunicazione dei dati di cui al capoverso 3 lettere a e b.[^16-21]
+<sup>4</sup> I militari possono in ogni momento far bloccare, mediante comunicazione scritta all’Aggruppamento Difesa, la comunicazione dei dati di cui al capoverso 3 lettere a e b.[^16-22]
 
 [^16-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-2]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^16-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-5]: Introdotta dal n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^16-5]: Introdotta dall’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^16-6]: Introdotta dal n. II 1 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^16-7]: Nuovo testo giusta il n. II 9 dell’all. alla LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^16-7]: Nuovo testo giusta l’all. n. II 9 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^16-8]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^16-9]: Originaria lett. i. Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-10]: Introdotto dal n. II 1 della LF del 27 set. 2013, in vigore dal 1° feb. 2015 ([RU 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [FF 2013 1801](https://fedlex.data.admin.ch/eli/fga/2013/365)).
@@ -359,13 +360,14 @@ L’Aggruppamento Difesa comunica agli organi e alle persone seguenti i dati del
 [^16-12]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-13]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-14]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-15]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-15]: Nuovo testo giusta il n. I 12 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-16]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^16-17]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^16-18]: Introdotta dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-19]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^16-20]: Introdotto dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-21]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-17]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-18]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^16-19]: Introdotta dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-20]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^16-21]: Introdotto dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-22]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
 
@@ -958,7 +960,7 @@ L’IPV contiene:
 - i. dati per il calcolo degli stipendi;
 - j. dati forniti volontariamente dalla persona interessata.
 
-[^62-1]: Nuovo testo giusta il n. 22 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^62-1]: Nuovo testo giusta l’all. n. 22 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^62-2]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 63
@@ -1692,7 +1694,7 @@ L’Aggruppamento Difesa[^132-1] gestisce un sistema d’informazione per i cert
 
 L’ISGMP serve alla pianificazione, allo svolgimento e alla documentazione dell’istruzione e della formazione continua dei collaboratori della Farmacia dell’esercito.
 
-[^133-1]: Nuovo testo giusta il n. 22 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^133-1]: Nuovo testo giusta l’all. n. 22 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 134
 
@@ -1700,11 +1702,11 @@ L’ISGMP serve alla pianificazione, allo svolgimento e alla documentazione dell
 
 L’ISGMP contiene i seguenti dati:
 
-- a. numero d’assicurato AVS;
+- a. numero AVS;
 - b. dati concernenti la professione, la funzione e il settore d’impiego;
 - c.[^134-1] dati concernenti l’assolvimento dell’istruzione e della formazione continua.
 
-[^134-1]: Nuovo testo giusta il n. 22 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^134-1]: Nuovo testo giusta l’all. n. 22 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 135
 
@@ -1760,7 +1762,7 @@ Il MIFA serve:
 
 Il MIFA contiene i seguenti dati concernenti i futuri conducenti, le persone autorizzate a condurre, nonché i maestri conducenti dell’esercito e i periti della circolazione militare:
 
-- a. numero d’assicurato AVS;
+- a. numero AVS;
 - b. dati concernenti l’istruzione e le autorizzazioni a condurre militari;
 - c. dati concernenti misure amministrative e i risultati delle visite di controllo.
 
@@ -1825,7 +1827,7 @@ Lo SPHAIR-Expert contiene i seguenti dati:
 
 - a. generalità e indirizzo;
 - b. stato civile;
-- c. numero d’assicurato AVS;
+- c. numero AVS;
 - d. data e luogo di nascita;
 - e. curriculum vitae e indicazioni concernenti esperienze di volo e di lancio;
 - f. conoscenze linguistiche;
@@ -1879,7 +1881,7 @@ I dati dello SPHAIR-Expert sono conservati per una durata massima di dieci anni 
 
 Il servizio specializzato del DDPS per i controlli di sicurezza relativi alle persone (servizio specializzato CSP DDPS) gestisce un sistema d’informazione per i controlli di sicurezza relativi alle persone (Sistema informatizzato per i controlli di sicurezza relativi alle persone, SIBAD).
 
-[^144-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^144-1]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 
 #### Art. 145
 
@@ -1923,10 +1925,10 @@ Nella misura prevista dalle pertinenti basi legali, le autorità responsabili de
 
 <sup>3</sup> Le autorità responsabili dello svolgimento dei controlli di sicurezza relativi alle persone possono chiedere dati agli organi di sicurezza della Confederazione o alle corrispondenti autorità cantonali. Quest’ultimi possono autorizzare le autorità responsabili ad accedere direttamente mediante procedura di richiamo ai loro registri e alle loro banche dati.[^147-4]
 
-[^147-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^147-2]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^147-1]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^147-2]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^147-3]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^147-4]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^147-4]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 
 #### Art. 148
 
@@ -1965,10 +1967,10 @@ Il servizio specializzato CSP DDPS può comunicare elettronicamente a organi del
 - b. livello di controllo;
 - c. risultato del controllo di sicurezza relativo alle persone, con l’indicazione della data.
 
-[^148-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-2]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-3]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^148-4]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-1]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-2]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-3]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^148-4]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 
 #### Art. 149
 
@@ -1985,8 +1987,8 @@ Le autorità responsabili distruggono immediatamente i dati:[^149-1]
 
 <sup>2</sup> Le autorità responsabili conservano i dati finché la persona interessata occupa il posto, esercita la funzione oppure esegue il mandato, ma al massimo per dieci anni.[^149-2]
 
-[^149-1]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
-[^149-2]: Nuovo testo giusta il n. 5 dell’all. alla LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^149-1]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^149-2]: Nuovo testo giusta l’all. n. 5 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 
 ### Sezione 2: Sistema d’informazione per il controllo della sicurezza industriale
 
@@ -2443,12 +2445,12 @@ Le unità amministrative dell’Aggruppamento Difesa rendono accessibili mediant
 Le unità amministrative dell’Aggruppamento Difesa comunicano i dati del PSN, ai fini dell’adempimento dei propri compiti legali o contrattuali:
 
 - a. ai comandi militari e alle autorità militari;
-- b. alle competenti autorità penali e autorità di esecuzione delle pene, su loro richiesta: generalità e numero d’assicurato AVS dei detentori di armi personali o di armi in prestito;
+- b. alle competenti autorità penali e autorità di esecuzione delle pene, su loro richiesta: generalità e numero AVS dei detentori di armi personali o di armi in prestito;
 - c.
 
   all’Ufficio centrale Armi, mediante procedura automatizzata:
 
-  - 1\. generalità e numero d’assicurato AVS di militari ai quali è stata ceduta in proprietà l’arma personale, nonché il tipo e il numero dell’arma,
+  - 1\. generalità e numero AVS di militari ai quali è stata ceduta in proprietà l’arma personale, nonché il tipo e il numero dell’arma,
   - 2\. i dati del PSN concernenti decisioni in materia di consegna dell’arma personale e indicazioni sui motivi d’impedimento, nonché decisioni in materia di ritiro cautelare o ritiro definitivo dell’arma personale, per l’elaborazione nella banca dati di cui all’articolo 32*a* capoverso 1 lettera d LArm[^179e-1];
 
 - d. alle persone autorizzate presso la RUAG, per l’equipaggiamento;
@@ -2502,7 +2504,7 @@ L’AFS serve all’amministrazione e alla gestione del tiro fuori del servizio 
 L’AFS contiene i seguenti dati che, nell’interesse della difesa nazionale, sono necessari per il controllo dei tiri obbligatori e di altri tiri e che concernono militari obbligati al tiro, funzionari per il tiro fuori del servizio, società di tiro riconosciute e i rispettivi membri, nonché tiratori:
 
 - a. generalità;
-- b. numero d’assicurato AVS;
+- b. numero AVS;
 - c. dati di controllo militari, con l’incorporazione, il grado e la funzione;
 - d. numeri delle armi;
 - e. limitazioni in materia di consegna di armi personali o di armi in prestito;
@@ -2667,6 +2669,6 @@ Allegato
 
 ## Modifica del diritto vigente
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823).
