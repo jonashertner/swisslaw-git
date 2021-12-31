@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2016 über die Gesundheitsberufe (Gesundh
 short: GesBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: de
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20200201/de/xml/fedlex-data-admin-ch-eli-cc-2020-16-20200201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-16-20220101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20200201/de"
 
 (Gesundheitsberufegesetz, GesBG)
 
-vom 30. September 2016 (Stand am 1. Februar 2020)
+vom 30. September 2016 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -368,12 +368,12 @@ Registriert werden müssen:
 
 <sup>2</sup> Das Register enthält die Daten, die zur Erreichung des Zwecks nach Artikel 23 Absatz 2 benötigt werden. Dazu gehören auch besonders schützenswerte Personendaten im Sinne von Artikel 3 Buchstabe c des Bundesgesetzes vom 19. Juni 1992[^24-1] über den Datenschutz.
 
-<sup>3</sup> Im Register wird die Versichertennummer nach Artikel 50*e* Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^24-2] über die Alters- und Hinterlassenenversicherung zur eindeutigen Identifizierung der im Register aufgeführten Personen sowie der Aktualisierung der Personendaten systematisch verwendet.
+<sup>3</sup> Im Register wird die AHV-Nummer zur eindeutigen Identifizierung der im Register aufgeführten Personen sowie zur Aktualisierung der Personendaten systematisch verwendet.[^24-2]
 
 <sup>4</sup> Der Bundesrat erlässt nähere Bestimmungen über die im Register enthaltenen Personendaten sowie über deren Bearbeitungsmodalitäten.
 
 [^24-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^24-2]: Fassung gemäss Anhang Ziff. 24 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 25
 
@@ -393,11 +393,13 @@ Registriert werden müssen:
 
 <sup>2</sup> Das BAG gibt den für ein hängiges Disziplinarverfahren zuständigen Behörden auf Antrag die Daten zu aufgehobenen Einschränkungen sowie zu befristeten Berufsausübungsverboten, die mit dem Vermerk «gelöscht» versehen sind, bekannt.
 
-<sup>3</sup> Die Versichertennummer nach Artikel 24 Absatz 3 ist nicht öffentlich zugänglich und steht einzig der registerführenden Stelle sowie den für die Erteilung der Berufsausübungsbewilligung zuständigen kantonalen Behörden zur Verfügung.
+<sup>3</sup> Die AHV-Nummer ist nicht öffentlich zugänglich und steht einzig der registerführenden Stelle sowie den für die Erteilung der Berufsausübungsbewilligung zuständigen kantonalen Behörden zur Verfügung.[^26-1]
 
 <sup>4</sup> Alle anderen Daten sind über das Internet öffentlich zugänglich.
 
 <sup>5</sup> Der Bundesrat kann vorsehen, dass bestimmte Daten nur auf Anfrage zugänglich sind, wenn im Interesse der öffentlichen Gesundheit nicht erforderlich ist, dass sie im Internet öffentlich zugänglich sind.
+
+[^26-1]: Fassung gemäss Anhang Ziff. 24 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 27
 
@@ -467,8 +469,8 @@ Die Änderung anderer Erlasse ist im Anhang geregelt.
 
 <sup>6</sup> ...[^34-3]
 
-[^34-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
-[^34-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
+[^34-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10; [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
+[^34-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11; [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
 [^34-3]: Noch nicht in Kraft ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16)).
 
 #### Art. 35

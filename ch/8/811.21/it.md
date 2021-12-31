@@ -4,11 +4,11 @@ title: Legge federale del 30 settembre 2016 sulle professioni sanitarie (LPSan)
 short: LPSan
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: it
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2020-16-20200201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-16-20220101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20200201/it"
 
 (LPSan)
 
-del 30 settembre 2016 (Stato 1° febbraio 2020)
+del 30 settembre 2016 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -368,12 +368,12 @@ Devono essere registrati:
 
 <sup>2</sup> Il registro contiene i dati necessari al raggiungimento dello scopo di cui all’articolo 23 capoverso 2. Vi rientrano anche dati personali degni di particolare protezione ai sensi dell’articolo 3 lettera c della legge federale del 19 giugno 1992[^24-1] sulla protezione dei dati.
 
-<sup>3</sup> Al fine di identificare in modo univoco le persone registrate e aggiornare i dati personali, nel registro si utilizza sistematicamente il numero d’assicurato conformemente all’articolo 50*e* capoverso 1 della legge federale del 20 dicembre 1946[^24-2] sull’assicurazione per la vecchiaia e per i superstiti.
+<sup>3</sup> Nel registro si utilizza sistematicamente il numero AVS al fine di identificare in modo univoco le persone registrate e aggiornare i dati personali.[^24-2]
 
 <sup>4</sup> Il Consiglio federale emana disposizioni più dettagliate sui dati personali contenuti nel registro e sulle relative modalità di trattamento.
 
 [^24-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^24-2]: Nuovo testo giusta l’all. n. 24 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 25
 
@@ -393,11 +393,13 @@ Devono essere registrati:
 
 <sup>2</sup> Su richiesta, l’UFSP comunica alle autorità cui compete un procedimento disciplinare in corso i dati relativi alle restrizioni soppresse e ai divieti temporanei di esercitare la professione ai quali è apposta la menzione «cancellato».
 
-<sup>3</sup> Il numero d’assicurato di cui all’articolo 24 capoverso 3 non è accessibile al pubblico ed è a disposizione unicamente del servizio incaricato di tenere il registro, nonché delle autorità cantonali competenti per il rilascio dell’autorizzazione all’esercizio della professione.
+<sup>3</sup> Il numero AVS non è accessibile al pubblico; è a disposizione unicamente del servizio incaricato di tenere il registro, nonché delle autorità cantonali competenti per il rilascio dell’autorizzazione all’esercizio della professione.[^26-1]
 
 <sup>4</sup> Tutti gli altri dati sono liberamente consultabili in rete.
 
 <sup>5</sup> Il Consiglio federale può prevedere che determinati dati siano accessibili soltanto su domanda, se l’interesse della sanità pubblica non richiede che siano pubblicamente accessibili in rete.
+
+[^26-1]: Nuovo testo giusta l’all. n. 24 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 27
 

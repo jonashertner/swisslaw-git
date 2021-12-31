@@ -4,11 +4,11 @@ title: Loi fédérale du 30 septembre 2016 sur les professions de la santé (LPS
 short: LPSan
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: fr
-version: 2020-02-01
+version: 2022-01-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-16-20200201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-16-20220101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20200201/fr"
 
 (LPSan)[^t-1]
 
-du 30 septembre 2016 (Etat le 1<sup>er</sup> février 2020)
+du 30 septembre 2016 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -370,12 +370,12 @@ Les personnes suivantes doivent être enregistrées:
 
 <sup>2</sup> Le registre contient les données nécessaires pour atteindre les buts visés à l’art. 23, al. 2. En font aussi partie les données sensibles au sens de l’art. 3, let. c, de la loi fédérale du 19 juin 1992 sur la protection des données[^24-1].
 
-<sup>3</sup> Le registre utilise systématiquement le numéro AVS visé à l’art. 50*e*, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^24-2] en vue de l’identification univoque des personnes qui y figurent, ainsi que pour la mise à jour des données personnelles.
+<sup>3</sup> Dans le registre, le numéro AVS est utilisé systématiquement en vue de l’identification univoque des personnes qui y figurent, ainsi que pour la mise à jour des données personnelles.[^24-2]
 
 <sup>4</sup> Le Conseil fédéral édicte des dispositions plus détaillées sur les données personnelles contenues dans le registre et sur les modalités de leur traitement.
 
 [^24-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^24-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^24-2]: Nouvelle teneur selon l’annexe ch. 24 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 25
 
@@ -395,11 +395,13 @@ Les personnes suivantes doivent être enregistrées:
 
 <sup>2</sup> L’OFSP communique aux autorités chargées des procédures disciplinaires en cours, à leur demande, des renseignements sur les données concernant les restrictions levées et les interdictions temporaires de pratiquer signalées par la mention «radié».
 
-<sup>3</sup> Le numéro AVS visé à l’art. 24, al. 3, n’est pas accessible au public et n’est disponible que pour le service chargé de la tenue du registre et pour les autorités cantonales chargées de l’octroi des autorisations de pratiquer.
+<sup>3</sup> Le numéro AVS n’est pas accessible au public; il est accessible uniquement au service chargé de la tenue du registre et aux autorités cantonales chargées de l’octroi des autorisations de pratiquer.[^26-1]
 
 <sup>4</sup> Toutes les autres données sont accessibles au public en ligne.
 
 <sup>5</sup> Le Conseil fédéral peut prévoir que certaines données sont accessibles uniquement sur demande s’il n’est pas dans l’intérêt de la santé publique qu’elles soient accessibles au public en ligne.
+
+[^26-1]: Nouvelle teneur selon l’annexe ch. 24 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 27
 
