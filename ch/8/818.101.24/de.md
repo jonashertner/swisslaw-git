@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-12-20
+version: 2022-01-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211220/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211220-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211220/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211220/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 20. Dezember 2021)
+vom 19. Juni 2020 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -641,7 +641,7 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 Abs. 7).
 
 #### Art. 27a
 
@@ -673,9 +673,9 @@ Ist aus betrieblichen Gründen die Präsenz besonders gefährdeter Arbeitnehmeri
 Als besonders gefährdet gelten:
 
 - a. schwangere Frauen;
-- b. Personen mit den Erkrankungen oder genetischen Anomalien nach Anhang 7, die sich aus medizinischen Gründen nicht impfen lassen können.[^27a-2]
+- b. Personen mit den Erkrankungen oder genetischen Anomalien nach Anhang 7, die sich aus medizinischen Gründen nicht impfen lassen können.
 
-<sup>10bis</sup>
+<sup>11</sup>
 
 Nicht als besonders gefährdet gelten:
 
@@ -685,22 +685,17 @@ Nicht als besonders gefährdet gelten:
   Personen nach Absatz 10, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten:
 
   - 1\. aufgrund einer molekularbiologischen Analyse auf Sars-CoV-2: während 365 Tagen ab dem elften Tag nach der Bestätigung der Ansteckung,
-  - 2\. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-3]: während der Gültigkeit des entsprechenden Zertifikats.[^27a-4]
+  - 2\. aufgrund einer Analyse auf Sars-CoV-2-Antikörper nach Artikel 16 Absatz 3 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^27a-2]: während der Gültigkeit des entsprechenden Zertifikats.
 
-<sup>11</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 10<sup>bis</sup> als besonders gefährdet eingestuft werden.[^27a-5]
+<sup>12</sup> Die Erkrankungen und genetischen Anomalien nach Absatz 10 Buchstabe b werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten und kann dazu führen, dass auch Personen nach Absatz 11 als besonders gefährdet eingestuft werden.
 
-<sup>12</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.[^27a-6]
+<sup>13</sup> Das EDI führt Anhang 7 gestützt auf den Stand der Wissenschaften laufend nach.
 
-<sup>13</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom vom 23. Juni 2021[^27a-7] [^27a-8].
+<sup>14</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 25 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^27a-3].
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-4]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Anhang Ziff. 1 der V vom 3. Nov. 2021, in Kraft seit 16. Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^27a-5]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-6]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-7]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^27a-8]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 26. Juni 2021 angepasst.
+[^27a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-3]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -754,12 +749,18 @@ Gestützt auf Artikel 24*a* des bisherigen Rechts zulässige Sars-CoV-2-Schnellt
 
 <sup>5</sup> Artikel 27 gilt bis zur Inkraftsetzung der Bestimmungen über die Durchführung der Generalversammlung der Änderung vom 19. Juni 2020[^29-4] des Obligationenrechts[^29-5] (Aktienrecht), längstens aber bis zum 31. Dezember 2023.[^29-6]
 
+<sup>6</sup> Die Geltungsdauer dieser Verordnung wird unter Vorbehalt der Absätze 5 und 7 bis zum 31. Dezember 2022 verlängert.[^29-7]
+
+<sup>7</sup> Artikel 27*a* und Anhang 7 gelten bis zum 31. März 2022.[^29-8]
+
 [^29-1]: Fassung gemäss Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), in Kraft seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-2]: Aufgehoben durch Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), mit Wirkung seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten) ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)). Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 [^29-4]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
 [^29-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^29-6]: Eingefügt durch Ziff. I der V vom 27. Okt. 2021, in Kraft seit 28. Okt. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^29-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^29-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 Anhang 1*[^t-1]*
 
@@ -1586,18 +1587,18 @@ Anhang 6*[^t-8]*
 
 Anhang 7*[^t-9]*
 
-(Art. 27*a* Abs. 10 und 11)
+(Art. 27*a* Abs. 10 Bst. b, 12 und 13 sowie 29 Abs. 7)
 
 ## Erkrankungen und genetische Anomalien, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-9]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Fassung gemäss Ziff. II Abs. 1 der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. März 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 Abs. 7).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 
 ### 1. Bluthochdruck
 
 - – Arterielle Hypertonie mit Endorganschaden
-- – Therapie-resistente arterielle Hypertonie
+- – Therapieresistente arterielle Hypertonie
 
 ### 2. Herz-Kreislauf-Erkrankungen
 
@@ -1606,7 +1607,7 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 - – Patient/innen mit Dyspnoe funktionelle Klasse NYHA II–IV und NT-Pro BNP &gt; 125 pg/ml
 - – Patient/innen mit mindestens zwei kardiovaskulären Risikofaktoren (einer davon Diabetes oder arterielle Hypertonie)
 - – Vorgängiger Schlaganfall und/oder symptomatische Vaskulopathie
-- – Chronische Niereninsuffizienz (Stadium 3, GFR &lt;60ml/min)
+- – Chronische Niereninsuffizienz (Stadium 3, GFR &lt; 60 ml/min)
 
 ### 2.2 Andere Kriterien
 
@@ -1618,18 +1619,18 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 ### 2.2.2 Erkrankung der Herzklappen
 
 - – Mittelschwere oder schwere Stenose und/oder Regurgitation zusätzlich zu mindestens einem generellen Kriterium
-- – Jeglicher chirurgischer oder perkutaner Klappenersatz zusätzlich zu mindestens einem generellen Kriterium
+- – Jeglicher chirurgische oder perkutane Klappenersatz zusätzlich zu mindestens einem generellen Kriterium
 
 ### 2.2.3 Herzinsuffizienz
 
-- – Patient/innen mit Dyspnoe funktionelle Klasse NYHA II–IV oder NT-Pro BNP &gt; 125pg/ml trotz medizinischer Therapie jeglicher LVEF (HFpEF, HFmrEF, HFrEF)
+- – Patient/innen mit Dyspnoe funktionelle Klasse NYHA II–IV oder NT-Pro BNP &gt; 125 pg/ml trotz medizinischer Therapie jeglicher LVEF (HFpEF, HFmrEF, HFrEF)
 - – Kardiomyopathie jeglicher Ursache
 - – Pulmonalarterielle Hypertonie
 
 ### 2.2.4 Arrhythmie
 
-- – Vorhofflimmern mit einem CHA2DS2-VASc Score von mindestens 2 Punkten
-- – Vorgängige Schrittmachereinlage (inkl. ICD und/oder CRT Implantation) zusätzlich zu einem generellen Kriterium
+- – Vorhofflimmern mit einem CHA2DS2-VASc-Score von mindestens 2 Punkten
+- – Vorgängige Schrittmachereinlage (inkl. ICD- und/oder CRT-Implantation) zusätzlich zu einem generellen Kriterium
 
 ### 2.2.5 Erwachsene mit kongenitaler Herzerkrankung
 
@@ -1682,7 +1683,7 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 
 ### 7. Adipositas
 
-- – Patient/innen mit einem Body-Mass-Index (BMI) von 35 kg/m<sup>2</sup> oder mehr
+- – Patient/innen mit einem Body-Mass-Index (BMI) von 35 kg/m2 oder mehr
 
 ### 8. Lebererkrankung
 
@@ -1690,6 +1691,6 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 
 ### 9. Nierenerkrankung
 
-- – chronische Niereninsuffizienz ab GFR &lt; 60 ml/min
+- – Chronische Niereninsuffizienz ab GFR &lt; 60 ml/min
 
 ### 10. Trisomie 21

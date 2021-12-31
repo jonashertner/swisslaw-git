@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-12-20
+version: 2022-01-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211220/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211220-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211220/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 20 December 2021)
+of 19 June 2020 (Status as of 1 January 2022)
 
 The Swiss Federal Council,
 
@@ -643,7 +643,7 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 [^chap4a-1]
 
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No I of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
 
 #### Art. 27a
 
@@ -675,9 +675,9 @@ Where for operational reasons the presence of employees at high risk in the work
 The following persons are regarded as being at high risk:
 
 - a. pregnant women;
-- b. persons with the diseases or genetic anomalies listed in Annex 7 who cannot be vaccinated on medical grounds.[^27a-2]
+- b. persons with the diseases or genetic anomalies listed in Annex 7 who cannot be vaccinated on medical grounds.
 
-<sup>10bis</sup>
+<sup>11</sup>
 
 The following persons are not regarded as being at high risk:
 
@@ -687,22 +687,17 @@ The following persons are not regarded as being at high risk:
   persons specified in paragraph 10 who have been infected with Sars-CoV-2 and have recovered:
 
   - 1\. when based on a molecular-biological analysis for Sars-CoV-2: for 365 days from the eleventh day after confirmation of infection,
-  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-3]: for the term of validity of the certificate concerned.[^27a-4]
+  - 2\. when based on an analysis for Sars-CoV-2 antibodies in accordance with Article 16 paragraph 3 of the COVID-19 Ordinance on Certificates of 4 June 2021[^27a-2]: for the term of validity of the certificate concerned.
 
-<sup>11</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.[^27a-5]
+<sup>12</sup> The diseases and genetic anomalies referred to in paragraph 10 are defined in Annex 7 on the basis of medical criteria. The list of these criteria is not exhaustive. A clinical assessment of the risk in specific cases remains reserved and may lead to persons being classed as being at high risk under paragraph 10<sup>bis</sup>.
 
-<sup>12</sup> The FDHA shall continually update Annex 7 based on the state of science.[^27a-6]
+<sup>13</sup> The FDHA shall continually update Annex 7 based on the state of science.
 
-<sup>13</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-7] applies.[^27a-8]
+<sup>14</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-3] applies.
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-4]: Inserted by No I of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Amended by Annex No 1 of the O of 3 Nov. 2021, in force since 16 Nov. 2021 ([AS 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^27a-5]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-6]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-7]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^27a-8]: The reference was modified on 26 June 2021 pursuant to Art. 12 para. 2 of the the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^27a-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-3]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapter 5 Final Provisions
 
@@ -756,12 +751,18 @@ Sars-CoV-2 rapid tests for specialist use that are permitted based on Article 24
 
 <sup>5</sup> Article 27 applies until the provisions on the conduct of general meetings in the Amendment of 19 June 2020[^29-4] to the Swiss Code of Obligations[^29-5] (Company Law) comes into force, but at the latest until 31 December 2023.[^29-6]
 
+<sup>6</sup> The term of application of this Ordinance shall be extended to 31 December 2022, subject to paragraphs 5 and 7.[^29-7]
+
+<sup>7</sup> Article 27*a* and Annex 7 apply until 31 March 2022.[^29-8]
+
 [^29-1]: Amended by No II of the O of 12 Aug. 2020 (Requirement to wear Masks in Aircraft; Large-scale Events), in force since 15 Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-2]: Repealed by No II of the O of 12 Aug. 2020 (Requirement to wear Masks in Aircraft; Large-scale Events), with effect from 15 Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Inserted by No I of the O of 11 Sept. 2020 (Extension; Test Costs) ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)). Amended by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 [^29-4]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
 [^29-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^29-6]: Inserted by No I of the O of 27 Oct. 2021, in force since 28 Oct. 2021 ([AS 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^29-7]: Inserted by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^29-8]: Inserted by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 Annex 1*[^t-1]*
 
@@ -1646,11 +1647,11 @@ Annex 6*[^t-8]*
 
 Annex 7*[^t-9]*
 
-(Art. 27*a* para. 10 and 11)
+(Art. 27*a* para. 10 let. b, 12 and 13 and Art. 29 para. 7)
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)). Revised in accordance with No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) and No II of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Dec. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)) ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Amended by No II para. 1 of the O of 17 Dec. 2021, in force from 1 Jan. 2022 until 31 March 2022 ([AS 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); Art. 29 para. 7).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 

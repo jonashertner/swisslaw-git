@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-12-20
+version: 2022-01-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20211220/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20211220-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211220/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20211220/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 20 décembre 2021)
+du 19 juin 2020 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -641,7 +641,7 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 [^chap4a-1]
 
-[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); art. 29, al. 7).
 
 #### Art. 27a
 
@@ -673,9 +673,9 @@ Si, pour des raisons dʼexploitation, la présence dʼemployés vulnérables sur
 Sont considérées comme vulnérables:
 
 - a. les femmes enceintes;
-- b. les personnes qui souffrent des pathologies ou des anomalies génétiques énumérées à l’annexe 7 et qui ne peuvent pas se faire vacciner pour des raisons médicales.[^27a-2]
+- b. les personnes qui souffrent des pathologies ou des anomalies génétiques énumérées à l’annexe 7 et qui ne peuvent pas se faire vacciner pour des raisons médicales.
 
-<sup>10bis</sup>
+<sup>11</sup>
 
 Ne sont pas considérées comme vulnérables:
 
@@ -684,23 +684,18 @@ Ne sont pas considérées comme vulnérables:
 
   les personnes visées à l’al. 10 qui ont contracté le SARS-CoV-2 et sont considérées comme guéries:
 
-  - 1\. sur la base d’une analyse de biologie moléculaire pour le SARS-CoV-2: durant 365 jours à compter du 11<sup>e</sup> jour suivant la confirmation de l’infection;
-  - 2\. sur la base d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-3]: durant la validité du certificat correspondant.[^27a-4]
+  - 1\. sur la base d’une analyse de biologie moléculaire pour le SARS-CoV-2: durant 365 jours à compter du 11<sup>e</sup> jour suivant la confirmation de l’infection,
+  - 2\. sur la base d’une analyse des anticorps contre le SARS-CoV-2 au sens de l’art. 16, al. 3, de l’ordonnance COVID-19 du 4 juin 2021 certificats[^27a-2]: durant la validité du certificat correspondant.
 
-<sup>11</sup> Les pathologies et anomalies génétiques visées à lʼal. 10, let. b, sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée et peut aussi avoir pour conséquence que des personnes visées à l’al. 10<sup>bis</sup> soient considérées comme vulnérables.[^27a-5]
+<sup>12</sup> Les pathologies et anomalies génétiques visées à lʼal. 10, let. b, sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée et peut aussi avoir pour conséquence que des personnes visées à l’al. 11 soient considérées comme vulnérables.
 
-<sup>12</sup> Le DFI actualise en permanence lʼannexe 7 selon l’état des connaissances scientifiques.[^27a-6]
+<sup>13</sup> Le DFI actualise en permanence lʼannexe 7 selon l’état des connaissances scientifiques.
 
-<sup>13</sup> L’art. 25 de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^27a-7] [^27a-8] s’applique à la protection générale des employés.
+<sup>14</sup> L’art. 25 de l’ordonnance COVID-19 du 23 juin 2021 situation particulière[^27a-3] s’applique à la protection générale des employés.
 
 [^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
-[^27a-2]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 26 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^27a-3]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
-[^27a-4]: Introduit par le ch. I de l’O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 3 nov. 2021, en vigueur depuis le 16 nov. 2021 ([RO 2021 653](https://fedlex.data.admin.ch/eli/oc/2021/653)).
-[^27a-5]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-6]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
-[^27a-7]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^27a-8]: Le renvoi a été adapté au 26 juin 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^27a-2]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^27a-3]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ## Chapitre 5 Dispositions finales
 
@@ -754,12 +749,18 @@ Les tests rapides SARS-CoV-2 avec application par un professionnel autorisés en
 
 <sup>5</sup> L’art. 27 a effet jusqu’à l’entrée en vigueur des dispositions relatives au déroulement de l’assemblée générale prévues par la modification du 19 juin 2020[^29-4] du code des obligations[^29-5] (droit de la société anonyme), mais au plus tard jusqu’au 31 décembre 2023.[^29-6]
 
+<sup>6</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2022, sous réserve des al. 5 et 7.[^29-7]
+
+<sup>7</sup> Lʼart. 27*a* et lʼannexe 7 ont effet jusquʼau 31 mars 2022.[^29-8]
+
 [^29-1]: Nouvelle teneur selon le ch. II de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations), en vigueur depuis le 15 août 2020 ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-2]: Abrogé par le ch. II de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations), avec effet au 15 août 2020 ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Introduit par le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)). Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
 [^29-4]: [RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
 [^29-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^29-6]: Introduit par le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 28 oct. 2021 ([RO 2021 634](https://fedlex.data.admin.ch/eli/oc/2021/634)).
+[^29-7]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
+[^29-8]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881)).
 
 Annexe 1*[^t-1]*
 
@@ -1631,11 +1632,11 @@ Annexe 6*[^t-8]*
 
 Annexe 7*[^t-9]*
 
-(art. 27*a*, al. 10 et 11)
+(art. 27*a*, al. 10, let. b, 12, 13 et 29, al. 7)
 
 ## Maladies et anomalies génétiques rendant vulnérables les personnes concernées
 
-[^t-9]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 déc. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563), [634](https://fedlex.data.admin.ch/eli/oc/2021/634)). Mise à jour par le ch. I des O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) et du 1<sup>er</sup> avr. 2021 (Liste des maladies rendant vulnérables les personnes concernées) ([RO 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) et le ch. II de l’O du 12 mai 2021, en vigueur depuis le 17 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables) ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)). Nouvelle teneur selon le ch. II al. 2 de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 mars 2022 ([RO 2021 881](https://fedlex.data.admin.ch/eli/oc/2021/881); art. 29, al. 7).
 
 Selon l’état actuel de la science, seules certaines catégories d’adultes sont vulnérables. Partant, les critères ci-après concernent uniquement les adultes.
 
