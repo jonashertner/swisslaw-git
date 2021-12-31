@@ -1,88 +1,114 @@
 ---
 canton: BL
 number: "366.15"
-title: Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die partnerschaftliche Finanzierung von im Kanton Basel-Stadt domizilierten Kulturinstitutionen mit regionalem Angebot
+title: Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen
 short: Kulturvertrag
 language: de
-version: 1997-01-01
-valid_until: 2021-12-31
-version_adopted: 1997-01-28
+version: 2022-01-01
+version_adopted: 2019-08-20
 adopted: 2019-08-20
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/366.15"
-pdf: "https://bl.clex.ch/api/de/versions/450/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die partnerschaftliche Finanzierung von im Kanton Basel-Stadt domizilierten Kulturinstitutionen mit regionalem Angebot
+# Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen
 
 (Kulturvertrag)
 
-Vom 28.01.1997 (Stand 01.01.1997)
+Vom 20.08.2019 (Stand 01.01.2022)
 
-Die Regierungen der Kantone Basel-Landschaft und Basel-Stadt schliessen den folgenden Vertrag ab:[^ingress-1]
+Die Regierungsräte der Kantone Basel-Landschaft und Basel-Stadt
 
-[^ingress-1]: In der Volksabstimmung vom 23. November 1997 angenommen.
+schliessen den folgenden Vertrag ab:
 
 #### § 1
 
-**Grundlagen, Konzept**
+**Grundlagen**
 
-<sup>1</sup> Die Parteien sind sich einig, dass der Kanton Basel-Stadt mannigfaltig und breitgefächert kulturelle Zentrumsleistungen erbringt oder subventioniert. Eine Reihe baselstädtischer Kulturinstitutionen wird vom Kanton Basel-Landschaft in direkter Beziehung, jedoch koordiniert mit dem Kanton Basel-Stadt, finanziell unterstützt, teils wiederkehrend mittels Subventionen oder regelmässigen Beiträgen, teils einzelprojektweise. Es handelt sich um solche Kulturinstitutionen, deren Leistungen für die Region Basel als bedeutend erachtet werden.
+<sup>1</sup> Die Vertragskantone sind sich einig, dass der Kanton Basel-Stadt kulturelle Zentrumsleistungen erbringt oder durch Staatsbeiträge ermöglicht, von denen auch die Bewohnerinnen und Bewohner des Kantons Basel-Landschaft profitieren.
 
-<sup>2</sup> Die Parteien streben eine verstärkte Koordination auf kulturellem Gebiet an. Zu diesem Zweck stellen sie mit diesem Vertrag die finanzielle Beteiligung des Kantons Basel-Landschaft an den kulturellen Leistungen der im Kanton Basel-Stadt domizilierten Institutionen mit regionalem Angebot auf eine neue Grundlage und erweitern sie. Im Umfang einer jährlichen Kulturvertragspauschale steht der Kanton Basel-Landschaft inskünftig dem Kanton Basel-Stadt vermehrt zur Seite.
-
-<sup>3</sup> Dieser Vertrag tangiert die projektorientierte Förderung regionaler Einzelmanifestationen im Sinne der bisherigen Praxis nicht. Er bezieht sich auf das zeitgenössische, institutionalisierte Kulturschaffen, wobei aber die Bereiche der bildenden Kunst und der Literatur ausgeklammert bleiben. Auch die ordentliche Tätigkeit der Museen wird durch diesen Vertrag nicht berührt.
+<sup>2</sup> Der Kanton Basel-Landschaft beteiligt sich an der Finanzierung der kulturellen Zentrumsleistungen durch den Kanton Basel-Stadt in Form einer jährlichen Abgeltung.
 
 #### § 2
 
-**Kulturvertragspauschale**
+**Abgeltung**
 
-<sup>1</sup> Der Kanton Basel-Landschaft stellt mit Abschluss dieses Vertrages eine jährliche Kulturvertragspauschale bereit. Sie beträgt – unter Vorbehalt von § 2 Absatz 4 – ein Prozent des in der Staatsrechnung ausgewiesenen Steuerertrags des Kantons Basel-Landschaft von den natürlichen Personen. Massgeblich für die Festsetzung der Kulturvertragspauschale ist der Durchschnittsertrag der zwei vorangegangenen Kalenderjahre.
+<sup>1</sup> Die vom Kanton Basel-Landschaft zu leistende Abgeltung beträgt ab 2022 mindestens CHF 9,6 Mio. pro Jahr.
 
-<sup>2</sup> Die Kulturvertragspauschale verteilt sich gemäss den nachfolgenden Bestimmungen auf einen lnstitutionsteil und einen Dispositionsteil.
+<sup>2</sup> Der Betrag wird jährlich der Teuerung angepasst. Die Anpassung richtet sich nach dem Landesindex der Konsumentenpreise, wobei der Betrag von CHF 9,6 Mio. dem Indexstand per Januar 2019 entspricht. Für die Anpassung ist der Indexstand vom Januar des Vorjahres relevant. Für den Betrag des Jahres 2022 ist somit der Indexstand vom Januar 2021 massgebend.
 
-<sup>3</sup> Die Zuwendungen aus der Kulturvertragspauschale werden jährlich am 1. Juli für das betreffende Jahr ausgerichtet, erstmals am 1. Juli 1997.
+<sup>3</sup> Eine negativ ausfallende Teuerung ist nur dann zu berücksichtigen, wenn dies nicht zu einer Unterschreitung der jährlichen Mindestabgeltung von CHF 9,6 Mio. führt.
 
-<sup>4</sup> Pro 1997 beschränkt sich die Kulturvertragspauschale auf den lnstitutionsteil. Sie macht somit 6'080'000 Fr. aus.
+<sup>4</sup> Die Vertragskantone prüfen alle 4 Jahre eine Erhöhung der Abgeltung. Eine Überprüfung wird erstmals im Jahr 2028 vorgenommen.
 
 #### § 3
 
-**Institutionsteil**
+**Zahlungsmodalitäten**
 
-<sup>1</sup> Der Institutionsteil dient der dauernden Förderung und Unterstützung von im Kanton Basel-Stadt domizilierten Kulturinstitutionen mit Beiträgen an die Betriebskosten, dies im Rahmen von jährlichen oder mehrjährigen Zuwendungen.
-
-<sup>2</sup> Die Zuwendungen aus dem lnstitutionsteil erfolgen an die im Anhang aufgelisteten Institutionen. Die darin aufgeführten Kulturinstitutionen und definierten Beiträge aus dem Institutionsteil gelten für das Jahr 1997. In den nachfolgenden Jahren können die Liste der zuwendungsberechtigten Kulturinstitutionen und deren Beiträge aus der Kulturvertragspauschale geändert werden.
-
-<sup>3</sup> Über jährliche oder mehrjährige Zuwendungen aus dem Institutionsteil entscheiden das Erziehungsdepartement des Kantons Basel-Stadt und die Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft einvernehmlich. Die Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft teilt den begünstigten Kulturinstitutionen in Basel-Stadt die festgelegten Zuwendungen schriftlich mit. Die Auszahlung erfolgt gemäss der Bestimmung unter § 2 Absatz 3.
-
-<sup>4</sup> Die zeitliche Gültigkeit mehrjähriger Zuwendungen zugunsten einer Kulturinstitution entspricht max. der Laufzeit eines allfälligen entsprechenden Subventionsvertrags mit dem Kanton Basel-Stadt.
-
-<sup>5</sup> Laufende, gemäss § 3 Absatz 3 eingegangene Verpflichtungen gegenüber den Kulturinstitutionen werden von Änderungen des Anhangs nicht beeinträchtigt.
+<sup>1</sup> Die Zahlung der jährlichen Abgeltung wird jeweils am 15. Januar fällig, erstmals am 15. Januar 2022.
 
 #### § 4
 
-**Dispositionsteil**
+**Zweckbestimmung**
 
-<sup>1</sup> Der Dispositionsteil soll der punktuellen Unterstützung in besonderen Situationen, beispielsweise im Sinne von Investitions-, Überbrückungs- und Startzuschüssen oder von einmaligen Defizitgarantien und Beiträgen an die Mehrkosten ausserordentlicher Produktionen und Veranstaltungen dienen. Bei den Empfängern handelt es sich vornehmlich um diejenigen, die auch aus dem Institutionsteil gefördert werden. Bei andern Kulturinstitutionen oder -projekten muss die regionale Bedeutung offensichtlich sein. In Betracht kommen auch Museen, wenn sie Sonderprojekte durchfuhren.
+<sup>1</sup> Die Mittel sind zweckgebunden für kulturelle Zentrumsleistungen.
 
-<sup>2</sup> Dem Dispositionsteil fällt jährlich an, was von der Kulturvertragspauschale nicht in den Institutionsteil gelangt. Nicht verwendete Mittel aus dem Dispositionsteil verbleiben zum späteren Einsatz.
+<sup>2</sup> Es werden ausschliesslich Institutionen begünstigt, die:
 
-<sup>3</sup> Über einmalige oder mehrmalige Zuwendungen aus dem Dispositionsteil entscheiden das Erziehungsdepartement des Kantons Basel-Stadt und die Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft einvernehmlich. Die Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft teilt den Begünstigten in Basel-Stadt die festgelegten Zuwendungen schriftlich mit. Die Auszahlung erfolgt gemäss der Bestimmung unter § 2 Absatz 3.
+- a. im Bereich des professionellen, zeitgenössischen Kunstschaffens tätig sind,
+- b. einen regulären Betriebsbeitrag des Kantons Basel-Stadt erhalten,
+- c. ein eigenes Ensemble oder Orchester beschäftigen bzw. per Leistungsauftrag Koproduktionspartner und Spielstätten für regionale Ensembles und Compagnies sind, sowie
+- d. nachweislich eine regionale Ausstrahlung besitzen.
+
+<sup>3</sup> In der Regel werden die 3 Institutionen mit den meisten Besucherinnen und Besuchern aus dem Kanton Basel-Landschaft berücksichtigt.
 
 #### § 5
 
-**Diverse Bestimmungen**
+**Abgrenzung**
 
-<sup>1</sup> Das Erziehungsdepartement des Kantons Basel-Stadt hält die Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft über die Entwicklung seiner Beziehungen zu den Empfängern von Leistungen aus der Kulturvertragspauschale auf dem laufenden. Das Erziehungsdepartement des Kantons Basel-Stadt gewährt der Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft Einblick in die betrieblichen Unterlagen (Bilanz, Erfolgsrechnung, Budget, Revisions- und Jahresberichte) der aus der Kulturvertragspauschale begünstigten Kulturinstitutionen, soweit diese ihm selbst zur Verfügung stehen und es dazu berechtigt ist.
+<sup>1</sup> Eine Verwendung der zur Abgeltung von Zentrumsleistungen erhaltenen Mittel für die Tätigkeit der staatlichen und privaten Museen, für Ausbildungsstätten, für Bibliotheken sowie für den Zoo Basel ist ausgeschlossen.
 
-<sup>2</sup> Stehen die Beitragshöhe oder der Leistungsauftrag der aus dem lnstitutionsteil begünstigten Kulturinstitutionen substanziell zur Diskussion, kann der Kanton Basel-Landschaft im Interesse der guten Information an den Verhandlungen und Beratungen teilnehmen.
+<sup>2</sup> Nicht von diesem Vertrag berührt wird die Zusammenarbeit der beiden Kantone hinsichtlich der projektorientierten Förderung regionalen Kulturschaffens.
 
-<sup>3</sup> Dieser Vertrag tritt rückwirkend per 1. Januar 1997 in Kraft und dauert auf unbestimmte Zeit. Er kann von jeder Partei jederzeit unter Wahrung einer Kündigungsfrist von einem Jahr auf das Ende eines Jahres gekündigt werden. Laufende, gemäss § 3 Absatz 3 und § 4 Absatz 3 eingegangene Verpflichtungen werden von der Kündigung dieses Vertrages nicht beeinträchtigt.
+#### § 6
 
-<sup>4</sup> Dieser Vertrag bedarf zu seiner Verbindlichkeit der Genehmigung durch die Parlamente[^5-1] der Parteien.
+**Mittelverteilung und Mitwirkung**
 
-[^5-1]: Vom Landrat am 12. Juni 1997 genehmigt.
+<sup>1</sup> Die Verteilung der Mittel an die gemäss § 4 Abs. 2 und 3 bestimmten Institutionen basiert auf einer periodischen Erhebung des Publikumsaufkommens aus dem Kanton Basel-Landschaft. Die Erhebung erfolgt durch den Kanton Basel-Stadt. Dieser spricht sich bezüglich Ausgestaltung und Periodizität der Erhebungen mit dem Kanton Basel-Landschaft ab.
 
-GS 32.999
+<sup>2</sup> Der Kanton Basel-Landschaft hat Anspruch auf einen nicht stimmberechtigten Beisitz in Steuerungsgremien der begünstigten Institutionen. Bei Institutionen, bei denen ein stimmberechtigter Einsitz des Kantons Basel-Stadt besteht, hat der Kanton Basel-Landschaft ebenfalls Anspruch auf einen stimmberechtigten Einsitz.
+
+#### § 7
+
+**Information über die Verwendung der Mittel**
+
+<sup>1</sup> Das Präsidialdepartement des Kantons Basel-Stadt informiert die Bildungs-, Kultur- und Sportdirektion des Kantons Basel-Landschaft jährlich über die Verwendung der Mittel an die begünstigten Institutionen.
+
+#### § 8
+
+**Laufzeit und Kündigung**
+
+<sup>1</sup> Der Vertrag dauert auf unbestimmte Zeit.
+
+<sup>2</sup> Er kann von jeder der beiden Parteien mit einer Kündigungsfrist von 4 Jahren auf Ende des Jahres oder auf Inkrafttreten einer nationalen Regelung im Bereich der Abgeltung kultureller Zentrumsleistungen gekündigt werden. Eine einvernehmlich beschlossene Anpassung des Vertrags kann jederzeit erfolgen.
+
+#### § 9
+
+**Verbindlichkeit**
+
+<sup>1</sup> Der Vertrag bedarf zu seiner Verbindlichkeit der Genehmigung durch die gesetzgebenden Behörden der beiden Vertragskantone.[^9-1]
+
+[^9-1]: Vom Grossen Rat des Kantons Basel-Stadt genehmigt am 15. Januar 2020; vom Landrat des Kantons Basel-Landschaft genehmigt am 16. Januar 2020. Referendumsfristen am 29. Februar 2020 bzw. 19. März 2020 abgelaufen. Beschlüsse mit Verfügungen der Staatskanzlei Basel-Stadt vom 11. März 2020 bzw. der Landeskanzlei Basel-Landschaft vom 23. März 2020 für rechtskräftig erklärt.
+
+#### § 10
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Aufgrund des Vertrages vom 28. Januar 1997 zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die partnerschaftliche Finanzierung von im Kanton Basel-Stadt domizilierten Kulturinstitutionen mit regionalem Angebot (Kulturvertrag) gebildete Mittel sind nach dessen Regelungen zu verwenden, auch nach Inkrafttreten des vorliegenden Vertrags.
+
+<sup>2</sup> Ausserdem werden die in Abs. 1 genannten Mittel zur Finanzierung der Besucherbefragungen gemäss § 6 Abs. 1 verwendet.
+
+GS 2020.045
