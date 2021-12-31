@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20210101/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Januar 2021)
+vom 24. Oktober 2007 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -576,7 +576,7 @@ Zur Ermöglichung einer beruflichen Grundbildung kann Personen mit rechtswidrige
 - b. Das Gesuch des Arbeitgebers nach Artikel 18 Buchstabe b AIG liegt vor.
 - c. Die Lohn- und Arbeitsbedingungen nach Artikel 22 AIG werden eingehalten.
 - d.[^30a-2] Die Gesuchstellerin oder der Gesuchsteller erfüllt die Integrationskriterien nach Artikel 58*a* Absatz 1 AIG.
-- e.[^30a-3] ...
+- e.[^30a-3] …
 - f. Sie oder er legt ihre Identität offen.
 
 <sup>2</sup> Nach Abschluss der Grundbildung kann die Bewilligung verlängert werden, wenn die Voraussetzungen nach Artikel 31 erfüllt sind.
@@ -598,7 +598,7 @@ Zur Ermöglichung einer beruflichen Grundbildung kann Personen mit rechtswidrige
 Liegt ein schwerwiegender persönlicher Härtefall vor, kann eine Aufenthaltsbewilligung erteilt werden. Bei der Beurteilung sind insbesondere zu berücksichtigen:
 
 - a.[^31-1] die Integration der Gesuchstellerin oder des Gesuchstellers anhand der Integrationskriterien nach Artikel 58*a* Absatz 1 AIG;
-- b.[^31-2] ...
+- b.[^31-2] …
 - c. die Familienverhältnisse, insbesondere der Zeitpunkt der Einschulung und die Dauer des Schulbesuchs der Kinder;
 - d.[^31-3] die finanziellen Verhältnisse;
 - e. die Dauer der Anwesenheit in der Schweiz;
@@ -970,7 +970,7 @@ Sind die asylrechtlichen Voraussetzungen (Art. 43 Abs. 1–3 AsylG) erfüllt, ka
 - d. der Vorrang nach Artikel 21 AIG eingehalten wird;
 - e.[^52-1] sie nicht mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs[^52-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes von 13. Juni 1927[^52-3] belegt sind.
 
-<sup>2</sup> ...[^52-4]
+<sup>2</sup> …[^52-4]
 
 [^52-1]: Eingefügt durch Ziff. I 1 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^52-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -2368,7 +2368,7 @@ Anhang 1*[^t-1]*
 
 ## Höchstzahlen für Kurzaufenthaltsbewilligungen
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020 ([AS 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)). Bereinigt gemäss Ziff. II der V vom 25. Nov. 2020 (Höchstzahlen für Staatsangehörige des Vereinigten Königreichs), in Kraft seit 1. Jan. 2021 ([AS 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 841](https://fedlex.data.admin.ch/eli/oc/2021/841)).
 
 \1. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19 werden insgesamt auf 4000 festgesetzt:
 
@@ -2376,25 +2376,25 @@ Anhang 1*[^t-1]*
 
 <table>
 <tr><td>Zürich 394</td><td>Schaffhausen 18</td></tr>
-<tr><td>Bern 238</td><td>Appenzell A.Rh. 10</td></tr>
+<tr><td>Bern 237</td><td>Appenzell A.Rh. 10</td></tr>
 <tr><td>Luzern 93</td><td>Appenzell I.Rh. 3</td></tr>
-<tr><td>Uri 7</td><td>St. Gallen 116</td></tr>
+<tr><td>Uri 7</td><td>St. Gallen 115</td></tr>
 <tr><td>Schwyz 31</td><td>Graubünden 49</td></tr>
-<tr><td>Obwalden 8</td><td>Aargau 132</td></tr>
+<tr><td>Obwalden 9</td><td>Aargau 131</td></tr>
 <tr><td>Nidwalden 9</td><td>Thurgau 52</td></tr>
-<tr><td>Glarus 9</td><td>Tessin 92</td></tr>
-<tr><td>Zug 44</td><td>Waadt 177</td></tr>
-<tr><td>Freiburg 58</td><td>Wallis 68</td></tr>
+<tr><td>Glarus 9</td><td>Tessin 94</td></tr>
+<tr><td>Zug 45</td><td>Waadt 178</td></tr>
+<tr><td>Freiburg 57</td><td>Wallis 68</td></tr>
 <tr><td>Solothurn 55</td><td>Neuenburg 42</td></tr>
-<tr><td>Basel-Stadt 75</td><td>Genf 144</td></tr>
-<tr><td>Basel-Landschaft 59</td><td>Jura 17</td></tr>
+<tr><td>Basel-Stadt 73</td><td>Genf 146</td></tr>
+<tr><td>Basel-Landschaft 58</td><td>Jura 17</td></tr>
 </table>
 
 - b. Höchstzahl für den Bund: 2000
 
-\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2021 bis zum 31. Dezember 2021.
+\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022.
 
-\3. Die durch die Änderung vom 27. November 2019[^annex1-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
+\3. Die durch die Änderung vom 25. November 2020[^annex1-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
 
 \4. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19*a* werden insgesamt auf 3000 festgesetzt:
 
@@ -2403,9 +2403,9 @@ Anhang 1*[^t-1]*
 <tr><td>750</td><td>750</td><td>750</td><td>750</td></tr>
 </table>
 
-\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2021 bis zum 31. Dezember 2021 und werden quartalsweise freigegeben.
+\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 und werden quartalsweise freigegeben.
 
-\6. Die durch die Änderung vom 27. November 2019 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
+\6. Die durch die Änderung vom 25. November 2020 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
 
 \7. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19*b* werden insgesamt auf 1400 festgesetzt:
 
@@ -2414,9 +2414,9 @@ Anhang 1*[^t-1]*
 <tr><td>350</td><td>350</td><td>350</td><td>350</td></tr>
 </table>
 
-\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2021 bis zum 31. Dezember 2021 und werden quartalsweise freigegeben.
+\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 und werden quartalsweise freigegeben.
 
-[^annex1-lvlu1-1]: [AS 2019 4289](https://fedlex.data.admin.ch/eli/oc/2019/741)
+[^annex1-lvlu1-1]: [AS 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
 
 Anhang 2*[^t-2]*
 
@@ -2424,7 +2424,7 @@ Anhang 2*[^t-2]*
 
 ## Höchstzahlen für Aufenthaltsbewilligungen
 
-[^t-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020 ([AS 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)). Bereinigt gemäss Ziff. II der V vom 25. Nov. 2020 (Höchstzahlen für Staatsangehörige des Vereinigten Königreichs), in Kraft seit 1. Jan. 2021 ([AS 2020 5861](https://fedlex.data.admin.ch/eli/oc/2020/985)).
+[^t-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 841](https://fedlex.data.admin.ch/eli/oc/2021/841)).
 
 \1. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20 werden insgesamt auf 4500 festgesetzt:
 
@@ -2432,25 +2432,25 @@ Anhang 2*[^t-2]*
 
 <table>
 <tr><td>Zürich 246</td><td>Schaffhausen 11</td></tr>
-<tr><td>Bern 149</td><td>Appenzell A.Rh. 6</td></tr>
+<tr><td>Bern 148</td><td>Appenzell A.Rh. 6</td></tr>
 <tr><td>Luzern 58</td><td>Appenzell I.Rh. 2</td></tr>
 <tr><td>Uri 4</td><td>St. Gallen 72</td></tr>
 <tr><td>Schwyz 20</td><td>Graubünden 31</td></tr>
-<tr><td>Obwalden 5</td><td>Aargau 83</td></tr>
+<tr><td>Obwalden 5</td><td>Aargau 82</td></tr>
 <tr><td>Nidwalden 6</td><td>Thurgau 33</td></tr>
-<tr><td>Glarus 5</td><td>Tessin 58</td></tr>
-<tr><td>Zug 27</td><td>Waadt 111</td></tr>
-<tr><td>Freiburg 36</td><td>Wallis 42</td></tr>
+<tr><td>Glarus 5</td><td>Tessin 59</td></tr>
+<tr><td>Zug 28</td><td>Waadt 111</td></tr>
+<tr><td>Freiburg 36</td><td>Wallis 43</td></tr>
 <tr><td>Solothurn 34</td><td>Neuenburg 26</td></tr>
-<tr><td>Basel-Stadt 47</td><td>Genf 90</td></tr>
-<tr><td>Basel-Landschaft 37</td><td>Jura 11</td></tr>
+<tr><td>Basel-Stadt 46</td><td>Genf 91</td></tr>
+<tr><td>Basel-Landschaft 36</td><td>Jura 11</td></tr>
 </table>
 
 - b. Höchstzahl für den Bund: 3250
 
-\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2021 bis zum 31. Dezember 2021.
+\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022.
 
-\3. Die durch die Änderung vom 27. November 2019[^annex2-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
+\3. Die durch die Änderung vom 25. November 2020[^annex2-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
 
 \4. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20*a* werden insgesamt auf 500 festgesetzt:
 
@@ -2459,9 +2459,9 @@ Anhang 2*[^t-2]*
 <tr><td>125</td><td>125</td><td>125</td><td>125</td></tr>
 </table>
 
-\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2021 bis zum 31. Dezember 2021 und werden quartalsweise freigegeben.
+\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 und werden quartalsweise freigegeben.
 
-\6. Die durch die Änderung vom 27. November 2019 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
+\6. Die durch die Änderung vom 25. November 2020 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
 
 \7. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20*b* werden insgesamt auf 2100 festgesetzt:
 
@@ -2470,9 +2470,9 @@ Anhang 2*[^t-2]*
 <tr><td>525</td><td>525</td><td>525</td><td>525</td></tr>
 </table>
 
-\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2021 bis zum 31. Dezember 2021 und werden quartalsweise freigegeben.
+\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 und werden quartalsweise freigegeben.
 
-[^annex2-lvlu1-1]: [AS 2019 4289](https://fedlex.data.admin.ch/eli/oc/2019/741)
+[^annex2-lvlu1-1]: [AS 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
 
 Anhang 3*[^t-3]*
 
