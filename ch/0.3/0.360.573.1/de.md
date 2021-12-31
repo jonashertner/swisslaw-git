@@ -3,11 +3,11 @@ sr: "0.360.573.1"
 title: Abkommen vom 7. April 2016 zwischen dem Schweizerischen Bundesrat und der Regierung von Montenegro über die polizeiliche Zusammenarbeit bei der Bekämpfung der Kriminalität
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/254"
 language: de
-version: 2018-04-05
+version: 2022-01-01
 adopted: 2016-04-07
 in_force: 2018-04-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/254/20180405/de/xml/fedlex-data-admin-ch-eli-cc-2018-254-20180405-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/254/20180405/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/254/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-254-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/254/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 29. September 2017[^t-1]
 
 In Kraft getreten durch Notenaustausch am 5. April 2018
 
-(Stand am 5. April 2018)
+(Stand am 1. Januar 2022)
 
 [^t-1]: [AS 2018 1711](https://fedlex.data.admin.ch/eli/oc/2018/253)
 
@@ -68,7 +68,7 @@ Die Umsetzung dieses Abkommens nach innerstaatlichem Recht liegt jeweils in der 
 
   - [tab] das Bundesamt für Polizei,
   - [tab] die kantonalen Polizeikorps,
-  - [tab] die Eidgenössische Zollverwaltung, vertreten durch
+  - [tab] die Eidgenössische Zollverwaltung[^2-1], vertreten durch
   - [tab] das Grenzwachtkorps und die Zollfahndung;
 
 - – für die Regierung von Montenegro:
@@ -77,6 +77,8 @@ Die Umsetzung dieses Abkommens nach innerstaatlichem Recht liegt jeweils in der 
 - die Direktion für Verhinderung der Geldwäscherei und Finanzierung des Terrorismus.
 
 <sup>3.</sup> Die Vertragsparteien unterrichten einander unverzüglich über jegliche Änderungen hinsichtlich der in den Absätzen 1 und 2 dieses Artikels aufgeführten zuständigen Behörden und verantwortlichen Dienststellen.
+
+[^2-1]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -242,7 +244,7 @@ Als observierende Beamte nach diesem Artikel gelten:
 
 <sup>3.</sup> Die Verbindungsbeamten sind beratend und unterstützend tätig. Sie nehmen keine hoheitlichen Befugnisse wahr. Sie erteilen Auskünfte und erledigen ihre Aufträge im Rahmen der ihnen von der entsendenden Vertragspartei erteilten Weisungen.
 
-[^15-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^15-1]: SR **0.191****.****01**
 
 ## Titel IV: Fürsorge, Verantwortlichkeit, Verfahren und Kosten
 

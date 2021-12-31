@@ -3,11 +3,11 @@ sr: "0.360.573.1"
 title: Accord du 7 avril 2016 entre le Conseil fédéral suisse et le Gouvernement du Monténégro sur la coopération policière en matière de lutte contre la criminalité
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/254"
 language: fr
-version: 2018-04-05
+version: 2022-01-01
 adopted: 2016-04-07
 in_force: 2018-04-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/254/20180405/fr/xml/fedlex-data-admin-ch-eli-cc-2018-254-20180405-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/254/20180405/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/254/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-254-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/254/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,13 +18,9 @@ RO **2018** 1713; FF **2016** 7913
 
 *Traduction*
 
-Conclu à Podgorica le 7 avril 2016
+Conclu à Podgorica le 7 avril 2016 Approuvé par l’Assemblée fédérale le 29 septembre 2017[^t-1] Entré en vigueur par échange de notes le 5 avril 2018
 
-Approuvé par l’Assemblée fédérale le 29 septembre 2017[^t-1]
-
-Entré en vigueur par échange de notes le 5 avril 2018
-
-(Etat le 5 avril 2018)
+(Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: [RO 2018 1711](https://fedlex.data.admin.ch/eli/oc/2018/253)
 
@@ -32,13 +28,13 @@ Le Conseil fédéral suisse et le Gouvernement du Monténégro
 
 ci-après dénommés les Parties contractantes,
 
-désireux de contribuer au renforcement des relations entre les deux Etats,
+désireux de contribuer au renforcement des relations entre les deux États,
 
 convaincus de l’importance que revêt la coopération policière pour combattre et prévenir la criminalité, en particulier dans les domaines de la criminalité organisée, du terrorisme, de la traite d’êtres humains et du trafic de stupéfiants, de substances psychotropes et de précurseurs chimiques,
 
 animés de la volonté de préciser et de développer la coopération policière entre les Parties contractantes,
 
-respectueux des droits et des devoirs des citoyens des deux Etats et
+respectueux des droits et des devoirs des citoyens des deux États et
 
 attentifs aux autres engagements internationaux des Parties contractantes,
 
@@ -56,7 +52,7 @@ Le présent Accord vise à renforcer la coopération policière bilatérale entr
 
 **Autorités compétentes et organes chargés de la mise en œuvre**
 
-<sup>1.</sup> Les autorités compétentes sont, pour le Conseil fédéral suisse, l’Office fédéral de la police et, pour le Gouvernement du Monténégro, le Ministère monténégrin de l’intérieur. Ces autorités agissent en tant qu’organes centraux nationaux et collaborent directement dans le cadre de leur compétence et selon les normes fixées par la législation propre à chaque Etat; elles coordonnent si nécessaire les activités des services concernés.
+<sup>1.</sup> Les autorités compétentes sont, pour le Conseil fédéral suisse, l’Office fédéral de la police et, pour le Gouvernement du Monténégro, le Ministère monténégrin de l’intérieur. Ces autorités agissent en tant qu’organes centraux nationaux et collaborent directement dans le cadre de leur compétence et selon les normes fixées par la législation propre à chaque État; elles coordonnent si nécessaire les activités des services concernés.
 
 <sup>2.</sup>
 
@@ -68,7 +64,7 @@ La mise en œuvre du présent Accord conformément au droit national interne rel
 
   - [tab] l’Office fédéral de la police,
   - [tab] les corps de police cantonaux,
-  - [tab] l’Administration fédérale des douanes, représentée par
+  - [tab] l’Administration fédérale des douanes[^2-1], représentée par
   - [tab] le Corps des gardes-frontière et la Section antifraude douanière;
 
 - –
@@ -80,6 +76,8 @@ La mise en œuvre du présent Accord conformément au droit national interne rel
   - [tab] la Direction de la prévention du blanchiment d’argent et de prévention du terrorisme.
 
 <sup>3.</sup> Les Parties contractantes s’informent sans délai mutuellement de tout changement concernant les autorités et organes compétents mentionnés aux par. 1 et 2 du présent article.
+
+[^2-1]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
@@ -120,7 +118,7 @@ Les Parties contractantes conviennent de renforcer leur coopération concernant 
 
 #### Art. 6
 
-**Echange d’informations**
+**Échange d’informations**
 
 Les autorités compétentes se prêtent assistance en échangeant des informations de nature policière, dont des données personnelles et non personnelles et de la documentation concernant:
 
@@ -163,7 +161,7 @@ Les demandes d’assistance peuvent concerner les domaines suivants:
 
 **Assistance spontanée**
 
-Dans des cas particuliers, les autorités compétentes des Parties contractantes peuvent, dans le respect de leur législation nationale, se communiquer mutuellement, sans requête préalable, les informations jugées importantes en vue d’aider l’autre Partie contractante à prévenir des infractions ou une menace concrète et immédiate pour la sécurité publique ainsi qu’en vue d’engager une poursuite pénale. L’Etat destinataire est tenu de vérifier l’utilité des informations reçues et, si elles ne sont pas considérées comme nécessaires, de les détruire spontanément ou de les renvoyer à l’Etat expéditeur.
+Dans des cas particuliers, les autorités compétentes des Parties contractantes peuvent, dans le respect de leur législation nationale, se communiquer mutuellement, sans requête préalable, les informations jugées importantes en vue d’aider l’autre Partie contractante à prévenir des infractions ou une menace concrète et immédiate pour la sécurité publique ainsi qu’en vue d’engager une poursuite pénale. L’État destinataire est tenu de vérifier l’utilité des informations reçues et, si elles ne sont pas considérées comme nécessaires, de les détruire spontanément ou de les renvoyer à l’État expéditeur.
 
 #### Art. 9
 
@@ -208,17 +206,17 @@ Les autorités compétentes se soutiennent mutuellement en matière de formation
 
 #### Art. 12
 
-**Equipes communes**
+**Équipes communes**
 
-Les autorités compétentes peuvent, selon les besoins, former en commun des équipes d’analyse, des groupes de travail et des groupes mixtes de contrôle, d’observation et d’enquête au sein desquels les agents des autorités et services compétents d’un Etat partie assument, lors de missions sur le territoire de l’autre Etat partie, des fonctions de conseil et d’assistance sans disposer du pouvoir de souveraineté. Pendant ces opérations, destinées exclusivement à soutenir l’autre Partie contractante, les agents respectent les instructions qui leur sont données par la Partie sur le territoire de laquelle ils opèrent.
+Les autorités compétentes peuvent, selon les besoins, former en commun des équipes d’analyse, des groupes de travail et des groupes mixtes de contrôle, d’observation et d’enquête au sein desquels les agents des autorités et services compétents d’un État partie assument, lors de missions sur le territoire de l’autre État partie, des fonctions de conseil et d’assistance sans disposer du pouvoir de souveraineté. Pendant ces opérations, destinées exclusivement à soutenir l’autre Partie contractante, les agents respectent les instructions qui leur sont données par la Partie sur le territoire de laquelle ils opèrent.
 
 #### Art. 13
 
 **Observation transfrontalière**
 
-<sup>1.</sup> Les agents d’une des Parties contractantes qui, dans le cadre d’une enquête, observent une personne présumée avoir participé à une infraction passible d’une peine d’emprisonnement d’au moins un an selon le droit de l’Etat requis, ou lorsqu’il existe de sérieuses raisons de penser qu’une personne observée peut participer, pour les besoins d’une enquête, à l’identification ou à la localisation de la personne présumée, sont autorisés à continuer cette observation sur le territoire de l’autre Partie contractante lorsque celle-ci a autorisé, si nécessaire, l’observation transfrontalière sur la base d’une demande d’entraide judiciaire présentée au préalable. Sur demande, l’observation sera confiée aux agents de la Partie requise.
+<sup>1.</sup> Les agents d’une des Parties contractantes qui, dans le cadre d’une enquête, observent une personne présumée avoir participé à une infraction passible d’une peine d’emprisonnement d’au moins un an selon le droit de l’État requis, ou lorsqu’il existe de sérieuses raisons de penser qu’une personne observée peut participer, pour les besoins d’une enquête, à l’identification ou à la localisation de la personne présumée, sont autorisés à continuer cette observation sur le territoire de l’autre Partie contractante lorsque celle-ci a autorisé, si nécessaire, l’observation transfrontalière sur la base d’une demande d’entraide judiciaire présentée au préalable. Sur demande, l’observation sera confiée aux agents de la Partie requise.
 
-<sup>2.</sup> Cette autorisation est valable pour l’ensemble du territoire de l’Etat requis et peut être assortie de conditions.
+<sup>2.</sup> Cette autorisation est valable pour l’ensemble du territoire de l’État requis et peut être assortie de conditions.
 
 <sup>3.</sup>
 
@@ -303,10 +301,10 @@ La protection des données personnelles échangées par les Parties contractante
 
 - a. Les données personnelles sensibles et les profils de la personnalité au sens de l’art. 6 de la Convention du Conseil de l’Europe du 28 janvier 1981 pour la protection des personnes à l’égard du traitement automatisé des données à caractère personnel[^20-1] ne peuvent être échangées que si cela s’avère absolument nécessaire et uniquement en relation avec d’autres données policières.
 - b. La Partie contractante destinataire ne peut utiliser les données transmises qu’aux fins pour lesquelles le présent Accord prévoit leur transmission et aux conditions prescrites par la Partie contractante expéditrice. L’utilisation de telles données à d’autres fins n’est possible qu’après autorisation préalable et écrite de la Partie expéditrice et dans le respect de la législation de la Partie destinataire.
-- c. A la demande de la Partie contractante expéditrice, la Partie contractante destinataire renseigne cette dernière sur l’utilisation qu’elle a faite des données et sur les résultats ainsi obtenus.
+- c. À la demande de la Partie contractante expéditrice, la Partie contractante destinataire renseigne cette dernière sur l’utilisation qu’elle a faite des données et sur les résultats ainsi obtenus.
 - d. Les données sont utilisées par les autorités judiciaires ou policières ou par une autre autorité de prévention de la criminalité ou de lutte contre celle-ci, désignée par les Parties contractantes. Celles-ci se communiquent la liste des autorités compétentes pour l’utilisation des données. La transmission ultérieure des données à d’autres autorités est subordonnée au consentement préalable écrit de la Partie contractante expéditrice.
-- e. La Partie contractante expéditrice garantit l’exactitude des données fournies et s’assure de leur nécessité et de leur adéquation avec le but poursuivi par la communication. A cet égard, elle se conforme aux éventuelles restrictions de transmission prévues par sa législation nationale. S’il s’avère que des données inexactes ou non autorisées ont été transmises ou que des données ont été transmises indûment, la Partie contractante destinataire doit en être aussitôt informée. Cette dernière est alors tenue de rectifier ou de détruire les données en cause.
-- f. A sa demande, la personne concernée est renseignée sur les données transmises la concernant et sur l’utilisation qui en est prévue. Le droit de la personne concernée à être renseignée est régi par le droit national de la Partie contractante auprès de laquelle la demande a été déposée. Si une personne désire recevoir des informations sur les données qui ont été transmises par l’autre Partie contractante, cette demande n’est recevable qu’après obtention de l’accord préalable et écrit de la Partie contractante qui a transmis les données.
+- e. La Partie contractante expéditrice garantit l’exactitude des données fournies et s’assure de leur nécessité et de leur adéquation avec le but poursuivi par la communication. À cet égard, elle se conforme aux éventuelles restrictions de transmission prévues par sa législation nationale. S’il s’avère que des données inexactes ou non autorisées ont été transmises ou que des données ont été transmises indûment, la Partie contractante destinataire doit en être aussitôt informée. Cette dernière est alors tenue de rectifier ou de détruire les données en cause.
+- f. À sa demande, la personne concernée est renseignée sur les données transmises la concernant et sur l’utilisation qui en est prévue. Le droit de la personne concernée à être renseignée est régi par le droit national de la Partie contractante auprès de laquelle la demande a été déposée. Si une personne désire recevoir des informations sur les données qui ont été transmises par l’autre Partie contractante, cette demande n’est recevable qu’après obtention de l’accord préalable et écrit de la Partie contractante qui a transmis les données.
 - g. Au moment de la transmission des données, la Partie contractante expéditrice peut indiquer à l’autre Partie contractante les délais d’effacement prescrits par son droit national. Indépendamment de ces délais, les données sont effacées dès qu’elles ne sont plus nécessaires au but dans lequel elles avaient été communiquées. La Partie contractante expéditrice doit être informée de l’effacement des données qu’elle avait transmises et des raisons de cet effacement. En cas de dénonciation du présent Accord, toutes les données transmises sur la base de cet Accord doivent être détruites.
 - h. Les Parties contractantes sont tenues de consigner dans un procès-verbal la transmission, la réception et l’effacement des données. Ce procès-verbal indiquera en particulier l’utilisation qu’il était prévu de faire de ces données, les autorités concernées et les raisons de leur effacement.
 - i. La Partie contractante destinataire ne peut invoquer le fait que l’autre Partie contractante ait transmis des données inexactes ou qu’elle ait transmis ces données indûment pour se décharger de sa responsabilité, conformément à son droit national, à l’égard de la personne lésée. Si la Partie contractante destinataire est tenue à réparation en raison de l’utilisation de données inexactes ou indûment transmises, la Partie contractante expéditrice rembourse à la Partie contractante destinataire l’intégralité du montant alloué à titre de réparation.
@@ -320,7 +318,7 @@ La protection des données personnelles échangées par les Parties contractante
 
 <sup>1.</sup> Lors de la transmission d’informations classifiées en vertu de son droit national, la Partie contractante expéditrice fixe les conditions d’utilisation de celles-ci. L’autre Partie contractante respecte la protection requise pour ces informations classifiées. La Partie contractante expéditrice peut décider en tout temps de modifier ces conditions d’utilisation ou de renoncer à la classification.
 
-<sup>2.</sup> Les informations classifiées ne peuvent être utilisées que par les autorités et services compétents mentionnés à l’art. 2, habilités à traiter de telles informations au sens de l’art. 20, let. d. La transmission ultérieure de ces informations à d’autres autorités ou à des Etats tiers est subordonnée au consentement préalable et écrit de la Partie contractante expéditrice. Le traitement de telles informations est réservé aux personnes qui en ont besoin pour l’accomplissement des tâches qui leur incombent et qui disposent d’une autorisation d’accès en vertu des prescriptions du droit national.
+<sup>2.</sup> Les informations classifiées ne peuvent être utilisées que par les autorités et services compétents mentionnés à l’art. 2, habilités à traiter de telles informations au sens de l’art. 20, let. d. La transmission ultérieure de ces informations à d’autres autorités ou à des États tiers est subordonnée au consentement préalable et écrit de la Partie contractante expéditrice. Le traitement de telles informations est réservé aux personnes qui en ont besoin pour l’accomplissement des tâches qui leur incombent et qui disposent d’une autorisation d’accès en vertu des prescriptions du droit national.
 
 <sup>3.</sup> Toute violation en relation avec une information classifiée doit être immédiatement communiquée par écrit à la Partie contractante expéditrice.
 

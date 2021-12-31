@@ -3,11 +3,11 @@ sr: "0.360.573.1"
 title: Accordo del 7 aprile 2016 tra il Consiglio federale svizzero e il Governo del Montenegro sulla cooperazione di polizia nella lotta contro la criminalità
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/254"
 language: it
-version: 2018-04-05
+version: 2022-01-01
 adopted: 2016-04-07
 in_force: 2018-04-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/254/20180405/it/xml/fedlex-data-admin-ch-eli-cc-2018-254-20180405-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/254/20180405/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/254/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-254-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/254/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2018** 1713; FF **2016** 7291
 
 *Traduzione*
 
-Concluso a Podgorica il 7 aprile 2016
+Concluso a Podgorica il 7 aprile 2016 Approvato dall’Assemblea federale il 29 settembre 2017[^t-1] Entrato in vigore mediante scambio di note il 5 aprile 2018
 
-Approvato dall’Assemblea federale il 29 settembre 2017[^t-1]
-
-Entrato in vigore mediante scambio di note il 5 aprile 2018
-
-(Stato 5 aprile 2018)
+(Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 [^t-1]: [RU 2018 1711](https://fedlex.data.admin.ch/eli/oc/2018/253)
 
@@ -68,7 +64,7 @@ L’attuazione del presente Accordo conformemente al rispettivo diritto nazional
 
   - [tab] l’Ufficio federale di polizia,
   - [tab] i corpi cantonali di polizia,
-  - [tab] l’Amministrazione federale delle dogane, rappresentata
+  - [tab] l’Amministrazione federale delle dogane[^2-1], rappresentata
   - [tab] dal Corpo delle guardie di confine e dalla Sezione antifrode doganale;
 
 - –
@@ -80,6 +76,8 @@ L’attuazione del presente Accordo conformemente al rispettivo diritto nazional
   - [tab] la Direzione per la prevenzione del riciclaggio di denaro e del finanziamento del terrorismo.
 
 <sup>3.</sup> Ciascuna Parte contraente comunica senza indugio all’altra Parte contraente ogni modifica concernente le autorità e i servizi competenti menzionati nei paragrafi 1 e 2 del presente articolo.
+
+[^2-1]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 3
 
