@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2021-12-01
+version: 2022-01-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20211201/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Dezember 2021)
+vom 26. Oktober 2011 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 20 Absätze 1–3, 21 Absätze 2 und 4, 24 Absatz 1, 177 und 185 Absatz 3 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG), Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2], die Artikel 15 Absatz 2 und 130 des Zollgesetzes vom 18. März 2005[^ingress-3] und die Artikel 4 Absatz 3 Buchstabe c sowie 10 Absätze 1 und 3 des Zolltarifgesetzes vom 9. Oktober 1986[^ingress-4],
+gestützt auf die Artikel 20 Absätze 1–3, 21 Absätze 2 und 4, 24 Absatz 1, 177 und 185 Absatz 3 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-1] (LwG), die Artikel 15 Absatz 2 und 130 des Zollgesetzes vom 18. März 2005[^ingress-2] und die Artikel 4 Absatz 3 Buchstabe c sowie 10 Absätze 1 und 3 des Zolltarifgesetzes vom 9. Oktober 1986[^ingress-3],[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-4]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^ingress-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-3]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -90,7 +90,7 @@ Das BLW überprüft die Zollansätze monatlich und setzt sie so fest, dass:
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 [^5-2]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^5-3]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft vom 1. Okt. 2021 bis zum 31. Dez. 2021 ([AS 2021 513](https://fedlex.data.admin.ch/eli/oc/2021/513)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft vom 1. Okt. 2021 bis zum 28. Febr. 2022 ([AS 2021 513](https://fedlex.data.admin.ch/eli/oc/2021/513), [679](https://fedlex.data.admin.ch/eli/oc/2021/679)).
 
 #### Art. 6
 
@@ -272,7 +272,7 @@ Wird durch die Zuteilung die ausgeschriebene Zollkontingentsmenge nicht voll aus
 
 <sup>2</sup> 2 Die Zahlungsfrist beträgt 90 Tage ab dem Ausstelldatum der Verfügung.
 
-<sup>3</sup> und <sup>4</sup> ...[^19-1]
+<sup>3</sup> und <sup>4</sup> …[^19-1]
 
 <sup>5</sup> Ausnahmen sind in den marktordnungsspezifischen Produkteverordnungen geregelt.
 
@@ -450,9 +450,10 @@ Das BLW berechnet die Zollansätze für die in Anhang 2 bezeichneten Erzeugnisse
 
 <sup>3</sup> Erreicht ein Verarbeitungsbetrieb die in Artikel 30 Absatz 2 festgelegten Mindestausbeuten aus qualitativen Gründen nicht, so ist auf der Differenzmenge der im Zeitpunkt der Entstehung der Zollschuld gültige Zollansatz der Tarifnummer 1101.0059 nachzuzahlen. Ist dieser Zeitpunkt nicht feststellbar, so wird der höchste im entsprechenden Kalenderquartal angewendete Zollansatz verrechnet.
 
-<sup>4</sup> Die EZV entscheidet über die Nachzahlung aufgrund der Meldungen der Verarbeitungsbetriebe oder der von ihr veranlassten Kontrollen in den Verarbeitungsbetrieben.
+<sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^32-2] entscheidet über die Nachzahlung aufgrund der Meldungen der Verarbeitungsbetriebe oder der von ihm veranlassten Kontrollen in den Verarbeitungsbetrieben.
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
+[^32-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 33
 
@@ -477,9 +478,9 @@ Die Bestimmungen dieses Abschnitts gelten für:
 
 <sup>1</sup> Anteile am Teilzollkontingent Nr. 07.1 werden nach dem Reglement vom 22. Dezember 1933[^35-1] über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz an die Kontingentsanteilsberechtigten zugeteilt.
 
-<sup>2</sup> Das Teilzollkontingent Nr. 07.2 wird in zwei Tranchen versteigert, die erste Tranche von 100 Tonnen zur Einfuhr innerhalb der ganzen Kontingentsperiode, die zweite Tranche von 200 Tonnen zur Einfuhr innerhalb des zweiten Semesters der Kontingentsperiode.
+<sup>2</sup> Das Teilzollkontingent Nr. 07.2 wird versteigert.[^35-2]
 
-<sup>3</sup> Anteile am Teilzollkontingent Nr. 07.3 werden nach der Reihenfolge des Eingangs der Gesuche zugeteilt.[^35-2]
+<sup>3</sup> Anteile am Teilzollkontingent Nr. 07.3 werden nach der Reihenfolge des Eingangs der Gesuche zugeteilt.[^35-3]
 
 <sup>4</sup> Das Teilzollkontingent Nr. 07.4 von 100 Tonnen wird versteigert. Butter im Rahmen des Teilzollkontingents Nr. 07.4 darf nur in Grossgebinden von mindestens 25 Kilogramm eingeführt werden.
 
@@ -490,7 +491,8 @@ Die Bestimmungen dieses Abschnitts gelten für:
 <sup>7</sup> Beim Zollkontingent Nr. 08 wird auf eine Regelung zur Verteilung verzichtet.
 
 [^35-1]: [SR 0.631.256.934.953](https://fedlex.data.admin.ch/eli/cc/49/1002_1027_)
-[^35-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^35-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 #### Art. 35a
 
@@ -547,11 +549,12 @@ Das Zollkontingent Nr. 14 für Kartoffeln und Kartoffelprodukte wird in folgende
 
 Es teilt das Teilzollkontingent Nr. 14.4 (Kartoffelprodukte) in folgende Warenkategorien auf:
 
-- a. Halbfabrikate zur Herstellung von Produkten der Tarifnummern 2103.9000 und 2104.1000;
-- b. andere Halbfabrikate;
-- c. Fertigprodukte.
+- a. Halbfabrikate;
+- b. Fertigprodukte.[^37-1]
 
 <sup>3</sup> Die Zuordnung der Tarifnummern zu den einzelnen Warenkategorien des Teilzollkontingents Nr. 14.4 ist in Anhang 1 Ziffer 9 geregelt.
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
 #### Art. 38
 
@@ -584,9 +587,15 @@ Anteile am Teilzollkontingent Nr. 14.3 (Speisekartoffeln) werden wie folgt verte
 
 <sup>5</sup> Der Marktanteil einer Kontingentsanteilsberechtigten ist ihr prozentualer Anteil an der Summe aus den Einfuhrmengen zum KZA und zum AKZA und den rechtmässig geltend gemachten Inlandleistungen aller Kontingentsanteilsberechtigten während der Bemessungsperiode nach Artikel 41 Absatz 2.[^40-1]
 
-<sup>6</sup> Anteile am Teilzollkontingent Nr. 14.4 (Kartoffelprodukte) werden versteigert. Für Halbfabrikate nach Artikel 37 Absatz 2 Buchstabe a sind nur Personen kontingentsanteilsberechtigt, die diese Produkte im eigenen Betrieb weiterverarbeiten.
+<sup>6</sup>
+
+Anteile am Teilzollkontingent Nr. 14.4 werden wie folgt zugeteilt:
+
+- a. für Halbfabrikate (Art. 37 Abs. 2 Bst. a): nach der Reihenfolge der Annahme der Zollanmeldung;
+- b. für Fertigprodukte (Art. 37 Abs. 2 Bst. b): durch Versteigerung.[^40-2]
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^40-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
 #### Art. 41
 
@@ -652,7 +661,7 @@ Das BLW kann auf Gesuch hin einmalige Einfuhren in geringen Mengen und aufgrund 
 
 <sup>3</sup> Die Einfuhren nach Absatz 2 werden nicht an die zu verteilende Zollkontingentsmenge angerechnet.
 
-<sup>4</sup> Das BLW kann im Einvernehmen mit der EZV die Kompetenz für die Erteilung von Bewilligungen nach Absatz 2 ganz oder teilweise an die Zollstellen delegieren.
+<sup>4</sup> Das BLW kann im Einvernehmen mit dem BAZG die Kompetenz für die Erteilung von Bewilligungen nach Absatz 2 ganz oder teilweise an die Zollstellen delegieren.
 
 #### Art. 47
 
@@ -683,17 +692,15 @@ Das BLW kann auf Gesuch hin einmalige Einfuhren in geringen Mengen und aufgrund 
 
 #### Art. 50
 
-**Gebührenpflicht und Gebührensätze**[^50-1]
+[^50-1]
 
-Einfuhren mit GEB sind gebührenpflichtig. Es gelten die Gebührensätze nach Anhang 6.
-
-[^50-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)).
+[^50-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 
 #### Art. 51
 
 **Schutzmassnahmen**
 
-<sup>1</sup> Das WBF trifft im Einvernehmen mit dem Eidgenössischen Finanzdepartement (EZV) die erforderlichen organisatorischen Massnahmen für eine rechtzeitige und wirksame Anwendung der Schutzklauseln aus internationalen Abkommen im Agrarbereich.
+<sup>1</sup> Das WBF trifft im Einvernehmen mit dem Eidgenössischen Finanzdepartement (dem BAZG) die erforderlichen organisatorischen Massnahmen für eine rechtzeitige und wirksame Anwendung der Schutzklauseln aus internationalen Abkommen im Agrarbereich.
 
 <sup>2</sup> Fällt aus Gründen der zeitlichen Dringlichkeit die Einholung des Entscheids des Bundesrats ausser Betracht, so entscheidet das WBF über die Anwendung.
 
@@ -709,7 +716,7 @@ Einfuhren mit GEB sind gebührenpflichtig. Es gelten die Gebührensätze nach An
 
 <sup>1</sup> Das BLW vollzieht diese Verordnung, soweit damit nicht andere Behörden beauftragt sind.
 
-<sup>2</sup> Die EZV vollzieht diese Verordnung an der Grenze und stellt dem BLW die Daten über die eingeführten Mengen landwirtschaftlicher Erzeugnisse zur Verfügung.
+<sup>2</sup> Das BAZG vollzieht diese Verordnung an der Grenze und stellt dem BLW die Daten über die eingeführten Mengen landwirtschaftlicher Erzeugnisse zur Verfügung.
 
 #### Art. 53
 
@@ -719,7 +726,7 @@ Einfuhren mit GEB sind gebührenpflichtig. Es gelten die Gebührensätze nach An
 
 <sup>2</sup> Die Änderung bisherigen Rechts wird in Anhang 7 geregelt.
 
-[^53-1]: [[AS 1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125), [1999 3628](https://fedlex.data.admin.ch/eli/oc/1999/529), [2000 384](https://fedlex.data.admin.ch/eli/oc/2000/77)[2838](https://fedlex.data.admin.ch/eli/oc/2000/483), [2001 299](https://fedlex.data.admin.ch/eli/oc/2001/62)[2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 14 [2583](https://fedlex.data.admin.ch/eli/oc/2001/388), [2002 1482](https://fedlex.data.admin.ch/eli/oc/2002/233)[1789](https://fedlex.data.admin.ch/eli/oc/2002/272)[2506](https://fedlex.data.admin.ch/eli/oc/2002/334)[3486](https://fedlex.data.admin.ch/eli/oc/2002/519), [2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)Anhang Ziff. 6 [5397](https://fedlex.data.admin.ch/eli/oc/2003/783), [2004 3055](https://fedlex.data.admin.ch/eli/oc/2004/395), [2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)Anhang Ziff. 5, [2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)Anhang Ziff. 5 [889](https://fedlex.data.admin.ch/eli/oc/2006/156)[2507](https://fedlex.data.admin.ch/eli/oc/2006/387)[2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 11 [4845](https://fedlex.data.admin.ch/eli/oc/2006/749), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 49 [2327](https://fedlex.data.admin.ch/eli/oc/2007/324)[3417](https://fedlex.data.admin.ch/eli/oc/2007/417)Ziff. III 2 [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 62 [4631](https://fedlex.data.admin.ch/eli/oc/2007/647)[4971](https://fedlex.data.admin.ch/eli/oc/2007/694)[6225](https://fedlex.data.admin.ch/eli/oc/2007/829), [2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)[3817](https://fedlex.data.admin.ch/eli/oc/2008/515), [2009 1265](https://fedlex.data.admin.ch/eli/oc/2009/198)[2585](https://fedlex.data.admin.ch/eli/oc/2009/341)[5871](https://fedlex.data.admin.ch/eli/oc/2009/716), [2010 727](https://fedlex.data.admin.ch/eli/oc/2010/114)[2323](https://fedlex.data.admin.ch/eli/oc/2010/337)[3565](https://fedlex.data.admin.ch/eli/oc/2010/515)[5539](https://fedlex.data.admin.ch/eli/oc/2010/795), [2011 2395](https://fedlex.data.admin.ch/eli/oc/2011/344)[4389](https://fedlex.data.admin.ch/eli/oc/2011/603)[4463](https://fedlex.data.admin.ch/eli/oc/2011/614)[4773](https://fedlex.data.admin.ch/eli/oc/2011/678)[5313](https://fedlex.data.admin.ch/eli/oc/2011/768)[5317](https://fedlex.data.admin.ch/eli/oc/2011/769)]
+[^53-1]: [[AS 1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125); [1999 3628](https://fedlex.data.admin.ch/eli/oc/1999/529); [2000 384](https://fedlex.data.admin.ch/eli/oc/2000/77), [2838](https://fedlex.data.admin.ch/eli/oc/2000/483); [2001 299](https://fedlex.data.admin.ch/eli/oc/2001/62), [2091](https://fedlex.data.admin.ch/eli/oc/2001/305)Anhang Ziff. 14, [2583](https://fedlex.data.admin.ch/eli/oc/2001/388); [2002 1482](https://fedlex.data.admin.ch/eli/oc/2002/233), [1789](https://fedlex.data.admin.ch/eli/oc/2002/272), [2506](https://fedlex.data.admin.ch/eli/oc/2002/334), [3486](https://fedlex.data.admin.ch/eli/oc/2002/519); [2003 529](https://fedlex.data.admin.ch/eli/oc/2003/113)Anhang Ziff. 6, [5397](https://fedlex.data.admin.ch/eli/oc/2003/783); [2004 3055](https://fedlex.data.admin.ch/eli/oc/2004/395); [2005 503](https://fedlex.data.admin.ch/eli/oc/2005/62)Anhang Ziff. 5; [2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)Anhang Ziff. 5, [889](https://fedlex.data.admin.ch/eli/oc/2006/156), [2507](https://fedlex.data.admin.ch/eli/oc/2006/387), [2995](https://fedlex.data.admin.ch/eli/oc/2006/464)Anhang 4 Ziff. II 11, [4845](https://fedlex.data.admin.ch/eli/oc/2006/749); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 49, [2327](https://fedlex.data.admin.ch/eli/oc/2007/324), [3417](https://fedlex.data.admin.ch/eli/oc/2007/417)Ziff. III 2, [4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 62, [4631](https://fedlex.data.admin.ch/eli/oc/2007/647), [4971](https://fedlex.data.admin.ch/eli/oc/2007/694), [6225](https://fedlex.data.admin.ch/eli/oc/2007/829); [2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459), [3817](https://fedlex.data.admin.ch/eli/oc/2008/515); [2009 1265](https://fedlex.data.admin.ch/eli/oc/2009/198), [2585](https://fedlex.data.admin.ch/eli/oc/2009/341), [5871](https://fedlex.data.admin.ch/eli/oc/2009/716); [2010 727](https://fedlex.data.admin.ch/eli/oc/2010/114), [2323](https://fedlex.data.admin.ch/eli/oc/2010/337), [3565](https://fedlex.data.admin.ch/eli/oc/2010/515), [5539](https://fedlex.data.admin.ch/eli/oc/2010/795); [2011 2395](https://fedlex.data.admin.ch/eli/oc/2011/344), [4389](https://fedlex.data.admin.ch/eli/oc/2011/603), [4463](https://fedlex.data.admin.ch/eli/oc/2011/614), [4773](https://fedlex.data.admin.ch/eli/oc/2011/678), [5313](https://fedlex.data.admin.ch/eli/oc/2011/768), [5317](https://fedlex.data.admin.ch/eli/oc/2011/769)]
 
 #### Art. 54
 
@@ -762,7 +769,7 @@ Anhang 1*[^t-1]*
 
 ## Verzeichnis der anwendbaren Zollansätze bei der Einfuhr von landwirtschaftlichen Erzeugnissen mit Angabe der GEB-Pflicht, der Importrichtwerte und der Zuordnung zu den marktordnungsspezifischen Vorschriften, zu den Gruppen der Schwellenpreise sowie zu den Zoll- oder Teilzollkontingenten
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), Anhang der V vom 2. April 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), Anhang 3 Ziff. 11 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V des WBF vom 16. Sept. 2016 ([AS 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), Ziff. I der V des BLW vom 19. Mai 2017 ([AS 2017 3235](https://fedlex.data.admin.ch/eli/oc/2017/328)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), vom 30. Nov. 2018 ([AS 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)), Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), Ziff. I der V des BLW vom 18. Sept. 2020 ([AS 2020 3869](https://fedlex.data.admin.ch/eli/oc/2020/717)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)) und Ziff. I der V des BLW vom 20. Sept. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 583](https://fedlex.data.admin.ch/eli/oc/2021/583)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), Anhang der V vom 2. April 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), Anhang 3 Ziff. 11 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V des WBF vom 16. Sept. 2016 ([AS 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), vom 30. Nov. 2018 ([AS 2018 4693](https://fedlex.data.admin.ch/eli/oc/2018/743)), Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), Ziff. I der V des BLW vom 18. Sept. 2020 ([AS 2020 3869](https://fedlex.data.admin.ch/eli/oc/2020/717)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 20. Sept. 2021 ([AS 2021 583](https://fedlex.data.admin.ch/eli/oc/2021/583)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)) und Ziff. I der V des BLW vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 921](https://fedlex.data.admin.ch/eli/oc/2021/921)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -792,14 +799,14 @@ Das Zollkontingent wird nach der Reihenfolge der Annahme der Zollanmeldungen zug
 
 ### 2. Marktordnung Zucht- und Nutztiere und Samen von Stieren
 
-Für die Einfuhr der aufgeführten Tiere und für Rindersperma ist eine GEB erforderlich. Ausnahmen sind in Artikel 31 der Tierzuchtverordnung vom 31. Oktober 2012 (TZV; SR *916.310*) geregelt.
+Für die Einfuhr der aufgeführten Tiere ist eine GEB erforderlich. Ausnahmen sind in Artikel 31 der Tierzuchtverordnung vom 31. Oktober 2012 (TZV; SR *916.310*) geregelt. Für die Einfuhr von Samen von Stieren ist keine GEB erforderlich.
 
 Marktordnungsspezifische Vorschriften wie die Verteilung der Zollkontingente sind in der TZV geregelt.
 
 [1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.
 
 <table>
-<tr><td>Tarifnummer</td><td>Zollansatz **[1]** (CHF)</td><td></td><td>Anzahl Stück/ Dosen ohne GEB-Pflicht</td><td>(Teil-) Zollkontingent (Nr)</td></tr>
+<tr><td>Tarifnummer</td><td>Zollansatz **[1]** (CHF)</td><td></td><td>Anzahl Stück ohne GEB-Pflicht</td><td>(Teil-)Zollkontingent (Nr)</td></tr>
 <tr><td></td><td>je Stück:</td><td></td><td></td><td></td></tr>
 <tr><td>0102.2110</td><td></td><td></td><td>0</td><td>02</td></tr>
 <tr><td>0102.2191</td><td>**1500.00**</td><td></td><td>0</td><td></td></tr>
@@ -819,8 +826,7 @@ Marktordnungsspezifische Vorschriften wie die Verteilung der Zollkontingente sin
 <tr><td>0104.1010</td><td>**5.00**</td><td></td><td>0</td><td>04.1</td></tr>
 <tr><td>0104.2010</td><td>**3.00**</td><td></td><td>0</td><td>04.2</td></tr>
 <tr><td></td><td>je Dose/Anwendungseinheit:</td><td></td><td></td><td></td></tr>
-<tr><td>0511.1010</td><td></td><td></td><td>0</td><td>12</td></tr>
-<tr><td>0511.1090</td><td></td><td></td><td>0</td><td></td></tr>
+<tr><td>0511.1010</td><td></td><td></td><td>keine GEB-Pflicht</td><td>12</td></tr>
 </table>
 
 ### 3. Marktordnung Schlachttiere, Fleisch von Tieren der Rindvieh-, Pferde-, Schaf-, Ziegen- und Schweinegattung sowie Geflügel
@@ -1204,40 +1210,38 @@ Marktordnungsspezifische Vorschriften wie die Verteilung der Zoll- und Teilzollk
 
 [4-3] Produkte, die innerhalb des Teilzollkontingents Nr. 07.3 eingeführt werden, dürfen ausschliesslich zur menschlichen Ernährung verwendet werden.
 
-[4-4] Für anderes als Säurekasein ist keine GEB erforderlich.
-
 <table>
-<tr><th>Tarifnummer</th><th></th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>(Teil-)Zollkontingent (Nr)</th><th>Ergänzungen</th></tr>
+<tr><th>Tarifnummer</th><th></th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>(Teil-)Zollkontingent (Nr.)</th><th>Ergänzungen</th></tr>
 <tr><td>0401.1010</td><td></td><td></td><td></td><td>0</td><td>07.1</td><td></td></tr>
 <tr><td>0401.2010</td><td></td><td></td><td></td><td>0</td><td>07.1</td><td></td></tr>
-<tr><td>0401.4000</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0401.5010</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0401.5020</td><td></td><td>**1340.00**</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0402.1000</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
+<tr><td>0401.4000</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0401.5010</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0401.5020</td><td></td><td>**1340.00**</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0402.1000</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
 <tr><td>0402.2111</td><td></td><td></td><td></td><td>0</td><td>07.2</td><td></td></tr>
-<tr><td>0402.2120</td><td></td><td>**1340.00**</td><td></td><td>20</td><td>07.6</td><td></td></tr>
+<tr><td>0402.2120</td><td></td><td>**1340.00**</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
 <tr><td>0402.2911</td><td></td><td></td><td></td><td>0</td><td>07.2</td><td></td></tr>
-<tr><td>0402.2920</td><td></td><td>**1340.00**</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0402.9110</td><td></td><td>**223.00**</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0402.9120</td><td></td><td>**1340.00**</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0402.9910</td><td></td><td>**223.00**</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0402.9920</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0403.1020</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
-<tr><td>0403.1091</td><td></td><td></td><td></td><td>0</td><td>07.3</td><td>[4-3]</td></tr>
-<tr><td>0403.9031</td><td></td><td>bT [4-1]</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0403.9039</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
+<tr><td>0402.2920</td><td></td><td>**1340.00**</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0402.9110</td><td></td><td>**223.00**</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0402.9120</td><td></td><td>**1340.00**</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0402.9910</td><td></td><td>**223.00**</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0402.9920</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0403.2011</td><td></td><td></td><td></td><td>0</td><td>07.3</td><td>[4-3]</td></tr>
+<tr><td>0403.2099</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0403.9031</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0403.9039</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
 <tr><td>0403.9041</td><td></td><td>bT [4-1]</td><td></td><td>0</td><td>07.3</td><td>[4-3]</td></tr>
 <tr><td>0403.9051</td><td></td><td></td><td></td><td>0</td><td>07.3</td><td>[4-3]</td></tr>
-<tr><td>0403.9061</td><td></td><td>bT [4-1]</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0403.9069</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0403.9072</td><td></td><td>bT [4-1]</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0403.9079</td><td></td><td>bT [4-1]</td><td></td><td>20</td><td>07.6</td><td></td></tr>
+<tr><td>0403.9061</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0403.9069</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0403.9072</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0403.9079</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
 <tr><td>0403.9091</td><td></td><td>**18.00**</td><td></td><td>0</td><td>07.3</td><td>[4-3]</td></tr>
-<tr><td>0404.1000</td><td></td><td>**170.00**</td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0404.9011</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
-<tr><td>0404.9019</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
+<tr><td>0404.1000</td><td></td><td>**170.00**</td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0404.9011</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
+<tr><td>0404.9019</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
 <tr><td>0404.9081</td><td></td><td></td><td></td><td>0</td><td>07.3</td><td>[4-3]</td></tr>
-<tr><td>0404.9099</td><td></td><td></td><td></td><td>20</td><td>07.6</td><td></td></tr>
+<tr><td>0404.9099</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
 <tr><td>0405.1011</td><td></td><td></td><td></td><td>0</td><td>07.4</td><td></td></tr>
 <tr><td>0405.1091</td><td></td><td></td><td></td><td>0</td><td>07.4</td><td></td></tr>
 <tr><td>0405.2011</td><td></td><td>bT [4-1]</td><td></td><td>0</td><td>07.3</td><td>[4-3]</td></tr>
@@ -1269,7 +1273,7 @@ Marktordnungsspezifische Vorschriften wie die Verteilung der Zoll- und Teilzollk
 <tr><td>0406.9060</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
 <tr><td>0406.9091</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
 <tr><td>0406.9099</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>07.6</td><td></td></tr>
-<tr><td>3501.1010</td><td></td><td>bT [4-1]</td><td></td><td>0</td><td>08</td><td>[4-4]</td></tr>
+<tr><td>3501.1010</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>08</td><td></td></tr>
 <tr><td>3501.9011</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>08</td><td></td></tr>
 <tr><td>3501.9019</td><td></td><td>bT [4-1]</td><td></td><td>keine GEB-Pflicht</td><td>08</td><td></td></tr>
 </table>
@@ -1344,7 +1348,7 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist keine GEB erforderlich. Markt
 
 [1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.
 
-[7-1] 60 000 Stück können innerhalb des Zollkontingents Nr. 104 nach Freihadelsverordnung 1 vom 18. Juni 2008 (SR *632.421.0*) zum Nullzoll eingeführt werden. Das präferenzielle Zollkontingent wird gestaffelt freigegeben (Art. 18*a* VEAGOG) und nach der Reihenfolge der Annahme der Zollanmeldungen zugeteilt.
+[7-1] 60 000 Stück können innerhalb des Zollkontingents Nr. 104 nach Anhang 3 der Freihandelsverordnung 1 vom 18. Juni 2008 (SR *632.421.0*) zum Nullzoll eingeführt werden. Das präferenzielle Zollkontingent wird gestaffelt freigegeben (Art. 18*a* VEAGOG) und nach der Reihenfolge der Annahme der Zollanmeldungen zugeteilt.
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Zollkontingent (Nr)</th></tr>
@@ -1369,22 +1373,22 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist keine GEB erforderlich.
 Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 - **[1]** Aufgeführt sind vom Generaltarif abweichende Zollansätze. **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
-- [8-1] Auf eine Regelung zur Verteilung des Zollkontingents Nr. 13 wird verzichtet, jede Einfuhr wird zum KZA zugelassen (Art. 26 AEV; Art. 12 VEAGOG [SR *916.121.10*]). Das Zollkontingent Nr. 105 nach Anhang 2 der Freihandelsverordnung 1 vom 18. Juni 2008 (SR *632.421.0*) wird nach der Reihenfolge der Annahme der Zollanmeldungen zugeteilt.
+- [8-1] Auf eine Regelung zur Verteilung des Zollkontingents Nr. 13 wird verzichtet, jede Einfuhr wird zum KZA zugelassen (Art. 26 AEV; Art. 12 VEAGOG [SR *916.121.10*]).
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Zollkontingent (Nr.) [8-1]</th></tr>
-<tr><td>0603.1110</td><td>**12.50**</td><td></td><td>13, 105</td></tr>
+<tr><td>0603.1110</td><td>**12.50**</td><td></td><td>13</td></tr>
 <tr><td>0603.1120</td><td>**12.50**</td><td></td><td></td></tr>
-<tr><td>0603.1210</td><td></td><td></td><td>13, 105</td></tr>
+<tr><td>0603.1210</td><td></td><td></td><td>13</td></tr>
 <tr><td>0603.1220</td><td>**25.00**</td><td></td><td></td></tr>
-<tr><td>0603.1310</td><td></td><td></td><td>13, 105</td></tr>
+<tr><td>0603.1310</td><td></td><td></td><td>13</td></tr>
 <tr><td>0603.1320</td><td>**25.00**</td><td></td><td></td></tr>
-<tr><td>0603.1410</td><td></td><td></td><td>13, 105</td></tr>
+<tr><td>0603.1410</td><td></td><td></td><td>13</td></tr>
 <tr><td>0603.1420</td><td>**25.00**</td><td></td><td></td></tr>
-<tr><td>0603.1510</td><td></td><td></td><td>13, 105</td></tr>
+<tr><td>0603.1510</td><td></td><td></td><td>13</td></tr>
 <tr><td>0603.1520</td><td>**25.00**</td><td></td><td></td></tr>
-<tr><td>0603.1911</td><td></td><td></td><td>13, 105</td></tr>
-<tr><td>0603.1918</td><td></td><td></td><td>13, 105</td></tr>
+<tr><td>0603.1911</td><td></td><td></td><td>13</td></tr>
+<tr><td>0603.1918</td><td></td><td></td><td>13</td></tr>
 <tr><td>0603.1921</td><td>**25.00**</td><td></td><td></td></tr>
 <tr><td>0603.1928</td><td>**25.00**</td><td></td><td></td></tr>
 </table>
@@ -1504,6 +1508,9 @@ Die Tarifnummern-Gruppe nach Artikel 4 VEAGOG ist in der 5. Spalte angegeben.
 <tr><td>0704.1020</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0704.1021</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>0704.1029</td><td></td><td></td><td></td><td>20</td><td></td><td></td></tr>
+<tr><td>0704.1030</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
+<tr><td>0704.1031</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
+<tr><td>0704.1039</td><td></td><td>**120.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung**</td></tr>
 <tr><td>0704.1090</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0704.1091</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>0704.1099</td><td></td><td>**120.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung**</td></tr>
@@ -1679,7 +1686,10 @@ Die Tarifnummern-Gruppe nach Artikel 4 VEAGOG ist in der 5. Spalte angegeben.
 <tr><td>0709.9120</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>0709.9130</td><td></td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>0709.9200</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>15</td><td>[10-4]</td></tr>
-<tr><td>0709.9300</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>15</td><td>[10-4]</td></tr>
+<tr><td>0709.9310</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
+<tr><td>0709.9320</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
+<tr><td>0709.9330</td><td></td><td>**130.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung**</td></tr>
+<tr><td>0709.9390</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>15</td><td>[10-4]</td></tr>
 <tr><td>0709.9911</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0709.9918</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>0709.9919</td><td></td><td></td><td></td><td>20</td><td></td><td></td></tr>
@@ -1692,9 +1702,6 @@ Die Tarifnummern-Gruppe nach Artikel 4 VEAGOG ist in der 5. Spalte angegeben.
 <tr><td>0709.9940</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0709.9941</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>0709.9949</td><td></td><td>**300.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung**</td></tr>
-<tr><td>0709.9950</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
-<tr><td>0709.9951</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
-<tr><td>0709.9959</td><td></td><td>**130.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung**</td></tr>
 <tr><td>0709.9960</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0709.9961</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>0709.9969</td><td></td><td>**150.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung**</td></tr>
@@ -1810,44 +1817,26 @@ Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) gereg
 **[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
-<tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingente (Nr)</th><th>Ergänzungen</th></tr>
-<tr><td>0808.1011</td><td>**2.00**</td><td></td><td>0</td><td>20</td><td></td></tr>
-<tr><td>0808.1019</td><td></td><td></td><td>20</td><td></td><td></td></tr>
-<tr><td>0808.3011</td><td>**2.00**</td><td></td><td>0</td><td>20</td><td></td></tr>
-<tr><td>0808.3019</td><td></td><td></td><td>20</td><td></td><td></td></tr>
+<tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingent (Nr.)</th><th>Ergänzungen</th></tr>
+<tr><td>0808.1011</td><td>**2.00**</td><td></td><td>keine GEB-Pflicht</td><td>20</td><td></td></tr>
+<tr><td>0808.3011</td><td>**2.00**</td><td></td><td>keine GEB-Pflicht</td><td>20</td><td></td></tr>
 <tr><td>0808.4011</td><td>**2.00**</td><td></td><td>keine GEB-Pflicht</td><td>20</td><td>[13-1]</td></tr>
 <tr><td>2009.7111</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.7119</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.7121</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.7129</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.7910</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.7990</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.8921</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.8929</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.8931</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.8939</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.8941</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.8949</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.9011</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.9019</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.9031</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.9039</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.9041</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.9049</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.9051</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.9059</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.9071</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.9079</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2009.9081</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2009.9089</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2202.9921</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2202.9929</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2202.9951</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2202.9959</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2202.9971</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2202.9979</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 <tr><td>2206.0011</td><td></td><td></td><td>0</td><td>21</td><td></td></tr>
-<tr><td>2206.0019</td><td></td><td></td><td>20</td><td></td><td></td></tr>
 </table>
 
 ### 14. Marktordnungen Saatgetreide, Futtermittel, Ölsaaten sowie Waren, bei deren Verarbeitung Futtermittel anfallen
@@ -1889,442 +1878,447 @@ Bandbreite
 Die Bandbreite beträgt für die in diesem Anhang aufgeführten Schwellenpreise und Importrichtwerte plus/minus 3 Franken je 100 Kilogramm.
 
 <table>
-<tr><th>Tarifnummer</th><th>Schwellenpreis</th><th>Importrichtwert</th><th>Ergänzungen</th></tr>
-<tr><td>0505.9011</td><td>Gruppe 9</td><td>67.00</td><td>[14-6]</td></tr>
-<tr><td>0508.0091</td><td>Gruppe 9</td><td>47.00</td><td>[14-6]</td></tr>
-<tr><td>0511.9110</td><td>Gruppe 9</td><td>58.00</td><td>[14-6]</td></tr>
-<tr><td>0511.9911</td><td>Gruppe 9</td><td>68.00</td><td>[14-6]</td></tr>
-<tr><td>0511.9919</td><td>Gruppe 9</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>0708.9010</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0709.9991</td><td>Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
-<tr><td>0712.9070</td><td>Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
-<tr><td>0713.1011</td><td>39.00</td><td>39.00</td><td>[14-1.1] [14-6]</td></tr>
-<tr><td>0713.1012</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.1091</td><td>Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
-<tr><td>0713.2011</td><td>Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
-<tr><td>0713.2012</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.2091</td><td>Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3111</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3112</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.3191</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3211</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3212</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.3291</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3311</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3312</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.3391</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3411</td><td>Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3412</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.3491</td><td>Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3511</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3512</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.3591</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3911</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.3912</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.3991</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.4011</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.4012</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.4091</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.5012</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.5013</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.5091</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.6011</td><td>Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
-<tr><td>0713.6012</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.6091</td><td>Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
-<tr><td>0713.9021</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0713.9022</td><td>Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>0713.9081</td><td>Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>0714.1010</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0714.2010</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0714.3010</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0714.4010</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0714.5010</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0714.9020</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0802.2110</td><td>Gruppe 1</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>0802.2120</td><td>Gruppe 1</td><td></td><td>[14-6]</td></tr>
-<tr><td>0802.2210</td><td>Gruppe 1</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>0802.2220</td><td>Gruppe 1</td><td></td><td>[14-6]</td></tr>
-<tr><td>0802.3110</td><td>Gruppe 1</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>0802.3120</td><td>Gruppe 1</td><td></td><td>[14-6]</td></tr>
-<tr><td>0802.3210</td><td>Gruppe 1</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>0802.3220</td><td>Gruppe 1</td><td></td><td>[14-6]</td></tr>
-<tr><td>0813.4081</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0813.4092</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0813.5012</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0813.5021</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0813.5081</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0813.5092</td><td>Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>0901.9011</td><td>Gruppe 5</td><td>7.00</td><td>[14-6]</td></tr>
-<tr><td>1001.1100</td><td>Gruppe 2</td><td>91.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
-<tr><td>1001.1931</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1001.1939</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1001.1940</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1001.9100</td><td>Gruppe 2</td><td>91.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
-<tr><td>1001.9931</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1001.9939</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1001.9940</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1002.1000</td><td>Gruppe 2</td><td>184.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
-<tr><td>1002.9031</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1002.9039</td><td>Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
-<tr><td>1002.9040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1003.1000</td><td>78.00</td><td>78.00</td><td>[14 1.2] zur Aussaat, keine GEB-Pflicht</td></tr>
-<tr><td>1003.9020</td><td>Gruppe 3</td><td></td><td>[14-6]</td></tr>
-<tr><td>1003.9030</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1003.9051</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1003.9059</td><td>36.00</td><td>36.00</td><td>[14-1.3] [14-6]</td></tr>
-<tr><td>1003.9060</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1004.1000</td><td>Gruppe 2</td><td>86.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
-<tr><td>1004.9031</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1004.9039</td><td>Gruppe 3</td><td>32.00</td><td>[14-6]</td></tr>
-<tr><td>1004.9040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1005.1000</td><td>Gruppe 2</td><td>712.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
-<tr><td>1005.9031</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1005.9039</td><td>Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
-<tr><td>1005.9040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1006.1021</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1006.1029</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1006.2021</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1006.2029</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1006.3021</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1006.3029</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1006.4021</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1006.4029</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1007.9031</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1007.9039</td><td>Gruppe 3</td><td>36.00</td><td>[14-6]</td></tr>
-<tr><td>1007.9040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1008.1031</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1008.1039</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1008.1040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1008.2931</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1008.2939</td><td>Gruppe 3</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>1008.2940</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1008.3031</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1008.3039</td><td>Gruppe 3</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>1008.3040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1008.4031</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1008.4039</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1008.4040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1008.5031</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1008.5039</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1008.5040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1008.6010</td><td>Gruppe 2</td><td>82.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
-<tr><td>1008.6041</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1008.6049</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1008.6050</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1008.9035</td><td>Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
-<tr><td>1008.9037</td><td>Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1008.9040</td><td>Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1101.0051</td><td>Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
-<tr><td>1101.0059</td><td>Gruppe 11</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>1102.2020</td><td>Gruppe 11</td><td>43.00</td><td>[14-6]</td></tr>
-<tr><td>1102.9013</td><td>Gruppe 11</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>1102.9045</td><td>Gruppe 11</td><td>43.00</td><td>[14-6]</td></tr>
-<tr><td>1102.9046</td><td>Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
-<tr><td>1102.9052</td><td>Gruppe 11</td><td>48.00</td><td>[14-6]</td></tr>
-<tr><td>1102.9062</td><td>Gruppe 11</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>1103.1112</td><td>Gruppe 11</td><td>48.00</td><td>[14-6]</td></tr>
-<tr><td>1103.1192</td><td>Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1103.1320</td><td>Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1103.1912</td><td>Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1103.1922</td><td>Gruppe 11</td><td>50.00</td><td>[14-6]</td></tr>
-<tr><td>1103.1932</td><td>Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1103.1993</td><td>Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1103.2012</td><td>Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
-<tr><td>1103.2022</td><td>Gruppe 11</td><td>43.00</td><td>[14-6]</td></tr>
-<tr><td>1103.2092</td><td>Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
-<tr><td>1104.1220</td><td>Gruppe 11</td><td>51.00</td><td>[14-6]</td></tr>
-<tr><td>1104.1912</td><td>Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1104.1922</td><td>Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
-<tr><td>1104.1993</td><td>Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1104.2230</td><td>Gruppe 11</td><td>50.00</td><td>[14-6]</td></tr>
-<tr><td>1104.2320</td><td>Gruppe 11</td><td>43.00</td><td>[14-6]</td></tr>
-<tr><td>1104.2912</td><td>Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1104.2923</td><td>Gruppe 11</td><td>39.00</td><td>[14-6]</td></tr>
-<tr><td>1104.2933</td><td>Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1104.2993</td><td>Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1104.3070</td><td>Gruppe 11</td><td>48.00</td><td>[14-6]</td></tr>
-<tr><td>1104.3081</td><td>Gruppe 11</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1104.3093</td><td>Gruppe 11</td><td>48.00</td><td>[14-6]</td></tr>
-<tr><td>1105.1021</td><td>Gruppe 11</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>1105.2021</td><td>Gruppe 11</td><td>42.00</td><td>[14-6]</td></tr>
-<tr><td>1106.1010</td><td>Gruppe 11</td><td>42.00</td><td>[14-6]</td></tr>
-<tr><td>1106.2010</td><td>Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>1106.3010</td><td>Gruppe 11</td><td>51.00</td><td>[14-6]</td></tr>
-<tr><td>1107.1013</td><td>Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1107.1094</td><td>Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1107.2013</td><td>Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1107.2094</td><td>Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1108.1120</td><td>Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
-<tr><td>1108.1220</td><td>Gruppe 11</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>1108.1320</td><td>Gruppe 11</td><td>36.00</td><td>[14-6]</td></tr>
-<tr><td>1108.1420</td><td>Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
-<tr><td>1108.1912</td><td>Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
-<tr><td>1108.1992</td><td>Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
-<tr><td>1108.2020</td><td>Gruppe 11</td><td>36.00</td><td>[14-6]</td></tr>
-<tr><td>1201.9010</td><td>50.00</td><td>50.00</td><td>[14-1.4] [14-6]</td></tr>
-<tr><td>1201.9021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1201.9023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1201.9024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1201.9026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1201.9027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1201.9091</td><td>Gruppe 4</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1202.4110</td><td>Gruppe 4</td><td>50.00</td><td>[14-6]</td></tr>
-<tr><td>1202.4121</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4123</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4124</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4126</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4127</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4210</td><td>Gruppe 4</td><td>51.00</td><td>[14-6]</td></tr>
-<tr><td>1202.4221</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4223</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4224</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4226</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1202.4227</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1203.0010</td><td>Gruppe 4</td><td>48.00</td><td>[14-6]</td></tr>
-<tr><td>1203.0021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1203.0023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1203.0024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1203.0026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1203.0027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1204.0010</td><td>Gruppe 4</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>1204.0021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1204.0023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1204.0024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1204.0026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1204.0027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1010</td><td>Gruppe 4</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1205.1021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1040</td><td>Gruppe 4</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1205.1051</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1053</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1054</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1056</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.1057</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9010</td><td>Gruppe 4</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1205.9021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9040</td><td>Gruppe 4</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1205.9051</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9053</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9054</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9056</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1205.9057</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0010</td><td>Gruppe 4</td><td>41.00</td><td>[14-6]</td></tr>
-<tr><td>1206.0021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0040</td><td>Gruppe 4</td><td>47.00</td><td>[14-6]</td></tr>
-<tr><td>1206.0041</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0053</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0054</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0056</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1206.0057</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.1010</td><td>Gruppe 4</td><td>44.00</td><td>[14-6]</td></tr>
-<tr><td>1207.1021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.1023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.1024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.1026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.1027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.2910</td><td>Gruppe 4</td><td>38.00</td><td>[14-6]</td></tr>
-<tr><td>1207.2921</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.2923</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.2924</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.2926</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.2927</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.3010</td><td>Gruppe 4</td><td>50.00</td><td>[14-6]</td></tr>
-<tr><td>1207.3021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.3023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.3024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.3026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.3027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.4010</td><td>Gruppe 4</td><td>48.00</td><td>[14-6]</td></tr>
-<tr><td>1207.4021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.4023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.4024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.4026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.4027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.5010</td><td>Gruppe 4</td><td>55.00</td><td>[14-6]</td></tr>
-<tr><td>1207.5021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.5023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.5024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.5026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.5027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.6010</td><td>Gruppe 4</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>1207.6021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.6023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.6024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.6026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.6027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.7010</td><td>Gruppe 4</td><td>51.00</td><td>[14-6]</td></tr>
-<tr><td>1207.7021</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.7023</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.7024</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.7026</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.7027</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9111</td><td>Gruppe 4</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1207.9113</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9114</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9115</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9116</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9117</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9921</td><td>Gruppe 4</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1207.9922</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9923</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9924</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9925</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9926</td><td>Gruppe 4</td><td></td><td>[14-6]</td></tr>
-<tr><td>1207.9981</td><td>Gruppe 4</td><td>51.00</td><td>[14-2] [14-6]</td></tr>
-<tr><td>1207.9983</td><td>Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
-<tr><td>1207.9984</td><td>Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
-<tr><td>1207.9985</td><td>Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
-<tr><td>1207.9986</td><td>Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
-<tr><td>1207.9987</td><td>Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
-<tr><td>1208.1010</td><td>Gruppe 4</td><td>50.00</td><td>[14-6]</td></tr>
-<tr><td>1208.9010</td><td>Gruppe 4</td><td>50.00</td><td>[14-6]</td></tr>
-<tr><td>1209.1010</td><td>Gruppe 5</td><td>26.00</td><td>[14-6]</td></tr>
-<tr><td>1209.2911</td><td>Gruppe 5</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1209.2912</td><td>Gruppe 5</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1209.9911</td><td>Gruppe 5</td><td>45.00</td><td>[14-6]</td></tr>
-<tr><td>1209.9912</td><td>Gruppe 5</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1209.9991</td><td>Gruppe 5</td><td>46.00</td><td>[14-6]</td></tr>
-<tr><td>1212.2910</td><td>Gruppe 5</td><td>24.00</td><td>[14-6]</td></tr>
-<tr><td>1212.9110</td><td>Gruppe 5</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>1212.9291</td><td>Gruppe 5</td><td>26.00</td><td>[14-6]</td></tr>
-<tr><td>1212.9310</td><td>Gruppe 5</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>1212.9410</td><td>Gruppe 5</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>1212.9920</td><td>Gruppe 5</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>1213.0091</td><td>Gruppe 5</td><td>10.00</td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1213.0099</td><td>Gruppe 5</td><td>14.00</td><td>[14-6]</td></tr>
-<tr><td>1214.1010</td><td>32.00</td><td>32.00</td><td>[14-1.5] [14-6]</td></tr>
-<tr><td>1214.9011</td><td>Gruppe 5</td><td>25.00</td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1214.9019</td><td>Gruppe 5</td><td>33.00</td><td>[14-6]</td></tr>
-<tr><td>1404.9010</td><td>Gruppe 5</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>1501.1011</td><td>60.00</td><td>60.00</td><td>[14-1.6] [14-6]</td></tr>
-<tr><td>1501.1019</td><td>Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
-<tr><td>1501.2011</td><td>Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
-<tr><td>1501.2019</td><td>Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
-<tr><td>1501.9011</td><td>Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
-<tr><td>1501.9019</td><td>Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
-<tr><td>1502.1011</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1502.1019</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1502.9011</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1502.9012</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1502.9019</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1503.0010</td><td>Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
-<tr><td>1504.1091</td><td>Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
-<tr><td>1504.2010</td><td>Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
-<tr><td>1504.3010</td><td>Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
-<tr><td>1505.0011</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1505.0091</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1506.0011</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1506.0012</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1506.0019</td><td>Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
-<tr><td>1507.1010</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1507.9011</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1507.9091</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1508.1010</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1508.9011</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1508.9091</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1509.1010</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1509.9010</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1510.0010</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1511.1010</td><td>Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1511.9011</td><td>Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>1511.9091</td><td>Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>1512.1110</td><td>Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
-<tr><td>1512.1911</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1512.1991</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1512.2110</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1512.2910</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1513.1110</td><td>Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1513.1911</td><td>Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>1513.1991</td><td>Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1513.2110</td><td>Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1513.2911</td><td>Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>1513.2991</td><td>Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1514.1110</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1514.1910</td><td>Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>1514.9110</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1514.9910</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1515.1110</td><td>Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
-<tr><td>1515.1910</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1515.2110</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1515.2910</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1515.3010</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1515.5011</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1515.5020</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1515.9011</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1515.9021</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1515.9031</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1515.9091</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1516.1010</td><td>Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>1516.2010</td><td>Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
-<tr><td>1517.1010</td><td>Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
-<tr><td>1517.9010</td><td>Gruppe 6</td><td>61.00</td><td>[14-6]</td></tr>
-<tr><td>1518.0011</td><td>Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
-<tr><td>1518.0081</td><td>Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
-<tr><td>1518.0093</td><td>Gruppe 6</td><td>61.00</td><td>[14-6]</td></tr>
-<tr><td>1702.3021</td><td>40.00</td><td>40.00</td><td>[14-1.7] [14-6]</td></tr>
-<tr><td>1702.3033</td><td>Gruppe 7</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>1702.4011</td><td>Gruppe 7</td><td>40.00</td><td>[14-6]</td></tr>
-<tr><td>1702.6022</td><td>Gruppe 7</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>1702.9011</td><td>Gruppe 7</td><td>41.00</td><td>[14-6]</td></tr>
-<tr><td>1703.9091</td><td>Gruppe 7</td><td>32.00</td><td>[14-6]</td></tr>
-<tr><td>1802.0010</td><td>Gruppe 5</td><td>22.00</td><td>[14-6]</td></tr>
-<tr><td>1905.9021</td><td>Gruppe 11</td><td>47.00</td><td>[14-6]</td></tr>
-<tr><td>2102.1091</td><td>Gruppe 8</td><td>49.00</td><td>[14-6]</td></tr>
-<tr><td>2102.2011</td><td>49.00</td><td>49.00</td><td>[14-1.8] [14-6]</td></tr>
-<tr><td>2102.2021</td><td>Gruppe 8</td><td>52.00</td><td>[14-6]</td></tr>
-<tr><td>2103.3011</td><td>Gruppe 4</td><td>28.00</td><td>[14-6]</td></tr>
-<tr><td>2301.1011</td><td>Gruppe 9</td><td>61.00</td><td>[14-6]</td></tr>
-<tr><td>2301.1019</td><td>Gruppe 9</td><td>48.00</td><td>[14-6]</td></tr>
-<tr><td>2301.2010</td><td>Gruppe 9</td><td>61.00</td><td>[14-6]</td></tr>
-<tr><td>2302.1010</td><td>Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
-<tr><td>2302.3020</td><td>Gruppe 11</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>2302.4030</td><td>Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>2302.4091</td><td>Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
-<tr><td>2302.5010</td><td>Gruppe 11</td><td>30.00</td><td>[14-6]</td></tr>
-<tr><td>2303.1011</td><td>59.00</td><td>59.00</td><td>[14-1.9] [14-6]</td></tr>
-<tr><td>2303.1012</td><td>Gruppe 9</td><td>28.00</td><td>[14-6]</td></tr>
-<tr><td>2303.1018</td><td>Gruppe 9</td><td>51.00</td><td>[14-6]</td></tr>
-<tr><td>2303.2010</td><td>Gruppe 9</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>2303.3010</td><td>Gruppe 9</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>2304.0010</td><td>45.00</td><td>45.00</td><td>[14-1.10] [14-6]</td></tr>
-<tr><td>2305.0010</td><td>Gruppe 10</td><td>47.00</td><td>[14-6]</td></tr>
-<tr><td>2306.1010</td><td>Gruppe 10</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>2306.2010</td><td>Gruppe 10</td><td>31.00</td><td>[14-6]</td></tr>
-<tr><td>2306.3010</td><td>Gruppe 10</td><td>28.00</td><td>[14-6]</td></tr>
-<tr><td>2306.4110</td><td>Gruppe 10</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>2306.4910</td><td>Gruppe 10</td><td>34.00</td><td>[14-6]</td></tr>
-<tr><td>2306.5010</td><td>Gruppe 10</td><td>26.00</td><td>[14-6]</td></tr>
-<tr><td>2306.6010</td><td>Gruppe 10</td><td>22.00</td><td>[14-6]</td></tr>
-<tr><td>2306.9011</td><td>Gruppe 10</td><td>31.00</td><td>[14-6]</td></tr>
-<tr><td>2306.9021</td><td>Gruppe 10</td><td>31.00</td><td>[14-6]</td></tr>
-<tr><td>2308.0020</td><td>Gruppe 5</td><td>21.00</td><td>[14-6]</td></tr>
-<tr><td>2308.0030</td><td>Gruppe 5</td><td>28.00</td><td>[14-6]</td></tr>
-<tr><td>2308.0040</td><td>Gruppe 5</td><td>21.00</td><td>[14-6]</td></tr>
-<tr><td>2308.0050</td><td>Gruppe 5</td><td>33.00</td><td>[14-6]</td></tr>
-<tr><td>2308.0060</td><td>Gruppe 5</td><td>28.00</td><td>[14-6]</td></tr>
-<tr><td>2309.9011</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
-<tr><td>2309.9041</td><td>Gruppe 9</td><td>55.00</td><td>[14-6]</td></tr>
-<tr><td>2309.9081</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
-<tr><td>2309.9082</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
-<tr><td>2309.9089</td><td>[14-4]</td><td></td><td>[14-6]</td></tr>
-<tr><td>3505.1010</td><td>41.00</td><td>41.00</td><td>[14-1.11] [14-6]</td></tr>
-<tr><td>3505.2010</td><td>Gruppe 11</td><td>51.00</td><td>[14-6]</td></tr>
-<tr><td>3809.1010</td><td>Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
-<tr><td>3823.1110</td><td>Gruppe 6</td><td>64.00</td><td>[14-6]</td></tr>
-<tr><td>3823.1210</td><td>Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
-<tr><td>3823.1910</td><td>Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
+<tr><th>Tarifnummer</th><th colspan="2">Schwellenpreis</th><th>Importrichtwert</th><th>Ergänzungen</th></tr>
+<tr><td>0505.9011</td><td colspan="2">Gruppe 9</td><td>67.00</td><td>[14-6]</td></tr>
+<tr><td>0508.0091</td><td colspan="2">Gruppe 9</td><td>47.00</td><td>[14-6]</td></tr>
+<tr><td>0511.9110</td><td colspan="2">Gruppe 9</td><td>58.00</td><td>[14-6]</td></tr>
+<tr><td>0511.9911</td><td colspan="2">Gruppe 9</td><td>68.00</td><td>[14-6]</td></tr>
+<tr><td>0511.9919</td><td colspan="2">Gruppe 9</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>0708.9010</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0709.9991</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
+<tr><td>0712.9070</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
+<tr><td>0713.1011</td><td colspan="2">39.00</td><td>39.00</td><td>[14-1.1] [14-6]</td></tr>
+<tr><td>0713.1012</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.1091</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
+<tr><td>0713.2011</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
+<tr><td>0713.2012</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.2091</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3111</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3112</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.3191</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3211</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3212</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.3291</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3311</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3312</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.3391</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3411</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3412</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.3491</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3511</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3512</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.3591</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3911</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.3912</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.3991</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.4011</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.4012</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.4091</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.5012</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.5013</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.5091</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.6011</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
+<tr><td>0713.6012</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.6091</td><td colspan="2">Gruppe 1</td><td>39.00</td><td>[14-6]</td></tr>
+<tr><td>0713.9021</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0713.9022</td><td colspan="2">Gruppe 1</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>0713.9081</td><td colspan="2">Gruppe 1</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>0714.1010</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0714.2010</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0714.3010</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0714.4010</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0714.5010</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0714.9020</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0802.2110</td><td colspan="2">Gruppe 1</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>0802.2120</td><td colspan="2">Gruppe 1</td><td></td><td>[14-6]</td></tr>
+<tr><td>0802.2210</td><td colspan="2">Gruppe 1</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>0802.2220</td><td colspan="2">Gruppe 1</td><td></td><td>[14-6]</td></tr>
+<tr><td>0802.3110</td><td colspan="2">Gruppe 1</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>0802.3120</td><td colspan="2">Gruppe 1</td><td></td><td>[14-6]</td></tr>
+<tr><td>0802.3210</td><td colspan="2">Gruppe 1</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>0802.3220</td><td colspan="2">Gruppe 1</td><td></td><td>[14-6]</td></tr>
+<tr><td>0813.4081</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0813.4092</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0813.5012</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0813.5021</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0813.5081</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0813.5092</td><td colspan="2">Gruppe 1</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>0901.9011</td><td colspan="2">Gruppe 5</td><td>7.00</td><td>[14-6]</td></tr>
+<tr><td>1001.1100</td><td colspan="2">Gruppe 2</td><td>91.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
+<tr><td>1001.1931</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1001.1939</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1001.1940</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1001.9100</td><td colspan="2">Gruppe 2</td><td>91.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
+<tr><td>1001.9931</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1001.9939</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1001.9940</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1002.1000</td><td colspan="2">Gruppe 2</td><td>184.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
+<tr><td>1002.9031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1002.9039</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
+<tr><td>1002.9040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1003.1000</td><td colspan="2">78.00</td><td>78.00</td><td>[14 1.2] zur Aussaat, keine GEB-Pflicht</td></tr>
+<tr><td>1003.9020</td><td colspan="2">Gruppe 3</td><td></td><td>[14-6]</td></tr>
+<tr><td>1003.9030</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1003.9051</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1003.9059</td><td colspan="2">36.00</td><td>36.00</td><td>[14-1.3] [14-6]</td></tr>
+<tr><td>1003.9060</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1004.1000</td><td colspan="2">Gruppe 2</td><td>86.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
+<tr><td>1004.9031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1004.9039</td><td colspan="2">Gruppe 3</td><td>32.00</td><td>[14-6]</td></tr>
+<tr><td>1004.9040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1005.1000</td><td colspan="2">Gruppe 2</td><td>712.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
+<tr><td>1005.9031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1005.9039</td><td colspan="2">Gruppe 3</td><td>37.00</td><td>[14-6]</td></tr>
+<tr><td>1005.9040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1006.1021</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1006.1029</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1006.2021</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1006.2029</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1006.3021</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1006.3029</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1006.4021</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1006.4029</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1007.9031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1007.9039</td><td colspan="2">Gruppe 3</td><td>36.00</td><td>[14-6]</td></tr>
+<tr><td>1007.9040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1008.1031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1008.1039</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1008.1040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1008.2931</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1008.2939</td><td colspan="2">Gruppe 3</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>1008.2940</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1008.3031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1008.3039</td><td colspan="2">Gruppe 3</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>1008.3040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1008.4031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1008.4039</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1008.4040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1008.5031</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1008.5039</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1008.5040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1008.6010</td><td colspan="2">Gruppe 2</td><td>82.00</td><td>zur Aussaat, keine GEB-Pflicht</td></tr>
+<tr><td>1008.6041</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1008.6049</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1008.6050</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1008.9035</td><td colspan="2">Gruppe 3</td><td></td><td>[14-5] [14-6]</td></tr>
+<tr><td>1008.9037</td><td colspan="2">Gruppe 3</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1008.9040</td><td colspan="2">Gruppe 3</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1101.0051</td><td colspan="2">Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
+<tr><td>1101.0059</td><td colspan="2">Gruppe 11</td><td>49.00</td><td>[14-6]</td></tr>
+<tr><td>1102.2020</td><td colspan="2">Gruppe 11</td><td>43.00</td><td>[14-6]</td></tr>
+<tr><td>1102.9013</td><td colspan="2">Gruppe 11</td><td>49.00</td><td>[14-6]</td></tr>
+<tr><td>1102.9045</td><td colspan="2">Gruppe 11</td><td>43.00</td><td>[14-6]</td></tr>
+<tr><td>1102.9046</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
+<tr><td>1102.9052</td><td colspan="2">Gruppe 11</td><td>48.00</td><td>[14-6]</td></tr>
+<tr><td>1102.9062</td><td colspan="2">Gruppe 11</td><td>49.00</td><td>[14-6]</td></tr>
+<tr><td>1103.1112</td><td colspan="2">Gruppe 11</td><td>48.00</td><td>[14-6]</td></tr>
+<tr><td>1103.1192</td><td colspan="2">Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1103.1320</td><td colspan="2">Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1103.1912</td><td colspan="2">Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1103.1922</td><td colspan="2">Gruppe 11</td><td>50.00</td><td>[14-6]</td></tr>
+<tr><td>1103.1932</td><td colspan="2">Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1103.1993</td><td colspan="2">Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1103.2012</td><td colspan="2">Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
+<tr><td>1103.2022</td><td colspan="2">Gruppe 11</td><td>43.00</td><td>[14-6]</td></tr>
+<tr><td>1103.2092</td><td colspan="2">Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
+<tr><td>1104.1220</td><td colspan="2">Gruppe 11</td><td>51.00</td><td>[14-6]</td></tr>
+<tr><td>1104.1912</td><td colspan="2">Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1104.1922</td><td colspan="2">Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
+<tr><td>1104.1993</td><td colspan="2">Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1104.2230</td><td colspan="2">Gruppe 11</td><td>50.00</td><td>[14-6]</td></tr>
+<tr><td>1104.2320</td><td colspan="2">Gruppe 11</td><td>43.00</td><td>[14-6]</td></tr>
+<tr><td>1104.2912</td><td colspan="2">Gruppe 11</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1104.2923</td><td colspan="2">Gruppe 11</td><td>39.00</td><td>[14-6]</td></tr>
+<tr><td>1104.2933</td><td colspan="2">Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1104.2993</td><td colspan="2">Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1104.3070</td><td colspan="2">Gruppe 11</td><td>48.00</td><td>[14-6]</td></tr>
+<tr><td>1104.3081</td><td colspan="2">Gruppe 11</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1104.3093</td><td colspan="2">Gruppe 11</td><td>48.00</td><td>[14-6]</td></tr>
+<tr><td>1105.1021</td><td colspan="2">Gruppe 11</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>1105.2021</td><td colspan="2">Gruppe 11</td><td>42.00</td><td>[14-6]</td></tr>
+<tr><td>1106.1010</td><td colspan="2">Gruppe 11</td><td>42.00</td><td>[14-6]</td></tr>
+<tr><td>1106.2010</td><td colspan="2">Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>1106.3010</td><td colspan="2">Gruppe 11</td><td>51.00</td><td>[14-6]</td></tr>
+<tr><td>1107.1013</td><td colspan="2">Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1107.1094</td><td colspan="2">Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1107.2013</td><td colspan="2">Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1107.2094</td><td colspan="2">Gruppe 11</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1108.1120</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
+<tr><td>1108.1220</td><td colspan="2">Gruppe 11</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>1108.1320</td><td colspan="2">Gruppe 11</td><td>36.00</td><td>[14-6]</td></tr>
+<tr><td>1108.1420</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
+<tr><td>1108.1912</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
+<tr><td>1108.1992</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
+<tr><td>1108.2020</td><td colspan="2">Gruppe 11</td><td>36.00</td><td>[14-6]</td></tr>
+<tr><td>1201.9010</td><td colspan="2">50.00</td><td>50.00</td><td>[14-1.4] [14-6]</td></tr>
+<tr><td>1201.9021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1201.9023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1201.9024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1201.9026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1201.9027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1201.9091</td><td colspan="2">Gruppe 4</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1202.4110</td><td colspan="2">Gruppe 4</td><td>50.00</td><td>[14-6]</td></tr>
+<tr><td>1202.4121</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4123</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4124</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4126</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4127</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4210</td><td colspan="2">Gruppe 4</td><td>51.00</td><td>[14-6]</td></tr>
+<tr><td>1202.4221</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4223</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4224</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4226</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1202.4227</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1203.0010</td><td colspan="2">Gruppe 4</td><td>48.00</td><td>[14-6]</td></tr>
+<tr><td>1203.0021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1203.0023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1203.0024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1203.0026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1203.0027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1204.0010</td><td colspan="2">Gruppe 4</td><td>49.00</td><td>[14-6]</td></tr>
+<tr><td>1204.0021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1204.0023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1204.0024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1204.0026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1204.0027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1010</td><td colspan="2">Gruppe 4</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1205.1021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1040</td><td colspan="2">Gruppe 4</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1205.1051</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1053</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1054</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1056</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.1057</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9010</td><td colspan="2">Gruppe 4</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1205.9021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9040</td><td colspan="2">Gruppe 4</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1205.9051</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9053</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9054</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9056</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1205.9057</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0010</td><td colspan="2">Gruppe 4</td><td>41.00</td><td>[14-6]</td></tr>
+<tr><td>1206.0021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0040</td><td colspan="2">Gruppe 4</td><td>47.00</td><td>[14-6]</td></tr>
+<tr><td>1206.0041</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0053</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0054</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0056</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1206.0057</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.1010</td><td colspan="2">Gruppe 4</td><td>44.00</td><td>[14-6]</td></tr>
+<tr><td>1207.1021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.1023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.1024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.1026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.1027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.2910</td><td colspan="2">Gruppe 4</td><td>38.00</td><td>[14-6]</td></tr>
+<tr><td>1207.2921</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.2923</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.2924</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.2926</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.2927</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.3010</td><td colspan="2">Gruppe 4</td><td>50.00</td><td>[14-6]</td></tr>
+<tr><td>1207.3021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.3023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.3024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.3026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.3027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.4010</td><td colspan="2">Gruppe 4</td><td>48.00</td><td>[14-6]</td></tr>
+<tr><td>1207.4021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.4023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.4024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.4026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.4027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.5010</td><td colspan="2">Gruppe 4</td><td>55.00</td><td>[14-6]</td></tr>
+<tr><td>1207.5021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.5023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.5024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.5026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.5027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.6010</td><td colspan="2">Gruppe 4</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>1207.6021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.6023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.6024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.6026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.6027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.7010</td><td colspan="2">Gruppe 4</td><td>51.00</td><td>[14-6]</td></tr>
+<tr><td>1207.7021</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.7023</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.7024</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.7026</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.7027</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9111</td><td colspan="2">Gruppe 4</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1207.9113</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9114</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9115</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9116</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9117</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9921</td><td colspan="2">Gruppe 4</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1207.9922</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9923</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9924</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9925</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9926</td><td colspan="2">Gruppe 4</td><td></td><td>[14-6]</td></tr>
+<tr><td>1207.9981</td><td colspan="2">Gruppe 4</td><td>51.00</td><td>[14-2] [14-6]</td></tr>
+<tr><td>1207.9983</td><td colspan="2">Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
+<tr><td>1207.9984</td><td colspan="2">Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
+<tr><td>1207.9985</td><td colspan="2">Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
+<tr><td>1207.9986</td><td colspan="2">Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
+<tr><td>1207.9987</td><td colspan="2">Gruppe 4</td><td></td><td>[14-2] [14-6]</td></tr>
+<tr><td>1208.1010</td><td colspan="2">Gruppe 4</td><td>50.00</td><td>[14-6]</td></tr>
+<tr><td>1208.9010</td><td colspan="2">Gruppe 4</td><td>50.00</td><td>[14-6]</td></tr>
+<tr><td>1209.1010</td><td colspan="2">Gruppe 5</td><td>26.00</td><td>[14-6]</td></tr>
+<tr><td>1209.2911</td><td colspan="2">Gruppe 5</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1209.2912</td><td colspan="2">Gruppe 5</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1209.9911</td><td colspan="2">Gruppe 5</td><td>45.00</td><td>[14-6]</td></tr>
+<tr><td>1209.9912</td><td colspan="2">Gruppe 5</td><td></td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1209.9991</td><td colspan="2">Gruppe 5</td><td>46.00</td><td>[14-6]</td></tr>
+<tr><td>1212.2910</td><td colspan="2">Gruppe 5</td><td>24.00</td><td>[14-6]</td></tr>
+<tr><td>1212.9110</td><td colspan="2">Gruppe 5</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>1212.9291</td><td colspan="2">Gruppe 5</td><td>26.00</td><td>[14-6]</td></tr>
+<tr><td>1212.9310</td><td colspan="2">Gruppe 5</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>1212.9410</td><td colspan="2">Gruppe 5</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>1212.9920</td><td colspan="2">Gruppe 5</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>1213.0091</td><td colspan="2">Gruppe 5</td><td>10.00</td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1213.0099</td><td colspan="2">Gruppe 5</td><td>14.00</td><td>[14-6]</td></tr>
+<tr><td>1214.1010</td><td colspan="2">32.00</td><td>32.00</td><td>[14-1.5] [14-6]</td></tr>
+<tr><td>1214.9011</td><td colspan="2">Gruppe 5</td><td>25.00</td><td>keine GEB-Pflicht</td></tr>
+<tr><td>1214.9019</td><td colspan="2">Gruppe 5</td><td>33.00</td><td>[14-6]</td></tr>
+<tr><td>1404.9010</td><td colspan="2">Gruppe 5</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>1501.1011</td><td colspan="2">60.00</td><td>60.00</td><td>[14-1.6] [14-6]</td></tr>
+<tr><td>1501.1019</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
+<tr><td>1501.2011</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
+<tr><td>1501.2019</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
+<tr><td>1501.9011</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
+<tr><td>1501.9019</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
+<tr><td>1502.1011</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1502.1019</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1502.9011</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1502.9012</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1502.9019</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1503.0010</td><td colspan="2">Gruppe 6</td><td>60.00</td><td>[14-6]</td></tr>
+<tr><td>1504.1091</td><td colspan="2">Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
+<tr><td>1504.2010</td><td colspan="2">Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
+<tr><td>1504.3010</td><td colspan="2">Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
+<tr><td>1505.0011</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1505.0091</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1506.0011</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1506.0012</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1506.0019</td><td colspan="2">Gruppe 6</td><td>57.00</td><td>[14-6]</td></tr>
+<tr><td>1507.1010</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1507.9011</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1507.9091</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1508.1010</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1508.9011</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1508.9091</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1509.2010</td><td>Gruppe 6</td><td colspan="2">62.00</td><td>[14-6]</td></tr>
+<tr><td>1509.3010</td><td>Gruppe 6</td><td colspan="2">62.00</td><td>[14-6]</td></tr>
+<tr><td>1509.4010</td><td>Gruppe 6</td><td colspan="2">62.00</td><td>[14-6]</td></tr>
+<tr><td>1509.9010</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1510.1010</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1510.9010</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1511.1010</td><td colspan="2">Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1511.9011</td><td colspan="2">Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>1511.9091</td><td colspan="2">Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>1512.1110</td><td colspan="2">Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
+<tr><td>1512.1911</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1512.1991</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1512.2110</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1512.2910</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1513.1110</td><td colspan="2">Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1513.1911</td><td colspan="2">Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>1513.1991</td><td colspan="2">Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1513.2110</td><td colspan="2">Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1513.2911</td><td colspan="2">Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>1513.2991</td><td colspan="2">Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1514.1110</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1514.1910</td><td colspan="2">Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>1514.9110</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1514.9910</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1515.1110</td><td colspan="2">Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
+<tr><td>1515.1910</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1515.2110</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1515.2910</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1515.3010</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1515.5011</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1515.5020</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1515.6010</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1515.9011</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1515.9021</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1515.9031</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1515.9091</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1516.1010</td><td colspan="2">Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>1516.2010</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1516.3010</td><td colspan="2">Gruppe 6</td><td>59.00</td><td>[14-6]</td></tr>
+<tr><td>1517.1010</td><td colspan="2">Gruppe 6</td><td>54.00</td><td>[14-6]</td></tr>
+<tr><td>1517.9010</td><td colspan="2">Gruppe 6</td><td>61.00</td><td>[14-6]</td></tr>
+<tr><td>1518.0011</td><td colspan="2">Gruppe 6</td><td>62.00</td><td>[14-6]</td></tr>
+<tr><td>1518.0081</td><td colspan="2">Gruppe 6</td><td>56.00</td><td>[14-6]</td></tr>
+<tr><td>1518.0093</td><td colspan="2">Gruppe 6</td><td>61.00</td><td>[14-6]</td></tr>
+<tr><td>1702.3021</td><td colspan="2">40.00</td><td>40.00</td><td>[14-1.7] [14-6]</td></tr>
+<tr><td>1702.3033</td><td colspan="2">Gruppe 7</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>1702.4011</td><td colspan="2">Gruppe 7</td><td>40.00</td><td>[14-6]</td></tr>
+<tr><td>1702.6022</td><td colspan="2">Gruppe 7</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>1702.9011</td><td colspan="2">Gruppe 7</td><td>41.00</td><td>[14-6]</td></tr>
+<tr><td>1703.9091</td><td colspan="2">Gruppe 7</td><td>32.00</td><td>[14-6]</td></tr>
+<tr><td>1802.0010</td><td colspan="2">Gruppe 5</td><td>22.00</td><td>[14-6]</td></tr>
+<tr><td>1905.9021</td><td colspan="2">Gruppe 11</td><td>47.00</td><td>[14-6]</td></tr>
+<tr><td>2102.1091</td><td colspan="2">Gruppe 8</td><td>49.00</td><td>[14-6]</td></tr>
+<tr><td>2102.2011</td><td colspan="2">49.00</td><td>49.00</td><td>[14-1.8] [14-6]</td></tr>
+<tr><td>2102.2021</td><td colspan="2">Gruppe 8</td><td>52.00</td><td>[14-6]</td></tr>
+<tr><td>2103.3011</td><td colspan="2">Gruppe 4</td><td>28.00</td><td>[14-6]</td></tr>
+<tr><td>2301.1011</td><td colspan="2">Gruppe 9</td><td>61.00</td><td>[14-6]</td></tr>
+<tr><td>2301.1019</td><td colspan="2">Gruppe 9</td><td>48.00</td><td>[14-6]</td></tr>
+<tr><td>2301.2010</td><td colspan="2">Gruppe 9</td><td>61.00</td><td>[14-6]</td></tr>
+<tr><td>2302.1010</td><td colspan="2">Gruppe 11</td><td>45.00</td><td>[14-6]</td></tr>
+<tr><td>2302.3020</td><td colspan="2">Gruppe 11</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>2302.4030</td><td colspan="2">Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>2302.4091</td><td colspan="2">Gruppe 11</td><td>35.00</td><td>[14-6]</td></tr>
+<tr><td>2302.5010</td><td colspan="2">Gruppe 11</td><td>30.00</td><td>[14-6]</td></tr>
+<tr><td>2303.1011</td><td colspan="2">59.00</td><td>59.00</td><td>[14-1.9] [14-6]</td></tr>
+<tr><td>2303.1012</td><td colspan="2">Gruppe 9</td><td>28.00</td><td>[14-6]</td></tr>
+<tr><td>2303.1018</td><td colspan="2">Gruppe 9</td><td>51.00</td><td>[14-6]</td></tr>
+<tr><td>2303.2010</td><td colspan="2">Gruppe 9</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>2303.3010</td><td colspan="2">Gruppe 9</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>2304.0010</td><td colspan="2">45.00</td><td>45.00</td><td>[14-1.10] [14-6]</td></tr>
+<tr><td>2305.0010</td><td colspan="2">Gruppe 10</td><td>47.00</td><td>[14-6]</td></tr>
+<tr><td>2306.1010</td><td colspan="2">Gruppe 10</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>2306.2010</td><td colspan="2">Gruppe 10</td><td>31.00</td><td>[14-6]</td></tr>
+<tr><td>2306.3010</td><td colspan="2">Gruppe 10</td><td>28.00</td><td>[14-6]</td></tr>
+<tr><td>2306.4110</td><td colspan="2">Gruppe 10</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>2306.4910</td><td colspan="2">Gruppe 10</td><td>34.00</td><td>[14-6]</td></tr>
+<tr><td>2306.5010</td><td colspan="2">Gruppe 10</td><td>26.00</td><td>[14-6]</td></tr>
+<tr><td>2306.6010</td><td colspan="2">Gruppe 10</td><td>22.00</td><td>[14-6]</td></tr>
+<tr><td>2306.9011</td><td colspan="2">Gruppe 10</td><td>31.00</td><td>[14-6]</td></tr>
+<tr><td>2306.9021</td><td colspan="2">Gruppe 10</td><td>31.00</td><td>[14-6]</td></tr>
+<tr><td>2308.0020</td><td colspan="2">Gruppe 5</td><td>21.00</td><td>[14-6]</td></tr>
+<tr><td>2308.0030</td><td colspan="2">Gruppe 5</td><td>28.00</td><td>[14-6]</td></tr>
+<tr><td>2308.0040</td><td colspan="2">Gruppe 5</td><td>21.00</td><td>[14-6]</td></tr>
+<tr><td>2308.0050</td><td colspan="2">Gruppe 5</td><td>33.00</td><td>[14-6]</td></tr>
+<tr><td>2308.0060</td><td colspan="2">Gruppe 5</td><td>28.00</td><td>[14-6]</td></tr>
+<tr><td>2309.9011</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
+<tr><td>2309.9041</td><td colspan="2">Gruppe 9</td><td>55.00</td><td>[14-6]</td></tr>
+<tr><td>2309.9081</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
+<tr><td>2309.9082</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
+<tr><td>2309.9089</td><td colspan="2">[14-4]</td><td></td><td>[14-6]</td></tr>
+<tr><td>3505.1010</td><td colspan="2">41.00</td><td>41.00</td><td>[14-1.11] [14-6]</td></tr>
+<tr><td>3505.2010</td><td colspan="2">Gruppe 11</td><td>51.00</td><td>[14-6]</td></tr>
+<tr><td>3809.1010</td><td colspan="2">Gruppe 11</td><td>41.00</td><td>[14-6]</td></tr>
+<tr><td>3823.1110</td><td colspan="2">Gruppe 6</td><td>64.00</td><td>[14-6]</td></tr>
+<tr><td>3823.1210</td><td colspan="2">Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
+<tr><td>3823.1910</td><td colspan="2">Gruppe 6</td><td>63.00</td><td>[14-6]</td></tr>
 </table>
 
 ### 14*a*. Waren zur Herstellung von Braumalz oder Bier
@@ -2407,7 +2401,7 @@ Für die Einfuhr der aufgeführten Waren ist keine GEB erforderlich.
 
 ### 15. Marktordnung Getreide und verschiedene Samen und Früchte zur menschlichen Ernährung
 
-Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB des BLW oder eine GEB nach den Bestimmungen des LVG (SR *531*) erforderlich. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR *0.631.256.934.953*) unterstehen keiner GEB-Pflicht. Weitere Ausnahmen sind in der 3. und 5. Spalte vermerkt.
+Für die Einfuhr der mit [15-2] bezeichneten Erzeugnisse ist eine GEB nach den Bestimmungen des LVG (SR *531*) erforderlich. Für die Einfuhr der anderen Erzeugnisse, einschliesslich Einfuhren aus Freizonen nach dem Reglement vom 1. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR *0.631.256.934.953*) ist keine GEB erforderlich.
 
 Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
@@ -2423,63 +2417,63 @@ Spezifische Vorschriften: Die Verteilung der Zollkontingente ist in den Artikeln
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingent (Nr)</th><th>Ergänzungen</th></tr>
 <tr><td>1001.1921</td><td>**1.00**</td><td></td><td>[15-2]</td><td>26</td><td></td></tr>
 <tr><td>1001.1929</td><td>**30.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1001.9921</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1001.9921</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td>1001.9929</td><td>**40.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1002.9021</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1002.9021</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td>1002.9029</td><td>**40.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1003.9041</td><td>Anhang 2</td><td></td><td>0</td><td>28</td><td>[15-1]</td></tr>
+<tr><td>1003.9041</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
 <tr><td>1003.9049</td><td>**20.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1004.9021</td><td>Anhang 2</td><td></td><td>0</td><td>28</td><td>[15-1]</td></tr>
+<tr><td>1004.9021</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
 <tr><td>1004.9029</td><td>**20.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1005.9021</td><td>Anhang 2</td><td></td><td>0</td><td>28</td><td>[15-1]</td></tr>
+<tr><td>1005.9021</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td>28</td><td>[15-1]</td></tr>
 <tr><td>1005.9029</td><td>**20.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1007.9021</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.1021</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.2921</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.4021</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.5021</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1008.6031</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1007.9021</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.1021</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.2921</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.4021</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.5021</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1008.6031</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
 <tr><td>1008.6039</td><td>**40.00**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1008.9023</td><td>**14.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
-<tr><td>1101.0043</td><td>**55.40**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1101.0048</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1008.9023</td><td>**7.60**</td><td></td><td>[15-4]</td><td>27</td><td>[15-1]</td></tr>
+<tr><td>1101.0043</td><td>**42.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1101.0048</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1102.2010</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1102.9011</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1102.9044</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1102.9011</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1102.9044</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1102.9051</td><td>**25.60**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1102.9061</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1102.9061</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1103.1119</td><td>**23.40**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
-<tr><td>1103.1199</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1199</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1103.1390</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1919</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1919</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1103.1929</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1103.1939</td><td>**26.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1992</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.1999</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.2019</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.2029</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1103.2099</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1992</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.1999</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.2019</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.2029</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1103.2099</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1104.1290</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.1919</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.1919</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1104.1929</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.1992</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.1999</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.1992</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.1999</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1104.2220</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1104.2390</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2913</td><td>**46.60**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2918</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2922</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2913</td><td>**36.60**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2918</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2922</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1104.2932</td><td>Anhang 2</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2992</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.2999</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1104.3089</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.1012</td><td>**44.80**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.1092</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.1093</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.2012</td><td>**44.80**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.2092</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.2093</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
-<tr><td>1107.2099</td><td>**44.80**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2992</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.2999</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1104.3089</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.1012</td><td>**35.50**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.1092</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.1093</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.2012</td><td>**35.50**</td><td></td><td>[15-2]</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.2092</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.2093</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
+<tr><td>1107.2099</td><td>**35.50**</td><td></td><td>keine GEB-Pflicht</td><td></td><td>[15-1]</td></tr>
 <tr><td>1201.9099</td><td>**0.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
 <tr><td>1202.4199</td><td>**0.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
 <tr><td>1202.4299</td><td>**0.10**</td><td></td><td>keine GEB-Pflicht</td><td></td><td></td></tr>
@@ -2562,11 +2556,18 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB nach den Bestimmunge
 <tr><td>1508.9098</td><td>**138.25**</td><td></td><td></td></tr>
 <tr><td>1508.9099</td><td>**149.10**</td><td></td><td></td></tr>
 <tr><td>1509.1091</td><td>**88.15**</td><td></td><td></td></tr>
+<tr><td>1509.2091</td><td>**88.15**</td><td></td><td></td></tr>
+<tr><td>1509.2099</td><td>**134.25**</td><td></td><td></td></tr>
+<tr><td>1509.3091</td><td>**88.15**</td><td></td><td></td></tr>
+<tr><td>1509.3099</td><td>**134.25**</td><td></td><td></td></tr>
+<tr><td>1509.4091</td><td>**88.15**</td><td></td><td></td></tr>
+<tr><td>1509.4099</td><td>**134.25**</td><td></td><td></td></tr>
 <tr><td>1509.1099</td><td>**134.25**</td><td></td><td></td></tr>
 <tr><td>1509.9091</td><td>**92.15**</td><td></td><td></td></tr>
 <tr><td>1509.9099</td><td>**138.25**</td><td></td><td></td></tr>
-<tr><td>1510.0091</td><td>**127.20**</td><td></td><td></td></tr>
-<tr><td>1510.0099</td><td>**138.25**</td><td></td><td></td></tr>
+<tr><td>1510.1090</td><td>**127.20**</td><td></td><td></td></tr>
+<tr><td>1510.9091</td><td>**127.20**</td><td></td><td></td></tr>
+<tr><td>1510.9099</td><td>**138.25**</td><td></td><td></td></tr>
 <tr><td>1511.1090</td><td>**116.05**</td><td></td><td></td></tr>
 <tr><td>1511.9018</td><td>**157.25**</td><td></td><td></td></tr>
 <tr><td>1511.9019</td><td>**168.10**</td><td></td><td></td></tr>
@@ -2607,6 +2608,8 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB nach den Bestimmunge
 <tr><td>1515.5019</td><td>**127.20**</td><td></td><td></td></tr>
 <tr><td>1515.5091</td><td>**138.25**</td><td></td><td></td></tr>
 <tr><td>1515.5099</td><td>**149.10**</td><td></td><td></td></tr>
+<tr><td>1515.6091</td><td>**138.25**</td><td></td><td></td></tr>
+<tr><td>1515.6099</td><td>**149.10**</td><td></td><td></td></tr>
 <tr><td>1515.9013</td><td>**124.40**</td><td></td><td></td></tr>
 <tr><td>1515.9018</td><td>**138.25**</td><td></td><td></td></tr>
 <tr><td>1515.9019</td><td>**149.10**</td><td></td><td></td></tr>
@@ -2622,6 +2625,8 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB nach den Bestimmunge
 <tr><td>1516.2093</td><td>**157.25**</td><td></td><td></td></tr>
 <tr><td>1516.2097</td><td>**175.95**</td><td></td><td>keine GEB-Pflicht</td></tr>
 <tr><td>1516.2098</td><td>**168.10**</td><td></td><td></td></tr>
+<tr><td>1516.3093</td><td>**157.25**</td><td></td><td></td></tr>
+<tr><td>1516.3099</td><td>**168.10**</td><td></td><td></td></tr>
 <tr><td>1517.1063</td><td>**149.15**</td><td></td><td></td></tr>
 <tr><td>1517.1068</td><td>**157.30**</td><td></td><td></td></tr>
 <tr><td>1517.1073</td><td>**130.50**</td><td></td><td></td></tr>
@@ -2631,8 +2636,6 @@ Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB nach den Bestimmunge
 <tr><td>1517.1093</td><td>**80.80**</td><td></td><td></td></tr>
 <tr><td>1517.1098</td><td>**83.50**</td><td></td><td></td></tr>
 <tr><td>1517.9020</td><td>**1.00**</td><td></td><td>keine GEB-Pflicht</td></tr>
-<tr><td>1517.9063</td><td>**237.65**</td><td></td><td></td></tr>
-<tr><td>1517.9068</td><td>**236.70**</td><td></td><td></td></tr>
 <tr><td>1517.9071</td><td>**218.25**</td><td></td><td></td></tr>
 <tr><td>1517.9079</td><td>**231.30**</td><td></td><td></td></tr>
 <tr><td>1517.9081</td><td>**196.95**</td><td></td><td></td></tr>
@@ -2770,7 +2773,7 @@ Anhang 2*[^t-2]*
 
 ## Zollansätze der Marktordnungen Saatgetreide, Futtermittel, Ölsaaten, Zollansätze von Waren, bei deren Verarbeitung Futtermittel anfallen, sowie Zollansätze von Grobgetreide zur menschlichen Ernährung
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 22. Nov. 2021, in Kraft seit 1. Dez. 2021 ([AS 2021 770](https://fedlex.data.admin.ch/eli/oc/2021/770)).
+[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 922](https://fedlex.data.admin.ch/eli/oc/2021/922)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th></tr>
@@ -2791,11 +2794,11 @@ Anhang 2*[^t-2]*
 <tr><td>0802.2210</td><td>1.70</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.3210</td><td>1.70</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
 <tr><td>0813.5012</td><td>4.70</td><td></td><td>0813.5021</td><td>4.70</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>4.70</td><td></td></tr>
-<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>8.00</td><td></td><td>1001.1939</td><td>3.00</td><td>\*</td></tr>
-<tr><td>1001.1940</td><td>0.30</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>8.00</td><td></td><td>1001.9939</td><td>3.00</td><td>\*</td></tr>
-<tr><td>1001.9940</td><td>0.30</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>8.00</td><td></td><td>1002.9039</td><td>8.00</td><td></td></tr>
-<tr><td>1002.9040</td><td>0.80</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>1.00</td><td>\*</td><td>1003.9030</td><td>0.05</td><td>\*</td></tr>
-<tr><td>1003.9041</td><td>0.45</td><td>\*</td><td>1003.9051</td><td>8.00</td><td></td><td>1003.9059</td><td>2.00</td><td>\*</td><td>1003.9060</td><td>0.30</td><td>\*</td></tr>
+<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>8.00</td><td></td><td>1001.1939</td><td>1.00</td><td>\*</td></tr>
+<tr><td>1001.1940</td><td>0.10</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>8.00</td><td></td><td>1001.9939</td><td>1.00</td><td>\*</td></tr>
+<tr><td>1001.9940</td><td>0.10</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>8.00</td><td></td><td>1002.9039</td><td>8.00</td><td></td></tr>
+<tr><td>1002.9040</td><td>0.80</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>0.50</td><td>\*</td><td>1003.9030</td><td>0.05</td><td></td></tr>
+<tr><td>1003.9041</td><td>0.25</td><td>\*</td><td>1003.9051</td><td>8.00</td><td></td><td>1003.9059</td><td>1.00</td><td>\*</td><td>1003.9060</td><td>0.15</td><td>\*</td></tr>
 <tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.00</td><td></td><td>1004.9031</td><td>8.00</td><td></td><td>1004.9039</td><td>0.00</td><td></td></tr>
 <tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>0.75</td><td></td><td>1005.9031</td><td>8.00</td><td></td></tr>
 <tr><td>1005.9039</td><td>3.00</td><td></td><td>1005.9040</td><td>0.30</td><td></td><td>1006.1021</td><td>8.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
@@ -2803,21 +2806,21 @@ Anhang 2*[^t-2]*
 <tr><td>1006.4021</td><td>8.00</td><td></td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>8.00</td><td></td><td>1007.9039</td><td>8.00</td><td></td></tr>
 <tr><td>1007.9040</td><td>0.25</td><td></td><td>1008.1031</td><td>8.00</td><td></td><td>1008.1039</td><td>4.00</td><td></td><td>1008.1040</td><td>0.10</td><td></td></tr>
 <tr><td>1008.2931</td><td>8.00</td><td></td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>8.00</td><td></td></tr>
-<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>8.00</td><td></td><td>1008.4039</td><td>3.00</td><td>\*</td></tr>
-<tr><td>1008.4040</td><td>0.10</td><td>\*</td><td>1008.5031</td><td>8.00</td><td></td><td>1008.5039</td><td>3.00</td><td>\*</td><td>1008.5040</td><td>0.10</td><td>\*</td></tr>
-<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>8.00</td><td></td><td>1008.6049</td><td>5.00</td><td>\*</td><td>1008.6050</td><td>0.50</td><td>\*</td></tr>
-<tr><td>1008.9035</td><td>8.00</td><td></td><td>1008.9037</td><td>3.00</td><td>\*</td><td>1008.9040</td><td>0.10</td><td>\*</td><td>1101.0051</td><td>10.00</td><td>\*</td></tr>
-<tr><td>1101.0059</td><td>14.00</td><td>\*</td><td>1102.2010</td><td>21.05</td><td></td><td>1102.2020</td><td>9.00</td><td></td><td>1102.9013</td><td>16.00</td><td>\*</td></tr>
-<tr><td>1102.9045</td><td>14.00</td><td></td><td>1102.9046</td><td>12.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>14.00</td><td>\*</td></tr>
-<tr><td>1103.1112</td><td>13.00</td><td>\*</td><td>1103.1192</td><td>11.00</td><td>\*</td><td>1103.1320</td><td>10.00</td><td></td><td>1103.1390</td><td>21.50</td><td></td></tr>
-<tr><td>1103.1912</td><td>17.00</td><td></td><td>1103.1922</td><td>16.00</td><td>\*</td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
-<tr><td>1103.1993</td><td>11.00</td><td>\*</td><td>1103.2012</td><td>10.00</td><td>\*</td><td>1103.2022</td><td>14.00</td><td></td><td>1103.2092</td><td>10.00</td><td>\*</td></tr>
-<tr><td>1104.1220</td><td>17.00</td><td>\*</td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>11.00</td><td>\*</td><td>1104.1922</td><td>11.00</td><td>\*</td></tr>
-<tr><td>1104.1929</td><td>20.65</td><td>\*</td><td>1104.1993</td><td>11.00</td><td>\*</td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>16.00</td><td>\*</td></tr>
-<tr><td>1104.2320</td><td>7.00</td><td>\*</td><td>1104.2390</td><td>22.10</td><td></td><td>1104.2912</td><td>11.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
-<tr><td>1104.2932</td><td>20.65</td><td>\*</td><td>1104.2933</td><td>10.00</td><td>\*</td><td>1104.2993</td><td>9.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
+<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>8.00</td><td></td><td>1008.4039</td><td>1.00</td><td>\*</td></tr>
+<tr><td>1008.4040</td><td>0.05</td><td>\*</td><td>1008.5031</td><td>8.00</td><td></td><td>1008.5039</td><td>1.00</td><td>\*</td><td>1008.5040</td><td>0.05</td><td>\*</td></tr>
+<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>8.00</td><td></td><td>1008.6049</td><td>5.00</td><td></td><td>1008.6050</td><td>0.50</td><td></td></tr>
+<tr><td>1008.9035</td><td>8.00</td><td></td><td>1008.9037</td><td>1.00</td><td>\*</td><td>1008.9040</td><td>0.05</td><td>\*</td><td>1101.0051</td><td>8.00</td><td>\*</td></tr>
+<tr><td>1101.0059</td><td>12.00</td><td>\*</td><td>1102.2010</td><td>21.05</td><td></td><td>1102.2020</td><td>9.00</td><td></td><td>1102.9013</td><td>16.00</td><td></td></tr>
+<tr><td>1102.9045</td><td>14.00</td><td></td><td>1102.9046</td><td>12.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>12.00</td><td>\*</td></tr>
+<tr><td>1103.1112</td><td>11.00</td><td>\*</td><td>1103.1192</td><td>9.00</td><td>\*</td><td>1103.1320</td><td>10.00</td><td></td><td>1103.1390</td><td>21.50</td><td></td></tr>
+<tr><td>1103.1912</td><td>17.00</td><td></td><td>1103.1922</td><td>16.00</td><td></td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
+<tr><td>1103.1993</td><td>9.00</td><td>\*</td><td>1103.2012</td><td>8.00</td><td>\*</td><td>1103.2022</td><td>14.00</td><td></td><td>1103.2092</td><td>8.00</td><td>\*</td></tr>
+<tr><td>1104.1220</td><td>17.00</td><td></td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>9.00</td><td>\*</td><td>1104.1922</td><td>10.00</td><td>\*</td></tr>
+<tr><td>1104.1929</td><td>20.35</td><td>\*</td><td>1104.1993</td><td>9.00</td><td>\*</td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>16.00</td><td></td></tr>
+<tr><td>1104.2320</td><td>7.00</td><td></td><td>1104.2390</td><td>22.10</td><td></td><td>1104.2912</td><td>9.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
+<tr><td>1104.2932</td><td>20.35</td><td>\*</td><td>1104.2933</td><td>9.00</td><td>\*</td><td>1104.2993</td><td>7.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
 <tr><td>1104.3081</td><td>3.70</td><td></td><td>1104.3093</td><td>0.00</td><td></td><td>1105.1021</td><td>9.70</td><td></td><td>1105.2021</td><td>11.70</td><td></td></tr>
-<tr><td>1106.1010</td><td>0.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
+<tr><td>1106.1010</td><td>0.00</td><td></td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
 <tr><td>1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
 <tr><td>1108.1220</td><td>0.00</td><td></td><td>1108.1320</td><td>0.00</td><td></td><td>1108.1420</td><td>2.70</td><td></td><td>1108.1912</td><td>4.70</td><td></td></tr>
 <tr><td>1108.1992</td><td>4.70</td><td></td><td>1108.2020</td><td>5.70</td><td></td><td>1201.9010</td><td>0.00</td><td></td><td>1201.9021</td><td>0.10</td><td></td></tr>
@@ -2863,30 +2866,31 @@ Anhang 2*[^t-2]*
 <tr><td>1503.0010</td><td>0.00</td><td></td><td>1504.1091</td><td>0.00</td><td></td><td>1504.2010</td><td>0.00</td><td></td><td>1504.3010</td><td>0.00</td><td></td></tr>
 <tr><td>1505.0011</td><td>0.00</td><td></td><td>1505.0091</td><td>0.00</td><td></td><td>1506.0011</td><td>0.00</td><td></td><td>1506.0012</td><td>0.00</td><td></td></tr>
 <tr><td>1506.0019</td><td>0.00</td><td></td><td>1507.1010</td><td>0.00</td><td></td><td>1507.9011</td><td>0.00</td><td></td><td>1507.9091</td><td>0.00</td><td></td></tr>
-<tr><td>1508.1010</td><td>0.00</td><td></td><td>1508.9011</td><td>0.00</td><td></td><td>1508.9091</td><td>0.00</td><td></td><td>1509.1010</td><td>0.00</td><td></td></tr>
-<tr><td>1509.9010</td><td>0.00</td><td></td><td>1510.0010</td><td>0.00</td><td></td><td>1511.1010</td><td>0.00</td><td></td><td>1511.9011</td><td>0.00</td><td></td></tr>
-<tr><td>1511.9091</td><td>0.00</td><td></td><td>1512.1110</td><td>0.00</td><td></td><td>1512.1911</td><td>0.00</td><td></td><td>1512.1991</td><td>0.00</td><td></td></tr>
-<tr><td>1512.2110</td><td>0.00</td><td></td><td>1512.2910</td><td>0.00</td><td></td><td>1513.1110</td><td>0.00</td><td></td><td>1513.1911</td><td>0.00</td><td></td></tr>
-<tr><td>1513.1991</td><td>0.00</td><td></td><td>1513.2110</td><td>0.00</td><td></td><td>1513.2911</td><td>0.00</td><td></td><td>1513.2991</td><td>0.00</td><td></td></tr>
-<tr><td>1514.1110</td><td>0.00</td><td></td><td>1514.1910</td><td>0.00</td><td></td><td>1514.9110</td><td>0.00</td><td></td><td>1514.9910</td><td>0.00</td><td></td></tr>
-<tr><td>1515.1110</td><td>0.00</td><td></td><td>1515.1910</td><td>0.00</td><td></td><td>1515.2110</td><td>0.00</td><td></td><td>1515.2910</td><td>0.00</td><td></td></tr>
-<tr><td>1515.3010</td><td>0.00</td><td></td><td>1515.5011</td><td>0.00</td><td></td><td>1515.5020</td><td>0.00</td><td></td><td>1515.9011</td><td>0.00</td><td></td></tr>
+<tr><td>1508.1010</td><td>0.00</td><td></td><td>1508.9011</td><td>0.00</td><td></td><td>1508.9091</td><td>0.00</td><td></td><td>1509.2010</td><td>0.00</td><td></td></tr>
+<tr><td>1509.3010</td><td>0.00</td><td></td><td>1509.4010</td><td>0.00</td><td></td><td>1509.9010</td><td>0.00</td><td></td><td>1510.1010</td><td>0.00</td><td></td></tr>
+<tr><td>1510.9010</td><td>0.00</td><td></td><td>1511.1010</td><td>0.00</td><td></td><td>1511.9011</td><td>0.00</td><td></td><td>1511.9091</td><td>0.00</td><td></td></tr>
+<tr><td>1512.1110</td><td>0.00</td><td></td><td>1512.1911</td><td>0.00</td><td></td><td>1512.1991</td><td>0.00</td><td></td><td>1512.2110</td><td>0.00</td><td></td></tr>
+<tr><td>1512.2910</td><td>0.00</td><td></td><td>1513.1110</td><td>0.00</td><td></td><td>1513.1911</td><td>0.00</td><td></td><td>1513.1991</td><td>0.00</td><td></td></tr>
+<tr><td>1513.2110</td><td>0.00</td><td></td><td>1513.2911</td><td>0.00</td><td></td><td>1513.2991</td><td>0.00</td><td></td><td>1514.1110</td><td>0.00</td><td></td></tr>
+<tr><td>1514.1910</td><td>0.00</td><td></td><td>1514.9110</td><td>0.00</td><td></td><td>1514.9910</td><td>0.00</td><td></td><td>1515.1110</td><td>0.00</td><td></td></tr>
+<tr><td>1515.1910</td><td>0.00</td><td></td><td>1515.2110</td><td>0.00</td><td></td><td>1515.2910</td><td>0.00</td><td></td><td>1515.3010</td><td>0.00</td><td></td></tr>
+<tr><td>1515.5011</td><td>0.00</td><td></td><td>1515.5020</td><td>0.00</td><td></td><td>1515.6010</td><td>0.00</td><td></td><td>1515.9011</td><td>0.00</td><td></td></tr>
 <tr><td>1515.9021</td><td>0.00</td><td></td><td>1515.9031</td><td>0.00</td><td></td><td>1515.9091</td><td>0.00</td><td></td><td>1516.1010</td><td>0.00</td><td></td></tr>
-<tr><td>1516.2010</td><td>0.00</td><td></td><td>1517.1010</td><td>0.00</td><td></td><td>1517.9010</td><td>0.00</td><td></td><td>1518.0011</td><td>0.00</td><td></td></tr>
-<tr><td>1518.0081</td><td>0.00</td><td></td><td>1518.0093</td><td>0.00</td><td></td><td>1702.3021</td><td>0.00</td><td></td><td>1702.3033</td><td>0.00</td><td></td></tr>
-<tr><td>1702.4011</td><td>0.00</td><td></td><td>1702.6022</td><td>0.00</td><td></td><td>1702.9011</td><td>0.00</td><td></td><td>1703.9091</td><td>7.00</td><td>\*</td></tr>
-<tr><td>1802.0010</td><td>0.00</td><td></td><td>1905.9021</td><td>1.00</td><td></td><td>2102.1091</td><td>0.00</td><td></td><td>2102.2011</td><td>0.00</td><td></td></tr>
-<tr><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>9.70</td><td></td><td>2301.1011</td><td>0.00</td><td></td><td>2301.1019</td><td>0.00</td><td></td></tr>
-<tr><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>16.00</td><td></td><td>2302.3020</td><td>4.00</td><td></td><td>2302.4030</td><td>5.00</td><td></td></tr>
-<tr><td>2302.4091</td><td>5.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td><td>2303.1012</td><td>0.00</td><td></td></tr>
-<tr><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>1.00</td><td></td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
-<tr><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.70</td><td></td><td>2306.2010</td><td>0.00</td><td></td><td>2306.3010</td><td>0.00</td><td></td></tr>
-<tr><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td><td>2306.6010</td><td>0.00</td><td></td></tr>
-<tr><td>2306.9011</td><td>12.70</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>3.70</td><td></td><td>2308.0030</td><td>0.00</td><td></td></tr>
-<tr><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>3.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>1.15</td><td>\*</td></tr>
-<tr><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>161.70</td><td>\*</td><td>2309.9082</td><td>1.15</td><td>\*</td><td>2309.9089</td><td>1.15</td><td>\*</td></tr>
-<tr><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>12.70</td><td></td><td>3809.1010</td><td>18.70</td><td></td><td>3823.1110</td><td>0.00</td><td></td></tr>
-<tr><td>3823.1210</td><td>4.70</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>1516.2010</td><td>0.00</td><td></td><td>1516.3010</td><td>0.00</td><td></td><td>1517.1010</td><td>0.00</td><td></td><td>1517.9010</td><td>0.00</td><td></td></tr>
+<tr><td>1518.0011</td><td>0.00</td><td></td><td>1518.0081</td><td>0.00</td><td></td><td>1518.0093</td><td>0.00</td><td></td><td>1702.3021</td><td>0.00</td><td></td></tr>
+<tr><td>1702.3033</td><td>0.00</td><td></td><td>1702.4011</td><td>0.00</td><td></td><td>1702.6022</td><td>0.00</td><td></td><td>1702.9011</td><td>0.00</td><td></td></tr>
+<tr><td>1703.9091</td><td>6.00</td><td>\*</td><td>1802.0010</td><td>0.00</td><td></td><td>1905.9021</td><td>1.00</td><td></td><td>2102.1091</td><td>0.00</td><td></td></tr>
+<tr><td>2102.2011</td><td>0.00</td><td></td><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>9.70</td><td></td><td>2301.1011</td><td>0.00</td><td></td></tr>
+<tr><td>2301.1019</td><td>0.00</td><td></td><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>16.00</td><td></td><td>2302.3020</td><td>4.00</td><td></td></tr>
+<tr><td>2302.4030</td><td>5.00</td><td></td><td>2302.4091</td><td>5.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td></tr>
+<tr><td>2303.1012</td><td>0.00</td><td></td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>1.00</td><td></td><td>2303.3010</td><td>0.00</td><td></td></tr>
+<tr><td>2304.0010</td><td>0.00</td><td></td><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.70</td><td></td><td>2306.2010</td><td>0.00</td><td></td></tr>
+<tr><td>2306.3010</td><td>0.00</td><td></td><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td></tr>
+<tr><td>2306.6010</td><td>0.00</td><td></td><td>2306.9011</td><td>12.70</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>3.70</td><td></td></tr>
+<tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>0.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td></tr>
+<tr><td>2309.9011</td><td>0.40</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>161.60</td><td>\*</td><td>2309.9082</td><td>0.40</td><td>\*</td></tr>
+<tr><td>2309.9089</td><td>0.40</td><td>\*</td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>12.70</td><td></td><td>3809.1010</td><td>18.70</td><td></td></tr>
+<tr><td>3823.1110</td><td>0.00</td><td></td><td>3823.1210</td><td>4.70</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Die Zollansätze können vom Generaltarif abweichen. Neu festgelegte Zollansätze sind mit einem «\*» gekennzeichnet.</td></tr>
 </table>
 
@@ -2896,7 +2900,7 @@ Anhang 3*[^t-3]*
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 16. Febr. 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), vom 29. April 2021 ([AS 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), vom 15. Juni 2021 ([AS 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), vom 18. Juni 2021 ([AS 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), Ziff. I und II der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)), Ziff. I der V vom 17. Sept. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)) und der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)).
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 16. Febr. 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), vom 29. April 2021 ([AS 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), vom 15. Juni 2021 ([AS 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), vom 18. Juni 2021 ([AS 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. I der V vom 17. Sept. 2021 ([AS 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), der Berichtigung vom 18. Okt. 2021 (AS 2**021** 617), Ziff. III der V des BLW vom 30. Aug. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)) und Ziff. I der V des BLW vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 797](https://fedlex.data.admin.ch/eli/oc/2021/797)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2981,7 +2985,7 @@ Anhang 3*[^t-3]*
 <tr><td></td><td></td><td>[4]</td></tr>
 <tr><td>07.6</td><td>Übrige Milchprodukte</td><td>**[5]**</td></tr>
 <tr><td>08</td><td>Kasein</td><td>697 **[5]**</td></tr>
-<tr><td colspan="4">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt** [2] ohne 0401.1090, 0401.2090, 0402.2119, 0402.2919, 0403.1010 (Bundesgesetz vom 13. Dezember 1974 über die Ein- und Ausfuhr von Erzeugnissen aus Landwirtschaftsprodukten; SR *632.111.72*), 0403.1099, 0403.9049, 0403.9059, 0403.9099, 0404.9089, 0405.1019, 0405.1099, 0405.2091, 0405.2099, 0405.9090 [3] in Milchäquivalenten: 23 360 Tonnen pro Jahr [4] in Milchäquivalenten: 26 240 Tonnen **[5]** **Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><td colspan="4">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt** [2] ohne 0401.1090, 0401.2090, 0402.2119, 0402.2919, 0403.2091 (Bundesgesetz vom 13. Dezember 1974 über die Ein- und Ausfuhr von Erzeugnissen aus Landwirtschaftsprodukten; SR *632.111.72*), 0403.2029, 0403.9049, 0403.9059, 0403.9099, 0404.9089, 0405.1019, 0405.1099, 0405.2091, 0405.2099, 0405.9090 [3] in Milchäquivalenten: 23 360 Tonnen pro Jahr [4] in Milchäquivalenten: 26 240 Tonnen **[5]** **Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 ### 5. Marktordnung Eier und Eiprodukte
@@ -3013,16 +3017,16 @@ Anhang 3*[^t-3]*
 <table>
 <tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen)</th></tr>
 <tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><td>14</td><td>Kartoffeln und Kartoffelprodukte, davon:</td><td>**23 750**</td></tr>
-<tr><td>14.1</td><td>Saatkartoffeln</td><td>**4 000**</td></tr>
-<tr><td>14.1.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: 1. Oktober bis 31. Dezember 2021</td><td>**2000**</td></tr>
-<tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9 250**</td></tr>
-<tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: 15. September bis 31. Dezember 2021</td><td>**20 000**</td></tr>
-<tr><td>14.3</td><td>Speisekartoffeln</td><td>**6 500**</td></tr>
-<tr><td>14.3.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: 15. Mai bis 30. Juni 2021</td><td>5 000</td></tr>
-<tr><td>14.3.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: 1. bis 31. Juli 2021</td><td>5 000</td></tr>
-<tr><td>14.4</td><td>Kartoffelprodukte</td><td>**4 000**</td></tr>
-<tr><td colspan="3">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Frei****zonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
+<tr><td>14</td><td>Kartoffeln und Kartoffelprodukte, in Kartoffeläquivalenten, davon:</td><td>**23 750**</td></tr>
+<tr><td>14.1</td><td>Saatkartoffeln</td><td>**4000**</td></tr>
+<tr><td>14.1.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 31. Dezember 2022</td><td>3000</td></tr>
+<tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9250**</td></tr>
+<tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2022: 1. Januar bis 30. Juni 2022</td><td>25 000</td></tr>
+<tr><td>14.3</td><td>Speisekartoffeln</td><td>**6500**</td></tr>
+<tr><td>14.4</td><td>Kartoffelprodukte, davon:</td><td>**4000**</td></tr>
+<tr><td>14.4.1</td><td>Warenkategorie Halbfabrikate</td><td>**1500**</td></tr>
+<tr><td>14.4.2</td><td>Warenkategorie Fertigprodukte</td><td>**2500**</td></tr>
+<tr><td colspan="3">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
 </table>
 
 ### 8. Marktordnung Frisches Gemüse
@@ -3096,16 +3100,15 @@ Anhang 4*[^t-4]*
 
 ## Freigabe des Zollkontingents Brotgetreide
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^t-4]: Fassung gemäss Ziff. I der V des BLW vom 30. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 803](https://fedlex.data.admin.ch/eli/oc/2021/803)).
 
 <table>
 <tr><td>Zollkontingentsteilmenge</td><td>Periode für die Einfuhr zum KZA</td></tr>
-<tr><td>10 000 t brutto</td><td>5. Januar – 31. Dezember</td></tr>
-<tr><td>10 000 t brutto</td><td>2. März – 31. Dezember</td></tr>
+<tr><td>30 000 t brutto</td><td>5. Januar – 31. Dezember</td></tr>
+<tr><td>20 000 t brutto</td><td>2. März – 31. Dezember</td></tr>
 <tr><td>10 000 t brutto</td><td>4. Mai – 31. Dezember</td></tr>
-<tr><td>10 000 t brutto</td><td>6. Juli – 31. Dezember</td></tr>
-<tr><td>15 000 t brutto</td><td>1. September – 31. Dezember</td></tr>
-<tr><td>15 000 t brutto</td><td>3. November – 31. Dezember</td></tr>
+<tr><td>5000 t brutto</td><td>1. September – 31. Dezember</td></tr>
+<tr><td>5000 t brutto</td><td>3. November – 31. Dezember</td></tr>
 </table>
 
 Anhang 5*[^t-5]*
@@ -3114,25 +3117,7 @@ Anhang 5*[^t-5]*
 
 Anhang 6*[^t-6]*
 
-(Art. 50)
-
-## Gebührensätze im Warenverkehr mit dem Ausland
-
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
-
-Für Einfuhren mit GEB werden folgende Verwaltungsgebühren erhoben:
-
-<table>
-<tr><td>Warengruppe</td><td>Gebühr je veranlagte Warenpartie (CHF)</td></tr>
-<tr><td>a. Früchte und Gemüse, inklusive Tiefkühlgemüse und Setzzwiebeln</td><td>5.–</td></tr>
-<tr><td>b. Früchte zu Most- und Brennzwecken, inklusive Obstprodukte</td><td>5.–</td></tr>
-<tr><td>c. Kartoffeln, inklusive Saatkartoffeln und Kartoffelprodukte</td><td>5.–</td></tr>
-<tr><td>d. ...</td><td></td></tr>
-<tr><td>e. Milchprodukte (ohne Käse und Quark)</td><td>5.–</td></tr>
-<tr><td>f. Geflügel, Geflügelfleisch inklusive Zubereitungen</td><td>5.–</td></tr>
-<tr><td>g. Lebende Tiere der Rindvieh-, Schweine-, Schaf- und Ziegengattung Samen der Rindviehgattung, Fleisch und Schlachtnebenprodukte, sowie Wurstwaren und ähnliche Erzeugnisse, inklusive Trockenfleisch, Fleischkonserven usw.</td><td>5.–</td></tr>
-<tr><td>h. Weiss- und Rotwein sowie Traubensaft</td><td>3.–</td></tr>
-</table>
+[^t-6]: Aufgehoben durch Ziff. II Abs. 2 der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 
 Anhang 7
 
@@ -3142,6 +3127,6 @@ Anhang 7
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex7-lvlu1-1]
+…[^annex7-lvlu1-1]
 
 [^annex7-lvlu1-1]: Die Änderungen können unter [AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)konsultiert werden.
