@@ -3,20 +3,20 @@ canton: AG
 number: "755.131"
 title: Verordnung über die zur Benutzung des Kantonsstrassenareals zu erhebenden Gebühren
 language: de
-version: 2008-01-01
-valid_until: 2021-12-31
-version_adopted: 2007-11-07
+version: 2022-01-01
+valid_until: 2024-06-30
+version_adopted: 2021-11-10
 adopted: 1998-11-18
 in_force: 1999-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/755.131"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1370/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3130/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die zur Benutzung des Kantonsstrassenareals zu erhebenden Gebühren
 
-Vom 18.11.1998 (Stand 01.01.2008)
+Vom 18.11.1998 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -34,7 +34,7 @@ beschliesst:
 
 <sup>1</sup> Für die bewilligungspflichtige Benutzung der Kantonsstrassen sind Gebühren zu entrichten.
 
-<sup>2</sup> Bei Gemeinden, Gemeindeverbänden, staatlichen Anstalten und anderen öffentlich-rechtlichen Trägern kann, sofern sie Gegenrecht halten, die Gebühr reduziert werden.
+<sup>2</sup> …
 
 <sup>3</sup> Bei ausserordentlichen Verhältnissen ist unter Berücksichtigung der tatsächlichen Inanspruchnahme des Strassenareals die Gebühr angemessen zu reduzieren oder zu erhöhen; auf die Erhebung kann auch ganz verzichtet werden.
 
