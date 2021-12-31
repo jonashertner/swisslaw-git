@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1986 sur la chasse et la protection des mammif
 short: LChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: fr
-version: 2017-05-01
+version: 2022-01-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20170501/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20170501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20170501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20170501/fr"
 
 (Loi sur la chasse, LChP)
 
-du 20 juin 1986 (Etat le 1<sup>er</sup> mai 2017)
+du 20 juin 1986 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -265,7 +265,7 @@ Une autorisation de la Confédération est nécessaire pour:
 
 <sup>5</sup> Le Conseil fédéral édicte des prescriptions sur le marquage des mammifères et des oiseaux sauvages.
 
-[^14-1]: Nouvelle teneur selon le ch. 43 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);FF**2013** 3265).
+[^14-1]: Nouvelle teneur selon le ch. 43 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Chapitre 6 Responsabilité et assurance
 
@@ -376,19 +376,18 @@ Le retrait de l’autorisation de chasser est prononcé par le juge, pour une an
 
 <sup>1</sup> La poursuite pénale et le jugement des infractions sont du ressort des cantons.
 
-<sup>2</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires[^21-1] poursuit et juge les infractions commises lors de l’importation, du transit ou de l’exportation. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^21-2] ou à la loi du 12 juin 2009 sur la TVA[^21-3], l’Administration fédérale des douanes poursuit et juge ces infractions.[^21-4]
+<sup>2</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires poursuit et juge les infractions commises lors de l’importation, du transit ou de l’exportation. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes[^21-1] ou à la loi du 12 juin 2009 sur la TVA[^21-2], l’Office fédéral de la douane et de la sécurité des frontières poursuit et juge ces infractions.[^21-3]
 
-<sup>3</sup> Si un acte constitue à la fois une infraction visée à l’al. 2 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^21-5], à la loi fédérale du 16 décembre 2005 sur la protection des animaux[^21-6], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^21-7] ou à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^21-8] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^21-9]
+<sup>3</sup> Si un acte constitue à la fois une infraction visée à l’al. 2 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées[^21-4], à la loi fédérale du 16 décembre 2005 sur la protection des animaux[^21-5], à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires[^21-6] ou à la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^21-7] et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.[^21-8]
 
-[^21-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^21-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^21-3]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^21-4]: Nouvelle teneur selon le ch. 5 de l’annexe 1 à la LF du 16 mars 2012 sur les espèces protégées, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [FF 2011 6439](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^21-5]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^21-6]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^21-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^21-8]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^21-9]: Nouvelle teneur selon le ch. II 8 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^21-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^21-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^21-3]: Nouvelle teneur selon le ch. I 35 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^21-4]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^21-5]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^21-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^21-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^21-8]: Nouvelle teneur selon le ch. II 8 de l’annexe à la L du 20 juin 2014 sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 #### Art. 22
 

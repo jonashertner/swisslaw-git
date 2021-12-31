@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 1986 über die Jagd und den Schutz wildlebende
 short: JSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/506_506_506"
 language: de
-version: 2017-05-01
+version: 2022-01-01
 adopted: 1986-06-20
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20170501/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20170501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20170501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/506_506_506/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1988-506_506_506-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/506_506_506/20170501/de"
 
 (Jagdgesetz, JSG)
 
-vom 20. Juni 1986 (Stand am 1. Mai 2017)
+vom 20. Juni 1986 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -361,19 +361,18 @@ Die Jagdberechtigung wird vom Richter für mindestens ein Jahr und höchstens ze
 
 <sup>1</sup> Die Verfolgung und Beurteilung von Widerhandlungen ist Sache der Kantone.
 
-<sup>2</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen[^21-1] verfolgt und be-urteilt Widerhandlungen bei der Ein-, Durch- und Ausfuhr. Liegt gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^21-2] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^21-3] vor, so verfolgt und beurteilt die Eidgenössische Zollverwaltung die Widerhandlungen.[^21-4]
+<sup>2</sup> Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen verfolgt und beurteilt Widerhandlungen bei der Ein-, Durch- und Ausfuhr. Liegt gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^21-1] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^21-2] vor, so verfolgt und beurteilt das Bundesamt für Zoll und Grenzsicherheit die Widerhandlungen.[^21-3]
 
-<sup>3</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 2 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Bundesgesetz vom 16. März 2012[^21-5] über den Verkehr mit Tieren und Pflanzen geschützter Arten, das Tierschutzgesetz vom 16. Dezember 2005[^21-6], das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^21-7] oder das Tierseuchengesetz vom 1. Juli 1966[^21-8] dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^21-9]
+<sup>3</sup> Stellt eine Widerhandlung gleichzeitig eine nach Absatz 2 sowie eine durch die gleiche Bundesbehörde zu verfolgende Widerhandlung gegen das Bundesgesetz vom 16. März 2012[^21-4] über den Verkehr mit Tieren und Pflanzen geschützter Arten, das Tierschutzgesetz vom 16. Dezember 2005[^21-5], das Zollgesetz vom 18. März 2005, das Mehrwertsteuergesetz vom 12. Juni 2009, das Lebensmittelgesetz vom 20. Juni 2014[^21-6] oder das Tierseuchengesetz vom 1. Juli 1966[^21-7] dar, so wird die für die schwerste Widerhandlung angedrohte Strafe angewendet; diese kann angemessen erhöht werden.[^21-8]
 
-[^21-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2014 angepasst.
-[^21-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^21-3]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^21-4]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 16. März 2012 über den Verkehr mit Tieren und Pflanzen geschützter Arten, in Kraft seit 1. Okt. 2013 ([AS 2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600); [BBl 2011 6985](https://fedlex.data.admin.ch/eli/fga/2011/1119)).
-[^21-5]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^21-6]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^21-7]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^21-8]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^21-9]: Fassung gemäss Anhang Ziff. II 8 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
+[^21-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^21-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^21-3]: Fassung gemäss Ziff. I 35 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^21-4]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^21-5]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^21-6]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^21-7]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^21-8]: Fassung gemäss Anhang Ziff. II 8 des Lebensmittelgesetzes vom 20. Juni 2014, in Kraft seit 1. Mai 2017 ([AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62); [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)).
 
 #### Art. 22
 
@@ -446,7 +445,7 @@ Die Kantone regeln für den Vollzug dieses Gesetzes die Durchsuchung von Räumen
 
 [^27-subdivu1-1]: [BS **9** 544; [AS 1954 559](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)Ziff. I 7, [1959 931](https://fedlex.data.admin.ch/eli/oc/1959/931_961_953)Art. 11 Bst. c, [1962 794](https://fedlex.data.admin.ch/eli/oc/1962/794_832_852), [1971 852](https://fedlex.data.admin.ch/eli/oc/1971/852_854_855), [1977 1907](https://fedlex.data.admin.ch/eli/oc/1977/1907_1907_1907)Art. 1, 2, [1981 497](https://fedlex.data.admin.ch/eli/oc/1981/497_497_497)Art. 1]
 
-### und 3. …**
+### und 3. ...**
 
 [^27-subdivu2-1]
 
