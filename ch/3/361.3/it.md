@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 6 dicembre 2013 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -93,7 +93,7 @@ Le autorità seguenti possono far confrontare dal servizio incaricato della gest
 - a. i servizi di fedpol competenti per la Polizia giudiziaria federale e per la cooperazione internazionale di polizia;
 - b.[^4-1] i servizi della SEM competenti per l’identificazione dei richiedenti l’asilo e delle persone bisognose di protezione, per l’esame delle condizioni d’entrata e per le procedure in materia di diritto degli stranieri;
 - c. il servizio dell’Ufficio federale di giustizia competente per l’assistenza giudiziaria internazionale;
-- d. i servizi dell’Amministrazione federale delle dogane competenti per l’identificazione delle persone;
+- d. i servizi dell’Ufficio federale della dogana e della sicurezza dei confini[^4-2] competenti per l’identificazione delle persone;
 - e. le rappresentanze svizzere all’estero competenti per il rilascio di visti;
 - f. il Servizio delle attività informative della Confederazione (SIC);
 - g. i servizi di polizia incaricati in virtù del diritto cantonale del rilevamento segnaletico e dell’identificazione delle persone nei Cantoni;
@@ -102,6 +102,7 @@ Le autorità seguenti possono far confrontare dal servizio incaricato della gest
 <sup>2</sup> Il servizio cantonale d’identificazione di cui al capoverso 1 lettera g funge da interlocutore principale di fedpol per tutte le questioni correlate all’applicazione della presente ordinanza da parte dei servizi di polizia del Cantone pertinente.
 
 [^4-1]: Nuovo testo giusta il n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 

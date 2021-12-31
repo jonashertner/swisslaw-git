@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (Etat le 1<sup>er</sup> juillet 2021)
+du 6 décembre 2013 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -93,7 +93,7 @@ Les autorités suivantes peuvent faire comparer des données signalétiques biom
 - a. les services de fedpol chargés de tâches de police judiciaire au niveau fédéral et de coopération policière internationale;
 - b.[^4-1] les services du SEM chargés de l’identification des requérants d’asile et des personnes à protéger, de l’examen des conditions d’entrée et des procédures relevant du droit des étrangers;
 - c. le service de l’Office fédéral de la justice chargé de l’entraide judiciaire internationale;
-- d. les services de l’Administration fédérale des douanes chargés de l’identification de personnes;
+- d. les services de l’Office fédéral de la douane et de la sécurité des frontières[^4-2] chargés de l’identification de personnes;
 - e. les représentations suisses à l’étranger chargées de délivrer des visas;
 - f. le Service de renseignement de la Confédération (SRC);
 - g. les services de police chargés, dans les cantons, en vertu du droit cantonal des saisies signalétiques et de l’identification des personnes;
@@ -102,6 +102,7 @@ Les autorités suivantes peuvent faire comparer des données signalétiques biom
 <sup>2</sup> Le service cantonal d’identification selon l’al. 1, let. g, est l’interlocuteur unique de fedpol pour toutes les questions relatives à l’application de la présente ordonnance par les services de police du canton concerné.
 
 [^4-1]: Nouvelle teneur selon le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 

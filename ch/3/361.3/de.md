@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2021-07-01
+version: 2022-01-01
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 1. Juli 2021)
+vom 6. Dezember 2013 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -93,7 +93,7 @@ Folgende Behörden können beim für die Führung des AFIS zuständigen Dienst b
 - a. die für die Bundeskriminalpolizei und für die internationale Polizeikooperation zuständigen Dienste von fedpol;
 - b.[^4-1] die für die Identifikation von Asylsuchenden und Schutzbedürftigen, für die Prüfung der Einreisevoraussetzungen sowie für ausländerrechtliche Verfahren zuständigen Dienste des SEM;
 - c. der für die internationale Rechtshilfe zuständige Dienst des Bundesamtes für Justiz;
-- d. die für die Identifikation von Personen zuständigen Dienste der Eidgenössischen Zollverwaltung;
+- d. die für die Identifikation von Personen zuständigen Dienste des Bundesamts für Zoll und Grenzsicherheit[^4-2];
 - e. die für die Erteilung von Visa zuständigen schweizerischen Vertretungen im Ausland;
 - f. der Nachrichtendienst des Bundes (NDB);
 - g. die gemäss kantonalem Recht mit Aufgaben des Erkennungsdienstes und der Personenidentifikation betrauten polizeilichen Dienste in den Kantonen;
@@ -102,6 +102,7 @@ Folgende Behörden können beim für die Führung des AFIS zuständigen Dienst b
 <sup>2</sup> Der kantonale Erkennungsdienst nach Absatz 1 Buchstabe g ist gegenüber fedpol der zentrale Ansprechpartner bezüglich aller Fragen im Zusammenhang mit der Anwendung dieser Verordnung durch die polizeilichen Dienste im jeweiligen Kanton.
 
 [^4-1]: Fassung gemäss Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
