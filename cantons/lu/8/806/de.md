@@ -4,13 +4,12 @@ number: "806"
 title: Gesundheitsberufeverordnung
 short: GbV
 language: de
-version: 2021-07-01
-valid_until: 2021-12-31
-version_adopted: 2021-06-15
+version: 2022-01-01
+version_adopted: 2021-11-30
 adopted: 2009-04-28
 in_force: 2009-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/806"
-pdf: "https://srl.lu.ch/api/de/versions/3754/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3874/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3754/pdf_file"
 
 (GbV)
 
-vom 28.04.2009 (Stand 01.07.2021)
+vom 28.04.2009 (Stand 01.01.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -48,11 +47,15 @@ beschliesst:
 
 <sup>4</sup> Die Einzelheiten über die Betriebsbewilligungen für öffentliche Apotheken, Versandapotheken, Privatapotheken, Spitalapotheken und Apotheken von Heimen und anderen Institutionen sowie für Drogerien und Betriebe, die Blut und Blutprodukte nur lagern, sind in der Heilmittelverordnung vom 28. April 2009[^1-5] geregelt.
 
+<sup>5</sup> Die Zulassung von Berufsleuten und Betrieben nach dieser Verordnung zur Leistungserbringung zulasten der obligatorischen Krankenpflegeversicherung nach dem Bundesgesetz über die Krankenversicherung (KVG) vom 18. März 1994[^1-6] richtet sich nach der Kantonalen Zulassungsverordnung vom 30. November 2021[^1-7].
+
 [^1-1]: SRL Nr. [800](https://srl.lu.ch/data/800/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 [^1-2]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
 [^1-3]: SRL Nr. [806b](https://srl.lu.ch/data/806b/de)
 [^1-4]: SRL Nr. [806a](https://srl.lu.ch/data/806a/de)
 [^1-5]: SRL Nr. [830](https://srl.lu.ch/data/830/de) (G 2009 113)
+[^1-6]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+[^1-7]: SRL Nr. [865c](https://srl.lu.ch/data/865c/de)
 
 #### § 2
 
@@ -399,7 +402,7 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Eine Bewilligung als Logopäde oder Logopädin erhält, wer die Voraussetzungen von Artikel 50 der eidgenössischen Verordnung über die Krankenversicherung erfüllt.
+<sup>1</sup> Eine Bewilligung als Logopäde oder Logopädin erhält, wer die Voraussetzungen von Artikel 50 Unterabsatz b der eidgenössischen Verordnung über die Krankenversicherung erfüllt.
 
 #### § 31
 
@@ -655,11 +658,15 @@ beschliesst:
 - c. Organisationen der Hebammen,
 - d. Organisationen der Logopädie,
 - e. Organisationen der Physiotherapie,
-- f. Transport und Rettungsunternehmen.
+- f. Transport und Rettungsunternehmen,
+- g. Organisationen der Neuropsychologie,
+- h. Organisationen der Podologie.
 
-<sup>2</sup> Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) benötigen eine Betriebsbewilligung der Gemeinde, in der sie ihren Sitz haben. Spitex-Organisationen die ihren Sitz nicht im Kanton Luzern haben, müssen für eine Tätigkeit im Kanton Luzern nach dem Recht ihres Sitzkantons zum Betrieb zugelassen sein.
+<sup>2</sup> Organisationen der Krankenpflege und der Hilfe zu Hause (Spitex) benötigen eine Betriebsbewilligung der Gemeinde, in der sie ihren Sitz haben. Spitex-Organisationen, die ihren Sitz nicht im Kanton Luzern haben, müssen für eine Tätigkeit im Kanton Luzern nach dem Recht ihres Sitzkantons zum Betrieb zugelassen sein. Die Gemeinden melden der Dienststelle Gesundheit und Sport die Erteilung und das Erlöschen der Bewilligungen.
 
 <sup>3</sup> Die in einem bewilligungspflichtigen Betrieb fachlich eigenverantwortlich tätigen Gesundheitsfachpersonen benötigen eine Berufsausübungsbewilligung.
+
+<sup>4</sup> Abgabestellen für Mittel und Gegenstände, die der Untersuchung oder Behandlung dienen, dürfen ohne Betriebsbewilligung tätig sein.
 
 #### § 45f
 
