@@ -4,13 +4,12 @@ number: "126.581"
 title: Gesetz über die Pensionskasse Kanton Solothurn
 short: PKG
 language: de
-version: 2017-10-01
-valid_until: 2021-12-31
-version_adopted: 2017-05-09
+version: 2022-01-01
+version_adopted: 2020-11-04
 adopted: 2014-09-28
 in_force: 2015-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.581"
-pdf: "https://bgs.so.ch/api/de/versions/4631/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5109/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4631/pdf_file"
 
 (PKG)
 
-Vom 28.09.2014 (Stand 01.10.2017)
+Vom 28.09.2014 (Stand 01.01.2022)
 
 Der Kantonsrat von Solothurn
 
@@ -53,17 +52,19 @@ beschliesst:
 
 <sup>1</sup> Die nachstehenden Begriffe haben in diesem Gesetz und den Reglementen der Pensionskasse Kanton Solothurn folgende Bedeutung:
 
-- a) Arbeitgeber sind der Kanton Solothurn für das Staatspersonal, die Träger der Volksschulen im Kanton Solothurn für die Volksschullehrpersonen sowie angeschlossene Unternehmungen (natürliche oder juristische Personen), öffentlich-rechtliche Körperschaften, Anstalten und Stiftungen, die ihr gesamtes Personal oder Teile davon durch einen Anschlussvertrag bei der Pensionskasse versichern;
+- a) Arbeitgeber sind
+  - 1\. der Kanton Solothurn für das Staatspersonal, die Träger der Volksschulen im Kanton Solothurn für die Volksschullehrpersonen und die Solothurner Spitäler AG;
+  - 2\. die angeschlossenen Unternehmungen (natürliche oder juristische Personen, inkl. öffentlich-rechtliche Körperschaften, Anstalten und Stiftungen), die ihr gesamtes Personal oder Teile davon durch einen Anschlussvertrag bei der Pensionskasse versichern.
 - b) Arbeitnehmende sind Personen, die zu einem Arbeitgeber nach Buchstabe a in einem öffentlich-rechtlichen oder einem privaten Dienstverhältnis stehen;
 - c) Träger der Volksschulen sind die Einwohnergemeinden im Kanton Solothurn;
 - d) Versicherte Personen sind der Pensionskasse angeschlossene Arbeitnehmende sowie ehemalige Arbeitnehmende, die von der Pensionskasse Versicherungsleistungen beziehen;
 - e) Der versicherte Lohn entspricht dem massgebenden Lohn abzüglich eines Koordinationsabzugs, mindestens aber dem minimalen koordinierten Lohn[^3-1];
-- f) Der massgebende Lohn im Sinne dieses Gesetzes entspricht dem AHV-beitragspflichtigen Lohn vermindert um Lohnbestandteile, die nur gelegentlich anfallen. Er entspricht höchstens dem fünffachen oberen Grenzlohn nach dem BVG[^3-2];
-- g) Der Koordinationsabzug entspricht 20 Prozent des massgebenden Lohnes zuzüglich eines festen Teils von 60 Prozent der maximalen Rente nach dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^3-3] abgerundet auf die nächste durch 60 teilbare ganze Zahl. Bei Teilbeschäftigung wird der feste Teil des Koordinationsabzugs anteilmässig berechnet;
+- f) Der massgebende Lohn im Sinne dieses Gesetzes entspricht dem AHV-beitragspflichtigen Lohn vermindert um Lohnbestandteile, die nur gelegentlich anfallen. Er entspricht höchstens dem achtfachen oberen Grenzlohn nach dem BVG[^3-2];
+- g) Der Koordinationsabzug entspricht 75 Prozent der maximalen Rente nach dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^3-3]. Bei Teilbeschäftigung wird der Koordinationsabzug anteilsmässig berechnet;
 - h) Risikoversicherung ist die Versicherung gegen die wirtschaftlichen Folgen von Tod und Invalidität.
 
-[^3-1]: SR 831.40; Art. 8 Abs. 2 BVG.
-[^3-2]: SR 831.40; Art. 8 Abs. 1 BVG.
+[^3-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de); Art. 8 Abs. 2 BVG.
+[^3-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de); Art. 8 Abs. 1 BVG.
 [^3-3]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
 
 #### § 4
@@ -77,23 +78,63 @@ beschliesst:
 [^4-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de).
 [^4-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de).
 
+#### § 4bis
+
+**Angeschlossene Unternehmungen**
+
+<sup>1</sup> Für die angeschlossenen Unternehmungen und deren Versicherten gelten die Bestimmungen dieses Gesetzes und derselbe Vorsorgeplan wie für die versicherten Personen der Arbeitgeber nach § 3 Absatz 1 Buchstabe a Ziffer 1. Im Anschlussvertrag können Abweichungen von folgenden Bestimmungen vorgesehen werden:
+
+- a) Festlegung des Koordinationsabzugs (§ 3 Absatz 1 Buchstabe g);
+- b) Beiträge der Arbeitgeber (§ 8);
+- c) Massgebender Lohn (§ 3 Absatz 1 Buchstabe f): Es kann ein tieferes Maximum festgelegt werden. Dieses muss aber mindestens dem zweifachen oberen Grenzlohn nach dem BVG[^4bis-1] entsprechen;
+- d) Eintrittsschwelle (§ 5 Absatz 1): Es kann eine tiefere Eintrittsschwelle als im BVG[^4bis-2] festgelegt werden. In diesem Fall sind die Bestimmungen zu Beginn und Ende der Versicherungspflicht gemäss § 6 sinngemäss anwendbar;
+- e) Ergänzungsversicherung (§ 6<sup>bis</sup>).
+
+<sup>2</sup> Im Anschlussvertrag können ein oder mehrere Vorsorgepläne festgelegt werden, die für das Personal oder unterschiedliche Personalkategorien der Unternehmung gelten.
+
+<sup>3</sup> Die Beiträge für im Anschlussvertrag festgehaltene Vorsorgepläne sind von der Pensionskasse so festzulegen, dass kein finanzieller Nachteil der Arbeitgeber gemäss § 3 Absatz 1 Buchstabe a Ziffer 1 und deren Arbeitnehmenden resultiert.
+
+<sup>4</sup> In Abhängigkeit des Vorsorgeplanes und in Anwendung von Absatz 3 wird im Anschlussvertrag ein prozentualer Abschlag oder Zuschlag zu den in § 12 Absatz 2 enthaltenen Sanierungsbeiträgen festgelegt.
+
+[^4bis-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de).
+[^4bis-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de); Art. 2 Abs. 1 BVG.
+
 #### § 5
 
 **Kreis der versicherten Personen**
 
-<sup>1</sup> Versichert wird, wer bei einem Arbeitgeber in einem Dienstverhältnis steht und nach dem BVG[^5-1] der obligatorischen Versicherung untersteht, wobei für Frauen das gleiche ordentliche Rentenalter gilt wie für Männer. Bei angeschlossenen Unternehmungen können im Anschlussvertrag eindeutig definierte Personengruppen von der Versicherung bei der Pensionskasse ausgeschlossen werden.
+<sup>1</sup> Versichert wird, wer bei einem Arbeitgeber in einem Dienstverhältnis steht und nach dem BVG[^5-1] der obligatorischen Versicherung untersteht. Dabei ist das Rentenalter für Frauen und Männer gleich und entspricht dem ordentlichen Rentenalter für Männer nach dem AHVG[^5-2].
+
+<sup>1<sup>bis</sup></sup> Die Assistenz- und Oberärzte der Solothurner Spitäler AG werden nicht bei dieser Pensionskasse versichert.
+
+<sup>1<sup>ter</sup></sup> Bei angeschlossenen Unternehmungen können im Anschlussvertrag eindeutig definierte Personengruppen von der Versicherung bei der Pensionskasse ausgeschlossen werden.
 
 <sup>2</sup> Arbeitnehmende, die alle übrigen Anforderungen an die Versicherungspflicht nach BVG erfüllen, werden auch dann versichert, wenn sie bei einem Arbeitgeber nebenberuflich tätig sind und im Hauptberuf bereits obligatorisch versichert oder selbständig sind. Sie können den Verzicht auf die Versicherung erklären.
 
-[^5-1]: SR 831.40; und Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2, SR 831.441.1).
+[^5-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de); und Verordnung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVV 2, SR [831.441.1](https://db.clex.ch/link/Bund/831.441.1/de)).
+[^5-2]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de); Art. 21 Abs. 1 Bst. a AHVG.
 
 #### § 6
 
 **Versicherungspflicht**
 
-<sup>1</sup> Beginn und Ende der obligatorischen Versicherung (Versicherungspflicht) bestimmen sich nach Bundesrecht, wobei für Frauen das gleiche ordentliche Rentenalter gilt wie für Männer[^6-1].
+<sup>1</sup> Beginn und Ende der obligatorischen Versicherung (Versicherungspflicht) bestimmen sich nach Bundesrecht[^6-1]. Vorbehalten bleibt § 5 Absatz 1 Satz 2.
+
+<sup>2</sup> Versicherte Personen, die ihre Erwerbstätigkeit nach dem ordentlichen Rentenalter weiterführen, können ihre Versicherung bis zum Ende der Erwerbstätigkeit, längstens aber bis zur Vollendung des 70. Altersjahres weiterführen. Der versicherte Lohn wird gemäss § 3 Absatz 1 Buchstabe e an das Einkommen angepasst, entspricht aber maximal dem versicherten Lohn vor Erreichen des ordentlichen Rentenalters.
 
 [^6-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de).
+
+#### § 6bis
+
+**Ergänzungsversicherung**
+
+<sup>1</sup> In die Ergänzungsversicherung werden Personen aufgenommen, die der Versicherungspflicht nach § 5 und § 6 unterstehen und deren massgebender Lohn die Eintrittsschwelle nach Absatz 2 während voraussichtlich mindestens 3 Monaten überschreitet.
+
+<sup>2</sup> Die Eintrittsschwelle der Ergänzungsversicherung entspricht dem sechsfachen Betrag der maximalen Rente nach dem AHVG[^6bis-1]. Bei Teilbeschäftigung wird die Eintrittsschwelle anteilsmässig berechnet.
+
+<sup>3</sup> Der versicherte Lohn der Ergänzungsversicherung entspricht dem massgebenden Lohn abzüglich des Koordinationsabzugs der Ergänzungsversicherung. Der Koordinationsabzug der Ergänzungsversicherung entspricht elf Zwölftel der Eintrittsschwelle nach Absatz 2.
+
+[^6bis-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de).
 
 ## 2. Finanzierung
 
@@ -109,16 +150,27 @@ beschliesst:
 
 **Beiträge der Arbeitgeber**
 
-<sup>1</sup> Der Kanton Solothurn, die Träger der Volksschulen und die angeschlossenen Unternehmungen leisten folgende Beiträge:
+<sup>1</sup> Zur Finanzierung der Altersgutschriften leisten die Arbeitgeber die folgenden Beiträge:
 
-- a) für die versicherten Personen bis und mit Alter 24: 1 Prozent des versicherten Lohnes;
-- b) für die versicherten Personen ab Alter 25 bis zur Vollendung des ordentlichen Rentenalters der Männer nach Bundesrecht[^8-1]: 16 Prozent des versicherten Lohnes.
+- a) für die versicherten Personen ab Alter 25 bis und mit Alter 34: 6 Prozent des versicherten Lohnes;
+- b) für die versicherten Personen ab Alter 35 bis und mit Alter 44: 9 Prozent des versicherten Lohnes;
+- c) für die versicherten Personen ab Alter 45 bis und mit Alter 54: 12 Prozent des versicherten Lohnes;
+- d) für die versicherten Personen ab Alter 55 bis zur Erreichung des ordentlichen Rentenalters: 17 Prozent des versicherten Lohnes.
+
+<sup>1<sup>bis</sup></sup> Das Alter in der Auflistung in Absatz 1 entspricht der Differenz Kalenderjahr minus Geburtsjahr der versicherten Person. Der Beitrag wird bis zum Erreichen des ordentlichen Rentenalters der versicherten Person geleistet. Im Falle einer Weiterführung der Versicherung nach § 6 Absatz 2 leisten die Arbeitgeber zur Finanzierung der Altersgutschriften weiterhin einen Beitrag von 17 Prozent des versicherten Lohnes.
+
+<sup>1<sup>ter</sup></sup> Zur Finanzierung der Risikoleistungen bei Invalidität und Tod von aktiven Versicherten leisten die Arbeitgeber einen Beitrag von 1.00 Prozent. Dieser Beitrag wird längstens bis zur Vollendung des ordentlichen Rentenalters der Männer nach Bundesrecht[^8-1] geleistet.
 
 <sup>2</sup> Der Regierungsrat kann namentlich in folgenden Fällen zusätzliche Beiträge des Arbeitgebers in der Höhe von maximal 2 Prozent der versicherten Löhne beschliessen:
 
-- a) aufgrund einer wesentlichen Veränderung der Altersstruktur der versicherten Personen;
+- a) …
 - b) aufgrund einer wesentlichen Erhöhung der Zahl der Invaliditätsfälle;
 - c) infolge Erhöhung des Landesindexes der Konsumentenpreise um mehr als 3 Prozent pro Kalenderjahr während mindestens zwei Kalenderjahren in Folge.
+
+<sup>2<sup>bis</sup></sup> Im Rahmen der Ergänzungsversicherung leisten die Arbeitgeber für die gemäss § 6<sup>bis</sup> darin aufgenommenen Personen folgende Beiträge des versicherten Lohnes der Ergänzungsversicherung:
+
+- a) ab Alter 25 bis zum Monatsende nach Vollendung des 70. Altersjahres einen Beitrag von 2.5 Prozent zur Finanzierung der Altersgutschriften.
+- b) längstens bis Vollendung des 65. Altersjahres einen Beitrag von 0.25 Prozent zur Finanzierung der Risikoleistungen.
 
 <sup>3</sup> Der Regierungsrat regelt für die Dauer des unbezahlten Urlaubes die Beitragszahlungen für die Altersleistungen, die Risikoversicherung, die Anpassung der Renten und die Teuerungsentwicklung.
 
@@ -130,7 +182,7 @@ beschliesst:
 
 **Finanzierung der AHV-Ersatzrenten**
 
-<sup>1</sup> Der Kanton Solothurn für das Staatspersonal und die Träger der Volksschulen für die Volksschullehrpersonen beteiligen sich an der Finanzierung der AHV-Ersatzrenten, die nach dem vollendeten 60. Lebensjahr längstens bis zum ordentlichen Rentenalter der AHV ausgerichtet werden.
+<sup>1</sup> Die Arbeitgeber gemäss § 3 Absatz 1 Buchstabe a Ziffer 1 beteiligen sich an der Finanzierung der AHV-Ersatzrenten, die nach dem vollendeten 60. Altersjahr längstens bis zum ordentlichen Rentenalter der AHV ausgerichtet werden.
 
 <sup>2</sup> Die Beteiligung beträgt bei Bezug einer vollen AHV-Ersatzrente für jedes volle Beitragsjahr 4.5 Prozent, höchstens jedoch 45 Prozent der maximalen AHV-Altersrente.
 
@@ -166,12 +218,14 @@ beschliesst:
 
 <sup>2</sup> Im Falle einer Unterdeckung und sofern andere Massnahmen zu deren Behebung innerhalb einer angemessenen Frist voraussichtlich nicht ausreichen, leisten die Arbeitgeber ab dem 1. Januar des Folgejahres folgende Sanierungsbeiträge auf den versicherten Löhnen:
 
-- a) bei einem Deckungsgrad von 98 Prozent und höher mindestens 2 Prozent, maximal 3 Prozent;
-- b) bei einem Deckungsgrad von 95 Prozent und höher mindestens 3 Prozent, maximal 4 Prozent;
-- c) bei einem Deckungsgrad von 90 Prozent und höher mindestens 4 Prozent, maximal 6 Prozent;
-- d) bei einem Deckungsgrad unter 90 Prozent mindestens 6 Prozent, maximal 8 Prozent.
+- a) bei einem Deckungsgrad von 98 Prozent und höher mindestens 1.6 Prozent, maximal 2.4 Prozent;
+- b) bei einem Deckungsgrad von 95 Prozent und höher mindestens 2.4 Prozent, maximal 3.2 Prozent;
+- c) bei einem Deckungsgrad von 90 Prozent und höher mindestens 3.2 Prozent, maximal 4.8 Prozent;
+- d) bei einem Deckungsgrad unter 90 Prozent mindestens 4.8 Prozent, maximal 6.4 Prozent.
 
-<sup>3</sup> Die Verwaltungskommission entscheidet im Rahmen der in Absatz 2 Buchstaben a-d angegebenen Bandbreiten über die zu ergreifenden Massnahmen. Die aktiv versicherten Personen haben grundsätzlich gleich hohe Sanierungslasten wie die Arbeitgeber zur Sanierung der Pensionskasse zu tragen, dabei werden allfällige Minderverzinsungen der Altersguthaben unter dem Mindestzinssatz nach BVG an die Sanierungslast der aktiv versicherten Personen angerechnet.
+<sup>2<sup>bis</sup></sup> Die prozentualen Sanierungsbeiträge im Rahmen der Ergänzungsversicherung betragen einen Viertel der Prozentsätze gemäss Absatz 2 Buchstaben a-d und werden auf den versicherten Löhnen der Ergänzungsversicherung geleistet.
+
+<sup>3</sup> Die Verwaltungskommission entscheidet im Rahmen der in Absatz 2 Buchstaben a-d angegebenen Bandbreiten über die zu ergreifenden Massnahmen, wobei die Sanierungsmassnahmen für die Ergänzungsversicherung nach Massgabe von Absatz 2<sup>bis</sup> in deren Verhältnis zu erfolgen haben. Die aktiv versicherten Personen haben grundsätzlich gleich hohe Sanierungslasten wie die Arbeitgeber zur Sanierung der Pensionskasse zu tragen, dabei werden allfällige Minderverzinsungen der Altersguthaben unter dem Mindestzinssatz nach BVG an die Sanierungslast der aktiv versicherten Personen angerechnet.
 
 <sup>4</sup> Sofern sich die Massnahmen nach den Absätzen 2 und 3 als ungenügend erweisen, kann von den Rentnern im Rahmen der bundesrechtlichen Möglichkeiten ein Beitrag zur Behebung der Unterdeckung erhoben werden.
 
@@ -318,11 +372,11 @@ beschliesst:
 
 <sup>1</sup> Der Kanton Solothurn und die angeschlossenen Unternehmungen bezahlen der Pensionskasse den Betrag nach § 23 in der Zeitspanne von 2015 bis und mit 2054 in der Form von jährlichen, nachschüssigen Annuitäten. Der Fehlbetrag wird mit 3 Prozent verzinst. Der Kanton Solothurn übernimmt die Sicherstellung gemäss Artikel 58 BVV 2[^24-1] für die Restschuld auf den Annuitäten der angeschlossenen Unternehmungen. Der Kanton und die angeschlossenen Unternehmungen können gemäss § 26 die Annuitäten durch Einmalzahlungen herabsetzen.
 
-<sup>2</sup> Die Träger der Volksschulen leisten in der Zeitspanne von 2015 bis und mit 2054 der Pensionskasse einen Beitrag von 4.5 Prozent auf den versicherten Löhnen ihrer Versicherten gemäss § 8 Absatz 1 Buchstabe b.
+<sup>2</sup> Die Solothurner Spitäler AG und die Träger der Volksschulen leisten in der Zeitspanne von 2015 bis und mit 2054 der Pensionskasse einen Beitrag von 3.6 Prozent auf den versicherten Löhnen ihrer Versicherten gemäss § 8 Absatz 1.
 
 <sup>3</sup> Der Kanton Solothurn leistet in der Zeitspanne von 2015 bis und mit 2054 der Pensionskasse folgende Beiträge und Annuitäten:
 
-- a) einen Beitrag von 4.5 Prozent auf den versicherten Löhnen seiner Versicherten gemäss § 8 Absatz 1 Buchstabe b;
+- a) einen Beitrag von 3.6 Prozent auf den versicherten Löhnen seiner Versicherten gemäss § 8 Absatz 1;
 - b) eine variable jährlich nachschüssig zahlbare Annuität, die dem Teil der Annuität des Kantons gemäss Absatz 1 entspricht und die nicht durch die Beiträge nach Absatz 2 und Absatz 3 Buchstabe a finanziert ist.
 
 <sup>4</sup> Der Regierungsrat weist jedes Jahr gegenüber dem Kantonsrat die voraussichtliche Belastung des Kantons für die Ausfinanzierung der Pensionskasse im integrierten Aufgaben- und Finanzplan separat aus.
@@ -333,9 +387,9 @@ beschliesst:
 
 **Herabsetzung der Beiträge gemäss § 24 Absatz 2 und § 24 Absatz 3 Buchstabe a**
 
-<sup>1</sup> Die Beiträge gemäss § 24 Absatz 2 und Absatz 3 Buchstabe a sind maximal so hoch, dass sie der gesamten Annuität des Kantons gemäss § 24 Absatz 1 entsprechen. Für zu viel bezahlte Beiträge erfolgt Ende Kalenderjahr ein Ausgleich zugunsten des Kantons. Der Ausgleich zugunsten des Kantons entspricht maximal seinen gemäss § 24 Absatz 3 Buchstabe a geleisteten Beiträgen. Erst wenn die Beiträge des Kantons gemäss § 24 Absatz 3 Buchstabe a unter Berücksichtigung des Ausgleichs Null Franken betragen, erfolgt auch ein Ausgleich zugunsten der Träger der Volksschule auf der Grundlage der versicherten Lohnsumme des entsprechenden Kalenderjahres.
+<sup>1</sup> Die Beiträge gemäss § 24 Absatz 2 und Absatz 3 Buchstabe a sind maximal so hoch, dass sie der gesamten Annuität des Kantons gemäss § 24 Absatz 1 entsprechen. Für zu viel bezahlte Beiträge erfolgt Ende Kalenderjahr ein Ausgleich zugunsten des Kantons. Der Ausgleich zugunsten des Kantons entspricht maximal seinen gemäss § 24 Absatz 3 Buchstabe a geleisteten Beiträgen. Erst wenn die Beiträge des Kantons gemäss § 24 Absatz 3 Buchstabe a und die Beiträge der Solothurner Spitäler AG gemäss § 24 Absatz 2 unter Berücksichtigung des Ausgleichs Null Franken betragen, erfolgt auch ein Ausgleich zugunsten der Träger der Volksschulen auf der Grundlage der versicherten Lohnsumme des entsprechenden Kalenderjahres.
 
-<sup>2</sup> Der Regierungsrat kann zuerst den in § 24 Absatz 3 Buchstabe a erwähnten Beitragssatz des Kantons von 4.5 Prozent und danach auch den in § 24 Absatz 2 erwähnten Beitragssatz der Träger der Volksschulen von 4.5 Prozent reduzieren, wenn die gesamte Annuität des Kantons gemäss § 24 Absatz 1 durch die reduzierten Beiträge unter Berücksichtigung einer Sicherheitsmarge voraussichtlich abgedeckt ist. Eine Herabsetzung des Beitragssatzes der Träger der Volksschule erfolgt erst, wenn der Beitragssatz des Kantons null Prozent beträgt. Falls trotz Sicherheitsmarge die reduzierten Beiträge nicht ausreichen, wird die Herabsetzung soweit erforderlich rückgängig gemacht und es werden die entsprechenden Beiträge in Rechnung gestellt.
+<sup>2</sup> Der Regierungsrat kann zuerst den in § 24 Absatz 3 Buchstabe a erwähnten Beitragssatz des Kantons von 3.6 Prozent und danach auch den in § 24 Absatz 2 erwähnten Beitragssatz der Solothurner Spitäler AG und der Träger der Volksschulen von 3.6 Prozent reduzieren, wenn die gesamte Annuität des Kantons gemäss § 24 Absatz 1 durch die reduzierten Beiträge unter Berücksichtigung einer Sicherheitsmarge voraussichtlich abgedeckt ist. Eine Herabsetzung des Beitragssatzes der Träger der Volksschule erfolgt erst, wenn der Beitragssatz des Kantons null Prozent beträgt. Falls trotz Sicherheitsmarge die reduzierten Beiträge nicht ausreichen, wird die Herabsetzung soweit erforderlich rückgängig gemacht und es werden die entsprechenden Beiträge in Rechnung gestellt.
 
 #### § 26
 
