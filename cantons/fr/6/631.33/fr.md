@@ -3,13 +3,13 @@ canton: FR
 number: "631.33"
 title: "Arrêté concernant l'imposition des immeubles non agricoles"
 language: fr
-version: 2014-01-01
-valid_until: 2021-12-31
-version_adopted: 2013-11-11
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 1992-04-09
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.33"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5912/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7451/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5912/pdf_file"
 
 Imposition des immeubles non agricoles – A
 
-du 09.04.1992 (version entrée en vigueur le 01.01.2014)
+du 09.04.1992 (version entrée en vigueur le 01.01.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -109,21 +109,21 @@ Arrête:
 
 <sup>1</sup> Pour la situation individuelle de l'immeuble, considérée à l'intérieur du périmètre de la commune, les points suivants sont attribués:
 
-- a) 1 point: mal situé = situation A;
-- b) 2 points: situation normale = situation B;
-- c) 3 points: bonne situation = situation C.
+- a) 1 point: — mal situé = situation A
+- b) 2 points: — situation normale = situation B
+- c) 3 points: — bonne situation = situation C
 
 <sup>2</sup> Les critères d'appréciation pour la détermination de la situation individuelle de l'immeuble sont fixés comme suit:
 
-- a) éloignement jusqu'au magasin (épicerie) le plus proche: 0 – 10 points;
-- b) éloignement jusqu'à l'arrêt d'un transport public le plus proche (bus ou train): 0 – 8 points;
-- c) voies d'accès à la propriété: 1 – 4 points;
-- d) aménagement de l'accès à la propriété: 0 – 4 points;
-- e) grandeur de la parcelle, y compris constructions: 4 – 12 points;
-- f) désignation de la zone: 2 – 8 points;
-- g) ensoleillement (exposition): 0 – 6 points;
-- h) nuisances: le bruit: 0 – 12 points;
-- i) nuisances: les odeurs: 0 – 8 points.
+- a) éloignement jusqu'au magasin (épicerie) le plus proche: — 0 – 10 points
+- b) éloignement jusqu'à l'arrêt d'un transport public le plus proche (bus ou train): — 0 – 8 points
+- c) voies d'accès à la propriété: — 1 – 4 points
+- d) aménagement de l'accès à la propriété: — 0 – 4 points
+- e) grandeur de la parcelle, y compris constructions: — 4 – 12 points
+- f) désignation de la zone: — 2 – 8 points
+- g) ensoleillement (exposition): — 0 – 6 points
+- h) nuisances: le bruit: — 0 – 12 points
+- i) nuisances: les odeurs: — 0 – 8 points
 
 <sup>3</sup> Pour les résidences secondaires, le total du pointage est majoré de 7 points.
 

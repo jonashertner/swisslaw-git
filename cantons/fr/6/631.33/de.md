@@ -3,13 +3,13 @@ canton: FR
 number: "631.33"
 title: Beschluss über die Besteuerung der nichtlandwirtschaftlichen Liegenschaften
 language: de
-version: 2014-01-01
-valid_until: 2021-12-31
-version_adopted: 2013-11-11
+version: 2022-01-01
+valid_until: 2022-12-31
+version_adopted: 2021-12-14
 adopted: 1992-04-09
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.33"
-pdf: "https://bdlf.fr.ch/api/de/versions/5912/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7451/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5912/pdf_file"
 
 Besteuerung der nichtlandwirtschaftlichen Liegenschaften – B
 
-vom 09.04.1992 (Fassung in Kraft getreten am 01.01.2014)
+vom 09.04.1992 (Fassung in Kraft getreten am 01.01.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -109,21 +109,21 @@ beschliesst:
 
 <sup>1</sup> Für die Einzel-Lage der Liegenschaft innerhalb des Gemeindegebietes werden folgende Punkte zugeteilt:
 
-- a) 1 Punkt: schlecht gelegen = Lage A;
-- b) 2 Punkte: normale Lage = Lage B;
-- c) 3 Punkte: gute Lage = Lage C.
+- a) 1 Punkt: — schlecht gelegen = Lage A
+- b) 2 Punkte: — normale Lage = Lage B
+- c) 3 Punkte: — gute Lage = Lage C
 
 <sup>2</sup> Die Bewertungskriterien für die Bestimmung der Einzel-Lage der Liegenschaft werden wie folgt festgelegt:
 
-- a) Entfernung zum nächsten Lebensmittelgeschäft (Laden): 0 – 10 Punkte;
-- b) Entfernung zur nächstgelegenen Haltestelle des öffentlichen Verkehrs (Bus oder Bahn): 0 – 8 Punkte;
-- c) Zufahrtsweg zur Liegenschaft: 1 – 4 Punkte;
-- d) Ausbau der Zufahrt zur Liegenschaft: 0 – 4 Punkte;
-- e) Grundstücksgrösse inkl. Bauten: 4 – 12 Punkte;
-- f) Zonenbezeichnung: 2 – 8 Punkte;
-- g) Besonnung (Exposition): 0 – 6 Punkte;
-- h) Immissionen: Lärm: 0 – 12 Punkte;
-- i) Immissionen: Geruch und Gestank: 0 – 8 Punkte.
+- a) Entfernung zum nächsten Lebensmittelgeschäft (Laden): — 0 – 10 Punkte
+- b) Entfernung zur nächstgelegenen Haltestelle des öffentlichen Verkehrs (Bus oder Bahn): — 0 – 8 Punkte
+- c) Zufahrtsweg zur Liegenschaft: — 1 – 4 Punkte
+- d) Ausbau der Zufahrt zur Liegenschaft: — 0 – 4 Punkte
+- e) Grundstücksgrösse inkl. Bauten: — 4 – 12 Punkte
+- f) Zonenbezeichnung: — 2 – 8 Punkte
+- g) Besonnung (Exposition): — 0 – 6 Punkte
+- h) Immissionen: Lärm: — 0 – 12 Punkte
+- i) Immissionen: Geruch und Gestank: — 0 – 8 Punkte
 
 <sup>3</sup> Für die Zweitwohnung wird das Punktetotal um 7 Punkte erhöht.
 
