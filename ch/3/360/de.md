@@ -4,11 +4,11 @@ title: Bundesgesetz vom 7. Oktober 1994 über die kriminalpolizeilichen Zentrals
 short: ZentG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: de
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20211001/de/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/de"
 
 (ZentG)**[^t-2]**[^t-1]
 
-vom 7. Oktober 1994 (Stand am 1. Oktober 2021)
+vom 7. Oktober 1994 (Stand am 1. Januar 2022)
 
 [^t-1]: Fassung gemäss Art. 3 des BB vom 21. März 2014 über die Genehmigung des Vertrags zwischen der Schweiz, Österreich und Liechtenstein über die grenzüberschreitende polizeiliche Zusammenarbeit, in Kraft seit 1. Aug. 2014 ([AS 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [BBl 2013 755](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Eingefügt durch Ziff. I des BG vom 18. Juni 1999, in Kraft seit 15. Juni 2000 ([AS 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214); [BBl 1997 IV 1293](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -152,7 +152,7 @@ Der Bundesrat regelt für jede Zentralstelle durch Verordnung, unter welchen Vor
 
 <sup>1</sup> Polizeiverbindungsleute in ausgewählten schweizerischen Vertretungen im Ausland oder bei internationalen Organisationen unterstützen die Strafverfolgungsbehörden bei der Verfolgung von Straftaten im Zuständigkeitsbereich der Zentralstellen. Sie arbeiten im Rahmen der nachfolgenden Bestimmungen als Angehörige der Zentralstelle direkt mit den zuständigen Behörden des Empfangsstaates und bestimmter Drittländer zusammen.
 
-<sup>1bis</sup> Das Bundesamt für Polizei (fedpol) kann im Einvernehmen mit der Eidgenössischen Zollverwaltung (EZV) Aufgaben der Polizeiverbindungsleute an die Verbindungsleute der EZV delegieren. Soweit dies für die Aufgabenerfüllung erforderlich ist, sind die Verbindungleute der EZV im Rahmen der von fedpol übertragenen Aufgaben den Polizeiverbindungsleuten bezüglich des Zugriffs auf Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt.[^5-1]
+<sup>1bis</sup> Das Bundesamt für Polizei (fedpol) kann im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) Aufgaben der Polizeiverbindungsleute an die Verbindungsleute des BAZG delegieren. Soweit dies für die Aufgabenerfüllung erforderlich ist, sind die Verbindungleute des BAZG im Rahmen der von fedpol übertragenen Aufgaben den Polizeiverbindungsleuten bezüglich des Zugriffs auf Informationssysteme und der Berechtigung zur Datenbearbeitung gleichgestellt.[^5-1]
 
 <sup>2</sup> Die Polizeiverbindungsleute können auch bei Fahndungen und Ermittlungen zur Verfolgung von Verbrechen und Vergehen, bei denen die Schweiz Rechtshilfe gewähren kann, eingesetzt werden.
 
@@ -160,7 +160,7 @@ Der Bundesrat regelt für jede Zentralstelle durch Verordnung, unter welchen Vor
 
 <sup>4</sup> Der Bundesrat wird ermächtigt, mit den zuständigen Behörden des Auslandes die Stationierung von ausländischen Polizeiverbindungsleuten in der Schweiz zu vereinbaren.
 
-[^5-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache), in Kraft seit 15. Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^5-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 15. Dez. 2017 (Übernahme der Verordnung [EU] 2016/1624 über die Europäische Grenz- und Küstenwache) ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Fassung gemäss Ziff. I 8 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 

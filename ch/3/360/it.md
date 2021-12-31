@@ -4,11 +4,11 @@ title: Legge federale del 7 ottobre 1994 sugli Uffici centrali di polizia giudiz
 short: LUC
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: it
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20211001/it/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/it"
 
 (LUC)**[^t-2]**[^t-1]
 
-del 7 ottobre 1994 (Stato 1° ottobre 2021) (Stato 1° ottobre 2021)
+del 7 ottobre 1994 (Stato 1° gennaio 2022)
 
 [^t-1]: Nuovo testo giusta l’art. 3 del DF del 21 mar. 2014 che approva l’Accordo tra la Svizzera, l’Austria e il Liechtenstein sulla cooperazione transfrontaliera in materia di polizia, in vigore dal 1° ago. 2014 ([RU 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 663](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Abbreviazione introdotta dal n. I della LF del 18 giu. 1999, in vigore dal 15 giu. 2000 ([RU 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214)1368; [FF 1997 IV 1029](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -152,7 +152,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 <sup>1</sup> Gli agenti di collegamento distaccati presso determinate rappresentanze svizzere all’estero o presso organizzazioni internazionali appoggiano le autorità penali nel perseguimento dei reati penali che rientrano nelle competenze degli uffici centrali. Essi operano, nel quadro delle disposizioni che seguono, come addetti dell’ufficio centrale direttamente con le autorità competenti dello Stato ospitante e di determinati Stati terzi.
 
-<sup>1bis</sup> L’Ufficio federale di polizia (fedpol), d’intesa con l’Amministrazione federale delle dogane (AFD), può delegare compiti dei propri agenti di collegamento agli agenti di collegamento dell’AFD. Nel quadro dei compiti delegati da fedpol, gli agenti di collegamento dell’AFD sono equiparati a quelli di fedpol per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare i dati, purché ciò sia necessario per l’adempimento dei compiti.[^5-1]
+<sup>1bis</sup> L’Ufficio federale di polizia (fedpol), d’intesa con l’Ufficio federale della dogana e della sicurezza dei confini (UDSC), può delegare compiti dei propri agenti di collegamento agli agenti di collegamento dell’UDSC. Nel quadro dei compiti delegati da fedpol, gli agenti di collegamento dell’UDSC sono equiparati a quelli di fedpol per quanto riguarda l’accesso ai sistemi d’informazione e il diritto di trattare i dati, purché ciò sia necessario per l’adempimento dei compiti.[^5-1]
 
 <sup>2</sup> Gli agenti di collegamento possono intervenire anche in caso di ricerche e indagini per il perseguimento di crimini e delitti per i quali la Svizzera può concedere assistenza giudiziaria.
 
@@ -160,7 +160,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 <sup>4</sup> Il Consiglio federale è autorizzato a convenire con le competenti autorità straniere lo stazionamento di agenti stranieri di collegamento in Svizzera.
 
-[^5-1]: Introdotto dall’all. n. 2 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea), in vigore dal 15 ago. 2018 ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^5-1]: Introdotto dall’all. n. 2 del DF del 15 dic. 2017 (recepimento del regolamento [UE] 2016/1624 relativo alla guardia di frontiera e costiera europea) ([RU 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3561](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Nuovo testo giusta il n. I 8 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -203,7 +203,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 **Obblighi d’informazione**
 
-<sup>1</sup> Le autorità federali e cantonali preposte al perseguimento penale comunicano all’Ufficio centrale le informazioni che permettono di concludere che esiste un’organizzazione ai sensi dell’articolo 260<sup>ter</sup> numero 1 primo comma del Codice penale[^8-1] o un reato ai sensi dell’articolo 24 CPP[^8-2], riguardo al quale il procuratore generale della Confederazione può aprire un’inchiesta.[^8-3] Esse comunicano segnatamente i motivi concreti di sospetto nonché l’apertura e l’archiviazione di un’inchiesta nell’ambito delle quali è dato un sospetto di partecipazione a organizzazioni criminali o di presenza di un reato ai sensi dell’articolo 340<sup>bis</sup> del Codice penale, riguardo al quale il procuratore generale della Confederazione può aprire un’inchiesta. [^8-4]
+<sup>1</sup> Le autorità federali e cantonali preposte al perseguimento penale comunicano all’Ufficio centrale le informazioni che permettono di concludere che esiste un’organizzazione ai sensi dell’articolo 260<sup>ter</sup> numero 1 primo comma del Codice penale[^8-1] o un reato ai sensi dell’articolo 24 CPP[^8-2], riguardo al quale il procuratore generale della Confederazione può aprire un’inchiesta.[^8-3] Esse comunicano segnatamente i motivi concreti di sospetto nonché l’apertura e l’archiviazione di un’inchiesta nell’ambito delle quali è dato un sospetto di partecipazione a organizzazioni criminali o di presenza di un reato ai sensi dell’articolo 340<sup>bis</sup> del Codice penale, riguardo al quale il procuratore generale della Confederazione può aprire un’inchiesta.[^8-4]
 
 <sup>2</sup> L’Ufficio centrale informa le autorità della Confederazione e dei Cantoni preposte al perseguimento penale in merito a tutti i fatti che concernono le procedure annunciate.
 
@@ -222,7 +222,7 @@ Per ogni ufficio centrale il Consiglio federale disciplina mediante ordinanza a 
 
 <sup>2</sup> Può essere incaricato di raccogliere le prove nell’ambito dei procedimenti d’assistenza giudiziaria; tale raccolta di prove si svolge secondo le disposizioni del CPP[^9-1].[^9-2]
 
-<sup>3</sup> …[^9-3]
+<sup>3</sup> ...[^9-3]
 
 [^9-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^9-2]: Nuovo testo giusta l’all. 1 n. II 15 del Codice di diritto processuale penale svizzero del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).

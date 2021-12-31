@@ -4,11 +4,11 @@ title: "Loi fédérale du 7 octobre 1994 sur les Offices centraux de police crim
 short: LOC
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/875_875_875"
 language: fr
-version: 2021-10-01
+version: 2022-01-01
 adopted: 1994-10-07
 in_force: 1995-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/875_875_875/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-875_875_875-20220101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/875_875_875/20211001/fr"
 
 (LOC)**[^t-2]**[^t-1]
 
-du 7 octobre 1994 (Etat le 1<sup>er</sup> octobre 2021)
+du 7 octobre 1994 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: Nouvelle teneur selon l’art. 3 de l’AF du 21 mars 2014 portant approbation de l’Ac. entre la Suisse, l’Autriche et le Liechtenstein concernant la coopération policière transfrontalière, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2297](https://fedlex.data.admin.ch/eli/oc/2014/386); [FF 2013 691](https://fedlex.data.admin.ch/eli/fga/2013/129)).
 [^t-2]: Abréviation introduite par le ch. I de la LF du 18 juin 1999, en vigueur depuis le 15 juin 2000 ([RO 2000 1367](https://fedlex.data.admin.ch/eli/oc/2000/214); [FF 1997 IV 1149](https://fedlex.data.admin.ch/eli/fga/1997/4_1293_1149_1029)).
@@ -152,7 +152,7 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 <sup>1</sup> Les agents de liaison détachés auprès de certaines représentations suisses à l’étranger ou d’organisations internationales apportent leur soutien aux autorités chargées de la poursuite pénale des infractions qui sont de la compétence des offices centraux. Ils collaborent directement, en tant que membres de l’office central et dans les limites des dispositions suivantes, avec les autorités compétentes de l’État de résidence et de certains États tiers.
 
-<sup>1bis</sup> L’Office fédéral de la police (fedpol) peut, en accord avec l’Administration fédérale des douanes (AFD), déléguer des tâches de ses propres agents de liaison aux agents de liaison de l’AFD. Dans le cadre des tâches déléguées par fedpol, les agents de liaison de l’AFD sont assimilés aux agents de liaison de fedpol en ce qui concerne l’accès aux systèmes d’information et le droit de traiter les données pour autant que cela soit nécessaire à l’accomplissement des tâches.[^5-1]
+<sup>1bis</sup> L’Office fédéral de la police (fedpol) peut, en accord avec l’Office fédéral de la douane et de la sécurité des frontières (OFDF), déléguer des tâches de ses propres agents de liaison aux agents de liaison de l’OFDF. Dans le cadre des tâches déléguées par fedpol, les agents de liaison de l’OFDF sont assimilés aux agents de liaison de fedpol en ce qui concerne l’accès aux systèmes d’information et le droit de traiter les données pour autant que cela soit nécessaire à l’accomplissement des tâches.[^5-1]
 
 <sup>2</sup> Les agents de liaison peuvent aussi être engagés dans des investigations et des enquêtes concernant des crimes et des délits pour lesquels la Suisse peut accorder l’entraide judiciaire.
 
@@ -160,7 +160,7 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 <sup>4</sup> Le Conseil fédéral est habilité à convenir avec les autorités étrangères compétentes de l’établissement d’agents de liaison étrangers en Suisse.
 
-[^5-1]: Introduit par le ch. 2 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), en vigueur depuis le 15 sept. 2018 ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
+[^5-1]: Introduit par le ch. 2 de l’annexe à l’AF du 15 déc. 2017 (Reprise du règlement [UE] 2016/1624 relatif au corps européen de garde-frontières et de garde-côtes), ([RO 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [FF 2017 3891](https://fedlex.data.admin.ch/eli/fga/2017/1056)). Nouvelle teneur selon le ch. I 8 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 6
 
@@ -222,7 +222,7 @@ Le Conseil fédéral règle par voie d’ordonnance les modalités et l’ampleu
 
 <sup>2</sup> Dans le cadre de procédures d’entraide judiciaire, il peut être chargé d’administrer des preuves conformément au CPP[^9-1].[^9-2]
 
-<sup>3</sup> …[^9-3]
+<sup>3</sup> ...[^9-3]
 
 [^9-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^9-2]: Nouvelle teneur selon le ch. II 15 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
