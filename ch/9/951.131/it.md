@@ -4,11 +4,11 @@ title: "Ordinanza del 18 marzo 2004 relativa alla legge federale sulla Banca naz
 short: OBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: it
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2004-233-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-233-20220101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20210101/it"
 
 (Ordinanza sulla Banca nazionale, OBN)
 
-del 18 marzo 2004 (Stato 1° gennaio 2021)
+del 18 marzo 2004 (Stato 1° gennaio 2022)
 
 La Banca nazionale svizzera,
 
@@ -202,9 +202,10 @@ Se la Banca nazionale ricorre a terzi per effettuare le rilevazioni, essi sono c
 - c. ritornare tutti i dati alla Banca nazionale e cancellare i dati memorizzati elettronicamente dopo la cessazione del mandato.
 - [tab] <sup>2</sup> Per beneficiare di una deroga a questi obblighi è necessaria l’autorizzazione scritta della Banca nazionale.
 
-<sup>3</sup> I terzi devono provare di avere adottato le misure tecniche e organizzative necessarie all’elaborazione di questi dati conformemente all’ordinanza del 14 giugno 1993[^9-1] relativa alla legge federale sulla protezione dei dati.
+<sup>3</sup> I terzi devono provare di avere adottato le misure tecniche e organizzative necessarie all’elaborazione di questi dati conformemente all’ordinanza del 31 agosto 2022[^9-1] sulla protezione dei dati[^9-2].
 
 [^9-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° set. 2023.
 
 #### Art. 10
 
@@ -302,13 +303,13 @@ Le banche notificano alla Banca nazionale entro la fine del mese del periodo di 
 
 [^17-1]: Nuovo testo giusta il n. I dell’O della BNS del 3 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)).
 
-## Capitolo 4: Sorveglianza sulle infrastrutture del mercato finanziario di rilevanza sistemica****
+## Capitolo 4: Sorveglianza sulle infrastrutture del mercato finanziario di rilevanza sistemica
 
 [^chap4-1]
 
 [^chap4-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
-### Sezione 1:**** Designazione delle infrastrutture del mercato finanziario e dei processi operativi di rilevanza sistemica
+### Sezione 1: Designazione delle infrastrutture del mercato finanziario e dei processi operativi di rilevanza sistemica
 
 [^chap4-sec1-1]
 
@@ -361,7 +362,7 @@ Per determinare se un sistema di pagamento, un depositario centrale o una contro
 
 *Abrogati*
 
-### Sezione 2:**** Requisiti particolari per le infrastrutture del mercato finanziario di rilevanza sistemica****
+### Sezione 2: Requisiti particolari per le infrastrutture del mercato finanziario di rilevanza sistemica
 
 [^chap4-sec2-1][^chap4-sec2-2]
 
@@ -805,7 +806,7 @@ Se un depositario centrale istituisce un collegamento con un altro depositario c
 
 [^34-1]: Nuovo testo giusta il n. I dell’O della BNS del 26 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
-### Sezione 3: Valutazione dell’adempimento dei requisiti particolari****
+### Sezione 3: Valutazione dell’adempimento dei requisiti particolari
 
 [^chap4-sec3-1]
 
@@ -935,7 +936,7 @@ L’esercente informa immediatamente la Banca nazionale in merito a:
 
 La presente ordinanza entra in vigore il 1° maggio 2004.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 5 cpv. 1)
 
@@ -955,24 +956,35 @@ Allegato*[^t-1]*
 </table>
 
 <table>
-<tr><td>Denominazione della rilevazione:</td><td>**Cifre d’affari concernenti i titoli**</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Cifre d’affari concernenti depositi aperti dei clienti, provenienti da operazioni di compravendita; ripartizione dei titolari di deposito per sede o domicilio in Svizzera o all’estero; ripartizione delle cifre d’affari per categorie di titoli (in particolare valori del mercato monetario, obbligazioni di cassa, obbligazioni, azioni, quote di investimenti collettivi di capitale, prodotti strutturati), per provenienza dell’emittente (Svizzera o estero) e per valuta</td></tr>
+<tr><td>Denominazione della rilevazione:</td><td>Poste di bilancio scelte per la statistica relativa alla massa monetaria</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Registrazione delle poste di bilancio che consentono una valutazione tempestiva della massa monetaria</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Le banche, i depositari centrali e le controparti centrali che devono notificare mensilmente la rilevazione delle entità dei portafogli titoli</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche le cui somme delle poste di bilancio rilevanti per M3 superano 3 miliardi di franchi</td></tr>
 <tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
+<tr><td>Periodicità:</td><td>Mensile</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>10 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>Denominazione della rilevazione:</td><td>Distributori automatici di banconote</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Numero di distributori automatici</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione totale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Esercenti di reti di distributori automatici di banconote</td></tr>
-<tr><td>Livello della rilevazione:</td><td>–</td></tr>
+<tr><td>Denominazione della rilevazione:</td><td>Statistica dettagliata di fine anno</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Poste di bilancio e operazioni fuori bilancio conformemente alle prescrizioni del Consiglio federale[^annexu1-lvlu1-3] e della FINMA concernenti la presentazione dei conti di banche[^annexu1-lvlu1-4]; suddivisione per durata residua, valuta (franco svizzero, dollaro USA, euro, yen), sede o domicilio dei clienti in Svizzera o all’estero; conto economico e dati complementari; ripartizione per Stato delle attività, delle passività e delle operazioni fiduciarie; registrazione dei crediti e impegni monetari iscritti a bilancio risultanti da operazioni pronti contro termine, nonché da depositi in contante costituiti in garanzia per prestiti e altre operazioni</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione totale Ripartizione per Stato: rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Tutte le banche Ripartizione per Stato: banche che devono inoltrare la statistica delle divise in euro</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Impresa; direzione e gruppo di società (conglomerato) per singoli settori</td></tr>
+<tr><td>Periodicità:</td><td>Annuale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>3 mesi</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Statistica relativa al volume dei crediti</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Attività creditizia (limiti, impiego, rettifiche di valore, ammortamenti) e crediti a rischio; ripartizione dei crediti in crediti ipotecari e crediti (garantiti e non garantiti) verso la clientela, per durata residua, per rami economici, sede o domicilio dei clienti in Svizzera o all’estero nonché dimensioni dell’impresa debitrice</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche i cui crediti al settore non bancario in Svizzera superano 280 milioni di franchi</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
 <tr><td>Periodicità:</td><td>Mensile</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>20 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -984,6 +996,17 @@ Allegato*[^t-1]*
 <tr><td>Livello della rilevazione:</td><td>Gruppo di società</td></tr>
 <tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>2 mesi</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Statistica relativa agli interessi del credito</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Forma del credito, ammontare del credito, garanzie, rating, saggio d’interesse, fissazione dell’interesse, commissioni, durata del credito e modalità di rimborso nonché caratteristiche del beneficiario del credito; devono essere notificate individualmente tutte le operazioni che si fondano su nuove stipulazioni di credito</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche i cui crediti a imprese non finanziarie in Svizzera superano 2 miliardi di franchi</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Periodicità:</td><td>Mensile</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -1010,149 +1033,6 @@ Allegato*[^t-1]*
 </table>
 
 <table>
-<tr><td>Denominazione della rilevazione:</td><td>Pagamenti della clientela</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Pagamenti della clientela presso le banche effettuati o ricevuti nel corso di un mese. Suddivisione tra pagamenti in uscita e pagamenti in entrata, distinti per tipo di ordine e ripartiti tra pagamenti interbancari in Svizzera e pagamenti con la partecipazione di una banca con sede all’estero nonché per moneta. Registrazione di specifiche operazioni di prelievo di contante e delle operazioni di versamento di contante della clientela, nonché di informazioni sull’infrastruttura presso le banche</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche il cui numero di transazioni nello Swiss Interbank Clearing supera 5 milioni all’anno</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
-<tr><td>Periodicità:</td><td>Mensile</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>**Portafogli titoli**</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Entità dei titoli nei depositi aperti dei clienti; ripartizione per categorie di titoli (in particolare valori del mercato monetario, obbligazioni di cassa, obbligazioni, azioni, quote di investimenti collettivi di capitale, prodotti strutturati), per provenienza dell’emittente (Svizzera o estero) e per valuta; ripartizione dei titolari di deposito per settori economici e per sede o domicilio in Svizzera o all’estero; entità dei titoli prestati</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale; rilevazione totale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Le banche, i depositari centrali e le controparti centrali la cui situazione di deposito supera i 4,3 miliardi di franchi procedono a una notifica mensile. Le altre banche, gli altri depositari centrali e le altre controparti centrali procedono a una notifica annuale</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
-<tr><td>Periodicità:</td><td>Mensile; annuale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica mensile: 25 giorni Notifica annuale: 3 mesi</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Poste di bilancio scelte per la statistica relativa alla massa monetaria</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Registrazione delle poste di bilancio che consentono una valutazione tempestiva della massa monetaria</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche le cui somme delle poste di bilancio rilevanti per M3 superano 3 miliardi di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
-<tr><td>Periodicità:</td><td>Mensile</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>10 giorni</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Rilevazione delle divise e dei derivati (BIS OTC Derivatives Statistics)</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Operazioni di cambio e sui derivati conformemente alle disposizioni della Banca dei regolamenti internazionali; consistenze; cifre d’affari</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Statistica semestrale: i 2 maggiori gruppi di società bancari Ogni tre anni: banche il cui volume contrattuale degli strumenti finanziari derivati non scaduti supera 8 miliardi di franchi (per la statistica relativa alle cifre d’affari), rispettivamente 30 miliardi di franchi (per la statistica relativa alle consistenze)</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione (cifre d’affari); gruppo di società (consistenze)</td></tr>
-<tr><td>Periodicità:</td><td>Cifre d’affari: ogni 3 anni Consistenze: semestralmente e ogni 3 anni</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese (cifre d’affari); 2 mesi (consistenze)</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Rilevazione dettagliata relativa alle banche di rilevanza sistemica globale (FSB Survey on Granular Institution-to-Aggregate Assets and Liabilities)</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Ripartizione per Stato delle posizioni attive, passive e fuori bilancio, dei derivati finanziari e dei derivati su valute estere; ripartizione per settori, valuta e durata residua; la rilevazione concerne i diversi perimetri di consolidamento. La rilevazione è effettuata conformemente alle raccomandazioni del Consiglio per la stabilità finanziaria (Financial Stability Board, FSB)</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche di rilevanza sistemica globale secondo la definizione del Consiglio per la stabilità finanziaria</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Gruppo di società</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>2 mesi</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Rilevazione relative ai legami patrimoniali internazionali</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Flussi internazionali di capitali (transazioni), consistenze patrimoniali (attività e passività verso il resto del mondo) e redditi di capitale conformemente alle direttive del Fondo monetario internazionale (FMI) e ai requisiti dell’Unione europea (UE) secondo l’accordo del 26 ottobre 2004[^annexu1-lvlu1-3] tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico. La rilevazione include sia i rapporti interni al gruppo di società (investimenti diretti), sia i rapporti con terzi. Gli investitori diretti forniscono anche informazioni operative su partecipazioni maggioritarie all’estero (effettivi del personale, fatturato, numero di imprese), le imprese di investimento diretto comunicano inoltre gli effettivi del personale in Svizzera. Ripartizione per Stato, tipo di capitale, moneta e settore economico</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazioni parziali</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Persone giuridiche e società, se il valore di transazione supera 1 milione di franchi per oggetto di rilevazione o se, al momento della rilevazione, le attività o le passività all’estero superano 10 milioni di franchi per oggetto di rilevazione.</td></tr>
-<tr><td>Livello della rilevazione:</td><td>–</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale o annuale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica trimestrale: 1 mese Notifica annuale: 3 mesi</td></tr>
-<tr><td>Disposizioni speciali:</td><td>L’obbligo di fornire informazioni è adempiuto anche se l’oggetto della rilevazione è comunicato dalla banca che partecipa alle operazioni di pagamento o che è incaricata di custodire le attività all’estero</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Rilevazioni relative alla bilancia delle partite correnti</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Commercio internazionale di merci (tranne il commercio con l’estero considerato per la rilevazione dell’Amministrazione federale delle dogane) e servizi, commercio di transito, commercio legato alla lavorazione per conto di terzi e alla produzione all’estero, redditi internazionali da lavoro e capitale, nonché trasferimenti conformemente alle direttive del Fondo monetario internazionale (FMI) e ai requisiti dell’Unione europea (UE) secondo l’accordo del 26 ottobre 2004[^annexu1-lvlu1-4] tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico. Ripartizione per Stati, tipo di transazione e settori economici</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazioni parziali</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Persone giuridiche e società se il valore della transazione supera 100 000 franchi per oggetto di rilevazione.</td></tr>
-<tr><td>Livello della rilevazione:</td><td>–</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale o annuale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica trimestrale: 1 mese Notifica annuale: 3 mesi</td></tr>
-<tr><td>Disposizioni speciali:</td><td>L’obbligo di fornire informazioni è adempiuto anche se la transazione è annunciata dalla banca che partecipa alle operazioni di pagamento</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>**Ripartizione per Stato dei portafogli titoli (IMF Coordinated Portfolio Investment Survey)**</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Annotazione delle entità dei titoli di emittenti esteri in depositi aperti dei clienti svizzeri; ripartizione per categorie delle entità di titoli (titoli del mercato monetario, obbligazioni, azioni, quote di investimen-ti collettivi di capitale, prodotti strutturati e altri titoli) e per Stato d’origine degli emittenti</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche, depositari centrali e controparti centrali la cui entità dei depositi da rilevare supera 1,8 miliardi di franchi</td></tr>
-<tr><td>Livello di rilevazione:</td><td>Direzione</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Rischi di controparte in ambito interbancario</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Annotazione delle 10 rispettivamente 20 maggiori posizioni relative a crediti e impegni nei confronti di altre banche rispettivamente gruppi bancari in Svizzera e all’estero</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione totale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Tutte le banche e i gruppi bancari</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Gruppo di società (conglomerato)</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>6 settimane</td></tr>
-<tr><td>Disposizioni speciali:</td><td>Se le condizioni dell’articolo 5 capoverso 2 OBN sono adempiute, il termine d’inoltro può essere ridotto a 24 ore</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Statistica delle divise in euro (BIS Locational Banking Statistics)</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Ripartizione per Stato delle posizioni attive e passive, nonché delle operazioni fiduciarie; ripartizione per settori, valuta, e durata residua. La rilevazione è effettuata conformemente alle prescrizioni della Banca dei regolamenti internazionali</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche le cui attività e attività fiduciarie verso l’estero o le cui passività e passività fiduciarie verso l’estero superano complessivamente 1 miliardo di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Statistica dettagliata di fine anno</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Poste di bilancio e operazioni fuori bilancio conformemente alle prescrizioni del Consiglio federale[^annexu1-lvlu1-5] e della FINMA concernenti la presentazione dei conti di banche[^annexu1-lvlu1-6]; suddivisione per durata residua, valuta (franco svizzero, dollaro USA, euro, yen), sede o domicilio dei clienti in Svizzera o all’estero; conto economico e dati complementari; ripartizione per Stato delle attività, delle passività e delle operazioni fiduciarie; registrazione dei crediti e impegni monetari iscritti a bilancio risultanti da operazioni pronti contro termine, nonché da depositi in contante costituiti in garanzia per prestiti e altre operazioni</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione totale Ripartizione per Stato: rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Tutte le banche Ripartizione per Stato: banche che devono inoltrare la statistica delle divise in euro</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Impresa; direzione e gruppo di società (conglomerato) per singoli settori</td></tr>
-<tr><td>Periodicità:</td><td>Annuale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>3 mesi</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Statistica relativa agli interessi del credito</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Forma del credito, ammontare del credito, garanzie, rating, saggio d’interesse, fissazione dell’interesse, commissioni, durata del credito e modalità di rimborso nonché caratteristiche del beneficiario del credito; devono essere notificate individualmente tutte le operazioni che si fondano su nuove stipulazioni di credito</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche i cui crediti a imprese non finanziarie in Svizzera superano 2 miliardi di franchi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
-<tr><td>Periodicità:</td><td>Mensile</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
-<tr><td>Denominazione della rilevazione:</td><td>Statistica relativa agli investimenti collettivi</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Situazione e variazione della sostanza degli investimenti collettivi di capitale; valore delle quote emesse e riscattate dagli investimenti collettivi di capitale; ripartizione dei valori patrimoniali in Svizzera e all’estero per valuta e categorie d’investimento (strumenti del mercato monetario, crediti da operazioni di pensione, obbligazioni, azioni e altri titoli di partecipazione, quote di altri investimenti collettivi di capitale, fondi e immobili, prodotti strutturati, altri titoli); ripartizione degli impegni in Svizzera e all’estero; ripartizione degli investimenti collettivi di capitale secondo la forma giuridica e secondo il tipo di investimento collettivo aperto previsto dalla legge; conto economico</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione totale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Direzioni di fondi svizzeri e società svizzere per investimenti collettivi di capitale secondo l’articolo 13 capoverso 2 della legge del 23 giugno 2006[^annexu1-lvlu1-7] sugli investimenti collettivi</td></tr>
-<tr><td>Livello della rilevazione:</td><td>–</td></tr>
-<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>20 giorni</td></tr>
-<tr><td>Disposizioni speciali:</td><td>–</td></tr>
-</table>
-
-<table>
 <tr><td>Denominazione della rilevazione:</td><td>Statistica relativa ai tassi d’interesse</td></tr>
 <tr><td>Oggetto della rilevazione:</td><td>Tassi d’interesse pubblicati alla fine del mese per le nuove operazioni; tassi d’interesse su ipoteche variabili, ipoteche a tasso fisso, ipoteche legate ai tassi del mercato monetario e crediti al consumo; tassi d’interesse su depositi della clientela (ripartiti secondo le caratteristiche del prodotto), su investimenti finanziari a termine nonché su obbligazioni di cassa</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
@@ -1175,13 +1055,57 @@ Allegato*[^t-1]*
 </table>
 
 <table>
-<tr><td>Denominazione della rilevazione:</td><td>Statistica relativa al volume dei crediti</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Attività creditizia (limiti, impiego, rettifiche di valore, ammortamenti) e crediti a rischio; ripartizione dei crediti in crediti ipotecari e crediti (garantiti e non garantiti) verso la clientela, per durata residua, per rami economici, sede o domicilio dei clienti in Svizzera o all’estero nonché dimensioni dell’impresa debitrice</td></tr>
-<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Banche i cui crediti al settore non bancario in Svizzera superano 280 milioni di franchi</td></tr>
+<tr><td>Denominazione della rilevazione:</td><td>**Portafogli titoli**</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Entità dei titoli nei depositi aperti dei clienti; ripartizione per categorie di titoli (in particolare valori del mercato monetario, obbligazioni di cassa, obbligazioni, azioni, quote di investimenti collettivi di capitale, prodotti strutturati), per provenienza dell’emittente (Svizzera o estero) e per valuta; ripartizione dei titolari di deposito per settori economici e per sede o domicilio in Svizzera o all’estero; entità dei titoli prestati</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale; rilevazione totale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Le banche, i depositari centrali e le controparti centrali la cui situazione di deposito supera i 4,3 miliardi di franchi procedono a una notifica mensile. Le altre banche, gli altri depositari centrali e le altre controparti centrali procedono a una notifica annuale</td></tr>
 <tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
-<tr><td>Periodicità:</td><td>Mensile</td></tr>
+<tr><td>Periodicità:</td><td>Mensile; annuale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica mensile: 25 giorni Notifica annuale: 3 mesi</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>**Cifre d’affari concernenti i titoli**</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Cifre d’affari concernenti depositi aperti dei clienti, provenienti da operazioni di compravendita; ripartizione dei titolari di deposito per sede o domicilio in Svizzera o all’estero; ripartizione delle cifre d’affari per categorie di titoli (in particolare valori del mercato monetario, obbligazioni di cassa, obbligazioni, azioni, quote di investimenti collettivi di capitale, prodotti strutturati), per provenienza dell’emittente (Svizzera o estero) e per valuta</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Le banche, i depositari centrali e le controparti centrali che devono notificare mensilmente la rilevazione delle entità dei portafogli titoli</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Statistica relativa agli investimenti collettivi</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Situazione e variazione della sostanza degli investimenti collettivi di capitale; valore delle quote emesse e riscattate dagli investimenti collettivi di capitale; ripartizione dei valori patrimoniali in Svizzera e all’estero per valuta e categorie d’investimento (strumenti del mercato monetario, crediti da operazioni di pensione, obbligazioni, azioni e altri titoli di partecipazione, quote di altri investimenti collettivi di capitale, fondi e immobili, prodotti strutturati, altri titoli); ripartizione degli impegni in Svizzera e all’estero; ripartizione degli investimenti collettivi di capitale secondo la forma giuridica e secondo il tipo di investimento collettivo aperto previsto dalla legge; conto economico</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione totale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Direzioni di fondi svizzeri e società svizzere per investimenti collettivi di capitale secondo l’articolo 13 capoverso 2 della legge del 23 giugno 2006[^annexu1-lvlu1-5] sugli investimenti collettivi</td></tr>
+<tr><td>Livello della rilevazione:</td><td>–</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
 <tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>20 giorni</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Rischi di controparte in ambito interbancario</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Annotazione delle 10 rispettivamente 20 maggiori posizioni relative a crediti e impegni nei confronti di altre banche rispettivamente gruppi bancari in Svizzera e all’estero</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione totale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Tutte le banche e i gruppi bancari</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Gruppo di società (conglomerato)</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>6 settimane</td></tr>
+<tr><td>Disposizioni speciali:</td><td>Se le condizioni dell’articolo 5 capoverso 2 OBN sono adempiute, il termine d’inoltro può essere ridotto a 24 ore</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>**Ripartizione per Stato dei portafogli titoli (IMF Coordinated Portfolio Investment Survey)**</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Annotazione delle entità dei titoli di emittenti esteri in depositi aperti dei clienti svizzeri; ripartizione per categorie delle entità di titoli (titoli del mercato monetario, obbligazioni, azioni, quote di investimen-ti collettivi di capitale, prodotti strutturati e altri titoli) e per Stato d’origine degli emittenti</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche, depositari centrali e controparti centrali la cui entità dei depositi da rilevare supera 1,8 miliardi di franchi</td></tr>
+<tr><td>Livello di rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
@@ -1197,14 +1121,58 @@ Allegato*[^t-1]*
 </table>
 
 <table>
-<tr><td>Denominazione della rilevazione:</td><td>Traffico scritturale dei pagamenti – carte di pagamento e altri strumenti di pagamento</td></tr>
-<tr><td>Oggetto della rilevazione:</td><td>Indicazioni relative a carte di pagamento e altri strumenti di pagamento, ripartite in carte di credito, carte di debito e moneta elettronica. Ammontare e numero delle transazioni svolte, ripartite per luogo della transazione (in Svizzera e all’estero), tipo di transazione (acquisto di merci e servizi, in presenza e a distanza, prelievo di contanti) e provenienza delle carte (dalla Svizzera e dall’estero), nonché per attività del commerciante (classificazione per settori); numero di carte; numero dei terminali; per la moneta elettronica: caricamenti e flottante (ammontare del valore monetario memorizzato sul dispositivo elettronico)</td></tr>
+<tr><td>Denominazione della rilevazione:</td><td>Rilevazione dettagliata relativa alle banche di rilevanza sistemica globale (FSB Survey on Granular Institution-to-Aggregate Assets and Liabilities)</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Ripartizione per Stato delle posizioni attive, passive e fuori bilancio, dei derivati finanziari e dei derivati su valute estere; ripartizione per settori, valuta e durata residua; la rilevazione concerne i diversi perimetri di consolidamento. La rilevazione è effettuata conformemente alle raccomandazioni del Consiglio per la stabilità finanziaria (Financial Stability Board, FSB)</td></tr>
 <tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
-<tr><td>Istituti tenuti a informare:</td><td>Emittenti e acquirer di carte di credito (inclusi gli acquirer di distributori automatici di banconote), che effettuano pagamenti per un ammontare superiore a 100 milioni di franchi (al lordo) per esercizio Emittenti e acquirer di carte di debito (inclusi gli acquirer di distributori automatici di banconote), che effettuano pagamenti per un ammontare superiore a 100 milioni di franchi (al lordo) per esercizio Emittenti e acquirer di moneta elettronica (inclusi gli acquirer di distributori automatici di banconote), che effettuano pagamenti per un ammontare superiore a 50 milioni di franchi (al lordo) per esercizio</td></tr>
-<tr><td>Livello della rilevazione:</td><td>–</td></tr>
-<tr><td>Periodicità:</td><td>Mensile</td></tr>
-<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche di rilevanza sistemica globale secondo la definizione del Consiglio per la stabilità finanziaria</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Gruppo di società</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>2 mesi</td></tr>
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Statistica delle divise in euro (BIS Locational Banking Statistics)</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Ripartizione per Stato delle posizioni attive e passive, nonché delle operazioni fiduciarie; ripartizione per settori, valuta, e durata residua. La rilevazione è effettuata conformemente alle prescrizioni della Banca dei regolamenti internazionali</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche le cui attività e attività fiduciarie verso l’estero o le cui passività e passività fiduciarie verso l’estero superano complessivamente 1 miliardo di franchi</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>25 giorni</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Rilevazione delle divise e dei derivati (BIS OTC Derivatives Statistics)</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Operazioni di cambio e sui derivati conformemente alle disposizioni della Banca dei regolamenti internazionali; consistenze; cifre d’affari</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Statistica semestrale: i 2 maggiori gruppi di società bancari Ogni tre anni: banche il cui volume contrattuale degli strumenti finanziari derivati non scaduti supera 8 miliardi di franchi (per la statistica relativa alle cifre d’affari), rispettivamente 30 miliardi di franchi (per la statistica relativa alle consistenze)</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Direzione (cifre d’affari); gruppo di società (consistenze)</td></tr>
+<tr><td>Periodicità:</td><td>Cifre d’affari: ogni 3 anni Consistenze: semestralmente e ogni 3 anni</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese (cifre d’affari); 2 mesi (consistenze)</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Rilevazioni relative alla bilancia delle partite correnti</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Commercio internazionale di merci (tranne il commercio con l’estero considerato per la rilevazione dell’Ufficio federale della dogana e della sicurezza dei confini[^annexu1-lvlu1-6]) e servizi, commercio di transito, commercio legato alla lavorazione per conto di terzi e alla produzione all’estero, redditi internazionali da lavoro e capitale, nonché trasferimenti conformemente alle direttive del Fondo monetario internazionale (FMI) e ai requisiti dell’Unione europea (UE) secondo l’accordo del 26 ottobre 2004[^annexu1-lvlu1-7] tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico. Ripartizione per Stati, tipo di transazione e settori economici</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazioni parziali</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Persone giuridiche e società se il valore della transazione supera 100 000 franchi per oggetto di rilevazione.</td></tr>
+<tr><td>Livello della rilevazione:</td><td>–</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale o annuale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica trimestrale: 1 mese Notifica annuale: 3 mesi</td></tr>
+<tr><td>Disposizioni speciali:</td><td>L’obbligo di fornire informazioni è adempiuto anche se la transazione è annunciata dalla banca che partecipa alle operazioni di pagamento</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Rilevazione relative ai legami patrimoniali internazionali</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Flussi internazionali di capitali (transazioni), consistenze patrimoniali (attività e passività verso il resto del mondo) e redditi di capitale conformemente alle direttive del Fondo monetario internazionale (FMI) e ai requisiti dell’Unione europea (UE) secondo l’accordo del 26 ottobre 2004[^annexu1-lvlu1-8] tra la Confederazione Svizzera e la Comunità europea sulla cooperazione nel settore statistico. La rilevazione include sia i rapporti interni al gruppo di società (investimenti diretti), sia i rapporti con terzi. Gli investitori diretti forniscono anche informazioni operative su partecipazioni maggioritarie all’estero (effettivi del personale, fatturato, numero di imprese), le imprese di investimento diretto comunicano inoltre gli effettivi del personale in Svizzera. Ripartizione per Stato, tipo di capitale, moneta e settore economico</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazioni parziali</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Persone giuridiche e società, se il valore di transazione supera 1 milione di franchi per oggetto di rilevazione o se, al momento della rilevazione, le attività o le passività all’estero superano 10 milioni di franchi per oggetto di rilevazione.</td></tr>
+<tr><td>Livello della rilevazione:</td><td>–</td></tr>
+<tr><td>Periodicità:</td><td>Trimestrale o annuale</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>Notifica trimestrale: 1 mese Notifica annuale: 3 mesi</td></tr>
+<tr><td>Disposizioni speciali:</td><td>L’obbligo di fornire informazioni è adempiuto anche se l’oggetto della rilevazione è comunicato dalla banca che partecipa alle operazioni di pagamento o che è incaricata di custodire le attività all’estero</td></tr>
 </table>
 
 <table>
@@ -1218,10 +1186,44 @@ Allegato*[^t-1]*
 <tr><td>Disposizioni speciali:</td><td>–</td></tr>
 </table>
 
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Traffico scritturale dei pagamenti – carte di pagamento e altri strumenti di pagamento</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Indicazioni relative a carte di pagamento e altri strumenti di pagamento, ripartite in carte di credito, carte di debito e moneta elettronica. Ammontare e numero delle transazioni svolte, ripartite per luogo della transazione (in Svizzera e all’estero), tipo di transazione (acquisto di merci e servizi, in presenza e a distanza, prelievo di contanti) e provenienza delle carte (dalla Svizzera e dall’estero), nonché per attività del commerciante (classificazione per settori); numero di carte; numero dei terminali; per la moneta elettronica: caricamenti e flottante (ammontare del valore monetario memorizzato sul dispositivo elettronico)</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Emittenti e acquirer di carte di credito (inclusi gli acquirer di distributori automatici di banconote), che effettuano pagamenti per un ammontare superiore a 100 milioni di franchi (al lordo) per esercizio Emittenti e acquirer di carte di debito (inclusi gli acquirer di distributori automatici di banconote), che effettuano pagamenti per un ammontare superiore a 100 milioni di franchi (al lordo) per esercizio Emittenti e acquirer di moneta elettronica (inclusi gli acquirer di distributori automatici di banconote), che effettuano pagamenti per un ammontare superiore a 50 milioni di franchi (al lordo) per esercizio</td></tr>
+<tr><td>Livello della rilevazione:</td><td>–</td></tr>
+<tr><td>Periodicità:</td><td>Mensile</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Pagamenti della clientela</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Pagamenti della clientela presso le banche effettuati o ricevuti nel corso di un mese. Suddivisione tra pagamenti in uscita e pagamenti in entrata, distinti per tipo di ordine e ripartiti tra pagamenti interbancari in Svizzera e pagamenti con la partecipazione di una banca con sede all’estero nonché per moneta. Registrazione di specifiche operazioni di prelievo di contante e delle operazioni di versamento di contante della clientela, nonché di informazioni sull’infrastruttura presso le banche</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione parziale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Banche il cui numero di transazioni nello Swiss Interbank Clearing supera 5 milioni all’anno</td></tr>
+<tr><td>Livello della rilevazione:</td><td>Direzione</td></tr>
+<tr><td>Periodicità:</td><td>Mensile</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
+<table>
+<tr><td>Denominazione della rilevazione:</td><td>Distributori automatici di banconote</td></tr>
+<tr><td>Oggetto della rilevazione:</td><td>Numero di distributori automatici</td></tr>
+<tr><td>Tipo di rilevazione:</td><td>Rilevazione totale</td></tr>
+<tr><td>Istituti tenuti a informare:</td><td>Esercenti di reti di distributori automatici di banconote</td></tr>
+<tr><td>Livello della rilevazione:</td><td>–</td></tr>
+<tr><td>Periodicità:</td><td>Mensile</td></tr>
+<tr><td>Termine d’inoltro dopo il giorno di riferimento:</td><td>1 mese</td></tr>
+<tr><td>Disposizioni speciali:</td><td>–</td></tr>
+</table>
+
 [^annexu1-lvlu1-1]: Cap. 4 art. 25–42 dell’O del 30 apr. 2014 sulle banche ([RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
 [^annexu1-lvlu1-2]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
-[^annexu1-lvlu1-3]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
-[^annexu1-lvlu1-4]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
-[^annexu1-lvlu1-5]: Cap. 4 art. 25–42 dell’O del 30 apr. 2014 sulle banche ([RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
-[^annexu1-lvlu1-6]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
-[^annexu1-lvlu1-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^annexu1-lvlu1-3]: Cap. 4 art. 25–42 dell’O del 30 apr. 2014 sulle banche ([RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
+[^annexu1-lvlu1-4]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
+[^annexu1-lvlu1-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^annexu1-lvlu1-6]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^annexu1-lvlu1-7]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-8]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)

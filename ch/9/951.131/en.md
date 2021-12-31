@@ -4,11 +4,11 @@ title: "Ordinance of 18 March 2004 on the Federal Act on the Swiss National Bank
 short: NBO
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: en
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2004-233-20210101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2004-233-20220101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (National Bank Ordinance, NBO)
 
-of 18 March 2004 (Status as of 1 January 2021)
+of 18 March 2004 (Status as of 1 January 2022)
 
 The Swiss National Bank (SNB),
 
@@ -205,9 +205,9 @@ If the National Bank calls in third persons to conduct surveys, these shall, in 
 
 <sup>2</sup> Any exception from these obligations shall require the written permission of the National Bank.
 
-<sup>3</sup> Third persons must provide evidence of the fact that they have taken the necessary technical and organisational measures for the processing of these data according to the Ordinance of 14 June 1993[^9-1] on the Federal Act on Data Protection.
+<sup>3</sup> Third persons must provide evidence of the fact that they have taken the necessary technical and organisational measures for the processing of these data according to the Ordinance of 21 August 2022[^9-1] on the Federal Act on Data Protection.
 
-[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). The reference was adjusted to 1 Sept. 2023 in application of art. 12 para. 2 of the Publication Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 10
 
@@ -305,13 +305,13 @@ By the end of the month of the terminated reporting period, the banks shall repo
 
 [^17-1]: Amended by No I of the SNB O of 3 Sept. 2009, in force since 1 Jan. 2010 ([AS 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)).
 
-## Chapter 4 Oversight of Systemically Important Financial Market Infrastructures****
+## Chapter 4 Oversight of Systemically Important Financial Market Infrastructures
 
 [^chap4-1]
 
 [^chap4-1]: Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
-### Section 1**** Determination of Systemically Important Financial Market Infrastructures and Business Processes
+### Section 1 Determination of Systemically Important Financial Market Infrastructures and Business Processes
 
 [^chap4-sec1-1]
 
@@ -364,7 +364,7 @@ In determining whether a payment system, central securities depository or centra
 
 Repealed
 
-### Section 2**** Special Requirements for Systemically Important Financial Market Infrastructures****
+### Section 2 Special Requirements for Systemically Important Financial Market Infrastructures
 
 [^chap4-sec2-1][^chap4-sec2-2]
 
@@ -807,7 +807,7 @@ If a central securities depository establishes a link with another central secur
 
 [^34-1]: Amended by No I of the SNB O of 26 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
-### Section 3 Assessment of Compliance with Special Requirements****
+### Section 3 Assessment of Compliance with Special Requirements
 
 [^chap4-sec3-1]
 
@@ -937,7 +937,7 @@ The operator shall inform the National Bank immediately about:
 
 This Ordinance comes into force on 1 May 2004.
 
-Annex*[^t-1]*
+Annex[^t-1]
 
 (Art. 5 para. 1)
 
@@ -1157,7 +1157,7 @@ Annex*[^t-1]*
 
 <table>
 <tr><td>Name of survey:</td><td>Current account survey</td></tr>
-<tr><td>Coverage:</td><td>Cross-border trade in goods (excluding foreign trade according to the statistics of the Federal Customs Administration) and services, merchanting, trade related to manufacturing services on physical inputs and production abroad, cross-border labour income and investment income, and transfers according to the guidelines of the International Monetary Fund and the European Union (EU) requirements under the Agreement of 26 October 2004[^annexu1-lvlu1-6] between the Swiss Confederation and the European Community on Cooperation in the Field of Statistics. Breakdown by country, type of transaction and economic sector</td></tr>
+<tr><td>Coverage:</td><td>Cross-border trade in goods (excluding foreign trade according to statistics from the Federal Office for Customs and Border Security[^annexu1-lvlu1-6]) and services, merchanting, trade related to manufacturing services on physical inputs and production abroad, cross-border labour income and investment income, and transfers according to the guidelines of the International Monetary Fund and the European Union (EU) requirements under the Agreement of 26 October 2004[^annexu1-lvlu1-7] between the Swiss Confederation and the European Community on Cooperation in the Field of Statistics. Breakdown by country, type of transaction and economic sector</td></tr>
 <tr><td>Type of survey:</td><td>Partial sample survey</td></tr>
 <tr><td>Reporting institutions:</td><td>Legal entities and companies where the transaction value per reporting item exceeds CHF 100,000</td></tr>
 <tr><td>Reporting entity:</td><td>–</td></tr>
@@ -1168,7 +1168,7 @@ Annex*[^t-1]*
 
 <table>
 <tr><td>Name of survey:</td><td>Survey on cross-border capital linkages</td></tr>
-<tr><td>Coverage:</td><td>Cross-border capital flows (transactions), capital stocks (foreign assets and liabilities) and investment income according to the guidelines of the Inter-national Monetary Fund (IMF) and the European Union (EU) requirements under the Agreement of 26 October 2004[^annexu1-lvlu1-7] between the Swiss Confederation and the European Community on Cooperation in the Field of Statistics. Breakdown by country, size of stocks and economic sector. The survey covers both intragroup relations (direct investment) and relations with third parties</td></tr>
+<tr><td>Coverage:</td><td>Cross-border capital flows (transactions), capital stocks (foreign assets and liabilities) and investment income according to the guidelines of the Inter-national Monetary Fund (IMF) and the European Union (EU) requirements under the Agreement of 26 October 2004[^annexu1-lvlu1-8] between the Swiss Confederation and the European Community on Cooperation in the Field of Statistics. Breakdown by country, size of stocks and economic sector. The survey covers both intragroup relations (direct investment) and relations with third parties</td></tr>
 <tr><td>Type of survey:</td><td>Partial sample survey</td></tr>
 <tr><td>Reporting institutions:</td><td>Legal entities and companies where the transaction value exceeds CHF 1 million per reporting item, or where the foreign assets or liabilities at the time of the survey exceed CHF 10 million per reporting item</td></tr>
 <tr><td>Reporting entity:</td><td>–</td></tr>
@@ -1226,5 +1226,6 @@ Annex*[^t-1]*
 [^annexu1-lvlu1-3]: Chap. 4, Art. 25–42 of the Banking O of 30 April 2014 ([SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
 [^annexu1-lvlu1-4]: FINMA Accounting O of 31 Oct. 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)), as well as FINMA Circular 2020/1 ‘Accounting – Banks’ of 31 Oct. 2019.
 [^annexu1-lvlu1-5]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annexu1-lvlu1-6]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-6]: The name of this administrative unit was modified on 1 Jan.2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^annexu1-lvlu1-7]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-8]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)

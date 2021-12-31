@@ -4,11 +4,11 @@ title: "Verordnung vom 18. März 2004 zum Bundesgesetz über die Schweizerische 
 short: NBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: de
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2004-233-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-233-20220101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20210101/de"
 
 (Nationalbankverordnung, NBV)
 
-vom 18. März 2004 (Stand am 1. Januar 2021)
+vom 18. März 2004 (Stand am 1. Januar 2022)
 
 Die Schweizerische Nationalbank (SNB),
 
@@ -59,7 +59,7 @@ In dieser Verordnung gelten als:
 - g. *Anlage- und Holdinggesellschaft*: jede juristische Person, Gesellschaft und öffentlich-rechtliche Körperschaft, deren Zweck zur Hauptsache in der dauernden Verwaltung von Beteiligungen besteht und welche die im Anhang zu dieser Verordnung festgelegten Voraussetzungen erfüllt;
 - h*.*[^2-10] *systemisch bedeutsame Finanzmarktinfrastruktur:* ein Zahlungssystem, ein Zentralverwahrer oder eine zentrale Gegenpartei im Sinne von Artikel 22 Absatz 1 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^2-11] (FinfraG);
 - i.[^2-12] *Zahlungssystem:* eine Einrichtung im Sinne von Artikel 81 FinfraG;
-- j.[^2-13] ...
+- j.[^2-13] …
 - k.[^2-14] *Zentralverwahrer:* ein Betreiber im Sinne von Artikel 61 Absatz 1 FinfraG;
 - l.[^2-15] *zentrale* *Gegenpartei:* eine Einrichtung im Sinne von Artikel 48 FinfraG;
 - m.[^2-16] *Betreiber:* ein Zentralverwahrer sowie jede Person und Gesellschaft, die ein Zahlungssystem oder eine zentrale Gegenpartei betreibt;
@@ -116,7 +116,7 @@ Die Schweizerische Nationalbank führt die erforderlichen statistischen Erhebung
 - d. für internationale Organisationen, bei denen die Schweiz Mitglied ist;
 - e. für die Erstellung der Zahlungsbilanz und der Statistik über das Auslandvermögen.
 
-[^3-1]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 (AS **201****5** 5307).
+[^3-1]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
 #### Art. 4
 
@@ -149,7 +149,7 @@ Der Anhang zu dieser Verordnung legt für jede Erhebung fest:
 
 <sup>2</sup> Ist die Nationalbank zur Erfüllung einer gesetzlichen Aufgabe dringend auf die Daten einer bestimmten Erhebung angewiesen, so legt sie für diese während eines begrenzten Zeitraums die Einreichefrist und die Periodizität abweichend vom Anhang fest.
 
-<sup>3</sup> ...[^5-1]
+<sup>3</sup> …[^5-1]
 
 [^5-1]: Aufgehoben durch Ziff. I der V der SNB vom 10. Juni 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1987](https://fedlex.data.admin.ch/eli/oc/2013/420)).
 
@@ -203,9 +203,9 @@ Zieht die Nationalbank Dritte zur Durchführung von Erhebungen bei, so werden di
 
 <sup>2</sup> Für eine Ausnahme von diesen Pflichten bedarf es der schriftlichen Zustimmung der Nationalbank.
 
-<sup>3</sup> Die Dritten haben nachzuweisen, dass sie die erforderlichen technischen und organisatorischen Massnahmen zur Bearbeitung dieser Daten gemäss der Verordnung vom 14. Juni 1993[^9-1] zum Bundesgesetz über den Datenschutz getroffen haben.
+<sup>3</sup> Die Dritten haben nachzuweisen, dass sie die erforderlichen technischen und organisatorischen Massnahmen zur Bearbeitung dieser Daten gemäss der Datenschutzverordnung vom 31. August 2022[^9-1] getroffen haben.
 
-[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Sept. 2023 angepasst.
 
 #### Art. 10
 
@@ -260,11 +260,11 @@ Für die Berechnung der Mindestreserven sind folgende auf Schweizerfranken laute
 - c. 20 Prozent der Verpflichtungen aus kündbaren Kundeneinlagen (ohne gebundene Vorsorgegelder);
 - d. Verpflichtungen aus Kundeneinlagen, die auf Sicht lauten oder innerhalb von drei Monaten fällig werden (inklusive *Callgelder*);
 - e. Verpflichtungen aus Kassenobligationen, die innerhalb von drei Monaten fällig werden;
-- f.[^14-2] ...
+- f.[^14-2] …
 
 <sup>1bis</sup> Für die Berechnung nicht massgeblich sind Verpflichtungen gegenüber Banken, die selber aufgrund der Artikel 17 und 18 NBG mindestreservepflichtig sind.
 
-<sup>2</sup> ...[^14-3]
+<sup>2</sup> …[^14-3]
 
 <sup>3</sup> Die in Absatz 1 Buchstaben a–e verwendeten Begriffe beziehen sich auf die Rechnungslegungsvorschriften der FINMA[^14-4].[^14-5]
 
@@ -303,13 +303,13 @@ Die Banken melden der Nationalbank bis zum Ende des Monats der abgeschlossenen U
 
 [^17-1]: Fassung gemäss Ziff. I der V der SNB vom 3. Sept. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)).
 
-## 4. Kapitel: Überwachung von systemisch bedeutsamen Finanzmarktinfrastrukturen****
+## 4. Kapitel: Überwachung von systemisch bedeutsamen Finanzmarktinfrastrukturen
 
 [^chap4-1]
 
 [^chap4-1]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
-### 1. Abschnitt:**** Bestimmung der systemisch bedeutsamen Finanzmarktinfrastrukturen und Geschäftsprozesse
+### 1. Abschnitt: Bestimmung der systemisch bedeutsamen Finanzmarktinfrastrukturen und Geschäftsprozesse
 
 [^chap4-sec1-1]
 
@@ -362,7 +362,7 @@ Für die Feststellung, ob ein Zahlungssystem, ein Zentralverwahrer oder eine zen
 
 Aufgehoben
 
-### 2. Abschnitt:**** Besondere Anforderungen für systemisch bedeutsame Finanzmarktinfrastrukturen****
+### 2. Abschnitt: Besondere Anforderungen für systemisch bedeutsame Finanzmarktinfrastrukturen
 
 [^chap4-sec2-1][^chap4-sec2-2]
 
@@ -394,7 +394,7 @@ Der Betreiber verfügt über angemessene Regeln und Verfahren zur Unternehmensf�
 
 <sup>2</sup> Der Betreiber verfügt über Mechanismen, die es erlauben, die Bedürfnisse der Teilnehmer in Bezug auf die Dienstleistungen der Finanzmarktinfrastruktur zu erheben.
 
-<sup>3</sup> und <sup>4</sup> ...[^22-1]
+<sup>3</sup> und <sup>4</sup> …[^22-1]
 
 [^22-1]: Aufgehoben durch Ziff. I der V der SNB vom 26. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -410,7 +410,7 @@ Der Betreiber verfügt über angemessene Regeln und Verfahren zur Unternehmensf�
 
 <sup>4</sup> Die interne Revision ist von der Geschäftsführung unabhängig und erstattet dem Verwaltungsrat oder einem seiner Ausschüsse Bericht. Sie verfügt über ausreichend Ressourcen und hat ein unbeschränktes Prüfrecht sowie ein uneingeschränktes Recht, auf sämtliche Unterlagen sowie Datenträger und Informationsverarbeitungssysteme zuzugreifen.
 
-<sup>5</sup> ...[^22a-1]
+<sup>5</sup> …[^22a-1]
 
 [^22a-1]: Aufgehoben durch Ziff. I der V der SNB vom 26. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -420,7 +420,7 @@ Der Betreiber verfügt über angemessene Regeln und Verfahren zur Unternehmensf�
 
 <sup>1</sup> Der Betreiber zeichnet die wesentlichen erbrachten Dienstleistungen und ausgeübten Tätigkeiten auf und bewahrt sämtliche Aufzeichnungen für einen Zeitraum von zehn Jahren auf.
 
-<sup>2</sup> und <sup>3</sup> ...[^22b-1]
+<sup>2</sup> und <sup>3</sup> …[^22b-1]
 
 [^22b-1]: Aufgehoben durch Ziff. I der V der SNB vom 26. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
@@ -454,9 +454,9 @@ Der Betreiber veröffentlicht regelmässig in Grundzügen alle wesentlichen die 
 - c. die Rechte und Pflichten der Teilnehmer;
 - d. die Voraussetzungen für die Teilnahme und die Kriterien zur Suspendierung und zum Ausschluss eines Teilnehmers;
 - e. die Regeln und Verfahren beim Ausfall eines Teilnehmers;
-- f.[^23a-1] ...
+- f.[^23a-1] …
 - g. die aggregierten Transaktionsvolumina und -beträge;
-- h.[^23a-2] ...
+- h.[^23a-2] …
 - i. die Preise und Gebühren für die von der Finanzmarktinfrastruktur erbrachten Dienstleistungen, einschliesslich der Bedingungen für die Gewährung von Rabatten.
 
 <sup>2</sup> Er veröffentlicht Informationen gemäss den Vorgaben der relevanten internationalen Gremien.
@@ -806,7 +806,7 @@ Geht ein Zentralverwahrer eine Verbindung mit einem anderen Zentralverwahrer ein
 
 [^34-1]: Fassung gemäss Ziff. I der V der SNB vom 26. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
-### 3. Abschnitt: Beurteilung der Einhaltung der besonderen Anforderungen****
+### 3. Abschnitt: Beurteilung der Einhaltung der besonderen Anforderungen
 
 [^chap4-sec3-1]
 
@@ -936,7 +936,7 @@ Der Betreiber informiert die Nationalbank umgehend über:
 
 Diese Verordnung tritt am 1. Mai 2004 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 5 Abs. 1)
 
@@ -1155,7 +1155,7 @@ Anhang*[^t-1]*
 
 <table>
 <tr><td>Bezeichnung der Erhebung:</td><td>Erhebungen der Leistungsbilanz</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Grenzüberschreitender Handel mit Waren (ohne Aussenhandel gemäss Erhebung der Eidgenössischen Zollverwaltung) und Dienstleistungen, Transithandel, Handel im Zusammenhang mit Lohnveredelung und Produktion im Ausland, grenzüberschreitende Arbeits- und Vermögenseinkommen sowie Übertragungen gemäss den Richtlinien des Internationalen Währungsfonds (IWF) sowie den Anforderungen der Europäischen Union (EU) gemäss dem Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-6] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik. Gliederung nach Ländern, Art der Transaktionen sowie nach Wirtschaftssektoren</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Grenzüberschreitender Handel mit Waren (ohne Aussenhandel gemäss Erhebung des Bundesamts für Zoll und Grenzsicherheit[^annexu1-lvlu1-6]) und Dienstleistungen, Transithandel, Handel im Zusammenhang mit Lohnveredelung und Produktion im Ausland, grenzüberschreitende Arbeits- und Vermögenseinkommen sowie Übertragungen gemäss den Richtlinien des Internationalen Währungsfonds (IWF) sowie den Anforderungen der Europäischen Union (EU) gemäss dem Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-7] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik. Gliederung nach Ländern, Art der Transaktionen sowie nach Wirtschaftssektoren</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebungen</td></tr>
 <tr><td>Auskunftspflichtige Institute:</td><td>Juristische Personen und Gesellschaften, wenn der Transaktionswert 100 000 Franken je Erhebungsgegenstand überschreitet</td></tr>
 <tr><td>Erhebungsstufe:</td><td>–</td></tr>
@@ -1166,7 +1166,7 @@ Anhang*[^t-1]*
 
 <table>
 <tr><td>Bezeichnung der Erhebung:</td><td>Erhebungen der Kapitalverflechtungen mit dem Ausland</td></tr>
-<tr><td>Erhebungsgegenstand:</td><td>Grenzüberschreitende Kapitalflüsse (Transaktionen), Kapitalbestände (Auslandaktiven und -passiven) und Kapitalerträge gemäss den Richtlinien des Internationalen Währungsfonds (IWF) sowie den Anforderungen der Europäischen Union (EU) gemäss dem Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-7] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik. Die Erhebung umfasst sowohl konzerninterne Beziehungen (Direktinvestitionen) als auch die Beziehungen zu Dritten Die Direktinvestoren melden auch operative Angaben über Mehrheitsbeteiligungen im Ausland (Personalbestand, Umsatz, Anzahl Unternehmen), die Direktinvestitionsunternehmen zusätzlich den Personalbestand im Inland. Gliederung nach Ländern, Kapitalarten, Währungen sowie nach Wirtschaftssektoren</td></tr>
+<tr><td>Erhebungsgegenstand:</td><td>Grenzüberschreitende Kapitalflüsse (Transaktionen), Kapitalbestände (Auslandaktiven und -passiven) und Kapitalerträge gemäss den Richtlinien des Internationalen Währungsfonds (IWF) sowie den Anforderungen der Europäischen Union (EU) gemäss dem Abkommen vom 26. Oktober 2004[^annexu1-lvlu1-8] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Zusammenarbeit im Bereich der Statistik. Die Erhebung umfasst sowohl konzerninterne Beziehungen (Direktinvestitionen) als auch die Beziehungen zu Dritten Die Direktinvestoren melden auch operative Angaben über Mehrheitsbeteiligungen im Ausland (Personalbestand, Umsatz, Anzahl Unternehmen), die Direktinvestitionsunternehmen zusätzlich den Personalbestand im Inland. Gliederung nach Ländern, Kapitalarten, Währungen sowie nach Wirtschaftssektoren</td></tr>
 <tr><td>Art der Erhebung:</td><td>Teilerhebungen</td></tr>
 <tr><td>Auskunftspflichtige Institute:</td><td>Juristische Personen und Gesellschaften, wenn der Transaktionswert 1 Million Franken je Erhebungsgegenstand überschreitet bzw. wenn die Auslandaktiven oder -passiven zum Erhebungszeitpunkt 10 Millionen Franken je Erhebungsgegenstand übersteigen</td></tr>
 <tr><td>Erhebungsstufe:</td><td>–</td></tr>
@@ -1224,5 +1224,6 @@ Anhang*[^t-1]*
 [^annexu1-lvlu1-3]: 4. Kapitel, Art. 25–42 der Bankenverordnung vom 30. April 2014 ([SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273))
 [^annexu1-lvlu1-4]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
 [^annexu1-lvlu1-5]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annexu1-lvlu1-6]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-6]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^annexu1-lvlu1-7]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-8]: [SR 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)

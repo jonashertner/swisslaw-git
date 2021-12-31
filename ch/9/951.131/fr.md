@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mars 2004 relative à la loi fédérale sur la Banque n
 short: OBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: fr
-version: 2021-01-01
+version: 2022-01-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-233-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-233-20220101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20210101/fr"
 
 (Ordonnance de la Banque nationale, OBN)
 
-du 18 mars 2004 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 mars 2004 (État le 1<sup>er</sup> janvier 2022)
 
 La Banque nationale suisse,
 
@@ -203,9 +203,9 @@ Si la Banque nationale confie l’exécution d’enquêtes à des tiers, ces tie
 
 <sup>2</sup> Il ne peut être dérogé à ces obligations sans l’approbation écrite de la Banque nationale.
 
-<sup>3</sup> Les tiers doivent démontrer qu’ils ont pris toutes les mesures techniques et organisationnelles nécessaires pour traiter ces données conformément à l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^9-1].
+<sup>3</sup> Les tiers doivent démontrer qu’ils ont pris toutes les mesures techniques et organisationnelles nécessaires pour traiter ces données conformément à l’ordonnance du 31 août 2022 sur la protection des données[^9-1].
 
-[^9-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^9-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). Le renvoi a été adapté au 1<sup>er</sup> sept. 2023 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 10
 
@@ -303,13 +303,13 @@ Les banques remettent à la Banque nationale, au plus tard à la fin du mois qui
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O de la BNS du 3 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6373](https://fedlex.data.admin.ch/eli/oc/2009/780)).
 
-## Chapitre 4 Surveillance des infrastructures des marchés financiers d’importance systémique****
+## Chapitre 4 Surveillance des infrastructures des marchés financiers d’importance systémique
 
 [^chap4-1]
 
 [^chap4-1]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
-### Section 1**** Détermination des infrastructures des marchés financiers et des processus opérationnels d’importance systémique
+### Section 1 Détermination des infrastructures des marchés financiers et des processus opérationnels d’importance systémique
 
 [^chap4-sec1-1]
 
@@ -362,7 +362,7 @@ Pour déterminer si un système de paiement, un dépositaire central ou une cont
 
 Abrogés
 
-### Section 2**** Exigences spéciales applicables aux infrastructures des marchés financiers d’importance systémique****
+### Section 2 Exigences spéciales applicables aux infrastructures des marchés financiers d’importance systémique
 
 [^chap4-sec2-1][^chap4-sec2-2]
 
@@ -806,7 +806,7 @@ Si un dépositaire central établit des liens avec un autre dépositaire central
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O de la BNS du 26 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5307](https://fedlex.data.admin.ch/eli/oc/2015/850)).
 
-### Section 3 Évaluation du respect des exigences spéciales ****
+### Section 3 Évaluation du respect des exigences spéciales
 
 [^chap4-sec3-1]
 
@@ -936,7 +936,7 @@ L’exploitant informe immédiatement la Banque nationale:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2004.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 5, al. 1)
 
@@ -1149,7 +1149,7 @@ Annexe*[^t-1]*
 
 <table>
 <tr><td>Désignation de l’enquête:</td><td>Enquêtes en vue de dresser la balance des transactions courantes</td></tr>
-<tr><td>Objet de l’enquête:</td><td>négoce transfrontière de marchandises (hors commerce extérieur, déjà recensé par l’Administration fédérale des douanes) et de services, commerce de transit, négoce en rapport avec les services de production manufacturière et la production à l’étranger, revenus transfrontières de facteurs (travail et capitaux) et transferts selon les règles du Fonds monétaire international (FMI) et les exigences de l’Union européenne (UE) telles qu’elles ressortent de l’accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif à la coopération dans le domaine statistique[^annexu1-lvlu1-6]; ventilation par pays, selon le genre de transaction et selon le secteur économique</td></tr>
+<tr><td>Objet de l’enquête:</td><td>négoce transfrontière de marchandises (hors commerce extérieur, déjà recensé par l’Office fédéral de la douane et de la sécurité des frontières[^annexu1-lvlu1-6]) et de services, commerce de transit, négoce en rapport avec les services de production manufacturière et la production à l’étranger, revenus transfrontières de facteurs (travail et capitaux) et transferts selon les règles du Fonds monétaire international (FMI) et les exigences de l’Union européenne (UE) telles qu’elles ressortent de l’accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif à la coopération dans le domaine statistique[^annexu1-lvlu1-7]; ventilation par pays, selon le genre de transaction et selon le secteur économique</td></tr>
 <tr><td>Type d’enquête:</td><td>enquêtes partielles</td></tr>
 <tr><td>Établissements tenus de renseigner:</td><td>personnes morales et sociétés dont le montant des transactions dépasse 100 000 francs par objet</td></tr>
 <tr><td>Niveau de consolidation:</td><td>–</td></tr>
@@ -1160,7 +1160,7 @@ Annexe*[^t-1]*
 
 <table>
 <tr><td>Désignation de l’enquête:</td><td>Enquêtes sur les relations financières avec l’étranger</td></tr>
-<tr><td>Objet de l’enquête:</td><td>mouvements transfrontières de capitaux (transactions), encours (actifs à l’étranger et passifs envers l’étranger) et revenus de capitaux selon les règles du Fonds monétaire international (FMI) et les exigences de l’Union européenne (UE) telles qu’elles ressortent de l’accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif à la coopération dans le domaine statistique[^annexu1-lvlu1-7]. L’enquête porte sur les relations aussi bien au sein d’un groupe (investissements directs) qu’avec des tiers; les investisseurs directs fournissent également des données opérationnelles sur les participations majoritaires à l’étranger (effectifs, chiffre d’affaires, nombre d’entreprises); les entreprises d’investissements directs déclarent en outre leurs effectifs en Suisse. Ventilation par pays, selon le type de capitaux, la monnaie et la branche économique</td></tr>
+<tr><td>Objet de l’enquête:</td><td>mouvements transfrontières de capitaux (transactions), encours (actifs à l’étranger et passifs envers l’étranger) et revenus de capitaux selon les règles du Fonds monétaire international (FMI) et les exigences de l’Union européenne (UE) telles qu’elles ressortent de l’accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif à la coopération dans le domaine statistique[^annexu1-lvlu1-8]. L’enquête porte sur les relations aussi bien au sein d’un groupe (investissements directs) qu’avec des tiers; les investisseurs directs fournissent également des données opérationnelles sur les participations majoritaires à l’étranger (effectifs, chiffre d’affaires, nombre d’entreprises); les entreprises d’investissements directs déclarent en outre leurs effectifs en Suisse. Ventilation par pays, selon le type de capitaux, la monnaie et la branche économique</td></tr>
 <tr><td>Type d’enquête:</td><td>enquêtes partielles</td></tr>
 <tr><td>Établissements tenus de renseigner:</td><td>personnes morales et sociétés dont le montant des transactions dépasse 1 million de francs par objet ou dont les actifs à l’étranger ou les passifs envers l’étranger dépassent 10 millions de francs par objet au moment de l’enquête</td></tr>
 <tr><td>Niveau de consolidation:</td><td>–</td></tr>
@@ -1218,5 +1218,6 @@ Annexe*[^t-1]*
 [^annexu1-lvlu1-3]: Chap. 4, art. 25 à 42 de l’O du 30 avr. 2014 sur les banques et les caisses d’épargne ([RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)).
 [^annexu1-lvlu1-4]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
 [^annexu1-lvlu1-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^annexu1-lvlu1-6]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-6]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^annexu1-lvlu1-7]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
+[^annexu1-lvlu1-8]: [RS 0.431.026.81](https://fedlex.data.admin.ch/eli/cc/2006/866)
