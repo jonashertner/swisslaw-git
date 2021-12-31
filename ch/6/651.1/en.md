@@ -4,11 +4,11 @@ title: "Federal Act of 28 September 2012 on International Administrative Assista
 short: TAAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: en
-version: 2019-11-01
+version: 2022-01-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20191101/en/xml/fedlex-data-admin-ch-eli-cc-2013-31-20191101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20191101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2013-31-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Tax Administrative Assistance Act, TAAA)
 
-of 28 September 2012 (Status as of 1 November 2019)
+of 28 September 2012 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -91,6 +91,18 @@ For the purposes of this Act:
 
 [^4-1]: Repealed by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, with effect from 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^4-2]: Amended by the Annex to the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the Convention of the Council of Europe and the OECD on Mutual Administrative Assistance in Tax Matters, in force since 1 Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
+
+#### Art. 4a
+
+**Electronic procedures**[^4a-1]
+
+<sup>1</sup> The Federal Council may require the electronic conduct of procedures under this Act. If so, it shall regulate the modalities of such conduct.
+
+<sup>2</sup> The FTA shall ensure the authenticity and integrity of data transmitted during the electronic conduct of procedures.
+
+<sup>3</sup> In the case of the electronic filing of submissions whose signature is required by law, it may recognise a different form of electronic confirmation of the information from a qualified electronic signature.
+
+[^4a-1]: Inserted by No I 6 of the FA of 18 June 2021 on Electronic Tax-related Procedures, in force since 1 Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 5
 

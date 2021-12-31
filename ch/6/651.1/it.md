@@ -4,11 +4,11 @@ title: "Legge federale del 28 settembre 2012 sull'assistenza amministrativa inte
 short: LAAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: it
-version: 2019-11-01
+version: 2022-01-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20191101/it/xml/fedlex-data-admin-ch-eli-cc-2013-31-20191101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20191101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-31-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20191101/it"
 
 (Legge sull’assistenza amministrativa fiscale, LAAF)
 
-del 28 settembre 2012 (Stato 1° novembre 2019)
+del 28 settembre 2012 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -89,6 +89,18 @@ Nella presente legge s’intende per:
 
 [^4-1]: Abrogato dall’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, con effetto dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^4-2]: Nuovo testo giusta l’all. del DF del 18 dic. 2015 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa e dell’OCSE sulla reciproca assistenza amministrativa in materia fiscale, in vigore dal 1° gen. 2017 ([RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 4613](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
+
+#### Art. 4a
+
+**Procedure elettroniche**[^4a-1]
+
+<sup>1</sup> Il Consiglio federale può prescrivere lo svolgimento per via elettronica delle procedure previste dalla presente legge. Ne disciplina le modalità.
+
+<sup>2</sup> In caso di svolgimento di procedure per via elettronica, l’AFC garantisce l’autenticità e l’integrità dei dati trasmessi.
+
+<sup>3</sup> In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte della persona che li trasmette.
+
+[^4a-1]: Introdotto dal n. I 6 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 5
 

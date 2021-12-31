@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur l'assistance administrative inte
 short: LAAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: fr
-version: 2019-11-01
+version: 2022-01-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20191101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-31-20191101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20191101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-31-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20191101/fr"
 
 (Loi sur l’assistance administrative fiscale, LAAF)
 
-du 28 septembre 2012 (Etat le 1<sup>er</sup> novembre 2019)
+du 28 septembre 2012 (Etat le 1<sup>er</sup> janvier 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -90,6 +90,18 @@ Dans la présente loi, on entend par:
 
 [^4-1]: Abrogé par l’AF du 18 déc. 2015, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^4-2]: Nouvelle teneur selon l’annexe de l’AF du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [FF 2015 5121](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
+
+#### Art. 4a
+
+**Procédures électroniques**[^4a-1]
+
+<sup>1</sup> Le Conseil fédéral peut prescrire l’exécution par voie électronique des procédures prévues par la présente loi. Il arrête les modalités de cette exécution.
+
+<sup>2</sup> Lorsqu’une procédure est exécutée par voie électronique, l’AFC assure l’authenticité et l’intégrité des données transmises.
+
+<sup>3</sup> Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, l’AFC peut reconnaître, en lieu et place de la signature électronique qualifiée, une autre forme de confirmation électronique des données par la personne qui les transmet.
+
+[^4a-1]: Introduit par le ch. I 6 de la LF du 18 juin 2021 sur les procédures électroniques en matière d’impôts, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 5
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. September 2012 über die internationale Amtshilfe i
 short: StAhiG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/31"
 language: de
-version: 2019-11-01
+version: 2022-01-01
 adopted: 2012-09-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20191101/de/xml/fedlex-data-admin-ch-eli-cc-2013-31-20191101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20191101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/31/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-31-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/31/20191101/de"
 
 (Steueramtshilfegesetz, StAhiG)
 
-vom 28. September 2012 (Stand am 1. November 2019)
+vom 28. September 2012 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -81,7 +81,7 @@ In diesem Gesetz gelten als:
 
 **Grundsätze**
 
-<sup>1</sup> …[^4-1]
+<sup>1</sup> ...[^4-1]
 
 <sup>2</sup> Das Amtshilfeverfahren wird zügig durchgeführt.
 
@@ -89,6 +89,18 @@ In diesem Gesetz gelten als:
 
 [^4-1]: Aufgehoben durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, mit Wirkung seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 [^4-2]: Fassung gemäss Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
+
+#### Art. 4a
+
+**Elektronische Verfahren**[^4a-1]
+
+<sup>1</sup> Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung.
+
+<sup>2</sup> Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher.
+
+<sup>3</sup> Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die eingebende Person anerkennen.
+
+[^4a-1]: Eingefügt durch Ziff. I 6 des BG vom 18. Juni 2021 über elektronische Verfahren im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [BBl 2020 4705](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
 
 #### Art. 5
 
@@ -192,7 +204,7 @@ Auf das Ersuchen wird nicht eingetreten, wenn:
 
 <sup>4</sup> Die ESTV führt Verwaltungsmassnahmen wie Buchprüfungen oder Augenscheine durch, soweit dies für die Beantwortung des Ersuchens erforderlich ist. Sie informiert die für die Veranlagung der betroffenen Person zuständige kantonale Steuerverwaltung über die Massnahmen und gibt ihr Gelegenheit, an deren Durchführung teilzunehmen.
 
-<sup>5</sup> …[^9-1]
+<sup>5</sup> ...[^9-1]
 
 [^9-1]: Aufgehoben durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, mit Wirkung seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
@@ -206,7 +218,7 @@ Auf das Ersuchen wird nicht eingetreten, wenn:
 
 <sup>3</sup> Die Informationsinhaberin oder der Informationsinhaber muss alle relevanten Informationen herausgeben, die sich in eigenem Besitz oder unter eigener Kontrolle befinden.
 
-<sup>4</sup> …[^10-1]
+<sup>4</sup> ...[^10-1]
 
 [^10-1]: Aufgehoben durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, mit Wirkung seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
 
@@ -435,7 +447,7 @@ Amtshilfe kann betreffend verstorbene Personen geleistet werden. Deren Rechtsnac
 
 <sup>3</sup> Die ESTV informiert die Informationsinhaberinnen, Informationsinhaber und Behörden, denen das Ersuchen zur Kenntnis gebracht wurde, über den Informationsaufschub. Diese Personen und Behörden dürfen die beschwerdeberechtigten Personen bis zu deren nachträglicher Information nicht über das Ersuchen informieren.
 
-<sup>4</sup> und <sup>5</sup> …[^21a-3]
+<sup>4</sup> und <sup>5</sup> ...[^21a-3]
 
 [^21a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2309](https://fedlex.data.admin.ch/eli/oc/2014/390); [BBl 2013 8369](https://fedlex.data.admin.ch/eli/fga/2013/1632)).
 [^21a-2]: Eingefügt durch den Anhang des BB vom 18. Dez. 2015 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats und der OECD über die gegenseitige Amtshilfe in Steuersachen, in Kraft seit 1. Jan. 2017 ([AS 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805); [BBl 2015 5585](https://fedlex.data.admin.ch/eli/fga/2015/1285)).
@@ -675,6 +687,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…*[^annexu1-lvlu1-1]*
+...*[^annexu1-lvlu1-1]*
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31)konsultiert werden.
