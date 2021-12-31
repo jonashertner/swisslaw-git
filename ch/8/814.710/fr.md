@@ -4,11 +4,11 @@ title: Ordonnance du 23 décembre 1999 sur la protection contre le rayonnement n
 short: ORNI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/38"
 language: fr
-version: 2019-06-01
+version: 2022-01-01
 adopted: 1999-12-23
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/fedlex-data-admin-ch-eli-cc-2000-38-20190601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20190601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-38-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20190601/fr"
 
 (ORNI)
 
-du 23 décembre 1999 (Etat le 1<sup>er</sup> juin 2019)
+du 23 décembre 1999 (Etat le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -318,7 +318,7 @@ Annexe 1*[^t-1]*
 
 ## Limitation préventive des émissions
 
-[^t-1]: Mise à jour selon le ch. IV 34 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)), le ch. II de l’O du 1<sup>er</sup> juil. 2009 ([RO 2009 3565](https://fedlex.data.admin.ch/eli/oc/2009/448)), l’annexe 2 ch. II 6 de l’O du 16 nov. 2011 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)), le ch. II des O du 23 mars 2016 ([RO 2016 1135](https://fedlex.data.admin.ch/eli/oc/2016/209)) et du 17 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1491](https://fedlex.data.admin.ch/eli/oc/2019/288)).
+[^t-1]: Mise à jour par le ch. IV 34 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)), le ch. II de l’O du 1<sup>er</sup> juil. 2009 ([RO 2009 3565](https://fedlex.data.admin.ch/eli/oc/2009/448)), l’annexe 2 ch. II 6 de l’O du 16 nov. 2011 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)), le ch. II des O du 23 mars 2016 ([RO 2016 1135](https://fedlex.data.admin.ch/eli/oc/2016/209)) et du 17 avr. 2019 ([RO 2019 1491](https://fedlex.data.admin.ch/eli/oc/2019/288)) et le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 901](https://fedlex.data.admin.ch/eli/oc/2021/901)).
 
 ### 1 Lignes aériennes et lignes en câbles de transport d’énergie électrique
 
@@ -546,11 +546,7 @@ Les dispositions du présent chiffre s’appliquent aux installations émettrice
 
 <sup>3</sup> Deux groupes d’antennes émettent dans des conditions de proximité spatiale lorsqu’au moins une antenne de chaque groupe se trouve dans le périmètre de l’autre groupe.
 
-<sup>4</sup> Le périmètre d’un groupe d’antennes est une surface horizontale formée par les cercles de rayon *r* autour de chaque antenne du groupe d’antennes. La valeur du rayon *r,* exprimée en mètres, se calcule selon la formule:
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image1.png)
-
-Explication des symboles:
+<sup>4</sup> Le périmètre d’un groupe d’antennes est une surface horizontale formée par les cercles de rayon *r* autour de chaque antenne du groupe d’antennes. La valeur du rayon *r*, exprimée en mètres, se calcule selon la formule: <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image1.png)</sub>; explication des symboles:
 
 - a.
 
@@ -560,7 +556,7 @@ Explication des symboles:
   - 2\. 1,76 pour les groupes d’antennes qui émettent exclusivement dans la gamme de fréquence autour de 1800 MHz ou dans des gammes de fréquence plus élevées,
   - 3\. 2,10 pour tous les autres groupes d’antennes;
 
-- b. ERP<sub>90</sub>: ERP cumulée, exprimée en W, émise par les antennes d’un groupe d’antennes dans un secteur azimutal de 90°. Le secteur azimutal déterminant est celui dans lequel est émise l’ERP cumulée la plus élevée.
+- b. ERP<sub>90</sub>: ERP cumulée, exprimée en W, émise par les antennes d’un groupe d’antennes dans un secteur azimutal de 90° dans le mode d’exploitation déterminant; le secteur azimutal déterminant est celui dans lequel est émise l’ERP cumulée la plus élevée.
 
 <sup>5</sup> Par modification d’une installation, on entend:
 
@@ -570,11 +566,27 @@ Explication des symboles:
 - d. l’augmentation de l’ERP au-delà de la valeur maximale autorisée, ou
 - e. la modification des directions d’émission au-delà du domaine angulaire autorisé.
 
-<sup>6</sup> Par antennes adaptatives, on entend les antennes émettrices dont la direction d’émission ou le diagramme d’antenne est adapté automatiquement selon une périodicité rapprochée.
+<sup>5bis</sup> L’application d’un facteur de correction aux antennes émettrices adaptatives existantes en vertu du ch. 63, al. 2, n’est pas considérée comme une modification d’une installation.
+
+<sup>6</sup> Par antennes émettrices adaptatives, on entend les antennes émettrices exploitées de sorte que leur direction d’émission ou leur diagramme d’antenne est adapté automatiquement selon une périodicité rapprochée.
 
 ### 63 Mode d’exploitation déterminant
 
-Par mode d’exploitation déterminant, on entend le mode d’exploitation dans lequel un maximum de conversations et de données est transféré, l’émetteur étant au maximum de sa puissance; s’agissant des antennes adaptatives, la variabilité des directions d’émission et des diagrammes d’antenne est prise en considération.
+<sup>1</sup> Par mode d’exploitation déterminant, on entend le mode d’exploitation dans lequel un maximum de conversations et de données est transféré, l’émetteur étant au maximum de sa puissance.
+
+<sup>2</sup> S’agissant des antennes émettrices adaptatives qui possèdent au moins huit sous-ensembles d’antennes commandés séparément (*sub arrays*), un facteur de correction K<sub>AA</sub> peut être appliqué à l’ERP maximale lorsque les antennes émettrices sont équipées d’une limitation de puissance automatique. Cette limitation vise à garantir que, durant l’exploitation, l’ERP moyenne sur une durée de six minutes ne dépasse pas l’ERP corrigée.
+
+<sup>3</sup> Les facteurs de correction K<sub>AA</sub> suivants s’appliquent:
+
+<table>
+<tr><td>**Nombre de** ***sub arrays***</td><td>**Facteur de correction K**<sub>AA</sub></td></tr>
+<tr><td>64 et plus</td><td>≥ 0,10</td></tr>
+<tr><td>32 à 63</td><td>≥ 0,13</td></tr>
+<tr><td>16 à 31</td><td>≥ 0,20</td></tr>
+<tr><td>8 à 15</td><td>≥ 0,40</td></tr>
+</table>
+
+<sup>4</sup> Si un facteur de correction K<sub>AA</sub> est appliqué aux antennes émettrices adaptatives existantes, le détenteur de l’installation remet à l’autorité compétente une fiche de données spécifique au site adaptée.
 
 ### 64 Valeur limite de l’installation
 
@@ -687,9 +699,9 @@ Annexe 2
 <tr><td>3–100 kHz</td><td>87</td><td>5</td><td colspan="3">6,25</td><td>– <sup>a</sup></td></tr>
 <tr><td>100–150 kHz</td><td>87</td><td>5</td><td colspan="3">6,25</td><td>6</td></tr>
 <tr><td>0,15–1 MHz</td><td>87</td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
-<tr><td>1–10 MHz</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image2.png)</td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
+<tr><td>1–10 MHz</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image2.png)</td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
 <tr><td>10–400 MHz</td><td>28</td><td>0,073</td><td colspan="3">0,092</td><td>6</td></tr>
-<tr><td>400–2000 MHz</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image3.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image4.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image5.png)</td><td>6</td></tr>
+<tr><td>400–2000 MHz</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image3.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image4.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image5.png)</td><td>6</td></tr>
 <tr><td>2–10 GHz</td><td>61</td><td>0,16</td><td colspan="3">0,20</td><td>6</td></tr>
 <tr><td>10–300 GHz</td><td>61</td><td>0,16</td><td colspan="3">0,20</td><td>68 / *f* <sup>1.05</sup></td></tr>
 <tr><td colspan="7">[tab] *f* est la fréquence exprimée dans l’unité qui figure dans la première colonne du tableau.</td></tr>
@@ -702,7 +714,7 @@ Annexe 2
 <tr><td>Fréquence</td><td colspan="3">Valeur limite d’immissions pour la valeur efficace</td><td></td><td></td><td>Durée d’appréciation</td></tr>
 <tr><td></td><td>de l’intensité de champ électrique *E**<sub>P,f</sub>* (V/m)</td><td>de l’intensité de champ magnétique *H**<sub>P,f</sub>* (A/m)</td><td colspan="3">de la densité de flux magnétique *B**<sub>P,f</sub>* (µT)</td><td></td></tr>
 <tr><td>10–400 MHz</td><td>900</td><td>2,3</td><td colspan="3">2,9</td><td>Durée d’impulsion</td></tr>
-<tr><td>400–2000 MHz</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image6.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image7.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image8.png)</td><td>Durée d’impulsion</td></tr>
+<tr><td>400–2000 MHz</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image6.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image7.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image8.png)</td><td>Durée d’impulsion</td></tr>
 <tr><td>2–300 GHz</td><td>1950</td><td>5,1</td><td colspan="3">6,4</td><td>Durée d’impulsion</td></tr>
 <tr><td colspan="7">[tab] *f* est la fréquence exprimée en MHz.</td></tr>
 </table>
@@ -737,17 +749,17 @@ La valeur limite d’immissions pour la valeur efficace du courant de contact es
 
 <table>
 <tr><th>Chiffre</th><th>Domaine de fréquence</th><th>Grandeur physique</th><th>Prescription de sommation</th><th>Durée d’appréciation</th></tr>
-<tr><td>221</td><td>1 Hz–10 MHz</td><td>intensité de champ électrique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image9.png)</td><td>– <sup>a</sup></td></tr>
-<tr><td></td><td></td><td>Intensité de champ magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image10.png)</td><td>– <sup>a</sup></td></tr>
-<tr><td></td><td></td><td>densité de flux magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image11.png)</td><td>– <sup>a</sup></td></tr>
-<tr><td>222</td><td>100 kHz–300 GHz</td><td>intensité de champ électrique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image12.png)</td><td>6 minutes</td></tr>
-<tr><td></td><td></td><td>intensité de champ magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image13.png)</td><td>6 minutes</td></tr>
-<tr><td></td><td></td><td>densité de flux magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image14.png)</td><td>6 minutes</td></tr>
-<tr><td>223</td><td>En plus lors d’immissions pulsées</td><td>intensité de champ électrique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image15.png)</td><td>Durée d’impulsion</td></tr>
-<tr><td></td><td>10 MHz–300 GHz</td><td>intensité de champ magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image16.png)</td><td>Durée d’impulsion</td></tr>
-<tr><td></td><td></td><td>densité de flux magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image17.png)</td><td>Durée d’impulsion</td></tr>
-<tr><td>224</td><td>10 MHz–110 MHz</td><td>courant de fuite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image18.png)</td><td>6 minutes</td></tr>
-<tr><td>225</td><td>1 Hz–110 MHz</td><td>courant de contact</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/fr/xml/image/image19.png)</td><td>– <sup>a</sup></td></tr>
+<tr><td>221</td><td>1 Hz–10 MHz</td><td>intensité de champ électrique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image9.png)</td><td>– <sup>a</sup></td></tr>
+<tr><td></td><td></td><td>Intensité de champ magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image10.png)</td><td>– <sup>a</sup></td></tr>
+<tr><td></td><td></td><td>densité de flux magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image11.png)</td><td>– <sup>a</sup></td></tr>
+<tr><td>222</td><td>100 kHz–300 GHz</td><td>intensité de champ électrique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image12.png)</td><td>6 minutes</td></tr>
+<tr><td></td><td></td><td>intensité de champ magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image13.png)</td><td>6 minutes</td></tr>
+<tr><td></td><td></td><td>densité de flux magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image14.png)</td><td>6 minutes</td></tr>
+<tr><td>223</td><td>En plus lors d’immissions pulsées</td><td>intensité de champ électrique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image15.png)</td><td>Durée d’impulsion</td></tr>
+<tr><td></td><td>10 MHz–300 GHz</td><td>intensité de champ magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image16.png)</td><td>Durée d’impulsion</td></tr>
+<tr><td></td><td></td><td>densité de flux magnétique</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image17.png)</td><td>Durée d’impulsion</td></tr>
+<tr><td>224</td><td>10 MHz–110 MHz</td><td>courant de fuite</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image18.png)</td><td>6 minutes</td></tr>
+<tr><td>225</td><td>1 Hz–110 MHz</td><td>courant de contact</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/fr/xml/image/image19.png)</td><td>– <sup>a</sup></td></tr>
 <tr><td colspan="5"><sup>a</sup> La valeur efficace la plus élevée est déterminante (art. 14, al. 5)</td></tr>
 </table>
 

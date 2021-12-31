@@ -4,11 +4,11 @@ title: Verordnung vom 23. Dezember 1999 über den Schutz vor nichtionisierender 
 short: NISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/38"
 language: de
-version: 2019-06-01
+version: 2022-01-01
 adopted: 1999-12-23
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/fedlex-data-admin-ch-eli-cc-2000-38-20190601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20190601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-38-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/38/20190601/de"
 
 (NISV)
 
-vom 23. Dezember 1999 (Stand am 1. Juni 2019)
+vom 23. Dezember 1999 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -311,7 +311,7 @@ Anhang 1*[^t-1]*
 
 ## Vorsorgliche Emissionsbegrenzungen
 
-[^t-1]: Bereinigt gemäss Ziff. IV 34 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)), Ziff. I der V vom 1. Juli 2009 ([AS 2009 3565](https://fedlex.data.admin.ch/eli/oc/2009/448)), Beilage 2 Ziff. II 6 der V vom 16. Nov. 2011 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)), Ziff. II der V vom 23. März 2016 ([AS 2016 1135](https://fedlex.data.admin.ch/eli/oc/2016/209)) und vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1491](https://fedlex.data.admin.ch/eli/oc/2019/288)).
+[^t-1]: Bereinigt gemäss Ziff. IV 34 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)), Ziff. I der V vom 1. Juli 2009 ([AS 2009 3565](https://fedlex.data.admin.ch/eli/oc/2009/448)), Beilage 2 Ziff. II 6 der V vom 16. Nov. 2011 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)), Ziff. II der V vom 23. März 2016 ([AS 2016 1135](https://fedlex.data.admin.ch/eli/oc/2016/209)), vom 17. April 2019 ([AS 2019 1491](https://fedlex.data.admin.ch/eli/oc/2019/288)) und Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 901](https://fedlex.data.admin.ch/eli/oc/2021/901)).
 
 ### 1 Frei- und Kabelleitungen zur Übertragung von elektrischer Energie
 
@@ -539,7 +539,7 @@ Der Anlagegrenzwert für den über 24 Stunden gemittelten Effektivwert der magne
 
 <sup>3</sup> Aus einem engen räumlichen Zusammenhang senden zwei Antennengruppen, wenn sich von jeder der beiden Antennengruppen mindestens eine Sendeantenne im Perimeter der anderen Antennengruppe befindet.
 
-<sup>4</sup> Der Perimeter einer Antennengruppe ist die horizontale Fläche aus Kreisen mit Radius *r* um jede Sendeantenne der Antennengruppe. Der Radius *r* in Metern beträgt: <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image1.png)</sub>; dabei bedeutet:
+<sup>4</sup> Der Perimeter einer Antennengruppe ist die horizontale Fläche aus Kreisen mit Radius *r* um jede Sendeantenne der Antennengruppe. Der Radius *r* in Metern beträgt: <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image1.png)</sub>; dabei bedeutet:
 
 - a.
 
@@ -549,7 +549,7 @@ Der Anlagegrenzwert für den über 24 Stunden gemittelten Effektivwert der magne
   - 2\. für Antennengruppen, die ausschliesslich im Frequenzbereich um 1800 MHz oder in höheren Frequenzbereichen senden: 1,76,
   - 3\. für alle anderen Antennengruppen: 2,10;
 
-- b. ERP<sub>90</sub> die kumulierte ERP in W, die durch die Sendeantennen einer Antennengruppe in einen Azimutsektor von 90° emittiert wird. Massgebend ist der Azimutsektor mit der höchsten kumulierten ERP.
+- b. ERP<sub>90</sub> die kumulierte ERP in W im massgebenden Betriebszustand, die durch die Sendeantennen einer Antennengruppe in einen Azimutsektor von 90° emittiert wird; massgebend ist der Azimutsektor mit der höchsten kumulierten ERP.
 
 <sup>5</sup> Als Änderung einer Anlage gilt:
 
@@ -559,11 +559,27 @@ Der Anlagegrenzwert für den über 24 Stunden gemittelten Effektivwert der magne
 - d. die Erhöhung der ERP über den bewilligten Höchstwert hinaus; oder
 - e. die Änderung von Senderichtungen über den bewilligten Winkelbereich hinaus.
 
-<sup>6</sup> Sendeantennen gelten als adaptiv, wenn ihre Senderichtung oder ihr Antennendiagramm automatisch in kurzen zeitlichen Abständen angepasst wird.
+<sup>5bis</sup> Die Anwendung eines Korrekturfaktors nach Ziffer 63 Absatz 2 bei bestehenden adaptiven Sendeantennen gilt nicht als Änderung einer Anlage.
+
+<sup>6</sup> Sendeantennen gelten als adaptiv, wenn sie so betrieben werden, dass ihre Senderichtung oder ihr Antennendiagramm automatisch in kurzen zeitlichen Abständen angepasst wird.
 
 ### 63 Massgebender Betriebszustand
 
-Als massgebender Betriebszustand gilt der maximale Gesprächs- und Datenverkehr bei maximaler Sendeleistung; bei adaptiven Antennen wird die Variabilität der Senderichtungen und der Antennendiagramme berücksichtigt.
+<sup>1</sup> Als massgebender Betriebszustand gilt der maximale Gesprächs- und Datenverkehr bei maximaler Sendeleistung.
+
+<sup>2</sup> Bei adaptiven Sendeantennen mit 8 oder mehr separat ansteuerbaren Antenneneinheiten (Sub-Arrays) kann auf die maximale ERP ein Korrekturfaktor K<sub>AA</sub> angewendet werden, wenn die Sendeantennen mit einer automatischen Leistungsbegrenzung ausgestattet werden. Diese muss sicherstellen, dass im Betrieb die über 6 Minuten gemittelte ERP die korrigierte ERP nicht überschreitet.
+
+<sup>3</sup> Es gelten folgende Korrekturfaktoren K<sub>AA</sub>:
+
+<table>
+<tr><td>**Anzahl Sub-Arrays**</td><td>**Korrekturfaktor K**<sub>AA</sub></td></tr>
+<tr><td>64 und mehr</td><td>≥ 0.10</td></tr>
+<tr><td>32 bis 63</td><td>≥ 0.13</td></tr>
+<tr><td>16 bis 31</td><td>≥ 0.20</td></tr>
+<tr><td>8 bis 15</td><td>≥ 0.40</td></tr>
+</table>
+
+<sup>4</sup> Wird bei bestehenden adaptiven Sendeantennen ein Korrekturfaktor K<sub>AA</sub> angewendet, so reicht der Inhaber der Anlage der zuständigen Behörde ein aktualisiertes Standortdatenblatt ein.
 
 ### 64 Anlagegrenzwert
 
@@ -676,9 +692,9 @@ Anhang 2
 <tr><td>3–100 kHz</td><td>87</td><td>5</td><td colspan="3">6,25</td><td>–<sup>a</sup></td></tr>
 <tr><td>100–150 kHz</td><td>87</td><td>5</td><td colspan="3">6,25</td><td>6</td></tr>
 <tr><td>0,15–1 MHz</td><td>87</td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
-<tr><td>1–10 MHz</td><td>87 /<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image2.png)</sub></td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
+<tr><td>1–10 MHz</td><td>87 /<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>0,73 / *f*</td><td colspan="3">0,92 / *f*</td><td>6</td></tr>
 <tr><td>10–400 MHz</td><td>28</td><td>0,073</td><td colspan="3">0,092</td><td>6</td></tr>
-<tr><td>400–2000 MHz</td><td>1,375 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image2.png)</sub></td><td>0,0037 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image2.png)</sub></td><td colspan="3">0,0046 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image2.png)</sub></td><td>6</td></tr>
+<tr><td>400–2000 MHz</td><td>1,375 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>0,0037 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td colspan="3">0,0046 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>6</td></tr>
 <tr><td>2–10 GHz</td><td>61</td><td>0,16</td><td colspan="3">0,20</td><td>6</td></tr>
 <tr><td>10–300 GHz</td><td>61</td><td>0,16</td><td colspan="3">0,20</td><td>68 / *f* <sup>1.05</sup></td></tr>
 <tr><td colspan="7">Dabei bedeutet *f* die Frequenz in der in der ersten Tabellenspalte angegebenen Einheit. <sup>a</sup> Massgebend ist der höchste Effektivwert (Art. 14 Abs. 5).</td></tr>
@@ -690,7 +706,7 @@ Anhang 2
 <tr><td>Frequenz</td><td colspan="3">Immissionsgrenzwert für den Effektivwert der</td><td></td><td></td><td>Mittelungsdauer</td></tr>
 <tr><td></td><td>elektrischen Feldstärke *E**<sub>P,f</sub>* (V/m)</td><td>magnetischen Feldstärke *H**<sub>P,f</sub>* (A/m)</td><td colspan="3">magnetischen Flussdichte *B**<sub>P,f</sub>* (µT)</td><td></td></tr>
 <tr><td>10–400 MHz</td><td>900</td><td>2,3</td><td colspan="3">2,9</td><td>Pulsdauer</td></tr>
-<tr><td>400–2000 MHz</td><td>44 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image2.png)</sub></td><td>0,12 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image2.png)</sub></td><td colspan="3">0,15 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image2.png)</sub></td><td>Pulsdauer</td></tr>
+<tr><td>400–2000 MHz</td><td>44 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>0,12 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td colspan="3">0,15 · <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image2.png)</sub></td><td>Pulsdauer</td></tr>
 <tr><td>2–300 GHz</td><td>1950</td><td>5,1</td><td colspan="3">6,4</td><td>Pulsdauer</td></tr>
 <tr><td colspan="7">[tab] Dabei bedeutet *f* die Frequenz in MHz.</td></tr>
 </table>
@@ -725,17 +741,17 @@ Der Immissionsgrenzwert für den Effektivwert des Berührungsstroms beträgt:
 
 <table>
 <tr><th>Ziffer</th><th>Frequenzbereich</th><th>Physikalische Grösse</th><th>Summierungsvorschrift</th><th>Mittelungsdauer</th></tr>
-<tr><td>221</td><td>1 Hz–10 MHz</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image3.png)</sub></td><td>–<sup>a</sup></td></tr>
-<tr><td></td><td></td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image4.png)</sub></td><td>–<sup>a</sup></td></tr>
-<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image5.png)</sub></td><td>–<sup>a</sup></td></tr>
-<tr><td>222</td><td>100 kHz–300 GHz</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image6.png)</sub></td><td>6 Minuten</td></tr>
-<tr><td></td><td></td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image7.png)</sub></td><td>6 Minuten</td></tr>
-<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image8.png)</sub></td><td>6 Minuten</td></tr>
-<tr><td>223</td><td>Zusätzlich bei gepulsten Immissionen</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image9.png)</sub></td><td>Pulsdauer</td></tr>
-<tr><td></td><td>10 MHz–300 GHz</td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image10.png)</sub></td><td>Pulsdauer</td></tr>
-<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image11.png)</sub></td><td>Pulsdauer</td></tr>
-<tr><td>224</td><td>10 MHz–110 MHz</td><td>Körperableitstrom</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image12.png)</sub></td><td>6 Minuten</td></tr>
-<tr><td>225</td><td>1 Hz–110 MHz</td><td>Berührungsstrom</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20190601/de/xml/image/image13.png)</sub></td><td>–<sup>a</sup></td></tr>
+<tr><td>221</td><td>1 Hz–10 MHz</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image3.png)</sub></td><td>–<sup>a</sup></td></tr>
+<tr><td></td><td></td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image4.png)</sub></td><td>–<sup>a</sup></td></tr>
+<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image5.png)</sub></td><td>–<sup>a</sup></td></tr>
+<tr><td>222</td><td>100 kHz–300 GHz</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image6.png)</sub></td><td>6 Minuten</td></tr>
+<tr><td></td><td></td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image7.png)</sub></td><td>6 Minuten</td></tr>
+<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image8.png)</sub></td><td>6 Minuten</td></tr>
+<tr><td>223</td><td>Zusätzlich bei gepulsten Immissionen</td><td>elektrische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image9.png)</sub></td><td>Pulsdauer</td></tr>
+<tr><td></td><td>10 MHz–300 GHz</td><td>magnetische Feldstärke</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image10.png)</sub></td><td>Pulsdauer</td></tr>
+<tr><td></td><td></td><td>magnetische Flussdichte</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image11.png)</sub></td><td>Pulsdauer</td></tr>
+<tr><td>224</td><td>10 MHz–110 MHz</td><td>Körperableitstrom</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image12.png)</sub></td><td>6 Minuten</td></tr>
+<tr><td>225</td><td>1 Hz–110 MHz</td><td>Berührungsstrom</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/38/20220101/de/xml/image/image13.png)</sub></td><td>–<sup>a</sup></td></tr>
 <tr><td colspan="5"><sup>a</sup> Massgebend sind die höchsten Effektivwerte (Art. 14 Abs. 5).</td></tr>
 </table>
 
