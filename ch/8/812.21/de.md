@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukt
 short: HMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: de
-version: 2021-05-26
+version: 2022-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20210526/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20210526-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-422-20220101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/de"
 
 (Heilmittelgesetz, HMG)
 
-vom 15. Dezember 2000 (Stand am 26. Mai 2021)
+vom 15. Dezember 2000 (Stand am 1. Januar 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1556,12 +1556,13 @@ Der Bundesrat erlässt Ausführungsbestimmungen über:
 
 **Zusammenarbeit mit dem privaten Sektor**[^62b-1]
 
-<sup>1</sup> Das Institut und die Eidgenössische Zollverwaltung (EZV) sind nach einer Interessenabwägung berechtigt, der Inhaberin oder dem Inhaber einer Betriebsbewilligung oder einer Zulassung für Arzneimittel sowie jeder Person, die ein Medizinprodukt in Verkehr bringt, nach diesem Gesetz gesammelte, vertrauliche Daten im Einzelfall bekannt zu geben, einschliesslich besonders schützenswerter Daten nach Artikel 3 Buchstabe c Ziffer 4 des Bundesgesetzes vom 19. Juni 1992[^62b-2] über den Datenschutz, sofern diese Massnahme für notwendig erachtet wird, um einen mutmasslichen illegalen Heilmittelhandel aufzudecken und zu bekämpfen.
+<sup>1</sup> Das Institut und das Bundesamt für Zoll und Grenzsicherheit (BAZG) sind nach einer Interessenabwägung berechtigt, der Inhaberin oder dem Inhaber einer Betriebsbewilligung oder einer Zulassung für Arzneimittel sowie jeder Person, die ein Medizinprodukt in Verkehr bringt, nach diesem Gesetz gesammelte, vertrauliche Daten im Einzelfall bekannt zu geben, einschliesslich besonders schützenswerter Daten nach Artikel 3 Buchstabe c Ziffer 4 des Bundesgesetzes vom 19. Juni 1992[^62b-2] über den Datenschutz, sofern diese Massnahme für notwendig erachtet wird, um einen mutmasslichen illegalen Heilmittelhandel aufzudecken und zu bekämpfen.[^62b-3]
 
 <sup>2</sup> Persönliche Patientendaten dürfen nicht bekannt gegeben werden.
 
 [^62b-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62b-3]: Fassung gemäss Ziff. I 30 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 62c
 
@@ -2474,7 +2475,7 @@ Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen,
 
 **Strafverfolgung**[^90-1]
 
-<sup>1</sup> Die Strafverfolgung im Vollzugsbereich des Bundes wird vom Institut und vom BAG nach den Bestimmungen des VStrR[^90-2] geführt. Liegt bei der Ein-, Durch- und Ausfuhr von Heilmitteln gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^90-3] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^90-4] vor, so verfolgt und beurteilt die EZV die Widerhandlungen.
+<sup>1</sup> Die Strafverfolgung im Vollzugsbereich des Bundes wird vom Institut und vom BAG nach den Bestimmungen des VStrR[^90-2] geführt. Liegt bei der Ein-, Durch- und Ausfuhr von Heilmitteln gleichzeitig eine Widerhandlung gegen das Zollgesetz vom 18. März 2005[^90-3] oder das Mehrwertsteuergesetz vom 12. Juni 2009[^90-4] vor, so verfolgt und beurteilt das BAZG [^90-5] die Widerhandlungen.
 
 <sup>2</sup> Ist nach diesem oder nach einem anderen Bundesgesetz die Zuständigkeit mehrerer Behörden des Bundes zur Strafverfolgung gegeben, so können diese Behörden die Vereinigung der Strafverfolgung zuhanden einer Behörde vereinbaren, sofern es sich um denselben Sachverhalt handelt oder ein enger Sachzusammenhang besteht.
 
@@ -2486,20 +2487,21 @@ Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen,
 [^90-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^90-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^90-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^90-5]: Ausdruck gemäss Ziff. I 30 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 90a
 
 **Geheime Überwachungsmassnahmen**[^90a-1]
 
-<sup>1</sup> Das Institut oder die EZV kann geheime Überwachungsmassnahmen nach den Artikeln 282 und 283 oder 298*a*–298*d* StPO[^90a-2] anordnen.
+<sup>1</sup> Das Institut oder das BAZG kann geheime Überwachungsmassnahmen nach den Artikeln 282 und 283 oder 298*a*–298*d* StPO[^90a-2] anordnen.
 
 <sup>2</sup> Dauert eine Massnahme nach Absatz 1 länger als 30 Tage, so ist die Genehmigung der Direktorin oder des Direktors der anordnenden Behörde erforderlich.
 
 <sup>3</sup> Spätestens nach Abschluss der Untersuchung teilt die anordnende Behörde der betroffenen Person den Grund, die Art und die Dauer der geheimen Überwachung mit.
 
-<sup>4</sup> Erweisen sich in einem Vefahren geheime Überwachungsmassnahmen nach den Artikeln 269–281 oder 284–298 StPO als notwendig, so informiert das Institut oder die EZV unverzüglich die Bundesanwaltschaft.
+<sup>4</sup> Erweisen sich in einem Vefahren geheime Überwachungsmassnahmen nach den Artikeln 269–281 oder 284–298 StPO als notwendig, so informiert das Institut oder das BAZG unverzüglich die Bundesanwaltschaft.
 
-<sup>5</sup> In den Fällen nach Absatz 4 gelangt das Institut oder die EZV mit Zustimmung der Bundesanwaltschaft an das Zwangsmassnahmengericht. Genehmigt dieses die Massnahmen, so übernimmt die Bundesanwaltschaft das Verfahren in Anwendung der StPO.
+<sup>5</sup> In den Fällen nach Absatz 4 gelangt das Institut oder das BAZG mit Zustimmung der Bundesanwaltschaft an das Zwangsmassnahmengericht. Genehmigt dieses die Massnahmen, so übernimmt die Bundesanwaltschaft das Verfahren in Anwendung der StPO.
 
 [^90a-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -2508,7 +2510,7 @@ Für Fälschungen, Falschbeurkundungen, das Erschleichen falscher Beurkundungen,
 
 **Im Ausland begangene Straftaten und komplexe Verfahren**[^90b-1]
 
-Bezieht sich ein vom Institut oder von der EZV geführtes Verfahren mehrheitlich auf Straftaten im Ausland oder erweist sich das Verfahren als so komplex oder aufwendig, dass es mit den Mitteln, die dem Institut oder der EZV zur Verfügung stehen, nicht oder nicht innert angemessener Frist abgeschlossen werden kann, so kann das Institut oder die EZV die Bundesanwaltschaft um Übernahme des Verfahrens ersuchen. Diese führt das Verfahren in Anwendung der StPO[^90b-2] durch.
+Bezieht sich ein vom Institut oder vom BAZG geführtes Verfahren mehrheitlich auf Straftaten im Ausland oder erweist sich das Verfahren als so komplex oder aufwendig, dass es mit den Mitteln, die dem Institut oder dem BAZG zur Verfügung stehen, nicht oder nicht innert angemessener Frist abgeschlossen werden kann, so kann das Institut oder das BAZG die Bundesanwaltschaft um Übernahme des Verfahrens ersuchen. Diese führt das Verfahren in Anwendung der StPO[^90b-2] durch.
 
 [^90b-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 29. Sept. 2017 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90b-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)

@@ -4,11 +4,11 @@ title: "Legge federale del 15 dicembre 2000 sui medicamenti e i dispositivi medi
 short: LATer
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: it
-version: 2021-05-26
+version: 2022-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20210526-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-422-20220101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/it"
 
 (Legge sugli agenti terapeutici, LATer)
 
-del 15 dicembre 2000 (Stato 26 maggio 2021)
+del 15 dicembre 2000 (Stato 1° gennaio 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -252,7 +252,7 @@ Non sono soggetti all’obbligo d’omologazione:
 
 <sup>3</sup> Il Consiglio federale può prescrivere un’omologazione per il procedimento di produzione o di fabbricazione di medicamenti non standardizzabili.
 
-<sup>4</sup> …[^9-9]
+<sup>4</sup> ...[^9-9]
 
 [^9-1]: Nuovo testo giusta il n. I della LF del 13 giu. 2008, in vigore dal 1° ott. 2010 ([RU 2008 4873](https://fedlex.data.admin.ch/eli/oc/2008/682), [2010 4027](https://fedlex.data.admin.ch/eli/oc/2010/582); [FF 2007 2181](https://fedlex.data.admin.ch/eli/fga/2007/384)).
 [^9-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -426,7 +426,7 @@ L’Istituto prevede procedure semplificate d’omologazione per determinate cat
 - a<sup>ter</sup>.[^14-3] i medicamenti con menzione dell’indicazione non soggetti a prescrizione e di cui, nel momento in cui è presentata la domanda, è provato l’uso medico da almeno 30 anni, di cui almeno 15 in Paesi dell’UE o dell’AELS;
 - [tab] a<sup>quater</sup>.[^14-4] i medicamenti per i quali è fornita la prova che, nel momento in cui è presentata la domanda, sono omologati in un Cantone da almeno 15 anni;
 - b. i medicamenti della medicina complementare;
-- c.[^14-5] …;
+- c.[^14-5] ...
 - c<sup>bis</sup>.[^14-6] i medicamenti fitoterapeutici;
 - d.[^14-7] medicamenti fabbricati in una farmacia ospedaliera o in un’azienda di radiofarmacia interna all’ospedale per i bisogni dello stesso;
 - e. i medicamenti fabbricati dall’esercito e utilizzati ai fini del servizio sanitario coordinato;
@@ -440,7 +440,7 @@ L’Istituto prevede una procedura semplificata d’omologazione per le richiest
 - a. detto medicamento corrisponde alle medesime esigenze poste ai medicamenti già omologati in Svizzera, in particolare a quelle in materia di caratterizzazione del prodotto e di informazione sul medicamento di cui all’articolo 11;
 - b. tale altro richiedente dell’immissione in commercio è in grado di garantire in modo durevole che i medicamenti omologati da lui distribuiti adempiono le medesime esigenze di sicurezza e di qualità poste al primo richiedente.
 
-<sup>3</sup> …[^14-8]
+<sup>3</sup> ...[^14-8]
 
 [^14-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^14-2]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -524,7 +524,7 @@ La prima volta l’omologazione è rilasciata per cinque anni. L’Istituto disp
 
 <sup>3</sup> L’omologazione su notifica è valida a tempo indeterminato.[^16-3]
 
-<sup>4</sup> *…*[^16-4]
+<sup>4</sup> *...*[^16-4]
 
 [^16-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^16-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
@@ -767,7 +767,7 @@ Possono dispensare medicamenti non soggetti a prescrizione medica:
 
 <sup>3</sup> L’Istituto definisce i medicamenti che possono essere dispensati dalle persone di cui al capoverso 1 lettera c.[^25-2]
 
-<sup>4</sup> …[^25-3]
+<sup>4</sup> ...[^25-3]
 
 <sup>5</sup> Fatti salvi i capoversi 2 e 3, i Cantoni possono autorizzare le persone con una formazione riconosciuta a livello cantonale a dispensare determinati gruppi di medicamenti, quali i medicamenti della medicina complementare. L’Istituto viene informato al riguardo.
 
@@ -1563,12 +1563,13 @@ Il Consiglio federale emana disposizioni d’esecuzione concernenti:
 
 **Cooperazione con il settore privato**[^62b-1]
 
-<sup>1</sup> L’Istituto e l’Amministrazione federale delle dogane (AFD) sono autorizzati, previa ponderazione degli interessi, a comunicare nel singolo caso al titolare di un’autorizzazione d’esercizio o di un’omologazione di un medicamento, nonché a chiunque immette in commercio dispositivi medici, i dati confidenziali raccolti secondo la presente legge, inclusi i dati personali degni di particolare protezione di cui all’articolo 3 lettera c numero 4 della legge federale del 19 giugno 1992[^62b-2] sulla protezione dei dati, se ritengono una simile misura necessaria per scoprire e combattere un presunto commercio illegale di agenti terapeutici.
+<sup>1</sup> L’Istituto e l’Ufficio federale della dogana e della sicurezza dei confini (UDSC) sono autorizzati, previa ponderazione degli interessi, a comunicare nel singolo caso al titolare di un’autorizzazione d’esercizio o di un’omologazione di un medicamento, nonché a chiunque immette in commercio dispositivi medici, i dati confidenziali raccolti secondo la presente legge, inclusi i dati personali degni di particolare protezione di cui all’articolo 3 lettera c numero 4 della legge federale del 19 giugno 1992[^62b-2] sulla protezione dei dati, se ritengono una simile misura necessaria per scoprire e combattere un presunto commercio illegale di agenti terapeutici.[^62b-3]
 
 <sup>2</sup> I dati personali dei pazienti non possono essere comunicati.
 
 [^62b-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62b-3]: Nuovo testo giusta il n. I 30 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 62c
 
@@ -2352,7 +2353,7 @@ I Cantoni adempiono i compiti di esecuzione:
 
 #### Art. 84
 
-**…[^84-1]**
+**...[^84-1]**
 
 <sup>1</sup> Per quanto la presente legge non preveda disposizioni derogatorie, la procedura amministrativa e la protezione giuridica sono rette dalla legge federale del 20 dicembre 1968[^84-2] sulla procedura amministrativa, dalla legge del 17 giugno 2005[^84-3] sul Tribunale amministrativo federale e dalla legge del 17 giugno 2005[^84-4] sul Tribunale federale.[^84-5]
 
@@ -2481,7 +2482,7 @@ Per falsificazioni, false attestazioni, conseguimento fraudolento di false attes
 
 **Perseguimento penale**[^90-1]
 
-<sup>1</sup> Il perseguimento penale nell’ambito di competenza della Confederazione è condotto dall’Istituto e dall’UFSP secondo le disposizioni della DPA[^90-2]. Se in caso di importazione, transito ed esportazione di agenti terapeutici vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^90-3] sulle dogane o alla legge del 12 giugno 2009[^90-4] sull’IVA, le infrazioni sono perseguite e giudicate dall’AFD.
+<sup>1</sup> Il perseguimento penale nell’ambito di competenza della Confederazione è condotto dall’Istituto e dall’UFSP secondo le disposizioni della DPA[^90-2]. Se in caso di importazione, transito ed esportazione di agenti terapeutici vi è simultaneamente un’infrazione alla legge del 18 marzo 2005[^90-3] sulle dogane o alla legge del 12 giugno 2009[^90-4] sull’IVA, le infrazioni sono perseguite e giudicate dall’UDSC[^90-5].
 
 <sup>2</sup> Se in virtù della presente legge o di altre leggi federali il perseguimento penale spetta a più autorità federali, queste possono accordarsi sulla riunione del persegui-mento penale nelle mani di un’unica autorità, qualora si tratti di un’unica fattispecie o sussista uno stretto legame oggettivo.
 
@@ -2493,20 +2494,21 @@ Per falsificazioni, false attestazioni, conseguimento fraudolento di false attes
 [^90-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^90-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^90-4]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^90-5]: Nuova espr. giusta il n. I 30 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 90a
 
 **Misure di sorveglianza segrete**[^90a-1]
 
-<sup>1</sup> L’Istituto o l’AFD può ordinare misure di sorveglianza segrete secondo gli articoli 282 e 283 o 298*a*–298*d* CPP[^90a-2].
+<sup>1</sup> L’Istituto o l’UDSC può ordinare misure di sorveglianza segrete secondo gli articoli 282 e 283 o 298*a*–298*d* CPP[^90a-2].
 
 <sup>2</sup> Una misura ordinata secondo il capoverso 1 non può protrarsi per più di 30 giorni, salva l’approvazione del direttore dell’autorità che l’ha ordinata.
 
 <sup>3</sup> Al più tardi alla chiusura dell’istruzione, l’autorità che ha ordinato la misura comunica ai diretti interessati il motivo, il genere e la durata della sorveglianza segreta.
 
-<sup>4</sup> Se in un procedimento si rendono necessarie misure di sorveglianza segrete secondo gli articoli 269–281 o 284–298 CPP, l’Istituto o l’AFD ne informa senza indugio il Ministero pubblico della Confederazione.
+<sup>4</sup> Se in un procedimento si rendono necessarie misure di sorveglianza segrete secondo gli articoli 269–281 o 284–298 CPP, l’Istituto o l’UDSC ne informa senza indugio il Ministero pubblico della Confederazione.
 
-<sup>5</sup> Nei casi di cui al capoverso 4, l’Istituto o l’AFD si rivolge, con l’accordo del Ministero pubblico della Confederazione, al giudice dei provvedimenti coercitivi. Se questi approva le misure, il Ministero pubblico della Confederazione assume il procedimento in applicazione del CPP.
+<sup>5</sup> Nei casi di cui al capoverso 4, l’Istituto o l’UDSC si rivolge, con l’accordo del Ministero pubblico della Confederazione, al giudice dei provvedimenti coercitivi. Se questi approva le misure, il Ministero pubblico della Confederazione assume il procedimento in applicazione del CPP.
 
 [^90a-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -2515,7 +2517,7 @@ Per falsificazioni, false attestazioni, conseguimento fraudolento di false attes
 
 **Reati commessi all’estero e procedimenti complessi**[^90b-1]
 
-Se un procedimento svolto dall’Istituto o dall’AFD concerne principalmente reati commessi all’estero oppure risulta tanto complesso o oneroso che l’Istituto o l’AFD non è in grado, con i mezzi di cui dispone, di concluderlo o di concluderlo entro un termine adeguato, l’Istituto o l’AFD può sollecitare dal Ministero pubblico della Confederazione l’assunzione del procedimento. Il Ministero pubblico della Confederazione svolge il procedimento in applicazione del CPP[^90b-2].
+Se un procedimento svolto dall’Istituto o dall’UDSC concerne principalmente reati commessi all’estero oppure risulta tanto complesso o oneroso che l’Istituto o l’UDSC non è in grado, con i mezzi di cui dispone, di concluderlo o di concluderlo entro un termine adeguato, l’Istituto o l’UDSC può sollecitare dal Ministero pubblico della Confederazione l’assunzione del procedimento. Il Ministero pubblico della Confederazione svolge il procedimento in applicazione del CPP[^90b-2].
 
 [^90b-1]: Introdotto dall’all. n. 2 del DF del 29 set. 2017 (Convenzione Medicrime), in vigore dal 1° gen. 2019 ([RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2749](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90b-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -2634,7 +2636,7 @@ II
 
 I seguenti testi di legge sono modificati come segue:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 1990 570](https://fedlex.data.admin.ch/eli/oc/1990/570_570_570)]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422).

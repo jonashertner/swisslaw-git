@@ -4,11 +4,11 @@ title: "Loi fédérale du 15 décembre 2000 sur les médicaments et les disposit
 short: LPTh
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: fr
-version: 2021-05-26
+version: 2022-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20210526-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-422-20220101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/fr"
 
 (Loi sur les produits thérapeutiques, LPTh)[^t-1]
 
-du 15 décembre 2000 (Etat le 26 mai 2021)
+du 15 décembre 2000 (Etat le 1<sup>er</sup> janvier 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -1563,12 +1563,13 @@ Le Conseil fédéral édicte les dispositions d’exécution régissant:
 
 **Collaboration avec le secteur privé**[^62b-1]
 
-<sup>1</sup> Suite à une pesée des intérêts, l’institut et l’Administration fédérale des douanes (AFD) sont habilités à communiquer dans le cas d’espèce au titulaire d’une autorisation d’exploitation ou de mise sur le marché d’un médicament ou à quiconque met sur le marché un dispositif médical, des données confidentielles collectées en vertu de la présente loi, y compris des données sensibles au sens de l’art. 3, let. c, ch. 4, de la loi fédérale du 19 juin 1992 sur la protection des données[^62b-2], si cette mesure paraît nécessaire pour mettre au jour et combattre un trafic illégal suspecté de produits thérapeutiques.
+<sup>1</sup> Suite à une pesée des intérêts, l’institut et l’Office fédéral de la douane et de la sécurité des frontières (OFDF) sont habilités à communiquer dans le cas d’espèce au titulaire d’une autorisation d’exploitation ou de mise sur le marché d’un médicament ou à quiconque met sur le marché un dispositif médical, des données confidentielles collectées en vertu de la présente loi, y compris des données sensibles au sens de l’art. 3, let. c, ch. 4, de la loi fédérale du 19 juin 1992 sur la protection des données[^62b-2], si cette mesure paraît nécessaire pour mettre au jour et combattre un trafic illégal suspecté de produits thérapeutiques.[^62b-3]
 
 <sup>2</sup> Les données personnelles de patients ne peuvent pas être communiquées.
 
 [^62b-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
-[^62b-2]: RS **235****.****1**
+[^62b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62b-3]: Nouvelle teneur selon le ch. I 30 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 62c
 
@@ -2481,7 +2482,7 @@ Les dispositions pénales de la loi fédérale du 6 octobre 1995 sur les entrave
 
 **Poursuite pénale**[^90-1]
 
-<sup>1</sup> La poursuite pénale dans le domaine d’exécution de la Confédération est assurée par l’institut et par l’OFSP, conformément aux dispositions de la DPA[^90-2]. Toute infraction aux dispositions sur l’importation, l’exportation ou le transit de produits thérapeutiques qui constitue simultanément une infraction à la loi du 18 mars 2005 sur les douanes[^90-3] ou à la loi du 12 juin 2009 sur la TVA[^90-4] est poursuivie et jugée par l’AFD.
+<sup>1</sup> La poursuite pénale dans le domaine d’exécution de la Confédération est assurée par l’institut et par l’OFSP, conformément aux dispositions de la DPA[^90-2]. Toute infraction aux dispositions sur l’importation, l’exportation ou le transit de produits thérapeutiques qui constitue simultanément une infraction à la loi du 18 mars 2005 sur les douanes[^90-3] ou à la loi du 12 juin 2009 sur la TVA[^90-4] est poursuivie et jugée par l’OFDF[^90-5].
 
 <sup>2</sup> Si, en vertu de la présente loi ou d’une autre loi fédérale, la poursuite pénale relève de la compétence de plusieurs autorités fédérales, celles-ci peuvent convenir de la jonction des procédures devant une autorité pour autant qu’il s’agisse des mêmes faits ou qu’il existe un rapport étroit entre ceux-ci.
 
@@ -2493,20 +2494,21 @@ Les dispositions pénales de la loi fédérale du 6 octobre 1995 sur les entrave
 [^90-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^90-3]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^90-4]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^90-5]: Nouvelle expression selon le ch. I 30 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 90a
 
 **Mesures de surveillance secrètes**[^90a-1]
 
-<sup>1</sup> L’institut ou l’AFD peut ordonner des mesures de surveillance secrètes au sens des art. 282 et 283 ou 298*a* à 298*d* CPP[^90a-2].
+<sup>1</sup> L’institut ou l’OFDF peut ordonner des mesures de surveillance secrètes au sens des art. 282 et 283 ou 298*a* à 298*d* CPP[^90a-2].
 
 <sup>2</sup> La poursuite, au-delà de 30 jours, d’une mesure fondée sur l’al. 1 est soumise à autorisation du directeur de l’autorité qui l’a ordonnée.
 
 <sup>3</sup> Au plus tard lors de la clôture de l’instruction, l’autorité qui a ordonné la mesure communique à la personne concernée les motifs, le mode et la durée de la surveillance secrète.
 
-<sup>4</sup> Lorsque des mesures de surveillance secrètes au sens des art. 269 à 281 ou 284 à 298 CPP sont nécessaires dans une procédure, l’institut ou l’AFD en informe immédiatement le Ministère public de la Confédération.
+<sup>4</sup> Lorsque des mesures de surveillance secrètes au sens des art. 269 à 281 ou 284 à 298 CPP sont nécessaires dans une procédure, l’institut ou l’OFDF en informe immédiatement le Ministère public de la Confédération.
 
-<sup>5</sup> Dans les cas visés à l’al. 4, l’institut ou l’AFD, avec l’accord du Ministère public de la Confédération, saisit le tribunal des mesures de contraintes. Si ce dernier autorise les mesures, le Ministère public de la Confédération reprend la procédure en application du CPP.
+<sup>5</sup> Dans les cas visés à l’al. 4, l’institut ou l’OFDF, avec l’accord du Ministère public de la Confédération, saisit le tribunal des mesures de contraintes. Si ce dernier autorise les mesures, le Ministère public de la Confédération reprend la procédure en application du CPP.
 
 [^90a-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -2515,7 +2517,7 @@ Les dispositions pénales de la loi fédérale du 6 octobre 1995 sur les entrave
 
 **Infractions commises à l’étranger et procédures complexes**[^90b-1]
 
-Si la procédure conduite par l’institut ou l’AFD concerne principalement des infractions commises à l’étranger ou qu’elle s’avère si complexe ou si exigeante en ressources que ces autorités ne peuvent la mener à terme en temps utile avec les moyens à leur disposition, lesdites autorités peuvent demander au Ministère public de la Confédération de poursuivre cette procédure. Ce dernier la mène en application du CPP[^90b-2].
+Si la procédure conduite par l’institut ou l’OFDF concerne principalement des infractions commises à l’étranger ou qu’elle s’avère si complexe ou si exigeante en ressources que ces autorités ne peuvent la mener à terme en temps utile avec les moyens à leur disposition, lesdites autorités peuvent demander au Ministère public de la Confédération de poursuivre cette procédure. Ce dernier la mène en application du CPP[^90b-2].
 
 [^90b-1]: Introduit par l’annexe ch. 2 de l’AF du 29 sept. 2017 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [FF 2017 2945](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90b-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)

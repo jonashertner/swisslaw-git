@@ -4,11 +4,11 @@ title: "Federal Act of 15 December 2000 on Medicinal Products and Medical Device
 short: TPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/422"
 language: en
-version: 2021-05-26
+version: 2022-01-01
 adopted: 2000-12-15
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20210526/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20210526-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20210526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2001-422-20220101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/422/20220101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Therapeutic Products Act, TPA)
 
-of 15 December 2000 (Status as of 26 May 2021)
+of 15 December 2000 (Status as of 1 January 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1556,12 +1556,13 @@ The Federal Council shall issue implementing provisions on:
 
 **Cooperation with the private sector**[^62b-1]
 
-<sup>1</sup> The Agency and the Federal Customs Administration (FCA), after weighing up the interests, are entitled on a case-by-case basis to disclose confidential data collected in accordance with this Act to the holder of an operating licence or of a marketing authorisation for medicinal products or to any person who places a medical device on the market, including sensitive personal data in accordance with Article 3 letter c number 4 of the Federal Act of 19 June 1992[^62b-2] on Data Protection, provided this measure is regarded as necessary in order to uncover or combat suspected illegal trading in therapeutic products.
+<sup>1</sup> The Agency and the Federal Office for Customs and Border Security (FOCBS), after weighing up the interests, are entitled on a case-by-case basis to disclose confidential data collected in accordance with this Act to the holder of an operating licence or of a marketing authorisation for medicinal products or to any person who places a medical device on the market, including sensitive personal data in accordance with Article 3 letter c number 4 of the Federal Act of 19 June 1992[^62b-2] on Data Protection, provided this measure is regarded as necessary in order to uncover or combat suspected illegal trading in therapeutic products.[^62b-3]
 
 <sup>2</sup> Personal data relating to patients may not be disclosed.
 
 [^62b-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^62b-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^62b-3]: Amended by No I 30 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 
 #### Art. 62c
 
@@ -2472,30 +2473,33 @@ The criminal provisions of the Federal Act of 6 October 1995[^88-1] on Technical
 
 **Prosecution**[^90-1]
 
-<sup>1</sup> Prosecutions conducted at federal level shall be conducted by the Agency and by the FOPH in accordance with the ACLA[^90-2]. If the import, transit and export of therapeutic products also involves a violation of the Customs Act of 18 March 2005[^90-3] or the Value Added Tax Act of 12 June 2009[^90-4], the Federal Customs Administration shall prosecute and judge the offences.
+<sup>1</sup> Prosecutions conducted at federal level shall be conducted by the Agency and by the FOPH in accordance with the ACLA[^90-2]. If the import, transit and export of therapeutic products also involves a violation of the Customs Act of 18 March 2005[^90-3] or the Value Added Tax Act of 12 June 2009[^90-4], the FOCBS[^90-5] shall prosecute and judge the offences.
 
 <sup>2</sup> If two or more federal authorities are competent to prosecute under this or another federal act, they may agree to bring the prosecution under one authority, provided the facts of the case are the same or are closely related.
 
 <sup>3</sup> Criminal proceedings in the sphere of enforcement of the cantons fall within their jurisdiction. The Agency may exercise the rights of a private claimant in the proceedings. The cantonal prosecutor shall inform the Agency of the initiation of preliminary proceedings.
 
+<sup>4</sup> If both the Confederation and the cantons have jurisdiction over a criminal matter that falls within the scope of application of this Act, the competent authorities may agree to unify the proceedings under federal jurisdiction.
+
 [^90-1]: Amended by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^90-3]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^90-4]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^90-5]: Name in accordance with No I 30 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)). This change has been made throughout the text.
 
 #### Art. 90a
 
 **Covert surveillance measures**[^90a-1]
 
-<sup>1</sup> The Agency or the FCA may order covert surveillance measures pursuant to Articles 282 and 283 or 298*a*–298*d* CrimPC[^90a-2].
+<sup>1</sup> The Agency or the FOCBS may order covert surveillance measures pursuant to Articles 282 and 283 or 298*a*–298*d* CrimPC[^90a-2].
 
 <sup>2</sup> Where a measure under paragraph 1 lasts for more than 30 days, approval is required from the director of the ordering authority.
 
 <sup>3</sup> At the latest following conclusion of the investigation, the ordering authority shall notify the person concerned of the reason, form and duration of the covert surveillance.
 
-<sup>4</sup> Where covert surveillance measures pursuant to Articles 269–281 or 284–298 CrimPC are considered necessary, the Agency or the FCA shall notify the Office of the Attorney General of Switzerland (OAG) immediately.
+<sup>4</sup> Where covert surveillance measures pursuant to Articles 269–281 or 284–298 CrimPC are considered necessary, the Agency or the FOCBS shall notify the Office of the Attorney General of Switzerland (OAG) immediately.
 
-<sup>5</sup> In cases under paragraph 4, the Agency or the FCA with the agreement of the OAG shall apply to the compulsory measures court. If the court approves the measures, the OAG shall take over the proceedings in accordance with the CrimPC.
+<sup>5</sup> In cases under paragraph 4, the Agency or the FOCBS with the agreement of the OAG shall apply to the compulsory measures court. If the court approves the measures, the OAG shall take over the proceedings in accordance with the CrimPC.
 
 [^90a-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90a-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -2504,7 +2508,7 @@ The criminal provisions of the Federal Act of 6 October 1995[^88-1] on Technical
 
 **Offences committed abroad and complex proceedings**[^90b-1]
 
-Where proceedings conducted by the Agency or the FCA relate primarily to offences committed abroad or if the proceedings prove to be so complex or time-consuming that they cannot be concluded at all or within a reasonable time using the resources available to the Agency or the FCA, the Agency or the FCA may request the OAG to take over the proceedings. The OAG shall conduct the proceedings in accordance with the CrimPC[^90b-2].
+Where proceedings conducted by the Agency or the FOCBS relate primarily to offences committed abroad or if the proceedings prove to be so complex or time-consuming that they cannot be concluded at all or within a reasonable time using the resources available to the Agency or the FOCBS, the Agency or the FOCBS may request the OAG to take over the proceedings. The OAG shall conduct the proceedings in accordance with the CrimPC[^90b-2].
 
 [^90b-1]: Inserted by Annex No 2 of the FD of 29 Sept. 2017 (Medicrime Convention), in force since 1 Jan. 2019 ([AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765); [BBl 2017 3135](https://fedlex.data.admin.ch/eli/fga/2017/649)).
 [^90b-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
