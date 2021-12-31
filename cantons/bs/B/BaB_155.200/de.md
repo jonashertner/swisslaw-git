@@ -4,13 +4,12 @@ number: BaB 155.200
 title: Reglement über die Organisation der Vorstadtgesellschaften Grossbasels
 short: Vorstadtordnung
 language: de
-version: 2018-07-19
-valid_until: 2021-12-31
-version_adopted: 2018-06-12
+version: 2022-01-01
+version_adopted: 2021-08-24
 adopted: 1990-02-20
 in_force: 1990-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20155.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4468/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Vorstadtordnung: Reglement | Basel: Bürgergemeinde
 
 (Vorstadtordnung)
 
-Vom 20. Februar 1990 (Stand 19. Juli 2018)
+Vom 20. Februar 1990 (Stand 1. Januar 2022)
 
 Der Bürgerrat der Stadt Basel,
 
@@ -67,16 +66,16 @@ Gesellschaft zur Mägd, Gesellschaft zur Krähe, Gesellschaft zu den drei Eidgen
 
 <sup>1</sup> Die Mitglieder des Vorstandes werden auf Vorschlag der Vorstadtgesellschaft vom Bürgerrat gewählt.
 
-<sup>2</sup> Wählbar ist jeder männliche und wohlbeleumdete Bürger der Stadt Basel, der das 18. Altersjahr zurückgelegt hat und nicht entmündigt ist und der ausserdem
+<sup>2</sup> Wählbar ist jede wohlbeleumdete Person, ​die das 18. Altersjahr zurückgelegt hat, das Bürgerrecht der Stadt Basel besitzt, nicht ​wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft steht und ausserdem
 
 - a) im betreffenden inneren Vorstadtbezirk wohnt oder,
-- b) wenn keine im inneren Vorstadtbezirk wohnhafte, geeignete Person zur Verfügung steht, seinen Wohnsitz im betreffenden äusseren Vorstadtbezirk hat.
+- b) wenn keine im inneren Vorstadtbezirk wohnhafte, geeignete Person zur Verfügung steht, ihren Wohnsitz im betreffenden äusseren Vorstadtbezirk hat.
 
-<sup>2<sup>bis</sup></sup> Eine Vorstadtgesellschaft kann durch Beschluss des Vorstands Frauen den Männern gleichstellen. In diesem Fall gelten die in diesem Reglement umschriebenen Rechte und Pflichten auch für Frauen.
+<sup>2<sup>bis</sup></sup> …
 
-<sup>3</sup> Mindestens zweijähriger Grundbesitz im inneren bzw. äusseren Vorstadtbezirk kann dem Wohnsitz daselbst gleichgesetzt werden, wenn dieser von persönlicher und wirtschaftlicher Bedeutung ist und der Grundeigentümer im Kanton Basel-Stadt oder Basel-Landschaft wohnt; dasselbe gilt für einen, eine Verbundenheit mit dem Vorstadtbezirk schaffenden, beruflichen Mittelpunkt.
+<sup>3</sup> Mindestens zweijähriger Grundbesitz im inneren bzw. äusseren Vorstadtbezirk kann dem Wohnsitz daselbst gleichgesetzt werden, wenn dieser von persönlicher und wirtschaftlicher Bedeutung ist und die Grundeigentümerin oder der Grundeigentümer im Kanton Basel-Stadt oder Basel-Landschaft wohnt; dasselbe gilt für einen, eine Verbundenheit mit dem Vorstadtbezirk schaffenden, beruflichen Mittelpunkt.
 
-<sup>4</sup> Jedoch dürfen Verwandte und Verschwägerte in auf- und absteigender Linie und Brüder nicht gleichzeitig Mitglieder des Vorstandes sein.
+<sup>4</sup> Jedoch dürfen Verwandte und Verschwägerte in auf- und absteigender Linie und Geschwister nicht gleichzeitig Mitglieder des Vorstandes sein.
 
 <sup>5</sup> Ein Vorstandsmitglied, für das die vorstehenden Wahlvoraussetzungen nicht mehr zutreffen, muss spätestens auf Ende seiner laufenden Amtsperiode aus dem Vorstand ausscheiden.
 
@@ -88,7 +87,7 @@ Gesellschaft zur Mägd, Gesellschaft zur Krähe, Gesellschaft zu den drei Eidgen
 
 <sup>2</sup> Alle drei Jahre finden Erneuerungswahlen statt für die im Austritt befindlichen Vorstandsmitglieder. Die Wahlvorschläge sind dem Bürgerrat jeweils bis spätestens Ende März einzureichen.
 
-<sup>3</sup> Ersatzwahlen haben mindestens stattzufinden, wenn der Vorstand nur noch fünf Mitglieder zählt; bei Ersatzwahlen tritt der Gewählte in die Amtsdauer seines Vorgängers ein.
+<sup>3</sup> Ersatzwahlen haben mindestens stattzufinden, wenn der Vorstand nur noch fünf Mitglieder zählt; bei Ersatzwahlen tritt die gewählte Person in die Amtsdauer der Vorgängerin oder des Vorgängers ein.
 
 #### § 6
 
@@ -96,17 +95,17 @@ Gesellschaft zur Mägd, Gesellschaft zur Krähe, Gesellschaft zu den drei Eidgen
 
 <sup>1</sup> Der Vorstand konstituiert sich selbst.
 
-<sup>2</sup> Er wählt aus seiner Mitte den Meister, den Statthalter, den Seckelmeister und den Schreiber sowie nach Bedarf weitere Amtsträger und umschreibt deren Pflichten.
+<sup>2</sup> Er wählt aus seiner Mitte die Meisterin oder den Meister, die Statthalterin oder den Statthalter, die Seckelmeisterin oder den Seckelmeister und die Schreiberin oder den Schreiber sowie nach Bedarf weitere Amtsträgerinnen oder Amtsträger und umschreibt deren Pflichten.
 
 <sup>3</sup> Diese Wahlen sind dem Bürgerrat innert zehn Tagen zu melden.
 
 #### § 7
 
-**Aufgabenverteilung zwischen Meister und Statthalter**
+**Aufgabenverteilung zwischen Meisterin oder Meister und Statthalterin oder Statthalter**
 
-<sup>1</sup> Der Meister führt den Vorsitz im Vorstand und leitet die Geschäfte der Vorstadtgesellschaft.
+<sup>1</sup> Die Meisterin oder der Meister führt den Vorsitz im Vorstand und leitet die Geschäfte der Vorstadtgesellschaft.
 
-<sup>2</sup> Der Statthalter erfüllt bei Verhinderung des Meisters oder bei dessen Ausscheiden bis zur Ersatzwahl dessen Aufgaben.
+<sup>2</sup> Die Statthalterin oder der Statthalter erfüllt bei Verhinderung der Meisterin bzw. des Meisters oder bei deren bzw. dessen Ausscheiden bis zur Ersatzwahl ihre oder seine Aufgaben.
 
 #### § 8
 
@@ -122,21 +121,21 @@ Gesellschaft zur Mägd, Gesellschaft zur Krähe, Gesellschaft zu den drei Eidgen
 
 **Vorstandssitzungen**
 
-<sup>1</sup> Der Meister beruft eine Vorstandssitzung (Bott) ein, wenn es die Geschäfte erfordern.
+<sup>1</sup> Die Meisterin oder der Meister beruft eine Vorstandssitzung (Bott) ein, wenn es die Geschäfte erfordern.
 
 <sup>2</sup> Zu einer Vorstandssitzung ist auch zu laden, wenn drei Vorgesetzte dies unter Angabe der Verhandlungsgegenstände unterschriftlich verlangen.
 
 <sup>3</sup> Der Vorstand ist beschlussfähig, wenn wenigstens vier Vorgesetzte anwesend sind.
 
-<sup>4</sup> Die Abstimmungen erfolgen offen und mit einfachem Mehr; der Vorsitzende, der ebenfalls stimmberechtigt ist, gibt bei Stimmengleichheit den Stichentscheid.
+<sup>4</sup> Die Abstimmungen erfolgen offen und mit einfachem Mehr; die Vorsitzende oder der Vorsitzende, die ebenfalls stimmberechtigt sind, gibt bei Stimmengleichheit den Stichentscheid.
 
-<sup>5</sup> Wahlen werden geheim durchgeführt, doch können, wenn kein Vorgesetzter Einspruch erhebt, offene Wahlen stattfinden. Gewählt ist, wer im ersten oder zweiten Wahlgang das absolute Mehr erreicht; im dritten Wahlgang entscheidet das relative Mehr, bei Stimmengleichheit das Los.
+<sup>5</sup> Wahlen werden geheim durchgeführt, doch können, wenn keine Vorgesetzen Einspruch erheben, offene Wahlen stattfinden. Gewählt ist, wer im ersten oder zweiten Wahlgang das absolute Mehr erreicht; im dritten Wahlgang entscheidet das relative Mehr, bei Stimmengleichheit das Los.
 
 #### § 10
 
 **Rücktritt eines Vorstandsmitgliedes**
 
-<sup>1</sup> Will ein Vorstandsmitglied vor Ablauf seiner Amtszeit zurücktreten, so hat es dies dem Bürgerrat und dem Meister – der Meister dem Statthalter – nach Möglichkeit wenigstens drei Monate zum Voraus anzuzeigen.
+<sup>1</sup> Will ein Vorstandsmitglied vor Ablauf seiner Amtszeit zurücktreten, so hat es dies dem Bürgerrat und der Meisterin oder dem Meister – die Meisterin bzw. der Meister der Statthalterin bzw. dem Statthalter – nach Möglichkeit wenigstens drei Monate zum Voraus anzuzeigen.
 
 ## III. Aufsicht durch den Bürgerrat
 
