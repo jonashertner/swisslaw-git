@@ -4,11 +4,11 @@ title: Verordnung vom 5. Juli 2000 über Getränkeverpackungen (VGV)
 short: VGV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/299"
 language: de
-version: 2008-01-01
+version: 2022-01-01
 adopted: 2000-07-05
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/299/20080101/de/xml/fedlex-data-admin-ch-eli-cc-2000-299-20080101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20080101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/299/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-299-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20080101/de"
 
 (VGV)
 
-vom 5. Juli 2000 (Stand am 1. Januar 2008)
+vom 5. Juli 2000 (Stand am 1. Januar 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -147,7 +147,7 @@ Keine Gebühr müssen entrichten:
 - a. Hersteller und Importeure, die Getränkeverpackungen mit einem Füllvolumen von weniger als 0,09 l abgeben oder einführen;
 - b. Hersteller und Importeure, die pro Kalenderhalbjahr weniger als 1000 Getränkeverpackungen abgeben oder einführen.
 
-[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. November 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 10
 
@@ -167,7 +167,9 @@ Keine Gebühr müssen entrichten:
 
 <sup>2</sup> Die Gebühr für die während eines Kalenderhalbjahres abgegebenen oder eingeführten Verpackungen wird jeweils 60 Tage nach dessen Ablauf fällig. Bei verspäteter Zahlung ist ein Verzugszins geschuldet; auf Vorauszahlungen kann die Organisation einen Vergütungszins gewähren.
 
-<sup>3</sup> Überträgt die Organisation die Erhebung der Gebühr der Eidgenössischen Zollverwaltung, so gilt für die Erhebung, die Fälligkeit und die Zinsen sinngemäss die Zollgesetzgebung.
+<sup>3</sup> Überträgt die Organisation die Erhebung der Gebühr dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^11-1], so gilt für die Erhebung, die Fälligkeit und die Zinsen sinngemäss die Zollgesetzgebung.
+
+[^11-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Oktober 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Januar 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 12
 
@@ -180,7 +182,10 @@ Die Organisation muss die Gebühr für folgende Tätigkeiten verwenden:
 - c. das Reinigen und Aufbereiten von Glasscherben zur Herstellung von Verpackungen und anderen Produkten;
 - d. die Information, insbesondere zur Förderung der Wiederverwendung und der Verwertung von Getränkeverpackungen aus Glas; für die Information dürfen höchstens 10 Prozent der jährlichen Gebühreneinnahmen verwendet werden;
 - e. die Rückerstattung von Gebühren (Art. 14);
-- f. ihre eigenen Tätigkeiten im Rahmen des Auftrages des BAFU.
+- f. ihre eigenen Tätigkeiten im Rahmen des Auftrages des BAFU;
+- g.[^12-1] die Deckung des Aufwands des BAFU für die Erfüllung seiner Aufgaben nach dieser Verordnung.
+
+[^12-1]: Eingefügt durch Anhang Ziff. II 1 der V vom 20. Oktober 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte, in Kraft seit 1. Januar 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 #### Art. 13
 
@@ -210,11 +215,13 @@ Die Organisation muss die Gebühr für folgende Tätigkeiten verwenden:
 
 <sup>2</sup> Das BAFU schliesst mit der Organisation jeweils für längstens fünf Jahre einen Vertrag ab. Dieser regelt insbesondere den Anteil der Gebühr, den die Organisation für ihre eigenen Tätigkeiten beanspruchen darf, sowie die Voraussetzungen und Folgen einer vorzeitigen Vertragsauflösung.
 
-<sup>3</sup> Die Organisation muss unabhängige Dritte mit der Revision betrauen. Sie muss ihnen alle erforderlichen Auskünfte erteilen und Akteneinsicht gewähren.
+<sup>3</sup> Die Organisation muss interne Kontrollen der Geschäftsführung durchführen und vom BAFU genehmigte, unabhängige Dritte mit der Prüfung der internen Kontrollergebnisse und mit der Revision betrauen. Sie muss ihnen alle erforderlichen Auskünfte erteilen und Akteneinsicht gewähren.[^15-1]
 
-<sup>4</sup> Sie kann mit der Eidgenössischen Zollverwaltung die Erhebung der Gebühr bei der Einfuhr vereinbaren. Die Eidgenössische Zollverwaltung kann sich dabei verpflichten, der Organisation die Angaben in den Zolldeklarationen sowie weitere Feststellungen im Zusammenhang mit der Ein- oder Ausfuhr von Getränkeverpackungen mitzuteilen.
+<sup>4</sup> Sie kann mit dem BAZG die Erhebung der Gebühr bei der Einfuhr vereinbaren. Das BAZG kann sich dabei verpflichten, der Organisation die Angaben in den Zolldeklarationen sowie weitere Feststellungen im Zusammenhang mit der Ein- oder Ausfuhr von Getränkeverpackungen mitzuteilen.
 
 <sup>5</sup> Die Organisation wahrt gegenüber Dritten das Geschäftsgeheimnis der Gebührenpflichtigen.
+
+[^15-1]: Fassung gemäss Anhang Ziff. II 1 der V vom 20. Oktober 2021 über die Rückgabe, die Rücknahme und die Entsorgung elektrischer und elektronischer Geräte, in Kraft seit 1. Januar 2022 ([AS 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 #### Art. 16
 
@@ -243,8 +250,8 @@ Sie muss dem BAFU jährlich bis spätestens am 31. Mai einen Bericht über ihre 
 
 <sup>2</sup> ...[^17-2]
 
-[^17-1]: Fassung gemäss Ziff. II 80 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^17-2]: Aufgehoben durch Ziff. II 80 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^17-1]: Fassung gemäss Ziff. II 80 der V vom 8. November 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Januar 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^17-2]: Aufgehoben durch Ziff. II 80 der V vom 8. November 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, mit Wirkung seit 1. Januar 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ## 5. Abschnitt: Mitteilungspflichten
 
@@ -289,8 +296,8 @@ Die Kantone vollziehen diese Verordnung, soweit der Vollzug nicht einer Bundesbe
 
 <sup>2</sup> ...[^22-2]
 
-[^22-1]: [[AS 1990 1480](https://fedlex.data.admin.ch/eli/oc/1990/1480_1480_1480), [1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505), [1998 832](https://fedlex.data.admin.ch/eli/oc/1998/832_832_832)]
-[^22-2]: Aufgehoben durch Ziff. IV 33 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^22-1]: [[AS 1990 1480](https://fedlex.data.admin.ch/eli/oc/1990/1480_1480_1480); [1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1998 832](https://fedlex.data.admin.ch/eli/oc/1998/832_832_832)]
+[^22-2]: Aufgehoben durch Ziff. IV 33 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Januar 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 23
 
@@ -300,4 +307,4 @@ Die Kantone vollziehen diese Verordnung, soweit der Vollzug nicht einer Bundesbe
 
 <sup>2</sup> Das UVEK legt das Inkrafttreten der Artikel 9–14, 16 und 17[^23-1] gleichzeitig mit dem Erlass der Verordnung über die Höhe der vorgezogenen Entsorgungsgebühr für Getränkeverpackungen aus Glas (Art. 10 Abs. 2) fest.
 
-[^23-1]: Gemäss Art. 2 der V über die Höhe der vorgezogenen Entsorgungsgebühr für Getränkeverpackungen aus Glas vom 7. Sept. 2001, in Kraft seit 1. Jan. 2002 ([SR 814.621.4](https://fedlex.data.admin.ch/eli/cc/2001/359)).
+[^23-1]: Gemäss Art. 2 der V über die Höhe der vorgezogenen Entsorgungsgebühr für Getränkeverpackungen aus Glas vom 7. September 2001, in Kraft seit 1. Januar 2002 ([SR 814.621.4](https://fedlex.data.admin.ch/eli/cc/2001/359)).

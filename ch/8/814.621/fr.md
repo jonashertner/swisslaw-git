@@ -4,11 +4,11 @@ title: Ordonnance du 5 juillet 2000 sur les emballages pour boissons (OEB)
 short: OEB
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/299"
 language: fr
-version: 2008-01-01
+version: 2022-01-01
 adopted: 2000-07-05
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/299/20080101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-299-20080101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20080101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/299/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-299-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20080101/fr"
 
 (OEB)
 
-du 5 juillet 2000 (Etat le 1<sup>er</sup> janvier 2008)
+du 5 juillet 2000 (État le 1<sup>er</sup> janvier 2022)
 
 Le Conseil fédéral suisse,
 
@@ -147,7 +147,7 @@ Sont exemptés de la taxe:
 - a. les fabricants et les importateurs qui remettent ou importent des emballages d’une contenance inférieure à 0,09 l;
 - b. les fabricants et les importateurs qui remettent ou importent moins de 1000 emballages par semestre de l’année civile.
 
-[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette modification dans tout le présent texte.
+[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 novembre 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette modification dans tout le présent texte.
 
 #### Art. 10
 
@@ -167,7 +167,9 @@ Sont exemptés de la taxe:
 
 <sup>2</sup> La taxe perçue sur les emballages remis ou importés durant un semestre de l’année civile est exigible 60 jours après la fin de ce semestre. Des intérêts moratoires sont dus en cas de retard du paiement; l’organisation peut verser un intérêt sur des paiements anticipés.
 
-<sup>3</sup> Si l’organisation délègue à l’Administration fédérale des douanes le soin de prélever la taxe, le prélèvement, l’exigibilité et les intérêts de la taxe sont soumis par analogie à la législation sur les douanes.
+<sup>3</sup> Si l’organisation délègue à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^11-1] le soin de prélever la taxe, le prélèvement, l’exigibilité et les intérêts de la taxe sont soumis par analogie à la législation sur les douanes.
+
+[^11-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 octobre 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janvier 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 12
 
@@ -180,7 +182,10 @@ L’organisation doit utiliser les recettes de la taxe pour financer les activit
 - c. le nettoyage et le traitement des tessons de verre destinés à la fabrication d’emballages ou d’autres produits;
 - d. des campagnes d’information, notamment pour favoriser la réutilisation et le recyclage des emballages en verre; le financement de ces campagnes ne doit pas représenter plus de 10 % des recettes annuelles de la taxe;
 - e. le remboursement de la taxe (art. 14);
-- f. ses propres activités dans le cadre du mandat de l’OFEV.
+- f. ses propres activités dans le cadre du mandat de l’OFEV;
+- g.[^12-1] le travail de l’OFEV pour la réalisation des tâches qui lui sont attribuées en vertu de la présente ordonnance.
+
+[^12-1]: Introduite par l’annexe ch. II 1 de l’O du 20 octobre 2021 sur la restitution, la reprise et l’élimination des appareils électriques et électroniques, en vigueur depuis le 1<sup>er</sup> janvier 2022 ([RO 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 #### Art. 13
 
@@ -210,11 +215,13 @@ L’organisation doit utiliser les recettes de la taxe pour financer les activit
 
 <sup>2</sup> L’OFEV conclut avec l’organisation un contrat d’une durée maximale de cinq ans. Ce contrat fixe notamment la part des recettes que l’organisation peut utiliser pour ses propres activités, et règle les conditions et conséquences d’une résiliation anticipée.
 
-<sup>3</sup> L’organisation est tenue de confier la révision à des tiers indépendants. Elle doit leur fournir tous les renseignements nécessaires et leur permettre de consulter les dossiers.
+<sup>3</sup> L’organisation doit réaliser des contrôles internes de sa gestion des affaires ainsi que confier l’examen des résultats des contrôles internes et la révision des comptes à des tiers indépendants reconnus par l’OFEV. Elle doit leur fournir tous les renseignements nécessaires à cette fin et leur permettre de consulter les dossiers.[^15-1]
 
-<sup>4</sup> Elle peut convenir avec l’Administration fédérale des douanes du prélèvement de la taxe à l’importation. Dans ce cas, l’Administration fédérale des douanes peut s’engager à communiquer à l’organisation les indications fournies dans les déclarations de douane ainsi que d’autres observations en rapport avec l’importation ou l’exportation d’emballages.
+<sup>4</sup> Elle peut convenir avec l’OFDF du prélèvement de la taxe à l’importation. Dans ce cas, l’OFDF peut s’engager à communiquer à l’organisation les indications fournies dans les déclarations de douane ainsi que d’autres observations en rapport avec l’importation ou l’exportation d’emballages.
 
 <sup>5</sup> L’organisation respecte vis-à-vis des tiers le secret professionnel des assujettis.
+
+[^15-1]: Nouvelle teneur selon l’annexe ch. II 1 de l’O du 20 octobre 2021 sur la restitution, la reprise et l’élimination des appareils électriques et électroniques, en vigueur depuis le 1<sup>er</sup> janvier 2022 ([RO 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 #### Art. 16
 
@@ -243,8 +250,8 @@ Elle doit remettre à l’OFEV, le 31 mai de chaque année au plus tard, un rapp
 
 <sup>2</sup> ...[^17-2]
 
-[^17-1]: Nouvelle teneur selon le ch. II 80 de l’O du 8 nov. 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
-[^17-2]: Abrogé par le ch. II 80 de l’O du 8 nov. 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^17-1]: Nouvelle teneur selon le ch. II 80 de l’O du 8 novembre 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janvier 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^17-2]: Abrogé par le ch. II 80 de l’O du 8 novembre 2006 portant adaptation d’ordonnances du Conseil fédéral à la révision totale de la procédure fédérale, avec effet au 1<sup>er</sup> janvier 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ## Section 5 Communication obligatoire
 
@@ -289,8 +296,8 @@ L’exécution de la présente ordonnance incombe aux cantons, sous réserve des
 
 <sup>2</sup> ...[^22-2]
 
-[^22-1]: [[RO 1990 1480](https://fedlex.data.admin.ch/eli/oc/1990/1480_1480_1480), [1991 40](https://fedlex.data.admin.ch/eli/oc/1991/_40_40), [1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505), [1998 832](https://fedlex.data.admin.ch/eli/oc/1998/832_832_832)]
-[^22-2]: Abrogé par le ch. IV 33 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^22-1]: [[RO 1990 1480](https://fedlex.data.admin.ch/eli/oc/1990/1480_1480_1480); [1991 40](https://fedlex.data.admin.ch/eli/oc/1991/_40_40); [1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1998 832](https://fedlex.data.admin.ch/eli/oc/1998/832_832_832)]
+[^22-2]: Abrogé par le ch. IV 33 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janvier 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 23
 
@@ -300,4 +307,4 @@ L’exécution de la présente ordonnance incombe aux cantons, sous réserve des
 
 <sup>2</sup> Le DETEC fixera l’entrée en vigueur des art. 9 à 14, 16 et 17[^23-1] lorsqu’il édictera l’ordonnance sur le montant de la taxe d’élimination anticipée sur les emballages en verre (art. 10, al. 2).
 
-[^23-1]: Ces articles entrent en vigueur le 1<sup>er</sup> janv. 2002 (art. 2 de l’O du 7 sept. 2001 relative au montant de la taxe d’élimination anticipée sur les bouteilles en verre pour boissons – [RS 814.621.4](https://fedlex.data.admin.ch/eli/cc/2001/359)).
+[^23-1]: Ces articles entrent en vigueur le 1<sup>er</sup> janvier 2002 (art. 2 de l’O du 7 septembre 2001 relative au montant de la taxe d’élimination anticipée sur les bouteilles en verre pour boissons – [RS 814.621.4](https://fedlex.data.admin.ch/eli/cc/2001/359)).

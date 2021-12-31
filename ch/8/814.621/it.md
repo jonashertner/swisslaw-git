@@ -4,11 +4,11 @@ title: Ordinanza del 5 luglio 2000 sugli imballaggi per bevande (OIB)
 short: OIB
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/299"
 language: it
-version: 2008-01-01
+version: 2022-01-01
 adopted: 2000-07-05
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/299/20080101/it/xml/fedlex-data-admin-ch-eli-cc-2000-299-20080101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20080101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/299/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2000-299-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/299/20080101/it"
 
 (OIB)
 
-del 5 luglio 2000 (Stato 1° gennaio 2008)
+del 5 luglio 2000 (Stato 1° gennaio 2022)
 
 Il Consiglio federale svizzero,
 
@@ -167,7 +167,9 @@ Non devono versare alcuna tassa:
 
 <sup>2</sup> La tassa sugli imballaggi consegnati o importati durante un semestre civile è esigibile 60 giorni dopo la scadenza del semestre. In caso di pagamento ritardato viene addebitato un interesse di mora; sui pagamenti anticipati l’organizzazione può accordare un interesse remunerativo.
 
-<sup>3</sup> Se l’organizzazione affida all’Amministrazione federale delle dogane il prelievo della tassa, per il prelievo, la scadenza e gli interessi si applica per analogia la legislazione sulle dogane.
+<sup>3</sup> Se l’organizzazione affida all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^11-1] il prelievo della tassa, per il prelievo, la scadenza e gli interessi si applica per analogia la legislazione sulle dogane.
+
+[^11-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 12
 
@@ -180,7 +182,10 @@ L’organizzazione deve impiegare la tassa per le seguenti attività:
 - c. la pulizia e il condizionamento delle schegge di vetro per la fabbricazione di imballaggi e altri prodotti;
 - d. l’informazione, in particolare mirata a promuovere la riutilizzazione e il riciclaggio degli imballaggi per bevande in vetro; per le attività d’informazione può essere impiegato al massimo il 10 per cento dei proventi totali annui della tassa;
 - e. il rimborso delle tasse (art. 14);
-- f. le attività proprie svolte nell’ambito del mandato dell’UFAM.
+- f. le attività proprie svolte nell’ambito del mandato dell’UFAM;
+- g.[^12-1] il finanziamento degli oneri dell’UFAM derivanti dall’adempimento dei suoi compiti secondo la presente ordinanza.
+
+[^12-1]: Introdotto dall’all. n. II 1 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici, in vigore dal 1° gen. 2022 ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 #### Art. 13
 
@@ -210,11 +215,13 @@ L’organizzazione deve impiegare la tassa per le seguenti attività:
 
 <sup>2</sup> L’UFAM stipula di volta in volta per un periodo massimo di cinque anni un contratto con l’organizzazione. Il contratto stabilisce in particolare la parte della tassa che l’organizzazione può utilizzare per lo svolgimento delle proprie attività, nonché le condizioni e le conseguenze di uno scioglimento anticipato del contratto.
 
-<sup>3</sup> L’organizzazione deve affidare la revisione a terzi indipendenti. Deve fornire loro tutte le informazioni necessarie e garantire loro la consultazione degli atti.
+<sup>3</sup> L’organizzazione deve eseguire controlli interni dell’organo di gestione direzione e affidare la verifica dei risultati dei controlli interni e la revisione a terzi indipendenti e autorizzati dall’UFAM. Deve fornire loro tutte le informazioni necessarie e garantire loro la consultazione degli atti.[^15-1]
 
-<sup>4</sup> L’organizzazione può concordare con l’Amministrazione federale delle dogane il prelievo della tassa all’importazione. A tale riguardo, l’Amministrazione federale delle dogane può impegnarsi a comunicare all’organizzazione i dati figuranti nelle dichiarazioni doganali e altre constatazioni in relazione all’importazione o all’esportazione d’imballaggi per bevande.
+<sup>4</sup> L’organizzazione può concordare con l’UDSC il prelievo della tassa all’impor-tazione. A tale riguardo, l’UDSC può impegnarsi a comunicare all’organizzazione i dati figuranti nelle dichiarazioni doganali e altre constatazioni in relazione all’importazione o all’esportazione d’imballaggi per bevande.
 
 <sup>5</sup> L’organizzazione tutela contro terzi il segreto d’affari degli assoggettati alla tassa.
+
+[^15-1]: Nuovo testo giusta l’all. n. II 1 dell’O del 20 ott. 2021 concernente la restituzione, la ripresa e lo smaltimento degli apparecchi elettrici ed elettronici, in vigore dal 1° gen. 2022 ([RU 2021 633](https://fedlex.data.admin.ch/eli/oc/2021/633)).
 
 #### Art. 16
 
@@ -289,7 +296,7 @@ L’esecuzione della presente ordinanza spetta ai Cantoni, nella misura in cui e
 
 <sup>2</sup> ...[^22-2]
 
-[^22-1]: [[RU 1990 1480](https://fedlex.data.admin.ch/eli/oc/1990/1480_1480_1480), [1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505), [1998 832](https://fedlex.data.admin.ch/eli/oc/1998/832_832_832)]
+[^22-1]: [[RU 1990 1480](https://fedlex.data.admin.ch/eli/oc/1990/1480_1480_1480); [1995 5505](https://fedlex.data.admin.ch/eli/oc/1995/5505_5505_5505); [1998 832](https://fedlex.data.admin.ch/eli/oc/1998/832_832_832)]
 [^22-2]: Abrogato dal n. IV 33 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 23
