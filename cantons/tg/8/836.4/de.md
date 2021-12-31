@@ -4,22 +4,23 @@ number: "836.4"
 title: Gesetz über die Inkassohilfe für familienrechtliche Unterhaltsbeiträge und die Bevorschussung von Kinderalimenten
 short: AliG
 language: de
-version: 2013-01-01
-valid_until: 2021-12-31
-version_adopted: 2012-02-29
+version: 2022-01-01
+version_adopted: 2021-05-05
 adopted: 2007-03-07
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/836.4"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/605/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2287/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Inkassohilfe für familienrechtliche Unterhaltsbeiträge und die Bevorschussung von Kinderalimenten
 
-G Inkassohilfe für familienrechtliche Unterhaltsbeiträge (AliG)
+AliG
 
-vom 07.03.2007 (Stand 01.01.2013)
+(AliG)
+
+vom 07.03.2007 (Stand 01.01.2022)
 
 ## 1. Allgemeines
 
@@ -63,18 +64,18 @@ vom 07.03.2007 (Stand 01.01.2013)
 
 **Voraussetzungen**
 
-<sup>1</sup> Gehen elterliche Unterhaltsbeiträge für minderjährige Kinder nicht rechtzeitig ein, kann bei der zuständigen Gemeinde ein Vorschuss verlangt werden. Der Unterhaltsbeitrag muss in einem rechtskräftigen Urteil oder in einem von der Kindes- und Erwachsenenschutzbehörde genehmigten Vertrag festgesetzt sein.
+<sup>1</sup> Gehen elterliche Unterhaltsbeiträge für Kinder, die bis zum 25. Altersjahr keine angemessene Ausbildung abgeschlossen haben, nicht rechtzeitig ein, kann bei der zuständigen Gemeinde ein Vorschuss verlangt werden. Der Unterhaltsbeitrag muss in einem rechtskräftigen Urteil oder in einem von der Kindes- und Erwachsenenschutzbehörde genehmigten Vertrag festgesetzt sein.
 
 <sup>2</sup> Der Vorschuss wird ausgerichtet, soweit die anrechenbaren Einnahmen
 
 - 1\. des nicht zu Unterhaltszahlungen verpflichteten Elternteils, bei dem das Kind wohnt, und
 - 2\. des Kindes, sowie
 - 3\. des Stiefelternteils, oder
-- 4\. des Lebenspartners oder der Lebenspartnerin die anerkannten Ausgaben nicht decken oder nicht gute Vermögensverhältnisse vorliegen. Die anrechenbaren Einnahmen sowie die anerkannten Ausgaben bestimmen sich nach der Gesetzgebung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^6-1], wobei die Erwerbseinkünfte zu 100 Prozent abzüglich eines monatlichen Freibetrags von Fr. 400.– pro Haushalt angerechnet werden.
+- 4\. des Lebenspartners oder der Lebenspartnerin die anerkannten Ausgaben nicht decken oder nicht gute Vermögensverhältnisse vorliegen. Die anrechenbaren Einnahmen sowie die anerkannten Ausgaben bestimmen sich nach der Gesetzgebung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^6-1], wobei die Erwerbseinkünfte zu 100 Prozent abzüglich eines monatlichen Freibetrags von Fr. 400 pro Haushalt angerechnet werden.
 
 <sup>3</sup> Lebt der nicht zu Unterhaltszahlungen verpflichtete Elternteil länger als ein Jahr mit einem Partner oder einer Partnerin in Wohngemeinschaft, gelten diese als dessen Lebenspartner oder Lebenspartnerin.
 
-[^6-1]: [831.3](https://www.rechtsbuch.tg.ch/data/831.3/de); SR [831.30](https://db.clex.ch/link/Bund/831.30/de); SR [831.301](https://db.clex.ch/link/Bund/831.301/de)
+[^6-1]: RB [831.3](https://www.rechtsbuch.tg.ch/data/831.3/de); SR [831.30](https://db.clex.ch/link/Bund/831.30/de); SR [831.301](https://db.clex.ch/link/Bund/831.301/de)
 
 #### § 7
 
@@ -93,7 +94,7 @@ vom 07.03.2007 (Stand 01.01.2013)
 - 1\. das Kind seinen gewöhnlichen Aufenthalt im Ausland hat;
 - 2\. das Kind seinen Unterhalt selbst bestreiten kann;
 - 3\. der Unterhalt des Kindes rechtsverbindlich anderweitig gesichert ist;
-- 4\. das Kind dauernd bei keinem der beiden Elternteile wohnt;
+- 4\. das minderjährige Kind dauernd bei keinem der beiden Elternteile wohnt;
 - 5\. die Eltern des Kindes zusammen wohnen.
 
 #### § 9
@@ -118,9 +119,7 @@ vom 07.03.2007 (Stand 01.01.2013)
 
 #### § 11
 
-**Änderung bisherigen Rechtes**
-
-<sup>1</sup> Die §§ 13 bis 16 des Gesetzes über die öffentliche Sozialhilfe vom 29. März 1984 werden aufgehoben.
+**…**
 
 #### § 12
 
@@ -130,10 +129,6 @@ vom 07.03.2007 (Stand 01.01.2013)
 
 #### § 13
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^13-1].
-
-[^13-1]: In Kraft gesetzt auf den 1. Januar 2008.
+**…**
 
 ABl. 11/2007
