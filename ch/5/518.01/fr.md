@@ -3,18 +3,18 @@ sr: "518.01"
 title: "Ordonnance du DDPS du 29 novembre 2013 sur l'identification militaire"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/790"
 language: fr
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/790/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-790-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/790/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/790/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-790-20220101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/790/20220101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DDPS sur l’identification militaire
 
-du 29 novembre 2013 (Etat le 1<sup>er</sup> janvier 2019)
+du 29 novembre 2013 (État le 1<sup>er</sup> janvier 2022)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS), en accord avec le Département fédéral des finances,
 
@@ -22,7 +22,7 @@ vu l’art. 1 de l’arrêté du Conseil fédéral du 29 août 1952 concernant l
 
 arrête:
 
-[^ingress-1]: [RS 518.0](https://fedlex.data.admin.ch/eli/cc/1952/624_640_642)
+[^ingress-1]: [RS 518.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7575)
 
 ## Section 1 Dispositions générales
 
@@ -46,13 +46,13 @@ Les cartes et la plaque d’identité sont remises en application:
 - f. du Protocole additionnel du 8 juin 1977 aux Conventions de Genève du 12 août 1949 relatif à la protection des victimes des conflits armés non internationaux[^2-6];
 - g. du Protocole additionnel du 8 décembre 2005 aux Conventions de Genève du 12 août 1949 relatif à l’adoption d’un signe distinctif additionnel[^2-7].
 
-[^2-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180)
-[^2-2]: [RS 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205)
-[^2-3]: [RS 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226)
-[^2-4]: [RS 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^2-5]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
-[^2-6]: [RS 0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
-[^2-7]: [RS 0.518.523](https://fedlex.data.admin.ch/eli/cc/2007/38)
+[^2-1]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960)
+[^2-2]: [RS 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964)
+[^2-3]: [RS 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966)
+[^2-4]: [RS 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^2-5]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
+[^2-6]: [RS 0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
+[^2-7]: [RS 0.518.523](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1970)
 
 #### Art. 3
 
@@ -86,13 +86,13 @@ Le contenu et la forme des cartes et de la plaque d’identité doivent répondr
 
 La carte d’identité grise contient les informations suivantes:
 
-- a. le numéro d’assuré comme numéro matricule;
+- a. le numéro AVS[^5-1] comme numéro matricule;
 - b. le nom;
 - c. le prénom ou, s’il y a plusieurs prénoms, le prénom usuel;
 - d. la date de naissance avec le jour, le mois, l’année;
 - e. le grade militaire ou, le cas échéant, la fonction d’officier;
 - f. la signature;
-- g. le timbre du commandement de l’Instruction[^5-1].
+- g. le timbre du commandement de l’Instruction[^5-2].
 
 <sup>2</sup>
 
@@ -103,7 +103,8 @@ La carte d’identité bleue contient en sus les informations suivantes:
 - c. une photo passeport récente;
 - d. la fonction militaire, dans la mesure où celle-ci donne droit à l’obtention de la carte d’identité bleue.
 
-[^5-1]: Nouvelle expression selon le ch. I de l’O du DDPS du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-1]: Nouvelle expression selon l’annexe ch. II 22 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^5-2]: Nouvelle expression selon le ch. I de l’O du DDPS du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 6
 
@@ -115,7 +116,7 @@ La plaque d’identité contient les informations suivantes:
 
   au recto:
 
-  - 1\. le numéro d’assuré comme numéro matricule,
+  - 1\. le numéro AVS comme numéro matricule,
   - 2\. le nom,
   - 3\. le prénom ou, s’il y a plusieurs prénoms, le prénom usuel,
   - 4\. la date de naissance avec le jour, le mois, l’année;
@@ -196,7 +197,7 @@ Reçoivent une plaque d’identité:
 
 <sup>7</sup> Les cartes et la plaque d’identité ne sont remises au personnel des entreprises privées et des exploitations et établissements militaires qu’au moment où l’exploitation militaire est ordonnée. Les entreprises privées ainsi que les exploitations et les établissements militaires sont compétents pour assurer leur remise.
 
-[^9-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^9-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)).
 
 #### Art. 10
@@ -209,7 +210,7 @@ Reçoivent une plaque d’identité:
 
 #### Art. 11
 
-**Emission de nouvelles cartes et d’une nouvelle plaque d’identité en cas de modification des données personnelles**
+**Émission de nouvelles cartes et d’une nouvelle plaque d’identité en cas de modification des données personnelles**
 
 <sup>1</sup> En cas de modification des données personnelles, le commandement de l’Instruction émet gratuitement de nouvelles cartes et une nouvelle plaque d’identité.
 
@@ -217,7 +218,7 @@ Reçoivent une plaque d’identité:
 
 <sup>3</sup> Les changements de grade ou de fonction d’officier sur les cartes d’identité sont effectués par l’organe compétent en matière de tâches de contrôle, conformément aux art. 102 à 105 de l’ordonnance du 22 novembre 2017 sur les obligations militaires[^11-1].[^11-2]
 
-[^11-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^11-1]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)).
 
 #### Art. 12
@@ -235,7 +236,9 @@ Les cartes et plaques d’identité perdues ou détériorées sont remplacées. 
 
 **Retrait**
 
-<sup>1</sup> En cas de retrait de l’équipement personnel, il y a lieu de procéder comme suit.
+<sup>1</sup>
+
+En cas de retrait de l’équipement personnel, il y a lieu de procéder comme suit:
 
 - a. lors de la libération du service militaire, les cartes d’identité sont détruites;
 - b. après un service actif, les cartes d’identité sont conservées avec l’équipement personnel.
@@ -244,7 +247,7 @@ Les cartes et plaques d’identité perdues ou détériorées sont remplacées. 
 
 <sup>3</sup> La plaque d’identité n’est pas retirée.
 
-## Section 4 Etablissement
+## Section 4 Établissement
 
 #### Art. 14
 

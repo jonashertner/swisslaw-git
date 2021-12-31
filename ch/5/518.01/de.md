@@ -3,18 +3,18 @@ sr: "518.01"
 title: Verordnung des VBS vom 29. November 2013 über die militärische Identifikation
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/790"
 language: de
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/790/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2013-790-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/790/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/790/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-790-20220101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/790/20220101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des VBS über die militärische Identifikation
 
-vom 29. November 2013 (Stand am 1. Januar 2019)
+vom 29. November 2013 (Stand am 1. Januar 2022)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS), im Einvernehmen mit dem Eidgenössischen Finanzdepartement,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 1 des Bundesratsbeschlusses vom 29. August 1952[^ingress-1
 
 verordnet:
 
-[^ingress-1]: [SR 518.0](https://fedlex.data.admin.ch/eli/cc/1952/624_640_642)
+[^ingress-1]: [SR 518.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7575)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -46,13 +46,13 @@ Die Identitätskarten und die Erkennungsmarke werden abgegeben in Anwendung:
 - f. des Zusatzprotokolls vom 8. Juni 1977[^2-6] zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer nicht internationaler bewaffneter Konflikte;
 - g. des Zusatzprotokolls vom 8. Dezember 2005[^2-7] zu den Genfer Abkommen vom 12. August 1949 über die Annahme eines zusätzlichen Schutzzeichens.
 
-[^2-1]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180)
-[^2-2]: [SR 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205)
-[^2-3]: [SR 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226)
-[^2-4]: [SR 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^2-5]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
-[^2-6]: [SR 0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
-[^2-7]: [SR 0.518.523](https://fedlex.data.admin.ch/eli/cc/2007/38)
+[^2-1]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960)
+[^2-2]: [SR 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964)
+[^2-3]: [SR 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966)
+[^2-4]: [SR 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^2-5]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
+[^2-6]: [SR 0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
+[^2-7]: [SR 0.518.523](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1970)
 
 #### Art. 3
 
@@ -86,13 +86,13 @@ Die Identitätskarten und die Erkennungsmarke haben inhaltlich und in der Form d
 
 Die graue Identitätskarte enthält:
 
-- a. die Versichertennummer als Matrikelnummer;
+- a. die AHV-Nummer[^5-1] als Matrikelnummer;
 - b. den Namen;
 - c. den Vornamen, bei mehr als einem Vornamen nur den Rufnamen;
 - d. das Geburtsdatum mit Tag, Monat und Jahr;
 - e. den militärischen Grad oder gegebenenfalls die Offiziersfunktion;
 - f. die Unterschrift;
-- g. den Stempel des Kommandos Ausbildung[^5-1].
+- g. den Stempel des Kommandos Ausbildung[^5-2].
 
 <sup>2</sup>
 
@@ -103,7 +103,8 @@ Die blaue Identitätskarte enthält zusätzlich:
 - c. ein Passbild neueren Datums;
 - d. die militärische Funktion, sofern diese zum Erhalt der blauen Karte berechtigt.
 
-[^5-1]: Ausdruck gemäss Ziff. I der V des VBS vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^5-1]: Ausdruck gemäss Anhang Ziff. II 22 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^5-2]: Ausdruck gemäss Ziff. I der V des VBS vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 6
 
@@ -115,7 +116,7 @@ Die Erkennungsmarke enthält:
 
   auf der Vorderseite:
 
-  - 1\. die Versichertennummer als Matrikelnummer,
+  - 1\. die AHV-Nummer als Matrikelnummer,
   - 2\. den Namen,
   - 3\. den Vornamen, bei mehr als einem Vornamen nur den Rufnamen,
   - 4\. das Geburtsdatum mit Tag, Monat und Jahr;
@@ -196,7 +197,7 @@ Eine Erkennungsmarke erhalten:
 
 <sup>7</sup> Dem Personal von privaten Unternehmen, militärischen Anstalten und Betrieben werden die Identitätskarten und die Erkennungsmarke erst nach Anordnung des militärischen Betriebs abgegeben. Für die Abgabe sind die privaten Unternehmen sowie die militärischen Anstalten und Betriebe zuständig.
 
-[^9-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^9-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^9-2]: Fassung gemäss Ziff. I der V des VBS vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)).
 
 #### Art. 10
@@ -217,7 +218,7 @@ Eine Erkennungsmarke erhalten:
 
 <sup>3</sup> Änderungen im Grad oder in der Offiziersfunktion werden auf den Identitätskarten durch die für die Kontrollaufgaben zuständige Stelle nach den Artikeln 102–105 der Verordnung vom 22. November 2017[^11-1] über die Militärdienstpflicht vorgenommen.[^11-2]
 
-[^11-1]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^11-1]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^11-2]: Fassung gemäss Ziff. I der V des VBS vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)).
 
 #### Art. 12

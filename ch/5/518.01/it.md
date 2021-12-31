@@ -3,18 +3,18 @@ sr: "518.01"
 title: "Ordinanza del DDPS del 29 novembre 2013 sull'identificazione militare"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/790"
 language: it
-version: 2019-01-01
+version: 2022-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/790/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2013-790-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/790/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/790/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2013-790-20220101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/790/20220101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DDPS sull’identificazione militare
 
-del 29 novembre 2013 (Stato 1° gennaio 2019)
+del 29 novembre 2013 (Stato 1° gennaio 2022)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS), d’intesa con il Dipartimento federale delle finanze,
 
@@ -22,7 +22,7 @@ visto l’articolo 1 del decreto del Consiglio federale del 29 agosto 1952[^ingr
 
 ordina:
 
-[^ingress-1]: [RS 518.0](https://fedlex.data.admin.ch/eli/cc/1952/624_640_642)
+[^ingress-1]: [RS 518.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7575)
 
 ## Sezione 1: Disposizioni generali
 
@@ -46,13 +46,13 @@ Le tessere d’identità e la targhetta di riconoscimento sono consegnate in app
 - f. del Protocollo aggiuntivo dell’8 giugno 1977[^2-6] alle Convenzioni di Ginevra del 12 agosto 1949 relativo alla protezione delle vittime dei conflitti armati non internazionali;
 - g. del Protocollo aggiuntivo dell’8 dicembre 2005[^2-7] alle Convenzioni di Ginevra del 12 agosto 1949 relativo all’adozione di un segno distintivo addizionale.
 
-[^2-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180)
-[^2-2]: [RS 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205)
-[^2-3]: [RS 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226)
-[^2-4]: [RS 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^2-5]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
-[^2-6]: [RS 0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
-[^2-7]: [RS 0.518.523](https://fedlex.data.admin.ch/eli/cc/2007/38)
+[^2-1]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960)
+[^2-2]: [RS 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964)
+[^2-3]: [RS 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966)
+[^2-4]: [RS 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
+[^2-5]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
+[^2-6]: [RS 0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969)
+[^2-7]: [RS 0.518.523](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1970)
 
 #### Art. 3
 
@@ -86,13 +86,13 @@ Il contenuto e la forma delle tessere d’identità e della targhetta di riconos
 
 La tessera d’identità grigia contiene:
 
-- a. il numero d’assicurato come numero di matricola;
+- a. il numero AVS[^5-1] come numero di matricola;
 - b. il cognome;
 - c. il nome; in caso di più nomi, solo quello usuale;
 - d. la data di nascita con giorno, mese, anno;
 - e. il grado militare o eventualmente la funzione d’ufficiale;
 - f. la firma;
-- g. il bollo del Comando Istruzione[^5-1].
+- g. il bollo del Comando Istruzione[^5-2].
 
 <sup>2</sup>
 
@@ -103,7 +103,8 @@ La tessera d’identità blu contiene inoltre:
 - c. una fotografia recente, formato passaporto;
 - d. la funzione militare, se dà diritto alla tessera blu.
 
-[^5-1]: Nuova espr. giusta il n. I dell’O del DDPS del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-1]: Nuova espr. giusta l’all. n. II 22 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^5-2]: Nuova espr. giusta il n. I dell’O del DDPS del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 6
 
@@ -115,7 +116,7 @@ La targhetta di riconoscimento contiene:
 
   sul recto:
 
-  - 1\. il numero d’assicurato come numero di matricola,
+  - 1\. il numero AVS come numero di matricola,
   - 2\. il cognome,
   - 3\. il nome; in caso di più nomi, solo quello usuale,
   - 4\. la data di nascita con giorno, mese, anno;
@@ -137,7 +138,7 @@ I dati delle tessere d’identità e della targhetta di riconoscimento devono co
 
 **Raccolta dei dati**
 
-<sup>1</sup> I dati necessari per le tessere d’identità e la targhetta di riconoscimento sono ottenuti dal Sistema di gestione del personale dell’esercito e della protezione civile (PISA). [^8-1]
+<sup>1</sup> I dati necessari per le tessere d’identità e la targhetta di riconoscimento sono ottenuti dal Sistema di gestione del personale dell’esercito e della protezione civile (PISA).[^8-1]
 
 <sup>2</sup> I dati di persone non registrate nel PISA sono raccolti presso le aziende militari.
 
@@ -196,7 +197,7 @@ Ricevono una targhetta di riconoscimento:
 
 <sup>7</sup> La tessera d’identità e la targhetta di riconoscimento sono consegnate al personale di imprese private e di stabilimenti e aziende militari soltanto dopo che è stato decretato l’esercizio militare. La consegna compete alle imprese private nonché agli stabilimenti e alle aziende militari.
 
-[^9-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^9-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^9-2]: Nuovo testo giusta il n. I dell’O del DDPS del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)).
 
 #### Art. 10
@@ -217,7 +218,7 @@ Ricevono una targhetta di riconoscimento:
 
 <sup>3</sup> I cambiamenti di grado o di funzione d’ufficiale sono iscritti nelle tessere d’identità dall’organo competente per i compiti di controllo secondo gli articoli 102–105 dell’ordinanza del 22 novembre 2017[^11-1] concernente l’obbligo di prestare servizio militare.[^11-2]
 
-[^11-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^11-1]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 [^11-2]: Nuovo testo giusta il n. I dell’O del DDPS del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4937](https://fedlex.data.admin.ch/eli/oc/2018/776)).
 
 #### Art. 12
